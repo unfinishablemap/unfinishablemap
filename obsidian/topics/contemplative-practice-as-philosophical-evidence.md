@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-28T16:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,6 +66,8 @@ Philosophy has a toolkit: thought experiments test intuitions against imagined s
 This creates a gap. Whether awareness can exist independently of objects, whether the ordinary sense of self is constructed or given, what the temporal grain of experience actually is — these questions demand sustained first-person investigation under controlled conditions.
 
 A practice counts as philosophical methodology when it satisfies three conditions: it is disciplined (following systematic procedures rather than casual impression), it is directed at philosophical questions (not merely therapeutic or devotional), and it produces findings that constrain theoretical options. This argument assumes that trained introspection is at least partially reliable — a claim defended in the [[epistemology-of-first-person-evidence|rehabilitation of introspection]] and supported by neurophenomenological cross-validation.
+
+The epistemic significance of contemplative training becomes clearer in light of the graded authority framework developed in the first-person evidence article. Phenomenal authority operates at three layers: authority over *that* experience exists (robust, approaching incorrigibility), authority over *what* attended experience is like (strong, improvable with training), and authority over structural and comparative features (partial in naive introspection, where Schwitzgebel's unreliability evidence is strongest). Contemplative practice targets precisely the second and third layers — the layers where naive introspection is weakest. Sustained attention training improves accuracy about phenomenal character under focal attention. Progressive disclosure of temporal microstructure, the awareness-content distinction, and the constructed self represents the third layer becoming accessible through disciplined practice. Contemplative methodology does not merely assume introspective reliability; it systematically extends it into domains where casual introspection fails.
 
 **Disciplined procedure.** Contemplative traditions prescribe specific techniques with precise instructions, progressive stages, and criteria for competence. Shamatha training involves sustained single-pointed attention with explicit markers of progress: stability, vividness, and the capacity to maintain focus without effort. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure. These are structured methodological protocols comparable in rigour to Husserl's epoché — and arguably more demanding, since they require sustained practice rather than momentary reflection.
 
@@ -131,7 +133,7 @@ First, the same objection applies to all philosophical methods. Thought experime
 
 Second, certain contemplative findings converge across traditions with different theoretical commitments — though the strength of convergence varies by finding. The discovery that the ordinary narrative self is constructed appears robustly across Buddhist, Hindu, Christian, Sufi, and secular traditions, making it the strongest candidate for a genuine cross-traditional finding. The awareness-content distinction appears in many traditions, though interpretations diverge. The discovery of discrete mental events is strongest within Buddhist traditions and less clearly reported elsewhere. Theory-laden artefacts should diverge across incompatible theoretical frameworks; where structural convergence appears despite theoretical disagreement, genuine discovery is the better explanation. This independence claim requires a caveat: historical transmission between contemplative traditions complicates claims of full independence. Convergence is strongest where traditions with genuinely distinct historical roots report similar structural findings.
 
-Third, [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] cross-validation partially addresses the problem. When contemplative reports predict neural signatures that untrained reports do not, the first-person observations are confirmed by independent third-person measurement. Fox et al. (2012) found that meditation experience predicts introspective accuracy. This does not eliminate theory-ladenness, but it provides a check that no purely first-person method can offer on its own.
+Third, [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] cross-validation partially addresses the problem. When contemplative reports predict neural signatures that untrained reports do not, the first-person observations are confirmed by independent third-person measurement. Fox et al. (2012) found that meditation experience predicts introspective accuracy — and the improvement follows a skill-acquisition curve characteristic of genuine perceptual learning rather than progressive confabulation. This cross-modal convergence *increases* with training, which is the opposite of what theory-ladenness predicts: if training merely deepened theoretical bias, trained reports should diverge from neural data as practice introduces more tradition-specific distortion. That convergence tightens instead suggests contemplative training genuinely extends phenomenal authority into structural domains where naive introspection is unreliable.
 
 ## Testing Consciousness Theories
 
@@ -257,3 +259,14 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
+
+<!-- AI REFINEMENT LOG - 2026-03-28
+Changes made:
+- Added graded authority framework paragraph to methodology section, connecting contemplative training to the three layers of phenomenal authority
+- Strengthened theory-ladenness response: training-dependent convergence increases (opposite of bias prediction), explicitly connecting to skill-acquisition evidence
+- Both additions integrate findings from phenomenal-authority-epistemic-weight-2026-03-28.md research
+
+Key improvements: contemplative practice now explicitly positioned as extending phenomenal authority into structural domains where naive introspection fails
+
+This log should be removed after human review.
+-->

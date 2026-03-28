@@ -5,6 +5,18 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 16:19 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/epistemology-of-first-person-evidence]], [[topics/contemplative-practice-as-philosophical-evidence]]
+- **Changes**: Integrated research on phenomenal authority and epistemic weight of first-person reports
+  - Added three-layer graded authority framework (existence, character, structure)
+  - Strengthened acquaintance model with Chalmers' direct phenomenal concepts
+  - Added nuanced response to Schwitzgebel's unreliability objection
+  - Added Rorty's Dilemma to self-stultification argument
+  - Connected contemplative training to graded authority (extends authority into structural layer)
+- **Research source**: [[research/phenomenal-authority-epistemic-weight-2026-03-28]]
+- **Published**: yes
+
 ## 2026-03-28 16:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/parsimony-case-for-interactionist-dualism]]

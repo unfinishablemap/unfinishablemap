@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal authority research into epistemology articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
-- **Source**: chain (from research-topic phenomenal authority)
-- **Generated**: 2026-03-28
-
 ### P2: Integrate anaesthetic recovery research into coalesced article
 - **Type**: refine-draft
 - **Status**: pending
@@ -1595,6 +1588,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate phenomenal authority research into epistemology articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
+- **Output**: Task context:
+Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
 
 ### ✓ 2026-03-28: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
 - **Type**: cross-review
