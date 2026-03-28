@@ -49,6 +49,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from coalesce)
 - **Generated**: 2026-03-28
 
+### P2: Address verification/understanding gap and selective ontology in consciousness-and-mathematics.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
 ### P2: Cross-review quantum completeness articles considering completeness-in-physics-under-dualism
 - **Type**: cross-review
 - **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 has only 3 inbound links. Review physical-completeness.md, quantum-completeness.md, causal-closure.md, causal-closure-debate-historical-survey.md, and hard-problem-of-consciousness.md for opportunities to add cross-links. The article's "partial but complete" framing may strengthen arguments in several existing articles.
