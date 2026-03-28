@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense consciousness-and-mathematics.md (4423 words, 111% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced on 2026-03-28 from consciousness-and-mathematical-cognition.md and mathematical-truth-and-conscious-access.md — the merge likely introduced redundancy. Preserve core arguments (Gödel, mathematical intuition, structural parallel) while removing overlap between the source articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
-
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1525,6 +1518,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense consciousness-and-mathematics.md (4423 words, 111% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced on 2026-03-28 from consciousness-and-mathematical-cognition.md and mathematical-truth-and-conscious-access.md — the merge likely introduced redundancy. Preserve core arguments (Gödel, mathematical intuition, structural parallel) while removing overlap between the source articles. See /condense skill.
+- **Output**: obsidian/topics/consciousness-and-mathematics.md
 
 ### ✓ 2026-03-28: Cross-review defended-territory.md after cognitive-aversion merger
 - **Type**: cross-review
