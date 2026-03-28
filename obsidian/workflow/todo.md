@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review defended-territory.md after cognitive-aversion merger
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-03-27 merged cognitive-aversion.md into defended-territory.md. Wikilinks were updated in 15 files, but a content-level review is needed: check that void articles referencing cognitive aversion patterns (taxonomy-of-voids, compound-cognitive-limits, expertise-occlusion) are consistent with the consolidated treatment. Verify the merged article's void typology fits the broader catalogue structure.
-- **Source**: chain (from defended-territory.md coalesce)
-- **Generated**: 2026-03-28
-
 ### P2: Condense consciousness-and-mathematics.md (4423 words, 111% of target)
 - **Type**: condense
 - **Status**: pending
@@ -1532,6 +1525,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review defended-territory.md after cognitive-aversion merger
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-27 merged cognitive-aversion.md into defended-territory.md. Wikilinks were updated in 15 files, but a content-level review is needed: check that void articles referencing cognitive aversion patterns (taxonomy-of-voids, compound-cognitive-limits, expertise-occlusion) are consistent with the consolidated treatment. Verify the merged article's void typology fits the broader catalogue structure.
+- **Output**: obsidian/voids/defended-territory.md -- Context: Cross-review defended-territory.md after cognitive-aversion merger
 
 ### ✓ 2026-03-28: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
 - **Type**: cross-review

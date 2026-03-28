@@ -1,12 +1,12 @@
 ---
 title: "Defended Territory"
-description: "The Occluded category in the voids framework: thoughts prevented not by architectural limitation but by active resistance—from psychological defence mechanisms and motivational deflection to the possibility of externally imposed cognitive blocks."
+description: "Thoughts prevented not by architectural limitation but by active resistance—defence mechanisms, motivational deflection, and possibly externally imposed cognitive blocks."
 created: 2026-01-25
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-03-27T21:02:00+00:00
+ai_modified: 2026-03-28T05:57:00+00:00
 draft: false
-last_deep_review: 2026-03-26T14:53:00+00:00
+last_deep_review: 2026-03-28T05:57:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[compound-failure-signatures]]"
   - "[[complicity-void]]"
+  - "[[obviousness-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -160,7 +161,8 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void|Three Kinds of Void]] — Unexplored, unexplorable, and occluded
-- [[appetitive-void|The Appetitive Void]] — When desire structures the entire cognitive field
+- [[appetitive-void|The Appetitive Void]] — When desire structures the cognitive field
+- [[obviousness-void|The Obviousness Void]] — Territory that feels already known, not worth approaching
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
 - [[compound-failure-signatures|Compound Failure Signatures]] — How thought breaks down at void boundaries
