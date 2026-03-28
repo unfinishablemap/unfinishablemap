@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 08:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Fixed 3 misattributed citations (Bodart → Mashour for eLife recovery paper, corrected eLife ID, fixed Neuron review in-text citation). Recovery phenomenology and neuroscience verified as adequately represented. KCC2 gap remains (insufficient sourcing in research notes).
+- **Published**: yes
+
 ## 2026-03-28 08:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-defeats-explanation]]
