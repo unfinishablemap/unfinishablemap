@@ -9,6 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-28 08:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Fixed 3 misattributed citations (Bodart → Mashour for eLife recovery paper, corrected eLife ID, fixed Neuron review in-text citation). Recovery phenomenology and neuroscience verified as adequately represented. KCC2 gap remains (insufficient sourcing in research notes).
+- **Published**: yes
+
+## 2026-03-28 08:27 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Word count**: 2697 → 2724 (+27)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 3 cross-links added (explanatory-void, self-reference-paradox, temporal-structure-of-understanding)
+- **Output**: [deep-review-2026-03-28-consciousness-defeats-explanation](/reviews/deep-review-2026-03-28-consciousness-defeats-explanation/)
+
+## 2026-03-28 08:13 UTC - deep-review
+- **Status**: Success
+- **File**: [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
+- **Word count**: 2184 → 2182 (-2)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (description field overstated argument)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-choking-phenomenon-mental-causation](/reviews/deep-review-2026-03-28-choking-phenomenon-mental-causation/)
+
 ## 2026-03-28 07:58 UTC - deep-review
 - **Status**: Success
 - **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)

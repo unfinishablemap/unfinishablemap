@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-03-26 15:21:00+00:00
+ai_modified: 2026-03-28 08:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Every model of explanation fails for consciousness—not as a local
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 15:21:00+00:00
+last_deep_review: 2026-03-28 08:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,6 +51,9 @@ related_articles:
 - '[[phenomenology-of-philosophical-disagreement]]'
 - '[[epistemology-of-convergence-arguments]]'
 - '[[methodology-of-consciousness-research]]'
+- '[[explanatory-void]]'
+- '[[self-reference-paradox]]'
+- '[[temporal-structure-of-understanding]]'
 title: Why Consciousness Defeats Explanation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -177,6 +180,9 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Integrating subjective and objective approaches
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person methods for the reflexive gap
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the explanatory gap
+- [explanatory-void](/voids/explanatory-void/) — The void at the heart of explanation: why understanding cannot ground itself
+- [self-reference-paradox](/concepts/self-reference-paradox/) — Structural obstacles when consciousness studies itself
+- [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The phenomenal character of the "click" of comprehension
 
 ## References
 

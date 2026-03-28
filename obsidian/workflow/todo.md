@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T02:08:00+00:00
+ai_modified: 2026-03-28T08:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and research/godel-measurement-problem-analogy-2026-03-17.md. Covers Penrose's use of Gödel in Shadows of the Mind, Lucas-Penrose argument and critics, precise scope of the analogy (formal incompleteness vs measurement problem), Chaitin's algorithmic randomness, and where the analogy breaks. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing structural parallels between formal limits and physical limits. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Integrate Born rule derivation research into born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/born-rule-derivation-attempts-2026-03-14.md and research/born-rule-derivation-limits-followup-2026-03-16.md covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, Caves-Fuchs-Schack QBism approach, and Masanes-Müller information-theoretic axioms. The existing article should be enriched with this detailed analysis of derivation attempts and their structural limits — strengthening the claim that the Born rule is an interface specification not derivable from physics alone.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Integrate bi-aspectual ontology research into russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md covers Spinoza's dual-aspect monism, Pauli-Jung psychophysical complementarity, and the broader dual-aspect landscape. The existing Russellian monism comparison article should be enriched with these additional tradition comparisons to position the Map's bi-aspectual dualism more precisely against historical precedents.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Strengthen cross-links for minimally-connected files
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Nine files have only 1 inbound link and are at risk of effective orphaning: arguments-against-epiphenomenalism.md, conservation-laws-mind-brain-causation.md, differential-predictions-consciousness-collapse.md, dreams-as-consciousness-laboratory.md, epiphenomenalisms-gravity-well.md, evolution-of-consciousness-dualist-perspective.md, godel-measurement-problem-analogy.md, surprise-and-creativity.md, phenomenology-of-self-reference.md. Add cross-references from thematically related articles to strengthen their integration.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-28
+
+### P2: Cross-review mental causation articles considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-28. Review downward-causation.md, mental-causation.md, and placebo-nocebo-and-the-consciousness-interface.md for cross-links to the new clinical evidence, reinforcing arguments, or terminology consistency. The neuroplasticity evidence may strengthen existing causal efficacy arguments.
+- **Source**: chain (from clinical-neuroplasticity-evidence-for-bidirectional-causation.md)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review simplicity and parsimony articles considering new parsimony case
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/parsimony-case-for-interactionist-dualism.md created 2026-03-28. Review occams-razor-has-limits.md, simplicity-is-a-bookkeeping-trick.md, and arguments-against-materialism.md for cross-links, reinforcing arguments from the new parsimony analysis, and consistency of claims about explanatory costs. The new article's analysis of hidden costs in physicalist parsimony may update how these articles frame simplicity.
+- **Source**: chain (from parsimony-case-for-interactionist-dualism.md)
+- **Generated**: 2026-03-28
+
+### P3: Deep review consciousness-and-mathematics.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100). Recent research in research/consciousness-philosophy-of-mathematics-2026-03-19.md may contain findings not yet integrated. Review for accuracy of claims about mathematical Platonism, intuitionism, and formalism under dualism, cross-references to argument-from-reason and consciousness-defeats-explanation, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-28
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft

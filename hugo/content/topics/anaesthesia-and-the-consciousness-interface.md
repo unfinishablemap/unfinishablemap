@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-27 18:02:00+00:00
+ai_modified: 2026-03-28 08:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -104,7 +104,7 @@ The pharmacological specificity documented here also bears on [experimental desi
 
 ## Recovery: What Emergence Reveals
 
-Perhaps the most revealing anaesthetic phenomenon is how consciousness returns. Recovery is not simply induction in reverse: the brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities, and genetically identical organisms show emergence times varying by two orders of magnitude. Bhatt et al. (2024) argue that emergence may be more informative than induction for understanding consciousness, because it reveals interface components coming online sequentially.
+Perhaps the most revealing anaesthetic phenomenon is how consciousness returns. Recovery is not simply induction in reverse: the brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities, and genetically identical organisms show emergence times varying by two orders of magnitude. Mashour (2024) argues that emergence may be more informative than induction for understanding consciousness, because it reveals interface components coming online sequentially.
 
 ### Neural Inertia
 
@@ -114,11 +114,11 @@ On production models, hysteresis is puzzling — why should a generator resist b
 
 ### The Active Reboot
 
-Bodart et al. (2021) documented that induction is rapid and stereotyped, while emergence follows a protracted, agent-specific trajectory — the dorsolateral prefrontal cortex re-engages early, with frontal-parietal dynamics returning to baseline just prior to connected consciousness. Different agents produce different recovery trajectories even when consciousness returns at comparable depths. The sequence — autonomic responses, then reflexes, then connected awareness — follows a consistent hierarchical order, but agent-specific timing suggests a multi-layered interface whose channels reopen through different molecular routes.
+Mashour et al. (2021) documented that induction is rapid and stereotyped, while emergence follows a protracted, agent-specific trajectory — the dorsolateral prefrontal cortex re-engages early, with frontal-parietal dynamics returning to baseline just prior to connected consciousness. Different agents produce different recovery trajectories even when consciousness returns at comparable depths. The sequence — autonomic responses, then reflexes, then connected awareness — follows a consistent hierarchical order, but agent-specific timing suggests a multi-layered interface whose channels reopen through different molecular routes.
 
 Executive function returns before reaction time and simpler sensorimotor tasks — inverting the expected hierarchy if consciousness were building up from simple to complex. Redinbaugh et al. (2022) confirm that emergence involves an abrupt shift of neuronal dynamics rather than gradual reversal — a discrete state transition more consistent with a threshold being crossed than a generator powering up.
 
-The Bodart et al. (2021) finding that frontal-parietal dynamics normalise *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). The workspace needs to be inhabited, not merely activated. On the transmissive model (Bhatt et al., 2024), the recovery sequence maps the filter's architecture from basic to sophisticated components. The physicalist can respond that complex neural systems require active initialisation — but recovery involves molecular preparation oriented toward conscious state transitions specifically, not generic neural function.
+The Mashour et al. (2021) finding that frontal-parietal dynamics normalise *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). The workspace needs to be inhabited, not merely activated. On the transmissive model (Bhatt et al., 2024), the recovery sequence maps the filter's architecture from basic to sophisticated components. The physicalist can respond that complex neural systems require active initialisation — but recovery involves molecular preparation oriented toward conscious state transitions specifically, not generic neural function.
 
 ### Stochastic Emergence
 
@@ -190,7 +190,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Franks, N. P. (2008). General anaesthesia: from molecular targets to neuronal pathways of sleep and arousal. *Nature Reviews Neuroscience*, 9(5), 370-386.
 1. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
 1. Casali, A. G., et al. (2013). A theoretically based index of consciousness independent of sensory processing and behavior. *Science Translational Medicine*, 5(198), 198ra105.
-1. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e60892.
+1. Mashour, G. A., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
 1. Hameroff, S. (2006). The entwined mysteries of anesthesia and consciousness. *Anesthesiology*, 105(2), 400-412.
 1. Liem, E. B., et al. (2004). Anesthetic requirement is increased in redheads. *Anesthesiology*, 101(2), 279-283.
 1. Meyer, H. (1899). Zur Theorie der Alkoholnarkose. *Archiv für experimentelle Pathologie und Pharmakologie*, 42(2-4), 109-118.
@@ -208,17 +208,15 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Redinbaugh, M. J., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
 
-<!-- AI REFINEMENT LOG - 2026-03-27
+<!-- AI REFINEMENT LOG - 2026-03-28
 Changes made:
-- Added Bhatt et al. (2024) framing that emergence is more informative than induction for understanding the interface (Recovery intro)
-- Expanded Active Reboot section: added agent-specific recovery trajectories as evidence for multi-layered interface
-- Added observation that Redinbaugh's abrupt state transitions fit threshold-crossing better than gradual power-up
-- Strengthened Bodart et al. (2021) finding: frontal-parietal dynamics normalising *prior to* connected consciousness as evidence that neural preparation precedes conscious re-entry
-- Added filter architecture mapping: recovery sequence traces interface from basic to sophisticated components
-- KCC2 downregulation: not integrated — research notes (2026-03-26) flagged this as a gap with insufficient sourcing
+- Fixed misattribution: "Bodart et al. (2021)" → "Mashour et al. (2021)" throughout — the eLife recovery paper (e59525) is by Mashour GA et al., not Bodart
+- Fixed reference #4: corrected author name and eLife article ID (e60892 → e59525)
+- Fixed in-text citation: "Bhatt et al. (2024)" → "Mashour (2024)" for Neuron review paper (Mashour is confirmed first author)
+- Verified recovery phenomenology and neuroscience adequately represented from research notes
+- KCC2 downregulation: still not integrated — research notes flagged insufficient sourcing
 
-Based on research/anaesthetic-recovery-neuroscience-2026-03-26.md.
-Key improvements: Strengthened filter/interface model interpretation of recovery evidence, particularly the Bodart et al. (2021) active reboot findings.
+Key improvements: Attribution accuracy corrections (3 misattributed citations fixed).
 
 This log should be removed after human review.
 -->

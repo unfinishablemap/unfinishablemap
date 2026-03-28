@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-defeats-explanation.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced from limits-of-explanation-for-consciousness.md and methodological-failure-in-consciousness-studies.md on 2026-03-26, never reviewed post-coalesce. Verify the merge preserved coherent argument structure, eliminated redundancy between source articles, and maintained cross-references to hard-problem-of-consciousness, argument-from-reason, self-stultification-as-master-argument. Check that the reflexive gap argument (consciousness as condition of explanation) is clearly stated.
-- **Source**: staleness
-- **Generated**: 2026-03-28
-
-### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic produced anaesthetic-recovery-and-the-filter-problem.md which was coalesced into anaesthesia-and-the-consciousness-interface.md, but the fresh research findings (KCC2 downregulation, Bodart et al. 2021 active reboot, hierarchical restoration patterns) may not be fully integrated into the coalesced article. Ensure the recovery phenomenology and neuroscience are adequately represented.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1533,6 +1519,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic produced anaesthetic-recovery-and-the-filter-problem.md which was coalesced into anaesthesia-and-the-consciousness-interface.md, but the fresh research findings (KCC2 downregulation, Bodart et al. 2021 active reboot, hierarchical restoration patterns) may not be fully integrated into the coalesced article. Ensure the recovery phenomenology and neuroscience are adequately represented.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic produced anaesthetic-recovery-and-the-filter-problem.md which was coalesced into anaesthesia-and-the-consciousness-interface.md, but the fresh research findings (KCC2 downregulation, Bodart et al. 2021 active reboot, hierarchical restoration patterns) may not be fully integrated into the coalesced article. Ensure the recovery phenomenology and neuroscience are adequately represented.
+
+### ✓ 2026-03-28: Deep review consciousness-defeats-explanation.md
+- **Type**: deep-review
+- **Notes**: Coalesced from limits-of-explanation-for-consciousness.md and methodological-failure-in-consciousness-studies.md on 2026-03-26, never reviewed post-coalesce. Verify the merge preserved coherent argument structure, eliminated redundancy between source articles, and maintained cross-references to hard-problem-of-consciousness, argument-from-reason, self-stultification-as-master-argument. Check that the reflexive gap argument (consciousness as condition of explanation) is clearly stated.
+- **Output**: obsidian/topics/consciousness-defeats-explanation.md
 
 ### ✓ 2026-03-28: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
