@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-28 09:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Consciousness contributes to creativity through both generating pos
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 07:42:00+00:00
+last_deep_review: 2026-03-28 09:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ One prominent account treats consciousness as selector rather than generator. Th
 
 **Neural signatures**: Default Mode Network (DMN) activity correlates with spontaneous idea generation, while Executive Control Network (ECN) activity correlates with evaluation. The "aha!" moment—the gamma spike that accompanies insight—may mark the selection point where consciousness catches what was prepared unconsciously.
 
-**Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second (Nørretranders 1998), five million times slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
+**Bandwidth constraints**: Conscious thought operates at approximately 10 bits per second (Nørretranders 1998), vastly slower than unconscious processing. This "trickle" seems too narrow for generation. Consciousness appears designed for selective attention, not mass production of ideas.
 
 The [quantum selection framework](/concepts/consciousness-selecting-neural-patterns/) on The Unfinishable Map develops the selection mechanism rigorously. Through the quantum Zeno effect, mental attention holds neural patterns in place by repeated observation. Consciousness selects which possibilities actualize by attending to them.
 
@@ -121,7 +121,7 @@ The generation-selection synthesis would face serious difficulty if:
 
 2. **Phenomenology proved unreliable.** If the feeling of "producing" ideas during brainstorming were shown to be systematically illusory—perhaps through timing studies showing all "generated" ideas were prepared unconsciously before the subjective sense of production—the phenomenological evidence would collapse. Current evidence from voluntary attention studies supports the validity of felt contribution.
 
-3. **Imagination proved purely combinatorial.** If all novel ideas could be shown to result from recombination of pre-existing elements with no consciousness-contributed structure, the generation claim would reduce to selection among combinations. The existence of [transformational creativity](/concepts/phenomenology-of-choice-and-volition/)—changing the rules themselves—resists this reduction.
+3. **Imagination proved purely combinatorial.** If all novel ideas could be shown to result from recombination of pre-existing elements with no consciousness-contributed structure, the generation claim would reduce to selection among combinations. The existence of transformational creativity—changing the rules themselves—resists this reduction.
 
 4. **DMN-ECN coupling proved irrelevant to creativity.** If the dynamic switching that predicts creative ability could be explained entirely by unconscious mechanisms, with consciousness riding along epiphenomenally, the bidirectional thesis would weaken.
 

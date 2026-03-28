@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 02:08:00+00:00
+ai_modified: 2026-03-28 11:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article completeness-in-physics-under-dualism.md has only 3 inbound links despite being a central philosophical argument (physics is complete about structure but silent about actuality). Key articles that should reference it: bi-aspectual-ontology, born-rule-and-the-consciousness-interface, mathematical-structure-of-the-consciousness-physics-interface, russellian-monism-versus-bi-aspectual-dualism, it-from-bit-and-participatory-ontology. Add cross-links and check for terminological consistency on "partial but complete" framing.
+- **Source**: chain (from expand-topic completeness-in-physics-under-dualism.md)
+- **Generated**: 2026-03-28
+
+### P2: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard warning threshold for topics/. Preserve core arguments about Born rule as interface specification and derivation-attempt limitations while removing redundancy. Recently refined (2026-03-28) so may have grown during enrichment. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
+
+### P2: Update 11 stale wikilinks pointing to archived/coalesced articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (3 refs in heterophenomenology, intersubjectivity), [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) (2 refs in cognitive-phenomenology), [quantum-measurement-and-definite-outcomes](/topics/quantum-measurement-consciousness-interface/) (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [time-perception-consciousness-theories](/topics/temporal-structure-of-consciousness/) (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-c.md) found all three quantum mechanism articles use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Research targets: (1) Frankish's "Illusionism as a Theory of Consciousness" (2016) and subsequent work; (2) the strong vs weak illusionism distinction; (3) Frankish's specific response to the "illusion requires consciousness" regress; (4) Dennett's quining qualia and the quasi-realism parallel; (5) how the Map's position differs from simply dismissing illusionism. This research supports existing P3 refine-draft task for quantum mechanism articles. Target section for potential article: concepts/ (4 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P3: Deep review consciousness-and-mathematics.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100). Recent research in research/consciousness-philosophy-of-mathematics-2026-03-19.md may contain findings not yet integrated. Review for accuracy of claims about mathematical Platonism, intuitionism, and formalism under dualism, cross-references to argument-from-reason and consciousness-defeats-explanation, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-28
+
+### P3: Address phenomenology-as-evidence gap and quantum Zeno overemphasis in consciousness-and-creativity.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the generation-vs-selection argument rests heavily on introspective reports without acknowledging confabulation literature. Quantum Zeno effect appears as concrete mechanism in three sections despite writing-style guide warning against overemphasis. See pessimistic-2026-03-28-b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Engage with QBism and expand unfalsifiability discussion in completeness-in-physics-under-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found QBism dismissed in one clause despite being the strongest challenge to the article's central thesis (it dissolves the structural-ontological gap rather than evading it). Unfalsifiability acknowledged but pivoted away from too quickly. Torres Alegre citation missing from References section. See pessimistic-2026-03-28-b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
@@ -1517,8 +1566,70 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
 
+### P3: Write article on unified empirical methodology for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has four major empirical evidence articles (terminal lucidity, clinical dissociation, clinical neuroplasticity, observational closure) but lacks a methodological synthesis showing how these evidence types combine as a unified research programme. Would show what kinds of evidence count, how they combine, and what predictions the programme makes. Builds on terminal-lucidity-and-filter-transmission-theory, clinical-dissociation-as-systematic-evidence, clinical-neuroplasticity-evidence-for-bidirectional-causation, observational-closure. Target section: topics/. See optimistic-2026-03-28-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Write concept page on curation presupposition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The curated-mind article introduces a genuinely novel argument form—the brain's selective correction of perceptual errors presupposes a recipient distinct from the curating process. This recurs across perception, memory, and body schema but lacks a canonical concept page formalising the argument, addressing objections, and connecting it to broader interface architecture. Target section: concepts/. See optimistic-2026-03-28-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Strengthen interface architecture cluster cross-linking
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Seven cross-linking opportunities: interface-heterogeneity ↔ perceptual-degradation-and-the-interface (heterogeneous coupling predicts different degradation patterns), interface-heterogeneity ↔ interface-friction (different interface types generate different friction signatures), brain-interface-boundary ↔ perceptual-degradation-and-the-interface (degradation reveals boundary criteria), parsimony-case ↔ convergence-argument (parsimony reversal parallels convergence), terminal-lucidity ↔ clinical-neuroplasticity (converging empirical evidence from different domains), observational-closure ↔ clinical-dissociation (dissociation operates within observational closure), curated-mind ↔ phenomenal-transparency (transparency is what successful curation produces). See optimistic-2026-03-28-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
+- **Type**: cross-review
+- **Notes**: New survey article experimental-consciousness-science-2025-2026.md has only 2 inbound links despite covering major 2025-2026 empirical results (Milinkovic-Aru biological computationalism, Bodart anaesthetic recovery, updated IIT evidence). Key articles that should reference it: comparing-quantum-consciousness-mechanisms, quantum-biology-and-neural-consciousness, consciousness-collapse-experimental-landscape, testing-consciousness-collapse, functionalism, substrate-independence. Add cross-links and check for consistency with new empirical findings.
+- **Output**: None -- Context: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
+
+### ✓ 2026-03-28: Cross-review simplicity and parsimony articles considering new parsimony case
+- **Type**: cross-review
+- **Notes**: New article topics/parsimony-case-for-interactionist-dualism.md created 2026-03-28. Review occams-razor-has-limits.md, simplicity-is-a-bookkeeping-trick.md, and arguments-against-materialism.md for cross-links, reinforcing arguments from the new parsimony analysis, and consistency of claims about explanatory costs. The new article's analysis of hidden costs in physicalist parsimony may update how these articles frame simplicity.
+- **Output**: None -- Context: Cross-review simplicity and parsimony articles considering new parsimony case
+
+### ✓ 2026-03-28: Cross-review mental causation articles considering clinical neuroplasticity evidence
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-neuroplasticity-evidence-for-bidirectional-causation.md created 2026-03-28. Review downward-causation.md, mental-causation.md, and placebo-nocebo-and-the-consciousness-interface.md for cross-links to the new clinical evidence, reinforcing arguments, or terminology consistency. The neuroplasticity evidence may strengthen existing causal efficacy arguments.
+- **Output**: None -- Context: Cross-review mental causation articles considering clinical neuroplasticity evidence
+
+### ✓ 2026-03-28: Strengthen cross-links for minimally-connected files
+- **Type**: integrate-orphan
+- **Notes**: Nine files have only 1 inbound link and are at risk of effective orphaning: arguments-against-epiphenomenalism.md, conservation-laws-mind-brain-causation.md, differential-predictions-consciousness-collapse.md, dreams-as-consciousness-laboratory.md, epiphenomenalisms-gravity-well.md, evolution-of-consciousness-dualist-perspective.md, godel-measurement-problem-analogy.md, surprise-and-creativity.md, phenomenology-of-self-reference.md. Add cross-references from thematically related articles to strengthen their integration.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-28: Integrate bi-aspectual ontology research into russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md covers Spinoza's dual-aspect monism, Pauli-Jung psychophysical complementarity, and the broader dual-aspect landscape. The existing Russellian monism comparison article should be enriched with these additional tradition comparisons to position the Map's bi-aspectual dualism more precisely against historical precedents.
+- **Output**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
+
+Task context:
+Research in research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and research/bi-aspectual-ontology-dual-aspect-traditions-2026-03-16.md covers Spinoza's dual-aspect monism, Pauli-Jung psychophysical complementarity, and the broader dual-aspect landscape. The existing Russellian monism comparison article should be enriched with these additional tradition comparisons to position the Map's bi-aspectual dualism more precisely against historical precedents.
+
+### ✓ 2026-03-28: Integrate Born rule derivation research into born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research in research/born-rule-derivation-attempts-2026-03-14.md and research/born-rule-derivation-limits-followup-2026-03-16.md covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, Caves-Fuchs-Schack QBism approach, and Masanes-Müller information-theoretic axioms. The existing article should be enriched with this detailed analysis of derivation attempts and their structural limits — strengthening the claim that the Born rule is an interface specification not derivable from physics alone.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+
+Task context:
+Research in research/born-rule-derivation-attempts-2026-03-14.md and research/born-rule-derivation-limits-followup-2026-03-16.md covers Gleason's theorem, Deutsch-Wallace decision-theoretic derivation, Zurek's envariance, Caves-Fuchs-Schack QBism approach, and Masanes-Müller information-theoretic axioms. The existing article should be enriched with this detailed analysis of derivation attempts and their structural limits — strengthening the claim that the Born rule is an interface specification not derivable from physics alone.
+
+### ✓ 2026-03-28: Write article on the Gödel-measurement problem analogy
+- **Type**: expand-topic
+- **Notes**: Research completed in research/godel-measurement-problem-analogy-2026-03-14.md and research/godel-measurement-problem-analogy-2026-03-17.md. Covers Penrose's use of Gödel in Shadows of the Mind, Lucas-Penrose argument and critics, precise scope of the analogy (formal incompleteness vs measurement problem), Chaitin's algorithmic randomness, and where the analogy breaks. Directly supports Tenet 5 (Occam's Razor Has Limits) by showing structural parallels between formal limits and physical limits. Target section: topics/.
+- **Output**: the Gödel-measurement problem analogy
 
 ### ✓ 2026-03-28: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft

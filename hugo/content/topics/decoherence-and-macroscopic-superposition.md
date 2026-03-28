@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-18 23:52:00+00:00
+ai_modified: 2026-03-28 10:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: The quantum-classical boundary keeps receding. Hot cat states, nano
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 10:25:00+00:00
+last_deep_review: 2026-03-28 10:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,6 +110,8 @@ The Unfinishable Map's [Minimal Quantum Interaction tenet](/tenets/#minimal-quan
 
 This distinction matters because it insulates the core position from empirical findings about decoherence timescales. Even if Tegmark's rapid-decoherence calculations are correct, consciousness could still act at the point of collapse rather than through coherent superposition.
 
+Independently of the quantum boundary question, [clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) provides empirical evidence that mental causation *occurs*. Jeffrey Schwartz's OCD patients achieve normalisation of caudate nucleus hyperactivity through purely cognitive intervention—conscious decisions with propositional content producing measurable neural changes through causal routes distinct from pharmacological treatment. Schwartz, Stapp, and Beauregard (2005) explicitly connect this self-directed neuroplasticity to the quantum Zeno mechanism discussed here. The receding quantum-classical boundary thus matters not just for the *possibility* of mental causation but for identifying the *mechanism*: clinical evidence establishes that consciousness reshapes the brain; the boundary question concerns how far quantum processes might implement that reshaping.
+
 The demonstrations that quantum effects can operate in warm biological systems (magnetoreception) and that macroscopic quantum superposition can be achieved at elevated temperatures (hot cat states) both support the physical plausibility of quantum-consciousness interface. Neither proves it exists in the brain, but neither allows the categorical dismissal that the decoherence objection once seemed to provide. These biological examples show that evolution *can* harness quantum effects for function—though whether magnetoreception generalises to consciousness remains an open question with disanalogies (specialized proteins vs. general neural tissue).
 
 ## The Deeper Issue: Basis vs. Outcome
@@ -147,6 +149,8 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during quantum superposition
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — Physical mechanisms for objective collapse (GRW, Penrose)
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Experimental tests of gravity-induced collapse, including nanoparticle interferometry and the MAQRO space mission
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical evidence that mental causation occurs, including the Schwartz-Stapp-Beauregard quantum Zeno framework
+- [mental-causation](/concepts/mental-causation/) — The philosophical problem and the Map's quantum resolution
 - [free-will](/topics/free-will/) — How quantum indeterminacy relates to agent causation
 - [tenets](/tenets/) — The Map's foundational commitments
 
@@ -161,4 +165,5 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 1. Stanford Encyclopedia of Philosophy. The Role of Decoherence in Quantum Mechanics.
 1. Yang, I. et al. (2025). Hot Schrödinger cat states. *Science Advances*, 11, eadr4492.
 1. Nanoparticle matter-wave interference. (2025). arXiv:2507.21211.
+1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Xu, J. et al. (2026). Computational support for cryptochrome-based magnetoreception. *Journal of the American Chemical Society*.

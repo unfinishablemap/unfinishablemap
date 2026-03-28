@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-03-26 15:51:00+00:00
+ai_modified: 2026-03-28 10:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,13 +15,14 @@ description: Occam's Razor fails as an argument against dualism. Human-AI explor
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 15:51:00+00:00
+last_deep_review: 2026-03-28 10:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[dualism]]'
 - '[[mysterianism]]'
 - '[[parsimony-epistemology]]'
+- '[[parsimony-case-for-interactionist-dualism]]'
 title: Epistemological Limits of Occam's Razor
 topics:
 - '[[concepts/materialism]]'
@@ -92,13 +93,12 @@ The Map interprets the failure of parsimony arguments as removing what may be th
 
 The convergence with [Tenet 4 (No Many Worlds)](/tenets/#no-many-worlds) is also significant. The quantum interpretation debate—where parsimony yields contradictory verdicts depending on the simplicity dimension chosen—mirrors the consciousness debate exactly. In both cases, parsimony partisans help themselves to whichever dimension of simplicity supports their preferred theory. The Map rejects this selective deployment.
 
-The Map does not claim parsimony is useless. It remains a valuable heuristic in empirical science where its preconditions are met—competing theories of genuinely equal explanatory power, subject matter where simplicity has a track record. Nor does the Map claim dualism is more parsimonious than physicalism. Dualism introduces its own explanatory commitments—[psychophysical laws](/concepts/psychophysical-laws/) whose nature remains unclear. The point is that parsimony cannot adjudicate between the two frameworks, not that it favors either side.
-
-The claim is narrower and more defensible: parsimony cannot settle the consciousness debate, and invoking it as though it could is an epistemological error.
+The Map does not claim parsimony is useless. It remains a valuable heuristic in empirical science where its preconditions are met—competing theories of genuinely equal explanatory power, subject matter where simplicity has a track record. This article makes the defensive case: parsimony cannot settle the consciousness debate, and invoking it as though it could is an epistemological error. The [positive case](/topics/parsimony-case-for-interactionist-dualism/) goes further, arguing that when all dimensions of simplicity are counted — not just substance types but theoretical proliferation, brute facts, and explanatory directness — interactionist dualism emerges as the more parsimonious position.
 
 ## Further Reading
 
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — Why Occam's Razor lacks epistemic warrant in the consciousness debate, including hostile witnesses from the materialist camp
+- [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — The positive case that dualism is simpler once all costs are counted
 - [dualism](/concepts/dualism/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)

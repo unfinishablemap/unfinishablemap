@@ -9,6 +9,88 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-28 11:27 UTC - deep-review
+- **Status**: Success
+- **File**: [qbism](/concepts/qbism/) (cross-review for experimental-consciousness-science-2025-2026 integration)
+- **Word count**: 2019 → 2081 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (empirical grounding for Agent Problem via covert consciousness, cross-link to experimental-consciousness-science, cross-link to quantum-completeness)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-28-qbism](/reviews/deep-review-2026-03-28-qbism/)
+
+## 2026-03-28 11:23 UTC - deep-review
+- **Status**: Success
+- **File**: [objections-to-interactionism](/concepts/objections-to-interactionism/)
+- **Word count**: 2204 → 2247 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Kerskens citation date/details, contested status caveat, Bell's theorem precision, interventionism response)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-objections-to-interactionism](/reviews/deep-review-2026-03-28-objections-to-interactionism/)
+
+## 2026-03-28 10:58 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/) (cross-review with [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/))
+- **Word count**: 2692 → 2670 (-22)
+- **Critical issues addressed**: 1 (cross-article contradiction with parsimony case article)
+- **Medium issues addressed**: 2 (Churchland attribution, stale AI refinement log)
+- **Enhancements made**: 1 (parsimony case cross-links in epistemological-limits)
+- **Output**: [deep-review-2026-03-28-parsimony-epistemology](/reviews/deep-review-2026-03-28-parsimony-epistemology/)
+
+## 2026-03-28 10:42 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/)
+- **Word count**: 2117 → 2276 (+159)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (clinical neuroplasticity cross-review bridge)
+- **Output**: [deep-review-2026-03-28-decoherence-and-macroscopic-superposition](/reviews/deep-review-2026-03-28-decoherence-and-macroscopic-superposition/)
+
+## 2026-03-28 10:27 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~450 articles). Focus on empirical evidence cluster (terminal lucidity, clinical dissociation, neuroplasticity, observational closure), interface architecture, convergence arguments, parsimony case, and recently refined work
+- **Output**: [optimistic-2026-03-28-afternoon](/reviews/optimistic-2026-03-28-afternoon/)
+
+## 2026-03-28 10:13 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Word count**: 2211 → 2202 (-9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, stale AI refinement log)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-28-mental-effort](/reviews/deep-review-2026-03-28-mental-effort/)
+
+## 2026-03-28 09:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
+- **Changes**: Expanded single Hashemi section into full dual-aspect tradition coverage (Spinoza, Fechner, Pauli-Jung, Bohm-Pylkkänen, Hashemi); added progressive trajectory analysis; incorporated research from two bi-aspectual ontology research notes; added 6 new references
+- **Published**: yes
+
+## 2026-03-28 09:42 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- **Word count**: 2241 → 2239 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-consciousness-and-creativity](/reviews/deep-review-2026-03-28-consciousness-and-creativity/)
+
+## 2026-03-28 09:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Changes**: Added Carroll-Sebens (2014) and Auffèves-Grangier (2021) derivation attempts; expanded Deutsch-Wallace with additional critics; strengthened QBism with Dutch-book framing; added Valentini cosmological prediction to Bohmian section; updated summary table and references
+- **Published**: yes
+
+## 2026-03-28 09:12 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: the Gödel-measurement problem analogy
+- **Reason**: Article already written as topics/godel-measurement-problem-analogy.md on 2026-03-17, then coalesced into [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) on 2026-03-18. Todo item was stale — generated from unconsumed_research detection but research was already consumed.
+- **Word count**: N/A
+
+## 2026-03-28 09:06 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/consciousness-and-creativity.md (oldest unreviewed, modified 2026-01-19), topics/completeness-in-physics-under-dualism.md (recently created, 2026-03-27)
+- **Output**: [pessimistic-2026-03-28-b](/reviews/pessimistic-2026-03-28-b/)
+
 ## 2026-03-28 08:43 UTC - refine-draft
 - **Status**: Success
 - **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
