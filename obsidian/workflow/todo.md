@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering amplification-mechanisms-consciousness-physics.md
-- **Type**: cross-review
-- **Notes**: New topics article on quantum-to-neural amplification mechanisms created 2026-03-27. Review consciousness-selecting-neural-patterns, downward-causation, comparing-quantum-consciousness-mechanisms, and stapp-quantum-mind for cross-links and consistency. This article addresses the amplification gap objection — ensure related articles reference it where they acknowledge this challenge.
-- **Source**: chain (from amplification-mechanisms-consciousness-physics.md)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review related articles considering phenomenological-method-and-evidence-standards.md
 - **Type**: cross-review
 - **Notes**: New topics article on phenomenological methodology and evidence standards created 2026-03-27. Review contemplative-practice-as-philosophical-evidence, epistemology-of-first-person-evidence, introspection, and clinical-phenomenology-as-philosophical-evidence for cross-links. This article systematizes evidence standards that many articles invoke informally.
@@ -1509,6 +1503,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review related articles considering amplification-mechanisms-consciousness-physics.md
+- **Type**: cross-review
+- **Notes**: New topics article on quantum-to-neural amplification mechanisms created 2026-03-27. Review consciousness-selecting-neural-patterns, downward-causation, comparing-quantum-consciousness-mechanisms, and stapp-quantum-mind for cross-links and consistency. This article addresses the amplification gap objection — ensure related articles reference it where they acknowledge this challenge.
+- **Output**: obsidian/topics/amplification-mechanisms-consciousness-physics.md -- Context: Cross-review related articles considering amplification-mechanisms-consciousness-physics.md
 
 ### ✓ 2026-03-28: Cross-review related articles considering expertise-occlusion.md
 - **Type**: cross-review
