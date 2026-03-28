@@ -4,7 +4,7 @@ description: "Physics is complete about structure but silent on actuality. Prope
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-03-27T18:18:00+00:00
+ai_modified: 2026-03-28T07:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-27
 last_curated:
-last_deep_review: 2026-03-27T18:18:00+00:00
+last_deep_review: 2026-03-28T07:27:00+00:00
 ---
 
 The completeness of physics is the strongest argument against dualism—and, when examined carefully, one of the strongest arguments for it. The standard objection runs: physics is causally complete, leaving no gap for non-physical causes, so consciousness must be physical or epiphenomenal. The Unfinishable Map reverses the inference. Physics is structurally complete—nothing structural is missing—yet ontologically partial, silent on which quantum outcome becomes actual and on why there is something it is like to be a conscious system. This is not a temporary gap awaiting future physics. It is a feature of what physical description *is*. And it is precisely the space where consciousness operates.
@@ -69,6 +69,8 @@ But "structurally finished" is not "ontologically finished." Stapp's (2005) refi
 
 This is what "partial but complete" means. Physics is complete within its domain—structure and statistics—while being partial about what lies at the domain's boundary: the emergence of definite actuality from quantum possibility. The gap is not a deficiency in current physics. It is a boundary inherent in what physical description does. Additional physics would add more structure. It would not bridge the gap between structure and actuality, because actuality-selection is not the kind of thing structure describes.
 
+Independent evidence for this boundary comes from the [[born-rule-and-the-consciousness-interface|Born rule's peculiar status]]. Torres Alegre (2025) proves that the Born rule is the *unique* probability assignment consistent with relativistic causality—no alternative rule is mathematically possible. Yet every attempt to derive it from non-probabilistic premises smuggles in observer-dependent assumptions. The rule is simultaneously unique and underivable: precisely what one would expect if it encodes a genuine interface between structure and something beyond structure, rather than a fundamental physical law awaiting deeper explanation.
+
 ## Why the Gap Is Not God-of-the-Gaps
 
 A natural suspicion is that locating consciousness in a gap in physical theory is just god-of-the-gaps reasoning in philosophical dress. The distinction is critical.
@@ -98,6 +100,8 @@ The dualist hypothesis is empirically unfalsifiable at the level of individual o
 If the Map's analysis holds, completeness in physics must be understood as *domain completeness*: physics exhaustively describes its domain (structure, relations, probabilities) without exhaustively describing reality. This is not a novel pattern. Newtonian mechanics was complete within its domain—given masses, positions, and velocities, it predicted trajectories perfectly—while being silent on electromagnetism, thermodynamics, and atomic structure. The equations were finished before the domain of reality was exhausted.
 
 Quantum mechanics is partial in a sharper way. The missing element is not another physical domain that future physics will incorporate. It is the selection of actuality from possibility—something that may fall outside what physical description can address in principle. Under dualism, physics remains exactly as successful as it has always been. Every equation holds. Every conservation law is satisfied. Every experimental prediction is confirmed. What changes is the interpretation of completeness: physics is not a theory of everything but a theory of structure, and structure is not everything.
+
+The structural-ontological gap is not uniquely a dualist discovery. Russellian monists also recognise that physics describes only structure, inferring that *intrinsic natures*—unknown properties underlying the structural relations—constitute the deeper reality, with consciousness as one such intrinsic nature. The Map parts company with Russellian monism at the question of causation. If consciousness merely *is* the intrinsic nature of physical structure, it cannot *act on* that structure—it is the structure, viewed from the inside. The Map's tenets require bidirectional interaction: consciousness selecting among structurally permitted outcomes, not passively instantiating them. This is why the gap, though recognised from multiple philosophical perspectives, specifically supports [[interactionist-dualism|interactionist dualism]] rather than a monist reinterpretation.
 
 This reframing dissolves the apparent conflict between dualism and science. The conflict existed only because "completeness" was equivocated—structural completeness was read as ontological completeness, and the absence of detectable non-physical causes was read as proof that no such causes exist. Once the equivocation is exposed, dualism and physics coexist without tension. Physics describes what it describes, exhaustively and brilliantly. Consciousness is what it does not describe—not because physics has failed, but because consciousness is not the kind of thing that structural description captures.
 

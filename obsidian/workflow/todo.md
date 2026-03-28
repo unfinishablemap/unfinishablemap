@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering completeness-in-physics-under-dualism.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27. Review physics-as-disclosure, quantum-completeness, causal-closure-debate-historical-survey, the-reverse-inference for consistency with the new treatment of physical completeness. The "partial but complete" framing should be cross-referenced from articles that discuss causal closure and structural completeness. Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: chain (from completeness-in-physics-under-dualism.md expand-topic)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review related articles considering experimental-consciousness-science-2025-2026.md
 - **Type**: cross-review
 - **Status**: pending
@@ -1553,6 +1546,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review related articles considering completeness-in-physics-under-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27. Review physics-as-disclosure, quantum-completeness, causal-closure-debate-historical-survey, the-reverse-inference for consistency with the new treatment of physical completeness. The "partial but complete" framing should be cross-referenced from articles that discuss causal closure and structural completeness. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/topics/completeness-in-physics-under-dualism.md -- Context: Cross-review related articles considering completeness-in-physics-under-dualism.md
 
 ### ✓ 2026-03-28: Deep review observation-and-measurement-void.md post-coalesce
 - **Type**: deep-review
