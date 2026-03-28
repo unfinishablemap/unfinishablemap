@@ -6,6 +6,11 @@ modified: 2026-03-25
 human_modified:
 ai_modified: 2026-03-25T02:59:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-28T00:53:00+00:00
+superseded_by: "/topics/consciousness-and-mathematics/"
+archive_reason: "Coalesced into Consciousness and Mathematics"
+original_path: "/topics/mathematical-truth-and-conscious-access/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-mathematical-cognition]]"
