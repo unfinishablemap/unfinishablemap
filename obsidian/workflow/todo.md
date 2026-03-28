@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28. Review epistemology-of-convergence-arguments.md, cross-traditional-convergence-on-consciousness-irreducibility.md, and contemplative-practice-as-philosophical-evidence.md for cross-links to the new concept page. Check for consistent terminology around convergence methodology and add inbound links.
-- **Source**: chain (from expand-topic convergent-phenomenological-evidence)
-- **Generated**: 2026-03-28
-
 ### P2: Condense epistemology-of-first-person-evidence.md (5077 words, 127% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1630,6 +1623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28. Review epistemology-of-convergence-arguments.md, cross-traditional-convergence-on-consciousness-irreducibility.md, and contemplative-practice-as-philosophical-evidence.md for cross-links to the new concept page. Check for consistent terminology around convergence methodology and add inbound links.
+- **Output**: None -- Context: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
 
 ### ✓ 2026-03-28: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
 - **Type**: refine-draft
