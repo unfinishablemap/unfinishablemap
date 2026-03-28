@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-03-27 21:02:00+00:00
+ai_modified: 2026-03-28 05:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,14 +14,12 @@ concepts:
 - '[[phenomenology]]'
 created: 2026-01-25
 date: &id001 2026-03-27
-description: 'The Occluded category in the voids framework: thoughts prevented not
-  by architectural limitation but by active resistance—from psychological defence
-  mechanisms and motivational deflection to the possibility of externally imposed
-  cognitive blocks.'
+description: Thoughts prevented not by architectural limitation but by active resistance—defence
+  mechanisms, motivational deflection, and possibly externally imposed cognitive blocks.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 14:53:00+00:00
+last_deep_review: 2026-03-28 05:57:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,6 +40,7 @@ related_articles:
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[compound-failure-signatures]]'
 - '[[complicity-void]]'
+- '[[obviousness-void]]'
 title: Defended Territory
 topics: []
 ---
@@ -164,7 +163,8 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
-- [The Appetitive Void](/voids/appetitive-void/) — When desire structures the entire cognitive field
+- [The Appetitive Void](/voids/appetitive-void/) — When desire structures the cognitive field
+- [The Obviousness Void](/voids/obviousness-void/) — Territory that feels already known, not worth approaching
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How thought breaks down at void boundaries

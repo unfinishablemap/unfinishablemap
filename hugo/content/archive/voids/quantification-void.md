@@ -108,7 +108,7 @@ The quantification void follows from the Map's [tenets](/tenets/) with particula
 ## Further Reading
 
 - [calibration-void](/voids/measurement-void/) — Why introspection cannot be calibrated against any independent standard
-- [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
+- [observation-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
 - [substrate-void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties

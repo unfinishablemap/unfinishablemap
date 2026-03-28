@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-26 12:57:00+00:00
+ai_modified: 2026-03-28 06:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,6 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[witness-consciousness]]'
 - '[[aesthetics-and-consciousness]]'
+- '[[evaluative-qualia]]'
 created: 2026-01-16
 date: &id001 2026-03-12
 description: The view that phenomenal experiences carry intrinsic normative force—pain's
@@ -86,7 +87,7 @@ The evidence is not univocal. Buddhist philosophy treats vedanā as conditioned 
 
 ## Phenomenal Value Pluralism
 
-While hedonic valence matters, the Map holds it isn't the only thing that matters. Multiple features of conscious experience carry intrinsic value:
+While hedonic valence matters, the Map holds it isn't the only thing that matters. Multiple features of conscious experience carry intrinsic value—what [evaluative-qualia](/concepts/evaluative-qualia/) isolates as a distinct phenomenal dimension: the value-character pervading experience beyond mere sensation:
 
 | Feature | Why It Matters |
 |---------|----------------|
@@ -183,6 +184,7 @@ Phenomenal normativity would face pressure if:
 - [knowledge-argument](/concepts/knowledge-argument/) — Phenomenal knowledge exceeds physical description
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on value and emptiness
+- [evaluative-qualia](/concepts/evaluative-qualia/) — The distinct category of phenomenal experiences carrying intrinsic evaluative character
 
 ## References
 

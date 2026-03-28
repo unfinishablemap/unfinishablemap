@@ -58,8 +58,8 @@ topics: []
 
 ### Cross-links Updated
 - `[the-unobservable-self](/voids/self-reference-paradox/)` → removed (archived, successor `self-reference-paradox` already linked)
-- `[calibration-void](/voids/measurement-void/)` → `[measurement-void](/voids/measurement-void/)`
-- Added `[observation-void](/voids/observation-void/)` in Further Reading
+- `[calibration-void](/voids/measurement-void/)` → `[measurement-void](/voids/observation-and-measurement-void/)`
+- Added `[observation-void](/voids/observation-and-measurement-void/)` in Further Reading
 
 ## Remaining Items
 

@@ -22,9 +22,9 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
-- '[[observation-void]]'
+- '[[observation-and-measurement-void]]'
 - '[[self-opacity]]'
-- '[[measurement-void]]'
+- '[[observation-and-measurement-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[acquaintance-void]]'
 - '[[sleep-consciousness-void]]'
@@ -42,7 +42,7 @@ The Unfinishable Map's [voids](/voids/) framework classifies this as primarily *
 
 The core structural impossibility has three dimensions:
 
-**Introspective enrichment.** Attending to an experience adds cognitive structure—attention, metacognition, memory encoding—that makes the experience more complex than it was before observation. David Hume identified this in the *Treatise*: reflection "would so disturb the operation of my natural principles as must render it impossible to form any just conclusion from the phenomenon." The act of looking at experience from inside changes what is there to see. The [observation-void](/voids/observation-void/) documents this transformation across all consciousness research; the minimal consciousness void is where the transformation is most devastating, because even a small addition moves the experience away from minimality.
+**Introspective enrichment.** Attending to an experience adds cognitive structure—attention, metacognition, memory encoding—that makes the experience more complex than it was before observation. David Hume identified this in the *Treatise*: reflection "would so disturb the operation of my natural principles as must render it impossible to form any just conclusion from the phenomenon." The act of looking at experience from inside changes what is there to see. The [observation-and-measurement-void](/voids/observation-and-measurement-void/) documents this transformation across all consciousness research; the minimal consciousness void is where the transformation is most devastating, because even a small addition moves the experience away from minimality.
 
 **Regressive enrichment.** Attempting to examine the simplest experience creates a more complex one: experience-being-examined. Trying to find the minimal version of *that* creates yet another layer. The search generates an infinite regress that moves away from its target with each step. Unlike most philosophical regresses, this one is experientially real—each attempt at simplification produces a detectably richer state.
 
@@ -86,7 +86,7 @@ Several implications follow:
 
 **Consciousness may have no natural minimum.** If Nagel is right that consciousness extends broadly across the animal kingdom and IIT is right that Φ > 0 suffices, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
 
-**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [measurement-void](/voids/measurement-void/) and the [observation-void](/voids/observation-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
+**Investigation of consciousness is self-limiting.** The enrichment problem is not contingent (like lacking the right instruments) but structural (the instrument modifies the measurement). This places the minimal consciousness void alongside the [observation-and-measurement-void](/voids/observation-and-measurement-void/) and the [observation-and-measurement-void](/voids/observation-and-measurement-void/) as evidence that consciousness has a constitutive relationship with opacity—it functions in part because certain aspects of its operation remain invisible to itself.
 
 ## Relation to Site Perspective
 
@@ -101,8 +101,8 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 ## Further Reading
 
 - [minimal-consciousness](/concepts/minimal-consciousness/) — The concept of bare phenomenal experience at its simplest
-- [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
-- [measurement-void](/voids/measurement-void/) — Why introspection cannot be verified against any independent standard
+- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
+- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why introspection cannot be verified against any independent standard
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours

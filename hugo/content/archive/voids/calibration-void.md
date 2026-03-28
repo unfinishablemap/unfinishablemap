@@ -81,7 +81,7 @@ Daniel Dennett's heterophenomenology takes the opposite approach: treat introspe
 
 Approaching the calibration void produces a distinctive experiential signature—one that distinguishes it from other [voids](/voids/) in the Map's taxonomy.
 
-**False authority.** Introspection feels maximally authoritative. The experience of pain *seems* to guarantee knowledge of pain. This very confidence is what makes the void invisible in ordinary life. Unlike the [observation-void](/voids/observation-void/), where the transformative effect of attention can sometimes be noticed, the calibration void operates beneath the threshold of suspicion.
+**False authority.** Introspection feels maximally authoritative. The experience of pain *seems* to guarantee knowledge of pain. This very confidence is what makes the void invisible in ordinary life. Unlike the [observation-void](/voids/observation-and-measurement-void/), where the transformative effect of attention can sometimes be noticed, the calibration void operates beneath the threshold of suspicion.
 
 **Dissolving ground.** Contemplating Schwitzgebel's examples seriously—Am I really experiencing peripheral vision in colour right now? Am I sure about the phenomenal character of this thought?—produces not the sensation of hitting a wall but of the floor becoming unreliable. The experience is a loss of footing rather than a confrontation with an obstacle.
 
@@ -99,11 +99,11 @@ The calibration void follows from the Map's [tenets](/tenets/) with unusual dire
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** suggests the void may be partly occluded. If consciousness causally influences the physical world, the mechanism of that influence might be systematically hidden from introspection. Introspection reports the *contents* of consciousness but may have no access to the *interface* through which consciousness acts on the brain—a form of [introspective-opacity](/voids/self-opacity/) that extends beyond mere mechanism-blindness to the impossibility of calibrating reports about an interface one cannot inspect. The calibration void at the interface level would not be an epistemic limitation but a structural feature of how the interaction works.
 
-The calibration void is adjacent to but distinct from the [observation-void](/voids/observation-void/). The observation void concerns how studying consciousness transforms it. The calibration void concerns the impossibility of verifying whether introspective reports—transformed or not—correspond to what consciousness actually contains. One could solve the observation problem entirely (finding a method that does not alter experience) and the calibration problem would remain, because there is still no independent standard against which to check the result.
+The calibration void is adjacent to but distinct from the [observation-void](/voids/observation-and-measurement-void/). The observation void concerns how studying consciousness transforms it. The calibration void concerns the impossibility of verifying whether introspective reports—transformed or not—correspond to what consciousness actually contains. One could solve the observation problem entirely (finding a method that does not alter experience) and the calibration problem would remain, because there is still no independent standard against which to check the result.
 
 ## Further Reading
 
-- [observation-void](/voids/observation-void/) — How every method of studying consciousness transforms what it studies
+- [observation-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
 - [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions

@@ -91,7 +91,7 @@ The Dunning-Kruger research deepens this. Competence in X includes the ability t
 
 ## The Bootstrap Problem
 
-When we do recognise errors—and we clearly do—how? The puzzle echoes the Münchhausen trilemma. Recognising that belief B is wrong requires standard S against which B is judged. But S is produced by the same cognitive system that produced B. What validates S? This is the [measurement-void](/voids/measurement-void/) in its starkest form.
+When we do recognise errors—and we clearly do—how? The puzzle echoes the Münchhausen trilemma. Recognising that belief B is wrong requires standard S against which B is judged. But S is produced by the same cognitive system that produced B. What validates S? This is the [measurement-void](/voids/observation-and-measurement-void/) in its starkest form.
 
 Several mechanisms partially resolve this: **external feedback** (reality providing corrections when predictions fail); **formal methods** (logic and science providing content-independent consistency-checking); **redundancy** (different cognitive subsystems checking each other). But none eliminates circularity. Interpreting feedback still requires the same cognitive system. The functionalist might respond: this is just recursive neural monitoring, one brain circuit checking another. Yet this explains the *mechanism* while leaving untouched the question of why there is *something it is like* to catch yourself in error.
 
@@ -184,12 +184,12 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 ## Further Reading
 
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The formal and structural analysis of consciousness examining itself
-- [observation-void](/voids/observation-void/) — The structural impossibility of observing observation itself
+- [observation-void](/voids/observation-and-measurement-void/) — The structural impossibility of observing observation itself
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — The experiential structure of layered meta-cognition
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling (limited) self-monitoring
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
 - [introspective-opacity](/voids/self-opacity/) — Why cognitive processes remain hidden while their products become conscious
-- [measurement-void](/voids/measurement-void/) — The bootstrap problem for introspective calibration
+- [measurement-void](/voids/observation-and-measurement-void/) — The bootstrap problem for introspective calibration
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The feelings that accompany and drive cognitive self-correction
 - [cognitive closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries

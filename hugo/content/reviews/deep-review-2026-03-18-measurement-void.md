@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [The Measurement Void](/voids/measurement-void/)
+**Article**: [The Measurement Void](/voids/observation-and-measurement-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -69,7 +69,7 @@ topics: []
 ## Remaining Items
 
 - Article remains at 2379 words (119% of 2000 soft threshold for voids/). Further condensation could be warranted in a future review, particularly in the "Attempted Bridges" and "Formal Calibration Problem" subsections, which are thorough but verbose relative to the section's overall scope. However, given the article's role as a coalescence of two prior articles (calibration-void and quantification-void), the current length is reasonable.
-- Many files across the codebase still reference `[calibration-void](/voids/measurement-void/)` and `[quantification-void](/voids/measurement-void/)` rather than `[measurement-void](/voids/measurement-void/)`. These stale references should be updated in a separate cross-review pass.
+- Many files across the codebase still reference `[calibration-void](/voids/measurement-void/)` and `[quantification-void](/voids/measurement-void/)` rather than `[measurement-void](/voids/observation-and-measurement-void/)`. These stale references should be updated in a separate cross-review pass.
 
 ## Stability Notes
 

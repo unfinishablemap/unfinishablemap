@@ -38,16 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address verification/understanding gap and selective ontology in consciousness-and-mathematics.md
-- **Type**: refine-draft
-- **Notes**: Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
-- **Source**: pessimistic-review
+### P2: Cross-review related articles considering experimental-consciousness-science-2025-2026.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New empirical survey article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Review quantum-biology-and-neural-mechanisms, consciousness-collapse-versus-decoherence-experiments, testing-consciousness-collapse, anaesthesia-and-the-consciousness-interface for consistency with the 2025-2026 empirical findings. Add cross-links from relevant quantum and clinical articles. This article provides the latest empirical grounding for Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from experimental-consciousness-science-2025-2026.md expand-topic)
 - **Generated**: 2026-03-28
 
-### P2: Cross-review quantum completeness articles considering completeness-in-physics-under-dualism
-- **Type**: cross-review
-- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 has only 3 inbound links. Review physical-completeness.md, quantum-completeness.md, causal-closure.md, causal-closure-debate-historical-survey.md, and hard-problem-of-consciousness.md for opportunities to add cross-links. The article's "partial but complete" framing may strengthen arguments in several existing articles.
-- **Source**: chain (from completeness-in-physics-under-dualism.md)
+### P2: Deep review parsimony-case-for-interactionist-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Core tenet-supporting article arguing that interactionist dualism satisfies parsimony constraints better than assumed. Directly defends Tenet 5. Verify accuracy of parsimony analysis, coherence of the argument structure, cross-references to epistemological-limits-parsimony and limits-of-parsimony-in-consciousness-science, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-28
+
+### P2: Deep review consciousness-defeats-explanation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced from limits-of-explanation-for-consciousness.md and methodological-failure-in-consciousness-studies.md on 2026-03-26, never reviewed post-coalesce. Verify the merge preserved coherent argument structure, eliminated redundancy between source articles, and maintained cross-references to hard-problem-of-consciousness, argument-from-reason, self-stultification-as-master-argument. Check that the reflexive gap argument (consciousness as condition of explanation) is clearly stated.
+- **Source**: staleness
+- **Generated**: 2026-03-28
+
+### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic produced anaesthetic-recovery-and-the-filter-problem.md which was coalesced into anaesthesia-and-the-consciousness-interface.md, but the fresh research findings (KCC2 downregulation, Bodart et al. 2021 active reboot, hierarchical restoration patterns) may not be fully integrated into the coalesced article. Ensure the recovery phenomenology and neuroscience are adequately represented.
+- **Source**: unconsumed_research
 - **Generated**: 2026-03-28
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
@@ -141,6 +157,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. First-person reports of returning from anaesthesia—hierarchical restoration of awareness, temporal discontinuity, bootstrapping experience. Currently embedded in anaesthesia article but rich enough for standalone phenomenological treatment. Builds on anaesthesia-and-the-consciousness-interface, temporal-structure-of-consciousness, degrees-of-consciousness. Target section: topics/. See optimistic-2026-03-27.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
+
+### P3: Write article on the aesthetics-mathematics-consciousness triangle
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical beauty is substrate-independent beauty in a domain devoid of physical substrate. The consciousness-and-mathematics article notes this but doesn't develop it. A dedicated treatment exploring why felt beauty correlates with mathematical truth—and what this reveals about consciousness—would connect aesthetics-and-consciousness, consciousness-and-mathematics, and evaluative-qualia. Target section: topics/. See optimistic-2026-03-28.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Write concept page on reflexive gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The consciousness-defeats-explanation article introduces the concept that consciousness cannot be explained because it is the condition of explanation. This recurs across argument-from-reason, consciousness-and-mathematics, and phenomenology-of-understanding-and-meaning but lacks a canonical concept page. Target section: concepts/. See optimistic-2026-03-28.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Add cross-links between consciousness-defeats-explanation, adaptive-computational-depth, and social-understanding cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: consciousness-defeats-explanation → consciousness-and-mathematics (reflexive gap applies to mathematical explanation), consciousness-and-social-understanding → apophatic-approaches (limits awareness is an apophatic capacity), adaptive-computational-depth → consciousness-defeats-explanation (both argue consciousness cannot be captured within frameworks depending on it), amplification-mechanisms → consciousness-and-causal-powers (six mechanisms implement the selection and amplification categories), phenomenological-method-and-evidence-standards → consciousness-and-mathematics (categorial intuition grounded by evidence taxonomy). See optimistic-2026-03-28.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
 
 ### P3: Add cross-links between experimental-consciousness-science and enactivism, consciousness-as-amplifier
 - **Type**: refine-draft
@@ -1510,6 +1547,59 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review related articles considering completeness-in-physics-under-dualism.md
+- **Type**: cross-review
+- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27. Review physics-as-disclosure, quantum-completeness, causal-closure-debate-historical-survey, the-reverse-inference for consistency with the new treatment of physical completeness. The "partial but complete" framing should be cross-referenced from articles that discuss causal closure and structural completeness. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: obsidian/topics/completeness-in-physics-under-dualism.md -- Context: Cross-review related articles considering completeness-in-physics-under-dualism.md
+
+### ✓ 2026-03-28: Deep review observation-and-measurement-void.md post-coalesce
+- **Type**: deep-review
+- **Notes**: Coalesced from observation-void.md and measurement-void.md on 2026-03-28. Verify the merge preserved coherent argument structure, eliminated redundancy, and maintained cross-references. Reviews and research files still reference old slugs (archive redirects handle these). Check that the six convergent failure routes are clearly articulated and that the phenomenology sections from both sources are well-integrated.
+- **Output**: obsidian/voids/observation-and-measurement-void.md
+
+### ✓ 2026-03-28: Cross-review related articles considering evaluative-qualia.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 from research notes. Review aesthetics-and-consciousness, consciousness-and-normative-force, phenomenal-normativity, moral-phenomenology-and-perception for consistency with the new evaluative qualia framework. Add cross-links where the concept strengthens existing arguments about irreducible value in experience. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/evaluative-qualia.md -- Context: Cross-review related articles considering evaluative-qualia.md
+
+### ✓ 2026-03-28: Condense consciousness-and-mathematics.md (4423 words, 111% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently coalesced on 2026-03-28 from consciousness-and-mathematical-cognition.md and mathematical-truth-and-conscious-access.md — the merge likely introduced redundancy. Preserve core arguments (Gödel, mathematical intuition, structural parallel) while removing overlap between the source articles. See /condense skill.
+- **Output**: obsidian/topics/consciousness-and-mathematics.md
+
+### ✓ 2026-03-28: Cross-review defended-territory.md after cognitive-aversion merger
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-27 merged cognitive-aversion.md into defended-territory.md. Wikilinks were updated in 15 files, but a content-level review is needed: check that void articles referencing cognitive aversion patterns (taxonomy-of-voids, compound-cognitive-limits, expertise-occlusion) are consistent with the consolidated treatment. Verify the merged article's void typology fits the broader catalogue structure.
+- **Output**: obsidian/voids/defended-territory.md -- Context: Cross-review defended-territory.md after cognitive-aversion merger
+
+### ✓ 2026-03-28: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-27 merged arguments-against-epiphenomenalism.md into epiphenomenalism.md. Wikilinks were updated, but the merged content now includes the four-argument-type classification, reversed knowledge argument, and convergence framing. Review related articles (the-epiphenomenalist-threat, consciousness-as-amplifier, self-stultification-as-master-argument) for consistency with the consolidated treatment and identify new cross-link opportunities. Supports Tenet 3.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
+
+### ✓ 2026-03-28: Write article on clinical neuroplasticity evidence for bidirectional causation
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Clinical neuroplasticity data (CBT-induced brain changes, meditation-driven cortical thickening, placebo neurochemistry) provides strong empirical evidence for Tenet 3 (Bidirectional Interaction). Synthesize into a focused article on what clinical outcomes reveal about mental causation. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: clinical neuroplasticity evidence for bidirectional causation
+
+### ✓ 2026-03-28: Write article on parsimony case for interactionist dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/parsimony-case-interactionist-dualism-2026-03-24.md. Directly defends the site's core position by showing that interactionist dualism satisfies parsimony constraints better than commonly assumed — addressing the standard Occam's Razor objection. Supports Tenet 5 (Occam's Razor Has Limits). Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: parsimony case for interactionist dualism
+
+### ✓ 2026-03-28: Address verification/understanding gap and selective ontology in consciousness-and-mathematics.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
+- **Output**: obsidian/topics/consciousness-and-mathematics.md
+
+Task context:
+Pessimistic review (2026-03-28) found two high-severity issues: (1) the verification/understanding distinction is asserted rather than argued—needs engagement with the deflationary account (understanding as compressed verification), (2) the ontological landscape survey cherry-picks versions of Platonism/intuitionism/formalism that support dualism without acknowledging physicalist-compatible variants. See pessimistic-2026-03-28.md for full analysis.
+
+### ✓ 2026-03-28: Refine consciousness-and-mathematics.md (address pessimistic review findings)
+- **Type**: refine-draft
+- **Notes**: Addressed two high-severity issues from pessimistic review: (1) engaged deflationary account of understanding as compressed verification with three counter-arguments, (2) added physicalist-compatible variants of Platonism (Balaguer, Quine-Putnam), intuitionism (Bishop, Martin-Löf), and formalism (Detlefsen, Wittgenstein) to ontological landscape survey.
+- **Output**: obsidian/topics/consciousness-and-mathematics.md
 
 ### ✓ 2026-03-28: Deep review consciousness-and-mathematics.md (post-coalesce)
 - **Type**: deep-review

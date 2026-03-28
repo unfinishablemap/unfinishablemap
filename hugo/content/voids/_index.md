@@ -98,10 +98,10 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
-- [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies
+- [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation
 - [The Substrate Void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses into negation or circularity
-- [The Measurement Void](/voids/measurement-void/) — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
+- [The Measurement Void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [The Recognition Void](/voids/recognition-void/) — The gap between perceiving and knowing-as, where consciousness cannot observe its own recognition process

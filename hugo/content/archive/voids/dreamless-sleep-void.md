@@ -91,7 +91,7 @@ Yoga nidra practitioners aim to maintain awareness through the sleep transition�
 
 Why is the dreamless sleep void unexplorable rather than merely unexplored?
 
-**The observer paradox.** To observe dreamless sleep from within, consciousness must be present. But the question concerns whether consciousness is absent. The moment consciousness examines its own cessation, it has already returned. This parallels [the unobservable self](/voids/self-reference-paradox/)—the subject that cannot become its own object—and is a specific instance of the general [observation-void](/voids/observation-void/).
+**The observer paradox.** To observe dreamless sleep from within, consciousness must be present. But the question concerns whether consciousness is absent. The moment consciousness examines its own cessation, it has already returned. This parallels [the unobservable self](/voids/self-reference-paradox/)—the subject that cannot become its own object—and is a specific instance of the general [observation-void](/voids/observation-and-measurement-void/).
 
 **The memory paradox.** To remember having no experience seems to require having had an experience of no experience. Either there was experience (not truly dreamless) or there wasn't (nothing to remember).
 
@@ -152,7 +152,7 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 - [personal-identity](/topics/personal-identity/) — What grounds identity through gaps in consciousness
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Using altered states to probe cognitive boundaries
 - [the-silence-void](/voids/the-silence-void/) — Voluntary cessation through contemplative practice
-- [observation-void](/voids/observation-void/) — Why every method of studying consciousness transforms what it studies
+- [observation-void](/voids/observation-and-measurement-void/) — Why every method of studying consciousness transforms what it studies
 - [loss-of-consciousness](/topics/loss-of-consciousness/) — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The graded, multi-channel nature of the sleep-wake transition
 

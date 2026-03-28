@@ -173,7 +173,7 @@ No direct method can resolve this void, because:
 
 2. **Anomaly hunting**: Perceptual phenomena like the colour phi phenomenon, flash-lag effect, and temporal order reversal provide indirect evidence about temporal processing. These favour discrete models at the neural level but leave the phenomenal question open.
 
-3. **Contemplative investigation**: Buddhist vipassana practice claims to reveal the arising and passing of momentary mental events at extremely fine grain. If this is veridical (not itself constructed by the practice), it would support discrete models. But the practice shapes what it observes (see [observation-void](/voids/observation-void/)).
+3. **Contemplative investigation**: Buddhist vipassana practice claims to reveal the arising and passing of momentary mental events at extremely fine grain. If this is veridical (not itself constructed by the practice), it would support discrete models. But the practice shapes what it observes (see [observation-void](/voids/observation-and-measurement-void/)).
 
 4. **Comparative studies**: Cross-cultural and cross-species comparison of temporal perception thresholds might reveal whether the apparent grain size is biologically contingent or reflects something deeper.
 

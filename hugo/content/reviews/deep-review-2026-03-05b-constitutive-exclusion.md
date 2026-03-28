@@ -58,7 +58,7 @@ topics: []
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — body: Husserl's constitutive role of subject
 - [the-unobservable-self](/voids/self-reference-paradox/) — body: unobservable self as reflexive instance of constitutive exclusion
 
-Previously linking: [observation-void](/voids/observation-void/) (already linked before this review)
+Previously linking: [observation-void](/voids/observation-and-measurement-void/) (already linked before this review)
 
 ## Remaining Items
 

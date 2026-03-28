@@ -54,7 +54,7 @@ topics: []
 - Added transparency-void and mysterianism to related_articles frontmatter
 
 ### Cross-links Added (inbound — solving orphan status)
-- [observation-void](/voids/observation-void/) — added mutation-void reference in first-person layer discussion and Further Reading
+- [observation-void](/voids/observation-and-measurement-void/) — added mutation-void reference in first-person layer discussion and Further Reading
 - [introspective-opacity](/voids/self-opacity/) — added mutation-void reference in ontological opacity section
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — added mutation-void distinction (slippage vs mutation) in opening
 - [self-reference-paradox](/concepts/self-reference-paradox/) — added mutation-void reference in regression of attention section

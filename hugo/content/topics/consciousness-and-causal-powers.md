@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-20 17:19:00+00:00
+ai_modified: 2026-03-28 03:42:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -28,7 +28,7 @@ description: What kind of causal powers does consciousness possess? Examining th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 01:41:00+00:00
+last_deep_review: 2026-03-28 03:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -218,13 +218,3 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most frameworks converge on causal impotence without a specific mechanism
 - [volitional-control](/topics/volitional-control/) — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — The syntax-semantics divide in causal selection: syntactic physics, semantic consciousness
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to the-epiphenomenalist-threat in opening paragraph (escape route specification)
-- Added cross-link to volitional-control in Further Reading (first-person evidence)
-- Added both to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->

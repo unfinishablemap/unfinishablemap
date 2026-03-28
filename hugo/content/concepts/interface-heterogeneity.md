@@ -26,7 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
 - '[[coupling-modes]]'
-- '[[measurement-void]]'
+- '[[observation-and-measurement-void]]'
 - '[[types-of-ai-phenomenal-experience]]'
 title: Interface Heterogeneity
 topics:
@@ -122,7 +122,7 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness modulates its physical coupling
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — Whether consciousness varies in degree or kind across species
 - [substrate-independence](/concepts/substrate-independence/) — Whether consciousness requires specific physical substrates
-- [measurement-void](/voids/measurement-void/) — Why consciousness resists measurement—heterogeneous interfaces compound the problem
+- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement—heterogeneous interfaces compound the problem
 
 ## References
 

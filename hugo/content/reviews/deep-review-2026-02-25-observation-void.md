@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [The Observation Void](/voids/observation-void/)
+**Article**: [The Observation Void](/voids/observation-and-measurement-void/)
 **Previous review**: Never
 **Cross-review context**: [The Calibration Void](/voids/measurement-void/) (newly created sibling article)
 

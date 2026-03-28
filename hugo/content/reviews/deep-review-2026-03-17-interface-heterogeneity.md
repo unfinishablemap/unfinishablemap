@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 1. **Missing Tenet 4 (No Many Worlds)**: Relation to Site Perspective connected to four tenets but omitted the fourth. For a concepts article about coupling mechanisms that work by biasing quantum outcomes, the single-world vs many-worlds distinction is directly relevant. **Resolution**: Added No Many Worlds paragraph explaining why collapse specifics matter for interface heterogeneity.
 2. **Article is an orphan**: Zero inbound links from any other article. This is expected for a newly created article (created today) but should be addressed via cross-review. **Resolution**: Deferred to follow-up task.
-3. **Missing cross-links**: No connection to [coupling-modes](/concepts/coupling-modes/) (directly related concept about how coupling varies) or [measurement-void](/voids/measurement-void/) (heterogeneous interfaces compound measurement difficulties). **Resolution**: Added both to Further Reading and frontmatter.
+3. **Missing cross-links**: No connection to [coupling-modes](/concepts/coupling-modes/) (directly related concept about how coupling varies) or [measurement-void](/voids/observation-and-measurement-void/) (heterogeneous interfaces compound measurement difficulties). **Resolution**: Added both to Further Reading and frontmatter.
 4. **Minor factual imprecision**: "microtubule-stabilising drugs" (plural) when the cited study (Wiest et al. 2024) tested only epothilone B. **Resolution**: Corrected to singular with drug name.
 
 ### Counterarguments Considered
@@ -63,7 +63,7 @@ topics: []
 
 ### Cross-links Added
 - [coupling-modes](/concepts/coupling-modes/)
-- [measurement-void](/voids/measurement-void/)
+- [measurement-void](/voids/observation-and-measurement-void/)
 
 ## Remaining Items
 

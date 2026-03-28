@@ -1,13 +1,140 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 03:12:00+00:00
+ai_modified: 2026-03-28 06:12:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-28 07:32 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 453 (227 topics, 226 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 6
+- **Output**: [tenet-check-2026-03-28](/reviews/tenet-check-2026-03-28/)
+
+## 2026-03-28 07:27 UTC - deep-review
+- **Status**: Success
+- **File**: [completeness-in-physics-under-dualism](/topics/completeness-in-physics-under-dualism/)
+- **Word count**: 2104 → 2292 (+188)
+- **Critical issues addressed**: 0 (none found; previous review resolved all critical issues)
+- **Medium issues addressed**: 2 (Russellian monism engagement, Born rule underivability evidence)
+- **Enhancements made**: 2 (cross-links to interactionist-dualism and born-rule-and-the-consciousness-interface)
+- **Output**: [deep-review-2026-03-28-completeness-in-physics-under-dualism](/reviews/deep-review-2026-03-28-completeness-in-physics-under-dualism/)
+
+## 2026-03-28 07:13 UTC - deep-review
+- **Status**: Success
+- **File**: [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Word count**: 2427 → 2342 (-85)
+- **Critical issues addressed**: 2 (Occam tenet self-contradiction, description length)
+- **Medium issues addressed**: 4 (dream colour attribution, Varela quote, layer overlap, prose tightening)
+- **Enhancements made**: 0 (length-neutral mode; focused on fixes)
+- **Output**: [deep-review-2026-03-28-observation-and-measurement-void](/reviews/deep-review-2026-03-28-observation-and-measurement-void/)
+
+## 2026-03-28 06:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [observation-void](/voids/observation-void/), [measurement-void](/voids/measurement-void/)
+- **Target**: [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Archived**: archive/voids/observation-void.md, archive/voids/measurement-void.md
+- **References updated**: 25 files (11 observation-void, 14 measurement-void) in active content
+- **References to review**: Reviews and research files still reference old slugs (archive redirects will handle these)
+- **Net section change**: voids 100 → 99 (freed 1 slot)
+
+## 2026-03-28 06:42 UTC - deep-review
+- **Status**: Success (cross-review)
+- **File**: [evaluative-qualia](/concepts/evaluative-qualia/)
+- **Word count**: 1924 → 1924 (no change to primary article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing backlinks from related articles)
+- **Enhancements made**: 5 cross-links added to related articles
+- **Files modified**: phenomenal-normativity.md, valence.md, consciousness-value-connection.md, moral-phenomenology-and-perception.md, normative-phenomenology.md
+- **Output**: [deep-review-2026-03-28-evaluative-qualia](/reviews/deep-review-2026-03-28-evaluative-qualia/)
+
+## 2026-03-28 06:35 UTC - deep-review
+- **Status**: Success (stability confirmation)
+- **File**: [sleep-and-consciousness](/concepts/sleep-and-consciousness/)
+- **Word count**: 2009 → 2009 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Note**: Fourth review confirms full convergence. No substantive changes needed—only timestamp updates.
+- **Output**: [deep-review-2026-03-28-sleep-and-consciousness](/reviews/deep-review-2026-03-28-sleep-and-consciousness/)
+
+## 2026-03-28 06:12 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Before**: 4423 words
+- **After**: 2785 words
+- **Reduction**: 37%
+- **Technique**: Cut redundant physicalist-alternative detail across ontology subsections, removed Process Philosophy section (tangential), tightened deflationary-response engagement, trimmed Further Reading and References, removed AI refinement log
+
+## 2026-03-28 05:57 UTC - deep-review
+- **Status**: Success
+- **File**: [defended-territory](/voids/defended-territory/)
+- **Word count**: 1977 → 1989 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description too long, missing obviousness-void cross-link)
+- **Enhancements made**: 1 (obviousness-void added to Further Reading)
+- **Output**: [deep-review-2026-03-28-defended-territory](/reviews/deep-review-2026-03-28-defended-territory/)
+
+## 2026-03-28 05:43 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: voids (100/100), concepts (225/230)
+- **Pairs evaluated**: ~15 across both sections
+- **Reason**: All remaining articles are well-differentiated. Prior coalescing (self-opacity from 7, biological-cognitive-closure from 2) has already merged the obvious candidates.
+
+## 2026-03-28 05:27 UTC - deep-review
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Word count**: 3474 → 3443 (-31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale HTML comment, uncited reference, heavy intro paragraph)
+- **Enhancements made**: 0 (cleanup-only review post-merger)
+- **Output**: [deep-review-2026-03-28-epiphenomenalism](/reviews/deep-review-2026-03-28-epiphenomenalism/)
+
+## 2026-03-28 05:12 UTC - deep-review
+- **Status**: Success
+- **File**: [structure-of-attention](/topics/structure-of-attention/)
+- **Word count**: 2518 → 2530 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (frontmatter concepts not cross-linked in body)
+- **Enhancements made**: 4 (cross-links to free-will, agent-causation, introspection, quantum-consciousness)
+- **Output**: [deep-review-2026-03-28-structure-of-attention](/reviews/deep-review-2026-03-28-structure-of-attention/)
+
+## 2026-03-28 04:42 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: clinical neuroplasticity evidence for bidirectional causation
+- **Reason**: Article already exists at [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), created 2026-03-21, deep-reviewed 2026-03-22. Task was a duplicate generated by replenish-queue.
+
+## 2026-03-28 04:27 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (226 topics, 225 concepts, 1 tenets). Emphasis on recent coalesced and refined articles: consciousness-and-mathematics, consciousness-defeats-explanation, consciousness-and-social-understanding, adaptive-computational-depth, apophatic-approaches, amplification-mechanisms, phenomenological-method-and-evidence-standards, consciousness-and-causal-powers
+- **Output**: [optimistic-2026-03-28](/reviews/optimistic-2026-03-28/)
+
+## 2026-03-28 04:21 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: parsimony case for interactionist dualism
+- **Reason**: Article already exists at [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), created 2026-03-24, deep-reviewed 2026-03-24, refined 2026-03-26. Task was a duplicate generated by replenish-queue.
+
+## 2026-03-28 03:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Changes**: Engaged deflationary account of understanding as compressed verification (3 counter-arguments added); acknowledged physicalist-compatible variants of Platonism (Balaguer, Quine-Putnam), intuitionism (Bishop, Martin-Löf), and formalism (Detlefsen, Wittgenstein); added 3 new references
+- **Published**: yes
+
+## 2026-03-28 03:42 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
+- **Word count**: 2629 → 2629 (+0)
+- **Critical issues addressed**: 1 (broken wikilink conservation-laws-and-mind → conservation-laws-and-mental-causation)
+- **Medium issues addressed**: 1 (removed stale AI refinement log comment)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-consciousness-and-causal-powers](/reviews/deep-review-2026-03-28-consciousness-and-causal-powers/)
+- **Note**: Fourth review confirms full stability — only housekeeping fixes needed
 
 ## 2026-03-28 03:28 UTC - deep-review
 - **Status**: Success

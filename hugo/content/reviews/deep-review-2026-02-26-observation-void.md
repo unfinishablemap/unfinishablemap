@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-26
-**Article**: [The Observation Void](/voids/observation-void/)
+**Article**: [The Observation Void](/voids/observation-and-measurement-void/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-observation-void/)
 **Cross-review context**: [The Dissolution Problem](/voids/dissolution-problem/)
 

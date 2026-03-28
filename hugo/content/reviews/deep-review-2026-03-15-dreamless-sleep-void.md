@@ -57,14 +57,14 @@ None.
 ### Enhancements Made
 - Tightened convergence claim for empirical precision (medium issue)
 - Added cross-link to [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) in transition problem — graded decoupling complements the transition problem
-- Added cross-link to [observation-void](/voids/observation-void/) in observer paradox — this is a specific instance of the general observation void
+- Added cross-link to [observation-void](/voids/observation-and-measurement-void/) in observer paradox — this is a specific instance of the general observation void
 - Added cross-link to [loss-of-consciousness](/topics/loss-of-consciousness/) in Bidirectional Interaction tenet — parallel case of consciousness-brain decoupling with filter theory framing
 - Added 3 entries to Further Reading section
 - Added 3 entries to related_articles frontmatter
 
 ### Cross-links Added
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
-- [observation-void](/voids/observation-void/)
+- [observation-void](/voids/observation-and-measurement-void/)
 - [loss-of-consciousness](/topics/loss-of-consciousness/)
 
 ## Remaining Items

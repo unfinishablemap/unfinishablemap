@@ -28,7 +28,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[historical-consciousness-void]]'
 - '[[inaccessible-past]]'
-- '[[measurement-void]]'
+- '[[observation-and-measurement-void]]'
 - '[[indexical-void]]'
 - '[[consciousness-interface-development]]'
 - '[[infant-consciousness]]'
@@ -162,7 +162,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [inaccessible-past](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past consciousness is inaccessible
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed across historical time
-- [measurement-void](/voids/measurement-void/) — Why even direct self-access cannot verify its own accuracy
+- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why even direct self-access cannot verify its own accuracy
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of structural cognitive closure
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What draws the boundaries between discrete conscious subjects
 - [consciousness-interface-development](/topics/consciousness-interface-development/) — How the consciousness-brain interface changes across the lifespan

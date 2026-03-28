@@ -47,14 +47,14 @@ No new counterarguments identified beyond those engaged in the previous review. 
 7. The closing insight: "the mapper cannot access all of itself"
 
 ### Enhancements Made
-1. Added inline cross-link to `[observation-void](/voids/observation-void/)` in the bidirectional structure section
+1. Added inline cross-link to `[observation-void](/voids/observation-and-measurement-void/)` in the bidirectional structure section
 2. Added inline cross-link to `[dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/)` in the "productive void" paragraph with concrete evidence summary
 3. Added inline cross-link to `[altered-states-as-void-probes](/voids/altered-states-as-void-probes/)` in the "state-dependent" paragraph
-4. Replaced duplicate Further Reading entries with `[dreamless-sleep-void](/voids/sleep-consciousness-void/)`, `[dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/)`, `[observation-void](/voids/observation-void/)`, and `[altered-states-as-void-probes](/voids/altered-states-as-void-probes/)`
+4. Replaced duplicate Further Reading entries with `[dreamless-sleep-void](/voids/sleep-consciousness-void/)`, `[dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/)`, `[observation-void](/voids/observation-and-measurement-void/)`, and `[altered-states-as-void-probes](/voids/altered-states-as-void-probes/)`
 5. Tightened prose in several places to offset additions (length-neutral mode)
 
 ### Cross-links Added
-- [observation-void](/voids/observation-void/) (inline + Further Reading)
+- [observation-void](/voids/observation-and-measurement-void/) (inline + Further Reading)
 - [dreamless-sleep-void](/voids/sleep-consciousness-void/) (frontmatter + Further Reading)
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) (inline + frontmatter + Further Reading)
 - [dream-problem-solving-and-conscious-influence](/topics/dream-consciousness/) (inline + frontmatter + Further Reading)

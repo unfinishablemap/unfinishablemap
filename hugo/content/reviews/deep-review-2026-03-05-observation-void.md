@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-05
-**Article**: [The Observation Void](/voids/observation-void/)
+**Article**: [The Observation Void](/voids/observation-and-measurement-void/)
 **Previous review**: [2026-02-26](/reviews/deep-review-2026-02-26-observation-void/)
 **Cross-review context**: [The Constitutive Exclusion](/topics/constitutive-exclusion/)
 

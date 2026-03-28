@@ -44,7 +44,7 @@ None. All critical issues from the 2026-02-15 review (Velmans/Chalmers conflatio
 - **Dennett's heterophenomenology slightly caricatured**: "mere data" overstated his dismissiveness. Resolution: removed "mere" and replaced with a more accurate characterisation of his position.
 - **Missing [heterophenomenology](/concepts/heterophenomenology/) cross-link**: Dennett's position mentioned without linking to the concept page. Resolution: added wikilink.
 - **Missing [explanatory-gap](/concepts/explanatory-gap/) cross-link**: Tenet section invoked the explanatory gap without linking. Resolution: added wikilink.
-- **Missing [measurement-void](/voids/measurement-void/) cross-link**: Calibration problem is an instance of the measurement void. Resolution: added wikilink.
+- **Missing [measurement-void](/voids/observation-and-measurement-void/) cross-link**: Calibration problem is an instance of the measurement void. Resolution: added wikilink.
 
 ### Counterarguments Considered
 
@@ -66,7 +66,7 @@ All six adversarial personas engaged. No new counterarguments requiring textual 
 
 - Added [heterophenomenology](/concepts/heterophenomenology/) cross-link with improved characterisation of Dennett's position
 - Added [explanatory-gap](/concepts/explanatory-gap/) cross-link in tenet section
-- Added [measurement-void](/voids/measurement-void/) cross-link in calibration failure section
+- Added [measurement-void](/voids/observation-and-measurement-void/) cross-link in calibration failure section
 - Added Hagerty et al. (2013) citation for jhāna fMRI evidence
 - Clarified "performative coherence" as article's interpretive framing
 - Added [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) and [heterophenomenology](/concepts/heterophenomenology/) to Further Reading
@@ -76,7 +76,7 @@ All six adversarial personas engaged. No new counterarguments requiring textual 
 
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's position in critical phenomenology section
 - [explanatory-gap](/concepts/explanatory-gap/) — tenet section on dualism
-- [measurement-void](/voids/measurement-void/) — calibration failure section
+- [measurement-void](/voids/observation-and-measurement-void/) — calibration failure section
 - [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/) — Further Reading
 
 ## Remaining Items

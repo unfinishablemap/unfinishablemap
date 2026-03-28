@@ -111,7 +111,7 @@ The Map holds that elimination mistakes the limits of observation for evidence o
 
 ## Dissolving Insights and the Receding Horizon
 
-Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. Some slippage may be structural: thoughts about thinking are inherently less stable than thoughts about external objects, and the [compound-failure-signatures](/voids/compound-failure-signatures/) framework shows that self-reference, language limits, and recursion limits amplify each other rather than merely summing. The [measurement-void](/voids/measurement-void/) asks whether [introspection](/concepts/introspection/)'s circularity is structural or methodological; the [narrative-void](/voids/narrative-void/) adds that introspective accounts pass through confabulation-prone narrative construction.
+Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. Some slippage may be structural: thoughts about thinking are inherently less stable than thoughts about external objects, and the [compound-failure-signatures](/voids/compound-failure-signatures/) framework shows that self-reference, language limits, and recursion limits amplify each other rather than merely summing. The [measurement-void](/voids/observation-and-measurement-void/) asks whether [introspection](/concepts/introspection/)'s circularity is structural or methodological; the [narrative-void](/voids/narrative-void/) adds that introspective accounts pass through confabulation-prone narrative construction.
 
 Two characteristic phenomenologies emerge. **The receding horizon**: the self seems always just ahead—present but never where you look. **Spacious release**: when attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents this "zero-person perspective."
 
@@ -140,7 +140,7 @@ Kant saw this from the transcendental side: the "I think" that organises experie
 The unobservable self generates several related voids, each a facet of the same central impossibility:
 
 - [Introspective Opacity](/voids/self-opacity/) examines why we access mental contents but never the mechanisms producing them—process versus product.
-- The [Observation Void](/voids/observation-void/) generalises the problem: every method of studying consciousness transforms what it studies. The unobservable self is the limiting case where the studier *is* the studied.
+- The [Observation Void](/voids/observation-and-measurement-void/) generalises the problem: every method of studying consciousness transforms what it studies. The unobservable self is the limiting case where the studier *is* the studied.
 - The [Ownership Void](/voids/ownership-void/) asks why experiences feel *mine*—a question that presupposes the very subject that cannot be observed.
 - The [Indexical Void](/voids/indexical-void/) asks why first-person identity resists explanation—why *this* subject rather than another.
 - The [Narrative Void](/voids/narrative-void/) warns that introspective reports pass through confabulation-prone narrative construction—though the structural argument does not depend on phenomenological testimony.
@@ -172,7 +172,7 @@ The unobservable self may be the prototype void: territory consciousness cannot 
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Introspective Opacity](/voids/self-opacity/) — Why we access products but never processes
-- [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies
+- [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — How cognitive limits are preconditions for meaning
 - [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — When grasping truths about consciousness would undermine the capacity to hold them
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
@@ -180,7 +180,7 @@ The unobservable self may be the prototype void: territory consciousness cannot 
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
-- [The Calibration Void](/voids/measurement-void/) — Why introspection cannot verify its own reliability
+- [The Calibration Void](/voids/observation-and-measurement-void/) — Why introspection cannot verify its own reliability
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Can consciousness upgrade the architecture that constrains it?
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual cognitive limits interact superadditively

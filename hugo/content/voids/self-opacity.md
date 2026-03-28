@@ -37,12 +37,12 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[observation-void]]'
+- '[[observation-and-measurement-void]]'
 - '[[ownership-void]]'
 - '[[void-as-ground-of-meaning]]'
 - '[[narrative-void]]'
 - '[[limits-reveal-structure]]'
-- '[[measurement-void]]'
+- '[[observation-and-measurement-void]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[constitutive-exclusion]]'
 - '[[causal-interface]]'
@@ -148,7 +148,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Observation Void](/voids/observation-void/) — Every method of studying consciousness transforms what it studies
+- [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — How cognitive limits are preconditions for meaning
 - [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — When grasping truths about consciousness would undermine the capacity to hold them
 - [The Narrative Void](/voids/narrative-void/) — How consciousness constructs self-stories it cannot audit
@@ -157,7 +157,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
-- [The Calibration Void](/voids/measurement-void/) — Why introspection cannot verify its own reliability
+- [The Calibration Void](/voids/observation-and-measurement-void/) — Why introspection cannot verify its own reliability
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [The Ownership Void](/voids/ownership-void/) — Why experiences feel mine

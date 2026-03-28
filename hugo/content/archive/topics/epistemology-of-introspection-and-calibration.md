@@ -53,7 +53,7 @@ topics:
 
 Introspection provides knowledge unlike anything else in our epistemic repertoire. When you attend to the burning quality of pain or the vivid redness of a sunset, the resulting knowledge is neither perception of an external object nor inference from evidence. The Unfinishable Map's arguments for dualism depend on taking this knowledge seriously — the [hard problem](/topics/hard-problem-of-consciousness/) arises precisely because introspective knowledge reveals features of experience that physical description cannot capture. Yet introspection's epistemological status is deeply contested, and it faces a calibration problem that no other epistemic instrument shares: there is no independent standard for phenomenal accuracy.
 
-This article addresses both questions together. What *kind* of knowledge does introspection provide — acquaintance, inner perception, transparent self-monitoring, or something without analogue? And how *reliable* is that knowledge, given that the [measurement-void](/voids/measurement-void/) makes strict calibration impossible? The answers are tightly linked: the nature of introspective access determines which calibration strategies can gain traction.
+This article addresses both questions together. What *kind* of knowledge does introspection provide — acquaintance, inner perception, transparent self-monitoring, or something without analogue? And how *reliable* is that knowledge, given that the [measurement-void](/voids/observation-and-measurement-void/) makes strict calibration impossible? The answers are tightly linked: the nature of introspective access determines which calibration strategies can gain traction.
 
 ## Schwitzgebel's Challenge
 
@@ -117,7 +117,7 @@ The Map's position is that introspection constitutes a sui generis epistemic cap
 
 ## Five Calibration Strategies
 
-Strict calibration against an independent standard is impossible — the [measurement-void](/voids/measurement-void/) establishes this as structural. But five strategies collectively provide epistemic traction.
+Strict calibration against an independent standard is impossible — the [measurement-void](/voids/observation-and-measurement-void/) establishes this as structural. But five strategies collectively provide epistemic traction.
 
 ### Strategy One: The Process/Content Distinction
 
@@ -189,7 +189,7 @@ Is this gradient sufficient for the Map's purposes? The Map's core arguments for
 
 Daniel Dennett's [heterophenomenology](/concepts/heterophenomenology/) proposes treating first-person reports as third-person data — cataloguing what subjects *say* without granting privileged status (Dennett 2003). This dissolves the calibration problem by denying that reports aim at a target that could be hit or missed. But it strips introspective evidence of the epistemic role that makes the hard problem visible. If reports about qualitative character are merely verbal behaviour, the explanatory gap disappears — not because it has been closed, but because one side has been defined away. Max Velmans (2007) advocates an intermediate position he calls "critical phenomenology": accept verbal reports as prima facie guides except where specific reasons to doubt exist. This matches ordinary epistemic practice — we do not conclude that perception is unreliable because optical illusions exist, but identify the conditions under which illusions arise and adjust accordingly.
 
-The honest acknowledgment: these strategies do not close the [measurement-void](/voids/measurement-void/). The void is structural. What the strategies provide is *sufficient warrant for specific claims* — targeted confidence in the domains that matter most for consciousness science.
+The honest acknowledgment: these strategies do not close the [measurement-void](/voids/observation-and-measurement-void/). The void is structural. What the strategies provide is *sufficient warrant for specific claims* — targeted confidence in the domains that matter most for consciousness science.
 
 ## Relation to Site Perspective
 
@@ -207,7 +207,7 @@ The honest acknowledgment: these strategies do not close the [measurement-void](
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer
 - [introspective-opacity](/voids/self-opacity/) — Where introspective access fails structurally
-- [measurement-void](/voids/measurement-void/) — Why strict calibration of introspection is structurally impossible
+- [measurement-void](/voids/observation-and-measurement-void/) — Why strict calibration of introspection is structurally impossible
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as methodology
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological divide in consciousness science

@@ -121,7 +121,7 @@ The boredom void is primarily **Unexplored** with elements of **Occluded**:
 
 1. **Heidegger's three-level analysis** shows boredom is not one phenomenon but a nested series, with deeper levels increasingly resistant to examination. Profound boredom (the third form) cannot be deliberately entered or sustained — it arrives unbidden and departs when examined.
 
-2. **The observation paradox**: Studying boredom transforms it. When you attend carefully to boredom, it becomes philosophical contemplation. The object of investigation dissolves under investigation. This parallels the [observation-void](/voids/observation-void/) but with a distinctive character: boredom doesn't just change when observed — it ceases to be boredom.
+2. **The observation paradox**: Studying boredom transforms it. When you attend carefully to boredom, it becomes philosophical contemplation. The object of investigation dissolves under investigation. This parallels the [observation-void](/voids/observation-and-measurement-void/) but with a distinctive character: boredom doesn't just change when observed — it ceases to be boredom.
 
 3. **Pascal's diversion principle**: The universality and intensity of boredom-avoidance suggests boredom confronts consciousness with something it cannot integrate — its own emptiness, mortality, or meaninglessness.
 
