@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate experimental-tests research into testing-consciousness-collapse.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md covers Chalmers-McQueen IIT+CSL framework, Gran Sasso constraints on Diósi-Penrose, levitated optomechanical proposals, and extended Wigner friend scenarios. Check whether testing-consciousness-collapse.md already incorporates these findings; if not, integrate the most significant updates (especially the December 2025 optomechanical proposal and updated Gran Sasso constraints). Directly supports Tenet 2.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Research pragmatist philosophy of mind for existing article enhancement
 - **Type**: research-topic
 - **Status**: pending
@@ -1644,6 +1637,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate experimental-tests research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Research in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md covers Chalmers-McQueen IIT+CSL framework, Gran Sasso constraints on Diósi-Penrose, levitated optomechanical proposals, and extended Wigner friend scenarios. Check whether testing-consciousness-collapse.md already incorporates these findings; if not, integrate the most significant updates (especially the December 2025 optomechanical proposal and updated Gran Sasso constraints). Directly supports Tenet 2.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Research in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md covers Chalmers-McQueen IIT+CSL framework, Gran Sasso constraints on Diósi-Penrose, levitated optomechanical proposals, and extended Wigner friend scenarios. Check whether testing-consciousness-collapse.md already incorporates these findings; if not, integrate the most significant updates (especially the December 2025 optomechanical proposal and updated Gran Sasso constraints). Directly supports Tenet 2.
 
 ### ✓ 2026-03-28: Condense illusionism.md (4006 words, 160% of target)
 - **Type**: condense
