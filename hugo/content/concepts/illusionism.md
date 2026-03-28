@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-28 13:57:00+00:00
+ai_modified: 2026-03-28 17:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ concepts:
 - '[[mental-causation]]'
 - '[[causal-closure]]'
 created: 2026-01-14
-date: &id001 2026-03-12
+date: &id001 2026-03-28
 description: The radical claim that phenomenal consciousness is an introspective illusion.
   Trades the hard problem for an equally hard illusion problem.
 draft: false
@@ -52,11 +52,9 @@ This matters for The Unfinishable Map's framework because illusionism represents
 
 ## The Core Claim
 
-Keith Frankish and Daniel Dennett, illusionism's leading defenders, hold that we *seem* to have experiences with special qualitative properties ([qualia](/concepts/qualia/)), but this seeming is itself a misrepresentation. Dennett's [heterophenomenology](/concepts/heterophenomenology/) method—treating consciousness reports as third-person data rather than privileged first-person access—provides the methodological foundation for this approach. There are no phenomenal properties, only representations *as if* there were.
+Keith Frankish and Daniel Dennett, illusionism's leading defenders, hold that we *seem* to have experiences with special qualitative properties ([qualia](/concepts/qualia/)), but this seeming is itself a misrepresentation. Dennett's [heterophenomenology](/concepts/heterophenomenology/) method—treating consciousness reports as third-person data rather than privileged first-person access—provides the methodological foundation.
 
-Frankish (2021) sharpens the target by distinguishing three conceptions of qualia. **Classic qualia** (Dennett's original target) are ineffable, intrinsic, private, and directly apprehensible. **Zero qualia** are a minimal functional conception carrying no theoretical commitments beyond "there are mental states." **Diet qualia** occupy the middle ground, retaining some mystery while deflating the stronger claims. Illusionists accept zero qualia—they deny consciousness exists, not that we have mental states—but reject classic and diet qualia as introspective artefacts. This taxonomy matters because it reveals how the debate can talk past itself: anti-illusionists defending the obvious reality of experience may be defending zero qualia, which illusionists don't deny, while illusionists attacking classic qualia may be targeting a position few philosophers hold in its strongest form.
-
-Dennett compared consciousness to user illusions in computer interfaces—the icons on your screen don't correspond to structures inside the machine, and our sense of having phenomenal experiences may be a similarly useful fiction. Illusionism does not deny that we have mental states or rich inner lives. What it denies is that experiences possess special qualitative properties—intrinsic, private, ineffable features—that common sense takes to be obvious.
+Frankish (2021) distinguishes three conceptions of qualia: **classic qualia** (ineffable, intrinsic, private), **zero qualia** (minimal functional states carrying no theoretical commitments), and **diet qualia** (retaining some mystery while deflating stronger claims). Illusionists accept zero qualia but reject classic and diet qualia as introspective artefacts. This taxonomy reveals how the debate can talk past itself: anti-illusionists may defend zero qualia (which illusionists don't deny) while illusionists attack classic qualia (which few hold in strongest form).
 
 ## The Illusion Problem
 
@@ -66,7 +64,7 @@ This breaks down into two questions:
 1. Why does the illusion arise?
 2. Why is it so resistant to dissolution?
 
-The second question is critical. We accept many things are illusions once we understand them—optical illusions, for instance. But the illusion of phenomenal consciousness is extraordinarily resistant. Even philosophers who intellectually accept illusionism report that experiences *still seem* phenomenal. This persistence makes the illusion problem potentially as difficult as the hard problem itself.
+The second question is critical. Even philosophers who intellectually accept illusionism report that experiences *still seem* phenomenal. This persistence makes the illusion problem potentially as difficult as the hard problem itself.
 
 ## Big and Small Illusionism
 
@@ -76,139 +74,67 @@ Michael Graziano distinguishes two versions:
 
 **Soft (small) illusionism** holds that consciousness is a distorted representation of real neural processes. Something is being represented, but we systematically misunderstand its nature.
 
-Graziano favors soft illusionism, arguing evolution wouldn't invest resources modeling nonexistent phenomena. Something real must be the target of introspective representations, even if we mischaracterize it.
-
 ## The Neuroscientific Mechanism: Attention Schema Theory
 
-Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) (AST) provides the most developed neuroscientific implementation of illusionism. Where philosophical illusionists like Frankish and Dennett argue that introspection misrepresents experience, AST explains *how* the brain generates this misrepresentation.
+Graziano's [Attention Schema Theory](/concepts/attention-schema-theory/) (AST) provides the most developed neuroscientific implementation of illusionism. Just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/concepts/attention-as-interface/). This schema represents attention as having experiential qualities because that's a useful simplification for managing attentional resources.
 
-The proposal: just as the brain maintains a body schema to track limb position, it maintains an "attention schema" to track and control [attention](/concepts/attention-as-interface/). This schema represents attention as having experiential qualities—intentionality, selfhood, phenomenality—because that's a useful simplification for managing attentional resources. The brain then mistakes its own model for reality, concluding it has a "non-physical essence of awareness."
-
-AST gains empirical traction from neuroimaging findings. A 2021 study from Graziano's Princeton lab found that the same brain regions (right temporoparietal junction and superior temporal sulcus) track both your own attention states and others' attention—exactly what AST predicts if consciousness is modeled the same way we model other minds.
-
-**Why AST doesn't escape the hard problem:** the Map rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. The appearance of experience must appear *to* something—and that something cannot be another model without infinite regress. AST explains why we *report* being conscious, not why there's anything it's like to be us. See [Why Attention Schema Theory Fails](/topics/attention-and-the-consciousness-interface/) for the Map's comprehensive critique.
+The Map rejects AST because it faces the same regress as all illusionist theories. If the attention schema *seems* to be consciousness, something must be doing the seeming. AST explains why we *report* being conscious, not why there's anything it's like to be us. See [Why Attention Schema Theory Fails](/topics/attention-and-the-consciousness-interface/) for the Map's comprehensive critique.
 
 ## Major Objections
 
 ### The Self-Evidence Objection
 
-How can I be wrong about the existence of something for which I have inescapable evidence? A phenomenal experience need not be *veridical* to exist. The belief that I'm seeing a pink elephant may be erroneous, but not that I'm having *some* experience.
-
-Galen Strawson called illusionism "the silliest claim ever made" in philosophy. The existence of experience seems undeniable even if its *contents* are illusory.
+How can I be wrong about the existence of something for which I have inescapable evidence? A phenomenal experience need not be *veridical* to exist. The belief that I'm seeing a pink elephant may be erroneous, but not that I'm having *some* experience. Galen Strawson called illusionism "the silliest claim ever made" in philosophy.
 
 ### The Infinite Regress Problem
 
-Raymond Tallis argues illusionism compounds rather than solves the hard problem. "Misrepresentation presupposes presentation"—all illusions presuppose experience. If physical matter cannot generate phenomenal consciousness, it certainly cannot generate the *illusion* of phenomenal consciousness.
-
-To be under an illusion, something must be experiencing the illusion. There must be *something it's like* to have the mistaken belief that consciousness is phenomenal. This threatens to make illusionism incoherent—invoking experience to deny experience.
-
-**A methodological caution:** Many philosophers—including Dennett and Frankish themselves—argue this objection is question-begging. The regress assumes that "seeming" is itself phenomenal, which is precisely what illusionism denies. If seeming can be fully characterized in functional terms (as Frankish's quasi-phenomenal properties propose), the regress never gets started. The Map finds the regress compelling because functional characterization of seeming faces the problems detailed in [The Illusionist Response](#the-illusionist-response) below—but readers should understand that the force of this objection depends on whether one accepts the phenomenal character of seeming as a premise or a conclusion.
+Raymond Tallis argues illusionism compounds rather than solves the hard problem. "Misrepresentation presupposes presentation"—all illusions presuppose experience. To be under an illusion, something must be experiencing the illusion. There must be *something it's like* to have the mistaken belief that consciousness is phenomenal.
 
 ### The Moorean Argument
 
-Chalmers presents a Moorean argument: (1) People feel pain. (2) If illusionism is correct, no one feels pain. (3) Therefore, illusionism is false.
-
-The point: the existence of phenomenal pain is more obvious than any premises used to deny it. We know we're conscious with more certainty than we know any philosophical theory is correct.
+Chalmers presents a Moorean argument: the existence of phenomenal pain is more obvious than any premises used to deny it. We know we're conscious with more certainty than we know any philosophical theory is correct.
 
 ### Chalmers's Meta-Problem Dilemma
 
-Even if illusionism relocates the hard problem to a [meta-problem](/concepts/meta-problem-of-consciousness/)—explaining why we *think* consciousness is puzzling—the same dilemma applies. Either the features explaining our mistaken beliefs are physically explicable (in which case [zombies](/concepts/philosophical-zombies/) would have them too, making the explanation circular) or they're not (in which case there's a new explanatory gap at the conceptual level). The [interactionist response to the metaproblem](/topics/metaproblem-of-consciousness-under-dualism/) develops this point: if consciousness causally contributes to generating problem reports, the debunking argument fails at its premise, and illusionism faces an escalating explanatory burden.
+Even if illusionism relocates the hard problem to a [meta-problem](/concepts/meta-problem-of-consciousness/), the same dilemma applies. Either the features explaining our mistaken beliefs are physically explicable (in which case [zombies](/concepts/philosophical-zombies/) would have them too, making the explanation circular) or they're not (in which case there's a new explanatory gap). The [interactionist response to the metaproblem](/topics/metaproblem-of-consciousness-under-dualism/) develops this point further.
 
 ## The Illusionist Response
 
-Frankish argues critics misunderstand the position. Illusions need not be *phenomenal* illusions—they can be cognitive or theoretical errors. Just as pre-scientific cultures were wrong about heat or life without having phenomenal illusions, we can be wrong about experience.
+Frankish argues critics misunderstand the position. His positive account defines "seeming" in purely functional terms: to *seem* to have phenomenal properties is to be in a state that disposes one to judge, report, and react *as if* one has them. No phenomenal experience of the illusion is required. His central concept is **quasi-phenomenal properties**: the non-phenomenal, physical properties of inner states that introspection detects and systematically misrepresents as phenomenal. The "redness" you seem to experience is a mischaracterisation of a complex functional-discriminative state.
 
-### The Functional-Seeming Account
-
-Frankish's positive account deserves careful engagement. He defines "seeming" in purely functional terms: to *seem* to have phenomenal properties is to be in a state that disposes one to judge, report, and react *as if* one has them. No phenomenal experience of the illusion is required—only a functional state that generates the relevant judgments. On this view, introspection is just another information-processing system, and its outputs (beliefs about qualia) can be wrong in the same way any representational system can misrepresent.
-
-His central concept is **quasi-phenomenal properties**: the non-phenomenal, physical properties of inner states that introspection detects and systematically misrepresents as phenomenal. When you see red, your brain enters a state with certain functional properties—dispositions to discriminate, categorise, remember, and prefer. Introspection accesses these real functional properties but wraps them in a phenomenal gloss, representing them as having an intrinsic qualitative character they lack. The "redness" you seem to experience is a mischaracterisation of what is actually a complex functional-discriminative state.
-
-### The Distortion Thesis
-
-Pereboom and Frankish (2021) develop the mechanism further with what they call the "distortion thesis": introspective mechanisms systematically misrepresent neural processes. The key distinction is between *introspective access* and *introspective interpretation*. We genuinely access our mental states—illusionists don't deny that something is happening when you see red. The error lies in interpretation: the conceptual framework we use to make sense of our mental states is what generates the illusion, not the states themselves. We apply an internal folk theory that posits phenomenal properties, much as pre-scientific cultures applied folk theories that posited phlogiston or vital forces.
-
-### Kammerer's Meta-Cognitive Account
-
-François Kammerer (2022) addresses a distinctive challenge: why does illusionism seem *especially* counterintuitive—more so than other revisionary theories? Illusionists need an answer to this "illusion meta-problem." Kammerer proposes three mechanisms. First, **introspective opacity**: we cannot introspect the process by which our introspective representations are formed, so we cannot detect the misrepresentation from within. Second, the **infallibility intuition**: we intuitively treat introspective reports about basic phenomenal states as incorrigible, making the idea that they could be systematically wrong seem inconceivable. Third, the **justification constraint**: we feel that any theory denying what seems most obvious must carry an extraordinary burden of proof.
-
-On Kammerer's account, the illusion of phenomenal consciousness is "rich"—it persists regardless of what one comes to believe about its reality. Even a committed illusionist who intellectually accepts the theory will still undergo states that *seem* phenomenally conscious. This persistence is itself explicable without phenomenal properties: the introspective mechanisms generating the illusion operate at a sub-personal level inaccessible to belief revision.
+Pereboom and Frankish (2021) develop this further with the "distortion thesis": we genuinely access our mental states, but the conceptual framework we use to interpret them generates the illusion, much as pre-scientific cultures applied folk theories that posited phlogiston or vital forces.
 
 ### Where the Functional Account Falls Short
 
-These are serious moves, but they face structural problems.
+**The vantage-point problem.** Ordinary misrepresentation works because we can identify the gap between seeming and reality. In the illusionist case, there is no independent vantage point—all we have access to is the seeming itself.
 
-**The vantage-point problem.** Ordinary misrepresentation works because we can identify the gap between what seems to be the case and what is the case—optical illusions seem one way while the measured world is another. In the illusionist case, there is no independent vantage point. The "seeming" of phenomenal consciousness cannot be contrasted with how things really are from within, because all we have access to is the seeming itself. This makes illusionist "seeming" unlike any ordinary misrepresentation.
+**The zombie convergence.** Frankish accepts that a [philosophical zombie](/concepts/philosophical-zombies/) would have identical quasi-phenomenal properties and identical functional seeming. The zombie would judge itself conscious, report qualia, and philosophise about the hard problem. The illusionist's *own* philosophical reasoning about consciousness is therefore identical to the zombie's—causally disconnected from whatever illusionism is about.
 
-**The zombie convergence.** Frankish accepts that a [philosophical zombie](/concepts/philosophical-zombies/)—a physical duplicate lacking phenomenal consciousness—would have identical quasi-phenomenal properties and identical functional seeming. The zombie would judge itself conscious, report qualia, and philosophise about the hard problem. For illusionists, this is a feature: consciousness adds nothing to our functional lives. But it creates a problem. If the functional story is complete, and zombies have the same functional story, then the illusionist's *own* philosophical reasoning about consciousness is identical to the zombie's. The zombie "concludes" illusionism is true for the same functional reasons. The illusionist cannot claim their position is *informed by* careful reflection on the character of experience, because on their own account, experience has no character beyond what the zombie also has. The philosophical argument for illusionism is causally disconnected from whatever it is illusionism is about.
+**The self-representation problem.** Functional misrepresentation works straightforwardly for external objects. But the representation "I am phenomenally conscious" is about the representational state itself. A functional state that represents itself as phenomenal must either be phenomenal (vindicating the regress) or be systematically wrong about its own nature in a way no other functional state is.
 
-**The self-representation problem.** Functional misrepresentation works straightforwardly for external objects—a thermostat can misrepresent room temperature without phenomenal experience. But the representation "I am phenomenally conscious" is not about an external state of affairs; it is about the representational state itself. A functional state that represents itself as phenomenal must either be phenomenal (vindicating the regress) or be systematically wrong about its own nature in a way no other functional state is. The second option is coherent but carries a distinctive explanatory burden: why does this specific class of self-representations fail where functional self-monitoring succeeds for every other property?
-
-**The seeming/processing gap.** If the functional account strips all experiential character from "seeming," it risks changing the subject. What makes a functional disposition to judge that one is in pain *a seeming* rather than mere information processing? The word "seeming" implies something that it is like to undergo the state—a perspective from which things appear a certain way. If Frankish's account retains this experiential dimension, the regress reasserts itself. If it eliminates it entirely, the account no longer explains what needed explaining: why phenomenal consciousness strikes us as so overwhelmingly real. The functional story explains why we produce the *reports* we do, but reports are not the phenomenon that makes the hard problem hard.
-
-**Kammerer's mechanisms presuppose what they explain.** Kammerer's introspective opacity requires that something is opaque *to* something—opacity is a relation that implies a subject for whom the process is hidden. The infallibility intuition requires a subject who *intuits*. The justification constraint requires a subject who feels the pull of evidential norms. Each mechanism invokes cognitive capacities whose exercise, phenomenal realists argue, involves the very phenomenal consciousness they are meant to explain away. The illusionist can insist these are all functional—but the explanatory circle tightens: why do functional states have these specific properties that so perfectly mimic what a genuinely conscious being would have?
-
-The [introspection literature](/concepts/introspection/) sharpens the point further. Introspective reports fail in well-understood ways for causal processes and decision justification, but succeed reliably for basic phenomenal states—the presence of pain, the experience of colour. Illusionism requires that this latter domain, where introspection is most reliable, be systematically mistaken. The asymmetry between domains that fail (complex causal reasoning) and domains that would need to fail (basic phenomenal awareness) remains unexplained.
-
-## The Mysterian Alternative
-
-[Mysterianism](/concepts/mysterianism/) offers a different interpretation of illusionism's appeal. Colin McGinn's cognitive closure hypothesis suggests humans may be permanently unable to understand how consciousness relates to the brain—not because the problem is supernatural but because our conceptual apparatus lacks the resources.
-
-From this perspective, illusionism might be a predictable response to cognitive closure. Unable to see how physical processes generate experience, we face a choice: accept the mystery (mysterianism) or deny that there's anything to explain (illusionism). Illusionism may be what closure *feels like* from the inside—an inability to grasp the solution, misinterpreted as evidence that no solution is needed.
-
-This doesn't refute illusionism, but it explains why the position might seem attractive even if false. The hard problem's intractability could reflect our cognitive limitations rather than the non-existence of phenomenal properties.
-
-## Process Philosophy Challenge
-
-Alfred North Whitehead's process philosophy challenges illusionism from a different direction. For Whitehead, experience is not something that emerges from non-experiential matter and thus could be illusory. Rather, experience—what he called "prehension"—is fundamental to reality itself. Each "actual occasion" has a subjective aspect; the physical and experiential are two sides of the same process.
-
-This framework makes illusionism's core move—denying that experience exists as conceived—less coherent. If experience pervades reality at every level, calling it an illusion loses meaning. The question becomes not whether experience exists but how micro-experiences combine into unified consciousness (the [combination problem](/concepts/combination-problem/)).
-
-Whitehead's approach isn't dualism in the classical sense—it doesn't posit two separate substances. But it shares the dualist's core commitment: taking experience seriously as metaphysically fundamental rather than explaining it away.
+**The seeming/processing gap.** If the functional account strips all experiential character from "seeming," what makes a functional disposition to judge pain *a seeming* rather than mere information processing? The functional story explains why we produce the *reports* we do, but reports are not the phenomenon that makes the hard problem hard.
 
 ## Connection to the Knowledge Argument
 
-The [knowledge argument](/concepts/knowledge-argument/) (Mary's Room) poses a particular challenge for illusionism. When Mary sees red for the first time, illusionists must say she doesn't learn a new *fact* about experience—she acquires a new *representation* that mischaracterizes her brain state as having phenomenal properties.
+The [knowledge argument](/concepts/knowledge-argument/) (Mary's Room) poses a particular challenge. When Mary sees red for the first time, illusionists must say she acquires a new *representation* that mischaracterizes her brain state as having phenomenal properties. The question becomes: why should evolution produce such elaborate misrepresentation with the specific character of *qualitative experience* rather than something else?
 
-But Mary reports learning something. On the illusionist view, this report is itself generated by representations that systematically misrepresent what's happening. The question becomes: why should evolution produce such elaborate misrepresentation? Graziano's attention schema theory offers one answer (tracking attention requires simplifying models), but this doesn't fully address why the misrepresentation has the specific character it does—why it seems like *qualitative experience* rather than something else.
-
-The illusionist can respond that Mary was already making the same "mistake" before leaving her room—she already believed in qualia. What changes is acquiring new mistaken representations about red specifically. But this multiplies the explanatory burden: now we need accounts of both the general tendency to believe in qualia and the specific character of each quale-representation.
-
-## What Would Challenge This View?
+## What Would Challenge This View
 
 Illusionism would be undermined if:
 
-1. **The illusion problem proves as hard as the hard problem.** If explaining why we *believe* we're phenomenally conscious requires invoking something as difficult to explain as phenomenal consciousness itself, illusionism hasn't made progress—only relocated the mystery. The [self-stultification](/concepts/self-stultification/) charge gains force if every account of the "illusion" quietly presupposes what it denies.
+1. **The illusion problem proves as hard as the hard problem.** If explaining the "illusion" quietly presupposes what it denies, illusionism hasn't made progress—only relocated the mystery.
 
-2. **Introspective training doesn't dissolve the seeming.** Optical illusions often persist perceptually while being cognitively rejected (the Müller-Lyer lines still *look* unequal even when we know better). But contemplative traditions report that extensive practice can reveal experience's constructed nature. If illusionism is correct, such training should eventually dissolve the illusion of phenomenal properties—reveal them as empty. If instead training refines and deepens phenomenal access (as meditators often report), this supports the reality of what's accessed.
+2. **Contemplative practice deepens rather than dissolves phenomenal access.** If extensive training refines phenomenal access (as meditators often report) rather than revealing experience as empty, this supports the reality of what's accessed.
 
-3. **Zombies prove inconceivable upon analysis.** Illusionism is strengthened if we cannot coherently conceive of physical duplicates without the "illusion" of consciousness. If zombies would have the same representations, make the same reports, and be "under the same illusion," then nothing distinguishes us from zombies—which is exactly what illusionism predicts. But if zombie conceivability survives scrutiny, something beyond representation is at stake.
-
-4. **Neuroscience reveals qualia-specific mechanisms.** If neural research discovers mechanisms that are best explained as generating qualitative experience (not merely representations *about* qualitative experience), this would challenge the illusionist framework. Current neuroscience is neutral between illusionism and realism about qualia, but this could change.
-
-## Current State of the Debate
-
-Illusionism remains a minority position. The 2020 PhilPapers survey found that only a small fraction of philosophers endorse eliminativism about phenomenal consciousness, though 62% consider the hard problem genuine. Illusionism has nonetheless gained attention as physicalism's most uncompromising option—the fallback when other strategies fail.
-
-Recent work has focused on several questions:
-- Whether illusionism can be empirically distinguished from ordinary [materialism](/concepts/materialism/)
-- The "hardest aspect" of the illusion problem: why the illusion resists dissolution
-- Whether illusionism is self-refuting (if our beliefs about consciousness are illusions, why trust our belief in illusionism?)
-- How illusionism handles the [convergence argument](/concepts/dualism/)—multiple independent routes to the same anti-materialist conclusion
+3. **Neuroscience reveals qualia-specific mechanisms.** If neural research discovers mechanisms best explained as generating qualitative experience rather than merely representations *about* it, this would challenge the illusionist framework.
 
 ## Structural Convergence with Epiphenomenalism
 
-Illusionism and [epiphenomenalism](/concepts/epiphenomenalism/) present themselves as opposite positions. Epiphenomenalism grants that phenomenal consciousness exists but denies it causes anything. Illusionism denies that phenomenal consciousness exists at all. Yet both converge on the same structural outcome: in neither framework do phenomenal properties play any causal role in producing our reports about them.
+Illusionism and [epiphenomenalism](/concepts/epiphenomenalism/) present themselves as opposite positions—one denies phenomenal consciousness exists, the other grants it but denies it causes anything. Yet both converge on the same structural outcome: phenomenal properties play no causal role in producing our reports about them.
 
-Consider what happens when you report being in pain. Under epiphenomenalism, your brain state causes both the pain experience and your report "I'm in pain"—the experience exists but plays no role in producing the report. Under illusionism, your brain state causes a quasi-phenomenal representation that you misjudge as pain experience, plus your report. In both cases, the phenomenal—the "what it's like"—is causally idle. The epiphenomenalist admits it exists and declares it inert. The illusionist denies it exists and replaces it with something functional. But the functional replacement, by design, does only what physical processes already do.
+Under epiphenomenalism, your brain state causes both the pain experience and your report—the experience is causally idle. Under illusionism, your brain state causes a quasi-phenomenal representation plus your report. In both cases, the "what it's like" is causally excluded. Frankish would object that quasi-phenomenal properties *do* causal work, but this work is precisely what physical processes were already doing—relabelling an existing causal contributor rather than introducing a new one.
 
-Frankish would object that quasi-phenomenal properties *do* causal work—they dispose us to form phenomenal judgments and drive philosophical theorising. But this causal work is precisely what physical processes were already doing. The functional states that dispose us to judge we are conscious *are* neural processes described at a higher level. Calling them "quasi-phenomenal" relabels an existing causal contributor rather than introducing a new one. Phenomenal properties—the "what it's like" that generates the hard problem—remain causally excluded under illusionism just as under epiphenomenalism.
-
-The [self-stultification argument](/topics/self-stultification-as-master-argument/), standardly directed at epiphenomenalism, applies equally. The illusionist arrives at their position through reasoning—considering arguments, reflecting on experience. But on illusionism's own terms, "reflecting on experience" involves only quasi-phenomenal states that misrepresent their own nature. The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view, experience has no character beyond what physical processes produce.
-
-A factory analogy sharpens the point. The epiphenomenalist says "there is a worker who does nothing." The illusionist says "there is no worker—what you thought was a worker is just a shadow cast by the machinery." But the machinery runs identically either way. Whether consciousness exists but is inert or doesn't exist as conceived, the causal picture is the same. Illusionism has not dissolved the hard problem—it has renamed it.
-
-The convergence matters because illusionism presents itself as having *solved* the problems that plague dualism and epiphenomenalism. But if illusionism inherits the same [self-stultification](/concepts/self-stultification/) problem as epiphenomenalism, it has only relocated the mystery. The [meta-problem](/concepts/meta-problem-of-consciousness/) sharpens this: both positions must explain why we *think* consciousness is puzzling, and both face identical structural difficulties—because both must explain how a complete physical story generates discourse about something beyond physics.
+The [self-stultification argument](/topics/self-stultification-as-master-argument/), standardly directed at epiphenomenalism, applies equally. The illusionist cannot claim their position is *informed by* careful attention to the character of experience, because on their view, experience has no character beyond what physical processes produce. Whether consciousness exists but is inert or doesn't exist as conceived, the causal picture is the same. Illusionism has not dissolved the hard problem—it has renamed it.
 
 ## Relation to Site Perspective
 
@@ -220,61 +146,30 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Illusionism might seem parsimonious—no new ontological categories needed. But [parsimony arbitrates between theories of equal explanatory power](/concepts/parsimony-epistemology/), and illusionism achieves only [apparent simplicity](/arguments/epistemological-limits-of-occams-razor/) by refusing to explain what needs explaining. If the illusion problem is as hard as the hard problem, physicalism hasn't progressed. It has only renamed the difficulty.
 
-The persistence of the illusion problem suggests illusionism relocates the hard problem rather than escaping it. Something about introspective access to our mental states resists deflationary analysis.
-
 ## Further Reading
 
 ### Site Content
 - [attention-schema-theory](/concepts/attention-schema-theory/) — The neuroscientific mechanism for illusionism, and the Map's critique
-- [attention](/concepts/attention-as-interface/) — What AST claims consciousness is a model of
 - [dualism](/concepts/dualism/) — Illusionism as the most radical physicalist response
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap illusionism claims doesn't need bridging
 - [introspection](/concepts/introspection/) — The reliability of phenomenal reports illusionism must challenge
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what illusionism must say about learning
-- [mysterianism](/concepts/mysterianism/) — Cognitive closure as alternative explanation for illusionism's appeal
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — A less radical physicalist approach
 - [qualia](/concepts/qualia/) — The properties illusionism denies
-- [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The category illusionism claims is empty
-- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — If illusionism is correct, value itself becomes illusory—the highest-stakes consequence
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers's challenge: explaining why we think consciousness is puzzling
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism converts the metaproblem into evidence for dualism
-- [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological foundation for treating consciousness reports as data
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position illusionism structurally mirrors
-- [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why epiphenomenalism is the default destination of most consciousness theories
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The argument that applies equally to illusionism and epiphenomenalism
-- [mental-causation](/concepts/mental-causation/) — What both illusionism and epiphenomenalism deny
-- [causal-closure](/concepts/causal-closure/) — The premise both positions rely on
 - [materialism](/concepts/materialism/) — The view illusionism radically defends
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What illusionism claims to dissolve
 
 ### External Sources
 - Chalmers, D. J. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9-10), 6-61.
 - Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
-- Dennett, D. C. (2016). "Illusionism as the Obvious Default Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 65-72.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 - Frankish, K. (2021). "What is Illusionism?" *Klesis*, 55.
 - Graziano, M. S. A. (2024). "Illusionism Big and Small." *Journal of Consciousness Studies*.
-- Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*.
-- McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-- Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*.
+- Kammerer, F. (2022). "How Can You Be So Sure?" *Philosophical Studies*.
+- Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness." *Review of Philosophy and Psychology*.
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*.
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-- Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-03-28
-Changes made:
-- Added Frankish's classic/zero/diet qualia taxonomy to "The Core Claim" section
-- Restructured "The Illusionist Response" with subsections for functional-seeming account, distortion thesis, and Kammerer's meta-cognitive account
-- Added quasi-phenomenal properties concept with detailed explanation
-- Added Pereboom & Frankish's (2021) distortion thesis: introspective access vs. interpretation distinction
-- Added Kammerer's (2022) three mechanisms for the illusion meta-problem (introspective opacity, infallibility intuition, justification constraint)
-- Added zombie convergence argument: functional-seeming identity with zombies undermines illusionist philosophical reasoning
-- Added self-representation problem as distinct from external misrepresentation
-- Added circularity critique of Kammerer's mechanisms (each presupposes a subject)
-- Added Frankish (2021), Kammerer (2022), Pereboom & Frankish (2021), Strawson (2018) to references
-
-Based on research in illusionism-functional-seeming-2026-03-28.md.
-Key improvements: Deep engagement with strongest versions of illusionism rather than relying on bare regress argument.
-
-This log should be removed after human review.
--->

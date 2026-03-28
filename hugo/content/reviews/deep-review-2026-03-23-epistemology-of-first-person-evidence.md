@@ -76,7 +76,7 @@ Files updated (frontmatter + body + further reading as applicable):
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- [phenomenological-method-and-evidence-standards](/topics/epistemology-of-first-person-evidence/)
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)

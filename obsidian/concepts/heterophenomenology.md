@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-28T11:57:00+00:00
+ai_modified: 2026-03-28T17:49:00+00:00
 last_deep_review: 2026-03-28T11:57:00+00:00
 draft: false
 topics:
@@ -57,7 +57,7 @@ This is officially methodological neutrality. Dennett insists he is not an elimi
 
 ## Heterophenomenology vs. Classical Phenomenology
 
-Classical [[phenomenology]] (Husserl, Heidegger, Merleau-Ponty) treats first-person investigation as revealing consciousness's actual structure. The [[phenomenology#The Phenomenological Method|epoché]] brackets assumptions about the external world to disclose how experience is structured from within—intentionality, temporal flow, bodily situatedness, the minimal self. Husserl's [[phenomenological-method-and-evidence-standards|evidence taxonomy]] provides internal rigour: apodictic evidence (the indubitable existence of experience) carries different weight from merely presumptive claims about its fine structure.
+Classical [[phenomenology]] (Husserl, Heidegger, Merleau-Ponty) treats first-person investigation as revealing consciousness's actual structure. The [[phenomenology#The Phenomenological Method|epoché]] brackets assumptions about the external world to disclose how experience is structured from within—intentionality, temporal flow, bodily situatedness, the minimal self. Husserl's [[epistemology-of-first-person-evidence|evidence taxonomy]] provides internal rigour: apodictic evidence (the indubitable existence of experience) carries different weight from merely presumptive claims about its fine structure.
 
 Heterophenomenology reverses this: it brackets phenomenology itself, treating first-person reports as external behavioral data requiring third-person explanation.
 

@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-28T17:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ Three methodological traditions have established how to gather phenomenological 
 
 ### Husserl's Epoché
 
-Edmund Husserl (1859–1938) developed [[phenomenology]] as a rigorous discipline. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend purely to how things appear in experience. Husserl distinguished phenomenological *description* from causal *explanation*: the question is not "why does this experience occur?" but "what is its structure?" His [[phenomenological-method-and-evidence-standards|evidence taxonomy]]—apodictic, adequate, assertoric, presumptive—determines how much epistemic weight different phenomenological claims can bear.
+Edmund Husserl (1859–1938) developed [[phenomenology]] as a rigorous discipline. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend purely to how things appear in experience. Husserl distinguished phenomenological *description* from causal *explanation*: the question is not "why does this experience occur?" but "what is its structure?" His [[epistemology-of-first-person-evidence|evidence taxonomy]]—apodictic, adequate, assertoric, presumptive—determines how much epistemic weight different phenomenological claims can bear.
 
 Husserl's method addresses privacy through [[intersubjectivity]]. When multiple observers, after epoché, converge on the same experiential structures, the convergence provides validation. The structures disclosed are not idiosyncratic features of one consciousness but invariants across conscious beings. This parallels scientific methodology: individual observations are fallible, but convergent observations by trained observers using systematic methods constitute evidence.
 

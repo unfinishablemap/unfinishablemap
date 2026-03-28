@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Phenomenological Method and Evidence Standards](/topics/phenomenological-method-and-evidence-standards/)
+**Article**: [Phenomenological Method and Evidence Standards](/topics/epistemology-of-first-person-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

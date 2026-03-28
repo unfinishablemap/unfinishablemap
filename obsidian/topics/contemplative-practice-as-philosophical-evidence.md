@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-28T16:19:00+00:00
+ai_modified: 2026-03-28T17:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,6 @@ related_articles:
   - "[[testing-the-map-from-inside]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[phenomenological-method-and-evidence-standards]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
@@ -177,7 +176,7 @@ The honest assessment: contemplative evidence eliminates epiphenomenalism and re
 
 Understanding the boundaries of contemplative methodology is essential for honest use.
 
-**What contemplative methods can establish:** Claims about the structure of experience — its temporal grain, the awareness-content relationship, the constructed character of the narrative self, the existence of non-ordinary conscious states, and attentional trainability. They can also provide evidence bearing on causal claims: the content-specificity of meditation effects demonstrates that phenomenological character tracks neural outcomes. Husserl's [[phenomenological-method-and-evidence-standards|evidence taxonomy]] clarifies the epistemic gradient here: that experience exists is apodictic (indubitable); the present-moment character of attended contemplative states is adequately given; but the structural claims about temporal microstructure, the awareness-content distinction, and progressive disclosure involve presumptive evidence — revisable and dependent on interpretive horizons. The convergent findings are strongest where they approach adequate evidence (attended phenomenal content) and weakest where they reach toward metaphysical interpretation (the presumptive level).
+**What contemplative methods can establish:** Claims about the structure of experience — its temporal grain, the awareness-content relationship, the constructed character of the narrative self, the existence of non-ordinary conscious states, and attentional trainability. They can also provide evidence bearing on causal claims: the content-specificity of meditation effects demonstrates that phenomenological character tracks neural outcomes. Husserl's [[epistemology-of-first-person-evidence|evidence taxonomy]] clarifies the epistemic gradient here: that experience exists is apodictic (indubitable); the present-moment character of attended contemplative states is adequately given; but the structural claims about temporal microstructure, the awareness-content distinction, and progressive disclosure involve presumptive evidence — revisable and dependent on interpretive horizons. The convergent findings are strongest where they approach adequate evidence (attended phenomenal content) and weakest where they reach toward metaphysical interpretation (the presumptive level).
 
 **What contemplative methods cannot establish:** Metaphysical questions about the ultimate nature of consciousness — whether it is a substance, property, or something else entirely. Mechanism — how consciousness-brain interaction operates (whether through [[tenets#^minimal-quantum-interaction|quantum indeterminacy]], emergent downward causation, or some unknown process). Interpretive disagreements between traditions with equally deep contemplative expertise.
 
@@ -237,7 +236,7 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 - [[consciousness-and-skill-acquisition]] — The developmental arc from effortful practice to effortless mastery
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Meditation as voluntary interface modulation within a systematic comparison of five altered states
 - [[contemplative-practice-as-philosophical-evidence]] — How practice progressively expands access to phenomenal structure
-- [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and how it calibrates the epistemic weight of first-person data
+- [[epistemology-of-first-person-evidence|Husserl's evidence taxonomy]] — How it calibrates the epistemic weight of first-person data
 - [[phenomenology]] — Husserl's phenomenological method and its relation to contemplative practice
 - [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as the involuntary counterpart to contemplative evidence
 - [[aesthetics-and-consciousness]] — Aesthetic sensitivity deepening with training as evidence for irreducibility

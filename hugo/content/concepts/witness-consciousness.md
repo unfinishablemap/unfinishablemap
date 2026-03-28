@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-03-28 17:28:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Awareness that observes mental contents without identifying with th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 14:41:00+00:00
+last_deep_review: 2026-03-28 17:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -194,7 +194,8 @@ What contemplatives discovered through sustained practice, phenomenology articul
 
 ## Further Reading
 
-- [self-reference paradox](/voids/self-opacity/) — Why the observing self cannot observe itself
+- [self-opacity](/voids/self-opacity/) — Why the observing self cannot fully know itself
+- [self-reference-paradox](/concepts/self-reference-paradox/) — Gödelian structural limits on self-knowledge
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Irreducibility without permanence
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Minimal phenomenal experience
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sleep-onset phenomenology and the witness during interface transitions

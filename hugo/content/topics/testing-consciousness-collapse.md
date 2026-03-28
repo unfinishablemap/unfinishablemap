@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-25 19:01:00+00:00
+ai_modified: 2026-03-28 17:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -76,7 +76,7 @@ The result was negative. No radiation was found beyond residual emissions from t
 
 In 2024, Barbatti applied atomistic Diósi-Penrose calculations to molecular and biological systems, yielding new collapse-time estimates for specific structures. These calculations provide more granular predictions than the original model's bulk approximations and open additional experimental channels — if the predicted collapse times for particular molecular configurations can be tested, the gravity-collapse programme gains new empirical traction even after Gran Sasso.
 
-One candidate mechanism for consciousness-collapse has been significantly constrained. The broader research programme survives because it was never dependent on a single mechanism.
+Penrose is developing revised collapse models that do not predict spontaneous radiation, which would evade the Gran Sasso constraint entirely. One candidate mechanism for consciousness-collapse has been significantly constrained, but the broader research programme survives because it was never dependent on a single mechanism.
 
 ### Macromolecule Interferometry: Pushing the Mass Frontier
 
@@ -84,7 +84,7 @@ Matter-wave interferometry provides the most direct probe of whether superpositi
 
 Adler's enhanced collapse rate (λ ≈ 10⁻⁸ s⁻¹) — motivated by the desire to solve the measurement problem at biologically relevant scales — is now approaching experimental constraints. Upper bounds from spontaneous heating of the intergalactic medium place limits around λ ≈ 10⁻⁹ s⁻¹, which begins to squeeze Adler's preferred value. Testing it directly requires superpositions at mass scales of roughly 10⁹ to 10¹¹ amu.
 
-The proposed MAQRO space mission would test nanospheres up to 10¹¹ amu in the microgravity environment of space. At these masses, CSL models predict observable deviations from standard quantum mechanics. If superposition persists, the standard CSL parameter space would be largely excluded. If it breaks down in a way consistent with mass-dependent collapse, this would support the physical framework that consciousness-collapse theories require.
+Cold-atom experiments provide complementary bounds through anomalous heating measurements, constraining collapse parameters from a different direction. The proposed MAQRO space mission would test nanospheres up to 10¹¹ amu in the microgravity environment of space. At these masses, CSL models predict observable deviations from standard quantum mechanics. If superposition persists, the standard CSL parameter space would be largely excluded. If it breaks down in a way consistent with mass-dependent collapse, this would support the physical framework that consciousness-collapse theories require.
 
 ## Seven Differential Predictions
 
@@ -106,7 +106,7 @@ Objective collapse models (GRW, CSL) predict that decoherence rates scale quadra
 
 Horchani developed a unified master equation incorporating all known environmental decoherence sources alongside CSL collapse, with a Bayesian inference protocol for discriminating between models — transforming the test from indirect parameter bounding to direct hypothesis comparison.
 
-**What to look for:** In levitated nanoparticle experiments with carefully characterised environmental noise, excess decoherence beyond all modelled environmental sources, exhibiting mass-quadratic scaling and saturation at large superposition sizes.
+**What to look for:** In levitated optomechanical experiments — Horchani's proposal uses dielectric nanospheres to create controllable Schrödinger-cat states — excess decoherence beyond all modelled environmental sources, exhibiting mass-quadratic scaling and saturation at large superposition sizes.
 
 **Current status:** Proposed. This prediction tests collapse generally, not consciousness-collapse specifically — but it is a necessary precondition for the Map's position: if no objective collapse mechanism exists, consciousness has nothing to modulate.
 
@@ -229,3 +229,14 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses a predict
 12. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
 13. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
 14. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+
+<!-- AI REFINEMENT LOG - 2026-03-28
+Changes made:
+- Added Penrose's radiation-free model variants to Gran Sasso section (from research notes)
+- Added dielectric nanosphere/Schrödinger-cat state specifics to Horchani prediction
+- Added cold-atom complementary bounds to interferometry section
+
+Research integration check: All four major findings from experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md were already present (Chalmers-McQueen IIT+CSL, Gran Sasso constraints, Horchani levitated optomechanical proposal, extended Wigner friend scenarios). These three additions fill minor detail gaps.
+
+This log should be removed after human review.
+-->

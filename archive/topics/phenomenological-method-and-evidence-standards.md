@@ -2,10 +2,15 @@
 title: "Phenomenological Method and Evidence Standards"
 description: "How phenomenology's internal evidence taxonomy—apodictic, adequate, presumptive—provides rigorous standards for first-person data that natural science cannot replicate or replace."
 created: 2026-03-19
-modified: 2026-03-19
+modified: 2026-03-28
 human_modified:
-ai_modified: 2026-03-28T01:54:00+00:00
+ai_modified: 2026-03-28T17:49:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-28T17:49:00+00:00
+superseded_by: "/topics/epistemology-of-first-person-evidence/"
+archive_reason: "Coalesced into The Epistemology of First-Person Evidence"
+original_path: "/topics/phenomenological-method-and-evidence-standards/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"

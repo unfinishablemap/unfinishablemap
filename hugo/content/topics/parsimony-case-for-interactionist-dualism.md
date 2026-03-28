@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-28 07:58:00+00:00
+ai_modified: 2026-03-28 16:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Interactionist dualism may be simpler than physicalism once all exp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 07:58:00+00:00
+last_deep_review: 2026-03-28 16:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ Most tellingly, parsimony's own advocates have abandoned or qualified the argume
 
 ### The Proliferation Problem
 
-If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [functionalism](/concepts/functionalism/), higher-order thought theory, higher-order perception theory, [global-workspace-theory](/concepts/global-workspace-theory/), illusionism, eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [explanatory-gap](/concepts/explanatory-gap/). The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
+If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [functionalism](/concepts/functionalism/), [higher-order thought theory](/concepts/higher-order-theories/), [higher-order perception theory](/concepts/higher-order-theories/), [global-workspace-theory](/concepts/global-workspace-theory/), [illusionism](/concepts/illusionism/), eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [explanatory-gap](/concepts/explanatory-gap/). The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
 
 A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. But the analogy fails. In healthy research programmes, competing theories converge as evidence accumulates — rival models of stellar nucleosynthesis, for instance, progressively unified. The physicalist theories of consciousness are not converging. After decades, they remain structurally incompatible, and the [hard problem](/topics/hard-problem-of-consciousness/) remains exactly as Chalmers formulated it. This pattern — persistent fragmentation despite sustained effort — is the signature of a constraint that does not fit the phenomenon.
 

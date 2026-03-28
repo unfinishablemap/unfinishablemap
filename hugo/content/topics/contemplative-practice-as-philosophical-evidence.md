@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-28 17:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,7 +49,6 @@ related_articles:
 - '[[testing-the-map-from-inside]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[phenomenological-method-and-evidence-standards]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Contemplative Practice as Philosophical Evidence
 topics:
@@ -69,6 +68,8 @@ Philosophy has a toolkit: thought experiments test intuitions against imagined s
 This creates a gap. Whether awareness can exist independently of objects, whether the ordinary sense of self is constructed or given, what the temporal grain of experience actually is — these questions demand sustained first-person investigation under controlled conditions.
 
 A practice counts as philosophical methodology when it satisfies three conditions: it is disciplined (following systematic procedures rather than casual impression), it is directed at philosophical questions (not merely therapeutic or devotional), and it produces findings that constrain theoretical options. This argument assumes that trained introspection is at least partially reliable — a claim defended in the [rehabilitation of introspection](/topics/epistemology-of-first-person-evidence/) and supported by neurophenomenological cross-validation.
+
+The epistemic significance of contemplative training becomes clearer in light of the graded authority framework developed in the first-person evidence article. Phenomenal authority operates at three layers: authority over *that* experience exists (robust, approaching incorrigibility), authority over *what* attended experience is like (strong, improvable with training), and authority over structural and comparative features (partial in naive introspection, where Schwitzgebel's unreliability evidence is strongest). Contemplative practice targets precisely the second and third layers — the layers where naive introspection is weakest. Sustained attention training improves accuracy about phenomenal character under focal attention. Progressive disclosure of temporal microstructure, the awareness-content distinction, and the constructed self represents the third layer becoming accessible through disciplined practice. Contemplative methodology does not merely assume introspective reliability; it systematically extends it into domains where casual introspection fails.
 
 **Disciplined procedure.** Contemplative traditions prescribe specific techniques with precise instructions, progressive stages, and criteria for competence. Shamatha training involves sustained single-pointed attention with explicit markers of progress: stability, vividness, and the capacity to maintain focus without effort. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure. These are structured methodological protocols comparable in rigour to Husserl's epoché — and arguably more demanding, since they require sustained practice rather than momentary reflection.
 
@@ -134,7 +135,7 @@ First, the same objection applies to all philosophical methods. Thought experime
 
 Second, certain contemplative findings converge across traditions with different theoretical commitments — though the strength of convergence varies by finding. The discovery that the ordinary narrative self is constructed appears robustly across Buddhist, Hindu, Christian, Sufi, and secular traditions, making it the strongest candidate for a genuine cross-traditional finding. The awareness-content distinction appears in many traditions, though interpretations diverge. The discovery of discrete mental events is strongest within Buddhist traditions and less clearly reported elsewhere. Theory-laden artefacts should diverge across incompatible theoretical frameworks; where structural convergence appears despite theoretical disagreement, genuine discovery is the better explanation. This independence claim requires a caveat: historical transmission between contemplative traditions complicates claims of full independence. Convergence is strongest where traditions with genuinely distinct historical roots report similar structural findings.
 
-Third, [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) cross-validation partially addresses the problem. When contemplative reports predict neural signatures that untrained reports do not, the first-person observations are confirmed by independent third-person measurement. Fox et al. (2012) found that meditation experience predicts introspective accuracy. This does not eliminate theory-ladenness, but it provides a check that no purely first-person method can offer on its own.
+Third, [neurophenomenological](/concepts/neurophenomenology-and-contemplative-neuroscience/) cross-validation partially addresses the problem. When contemplative reports predict neural signatures that untrained reports do not, the first-person observations are confirmed by independent third-person measurement. Fox et al. (2012) found that meditation experience predicts introspective accuracy — and the improvement follows a skill-acquisition curve characteristic of genuine perceptual learning rather than progressive confabulation. This cross-modal convergence *increases* with training, which is the opposite of what theory-ladenness predicts: if training merely deepened theoretical bias, trained reports should diverge from neural data as practice introduces more tradition-specific distortion. That convergence tightens instead suggests contemplative training genuinely extends phenomenal authority into structural domains where naive introspection is unreliable.
 
 ## Testing Consciousness Theories
 
@@ -178,7 +179,7 @@ The honest assessment: contemplative evidence eliminates epiphenomenalism and re
 
 Understanding the boundaries of contemplative methodology is essential for honest use.
 
-**What contemplative methods can establish:** Claims about the structure of experience — its temporal grain, the awareness-content relationship, the constructed character of the narrative self, the existence of non-ordinary conscious states, and attentional trainability. They can also provide evidence bearing on causal claims: the content-specificity of meditation effects demonstrates that phenomenological character tracks neural outcomes. Husserl's [evidence taxonomy](/topics/phenomenological-method-and-evidence-standards/) clarifies the epistemic gradient here: that experience exists is apodictic (indubitable); the present-moment character of attended contemplative states is adequately given; but the structural claims about temporal microstructure, the awareness-content distinction, and progressive disclosure involve presumptive evidence — revisable and dependent on interpretive horizons. The convergent findings are strongest where they approach adequate evidence (attended phenomenal content) and weakest where they reach toward metaphysical interpretation (the presumptive level).
+**What contemplative methods can establish:** Claims about the structure of experience — its temporal grain, the awareness-content relationship, the constructed character of the narrative self, the existence of non-ordinary conscious states, and attentional trainability. They can also provide evidence bearing on causal claims: the content-specificity of meditation effects demonstrates that phenomenological character tracks neural outcomes. Husserl's [evidence taxonomy](/topics/epistemology-of-first-person-evidence/) clarifies the epistemic gradient here: that experience exists is apodictic (indubitable); the present-moment character of attended contemplative states is adequately given; but the structural claims about temporal microstructure, the awareness-content distinction, and progressive disclosure involve presumptive evidence — revisable and dependent on interpretive horizons. The convergent findings are strongest where they approach adequate evidence (attended phenomenal content) and weakest where they reach toward metaphysical interpretation (the presumptive level).
 
 **What contemplative methods cannot establish:** Metaphysical questions about the ultimate nature of consciousness — whether it is a substance, property, or something else entirely. Mechanism — how consciousness-brain interaction operates (whether through [quantum indeterminacy](/tenets/#minimal-quantum-interaction), emergent downward causation, or some unknown process). Interpretive disagreements between traditions with equally deep contemplative expertise.
 
@@ -238,7 +239,7 @@ The distinction between willed and exogenous attention in [contemplative neurosc
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — The developmental arc from effortful practice to effortless mastery
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Meditation as voluntary interface modulation within a systematic comparison of five altered states
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How practice progressively expands access to phenomenal structure
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's evidence taxonomy and how it calibrates the epistemic weight of first-person data
+- [Husserl's evidence taxonomy](/topics/epistemology-of-first-person-evidence/) — How it calibrates the epistemic weight of first-person data
 - [phenomenology](/concepts/phenomenology/) — Husserl's phenomenological method and its relation to contemplative practice
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Clinical disruptions as the involuntary counterpart to contemplative evidence
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic sensitivity deepening with training as evidence for irreducibility
@@ -260,3 +261,14 @@ The distinction between willed and exogenous attention in [contemplative neurosc
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
+
+<!-- AI REFINEMENT LOG - 2026-03-28
+Changes made:
+- Added graded authority framework paragraph to methodology section, connecting contemplative training to the three layers of phenomenal authority
+- Strengthened theory-ladenness response: training-dependent convergence increases (opposite of bias prediction), explicitly connecting to skill-acquisition evidence
+- Both additions integrate findings from phenomenal-authority-epistemic-weight-2026-03-28.md research
+
+Key improvements: contemplative practice now explicitly positioned as extending phenomenal authority into structural domains where naive introspection fails
+
+This log should be removed after human review.
+-->

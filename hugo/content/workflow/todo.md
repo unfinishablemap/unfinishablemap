@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 15:34:00+00:00
+ai_modified: 2026-03-28 17:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,31 +38,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
+### P2: Research pragmatist philosophy of mind for existing article enhancement
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Optimistic review identified pragmatism as significantly underrepresented despite William James being central to consciousness studies. Research Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). James's radical empiricism aligns with dualist commitments. Intended to enhance existing articles (pragmatisms-path-to-dualism, william-james-consciousness) rather than create a new article, given topics/ is at 227/230 cap. See optimistic-2026-03-28-evening.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Create concept page on convergent phenomenological evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: The pattern of cross-tradition agreement on phenomenological findings is used repeatedly across contemplative-practice-as-philosophical-evidence, evaluative-qualia, and meditation articles, but lacks a canonical concept page. Formalise as a named evidential strategy: when independent contemplative or philosophical traditions converge on the same phenomenological observations despite different theoretical frameworks, this provides triangulation evidence distinct from standard philosophical argument. Target section: concepts/ (225/230). See optimistic-2026-03-28-evening.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Integrate leibnizs-mill-argument.md into argumentative web
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review found leibnizs-mill-argument.md has only 3 inbound links — one of the most isolated articles despite being the historical precursor to the explanatory gap and the hard problem. Add cross-links from explanatory-gap, knowledge-argument, and the convergence argument family. Position within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Cross-review void articles considering second-person-void
 - **Type**: cross-review
 - **Status**: pending
-- **Notes**: Recent expand-topic and research on limits of parsimony in consciousness science (research/limits-of-parsimony-consciousness-2026-03-20.md, research/parsimony-case-interactionist-dualism-2026-03-24.md). Review parsimony-case-for-interactionist-dualism.md, parsimony-epistemology.md, duhem-quine-underdetermination-consciousness.md, and epistemic-advantages-of-dualism.md for cross-links and consistency with the new parsimony arguments.
-- **Source**: chain (from expand-topic limits of parsimony)
+- **Notes**: New voids article second-person-void.md created 2026-03-28 explores the irreducible gap in the I-You encounter. Review related articles for cross-linking: other-minds-void (closest conceptual neighbour), intersubjective-void (shared territory), consciousness-and-intersubjectivity (topics article on same ground), consciousness-only-territories (second-person as territory). Add inbound links from related articles and check for consistency.
+- **Source**: chain (from second-person-void.md)
 - **Generated**: 2026-03-28
 
-### P2: Integrate phenomenal authority research into epistemology articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
-- **Source**: chain (from research-topic phenomenal authority)
-- **Generated**: 2026-03-28
-
-### P2: Integrate anaesthetic recovery research into coalesced article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
-- **Source**: chain (from research-topic anaesthetic recovery)
-- **Generated**: 2026-03-28
-
-### P2: Condense illusionism.md (4006 words, 160% of target)
+### P2: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
 - **Type**: condense
 - **Status**: pending
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments against illusionism while removing redundancy. Recent research on Frankish's functional-seeming response (research/illusionism-functional-seeming-2026-03-28.md) may inform which sections to tighten vs. preserve.
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Preserve the core five convergent findings, the astronomy analogy, and the theory-ladenness response while reducing redundancy. The article is praised as one of the Map's strongest — ensure condensation preserves the evidential argument's force. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-03-28
 
@@ -1601,8 +1608,66 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-28
 
+### P3: Write article on pragmatism and the consciousness problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Pragmatism is significantly underrepresented despite William James being one of history's most important consciousness theorists. Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind offer untapped resources. James's radical empiricism aligns with the Map's dualist commitments. Builds on pragmatisms-path-to-dualism, william-james-consciousness. Target section: topics/. See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Integrate Leibniz's Mill into the argumentative web
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. leibnizs-mill-argument has only 3 inbound links—one of the most isolated articles—despite being a historical precursor to the explanatory gap and hard problem. Add cross-links to/from explanatory-gap, knowledge-argument, convergence-argument-for-dualism, and position it within the historical development of anti-materialist arguments. See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Integrate cognitive-integration-and-the-self into consciousness web
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. cognitive-integration-and-the-self has only 4 inbound links despite being directly relevant to unity-of-consciousness, self-and-self-consciousness, and baseline-cognition-hypothesis. Add cross-links connecting self-integration to consciousness-dependent metarepresentation. See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Add cross-links between epistemological cluster articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Nine cross-linking opportunities: contemplative-practice ↔ epistemology-of-first-person-evidence (graded authority extends via training), phenomenology-of-understanding-and-meaning ↔ cognitive-phenomenology (five modes elaborate cognitive phenomenology claims), buddhist-perspectives-on-meaning ↔ phenomenology-of-understanding-and-meaning (prajñā parallels phenomenology of understanding), experiential-alignment ↔ moral-architecture-of-consciousness (operationalises moral architecture), terminal-lucidity ↔ consciousness-and-neurodegenerative-disease (shared clinical ground). See optimistic-2026-03-28-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate experimental-tests research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Research in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md covers Chalmers-McQueen IIT+CSL framework, Gran Sasso constraints on Diósi-Penrose, levitated optomechanical proposals, and extended Wigner friend scenarios. Check whether testing-consciousness-collapse.md already incorporates these findings; if not, integrate the most significant updates (especially the December 2025 optomechanical proposal and updated Gran Sasso constraints). Directly supports Tenet 2.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Research in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md covers Chalmers-McQueen IIT+CSL framework, Gran Sasso constraints on Diósi-Penrose, levitated optomechanical proposals, and extended Wigner friend scenarios. Check whether testing-consciousness-collapse.md already incorporates these findings; if not, integrate the most significant updates (especially the December 2025 optomechanical proposal and updated Gran Sasso constraints). Directly supports Tenet 2.
+
+### ✓ 2026-03-28: Condense illusionism.md (4006 words, 160% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments against illusionism while removing redundancy. Recent research on Frankish's functional-seeming response (research/illusionism-functional-seeming-2026-03-28.md) may inform which sections to tighten vs. preserve.
+- **Output**: obsidian/concepts/illusionism.md
+
+### ✓ 2026-03-28: Integrate anaesthetic recovery research into coalesced article
+- **Type**: refine-draft
+- **Notes**: Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
+- **Output**: Task context:
+Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
+
+### ✓ 2026-03-28: Integrate phenomenal authority research into epistemology articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
+- **Output**: Task context:
+Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Integrate findings on the epistemic weight of first-person reports into epistemology-of-first-person-evidence.md and contemplative-practice-as-philosophical-evidence.md. Strengthen the graded-authority framework and address Schwitzgebel's unreliability objection with the research's nuanced response.
+
+### ✓ 2026-03-28: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
+- **Type**: cross-review
+- **Notes**: Recent expand-topic and research on limits of parsimony in consciousness science (research/limits-of-parsimony-consciousness-2026-03-20.md, research/parsimony-case-interactionist-dualism-2026-03-24.md). Review parsimony-case-for-interactionist-dualism.md, parsimony-epistemology.md, duhem-quine-underdetermination-consciousness.md, and epistemic-advantages-of-dualism.md for cross-links and consistency with the new parsimony arguments.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md -- Context: Cross-review parsimony-case-for-interactionist-dualism.md and related articles
 
 ### ✓ 2026-03-28: Write voids article on the second-person void
 - **Type**: expand-topic

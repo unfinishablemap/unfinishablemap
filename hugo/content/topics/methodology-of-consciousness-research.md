@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-28 17:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -41,7 +41,6 @@ related_articles:
 - '[[tenets]]'
 - '[[epistemology-of-first-person-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[phenomenological-method-and-evidence-standards]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[consciousness-defeats-explanation]]'
@@ -127,7 +126,7 @@ The Map's position: epistemic asymmetry reflects ontological asymmetry. The diff
 
 Introspection's unreliability — a common objection to first-person methods — actually supports the Map's position. Early experimental psychology produced inconsistent introspective results. Contemporary critics argue introspection suffers from self-observation problems and response bias. The Map acknowledges these limitations while rejecting the eliminativist conclusion. Difficulty accessing phenomenology doesn't entail its unreality. Compare quantum measurement: the observer effect makes quantum systems difficult to observe without disturbing them, but this reflects deep features of quantum reality, not its non-existence.
 
-Trained introspection addresses the reliability objection by treating first-person observation as a skill. Contemplative traditions have developed sophisticated techniques over millennia. As [cross-traditional evidence confirms](/topics/contemplative-practice-as-philosophical-evidence/), trained meditators produce more consistent and fine-grained phenomenological reports. Husserl's [evidence taxonomy](/topics/phenomenological-method-and-evidence-standards/) adds rigour: apodictic evidence (experience exists) is indubitable, while presumptive evidence (background phenomenology persists when unattended) remains revisable. The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) develops the positive account — arguing introspection is a sui generis epistemic capacity providing direct phenomenal presentation combined with fallible judgement.
+Trained introspection addresses the reliability objection by treating first-person observation as a skill. Contemplative traditions have developed sophisticated techniques over millennia. As [cross-traditional evidence confirms](/topics/contemplative-practice-as-philosophical-evidence/), trained meditators produce more consistent and fine-grained phenomenological reports. Husserl's [evidence taxonomy](/topics/epistemology-of-first-person-evidence/) adds rigour: apodictic evidence (experience exists) is indubitable, while presumptive evidence (background phenomenology persists when unattended) remains revisable. The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) develops the positive account — arguing introspection is a sui generis epistemic capacity providing direct phenomenal presentation combined with fallible judgement.
 
 Introspection's limits may reflect [cognitive closure](/concepts/mysterianism/) — constitutional limits on human understanding. Methodological humility (introspection is hard, possibly impossibly hard) is compatible with ontological realism (phenomenology is real despite access difficulties).
 
@@ -152,7 +151,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [introspection](/concepts/introspection/) — The reliability debate, process/content distinction, and the case for restoring introspection as a serious method
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
 - [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Competing models of introspective knowledge, the sui generis account, and how first-person reports gain evidential standing
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's evidence taxonomy and its consequences
+- [Husserl's evidence taxonomy](/topics/epistemology-of-first-person-evidence/) — Evidence standards and their consequences for first-person methods
 - [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Empirical integration of first-person and third-person methods
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has structural limits
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation leaves phenomenal character unexplained

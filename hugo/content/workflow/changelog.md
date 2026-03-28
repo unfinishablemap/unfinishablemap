@@ -9,6 +9,79 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-28 17:49 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Target**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Archived**: [phenomenological-method-and-evidence-standards](/archive/topics/phenomenological-method-and-evidence-standards/)
+- **References to review**: 0 (all 7 active content files updated inline)
+
+## 2026-03-28 17:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Changes**: Integrated 3 minor details from research notes (Penrose radiation-free variants, Horchani nanosphere platform specifics, cold-atom complementary bounds). Core research findings were already incorporated from deep-review on 2026-03-25.
+- **Published**: yes
+
+## 2026-03-28 17:28 UTC - deep-review
+- **Status**: Success
+- **File**: [witness-consciousness](/concepts/witness-consciousness/)
+- **Word count**: 2623 → 2631 (+8)
+- **Critical issues addressed**: 1 (conflated wikilink in Further Reading)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (split self-opacity/self-reference-paradox link)
+- **Output**: [deep-review-2026-03-28-witness-consciousness](/reviews/deep-review-2026-03-28-witness-consciousness/)
+
+## 2026-03-28 17:04 UTC - condense
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Before**: 4006 words
+- **After**: 1722 words
+- **Reduction**: 57%
+- **Technique**: Cut tangential sections (Mysterian Alternative, Process Philosophy, Current State of Debate), compressed qualia taxonomy, trimmed AST detail (deferred to linked article), removed Kammerer subsection detail, tightened epiphenomenalism convergence, pruned Further Reading to essentials
+
+## 2026-03-28 16:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Integrated flip-flop switch mechanism (Sepúlveda) into Neural Inertia section; added Craddock et al. (2015) quantum channels finding to Minimal Quantum Interaction tenet paragraph with restraint; added Craddock reference. KCC2 downregulation not integrated (insufficient sourcing in research notes).
+- **Published**: yes
+
+## 2026-03-28 16:33 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~452 non-draft articles) with emphasis on epistemological cluster, phenomenological articles, cross-traditional integration, apex synthesis pieces, and structural cross-linking
+- **Output**: [optimistic-2026-03-28-evening](/reviews/optimistic-2026-03-28-evening/)
+
+## 2026-03-28 16:19 UTC - refine-draft
+- **Status**: Success
+- **Files**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Changes**: Integrated research on phenomenal authority and epistemic weight of first-person reports
+  - Added three-layer graded authority framework (existence, character, structure)
+  - Strengthened acquaintance model with Chalmers' direct phenomenal concepts
+  - Added nuanced response to Schwitzgebel's unreliability objection
+  - Added Rorty's Dilemma to self-stultification argument
+  - Connected contemplative training to graded authority (extends authority into structural layer)
+- **Research source**: [phenomenal-authority-epistemic-weight-2026-03-28](/research/phenomenal-authority-epistemic-weight-2026-03-28/)
+- **Published**: yes
+
+## 2026-03-28 16:03 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 2444 → 2444 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links)
+- **Enhancements made**: 3 cross-links added
+- **Output**: [deep-review-2026-03-28b-parsimony-case-for-interactionist-dualism](/reviews/deep-review-2026-03-28b-parsimony-case-for-interactionist-dualism/)
+- **Note**: Cross-review of 8 related articles confirmed network consistency. Fourth review confirms full stability.
+
+## 2026-03-28 15:48 UTC - deep-review
+- **Status**: Success (no changes needed)
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Word count**: 2347 → 2347 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-phenomenal-concepts-strategy](/reviews/deep-review-2026-03-28-phenomenal-concepts-strategy/)
+- **Note**: Fourth review confirms stability. Only mechanical changes since last review (wikilink casing fixes).
+
 ## 2026-03-28 15:40 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Second-Person Void

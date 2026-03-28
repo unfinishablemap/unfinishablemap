@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-28T17:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ The programme also reveals consciousness structures invisible to ordinary intros
 
 ## Varela's Neurophenomenological Method
 
-Varela (1946–2001) proposed neurophenomenology as "a methodological remedy for the hard problem." The [[explanatory-gap]] cannot be closed from the third-person side alone. Husserl's [[phenomenological-method-and-evidence-standards|evidence taxonomy]] provides the internal rigour: different phenomenological claims carry different epistemic weight, from apodictic certainty about experience's existence to merely presumptive claims about its fine structure. Varela added external constraint through a three-step method:
+Varela (1946–2001) proposed neurophenomenology as "a methodological remedy for the hard problem." The [[explanatory-gap]] cannot be closed from the third-person side alone. Husserl's [[epistemology-of-first-person-evidence|evidence taxonomy]] provides the internal rigour: different phenomenological claims carry different epistemic weight, from apodictic certainty about experience's existence to merely presumptive claims about its fine structure. Varela added external constraint through a three-step method:
 
 1. **Phenomenological training**: Subjects learn to observe experience systematically—through meditation or microphenomenological interviews
 2. **Neural measurement**: Brain activity recorded during specific experiential states

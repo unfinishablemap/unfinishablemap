@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-28T17:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ Gallagher and Zahavi identify this as the [[self-and-self-consciousness|minimal 
 
 Critics object that phenomenological reports cannot be trusted. Nisbett and Wilson showed people confabulate explanations for choices; Schwitzgebel catalogued domains where [[introspection]] fails.
 
-The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training. See [[phenomenological-evidence]] for detailed criteria distinguishing reliable from unreliable first-person reports, and [[phenomenological-method-and-evidence-standards|phenomenological method and evidence standards]] for Husserl's taxonomy of apodictic, adequate, and presumptive evidence that determines which first-person claims carry the most epistemic weight.
+The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Moreover, Fox et al. (2012) found meditation experience predicts introspective accuracy—untrained observation is unreliable, but trained observation is a skill like any other. Petitmengin's microphenomenology provides interview techniques specifically designed to minimize confabulation. The critique clarifies rather than defeats phenomenological method: disciplined observation requires training. See [[phenomenological-evidence]] for detailed criteria distinguishing reliable from unreliable first-person reports, and [[epistemology-of-first-person-evidence|phenomenological method and evidence standards]] for Husserl's taxonomy of apodictic, adequate, and presumptive evidence that determines which first-person claims carry the most epistemic weight.
 
 ## Intersubjective Validation
 
