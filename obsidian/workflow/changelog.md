@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 12:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[cognitive-phenomenology]]
+- **Word count**: 3312 → 3041 (-271)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (archived wikilinks, stale refinement log, length growth, Further Reading bloat, removed language-and-consciousness ref)
+- **Enhancements made**: 5 (condensed Sudden Insight, tightened Methodological Asymmetry, trimmed LLM section, tightened evidence sections, cleaned Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-28-cognitive-phenomenology]]
+
 ## 2026-03-28 12:12 UTC - condense
 - **Status**: Success
 - **File**: [[born-rule-and-the-consciousness-interface]]
