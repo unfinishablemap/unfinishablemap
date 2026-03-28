@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T11:12:00+00:00
+ai_modified: 2026-03-28T13:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate Frankish functional-seeming research into illusionism responses
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Three quantum mechanism articles (filter-theory, consciousness-selecting-neural-patterns, downward-causation) use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Integrate the research findings: Frankish's quasi-phenomenal properties, the introspective misrepresentation argument, Kammerer's meta-cognitive account, and the circularity objections that strengthen the Map's position. Update illusionism concept page and at least one quantum mechanism article.
+- **Source**: chain (from illusionism-functional-seeming-2026-03-28.md)
+- **Generated**: 2026-03-28
+
+### P2: Create concept page for memory as dual-domain capability
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/memory-dual-domain-capability-2026-03-09.md. Memory as a capability requiring both brain-side (encoding, consolidation) and mind-side (episodic re-experiencing, autobiographical continuity) processing. No concept page exists despite references across 5+ articles (capability-division-problem, smoothness-problem, perceptual-fidelity-and-the-interface). Supports Tenet 3 (Bidirectional Interaction). Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Write article on limits of parsimony arguments in consciousness science
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/limits-of-parsimony-consciousness-2026-03-20.md. Existing parsimony articles cover the positive case (parsimony-case-for-interactionist-dualism) and concept (parsimony-epistemology), but no article systematically analyses when and why parsimony fails in consciousness science — the core of Tenet 5 (Occam's Razor Has Limits). Covers model-selection theory, domain restrictions, and historical cases where simpler theories were wrong. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Enrich evaluative-qualia.md with cross-traditional normativity research
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
+### P2: Condense episodic-memory.md (4069 words, 163% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. At 4069 words (163% of 2500-word soft target). Preserve core arguments about episodic memory's role in consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
+
+### P2: Research phenomenal authority — epistemic weight of first-person reports
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The concept of phenomenal authority (epistemic weight of first-person reports as distinct from both reliability and infallibility) is developed across epistemology-of-first-person-evidence and multiple other articles but has no dedicated research. A P3 task already exists to create the concept page; this research will ground it. Directly supports the Map's evidential methodology and Tenet 1 (Dualism). Target: research note for concepts/ page.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
 
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review

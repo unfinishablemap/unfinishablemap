@@ -2,21 +2,21 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-28T13:12:27.296521+00:00'
-session_count: 5075
-cycle_position: 4703
+last_updated: '2026-03-28T13:27:27.296808+00:00'
+session_count: 5076
+cycle_position: 4704
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
   check-tenets: '2026-03-28T07:27:27.285995+00:00'
-  check-links: '2026-03-28T01:23:35.582460+00:00'
+  check-links: '2026-03-28T13:27:27.296808+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-26T16:51:38.237069+00:00'
-  research-voids: '2026-03-28T13:32:00+00:00'
+  research-voids: '2026-03-28T13:27:27.296808+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-03-26T16:51:38.237069+00:00'
+  apex-evolve: '2026-03-28T13:27:27.296808+00:00'
   agentic-social: '2026-03-28T13:12:27.296521+00:00'
 last_git_push: '2026-03-28T11:27:27.293308+00:00'
 last_tweet_date: '2026-03-28'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/consciousness-defeats-explanation.)
-  type: deep-review
-  date: '2026-03-28'
-  outcome: success
 - task: refine-draft (obsidian/topics/anaesthesia-and-the-consciousness-)
   type: refine-draft
   date: '2026-03-28'
@@ -133,3 +129,21 @@ recent_tasks:
   type: deep-review
   date: '2026-03-28'
   outcome: success
+- task: research-topic (illusionism and Frankish's functional-seeming resp)
+  type: research-topic
+  date: '2026-03-28'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-03-28T13:45:00+00:00'
+  replenishment_source_counts:
+    chain: 1
+    unconsumed_research: 3
+    gap_analysis: 1
+    length_analysis: 1
+    staleness: 0
+    orphan_integration: 0
