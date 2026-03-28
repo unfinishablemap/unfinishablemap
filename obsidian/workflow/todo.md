@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T08:57:00+00:00
+ai_modified: 2026-03-28T11:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New survey article experimental-consciousness-science-2025-2026.md has only 2 inbound links despite covering major 2025-2026 empirical results (Milinkovic-Aru biological computationalism, Bodart anaesthetic recovery, updated IIT evidence). Key articles that should reference it: comparing-quantum-consciousness-mechanisms, quantum-biology-and-neural-consciousness, consciousness-collapse-experimental-landscape, testing-consciousness-collapse, functionalism, substrate-independence. Add cross-links and check for consistency with new empirical findings.
+- **Source**: chain (from expand-topic experimental-consciousness-science-2025-2026.md)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article completeness-in-physics-under-dualism.md has only 3 inbound links despite being a central philosophical argument (physics is complete about structure but silent about actuality). Key articles that should reference it: bi-aspectual-ontology, born-rule-and-the-consciousness-interface, mathematical-structure-of-the-consciousness-physics-interface, russellian-monism-versus-bi-aspectual-dualism, it-from-bit-and-participatory-ontology. Add cross-links and check for terminological consistency on "partial but complete" framing.
+- **Source**: chain (from expand-topic completeness-in-physics-under-dualism.md)
+- **Generated**: 2026-03-28
+
+### P2: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard warning threshold for topics/. Preserve core arguments about Born rule as interface specification and derivation-attempt limitations while removing redundancy. Recently refined (2026-03-28) so may have grown during enrichment. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-28
+
+### P2: Update 11 stale wikilinks pointing to archived/coalesced articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [[neurophenomenology]] (3 refs in heterophenomenology, intersubjectivity), [[meaning-and-consciousness]] (2 refs in cognitive-phenomenology), [[quantum-measurement-and-definite-outcomes]] (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [[time-perception-consciousness-theories]] (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Research illusionism and Frankish's functional-seeming response to anti-illusionism arguments
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-03-20-c.md) found all three quantum mechanism articles use the same regress argument against illusionism without engaging Frankish's functional-seeming response. Research targets: (1) Frankish's "Illusionism as a Theory of Consciousness" (2016) and subsequent work; (2) the strong vs weak illusionism distinction; (3) Frankish's specific response to the "illusion requires consciousness" regress; (4) Dennett's quining qualia and the quasi-realism parallel; (5) how the Map's position differs from simply dismissing illusionism. This research supports existing P3 refine-draft task for quantum mechanism articles. Target section for potential article: concepts/ (4 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
 
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
