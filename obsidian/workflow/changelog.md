@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 16:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Integrated flip-flop switch mechanism (Sepúlveda) into Neural Inertia section; added Craddock et al. (2015) quantum channels finding to Minimal Quantum Interaction tenet paragraph with restraint; added Craddock reference. KCC2 downregulation not integrated (insufficient sourcing in research notes).
+- **Published**: yes
+
 ## 2026-03-28 16:33 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (~452 non-draft articles) with emphasis on epistemological cluster, phenomenological articles, cross-traditional integration, apex synthesis pieces, and structural cross-linking

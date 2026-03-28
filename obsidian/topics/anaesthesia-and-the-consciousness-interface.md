@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-28T08:43:00+00:00
+ai_modified: 2026-03-28T16:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,9 +105,9 @@ Perhaps the most revealing anaesthetic phenomenon is how consciousness returns. 
 
 ### Neural Inertia
 
-Sepúlveda et al. (2019) define **neural inertia** as an intrinsic resistance of neural circuits to transitions between conscious and unconscious states. The concentration needed to induce unconsciousness exceeds the concentration at which consciousness returns — a hysteresis loop that cannot be fully explained by pharmacokinetics. Friedman et al. (2010) demonstrated that neural inertia is phylogenetically conserved from invertebrates to mammals, suggesting something fundamental about how consciousness relates to neural systems.
+Sepúlveda et al. (2019) define **neural inertia** as an intrinsic resistance of neural circuits to transitions between conscious and unconscious states. The concentration needed to induce unconsciousness exceeds the concentration at which consciousness returns — a hysteresis loop that cannot be fully explained by pharmacokinetics. The underlying mechanism involves mutually inhibitory neuronal populations — anaesthesia-active and wake-active groups forming a bistable flip-flop switch, where each state actively reinforces itself once established. Friedman et al. (2010) demonstrated that neural inertia is phylogenetically conserved from invertebrates to mammals, suggesting something fundamental about how consciousness relates to neural systems rather than a species-specific adaptation.
 
-On production models, hysteresis is puzzling — why should a generator resist being switched back on at the same threshold it was switched off? Filter theory offers a natural reading: the interface has characteristic resistance to reconfiguration in either direction, with the asymmetry reflecting its own structural properties.
+On production models, hysteresis is puzzling — why should a generator resist being switched back on at the same threshold it was switched off? The flip-flop architecture deepens the puzzle: the unconscious state is not merely an absence of conscious activity but an actively maintained alternative configuration that must be overcome. Filter theory offers a natural reading: the interface has characteristic resistance to reconfiguration in either direction, with the bistable switching reflecting the interface's own structural properties rather than mere pharmacokinetic lag.
 
 ### The Active Reboot
 
@@ -147,7 +147,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 
 **[[tenets#^dualism|Dualism]]**: The decisive evidence comes from two directions. First, consciousness *persists or intensifies* during severe neural disruption: terminal lucidity, cardiac arrest gamma surges, vivid ketamine experiences despite complete behavioural unresponsiveness — a system losing generative capacity should not produce more consciousness. Second, the hysteresis of neural inertia: identical neural activity levels correspond to different consciousness states depending on transition direction, suggesting consciousness involves something with its own persistence conditions.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. The irreducible stochasticity of emergence timing in genetically identical organisms adds further support: deterministic models fail where stochastic models succeed, consistent with the interface operating where fundamental indeterminacy shapes reconnection. The [[the-interface-location-problem|constrained pluralism]] position gains support: the interface operates through the [[voluntary-attention-control-mechanisms|attention-motor architecture]] at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. Craddock et al. (2015) provide a more specific candidate: anaesthetics dampen quantum oscillations in tryptophan residues within microtubule quantum channels, impairing π-resonance energy transfer — a proposed mechanism linking anaesthetic action to quantum-sensitive molecular systems. This remains speculative, but if anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness (while sparing other brain functions) gains an additional explanation. The irreducible stochasticity of emergence timing in genetically identical organisms adds further support: deterministic models fail where stochastic models succeed, consistent with the interface operating where fundamental indeterminacy shapes reconnection. The [[the-interface-location-problem|constrained pluralism]] position gains support: the interface operates through the [[voluntary-attention-control-mechanisms|attention-motor architecture]] at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The active reboot — the brain preparing for consciousness before consciousness arrives — suggests causal traffic in both directions. During disconnected consciousness under ketamine, consciousness actively generates elaborate internal experience despite environmental severance — reorganising around whichever channels remain open, characteristic of an agent interacting with a structured interface.
 
@@ -203,17 +203,18 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 1. Sepúlveda, P. O., et al. (2019). Neural inertia and differences between loss of and recovery from consciousness during total intravenous anaesthesia: a narrative review. *Anaesthesia*, 74(6), 801-807.
 1. Friedman, E. B., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 1. Redinbaugh, M. J., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75.
+1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
 
-<!-- AI REFINEMENT LOG - 2026-03-28
+<!-- AI REFINEMENT LOG - 2026-03-28T16:48
 Changes made:
-- Fixed misattribution: "Bodart et al. (2021)" → "Mashour et al. (2021)" throughout — the eLife recovery paper (e59525) is by Mashour GA et al., not Bodart
-- Fixed reference #4: corrected author name and eLife article ID (e60892 → e59525)
-- Fixed in-text citation: "Bhatt et al. (2024)" → "Mashour (2024)" for Neuron review paper (Mashour is confirmed first author)
-- Verified recovery phenomenology and neuroscience adequately represented from research notes
-- KCC2 downregulation: still not integrated — research notes flagged insufficient sourcing
+- Integrated flip-flop switch mechanism (Sepúlveda) into Neural Inertia subsection — mutually inhibitory neuronal populations forming bistable switch, deepening the dualist reading
+- Added Craddock et al. (2015) quantum channels finding to Minimal Quantum Interaction tenet paragraph — anaesthetics dampening tryptophan quantum oscillations in microtubules, presented with appropriate restraint as speculative
+- Added Craddock reference to References section
+- KCC2 downregulation: not integrated — research notes (2026-03-26) flagged insufficient sourcing from web search
 
-Key improvements: Attribution accuracy corrections (3 misattributed citations fixed).
+Based on research integration from research/anaesthetic-recovery-neuroscience-2026-03-26.md.
+Prior refinement (same day) fixed Bodart/Mashour misattributions.
 
 This log should be removed after human review.
 -->

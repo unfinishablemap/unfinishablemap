@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthetic recovery research into coalesced article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
-- **Source**: chain (from research-topic anaesthetic recovery)
-- **Generated**: 2026-03-28
-
 ### P2: Condense illusionism.md (4006 words, 160% of target)
 - **Type**: condense
 - **Status**: pending
@@ -1616,6 +1609,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate anaesthetic recovery research into coalesced article
+- **Type**: refine-draft
+- **Notes**: Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
+- **Output**: Task context:
+Fresh research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers hierarchical restoration patterns, KCC2 downregulation, and Bodart et al. findings. The article anaesthesia-and-the-consciousness-interface.md was recently expanded via coalesce but the new research has not been integrated. Predecessor task (P3 write standalone article) was superseded when research was coalesced in.
 
 ### ✓ 2026-03-28: Integrate phenomenal authority research into epistemology articles
 - **Type**: refine-draft
