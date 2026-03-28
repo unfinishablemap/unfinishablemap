@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T03:12:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 05:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/structure-of-attention]]
+- **Word count**: 2518 → 2530 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (frontmatter concepts not cross-linked in body)
+- **Enhancements made**: 4 (cross-links to free-will, agent-causation, introspection, quantum-consciousness)
+- **Output**: [[reviews/deep-review-2026-03-28-structure-of-attention]]
+
 ## 2026-03-28 04:42 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: clinical neuroplasticity evidence for bidirectional causation

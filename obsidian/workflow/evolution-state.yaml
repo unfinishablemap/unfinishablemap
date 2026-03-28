@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-28T04:27:27.281071+00:00'
-session_count: 5040
-cycle_position: 4668
+last_updated: '2026-03-28T04:57:27.281862+00:00'
+session_count: 5042
+cycle_position: 4670
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-26T16:51:38.237069+00:00'
-  agentic-social: '2026-03-28T04:12:27.280713+00:00'
+  agentic-social: '2026-03-28T04:57:27.281862+00:00'
 last_git_push: '2026-03-28T03:27:27.279303+00:00'
 last_tweet_date: '2026-03-27'
 content_stats:
@@ -51,16 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-27'
-  outcome: success
-- task: 'refine-draft (Task context:
-
-    Coalesce merged cognitive-aversion i)'
-  type: refine-draft
-  date: '2026-03-27'
-  outcome: success
 - task: 'deep-review (obsidian/concepts/epistemology.md -- Context: This)'
   type: deep-review
   date: '2026-03-28'
@@ -140,3 +130,11 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-28'
   outcome: success
+- task: expand-topic (clinical neuroplasticity evidence for bidirectiona)
+  type: expand-topic
+  date: '2026-03-28'
+  outcome: success
+- task: 'deep-review (obsidian/concepts/epiphenomenalism.md -- Context: )'
+  type: deep-review
+  date: '2026-03-28'
+  outcome: failed

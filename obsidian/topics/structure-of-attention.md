@@ -4,7 +4,7 @@ description: "Attention divides into willed, instructed, and exogenous modes wit
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-08T05:29:00+00:00
+ai_modified: 2026-03-28T05:12:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-06T04:10:00+00:00
+last_deep_review: 2026-03-28T05:12:00+00:00
 ---
 
 Attention is not a single phenomenon. It divides into three architecturally distinct modes—exogenous (captured), instructed (cued), and willed (self-generated)—each with different triggers, timescales, and neural signatures. This structure matters philosophically because it identifies precisely where consciousness might do genuine causal work. When you freely choose where to direct focus, neural mechanisms engage that don't engage when you follow instructions or when attention is captured by salience. The additional frontal theta oscillations, bidirectional frontoparietal coherence, and extra frontal recruitment during willed attention mark what The Unfinishable Map claims consciousness contributes: internal decision-making about what to select.
@@ -97,7 +97,7 @@ When you follow a cue, there's more active engagement than capture but less than
 
 ### Willing Feels Like Effort
 
-When you choose where to attend, the experience includes a distinctive sense of *work*. Sustained willed attention is metabolically expensive and feels that way. William James observed that "the free will question relates solely to the amount of effort of attention."
+When you choose where to attend, the experience includes a distinctive sense of *work*. Sustained willed attention is metabolically expensive and feels that way. William James observed that "the [[free-will|free will]] question relates solely to the amount of effort of attention."
 
 This phenomenological difference—why willing feels effortful while capture doesn't—demands explanation. If all attention were just neural computation, why would some modes feel like work? The [[mental-effort]] article develops this: effort may feel real because it *is* real work—consciousness actively holding neural patterns through repeated observation.
 
@@ -109,7 +109,7 @@ The same ~300ms window appears in motor selection. Thura & Cisek (2014) identifi
 
 If willed attention and willed action share a common mechanism, the ~300ms window marks where consciousness engages the selection interface. The timing is too slow for exogenous reflexes, too slow for automatic processing, but right for deliberate choice.
 
-For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—rapid observation holding desired patterns stable—it would require time for sustained engagement. The ~300ms deployment window might provide that time. This remains speculative, but the timing is striking: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require.
+For the Map's framework, this temporal structure is suggestive. If consciousness operates through something like quantum Zeno effects—the [[quantum-consciousness|quantum consciousness]] mechanism of rapid observation holding desired patterns stable—it would require time for sustained engagement. The ~300ms deployment window might provide that time. This remains speculative, but the timing is striking: exogenous attention's brief duration (~100ms) would be insufficient for sustained influence, while willed attention's sustained character fits what such a mechanism would require.
 
 ## The Neural Architecture
 
@@ -175,7 +175,7 @@ The three-mode structure of attention illuminates the [[attention-as-interface|a
 
 **Instructed attention** involves minimal conscious contribution. You implement an externally specified goal. Some agency, but the choice was outsourced.
 
-**Willed attention** is where consciousness adds something. The frontal theta, the bidirectional coherence, the extra frontal recruitment—these neural signatures mark the contribution that instruction-following lacks.
+**Willed attention** is where consciousness adds something—an instance of [[agent-causation]] at the neural level. The frontal theta, the bidirectional coherence, the extra frontal recruitment—these neural signatures mark the contribution that instruction-following lacks.
 
 The structure reveals the interface in action: when you will attention, machinery engages that doesn't engage otherwise. The phenomenology of effort corresponds to the neural distinctiveness.
 
@@ -191,7 +191,7 @@ Meditation traditions provide phenomenological data on attention's structure. Tw
 
 **Open monitoring (OM) meditation** cultivates something else: receiving all contents without preference or intervention. Neither capture nor willing. The practitioner observes attention itself.
 
-Neural signatures differ: FA increases frontal theta and ACC activation (the willed-attention signature); OM reduces them and increases alpha. Advanced practitioners report increasingly fine-grained awareness of the willed/captured distinction—consistent with introspective access to genuine differences.
+Neural signatures differ: FA increases frontal theta and ACC activation (the willed-attention signature); OM reduces them and increases alpha. Advanced practitioners report increasingly fine-grained awareness of the willed/captured distinction—consistent with [[introspection|introspective]] access to genuine differences.
 
 Buddhist traditions raise a challenge: if there is no stable self, who does the willing? The no-self (*anatta*) doctrine suggests the "willer" is itself a construction. The Map's response is that the phenomenology of willing exists even if no permanent self does. The experience of effort, the sense of internal origination—these are data regardless of whether they emanate from a substantial self or from moment-to-moment processes. What matters for the mind-matter interface is that willing *happens* and shows distinctive neural signatures, not that a Cartesian ego performs it.
 
