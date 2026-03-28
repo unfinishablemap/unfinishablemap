@@ -4,7 +4,7 @@ description: "Every model of explanation fails for consciousness—not as a loca
 created: 2026-02-18
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-26T15:21:00+00:00
+ai_modified: 2026-03-28T08:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,12 +45,15 @@ related_articles:
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[methodology-of-consciousness-research]]"
+  - "[[explanatory-void]]"
+  - "[[self-reference-paradox]]"
+  - "[[temporal-structure-of-understanding]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: 2026-03-26T15:21:00+00:00
+last_deep_review: 2026-03-28T08:27:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-limits-of-explanation/"
   - "/topics/consciousness-and-methodological-failure/"
@@ -175,6 +178,9 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[methodology-of-consciousness-research]] — Integrating subjective and objective approaches
 - [[contemplative-practice-as-philosophical-evidence]] — First-person methods for the reflexive gap
 - [[illusionism]] — The strongest physicalist response to the explanatory gap
+- [[explanatory-void]] — The void at the heart of explanation: why understanding cannot ground itself
+- [[self-reference-paradox]] — Structural obstacles when consciousness studies itself
+- [[temporal-structure-of-understanding]] — The phenomenal character of the "click" of comprehension
 
 ## References
 

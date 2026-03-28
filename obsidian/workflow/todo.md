@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-defeats-explanation.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced from limits-of-explanation-for-consciousness.md and methodological-failure-in-consciousness-studies.md on 2026-03-26, never reviewed post-coalesce. Verify the merge preserved coherent argument structure, eliminated redundancy between source articles, and maintained cross-references to hard-problem-of-consciousness, argument-from-reason, self-stultification-as-master-argument. Check that the reflexive gap argument (consciousness as condition of explanation) is clearly stated.
-- **Source**: staleness
-- **Generated**: 2026-03-28
-
 ### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1532,6 +1525,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Deep review consciousness-defeats-explanation.md
+- **Type**: deep-review
+- **Notes**: Coalesced from limits-of-explanation-for-consciousness.md and methodological-failure-in-consciousness-studies.md on 2026-03-26, never reviewed post-coalesce. Verify the merge preserved coherent argument structure, eliminated redundancy between source articles, and maintained cross-references to hard-problem-of-consciousness, argument-from-reason, self-stultification-as-master-argument. Check that the reflexive gap argument (consciousness as condition of explanation) is clearly stated.
+- **Output**: obsidian/topics/consciousness-defeats-explanation.md
 
 ### ✓ 2026-03-28: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
