@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T03:12:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 05:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/epiphenomenalism]]
+- **Word count**: 3474 → 3443 (-31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale HTML comment, uncited reference, heavy intro paragraph)
+- **Enhancements made**: 0 (cleanup-only review post-merger)
+- **Output**: [[reviews/deep-review-2026-03-28-epiphenomenalism]]
+
 ## 2026-03-28 05:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/structure-of-attention]]

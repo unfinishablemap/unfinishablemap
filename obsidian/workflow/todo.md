@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-03-27 merged arguments-against-epiphenomenalism.md into epiphenomenalism.md. Wikilinks were updated, but the merged content now includes the four-argument-type classification, reversed knowledge argument, and convergence framing. Review related articles (the-epiphenomenalist-threat, consciousness-as-amplifier, self-stultification-as-master-argument) for consistency with the consolidated treatment and identify new cross-link opportunities. Supports Tenet 3.
-- **Source**: chain (from epiphenomenalism.md coalesce)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review defended-territory.md after cognitive-aversion merger
 - **Type**: cross-review
 - **Status**: pending
@@ -1539,6 +1532,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-03-27 merged arguments-against-epiphenomenalism.md into epiphenomenalism.md. Wikilinks were updated, but the merged content now includes the four-argument-type classification, reversed knowledge argument, and convergence framing. Review related articles (the-epiphenomenalist-threat, consciousness-as-amplifier, self-stultification-as-master-argument) for consistency with the consolidated treatment and identify new cross-link opportunities. Supports Tenet 3.
+- **Output**: obsidian/concepts/epiphenomenalism.md -- Context: Cross-review epiphenomenalism.md after arguments-against-epiphenomenalism merger
 
 ### ✓ 2026-03-28: Write article on clinical neuroplasticity evidence for bidirectional causation
 - **Type**: expand-topic

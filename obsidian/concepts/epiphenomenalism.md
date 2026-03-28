@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-03-27T17:33:00+00:00
+ai_modified: 2026-03-28T05:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-03-21T11:09:00+00:00
+last_deep_review: 2026-03-28T05:27:00+00:00
 ---
 
 Epiphenomenalism holds that consciousness is causally inert—a byproduct of brain activity that affects nothing, not even our reports about it. Your experience of pain does not cause you to wince; rather, the brain states that produce the wince also happen to produce pain experience as a side effect. Consciousness, on this view, is steam rising from a locomotive: produced by the engine but playing no role in moving the train.
@@ -85,7 +85,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents this argument alongside evolutionary, knowledge-based, and introspective objections. It also appears in formal premise-conclusion form in the [[interactionist-dualism|argument for interactionist dualism]], and is developed in detail in the [[mental-causation]] article. The [[#Convergence of Arguments|convergence section below]] classifies these into four logically independent argument types—epistemic, evolutionary, phenomenological, and the knowledge argument reversed—showing how their cumulative burden escalates even when individual defences succeed.
+The most powerful objection to epiphenomenalism is that it undermines itself. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents the formal argument; the [[mental-causation]] article develops the mechanism in detail. The [[#Convergence of Arguments|convergence section below]] classifies four logically independent argument types—epistemic, evolutionary, phenomenological, and the knowledge argument reversed—showing how their cumulative burden escalates even when individual defences succeed.
 
 Consider: you're reading an argument for epiphenomenalism. You find it convincing. You form the belief that consciousness is causally inert.
 
@@ -242,18 +242,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 1. Kim, J. (1989). "The Myth of Nonreductive Materialism." *Proceedings of the APA*, 63, 31-47.
 1. Lieberman, M.D., et al. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(2), 628-645.
 1. Georgiev, D.D. (2024). "Evolution of Consciousness." *Life*, 14(1), 48.
-1. Robinson, W.S. (2004). *Understanding Phenomenal Consciousness*. Cambridge University Press.
 1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
 
-<!-- AI REFINEMENT LOG - 2026-03-26
-Changes made:
-- Fixed broken section anchor references: removed {#regress} and {#illusionist-response} custom anchors from illusionism.md headings
-- Updated 9 referring wikilinks across obsidian/ and archive/ to use heading text instead of custom anchor IDs
-- Fixed mismatched anchor text in the-epiphenomenalist-threat.md (#The AI Exception Some vs All → #The AI Exception: Some vs. All)
-- Fixed mismatched anchor text in epiphenomenalisms-gravity-well.md archive (#The Self-Stultification Argument → #The Self-Stultification Problem)
-- No content changes to epiphenomenalism.md itself — all anchors already existed correctly
-
-This log should be removed after human review.
--->
