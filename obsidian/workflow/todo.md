@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of Jackson's Mary's Room argument while tightening exposition. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
-
 ### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1623,6 +1616,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of Jackson's Mary's Room argument while tightening exposition. See /condense skill.
+- **Output**: obsidian/concepts/knowledge-argument.md
 
 ### ✓ 2026-03-28: Condense epistemology-of-first-person-evidence.md (5077 words, 127% of hard threshold)
 - **Type**: condense
