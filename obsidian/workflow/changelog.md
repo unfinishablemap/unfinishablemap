@@ -5,6 +5,10 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 12:57 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched all three pressured sections (voids 99/100, topics 226/230, concepts 224/230) across 5 iterations. Examined cognitive-limits cluster, attention pair, temporal cluster, ethics cluster, perception cluster, normativity pair, and convergence pair. All articles proved well-differentiated on close reading. Site content is well-differentiated at current scale.
+
 ## 2026-03-28 12:42 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[consciousness-selecting-neural-patterns]], [[spontaneous-collapse-theories]], [[time-consciousness-growing-block]]
