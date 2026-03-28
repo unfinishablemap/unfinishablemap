@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense episodic-memory.md (4069 words, 163% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. At 4069 words (163% of 2500-word soft target). Preserve core arguments about episodic memory's role in consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Research phenomenal authority — epistemic weight of first-person reports
 - **Type**: research-topic
 - **Status**: pending
@@ -1574,6 +1567,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense episodic-memory.md (4069 words, 163% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. At 4069 words (163% of 2500-word soft target). Preserve core arguments about episodic memory's role in consciousness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/episodic-memory.md
 
 ### ✓ 2026-03-28: Enrich evaluative-qualia.md with cross-traditional normativity research
 - **Type**: refine-draft

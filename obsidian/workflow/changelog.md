@@ -5,6 +5,14 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 14:49 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/episodic-memory]]
+- **Before**: 4069 words
+- **After**: 2589 words
+- **Reduction**: 36%
+- **Technique**: Compressed Tulving framework (linked to dedicated article), tightened Memory as Construction and Consciousness and Consolidation sections, trimmed Illusionist Challenge subsections, shortened Relation to Site Perspective entries, reduced Further Reading list, prose tightening throughout
+
 ## 2026-03-28 14:33 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/evaluative-qualia]]
