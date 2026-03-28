@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Enrich evaluative-qualia.md with cross-traditional normativity research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-28
-
 ### P2: Condense episodic-memory.md (4069 words, 163% of target)
 - **Type**: condense
 - **Status**: pending
@@ -1581,6 +1574,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Enrich evaluative-qualia.md with cross-traditional normativity research
+- **Type**: refine-draft
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
+- **Output**: obsidian/concepts/evaluative-qualia.md
+
+Task context:
+Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. The existing evaluative-qualia concept page lacks cross-traditional depth. Research covers Dimitrov (2025) on direct acquaintance with intrinsic value, Buddhist vedana theory, Confucian moral phenomenology, Indian rasa aesthetics, and Islamic consciousness frameworks — all treating evaluative phenomenology as foundational. Strengthens convergence argument across traditions.
 
 ### ✓ 2026-03-28: Write article on limits of parsimony arguments in consciousness science
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "Phenomenal experiences that carry intrinsic evaluative character�
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-03-28T06:42:00+00:00
+ai_modified: 2026-03-28T14:33:00+00:00
 last_deep_review: 2026-03-28T06:42:00+00:00
 draft: false
 topics:
@@ -74,15 +74,15 @@ The recognition that experience carries intrinsic evaluative character is not a 
 
 **Buddhist vedanā.** The Pāli canon identifies *vedanā*—feeling tone—as one of the five aggregates constituting experience. Vedanā is not emotion and not judgment. It is the pre-reflective evaluative quality (pleasant, unpleasant, neutral) arising at sensory contact before conceptual elaboration. Buddhist phenomenology treats evaluative character as a basic stratum of experience, not a higher-order addition. The Satipaṭṭhāna Sutta makes mindfulness of vedanā a foundational practice precisely because evaluative phenomenal character structures experience at its base.
 
-The metaphysical contexts differ sharply—Buddhist *anattā* (no-self) rejects the kind of substantial subject that the Map's dualism requires—but the phenomenological insight converges: evaluative character is built into experience at a level more fundamental than reflective judgment.
+The metaphysical contexts differ sharply—Buddhist *anattā* (no-self) rejects the kind of substantial subject that the Map's dualism requires—but the phenomenological insight converges: evaluative character is built into experience at a level more fundamental than reflective judgment. The methodological parallel is also striking: Buddhist mindfulness of vedanā is a systematic first-person investigation of evaluative phenomenal character, structurally similar to the introspective method Dimitrov uses to establish direct acquaintance with intrinsic value.
 
-**Neo-Confucian moral phenomenology.** Wang Yangming's concept of *liángzhī* (innate moral knowledge) treats moral awareness as phenomenally immediate. Compassion upon seeing a child in danger is not an inference but a direct evaluative presentation in experience. Zhu Xi's framework locates evaluative consciousness at the intersection of *lǐ* (cosmic principle/pattern) and *qì* (vital force/material energy)—where moral feelings (*qíng*) manifest as the evaluative character of human experience meeting cosmic order.
+**Neo-Confucian moral phenomenology.** Beginning with Mencius's claim that spontaneous compassion upon seeing a child in danger reveals innate moral knowledge, the Confucian tradition treats evaluative awareness as phenomenally immediate. Wang Yangming formalises this as *liángzhī* (innate moral knowledge)—moral awareness that is not inference but direct evaluative presentation in experience. Zhu Xi's framework locates evaluative consciousness at the intersection of *lǐ* (cosmic principle/pattern) and *qì* (vital force/material energy)—where moral feelings (*qíng*) manifest as the evaluative character of human experience meeting cosmic order.
 
 **Indian rasa theory.** Abhinavagupta (c. 1000 CE) developed *rasa*—aesthetic "flavour"—as a category of evaluative consciousness irreducible to ordinary emotion. Rasa is "nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness." The aesthetic experience is unified (*ekaghānatā*), self-luminous, and evaluative at its core: it presents its object as significant without inference.
 
-**Islamic existential epistemology.** Mulla Sadra's "knowledge by presence" (*ʿilm al-ḥuḍūrī*) treats evaluative knowledge as constituted by ontological participation rather than abstraction from experience. In knowing value, the knower undergoes a transformation—knowledge is a mode of existence, not mere representation. This framework implies that evaluative qualia are not representations *of* value but participations *in* value: to feel the goodness of something is to exist in a mode that partially constitutes that goodness.
+**Islamic philosophy of consciousness.** Avicenna's (Ibn Sina, d. 1037) flying man argument establishes that self-awareness is irreducible to bodily sensation—a subject stripped of all sensory input would still be aware of itself as a conscious subject. This establishes the ontological independence of consciousness that later Islamic thinkers extend into the evaluative domain. Mulla Sadra (d. 1640) develops this further through "knowledge by presence" (*ʿilm al-ḥuḍūrī*), where evaluative knowledge is constituted by ontological participation rather than abstraction from experience. In knowing value, the knower undergoes a transformation—knowledge is a mode of existence, not mere representation. This framework implies that evaluative qualia are not representations *of* value but participations *in* value: to feel the goodness of something is to exist in a mode that partially constitutes that goodness.
 
-This cross-traditional convergence is not proof, but it is evidentially significant. These philosophical traditions—though not fully independent, since Buddhism and Confucianism interacted historically—developed their accounts of evaluative experience through distinct phenomenological methods and within different metaphysical frameworks. Their convergence on the claim that evaluative character is a basic feature of conscious experience, rather than a later cognitive addition, is harder to explain as mere cognitive bias than as tracking something real about the structure of experience.
+This cross-traditional convergence is not proof, but it is evidentially significant. While Buddhism and Confucianism interacted historically, the Islamic, Indian aesthetic, and East Asian traditions developed largely independently of one another—and the Western analytic tradition arrived at structurally similar conclusions through entirely different methods. These traditions developed their accounts within different metaphysical frameworks (no-self, li/qi dualism, existential monism, property dualism) and through distinct phenomenological methods (mindfulness practice, introspective philosophy, aesthetic contemplation, rational demonstration). Their convergence on the claim that evaluative character is a basic feature of conscious experience, rather than a later cognitive addition, is harder to explain as mere cognitive bias than as tracking something real about the structure of experience.
 
 ## Evaluative Qualia and the Hard Problem
 
@@ -104,7 +104,7 @@ Evaluative qualia connect to the Map's tenets at multiple points.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map holds that consciousness exerts the smallest possible non-physical influence on quantum outcomes. Evaluative qualia suggest that this influence is not arbitrary—it is guided by experienced value. If [[free-will|moral choices]] involve consciousness selecting among quantum-level possibilities, evaluative qualia provide the phenomenal basis for that selection: consciousness biases outcomes toward what is experienced as good, right, or fitting. The interaction is minimal in physical terms but normatively loaded in phenomenal terms.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Eliminating evaluative qualia in favour of a simpler physicalist ontology would require explaining away the cross-traditional convergence on evaluative phenomenal character as mere cognitive bias. Given that parsimony has repeatedly failed where consciousness is concerned, this eliminative move is unwarranted.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Eliminating evaluative qualia in favour of a simpler physicalist ontology would require explaining away the cross-traditional convergence on evaluative phenomenal character as mere cognitive bias. Buddhist, Confucian, Indian aesthetic, Islamic, and Western analytic traditions—developing largely independently through distinct methods—all converge on evaluative character as a basic feature of experience. Dismissing this convergence as a shared cognitive illusion demands an explanation at least as complex as accepting evaluative qualia as real. Given that parsimony has repeatedly failed where consciousness is concerned, this eliminative move is unwarranted.
 
 ## Further Reading
 
@@ -131,3 +131,17 @@ Evaluative qualia connect to the Map's tenets at multiple points.
 5. Onof, C. (2008). Property Dualism, Epistemic Normativity, and the Limits of Naturalism. *Philosophy and Phenomenological Research*, 76(1), 60–85.
 6. Southgate, A. & Oquatre-six, C. (2026-01-16). Phenomenal Normativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-normativity/
 7. Southgate, A. & Oquatre-six, C. (2026-01-07). Qualia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/qualia/
+
+<!-- AI REFINEMENT LOG - 2026-03-28
+Changes made:
+- Added Avicenna's flying man argument to Islamic section, establishing the tradition's foundational irreducibility claim before Mulla Sadra's evaluative extension
+- Added Mencius as foundational source for Neo-Confucian moral phenomenology
+- Added methodological parallel between Buddhist mindfulness of vedanā and Dimitrov's introspective direct acquaintance method
+- Strengthened convergence summary: explicitly named the independent tradition clusters (Islamic, Indian aesthetic, East Asian, Western analytic) and their distinct methods
+- Expanded Occam's Razor tenet connection to leverage cross-traditional convergence argument more fully
+
+Based on research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md.
+Key improvements: cross-traditional depth and independence of convergence argument.
+
+This log should be removed after human review.
+-->
