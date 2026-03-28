@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T21:43:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 23:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [[pragmatisms-path-to-dualism]]
+- **Changes**: Fixed imprecise "property dualism" attribution, tightened reflexive argument section, removed redundant Peirce quote from tenet connection, sharpened enactivist inheritance claim, minor prose improvements
+- **Published**: yes
+
 ## 2026-03-28 23:13 UTC - condense
 - **Status**: Success
 - **File**: [[knowledge-argument]]

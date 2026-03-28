@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md and william-james-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md for existing article enhancement. Key findings to integrate: Peirce's tychism as historical precedent for quantum indeterminism tenet, James's panpsychist sympathies as context for prebiotic collapse discussion, Putnam's trajectory away from functionalism as evidence against that framework, and the pragmatist-to-enactivist pipeline as background for embodied cognition articles. Primary targets: pragmatisms-path-to-dualism.md (Peirce and Putnam connections) and william-james-consciousness.md (panpsychist sympathies, radical empiricism).
-- **Source**: chain (from research-topic 2026-03-28)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
 - **Type**: cross-review
 - **Status**: pending
@@ -1651,6 +1644,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md and william-james-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md for existing article enhancement. Key findings to integrate: Peirce's tychism as historical precedent for quantum indeterminism tenet, James's panpsychist sympathies as context for prebiotic collapse discussion, Putnam's trajectory away from functionalism as evidence against that framework, and the pragmatist-to-enactivist pipeline as background for embodied cognition articles. Primary targets: pragmatisms-path-to-dualism.md (Peirce and Putnam connections) and william-james-consciousness.md (panpsychist sympathies, radical empiricism).
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md for existing article enhancement. Key findings to integrate: Peirce's tychism as historical precedent for quantum indeterminism tenet, James's panpsychist sympathies as context for prebiotic collapse discussion, Putnam's trajectory away from functionalism as evidence against that framework, and the pragmatist-to-enactivist pipeline as background for embodied cognition articles. Primary targets: pragmatisms-path-to-dualism.md (Peirce and Putnam connections) and william-james-consciousness.md (panpsychist sympathies, radical empiricism).
 
 ### ✓ 2026-03-28: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
 - **Type**: condense
