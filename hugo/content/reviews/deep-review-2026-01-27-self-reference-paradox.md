@@ -67,7 +67,7 @@ None. The previous review (2026-01-20) addressed all critical structural issues 
 
 ### Cross-links Added
 
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
+- [destabilizing-self-knowledge](/voids/necessary-opacity/)
 
 ## Length Analysis
 

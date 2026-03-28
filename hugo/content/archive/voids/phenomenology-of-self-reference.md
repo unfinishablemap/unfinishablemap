@@ -84,7 +84,7 @@ The phenomenal signatures of self-reference—inversion, vertigo, oscillation—
 
 This has implications for why the [hard problem](/topics/hard-problem-of-consciousness/) remains hard. If consciousness is phenomenologically structured for attending to objects rather than to itself, then the project of explaining consciousness from within faces not just intellectual obstacles but experiential ones. The tool bends when turned upon itself. Attempts to articulate self-referential insight encounter the dissolving quality that [thoughts about consciousness](/voids/thoughts-that-slip-away/) characteristically exhibit.
 
-It also illuminates a feature of [destabilizing self-knowledge](/voids/destabilizing-self-knowledge/): the instability is not something that happens *to* self-referential thoughts after they form. It is built into the phenomenology of self-reference itself. The forming and the destabilising are aspects of the same act.
+It also illuminates a feature of [destabilizing self-knowledge](/voids/necessary-opacity/): the instability is not something that happens *to* self-referential thoughts after they form. It is built into the phenomenology of self-reference itself. The forming and the destabilising are aspects of the same act.
 
 ## The Difference from Ordinary Reflection
 
@@ -130,7 +130,7 @@ The phenomenology of self-reference connects to the Map's [tenets](/tenets/) at 
 - [introspective-opacity](/voids/self-opacity/) — Why cognitive processes remain hidden while their products become conscious
 - [recursion-void](/voids/recursion-void/) — The empirical ceiling on metacognitive depth
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — When self-knowledge undermines the knower
+- [destabilizing-self-knowledge](/voids/necessary-opacity/) — When self-knowledge undermines the knower
 - [intentionality](/concepts/intentionality/) — The aboutness of consciousness and its limits
 - [voids](/voids/) — The broader framework for cognitive limits
 

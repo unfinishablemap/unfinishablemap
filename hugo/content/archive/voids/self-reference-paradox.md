@@ -140,7 +140,7 @@ The self-reference paradox may be the prototype void: territory consciousness st
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — When grasping truths about consciousness would undermine the capacity to hold them
+- [Destabilizing Self-Knowledge](/voids/necessary-opacity/) — When grasping truths about consciousness would undermine the capacity to hold them
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void

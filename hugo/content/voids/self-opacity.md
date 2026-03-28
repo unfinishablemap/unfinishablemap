@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-26 14:03:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ related_articles:
 - '[[narrative-void]]'
 - '[[limits-reveal-structure]]'
 - '[[observation-and-measurement-void]]'
-- '[[destabilizing-self-knowledge]]'
+- '[[necessary-opacity]]'
 - '[[constitutive-exclusion]]'
 - '[[causal-interface]]'
 - '[[creativity-void]]'
@@ -150,7 +150,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — How cognitive limits are preconditions for meaning
-- [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — When grasping truths about consciousness would undermine the capacity to hold them
+- [Necessary Opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
 - [The Narrative Void](/voids/narrative-void/) — How consciousness constructs self-stories it cannot audit
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [Free Will](/topics/free-will/) — The broader context for questions of agency

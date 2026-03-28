@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,8 +25,7 @@ related_articles:
 - '[[creativity-void]]'
 - '[[defended-territory]]'
 - '[[narrative-coherence]]'
-- '[[destabilizing-self-knowledge]]'
-- '[[transparency-void]]'
+- '[[necessary-opacity]]'
 - '[[observation-and-measurement-void]]'
 title: The Narrative Void
 topics:
@@ -84,7 +83,7 @@ Approaching the narrative void is disorienting precisely because the void does n
 
 There may be moments when the void briefly reveals itself: the uncanny sense of not recognising your own past behaviour, the feeling that a memory does not fit the story, the vertigo of realising you genuinely do not know why you made a particular choice. These moments of narrative breakdown are phenomenologically distinctive—a flash of groundlessness before the interpreter rushes to smooth over the discontinuity.
 
-Buddhist contemplative traditions (particularly Vipassana) attempt to observe experience before narrative takes hold. Whether this provides genuine access to pre-narrative experience or merely generates a different narrative—"I am the one who watches without narrating"—is itself an open question that the void may prevent us from answering. Learning about confabulation research may itself produce a form of [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/): the knowledge that your self-narrative is unreliable does not give you a reliable one. It only adds a layer of suspicion to the same opaque process.
+Buddhist contemplative traditions (particularly Vipassana) attempt to observe experience before narrative takes hold. Whether this provides genuine access to pre-narrative experience or merely generates a different narrative—"I am the one who watches without narrating"—is itself an open question that the void may prevent us from answering. Learning about confabulation research may itself produce a form of [destabilising self-knowledge](/voids/necessary-opacity/): the knowledge that your self-narrative is unreliable does not give you a reliable one. It only adds a layer of suspicion to the same opaque process.
 
 ## Relation to Site Perspective
 
@@ -104,9 +103,8 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 - [creativity-void](/voids/creativity-void/)
 - [defended-territory](/voids/defended-territory/)
 - [narrative-coherence](/concepts/narrative-coherence/)
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
+- [necessary-opacity](/voids/necessary-opacity/)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
-- [transparency-void](/voids/transparency-void/)
 
 ## References
 

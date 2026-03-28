@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,12 +26,11 @@ last_deep_review: 2026-03-15 06:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[destabilizing-self-knowledge]]'
+- '[[necessary-opacity]]'
 - '[[intentionality-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[explanatory-gap]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[transparency-void]]'
 - '[[meta-problem-of-consciousness]]'
 title: Phenomenal Transparency
 topics:
@@ -74,7 +73,7 @@ The problem sharpens when combined with Donald Hoffman's Fitness-Beats-Truth the
 
 Evidence for transparency comes partly from cases where it breaks down. These disruptions reveal the normally hidden representational structure.
 
-**Depersonalization disorder** involves a failure of self-model transparency. Patients experience themselves as unreal, as watching their own actions from outside, as disconnected from their bodies. They maintain insight—they know they are themselves—while experiencing profound alienation. The self-model has become partially opaque: visible as a model rather than presenting seamlessly as the self. The result is typically pathology, not insight. This suggests transparency serves function. As the [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) article explores, the self-model's invisibility may be necessary for coherent experience.
+**Depersonalization disorder** involves a failure of self-model transparency. Patients experience themselves as unreal, as watching their own actions from outside, as disconnected from their bodies. They maintain insight—they know they are themselves—while experiencing profound alienation. The self-model has become partially opaque: visible as a model rather than presenting seamlessly as the self. The result is typically pathology, not insight. This suggests transparency serves function. As the [necessary-opacity](/voids/necessary-opacity/) article explores, the self-model's invisibility may be necessary for coherent experience.
 
 **Psychedelic states** weaken transparency through ego dissolution. The normally stable sense of being a continuous self—maintained by a transparent self-model—thins or vanishes. Reports frequently describe seeing through the constructed nature of ordinary experience. But these insights rarely survive the return of normal transparency.
 
@@ -106,7 +105,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 
 ## Further Reading
 
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — What happens when transparency breaks down, and why some self-knowledge may be structurally inaccessible
+- [necessary-opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy, and why piercing this opacity destabilises the system
 - [intentionality-void](/voids/intentionality-void/) — Transparency applied to the aboutness of thought
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The question of what matter is in itself, hidden behind transparent perception
 - [self-reference paradox](/voids/self-opacity/) — The structural impossibility of observing the observer
@@ -116,7 +115,6 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that transparency makes vivid
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Whether sustained contemplative practice can reduce transparency
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure as a structural limit on understanding consciousness
-- [transparency-void](/voids/transparency-void/) — The void revealed by transparency: consciousness cannot verify its own fidelity
 - [curated-mind](/topics/curated-mind/) — How the brain's pervasive curation across modalities depends on and demonstrates phenomenal transparency
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we think consciousness is hard to explain, and transparency's role in generating that intuition
 

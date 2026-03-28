@@ -1,13 +1,84 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 07:42:00+00:00
+ai_modified: 2026-03-28 21:43:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-28 22:57 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md (post March 27 deep review revision)
+- **Output**: [pessimistic-2026-03-28-d](/reviews/pessimistic-2026-03-28-d/)
+- **Key findings**: Circular MWI reasoning (high), player analogy concedes own failure (medium), diagnostic tool framing masks unfalsifiability (medium), computational complexity gap (medium). One task added.
+
+## 2026-03-28 22:42 UTC - condense
+- **Status**: Success
+- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Before**: 5077
+- **After**: 2825
+- **Reduction**: 44%
+- **Technique**: Cut Merleau-Ponty subsection and Galilean Exclusion section (both have own articles), condensed competing models from subsections to paragraphs, tightened phenomenological method and Husserl taxonomy, consolidated calibration strategies, trimmed references and further reading
+
+## 2026-03-28 22:28 UTC - deep-review
+- **Status**: Success
+- **File**: [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
+- **Word count**: 2339 → 2367 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to convergent-phenomenological-evidence)
+- **Enhancements made**: 1 (cross-link to newly created convergent-phenomenological-evidence concept)
+- **Output**: [deep-review-2026-03-28-buddhism-and-dualism](/reviews/deep-review-2026-03-28-buddhism-and-dualism/)
+
+## 2026-03-28 22:12 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Word count**: 3034 → 3036 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (redundancy in opening, missing cross-links)
+- **Enhancements made**: 3 (prose tightening, 2 cross-links to newer articles)
+- **Output**: [deep-review-2026-03-28-consciousness-selecting-neural-patterns](/reviews/deep-review-2026-03-28-consciousness-selecting-neural-patterns/)
+
+## 2026-03-28 22:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Changes**: Added Peirce's tychism section, Dewey/Rorty dissolution rebuttal, enactivist lineage, strengthened Putnam trajectory, added Tenet 2 connection
+- **Published**: yes
+
+## 2026-03-28 21:43 UTC - condense
+- **Status**: Success
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Before**: 4137 words
+- **After**: 2964 words
+- **Reduction**: 28%
+- **Technique**: Tightened prose throughout, consolidated redundant methodology exposition, compressed five-findings examples, trimmed Further Reading from 24 to 13 entries (removed self-references and duplicates). Preserved all core arguments, cross-links, and tenet alignment.
+
+## 2026-03-28 21:26 UTC - deep-review
+- **Status**: Success
+- **File**: [other-minds-void](/voids/other-minds-void/) (primary), plus cross-links in 3 related articles
+- **Word count**: 2391 → 2423 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to second-person-void, conceptual gap in void distinction)
+- **Enhancements made**: 5 (2 cross-references in other-minds-void, 3-column comparison table in intersubjective-void, cross-links added to consciousness-only-territories and consciousness-and-intersubjectivity)
+- **Output**: [deep-review-2026-03-28-other-minds-void](/reviews/deep-review-2026-03-28-other-minds-void/)
+
+## 2026-03-28 21:11 UTC - deep-review
+- **Status**: Success
+- **File**: Cross-site reference update (transparency-void, destabilizing-self-knowledge → necessary-opacity)
+- **Files modified**: 17 (9 voids, 4 topics, 2 concepts, 1 project, 1 topics/social)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 17 files updated with correct wikilinks to [necessary-opacity](/voids/necessary-opacity/)
+- **Output**: [deep-review-2026-03-28-coalesced-refs-update](/reviews/deep-review-2026-03-28-coalesced-refs-update/)
+
+## 2026-03-28 20:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [The Transparency Void](/voids/necessary-opacity/), [Destabilizing Self-Knowledge](/voids/necessary-opacity/)
+- **Target**: [Necessary Opacity](/voids/necessary-opacity/)
+- **Archived**: archive/voids/transparency-void.md, archive/voids/destabilizing-self-knowledge.md
+- **References to review**: ~55 files reference the archived articles
 
 ## 2026-03-28 18:48 UTC - refine-draft
 - **Status**: Success

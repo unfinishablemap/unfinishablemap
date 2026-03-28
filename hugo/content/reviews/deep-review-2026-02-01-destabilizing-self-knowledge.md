@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/)
+**Article**: [Destabilizing Self-Knowledge](/voids/necessary-opacity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

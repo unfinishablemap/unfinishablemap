@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[habituation-void]]'
 - '[[explanatory-void]]'
 - '[[self-opacity]]'
-- '[[transparency-void]]'
+- '[[necessary-opacity]]'
 - '[[phenomenal-presence-void]]'
 - '[[framework-void]]'
 - '[[epistemological-limits-occams-razor]]'
@@ -101,7 +101,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [The Habituation Void](/voids/habituation-void/) — How familiarity erases experience (distinct mechanism, related effect)
 - [The Explanatory Void](/voids/explanatory-void/) — When the feeling of understanding substitutes for understanding itself
 - [self-opacity](/voids/self-opacity/) — Consciousness cannot fully know itself
-- [The Transparency Void](/voids/transparency-void/) — Consciousness cannot verify its own accuracy
+- [Necessary Opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and this opacity is structural
 - [Cognitive Aversion](/voids/defended-territory/) — Thoughts we systematically flee
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — The cognitive bias behind Occam's Razor
 - [Defended Territory](/voids/defended-territory/) — Whether some thoughts are actively blocked

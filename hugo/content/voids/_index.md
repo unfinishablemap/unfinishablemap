@@ -123,7 +123,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Resolution Void](/voids/resolution-void/) — The six-order-of-magnitude compression between available and accessed information
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
 - [The Spontaneous Thought Void](/voids/spontaneous-thought-void/) — Why consciousness cannot observe generation of unbidden thoughts
-- [The Transparency Void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
+- [Necessary Opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
 - [The Complicity Void](/voids/complicity-void/) — Whether consciousness actively participates in maintaining its own limits
 - [The Obviousness Void](/voids/obviousness-void/) — How the feeling of self-evidence terminates inquiry before it begins
 
@@ -137,7 +137,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Absorption Void](/voids/absorption-void/) — Peak conscious engagement is peak self-opacity
 - [The Expertise Occlusion](/voids/expertise-occlusion/) — How mastery actively defends its own opacity
 - [The Appetitive Void](/voids/appetitive-void/) — How desire constitutes cognition rather than merely distorting it
-- [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence
 - [Consciousness and Attention Disorders](/voids/attention-disorders-and-consciousness/) — When consciousness's own instrument is disordered

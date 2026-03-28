@@ -128,7 +128,7 @@ The social dimension of explanation connects to a deeper structural issue. [Cons
 - [Introspective Opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
-- [The Transparency Void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
+- [The Transparency Void](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy
 - [Consciousness and Testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it
 - [Intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds
 - [Consciousness and Intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is ontologically individual or constitutively shaped by encounter with other minds

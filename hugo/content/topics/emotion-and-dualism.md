@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-25 09:43:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ related_articles:
 - '[[valence-void]]'
 - '[[emotional-epistemology-void]]'
 - '[[affective-void]]'
-- '[[destabilizing-self-knowledge]]'
+- '[[necessary-opacity]]'
 - '[[self-opacity]]'
 title: Emotion and Dualism
 topics:
@@ -168,7 +168,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [emotional-epistemology-void](/voids/emotional-epistemology-void/) — Whether emotions constitute genuine knowledge about reality
 - [affective-void](/voids/affective-void/) — Emotions beyond human phenomenological reach
 - [introspective opacity](/voids/self-opacity/) — The broader phenomenon of hidden cognitive processes
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that dissolves the capacity to hold it
+- [necessary-opacity](/voids/necessary-opacity/) — Knowledge that dissolves the capacity to hold it, and the structural opacity this requires
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Boundary cases testing where valenced experience begins
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — How selfhood relates to phenomenal experience
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that consciousness requires higher-order representation

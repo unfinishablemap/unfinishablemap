@@ -56,7 +56,7 @@ topics: []
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — Inline link in "Elephants in the Room" section + Further Reading entry
 - [framework-void](/voids/framework-void/) — Further Reading entry
 - [language-thought-boundary](/voids/language-thought-boundary/) — Inline link in "Qualia as Limit Case" section (constitutive privacy)
-- [transparency-void](/voids/transparency-void/) — Further Reading entry
+- [transparency-void](/voids/necessary-opacity/) — Further Reading entry
 - [introspective-opacity](/voids/self-opacity/) — Further Reading entry
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Added to related_articles frontmatter
 - [intersubjectivity](/concepts/intersubjectivity/) — Added to related_articles frontmatter

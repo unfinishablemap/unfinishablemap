@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-11 21:46:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ related_articles:
 - '[[voids]]'
 - '[[project]]'
 - '[[coherence-inflation-countermeasures]]'
-- '[[destabilizing-self-knowledge]]'
+- '[[necessary-opacity]]'
 - '[[defended-territory]]'
 - '[[human-supervision]]'
 - '[[automation]]'
@@ -249,7 +249,7 @@ The following statement should appear on the voids section index page:
 
 This protocol serves the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet directly. If there are genuine cognitive limits—if some truths are structurally inaccessible—then exploring those limits is philosophically valuable. But it must be done responsibly.
 
-The [Dualism](/tenets/#dualism) tenet makes the risks concrete. If consciousness is irreducible, then probing its nature may encounter territory where comprehension itself becomes hazardous—what [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) calls "knowledge that would dissolve the knower's capacity to hold it." The safety rails here are not merely editorial caution but recognition that the territory may be genuinely dangerous for conscious minds.
+The [Dualism](/tenets/#dualism) tenet makes the risks concrete. If consciousness is irreducible, then probing its nature may encounter territory where comprehension itself becomes hazardous—what [necessary-opacity](/voids/necessary-opacity/) calls "knowledge that would dissolve the knower's capacity to hold it." The safety rails here are not merely editorial caution but recognition that the territory may be genuinely dangerous for conscious minds.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet raises a further concern. If consciousness causally shapes the physical world, then content that destabilizes a reader's self-model could have effects beyond mere discomfort. The exit paths and content boundaries in this protocol guard against cascading harm from ideas that interact with the reader's agency.
 

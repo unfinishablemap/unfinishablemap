@@ -29,7 +29,7 @@ None. All critical issues from the previous review remain resolved. Attribution 
 ### Medium Issues Found
 
 - **Awkward cross-link insertion in Mechanism section**: A sentence about perceptual experience features resisting neural reduction was grafted onto the end of a paragraph about processing stage invisibility without transition. The paragraph argued: processing stages → invisible → transparency. Then pivoted to an irreducibility claim that didn't follow from the preceding sentences. Resolution: Moved the sentence to its own paragraph after the mechanism discussion, with an additional sentence connecting transparency's irreducibility to the explanatory gap.
-- **Missing cross-link to [transparency-void](/voids/transparency-void/)**: The dedicated void article exploring the philosophical implications of transparency was absent from Further Reading and related_articles. Resolution: Added to both.
+- **Missing cross-link to [transparency-void](/voids/necessary-opacity/)**: The dedicated void article exploring the philosophical implications of transparency was absent from Further Reading and related_articles. Resolution: Added to both.
 - **Missing cross-link to [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)**: That article has a dedicated section on phenomenal transparency's role in generating hard-problem intuitions. Resolution: Added to Further Reading and related_articles.
 
 ### Counterarguments Considered
@@ -56,12 +56,12 @@ No new counterarguments warranted by the changes since last review.
 ### Enhancements Made
 
 - Relocated perceptual-experience cross-link to flow naturally after mechanism discussion, with added sentence connecting to the explanatory gap
-- Added [transparency-void](/voids/transparency-void/) to Further Reading — the natural void companion piece
+- Added [transparency-void](/voids/necessary-opacity/) to Further Reading — the natural void companion piece
 - Added [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) to Further Reading — reciprocal link to article with dedicated transparency section
 
 ### Cross-links Added
 
-- [transparency-void](/voids/transparency-void/) — Further Reading and related_articles
+- [transparency-void](/voids/necessary-opacity/) — Further Reading and related_articles
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Further Reading and related_articles
 
 ## Remaining Items

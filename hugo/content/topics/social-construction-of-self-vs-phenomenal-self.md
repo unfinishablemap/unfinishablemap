@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-28 02:27:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[tenets]]'
 - '[[diachronic-agency-and-personal-narrative]]'
 - '[[self-opacity]]'
-- '[[destabilizing-self-knowledge]]'
+- '[[necessary-opacity]]'
 - '[[inaccessible-past]]'
 - '[[cognitive-integration-and-the-self]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'

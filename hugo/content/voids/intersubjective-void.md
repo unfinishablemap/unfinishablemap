@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-26 04:31:00+00:00
+ai_modified: 2026-03-28 21:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,9 +34,10 @@ related_articles:
 - '[[framework-void]]'
 - '[[self-opacity]]'
 - '[[language-thought-boundary]]'
-- '[[transparency-void]]'
+- '[[necessary-opacity]]'
 - '[[consciousness-and-testimony]]'
 - '[[consciousness-and-intersubjectivity]]'
+- '[[second-person-void]]'
 - '[[consciousness-defeats-explanation]]'
 title: The Intersubjective Void
 topics:
@@ -50,16 +51,16 @@ This void sits at the intersection of epistemology and phenomenology. Even grant
 
 ## Distinguishing the Voids
 
-The intersubjective void differs structurally from the other minds void:
+The intersubjective void differs structurally from two neighbouring voids:
 
-| Other Minds Void | Intersubjective Void |
-|------------------|---------------------|
-| Can I know other minds exist? | Can experiences be genuinely *shared*? |
-| Epistemological—about access to knowledge | Phenomenological—about the structure of experience |
-| Addressed by inference (analogy, abduction) | Not addressed by inference—the question is ontological |
-| Skeptical challenge to be navigated | Structural feature to be characterised |
+| Other Minds Void | Second-Person Void | Intersubjective Void |
+|------------------|-------------------|---------------------|
+| Can I know other minds exist? | What does the encounter itself deliver? | Can experiences be genuinely *shared*? |
+| Epistemological—about access to knowledge | Relational—about what happens *in* the meeting | Phenomenological—about the structure of experience |
+| Addressed by inference (analogy, abduction) | Accessed only through participation | Not addressed by inference—the question is ontological |
+| Skeptical challenge to be navigated | Self-concealing under reflection | Structural feature to be characterised |
 
-Whether our experiences are genuinely shared or merely coordinated seems permanently undecidable—not because we lack evidence but because we cannot specify what evidence would distinguish the cases.
+The [other-minds-void](/voids/other-minds-void/) asks whether we can know other consciousnesses exist. The [second-person-void](/voids/second-person-void/) asks what genuine encounter delivers that no other method can. The intersubjective void asks whether experiences can be genuinely shared or are coordinated private streams. Whether our experiences are genuinely shared or merely coordinated seems permanently undecidable—not because we lack evidence but because we cannot specify what evidence would distinguish the cases.
 
 ## Three Positions
 
@@ -145,6 +146,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [other-minds-void](/voids/other-minds-void/) — The epistemological precursor: can we know other minds exist?
+- [second-person-void](/voids/second-person-void/) — What the encounter itself delivers and structurally cannot: the irreducible gap in genuine I-You meeting
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — What groups cannot think together
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
@@ -153,7 +155,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [introspective opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
 - [language-thought-boundary](/voids/language-thought-boundary/) — What cannot be said
-- [transparency-void](/voids/transparency-void/) — Why consciousness cannot verify its own accuracy
+- [necessary-opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter with other minds
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why explanation presupposes the phenomenal understanding that social epistemology cannot validate

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-26 18:12:00+00:00
+ai_modified: 2026-03-28 22:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[argument-from-reason]]'
 - '[[consciousness-defeats-explanation]]'
 - '[[epistemic-advantages-of-dualism]]'
+- '[[enactivism-challenge-to-interactionist-dualism]]'
 title: Pragmatism's Path to Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -36,7 +37,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-[Pragmatism](/concepts/pragmatism/) evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The path runs through three stages — James's original pragmatic openness to dualism, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience.
+[Pragmatism](/concepts/pragmatism/) evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The path runs through four stages — James's original pragmatic openness to dualism, Peirce's tychism opening ontological space for mental causation, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience.
 
 Pragmatism, taken seriously on its own terms, leads where many pragmatists have been reluctant to follow.
 
@@ -49,6 +50,14 @@ Applied to the mind-body problem, James argued in "Human Immortality" (1898) tha
 James did not claim to prove the transmissive view. He argued something more modest but more durable: materialism about consciousness cannot be adopted by default, as though it were the only serious option. Pragmatism demands that we take both possibilities seriously because both make different practical demands on how we live. The pragmatist who dismisses dualism as unscientific has abandoned pragmatism for a different criterion — methodological convenience masquerading as philosophical argument.
 
 James went further in "The Will to Believe" (1896). When a choice is forced (we must act on some assumption), living (both options have genuine appeal), and momentous (the stakes are high), we may legitimately choose based on our nature and needs rather than waiting for conclusive evidence. The consciousness question meets all three conditions. Pragmatism does not mandate agnosticism — it permits taking the dualist hypothesis seriously as a working commitment.
+
+## Peirce's Tychism and the Space for Mind
+
+Charles Sanders Peirce — pragmatism's founder — arrived at a position strikingly convergent with the Map's tenets through his doctrine of *tychism*: the thesis that absolute chance is a real factor in the universe, not merely a reflection of ignorance. In "The Architecture of Theories" (1891) and "The Law of Mind" (1892), Peirce argued that strict determinism leaves no room for consciousness to play a genuine role. If every physical event is fully determined by prior physical events, then mind is either identical to those events or epiphenomenal — precisely the dilemma the Map identifies.
+
+Peirce's resolution was direct: real indeterminism in nature opens space for mental causation. He wrote that consciousness "is not to be reinstated without tychism" — without genuine ontological chance, there is nowhere for mind to act. This philosophical argument anticipated quantum indeterminacy by decades. Karl Popper later noted that Peirce's indeterminism received little attention until quantum mechanics vindicated it.
+
+Peirce went further. His *synechism* — the doctrine of continuity — held that mind and matter are not sharply divided but exist on a continuum, with the universe "suffused with mind" associated with spontaneity and freedom. While synechism differs from the Map's property dualism, it shares the essential commitment: consciousness is causally efficacious, and strict physicalism cannot accommodate it. Peirce reached this conclusion not through introspective arguments about qualia but through pragmatism's own logic applied to the conditions under which inquiry and reasoning are possible.
 
 ## Van Fraassen and the Pragmatics of Explanation
 
@@ -72,7 +81,9 @@ A materialist pragmatist might respond: evaluation just *is* a certain kind of i
 
 ## Putnam's Pragmatic Realism
 
-Hilary Putnam's later philosophy strengthens the connection between pragmatism and anti-reductionism. His "pragmatic realism" — developed in *Reason, Truth and History* (1981) and subsequent work — rejects both metaphysical realism (a God's-eye view of how things really are) and relativism (truth is whatever our community says). Instead, Putnam argues that truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents.
+Hilary Putnam's philosophical trajectory provides powerful evidence against reductive accounts of mind. Putnam invented functionalism in the 1960s — the thesis that mental states are defined by their computational roles, not their physical substrate. He later abandoned his own creation, arguing in *Representation and Reality* (1988) that functionalism remained committed to an internalist conception of mental states that semantic externalism had discredited. The architect found the building uninhabitable.
+
+Putnam's subsequent "pragmatic realism" — developed in *Reason, Truth and History* (1981) and *Words and Life* (1994) under James's influence — rejects both metaphysical realism (a God's-eye view of how things really are) and relativism (truth is whatever our community says). Instead, Putnam argues that truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents.
 
 Putnam's "model-theoretic argument" demonstrates that reference cannot be fixed by physical/causal relations alone. Any purely physical description of a system is compatible with multiple incompatible interpretations. What pins down meaning is the perspective of a conscious interpreter — someone who can distinguish intended from unintended interpretations. Without such a perspective, the physical facts underdetermine what our words mean.
 
@@ -82,9 +93,13 @@ This is convergent with the Map's position. If reference and meaning require con
 
 Most pragmatists have resisted the path to dualism. The reasons are instructive.
 
+**Dissolution rather than solution.** The most influential pragmatist response, from Dewey through Rorty, holds that the mind-body problem is not a genuine metaphysical puzzle but an artifact of Cartesian framing. Dissolve the dualism between experience and nature — as Dewey attempted in *Experience and Nature* (1925) — and the problem evaporates. But dissolution is not refutation. The hard problem of consciousness survives this treatment because it does not depend on Cartesian assumptions. Even within Dewey's organism-environment framework, the question remains: why is there something it is like to be this organism rather than nothing? Pragmatism's own insistence on taking experiential consequences seriously should make pragmatists wary of strategies that dissolve experience away.
+
 **Methodological naturalism.** Many pragmatists assume that philosophy should operate within the framework of natural science. But this assumption is not itself pragmatic — it is a prior commitment that pragmatism's own method should evaluate rather than presuppose. James saw this clearly: treating naturalism as a default rather than a hypothesis to be tested by its consequences is a failure of pragmatic nerve.
 
 **Association with substance dualism.** Pragmatists tend to associate dualism with Cartesian substance dualism and its notorious interaction problem. But the Map's [interactionist-dualism](/concepts/interactionist-dualism/) is not Descartes'. The question is whether consciousness is reducible to physical processes, not whether there are two kinds of substance. Property dualism, aspect dualism, and other non-Cartesian frameworks satisfy the Map's requirements without inheriting Cartesian difficulties.
+
+**The enactivist inheritance.** Contemporary 4E cognition — embodied, embedded, enactive, extended — traces its intellectual genealogy through Dewey's organism-environment transaction and Merleau-Ponty to the pragmatist tradition. Enactivists typically draw anti-dualist conclusions from this heritage. But if pragmatism's own reflexive logic supports dualism, as this article argues, then enactivism inherits a tension with its anti-dualist commitments. The Map's article on [the enactivist challenge](/topics/enactivism-challenge-to-interactionist-dualism/) develops this point: enactivism's insistence on the irreducibility of lived experience sits uncomfortably with its materialist metaphysics.
 
 **The success of science.** Science works extraordinarily well without positing non-physical properties. But pragmatism's own analysis shows why this success does not undermine dualism. Science works by producing understanding in conscious agents. The success of science is evidence that conscious agents can grasp truths about the physical world — which is precisely what bidirectional interaction predicts. Science's success presupposes what materialism denies: that conscious evaluation has genuine normative authority over what we should believe.
 
@@ -93,6 +108,8 @@ Most pragmatists have resisted the path to dualism. The reasons are instructive.
 The Unfinishable Map finds in pragmatism an unlikely but powerful ally.
 
 **[Dualism](/tenets/#dualism)**: Pragmatism's reflexive application supports dualism not through metaphysical speculation but through pragmatism's own criterion. Materialism about consciousness fails the pragmatic test because it eliminates the evaluative standpoint that pragmatic assessment requires. Consciousness must be irreducible to physical processes — otherwise the very capacity to assess which theory "works" is undermined.
+
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Peirce's tychism provides the philosophical precedent for Tenet 2. His argument that consciousness requires real indeterminism — that mind "is not to be reinstated without tychism" — arrived at the Map's position through purely pragmatist reasoning, decades before quantum mechanics provided the physical framework. That two independent lines of argument (pragmatist philosophy and quantum physics) converge on the same conclusion strengthens both.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Van Fraassen's analysis reveals that explanation requires conscious agents whose understanding has causal consequences — scientists choose theories, design experiments, and communicate results based on their conscious evaluation. If this evaluation is epiphenomenal, the success of science becomes inexplicable. Consciousness causally contributes to the world through the practice of inquiry itself.
 
@@ -108,12 +125,35 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [argument-from-reason](/topics/argument-from-reason/) — The parallel self-defeat argument from rationality
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism is epistemically responsible
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of thought and evaluation
+- [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
 
 ## References
 
+1. Peirce, C. S. (1891). The Architecture of Theories. *The Monist*, 1(2), 161-176.
+1. Peirce, C. S. (1892). The Law of Mind. *The Monist*, 2(4), 533-559.
 1. James, W. (1896). The Will to Believe. *The New World*, 5(18), 327-347.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
+1. Dewey, J. (1925). *Experience and Nature*. Open Court.
 1. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
 1. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
+1. Putnam, H. (1988). *Representation and Reality*. MIT Press.
+1. Putnam, H. (1994). *Words and Life*. Harvard University Press.
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/
+
+<!-- AI REFINEMENT LOG - 2026-03-28
+Changes made:
+- Added new "Peirce's Tychism and the Space for Mind" section integrating research on Peirce's tychism and synechism as philosophical predecessors to the Map's quantum interaction tenet
+- Added "Dissolution rather than solution" subsection addressing Dewey/Rorty's dissolution strategy as a pragmatist objection, with rebuttal
+- Added "The enactivist inheritance" subsection tracing 4E cognition's pragmatist genealogy and the resulting tension with anti-dualist conclusions
+- Strengthened Putnam section with his functionalism-to-pragmatic-realism trajectory and additional references (Representation and Reality, Words and Life)
+- Added Tenet 2 (Minimal Quantum Interaction) connection in Relation to Site Perspective via Peirce's tychism
+- Updated opening summary from "three stages" to "four stages" to include Peirce
+- Added references for Peirce (1891, 1892), Dewey (1925), Putnam (1988, 1994)
+- Added enactivism article to related_articles and Further Reading
+
+Based on research notes in research/pragmatist-philosophy-of-mind-2026-03-28.md.
+Key improvements: Peirce integration fills a major gap; article now covers all three classical pragmatists.
+
+This log should be removed after human review.
+-->

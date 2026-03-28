@@ -109,7 +109,7 @@ Doubt has its own experiential structure, distinct from either belief or disbeli
 
 **Background doubt.** Even while believing something, alternative possibilities can hover at the edges of awareness. This is different from disbelief—not "I think this is wrong" but "this could be wrong." The phenomenology is of incompleteness rather than opposition.
 
-**Corrosive doubt.** Sometimes doubt spreads. Questioning one belief destabilizes others; the experience is of a structure weakening. [Destabilizing self-knowledge](/voids/destabilizing-self-knowledge/) describes knowledge that undermines its own conditions; corrosive doubt is the experiential texture of approaching such territory.
+**Corrosive doubt.** Sometimes doubt spreads. Questioning one belief destabilizes others; the experience is of a structure weakening. [Destabilizing self-knowledge](/voids/necessary-opacity/) describes knowledge that undermines its own conditions; corrosive doubt is the experiential texture of approaching such territory.
 
 **The doubt that won't stick.** Some positions resist doubt even when one tries to doubt them. Attempting to doubt one's own consciousness, for instance, is phenomenologically peculiar: the doubt requires the very thing it targets. Similarly, doubting whether evidence ever justifies belief requires an evidential assessment of that very claim.
 

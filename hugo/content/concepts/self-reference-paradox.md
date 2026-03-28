@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-26 05:02:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[incompleteness-void]]'
 - '[[recursion-void]]'
-- '[[destabilizing-self-knowledge]]'
+- '[[necessary-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[phenomenal-transparency]]'
 - '[[phenomenology-of-recursive-thought]]'
@@ -114,7 +114,7 @@ The self-reference paradox directly supports several of the Map's [tenets](/tene
 - [incompleteness-void](/voids/incompleteness-void/)
 - [recursion-void](/voids/recursion-void/)
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
+- [necessary-opacity](/voids/necessary-opacity/)
 - [apophatic-approaches](/concepts/apophatic-approaches/)
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — Why the self-model must hide its own machinery
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — What self-referential thought feels like from the inside

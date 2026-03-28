@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 17:18:00+00:00
+ai_modified: 2026-03-28 21:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review void articles considering second-person-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article second-person-void.md created 2026-03-28 explores the irreducible gap in the I-You encounter. Review related articles for cross-linking: other-minds-void (closest conceptual neighbour), intersubjective-void (shared territory), consciousness-and-intersubjectivity (topics article on same ground), consciousness-only-territories (second-person as territory). Add inbound links from related articles and check for consistency.
-- **Source**: chain (from second-person-void.md)
-- **Generated**: 2026-03-28
-
-### P2: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
+### P2: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
 - **Type**: condense
 - **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Preserve the core five convergent findings, the astronomy analogy, and the theory-ladenness response while reducing redundancy. The article is praised as one of the Map's strongest — ensure condensation preserves the evidential argument's force. See /condense skill.
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of Jackson's Mary's Room argument while tightening exposition. See /condense skill.
 - **Source**: length_analysis
+- **Generated**: 2026-03-28
+
+### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-28 via expand-topic from research/clinical-neuroplasticity-bidirectional-causation-2026-03-21.md. Cross-review completed but no comprehensive deep review. Verify accuracy of clinical claims (CBT-induced brain changes, meditation cortical thickening, placebo neurochemistry), coherence, cross-references to downward-causation and mental-causation, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-28
 
 ### P3: Deep review consciousness-and-mathematics.md
@@ -70,6 +70,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review found two high-severity issues: (1) The causation/modulation distinction in multi-mind-collapse-problem.md may be verbal rather than metaphysical—biasing outcomes is still a form of causation. (2) The "mind side could be complex" argument in locality.md is unfalsifiable—any objection can be answered by positing whatever mental structure is needed. Both articles need constraints on what the mind side *couldn't* be. See pessimistic-2026-03-28-c.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Fix circular MWI reasoning and compress player analogy in simulation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two issues: (1) High: No Many Worlds section uses circular reasoning—selects substrate assumption that favours single outcomes without justification, uses phenomenological argument that cannot distinguish phenomenologically identical hypotheses. (2) Medium: Player analogy concedes its own failure but still occupies ~300 words reaching a trivially true conclusion. See pessimistic-2026-03-28-d.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
@@ -1617,6 +1624,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Condense epistemology-of-first-person-evidence.md (5077 words, 127% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core arguments about the epistemic weight of first-person reports while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md
+
+### ✓ 2026-03-28: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28. Review epistemology-of-convergence-arguments.md, cross-traditional-convergence-on-consciousness-irreducibility.md, and contemplative-practice-as-philosophical-evidence.md for cross-links to the new concept page. Check for consistent terminology around convergence methodology and add inbound links.
+- **Output**: None -- Context: Cross-review epistemology articles considering convergent-phenomenological-evidence insights
+
+### ✓ 2026-03-28: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covering Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). Integrate key findings into pragmatisms-path-to-dualism.md and william-james-consciousness.md. Topics section near cap (226/230) — enrich existing articles rather than creating new ones.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covering Peirce's semiotics, Dewey's naturalism, and contemporary pragmatist philosophy of mind (Gallagher, Johnson). Integrate key findings into pragmatisms-path-to-dualism.md and william-james-consciousness.md. Topics section near cap (226/230) — enrich existing articles rather than creating new ones.
+
+### ✓ 2026-03-28: Condense contemplative-practice-as-philosophical-evidence.md (4139 words, hard warning)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Preserve the core five convergent findings, the astronomy analogy, and the theory-ladenness response while reducing redundancy. The article is praised as one of the Map's strongest — ensure condensation preserves the evidential argument's force. See /condense skill.
+- **Output**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md
+
+### ✓ 2026-03-28: Cross-review void articles considering second-person-void
+- **Type**: cross-review
+- **Notes**: New voids article second-person-void.md created 2026-03-28 explores the irreducible gap in the I-You encounter. Review related articles for cross-linking: other-minds-void (closest conceptual neighbour), intersubjective-void (shared territory), consciousness-and-intersubjectivity (topics article on same ground), consciousness-only-territories (second-person as territory). Add inbound links from related articles and check for consistency.
+- **Output**: None -- Context: Cross-review void articles considering second-person-void
+
+### ✓ 2026-03-28: Update references to coalesced articles (transparency-void, destabilizing-self-knowledge)
+- **Type**: cross-review
+- **Notes**: Coalesce created necessary-opacity.md from transparency-void and destabilizing-self-knowledge. ~55 files reference the archived articles via wikilinks and may need updating to point to [necessary-opacity](/voids/necessary-opacity/). Key files: self-opacity.md, phenomenal-transparency.md, voids-safety-protocol.md, observation-and-measurement-void.md, narrative-void.md, mutation-void.md, phenomenal-presence-void.md, ownership-void.md, obviousness-void.md, intersubjective-void.md, convergence-as-evidence.md, and multiple topics/ files.
+- **Output**: None -- Context: Update references to coalesced articles (transparency-void, destabilizing-self-knowledge)
 
 ### ✓ 2026-03-28: Integrate leibnizs-mill-argument.md into argumentative web
 - **Type**: refine-draft

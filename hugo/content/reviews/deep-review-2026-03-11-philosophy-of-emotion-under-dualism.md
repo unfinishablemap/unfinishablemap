@@ -50,7 +50,7 @@ None.
 ### Enhancements Made
 - Added cross-link to [aesthetic-experience-as-evidence-for-irreducibility](/topics/aesthetic-irreducibility-arguments/) in the emotional intentionality section
 - Added cross-link to [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) in the emotional causation section
-- Added cross-link to [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) in the self-knowledge section
+- Added cross-link to [destabilizing-self-knowledge](/voids/necessary-opacity/) in the self-knowledge section
 - Added Minimal Quantum Interaction subsection to Relation to Site Perspective
 - Added No Many Worlds subsection to Relation to Site Perspective
 - Softened Prinz characterization from dismissive to fair ("more sophisticated" rather than "more plausible")
@@ -58,7 +58,7 @@ None.
 ### Cross-links Added
 - [aesthetic-experience-as-evidence-for-irreducibility](/topics/aesthetic-irreducibility-arguments/)
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
+- [destabilizing-self-knowledge](/voids/necessary-opacity/)
 
 ## Remaining Items
 

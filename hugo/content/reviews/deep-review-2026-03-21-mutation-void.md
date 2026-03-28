@@ -58,9 +58,9 @@ topics: []
 - [introspective-opacity](/voids/self-opacity/) — added mutation-void reference in ontological opacity section
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — added mutation-void distinction (slippage vs mutation) in opening
 - [self-reference-paradox](/concepts/self-reference-paradox/) — added mutation-void reference in regression of attention section
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — added mutation-void taxonomy reference in self-studying brain section
+- [destabilizing-self-knowledge](/voids/necessary-opacity/) — added mutation-void taxonomy reference in self-studying brain section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — added mutation-void to Further Reading
-- [transparency-void](/voids/transparency-void/) — added mutation-void distinction in void comparison section
+- [transparency-void](/voids/necessary-opacity/) — added mutation-void distinction in void comparison section
 - [introspection](/concepts/introspection/) (concept) — added mutation-void taxonomy in bidirectional interaction discussion
 
 ## Remaining Items

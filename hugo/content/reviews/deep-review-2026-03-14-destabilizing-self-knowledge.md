@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-14
-**Article**: [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/)
+**Article**: [Destabilizing Self-Knowledge](/voids/necessary-opacity/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-destabilizing-self-knowledge/)
 
 ## Pessimistic Analysis Summary
@@ -52,7 +52,7 @@ None. Article remains philosophically coherent within its framework.
 - Tightened prose throughout to maintain length neutrality (2041 → 2059 words)
 
 ### Cross-links Added
-- [transparency-void](/voids/transparency-void/) — consciousness cannot verify its own representations
+- [transparency-void](/voids/necessary-opacity/) — consciousness cannot verify its own representations
 - [calibration-void](/voids/measurement-void/) — introspection lacks independent calibration standards
 - [transition-void](/voids/transition-void/) — consciousness cannot witness its own state transitions
 

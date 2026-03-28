@@ -121,7 +121,7 @@ Approaching the measurement void produces a distinctive experiential signature.
 
 **Dissolving ground.** Contemplating Schwitzgebel's examples seriously—Am I really experiencing peripheral vision in colour right now?—produces not the sensation of hitting a wall but of the floor becoming unreliable. The experience is a loss of footing rather than a confrontation with an obstacle.
 
-**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects to the [destabilising self-knowledge](/voids/destabilizing-self-knowledge/) pattern and to the [self-reference paradox](/voids/self-opacity/), where consciousness cannot fully map itself because it is the mapper.
+**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects to the [destabilising self-knowledge](/voids/necessary-opacity/) pattern and to the [self-reference paradox](/voids/self-opacity/), where consciousness cannot fully map itself because it is the mapper.
 
 **Pragmatic forgetting.** The practical impossibility of sustaining radical doubt about introspection means we routinely fall back into naïve trust. The measurement void cannot be inhabited—it can only be glimpsed before the mind reasserts its default confidence.
 
@@ -150,7 +150,7 @@ The measurement void follows from the Map's [tenets](/tenets/) with particular d
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions
+- [destabilizing-self-knowledge](/voids/necessary-opacity/) — Knowledge that undermines its own conditions
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—mapping by the shape of failure
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 

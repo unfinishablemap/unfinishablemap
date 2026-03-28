@@ -195,7 +195,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
 - [recursion-void](/voids/recursion-void/) — The empirical ceiling on metacognitive depth
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — When self-knowledge undermines the knower
+- [destabilizing-self-knowledge](/voids/necessary-opacity/) — When self-knowledge undermines the knower
 - [intentionality](/concepts/intentionality/) — The aboutness of consciousness and its limits
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [whether-real](/voids/whether-real/) — Can we determine if limits are permanent?

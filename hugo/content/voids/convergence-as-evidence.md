@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-25 22:01:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -55,7 +55,7 @@ Signature failure: **categorical mismatch**—third-person vocabulary applied to
 
 ### The Self-Knowledge Cluster
 
-The [self-reference paradox](/voids/self-opacity/), [introspective opacity](/voids/self-opacity/), [calibration void](/voids/observation-and-measurement-void/), [past-self void](/voids/inaccessible-past/), and [destabilising self-knowledge](/voids/destabilizing-self-knowledge/) converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation; calibrating one's own reliability requires a reliability already calibrated.
+The [self-reference paradox](/voids/self-opacity/), [introspective opacity](/voids/self-opacity/), [calibration void](/voids/observation-and-measurement-void/), [past-self void](/voids/inaccessible-past/), and [necessary opacity](/voids/necessary-opacity/) converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation; calibrating one's own reliability requires a reliability already calibrated.
 
 Signature failure: **recursive collapse**—each attempt to deepen self-examination encounters itself as obstacle, a strange loop that neither resolves nor collapses.
 

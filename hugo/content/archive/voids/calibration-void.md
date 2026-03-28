@@ -85,7 +85,7 @@ Approaching the calibration void produces a distinctive experiential signature�
 
 **Dissolving ground.** Contemplating Schwitzgebel's examples seriously—Am I really experiencing peripheral vision in colour right now? Am I sure about the phenomenal character of this thought?—produces not the sensation of hitting a wall but of the floor becoming unreliable. The experience is a loss of footing rather than a confrontation with an obstacle.
 
-**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects both to the [destabilising self-knowledge](/voids/destabilizing-self-knowledge/) pattern—knowledge that undermines its own conditions of possibility—and to the [self-reference-paradox](/concepts/self-reference-paradox/), where consciousness cannot fully map itself because it is the mapper.
+**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral. Am I accurately reporting my uncertainty about my accuracy? This connects both to the [destabilising self-knowledge](/voids/necessary-opacity/) pattern—knowledge that undermines its own conditions of possibility—and to the [self-reference-paradox](/concepts/self-reference-paradox/), where consciousness cannot fully map itself because it is the mapper.
 
 **Pragmatic forgetting.** The practical impossibility of sustaining radical doubt about introspection means we routinely fall back into naïve trust. The calibration void cannot be inhabited—it can only be glimpsed before the mind reasserts its default confidence.
 
@@ -106,7 +106,7 @@ The calibration void is adjacent to but distinct from the [observation-void](/vo
 - [observation-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
 - [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines its own conditions
+- [destabilizing-self-knowledge](/voids/necessary-opacity/) — Knowledge that undermines its own conditions
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 

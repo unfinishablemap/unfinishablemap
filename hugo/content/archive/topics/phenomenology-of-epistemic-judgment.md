@@ -142,7 +142,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [questioning-as-evidence](/voids/questioning-as-evidence/)
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
+- [destabilizing-self-knowledge](/voids/necessary-opacity/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - [introspection](/concepts/introspection/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[self-opacity]]'
 - '[[other-minds-void]]'
-- '[[transparency-void]]'
+- '[[necessary-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-and-the-ownership-problem]]'
 title: The Ownership Void
@@ -104,7 +104,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself observing
 - [introspective opacity](/voids/self-opacity/) — Why cognitive processes hide from introspection
-- [transparency-void](/voids/transparency-void/) — When cognitive mechanisms become invisible through transparency
+- [necessary-opacity](/voids/necessary-opacity/) — When cognitive mechanisms become invisible through transparency, and why this opacity is structural
 - [other-minds-void](/voids/other-minds-void/) — The impossibility of accessing another subject's ownership
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self, pre-reflective awareness, and the circularity of self-knowledge

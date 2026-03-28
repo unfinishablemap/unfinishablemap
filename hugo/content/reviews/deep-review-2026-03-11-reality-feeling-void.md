@@ -48,12 +48,12 @@ topics: []
 
 ### Enhancements Made
 - Strengthened Bidirectional Interaction tenet connection with depersonalization-based argument
-- Added inline cross-link to [transparency-void](/voids/transparency-void/) with distinguishing sentence
+- Added inline cross-link to [transparency-void](/voids/necessary-opacity/) with distinguishing sentence
 - Added inline cross-link to [simulation](/concepts/simulation/) in self-concealing structure section
 - Replaced unverifiable Sass quote with safer descriptive paraphrase
 
 ### Cross-links Added
-- [transparency-void](/voids/transparency-void/) (inline in "Why the Mechanism Is Hidden" section)
+- [transparency-void](/voids/necessary-opacity/) (inline in "Why the Mechanism Is Hidden" section)
 - [simulation](/concepts/simulation/) (inline in "The Self-Concealing Structure" section)
 
 ## Remaining Items

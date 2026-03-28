@@ -174,7 +174,7 @@ The unobservable self may be the prototype void: territory consciousness cannot 
 - [Introspective Opacity](/voids/self-opacity/) — Why we access products but never processes
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — How cognitive limits are preconditions for meaning
-- [Destabilizing Self-Knowledge](/voids/destabilizing-self-knowledge/) — When grasping truths about consciousness would undermine the capacity to hold them
+- [Destabilizing Self-Knowledge](/voids/necessary-opacity/) — When grasping truths about consciousness would undermine the capacity to hold them
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void

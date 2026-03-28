@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-28 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[biological-cognitive-closure]]'
 - '[[self-opacity]]'
-- '[[destabilizing-self-knowledge]]'
+- '[[necessary-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-as-perceptual-architect]]'
 title: The Phenomenology of Conceptual Change
@@ -133,7 +133,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [phenomenology of self-awareness](/voids/self-opacity/)
-- [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
+- [necessary-opacity](/voids/necessary-opacity/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The perceptual parallel: how perception itself transforms through learning and constancy

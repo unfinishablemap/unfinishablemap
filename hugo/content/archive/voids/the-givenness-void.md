@@ -46,7 +46,7 @@ topics:
 
 Every conscious experience arrives with a quality of *givenness*—an immediate, pre-reflective thereness that presents the world as simply *there*. You open your eyes and colour is given. You feel pain and it is given. You think a thought and it is given. This givenness is the most pervasive feature of consciousness and the least examinable. Any attempt to investigate how experience acquires its given character must itself operate within givenness, using givenness as its instrument. The givenness void is this structural impossibility: consciousness cannot step outside the immediate presentation of experience to examine how that presentation arises.
 
-This void sits deeper than the [transparency-void](/voids/transparency-void/), which asks whether consciousness distorts what it represents. The givenness void asks something more fundamental: why experience presents itself as immediate and just-there at all—why there is a mode of presentation in the first place.
+This void sits deeper than the [transparency-void](/voids/necessary-opacity/), which asks whether consciousness distorts what it represents. The givenness void asks something more fundamental: why experience presents itself as immediate and just-there at all—why there is a mode of presentation in the first place.
 
 ## The Circularity of Investigating Givenness
 
@@ -86,7 +86,7 @@ Approaching the givenness void feels like trying to see one's own eyes without a
 
 **Recursive collapse.** The moment one tries to examine givenness directly, the examination becomes another given experience. Reflection on givenness adds a new layer of givenness rather than penetrating behind the existing one. Each meta-level is subject to the same structure it aims to investigate.
 
-**No breakdown condition.** The [transparency-void](/voids/transparency-void/) becomes visible when the sense of reality falters—in depersonalisation, dreams, or psychedelic dissolution. The givenness void has no analogous breakdown. Even experiences that feel unreal, distorted, or dreamlike are still *given* as experiences. There is no state of consciousness in which givenness itself fails. This absence of a contrast condition makes the void harder to detect than almost any other.
+**No breakdown condition.** The [transparency-void](/voids/necessary-opacity/) becomes visible when the sense of reality falters—in depersonalisation, dreams, or psychedelic dissolution. The givenness void has no analogous breakdown. Even experiences that feel unreal, distorted, or dreamlike are still *given* as experiences. There is no state of consciousness in which givenness itself fails. This absence of a contrast condition makes the void harder to detect than almost any other.
 
 **The apophatic residue.** What remains after sustained investigation is not a specific missing fact but a structural inability to get behind experience's own presentation. Meditative traditions (particularly *vipassana* and Zen *shikantaza*) attempt to loosen the natural attitude, and practitioners report states of "bare awareness" in which conceptual overlay thins and experience seems to present itself without interpretation. But even these reports face the void: the meditator's awareness of "bare awareness" is itself given. The [constitutive exclusion](/topics/constitutive-exclusion/) problem applies—our concepts, including the concept of "pre-conceptual experience," are themselves part of consciousness's contribution and cannot step outside it. Whether contemplative states constitute access to pre-given experience or merely a different *mode* of givenness is precisely what the void conceals.
 
@@ -103,7 +103,7 @@ The rejection of [Many Worlds](/tenets/#no-many-worlds) finds support here as we
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [transparency-void](/voids/transparency-void/) — Whether consciousness distorts what it represents
+- [transparency-void](/voids/necessary-opacity/) — Whether consciousness distorts what it represents
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot reach what matter is in itself
 - [introspective-opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive mechanisms
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — What lies before conceptual articulation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-02-25 17:52:00+00:00
+ai_modified: 2026-03-28 21:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[acquaintance-void]]'
+- '[[second-person-void]]'
 title: Consciousness-Only Territories
 topics:
 - '[[ai-consciousness]]'
@@ -156,6 +157,7 @@ If genuine consciousness-only territories exist, several implications follow.
 - [Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What it feels like to approach cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of phenomenal contact structurally inaccessible to different cognitive architectures
+- [The Second-Person Void](/voids/second-person-void/) — The encounter between consciousnesses as a territory accessible only through participation
 - [The Hard Problem](/topics/hard-problem-of-consciousness/) — Why explaining consciousness resists physical reduction
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know whether limits are genuine or merely apparent
 - [The Silence Void](/voids/the-silence-void/) — Territory accessible only through the cessation of cognition itself

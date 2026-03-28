@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-26 08:48:00+00:00
+ai_modified: 2026-03-28 21:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,6 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[other-minds-void]]'
 - '[[intersubjective-void]]'
+- '[[second-person-void]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
@@ -132,6 +133,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — "We-consciousness" and shared intentionality
 - [other-minds-void](/voids/other-minds-void/) — The constitutive gap between individual consciousnesses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [second-person-void](/voids/second-person-void/) — The irreducible gap in the I-You encounter: what genuine meeting delivers and structurally cannot
 
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle that intersubjectivity addresses
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
