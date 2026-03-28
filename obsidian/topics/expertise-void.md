@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience, c
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-27T21:32:00+00:00
+ai_modified: 2026-03-28T01:23:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -18,6 +18,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
+  - "[[expertise-occlusion]]"
   - "[[absorption-void]]"
   - "[[habituation-void]]"
   - "[[biological-cognitive-closure]]"
@@ -103,6 +104,7 @@ The expertise void also connects to the [[biological-cognitive-closure|developme
 
 ## Further Reading
 
+- [[expertise-occlusion]] — Why the void is actively defended: the lock on the one-way door
 - [[consciousness-and-skill-acquisition]] — How the stages of skill acquisition challenge epiphenomenalism
 - [[skill-delegation]] — The three-phase process (calibration, withdrawal, retained override) that creates the expertise void when withdrawal becomes irreversible
 - [[absorption-void]]

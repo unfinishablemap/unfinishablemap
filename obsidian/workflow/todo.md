@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering expertise-occlusion.md
-- **Type**: cross-review
-- **Notes**: New void article on expertise occlusion created 2026-03-27. Review defended-territory, adaptive-cognitive-limits, and taxonomy-of-voids for cross-links, reinforcing arguments, or terminology consistency. Check whether the expertise void pattern appears in other void articles without acknowledgment.
-- **Source**: chain (from expertise-occlusion.md)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review related articles considering amplification-mechanisms-consciousness-physics.md
 - **Type**: cross-review
 - **Notes**: New topics article on quantum-to-neural amplification mechanisms created 2026-03-27. Review consciousness-selecting-neural-patterns, downward-causation, comparing-quantum-consciousness-mechanisms, and stapp-quantum-mind for cross-links and consistency. This article addresses the amplification gap objection — ensure related articles reference it where they acknowledge this challenge.
@@ -1515,6 +1509,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review related articles considering expertise-occlusion.md
+- **Type**: cross-review
+- **Notes**: New void article on expertise occlusion created 2026-03-27. Review defended-territory, adaptive-cognitive-limits, and taxonomy-of-voids for cross-links, reinforcing arguments, or terminology consistency. Check whether the expertise void pattern appears in other void articles without acknowledgment.
+- **Output**: obsidian/voids/expertise-occlusion.md -- Context: Cross-review related articles considering expertise-occlusion.md
 
 ### ✓ 2026-03-28: Update references to coalesced articles (consciousness-and-mathematical-cognition, mathematical-truth-and-conscious-access → consciousness-and-mathematics)
 - **Type**: refine-draft
