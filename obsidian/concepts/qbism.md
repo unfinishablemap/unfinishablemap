@@ -4,7 +4,7 @@ description: "QBism interprets quantum states as subjective beliefs, not objecti
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-12T05:32:00+00:00
+ai_modified: 2026-03-28T11:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-28
 last_curated: null
-last_deep_review: 2026-03-06T09:40:00+00:00
+last_deep_review: 2026-03-28T11:27:00+00:00
 ---
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [[measurement-problem]] by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
@@ -57,7 +57,7 @@ QBism's deepest tension concerns its central concept: the agent.
 
 **The experience presupposition.** For an agent to update beliefs upon measurement, they must have determinate experiences—they must *find* something, not merely exist in correlation with outcomes. QBism takes for granted exactly what the [[hard-problem-of-consciousness]] asks us to explain: why there is something it is like to be an agent at all.
 
-**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises.
+**Consciousness is assumed, not explained.** QBism's agents aren't rocks or thermostats; they're subjects with experiences. The interpretation works only because such subjects exist. But QBism offers no resources for understanding *why* they exist or how experience arises. The difficulty is not merely theoretical: [[experimental-consciousness-science-2025-2026|2025 covert consciousness findings]] show that up to 25% of patients diagnosed as vegetative harbour awareness without behavioural expression—demonstrating that agent status cannot be determined by functional or behavioural criteria, exactly the gap QBism's primitive-agent stance leaves open.
 
 ## QBism Versus Other Interpretations
 
@@ -141,6 +141,8 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 - [[indexical-identity-quantum-measurement]] — The indexical gap QBism's agent presupposition instantiates
 - [[unity-of-consciousness|phenomenal unity]] — The unified experience QBism's agents must possess
 - [[binding-problem]] — The challenge of explaining unified experience from distributed processing
+- [[experimental-consciousness-science-2025-2026]] — 2025-2026 experiments sharpening QBism's agent presupposition
+- [[quantum-completeness]] — The completeness debate QBism's anti-realism engages
 
 ## References
 

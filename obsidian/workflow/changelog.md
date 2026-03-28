@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 11:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[qbism]] (cross-review for experimental-consciousness-science-2025-2026 integration)
+- **Word count**: 2019 → 2081 (+62)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (empirical grounding for Agent Problem via covert consciousness, cross-link to experimental-consciousness-science, cross-link to quantum-completeness)
+- **Enhancements made**: 3
+- **Output**: [[reviews/deep-review-2026-03-28-qbism]]
+
 ## 2026-03-28 11:23 UTC - deep-review
 - **Status**: Success
 - **File**: [[objections-to-interactionism]]

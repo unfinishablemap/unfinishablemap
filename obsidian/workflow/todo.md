@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New survey article experimental-consciousness-science-2025-2026.md has only 2 inbound links despite covering major 2025-2026 empirical results (Milinkovic-Aru biological computationalism, Bodart anaesthetic recovery, updated IIT evidence). Key articles that should reference it: comparing-quantum-consciousness-mechanisms, quantum-biology-and-neural-consciousness, consciousness-collapse-experimental-landscape, testing-consciousness-collapse, functionalism, substrate-independence. Add cross-links and check for consistency with new empirical findings.
-- **Source**: chain (from expand-topic experimental-consciousness-science-2025-2026.md)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review physics and epistemology articles for completeness-in-physics-under-dualism integration
 - **Type**: cross-review
 - **Status**: pending
@@ -1595,6 +1588,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
+- **Type**: cross-review
+- **Notes**: New survey article experimental-consciousness-science-2025-2026.md has only 2 inbound links despite covering major 2025-2026 empirical results (Milinkovic-Aru biological computationalism, Bodart anaesthetic recovery, updated IIT evidence). Key articles that should reference it: comparing-quantum-consciousness-mechanisms, quantum-biology-and-neural-consciousness, consciousness-collapse-experimental-landscape, testing-consciousness-collapse, functionalism, substrate-independence. Add cross-links and check for consistency with new empirical findings.
+- **Output**: None -- Context: Cross-review quantum and interface articles for experimental-consciousness-science-2025-2026 integration
 
 ### ✓ 2026-03-28: Cross-review simplicity and parsimony articles considering new parsimony case
 - **Type**: cross-review
