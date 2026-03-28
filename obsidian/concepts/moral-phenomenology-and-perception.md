@@ -4,7 +4,7 @@ description: "What moral experience feels like from the inside and whether ethic
 created: 2026-02-12
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-25T09:43:00+00:00
+ai_modified: 2026-03-28T06:42:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[blindsight]]"
   - "[[cognitive-phenomenology]]"
+  - "[[evaluative-qualia]]"
 related_articles:
   - "[[tenets]]"
   - "[[normative-void]]"
@@ -42,7 +43,7 @@ coalesced_from:
   - "/concepts/moral-phenomenology/"
 ---
 
-Moral experience has distinctive phenomenal character that resists reduction to physical or functional description. Wrongness, obligation, admiration, and guilt each feel like something specific, and these felt qualities provide primary data about the evaluative structure of consciousness. The Unfinishable Map holds that moral phenomenology matters for the same reason sensory phenomenology matters: the [[explanatory-gap]] between neural activation and felt experience extends into the moral domain, providing further evidence that consciousness is irreducible to physical processes.
+Moral experience has distinctive phenomenal character that resists reduction to physical or functional description. Wrongness, obligation, admiration, and guilt each feel like something specific, and these felt qualities—instances of [[evaluative-qualia]]—provide primary data about the evaluative structure of consciousness. The Unfinishable Map holds that moral phenomenology matters for the same reason sensory phenomenology matters: the [[explanatory-gap]] between neural activation and felt experience extends into the moral domain, providing further evidence that consciousness is irreducible to physical processes.
 
 A central question within moral phenomenology is whether ethical properties can be directly *perceived*. Moral perception holds that wrongness presents itself in experience with the immediacy of colour or shape, rather than being inferred from morally neutral facts. If [[topics/phenomenal-value-realism]] is correct and value resides in conscious experience, moral perception is how agents access the evaluative dimension of reality.
 
@@ -172,6 +173,7 @@ None of these findings currently obtains.
 - [[explanatory-gap]] — The gap between physical description and phenomenal character
 - [[attention-as-interface]] — Attention as the site of consciousness-brain interaction
 - [[contemplative-practice-as-philosophical-evidence]] — The epistemological role of contemplative practice
+- [[evaluative-qualia]] — The broader category encompassing moral, aesthetic, and other evaluative phenomenal experiences
 
 ## References
 

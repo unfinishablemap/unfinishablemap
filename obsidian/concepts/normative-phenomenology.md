@@ -4,7 +4,7 @@ description: "Systematic first-person investigation of how obligation, beauty, a
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-28T06:42:00+00:00
 last_deep_review: 2026-03-18T17:06:00+00:00
 draft: false
 topics:
@@ -20,6 +20,7 @@ concepts:
   - "[[heterophenomenology]]"
   - "[[reasons-responsiveness]]"
   - "[[attention-as-interface]]"
+  - "[[evaluative-qualia]]"
 related_articles:
   - "[[tenets]]"
   - "[[normative-void]]"
@@ -75,7 +76,7 @@ Normative salience—the capacity of normative properties to capture [[attention
 
 Normative phenomenology intersects with several related concepts on the Map but is distinct from each.
 
-**[[phenomenal-normativity]]** is the metaphysical thesis that certain phenomenal states carry intrinsic normative force. Normative phenomenology is the method for investigating whether and how this thesis is borne out in experience. Phenomenal normativity is a claim; normative phenomenology is the investigation that produces evidence for or against it. Rawlette (2016) develops the most sustained version of this thesis, arguing that phenomenal consciousness grounds moral realism through the intrinsic value character of felt experience.
+**[[phenomenal-normativity]]** is the metaphysical thesis that certain phenomenal states carry intrinsic normative force. **[[evaluative-qualia]]** isolates the specific phenomenal category—experiences whose qualitative character is intrinsically evaluative—that normative phenomenology investigates. Normative phenomenology is the method for investigating whether and how phenomenal normativity is borne out in experience. Phenomenal normativity is a claim; normative phenomenology is the investigation that produces evidence for or against it. Rawlette (2016) develops the most sustained version of this thesis, arguing that phenomenal consciousness grounds moral realism through the intrinsic value character of felt experience.
 
 **[[moral-phenomenology-and-perception|Moral perception]]** is the capacity to directly apprehend ethical properties. Normative phenomenology is the broader methodological programme within which moral perception is studied—alongside epistemic, aesthetic, and prudential perception.
 
@@ -151,6 +152,7 @@ Normative phenomenology connects to the Map's [[tenets|foundational commitments]
 - [[consciousness-value-connection]] — Why consciousness is necessary for value
 - [[contemplative-practice-as-philosophical-evidence]] — Contemplative traditions as laboratories for normative investigation
 - [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
+- [[evaluative-qualia]] — The phenomenal category normative phenomenology investigates
 
 ## References
 

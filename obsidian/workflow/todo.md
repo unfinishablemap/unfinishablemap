@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering evaluative-qualia.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 from research notes. Review aesthetics-and-consciousness, consciousness-and-normative-force, phenomenal-normativity, moral-phenomenology-and-perception for consistency with the new evaluative qualia framework. Add cross-links where the concept strengthens existing arguments about irreducible value in experience. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
-- **Source**: chain (from evaluative-qualia.md expand-topic)
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review related articles considering completeness-in-physics-under-dualism.md
 - **Type**: cross-review
 - **Status**: pending
@@ -1560,6 +1553,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review related articles considering evaluative-qualia.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 from research notes. Review aesthetics-and-consciousness, consciousness-and-normative-force, phenomenal-normativity, moral-phenomenology-and-perception for consistency with the new evaluative qualia framework. Add cross-links where the concept strengthens existing arguments about irreducible value in experience. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Output**: obsidian/concepts/evaluative-qualia.md -- Context: Cross-review related articles considering evaluative-qualia.md
 
 ### ✓ 2026-03-28: Condense consciousness-and-mathematics.md (4423 words, 111% of target)
 - **Type**: condense

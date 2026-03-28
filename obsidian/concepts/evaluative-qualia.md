@@ -4,8 +4,8 @@ description: "Phenomenal experiences that carry intrinsic evaluative characterâ€
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-03-27T23:08:00+00:00
-last_deep_review: 2026-03-27T23:08:00+00:00
+ai_modified: 2026-03-28T06:42:00+00:00
+last_deep_review: 2026-03-28T06:42:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
