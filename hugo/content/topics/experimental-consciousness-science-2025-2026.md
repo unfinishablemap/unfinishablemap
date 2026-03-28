@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-03-26 17:56:00+00:00
+ai_modified: 2026-03-28 07:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Major consciousness experiments of 2025-2026—COGITATE adversarial
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 17:56:00+00:00
+last_deep_review: 2026-03-28 07:42:00+00:00
 modified: *id001
 related_articles:
 - '[[filter-theory]]'
@@ -56,7 +56,7 @@ Biophotons are quantum phenomena—individual photons emitted through biochemica
 
 A 2025 PNAS study from UC Santa Barbara examined patients with incomplete callosotomies—surgical severing of the corpus callosum, the 250 million axons connecting the brain's hemispheres. The finding was remarkable: patients with only a small posterior bundle of fibres intact functioned as well as neurotypical subjects on tests of conscious unity. As the researchers put it: "You don't need the whole corpus callosum; you just need that critical section in the back of the brain to be connected in order to have that unified consciousness experience."
 
-This is the first fMRI study of adult callosotomy patients' network activity, and it raises a question that purely computational accounts of consciousness struggle to answer. If consciousness is identical to distributed neural processing, why would a tiny fraction of inter-hemispheric connections—orders of magnitude fewer than the full corpus callosum—maintain complete experiential unity? On standard computational models, losing 99% of cross-module bandwidth would typically produce proportional degradation in system performance, not binary preservation of full function.
+This is the first fMRI study of adult callosotomy patients' network activity, and it raises a question that purely computational accounts of consciousness struggle to answer. If consciousness is identical to distributed neural processing, why would a tiny fraction of inter-hemispheric connections—orders of magnitude fewer than the full corpus callosum—maintain complete experiential unity? On standard computational models, losing 99% of cross-module bandwidth would typically produce proportional degradation in system performance, not binary preservation of full function. The result sharpens the [binding-problem](/concepts/binding-problem/)—if phenomenal unity were a product of neural integration volume, it should degrade as integration pathways are removed, not survive their near-total loss.
 
 The finding is more naturally explained if physical connections serve as an *interface* for consciousness rather than *constituting* it. On the Map's framework, the posterior callosal fibres provide a channel through which consciousness integrates information from both hemispheres. The channel needs to be open; it does not need to be wide. This parallels [filter theory](/concepts/filter-theory/)—the brain constrains and channels consciousness rather than generating it.
 

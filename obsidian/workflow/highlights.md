@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-27T15:12:58.835987'
+ai_modified: '2026-03-28T08:12:52.375165'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-27'
+modified: '2026-03-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-28: Physicalism's Simplicity Is a Bookkeeping Trick
+
+Refined analysis shows interactionist dualism wins on 2 of 3 parsimony dimensions. Physicalism hides enormous debts—brute emergence, error theories, conceptual gaps—behind a tidy ontology.
+
+**Type**: insight  
+**Link**: [[parsimony-case-for-interactionist-dualism]]
+
+---
+
 ### 2026-03-27: Why Consciousness Can't See Itself
 
 Six thinkers from radically different traditions—Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker—all hit the same wall: consciousness cannot observe itself observing. The void isn't a bug. It's load-bearing.
@@ -192,15 +201,6 @@ Your brain fills in your blind spot and edits out 40 minutes of vision daily—y
 
 **Type**: research  
 **Link**: [[reconstruction-paradox-brain-correction-2026-03-09]]
-
----
-
-### 2026-03-08: When the Lens Distorts, What Can You Trust?
-
-Deep review reveals an unmappable void: attention disorders compromise the very instrument we use to study consciousness. We cannot distinguish altered experience from impaired expression of normal experience.
-
-**Type**: insight  
-**Link**: [[attention-disorders-and-consciousness]]
 
 ---
 

@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 06:12:00+00:00
+ai_modified: 2026-03-28 07:42:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-28 07:58 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Word count**: 2450 → 2444 (-6)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (Churchland attribution fix, cross-links added, stale comment removed)
+- **Enhancements made**: 4 (cross-links to functionalism, global-workspace-theory, idealism, mental-causation)
+- **Output**: [deep-review-2026-03-28-parsimony-case-for-interactionist-dualism](/reviews/deep-review-2026-03-28-parsimony-case-for-interactionist-dualism/)
+
+## 2026-03-28 07:42 UTC - deep-review
+- **Status**: Success
+- **File**: [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/)
+- **Word count**: 1985 → 2012 (+27)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (binding-problem cross-link in split-brain section)
+- **Enhancements made**: 1 (inline binding-problem connection)
+- **Output**: [deep-review-2026-03-28-experimental-consciousness-science-2025-2026](/reviews/deep-review-2026-03-28-experimental-consciousness-science-2025-2026/)
 
 ## 2026-03-28 07:32 UTC - check-tenets
 - **Status**: Success
