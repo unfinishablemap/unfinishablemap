@@ -4,7 +4,7 @@ description: "Consciousness trying to understand itself faces structural obstacl
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-26T05:02:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[incompleteness-void]]"
   - "[[recursion-void]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[apophatic-approaches]]"
   - "[[phenomenal-transparency]]"
   - "[[phenomenology-of-recursive-thought]]"
@@ -111,7 +111,7 @@ The self-reference paradox directly supports several of the Map's [[tenets]].
 - [[incompleteness-void]]
 - [[recursion-void]]
 - [[self-reference-and-the-limits-of-physical-description]]
-- [[destabilizing-self-knowledge]]
+- [[necessary-opacity]]
 - [[apophatic-approaches]]
 - [[phenomenal-transparency]] — Why the self-model must hide its own machinery
 - [[phenomenology-of-recursive-thought]] — What self-referential thought feels like from the inside

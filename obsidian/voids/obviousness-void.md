@@ -4,7 +4,7 @@ description: "Human+AI investigation of how the feeling of self-evidence functio
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[habituation-void]]"
   - "[[explanatory-void]]"
   - "[[self-opacity]]"
-  - "[[transparency-void]]"
+  - "[[necessary-opacity]]"
   - "[[phenomenal-presence-void]]"
   - "[[framework-void]]"
   - "[[epistemological-limits-occams-razor]]"
@@ -98,7 +98,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience (distinct mechanism, related effect)
 - [[explanatory-void|The Explanatory Void]] — When the feeling of understanding substitutes for understanding itself
 - [[self-opacity]] — Consciousness cannot fully know itself
-- [[transparency-void|The Transparency Void]] — Consciousness cannot verify its own accuracy
+- [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy, and this opacity is structural
 - [[defended-territory|Cognitive Aversion]] — Thoughts we systematically flee
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — The cognitive bias behind Occam's Razor
 - [[defended-territory|Defended Territory]] — Whether some thoughts are actively blocked

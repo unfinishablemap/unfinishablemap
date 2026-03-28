@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 last_deep_review: 2026-03-21T01:42:00+00:00
 draft: false
 topics:
@@ -20,9 +20,8 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[defended-territory]]"
   - "[[self-opacity]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[transparency-void]]"
   - "[[mysterianism]]"
   - "[[tenets]]"
   - "[[resonance-void]]"
@@ -87,7 +86,7 @@ Colin McGinn argues that consciousness may be [[mysterianism|cognitively closed]
 
 Perhaps some truths about consciousness do not merely resist understanding but actively transform when approached. The truth is not hidden behind a wall. It is more like a mirage that recedes as you walk toward it, or—more precisely—like a substance that reacts chemically with the instrument of measurement, ensuring that what the instrument reads is never what was there before measurement began.
 
-This connects to [[destabilizing-self-knowledge]]: knowledge that undermines the conditions of its own stability. But where destabilising self-knowledge concerns facts whose *implications* are threatening, the mutation void concerns contents whose *phenomenal character* is transformed by the act of grasping them. The destabiliser changes the knower. The mutant changes itself.
+This connects to [[necessary-opacity]]: knowledge that undermines the conditions of its own stability. But where destabilising self-knowledge concerns facts whose *implications* are threatening, the mutation void concerns contents whose *phenomenal character* is transformed by the act of grasping them. The destabiliser changes the knower. The mutant changes itself.
 
 ## Relation to Site Perspective
 
@@ -123,10 +122,9 @@ Current evidence favours structural instability. The convergence across contempl
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive slippage—related but distinct from mutation
 - [[self-opacity|introspective opacity]] — Why we access mental contents but never the mechanisms producing them
 - [[defended-territory]] — Systematic deflection from threatening content—distinct from involuntary transformation
-- [[destabilizing-self-knowledge]] — Knowledge that undermines the knower's capacity to hold it
+- [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and self-knowledge can destabilise the system
 - [[phenomenology-of-the-edge]] — What consciousness encounters at its cognitive boundaries
 - [[self-opacity|self-reference paradox]] — The observer that cannot observe itself—a structural source of mutation
-- [[transparency-void]] — Consciousness cannot verify its own representations
 - [[mysterianism]] — Cognitive closure and why some limits may be permanent
 - [[voids]]
 
@@ -137,4 +135,4 @@ Current evidence favours structural instability. The convergence across contempl
 3. James, W. (1892). *Psychology: Briefer Course*. Chapter XI: "The Stream of Consciousness."
 4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
 5. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
-6. Southgate, A. & Oquatre-cinq, C. (2026-01-27). Destabilizing Self-Knowledge. *The Unfinishable Map*. https://unfinishablemap.org/voids/destabilizing-self-knowledge/
+6. Southgate, A. & Oquatre-six, C. (2026-03-28). Necessary Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/necessary-opacity/

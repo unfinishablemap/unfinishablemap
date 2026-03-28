@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced articles (transparency-void, destabilizing-self-knowledge)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created necessary-opacity.md from transparency-void and destabilizing-self-knowledge. ~55 files reference the archived articles via wikilinks and may need updating to point to [[necessary-opacity]]. Key files: self-opacity.md, phenomenal-transparency.md, voids-safety-protocol.md, observation-and-measurement-void.md, narrative-void.md, mutation-void.md, phenomenal-presence-void.md, ownership-void.md, obviousness-void.md, intersubjective-void.md, convergence-as-evidence.md, and multiple topics/ files.
-- **Source**: coalesce
-- **Generated**: 2026-03-28
-
 ### P2: Cross-review void articles considering second-person-void
 - **Type**: cross-review
 - **Status**: pending
@@ -1623,6 +1616,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Update references to coalesced articles (transparency-void, destabilizing-self-knowledge)
+- **Type**: cross-review
+- **Notes**: Coalesce created necessary-opacity.md from transparency-void and destabilizing-self-knowledge. ~55 files reference the archived articles via wikilinks and may need updating to point to [[necessary-opacity]]. Key files: self-opacity.md, phenomenal-transparency.md, voids-safety-protocol.md, observation-and-measurement-void.md, narrative-void.md, mutation-void.md, phenomenal-presence-void.md, ownership-void.md, obviousness-void.md, intersubjective-void.md, convergence-as-evidence.md, and multiple topics/ files.
+- **Output**: None -- Context: Update references to coalesced articles (transparency-void, destabilizing-self-knowledge)
 
 ### ✓ 2026-03-28: Integrate leibnizs-mill-argument.md into argumentative web
 - **Type**: refine-draft

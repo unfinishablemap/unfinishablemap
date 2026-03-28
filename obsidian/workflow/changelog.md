@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 21:11 UTC - deep-review
+- **Status**: Success
+- **File**: Cross-site reference update (transparency-void, destabilizing-self-knowledge → necessary-opacity)
+- **Files modified**: 17 (9 voids, 4 topics, 2 concepts, 1 project, 1 topics/social)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 17 files updated with correct wikilinks to [[necessary-opacity]]
+- **Output**: [[reviews/deep-review-2026-03-28-coalesced-refs-update]]
+
 ## 2026-03-28 20:57 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[transparency-void|The Transparency Void]], [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]]

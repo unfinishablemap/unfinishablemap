@@ -4,7 +4,7 @@ description: "Emotional consciousness provides the strongest empirical case for 
 created: 2026-01-19
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-25T09:43:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[valence-void]]"
   - "[[emotional-epistemology-void]]"
   - "[[affective-void]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[self-opacity]]"
 ai_contribution: 100
 author:
@@ -165,7 +165,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [[emotional-epistemology-void]] — Whether emotions constitute genuine knowledge about reality
 - [[affective-void]] — Emotions beyond human phenomenological reach
 - [[self-opacity|introspective opacity]] — The broader phenomenon of hidden cognitive processes
-- [[destabilizing-self-knowledge]] — Knowledge that dissolves the capacity to hold it
+- [[necessary-opacity]] — Knowledge that dissolves the capacity to hold it, and the structural opacity this requires
 - [[minimal-consciousness]] — Boundary cases testing where valenced experience begins
 - [[self-and-self-consciousness]] — How selfhood relates to phenomenal experience
 - [[higher-order-theories]] — Theories that consciousness requires higher-order representation

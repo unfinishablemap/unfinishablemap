@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-28T02:27:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[self-opacity]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[inaccessible-past]]"
   - "[[cognitive-integration-and-the-self]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"

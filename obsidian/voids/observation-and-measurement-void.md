@@ -4,7 +4,7 @@ description: "Every route to investigating consciousness fails: observation tran
 created: 2026-02-24
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-03-28T07:13:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[mutation-void]]"
   - "[[three-kinds-of-void]]"
   - "[[whether-real]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[substrate-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[intersubjective-void]]"
@@ -128,7 +128,7 @@ Approaching this void produces distinctive experiential signatures.
 
 **Dissolving ground.** Contemplating Schwitzgebel's examples seriously—Am I really experiencing peripheral vision in colour right now?—produces not the sensation of hitting a wall but of the floor becoming unreliable. A loss of footing rather than a confrontation with an obstacle.
 
-**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral connected to [[destabilizing-self-knowledge|destabilising self-knowledge]] and the [[self-opacity|self-reference paradox]].
+**Recursive vertigo.** Attempting to introspect about the reliability of introspection generates a self-referential spiral connected to [[necessary-opacity|necessary opacity]] and the [[self-opacity|self-reference paradox]].
 
 **Pragmatic forgetting.** The practical impossibility of sustaining radical doubt about introspection means we routinely fall back into naïve trust. The void cannot be inhabited—only glimpsed before the mind reasserts its default confidence.
 
@@ -158,7 +158,7 @@ The [[constitutive-exclusion]] develops a further insight: consciousness does no
 - [[substrate-void]] — What consciousness is made of, when every answer collapses
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[intrinsic-nature-void]] — What matter is in itself, beneath relational properties
-- [[destabilizing-self-knowledge]] — Knowledge that undermines its own conditions
+- [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[consciousness-and-the-problem-of-measurement-standards]] — The formal triad that physical measurement requires and consciousness lacks
 

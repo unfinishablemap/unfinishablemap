@@ -4,7 +4,7 @@ description: "Self-awareness is not an added layer on consciousness but a transf
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T22:26:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 last_deep_review: 2026-03-25T22:26:00+00:00
 draft: false
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[phenomenology-of-recursive-thought]]"
   - "[[consciousness-and-the-ownership-problem]]"
   - "[[epistemology-of-first-person-evidence]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -115,7 +115,7 @@ At advanced levels, practitioners report that self-awareness persists even when 
 - [[self-opacity]] — What consciousness cannot know about itself — the limits self-awareness encounters
 - [[phenomenology-of-recursive-thought]] — What happens when thought takes itself as object at deeper levels of recursion
 - [[epistemology-of-first-person-evidence]] — Whether first-person reports of self-awareness can serve as evidence
-- [[destabilizing-self-knowledge]] — When self-knowledge undermines the capacity to hold it
+- [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and self-knowledge can destabilise the system
 - [[witness-consciousness]] — The contemplative mode of self-awareness at its most refined
 
 ## References

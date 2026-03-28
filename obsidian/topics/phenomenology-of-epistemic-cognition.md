@@ -4,7 +4,7 @@ description: "Weighing evidence, changing beliefs, and arriving at knowledge all
 created: 2026-02-01
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[questioning-as-evidence]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[counterfactual-reasoning]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[argument-from-reason]]"

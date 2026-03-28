@@ -4,7 +4,7 @@ description: "Whether experiences can be genuinely shared or are coordinated pri
 created: 2026-02-02
 modified: 2026-03-22
 human_modified: null
-ai_modified: 2026-03-26T04:31:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 last_deep_review: 2026-03-15T13:09:00+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[framework-void]]"
   - "[[self-opacity]]"
   - "[[language-thought-boundary]]"
-  - "[[transparency-void]]"
+  - "[[necessary-opacity]]"
   - "[[consciousness-and-testimony]]"
   - "[[consciousness-and-intersubjectivity]]"
   - "[[consciousness-defeats-explanation]]"
@@ -150,7 +150,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [[framework-void]] — How conceptual frameworks exclude what they cannot represent
 - [[self-opacity|introspective opacity]] — Why we access contents but never mechanisms
 - [[language-thought-boundary]] — What cannot be said
-- [[transparency-void]] — Why consciousness cannot verify its own accuracy
+- [[necessary-opacity]] — Why consciousness cannot verify its own accuracy
 - [[consciousness-and-testimony]] — Testimony requires consciousness yet cannot fully convey it
 - [[consciousness-and-intersubjectivity]] — Whether consciousness is constitutively shaped by encounter with other minds
 - [[consciousness-defeats-explanation]] — Why explanation presupposes the phenomenal understanding that social epistemology cannot validate

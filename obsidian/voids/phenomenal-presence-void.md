@@ -4,7 +4,7 @@ description: "Experience arrives stamped with immediacy and realness—given as 
 created: 2026-02-24
 modified: 2026-03-20
 human_modified: null
-ai_modified: 2026-03-20T02:26:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,10 +18,9 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[transparency-void]]"
+  - "[[necessary-opacity]]"
   - "[[self-opacity]]"
   - "[[whether-real]]"
-  - "[[destabilizing-self-knowledge]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
   - "[[three-kinds-of-void]]"
@@ -43,7 +42,7 @@ coalesced_from:
 
 Every conscious experience arrives with two qualities so pervasive they normally escape notice. The first is *givenness*—an immediate, pre-reflective thereness that presents the world as simply *there*. You open your eyes and colour is given. You feel pain and it is given. The second is a *reality-feeling*—a felt conviction that this is genuinely happening, genuinely present. These are two facets of a single phenomenon: **phenomenal presence**, the way consciousness constitutes experience as real-and-immediate prior to any reflective judgment. The mechanisms producing phenomenal presence are structurally invisible. Any attempt to investigate how experience acquires its given, real character must itself operate within that same givenness and reality-feeling, using phenomenal presence as its instrument. This constitutes one of the deepest [[voids]]—a gap at the foundation of conscious life where the processes generating the felt texture of reality operate entirely in the dark.
 
-This void sits deeper than the [[transparency-void]], which asks whether consciousness distorts what it represents. The phenomenal presence void asks something more fundamental: why experience presents itself as immediate and real at all—why there is a mode of presentation that stamps everything with thereness and conviction.
+This void sits deeper than [[necessary-opacity|the necessary opacity]], which asks whether consciousness distorts what it represents. The phenomenal presence void asks something more fundamental: why experience presents itself as immediate and real at all—why there is a mode of presentation that stamps everything with thereness and conviction.
 
 ## Two Facets of One Phenomenon
 
@@ -151,13 +150,12 @@ The unexplorable dimension is more speculative. If the phenomenal presence mecha
 
 ## Further Reading
 
-- [[transparency-void]] — Whether consciousness distorts what it represents
+- [[necessary-opacity]] — Whether consciousness distorts what it represents, and why this opacity may be structural
 - [[self-opacity|introspective opacity]] — Why we cannot observe our own cognitive processes
 - [[intrinsic-nature-void]] — Why physics cannot reach what matter is in itself
 - [[pre-conceptual-knowing]] — What lies before conceptual articulation
 - [[consciousness-only-territories]] — What only consciousness can access
 - [[whether-real]] — Whether cognitive limits are permanent or current ignorance
-- [[destabilizing-self-knowledge]] — Knowledge that undermines the knower's stability
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[limits-reveal-structure]] — How cognitive boundaries illuminate architecture
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own contribution

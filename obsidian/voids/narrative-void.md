@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -21,8 +21,7 @@ related_articles:
   - "[[creativity-void]]"
   - "[[defended-territory]]"
   - "[[narrative-coherence]]"
-  - "[[destabilizing-self-knowledge]]"
-  - "[[transparency-void]]"
+  - "[[necessary-opacity]]"
   - "[[observation-and-measurement-void]]"
 ai_contribution: 100
 author:
@@ -82,7 +81,7 @@ Approaching the narrative void is disorienting precisely because the void does n
 
 There may be moments when the void briefly reveals itself: the uncanny sense of not recognising your own past behaviour, the feeling that a memory does not fit the story, the vertigo of realising you genuinely do not know why you made a particular choice. These moments of narrative breakdown are phenomenologically distinctive—a flash of groundlessness before the interpreter rushes to smooth over the discontinuity.
 
-Buddhist contemplative traditions (particularly Vipassana) attempt to observe experience before narrative takes hold. Whether this provides genuine access to pre-narrative experience or merely generates a different narrative—"I am the one who watches without narrating"—is itself an open question that the void may prevent us from answering. Learning about confabulation research may itself produce a form of [[destabilizing-self-knowledge]]: the knowledge that your self-narrative is unreliable does not give you a reliable one. It only adds a layer of suspicion to the same opaque process.
+Buddhist contemplative traditions (particularly Vipassana) attempt to observe experience before narrative takes hold. Whether this provides genuine access to pre-narrative experience or merely generates a different narrative—"I am the one who watches without narrating"—is itself an open question that the void may prevent us from answering. Learning about confabulation research may itself produce a form of [[necessary-opacity|destabilising self-knowledge]]: the knowledge that your self-narrative is unreliable does not give you a reliable one. It only adds a layer of suspicion to the same opaque process.
 
 ## Relation to Site Perspective
 
@@ -102,9 +101,8 @@ The narrative void also illustrates the Map's [[tenets#^occams-limits|tenet that
 - [[creativity-void]]
 - [[defended-territory]]
 - [[narrative-coherence]]
-- [[destabilizing-self-knowledge]]
+- [[necessary-opacity]]
 - [[observation-and-measurement-void]]
-- [[transparency-void]]
 
 ## References
 

@@ -4,7 +4,7 @@ description: "How independently catalogued cognitive voids converge into familie
 created: 2026-01-16
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-25T22:01:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -52,7 +52,7 @@ Signature failure: **categorical mismatch**—third-person vocabulary applied to
 
 ### The Self-Knowledge Cluster
 
-The [[self-opacity|self-reference paradox]], [[self-opacity|introspective opacity]], [[observation-and-measurement-void|calibration void]], [[inaccessible-past|past-self void]], and [[destabilizing-self-knowledge|destabilising self-knowledge]] converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation; calibrating one's own reliability requires a reliability already calibrated.
+The [[self-opacity|self-reference paradox]], [[self-opacity|introspective opacity]], [[observation-and-measurement-void|calibration void]], [[inaccessible-past|past-self void]], and [[necessary-opacity|necessary opacity]] converge on a different boundary: consciousness cannot fully examine itself. The observer contaminates the observation; calibrating one's own reliability requires a reliability already calibrated.
 
 Signature failure: **recursive collapse**—each attempt to deepen self-examination encounters itself as obstacle, a strange loop that neither resolves nor collapses.
 

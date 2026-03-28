@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-26T14:03:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[narrative-void]]"
   - "[[limits-reveal-structure]]"
   - "[[observation-and-measurement-void]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[constitutive-exclusion]]"
   - "[[causal-interface]]"
   - "[[creativity-void]]"
@@ -147,7 +147,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[observation-and-measurement-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — How cognitive limits are preconditions for meaning
-- [[destabilizing-self-knowledge|Destabilizing Self-Knowledge]] — When grasping truths about consciousness would undermine the capacity to hold them
+- [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
 - [[narrative-void|The Narrative Void]] — How consciousness constructs self-stories it cannot audit
 - [[causal-interface|The Causal Interface Void]] — How consciousness interfaces with the physical
 - [[topics/free-will|Free Will]] — The broader context for questions of agency

@@ -4,7 +4,7 @@ description: "What does it feel like when the categories through which you under
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-03-28T21:11:00+00:00
 last_deep_review: 2026-03-19T14:15:00+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[biological-cognitive-closure]]"
   - "[[self-opacity]]"
-  - "[[destabilizing-self-knowledge]]"
+  - "[[necessary-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[consciousness-as-perceptual-architect]]"
 ai_contribution: 100
@@ -130,7 +130,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 - [[temporal-structure-of-understanding]]
 - [[biological-cognitive-closure]]
 - [[self-opacity|phenomenology of self-awareness]]
-- [[destabilizing-self-knowledge]]
+- [[necessary-opacity]]
 - [[phenomenology-of-the-edge]]
 - [[phenomenology-of-creative-insight]]
 - [[consciousness-as-perceptual-architect]] — The perceptual parallel: how perception itself transforms through learning and constancy
