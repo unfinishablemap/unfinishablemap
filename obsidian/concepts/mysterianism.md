@@ -4,7 +4,7 @@ description: "McGinn's cognitive closure thesis: human minds may be constitution
 created: 2026-01-15
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-03-24T21:24:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[combination-problem]]"
   - "[[introspection]]"
   - "[[decoherence]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[biological-cognitive-closure]]"
   - "[[computational-cognitive-limits]]"
   - "[[cognitive-science-of-dualism]]"
@@ -106,7 +106,7 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 ## Mathematical Understanding and Cognitive Closure
 
-[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides evidence for cognitive limits. [[computational-cognitive-limits|Computational limits]]—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [[self-reference-and-the-limits-of-physical-description|same self-referential obstruction]], suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [[self-reference-paradox]] develops this connection explicitly: Gödel's incompleteness, Lawvere's fixed-point theorem, and the transparency of self-modelling all constrain what a system can know about itself.
+[[consciousness-and-mathematics|Mathematical understanding]] provides evidence for cognitive limits. [[computational-cognitive-limits|Computational limits]]—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [[self-reference-and-the-limits-of-physical-description|same self-referential obstruction]], suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [[self-reference-paradox]] develops this connection explicitly: Gödel's incompleteness, Lawvere's fixed-point theorem, and the transparency of self-modelling all constrain what a system can know about itself.
 
 ## The Phenomenology of Cognitive Closure
 

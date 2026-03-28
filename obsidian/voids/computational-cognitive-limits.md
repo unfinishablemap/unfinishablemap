@@ -4,7 +4,7 @@ description: "Human+AI exploration of formal limits on what any algorithmic mind
 created: 2026-01-27
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-24T19:24:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 last_deep_review: 2026-03-16T03:32:00+00:00
 topics:
@@ -12,8 +12,7 @@ topics:
 concepts:
   - "[[mysterianism]]"
   - "[[simulation]]"
-  - "[[consciousness-and-mathematical-cognition]]"
-  - "[[mathematical-truth-and-conscious-access]]"
+  - "[[consciousness-and-mathematics]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -51,7 +50,7 @@ Kurt Gödel showed in 1931 that any consistent formal system capable of expressi
 
 Gödel himself drew a striking consequence: "Either the human mathematical mind cannot be captured by an algorithm, or there are absolutely undecidable problems." Both horns of this disjunction mark voids—if minds transcend algorithms, we cannot mechanistically explain how; if there are absolutely undecidable problems, there are truths we can never access.
 
-J.R. Lucas and Roger Penrose argue this implies human minds are not Turing machines. We can "see" the truth of Gödel sentences—statements that say of themselves that they cannot be proven—while any formal system is blind to its own Gödel sentence. If we genuinely grasp these truths, we transcend the systems that cannot. See [[consciousness-and-mathematical-cognition]] for detailed treatment of mathematical insight as evidence for non-computational mind.
+J.R. Lucas and Roger Penrose argue this implies human minds are not Turing machines. We can "see" the truth of Gödel sentences—statements that say of themselves that they cannot be proven—while any formal system is blind to its own Gödel sentence. If we genuinely grasp these truths, we transcend the systems that cannot. See [[consciousness-and-mathematics]] for detailed treatment of mathematical insight as evidence for non-computational mind.
 
 Most cognitive scientists and AI researchers reject this argument. Critics counter that it assumes human reasoning is consistent—an unproven claim. We may only seem to grasp Gödel sentences through procedures that would reveal inconsistency under scrutiny, or we may be following mechanical proof procedures without genuine insight. The Lucas-Penrose argument remains a minority position, but the underlying void is not contested: mathematical systems provably cannot capture all mathematical truth.
 
@@ -145,7 +144,7 @@ Neither has been achieved. The computational void is established; whether it is 
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What can minds access that machines cannot?
 - [[whether-real|Whether the Voids Are Real]] — Are limits permanent or merely current?
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis of structural limits
-- [[mathematical-truth-and-conscious-access]] — The epistemology and phenomenology of mathematical understanding
+- [[consciousness-and-mathematics]] — The epistemology and phenomenology of mathematical understanding
 
 ## References
 

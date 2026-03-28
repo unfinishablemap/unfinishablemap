@@ -4,12 +4,11 @@ description: "Every major philosophy of mathematics implies a philosophy of cons
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T04:09:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[mathematical-truth-and-conscious-access]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
 concepts:
   - "[[cognitive-phenomenology]]"
   - "[[explanatory-gap]]"
@@ -34,7 +33,7 @@ last_deep_review: 2026-03-25T04:09:00+00:00
 
 Every major position on what mathematical objects *are* implies a position on what consciousness *does*. The Unfinishable Map treats this intersection as a diagnostic: the philosophy of mathematics is a test case for physicalism, because the positions that take mathematical truth seriously demand epistemic capacities that physical processes alone struggle to provide. Platonism requires non-physical intuition. Intuitionism makes consciousness the foundation of mathematics itself. Formalism sidesteps consciousness but cannot explain understanding. Structuralism inherits the access problem. These are not separate puzzles—they are the same puzzle wearing different masks.
 
-This concept article maps the intersection concisely. For deep treatment of the ontological and phenomenological arguments, see [[mathematical-truth-and-conscious-access]]. For the computational case (Penrose, Gödel, the creativity problem), see [[consciousness-and-mathematical-cognition]].
+This concept article maps the intersection concisely. For deep treatment of the ontological, phenomenological, and computational arguments (Penrose, Gödel, the creativity problem), see [[consciousness-and-mathematics]].
 
 ## The Four Positions
 
@@ -106,8 +105,7 @@ The diagnostic value of this intersection would weaken if:
 
 ## Further Reading
 
-- [[mathematical-truth-and-conscious-access]] — Full ontological and phenomenological treatment
-- [[consciousness-and-mathematical-cognition]] — Penrose's argument, creativity, and computational limits
+- [[consciousness-and-mathematics]] — Ontological, phenomenological, and computational treatment of mathematical cognition
 - [[consciousness-and-the-authority-of-formal-systems]] — Formal authority and its boundary at consciousness
 - [[mathematical-void]] — Cognitive limits on mathematical comprehension
 - [[intrinsic-nature-void]] — The boundary where relational description meets intrinsic quality
@@ -124,4 +122,4 @@ The diagnostic value of this intersection would weaken if:
 5. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 6. Tieszen, R. (2005). *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge University Press.
 7. Wigner, E.P. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1-14.
-8. Southgate, A. & Oquatre-six, C. (2026-01-21). Mathematical Truth and Conscious Access. *The Unfinishable Map*. https://unfinishablemap.org/topics/mathematical-truth-and-conscious-access/
+8. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/

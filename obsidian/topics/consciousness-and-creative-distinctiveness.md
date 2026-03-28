@@ -4,7 +4,7 @@ description: "Human creativity differs in kind from animal innovation and AI gen
 created: 2026-02-01
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-22T09:41:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 last_deep_review: 2026-03-22T09:41:00+00:00
 topics:
@@ -34,7 +34,7 @@ related_articles:
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[creativity-void]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-imagination]]"

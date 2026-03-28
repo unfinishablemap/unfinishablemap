@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[decoherence]]"
   - "[[self-opacity]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[cognitive-phenomenology]]"
   - "[[pre-conceptual-knowing]]"
   - "[[causal-interface]]"
@@ -126,11 +126,11 @@ Introspective judgments converge on the anterior prefrontal cortex (aPFC). Trans
 
 ## Mathematical Understanding: A Test Case
 
-[[consciousness-and-mathematical-cognition|Mathematical understanding]] provides a test case where introspection can be externally validated. Mathematicians distinguish verification (checking steps) from understanding (grasping *why* the proof works) from insight (the sudden solution). These stages have different phenomenal character that trained reasoners reliably identify.
+[[consciousness-and-mathematics|Mathematical understanding]] provides a test case where introspection can be externally validated. Mathematicians distinguish verification (checking steps) from understanding (grasping *why* the proof works) from insight (the sudden solution). These stages have different phenomenal character that trained reasoners reliably identify.
 
 Unlike many introspective reports, mathematical understanding couples to performance. Those who report genuine insight can extend proofs, detect errors, and apply understanding to novel cases. This coupling provides the external check the calibration problem demands.
 
-The mathematical case sharpens the illusionist regress: when illusionists grasp why eliminativism follows from their premises, that grasp is either genuinely phenomenal (undermining their position) or it isn't (undermining their confidence). See [[consciousness-and-mathematical-cognition]] for extended treatment.
+The mathematical case sharpens the illusionist regress: when illusionists grasp why eliminativism follows from their premises, that grasp is either genuinely phenomenal (undermining their position) or it isn't (undermining their confidence). See [[consciousness-and-mathematics]] for extended treatment.
 
 ## The Unobservable Self: Introspection's Deepest Limit
 
@@ -169,7 +169,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[consciousness-and-language-interface]] — How linguistic mediation shapes what introspection can access
 - [[self-opacity|self-reference paradox]] — The structural impossibility of observing the observer
 - [[causal-interface]] — The void where process access fails most dramatically
-- [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigmatic introspective content
+- [[consciousness-and-mathematics]] — Mathematical insight as paradigmatic introspective content
 - [[phenomenology]] — The tradition most committed to first-person investigation
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integrating trained observation with neuroscience
 - [[qualia]] — The phenomenal properties introspection accesses

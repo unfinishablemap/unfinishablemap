@@ -4,7 +4,7 @@ description: "Penrose argues spacetime instability causes quantum collapse—a t
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-25T16:30:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 last_deep_review: 2026-03-24T04:33:00+00:00
 draft: false
 topics:
@@ -106,7 +106,7 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [[philosophical-stakes-of-spontaneous-collapse]]
 - [[prebiotic-collapse]]
 - [[comparing-quantum-consciousness-mechanisms]] — head-to-head evaluation of Orch OR, Stapp, Fisher, and CSL-IIT against shared criteria
-- [[consciousness-and-mathematical-cognition]] — Penrose's Gödelian argument for non-computable consciousness
+- [[consciousness-and-mathematics]] — Penrose's Gödelian argument for non-computable consciousness
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[qm-interpretations-beyond-many-worlds]]
 - [[what-consciousness-tells-us-about-physics]]

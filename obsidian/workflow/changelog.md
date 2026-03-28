@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26T17:22:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-28 01:09 UTC - refine-draft
+- **Status**: Success
+- **Files**: 18 files updated (wikilinks from archived articles → [[consciousness-and-mathematics]])
+- **Changes**: Updated [[consciousness-and-mathematical-cognition]] in 15 files, [[mathematical-truth-and-conscious-access]] in 9 files; merged duplicate entries in 6 files that had both links; updated 2 bibliographic references; updated piped link display text
+- **Published**: yes
 
 ## 2026-03-28 00:53 UTC - coalesce
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-24T19:24:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ concepts:
   - "[[phenomenal-normativity]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
@@ -43,7 +43,6 @@ related_articles:
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[phenomenal-binding-and-holism]]"
-  - "[[mathematical-truth-and-conscious-access]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[phenomenal-normativity]]"
   - "[[phenomenology-of-musical-understanding]]"
@@ -222,8 +221,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [[cognitive-phenomenology]] — The broader debate about whether thinking has phenomenal character
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[temporal-structure-of-understanding]] — The temporal unfolding of comprehension
-- [[consciousness-and-mathematical-cognition]] — Mathematical insight as paradigm case
-- [[mathematical-truth-and-conscious-access]] — The epistemology and felt character of mathematical understanding
+- [[consciousness-and-mathematics]] — Mathematical insight as paradigm case of understanding
 - [[epistemic-emotions]] — Feelings directed at knowledge itself
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical relationships carry normative force
 - [[phenomenology-of-intellectual-effort]] — The experience of reasoning as work

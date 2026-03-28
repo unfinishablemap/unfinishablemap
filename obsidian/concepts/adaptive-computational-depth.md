@@ -4,7 +4,7 @@ description: "Adaptive computational depth—the idea that reality allocates det
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-01T08:02:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ The adaptive-computational-depth framework would face serious difficulty if:
 - [[prebiotic-collapse]]
 - [[the-participatory-universe]]
 - [[consciousness-and-the-physics-of-information]]
-- [[consciousness-and-mathematical-cognition]]
+- [[consciousness-and-mathematics]]
 - [[computational-cognitive-limits]]
 - [[qbism]]
 

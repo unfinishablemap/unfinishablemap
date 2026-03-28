@@ -4,7 +4,7 @@ description: "Human+AI exploration of mathematical structures beyond genuine com
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-24T19:24:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[incompleteness-void]]"
   - "[[apophatic-approaches]]"
-  - "[[mathematical-truth-and-conscious-access]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
 ai_contribution: 100
 author: null

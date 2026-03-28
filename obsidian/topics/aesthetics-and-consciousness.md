@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-24T19:24:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 last_deep_review: 2026-03-11T21:35:00+00:00
 topics:
@@ -56,11 +56,10 @@ related_articles:
   - "[[the-binding-problem-a-systematic-treatment]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[consciousness-and-creative-distinctiveness]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[creativity-void]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[mathematical-truth-and-conscious-access]]"
   - "[[phenomenology-of-creative-insight]]"
   - "[[resonance-void]]"
 ai_contribution: 100
@@ -156,7 +155,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [[phenomenology-of-moral-life]] — Parallel analysis for moral value
 - [[the-binding-problem-a-systematic-treatment]] — The five standard varieties of phenomenal binding
 - [[consciousness-and-creative-distinctiveness]] — Why human creativity differs in kind from AI and animal creativity
-- [[consciousness-and-mathematical-cognition]] — Mathematical creativity as the sharpest case for consciousness as causal force
+- [[consciousness-and-mathematics]] — Mathematical creativity as the sharpest case for consciousness as causal force
 - [[phenomenology-of-musical-understanding]] — Temporal depth in musical aesthetic experience
 - [[knowledge-argument]] — Mary's Room and what physical information leaves out
 - [[philosophical-zombies]] — Conceivability arguments for dualism

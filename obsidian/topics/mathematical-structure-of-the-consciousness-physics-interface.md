@@ -4,7 +4,7 @@ description: "Quantum mechanics' mathematical form—Hilbert space, the Born rul
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-25T05:57:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,8 +26,7 @@ related_articles:
   - "[[consciousness-in-smeared-quantum-states]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[mathematical-structure-consciousness-physics-interface-2026-03-14]]"
-  - "[[mathematical-truth-and-conscious-access]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -114,7 +113,7 @@ This gap is arguably the mathematical expression of the [[the-interface-specific
 
 Whether this gap reflects scientific immaturity or a fundamental limit of mathematical description is itself an open question. Russell's insight remains pertinent: "physics is mathematical not because we know so much about the physical world, but because we know so little: it is only its mathematical properties that we can discover." The [[intrinsic-nature-void]] develops this boundary: mathematics maps relational structure with extraordinary precision while remaining silent about what the relata *are*—and consciousness is where intrinsic nature is given directly. If the consciousness-physics interface involves something that mathematics can only partially capture, the specification gap may narrow without ever fully closing.
 
-The [[consciousness-and-the-philosophy-of-mathematics|philosophy of mathematics]] converges on this point from the other direction: every major mathematical ontology (Platonism, intuitionism, formalism, structuralism) implies a position on what consciousness does, and the positions that take mathematical truth seriously demand epistemic capacities that physical processes alone struggle to provide. The [[mathematical-truth-and-conscious-access|phenomenology of mathematical knowledge]]—felt necessity, aesthetic conviction, the gap between verification and understanding—may be evidence that consciousness already operates at the kind of interface the frameworks above try to formalise. If mathematical insight involves a non-physical faculty grasping abstract structure, the coupling between experience space and physical state space is not merely a theoretical desideratum but something consciousness already instantiates in mathematical cognition.
+The [[consciousness-and-the-philosophy-of-mathematics|philosophy of mathematics]] converges on this point from the other direction: every major mathematical ontology (Platonism, intuitionism, formalism, structuralism) implies a position on what consciousness does, and the positions that take mathematical truth seriously demand epistemic capacities that physical processes alone struggle to provide. The [[consciousness-and-mathematics|phenomenology of mathematical knowledge]]—felt necessity, aesthetic conviction, the gap between verification and understanding—may be evidence that consciousness already operates at the kind of interface the frameworks above try to formalise. If mathematical insight involves a non-physical faculty grasping abstract structure, the coupling between experience space and physical state space is not merely a theoretical desideratum but something consciousness already instantiates in mathematical cognition.
 
 ## Relation to Site Perspective
 
@@ -140,8 +139,7 @@ The mathematical structure of the consciousness-physics interface connects direc
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference from mind to matter
 - [[consciousness-in-smeared-quantum-states]] — What happens to consciousness in unresolved quantum superpositions
 - [[consciousness-and-the-philosophy-of-mathematics]] — How every major mathematical ontology implies a position on consciousness
-- [[mathematical-truth-and-conscious-access]] — The phenomenology and epistemology of mathematical knowledge as evidence for non-physical cognition
-- [[consciousness-and-mathematical-cognition]] — Penrose's argument, mathematical creativity, and the computational limits of formal systems
+- [[consciousness-and-mathematics]] — Mathematical knowledge, Penrose's argument, and the computational limits of formal systems
 - [[intrinsic-nature-void]] — Why relational description cannot capture intrinsic nature
 
 ## References

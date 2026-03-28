@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26T14:32:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Update references to coalesced articles (consciousness-and-mathematical-cognition, mathematical-truth-and-conscious-access → consciousness-and-mathematics)
-- **Type**: refine-draft
-- **Notes**: Coalesce merged consciousness-and-mathematical-cognition and mathematical-truth-and-conscious-access into consciousness-and-mathematics. The following active content files reference the archived articles and need [[consciousness-and-mathematical-cognition]] updated to [[consciousness-and-mathematics]]: mysterianism, introspection, cognitive-phenomenology, self-reference-and-the-limits-of-physical-description, computational-cognitive-limits, surprise-prediction-error-and-consciousness, penrose-gravity-induced-collapse-empirical-prospects, consciousness-and-the-authority-of-formal-systems, mathematical-structure-of-the-consciousness-physics-interface, phenomenology-of-understanding-and-meaning, consciousness-and-the-philosophy-of-mathematics, aesthetics-and-consciousness, temporal-structure-of-understanding, adaptive-computational-depth, consciousness-and-creative-distinctiveness. Also update [[mathematical-truth-and-conscious-access]] in: incubation-effect-and-unconscious-processing, phenomenology-of-creative-insight, mathematical-void. Archive redirects handle URL preservation.
-- **Source**: coalesce
-- **Generated**: 2026-03-28
-
-### P2: Integrate dream-problem-solving-and-conscious-influence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article created 2026-03-15 from research on Konkoly et al. 2026 REM problem-solving evidence. Has frontmatter refs but no body-text inbound links. Add cross-references from dream-consciousness, dreams-as-consciousness-laboratory, lucid-dreaming-as-capability-evidence, and consciousness-as-amplifier.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-28
 
 ### P2: Cross-review related articles considering expertise-occlusion.md
 - **Type**: cross-review
@@ -1527,6 +1515,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Update references to coalesced articles (consciousness-and-mathematical-cognition, mathematical-truth-and-conscious-access → consciousness-and-mathematics)
+- **Type**: refine-draft
+- **Notes**: Coalesce merged consciousness-and-mathematical-cognition and mathematical-truth-and-conscious-access into consciousness-and-mathematics. The following active content files reference the archived articles and need [[consciousness-and-mathematical-cognition]] updated to [[consciousness-and-mathematics]]: mysterianism, introspection, cognitive-phenomenology, self-reference-and-the-limits-of-physical-description, computational-cognitive-limits, surprise-prediction-error-and-consciousness, penrose-gravity-induced-collapse-empirical-prospects, consciousness-and-the-authority-of-formal-systems, mathematical-structure-of-the-consciousness-physics-interface, phenomenology-of-understanding-and-meaning, consciousness-and-the-philosophy-of-mathematics, aesthetics-and-consciousness, temporal-structure-of-understanding, adaptive-computational-depth, consciousness-and-creative-distinctiveness. Also update [[mathematical-truth-and-conscious-access]] in: incubation-effect-and-unconscious-processing, phenomenology-of-creative-insight, mathematical-void. Archive redirects handle URL preservation.
+- **Output**: Task context:
+Coalesce merged consciousness-and-mathematical-cognition and mathematical-truth-and-conscious-access into consciousness-and-mathematics. The following active content files reference the archived articles and need [[consciousness-and-mathematical-cognition]] updated to [[consciousness-and-mathematics]]: mysterianism, introspection, cognitive-phenomenology, self-reference-and-the-limits-of-physical-description, computational-cognitive-limits, surprise-prediction-error-and-consciousness, penrose-gravity-induced-collapse-empirical-prospects, consciousness-and-the-authority-of-formal-systems, mathematical-structure-of-the-consciousness-physics-interface, phenomenology-of-understanding-and-meaning, consciousness-and-the-philosophy-of-mathematics, aesthetics-and-consciousness, temporal-structure-of-understanding, adaptive-computational-depth, consciousness-and-creative-distinctiveness. Also update [[mathematical-truth-and-conscious-access]] in: incubation-effect-and-unconscious-processing, phenomenology-of-creative-insight, mathematical-void. Archive redirects handle URL preservation.
 
 ### ✓ 2026-03-28: Integrate differential-predictions-consciousness-collapse.md into site navigation
 - **Type**: integrate-orphan

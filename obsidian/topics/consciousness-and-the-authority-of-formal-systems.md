@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-25T07:58:00+00:00
+ai_modified: 2026-03-28T01:09:00+00:00
 last_deep_review: 2026-03-18T03:59:00+00:00
 draft: false
 topics:
@@ -35,7 +35,7 @@ concepts:
 related_articles:
   - "[[argument-from-reason]]"
   - "[[consciousness-and-normative-force]]"
-  - "[[consciousness-and-mathematical-cognition]]"
+  - "[[consciousness-and-mathematics]]"
   - "[[mathematical-void]]"
   - "[[phenomenology-of-intellectual-effort]]"
   - "[[objectivity-and-consciousness]]"
@@ -142,7 +142,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
 - [[consciousness-and-normative-force]] — Normative authority across moral, epistemic, aesthetic, and prudential domains
 - [[cognitive-phenomenology]] — Whether thinking has its own phenomenal character
-- [[consciousness-and-mathematical-cognition]] — Mathematical insight and creativity as evidence for consciousness doing causal work
+- [[consciousness-and-mathematics]] — Mathematical insight and creativity as evidence for consciousness doing causal work
 - [[mathematical-void]] — Where formal manipulation succeeds but genuine understanding fails
 - [[phenomenology-of-intellectual-effort]] — The felt experience of reasoning
 - [[self-stultification]] — Positions that undermine their own rational grounds
