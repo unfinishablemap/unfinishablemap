@@ -5,6 +5,14 @@ ai_modified: 2026-03-28T06:12:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 07:32 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 453 (227 topics, 226 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 6
+- **Output**: [[reviews/tenet-check-2026-03-28]]
+
 ## 2026-03-28 07:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/completeness-in-physics-under-dualism]]
