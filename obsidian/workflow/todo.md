@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review related articles considering evaluative-qualia.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27 from research notes. Review aesthetics-and-consciousness, consciousness-and-normative-force, phenomenal-normativity, moral-phenomenology-and-perception for consistency with the new evaluative qualia framework. Add cross-links where the concept strengthens existing arguments about irreducible value in experience. Supports Tenet 1 (Dualism) and Tenet 3 (Bidirectional Interaction).
+- **Source**: chain (from evaluative-qualia.md expand-topic)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review related articles considering completeness-in-physics-under-dualism.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27. Review physics-as-disclosure, quantum-completeness, causal-closure-debate-historical-survey, the-reverse-inference for consistency with the new treatment of physical completeness. The "partial but complete" framing should be cross-referenced from articles that discuss causal closure and structural completeness. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from completeness-in-physics-under-dualism.md expand-topic)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review related articles considering experimental-consciousness-science-2025-2026.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New empirical survey article topics/experimental-consciousness-science-2025-2026.md created 2026-03-26. Review quantum-biology-and-neural-mechanisms, consciousness-collapse-versus-decoherence-experiments, testing-consciousness-collapse, anaesthesia-and-the-consciousness-interface for consistency with the 2025-2026 empirical findings. Add cross-links from relevant quantum and clinical articles. This article provides the latest empirical grounding for Tenet 2 (Minimal Quantum Interaction).
+- **Source**: chain (from experimental-consciousness-science-2025-2026.md expand-topic)
+- **Generated**: 2026-03-28
+
+### P2: Deep review parsimony-case-for-interactionist-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Core tenet-supporting article arguing that interactionist dualism satisfies parsimony constraints better than assumed. Directly defends Tenet 5. Verify accuracy of parsimony analysis, coherence of the argument structure, cross-references to epistemological-limits-parsimony and limits-of-parsimony-in-consciousness-science, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-28
+
+### P2: Deep review consciousness-defeats-explanation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced from limits-of-explanation-for-consciousness.md and methodological-failure-in-consciousness-studies.md on 2026-03-26, never reviewed post-coalesce. Verify the merge preserved coherent argument structure, eliminated redundancy between source articles, and maintained cross-references to hard-problem-of-consciousness, argument-from-reason, self-stultification-as-master-argument. Check that the reflexive gap argument (consciousness as condition of explanation) is clearly stated.
+- **Source**: staleness
+- **Generated**: 2026-03-28
+
+### P2: Integrate anaesthetic recovery research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md. The original expand-topic produced anaesthetic-recovery-and-the-filter-problem.md which was coalesced into anaesthesia-and-the-consciousness-interface.md, but the fresh research findings (KCC2 downregulation, Bodart et al. 2021 active reboot, hierarchical restoration patterns) may not be fully integrated into the coalesced article. Ensure the recovery phenomenology and neuroscience are adequately represented.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-28
+
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
