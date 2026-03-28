@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review simplicity and parsimony articles considering new parsimony case
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/parsimony-case-for-interactionist-dualism.md created 2026-03-28. Review occams-razor-has-limits.md, simplicity-is-a-bookkeeping-trick.md, and arguments-against-materialism.md for cross-links, reinforcing arguments from the new parsimony analysis, and consistency of claims about explanatory costs. The new article's analysis of hidden costs in physicalist parsimony may update how these articles frame simplicity.
-- **Source**: chain (from parsimony-case-for-interactionist-dualism.md)
-- **Generated**: 2026-03-28
-
 ### P3: Deep review consciousness-and-mathematics.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1567,6 +1560,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review simplicity and parsimony articles considering new parsimony case
+- **Type**: cross-review
+- **Notes**: New article topics/parsimony-case-for-interactionist-dualism.md created 2026-03-28. Review occams-razor-has-limits.md, simplicity-is-a-bookkeeping-trick.md, and arguments-against-materialism.md for cross-links, reinforcing arguments from the new parsimony analysis, and consistency of claims about explanatory costs. The new article's analysis of hidden costs in physicalist parsimony may update how these articles frame simplicity.
+- **Output**: None -- Context: Cross-review simplicity and parsimony articles considering new parsimony case
 
 ### ✓ 2026-03-28: Cross-review mental causation articles considering clinical neuroplasticity evidence
 - **Type**: cross-review

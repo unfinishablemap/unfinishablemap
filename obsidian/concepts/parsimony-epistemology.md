@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-26T18:52:00+00:00
+ai_modified: 2026-03-28T10:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-26T03:16:00+00:00
+last_deep_review: 2026-03-28T10:58:00+00:00
 coalesced_from:
   - "/concepts/epistemological-limits-parsimony/"
   - "/concepts/parsimony-failure-consciousness/"
@@ -130,7 +130,7 @@ William Lycan (2009), a committed materialist of over forty years, reviewed the 
 
 ### Churchland's Qualification
 
-Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, qualifies in the original edition that the simplicity argument is "not a conclusive argument for materialism" because "neither dualism nor materialism can yet explain all the phenomena that need to be explained" (1984). If parsimony's foremost advocate acknowledges that the precondition for applying it — equal explanatory power — is not met, the routine dismissal of dualism on parsimony grounds lacks its own supporting authority.
+Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, qualifies in the original edition of *Matter and Consciousness* that the razor is "inconclusive regarding duality" (1984). If parsimony's foremost advocate acknowledges that the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks its own supporting authority.
 
 These concessions matter because they cannot be dismissed as motivated reasoning from dualists. When the prosecution's own witnesses testify that the case is weak, the verdict is difficult to sustain.
 
@@ -188,17 +188,3 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 11. Swinburne, R. (1986). *The Evolution of the Soul*. Clarendon Press.
 12. Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5(42).
 13. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109-11132.
-
-<!-- AI REFINEMENT LOG - 2026-03-26
-Changes made:
-- Added five-lines-of-critique convergence framing to opening section
-- Added "The Definitional Problem" section with Hubbard's (1995) argument that no agreed definition of parsimony exists
-- Elevated idealism parity argument from Anderson into its own subsection within Hostile Witnesses
-- Added Hubbard (1995) to references
-- Added research notes cross-reference in related_articles
-
-Based on integration of research/limits-of-parsimony-consciousness-2026-03-20.md.
-Key improvements: Strengthened the convergence argument (five independent critiques), added the definitional problem as a distinct line of attack, and gave the idealism parity argument the prominence it deserves.
-
-This log should be removed after human review.
--->
