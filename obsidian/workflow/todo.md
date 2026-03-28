@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review parsimony-case-for-interactionist-dualism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Core tenet-supporting article arguing that interactionist dualism satisfies parsimony constraints better than assumed. Directly defends Tenet 5. Verify accuracy of parsimony analysis, coherence of the argument structure, cross-references to epistemological-limits-parsimony and limits-of-parsimony-in-consciousness-science, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-28
-
 ### P2: Deep review consciousness-defeats-explanation.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1539,6 +1532,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Deep review parsimony-case-for-interactionist-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 via expand-topic, never reviewed. Core tenet-supporting article arguing that interactionist dualism satisfies parsimony constraints better than assumed. Directly defends Tenet 5. Verify accuracy of parsimony analysis, coherence of the argument structure, cross-references to epistemological-limits-parsimony and limits-of-parsimony-in-consciousness-science, and tenet alignment.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md
 
 ### ✓ 2026-03-28: Cross-review related articles considering experimental-consciousness-science-2025-2026.md
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-26T18:52:00+00:00
+ai_modified: 2026-03-28T07:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-03-24T17:33:00+00:00
+last_deep_review: 2026-03-28T07:58:00+00:00
 ---
 
 The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] emerges as the more parsimonious position. Physicalism's apparent simplicity is a bookkeeping trick: it hides enormous debts off the balance sheet.
@@ -48,13 +48,13 @@ Huemer (2009) surveyed four contemporary justifications for preferring simpler t
 
 The historical record reinforces this. Mach denied atoms on parsimony grounds. Geocentrism was more parsimonious than heliocentrism. Caloric theory was simpler than kinetic theory. In each case, nature proved more complex than parsimony predicted. As Masi (2023) documents, "If one misses the complexity and does not know all the underlying laws, processes, and variables that determine a phenomenon, invoking uncritically Occam's razor will almost certainly lead to an oversimplification." The consciousness debate — where the underlying laws, processes, and variables remain unknown — is precisely the kind of case where parsimony is least trustworthy.
 
-Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Even Churchland qualifies in his original edition that the simplicity argument is "not a conclusive argument for materialism" because the explanatory-adequacy precondition is not met. When the prosecution's own witnesses testify that the case is weak, the positive reversal that follows carries additional force. (For the full defensive case, see [[parsimony-epistemology]].)
+Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Even Churchland acknowledges in *Matter and Consciousness* that the razor is "inconclusive regarding duality" — a striking concession from a committed eliminativist. When the prosecution's own witnesses testify that the case is weak, the positive reversal that follows carries additional force. (For the full defensive case, see [[parsimony-epistemology]].)
 
 ## Physicalism's Hidden Costs
 
 ### The Proliferation Problem
 
-If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated functionalism, higher-order thought theory, higher-order perception theory, global workspace theory, illusionism, eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
+If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [[functionalism]], higher-order thought theory, higher-order perception theory, [[global-workspace-theory]], illusionism, eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
 
 A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. But the analogy fails. In healthy research programmes, competing theories converge as evidence accumulates — rival models of stellar nucleosynthesis, for instance, progressively unified. The physicalist theories of consciousness are not converging. After decades, they remain structurally incompatible, and the [[hard-problem-of-consciousness|hard problem]] remains exactly as Chalmers formulated it. This pattern — persistent fragmentation despite sustained effort — is the signature of a constraint that does not fit the phenomenon.
 
@@ -86,7 +86,7 @@ The dimensional reversal undermines the standard argument's implicit assumption:
 
 ## Interactionism Over Epiphenomenalism
 
-Among dualist positions, interactionism has its own parsimony advantage. Koksvik argues that interactionism is simpler than [[concepts/epiphenomenalism]] because epiphenomenalism must explain away the universal appearance of mental causation.
+Among dualist positions, interactionism has its own parsimony advantage. Koksvik argues that interactionism is simpler than [[concepts/epiphenomenalism]] because epiphenomenalism must explain away the universal appearance of [[mental-causation]].
 
 Every conscious being acts as though their mental states cause their behaviour. Pain causes avoidance. Belief guides action. Intention precedes effort. Epiphenomenalism holds that this universal appearance is systematically misleading — consciousness tracks behaviour with perfect fidelity but causes none of it. This requires a coincidence of staggering scope: phenomenal states happen to correlate perfectly with the physical states that actually cause behaviour, despite having no causal connection to them.
 
@@ -105,7 +105,7 @@ The modesty comparison is at best a draw. Physicalism makes multiple specific cl
 
 ## The Idealism Symmetry
 
-Anderson (2002) adds a structural observation: even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. Idealism — the view that reality is fundamentally mental — posits a single substance type and is therefore equally parsimonious by the ontological measure.
+Anderson (2002) adds a structural observation: even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. [[idealism|Idealism]] — the view that reality is fundamentally mental — posits a single substance type and is therefore equally parsimonious by the ontological measure.
 
 If the razor cuts against dualism for positing two substances, it cuts equally against physicalism in favour of idealism. The fact that physicalists never draw this conclusion reveals that ontological parsimony is not actually doing the work they attribute to it. Something else — naturalistic bias, institutional momentum, or implicit materialism — is driving the preference. The razor is invoked selectively, which is no longer principled reasoning but rhetorical deployment.
 
@@ -145,15 +145,3 @@ The Map speculates that the standard parsimony argument persists not because of 
 10. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.
 11. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
 12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
-
-<!-- AI REFINEMENT LOG - 2026-03-26
-Changes made:
-- Added "The Precondition That Never Held" section integrating Huemer's formal result (4 accounts, none extend to philosophy), Masi's historical examples (Mach, geocentrism, caloric), and hostile witness testimony (Smart's retraction, Lycan's concession, Churchland's qualification)
-- Added Huemer, Lycan, Masi, Smart, Churchland to references
-- Added research notes cross-reference in related_articles
-
-Based on integration of research/limits-of-parsimony-consciousness-2026-03-20.md.
-Key improvements: Strengthened the case that parsimony alone is insufficient by establishing that its preconditions never held and its own advocates have abandoned it, before making the positive reversal argument.
-
-This log should be removed after human review.
--->

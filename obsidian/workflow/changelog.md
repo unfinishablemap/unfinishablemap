@@ -5,6 +5,15 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 07:58 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Word count**: 2450 → 2444 (-6)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (Churchland attribution fix, cross-links added, stale comment removed)
+- **Enhancements made**: 4 (cross-links to functionalism, global-workspace-theory, idealism, mental-causation)
+- **Output**: [[reviews/deep-review-2026-03-28-parsimony-case-for-interactionist-dualism]]
+
 ## 2026-03-28 07:42 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/experimental-consciousness-science-2025-2026]]
