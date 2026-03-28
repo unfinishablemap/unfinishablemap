@@ -157,6 +157,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
 
+### P3: Write article on the aesthetics-mathematics-consciousness triangle
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical beauty is substrate-independent beauty in a domain devoid of physical substrate. The consciousness-and-mathematics article notes this but doesn't develop it. A dedicated treatment exploring why felt beauty correlates with mathematical truth—and what this reveals about consciousness—would connect aesthetics-and-consciousness, consciousness-and-mathematics, and evaluative-qualia. Target section: topics/. See optimistic-2026-03-28.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Write concept page on reflexive gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The consciousness-defeats-explanation article introduces the concept that consciousness cannot be explained because it is the condition of explanation. This recurs across argument-from-reason, consciousness-and-mathematics, and phenomenology-of-understanding-and-meaning but lacks a canonical concept page. Target section: concepts/. See optimistic-2026-03-28.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
+### P3: Add cross-links between consciousness-defeats-explanation, adaptive-computational-depth, and social-understanding cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: consciousness-defeats-explanation → consciousness-and-mathematics (reflexive gap applies to mathematical explanation), consciousness-and-social-understanding → apophatic-approaches (limits awareness is an apophatic capacity), adaptive-computational-depth → consciousness-defeats-explanation (both argue consciousness cannot be captured within frameworks depending on it), amplification-mechanisms → consciousness-and-causal-powers (six mechanisms implement the selection and amplification categories), phenomenological-method-and-evidence-standards → consciousness-and-mathematics (categorial intuition grounded by evidence taxonomy). See optimistic-2026-03-28.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-28
+
 ### P3: Add cross-links between experimental-consciousness-science and enactivism, consciousness-as-amplifier
 - **Type**: refine-draft
 - **Status**: pending
