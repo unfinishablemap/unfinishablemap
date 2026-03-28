@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-19 03:27:00+00:00
+ai_modified: 2026-03-28 01:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'Six proposed mechanisms for scaling quantum-level conscious influe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 03:27:00+00:00
+last_deep_review: 2026-03-28 01:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,16 +99,26 @@ As the Map's [amplification-void](/voids/amplification-void/) article observes, 
 
 The six mechanisms are not mutually exclusive. They operate at different points in the amplification chain and could function in concert:
 
-- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states (both [non-retrocausal](/topics/non-retrocausal-conscious-selection-models/) mechanisms acting forward in time)
+- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states. Both are [non-retrocausal mechanisms](/topics/non-retrocausal-conscious-selection-models/) acting forward in time, operating on present superpositions rather than retroactively influencing past events
 - **Synaptic tunneling** bridges quantum-to-molecular scales
 - **Chaotic sensitivity** and **SOC** bridge molecular-to-network scales
 - **Stochastic resonance** operates across all scales as a general amplification principle
 
 A complete amplification account might require mechanisms from several categories. The SOC framework is particularly promising as a unifying perspective, since scale-free dynamics naturally bridge the multi-scale gap that individual mechanisms address only partially.
 
-A notable omission from this taxonomy is Fisher's (2015) Posner molecule hypothesis, which proposes nuclear spin entanglement in calcium phosphate clusters as a substrate for quantum cognition. Fisher's model addresses quantum processing rather than amplification per se—it proposes how quantum entanglement could persist for hours in neural systems but does not specify how entangled states scale to macroscopic neural effects. See [quantum-consciousness](/concepts/quantum-consciousness/) for detailed treatment.
+### Formal Constraints
 
-No mechanism has been experimentally validated as a complete quantum-to-macroscopic bridge. Each has specific empirical predictions—Orch OR predicts measurable quantum coherence in microtubules, Beck-Eccles predicted temperature-independent exocytosis (falsified), SOC predicts specific correlations between avalanche statistics and conscious states. The [mathematical structure of the consciousness-physics interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) constrains what any successful mechanism must satisfy. Progress will likely come from testing specific predictions rather than from armchair evaluation.
+Any successful mechanism must satisfy the [mathematical corridor](/topics/mathematical-structure-of-the-consciousness-physics-interface/) defined by quantum mechanics itself: Born rule preservation at the ensemble level, no-signalling between subsystems, and consistency with conservation laws. These constraints are tight—consciousness can bias which outcome occurs at a quantum indeterminacy, but it cannot reshape the probability space or violate the geometric structure of Hilbert space. The mechanisms catalogued here propose different physical substrates for this biasing, but all must operate within the same formal corridor.
+
+### Functional Target
+
+The amplification chain must deliver [pattern-level selection](/concepts/consciousness-selecting-neural-patterns/)—consciousness choosing which of several superposed neural configurations becomes actual. This selection operates at a coarse bandwidth (approximately 10 bits per second of conscious processing), consistent with consciousness acting as a policy-level selector rather than a fine-grained controller. The amplification problem is therefore not to transmit quantum-scale information at high bandwidth but to reliably tip macroscopic neural dynamics at a few critical decision points per second.
+
+### Notable Omissions
+
+Fisher's (2015) Posner molecule hypothesis proposes nuclear spin entanglement in calcium phosphate clusters as a substrate for quantum cognition. Fisher's model addresses quantum processing rather than amplification per se—it proposes how quantum entanglement could persist for hours in neural systems but does not specify how entangled states scale to macroscopic neural effects. See [quantum-consciousness](/concepts/quantum-consciousness/) for detailed treatment. A head-to-head evaluation of the major proposals against shared criteria—decoherence vulnerability, phenomenological fit, falsifiability—is provided in [comparing quantum consciousness mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).
+
+No mechanism has been experimentally validated as a complete quantum-to-macroscopic bridge. Each has specific empirical predictions—Orch OR predicts measurable quantum coherence in microtubules, Beck-Eccles predicted temperature-independent exocytosis (falsified), SOC predicts specific correlations between avalanche statistics and conscious states. Progress will likely come from testing specific predictions rather than from armchair evaluation.
 
 ## Relation to Site Perspective
 

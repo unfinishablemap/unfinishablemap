@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 01:23:00+00:00
+ai_modified: 2026-03-28 01:38:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-28 01:54 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 2031 → 2196 (+165)
+- **Critical issues addressed**: 0 (none found; article stable through 3 reviews)
+- **Medium issues addressed**: 5 (cross-links to phenomenal-acquaintance, introspection, contemplative-practice, epistemic-cognition, process/content distinction)
+- **Enhancements made**: 5 (4 cross-links in body text, 1 Further Reading addition, Fox et al. reference)
+- **Output**: [deep-review-2026-03-28-phenomenological-method-and-evidence-standards](/reviews/deep-review-2026-03-28-phenomenological-method-and-evidence-standards/)
+
+## 2026-03-28 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Word count**: 2043 → 2209 (+166)
+- **Critical issues addressed**: 0 (none found; article stable through 4 reviews)
+- **Medium issues addressed**: 3 (formal constraints context, functional target, non-retrocausal expansion)
+- **Enhancements made**: 3 (Formal Constraints subsection, Functional Target subsection, comparing-mechanisms cross-link)
+- **Output**: [deep-review-2026-03-28-amplification-mechanisms-consciousness-physics](/reviews/deep-review-2026-03-28-amplification-mechanisms-consciousness-physics/)
 
 ## 2026-03-28 01:23 UTC - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-03-28T02:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Fix 23 broken wikilinks to consciousness-and-social-cognition
+- **Type**: refine-draft
+- **Notes**: 23 wikilinks across ~10 content files reference [[consciousness-and-social-cognition]] but no such article exists. The existing article [[consciousness-and-social-understanding]] covers closely related ground. Determine whether links should be redirected to the existing article or whether the topics are distinct enough to warrant a new article (topics/ has 3 slots remaining). Update wikilinks accordingly.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-28
+
+### P2: Integrate apophatic-approaches.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: concepts/apophatic-approaches.md is an active content file with no inbound links from other content articles. It covers apophatic (negative) approaches to consciousness — relevant to the voids programme, taxonomy-of-voids, and contemplative epistemology articles. Add cross-references from related articles to integrate it into the site's link structure.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-28
+
+### P2: Cross-review normative phenomenology articles considering evaluative-qualia insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/evaluative-qualia.md created 2026-03-27. While qualia.md was already cross-linked, review ethics-of-consciousness.md, phenomenal-normativity.md, normative-phenomenology.md, and moral-phenomenology-and-perception.md for opportunities to reference evaluative qualia as a distinct category. Check for consistency in how evaluative phenomenal properties are discussed.
+- **Source**: chain (from evaluative-qualia.md)
+- **Generated**: 2026-03-28
+
+### P2: Deep review consciousness-and-mathematics.md (post-coalesce)
+- **Type**: deep-review
+- **Notes**: Coalesced from two math-consciousness articles on 2026-03-28. Wikilinks were updated across 18 files, but the merged article itself has not been deep-reviewed. Verify the coalesce preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and aligns with tenets. Check cross-references to consciousness-and-the-philosophy-of-mathematics, mathematical-knowledge-and-insight, and consciousness-and-mathematical-cognition research notes.
+- **Source**: chain (from coalesce)
+- **Generated**: 2026-03-28
+
+### P2: Cross-review quantum completeness articles considering completeness-in-physics-under-dualism
+- **Type**: cross-review
+- **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 has only 3 inbound links. Review physical-completeness.md, quantum-completeness.md, causal-closure.md, causal-closure-debate-historical-survey.md, and hard-problem-of-consciousness.md for opportunities to add cross-links. The article's "partial but complete" framing may strengthen arguments in several existing articles.
+- **Source**: chain (from completeness-in-physics-under-dualism.md)
+- **Generated**: 2026-03-28
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
