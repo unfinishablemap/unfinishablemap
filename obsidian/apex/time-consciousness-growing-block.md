@@ -4,7 +4,7 @@ description: "Consciousness requires temporal structure to exist. Time's arrow m
 created: 2026-02-01
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-14T15:51:00+00:00
+ai_modified: 2026-03-28T12:42:00+00:00
 last_deep_review: 2026-03-13T22:25:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ last_curated:
 apex_sources:
   - topics/philosophy-of-time-and-consciousness
   - topics/time-collapse-and-agency
-  - topics/time-perception-consciousness-theories
+  - topics/temporal-structure-of-consciousness
   - topics/time-symmetric-selection-mechanism
   - concepts/temporal-consciousness
   - concepts/duration
@@ -60,7 +60,7 @@ The specious present also appears to be modulated by [[attention-as-interface|at
 
 Henri Bergson went further with his concept of [[temporal-consciousness|durée]]. Clock time treats moments as positions on a line—discrete, externally related, quantifiable. Lived time interpenetrates: the past permeates the present, the future is already anticipated. Bergson called this "qualitative multiplicity"—elements distinguishable yet not separable, each coloured by every other. The melody example clarifies: you don't experience notes as discrete units arranged sequentially. You hear the phrase as unified flow where each note gains meaning from what preceded and what follows.
 
-Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [[time-perception-consciousness-theories|Kent and Wittmann argue]] in their 2021 analysis, major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
+Duration cannot be measured because it cannot be divided without destroying what it is. Cut a melody into separate notes and you have frequencies, not music. This irreducibility matters. As [[temporal-structure-of-consciousness|Kent and Wittmann argue]] in their 2021 analysis, major consciousness theories focus on "functional moments" of 100-300 milliseconds while experienced time extends to seconds. The gap between what theories explain and what consciousness involves may not be a temporary limitation but evidence of something that functional accounts cannot capture.
 
 ## Time's Arrow and Collapse
 
@@ -170,7 +170,7 @@ This synthesis draws from:
 
 - [[philosophy-of-time-and-consciousness|Philosophy of Time and Consciousness]] — The bidirectional dependence between time and consciousness
 - [[time-collapse-and-agency|Time, Collapse, and Agency]] — How collapse introduces temporal direction and enables agency
-- [[time-perception-consciousness-theories|Time Perception and Consciousness Theories]] — The gap between functional moments and experienced duration
+- [[temporal-structure-of-consciousness|Temporal Structure of Consciousness]] — The gap between functional moments and experienced duration
 - [[time-symmetric-selection-mechanism|Time-Symmetric Selection Mechanism]] — How atemporal selection resolves the Libet problem
 - [[temporal-consciousness|Temporal Consciousness]] — The specious present, durée, temporal binding, temporal thickness, and AI implications
 - [[collapse-and-time|Collapse and Time]] — How quantum collapse may constitute time's arrow

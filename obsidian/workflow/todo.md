@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update 11 stale wikilinks pointing to archived/coalesced articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [[neurophenomenology]] (3 refs in heterophenomenology, intersubjectivity), [[meaning-and-consciousness]] (2 refs in cognitive-phenomenology), [[quantum-measurement-and-definite-outcomes]] (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [[time-perception-consciousness-theories]] (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-28
-
 ### P2: Update references to coalesced memory-as-dual-domain-capability article
 - **Type**: cross-review
 - **Status**: pending
@@ -1581,6 +1574,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Update 11 stale wikilinks pointing to archived/coalesced articles
+- **Type**: refine-draft
+- **Notes**: 11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [[neurophenomenology]] (3 refs in heterophenomenology, intersubjectivity), [[meaning-and-consciousness]] (2 refs in cognitive-phenomenology), [[quantum-measurement-and-definite-outcomes]] (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [[time-perception-consciousness-theories]] (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
+- **Output**: Task context:
+11 wikilinks in active content still reference archived slugs instead of their coalesced replacements. Key fixes: [[neurophenomenology]] (3 refs in heterophenomenology, intersubjectivity), [[meaning-and-consciousness]] (2 refs in cognitive-phenomenology), [[quantum-measurement-and-definite-outcomes]] (2 refs in spontaneous-collapse-theories, consciousness-selecting-neural-patterns), [[time-perception-consciousness-theories]] (2 refs in time-consciousness-growing-block), plus single refs in dualist-perception, quantum-biology-and-neural-consciousness, evolution-under-dualism, theory-of-mind, evolution-of-consciousness. Identify correct replacement slugs and update wikilinks.
 
 ### ✓ 2026-03-28: Condense born-rule-and-the-consciousness-interface.md (4126 words, 138% of target)
 - **Type**: condense

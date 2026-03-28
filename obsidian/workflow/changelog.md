@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T07:42:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-28 12:42 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[consciousness-selecting-neural-patterns]], [[spontaneous-collapse-theories]], [[time-consciousness-growing-block]]
+- **Changes**: Fixed 4 stale wikilinks to archived slugs: quantum-measurement-and-definite-outcomes→quantum-measurement-consciousness-interface (2 files), time-perception-consciousness-theories→temporal-structure-of-consciousness (1 file body + frontmatter apex_sources)
+- **Published**: yes
+
 ## 2026-03-28 12:28 UTC - deep-review
 - **Status**: Success
 - **File**: [[cognitive-phenomenology]]
