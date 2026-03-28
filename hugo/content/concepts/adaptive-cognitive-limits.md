@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-26 14:03:00+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[biological-cognitive-closure]]'
-- '[[cognitive-aversion]]'
+- '[[defended-territory]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[three-kinds-of-void]]'
 - '[[compound-failure-signatures]]'
@@ -61,7 +61,7 @@ Adaptive limits may produce a phenomenology distinct from architectural limits. 
 
 Three signatures characterise adaptive voids:
 
-**Motivated disinterest.** Connected to [cognitive-aversion](/voids/defended-territory/), adaptive limits may produce the sense that a thought is not impossible but merely uninteresting. The cognitive system has learned through evolutionary deep time that certain directions lead nowhere productive — so they register as boring rather than blocked.
+**Motivated disinterest.** Connected to [defended-territory](/voids/defended-territory/), adaptive limits may produce the sense that a thought is not impossible but merely uninteresting. The cognitive system has learned through evolutionary deep time that certain directions lead nowhere productive — so they register as boring rather than blocked.
 
 **Illusory comprehension.** Hoffman's work suggests that we feel we understand the world because our perceptual interface functions smoothly. The void is invisible precisely because the interface hides it seamlessly. No gap is experienced — only completeness.
 
@@ -102,7 +102,7 @@ A bootstrapping problem remains: if philosophical intuitions are fitness-shaped,
 ## Further Reading
 
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How evolution produces cognitive closure through biological mechanisms
-- [cognitive-aversion](/voids/defended-territory/) — The motivational deflection that steers thought away from certain territories
+- [defended-territory](/voids/defended-territory/) — The motivational deflection that steers thought away from certain territories
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether we can distinguish genuine closure from difficult problems
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy adaptive limits refine
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping different modes of cognitive failure

@@ -87,7 +87,7 @@ The Map's [Cognitive Closure](/concepts/mysterianism/) article develops McGinn's
 - **Tenet alignment**: Supports all tenets by providing epistemological foundations for the Map's methodology
 
 #### Consciousness and the Philosophy of Mathematics
-- **Builds on**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Builds on**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
 - **Would address**: Mathematical Platonism and consciousness share a structural problem—access to abstract objects parallels the interaction problem. The Map has articles on mathematical cognition but hasn't developed the deep analogy between mathematical and phenomenal realism
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Strengthens Tenet 1 (dualism) and Tenet 5 (Occam's limits)—if mathematical realism is respectable despite interaction worries, consciousness dualism inherits that respectability

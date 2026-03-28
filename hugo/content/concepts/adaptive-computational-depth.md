@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-01 08:02:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -114,7 +114,7 @@ The adaptive-computational-depth framework would face serious difficulty if:
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)
 - [the-participatory-universe](/topics/the-participatory-universe/)
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/)
 - [qbism](/concepts/qbism/)
 

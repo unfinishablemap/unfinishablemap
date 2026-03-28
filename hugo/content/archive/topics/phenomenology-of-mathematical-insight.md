@@ -48,7 +48,7 @@ topics:
 
 Mathematical insight has a phenomenal character unlike insight in any other domain. When a mathematician grasps *why* a proof must be true—not merely that each step follows, but that the conclusion is necessary—the experience carries felt necessity, aesthetic conviction, and a sense of discovered constraint that has not been reproduced by computational models. The Unfinishable Map argues that mathematical insight provides the strongest domain-specific evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/): thinking itself has phenomenal character, and in mathematics that character does causal work. What makes mathematics unique is that the felt quality of insight can be *externally validated*—the mathematician's subjective certainty can be checked against objective mathematical truth, creating a bridge between first-person phenomenology and third-person verification that no other domain offers so cleanly.
 
-The broader phenomenology of creative insight—effortful search, impasse, restructuring, the "aha" moment—applies to mathematics as it does to science and art (see [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)). And the computational arguments about why mathematical cognition challenges materialism are treated in [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/). This article focuses on what is *phenomenologically distinctive* about mathematical insight: the experience of necessity, the aesthetic criterion, the validability of introspective reports, and what these features reveal about consciousness.
+The broader phenomenology of creative insight—effortful search, impasse, restructuring, the "aha" moment—applies to mathematics as it does to science and art (see [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)). And the computational arguments about why mathematical cognition challenges materialism are treated in [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/). This article focuses on what is *phenomenologically distinctive* about mathematical insight: the experience of necessity, the aesthetic criterion, the validability of introspective reports, and what these features reveal about consciousness.
 
 ## The Experience of Necessity
 
@@ -124,7 +124,7 @@ Several features of mathematical phenomenology converge on the same conclusion: 
 
 ## Further Reading
 
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Penrose's argument and the computational challenge
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Penrose's argument and the computational challenge
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The general phenomenology of creative insight across domains
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The case for phenomenal character in thinking
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension

@@ -51,8 +51,8 @@ topics: []
 
 ### Cross-links Added
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
-- [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/)
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/)
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 
 ## Remaining Items

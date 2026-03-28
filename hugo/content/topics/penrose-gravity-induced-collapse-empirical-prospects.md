@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-25 16:30:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -108,7 +108,7 @@ The partial falsification of the parameter-free DP model is instructive. It show
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — head-to-head evaluation of Orch OR, Stapp, Fisher, and CSL-IIT against shared criteria
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Penrose's Gödelian argument for non-computable consciousness
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Penrose's Gödelian argument for non-computable consciousness
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)

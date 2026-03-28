@@ -42,7 +42,7 @@ topics:
 
 The philosophy of mathematics is a test case for physicalism. Every major position on what mathematical objects *are*—Platonism, intuitionism, formalism, structuralism—implies a position on what the mind *does* when it does mathematics. Follow the implications far enough and a pattern emerges: the positions that take mathematical truth seriously require a non-physical epistemic capacity, while the one position that avoids this requirement—formalism—cannot explain why mathematicians experience understanding rather than mere symbol manipulation. The Unfinishable Map argues that mathematical ontology is where physicalism's explanatory limits become most acute, and where consciousness must be taken seriously as an irreducible epistemic faculty.
 
-This article examines the major positions in philosophy of mathematics for what each reveals about consciousness. Where the Map's existing articles on [mathematical knowledge](/topics/mathematical-truth-and-conscious-access/) and [mathematical cognition](/topics/consciousness-and-mathematical-cognition/) focus on the phenomenology and causal role of mathematical insight, this article works the other direction: from mathematical ontology toward the nature of mind.
+This article examines the major positions in philosophy of mathematics for what each reveals about consciousness. Where the Map's existing articles on [mathematical knowledge](/topics/mathematical-truth-and-conscious-access/) and [mathematical cognition](/topics/consciousness-and-mathematics/) focus on the phenomenology and causal role of mathematical insight, this article works the other direction: from mathematical ontology toward the nature of mind.
 
 ## Platonism and the Access Problem
 
@@ -123,7 +123,7 @@ Benacerraf's dilemma and the mind-body interaction problem are, at bottom, the s
 ## Further Reading
 
 - [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/)
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
 - [mathematical-void](/voids/mathematical-void/)
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)

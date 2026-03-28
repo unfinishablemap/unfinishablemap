@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-22 09:41:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ related_articles:
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[creativity-void]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-imagination]]'

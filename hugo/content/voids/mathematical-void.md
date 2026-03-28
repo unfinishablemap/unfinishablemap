@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-24 19:24:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[incompleteness-void]]'
 - '[[apophatic-approaches]]'
-- '[[mathematical-truth-and-conscious-access]]'
+- '[[consciousness-and-mathematics]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 title: The Mathematical Void
 topics:

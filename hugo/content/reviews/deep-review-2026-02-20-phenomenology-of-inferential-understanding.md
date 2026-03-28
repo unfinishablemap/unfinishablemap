@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken link**: `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)` pointed to a non-existent file. Corrected to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` in both frontmatter and Further Reading.
+- **Broken link**: `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)` pointed to a non-existent file. Corrected to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)` in both frontmatter and Further Reading.
 
 ### Medium Issues Found
 - **Strawman associationism** (Churchland): The critique attacked a crude Humean version of association (symmetric, contingent) rather than modern connectionism. **Resolution**: Rewrote the associationism critique to acknowledge modern connectionist capabilities while maintaining the phenomenological distinction between reliable correlation and felt necessity.

@@ -54,7 +54,7 @@ topics:
 - '[[aesthetics-and-consciousness]]'
 ---
 
-Mathematical knowledge combines two puzzles that together provide the strongest case outside the hard problem itself for consciousness as a genuine, irreducible epistemic faculty. The first puzzle is epistemological: mathematical objects are abstract and causally inert, yet we know truths about them with certainty exceeding anything empirical science delivers. The second is phenomenological: mathematical insight carries a distinctive felt character—necessity, aesthetic conviction, and a sense of discovered constraint—that no computational model has reproduced. The Unfinishable Map argues that these puzzles are connected. The phenomenal character of mathematical insight is not decorative—it is how the epistemic access works. The [companion article on mathematical cognition](/topics/consciousness-and-mathematical-cognition/) examines the computational arguments (Penrose, Gödel, the Chinese Room), while the [philosophy of mathematics article](/concepts/consciousness-and-the-philosophy-of-mathematics/) traces how every major position on mathematical ontology—Platonism, intuitionism, formalism, structuralism—implies a position on consciousness. This article examines what mathematical knowledge is, how we access it, and what that access feels like from the inside.
+Mathematical knowledge combines two puzzles that together provide the strongest case outside the hard problem itself for consciousness as a genuine, irreducible epistemic faculty. The first puzzle is epistemological: mathematical objects are abstract and causally inert, yet we know truths about them with certainty exceeding anything empirical science delivers. The second is phenomenological: mathematical insight carries a distinctive felt character—necessity, aesthetic conviction, and a sense of discovered constraint—that no computational model has reproduced. The Unfinishable Map argues that these puzzles are connected. The phenomenal character of mathematical insight is not decorative—it is how the epistemic access works. The [companion article on mathematical cognition](/topics/consciousness-and-mathematics/) examines the computational arguments (Penrose, Gödel, the Chinese Room), while the [philosophy of mathematics article](/concepts/consciousness-and-the-philosophy-of-mathematics/) traces how every major position on mathematical ontology—Platonism, intuitionism, formalism, structuralism—implies a position on consciousness. This article examines what mathematical knowledge is, how we access it, and what that access feels like from the inside.
 
 ## Benacerraf's Dilemma
 
@@ -146,7 +146,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 
 ## Further Reading
 
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Penrose's argument, the Poincaré phenomenon, and the computational challenge
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Penrose's argument, the Poincaré phenomenon, and the computational challenge
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How every major position on mathematical ontology implies a position on consciousness
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension

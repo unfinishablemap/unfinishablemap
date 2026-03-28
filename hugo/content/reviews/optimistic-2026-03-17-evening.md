@@ -119,7 +119,7 @@ The quantum-neural-timing article's explicit admission — "post-decoherence sel
 - **Tenet alignment**: Central to Tenets 2 and 3 — without specification, the quantum interaction story remains promissory
 
 #### The Phenomenology of Creativity
-- **Builds on**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), Poincaré phenomenon discussions
+- **Builds on**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), Poincaré phenomenon discussions
 - **Would address**: Creative insight phenomenology is used as evidence across multiple articles but never given independent treatment. The recursive quality of creativity — creativity applied to the conditions of creativity itself — deserves systematic exploration
 - **Estimated scope**: Medium article (topics/)
 - **Tenet alignment**: Supports Tenet 3 (Bidirectional Interaction) — creative insight as paradigm case of consciousness doing something computation cannot
@@ -158,7 +158,7 @@ The quantum-neural-timing article's explicit admission — "post-decoherence sel
 | [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Universal emergence strengthens the amplifier thesis — consciousness-as-amplifier is not special pleading if emergence is always partially mysterious |
 | [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) | [death-and-consciousness](/topics/death-and-consciousness/) | Both use filter-theory logic — loosening brain constraint reveals capacities not produced by brain |
 | [baseline-cognition](/concepts/baseline-cognition/) | [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) | Baseline cognition defines what brains do without consciousness; choking shows what happens when consciousness interferes — complementary evidence |
-| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [haecceity](/concepts/haecceity/) | Mathematical insight's forcing quality parallels haecceity's irreducibility — both are phenomenal facts resisting functional decomposition |
+| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) | [haecceity](/concepts/haecceity/) | Mathematical insight's forcing quality parallels haecceity's irreducibility — both are phenomenal facts resisting functional decomposition |
 | [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) | [free-will](/topics/free-will/) | Content-specific placebo responses are a form of selection — belief content determines physiological outcome, paralleling intentional quantum selection |
 
 ## New Concept Pages Needed

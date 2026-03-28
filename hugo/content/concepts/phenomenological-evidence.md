@@ -43,7 +43,7 @@ topics:
 - '[[methodology-of-consciousness-research]]'
 ---
 
-Phenomenological evidence is first-person data about conscious experience—reports of what it is like to perceive, think, feel, and act from the inside. Unlike third-person evidence (behavioural observations, neural measurements), phenomenological evidence describes the qualitative structure of experience as accessed by the experiencing subject. The Unfinishable Map holds that such evidence, properly gathered through rigorous methods, constitutes irreplaceable data for consciousness science. A theory that predicts neural correlates but fails to capture phenomenal structure has explained the wrong thing—this is the core insight behind the [hard problem of consciousness](/topics/hard-problem-of-consciousness/).
+Phenomenological evidence is first-person data about conscious experience—reports of what it is like to perceive, think, feel, and act from the inside. Unlike third-person evidence (behavioural observations, neural measurements), phenomenological evidence describes the qualitative structure of experience as accessed by the experiencing subject. Its [epistemological](/concepts/epistemology/) status — whether and how first-person reports constitute genuine evidence — is central to the consciousness debate. The Unfinishable Map holds that such evidence, properly gathered through rigorous methods, constitutes irreplaceable data for consciousness science. A theory that predicts neural correlates but fails to capture phenomenal structure has explained the wrong thing—this is the core insight behind the [hard problem of consciousness](/topics/hard-problem-of-consciousness/).
 
 ## Defining the Term
 

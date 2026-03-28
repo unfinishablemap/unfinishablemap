@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-27 21:32:00+00:00
+ai_modified: 2026-03-28 01:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,6 +22,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[three-kinds-of-void]]'
+- '[[expertise-occlusion]]'
 - '[[absorption-void]]'
 - '[[habituation-void]]'
 - '[[biological-cognitive-closure]]'
@@ -105,6 +106,7 @@ The expertise void also connects to the [developmental void](/voids/biological-c
 
 ## Further Reading
 
+- [expertise-occlusion](/voids/expertise-occlusion/) — Why the void is actively defended: the lock on the one-way door
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How the stages of skill acquisition challenge epiphenomenalism
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase process (calibration, withdrawal, retained override) that creates the expertise void when withdrawal becomes irreversible
 - [absorption-void](/voids/absorption-void/)

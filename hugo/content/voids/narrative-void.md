@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[inaccessible-past]]'
 - '[[creativity-void]]'
-- '[[cognitive-aversion]]'
+- '[[defended-territory]]'
 - '[[narrative-coherence]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[transparency-void]]'
@@ -102,7 +102,7 @@ The narrative void also illustrates the Map's [tenet that Occam's Razor has limi
 - [inaccessible-past](/voids/inaccessible-past/)
 - [self-reference paradox](/voids/self-opacity/)
 - [creativity-void](/voids/creativity-void/)
-- [cognitive-aversion](/voids/defended-territory/)
+- [defended-territory](/voids/defended-territory/)
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/)
 - [measurement-void](/voids/measurement-void/)

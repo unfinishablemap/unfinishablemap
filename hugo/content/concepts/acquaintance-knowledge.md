@@ -44,7 +44,7 @@ Russell's 1910 paper "Knowledge by Acquaintance and Knowledge by Description" dr
 
 **Knowledge by description** operates through propositions. You know that Paris is the capital of France, that water is H₂O, that pain involves C-fibre activation. Descriptive knowledge can be communicated, stored, and verified by third parties. It is inherently general—it characterises things as falling under types.
 
-Russell treated acquaintance as epistemically foundational. Descriptive knowledge ultimately rests on acquaintance: we could not possess concepts like RED or WARM without having been acquainted with instances of redness or warmth. The descriptions point beyond themselves to something encountered directly.
+Russell treated acquaintance as [epistemically](/concepts/epistemology/) foundational. Descriptive knowledge ultimately rests on acquaintance: we could not possess concepts like RED or WARM without having been acquainted with instances of redness or warmth. The descriptions point beyond themselves to something encountered directly.
 
 ## The Three Epistemic Categories
 

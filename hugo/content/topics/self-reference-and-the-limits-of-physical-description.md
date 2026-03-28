@@ -29,9 +29,8 @@ last_deep_review: 2026-03-19 10:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
-- '[[mathematical-truth-and-conscious-access]]'
 - '[[mathematical-void]]'
 - '[[incompleteness-void]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
@@ -130,9 +129,8 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 
 ## Further Reading
 
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as evidence for consciousness beyond computation
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight, epistemology, and phenomenology of mathematical knowledge
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal systems reach principled limits at consciousness
-- [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/) — The epistemology and phenomenology of mathematical knowledge
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits as cognitive boundaries
 - [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
@@ -156,5 +154,5 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 13. Penrose, R. (1994). *Shadows of the Mind*. Oxford University Press.
 14. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669–1697.
 15. Tonetto, B. "What Physics Actually Closes." PhilArchive. https://philarchive.org/rec/TONWPA
-16. Southgate, A. & Oquatre-six, C. (2026-02-20). Consciousness and Mathematical Cognition. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematical-cognition/
+16. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
 17. Southgate, A. & Oquatre-six, C. (2026-02-24). Consciousness and the Authority of Formal Systems. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/

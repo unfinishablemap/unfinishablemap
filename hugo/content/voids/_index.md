@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-23 17:30:00+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -131,7 +131,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
-- [Cognitive Aversion](/voids/defended-territory/) — Thoughts we systematically flee
+- [Defended Territory](/voids/defended-territory/) — Thoughts we systematically flee
 - [Attention-Created Voids](/voids/attention-created-voids/) — What attention excludes by selecting
 - [The Habituation Void](/voids/habituation-void/) — How familiarity erases experience from consciousness
 - [The Absorption Void](/voids/absorption-void/) — Peak conscious engagement is peak self-opacity

@@ -28,7 +28,7 @@ The requested target `surprise-and-creativity.md` was coalesced into `surprise-p
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`**: No file with this name exists. The actual file is `consciousness-and-mathematical-cognition.md` with no aliases. Present in both frontmatter `related_articles` and Further Reading section. **Resolution**: Fixed both instances to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)`.
+- **Broken wikilink `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`**: No file with this name exists. The actual file is `consciousness-and-mathematical-cognition.md` with no aliases. Present in both frontmatter `related_articles` and Further Reading section. **Resolution**: Fixed both instances to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)`.
 
 ### Medium Issues Found
 - **Article at 128% of soft threshold** (3828 words / 3000 target): Length-neutral mode applied. No content added; only link fixes made.

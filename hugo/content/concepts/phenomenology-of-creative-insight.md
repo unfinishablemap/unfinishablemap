@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-25 10:14:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ related_articles:
 - '[[agent-causation]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenology-of-conceptual-change]]'
-- '[[mathematical-truth-and-conscious-access]]'
+- '[[consciousness-and-mathematics]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[categorical-surprise]]'
 - '[[phenomenology-of-epistemic-cognition]]'
@@ -116,7 +116,7 @@ This tension has epistemological significance. That private phenomenal insight c
 
 ## Aesthetic Experience in Theory Choice
 
-Scientists regularly describe theoretical insight in aesthetic terms. Dirac remarked that "it is more important to have beauty in one's equations than to have them fit experiment" (Dirac, 1963). Poincare (1908) argued that mathematical intuition operates through a "special aesthetic sensibility"—a felt sense of harmony guiding the mathematician toward fruitful combinations (see [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/) for the full phenomenology of mathematical insight).
+Scientists regularly describe theoretical insight in aesthetic terms. Dirac remarked that "it is more important to have beauty in one's equations than to have them fit experiment" (Dirac, 1963). Poincare (1908) argued that mathematical intuition operates through a "special aesthetic sensibility"—a felt sense of harmony guiding the mathematician toward fruitful combinations (see [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) for the full phenomenology of mathematical insight).
 
 This aesthetic phenomenology suggests consciousness contributes something to creative practice beyond information processing. The experience of elegance—the felt sense that a theory is *right* before full testing—involves a qualitative dimension resisting [functional](/concepts/functionalism/) reduction. Scientists with access to the same evidence sometimes diverge in aesthetic responsiveness, and this divergence can lead to different research programmes and discoveries.
 
@@ -159,7 +159,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [categorical-surprise](/concepts/categorical-surprise/)
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
-- [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/) — Mathematical insight as the strongest case of creative phenomenology with external validation
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as the strongest case of creative phenomenology with external validation
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 

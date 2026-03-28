@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -48,7 +48,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[consciousness-and-creative-distinctiveness]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[creativity-void]]'
 title: Surprise, Prediction Error, and Consciousness
 topics:
@@ -211,7 +211,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables creative distinctiveness
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Surprise and insight in mathematics
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Surprise and insight in mathematics
 - [creativity-void](/voids/creativity-void/) — The boundary of what minds can generate
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources

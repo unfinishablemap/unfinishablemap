@@ -206,7 +206,7 @@ Several findings would weaken PCT:
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader debate about whether thinking has phenomenal character
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — Why genuine aboutness requires phenomenal consciousness
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal unfolding of comprehension
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work

@@ -71,7 +71,7 @@ Updated 35 references across 10 content files, replacing old article slugs with 
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (3 refs, including section anchor update)
 - [dream-consciousness](/topics/dream-consciousness/) (2 refs)
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) (4 refs, merged duplicate)
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) (5 refs, merged duplicate)
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) (5 refs, merged duplicate)
 - [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/) (3 refs)
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) (5 refs, merged duplicate)
 - [categorical-surprise](/concepts/categorical-surprise/) (3 refs)

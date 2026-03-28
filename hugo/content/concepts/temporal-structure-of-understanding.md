@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -31,7 +31,7 @@ last_deep_review: 2026-03-23 02:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 title: The Temporal Structure of Understanding
 topics:
@@ -189,7 +189,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader debate about whether thinking has phenomenal character
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How consciousness structures time experience more generally
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case of understanding
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as paradigm case of understanding
 - [working-memory](/concepts/working-memory/) — The cognitive system supporting temporal manipulation
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive structure processing reveals temporal phenomenology

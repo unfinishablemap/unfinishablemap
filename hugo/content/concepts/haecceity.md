@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-03-28 00:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The quality of being this particular conscious subject. Pattern-bas
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-04 23:02:00+00:00
+last_deep_review: 2026-03-28 00:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -216,7 +216,7 @@ The Map doesn't explicitly endorse "haecceitism" by name. But its commitments im
 
 The haecceity concept makes explicit what the Map presupposes. Personal identity is not pattern identity. *You* are not interchangeable with a qualitative duplicate. Being this conscious subject is a primitive fact—your haecceity.
 
-## Relation to Site Tenets
+## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: If consciousness is irreducible, haecceity provides the individuating principle. Physical facts don't fix which subject exists; haecceity does.
 

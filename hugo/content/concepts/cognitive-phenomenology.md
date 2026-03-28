@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-26 12:57:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -18,7 +18,7 @@ concepts:
 - '[[decoherence]]'
 - '[[haecceity]]'
 - '[[epistemic-emotions]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[consciousness-as-amplifier]]'
 - '[[language-recursion-and-consciousness]]'
@@ -86,7 +86,7 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. The [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) reveals this vividly: scientists report that experimental confirmation carries a distinctive felt quality of *mediated contact* — certainty arrived at through instruments and statistical reasoning, yet experienced as genuine encounter with how things are. The [phenomenology of epistemic cognition](/topics/phenomenology-of-epistemic-cognition/) situates insight within a larger epistemic process: the gravitational pull of evidence, the tipping point of conviction, and the afterimage of doubt that persists even after belief changes. [Mathematical insight](/topics/consciousness-and-mathematical-cognition/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
+"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. The [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) reveals this vividly: scientists report that experimental confirmation carries a distinctive felt quality of *mediated contact* — certainty arrived at through instruments and statistical reasoning, yet experienced as genuine encounter with how things are. The [phenomenology of epistemic cognition](/topics/phenomenology-of-epistemic-cognition/) situates insight within a larger epistemic process: the gravitational pull of evidence, the tipping point of conviction, and the afterimage of doubt that persists even after belief changes. [Mathematical insight](/topics/consciousness-and-mathematics/) provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) examines the complement: not the sudden arrival of understanding, but the sustained work that precedes and enables it—the strain of holding premises together, the effort of tracing implications.
 
 ### The Temporal Structure of Understanding
 
@@ -142,7 +142,7 @@ PCT explains several puzzles:
 
 ## The Mathematical Understanding Case
 
-[Mathematical understanding](/topics/consciousness-and-mathematical-cognition/) provides compelling evidence because three phenomenal stages are clearly delineated. (The [philosophy of mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) maps the broader landscape: every major position on mathematical ontology implies a position on what consciousness does.): **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
+[Mathematical understanding](/topics/consciousness-and-mathematics/) provides compelling evidence because three phenomenal stages are clearly delineated. (The [philosophy of mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) maps the broader landscape: every major position on mathematical ontology implies a position on what consciousness does.): **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
 
 Mathematical understanding shows tight coupling between phenomenology and performance: those who report genuine understanding can apply insights to new problems, while mere verifiers cannot. If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably.
 
@@ -278,7 +278,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — Understanding's temporal phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language as evidence for consciousness-dependent cognition
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigm case
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as paradigm case
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states
 - [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds AI systems lack genuine understanding
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's consciousness modes as diagnostic for AI phenomenology

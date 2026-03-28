@@ -27,7 +27,7 @@ The article was substantially rewritten on 2026-03-11 (expanded from ~1389 to 16
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink**: `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)` referenced a non-existent file. Corrected to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)`.
+- **Broken wikilink**: `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)` referenced a non-existent file. Corrected to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)`.
 
 ### Medium Issues Found
 - **Falsifiability section removed**: The previous review added this to address the Popperian concern. The rewrite dropped it. **Resolution**: Restored a concise falsifiability section (4 sentences) between "Can Tools Overcome Closure?" and "The Phenomenology of Approaching Closure".

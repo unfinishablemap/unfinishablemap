@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-24 19:24:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -66,11 +66,10 @@ related_articles:
 - '[[the-binding-problem-a-systematic-treatment]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-and-creative-distinctiveness]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[creativity-void]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[mathematical-truth-and-conscious-access]]'
 - '[[phenomenology-of-creative-insight]]'
 - '[[resonance-void]]'
 title: Aesthetics and Consciousness
@@ -160,7 +159,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The five standard varieties of phenomenal binding
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical creativity as the sharpest case for consciousness as causal force
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism

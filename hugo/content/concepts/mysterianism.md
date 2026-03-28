@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-24 21:24:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -18,7 +18,7 @@ concepts:
 - '[[combination-problem]]'
 - '[[introspection]]'
 - '[[decoherence]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[biological-cognitive-closure]]'
 - '[[computational-cognitive-limits]]'
 - '[[cognitive-science-of-dualism]]'
@@ -56,7 +56,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Mysterianism is the view that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
+Mysterianism is the view that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) cannot be solved by human minds—not because consciousness is supernatural but because our cognitive architecture lacks the [epistemological](/concepts/epistemology/) resources to grasp the solution. Colin McGinn formalized this position in 1989 through the concept of "cognitive closure": just as rats cannot do calculus and dogs cannot understand quantum mechanics, humans may be permanently unable to understand how consciousness relates to the brain. The solution might exist; we just can't reach it.
 
 This position occupies important middle ground. Unlike eliminativism, mysterianism takes consciousness seriously as a real phenomenon requiring explanation. Unlike confident physicalism or dualism, it acknowledges the depth of the problem. The position strongly supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: our sense of which explanations are "simple" may reflect our cognitive limitations rather than reality.
 
@@ -108,7 +108,7 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 ## Mathematical Understanding and Cognitive Closure
 
-[Mathematical understanding](/topics/consciousness-and-mathematical-cognition/) provides evidence for cognitive limits. [Computational limits](/voids/computational-cognitive-limits/)—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/), suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [self-reference-paradox](/concepts/self-reference-paradox/) develops this connection explicitly: Gödel's incompleteness, Lawvere's fixed-point theorem, and the transparency of self-modelling all constrain what a system can know about itself.
+[Mathematical understanding](/topics/consciousness-and-mathematics/) provides evidence for cognitive limits. [Computational limits](/voids/computational-cognitive-limits/)—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/), suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [self-reference-paradox](/concepts/self-reference-paradox/) develops this connection explicitly: Gödel's incompleteness, Lawvere's fixed-point theorem, and the transparency of self-modelling all constrain what a system can know about itself.
 
 ## The Phenomenology of Cognitive Closure
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Mathematical Truth and Conscious Access](/topics/mathematical-truth-and-conscious-access/)
+**Article**: [Mathematical Truth and Conscious Access](/topics/consciousness-and-mathematics/)
 **Previous review**: Never (newly coalesced article)
 **Context**: First deep review following coalescence of consciousness-and-the-philosophy-of-mathematics + mathematical-knowledge-and-insight. Primary focus: updating stale cross-references across the site.
 
@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - **MWI tenet phrasing ambiguity** (line 181): "every mathematical conjecture is both proved and unproved across branches" could be misread as claiming mathematical truth values are contingent across branches. Mathematical truths are necessary truths. **Resolution**: Clarified that truths hold across all branches; it is the *act of proving/discovering* that varies.
 - **Strawson attribution** (line 117): "Galen Strawson's 'understanding-experience'" presented a compound term as if it were Strawson's specific coinage. Strawson discusses phenomenology of understanding in *Mental Reality* but the specific compound may not be his exact term. **Resolution**: Rephrased to "What Galen Strawson calls the phenomenology of understanding."
-- **Stale cross-references**: 8 content files + 1 research file + 1 highlights entry still linked to `[mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/)` instead of `[mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/)`. **Resolution**: Updated all references in obsidian content files, frontmatter, and body text.
+- **Stale cross-references**: 8 content files + 1 research file + 1 highlights entry still linked to `[mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/)` instead of `[mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/)`. **Resolution**: Updated all references in obsidian content files, frontmatter, and body text.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: The constitutive account of external validation is asserted as "the best explanation" without fully engaging the common-cause alternative. This is a genuine but low-priority gap—the article does acknowledge competing accounts.

@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-03-27 21:18:00+00:00
+ai_modified: 2026-03-28 01:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[skill-delegation]]'
+- '[[mental-causation]]'
 created: 2026-03-27
 date: &id001 2026-03-27
 description: Human+AI exploration of how mastery actively defends its own opacity—consciousness
@@ -15,7 +16,7 @@ description: Human+AI exploration of how mastery actively defends its own opacit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-28 01:23:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +28,8 @@ related_articles:
 - '[[self-opacity]]'
 - '[[attention-created-voids]]'
 - '[[transition-void]]'
+- '[[choking-phenomenon-mental-causation]]'
+- '[[consciousness-and-skill-acquisition]]'
 title: The Expertise Occlusion
 topics:
 - '[[philosophy-of-mind]]'
@@ -39,9 +42,9 @@ The [broader exploration of how expertise transforms experience](/topics/experti
 
 ## The Scaffolding Paradox
 
-Consciousness appears to function as cognitive scaffolding that dismantles itself once the structure is complete. During skill acquisition, conscious attention is essential—the novice pianist must attend to finger placement, the student driver must deliberately check mirrors, the apprentice surgeon must think through each incision. As mastery develops, conscious oversight withdraws. The skill runs without it.
+Consciousness appears to function as cognitive scaffolding that dismantles itself once the structure is complete. During [skill acquisition](/topics/consciousness-and-skill-acquisition/), conscious attention is essential—the novice pianist must attend to finger placement, the student driver must deliberately check mirrors, the apprentice surgeon must think through each incision. As mastery develops, conscious oversight withdraws through [skill-delegation](/concepts/skill-delegation/)—the three-phase process of calibration, withdrawal, and retained override. The skill runs without it.
 
-This much is uncontroversial. The void emerges from a deeper observation: consciousness does not merely withdraw—it loses the ability to return. Reinvestment theory provides the sharpest evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to choking under pressure. The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles.
+This much is uncontroversial. The void emerges from a deeper observation: consciousness does not merely withdraw—it loses the ability to return. Reinvestment theory provides the sharpest evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [choking under pressure](/topics/choking-phenomenon-mental-causation/). The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles.
 
 The pattern goes beyond gradual fading of an unused capacity—it is an active barrier. Consciousness attempting to re-enter automated territory causes measurable damage to performance. The automated process resists conscious re-entry.
 
@@ -100,6 +103,8 @@ The expertise occlusion engages the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [expertise-void](/topics/expertise-void/) — The broader exploration of how expertise transforms experience
+- [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How the stages of skill acquisition challenge epiphenomenalism
+- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Choking as evidence for mental causation
 - [absorption-void](/voids/absorption-void/) — Peak conscious engagement as peak self-opacity
 - [habituation-void](/voids/habituation-void/) — How familiarity erases experience from consciousness
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — The developmental analogue: maturation as irreversible closure

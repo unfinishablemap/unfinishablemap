@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-26 13:32:00+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,6 @@ related_articles:
 - '[[transparency-void]]'
 - '[[phenomenal-presence-void]]'
 - '[[framework-void]]'
-- '[[cognitive-aversion]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[defended-territory]]'
 title: The Obviousness Void

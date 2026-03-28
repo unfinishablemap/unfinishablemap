@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,6 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[cognitive-aversion]]'
 - '[[affective-void]]'
 - '[[defended-territory]]'
 - '[[self-opacity]]'
@@ -127,7 +126,7 @@ The evidence currently points toward the appetitive void as genuine. The converg
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [cognitive-aversion](/voids/defended-territory/) — Thoughts we systematically flee—the motivational cousin
+- [defended-territory](/voids/defended-territory/) — Thoughts we systematically flee—the motivational cousin
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [defended-territory](/voids/defended-territory/) — Whether some thoughts are actively blocked
 - [introspective opacity](/voids/self-opacity/) — Inaccessibility of cognitive processes

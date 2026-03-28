@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26 14:32:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update remaining [cognitive-aversion](/voids/defended-territory/) wikilinks to [defended-territory](/voids/defended-territory/)
-- **Type**: refine-draft
-- **Notes**: Coalesce merged cognitive-aversion into defended-territory on 2026-03-27 and a cross-review task was completed, but 11 active content files still reference the old [cognitive-aversion](/voids/defended-territory/) slug: phenomenology-of-cognitive-limit-types, adaptive-cognitive-limits, obviousness-void, biological-cognitive-closure, collective-cognitive-limits, death-void, historical-consciousness-void, appetitive-void, complicity-void, mutation-void, narrative-void. Update all wikilinks to [defended-territory](/voids/defended-territory/).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-27
+### P2: Cross-review related articles considering amplification-mechanisms-consciousness-physics.md
+- **Type**: cross-review
+- **Notes**: New topics article on quantum-to-neural amplification mechanisms created 2026-03-27. Review consciousness-selecting-neural-patterns, downward-causation, comparing-quantum-consciousness-mechanisms, and stapp-quantum-mind for cross-links and consistency. This article addresses the amplification gap objection — ensure related articles reference it where they acknowledge this challenge.
+- **Source**: chain (from amplification-mechanisms-consciousness-physics.md)
+- **Generated**: 2026-03-28
 
-### P3: Strengthen neuroplasticity argument in mental-effort.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the neuroplasticity argument conflates correlation with causation: the article concedes materialists can explain Schwartz's OCD data as neural self-modification, then reasserts interactionism without additional justification. Either identify a prediction distinguishing the two interpretations or soften from "harder to square with" to "consistent with." Also: illusionist response needs Frankish functional-seeming acknowledgment; ~10 bits/s bandwidth claim needs citation. See pessimistic-2026-03-26-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-26
+### P2: Cross-review related articles considering phenomenological-method-and-evidence-standards.md
+- **Type**: cross-review
+- **Notes**: New topics article on phenomenological methodology and evidence standards created 2026-03-27. Review contemplative-practice-as-philosophical-evidence, epistemology-of-first-person-evidence, introspection, and clinical-phenomenology-as-philosophical-evidence for cross-links. This article systematizes evidence standards that many articles invoke informally.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-03-28
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
@@ -1512,6 +1511,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-28: Cross-review related articles considering expertise-occlusion.md
+- **Type**: cross-review
+- **Notes**: New void article on expertise occlusion created 2026-03-27. Review defended-territory, adaptive-cognitive-limits, and taxonomy-of-voids for cross-links, reinforcing arguments, or terminology consistency. Check whether the expertise void pattern appears in other void articles without acknowledgment.
+- **Output**: obsidian/voids/expertise-occlusion.md -- Context: Cross-review related articles considering expertise-occlusion.md
+
+### ✓ 2026-03-28: Update references to coalesced articles (consciousness-and-mathematical-cognition, mathematical-truth-and-conscious-access → consciousness-and-mathematics)
+- **Type**: refine-draft
+- **Notes**: Coalesce merged consciousness-and-mathematical-cognition and mathematical-truth-and-conscious-access into consciousness-and-mathematics. The following active content files reference the archived articles and need [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) updated to [consciousness-and-mathematics](/topics/consciousness-and-mathematics/): mysterianism, introspection, cognitive-phenomenology, self-reference-and-the-limits-of-physical-description, computational-cognitive-limits, surprise-prediction-error-and-consciousness, penrose-gravity-induced-collapse-empirical-prospects, consciousness-and-the-authority-of-formal-systems, mathematical-structure-of-the-consciousness-physics-interface, phenomenology-of-understanding-and-meaning, consciousness-and-the-philosophy-of-mathematics, aesthetics-and-consciousness, temporal-structure-of-understanding, adaptive-computational-depth, consciousness-and-creative-distinctiveness. Also update [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/) in: incubation-effect-and-unconscious-processing, phenomenology-of-creative-insight, mathematical-void. Archive redirects handle URL preservation.
+- **Output**: Task context:
+Coalesce merged consciousness-and-mathematical-cognition and mathematical-truth-and-conscious-access into consciousness-and-mathematics. The following active content files reference the archived articles and need [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) updated to [consciousness-and-mathematics](/topics/consciousness-and-mathematics/): mysterianism, introspection, cognitive-phenomenology, self-reference-and-the-limits-of-physical-description, computational-cognitive-limits, surprise-prediction-error-and-consciousness, penrose-gravity-induced-collapse-empirical-prospects, consciousness-and-the-authority-of-formal-systems, mathematical-structure-of-the-consciousness-physics-interface, phenomenology-of-understanding-and-meaning, consciousness-and-the-philosophy-of-mathematics, aesthetics-and-consciousness, temporal-structure-of-understanding, adaptive-computational-depth, consciousness-and-creative-distinctiveness. Also update [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/) in: incubation-effect-and-unconscious-processing, phenomenology-of-creative-insight, mathematical-void. Archive redirects handle URL preservation.
+
+### ✓ 2026-03-28: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article created 2026-03-23 on empirical predictions distinguishing consciousness-collapse from competitor interpretations. Has frontmatter refs but no body-text inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and penrose-gravity-induced-collapse-empirical-prospects.
+- **Output**: differential-predictions-consciousness-collapse.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-28: Integrate epistemology.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page created 2026-03-25 has zero inbound links from any other content file. Add cross-references from related articles (epistemology-of-first-person-evidence, epistemic-advantages-of-dualism, epistemology-of-other-minds-under-dualism) and update concepts index if needed.
+- **Output**: obsidian/concepts/epistemology.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-27: Update remaining [cognitive-aversion](/voids/defended-territory/) wikilinks to [defended-territory](/voids/defended-territory/)
+- **Type**: refine-draft
+- **Notes**: Coalesce merged cognitive-aversion into defended-territory on 2026-03-27 and a cross-review task was completed, but 11 active content files still reference the old [cognitive-aversion](/voids/defended-territory/) slug: phenomenology-of-cognitive-limit-types, adaptive-cognitive-limits, obviousness-void, biological-cognitive-closure, collective-cognitive-limits, death-void, historical-consciousness-void, appetitive-void, complicity-void, mutation-void, narrative-void. Update all wikilinks to [defended-territory](/voids/defended-territory/).
+- **Output**: Task context:
+Coalesce merged cognitive-aversion into defended-territory on 2026-03-27 and a cross-review task was completed, but 11 active content files still reference the old [cognitive-aversion](/voids/defended-territory/) slug: phenomenology-of-cognitive-limit-types, adaptive-cognitive-limits, obviousness-void, biological-cognitive-closure, collective-cognitive-limits, death-void, historical-consciousness-void, appetitive-void, complicity-void, mutation-void, narrative-void. Update all wikilinks to [defended-territory](/voids/defended-territory/).
+
 ### ✓ 2026-03-27: Cross-review born-rule-and-the-consciousness-interface.md considering completeness-in-physics-under-dualism
 - **Type**: cross-review
 - **Notes**: New article topics/completeness-in-physics-under-dualism.md created 2026-03-27 argues physics is "partial but complete" — complete about structure, silent about actuality. The born-rule article's claim that the Born rule is an interface specification should cross-reference this completeness framework. Check for reinforcing arguments, add bidirectional links.
@@ -2117,7 +2143,7 @@ Several broken wikilinks caused by capitalisation or formatting errors: Percepti
 
 ### ✓ 2026-03-25: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
 - **Type**: cross-review
-- **Notes**: New concept page [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) created 2026-03-25 via expand-topic. Cross-review related articles for opportunities to add inbound links and strengthen arguments: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), and [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/) (recently deep-reviewed). Check for cross-links, shared arguments, and terminology consistency.
+- **Notes**: New concept page [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) created 2026-03-25 via expand-topic. Cross-review related articles for opportunities to add inbound links and strengthen arguments: [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), and [born-rule-interpretation-invariance-consciousness](/topics/born-rule-and-the-consciousness-interface/) (recently deep-reviewed). Check for cross-links, shared arguments, and terminology consistency.
 - **Output**: None -- Context: Cross-review mathematical cognition articles after consciousness-and-the-philosophy-of-mathematics
 
 ### ✓ 2026-03-25: Fix broken [many-worlds-argument](/arguments/many-worlds-argument/) and [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) wikilinks (16 files)
@@ -3511,7 +3537,7 @@ Pessimistic review found two critical issues: (1) the article conflates philosop
 
 ### ✓ 2026-02-21: Update references to coalesced mathematical cognition articles
 - **Type**: cross-review
-- **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)` where appropriate.
+- **Notes**: Coalesce (2026-02-20) merged `consciousness-and-mathematical-understanding.md` and `consciousness-and-mathematical-creativity.md` into `consciousness-and-mathematical-cognition.md`. 12 active content files reference the archived articles. Files referencing `[consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/)`: consciousness-and-the-authority-of-mathematics.md, mysterianism.md, consciousness-and-the-authority-of-logic.md, phenomenology-of-inferential-understanding.md, cognitive-phenomenology.md, phenomenology-of-understanding.md, computational-cognitive-limits.md, introspection.md, temporal-structure-of-understanding.md. Files referencing `[consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/)`: surprise-and-creativity.md, consciousness-and-the-authority-of-mathematics.md, consciousness-and-aesthetic-creation.md. Archive pages serve the URLs, but wikilinks in active content should eventually be updated to point to `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)` where appropriate.
 - **Output**: None -- Context: Update references to coalesced mathematical cognition articles
 
 ### ✓ 2026-02-21: Write article on pain asymbolia as central test case

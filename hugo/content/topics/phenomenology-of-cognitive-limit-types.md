@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-26 13:32:00+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[biological-cognitive-closure]]'
-- '[[cognitive-aversion]]'
+- '[[defended-territory]]'
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
 - '[[self-opacity]]'
@@ -69,7 +69,7 @@ An error that persists after you understand it is an error. Visual illusions con
 
 ### Motivated Disinterest
 
-Where frustration announces a limit loudly, motivated disinterest silences the announcement. The thought simply seems boring, irrelevant, or not worth pursuing. Terror management research documents this with death-awareness: subliminal mortality reminders produce measurable behavioural changes without conscious recognition that anything has happened. The deflection precedes awareness. This is the phenomenology of [cognitive-aversion](/voids/defended-territory/) — the slide, the substitution, the glaze — where attention is redirected before the limit is consciously encountered.
+Where frustration announces a limit loudly, motivated disinterest silences the announcement. The thought simply seems boring, irrelevant, or not worth pursuing. Terror management research documents this with death-awareness: subliminal mortality reminders produce measurable behavioural changes without conscious recognition that anything has happened. The deflection precedes awareness. This is the phenomenology of [defended-territory](/voids/defended-territory/) — the slide, the substitution, the glaze — where attention is redirected before the limit is consciously encountered.
 
 ### Dissolving Insight
 

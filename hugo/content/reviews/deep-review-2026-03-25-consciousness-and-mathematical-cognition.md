@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-25
-**Article**: [Consciousness and Mathematical Cognition](/topics/consciousness-and-mathematical-cognition/)
+**Article**: [Consciousness and Mathematical Cognition](/topics/consciousness-and-mathematics/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-consciousness-and-mathematical-cognition/)
 **Review context**: Cross-review against new concept page consciousness-and-the-philosophy-of-mathematics
 

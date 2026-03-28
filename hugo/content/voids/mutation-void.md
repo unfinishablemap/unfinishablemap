@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 01:42:00+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[observation-void]]'
 - '[[thoughts-that-slip-away]]'
-- '[[cognitive-aversion]]'
+- '[[defended-territory]]'
 - '[[self-opacity]]'
 - '[[destabilizing-self-knowledge]]'
 - '[[phenomenology-of-the-edge]]'
@@ -125,7 +125,7 @@ Current evidence favours structural instability. The convergence across contempl
 - [observation-void](/voids/observation-void/) — The broader void where studying consciousness transforms what is studied
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage—related but distinct from mutation
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
-- [cognitive-aversion](/voids/defended-territory/) — Systematic deflection from threatening content—distinct from involuntary transformation
+- [defended-territory](/voids/defended-territory/) — Systematic deflection from threatening content—distinct from involuntary transformation
 - [destabilizing-self-knowledge](/voids/destabilizing-self-knowledge/) — Knowledge that undermines the knower's capacity to hold it
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself—a structural source of mutation

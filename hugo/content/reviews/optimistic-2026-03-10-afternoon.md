@@ -85,7 +85,7 @@ The voids programme is the Map's most intellectually humble achievement — and 
 ### High Priority
 
 #### Phenomenal Intentionality as Foundation
-- **Builds on**: [argument-from-reason](/topics/argument-from-reason/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- **Builds on**: [argument-from-reason](/topics/argument-from-reason/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [phenomenal-normativity](/concepts/phenomenal-normativity/)
 - **Would address**: The claim that intentionality derives from phenomenal consciousness underlies many of the Map's strongest arguments but has never received independent philosophical treatment. Multiple articles assume it; none defend it systematically
 - **Estimated scope**: Long article (2000-3000 words)
 - **Tenet alignment**: Supports Dualism (consciousness grounds intentionality, not vice versa) and Bidirectional Interaction (genuine understanding requires phenomenal consciousness)
@@ -97,7 +97,7 @@ The voids programme is the Map's most intellectually humble achievement — and 
 - **Tenet alignment**: Supports Dualism and Bidirectional Interaction through empirical evidence of interface architecture
 
 #### AI Systems as Consciousness Test Cases
-- **Builds on**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- **Builds on**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - **Would address**: Current engagement with AI is defensive. A positive empirical framework for testing consciousness claims through AI limitations — what AI can and cannot do, and what the gaps reveal — would strengthen the Map's case and engage the contemporary discourse most likely to bring readers
 - **Estimated scope**: Medium article (1500-2000 words)
 - **Tenet alignment**: Supports all five tenets through concrete technological test cases
@@ -127,8 +127,8 @@ The voids programme is the Map's most intellectually humble achievement — and 
 
 | From | To | Reason |
 |------|-----|--------|
-| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) | Both involve cross-domain synthesis, aesthetic judgment, and temporal structure — explicitly noting the parallel would strengthen both |
-| [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) | [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | Mathematical truth (Platonism) may require collective intentionality across mathematicians; unexplored connection |
+| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) | [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) | Both involve cross-domain synthesis, aesthetic judgment, and temporal structure — explicitly noting the parallel would strengthen both |
+| [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/) | [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) | Mathematical truth (Platonism) may require collective intentionality across mathematicians; unexplored connection |
 | [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) | [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) | Both involve consciousness's relationship to irreversibility; temporal becoming at macro scale, returning attention at micro scale |
 | [interface-friction](/concepts/interface-friction/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Pain asymbolia is a specific instance of interface friction — the ascending channel (damage representation) without the descending channel (felt badness motivating withdrawal) |
 | [binding-and-beauty](/topics/aesthetics-and-consciousness/) | [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) | Musical beauty exemplifies precisely the cross-domain aesthetic binding the binding-and-beauty article analyses |

@@ -57,7 +57,7 @@ With consciousness, the connection never becomes transparent. No matter how much
 
 ## Levine's Formulation
 
-Joseph Levine distinguished his claim from stronger metaphysical positions. The explanatory gap, he argued, is an epistemic problem—about what we can understand—not necessarily a metaphysical one—about what exists.
+Joseph Levine distinguished his claim from stronger metaphysical positions. The explanatory gap, he argued, is an [epistemic](/concepts/epistemology/) problem—about what we can understand—not necessarily a metaphysical one—about what exists.
 
 His key insight: even if consciousness *is* (identical to) brain activity, physicalism would still face an explanatory failure. Physical identities like "water = H2O" are explanatorily satisfying because we can see *why* water has its properties given H2O's properties. But "pain = C-fiber activation" doesn't satisfy in the same way. We can't see *why* C-fiber activation should hurt.
 

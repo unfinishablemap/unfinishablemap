@@ -129,7 +129,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 | [perceptual-fidelity-and-the-interface](/topics/perceptual-failure-and-the-interface/) | [interface-friction](/concepts/interface-friction/) | Blur is a specific instance of interface friction made visible |
 | [selection-laws](/concepts/psychophysical-laws/) | [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) | Valence as candidate currency for selection laws |
 | [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) | [binding-problem](/concepts/binding-problem/) | Spatial binding is a specific instance of the general binding problem |
-| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | Mathematical insight as paradigm case of understanding-phenomenology |
+| [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) | [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) | Mathematical insight as paradigm case of understanding-phenomenology |
 
 ## New Concept Pages Needed
 

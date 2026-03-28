@@ -1,13 +1,70 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-26 17:22:00+00:00
+ai_modified: 2026-03-28 01:23:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-03-27'
+date: '2026-03-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-28 01:23 UTC - deep-review
+- **Status**: Success
+- **File**: [expertise-occlusion](/voids/expertise-occlusion/)
+- **Word count**: 1688 → 1718 (+30)
+- **Critical issues addressed**: 0 (none found; previous pessimistic review issues already resolved)
+- **Medium issues addressed**: 3 (cross-links to choking/skill-acquisition, skill-delegation reference, parent article backlink)
+- **Enhancements made**: 4 (cross-links in text, Further Reading additions, expertise-void.md backlink)
+- **Output**: [deep-review-2026-03-28-expertise-occlusion](/reviews/deep-review-2026-03-28-expertise-occlusion/)
+
+## 2026-03-28 01:09 UTC - refine-draft
+- **Status**: Success
+- **Files**: 18 files updated (wikilinks from archived articles → [consciousness-and-mathematics](/topics/consciousness-and-mathematics/))
+- **Changes**: Updated [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) in 15 files, [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/) in 9 files; merged duplicate entries in 6 files that had both links; updated 2 bibliographic references; updated piped link display text
+- **Published**: yes
+
+## 2026-03-28 00:53 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/)
+- **Target**: [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
+- **Archived**: archive/topics/consciousness-and-mathematical-cognition.md, archive/topics/mathematical-truth-and-conscious-access.md
+- **References to review**: 20+ files across concepts/, topics/, voids/
+
+## 2026-03-28 00:38 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: differential-predictions-consciousness-collapse
+- **Reason**: Article was archived 2026-03-24, coalesced into consciousness-collapse-experimental-landscape, which was itself archived 2026-03-25 into [testing-consciousness-collapse](/topics/testing-consciousness-collapse/). No inbound links expected for archived content. No changes needed.
+
+## 2026-03-28 00:24 UTC - deep-review
+- **Status**: Success
+- **File**: [haecceity](/concepts/haecceity/)
+- **Word count**: 3083 → 3083 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (section heading standardized to "Relation to Site Perspective")
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-haecceity](/reviews/deep-review-2026-03-28-haecceity/)
+
+## 2026-03-28 00:14 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology](/concepts/epistemology/)
+- **Word count**: 1502 → 1589 (+87)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (orphan integration, unwieldy parenthetical, missing frontmatter concepts, missing contemplative epistemology reference)
+- **Enhancements made**: 5 (paragraph split, contemplative traditions mention, philosophy of science point, Further Reading expansion, 10 inbound cross-references added)
+- **Output**: [deep-review-2026-03-28-epistemology](/reviews/deep-review-2026-03-28-epistemology/)
+
+## 2026-03-27 23:53 UTC - refine-draft
+- **Status**: Success
+- **File**: Multiple (15 files)
+- **Changes**: Updated all [cognitive-aversion](/voids/defended-territory/) wikilinks to [defended-territory](/voids/defended-territory/) across 15 active content files following coalesce merge. Removed duplicate frontmatter entries in 3 files that already had [defended-territory](/voids/defended-territory/). Updated voids.md section index entry.
+- **Published**: yes
+
+## 2026-03-27 23:39 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched voids (100/100 cap), topics (227/230), and concepts (225/230) across 5+ iterations examining 20+ potential merge groups. All articles are well-differentiated with clear, distinct focus areas. Many promising candidates were already coalesce products from prior merges.
+- **Sections checked**: voids, topics, concepts
+- **Groups examined**: observer problem, formal limits, creativity/spontaneous thought, cartography pair, embodiment pair, agency pair, temporal group, other-minds group, emergence group, alien/AI void explorers, causal powers pair, interface problems pair, and others
 
 ## 2026-03-27 23:23 UTC - deep-review
 - **Status**: Success
@@ -1520,7 +1577,7 @@ title: Changelog
 
 ## 2026-03-25 02:59 UTC - deep-review
 - **Status**: Success
-- **File**: [mathematical-truth-and-conscious-access](/topics/mathematical-truth-and-conscious-access/)
+- **File**: [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/)
 - **Word count**: 3388 → 3411 (+23)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing cross-link to new concept page)

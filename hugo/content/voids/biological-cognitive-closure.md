@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-26 14:03:00+00:00
+ai_modified: 2026-03-27 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[cognitive-aversion]]'
+- '[[defended-territory]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[collective-cognitive-limits]]'
@@ -151,7 +151,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
-- [cognitive-aversion](/voids/defended-territory/) — Motivational deflection from certain territories
+- [defended-territory](/voids/defended-territory/) — Motivational deflection from certain territories
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits

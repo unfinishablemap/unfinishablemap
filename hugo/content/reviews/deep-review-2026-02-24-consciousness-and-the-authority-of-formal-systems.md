@@ -34,7 +34,7 @@ topics: []
 - **Internal tension between formal limits and quantum interaction underdeveloped**: The article simultaneously argues formal systems cannot capture consciousness and that consciousness interfaces with formally described quantum mechanics, addressing this in a single sentence. Resolution: Developed into a full argument using the authority/sovereignty distinction and a gravity analogy.
 - **Category error vs cognitive closure too thin**: Single sentence choosing category error without argument. Resolution: Added sentences explaining the distinction and why the Galilean precedent supports category error.
 - **Opening paragraph "not X but Y" construction**: "These are not two separate observations but two faces..." follows the prohibited negative-positive pattern. Resolution: Rephrased to lead with positive claim.
-- **Stale related_articles**: Two archived articles still in frontmatter and Further Reading. Resolution: Updated to point to coalesced replacement `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)`.
+- **Stale related_articles**: Two archived articles still in frontmatter and Further Reading. Resolution: Updated to point to coalesced replacement `[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)`.
 - **Frontmatter inconsistency**: `[materialism](/concepts/materialism/)` used path prefix unlike other concepts. Resolution: Changed to `[materialism](/concepts/materialism/)`.
 
 ### Counterarguments Considered
@@ -72,7 +72,7 @@ topics: []
 - [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits parallel
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — why we judge consciousness resists formal explanation
 - [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) — what kind of law bridges mind and matter
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — replaced two stale archived-article links
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — replaced two stale archived-article links
 
 ## Remaining Items
 

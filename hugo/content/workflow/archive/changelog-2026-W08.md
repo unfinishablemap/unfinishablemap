@@ -774,7 +774,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 07:39 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- **File**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)
 - **Word count**: 3495 → 3505 (+10)
 - **Critical issues addressed**: 2 (Strawson misattribution, broken wikilinks)
 - **Medium issues addressed**: 4 (unsupported jhāna claim, prajñā overreach, missing system reply, functionalism tension)
@@ -1988,7 +1988,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-20 09:36 UTC - coalesce
 - **Status**: Success
 - **Sources**: Consciousness And Mathematical Understanding, Consciousness And Mathematical Creativity
-- **Target**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/)
+- **Target**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)
 - **Archived**: Consciousness And Mathematical Understanding, Consciousness And Mathematical Creativity
 - **References to review**: 12 active content files
 

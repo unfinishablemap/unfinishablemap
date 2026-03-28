@@ -140,7 +140,7 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has phenomenal character
 - [phenomenal-intentionality](/concepts/intentionality/) — How phenomenal consciousness grounds aboutness
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical inference as paradigm case
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Mathematical inference as paradigm case
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness

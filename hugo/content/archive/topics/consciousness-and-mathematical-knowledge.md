@@ -147,7 +147,7 @@ This is what dualism predicts: a genuine but limited faculty of mathematical per
 
 ## Further Reading
 
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — The cognitive processes and phenomenology of mathematical thinking
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — The cognitive processes and phenomenology of mathematical thinking
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) — The felt character of mathematical understanding
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension

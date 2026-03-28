@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Consciousness and Mathematical Cognition](/topics/consciousness-and-mathematical-cognition/)
+**Article**: [Consciousness and Mathematical Cognition](/topics/consciousness-and-mathematics/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-consciousness-and-mathematical-cognition/)
 
 ## Pessimistic Analysis Summary

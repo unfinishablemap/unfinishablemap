@@ -63,7 +63,7 @@ New inbound `related_articles` links added:
 - [epistemic-emotions](/concepts/epistemic-emotions/) — the surprise article discusses epistemic emotions extensively in reorientation and creative phases
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — covers Poincare and incubation phases that the surprise article analyses phenomenologically
 - [predictive-processing](/concepts/predictive-processing/) — core concept page; the surprise article builds its entire argument on PP's explanatory gap
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — discusses mathematical insight and surprise; the Poincare/Hadamard examples appear in both articles
+- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — discusses mathematical insight and surprise; the Poincare/Hadamard examples appear in both articles
 
 ## Remaining Items
 

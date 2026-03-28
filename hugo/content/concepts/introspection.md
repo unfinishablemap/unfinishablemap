@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-28 01:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[decoherence]]'
 - '[[self-opacity]]'
-- '[[consciousness-and-mathematical-cognition]]'
+- '[[consciousness-and-mathematics]]'
 - '[[cognitive-phenomenology]]'
 - '[[pre-conceptual-knowing]]'
 - '[[causal-interface]]'
@@ -42,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Introspection is our primary access to conscious experience, yet its reliability is widely contested. Critics argue that we routinely confabulate explanations for decisions we never made and remain blind to the causal processes shaping our thoughts. Defenders respond that these critiques target the wrong domain: we may lack access to cognitive *processes*, but phenomenal *content*—what it is like to see red or feel pain—remains accessible. Meditation experience predicts greater introspective accuracy, and rigorous methods can minimize confabulation. The debate matters because any account of consciousness that takes first-person data seriously must address whether those data can be trusted.
+Introspection is our primary [epistemic](/concepts/epistemology/) access to conscious experience, yet its reliability is widely contested. Critics argue that we routinely confabulate explanations for decisions we never made and remain blind to the causal processes shaping our thoughts. Defenders respond that these critiques target the wrong domain: we may lack access to cognitive *processes*, but phenomenal *content*—what it is like to see red or feel pain—remains accessible. Meditation experience predicts greater introspective accuracy, and rigorous methods can minimize confabulation. The debate matters because any account of consciousness that takes first-person data seriously must address whether those data can be trusted.
 
 ## The Case Against Introspection
 
@@ -128,11 +128,11 @@ Introspective judgments converge on the anterior prefrontal cortex (aPFC). Trans
 
 ## Mathematical Understanding: A Test Case
 
-[Mathematical understanding](/topics/consciousness-and-mathematical-cognition/) provides a test case where introspection can be externally validated. Mathematicians distinguish verification (checking steps) from understanding (grasping *why* the proof works) from insight (the sudden solution). These stages have different phenomenal character that trained reasoners reliably identify.
+[Mathematical understanding](/topics/consciousness-and-mathematics/) provides a test case where introspection can be externally validated. Mathematicians distinguish verification (checking steps) from understanding (grasping *why* the proof works) from insight (the sudden solution). These stages have different phenomenal character that trained reasoners reliably identify.
 
 Unlike many introspective reports, mathematical understanding couples to performance. Those who report genuine insight can extend proofs, detect errors, and apply understanding to novel cases. This coupling provides the external check the calibration problem demands.
 
-The mathematical case sharpens the illusionist regress: when illusionists grasp why eliminativism follows from their premises, that grasp is either genuinely phenomenal (undermining their position) or it isn't (undermining their confidence). See [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) for extended treatment.
+The mathematical case sharpens the illusionist regress: when illusionists grasp why eliminativism follows from their premises, that grasp is either genuinely phenomenal (undermining their position) or it isn't (undermining their confidence). See [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) for extended treatment.
 
 ## The Unobservable Self: Introspection's Deepest Limit
 
@@ -171,7 +171,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How linguistic mediation shapes what introspection can access
 - [self-reference paradox](/voids/self-opacity/) — The structural impossibility of observing the observer
 - [causal-interface](/voids/causal-interface/) — The void where process access fails most dramatically
-- [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as paradigmatic introspective content
+- [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as paradigmatic introspective content
 - [phenomenology](/concepts/phenomenology/) — The tradition most committed to first-person investigation
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integrating trained observation with neuroscience
 - [qualia](/concepts/qualia/) — The phenomenal properties introspection accesses

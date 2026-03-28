@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-25
-**Article**: [Mathematical Truth and Conscious Access](/topics/mathematical-truth-and-conscious-access/)
+**Article**: [Mathematical Truth and Conscious Access](/topics/consciousness-and-mathematics/)
 **Previous review**: [2026-03-24](/reviews/deep-review-2026-03-24-mathematical-truth-and-conscious-access/)
 **Context**: Cross-review considering the new [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) concept page created 2026-03-25.
 
