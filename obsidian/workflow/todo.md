@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering phenomenological-method-and-evidence-standards.md
-- **Type**: cross-review
-- **Notes**: New topics article on phenomenological methodology and evidence standards created 2026-03-27. Review contemplative-practice-as-philosophical-evidence, epistemology-of-first-person-evidence, introspection, and clinical-phenomenology-as-philosophical-evidence for cross-links. This article systematizes evidence standards that many articles invoke informally.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-03-28
-
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
 - **Status**: pending
@@ -1503,6 +1497,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-28: Cross-review related articles considering phenomenological-method-and-evidence-standards.md
+- **Type**: cross-review
+- **Notes**: New topics article on phenomenological methodology and evidence standards created 2026-03-27. Review contemplative-practice-as-philosophical-evidence, epistemology-of-first-person-evidence, introspection, and clinical-phenomenology-as-philosophical-evidence for cross-links. This article systematizes evidence standards that many articles invoke informally.
+- **Output**: obsidian/topics/phenomenological-method-and-evidence-standards.md -- Context: Cross-review related articles considering phenomenological-method-and-evidence-standards.md
 
 ### ✓ 2026-03-28: Cross-review related articles considering amplification-mechanisms-consciousness-physics.md
 - **Type**: cross-review
