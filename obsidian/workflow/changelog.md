@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 09:01 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal concepts strategy as strongest materialist response to dualist arguments
+- **Output**: [[research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29]]
+- **Sources consulted**: 11
+
 ## 2026-03-29 08:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/combination-problem]]

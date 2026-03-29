@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Pessimistic review flagged that materialism.md gives the phenomenal concepts strategy (Loar, Papineau, Balog) dismissive four-sentence treatment despite being the most sophisticated materialist response to the knowledge argument and explanatory gap. Research: (1) Loar's phenomenal concepts as recognitional concepts; (2) Papineau's quotational model; (3) Balog's phenomenal concept strategy; (4) Chalmers' "The Two-Dimensional Argument Against Materialism" as response; (5) How the Map should engage with this rather than dismiss it. Intellectual honesty requires engaging strongest objections. Target: research note to improve materialism.md and knowledge-argument treatment.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-29
-
 ### P3: Deep review experimental-consciousness-science-2025-2026.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1658,6 +1651,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
+- **Type**: research-topic
+- **Notes**: Pessimistic review flagged that materialism.md gives the phenomenal concepts strategy (Loar, Papineau, Balog) dismissive four-sentence treatment despite being the most sophisticated materialist response to the knowledge argument and explanatory gap. Research: (1) Loar's phenomenal concepts as recognitional concepts; (2) Papineau's quotational model; (3) Balog's phenomenal concept strategy; (4) Chalmers' "The Two-Dimensional Argument Against Materialism" as response; (5) How the Map should engage with this rather than dismiss it. Intellectual honesty requires engaging strongest objections. Target: research note to improve materialism.md and knowledge-argument treatment.
+- **Output**: phenomenal concepts strategy as strongest materialist response to dualist arguments
 
 ### ✓ 2026-03-29: Research testable predictions distinguishing consciousness-collapse from standard decoherence
 - **Type**: research-topic
