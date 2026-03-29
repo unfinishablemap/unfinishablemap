@@ -1628,6 +1628,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-28
 
+### P3: Write article on the phenomenology of absence as cross-cutting theme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles independently identify absence as consciousness's most revealing feature (absent self, absent content, absent subject-object division, absent transparency, absent self-knowledge). A dedicated article systematising this pattern would unify the phenomenological programme. Builds on convergent-phenomenological-evidence, self-reference-paradox, phenomenal-transparency, buddhism-and-dualism, apophatic-approaches. Target section: topics/. See optimistic-2026-03-29.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Write article on bandwidth constraints as architectural prediction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The ~10 bits/second bandwidth figure appears across multiple articles as a constraint on conscious selection. A dedicated treatment formalising what this predicts about attention, decision-making, skill acquisition, and effort phenomenology would transform a scattered observation into a research programme. Builds on consciousness-selecting-neural-patterns, free-will, the Interface Specification Programme apex. Target section: topics/. See optimistic-2026-03-29.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links between convergence cluster and phenomenology articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: convergent-phenomenological-evidence → self-reference-paradox (absence as revealing feature), phenomenal-transparency → buddhism-and-dualism (deconstruction as transparency disruption), pragmatisms-path-to-dualism → consciousness-and-integrated-information (reflexive argument attacks identity thesis), epistemology-of-convergence-arguments → neurophenomenology-and-contemplative-neuroscience (methodology for empirically tractable convergence), free-will → consciousness-selecting-neural-patterns (domain-independent architecture implements via quantum selection), phenomenal-normativity-environmental-ethics → buddhism-and-dualism (karma as phenomenal normativity in action). See optimistic-2026-03-29.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
 ## Completed Tasks
 
 
