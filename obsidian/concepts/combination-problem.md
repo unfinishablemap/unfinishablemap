@@ -4,7 +4,7 @@ description: "If electrons have micro-experiences, how do billions combine into 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-12T03:53:00+00:00
+ai_modified: 2026-03-29T08:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-06T08:26:00+00:00
+last_deep_review: 2026-03-29T08:48:00+00:00
 ---
 
 The combination problem is the central challenge facing [[panpsychism]]—the view that consciousness is fundamental and ubiquitous. If electrons have micro-experiences, how do billions of them combine into the unified consciousness of a human being? William James called this "the most peculiar puzzle" of the mind-dust theory, and it remains unsolved. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] avoids the problem entirely by denying that matter has micro-experiences in the first place.
@@ -116,6 +116,8 @@ The combination problem is not just a technical difficulty—it threatens panpsy
 
 Panpsychism aimed to avoid the hard problem of consciousness: the seeming impossibility of experience emerging from non-experiential matter. But if the combination problem is equally intractable, panpsychism hasn't made progress. We've traded "how does experience arise from non-experience?" for "how do micro-experiences combine into macro-experience?"
 
+The deeper issue is [[phenomenal-non-compositionality]]: consciousness simply does not compose the way physical properties do. Two masses combine into a larger mass; two perspectives do not merge into a third perspective. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
+
 Chalmers acknowledges this: "The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."
 
 The structurally similar challenge at a different level suggests that the gap between physical and phenomenal may be irreducible—whether we posit consciousness at the bottom or not.
@@ -188,6 +190,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[topics/free-will]] — Mental causation implications of the interaction alternative
 - [[hard-problem-of-consciousness]] — The problem panpsychism aimed to solve
 - [[qualia]] — What must combine (or not)
+- [[phenomenal-non-compositionality]] — Why consciousness resists composition categorically
 - [[consciousness-and-the-metaphysics-of-individuation]] — The complementary problem: what draws boundaries around discrete subjects
 - [[indexical-void]] — Why *this* unified subject exists rather than another
 - [[tenets]] — the Map's foundational commitments
