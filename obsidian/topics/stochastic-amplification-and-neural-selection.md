@@ -4,7 +4,7 @@ description: "Thermal noise in neural systems can amplify weak conscious biases 
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-29T12:56:00+00:00
+ai_modified: 2026-03-29T13:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-29T13:27:00+00:00
 ---
 
 The brain is noisy, and this noise may be essential to how consciousness acts on matter. The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases quantum-indeterminate outcomes with the smallest possible influence. A persistent difficulty for this proposal is scale: how does a bias at the quantum level—energies of order 10⁻²⁰ joules—produce macroscopic neural effects a trillion times larger? Stochastic amplification offers an answer. Neural systems operate near critical thresholds where thermal noise is not merely tolerated but functionally exploited. In such regimes, a weak bias need not overpower the system—it need only tilt probabilities at points where noise is already doing the heavy lifting.
@@ -40,11 +40,11 @@ This article examines three convergent mechanisms—stochastic resonance, self-o
 
 Stochastic resonance (SR) is the counterintuitive phenomenon where adding noise to a nonlinear system improves the detection of weak signals. First demonstrated in climate models (Benzi et al., 1981), SR has since been confirmed across biological systems—including neural tissue. The mechanism requires three elements: a subthreshold signal, a nonlinear threshold, and noise of appropriate intensity. When the noise is too weak, the signal remains undetected. When too strong, it overwhelms the signal. At an intermediate optimum, noise pushes the weak signal over the threshold, producing reliable detection.
 
-Neural SR has been demonstrated experimentally in multiple sensory modalities. Mechanoreceptors in crayfish detect weaker stimuli with added noise (Douglass et al., 1993). Human balance improves with vibrotactile noise applied to the soles of the feet (Priplata et al., 2003). Cortical neurons exhibit SR in spike-timing precision (Mainen & Sejnowski, 1995). The phenomenon is not an artefact but a feature—evolution has tuned neural systems to exploit ambient noise for signal detection.
+Neural SR has been demonstrated experimentally in multiple sensory modalities. Mechanoreceptors in crayfish detect weaker stimuli with added noise (Douglass et al., 1993). Human balance improves with vibrotactile noise applied to the soles of the feet (Priplata et al., 2003). Cortical neurons produce more reliable spike timing when driven by fluctuating inputs than by steady currents (Mainen & Sejnowski, 1995), demonstrating that noise enhances neural signal processing. The phenomenon is not an artefact but a feature—evolution has tuned neural systems to exploit ambient noise for signal detection.
 
 For the Map's framework, SR provides a specific physical mechanism for the first link in the amplification chain. If consciousness provides a weak bias on quantum-indeterminate outcomes—a subthreshold signal in neural terms—then thermal noise at the molecular and synaptic level could push that bias over detection thresholds in individual neurons. The bias need not be strong enough to fire a neuron on its own. It need only be detectable by a system already primed to extract weak signals from noise.
 
-The distinction from other amplification proposals is important. Microtubule-mediated collapse (Penrose-Hameroff) requires quantum coherence to persist in neural tissue—exposing the model to the [[decoherence|decoherence objection]]. The quantum Zeno effect (Stapp) requires consciousness to operate as a rapid observer of quantum states. Stochastic resonance imposes neither requirement. It operates on classical noise amplifying a weak bias, whatever the origin of that bias. If [[post-decoherence-selection|post-decoherence selection]] is how consciousness acts—biasing which element of a decohered mixture becomes actual—then SR provides the mechanism by which that bias propagates into detectable neural effects.
+The distinction from other amplification proposals is important. Microtubule-mediated collapse (Penrose-Hameroff) requires quantum coherence to persist in neural tissue—exposing the model to the [[decoherence|decoherence objection]]. The quantum Zeno effect (Stapp) requires consciousness to operate as a rapid observer of quantum states. Stochastic resonance imposes neither requirement. It operates on classical noise amplifying a weak bias, whatever the origin of that bias. Crucially, the bias need not inject energy—it tilts probabilities, consistent with [[conservation-laws-and-mental-causation|conservation-law constraints on mental causation]]. If [[post-decoherence-selection|post-decoherence selection]] is how consciousness acts—biasing which element of a decohered mixture becomes actual—then SR provides the mechanism by which that bias propagates into detectable neural effects.
 
 ## Self-Organized Criticality as Neural Amplifier
 
@@ -54,7 +54,7 @@ Neural tissue exhibits SOC signatures. Beggs and Plenz (2003) discovered *neuron
 
 Criticality provides a natural bridge between scales. At the critical point, perturbations at any scale have a non-negligible probability of producing effects at much larger scales—precisely the property needed to amplify quantum-level biases to neural-network effects. A quantum bias acting on a single synapse, amplified by SR to a detectable neural signal, could trigger an avalanche spanning cortical columns or larger networks. The power-law distribution means that while most such cascades remain local, some propagate across behaviourally relevant spatial scales.
 
-Recent work linking SOC to quantum coherence in microtubule networks (2025 MDPI study) suggests these are not independent mechanisms but coupled dynamics. Critical network behaviour could regulate quantum states at the tubulin level, while quantum effects could influence which avalanches initiate. Whether or not the microtubule-specific proposal survives scrutiny, the general principle holds: systems at criticality are maximally sensitive to small perturbations, making them natural amplifiers for any weak input—including conscious bias.
+Some proposals suggest that SOC and quantum effects in neural tissue are not independent but coupled dynamics—critical network behaviour could regulate quantum states at the molecular level, while quantum effects could influence which avalanches initiate. Whether or not such coupling exists, the general principle holds: systems at criticality are maximally sensitive to small perturbations, making them natural amplifiers for any weak input—including conscious bias.
 
 ## Threshold-Crossing and Neural Competition
 
@@ -119,6 +119,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies because the
 - [[consciousness-as-amplifier|Consciousness as Intelligence Amplifier]]
 - [[quantum-biology-and-neural-mechanisms|Quantum Biology and Neural Mechanisms]]
 - [[stapp-quantum-mind]]
+- [[comparing-quantum-consciousness-mechanisms|Comparing Quantum Consciousness Mechanisms]]
+- [[conservation-laws-and-mental-causation|Conservation Laws and Mental Causation]]
+- [[contextual-selection-in-quantum-foundations|Contextual Selection in Quantum Foundations]]
 
 ## References
 
