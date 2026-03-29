@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on testable predictions distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Systematic prediction-by-prediction catalogue of where consciousness-collapse parts ways with standard decoherence: Gran Sasso constraints, Frauchiger-Renner challenge, differential signatures in collapse timing, amplification thresholds. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) by making empirical commitments explicit. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Write article on phenomenal authority and the epistemic weight of first-person reports
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Distinguishes three layers of phenomenal authority (occurrence, character, nature) and synthesises the epistemic weight question across analytic epistemology, clinical phenomenology, and contemplative traditions. Complements existing epistemology-of-first-person-evidence but provides dedicated treatment the existing article doesn't develop. Supports Tenet 1 (Dualism) by grounding the evidential status of consciousness reports. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Write article on evaluative qualia and phenomenal normativity across traditions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. Cross-traditional synthesis covering Buddhist vedanā, Confucian qing, Indian rasa, Islamic ilm al-huduri, and 2025 analytic work (Dimitrov) converging on phenomenal valence as irreducible. Extends existing concept stubs evaluative-qualia and phenomenal-normativity into a full topics-level treatment. Strengthens the convergence argument across independent traditions. Target section: topics/ (227/230, 3 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Integrate phenomenal-concepts-as-materialist-response.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-03-29 with zero inbound links. Already deep-reviewed. Natural candidates for back-links: concepts/phenomenal-concepts-strategy.md, topics/arguments-against-materialism.md, topics/hard-problem-of-consciousness.md, topics/materialism.md, concepts/knowledge-argument.md. Add cross-references from the most thematically related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-29
+
+### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Article coalesced today (2026-03-29) — absorbed stochastic-amplification-and-neural-selection.md. Never deep-reviewed after the merge. Verify the coalesce preserved coherence, eliminated redundancy from the merge, and maintains consistent terminology. Check cross-references to amplification-void, motor-selection, post-decoherence-selection, consciousness-as-amplifier, and tenet alignment (Tenets 2 and 3).
+- **Source**: staleness
+- **Generated**: 2026-03-29
+
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
 - **Status**: pending
