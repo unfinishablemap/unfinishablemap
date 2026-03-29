@@ -4,7 +4,7 @@ description: "Quantum contextuality means measurement outcomes depend on what el
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-29T17:12:00+00:00
+ai_modified: 2026-03-29T17:34:00+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[weak-measurement-and-post-selection]]"
+  - "[[quantum-indeterminacy-free-will]]"
 related_articles:
   - "[[tenets]]"
   - "[[amplification-mechanisms-consciousness-physics]]"
@@ -27,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-03-29T16:11:00+00:00
+last_deep_review: 2026-03-29T17:34:00+00:00
 ---
 
 Contextual selection is the principle that quantum measurement outcomes cannot be assigned independently of the broader measurement context. The Kochen-Specker theorem (1967) proves that no assignment of definite values to all observables can be both consistent and context-independent—what result obtains for a given observable depends on which other observables are measured alongside it. For The Unfinishable Map's [[interactionist-dualism|interactionist framework]], this carries a direct implication: if [[consciousness-selecting-neural-patterns|consciousness selects among quantum outcomes]], it does not pick from a pre-existing menu of fixed values. The act of selection and the context in which it occurs are inseparable.
@@ -46,7 +47,7 @@ The immediate target of the Kochen-Specker theorem was non-contextual hidden-var
 
 Contextuality constrains any account of how definite outcomes arise. The [[measurement-problem|measurement problem]] asks why one outcome obtains from a superposition. The [[post-decoherence-selection|post-decoherence selection]] gap identifies where this occurs. Contextuality adds a structural requirement: whatever selects the outcome must be sensitive to the full measurement context, not just the target observable in isolation.
 
-Spekkens (2005) generalized contextuality beyond the Kochen-Specker setting to *preparation contextuality* and *transformation contextuality*, showing that context-dependence pervades quantum theory at every stage—not just measurement. Operationally equivalent preparations can lead to different statistical predictions when embedded in different experimental procedures. This suggests that contextuality is not an artefact of measurement but a feature of how quantum systems relate to the conditions under which they are probed.
+Spekkens (2005) generalized contextuality beyond the Kochen-Specker setting to *preparation contextuality* and *transformation contextuality*, showing that context-dependence pervades quantum theory at every stage—not just measurement. Operationally equivalent preparations can lead to different statistical predictions when embedded in different experimental procedures. This suggests that contextuality is not an artefact of measurement but a feature of how quantum systems relate to the conditions under which they are probed. For the Map's framework, preparation contextuality is particularly significant: if consciousness influences how neural quantum states are maintained or prepared—through attention, intention, or effort—that preparation is itself context-dependent, adding another layer to the interaction between mind and quantum dynamics.
 
 ## Implications for Consciousness-Mediated Selection
 
@@ -58,6 +59,8 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 **Attention as context-setting.** Stapp's quantum Zeno framework, in which conscious attention holds a preferred neural pattern by repeatedly "asking" the same quantum question, gains additional structure when read through contextuality. The Map's interpretation: contextuality implies that *which question is asked* matters fundamentally—different questions (different measurement contexts) make different outcomes available. Mental attention does not merely select from a fixed set of answers; it participates in determining what questions the brain's quantum dynamics poses. This gives consciousness a richer role than simple outcome-selection: it shapes the context within which selection occurs.
 
+**Differentiating quantum consciousness mechanisms.** Contextuality provides a structural criterion for [[comparing-quantum-consciousness-mechanisms|comparing quantum consciousness mechanisms]]. Proposals differ in how they handle measurement context: Orch OR locates contextuality in microtubule geometry, Stapp's Zeno approach locates it in the choice of measurement operator, and the Map's post-decoherence selection framework treats the decohered basis itself as the context within which consciousness acts. The contextual structure each proposal assumes shapes its predictions and vulnerabilities.
+
 **Compatibility with post-decoherence selection.** [[decoherence|Decoherence]] selects a preferred basis—the pointer states that survive environmental interaction. This basis selection is itself context-dependent, determined by the system-environment interaction Hamiltonian. Post-decoherence selection then actualizes one outcome from the decohered mixture. Contextuality means these two stages interact: the decoherence context shapes which pointer states exist, and the selection context (potentially involving consciousness) determines which pointer state becomes actual. The full process is not two independent steps but a context-sensitive whole.
 
 **Contextuality survives decoherence.** A natural objection is that decoherence destroys quantum effects so rapidly in warm neural tissue that contextuality becomes irrelevant at biological scales. But contextuality constrains which *outcomes are available*, not which coherences persist. The Kochen-Specker result applies to the algebraic structure of observables regardless of whether the system is in a pure or mixed state. Even after decoherence has eliminated off-diagonal terms and produced a classical-looking mixture, the fact that no context-independent value assignment exists still holds. What changes is the set of practically distinguishable outcomes—and it is precisely this decohered set that [[post-decoherence-selection|post-decoherence selection]] acts upon. Contextuality constrains the selection space; decoherence constrains what survives to be selected. The two are complementary, not competing.
@@ -66,7 +69,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 ## Contextuality and Free Will
 
-If consciousness shapes the measurement context and selects within it, contextuality provides structural support for [[topics/free-will|libertarian free will]] within the Map's framework. The selection is not arbitrary (it is constrained by the context physics provides) and not determined (physics leaves the outcome open within the decohered mixture). Consciousness operates in the gap—but a gap whose shape depends on context.
+If consciousness shapes the measurement context and selects within it, contextuality provides structural support for [[topics/free-will|libertarian free will]] within the Map's framework (see [[quantum-indeterminacy-free-will|Quantum Indeterminacy and Free Will]] for the full argument). The selection is not arbitrary (it is constrained by the context physics provides) and not determined (physics leaves the outcome open within the decohered mixture). Consciousness operates in the gap—but a gap whose shape depends on context.
 
 This avoids both horns of the determinism-randomness dilemma that plagues libertarian accounts. The selection is not random, because consciousness biases it toward outcomes that serve the agent's reasons and intentions. It is not determined, because quantum mechanics leaves the outcome open. And it is not context-free, because the Kochen-Specker result guarantees that the outcome depends on the full measurement situation. What makes this genuine agency rather than sophisticated coin-flipping is that the bias is *rational*—consciousness selects in light of meaning, not merely in light of probability. Contextual selection gives consciousness something to work with that is neither a fixed script nor pure noise, and something to work *for* that physics alone cannot specify.
 

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review contextual-selection-in-quantum-foundations.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Concept page on contextual selection as a mechanism for consciousness-physics interaction within quantum foundations. Verify accuracy of contextuality claims (Kochen-Specker, Bell), coherence, cross-references to quantum-indeterminacy-free-will and post-decoherence-selection, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1665,6 +1658,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review contextual-selection-in-quantum-foundations.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Concept page on contextual selection as a mechanism for consciousness-physics interaction within quantum foundations. Verify accuracy of contextuality claims (Kochen-Specker, Bell), coherence, cross-references to quantum-indeterminacy-free-will and post-decoherence-selection, and tenet alignment.
+- **Output**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
 
 ### ✓ 2026-03-29: Update references to coalesced stochastic-amplification-and-neural-selection
 - **Type**: cross-review
