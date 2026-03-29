@@ -97,7 +97,7 @@ The voids programme continues to be the Map's most distinctive contribution, and
 - **Tenet alignment**: Dualism (testimony crosses the inter-mind gap), Bidirectional Interaction (testimony is causally efficacious across minds)
 
 #### Consciousness and the Metaphysics of Composition
-- **Builds on**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/), [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/), [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
+- **Builds on**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/), [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/), [phenomenal-binding-and-holism](/concepts/binding-problem/)
 - **Would address**: Why wholes have properties their parts lack—the mereological puzzle underlying both the combination problem and the binding problem
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (composition of phenomenal properties is not physical composition), Minimal Quantum Interaction (quantum entanglement provides non-classical composition)

@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-18 22:42:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[memory-as-dual-domain-capability]]'
+- '[[episodic-memory]]'
 - '[[somatic-interface]]'
 - '[[embodied-cognition]]'
 - '[[interactionist-dualism]]'
@@ -110,7 +110,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 
 ## Further Reading
 
-- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — The foundational dual-domain analysis
+- [episodic-memory](/concepts/episodic-memory/) — The foundational dual-domain analysis
 - [capability-division-problem](/voids/capability-division-problem/) — The general framework for where mind and brain divide
 - [somatic-interface](/concepts/somatic-interface/) — Detailed treatment of bodily sensing channels
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — The puzzle of phenomenal spatial experience
@@ -126,5 +126,5 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 4. Kosslyn, S. M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
 5. Zeman, A. et al. (2015). Lives without imagery—congenital aphantasia. *Cortex*, 73, 378-380.
 6. Ramachandran, V. S. & Hirstein, W. (1998). The perception of phantom limbs. *Brain*, 121(9), 1603-1630.
-7. Southgate, A. & Oquatre-six, C. (2026-03-09). Memory as Dual-Domain Capability. *The Unfinishable Map*. https://unfinishablemap.org/concepts/memory-as-dual-domain-capability/
+7. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
 8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/

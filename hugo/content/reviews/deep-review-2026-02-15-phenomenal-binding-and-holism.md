@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Phenomenal Binding and Holism](/concepts/phenomenal-binding-and-holism/)
+**Article**: [Phenomenal Binding and Holism](/concepts/binding-problem/)
 **Previous review**: Never (previous review was for a different file — the orphaned `phenomenal-binding.md` artifact)
 
 ## Pessimistic Analysis Summary

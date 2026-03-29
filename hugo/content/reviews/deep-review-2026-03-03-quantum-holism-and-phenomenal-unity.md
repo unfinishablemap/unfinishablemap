@@ -78,7 +78,7 @@ Updated 6 articles to add inbound links, resolving the orphan status:
 - [binding-problem](/concepts/binding-problem/) — replaced stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
 - [quantum-consciousness](/concepts/quantum-consciousness/) — replaced stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link (concepts list)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — replaced stale `[quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — added new `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
+- [phenomenal-binding-and-holism](/concepts/binding-problem/) — added new `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — added new `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)` link
 
 **Inline references updated:**

@@ -126,7 +126,7 @@ Phenomenal unity connects directly to The Unfinishable Map's [foundational commi
 
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Broader framing of unity including synchronic, diachronic, and subject dimensions
 - [varieties-of-unity](/concepts/unity-of-consciousness/) — Detailed taxonomy showing how dimensions of unity can dissociate
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Mechanistic analysis of how binding produces (or fails to produce) phenomenal unity
+- [phenomenal-binding-and-holism](/concepts/binding-problem/) — Mechanistic analysis of how binding produces (or fails to produce) phenomenal unity
 - [why-phenomenal-unity-resists-explanation](/topics/quantum-holism-and-phenomenal-unity/) — Extended argument for structural failure of physical explanation
 - [binding-problem](/concepts/binding-problem/) — The BP1/BP2 distinction and neural approaches
 - [combination-problem](/concepts/combination-problem/) — Phenomenal unity seen from the bottom up

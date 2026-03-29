@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-23 23:44:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ modified: *id001
 related_articles:
 - '[[dualist-perception]]'
 - '[[smoothness-problem]]'
-- '[[memory-as-dual-domain-capability]]'
+- '[[episodic-memory]]'
 - '[[dream-consciousness]]'
 - '[[lucid-dreaming-and-dualist-rendering]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
@@ -101,7 +101,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 ## Further Reading
 
 - [smoothness-problem](/voids/smoothness-problem/) — The temporal instance of capability division
-- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory as requiring both brain-side and mind-side contributions
+- [episodic-memory](/concepts/episodic-memory/) — Memory as requiring both brain-side and mind-side contributions
 - [dream-consciousness](/topics/dream-consciousness/) — How the division shifts across waking and dreaming
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as clean evidence for capability division: architecture vs content
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — The interface's operational grammar

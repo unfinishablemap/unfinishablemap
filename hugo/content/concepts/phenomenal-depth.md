@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-17 03:43:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
 - '[[phenomenal-overflow]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[phenomenal-transparency]]'
 - '[[access-consciousness]]'
 - '[[explanatory-gap]]'
@@ -94,7 +94,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
 - [phenomenal-overflow](/concepts/phenomenal-overflow/)
 - [qualia](/concepts/qualia/)
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
+- [binding-problem](/concepts/binding-problem/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)

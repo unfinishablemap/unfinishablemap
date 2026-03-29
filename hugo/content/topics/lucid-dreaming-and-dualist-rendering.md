@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-24 07:03:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,7 +15,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[epiphenomenalism]]'
 - '[[qualia]]'
-- '[[memory-as-dual-domain-capability]]'
+- '[[episodic-memory]]'
 created: 2026-03-09
 date: &id001 2026-03-18
 description: Lucid dreaming reveals that consciousness renders phenomenal worlds through
@@ -143,7 +143,7 @@ The Konkoly et al. (2026) study adds further pressure. In a small but suggestive
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model of consciousness
 - [dualist-perception](/topics/dualist-perception/) — How perception reveals the limits of physical description
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
-- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory as a parallel case of dual-domain capability
+- [episodic-memory](/concepts/episodic-memory/) — Memory as a parallel case of dual-domain capability
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory straddles physical and phenomenal domains
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Parallel evidence from psychedelic states
 

@@ -30,7 +30,7 @@ topics: []
    - Resolution: Replaced with `[psychophysical-laws](/concepts/psychophysical-laws/)` in both locations.
 
 2. **Broken link — `phenomenal-unity`** (frontmatter only): Archived article, superseded by `phenomenal-binding-and-holism`.
-   - Resolution: Replaced with `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)` in concepts list.
+   - Resolution: Replaced with `[phenomenal-binding-and-holism](/concepts/binding-problem/)` in concepts list.
 
 ### Medium Issues Found
 
@@ -83,7 +83,7 @@ All major strengths from prior reviews remain intact:
 
 ### Cross-links Updated
 - `[psychophysical-coupling-law](/concepts/psychophysical-laws/)` → `[psychophysical-laws](/concepts/psychophysical-laws/)`
-- `[phenomenal-unity](/concepts/unity-of-consciousness/)` → `[phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)`
+- `[phenomenal-unity](/concepts/unity-of-consciousness/)` → `[phenomenal-binding-and-holism](/concepts/binding-problem/)`
 
 ## Word Count
 

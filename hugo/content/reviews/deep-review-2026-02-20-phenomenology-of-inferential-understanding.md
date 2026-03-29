@@ -65,7 +65,7 @@ topics: []
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) — cognitive explanatory gap
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — inferential binding as instance of general phenomenal binding
+- [phenomenal-binding-and-holism](/concepts/binding-problem/) — inferential binding as instance of general phenomenal binding
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — logical compulsion as normative phenomenal property
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — seeing-why as paradigm of reasons-responsive cognition
 - [free-will](/topics/free-will/) — inferential compulsion as rational constraint

@@ -135,7 +135,7 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — Information as the interface between mind and matter
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness binds moments into unified experience
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing as neural machinery for conscious selection
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Binding as a phenomenal rather than physical achievement
+- [phenomenal-binding-and-holism](/concepts/binding-problem/) — Binding as a phenomenal rather than physical achievement
 - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How integration constitutes the unified self
 - [binding-problem](/concepts/binding-problem/) — The puzzle of how distributed processing yields unified experience
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information cannot be identical to consciousness under dualism

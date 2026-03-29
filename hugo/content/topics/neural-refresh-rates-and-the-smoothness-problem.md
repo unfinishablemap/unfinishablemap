@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[binding-problem]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[explanatory-gap]]'
 - '[[qualia]]'
@@ -115,7 +115,7 @@ The smoothness problem also connects to the Map's treatment of [temporal binding
 - [timing-gap-problem](/concepts/timing-gap-problem/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
+- [binding-problem](/concepts/binding-problem/)
 
 ## References
 

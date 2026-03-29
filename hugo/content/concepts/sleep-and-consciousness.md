@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-28 06:35:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[sleep-memory-consolidation-consciousness-2026-01-18]]'
 - '[[dream-consciousness]]'
 - '[[capability-division-problem]]'
-- '[[memory-as-dual-domain-capability]]'
+- '[[episodic-memory]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[consciousness-and-memory]]'
 title: Sleep and Consciousness
@@ -175,7 +175,7 @@ The Map's interpretation would face difficulty if:
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Sleep within the broader taxonomy of ASCs
 - [sleep-memory-consolidation-consciousness-2026-01-18](/research/sleep-memory-consolidation-consciousness-2026-01-18/) — Detailed research notes
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
-- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory as a dual-domain capability across physical and non-physical domains
+- [episodic-memory](/concepts/episodic-memory/) — Memory as a dual-domain capability across physical and non-physical domains
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References

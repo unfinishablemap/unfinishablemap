@@ -150,7 +150,7 @@ This entanglement matters because physicalist strategies for handling qualia and
 
 ### Gestalt Dependence
 
-A melody's beauty is not localised in any individual note. It emerges from the pattern of relationships unfolding over time—but is experienced as a unified aesthetic quality, not as a set of relationships. This gestalt character means aesthetic qualia cannot be decomposed into simpler experiential atoms. The challenge is a specific instance of the broader [phenomenal binding problem](/concepts/phenomenal-binding-and-holism/). (The [aesthetic unity problem](/topics/aesthetics-and-consciousness/) explores this further.)
+A melody's beauty is not localised in any individual note. It emerges from the pattern of relationships unfolding over time—but is experienced as a unified aesthetic quality, not as a set of relationships. This gestalt character means aesthetic qualia cannot be decomposed into simpler experiential atoms. The challenge is a specific instance of the broader [phenomenal binding problem](/concepts/binding-problem/). (The [aesthetic unity problem](/topics/aesthetics-and-consciousness/) explores this further.)
 
 ### Temporal Complexity
 

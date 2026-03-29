@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-20 00:21:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[cognitive-phenomenology]]'
 - '[[concepts/functionalism]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
@@ -91,7 +91,7 @@ Musical understanding requires binding across multiple dimensions simultaneously
 - **Dynamic contour** — loudness and its changes
 - **Emotional trajectory** — the affective arc of the passage
 
-These dimensions are not experienced separately and then combined. The experience of a cello playing a descending minor phrase *piano* with a slight *ritardando* is a unified quale—a single quality of experience in which pitch, timbre, dynamics, rhythm, and emotion are inseparable. This is [phenomenal binding](/concepts/phenomenal-binding-and-holism/) in action: the binding is not computational aggregation but experiential unity.
+These dimensions are not experienced separately and then combined. The experience of a cello playing a descending minor phrase *piano* with a slight *ritardando* is a unified quale—a single quality of experience in which pitch, timbre, dynamics, rhythm, and emotion are inseparable. This is [phenomenal binding](/concepts/binding-problem/) in action: the binding is not computational aggregation but experiential unity.
 
 The binding achievement in music is particularly revealing because it operates across time. The unity of a four-bar phrase is not the synchronic binding of simultaneous features (as in visual binding) but the diachronic binding of successive events into a felt whole. This diachronic binding is precisely what Bergson described as durée and what the Map connects to consciousness's constitutive role in temporal experience.
 
@@ -125,7 +125,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of understanding and thought
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How understanding unfolds temporally
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value in conscious experience
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
+- [binding-problem](/concepts/binding-problem/) — The binding of experience into unified wholes
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
 - [resonance-void](/voids/resonance-void/) — Where musical meaning exceeds articulation entirely—the body registers what the intellect cannot unpack
 

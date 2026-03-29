@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-26 09:33:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -85,7 +85,7 @@ The strongest evidence that perception involves something beyond neural processi
 
 Perceptual experience presents unified scenes — a red ball bouncing across a green field — despite the fact that colour, shape, motion, and location are processed in anatomically separate brain regions. The [binding-problem](/concepts/binding-problem/) asks how this unity arises. Neural synchrony and re-entrant processing explain information integration, but the unity of phenomenal experience — why correlated firing across dispersed areas yields a single coherent scene — remains unexplained in purely physical terms.
 
-The Map treats [phenomenal binding](/concepts/phenomenal-binding-and-holism/) as a contribution of consciousness itself rather than an emergent property of neural computation. The brain provides the components; consciousness unifies them into experience.
+The Map treats [phenomenal binding](/concepts/binding-problem/) as a contribution of consciousness itself rather than an emergent property of neural computation. The brain provides the components; consciousness unifies them into experience.
 
 ## Perception Beyond Vision
 

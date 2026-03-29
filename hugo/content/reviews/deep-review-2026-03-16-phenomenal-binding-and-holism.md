@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [Phenomenal Binding and Holism](/concepts/phenomenal-binding-and-holism/)
+**Article**: [Phenomenal Binding and Holism](/concepts/binding-problem/)
 **Previous review**: [2026-02-15](/reviews/deep-review-2026-02-15-phenomenal-binding-and-holism/)
 
 ## Pessimistic Analysis Summary

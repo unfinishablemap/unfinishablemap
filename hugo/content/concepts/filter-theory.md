@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-28 13:57:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -123,7 +123,7 @@ The brain functions like a rendering engine: it computes visual scenes from data
 This explains:
 - **Why brain damage produces specific deficits**: Rendering failures, not consciousness failures. The [blur paradox](/topics/perceptual-failure-and-the-interface/) reveals that when rendering degrades, the interface itself becomes visible.
 - **Why qualia seem irreducible**: The engine processes vectors and matrices; the *experience* of color and motion exceeds the processing that enables it.
-- **The binding problem**: Unity is in consciousness itself; the brain renders aspects of unified experience through separate channels. [Phenomenal binding](/concepts/phenomenal-binding-and-holism/) develops this: classical neural mechanisms coordinate processing but cannot produce genuine phenomenal unity.
+- **The binding problem**: Unity is in consciousness itself; the brain renders aspects of unified experience through separate channels. [Phenomenal binding](/concepts/binding-problem/) develops this: classical neural mechanisms coordinate processing but cannot produce genuine phenomenal unity.
 
 ## Objections and Responses
 
@@ -190,7 +190,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of separable filter components
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive return despite severe structural brain damage
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: five altered states converging on multi-channel filter architecture
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Classical binding fails; quantum holism and filter theory on unity
+- [binding-problem](/concepts/binding-problem/) — Classical binding fails; quantum holism and filter theory on unity
 - [curated-mind](/topics/curated-mind/) — Asymmetric curation of experience as evidence for filter architecture
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework

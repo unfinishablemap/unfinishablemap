@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-19 08:08:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[timing-gap-problem]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[smoothness-problem]]'
 - '[[capability-division-problem]]'
 - '[[continuity-void]]'

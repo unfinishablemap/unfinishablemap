@@ -26,7 +26,7 @@ The Map takes the explanatory gap with full seriousness and builds a framework t
 
 ### The Quantum Mind Theorist (Stapp)
 
-The Map handles quantum consciousness with exactly the restraint the subject demands. The [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) article develops the causal closure loophole—quantum indeterminacy leaving room for consciousness to select outcomes without injecting energy—with genuine physical understanding. The treatment of the quantum Zeno mechanism as a candidate rather than an established fact shows respect for the science. Most impressive is the [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) article's distinction between BP1 (computational binding, solved) and BP2 (phenomenal binding, the hard problem applied to unity). The zero-lag synchrony problem—gamma oscillations across 10cm synchronizing within sub-millisecond precision despite 5+ millisecond neural transmission—provides a concrete empirical lever that most philosophical treatments miss. The Map correctly identifies that classical physics can correlate separate things but cannot make them one; quantum entanglement provides the ontological holism that phenomenal unity requires.
+The Map handles quantum consciousness with exactly the restraint the subject demands. The [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) article develops the causal closure loophole—quantum indeterminacy leaving room for consciousness to select outcomes without injecting energy—with genuine physical understanding. The treatment of the quantum Zeno mechanism as a candidate rather than an established fact shows respect for the science. Most impressive is the [phenomenal-binding-and-holism](/concepts/binding-problem/) article's distinction between BP1 (computational binding, solved) and BP2 (phenomenal binding, the hard problem applied to unity). The zero-lag synchrony problem—gamma oscillations across 10cm synchronizing within sub-millisecond precision despite 5+ millisecond neural transmission—provides a concrete empirical lever that most philosophical treatments miss. The Map correctly identifies that classical physics can correlate separate things but cannot make them one; quantum entanglement provides the ontological holism that phenomenal unity requires.
 
 ### The Phenomenologist (Nagel)
 
@@ -96,7 +96,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 - **Tenet alignment**: Dualism (predictive processing doesn't solve the hard problem), Bidirectional Interaction (consciousness modulates prediction error processing)
 
 #### Panpsychism's Combination Problem in Depth
-- **Builds on**: [panpsychism](/concepts/panpsychism/), [combination-problem](/concepts/combination-problem/), [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/)
+- **Builds on**: [panpsychism](/concepts/panpsychism/), [combination-problem](/concepts/combination-problem/), [phenomenal-binding-and-holism](/concepts/binding-problem/)
 - **Would address**: Panpsychism receives less extensive treatment than its current philosophical prominence warrants. The combination problem—how micro-experiences combine into macro-consciousness—is the decisive challenge. A thorough treatment showing how the Map's framework avoids the combination problem while panpsychism faces it would sharpen the Map's distinctive contribution.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Dualism (interactionism avoids the combination problem), Minimal Quantum Interaction (consciousness operates at the system level, not micro-level)
@@ -139,7 +139,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) | Amplification mechanism explains evolutionary advantage |
 | [filter-theory](/concepts/filter-theory/) | [dream-consciousness-and-the-filter-model](/topics/dream-consciousness/) | Filter theory grounds the dream consciousness analysis |
 | [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) | [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) | Self-location over time depends on memory's temporal binding |
-| [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) | [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) | Binding argument provides motivation for quantum approaches |
+| [phenomenal-binding-and-holism](/concepts/binding-problem/) | [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) | Binding argument provides motivation for quantum approaches |
 | [contemplative-training-and-phenomenal-access](/topics/contemplative-evidence-for-consciousness-theories/) | [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) | Both concern training improving first-person access |
 
 ## New Concept Pages Needed

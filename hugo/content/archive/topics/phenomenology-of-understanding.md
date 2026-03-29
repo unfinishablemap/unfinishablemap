@@ -213,7 +213,7 @@ Several findings would weaken PCT:
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — How discrete conscious states combine into structured wholes
+- [phenomenal-binding-and-holism](/concepts/binding-problem/) — How discrete conscious states combine into structured wholes
 - [binding-problem](/concepts/binding-problem/) — Perceptual binding and its relation to meaning unity
 - [working-memory](/concepts/working-memory/) — Information maintenance vs. integrative comprehension
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Availability distinguished from integration

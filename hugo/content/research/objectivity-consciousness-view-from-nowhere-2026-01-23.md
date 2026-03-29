@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-01-23 00:47:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -24,7 +24,7 @@ target_section: concepts
 title: Research Notes - Objectivity and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenology]]'
 ---
 

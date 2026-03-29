@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[sleep-and-consciousness]]'
 - '[[binding-problem]]'
 - '[[attention-as-interface]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[temporal-consciousness]]'
 - '[[neuroplasticity]]'
 - '[[phenomenal-contrast-method]]'
@@ -48,7 +48,7 @@ related_articles:
 - '[[diachronic-agency-and-personal-narrative]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[capability-division-problem]]'
-- '[[memory-as-dual-domain-capability]]'
+- '[[episodic-memory]]'
 - '[[phenomenology-of-memory-and-the-self]]'
 title: Consciousness and Memory
 topics:
@@ -213,7 +213,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [dream-consciousness](/topics/dream-consciousness/)
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/)
 - [capability-division-problem](/voids/capability-division-problem/)
-- [memory-as-dual-domain-capability](/concepts/episodic-memory/)
+- [episodic-memory](/concepts/episodic-memory/)
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/) — The method that reveals consolidation's qualitative shifts

@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-18 03:44:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[binding-problem]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[process-philosophy]]'
 - '[[explanatory-gap]]'
@@ -28,7 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[voids]]'
 - '[[capability-division-problem]]'
-- '[[memory-as-dual-domain-capability]]'
+- '[[episodic-memory]]'
 - '[[continuity-void]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[neural-refresh-rates-smoothness-problem-2026-03-08]]'
@@ -97,7 +97,7 @@ This resonates with [Whitehead's process philosophy](/concepts/process-philosoph
 ## Further Reading
 
 - [capability-division-problem](/voids/capability-division-problem/) — The general problem of dividing capabilities between brain and mind
-- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — The memory instance of capability division
+- [episodic-memory](/concepts/episodic-memory/) — The memory instance of capability division
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, durée, and temporal phenomenology
 - [binding-problem](/concepts/binding-problem/) — Spatial cousin of the smoothness problem
 - [grain-mismatch](/concepts/grain-mismatch/) — The spatial face of the same structural incompatibility between phenomenal smoothness and neural discreteness

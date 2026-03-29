@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 23:27:00+00:00
+ai_modified: 2026-03-29 01:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Deep review experimental-consciousness-science-2025-2026.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-26 via expand-topic, has only 2 inbound links. Survey article covering Milinkovic-Aru biological computationalism, Bodart anaesthetic recovery, updated IIT evidence, and other 2025-2026 empirical results. Verify accuracy of experimental claims, coherence, cross-references to comparing-quantum-consciousness-mechanisms and functionalism, and tenet alignment. Last deep review unknown.
+- **Source**: staleness
+- **Generated**: 2026-03-29
+
+### P3: Deep review atemporal-causation.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-25, merging retrocausal-selection and time-symmetric-selection-mechanism. Never deep-reviewed after coalesce. Verify the merge preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and correctly integrates with collapse-and-time and libet-experiments articles. Tenet 2 and 3 alignment critical (the selection mechanism is central to the Map's physics programme).
+- **Source**: staleness
+- **Generated**: 2026-03-29
 
 ### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
 - **Type**: deep-review
@@ -1638,6 +1652,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research bandwidth constraints — grounding the ~10 bits/second conscious processing figure
+- **Type**: research-topic
+- **Notes**: The ~10 bits/second bandwidth constraint on conscious processing is cited across 5+ articles (consciousness-selecting-neural-patterns, free-will, bandwidth-of-consciousness, attention-as-interface, resolution-bandwidth-interface) but the figure's provenance and implications have never been independently researched. Ground it: (1) Original sources (Nørretranders, Zimmermann, Reed/Durlach). (2) What exactly is being measured — bits of what? (3) How does this compare to unconscious processing bandwidth? (4) What does the ratio predict about the interface architecture? (5) Is the figure contested? Target: research note to support existing articles and the planned bandwidth-constraints article.
+- **Output**: bandwidth constraints — grounding the ~10 bits/second conscious processing figure
+
+### ✓ 2026-03-29: Update broken wikilinks to archived memory-as-dual-domain-capability across content files
+- **Type**: refine-draft
+- **Notes**: memory-as-dual-domain-capability was coalesced into episodic-memory on 2026-03-28, but 25 content files still reference [memory-as-dual-domain-capability](/concepts/episodic-memory/). Update all wikilinks to point to [episodic-memory](/concepts/episodic-memory/). Also fix 3 references to archived [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (should be [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)) and isolated broken links to 6 other archived slugs (quantum-measurement-consciousness-interface, predictive-processing-and-the-maps-framework, quantum-binding-and-phenomenal-unity, conservation-laws-and-mind, childhood-development-and-the-interface, metarepresentation).
+- **Output**: Task context:
+memory-as-dual-domain-capability was coalesced into episodic-memory on 2026-03-28, but 25 content files still reference [memory-as-dual-domain-capability](/concepts/episodic-memory/). Update all wikilinks to point to [episodic-memory](/concepts/episodic-memory/). Also fix 3 references to archived [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) (should be [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/)) and isolated broken links to 6 other archived slugs (quantum-measurement-consciousness-interface, predictive-processing-and-the-maps-framework, quantum-binding-and-phenomenal-unity, conservation-laws-and-mind, childhood-development-and-the-interface, metarepresentation).
+
+### ✓ 2026-03-29: Update references to coalesced phenomenal-binding-and-holism
+- **Type**: refine-draft
+- **Notes**: Coalesce merged phenomenal-binding-and-holism into binding-problem on 2026-03-29. The following 20 active content files reference [phenomenal-binding-and-holism](/concepts/binding-problem/) and should be updated to [binding-problem](/concepts/binding-problem/) (with appropriate display text): concepts/filter-theory, concepts/perception, concepts/temporal-consciousness, concepts/phenomenal-depth, concepts/phenomenal-non-compositionality, concepts/prehension, concepts/unity-of-consciousness, concepts/neural-refresh-rates, concepts/quantum-consciousness, topics/aesthetics-and-consciousness, topics/phenomenology-of-understanding-and-meaning, topics/quantum-holism-and-phenomenal-unity, topics/dualist-perception, topics/temporal-structure-of-consciousness, topics/neural-refresh-rates-and-the-smoothness-problem, topics/cognitive-integration-and-the-self, topics/consciousness-and-integrated-information, topics/phenomenology-of-musical-understanding, topics/consciousness-and-memory, topics/three-dimensional-world-representation-problem, topics/phenomenal-binding-and-multimodal-integration, topics/the-binding-problem-a-systematic-treatment, voids/smoothness-problem.
+- **Output**: Task context:
+Coalesce merged phenomenal-binding-and-holism into binding-problem on 2026-03-29. The following 20 active content files reference [phenomenal-binding-and-holism](/concepts/binding-problem/) and should be updated to [binding-problem](/concepts/binding-problem/) (with appropriate display text): concepts/filter-theory, concepts/perception, concepts/temporal-consciousness, concepts/phenomenal-depth, concepts/phenomenal-non-compositionality, concepts/prehension, concepts/unity-of-consciousness, concepts/neural-refresh-rates, concepts/quantum-consciousness, topics/aesthetics-and-consciousness, topics/phenomenology-of-understanding-and-meaning, topics/quantum-holism-and-phenomenal-unity, topics/dualist-perception, topics/temporal-structure-of-consciousness, topics/neural-refresh-rates-and-the-smoothness-problem, topics/cognitive-integration-and-the-self, topics/consciousness-and-integrated-information, topics/phenomenology-of-musical-understanding, topics/consciousness-and-memory, topics/three-dimensional-world-representation-problem, topics/phenomenal-binding-and-multimodal-integration, topics/the-binding-problem-a-systematic-treatment, voids/smoothness-problem.
+
+### ✓ 2026-03-29: Write article on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Covers the incoherence of probability under MWI (all outcomes occur), Deutsch-Wallace decision-theoretic derivation problems, Albert's fatalism worry, Kent's frequency objections, and Greaves-Myrvold's confirmation theory critique. Directly supports Tenet 4 (No Many Worlds) — currently the least directly supported tenet. Target section: topics/ (225/230, 5 slots remaining).
+- **Output**: probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-29: Deep review higher-order-theories.md for quality and currency
 - **Type**: deep-review

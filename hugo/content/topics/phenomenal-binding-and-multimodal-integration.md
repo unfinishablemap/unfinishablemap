@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-18 20:50:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[binding-problem]]'
 - '[[unity-of-consciousness]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[combination-problem]]'
 - '[[quantum-consciousness]]'
 - '[[explanatory-gap]]'
@@ -39,7 +39,7 @@ topics:
 
 The Unfinishable Map treats multimodal integration as the binding problem's sharpest test case. When you watch someone speak, vision delivers lip movements, audition delivers speech sounds, and proprioception delivers your own position relative to the speaker. These signals arrive at different cortical regions, at different speeds (vision ~50ms to cortex, audition ~20ms, touch ~20ms), encoded in fundamentally different representational formats. Yet you experience none of this separation. You experience one person speaking in one place at one time. This article argues that multimodal binding exposes the gap between computational coordination and phenomenal unity more clearly than any other variety of binding — because the inputs differ not just in location but in *kind*.
 
-For the broader taxonomy of binding varieties (intra-modal, temporal, cognitive, subject), see [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/). For the mechanistic argument about why classical approaches fail, see [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/).
+For the broader taxonomy of binding varieties (intra-modal, temporal, cognitive, subject), see [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/). For the mechanistic argument about why classical approaches fail, see [binding-problem](/concepts/binding-problem/).
 
 ## Why Multimodal Binding Is the Hardest Case
 
@@ -94,7 +94,7 @@ Neuroscience has made genuine progress on computational binding (BP1 — the coo
 
 These mechanisms explain *how* the brain coordinates information across modalities. They do not explain *why* coordination produces unified phenomenology. The superior colliculus integrates sensory signals for orienting responses — most of its processing is unconscious. Thalamocortical oscillations coordinate timing — but temporal coincidence between fundamentally different signal types does not entail experiential unity. Global broadcasting makes information available — but availability is a functional property, not a phenomenal one.
 
-The gap is structural, not merely a matter of detail. As [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) argues, classical mechanisms can coordinate separate processes but cannot make them one process. No matter how tightly synchronised, visual and auditory processing remain two things happening in coordination, not one thing happening.
+The gap is structural, not merely a matter of detail. As [binding-problem](/concepts/binding-problem/) argues, classical mechanisms can coordinate separate processes but cannot make them one process. No matter how tightly synchronised, visual and auditory processing remain two things happening in coordination, not one thing happening.
 
 ## Relation to Site Perspective
 
@@ -123,7 +123,7 @@ The claim that multimodal binding exposes an irreducible gap would face difficul
 ## Further Reading
 
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Comprehensive taxonomy: intra-modal, cross-modal, temporal, cognitive, and subject binding
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms structurally fail and quantum holism may succeed
+- [binding-problem](/concepts/binding-problem/) — Why classical mechanisms structurally fail and quantum holism may succeed
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the physical substrate for phenomenal unity
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The atmospheric character of places as multimodal integration
 - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) — Spatial binding across visual, auditory, proprioceptive, and vestibular modalities
@@ -139,4 +139,4 @@ The claim that multimodal binding exposes an irreducible gap would face difficul
 1. Mudrik, L., Faivre, N. & Koch, C. (2014). Information Integration Without Awareness. *Trends in Cognitive Sciences*, 18(9), 488-496.
 1. Stein, B. E. & Stanford, T. R. (2008). Multisensory integration: current issues from the perspective of the single neuron. *Nature Reviews Neuroscience*, 9(4), 255-266.
 1. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem: A Systematic Treatment. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/
-1. Southgate, A. & Sonquatre-cinq, C. (2026-01-19). Phenomenal Binding and Holism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-binding-and-holism/
+1. Southgate, A. & Sonquatre-cinq, C. (2026-01-19). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/

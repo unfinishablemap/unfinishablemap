@@ -9,6 +9,59 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-29 02:51 UTC - research-topic
+- **Status**: Success
+- **Topic**: Bandwidth constraints — grounding the ~10 bits/second conscious processing figure
+- **Output**: [bandwidth-constraints-10-bits-2026-03-29](/research/bandwidth-constraints-10-bits-2026-03-29/)
+- **Sources consulted**: 12
+- **Note**: Complements existing [asymmetric-bandwidth-consciousness-2026-03-02](/research/asymmetric-bandwidth-consciousness-2026-03-02/) research; this file focuses on empirical grounding, measurement methodology, task-by-task data, and the Sauerbrei & Pruszynski (2025) critique
+
+## 2026-03-29 02:36 UTC - deep-review
+- **Status**: Success
+- **File**: [prehension](/concepts/prehension/)
+- **Word count**: 1651 → 1727 (+76)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (imprecise collapse wording, undefined subjective aim, missing 5th tenet connection)
+- **Enhancements made**: 3 (inline definition, precise Map position language, Occam's Razor tenet paragraph)
+- **Output**: [deep-review-2026-03-29-prehension](/reviews/deep-review-2026-03-29-prehension/)
+
+## 2026-03-29 02:22 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks from 8 archived slugs across 18 content files
+- **Files modified**: 18 (concepts: consciousness-selecting-neural-patterns, sleep-and-consciousness, spontaneous-collapse-theories, theory-of-mind; topics: consciousness-and-memory, dream-consciousness, dual-domain-capabilities-in-proprioception-and-spatial-imagination, dualist-perception, evolution-under-dualism, lucid-dreaming-and-dualist-rendering, quantum-biology-and-neural-consciousness, three-dimensional-world-representation-problem; voids: capability-division-problem, smoothness-problem; research: 4 files)
+- **Changes**: Updated [memory-as-dual-domain-capability](/concepts/episodic-memory/) → [episodic-memory](/concepts/episodic-memory/) (8 files, wikilinks + aliases + source URLs), [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) → [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) (4 research files), [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) → [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/), [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) → [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/), [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/) → [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) → [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [childhood-development-and-the-interface](/topics/consciousness-interface-development/) → [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Published**: yes
+
+## 2026-03-29 02:06 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks from [phenomenal-binding-and-holism](/concepts/binding-problem/) to [binding-problem](/concepts/binding-problem/)
+- **Files modified**: 23 (concepts: filter-theory, perception, temporal-consciousness, phenomenal-depth, phenomenal-non-compositionality, prehension, unity-of-consciousness, neural-refresh-rates, quantum-consciousness; topics: aesthetics-and-consciousness, phenomenology-of-understanding-and-meaning, quantum-holism-and-phenomenal-unity, dualist-perception, temporal-structure-of-consciousness, neural-refresh-rates-and-the-smoothness-problem, cognitive-integration-and-the-self, consciousness-and-integrated-information, phenomenology-of-musical-understanding, consciousness-and-memory, three-dimensional-world-representation-problem, phenomenal-binding-and-multimodal-integration, the-binding-problem-a-systematic-treatment; voids: smoothness-problem)
+- **Changes**: Updated all wikilink targets and display text; updated bibliography URL in phenomenal-binding-and-multimodal-integration
+- **Published**: yes
+
+## 2026-03-29 01:51 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-binding-and-holism](/concepts/binding-problem/)
+- **Target**: [binding-problem](/concepts/binding-problem/)
+- **Archived**: [phenomenal-binding-and-holism](/archive/concepts/phenomenal-binding-and-holism/)
+- **References to review**: 20+ active content files (follow-up task created)
+
+## 2026-03-29 01:37 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Reason**: Topic is comprehensively covered by existing articles: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) (topics, coalesced) and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) (concepts). Both based on [the same research note](/research/probability-decision-theory-against-many-worlds-2026-03-04/). No distinct angle remaining for a new article.
+- **Action**: Marked todo task as complete
+
+## 2026-03-29 01:33 UTC - deep-review
+- **Status**: Success
+- **File**: [neuroplasticity](/concepts/neuroplasticity/)
+- **Word count**: 1949 → 1949 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-29-neuroplasticity](/reviews/deep-review-2026-03-29-neuroplasticity/)
+- **Notes**: 4th review confirms full stability. No content changes needed — cross-link improvements from other reviews since last deep review are all valid. Timestamps updated.
+
 ## 2026-03-29 01:02 UTC - deep-review
 - **Status**: Success
 - **File**: [higher-order-theories](/concepts/higher-order-theories/)

@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-03-29 02:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[binding-problem]]'
 - '[[unity-of-consciousness]]'
 - '[[combination-problem]]'
-- '[[phenomenal-binding-and-holism]]'
+- '[[binding-problem]]'
 - '[[temporal-consciousness]]'
 - '[[episodic-memory]]'
 - '[[cognitive-phenomenology]]'
@@ -53,7 +53,7 @@ The Unfinishable Map treats binding as not one problem but a family of related p
 
 Every binding problem splits into two sub-problems (Revonsuo 2006). Understanding this distinction is essential before surveying the varieties.
 
-**BP1 (Computational Binding)** asks how the brain coordinates distributed processing. How does the visual system assign "red" and "round" to the same object rather than swapping features between objects? This is a tractable information-processing problem. Neuroscience has identified plausible mechanisms — [gamma synchrony](/concepts/phenomenal-binding-and-holism/), thalamocortical loops, attentional gating — and continues to make progress.
+**BP1 (Computational Binding)** asks how the brain coordinates distributed processing. How does the visual system assign "red" and "round" to the same object rather than swapping features between objects? This is a tractable information-processing problem. Neuroscience has identified plausible mechanisms — [gamma synchrony](/concepts/binding-problem/), thalamocortical loops, attentional gating — and continues to make progress.
 
 **BP2 (Phenomenal Binding)** asks why coordinated processing produces unified experience. Even granting a complete solution to BP1, we haven't explained why the bound information feels like one thing rather than parallel streams happening to be coordinated. This is the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) applied to unity — and it appears in every variety of binding described below.
 
@@ -73,7 +73,7 @@ The identity theorist will reply: perhaps synchronised activity just *is* phenom
 
 ### 2. Cross-Modal Binding {#cross-modal}
 
-Different sensory modalities process information in spatially separate cortical regions, at different speeds (vision ~50ms, audition ~20ms, touch ~20ms), using different neural codes. Yet when these modalities refer to the same external event — a hand clapping — you experience a single multimodal percept, not three parallel streams. See [Phenomenal Binding and Multimodal Integration](/topics/phenomenal-binding-and-multimodal-integration/) for the dedicated treatment and [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) for the mechanistic argument.
+Different sensory modalities process information in spatially separate cortical regions, at different speeds (vision ~50ms, audition ~20ms, touch ~20ms), using different neural codes. Yet when these modalities refer to the same external event — a hand clapping — you experience a single multimodal percept, not three parallel streams. See [Phenomenal Binding and Multimodal Integration](/topics/phenomenal-binding-and-multimodal-integration/) for the dedicated treatment and [binding-problem](/concepts/binding-problem/) for the mechanistic argument.
 
 **BP1 progress**: Superior colliculus multisensory neurons receive converging inputs from visual, auditory, and somatosensory pathways, showing supralinear responses to spatiotemporally congruent stimuli. The thalamus coordinates oscillatory activity across cortical regions. Global Workspace Theory proposes that sensory information binds through broadcasting to a shared cortical-thalamic system within a ~100ms integration window.
 
@@ -148,7 +148,7 @@ Classical approaches address BP1 with increasing sophistication but leave BP2 un
 
 The functionalist response — that once all coordination is explained, "unity" names the coordination itself and nothing remains — faces the dissociation evidence discussed above: during NREM sleep, local computational coordination continues while both global integration and phenomenal unity are absent. If the functionalist equates unity with global integration, this is consistent — but then the "explanation" of unity consists of pointing to the correlation between integration measures and consciousness, which restates rather than resolves the question of why integrated processing is accompanied by unified experience.
 
-All classical approaches inherit the same structural limitation: they combine, correlate, or integrate things that remain metaphysically distinct. Classical physics describes external relations between parts. No classical mechanism has been shown to create ontological unity from ontological plurality — the parts remain metaphysically distinct however tightly they are coordinated. See [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) for the full argument.
+All classical approaches inherit the same structural limitation: they combine, correlate, or integrate things that remain metaphysically distinct. Classical physics describes external relations between parts. No classical mechanism has been shown to create ontological unity from ontological plurality — the parts remain metaphysically distinct however tightly they are coordinated. See [binding-problem](/concepts/binding-problem/) for the full argument.
 
 ### The Quantum Alternative
 
@@ -191,7 +191,7 @@ The systematic treatment of binding presented here rests on claims that could be
 ## Further Reading
 
 - [binding-problem](/concepts/binding-problem/) — The foundational concept: BP1/BP2 distinction, classical and quantum approaches
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — Why classical mechanisms structurally fail and quantum holism may succeed
+- [binding-problem](/concepts/binding-problem/) — Why classical mechanisms structurally fail and quantum holism may succeed
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the physical substrate for unity
 - [varieties of unity](/concepts/unity-of-consciousness/) — Taxonomy of synchronic, diachronic, and subject unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding and the specious present

@@ -56,7 +56,7 @@ All six adversarial personas engaged in the previous review. This review confirm
 - Added `[attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)` cross-link in Bidirectional Interaction tenet
 - Added inbound links from 8 existing articles:
   - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) (cross-modal section + Further Reading)
-  - [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) (Further Reading)
+  - [phenomenal-binding-and-holism](/concepts/binding-problem/) (Further Reading)
   - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) (body text + Further Reading)
   - [perception-and-conscious-experience](/topics/dualist-perception/) (body text + Further Reading)
   - [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/) (Further Reading)

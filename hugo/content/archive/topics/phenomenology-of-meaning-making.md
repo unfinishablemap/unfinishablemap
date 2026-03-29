@@ -62,7 +62,7 @@ The [temporal phenomenology of understanding](/concepts/temporal-structure-of-un
 
 This matters because it demonstrates a mode of meaning-making that functionalism cannot easily accommodate. The meaning of a harmonic resolution is constituted by its phenomenal character—by the felt release of tension, the satisfaction of an anticipated continuation arriving. A system that processed the same harmonic relations without temporal phenomenology—without the specious present that holds preceding notes in retention while protention reaches toward what follows—would process structure without generating meaning. The meaning *is* the experience of the structure, not the structure itself.
 
-Musical meaning also reveals the role of [phenomenal binding](/concepts/phenomenal-binding-and-holism/) in meaning-making. At any moment, the listener integrates pitch, rhythm, timbre, dynamics, and emotional trajectory into a unified quale. This binding is not computational aggregation—it is experiential unity. The significance of a musical passage emerges from the felt wholeness of its elements, not from any one element in isolation.
+Musical meaning also reveals the role of [phenomenal binding](/concepts/binding-problem/) in meaning-making. At any moment, the listener integrates pitch, rhythm, timbre, dynamics, and emotional trajectory into a unified quale. This binding is not computational aggregation—it is experiential unity. The significance of a musical passage emerges from the felt wholeness of its elements, not from any one element in isolation.
 
 ### Temporal Meaning: The Forward Lean of Experience
 
@@ -142,7 +142,7 @@ The convergence of independent phenomenological analyses on the same structural 
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How consciousness weaves meanings into understanding
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — Understanding's temporal phenomenology
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds significance
-- [phenomenal-binding-and-holism](/concepts/phenomenal-binding-and-holism/) — The binding of experience into unified wholes
+- [phenomenal-binding-and-holism](/concepts/binding-problem/) — The binding of experience into unified wholes
 
 ## References
 

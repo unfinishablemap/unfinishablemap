@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -57,7 +57,7 @@ related_articles:
 - '[[consciousness-dreams-2026-01-14]]'
 - '[[dreams-lucid-dreaming-consciousness-2026-01-18]]'
 - '[[capability-division-problem]]'
-- '[[memory-as-dual-domain-capability]]'
+- '[[episodic-memory]]'
 - '[[lucid-dreaming-and-dualist-rendering]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[incubation-effect-and-unconscious-processing]]'
@@ -226,7 +226,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The qualitative character of voluntary selection
 - [higher-order-theories](/concepts/higher-order-theories/) — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [capability-division-problem](/voids/capability-division-problem/) — Which capabilities belong to the brain and which to consciousness
-- [memory-as-dual-domain-capability](/concepts/episodic-memory/) — Memory as a dual-domain capability requiring both physical and non-physical contributions
+- [episodic-memory](/concepts/episodic-memory/) — Memory as a dual-domain capability requiring both physical and non-physical contributions
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as evidence for the capability division and mind-side rendering
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The creative cycle and consciousness's role in incubation
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader case for consciousness enabling human-level cognition

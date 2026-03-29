@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-01-15 00:15:00+00:00
+ai_modified: 2026-03-29 02:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[personal-identity]]'
 - '[[phenomenology]]'
-- '[[neurophenomenology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 draft: false
