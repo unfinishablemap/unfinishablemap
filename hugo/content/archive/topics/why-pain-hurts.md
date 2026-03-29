@@ -150,7 +150,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that sharpens the bypass question
 - [knowledge-argument](/concepts/knowledge-argument/) — What physical knowledge cannot convey
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Phenomenal experience as evidence
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 
 ## References

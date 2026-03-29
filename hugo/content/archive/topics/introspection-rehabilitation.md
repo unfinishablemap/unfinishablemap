@@ -133,7 +133,7 @@ If introspection can be rehabilitated—imperfect but improvable, limited but ge
 
 Consciousness research that restricts itself to third-person methods studies behaviour and brain states while remaining systematically blind to what those methods aim to explain: experience itself. Neural correlates of consciousness are *correlates*—they require the first-person report that says "here, this brain state corresponds to this experience." Abandoning introspection does not make consciousness science more rigorous. It removes the phenomenon from the study of the phenomenon.
 
-[Phenomenal conservatism](/topics/phenomenal-conservatism-and-introspective-evidence/) provides the epistemological grounding: if experience presents itself as qualitative, unified, and subjective, those presentations deserve default trust as evidence. The rehabilitation programme shows that this default trust, while requiring qualification, is not misplaced. Specific methods address specific failure modes. Training improves accuracy. Cross-modal verification constrains confabulation.
+[Phenomenal conservatism](/topics/phenomenal-authority-and-introspective-evidence/) provides the epistemological grounding: if experience presents itself as qualitative, unified, and subjective, those presentations deserve default trust as evidence. The rehabilitation programme shows that this default trust, while requiring qualification, is not misplaced. Specific methods address specific failure modes. Training improves accuracy. Cross-modal verification constrains confabulation.
 
 The result is not a return to Cartesian infallibility but something more useful: a calibrated, methodologically aware form of first-person investigation that can work alongside neuroscience rather than being dismissed by it. The [epistemology of introspection](/topics/epistemology-of-first-person-evidence/) develops the positive account — arguing that introspection is best understood as a sui generis epistemic capacity, neither perception nor inference, providing direct but fallible access to phenomenal states.
 
@@ -149,7 +149,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 
 - [introspection](/concepts/introspection/) — Comprehensive treatment of the reliability debate
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How training expands phenomenal access
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Epistemological grounding for first-person data
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Epistemological grounding for first-person data
 - [introspective-opacity](/voids/self-opacity/) — The structural limits that rehabilitation cannot overcome
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The framework integrating first-person and third-person methods
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source

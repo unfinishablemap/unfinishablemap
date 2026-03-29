@@ -33,12 +33,13 @@ related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[quantum-darwinism-and-consciousness]]'
 title: Post-Decoherence Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Post-decoherence selection is whatever process actualizes one definite outcome from the classical-looking mixture that decoherence produces. [Decoherence](/concepts/decoherence/) suppresses quantum interference and selects a preferred basis of pointer states, but it does not explain why a single outcome obtains rather than the mixture persisting. As Schlosshauer (2004) puts it: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." This residual *problem of outcomes* is the central opportunity for The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/): post-decoherence selection is precisely where consciousness could act without violating known physics. The concept names the specific locus where the Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets find their physical grounding.
+Post-decoherence selection is whatever process actualizes one definite outcome from the classical-looking mixture that decoherence produces. [Decoherence](/concepts/decoherence/) suppresses quantum interference and selects a preferred basis of pointer states, but it does not explain why a single outcome obtains rather than the mixture persisting. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this programme by showing how environmental redundancy makes pointer states objectively accessible—yet even this fuller account leaves the outcome gap intact. As Schlosshauer (2004) puts it: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." This residual *problem of outcomes* is the central opportunity for The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/): post-decoherence selection is precisely where consciousness could act without violating known physics. The concept names the specific locus where the Map's [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenets find their physical grounding.
 
 ## The Gap Decoherence Leaves
 
@@ -92,6 +93,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 - [The Trilemma of Selection](/topics/trilemma-of-selection/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [Prebiotic Collapse](/concepts/prebiotic-collapse/)
+- [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [Interactionist Dualism](/concepts/interactionist-dualism/)
 

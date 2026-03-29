@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-14
-**Article**: [Phenomenal Conservatism and Introspective Evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+**Article**: [Phenomenal Conservatism and Introspective Evidence](/topics/phenomenal-authority-and-introspective-evidence/)
 **Previous review**: [2026-02-13](/reviews/deep-review-2026-02-13-phenomenal-conservatism-and-introspective-evidence/)
 
 ## Pessimistic Analysis Summary

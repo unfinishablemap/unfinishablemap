@@ -69,7 +69,7 @@ topics: []
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) (related_articles + inline in Reorganisation)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) (related_articles + Further Reading)
 - [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-framework-inhabitation/) (related_articles + Further Reading)
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) (related_articles + inline in Bootstrap Problem)
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) (related_articles + inline in Bootstrap Problem)
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) (concepts + inline in Bidirectional Interaction)
 - [explanatory-gap](/concepts/explanatory-gap/) (concepts + inline in Limits)
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/) (Further Reading — already in related_articles)

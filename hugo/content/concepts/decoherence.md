@@ -84,7 +84,7 @@ The distinction between **basis selection** (which basis becomes preferred) and 
 
 The [physics-as-disclosure](/concepts/physics-as-disclosure/) framework strengthens this: decoherence's clean partition—handling all structural work while leaving actuality untouched—is evidence that physics reaches the boundary where structural description ends and conscious actuality begins. Decoherence does everything a [bi-aspectual](/concepts/bi-aspectual-ontology/) reality predicts physics *can* do, then stops exactly where the actuality question requires something beyond structure.
 
-Since decoherence merely establishes preferred bases without collapsing them, something must select which outcome occurs. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting. Calling outcomes "random" describes the statistics without explaining why *this* particular outcome occurs—the measurement problem concerns individual actualisation, not probabilities.
+Since decoherence merely establishes preferred bases without collapsing them, something must select which outcome occurs. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) formalises this: Zurek's framework explains how environmental redundancy makes pointer states objectively accessible to multiple observers, yet the problem of outcomes—why *this* pointer state becomes actual—survives intact. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting. Calling outcomes "random" describes the statistics without explaining why *this* particular outcome occurs—the measurement problem concerns individual actualisation, not probabilities.
 
 This response alone is sufficient to keep quantum consciousness viable regardless of decoherence timescales, provided one takes the measurement problem seriously.
 
@@ -199,6 +199,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Which mechanisms face which constraints
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — Why decoherence's clean partition supports the disclosure reading of quantum mechanics
+- [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How environmental selection specifies the menu for conscious choice
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — The receding quantum-classical boundary
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention relates to the quantum Zeno mechanism
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort

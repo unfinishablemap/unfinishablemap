@@ -77,7 +77,7 @@ topics: []
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) (inline in knowledge argument section + Further Reading)
 - [philosophical-zombies](/concepts/philosophical-zombies/) (Further Reading)
 - [inverted-qualia](/concepts/inverted-qualia/) (Further Reading)
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) (Further Reading)
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) (Further Reading)
 - Additional inline links to [knowledge-argument](/concepts/knowledge-argument/), [explanatory-gap](/concepts/explanatory-gap/), [interactionist-dualism](/concepts/interactionist-dualism/), [epiphenomenalism](/concepts/epiphenomenalism/)
 
 ## Remaining Items

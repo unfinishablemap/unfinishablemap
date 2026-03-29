@@ -142,7 +142,7 @@ The [consciousness-only-territories](/voids/consciousness-only-territories/) voi
 | [phenomenal-unity](/concepts/unity-of-consciousness/) | [binding-problem](/concepts/binding-problem/) | Phenomenal unity is the experiential side of the binding problem; the concept article should explicitly reference the topic's systematic treatment |
 | [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) | [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) | The bandwidth problem constrains which quantum mechanisms are viable—only those permitting policy-level selection are compatible |
 | [consciousness-as-activity](/topics/consciousness-as-activity/) | [agent-causation](/concepts/agent-causation/) | Activity ontology supports agent causation: if consciousness is a doing rather than a having, agents are natural loci of causal power |
-| [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) | Contemplative evidence's epistemic status depends on phenomenal conservatism's framework for when introspective seemings justify belief |
+| [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) | Contemplative evidence's epistemic status depends on phenomenal conservatism's framework for when introspective seemings justify belief |
 
 ## New Concept Pages Needed
 

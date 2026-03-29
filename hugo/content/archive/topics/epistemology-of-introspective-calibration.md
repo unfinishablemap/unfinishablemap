@@ -129,7 +129,7 @@ These five strategies do not produce strict calibration. They produce a gradient
 | Causal processes behind experience | None effective; process opacity is structural | Very low |
 | Metaphysical interpretation of findings | Convergence fails (traditions diverge here) | Variable |
 
-The gradient matters for assessing which philosophical arguments introspective evidence can support. Arguments grounded in attended phenomenal content — the qualitative character of pain, the explanatory gap between physical description and what experience is like — rest on the strongest epistemic foundation. Arguments extrapolating from phenomenal reports to metaphysical conclusions require additional philosophical work beyond what the calibration strategies alone provide, as [phenomenal conservatism](/topics/phenomenal-conservatism-and-introspective-evidence/) carefully distinguishes.
+The gradient matters for assessing which philosophical arguments introspective evidence can support. Arguments grounded in attended phenomenal content — the qualitative character of pain, the explanatory gap between physical description and what experience is like — rest on the strongest epistemic foundation. Arguments extrapolating from phenomenal reports to metaphysical conclusions require additional philosophical work beyond what the calibration strategies alone provide, as [phenomenal conservatism](/topics/phenomenal-authority-and-introspective-evidence/) carefully distinguishes.
 
 ## The Sufficiency Question
 
@@ -155,7 +155,7 @@ The honest acknowledgment is that the calibration strategies do not close the [m
 
 - [measurement-void](/voids/observation-and-measurement-void/) — Why strict calibration of introspection is structurally impossible
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The broader case for restoring introspection as a serious method
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding for introspective evidence
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding for introspective evidence
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
 - [introspective-opacity](/voids/self-opacity/) — The structural limits on introspecting cognitive processes

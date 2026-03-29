@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-29
-**Article**: [Phenomenal Authority and the Epistemic Weight of First-Person Reports](/topics/phenomenal-authority-epistemic-weight-first-person-reports/)
+**Article**: [Phenomenal Authority and the Epistemic Weight of First-Person Reports](/topics/phenomenal-authority-and-introspective-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 07:58:00+00:00
+ai_modified: 2026-03-29 21:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: 'The aboutness of mental states: why thoughts are directed at objec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 06:12:00+00:00
+last_deep_review: 2026-03-29 21:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,9 +49,9 @@ Franz Brentano reintroduced the concept to modern philosophy in 1874, claiming t
 
 [Phenomenology](/concepts/phenomenology/)—founded by Husserl and developed by Heidegger, Merleau-Ponty, and Sartre—provides systematic methods for investigating intentionality. Through the *epoché* (methodological suspension of assumptions about the external world), phenomenology reveals consciousness as always directed toward objects, bracketing whether intended objects exist to focus on how they appear.
 
-This shows why Brentano was right: consciousness is never empty. Every perception, thought, memory, and emotion is directed toward something. [Perception](/topics/dualist-perception/) is the paradigm case—the most transparently intentional form of consciousness, directed outward toward objects in a way that resists reduction to causal relations between neurons.
+This confirms Brentano: consciousness is never empty. [Perception](/topics/dualist-perception/) is the paradigm case—the most transparently intentional form of consciousness, directed outward toward objects in a way that resists reduction to causal relations between neurons.
 
-Phenomenology also reveals the connection between intentionality and first-person irreducibility. Neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris shows up in your experience as a meaningful object. This supports both Brentano's thesis and The Unfinishable Map's [Dualism](/tenets/#dualism) commitment.
+Phenomenology also reveals the connection between intentionality and first-person irreducibility. Neuroscience might identify which neurons fire when you think about Paris, but it cannot capture the *aboutness*—the way Paris shows up as a meaningful object in experience. This supports both Brentano's thesis and The Unfinishable Map's [Dualism](/tenets/#dualism) commitment.
 
 ## Brentano's Thesis
 
@@ -71,17 +71,17 @@ These features, Brentano claimed, are unique to mental phenomena. No purely phys
 
 Since Brentano, many philosophers have tried to naturalize intentionality—to explain it in purely physical or biological terms. None has succeeded.
 
-**Causal theories** (Dretske, Fodor) propose that a mental state is about whatever reliably causes it. But this faces the "disjunction problem": a frog's snap response is caused by flies but also by fly-like BBs. Is the representation *about* flies, or about "flies-or-BBs"? Causal history alone cannot determine content.
+**Causal theories** (Dretske, Fodor) propose that a mental state is about whatever reliably causes it. But the "disjunction problem" defeats this: a frog's snap response is caused by flies and by fly-like BBs alike. Causal history alone cannot determine content.
 
 **Teleosemantic theories** (Millikan) appeal to biological function: a representation is about what it was selected to track. But evolution selects for survival-relevant responses, not determinate contents. A frog's fly-detector needn't represent *flies* rather than *small dark moving things*—either content explains the selected behaviour.
 
-**Informational theories** encounter the problem that mere correlation isn't representation. A tree ring carries information about annual rainfall, but doesn't *represent* rainfall—it's not *about* anything. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) sharpens this: physical information is purely syntactic, and syntax alone cannot generate the semantic directedness that intentionality requires.
+**Informational theories** encounter the problem that correlation isn't representation. A tree ring carries information about annual rainfall but is not *about* anything. The [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) sharpens this: physical information is purely syntactic, and syntax alone cannot generate semantic directedness.
 
-**Functional role theories** define content by inferential relations. But these relations are themselves open to multiple content-interpretations. The network of functional roles underdetermines which specific contents populate it.
+**Functional role theories** define content by inferential relations, but these relations are open to multiple content-interpretations. The network of functional roles underdetermines which specific contents populate it.
 
 The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty.
 
-No naturalistic theory has achieved consensus—a point reinforced by over a century of attempts since Brentano's original challenge. The [intentionality void](/voids/intentionality-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the apparently simpler physical explanations don't work.
+No naturalistic theory has achieved consensus after over a century of attempts. The [intentionality void](/voids/intentionality-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the apparently simpler physical explanations don't work.
 
 ## Phenomenal Intentionality Theory
 
@@ -119,13 +119,13 @@ Horgan and Tienson make the connection explicit: phenomenal consciousness is inh
 
 ### From Intentionality to Meaning
 
-The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse. This connection extends to the social domain: [collective intentionality](/topics/consciousness-and-collective-phenomena/)—shared goals, joint commitments, institutional facts—also appears to require phenomenal consciousness as its foundation.
+The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
 
 The [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding-and-meaning/) (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience.
 
 PCT reinforces PIT with empirical evidence from [semantic memory](/concepts/semantic-memory/) research. The tip-of-the-tongue (TOT) state is revealing: you have the meaning without the phonological form. The semantic content is phenomenally present—you know what you mean—but the word won't come. This dissociation shows meaning has phenomenal character independent of linguistic expression.
 
-The feeling of knowing (FOK) extends this: you feel confident you know something before retrieving it. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about data you haven't accessed. The "aha" of insight arrives with experiential quality before its correctness is checked. These phenomena make visible what normally operates transparently: meaning has phenomenal character that becomes apparent when normal retrieval is disrupted.
+The feeling of knowing (FOK) extends this: you feel confident you know something before retrieving it. If meaning were non-phenomenal information, FOK would be inexplicable—a feeling about data you haven't accessed. These phenomena make visible what normally operates transparently: meaning has phenomenal character that becomes apparent when normal retrieval is disrupted.
 
 ### Understanding as Phenomenal Binding
 
@@ -139,7 +139,7 @@ John Searle distinguishes between *original* and *derived* intentionality. When 
 
 PIT explains this distinction: original intentionality requires phenomenal character because phenomenal character is what makes something genuinely about its object *for the system itself*. Derived intentionality lacks phenomenal character in the representing system—the meaning exists only in interpreting minds.
 
-This applies directly to computation. Computer symbols have derived intentionality: "PARIS" represents Paris only because programmers assigned that meaning. Searle's Chinese Room makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics.
+This applies directly to computation. Computer symbols have derived intentionality: "PARIS" represents Paris only because programmers assigned that meaning. Searle's Chinese Room makes this vivid: the room produces appropriate Chinese outputs without understanding Chinese, because symbol manipulation provides syntax without the phenomenal character that constitutes genuine semantics. The distinction also bears on [collective intentionality](/topics/consciousness-and-collective-phenomena/)—shared goals, joint commitments, institutional facts—where group-level aboutness appears to require phenomenal consciousness in participants rather than emerging from organisational structure alone.
 
 ## Objections and Responses
 
@@ -171,7 +171,7 @@ This applies directly to computation. Computer symbols have derived intentionali
 
 PIT deepens the [hard problem](/topics/hard-problem-of-consciousness/) by extending it into intentionality:
 
-**If consciousness grounds intentionality** (PIT), then explaining intentionality requires solving the hard problem first. We cannot understand *aboutness* without understanding *what it's like*. The [explanatory gap](/concepts/explanatory-gap/) between physical description and conscious experience encompasses the gap between physical description and determinate content.
+**If consciousness grounds intentionality** (PIT), then explaining intentionality requires solving the hard problem first. The [explanatory gap](/concepts/explanatory-gap/) between physical description and conscious experience encompasses the gap between physical description and determinate content.
 
 **If intentionality grounds consciousness** (some representationalist views), then conscious experience is a form of intentional representation. But this still leaves the hard problem: why does representing in this way feel like anything?
 
@@ -185,7 +185,7 @@ For the Map, the first option is most compatible with the tenets. Consciousness 
 
 **The self-refutation response**: The thesis "intentionality is not real" would itself lack determinate content if there's no fact about what thoughts are about. Dennett must explain how the illusion of aboutness arises without invoking genuine aboutness. (Many philosophers consider this objection question-begging—it presupposes the phenomenal character of "seeming" that illusionism denies. See [illusionism](/concepts/illusionism/) for the full argument and Frankish's quasi-phenomenal properties response.)
 
-**The explanatory burden**: Even granting the self-refutation objection is contested, illusionism about intentionality still trades the naturalization problem for the problem of explaining why the illusion is so pervasive. [Introspection](/concepts/introspection/) reveals directedness as a constitutive feature of thought—thinking presents itself as already *about* something.
+**The explanatory burden**: Even granting that the self-refutation objection is contested, illusionism about intentionality trades the naturalization problem for the problem of explaining why the illusion is so pervasive. [Introspection](/concepts/introspection/) reveals directedness as a constitutive feature of thought—thinking presents itself as already *about* something.
 
 ## Implications for AI Consciousness
 
@@ -201,9 +201,7 @@ The Map's position: [AI consciousness](/topics/ai-consciousness/) is unlikely gi
 
 Alfred North Whitehead's process philosophy offers a complementary perspective. For Whitehead, reality consists of "actual occasions"—momentary events of experience that "prehend" (grasp) other occasions. Prehension is Whitehead's technical term for a relation that includes but generalizes intentionality: every actual occasion takes up or references other occasions in constituting itself.
 
-**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is a sophisticated development of something omnipresent.
-
-**Objective immortality**: Past occasions remain available for prehension by subsequent occasions. Thought about past events continues how experience always incorporates its predecessors, rather than being a mysterious relation to what no longer exists.
+**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is a sophisticated development of something omnipresent. **Objective immortality** ensures past occasions remain available for prehension, so thought about past events continues how experience always incorporates its predecessors.
 
 Process philosophy thus treats intentionality as an intensification of something pervasive, not an anomaly requiring special explanation.
 
@@ -244,27 +242,21 @@ Intentionality connects to all five foundational tenets:
 ## Further Reading
 
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
-- [semantic-memory](/concepts/semantic-memory/) — How meaning is stored, accessed, and experienced
-- [phenomenology](/concepts/phenomenology/) — The tradition that discovered and systematically investigates intentionality
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Does thinking itself have phenomenal character that grounds content?
-- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — If cognitive phenomenology is real, meaning itself is irreducible—the phenomenal intentionality case applied to thought
+- [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The phenomenal intentionality case applied to thought
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
-- [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanations leave consciousness unexplained
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
 - [functionalism](/concepts/functionalism/) — A view that PIT challenges
 - [qualia](/concepts/qualia/) — The phenomenal properties that may ground intentionality
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Emotional intentionality as a sui generis mode distinct from belief and perception
-- [binding-problem](/concepts/binding-problem/) — How distributed processes combine into unified experience; the binding dimension of understanding
+- [binding-problem](/concepts/binding-problem/) — The binding dimension of understanding
 - [illusionism](/concepts/illusionism/) — The radical denial that intentionality and consciousness are real
-- [introspection](/concepts/introspection/) — How we access intentional states and whether that access is reliable
-- [decoherence](/concepts/decoherence/) — The quantum biology objection and why it may not apply
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
 - [intentionality-void](/voids/intentionality-void/) — Why the mechanism of reference is structurally hidden from consciousness
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and institutional facts require phenomenal consciousness
-- [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals consciousness's irreducibility
 - [direction-of-fit](/concepts/direction-of-fit/) — Classifying intentional states by whether mind adapts to world or world adapts to mind
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation to phenomenal qualities that may ground intentional content
-- [heterophenomenology](/concepts/heterophenomenology/) — Dennett's methodological alternative and its limitations
+- [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals consciousness's irreducibility
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why physical information is syntactic and consciousness supplies semantics
 - [intentionality-consciousness-2026-01-14](/research/intentionality-consciousness-2026-01-14/) — Research notes on this topic
 

@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-29
-**Article**: [The Prediction Landscape: Where Consciousness-Collapse Parts Company with Decoherence](/topics/consciousness-collapse-prediction-landscape/)
+**Article**: [The Prediction Landscape: Where Consciousness-Collapse Parts Company with Decoherence](/topics/testing-consciousness-collapse/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

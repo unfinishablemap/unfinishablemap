@@ -114,7 +114,7 @@ The Map's tenets converge on pain as a central case.
 - [epiphenomenalism](/concepts/epiphenomenalism/)
 - [inverted-qualia](/concepts/inverted-qualia/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)
 
 ## References
 

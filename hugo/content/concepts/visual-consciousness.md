@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-09 10:46:00+00:00
+ai_modified: 2026-03-29 22:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The phenomenal experience of seeing—what it's like to perceive co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 20:39:00+00:00
+last_deep_review: 2026-03-29 22:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The [inverted spectrum](/concepts/inverted-qualia/) thought experiment targets v
 
 ### Temporal Dynamics
 
-Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. The [temporal-consciousness](/concepts/temporal-consciousness/)—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
+Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. [Temporal consciousness](/concepts/temporal-consciousness/)—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
 
 Change blindness reveals how attention shapes visual consciousness. Massive visual changes go unnoticed when they coincide with saccades or scene disruptions. Visual consciousness does not passively register visual information—[attention](/concepts/attention-as-interface/) selects what enters awareness.
 
@@ -90,9 +90,9 @@ Key visual NCC findings:
 - **V1 is necessary for normal visual consciousness**: Damage produces [blindsight](/concepts/blindsight/)—preserved processing without phenomenal seeing
 - **V4 is necessary for colour consciousness**: Lesions cause achromatopsia—complete loss of colour experience while brightness perception remains
 - **Motion area MT/V5 correlates with motion consciousness**: Damage impairs motion perception specifically
-- **Lateral occipital cortex correlates with object consciousness**: The "what" stream's endpoint
+- **Lateral occipital cortex correlates with object consciousness**: A key node in the ventral ("what") stream
 
-These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations. The [capability division framework](/voids/capability-division-problem/) suggests that NCC research maps the brain-side boundary: it identifies where neural processing reaches the interface with mind-side contributions like phenomenal rendering and experiential ownership. [Capability division in vision](/concepts/capability-division-in-vision/) examines the specific evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — that constrains where this boundary falls.
+These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations. On the interactionist reading, the [capability division framework](/voids/capability-division-problem/) suggests that NCC research maps the brain-side boundary: it identifies where neural processing reaches the interface with mind-side contributions like phenomenal rendering and experiential ownership. [Capability division in vision](/concepts/capability-division-in-vision/) examines the specific evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — that constrains where this boundary falls.
 
 ## The Problem Visual Consciousness Poses
 

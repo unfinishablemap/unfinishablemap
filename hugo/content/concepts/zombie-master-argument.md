@@ -96,7 +96,7 @@ The master argument has persisted for three decades not because philosophers hav
 - **Denying the conceivability-possibility link** requires an error theory for phenomenal concepts that doesn't apply to other concepts — special pleading for the hardest case.
 - **Denying non-entailment** effectively concedes dualism's core claim while clinging to physicalist terminology.
 
-The argument also regenerates against sophisticated responses. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology).
+The argument also regenerates against sophisticated responses. The [phenomenal concepts strategy](/concepts/phenomenal-concepts-strategy/), which explains the apparent conceivability gap as a feature of how we *think about* consciousness rather than what consciousness *is*, faces a dilemma: either the special cognitive mode is itself phenomenally conscious (generating a new conceivability argument at the meta-level) or it's purely functional (and we can conceive of it without the accompanying phenomenology). For the full case — including Fürst's reversal showing PCS's own framework supports dualism — see [the critical evaluation of PCS](/topics/phenomenal-concepts-as-materialist-response/).
 
 ## Relation to Site Perspective
 

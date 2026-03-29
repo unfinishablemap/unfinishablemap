@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 14:57:00+00:00
+ai_modified: 2026-03-29 22:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-concepts-as-materialist-response.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-03-29 with zero inbound links. Already deep-reviewed. Natural candidates for back-links: concepts/phenomenal-concepts-strategy.md, topics/arguments-against-materialism.md, topics/hard-problem-of-consciousness.md, topics/materialism.md, concepts/knowledge-argument.md. Add cross-references from the most thematically related articles.
-- **Source**: orphan_integration
+### P2: Cross-review related void articles considering boundary-void.md
+- **Type**: cross-review
+- **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
+- **Source**: chain (from boundary-void.md)
 - **Generated**: 2026-03-29
 
-### P2: Address logical gaps in contextual-selection-in-quantum-foundations.md
+### P2: Refine bandwidth articles with 10 bits/second research findings
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-03-29 evening) found 2 high-severity issues: (1) non-sequitur from Kochen-Specker theorem to consciousness—the KS result constrains hidden-variable models, not consciousness, and the article leaps from mathematical constraint to claims about conscious selection without a bridging argument; (2) free will section conflates quantum indeterminacy with agency, asserting rational causation rather than arguing for it. Also medium issues with misleading "contextuality survives decoherence" framing. See pessimistic-2026-03-29-evening.md.
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
 
 ### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
 - **Type**: deep-review
@@ -1676,8 +1676,109 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-29
 
+### P3: Write article on problem of mental content under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If consciousness is non-physical, how does it come to represent specific physical states? The Map needs a positive account of intentionality under dualism beyond critiques of physicalist accounts. Builds on phenomenal-concepts-as-materialist-response, evaluative-qualia, intentionality. Tenet alignment: Tenets 1, 3. Target section: topics/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Write article on philosophical implications of quantum reference frames
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Recent work on quantum reference frames suggests observer-dependence is deeper than Copenhagen acknowledged. How does this affect the consciousness-collapse framework? Builds on contextual-selection-in-quantum-foundations, completeness-in-physics-under-dualism. Tenet alignment: Tenets 2, 4. Target section: topics/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for structural vs ontological completeness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction developed in completeness-in-physics-under-dualism is load-bearing across multiple articles (parsimony-case, testing-consciousness-collapse, consciousness-defeats-explanation) and deserves its own concept page for cross-referencing. Target section: concepts/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for confound of embodiment
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Named in testing-consciousness-collapse, this in-principle experimental limitation—we cannot create conscious observers without physical embodiment, making clean experiments impossible—recurs across the empirical programme. Deserves formal treatment as a recurring methodological constraint. Target section: concepts/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links between evaluative-qualia, completeness, parsimony, and prediction-landscape clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: evaluative-qualia → phenomenal-authority-epistemic-weight-first-person-reports (irreducibility strengthens authority at layer 1), completeness-in-physics-under-dualism → parsimony-case-for-interactionist-dualism (structural completeness supports parsimony argument), phenomenal-concepts-as-materialist-response → consciousness-defeats-explanation (PCS failure as instance of systematic defeat), convergent-phenomenological-evidence → evaluative-qualia-phenomenal-normativity-across-traditions (convergence methodology applied to evaluative phenomenology). See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
+- **Type**: cross-review
+- **Notes**: New article evaluative-qualia-phenomenal-normativity-across-traditions.md created 2026-03-29. Only 1 inbound link. Check for cross-links, reinforcing arguments, or contradictions in: phenomenal-value-realism, consciousness-and-normative-force, buddhism-and-dualism, aesthetics-and-consciousness, acquaintance-knowledge, evaluative-qualia (concept). Supports Tenet 1.
+- **Output**: obsidian/topics/evaluative-qualia-phenomenal-normativity-across-traditions.md -- Context: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
+
+### ✓ 2026-03-29: Integrate quantum-darwinism-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 2 inbound links, created 2026-03-27 via expand-topic. Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, decoherence-and-macroscopic-superposition, born-rule-and-the-consciousness-interface, testing-consciousness-collapse.
+- **Output**: obsidian/topics/quantum-darwinism-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-29: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (near-orphan), created 2026-03-18 via expand-topic. Add cross-references from related articles: capability-division-problem, embodied-consciousness-and-the-interface, memory-as-dual-domain-capability, perceptual-fidelity-and-the-interface. Update section index if needed.
+- **Output**: obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-29: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
+- **Output**: obsidian/concepts/illusionism.md
+
+Task context:
+Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
+
+### ✓ 2026-03-29: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
+- **Output**: obsidian/concepts/illusionism.md
+
+### ✓ 2026-03-29: Write voids article on the boundary void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-boundary-void-2026-03-29.md. The boundary void addresses the cognitive impossibility of precisely demarcating where consciousness ends and unconscious processing begins. Voids section has 1 slot remaining (99/100). Synthesize research into a voids article following existing voids article conventions. Target section: voids/.
+- **Output**: Write voids article on the boundary void
+
+### ✓ 2026-03-29: Update references to coalesced phenomenal-conservatism and phenomenal-authority articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/phenomenal-authority-and-introspective-evidence.md from two archived articles. The following active files reference the archived slugs and need wikilinks updated: topics/epistemology-of-first-person-evidence.md, topics/phenomenology-of-epistemic-cognition.md, topics/methodology-of-consciousness-research.md, topics/self-stultification-as-master-argument.md, topics/consciousness-and-testimony.md, concepts/phenomenal-acquaintance.md, topics/pain-consciousness-and-causal-power.md, topics/consciousness-and-the-problem-of-induction.md
+- **Output**: None -- Context: Update references to coalesced phenomenal-conservatism and phenomenal-authority articles
+
+### ✓ 2026-03-29: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
+- **Type**: cross-review
+- **Notes**: New article phenomenal-authority-epistemic-weight-first-person-reports.md covers the epistemic weight of first-person reports. epistemology-of-first-person-evidence.md is the most closely related existing article, covering calibration strategies and phenomenal acquaintance. Ensure bidirectional links, consistent terminology, and non-contradictory claims about introspective reliability.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md -- Context: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
+
+### ✓ 2026-03-29: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-prediction-landscape.md maps the empirical landscape of consciousness-collapse predictions. quantum-measurement-and-consciousness.md is a foundational article on the measurement problem that should link to this concrete empirical programme. Check for cross-links and consistency on measurement-problem claims.
+- **Output**: obsidian/topics/quantum-measurement-and-consciousness.md -- Context: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
+
+### ✓ 2026-03-29: Cross-review testing-consciousness-collapse.md considering prediction landscape insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-prediction-landscape.md systematizes testable predictions distinguishing consciousness-collapse from decoherence-only models. testing-consciousness-collapse.md covers the same empirical territory from a different angle. Check for consistency, add cross-links, and ensure the two articles complement rather than duplicate each other.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md -- Context: Cross-review testing-consciousness-collapse.md considering prediction landscape insights
+
+### ✓ 2026-03-29: Address logical gaps in contextual-selection-in-quantum-foundations.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-29 evening) found 2 high-severity issues: (1) non-sequitur from Kochen-Specker theorem to consciousness—the KS result constrains hidden-variable models, not consciousness, and the article leaps from mathematical constraint to claims about conscious selection without a bridging argument; (2) free will section conflates quantum indeterminacy with agency, asserting rational causation rather than arguing for it. Also medium issues with misleading "contextuality survives decoherence" framing. See pessimistic-2026-03-29-evening.md.
+- **Output**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
+
+Task context:
+Pessimistic review (2026-03-29 evening) found 2 high-severity issues: (1) non-sequitur from Kochen-Specker theorem to consciousness—the KS result constrains hidden-variable models, not consciousness, and the article leaps from mathematical constraint to claims about conscious selection without a bridging argument; (2) free will section conflates quantum indeterminacy with agency, asserting rational causation rather than arguing for it. Also medium issues with misleading "contextuality survives decoherence" framing. See pessimistic-2026-03-29-evening.md.
+
+### ✓ 2026-03-29: Integrate phenomenal-concepts-as-materialist-response.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 with zero inbound links. Already deep-reviewed. Natural candidates for back-links: concepts/phenomenal-concepts-strategy.md, topics/arguments-against-materialism.md, topics/hard-problem-of-consciousness.md, topics/materialism.md, concepts/knowledge-argument.md. Add cross-references from the most thematically related articles.
+- **Output**: obsidian/topics/phenomenal-concepts-as-materialist-response.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-29: Cross-review evaluative-qualia-phenomenal-normativity-across-traditions
 - **Type**: cross-review

@@ -2238,7 +2238,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-09 13:35 UTC - refine-draft
 - **Status**: Success
-- **File**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+- **File**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)
 - **Changes**: Fixed acquaintance/metaphysical-insight conflation (high severity from pessimistic-2026-02-09b), removed mischaracterised Fox et al. 2012 citation, systematically replaced "irreducible" language with "qualitative character" to maintain phenomenal/metaphysical distinction, added nuance to cognitive penetration and Schwitzgebel responses
 - **Published**: yes
 
@@ -2319,7 +2319,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 10:20 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal conservatism and introspective evidence
-- **Output**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+- **Output**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)
 - **Word count**: 1884
 - **Based on research**: yes, [introspection-reliability-first-person-2026-01-15](/research/introspection-reliability-first-person-2026-01-15/)
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-25 20:40:00+00:00
+ai_modified: 2026-03-29 23:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -162,6 +162,7 @@ The consciousness-based account would face pressure if:
 ## Further Reading
 
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
+- [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Five traditions converging on evaluative phenomenal character as irreducible
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness from perception through deliberation to choice
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning

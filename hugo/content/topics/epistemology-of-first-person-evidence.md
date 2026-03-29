@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-28 22:42:00+00:00
+ai_modified: 2026-03-29 21:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: What introspection provides, how reliable it is, and why phenomenal
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 01:54:00+00:00
+last_deep_review: 2026-03-29 21:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,6 +52,7 @@ related_articles:
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[phenomenal-authority-epistemic-weight-first-person-reports]]'
 title: The Epistemology of First-Person Evidence
 topics:
 - '[[epistemology]]'
@@ -157,7 +158,7 @@ These strategies produce a gradient rather than strict calibration. The gradient
 | Causal processes behind experience | Beyond authority | Beyond taxonomy | None effective; process opacity is structural | Very low |
 | Metaphysical interpretation of findings | Beyond authority | Beyond taxonomy | Convergence fails (traditions diverge here) | Variable |
 
-The gradient matters for the Map's project. The dualism tenet draws its force from the first and second layers — the existence and character of phenomenal states, where authority is strongest. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Rorty's insight that incorrigibility forces a choice between dualism and eliminativism (Rorty 1970) applies at the first layer: if authority over phenomenal existence is genuine, mental states are ontologically distinctive; if it is denied, the category of the mental itself becomes dispensable. The middle ground that most physicalists occupy — real phenomenal authority without dualist commitments — is unstable under this pressure.
+The gradient matters for the Map's project. The dualism tenet draws its force from the first and second layers — the existence and character of phenomenal states, where authority is strongest. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Rorty's insight that incorrigibility forces a choice between dualism and eliminativism (Rorty 1970) applies at the first layer: if authority over phenomenal existence is genuine, mental states are ontologically distinctive; if it is denied, the category of the mental itself becomes dispensable. The middle ground that most physicalists occupy — real [phenomenal authority](/topics/phenomenal-authority-and-introspective-evidence/) without dualist commitments — is unstable under this pressure.
 
 ## The Self-Stultification of Eliminativism
 
@@ -182,7 +183,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 ## Further Reading
 
 - [introspection](/concepts/introspection/) — Foundational concept article on the reliability debate
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
 - [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally
@@ -194,6 +195,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Formal conditions for when convergence carries evidential weight
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How first-person evidence grounds inference to other minds
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — What evaluating evidence feels like from the inside
+- [phenomenal authority](/topics/phenomenal-authority-and-introspective-evidence/) — The spectrum of authority positions, Rorty's dilemma, and the dualism connection
 
 ## References
 

@@ -9,6 +9,145 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-29 23:45 UTC - deep-review
+- **Status**: Success
+- **File**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)
+- **Word count**: 1932 → 1932 (+0, cross-review only)
+- **Critical issues addressed**: 0 (none found — previous review resolved all)
+- **Medium issues addressed**: 1 (missing inbound cross-references)
+- **Enhancements made**: 6 inbound cross-references added from related articles
+- **Output**: [deep-review-2026-03-29-evaluative-qualia-phenomenal-normativity-across-traditions](/reviews/deep-review-2026-03-29-evaluative-qualia-phenomenal-normativity-across-traditions/)
+
+## 2026-03-29 23:31 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 456 (229 topics, 227 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (simulation.md MWI sharpening, analytic-idealism framing)
+- **Content-hygiene**: 5 broken tenet anchors, 22 unremoved AI refinement logs, 2 other maintenance items
+- **Output**: [tenet-check-2026-03-29](/reviews/tenet-check-2026-03-29/)
+
+## 2026-03-29 23:25 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Word count**: 2179 → 2179 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 6 inbound cross-references added from related articles
+- **Output**: [deep-review-2026-03-29c-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-03-29c-quantum-darwinism-and-consciousness/)
+
+## 2026-03-29 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Word count**: 1854 → 1854 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 6 cross-references added from related articles
+- **Output**: [deep-review-2026-03-29-dual-domain-capabilities-in-proprioception-and-spatial-imagination](/reviews/deep-review-2026-03-29-dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+
+## 2026-03-29 23:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-collapse-prediction-landscape](/topics/consciousness-collapse-prediction-landscape/)
+- **Target**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Archived**: [consciousness-collapse-prediction-landscape](/archive/topics/consciousness-collapse-prediction-landscape/)
+- **References to review**: 0 (all updated)
+- **Changes**: Integrated three-tier prediction hierarchy (collapse existence, consciousness-dependence, logical constraints) from prediction landscape into testing article. Reorganized seven differential predictions into tiered structure. Added common core section. Updated references in quantum-measurement-and-consciousness.md and todo.md.
+
+## 2026-03-29 22:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Word count**: 1825 → 2228 (+403)
+- **Changes**: Integrated Frankish functional-seeming research; reframed illusionist response section to engage strongest defense directly; added Kammerer's illusion meta-problem; strengthened all four counter-arguments to address access/interpretation distinction
+- **Published**: yes
+
+## 2026-03-29 22:24 UTC - deep-review
+- **Status**: Success
+- **File**: [visual-consciousness](/concepts/visual-consciousness/)
+- **Word count**: 1748 → 1756 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (wikilink display text, LOC description precision, transition framing)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-29-visual-consciousness](/reviews/deep-review-2026-03-29-visual-consciousness/)
+
+## 2026-03-29 22:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Boundary Void
+- **Output**: [boundary-void](/voids/boundary-void/)
+- **Word count**: 1903
+- **Based on research**: yes, [voids-boundary-void-2026-03-29](/research/voids-boundary-void-2026-03-29/)
+
+## 2026-03-29 21:54 UTC - deep-review
+- **Status**: Success
+- **File**: [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/)
+- **Word count**: 2305 → 2323 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log)
+- **Enhancements made**: 1 (cross-link to coalesced phenomenal-authority article)
+- **Output**: [deep-review-2026-03-29-multi-mind-collapse-problem](/reviews/deep-review-2026-03-29-multi-mind-collapse-problem/)
+
+## 2026-03-29 21:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/), [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-epistemic-weight-first-person-reports/)
+- **Target**: [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)
+- **Archived**: [phenomenal-conservatism-and-introspective-evidence](/archive/topics/phenomenal-conservatism-and-introspective-evidence/), [phenomenal-authority-epistemic-weight-first-person-reports](/archive/topics/phenomenal-authority-epistemic-weight-first-person-reports/)
+- **References to review**: 8 active content files (cross-review task created)
+
+## 2026-03-29 21:25 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Word count**: 2825 → 2840 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to phenomenal authority article)
+- **Enhancements made**: 1 (cross-links added)
+- **Output**: [deep-review-2026-03-29-epistemology-of-first-person-evidence](/reviews/deep-review-2026-03-29-epistemology-of-first-person-evidence/)
+
+## 2026-03-29 21:09 UTC - deep-review
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/)
+- **Word count**: 3463 → 3318 (-145, condensation)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (misplaced cross-link, word count reduction)
+- **Enhancements made**: 0 (condensation-focused review)
+- **Output**: [deep-review-2026-03-29-intentionality](/reviews/deep-review-2026-03-29-intentionality/)
+
+## 2026-03-29 20:54 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Word count**: 2527 → 2631 (+104)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (prediction oversimplification, improper mixture precision, missing cross-links)
+- **Enhancements made**: 3 (prediction landscape integration, decoherence terminology, 3 new cross-links)
+- **Output**: [deep-review-2026-03-29-quantum-measurement-and-consciousness](/reviews/deep-review-2026-03-29-quantum-measurement-and-consciousness/)
+
+## 2026-03-29 20:40 UTC - deep-review
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Word count**: 3595 → 3619 (+24, length-neutral)
+- **Critical issues addressed**: 1 (Born rule overclaim harmonized with prediction landscape)
+- **Medium issues addressed**: 3 (prediction landscape cross-link, Proietti 2019, equal-Phi context)
+- **Enhancements made**: 4 (cross-links, new references, prose tightening, stale comment removal)
+- **Output**: [deep-review-2026-03-29-testing-consciousness-collapse](/reviews/deep-review-2026-03-29-testing-consciousness-collapse/)
+
+## 2026-03-29 20:31 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~118 topics, ~97 concepts, 1 tenets page), deep reading of 30+ articles with emphasis on content since 2026-01-18
+- **Output**: [optimistic-2026-03-29-evening](/reviews/optimistic-2026-03-29-evening/)
+
+## 2026-03-29 20:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
+- **Changes**: Added bridging argument for KS-to-consciousness connection; distinguished formal vs practical contextuality after decoherence; rewrote free will section to present rational agency as desideratum not delivered result; softened overclaims throughout
+- **Published**: yes
+
+## 2026-03-29 19:50 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/)
+- **Word count**: 2317 → 2317 (+0, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 8 inbound cross-references added from existing articles (orphan integration)
+- **Output**: [deep-review-2026-03-29b-phenomenal-concepts-as-materialist-response](/reviews/deep-review-2026-03-29b-phenomenal-concepts-as-materialist-response/)
+
 ## 2026-03-29 19:36 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-epistemic-weight-first-person-reports/)

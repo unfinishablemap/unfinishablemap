@@ -130,7 +130,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [introspection](/concepts/introspection/) — Foundational concept article on the reliability debate
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — The case for restoring introspection as a serious method
 - [epistemology-of-introspective-calibration](/topics/epistemology-of-introspection-and-calibration/) — Five strategies for approximating calibration despite the void
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer

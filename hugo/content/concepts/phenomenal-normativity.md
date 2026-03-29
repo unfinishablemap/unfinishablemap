@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-28 06:42:00+00:00
+ai_modified: 2026-03-29 23:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -185,6 +185,7 @@ Phenomenal normativity would face pressure if:
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on value and emptiness
 - [evaluative-qualia](/concepts/evaluative-qualia/) — The distinct category of phenomenal experiences carrying intrinsic evaluative character
+- [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Five traditions converging on evaluative qualia as irreducible—Buddhist, Confucian, Indian, Islamic, and Western
 
 ## References
 

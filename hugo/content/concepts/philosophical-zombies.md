@@ -86,7 +86,7 @@ Sophisticated Type-B physicalists invoke two-dimensional semantics, arguing that
 
 Some physicalists argue that phenomenal concepts are "special"—they pick out physical properties through a distinctive cognitive mode that explains why the zombie scenario seems conceivable even though consciousness is physical.
 
-**Challenges:** This strategy either doesn't explain enough (why is the cognitive difference so profound?) or explains too much (it would make *any* identity claim vulnerable to conceivability arguments). The persistence of the explanatory gap despite scientific progress suggests the gap is not merely epistemic.
+**Challenges:** This strategy either doesn't explain enough (why is the cognitive difference so profound?) or explains too much (it would make *any* identity claim vulnerable to conceivability arguments). The persistence of the explanatory gap despite scientific progress suggests the gap is not merely epistemic. See [the critical evaluation of PCS](/topics/phenomenal-concepts-as-materialist-response/) for Chalmers's master argument showing why no version of this strategy succeeds.
 
 ## Zombies and Functionalism
 

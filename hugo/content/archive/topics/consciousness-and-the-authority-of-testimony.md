@@ -113,7 +113,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [phenomenology-of-trust-and-testimony](/topics/consciousness-and-testimony/) — The felt experience of receiving testimony
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Logical compulsion and consciousness
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Restoring introspection as a serious method
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Phenomenal experience as evidence
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Phenomenal experience as evidence
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) — Methodological tensions in consciousness science
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism provides better epistemic resources

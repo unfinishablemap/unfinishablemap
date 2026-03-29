@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-03-29 23:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -95,7 +95,7 @@ The challenge is distinguishing which limits belong to cognition, which to consc
 
 What does it feel like to be embodied? Embodiment is so pervasive it recedes from notice, but certain experiences highlight the body's role in thought.
 
-**Spatial reasoning:** You don't compute whether furniture fits—you *imagine* the space, mentally rotating objects, feeling whether configurations work.
+**Spatial reasoning:** You don't compute whether furniture fits—you *imagine* the space, mentally rotating objects, feeling whether configurations work. The [dual-domain analysis of spatial imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) shows this phenomenal workspace has a specific architecture: physical neural reuse provides spatial computation while consciousness contributes the three-dimensional phenomenal space in which imagined objects have apparent solidity and orientation.
 
 **Emotional processing:** Emotions arrive as bodily sensations before cognitive labeling. Fear is felt in the gut before it's recognised as fear. Joy is expansive, depression is heavy.
 
@@ -155,6 +155,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge that precedes conceptual articulation
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Species-level limits shaped by natural selection rather than individual embodiment
+- [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities with physical and phenomenal dimensions
 
 ## References
 

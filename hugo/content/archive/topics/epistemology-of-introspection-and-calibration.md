@@ -169,7 +169,7 @@ These strategies produce a gradient rather than strict calibration:
 | Causal processes behind experience | None effective; process opacity is structural | Very low |
 | Metaphysical interpretation of findings | Convergence fails (traditions diverge here) | Variable |
 
-The gradient matters for assessing which philosophical arguments introspective evidence can support. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Arguments extrapolating to metaphysical conclusions require additional philosophical work beyond calibration alone, as [phenomenal conservatism](/topics/phenomenal-conservatism-and-introspective-evidence/) carefully distinguishes.
+The gradient matters for assessing which philosophical arguments introspective evidence can support. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Arguments extrapolating to metaphysical conclusions require additional philosophical work beyond calibration alone, as [phenomenal conservatism](/topics/phenomenal-authority-and-introspective-evidence/) carefully distinguishes.
 
 ## What Introspection Can Establish
 
@@ -202,7 +202,7 @@ The honest acknowledgment: these strategies do not close the [measurement-void](
 ## Further Reading
 
 - [introspection](/concepts/introspection/) — Foundational concept article on the reliability debate
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Huemer's principle as epistemological grounding
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer

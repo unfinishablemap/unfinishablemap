@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-28 22:28:00+00:00
+ai_modified: 2026-03-29 23:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -174,6 +174,7 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both frameworks address
 - [agent-causation](/concepts/agent-causation/) — How conscious beings initiate causal chains, relevant to karma
 - [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/) — When independent traditions converge on the same first-person observations
+- [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Buddhist vedanā alongside Confucian, Indian, Islamic, and Western convergence on evaluative qualia
 - [filter-theory](/concepts/filter-theory/) — Why brain correlation doesn't entail brain production
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes
 

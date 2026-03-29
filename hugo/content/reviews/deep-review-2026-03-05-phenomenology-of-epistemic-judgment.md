@@ -55,10 +55,10 @@ topics: []
 - [metacognition](/concepts/metacognition/) — inline link in Epistemic Phenomenology section
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) — inline link in Kuhn's Values section
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — inline link in bootstrapping problem discussion
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — Further Reading entry
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Further Reading entry
 
 ### Cross-link Added (outbound, from article)
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/) — inline in Limits section
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — inline in Limits section
 
 ## Remaining Items
 

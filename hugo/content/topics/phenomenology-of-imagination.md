@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-29 23:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -123,6 +123,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral imagination and the felt quality of ethical perception
 - [creativity-void](/voids/creativity-void/) — The opacity of consciousness's generative processes
+- [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Spatial imagination as a dual-domain capability: the aphantasia dissociation as evidence for separable physical and phenomenal contributions
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-20 07:37:00+00:00
+ai_modified: 2026-03-29 23:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -131,6 +131,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly to
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Motor imagery's role in skill acquisition and deliberate practice
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causation consciousness exercises, with imagery as a test case
 - [dream-consciousness](/topics/dream-consciousness/) — Dream imagery as involuntary test case where phenomenal mode tracks cognitive outcomes
+- [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Spatial imagination and proprioception as dual-domain capabilities extending the memory framework
 
 ## References
 

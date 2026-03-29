@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-03-29 23:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -166,6 +166,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Experiential evidence for consciousness theories
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Aesthetic experience guiding scientific theory choice
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
+- [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [cognitive closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
 - [resonance-void](/voids/resonance-void/) — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure

@@ -114,7 +114,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-conservatism-and-introspective-evidence/)
+- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)
 
 ## References
 

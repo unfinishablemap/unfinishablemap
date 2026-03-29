@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-27 22:54:00+00:00
+ai_modified: 2026-03-29 23:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -251,6 +251,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 - [Phenomenal Normativity](/concepts/phenomenal-normativity/) — The definitional article on this metaethical position
 - [evaluative-qualia](/concepts/evaluative-qualia/) — The distinct category of phenomenal qualities whose character is intrinsically evaluative
+- [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-traditional convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western traditions
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness from perception through deliberation to choice
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning

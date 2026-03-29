@@ -94,7 +94,7 @@ This reveals a gap across major interpretations:
 
 ## Why Decoherence Doesn't Solve It
 
-[decoherence](/concepts/decoherence/) is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—supports the [disclosure reading](/concepts/physics-as-disclosure/): the measurement problem marks a boundary in reality, not a gap in theory.
+[decoherence](/concepts/decoherence/) is sometimes claimed to solve the measurement problem. It doesn't—though it explains something substantial: why macroscopic superpositions vanish and which basis is selected. As Tomaz et al. note: "After the basis is chosen and quantum superpositions are suppressed, the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured" (2025). This clean partition—decoherence handles all structural work while leaving the actuality question untouched—supports the [disclosure reading](/concepts/physics-as-disclosure/): the measurement problem marks a boundary in reality, not a gap in theory. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) extends this result: even when environmental redundancy makes pointer states objectively accessible to independent observers, the problem of outcomes persists—the most developed decoherence programme still cannot specify which outcome becomes actual.
 
 ### A Gödelian Parallel: Systems That Cannot Describe Themselves
 
@@ -212,6 +212,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Comparative assessment of interpretations' consciousness compatibility
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — Coordination puzzles
+- [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How Zurek's framework specifies the menu while leaving the outcome gap open
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference
 - [tenets](/tenets/) — The Map's foundational commitments
 
