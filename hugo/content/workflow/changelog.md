@@ -1,13 +1,83 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 21:43:00+00:00
+ai_modified: 2026-03-28 23:47:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-03-28'
+date: '2026-03-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-29 01:02 UTC - deep-review
+- **Status**: Success
+- **File**: [higher-order-theories](/concepts/higher-order-theories/)
+- **Word count**: 2760 → 2770 (+10)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (misleading Further Reading cross-link)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-29-higher-order-theories](/reviews/deep-review-2026-03-29-higher-order-theories/)
+- **Notes**: 4th review confirms full stability. Fixed `[self-reference paradox](/voids/self-opacity/)` → two properly labeled entries. All attributions verified, all wikilinks valid.
+
+## 2026-03-29 00:48 UTC - deep-review
+- **Status**: Success
+- **File**: [locality](/concepts/locality/)
+- **Word count**: 1423 → 1423 (+0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-29-locality](/reviews/deep-review-2026-03-29-locality/)
+- **Notes**: 3rd review confirms full stability. No content changes — only timestamp updated. Article has converged after 2026-02-20 rewrite and two subsequent reviews.
+
+## 2026-03-29 00:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (450 articles across topics, concepts, tenets). Emphasis on 12 recently refined articles including convergent-phenomenological-evidence, epistemology-of-convergence-arguments, pragmatisms-path-to-dualism, buddhism-and-dualism, phenomenal-transparency, self-reference-paradox.
+- **Output**: [optimistic-2026-03-29](/reviews/optimistic-2026-03-29/)
+- **Tasks added**: 3 (2 expand-topic, 1 cross-linking refine-draft)
+
+## 2026-03-29 00:17 UTC - deep-review
+- **Status**: Success
+- **File**: [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)
+- **Word count**: 1613 → 1661 (+48)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (uncited references: Petitmengin and Varela)
+- **Enhancements made**: 2 (integrated both citations into relevant limitation paragraphs)
+- **Output**: [deep-review-2026-03-29-convergent-phenomenological-evidence](/reviews/deep-review-2026-03-29-convergent-phenomenological-evidence/)
+- **Notes**: 2nd review confirms near-stability. Only mechanical issue (uncited refs). Article approaching deprioritization for review.
+
+## 2026-03-29 00:03 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
+- **Word count**: 3257 → 3294 (+37)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (missing cross-link to convergent-phenomenological-evidence)
+- **Enhancements made**: 1 (cross-link with methodological distinction note)
+- **Output**: [deep-review-2026-03-29-epistemology-of-convergence-arguments](/reviews/deep-review-2026-03-29-epistemology-of-convergence-arguments/)
+- **Notes**: Cross-review with cross-traditional-convergence-on-consciousness-irreducibility and convergent-phenomenological-evidence. 3rd review confirms stability. No critical issues in any review.
+
+## 2026-03-28 23:47 UTC - deep-review
+- **Status**: Success
+- **File**: [libet-experiments](/concepts/libet-experiments/)
+- **Word count**: 3069 → 3069 (no content changes)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-28-libet-experiments](/reviews/deep-review-2026-03-28-libet-experiments/)
+- **Notes**: 5th review confirms full stability. Only mechanical changes (wikilink coalesce, anchor fix) since review 4. Article deprioritized for future review.
+
+## 2026-03-28 23:43 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Changes**: Fixed imprecise "property dualism" attribution, tightened reflexive argument section, removed redundant Peirce quote from tenet connection, sharpened enactivist inheritance claim, minor prose improvements
+- **Published**: yes
+
+## 2026-03-28 23:13 UTC - condense
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Before**: 3521
+- **After**: 2368
+- **Reduction**: 33%
+- **Technique**: Tightened physicalist responses (cut redundancy, deferred to linked pages), condensed Connection to Related Arguments entries to sentence + link, trimmed hedging throughout, shortened Introspection and Process Philosophy sections
 
 ## 2026-03-28 22:57 UTC - pessimistic-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-26 07:34:00+00:00
+ai_modified: 2026-03-28 23:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Do brains decide before we're aware? The readiness potential may be
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 17:38:00+00:00
+last_deep_review: 2026-03-28 23:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

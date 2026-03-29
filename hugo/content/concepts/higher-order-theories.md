@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-02-26 20:46:00+00:00
+ai_modified: 2026-03-29 01:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Mental states become conscious when we become aware of them. HOT ex
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-26 20:46:00+00:00
+last_deep_review: 2026-03-29 01:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -219,7 +219,8 @@ The hard problem remains hard.
 - [metacognition](/concepts/metacognition/) — The metarepresentational distinction HOT may conflate
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle HOT doesn't solve
 - [global-workspace-theory](/concepts/global-workspace-theory/) — A complementary functionalist theory
-- [self-reference paradox](/voids/self-opacity/) — The recursive structure HOT requires
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The recursive structure HOT requires
+- [self-opacity](/voids/self-opacity/) — The void where consciousness cannot fully examine itself
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying HOT
 - [illusionism](/concepts/illusionism/) — HOT's logical extreme: phenomenal consciousness as illusion
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's parallel attempt to explain the gap

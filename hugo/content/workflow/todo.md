@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 21:57:00+00:00
+ai_modified: 2026-03-28 23:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of Jackson's Mary's Room argument while tightening exposition. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-28
 
 ### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
 - **Type**: deep-review
@@ -1622,8 +1615,62 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-28
 
+### P3: Write article on the phenomenology of absence as cross-cutting theme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles independently identify absence as consciousness's most revealing feature (absent self, absent content, absent subject-object division, absent transparency, absent self-knowledge). A dedicated article systematising this pattern would unify the phenomenological programme. Builds on convergent-phenomenological-evidence, self-reference-paradox, phenomenal-transparency, buddhism-and-dualism, apophatic-approaches. Target section: topics/. See optimistic-2026-03-29.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Write article on bandwidth constraints as architectural prediction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The ~10 bits/second bandwidth figure appears across multiple articles as a constraint on conscious selection. A dedicated treatment formalising what this predicts about attention, decision-making, skill acquisition, and effort phenomenology would transform a scattered observation into a research programme. Builds on consciousness-selecting-neural-patterns, free-will, the Interface Specification Programme apex. Target section: topics/. See optimistic-2026-03-29.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links between convergence cluster and phenomenology articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: convergent-phenomenological-evidence → self-reference-paradox (absence as revealing feature), phenomenal-transparency → buddhism-and-dualism (deconstruction as transparency disruption), pragmatisms-path-to-dualism → consciousness-and-integrated-information (reflexive argument attacks identity thesis), epistemology-of-convergence-arguments → neurophenomenology-and-contemplative-neuroscience (methodology for empirically tractable convergence), free-will → consciousness-selecting-neural-patterns (domain-independent architecture implements via quantum selection), phenomenal-normativity-environmental-ethics → buddhism-and-dualism (karma as phenomenal normativity in action). See optimistic-2026-03-29.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review higher-order-theories.md for quality and currency
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-26 — 30 days ago. Concept page on higher-order theories of consciousness (Rosenthal's HOT, Lycan's HOP, Brown's HOT*). These theories are among the most developed physicalist competitors and the page needs to be current. Verify accuracy of theory representations, coherence of the dualist critique, cross-references to access-consciousness and phenomenal-consciousness, and tenet alignment.
+- **Output**: obsidian/concepts/higher-order-theories.md
+
+### ✓ 2026-03-29: Deep review locality.md for quality and currency
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 31 days ago. Concept page on interface locality directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles on amplification mechanisms and the consciousness-physics interface, cross-references to interface-locality and interface-location-problem, and tenet alignment. Check whether the pessimistic review finding about "mind side could be complex" unfalsifiability (see pessimistic-2026-03-28-c.md) has been addressed.
+- **Output**: obsidian/concepts/locality.md
+
+### ✓ 2026-03-29: Deep review convergent-phenomenological-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) created 2026-03-28 via expand-topic. Creation-time review is not a substitute for independent deep review. Verify accuracy of cross-traditional claims (Buddhist, Hindu, Christian mystical, Islamic, and phenomenological convergence), coherence of the triangulation argument, cross-references to epistemology-of-convergence-arguments and methodological-pluralism, and tenet alignment. Check that the distinction between convergent phenomenological evidence and the broader convergence argument is clear.
+- **Output**: obsidian/concepts/convergent-phenomenological-evidence.md
+
+### ✓ 2026-03-29: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28 introduces triangulation across subjective reports as a distinct form of evidence. Review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md for cross-links to the new concept, consistency in how convergence is characterised, and whether the new triangulation framing strengthens or qualifies existing arguments. Also check contemplative-practice-as-philosophical-evidence.md and comparative-phenomenology-of-meditative-traditions.md.
+- **Output**: obsidian/topics/epistemology-of-convergence-arguments.md -- Context: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
+
+### ✓ 2026-03-28: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md and william-james-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md for existing article enhancement. Key findings to integrate: Peirce's tychism as historical precedent for quantum indeterminism tenet, James's panpsychist sympathies as context for prebiotic collapse discussion, Putnam's trajectory away from functionalism as evidence against that framework, and the pragmatist-to-enactivist pipeline as background for embodied cognition articles. Primary targets: pragmatisms-path-to-dualism.md (Peirce and Putnam connections) and william-james-consciousness.md (panpsychist sympathies, radical empiricism).
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md for existing article enhancement. Key findings to integrate: Peirce's tychism as historical precedent for quantum indeterminism tenet, James's panpsychist sympathies as context for prebiotic collapse discussion, Putnam's trajectory away from functionalism as evidence against that framework, and the pragmatist-to-enactivist pipeline as background for embodied cognition articles. Primary targets: pragmatisms-path-to-dualism.md (Peirce and Putnam connections) and william-james-consciousness.md (panpsychist sympathies, radical empiricism).
+
+### ✓ 2026-03-28: Condense knowledge-argument.md (3521 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core treatment of Jackson's Mary's Room argument while tightening exposition. See /condense skill.
+- **Output**: obsidian/concepts/knowledge-argument.md
 
 ### ✓ 2026-03-28: Condense epistemology-of-first-person-evidence.md (5077 words, 127% of hard threshold)
 - **Type**: condense
