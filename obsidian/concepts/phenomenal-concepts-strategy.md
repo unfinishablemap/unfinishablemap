@@ -172,6 +172,7 @@ Several findings would strengthen PCS and weaken the dualist interpretation:
 - [[illusionism]] — The radical alternative that denies phenomenal properties
 - [[introspection]] — The access mechanism PCS relies upon
 - [[knowledge-argument]] — Mary's Room in full detail
+- [[phenomenal-concepts-as-materialist-response|Why PCS fails]] — Chalmers's master argument, Fürst's reversal, and the persistence problem
 - [[witness-consciousness]] — Contemplative access to bare awareness
 - [[haecceity]] — Indexical identity and zombie conceivability
 

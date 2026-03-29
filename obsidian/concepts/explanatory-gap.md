@@ -116,7 +116,7 @@ Perhaps consciousness as we conceive it doesn't exist. We have the *illusion* of
 
 Perhaps the gap reflects how we *think* about experience rather than what experience *is*. We have special concepts for consciousness—phenomenal concepts—that don't connect transparently to physical concepts. But this is a feature of our concepts, not of reality.
 
-Problem: this doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? The gap in concepts points to a gap in the referents.
+Problem: this doesn't explain why phenomenal concepts work this way. If consciousness is physical, why do we conceptualize it so differently from other physical things? The gap in concepts points to a gap in the referents. For a detailed analysis of why all major versions of this strategy fail, see [[phenomenal-concepts-as-materialist-response|the critical evaluation of PCS]].
 
 ### Future Science
 

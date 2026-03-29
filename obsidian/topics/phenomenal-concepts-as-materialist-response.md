@@ -4,7 +4,7 @@ description: "The phenomenal concepts strategy concedes the explanatory gap but 
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-29T10:11:00+00:00
+ai_modified: 2026-03-29T19:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-03-29T10:11:00+00:00
+last_deep_review: 2026-03-29T19:50:00+00:00
 ---
 
 The phenomenal concepts strategy (PCS) is the strongest materialist response to dualist arguments from consciousness. Rather than denying that the [[explanatory-gap|explanatory gap]] exists, PCS concedes it — then locates the gap in our *concepts* rather than in reality itself. Mary in her black-and-white room gains new ways of thinking about old facts, not knowledge of new facts. [[philosophical-zombies|Zombies]] are conceivable because phenomenal and physical concepts are cognitively independent, not because consciousness is non-physical.

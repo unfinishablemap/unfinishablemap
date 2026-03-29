@@ -173,6 +173,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[explanatory-gap]] — The conceptual gap the knowledge argument dramatizes
 - [[qualia]] — The experiential properties Mary learns about
 - [[phenomenal-concepts-strategy]] — The main physicalist response and its problems
+- [[phenomenal-concepts-as-materialist-response|Why PCS fails]] — Chalmers's Horn 1/Horn 2 dilemma and Fürst's reversal
 - [[philosophical-zombies]] — A related conceivability argument for dualism
 - [[illusionism]] — The radical physicalist response denying phenomenal facts exist
 - [[introspection]] — How Mary recognizes she learned something new
