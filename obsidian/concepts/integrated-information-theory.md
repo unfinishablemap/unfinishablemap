@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-29T05:46:00+00:00
+ai_modified: 2026-03-29T06:01:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-03-05T11:47:00+00:00
+last_deep_review: 2026-03-29T06:01:00+00:00
 ---
 
 Integrated Information Theory (IIT) proposes that consciousness *is* integrated information—not that it correlates with or emerges from it, but that consciousness and integrated information are identical. Developed by neuroscientist Giulio Tononi, IIT offers one of the most mathematically rigorous theories of consciousness, complete with a quantitative measure (phi/Φ) that purports to capture how conscious any system is.
@@ -52,7 +52,7 @@ IIT begins with axioms—self-evident truths about experience that anyone can ve
 4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [[unity-of-consciousness|phenomenal unity]] question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
 
-IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [[temporal-structure-of-consciousness|Kent and Wittmann (2021)]] note, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
+IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [[temporal-structure-of-consciousness|work on temporal structure]] suggests, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
 
 These aren't claims about the brain. They're claims about what any conscious experience involves.
 
@@ -70,7 +70,7 @@ The key measure is **phi (Φ)**—integrated information. Phi quantifies how muc
 
 ### The Mathematics
 
-IIT provides formulas for calculating phi. Roughly: take a system, partition it in every possible way, measure how much information is lost in each partition, and take the partition that loses least. Phi equals the information lost even in this minimal partition. If phi is zero, the system can be fully understood as independent parts. If phi is positive, something is lost when you decompose it—and IIT claims this "something" is consciousness.
+IIT provides formulas for calculating phi. Roughly: partition a system in every possible way, measure how much information each partition loses, and take the partition that loses least. Phi equals the information lost even in this minimal partition. If phi is zero, the system reduces to independent parts. If phi is positive, something is lost when you decompose it—and IIT claims this "something" is consciousness.
 
 The system with the highest phi is the "maximally irreducible conceptual structure" (MICS)—and this, IIT claims, *is* the conscious experience.
 
@@ -126,9 +126,7 @@ IIT defenders note that extrapolation beyond direct testability is inevitable fo
 
 ### The Templeton Tests
 
-A major empirical test, funded by the Templeton Foundation and involving 250 subjects across six labs, pitted IIT against its main rival, Global Neuronal Workspace Theory (GNWT). Results announced in 2023: IIT fared slightly better, correctly predicting that posterior cortex activity would persist during conscious perception (2 of 3 predictions passed, vs. 0 of 3 for GNWT).
-
-The results were inconclusive but encouraging for IIT. More tests are underway. This represents consciousness science's turn toward empirical discrimination between theories.
+A major empirical test, funded by the Templeton Foundation and involving 250 subjects across six labs, pitted IIT against its main rival, Global Neuronal Workspace Theory (GNWT). Results announced in 2023: IIT fared slightly better, correctly predicting that posterior cortex activity would persist during conscious perception (2 of 3 predictions passed, vs. 0 of 3 for GNWT). The results were inconclusive but encouraging for IIT, representing consciousness science's turn toward empirical discrimination between theories.
 
 ### The COGITATE Experiment (2025)
 
@@ -181,7 +179,7 @@ IIT doesn't require quantum mechanics. It works at the level of classical inform
 
 Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [[spontaneous-collapse-theories|spontaneous collapse]] parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
-The Map's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
+The Map's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches give consciousness an independent causal role; IIT's identity thesis does not.
 
 ### What Would Challenge This View?
 

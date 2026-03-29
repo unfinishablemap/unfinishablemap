@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 06:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/integrated-information-theory]]
+- **Word count**: 3194 → 3186 (-8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (prose tightening for length-neutral mode)
+- **Output**: [[reviews/deep-review-2026-03-29-integrated-information-theory]]
+
 ## 2026-03-29 05:46 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/panpsychism]], [[concepts/integrated-information-theory]], [[concepts/idealism]]
