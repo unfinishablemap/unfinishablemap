@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 22:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Word count**: 1825 → 2228 (+403)
+- **Changes**: Integrated Frankish functional-seeming research; reframed illusionist response section to engage strongest defense directly; added Kammerer's illusion meta-problem; strengthened all four counter-arguments to address access/interpretation distinction
+- **Published**: yes
+
 ## 2026-03-29 22:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/visual-consciousness]]

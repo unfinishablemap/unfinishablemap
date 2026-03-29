@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate Frankish functional-seeming research into illusionism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
-### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with proper citations and methodological caveats. bandwidth-of-consciousness.md (or related bandwidth articles) should incorporate these findings to strengthen evidential claims and acknowledge measurement limitations.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
 - **Type**: deep-review
 - **Status**: pending
@@ -1714,6 +1700,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
+- **Output**: obsidian/concepts/illusionism.md
+
+Task context:
+Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
+
+### ✓ 2026-03-29: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
+- **Output**: obsidian/concepts/illusionism.md
 
 ### ✓ 2026-03-29: Write voids article on the boundary void
 - **Type**: expand-topic
