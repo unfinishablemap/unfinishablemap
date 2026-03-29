@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T17:19:00+00:00
+ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-29 17:27 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/consciousness-and-agency]]
+- **Changed sources**: 8
+- **Word count**: 4125 → 4017
+- **Review**: [[reviews/apex-evolve-2026-03-29-consciousness-and-agency]]
 
 ## 2026-03-29 17:19 UTC - research-voids
 - **Status**: Success
