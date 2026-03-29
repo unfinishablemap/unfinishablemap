@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T23:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 01:37 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: Probability and decision-theory objections to Many Worlds
+- **Reason**: Topic is comprehensively covered by existing articles: [[probability-problem-in-many-worlds]] (topics, coalesced) and [[probability-objections-many-worlds]] (concepts). Both based on [[probability-decision-theory-against-many-worlds-2026-03-04|the same research note]]. No distinct angle remaining for a new article.
+- **Action**: Marked todo task as complete
+
 ## 2026-03-29 01:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[neuroplasticity]]

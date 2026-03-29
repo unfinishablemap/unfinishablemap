@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on probability and decision-theory objections to Many Worlds
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Covers the incoherence of probability under MWI (all outcomes occur), Deutsch-Wallace decision-theoretic derivation problems, Albert's fatalism worry, Kent's frequency objections, and Greaves-Myrvold's confirmation theory critique. Directly supports Tenet 4 (No Many Worlds) — currently the least directly supported tenet. Target section: topics/ (225/230, 5 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Update broken wikilinks to archived memory-as-dual-domain-capability across content files
 - **Type**: refine-draft
 - **Status**: pending
@@ -1672,6 +1665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Write article on probability and decision-theory objections to Many Worlds
+- **Type**: expand-topic
+- **Notes**: Research completed in research/probability-decision-theory-against-many-worlds-2026-03-04.md. Covers the incoherence of probability under MWI (all outcomes occur), Deutsch-Wallace decision-theoretic derivation problems, Albert's fatalism worry, Kent's frequency objections, and Greaves-Myrvold's confirmation theory critique. Directly supports Tenet 4 (No Many Worlds) — currently the least directly supported tenet. Target section: topics/ (225/230, 5 slots remaining).
+- **Output**: probability and decision-theory objections to Many Worlds
 
 ### ✓ 2026-03-29: Deep review higher-order-theories.md for quality and currency
 - **Type**: deep-review
