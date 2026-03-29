@@ -1705,6 +1705,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-29
 
+### P3: Write article on problem of mental content under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If consciousness is non-physical, how does it come to represent specific physical states? The Map needs a positive account of intentionality under dualism beyond critiques of physicalist accounts. Builds on phenomenal-concepts-as-materialist-response, evaluative-qualia, intentionality. Tenet alignment: Tenets 1, 3. Target section: topics/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Write article on philosophical implications of quantum reference frames
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Recent work on quantum reference frames suggests observer-dependence is deeper than Copenhagen acknowledged. How does this affect the consciousness-collapse framework? Builds on contextual-selection-in-quantum-foundations, completeness-in-physics-under-dualism. Tenet alignment: Tenets 2, 4. Target section: topics/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for structural vs ontological completeness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction developed in completeness-in-physics-under-dualism is load-bearing across multiple articles (parsimony-case, testing-consciousness-collapse, consciousness-defeats-explanation) and deserves its own concept page for cross-referencing. Target section: concepts/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for confound of embodiment
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Named in testing-consciousness-collapse, this in-principle experimental limitation—we cannot create conscious observers without physical embodiment, making clean experiments impossible—recurs across the empirical programme. Deserves formal treatment as a recurring methodological constraint. Target section: concepts/. See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links between evaluative-qualia, completeness, parsimony, and prediction-landscape clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: evaluative-qualia → phenomenal-authority-epistemic-weight-first-person-reports (irreducibility strengthens authority at layer 1), completeness-in-physics-under-dualism → parsimony-case-for-interactionist-dualism (structural completeness supports parsimony argument), consciousness-collapse-prediction-landscape → testing-consciousness-collapse (landscape organises what testing catalogs), phenomenal-concepts-as-materialist-response → consciousness-defeats-explanation (PCS failure as instance of systematic defeat), convergent-phenomenological-evidence → evaluative-qualia-phenomenal-normativity-across-traditions (convergence methodology applied to evaluative phenomenology). See optimistic-2026-03-29-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-29
+
 ## Completed Tasks
 
 
