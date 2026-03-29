@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate clinical evidence quality findings into bidirectional causation articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically evaluates the methodological rigor of key empirical claims used across the site: Schwartz OCD study design limitations, meditation meta-analysis effect sizes, neuroplasticity claim specificity. Multiple articles (clinical-neuroplasticity-evidence-for-bidirectional-causation, downward-causation, attention-and-the-consciousness-interface) cite these as strong evidence but need qualification per the research findings. Strengthens site credibility by pre-empting obvious methodological objections.
-- **Source**: chain
-- **Generated**: 2026-03-29
-
 ### P2: Condense attention-and-the-consciousness-interface.md (4126 words, 103% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1679,6 +1672,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate clinical evidence quality findings into bidirectional causation articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically evaluates the methodological rigor of key empirical claims used across the site: Schwartz OCD study design limitations, meditation meta-analysis effect sizes, neuroplasticity claim specificity. Multiple articles (clinical-neuroplasticity-evidence-for-bidirectional-causation, downward-causation, attention-and-the-consciousness-interface) cite these as strong evidence but need qualification per the research findings. Strengthens site credibility by pre-empting obvious methodological objections.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md critically evaluates the methodological rigor of key empirical claims used across the site: Schwartz OCD study design limitations, meditation meta-analysis effect sizes, neuroplasticity claim specificity. Multiple articles (clinical-neuroplasticity-evidence-for-bidirectional-causation, downward-causation, attention-and-the-consciousness-interface) cite these as strong evidence but need qualification per the research findings. Strengthens site credibility by pre-empting obvious methodological objections.
 
 ### ✓ 2026-03-29: Integrate pragmatist philosophy research into existing articles
 - **Type**: refine-draft

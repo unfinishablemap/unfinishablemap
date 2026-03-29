@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 10:56 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/downward-causation]], [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]], [[topics/attention-and-the-consciousness-interface]]
+- **Changes**: Integrated clinical evidence quality research findings across three articles. clinical-neuroplasticity and attention-and-the-consciousness-interface were already refined earlier today; downward-causation received targeted qualification of Schwartz OCD evidence where Stapp mechanism is discussed, cross-reference to clinical evidence article, and note that philosophical case stands independently of clinical evidence quality
+- **Published**: yes
+
 ## 2026-03-29 10:27 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/functionalism]], [[topics/enactivism-challenge-to-interactionist-dualism]]
