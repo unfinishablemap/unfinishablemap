@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 01:17:00+00:00
+ai_modified: 2026-03-29 03:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Covers Zheng & Meister (2024) Neuron paper synthesising ~10 bits/sec conscious throughput across tasks, Sauerbrei & Pruszynski (2025) Nature Neuroscience critique distinguishing conscious from unconscious bandwidth, and historical convergence from Hick (1952) through modern e-sports. The conscious-vs-unconscious throughput distinction directly supports the interface model. Update bandwidth-of-consciousness.md with these latest findings and strengthen the connection to filter-theory and consciousness-selecting-neural-patterns.
+- **Source**: chain (from research-topic 2026-03-29)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review binding-problem.md after coalesce from phenomenal-binding-and-holism
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged phenomenal-binding-and-holism.md into binding-problem.md (2026-03-29). Wikilinks already updated across 23 files. Now review related articles — panpsychisms-combination-problem, filter-theory, emergence, neural-binding, aesthetics-and-consciousness — for argument consistency with the expanded binding-problem article. Check whether the holism content changes how these articles frame the binding problem and add any missing cross-links.
+- **Source**: chain (from coalesce 2026-03-29)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Recent expansion of probability-objections-many-worlds (coalesced into probability-problem-in-many-worlds.md, 2026-03-29) adds decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems) and probability-interpretation objections against MWI. Review no-many-worlds.md and born-rule-and-the-consciousness-interface.md for cross-links and argument reinforcement. Check whether the new material strengthens Tenet 4 (No Many Worlds) arguments in these articles.
+- **Source**: chain (from expand-topic/coalesce 2026-03-29)
+- **Generated**: 2026-03-29
+
+### P2: Research clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Multiple pessimistic reviews flagged overstatement of clinical evidence across several articles: (1) Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning (pessimistic-2026-03-26-afternoon); (2) meditation efficacy claim "substantially more effective than placebo" lacks citation (pessimistic-2026-03-24d); (3) CBT-induced brain changes presented as evidence for bidirectional causation but have materialist explanations (pessimistic-2026-03-28). Research the current scientific consensus on these claims, materialist counter-explanations, and what the evidence genuinely supports for consciousness-driven neural change. Target: research note to improve accuracy across 5+ articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-29
+
+### P2: Deep review probability-problem-in-many-worlds.md after expansion and coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Article expanded via expand-topic (probability and decision-theory objections to Many Worlds) and then coalesced with probability-objections-many-worlds.md on 2026-03-29. Two transformations in one day — verify the result preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and correctly represents the decision-theoretic objections (Deutsch-Wallace, self-locating uncertainty). Tenet 4 (No Many Worlds) alignment critical. Never deep-reviewed after these changes.
+- **Source**: staleness
+- **Generated**: 2026-03-29
 
 ### P3: Deep review experimental-consciousness-science-2025-2026.md
 - **Type**: deep-review
