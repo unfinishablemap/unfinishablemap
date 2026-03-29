@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28 introduces triangulation across subjective reports as a distinct form of evidence. Review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md for cross-links to the new concept, consistency in how convergence is characterised, and whether the new triangulation framing strengthens or qualifies existing arguments. Also check contemplative-practice-as-philosophical-evidence.md and comparative-phenomenology-of-meditative-traditions.md.
-- **Source**: chain (from expand-topic convergent-phenomenological-evidence 2026-03-28)
-- **Generated**: 2026-03-28
-
 ### P2: Deep review convergent-phenomenological-evidence.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1644,6 +1637,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/convergent-phenomenological-evidence.md created 2026-03-28 introduces triangulation across subjective reports as a distinct form of evidence. Review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md for cross-links to the new concept, consistency in how convergence is characterised, and whether the new triangulation framing strengthens or qualifies existing arguments. Also check contemplative-practice-as-philosophical-evidence.md and comparative-phenomenology-of-meditative-traditions.md.
+- **Output**: obsidian/topics/epistemology-of-convergence-arguments.md -- Context: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
 
 ### ✓ 2026-03-28: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md and william-james-consciousness.md
 - **Type**: refine-draft
