@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Expand concept — contextual selection in quantum foundations
-- **Type**: expand-topic
-- **Status**: pending
-- **Target**: concepts/contextual-selection-in-quantum-foundations.md
-- **Notes**: Explore quantum contextuality (Kochen-Specker, Spekkens) as a resource for post-decoherence selection. Contextuality means measurement outcomes depend on what else is measured alongside them — this context-dependence survives into the classical regime in certain frameworks. Could consciousness provide the "context" that selects among compatible classical outcomes? Connect to the Map's existing quantum-consciousness and comparing-quantum-consciousness-mechanisms articles. Novel speculative territory.
-- **Generated**: 2026-03-29
-
 ### P1: Cross-review post-decoherence selection articles
 - **Type**: cross-review
 - **Status**: pending
@@ -1691,6 +1684,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Expand concept — contextual selection in quantum foundations
+- **Type**: expand-topic
+- **Notes**: Explore quantum contextuality (Kochen-Specker, Spekkens) as a resource for post-decoherence selection. Contextuality means measurement outcomes depend on what else is measured alongside them — this context-dependence survives into the classical regime in certain frameworks. Could consciousness provide the "context" that selects among compatible classical outcomes? Connect to the Map's existing quantum-consciousness and comparing-quantum-consciousness-mechanisms articles. Novel speculative territory.
+- **Output**: concept — contextual selection in quantum foundations
 
 ### ✓ 2026-03-29: Expand topic — stochastic amplification and neural selection
 - **Type**: expand-topic
