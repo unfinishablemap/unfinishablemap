@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 05:09 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/attention-and-the-consciousness-interface]], [[concepts/epiphenomenalism]], [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Changes**: Applied findings from [[research/clinical-evidence-quality-2026-03-29]] to qualify clinical claims across 3 articles
+- **Key corrections**: Schwartz OCD downgraded from "strongest" to "suggestive" (n=18, no independent replication); meditation "substantially more effective than placebo" replaced with accurate meta-analytic evidence; meditation structural remodelling section rewritten to reflect Kral 2022 replication failure; materialist counter-explanations (Hebbian learning) added throughout
+- **Published**: yes
+
 ## 2026-03-29 04:46 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/probability-problem-in-many-worlds]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apply clinical evidence quality research findings across affected articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. Apply findings to qualify or correct clinical claims: (1) attention-and-the-consciousness-interface.md — Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning; (2) epiphenomenalism.md — meditation efficacy claim "substantially more effective than placebo" lacks citation and overstates evidence; (3) clinical-neuroplasticity-evidence-for-bidirectional-causation.md — CBT-induced brain changes and cortical thickening claims need materialist counter-explanations acknowledged; (4) downward-causation.md — clinical examples need qualification. Use research findings to improve accuracy while preserving the dualist argument where evidence genuinely supports it.
-- **Source**: chain (from research/clinical-evidence-quality-2026-03-29.md)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
 - **Type**: cross-review
 - **Status**: pending
@@ -137,8 +130,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md
+- **Status**: done
+- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md. **Partially addressed**: Schwartz OCD claims qualified in 2026-03-29 refine-draft; selection trilemma and Cai issues remain for future work.
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
@@ -271,8 +264,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Add citation for meditation efficacy claim in epiphenomenalism.md
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md
+- **Status**: done
+- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md. **Addressed**: meditation claim corrected with Goyal 2014 citation in 2026-03-29 refine-draft. "2025 meta-analysis" reference issue remains for future work.
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-24
 
@@ -1686,6 +1679,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Apply clinical evidence quality research findings across affected articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. Apply findings to qualify or correct clinical claims: (1) attention-and-the-consciousness-interface.md — Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning; (2) epiphenomenalism.md — meditation efficacy claim "substantially more effective than placebo" lacks citation and overstates evidence; (3) clinical-neuroplasticity-evidence-for-bidirectional-causation.md — CBT-induced brain changes and cortical thickening claims need materialist counter-explanations acknowledged; (4) downward-causation.md — clinical examples need qualification. Use research findings to improve accuracy while preserving the dualist argument where evidence genuinely supports it.
+- **Output**: Task context:
+Research completed in research/clinical-evidence-quality-2026-03-29.md. Apply findings to qualify or correct clinical claims: (1) attention-and-the-consciousness-interface.md — Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning; (2) epiphenomenalism.md — meditation efficacy claim "substantially more effective than placebo" lacks citation and overstates evidence; (3) clinical-neuroplasticity-evidence-for-bidirectional-causation.md — CBT-induced brain changes and cortical thickening claims need materialist counter-explanations acknowledged; (4) downward-causation.md — clinical examples need qualification. Use research findings to improve accuracy while preserving the dualist argument where evidence genuinely supports it.
 
 ### ✓ 2026-03-29: Deep review probability-problem-in-many-worlds.md after expansion and coalesce
 - **Type**: deep-review
