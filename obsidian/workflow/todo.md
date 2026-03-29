@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate evaluative qualia research into evaluative-qualia.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md contains cross-cultural data not yet in the concept page: Buddhist vedana theory, Confucian moral phenomenology (li-qi framework), Indian rasa aesthetics (Abhinavagupta), Dimitrov (2025) on direct acquaintance with intrinsic value. Strengthens the case that evaluative properties of consciousness are irreducible. Target file: obsidian/concepts/evaluative-qualia.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Integrate pragmatist philosophy research into existing articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1693,6 +1686,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate evaluative qualia research into evaluative-qualia.md
+- **Type**: refine-draft
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md contains cross-cultural data not yet in the concept page: Buddhist vedana theory, Confucian moral phenomenology (li-qi framework), Indian rasa aesthetics (Abhinavagupta), Dimitrov (2025) on direct acquaintance with intrinsic value. Strengthens the case that evaluative properties of consciousness are irreducible. Target file: obsidian/concepts/evaluative-qualia.md.
+- **Output**: obsidian/concepts/evaluative-qualia.md
+
+Task context:
+Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md contains cross-cultural data not yet in the concept page: Buddhist vedana theory, Confucian moral phenomenology (li-qi framework), Indian rasa aesthetics (Abhinavagupta), Dimitrov (2025) on direct acquaintance with intrinsic value. Strengthens the case that evaluative properties of consciousness are irreducible. Target file: obsidian/concepts/evaluative-qualia.md.
 
 ### ✓ 2026-03-29: Write article on phenomenal concepts strategy as materialist response
 - **Type**: expand-topic

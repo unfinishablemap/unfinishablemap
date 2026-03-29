@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 09:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/evaluative-qualia]]
+- **Changes**: Added Rawlette's analytic descriptivism argument; fixed style violation in vedanā section; expanded functionalist rebuttal with intrinsic-vs-relational debate; tightened convergence summary
+- **Published**: yes
+
 ## 2026-03-29 09:42 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal concepts strategy as materialist response
