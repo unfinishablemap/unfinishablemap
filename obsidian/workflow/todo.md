@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix IIT article's conflation of identity theory with epiphenomenalism
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that integrated-information-theory.md incorrectly applies the self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness because consciousness IS the physical process. The objection should be that identity assertions are unexplanatory (don't bridge the explanatory gap), not that they make consciousness causally inert. See pessimistic-2026-03-29.md Issue 4.
-- **Generated**: 2026-03-29
-
 ### P2: Address asymmetric evidential standards in rival-framework articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1691,6 +1685,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Fix IIT article's conflation of identity theory with epiphenomenalism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that integrated-information-theory.md incorrectly applies the self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness because consciousness IS the physical process. The objection should be that identity assertions are unexplanatory (don't bridge the explanatory gap), not that they make consciousness causally inert. See pessimistic-2026-03-29.md Issue 4.
+- **Output**: Task context:
+Pessimistic review found that integrated-information-theory.md incorrectly applies the self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness because consciousness IS the physical process. The objection should be that identity assertions are unexplanatory (don't bridge the explanatory gap), not that they make consciousness causally inert. See pessimistic-2026-03-29.md Issue 4.
 
 ### ✓ 2026-03-29: Apply clinical evidence quality research findings across affected articles
 - **Type**: refine-draft

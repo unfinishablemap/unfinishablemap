@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-05T11:47:00+00:00
+ai_modified: 2026-03-29T05:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,11 +155,11 @@ IIT's willingness to accept panpsychism also aligns with the [[tenets#^occams-li
 
 The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
 
-IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. As the [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] argues, identifying consciousness with any physical quantity—however sophisticated—is a category error if dualism is true. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [[causal-interface|causal interface]]—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
+IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is physical structure in a certain configuration. As the [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] argues, identifying consciousness with any physical quantity—however sophisticated—is a category error if dualism is true. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [[causal-interface|causal interface]]—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
 
-The self-undermining argument against epiphenomenalism—that we couldn't reliably discuss consciousness if it didn't influence our brains—applies here too. If consciousness just *is* physical structure, our beliefs about consciousness are caused by physical processes, not by consciousness itself. Why should these beliefs be accurate about what consciousness is like?
+Note that the self-undermining argument against epiphenomenalism—that we couldn't reliably discuss consciousness if it didn't cause our beliefs about it—does not apply to IIT's identity thesis. On an identity theory, beliefs about consciousness *are* caused by consciousness, because consciousness *is* the physical process producing those beliefs. IIT is not epiphenomenalist; it does not render consciousness causally inert.
 
-IIT might respond that the beliefs are accurate because consciousness *is* the physical structure doing the believing. But this seems to collapse the explanatory gap rather than bridge it. We wanted to know why physical arrangements are *accompanied* by experience; IIT's answer is that they *are* experience. This may be true, but it doesn't explain the connection—it asserts it.
+The deeper problem is that identity assertions are unexplanatory. We wanted to know why physical arrangements are *accompanied* by experience; IIT's answer is that they *are* experience. This may be true, but it doesn't bridge the explanatory gap—it asserts the gap closed. Fundamental identities in science (water = H₂O, temperature = mean kinetic energy) can be empirically confirmed through third-person observation. The consciousness = Φ identity cannot, because we lack third-person access to phenomenal experience. Without that independent confirmation, the identity claim remains a philosophical posit rather than an empirical discovery—and the hard problem persists in the form of asking *why* this particular identity holds.
 
 ### The Illusionist Challenge
 
@@ -241,3 +241,15 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Fixed philosophical error: removed incorrect application of self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness (because consciousness IS the physical process). Replaced with correct objection: identity assertions are unexplanatory (don't bridge the explanatory gap).
+- Added engagement with structural realist defence: acknowledged that fundamental identities are normally asserted, but argued the consciousness=Φ identity differs because it cannot be empirically confirmed via third-person observation.
+- Fixed awkward phrasing: "It is the physical, in a certain configuration" → "It is physical structure in a certain configuration"
+
+Based on pessimistic-2026-03-29.md Issue 4.
+Key improvements: philosophical accuracy of the identity theory critique.
+
+This log should be removed after human review.
+-->
