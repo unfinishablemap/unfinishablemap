@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 12:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Stochastic amplification and neural selection
+- **Output**: [[topics/stochastic-amplification-and-neural-selection]]
+- **Word count**: 2191
+- **Based on research**: yes, [[research/amplification-mechanisms-consciousness-physics-2026-03-18]]
+
 ## 2026-03-29 12:42 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/quantum-darwinism-and-consciousness.md, concepts/weak-measurement-and-post-selection.md

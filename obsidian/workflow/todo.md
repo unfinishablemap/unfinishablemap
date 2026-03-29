@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Expand topic — stochastic amplification and neural selection
-- **Type**: expand-topic
-- **Status**: pending
-- **Target**: topics/stochastic-amplification-and-neural-selection.md
-- **Notes**: Investigate how thermal noise and stochastic resonance in neural systems could serve as an amplification layer for post-decoherence selection. Cortical neurons operate near criticality; small biases in stochastic processes (synaptic vesicle release, ion channel gating) could be amplified to macroscopic behavioral differences. This is a mechanism the Map should develop: consciousness doesn't need to manipulate quantum states directly if it can bias the probabilistic outcomes of already-classical stochastic processes that happen to have quantum origins. Connect to amplification-mechanisms-consciousness-physics and motor-selection.
-- **Generated**: 2026-03-29
-
 ### P1: Expand concept — contextual selection in quantum foundations
 - **Type**: expand-topic
 - **Status**: pending
@@ -1698,6 +1691,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Expand topic — stochastic amplification and neural selection
+- **Type**: expand-topic
+- **Notes**: Investigate how thermal noise and stochastic resonance in neural systems could serve as an amplification layer for post-decoherence selection. Cortical neurons operate near criticality; small biases in stochastic processes (synaptic vesicle release, ion channel gating) could be amplified to macroscopic behavioral differences. This is a mechanism the Map should develop: consciousness doesn't need to manipulate quantum states directly if it can bias the probabilistic outcomes of already-classical stochastic processes that happen to have quantum origins. Connect to amplification-mechanisms-consciousness-physics and motor-selection.
+- **Output**: topic — stochastic amplification and neural selection
 
 ### ✓ 2026-03-29: Expand concept — weak measurement and post-selection
 - **Type**: expand-topic
