@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-24T09:05:00+00:00
+ai_modified: 2026-03-29T16:27:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[reasons-responsiveness]]"
   - "[[process-philosophy]]"
   - "[[downward-causation]]"
+  - "[[contextual-selection-in-quantum-foundations]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-mechanics-free-will-2026-01-16]]"
@@ -35,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-03-10T13:23:00+00:00
+last_deep_review: 2026-03-29T16:27:00+00:00
 ---
 
 Quantum mechanics provides the only genuine indeterminacy in fundamental physics—and this creates logical space for libertarian free will that determinism forecloses. The relationship is contested: critics argue that quantum randomness yields "random will" rather than "free will," no better than determinism. This page systematizes how quantum indeterminacy supports free will when combined with consciousness as selector, answering the [[luck-objection|luck objection]] through the [[quantum-consciousness|quantum Zeno mechanism]] and [[agent-causation|agent-causal]] metaphysics.
@@ -88,7 +89,7 @@ Mele sharpened this into two distinct problems:
 
 **Remote luck**: Even if the agent sources a decision, their character and dispositions were shaped by factors they didn't choose. Unchosen formation infects all subsequent choices.
 
-Remote luck affects compatibilists and libertarians equally—everyone's character has unchosen origins. Present luck is the specifically libertarian problem: if nothing about the agent differs across possible worlds, what makes the outcome the agent's rather than a random fluctuation?
+Remote luck affects compatibilists and libertarians equally. Present luck is the specifically libertarian problem: if nothing about the agent differs across possible worlds, what makes the outcome the agent's rather than a random fluctuation?
 
 ## Why the Map's Framework Escapes Luck
 
@@ -105,7 +106,9 @@ The Map's response distinguishes *lucky indeterminism* from *consciousness-selec
 
 Standard quantum indeterminism is genuinely random—outcomes within probability distributions occur without explanation. But the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] proposes that consciousness *selects* outcomes through repeated observation. Stapp's mechanism: mental effort (attention) acts like rapid quantum measurement, holding desired neural patterns stable against decoherence into alternatives.
 
-The agent isn't passively receiving random outcomes—the agent is actively selecting based on what matters.
+Crucially, this selection is not item-picking from a fixed menu. [[contextual-selection-in-quantum-foundations|Quantum contextuality]] (the Kochen-Specker theorem) proves that no assignment of definite values to all observables can be context-independent—what outcomes are available depends on the full measurement context. In neural systems, the brain's physical configuration defines what options exist; consciousness biases which option actualizes within that context. This means selection is structurally richer than "choose A or B": attention participates in setting the measurement context itself, shaping which questions the brain's quantum dynamics poses.
+
+The agent isn't passively receiving random outcomes—the agent is actively selecting based on what matters, within a context the agent's attention partly constitutes.
 
 ### The Phenomenology of Effort
 
@@ -141,9 +144,9 @@ Key features supporting free will:
 
 **[[downward-causation|Top-down causation]]**: Mental effort (intention, attention) influences physical outcomes. The mind isn't epiphenomenal—it selects among quantum possibilities that physics leaves undetermined.
 
-**The [[attention-as-interface|attention-consciousness relationship]]**: Koch and Tsuchiya documented that attention and consciousness are dissociable—blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. This dissociation matters: attention is the *mechanism* consciousness uses, not consciousness itself. A non-physical subject (consciousness) deploys a physical mechanism (attention) to influence quantum outcomes.
+**The [[attention-as-interface|attention-consciousness relationship]]**: Koch and Tsuchiya documented that attention and consciousness are dissociable—blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. Attention is the *mechanism* consciousness uses, not consciousness itself. A non-physical subject deploys a physical mechanism to influence quantum outcomes.
 
-**Neuroimaging support**: Research shows willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. The brain distinguishes between doing what you're told and doing what you choose. See [[attention-as-interface|voluntary attention research]] for details.
+**Neuroimaging support**: Willed attention has distinct neural signatures from instructed attention—frontal theta oscillations, bidirectional frontoparietal coherence, ~300ms deployment time. See [[attention-as-interface|voluntary attention research]] for details.
 
 ## Two Domains: Attention and Motor Selection
 
@@ -156,15 +159,15 @@ The quantum Zeno mechanism finds striking corroboration in [[motor-selection|mot
 | Willed vs instructed | Distinct signatures | Distinct signatures |
 | Phenomenology | Feels effortful | Feels effortful |
 
-Two independent domains showing identical selection architecture strengthens the case that consciousness genuinely selects. If the attention-Zeno connection were coincidental, we wouldn't expect motor control to show identical structure.
+Two independent domains showing identical selection architecture strengthens the case that consciousness genuinely selects.
 
-The [[libet-experiments|Libet challenge]] to motor control has substantially weakened. Schurger's 2012 model reinterprets the readiness potential as noise artifact, not decision. Sjöberg (2024) showed surgical resection of the supplementary motor area—where the RP is generated—doesn't impair voluntary action. Desmurget's double dissociation separates intention (parietal) from execution (premotor). Consciousness contributes at selection, not execution.
+The [[libet-experiments|Libet challenge]] to motor control has substantially weakened. Schurger's 2012 model reinterprets the readiness potential as noise artifact. Sjöberg (2024) showed surgical resection of the supplementary motor area—where the RP is generated—doesn't impair voluntary action. Desmurget's double dissociation separates intention (parietal) from execution (premotor). Consciousness contributes at selection, not execution.
 
 ## The Retrocausal Resolution
 
 A timing problem remains: if neural activity precedes conscious awareness (Libet's original finding), how can consciousness select outcomes it hasn't yet become aware of?
 
-[[retrocausality|Retrocausal]] interpretations of quantum mechanics offer resolution. The fundamental equations are time-symmetric—they work equally well run forward or backward. Cramer's transactional interpretation makes this explicit: quantum events involve "offer waves" propagating forward and "confirmation waves" propagating backward, with the "transaction" being atemporal.
+[[retrocausality|Retrocausal]] interpretations offer resolution. Quantum equations are time-symmetric. Cramer's transactional interpretation makes this explicit: quantum events involve "offer waves" propagating forward and "confirmation waves" propagating backward, with the "transaction" being atemporal.
 
 If consciousness operates at this level, the timing problem dissolves. Consciousness doesn't need to precede neural preparation to be its cause. The selection determines *which temporal sequence becomes real*, including the neural history that preceded awareness.
 
@@ -172,13 +175,13 @@ This deepens the agent-causal picture: the agent isn't just "the first cause in 
 
 ## Causal Closure and the Quantum Opening
 
-The main philosophical objection to mental causation is [[causal-closure|causal closure]]: every physical event has a sufficient physical cause. If this is true, mental causes are excluded—either redundant (if identical to physical causes) or epiphenomenal (if different).
+The main philosophical objection to mental causation is [[causal-closure|causal closure]]: every physical event has a sufficient physical cause. If true, mental causes are either redundant or epiphenomenal.
 
-Quantum indeterminacy provides the response. At quantum measurement events, physics specifies necessary but not sufficient causes. The particle must be measured (physics determines this), but which outcome occurs is genuinely undetermined. [[causal-closure|Causal closure fails precisely where consciousness acts]].
+Quantum indeterminacy provides the response. At measurement events, physics specifies necessary but not sufficient causes—which outcome occurs is genuinely undetermined. [[causal-closure|Causal closure fails precisely where consciousness acts]].
 
-This transforms Kim's exclusion argument. Mental causation doesn't compete with physical causation—it operates where physical causation runs out. Consciousness selects among outcomes physics leaves open. There's no overdetermination and no exclusion.
+This transforms Kim's exclusion argument. Mental causation operates where physical causation runs out. Consciousness selects among outcomes physics leaves open. There's no overdetermination and no exclusion.
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalizes this: consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. The smallest possible non-physical influence on physical outcomes.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet formalizes this: consciousness biases indeterminate quantum outcomes without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]].
 
 ## Many-Worlds: The Alternative Rejected
 
@@ -219,9 +222,9 @@ Alfred North Whitehead's [[process-philosophy]] offers a complementary metaphysi
 
 Each actual occasion exercises what Whitehead called "self-determination" in constituting itself from its causal inheritance. The quantum indeterminacy isn't a gap for consciousness to fill; it *is* the space of creative synthesis where experience determines outcome.
 
-Both frameworks treat conscious decision as ontologically primitive rather than reducible to prior events. But Whitehead goes further—if all causation involves experiential self-determination (panexperientialism), then human agent causation is continuous with causation generally rather than metaphysically exceptional. This weakens the objection that agent causation is ad hoc: genuine novelty enters the world through experiential synthesis.
+Both frameworks treat conscious decision as ontologically primitive rather than reducible to prior events. But Whitehead goes further—if all causation involves experiential self-determination (panexperientialism), then human agent causation is continuous with causation generally rather than metaphysically exceptional. This weakens the objection that agent causation is ad hoc.
 
-Process philosophy also addresses the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the actual occasion *is* the decision—not an observation of prior neural events but the integration of those events into experiential unity. What appears as neural activity "predicting" choice is the causal context from which the occasion of decision arises; the occasion itself is the synthesis.
+Process philosophy also addresses the timing problem differently than retrocausality. There's no "moment of decision" separate from neural processes because the actual occasion *is* the decision—the integration of causal inheritance into experiential unity. What appears as neural activity "predicting" choice is the causal context from which the occasion arises; the occasion itself is the synthesis.
 
 ## What Would Challenge This Framework?
 
@@ -286,6 +289,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [[reasons-responsiveness]] — Why reasons-guided selection escapes the luck objection
 - [[process-philosophy]] — Whitehead's metaphysical framework for experiential causation
 - [[downward-causation]] — How mental states influence physical outcomes
+- [[contextual-selection-in-quantum-foundations]] — Why quantum selection is context-dependent, not item-picking
 - [[quantum-mechanics-free-will-2026-01-16]] — Research notes underlying this article
 
 ## References

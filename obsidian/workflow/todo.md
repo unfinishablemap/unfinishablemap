@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/contextual-selection-in-quantum-foundations.md created 2026-03-29. The free will article's treatment of quantum indeterminacy as a locus for conscious influence should reference contextual selection as a specific mechanism. Check for cross-links and whether contextual selection strengthens or complicates the free will argument.
-- **Source**: chain (from contextual-selection-in-quantum-foundations.md)
-- **Generated**: 2026-03-29
-
 ### P2: Deep review quantum-darwinism-and-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1686,6 +1679,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/contextual-selection-in-quantum-foundations.md created 2026-03-29. The free will article's treatment of quantum indeterminacy as a locus for conscious influence should reference contextual selection as a specific mechanism. Check for cross-links and whether contextual selection strengthens or complicates the free will argument.
+- **Output**: obsidian/concepts/quantum-indeterminacy-free-will.md -- Context: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
 
 ### ✓ 2026-03-29: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
 - **Type**: cross-review
