@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address asymmetric evidential standards in rival-framework articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to high evidential standards while treating the Map's interaction problem as solved by "quantum mechanics." Each comparison section should acknowledge the interaction proposal is speculative, faces the decoherence objection, and lacks experimental support. See pessimistic-2026-03-29.md Issues 1 and 3.
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
 - **Type**: cross-review
 - **Status**: pending
@@ -1685,6 +1679,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Address asymmetric evidential standards in rival-framework articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to high evidential standards while treating the Map's interaction problem as solved by "quantum mechanics." Each comparison section should acknowledge the interaction proposal is speculative, faces the decoherence objection, and lacks experimental support. See pessimistic-2026-03-29.md Issues 1 and 3.
+- **Output**: Task context:
+Pessimistic review found that panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to high evidential standards while treating the Map's interaction problem as solved by "quantum mechanics." Each comparison section should acknowledge the interaction proposal is speculative, faces the decoherence objection, and lacks experimental support. See pessimistic-2026-03-29.md Issues 1 and 3.
 
 ### ✓ 2026-03-29: Fix IIT article's conflation of identity theory with epiphenomenalism
 - **Type**: refine-draft

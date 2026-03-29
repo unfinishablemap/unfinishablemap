@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-22T05:26:00+00:00
+ai_modified: 2026-03-29T05:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ This avoids the combination problem. There's no need to explain how micro-experi
 | Combination problem | Must explain how micro-experiences combine | Doesn't face this problem |
 | Interaction problem | Doesn't face this (no separate substances) | Must explain how distinct substances interact |
 
-The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map addresses this via quantum mechanics: consciousness influences outcomes that physics leaves undetermined, so no physical law is violated.
+The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map's proposed response appeals to quantum indeterminacy: consciousness might bias outcomes that physics leaves undetermined, so no physical law would be violated. This proposal remains speculative—it faces the decoherence objection (quantum superpositions in warm biological tissue collapse almost instantly) and lacks experimental support. It is a research programme, not an established result.
 
 ## What Panpsychism Gets Right
 
@@ -145,7 +145,7 @@ Idealism claims to solve the combination problem by inverting it. Rather than as
 
 This puts panpsychism in a difficult position. If the combination problem is as hard as the hard problem it was meant to solve, and idealism avoids it entirely, why not accept idealism? The panpsychist might respond that dissociation at cosmic scale is equally mysterious—DID involves a brain already functioning as a unified system; applying dissociation to universal consciousness is a large extrapolation.
 
-The Map's interactionist framework avoids both the combination problem (consciousness doesn't emerge from micro-experiences) and the dissociation problem (individual consciousnesses are genuinely distinct, not fragments of a cosmic mind). But this comes at the cost of the interaction problem, which quantum mechanics may address.
+The Map's interactionist framework avoids both the combination problem (consciousness doesn't emerge from micro-experiences) and the dissociation problem (individual consciousnesses are genuinely distinct, not fragments of a cosmic mind). But this comes at the cost of the interaction problem—a challenge the Map proposes to address through quantum indeterminacy, though this mechanism remains speculative and faces significant objections (see [[#key-differences|Key Differences]] for details).
 
 ## Integrated Information Theory: A Scientific Panpsychism?
 
@@ -171,7 +171,7 @@ Panpsychism is difficult to test directly, though not uniquely so—all fundamen
 
 ## Evaluating the Positions
 
-The choice between panpsychism and interactionist dualism turns on which problem seems more tractable: combination or interaction. Panpsychism avoids explaining how distinct substances interact (consciousness just *is* matter's intrinsic nature), but must explain how micro-experiences combine into unified minds. Interactionist dualism avoids the combination problem entirely (matter lacks experience; no combining needed), but must explain cross-substance causation—though quantum indeterminacy may provide this.
+The choice between panpsychism and interactionist dualism turns on which problem seems more tractable: combination or interaction. Panpsychism avoids explaining how distinct substances interact (consciousness just *is* matter's intrinsic nature), but must explain how micro-experiences combine into unified minds. Interactionist dualism avoids the combination problem entirely (matter lacks experience; no combining needed), but must explain cross-substance causation. The Map's quantum indeterminacy proposal is one attempt, but it remains a speculative programme facing the same demand for empirical evidence that any interaction mechanism must meet.
 
 Both views take consciousness seriously and reject physicalist emergence. The decision also depends on which intuitions seem more reliable: that rocks have no experience at all, or that genuinely distinct substances can interact.
 
@@ -181,7 +181,7 @@ The Map's framework is closer to dualism than panpsychism, but the two share mor
 
 If forced to choose between panpsychism and standard physicalism, the Map would choose panpsychism. Consciousness *is* fundamental; the hard problem *is* insoluble by physicalist means. Panpsychism sees this clearly.
 
-But the Map thinks interactionist dualism offers a cleaner solution. Consciousness influences matter without being identical to it. The quantum level provides room for this influence without violating physics. And we avoid having to say that protons experience anything.
+But the Map thinks interactionist dualism offers a cleaner solution. Consciousness influences matter without being identical to it. The quantum level may provide room for this influence without violating physics—though this remains an open research question, not a settled answer. And we avoid having to say that protons experience anything.
 
 ## Further Reading
 
@@ -213,3 +213,16 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Qualified quantum interaction proposal in Key Differences section: acknowledged it is speculative, faces decoherence objection, lacks experimental support
+- Qualified quantum reference in Analytic Idealism comparison section
+- Qualified quantum reference in Evaluating the Positions section
+- Qualified quantum reference in Relation to Site Perspective section
+
+Based on pessimistic-2026-03-29.md Issues 1 and 3.
+Key improvements: symmetric evidential standards between rival views and the Map's own interaction proposal.
+
+This log should be removed after human review.
+-->

@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-29T05:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ Analytic idealism claims superior parsimony over both [[concepts/materialism]] a
 
 Idealism claims to avoid both problems. Consciousness doesn't emerge because it's the starting point. There's no interaction problem because there's only one kind of stuff—consciousness appearing to itself in different guises.
 
-The Map accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The interaction problem is addressed via quantum mechanics: consciousness influences outcomes physics leaves undetermined. Parsimony is sacrificed, but as the [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet argues, the Map considers this cost worth paying to preserve causal interaction and the independent reality of physics.
+The Map accepts the hard problem's force and avoids it via dualism—consciousness doesn't emerge from matter because it's a distinct category. The Map proposes to address the interaction problem through quantum indeterminacy: consciousness might bias outcomes physics leaves undetermined. This proposal is speculative—it faces the decoherence objection (quantum superpositions in biological tissue collapse almost instantly) and lacks experimental confirmation. Parsimony is sacrificed, but as the [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet argues, the Map considers this cost worth paying to preserve causal interaction and the independent reality of physics.
 
 ## The Dissociation Model
 
@@ -148,7 +148,7 @@ Physical science has been extraordinarily successful at prediction. This success
 
 If matter is appearance, why can't we alter it at will? Kastrup appeals to dissociation: your individual consciousness is isolated from universal consciousness, so you can't directly access the universal patterns that constitute physical law. But this raises questions about what structures the dissociation and why it produces regular, law-like appearances.
 
-Interactionist dualism has a straightforward answer: physical reality exists independently with its own structure. Consciousness influences it only within the gaps physics leaves open (quantum indeterminacy)—though this mechanism remains speculative.
+Interactionist dualism has a straightforward answer: physical reality exists independently with its own structure. Consciousness influences it only within the gaps physics leaves open (quantum indeterminacy)—though this mechanism remains speculative, faces the decoherence objection, and has no direct experimental support. The Map's interaction proposal is a research programme, not a proven mechanism.
 
 ### The Regularity Challenge
 
@@ -231,3 +231,14 @@ If forced to choose between idealism and physicalism, the Map would choose ideal
 1. Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. Nāgārjuna. *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Trans. Jay L. Garfield (1995). Oxford University Press.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Qualified quantum interaction proposal in parsimony section: acknowledged it is speculative, faces decoherence objection, lacks experimental confirmation
+- Qualified quantum interaction reference in constraint problem section: added decoherence objection and lack of experimental support, described as research programme not proven mechanism
+
+Based on pessimistic-2026-03-29.md Issues 1 and 3.
+Key improvements: symmetric evidential standards between idealism's challenges and the Map's own interaction proposal.
+
+This log should be removed after human review.
+-->

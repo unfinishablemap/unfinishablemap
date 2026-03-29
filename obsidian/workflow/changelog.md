@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 05:46 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/panpsychism]], [[concepts/integrated-information-theory]], [[concepts/idealism]]
+- **Changes**: Qualified quantum interaction claims across 3 rival-framework articles to fix asymmetric evidential standards (pessimistic-2026-03-29 Issues 1 and 3). Each article now acknowledges the Map's quantum interaction proposal is speculative, faces the decoherence objection, and lacks experimental support.
+- **Published**: yes
+
 ## 2026-03-29 05:32 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/integrated-information-theory]]

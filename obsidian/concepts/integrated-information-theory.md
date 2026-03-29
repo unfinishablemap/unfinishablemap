@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-29T05:32:00+00:00
+ai_modified: 2026-03-29T05:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -204,7 +204,7 @@ IIT offers a sophisticated competitor to the Map's interactionist dualism. Both 
 - **IIT**: Consciousness is identical to certain physical structures. No separate causal role.
 - **the Map**: Consciousness influences physical outcomes at quantum level. Genuine bidirectional interaction.
 
-The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem but resolves it via quantum mechanics.
+The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem and proposes to address it through quantum indeterminacy—though this remains a speculative research programme. It confronts the decoherence objection (biological tissue is too warm and noisy to sustain the quantum superpositions the proposal requires) and currently lacks experimental support. Honesty requires acknowledging that the Map's interaction mechanism is no more empirically established than IIT's identity claim.
 
 Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework addresses this—if consciousness involves [[collapse-and-time|quantum collapse processes]], each collapse has duration, and [[retrocausality|retrocausal boundary conditions]] provide the retention-protention structure that Husserl identified. Past collapses constrain present selection (retention); anticipated future collapses influence current outcomes (protention). This creates genuine temporal extension beyond what IIT's instantaneous Φ calculations can explain. See [[temporal-structure-of-consciousness]] for detailed treatment.
 
@@ -247,9 +247,10 @@ Changes made:
 - Fixed philosophical error: removed incorrect application of self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness (because consciousness IS the physical process). Replaced with correct objection: identity assertions are unexplanatory (don't bridge the explanatory gap).
 - Added engagement with structural realist defence: acknowledged that fundamental identities are normally asserted, but argued the consciousness=Φ identity differs because it cannot be empirically confirmed via third-person observation.
 - Fixed awkward phrasing: "It is the physical, in a certain configuration" → "It is physical structure in a certain configuration"
+- Qualified quantum interaction claim in Assessment section: acknowledged it is speculative, faces decoherence objection, lacks experimental support, and is no more empirically established than IIT's identity claim
 
-Based on pessimistic-2026-03-29.md Issue 4.
-Key improvements: philosophical accuracy of the identity theory critique.
+Based on pessimistic-2026-03-29.md Issues 1, 3, and 4.
+Key improvements: philosophical accuracy of identity theory critique; symmetric evidential standards.
 
 This log should be removed after human review.
 -->
