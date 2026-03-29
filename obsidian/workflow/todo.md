@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address logical gaps in contextual-selection-in-quantum-foundations.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-03-29 evening) found 2 high-severity issues: (1) non-sequitur from Kochen-Specker theorem to consciousness—the KS result constrains hidden-variable models, not consciousness, and the article leaps from mathematical constraint to claims about conscious selection without a bridging argument; (2) free will section conflates quantum indeterminacy with agency, asserting rational causation rather than arguing for it. Also medium issues with misleading "contextuality survives decoherence" framing. See pessimistic-2026-03-29-evening.md.
-
 ### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
 - **Type**: deep-review
 - **Status**: pending
@@ -1670,6 +1665,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Address logical gaps in contextual-selection-in-quantum-foundations.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-29 evening) found 2 high-severity issues: (1) non-sequitur from Kochen-Specker theorem to consciousness—the KS result constrains hidden-variable models, not consciousness, and the article leaps from mathematical constraint to claims about conscious selection without a bridging argument; (2) free will section conflates quantum indeterminacy with agency, asserting rational causation rather than arguing for it. Also medium issues with misleading "contextuality survives decoherence" framing. See pessimistic-2026-03-29-evening.md.
+- **Output**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
+
+Task context:
+Pessimistic review (2026-03-29 evening) found 2 high-severity issues: (1) non-sequitur from Kochen-Specker theorem to consciousness—the KS result constrains hidden-variable models, not consciousness, and the article leaps from mathematical constraint to claims about conscious selection without a bridging argument; (2) free will section conflates quantum indeterminacy with agency, asserting rational causation rather than arguing for it. Also medium issues with misleading "contextuality survives decoherence" framing. See pessimistic-2026-03-29-evening.md.
 
 ### ✓ 2026-03-29: Integrate phenomenal-concepts-as-materialist-response.md into site navigation
 - **Type**: integrate-orphan

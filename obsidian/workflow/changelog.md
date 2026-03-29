@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 20:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/contextual-selection-in-quantum-foundations]]
+- **Changes**: Added bridging argument for KS-to-consciousness connection; distinguished formal vs practical contextuality after decoherence; rewrote free will section to present rational agency as desideratum not delivered result; softened overclaims throughout
+- **Published**: yes
+
 ## 2026-03-29 19:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-concepts-as-materialist-response]]
