@@ -64,6 +64,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
 - **Generated**: 2026-03-29
 
+### P2: Address falsifiability and disanalogy gaps in quantum-darwinism and weak-measurement articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) quantum-darwinism-and-consciousness.md treats the improper/proper mixture distinction as settling the outcome problem when it's contested; (2) weak-measurement-and-post-selection.md has insufficient grounding for the leap from laboratory post-selection to consciousness-as-boundary-condition. Both articles also share a falsifiability vulnerability. See pessimistic-2026-03-29-midday.md
+- **Generated**: 2026-03-29
+
 ### P2: Deep review evolutionary-case-for-quantum-neural-effects.md
 - **Type**: deep-review
 - **Status**: pending
