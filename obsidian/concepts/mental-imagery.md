@@ -4,7 +4,7 @@ description: "Voluntary mental imagery is consistent with consciousness's causal
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-29T23:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,6 +69,8 @@ Individual variation in imagery vividness ranges dramatically across the populat
 
 Despite profound differences in subjective experience, both groups function effectively in daily life. Aphantasics can navigate, recognize faces, and engage in creative work—though they show reduced autobiographical memory and different cognitive styles. They're overrepresented in scientific and mathematical fields; hyperphantasics are overrepresented in creative professions.[^zeman]
 
+The [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|dual-domain analysis]] reads this dissociation as evidence that spatial imagination, like memory and proprioception, has separable physical and phenomenal contributions: physical spatial computation provides the substrate, while consciousness contributes the phenomenal spatial workspace that enhances but is not strictly required for the underlying computation.
+
 This spectrum poses a puzzle for consciousness research. If broadly similar neural machinery produces vivid imagery in one person and nothing in another, what explains the difference? One hypothesis: aphantasics have intact sub-personal imagery representations but lack conscious access to them. Supporting this view, some aphantasics show visual cortex activation during imagery tasks despite reporting no conscious experience—though the extent and pattern of this activation remains debated.[^nanay] Where sub-personal imagery representations exist, consciousness may simply fail to access them.
 
 This interpretation aligns with the Map's [[attention-as-interface]] hypothesis. Imagery generation may be automatic; consciousness then selects which imagery to attend to, bringing it into awareness and enabling voluntary manipulation. The reliability of [[introspection|introspective reports]] about imagery vividness has been validated through convergent evidence: aphantasics' self-reports correlate with reduced performance on tasks requiring mental rotation and with distinct patterns of neural activation during imagery attempts.
@@ -129,6 +131,7 @@ The attention-imagery interface connects to the Map's broader framework. [[atten
 - [[conscious-vs-unconscious-processing]] — The broader pattern of consciousness enabling unique cognitive functions
 - [[evolutionary-case-for-mental-causation]] — Why consciousness's role in imagery was likely selected for
 - [[motor-selection]] — The motor execution systems that imagery rehearsal shapes
+- [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Spatial imagination as a dual-domain capability with physical and phenomenal contributions
 
 ## References
 

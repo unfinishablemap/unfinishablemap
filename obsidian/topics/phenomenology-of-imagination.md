@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-29T23:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -120,6 +120,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [[phenomenology-of-moral-life]] — Moral imagination and the felt quality of ethical perception
 - [[creativity-void]] — The opacity of consciousness's generative processes
+- [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Spatial imagination as a dual-domain capability: the aphantasia dissociation as evidence for separable physical and phenomenal contributions
 
 ## References
 

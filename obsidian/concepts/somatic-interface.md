@@ -4,7 +4,7 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-20T09:41:00+00:00
+ai_modified: 2026-03-29T23:10:00+00:00
 last_deep_review: 2026-03-07T17:52:00+00:00
 draft: false
 topics:
@@ -53,7 +53,7 @@ Cardiac interoception—the ability to perceive one's own heartbeat—correlates
 
 Proprioception is the sense of the body's position, posture, and movement in space. Unlike interoception's focus on internal states, proprioception tracks the body as a moving structure within an environment. Oliver Sacks documented the case of Christina, a woman who lost proprioception through illness: she described herself as "disembodied," unable to feel her body as her own, moving only by watching her limbs. She retained consciousness, motor ability, and intelligence—but the felt sense of *having* a body vanished.
 
-Christina's case reveals what proprioception contributes to the somatic interface: the background sense of physical selfhood. Without it, consciousness remains but loses its anchorage. The body becomes an object to be managed rather than a medium to inhabit. The phenomenological distinction between the *lived body* (Husserl's *Leib*) and the *objectified body* (*Körper*) — developed extensively by Merleau-Ponty as *corps propre* versus *corps objectif* — becomes concrete: proprioception is what makes the body lived rather than merely observed. The [[phenomenology-of-embodiment-under-dualism|phenomenology of embodiment]] develops this distinction in full, showing how the structures of bodily experience—ownership, agency, pre-reflective awareness, bodily absence—reveal a subject that inhabits the body without being reducible to it.
+Christina's case reveals what proprioception contributes to the somatic interface: the background sense of physical selfhood. Without it, consciousness remains but loses its anchorage. The body becomes an object to be managed rather than a medium to inhabit. The [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|dual-domain analysis of proprioception]] develops this dissociation further, showing that the body schema (physical) and body image (phenomenal) map directly onto the same dual-domain architecture found in episodic memory. The phenomenological distinction between the *lived body* (Husserl's *Leib*) and the *objectified body* (*Körper*) — developed extensively by Merleau-Ponty as *corps propre* versus *corps objectif* — becomes concrete: proprioception is what makes the body lived rather than merely observed. The [[phenomenology-of-embodiment-under-dualism|phenomenology of embodiment]] develops this distinction in full, showing how the structures of bodily experience—ownership, agency, pre-reflective awareness, bodily absence—reveal a subject that inhabits the body without being reducible to it.
 
 ### Nociception and Pleasure
 
@@ -108,6 +108,7 @@ Several properties of the somatic interface matter for the Map's framework.
 - [[filter-theory]] — The brain as transmitter rather than producer of consciousness
 - [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
 - [[attention-as-interface]] — Attention as the control surface for consciousness
+- [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the inseparability of phenomenal character from causal power
 
 ## References

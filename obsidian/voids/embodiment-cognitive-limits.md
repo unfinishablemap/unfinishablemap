@@ -4,7 +4,7 @@ description: "Human+AI exploration of how having a body shapes and constrains wh
 created: 2026-01-28
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-03-29T23:10:00+00:00
 last_deep_review: 2026-03-15T15:59:00+00:00
 draft: false
 topics:
@@ -93,7 +93,7 @@ The challenge is distinguishing which limits belong to cognition, which to consc
 
 What does it feel like to be embodied? Embodiment is so pervasive it recedes from notice, but certain experiences highlight the body's role in thought.
 
-**Spatial reasoning:** You don't compute whether furniture fits—you *imagine* the space, mentally rotating objects, feeling whether configurations work.
+**Spatial reasoning:** You don't compute whether furniture fits—you *imagine* the space, mentally rotating objects, feeling whether configurations work. The [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|dual-domain analysis of spatial imagination]] shows this phenomenal workspace has a specific architecture: physical neural reuse provides spatial computation while consciousness contributes the three-dimensional phenomenal space in which imagined objects have apparent solidity and orientation.
 
 **Emotional processing:** Emotions arrive as bodily sensations before cognitive labeling. Fear is felt in the gut before it's recognised as fear. Joy is expansive, depression is heavy.
 
@@ -153,6 +153,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
 - [[language-thought-boundary]] — Where speakable and thinkable part ways
 - [[biological-cognitive-closure]] — Species-level limits shaped by natural selection rather than individual embodiment
+- [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities with physical and phenomenal dimensions
 
 ## References
 

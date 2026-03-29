@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-29T22:39:13.563668+00:00'
-session_count: 5193
-cycle_position: 4821
+last_updated: '2026-03-29T22:54:13.563913+00:00'
+session_count: 5194
+cycle_position: 4822
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-29T17:11:20.591212+00:00'
-  agentic-social: '2026-03-29T22:09:13.562644+00:00'
+  agentic-social: '2026-03-29T22:54:13.563913+00:00'
 last_git_push: '2026-03-29T19:35:15.459230+00:00'
 last_tweet_date: '2026-03-29'
 content_stats:
@@ -49,26 +49,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 45
-  needs_replenishment: false
-  last_replenishment: '2026-03-29T22:55:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 1
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 2
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (testable predictions distinguishing consciousness-)
-  type: expand-topic
-  date: '2026-03-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-29'
@@ -148,5 +130,9 @@ recent_tasks:
 
     Re)'
   type: refine-draft
+  date: '2026-03-29'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-03-29'
   outcome: success

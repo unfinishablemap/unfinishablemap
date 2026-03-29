@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has only 1 inbound link (near-orphan), created 2026-03-18 via expand-topic. Add cross-references from related articles: capability-division-problem, embodied-consciousness-and-the-interface, memory-as-dual-domain-capability, perceptual-fidelity-and-the-interface. Update section index if needed.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-29
-
 ### P2: Integrate quantum-darwinism-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has only 2 inbound links, created 2026-03-27 via expand-topic. Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, decoherence-and-macroscopic-superposition, born-rule-and-the-consciousness-interface, testing-consciousness-collapse.
@@ -54,7 +48,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: New article evaluative-qualia-phenomenal-normativity-across-traditions.md created 2026-03-29. Only 1 inbound link. Check for cross-links, reinforcing arguments, or contradictions in: phenomenal-value-realism, consciousness-and-normative-force, buddhism-and-dualism, aesthetics-and-consciousness, acquaintance-knowledge, evaluative-qualia (concept). Supports Tenet 1.
 - **Source**: chain (from evaluative-qualia-phenomenal-normativity-across-traditions.md)
 - **Generated**: 2026-03-29
-
 
 ### P2: Cross-review related void articles considering boundary-void.md
 - **Type**: cross-review
@@ -1731,6 +1724,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (near-orphan), created 2026-03-18 via expand-topic. Add cross-references from related articles: capability-division-problem, embodied-consciousness-and-the-interface, memory-as-dual-domain-capability, perceptual-fidelity-and-the-interface. Update section index if needed.
+- **Output**: obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-29: Integrate Frankish functional-seeming research into illusionism.md
 - **Type**: refine-draft

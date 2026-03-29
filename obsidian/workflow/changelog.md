@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+- **Word count**: 1854 → 1854 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 6 cross-references added from related articles
+- **Output**: [[reviews/deep-review-2026-03-29-dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+
 ## 2026-03-29 23:02 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/consciousness-collapse-prediction-landscape]]

@@ -4,7 +4,7 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-03-29T23:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-18T05:00:00+00:00
+last_deep_review: 2026-03-29T23:10:00+00:00
 ---
 
 The Unfinishable Map's [[episodic-memory|dual-domain framework]] argues that memory requires contributions from both physical mechanisms (engrams, reconsolidation) and non-physical consciousness (autonoesis, selectional guidance, phenomenal colouring). Memory is not unique. Proprioception and spatial imagination display the same architecture: physical substrates that encode position data or generate imagery, paired with phenomenal dimensions that the substrates alone cannot explain. The recurrence of this pattern across three cognitively distinct capabilities strengthens the case that dual-domain architecture is a general feature of the mind-body relationship rather than an artefact of how memory happens to work.

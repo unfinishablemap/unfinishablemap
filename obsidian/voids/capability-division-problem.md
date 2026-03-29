@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-03-29T23:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,6 +73,8 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [[episodic-memory|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
+**Proprioception and spatial imagination.** The dual-domain pattern extends beyond memory. [[dual-domain-capabilities-in-proprioception-and-spatial-imagination|Proprioception divides]] into the body schema (physical, non-conscious sensorimotor model) and the body image (phenomenal felt embodiment), while spatial imagination divides into neural reuse of perceptual machinery and the phenomenal three-dimensional workspace. The aphantasia-hyperphantasia spectrum and phantom limb phenomena provide further dissociations confirming the same architecture.
+
 **Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] sharpens the division into architecture and content: the brain's visual and spatial systems provide representational structure — dreamers navigate three-dimensional environments, colour-blind dreamers see in restricted palettes — while consciousness renders the phenomenal content that fills this architecture, unconstrained by sensory input. The degradation asymmetry deepens the puzzle: if the brain can render vivid visual scenes during sleep, why does waking perception degrade directly with sensory organ deterioration rather than being compensated by this demonstrated capability? The [[dream-consciousness|rendering dilemma]] suggests the rendering is consciousness-side, operating *through* neural architecture rather than *from* it.
 
 **Sensorimotor engagement.** [[sensorimotor-contingencies-and-the-interface|Sensorimotor contingency theory]] maps the interface's operational grammar — the lawful patterns linking movement to sensation. Brain-side processing masters these contingencies; mind-side contribution supplies the phenomenal character that accompanies mastery.
@@ -109,6 +111,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
 - [[capability-division-in-vision]] — The vision-specific case study applying this framework
+- [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as further dual-domain case studies
 - [[binding-void]] — The perceptual binding problem as a void
 - [[causal-interface]] — The mind-brain interface itself
 - [[interface-formalization-void]] — Why formalising the interface may be impossible
