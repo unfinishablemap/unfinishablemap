@@ -4,7 +4,7 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-28T02:27:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -102,7 +102,7 @@ Human theory of mind develops through recognisable stages:
 
 **Later childhood**: Understanding of complex social phenomena—lying, sarcasm, white lies, social norms, institutional facts—all of which require sophisticated mental state attribution.
 
-This trajectory parallels the development of metacognitive capacity more broadly—see [[topics/childhood-development-and-the-interface|childhood development and the consciousness interface]] for the full developmental picture. Children become able to represent their own mental states as mental states at roughly the same time they become able to represent others' mental states as mental states. The connection is not coincidental: both capacities require metarepresentation.
+This trajectory parallels the development of metacognitive capacity more broadly—see [[consciousness-interface-development|childhood development and the consciousness interface]] for the full developmental picture. Children become able to represent their own mental states as mental states at roughly the same time they become able to represent others' mental states as mental states. The connection is not coincidental: both capacities require metarepresentation.
 
 ## Neural Correlates
 

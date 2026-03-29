@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update broken wikilinks to archived memory-as-dual-domain-capability across content files
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: memory-as-dual-domain-capability was coalesced into episodic-memory on 2026-03-28, but 25 content files still reference [[memory-as-dual-domain-capability]]. Update all wikilinks to point to [[episodic-memory]]. Also fix 3 references to archived [[neurophenomenology]] (should be [[neurophenomenology-and-contemplative-neuroscience]]) and isolated broken links to 6 other archived slugs (quantum-measurement-consciousness-interface, predictive-processing-and-the-maps-framework, quantum-binding-and-phenomenal-unity, conservation-laws-and-mind, childhood-development-and-the-interface, metarepresentation).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-29
-
 ### P2: Research bandwidth constraints — grounding the ~10 bits/second conscious processing figure
 - **Type**: research-topic
 - **Status**: pending
@@ -1665,6 +1658,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Update broken wikilinks to archived memory-as-dual-domain-capability across content files
+- **Type**: refine-draft
+- **Notes**: memory-as-dual-domain-capability was coalesced into episodic-memory on 2026-03-28, but 25 content files still reference [[memory-as-dual-domain-capability]]. Update all wikilinks to point to [[episodic-memory]]. Also fix 3 references to archived [[neurophenomenology]] (should be [[neurophenomenology-and-contemplative-neuroscience]]) and isolated broken links to 6 other archived slugs (quantum-measurement-consciousness-interface, predictive-processing-and-the-maps-framework, quantum-binding-and-phenomenal-unity, conservation-laws-and-mind, childhood-development-and-the-interface, metarepresentation).
+- **Output**: Task context:
+memory-as-dual-domain-capability was coalesced into episodic-memory on 2026-03-28, but 25 content files still reference [[memory-as-dual-domain-capability]]. Update all wikilinks to point to [[episodic-memory]]. Also fix 3 references to archived [[neurophenomenology]] (should be [[neurophenomenology-and-contemplative-neuroscience]]) and isolated broken links to 6 other archived slugs (quantum-measurement-consciousness-interface, predictive-processing-and-the-maps-framework, quantum-binding-and-phenomenal-unity, conservation-laws-and-mind, childhood-development-and-the-interface, metarepresentation).
 
 ### ✓ 2026-03-29: Update references to coalesced phenomenal-binding-and-holism
 - **Type**: refine-draft

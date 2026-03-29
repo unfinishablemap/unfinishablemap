@@ -4,7 +4,7 @@ description: "Neural activity is discrete—oscillations, spikes, time slices—
 created: 2026-03-09
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 last_deep_review: 2026-03-18T03:44:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[voids]]"
   - "[[capability-division-problem]]"
-  - "[[memory-as-dual-domain-capability]]"
+  - "[[episodic-memory]]"
   - "[[continuity-void]]"
   - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[neural-refresh-rates-smoothness-problem-2026-03-08]]"
@@ -94,7 +94,7 @@ This resonates with [[process-philosophy|Whitehead's process philosophy]], where
 ## Further Reading
 
 - [[capability-division-problem]] — The general problem of dividing capabilities between brain and mind
-- [[memory-as-dual-domain-capability]] — The memory instance of capability division
+- [[episodic-memory]] — The memory instance of capability division
 - [[temporal-consciousness]] — The specious present, durée, and temporal phenomenology
 - [[binding-problem]] — Spatial cousin of the smoothness problem
 - [[grain-mismatch]] — The spatial face of the same structural incompatibility between phenomenal smoothness and neural discreteness

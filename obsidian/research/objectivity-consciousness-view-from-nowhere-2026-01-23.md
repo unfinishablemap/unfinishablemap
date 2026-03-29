@@ -3,12 +3,12 @@ title: "Research Notes - Objectivity and Consciousness"
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-01-23T00:47:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 target_section: concepts
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[phenomenology]]"
 concepts:
   - "[[intersubjectivity]]"

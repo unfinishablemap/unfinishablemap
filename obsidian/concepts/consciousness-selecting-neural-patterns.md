@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-28T22:12:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ These aren't mutually exclusive—selection might operate at multiple levels sim
 
 ### How Selection Works
 
-Selection operates through the [[measurement-problem|quantum measurement process]]. Physics determines the *distribution* of collapse outcomes but not which individual outcome becomes actual—the [[quantum-measurement-consciousness-interface|definite outcomes problem]]. [[causal-closure|Causal closure]] fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
+Selection operates through the [[measurement-problem|quantum measurement process]]. Physics determines the *distribution* of collapse outcomes but not which individual outcome becomes actual—the [[quantum-measurement-and-consciousness|definite outcomes problem]]. [[causal-closure|Causal closure]] fails precisely where collapse occurs. Consciousness operates at this gap, selecting outcomes without competing with or overriding physical causes.
 
 In Stapp's proposed formulation:
 

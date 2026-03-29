@@ -3,7 +3,7 @@ title: Research Notes - The Specious Present and Temporal Experience
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T22:00:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[philosophy-of-time]]"
   - "[[phenomenology]]"
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[collapse-and-time]]"
 related_articles:
   - "[[tenets]]"

@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 last_deep_review: 2026-03-19T05:33:00+00:00
 draft: false
 topics:
@@ -138,7 +138,7 @@ The [[attention-and-the-consciousness-interface|attentional selection]] framewor
 
 ## Predictive Processing and Dualist Perception
 
-[[predictive-processing-and-the-maps-framework|Predictive processing]] theories describe perception as the brain's best prediction about the causes of sensory input, updated by prediction errors. This framework is often presented in physicalist terms (Clark, 2013), but it sits naturally within dualism. The physicalist reads "the brain predicts" as shorthand for neural mechanisms requiring no experiencing subject. This works as far as the computational story goes. But predictive processing also generates *phenomenal predictions* — the experienced world as the brain's best guess — and here the framework tacitly relies on there being something it is like to have the prediction confirmed or violated. [[surprise-prediction-error-and-consciousness|Prediction error]] feels like something; the smooth confirmation of an expectation feels like something else. Dualism makes this phenomenal dimension explicit.
+[[predictive-processing-and-dualism|Predictive processing]] theories describe perception as the brain's best prediction about the causes of sensory input, updated by prediction errors. This framework is often presented in physicalist terms (Clark, 2013), but it sits naturally within dualism. The physicalist reads "the brain predicts" as shorthand for neural mechanisms requiring no experiencing subject. This works as far as the computational story goes. But predictive processing also generates *phenomenal predictions* — the experienced world as the brain's best guess — and here the framework tacitly relies on there being something it is like to have the prediction confirmed or violated. [[surprise-prediction-error-and-consciousness|Prediction error]] feels like something; the smooth confirmation of an expectation feels like something else. Dualism makes this phenomenal dimension explicit.
 
 The phenomenology of perception supports this reading. Perceptual experience does not feel like passive reception. It feels like engagement — active, directed, attentive. We *look at* things, *listen to* sounds, *attend to* features (Husserl, 1913/1982). This agentive quality is precisely what bidirectional interaction predicts.
 

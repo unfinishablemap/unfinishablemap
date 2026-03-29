@@ -3,13 +3,13 @@ title: "Research: Alignment Objective Framed in Experiential Terms"
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-01-16T22:00:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
   - "[[meaning-of-life]]"
 concepts:
-  - "[[neurophenomenology]]"
+  - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[qualia]]"
   - "[[phenomenology]]"
 related_articles:

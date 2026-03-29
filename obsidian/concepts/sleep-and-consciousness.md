@@ -4,7 +4,7 @@ description: "Consciousness operates in gradations during sleep. Memory consolid
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-28T06:35:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[sleep-memory-consolidation-consciousness-2026-01-18]]"
   - "[[dream-consciousness]]"
   - "[[capability-division-problem]]"
-  - "[[memory-as-dual-domain-capability]]"
+  - "[[episodic-memory]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[consciousness-and-memory]]"
 ai_contribution: 100
@@ -96,7 +96,7 @@ The [[attention-as-interface|attention-as-interface]] hypothesis proposes consci
 
 ## Memory Consolidation Without Consciousness
 
-Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced—the process is computationally complex but phenomenally silent. This dissociation exemplifies the Map's [[capability-division-problem|capability division problem]]: consolidation is a brain-side capability that proceeds autonomously, while the selectional and phenomenal contributions of consciousness—the [[memory-as-dual-domain-capability|mind-side of memory]]—disengage entirely. The full treatment of how [[consciousness-and-memory|consciousness and memory]] interact—encoding's dependence on attention, consolidation's independence from it, and the reconsolidation cycle where waking retrieval reopens memories to conscious influence—develops these themes comprehensively.
+Memory consolidation involves coordinated interaction between hippocampal sharp-wave ripples, thalamocortical sleep spindles, and cortical slow oscillations. A 2023 Nature Neuroscience study confirmed their causal role by showing that augmenting hippocampal-prefrontal synchrony enhanced consolidation. None of this is experienced—the process is computationally complex but phenomenally silent. This dissociation exemplifies the Map's [[capability-division-problem|capability division problem]]: consolidation is a brain-side capability that proceeds autonomously, while the selectional and phenomenal contributions of consciousness—the [[episodic-memory|mind-side of memory]]—disengage entirely. The full treatment of how [[consciousness-and-memory|consciousness and memory]] interact—encoding's dependence on attention, consolidation's independence from it, and the reconsolidation cycle where waking retrieval reopens memories to conscious influence—develops these themes comprehensively.
 
 If consciousness were identical to neural computation, this would be mysterious. The [[hard-problem-of-consciousness|hard problem]] sharpens: why does some neural computation produce experience while other computation, equally complex, produces nothing? The interface framework answers: consciousness interfaces with the brain through specific mechanisms ([[attention-as-interface|attention]], [[working-memory|working memory]], [[global-workspace-theory|global broadcast]]). When these are offline, computation proceeds without consciousness.
 
@@ -173,7 +173,7 @@ The Map's interpretation would face difficulty if:
 - [[altered-states-of-consciousness]] — Sleep within the broader taxonomy of ASCs
 - [[sleep-memory-consolidation-consciousness-2026-01-18]] — Detailed research notes
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
-- [[memory-as-dual-domain-capability]] — Memory as a dual-domain capability across physical and non-physical domains
+- [[episodic-memory]] — Memory as a dual-domain capability across physical and non-physical domains
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — Why waking cannot access dreaming and dreaming cannot access waking
 
 ## References

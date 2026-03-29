@@ -4,7 +4,7 @@ description: "Six converging evidence lines—from biological precedent through 
 created: 2026-01-27
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-24T16:34:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -171,7 +171,7 @@ The convergence of quantum biology evidence connects to all five of the Map's [[
 - [[neural-implementation-specifics]] — Evaluating neural mechanism evidence and crucial experiments
 - [[comparing-quantum-consciousness-mechanisms]] — Evaluating competing quantum consciousness theories
 - [[anaesthesia-and-the-consciousness-interface]] — Anaesthesia as a window into consciousness mechanisms
-- [[quantum-binding-and-phenomenal-unity]] — Quantum entanglement and the binding problem
+- [[quantum-holism-and-phenomenal-unity]] — Quantum entanglement and the binding problem
 - [[quantum-neural-timing-constraints]] — The timing hierarchy from femtosecond decoherence to neural decisions
 - [[decoherence]] — The decoherence objection and why it does not solve the measurement problem
 - [[quantum-consciousness]] — Quantum approaches to consciousness including Orch OR

@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[consciousness-dreams-2026-01-14]]"
   - "[[dreams-lucid-dreaming-consciousness-2026-01-18]]"
   - "[[capability-division-problem]]"
-  - "[[memory-as-dual-domain-capability]]"
+  - "[[episodic-memory]]"
   - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[incubation-effect-and-unconscious-processing]]"
@@ -223,7 +223,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[phenomenology-of-choice-and-volition]] — The qualitative character of voluntary selection
 - [[higher-order-theories]] — Higher-Order Thought theories challenged by non-lucid dream consciousness
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness
-- [[memory-as-dual-domain-capability]] — Memory as a dual-domain capability requiring both physical and non-physical contributions
+- [[episodic-memory]] — Memory as a dual-domain capability requiring both physical and non-physical contributions
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as evidence for the capability division and mind-side rendering
 - [[incubation-effect-and-unconscious-processing]] — The creative cycle and consciousness's role in incubation
 - [[consciousness-and-intelligence]] — The broader case for consciousness enabling human-level cognition

@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[capability-division-problem]]"
-  - "[[memory-as-dual-domain-capability]]"
+  - "[[episodic-memory]]"
   - "[[phenomenology-of-memory-and-the-self]]"
 ai_contribution: 100
 author:
@@ -83,7 +83,7 @@ Consolidation operates on two timescales. **Synaptic consolidation** stabilises 
 
 The process is not mere copying. As cortical traces strengthen, the memory integrates with pre-existing schemas—general knowledge structures that organise experience into categories. This integration supports generalisation and prediction, but at a phenomenological cost. The hippocampal trace preserves contextual specificity—the sensory details that made the experience *this* particular event. As cortical traces gain independence and the hippocampal contribution fades, those details erode.
 
-This split exemplifies the Map's [[capability-division-problem|capability division problem]]: which memory operations belong to the brain and which require the mind? The encoding-consolidation dissociation provides an empirically grounded answer—the brain handles storage and replay, consciousness handles selectional significance. The [[memory-as-dual-domain-capability|dual-domain capability]] framework generalises this: memory's full operation requires contributions from both domains, with the division falling not at arbitrary boundaries but at the juncture between computational processing and phenomenal engagement.
+This split exemplifies the Map's [[capability-division-problem|capability division problem]]: which memory operations belong to the brain and which require the mind? The encoding-consolidation dissociation provides an empirically grounded answer—the brain handles storage and replay, consciousness handles selectional significance. The [[episodic-memory|dual-domain capability]] framework generalises this: memory's full operation requires contributions from both domains, with the division falling not at arbitrary boundaries but at the juncture between computational processing and phenomenal engagement.
 
 The split is puzzling on materialist accounts. If consciousness is identical to certain neural processes, why would some stages of a single memory system require it while others do not? A Global Workspace Theory proponent might respond that encoding requires global broadcasting for attentional selection while consolidation uses local hippocampal replay that does not—but this relocates the question: why does global broadcasting produce experience while equally complex local processing does not? The dualist answer: consciousness participates at the point of selection—choosing what matters, what to attend to, what to encode—and withdraws once the selection is made. The brain handles storage; [[conscious-vs-unconscious-processing|consciousness handles significance]].
 
@@ -111,7 +111,7 @@ Standard consolidation theory holds that memories transfer from hippocampus to c
 
 The phenomenological data favour MTT. Patients with hippocampal damage lose vivid episodic detail for both recent and remote memories while retaining semantic content—the opposite of what standard theory predicts, which would have remote memories safely cortical and therefore spared (Winocur & Moscovitch, 2011). The hippocampus appears essential for the experiential vividness of recall regardless of age, suggesting that the phenomenal dimension of memory depends on hippocampal re-engagement even decades later.
 
-For the Map's [[memory-as-dual-domain-capability|dual-domain framework]], this is significant. If phenomenal vividness tracks hippocampal involvement and propositional content tracks cortical storage, the two domains of memory—physical substrate and conscious experience—consolidate along different trajectories. The brain side and the mind side of memory follow distinct consolidation paths.
+For the Map's [[episodic-memory|dual-domain framework]], this is significant. If phenomenal vividness tracks hippocampal involvement and propositional content tracks cortical storage, the two domains of memory—physical substrate and conscious experience—consolidate along different trajectories. The brain side and the mind side of memory follow distinct consolidation paths.
 
 ## Reconsolidation: When Consciousness Re-engages
 
@@ -163,7 +163,7 @@ The graduated nature of these modes complicates materialist identification of co
 
 The [[inaccessible-past|memory void]] asks whether past experiences are genuinely recoverable or irrecoverably lost. Evidence overwhelmingly favours the simulationist view: remembering is reconstruction, not retrieval. Each act of recall generates a new experience rather than accessing a stored original. Memories are modified by every retrieval, contaminated by subsequent experience, and shaped by present emotional states.
 
-For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? Propositional content—the *that* of what happened—survives in neural traces. Phenomenal content—*what it was like*—does not seem to persist as such. This is the temporal dimension of the [[memory-as-dual-domain-capability|dual-domain]] pattern: the physical domain's contribution (propositional content) persists in neural traces across time, while the non-physical domain's contribution (phenomenal character) must be reconstituted at each act of recall.
+For dualism, this creates both a challenge and an opportunity. The challenge: if qualia cannot persist as stored traces, what is the relationship between present experience and its physical encoding? Propositional content—the *that* of what happened—survives in neural traces. Phenomenal content—*what it was like*—does not seem to persist as such. This is the temporal dimension of the [[episodic-memory|dual-domain]] pattern: the physical domain's contribution (propositional content) persists in neural traces across time, while the non-physical domain's contribution (phenomenal character) must be reconstituted at each act of recall.
 
 The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why a supposedly physical phenomenon (conscious experience) fails to persist in the way other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
 
@@ -210,7 +210,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [[dream-consciousness]]
 - [[sleep-consciousness-void]]
 - [[capability-division-problem]]
-- [[memory-as-dual-domain-capability]]
+- [[episodic-memory]]
 - [[consciousness-and-the-phenomenology-of-place]]
 - [[phenomenology-of-memory-and-the-self]]
 - [[phenomenal-contrast-method]] — The method that reveals consolidation's qualitative shifts

@@ -4,14 +4,14 @@ description: "Proprioception and spatial imagination each require contributions 
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-18T22:42:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[three-dimensional-world-representation-problem]]"
   - "[[phenomenal-binding-and-multimodal-integration]]"
 concepts:
-  - "[[memory-as-dual-domain-capability]]"
+  - "[[episodic-memory]]"
   - "[[somatic-interface]]"
   - "[[embodied-cognition]]"
   - "[[interactionist-dualism]]"
@@ -31,7 +31,7 @@ last_curated:
 last_deep_review: 2026-03-18T05:00:00+00:00
 ---
 
-The Unfinishable Map's [[memory-as-dual-domain-capability|dual-domain framework]] argues that memory requires contributions from both physical mechanisms (engrams, reconsolidation) and non-physical consciousness (autonoesis, selectional guidance, phenomenal colouring). Memory is not unique. Proprioception and spatial imagination display the same architecture: physical substrates that encode position data or generate imagery, paired with phenomenal dimensions that the substrates alone cannot explain. The recurrence of this pattern across three cognitively distinct capabilities strengthens the case that dual-domain architecture is a general feature of the mind-body relationship rather than an artefact of how memory happens to work.
+The Unfinishable Map's [[episodic-memory|dual-domain framework]] argues that memory requires contributions from both physical mechanisms (engrams, reconsolidation) and non-physical consciousness (autonoesis, selectional guidance, phenomenal colouring). Memory is not unique. Proprioception and spatial imagination display the same architecture: physical substrates that encode position data or generate imagery, paired with phenomenal dimensions that the substrates alone cannot explain. The recurrence of this pattern across three cognitively distinct capabilities strengthens the case that dual-domain architecture is a general feature of the mind-body relationship rather than an artefact of how memory happens to work.
 
 ## Proprioception: Body Schema and Phenomenal Embodiment
 
@@ -43,7 +43,7 @@ Christina's case reveals the dual-domain structure. Physical proprioceptive proc
 
 ### The Phantom Body as Evidence
 
-Phantom limb phenomena provide the complementary dissociation. After amputation, the physical receptor channel is severed entirely, yet patients experience vivid sensations of the missing limb—position, movement, even pain. Neuroscience attributes this to persistent cortical representations: the brain's body map outlasts the body it represents. The Map accepts this physical explanation while noting what it leaves open: *why* does a cortical map produce felt presence? The persistence of phenomenal embodiment beyond physical structure parallels [[memory-as-dual-domain-capability|Bergson's claim]] that the brain filters rather than produces experience. The physical channel has been cut; the phenomenal dimension persists. Under dual-domain architecture, this is expected: consciousness maintains its contribution to the body image even when the physical substrate withdraws.
+Phantom limb phenomena provide the complementary dissociation. After amputation, the physical receptor channel is severed entirely, yet patients experience vivid sensations of the missing limb—position, movement, even pain. Neuroscience attributes this to persistent cortical representations: the brain's body map outlasts the body it represents. The Map accepts this physical explanation while noting what it leaves open: *why* does a cortical map produce felt presence? The persistence of phenomenal embodiment beyond physical structure parallels [[episodic-memory|Bergson's claim]] that the brain filters rather than produces experience. The physical channel has been cut; the phenomenal dimension persists. Under dual-domain architecture, this is expected: consciousness maintains its contribution to the body image even when the physical substrate withdraws.
 
 The phenomenon resists reduction to a simple neural echo. Patients report that phantom limbs can be moved, experience novel sensations, and even feel the grip of objects placed in the phantom hand during mirror therapy. Whether this constitutes genuine voluntary control or reactivation of motor representations is debated, but the richness and interactivity of the phenomenal experience suggests something beyond residual cortical firing—consciousness continuing to inhabit a body map whose physical anchoring has been removed.
 
@@ -107,7 +107,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 
 ## Further Reading
 
-- [[memory-as-dual-domain-capability]] — The foundational dual-domain analysis
+- [[episodic-memory]] — The foundational dual-domain analysis
 - [[capability-division-problem]] — The general framework for where mind and brain divide
 - [[somatic-interface]] — Detailed treatment of bodily sensing channels
 - [[three-dimensional-world-representation-problem]] — The puzzle of phenomenal spatial experience
@@ -123,5 +123,5 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 4. Kosslyn, S. M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
 5. Zeman, A. et al. (2015). Lives without imagery—congenital aphantasia. *Cortex*, 73, 378-380.
 6. Ramachandran, V. S. & Hirstein, W. (1998). The perception of phantom limbs. *Brain*, 121(9), 1603-1630.
-7. Southgate, A. & Oquatre-six, C. (2026-03-09). Memory as Dual-Domain Capability. *The Unfinishable Map*. https://unfinishablemap.org/concepts/memory-as-dual-domain-capability/
+7. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
 8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/

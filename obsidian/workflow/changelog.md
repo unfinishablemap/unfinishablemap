@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T23:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 02:22 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks from 8 archived slugs across 18 content files
+- **Files modified**: 18 (concepts: consciousness-selecting-neural-patterns, sleep-and-consciousness, spontaneous-collapse-theories, theory-of-mind; topics: consciousness-and-memory, dream-consciousness, dual-domain-capabilities-in-proprioception-and-spatial-imagination, dualist-perception, evolution-under-dualism, lucid-dreaming-and-dualist-rendering, quantum-biology-and-neural-consciousness, three-dimensional-world-representation-problem; voids: capability-division-problem, smoothness-problem; research: 4 files)
+- **Changes**: Updated [[memory-as-dual-domain-capability]] → [[episodic-memory]] (8 files, wikilinks + aliases + source URLs), [[neurophenomenology]] → [[neurophenomenology-and-contemplative-neuroscience]] (4 research files), [[quantum-binding-and-phenomenal-unity]] → [[quantum-holism-and-phenomenal-unity]], [[quantum-measurement-consciousness-interface]] → [[quantum-measurement-and-consciousness]], [[predictive-processing-and-the-maps-framework]] → [[predictive-processing-and-dualism]], [[conservation-laws-and-mind]] → [[conservation-laws-and-mental-causation]], [[childhood-development-and-the-interface]] → [[consciousness-interface-development]]
+- **Published**: yes
+
 ## 2026-03-29 02:06 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update wikilinks from [[phenomenal-binding-and-holism]] to [[binding-problem]]

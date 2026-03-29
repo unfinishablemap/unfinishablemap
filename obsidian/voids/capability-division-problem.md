@@ -4,7 +4,7 @@ description: "Interactionist dualism must specify which capabilities belong to t
 created: 2026-03-09
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-23T23:44:00+00:00
+ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
 related_articles:
   - "[[dualist-perception]]"
   - "[[smoothness-problem]]"
-  - "[[memory-as-dual-domain-capability]]"
+  - "[[episodic-memory]]"
   - "[[dream-consciousness]]"
   - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
@@ -71,7 +71,7 @@ The capability division problem is not confined to visual perception. Wherever t
 
 **Temporal continuity.** Neural activity is oscillatory and discrete — perceptual cycles at roughly 7–13 Hz, gamma binding at ~40 Hz, processing in time slices of up to 400 milliseconds. Yet experience flows without seams. The [[smoothness-problem|smoothness problem]] is a temporal instance of capability division: the brain provides discrete computational snapshots, but the seamless experiential stream may be a mind-side contribution that consciousness brings to the interface rather than something the brain constructs.
 
-**Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [[memory-as-dual-domain-capability|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
+**Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [[episodic-memory|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
 **Dreams.** During REM sleep, consciousness generates immersive experiential worlds while sensory input is suppressed and neural architecture reorganises. [[lucid-dreaming-and-dualist-rendering|Lucid dreaming]] sharpens the division into architecture and content: the brain's visual and spatial systems provide representational structure — dreamers navigate three-dimensional environments, colour-blind dreamers see in restricted palettes — while consciousness renders the phenomenal content that fills this architecture, unconstrained by sensory input. The degradation asymmetry deepens the puzzle: if the brain can render vivid visual scenes during sleep, why does waking perception degrade directly with sensory organ deterioration rather than being compensated by this demonstrated capability? The [[dream-consciousness|rendering dilemma]] suggests the rendering is consciousness-side, operating *through* neural architecture rather than *from* it.
 
@@ -98,7 +98,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 ## Further Reading
 
 - [[smoothness-problem]] — The temporal instance of capability division
-- [[memory-as-dual-domain-capability]] — Memory as requiring both brain-side and mind-side contributions
+- [[episodic-memory]] — Memory as requiring both brain-side and mind-side contributions
 - [[dream-consciousness]] — How the division shifts across waking and dreaming
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as clean evidence for capability division: architecture vs content
 - [[sensorimotor-contingencies-and-the-interface]] — The interface's operational grammar
