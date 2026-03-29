@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-29T15:56:00+00:00
+ai_modified: 2026-03-29T17:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -123,7 +123,7 @@ This introduces a severe [[timing-gap-problem|timescale gap]]. Zeno freezing req
 
 The Zeno mechanism is therefore better understood as a placeholder identifying *where* consciousness might intervene rather than a complete account of *how*.
 
-**Fourth, [[stochastic-amplification-and-neural-selection|stochastic amplification]] offers a pathway that bypasses the coherence requirement entirely.** If consciousness operates through [[post-decoherence-selection]]—biasing which element of an already-decohered mixture becomes actual—sustained quantum coherence is unnecessary. Stochastic resonance, self-organized criticality, and threshold-crossing dynamics compose into a chain that scales a weak post-decoherence bias into macroscopic neural effects without requiring pre-decoherence quantum intervention. This trades the coherence problem for a specificity problem: explaining why conscious bias produces adaptive behaviour rather than amplifying noise (the [[amplification-void|amplification void]]).
+**Fourth, [[amplification-mechanisms-consciousness-physics|stochastic amplification]] offers a pathway that bypasses the coherence requirement entirely.** If consciousness operates through [[post-decoherence-selection]]—biasing which element of an already-decohered mixture becomes actual—sustained quantum coherence is unnecessary. Stochastic resonance, self-organized criticality, and threshold-crossing dynamics compose into a chain that scales a weak post-decoherence bias into macroscopic neural effects without requiring pre-decoherence quantum intervention. This trades the coherence problem for a specificity problem: explaining why conscious bias produces adaptive behaviour rather than amplifying noise (the [[amplification-void|amplification void]]).
 
 ## The Illusionist Challenge
 
@@ -230,7 +230,7 @@ The Map should not claim that selection within Born probabilities constitutes a 
 - [[quantum-biology-and-neural-mechanisms|quantum biology]] — Empirical evidence for quantum effects in biological systems
 - [[time-symmetric-selection-mechanism]] — Atemporal selection via transactional interpretation
 - [[empirical-evidence-for-consciousness-selecting]] — Convergent evidence lines for the selection framework
-- [[stochastic-amplification-and-neural-selection]] — How noise-assisted dynamics scale quantum-level bias to neural effects
+- [[amplification-mechanisms-consciousness-physics]] — How noise-assisted dynamics scale quantum-level bias to neural effects
 - [[post-decoherence-selection]] — Selection after decoherence removes the coherence requirement
 - [[interactionist-dualism]] — The philosophical framework selection implements
 

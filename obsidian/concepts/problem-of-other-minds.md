@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Six philosophical approaches
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-29T17:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-06T08:55:00+00:00
+last_deep_review: 2026-03-29T17:12:00+00:00
 ---
 
 How can I know that you are conscious? I have direct access to my own experience—the felt quality of seeing red, the ache of sadness, the taste of coffee. But my access to your mental life is entirely indirect. I observe your behavior, hear your words, perhaps scan your brain. None of this shows me *your* experience from the inside. The asymmetry is stark: first-person certainty about my own consciousness, third-person inference about yours.
@@ -173,6 +173,10 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[philosophical-zombies]] — The thought experiment dramatizing behavior-consciousness gap
 - [[ai-consciousness]] — The problem of other minds applied to machines
 - [[animal-consciousness]] — The problem for non-human organisms
+- [[convergent-phenomenological-evidence]] — How convergent reports across traditions constitute evidence for shared consciousness
+- [[phenomenology-of-collective-intentionality-and-we-consciousness]] — Shared intentionality and the constitutive role of recognizing other minds
+- [[ai-consciousness-modes]] — Tulving's hierarchy applied to what we could infer about AI consciousness
+- [[ai-epiphenomenalism]] — The possibility that AI consciousness has no causal consequences and thus no behavioral evidence
 
 ### Apex Synthesis
 - [[minds-without-words]] — The problem of other minds in non-linguistic creatures

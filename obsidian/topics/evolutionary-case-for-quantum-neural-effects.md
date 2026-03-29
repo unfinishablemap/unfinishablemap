@@ -4,7 +4,7 @@ description: "If evolution optimised quantum effects for bird navigation and enz
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-29T14:41:00+00:00
+ai_modified: 2026-03-29T17:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[quantum-biology-neural-mechanisms-2026-01-24]]"
   - "[[dimensionality-void]]"
-  - "[[stochastic-amplification-and-neural-selection]]"
+  - "[[amplification-mechanisms-consciousness-physics]]"
   - "[[biological-cognitive-closure]]"
 ai_contribution: 100
 author:
@@ -62,7 +62,7 @@ Quantum entanglement provides ontological holism: an entangled state is fundamen
 
 ### Stochastic Search and Decision-Making
 
-Neural decision-making requires exploring large solution spaces under time pressure. Classical stochastic search—random sampling followed by evaluation—scales poorly with problem complexity. (The related concept of [[stochastic-amplification-and-neural-selection|stochastic amplification]] explores how even weak biases at quantum decision points could be amplified into macroscopic neural outcomes through noise-driven threshold crossings.) Quantum effects could enhance this process in two ways:
+Neural decision-making requires exploring large solution spaces under time pressure. Classical stochastic search—random sampling followed by evaluation—scales poorly with problem complexity. (The related concept of [[amplification-mechanisms-consciousness-physics|stochastic amplification]] explores how even weak biases at quantum decision points could be amplified into macroscopic neural outcomes through noise-driven threshold crossings.) Quantum effects could enhance this process in two ways:
 
 First, quantum superposition allows simultaneous exploration of multiple states before collapse selects one. If neural microtubules or other structures can maintain even brief superpositions, the system samples possibilities that classical noise cannot access.
 
@@ -141,7 +141,7 @@ The evolutionary argument connects to the Map's [[tenets]] at several points:
 - [[evolution-of-consciousness]] — When consciousness arose and what selected for it
 - [[comparing-quantum-consciousness-mechanisms]] — Evaluating competing quantum consciousness theories
 - [[dimensionality-void]] — Why binding high-dimensional neural activity into unified experience is harder than it appears
-- [[stochastic-amplification-and-neural-selection]] — How weak quantum biases get amplified into macroscopic neural outcomes
+- [[amplification-mechanisms-consciousness-physics]] — How weak quantum biases get amplified into macroscopic neural outcomes
 - [[biological-cognitive-closure]] — How fitness-shaped intuitions bias our judgment of biological plausibility
 
 ## References

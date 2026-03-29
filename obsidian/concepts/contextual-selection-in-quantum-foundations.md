@@ -4,7 +4,7 @@ description: "Quantum contextuality means measurement outcomes depend on what el
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-29T16:11:00+00:00
+ai_modified: 2026-03-29T17:12:00+00:00
 draft: false
 topics:
   - "[[quantum-measurement-and-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[weak-measurement-and-post-selection]]"
 related_articles:
   - "[[tenets]]"
-  - "[[stochastic-amplification-and-neural-selection]]"
+  - "[[amplification-mechanisms-consciousness-physics]]"
   - "[[weak-measurement-and-post-selection]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
 ai_contribution: 100
@@ -86,7 +86,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the dissolution of s
 - [[measurement-problem]]
 - [[consciousness-selecting-neural-patterns]]
 - [[weak-measurement-and-post-selection]]
-- [[stochastic-amplification-and-neural-selection]]
+- [[amplification-mechanisms-consciousness-physics]]
 - [[quantum-measurement-and-consciousness]]
 
 ## References
