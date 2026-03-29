@@ -4909,3 +4909,39 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The gap between stating mathematical constraints on consciousness-physics coupling and writing down the actual coupling function. Identified precisely in consciousness-physics-interface-formalism, referenced across multiple formalism articles but lacking canonical definition. Target section: concepts/ (225/230). See optimistic-2026-03-29.md
 - **Generated**: 2026-03-29
+
+### P3: Write article on consciousness in minimal neural systems
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's framework makes predictions about where consciousness begins in biological hierarchy. C. elegans (302 neurons) and Physarum (no neurons) are test cases—does the framework predict they lack consciousness despite positive IIT Phi? Falsifiability condition needing explicit treatment. Connects to functionalism, consciousness-as-amplifier, interface-specification-problem. See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Write article on process philosophy and interactionist dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Whitehead's actual occasions, prehension, and creative synthesis offer either alternative or complementary approach to quantum interaction model. Repeatedly referenced (prehension, subjective-aim) but never systematically engaged. Clarify whether Whiteheadian process thought is ally, competitor, or different level of description. See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Write falsifiability architecture synthesis (apex candidate)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Systematic index of what would refute each tenet—dualism, bidirectional interaction, quantum interface, post-decoherence selection—with predictions shared with vs. unique to competing frameworks. Currently scattered across dozens of articles. Would demonstrate genuine empirical commitments. Builds on consciousness-physics-interface-formalism, experimental-consciousness-science, the-reverse-inference, post-decoherence-selection. See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links from optimistic review 2026-03-29 afternoon findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: stochastic-amplification↔consciousness-as-amplifier, post-decoherence-selection↔contextual-selection-in-quantum-foundations, quantum-darwinism↔integrated-information-theory, stochastic-amplification↔clinical-neuroplasticity, post-decoherence-selection-programme(apex)↔consciousness-physics-interface-formalism, evaluative-qualia↔moral-architecture-of-consciousness(apex). See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for post-decoherence gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The physical interval between basis selection (decoherence) and outcome actualisation—the Map's identified causal locus for consciousness. Referenced across the new post-decoherence cluster but lacking canonical concept page. Distinct from specification gap and explanatory gap. Target section: concepts/ (225/230). See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for neural criticality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The boundary state between ordered and chaotic neural dynamics where small perturbations cascade into large-scale effects. Central to amplification argument (Beggs & Plenz neuronal avalanches, power-law distributions). Mentioned without systematic treatment. Target section: concepts/ (225/230). See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
