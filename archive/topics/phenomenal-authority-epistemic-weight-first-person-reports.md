@@ -39,6 +39,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
 last_deep_review: 2026-03-29T19:36:00+00:00
+archived: true
+archived_date: 2026-03-29T21:39:00+00:00
+superseded_by: "/topics/phenomenal-authority-and-introspective-evidence/"
+archive_reason: "Coalesced into Phenomenal Authority and Introspective Evidence"
+original_path: "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"
 ---
 
 When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority*—the special epistemic standing of first-person reports about conscious experience—is not a philosophical curiosity but a load-bearing pillar of the case for dualism. If first-person reports provide genuine evidence about phenomenal states, then consciousness presents features that resist physical reduction. If they do not, the very concept of consciousness becomes dispensable. There is no stable middle ground, and the attempt to occupy one—granting phenomenal authority while denying its ontological implications—collapses under pressure from what Rorty identified as incorrigibility's forced choice between dualism and eliminativism.

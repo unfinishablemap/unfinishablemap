@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 21:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenal-conservatism-and-introspective-evidence]], [[topics/phenomenal-authority-epistemic-weight-first-person-reports]]
+- **Target**: [[topics/phenomenal-authority-and-introspective-evidence]]
+- **Archived**: [[archive/topics/phenomenal-conservatism-and-introspective-evidence]], [[archive/topics/phenomenal-authority-epistemic-weight-first-person-reports]]
+- **References to review**: 8 active content files (cross-review task created)
+
 ## 2026-03-29 21:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/epistemology-of-first-person-evidence]]
