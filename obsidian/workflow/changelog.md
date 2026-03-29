@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 07:02 UTC - research-topic
+- **Status**: Success
+- **Topic**: Testable predictions distinguishing consciousness-collapse from standard decoherence
+- **Output**: [[research/testable-predictions-consciousness-collapse-decoherence-2026-03-29]]
+- **Sources consulted**: 15
+
 ## 2026-03-29 06:46 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (226 topics, 225 concepts, 1 tenet). Focus on March 2026 work: 59 new topics, 45 new concepts, ~391 deep-review refinements

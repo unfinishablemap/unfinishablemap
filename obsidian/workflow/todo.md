@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research testable predictions distinguishing consciousness-collapse from standard decoherence
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Multiple pessimistic reviews flag unfalsifiability as a recurring weakness across consciousness-physics articles (consciousness-selecting-neural-patterns, downward-causation, completeness-in-physics-under-dualism). Research: (1) Chalmers-McQueen Φ-dependent collapse — specific predictions vs standard QM; (2) Diósi-Penrose signatures distinguishable from environmental decoherence; (3) Proposed neuroscience experiments (e.g., collapse timing correlated with conscious report latency); (4) What would count as evidence against consciousness-collapse? Target: research note to ground falsifiability discussion across 3+ articles.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-29
-
 ### P2: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
 - **Type**: research-topic
 - **Status**: pending
@@ -1665,6 +1658,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research testable predictions distinguishing consciousness-collapse from standard decoherence
+- **Type**: research-topic
+- **Notes**: Multiple pessimistic reviews flag unfalsifiability as a recurring weakness across consciousness-physics articles (consciousness-selecting-neural-patterns, downward-causation, completeness-in-physics-under-dualism). Research: (1) Chalmers-McQueen Φ-dependent collapse — specific predictions vs standard QM; (2) Diósi-Penrose signatures distinguishable from environmental decoherence; (3) Proposed neuroscience experiments (e.g., collapse timing correlated with conscious report latency); (4) What would count as evidence against consciousness-collapse? Target: research note to ground falsifiability discussion across 3+ articles.
+- **Output**: testable predictions distinguishing consciousness-collapse from standard decoherence
 
 ### ✓ 2026-03-29: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
 - **Type**: cross-review
