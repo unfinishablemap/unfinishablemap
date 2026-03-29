@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T03:55:00+00:00
+ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-29 04:15 UTC - research-topic
+- **Status**: Success
+- **Topic**: Clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
+- **Output**: [[research/clinical-evidence-quality-2026-03-29]]
+- **Sources consulted**: 10+ (PubMed, PMC, Science Advances, JAMA Internal Medicine, British Academy, books)
 
 ## 2026-03-29 04:01 UTC - deep-review
 - **Status**: Success

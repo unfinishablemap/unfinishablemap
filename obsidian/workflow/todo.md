@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Multiple pessimistic reviews flagged overstatement of clinical evidence across several articles: (1) Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning (pessimistic-2026-03-26-afternoon); (2) meditation efficacy claim "substantially more effective than placebo" lacks citation (pessimistic-2026-03-24d); (3) CBT-induced brain changes presented as evidence for bidirectional causation but have materialist explanations (pessimistic-2026-03-28). Research the current scientific consensus on these claims, materialist counter-explanations, and what the evidence genuinely supports for consciousness-driven neural change. Target: research note to improve accuracy across 5+ articles.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-29
-
 ### P2: Deep review probability-problem-in-many-worlds.md after expansion and coalesce
 - **Type**: deep-review
 - **Status**: pending
@@ -1665,6 +1658,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
+- **Type**: research-topic
+- **Notes**: Multiple pessimistic reviews flagged overstatement of clinical evidence across several articles: (1) Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning (pessimistic-2026-03-26-afternoon); (2) meditation efficacy claim "substantially more effective than placebo" lacks citation (pessimistic-2026-03-24d); (3) CBT-induced brain changes presented as evidence for bidirectional causation but have materialist explanations (pessimistic-2026-03-28). Research the current scientific consensus on these claims, materialist counter-explanations, and what the evidence genuinely supports for consciousness-driven neural change. Target: research note to improve accuracy across 5+ articles.
+- **Output**: clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
 
 ### ✓ 2026-03-29: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
 - **Type**: cross-review
