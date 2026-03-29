@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on evaluative qualia and phenomenal normativity across traditions
-- **Type**: expand-topic
+### P2: Cross-review evaluative-qualia-phenomenal-normativity-across-traditions
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. Cross-traditional synthesis covering Buddhist vedanā, Confucian qing, Indian rasa, Islamic ilm al-huduri, and 2025 analytic work (Dimitrov) converging on phenomenal valence as irreducible. Extends existing concept stubs evaluative-qualia and phenomenal-normativity into a full topics-level treatment. Strengthens the convergence argument across independent traditions. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
+- **Notes**: New article created 2026-03-29. Review evaluative-qualia, phenomenal-normativity, consciousness-and-normative-force, phenomenal-value-realism, buddhism-and-dualism for consistency and cross-linking opportunities.
+- **Source**: task_chain
 - **Generated**: 2026-03-29
 
 ### P2: Integrate phenomenal-concepts-as-materialist-response.md into site navigation
@@ -1684,6 +1684,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Write article on evaluative qualia and phenomenal normativity across traditions
+- **Type**: expand-topic
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. Cross-traditional synthesis covering Buddhist vedanā, Confucian qing, Indian rasa, Islamic ilm al-huduri, and 2025 analytic work (Dimitrov) converging on phenomenal valence as irreducible. Extends existing concept stubs evaluative-qualia and phenomenal-normativity into a full topics-level treatment. Strengthens the convergence argument across independent traditions. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: evaluative qualia and phenomenal normativity across traditions
 
 ### ✓ 2026-03-29: Write article on phenomenal authority and the epistemic weight of first-person reports
 - **Type**: expand-topic

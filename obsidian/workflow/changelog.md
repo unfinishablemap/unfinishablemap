@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 19:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Evaluative Qualia and Phenomenal Normativity Across Traditions
+- **Output**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
+- **Word count**: 1638
+- **Based on research**: yes, [[research/evaluative-qualia-phenomenal-normativity-2026-03-27]]
+
 ## 2026-03-29 18:51 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/phenomenal-authority-epistemic-weight-first-person-reports.md, topics/consciousness-collapse-prediction-landscape.md, concepts/contextual-selection-in-quantum-foundations.md
