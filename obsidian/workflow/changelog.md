@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 05:16 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/panpsychism.md, concepts/integrated-information-theory.md, concepts/idealism.md
+- **Output**: [[reviews/pessimistic-2026-03-29]]
+- **Key findings**: 6 issues (3 high, 3 medium). Systematic asymmetric evidential standards across all three rival-framework articles—Map's interaction problem treated as solved while rivals' problems treated as open. IIT article contains philosophical error conflating identity theory with epiphenomenalism. "Quantum mechanics" used as thought-terminating cliché across all three.
+
 ## 2026-03-29 05:09 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/attention-and-the-consciousness-interface]], [[concepts/epiphenomenalism]], [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
