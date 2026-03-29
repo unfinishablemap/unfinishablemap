@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review higher-order-theories.md for quality and currency
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-26 — 30 days ago. Concept page on higher-order theories of consciousness (Rosenthal's HOT, Lycan's HOP, Brown's HOT*). These theories are among the most developed physicalist competitors and the page needs to be current. Verify accuracy of theory representations, coherence of the dualist critique, cross-references to access-consciousness and phenomenal-consciousness, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-28
-
 ### P3: Deep review clinical-neuroplasticity-evidence-for-bidirectional-causation.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1644,6 +1637,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review higher-order-theories.md for quality and currency
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-26 — 30 days ago. Concept page on higher-order theories of consciousness (Rosenthal's HOT, Lycan's HOP, Brown's HOT*). These theories are among the most developed physicalist competitors and the page needs to be current. Verify accuracy of theory representations, coherence of the dualist critique, cross-references to access-consciousness and phenomenal-consciousness, and tenet alignment.
+- **Output**: obsidian/concepts/higher-order-theories.md
 
 ### ✓ 2026-03-29: Deep review locality.md for quality and currency
 - **Type**: deep-review
