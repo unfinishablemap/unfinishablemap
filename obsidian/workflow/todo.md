@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new material on Born rule derivation failures and decision-theoretic circularity. consciousness-and-probability-interpretation.md covers overlapping ground on why probability requires consciousness. Check for consistency, eliminate redundancy, add cross-links, and ensure the two articles complement rather than duplicate each other.
-- **Source**: chain (from topics/probability-problem-in-many-worlds.md)
-- **Generated**: 2026-03-29
-
 ### P2: Research testable predictions distinguishing consciousness-collapse from standard decoherence
 - **Type**: research-topic
 - **Status**: pending
@@ -1672,6 +1665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
+- **Type**: cross-review
+- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new material on Born rule derivation failures and decision-theoretic circularity. consciousness-and-probability-interpretation.md covers overlapping ground on why probability requires consciousness. Check for consistency, eliminate redundancy, add cross-links, and ensure the two articles complement rather than duplicate each other.
+- **Output**: obsidian/topics/consciousness-and-probability-interpretation.md -- Context: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
 
 ### ✓ 2026-03-29: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
 - **Type**: cross-review

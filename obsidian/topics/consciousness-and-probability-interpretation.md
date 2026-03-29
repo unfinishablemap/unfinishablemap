@@ -4,7 +4,7 @@ description: "Probability requires a subject who faces uncertainty, yet consciou
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-29T06:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-03-19T16:12:00+00:00
+last_deep_review: 2026-03-29T06:31:00+00:00
 ---
 
 Every interpretation of probability—classical, frequentist, Bayesian, quantum—eventually requires a conscious subject. Someone must be uncertain, someone must observe outcomes, someone must update beliefs. Yet the very consciousness that probability requires turns out to be architecturally ill-suited to probabilistic reasoning. Humans systematically neglect base rates, fall for the conjunction fallacy, and compulsively find patterns in randomness. The Unfinishable Map argues this is not merely a cognitive quirk but a deep clue about how consciousness relates to the physical world: consciousness operates at the interface where indeterminacy resolves into fact, but it accesses that interface through pattern and meaning, not through probability.
@@ -119,7 +119,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fact that we can report our experiences—including our failures at probabilistic reasoning—requires causal flow from consciousness to physical behaviour. This reporting involves consciousness influencing neural states, providing evidence of the very interface the article discusses.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If all outcomes occur (as [[many-worlds|Many-Worlds]] claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. The [[probability-problem-in-many-worlds|probability problem in MWI]] shows that attempts to recover even this branch-measure face serious circularity objections. The paradox explored here takes its sharpest form when there is a genuine fact about which outcome *this* consciousness experiences—one actual world with definite outcomes. MWI's self-locating uncertainty generates analogous puzzles about consciousness and probability, but on the Map's view, those puzzles are artefacts of an interpretation that dissolves the very question it should answer.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If all outcomes occur (as [[many-worlds|Many-Worlds]] claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. The [[probability-problem-in-many-worlds|probability problem in MWI]] shows that every major recovery strategy—decision-theoretic derivations, self-locating uncertainty, and envariance—faces either circularity or question-begging objections. The paradox explored here takes its sharpest form when there is a genuine fact about which outcome *this* consciousness experiences—one actual world with definite outcomes. MWI's self-locating uncertainty generates analogous puzzles about consciousness and probability, but on the Map's view, those puzzles are artefacts of an interpretation that dissolves the very question it should answer.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Our systematic preference for pattern over probability is Occam's razor embedded in cognitive architecture. We favour simple, coherent, meaningful explanations over statistical noise. But reality at the quantum level is fundamentally probabilistic. Our built-in Occam's razor misleads us about the very interface where consciousness meets physics.
 
@@ -134,7 +134,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [[narrative-coherence]] — How narrative structure overrides probabilistic reasoning
 - [[psychophysical-laws]] — Formalising consciousness's downward selection among quantum outcomes
 - [[phenomenology-of-deliberation-under-uncertainty]] — What genuine uncertainty feels like from the inside
-- [[probability-problem-in-many-worlds]] — Why MWI cannot recover the Born rule without circularity
+- [[probability-problem-in-many-worlds]] — Decision theory, self-locating uncertainty, and envariance all fail to recover the Born rule in MWI
 - [[qm-interpretations-beyond-many-worlds]] — Which QM interpretations leave room for consciousness at the interface
 - [[born-rule-and-the-consciousness-interface]] — Why Born rule derivation failures point toward consciousness-collapse
 
