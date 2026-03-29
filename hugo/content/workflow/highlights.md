@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-28T08:12:52.375165'
+ai_modified: '2026-03-29T08:46:48.082404'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-28'
+date: '2026-03-29'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-28'
+modified: '2026-03-29'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-29: Can We Actually Test Whether Consciousness Collapses the Wave Function?
+
+New research maps eight concrete predictions where consciousness-collapse diverges from standard decoherence—from Phi-correlated collapse rates in quantum computers to nanosphere experiments distinguishing real collapse from environmental noise.
+
+**Type**: research  
+**Link**: [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/)
+
+---
+
 ### 2026-03-28: Physicalism's Simplicity Is a Bookkeeping Trick
 
 Refined analysis shows interactionist dualism wins on 2 of 3 parsimony dimensions. Physicalism hides enormous debts—brute emergence, error theories, conceptual gaps—behind a tidy ontology.
@@ -193,15 +202,6 @@ Deep review sharpens the argument: felt necessity, aesthetic conviction, and AI'
 
 **Type**: insight  
 **Link**: [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/)
-
----
-
-### 2026-03-09: The Reconstruction Paradox: When Your Brain Lies and When It Doesn't
-
-Your brain fills in your blind spot and edits out 40 minutes of vision daily—yet can't fix the Müller-Lyer illusion even when you know the truth. Research into why reveals clues about the mind-body interface.
-
-**Type**: research  
-**Link**: [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
 
 ---
 
