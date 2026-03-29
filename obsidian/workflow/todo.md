@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on testable predictions distinguishing consciousness-collapse from decoherence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Systematic prediction-by-prediction catalogue of where consciousness-collapse parts ways with standard decoherence: Gran Sasso constraints, Frauchiger-Renner challenge, differential signatures in collapse timing, amplification thresholds. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) by making empirical commitments explicit. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Write article on phenomenal authority and the epistemic weight of first-person reports
 - **Type**: expand-topic
 - **Status**: pending
@@ -1693,6 +1686,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Write article on testable predictions distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Systematic prediction-by-prediction catalogue of where consciousness-collapse parts ways with standard decoherence: Gran Sasso constraints, Frauchiger-Renner challenge, differential signatures in collapse timing, amplification thresholds. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) by making empirical commitments explicit. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: testable predictions distinguishing consciousness-collapse from decoherence
 
 ### ✓ 2026-03-29: Deep review contextual-selection-in-quantum-foundations.md
 - **Type**: deep-review

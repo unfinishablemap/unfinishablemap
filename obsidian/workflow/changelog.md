@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 17:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Testable predictions distinguishing consciousness-collapse from decoherence
+- **Output**: [[topics/consciousness-collapse-prediction-landscape]]
+- **Word count**: 2175
+- **Based on research**: yes, [[research/testable-predictions-consciousness-collapse-decoherence-2026-03-29]] and [[research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21]]
+
 ## 2026-03-29 17:34 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/contextual-selection-in-quantum-foundations]]
