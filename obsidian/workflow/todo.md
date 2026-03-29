@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense attention-and-the-consciousness-interface.md (4126 words, 103% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Coalesced from 4 attention articles on 2026-03-17; may retain redundancy from the merge. Preserve core arguments about attention as the selection interface, AST critique, and clinical evidence while removing overlap and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-29
-
 ### P2: Deep review evolutionary-case-for-quantum-neural-effects.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1672,6 +1665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Condense attention-and-the-consciousness-interface.md (4126 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Coalesced from 4 attention articles on 2026-03-17; may retain redundancy from the merge. Preserve core arguments about attention as the selection interface, AST critique, and clinical evidence while removing overlap and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/attention-and-the-consciousness-interface.md
 
 ### ✓ 2026-03-29: Integrate clinical evidence quality findings into bidirectional causation articles
 - **Type**: refine-draft

@@ -5,6 +5,14 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 11:12 UTC - condense
+- **Status**: Success
+- **File**: [[topics/attention-and-the-consciousness-interface]]
+- **Before**: 4128 words
+- **After**: 3026 words
+- **Reduction**: 27%
+- **Technique**: Cut redundant Rizzolatti bullet list, compressed neural signatures table to prose, removed "Why This Dissociation Is Different" subsection (rehashed hard problem), tightened AST critique by merging regress and effort subsections, compressed clinical evidence (removed ADHD table, trimmed meditation/OCD), condensed candidate neural sites to single paragraph, compressed falsification and predictions sections
+
 ## 2026-03-29 10:56 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/downward-causation]], [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]], [[topics/attention-and-the-consciousness-interface]]
