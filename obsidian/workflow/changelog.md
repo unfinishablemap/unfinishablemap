@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 18:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal authority and the epistemic weight of first-person reports
+- **Output**: [[topics/phenomenal-authority-epistemic-weight-first-person-reports]]
+- **Word count**: 2174
+- **Based on research**: yes, [[research/phenomenal-authority-epistemic-weight-2026-03-28]]
+
 ## 2026-03-29 18:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-collapse-prediction-landscape]]

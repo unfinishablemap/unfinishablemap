@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenal authority and the epistemic weight of first-person reports
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Distinguishes three layers of phenomenal authority (occurrence, character, nature) and synthesises the epistemic weight question across analytic epistemology, clinical phenomenology, and contemplative traditions. Complements existing epistemology-of-first-person-evidence but provides dedicated treatment the existing article doesn't develop. Supports Tenet 1 (Dualism) by grounding the evidential status of consciousness reports. Target section: topics/ (227/230, 3 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Write article on evaluative qualia and phenomenal normativity across traditions
 - **Type**: expand-topic
 - **Status**: pending
@@ -1686,6 +1679,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Write article on phenomenal authority and the epistemic weight of first-person reports
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Distinguishes three layers of phenomenal authority (occurrence, character, nature) and synthesises the epistemic weight question across analytic epistemology, clinical phenomenology, and contemplative traditions. Complements existing epistemology-of-first-person-evidence but provides dedicated treatment the existing article doesn't develop. Supports Tenet 1 (Dualism) by grounding the evidential status of consciousness reports. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: phenomenal authority and the epistemic weight of first-person reports
 
 ### ✓ 2026-03-29: Write article on testable predictions distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
