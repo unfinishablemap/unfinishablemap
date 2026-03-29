@@ -4,8 +4,8 @@ description: "The phenomenal experience of seeing—what it's like to perceive c
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-09T10:46:00+00:00
-last_deep_review: 2026-03-06T20:39:00+00:00
+ai_modified: 2026-03-29T22:24:00+00:00
+last_deep_review: 2026-03-29T22:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ The [[inverted-qualia|inverted spectrum]] thought experiment targets visual cons
 
 ### Temporal Dynamics
 
-Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. The [[temporal-consciousness]]—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
+Visual consciousness unfolds in time with characteristic dynamics. Motion perception involves not just detecting position change but experiencing movement as continuous flow. [[temporal-consciousness|Temporal consciousness]]—the felt duration of "now"—has visual manifestation: we experience a moving ball as crossing space, not as a sequence of static snapshots.
 
 Change blindness reveals how attention shapes visual consciousness. Massive visual changes go unnoticed when they coincide with saccades or scene disruptions. Visual consciousness does not passively register visual information—[[attention-as-interface|attention]] selects what enters awareness.
 
@@ -87,9 +87,9 @@ Key visual NCC findings:
 - **V1 is necessary for normal visual consciousness**: Damage produces [[blindsight]]—preserved processing without phenomenal seeing
 - **V4 is necessary for colour consciousness**: Lesions cause achromatopsia—complete loss of colour experience while brightness perception remains
 - **Motion area MT/V5 correlates with motion consciousness**: Damage impairs motion perception specifically
-- **Lateral occipital cortex correlates with object consciousness**: The "what" stream's endpoint
+- **Lateral occipital cortex correlates with object consciousness**: A key node in the ventral ("what") stream
 
-These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations. The [[capability-division-problem|capability division framework]] suggests that NCC research maps the brain-side boundary: it identifies where neural processing reaches the interface with mind-side contributions like phenomenal rendering and experiential ownership. [[capability-division-in-vision|Capability division in vision]] examines the specific evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — that constrains where this boundary falls.
+These correlations map visual consciousness onto neural architecture but don't explain why this activity feels like seeing. The posterior hot zone might be where consciousness *interfaces* with visual processing rather than where it's generated—compatible with both materialist and interactionist interpretations. On the interactionist reading, the [[capability-division-problem|capability division framework]] suggests that NCC research maps the brain-side boundary: it identifies where neural processing reaches the interface with mind-side contributions like phenomenal rendering and experiential ownership. [[capability-division-in-vision|Capability division in vision]] examines the specific evidence — blindsight limitations, the two-streams dissociation, the perceptual organisation threshold — that constrains where this boundary falls.
 
 ## The Problem Visual Consciousness Poses
 
