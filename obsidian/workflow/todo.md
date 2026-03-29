@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/stochastic-amplification-and-neural-selection.md created 2026-03-29. The neural selection patterns article should reference stochastic amplification as a mechanism by which consciousness influence propagates from quantum to neural scales. Check for cross-links, reinforcing arguments, and terminology consistency.
-- **Source**: chain (from stochastic-amplification-and-neural-selection.md)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1693,6 +1686,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
+- **Type**: cross-review
+- **Notes**: New article topics/stochastic-amplification-and-neural-selection.md created 2026-03-29. The neural selection patterns article should reference stochastic amplification as a mechanism by which consciousness influence propagates from quantum to neural scales. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md -- Context: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
 
 ### ✓ 2026-03-29: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
 - **Type**: cross-review
