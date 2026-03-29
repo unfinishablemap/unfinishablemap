@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 12:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Darwinism and consciousness
+- **Output**: [[topics/quantum-darwinism-and-consciousness]]
+- **Word count**: 1730
+- **Based on research**: yes, [[research/post-decoherence-selection-mechanisms-2026-03-29]]
+
 ## 2026-03-29 11:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/post-decoherence-selection]]

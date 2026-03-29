@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Expand topic — quantum Darwinism and consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Target**: topics/quantum-darwinism-and-consciousness.md
-- **Notes**: Explore Zurek's quantum Darwinism (einselection, pointer states, redundant environmental encoding) as a framework for understanding post-decoherence selection. How does the proliferation of classical information into the environment constrain or enable a non-physical selection mechanism? Does einselection determine the menu of options consciousness selects from? Integrate with existing decoherence and timing-gap-problem content. Tenet alignment: Tenets 2 and 3.
-- **Generated**: 2026-03-29
-
 ### P1: Expand concept — weak measurement and post-selection
 - **Type**: expand-topic
 - **Status**: pending
@@ -1706,6 +1699,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Expand topic — quantum Darwinism and consciousness
+- **Type**: expand-topic
+- **Notes**: Explore Zurek's quantum Darwinism (einselection, pointer states, redundant environmental encoding) as a framework for understanding post-decoherence selection. How does the proliferation of classical information into the environment constrain or enable a non-physical selection mechanism? Does einselection determine the menu of options consciousness selects from? Integrate with existing decoherence and timing-gap-problem content. Tenet alignment: Tenets 2 and 3.
+- **Output**: topic — quantum Darwinism and consciousness
 
 ### ✓ 2026-03-29: Expand concept — post-decoherence selection
 - **Type**: expand-topic
