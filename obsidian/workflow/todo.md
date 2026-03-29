@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review testing-consciousness-collapse.md considering prediction landscape insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article consciousness-collapse-prediction-landscape.md systematizes testable predictions distinguishing consciousness-collapse from decoherence-only models. testing-consciousness-collapse.md covers the same empirical territory from a different angle. Check for consistency, add cross-links, and ensure the two articles complement rather than duplicate each other.
+- **Source**: chain (from consciousness-collapse-prediction-landscape.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article consciousness-collapse-prediction-landscape.md maps the empirical landscape of consciousness-collapse predictions. quantum-measurement-and-consciousness.md is a foundational article on the measurement problem that should link to this concrete empirical programme. Check for cross-links and consistency on measurement-problem claims.
+- **Source**: chain (from consciousness-collapse-prediction-landscape.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article phenomenal-authority-epistemic-weight-first-person-reports.md covers the epistemic weight of first-person reports. epistemology-of-first-person-evidence.md is the most closely related existing article, covering calibration strategies and phenomenal acquaintance. Ensure bidirectional links, consistent terminology, and non-contradictory claims about introspective reliability.
+- **Source**: chain (from phenomenal-authority-epistemic-weight-first-person-reports.md)
+- **Generated**: 2026-03-29
+
+### P2: Write voids article on the boundary void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-boundary-void-2026-03-29.md. The boundary void addresses the cognitive impossibility of precisely demarcating where consciousness ends and unconscious processing begins. Voids section has 1 slot remaining (99/100). Synthesize research into a voids article following existing voids article conventions. Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md provides detailed treatment of Frankish's functional-seeming response — the strongest illusionist counter to the Map's regress arguments. The illusionism concept page (concepts/illusionism.md) currently lacks adequate engagement with this response. Integrate the research findings to strengthen the article's treatment of illusionism's best arguments.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with proper citations and methodological caveats. bandwidth-of-consciousness.md (or related bandwidth articles) should incorporate these findings to strengthen evidential claims and acknowledge measurement limitations.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
 ### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
 - **Type**: deep-review
 - **Status**: pending
