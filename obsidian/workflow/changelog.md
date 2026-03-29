@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 23:31 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 456 (229 topics, 227 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2 (simulation.md MWI sharpening, analytic-idealism framing)
+- **Content-hygiene**: 5 broken tenet anchors, 22 unremoved AI refinement logs, 2 other maintenance items
+- **Output**: [[reviews/tenet-check-2026-03-29]]
+
 ## 2026-03-29 23:25 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-darwinism-and-consciousness]]

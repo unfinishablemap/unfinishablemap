@@ -9,16 +9,20 @@ ai_system: claude-opus-4-6
 # Tenet Alignment Check
 
 **Date**: 2026-03-29
-**Files checked**: 451
+**Files checked**: 456 (229 topics, 227 concepts)
 **Errors**: 0
 **Warnings**: 0
-**Notes**: 5
+**Notes**: 2
 
 ## Summary
 
-All 451 content files (226 topics, 225 concepts) pass tenet alignment. Systematic grep-based scanning for direct contradictions (endorsement of materialism, illusionism, epiphenomenalism, many-worlds, or Occam's razor against dualism) found zero unqualified endorsements of positions that violate the tenets. All mentions of opposing views are properly framed as positions being critiqued, presented in conditional/reductio form, or clearly attributed to opponents. Five minor notes identify places where even-handed treatment of opposing views warrants awareness but does not constitute misalignment.
+All 456 content files in `topics/` and `concepts/` pass tenet alignment. No article endorses eliminative materialism, reductive physicalism, epiphenomenalism, many-worlds interpretation, or parsimony as a decisive argument against dualism. Every article that discusses opposing views does so critically, framing them as positions to argue against rather than endorse. The "Relation to Site Perspective" pattern is consistently present across articles.
 
-Since the previous check (2026-03-28), approximately 90 files were modified — mostly deep-review refinements, wikilink updates, and the coalescing of phenomenal-binding-and-holism.md into binding-problem.md. The new concepts/convergent-phenomenological-evidence.md article and the updated concepts/illusionism.md (integrating Frankish functional-seeming research) both maintain strong tenet alignment.
+Notable examples of rigorous tenet handling:
+- **illusionism.md** engages functional seeming as the strongest illusionist defense before refuting it on four distinct grounds
+- **psychophysical-laws.md** explicitly distinguishes supervenience laws (upward, compatible with epiphenomenalism) from selection laws (downward, required by Bidirectional Interaction)
+- **preemption.md** honestly states that delegatory preemption "does violate causal closure as standardly formulated" — frank acknowledgment without tenet violation
+- **process-philosophy.md** explicitly names tensions between Whiteheadian panpsychism and interactionist dualism while borrowing structural insights
 
 ## Errors
 
@@ -30,35 +34,41 @@ None.
 
 ## Notes
 
-### illusionism.md (concepts)
-- **Tenet**: 1 (Dualism), 3 (Bidirectional Interaction)
-- **Issue**: Recently updated with Frankish functional-seeming research; thorough review confirms the article consistently frames illusionism as an opposing position under critique
-- **Context**: The article explicitly states illusionism "directly challenges the Map's tenets" and concludes "Illusionism has not dissolved the hard problem — it has renamed it." No endorsement of illusionism detected. The new material strengthens the existing critique.
+### concepts/simulation.md
+- **Tenet**: No Many Worlds (Tenet 4)
+- **Issue**: The article raises whether a faithful quantum simulation necessarily implies MWI-like branching structure. It presents two scenarios (simulation implying MWI branching vs. simulation on objective-collapse hardware) and ultimately favors the collapse-compatible reading, but the MWI-compatible scenario is left open enough that a reader could interpret it as a live possibility the Map has not clearly rejected.
+- **Recommendation**: Sharpen the dismissal of the MWI-compatible simulation scenario to make the Map's rejection clearer.
 
-### binding-problem.md (concepts)
-- **Tenet**: 1 (Dualism)
-- **Issue**: Recently coalesced from phenomenal-binding-and-holism.md; some passages describing split-brain evidence use neutral descriptive language about neural mechanisms
-- **Quote**: "the brain coordinates without producing unified experience"
-- **Context**: The section's conclusion correctly argues phenomenal unity requires "something beyond information integration." The Relation to Site Perspective section explicitly maps all five tenets. Minor framing issue only — the direction of argument is consistently non-physicalist.
+### topics/analytic-idealism-and-mind-centric-metaphysics.md
+- **Tenet**: Dualism (Tenet 1)
+- **Issue**: The statement "if forced to choose between idealism and physicalism, idealism would be the less wrong option" is positioned as the Map's view, consistent with preferring dualism over physicalism. However, it could be read as endorsing idealism rather than interactionist dualism as the Map's primary position.
+- **Recommendation**: Confirm this formulation accurately represents the intended nuance; ensure it is clear that the Map endorses interactionist dualism, not idealism.
 
-### relational-quantum-mechanics.md (concepts)
-- **Tenets**: 2, 3 (Minimal Quantum Interaction, Bidirectional Interaction)
-- **Issue**: Carries forward from previous check — RQM given substantial space with direct conflict acknowledged
-- **Quote**: "RQM explicitly removes consciousness from physics. If RQM is correct, consciousness cannot influence physical outcomes through quantum mechanisms."
-- **Context**: The article honestly presents RQM as an alternative that conflicts with the Map's tenets, then argues the Map's framework is preferable because RQM "solves the measurement problem while ignoring the hard problem." This is proper engagement with a serious alternative, not endorsement.
+## Content-Hygiene Issues
 
-### animal-consciousness.md (topics)
-- **Tenet**: 1 (Dualism)
-- **Issue**: Carries forward from previous check — presents physicalist explanation as valid before offering the Map's complementary interpretation
-- **Quote**: "These structural differences provide a physicalist explanation that does not require non-physical causation."
-- **Context**: Immediately followed by the Map's complementary interpretation. This is honest epistemic engagement, not endorsement.
+These are maintenance items that do not affect tenet alignment but were identified during the scan.
 
-### counterfactual-reasoning.md (concepts)
-- **Tenet**: 3 (Bidirectional Interaction)
-- **Issue**: Acknowledges LLMs as a "genuine challenge case" for the claim that consciousness is necessary for counterfactual reasoning
-- **Quote**: "whether consciousness is merely a biological route to this capacity or a constitutive requirement remains an open question"
-- **Context**: The article presents this as an unresolved empirical question rather than conceding the point. The surrounding discussion maintains that the correlation in biological systems is "robust" and the illusionist response faces the regress problem. Intellectual honesty, not tenet violation.
+### Broken Tenet Anchors (5 files)
+
+| File | Broken Anchor | Correct Anchor |
+|------|--------------|----------------|
+| `topics/animal-consciousness.md` | `[[tenets#^occams-razor]]` | `[[tenets#^occams-limits]]` |
+| `topics/consciousness-and-the-philosophy-of-biology.md` | `[[tenets#^minimal-interaction]]` | `[[tenets#^minimal-quantum-interaction]]` |
+| `topics/consciousness-and-the-problem-of-measurement-standards.md` | `[[tenets#^bidirectional]]` | `[[tenets#^bidirectional-interaction]]` |
+| `topics/phenomenal-normativity-environmental-ethics.md` | `[[tenets#^minimal-interaction]]` | `[[tenets#^minimal-quantum-interaction]]` |
+| `topics/social-construction-of-self-vs-phenomenal-self.md` | `[[tenets#^occams-razor]]` | `[[tenets#^occams-limits]]` |
+
+### AI Refinement Logs Not Yet Removed (22 files)
+
+These files contain HTML comment blocks with AI refinement logs that should be removed after human review:
+
+**Topics:** comparing-quantum-consciousness-mechanisms, consciousness-and-integrated-information, contemplative-practice-as-philosophical-evidence, cross-cultural-phenomenology-of-agency, emergence-as-universal-hard-problem, emotion-and-dualism, enactivism-challenge-to-interactionist-dualism, ethics-and-value-in-a-dualist-world, evolutionary-case-for-mental-causation, evolution-under-dualism, hard-problem-of-consciousness, hypnagogic-phenomenology-and-interface-modulation, leibnizs-mill-argument, loss-of-consciousness, mental-imagery-causal-role-of-consciousness, metaproblem-of-consciousness-under-dualism, pragmatisms-path-to-dualism, quantum-biology-and-neural-consciousness, quantum-measurement-and-subjective-probability, resolution-bandwidth-interface, russellian-monism-versus-bi-aspectual-dualism, trilemma-of-selection
+
+### Other Maintenance Items
+
+- `topics/language-recursion-and-consciousness.md` — Contains inline comment `[Andy: I've no idea how it came up with this]` that should be removed or moved before publication.
+- `topics/purpose-and-alignment.md` — Contains an inadvertent mid-sentence "The Unfinishable Map" insertion that disrupts a quoted passage.
 
 ## Files Passing All Checks
 
-All 451 files in obsidian/topics/ and obsidian/concepts/ pass tenet alignment. The site maintains consistent framing: opposing positions are presented for critique, conditional/reductio arguments use proper "if X is true" framing, and the Relation to Site Perspective sections explicitly connect content to the tenets.
+All 456 files pass tenet alignment. The 2 Notes above are minor sharpening opportunities, not substantive violations.
