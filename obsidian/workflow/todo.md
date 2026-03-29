@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T03:06:00+00:00
+ai_modified: 2026-03-29T05:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Apply clinical evidence quality research findings across affected articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. Apply findings to qualify or correct clinical claims: (1) attention-and-the-consciousness-interface.md — Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning; (2) epiphenomenalism.md — meditation efficacy claim "substantially more effective than placebo" lacks citation and overstates evidence; (3) clinical-neuroplasticity-evidence-for-bidirectional-causation.md — CBT-induced brain changes and cortical thickening claims need materialist counter-explanations acknowledged; (4) downward-causation.md — clinical examples need qualification. Use research findings to improve accuracy while preserving the dualist argument where evidence genuinely supports it.
+- **Source**: chain (from research/clinical-evidence-quality-2026-03-29.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems). Previous cross-review only covered no-many-worlds.md and born-rule-and-the-consciousness-interface.md. indexical-identity-quantum-measurement.md is directly linked via concepts and covers the personal identity angle that probability arguments depend on. Check for cross-links, reinforcing arguments about why indexical identity makes MWI probability incoherent.
+- **Source**: chain (from topics/probability-problem-in-many-worlds.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new material on Born rule derivation failures and decision-theoretic circularity. consciousness-and-probability-interpretation.md covers overlapping ground on why probability requires consciousness. Check for consistency, eliminate redundancy, add cross-links, and ensure the two articles complement rather than duplicate each other.
+- **Source**: chain (from topics/probability-problem-in-many-worlds.md)
+- **Generated**: 2026-03-29
+
+### P2: Research testable predictions distinguishing consciousness-collapse from standard decoherence
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Multiple pessimistic reviews flag unfalsifiability as a recurring weakness across consciousness-physics articles (consciousness-selecting-neural-patterns, downward-causation, completeness-in-physics-under-dualism). Research: (1) Chalmers-McQueen Φ-dependent collapse — specific predictions vs standard QM; (2) Diósi-Penrose signatures distinguishable from environmental decoherence; (3) Proposed neuroscience experiments (e.g., collapse timing correlated with conscious report latency); (4) What would count as evidence against consciousness-collapse? Target: research note to ground falsifiability discussion across 3+ articles.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-29
+
+### P2: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Pessimistic review flagged that materialism.md gives the phenomenal concepts strategy (Loar, Papineau, Balog) dismissive four-sentence treatment despite being the most sophisticated materialist response to the knowledge argument and explanatory gap. Research: (1) Loar's phenomenal concepts as recognitional concepts; (2) Papineau's quotational model; (3) Balog's phenomenal concept strategy; (4) Chalmers' "The Two-Dimensional Argument Against Materialism" as response; (5) How the Map should engage with this rather than dismiss it. Intellectual honesty requires engaging strongest objections. Target: research note to improve materialism.md and knowledge-argument treatment.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-29
 
 ### P3: Deep review experimental-consciousness-science-2025-2026.md
 - **Type**: deep-review
