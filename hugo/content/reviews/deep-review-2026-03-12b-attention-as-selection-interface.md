@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review prompted by phenomenal-attention insights. However, the previous review (45 minutes earlier, same day) already performed this exact cross-review—integrating the `[phenomenal-attention](/concepts/phenomenal-attention/)` concept link into the article's frontmatter, inline text, and Further Reading. This review confirms stability.
+Cross-review prompted by phenomenal-attention insights. However, the previous review (45 minutes earlier, same day) already performed this exact cross-review—integrating the `[phenomenal-attention](/concepts/attention-as-interface/)` concept link into the article's frontmatter, inline text, and Further Reading. This review confirms stability.
 
 ## Pessimistic Analysis Summary
 
@@ -50,7 +50,7 @@ No new concerns beyond those identified in previous reviews (2026-03-04, 2026-03
 None. Article is stable—no changes applied.
 
 ### Cross-links Added
-None needed. Bidirectional links with [phenomenal-attention](/concepts/phenomenal-attention/) already in place from earlier review.
+None needed. Bidirectional links with [phenomenal-attention](/concepts/attention-as-interface/) already in place from earlier review.
 
 ## Remaining Items
 

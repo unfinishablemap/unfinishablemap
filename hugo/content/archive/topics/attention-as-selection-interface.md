@@ -125,7 +125,7 @@ A separate 2024 *Brain* study found dopamine promotes theta rhythms (4-10 Hz)—
 
 ## What Effort Tells Us
 
-Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [phenomenal-attention](/concepts/phenomenal-attention/)—the felt experience of attending, distinct from the computational resource allocation that brains and machines both perform. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
+Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [phenomenal-attention](/concepts/attention-as-interface/)—the felt experience of attending, distinct from the computational resource allocation that brains and machines both perform. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
 If consciousness contributes to selection, the correlation has a natural explanation: more difficult selections require greater conscious engagement to stabilise the desired pattern against competing alternatives. Moreover, sustained effort *depletes*—attention fatigue reduces capacity across domains, and recovery requires sleep, not just cessation. Computers don't fatigue from sustained processing; the biological character of depletion suggests dependence on an interface with physical costs. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, then the felt effort of choosing what to do and the felt effort of choosing what to attend to have the same source.
 
@@ -266,7 +266,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum approaches
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [mental-effort](/concepts/mental-effort/) — Phenomenology of attentional effort
-- [phenomenal-attention](/concepts/phenomenal-attention/) — The felt experience of attending, distinct from computational attention
+- [phenomenal-attention](/concepts/attention-as-interface/) — The felt experience of attending, distinct from computational attention
 - [structure-of-attention](/topics/structure-of-attention/) — Willed, instructed, and exogenous attention
 - [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of willed attention
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — Constraints on what consciousness can influence

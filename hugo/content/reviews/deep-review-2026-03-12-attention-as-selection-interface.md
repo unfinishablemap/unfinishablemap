@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review prompted by creation of the [phenomenal-attention](/concepts/phenomenal-attention/) concept page. Examined whether the selection interface article adequately connects to the phenomenal/computational attention distinction, which sharpens its effort and willed-attention arguments.
+Cross-review prompted by creation of the [phenomenal-attention](/concepts/attention-as-interface/) concept page. Examined whether the selection interface article adequately connects to the phenomenal/computational attention distinction, which sharpens its effort and willed-attention arguments.
 
 ## Pessimistic Analysis Summary
 
@@ -30,7 +30,7 @@ Cross-review prompted by creation of the [phenomenal-attention](/concepts/phenom
 None. Attribution accuracy check passed for all 19 cited sources. Source/Map separation consistently maintained. No misattributions, dropped qualifiers, or self-contradictions found.
 
 ### Medium Issues Found
-- **Missing cross-link to phenomenal-attention concept**: The article discusses phenomenal aspects of attention (effort, willed vs. automatic, felt selection) throughout but did not reference the newly created `phenomenal-attention` concept that formalizes exactly this distinction. **Resolution**: Added `[phenomenal-attention](/concepts/phenomenal-attention/)` to concepts frontmatter, integrated reference in "What Effort Tells Us" section, added to Further Reading.
+- **Missing cross-link to phenomenal-attention concept**: The article discusses phenomenal aspects of attention (effort, willed vs. automatic, felt selection) throughout but did not reference the newly created `phenomenal-attention` concept that formalizes exactly this distinction. **Resolution**: Added `[phenomenal-attention](/concepts/attention-as-interface/)` to concepts frontmatter, integrated reference in "What Effort Tells Us" section, added to Further Reading.
 - **"Other Proposals" subsection slightly verbose**: Two sentences where one suffices. **Resolution**: Condensed to single sentence for length neutrality.
 
 ### Counterarguments Considered
@@ -47,12 +47,12 @@ All six adversarial personas engaged. No new concerns beyond those identified in
 - Source/Map separation in final paragraph
 
 ### Enhancements Made
-- Integrated `[phenomenal-attention](/concepts/phenomenal-attention/)` reference in "What Effort Tells Us" section, naming the distinction the article was already implicitly using
+- Integrated `[phenomenal-attention](/concepts/attention-as-interface/)` reference in "What Effort Tells Us" section, naming the distinction the article was already implicitly using
 - Added phenomenal-attention to concepts frontmatter and Further Reading
 - Trimmed "Other Proposals" subsection and minor prose for length neutrality
 
 ### Cross-links Added
-- [phenomenal-attention](/concepts/phenomenal-attention/) (concepts frontmatter + Further Reading + inline reference)
+- [phenomenal-attention](/concepts/attention-as-interface/) (concepts frontmatter + Further Reading + inline reference)
 
 ## Remaining Items
 

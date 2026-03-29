@@ -24,7 +24,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[concepts/functionalism]]"
   - "[[adaptive-computational-depth]]"
-  - "[[phenomenal-attention]]"
+  - "[[attention-as-interface]]"
   - "[[attention-schema-theory]]"
   - "[[illusionism]]"
   - "[[phenomenal-consciousness]]"
@@ -209,7 +209,7 @@ Some contemplative traditions report [[witness-consciousness]]—awareness that 
 
 ## What Effort Tells Us
 
-Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [[phenomenal-attention]]—the felt experience of attending, distinct from computational resource allocation. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
+Sustaining voluntary attention feels effortful. Sustaining motor intention feels effortful in the same way. This is [[attention-as-interface|phenomenal attention]]—the felt experience of attending, distinct from computational resource allocation. If the phenomenology tracks nothing real—if effort is epiphenomenal—its systematic correlation with task difficulty is unexplained.
 
 If consciousness contributes to selection, the correlation has a natural explanation: harder selections require greater conscious engagement. William James observed that "volition is nothing but attention" and "the free will question relates solely to the amount of effort of attention." The convergence vindicates James: if attention and motor selection share a mechanism, the felt effort of choosing what to do and choosing what to attend to have the same source.
 
@@ -293,7 +293,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[motor-selection]] — Motor selection and premotor theory in depth
 - [[bandwidth-of-consciousness]] — The 100-million-fold inbound/outbound bandwidth asymmetry
 - [[structure-of-attention]] — Willed, instructed, and exogenous attention
-- [[phenomenal-attention]] — The felt experience of attending
+- [[attention-as-interface|Phenomenal attention]] — The felt experience of attending
 - [[dopamine-and-the-unified-interface]] — Dopamine's dual role in attention and motor planning
 - [[stapp-quantum-mind]] — Stapp's quantum Zeno mechanism
 - [[mental-effort]] — Phenomenology of attentional effort

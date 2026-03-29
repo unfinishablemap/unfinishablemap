@@ -33,6 +33,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
 last_deep_review: 2026-03-16T05:47:00+00:00
+archived: true
+archived_date: 2026-03-29T09:31:00+00:00
+superseded_by: "/concepts/attention-as-interface/"
+archive_reason: "Coalesced into Attention as Interface"
+original_path: "/concepts/phenomenal-attention/"
 ---
 
 Phenomenal attention is what it is like to attend. Not the computational process of allocating resources to a stimulus—that is computational attention, a mechanism shared by brains, neural networks, and transformer architectures alike. Phenomenal attention is the felt directedness, the experienced effort of focusing, the qualitative difference between attending to a sound and ignoring it—a specific instance of [[phenomenal-consciousness]] applied to the act of selection. The Unfinishable Map argues that conflating these two senses of "attention" generates persistent confusion in consciousness science, enabling false inferences from computational attention in AI to consciousness in AI, and obscuring how the mind-matter interface actually operates.

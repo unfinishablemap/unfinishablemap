@@ -86,7 +86,7 @@ The Map demonstrates remarkable epistemic humility throughout. The voids article
 ### High Priority
 
 #### Phenomenology of Emotional Consciousness
-- **Builds on**: [epistemic-emotions](/concepts/epistemic-emotions/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [phenomenal-attention](/concepts/phenomenal-attention/)
+- **Builds on**: [epistemic-emotions](/concepts/epistemic-emotions/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [phenomenal-attention](/concepts/attention-as-interface/)
 - **Would address**: Limited coverage of emotional experience as irreducibly conscious. Fear, joy, grief, and wonder have qualitative character that resists functional reduction. Valence itself may be a fundamental feature of consciousness rather than a derivative of arousal patterns.
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Tenet 1 (emotions have irreducible phenomenal character), Tenet 3 (emotional experience causally influences behaviour in ways that matter)
@@ -106,7 +106,7 @@ The Map demonstrates remarkable epistemic humility throughout. The voids article
 ### Medium Priority
 
 #### Aesthetic Experience and Consciousness
-- **Builds on**: [consciousness-value-connection](/concepts/consciousness-value-connection/), [phenomenal-attention](/concepts/phenomenal-attention/)
+- **Builds on**: [consciousness-value-connection](/concepts/consciousness-value-connection/), [phenomenal-attention](/concepts/attention-as-interface/)
 - **Would address**: Why does beauty exist as a phenomenal quality? Cross-cultural aesthetic convergence (mathematical proportion, natural landscape preferences) parallels the meditative convergence argument. Aesthetic experience may reveal something about consciousness's relationship to value that ethical analysis alone misses.
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Tenet 1 (aesthetic qualia are paradigmatic irreducible experiences), Tenet 5 (aesthetic judgement resists reduction to simple preference)

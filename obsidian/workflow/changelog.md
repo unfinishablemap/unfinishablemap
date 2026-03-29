@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 09:31 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/phenomenal-attention]], [[concepts/attention-as-interface]]
+- **Target**: [[concepts/attention-as-interface]]
+- **Archived**: [[archive/concepts/phenomenal-attention]]
+- **References updated**: 3 files (attention-and-the-consciousness-interface, the-binding-problem-a-systematic-treatment, phenomenology-of-collective-intentionality-and-we-consciousness)
+
 ## 2026-03-29 09:01 UTC - research-topic
 - **Status**: Success
 - **Topic**: Phenomenal concepts strategy as strongest materialist response to dualist arguments

@@ -48,7 +48,7 @@ None. Attributions to Schmid (plural pre-reflective self-awareness), Zahavi (fir
 ### Enhancements Made
 - Added cross-link to [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) in opening paragraph, connecting the musician example to the Map's broader treatment of musical consciousness
 - Added cross-link to [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) in the expanded agency section, showing how practised coordination reshapes felt agency boundaries
-- Added cross-link to [phenomenal-attention](/concepts/phenomenal-attention/) in the shared attentional structure section, grounding joint attention in the phenomenal/computational distinction
+- Added cross-link to [phenomenal-attention](/concepts/attention-as-interface/) in the shared attentional structure section, grounding joint attention in the phenomenal/computational distinction
 - Added cross-link to [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) in the normative texture section, connecting felt obligation to the Map's treatment of phenomenal normativity
 - Added cross-link to [animal-consciousness](/topics/animal-consciousness/) in the ape comparison, providing further context for the comparative claim
 - Added qualifying sentence about the speculative nature of the quantum interface inference from ape comparisons
@@ -57,7 +57,7 @@ None. Attributions to Schmid (plural pre-reflective self-awareness), Zahavi (fir
 ### Cross-links Added
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
-- [phenomenal-attention](/concepts/phenomenal-attention/)
+- [phenomenal-attention](/concepts/attention-as-interface/)
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)
 - [animal-consciousness](/topics/animal-consciousness/)
 

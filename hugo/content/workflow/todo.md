@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 05:00:00+00:00
+ai_modified: 2026-03-29 09:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,53 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
-- **Type**: research-topic
+### P2: Write article on phenomenal concepts strategy as materialist response
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Pessimistic review flagged that materialism.md gives the phenomenal concepts strategy (Loar, Papineau, Balog) dismissive four-sentence treatment despite being the most sophisticated materialist response to the knowledge argument and explanatory gap. Research: (1) Loar's phenomenal concepts as recognitional concepts; (2) Papineau's quotational model; (3) Balog's phenomenal concept strategy; (4) Chalmers' "The Two-Dimensional Argument Against Materialism" as response; (5) How the Map should engage with this rather than dismiss it. Intellectual honesty requires engaging strongest objections. Target: research note to improve materialism.md and knowledge-argument treatment.
-- **Source**: gap_analysis
+- **Notes**: Research completed in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md. The phenomenal concepts strategy (Loar, Papineau, Balog) is the most sophisticated materialist response to the knowledge argument and explanatory gap — the Map's intellectual credibility requires engaging it at depth rather than dismissively. Standalone treatment covering the strategy, its strongest formulations, and why it ultimately fails under dualist analysis. Target section: topics/ (226/230, 4 slots remaining). Complements existing P3 refine-draft for materialism.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Integrate evaluative qualia research into evaluative-qualia.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md contains cross-cultural data not yet in the concept page: Buddhist vedana theory, Confucian moral phenomenology (li-qi framework), Indian rasa aesthetics (Abhinavagupta), Dimitrov (2025) on direct acquaintance with intrinsic value. Strengthens the case that evaluative properties of consciousness are irreducible. Target file: obsidian/concepts/evaluative-qualia.md.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Integrate pragmatist philosophy research into existing articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies specific enhancement opportunities across multiple articles. Priority integrations: (1) Peirce's tychism as historical precedent for quantum indeterminism tenet in relevant physics articles, (2) James's panpsychist sympathies as context for prebiotic collapse discussion, (3) Putnam's trajectory away from functionalism as evidence in functionalism article, (4) pragmatist-to-enactivist pipeline for embodied cognition articles. Target files: pragmatisms-path-to-dualism.md and related articles.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Integrate clinical evidence quality findings into bidirectional causation articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically evaluates the methodological rigor of key empirical claims used across the site: Schwartz OCD study design limitations, meditation meta-analysis effect sizes, neuroplasticity claim specificity. Multiple articles (clinical-neuroplasticity-evidence-for-bidirectional-causation, downward-causation, attention-and-the-consciousness-interface) cite these as strong evidence but need qualification per the research findings. Strengthens site credibility by pre-empting obvious methodological objections.
+- **Source**: chain
+- **Generated**: 2026-03-29
+
+### P2: Condense attention-and-the-consciousness-interface.md (4126 words, 103% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Coalesced from 4 attention articles on 2026-03-17; may retain redundancy from the merge. Preserve core arguments about attention as the selection interface, AST critique, and clinical evidence while removing overlap and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-29
+
+### P2: Deep review evolutionary-case-for-quantum-neural-effects.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic, never deep-reviewed. Only 3 inbound links (low integration). Topics article arguing that if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same logic applies to neural systems. Verify accuracy of quantum biology claims (avian magnetoreception, enzyme tunneling), coherence of the evolutionary argument, cross-references to comparing-quantum-consciousness-mechanisms and quantum-biology-and-neural-consciousness, and tenet alignment (Tenets 2 and 3).
+- **Source**: staleness
+- **Generated**: 2026-03-29
+
+### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-18 via expand-topic, only 1 inbound link (near-orphan). Recently refined (2026-03-29) but never deep-reviewed. Topics article extending the dual-domain pattern from memory to proprioception and spatial imagination. Verify coherence, accuracy of proprioceptive and spatial cognition claims, cross-references to capability-division-problem and embodied-consciousness-and-the-interface, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-03-29
 
 ### P3: Deep review experimental-consciousness-science-2025-2026.md
@@ -1659,6 +1701,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
+- **Type**: research-topic
+- **Notes**: Pessimistic review flagged that materialism.md gives the phenomenal concepts strategy (Loar, Papineau, Balog) dismissive four-sentence treatment despite being the most sophisticated materialist response to the knowledge argument and explanatory gap. Research: (1) Loar's phenomenal concepts as recognitional concepts; (2) Papineau's quotational model; (3) Balog's phenomenal concept strategy; (4) Chalmers' "The Two-Dimensional Argument Against Materialism" as response; (5) How the Map should engage with this rather than dismiss it. Intellectual honesty requires engaging strongest objections. Target: research note to improve materialism.md and knowledge-argument treatment.
+- **Output**: phenomenal concepts strategy as strongest materialist response to dualist arguments
 
 ### ✓ 2026-03-29: Research testable predictions distinguishing consciousness-collapse from standard decoherence
 - **Type**: research-topic

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [Phenomenal Attention](/concepts/phenomenal-attention/)
+**Article**: [Phenomenal Attention](/concepts/attention-as-interface/)
 **Previous review**: [2026-03-12](/reviews/deep-review-2026-03-12-phenomenal-attention/)
 
 ## Pessimistic Analysis Summary

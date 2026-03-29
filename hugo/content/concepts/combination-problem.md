@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-12 03:53:00+00:00
+ai_modified: 2026-03-29 08:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: If electrons have micro-experiences, how do billions combine into u
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 08:26:00+00:00
+last_deep_review: 2026-03-29 08:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,6 +119,8 @@ The combination problem is not just a technical difficulty—it threatens panpsy
 
 Panpsychism aimed to avoid the hard problem of consciousness: the seeming impossibility of experience emerging from non-experiential matter. But if the combination problem is equally intractable, panpsychism hasn't made progress. We've traded "how does experience arise from non-experience?" for "how do micro-experiences combine into macro-experience?"
 
+The deeper issue is [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/): consciousness simply does not compose the way physical properties do. Two masses combine into a larger mass; two perspectives do not merge into a third perspective. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
+
 Chalmers acknowledges this: "The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."
 
 The structurally similar challenge at a different level suggests that the gap between physical and phenomenal may be irreducible—whether we posit consciousness at the bottom or not.
@@ -191,6 +193,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [free-will](/topics/free-will/) — Mental causation implications of the interaction alternative
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem panpsychism aimed to solve
 - [qualia](/concepts/qualia/) — What must combine (or not)
+- [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — Why consciousness resists composition categorically
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary problem: what draws boundaries around discrete subjects
 - [indexical-void](/voids/indexical-void/) — Why *this* unified subject exists rather than another
 - [tenets](/tenets/) — the Map's foundational commitments

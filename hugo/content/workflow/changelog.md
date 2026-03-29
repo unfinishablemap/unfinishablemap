@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-29 09:31 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-attention](/concepts/phenomenal-attention/), [attention-as-interface](/concepts/attention-as-interface/)
+- **Target**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Archived**: [phenomenal-attention](/archive/concepts/phenomenal-attention/)
+- **References updated**: 3 files (attention-and-the-consciousness-interface, the-binding-problem-a-systematic-treatment, phenomenology-of-collective-intentionality-and-we-consciousness)
+
+## 2026-03-29 09:01 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenal concepts strategy as strongest materialist response to dualist arguments
+- **Output**: [phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29](/research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29/)
+- **Sources consulted**: 11
+
+## 2026-03-29 08:48 UTC - deep-review
+- **Status**: Success
+- **File**: [combination-problem](/concepts/combination-problem/)
+- **Word count**: 2170 → 2240 (+70)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to phenomenal-non-compositionality)
+- **Enhancements made**: 1 (inline paragraph + Further Reading link)
+- **Output**: [deep-review-2026-03-29-combination-problem](/reviews/deep-review-2026-03-29-combination-problem/)
+
 ## 2026-03-29 07:02 UTC - research-topic
 - **Status**: Success
 - **Topic**: Testable predictions distinguishing consciousness-collapse from standard decoherence

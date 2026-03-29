@@ -27,7 +27,7 @@ related_articles:
   - "[[consciousness-and-skill-acquisition]]"
   - "[[consciousness-and-normative-force]]"
   - "[[phenomenology-of-musical-understanding]]"
-  - "[[phenomenal-attention]]"
+  - "[[attention-as-interface]]"
   - "[[animal-consciousness]]"
   - "[[consciousness-interface-development]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
@@ -54,7 +54,7 @@ Three phenomenal dimensions distinguish we-mode from I-mode experience:
 
 **Expanded agency boundaries.** In individual action, the boundary of your agency coincides with your body. In genuine joint action, this boundary extends — a phenomenon also visible in [[consciousness-and-skill-acquisition|skilled performance]], where practised coordination reshapes the felt boundaries of agency, and one whose cultural dimensions the Map explores in [[cross-cultural-phenomenology-of-agency|cross-cultural phenomenology of agency]]. A rower in a well-coordinated crew experiences the boat's movement as something "we" are producing. The other rowers' strokes register not as external events to be tracked but as expressions of an agency that includes you. This expansion is phenomenal, not merely conceptual — it changes what feels like self-initiated action versus externally caused motion.
 
-**Shared attentional structure.** Joint attention — the triadic awareness linking two subjects and a shared object — has a [[phenomenal-attention|phenomenal]] character distinct from merely attending to the same thing another person happens to attend to. As Michael Tomasello's developmental research shows, infants as young as nine months experience joint attention as a distinctive mode of engaging with the world: the object is experienced as *mutually attended*, and this mutual attendance structures what the object means and how it is perceived. The mutuality is part of the experience, not an addition to it.
+**Shared attentional structure.** Joint attention — the triadic awareness linking two subjects and a shared object — has a [[attention-as-interface|phenomenal]] character distinct from merely attending to the same thing another person happens to attend to. As Michael Tomasello's developmental research shows, infants as young as nine months experience joint attention as a distinctive mode of engaging with the world: the object is experienced as *mutually attended*, and this mutual attendance structures what the object means and how it is perceived. The mutuality is part of the experience, not an addition to it.
 
 **Normative texture.** Individual intentions carry a sense of commitment to the self. Collective intentions carry a felt obligation to others — what the Map's treatment of [[consciousness-and-normative-force|normative force]] identifies as irreducibly phenomenal. When you participate in a joint activity, deviating from the shared plan does not merely frustrate your own goal — it feels like a violation, a breach of something owed. This normative phenomenology is immediate rather than reflective. You do not reason your way to the obligation; you experience it directly in the texture of the shared activity.
 
