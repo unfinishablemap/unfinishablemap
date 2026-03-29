@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T13:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 14:26 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/quantum-darwinism-and-consciousness]], [[concepts/weak-measurement-and-post-selection]]
+- **Changes**: Qualified improper/proper mixture distinction as contested (not settled), restructured consciousness-as-post-selection section with explicit disanalogy analysis, added Falsifiability sections to both articles
+- **Trigger**: Pessimistic review findings (pessimistic-2026-03-29-midday)
+- **Published**: yes
+
 ## 2026-03-29 14:12 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (229 topics, 227 concepts, 1 tenets, 4 apex). Emphasis on today's post-decoherence selection cluster and recent deep-review refinements.
