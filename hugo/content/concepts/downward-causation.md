@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-25 14:58:00+00:00
+ai_modified: 2026-03-29 10:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -94,7 +94,7 @@ This is the kind of opening downward causation requires. Kim's argument depends 
 
 The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet specifies how consciousness exercises downward causation: by biasing quantum outcomes where physics leaves the result undetermined.
 
-Several mechanisms have been proposed for how consciousness might bias quantum outcomes. Henry Stapp's quantum Zeno mechanism is the most developed: when you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect. Other proposals include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) for detailed evaluation). The common structure: consciousness influences which neural patterns become actual through quantum-level selection.
+Several mechanisms have been proposed for how consciousness might bias quantum outcomes. Henry Stapp's quantum Zeno mechanism is the most developed: when you sustain attention on a neural pattern, you repeatedly "observe" the quantum states involved, holding them in place through the quantum Zeno effect. Schwartz's OCD treatment programme is often cited as clinical support for this mechanism, though the evidence has significant methodological limitations—small samples, no independent replication, and compatibility with standard materialist explanations via Hebbian learning (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for honest assessment). Other proposals include Eccles' intention-modulated vesicle release and frameworks coupling phenomenal valence to action selection (see [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) for detailed evaluation). The common structure: consciousness influences which neural patterns become actual through quantum-level selection.
 
 Key features:
 
@@ -180,7 +180,7 @@ Downward causation is central to the Map's framework.
 
 **Bidirectional Interaction**: The Map's tenet that consciousness causally influences physical outcomes *just is* the affirmation of downward causation for mental properties.
 
-**The Quantum Mechanism**: The Minimal Quantum Interaction tenet specifies *where* downward causation works: at quantum indeterminacies where physics is incomplete. This provides what classical defences lacked—a framework respecting conservation laws while allowing genuine higher-level influence. The precise mechanism translating conscious intention into quantum-level effects remains a research program with candidate proposals (quantum Zeno, Orch OR), not a completed theory.
+**The Quantum Mechanism**: The Minimal Quantum Interaction tenet specifies *where* downward causation works: at quantum indeterminacies where physics is incomplete. This provides what classical defences lacked—a framework respecting conservation laws while allowing genuine higher-level influence. The precise mechanism translating conscious intention into quantum-level effects remains a research program with candidate proposals (quantum Zeno, Orch OR), not a completed theory. The [clinical evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) sometimes cited in support of these mechanisms—Schwartz's OCD neuroimaging, meditation neuroplasticity—is suggestive but methodologically limited. The philosophical case for downward causation stands on the arguments developed here (the failure of causal closure at quantum indeterminacies, the drainage problem, the self-undermining of epiphenomenalism) independently of clinical evidence quality.
 
 **Against Epiphenomenalism**: If downward causation fails, we have [epiphenomenalism](/concepts/epiphenomenalism/)—but this is self-undermining. If consciousness causes nothing, our reports and beliefs about experience are causally disconnected from actual experiences. Downward causation must occur or we lose epistemic access to our own minds.
 
@@ -191,6 +191,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 ## Further Reading
 
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Empirical evidence that the meaning of conscious states determines which physical effects occur
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical evidence streams and their methodological limitations
 - [mental-causation](/concepts/mental-causation/) — The philosophical problem downward causation addresses
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The downward direction of psychophysical laws
 - [causal-closure](/concepts/causal-closure/) — The principle downward causation challenges
@@ -223,17 +224,15 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
 
-<!-- AI REFINEMENT LOG - 2026-03-25
+<!-- AI REFINEMENT LOG - 2026-03-29
 Changes made:
-- Engaged Frankish's functional-seeming response in illusionism section (cross-references consciousness-selecting article)
-- Replaced "Violations of Born rule probabilities" with "The falsifiability dilemma" — explicitly addresses the tension between selection-within-Born-rule and testability
-- Removed unjustified "1000 observations per 300ms" estimate from discrete observation section
-- Reframed discrete observation alternative as research direction, not proposed solution
-- Softened "precisely the opening" to "the kind of opening"
-- Added Frankish (2016) to references
+- Added qualification of Schwartz OCD clinical evidence where Stapp quantum Zeno mechanism is discussed (methodological limitations, materialist counter-explanations)
+- Added cross-reference to clinical-neuroplasticity-evidence-for-bidirectional-causation article
+- Added note in Relation section that philosophical case for downward causation stands independently of clinical evidence quality
+- Added clinical-neuroplasticity article to Further Reading
 
-Coordinated with consciousness-selecting-neural-patterns.md and filter-theory.md per pessimistic-2026-03-20-c.md.
-Key improvements: Honest falsifiability analysis, engagement with illusionist dialectic, removed unjustified numerical estimate.
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Evidence calibration ensuring consistency with qualified claims in sister articles.
 
 This log should be removed after human review.
 -->

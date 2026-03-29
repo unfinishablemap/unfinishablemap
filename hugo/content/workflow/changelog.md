@@ -9,6 +9,54 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-29 11:26 UTC - research-topic
+- **Status**: Success
+- **Topic**: Post-decoherence selection mechanisms
+- **Output**: [post-decoherence-selection-mechanisms-2026-03-29](/research/post-decoherence-selection-mechanisms-2026-03-29/)
+- **Sources consulted**: 15
+
+## 2026-03-29 11:12 UTC - condense
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Before**: 4128 words
+- **After**: 3026 words
+- **Reduction**: 27%
+- **Technique**: Cut redundant Rizzolatti bullet list, compressed neural signatures table to prose, removed "Why This Dissociation Is Different" subsection (rehashed hard problem), tightened AST critique by merging regress and effort subsections, compressed clinical evidence (removed ADHD table, trimmed meditation/OCD), condensed candidate neural sites to single paragraph, compressed falsification and predictions sections
+
+## 2026-03-29 10:56 UTC - refine-draft
+- **Status**: Success
+- **Files**: [downward-causation](/concepts/downward-causation/), [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Changes**: Integrated clinical evidence quality research findings across three articles. clinical-neuroplasticity and attention-and-the-consciousness-interface were already refined earlier today; downward-causation received targeted qualification of Schwartz OCD evidence where Stapp mechanism is discussed, cross-reference to clinical evidence article, and note that philosophical case stands independently of clinical evidence quality
+- **Published**: yes
+
+## 2026-03-29 10:27 UTC - refine-draft
+- **Status**: Success
+- **Files**: [functionalism](/concepts/functionalism/), [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
+- **Changes**: Added "The Architect's Defection" section to functionalism.md (Putnam's trajectory from inventing to abandoning functionalism); added "Pragmatist Genealogy" section to enactivism article (Dewey → Merleau-Ponty → Varela/Thompson pipeline, tension with anti-dualist conclusions); cross-references and citations added to both
+- **Published**: yes
+
+## 2026-03-29 10:11 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/)
+- **Word count**: 2057 → 2317 (+260)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-29-phenomenal-concepts-as-materialist-response](/reviews/deep-review-2026-03-29-phenomenal-concepts-as-materialist-response/)
+
+## 2026-03-29 09:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [evaluative-qualia](/concepts/evaluative-qualia/)
+- **Changes**: Added Rawlette's analytic descriptivism argument; fixed style violation in vedanā section; expanded functionalist rebuttal with intrinsic-vs-relational debate; tightened convergence summary
+- **Published**: yes
+
+## 2026-03-29 09:42 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal concepts strategy as materialist response
+- **Output**: [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/)
+- **Word count**: 2057
+- **Based on research**: yes, [phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29](/research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29/)
+
 ## 2026-03-29 09:31 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenal-attention](/concepts/phenomenal-attention/), [attention-as-interface](/concepts/attention-as-interface/)

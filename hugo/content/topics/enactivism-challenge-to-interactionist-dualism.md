@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-03-29 10:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[panpsychism]]'
 - '[[emergence]]'
 - '[[causal-closure]]'
+- '[[pragmatism]]'
 created: 2026-03-21
 date: &id001 2026-03-21
 description: Enactivism dissolves the mind-body separation dualism presupposes. But
@@ -30,6 +31,7 @@ related_articles:
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[consciousness-as-activity]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
+- '[[pragmatisms-path-to-dualism]]'
 title: Enactivism's Challenge to Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -60,6 +62,12 @@ This challenges interactionist dualism's account of [qualia](/concepts/qualia/).
 Hutto and Myin's radical enactivism pushes furthest, arguing that basic minds are entirely contentless—no mental representations, no intentional content. Only linguistically sophisticated cognition involves representational content. This challenges dualism at the level of intentionality: if basic cognition involves no mental content, then there is no content for a non-physical mind to bear.
 
 Hutto and Myin identify a "Hard Problem of Content" paralleling dualism's hard problem of consciousness: naturalising intentional content is as intractable as naturalising phenomenal experience. Both problems mark fundamental explanatory limits in physicalist frameworks. The structural parallel is striking—radical enactivism discovers, in its own domain, the same kind of [explanatory gap](/concepts/explanatory-gap/) that motivates dualism. Where dualism says "physical processes cannot account for experience," radical enactivism says "physical processes cannot account for content." The Map reads this as convergent evidence: the physicalist framework keeps encountering the same boundary from different directions.
+
+## Pragmatist Genealogy
+
+Enactivism's intellectual roots run through classical American pragmatism — a lineage that creates an underappreciated tension with its anti-dualist conclusions. John Dewey's "The Reflex Arc Concept in Psychology" (1896) rejected stimulus-response atomism in favour of organism-environment continuity — the same continuity that autopoietic enactivism later developed through biological self-organisation. Dewey's *Experience and Nature* (1925) treated mind as active engagement rather than passive observation, anticipating enactivism's core insight that cognition is embodied activity, not internal computation.
+
+The genealogy runs: Dewey's organism-environment transaction → Merleau-Ponty's embodied phenomenology → Varela, Thompson, and Rosch's enactivism. Wu (2024) argues explicitly that pragmatism is the foundation of cognitive enactivism. This intellectual history matters for the Map's purposes. The article on [pragmatism's path to dualism](/topics/pragmatisms-path-to-dualism/) argues that pragmatism, applied reflexively to consciousness, supports dualism: materialism about consciousness fails pragmatism's own test because it eliminates the evaluative standpoint that pragmatic assessment requires. If enactivism inherits its core commitments from a tradition whose own logic supports dualism, then enactivism's anti-dualist conclusions sit in tension with its intellectual heritage — a tension its practitioners have largely left unexamined.
 
 ## The Dissolution Strategy and Its Limits
 
@@ -115,6 +123,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology and its relation to enactivism
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's integration of first-person and third-person methods
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap enactivism cannot dissolve
+- [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How enactivism's pragmatist heritage supports the dualist conclusion
 - [filter-theory](/concepts/filter-theory/) — The brain as shaping rather than producing consciousness
 
 ## References
@@ -126,5 +135,18 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 1. Schlicht, T. & Starzak, T. (2022). Putting down the revolt: Enactivism as a philosophy of nature. *Frontiers in Psychology*, 13, 948733.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
+1. Wu, J. (2024). "Pragmatism as the Foundation of Cognitive Enactivism." *Philosophy and Social Criticism*.
+1. Dewey, J. (1896). "The Reflex Arc Concept in Psychology." *Psychological Review*, 3(4), 357-370.
+1. Dewey, J. (1925). *Experience and Nature*. Open Court.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Sensorimotor Contingencies and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). Embodied Consciousness and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/embodied-consciousness-and-the-interface/
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+1. Added "Pragmatist Genealogy" section tracing enactivism's intellectual roots through Dewey → Merleau-Ponty → Varela/Thompson, noting that pragmatism's own reflexive logic supports dualism, creating tension with enactivism's anti-dualist conclusions
+2. Added Wu (2024), Dewey (1896), Dewey (1925) to references
+3. Added pragmatism concept link and pragmatisms-path-to-dualism cross-reference
+4. Based on research in pragmatist-philosophy-of-mind-2026-03-28.md identifying pragmatist-to-enactivist pipeline as high-priority enhancement
+
+This log should be removed after human review.
+-->

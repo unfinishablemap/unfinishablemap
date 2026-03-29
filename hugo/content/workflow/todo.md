@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 09:16:00+00:00
+ai_modified: 2026-03-29 15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,39 +38,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenal concepts strategy as materialist response
+### P1: Expand concept — post-decoherence selection
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research completed in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md. The phenomenal concepts strategy (Loar, Papineau, Balog) is the most sophisticated materialist response to the knowledge argument and explanatory gap — the Map's intellectual credibility requires engaging it at depth rather than dismissively. Standalone treatment covering the strategy, its strongest formulations, and why it ultimately fails under dualist analysis. Target section: topics/ (226/230, 4 slots remaining). Complements existing P3 refine-draft for materialism.md.
-- **Source**: unconsumed_research
+- **Target**: concepts/post-decoherence-selection.md
+- **Notes**: Core concept article defining post-decoherence selection as a distinct interaction framework. Should synthesize research from the research task above. Cover: what it means for consciousness to act after decoherence has destroyed quantum superposition, the metaphysical advantages (immunity to timing objections), the epistemological costs (reduced falsifiability), comparison with pre-decoherence approaches (Stapp, Orch-OR), and how it fits the Map's five tenets (especially Tenets 2 and 3). This is a concept the site already discusses across many articles but lacks a dedicated concept page.
 - **Generated**: 2026-03-29
 
-### P2: Integrate evaluative qualia research into evaluative-qualia.md
-- **Type**: refine-draft
+### P1: Expand topic — quantum Darwinism and consciousness
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md contains cross-cultural data not yet in the concept page: Buddhist vedana theory, Confucian moral phenomenology (li-qi framework), Indian rasa aesthetics (Abhinavagupta), Dimitrov (2025) on direct acquaintance with intrinsic value. Strengthens the case that evaluative properties of consciousness are irreducible. Target file: obsidian/concepts/evaluative-qualia.md.
-- **Source**: unconsumed_research
+- **Target**: topics/quantum-darwinism-and-consciousness.md
+- **Notes**: Explore Zurek's quantum Darwinism (einselection, pointer states, redundant environmental encoding) as a framework for understanding post-decoherence selection. How does the proliferation of classical information into the environment constrain or enable a non-physical selection mechanism? Does einselection determine the menu of options consciousness selects from? Integrate with existing decoherence and timing-gap-problem content. Tenet alignment: Tenets 2 and 3.
 - **Generated**: 2026-03-29
 
-### P2: Integrate pragmatist philosophy research into existing articles
-- **Type**: refine-draft
+### P1: Expand concept — weak measurement and post-selection
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies specific enhancement opportunities across multiple articles. Priority integrations: (1) Peirce's tychism as historical precedent for quantum indeterminism tenet in relevant physics articles, (2) James's panpsychist sympathies as context for prebiotic collapse discussion, (3) Putnam's trajectory away from functionalism as evidence in functionalism article, (4) pragmatist-to-enactivist pipeline for embodied cognition articles. Target files: pragmatisms-path-to-dualism.md and related articles.
-- **Source**: unconsumed_research
+- **Target**: concepts/weak-measurement-and-post-selection.md
+- **Notes**: Aharonov's two-state vector formalism, weak values, and post-selection as a physical framework relevant to post-decoherence consciousness. Weak measurements can extract information without full collapse; post-selected ensembles reveal anomalous weak values. Explore whether consciousness could operate as a post-selection boundary condition rather than a collapse trigger. Connect to atemporal-causation and retrocausal content on the site. Tenet alignment: Tenets 2, 3, and 4.
 - **Generated**: 2026-03-29
 
-### P2: Integrate clinical evidence quality findings into bidirectional causation articles
-- **Type**: refine-draft
+### P1: Expand topic — stochastic amplification and neural selection
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically evaluates the methodological rigor of key empirical claims used across the site: Schwartz OCD study design limitations, meditation meta-analysis effect sizes, neuroplasticity claim specificity. Multiple articles (clinical-neuroplasticity-evidence-for-bidirectional-causation, downward-causation, attention-and-the-consciousness-interface) cite these as strong evidence but need qualification per the research findings. Strengthens site credibility by pre-empting obvious methodological objections.
-- **Source**: chain
+- **Target**: topics/stochastic-amplification-and-neural-selection.md
+- **Notes**: Investigate how thermal noise and stochastic resonance in neural systems could serve as an amplification layer for post-decoherence selection. Cortical neurons operate near criticality; small biases in stochastic processes (synaptic vesicle release, ion channel gating) could be amplified to macroscopic behavioral differences. This is a mechanism the Map should develop: consciousness doesn't need to manipulate quantum states directly if it can bias the probabilistic outcomes of already-classical stochastic processes that happen to have quantum origins. Connect to amplification-mechanisms-consciousness-physics and motor-selection.
 - **Generated**: 2026-03-29
 
-### P2: Condense attention-and-the-consciousness-interface.md (4126 words, 103% of hard threshold)
-- **Type**: condense
+### P1: Expand concept — contextual selection in quantum foundations
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Coalesced from 4 attention articles on 2026-03-17; may retain redundancy from the merge. Preserve core arguments about attention as the selection interface, AST critique, and clinical evidence while removing overlap and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
+- **Target**: concepts/contextual-selection-in-quantum-foundations.md
+- **Notes**: Explore quantum contextuality (Kochen-Specker, Spekkens) as a resource for post-decoherence selection. Contextuality means measurement outcomes depend on what else is measured alongside them — this context-dependence survives into the classical regime in certain frameworks. Could consciousness provide the "context" that selects among compatible classical outcomes? Connect to the Map's existing quantum-consciousness and comparing-quantum-consciousness-mechanisms articles. Novel speculative territory.
+- **Generated**: 2026-03-29
+
+### P1: Cross-review post-decoherence selection articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: After the above expand tasks complete, review all new post-decoherence selection articles for internal consistency, cross-linking, and integration with existing site content. Ensure the new concept and topic articles reference each other and connect to: decoherence, timing-gap-problem, motor-selection, atemporal-causation, quantum-consciousness, comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics. Check that no claims contradict existing articles.
+- **Generated**: 2026-03-29
+
+### P2: Apex article — post-decoherence selection programme
+- **Type**: apex-evolve
+- **Status**: pending
+- **Target**: apex/post-decoherence-selection.md
+- **Notes**: Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
 - **Generated**: 2026-03-29
 
 ### P2: Deep review evolutionary-case-for-quantum-neural-effects.md
@@ -1701,6 +1714,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research post-decoherence selection mechanisms
+- **Type**: research-topic
+- **Notes**: Deep dive into post-decoherence selection — mechanisms beyond the usual Stapp (quantum Zeno), Orch-OR (Penrose-Hameroff), and Fisher/Posner phosphorus spin proposals. Search for: (1) newer theoretical proposals for how consciousness could select among already-decohered outcomes, (2) quantum Darwinism and einselection as potential frameworks, (3) stochastic resonance or noise-driven selection in neural systems, (4) weak measurement and post-selection frameworks (Aharonov weak values), (5) retrocausal and time-symmetric models (Huw Price, Wharton, Kastner), (6) quantum decision theory and contextual selection, (7) any speculative mechanisms the researcher can construct that fit the Map's dualist tenets. Cast a wide net — the goal is to find mechanisms that are genuinely novel relative to existing site coverage.
+- **Output**: post-decoherence selection mechanisms
+
+### ✓ 2026-03-29: Condense attention-and-the-consciousness-interface.md (4126 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Coalesced from 4 attention articles on 2026-03-17; may retain redundancy from the merge. Preserve core arguments about attention as the selection interface, AST critique, and clinical evidence while removing overlap and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/attention-and-the-consciousness-interface.md
+
+### ✓ 2026-03-29: Integrate clinical evidence quality findings into bidirectional causation articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically evaluates the methodological rigor of key empirical claims used across the site: Schwartz OCD study design limitations, meditation meta-analysis effect sizes, neuroplasticity claim specificity. Multiple articles (clinical-neuroplasticity-evidence-for-bidirectional-causation, downward-causation, attention-and-the-consciousness-interface) cite these as strong evidence but need qualification per the research findings. Strengthens site credibility by pre-empting obvious methodological objections.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md critically evaluates the methodological rigor of key empirical claims used across the site: Schwartz OCD study design limitations, meditation meta-analysis effect sizes, neuroplasticity claim specificity. Multiple articles (clinical-neuroplasticity-evidence-for-bidirectional-causation, downward-causation, attention-and-the-consciousness-interface) cite these as strong evidence but need qualification per the research findings. Strengthens site credibility by pre-empting obvious methodological objections.
+
+### ✓ 2026-03-29: Integrate pragmatist philosophy research into existing articles
+- **Type**: refine-draft
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies specific enhancement opportunities across multiple articles. Priority integrations: (1) Peirce's tychism as historical precedent for quantum indeterminism tenet in relevant physics articles, (2) James's panpsychist sympathies as context for prebiotic collapse discussion, (3) Putnam's trajectory away from functionalism as evidence in functionalism article, (4) pragmatist-to-enactivist pipeline for embodied cognition articles. Target files: pragmatisms-path-to-dualism.md and related articles.
+- **Output**: Task context:
+Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies specific enhancement opportunities across multiple articles. Priority integrations: (1) Peirce's tychism as historical precedent for quantum indeterminism tenet in relevant physics articles, (2) James's panpsychist sympathies as context for prebiotic collapse discussion, (3) Putnam's trajectory away from functionalism as evidence in functionalism article, (4) pragmatist-to-enactivist pipeline for embodied cognition articles. Target files: pragmatisms-path-to-dualism.md and related articles.
+
+### ✓ 2026-03-29: Integrate evaluative qualia research into evaluative-qualia.md
+- **Type**: refine-draft
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md contains cross-cultural data not yet in the concept page: Buddhist vedana theory, Confucian moral phenomenology (li-qi framework), Indian rasa aesthetics (Abhinavagupta), Dimitrov (2025) on direct acquaintance with intrinsic value. Strengthens the case that evaluative properties of consciousness are irreducible. Target file: obsidian/concepts/evaluative-qualia.md.
+- **Output**: obsidian/concepts/evaluative-qualia.md
+
+Task context:
+Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md contains cross-cultural data not yet in the concept page: Buddhist vedana theory, Confucian moral phenomenology (li-qi framework), Indian rasa aesthetics (Abhinavagupta), Dimitrov (2025) on direct acquaintance with intrinsic value. Strengthens the case that evaluative properties of consciousness are irreducible. Target file: obsidian/concepts/evaluative-qualia.md.
+
+### ✓ 2026-03-29: Write article on phenomenal concepts strategy as materialist response
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md. The phenomenal concepts strategy (Loar, Papineau, Balog) is the most sophisticated materialist response to the knowledge argument and explanatory gap — the Map's intellectual credibility requires engaging it at depth rather than dismissively. Standalone treatment covering the strategy, its strongest formulations, and why it ultimately fails under dualist analysis. Target section: topics/ (226/230, 4 slots remaining). Complements existing P3 refine-draft for materialism.md.
+- **Output**: phenomenal concepts strategy as materialist response
 
 ### ✓ 2026-03-29: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
 - **Type**: research-topic
