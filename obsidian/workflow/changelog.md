@@ -5,6 +5,12 @@ ai_modified: 2026-03-28T23:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 03:18 UTC - coalesce
+- **Status**: Abandoned — no strong merge candidates found
+- **Sections searched**: voids (99/100), topics (225/230), concepts (224/230)
+- **Candidates evaluated**: ~15 article pairs across all three sections
+- **Reason**: Articles are well-differentiated; even thematically similar titles cover distinct territory and cross-reference each other as complementary pieces
+
 ## 2026-03-29 02:51 UTC - research-topic
 - **Status**: Success
 - **Topic**: Bandwidth constraints — grounding the ~10 bits/second conscious processing figure
