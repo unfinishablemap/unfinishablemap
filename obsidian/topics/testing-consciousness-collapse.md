@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-28T17:33:00+00:00
+ai_modified: 2026-03-29T20:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,12 +32,13 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[testability-ledger]]"
+  - "[[consciousness-collapse-prediction-landscape]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-25T19:01:00+00:00
+last_deep_review: 2026-03-29T20:40:00+00:00
 coalesced_from:
   - "/topics/consciousness-collapse-experimental-landscape/"
   - "/topics/experimental-design-for-consciousness-collapse-testing/"
@@ -51,17 +52,17 @@ The question is approaching experimental tractability nonetheless — not becaus
 
 ## What Decoherence Does Not Settle
 
-[[decoherence|Decoherence]] is a confirmed physical process: environmental entanglement suppresses interference between quantum branches on extremely short timescales. In warm biological systems, decoherence operates in femtoseconds. This has led many physicists to conclude that decoherence explains why we see definite measurement outcomes — no collapse mechanism needed.
+[[decoherence|Decoherence]] is a confirmed physical process: environmental entanglement suppresses interference between quantum branches on extremely short timescales. This has led many physicists to conclude that decoherence explains definite measurement outcomes — no collapse mechanism needed.
 
-This conclusion is premature. As the Stanford Encyclopedia of Philosophy states explicitly: after decoherence selects a preferred basis and suppresses interference, "the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence converts a pure superposition into an improper mixture — a state that *looks* classical from the perspective of any subsystem measurement but is not the same as genuine ignorance about a single definite outcome. The distinction between proper and improper mixed states cannot be determined by measuring subsystem observables alone.
+This conclusion is premature. As the Stanford Encyclopedia of Philosophy states: after decoherence selects a preferred basis and suppresses interference, "the system still remains in a mixture of possible outcomes. Decoherence does not tell how and why only one of these outcomes is measured." Decoherence converts a pure superposition into an improper mixture — a state that *looks* classical from the perspective of any subsystem measurement but is not genuine ignorance about a single definite outcome.
 
-This gap is not a technicality. It is the [[measurement-problem]]. Decoherence explains why interference disappears. It does not explain why one particular outcome becomes actual. Several interpretations address this gap without invoking consciousness — pilot-wave theory posits hidden variables, QBism treats quantum states as subjective degrees of belief — but collapse models propose that superpositions genuinely resolve, and consciousness-collapse theories propose that consciousness participates in that resolution.
+This gap is the [[measurement-problem]]. Decoherence explains why interference disappears, not why one particular outcome becomes actual. Several interpretations address this gap without invoking consciousness — pilot-wave theory posits hidden variables, QBism treats quantum states as subjective degrees of belief — but collapse models propose that superpositions genuinely resolve, and consciousness-collapse theories propose that consciousness participates in that resolution.
 
 ## The Core Experimental Obstacle
 
 The fundamental difficulty is what might be called the **confound of embodiment**: every conscious observer is also a physical system. When a human looks at a quantum measurement apparatus, photons strike retinas, neurons fire, information is amplified from quantum to classical scales. Any of these physical processes could be what triggers collapse — [[decoherence]] theorists argue exactly this. Consciousness-collapse hypotheses propose that [[consciousness-selecting-neural-patterns|something additional happens]] at or alongside these physical events, but the physical events provide a sufficient-seeming alternative explanation. The hypothesis depends on [[causal-closure|causal closure]] being incomplete at quantum indeterminacies — but testing this incompleteness requires separating consciousness from its physical substrate, which the confound prevents.
 
-An ideal experiment would compare two conditions: (1) a quantum system measured by a conscious observer, and (2) the same system measured by an equivalent physical apparatus with no consciousness involved. If outcomes differed, this would constitute evidence for consciousness-driven collapse. The problem is that condition 2 requires a physical measurement apparatus that is *functionally identical* to a conscious observer in every physical respect but lacks consciousness. This is precisely the [[philosophical-zombies|philosophical zombie]] — and whether such a thing is possible is itself one of the central disputes in philosophy of mind.
+An ideal experiment would compare two conditions: (1) a quantum system measured by a conscious observer, and (2) the same system measured by a physically equivalent apparatus lacking consciousness. If outcomes differed, this would constitute evidence for consciousness-driven collapse. But condition 2 requires a physical measurement apparatus *functionally identical* to a conscious observer in every physical respect but without consciousness — precisely the [[philosophical-zombies|philosophical zombie]], whose possibility is itself one of the central disputes in philosophy of mind.
 
 ## Current Experimental Constraints
 
@@ -85,15 +86,17 @@ Cold-atom experiments provide complementary bounds through anomalous heating mea
 
 ## Seven Differential Predictions
 
-Consciousness-collapse and decoherence-only interpretations agree on nearly every experimental outcome currently accessible. The debate persists not because the theories are indistinguishable in principle, but because the points of divergence lie at the edges of experimental reach.
+Consciousness-collapse and decoherence-only interpretations agree on nearly every currently accessible outcome. The debate persists because the points of divergence lie at the edges of experimental reach. The [[consciousness-collapse-prediction-landscape|prediction landscape]] organises these into a three-tier hierarchy — collapse existence, consciousness-dependence, and logical constraints — of which the consciousness-specific tier remains the hardest and most important.
 
 ### 1. Consciousness-Structure-Dependent Collapse Rates
 
 The Chalmers-McQueen (2021) framework combines [[integrated-information-theory|IIT]] with continuous spontaneous localisation (CSL) to predict that collapse rates depend not only on mass but on the *qualitative structure of consciousness*. Specifically, collapse rate scales with the distance between Q-shapes — IIT's full characterisation of conscious experience — rather than with the scalar quantity Φ alone. Two quantum systems with identical mass, temperature, and environmental coupling but different information-integration structures should exhibit different collapse timescales if consciousness-collapse is correct. Decoherence-only interpretations predict identical behaviour for physically identical systems regardless of their information architecture.
 
+This prediction gains urgency from the *equal-Phi problem* identified by Kremnizer and Ranchin (2015) and critiqued by Chalmers and McQueen: a collapse operator depending only on the scalar quantity Φ would allow superpositions of distinct conscious states with *equal* Φ to persist indefinitely — phenomenologically unacceptable. Q-shapes resolve this by providing a richer, multi-dimensional collapse trigger.
+
 **What to look for:** A quantum computer configured to support rich, integrated feedback (high Q-shape complexity) should lose coherence faster than one with identical physical parameters but modular, feedforward architecture (simpler Q-shape). The excess decoherence should correlate with information-integration structure, not with any standard environmental factor.
 
-**Current status:** Not yet testable. Computing Q-shapes for real quantum systems is intractable beyond toy models. IIT itself remains contested. But the obstacles are engineering and computational — not conceptual. This prediction is the strongest candidate for a genuinely decisive test because it targets consciousness specifically rather than collapse generally, and it makes consciousness-collapse testable *without* needing to settle the hard problem first.
+**Current status:** Not yet testable. Computing Q-shapes for real quantum systems is intractable beyond toy models, and IIT itself remains contested. But the obstacles are engineering and computational — not conceptual. This prediction is the strongest candidate for a genuinely decisive test because it targets consciousness specifically rather than collapse generally.
 
 **What a negative result would mean:** If systems with high and low Q-shape distance between superposed states show identical collapse dynamics across a range of controlled configurations, this would directly undermine the IIT-CSL version of consciousness-collapse. The Map would then face a choice: abandon the Q-shape-collapse link specifically, or argue that IIT misidentifies the relevant measure of consciousness. The first option is a straightforward empirical defeat. The second preserves the broader hypothesis but at the cost of losing its only quantitative prediction — a significant retreat.
 
@@ -117,9 +120,9 @@ Decoherence converts a pure superposition into an *improper* mixture — a state
 
 If consciousness triggers or modulates collapse, the *timing* of collapse should correlate with when a conscious observer becomes entangled with the measurement result — not with when the physical detector registers it. This is a delayed-choice structure applied to collapse timing.
 
-The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. In 2025, Allori and colleagues extended this analysis to show that both many-worlds and single-world interpretations face distinct difficulties in extended Wigner's friend scenarios — the persistent reality of an observer's perception is inconsistent with the universal validity of quantum theory.
+The Frauchiger-Renner (2018) thought experiment exposes related tensions: quantum theory struggles to consistently describe situations where observers model each other's measurements, creating scenarios where the timing and reality of collapse become experimentally consequential. In 2019, Proietti and colleagues performed a six-photon experiment that violated a Bell-type inequality derived from the extended Wigner's friend scenario by five standard deviations — the first empirical confirmation that the thought experiment's tensions are not merely theoretical. In 2025, Allori and colleagues extended this analysis to show that both many-worlds and single-world interpretations face distinct difficulties — the persistent reality of an observer's perception is inconsistent with the universal validity of quantum theory.
 
-These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse theories propose precisely that conscious systems are where standard quantum evolution breaks down. The Allori et al. results strengthen the case that this specification is non-optional — consciousness-collapse cannot remain vague about its scope.
+These results challenge consciousness-collapse, but they rest on an assumption consciousness-collapse theorists can coherently reject: that quantum mechanics applies universally to conscious systems. Consciousness-collapse proposes precisely that conscious systems are where standard quantum evolution breaks down.
 
 **Current status:** Requires quantum memories that maintain coherence through macroscopic measurement chains. Current quantum computer coherence times (microseconds to milliseconds) are insufficient.
 
@@ -141,7 +144,7 @@ If the MAQRO mission or equivalent ground-based experiments show that superposit
 
 ### 7. Born Rule Derivation as Indirect Evidence
 
-Unlike the six experimental predictions above, this is a theoretical observation. Every major attempt to [[born-rule-and-the-consciousness-interface|derive the Born rule]] from physics alone presupposes an observer, suggesting that the consciousness-physics interface may be built into measurement itself rather than being an optional add-on. The persistent failure to derive the Born rule without observer-dependent assumptions constitutes indirect evidence that consciousness is structurally implicated in quantum measurement.
+Unlike the six experimental predictions above, this is a theoretical observation. Most attempts to [[born-rule-and-the-consciousness-interface|derive the Born rule]] from physics alone presuppose an observer, suggesting that the consciousness-physics interface may be built into measurement itself rather than being an optional add-on. The most prominent exception — the Deutsch-Wallace decision-theoretic derivation within many-worlds — has been criticised for presupposing rational agents whose decision-making framework already encodes the probability structure it claims to derive. Whether this constitutes a genuinely observer-free derivation remains contested. The persistent difficulty of deriving measurement probabilities without observer-dependent assumptions constitutes indirect evidence that consciousness is structurally implicated in quantum measurement.
 
 ## Where the Landscape Stands
 
@@ -161,13 +164,11 @@ No experiment has yet confirmed or refuted consciousness-collapse specifically. 
 
 ## The Evidential Asymmetry and the Convergence Strategy
 
-These predictions reveal a structural asymmetry. Consciousness-collapse can be *weakened* by negative results — each failed prediction narrows the viable parameter space — but decoherence-only cannot be positively confirmed in the same way. Consciousness-collapse makes positive predictions (Q-shape-dependent rates, consciousness-dependent timing, anaesthesia-modulated dynamics) that can in principle be confirmed or disconfirmed. Decoherence-only must demonstrate the absence of anomalies across an expanding range of experimental conditions — a genuinely testable prediction, but one that grows stronger only incrementally.
+These predictions reveal a structural asymmetry. Consciousness-collapse can be *weakened* by negative results — each failed prediction narrows the viable parameter space — but decoherence-only can only demonstrate the absence of anomalies across an expanding range of conditions. Consciousness-collapse makes positive predictions (Q-shape-dependent rates, consciousness-dependent timing, anaesthesia-modulated dynamics) that generate targeted experiments, while decoherence-only's prediction that nothing anomalous will appear is harder to leverage for directing new research.
 
-This asymmetry gives consciousness-collapse a pragmatic advantage as a *research programme*: its specific predictions generate targeted experiments, while decoherence-only's prediction that nothing anomalous will appear is harder to leverage for directing new research.
+Given the confound of embodiment, consciousness-collapse may not be testable by isolating variables directly. Instead, evidence could accumulate through convergence: multiple independent lines of inquiry each providing partial support. But convergence is weaker than direct experiment, and invoking it carries a burden: specifying, in advance, what evidence would count *against* the hypothesis.
 
-Given the confound of embodiment, consciousness-collapse may not be testable by isolating variables and comparing conditions directly. Instead, evidence could accumulate through convergence: multiple independent lines of inquiry each providing partial support that collectively shifts the balance of evidence. But convergence is weaker than direct experiment, and invoking it carries a burden: specifying, in advance, what evidence would count *against* the hypothesis.
-
-The Chalmers-McQueen Q-shape prediction provides the necessary anchor. If quantum systems in superposition of states with large Q-shape distance show identical collapse dynamics to systems with small Q-shape distance at equivalent mass, the IIT-CSL version of consciousness-collapse is directly disconfirmed. This is a specific, achievable experiment (once quantum computing advances sufficiently), with a clear predicted outcome and a clear negative result. Without this anchor or something comparably specific, convergence would amount to "wait for other fields to rule out alternatives" — a posture indistinguishable from unfalsifiability.
+The Chalmers-McQueen Q-shape prediction provides the necessary anchor. If systems in superposition of states with large Q-shape distance show identical collapse dynamics to systems with small Q-shape distance at equivalent mass, the IIT-CSL version of consciousness-collapse is directly disconfirmed. Without this anchor or something comparably specific, convergence would amount to "wait for other fields to rule out alternatives" — indistinguishable from unfalsifiability.
 
 Beyond this anchor, the Map's [[testability-ledger]] catalogues broader disconfirmers: a complete physical theory of qualia, a solution to the measurement problem requiring no observers, or proof that causal closure holds even at quantum collapse would each undermine the framework. These are genuine disconfirmers, but they are research programmes rather than experiments — and honesty requires acknowledging the difference.
 
@@ -182,7 +183,7 @@ Supporting lines of evidence that would strengthen the case, without being indiv
 
 The persistent failure to design a clean consciousness-collapse experiment is philosophically significant. It reflects the same structural feature that generates the [[hard-problem-of-consciousness|hard problem]]: consciousness is always accessed from within a physical system, and the physical system always provides an alternative explanatory pathway. This is not merely a practical obstacle — it follows from the nature of embodied consciousness.
 
-The history of statistical anomaly detection is cautionary. The Princeton Engineering Anomalies Research (PEAR) lab ran extensive trials (1979–2007) asking human operators to mentally influence quantum random event generators. The programme suffered fundamental methodological failures: insufficient blinding, possible selection effects in data analysis, and failure to replicate independently. Any future statistical approach must avoid PEAR's errors by design: pre-registered analysis protocols, automated experimental runs, large sample sizes, and clear theoretical predictions specifying *what kind* of bias to expect.
+The history of statistical anomaly detection is cautionary. The Princeton Engineering Anomalies Research (PEAR) lab ran extensive trials (1979–2007) asking human operators to mentally influence quantum random event generators. The programme suffered fundamental methodological failures: insufficient blinding, selection effects in data analysis, and failure to replicate independently. Any future statistical approach must avoid these errors by design: pre-registered protocols, automated runs, large samples, and clear theoretical predictions specifying *what kind* of bias to expect.
 
 ## Relation to Site Perspective
 
@@ -204,6 +205,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses a predict
 - [[non-retrocausal-conscious-selection-models]] — Why these three frameworks share a forward-in-time temporal direction
 - [[philosophical-stakes-of-spontaneous-collapse]] — What is at stake philosophically in the collapse debate
 - [[anaesthesia-and-the-consciousness-interface]] — Anaesthesia as a test case for consciousness-physics interaction
+- [[consciousness-collapse-prediction-landscape]] — The three-tier prediction hierarchy: collapse existence, consciousness-dependence, and logical constraints
 - [[collapse-and-time]] — How collapse connects to temporal asymmetry and why collapse realism matters for testability
 - [[quantum-measurement-and-consciousness]] — The foundational relationship between measurement and consciousness
 - [[consciousness-in-smeared-quantum-states]] — What happens to consciousness during superposition
@@ -222,18 +224,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses a predict
 8. Fein, Y.Y., et al. (2019). "Quantum superposition of molecules beyond 25 kDa." *Nature Physics*, 15, 1242–1245.
 9. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
 10. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
-11. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
+11. Kremnizer, K. & Ranchin, A. (2015). "Integrated Information-Induced Quantum Collapse." *Foundations of Physics*, 45(8), 889–899.
+12. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
 12. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
 13. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
-14. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
-
-<!-- AI REFINEMENT LOG - 2026-03-28
-Changes made:
-- Added Penrose's radiation-free model variants to Gran Sasso section (from research notes)
-- Added dielectric nanosphere/Schrödinger-cat state specifics to Horchani prediction
-- Added cold-atom complementary bounds to interferometry section
-
-Research integration check: All four major findings from experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md were already present (Chalmers-McQueen IIT+CSL, Gran Sasso constraints, Horchani levitated optomechanical proposal, extended Wigner friend scenarios). These three additions fill minor detail gaps.
-
-This log should be removed after human review.
--->
+14. Proietti, M. et al. (2019). "Experimental test of local observer independence." *Science Advances*, 5(9), eaaw9832.
+15. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.

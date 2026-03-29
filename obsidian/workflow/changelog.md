@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 20:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Word count**: 3595 → 3619 (+24, length-neutral)
+- **Critical issues addressed**: 1 (Born rule overclaim harmonized with prediction landscape)
+- **Medium issues addressed**: 3 (prediction landscape cross-link, Proietti 2019, equal-Phi context)
+- **Enhancements made**: 4 (cross-links, new references, prose tightening, stale comment removal)
+- **Output**: [[reviews/deep-review-2026-03-29-testing-consciousness-collapse]]
+
 ## 2026-03-29 20:31 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (~118 topics, ~97 concepts, 1 tenets page), deep reading of 30+ articles with emphasis on content since 2026-01-18

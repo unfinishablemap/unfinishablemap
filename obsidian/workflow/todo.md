@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review testing-consciousness-collapse.md considering prediction landscape insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-collapse-prediction-landscape.md systematizes testable predictions distinguishing consciousness-collapse from decoherence-only models. testing-consciousness-collapse.md covers the same empirical territory from a different angle. Check for consistency, add cross-links, and ensure the two articles complement rather than duplicate each other.
-- **Source**: chain (from consciousness-collapse-prediction-landscape.md)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1742,6 +1735,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review testing-consciousness-collapse.md considering prediction landscape insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-prediction-landscape.md systematizes testable predictions distinguishing consciousness-collapse from decoherence-only models. testing-consciousness-collapse.md covers the same empirical territory from a different angle. Check for consistency, add cross-links, and ensure the two articles complement rather than duplicate each other.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md -- Context: Cross-review testing-consciousness-collapse.md considering prediction landscape insights
 
 ### ✓ 2026-03-29: Address logical gaps in contextual-selection-in-quantum-foundations.md
 - **Type**: refine-draft
