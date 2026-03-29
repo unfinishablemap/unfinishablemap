@@ -4,8 +4,8 @@ description: "When independent contemplative and philosophical traditions conver
 created: 2026-03-28
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-03-28T18:34:00+00:00
-last_deep_review: 2026-03-28T18:34:00+00:00
+ai_modified: 2026-03-29T00:17:00+00:00
+last_deep_review: 2026-03-29T00:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,13 +86,13 @@ Convergent phenomenological evidence has real constraints that honest use requir
 
 **The training problem.** Convergence among *trained* observers raises the question of whether training creates the phenomena it claims to discover. Contemplative training involves sustained practice with particular attentional techniques; the convergent findings might reflect what those techniques do to experience rather than what experience is. The strongest response is that different techniques — focused attention, open monitoring, devotional prayer, koan inquiry — converge on similar structural findings despite employing different attentional operations.
 
-**The reporting problem.** Phenomenological reports require language, and language imposes categories. Convergence at the level of verbal report might mask genuine divergence at the level of experience, or create apparent agreement through translation effects. Cross-linguistic phenomenological research partially addresses this, but linguistic mediation remains an irreducible limitation.
+**The reporting problem.** Phenomenological reports require language, and language imposes categories. Convergence at the level of verbal report might mask genuine divergence at the level of experience, or create apparent agreement through translation effects. Petitmengin's (2006) second-person interview method — guiding subjects to articulate pre-reflective experience through careful questioning — partially addresses this by eliciting descriptions below the level of doctrinal vocabulary. Cross-linguistic phenomenological research further helps, but linguistic mediation remains an irreducible limitation.
 
 **The selection problem.** Published accounts of contemplative experience are not random samples. Traditions preserve and transmit reports that conform to their expectations, creating survivorship bias in the available data. Divergent reports — practitioners who find the self to be more real under investigation, for instance — may be underrepresented in the literature.
 
 **The heterophenomenological challenge.** Dennett's [[heterophenomenology]] holds that first-person reports should be treated as data about what subjects *believe* about their experience, not as direct evidence of phenomenal structure. Under this framework, convergent reports show that trained contemplatives across traditions form similar *beliefs*, not that they access similar *realities*. The Map's response: heterophenomenology itself cannot explain *why* these beliefs converge with such specificity across independent traditions. The pattern of convergence is data that any theory — including heterophenomenology — must explain.
 
-**Partial circularity persists.** Although cross-traditional convergence partially breaks the [[phenomenological-evidence#The Circularity Objection|circularity]] that plagues single-tradition phenomenological evidence, the break is incomplete. All human phenomenological investigation shares a common instrument — human consciousness — and a common method — trained attention to experience. This baseline commonality means the convergence can never achieve the full independence that laboratory replication provides.
+**Partial circularity persists.** Although cross-traditional convergence partially breaks the [[phenomenological-evidence#The Circularity Objection|circularity]] that plagues single-tradition phenomenological evidence, the break is incomplete. All human phenomenological investigation shares a common instrument — human consciousness — and a common method — trained attention to experience. Varela's (1996) [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] programme attempts to constrain this circularity by requiring mutual validation between first-person reports and third-person neuroscience, but the baseline commonality means convergent phenomenological evidence can never achieve the full independence that laboratory replication provides.
 
 ## Relation to Site Perspective
 

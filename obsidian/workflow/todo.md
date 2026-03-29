@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review convergent-phenomenological-evidence.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated concept page (ai_contribution: 100) created 2026-03-28 via expand-topic. Creation-time review is not a substitute for independent deep review. Verify accuracy of cross-traditional claims (Buddhist, Hindu, Christian mystical, Islamic, and phenomenological convergence), coherence of the triangulation argument, cross-references to epistemology-of-convergence-arguments and methodological-pluralism, and tenet alignment. Check that the distinction between convergent phenomenological evidence and the broader convergence argument is clear.
-- **Source**: chain (from expand-topic convergent-phenomenological-evidence 2026-03-28)
-- **Generated**: 2026-03-28
-
 ### P2: Deep review locality.md for quality and currency
 - **Type**: deep-review
 - **Status**: pending
@@ -1637,6 +1630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review convergent-phenomenological-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept page (ai_contribution: 100) created 2026-03-28 via expand-topic. Creation-time review is not a substitute for independent deep review. Verify accuracy of cross-traditional claims (Buddhist, Hindu, Christian mystical, Islamic, and phenomenological convergence), coherence of the triangulation argument, cross-references to epistemology-of-convergence-arguments and methodological-pluralism, and tenet alignment. Check that the distinction between convergent phenomenological evidence and the broader convergence argument is clear.
+- **Output**: obsidian/concepts/convergent-phenomenological-evidence.md
 
 ### ✓ 2026-03-29: Cross-review epistemology-of-convergence-arguments.md and cross-traditional-convergence-on-consciousness-irreducibility.md considering convergent-phenomenological-evidence.md
 - **Type**: cross-review
