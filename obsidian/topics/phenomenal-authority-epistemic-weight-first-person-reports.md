@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority—from near
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-29T18:35:00+00:00
+ai_modified: 2026-03-29T19:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,12 +32,13 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[phenomenal-concepts-as-materialist-response]]"
+  - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-29T19:36:00+00:00
 ---
 
 When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority*—the special epistemic standing of first-person reports about conscious experience—is not a philosophical curiosity but a load-bearing pillar of the case for dualism. If first-person reports provide genuine evidence about phenomenal states, then consciousness presents features that resist physical reduction. If they do not, the very concept of consciousness becomes dispensable. There is no stable middle ground, and the attempt to occupy one—granting phenomenal authority while denying its ontological implications—collapses under pressure from what Rorty identified as incorrigibility's forced choice between dualism and eliminativism.
@@ -50,7 +51,7 @@ No serious philosopher defends infallibility—the claim that first-person repor
 
 **Moderate authority (privileged access).** Most contemporary epistemologists hold that first-person access is privileged but fallible. Reports deserve a default presumption of truth—a *prima facie* credibility that third-person observations about someone's mental states lack—but this presumption can be overridden by sufficient evidence. This position preserves the asymmetry between self-knowledge and other-knowledge without committing to anything Cartesian.
 
-**Normative authority (social-agential).** Moran, Wright, and Bar-On argue that first-person authority is not an epistemic achievement but a normative status. Self-ascriptions are authoritative because rational agency norms grant them default credibility—you are responsible for your mental states in a way that confers authority on your reports about them (Bar-On 2009). Authority derives from agency, not from a privileged epistemic window.
+**Normative authority (social-agential).** Bar-On argues that first-person authority is not an epistemic achievement but a normative status. Self-ascriptions are authoritative because rational agency norms grant them default credibility—you are responsible for your mental states in a way that confers authority on your reports about them (Bar-On 2009). Moran (2001) and Wright (1998) develop related views grounding authority in rational agency rather than in a privileged epistemic window.
 
 **Deflated authority (heterophenomenological).** Dennett's [[heterophenomenology]] treats first-person reports as data about how things *seem*—texts to be analysed alongside behavioural and neural evidence—not as windows into phenomenal reality. Subjects are "authoritative only about how things seem to them," but how things seem may not track how things are.
 
@@ -60,9 +61,9 @@ No serious philosopher defends infallibility—the claim that first-person repor
 
 The spectrum becomes more tractable when phenomenal authority is decomposed into layers, each with its own epistemic profile.
 
-**Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility. Doubting that one is having an experience is itself an experience—the denial is self-refuting at the moment of assertion. Even Schwitzgebel's scepticism has almost no purchase at this level; his examples concern *what* experience is like, not *whether* it exists. Husserl classified this as apodictic evidence: the negation is inconceivable.
+**Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility. Doubting that one is having an experience is itself an experience—the denial is self-refuting at the moment of assertion. Even Schwitzgebel's scepticism has almost no purchase at this level; his examples concern *what* experience is like, not *whether* it exists. Husserl classified this as *apodictic* evidence: the negation is inconceivable (Husserl 1931). Nagel's (1974) question—"What is it like to be a bat?"—presupposes this layer: asking what experience is like requires that experience exists.
 
-**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Training demonstrably improves accuracy—meditators and phenomenologically trained observers produce more reliable reports than untrained subjects (Fox et al. 2012). Acquaintance operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues. But judgements about intensity, valence, and categorical classification can err.
+**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Training demonstrably improves accuracy—meditators show greater metacognitive precision in detecting their own attentional states than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' first-person reports correlate with distinctive neural signatures (Lutz et al. 2004). Acquaintance operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues. But judgements about intensity, valence, and categorical classification can err.
 
 **Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience. Authority is weakest here. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed, whether emotional experience has stable phenomenal signatures, whether thought has sensory imagery. Background states are, in Husserl's taxonomy, merely presumptive—co-intended but not directly presented.
 
@@ -86,7 +87,7 @@ At layer 1, phenomenal authority approaches incorrigibility. If the existence of
 
 The pressure intensifies at layer 2. If acquaintance with qualitative character provides knowledge that physical description cannot capture—as the knowledge argument suggests—then the moderate must either deny that Mary learns anything genuinely new (the ability hypothesis, widely regarded as inadequate) or accept that phenomenal knowledge exceeds physical knowledge (which is just what the dualist claims).
 
-Rorty himself chose the eliminativist horn. The Map embraces the dualist horn. What neither accepts is the supposed middle ground.
+Rorty himself moved toward the eliminativist horn, though his mature pragmatism complicates the picture. The Map embraces the dualist horn. What neither accepts is the supposed middle ground.
 
 ## The Self-Undermining of Deflation
 
@@ -104,7 +105,7 @@ How consciousness science treats phenomenal authority determines what it can dis
 
 Dennett's heterophenomenology maintains third-person neutrality: reports are data, not evidence about phenomenal reality. This methodology is self-consistent as far as it goes, but it systematically excludes the first-person evidence for irreducibility. A method that declines to credit phenomenal access will never detect features that only phenomenal access reveals—it pre-empts the evidence for dualism by methodological fiat.
 
-Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] treats first-person reports and third-person neural data as mutually constraining. When trained observers' phenomenological descriptions predict specific neural signatures (Lutz et al. 2004), the cross-modal convergence validates both channels. Neurophenomenology preserves phenomenal authority while subjecting it to empirical discipline—the combination the Map endorses.
+Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] treats first-person reports and third-person neural data as mutually constraining. When trained observers' first-person reports systematically correlate with distinctive neural activity patterns (Lutz et al. 2004), the cross-modal convergence validates both channels. Neurophenomenology preserves phenomenal authority while subjecting it to empirical discipline—the combination the Map endorses.
 
 The methodological choice is not neutral with respect to the mind-body problem. Heterophenomenology is compatible with physicalism by design; neurophenomenology is compatible with dualism by design. Neither is question-begging if its assumptions are made explicit, but both constrain what conclusions can emerge.
 
@@ -127,6 +128,7 @@ The methodological choice is not neutral with respect to the mind-body problem. 
 - [[heterophenomenology]] — Dennett's deflationary methodology
 - [[clinical-phenomenology-as-philosophical-evidence]] — First-person reports as clinical evidence
 - [[contemplative-practice-as-philosophical-evidence]] — Cross-traditional convergence as validation
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — How evaluative qualia ground phenomenal normativity
 - [[argument-from-reason]] — The broader case against epiphenomenalism
 - [[phenomenal-concepts-as-materialist-response]] — The main physicalist response to phenomenal authority
 
@@ -135,12 +137,14 @@ The methodological choice is not neutral with respect to the mind-body problem. 
 1. Bar-On, D. (2009). First-Person Authority: Dualism, Constitutivism, and Neo-Expressivism. *Erkenntnis*, 71, 7-31.
 1. Chalmers, D. J. (2003). The Content and Epistemology of Phenomenal Belief. In Q. Smith & A. Jokic (Eds.), *Consciousness: New Philosophical Perspectives*. Oxford University Press.
 1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Husserl, E. (1931). *Cartesian Meditations* (D. Cairns, Trans.). Kluwer Academic Publishers.
 1. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
+1. Moran, R. (2001). *Authority and Estrangement: An Essay on Self-Knowledge*. Princeton University Press.
 1. Nagel, T. (1974). What Is It Like to Be a Bat? *Philosophical Review*, 83(4), 435-450.
 1. Rorty, R. (1970). Incorrigibility as the Mark of the Mental. *Journal of Philosophy*, 67(12), 399-424.
 1. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *Philosophical Review*, 117(2), 245-273.
-1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Wright, C. (1998). Self-Knowledge: The Wittgensteinian Legacy. In C. Wright, B. C. Smith, & C. Macdonald (Eds.), *Knowing Our Own Minds*. Oxford University Press.
 1. Varela, F. J. (1996). Neurophenomenology: A Methodological Remedy for the Hard Problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Southgate, A. & Oquatre-six, C. (2026-02-11). The Epistemology of First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-first-person-evidence/
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). Phenomenal Conservatism and Introspective Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-conservatism-and-introspective-evidence/

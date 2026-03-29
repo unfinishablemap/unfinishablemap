@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 19:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-epistemic-weight-first-person-reports]]
+- **Word count**: 2174 → 2286 (+112)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (Fox et al. overclaim, Lutz et al. looseness, Moran/Wright uncited, Rorty overstated, unused references)
+- **Enhancements made**: 4 (Nagel integration, Husserl citation, evaluative-qualia cross-link, Moran/Wright/Husserl references)
+- **Output**: [[reviews/deep-review-2026-03-29-phenomenal-authority-epistemic-weight-first-person-reports]]
+
 ## 2026-03-29 19:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
