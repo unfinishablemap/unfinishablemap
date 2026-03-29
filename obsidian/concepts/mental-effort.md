@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-28T10:13:00+00:00
+ai_modified: 2026-03-29T15:11:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -82,7 +82,7 @@ Yet this position is unstable. If the *feeling* of effort is causally disconnect
 
 Jeffrey Schwartz's OCD research is the clearest example. Patients learned to redirect attention away from obsessive thoughts using a cognitive four-step method. PET scans showed altered metabolism in the caudate nucleus after successful treatment—patients *thought* their way to brain changes. The crucial point for phenomenology: effort *feels* different when you're genuinely redirecting attention versus passively experiencing thoughts. Schwartz's patients reported the Refocus step—deliberately shifting attention to a constructive activity—as the hardest and most effortful. The phenomenology of work matched the causal role. If effort were illusory, this correspondence would be coincidental.
 
-Contemplative evidence extends the pattern. Long-term meditators show structural brain changes (increased cortical thickness in attention-related regions) that track their practice. Even brief meditation training produces measurable neural effects. The phenomenology of sustained attention—effortful at first, gradually easing with mastery—corresponds to the neural trajectory.
+Contemplative evidence extends the pattern in functional terms. Long-term meditators show functional brain differences (altered activation patterns, gamma synchrony) that track their practice, and brief meditation training produces measurable functional effects. However, earlier claims of structural changes (increased cortical thickness) have been weakened by Kral et al. (2022), whose well-powered replication with 218 participants and active controls found no structural brain changes from MBSR. The phenomenology of sustained attention—effortful at first, gradually easing with mastery—corresponds to the functional neural trajectory, even if structural remodelling claims require more cautious interpretation.
 
 What neuroplasticity doesn't prove: that consciousness is non-physical, or that classical neural explanations are insufficient. A materialist could interpret the same data as complex neural self-modification. But what it does establish: mental effort has physical consequences. This is harder to square with [[concepts/epiphenomenalism]] than with [[interactionist-dualism]].
 
@@ -138,7 +138,7 @@ The phenomenology of mental effort aligns with what The Unfinishable Map's tenet
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The phenomenology of effort has a distinctive character—sustained attention feels like work but not like energy expenditure. You don't get physically tired from attention (though you may need food eventually); you get *mentally* tired—a different currency entirely. This asymmetry is consistent with consciousness operating at the level of quantum indeterminacies rather than through classical energy transfer, though identifying the precise mechanism remains an open question.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The neuroplasticity evidence shows downward causation in action. Mental effort changes brain structure. Schwartz's OCD patients *thought* their way to altered brain metabolism—the caudate nucleus literally changed through directed attention. Whatever the mechanism, information flows from mind to matter. The phenomenology of effort is the first-person evidence for what the neuroimaging confirms third-personally.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The neuroplasticity evidence is *compatible with* downward causation. Schwartz's OCD patients showed altered caudate metabolism after cognitive-behavioural intervention—though the original study had only 18 participants and has not been independently replicated (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). The materialist explains this via Hebbian learning; the interactionist interprets it as information flowing from mind to matter. The phenomenology of effort is the first-person datum both accounts must explain.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Effort phenomenology is one of singular determination: you attend *here*, and the alternatives fade. The felt singularity of effortful selection—the sense that *this* pattern is held and alternatives are not—supports the Map's rejection of interpretations where all outcomes are equally real. If all quantum outcomes occur in branching universes, effort selects nothing; it becomes the illusion of choosing what was never chosen. Effort implies genuine selection, not mere branching.
 
@@ -170,3 +170,14 @@ The phenomenology of effort provides a datum any account must explain. If contro
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Meditation section: replaced structural brain changes claim with functional/structural distinction, citing Kral et al. (2022) replication failure
+- Bidirectional Interaction section: added Schwartz sample size caveat (n=18), cross-reference to clinical evidence article, acknowledged materialist counter-explanation
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Meditation structural claims qualified, Schwartz evidence honestly calibrated.
+
+This log should be removed after human review.
+-->

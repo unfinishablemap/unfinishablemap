@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-03-29T15:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,7 +157,7 @@ This pathway divergence bears on the exclusion argument directly. If mental caus
 
 ### Meditation and Placebo
 
-The evidence extends beyond clinical treatment. Sustained meditation practice produces structural brain changes—increased cortical thickness, reduced amygdala reactivity, new synaptic connections and neurons—driven not by correcting pathology but by deliberate cultivation of attentional capacities (Rodríguez-Martín et al., 2024). Placebo effects demonstrate that belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions producing different neural signatures (Marueckova et al., 2024). This [[content-specificity-of-mental-causation|content-specificity]]—meaning determining which physical effect occurs—is difficult to accommodate if mental descriptions lack genuine causal efficacy.
+The evidence extends beyond clinical treatment. Sustained meditation practice produces *functional* brain changes—altered activation patterns, reduced default mode network activity, enhanced gamma synchrony—driven by deliberate cultivation of attentional capacities. However, earlier claims of *structural* changes (cortical thickening, grey matter density) have been challenged: Kral et al. (2022) tested 218 participants with active controls and found no structural brain changes from MBSR, suggesting earlier positive findings reflected methodological limitations. Meditation's functional effects and moderate efficacy for anxiety and depression (Goyal et al., 2014) remain supported but should not be overstated. Placebo effects demonstrate that belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions producing different neural signatures (Marueckova et al., 2024). This [[content-specificity-of-mental-causation|content-specificity]]—meaning determining which physical effect occurs—is difficult to accommodate if mental descriptions lack genuine causal efficacy.
 
 The [[bidirectional-interaction|Bidirectional Interaction]] article develops the convergence argument: four independent evidence streams (OCD, psychotherapy neuroimaging, meditation, placebo) all point toward intentional mental activity reshaping the brain through routes irreducible to bottom-up physical causation.
 
@@ -266,3 +266,13 @@ Mental causation, as defended here, is falsifiable:
 1. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
 1. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Meditation subsection: replaced structural claims (cortical thickness, neurogenesis) with functional/structural distinction, citing Kral et al. (2022) replication failure and Goyal et al. (2014) meta-analysis
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Meditation structural evidence honestly calibrated.
+
+This log should be removed after human review.
+-->

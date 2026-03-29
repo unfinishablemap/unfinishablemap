@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-28T17:49:00+00:00
+ai_modified: 2026-03-29T15:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,13 +71,13 @@ Applications include epilepsy anticipation, pain phenomenology, creative insight
 
 Long-term meditators show altered brain structure and function:
 
-**Structural changes**: Greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (meta-analysis of 25 MRI studies, Cohen's d ~ 0.8).[^sezer] Changes most pronounced in older practitioners, suggesting offset of age-related thinning.
+**Structural changes (under scrutiny)**: Earlier studies reported greater cortical thickness in frontal and temporal areas[^lazar], particularly right anterior ventral insula (meta-analysis of 25 MRI studies, Cohen's d ~ 0.8).[^sezer] However, Kral et al. (2022), testing 218 participants with both waitlist and active controls in *Science Advances*, found no structural brain changes from 8-week MBSR—no changes in grey matter volume, density, or cortical thickness. The earlier positive findings may reflect small samples, lack of active controls, and circular analysis. Cross-sectional differences in long-term practitioners may reflect pre-existing traits rather than practice-induced changes.
 
 **Functional connectivity**: Increased connectivity between [[default-mode-network|DMN]], salience network, and central executive network.[^parkinson] Changes persist at baseline resting state, not just during meditation.[^brewer][^muller]
 
 **Dose-response**: Davidson's compassion study found brain changes after just 7 hours of practice that predicted prosocial behaviour.[^davidson] However, 8-week MBSR may produce only functional changes; structural grey matter changes require sustained practice over months to years.[^sezer]
 
-The causal pathway matters: conscious intention → deliberate practice → neural reorganisation. The *content* of conscious intention matters causally: cultivating compassion produces different neural changes than sustaining breath attention. [[qualia|Phenomenal character]] is not epiphenomenal decoration.
+The causal pathway matters for the Map's interpretation: conscious intention → deliberate practice → neural change. The *content* of conscious intention appears to matter causally: cultivating compassion produces different *functional* neural changes than sustaining breath attention—a pattern compatible with the Map's claim that [[qualia|phenomenal character]] is not epiphenomenal decoration, though also explicable through standard mechanisms of differential behavioural training.
 
 ### Gamma Synchrony and Temporal Binding
 
@@ -253,3 +253,14 @@ None demonstrated. Fox et al. shows robust training effects; cross-traditional s
 [^demir]: Demir, U. et al. (2025). Advanced concentrative absorption meditation. *Cerebral Cortex*, 35(4).
 [^voluntary]: See [[attention-as-interface|voluntary attention]] for detailed treatment of willed vs. instructed attention neural signatures.
 [^sharma]: Sharma, H. (2015). Mindfulness-based stress reduction. https://pmc.ncbi.nlm.nih.gov/articles/PMC3336928/
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Structural changes subsection: added Kral et al. (2022) replication failure, noted earlier positive findings may reflect methodological limitations
+- Causal pathway paragraph: qualified from direct claim to "Map's interpretation", acknowledged materialist counter-explanation via differential behavioural training
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Meditation structural evidence honestly calibrated with replication failure noted.
+
+This log should be removed after human review.
+-->

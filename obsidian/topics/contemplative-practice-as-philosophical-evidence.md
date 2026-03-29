@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-28T21:43:00+00:00
+ai_modified: 2026-03-29T15:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,7 +88,7 @@ Traditions diverge sharply on what the self ultimately *is*, yet converge on the
 
 ### 3. Attentional Trainability
 
-All traditions share the discovery that attention can be systematically trained. The Shamatha Project (MacLean et al. 2010) confirmed this: intensive training measurably improves sustained attention, perceptual discrimination, and response inhibition, with long-term practitioners showing increased cortical thickness in attention and interoception regions (Lazar et al. 2005). Convergence across traditions rules out artefacts of any single methodology.
+All traditions share the discovery that attention can be systematically trained. The Shamatha Project (MacLean et al. 2010) confirmed this: intensive training measurably improves sustained attention, perceptual discrimination, and response inhibition. Earlier studies reported increased cortical thickness in long-term practitioners (Lazar et al. 2005), though structural claims from meditation have been challenged by Kral et al. (2022), whose well-powered replication found no structural brain changes from MBSR. The functional improvements in attentional capacity remain well-supported. Convergence across traditions rules out artefacts of any single methodology.
 
 ### 4. Non-Ordinary States with Shared Structure
 
@@ -241,6 +241,16 @@ Changes made:
 - Both additions integrate findings from phenomenal-authority-epistemic-weight-2026-03-28.md research
 
 Key improvements: contemplative practice now explicitly positioned as extending phenomenal authority into structural domains where naive introspection fails
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Attentional trainability section: qualified cortical thickness claim (Lazar 2005) with Kral et al. (2022) replication failure caveat, distinguished structural from functional evidence
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Meditation structural evidence calibrated.
 
 This log should be removed after human review.
 -->

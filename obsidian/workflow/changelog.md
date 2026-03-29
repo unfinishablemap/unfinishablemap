@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T13:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 15:11 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/neuroplasticity]], [[concepts/stapp-quantum-mind]], [[concepts/mental-effort]], [[concepts/mental-causation]], [[concepts/bidirectional-interaction]], [[concepts/neurophenomenology-and-contemplative-neuroscience]], [[concepts/consciousness-selecting-neural-patterns]], [[topics/contemplative-practice-as-philosophical-evidence]], [[concepts/attentional-economics]]
+- **Changes**: Integrated clinical evidence quality audit findings across 9 articles. Qualified Schwartz OCD claims with sample size limitations (n=18), lack of independent replication, and materialist counter-explanations. Replaced meditation structural brain change claims with honest assessment citing Kral et al. (2022) replication failure. Distinguished functional from structural evidence throughout. Added cross-references to clinical-neuroplasticity-evidence-for-bidirectional-causation article.
+- **Trigger**: Research in research/clinical-evidence-quality-2026-03-29.md
+- **Published**: yes
+
 ## 2026-03-29 15:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/weak-measurement-and-post-selection]]

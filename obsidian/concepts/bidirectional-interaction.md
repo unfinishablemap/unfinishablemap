@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-29T15:11:00+00:00
 last_deep_review: 2026-03-11T21:02:00+00:00
 draft: false
 topics:
@@ -98,7 +98,7 @@ The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neu
 
 **Psychotherapy pathway divergence**: CBT and pharmacotherapy produce comparable clinical outcomes through *different neural pathways*. A 2022 meta-analysis (302 depressed subjects, 18 experiments) found CBT consistently decreases right amygdala activity through top-down cortical-to-limbic modulation, while SSRIs modulate bottom-up through synaptic neurochemistry (Marzbani et al., 2022). This directional asymmetry holds across depression, anxiety, and OCD—suggesting top-down and bottom-up represent genuinely different causal types rather than different descriptions of the same physical process.
 
-**Meditation structural remodelling**: A 2024 systematic review documents that sustained contemplative practice increases cortical thickness, reduces amygdala reactivity, improves brain connectivity, and produces both synaptogenesis and neurogenesis (Rodríguez-Martín et al., 2024). These changes are driven not by correcting pathology but by deliberate cultivation of attentional capacities—intentional mental practice sculpting neural architecture toward consciously defined goals.
+**Meditation neural changes**: A 2024 systematic review documents functional changes from sustained contemplative practice—reduced amygdala reactivity, improved brain connectivity, altered activation patterns (Rodríguez-Martín et al., 2024). However, structural claims (cortical thickening, grey matter density changes) have been weakened: Kral et al. (2022), testing 218 participants with active controls in *Science Advances*, found no structural brain changes from MBSR. Meditation's *functional* effects and the content-specificity of different practices remain philosophically relevant, but structural remodelling claims should be treated with caution pending stronger evidence.
 
 **Placebo neuroplasticity**: Belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions generating different neural signatures (Marueckova et al., 2024). This is a paradigmatic case of [[content-specificity-of-mental-causation|content-specific mental causation]]: meaning determines which physical effect occurs.
 
@@ -201,6 +201,16 @@ Changes made:
 - Added 4 new references (Schwartz 1998, Marzbani 2022, Rodríguez-Martín 2024, Marueckova 2024)
 
 Key improvements: Clinical Neuroplasticity subsection now provides concrete empirical grounding rather than just pointing to the dedicated article. Readers get the specific evidence without needing to follow the link.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Meditation structural remodelling subsection: qualified structural claims (cortical thickening, neurogenesis) with Kral et al. (2022) replication failure, distinguished structural from functional evidence
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Meditation evidence calibrated for epistemic credibility.
 
 This log should be removed after human review.
 -->

@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-25T04:23:00+00:00
+ai_modified: 2026-03-29T15:11:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -42,7 +42,7 @@ last_deep_review: 2026-03-10T03:12:00+00:00
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
 
-The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds empirical support in Jeffrey Schwartz's neuroplasticity research showing that directed mental effort produces measurable brain changes. For the candidate neural sites and timing constraints relevant to this mechanism, see [[quantum-neural-timing-constraints]].
+The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds suggestive—though not conclusive—empirical support in Jeffrey Schwartz's neuroplasticity research showing that cognitive-behavioural intervention produces measurable brain changes, though this evidence admits materialist reinterpretation. For the candidate neural sites and timing constraints relevant to this mechanism, see [[quantum-neural-timing-constraints]].
 
 ## The Core Mechanism
 
@@ -73,11 +73,11 @@ Recent neuroscience supports a crucial distinction. Willed attention (internally
 
 ## Empirical Support: Neuroplasticity
 
-Jeffrey Schwartz developed a cognitive therapy for OCD based on directed attention. His four-step method teaches patients to redirect attention away from obsessive thoughts. The striking finding: therapy produces measurable brain changes. PET scans showed altered caudate nucleus metabolism after successful treatment—patients literally reshaped their brains through "self-directed neuroplasticity."
+Jeffrey Schwartz developed a cognitive therapy for OCD based on his four-step method (Relabel, Reattribute, Refocus, Revalue), which teaches patients to redirect attention away from obsessive thoughts. PET scans showed altered caudate nucleus metabolism after successful treatment (Schwartz et al., 1996). Important caveats: the original study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and included no comparison with standard exposure-response prevention therapy. The four-step method can be characterised as modified CBT with an added cognitive framing, and the mainstream materialist explanation—that changed behaviour alters neural activation through Hebbian learning—fits the same data.
 
-Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] extends this case with three additional evidence streams—psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—all converging on the same conclusion.
+Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] extends the empirical case with additional evidence streams—psychotherapy neuroimaging showing pathway divergence between CBT and pharmacotherapy, and placebo neuroplasticity—though each stream individually admits materialist reinterpretation. Meditation structural remodelling, once cited as supporting evidence, has been weakened by replication failures (Kral et al., 2022).
 
-The findings don't definitively prove the quantum Zeno mechanism—a materialist could invoke classical neural self-modification. But they establish that mental effort has physical consequences. Whatever the mechanism, something patients do with their minds changes their brains. This is harder to explain under [[concepts/epiphenomenalism]] than under [[interactionist-dualism]].
+The findings don't definitively prove the quantum Zeno mechanism—the clinical data is compatible with both the quantum interpretation and classical neural self-modification. But they establish that cognitive-behavioural intervention has physical consequences. The philosophical case for Stapp's mechanism rests on independent arguments about quantum indeterminacy and the measurement problem, not on clinical evidence alone.
 
 ## The Attention-as-Interface Extension
 
@@ -145,7 +145,7 @@ Stapp's proposal exemplifies minimal interaction. Consciousness doesn't inject e
 
 ### Bidirectional Interaction
 
-The neuroplasticity evidence shows downward causation: Schwartz's OCD patients *thought* their way to altered brain metabolism. Whatever the mechanism, information flows from mind to matter.
+The neuroplasticity evidence is *compatible with* downward causation: cognitive-behavioural intervention produced altered brain metabolism in Schwartz's OCD patients. The Map interprets this as suggestive of information flowing from mind to matter, while acknowledging the materialist counter-explanation via standard neural mechanisms.
 
 ### No Many Worlds
 
@@ -199,3 +199,17 @@ The model generates falsifiable predictions:
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Qualified opening claim from "empirical support" to "suggestive—though not conclusive—empirical support"
+- OCD section: replaced "literally reshaped their brains" with honest assessment including sample size (n=18), lack of replication, materialist counter-explanation
+- Noted meditation structural remodelling weakened by Kral et al. (2022) replication failure
+- Bidirectional Interaction section: downgraded from "shows downward causation" to "compatible with downward causation"
+- Reframed philosophical case as standing independently of clinical evidence
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Evidence calibration for Schwartz clinical claims and meditation evidence.
+
+This log should be removed after human review.
+-->

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Integrate clinical evidence quality audit findings across affected articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found that key clinical evidence cited across the Map has quality issues: Schwartz OCD study had only 9 participants, meditation neuroimaging claims have failed replication attempts, and "self-directed neuroplasticity" is philosophically overinterpreted. Affected articles include clinical-neuroplasticity-evidence-for-bidirectional-causation.md, downward-causation.md, and other articles citing these clinical findings. Qualify claims or add caveats to maintain epistemic credibility.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1707,6 +1700,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate clinical evidence quality audit findings across affected articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found that key clinical evidence cited across the Map has quality issues: Schwartz OCD study had only 9 participants, meditation neuroimaging claims have failed replication attempts, and "self-directed neuroplasticity" is philosophically overinterpreted. Affected articles include clinical-neuroplasticity-evidence-for-bidirectional-causation.md, downward-causation.md, and other articles citing these clinical findings. Qualify claims or add caveats to maintain epistemic credibility.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md found that key clinical evidence cited across the Map has quality issues: Schwartz OCD study had only 9 participants, meditation neuroimaging claims have failed replication attempts, and "self-directed neuroplasticity" is philosophically overinterpreted. Affected articles include clinical-neuroplasticity-evidence-for-bidirectional-causation.md, downward-causation.md, and other articles citing these clinical findings. Qualify claims or add caveats to maintain epistemic credibility.
 
 ### ✓ 2026-03-29: Deep review evolutionary-case-for-quantum-neural-effects.md
 - **Type**: deep-review
