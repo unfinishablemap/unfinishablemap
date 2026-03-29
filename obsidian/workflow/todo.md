@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems). Previous cross-review only covered no-many-worlds.md and born-rule-and-the-consciousness-interface.md. indexical-identity-quantum-measurement.md is directly linked via concepts and covers the personal identity angle that probability arguments depend on. Check for cross-links, reinforcing arguments about why indexical identity makes MWI probability incoherent.
-- **Source**: chain (from topics/probability-problem-in-many-worlds.md)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
 - **Type**: cross-review
 - **Status**: pending
@@ -1679,6 +1672,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
+- **Type**: cross-review
+- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems). Previous cross-review only covered no-many-worlds.md and born-rule-and-the-consciousness-interface.md. indexical-identity-quantum-measurement.md is directly linked via concepts and covers the personal identity angle that probability arguments depend on. Check for cross-links, reinforcing arguments about why indexical identity makes MWI probability incoherent.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
 
 ### ✓ 2026-03-29: Address asymmetric evidential standards in rival-framework articles
 - **Type**: refine-draft
