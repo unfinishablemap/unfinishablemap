@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T15:00:00+00:00
+ai_modified: 2026-03-29T14:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Integrate clinical evidence quality audit findings across affected articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found that key clinical evidence cited across the Map has quality issues: Schwartz OCD study had only 9 participants, meditation neuroimaging claims have failed replication attempts, and "self-directed neuroplasticity" is philosophically overinterpreted. Affected articles include clinical-neuroplasticity-evidence-for-bidirectional-causation.md, downward-causation.md, and other articles citing these clinical findings. Qualify claims or add caveats to maintain epistemic credibility.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
+
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/quantum-darwinism-and-consciousness.md created 2026-03-29. The comparison article should reference quantum Darwinism as a decoherence-compatible framework and position it relative to Orch OR, Stapp, and other mechanisms. Check for cross-links, consistency, and whether the new article changes the comparative analysis.
+- **Source**: chain (from quantum-darwinism-and-consciousness.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/stochastic-amplification-and-neural-selection.md created 2026-03-29. The neural selection patterns article should reference stochastic amplification as a mechanism by which consciousness influence propagates from quantum to neural scales. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Source**: chain (from stochastic-amplification-and-neural-selection.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/contextual-selection-in-quantum-foundations.md created 2026-03-29. The free will article's treatment of quantum indeterminacy as a locus for conscious influence should reference contextual selection as a specific mechanism. Check for cross-links and whether contextual selection strengthens or complicates the free will argument.
+- **Source**: chain (from contextual-selection-in-quantum-foundations.md)
+- **Generated**: 2026-03-29
+
+### P2: Deep review quantum-darwinism-and-consciousness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, refined same day but never deep-reviewed. Topics article on quantum Darwinism's implications for consciousness-collapse theories. Verify accuracy of Zurek's quantum Darwinism framework, coherence of the consciousness argument, cross-references to comparing-quantum-consciousness-mechanisms and post-decoherence-selection, and tenet alignment (especially Tenet 2 and 4).
+- **Source**: staleness
+- **Generated**: 2026-03-29
+
+### P2: Deep review stochastic-amplification-and-neural-selection.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Topics article on how stochastic neural amplification mechanisms could propagate consciousness's quantum-level influence to neural-scale decisions. Verify accuracy of neural stochastic amplification claims, coherence, cross-references to amplification-mechanisms and consciousness-selecting-neural-patterns, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-29
+
+### P2: Deep review contextual-selection-in-quantum-foundations.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Concept page on contextual selection as a mechanism for consciousness-physics interaction within quantum foundations. Verify accuracy of contextuality claims (Kochen-Specker, Bell), coherence, cross-references to quantum-indeterminacy-free-will and post-decoherence-selection, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-29
 
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review

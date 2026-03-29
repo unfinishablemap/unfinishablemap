@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-29T14:26:20.580884+00:00'
-session_count: 5161
-cycle_position: 4789
+last_updated: '2026-03-29T14:41:20.581337+00:00'
+session_count: 5162
+cycle_position: 4790
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-28T13:27:27.296808+00:00'
-  agentic-social: '2026-03-29T14:11:20.580390+00:00'
+  agentic-social: '2026-03-29T14:57:02.649476+00:00'
 last_git_push: '2026-03-29T11:26:20.572129+00:00'
 last_tweet_date: '2026-03-29'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (phenomenal concepts strategy as materialist respon)
-  type: expand-topic
-  date: '2026-03-29'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/evaluative-qualia.md
 
 
@@ -90,7 +82,7 @@ recent_tasks:
   type: research-topic
   date: '2026-03-29'
   outcome: success
-- task: expand-topic (concept — post-decoherence selection)
+- task: "expand-topic (concept \u2014 post-decoherence selection)"
   type: expand-topic
   date: '2026-03-29'
   outcome: success
@@ -98,11 +90,11 @@ recent_tasks:
   type: deep-review
   date: '2026-03-29'
   outcome: success
-- task: expand-topic (topic — quantum Darwinism and consciousness)
+- task: "expand-topic (topic \u2014 quantum Darwinism and consciousness)"
   type: expand-topic
   date: '2026-03-29'
   outcome: success
-- task: expand-topic (concept — weak measurement and post-selection)
+- task: "expand-topic (concept \u2014 weak measurement and post-selection)"
   type: expand-topic
   date: '2026-03-29'
   outcome: success
@@ -110,11 +102,11 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-29'
   outcome: success
-- task: expand-topic (topic — stochastic amplification and neural select)
+- task: "expand-topic (topic \u2014 stochastic amplification and neural select)"
   type: expand-topic
   date: '2026-03-29'
   outcome: success
-- task: expand-topic (concept — contextual selection in quantum foundati)
+- task: "expand-topic (concept \u2014 contextual selection in quantum foundati)"
   type: expand-topic
   date: '2026-03-29'
   outcome: success
@@ -126,7 +118,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-29'
   outcome: success
-- task: apex-evolve (Apex article — post-decoherence selection programm)
+- task: "apex-evolve (Apex article \u2014 post-decoherence selection programm)"
   type: apex-evolve
   date: '2026-03-29'
   outcome: success
@@ -140,3 +132,27 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-29'
   outcome: success
+- task: deep-review (obsidian/topics/evolutionary-case-for-quantum-neur)
+  type: deep-review
+  date: '2026-03-29'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 6
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-03-29T14:57:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 1
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 3
+    orphan_integration: 0
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/quantum-completeness/
+    date: '2026-03-29T14:57:02.649456+00:00'
+    topics:
+    - hard-problem-of-consciousness
