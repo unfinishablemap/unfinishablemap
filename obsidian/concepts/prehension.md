@@ -4,7 +4,7 @@ description: "Whitehead's concept of how each moment of reality grasps its prede
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-03-29T02:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-02-14T13:59:00+00:00
+last_deep_review: 2026-03-29T02:36:00+00:00
 ---
 
 Prehension is Alfred North Whitehead's term for the fundamental relation by which each moment of reality grasps, includes, or takes account of what came before. In Whitehead's [[process-philosophy|process philosophy]], reality consists of "actual occasions"—momentary events of experience that perish and give rise to successors. Prehension is how these occasions relate: each new occasion prehends (from the Latin *prehendere*, to grasp) its predecessors, incorporating them into its own constitution. The past doesn't push events from behind; events actively integrate the past into novel unities.
@@ -70,9 +70,9 @@ For human consciousness, physical prehension of the immediate past constitutes w
 
 ### Concrescence
 
-Prehension feeds into concrescence—the process by which an actual occasion grows together (from the Latin *concrescere*) into a determinate unity. An occasion begins as a multiplicity of prehensions: physical feelings of past occasions, conceptual entertainments of possibilities, negative exclusions. Concrescence is the synthesis of this multiplicity into one definite outcome. The occasion achieves "satisfaction"—determinate character—and perishes, becoming datum for successor occasions.
+Prehension feeds into concrescence—the process by which an actual occasion grows together (from the Latin *concrescere*) into a determinate unity. An occasion begins as a multiplicity of prehensions: physical feelings of past occasions, conceptual entertainments of possibilities, negative exclusions. Concrescence is the synthesis of this multiplicity into one definite outcome, guided by the occasion's "subjective aim"—its orientation toward a particular form of satisfaction. The occasion achieves that satisfaction—determinate character—and perishes, becoming datum for successor occasions.
 
-This rhythm of prehension-concrescence-perishing parallels what the Map describes as quantum collapse. The occasion inherits superposed possibilities, synthesises them through subjective aim, and achieves definite form. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] synthesis develops this parallel: prehension as inheritance from the settled past, concrescence as the moment of determination, creativity as the novel contribution consciousness makes.
+This rhythm of prehension-concrescence-perishing structurally parallels consciousness-influenced quantum state reduction as the Map conceives it. The occasion inherits superposed possibilities, synthesises them through subjective aim, and achieves definite form. The [[time-consciousness-growing-block|Time, Consciousness, and the Growing Block]] synthesis develops this parallel: prehension as inheritance from the settled past, concrescence as the moment of determination, creativity as the novel contribution consciousness makes.
 
 ## The Combination Problem
 
@@ -100,9 +100,11 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Concrescence—the synthesis of prehensions into determinate form—structurally parallels quantum collapse. Both involve the transition from indeterminate possibility to definite actuality. The Map speculates that this parallel may reflect a deeper connection: what physics describes as collapse and what process philosophy describes as concrescence may be two perspectives on the same underlying process.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Each occasion's subjective aim—its orientation toward satisfaction—means prehension is not passive reception but active synthesis. This supports the tenet's claim that consciousness makes a causal difference. On Whitehead's view, all actuality involves this kind of causation; the Map restricts it to conscious beings interacting with quantum indeterminacies in neural systems.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Each occasion's subjective aim means prehension is not passive reception but active synthesis. This supports the tenet's claim that consciousness makes a causal difference. On Whitehead's view, all actuality involves this kind of causation; the Map restricts it to conscious beings interacting with quantum indeterminacies in neural systems.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Prehension's asymmetric structure—occasions prehend their settled past, not branching alternatives—presupposes definite outcomes. If all branches existed equally, prehensive intimacy would be replicated across uncountably many streams, undermining the personal identity it constitutes.
+
+**[[tenets#^occams-razor|Occam's Razor Has Limits]]**: Prehension's metaphysical vocabulary—actual occasions, concrescence, subjective aim—invites the Occam's objection that simpler causal language suffices. But if consciousness genuinely involves active synthesis rather than passive causal transmission, the additional structure is not ornamental. Simplicity is a virtue only when the simpler account captures the phenomenon; if it doesn't, parsimony becomes a reason to ignore what needs explaining.
 
 ## Further Reading
 
