@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-25T20:40:00+00:00
+ai_modified: 2026-03-29T23:45:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -159,6 +159,7 @@ The consciousness-based account would face pressure if:
 ## Further Reading
 
 - [[phenomenal-normativity]] — Normativity as intrinsic to phenomenal character
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Five traditions converging on evaluative phenomenal character as irreducible
 - [[topics/phenomenal-value-realism]] — Value as constituted by conscious experience
 - [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
 - [[cognitive-phenomenology]] — The felt character of thinking and reasoning

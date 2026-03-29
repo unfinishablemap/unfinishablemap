@@ -4,7 +4,7 @@ description: "The view that phenomenal experiences carry intrinsic normative for
 created: 2026-01-16
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-28T06:42:00+00:00
+ai_modified: 2026-03-29T23:45:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -182,6 +182,7 @@ Phenomenal normativity would face pressure if:
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[buddhism-and-dualism]] — Buddhist perspectives on value and emptiness
 - [[evaluative-qualia]] — The distinct category of phenomenal experiences carrying intrinsic evaluative character
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Five traditions converging on evaluative qualia as irreducible—Buddhist, Confucian, Indian, Islamic, and Western
 
 ## References
 

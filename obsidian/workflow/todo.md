@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
-- **Type**: cross-review
-- **Notes**: New article evaluative-qualia-phenomenal-normativity-across-traditions.md created 2026-03-29. Only 1 inbound link. Check for cross-links, reinforcing arguments, or contradictions in: phenomenal-value-realism, consciousness-and-normative-force, buddhism-and-dualism, aesthetics-and-consciousness, acquaintance-knowledge, evaluative-qualia (concept). Supports Tenet 1.
-- **Source**: chain (from evaluative-qualia-phenomenal-normativity-across-traditions.md)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review related void articles considering boundary-void.md
 - **Type**: cross-review
 - **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
@@ -1718,6 +1712,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
+- **Type**: cross-review
+- **Notes**: New article evaluative-qualia-phenomenal-normativity-across-traditions.md created 2026-03-29. Only 1 inbound link. Check for cross-links, reinforcing arguments, or contradictions in: phenomenal-value-realism, consciousness-and-normative-force, buddhism-and-dualism, aesthetics-and-consciousness, acquaintance-knowledge, evaluative-qualia (concept). Supports Tenet 1.
+- **Output**: obsidian/topics/evaluative-qualia-phenomenal-normativity-across-traditions.md -- Context: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
 
 ### ✓ 2026-03-29: Integrate quantum-darwinism-and-consciousness.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "Phenomenal experiences that carry intrinsic evaluative character�
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-03-29T09:56:00+00:00
+ai_modified: 2026-03-29T23:45:00+00:00
 last_deep_review: 2026-03-28T06:42:00+00:00
 draft: false
 topics:
@@ -27,6 +27,7 @@ related_articles:
   - "[[topics/hard-problem-of-consciousness]]"
   - "[[epiphenomenalism]]"
   - "[[topics/free-will]]"
+  - "[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -82,7 +83,7 @@ The metaphysical contexts differ sharply—Buddhist *anattā* (no-self) rejects 
 
 **Islamic philosophy of consciousness.** Avicenna's (Ibn Sina, d. 1037) flying man argument establishes that self-awareness is irreducible to bodily sensation—a subject stripped of all sensory input would still be aware of itself as a conscious subject. This establishes the ontological independence of consciousness that later Islamic thinkers extend into the evaluative domain. Mulla Sadra (d. 1640) develops this further through "knowledge by presence" (*ʿilm al-ḥuḍūrī*), where evaluative knowledge is constituted by ontological participation rather than abstraction from experience. In knowing value, the knower undergoes a transformation—knowledge is a mode of existence, not mere representation. This framework implies that evaluative qualia are not representations *of* value but participations *in* value: to feel the goodness of something is to exist in a mode that partially constitutes that goodness.
 
-This cross-traditional convergence is not proof, but it is evidentially significant. The Islamic, Indian aesthetic, East Asian, and Western analytic traditions developed largely independently and within incompatible metaphysical frameworks—no-self, li/qi dualism, existential monism, property dualism—yet converge through distinct methods (mindfulness practice, introspective philosophy, aesthetic contemplation, rational demonstration) on the same structural claim: evaluative character is a basic feature of conscious experience, not a later cognitive addition. This convergence is harder to explain as shared cognitive bias than as tracking something real about the structure of experience.
+This cross-traditional convergence is not proof, but it is evidentially significant. The Islamic, Indian aesthetic, East Asian, and Western analytic traditions developed largely independently and within incompatible metaphysical frameworks—no-self, li/qi dualism, existential monism, property dualism—yet converge through distinct methods (mindfulness practice, introspective philosophy, aesthetic contemplation, rational demonstration) on the same structural claim: evaluative character is a basic feature of conscious experience, not a later cognitive addition. This convergence is harder to explain as shared cognitive bias than as tracking something real about the structure of experience. For a detailed treatment of each tradition's contribution and the convergence argument's implications, see [[evaluative-qualia-phenomenal-normativity-across-traditions|Evaluative Qualia and Phenomenal Normativity Across Traditions]].
 
 ## Evaluative Qualia and the Hard Problem
 
@@ -123,6 +124,7 @@ Evaluative qualia connect to the Map's tenets at multiple points.
 - [[hard-problem-of-consciousness]] — The challenge evaluative qualia extend into the domain of value
 - [[epiphenomenalism]] — The position evaluative qualia argue against
 - [[free-will]] — Moral agency as grounded in evaluative phenomenal experience
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western sources
 
 ## References
 

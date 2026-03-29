@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-03-29T23:45:00+00:00
 draft: false
 last_deep_review: 2026-03-11T21:35:00+00:00
 topics:
@@ -162,6 +162,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [[contemplative-practice-as-philosophical-evidence]] — Experiential evidence for consciousness theories
 - [[phenomenology-of-creative-insight]] — Aesthetic experience guiding scientific theory choice
 - [[acquaintance-knowledge]] — Why aesthetic knowledge requires experience
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [[modal-structure-of-phenomenal-properties]] — Why phenomenal properties resist physical reduction
 - [[mysterianism|cognitive closure]] — Why the structure-experience gap may be permanent
 - [[resonance-void]] — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure

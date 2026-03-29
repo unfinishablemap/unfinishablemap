@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-27T22:54:00+00:00
+ai_modified: 2026-03-29T23:45:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -248,6 +248,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 - [[phenomenal-normativity|Phenomenal Normativity]] — The definitional article on this metaethical position
 - [[evaluative-qualia]] — The distinct category of phenomenal qualities whose character is intrinsically evaluative
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western traditions
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
 - [[meaning-of-life]] — How consciousness grounds meaning
