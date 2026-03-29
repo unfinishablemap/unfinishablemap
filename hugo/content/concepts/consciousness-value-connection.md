@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-28 06:42:00+00:00
+ai_modified: 2026-03-29 04:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Why consciousness is necessary for value to exist. Without experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-07 02:38:00+00:00
+last_deep_review: 2026-03-29 04:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ This resists reductive ethics that would ground value in evolutionary fitness, s
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [epiphenomenal](/concepts/epiphenomenalism/) froth atop a deterministic process. This directly supports [libertarian free will](/topics/free-will/): genuine choice about value-laden matters requires that consciousness make a difference. Whether value enters the selection mechanism directly or operates through attention is an [open question](/topics/value-blind-vs-value-sensitive-selection/) with consequences for how robust this non-epiphenomenality claim is. The [valence-as-selection-currency](/topics/valence-as-selection-currency/) thesis develops the stronger position: valence functions as the common evaluative currency that makes conscious selection purposive rather than arbitrary.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) claims consciousness causally influences physical outcomes. If consciousness grounds value and consciousness causes, then value influences the physical world. Choices made for the sake of value—pursuing pleasure, avoiding suffering, creating beauty—genuinely shape what happens. Moral agency is metaphysically real, not [epiphenomenal](/concepts/epiphenomenalism/) froth atop a deterministic process. This directly supports [libertarian free will](/topics/free-will/): genuine choice about value-laden matters requires that consciousness make a difference. Whether value enters the selection mechanism directly or operates through attention is an [open question](/topics/value-blind-vs-value-sensitive-selection/) with consequences for how robust this non-epiphenomenality claim is. The [Valence as Selection Currency](/topics/valence-as-selection-currency/) thesis develops the stronger position: valence functions as the common evaluative currency that makes conscious selection purposive rather than arbitrary.
 
 ### No Many Worlds
 

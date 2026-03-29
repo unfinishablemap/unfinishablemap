@@ -1,13 +1,132 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-28 23:47:00+00:00
+ai_modified: 2026-03-29 04:15:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-29 07:02 UTC - research-topic
+- **Status**: Success
+- **Topic**: Testable predictions distinguishing consciousness-collapse from standard decoherence
+- **Output**: [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/)
+- **Sources consulted**: 15
+
+## 2026-03-29 06:46 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (226 topics, 225 concepts, 1 tenet). Focus on March 2026 work: 59 new topics, 45 new concepts, ~391 deep-review refinements
+- **Output**: [optimistic-2026-03-29](/reviews/optimistic-2026-03-29/)
+
+## 2026-03-29 06:31 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Word count**: 2318 → 2325 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-29-consciousness-and-probability-interpretation](/reviews/deep-review-2026-03-29-consciousness-and-probability-interpretation/)
+
+## 2026-03-29 06:17 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Word count**: 2685 → 2726 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-reference to expanded probability-problem article)
+- **Enhancements made**: 3 (strengthened MWI cross-ref, added frontmatter link, added Further Reading entry)
+- **Output**: [deep-review-2026-03-29-indexical-identity-quantum-measurement](/reviews/deep-review-2026-03-29-indexical-identity-quantum-measurement/)
+
+## 2026-03-29 06:01 UTC - deep-review
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Word count**: 3194 → 3186 (-8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (prose tightening for length-neutral mode)
+- **Output**: [deep-review-2026-03-29-integrated-information-theory](/reviews/deep-review-2026-03-29-integrated-information-theory/)
+
+## 2026-03-29 05:46 UTC - refine-draft
+- **Status**: Success
+- **Files**: [panpsychism](/concepts/panpsychism/), [integrated-information-theory](/concepts/integrated-information-theory/), [idealism](/concepts/idealism/)
+- **Changes**: Qualified quantum interaction claims across 3 rival-framework articles to fix asymmetric evidential standards (pessimistic-2026-03-29 Issues 1 and 3). Each article now acknowledges the Map's quantum interaction proposal is speculative, faces the decoherence objection, and lacks experimental support.
+- **Published**: yes
+
+## 2026-03-29 05:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [integrated-information-theory](/concepts/integrated-information-theory/)
+- **Changes**: Fixed philosophical error conflating identity theory with epiphenomenalism (pessimistic-2026-03-29 Issue 4). Removed incorrect self-undermining argument; replaced with correct objection that identity assertions are unexplanatory. Added engagement with structural realist defence (water=H₂O analogy). Minor phrasing fix.
+- **Published**: yes
+
+## 2026-03-29 05:16 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/panpsychism.md, concepts/integrated-information-theory.md, concepts/idealism.md
+- **Output**: [pessimistic-2026-03-29](/reviews/pessimistic-2026-03-29/)
+- **Key findings**: 6 issues (3 high, 3 medium). Systematic asymmetric evidential standards across all three rival-framework articles—Map's interaction problem treated as solved while rivals' problems treated as open. IIT article contains philosophical error conflating identity theory with epiphenomenalism. "Quantum mechanics" used as thought-terminating cliché across all three.
+
+## 2026-03-29 05:09 UTC - refine-draft
+- **Status**: Success
+- **Files**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [epiphenomenalism](/concepts/epiphenomenalism/), [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Changes**: Applied findings from [clinical-evidence-quality-2026-03-29](/research/clinical-evidence-quality-2026-03-29/) to qualify clinical claims across 3 articles
+- **Key corrections**: Schwartz OCD downgraded from "strongest" to "suggestive" (n=18, no independent replication); meditation "substantially more effective than placebo" replaced with accurate meta-analytic evidence; meditation structural remodelling section rewritten to reflect Kral 2022 replication failure; materialist counter-explanations (Hebbian learning) added throughout
+- **Published**: yes
+
+## 2026-03-29 04:46 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 2926 → 2926 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article confirmed stable after 5th review)
+- **Output**: [deep-review-2026-03-29-probability-problem-in-many-worlds](/reviews/deep-review-2026-03-29-probability-problem-in-many-worlds/)
+
+## 2026-03-29 04:30 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Word count**: 2427 → 2430 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (bare wikilink display text)
+- **Enhancements made**: 0 (article confirmed stable after 3rd review)
+- **Output**: [deep-review-2026-03-29-consciousness-value-connection](/reviews/deep-review-2026-03-29-consciousness-value-connection/)
+
+## 2026-03-29 04:15 UTC - research-topic
+- **Status**: Success
+- **Topic**: Clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
+- **Output**: [clinical-evidence-quality-2026-03-29](/research/clinical-evidence-quality-2026-03-29/)
+- **Sources consulted**: 10+ (PubMed, PMC, Science Advances, JAMA Internal Medicine, British Academy, books)
+
+## 2026-03-29 04:01 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2457 → 2452 (-5)
+- **Critical issues addressed**: 2 (framework count inconsistency with born-rule article, Zhang author attribution mismatch)
+- **Medium issues addressed**: 1 (stale AI refinement log removed)
+- **Enhancements made**: 0 (maintenance only — cross-article consistency fixes)
+- **Output**: [deep-review-2026-03-29-many-worlds](/reviews/deep-review-2026-03-29-many-worlds/)
+
+## 2026-03-29 03:55 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 4979 to 5123)
+- **Findings**: 1 cadence (validate-all still absent), 0 failure (0% hard failures, 9.5% skip rate), 1 queue (P3 still growing), 2 review (expand-topic 60% skip, deep-review 17.6% convergence), 2 convergence (voids resolved, concepts improved)
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 10 logged (5 carried forward as critical/high)
+- **Output**: [system-tune-2026-03-29](/reviews/system-tune-2026-03-29/)
+
+## 2026-03-29 03:51 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 451
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 5
+- **Output**: [tenet-check-2026-03-29](/reviews/tenet-check-2026-03-29/)
+
+## 2026-03-29 03:46 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Phenomenal Absence Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-phenomenal-absence-void-2026-03-29](/research/voids-phenomenal-absence-void-2026-03-29/)
+- **Key finding**: Consciousness generates positive phenomenal experiences of what isn't there (silence, darkness, missing objects), but the generative mechanism is structurally hidden — creating a void where we experience absence as presence without access to the construction process.
 
 ## 2026-03-29 03:36 UTC - deep-review
 - **Status**: Success

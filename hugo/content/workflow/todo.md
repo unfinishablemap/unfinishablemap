@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 03:06:00+00:00
+ai_modified: 2026-03-29 05:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,25 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Recent expansion of probability-objections-many-worlds (coalesced into probability-problem-in-many-worlds.md, 2026-03-29) adds decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems) and probability-interpretation objections against MWI. Review no-many-worlds.md and born-rule-and-the-consciousness-interface.md for cross-links and argument reinforcement. Check whether the new material strengthens Tenet 4 (No Many Worlds) arguments in these articles.
-- **Source**: chain (from expand-topic/coalesce 2026-03-29)
-- **Generated**: 2026-03-29
-
-### P2: Research clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
+### P2: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
 - **Type**: research-topic
 - **Status**: pending
-- **Notes**: Multiple pessimistic reviews flagged overstatement of clinical evidence across several articles: (1) Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning (pessimistic-2026-03-26-afternoon); (2) meditation efficacy claim "substantially more effective than placebo" lacks citation (pessimistic-2026-03-24d); (3) CBT-induced brain changes presented as evidence for bidirectional causation but have materialist explanations (pessimistic-2026-03-28). Research the current scientific consensus on these claims, materialist counter-explanations, and what the evidence genuinely supports for consciousness-driven neural change. Target: research note to improve accuracy across 5+ articles.
+- **Notes**: Pessimistic review flagged that materialism.md gives the phenomenal concepts strategy (Loar, Papineau, Balog) dismissive four-sentence treatment despite being the most sophisticated materialist response to the knowledge argument and explanatory gap. Research: (1) Loar's phenomenal concepts as recognitional concepts; (2) Papineau's quotational model; (3) Balog's phenomenal concept strategy; (4) Chalmers' "The Two-Dimensional Argument Against Materialism" as response; (5) How the Map should engage with this rather than dismiss it. Intellectual honesty requires engaging strongest objections. Target: research note to improve materialism.md and knowledge-argument treatment.
 - **Source**: gap_analysis
-- **Generated**: 2026-03-29
-
-### P2: Deep review probability-problem-in-many-worlds.md after expansion and coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Article expanded via expand-topic (probability and decision-theory objections to Many Worlds) and then coalesced with probability-objections-many-worlds.md on 2026-03-29. Two transformations in one day — verify the result preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and correctly represents the decision-theoretic objections (Deutsch-Wallace, self-locating uncertainty). Tenet 4 (No Many Worlds) alignment critical. Never deep-reviewed after these changes.
-- **Source**: staleness
 - **Generated**: 2026-03-29
 
 ### P3: Deep review experimental-consciousness-science-2025-2026.md
@@ -124,8 +110,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Qualify selection trilemma and Schwartz OCD claims in attention-and-the-consciousness-interface
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md
+- **Status**: done
+- **Notes**: Pessimistic review found the selection trilemma is presented as exhaustive but omits compatibilist and emergentist alternatives. Schwartz OCD evidence is called "strongest clinical evidence" but CBT-induced brain changes have standard materialist explanations. The Cai dopamine study is over-interpreted. See pessimistic-2026-03-26-afternoon.md. **Partially addressed**: Schwartz OCD claims qualified in 2026-03-29 refine-draft; selection trilemma and Cai issues remain for future work.
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-26
 
@@ -258,8 +244,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Add citation for meditation efficacy claim in epiphenomenalism.md
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md
+- **Status**: done
+- **Notes**: Pessimistic review found the claim that mindfulness interventions are "substantially more effective" than placebo lacks a direct citation. The contemplative neuroscience section also references a "2025 meta-analysis" on unconscious processing that isn't in the References section. Add specific citations or soften language. See pessimistic-2026-03-24d.md. **Addressed**: meditation claim corrected with Goyal 2014 citation in 2026-03-29 refine-draft. "2025 meta-analysis" reference issue remains for future work.
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-24
 
@@ -1673,6 +1659,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research testable predictions distinguishing consciousness-collapse from standard decoherence
+- **Type**: research-topic
+- **Notes**: Multiple pessimistic reviews flag unfalsifiability as a recurring weakness across consciousness-physics articles (consciousness-selecting-neural-patterns, downward-causation, completeness-in-physics-under-dualism). Research: (1) Chalmers-McQueen Φ-dependent collapse — specific predictions vs standard QM; (2) Diósi-Penrose signatures distinguishable from environmental decoherence; (3) Proposed neuroscience experiments (e.g., collapse timing correlated with conscious report latency); (4) What would count as evidence against consciousness-collapse? Target: research note to ground falsifiability discussion across 3+ articles.
+- **Output**: testable predictions distinguishing consciousness-collapse from standard decoherence
+
+### ✓ 2026-03-29: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
+- **Type**: cross-review
+- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new material on Born rule derivation failures and decision-theoretic circularity. consciousness-and-probability-interpretation.md covers overlapping ground on why probability requires consciousness. Check for consistency, eliminate redundancy, add cross-links, and ensure the two articles complement rather than duplicate each other.
+- **Output**: obsidian/topics/consciousness-and-probability-interpretation.md -- Context: Cross-review consciousness-and-probability-interpretation.md after probability-problem expansion
+
+### ✓ 2026-03-29: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
+- **Type**: cross-review
+- **Notes**: The probability-problem-in-many-worlds.md article was expanded on 2026-03-29 with new decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems). Previous cross-review only covered no-many-worlds.md and born-rule-and-the-consciousness-interface.md. indexical-identity-quantum-measurement.md is directly linked via concepts and covers the personal identity angle that probability arguments depend on. Check for cross-links, reinforcing arguments about why indexical identity makes MWI probability incoherent.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: Cross-review indexical-identity-quantum-measurement.md after probability-problem expansion
+
+### ✓ 2026-03-29: Address asymmetric evidential standards in rival-framework articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to high evidential standards while treating the Map's interaction problem as solved by "quantum mechanics." Each comparison section should acknowledge the interaction proposal is speculative, faces the decoherence objection, and lacks experimental support. See pessimistic-2026-03-29.md Issues 1 and 3.
+- **Output**: Task context:
+Pessimistic review found that panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to high evidential standards while treating the Map's interaction problem as solved by "quantum mechanics." Each comparison section should acknowledge the interaction proposal is speculative, faces the decoherence objection, and lacks experimental support. See pessimistic-2026-03-29.md Issues 1 and 3.
+
+### ✓ 2026-03-29: Fix IIT article's conflation of identity theory with epiphenomenalism
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that integrated-information-theory.md incorrectly applies the self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness because consciousness IS the physical process. The objection should be that identity assertions are unexplanatory (don't bridge the explanatory gap), not that they make consciousness causally inert. See pessimistic-2026-03-29.md Issue 4.
+- **Output**: Task context:
+Pessimistic review found that integrated-information-theory.md incorrectly applies the self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness because consciousness IS the physical process. The objection should be that identity assertions are unexplanatory (don't bridge the explanatory gap), not that they make consciousness causally inert. See pessimistic-2026-03-29.md Issue 4.
+
+### ✓ 2026-03-29: Apply clinical evidence quality research findings across affected articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. Apply findings to qualify or correct clinical claims: (1) attention-and-the-consciousness-interface.md — Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning; (2) epiphenomenalism.md — meditation efficacy claim "substantially more effective than placebo" lacks citation and overstates evidence; (3) clinical-neuroplasticity-evidence-for-bidirectional-causation.md — CBT-induced brain changes and cortical thickening claims need materialist counter-explanations acknowledged; (4) downward-causation.md — clinical examples need qualification. Use research findings to improve accuracy while preserving the dualist argument where evidence genuinely supports it.
+- **Output**: Task context:
+Research completed in research/clinical-evidence-quality-2026-03-29.md. Apply findings to qualify or correct clinical claims: (1) attention-and-the-consciousness-interface.md — Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning; (2) epiphenomenalism.md — meditation efficacy claim "substantially more effective than placebo" lacks citation and overstates evidence; (3) clinical-neuroplasticity-evidence-for-bidirectional-causation.md — CBT-induced brain changes and cortical thickening claims need materialist counter-explanations acknowledged; (4) downward-causation.md — clinical examples need qualification. Use research findings to improve accuracy while preserving the dualist argument where evidence genuinely supports it.
+
+### ✓ 2026-03-29: Deep review probability-problem-in-many-worlds.md after expansion and coalesce
+- **Type**: deep-review
+- **Notes**: Article expanded via expand-topic (probability and decision-theory objections to Many Worlds) and then coalesced with probability-objections-many-worlds.md on 2026-03-29. Two transformations in one day — verify the result preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and correctly represents the decision-theoretic objections (Deutsch-Wallace, self-locating uncertainty). Tenet 4 (No Many Worlds) alignment critical. Never deep-reviewed after these changes.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md
+
+### ✓ 2026-03-29: Research clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
+- **Type**: research-topic
+- **Notes**: Multiple pessimistic reviews flagged overstatement of clinical evidence across several articles: (1) Schwartz OCD evidence called "strongest clinical evidence" but has standard materialist explanations via Hebbian learning (pessimistic-2026-03-26-afternoon); (2) meditation efficacy claim "substantially more effective than placebo" lacks citation (pessimistic-2026-03-24d); (3) CBT-induced brain changes presented as evidence for bidirectional causation but have materialist explanations (pessimistic-2026-03-28). Research the current scientific consensus on these claims, materialist counter-explanations, and what the evidence genuinely supports for consciousness-driven neural change. Target: research note to improve accuracy across 5+ articles.
+- **Output**: clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
+
+### ✓ 2026-03-29: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
+- **Type**: cross-review
+- **Notes**: Recent expansion of probability-objections-many-worlds (coalesced into probability-problem-in-many-worlds.md, 2026-03-29) adds decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems) and probability-interpretation objections against MWI. Review no-many-worlds.md and born-rule-and-the-consciousness-interface.md for cross-links and argument reinforcement. Check whether the new material strengthens Tenet 4 (No Many Worlds) arguments in these articles.
+- **Output**: no-many-worlds.md -- Context: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
 
 ### ✓ 2026-03-29: Cross-review binding-problem.md after coalesce from phenomenal-binding-and-holism
 - **Type**: cross-review
@@ -4761,3 +4795,27 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The self-undermining character of epiphenomenalism appears across mental-causation, arguments-against-materialism, and interactionist-dualism but has no dedicated concept page. Arguably the single strongest argument for bidirectional interaction. Target section: concepts/ (226/230, 4 slots remaining). See optimistic-2026-03-25-morning.md
 - **Generated**: 2026-03-25
+
+### P3: Write article on phenomenology of explanatory satisfaction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The reflexive gap argument (consciousness-defeats-explanation) depends on understanding being phenomenal. A detailed treatment of what explanatory satisfaction is like—felt transition from puzzlement to comprehension, "aha" moment structure, difference from mere belief-updating. Builds on consciousness-defeats-explanation, phenomenology-of-understanding-and-meaning, consciousness-and-the-problem-of-induction. Tenet alignment: Dualism, Bidirectional Interaction. Target section: topics/ (226/230). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
+
+### P3: Write article on phenomenology of anticipation under collapse vs many-worlds
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The lived experience of expecting one determinate future provides phenomenological evidence against many-worlds branching. Builds on consciousness-and-probability-interpretation, indexical-identity-quantum-measurement, no-many-worlds. Tenet alignment: No Many Worlds. Target section: topics/ (226/230). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links from optimistic review 2026-03-29 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: convergent-phenomenological-evidence↔the-hard-problem-in-non-western-philosophy (shared convergence methodology), consciousness-physics-interface-formalism↔the-reverse-inference (formalism expresses what reverse inference demands), pragmatisms-path-to-dualism↔consciousness-defeats-explanation (parallel reflexive arguments), pain-consciousness-and-causal-power↔clinical-neuroplasticity-evidence-for-bidirectional-causation (complementary clinical evidence), experimental-consciousness-science-2025-2026↔consciousness-physics-interface-formalism (data meets constraints). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for specification gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The gap between stating mathematical constraints on consciousness-physics coupling and writing down the actual coupling function. Identified precisely in consciousness-physics-interface-formalism, referenced across multiple formalism articles but lacking canonical definition. Target section: concepts/ (225/230). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29

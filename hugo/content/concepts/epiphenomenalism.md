@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-28 05:27:00+00:00
+ai_modified: 2026-03-29 05:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -146,7 +146,7 @@ Epiphenomenalism predicts no correlation between consciousness and cognitive cap
 
 ### The Contemplative Neuroscience Evidence
 
-[Contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides further empirical challenge. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) documents four independent streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—converging on the conclusion that intentional mental activity reshapes neural architecture through routes distinct from pharmacological intervention. Meditation training produces measurable neuroplastic changes, and the *content* of conscious intention matters—compassion meditation produces different neural changes than focused attention meditation. This is an instance of [content-specificity](/concepts/content-specificity-of-mental-causation/), the broader pattern where the *meaning* of a conscious state determines *which* physical effect occurs. The therapeutic efficacy of mindfulness-based interventions poses a particular challenge: if phenomenology were causally inert, such interventions should be no more effective than placebo. They are substantially more effective. See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the full argument.
+[Contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides further empirical challenge. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) documents converging evidence streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, and placebo neuroplasticity—suggesting that intentional mental activity reshapes neural architecture through routes distinct from pharmacological intervention. The *content* of conscious intention matters—compassion meditation produces different functional neural changes than focused attention meditation. This is an instance of [content-specificity](/concepts/content-specificity-of-mental-causation/), the broader pattern where the *meaning* of a conscious state determines *which* physical effect occurs. Mindfulness-based interventions show moderate efficacy for anxiety and depression (Goyal et al., 2014), though meta-analytic evidence finds them comparable to active controls such as exercise or CBT rather than dramatically superior. The philosophical challenge to epiphenomenalism lies not in meditation's absolute efficacy but in the pathway divergence: psychological interventions consistently modulate brain activity top-down, through different causal routes than pharmacological intervention, suggesting genuinely different types of causation. See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the full argument.
 
 ## The Knowledge Argument Reversed
 
@@ -247,3 +247,17 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 1. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004-R1005.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
+1. Goyal, M., Singh, S., Sibinga, E. M. S., et al. (2014). Meditation Programs for Psychological Stress and Well-Being. *JAMA Internal Medicine*, 174(3), 357-368.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Replaced unsupported claim that mindfulness interventions are "substantially more effective than placebo" with accurate meta-analytic evidence (Goyal et al., 2014): moderate efficacy, comparable to active controls
+- Removed "meditation structural remodelling" from list of four evidence streams (structural claims undermined by Kral 2022)
+- Reframed philosophical challenge from absolute efficacy to pathway divergence (top-down vs bottom-up)
+- Added Goyal et al. (2014) citation
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Evidence accuracy for meditation claims.
+
+This log should be removed after human review.
+-->

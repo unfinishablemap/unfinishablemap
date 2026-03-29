@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-05 11:47:00+00:00
+ai_modified: 2026-03-29 06:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Consciousness as integrated information (phi). IIT takes phenomenol
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 11:47:00+00:00
+last_deep_review: 2026-03-29 06:01:00+00:00
 modified: *id001
 related_articles:
 - '[[temporal-structure-of-consciousness]]'
@@ -54,7 +54,7 @@ IIT begins with axioms—self-evident truths about experience that anyone can ve
 4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [phenomenal unity](/concepts/unity-of-consciousness/) question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
 
-IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [Kent and Wittmann (2021)](/topics/temporal-structure-of-consciousness/) note, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
+IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [work on temporal structure](/topics/temporal-structure-of-consciousness/) suggests, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
 
 These aren't claims about the brain. They're claims about what any conscious experience involves.
 
@@ -72,7 +72,7 @@ The key measure is **phi (Φ)**—integrated information. Phi quantifies how muc
 
 ### The Mathematics
 
-IIT provides formulas for calculating phi. Roughly: take a system, partition it in every possible way, measure how much information is lost in each partition, and take the partition that loses least. Phi equals the information lost even in this minimal partition. If phi is zero, the system can be fully understood as independent parts. If phi is positive, something is lost when you decompose it—and IIT claims this "something" is consciousness.
+IIT provides formulas for calculating phi. Roughly: partition a system in every possible way, measure how much information each partition loses, and take the partition that loses least. Phi equals the information lost even in this minimal partition. If phi is zero, the system reduces to independent parts. If phi is positive, something is lost when you decompose it—and IIT claims this "something" is consciousness.
 
 The system with the highest phi is the "maximally irreducible conceptual structure" (MICS)—and this, IIT claims, *is* the conscious experience.
 
@@ -128,9 +128,7 @@ IIT defenders note that extrapolation beyond direct testability is inevitable fo
 
 ### The Templeton Tests
 
-A major empirical test, funded by the Templeton Foundation and involving 250 subjects across six labs, pitted IIT against its main rival, Global Neuronal Workspace Theory (GNWT). Results announced in 2023: IIT fared slightly better, correctly predicting that posterior cortex activity would persist during conscious perception (2 of 3 predictions passed, vs. 0 of 3 for GNWT).
-
-The results were inconclusive but encouraging for IIT. More tests are underway. This represents consciousness science's turn toward empirical discrimination between theories.
+A major empirical test, funded by the Templeton Foundation and involving 250 subjects across six labs, pitted IIT against its main rival, Global Neuronal Workspace Theory (GNWT). Results announced in 2023: IIT fared slightly better, correctly predicting that posterior cortex activity would persist during conscious perception (2 of 3 predictions passed, vs. 0 of 3 for GNWT). The results were inconclusive but encouraging for IIT, representing consciousness science's turn toward empirical discrimination between theories.
 
 ### The COGITATE Experiment (2025)
 
@@ -157,11 +155,11 @@ IIT's willingness to accept panpsychism also aligns with the [Occam's Razor Has 
 
 The Map's framework requires that consciousness be *causally efficacious*—that it influence physical outcomes. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness "selects among superposed neural states, collapsing quantum indeterminacy."
 
-IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is the physical, in a certain configuration. As the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues, identifying consciousness with any physical quantity—however sophisticated—is a category error if dualism is true. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [causal interface](/voids/causal-interface/)—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
+IIT has no room for this. If consciousness *is* integrated information, it doesn't *do* anything to the physical. It is physical structure in a certain configuration. As the [metaphysics of information under dualism](/concepts/metaphysics-of-information-under-dualism/) argues, identifying consciousness with any physical quantity—however sophisticated—is a category error if dualism is true. The phi-structure doesn't cause neural events; it constitutes them. This is identity, not causation. The [causal interface](/voids/causal-interface/)—the mechanism by which intention becomes action—remains invisible in IIT because there is no interface: consciousness and physical structure are one.
 
-The self-undermining argument against epiphenomenalism—that we couldn't reliably discuss consciousness if it didn't influence our brains—applies here too. If consciousness just *is* physical structure, our beliefs about consciousness are caused by physical processes, not by consciousness itself. Why should these beliefs be accurate about what consciousness is like?
+Note that the self-undermining argument against epiphenomenalism—that we couldn't reliably discuss consciousness if it didn't cause our beliefs about it—does not apply to IIT's identity thesis. On an identity theory, beliefs about consciousness *are* caused by consciousness, because consciousness *is* the physical process producing those beliefs. IIT is not epiphenomenalist; it does not render consciousness causally inert.
 
-IIT might respond that the beliefs are accurate because consciousness *is* the physical structure doing the believing. But this seems to collapse the explanatory gap rather than bridge it. We wanted to know why physical arrangements are *accompanied* by experience; IIT's answer is that they *are* experience. This may be true, but it doesn't explain the connection—it asserts it.
+The deeper problem is that identity assertions are unexplanatory. We wanted to know why physical arrangements are *accompanied* by experience; IIT's answer is that they *are* experience. This may be true, but it doesn't bridge the explanatory gap—it asserts the gap closed. Fundamental identities in science (water = H₂O, temperature = mean kinetic energy) can be empirically confirmed through third-person observation. The consciousness = Φ identity cannot, because we lack third-person access to phenomenal experience. Without that independent confirmation, the identity claim remains a philosophical posit rather than an empirical discovery—and the hard problem persists in the form of asking *why* this particular identity holds.
 
 ### The Illusionist Challenge
 
@@ -183,7 +181,7 @@ IIT doesn't require quantum mechanics. It works at the level of classical inform
 
 Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [spontaneous collapse](/concepts/spontaneous-collapse-theories/) parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
-The Map's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches make consciousness active; IIT makes it passive.
+The Map's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches give consciousness an independent causal role; IIT's identity thesis does not.
 
 ### What Would Challenge This View?
 
@@ -206,7 +204,7 @@ IIT offers a sophisticated competitor to the Map's interactionist dualism. Both 
 - **IIT**: Consciousness is identical to certain physical structures. No separate causal role.
 - **the Map**: Consciousness influences physical outcomes at quantum level. Genuine bidirectional interaction.
 
-The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem but resolves it via quantum mechanics.
+The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem and proposes to address it through quantum indeterminacy—though this remains a speculative research programme. It confronts the decoherence objection (biological tissue is too warm and noisy to sustain the quantum superpositions the proposal requires) and currently lacks experimental support. Honesty requires acknowledging that the Map's interaction mechanism is no more empirically established than IIT's identity claim.
 
 Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework addresses this—if consciousness involves [quantum collapse processes](/concepts/collapse-and-time/), each collapse has duration, and [retrocausal boundary conditions](/concepts/retrocausality/) provide the retention-protention structure that Husserl identified. Past collapses constrain present selection (retention); anticipated future collapses influence current outcomes (protention). This creates genuine temporal extension beyond what IIT's instantaneous Φ calculations can explain. See [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) for detailed treatment.
 
@@ -243,3 +241,16 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Fixed philosophical error: removed incorrect application of self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness (because consciousness IS the physical process). Replaced with correct objection: identity assertions are unexplanatory (don't bridge the explanatory gap).
+- Added engagement with structural realist defence: acknowledged that fundamental identities are normally asserted, but argued the consciousness=Φ identity differs because it cannot be empirically confirmed via third-person observation.
+- Fixed awkward phrasing: "It is the physical, in a certain configuration" → "It is physical structure in a certain configuration"
+- Qualified quantum interaction claim in Assessment section: acknowledged it is speculative, faces decoherence objection, lacks experimental support, and is no more empirically established than IIT's identity claim
+
+Based on pessimistic-2026-03-29.md Issues 1, 3, and 4.
+Key improvements: philosophical accuracy of identity theory critique; symmetric evidential standards.
+
+This log should be removed after human review.
+-->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-22 17:31:00+00:00
+ai_modified: 2026-03-29 04:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 17:31:00+00:00
+last_deep_review: 2026-03-29 04:01:00+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -75,9 +75,9 @@ Quantum mechanics predicts that outcomes occur with specific probabilities given
 
 Three strategies attempt to recover probability: decision-theoretic derivations (Deutsch-Wallace), self-locating uncertainty (Sebens-Carroll), and environment-assisted invariance (Zurek). None has succeeded without circularity. Decision-theoretic axioms are contested as encoding optional metaphysical attitudes rather than requirements of rationality (Kent 2010), and even granting the axioms, the derivation tells agents how to bet without explaining why laboratory records show Born-rule frequencies (Albert 2010). Self-locating uncertainty struggles because the uncertainty is either spurious or wrongly placed (Lewis 2007). Envariance derivations assume the connection between quantum states and probabilities that they claim to establish.
 
-A deeper structural problem cuts across all three strategies: well-defined branches require [decoherence](/concepts/decoherence/), but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang et al. (2026) identify a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
+A deeper structural problem cuts across all three strategies: well-defined branches require [decoherence](/concepts/decoherence/), but decoherence is described using the Born-rule norm, so the branch structure presupposes the probability rule it claims to ground (Baker 2007, Price 2010). Zhang (2026) identify a unifying bottleneck: all five leading derivation strategies depend irreducibly on the assumption that probabilities of orthogonal outcomes are additive—itself a probabilistic postulate, making every derivation covertly circular. This problem has persisted from Everett's original 1957 thesis through Short's 2023 contribution to *Quantum*—nearly seven decades without resolution.
 
-MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it from resources that appear structurally incapable of generating it. The [broader pattern of Born rule derivation failures](/topics/born-rule-and-the-consciousness-interface/) and the [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) across all seven major frameworks suggest the rule may encode something about the consciousness-physics interface that no interpretation can extract from physics alone. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies, and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for a concise catalogue of the four distinct probability objections.
+MWI bears this burden more acutely than collapse interpretations: collapse theories can honestly postulate the Born rule as a fundamental law, while MWI must derive it from resources that appear structurally incapable of generating it. The [broader pattern of Born rule derivation failures](/topics/born-rule-and-the-consciousness-interface/) and the [interpretation-invariance analysis](/topics/born-rule-and-the-consciousness-interface/) across every major framework suggest the rule may encode something about the consciousness-physics interface that no interpretation can extract from physics alone. See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) for the full case against all three recovery strategies, and [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/) for a concise catalogue of the four distinct probability objections.
 
 ### 4. The Preferred Basis Problem
 
@@ -204,16 +204,4 @@ Alternative interpretations—particularly [time-symmetric](/concepts/collapse-a
 1. Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
 1. Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.
 1. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
-1. Zhang, Y. et al. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211.
-
-<!-- AI REFINEMENT LOG - 2026-03-15
-Changes made:
-- Fixed duplicate "See [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)" reference in probability section
-- Added Kent (2010) and Lewis (2007) inline citations to probability section for specificity
-- Added historical persistence detail (Everett 1957 through Short 2023)
-- Added Lewis (2007) and Short (2023) to References section
-
-Key improvements: Probability section now gives specific attribution for key objections and emphasizes the nearly seven-decade persistence of the problem.
-
-This log should be removed after human review.
--->
+1. Zhang, J. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211.

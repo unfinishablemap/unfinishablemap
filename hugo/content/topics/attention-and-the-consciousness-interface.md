@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-29 05:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -200,13 +200,13 @@ Sustained attention depletes. The [phenomenology of effort](/concepts/mental-eff
 
 ### OCD: Schwartz's Evidence
 
-Jeffrey Schwartz's OCD treatment provides the strongest clinical evidence for consciousness operating through attention. Patients learn to recognise obsessive thoughts as symptoms rather than meaningful signals, then redirect attention elsewhere. The treatment produces measurable brain changes—reduced metabolic activity in the orbital frontal cortex and caudate nucleus—paralleling medication effects but achieved through directed mental effort alone.
+Jeffrey Schwartz's OCD treatment provides suggestive clinical evidence for consciousness operating through attention. Patients learn to recognise obsessive thoughts as symptoms rather than meaningful signals, then redirect attention elsewhere. PET imaging of patients who completed this cognitive protocol showed reduced metabolic activity in the caudate nucleus (Schwartz et al., 1996). However, the original study used only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and lacks head-to-head comparison with standard exposure-response prevention therapy. Mainstream neuroscience explains the same findings via Hebbian learning—changed behaviour patterns drive changed neural activation through standard synaptic plasticity, without requiring non-physical mental causation.
 
-Schwartz explicitly interprets this as evidence for the quantum Zeno mechanism: sustained attention holds desired neural patterns stable through repeated observation. Whether or not the specific quantum mechanism is correct, the core finding stands: directed attention produces differential neuroplastic outcomes that passive observation does not.
+Schwartz interprets these results as evidence for the quantum Zeno mechanism: sustained attention holds desired neural patterns stable through repeated observation. The clinical data is compatible with this interpretation but does not require it—the brain changes observed are consistent with both dualist and materialist explanations. What remains philosophically significant is the pathway divergence: cognitive intervention modulates brain activity top-down, through a different causal route than pharmacological intervention, even when clinical outcomes are comparable.
 
 ### Meditation: Training the Interface
 
-Beginning meditators report enormous difficulty sustaining attention on even simple objects. With practice, sustained attention duration increases, meta-awareness improves, and effort requirements decrease. Long-term meditators show structural and functional differences in attention networks, consistent with Schwartz's evidence that directed attention produces lasting brain changes.
+Beginning meditators report enormous difficulty sustaining attention on even simple objects. With practice, sustained attention duration increases, meta-awareness improves, and effort requirements decrease. Long-term meditators show functional differences in attention networks—altered activation patterns during attentional tasks. Earlier claims of structural brain changes (cortical thickening, grey matter increases) from meditation have been challenged by Kral et al. (2022), whose well-powered study of 218 participants with active controls found no evidence of structural brain changes from mindfulness-based stress reduction. Functional effects remain supported, but structural claims should be treated as unresolved.
 
 Some contemplative traditions report [witness-consciousness](/concepts/witness-consciousness/)—awareness that observes mental contents without identifying with them. If AST were correct, intensive practice should reveal the schematic nature of consciousness. Instead, practice typically deepens the sense that awareness itself is prior to its contents. This poses a challenge for eliminativist accounts while fitting naturally with the interface model: consciousness disengages from active selection while maintaining awareness.
 
@@ -244,7 +244,7 @@ The interface hypothesis generates empirical predictions:
 
 **Effort correlates with pattern persistence.** Higher attentional effort should produce longer neural pattern maintenance, measurable through EEG/MEG pattern stability as a function of reported effort.
 
-**Differential neuroplasticity.** Effortful attention should produce different neuroplastic outcomes than passive observation—as Schwartz's OCD research already suggests.
+**Differential neuroplasticity.** Effortful attention should produce different neuroplastic outcomes than passive observation—as Schwartz's OCD research suggests, though the evidence base remains small and awaits independent replication.
 
 **Interface dysfunction predicts selective impairment.** Disorders affecting different interface components should produce distinct impairment profiles—as ADHD, fatigue, and depression empirically demonstrate.
 
@@ -373,3 +373,19 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 31. Wise, S.P., & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
 
 32. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*. https://www.cell.com/neuron/abstract/S0896-6273(24)00808-0
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Downgraded Schwartz OCD evidence from "strongest clinical evidence" to "suggestive clinical evidence"
+- Added sample size (n=18, 9 new), lack of independent replication, no ERP comparison
+- Added materialist counter-explanation via Hebbian learning
+- Reframed philosophical significance around pathway divergence rather than proof of mental causation
+- Qualified meditation structural brain claims given Kral et al. (2022) replication failure (218 participants, active controls, no structural changes found)
+- Distinguished functional effects (supported) from structural claims (unresolved)
+- Softened differential neuroplasticity prediction re: Schwartz evidence base
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Evidence calibration bringing claims in line with actual study quality.
+
+This log should be removed after human review.
+-->
