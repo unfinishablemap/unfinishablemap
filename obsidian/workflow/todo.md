@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T14:57:00+00:00
+ai_modified: 2026-03-29T22:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (near-orphan), created 2026-03-18 via expand-topic. Add cross-references from related articles: capability-division-problem, embodied-consciousness-and-the-interface, memory-as-dual-domain-capability, perceptual-fidelity-and-the-interface. Update section index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-29
+
+### P2: Integrate quantum-darwinism-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 2 inbound links, created 2026-03-27 via expand-topic. Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, decoherence-and-macroscopic-superposition, born-rule-and-the-consciousness-interface, consciousness-collapse-prediction-landscape.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-29
+
+### P2: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
+- **Type**: cross-review
+- **Notes**: New article evaluative-qualia-phenomenal-normativity-across-traditions.md created 2026-03-29. Only 1 inbound link. Check for cross-links, reinforcing arguments, or contradictions in: phenomenal-value-realism, consciousness-and-normative-force, buddhism-and-dualism, aesthetics-and-consciousness, acquaintance-knowledge, evaluative-qualia (concept). Supports Tenet 1.
+- **Source**: chain (from evaluative-qualia-phenomenal-normativity-across-traditions.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review related articles considering consciousness-collapse-prediction-landscape.md
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-prediction-landscape.md created 2026-03-29 from research on testable predictions distinguishing consciousness-collapse from decoherence. Only 2 inbound links. Check for cross-links in: testing-consciousness-collapse, comparing-quantum-consciousness-mechanisms, experimental-consciousness-science-2025-2026, penrose-gravity-induced-collapse-empirical-prospects, born-rule-and-the-consciousness-interface. Supports Tenet 2.
+- **Source**: chain (from consciousness-collapse-prediction-landscape.md)
+- **Generated**: 2026-03-29
+
+### P2: Cross-review related void articles considering boundary-void.md
+- **Type**: cross-review
+- **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
+- **Source**: chain (from boundary-void.md)
+- **Generated**: 2026-03-29
+
+### P2: Refine bandwidth articles with 10 bits/second research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-29
 
 ### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
 - **Type**: deep-review
