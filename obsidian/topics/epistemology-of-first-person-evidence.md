@@ -3,7 +3,7 @@ title: "The Epistemology of First-Person Evidence"
 created: 2026-02-11
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-03-28T22:42:00+00:00
+ai_modified: 2026-03-29T21:25:00+00:00
 draft: false
 description: "What introspection provides, how reliable it is, and why phenomenal reports are indispensable to consciousness science. Husserl's evidence taxonomy, four models of introspective knowledge, five calibration strategies, and warranted trust."
 topics:
@@ -45,12 +45,13 @@ related_articles:
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
+  - "[[phenomenal-authority-epistemic-weight-first-person-reports]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated: null
-last_deep_review: 2026-03-28T01:54:00+00:00
+last_deep_review: 2026-03-29T21:25:00+00:00
 coalesced_from:
   - "/topics/epistemology-of-introspection-and-calibration/"
   - "/topics/epistemology-of-phenomenal-reports/"
@@ -154,7 +155,7 @@ These strategies produce a gradient rather than strict calibration. The gradient
 | Causal processes behind experience | Beyond authority | Beyond taxonomy | None effective; process opacity is structural | Very low |
 | Metaphysical interpretation of findings | Beyond authority | Beyond taxonomy | Convergence fails (traditions diverge here) | Variable |
 
-The gradient matters for the Map's project. The dualism tenet draws its force from the first and second layers — the existence and character of phenomenal states, where authority is strongest. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Rorty's insight that incorrigibility forces a choice between dualism and eliminativism (Rorty 1970) applies at the first layer: if authority over phenomenal existence is genuine, mental states are ontologically distinctive; if it is denied, the category of the mental itself becomes dispensable. The middle ground that most physicalists occupy — real phenomenal authority without dualist commitments — is unstable under this pressure.
+The gradient matters for the Map's project. The dualism tenet draws its force from the first and second layers — the existence and character of phenomenal states, where authority is strongest. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Rorty's insight that incorrigibility forces a choice between dualism and eliminativism (Rorty 1970) applies at the first layer: if authority over phenomenal existence is genuine, mental states are ontologically distinctive; if it is denied, the category of the mental itself becomes dispensable. The middle ground that most physicalists occupy — real [[phenomenal-authority-epistemic-weight-first-person-reports|phenomenal authority]] without dualist commitments — is unstable under this pressure.
 
 ## The Self-Stultification of Eliminativism
 
@@ -191,6 +192,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [[epistemology-of-convergence-arguments]] — Formal conditions for when convergence carries evidential weight
 - [[epistemology-of-other-minds-under-dualism]] — How first-person evidence grounds inference to other minds
 - [[phenomenology-of-epistemic-cognition]] — What evaluating evidence feels like from the inside
+- [[phenomenal-authority-epistemic-weight-first-person-reports|phenomenal authority]] — The spectrum of authority positions, Rorty's dilemma, and the dualism connection
 
 ## References
 

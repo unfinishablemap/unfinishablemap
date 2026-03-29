@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article phenomenal-authority-epistemic-weight-first-person-reports.md covers the epistemic weight of first-person reports. epistemology-of-first-person-evidence.md is the most closely related existing article, covering calibration strategies and phenomenal acquaintance. Ensure bidirectional links, consistent terminology, and non-contradictory claims about introspective reliability.
-- **Source**: chain (from phenomenal-authority-epistemic-weight-first-person-reports.md)
-- **Generated**: 2026-03-29
-
 ### P2: Write voids article on the boundary void
 - **Type**: expand-topic
 - **Status**: pending
@@ -1728,6 +1721,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
+- **Type**: cross-review
+- **Notes**: New article phenomenal-authority-epistemic-weight-first-person-reports.md covers the epistemic weight of first-person reports. epistemology-of-first-person-evidence.md is the most closely related existing article, covering calibration strategies and phenomenal acquaintance. Ensure bidirectional links, consistent terminology, and non-contradictory claims about introspective reliability.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md -- Context: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
 
 ### ✓ 2026-03-29: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
 - **Type**: cross-review
