@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Covers Zheng & Meister (2024) Neuron paper synthesising ~10 bits/sec conscious throughput across tasks, Sauerbrei & Pruszynski (2025) Nature Neuroscience critique distinguishing conscious from unconscious bandwidth, and historical convergence from Hick (1952) through modern e-sports. The conscious-vs-unconscious throughput distinction directly supports the interface model. Update bandwidth-of-consciousness.md with these latest findings and strengthen the connection to filter-theory and consciousness-selecting-neural-patterns.
-- **Source**: chain (from research-topic 2026-03-29)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review binding-problem.md after coalesce from phenomenal-binding-and-holism
 - **Type**: cross-review
 - **Status**: pending
@@ -1686,6 +1679,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Covers Zheng & Meister (2024) Neuron paper synthesising ~10 bits/sec conscious throughput across tasks, Sauerbrei & Pruszynski (2025) Nature Neuroscience critique distinguishing conscious from unconscious bandwidth, and historical convergence from Hick (1952) through modern e-sports. The conscious-vs-unconscious throughput distinction directly supports the interface model. Update bandwidth-of-consciousness.md with these latest findings and strengthen the connection to filter-theory and consciousness-selecting-neural-patterns.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Covers Zheng & Meister (2024) Neuron paper synthesising ~10 bits/sec conscious throughput across tasks, Sauerbrei & Pruszynski (2025) Nature Neuroscience critique distinguishing conscious from unconscious bandwidth, and historical convergence from Hick (1952) through modern e-sports. The conscious-vs-unconscious throughput distinction directly supports the interface model. Update bandwidth-of-consciousness.md with these latest findings and strengthen the connection to filter-theory and consciousness-selecting-neural-patterns.
+
+### ✓ 2026-03-29: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Integrated Sauerbrei & Pruszynski (2025) critique, Hick (1952) historical convergence, and strengthened filter-theory and consciousness-selecting-neural-patterns connections. Based on research/bandwidth-constraints-10-bits-2026-03-29.md.
+- **Output**: bandwidth-of-consciousness.md
 
 ### ✓ 2026-03-29: Research bandwidth constraints — grounding the ~10 bits/second conscious processing figure
 - **Type**: research-topic

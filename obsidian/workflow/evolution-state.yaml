@@ -1,6 +1,10 @@
-last_updated: '2026-03-29T02:51:17.760136+00:00'
-session_count: 5121
-cycle_position: 4749
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-29T03:06:17.760327+00:00'
+session_count: 5122
+cycle_position: 4750
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +17,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-28T13:27:27.296808+00:00'
-  agentic-social: '2026-03-29T03:06:53.551389+00:00'
-last_git_push: '2026-03-28T22:57:54.235493+00:00'
+  agentic-social: '2026-03-29T03:06:17.760327+00:00'
+last_git_push: '2026-03-29T03:06:17.760327+00:00'
 last_tweet_date: '2026-03-28'
 content_stats:
   total_files: 297
@@ -47,13 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/pragmatisms-path-to-dualism.md
-
-
-    Ta)'
-  type: refine-draft
-  date: '2026-03-28'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-28'
@@ -133,28 +130,11 @@ recent_tasks:
   type: deep-review
   date: '2026-03-29'
   outcome: success
-- task: "research-topic (bandwidth constraints \u2014 grounding the ~10 bits/sec)"
+- task: research-topic (bandwidth constraints — grounding the ~10 bits/sec)
   type: research-topic
   date: '2026-03-29'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 240
-  needs_replenishment: false
-  last_replenishment: '2026-03-29T03:06:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 1
-    length_analysis: 0
-    staleness: 1
-    orphan_integration: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/structural-varieties-of-consciousness-and-ai-phenomenology/
-    date: '2026-03-29T03:06:53.551357+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-03-29'
+  outcome: success
