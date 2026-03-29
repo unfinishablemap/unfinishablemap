@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T13:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 15:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/weak-measurement-and-post-selection]]
+- **Word count**: 2316 → 2327 (+11)
+- **Critical issues addressed**: 3 (missing Pryde reference, unverifiable Kedem & Vaidman citation removed, stale AI refinement log removed)
+- **Medium issues addressed**: 1 (added cross-link to non-retrocausal-conscious-selection-models)
+- **Enhancements made**: 2 (reference renumbering, Further Reading expansion)
+- **Output**: [[reviews/deep-review-2026-03-29-weak-measurement-and-post-selection]]
+
 ## 2026-03-29 14:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/evolutionary-case-for-quantum-neural-effects]]
