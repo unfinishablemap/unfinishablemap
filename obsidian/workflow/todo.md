@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review evolutionary-case-for-quantum-neural-effects.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic, never deep-reviewed. Only 3 inbound links (low integration). Topics article arguing that if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same logic applies to neural systems. Verify accuracy of quantum biology claims (avian magnetoreception, enzyme tunneling), coherence of the evolutionary argument, cross-references to comparing-quantum-consciousness-mechanisms and quantum-biology-and-neural-consciousness, and tenet alignment (Tenets 2 and 3).
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1665,6 +1658,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review evolutionary-case-for-quantum-neural-effects.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic, never deep-reviewed. Only 3 inbound links (low integration). Topics article arguing that if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same logic applies to neural systems. Verify accuracy of quantum biology claims (avian magnetoreception, enzyme tunneling), coherence of the evolutionary argument, cross-references to comparing-quantum-consciousness-mechanisms and quantum-biology-and-neural-consciousness, and tenet alignment (Tenets 2 and 3).
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md
 
 ### ✓ 2026-03-29: Address falsifiability and disanalogy gaps in quantum-darwinism and weak-measurement articles
 - **Type**: refine-draft
