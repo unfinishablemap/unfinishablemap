@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 18:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/phenomenal-authority-epistemic-weight-first-person-reports.md, topics/consciousness-collapse-prediction-landscape.md, concepts/contextual-selection-in-quantum-foundations.md
+- **Output**: [[reviews/pessimistic-2026-03-29-evening]]
+- **Key findings**: 2 high-severity issues in contextual-selection (non-sequitur from KS theorem to consciousness, free will section conflates indeterminacy with agency), 3 medium-severity issues across articles
+
 ## 2026-03-29 18:35 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal authority and the epistemic weight of first-person reports
