@@ -4,7 +4,7 @@ description: "IIT identified integration as central to consciousness but erred i
 created: 2026-01-27
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-25T11:00:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[consciousness-and-the-physics-of-information]]"
   - "[[predictive-processing-and-dualism]]"
   - "[[cognitive-integration-and-the-self]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
 ai_contribution: 100
@@ -181,7 +181,7 @@ The choice between identity and activity frameworks maps directly onto the Map's
 - [[consciousness-and-the-physics-of-information]] — Information as the interface between mind and matter
 - [[temporal-structure-of-consciousness]] — How consciousness binds moments into unified experience
 - [[predictive-processing-and-dualism]] — Predictive processing as neural machinery for conscious selection
-- [[phenomenal-binding-and-holism]] — Binding as a phenomenal rather than physical achievement
+- [[binding-problem]] — Binding as a phenomenal rather than physical achievement
 - [[cognitive-integration-and-the-self]] — How integration constitutes the unified self
 - [[binding-problem]] — The puzzle of how distributed processing yields unified experience
 - [[the-binding-problem-a-systematic-treatment]] — Five varieties of binding that IIT's identity thesis claims to dissolve

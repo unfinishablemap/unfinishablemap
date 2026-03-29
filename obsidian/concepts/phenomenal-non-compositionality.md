@@ -4,7 +4,7 @@ description: "Consciousness cannot be assembled from parts—whether physical or
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T14:43:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 last_deep_review: 2026-03-24T10:50:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[combination-problem]]"
   - "[[unity-of-consciousness]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[panpsychism]]"
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
@@ -82,7 +82,7 @@ Phenomenal non-compositionality provides some of the strongest support for the M
 
 **Minimal Quantum Interaction.** If consciousness is non-compositional, it does not arise from the summation of micro-level physical events. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]'s proposal—that consciousness biases quantum indeterminacies at a specific interface—coheres with non-compositionality. Consciousness interacts with the brain at a locus rather than being assembled across the brain's parts.
 
-**Phenomenal unity as intrinsic.** The Map treats [[unity-of-consciousness|phenomenal unity]] as a feature consciousness brings to neural processing, not something physical organisation constructs. Non-compositionality explains why this must be so: if unity cannot be built from parts, it must be intrinsic to consciousness itself. The [[phenomenal-binding-and-holism|holistic character]] of experience is not an achievement of combination but a primitive feature of what consciousness is.
+**Phenomenal unity as intrinsic.** The Map treats [[unity-of-consciousness|phenomenal unity]] as a feature consciousness brings to neural processing, not something physical organisation constructs. Non-compositionality explains why this must be so: if unity cannot be built from parts, it must be intrinsic to consciousness itself. The [[binding-problem|holistic character]] of experience is not an achievement of combination but a primitive feature of what consciousness is.
 
 **Bidirectional Interaction.** If consciousness cannot be assembled from physical parts, the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]'s claim that consciousness causally influences the physical world gains a structural rationale. A non-compositional consciousness that acts on the brain must do so as a whole—it cannot delegate causal work to sub-experiential components, because it has none. Bidirectional causation at a unified locus follows naturally from non-compositionality.
 
@@ -93,7 +93,7 @@ Phenomenal non-compositionality provides some of the strongest support for the M
 - [[combination-problem]] — The definitional treatment of panpsychism's central challenge
 - [[panpsychisms-combination-problem]] — Extended analysis of why combination fails
 - [[unity-of-consciousness]] — The phenomenon non-compositionality protects
-- [[phenomenal-binding-and-holism]] — Why experience comes as unified wholes
+- [[binding-problem]] — Why experience comes as unified wholes
 - [[hard-problem-of-consciousness]] — The physicalist face of the same structural gap
 - [[emergence]] — The general problem of deriving wholes from parts
 - [[interactionist-dualism]] — The Map's alternative to compositional accounts

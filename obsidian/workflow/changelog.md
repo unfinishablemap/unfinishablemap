@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T23:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 02:06 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks from [[phenomenal-binding-and-holism]] to [[binding-problem]]
+- **Files modified**: 23 (concepts: filter-theory, perception, temporal-consciousness, phenomenal-depth, phenomenal-non-compositionality, prehension, unity-of-consciousness, neural-refresh-rates, quantum-consciousness; topics: aesthetics-and-consciousness, phenomenology-of-understanding-and-meaning, quantum-holism-and-phenomenal-unity, dualist-perception, temporal-structure-of-consciousness, neural-refresh-rates-and-the-smoothness-problem, cognitive-integration-and-the-self, consciousness-and-integrated-information, phenomenology-of-musical-understanding, consciousness-and-memory, three-dimensional-world-representation-problem, phenomenal-binding-and-multimodal-integration, the-binding-problem-a-systematic-treatment; voids: smoothness-problem)
+- **Changes**: Updated all wikilink targets and display text; updated bibliography URL in phenomenal-binding-and-multimodal-integration
+- **Published**: yes
+
 ## 2026-03-29 01:51 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[phenomenal-binding-and-holism]]

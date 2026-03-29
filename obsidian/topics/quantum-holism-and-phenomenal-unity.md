@@ -4,14 +4,14 @@ description: "Classical binding mechanisms coordinate separate processes but can
 created: 2026-01-21
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-25T16:14:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[quantum-consciousness]]"
   - "[[combination-problem]]"
   - "[[emergence]]"
@@ -196,7 +196,7 @@ The Map holds that current evidence favours the quantum position while acknowled
 - [[binding-problem]] — The neural challenge of feature binding (BP1 and BP2)
 - [[the-binding-problem-a-systematic-treatment]] — Comprehensive taxonomy of five binding varieties
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding as the hardest case, with empirical phenomena (temporal recalibration, inverse effectiveness) that resist classical explanation
-- [[phenomenal-binding-and-holism]] — Why classical mechanisms fail and quantum mechanisms may succeed
+- [[binding-problem]] — Why classical mechanisms fail and quantum mechanisms may succeed
 - [[combination-problem]] — Panpsychism's parallel challenge
 - [[explanatory-gap]] — The conceptual gulf between physical and phenomenal
 - [[emergence]] — Weak vs strong emergence and consciousness

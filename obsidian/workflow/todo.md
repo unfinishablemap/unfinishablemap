@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced phenomenal-binding-and-holism
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce merged phenomenal-binding-and-holism into binding-problem on 2026-03-29. The following 20 active content files reference [[phenomenal-binding-and-holism]] and should be updated to [[binding-problem]] (with appropriate display text): concepts/filter-theory, concepts/perception, concepts/temporal-consciousness, concepts/phenomenal-depth, concepts/phenomenal-non-compositionality, concepts/prehension, concepts/unity-of-consciousness, concepts/neural-refresh-rates, concepts/quantum-consciousness, topics/aesthetics-and-consciousness, topics/phenomenology-of-understanding-and-meaning, topics/quantum-holism-and-phenomenal-unity, topics/dualist-perception, topics/temporal-structure-of-consciousness, topics/neural-refresh-rates-and-the-smoothness-problem, topics/cognitive-integration-and-the-self, topics/consciousness-and-integrated-information, topics/phenomenology-of-musical-understanding, topics/consciousness-and-memory, topics/three-dimensional-world-representation-problem, topics/phenomenal-binding-and-multimodal-integration, topics/the-binding-problem-a-systematic-treatment, voids/smoothness-problem.
-- **Source**: coalesce
-- **Generated**: 2026-03-29
-
 ### P2: Update broken wikilinks to archived memory-as-dual-domain-capability across content files
 - **Type**: refine-draft
 - **Status**: pending
@@ -1672,6 +1665,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Update references to coalesced phenomenal-binding-and-holism
+- **Type**: refine-draft
+- **Notes**: Coalesce merged phenomenal-binding-and-holism into binding-problem on 2026-03-29. The following 20 active content files reference [[phenomenal-binding-and-holism]] and should be updated to [[binding-problem]] (with appropriate display text): concepts/filter-theory, concepts/perception, concepts/temporal-consciousness, concepts/phenomenal-depth, concepts/phenomenal-non-compositionality, concepts/prehension, concepts/unity-of-consciousness, concepts/neural-refresh-rates, concepts/quantum-consciousness, topics/aesthetics-and-consciousness, topics/phenomenology-of-understanding-and-meaning, topics/quantum-holism-and-phenomenal-unity, topics/dualist-perception, topics/temporal-structure-of-consciousness, topics/neural-refresh-rates-and-the-smoothness-problem, topics/cognitive-integration-and-the-self, topics/consciousness-and-integrated-information, topics/phenomenology-of-musical-understanding, topics/consciousness-and-memory, topics/three-dimensional-world-representation-problem, topics/phenomenal-binding-and-multimodal-integration, topics/the-binding-problem-a-systematic-treatment, voids/smoothness-problem.
+- **Output**: Task context:
+Coalesce merged phenomenal-binding-and-holism into binding-problem on 2026-03-29. The following 20 active content files reference [[phenomenal-binding-and-holism]] and should be updated to [[binding-problem]] (with appropriate display text): concepts/filter-theory, concepts/perception, concepts/temporal-consciousness, concepts/phenomenal-depth, concepts/phenomenal-non-compositionality, concepts/prehension, concepts/unity-of-consciousness, concepts/neural-refresh-rates, concepts/quantum-consciousness, topics/aesthetics-and-consciousness, topics/phenomenology-of-understanding-and-meaning, topics/quantum-holism-and-phenomenal-unity, topics/dualist-perception, topics/temporal-structure-of-consciousness, topics/neural-refresh-rates-and-the-smoothness-problem, topics/cognitive-integration-and-the-self, topics/consciousness-and-integrated-information, topics/phenomenology-of-musical-understanding, topics/consciousness-and-memory, topics/three-dimensional-world-representation-problem, topics/phenomenal-binding-and-multimodal-integration, topics/the-binding-problem-a-systematic-treatment, voids/smoothness-problem.
 
 ### ✓ 2026-03-29: Write article on probability and decision-theory objections to Many Worlds
 - **Type**: expand-topic

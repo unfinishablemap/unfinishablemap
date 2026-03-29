@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-24T18:39:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,11 +27,11 @@ concepts:
   - "[[minimal-consciousness]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[emergence-void]]"
 ai_contribution: 100
@@ -110,7 +110,7 @@ Phenomenal unity also bears on the [[combination-problem|combination problem]]. 
 
 ## Proposed Explanations
 
-**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [[phenomenal-binding-and-holism]] for detailed analysis of classical and quantum binding mechanisms.
+**Neural synchrony** proposes that features are bound through synchronized gamma oscillations (30-100 Hz). Synchrony may explain computational binding—how the brain assigns features to objects—but synchronized firing in separate neurons is still firing in separate neurons. Correlation is not identity. See [[binding-problem]] for detailed analysis of classical and quantum binding mechanisms.
 
 **Multiple Drafts** (Dennett 1991) challenges the premise: perhaps there is no single moment at which experience is unified. Instead, multiple parallel drafts of perceptual content compete and are edited in real time, with unity imposed retrospectively by narrative self-modelling. On this view, asking where unity happens is a category error—there is no "Cartesian theatre" where streams converge. The Map's response: even post-hoc narrative requires a narrator. The retrospective construction itself presupposes a subject for whom the narrative is constructed, relocating rather than dissolving the unity problem.
 
@@ -144,7 +144,7 @@ The unity of consciousness connects directly to The Unfinishable Map's [[tenets|
 
 - [[binding-problem]] — Neural feature binding and the combination challenge
 - [[combination-problem]] — Panpsychism's version of the unity puzzle
-- [[phenomenal-binding-and-holism]] — Mechanistic analysis of how binding relates to phenomenal unity
+- [[binding-problem]] — Mechanistic analysis of how binding relates to phenomenal unity
 - [[quantum-holism-and-phenomenal-unity]] — Extended argument for structural failure of physical explanation
 - [[entanglement-binding-hypothesis]] — The testable hypothesis and experimental evidence for quantum binding
 - [[split-brain-consciousness]] — Natural experiments on unity dissociation

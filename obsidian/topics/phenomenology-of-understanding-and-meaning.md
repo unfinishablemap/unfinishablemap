@@ -4,7 +4,7 @@ description: "Understanding has irreducible phenomenal character—the click of 
 created: 2026-01-22
 modified: 2026-03-16
 human_modified:
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ concepts:
   - "[[global-workspace-theory]]"
   - "[[qualia]]"
   - "[[metacognition]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[phenomenal-normativity]]"
 related_articles:
   - "[[tenets]]"
@@ -42,7 +42,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[phenomenal-normativity]]"
   - "[[phenomenology-of-musical-understanding]]"
@@ -140,7 +140,7 @@ Despite their differences, all five modes share structural features revealing so
 
 **Meaning requires temporal structure.** Musical meaning depends on the specious present. Semantic meaning unfolds through the temporal phenomenology of comprehension. Even evaluative meaning occurs within the temporal flow of consciousness. Meaning-making is a temporal achievement, not an instantaneous state.
 
-**Meaning resists decomposition.** The meaning of a musical passage cannot be decomposed into the meanings of individual notes. The meaning of understanding cannot be decomposed into individual propositions grasped. In each case, [[phenomenal-binding-and-holism|phenomenal binding]] produces a unified significance that exceeds its components.
+**Meaning resists decomposition.** The meaning of a musical passage cannot be decomposed into the meanings of individual notes. The meaning of understanding cannot be decomposed into individual propositions grasped. In each case, [[binding-problem|phenomenal binding]] produces a unified significance that exceeds its components.
 
 **Meaning is active.** Consciousness does not passively receive meanings imposed from outside. It generates meaning through temporal binding, evaluative perception, anticipatory orientation, and recursive self-awareness.
 
@@ -228,7 +228,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [[phenomenology-of-epistemic-cognition]] — The felt weight of reasons
 - [[argument-from-reason]] — Why genuine reasoning requires consciousness
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
-- [[phenomenal-binding-and-holism]] — How discrete conscious states combine into structured wholes
+- [[binding-problem]] — How discrete conscious states combine into structured wholes
 - [[binding-problem]] — Perceptual binding and its relation to meaning unity
 - [[working-memory]] — Information maintenance vs. integrative comprehension
 - [[global-workspace-theory]] — Availability distinguished from integration

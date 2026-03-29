@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-03-26T08:17:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[haecceity]]"
 related_articles:
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
@@ -47,7 +47,7 @@ Within a single moment, consciousness integrates across:
 - **Perceptual features**: Shape, color, motion, location bind into objects
 - **Self-world boundary**: Distinguishing what is "me" from what is "not-me"
 
-This [[unity-of-consciousness|synchronic unity]] is what [[phenomenal-binding-and-holism|phenomenal binding]] addresses—the integration of simultaneous elements into a holistic experiential state.
+This [[unity-of-consciousness|synchronic unity]] is what [[binding-problem|phenomenal binding]] addresses—the integration of simultaneous elements into a holistic experiential state.
 
 ### Diachronic Integration
 
@@ -107,7 +107,7 @@ Traditional neuroscience proposes synchronous neural firing as the binding mecha
 
 No physical binding mechanism explains *why* synchronized firing feels unified rather than remaining separate processes that happen to correlate. The explanatory gap appears again: physical descriptions tell us *what* the brain does but not *why* there is something it is like to have integrated experience.
 
-[[phenomenal-binding-and-holism|Phenomenal binding]] may not reduce to neural mechanisms. [[quantum-holism-and-phenomenal-unity|Phenomenal unity resists physical explanation]] because even the most complete functional account leaves unexplained why integrated processing feels like anything at all. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
+[[binding-problem|Phenomenal binding]] may not reduce to neural mechanisms. [[quantum-holism-and-phenomenal-unity|Phenomenal unity resists physical explanation]] because even the most complete functional account leaves unexplained why integrated processing feels like anything at all. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
 
 ## Cognitive Integration Across Time
 
@@ -201,7 +201,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 
 ## Further Reading
 
-- [[phenomenal-binding-and-holism|Phenomenal Binding and Holism]] — How distributed phenomenal elements combine into unified experience
+- [[binding-problem|The Binding Problem]] — How distributed phenomenal elements combine into unified experience
 - [[temporal-consciousness|Temporal Consciousness]] — The structure of experience across time
 - [[personal-identity|Personal Identity]] — What makes you the same person across change
 - [[temporal-structure-of-consciousness|Consciousness and Temporal Integration]] — How consciousness binds across extended time scales

@@ -4,7 +4,7 @@ description: "Whitehead's concept of how each moment of reality grasps its prede
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-02-14T13:59:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[intentionality]]"
   - "[[temporal-consciousness]]"
   - "[[combination-problem]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
 related_articles:
   - "[[tenets]]"
@@ -112,7 +112,7 @@ Prehension intersects with the Map's framework in several ways, though the Map d
 - [[combination-problem]] — The challenge prehension is meant to address
 - [[temporal-consciousness]] — Bergson's durée and its parallels with prehensive inheritance
 - [[anoetic-noetic-autonoetic-consciousness]] — Memory as re-prehension of past occasions
-- [[phenomenal-binding-and-holism]] — How prehension achieves experiential unity
+- [[binding-problem]] — How prehension achieves experiential unity
 - [[causal-closure]] — The doctrine prehension challenges by positing non-mechanistic causation
 
 ## References

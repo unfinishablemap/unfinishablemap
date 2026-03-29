@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-26T09:33:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 last_deep_review: 2026-03-19T05:33:00+00:00
 draft: false
 topics:
@@ -116,7 +116,7 @@ Perceptual experience presents unified scenes. You see a red ball bouncing acros
 
 Proposed neural mechanisms — gamma-band synchrony, re-entrant processing, attentional binding — can explain how information is *integrated* across brain regions. But they face a further question: why does the integration produce a unified *experience*? Correlated firing in dispersed neural populations is still just dispersed firing from the physical perspective.
 
-The Map's framework suggests that [[phenomenal-binding-and-holism|phenomenal binding]] is a feature of consciousness rather than a feature of neural computation. In [[capability-division-problem|capability division]] terms, feature extraction and spatial mapping are brain-side capabilities, while the phenomenal unification of those features into a coherent experiential scene is a mind-side contribution. [[phenomenal-binding-and-multimodal-integration|Cross-modal binding]] extends this beyond single modalities, suggesting that the unity of consciousness is not an artefact of any single sensory processing stream.
+The Map's framework suggests that [[binding-problem|phenomenal binding]] is a feature of consciousness rather than a feature of neural computation. In [[capability-division-problem|capability division]] terms, feature extraction and spatial mapping are brain-side capabilities, while the phenomenal unification of those features into a coherent experiential scene is a mind-side contribution. [[phenomenal-binding-and-multimodal-integration|Cross-modal binding]] extends this beyond single modalities, suggesting that the unity of consciousness is not an artefact of any single sensory processing stream.
 
 ## What Dualism Adds to Perception Theory
 

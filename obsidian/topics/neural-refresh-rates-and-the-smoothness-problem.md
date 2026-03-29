@@ -4,7 +4,7 @@ description: "Discrete neural oscillations at 7-13 Hz clash with smooth consciou
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[temporal-consciousness]]"
   - "[[binding-problem]]"
   - "[[neural-correlates-of-consciousness]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[explanatory-gap]]"
   - "[[qualia]]"
@@ -113,7 +113,7 @@ The smoothness problem also connects to the Map's treatment of [[the-binding-pro
 - [[timing-gap-problem]]
 - [[selective-correction-and-reconstruction-paradox]]
 - [[temporal-consciousness]]
-- [[phenomenal-binding-and-holism]]
+- [[binding-problem]]
 
 ## References
 

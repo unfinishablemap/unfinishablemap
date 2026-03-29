@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 last_deep_review: 2026-03-11T21:35:00+00:00
 topics:
@@ -24,7 +24,7 @@ concepts:
   - "[[intentionality]]"
   - "[[unity-of-consciousness]]"
   - "[[inverted-qualia]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[explanatory-gap]]"
   - "[[dualism]]"

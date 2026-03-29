@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[combination-problem]]"
   - "[[unity-of-consciousness]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[stapp-quantum-mind]]"
   - "[[consciousness-as-activity]]"
   - "[[motor-control-quantum-zeno]]"

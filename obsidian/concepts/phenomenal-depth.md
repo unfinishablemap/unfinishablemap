@@ -4,7 +4,7 @@ description: "How conscious experience possesses layered richness beyond surface
 created: 2026-02-13
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-17T03:43:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 last_deep_review: 2026-03-17T03:43:00+00:00
 topics:
@@ -15,7 +15,7 @@ concepts:
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[phenomenal-overflow]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[phenomenal-transparency]]"
   - "[[access-consciousness]]"
   - "[[explanatory-gap]]"
@@ -92,7 +92,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [[phenomenal-consciousness]]
 - [[phenomenal-overflow]]
 - [[qualia]]
-- [[phenomenal-binding-and-holism]]
+- [[binding-problem]]
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[phenomenology-of-understanding-and-meaning]]
 - [[pain-consciousness-and-causal-power]]

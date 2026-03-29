@@ -4,7 +4,7 @@ description: "How does consciousness construct a unified three-dimensional world
 created: 2026-03-09
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-19T03:42:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 last_deep_review: 2026-03-10T16:38:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ concepts:
   - "[[mental-imagery]]"
   - "[[explanatory-gap]]"
 related_articles:
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[memory-as-dual-domain-capability]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
@@ -97,7 +97,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet sugges
 
 The Map interprets the 3D world representation problem as a particularly vivid instance of the [[memory-as-dual-domain-capability|dual-domain architecture]] it finds throughout cognition. Physical mechanisms handle the computational work—depth estimation, sensor fusion, spatial mapping, motor guidance. Consciousness contributes the phenomenal world itself: the felt three-dimensionality, the sense of presence, the perspectival organisation, the qualitative character of spatial experience. Neither domain alone produces what we experience. The brain without consciousness would process spatial information without inhabiting a world. Consciousness without the brain would have no spatial content to structure. The experienced 3D world emerges from their interaction.
 
-This dual-domain reading also addresses the construction problem. The [[phenomenal-binding-and-holism|phenomenal binding]] required for unified spatial experience—binding visual depth with auditory localisation with proprioceptive body position into a single spatial arena—may be achieved not through a computational mechanism but through the unity of consciousness itself. The non-physical domain, being inherently unified rather than distributed across neurons, provides the natural substrate for the kind of holistic spatial integration that computational binding mechanisms struggle to achieve.
+This dual-domain reading also addresses the construction problem. The [[binding-problem|phenomenal binding]] required for unified spatial experience—binding visual depth with auditory localisation with proprioceptive body position into a single spatial arena—may be achieved not through a computational mechanism but through the unity of consciousness itself. The non-physical domain, being inherently unified rather than distributed across neurons, provides the natural substrate for the kind of holistic spatial integration that computational binding mechanisms struggle to achieve.
 
 ## Further Reading
 

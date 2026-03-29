@@ -4,7 +4,7 @@ description: "Neural activity is discrete—oscillations, spikes, time slices—
 created: 2026-03-09
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-18T03:44:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 last_deep_review: 2026-03-18T03:44:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[temporal-consciousness]]"
   - "[[binding-problem]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[process-philosophy]]"
   - "[[explanatory-gap]]"

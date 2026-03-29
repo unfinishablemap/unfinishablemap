@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-28T13:57:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -121,7 +121,7 @@ The brain functions like a rendering engine: it computes visual scenes from data
 This explains:
 - **Why brain damage produces specific deficits**: Rendering failures, not consciousness failures. The [[perceptual-failure-and-the-interface|blur paradox]] reveals that when rendering degrades, the interface itself becomes visible.
 - **Why qualia seem irreducible**: The engine processes vectors and matrices; the *experience* of color and motion exceeds the processing that enables it.
-- **The binding problem**: Unity is in consciousness itself; the brain renders aspects of unified experience through separate channels. [[phenomenal-binding-and-holism|Phenomenal binding]] develops this: classical neural mechanisms coordinate processing but cannot produce genuine phenomenal unity.
+- **The binding problem**: Unity is in consciousness itself; the brain renders aspects of unified experience through separate channels. [[binding-problem|Phenomenal binding]] develops this: classical neural mechanisms coordinate processing but cannot produce genuine phenomenal unity.
 
 ## Objections and Responses
 
@@ -188,7 +188,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological dissection of separable filter components
 - [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural brain damage
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: five altered states converging on multi-channel filter architecture
-- [[phenomenal-binding-and-holism]] — Classical binding fails; quantum holism and filter theory on unity
+- [[binding-problem]] — Classical binding fails; quantum holism and filter theory on unity
 - [[curated-mind]] — Asymmetric curation of experience as evidence for filter architecture
 - [[near-death-experiences]] — Enhanced experience during brain compromise
 - [[interactionist-dualism]] — The broader framework

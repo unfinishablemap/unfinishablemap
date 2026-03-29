@@ -4,7 +4,7 @@ description: "The brain samples the world in discrete oscillatory cycles at 7-13
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-19T08:08:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 last_deep_review: 2026-03-19T08:08:00+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[timing-gap-problem]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[smoothness-problem]]"
   - "[[capability-division-problem]]"
   - "[[continuity-void]]"

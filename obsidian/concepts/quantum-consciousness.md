@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-24T16:03:00+00:00
+ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[brain-interface-boundary]]"
   - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[mysterianism]]"
-  - "[[phenomenal-binding-and-holism]]"
+  - "[[binding-problem]]"
   - "[[consciousness-in-non-collapsed-quantum-states]]"
   - "[[quantum-completeness]]"
 related_articles:
@@ -145,7 +145,7 @@ The Map resolves both through **objective reduction with consciousness modulatio
 
 ## Entanglement and the Binding Problem
 
-The [[binding-problem|binding problem]] has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [[phenomenal-binding-and-holism]] for why classical approaches structurally cannot produce phenomenal unity.
+The [[binding-problem|binding problem]] has two components: BP1 asks how features are grouped (the segregation problem); BP2 asks why coordination produces *unity* rather than parallel processes that happen to be correlated (the combination problem). Classical mechanisms—gamma synchrony, thalamocortical resonance, global workspace—address BP1 but fail at BP2. Coordinating separate neurons doesn't make them one thing. See [[binding-problem]] for why classical approaches structurally cannot produce phenomenal unity.
 
 Quantum entanglement is different—entangled systems form genuinely unified wholes that cannot be decomposed into separate parts. If consciousness arises from entangled quantum states, phenomenal unity reflects physical unity at the quantum level. The structural match is precise: the entangled whole has properties its parts lack individually, mirroring how experience comes unified rather than assembled from separate quale-atoms.
 
@@ -211,7 +211,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 - [[coupling-modes]] — Basis, timing, and probability control: how consciousness might couple
 - [[brain-interface-boundary]] — Why consciousness selects only within its own brain
 - [[quantum-holism-and-phenomenal-unity]] — Entanglement and phenomenal unity
-- [[phenomenal-binding-and-holism]] — Classical vs. quantum binding mechanisms
+- [[binding-problem]] — Classical vs. quantum binding mechanisms
 
 **Objections and resolutions:**
 - [[quantum-measurement-and-subjective-probability]] — Why subjective probability interpretations fail phenomenologically
