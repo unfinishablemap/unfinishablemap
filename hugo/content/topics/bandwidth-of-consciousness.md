@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-26 02:31:00+00:00
+ai_modified: 2026-03-29 03:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ concepts:
 - '[[libet-experiments]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-09
-date: &id001 2026-03-04
+date: &id001 2026-03-29
 description: The 100-million-fold gap between sensory input and conscious output reveals
   the shape of the mind-brain interface—a selection channel, not a production line.
 draft: false
@@ -67,9 +67,9 @@ Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness o
 | Skilled gaming (e.g. StarCraft) | ~10 bits/second |
 | Choice-reaction tasks | ~5 bits/second |
 
-The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. Across radically different tasks—linguistic, motor, perceptual, cognitive—conscious throughput hovers between 5 and 45 bits per second.
+The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. Across radically different tasks—linguistic, motor, perceptual, cognitive—conscious throughput hovers between 5 and 45 bits per second. This convergence is not a recent discovery. Hick (1952) first measured the human information-processing rate at ~5 bits per second using choice reaction time experiments. Over seven decades of subsequent measurement—through typing studies, memory competitions, professional e-sports, and speech analysis—the ceiling has held. The convergence across tasks, populations, and historical periods is what makes it a structural feature rather than an artefact of particular experimental designs.
 
-Crucially, the bottleneck is not motor. Motor systems execute complex sequences far exceeding 10 bits per second when running automatically—a pianist's fingers move faster than conscious intention can direct. Individual neurons transmit far more than 10 bits per second. The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—the point where information becomes available to the experiencing subject.
+Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary "The Brain Works at More Than 10 Bits Per Second" accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far exceeding the conscious ceiling. Individual neurons transmit ~200 bits per second. The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—the point where information becomes available to the experiencing subject—not in the computational substrate surrounding it.
 
 ## The Inbound Channel
 
@@ -85,13 +85,15 @@ The Map need not resolve this debate to draw the key conclusion. Whether inbound
 
 If the brain *produces* consciousness, the bandwidth constraint is puzzling. A system with 86 billion neurons, 100 trillion synapses, and petabit-scale internal processing produces a consciousness that processes at 10 bits per second. The production metaphor struggles to explain why the output is so catastrophically narrower than the machinery. Many parallel-to-serial architectures narrow bandwidth by factors of hundreds or thousands; the brain narrows it by a factor of 10⁸.
 
-The inbound side deepens the puzzle. Why would a system that generates rich experience from vast computational resources restrict that experience's causal influence to 10 bits per second? The production model must explain why the product is so thoroughly throttled.
+The inbound side deepens the puzzle. Why would a system that generates rich experience from vast computational resources restrict that experience's causal influence to 10 bits per second? The production model must explain why the product is so thoroughly throttled. Sauerbrei and Pruszynski's demonstration that unconscious processing operates at far higher bandwidth makes the puzzle sharper: the brain clearly *can* process information at rates exceeding 10 bits per second. It does so constantly for motor control and sensory processing. The bottleneck appears precisely and exclusively where consciousness enters the picture.
 
 ### Filter Theory's Natural Fit
 
 The [filter model](/concepts/filter-theory/) handles the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck is the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. Consciousness may be vastly richer than what the brain's interface can transmit. The 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
 William James's prism analogy applies precisely: white light contains all wavelengths; the prism reveals specific colours. The prism's bandwidth is finite, but the light it refracts exceeds what any single prism can display. Similarly, consciousness operating through the brain's interface manifests at the rate the interface permits.
+
+The Sauerbrei and Pruszynski critique sharpens this interpretation. The fact that unconscious motor processing vastly exceeds 10 bits per second while conscious processing does not means the bottleneck cannot be a general neural-architectural limit. The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second at the point where consciousness participates. On the filter model, this is expected: the filter constrains consciousness specifically, not neural processing in general. The brain's full computational bandwidth operates on both sides of the filter—below it for unconscious processing, through it for conscious access.
 
 The converse prediction also holds: degraded interface operation should produce impoverished but epistemically revealing experience. The [blur paradox](/topics/perceptual-failure-and-the-interface/) confirms this—when perception degrades through blur or neural damage, the interface itself becomes visible, exposing phenomenal properties that belong to the subject rather than to the world.
 
@@ -102,6 +104,8 @@ This predicts that altered states involving loosened interface constraints—[dr
 A system that *computes* its outputs should scale its throughput with its processing resources. But a system that *selects* among pre-computed options needs only enough bandwidth to make choices—and 10 bits per second suffices for roughly 3–4 selections per second among small sets of alternatives.
 
 This matches the phenomenology of deliberate action. Conscious decision-making feels like choosing among presented options, not computing results from raw data. The brain narrows possibility to a handful of candidates; consciousness picks one. The [Libet readiness potential experiments](/concepts/libet-experiments/) captured this architecture: neural preparation precedes conscious awareness because preparation *must* precede selection. Options must exist before one can be chosen.
+
+The contrast with unconscious motor bandwidth reinforces the [selection model](/concepts/consciousness-selecting-neural-patterns/). A pianist's fingers execute complex sequences at rates far exceeding conscious throughput—because those sequences have already been selected and delegated to automatic execution. The conscious contribution was the original selection of what to practise and the ongoing high-level monitoring. Unconscious systems handle execution at full neural bandwidth; consciousness handles selection at interface bandwidth. The two systems operate at different rates because they perform fundamentally different functions: computation versus choice.
 
 ### The Global Workspace Objection
 
@@ -155,7 +159,7 @@ Mandik (2010) identified a further asymmetry within the outbound channel: sensor
 
 Why would evolution produce this asymmetry? Zheng and Meister propose that serial conscious processing was inherited from primitive organisms navigating chemical gradients—ancient one-dimensional decision-making that never scaled up. This evolutionary account is plausible but faces a difficulty: evolution routinely repurposes and scales inherited architectures. The mammalian eye began as a simple light-sensitive patch; evolution scaled it into a high-resolution imaging system. If conscious throughput were purely a matter of neural architecture, selective pressure should have increased it beyond 10 bits per second over hundreds of millions of years.
 
-The Map offers an alternative explanation. If the ~10 bits per second ceiling reflects the capacity of a mind-brain *interface* rather than a neural-architectural constraint, evolutionary pressure on brain architecture alone could not raise it. Evolution can optimise the brain's side—preparing better options faster, improving the quality of candidates presented to consciousness—but it cannot widen a channel whose narrow end is non-physical. This would explain why the ceiling has held despite enormous increases in brain complexity from simple organisms to humans.
+The Map offers an alternative explanation. If the ~10 bits per second ceiling reflects the capacity of a mind-brain *interface* rather than a neural-architectural constraint, evolutionary pressure on brain architecture alone could not raise it. Evolution can optimise the brain's side—preparing better options faster, improving the quality of candidates presented to consciousness—but it cannot widen a channel whose narrow end is non-physical. This would explain why the ceiling has held despite enormous increases in brain complexity from simple organisms to humans—and why the same ceiling appears in measurements spanning from Hick's 1952 choice-reaction experiments through 2024 professional e-sports telemetry. Seventy years of technological and cultural change have not shifted it.
 
 ## The Bandwidth and Free Will
 
@@ -221,10 +225,26 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Carhart-Harris, R.L. et al. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
 1. Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20(5), 324–335.
 1. Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. Viking Press.
+1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26.
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
+1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Integrated Sauerbrei & Pruszynski (2025) Nature Neuroscience critique throughout: Outbound Bottleneck, Against Production Models, Filter Theory, and Selection sections
+- Added historical convergence context (Hick 1952 → present, 70+ years of measurement)
+- Strengthened filter-theory connection: S&P data shows bottleneck is consciousness-specific, not a general neural limit
+- Strengthened consciousness-selecting-neural-patterns connection: pianist example contrasting execution bandwidth vs selection bandwidth
+- Added Hick (1952) and Sauerbrei & Pruszynski (2025) to References
+- Based on research/bandwidth-constraints-10-bits-2026-03-29.md
+
+Key improvements: The conscious-vs-unconscious throughput distinction from S&P now threads through the philosophical argument, sharpening the case that the bottleneck is at the interface rather than in the hardware.
+
+This log should be removed after human review.
+-->

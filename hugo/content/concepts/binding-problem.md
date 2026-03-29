@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-29 01:51:00+00:00
+ai_modified: 2026-03-29 03:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ concepts:
 - '[[illusionism]]'
 - '[[explanatory-gap]]'
 - '[[agent-causation]]'
-- '[[entanglement-binding-hypothesis]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[phenomenal-consciousness]]'
 - '[[prehension]]'
 - '[[decoherence]]'
@@ -49,7 +49,7 @@ description: How do distributed neural processes combine into unified experience
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 01:43:00+00:00
+last_deep_review: 2026-03-29 03:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ Quantum entanglement offers something classical physics cannot: genuine holism a
 
 The [Orch OR hypothesis](/concepts/quantum-consciousness/) proposes microtubules sustain quantum superpositions that become entangled across neuronal populations, with each collapse event constituting a moment of unified experience. [Stapp's quantum Zeno approach](/concepts/stapp-quantum-mind/) proposes conscious attention holds neural patterns through repeated measurement. Both propose consciousness participating in determining which configurations become actual through genuinely unified quantum processes.
 
-The [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle—providing the only known physical mechanism that structurally matches phenomenal unity. Process philosophy (Whitehead) understands each quantum collapse event as an "actual occasion"—a moment of experience internally unified rather than assembled from separates (see [prehension](/concepts/prehension/)).
+[Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) develops this approach in detail: entangled quantum states are non-separable—the composite system cannot be decomposed into individual states for each particle—providing the only known physical mechanism that structurally matches phenomenal unity. Process philosophy (Whitehead) understands each quantum collapse event as an "actual occasion"—a moment of experience internally unified rather than assembled from separates (see [prehension](/concepts/prehension/)).
 
 ### The Thalamus as Binding Interface
 
@@ -219,8 +219,7 @@ The binding problem illuminates why the Map's [tenets](/tenets/) take the positi
 
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and its varieties; binding is the synchronic dimension
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into macro-experience
-- [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — Entanglement as the basis for unity; structural argument and experimental evidence
-- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended structural argument, decoherence debate, and experimental evidence
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Extended structural argument for quantum holism, decoherence debate, and experimental evidence
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on when binding fails
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Sleep as dissociation between BP1 and BP2

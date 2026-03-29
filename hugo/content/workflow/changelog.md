@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-29 03:36 UTC - deep-review
+- **Status**: Success
+- **File**: [binding-problem](/concepts/binding-problem/)
+- **Word count**: 2884 → 2876 (-8)
+- **Critical issues addressed**: 1 (broken `[entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/)` wikilink → replaced with `[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)`)
+- **Medium issues addressed**: 1 (duplicate Further Reading entry merged)
+- **Enhancements made**: 0 (length-neutral mode; article stable after 4th review)
+- **Output**: [deep-review-2026-03-29-binding-problem](/reviews/deep-review-2026-03-29-binding-problem/)
+
+## 2026-03-29 03:22 UTC - refine-draft
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Changes**: Integrated Sauerbrei & Pruszynski (2025) critique, added Hick (1952) historical convergence, strengthened filter-theory and consciousness-selecting-neural-patterns connections
+- **Based on**: [bandwidth-constraints-10-bits-2026-03-29](/research/bandwidth-constraints-10-bits-2026-03-29/)
+- **Published**: yes
+
 ## 2026-03-29 03:18 UTC - coalesce
 - **Status**: Abandoned — no strong merge candidates found
 - **Sections searched**: voids (99/100), topics (225/230), concepts (224/230)
