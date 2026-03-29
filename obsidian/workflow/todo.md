@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T09:16:00+00:00
+ai_modified: 2026-03-29T15:00:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Expand concept — post-decoherence selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Target**: concepts/post-decoherence-selection.md
+- **Notes**: Core concept article defining post-decoherence selection as a distinct interaction framework. Should synthesize research from the research task above. Cover: what it means for consciousness to act after decoherence has destroyed quantum superposition, the metaphysical advantages (immunity to timing objections), the epistemological costs (reduced falsifiability), comparison with pre-decoherence approaches (Stapp, Orch-OR), and how it fits the Map's five tenets (especially Tenets 2 and 3). This is a concept the site already discusses across many articles but lacks a dedicated concept page.
+- **Generated**: 2026-03-29
+
+### P1: Expand topic — quantum Darwinism and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Target**: topics/quantum-darwinism-and-consciousness.md
+- **Notes**: Explore Zurek's quantum Darwinism (einselection, pointer states, redundant environmental encoding) as a framework for understanding post-decoherence selection. How does the proliferation of classical information into the environment constrain or enable a non-physical selection mechanism? Does einselection determine the menu of options consciousness selects from? Integrate with existing decoherence and timing-gap-problem content. Tenet alignment: Tenets 2 and 3.
+- **Generated**: 2026-03-29
+
+### P1: Expand concept — weak measurement and post-selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Target**: concepts/weak-measurement-and-post-selection.md
+- **Notes**: Aharonov's two-state vector formalism, weak values, and post-selection as a physical framework relevant to post-decoherence consciousness. Weak measurements can extract information without full collapse; post-selected ensembles reveal anomalous weak values. Explore whether consciousness could operate as a post-selection boundary condition rather than a collapse trigger. Connect to atemporal-causation and retrocausal content on the site. Tenet alignment: Tenets 2, 3, and 4.
+- **Generated**: 2026-03-29
+
+### P1: Expand topic — stochastic amplification and neural selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Target**: topics/stochastic-amplification-and-neural-selection.md
+- **Notes**: Investigate how thermal noise and stochastic resonance in neural systems could serve as an amplification layer for post-decoherence selection. Cortical neurons operate near criticality; small biases in stochastic processes (synaptic vesicle release, ion channel gating) could be amplified to macroscopic behavioral differences. This is a mechanism the Map should develop: consciousness doesn't need to manipulate quantum states directly if it can bias the probabilistic outcomes of already-classical stochastic processes that happen to have quantum origins. Connect to amplification-mechanisms-consciousness-physics and motor-selection.
+- **Generated**: 2026-03-29
+
+### P1: Expand concept — contextual selection in quantum foundations
+- **Type**: expand-topic
+- **Status**: pending
+- **Target**: concepts/contextual-selection-in-quantum-foundations.md
+- **Notes**: Explore quantum contextuality (Kochen-Specker, Spekkens) as a resource for post-decoherence selection. Contextuality means measurement outcomes depend on what else is measured alongside them — this context-dependence survives into the classical regime in certain frameworks. Could consciousness provide the "context" that selects among compatible classical outcomes? Connect to the Map's existing quantum-consciousness and comparing-quantum-consciousness-mechanisms articles. Novel speculative territory.
+- **Generated**: 2026-03-29
+
+### P1: Cross-review post-decoherence selection articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: After the above expand tasks complete, review all new post-decoherence selection articles for internal consistency, cross-linking, and integration with existing site content. Ensure the new concept and topic articles reference each other and connect to: decoherence, timing-gap-problem, motor-selection, atemporal-causation, quantum-consciousness, comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics. Check that no claims contradict existing articles.
+- **Generated**: 2026-03-29
+
+### P2: Apex article — post-decoherence selection programme
+- **Type**: apex-evolve
+- **Status**: pending
+- **Target**: apex/post-decoherence-selection.md
+- **Notes**: Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
+- **Generated**: 2026-03-29
 
 ### P2: Deep review evolutionary-case-for-quantum-neural-effects.md
 - **Type**: deep-review
@@ -1665,6 +1713,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research post-decoherence selection mechanisms
+- **Type**: research-topic
+- **Notes**: Deep dive into post-decoherence selection — mechanisms beyond the usual Stapp (quantum Zeno), Orch-OR (Penrose-Hameroff), and Fisher/Posner phosphorus spin proposals. Search for: (1) newer theoretical proposals for how consciousness could select among already-decohered outcomes, (2) quantum Darwinism and einselection as potential frameworks, (3) stochastic resonance or noise-driven selection in neural systems, (4) weak measurement and post-selection frameworks (Aharonov weak values), (5) retrocausal and time-symmetric models (Huw Price, Wharton, Kastner), (6) quantum decision theory and contextual selection, (7) any speculative mechanisms the researcher can construct that fit the Map's dualist tenets. Cast a wide net — the goal is to find mechanisms that are genuinely novel relative to existing site coverage.
+- **Output**: post-decoherence selection mechanisms
 
 ### ✓ 2026-03-29: Condense attention-and-the-consciousness-interface.md (4126 words, 103% of hard threshold)
 - **Type**: condense
