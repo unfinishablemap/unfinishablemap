@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T23:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 02:51 UTC - research-topic
+- **Status**: Success
+- **Topic**: Bandwidth constraints — grounding the ~10 bits/second conscious processing figure
+- **Output**: [[bandwidth-constraints-10-bits-2026-03-29]]
+- **Sources consulted**: 12
+- **Note**: Complements existing [[asymmetric-bandwidth-consciousness-2026-03-02]] research; this file focuses on empirical grounding, measurement methodology, task-by-task data, and the Sauerbrei & Pruszynski (2025) critique
+
 ## 2026-03-29 02:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/prehension]]

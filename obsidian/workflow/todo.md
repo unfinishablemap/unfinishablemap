@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research bandwidth constraints — grounding the ~10 bits/second conscious processing figure
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The ~10 bits/second bandwidth constraint on conscious processing is cited across 5+ articles (consciousness-selecting-neural-patterns, free-will, bandwidth-of-consciousness, attention-as-interface, resolution-bandwidth-interface) but the figure's provenance and implications have never been independently researched. Ground it: (1) Original sources (Nørretranders, Zimmermann, Reed/Durlach). (2) What exactly is being measured — bits of what? (3) How does this compare to unconscious processing bandwidth? (4) What does the ratio predict about the interface architecture? (5) Is the figure contested? Target: research note to support existing articles and the planned bandwidth-constraints article.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-29
-
 ### P3: Deep review experimental-consciousness-science-2025-2026.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1658,6 +1651,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Research bandwidth constraints — grounding the ~10 bits/second conscious processing figure
+- **Type**: research-topic
+- **Notes**: The ~10 bits/second bandwidth constraint on conscious processing is cited across 5+ articles (consciousness-selecting-neural-patterns, free-will, bandwidth-of-consciousness, attention-as-interface, resolution-bandwidth-interface) but the figure's provenance and implications have never been independently researched. Ground it: (1) Original sources (Nørretranders, Zimmermann, Reed/Durlach). (2) What exactly is being measured — bits of what? (3) How does this compare to unconscious processing bandwidth? (4) What does the ratio predict about the interface architecture? (5) Is the figure contested? Target: research note to support existing articles and the planned bandwidth-constraints article.
+- **Output**: bandwidth constraints — grounding the ~10 bits/second conscious processing figure
 
 ### ✓ 2026-03-29: Update broken wikilinks to archived memory-as-dual-domain-capability across content files
 - **Type**: refine-draft
