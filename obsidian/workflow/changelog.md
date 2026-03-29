@@ -5,6 +5,10 @@ ai_modified: 2026-03-29T13:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 15:26 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched topics/ (228/230), concepts/ (226/230), and voids/ (99/100) across 5 iterations. Examined 30+ article pairs including clinical dissociation cluster, phenomenal normativity cluster, self-stultification cluster, and shortest articles. All pairs proved well-differentiated on close reading despite title similarity. Content is modular and complementary, not redundant.
+
 ## 2026-03-29 15:11 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/neuroplasticity]], [[concepts/stapp-quantum-mind]], [[concepts/mental-effort]], [[concepts/mental-causation]], [[concepts/bidirectional-interaction]], [[concepts/neurophenomenology-and-contemplative-neuroscience]], [[concepts/consciousness-selecting-neural-patterns]], [[topics/contemplative-practice-as-philosophical-evidence]], [[concepts/attentional-economics]]
