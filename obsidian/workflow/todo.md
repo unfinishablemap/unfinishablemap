@@ -4796,3 +4796,27 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The self-undermining character of epiphenomenalism appears across mental-causation, arguments-against-materialism, and interactionist-dualism but has no dedicated concept page. Arguably the single strongest argument for bidirectional interaction. Target section: concepts/ (226/230, 4 slots remaining). See optimistic-2026-03-25-morning.md
 - **Generated**: 2026-03-25
+
+### P3: Write article on phenomenology of explanatory satisfaction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The reflexive gap argument (consciousness-defeats-explanation) depends on understanding being phenomenal. A detailed treatment of what explanatory satisfaction is like—felt transition from puzzlement to comprehension, "aha" moment structure, difference from mere belief-updating. Builds on consciousness-defeats-explanation, phenomenology-of-understanding-and-meaning, consciousness-and-the-problem-of-induction. Tenet alignment: Dualism, Bidirectional Interaction. Target section: topics/ (226/230). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
+
+### P3: Write article on phenomenology of anticipation under collapse vs many-worlds
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The lived experience of expecting one determinate future provides phenomenological evidence against many-worlds branching. Builds on consciousness-and-probability-interpretation, indexical-identity-quantum-measurement, no-many-worlds. Tenet alignment: No Many Worlds. Target section: topics/ (226/230). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links from optimistic review 2026-03-29 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: convergent-phenomenological-evidence↔the-hard-problem-in-non-western-philosophy (shared convergence methodology), consciousness-physics-interface-formalism↔the-reverse-inference (formalism expresses what reverse inference demands), pragmatisms-path-to-dualism↔consciousness-defeats-explanation (parallel reflexive arguments), pain-consciousness-and-causal-power↔clinical-neuroplasticity-evidence-for-bidirectional-causation (complementary clinical evidence), experimental-consciousness-science-2025-2026↔consciousness-physics-interface-formalism (data meets constraints). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for specification gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The gap between stating mathematical constraints on consciousness-physics coupling and writing down the actual coupling function. Identified precisely in consciousness-physics-interface-formalism, referenced across multiple formalism articles but lacking canonical definition. Target section: concepts/ (225/230). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
