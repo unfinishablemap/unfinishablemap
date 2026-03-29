@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T13:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 16:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/stochastic-amplification-and-neural-selection]]
+- **Target**: [[topics/amplification-mechanisms-consciousness-physics]]
+- **Archived**: [[archive/topics/stochastic-amplification-and-neural-selection]]
+- **References to review**: 5 files (post-decoherence-selection-programme, consciousness-selecting-neural-patterns, contextual-selection-in-quantum-foundations, quantum-darwinism-and-consciousness, evolutionary-case-for-quantum-neural-effects)
+
 ## 2026-03-29 16:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]

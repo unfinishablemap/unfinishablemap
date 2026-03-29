@@ -44,11 +44,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-29
 
-### P2: Deep review stochastic-amplification-and-neural-selection.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Topics article on how stochastic neural amplification mechanisms could propagate consciousness's quantum-level influence to neural-scale decisions. Verify accuracy of neural stochastic amplification claims, coherence, cross-references to amplification-mechanisms and consciousness-selecting-neural-patterns, and tenet alignment.
-- **Source**: staleness
+### P2: Update references to coalesced stochastic-amplification-and-neural-selection
+- **Type**: cross-review
+- **Notes**: Coalesce merged stochastic-amplification-and-neural-selection into amplification-mechanisms-consciousness-physics. The following files reference the archived article and may need wikilinks updated to point to the expanded article: post-decoherence-selection-programme.md (apex), consciousness-selecting-neural-patterns.md (concepts), contextual-selection-in-quantum-foundations.md (concepts), quantum-darwinism-and-consciousness.md (topics), evolutionary-case-for-quantum-neural-effects.md (topics)
+- **Source**: coalesce
 - **Generated**: 2026-03-29
 
 ### P2: Deep review contextual-selection-in-quantum-foundations.md
