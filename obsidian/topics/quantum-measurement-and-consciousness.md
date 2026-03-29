@@ -81,7 +81,7 @@ If the hard problem reveals something fundamental about the mind-body relation, 
 
 ## The Gap Decoherence Cannot Close
 
-[[decoherence]] is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **[[post-decoherence-selection|outcome selection]]**: why *this particular* result occurs. After decoherence, the density matrix is diagonal—an *improper mixture* that resembles a classical probability distribution but does not license the conclusion that one outcome has already occurred. The system remains entangled with its environment; no definite result has been selected. Something must still actualise one alternative.
+[[decoherence]] is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **[[post-decoherence-selection|outcome selection]]**: why *this particular* result occurs. [[quantum-darwinism-and-consciousness|Quantum Darwinism]] extends the decoherence programme to its fullest development—showing how environmental redundancy makes pointer states objectively accessible—yet inherits the same limitation. After decoherence, the density matrix is diagonal—an *improper mixture* that resembles a classical probability distribution but does not license the conclusion that one outcome has already occurred. The system remains entangled with its environment; no definite result has been selected. Something must still actualise one alternative.
 
 The parallel with philosophy of mind is precise. Functionalism accounts for the structure of mental states but leaves the [[explanatory-gap]] intact—it explains functional organisation without explaining why that organisation is accompanied by experience. Decoherence accounts for the structure of measurement outcomes but leaves the selection gap intact. Both solve the easy problems while leaving the hard problem untouched.
 
@@ -189,6 +189,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
 - [[the-convergence-argument-for-dualism]] — How this structural parallel contributes to the cumulative case for dualism
 - [[the-participatory-universe]] — Wheeler's thesis that observers constitute reality
+- [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How Zurek's framework specifies the menu from which consciousness selects
 - [[post-decoherence-selection]] — The specific locus where consciousness could act after decoherence
 - [[testing-consciousness-collapse]] — Three-tier prediction hierarchy, experimental obstacles, and the convergence strategy
 - [[prebiotic-collapse]] — How definite outcomes obtained before conscious observers existed

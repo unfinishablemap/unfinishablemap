@@ -4,7 +4,7 @@ description: "Zurek's quantum Darwinism explains how classical reality emerges t
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-29T16:56:00+00:00
+ai_modified: 2026-03-29T23:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
-last_deep_review: 2026-03-29T16:56:00+00:00
+last_deep_review: 2026-03-29T23:25:00+00:00
 ---
 
 Wojciech Zurek's quantum Darwinism is the most developed account of how classical reality emerges from quantum mechanics. It explains why observers agree about the world, why certain properties appear stable and objective, and why quantum weirdness vanishes at macroscopic scales. What it does not explain—and what Zurek himself acknowledges—is why any *particular* outcome becomes actual. The Unfinishable Map argues that this residual gap is not a loose end awaiting better physics but the specific locus where consciousness operates. Quantum Darwinism, properly understood, specifies the menu from which consciousness selects.

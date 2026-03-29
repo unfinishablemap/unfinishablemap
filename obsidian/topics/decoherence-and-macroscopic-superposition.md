@@ -115,7 +115,7 @@ The demonstrations that quantum effects can operate in warm biological systems (
 
 Even if decoherence were complete and instantaneous, a conceptual opening for consciousness remains.
 
-Decoherence selects the *basis* in which a system becomes classical—why we observe positions rather than momentum superpositions, for instance. But decoherence does not select which *outcome* within that basis becomes actual. After decoherence has done its work, physics describes a classical mixture: the particle is *either* here *or* there, with definite probabilities, but something must determine which.
+Decoherence selects the *basis* in which a system becomes classical—why we observe positions rather than momentum superpositions, for instance. But decoherence does not select which *outcome* within that basis becomes actual. [[quantum-darwinism-and-consciousness|Quantum Darwinism]] extends this picture: Zurek's framework shows how environmental redundancy makes pointer states objectively accessible to independent observers, yet the outcome gap persists. After decoherence and environmental amplification have done their work, physics describes a classical mixture: the particle is *either* here *or* there, with definite probabilities, but something must determine which.
 
 This is the [[measurement-problem]], and it persists regardless of how fast or complete decoherence is. The Map's perspective holds that consciousness could act at this point—not by maintaining coherent superpositions against decoherence, but by biasing which outcome becomes actual when quantum indeterminacy resolves.
 
@@ -138,6 +138,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] ga
 ## Further Reading
 
 - [[decoherence]] — Comprehensive treatment of decoherence, including the Tegmark-Hameroff debate on neural coherence timescales
+- [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How environmental selection specifies the menu while leaving the outcome gap open
 - [[measurement-problem]] — Why decoherence doesn't solve the fundamental issue
 - [[quantum-measurement-and-consciousness]] — The measurement problem's philosophical dimensions: epistemological, ontological, and agential
 - [[quantum-biology-and-neural-mechanisms|quantum biology]] — Established quantum effects in biological systems

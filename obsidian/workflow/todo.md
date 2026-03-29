@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate quantum-darwinism-and-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has only 2 inbound links, created 2026-03-27 via expand-topic. Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, decoherence-and-macroscopic-superposition, born-rule-and-the-consciousness-interface, testing-consciousness-collapse.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
 - **Type**: cross-review
 - **Notes**: New article evaluative-qualia-phenomenal-normativity-across-traditions.md created 2026-03-29. Only 1 inbound link. Check for cross-links, reinforcing arguments, or contradictions in: phenomenal-value-realism, consciousness-and-normative-force, buddhism-and-dualism, aesthetics-and-consciousness, acquaintance-knowledge, evaluative-qualia (concept). Supports Tenet 1.
@@ -1724,6 +1718,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate quantum-darwinism-and-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 2 inbound links, created 2026-03-27 via expand-topic. Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, decoherence-and-macroscopic-superposition, born-rule-and-the-consciousness-interface, testing-consciousness-collapse.
+- **Output**: obsidian/topics/quantum-darwinism-and-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-29: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
 - **Type**: integrate-orphan
