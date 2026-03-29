@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-29
-**Article**: [Stochastic Amplification and Neural Selection](/topics/stochastic-amplification-and-neural-selection/)
+**Article**: [Stochastic Amplification and Neural Selection](/topics/amplification-mechanisms-consciousness-physics/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

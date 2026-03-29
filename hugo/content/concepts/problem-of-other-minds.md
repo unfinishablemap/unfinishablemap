@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-29 17:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: How can we know others are conscious? Six philosophical approaches 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 08:55:00+00:00
+last_deep_review: 2026-03-29 17:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -175,6 +175,10 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment dramatizing behavior-consciousness gap
 - [ai-consciousness](/topics/ai-consciousness/) — The problem of other minds applied to machines
 - [animal-consciousness](/topics/animal-consciousness/) — The problem for non-human organisms
+- [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/) — How convergent reports across traditions constitute evidence for shared consciousness
+- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — Shared intentionality and the constitutive role of recognizing other minds
+- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy applied to what we could infer about AI consciousness
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — The possibility that AI consciousness has no causal consequences and thus no behavioral evidence
 
 ### Apex Synthesis
 - [minds-without-words](/apex/minds-without-words/) — The problem of other minds in non-linguistic creatures

@@ -64,7 +64,7 @@ All six adversarial personas engaged. No new issues beyond bedrock philosophical
 - Updated timestamps
 
 ### Cross-links Added
-- [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/) (inline reference + Further Reading)
+- [stochastic-amplification-and-neural-selection](/topics/amplification-mechanisms-consciousness-physics/) (inline reference + Further Reading)
 
 ## Remaining Items
 

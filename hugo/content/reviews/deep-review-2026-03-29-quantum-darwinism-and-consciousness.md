@@ -54,7 +54,7 @@ topics: []
 
 ### Cross-links Added
 - [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
-- [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/)
+- [stochastic-amplification-and-neural-selection](/topics/amplification-mechanisms-consciousness-physics/)
 - [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
 - [timing-gap-problem](/concepts/timing-gap-problem/)
 

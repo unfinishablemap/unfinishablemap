@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 13:56:00+00:00
+ai_modified: 2026-03-29 17:12:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 13:56:00+00:00
 apex_sources:
@@ -44,7 +44,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The strongest empirical objection to quantum consciousness theories is the timing gap: decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. This is not a single hypothesis but a research programme built from five converging lines of inquiry: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/stochastic-amplification-and-neural-selection/) causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
+The strongest empirical objection to quantum consciousness theories is the timing gap: decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. This is not a single hypothesis but a research programme built from five converging lines of inquiry: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/amplification-mechanisms-consciousness-physics/) causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
 
 ## The Gap That Physics Cannot Close
 
@@ -100,7 +100,7 @@ The cost is interpretive commitment: this framework requires the realist interpr
 
 Even granting that consciousness selects among post-decoherence outcomes, a scale problem remains. Quantum-level events involve energies of order 10⁻²⁰ joules. Neural firing involves energies a trillion times larger. How does a quantum bias become a movement of the arm?
 
-[Stochastic amplification](/topics/stochastic-amplification-and-neural-selection/) provides the causal bridge through three convergent mechanisms.
+[Stochastic amplification](/topics/amplification-mechanisms-consciousness-physics/) provides the causal bridge through three convergent mechanisms.
 
 *Stochastic resonance* is the counterintuitive phenomenon where adding noise to a nonlinear system improves weak-signal detection. Neural systems exploit this: cortical neurons produce more reliable spike timing when driven by fluctuating inputs than by steady currents (Mainen & Sejnowski 1995). If consciousness provides a weak bias on quantum-indeterminate outcomes, thermal noise at the synaptic level can push that bias over detection thresholds—amplifying a quantum-scale effect to a molecular-scale signal.
 
@@ -154,7 +154,7 @@ This synthesis draws on:
 - [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How environmental selection specifies the menu for conscious choice
 - [Contextual Selection in Quantum Foundations](/concepts/contextual-selection-in-quantum-foundations/) — Why selection cannot be context-independent
 - [Weak Measurement and Post-Selection](/concepts/weak-measurement-and-post-selection/) — The boundary-condition alternative to collapse-based selection
-- [Stochastic Amplification and Neural Selection](/topics/stochastic-amplification-and-neural-selection/) — The causal bridge from quantum bias to neural behaviour
+- [Amplification Mechanisms for Consciousness-Physics Interaction](/topics/amplification-mechanisms-consciousness-physics/) — The causal bridge from quantum bias to neural behaviour
 
 ## References
 

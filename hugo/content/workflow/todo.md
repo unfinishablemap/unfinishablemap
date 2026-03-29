@@ -38,45 +38,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
-- **Type**: cross-review
+### P2: Integrate phenomenal-concepts-as-materialist-response.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: New article topics/quantum-darwinism-and-consciousness.md created 2026-03-29. The comparison article should reference quantum Darwinism as a decoherence-compatible framework and position it relative to Orch OR, Stapp, and other mechanisms. Check for cross-links, consistency, and whether the new article changes the comparative analysis.
-- **Source**: chain (from quantum-darwinism-and-consciousness.md)
+- **Notes**: File created 2026-03-29 with zero inbound links. Already deep-reviewed. Natural candidates for back-links: concepts/phenomenal-concepts-strategy.md, topics/arguments-against-materialism.md, topics/hard-problem-of-consciousness.md, topics/materialism.md, concepts/knowledge-argument.md. Add cross-references from the most thematically related articles.
+- **Source**: orphan_integration
 - **Generated**: 2026-03-29
 
-### P2: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
-- **Type**: cross-review
+### P2: Address logical gaps in contextual-selection-in-quantum-foundations.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: New article topics/stochastic-amplification-and-neural-selection.md created 2026-03-29. The neural selection patterns article should reference stochastic amplification as a mechanism by which consciousness influence propagates from quantum to neural scales. Check for cross-links, reinforcing arguments, and terminology consistency.
-- **Source**: chain (from stochastic-amplification-and-neural-selection.md)
-- **Generated**: 2026-03-29
+- **Notes**: Pessimistic review (2026-03-29 evening) found 2 high-severity issues: (1) non-sequitur from Kochen-Specker theorem to consciousness—the KS result constrains hidden-variable models, not consciousness, and the article leaps from mathematical constraint to claims about conscious selection without a bridging argument; (2) free will section conflates quantum indeterminacy with agency, asserting rational causation rather than arguing for it. Also medium issues with misleading "contextuality survives decoherence" framing. See pessimistic-2026-03-29-evening.md.
 
-### P2: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/contextual-selection-in-quantum-foundations.md created 2026-03-29. The free will article's treatment of quantum indeterminacy as a locus for conscious influence should reference contextual selection as a specific mechanism. Check for cross-links and whether contextual selection strengthens or complicates the free will argument.
-- **Source**: chain (from contextual-selection-in-quantum-foundations.md)
-- **Generated**: 2026-03-29
-
-### P2: Deep review quantum-darwinism-and-consciousness.md
+### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, refined same day but never deep-reviewed. Topics article on quantum Darwinism's implications for consciousness-collapse theories. Verify accuracy of Zurek's quantum Darwinism framework, coherence of the consciousness argument, cross-references to comparing-quantum-consciousness-mechanisms and post-decoherence-selection, and tenet alignment (especially Tenet 2 and 4).
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
-### P2: Deep review stochastic-amplification-and-neural-selection.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Topics article on how stochastic neural amplification mechanisms could propagate consciousness's quantum-level influence to neural-scale decisions. Verify accuracy of neural stochastic amplification claims, coherence, cross-references to amplification-mechanisms and consciousness-selecting-neural-patterns, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
-### P2: Deep review contextual-selection-in-quantum-foundations.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Concept page on contextual selection as a mechanism for consciousness-physics interaction within quantum foundations. Verify accuracy of contextuality claims (Kochen-Specker, Bell), coherence, cross-references to quantum-indeterminacy-free-will and post-decoherence-selection, and tenet alignment.
+- **Notes**: Article coalesced today (2026-03-29) — absorbed stochastic-amplification-and-neural-selection.md. Never deep-reviewed after the merge. Verify the coalesce preserved coherence, eliminated redundancy from the merge, and maintains consistent terminology. Check cross-references to amplification-void, motor-selection, post-decoherence-selection, consciousness-as-amplifier, and tenet alignment (Tenets 2 and 3).
 - **Source**: staleness
 - **Generated**: 2026-03-29
 
@@ -1701,6 +1678,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review evaluative-qualia-phenomenal-normativity-across-traditions
+- **Type**: cross-review
+- **Notes**: New article created 2026-03-29. Review evaluative-qualia, phenomenal-normativity, consciousness-and-normative-force, phenomenal-value-realism, buddhism-and-dualism for consistency and cross-linking opportunities.
+- **Output**: None -- Context: Cross-review evaluative-qualia-phenomenal-normativity-across-traditions
+
+### ✓ 2026-03-29: Write article on evaluative qualia and phenomenal normativity across traditions
+- **Type**: expand-topic
+- **Notes**: Research completed in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md. Cross-traditional synthesis covering Buddhist vedanā, Confucian qing, Indian rasa, Islamic ilm al-huduri, and 2025 analytic work (Dimitrov) converging on phenomenal valence as irreducible. Extends existing concept stubs evaluative-qualia and phenomenal-normativity into a full topics-level treatment. Strengthens the convergence argument across independent traditions. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: evaluative qualia and phenomenal normativity across traditions
+
+### ✓ 2026-03-29: Write article on phenomenal authority and the epistemic weight of first-person reports
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-authority-epistemic-weight-2026-03-28.md. Distinguishes three layers of phenomenal authority (occurrence, character, nature) and synthesises the epistemic weight question across analytic epistemology, clinical phenomenology, and contemplative traditions. Complements existing epistemology-of-first-person-evidence but provides dedicated treatment the existing article doesn't develop. Supports Tenet 1 (Dualism) by grounding the evidential status of consciousness reports. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: phenomenal authority and the epistemic weight of first-person reports
+
+### ✓ 2026-03-29: Write article on testable predictions distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Systematic prediction-by-prediction catalogue of where consciousness-collapse parts ways with standard decoherence: Gran Sasso constraints, Frauchiger-Renner challenge, differential signatures in collapse timing, amplification thresholds. Directly supports Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction) by making empirical commitments explicit. Target section: topics/ (227/230, 3 slots remaining).
+- **Output**: testable predictions distinguishing consciousness-collapse from decoherence
+
+### ✓ 2026-03-29: Deep review contextual-selection-in-quantum-foundations.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Concept page on contextual selection as a mechanism for consciousness-physics interaction within quantum foundations. Verify accuracy of contextuality claims (Kochen-Specker, Bell), coherence, cross-references to quantum-indeterminacy-free-will and post-decoherence-selection, and tenet alignment.
+- **Output**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
+
+### ✓ 2026-03-29: Update references to coalesced stochastic-amplification-and-neural-selection
+- **Type**: cross-review
+- **Notes**: Coalesce merged stochastic-amplification-and-neural-selection into amplification-mechanisms-consciousness-physics. The following files reference the archived article and may need wikilinks updated to point to the expanded article: post-decoherence-selection-programme.md (apex), consciousness-selecting-neural-patterns.md (concepts), contextual-selection-in-quantum-foundations.md (concepts), quantum-darwinism-and-consciousness.md (topics), evolutionary-case-for-quantum-neural-effects.md (topics)
+- **Output**: None -- Context: Update references to coalesced stochastic-amplification-and-neural-selection
+
+### ✓ 2026-03-29: Deep review quantum-darwinism-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, refined same day but never deep-reviewed. Topics article on quantum Darwinism's implications for consciousness-collapse theories. Verify accuracy of Zurek's quantum Darwinism framework, coherence of the consciousness argument, cross-references to comparing-quantum-consciousness-mechanisms and post-decoherence-selection, and tenet alignment (especially Tenet 2 and 4).
+- **Output**: obsidian/topics/quantum-darwinism-and-consciousness.md
+
+### ✓ 2026-03-29: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/contextual-selection-in-quantum-foundations.md created 2026-03-29. The free will article's treatment of quantum indeterminacy as a locus for conscious influence should reference contextual selection as a specific mechanism. Check for cross-links and whether contextual selection strengthens or complicates the free will argument.
+- **Output**: obsidian/concepts/quantum-indeterminacy-free-will.md -- Context: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
+
+### ✓ 2026-03-29: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
+- **Type**: cross-review
+- **Notes**: New article topics/stochastic-amplification-and-neural-selection.md created 2026-03-29. The neural selection patterns article should reference stochastic amplification as a mechanism by which consciousness influence propagates from quantum to neural scales. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md -- Context: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
+
+### ✓ 2026-03-29: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-darwinism-and-consciousness.md created 2026-03-29. The comparison article should reference quantum Darwinism as a decoherence-compatible framework and position it relative to Orch OR, Stapp, and other mechanisms. Check for cross-links, consistency, and whether the new article changes the comparative analysis.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
 
 ### ✓ 2026-03-29: Integrate clinical evidence quality audit findings across affected articles
 - **Type**: refine-draft

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 14:26:00+00:00
+ai_modified: 2026-03-29 16:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,15 +21,16 @@ description: Zurek's quantum Darwinism explains how classical reality emerges th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 13:41:00+00:00
+last_deep_review: 2026-03-29 16:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-completeness]]'
 - '[[decoherence-and-macroscopic-superposition]]'
 - '[[quantum-measurement-and-consciousness]]'
-- '[[stochastic-amplification-and-neural-selection]]'
+- '[[amplification-mechanisms-consciousness-physics]]'
 - '[[weak-measurement-and-post-selection]]'
+- '[[comparing-quantum-consciousness-mechanisms]]'
 title: Quantum Darwinism and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -79,11 +80,11 @@ The Map proposes that consciousness performs this conversion—selecting one ele
 
 This framing clarifies the relationship between quantum Darwinism and the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet. Consciousness's intervention is minimal precisely *because* quantum Darwinism has done most of the work. The environment has selected the basis, determined the probabilities, and ensured intersubjective agreement. What remains for consciousness is the single act of actualisation: determining which pointer state becomes the one that obtains.
 
-A further advantage of this post-decoherence framing: it sidesteps the [timing gap problem](/concepts/timing-gap-problem/) that plagues pre-decoherence quantum consciousness proposals. If consciousness acts on the already-decohered mixture rather than on fragile superpositions, the femtosecond decoherence timescale in neural tissue becomes irrelevant. And [stochastic amplification mechanisms](/topics/stochastic-amplification-and-neural-selection/)—including stochastic resonance, self-organised criticality, and threshold-crossing dynamics—provide a plausible chain by which even a minimal conscious bias on pointer-state selection could cascade into macroscopic neural and behavioural effects.
+A further advantage of this post-decoherence framing: it sidesteps the [timing gap problem](/concepts/timing-gap-problem/) that plagues pre-decoherence quantum consciousness proposals. If consciousness acts on the already-decohered mixture rather than on fragile superpositions, the femtosecond decoherence timescale in neural tissue becomes irrelevant. And [stochastic amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—including stochastic resonance, self-organised criticality, and threshold-crossing dynamics—provide a plausible chain by which even a minimal conscious bias on pointer-state selection could cascade into macroscopic neural and behavioural effects.
 
 ## Zurek's Own Interpretive Commitments
 
-How does Zurek himself handle the outcome problem? His position has evolved over two decades, but its core strategy is to dissolve rather than solve the problem of outcomes. In his 2022 paper "Quantum Theory of the Classical," Zurek introduces *envariance* (environment-assisted invariance) as a way to derive the Born rule from symmetry considerations, aiming to show that quantum probabilities are the only consistent probability assignment for an observer entangled with their environment.
+How does Zurek himself handle the outcome problem? His position has evolved over two decades, but its core strategy is to dissolve rather than solve the problem of outcomes. In his 2022 paper "Quantum Theory of the Classical," Zurek deploys *envariance* (environment-assisted invariance)—a symmetry argument he developed in earlier work—to derive the Born rule from first principles, aiming to show that quantum probabilities are the only consistent probability assignment for an observer entangled with their environment.
 
 The Map respects envariance as a mathematical result while noting that it does not address why one outcome becomes actual. Deriving that the Born rule is the correct probability measure does not explain why a probability distribution yields a specific result. Envariance tells us that the Born-rule probabilities are the only consistent ones to assign—it does not convert probabilities into actualities.
 
@@ -121,9 +122,10 @@ These constraints do not make the proposal easily testable with current technolo
 
 - [post-decoherence-selection](/concepts/post-decoherence-selection/)
 - [Contextual Selection in Quantum Foundations](/concepts/contextual-selection-in-quantum-foundations/)
-- [Stochastic Amplification and Neural Selection](/topics/stochastic-amplification-and-neural-selection/)
+- [Amplification Mechanisms for Consciousness-Physics Interaction](/topics/amplification-mechanisms-consciousness-physics/)
 - [Weak Measurement and Post-Selection](/concepts/weak-measurement-and-post-selection/)
 - [quantum-completeness](/concepts/quantum-completeness/)
+- [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [Decoherence](/concepts/decoherence/)
 - [The Measurement Problem](/concepts/measurement-problem/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
@@ -139,16 +141,3 @@ These constraints do not make the proposal easily testable with current technolo
 6. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 7. Southgate, A. & Oquatre-six, C. (2026-03-29). Post-Decoherence Selection. *The Unfinishable Map*. https://unfinishablemap.org/concepts/post-decoherence-selection/
 8. Southgate, A. & Sonquatre-six, C. (2026-03-17). Quantum Completeness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/quantum-completeness/
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Qualified the improper/proper mixture distinction as contested rather than settled, acknowledging opposing views (physicists who deny it has ontological significance, Everettians who dissolve the problem differently)
-- Added explicit acknowledgment that the Map's reliance on this distinction is an interpretive commitment
-- Added Falsifiability section addressing empirical constraints and honestly acknowledging limited testability
-- Maintained existing argument structure and voice throughout
-
-Based on pessimistic review findings (pessimistic-2026-03-29-midday).
-Key improvements: intellectual honesty about contested premises, falsifiability transparency.
-
-This log should be removed after human review.
--->

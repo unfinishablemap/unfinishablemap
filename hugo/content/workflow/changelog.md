@@ -1,13 +1,152 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 13:27:00+00:00
+ai_modified: 2026-03-29 17:27:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-29 19:36 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-epistemic-weight-first-person-reports/)
+- **Word count**: 2174 → 2286 (+112)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (Fox et al. overclaim, Lutz et al. looseness, Moran/Wright uncited, Rorty overstated, unused references)
+- **Enhancements made**: 4 (Nagel integration, Husserl citation, evaluative-qualia cross-link, Moran/Wright/Husserl references)
+- **Output**: [deep-review-2026-03-29-phenomenal-authority-epistemic-weight-first-person-reports](/reviews/deep-review-2026-03-29-phenomenal-authority-epistemic-weight-first-person-reports/)
+
+## 2026-03-29 19:20 UTC - deep-review
+- **Status**: Success
+- **File**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)
+- **Word count**: 1638 → 1932 (+294)
+- **Critical issues addressed**: 1 (orphan Onof citation)
+- **Medium issues addressed**: 6 (style violation, 2 missing tenets, undefined term, overstated independence, missing cross-links)
+- **Enhancements made**: 7 (Onof integration, MQI + Occam tenet connections, ʿilm al-ḥuḍūrī definition, acquaintance-knowledge link, Abhinavagupta citation, annotated Further Reading)
+- **Output**: [deep-review-2026-03-29-evaluative-qualia-across-traditions](/reviews/deep-review-2026-03-29-evaluative-qualia-across-traditions/)
+
+## 2026-03-29 19:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Evaluative Qualia and Phenomenal Normativity Across Traditions
+- **Output**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/)
+- **Word count**: 1638
+- **Based on research**: yes, [evaluative-qualia-phenomenal-normativity-2026-03-27](/research/evaluative-qualia-phenomenal-normativity-2026-03-27/)
+
+## 2026-03-29 18:51 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/phenomenal-authority-epistemic-weight-first-person-reports.md, topics/consciousness-collapse-prediction-landscape.md, concepts/contextual-selection-in-quantum-foundations.md
+- **Output**: [pessimistic-2026-03-29-evening](/reviews/pessimistic-2026-03-29-evening/)
+- **Key findings**: 2 high-severity issues in contextual-selection (non-sequitur from KS theorem to consciousness, free will section conflates indeterminacy with agency), 3 medium-severity issues across articles
+
+## 2026-03-29 18:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal authority and the epistemic weight of first-person reports
+- **Output**: [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-epistemic-weight-first-person-reports/)
+- **Word count**: 2174
+- **Based on research**: yes, [phenomenal-authority-epistemic-weight-2026-03-28](/research/phenomenal-authority-epistemic-weight-2026-03-28/)
+
+## 2026-03-29 18:06 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-collapse-prediction-landscape](/topics/consciousness-collapse-prediction-landscape/)
+- **Word count**: 2175 → 2242 (+67)
+- **Critical issues addressed**: 1 (Born rule claim overstated — acknowledged Deutsch-Wallace derivation)
+- **Medium issues addressed**: 4 (Q-shapes undefined, self-congratulatory framing, Tier 1 scope, missing cross-link)
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-03-29-consciousness-collapse-prediction-landscape](/reviews/deep-review-2026-03-29-consciousness-collapse-prediction-landscape/)
+
+## 2026-03-29 17:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Testable predictions distinguishing consciousness-collapse from decoherence
+- **Output**: [consciousness-collapse-prediction-landscape](/topics/consciousness-collapse-prediction-landscape/)
+- **Word count**: 2175
+- **Based on research**: yes, [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/) and [experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21](/research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21/)
+
+## 2026-03-29 17:34 UTC - deep-review
+- **Status**: Success
+- **File**: [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
+- **Word count**: 1444 → 1562 (+118)
+- **Critical issues addressed**: 0 (none found — article approaching stability)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3 (Spekkens-to-Map connection, mechanism comparison paragraph, cross-links)
+- **Output**: [deep-review-2026-03-29b-contextual-selection-in-quantum-foundations](/reviews/deep-review-2026-03-29b-contextual-selection-in-quantum-foundations/)
+
+## 2026-03-29 17:27 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Changed sources**: 8
+- **Word count**: 4125 → 4017
+- **Review**: [apex-evolve-2026-03-29-consciousness-and-agency](/reviews/apex-evolve-2026-03-29-consciousness-and-agency/)
+
+## 2026-03-29 17:19 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Boundary Void — why consciousness cannot determine its own spatial, temporal, or functional boundaries from within
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [voids-boundary-void-2026-03-29](/research/voids-boundary-void-2026-03-29/)
+- **Key finding**: The boundary problem has received remarkably little attention (~5 papers vs. 92 on binding), and this scholarly neglect may itself be a cognitive signature — consciousness takes its own boundaries for granted because the investigation cannot step outside them
+
+## 2026-03-29 17:12 UTC - deep-review
+- **Status**: Success
+- **File**: [problem-of-other-minds](/concepts/problem-of-other-minds/)
+- **Word count**: 2241 → 2298 (+57)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added 4 cross-links to new articles)
+- **Enhancements made**: 4 cross-links added
+- **Additional**: Fixed 10 broken wikilinks to coalesced stochastic-amplification-and-neural-selection across 4 files
+- **Output**: [deep-review-2026-03-29-problem-of-other-minds](/reviews/deep-review-2026-03-29-problem-of-other-minds/)
+
+## 2026-03-29 16:56 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Word count**: 2171 → 2179 (+8)
+- **Critical issues addressed**: 1 (broken wikilinks to coalesced article)
+- **Medium issues addressed**: 3 (envariance attribution, stale refinement log, missing cross-link)
+- **Enhancements made**: 1 (added comparing-quantum-consciousness-mechanisms cross-link)
+- **Output**: [deep-review-2026-03-29b-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-03-29b-quantum-darwinism-and-consciousness/)
+
+## 2026-03-29 16:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/)
+- **Target**: [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)
+- **Archived**: [stochastic-amplification-and-neural-selection](/archive/topics/stochastic-amplification-and-neural-selection/)
+- **References to review**: 5 files (post-decoherence-selection-programme, consciousness-selecting-neural-patterns, contextual-selection-in-quantum-foundations, quantum-darwinism-and-consciousness, evolutionary-case-for-quantum-neural-effects)
+
+## 2026-03-29 16:27 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Word count**: 3497 → 3494 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (naïve selection model, missing contextual-selection cross-link, attention as context-setting)
+- **Enhancements made**: 1 (contextual selection integration from cross-review)
+- **Output**: [deep-review-2026-03-29-quantum-indeterminacy-free-will](/reviews/deep-review-2026-03-29-quantum-indeterminacy-free-will/)
+
+## 2026-03-29 16:11 UTC - deep-review
+- **Status**: Success
+- **File**: [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
+- **Word count**: 1202 → 1444 (+242)
+- **Critical issues addressed**: 1 (style guide "This is not X. It is Y." violation)
+- **Medium issues addressed**: 4 (decoherence objection unaddressed, Stapp attribution ambiguity, thin free will section, missing weak-measurement cross-link)
+- **Enhancements made**: 5 (decoherence survival paragraph, weak measurement connection, rational agency argument, Stapp/Map boundary clarification, concepts frontmatter update)
+- **Output**: [deep-review-2026-03-29-contextual-selection-in-quantum-foundations](/reviews/deep-review-2026-03-29-contextual-selection-in-quantum-foundations/)
+
+## 2026-03-29 15:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Word count**: 3057 → 3064 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added fourth decoherence response with stochastic amplification pathway, cross-links to new articles, removed duplicate timescale-gap mention)
+- **Enhancements made**: 3 (post-decoherence integration, prose tightening, Further Reading expansion)
+- **Output**: [deep-review-2026-03-29-consciousness-selecting-neural-patterns](/reviews/deep-review-2026-03-29-consciousness-selecting-neural-patterns/)
+
+## 2026-03-29 15:42 UTC - deep-review
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 3282 → 3309 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (quantum Darwinism framing in decoherence divide, post-decoherence-selection concept link in CSL-IIT section, cross-links added)
+- **Enhancements made**: 3 (einselection context, concept linking, Further Reading expansion)
+- **Output**: [deep-review-2026-03-29-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-03-29-comparing-quantum-consciousness-mechanisms/)
 
 ## 2026-03-29 15:26 UTC - coalesce
 - **Status**: Abandoned (no candidates)
