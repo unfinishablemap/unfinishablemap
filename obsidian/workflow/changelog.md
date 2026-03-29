@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 11:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Post-decoherence selection
+- **Output**: [[concepts/post-decoherence-selection]]
+- **Word count**: 1127
+- **Based on research**: yes, [[research/post-decoherence-selection-mechanisms-2026-03-29]]
+
 ## 2026-03-29 11:26 UTC - research-topic
 - **Status**: Success
 - **Topic**: Post-decoherence selection mechanisms

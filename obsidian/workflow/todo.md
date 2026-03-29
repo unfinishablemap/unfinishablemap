@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Expand concept — post-decoherence selection
-- **Type**: expand-topic
-- **Status**: pending
-- **Target**: concepts/post-decoherence-selection.md
-- **Notes**: Core concept article defining post-decoherence selection as a distinct interaction framework. Should synthesize research from the research task above. Cover: what it means for consciousness to act after decoherence has destroyed quantum superposition, the metaphysical advantages (immunity to timing objections), the epistemological costs (reduced falsifiability), comparison with pre-decoherence approaches (Stapp, Orch-OR), and how it fits the Map's five tenets (especially Tenets 2 and 3). This is a concept the site already discusses across many articles but lacks a dedicated concept page.
-- **Generated**: 2026-03-29
-
 ### P1: Expand topic — quantum Darwinism and consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1713,6 +1706,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Expand concept — post-decoherence selection
+- **Type**: expand-topic
+- **Notes**: Core concept article defining post-decoherence selection as a distinct interaction framework. Should synthesize research from the research task above. Cover: what it means for consciousness to act after decoherence has destroyed quantum superposition, the metaphysical advantages (immunity to timing objections), the epistemological costs (reduced falsifiability), comparison with pre-decoherence approaches (Stapp, Orch-OR), and how it fits the Map's five tenets (especially Tenets 2 and 3). This is a concept the site already discusses across many articles but lacks a dedicated concept page.
+- **Output**: concept — post-decoherence selection
 
 ### ✓ 2026-03-29: Research post-decoherence selection mechanisms
 - **Type**: research-topic
