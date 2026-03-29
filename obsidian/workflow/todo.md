@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the boundary void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-boundary-void-2026-03-29.md. The boundary void addresses the cognitive impossibility of precisely demarcating where consciousness ends and unconscious processing begins. Voids section has 1 slot remaining (99/100). Synthesize research into a voids article following existing voids article conventions. Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Integrate Frankish functional-seeming research into illusionism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1721,6 +1714,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Write voids article on the boundary void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-boundary-void-2026-03-29.md. The boundary void addresses the cognitive impossibility of precisely demarcating where consciousness ends and unconscious processing begins. Voids section has 1 slot remaining (99/100). Synthesize research into a voids article following existing voids article conventions. Target section: voids/.
+- **Output**: Write voids article on the boundary void
 
 ### ✓ 2026-03-29: Update references to coalesced phenomenal-conservatism and phenomenal-authority articles
 - **Type**: cross-review
