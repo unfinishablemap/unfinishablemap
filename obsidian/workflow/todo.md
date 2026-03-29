@@ -45,7 +45,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Integrate quantum-darwinism-and-consciousness.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has only 2 inbound links, created 2026-03-27 via expand-topic. Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, decoherence-and-macroscopic-superposition, born-rule-and-the-consciousness-interface, consciousness-collapse-prediction-landscape.
+- **Notes**: File has only 2 inbound links, created 2026-03-27 via expand-topic. Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, decoherence-and-macroscopic-superposition, born-rule-and-the-consciousness-interface, testing-consciousness-collapse.
 - **Source**: orphan_integration
 - **Generated**: 2026-03-29
 
@@ -55,11 +55,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from evaluative-qualia-phenomenal-normativity-across-traditions.md)
 - **Generated**: 2026-03-29
 
-### P2: Cross-review related articles considering consciousness-collapse-prediction-landscape.md
-- **Type**: cross-review
-- **Notes**: New article consciousness-collapse-prediction-landscape.md created 2026-03-29 from research on testable predictions distinguishing consciousness-collapse from decoherence. Only 2 inbound links. Check for cross-links in: testing-consciousness-collapse, comparing-quantum-consciousness-mechanisms, experimental-consciousness-science-2025-2026, penrose-gravity-induced-collapse-empirical-prospects, born-rule-and-the-consciousness-interface. Supports Tenet 2.
-- **Source**: chain (from consciousness-collapse-prediction-landscape.md)
-- **Generated**: 2026-03-29
 
 ### P2: Cross-review related void articles considering boundary-void.md
 - **Type**: cross-review
@@ -1730,7 +1725,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Add cross-links between evaluative-qualia, completeness, parsimony, and prediction-landscape clusters
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: evaluative-qualia → phenomenal-authority-epistemic-weight-first-person-reports (irreducibility strengthens authority at layer 1), completeness-in-physics-under-dualism → parsimony-case-for-interactionist-dualism (structural completeness supports parsimony argument), consciousness-collapse-prediction-landscape → testing-consciousness-collapse (landscape organises what testing catalogs), phenomenal-concepts-as-materialist-response → consciousness-defeats-explanation (PCS failure as instance of systematic defeat), convergent-phenomenological-evidence → evaluative-qualia-phenomenal-normativity-across-traditions (convergence methodology applied to evaluative phenomenology). See optimistic-2026-03-29-evening.md
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: evaluative-qualia → phenomenal-authority-epistemic-weight-first-person-reports (irreducibility strengthens authority at layer 1), completeness-in-physics-under-dualism → parsimony-case-for-interactionist-dualism (structural completeness supports parsimony argument), phenomenal-concepts-as-materialist-response → consciousness-defeats-explanation (PCS failure as instance of systematic defeat), convergent-phenomenological-evidence → evaluative-qualia-phenomenal-normativity-across-traditions (convergence methodology applied to evaluative phenomenology). See optimistic-2026-03-29-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-29
 

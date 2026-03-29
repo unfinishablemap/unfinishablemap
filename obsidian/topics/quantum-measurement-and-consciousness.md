@@ -37,7 +37,6 @@ related_articles:
   - "[[the-participatory-universe]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[topics/free-will]]"
-  - "[[consciousness-collapse-prediction-landscape]]"
   - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author:
@@ -148,7 +147,7 @@ If consciousness participates in collapse, and collapse introduces irreversibili
 
 ## What This Framework Cannot Do
 
-**Limited empirical predictions.** At currently accessible scales, the framework predicts what standard quantum mechanics predicts. But the [[consciousness-collapse-prediction-landscape|prediction landscape]] reveals a three-tier hierarchy: collapse models generate testable predictions about anomalous decoherence rates at high masses (Tier 1), while consciousness-specific tests like the Chalmers-McQueen Q-shape prediction would directly probe whether information-integration structure affects collapse dynamics (Tier 2). Tier 2 tests remain beyond current capability—a genuine cost, but one rooted in the structural difficulty of making consciousness an experimental variable, not in the framework's emptiness.
+**Limited empirical predictions.** At currently accessible scales, the framework predicts what standard quantum mechanics predicts. But the [[testing-consciousness-collapse|prediction landscape]] reveals a three-tier hierarchy: collapse models generate testable predictions about anomalous decoherence rates at high masses (Tier 1), while consciousness-specific tests like the Chalmers-McQueen Q-shape prediction would directly probe whether information-integration structure affects collapse dynamics (Tier 2). Tier 2 tests remain beyond current capability—a genuine cost, but one rooted in the structural difficulty of making consciousness an experimental variable, not in the framework's emptiness.
 
 **No mechanism specified.** How consciousness generates selection events, what neural substrate supports the interface—these remain open.
 
@@ -191,8 +190,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[the-convergence-argument-for-dualism]] — How this structural parallel contributes to the cumulative case for dualism
 - [[the-participatory-universe]] — Wheeler's thesis that observers constitute reality
 - [[post-decoherence-selection]] — The specific locus where consciousness could act after decoherence
-- [[consciousness-collapse-prediction-landscape]] — Three-tier prediction hierarchy distinguishing consciousness-collapse from decoherence
-- [[testing-consciousness-collapse]] — Experimental obstacles and the convergence strategy
+- [[testing-consciousness-collapse]] — Three-tier prediction hierarchy, experimental obstacles, and the convergence strategy
 - [[prebiotic-collapse]] — How definite outcomes obtained before conscious observers existed
 - [[qm-interpretations-beyond-many-worlds]] — Interpretation comparison
 - [[cognitive-science-of-dualism]] — How cognitive science reinforces the first-person/third-person distinction

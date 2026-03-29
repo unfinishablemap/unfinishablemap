@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
 last_deep_review: 2026-03-29T18:06:00+00:00
+archived: true
+archived_date: 2026-03-29T23:02:00+00:00
+superseded_by: "/topics/testing-consciousness-collapse/"
+archive_reason: "Coalesced into Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward"
+original_path: "/topics/consciousness-collapse-prediction-landscape/"
 ---
 
 Consciousness-collapse and decoherence-only interpretations of quantum mechanics agree on nearly every experimental outcome currently accessible. This agreement is not accidental — it reflects the fact that the two frameworks share a large common core and diverge only at specific theoretical joints. Understanding *where* they part company, and *why*, reveals that the predictions form a three-tier hierarchy. Most current and proposed experiments address only the first tier: whether collapse happens at all. The second tier — whether consciousness specifically participates — remains largely untested and faces obstacles that are conceptual, not merely technological. The third tier consists of logical constraints that force interpretive commitments without generating empirical predictions in the usual sense.

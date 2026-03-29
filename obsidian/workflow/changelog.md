@@ -5,6 +5,14 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 23:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/consciousness-collapse-prediction-landscape]]
+- **Target**: [[topics/testing-consciousness-collapse]]
+- **Archived**: [[archive/topics/consciousness-collapse-prediction-landscape]]
+- **References to review**: 0 (all updated)
+- **Changes**: Integrated three-tier prediction hierarchy (collapse existence, consciousness-dependence, logical constraints) from prediction landscape into testing article. Reorganized seven differential predictions into tiered structure. Added common core section. Updated references in quantum-measurement-and-consciousness.md and todo.md.
+
 ## 2026-03-29 22:39 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/illusionism]]
