@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article consciousness-collapse-prediction-landscape.md maps the empirical landscape of consciousness-collapse predictions. quantum-measurement-and-consciousness.md is a foundational article on the measurement problem that should link to this concrete empirical programme. Check for cross-links and consistency on measurement-problem claims.
-- **Source**: chain (from consciousness-collapse-prediction-landscape.md)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
 - **Type**: cross-review
 - **Status**: pending
@@ -1735,6 +1728,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
+- **Type**: cross-review
+- **Notes**: New article consciousness-collapse-prediction-landscape.md maps the empirical landscape of consciousness-collapse predictions. quantum-measurement-and-consciousness.md is a foundational article on the measurement problem that should link to this concrete empirical programme. Check for cross-links and consistency on measurement-problem claims.
+- **Output**: obsidian/topics/quantum-measurement-and-consciousness.md -- Context: Cross-review quantum-measurement-and-consciousness.md considering prediction landscape insights
 
 ### ✓ 2026-03-29: Cross-review testing-consciousness-collapse.md considering prediction landscape insights
 - **Type**: cross-review

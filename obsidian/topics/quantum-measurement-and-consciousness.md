@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-20T14:43:00+00:00
+ai_modified: 2026-03-29T20:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[agent-causation]]"
   - "[[von-neumann-wigner-interpretation]]"
+  - "[[post-decoherence-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
@@ -36,12 +37,14 @@ related_articles:
   - "[[the-participatory-universe]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[topics/free-will]]"
+  - "[[consciousness-collapse-prediction-landscape]]"
+  - "[[testing-consciousness-collapse]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-20T14:43:00+00:00
+last_deep_review: 2026-03-29T20:54:00+00:00
 coalesced_from:
   - "/topics/quantum-measurement-consciousness-interface/"
   - "/topics/the-measurement-problem-as-philosophical-problem/"
@@ -79,7 +82,7 @@ If the hard problem reveals something fundamental about the mind-body relation, 
 
 ## The Gap Decoherence Cannot Close
 
-[[decoherence]] is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **outcome selection**: why *this particular* result occurs. After decoherence, the density matrix is diagonal—a classical mixture of possible outcomes, not a definite result. Something must still select one alternative as actual.
+[[decoherence]] is often claimed to solve the measurement problem. It explains **basis selection**: why measurements yield position eigenstates rather than momentum eigenstates, and why we see "alive" or "dead" rather than exotic superpositions. But decoherence does not explain **[[post-decoherence-selection|outcome selection]]**: why *this particular* result occurs. After decoherence, the density matrix is diagonal—an *improper mixture* that resembles a classical probability distribution but does not license the conclusion that one outcome has already occurred. The system remains entangled with its environment; no definite result has been selected. Something must still actualise one alternative.
 
 The parallel with philosophy of mind is precise. Functionalism accounts for the structure of mental states but leaves the [[explanatory-gap]] intact—it explains functional organisation without explaining why that organisation is accompanied by experience. Decoherence accounts for the structure of measurement outcomes but leaves the selection gap intact. Both solve the easy problems while leaving the hard problem untouched.
 
@@ -145,7 +148,7 @@ If consciousness participates in collapse, and collapse introduces irreversibili
 
 ## What This Framework Cannot Do
 
-**No empirical predictions.** The framework predicts what standard quantum mechanics predicts. Its value is conceptual coherence, not novel predictions. This unfalsifiability is a genuine cost—but shared by most philosophical positions on consciousness.
+**Limited empirical predictions.** At currently accessible scales, the framework predicts what standard quantum mechanics predicts. But the [[consciousness-collapse-prediction-landscape|prediction landscape]] reveals a three-tier hierarchy: collapse models generate testable predictions about anomalous decoherence rates at high masses (Tier 1), while consciousness-specific tests like the Chalmers-McQueen Q-shape prediction would directly probe whether information-integration structure affects collapse dynamics (Tier 2). Tier 2 tests remain beyond current capability—a genuine cost, but one rooted in the structural difficulty of making consciousness an experimental variable, not in the framework's emptiness.
 
 **No mechanism specified.** How consciousness generates selection events, what neural substrate supports the interface—these remain open.
 
@@ -187,6 +190,9 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
 - [[the-convergence-argument-for-dualism]] — How this structural parallel contributes to the cumulative case for dualism
 - [[the-participatory-universe]] — Wheeler's thesis that observers constitute reality
+- [[post-decoherence-selection]] — The specific locus where consciousness could act after decoherence
+- [[consciousness-collapse-prediction-landscape]] — Three-tier prediction hierarchy distinguishing consciousness-collapse from decoherence
+- [[testing-consciousness-collapse]] — Experimental obstacles and the convergence strategy
 - [[prebiotic-collapse]] — How definite outcomes obtained before conscious observers existed
 - [[qm-interpretations-beyond-many-worlds]] — Interpretation comparison
 - [[cognitive-science-of-dualism]] — How cognitive science reinforces the first-person/third-person distinction
