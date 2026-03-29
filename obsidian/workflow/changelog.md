@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 19:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]
+- **Word count**: 1638 → 1932 (+294)
+- **Critical issues addressed**: 1 (orphan Onof citation)
+- **Medium issues addressed**: 6 (style violation, 2 missing tenets, undefined term, overstated independence, missing cross-links)
+- **Enhancements made**: 7 (Onof integration, MQI + Occam tenet connections, ʿilm al-ḥuḍūrī definition, acquaintance-knowledge link, Abhinavagupta citation, annotated Further Reading)
+- **Output**: [[reviews/deep-review-2026-03-29-evaluative-qualia-across-traditions]]
+
 ## 2026-03-29 19:05 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Evaluative Qualia and Phenomenal Normativity Across Traditions
