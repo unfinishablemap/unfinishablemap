@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apex article — post-decoherence selection programme
-- **Type**: apex-evolve
-- **Status**: pending
-- **Target**: apex/post-decoherence-selection.md
-- **Notes**: Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
-- **Generated**: 2026-03-29
-
 ### P2: Address falsifiability and disanalogy gaps in quantum-darwinism and weak-measurement articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1678,6 +1671,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Apex article — post-decoherence selection programme
+- **Type**: apex-evolve
+- **Notes**: Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
+- **Output**: Apex article — post-decoherence selection programme
+
+Task context:
+Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
 
 ### ✓ 2026-03-29: Cross-review post-decoherence selection articles
 - **Type**: cross-review

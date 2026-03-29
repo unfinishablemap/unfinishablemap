@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T13:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 13:56 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/post-decoherence-selection-programme]]
+- **Mode**: Create
+- **Sources**: 5 (post-decoherence-selection, quantum-darwinism-and-consciousness, weak-measurement-and-post-selection, stochastic-amplification-and-neural-selection, contextual-selection-in-quantum-foundations)
+- **Word count**: ~3600
+
 ## 2026-03-29 13:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/quantum-darwinism-and-consciousness]]

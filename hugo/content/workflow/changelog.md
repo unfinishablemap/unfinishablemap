@@ -1,13 +1,87 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 04:15:00+00:00
+ai_modified: 2026-03-29 13:27:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-03-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-29 13:56 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Mode**: Create
+- **Sources**: 5 (post-decoherence-selection, quantum-darwinism-and-consciousness, weak-measurement-and-post-selection, stochastic-amplification-and-neural-selection, contextual-selection-in-quantum-foundations)
+- **Word count**: ~3600
+
+## 2026-03-29 13:41 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Word count**: 1730 → 1847 (+117)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4 cross-links added, timing gap paragraph added
+- **Output**: [deep-review-2026-03-29-quantum-darwinism-and-consciousness](/reviews/deep-review-2026-03-29-quantum-darwinism-and-consciousness/)
+
+## 2026-03-29 13:27 UTC - deep-review
+- **Status**: Success
+- **File**: [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/)
+- **Word count**: 2191 → 2232 (+41)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 3 cross-links added
+- **Output**: [deep-review-2026-03-29-stochastic-amplification-and-neural-selection](/reviews/deep-review-2026-03-29-stochastic-amplification-and-neural-selection/)
+
+## 2026-03-29 13:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Contextual selection in quantum foundations
+- **Output**: [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/)
+- **Word count**: 1202
+- **Based on research**: no
+
+## 2026-03-29 12:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Stochastic amplification and neural selection
+- **Output**: [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/)
+- **Word count**: 2191
+- **Based on research**: yes, [amplification-mechanisms-consciousness-physics-2026-03-18](/research/amplification-mechanisms-consciousness-physics-2026-03-18/)
+
+## 2026-03-29 12:42 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/quantum-darwinism-and-consciousness.md, concepts/weak-measurement-and-post-selection.md
+- **Output**: [pessimistic-2026-03-29-midday](/reviews/pessimistic-2026-03-29-midday/)
+
+## 2026-03-29 12:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Weak measurement and post-selection
+- **Output**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Word count**: 1837
+- **Based on research**: yes, [retrocausal-selection-consciousness-physics-2026-03-14](/research/retrocausal-selection-consciousness-physics-2026-03-14/)
+
+## 2026-03-29 12:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Quantum Darwinism and consciousness
+- **Output**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/)
+- **Word count**: 1730
+- **Based on research**: yes, [post-decoherence-selection-mechanisms-2026-03-29](/research/post-decoherence-selection-mechanisms-2026-03-29/)
+
+## 2026-03-29 11:57 UTC - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Word count**: 1127 → 1228 (+101)
+- **Critical issues addressed**: 1 (fabricated reference "Luppi & Adlam" replaced with correct attribution to Colanero 2012 and d'Espagnat 1976)
+- **Medium issues addressed**: 4 (five-families framing, missing dissolution response, unmarked Map proposal, missing cross-links)
+- **Enhancements made**: 3 (cross-links to trilemma/causal-closure/interactionist-dualism, expanded Further Reading, dissolution-response paragraph)
+- **Output**: [deep-review-2026-03-29-post-decoherence-selection](/reviews/deep-review-2026-03-29-post-decoherence-selection/)
+
+## 2026-03-29 11:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Post-decoherence selection
+- **Output**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Word count**: 1127
+- **Based on research**: yes, [post-decoherence-selection-mechanisms-2026-03-29](/research/post-decoherence-selection-mechanisms-2026-03-29/)
 
 ## 2026-03-29 11:26 UTC - research-topic
 - **Status**: Success

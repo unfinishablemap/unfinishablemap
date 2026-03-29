@@ -447,11 +447,22 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
-## Reserved Slot (20)
+### 20. The Post-Decoherence Selection Programme
 
-Future apex article will be added as the Map evolves and new thematic clusters emerge. Potential candidates:
+**Slug**: `post-decoherence-selection-programme`
 
-(None so far)
+**Subtitle**: What it would take to build a complete theory of consciousness acting after decoherence
+
+**Thesis**: Five converging lines of inquiry—the post-decoherence selection gap, quantum Darwinism's menu specification, contextuality's structural constraints, weak measurement's boundary-condition alternative, and stochastic amplification's causal bridge—together constitute a physics research programme that specifies how consciousness could act after decoherence, sidestepping the timing objection that has stalled quantum consciousness theories for two decades.
+
+**Source articles**:
+- concepts/post-decoherence-selection
+- topics/quantum-darwinism-and-consciousness
+- concepts/weak-measurement-and-post-selection
+- topics/stochastic-amplification-and-neural-selection
+- concepts/contextual-selection-in-quantum-foundations
+
+**Status**: Created 2026-03-29
 
 ---
 
