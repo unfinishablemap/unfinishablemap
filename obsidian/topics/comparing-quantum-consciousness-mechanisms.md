@@ -4,8 +4,8 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-25T02:39:00+00:00
-last_deep_review: 2026-03-22T13:12:00+00:00
+ai_modified: 2026-03-29T15:42:00+00:00
+last_deep_review: 2026-03-29T15:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[psychophysical-laws]]"
   - "[[mental-causation]]"
   - "[[interactionist-dualism]]"
+  - "[[post-decoherence-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-biology-and-neural-consciousness]]"
@@ -31,6 +32,7 @@ related_articles:
   - "[[quantum-neural-timing-constraints]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
   - "[[testing-consciousness-collapse]]"
+  - "[[quantum-darwinism-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -59,7 +61,7 @@ This comparison evaluates each mechanism along two independent dimensions — sc
 
 Penrose and Hameroff propose that tubulin proteins in microtubules sustain quantum superpositions that collapse when gravitational self-energy reaches a threshold (t = ħ/E_G). Each collapse event constitutes a discrete moment of conscious experience. The "orchestration" comes from entanglement across microtubule networks, coordinated by synaptic inputs.
 
-**Decoherence vulnerability: High.** Orch OR requires sustained superposition across many tubulin dimers until gravitational threshold is reached. Even revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) leave a gap of over three orders of magnitude below neural decision timescales (~300ms). The mechanism requires continuous quantum computation and cannot sidestep this by invoking discrete events.
+**Decoherence vulnerability: High.** Orch OR requires sustained superposition across many tubulin dimers until gravitational threshold is reached. Even revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) leave a gap of over three orders of magnitude below neural decision timescales (~300ms).
 
 **Phenomenological fit: Partial.** Orch OR maps each collapse to a "moment of consciousness," loosely matching the temporal grain of experience. But gravitational collapse is automatic once threshold is reached, leaving no obvious role for felt effort. The mechanism explains *that* consciousness occurs but not *why* it has its phenomenological character.
 
@@ -101,7 +103,7 @@ Matthew Fisher proposes that phosphorus-31 nuclear spins in Posner molecules (Ca
 
 Rather than proposing a specific neural mechanism, hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousness frameworks (particularly [[integrated-information-theory|Integrated Information Theory]]). The core idea: physical collapse mechanisms operate universally as baseline, while consciousness *modulates* collapse parameters — rate, location, or outcome — based on the structure of integrated information. In Chalmers and McQueen's formulation, superpositions involving states with different Q-shapes (different structures in IIT's qualia space) are inherently unstable: the collapse rate scales with Q-shape distance between superposed states, not with scalar Φ alone — though the coupling between Q-shape distance and collapse strength is postulated, not derived from deeper principles.
 
-**Decoherence vulnerability: Not applicable.** These models don't require neural quantum coherence at all. Collapse occurs through modification of the Schrödinger equation itself (stochastic terms in CSL, discrete jumps in GRW). Consciousness modulates an already-occurring physical process rather than maintaining a fragile quantum state, sidestepping the decoherence objection entirely.
+**Decoherence vulnerability: Not applicable.** These models don't require neural quantum coherence at all. Collapse occurs through modification of the Schrödinger equation itself (stochastic terms in CSL, discrete jumps in GRW). Consciousness modulates an already-occurring physical process — a form of [[post-decoherence-selection]] — rather than maintaining a fragile quantum state, sidestepping the decoherence objection entirely.
 
 **Phenomenological fit: Framework-dependent.** The phenomenological predictions depend on which consciousness metric serves as the collapse operator. If Q-shape distance modulates collapse, then consciousness is most effective in highly integrated systems whose superposed states differ structurally — matching the intuition that unified experience correlates with integrated processing. But the model doesn't directly predict the effortful character of attention or the willed/automatic distinction. It explains *where* consciousness acts (systems with rich integrated information structure) without explaining *what it feels like* to act.
 
@@ -132,13 +134,13 @@ Rather than proposing a specific neural mechanism, hybrid models combine spontan
 
 Three patterns emerge from the scientific evaluation; a fourth emerges when tenet alignment is considered separately.
 
-**The decoherence divide.** Mechanisms divide sharply into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). The decoherence objection, while not the decisive blow critics once claimed, still differentially constrains proposals. Mechanisms that sidestep it entirely hold a structural advantage.
+**The decoherence divide.** Mechanisms divide sharply into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). [[quantum-darwinism-and-consciousness|Quantum Darwinism]] sharpens this divide: Zurek's einselection prepares the pointer states that any consciousness mechanism must work with, and proposals operating on the already-decohered mixture avoid the [[timing-gap-problem|timing gap]] entirely. Mechanisms that sidestep decoherence hold a structural advantage.
 
 **Phenomenology matters.** Theories of consciousness should explain what consciousness is like, not merely where it acts. Stapp's model uniquely predicts the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience. Other proposals explain that consciousness plays a causal role without explaining why that role feels the way it does. A complete theory must eventually address both.
 
 **The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface. The [[testing-consciousness-collapse|experimental landscape for distinguishing collapse from decoherence]] is narrowing this gap — particularly through levitated nanoparticle protocols and IIT-based collapse tests — but no experiment yet targets consciousness specifically.
 
-**No single mechanism suffices.** Each proposal illuminates different aspects: Stapp explains the phenomenology of effort; Orch OR connects consciousness to spacetime structure; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The Map's agnosticism reflects genuine uncertainty and the possibility that the full picture requires elements from multiple proposals.
+**No single mechanism suffices.** Each proposal illuminates different aspects: Stapp explains the phenomenology of effort; Orch OR connects consciousness to spacetime structure; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The Map's agnosticism reflects genuine uncertainty — the full picture may require elements from multiple proposals.
 
 ## Relation to Site Perspective
 
@@ -169,6 +171,8 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for scaling quantum effects to neural outcomes
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Penrose OR's experimental frontier: DP model falsification and next-generation tests
 - [[testing-consciousness-collapse]] — The experimental landscape for distinguishing consciousness-collapse from decoherence
+- [[quantum-darwinism-and-consciousness]] — How einselection constrains the menu from which consciousness selects
+- [[post-decoherence-selection]] — The concept of consciousness acting on already-decohered mixtures
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined
 
 ## References

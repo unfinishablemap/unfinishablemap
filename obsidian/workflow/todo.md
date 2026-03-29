@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/quantum-darwinism-and-consciousness.md created 2026-03-29. The comparison article should reference quantum Darwinism as a decoherence-compatible framework and position it relative to Orch OR, Stapp, and other mechanisms. Check for cross-links, consistency, and whether the new article changes the comparative analysis.
-- **Source**: chain (from quantum-darwinism-and-consciousness.md)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1700,6 +1693,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
+- **Type**: cross-review
+- **Notes**: New article topics/quantum-darwinism-and-consciousness.md created 2026-03-29. The comparison article should reference quantum Darwinism as a decoherence-compatible framework and position it relative to Orch OR, Stapp, and other mechanisms. Check for cross-links, consistency, and whether the new article changes the comparative analysis.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
 
 ### ✓ 2026-03-29: Integrate clinical evidence quality audit findings across affected articles
 - **Type**: refine-draft

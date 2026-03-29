@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T13:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 15:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Word count**: 3282 → 3309 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (quantum Darwinism framing in decoherence divide, post-decoherence-selection concept link in CSL-IIT section, cross-links added)
+- **Enhancements made**: 3 (einselection context, concept linking, Further Reading expansion)
+- **Output**: [[reviews/deep-review-2026-03-29-comparing-quantum-consciousness-mechanisms]]
+
 ## 2026-03-29 15:26 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Notes**: Searched topics/ (228/230), concepts/ (226/230), and voids/ (99/100) across 5 iterations. Examined 30+ article pairs including clinical dissociation cluster, phenomenal normativity cluster, self-stultification cluster, and shortest articles. All pairs proved well-differentiated on close reading despite title similarity. Content is modular and complementary, not redundant.
