@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review binding-problem.md after coalesce from phenomenal-binding-and-holism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce merged phenomenal-binding-and-holism.md into binding-problem.md (2026-03-29). Wikilinks already updated across 23 files. Now review related articles — panpsychisms-combination-problem, filter-theory, emergence, neural-binding, aesthetics-and-consciousness — for argument consistency with the expanded binding-problem article. Check whether the holism content changes how these articles frame the binding problem and add any missing cross-links.
-- **Source**: chain (from coalesce 2026-03-29)
-- **Generated**: 2026-03-29
-
 ### P2: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
 - **Type**: cross-review
 - **Status**: pending
@@ -1679,6 +1672,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review binding-problem.md after coalesce from phenomenal-binding-and-holism
+- **Type**: cross-review
+- **Notes**: Coalesce merged phenomenal-binding-and-holism.md into binding-problem.md (2026-03-29). Wikilinks already updated across 23 files. Now review related articles — panpsychisms-combination-problem, filter-theory, emergence, neural-binding, aesthetics-and-consciousness — for argument consistency with the expanded binding-problem article. Check whether the holism content changes how these articles frame the binding problem and add any missing cross-links.
+- **Output**: obsidian/concepts/binding-problem.md -- Context: Cross-review binding-problem.md after coalesce from phenomenal-binding-and-holism
 
 ### ✓ 2026-03-29: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
