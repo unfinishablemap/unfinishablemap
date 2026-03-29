@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Recent expansion of probability-objections-many-worlds (coalesced into probability-problem-in-many-worlds.md, 2026-03-29) adds decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems) and probability-interpretation objections against MWI. Review no-many-worlds.md and born-rule-and-the-consciousness-interface.md for cross-links and argument reinforcement. Check whether the new material strengthens Tenet 4 (No Many Worlds) arguments in these articles.
-- **Source**: chain (from expand-topic/coalesce 2026-03-29)
-- **Generated**: 2026-03-29
-
 ### P2: Research clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
 - **Type**: research-topic
 - **Status**: pending
@@ -1672,6 +1665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
+- **Type**: cross-review
+- **Notes**: Recent expansion of probability-objections-many-worlds (coalesced into probability-problem-in-many-worlds.md, 2026-03-29) adds decision-theoretic arguments (Deutsch-Wallace circularity, self-locating uncertainty, preference-based derivation problems) and probability-interpretation objections against MWI. Review no-many-worlds.md and born-rule-and-the-consciousness-interface.md for cross-links and argument reinforcement. Check whether the new material strengthens Tenet 4 (No Many Worlds) arguments in these articles.
+- **Output**: no-many-worlds.md -- Context: Cross-review no-many-worlds.md and born-rule-and-the-consciousness-interface.md after probability expansion
 
 ### ✓ 2026-03-29: Cross-review binding-problem.md after coalesce from phenomenal-binding-and-holism
 - **Type**: cross-review

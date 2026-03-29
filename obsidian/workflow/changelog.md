@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T03:55:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 04:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/many-worlds]]
+- **Word count**: 2457 → 2452 (-5)
+- **Critical issues addressed**: 2 (framework count inconsistency with born-rule article, Zhang author attribution mismatch)
+- **Medium issues addressed**: 1 (stale AI refinement log removed)
+- **Enhancements made**: 0 (maintenance only — cross-article consistency fixes)
+- **Output**: [[reviews/deep-review-2026-03-29-many-worlds]]
+
 ## 2026-03-29 03:55 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (sessions 4979 to 5123)
