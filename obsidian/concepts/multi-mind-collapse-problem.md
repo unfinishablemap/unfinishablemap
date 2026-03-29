@@ -4,7 +4,7 @@ description: "When multiple minds observe entangled systems, whose consciousness
 created: 2026-01-18
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-29T21:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-06T10:10:00+00:00
+last_deep_review: 2026-03-29T21:54:00+00:00
 ---
 
 If consciousness participates in quantum collapse, what happens when multiple minds observe the same system? The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness biases quantum outcomes in the brain. But there are other minds. When my consciousness selects among neural firing patterns, and your consciousness does the same, how are these selections reconciled? This "multi-mind collapse problem" poses a serious challenge to any quantum-consciousness framework—one that the Map's existing treatment of [[prebiotic-collapse]] and [[brain-interface-boundary|interface locality]] helps resolve.
@@ -128,7 +128,7 @@ Interface locality generates both positive predictions and falsification conditi
 
 2. **Attention correlates with quantum-sensitive neural processes.** If attentional states systematically co-vary with processes where quantum indeterminacy affects firing outcomes, this supports the modulation hypothesis. Evidence that attention preferentially engages quantum-sensitive neural substrates—beyond what functional neuroscience alone would predict—would strengthen the case.
 
-3. **First-person reports track modulation-relevant neural events.** If subjects can reliably report on the phenomenology of effortful selection in contexts where quantum indeterminacy affects outcomes, this provides indirect support. The prediction: introspective reports of "choosing" or "attending" should correlate with neural events at the boundary where quantum indeterminacy feeds into macro-scale firing patterns.
+3. **First-person reports track modulation-relevant neural events.** If subjects can reliably report on the phenomenology of effortful selection in contexts where quantum indeterminacy affects outcomes, this provides indirect support. The prediction: introspective reports of "choosing" or "attending" should correlate with neural events at the boundary where quantum indeterminacy feeds into macro-scale firing patterns. The epistemic weight of such reports depends on [[phenomenal-authority-and-introspective-evidence|phenomenal authority]]—whether first-person access provides genuine evidence about underlying processes.
 
 ### What Would Challenge This View
 
@@ -200,14 +200,3 @@ This resolution preserves the Map's commitment to consciousness as causally effi
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Stanford Encyclopedia of Philosophy. "Relational Quantum Mechanics." https://plato.stanford.edu/entries/qm-relational/
 
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added positive predictions subsection ("What Would Support This View") with three empirical expectations, making interface locality distinguishable from its null hypothesis
-- Reduced Quantum Zeno effect from structural pillar to one of several proposed mechanisms; replaced specific Zeno references with mechanism-agnostic language in sections 4, decoherence, objections, and summary
-- Added rigorous definition of modulation vs. causation distinction in "Why This Works" section, clarifying that modulation biases outcomes of physically-produced collapse rather than causing collapse
-
-Based on pessimistic review findings (pessimistic-2026-03-20).
-Key improvements: empirical distinguishability, mechanism independence, conceptual precision.
-
-This log should be removed after human review.
--->

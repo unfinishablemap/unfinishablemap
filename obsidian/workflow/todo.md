@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced phenomenal-conservatism and phenomenal-authority articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created topics/phenomenal-authority-and-introspective-evidence.md from two archived articles. The following active files reference the archived slugs and need wikilinks updated: topics/epistemology-of-first-person-evidence.md, topics/phenomenology-of-epistemic-cognition.md, topics/methodology-of-consciousness-research.md, topics/self-stultification-as-master-argument.md, topics/consciousness-and-testimony.md, concepts/phenomenal-acquaintance.md, topics/pain-consciousness-and-causal-power.md, topics/consciousness-and-the-problem-of-induction.md
-- **Source**: coalesce
-- **Generated**: 2026-03-29
-
 ### P2: Write voids article on the boundary void
 - **Type**: expand-topic
 - **Status**: pending
@@ -1728,6 +1721,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Update references to coalesced phenomenal-conservatism and phenomenal-authority articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/phenomenal-authority-and-introspective-evidence.md from two archived articles. The following active files reference the archived slugs and need wikilinks updated: topics/epistemology-of-first-person-evidence.md, topics/phenomenology-of-epistemic-cognition.md, topics/methodology-of-consciousness-research.md, topics/self-stultification-as-master-argument.md, topics/consciousness-and-testimony.md, concepts/phenomenal-acquaintance.md, topics/pain-consciousness-and-causal-power.md, topics/consciousness-and-the-problem-of-induction.md
+- **Output**: None -- Context: Update references to coalesced phenomenal-conservatism and phenomenal-authority articles
 
 ### ✓ 2026-03-29: Cross-review epistemology-of-first-person-evidence.md considering phenomenal authority article
 - **Type**: cross-review
