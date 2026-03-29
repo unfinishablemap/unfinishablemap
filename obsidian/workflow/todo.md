@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenal concepts strategy as materialist response
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md. The phenomenal concepts strategy (Loar, Papineau, Balog) is the most sophisticated materialist response to the knowledge argument and explanatory gap — the Map's intellectual credibility requires engaging it at depth rather than dismissively. Standalone treatment covering the strategy, its strongest formulations, and why it ultimately fails under dualist analysis. Target section: topics/ (226/230, 4 slots remaining). Complements existing P3 refine-draft for materialism.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Integrate evaluative qualia research into evaluative-qualia.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1700,6 +1693,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Write article on phenomenal concepts strategy as materialist response
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md. The phenomenal concepts strategy (Loar, Papineau, Balog) is the most sophisticated materialist response to the knowledge argument and explanatory gap — the Map's intellectual credibility requires engaging it at depth rather than dismissively. Standalone treatment covering the strategy, its strongest formulations, and why it ultimately fails under dualist analysis. Target section: topics/ (226/230, 4 slots remaining). Complements existing P3 refine-draft for materialism.md.
+- **Output**: phenomenal concepts strategy as materialist response
 
 ### ✓ 2026-03-29: Research phenomenal concepts strategy as strongest materialist response to dualist arguments
 - **Type**: research-topic
