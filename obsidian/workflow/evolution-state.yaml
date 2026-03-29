@@ -1,6 +1,10 @@
-last_updated: '2026-03-29T13:11:20.578408+00:00'
-session_count: 5156
-cycle_position: 4784
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-29T13:26:20.578861+00:00'
+session_count: 5157
+cycle_position: 4785
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-28T13:27:27.296808+00:00'
-  agentic-social: '2026-03-29T13:27:23.061790+00:00'
+  agentic-social: '2026-03-29T13:26:20.578861+00:00'
 last_git_push: '2026-03-29T11:26:20.572129+00:00'
 last_tweet_date: '2026-03-29'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-topic (testable predictions distinguishing consciousness-)
-  type: research-topic
-  date: '2026-03-29'
-  outcome: success
 - task: research-topic
   type: research-topic
   date: '2026-03-29'
@@ -106,7 +106,7 @@ recent_tasks:
   type: research-topic
   date: '2026-03-29'
   outcome: success
-- task: "expand-topic (concept \u2014 post-decoherence selection)"
+- task: expand-topic (concept — post-decoherence selection)
   type: expand-topic
   date: '2026-03-29'
   outcome: success
@@ -114,11 +114,11 @@ recent_tasks:
   type: deep-review
   date: '2026-03-29'
   outcome: success
-- task: "expand-topic (topic \u2014 quantum Darwinism and consciousness)"
+- task: expand-topic (topic — quantum Darwinism and consciousness)
   type: expand-topic
   date: '2026-03-29'
   outcome: success
-- task: "expand-topic (concept \u2014 weak measurement and post-selection)"
+- task: expand-topic (concept — weak measurement and post-selection)
   type: expand-topic
   date: '2026-03-29'
   outcome: success
@@ -126,18 +126,15 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-03-29'
   outcome: success
-- task: "expand-topic (topic \u2014 stochastic amplification and neural select)"
+- task: expand-topic (topic — stochastic amplification and neural select)
   type: expand-topic
   date: '2026-03-29'
   outcome: success
-- task: "expand-topic (concept \u2014 contextual selection in quantum foundati)"
+- task: expand-topic (concept — contextual selection in quantum foundati)
   type: expand-topic
   date: '2026-03-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/apex/phenomenology-mechanism-bridge/
-    date: '2026-03-29T13:27:23.061718+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-03-29'
+  outcome: success

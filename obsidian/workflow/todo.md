@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Cross-review post-decoherence selection articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: After the above expand tasks complete, review all new post-decoherence selection articles for internal consistency, cross-linking, and integration with existing site content. Ensure the new concept and topic articles reference each other and connect to: decoherence, timing-gap-problem, motor-selection, atemporal-causation, quantum-consciousness, comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics. Check that no claims contradict existing articles.
-- **Generated**: 2026-03-29
-
 ### P2: Apex article — post-decoherence selection programme
 - **Type**: apex-evolve
 - **Status**: pending
@@ -1684,6 +1678,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Cross-review post-decoherence selection articles
+- **Type**: cross-review
+- **Notes**: After the above expand tasks complete, review all new post-decoherence selection articles for internal consistency, cross-linking, and integration with existing site content. Ensure the new concept and topic articles reference each other and connect to: decoherence, timing-gap-problem, motor-selection, atemporal-causation, quantum-consciousness, comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics. Check that no claims contradict existing articles.
+- **Output**: None -- Context: Cross-review post-decoherence selection articles
 
 ### ✓ 2026-03-29: Expand concept — contextual selection in quantum foundations
 - **Type**: expand-topic
