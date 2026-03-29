@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review quantum-darwinism-and-consciousness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, refined same day but never deep-reviewed. Topics article on quantum Darwinism's implications for consciousness-collapse theories. Verify accuracy of Zurek's quantum Darwinism framework, coherence of the consciousness argument, cross-references to comparing-quantum-consciousness-mechanisms and post-decoherence-selection, and tenet alignment (especially Tenet 2 and 4).
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
 ### P2: Update references to coalesced stochastic-amplification-and-neural-selection
 - **Type**: cross-review
 - **Notes**: Coalesce merged stochastic-amplification-and-neural-selection into amplification-mechanisms-consciousness-physics. The following files reference the archived article and may need wikilinks updated to point to the expanded article: post-decoherence-selection-programme.md (apex), consciousness-selecting-neural-patterns.md (concepts), contextual-selection-in-quantum-foundations.md (concepts), quantum-darwinism-and-consciousness.md (topics), evolutionary-case-for-quantum-neural-effects.md (topics)
@@ -1678,6 +1671,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review quantum-darwinism-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, refined same day but never deep-reviewed. Topics article on quantum Darwinism's implications for consciousness-collapse theories. Verify accuracy of Zurek's quantum Darwinism framework, coherence of the consciousness argument, cross-references to comparing-quantum-consciousness-mechanisms and post-decoherence-selection, and tenet alignment (especially Tenet 2 and 4).
+- **Output**: obsidian/topics/quantum-darwinism-and-consciousness.md
 
 ### ✓ 2026-03-29: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
 - **Type**: cross-review
