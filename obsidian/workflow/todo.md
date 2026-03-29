@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review locality.md for quality and currency
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 31 days ago. Concept page on interface locality directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles on amplification mechanisms and the consciousness-physics interface, cross-references to interface-locality and interface-location-problem, and tenet alignment. Check whether the pessimistic review finding about "mind side could be complex" unfalsifiability (see pessimistic-2026-03-28-c.md) has been addressed.
-- **Source**: staleness
-- **Generated**: 2026-03-28
-
 ### P2: Deep review higher-order-theories.md for quality and currency
 - **Type**: deep-review
 - **Status**: pending
@@ -1651,6 +1644,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review locality.md for quality and currency
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 31 days ago. Concept page on interface locality directly relevant to Tenet 2 (Minimal Quantum Interaction). Verify coherence in light of recent articles on amplification mechanisms and the consciousness-physics interface, cross-references to interface-locality and interface-location-problem, and tenet alignment. Check whether the pessimistic review finding about "mind side could be complex" unfalsifiability (see pessimistic-2026-03-28-c.md) has been addressed.
+- **Output**: obsidian/concepts/locality.md
 
 ### ✓ 2026-03-29: Deep review convergent-phenomenological-evidence.md
 - **Type**: deep-review
