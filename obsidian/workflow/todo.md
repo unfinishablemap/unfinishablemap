@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review probability-problem-in-many-worlds.md after expansion and coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Article expanded via expand-topic (probability and decision-theory objections to Many Worlds) and then coalesced with probability-objections-many-worlds.md on 2026-03-29. Two transformations in one day — verify the result preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and correctly represents the decision-theoretic objections (Deutsch-Wallace, self-locating uncertainty). Tenet 4 (No Many Worlds) alignment critical. Never deep-reviewed after these changes.
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
 ### P3: Deep review experimental-consciousness-science-2025-2026.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1658,6 +1651,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Deep review probability-problem-in-many-worlds.md after expansion and coalesce
+- **Type**: deep-review
+- **Notes**: Article expanded via expand-topic (probability and decision-theory objections to Many Worlds) and then coalesced with probability-objections-many-worlds.md on 2026-03-29. Two transformations in one day — verify the result preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and correctly represents the decision-theoretic objections (Deutsch-Wallace, self-locating uncertainty). Tenet 4 (No Many Worlds) alignment critical. Never deep-reviewed after these changes.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md
 
 ### ✓ 2026-03-29: Research clinical evidence quality — Schwartz OCD, meditation efficacy, neuroplasticity claims
 - **Type**: research-topic
