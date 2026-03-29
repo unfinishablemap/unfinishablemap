@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T13:27:00+00:00
+ai_modified: 2026-03-29T17:19:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-03-29 17:19 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Boundary Void — why consciousness cannot determine its own spatial, temporal, or functional boundaries from within
+- **Category**: Mixed (Unexplored / Unexplorable / Occluded)
+- **Output**: [[research/voids-boundary-void-2026-03-29]]
+- **Key finding**: The boundary problem has received remarkably little attention (~5 papers vs. 92 on binding), and this scholarly neglect may itself be a cognitive signature — consciousness takes its own boundaries for granted because the investigation cannot step outside them
 
 ## 2026-03-29 17:12 UTC - deep-review
 - **Status**: Success
