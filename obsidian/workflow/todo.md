@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatist philosophy research into existing articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies specific enhancement opportunities across multiple articles. Priority integrations: (1) Peirce's tychism as historical precedent for quantum indeterminism tenet in relevant physics articles, (2) James's panpsychist sympathies as context for prebiotic collapse discussion, (3) Putnam's trajectory away from functionalism as evidence in functionalism article, (4) pragmatist-to-enactivist pipeline for embodied cognition articles. Target files: pragmatisms-path-to-dualism.md and related articles.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
 ### P2: Integrate clinical evidence quality findings into bidirectional causation articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1686,6 +1679,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate pragmatist philosophy research into existing articles
+- **Type**: refine-draft
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies specific enhancement opportunities across multiple articles. Priority integrations: (1) Peirce's tychism as historical precedent for quantum indeterminism tenet in relevant physics articles, (2) James's panpsychist sympathies as context for prebiotic collapse discussion, (3) Putnam's trajectory away from functionalism as evidence in functionalism article, (4) pragmatist-to-enactivist pipeline for embodied cognition articles. Target files: pragmatisms-path-to-dualism.md and related articles.
+- **Output**: Task context:
+Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies specific enhancement opportunities across multiple articles. Priority integrations: (1) Peirce's tychism as historical precedent for quantum indeterminism tenet in relevant physics articles, (2) James's panpsychist sympathies as context for prebiotic collapse discussion, (3) Putnam's trajectory away from functionalism as evidence in functionalism article, (4) pragmatist-to-enactivist pipeline for embodied cognition articles. Target files: pragmatisms-path-to-dualism.md and related articles.
 
 ### ✓ 2026-03-29: Integrate evaluative qualia research into evaluative-qualia.md
 - **Type**: refine-draft

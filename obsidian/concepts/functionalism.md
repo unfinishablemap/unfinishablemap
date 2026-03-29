@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-25T15:59:00+00:00
+ai_modified: 2026-03-29T10:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,8 @@ related_articles:
   - "[[consciousness-and-the-philosophy-of-biology]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[phenomenal-non-compositionality]]"
+  - "[[pragmatisms-path-to-dualism]]"
+  - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -62,6 +64,12 @@ Mental states are individuated by their causal roles mediating sensory inputs, o
 The key functionalist insight: the same mental state can be realized by different physical substrates. Pain in humans involves C-fiber activation; pain in octopuses involves different neurons; pain in hypothetical aliens might involve something not remotely like neurons. What makes all these "pain" is the functional role, not the physical implementation.
 
 This seems to follow from common sense. We attribute pain to dogs without demanding their brains be identical to ours. We might attribute it to sufficiently sophisticated robots. What matters is how the system behaves and how internal states relate to inputs and outputs.
+
+## The Architect's Defection
+
+Hilary Putnam invented functionalism. In "Psychological Predicates" (1967), he proposed that mental states are defined by their computational roles — the multiple realizability thesis that became functionalism's cornerstone. Putnam later abandoned his own creation. In *Representation and Reality* (1988), he argued that functionalism remained committed to an internalist conception of mental states that his own work on semantic externalism had discredited. If "meanings ain't in the head" — if mental content is partly constituted by environmental and social context — then no purely internal functional specification can capture what a mental state is.
+
+Putnam's trajectory did not stop at rejecting functionalism. Under William James's influence, he developed "pragmatic realism" — the view that truth is what would be justified under epistemically ideal conditions, conditions that essentially involve conscious rational agents. Each stage of his intellectual development moved further from reductive physicalism: functionalism → internal realism → pragmatic realism. The architect found the building uninhabitable and moved progressively toward a framework that grants consciousness an ineliminable role in constituting the meaningful world that science describes. When the philosopher who provided functionalism's most powerful argument (multiple realizability) concludes that the framework cannot account for meaning or reference, that is evidence the profession has not adequately absorbed.
 
 ## Modern Functionalist Frameworks
 
@@ -212,6 +220,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [[causal-closure]] — The assumption functionalism inherits from materialism
 - [[integrated-information-theory]] — A theory that partially rejects functionalism
 - [[metaphysics-of-information-under-dualism]] — Why information's substrate independence doesn't extend to consciousness
+- [[pragmatisms-path-to-dualism]] — How pragmatism's own logic undermines the functionalist framework
 - [[tenets]] — Why the Map rejects the functionalist view
 - [[types-of-ai-phenomenal-experience]] — Six categories for AI phenomenal experience, including functional phenomenality and why the Map rejects it
 
@@ -230,17 +239,18 @@ None of these would logically refute dualism (the conceivability arguments would
 1. Nakagaki, T., Yamada, H. & Tóth, Á. (2000). "Maze-solving by an amoeboid organism." *Nature*, 407, 470.
 1. Oizumi, M., Albantakis, L. & Tononi, G. (2014). "From the Phenomenology to the Mechanisms of Consciousness: Integrated Information Theory 3.0." *PLOS Computational Biology*, 10(5), e1003588.
 1. Putnam, H. (1967). "Psychological Predicates." In *Art, Mind, and Religion*.
+1. Putnam, H. (1988). *Representation and Reality*. MIT Press.
 1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
 1. Tero, A., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." *Science*, 327(5964), 439-442.
 
-<!-- AI REFINEMENT LOG - 2026-03-24
+<!-- AI REFINEMENT LOG - 2026-03-29
 Changes made:
-1. Engaged with functionalist response on multiple realizability: added paragraph acknowledging that functionalists argue multiply realizable properties are genuinely higher-level (Putnam, Fodor), then gave Map's response that higher-level generality is not ontological independence (Issue 1 from pessimistic-2026-03-24b, Medium)
-2. Added "What Would Challenge This View?" subsection under Empirical Tractability: specifies three conditions that would pressure the Map's rejection of functionalism—perfect functional-experience tracking, AI phenomenal understanding, quantum irrelevance to consciousness (Issue 2 from pessimistic-2026-03-24b, Medium)
-3. Added Fodor (1974) reference
+1. Added "The Architect's Defection" section: Putnam's trajectory from inventing functionalism (1967) through abandoning it (1988) to pragmatic realism — the most dramatic internal challenge to functionalism from its own creator
+2. Added Putnam (1988) Representation and Reality to references
+3. Added cross-reference to pragmatisms-path-to-dualism in related_articles and Further Reading
+4. Based on research in pragmatist-philosophy-of-mind-2026-03-28.md identifying Putnam's self-refutation as a high-priority enhancement
 
-Based on pessimistic review pessimistic-2026-03-24b.md.
-Key improvements: Intellectual honesty on functionalist higher-level properties argument; falsifiability conditions now explicit.
+Previous refinement (2026-03-24): functionalist higher-level properties argument; falsifiability conditions.
 
 This log should be removed after human review.
 -->

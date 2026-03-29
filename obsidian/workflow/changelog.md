@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 10:27 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/functionalism]], [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Changes**: Added "The Architect's Defection" section to functionalism.md (Putnam's trajectory from inventing to abandoning functionalism); added "Pragmatist Genealogy" section to enactivism article (Dewey → Merleau-Ponty → Varela/Thompson pipeline, tension with anti-dualist conclusions); cross-references and citations added to both
+- **Published**: yes
+
 ## 2026-03-29 10:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-concepts-as-materialist-response]]
