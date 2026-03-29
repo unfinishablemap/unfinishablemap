@@ -5,6 +5,13 @@ ai_modified: 2026-03-29T04:15:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 12:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Weak measurement and post-selection
+- **Output**: [[concepts/weak-measurement-and-post-selection]]
+- **Word count**: 1837
+- **Based on research**: yes, [[research/retrocausal-selection-consciousness-physics-2026-03-14]]
+
 ## 2026-03-29 12:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Quantum Darwinism and consciousness

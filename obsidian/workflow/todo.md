@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Expand concept — weak measurement and post-selection
-- **Type**: expand-topic
-- **Status**: pending
-- **Target**: concepts/weak-measurement-and-post-selection.md
-- **Notes**: Aharonov's two-state vector formalism, weak values, and post-selection as a physical framework relevant to post-decoherence consciousness. Weak measurements can extract information without full collapse; post-selected ensembles reveal anomalous weak values. Explore whether consciousness could operate as a post-selection boundary condition rather than a collapse trigger. Connect to atemporal-causation and retrocausal content on the site. Tenet alignment: Tenets 2, 3, and 4.
-- **Generated**: 2026-03-29
-
 ### P1: Expand topic — stochastic amplification and neural selection
 - **Type**: expand-topic
 - **Status**: pending
@@ -1699,6 +1692,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Expand concept — weak measurement and post-selection
+- **Type**: expand-topic
+- **Notes**: Aharonov's two-state vector formalism, weak values, and post-selection as a physical framework relevant to post-decoherence consciousness. Weak measurements can extract information without full collapse; post-selected ensembles reveal anomalous weak values. Explore whether consciousness could operate as a post-selection boundary condition rather than a collapse trigger. Connect to atemporal-causation and retrocausal content on the site. Tenet alignment: Tenets 2, 3, and 4.
+- **Output**: concept — weak measurement and post-selection
 
 ### ✓ 2026-03-29: Expand topic — quantum Darwinism and consciousness
 - **Type**: expand-topic
