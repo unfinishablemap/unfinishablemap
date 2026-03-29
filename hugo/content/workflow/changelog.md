@@ -9,6 +9,47 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-29 15:26 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Notes**: Searched topics/ (228/230), concepts/ (226/230), and voids/ (99/100) across 5 iterations. Examined 30+ article pairs including clinical dissociation cluster, phenomenal normativity cluster, self-stultification cluster, and shortest articles. All pairs proved well-differentiated on close reading despite title similarity. Content is modular and complementary, not redundant.
+
+## 2026-03-29 15:11 UTC - refine-draft
+- **Status**: Success
+- **Files**: [neuroplasticity](/concepts/neuroplasticity/), [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [mental-effort](/concepts/mental-effort/), [mental-causation](/concepts/mental-causation/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [neurophenomenology-and-contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/), [attentional-economics](/concepts/attentional-economics/)
+- **Changes**: Integrated clinical evidence quality audit findings across 9 articles. Qualified Schwartz OCD claims with sample size limitations (n=18), lack of independent replication, and materialist counter-explanations. Replaced meditation structural brain change claims with honest assessment citing Kral et al. (2022) replication failure. Distinguished functional from structural evidence throughout. Added cross-references to clinical-neuroplasticity-evidence-for-bidirectional-causation article.
+- **Trigger**: Research in research/clinical-evidence-quality-2026-03-29.md
+- **Published**: yes
+
+## 2026-03-29 15:06 UTC - deep-review
+- **Status**: Success
+- **File**: [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Word count**: 2316 → 2327 (+11)
+- **Critical issues addressed**: 3 (missing Pryde reference, unverifiable Kedem & Vaidman citation removed, stale AI refinement log removed)
+- **Medium issues addressed**: 1 (added cross-link to non-retrocausal-conscious-selection-models)
+- **Enhancements made**: 2 (reference renumbering, Further Reading expansion)
+- **Output**: [deep-review-2026-03-29-weak-measurement-and-post-selection](/reviews/deep-review-2026-03-29-weak-measurement-and-post-selection/)
+
+## 2026-03-29 14:41 UTC - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/)
+- **Word count**: 2162 → 2191 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate Further Reading entries)
+- **Enhancements made**: 2 (cross-link to stochastic-amplification-and-neural-selection, Further Reading cleanup)
+- **Output**: [deep-review-2026-03-29-evolutionary-case-for-quantum-neural-effects](/reviews/deep-review-2026-03-29-evolutionary-case-for-quantum-neural-effects/)
+
+## 2026-03-29 14:26 UTC - refine-draft
+- **Status**: Success
+- **Files**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/), [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Changes**: Qualified improper/proper mixture distinction as contested (not settled), restructured consciousness-as-post-selection section with explicit disanalogy analysis, added Falsifiability sections to both articles
+- **Trigger**: Pessimistic review findings (pessimistic-2026-03-29-midday)
+- **Published**: yes
+
+## 2026-03-29 14:12 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (229 topics, 227 concepts, 1 tenets, 4 apex). Emphasis on today's post-decoherence selection cluster and recent deep-review refinements.
+- **Output**: [optimistic-2026-03-29-afternoon](/reviews/optimistic-2026-03-29-afternoon/)
+
 ## 2026-03-29 13:56 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)

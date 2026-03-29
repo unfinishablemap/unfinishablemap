@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-29 02:22:00+00:00
+ai_modified: 2026-03-29 15:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -140,7 +140,7 @@ The Map's response: Frankish's functional-seeming move works for misrepresentati
 
 **The phenomenology of effort persists.** When you deliberately maintain attention against distracting stimuli—reading a difficult text in a noisy room—you experience effort. This phenomenology is consistent with what the Zeno mechanism predicts: repeated observation requires ongoing engagement, which feels like work. Illusionism must explain why neural processes generate this specific phenomenology. The experience of effort isn't explained by denying it exists.
 
-**Selection has measurable effects.** Jeffrey Schwartz's OCD research demonstrates that patients redirecting attention produce measurable brain changes—caudate nucleus activity decreases when patients cognitively reframe intrusive thoughts. Calling selection "illusory" doesn't eliminate the phenomenon: why does deliberate mental effort produce specific neural outcomes?
+**Selection has measurable effects.** Jeffrey Schwartz's OCD research found that patients completing cognitive-behavioural therapy showed decreased caudate nucleus activity on PET imaging (Schwartz et al., 1996)—though the study had only 18 participants and has not been independently replicated (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for honest assessment). Calling selection "illusory" doesn't eliminate the phenomenon that needs explaining: why does cognitive-behavioural intervention produce specific neural outcomes?
 
 **The dialectical situation is not settled.** The regress argument against illusionism is not decisive, and the Map should not present it as such. Frankish's functional-seeming response is a serious philosophical position. What the regress does establish is that illusionism faces its own explanatory burden—the "illusion problem"—that is at least as demanding as the hard problem it replaces.
 
@@ -264,6 +264,16 @@ Changes made:
 
 Coordinated with filter-theory.md and downward-causation.md per pessimistic-2026-03-20-c.md.
 Key improvements: Honest treatment of empirical evidence gap, engagement with illusionist dialectic, explicit falsifiability analysis.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Illusionist section: qualified Schwartz OCD claim with sample size (n=18), lack of replication, cross-reference to clinical neuroplasticity evidence article
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Schwartz evidence honestly calibrated in illusionist response.
 
 This log should be removed after human review.
 -->

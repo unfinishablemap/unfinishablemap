@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 15:00:00+00:00
+ai_modified: 2026-03-29 14:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,23 +38,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apex article — post-decoherence selection programme
-- **Type**: apex-evolve
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering quantum Darwinism insights
+- **Type**: cross-review
 - **Status**: pending
-- **Target**: apex/post-decoherence-selection.md
-- **Notes**: Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
+- **Notes**: New article topics/quantum-darwinism-and-consciousness.md created 2026-03-29. The comparison article should reference quantum Darwinism as a decoherence-compatible framework and position it relative to Orch OR, Stapp, and other mechanisms. Check for cross-links, consistency, and whether the new article changes the comparative analysis.
+- **Source**: chain (from quantum-darwinism-and-consciousness.md)
 - **Generated**: 2026-03-29
 
-### P2: Address falsifiability and disanalogy gaps in quantum-darwinism and weak-measurement articles
-- **Type**: refine-draft
+### P2: Cross-review consciousness-selecting-neural-patterns.md considering stochastic amplification insights
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) quantum-darwinism-and-consciousness.md treats the improper/proper mixture distinction as settling the outcome problem when it's contested; (2) weak-measurement-and-post-selection.md has insufficient grounding for the leap from laboratory post-selection to consciousness-as-boundary-condition. Both articles also share a falsifiability vulnerability. See pessimistic-2026-03-29-midday.md
+- **Notes**: New article topics/stochastic-amplification-and-neural-selection.md created 2026-03-29. The neural selection patterns article should reference stochastic amplification as a mechanism by which consciousness influence propagates from quantum to neural scales. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Source**: chain (from stochastic-amplification-and-neural-selection.md)
 - **Generated**: 2026-03-29
 
-### P2: Deep review evolutionary-case-for-quantum-neural-effects.md
+### P2: Cross-review quantum-indeterminacy-free-will.md considering contextual selection insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/contextual-selection-in-quantum-foundations.md created 2026-03-29. The free will article's treatment of quantum indeterminacy as a locus for conscious influence should reference contextual selection as a specific mechanism. Check for cross-links and whether contextual selection strengthens or complicates the free will argument.
+- **Source**: chain (from contextual-selection-in-quantum-foundations.md)
+- **Generated**: 2026-03-29
+
+### P2: Deep review quantum-darwinism-and-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic, never deep-reviewed. Only 3 inbound links (low integration). Topics article arguing that if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same logic applies to neural systems. Verify accuracy of quantum biology claims (avian magnetoreception, enzyme tunneling), coherence of the evolutionary argument, cross-references to comparing-quantum-consciousness-mechanisms and quantum-biology-and-neural-consciousness, and tenet alignment (Tenets 2 and 3).
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, refined same day but never deep-reviewed. Topics article on quantum Darwinism's implications for consciousness-collapse theories. Verify accuracy of Zurek's quantum Darwinism framework, coherence of the consciousness argument, cross-references to comparing-quantum-consciousness-mechanisms and post-decoherence-selection, and tenet alignment (especially Tenet 2 and 4).
+- **Source**: staleness
+- **Generated**: 2026-03-29
+
+### P2: Deep review stochastic-amplification-and-neural-selection.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Topics article on how stochastic neural amplification mechanisms could propagate consciousness's quantum-level influence to neural-scale decisions. Verify accuracy of neural stochastic amplification claims, coherence, cross-references to amplification-mechanisms and consciousness-selecting-neural-patterns, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-29
+
+### P2: Deep review contextual-selection-in-quantum-foundations.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-29 via expand-topic, never deep-reviewed. Concept page on contextual selection as a mechanism for consciousness-physics interaction within quantum foundations. Verify accuracy of contextuality claims (Kochen-Specker, Bell), coherence, cross-references to quantum-indeterminacy-free-will and post-decoherence-selection, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-29
 
@@ -1679,6 +1701,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-29: Integrate clinical evidence quality audit findings across affected articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found that key clinical evidence cited across the Map has quality issues: Schwartz OCD study had only 9 participants, meditation neuroimaging claims have failed replication attempts, and "self-directed neuroplasticity" is philosophically overinterpreted. Affected articles include clinical-neuroplasticity-evidence-for-bidirectional-causation.md, downward-causation.md, and other articles citing these clinical findings. Qualify claims or add caveats to maintain epistemic credibility.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md found that key clinical evidence cited across the Map has quality issues: Schwartz OCD study had only 9 participants, meditation neuroimaging claims have failed replication attempts, and "self-directed neuroplasticity" is philosophically overinterpreted. Affected articles include clinical-neuroplasticity-evidence-for-bidirectional-causation.md, downward-causation.md, and other articles citing these clinical findings. Qualify claims or add caveats to maintain epistemic credibility.
+
+### ✓ 2026-03-29: Deep review evolutionary-case-for-quantum-neural-effects.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic, never deep-reviewed. Only 3 inbound links (low integration). Topics article arguing that if evolution optimised quantum effects for bird navigation and enzyme catalysis, the same logic applies to neural systems. Verify accuracy of quantum biology claims (avian magnetoreception, enzyme tunneling), coherence of the evolutionary argument, cross-references to comparing-quantum-consciousness-mechanisms and quantum-biology-and-neural-consciousness, and tenet alignment (Tenets 2 and 3).
+- **Output**: obsidian/topics/evolutionary-case-for-quantum-neural-effects.md
+
+### ✓ 2026-03-29: Address falsifiability and disanalogy gaps in quantum-darwinism and weak-measurement articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) quantum-darwinism-and-consciousness.md treats the improper/proper mixture distinction as settling the outcome problem when it's contested; (2) weak-measurement-and-post-selection.md has insufficient grounding for the leap from laboratory post-selection to consciousness-as-boundary-condition. Both articles also share a falsifiability vulnerability. See pessimistic-2026-03-29-midday.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues: (1) quantum-darwinism-and-consciousness.md treats the improper/proper mixture distinction as settling the outcome problem when it's contested; (2) weak-measurement-and-post-selection.md has insufficient grounding for the leap from laboratory post-selection to consciousness-as-boundary-condition. Both articles also share a falsifiability vulnerability. See pessimistic-2026-03-29-midday.md
+
+### ✓ 2026-03-29: Apex article — post-decoherence selection programme
+- **Type**: apex-evolve
+- **Notes**: Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
+- **Output**: Apex article — post-decoherence selection programme
+
+Task context:
+Synthesis apex article pulling together the full post-decoherence selection programme. Should weave together the concept page, quantum Darwinism, weak measurement/post-selection, stochastic amplification, and contextual selection into a coherent narrative. Frame as the Map's physics research programme: what would it take to build a complete theory of consciousness acting after decoherence? This should run after all the P1 tasks above are complete.
 
 ### ✓ 2026-03-29: Cross-review post-decoherence selection articles
 - **Type**: cross-review
@@ -4908,4 +4955,40 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The gap between stating mathematical constraints on consciousness-physics coupling and writing down the actual coupling function. Identified precisely in consciousness-physics-interface-formalism, referenced across multiple formalism articles but lacking canonical definition. Target section: concepts/ (225/230). See optimistic-2026-03-29.md
+- **Generated**: 2026-03-29
+
+### P3: Write article on consciousness in minimal neural systems
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's framework makes predictions about where consciousness begins in biological hierarchy. C. elegans (302 neurons) and Physarum (no neurons) are test cases—does the framework predict they lack consciousness despite positive IIT Phi? Falsifiability condition needing explicit treatment. Connects to functionalism, consciousness-as-amplifier, interface-specification-problem. See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Write article on process philosophy and interactionist dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Whitehead's actual occasions, prehension, and creative synthesis offer either alternative or complementary approach to quantum interaction model. Repeatedly referenced (prehension, subjective-aim) but never systematically engaged. Clarify whether Whiteheadian process thought is ally, competitor, or different level of description. See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Write falsifiability architecture synthesis (apex candidate)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Systematic index of what would refute each tenet—dualism, bidirectional interaction, quantum interface, post-decoherence selection—with predictions shared with vs. unique to competing frameworks. Currently scattered across dozens of articles. Would demonstrate genuine empirical commitments. Builds on consciousness-physics-interface-formalism, experimental-consciousness-science, the-reverse-inference, post-decoherence-selection. See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Add cross-links from optimistic review 2026-03-29 afternoon findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: stochastic-amplification↔consciousness-as-amplifier, post-decoherence-selection↔contextual-selection-in-quantum-foundations, quantum-darwinism↔integrated-information-theory, stochastic-amplification↔clinical-neuroplasticity, post-decoherence-selection-programme(apex)↔consciousness-physics-interface-formalism, evaluative-qualia↔moral-architecture-of-consciousness(apex). See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for post-decoherence gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The physical interval between basis selection (decoherence) and outcome actualisation—the Map's identified causal locus for consciousness. Referenced across the new post-decoherence cluster but lacking canonical concept page. Distinct from specification gap and explanatory gap. Target section: concepts/ (225/230). See optimistic-2026-03-29-afternoon.md
+- **Generated**: 2026-03-29
+
+### P3: Create concept page for neural criticality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The boundary state between ordered and chaotic neural dynamics where small perturbations cascade into large-scale effects. Central to amplification argument (Beggs & Plenz neuronal avalanches, power-law distributions). Mentioned without systematic treatment. Target section: concepts/ (225/230). See optimistic-2026-03-29-afternoon.md
 - **Generated**: 2026-03-29

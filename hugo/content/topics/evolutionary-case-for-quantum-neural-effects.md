@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-25 04:54:00+00:00
+ai_modified: 2026-03-29 14:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: If evolution optimised quantum effects for bird navigation and enzy
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 04:54:00+00:00
+last_deep_review: 2026-03-29 14:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[quantum-biology-neural-mechanisms-2026-01-24]]'
 - '[[dimensionality-void]]'
+- '[[stochastic-amplification-and-neural-selection]]'
 - '[[biological-cognitive-closure]]'
 title: The Evolutionary Case for Quantum Neural Effects
 topics:
@@ -64,7 +65,7 @@ Quantum entanglement provides ontological holism: an entangled state is fundamen
 
 ### Stochastic Search and Decision-Making
 
-Neural decision-making requires exploring large solution spaces under time pressure. Classical stochastic search—random sampling followed by evaluation—scales poorly with problem complexity. Quantum effects could enhance this process in two ways:
+Neural decision-making requires exploring large solution spaces under time pressure. Classical stochastic search—random sampling followed by evaluation—scales poorly with problem complexity. (The related concept of [stochastic amplification](/topics/stochastic-amplification-and-neural-selection/) explores how even weak biases at quantum decision points could be amplified into macroscopic neural outcomes through noise-driven threshold crossings.) Quantum effects could enhance this process in two ways:
 
 First, quantum superposition allows simultaneous exploration of multiple states before collapse selects one. If neural microtubules or other structures can maintain even brief superpositions, the system samples possibilities that classical noise cannot access.
 
@@ -136,14 +137,14 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 
 ## Further Reading
 
-- [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects in living systems
+- [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Established quantum effects and five proposed neural mechanisms
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Converging evidence for neural quantum effects
-- [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) — Five proposed mechanisms and coherence protection
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evolution as evidence for consciousness's causal role
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolution works under dualist assumptions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness arose and what selected for it
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories
 - [dimensionality-void](/voids/dimensionality-void/) — Why binding high-dimensional neural activity into unified experience is harder than it appears
+- [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/) — How weak quantum biases get amplified into macroscopic neural outcomes
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How fitness-shaped intuitions bias our judgment of biological plausibility
 
 ## References

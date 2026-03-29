@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-29 15:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -85,7 +85,7 @@ The framework yields a practical corollary: *improving attentional skills increa
 
 These aren't merely subjective improvements. Within the Map's framework, they are *expansions of conscious causal power*. A meditator who can sustain focus for thirty minutes has more "attentional capital" to invest than someone whose attention scatters every thirty seconds.
 
-[Mental effort](/concepts/mental-effort/) phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: whatever the mechanism, sustained attention holds neural patterns stable against competing alternatives. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost. Schwartz & Begley (2002) document this empirically: OCD patients who learn to redirect attention voluntarily produce measurable neuroplastic change, demonstrating that sustained attentional effort has lasting physical consequences.
+[Mental effort](/concepts/mental-effort/) phenomenology supports this interpretation. Sustaining attention *feels* effortful—there's a phenomenal cost. This felt effort corresponds to genuine work: whatever the mechanism, sustained attention holds neural patterns stable against competing alternatives. Training reduces the effort required for equivalent focus, which is to say it increases attentional efficiency—more stabilisation per unit of felt cost. Schwartz & Begley (2002) cite OCD patients who completed cognitive-behavioural therapy showing altered caudate metabolism on PET imaging—though the original study had only 18 participants and has not been independently replicated (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)). The finding is suggestive but the causal role of attentional effort specifically, versus behavioural change more broadly, remains an open question.
 
 ## The Phenomenology of Attentional Choice
 
@@ -221,3 +221,13 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Qualified Schwartz & Begley (2002) citation with sample size caveat (n=18), lack of replication, cross-reference to clinical neuroplasticity evidence article
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Schwartz evidence honestly calibrated.
+
+This log should be removed after human review.
+-->
