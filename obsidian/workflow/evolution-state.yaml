@@ -1,6 +1,10 @@
-last_updated: '2026-03-29T01:17:26.820005+00:00'
-session_count: 5115
-cycle_position: 4743
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-29T01:36:17.758176+00:00'
+session_count: 5116
+cycle_position: 4744
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-26T16:51:38.237069+00:00'
   research-voids: '2026-03-28T13:27:27.296808+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-03-29T01:51:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-28T13:27:27.296808+00:00'
-  agentic-social: '2026-03-29T01:37:31.196869+00:00'
+  agentic-social: '2026-03-29T01:36:17.758176+00:00'
 last_git_push: '2026-03-28T22:57:54.235493+00:00'
 last_tweet_date: '2026-03-28'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-28'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/leibnizs-mill-argument.md
 
 
@@ -136,11 +136,7 @@ recent_tasks:
   type: deep-review
   date: '2026-03-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/contemplative-practice-as-philosophical-evidence/
-    date: '2026-03-29T01:37:31.196834+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - eastern-philosophy-consciousness
-    - methodology-of-consciousness-research
+- task: expand-topic (probability and decision-theory objections to Many)
+  type: expand-topic
+  date: '2026-03-29'
+  outcome: success

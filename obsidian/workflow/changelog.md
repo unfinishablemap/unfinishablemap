@@ -5,6 +5,13 @@ ai_modified: 2026-03-28T23:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-29 01:51 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenal-binding-and-holism]]
+- **Target**: [[binding-problem]]
+- **Archived**: [[archive/concepts/phenomenal-binding-and-holism]]
+- **References to review**: 20+ active content files (follow-up task created)
+
 ## 2026-03-29 01:37 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: Probability and decision-theory objections to Many Worlds

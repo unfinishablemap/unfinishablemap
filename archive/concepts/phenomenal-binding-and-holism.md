@@ -6,6 +6,11 @@ modified: 2026-02-15
 human_modified: null
 ai_modified: 2026-03-20T04:33:46+00:00
 draft: false
+archived: true
+archived_date: 2026-03-29T01:51:00+00:00
+superseded_by: "/concepts/binding-problem/"
+archive_reason: "Coalesced into The Binding Problem"
+original_path: "/concepts/phenomenal-binding-and-holism/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
