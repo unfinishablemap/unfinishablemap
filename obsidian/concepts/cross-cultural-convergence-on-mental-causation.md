@@ -32,7 +32,7 @@ last_curated:
 last_deep_review: 2026-03-07T09:38:00+00:00
 ---
 
-Philosophical traditions that developed in isolation—Indian, African, and Western—independently concluded that consciousness causally influences the physical world. This cross-cultural convergence on [[mental-causation|mental causation]] is evidentially significant. When independent lines of inquiry reach the same conclusion through different methods and frameworks, the probability that all are wrong drops substantially. The pattern supports [[interactionist-dualism]] not through any single tradition's authority, but through the collective weight of independent discovery.
+Philosophical traditions that developed in isolation—Indian, African, and Western—independently concluded that consciousness causally influences the physical world. This cross-cultural convergence on [[mental-causation-and-downward-causation|mental causation]] is evidentially significant. When independent lines of inquiry reach the same conclusion through different methods and frameworks, the probability that all are wrong drops substantially. The pattern supports [[interactionist-dualism]] not through any single tradition's authority, but through the collective weight of independent discovery.
 
 ## The Convergence Pattern
 

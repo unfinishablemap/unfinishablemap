@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[causal-closure]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[causal-delegation]]"
   - "[[delegatory-dualism]]"
@@ -30,7 +30,7 @@ last_curated:
 last_deep_review: 2026-03-13T17:19:00+00:00
 ---
 
-Observational closure is the thesis that no *observable* violations of physical causal patterns exist—that physics appears causally complete in every domain accessible to experiment. Bradford Saad (2025) introduced this distinction to separate what the evidence actually shows from the stronger metaphysical claim that [[causal-closure|causal closure]] defenders typically assert. The distinction matters because the standard argument against [[mental-causation]] requires *universal* closure (no exceptions anywhere), while the scientific evidence supports only observational closure (no *detectable* exceptions). Dualists who accept observational closure while denying universal closure can maintain that consciousness genuinely causes physical effects without contradicting any empirical finding.
+Observational closure is the thesis that no *observable* violations of physical causal patterns exist—that physics appears causally complete in every domain accessible to experiment. Bradford Saad (2025) introduced this distinction to separate what the evidence actually shows from the stronger metaphysical claim that [[causal-closure|causal closure]] defenders typically assert. The distinction matters because the standard argument against [[mental-causation-and-downward-causation|mental causation]] requires *universal* closure (no exceptions anywhere), while the scientific evidence supports only observational closure (no *detectable* exceptions). Dualists who accept observational closure while denying universal closure can maintain that consciousness genuinely causes physical effects without contradicting any empirical finding.
 
 ## The Distinction
 
@@ -98,7 +98,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [[causal-closure-debate-historical-survey]] — Historical evolution of the causal closure principle from Descartes to Kim
 - [[causal-delegation]] — The mechanism that respects observational closure through preemption
 - [[delegatory-dualism]] — Saad's full theory developing observational closure as a design constraint
-- [[mental-causation]] — The problem observational closure helps resolve
+- [[mental-causation-and-downward-causation|mental causation]] — The problem observational closure helps resolve
 - [[preemption]] — The causal structure making delegation observationally invisible
 - [[stapp-quantum-mind]] — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [[conservation-laws-and-mental-causation]] — Why mental causation violates neither conservation laws nor observational closure

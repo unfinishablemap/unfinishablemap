@@ -14,7 +14,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[attention-as-interface]]"
   - "[[illusionism]]"
@@ -78,7 +78,7 @@ Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechani
 
 **Upward direction** (brain → consciousness): Neural state configures the interface, determining what aspects of consciousness can manifest. Brain damage produces deficits not because consciousness is damaged but because interface components are—like a radio with blown speakers. This explains [[neural-correlates-of-consciousness|neural correlates]] without entailing production.
 
-**Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [[mental-causation|mental causation]] without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [[amplification-mechanisms-consciousness-physics|amplification mechanisms]]—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
+**Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [[mental-causation-and-downward-causation|mental causation]] without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [[amplification-mechanisms-consciousness-physics|amplification mechanisms]]—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
 
 The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering).
 
@@ -193,7 +193,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[concepts/consciousness-selecting-neural-patterns]] — How selection operates concretely
 - [[mind-brain-separation]] — The rendering engine analogy
-- [[mental-causation]] — Why selection addresses the exclusion problem
+- [[mental-causation-and-downward-causation|mental causation]] — Why selection addresses the exclusion problem
 - [[interactionist-dualism]] — The philosophical framework
 - [[tenets]] — the Map's foundational commitments
 - [[decoherence]] — The quantum coherence challenge and biological exceptions

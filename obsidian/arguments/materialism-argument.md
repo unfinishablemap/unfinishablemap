@@ -16,7 +16,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[explanatory-gap]]"
   - "[[philosophical-zombies]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[knowledge-argument]]"
 related_articles:
@@ -74,7 +74,7 @@ But epiphenomenalism is self-defeating. You are, right now, thinking about consc
 
 As Chalmers argues, the very fact that we discuss consciousness is evidence it is not epiphenomenal. An epiphenomenon could not influence the neurons that move our mouths or type our words.
 
-This creates a trilemma. If consciousness is physical, the zombie is not conceivable. If non-physical but epiphenomenal, we could not talk about it. If non-physical and causally relevant, materialism is false and we need a mechanism for [[mental-causation]]. The Map's tenets take this third option seriously.
+This creates a trilemma. If consciousness is physical, the zombie is not conceivable. If non-physical but epiphenomenal, we could not talk about it. If non-physical and causally relevant, materialism is false and we need a mechanism for [[mental-causation-and-downward-causation|mental causation]]. The Map's tenets take this third option seriously.
 
 ## Quantum Mechanics Is Not Causally Closed
 

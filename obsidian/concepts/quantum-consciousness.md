@@ -15,7 +15,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[decoherence]]"
   - "[[measurement-problem]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
@@ -49,7 +49,7 @@ The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] te
 
 ## The Quantum Opening
 
-The quantum opening addresses [[mental-causation|mental causation]]. Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
+The quantum opening addresses [[mental-causation-and-downward-causation|mental causation]]. Kim's exclusion argument concludes that if physical events have sufficient physical causes, mental causes are excluded. But quantum mechanics provides an alternative.
 
 The [[measurement-problem|measurement problem]] asks: what causes superposition collapse? Physics leaves this open—"Decoherence does not tell how and why only one of these outcomes is measured" (Tomaz et al. 2025). At quantum indeterminacies, [[causal-closure|causal closure]] fails: physical causes are necessary but not sufficient. **An important caveat**: this gap may be epistemic rather than ontological—future physics could close it without invoking consciousness. Interpretations like QBism and relational quantum mechanics dissolve the measurement problem without Many Worlds. The Map's position is that collapse is a real physical event requiring a selector, but this is a philosophical commitment, not a settled result. If consciousness determines which outcome occurs, it causes physical events without competing with physical causes. The [[quantum-measurement-and-consciousness|structural parallel between the measurement problem and the hard problem]]—both concerning where first-person facts enter third-person descriptions—suggests these are not separate puzzles but two faces of the mind-matter interface. A further constraint sharpens the point: consciousness appears constitutively definite—unable to enter the indeterminate states that characterise superposition. This [[consciousness-in-non-collapsed-quantum-states|definiteness constraint]] means the selector never follows the brain into indeterminacy, operating from experiential definiteness while resolving the brain's superposed possibilities.
 
@@ -188,7 +188,7 @@ The Map's tenets don't commit to any specific mechanism. They require:
 
 Orch OR, Stapp, and the other mechanisms in [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]] are all compatible. The Map remains agnostic about which (if any) is correct—what matters is that *some* such mechanism exists.
 
-The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [[mental-causation|mental causation]] from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [[psychophysical-laws|selection laws]] concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
+The Map's position is strong emergentism that specifies its mechanism. Mental causation operates at quantum indeterminacies, where physics provides necessary but not sufficient causes. This transforms [[mental-causation-and-downward-causation|mental causation]] from philosophical puzzle into precise proposal: consciousness causes physical effects by determining what physics leaves undetermined. The [[psychophysical-laws|selection laws]] concept articulates what such downward determination must specify—which mental variables map to which physical parameters through what mechanisms.
 
 **A mysterian caveat**: Even if these mechanisms prove correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [[mysterianism|Colin McGinn's cognitive closure thesis]] suggests human minds may be constitutionally incapable of understanding this connection—not because the problem is unanswerable, but because the answer lies outside our conceptual repertoire. The Map documents mechanisms constrained by physics while acknowledging the ultimate nature of the consciousness-quantum interface may exceed human comprehension.
 
@@ -230,7 +230,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 **Background:**
 - [[concepts/many-worlds]] — Why the Map rejects MWI
-- [[mental-causation]] — The exclusion problem
+- [[mental-causation-and-downward-causation|mental causation]] — The exclusion problem
 - [[measurement-problem]] — Why collapse creates the quantum opening
 - [[it-from-bit-and-participatory-ontology]] — Wheeler's information ontology and the case for informational foundations
 - [[qm-interpretations-beyond-many-worlds]] — Which interpretations leave room for consciousness as causal participant

@@ -23,7 +23,7 @@ related_articles:
   - "[[aesthetics-and-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[free-will]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -124,7 +124,7 @@ The Map's tenets shape environmental ethics distinctively:
 
 **[[tenets#^minimal-interaction|Minimal Quantum Interaction]]**: The Map holds that consciousness interfaces with the physical world at the smallest possible scale. For environmental ethics, this tenet is less directly relevant than the others—it constrains the *mechanism* of interaction rather than its *moral significance*. But it does bear on the boundary question: the distribution of consciousness across species depends in part on which organisms possess neural architectures capable of supporting the relevant quantum-level interactions.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Animal consciousness is not epiphenomenal. The suffering of a trapped animal causally shapes its behaviour through [[downward-causation|downward causation]]—it matters *to* the animal, not just as a correlate of neural activity. Environmental destruction that causes animal suffering causes real harm to agents whose experiences influence their actions.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Animal consciousness is not epiphenomenal. The suffering of a trapped animal causally shapes its behaviour through [[mental-causation-and-downward-causation|downward causation]]—it matters *to* the animal, not just as a correlate of neural activity. Environmental destruction that causes animal suffering causes real harm to agents whose experiences influence their actions.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Environmental choices have genuine stakes. The Map rejects many-worlds interpretations, and this rejection preserves the moral urgency of environmental decisions: *this* world, with *these* conscious beings, is the one that matters. (Proponents of MWI argue that decision theory under many-worlds can still ground rational action via branch-weighting, but the Map holds that genuine moral stakes require a single actualised outcome.)
 

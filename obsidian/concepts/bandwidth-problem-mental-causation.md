@@ -10,8 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[mental-causation]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
@@ -121,8 +120,7 @@ The bandwidth problem also differs from the [[concepts/binding-problem|binding p
 
 - [[bandwidth-of-consciousness]] — The empirical bandwidth data and its philosophical implications
 - [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism that addresses the bandwidth problem
-- [[downward-causation]] — The broader framework for mental-to-physical causation
-- [[mental-causation]] — The philosophical problem of how mind affects body
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[psychophysical-laws]] — The coupling laws the bandwidth problem constrains
 - [[attention-as-interface]] — Attention as the selection channel through which consciousness operates
 - [[resolution-void]] — The broader resolution gap between brain processing and conscious access

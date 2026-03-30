@@ -26,7 +26,7 @@ concepts:
   - "[[decoherence]]"
   - "[[process-philosophy]]"
   - "[[panpsychism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[samkhya-three-way-distinction]]"
   - "[[african-philosophy-of-consciousness]]"
@@ -172,7 +172,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Buddhist *khaṇika* momentariness reveals consciousness operating at finer timescales than ordinary awareness accesses. Whether this connects to quantum processes remains speculative. Dream yoga's demonstration that consciousness persists without sensory constraint supports filter theory.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Karma doctrine implies [[mental-causation]]—intentions produce real consequences, a conclusion reached independently across Indian, African, and Western traditions (see [[cross-cultural-convergence-on-mental-causation]]). Dream yoga goes further: trained dreamers exercise volitional control over dream content. Yogācāra's storehouse consciousness provides causal continuity without permanent substance. As the [[interaction-problem-across-traditions|cross-traditional analysis]] shows, these Eastern approaches to mind-body causation belong to a family of "non-contact" and "processual" solutions that independently converge on the insight that consciousness shapes outcomes without injecting force—an insight the Map's quantum selection framework inherits.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Karma doctrine implies [[mental-causation-and-downward-causation|mental causation]]—intentions produce real consequences, a conclusion reached independently across Indian, African, and Western traditions (see [[cross-cultural-convergence-on-mental-causation]]). Dream yoga goes further: trained dreamers exercise volitional control over dream content. Yogācāra's storehouse consciousness provides causal continuity without permanent substance. As the [[interaction-problem-across-traditions|cross-traditional analysis]] shows, these Eastern approaches to mind-body causation belong to a family of "non-contact" and "processual" solutions that independently converge on the insight that consciousness shapes outcomes without injecting force—an insight the Map's quantum selection framework inherits.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Eastern traditions uniformly emphasize *this* life, *this* moment, *this* path. Process haecceitism supports this: even without a permanent soul, there is a fact about which experiential process is mine.
 
@@ -200,7 +200,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[african-philosophy-of-consciousness]] — Relational and communal approaches to consciousness from African traditions
 - [[islamic-sufi-philosophy-of-consciousness]] — From Avicenna's Flying Man to Sufi phenomenology of fana
 - [[samkhya-three-way-distinction]] — Samkhya's radical separation of consciousness, mind, and matter
-- [[mental-causation]] — The philosophical case for consciousness as causally efficacious
+- [[mental-causation-and-downward-causation|mental causation]] — The philosophical case for consciousness as causally efficacious
 - [[process-philosophy]] — Whitehead's framework and Buddhist parallels
 - [[self-and-self-consciousness]] — Minimal self vs. narrative self
 - [[personal-identity]] — What makes you the same person over time

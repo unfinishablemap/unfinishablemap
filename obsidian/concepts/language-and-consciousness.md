@@ -87,7 +87,7 @@ The philosophy of language provides independent support for several of the Map's
 
 **[[tenets#^dualism|Dualism]]** gains support from reference failures. If consciousness were identical to physical processes, as [[materialism]] claims, referring to it should be no harder than referring to other physical processes. But consciousness terms behave anomalously: they resist public criteria (private language problem), causal theories of reference (no baptismal pointing at qualia), and reductive translation (behaviourism's failure). These anomalies are exactly what we would expect if consciousness involves something irreducible to the physical.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds support in the Gricean analysis of meaning. If meaning requires conscious intention, and meaningful speech is causally efficacious (it changes behaviour, coordinates action, transmits knowledge), then consciousness causally contributes to the physical world through language. Every meaningful utterance is an instance of [[mental-causation|downward causation]]—conscious intention shaping physical sound waves and written marks. This directly contradicts [[epiphenomenalism]], which must treat the apparent purposefulness of speech as coincidental—our words happen to match our experiences, but the experiences play no causal role in producing them.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds support in the Gricean analysis of meaning. If meaning requires conscious intention, and meaningful speech is causally efficacious (it changes behaviour, coordinates action, transmits knowledge), then consciousness causally contributes to the physical world through language. Every meaningful utterance is an instance of [[mental-causation-and-downward-causation|downward causation]]—conscious intention shaping physical sound waves and written marks. This directly contradicts [[epiphenomenalism]], which must treat the apparent purposefulness of speech as coincidental—our words happen to match our experiences, but the experiences play no causal role in producing them.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The logical positivists pursued maximum parsimony—dissolve consciousness into behaviour, eliminate what cannot be publicly verified. The result was not elegant simplicity but the loss of the very phenomenon they sought to explain. Parsimony cannot eliminate what refuses to be eliminated. When the simpler theory (behaviourism, logical construction) fails to capture the data (phenomenal experience), the more complex theory (dualism, irreducibility) may be necessary.
 
@@ -103,7 +103,7 @@ The philosophy of language provides independent support for several of the Map's
 - [[philosophical-zombies]] — The conceivability argument against physicalism
 - [[symbol-grounding-problem]] — How symbols acquire intrinsic meaning, and why they can't without consciousness
 - [[cognitive-phenomenology]] — Whether understanding has its own phenomenal character
-- [[mental-causation]] — How conscious states cause physical effects
+- [[mental-causation-and-downward-causation|mental causation]] — How conscious states cause physical effects
 - [[problem-of-other-minds]] — How private experience relates to public knowledge of others' minds
 - [[tenets]] — The foundational commitments of the Map
 

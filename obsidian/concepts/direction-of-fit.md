@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[intentionality]]"
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
   - "[[cognitive-phenomenology]]"
@@ -65,7 +65,7 @@ If [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality t
 
 ## World-to-Mind Fit and Mental Causation
 
-The world-to-mind direction of fit carries special weight for the [[mental-causation|mind-body problem]]. Desires and intentions aim to *change reality*. When you intend to raise your arm, the content of the intention specifies a state of affairs that does not yet obtain, and the intention functions to bring that state about.
+The world-to-mind direction of fit carries special weight for the [[mental-causation-and-downward-causation|mind-body problem]]. Desires and intentions aim to *change reality*. When you intend to raise your arm, the content of the intention specifies a state of affairs that does not yet obtain, and the intention functions to bring that state about.
 
 For this to work, the intentional state must be causally efficacious. The intention must actually cause the arm to rise. If mental states with world-to-mind fit are [[epiphenomenalism|epiphenomenal]]—causally inert accompaniments of neural activity—then their directedness toward changing the world is an illusion. They "aim" at nothing because they do nothing.
 
@@ -112,7 +112,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [[intentionality]] — The broader phenomenon of mental directedness that direction of fit classifies
 - [[agent-causation]] — How agents exercise world-to-mind causal power
 - [[aesthetics-and-consciousness]] — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
-- [[mental-causation]] — The problem direction of fit helps frame
+- [[mental-causation-and-downward-causation|mental causation]] — The problem direction of fit helps frame
 - [[placebo-effect-and-mental-causation]] — Empirical evidence that belief content drives physiological outcomes
 - [[temporal-structure-of-consciousness]] — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [[cognitive-phenomenology]] — The phenomenal character of thought that may ground direction of fit

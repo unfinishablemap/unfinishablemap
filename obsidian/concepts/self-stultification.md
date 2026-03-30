@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[concepts/epiphenomenalism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[dualism]]"
@@ -160,7 +160,7 @@ The argument also supports the [[tenets#^occams-limits|Occam's Razor Has Limits]
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
 - [[consciousness-and-causal-powers]] — The positive account: what kind of causal influence consciousness exercises
-- [[mental-causation]] — The problem of how mind affects matter
+- [[mental-causation-and-downward-causation|mental causation]] — The problem of how mind affects matter
 - [[causal-closure]] — The physicalist principle that motivates epiphenomenalism
 - [[introspection]] — Whether self-knowledge requires causal connection
 - [[intentionality]] — Why genuine aboutness requires phenomenal consciousness

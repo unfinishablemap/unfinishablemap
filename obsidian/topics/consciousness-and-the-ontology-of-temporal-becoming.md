@@ -25,10 +25,9 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[conservation-laws-and-mental-causation]]"
-  - "[[downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[temporal-structure-of-consciousness]]"
@@ -91,7 +90,7 @@ Presentism also struggles with [[collapse-and-time|collapse and time's arrow]]. 
 
 The [[growing-block-universe-and-consciousness|growing block]] preserves what the other ontologies sacrifice. The past exists (unlike presentism), so retention and causal inheritance are genuine relations to real things. The future doesn't yet exist (unlike eternalism), so temporal passage and openness are real.
 
-This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [[collapse-and-time|collapse]]—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism—a form of [[downward-causation|downward causation]] compatible with [[conservation-laws-and-mental-causation|conservation laws]]. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
+This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [[collapse-and-time|collapse]]—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism—a form of [[mental-causation-and-downward-causation|downward causation]] compatible with [[conservation-laws-and-mental-causation|conservation laws]]. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
 
 The hard problem deepens productively: physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore consciousness cannot be fully explained by the physical processes it helps make possible. [[causal-closure|Causal closure]] fails here not as an empirical claim but as a structural feature of the relationship between consciousness and temporal ontology. A critic may charge circularity—assuming dualist interactionism to motivate the growing block, then using the growing block to argue for dualist interactionism. The Map accepts this as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other, and coherence arguments are the primary tool for evaluating competing frameworks.
 

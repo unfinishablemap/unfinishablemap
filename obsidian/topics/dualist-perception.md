@@ -21,7 +21,7 @@ concepts:
   - "[[intentionality]]"
   - "[[explanatory-gap]]"
   - "[[interactionist-dualism]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[knowledge-argument]]"
   - "[[mind-matter-interface]]"
   - "[[binding-problem]]"

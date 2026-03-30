@@ -13,7 +13,7 @@ topics:
   - "[[time-collapse-and-agency]]"
 concepts:
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[moral-responsibility]]"
   - "[[quantum-consciousness]]"
 related_articles:
@@ -70,7 +70,7 @@ A crucial implication of the Map's framework: consciousness is primarily a *sele
 
 This follows from two tenets. [[tenets#^minimal-quantum-interaction|Minimal quantum interaction]] demands that consciousness's influence be as small as possible. [[tenets#^bidirectional-interaction|Bidirectional interaction]] requires that consciousness genuinely affect outcomes. The resolution: consciousness exerts just enough influence to select among options that physics has already prepared.
 
-A genuine difficulty arises here: selecting among complex neural firing patterns requires influencing *macroscopic* brain states, not individual quantum events. How does minimal quantum bias produce macroscopic neural selection? The proposed answer involves amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection, much as tiny perturbations in chaotic systems produce dramatically different trajectories. The [[mental-causation|mental causation]] article discusses coupling mechanisms in more detail. Whether this amplification is physically realistic remains an open empirical question—one the framework must ultimately answer rather than simply acknowledge.
+A genuine difficulty arises here: selecting among complex neural firing patterns requires influencing *macroscopic* brain states, not individual quantum events. How does minimal quantum bias produce macroscopic neural selection? The proposed answer involves amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection, much as tiny perturbations in chaotic systems produce dramatically different trajectories. The [[mental-causation-and-downward-causation|mental causation]] article discusses coupling mechanisms in more detail. Whether this amplification is physically realistic remains an open empirical question—one the framework must ultimately answer rather than simply acknowledge.
 
 Most cognition is therefore *nonconscious scaffolding*—creative generation, consequence evaluation, motor preparation are brain processes. The "action channel" through which consciousness influences the world has limited bandwidth. The [[attentional-economics|attentional economics]] framework captures this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill. [[skill-delegation|Skill delegation]] demonstrates this selective engagement: consciousness trains procedural systems during learning, withdraws from routine execution, and re-engages when novel decisions are needed—a three-phase pattern where the "choking under pressure" phenomenon proves consciousness isn't epiphenomenal, since attention's re-engagement with automatised skills degrades performance.
 
@@ -116,7 +116,7 @@ Yet the [[counterfactual-void|counterfactual void]] reveals that even human coun
 
 ## Mental Causation and the Exclusion Problem
 
-Agent causation requires that mental states actually cause physical effects. But [[mental-causation|mental causation]] faces Jaegwon Kim's exclusion argument: if every physical event has a sufficient physical cause (causal closure), mental causes seem excluded—either consciousness is identical to brain states or it causes nothing.
+Agent causation requires that mental states actually cause physical effects. But [[mental-causation-and-downward-causation|mental causation]] faces Jaegwon Kim's exclusion argument: if every physical event has a sufficient physical cause (causal closure), mental causes seem excluded—either consciousness is identical to brain states or it causes nothing.
 
 The Map offers two independent responses. The first denies causal closure at quantum indeterminacies. Physics provides necessary but not sufficient causes at these points. Consciousness selects among outcomes physics leaves undetermined, causing physical events without competing with physical causes. No overdetermination occurs because physics doesn't determine everything.
 
@@ -195,7 +195,7 @@ This article draws on all five tenets. **[[tenets#^dualism|Dualism]]**: Agent ca
 This apex article synthesizes:
 - [[topics/free-will|Free Will and Determinism]] — The comprehensive treatment of libertarian free will, quantum selection, and the Map's position
 - [[agent-causation|Agent Causation]] — The metaphysics of agents as irreducible sources of action
-- [[mental-causation|Mental Causation]] — How consciousness causes physical effects through quantum selection
+- [[mental-causation-and-downward-causation|Mental Causation]] — How consciousness causes physical effects through quantum selection
 - [[argument-from-reason|The Argument from Reason]] — The self-defeat of physicalism and non-phenomenological route to mental causation
 - [[moral-responsibility|Moral Responsibility]] — How agent causation grounds desert differently than compatibilism
 - [[time-collapse-and-agency|Time, Collapse, and Agency]] — The temporal framework: atemporal selection and consciousness-constituted time

@@ -13,7 +13,7 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[emergence]]"
   - "[[explanatory-gap]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[mysterianism]]"
@@ -142,9 +142,8 @@ The [[buddhism-and-dualism|Buddhist tradition]] raises its own challenges to red
 - [[emergence]] — The philosophical framework for non-reductive properties
 - [[explanatory-gap]] — Why physical explanations leave consciousness unexplained
 - [[concepts/materialism]] — The view that reductionism about consciousness underwrites
-- [[mental-causation]] — The problem reductionism tries to solve and the Map's alternative
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[knowledge-argument]] — Mary's Room: why complete physical knowledge may not be complete knowledge
-- [[downward-causation]] — What reduction denies and the Map affirms
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[mysterianism]] — Cognitive closure and why the hard problem may resist solution
 - [[buddhism-and-dualism]] — Process philosophy and the limits of substance-thinking

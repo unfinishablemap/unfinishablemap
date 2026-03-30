@@ -11,7 +11,7 @@ topics:
   - "[[ethics-of-consciousness]]"
 concepts:
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[personal-identity]]"
   - "[[quantum-indeterminacy-free-will]]"
@@ -79,7 +79,7 @@ Compatibilist desert is pragmatic: holding people responsible has good consequen
 
 ## The Role of Consciousness
 
-Moral responsibility requires consciousness. The agent that sources action is a conscious being with [[mental-causation|mental causation]]. This connects to the [[consciousness-value-connection]]: just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). [[topics/phenomenal-value-realism]] deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame.
+Moral responsibility requires consciousness. The agent that sources action is a conscious being with [[mental-causation-and-downward-causation|mental causation]]. This connects to the [[consciousness-value-connection]]: just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). [[topics/phenomenal-value-realism]] deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame.
 
 **Experience of alternatives**: Conscious choice involves experiencing alternatives as live options. Under agent causation, this phenomenology tracks reality—the alternatives were genuinely possible. The [[phenomenology-of-moral-life|phenomenology of moral life]] traces the full arc of this experience—from perceiving moral demands through deliberative weighing to the felt ownership of having chosen.
 
@@ -91,7 +91,7 @@ Moral responsibility requires consciousness. The agent that sources action is a 
 
 **[[tenets#^dualism|Dualism]]**: Without dualism, "agent causation" collapses into a description of complex physical processes—and desert becomes pragmatic fiction. The [[illusionism|illusionist]] challenge targets this: if phenomenal consciousness is illusory, the phenomenology of effort loses its evidential force.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness caused nothing, holding conscious agents responsible for physical outcomes would be incoherent. [[mental-causation|Mental causation]] provides what responsibility requires—the agent's phenomenal engagement shapes what happens.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness caused nothing, holding conscious agents responsible for physical outcomes would be incoherent. [[mental-causation-and-downward-causation|Mental causation]] provides what responsibility requires—the agent's phenomenal engagement shapes what happens.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Agents select quantum outcomes that physics leaves undetermined. The [[decoherence]] challenge must be addressed, but [[quantum-biology-and-neural-mechanisms|quantum biology]] demonstrates biological quantum effects despite thermal environments.
 
@@ -180,7 +180,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [[topics/free-will]] — The broader free will question and the Map's position
 - [[agent-causation]] — Agent vs. event causation in detail
 - [[ethics-of-consciousness]] — Consciousness as the foundation of moral status
-- [[mental-causation]] — How consciousness can cause physical effects
+- [[mental-causation-and-downward-causation|mental causation]] — How consciousness can cause physical effects
 - [[illusionism]] — The eliminativist challenge and why it fails to undermine desert
 - [[decoherence]] — The quantum challenge and biological responses
 - [[buddhism-and-dualism]] — Responsibility without permanent selfhood

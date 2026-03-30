@@ -20,7 +20,7 @@ concepts:
   - "[[substance-property-dualism]]"
   - "[[agent-causation]]"
   - "[[emergence]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
   - "[[intentionality]]"
@@ -233,7 +233,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference: if the tenets are correct, quantum mechanics is structurally partial
 
 **Related topics:**
-- [[mental-causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]], [[interaction-problem-across-traditions]]
+- [[mental-causation-and-downward-causation|mental causation]], [[agent-causation]], [[emergence]], [[concepts/epiphenomenalism]], [[evolution-of-consciousness]], [[quantum-indeterminacy-free-will]], [[consciousness-as-amplifier]], [[delegatory-dualism]], [[causal-interface]], [[interaction-problem-across-traditions]]
 
 ## References
 

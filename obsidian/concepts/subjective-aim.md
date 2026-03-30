@@ -20,7 +20,7 @@ concepts:
   - "[[panpsychism]]"
   - "[[agent-teleology]]"
   - "[[temporal-consciousness]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[process-and-consciousness]]"
@@ -108,7 +108,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [[purpose-and-alignment]] — Purpose as ongoing subjective aim toward experiential richness
 - [[agent-teleology]] — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding
 - [[temporal-consciousness]] — Husserl's forward-directedness of experience, structurally close to subjective aim
-- [[downward-causation]] — Subjective aim as a form of top-down causal influence within Whitehead's framework
+- [[mental-causation-and-downward-causation|downward causation]] — Subjective aim as a form of top-down causal influence within Whitehead's framework
 - [[consciousness-and-creativity]] — Creative advance and the generation-through-selection synthesis
 
 ## References

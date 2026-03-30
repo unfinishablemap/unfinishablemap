@@ -10,7 +10,7 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[concepts/epiphenomenalism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[knowledge-argument]]"
@@ -217,7 +217,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 ## Further Reading
 
 - [[concepts/epiphenomenalism]] — The view examined in detail
-- [[mental-causation]] — Kim's exclusion argument and responses
+- [[mental-causation-and-downward-causation|mental causation]] — Kim's exclusion argument and responses
 - [[causal-closure]] — The principle motivating epiphenomenalism
 - [[interactionist-dualism]] — The positive case for interaction
 - [[quantum-consciousness]] — How mental causation could work

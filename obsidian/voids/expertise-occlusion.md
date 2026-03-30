@@ -13,7 +13,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
   - "[[skill-delegation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"

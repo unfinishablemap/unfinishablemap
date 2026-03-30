@@ -17,10 +17,9 @@ concepts:
   - "[[argument-from-reason]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[quantum-consciousness]]"
-  - "[[downward-causation]]"
   - "[[self-stultification]]"
 related_articles:
   - "[[tenets]]"
@@ -131,7 +130,7 @@ These premises are jointly inconsistent. Kim concludes mental properties must be
 
 The Map rejects premise 1. At quantum indeterminacies, there is no sufficient physical cause. Physics provides necessary but not sufficient conditions—the probabilities but not which outcome actualizes. Consciousness fills a genuine gap rather than competing with complete physical causes.
 
-See [[causal-closure]] and [[mental-causation]] for detailed treatment.
+See [[causal-closure]] and [[mental-causation-and-downward-causation|mental causation]] for detailed treatment.
 
 ## What Bidirectional Interaction Is Not
 
@@ -162,7 +161,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[attention-as-interface|voluntary attention]] — The attention interface with neural evidence
 - [[interactionist-dualism]] — Comprehensive treatment of the philosophical framework
 - [[concepts/epiphenomenalism]] — The view this tenet rejects
-- [[mental-causation]] — The broader problem of how mind causes anything
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[causal-closure]] — The closure objection and its limits
 - [[stapp-quantum-mind]] — The quantum Zeno mechanism in detail
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument for mental causation
@@ -176,7 +175,6 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [[inter
 - [[conservation-laws-and-mental-causation]] — Whether mental causation violates energy conservation
 - [[agent-causation]] — How consciousness exercises causal powers
 - [[baseline-cognition]] — The great ape comparison
-- [[downward-causation]] — Top-down causation more generally
 - [[tenets]] — The Map's foundational commitments
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable
 

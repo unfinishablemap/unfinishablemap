@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[phenomenology-of-choice-and-volition]]"
@@ -93,7 +93,7 @@ The fourth level asks what kind of entity could do what the previous three level
 
 [[agent-causation|Agent causation]] provides the answer: the conscious agent, understood as a persisting substance rather than a collection of events, directly causes actions. The agent is the causal source. E.J. Lowe's [[substance-property-dualism|substance causation]] framework grounds this in systematic metaphysics: substances have causal powers and exercise them, and events are what substances *do*, not independent causal relata. If all causation is fundamentally substance causation — agents exercising powers — then consciousness causing neural outcomes is the same *type* of causation as a billiard ball causing motion. The "metaphysically exceptional" objection dissolves: agent causation is not an anomaly but the paradigm case of what causation is.
 
-This metaphysical framework connects to the quantum level through a specific proposal: the agent selects among quantum possibilities that physics leaves undetermined. The exclusion argument — that every physical event has a sufficient physical cause, leaving no room for mental causes — fails because physics does not provide sufficient causes at quantum indeterminacies. [[mental-causation|Mental causation]] operates where physics is genuinely incomplete. No overdetermination occurs because physics provides necessary but not sufficient causes. Bradford Saad's [[delegatory-dualism|delegatory dualism]] offers a complementary account: experiences *preempt* physical causes rather than overdetermining alongside them, preserving genuine mental causation through a mechanism that leaves no empirical anomaly.
+This metaphysical framework connects to the quantum level through a specific proposal: the agent selects among quantum possibilities that physics leaves undetermined. The exclusion argument — that every physical event has a sufficient physical cause, leaving no room for mental causes — fails because physics does not provide sufficient causes at quantum indeterminacies. [[mental-causation-and-downward-causation|Mental causation]] operates where physics is genuinely incomplete. No overdetermination occurs because physics provides necessary but not sufficient causes. Bradford Saad's [[delegatory-dualism|delegatory dualism]] offers a complementary account: experiences *preempt* physical causes rather than overdetermining alongside them, preserving genuine mental causation through a mechanism that leaves no empirical anomaly.
 
 The [[luck-objection|luck objection]] — that undetermined choices are merely random, not authored — is answered by the chain's lower levels. The agent selects for reasons, with phenomenal engagement that tracks genuine cognitive demand, through mechanisms that produce distinctive neural signatures distinguishing selection from reception. The choking phenomenon demonstrates that consciousness does causal work. The clinical dissociations show that agency is structured. The felt effort of choosing correlates with objective difficulty. These features collectively distinguish agent-causal selection from lucky randomness — they provide what the metaphysics alone could not: empirical anchoring for the claim that the agent explains the outcome.
 
@@ -149,7 +149,7 @@ This synthesis traces a chain through:
 - [[phenomenology-of-agency-vs-passivity|Phenomenology of Agency vs Passivity]] — The foundational contrast between doing and undergoing, with clinical dissociations and the choking phenomenon
 - [[consciousness-and-causal-powers|Consciousness and Causal Powers]] — The nature and scope of consciousness's causal influence: selection, holding, biasing, and constraints
 - [[agent-causation|Agent Causation]] — The metaphysics of agents as irreducible sources of action, with substance causation and the luck objection
-- [[mental-causation|Mental Causation]] — How consciousness causes physical effects through quantum selection, addressing Kim's exclusion argument
+- [[mental-causation-and-downward-causation|Mental Causation]] — How consciousness causes physical effects through quantum selection, addressing Kim's exclusion argument
 
 ## References
 

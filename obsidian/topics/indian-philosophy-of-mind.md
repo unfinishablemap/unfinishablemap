@@ -32,7 +32,7 @@ related_articles:
   - "[[buddhism-and-dualism]]"
   - "[[bidirectional-interaction]]"
   - "[[self-and-self-consciousness]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author:

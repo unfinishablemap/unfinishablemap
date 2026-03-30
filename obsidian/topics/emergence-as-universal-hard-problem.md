@@ -14,7 +14,7 @@ concepts:
   - "[[emergence]]"
   - "[[reductionism]]"
   - "[[explanatory-gap]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[qualia]]"
 related_articles:
   - "[[tenets]]"
@@ -107,7 +107,7 @@ The universality of the hard problem connects to several of the Map's [[tenets]]
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is directly illustrated. The reductive strategy looks parsimonious: fewer ontological levels, fewer fundamental kinds. But parsimony is only a virtue when the simpler theory actually explains the data. If reduction relocates explanatory gaps rather than closing them, the apparent simplicity of physicalism is illusory — a bookkeeping trick that moves the mystery to a place where habit prevents us from noticing it.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** becomes more intelligible against this background. If every level transition involves a qualitative gap that is not logically entailed by the lower level, then [[downward-causation]] — higher-level properties influencing lower-level dynamics — is not a strange violation of an otherwise closed system. It is one direction of a two-way gap that already exists wherever levels meet. The Map's claim that consciousness causally influences quantum outcomes is a specific instance of a general feature: levels are not derivable from each other, and the causal traffic between them runs in both directions.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** becomes more intelligible against this background. If every level transition involves a qualitative gap that is not logically entailed by the lower level, then [[mental-causation-and-downward-causation|downward causation]] — higher-level properties influencing lower-level dynamics — is not a strange violation of an otherwise closed system. It is one direction of a two-way gap that already exists wherever levels meet. The Map's claim that consciousness causally influences quantum outcomes is a specific instance of a general feature: levels are not derivable from each other, and the causal traffic between them runs in both directions.
 
 The hard problem of consciousness, on this view, is not an anomaly. It is the visible tip of a universal structure. Every level transition in nature is a hard problem. Consciousness is where the universe's most persistent explanatory gap finally becomes impossible to ignore — because the gap is us.
 

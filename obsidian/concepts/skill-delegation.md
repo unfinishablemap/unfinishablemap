@@ -68,7 +68,7 @@ Choking reveals three things about skill delegation:
 
 **Consciousness was genuinely absent from execution.** If consciousness had been continuously controlling the skill, re-engaging attention would not disrupt it. The disruption proves that automated performance operates in a different mode—what Tulving called [[anoetic-noetic-autonoetic-consciousness|anoetic consciousness]]: experiential but non-reflective.
 
-**Consciousness retains causal power.** If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—its re-engagement could not interfere with procedural execution. The fact that conscious attention reliably degrades automated performance is evidence consistent with [[mental-causation|bidirectional interaction]]: consciousness affects physical processes, sometimes disruptively.
+**Consciousness retains causal power.** If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally inert—its re-engagement could not interfere with procedural execution. The fact that conscious attention reliably degrades automated performance is evidence consistent with [[mental-causation-and-downward-causation|bidirectional interaction]]: consciousness affects physical processes, sometimes disruptively.
 
 **The interface is real and directional.** Choking shows that consciousness can *enter* the procedural system but at a cost. The interface works smoothly when consciousness calibrates and withdraws on its own schedule. Forced re-engagement—driven by anxiety rather than deliberate choice—disrupts the system precisely because it reintroduces conscious selection where procedural execution sufficed.
 

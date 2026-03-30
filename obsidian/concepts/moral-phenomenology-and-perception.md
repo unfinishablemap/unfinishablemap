@@ -29,7 +29,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[emotion-and-dualism]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[affective-void]]"
   - "[[phenomenological-evidence]]"
 ai_contribution: 100

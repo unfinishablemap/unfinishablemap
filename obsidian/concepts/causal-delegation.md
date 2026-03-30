@@ -10,12 +10,11 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[preemption]]"
   - "[[epiphenomenalism]]"
   - "[[psychophysical-laws]]"
-  - "[[downward-causation]]"
   - "[[agent-causation]]"
   - "[[observational-closure]]"
 related_articles:
@@ -31,7 +30,7 @@ last_curated:
 last_deep_review: 2026-03-26T14:45:00+00:00
 ---
 
-Causal delegation is the mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over causal work that the underlying physical brain state would otherwise perform. The physical state *delegates* its causal responsibilities to the experience, which then does the actual causing. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats causal delegation as the preferred causal structure for [[interactionist-dualism]], because it preserves genuine [[mental-causation]] without the theoretical cost of overdetermination or the self-defeating implications of [[epiphenomenalism]].
+Causal delegation is the mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over causal work that the underlying physical brain state would otherwise perform. The physical state *delegates* its causal responsibilities to the experience, which then does the actual causing. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats causal delegation as the preferred causal structure for [[interactionist-dualism]], because it preserves genuine [[mental-causation-and-downward-causation|mental causation]] without the theoretical cost of overdetermination or the self-defeating implications of [[epiphenomenalism]].
 
 ## How Delegation Works
 
@@ -101,11 +100,10 @@ The full development of Saad's theory, including his five constraints on dualist
 
 - [[delegatory-dualism]] — Saad's full theory including five constraints and Map integration
 - [[preemption]] — The causal structure underlying delegation
-- [[mental-causation]] — The broader problem of how consciousness causes physical effects
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[causal-closure]] — The principle that delegation selectively violates
 - [[observational-closure]] — Why delegation leaves no empirical trace
 - [[epiphenomenalism]] — The alternative delegation rejects
-- [[downward-causation]] — Higher-level properties influencing lower-level processes
 - [[skill-delegation]] — The inverse parallel: consciousness delegating to procedural systems
 - [[agent-causation]] — Substance causation as complementary framework for what exercises delegated powers
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws, related to Saad's Subset Law*

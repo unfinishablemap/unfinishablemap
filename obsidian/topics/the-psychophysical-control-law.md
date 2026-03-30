@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[coupling-modes]]"

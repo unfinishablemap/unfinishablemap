@@ -13,8 +13,7 @@ topics:
 concepts:
   - "[[emergence]]"
   - "[[causal-closure]]"
-  - "[[downward-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[reductionism]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[panpsychism]]"
@@ -67,7 +66,7 @@ If consciousness is strongly emergent, it possesses properties not deducible eve
 
 This is the Map's position. Strong emergence says the universe contains real novelty: properties not implicit in the fundamental physical inventory but arising when matter organises in certain ways. C.D. Broad stated the criterion in 1925: emergent properties are those whose "characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties. David Chalmers sharpened the point: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" (2006).
 
-Strong emergence demands a mechanism for [[downward-causation]] — how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [[concepts/epiphenomenalism|epiphenomenal]]. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies.
+Strong emergence demands a mechanism for [[mental-causation-and-downward-causation|downward causation]] — how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [[concepts/epiphenomenalism|epiphenomenal]]. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies.
 
 ### Emergence Denied: Panpsychism
 
@@ -156,8 +155,7 @@ Affirming strong emergence is not the same as explaining it. The deeper question
 - [[emergence]] — The technical concept: weak vs. strong emergence, Kim's argument, the Map's mechanism
 - [[emergence-void]] — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [[hard-problem-of-consciousness]] — The deepest instance of the emergence question
-- [[downward-causation]] — How emergent properties causally influence lower levels
-- [[mental-causation]] — The philosophical problem strong emergence addresses
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[causal-closure]] — The principle strong emergentism must deny
 - [[reductionism]] — The three types and why consciousness resists each
 - [[interactionist-dualism]] — The Map's framework as strong emergentism with mechanism

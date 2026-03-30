@@ -20,7 +20,7 @@ concepts:
   - "[[consciousness]]"
   - "[[qualia]]"
   - "[[explanatory-gap]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[temporal-consciousness]]"
   - "[[self-and-self-consciousness]]"
 related_articles:
@@ -120,7 +120,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 
 **[[tenets#^dualism|Dualism]]**: The qualitative discontinuities between levels resist reductive explanation. The transitions introduce irreducible phenomenal properties—felt knowing, felt pastness, temporal self-presence—that physical descriptions of neural activity do not entail. The constitutive-contingent debate directly instantiates the broader question: if autonoetic awareness defines episodic memory, then a functionally identical system lacking the felt quality of re-experiencing would not have episodic memory at all.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [[mental-causation|mental causation]]. The hierarchy shows consciousness becoming increasingly *active* at higher levels—from anoetic receptivity through noetic recognition to autonoetic temporal projection—consistent with increasing causal efficacy.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [[mental-causation-and-downward-causation|mental causation]]. The hierarchy shows consciousness becoming increasingly *active* at higher levels—from anoetic receptivity through noetic recognition to autonoetic temporal projection—consistent with increasing causal efficacy.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Autonoetic consciousness presupposes a determinate personal history and a singular future self. Many-worlds fragmentation—where every quantum event spawns branching versions of the subject—undermines the indexical "I" that autonoetic experience requires. If every plan is executed by countless branching copies, the felt urgency of deliberation loses its rational basis.
 
@@ -143,7 +143,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - [[metacognition]] — Thinking about thinking across consciousness levels
 - [[phenomenal-consciousness]] — The irreducible phenomenal properties each level introduces
 - [[explanatory-gap]] — Why functional descriptions cannot bridge the transitions
-- [[mental-causation]] — The broader framework for consciousness as causally efficacious
+- [[mental-causation-and-downward-causation|mental causation]] — The broader framework for consciousness as causally efficacious
 - [[temporal-consciousness]] — The temporal structure of conscious experience underlying mental time travel
 - [[self-and-self-consciousness]] — The relationship between selfhood and consciousness that autonoesis presupposes
 - [[ai-consciousness-modes]] — Tulving's hierarchy as diagnostic tool for AI consciousness

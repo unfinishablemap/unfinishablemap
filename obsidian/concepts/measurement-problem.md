@@ -14,7 +14,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[haecceity]]"
   - "[[causal-closure]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[mental-effort]]"
   - "[[multi-mind-collapse-problem]]"
   - "[[brain-interface-boundary]]"
@@ -113,7 +113,7 @@ Collapse is a rule for predictions, not a physical process. The measurement boun
 
 ### Many-Worlds Interpretation
 
-All outcomes occur; the universe branches at every quantum event. **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. Key objections: (1) indexical—why am I *this* branch?; (2) [[probability-problem-in-many-worlds|probability]]—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation]]—consciousness makes no causal difference. Wallace derives Born probabilities from decision-theoretic coherence, but this shows what rational betting requires, not what probabilities mean when all outcomes occur. See [[concepts/many-worlds]] for detailed arguments.
+All outcomes occur; the universe branches at every quantum event. **Directly rejected** by [[tenets#^no-many-worlds|No Many Worlds]]. Key objections: (1) indexical—why am I *this* branch?; (2) [[probability-problem-in-many-worlds|probability]]—what does "70% probable" mean if all outcomes occur?; (3) eliminates [[mental-causation-and-downward-causation|mental causation]]—consciousness makes no causal difference. Wallace derives Born probabilities from decision-theoretic coherence, but this shows what rational betting requires, not what probabilities mean when all outcomes occur. See [[concepts/many-worlds]] for detailed arguments.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -151,7 +151,7 @@ The Map's resolution combines [[brain-interface-boundary]] with [[prebiotic-coll
 
 ## The Causal Closure Loophole
 
-The measurement problem reveals a genuine gap in physical explanation—where [[mental-causation]] becomes *possible*, though the gap alone does not establish that consciousness fills it.
+The measurement problem reveals a genuine gap in physical explanation—where [[mental-causation-and-downward-causation|mental causation]] becomes *possible*, though the gap alone does not establish that consciousness fills it.
 
 [[causal-closure|Causal closure]] claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome. [[physical-completeness|Physical completeness]] clarifies the distinction: physics is *structurally* complete (no hidden variables are missing) yet *ontologically* partial (the selection of actuality from possibility falls outside structural description).
 
@@ -209,7 +209,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[self-reference-and-the-limits-of-physical-description]] — Gödel-quantum connections via Lawvere's theorem
 - [[spontaneous-collapse-theories]] — GRW, CSL, and consciousness-modulated collapse
 - [[qm-interpretations-beyond-many-worlds]] — Comparative assessment of interpretations' consciousness compatibility
-- [[interactionist-dualism]], [[causal-closure]], [[mental-causation]] — The broader framework
+- [[interactionist-dualism]], [[causal-closure]], [[mental-causation-and-downward-causation|mental causation]] — The broader framework
 - [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — Coordination puzzles
 - [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How Zurek's framework specifies the menu while leaving the outcome gap open
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis: five converging lines of inquiry for consciousness acting after decoherence

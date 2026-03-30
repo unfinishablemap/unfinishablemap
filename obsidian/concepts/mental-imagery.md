@@ -20,7 +20,7 @@ concepts:
   - "[[access-consciousness]]"
   - "[[introspection]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[conscious-vs-unconscious-processing]]"
 related_articles:
   - "[[tenets]]"
@@ -105,7 +105,7 @@ This matters for consciousness theory because it challenges views that reduce co
 
 Mental imagery supports [[bidirectional-interaction]] through multiple channels:
 
-**Voluntary imagery exemplifies conscious control.** The LPFC-mediated generation and manipulation of mental images requires conscious engagement. The effort you feel when visualizing something complex isn't epiphenomenal accompaniment—it reflects consciousness doing work, an instance of [[downward-causation]] from mental states to neural activity. This parallels findings from [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]]: deliberate meditative attention reshapes neural structure through similar top-down processes.
+**Voluntary imagery exemplifies conscious control.** The LPFC-mediated generation and manipulation of mental images requires conscious engagement. The effort you feel when visualizing something complex isn't epiphenomenal accompaniment—it reflects consciousness doing work, an instance of [[mental-causation-and-downward-causation|downward causation]] from mental states to neural activity. This parallels findings from [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]]: deliberate meditative attention reshapes neural structure through similar top-down processes.
 
 **Motor imagery produces physical outcomes.** Athletes mentally rehearsing movements improve their actual performance. The effect sizes are measurable and replicable, consistent with a causal pathway from conscious rehearsal to physical improvement—though the physicalist can attribute these gains to the neural circuits engaged rather than to consciousness per se. Distinguishing these accounts may require evidence that phenomenal vividness predicts outcomes beyond what neural activation patterns predict. The [[evolutionary-case-for-mental-causation]] offers an independent line of argument: if imagery improved survival through motor rehearsal and planning, consciousness's role in imagery was plausibly selected for.
 
@@ -127,7 +127,7 @@ The attention-imagery interface connects to the Map's broader framework. [[atten
 - [[cognitive-phenomenology]] — Non-sensory phenomenal consciousness revealed by aphantasia
 - [[phenomenology-of-imagination]] — The distinctive phenomenal character of imaginative experience
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as the case where voluntary control emerges during involuntary imagery, disrupting the LPFC dissociation
-- [[downward-causation]] — Voluntary imagery as a concrete instance of top-down mental causation
+- [[mental-causation-and-downward-causation|downward causation]] — Voluntary imagery as a concrete instance of top-down mental causation
 - [[conscious-vs-unconscious-processing]] — The broader pattern of consciousness enabling unique cognitive functions
 - [[evolutionary-case-for-mental-causation]] — Why consciousness's role in imagery was likely selected for
 - [[motor-selection]] — The motor execution systems that imagery rehearsal shapes

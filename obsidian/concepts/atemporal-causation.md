@@ -19,7 +19,7 @@ concepts:
   - "[[measurement-problem]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[libet-experiments]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"

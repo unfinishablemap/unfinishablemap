@@ -18,7 +18,7 @@ concepts:
   - "[[phenomenology]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[brain-interface-boundary]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[explanatory-gap]]"
   - "[[somatic-interface]]"
 related_articles:
@@ -99,7 +99,7 @@ The novice requires constant conscious monitoring. Every movement is explicitly 
 
 The expert has trained the interface. Procedural systems handle execution; consciousness withdraws to oversight. The [[embodied-cognition|embodied cognition]] article describes this as consciousness "delegating" to procedural systems while retaining the ability to re-engage.
 
-[[embodied-cognition#Choking Under Pressure: The Bidirectional Evidence|Choking under pressure]] reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves [[mental-causation|bidirectional causation]]: conscious attention genuinely affects bodily performance. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
+[[embodied-cognition#Choking Under Pressure: The Bidirectional Evidence|Choking under pressure]] reveals something crucial about this arrangement. When experts consciously monitor automated skills, performance degrades. This proves [[mental-causation-and-downward-causation|bidirectional causation]]: conscious attention genuinely affects bodily performance. An [[concepts/epiphenomenalism|epiphenomenal]] consciousness—one that merely accompanies physical processes—could not systematically interfere with motor execution.
 
 The interface reading explains the phenomenon precisely. Consciousness and procedural systems are distinct but coupled. Skilled performance requires the right division of labor across the interface. When consciousness re-engages execution-level processes it had delegated, it disrupts optimized patterns—like a manager micromanaging tasks they delegated to specialists. The disruption proves the manager has real causal power; the improvement after withdrawal proves the specialists can operate with appropriate autonomy.
 

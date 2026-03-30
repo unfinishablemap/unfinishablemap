@@ -49,7 +49,7 @@ Materialism constrains the space of possibilities through its core commitments. 
 
 **The mind persisting without its physical substrate.** [[death-and-consciousness|Death and consciousness]] become closed questions: when the brain stops, the mind stops. But this conclusion follows from materialist premises, not from evidence.
 
-**Consciousness having causal powers beyond physical causation.** [[mental-causation|Mental causation]] is dissolved into neural causation, and any appearance of downward causation is reinterpreted as a physical process fully determined by lower-level physics.
+**Consciousness having causal powers beyond physical causation.** [[mental-causation-and-downward-causation|Mental causation]] is dissolved into neural causation, and any appearance of downward causation is reinterpreted as a physical process fully determined by lower-level physics.
 
 **Experiential facts beyond behavioral and functional facts.** [[qualia]] become eliminable, reducible, or illusory—never acknowledged as additional facts about the world.
 

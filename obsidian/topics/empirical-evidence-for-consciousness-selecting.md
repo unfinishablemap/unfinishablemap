@@ -11,7 +11,7 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[baseline-cognition]]"
   - "[[quantum-biology-and-neural-mechanisms]]"

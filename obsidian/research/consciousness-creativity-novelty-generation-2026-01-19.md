@@ -11,7 +11,7 @@ topics:
 concepts:
   - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[attention-as-interface]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[agent-causation]]"
 related_articles:
   - "[[tenets]]"

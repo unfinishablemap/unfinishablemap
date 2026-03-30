@@ -8,7 +8,7 @@ draft: false
 target_section: concepts
 topics:
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 concepts:
   - "[[psychophysical-laws]]"
   - "[[psychophysical-coupling]]"

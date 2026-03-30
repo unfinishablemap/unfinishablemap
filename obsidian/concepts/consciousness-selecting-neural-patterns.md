@@ -13,7 +13,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[mental-effort]]"
   - "[[attention-as-interface]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[measurement-problem]]"
   - "[[psychophysical-laws]]"

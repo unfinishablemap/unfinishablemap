@@ -17,7 +17,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[reasons-responsiveness]]"
   - "[[phenomenology-of-choice-and-volition]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"

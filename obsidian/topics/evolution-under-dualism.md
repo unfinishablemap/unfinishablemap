@@ -13,7 +13,7 @@ concepts:
   - "[[evolution-of-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[emergence]]"
   - "[[filter-theory]]"
   - "[[agent-causation]]"

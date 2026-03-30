@@ -17,8 +17,7 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[panpsychism]]"
   - "[[quantum-consciousness]]"
-  - "[[downward-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[unity-of-consciousness]]"
   - "[[binding-problem]]"
   - "[[minimal-consciousness]]"
@@ -80,7 +79,7 @@ The Map resolves this by denying causal closure—not everywhere, but at the spe
 
 ## Downward Causation
 
-Strong emergence requires [[downward-causation|downward causation]]—higher-level features genuinely influencing lower-level processes. Critics argue this violates physical laws; defenders reply that consciousness exercises powers not reducible to component-level causation.
+Strong emergence requires [[mental-causation-and-downward-causation|downward causation]]—higher-level features genuinely influencing lower-level processes. Critics argue this violates physical laws; defenders reply that consciousness exercises powers not reducible to component-level causation.
 
 Timothy O'Connor and Hong Yu Wong develop a sophisticated account of strong emergence with genuine causal powers. Emergent properties are "fundamentally novel"—possessing new causal powers not present in parts. They propose "structural triggering conditions"—latent powers manifesting only when components organize appropriately.
 
@@ -108,7 +107,7 @@ The Map advances beyond this—but honestly, not as far as one might wish. The [
 
 This identifies a *locus* (quantum indeterminacy) and a *mode* (probability bias), not a fully specified mechanism. The choice of locus is not arbitrary—the [[quantum-measurement-and-consciousness|measurement problem as philosophical problem]] reveals that measurement is where consciousness and physics have always been entangled, where the observer's role becomes formally unavoidable. A complete mechanism would specify which physical variable consciousness couples to, how coupling strength is determined, and what testable predictions follow. The [[psychophysical-laws|psychophysical laws]] article surveys five candidate coupling mechanisms—attention as observation rate (Stapp), intention as probability weighting (Eccles), and three less developed proposals—but the Map does not yet endorse one. The coupling problem remains open.
 
-What the Map *does* provide that classical emergentism lacked is a principled answer to Kim's exclusion argument: mental causation operates where physics is genuinely incomplete. No physical law is violated because no physical law determines which quantum outcome occurs. This is a genuine advance over "natural piety," even if the full coupling law remains unspecified. The [[mental-causation]] article develops this resolution against the full range of objections—conservation challenges, decoherence timescales, specification demands, and the many-worlds alternative—and shows why each fails to close the quantum opening.
+What the Map *does* provide that classical emergentism lacked is a principled answer to Kim's exclusion argument: mental causation operates where physics is genuinely incomplete. No physical law is violated because no physical law determines which quantum outcome occurs. This is a genuine advance over "natural piety," even if the full coupling law remains unspecified. The [[mental-causation-and-downward-causation|mental causation]] article develops this resolution against the full range of objections—conservation challenges, decoherence timescales, specification demands, and the many-worlds alternative—and shows why each fails to close the quantum opening.
 
 | Position | Emergence Type | Interaction Specified? | Causal Closure? |
 |----------|---------------|------------|-----------------|
@@ -177,7 +176,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 ## Further Reading
 
 - [[dualism]] — Seven converging arguments that physical description cannot capture consciousness
-- [[mental-causation]] — The philosophical problem strong emergence addresses
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[evolution-of-consciousness]] — When consciousness emerged and what this reveals about emergence
 - [[reductionism-and-consciousness]] — Why consciousness is the singular exception to reductionism's record
 - [[reductionism]] — The three types of reductionism and why consciousness resists each
@@ -187,7 +186,6 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [[quantum-measurement-and-consciousness]] — Why measurement is philosophically special, not just a physics puzzle
 - [[supervenience]] — Why phenomenal-physical covariance does not entail physicalism
 - [[causal-closure]] — The principle strong emergentism must deny
-- [[downward-causation]] — How emergent properties causally influence lower levels
 - [[explanatory-gap]] — The chasm between physical descriptions and conscious experience
 - [[explanatory-void]] — Why explanation cannot explain itself—the recursive opacity the transparency test relies on
 - [[hard-problem-of-consciousness]] — Why consciousness resists reduction

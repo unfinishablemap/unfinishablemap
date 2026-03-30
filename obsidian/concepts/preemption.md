@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[topics/free-will]]"
 concepts:
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[delegatory-dualism]]"
   - "[[interactionist-dualism]]"
@@ -61,7 +61,7 @@ This distinction matters because systematic overdetermination is widely regarded
 
 ## Preemption in Philosophy of Mind
 
-Preemption becomes philosophically urgent in the context of [[mental-causation]]. If both mental states and physical states are sufficient to cause behaviour, do they overdetermine it? Kim's exclusion argument presses this question, concluding that non-physical mental properties are either identical to physical properties or causally inert.
+Preemption becomes philosophically urgent in the context of [[mental-causation-and-downward-causation|mental causation]]. If both mental states and physical states are sufficient to cause behaviour, do they overdetermine it? Kim's exclusion argument presses this question, concluding that non-physical mental properties are either identical to physical properties or causally inert.
 
 ### Saad's Delegatory Preemption
 
@@ -97,7 +97,7 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 ## Further Reading
 
 - [[delegatory-dualism]] — Saad's full framework applying preemption to mental causation
-- [[mental-causation]] — The broader problem of how consciousness causes physical effects
+- [[mental-causation-and-downward-causation|mental causation]] — The broader problem of how consciousness causes physical effects
 - [[causal-closure]] — The principle that delegatory preemption explicitly violates
 - [[observational-closure]] — Why preemption leaves no empirical trace
 - [[agent-causation]] — The metaphysical framework for conscious agents as causal originators

@@ -15,7 +15,7 @@ concepts:
   - "[[decoherence]]"
   - "[[quantum-consciousness]]"
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-biology-and-neural-consciousness]]"

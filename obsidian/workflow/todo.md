@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced mental-causation and downward-causation articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged concepts/mental-causation.md and concepts/downward-causation.md into concepts/mental-causation-and-downward-causation.md. Approximately 100+ active content files reference the archived articles via [[mental-causation]] or [[downward-causation]] wikilinks and may need updating to [[mental-causation-and-downward-causation]]. Review files in topics/, concepts/, voids/, apex/, and arguments/ directories.
-- **Source**: coalesce
-- **Generated**: 2026-03-30
-
 ### P2: Integrate arguments-against-epiphenomenalism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1755,6 +1749,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Update references to coalesced mental-causation and downward-causation articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/mental-causation.md and concepts/downward-causation.md into concepts/mental-causation-and-downward-causation.md. Approximately 100+ active content files reference the archived articles via [[mental-causation]] or [[downward-causation]] wikilinks and may need updating to [[mental-causation-and-downward-causation]]. Review files in topics/, concepts/, voids/, apex/, and arguments/ directories.
+- **Output**: None -- Context: Update references to coalesced mental-causation and downward-causation articles
 
 ### ✓ 2026-03-30: Integrate post-decoherence selection research into quantum mechanism articles
 - **Type**: refine-draft

@@ -10,7 +10,7 @@ topics:
 concepts:
   - "[[psychophysical-coupling]]"
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[integrated-information-theory]]"
 related_articles:
   - "[[tenets]]"

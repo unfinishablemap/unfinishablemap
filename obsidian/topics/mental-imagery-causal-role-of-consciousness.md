@@ -13,10 +13,9 @@ topics:
 concepts:
   - "[[mental-imagery]]"
   - "[[bidirectional-interaction]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[attention-as-interface]]"
-  - "[[downward-causation]]"
   - "[[conscious-vs-unconscious-processing]]"
   - "[[cognitive-phenomenology]]"
 related_articles:
@@ -36,7 +35,7 @@ last_deep_review: 2026-03-20T07:37:00+00:00
 
 Does consciousness cause anything? Or does it merely accompany neural processes that would proceed identically without it? The Unfinishable Map's [[bidirectional-interaction]] tenet commits to the former: consciousness causally influences the physical world. Mental imagery offers one of the most revealing test cases for this claim. When you voluntarily visualize a movement and then execute it better as a result, the causal chain runs from conscious imagining to physical performance. The challenge is showing that phenomenal properties contribute causally beyond what neural properties alone explain.
 
-This article examines what [[mental-imagery|mental imagery]] specifically reveals about consciousness's causal role, building on the concept-level treatment of imagery and the Map's broader account of [[mental-causation]].
+This article examines what [[mental-imagery|mental imagery]] specifically reveals about consciousness's causal role, building on the concept-level treatment of imagery and the Map's broader account of [[mental-causation-and-downward-causation|mental causation]].
 
 ## Why Mental Imagery Is a Distinctive Test Case
 
@@ -119,7 +118,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly to
 
 - [[mental-imagery]] — Concept-level treatment of imagery types, aphantasia, and motor evidence
 - [[phenomenology-of-imagination]] — The distinctive phenomenal character of imaginative experience
-- [[mental-causation]] — The broader philosophical problem of how mind can cause anything
+- [[mental-causation-and-downward-causation|mental causation]] — The broader philosophical problem of how mind can cause anything
 - [[bidirectional-interaction]] — The tenet that consciousness causally influences the physical
 - [[concepts/epiphenomenalism]] — The position imagery evidence challenges
 - [[empirical-evidence-for-consciousness-selecting]] — Other empirical lines supporting conscious causation

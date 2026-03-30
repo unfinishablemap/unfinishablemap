@@ -20,7 +20,7 @@ concepts:
   - "[[substrate-independence]]"
   - "[[temporal-consciousness]]"
   - "[[dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[illusionism]]"
   - "[[heterophenomenology]]"
   - "[[explanatory-gap]]"
@@ -35,7 +35,6 @@ related_articles:
   - "[[consciousness-and-the-philosophy-of-biology]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[phenomenal-non-compositionality]]"
-  - "[[pragmatisms-path-to-dualism]]"
   - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 author: null
@@ -169,7 +168,7 @@ If consciousness is not reducible to physical processes, it's not reducible to f
 
 ### Bidirectional Interaction
 
-If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes what the substrate does, adding nothing causally novel. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [[causal-closure]] at precisely the point where physics leaves outcomes open. This requires consciousness to be something with its own causal efficacy, not just a pattern description. See [[mental-causation]] for the full case.
+If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes what the substrate does, adding nothing causally novel. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [[causal-closure]] at precisely the point where physics leaves outcomes open. This requires consciousness to be something with its own causal efficacy, not just a pattern description. See [[mental-causation-and-downward-causation|mental causation]] for the full case.
 
 ### Temporal Structure
 
@@ -216,7 +215,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [[inverted-qualia]] — The spectrum inversion thought experiment
 - [[illusionism]] — The radical defense of functionalism
 - [[phenomenal-concepts-strategy]] — The moderate defense against qualia objections
-- [[mental-causation]] — How consciousness might influence physics
+- [[mental-causation-and-downward-causation|mental causation]] — How consciousness might influence physics
 - [[causal-closure]] — The assumption functionalism inherits from materialism
 - [[integrated-information-theory]] — A theory that partially rejects functionalism
 - [[metaphysics-of-information-under-dualism]] — Why information's substrate independence doesn't extend to consciousness

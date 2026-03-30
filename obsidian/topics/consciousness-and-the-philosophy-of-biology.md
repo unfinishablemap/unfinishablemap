@@ -24,12 +24,11 @@ related_articles:
   - "[[quantum-biology-and-neural-consciousness]]"
   - "[[process-philosophy]]"
   - "[[quantum-biology-and-neural-mechanisms]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[reductionism-and-consciousness]]"
   - "[[explanatory-gap]]"
-  - "[[downward-causation]]"
   - "[[psychophysical-laws]]"
   - "[[biological-teleology-and-the-interface-framework]]"
 ai_contribution: 100
@@ -48,7 +47,7 @@ Philosophy of biology has spent decades analysing what it means for a trait to h
 
 On the etiological account, consciousness has a function if natural selection favoured it. But this runs into the [[consciousness-evolution-problem|consciousness-evolution problem]]: natural selection acts on behaviour, and behaviour can be explained—at least in principle—by neural mechanisms alone. A [[philosophical-zombies|philosophical zombie]] with identical neural architecture would behave identically. If selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The function of consciousness becomes invisible to the very framework meant to assign functions.
 
-The Map's own framework offers a resolution: if consciousness biases quantum outcomes in neural tissue, then removing consciousness *does* change behaviour—the zombie is not behaviourally identical after all. But this resolution operates through [[mental-causation|mental causation]] at the quantum level, a channel that standard etiological function theory was never designed to detect. The framework is rescued only by expanding what counts as a causal contribution beyond classical mechanism.
+The Map's own framework offers a resolution: if consciousness biases quantum outcomes in neural tissue, then removing consciousness *does* change behaviour—the zombie is not behaviourally identical after all. But this resolution operates through [[mental-causation-and-downward-causation|mental causation]] at the quantum level, a channel that standard etiological function theory was never designed to detect. The framework is rescued only by expanding what counts as a causal contribution beyond classical mechanism.
 
 The causal-role account fares differently but not necessarily better. If consciousness plays a causal role in the organism—enabling types of cognition that unconscious processing cannot achieve—then it has a function in the causal-role sense. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] suggests exactly this: logical reasoning, counterfactual thinking, and cumulative culture appear to require conscious processing. Yet the causal-role account says nothing about *why* this causal contribution involves subjective experience. A functional description of what consciousness does leaves untouched the question of what consciousness *is*.
 
@@ -78,7 +77,7 @@ The adaptationist programme in evolutionary biology explains traits by identifyi
 
 If consciousness is not reducible to physical structure, then its origin cannot be explained purely by natural selection acting on physical variation. Selection can explain the *neural architecture* that correlates with consciousness—increasingly complex brains, richer sensory processing, more flexible behaviour. But the emergence of subjective experience itself sits outside the reach of selectionist explanation. This is not a gap in current knowledge; it is a principled limit. Selection explains why certain physical structures persist, not why those structures give rise to inner experience.
 
-This parallels broader debates in philosophy of biology about the limits of adaptationism. Gould and Lewontin's "spandrels" argument (1979) showed that not every trait is an adaptation—some are by-products of architectural constraints. On a purely epiphenomenalist view, consciousness would be the most profound spandrel of all: not itself selected for, yet arising as an accompaniment to neural complexity that *was* selected for. But the Map rejects [[the-epiphenomenalist-threat|epiphenomenalism]]. If consciousness is causally efficacious—biasing quantum outcomes through [[downward-causation|downward causation]]—then it is genuinely adaptive, contributing to fitness through a channel that standard adaptationist frameworks cannot trace because the causal contribution runs through [[psychophysical-laws|non-physical selection]] rather than classical mechanism.
+This parallels broader debates in philosophy of biology about the limits of adaptationism. Gould and Lewontin's "spandrels" argument (1979) showed that not every trait is an adaptation—some are by-products of architectural constraints. On a purely epiphenomenalist view, consciousness would be the most profound spandrel of all: not itself selected for, yet arising as an accompaniment to neural complexity that *was* selected for. But the Map rejects [[the-epiphenomenalist-threat|epiphenomenalism]]. If consciousness is causally efficacious—biasing quantum outcomes through [[mental-causation-and-downward-causation|downward causation]]—then it is genuinely adaptive, contributing to fitness through a channel that standard adaptationist frameworks cannot trace because the causal contribution runs through [[psychophysical-laws|non-physical selection]] rather than classical mechanism.
 
 ## Natural Kinds and Consciousness
 
@@ -115,7 +114,7 @@ The Map holds that philosophy of biology reveals not the biological nature of co
 - [[agent-teleology]]
 - [[functionalism]]
 - [[emergence]]
-- [[mental-causation]]
+- [[mental-causation-and-downward-causation|mental causation]]
 - [[causal-closure]]
 - [[the-epiphenomenalist-threat]]
 - [[reductionism-and-consciousness]]

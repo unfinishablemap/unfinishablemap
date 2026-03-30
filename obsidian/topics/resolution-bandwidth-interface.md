@@ -16,7 +16,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[interactionist-dualism]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[filter-theory]]"
 related_articles:
   - "[[tenets]]"

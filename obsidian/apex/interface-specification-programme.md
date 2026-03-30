@@ -9,7 +9,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[attention-as-interface]]"
   - "[[psychophysical-laws]]"

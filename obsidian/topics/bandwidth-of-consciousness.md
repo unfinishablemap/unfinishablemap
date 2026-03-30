@@ -22,7 +22,7 @@ concepts:
   - "[[baseline-cognition]]"
   - "[[interactionist-dualism]]"
   - "[[bandwidth-problem-mental-causation]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[phenomenal-overflow]]"
   - "[[access-consciousness]]"
   - "[[asymmetric-bandwidth-consciousness]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[resolution-void]]"
   - "[[quantum-neural-timing-constraints]]"
   - "[[embodied-consciousness-and-the-interface]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-memory]]"
   - "[[conservation-laws-and-mental-causation]]"
@@ -215,9 +215,8 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [[baseline-cognition]] — What the brain achieves without conscious involvement
 - [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
 - [[dualist-perception]] — Perceptual richness and what it reveals about consciousness
-- [[mental-causation]] — The philosophical problem of mental-to-physical causation and the Map's quantum response
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[conservation-laws-and-mental-causation]] — Energy conservation and why selection without injection respects physics
-- [[downward-causation]] — The broader framework for consciousness influencing physical outcomes
 - [[global-workspace-theory]] — The materialist account of serial broadcasting and its limitations
 - [[libet-experiments]] — The neural preparation findings and why they don't defeat free will
 - [[access-consciousness]] — The distinction between phenomenal and access consciousness

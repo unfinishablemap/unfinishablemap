@@ -15,7 +15,7 @@ concepts:
   - "[[unity-of-consciousness]]"
   - "[[dualism]]"
   - "[[combination-problem]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[process-haecceitism]]"
   - "[[prehension]]"
   - "[[subjective-aim]]"
@@ -179,7 +179,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [[combination-problem]] — The central challenge for panpsychist and process approaches
 - [[emergence]] — What process philosophy says about how complexity arises
 - [[unity-of-consciousness|phenomenal unity]] — How many experiences become one
-- [[downward-causation]] — How higher-level processes influence lower-level ones
+- [[mental-causation-and-downward-causation|downward causation]] — How higher-level processes influence lower-level ones
 - [[agent-causation]] — The self as originator of action
 - [[hard-problem-of-consciousness]] — The puzzle process philosophy claims to dissolve
 - [[interaction-problem-across-traditions]] — Process dissolution as one of five recurring solution types

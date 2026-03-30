@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 05:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Word count**: 3836 → 2840 (-996)
+- **Critical issues addressed**: 1 (hard length threshold exceeded — condensed 26%)
+- **Medium issues addressed**: 2 (duplicate frontmatter concept; 127 stale cross-references across site)
+- **Enhancements made**: 6 (condensed clinical section, trimmed Further Reading, tightened prose, removed uncited refs, updated site-wide refs, deduplicated 13 Further Reading sections)
+- **Output**: [[reviews/deep-review-2026-03-30-mental-causation-and-downward-causation]]
+
 ## 2026-03-30 05:33 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/comparing-quantum-consciousness-mechanisms]], [[concepts/consciousness-selecting-neural-patterns]]

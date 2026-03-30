@@ -13,7 +13,7 @@ concepts:
   - "[[quantum-consciousness]]"
   - "[[decoherence]]"
   - "[[causal-closure]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[prebiotic-collapse]]"
   - "[[explanatory-gap]]"
@@ -115,7 +115,7 @@ This immediately raises a puzzle: what selected outcomes during the 13.8 billion
 
 ### Deny the Gap: Many-Worlds
 
-The [[concepts/many-worlds|Many-Worlds Interpretation]] denies that one outcome becomes actual—all outcomes occur in branching universes. The Map [[tenets#^no-many-worlds|rejects Many-Worlds]]: the interpretation faces the [[indexical-identity-quantum-measurement|indexical problem]] (why am I experiencing *this* branch?), eliminates [[mental-causation]] (if all outcomes happen regardless, choice makes no difference), and treats the phenomenology of single experienced outcomes as systematically misleading.
+The [[concepts/many-worlds|Many-Worlds Interpretation]] denies that one outcome becomes actual—all outcomes occur in branching universes. The Map [[tenets#^no-many-worlds|rejects Many-Worlds]]: the interpretation faces the [[indexical-identity-quantum-measurement|indexical problem]] (why am I experiencing *this* branch?), eliminates [[mental-causation-and-downward-causation|mental causation]] (if all outcomes happen regardless, choice makes no difference), and treats the phenomenology of single experienced outcomes as systematically misleading.
 
 ### Accept the Gap: Objective Collapse
 

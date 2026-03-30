@@ -15,7 +15,7 @@ concepts:
   - "[[russellian-monism]]"
   - "[[bi-aspectual-ontology]]"
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[psychophysical-laws]]"
   - "[[emergence]]"
   - "[[qualia]]"
@@ -135,7 +135,7 @@ The central insight the Map draws from dispositional ontology is this: the mind-
 - [[russellian-monism-versus-bi-aspectual-dualism]] — Why the Map's bi-aspectual dualism is the stable endpoint Russellian monism cannot reach
 - [[bi-aspectual-ontology]] — The Map's foundational ontology: structure and actuality as irreducible interacting aspects
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
-- [[mental-causation]] — The problem of how mental states cause physical events
+- [[mental-causation-and-downward-causation|mental causation]] — The problem of how mental states cause physical events
 - [[psychophysical-laws]] — Principles governing mind-matter interaction
 - [[the-epiphenomenalist-threat]] — Why powerful qualities help consciousness escape causal inertness
 - [[pain-consciousness-and-causal-power]] — Pain as paradigm case of quality-power identity

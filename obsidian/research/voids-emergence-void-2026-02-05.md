@@ -13,7 +13,7 @@ concepts:
   - "[[reductionism]]"
   - "[[combination-problem]]"
   - "[[binding-problem]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[simulation]]"
 related_articles:
   - "[[voids]]"

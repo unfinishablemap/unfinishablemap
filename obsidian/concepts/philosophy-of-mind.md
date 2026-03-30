@@ -16,7 +16,7 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[concepts/functionalism]]"
   - "[[qualia]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[explanatory-gap]]"
   - "[[intentionality]]"
   - "[[interactionist-dualism]]"
@@ -36,7 +36,7 @@ last_curated:
 last_deep_review: 2026-03-23T12:53:00+00:00
 ---
 
-Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — remains the deepest unsolved problem in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
+Philosophy of mind is the branch of philosophy that investigates the nature of [[consciousness]], [[mental-causation-and-downward-causation|mental causation]], [[intentionality]], and the relationship between mind and body. Its central question — whether conscious experience can be explained in purely physical terms — remains the deepest unsolved problem in philosophy. The Unfinishable Map's five [[tenets]] stake out a specific answer: consciousness is irreducible, causally efficacious, and interacts with the physical world at quantum indeterminacies.
 
 ## The Field and Its Central Problems
 
@@ -46,7 +46,7 @@ The field organises around several core problems:
 
 - **The [[hard-problem-of-consciousness|hard problem]]**: Why does physical processing give rise to subjective experience at all? Neural activity correlates with consciousness, but no physical description explains *why there is something it is like* to see red or feel pain.
 
-- **[[mental-causation|Mental causation]]**: If consciousness is distinct from physical processes, how does it influence the body? When a painful sensation causes you to withdraw your hand, what bridges the gap between experience and neural firing?
+- **[[mental-causation-and-downward-causation|Mental causation]]**: If consciousness is distinct from physical processes, how does it influence the body? When a painful sensation causes you to withdraw your hand, what bridges the gap between experience and neural firing?
 
 - **[[intentionality|Intentionality]]**: Mental states are *about* things — beliefs represent the world, desires point toward goals. How does subjective experience acquire this directedness, and can physical systems possess genuine aboutness?
 
@@ -112,7 +112,7 @@ The Unfinishable Map's [[tenets]] constitute a worked-out position within philos
 
 **Tenet 2 (Minimal Quantum Interaction)** responds to the interaction problem that has dogged dualism since Descartes. Rather than leaving the mind-body interface mysterious, the Map proposes a specific, constrained mechanism: consciousness biases quantum indeterminacies at the smallest scale consistent with its causal role. This engages directly with [[quantum-consciousness|quantum approaches to consciousness]] while maintaining philosophical minimalism.
 
-**Tenet 3 (Bidirectional Interaction)** rules out [[concepts/epiphenomenalism]] — the view that consciousness exists but does nothing. The Map takes the [[mental-causation|causal efficacy of consciousness]] as non-negotiable: if we can report on our experiences, consciousness must influence the physical processes that generate those reports.
+**Tenet 3 (Bidirectional Interaction)** rules out [[concepts/epiphenomenalism]] — the view that consciousness exists but does nothing. The Map takes the [[mental-causation-and-downward-causation|causal efficacy of consciousness]] as non-negotiable: if we can report on our experiences, consciousness must influence the physical processes that generate those reports.
 
 **Tenet 4 (No Many Worlds)** rejects an interpretation of quantum mechanics that would dissolve the need for collapse — and with it, the proposed mechanism for mind-body interaction. It also preserves the meaningfulness of [[personal-identity|indexical identity]].
 
@@ -132,7 +132,7 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [[hard-problem-of-consciousness]]
 - [[dualism]]
 - [[concepts/materialism]]
-- [[mental-causation]]
+- [[mental-causation-and-downward-causation|mental causation]]
 - [[interactionist-dualism]]
 - [[explanatory-gap]]
 - [[qualia]]

@@ -13,7 +13,7 @@ topics:
   - "[[consciousness-and-causal-powers]]"
 concepts:
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[interactionist-dualism]]"
   - "[[phenomenology-of-choice-and-volition]]"
@@ -42,7 +42,7 @@ coalesced_from:
   - "/topics/volitional-control-empirical-evidence/"
 ---
 
-When you decide to raise your hand, something happens that neuroscience has spent four decades trying to explain away. A readiness potential appears in your motor cortex hundreds of milliseconds before you report the conscious intention to move. Since Benjamin Libet's landmark 1983 experiments, this temporal gap has been treated as evidence that consciousness arrives too late to cause anything — that the feeling of willing is an afterthought to neural processes already underway. The Unfinishable Map argues this conclusion was premature. Both the phenomenological structure of volitional experience and converging empirical evidence — clinical dissociations, brain stimulation, implicit timing measures, neuroplasticity — point toward genuine [[mental-causation|conscious causation]]. The experience of willing tracks real causal architecture in the nervous system, not post-hoc confabulation.
+When you decide to raise your hand, something happens that neuroscience has spent four decades trying to explain away. A readiness potential appears in your motor cortex hundreds of milliseconds before you report the conscious intention to move. Since Benjamin Libet's landmark 1983 experiments, this temporal gap has been treated as evidence that consciousness arrives too late to cause anything — that the feeling of willing is an afterthought to neural processes already underway. The Unfinishable Map argues this conclusion was premature. Both the phenomenological structure of volitional experience and converging empirical evidence — clinical dissociations, brain stimulation, implicit timing measures, neuroplasticity — point toward genuine [[mental-causation-and-downward-causation|conscious causation]]. The experience of willing tracks real causal architecture in the nervous system, not post-hoc confabulation.
 
 ## The Libet Experiments and Their Dissolution
 

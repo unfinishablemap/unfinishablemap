@@ -19,7 +19,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[working-memory]]"
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[philosophical-zombies]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[attention-as-interface]]"

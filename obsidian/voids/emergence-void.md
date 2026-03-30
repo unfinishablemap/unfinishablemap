@@ -14,7 +14,7 @@ concepts:
   - "[[reductionism]]"
   - "[[combination-problem]]"
   - "[[binding-problem]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[explanatory-gap]]"
   - "[[mysterianism]]"
 related_articles:
@@ -105,7 +105,7 @@ The emergence void connects to the Map's [[tenets]] at multiple points.
 
 **[[tenets#^dualism|Dualism]]** gains independent support. If the emergence void is general but deepest at consciousness, this asymmetry is evidence that something genuinely different is happening when consciousness emerges. The void is deeper for experience than for temperature—and the depth difference supports the dualist claim that consciousness involves something physics does not capture.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is a claim about crossing the very boundary the emergence void marks. [[downward-causation|Downward causation]]—consciousness influencing physical outcomes—means information crossing from macro to micro, traversing the gap in the reverse direction. If the emergence void is genuine, downward causation may be *real but unintelligible*: we can affirm it on the basis of evidence without being able to comprehend how it works.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is a claim about crossing the very boundary the emergence void marks. [[mental-causation-and-downward-causation|Downward causation]]—consciousness influencing physical outcomes—means information crossing from macro to micro, traversing the gap in the reverse direction. If the emergence void is genuine, downward causation may be *real but unintelligible*: we can affirm it on the basis of evidence without being able to comprehend how it works.
 
 The hard problem, reframed through the emergence void, is not a puzzle unique to consciousness but consciousness's particular expression of a universal cognitive limit at level transitions. The [[emergence-as-universal-hard-problem|universal hard problem thesis]] develops the philosophical complement to this cognitive diagnosis: every level transition harbours the same explanatory gap between arrangement and qualitative character, and reduction relocates these gaps rather than closing them. Every level boundary resists comprehension. Consciousness is simply where the resistance becomes impossible to ignore.
 

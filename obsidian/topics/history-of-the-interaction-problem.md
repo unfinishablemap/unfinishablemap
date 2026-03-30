@@ -14,7 +14,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[dualism]]"
   - "[[causal-closure]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[quantum-consciousness]]"
   - "[[emergence]]"
@@ -85,7 +85,7 @@ If spirit is spatially present in the body, the interaction problem dissolves. M
 
 ### Pre-Established Harmony
 
-**Leibniz** proposed the most elegant sidestep: mind and body never interact at all. God arranged at creation a perfect correspondence between mental and physical sequences. Pre-established harmony preserved dualism's distinction while avoiding the interaction problem entirely—but at the cost of making [[mental-causation]] an illusion.
+**Leibniz** proposed the most elegant sidestep: mind and body never interact at all. God arranged at creation a perfect correspondence between mental and physical sequences. Pre-established harmony preserved dualism's distinction while avoiding the interaction problem entirely—but at the cost of making [[mental-causation-and-downward-causation|mental causation]] an illusion.
 
 Leibniz also transformed the interaction problem from a conceptual puzzle into what appeared to be an empirical refutation. His conservation argument: if the mind causes the body to move, it must add momentum to the physical world. But physics shows momentum is conserved. Mental causation would violate this law. He separately offered the [[leibnizs-mill-argument|mill argument]] against materialism: walking through an enlarged brain, we would find only mechanical parts—never perception itself.
 

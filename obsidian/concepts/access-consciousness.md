@@ -110,7 +110,7 @@ The [[explanatory-gap|explanatory gap]] persists: neural mechanisms for access d
 
 ### Bidirectional Interaction
 
-If consciousness influences behavior, it must work through access mechanisms. Phenomenal consciousness determines what becomes A-conscious via [[attention-as-interface|attention as interface]]. The causal pathway: P-consciousness → attention → A-consciousness → action. See [[mental-causation]] for how non-physical phenomenal properties exert causal influence through physical attention mechanisms.
+If consciousness influences behavior, it must work through access mechanisms. Phenomenal consciousness determines what becomes A-conscious via [[attention-as-interface|attention as interface]]. The causal pathway: P-consciousness → attention → A-consciousness → action. See [[mental-causation-and-downward-causation|mental causation]] for how non-physical phenomenal properties exert causal influence through physical attention mechanisms.
 
 ### Minimal Quantum Interaction
 

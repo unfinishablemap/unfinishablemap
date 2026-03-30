@@ -23,7 +23,7 @@ concepts:
   - "[[decoherence]]"
   - "[[consciousness-as-amplifier]]"
   - "[[illusionism]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[motor-control-quantum-zeno-2026-01-18]]"
@@ -225,7 +225,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [[voluntary-attention-control-mechanisms]] — Neural signatures of willed attention
 - [[attention-as-interface]] — The interface hypothesis foundation
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the unified attention-motor system for conscious selection
-- [[downward-causation]] — How consciousness affects neural processes
+- [[mental-causation-and-downward-causation|downward causation]] — How consciousness affects neural processes
 - [[phenomenology-of-choice-and-volition]] — The experiential structure of choosing
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments
 - [[decoherence]] — The decoherence challenge and responses

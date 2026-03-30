@@ -25,7 +25,7 @@ concepts:
   - "[[heterophenomenology]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[self-stultification]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
 related_articles:
   - "[[parsimony-epistemology]]"

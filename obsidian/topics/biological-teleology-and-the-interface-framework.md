@@ -14,7 +14,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[agent-causation]]"
   - "[[agent-teleology]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[evolution-of-consciousness]]"

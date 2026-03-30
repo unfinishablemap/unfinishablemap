@@ -18,7 +18,7 @@ concepts:
   - "[[measurement-problem]]"
   - "[[decoherence]]"
   - "[[collapse-and-time]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"

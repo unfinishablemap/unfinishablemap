@@ -12,7 +12,7 @@ topics:
 concepts:
   - "[[process-philosophy]]"
   - "[[agent-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[emergence]]"
   - "[[interactionist-dualism]]"
   - "[[temporal-consciousness]]"
@@ -20,7 +20,6 @@ concepts:
   - "[[intentionality]]"
   - "[[unity-of-consciousness]]"
   - "[[embodied-cognition]]"
-  - "[[downward-causation]]"
   - "[[predictive-processing]]"
 related_articles:
   - "[[tenets]]"
@@ -84,7 +83,7 @@ Calling consciousness an activity is not mere metaphor. It carries specific onto
 
 **Agent-dependence.** Activities require agents performing them. Dancing requires a dancer; thinking requires a thinker. The activity framing naturally supports the existence of a subject of experience—the entity performing the conscious activity. This resists eliminativist moves that treat the self as illusion. If consciousness is activity, someone is doing it.
 
-**Causal engagement.** Properties can be causally inert ([[concepts/epiphenomenalism|epiphenomenal]])—a surface can be red without redness doing anything. Activities cannot be inert by definition. If consciousness is something the organism does, it is already causally engaged. The question of whether consciousness makes a causal difference—the problem of [[mental-causation]]—dissolves. Of course it does. Activities are causal.
+**Causal engagement.** Properties can be causally inert ([[concepts/epiphenomenalism|epiphenomenal]])—a surface can be red without redness doing anything. Activities cannot be inert by definition. If consciousness is something the organism does, it is already causally engaged. The question of whether consciousness makes a causal difference—the problem of [[mental-causation-and-downward-causation|mental causation]]—dissolves. Of course it does. Activities are causal.
 
 **Irreducibility of practice.** You cannot reduce an activity to its material substrate. Dancing is not identical to leg movements; it involves timing, expression, intention, and responsiveness that supervene on but are not captured by biomechanical description. Similarly, conscious activity supervenes on neural processes but is not captured by their description. The [[explanatory-gap|explanatory gap]] reflects a genuine ontological distinction between substrate and activity, not a mere epistemic limitation.
 
@@ -139,14 +138,13 @@ The activity framing strengthens the Map's framework at every point.
 - [[bergson-and-duration]] — Duration as the temporal activity of consciousness
 - [[william-james-consciousness]] — The stream, attention, and consciousness as doing
 - [[agent-causation]] — The agent as performer of conscious activity
-- [[mental-causation]] — Why activities are inherently causal
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[consciousness-and-skill-acquisition]] — Consciousness as architect of skilled action
 - [[temporal-structure-of-consciousness]] — Temporal binding as ongoing activity
 - [[process-and-consciousness]] — Apex synthesis connecting process philosophy to the Map's tenets
 - [[sensorimotor-contingencies-and-the-interface]] — Enactivist approaches to conscious activity
 - [[enactivism-challenge-to-interactionist-dualism]] — How enactivism challenges and ultimately reinforces the dualist insight
 - [[consciousness-and-agency]] — Apex synthesis connecting consciousness to agency through activity
-- [[downward-causation]] — How conscious activity exercises causal influence on physical systems
 - [[hard-problem-of-consciousness]] — The puzzle the activity framing reframes
 
 ## References

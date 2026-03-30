@@ -16,7 +16,7 @@ concepts:
   - "[[conservation-laws-and-mental-causation]]"
   - "[[measurement-problem]]"
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"

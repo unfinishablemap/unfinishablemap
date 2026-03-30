@@ -13,7 +13,7 @@ concepts:
   - "[[brain-interface-boundary]]"
   - "[[substance-property-dualism]]"
   - "[[causal-closure]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[quantum-consciousness]]"
   - "[[haecceity]]"
   - "[[objections-to-interactionism]]"
@@ -176,7 +176,7 @@ The [[objections-to-interactionism]] article provides comprehensive treatment of
 - [[haecceity]] - Primitive "thisness" as individuating principle
 - [[interactionist-dualism]] - The position the pairing problem challenges
 - [[causal-closure]] - The distinct (but related) closure objection
-- [[mental-causation]] - The general problem of how minds cause physical effects
+- [[mental-causation-and-downward-causation|mental causation]] - The general problem of how minds cause physical effects
 - [[substance-property-dualism]] - The choice between dualist frameworks
 - [[quantum-consciousness]] - The quantum mechanisms that address both objections
 - [[illusionism]] - The eliminativist challenge to the problem's presuppositions

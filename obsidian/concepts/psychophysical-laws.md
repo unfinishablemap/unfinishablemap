@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
   - "[[interactionist-dualism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 concepts:
   - "[[quantum-consciousness]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
@@ -249,7 +249,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [[attention-as-interface]] — The primary candidate for coupling's mental variable
 - [[stapp-quantum-mind]] — Detailed treatment of attention-observation mechanism
 - [[attention-as-causal-bridge]] — Apex synthesis: the three-layer architecture that instantiates attention-bounded and policy-level coupling
-- [[mental-causation]] — How consciousness causes physical effects
+- [[mental-causation-and-downward-causation|mental causation]] — How consciousness causes physical effects
 - [[quantum-consciousness]] — Major theories of quantum-consciousness interface
 - [[decoherence]] — The decoherence challenge and biological quantum effects
 - [[concepts/epiphenomenalism]] — The view Chalmers tends toward (and the Map rejects)

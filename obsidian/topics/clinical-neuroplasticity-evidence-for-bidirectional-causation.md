@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[bidirectional-interaction]]"
   - "[[interactionist-dualism]]"
   - "[[causal-closure]]"
@@ -18,7 +18,6 @@ concepts:
   - "[[neuroplasticity]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[quantum-consciousness]]"
-  - "[[downward-causation]]"
   - "[[content-specificity-of-mental-causation]]"
   - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
@@ -57,7 +56,7 @@ CBT modulates brain activity top-down, from cortical regions to limbic structure
 
 Pharmacotherapy modulates brain activity bottom-up, through neurochemical changes at the synaptic level that propagate upward to alter cortical function. SSRIs increase serotonin availability in the synaptic cleft; the resulting neural changes follow a chemical-to-cortical trajectory.
 
-This pathway divergence carries philosophical weight. If [[mental-causation|mental causation]] were merely physical causation redescribed at a higher level of abstraction—as the physicalist exclusion argument claims—then psychological and pharmacological interventions should converge on the same neural route. Both would be "really" physical processes, differing only in description. The fact that they take genuinely different causal paths through the nervous system suggests they represent different types of causation operating through distinct mechanisms.
+This pathway divergence carries philosophical weight. If [[mental-causation-and-downward-causation|mental causation]] were merely physical causation redescribed at a higher level of abstraction—as the physicalist exclusion argument claims—then psychological and pharmacological interventions should converge on the same neural route. Both would be "really" physical processes, differing only in description. The fact that they take genuinely different causal paths through the nervous system suggests they represent different types of causation operating through distinct mechanisms.
 
 The physicalist will object that different physical inputs naturally produce different physical pathways—verbal instructions enter through auditory processing while SSRIs enter through the bloodstream, so route divergence is expected. But this concedes the structural point at issue. The question is not whether different stimuli take different routes, but why the directionality is systematic: all psychological interventions work cortex-to-limbic (top-down) while all pharmacological interventions work synapse-to-cortex (bottom-up), across diverse conditions including depression, anxiety, and OCD. If mental descriptions were mere redescriptions of physical processes, this consistent directional asymmetry would be a coincidence of input modality rather than a reflection of genuinely different causal types. The regularity of the pattern across independent research programmes demands explanation.
 
@@ -95,7 +94,7 @@ Each evidence stream alone admits physicalist reinterpretation—and intellectua
 
 The materialist counter-explanation is straightforward: CBT and other psychological interventions change behaviour patterns; changed behaviour changes neural activation via Hebbian learning; structural plasticity follows through well-understood mechanisms. No "gap" in the causal chain requires non-physical explanation. The fact that medication produces similar brain changes to CBT in some conditions supports the view that both converge on common neural pathways.
 
-What makes the remaining convergence worth philosophical attention is the systematic directional pattern: across OCD treatment, psychotherapy neuroimaging, and placebo research, intentional mental activity consistently modulates brain activity top-down (cortex-to-limbic), while pharmacological intervention works bottom-up (synapse-to-cortex). The physicalist can explain each case individually, but must also explain why this directional asymmetry is so consistent across independent research programmes. The Map interprets this pattern as suggestive of genuinely different types of causation—what it terms [[downward-causation|strong downward causation]]—while acknowledging that the pattern is also consistent with the simpler explanation that different physical inputs naturally take different physical routes.
+What makes the remaining convergence worth philosophical attention is the systematic directional pattern: across OCD treatment, psychotherapy neuroimaging, and placebo research, intentional mental activity consistently modulates brain activity top-down (cortex-to-limbic), while pharmacological intervention works bottom-up (synapse-to-cortex). The physicalist can explain each case individually, but must also explain why this directional asymmetry is so consistent across independent research programmes. The Map interprets this pattern as suggestive of genuinely different types of causation—what it terms [[mental-causation-and-downward-causation|strong downward causation]]—while acknowledging that the pattern is also consistent with the simpler explanation that different physical inputs naturally take different physical routes.
 
 ## Proposed Mechanisms
 
@@ -129,7 +128,7 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 - [[consciousness-and-skill-acquisition]]
 - [[content-specificity-of-mental-causation]]
 - [[consciousness-selecting-neural-patterns]]
-- [[downward-causation]]
+- [[mental-causation-and-downward-causation|downward causation]]
 - [[causal-closure-debate-historical-survey]]
 
 ## References

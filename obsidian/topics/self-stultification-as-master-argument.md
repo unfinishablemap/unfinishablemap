@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[self-stultification]]"
   - "[[concepts/epiphenomenalism]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/materialism]]"
@@ -160,7 +160,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning about consciousness
 - [[epistemology-of-first-person-evidence]] — Whether introspective reports are causally connected to experiences
 - [[phenomenal-conservatism-and-introspective-evidence]] — The epistemic framework that self-stultification presupposes
-- [[mental-causation]] — The problem self-stultification helps resolve
+- [[mental-causation-and-downward-causation|mental causation]] — The problem self-stultification helps resolve
 - [[causal-closure]] — The principle whose rejection self-stultification motivates
 - [[interactionist-dualism]] — The framework that escapes self-stultification
 - [[dualism]] — Multiple converging arguments including self-stultification

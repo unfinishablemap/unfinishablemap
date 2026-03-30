@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[psychophysical-laws]]"
   - "[[causal-closure]]"
@@ -131,7 +131,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [[the-interface-specification-problem]] — What a complete specification of the interface must contain
 - [[psychophysical-laws-bridging-mind-and-matter]] — How psychophysical laws bridge mind and matter
 - [[psychophysical-laws]] — What selection laws must specify and candidate formulations
-- [[mental-causation]] — The broader case for consciousness causing physical effects
+- [[mental-causation-and-downward-causation|mental causation]] — The broader case for consciousness causing physical effects
 - [[history-of-the-interaction-problem]] — From Descartes to contemporary quantum approaches
 - [[epistemology-of-convergence-arguments]] — When and how convergence carries evidential weight
 - [[consciousness-defeats-explanation]] — Why consciousness breaks standard explanatory frameworks

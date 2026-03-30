@@ -15,7 +15,7 @@ concepts:
   - "[[emergence]]"
   - "[[explanatory-gap]]"
   - "[[causal-closure]]"
-  - "[[downward-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
   - "[[functionalism]]"
@@ -112,7 +112,7 @@ If consciousness genuinely resists reduction—not temporarily but categorically
 
 **The limits of physical explanation.** Physics describes the structural-relational properties of matter and energy with extraordinary precision. It does not—and by its nature cannot—describe the intrinsic qualitative character of experience. This is not a failure of physics but a recognition of its proper scope.
 
-**Causal questions become urgent.** If consciousness is ontologically irreducible, its causal status matters. Is it epiphenomenal—real but powerless? Or does it make a difference? The very fact that we discuss consciousness—that neural systems produce speech acts *about* phenomenal experience—suggests [[downward-causation|downward causation]] is real.
+**Causal questions become urgent.** If consciousness is ontologically irreducible, its causal status matters. Is it epiphenomenal—real but powerless? Or does it make a difference? The very fact that we discuss consciousness—that neural systems produce speech acts *about* phenomenal experience—suggests [[mental-causation-and-downward-causation|downward causation]] is real.
 
 ## Relation to Site Perspective
 

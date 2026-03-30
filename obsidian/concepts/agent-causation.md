@@ -24,8 +24,7 @@ concepts:
   - "[[concepts/many-worlds]]"
   - "[[pairing-problem]]"
   - "[[causal-interface]]"
-  - "[[downward-causation]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[explanatory-gap]]"
   - "[[authentic-vs-inauthentic-choice]]"
@@ -78,7 +77,7 @@ Substance causation inverts this. Substances—the neuron, you—are the causal 
 
 Can event causation reduce to substance causation, or vice versa? Lowe argued that event causation reduces to substance causation: "A caused B" really means "some substance exercised powers that brought about B." The reverse reduction fails—you can't analyse "substance S exercised power P" purely in terms of events without presupposing S itself. Substances are ontologically prior.
 
-This matters for [[mental-causation|mental causation]]. If event causation is fundamental, Kim's exclusion argument has force: mental events compete with physical events for causal responsibility. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
+This matters for [[mental-causation-and-downward-causation|mental causation]]. If event causation is fundamental, Kim's exclusion argument has force: mental events compete with physical events for causal responsibility. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
 
 ### Lowe's Framework
 
@@ -102,7 +101,7 @@ This doesn't prove consciousness causes anything—that's an empirical and pheno
 
 ### The Causal Closure Question
 
-Kim's exclusion argument against [[mental-causation|mental causation]] depends on [[causal-closure|causal closure]]: every physical event has a sufficient physical cause. If true, mental causes seem excluded.
+Kim's exclusion argument against [[mental-causation-and-downward-causation|mental causation]] depends on [[causal-closure|causal closure]]: every physical event has a sufficient physical cause. If true, mental causes seem excluded.
 
 Substance causation shifts the dialectic. The question isn't whether physical *events* are sufficient but whether physical *substances* are the only substances with causal powers. Physics describes regularities in what substances do; it doesn't prove that only physical substances exist.
 
@@ -236,8 +235,7 @@ Against [[concepts/epiphenomenalism]]: substance causation combined with the sel
 - [[voluntary-attention-control-mechanisms]] — Frontal decision circuits, salience network switching, and thalamic gating
 - [[phenomenology-of-agency-vs-passivity]] — The agency-passivity axis that empirically grounds agent causation
 - [[skill-delegation]] — The three-phase delegation pattern, choking phenomenon, and parallel with [[causal-delegation]]
-- [[mental-causation]] — The problem substance causation addresses
-- [[downward-causation]] — How higher-level substances influence lower-level processes
+- [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
 - [[atemporal-causation]] — Causation outside temporal sequence
 - [[causal-closure]] — The principle substance causation challenges
 - [[causal-interface]] — Why the mechanism of agent causation is systematically invisible

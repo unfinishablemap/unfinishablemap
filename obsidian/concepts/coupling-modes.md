@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-03-25T16:30:00+00:00
 draft: false
 topics:
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[topics/free-will]]"
 concepts:
   - "[[psychophysical-laws]]"

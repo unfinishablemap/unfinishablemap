@@ -24,7 +24,7 @@ concepts:
   - "[[spontaneous-collapse-theories]]"
   - "[[concepts/many-worlds]]"
   - "[[combination-problem]]"
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[collapse-before-minds-early-universe-2026-01-16]]"
@@ -103,7 +103,7 @@ The [[concepts/many-worlds|Many-Worlds Interpretation]] claims to dissolve the p
 
 This is not a solution but a different problem. MWI trades the prebiotic collapse question for the [[haecceity|indexical identity question]]: why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
 
-Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [[mental-causation]] is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
+Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [[mental-causation-and-downward-causation|mental causation]] is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
 
 ## Cosmological Evidence for Early-Universe Collapse
 
@@ -119,7 +119,7 @@ The Map separates two claims that often get conflated:
 
 1. **Collapse is real.** Quantum measurement produces definite outcomes; the universe has a single actual history, not an eternal superposition of all possibilities. (This is the No Many Worlds commitment.)
 
-2. **Consciousness interfaces with collapse.** In developed neural systems, consciousness participates in determining which outcomes become actual. This is the mechanism for [[mental-causation|mental causation]], operating at quantum indeterminacies without violating energy conservation.
+2. **Consciousness interfaces with collapse.** In developed neural systems, consciousness participates in determining which outcomes become actual. This is the mechanism for [[mental-causation-and-downward-causation|mental causation]], operating at quantum indeterminacies without violating energy conservation.
 
 But (2) does not entail that consciousness is *universally required* for collapse. Objective reduction (Penrose-style gravity-induced collapse, GRW spontaneous localization, or some yet-unknown mechanism) provides the baseline. Collapse happens throughout the universe, before and beyond minds, through physical processes.
 

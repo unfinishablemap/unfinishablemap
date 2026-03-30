@@ -10,7 +10,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[mental-causation]]"
+  - "[[mental-causation-and-downward-causation]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
@@ -37,7 +37,7 @@ last_curated:
 last_deep_review: 2026-03-22T10:41:00+00:00
 ---
 
-The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [[mental-causation|mental causation]]. When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [[concepts/epiphenomenalism]] because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
+The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [[mental-causation-and-downward-causation|mental causation]]. When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [[concepts/epiphenomenalism]] because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
 
 ## Beyond the Folk Understanding
 
@@ -113,7 +113,7 @@ Placebo evidence contributes to a broader [[empirical-evidence-for-consciousness
 
 ## Further Reading
 
-- [[mental-causation]] — The philosophical problem and the Map's quantum framework response
+- [[mental-causation-and-downward-causation|mental causation]] — The philosophical problem and the Map's quantum framework response
 - [[choking-phenomenon-mental-causation]] — Complementary evidence: conscious interference with automatised performance
 - [[evolutionary-case-for-mental-causation]] — Why natural selection implies mental causation
 - [[concepts/epiphenomenalism]] — The view that consciousness causes nothing, and why it fails
