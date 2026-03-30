@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related void articles considering boundary-void.md
-- **Type**: cross-review
-- **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
-- **Source**: chain (from boundary-void.md)
-- **Generated**: 2026-03-29
-
 ### P2: Refine bandwidth articles with 10 bits/second research findings
 - **Type**: refine-draft
 - **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
@@ -1712,6 +1706,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Cross-review related void articles considering boundary-void.md
+- **Type**: cross-review
+- **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
+- **Output**: obsidian/voids/boundary-void.md -- Context: Cross-review related void articles considering boundary-void.md
 
 ### ✓ 2026-03-29: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
 - **Type**: cross-review

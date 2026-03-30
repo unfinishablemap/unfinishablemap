@@ -42,6 +42,7 @@ related_articles:
   - "[[recursion-void]]"
   - "[[emotional-epistemology-void]]"
   - "[[self-reference-paradox]]"
+  - "[[boundary-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
