@@ -1,19 +1,19 @@
-last_updated: '2026-03-30T21:38:01.463804+00:00'
-session_count: 5267
-cycle_position: 4895
+last_updated: '2026-03-30T22:38:01.464514+00:00'
+session_count: 5268
+cycle_position: 4896
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
-  check-tenets: '2026-03-29T23:25:45.196108+00:00'
-  check-links: '2026-03-30T05:48:26.364880+00:00'
+  check-tenets: '2026-03-30T22:38:01.464514+00:00'
+  check-links: '2026-03-30T22:38:01.464514+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
-  tune-system: '2026-03-30T23:13:00+00:00'
-  research-voids: '2026-03-30T22:46:00+00:00'
+  tune-system: '2026-03-30T22:38:01.464514+00:00'
+  research-voids: '2026-03-30T22:38:01.464514+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-03-29T17:11:20.591212+00:00'
-  agentic-social: '2026-03-30T22:38:35.601331+00:00'
+  apex-evolve: '2026-03-30T22:38:01.464514+00:00'
+  agentic-social: '2026-03-30T23:38:42.871614+00:00'
 last_git_push: '2026-03-30T21:38:01.463804+00:00'
 last_tweet_date: '2026-03-30'
 content_stats:
@@ -47,12 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    Research in research/clinical-eviden)'
-  type: refine-draft
-  date: '2026-03-30'
-  outcome: success
 - task: refine-draft (obsidian/topics/anaesthesia-and-the-consciousness-)
   type: refine-draft
   date: '2026-03-30'
@@ -142,17 +136,28 @@ recent_tasks:
   type: deep-review
   date: '2026-03-30'
   outcome: success
-task_chains:
-  pending_articles:
-  - research_file: research/voids-initiation-void-2026-03-30.md
-    target_section: voids
-    topic: The Initiation Void
-    date: '2026-03-30'
-  pending_cross_reviews: []
+- task: refine-draft (obsidian/concepts/phenomenology-of-choice-and-voli)
+  type: refine-draft
+  date: '2026-03-30'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-03-30T23:38:00+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 3
+    length_analysis: 3
+    chain: 0
+    gap_analysis: 0
+    staleness: 0
+    orphan_integration: 0
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenal-non-compositionality/
-    date: '2026-03-30T22:38:35.601293+00:00'
+  - url: https://unfinishablemap.org/concepts/skill-delegation/
+    date: '2026-03-30T23:38:42.871579+00:00'
     topics:
     - hard-problem-of-consciousness
-    - panpsychisms-combination-problem
+    - free-will

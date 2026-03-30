@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on testable predictions distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Comprehensive breakdown of divergent empirical predictions between consciousness-collapse, GRW, Bohm, and standard decoherence frameworks. Covers Chalmers-McQueen IIT+CSL, specific experimental regimes, and what results would discriminate. Directly supports Tenet 2 (Minimal Quantum Interaction) by grounding it in testable claims. Target section: topics/ (226/230, 4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate clinical evidence quality recalibration into neuroplasticity articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically reassesses the Map's clinical evidence base. Key findings: Schwartz OCD data is weak (n=9, no independent replication), meditation literature overstated (2022 Goldberg replication failure), placebo neuroimaging has methodological concerns. Update clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles to reflect honest evidence quality rather than overclaiming. Strengthens credibility by self-correcting.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate bandwidth constraints (10 bits/s) research into bandwidth articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides detailed analysis of the conscious processing bottleneck (~10 bits/s vs ~10⁹ bits/s neural throughput). Update bandwidth-of-consciousness.md and resolution-bandwidth-interface.md with Nørretranders' analysis, specific experimental measurements, and implications for the interface model. The extreme asymmetry is among the Map's strongest empirical data points for the filter/interface model.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Condense comparing-quantum-consciousness-mechanisms.md (4200 words, 105% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core comparative analysis of Penrose-Hameroff, Stapp, and other quantum consciousness mechanisms while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-30
+
+### P2: Condense quantum-biology-and-neural-mechanisms.md (3625 words, 104% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum biological processes in neural tissue while tightening prose and deferring experimental details to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-30
+
+### P2: Condense phenomenology-of-choice-and-volition.md (3760 words, 107% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently refined (2026-03-30) with Libet rebuttal evidence integration — verify the refinement didn't increase length further. Preserve core phenomenological analysis while removing redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-30
+
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Status**: pending
