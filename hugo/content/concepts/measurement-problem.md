@@ -51,6 +51,7 @@ related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[physics-as-disclosure]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
+- '[[post-decoherence-selection-programme]]'
 title: The Measurement Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -213,6 +214,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — Coordination puzzles
 - [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How Zurek's framework specifies the menu while leaving the outcome gap open
+- [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis: five converging lines of inquiry for consciousness acting after decoherence
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference
 - [tenets](/tenets/) — The Map's foundational commitments
 

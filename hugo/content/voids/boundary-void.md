@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 22:10:00+00:00
+ai_modified: 2026-03-30 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Human+AI exploration of why consciousness cannot determine its own 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-03-30 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -38,7 +39,7 @@ topics:
 
 Consciousness has edges. Experience includes the colour of this text and excludes the activity of your liver. It encompasses your current emotion and omits the firing of your peripheral nerves. Somewhere between what you experience and what you do not, a boundary exists—and consciousness cannot find it. The boundary void is the structural impossibility of consciousness determining its own limits from within. Unlike the [binding void](/voids/binding-void/), which concerns how contents unify *within* experience, the boundary void asks why experience has any determinate perimeter at all, and why that perimeter is invisible to the consciousness it encloses.
 
-The boundary problem has received approximately five scholarly papers, compared to ninety-two on the binding problem and forty-seven on the combination problem (Gómez-Emilsson & Percy, 2023). This neglect is itself a datum. A problem that is hard to formulate—because formulating it requires standing at an edge you cannot locate—produces exactly this pattern: not active dismissal, but quiet absence.
+The boundary problem has received approximately five scholarly papers, compared to ninety-two on the binding problem and forty-seven on the combination problem (Gómez-Emilsson & Percy, 2023). This neglect is itself a datum. A problem that requires standing at an edge you cannot locate produces exactly this pattern: not active dismissal, but quiet absence.
 
 ## The Problem No Theory Escapes
 
@@ -108,7 +109,9 @@ The boundary void connects to the Map's [tenets](/tenets/) with unusual directne
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** suggests a possible origin for the boundary. Consciousness may be bounded to the neural systems whose quantum events it can influence. The boundary would then be a consequence of the interaction mechanism itself—consciousness extends exactly as far as its causal reach.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The assumption that consciousness is bounded by the brain is the simple answer. Meditation dissolution, split-brain ambiguity, and the boundary problem's theoretical intractability suggest the true account is more complex than any parsimonious principle would predict.
+**[No Many Worlds](/tenets/#no-many-worlds)** intensifies the boundary question. If consciousness does not branch with the wave function, each consciousness has exactly one boundary at any moment. Many-worlds would allow boundaries to proliferate with every quantum event; rejecting it means the boundary is singular and determinate—yet its location remains unexplainable.
+
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. Meditation dissolution, split-brain ambiguity, and the boundary problem's theoretical intractability suggest the true account is more complex than any parsimonious principle would predict.
 
 ## Further Reading
 

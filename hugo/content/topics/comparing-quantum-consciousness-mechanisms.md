@@ -37,6 +37,7 @@ related_articles:
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[testing-consciousness-collapse]]'
 - '[[quantum-darwinism-and-consciousness]]'
+- '[[post-decoherence-selection-programme]]'
 title: Comparing Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -176,6 +177,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — The experimental landscape for distinguishing consciousness-collapse from decoherence
 - [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/) — How einselection constrains the menu from which consciousness selects
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — The concept of consciousness acting on already-decohered mixtures
+- [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis integrating post-decoherence selection with quantum Darwinism, contextuality, weak measurement, and amplification
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves outcomes undetermined
 
 ## References

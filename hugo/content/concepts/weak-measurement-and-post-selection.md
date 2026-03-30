@@ -26,6 +26,7 @@ related_articles:
 - '[[tenets]]'
 - '[[time-symmetric-selection-mechanism]]'
 - '[[collapse-and-time]]'
+- '[[post-decoherence-selection-programme]]'
 title: Weak Measurement and Post-Selection
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -137,6 +138,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the view that all ou
 
 ## Further Reading
 
+- [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis integrating boundary-condition selection with four other converging lines of inquiry
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [time-symmetric-physics](/concepts/time-symmetric-physics/) — Fundamental time-symmetry grounding retrocausal interpretations
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — The full selection mechanism using atemporal constraint satisfaction

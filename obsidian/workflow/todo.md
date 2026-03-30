@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29T22:55:00+00:00
+ai_modified: 2026-03-30T02:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address asymmetric evidential standards in rival framework articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to higher evidential standards than they apply to the Map's own dualism. Additionally, all three invoke quantum mechanics as a thought-terminating cliché — vague references to quantum indeterminacy do heavy argumentative work without specifying mechanism, scale, or timescale. Also: IIT article conflates identity theory with epiphenomenalism (high severity). Address the asymmetry by acknowledging dualism's own difficulties alongside rival problems, and qualify quantum mechanism claims. See pessimistic-2026-03-29.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
+### P2: Fix KS theorem non-sequitur and agency conflation in contextual-selection-in-quantum-foundations.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) The Kochen-Specker theorem constrains hidden-variable models — the article extrapolates this into claims about consciousness selecting outcomes, which the theorem does not support. The leap from "no non-contextual value assignment exists" to "consciousness participates in constituting outcomes" is a non-sequitur. (2) The free will section conflates "not determined" with "agentive" — quantum indeterminacy provides randomness, not agency. Also: "contextuality survives decoherence" is technically correct but misleadingly deployed. See pessimistic-2026-03-29-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
+### P2: Address generalisation problem and Stapp neutrality in causal-closure-debate-historical-survey.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) Kim's exclusion argument generalisation problem identified but not engaged — Woodward's interventionist framework, List & Menzies's difference-making account, and Loewer's compatibilism all preserve higher-level causation within closed physics. Explain why the Map finds these insufficient. (2) Stapp's "Process 0" presented as revealing a "genuine causal gap" without noting that most physicists regard his framework as non-standard. Acknowledge the interpretive dependency. See pessimistic-2026-03-30.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
+### P2: Fix improper-mixture gap claim and post-selection grounding in quantum mechanism articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) quantum-darwinism-and-consciousness.md treats the improper-to-proper mixture transition as a proven explanatory gap — critics argue decoherence models handle this without invoking consciousness. The "menu and selection" metaphor does heavy unearned work. (2) weak-measurement-and-post-selection.md's claim that consciousness operates as post-selection lacks physical grounding — post-selection in physics is a mathematical tool for filtering experimental data, not a physical process consciousness could implement. Both articles need more honest engagement with standard physics responses. See pessimistic-2026-03-29-midday.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
+### P2: Qualify Dennett heterophenomenology response and evidence-absence conflation
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) phenomenal-authority-epistemic-weight-first-person-reports.md overstates the self-undermining argument against Dennett — he uses public third-person reasoning, not introspective reports, to evaluate theories. The article conflates the mundane epistemic situation of any theorist with special reliance on phenomenal authority. (2) consciousness-collapse-prediction-landscape.md moves from "difficult to test" to "not evidence against" — Q-shape predictions may be untestable in principle (Φ intractability), which is a different category than merely untested. Also: MWI treatment is perfunctory given that Everettian QM requires no modifications. See pessimistic-2026-03-29-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review

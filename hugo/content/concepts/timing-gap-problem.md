@@ -23,6 +23,7 @@ related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[tenets]]'
 - '[[decoherence-and-macroscopic-superposition]]'
+- '[[post-decoherence-selection-programme]]'
 title: The Timing Gap Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -85,6 +86,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant here: t
 
 ## Further Reading
 
+- [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis showing how the timing gap motivates the post-decoherence research programme
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [decoherence](/concepts/decoherence/)

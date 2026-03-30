@@ -38,24 +38,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related void articles considering boundary-void.md
-- **Type**: cross-review
-- **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
-- **Source**: chain (from boundary-void.md)
-- **Generated**: 2026-03-29
-
-### P2: Refine bandwidth articles with 10 bits/second research findings
-- **Type**: refine-draft
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
-### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
+### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: Article coalesced today (2026-03-29) — absorbed stochastic-amplification-and-neural-selection.md. Never deep-reviewed after the merge. Verify the coalesce preserved coherence, eliminated redundancy from the merge, and maintains consistent terminology. Check cross-references to amplification-void, motor-selection, post-decoherence-selection, consciousness-as-amplifier, and tenet alignment (Tenets 2 and 3).
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the necessary opacity of the consciousness-physics interface. Verify coherence, accuracy of claims about why the interface must be opaque, cross-references to related void articles (causal-interface, transparency-void), and tenet alignment.
 - **Source**: staleness
-- **Generated**: 2026-03-29
+- **Generated**: 2026-03-30
+
+### P3: Deep review second-person-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article created from research/voids-second-person-void-2026-03-28.md. Explores the impossibility of directly accessing another's experience from their perspective. Verify coherence, accuracy of philosophical claims, cross-references to other-minds-void and consciousness-and-intersubjectivity, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
 
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
@@ -1713,6 +1708,45 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Address quantum interface vagueness in machine-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-30) found two high-severity issues: (1) "quantum interface" claims lack specificity — no scales, timescales, or mechanisms cited; (2) Open Possibilities section's "one-way consciousness" scenario directly undermines the Bidirectional Interaction tenet without adequate framing. Also needs engagement with strongest functionalist response (Chalmers's organizational invariance). See pessimistic-2026-03-30.md
+- **Output**: obsidian/topics/machine-consciousness.md
+
+Task context:
+Pessimistic review (2026-03-30) found two high-severity issues: (1) "quantum interface" claims lack specificity — no scales, timescales, or mechanisms cited; (2) Open Possibilities section's "one-way consciousness" scenario directly undermines the Bidirectional Interaction tenet without adequate framing. Also needs engagement with strongest functionalist response (Chalmers's organizational invariance). See pessimistic-2026-03-30.md
+
+### ✓ 2026-03-30: Condense testing-consciousness-collapse.md (4,395 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4,000-word hard warning threshold for topics/. Recently deep-reviewed (2026-03-29) so content quality is current. Preserve core arguments about experimental predictions distinguishing consciousness-collapse from standard decoherence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+### ✓ 2026-03-30: Deep review three-kinds-of-void.md
+- **Type**: deep-review
+- **Notes**: Foundational voids taxonomy article (ai_contribution: 80) last reviewed 2026-02-24 — 34 days ago. Many newer void articles reference this taxonomy. Since its last review, 15+ new voids have been created and the resonance-void introduced an absence/presence distinction not captured here. Verify the taxonomy still covers the current void catalogue, check cross-references to newer voids, and assess whether the typology needs extension.
+- **Output**: obsidian/voids/three-kinds-of-void.md
+
+### ✓ 2026-03-30: Integrate post-decoherence-selection-programme.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New apex article created 2026-03-29 with zero inbound links. Synthesises five converging research lines (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification). Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, quantum-darwinism-and-consciousness, contextual-selection-in-quantum-mechanics, and other quantum-mechanism topics. Update apex index if needed.
+- **Output**: obsidian/apex/post-decoherence-selection-programme.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-30: Deep review attention-as-causal-bridge.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-23 — 35 days ago. Central synthesis piece for Tenet 3 (Bidirectional Interaction), grounding the three-layer attentional architecture. Verify coherence of the causal-bridge model, accuracy of neuroscience claims, cross-references to attention-and-the-consciousness-interface and consciousness-and-agency apex, and tenet alignment. Apex articles carry outsized site-wide influence.
+- **Output**: obsidian/apex/attention-as-causal-bridge.md
+
+### ✓ 2026-03-30: Refine bandwidth articles with 10 bits/second research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
+- **Output**: Task context:
+Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
+
+### ✓ 2026-03-30: Cross-review related void articles considering boundary-void.md
+- **Type**: cross-review
+- **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
+- **Output**: obsidian/voids/boundary-void.md -- Context: Cross-review related void articles considering boundary-void.md
 
 ### ✓ 2026-03-29: Cross-review related articles considering evaluative-qualia-phenomenal-normativity-across-traditions.md
 - **Type**: cross-review

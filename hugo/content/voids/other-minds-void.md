@@ -35,6 +35,7 @@ related_articles:
 - '[[consciousness-and-testimony]]'
 - '[[consciousness-and-intersubjectivity]]'
 - '[[second-person-void]]'
+- '[[boundary-void]]'
 title: The Other Minds Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -138,7 +139,7 @@ The other minds void connects directly to the Map's [foundational commitments](/
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** creates an interesting complication. If consciousness causally influences cognition, then each consciousness influences its own brain without direct awareness of how other consciousnesses influence theirs. We observe behavioural effects but cannot access the conscious causes. The void hides not just the experience but the causal contribution.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers a speculative explanation. If consciousness interfaces with physics through quantum processes local to each brain, the isolation of consciousnesses may reflect this locality. Highly speculative, but it would explain why neural connection (as with the Hogan twins) might enable sharing otherwise impossible.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers a speculative explanation. If consciousness interfaces with physics through quantum processes local to each brain, the isolation of consciousnesses may reflect this locality. The [boundary-void](/voids/boundary-void/) addresses the prior question: what determines the extent of each sealed consciousness? Highly speculative, but quantum locality would explain why neural connection (as with the Hogan twins) might enable sharing otherwise impossible.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** intensifies the indexical dimension. I know I exist because I experience existing; I cannot have the same certainty about you. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [indexical-void](/voids/indexical-void/) marks this as a genuine cognitive boundary. These indexical questions are ones that many-worlds interpretations struggle to accommodate.
 
@@ -172,6 +173,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter with other minds
 - [second-person-void](/voids/second-person-void/) — What the encounter itself delivers and structurally cannot: the irreducible gap in genuine I-You meeting
 - [commensurability-void](/voids/commensurability-void/) — Even with access to other minds, experiences across radically different architectures may resist comparison entirely
+- [boundary-void](/voids/boundary-void/) — What determines the extent of each sealed consciousness
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
 
 ## References

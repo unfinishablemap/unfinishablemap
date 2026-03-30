@@ -29,6 +29,7 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[plurality-void]]'
+- '[[boundary-void]]'
 title: The Indexical Void
 topics:
 - '[[personal-identity]]'
@@ -104,7 +105,7 @@ The indexical void connects to the Map's [tenets](/tenets/) in a distinctive way
 
 **[No Many Worlds](/tenets/#no-many-worlds)** — The tenet's rationale explicitly cites the indexical problem: "Many-worlds leads to vast ontological proliferation... it raises unanswerable indexical questions: why am I *this* instance and not another?" The Map rejects many-worlds partly because it dissolves the indexical question rather than answering it. Many-worlds declares all instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying—the question seems meaningful, and a framework unable to pose it is missing something about consciousness.
 
-**[Dualism](/tenets/#dualism)** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The indexical void forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The void is not a problem for dualism specifically—List shows it challenges all third-personal metaphysics—but dualism must acknowledge it.
+**[Dualism](/tenets/#dualism)** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The indexical void forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [boundary-void](/voids/boundary-void/) addresses the adjacent question: what determines the *extent* of one consciousness? Indexicality presupposes individuation; the boundary void questions the ground of that individuation. The void is not a problem for dualism specifically—List shows it challenges all third-personal metaphysics—but dualism must acknowledge it.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** — The mechanism connecting a specific consciousness to a specific brain requires something that selects *this* consciousness for *this* brain. The indexical void and the [causal interface void](/voids/causal-interface/) may be two aspects of the same deeper void: the question of *which* mind pairs with *which* body. The [combination-problem](/concepts/combination-problem/) faces a related difficulty in the opposite direction: how do micro-experiences combine into *this* unified subject? The indexical void asks why the result is *me*; the combination problem asks how the result is achieved at all.
 
@@ -122,6 +123,7 @@ The indexical void connects to the Map's [tenets](/tenets/) in a distinctive way
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The synchronic individuation question underlying the indexical void
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Where indexical identity meets quantum collapse
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified subjects
+- [boundary-void](/voids/boundary-void/) — What determines the extent of one consciousness; individuation presupposes boundaries
 - [plurality-void](/voids/plurality-void/) — The void around the multiplicity of conscious subjects
 
 ## References

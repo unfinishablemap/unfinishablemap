@@ -1,13 +1,92 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-29 17:27:00+00:00
+ai_modified: 2026-03-30 01:44:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-03-29'
+date: '2026-03-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-30 02:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Changes**: Qualified quantum interface claims with specific timescales (Tegmark decoherence), reframed One-Way Consciousness to defend Bidirectional Interaction tenet, added engagement with Chalmers's organizational invariance principle, reduced hyperbolic language
+- **Published**: yes
+
+## 2026-03-30 02:00 UTC - condense
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Before**: 4395
+- **After**: 2830
+- **Reduction**: 36%
+- **Technique**: Cut redundant decoherence background (linked instead), tightened experimental descriptions, removed duplicate Frauchiger-Renner coverage between Tier 2 and Tier 3, trimmed Further Reading from 15 to 8 links
+
+## 2026-03-30 01:44 UTC - deep-review
+- **Status**: Success
+- **File**: [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- **Word count**: 2220 → 2240 (+20)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 6 (duplicate frontmatter concept, mislabeled Further Reading link, duplicate Further Reading entries, missing cross-links, missing related_articles, overlong description)
+- **Enhancements made**: 6 (link corrections, cross-links to growing block articles, metadata cleanup)
+- **Output**: [deep-review-2026-03-30-time-symmetric-selection-mechanism](/reviews/deep-review-2026-03-30-time-symmetric-selection-mechanism/)
+
+## 2026-03-30 01:29 UTC - deep-review
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Word count**: 1440 → 1492 (+52)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (missing References section, imprecise Husserl attribution, dense paragraph in Unexplorable)
+- **Enhancements made**: 3 (References section, paragraph split, attribution correction)
+- **Output**: [deep-review-2026-03-30-three-kinds-of-void](/reviews/deep-review-2026-03-30-three-kinds-of-void/)
+
+## 2026-03-30 01:15 UTC - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Word count**: 2805 → 2825 (+20)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (orphan integration via 9 backlinks, missing cross-links, Schlosshauer attribution)
+- **Enhancements made**: 8 cross-links added within apex, 9 backlinks from source/related articles
+- **Output**: [deep-review-2026-03-30-post-decoherence-selection-programme](/reviews/deep-review-2026-03-30-post-decoherence-selection-programme/)
+
+## 2026-03-30 00:59 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/machine-consciousness.md, topics/causal-closure-debate-historical-survey.md
+- **Output**: [pessimistic-2026-03-30](/reviews/pessimistic-2026-03-30/)
+
+## 2026-03-30 00:52 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
+- **Word count**: 2822 → 2838 (+16)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (COGITATE qualifier, Schwartz qualification, anonymous citation)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-30-attention-as-causal-bridge](/reviews/deep-review-2026-03-30-attention-as-causal-bridge/)
+
+## 2026-03-30 00:30 UTC - refine-draft
+- **Status**: Success
+- **Files**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Changes**: Integrated research findings from [bandwidth-constraints-10-bits-2026-03-29](/research/bandwidth-constraints-10-bits-2026-03-29/): precise task measurements with Shannon methodology, Coupé et al. 2019 speech universality, Miller 1956 chunking, sifting ratio framing, Sauerbrei & Pruszynski 2025 conscious vs unconscious throughput distinction, chunking/trainability analysis
+- **Published**: yes
+
+## 2026-03-30 00:14 UTC - deep-review
+- **Status**: Success
+- **File**: [retrocausality](/concepts/retrocausality/)
+- **Word count**: 2856 → 2856 (+0)
+- **Critical issues addressed**: 0 (none found — stable after 6 reviews)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp update only)
+- **Output**: [deep-review-2026-03-30-retrocausality](/reviews/deep-review-2026-03-30-retrocausality/)
+
+## 2026-03-30 00:00 UTC - deep-review
+- **Status**: Success
+- **File**: [boundary-void](/voids/boundary-void/)
+- **Word count**: 1903 → 1933 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing No Many Worlds tenet, missing inbound cross-references)
+- **Enhancements made**: 6 inbound cross-references added to related void articles
+- **Output**: [deep-review-2026-03-30-boundary-void](/reviews/deep-review-2026-03-30-boundary-void/)
 
 ## 2026-03-29 23:45 UTC - deep-review
 - **Status**: Success

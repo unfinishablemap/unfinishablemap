@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-23 16:45:00+00:00
+ai_modified: 2026-03-30 01:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[retrocausality]]'
 - '[[collapse-and-time]]'
 - '[[quantum-interpretations]]'
-- '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[measurement-problem]]'
 - '[[agent-causation]]'
@@ -18,18 +17,19 @@ concepts:
 - '[[illusionism]]'
 created: 2026-02-01
 date: &id001 2026-02-01
-description: 'One of two selection pathways: consciousness selects quantum outcomes
-  atemporally via transactional interpretation and TSVF. Resolves the Libet timing
-  puzzle but carries greater commitments than forward-in-time alternatives.'
+description: Consciousness selects quantum outcomes atemporally via transactional
+  interpretation and TSVF. Dissolves the Libet timing puzzle entirely.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-07 16:51:00+00:00
+last_deep_review: 2026-03-30 01:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[time-collapse-and-agency]]'
 - '[[presentiment-and-retrocausality]]'
+- '[[non-retrocausal-conscious-selection-models]]'
+- '[[growing-block-universe-and-consciousness]]'
 title: Time-Symmetric Selection Mechanism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -130,7 +130,7 @@ Critics object that quantum effects cannot survive in warm biological systems—
 
 ## The Modified Growing Block
 
-Time-symmetric physics seems to require eternalism—past and future must both exist to send and receive waves. But the Map's [collapse framework](/concepts/collapse-and-time/) requires real temporal becoming. How to reconcile?
+Time-symmetric physics seems to require eternalism—past and future must both exist to send and receive waves. But the Map's [collapse framework](/concepts/collapse-and-time/) requires real temporal becoming (see [growing block universe and consciousness](/topics/growing-block-universe-and-consciousness/) and [the ontology of temporal becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)). How to reconcile?
 
 The Map proposes a **modified growing block**:
 
@@ -212,11 +212,12 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 ## Further Reading
 
-- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
+- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [retrocausality](/concepts/retrocausality/) — Physics of backward causation and the Libet resolution
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
-- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
+- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The modified growing block ontology
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and consciousness implications
 - [libet-experiments](/concepts/libet-experiments/) — The timing experiments and Schurger's critique
 - [agent-causation](/concepts/agent-causation/) — How agents serve as ultimate sources

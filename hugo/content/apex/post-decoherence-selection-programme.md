@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 17:12:00+00:00
+ai_modified: 2026-03-30 01:15:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 13:56:00+00:00
 apex_sources:
@@ -32,29 +32,33 @@ description: Five converging lines of inquiry—post-decoherence selection, quan
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-30 01:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[interface-specification-programme]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[apex-articles]]'
+- '[[timing-gap-problem]]'
+- '[[comparing-quantum-consciousness-mechanisms]]'
+- '[[conservation-laws-and-mental-causation]]'
+- '[[amplification-void]]'
 title: The Post-Decoherence Selection Programme
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The strongest empirical objection to quantum consciousness theories is the timing gap: decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. This is not a single hypothesis but a research programme built from five converging lines of inquiry: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/amplification-mechanisms-consciousness-physics/) causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
+The strongest empirical objection to quantum consciousness theories is the [timing gap](/concepts/timing-gap-problem/): decoherence destroys quantum superpositions in neural tissue within femtoseconds, while conscious decisions take hundreds of milliseconds. For two decades this objection has seemed decisive. The Unfinishable Map proposes a response that does not dispute the physics but reframes the question. If consciousness acts *after* decoherence—selecting which element of the already-decohered mixture becomes actual—then the decoherence timescale is irrelevant. This is not a single hypothesis but a research programme built from five converging lines of inquiry: the [post-decoherence selection](/concepts/post-decoherence-selection/) gap that decoherence leaves, [quantum Darwinism's](/topics/quantum-darwinism-and-consciousness/) specification of the menu, [quantum contextuality's](/concepts/contextual-selection-in-quantum-foundations/) structural constraints on what selection can mean, [weak measurement and post-selection's](/concepts/weak-measurement-and-post-selection/) alternative mechanism through boundary conditions, and [stochastic amplification's](/topics/amplification-mechanisms-consciousness-physics/) causal bridge from quantum bias to neural behaviour. Together they specify what a complete theory of consciousness acting after decoherence would require—and where the gaps remain.
 
 ## The Gap That Physics Cannot Close
 
 Decoherence is one of the great achievements of modern physics. It explains why macroscopic objects appear classical: environmental interactions rapidly suppress quantum interference, selecting a preferred basis of robust pointer states and destroying the fragile superpositions that make quantum mechanics strange. After decoherence, a neural system exists in a mixture of classically distinguishable states—this firing pattern or that one—with interference between them suppressed below any detectable threshold.
 
-What decoherence does not do is explain why one of those states becomes actual. As Schlosshauer (2004) puts it: after the basis is chosen and superpositions suppressed, the system remains in a mixture of possible outcomes. Decoherence does not tell how and why only one is measured. This is the *problem of outcomes*—the third sub-problem of quantum measurement, surviving intact after the first two (preferred basis and non-observability of interference) have been solved.
+What decoherence does not do is explain why one of those states becomes actual. As Schlosshauer (2004) summarises: after the basis is chosen and superpositions suppressed, the system remains in a mixture of possible outcomes—decoherence does not tell how and why only one is measured. This is the *problem of outcomes*—the third sub-problem of quantum measurement, surviving intact after the first two (preferred basis and non-observability of interference) have been solved.
 
 The philosophical crux is the distinction between improper and proper mixtures. A proper mixture represents classical ignorance: the system is in one state and we do not know which. An improper mixture—what decoherence produces—is mathematically identical but physically different. It arises from tracing out environmental degrees of freedom from an entangled state, and it does not license the conclusion that a definite outcome already obtains (d'Espagnat 1976). Something beyond the quantum formalism must convert the improper mixture into the single outcome we experience.
 
-Every interpretation of quantum mechanics takes a stance on this gap. Many-worlds denies it exists: all outcomes occur. Objective collapse theories (GRW, Penrose-Diósi) propose new physics. Hidden-variable theories make it illusory. The Map's proposal is that consciousness fills this gap—and that consciousness does so *after* decoherence has done its work.
+Every interpretation of quantum mechanics takes a stance on this gap (see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) for detailed evaluation). [Many-worlds](/concepts/many-worlds/) denies it exists: all outcomes occur. [Objective collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, Penrose-Diósi) propose new physics. Hidden-variable theories make it illusory. The Map's proposal is that consciousness fills this gap—and that consciousness does so *after* decoherence has done its work.
 
 ## The Menu: Quantum Darwinism's Contribution
 
@@ -68,7 +72,7 @@ The *probabilities are fixed*. The Born rule constrains the statistical distribu
 
 *Agreement is guaranteed*. Because environmental fragments carry redundant information about the selected outcome, all subsequent observers will agree. Consciousness need not synchronise multiple observations—quantum Darwinism handles intersubjective agreement automatically.
 
-These constraints clarify why the Map's proposal is one of minimal interaction. Quantum Darwinism has done the heavy lifting—selecting the basis, determining probabilities, ensuring objectivity. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could possibly be while still being genuine.
+These constraints clarify why the Map's proposal is one of minimal interaction. Quantum Darwinism has done the heavy lifting—selecting the basis, determining probabilities, ensuring objectivity. What remains for consciousness is the single act of actualisation: determining which pointer state obtains. The intervention is as small as it could possibly be while still being genuine—requiring no energy injection, consistent with [conservation law constraints](/concepts/conservation-laws-and-mental-causation/).
 
 Zurek himself leans toward an Everettian reading where all pointer states are realised in separate branches. The Map rejects this: quantum Darwinism's core results—einselection, redundant encoding, the emergence of objectivity—are interpretation-neutral. They work equally well in collapse interpretations, hidden-variable theories, and consciousness-mediated frameworks. The physics can be separated from Zurek's interpretive inclinations.
 
@@ -80,7 +84,7 @@ For the post-decoherence selection programme, [contextuality](/concepts/contextu
 
 This gives consciousness a richer role than simple outcome-picking. If attention shapes the measurement context (as Stapp's framework suggests), then consciousness participates in determining what questions the brain's quantum dynamics poses, not merely which answers it selects. The distinction matters: context-setting and outcome-selection are different causal roles, and contextuality shows they cannot be cleanly separated.
 
-Contextuality also provides structural support for the Map's account of free will. The selection is not arbitrary—physics constrains it through the measurement context. It is not determined—quantum mechanics leaves the outcome open within the decohered mixture. And it is not context-free—the Kochen-Specker result guarantees that the outcome depends on the full situation. Consciousness operates in a gap whose shape depends on context: neither a fixed script nor pure noise.
+Contextuality also provides structural support for the Map's account of [free will](/concepts/quantum-indeterminacy-free-will/). The selection is not arbitrary—physics constrains it through the measurement context. It is not determined—quantum mechanics leaves the outcome open within the decohered mixture. And it is not context-free—the Kochen-Specker result guarantees that the outcome depends on the full situation. Consciousness operates in a gap whose shape depends on context: neither a fixed script nor pure noise.
 
 ## The Alternative Mechanism: Boundary Conditions
 
@@ -98,7 +102,7 @@ The cost is interpretive commitment: this framework requires the realist interpr
 
 ## The Bridge: From Quantum Bias to Behaviour
 
-Even granting that consciousness selects among post-decoherence outcomes, a scale problem remains. Quantum-level events involve energies of order 10⁻²⁰ joules. Neural firing involves energies a trillion times larger. How does a quantum bias become a movement of the arm?
+Even granting that consciousness selects among post-decoherence outcomes, a scale problem remains—the [amplification void](/voids/amplification-void/). Quantum-level events involve energies of order 10⁻²⁰ joules. Neural firing involves energies a trillion times larger. How does a quantum bias become a movement of the arm?
 
 [Stochastic amplification](/topics/amplification-mechanisms-consciousness-physics/) provides the causal bridge through three convergent mechanisms.
 
@@ -108,7 +112,7 @@ Even granting that consciousness selects among post-decoherence outcomes, a scal
 
 *Threshold-crossing dynamics* complete the chain. Multiple potential actions compete within neural populations until one reaches a decision threshold. In drift-diffusion models, a small bias in the accumulation rate—even one originating from a quantum-level influence—changes which option wins the race to threshold. The commitment point occurs roughly 280 milliseconds before movement onset (Thura & Cisek 2014), marking where the amplification chain completes and a quantum-level bias has become a specific action.
 
-No single stage bridges the full twelve orders of magnitude. Each contributes a factor, and together they provide a plausible causal pathway from minimal quantum bias to macroscopic behaviour. The chain is robust precisely because each stage exploits noise rather than fighting it—an architecture consistent with evolutionary optimisation.
+No single stage bridges the full twelve orders of magnitude. Each contributes a factor, and together they provide a plausible causal pathway from minimal quantum bias to macroscopic behaviour. The chain is robust precisely because each stage exploits noise rather than fighting it—an architecture consistent with [evolutionary optimisation](/topics/evolutionary-case-for-quantum-neural-effects/) of quantum neural effects.
 
 The honest limitation: no experiment has demonstrated the full chain operating end-to-end. Each stage is individually well-established in neuroscience. Their composition into a consciousness-amplification pathway is inferred from individual properties, not directly observed. This gap—between the theoretical plausibility of each link and empirical confirmation of the complete chain—is a genuine limitation the programme acknowledges.
 

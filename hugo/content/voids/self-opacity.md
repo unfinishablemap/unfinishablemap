@@ -53,6 +53,7 @@ related_articles:
 - '[[recursion-void]]'
 - '[[emotional-epistemology-void]]'
 - '[[self-reference-paradox]]'
+- '[[boundary-void]]'
 title: Self-Opacity
 topics:
 - '[[philosophy-of-mind]]'

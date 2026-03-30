@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-16 15:17:00+00:00
+ai_modified: 2026-03-30 00:52:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-11 16:13:00+00:00
 apex_sources:
@@ -29,7 +29,7 @@ description: How does consciousness act on matter? Through attention—a bandwid
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-23 07:35:00+00:00
+last_deep_review: 2026-03-30 00:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The argument proceeds through three layers. First, the empirical case: attention
 
 The foundation is a dissociation. [Attention and consciousness come apart](/topics/attention-and-the-consciousness-interface/) in ways that standard theories struggle to accommodate. Koch and Tsuchiya's (2007) framework identifies four combinations: attention with consciousness (normal focused awareness), attention without consciousness (blindsight, masked priming), consciousness without attention (peripheral phenomenal overflow), and neither (dreamless sleep).
 
-Most cognitive dissociations are interesting but theoretically tame—two brain systems can operate independently. This one is different because one side involves the [hard problem](/topics/hard-problem-of-consciousness/). Consciousness without attention means phenomenal experience persisting beyond the reach of cognitive access—Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. The 2025 adversarial COGITATE study (Melloni et al. 2025) found that neither Global Workspace Theory nor Integrated Information Theory was vindicated by pre-registered empirical tests. The leading materialist frameworks cannot accommodate the full pattern.
+Most cognitive dissociations are interesting but theoretically tame—two brain systems can operate independently. This one is different because one side involves the [hard problem](/topics/hard-problem-of-consciousness/). Consciousness without attention means phenomenal experience persisting beyond the reach of cognitive access—Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display though they could report only 3-4. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing. The 2025 adversarial COGITATE study (Melloni et al. 2025) found that neither Global Workspace Theory nor Integrated Information Theory was clearly vindicated by pre-registered empirical tests. The leading materialist frameworks cannot accommodate the full pattern.
 
 The Map's interpretation: consciousness and attention are ontologically distinct. Consciousness is the non-physical subject; attention is the physical mechanism through which that subject engages with neural processes. Frequency analysis supports the separability: conscious content correlates with low gamma oscillations (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz). They can come apart because they are different things that normally work together—like a pianist and a piano.
 
@@ -89,7 +89,7 @@ The clinical and neuroscientific evidence converges on an architecture with thre
 2. **Dopamine** sets the selection threshold—marking options as salient and modulating how easily they become actions
 3. **Consciousness** determines which option crosses threshold—biasing the competition through sustained attentional engagement
 
-A 2024 *Nature* study demonstrated this layering directly: dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine modulates the *decision threshold*, not motor capacity itself. Desmurget (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are neurally separable, with consciousness contributing at the policy level. The [psychophysical laws](/concepts/psychophysical-laws/) article identifies five candidate coupling mechanisms for this contribution—attention-bounded selection, policy-level selection, basis-choice, indexical selection, and valence-driven motivation—of which the three-layer architecture instantiates the first two: attention as observation rate and intention as policy-level selection.
+Cai et al. (2024) demonstrated this layering directly in *Nature*: dopamine-deficient mice retain motor capacity but lose goal-directed initiative—they "can move" but "won't move." Dopamine modulates the *decision threshold*, not motor capacity itself. Desmurget (2009) found that parietal stimulation produces conscious intention to move—even false belief of having moved—without any muscle activity, while premotor stimulation produces movement without awareness. Intention and execution are neurally separable, with consciousness contributing at the policy level. The [psychophysical laws](/concepts/psychophysical-laws/) article identifies five candidate coupling mechanisms for this contribution—attention-bounded selection, policy-level selection, basis-choice, indexical selection, and valence-driven motivation—of which the three-layer architecture instantiates the first two: attention as observation rate and intention as policy-level selection.
 
 ## The Economics of Agency
 
@@ -153,7 +153,7 @@ These components outline empirical commitments that evidence can challenge. If w
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The attention interface is where the Map locates mind-matter interaction. The quantum Zeno mechanism is one proposed way this might work—consciousness holding neural patterns stable through rapid observation—though it faces [decoherence objections](/concepts/decoherence/) that remain unresolved. Whatever the specific mechanism, the ~10 bits/second bandwidth constraint limits conscious intervention to the smallest influence consistent with genuine causal efficacy. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The entire attention cluster elaborates this tenet. The return cycle shows bidirectional interaction in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's neuroplasticity evidence shows directed attention producing lasting brain changes. Desmurget's neurostimulation evidence shows intention and execution are separable, with consciousness contributing at the policy level.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The entire attention cluster elaborates this tenet. The return cycle shows bidirectional interaction in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's neuroplasticity work suggests directed attention may produce lasting brain changes—though limited by small samples (n=18) and awaiting independent replication of structural claims. Desmurget's neurostimulation evidence shows intention and execution are separable, with consciousness contributing at the policy level.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The selection model requires that quantum indeterminacies resolve to definite outcomes. If all branches persist equally, there is nothing for consciousness to select. The phenomenology of effort—the feeling that sustaining a choice *costs* something—has no causal explanation if all options are equally actualised.
 
