@@ -4,7 +4,7 @@ description: "Clinical evidence from anesthesia, coma, and disorders of consciou
 created: 2026-01-15
 modified: 2026-03-30
 human_modified:
-ai_modified: 2026-03-30T12:30:00+00:00
+ai_modified: 2026-03-30T12:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated:
-last_deep_review:
+last_deep_review: 2026-03-30T12:44:00+00:00
 coalesced_from:
   - "/topics/disorders-of-consciousness-as-test-cases/"
   - "/topics/loss-of-consciousness/"
@@ -94,7 +94,7 @@ These patients are not unconscious. They are *disconnected*—aware but unable t
 
 This finding independently undermines the materialist argument. The argument's logic runs: brain disruption abolishes consciousness, therefore the brain produces consciousness. But CMD demonstrates that apparent abolition of consciousness is frequently misdiagnosed—the consciousness was there all along, invisible to behavioural assessment. If 25% of "unconscious" patients retain awareness, the evidential base for the production argument is systematically contaminated.
 
-CMD also reveals something about the architecture of the brain-consciousness relationship. Consciousness continues to *do* things at the experiential level—patients understand language, follow instructions, form memories, sustain attention—even when it cannot act on the body. This dissociation between conscious function and behavioural expression is difficult to reconcile with simple production: if consciousness were an output of neural processing, severing the output pathways should not leave the supposed product intact and fully operational.
+CMD also reveals something about the architecture of the brain-consciousness relationship. Consciousness continues to *do* things at the experiential level—patients understand language, follow instructions, form memories, sustain attention—even when it cannot act on the body. A materialist might respond that the cortical circuits producing consciousness are intact while only motor output pathways are damaged—production continues, expression does not. But this response narrows the production claim considerably: consciousness is no longer produced by "the brain" in any general sense but by specific cortical networks whose identity must be specified independently of the consciousness they supposedly produce. The more precisely the production claim is restricted, the harder it becomes to distinguish from an interface account where particular neural structures mediate rather than generate awareness.
 
 ## Anesthesia: Different Drugs, Different Realities
 
@@ -120,7 +120,7 @@ Hemispherectomy provides the most dramatic evidence. Patients who have had an en
 
 Each theory of consciousness makes predictions about when consciousness should be present and when absent. DoC cases provide direct empirical pressure on these predictions.
 
-**Functionalism** identifies consciousness with functional organisation. CMD patients lack behavioural output yet retain phenomenal awareness detectable through neuroimaging. A functionalist might respond that CMD patients *do* have functional organisation—they process language and sustain attention—so the relevant functional architecture persists even without motor output. This response concedes a significant point: it acknowledges that consciousness can be fully present while behaviourally invisible, requiring definitions of "relevant function" increasingly difficult to distinguish from simply pointing at neural correlates.
+**Functionalism** identifies consciousness with functional organisation. CMD patients lack behavioural output yet retain phenomenal awareness detectable through neuroimaging. A functionalist can respond that CMD patients *do* have functional organisation—they process language and sustain attention—so the relevant functional architecture persists even without motor output. This response is internally consistent but creates diagnostic pressure: if the "relevant" functional organisation can be present without any behavioural indicators, the theory requires independent criteria for identifying which functions constitute consciousness, criteria increasingly difficult to distinguish from simply pointing at neural correlates.
 
 **Global Neuronal Workspace Theory** holds that consciousness arises when information is broadcast widely across cortical regions via long-range connections, particularly involving prefrontal cortex. Patients with severe prefrontal damage sometimes retain awareness—challenging the broadcasting architecture GNWT considers essential. The COGITATE adversarial collaboration (Melloni et al., 2025) found limited representation of conscious content in prefrontal cortex and no clear "ignition" at stimulus onset, adding empirical weight to this challenge.
 
@@ -152,7 +152,7 @@ Recovery from anesthesia is not simply the reverse of induction. As drugs clear 
 
 ## Contemplative Evidence
 
-Experienced meditators report maintaining [[witness-consciousness|witness awareness]] through sleep onset ("yoga nidra")—the witnessing awareness persists while contents fade. The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic phenomenology]] of this transition reveals a graded loosening of interface constraint—not a binary switch but a progressive relaxation where bizarre imagery and loose associations emerge before consciousness narrows into NREM.
+Experienced meditators report maintaining [[witness-consciousness|witness awareness]] through sleep onset ("yoga nidra")—the witnessing awareness persists while contents fade. These reports rely on first-person testimony and are difficult to verify independently, though EEG studies of advanced practitioners show distinctive neural signatures during claimed witness-sleep states. The [[hypnagogic-phenomenology-and-interface-modulation|hypnagogic phenomenology]] of this transition reveals a graded loosening of interface constraint—not a binary switch but a progressive relaxation where bizarre imagery and loose associations emerge before consciousness narrows into NREM.
 
 Advanced practitioners report cessation states (*nirodha-samapatti*) phenomenologically distinct from anesthesia—profound peace rather than nothing, with controlled entry and exit. Voluntary cessation differs qualitatively from pharmacological cessation: meditation progressively closes the interface by choice; anesthesia chemically disrupts it.
 
@@ -187,36 +187,23 @@ The Map's [[tenets]] converge on consciousness disruption as a domain where the 
 ## Further Reading
 
 - [[identity-across-transformations]] — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
-- [[anaesthesia-and-the-consciousness-interface]] — How different anaesthetic agents map the structured, multi-layered consciousness interface
-- [[altered-states-of-consciousness]] — Consciousness disruption as part of the broader ASC spectrum
-- [[neural-correlates-of-consciousness]] — Why correlations do not settle the production versus interface debate
-- [[filter-theory]] — The transmission model of brain-consciousness relation
-- [[near-death-experiences]] — Heightened consciousness during minimal brain function
-- [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural damage
-- [[integrated-information-theory]] — The Φ framework and its predictions for DoC
-- [[quantum-measurement-and-consciousness]] — Where consciousness meets quantum indeterminacy
-- [[hard-problem-of-consciousness]] — The explanatory gap that DoC cases illuminate
-- [[pain-consciousness-and-causal-power]] — Pain asymbolia and pain's inseparable phenomenal-causal character
-- [[split-brain-consciousness]] — Another classic dissociation case
-- [[clinical-phenomenology-as-philosophical-evidence]] — How clinical cases generate philosophical evidence
-- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity
-- [[neurological-dissociations-as-interface-architecture]] — Blindsight, anosognosia, and alien hand syndrome mapping the interface
-- [[death-and-consciousness]] — Consciousness at and beyond death
-- [[sleep-and-consciousness]] — The evolved mechanism of consciousness reduction
-- [[episodic-memory]] — Autobiographical memory and its vulnerability to consciousness disruption
-- [[implicit-memory]] — Procedural memory that persists through altered states
-- [[anoetic-noetic-autonoetic-consciousness]] — The form of consciousness required for episodic encoding
-- [[binding-problem]] — How binding operates differently during sleep versus waking
-- [[illusionism]] — The strongest physicalist challenge and why it fails here
-- [[witness-consciousness]] — Contemplative evidence for awareness persisting through reduced neural activity
-- [[decoherence]] — Quantum challenges to the interface hypothesis
-- [[hypnagogic-phenomenology-and-interface-modulation]] — The graded interface transition at sleep onset
-- [[haecceity]] — The indexical identity problem posed by temporal gaps in experience
 - [[altered-states-as-interface-evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix
-- [[dream-consciousness]] — Dream states as contrast case for consciousness persistence
-- [[clinical-dissociation-as-systematic-evidence]] — Dissociative disorders as evidence for dualist interface architecture
+- [[anaesthesia-and-the-consciousness-interface]] — How different anaesthetic agents map the structured, multi-layered consciousness interface
+- [[filter-theory]] — The transmission model of brain-consciousness relation
+- [[neural-correlates-of-consciousness]] — Why correlations do not settle the production versus interface debate
+- [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural damage
+- [[near-death-experiences]] — Heightened consciousness during minimal brain function
+- [[clinical-phenomenology-as-philosophical-evidence]] — How clinical cases generate philosophical evidence
+- [[neurological-dissociations-as-interface-architecture]] — Blindsight, anosognosia, and alien hand syndrome mapping the interface
+- [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity
+- [[sleep-and-consciousness]] — The evolved mechanism of consciousness reduction
+- [[hypnagogic-phenomenology-and-interface-modulation]] — The graded interface transition at sleep onset
+- [[integrated-information-theory]] — The Φ framework and its predictions for DoC
+- [[illusionism]] — The strongest physicalist challenge and why it fails here
+- [[hard-problem-of-consciousness]] — The explanatory gap that DoC cases illuminate
 - [[psychedelics-and-the-filter-model]] — Decreased brain activity producing expanded consciousness
 - [[interactionist-dualism]] — The philosophical framework grounding the interface model
+- [[death-and-consciousness]] — Consciousness at and beyond death
 
 ## References
 
