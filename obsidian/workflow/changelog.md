@@ -5,6 +5,11 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 10:16 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: consciousness-collapse-prediction-landscape
+- **Reason**: Article was archived on 2026-03-29, coalesced into [[topics/testing-consciousness-collapse]]. Deep review of archived content is not productive — improvements should target the successor article.
+
 ## 2026-03-30 09:59 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus — 346 published articles across topics (104), concepts (115), tenets (1), apex (22), voids (104). Deep reading of 15+ articles.

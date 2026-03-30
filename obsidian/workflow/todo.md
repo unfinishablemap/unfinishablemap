@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-collapse-prediction-landscape.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (differential-predictions-consciousness-collapse, testing-consciousness-collapse, consciousness-collapse-experimental-landscape) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-30
-
 ### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1777,6 +1770,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate consciousness-collapse-prediction-landscape.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (differential-predictions-consciousness-collapse, testing-consciousness-collapse, consciousness-collapse-experimental-landscape) or update section index pages to include navigation to this content.
+- **Output**: consciousness-collapse-prediction-landscape.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-30: Integrate phenomenological method research into methodology articles
 - **Type**: refine-draft
