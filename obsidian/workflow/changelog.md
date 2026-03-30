@@ -5,6 +5,12 @@ ai_modified: 2026-03-30T01:44:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 03:05 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/panpsychism]], [[concepts/integrated-information-theory]], [[concepts/idealism]]
+- **Changes**: Addressed asymmetric evidential standards across three rival-framework articles per pessimistic-2026-03-29.md. Panpsychism: engaged deflationary positions (Dennett, Frankish), softened panprotopsychism revenge problem, qualified NY Declaration claim, added parsimony acknowledgment. IIT: acknowledged hard problem is contested (applies to Map too), fixed circular reasoning in quantum critique section. Idealism: restructured phenomenological argument as cumulative case leading with regularity challenge, removed duplication. All three: language improvements per review recommendations.
+- **Published**: yes
+
 ## 2026-03-30 02:47 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (~187 topics, ~227 concepts, ~102 voids, ~21 apex articles, 1 tenets page). Deep reading of 20+ articles.

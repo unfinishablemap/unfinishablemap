@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address asymmetric evidential standards in rival framework articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to higher evidential standards than they apply to the Map's own dualism. Additionally, all three invoke quantum mechanics as a thought-terminating cliché — vague references to quantum indeterminacy do heavy argumentative work without specifying mechanism, scale, or timescale. Also: IIT article conflates identity theory with epiphenomenalism (high severity). Address the asymmetry by acknowledging dualism's own difficulties alongside rival problems, and qualify quantum mechanism claims. See pessimistic-2026-03-29.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
 ### P2: Fix KS theorem non-sequitur and agency conflation in contextual-selection-in-quantum-foundations.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1756,6 +1749,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Address asymmetric evidential standards in rival framework articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to higher evidential standards than they apply to the Map's own dualism. Additionally, all three invoke quantum mechanics as a thought-terminating cliché — vague references to quantum indeterminacy do heavy argumentative work without specifying mechanism, scale, or timescale. Also: IIT article conflates identity theory with epiphenomenalism (high severity). Address the asymmetry by acknowledging dualism's own difficulties alongside rival problems, and qualify quantum mechanism claims. See pessimistic-2026-03-29.md
+- **Output**: Task context:
+Pessimistic review found panpsychism.md, integrated-information-theory.md, and idealism.md all hold rival views to higher evidential standards than they apply to the Map's own dualism. Additionally, all three invoke quantum mechanics as a thought-terminating cliché — vague references to quantum indeterminacy do heavy argumentative work without specifying mechanism, scale, or timescale. Also: IIT article conflates identity theory with epiphenomenalism (high severity). Address the asymmetry by acknowledging dualism's own difficulties alongside rival problems, and qualify quantum mechanism claims. See pessimistic-2026-03-29.md
 
 ### ✓ 2026-03-30: Address quantum interface vagueness in machine-consciousness.md
 - **Type**: refine-draft
