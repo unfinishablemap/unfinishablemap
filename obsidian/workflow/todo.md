@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Qualify Dennett heterophenomenology response and evidence-absence conflation
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) phenomenal-authority-epistemic-weight-first-person-reports.md overstates the self-undermining argument against Dennett — he uses public third-person reasoning, not introspective reports, to evaluate theories. The article conflates the mundane epistemic situation of any theorist with special reliance on phenomenal authority. (2) consciousness-collapse-prediction-landscape.md moves from "difficult to test" to "not evidence against" — Q-shape predictions may be untestable in principle (Φ intractability), which is a different category than merely untested. Also: MWI treatment is perfunctory given that Everettian QM requires no modifications. See pessimistic-2026-03-29-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1728,6 +1721,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Qualify Dennett heterophenomenology response and evidence-absence conflation
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) phenomenal-authority-epistemic-weight-first-person-reports.md overstates the self-undermining argument against Dennett — he uses public third-person reasoning, not introspective reports, to evaluate theories. The article conflates the mundane epistemic situation of any theorist with special reliance on phenomenal authority. (2) consciousness-collapse-prediction-landscape.md moves from "difficult to test" to "not evidence against" — Q-shape predictions may be untestable in principle (Φ intractability), which is a different category than merely untested. Also: MWI treatment is perfunctory given that Everettian QM requires no modifications. See pessimistic-2026-03-29-evening.md
+- **Output**: Task context:
+Pessimistic review found: (1) phenomenal-authority-epistemic-weight-first-person-reports.md overstates the self-undermining argument against Dennett — he uses public third-person reasoning, not introspective reports, to evaluate theories. The article conflates the mundane epistemic situation of any theorist with special reliance on phenomenal authority. (2) consciousness-collapse-prediction-landscape.md moves from "difficult to test" to "not evidence against" — Q-shape predictions may be untestable in principle (Φ intractability), which is a different category than merely untested. Also: MWI treatment is perfunctory given that Everettian QM requires no modifications. See pessimistic-2026-03-29-evening.md
 
 ### ✓ 2026-03-30: Fix improper-mixture gap claim and post-selection grounding in quantum mechanism articles
 - **Type**: refine-draft

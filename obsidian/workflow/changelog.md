@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 04:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/phenomenal-authority-and-introspective-evidence]], [[topics/testing-consciousness-collapse]]
+- **Changes**: Addressed pessimistic review findings. (1) phenomenal-authority: rewrote self-undermining argument against Dennett to distinguish trivial epistemic dependence on consciousness from substantive reliance on phenomenal authority; Dennett's use of public third-person reasoning now acknowledged; self-stultification charge narrowed to the specific point where it applies (evaluating whether a theory captures what experience is like). (2) testing-consciousness-collapse: acknowledged Everettian QM's parsimony advantage (no new physics); flagged Q-shape predictions as potentially untestable in principle (not just untested) due to Φ intractability; replaced "not evidence against" with honest acknowledgment that practical untestability is an epistemic cost; strengthened MWI engagement throughout including Frauchiger-Renner and tenet sections.
+- **Published**: yes
+
+---
+
 ## 2026-03-30 04:18 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/quantum-darwinism-and-consciousness]], [[concepts/weak-measurement-and-post-selection]]
