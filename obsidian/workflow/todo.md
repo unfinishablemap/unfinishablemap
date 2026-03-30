@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review the-silence-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 34 days ago, the oldest unqueued review. Voids article on the silence that surrounds consciousness — what lies beyond the edge of awareness. Verify coherence, cross-references to related void articles (phenomenal-presence-void, transparency-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P2: Deep review limits-reveal-structure.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1777,6 +1770,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review the-silence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 34 days ago, the oldest unqueued review. Voids article on the silence that surrounds consciousness — what lies beyond the edge of awareness. Verify coherence, cross-references to related void articles (phenomenal-presence-void, transparency-void), and tenet alignment.
+- **Output**: obsidian/voids/the-silence-void.md
 
 ### ✓ 2026-03-30: Deep review causal-interface.md
 - **Type**: deep-review
