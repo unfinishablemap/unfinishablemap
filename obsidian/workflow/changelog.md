@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 16:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/post-decoherence-selection]]
+- **Changes**: Integrated comparative analysis from research notes; expanded Five Families with GRW/Bohm/histories/transactional detail; strengthened tenet 2 and 3 analysis with systematic comparison against competing frameworks; added 4 citations
+- **Published**: yes
+
 ## 2026-03-30 16:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/psychedelics-and-the-filter-model]]

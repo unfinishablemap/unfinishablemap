@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate post-decoherence selection research into post-decoherence-selection.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md covers GRW spontaneous collapse, Bohmian mechanics, consistent histories, transactional interpretation, and quantum Darwinism approaches to the post-decoherence selection problem. Integrate comparative analysis into the concept page to strengthen the Map's positioning of consciousness-based selection against competing frameworks. Tenet 2 and 3 alignment critical.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1812,6 +1805,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate post-decoherence selection research into post-decoherence-selection.md
+- **Type**: refine-draft
+- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md covers GRW spontaneous collapse, Bohmian mechanics, consistent histories, transactional interpretation, and quantum Darwinism approaches to the post-decoherence selection problem. Integrate comparative analysis into the concept page to strengthen the Map's positioning of consciousness-based selection against competing frameworks. Tenet 2 and 3 alignment critical.
+- **Output**: obsidian/concepts/post-decoherence-selection.md
+
+Task context:
+Research in research/post-decoherence-selection-mechanisms-2026-03-29.md covers GRW spontaneous collapse, Bohmian mechanics, consistent histories, transactional interpretation, and quantum Darwinism approaches to the post-decoherence selection problem. Integrate comparative analysis into the concept page to strengthen the Map's positioning of consciousness-based selection against competing frameworks. Tenet 2 and 3 alignment critical.
 
 ### ✓ 2026-03-30: Integrate phenomenal concepts strategy research into phenomenal-concepts-strategy.md
 - **Type**: refine-draft
