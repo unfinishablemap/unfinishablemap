@@ -30,6 +30,7 @@ related_articles:
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -193,6 +194,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[phenomenology-of-epistemic-cognition]] — The experience of evaluating evidence phenomenologically
 - [[methodology-of-consciousness-research]] — The broader methodological divide in consciousness science
 - [[moral-phenomenology-and-perception]] — Moral experience as a domain where phenomenological evidence is irreplaceable
+- [[phenomenal-authority-and-introspective-evidence]] — The spectrum of phenomenal authority, three layers of epistemic weight, and Rorty's dilemma
 - [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness
 
 ## References

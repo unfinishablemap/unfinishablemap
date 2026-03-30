@@ -26,6 +26,7 @@ related_articles:
   - "[[epistemology-of-first-person-evidence]]"
   - "[[phenomenal-transparency]]"
   - "[[acquaintance-void]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

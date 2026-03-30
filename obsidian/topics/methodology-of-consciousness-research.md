@@ -43,6 +43,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
   - "[[phenomenal-conservatism-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
   - "[[the-subject-object-distinction-as-philosophical-discovery]]"
 ai_contribution: 100
 author:

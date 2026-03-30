@@ -45,7 +45,7 @@ related_articles:
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[phenomenology-of-epistemic-cognition]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
-  - "[[phenomenal-authority-epistemic-weight-first-person-reports]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -155,7 +155,7 @@ These strategies produce a gradient rather than strict calibration. The gradient
 | Causal processes behind experience | Beyond authority | Beyond taxonomy | None effective; process opacity is structural | Very low |
 | Metaphysical interpretation of findings | Beyond authority | Beyond taxonomy | Convergence fails (traditions diverge here) | Variable |
 
-The gradient matters for the Map's project. The dualism tenet draws its force from the first and second layers — the existence and character of phenomenal states, where authority is strongest. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Rorty's insight that incorrigibility forces a choice between dualism and eliminativism (Rorty 1970) applies at the first layer: if authority over phenomenal existence is genuine, mental states are ontologically distinctive; if it is denied, the category of the mental itself becomes dispensable. The middle ground that most physicalists occupy — real [[phenomenal-authority-epistemic-weight-first-person-reports|phenomenal authority]] without dualist commitments — is unstable under this pressure.
+The gradient matters for the Map's project. The dualism tenet draws its force from the first and second layers — the existence and character of phenomenal states, where authority is strongest. Arguments grounded in attended phenomenal content rest on the strongest epistemic foundation. Rorty's insight that incorrigibility forces a choice between dualism and eliminativism (Rorty 1970) applies at the first layer: if authority over phenomenal existence is genuine, mental states are ontologically distinctive; if it is denied, the category of the mental itself becomes dispensable. The middle ground that most physicalists occupy — real [[phenomenal-authority-and-introspective-evidence|phenomenal authority]] without dualist commitments — is unstable under this pressure.
 
 ## The Self-Stultification of Eliminativism
 
@@ -192,7 +192,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [[epistemology-of-convergence-arguments]] — Formal conditions for when convergence carries evidential weight
 - [[epistemology-of-other-minds-under-dualism]] — How first-person evidence grounds inference to other minds
 - [[phenomenology-of-epistemic-cognition]] — What evaluating evidence feels like from the inside
-- [[phenomenal-authority-epistemic-weight-first-person-reports|phenomenal authority]] — The spectrum of authority positions, Rorty's dilemma, and the dualism connection
+- [[phenomenal-authority-and-introspective-evidence|phenomenal authority]] — The spectrum of authority positions, Rorty's dilemma, and the dualism connection
 
 ## References
 

@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 11:00 UTC - deep-review
+- **Status**: Redirected (archived → integration)
+- **File**: [[archive/topics/phenomenal-authority-epistemic-weight-first-person-reports]] (archived, superseded by [[topics/phenomenal-authority-and-introspective-evidence]])
+- **Stale links fixed**: 3 (in epistemology-of-first-person-evidence)
+- **Cross-references added**: 6 (introspection, phenomenological-evidence, self-stultification, phenomenal-acquaintance, knowledge-argument, methodology-of-consciousness-research)
+- **Successor inbound links**: 1 → 7
+- **Output**: [[reviews/deep-review-2026-03-30-phenomenal-authority-epistemic-weight-first-person-reports]]
+
 ## 2026-03-30 10:44 UTC - deep-review
 - **Status**: Success (timestamps only — article stable)
 - **File**: [[topics/comparative-phenomenology-of-meditative-traditions]]
