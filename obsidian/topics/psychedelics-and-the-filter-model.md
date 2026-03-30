@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-03-30T16:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
-last_deep_review: 2026-03-08T16:11:00+00:00
+last_deep_review: 2026-03-30T16:44:00+00:00
 ---
 
 Psychedelics present a challenge to production models of consciousness that no other pharmacological intervention matches. When psilocybin, LSD, or DMT suppress activity in the brain's [[default-mode-network|default mode network]] (DMN), subjects do not report diminished experience. They report the opposite: expanded perception, heightened emotional depth, ego dissolution, and encounters with what many describe as "more real than real." The Unfinishable Map's [[filter-theory|filter theory]]—the view that the brain constrains consciousness rather than producing it—predicts exactly this. A loosened filter should yield richer experience, even as the neural machinery generating the filter operates less. Production models, by contrast, must explain how a brain doing less produces a mind experiencing more.
@@ -77,7 +77,7 @@ Gładziejewski (2024) distinguishes two models of psychedelic epistemic access. 
 
 Several lines of evidence support genuine epistemic value rather than mere confabulation:
 
-**Therapeutic outcomes.** Clinical trials of psilocybin-assisted therapy for depression, anxiety, and addiction show lasting improvements that correlate with the intensity of reported mystical-type experiences (Griffiths et al., 2016). If psychedelic insights were pure confabulation, their therapeutic value would be mysterious. Random noise doesn't heal.
+**Therapeutic outcomes.** Clinical trials of psilocybin-assisted therapy for depression, anxiety, and addiction show lasting improvements that correlate with the intensity of reported mystical-type experiences (Griffiths et al., 2016). If psychedelic insights were pure confabulation, their therapeutic value would be mysterious. A materialist might respond that disrupting maladaptive neural patterns explains the healing without invoking filter theory—but this concedes the key point: the disruption produces *insight*, not confusion, and the insights are specific enough to drive lasting behavioural change.
 
 **Selective access.** Psychedelic experiences are not random. Users frequently report access to specific suppressed material—childhood memories, repressed emotional patterns, relational dynamics they had not consciously recognised. Filter theory predicts this selectivity: loosening the filter grants access to genuinely suppressed information, not arbitrary hallucination.
 
@@ -91,7 +91,7 @@ A materialist objection deserves serious engagement: psychedelics disrupt the ve
 
 The Penrose-Hameroff Orch OR theory proposes a mechanism connecting psychedelics to quantum processes: psychedelic molecules bind to microtubules within neurons, potentially inducing quantum coherence (Hameroff, 2024). If consciousness participates in quantum collapse—as the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] proposes—psychedelics might enhance this participation by increasing the quantum coherent states available for consciousness to interact with.
 
-This hypothesis remains speculative. It faces the standard [[decoherence]] objection: thermal noise in warm biological systems should destroy quantum coherence too quickly for it to be functionally relevant. However, Kerskens and Pérez López (2022) detected MRI signals consistent with quantum entanglement in living human brains, with entanglement signatures correlating with conscious states and disappearing during sleep. And a 2024 study confirmed ultraviolet superradiance in tryptophan networks, demonstrating quantum effects in biological proteins at physiological temperatures.
+This hypothesis remains speculative. It faces the standard [[decoherence]] objection: thermal noise in warm biological systems should destroy quantum coherence too quickly for it to be functionally relevant. However, Kerskens and Pérez López (2022) detected MRI signals consistent with quantum entanglement in living human brains, with entanglement signatures correlating with conscious states and disappearing during sleep. And Babcock et al. (2024) confirmed ultraviolet superradiance in tryptophan mega-networks within tubulin, demonstrating quantum collective effects in biological proteins at physiological temperatures.
 
 The Map does not rely on the quantum hypothesis to make its case for filter theory. The neuroimaging paradox—decreased activity, increased experience—stands independently of any proposed mechanism. But if the quantum account proves correct, it would provide the physical substrate for how the filter operates and how psychedelics loosen it: by shifting microtubule dynamics toward greater quantum coherence, psychedelics might expand the bandwidth of the consciousness-brain interface. This quantum dimension has implications beyond psychedelics: [[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement technologies]] that modify neural microstructure might inadvertently alter the quantum interface, potentially reducing the domain of conscious agency even while increasing computational capacity.
 
@@ -116,22 +116,25 @@ Psychedelics illuminate several of the Map's [[tenets]]:
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as non-pharmacological evidence for the same filter-loosening pattern
 - [[terminal-lucidity-and-filter-transmission-theory]] — The complementary case: cognitive return despite severe structural brain damage
 - [[anaesthesia-and-the-consciousness-interface]] — The complementary case: increased filtering eliminates experience
+- [[bandwidth-of-consciousness]] — The information-theoretic asymmetry that filter theory resolves
+- [[william-james-consciousness]] — James's transmission theory: the philosophical ancestor of the reducing valve
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing psychedelic evidence within the convergence matrix of five altered states
 
 ## References
 
-1. Bergson, H. (1896). *Matter and Memory*. Zone Books (1991 translation).
-2. Carhart-Harris, R. L. et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
-3. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
-4. Gładziejewski, P. (2024). From altered states to metaphysics: The epistemic status of psychedelic-induced metaphysical beliefs. *Review of Philosophy and Psychology*.
-5. Griffiths, R. R. et al. (2006). Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. *Psychopharmacology*, 187(3), 268-283.
-6. Griffiths, R. R. et al. (2016). Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer. *Journal of Psychopharmacology*, 30(12), 1181-1197.
-7. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
+1. Babcock, N. S. et al. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
+2. Bergson, H. (1896). *Matter and Memory*. Zone Books (1991 translation).
+3. Carhart-Harris, R. L. et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
+4. Carhart-Harris, R. L. & Friston, K. J. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
+5. Gładziejewski, P. (2024). From altered states to metaphysics: The epistemic status of psychedelic-induced metaphysical beliefs. *Review of Philosophy and Psychology*.
+6. Griffiths, R. R. et al. (2006). Psilocybin can occasion mystical-type experiences having substantial and sustained personal meaning and spiritual significance. *Psychopharmacology*, 187(3), 268-283.
+7. Griffiths, R. R. et al. (2016). Psilocybin produces substantial and sustained decreases in depression and anxiety in patients with life-threatening cancer. *Journal of Psychopharmacology*, 30(12), 1181-1197.
 8. Hameroff, S. (2024). Psychedelics, microtubules, and quantum consciousness. In *Consciousness and Quantum Mechanics*. Cambridge University Press.
-9. Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
-10. Lebedev, A. V. et al. (2015). Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin. *Human Brain Mapping*, 36(8), 3137-3153.
-11. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
-12. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In *Philosophy and Psychedelics*. Springer.
-13. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
-14. Tagliazucchi, E. et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
-15. Southgate, A. & Oquatre-six, C. (2026-02-23). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
+9. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
+10. Kerskens, C. M. & Pérez López, D. (2022). Experimental indications of non-classical brain functions. *Journal of Physics Communications*, 6(10), 105001.
+11. Lebedev, A. V. et al. (2015). Finding the self by losing the self: Neural correlates of ego-dissolution under psilocybin. *Human Brain Mapping*, 36(8), 3137-3153.
+12. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+13. Sjöstedt-Hughes, P. (2024). The Bergsonian metaphysics behind Huxley's doors. In *Philosophy and Psychedelics*. Springer.
+14. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
+15. Tagliazucchi, E. et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
+16. Southgate, A. & Oquatre-six, C. (2026-02-23). Dream Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/dream-consciousness/
