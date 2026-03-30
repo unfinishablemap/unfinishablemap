@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circularity in growing-block-universe-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found mutual dependence: consciousness needs the growing block, and the growing block needs consciousness. Neither is independently motivated. Acknowledge circularity explicitly and argue for mutual support as reflective equilibrium, or provide independent motivation for at least one claim. Also survey alternative solutions to the epistemic objection beyond the Map's consciousness-involving version. See pessimistic-2026-03-30-midday.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
-### P2: Integrate clinical evidence quality findings into clinical-neuroplasticity-evidence-for-bidirectional-causation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md contains updated evidence quality analysis for Schwartz OCD, meditation, and neuroplasticity claims. Integrate relevant findings—strengthen citations, qualify overstated claims, update evidence status where research identifies issues. Directly supports Tenet 3 (Bidirectional Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate illusionism functional-seeming research into illusionism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1777,6 +1763,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Address circularity in growing-block-universe-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found mutual dependence: consciousness needs the growing block, and the growing block needs consciousness. Neither is independently motivated. Acknowledge circularity explicitly and argue for mutual support as reflective equilibrium, or provide independent motivation for at least one claim. Also survey alternative solutions to the epistemic objection beyond the Map's consciousness-involving version. See pessimistic-2026-03-30-midday.md
+- **Output**: obsidian/topics/growing-block-universe-and-consciousness.md
+
+Task context:
+Pessimistic review found mutual dependence: consciousness needs the growing block, and the growing block needs consciousness. Neither is independently motivated. Acknowledge circularity explicitly and argue for mutual support as reflective equilibrium, or provide independent motivation for at least one claim. Also survey alternative solutions to the epistemic objection beyond the Map's consciousness-involving version. See pessimistic-2026-03-30-midday.md
+
+### ✓ 2026-03-30: Address circularity in growing-block-universe-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Added survey of alternative epistemic objection responses (Forrest, Bourne, Merricks). Added new "Question of Mutual Support" section framing mutual dependence as reflective equilibrium with independent motivation for each claim.
+- **Output**: obsidian/topics/growing-block-universe-and-consciousness.md
 
 ### ✓ 2026-03-30: Address homunculus problem in dopamine-and-the-unified-interface.md
 - **Type**: refine-draft
