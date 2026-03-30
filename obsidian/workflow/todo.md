@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review attention-as-causal-bridge.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-23 — 35 days ago. Central synthesis piece for Tenet 3 (Bidirectional Interaction), grounding the three-layer attentional architecture. Verify coherence of the causal-bridge model, accuracy of neuroscience claims, cross-references to attention-and-the-consciousness-interface and consciousness-and-agency apex, and tenet alignment. Apex articles carry outsized site-wide influence.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-30
-
 ### P2: Integrate post-decoherence-selection-programme.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1735,6 +1728,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review attention-as-causal-bridge.md
+- **Type**: deep-review
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-23 — 35 days ago. Central synthesis piece for Tenet 3 (Bidirectional Interaction), grounding the three-layer attentional architecture. Verify coherence of the causal-bridge model, accuracy of neuroscience claims, cross-references to attention-and-the-consciousness-interface and consciousness-and-agency apex, and tenet alignment. Apex articles carry outsized site-wide influence.
+- **Output**: obsidian/apex/attention-as-causal-bridge.md
 
 ### ✓ 2026-03-30: Refine bandwidth articles with 10 bits/second research findings
 - **Type**: refine-draft
