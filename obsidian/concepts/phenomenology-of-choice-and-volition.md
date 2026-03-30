@@ -43,7 +43,7 @@ related_articles:
   - "[[phenomenology-volitional-control-2026-03-20]]"
   - "[[control-theoretic-will]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
-  - "[[phenomenology-of-intellectual-effort]]"
+  - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

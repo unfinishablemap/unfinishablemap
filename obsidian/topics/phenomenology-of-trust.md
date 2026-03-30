@@ -9,7 +9,7 @@ last_deep_review: 2026-03-25T14:13:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-social-understanding]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[consciousness-and-testimony]]"
   - "[[consciousness-and-intersubjectivity]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
   - "[[consciousness-and-collective-phenomena]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[emotion-and-dualism]]"
   - "[[machine-consciousness]]"
   - "[[phenomenology-of-moral-life]]"
@@ -47,7 +47,7 @@ Consider the difference between relying on a bridge and trusting a friend. Both 
 
 This felt character has several distinguishable components. There is the experience of vulnerability — a conscious exposure of oneself to possible harm. There is the sense of the other as an agent with their own interiority, capable of choosing to honour or violate your trust. There is a distinctive form of attention: when you trust someone, you attend to them differently than when you merely monitor them. Monitoring treats the other as an object whose outputs matter; trusting treats them as a subject whose intentions matter.
 
-There is also trust's relationship to time. Trust is not a snapshot assessment but an ongoing felt orientation. You experience trusting someone as a kind of sustained openness, a willingness to remain vulnerable that must be continuously maintained. Betrayal does not simply update your probability estimate — it ruptures something felt, a tearing of the interpersonal fabric that the [[phenomenology-of-epistemic-cognition|phenomenology of belief revision]] helps illuminate. The devastation of betrayed trust exceeds what any rational model of revised expectations would predict.
+There is also trust's relationship to time. Trust is not a snapshot assessment but an ongoing felt orientation. You experience trusting someone as a kind of sustained openness, a willingness to remain vulnerable that must be continuously maintained. Betrayal does not simply update your probability estimate — it ruptures something felt, a tearing of the interpersonal fabric that the [[phenomenology-of-intellectual-life|phenomenology of belief revision]] helps illuminate. The devastation of betrayed trust exceeds what any rational model of revised expectations would predict.
 
 ## Trust and the Problem of Other Minds
 
@@ -116,7 +116,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 - [[consciousness-and-social-understanding]]
 - [[problem-of-other-minds]]
 - [[intersubjectivity]]
-- [[phenomenology-of-epistemic-cognition]]
+- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]]
 - [[intersubjective-void]]
 - [[consciousness-and-collective-phenomena]]
 - [[phenomenology-of-deliberation-under-uncertainty]]

@@ -35,8 +35,7 @@ topics:
   - "[[ai-consciousness]]"
   - "[[topics/free-will]]"
   - "[[consciousness-and-creative-distinctiveness]]"
-  - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
 related_articles:
   - "[[tenets]]"
   - "[[computational-cognitive-limits]]"

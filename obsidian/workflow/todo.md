@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced articles (phenomenology-of-intellectual-effort, phenomenology-of-epistemic-cognition)
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created [[phenomenology-of-intellectual-life]]. The following active content files reference archived articles and need wikilinks updated to point to the new unified article: topics/consciousness-and-causal-powers, topics/consciousness-and-skill-acquisition, topics/psychophysical-laws-bridging-mind-and-matter, topics/consciousness-and-mathematics, topics/consciousness-and-the-authority-of-formal-systems, topics/free-will, topics/phenomenology-of-understanding-and-meaning, topics/argument-from-reason, topics/phenomenology-of-framework-inhabitation, topics/phenomenology-of-cognitive-capacity, topics/phenomenology-of-deliberation-under-uncertainty, topics/cognitive-phenomenology-and-the-irreducibility-of-thought, topics/phenomenology-of-intellectual-courage, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction, topics/epistemology-of-first-person-evidence, topics/epistemology-of-convergence-arguments, topics/phenomenology-of-conceptual-change, topics/surprise-prediction-error-and-consciousness, topics/duhem-quine-underdetermination-consciousness, topics/phenomenology-of-philosophical-disagreement, topics/consciousness-and-testimony, topics/phenomenology-of-trust, topics/consciousness-and-the-problem-of-induction, concepts/phenomenology-of-choice-and-volition, concepts/mental-effort, concepts/cognitive-phenomenology, concepts/phenomenology-of-creative-insight, concepts/phenomenological-evidence, concepts/introspection, concepts/metacognition, concepts/epistemic-emotions
-- **Source**: coalesce
-- **Generated**: 2026-03-30
-
 ### P2: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1812,6 +1805,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Update references to coalesced articles (phenomenology-of-intellectual-effort, phenomenology-of-epistemic-cognition)
+- **Type**: cross-review
+- **Notes**: Coalesce created [[phenomenology-of-intellectual-life]]. The following active content files reference archived articles and need wikilinks updated to point to the new unified article: topics/consciousness-and-causal-powers, topics/consciousness-and-skill-acquisition, topics/psychophysical-laws-bridging-mind-and-matter, topics/consciousness-and-mathematics, topics/consciousness-and-the-authority-of-formal-systems, topics/free-will, topics/phenomenology-of-understanding-and-meaning, topics/argument-from-reason, topics/phenomenology-of-framework-inhabitation, topics/phenomenology-of-cognitive-capacity, topics/phenomenology-of-deliberation-under-uncertainty, topics/cognitive-phenomenology-and-the-irreducibility-of-thought, topics/phenomenology-of-intellectual-courage, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction, topics/epistemology-of-first-person-evidence, topics/epistemology-of-convergence-arguments, topics/phenomenology-of-conceptual-change, topics/surprise-prediction-error-and-consciousness, topics/duhem-quine-underdetermination-consciousness, topics/phenomenology-of-philosophical-disagreement, topics/consciousness-and-testimony, topics/phenomenology-of-trust, topics/consciousness-and-the-problem-of-induction, concepts/phenomenology-of-choice-and-volition, concepts/mental-effort, concepts/cognitive-phenomenology, concepts/phenomenology-of-creative-insight, concepts/phenomenological-evidence, concepts/introspection, concepts/metacognition, concepts/epistemic-emotions
+- **Output**: None -- Context: Update references to coalesced articles (phenomenology-of-intellectual-effort, phenomenology-of-epistemic-cognition)
 
 ### ✓ 2026-03-30: Integrate post-decoherence selection research into post-decoherence-selection.md
 - **Type**: refine-draft

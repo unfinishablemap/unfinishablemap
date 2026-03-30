@@ -28,7 +28,7 @@ related_articles:
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[phenomenology-of-intellectual-effort]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[agent-causation]]"
   - "[[phenomenology-of-choice-and-volition]]"
@@ -36,7 +36,6 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[categorical-surprise]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -145,7 +144,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[cognitive-phenomenology]]
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]]
 - [[incubation-effect-and-unconscious-processing]]
-- [[phenomenology-of-intellectual-effort]]
+- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]]
 - [[phenomenology-of-understanding-and-meaning]]
 - [[consciousness-and-creative-distinctiveness]]
 - [[agent-causation]]
@@ -154,7 +153,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[phenomenology-of-agency-vs-passivity]]
 - [[temporal-structure-of-understanding]] — The temporal phenomenology of the "click" and gradual comprehension
 - [[categorical-surprise]]
-- [[phenomenology-of-epistemic-cognition]]
+- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]]
 - [[consciousness-and-scientific-explanation]]
 - [[consciousness-and-mathematics]] — Mathematical insight as the strongest case of creative phenomenology with external validation
 - [[philosophy-of-science-under-dualism]]

@@ -4,7 +4,7 @@ description: "Reasoning, evaluating evidence, revising beliefs, and arriving at 
 created: 2026-02-01
 modified: 2026-03-30
 human_modified: null
-ai_modified: 2026-03-30T17:19:00+00:00
+ai_modified: 2026-03-30T17:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-30T17:29:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-intellectual-effort/"
   - "/topics/phenomenology-of-epistemic-cognition/"
@@ -126,7 +126,7 @@ These limits should be acknowledged. Schwitzgebel (2011) argues that introspecti
 
 **[[tenets#^dualism|Dualism]]**: The experience of grasping logical relationships—felt necessity, conclusions following from premises—has qualitative character that physical description cannot capture. What brain state constitutes the experience of necessity? Neural firing patterns might produce outputs tracking validity, but they do not experience necessity. The gravitational pull of evidence, the vertigo of belief rupture, the warmth of new coherence—each constitutes phenomenal fact requiring its own brute identity with a neural substrate, an accumulation less parsimonious than the dualist alternative.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gains support from the causal efficacy of intellectual effort. When you work through an argument, the effort matters—it affects what you come to believe. If intellectual effort were causally inert, its correlation with successful reasoning would be inexplicable. The phenomenal tension of not-knowing drives inquiry; its resolution terminates it. Neuroplasticity evidence extends the point: sustained effortful thinking changes brain structure (Aydin et al., 2007).
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gains support from the causal efficacy of intellectual effort. When you work through an argument, the effort matters—it affects what you come to believe. If intellectual effort were causally inert, its correlation with successful reasoning would be inexplicable. The phenomenal tension of not-knowing drives inquiry; its resolution terminates it. Correlational evidence extends the point: mathematicians show greater parietal cortex gray matter density compared to non-mathematicians (Aydin et al., 2007), consistent with effortful thinking shaping neural structure.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** connects through the mechanism question. The quantum Zeno model proposes that mental effort operates by rapid observation of neural states, holding desired patterns stable. The phenomenology fits: intellectual effort involves *maintenance*—keeping premises present, sustaining the thread of argument against natural dissipation.
 

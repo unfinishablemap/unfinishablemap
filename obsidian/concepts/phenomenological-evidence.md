@@ -27,7 +27,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[epistemology-of-first-person-evidence]]"
   - "[[phenomenal-authority-and-introspective-evidence]]"
@@ -191,7 +191,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[heterophenomenology]] — The third-person alternative approach
 - [[intersubjectivity]] — How first-person evidence achieves intersubjective validation
 - [[contemplative-practice-as-philosophical-evidence]] — How meditation findings bear on consciousness debates
-- [[phenomenology-of-epistemic-cognition]] — The experience of evaluating evidence phenomenologically
+- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The experience of evaluating evidence phenomenologically
 - [[methodology-of-consciousness-research]] — The broader methodological divide in consciousness science
 - [[moral-phenomenology-and-perception]] — Moral experience as a domain where phenomenological evidence is irreplaceable
 - [[phenomenal-authority-and-introspective-evidence]] — The spectrum of phenomenal authority, three layers of epistemic weight, and Rorty's dilemma

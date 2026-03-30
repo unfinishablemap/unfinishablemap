@@ -8,7 +8,7 @@ ai_modified: 2026-03-25T01:40:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
 concepts:
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[probability-intuition-void]]"
   - "[[self-opacity|volitional opacity]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[phenomenology-of-intellectual-effort]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[tenets]]"
   - "[[spontaneous-intentional-action]]"
   - "[[choking-phenomenon-mental-causation]]"
@@ -77,7 +77,7 @@ This reaching-beyond involves:
 
 **Pattern recognition without pattern.** The mind searches for analogies, partial matches, structural similarities to past experience. But under genuine uncertainty, the analogies are imperfect and the mind knows they are imperfect. The phenomenology is of *approximate* recognition—"this is somewhat like that, but..."
 
-**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This is not mere bias (though it can be). It is consciousness integrating information in ways that exceed explicit reasoning—what the [[phenomenology-of-epistemic-cognition]] describes as the felt weight of considerations that resist propositional articulation.
+**Confidence without grounds.** Sometimes estimation produces a feeling of confidence that outruns the evidence. Experienced practitioners report this frequently: a gut sense that something is the right call, accompanied by an inability to articulate why. This is not mere bias (though it can be). It is consciousness integrating information in ways that exceed explicit reasoning—what the [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] describes as the felt weight of considerations that resist propositional articulation.
 
 **The effort of holding open.** Estimation requires maintaining multiple possibilities in mind simultaneously without collapsing prematurely to one. This is [[mental-effort|cognitively effortful]] in a specific way: the mind wants to resolve, to settle on an answer. Resisting premature resolution—staying with uncertainty long enough to estimate well—requires sustained [[attention-as-interface|attentional effort]] that feels like deliberate work.
 
@@ -145,7 +145,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 
 - [[consciousness-and-normative-force]] — When competing normative demands create the uncertainty that deliberation must resolve
 - [[phenomenology-of-choice-and-volition]] — The general structure of choosing
-- [[phenomenology-of-epistemic-cognition]] — The felt sense of epistemic weight
+- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt sense of epistemic weight
 - [[authentic-vs-inauthentic-choice]] — Why uncertainty demands authentic engagement
 - [[probability-intuition-void]] — Our architectural limits in reasoning about chance
 - [[epistemic-emotions]] — The affective dimension of uncertainty

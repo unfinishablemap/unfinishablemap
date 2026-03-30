@@ -30,7 +30,7 @@ related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[phenomenology-of-intellectual-effort]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
 author:
@@ -67,7 +67,7 @@ This generalisation matters because it blocks an important materialist strategy:
 
 The [[argument-from-reason]] gains force from cognitive phenomenology. The argument, in its classical form (C.S. Lewis, Plantinga, Reppert), holds that if mental states are entirely determined by physical causes, then reasoning — which requires sensitivity to logical relations — is undermined. Physical causation operates on physical properties; logical validity is not a physical property. So genuine reasoning requires something beyond the physical.
 
-Cognitive phenomenology sharpens this. When you follow a valid inference — when you *see* that the conclusion follows from the premises — there is something it is like to grasp that logical relation. The [[phenomenology-of-intellectual-effort|phenomenology of compelling reasoning]] reveals the distinction: being *compelled* by an argument because you grasp its logic feels categorically different from being *forced* to a conclusion by bias or habit. The phenomenal character of valid inference differs from the phenomenal character of invalid inference accepted through bias. This phenomenal difference tracks a normative distinction (valid versus invalid) that physical description cannot capture.
+Cognitive phenomenology sharpens this. When you follow a valid inference — when you *see* that the conclusion follows from the premises — there is something it is like to grasp that logical relation. The [[phenomenology-of-intellectual-life|phenomenology of compelling reasoning]] reveals the distinction: being *compelled* by an argument because you grasp its logic feels categorically different from being *forced* to a conclusion by bias or habit. The phenomenal character of valid inference differs from the phenomenal character of invalid inference accepted through bias. This phenomenal difference tracks a normative distinction (valid versus invalid) that physical description cannot capture.
 
 The [[self-stultification-as-master-argument|self-stultification argument]] presses the same point from a different angle: materialism, if true, undermines the rational credentials of the very reasoning that leads to its acceptance. Cognitive phenomenology makes this vivid. The materialist's own experience of finding their arguments compelling — the felt force of evidence, the phenomenal pull of logical connection — is precisely the kind of irreducible cognitive phenomenology their position cannot accommodate.
 
@@ -85,7 +85,7 @@ The [[symbol-grounding-problem|symbol grounding problem]] illustrates this from 
 
 Research on the [[consciousness-as-amplifier|amplification thesis]] provides empirical support for the scope of cognitive phenomenology. Evidence from cognitive science suggests that rule-based logical reasoning depends specifically on conscious processing. Maintaining information in [[working-memory|working memory]] can proceed unconsciously, but manipulating it — comparing, combining, restructuring — appears to require conscious access. If this is correct, the active work of thinking is phenomenally conscious.
 
-This aligns with the [[phenomenology-of-intellectual-effort|phenomenology of intellectual effort]]: the strain of holding premises together, the effort of tracing implications, the resistance when an argument does not work. These are not sensory experiences. They are the felt texture of cognition itself — and they are irreducibly phenomenal.
+This aligns with the [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]]: the strain of holding premises together, the effort of tracing implications, the resistance when an argument does not work. These are not sensory experiences. They are the felt texture of cognition itself — and they are irreducibly phenomenal.
 
 If consciousness pervades cognition in this way, then the materialist cannot treat consciousness as an optional extra — an experiential gloss on processing that could in principle proceed without it. The processing *requires* it. [[philosophical-zombies|Philosophical zombies]] — beings physically identical to us but lacking experience — could not reason, because reasoning requires the phenomenal character of cognitive engagement. This transforms the zombie argument from a thought experiment about the logical possibility of unconscious physical duplicates into an argument that such duplicates could not match our cognitive capacities.
 
@@ -113,7 +113,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 
 - [[cognitive-phenomenology]] — The debate: liberalism versus conservatism on the phenomenal character of thought
 - [[phenomenology-of-understanding-and-meaning]] — Five modes of phenomenal meaning
-- [[phenomenology-of-intellectual-effort]] — The felt texture of cognitive work
+- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The felt texture of cognitive work
 - [[argument-from-reason]] — Why genuine reasoning requires more than physical causation
 - [[self-stultification-as-master-argument]] — Materialism undermines its own rational credentials
 - [[pragmatisms-path-to-dualism]] — How cognitive phenomenology in evaluation forces pragmatism toward dualism

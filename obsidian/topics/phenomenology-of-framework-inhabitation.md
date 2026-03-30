@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenology-of-conceptual-change]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[consciousness-and-the-phenomenology-of-translation]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[phenomenology-of-intellectual-courage]]"
-  - "[[phenomenology-of-intellectual-effort]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemological-limits-occams-razor]]"
@@ -178,9 +178,9 @@ The Map's analysis also resonates with [[mysterianism]]. If frameworks constrain
 - [[tenet-generated-voids]] — How the Map's own commitments create framework-specific blind spots
 - [[phenomenology-of-philosophical-disagreement]] — What happens when inhabited frameworks collide
 - [[phenomenology-of-conceptual-change]] — The phenomenology of framework revision
-- [[phenomenology-of-epistemic-cognition]] — The felt weight of evidence under evaluation
+- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt weight of evidence under evaluation
 - [[phenomenology-of-intellectual-courage]] — Holding position when frameworks clash
-- [[phenomenology-of-intellectual-effort]] — The work of reasoning within a framework
+- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The work of reasoning within a framework
 - [[phenomenology-of-understanding-and-meaning]] — What it is like when the framework delivers comprehension
 - [[epistemological-limits-occams-razor]] — Why simplicity is framework-relative
 - [[duhem-quine-underdetermination-consciousness]] — Underdetermination as the structural basis for framework dependence

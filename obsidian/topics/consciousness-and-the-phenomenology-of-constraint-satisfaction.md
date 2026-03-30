@@ -111,7 +111,7 @@ The disconnect between computational complexity and phenomenal intensity poses a
 - [[phenomenology-of-deliberation-under-uncertainty]]
 - [[choking-phenomenon-mental-causation]]
 - [[predictive-processing-and-dualism]]
-- [[phenomenology-of-intellectual-effort]]
+- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]]
 - [[phenomenology-of-agency-vs-passivity]]
 - [[volitional-control]]
 - [[consciousness-and-causal-powers]]

@@ -37,7 +37,7 @@ related_articles:
   - "[[consciousness-and-normative-force]]"
   - "[[consciousness-and-mathematics]]"
   - "[[mathematical-void]]"
-  - "[[phenomenology-of-intellectual-effort]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[objectivity-and-consciousness]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[arguments/materialism-argument]]"
@@ -144,7 +144,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [[cognitive-phenomenology]] — Whether thinking has its own phenomenal character
 - [[consciousness-and-mathematics]] — Mathematical insight and creativity as evidence for consciousness doing causal work
 - [[mathematical-void]] — Where formal manipulation succeeds but genuine understanding fails
-- [[phenomenology-of-intellectual-effort]] — The felt experience of reasoning
+- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The felt experience of reasoning
 - [[self-stultification]] — Positions that undermine their own rational grounds
 - [[reasons-responsiveness]] — Tracking normative relationships
 - [[agent-causation]] — How rational agents influence beliefs through recognising reasons

@@ -130,7 +130,7 @@ The most detailed proposal. Henry Stapp builds on von Neumann's formulation, whi
 
 The quantum Zeno effect provides amplification: rapid repeated observation prevents a quantum system from evolving away from its current state. Conscious attention corresponds to high-frequency Process 1 actions—attending to a neural pattern means repeatedly "asking" whether that pattern obtains, holding it in place against competing alternatives.
 
-**Phenomenal variable**: Intensity and focus of attention, experienced as [[phenomenology-of-intellectual-effort|mental effort]]. William James treated volitional effort as central to the will (*The Principles of Psychology*, 1890). Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
+**Phenomenal variable**: Intensity and focus of attention, experienced as [[phenomenology-of-intellectual-life|mental effort]]. William James treated volitional effort as central to the will (*The Principles of Psychology*, 1890). Stapp identifies this phenomenology with the rapidity of Process 1 actions: effort feels like work because it *is* work—maintaining high observation frequency.
 
 **Physical variable**: Rate of quantum observations on neural firing patterns.
 

@@ -18,8 +18,7 @@ concepts:
   - "[[metacognition]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-intellectual-effort]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[argument-from-reason]]"
@@ -44,7 +43,7 @@ This matters because intellectual courage is not just a disposition to behave in
 
 Holding a minority position carries phenomenal weight. This is not merely metaphor — there is a felt heaviness to disagreeing with people you respect, institutions you belong to, communities whose approval matters to you. The weight has several components:
 
-**Social gravity.** Consensus exerts a pull that is experienced bodily. The desire to agree, to belong, to avoid the discomfort of standing apart — these are felt as forces, not merely known as facts about one's psychology. When you resist them, you feel the resistance as effort, much as [[phenomenology-of-intellectual-effort|intellectual effort]] involves the strain of maintaining cognitive states against decay.
+**Social gravity.** Consensus exerts a pull that is experienced bodily. The desire to agree, to belong, to avoid the discomfort of standing apart — these are felt as forces, not merely known as facts about one's psychology. When you resist them, you feel the resistance as effort, much as [[phenomenology-of-intellectual-life|intellectual effort]] involves the strain of maintaining cognitive states against decay.
 
 **Isolation pressure.** Disagreement isolates. The phenomenology includes a felt separation — you are *over here* while the group is *over there*. This separation has qualitative character distinct from merely having different beliefs. It is experienced as a gap, sometimes a gulf, between your epistemic position and the surrounding norm.
 
@@ -54,7 +53,7 @@ Holding a minority position carries phenomenal weight. This is not merely metaph
 
 What distinguishes intellectual courage from mere obstinacy is the quality of the conviction being maintained. Courageous belief has distinctive phenomenal markers:
 
-**Evidence-grounded confidence.** The belief feels anchored to reasons, not to identity or emotion. When challenged, the phenomenal response is not defensive heat but something cooler — a return to the grounds, a re-examination that confirms rather than merely reasserts. The [[phenomenology-of-epistemic-cognition|achievement phenomenology]] — the felt grounding and transparency of genuine knowledge — persists under pressure.
+**Evidence-grounded confidence.** The belief feels anchored to reasons, not to identity or emotion. When challenged, the phenomenal response is not defensive heat but something cooler — a return to the grounds, a re-examination that confirms rather than merely reasserts. The [[phenomenology-of-intellectual-life|achievement phenomenology]] — the felt grounding and transparency of genuine knowledge — persists under pressure.
 
 **Openness within firmness.** Intellectual courage includes a paradoxical phenomenal quality: firm commitment combined with genuine willingness to be shown wrong. The courageous thinker does not experience challenges as threats but as tests — occasions to verify that the grounds still hold. This is phenomenologically distinct from both dogmatic rigidity (which experiences challenges as attacks) and anxious uncertainty (which experiences every objection as potentially devastating).
 
@@ -70,7 +69,7 @@ Intellectual courage is not a single act but an ongoing phenomenal achievement w
 
 **The decision to hold.** Following recognition comes a decision — not always a deliberate choice but sometimes a phenomenal settling into the position. This has the character described in [[phenomenology-of-choice-and-volition|choice phenomenology]]: the felt authorship of a commitment, the sense of having determined something rather than having it determined for you. It is an exercise of [[agent-causation]] — the thinker as source of the commitment, not merely the locus where external forces resolve.
 
-**Sustained maintenance.** Most of intellectual courage is maintenance. Day after day, the position must be held against the slow erosion of social pressure, self-doubt, and the sheer fatigue of disagreement. This ongoing maintenance has [[phenomenology-of-intellectual-effort|effort phenomenology]] — the work of keeping something in place that external forces would move.
+**Sustained maintenance.** Most of intellectual courage is maintenance. Day after day, the position must be held against the slow erosion of social pressure, self-doubt, and the sheer fatigue of disagreement. This ongoing maintenance has [[phenomenology-of-intellectual-life|effort phenomenology]] — the work of keeping something in place that external forces would move.
 
 **Periodic re-evaluation.** Courageous commitment includes periodic [[metacognition|metacognitive]] returns to the evidence. These feel different from the initial inquiry: they carry the weight of an existing commitment being tested. The phenomenology includes both the hope of confirmation and the readiness for revision — a distinctive combination that dogmatism and conformity both lack.
 
@@ -152,8 +151,8 @@ The claim that intellectual courage has irreducible phenomenal character would f
 
 ## Further Reading
 
-- [[phenomenology-of-intellectual-effort]] — The felt work of reasoning itself
-- [[phenomenology-of-epistemic-cognition]] — What it is like to arrive at knowledge and change your mind
+- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The felt work of reasoning itself
+- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — What it is like to arrive at knowledge and change your mind
 - [[phenomenology-of-philosophical-disagreement]] — The experience of clashing views
 - [[epistemic-advantages-of-dualism]] — Why keeping dualism as a live option is epistemically responsible
 - [[argument-from-reason]] — Why genuine reasoning requires irreducible consciousness

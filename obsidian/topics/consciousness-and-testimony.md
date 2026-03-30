@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
-  - "[[phenomenology-of-epistemic-cognition]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-trust]]"
   - "[[consciousness-and-collective-phenomena]]"
 concepts:
@@ -97,7 +97,7 @@ Daniel Dennett's "heterophenomenology" attempted to dissolve this asymmetry by t
 
 Not all testimony carries equal phenomenal weight. The felt experience of receiving testimony from an authority differs markedly from receiving it from a peer or a stranger. When an expert speaks within their domain, you experience their words with a particular phenomenal gravitation toward belief that exceeds what the bare propositional content would warrant from an unknown source. There is the experience of felt relief when an authority confirms what you suspected — a settling quality, as though your beliefs have found solid ground. There is the distinctive discomfort of expert disagreement with your settled views — a felt pressure to revise that carries more phenomenal force than disagreement from a non-expert, even when the propositional content is identical.
 
-The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades — partly for legitimate reasons (he lacked a viable mechanism), but partly because the felt authority of established figures discouraged serious engagement with the accumulating observational evidence. The [[phenomenology-of-epistemic-cognition|phenomenology of belief revision]] reveals how difficult it is to resist this felt authority even when reasons for doubt are strong.
+The danger of testimonial authority lies precisely in its phenomenal power. Because expert testimony carries felt weight that exceeds its propositional content, it can produce belief changes that outrun rational warrant. The geological establishment rejected Alfred Wegener's continental drift hypothesis for decades — partly for legitimate reasons (he lacked a viable mechanism), but partly because the felt authority of established figures discouraged serious engagement with the accumulating observational evidence. The [[phenomenology-of-intellectual-life|phenomenology of belief revision]] reveals how difficult it is to resist this felt authority even when reasons for doubt are strong.
 
 ## Testimony Across the Intersubjective Void
 
@@ -156,7 +156,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 ## Further Reading
 
 - [[phenomenology-of-trust]] — The phenomenology of interpersonal trust and vulnerability
-- [[phenomenology-of-epistemic-cognition]] — The felt character of weighing evidence and revising belief
+- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt character of weighing evidence and revising belief
 - [[epistemology-of-first-person-evidence]] — Testimonial evidence and introspective epistemology in consciousness science
 - [[consciousness-and-the-authority-of-formal-systems]] — Logical compulsion and consciousness
 - [[introspection]] — The reliability debate and the case for restoring introspection
