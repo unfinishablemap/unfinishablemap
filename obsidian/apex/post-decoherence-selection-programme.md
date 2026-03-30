@@ -3,7 +3,7 @@ title: "The Post-Decoherence Selection Programme"
 created: 2026-03-29
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-03-30T01:15:00+00:00
+ai_modified: 2026-03-30T10:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ apex_sources:
   - concepts/post-decoherence-selection
   - topics/quantum-darwinism-and-consciousness
   - concepts/weak-measurement-and-post-selection
-  - topics/stochastic-amplification-and-neural-selection
+  - topics/amplification-mechanisms-consciousness-physics
   - concepts/contextual-selection-in-quantum-foundations
 apex_last_synthesis: 2026-03-29T13:56:00+00:00
 apex_thesis: "Five converging lines of inquiry—the post-decoherence selection gap, quantum Darwinism's menu specification, contextuality's structural constraints, weak measurement's boundary-condition alternative, and stochastic amplification's causal bridge—together constitute a physics research programme that specifies how consciousness could act after decoherence, sidestepping the timing objection that has stalled quantum consciousness theories for two decades."

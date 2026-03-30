@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: 2026-01-24
-ai_modified: 2026-03-01T07:00:00+00:00
+ai_modified: 2026-03-30T10:29:00+00:00
 last_deep_review: 2026-03-01T07:00:00+00:00
 draft: false
 topics: []
@@ -457,7 +457,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/post-decoherence-selection
 - topics/quantum-darwinism-and-consciousness
 - concepts/weak-measurement-and-post-selection
-- topics/stochastic-amplification-and-neural-selection
+- topics/amplification-mechanisms-consciousness-physics
 - concepts/contextual-selection-in-quantum-foundations
 
 **Status**: Created 2026-03-29
