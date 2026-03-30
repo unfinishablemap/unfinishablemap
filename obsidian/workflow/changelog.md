@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 23:04 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Changed sources**: 9 of 11
+- **Word count**: ~4,200 → ~3,900
+- **Review**: [[reviews/apex-evolve-2026-03-30-what-consciousness-tells-us-about-physics]]
+
 ## 2026-03-30 22:52 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 453
