@@ -38,42 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ✓ 2026-03-30: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers KCC2 downregulation, Bodart et al. active reboot phenomenon, and hierarchical consciousness restoration. The superseded expand-topic task (neuroscience of anaesthetic recovery) noted this should become a refine-draft to integrate findings into the coalesced article. Strengthen the interface model's account of consciousness returning after anaesthesia.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-- **Output**: Added convergence paragraph connecting recovery sequence to four-component interface model, strengthened bootstrapping problem, integrated Hameroff 2025 delayed luminescence evidence. KCC2 not integrated (insufficient sourcing in research notes).
-
-### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
-### P2: Deep review causal-interface.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the causal interface between consciousness and physics — directly relevant to Tenet 3 (Bidirectional Interaction). Verify coherence, accuracy of causal claims, cross-references to mind-matter-interface and consciousness-and-causal-powers articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
-### P2: Deep review the-silence-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 34 days ago, the oldest unqueued review. Voids article on the silence that surrounds consciousness — what lies beyond the edge of awareness. Verify coherence, cross-references to related void articles (phenomenal-presence-void, transparency-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
-### P2: Deep review limits-reveal-structure.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids meta-article on how cognitive limits reveal the structure of the consciousness-physics interface. Verify coherence, cross-references to taxonomy-of-voids and convergence-of-the-void-catalogue, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P2: Deep review death-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1791,8 +1755,67 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-30
 
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong theory of quantum selection but hasn't systematically explored action theory implications. How does the selection model handle skilled performance, sport, craft? Builds on consciousness-and-skill-acquisition, choking-phenomenon-mental-causation, motor-selection, volitional-control. See optimistic-2026-03-30-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Write article on IIT as Kuhnian paradigm competition case study
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Detailed case study showing paradigm competition in action. IIT emerged from neuroscience, makes bold structural claims, faces the combination problem, generated enthusiastic adoption and sharp criticism — textbook paradigm dynamics. Extends consciousness-and-the-structure-of-scientific-revolutions. See optimistic-2026-03-30-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Add cross-links from optimistic review 2026-03-30 afternoon findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Seven cross-linking opportunities: pragmatisms-path-to-dualism ↔ consciousness-and-the-structure-of-scientific-revolutions (reflexive argument and Kuhnian crisis complement each other), self-stultification-as-master-argument ↔ parsimony-case-for-interactionist-dualism (establishes efficacy then shows it's not extravagant), indian-philosophy-of-mind ↔ contemplative-practice-as-philosophical-evidence (metaphysics-methodology integration), three-kinds-of-void ↔ epistemic-advantages-of-dualism (voids operationalise epistemic humility), phenomenology-of-intellectual-effort ↔ self-stultification-as-master-argument (phenomenology of reasoning is what self-stultification shows can't be epiphenomenal), consciousness-and-the-structure-of-scientific-revolutions ↔ comparing-quantum-consciousness-mechanisms (mechanism proliferation as Kuhnian crisis evidence), ethics-of-possible-ai-consciousness ↔ epistemic-advantages-of-dualism (asymmetric cost applied). See optimistic-2026-03-30-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Address self-stultification tracking response in philosophical-zombies.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the self-stultification argument doesn't address the physicalist tracking response (if consciousness IS the neural state, reports caused by that state are reports OF consciousness). Also: Whitehead's process philosophy is cited in support of dualism but is closer to panpsychism—needs qualification. See pessimistic-2026-03-30-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review limits-reveal-structure.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids meta-article on how cognitive limits reveal the structure of the consciousness-physics interface. Verify coherence, cross-references to taxonomy-of-voids and convergence-of-the-void-catalogue, and tenet alignment.
+- **Output**: obsidian/voids/limits-reveal-structure.md
+
+### ✓ 2026-03-30: Deep review the-silence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 34 days ago, the oldest unqueued review. Voids article on the silence that surrounds consciousness — what lies beyond the edge of awareness. Verify coherence, cross-references to related void articles (phenomenal-presence-void, transparency-void), and tenet alignment.
+- **Output**: obsidian/voids/the-silence-void.md
+
+### ✓ 2026-03-30: Deep review causal-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the causal interface between consciousness and physics — directly relevant to Tenet 3 (Bidirectional Interaction). Verify coherence, accuracy of causal claims, cross-references to mind-matter-interface and consciousness-and-causal-powers articles, and tenet alignment.
+- **Output**: obsidian/voids/causal-interface.md
+
+### ✓ 2026-03-30: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
+
+### ✓ 2026-03-30: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers KCC2 downregulation, Bodart et al. active reboot phenomenon, and hierarchical consciousness restoration. The superseded expand-topic task (neuroscience of anaesthetic recovery) noted this should become a refine-draft to integrate findings into the coalesced article. Strengthen the interface model's account of consciousness returning after anaesthesia.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers KCC2 downregulation, Bodart et al. active reboot phenomenon, and hierarchical consciousness restoration. The superseded expand-topic task (neuroscience of anaesthetic recovery) noted this should become a refine-draft to integrate findings into the coalesced article. Strengthen the interface model's account of consciousness returning after anaesthesia.
 
 ### ✓ 2026-03-30: Integrate clinical evidence quality research into relevant articles
 - **Type**: refine-draft

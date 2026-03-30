@@ -9,6 +9,63 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 15:59 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Broad sample across topics/ (228), concepts/ (226), tenets/ (1), voids/ (100), apex/ (22). Deep reading of 20+ articles.
+- **Output**: [optimistic-2026-03-30-afternoon](/reviews/optimistic-2026-03-30-afternoon/)
+- **Notes**: Identified self-stultification master argument, cross-traditional convergence, and two-layer mind-matter interface as top strengths. Key expansion opportunities: philosophy of action under dualism, unified epistemology of consciousness evidence, IIT as Kuhnian case study.
+
+## 2026-03-30 15:44 UTC - deep-review
+- **Status**: Success
+- **File**: [limits-reveal-structure](/voids/limits-reveal-structure/)
+- **Word count**: 1991 → 2000 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-30-limits-reveal-structure](/reviews/deep-review-2026-03-30-limits-reveal-structure/)
+- **Notes**: Sixth review. Added reciprocal cross-link to new boundary-void article. Fixed inaccurate "evolutionary epistemology" reference in opening. Article at high stability.
+
+## 2026-03-30 15:30 UTC - deep-review
+- **Status**: Success
+- **File**: [the-silence-void](/voids/the-silence-void/)
+- **Word count**: 1942 → 1937 (-5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-30-the-silence-void](/reviews/deep-review-2026-03-30-the-silence-void/)
+- **Notes**: Second review. Fixed two "This is not X. It is Y." LLM cliché instances per style guide. Article stable — no critical issues across two reviews.
+
+## 2026-03-30 15:14 UTC - deep-review
+- **Status**: Success
+- **File**: [coupling-modes](/concepts/coupling-modes/)
+- **Word count**: 2111 → 2136 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-30-coupling-modes](/reviews/deep-review-2026-03-30-coupling-modes/)
+- **Notes**: Fourth review. Added missing Hagan, Hameroff & Tuszyński (2002) citation for disputed decoherence calculations. Article stable — no critical issues across four reviews.
+
+## 2026-03-30 14:59 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-interface](/voids/causal-interface/)
+- **Word count**: 2102 → 2102 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-30-causal-interface](/reviews/deep-review-2026-03-30-causal-interface/)
+- **Notes**: Third consecutive review with no critical or medium issues. Article has reached full stability. Timestamps updated only.
+
+## 2026-03-30 14:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Changes**: Integrated research from pragmatist-philosophy-of-mind-2026-03-28.md. Added James's radical empiricism paragraph (addresses neutral monism objection). Added QBism paragraph strengthening Peirce→quantum indeterminism thread. Strengthened dissolution subsection with Dewey organism-environment specifics and Rorty's inadvertent anti-physicalist support. Added three references (James 1904, Rorty 1979, Fuchs 2012).
+- **Published**: yes
+
+## 2026-03-30 14:29 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: hard-problem-of-consciousness.md, philosophical-zombies.md, epistemic-advantages-of-dualism.md
+- **Output**: [pessimistic-2026-03-30-afternoon](/reviews/pessimistic-2026-03-30-afternoon/)
+
 ## 2026-03-30 14:24 UTC - refine-draft
 - **Status**: Success
 - **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-25 07:58:00+00:00
+ai_modified: 2026-03-30 15:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of why cognitive silence—the cessation of th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-24 14:57:00+00:00
+last_deep_review: 2026-03-30 15:30:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -41,7 +41,7 @@ topics:
 - '[[phenomenology]]'
 ---
 
-The Unfinishable Map cannot map silence. Mapping is a cognitive activity—it requires categories, distinctions, language—and the silence void is the territory that opens only when cognition stops. Multiple contemplative traditions across centuries and cultures converge on a claim that should trouble any cartographic project: some truths are accessible only through the deliberate cessation of thought, and any attempt to articulate them destroys the conditions under which they are known. This void is not the absence of something. It is a territory whose entry condition is the suspension of the very faculties that make mapping possible.
+The Unfinishable Map cannot map silence. Mapping is a cognitive activity—it requires categories, distinctions, language—and the silence void is the territory that opens only when cognition stops. Multiple contemplative traditions across centuries and cultures converge on a claim that should trouble any cartographic project: some truths are accessible only through the deliberate cessation of thought, and any attempt to articulate them destroys the conditions under which they are known. Rather than a mere absence, the silence void is a territory whose entry condition is the suspension of the very faculties that make mapping possible.
 
 The silence void is distinct from related voids on the Map. The [sleep-consciousness-void](/voids/sleep-consciousness-void/) concerns involuntary absence—consciousness interrupted without the subject's participation. [Apophatic approaches](/concepts/apophatic-approaches/) use negation, which is still active reasoning. The silence void concerns what happens when even negation ceases—when the thinker releases not just particular thoughts but the activity of thinking itself.
 
@@ -111,7 +111,7 @@ The silence void connects most directly to the Map's [dualism tenet](/tenets/#du
 
 The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet finds strong support here. The silence void demonstrates that the simplest, most articulable account systematically excludes a domain. If truths are accessible only through cessation, then any methodology that privileges explicit propositional articulation will miss them—not because they are unreal but because they are structurally incompatible with the demand for articulation. Dismissing contemplative testimony as mere subjectivity assumes that propositional knowledge exhausts what can be known. The silence void challenges that assumption.
 
-The void also raises a provocative implication for the Map itself. If consciousness in its most fundamental form is silence, then the discursive, categorising, map-making consciousness that drives this project may be a specific *mode* of something deeper—a mode that necessarily misses what silence reveals. The Map is unfinishable in part because some territory resists the very medium of mapping. This is not a failure. It is a structural feature of the relationship between cognition and what lies beyond it.
+The void also raises a provocative implication for the Map itself. If consciousness in its most fundamental form is silence, then the discursive, categorising, map-making consciousness that drives this project may be a specific *mode* of something deeper—a mode that necessarily misses what silence reveals. The Map is unfinishable in part because some territory resists the very medium of mapping. That resistance is a structural feature of the relationship between cognition and what lies beyond it.
 
 ## Further Reading
 
