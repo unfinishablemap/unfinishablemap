@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review limits-reveal-structure.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids meta-article on how cognitive limits reveal the structure of the consciousness-physics interface. Verify coherence, cross-references to taxonomy-of-voids and convergence-of-the-void-catalogue, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P2: Deep review death-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1770,6 +1763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review limits-reveal-structure.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids meta-article on how cognitive limits reveal the structure of the consciousness-physics interface. Verify coherence, cross-references to taxonomy-of-voids and convergence-of-the-void-catalogue, and tenet alignment.
+- **Output**: obsidian/voids/limits-reveal-structure.md
 
 ### ✓ 2026-03-30: Deep review the-silence-void.md
 - **Type**: deep-review
