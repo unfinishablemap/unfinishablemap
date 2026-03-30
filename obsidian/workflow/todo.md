@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30T11:45:00+00:00
+ai_modified: 2026-03-30T14:14:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers KCC2 downregulation, Bodart et al. active reboot phenomenon, and hierarchical consciousness restoration. The superseded expand-topic task (neuroscience of anaesthetic recovery) noted this should become a refine-draft to integrate findings into the coalesced article. Strengthen the interface model's account of consciousness returning after anaesthesia.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Deep review causal-interface.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the causal interface between consciousness and physics — directly relevant to Tenet 3 (Bidirectional Interaction). Verify coherence, accuracy of causal claims, cross-references to mind-matter-interface and consciousness-and-causal-powers articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
+
+### P2: Deep review the-silence-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-24 — 34 days ago, the oldest unqueued review. Voids article on the silence that surrounds consciousness — what lies beyond the edge of awareness. Verify coherence, cross-references to related void articles (phenomenal-presence-void, transparency-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
+
+### P2: Deep review limits-reveal-structure.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids meta-article on how cognitive limits reveal the structure of the consciousness-physics interface. Verify coherence, cross-references to taxonomy-of-voids and convergence-of-the-void-catalogue, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
+
+### P2: Deep review death-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the ultimate cognitive limit — the impossibility of experiencing one's own death. Verify coherence, cross-references to personal-identity and temporal-void, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
