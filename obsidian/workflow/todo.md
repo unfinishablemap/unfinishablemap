@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate illusionism functional-seeming research into illusionism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's functional-seeming response in detail. Current illusionism.md may not fully engage with this sophisticated materialist position. Integrate key distinctions (quasi-phenomenal properties, representing vs experiencing) to strengthen the Map's response.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate phenomenological method research into methodology articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1763,6 +1756,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate illusionism functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's functional-seeming response in detail. Current illusionism.md may not fully engage with this sophisticated materialist position. Integrate key distinctions (quasi-phenomenal properties, representing vs experiencing) to strengthen the Map's response.
+- **Output**: obsidian/concepts/illusionism.md
+
+Task context:
+Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's functional-seeming response in detail. Current illusionism.md may not fully engage with this sophisticated materialist position. Integrate key distinctions (quasi-phenomenal properties, representing vs experiencing) to strengthen the Map's response.
 
 ### ✓ 2026-03-30: Address circularity in growing-block-universe-and-consciousness.md
 - **Type**: refine-draft

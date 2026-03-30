@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 09:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Changes**: Made representing/experiencing distinction explicit as Frankish's core epistemological move; strengthened self-representation problem with combustion/phlogiston asymmetry; sharpened seeming/processing gap conclusion
+- **Published**: yes
+
 ## 2026-03-30 09:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/zombie-master-argument]]
