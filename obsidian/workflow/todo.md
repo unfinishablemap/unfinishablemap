@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md covers Buddhist vedanā, Hindu rasa (Abhinavagupta), Confucian moral feeling (li/qi), Islamic phenomenology (Avicenna, Mulla Sadra), and Western phenomenal normativity (Kriegel, Sosa). The concept page would benefit from cross-traditional evidence showing independent convergence on evaluative qualia as irreducible — strengthening the convergence argument.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1805,6 +1798,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
+- **Type**: refine-draft
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md covers Buddhist vedanā, Hindu rasa (Abhinavagupta), Confucian moral feeling (li/qi), Islamic phenomenology (Avicenna, Mulla Sadra), and Western phenomenal normativity (Kriegel, Sosa). The concept page would benefit from cross-traditional evidence showing independent convergence on evaluative qualia as irreducible — strengthening the convergence argument.
+- **Output**: obsidian/concepts/evaluative-qualia.md
+
+Task context:
+Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md covers Buddhist vedanā, Hindu rasa (Abhinavagupta), Confucian moral feeling (li/qi), Islamic phenomenology (Avicenna, Mulla Sadra), and Western phenomenal normativity (Kriegel, Sosa). The concept page would benefit from cross-traditional evidence showing independent convergence on evaluative qualia as irreducible — strengthening the convergence argument.
 
 ### ✓ 2026-03-30: Update references to coalesced articles (phenomenology-of-intellectual-effort, phenomenology-of-epistemic-cognition)
 - **Type**: cross-review
