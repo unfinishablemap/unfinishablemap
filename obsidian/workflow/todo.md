@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review smoothness-and-continuity.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Newly coalesced from voids/smoothness-problem.md + voids/continuity-void.md (2026-03-30). Review against resolution-void, temporal-void, capability-division-problem, neural-refresh-rates, and phenomenology-of-the-edge for consistency. Add inbound links from related void articles. Verify the merge preserved key arguments from both sources and eliminated redundancy.
-- **Source**: chain (from smoothness-and-continuity.md coalesce)
-- **Generated**: 2026-03-30
-
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1728,6 +1721,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Cross-review smoothness-and-continuity.md against related articles
+- **Type**: cross-review
+- **Notes**: Newly coalesced from voids/smoothness-problem.md + voids/continuity-void.md (2026-03-30). Review against resolution-void, temporal-void, capability-division-problem, neural-refresh-rates, and phenomenology-of-the-edge for consistency. Add inbound links from related void articles. Verify the merge preserved key arguments from both sources and eliminated redundancy.
+- **Output**: obsidian/voids/smoothness-and-continuity.md -- Context: Cross-review smoothness-and-continuity.md against related articles
 
 ### ✓ 2026-03-30: Integrate stochastic-amplification-and-neural-selection into site navigation
 - **Type**: integrate-orphan
