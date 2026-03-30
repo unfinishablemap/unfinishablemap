@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 22:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Changes**: Integrated Libet/Schurger/Fried research; expanded Veto with "what, when, whether" model; added Mele ecological validity critique; strengthened Bidirectional Interaction tenet; added 4 references
+- **Published**: yes
+
 ## 2026-03-30 21:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids]]

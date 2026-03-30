@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T08:51:00+00:00
+ai_modified: 2026-03-30T22:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -118,7 +118,7 @@ Effort also has a directional quality. It feels like pushing *against* something
 
 The capacity to refrain is phenomenologically distinct from the capacity to initiate. When you suppress an impulse — catching an angry retort before it leaves your mouth, stopping your hand from reaching for a phone — there is a specific experience of *active inhibition* that differs from both action and mere inaction.
 
-[[libet-experiments|Libet]] himself recognised this "free won't" as the strongest evidence for conscious causal efficacy in his own data. Brass and Haggard's neuroimaging confirmed distinct neural substrates for intentional inhibition — dorsal fronto-median cortex activation exerting top-down suppression of premotor areas. The veto is not merely the absence of a go signal but an active neural process with its own circuitry and its own phenomenology.
+[[libet-experiments|Libet]] himself recognised this "free won't" as the strongest evidence for conscious causal efficacy in his own data. The veto operates in a narrow but real temporal window: Libet's subjects could cancel a prepared action within the ~150ms before movement onset, after the readiness potential had already begun. Brass and Haggard's "what, when, whether" model (2007–2008) formalised this insight by identifying three separable components of intentional action — what to do, when to do it, and *whether* to do it at all — each with distinct neural substrates. The "whether" component activates dorsal fronto-median cortex, which exerts top-down suppression of premotor areas. The veto is not merely the absence of a go signal but an active neural process with its own circuitry and its own phenomenology. That intentional inhibition recruits dedicated cortical machinery — distinct from both action initiation and passive non-action — strengthens the case that conscious agency operates at a genuine decision point rather than decorating processes already determined.
 
 ## Choosing vs Observing
 
@@ -145,6 +145,14 @@ The gap between volitional intention and motor detail is itself phenomenological
 
 The [[mental-effort|phenomenology of effort]] provides the strongest evidence for genuine conscious contribution. The [[trilemma-of-selection|trilemma of selection]] makes this systematic: at any decision point, the outcome is determined, random, or consciously selected — and only selection generates the phenomenology of effort. If choosing were merely receiving randomly determined outcomes, there should be no phenomenology of effort — random processes don't feel like work. See [[phenomenology-of-consciousness-doing-work|consciousness doing work]] for the broader case.
 
+### The Libet Timing Challenge and Its Dissolution
+
+The strongest empirical objection to effort-as-evidence comes from [[libet-experiments|Libet's experiments]] (1983): the readiness potential — a slow negative EEG shift — begins ~550ms before movement but ~350ms before subjects report awareness of intending to move. This was widely interpreted as proof that unconscious brain processes initiate action before consciousness arrives, reducing felt effort to post-hoc decoration.
+
+The evidential force of this finding has substantially weakened. Schurger, Sitt, and Dehaene (2012) demonstrated that the readiness potential reflects ongoing stochastic fluctuations in neural activity — not an unconscious "decision" to act. Their leaky accumulator model accounts for the specific shape of the RP and the distribution of waiting times: in spontaneous movement tasks, premotor activity fluctuates near threshold, and random fluctuations determine when the threshold is crossed. As Schurger concluded, this "takes the sting out of the Libet argument against free will." A 2021 meta-analysis of Libet-style experiments found the evidence for RP-preceding-intention is "uncertain and based on only a small number of studies," confirming the field's shift away from early triumphalist readings.
+
+Single-neuron recordings tell a compatible story. Fried, Mukamel, and Kreiman (2011) found that populations of supplementary motor area neurons showed progressive activation ~1500ms before movement, predicting decisions ~700ms before reported awareness. Yet their own computational model frames this as threshold-crossing — compatible with consciousness modulating the threshold or selecting among competing activations rather than passively observing a fait accompli.
+
 One candidate mechanism is Stapp's [[mental-effort|quantum Zeno model]], where rapid acts of attention hold desired neural patterns stable — though the [[decoherence|decoherence objection]] remains a live challenge addressed through [[quantum-biology-and-neural-mechanisms|proposed protection mechanisms]].
 
 The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is quantum Zeno, some other quantum process, or a mechanism not yet conceived. The phenomenological evidence for conscious causal contribution stands independently.
@@ -168,6 +176,8 @@ The Buddhist concept of *vīriya* (energetic effort) applies equally to initiati
 If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis: "misrepresentation presupposes presentation."
 
 Wegner's evidence comes primarily from cases where agency attribution goes wrong — automatisms, hypnosis, the "I Spy" experiment. These cases involve *initiation* phenomenology alone. They say nothing about sustained control, effort gradients, or active veto. The illusion would need to be not one trick but four independent tricks, each precisely calibrated to real cognitive demands.
+
+Mele's critique sharpens the point from a different angle: the Libet paradigm tests spontaneous wrist flicking — an impulsive, arbitrary motion bearing little resemblance to genuine voluntary action. Real decisions involve deliberation over minutes, hours, or days; they engage reasons, values, and competing considerations. Extrapolating from RP timing in wrist-flex tasks to the denial of conscious causation in all voluntary action is an interpretive leap the data cannot support. As Mele argues, what subjects become aware of may be an urge to flex, not a decision already made — a distinction the experimental design cannot adjudicate.
 
 [[cross-cultural-phenomenology-of-agency|Cross-cultural evidence]] provides independent support: the felt structure of acting, the opacity of volitional mechanism, and the link between agency and temporal openness persist across cultures that frame agency very differently — from Western effortful willing to Daoist *wu wei* to Buddhist conditioned arising. If these components were cultural constructions, their cross-cultural persistence would be unexplained.
 
@@ -193,7 +203,7 @@ The phenomenology-of-choice-and-volition framework would face serious difficulty
 
 **[[tenets#^dualism|Dualism]]**: The qualitative character of the full deliberation-through-execution arc — felt weight of options, the settling of decision, the effort of sustained control, the active inhibition of veto — isn't captured by third-person neural accounts. The multi-component structure (deliberation, initiation, effort, sustained control, veto) resists reduction to any single neural measure like the readiness potential.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the dissociability of agency from ownership in neurological patients, and the distinct neural substrates for veto all suggest that volitional phenomenology tracks genuine causal engagement rather than decorating processes that would proceed identically without it. Neuroplasticity evidence extends the point: mathematical training enhances parietal cortex structure (Aydin et al., 2007), and these changes follow from effortful thinking.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the dissociability of agency from ownership in neurological patients, and the distinct neural substrates for veto all suggest that volitional phenomenology tracks genuine causal engagement rather than decorating processes that would proceed identically without it. Crucially, the primary neuroscientific objection — that the readiness potential proves unconscious initiation — has been substantially weakened by Schurger's stochastic noise reinterpretation and by Mele's ecological validity critique. With this objection deflated, the positive evidence gains force: Brass and Haggard's "whether" component provides a neural locus where conscious veto exerts measurable top-down control, and Libet's own data are better read as supporting "free won't" than as undermining conscious agency. Neuroplasticity evidence extends the point: mathematical training enhances parietal cortex structure (Aydin et al., 2007), and these changes follow from effortful thinking.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Choosing feels like biasing outcomes, not injecting energy. The iterative, moment-by-moment character of sustained voluntary attention — James's "successive efforts" — matches the predicted signature of consciousness repeatedly selecting among competing neural patterns at points of quantum indeterminacy.
 
@@ -232,15 +242,33 @@ The phenomenology-of-choice-and-volition framework would face serious difficulty
 1. Aydin, K., et al. (2007). Increased gray matter density in the parietal cortex of mathematicians. *American Journal of Neuroradiology*, 28(10), 1859-1864.
 1. Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
 1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
+1. Brass, M., & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141–9145.
 1. Brass, M., & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319–325.
 1. Desmurget, M., Reilly, K. T., Richard, N., Szathmari, A., Mottolese, C., & Sirigu, A. (2009). Movement intention after parietal cortex stimulation in humans. *Science*, 324(5928), 811–813.
+1. Fried, I., Mukamel, R., & Kreiman, G. (2011). Internally generated preactivation of single neurons in human medial frontal cortex predicts volition. *Neuron*, 69(3), 548–562.
 1. Gallagher, S., & Zahavi, D. (2012). *The Phenomenological Mind* (2nd ed.). Routledge.
 1. Haggard, P. (2017). Sense of agency in the human brain. *Nature Reviews Neuroscience*, 18(4), 196-207.
 1. James, W. (1890). *The Principles of Psychology*. Chapters 11 (Attention) and 26 (Will).
+1. Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K. (1983). Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential). *Brain*, 106(3), 623–642.
 1. Mele, A. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
 1. Nahmias, E., Morris, S., Nadelhoffer, T., & Turner, J. (2004). The phenomenology of free will. *Journal of Consciousness Studies*, 11(7-8), 162-179.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
+1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2010). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Expanded Veto section with Brass & Haggard's "what, when, whether" model (2007–2008) and Libet's temporal window detail
+- Added new subsection "The Libet Timing Challenge and Its Dissolution" under Effort as Evidence, integrating Schurger 2012 stochastic noise reinterpretation, Fried et al. 2011 single-neuron findings, and 2021 meta-analytic uncertainty
+- Integrated Mele's ecological validity critique into the Illusionist Challenge section
+- Strengthened Bidirectional Interaction tenet paragraph with Schurger and Mele findings
+- Added 4 new references: Brass & Haggard 2007, Fried et al. 2011, Libet et al. 1983, Schurger et al. 2012
+
+Based on integration of dedicated research from phenomenology-volitional-control-2026-03-20.md.
+Key improvements: article now directly engages the Libet timing challenge rather than mentioning it in passing, and marshals the Schurger/Mele/Brass-Haggard evidence as support for Tenet 3 (bidirectional interaction).
+
+This log should be removed after human review.
+-->
