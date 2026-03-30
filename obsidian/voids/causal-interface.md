@@ -4,8 +4,8 @@ description: "Human+AI exploration of why we cannot observe how consciousness ca
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-14T20:43:00+00:00
-last_deep_review: 2026-02-25T10:07:00+00:00
+ai_modified: 2026-03-30T14:59:00+00:00
+last_deep_review: 2026-03-30T14:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

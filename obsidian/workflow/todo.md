@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review causal-interface.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the causal interface between consciousness and physics — directly relevant to Tenet 3 (Bidirectional Interaction). Verify coherence, accuracy of causal claims, cross-references to mind-matter-interface and consciousness-and-causal-powers articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P2: Deep review the-silence-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1784,6 +1777,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review causal-interface.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the causal interface between consciousness and physics — directly relevant to Tenet 3 (Bidirectional Interaction). Verify coherence, accuracy of causal claims, cross-references to mind-matter-interface and consciousness-and-causal-powers articles, and tenet alignment.
+- **Output**: obsidian/voids/causal-interface.md
 
 ### ✓ 2026-03-30: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
 - **Type**: refine-draft
