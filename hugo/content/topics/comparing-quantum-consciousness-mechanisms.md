@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-30 05:33:00+00:00
+ai_modified: 2026-03-30 19:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -83,15 +83,15 @@ The post-decoherence gap is central to [Tenet 2 (Minimal Quantum Interaction)](/
 
 Penrose and Hameroff propose that tubulin proteins in microtubules sustain quantum superpositions that collapse when gravitational self-energy reaches a threshold (t = ħ/E_G). Each collapse event constitutes a discrete moment of conscious experience. The "orchestration" comes from entanglement across microtubule networks, coordinated by synaptic inputs.
 
-**Decoherence vulnerability: High.** Orch OR requires sustained superposition across many tubulin dimers until gravitational threshold is reached. Even revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) leave a gap of over three orders of magnitude below neural decision timescales (~300ms).
+**Decoherence vulnerability: High (original formulation) to moderate (extensions).** Orch OR in its original formulation requires sustained superposition across many tubulin dimers until gravitational threshold is reached. Even revised coherence estimates (10⁻⁵ to 10⁻⁴ seconds per Hagan et al. 2002) leave a gap of over three orders of magnitude below neural decision timescales (~300ms). However, Beshkar's 2025 QBIT theory proposes that the relevant coherence is spintronic rather than electronic—based on electron spin states in microtubules modelled as nanoscale spintronic oscillators. Spintronic coherence is inherently more stable at physiological temperatures, potentially sidestepping Tegmark's original calculation. QBIT localises coherence to the axon initial segment (AIS), providing a concrete physical locus. If spintronic rather than electronic coherence is what matters, the decoherence vulnerability drops significantly—though the proposal remains largely theoretical.
 
 **Phenomenological fit: Partial.** Orch OR maps each collapse to a "moment of consciousness," loosely matching the temporal grain of experience. But gravitational collapse is automatic once threshold is reached, leaving no obvious role for felt effort. The mechanism explains *that* consciousness occurs but not *why* it has its phenomenological character.
 
 **Tenet alignment: Mixed.** Orch OR supports [Dualism](/tenets/#dualism) (consciousness irreducible to classical computation, via Penrose's Gödelian argument) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) (collapse as causal mechanism). It supports [No Many Worlds](/tenets/#no-many-worlds) (objective collapse). However, it sits uneasily with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction). The tenet requires the *smallest possible* non-physical influence — but Orch OR demands macroscopic quantum coherence across microtubule networks. Penrose's suggestion that each OR event carries proto-conscious experience implies a form of panpsychism the Map does not endorse.
 
-**Empirical status: Growing but contested.** The epothilone B study (Khan et al. 2024; microtubule-stabilizing drug delays [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/)) and room-temperature tryptophan superradiance in microtubule architectures (Babcock et al. 2024) provide circumstantial support. Wiest (2025) reports a 613 THz quantum oscillation signature abolished by anaesthetics. These findings establish microtubule relevance to consciousness but do not confirm Orch OR specifically — microtubules might matter for classical or other quantum reasons.
+**Empirical status: Growing but contested.** The epothilone B study (Khan et al. 2024; microtubule-stabilizing drug delays [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/)) and room-temperature tryptophan superradiance in microtubule architectures (Babcock et al. 2024) provide circumstantial support. Wiest (2025) reports a 613 THz quantum oscillation signature abolished by anaesthetics and synthesises evidence that inhalational anaesthetics selectively disrupt quantum activities in consciousness-relevant proteins while leaving non-orchestrated proteins unaffected. A 2025 integration with Friston's active inference framework argues that classical neural mechanisms for conscious active inference lack biological plausibility, and that the mathematics of conscious active inference parallels quantum dynamics—positioning Orch OR as structurally necessary rather than optional (Wiest & Puniani 2025). These findings establish microtubule relevance to consciousness but do not confirm Orch OR specifically — microtubules might matter for classical or other quantum reasons.
 
-**Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2021) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full experimental landscape, including levitated nanoparticle interferometry, optomechanical tests, and the proposed MAQRO space mission.
+**Falsifiability: Moderate.** Orch OR predicts measurable quantum coherence in microtubules at specific timescales and gravitational collapse at specific mass thresholds. Germanium detector experiments (Donadi et al. 2021) have already ruled out the simplest Diósi-Penrose model. The parameter space is shrinking — a virtue for falsifiability, but a warning for the theory. NV-centre diamond quantum sensors, reviewed in 2026, combine nanoscale spatial resolution with microsecond temporal resolution and enable single-neuron signal detection—potentially providing the in vivo measurement capability needed to confirm or refute quantum coherence in neural microtubules directly. See [Penrose Gravity-Induced Collapse and Empirical Prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) for the full experimental landscape, including levitated nanoparticle interferometry, optomechanical tests, and the proposed MAQRO space mission.
 
 ## Stapp's Quantum Zeno Model: Attention as Observation
 
@@ -141,7 +141,7 @@ Rather than proposing a specific neural mechanism, hybrid models combine spontan
 
 | Criterion | Orch OR | Stapp Zeno | Fisher | CSL-IIT Hybrid |
 |-----------|---------|------------|--------|----------------|
-| Decoherence vulnerability | High | Low | Very low | N/A |
+| Decoherence vulnerability | High (moderate with QBIT) | Low | Very low | N/A |
 | Phenomenological fit | Partial | Strong | Weak | Framework-dependent |
 | Empirical evidence | Growing, contested | Indirect, consistent | Early stage | Physical part constrained |
 | Falsifiability | Moderate (shrinking space) | Moderate (predictions classically explicable) | Good | Split (physics yes, consciousness no) |
@@ -156,11 +156,11 @@ Rather than proposing a specific neural mechanism, hybrid models combine spontan
 
 Three patterns emerge from the scientific evaluation; a fourth emerges when tenet alignment is considered separately.
 
-**The decoherence divide.** Mechanisms divide sharply into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) sharpens this divide: Zurek's einselection prepares the pointer states that any consciousness mechanism must work with, and proposals operating on the already-decohered mixture avoid the [timing gap](/concepts/timing-gap-problem/) entirely. The [improper/proper mixture distinction](#the-post-decoherence-gap) reinforces this: mechanisms that act on the post-decoherence diagonal density matrix need not maintain fragile quantum coherence — they operate at the gap where physics has prepared the options but not yet selected among them. Mechanisms that sidestep decoherence hold a structural advantage.
+**The decoherence divide.** Mechanisms divide sharply into those requiring sustained coherence (Orch OR in its original formulation) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). The 2025 QBIT extension partially bridges this divide: if spintronic rather than electronic coherence is what matters in microtubules, the decoherence timescales relevant to Orch OR may be substantially more favourable than Tegmark's original estimates suggested. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) sharpens this divide: Zurek's einselection prepares the pointer states that any consciousness mechanism must work with, and proposals operating on the already-decohered mixture avoid the [timing gap](/concepts/timing-gap-problem/) entirely. The [improper/proper mixture distinction](#the-post-decoherence-gap) reinforces this: mechanisms that act on the post-decoherence diagonal density matrix need not maintain fragile quantum coherence — they operate at the gap where physics has prepared the options but not yet selected among them. Mechanisms that sidestep decoherence hold a structural advantage.
 
 **Phenomenology matters.** Theories of consciousness should explain what consciousness is like, not merely where it acts. Stapp's model uniquely predicts the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience. Other proposals explain that consciousness plays a causal role without explaining why that role feels the way it does. A complete theory must eventually address both.
 
-**The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface. The [experimental landscape for distinguishing collapse from decoherence](/topics/testing-consciousness-collapse/) is narrowing this gap — particularly through levitated nanoparticle protocols and IIT-based collapse tests — but no experiment yet targets consciousness specifically.
+**The falsifiability gap.** None of the four mechanisms currently generates predictions that cleanly distinguish it from classical neuroscience. Orch OR's parameter space is shrinking, which is genuinely falsifiable — but the other proposals' confirmed predictions (attention signatures, effort-difficulty correlation) are equally consistent with non-quantum accounts. Fisher's proposal comes closest to unique predictions (lithium isotope effects, Posner molecule detection), though these test the physical substrate rather than the consciousness interface. The [experimental landscape for distinguishing collapse from decoherence](/topics/testing-consciousness-collapse/) is narrowing this gap — particularly through levitated nanoparticle protocols and IIT-based collapse tests — but no experiment yet targets consciousness specifically. Emerging NV-centre diamond quantum sensor technology may change this: its combination of nanoscale spatial and microsecond temporal resolution could provide the first direct in vivo measurements of neural quantum coherence, potentially distinguishing between competing mechanisms empirically rather than theoretically.
 
 **No single mechanism suffices.** Each proposal illuminates different aspects: Stapp explains the phenomenology of effort; Orch OR connects consciousness to spacetime structure; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The Map's agnosticism reflects genuine uncertainty — the full picture may require elements from multiple proposals.
 
@@ -201,6 +201,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 ## References
 
 1. Babcock, N. S., Montes-Cabrera, G., Oberhofer, K. E., Chergui, M., Celardo, G. L., & Kurian, P. (2024). Ultraviolet superradiance from mega-networks of tryptophan in biological architectures. *The Journal of Physical Chemistry B*, 128(17), 4035-4046.
+1. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 1. Chalmers, D. J. & McQueen, K. J. (2021). Consciousness and the collapse of the wave function. In S. Gao (Ed.), *Consciousness and Quantum Mechanics*. Oxford University Press.
 1. Denton, M. C. J., Smith, L. D., Xu, W., Pugsley, J., Toghill, A., & Kattnig, D. R. (2024). Magnetosensitivity of tightly bound radical pairs in cryptochrome is enabled by the quantum Zeno effect. *Nature Communications*, 15, 10823.
 1. Donadi, S., et al. (2021). Underground test of gravity-related wave function collapse. *Nature Physics*, 17, 74-78.
@@ -218,6 +219,7 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 
 <!-- AI REFINEMENT LOG - 2026-03-23
 Changes made:
@@ -242,6 +244,21 @@ Changes made:
 
 Based on research in research/post-decoherence-selection-mechanisms-2026-03-29.md.
 Key improvements: article now frames the four mechanism comparison within the broader post-decoherence selection landscape, making explicit why this comparison matters for Tenet 2.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Updated Orch OR decoherence vulnerability with QBIT spintronic coherence extension (Beshkar 2025)
+- Enhanced Orch OR empirical status with Wiest's anaesthetic selectivity evidence and active inference integration (Wiest & Puniani 2025)
+- Added NV-diamond measurement technology to Orch OR falsifiability and general falsifiability gap discussion
+- Updated comparative summary table (decoherence: "High (moderate with QBIT)")
+- Strengthened decoherence divide discussion with QBIT bridging note
+- Added Beshkar and Wiest & Puniani to References
+
+Based on research in research/quantum-biology-neural-experimental-2026-03-20.md.
+Key improvements: empirical credibility updated with 2025-2026 experimental developments; Tenet 2 alignment strengthened through spintronic coherence and NV-diamond measurement prospects.
 
 This log should be removed after human review.
 -->

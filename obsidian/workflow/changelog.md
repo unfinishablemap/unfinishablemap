@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 19:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/consciousness-in-smeared-quantum-states]], [[topics/comparing-quantum-consciousness-mechanisms]], [[concepts/quantum-biology-and-neural-mechanisms]]
+- **Changes**: Updated three quantum consciousness articles with 2025-2026 experimental evidence from research/quantum-biology-neural-experimental-2026-03-20.md. Added QBIT spintronic coherence, NV-diamond measurement technology, Wiest 2025 review findings, active inference integration, and Mavromatos QED cavities. Strengthened Tenet 2 (Minimal Quantum Interaction) alignment across all articles.
+- **Published**: yes
+
 ## 2026-03-30 18:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/somatic-interface]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-30
-
 ### P2: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1798,6 +1791,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
+- **Type**: refine-draft
+- **Notes**: Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
+- **Output**: Task context:
+Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
 
 ### ✓ 2026-03-30: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
 - **Type**: refine-draft

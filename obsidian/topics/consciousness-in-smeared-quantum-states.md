@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-30T19:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ Chalmers and McQueen propose that superpositions of conscious states are inheren
 
 Penrose and Hameroff offer a fundamentally different causal story. Each quantum superposition contains a moment of "proto-conscious" awareness—something experiential but below the threshold of full consciousness. Full experience emerges only when orchestrated collapse events in neural microtubules weave these proto-conscious moments together.
 
-This reverses the causal direction: collapse *generates* consciousness rather than consciousness causing collapse. The pre-collapse superposition is not empty or purely physical—it carries proto-experiential character as a fundamental property of reality. Penrose ties this to gravitational self-collapse: when a superposition reaches a threshold of gravitational self-energy, objective reduction occurs, producing a moment of proto-awareness. The idea that something experiential pervades all quantum superpositions pushes toward a form of panprotopsychism at the quantum level.
+This reverses the causal direction: collapse *generates* consciousness rather than consciousness causing collapse. The pre-collapse superposition is not empty or purely physical—it carries proto-experiential character as a fundamental property of reality. Penrose ties this to gravitational self-collapse: when a superposition reaches a threshold of gravitational self-energy, objective reduction occurs, producing a moment of proto-awareness. The idea that something experiential pervades all quantum superpositions pushes toward a form of panprotopsychism at the quantum level. Recent experimental work has strengthened the empirical basis for the microtubule substrate Orch OR requires: Wiest (2025) reports that anaesthetics selectively disrupt quantum activities in consciousness-relevant proteins, and a 2025 integration with Friston's active inference framework argues that quantum collapse dynamics naturally account for the discrete, non-overlapping perceptual cycles that classical models struggle to explain.
 
 ### Consciousness Arises at Superposition Formation
 
@@ -84,7 +84,7 @@ This approach takes the definiteness of experience as a non-negotiable constrain
 
 These five frameworks disagree on timing, direction, and mechanism. Yet they converge on a shared conclusion: consciousness and quantum indeterminacy cannot be cleanly separated. Every framework treats the relationship between definite experience and quantum smearing as fundamental rather than accidental.
 
-A sceptic might object that the question is moot: if [[decoherence]] destroys brain superpositions in femtoseconds, there is no meaningful "during" for consciousness to inhabit. Tegmark's calculations suggest decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems — too brief for any cognitive process. But these timescales are contested (Hagan et al. argue for corrections of seven orders of magnitude), and several frameworks here do not require consciousness to operate *within* the superposition window. Chalmers and McQueen need only that high-Φ systems trigger collapse; Stapp's Zeno effect works through rapid repeated measurement rather than sustained coherence. The decoherence objection constrains which frameworks are viable but does not eliminate the question itself.
+A sceptic might object that the question is moot: if [[decoherence]] destroys brain superpositions in femtoseconds, there is no meaningful "during" for consciousness to inhabit. Tegmark's calculations suggest decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems — too brief for any cognitive process. But these timescales are contested (Hagan et al. argue for corrections of seven orders of magnitude), and 2025-2026 developments have further weakened the blanket dismissal. Beshkar's QBIT theory proposes that microtubules function as nanoscale spintronic oscillators—spintronic coherence (based on electron spin rather than charge) is inherently more stable at physiological temperatures, potentially sidestepping Tegmark's original calculation entirely. Wiest's 2025 review in *Neuroscience of Consciousness* synthesises experimental evidence for room-temperature quantum effects in microtubules, including selective disruption by anaesthetics. NV-centre diamond quantum sensors, combining nanoscale spatial resolution with microsecond temporal resolution, may soon provide the definitive in vivo measurements needed to resolve the debate empirically (reviewed in *Journal of Biological Physics*, 2026). Several frameworks here do not require consciousness to operate *within* the superposition window at all. Chalmers and McQueen need only that high-Φ systems trigger collapse; Stapp's Zeno effect works through rapid repeated measurement rather than sustained coherence. The decoherence objection constrains which frameworks are viable but does not eliminate the question itself.
 
 The disagreements cluster around two axes. First, *causal direction*: does consciousness cause collapse (Stapp, Chalmers-McQueen), does collapse cause consciousness (Penrose), or does superposition itself constitute consciousness (Koch)? Second, *the status of superposition for minds*: can consciousness be smeared (Koch, arguably Penrose's proto-consciousness), must it always be definite (Albert-Loewer, Chalmers-McQueen), or is it the definite selector operating on smeared physical states (Stapp)?
 
@@ -98,7 +98,7 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 
 **Dualism**: All five positions treat consciousness as having features not captured by standard physics. Even Koch's hypothesis, which might seem physicalist, requires that superposition formation produces something irreducibly experiential—a claim physics alone cannot ground.
 
-**Minimal Quantum Interaction**: Every framework locates the consciousness-physics interface at the quantum level. Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect without energy injection.
+**Minimal Quantum Interaction**: Every framework locates the consciousness-physics interface at the quantum level. Stapp's model is the most explicit implementation of the Map's tenet: consciousness biases quantum outcomes via the Zeno effect without energy injection. The 2025-2026 experimental acceleration—room-temperature quantum effects in microtubules, spintronic coherence proposals localised to the axon initial segment, and emerging NV-diamond measurement technology—strengthens the empirical precondition: quantum indeterminacy exists at functionally relevant points in neural systems where consciousness could act.
 
 **Bidirectional Interaction**: This tenet most clearly separates the frameworks. Stapp and Chalmers-McQueen support bidirectional interaction—consciousness determines which outcome becomes actual. Penrose reverses the direction, and Koch proposes a third option. The Map holds that the bidirectional models better explain why we can discuss consciousness at all: if experience were merely a product of collapse (Penrose) or of superposition (Koch), it would need a separate account of how experiential content feeds back into physical behaviour. The selection models have this built in.
 
@@ -129,5 +129,21 @@ The Map's [[tenets]] align most naturally with frameworks where consciousness is
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. Koch, C. et al. (2024). Quantum approaches to consciousness—experimental program. Allen Institute for Brain Science / Google Quantum AI.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Beshkar, M. (2025). Consciousness and spintronic coherence in microtubules. *Communicative & Integrative Biology*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Von Neumann, J. (1932/1955). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+1. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Updated decoherence skeptic paragraph with 2025-2026 developments: QBIT spintronic coherence, Wiest 2025 review, NV-diamond sensors
+- Added 2025 experimental support note to Orch OR proto-consciousness section (Wiest anaesthetic selectivity, active inference integration)
+- Strengthened Minimal Quantum Interaction tenet paragraph with 2025-2026 evidence
+- Added Beshkar, Wiest, and Wiest & Puniani to References
+
+Based on research in research/quantum-biology-neural-experimental-2026-03-20.md.
+Key improvements: empirical credibility updated with current experimental status; Tenet 2 alignment strengthened.
+
+This log should be removed after human review.
+-->

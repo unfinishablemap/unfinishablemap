@@ -9,6 +9,27 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 19:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Changes**: Updated three quantum consciousness articles with 2025-2026 experimental evidence from research/quantum-biology-neural-experimental-2026-03-20.md. Added QBIT spintronic coherence, NV-diamond measurement technology, Wiest 2025 review findings, active inference integration, and Mavromatos QED cavities. Strengthened Tenet 2 (Minimal Quantum Interaction) alignment across all articles.
+- **Published**: yes
+
+## 2026-03-30 18:38 UTC - deep-review
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Word count**: 2206 → 2278 (+72)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-30-somatic-interface](/reviews/deep-review-2026-03-30-somatic-interface/)
+
+## 2026-03-30 17:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [evaluative-qualia](/concepts/evaluative-qualia/)
+- **Changes**: Strengthened cross-traditional convergence argument — added evidential framing for why independent convergence matters, drew explicit Wang Yangming/Rawlette parallel, added cross-references between tradition subsections, emphasized specificity of convergence and methodological diversity
+- **Published**: yes
+
 ## 2026-03-30 17:29 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
