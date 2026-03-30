@@ -1,10 +1,10 @@
 ---
 title: "Time-Symmetric Selection Mechanism"
-description: "One of two selection pathways: consciousness selects quantum outcomes atemporally via transactional interpretation and TSVF. Resolves the Libet timing puzzle but carries greater commitments than forward-in-time alternatives."
+description: "Consciousness selects quantum outcomes atemporally via transactional interpretation and TSVF. Dissolves the Libet timing puzzle entirely."
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-23T16:45:00+00:00
+ai_modified: 2026-03-30T01:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,6 @@ concepts:
   - "[[retrocausality]]"
   - "[[collapse-and-time]]"
   - "[[quantum-interpretations]]"
-  - "[[concepts/consciousness-selecting-neural-patterns]]"
   - "[[consciousness-selecting-neural-patterns]]"
   - "[[measurement-problem]]"
   - "[[agent-causation]]"
@@ -25,12 +24,14 @@ related_articles:
   - "[[tenets]]"
   - "[[time-collapse-and-agency]]"
   - "[[presentiment-and-retrocausality]]"
+  - "[[non-retrocausal-conscious-selection-models]]"
+  - "[[growing-block-universe-and-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-07T16:51:00+00:00
+last_deep_review: 2026-03-30T01:44:00+00:00
 ---
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [[atemporal-causation|atemporal constraint satisfaction]]. On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [[libet-experiments|Libet experiments]]: neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
@@ -127,7 +128,7 @@ Critics object that quantum effects cannot survive in warm biological systems—
 
 ## The Modified Growing Block
 
-Time-symmetric physics seems to require eternalism—past and future must both exist to send and receive waves. But the Map's [[collapse-and-time|collapse framework]] requires real temporal becoming. How to reconcile?
+Time-symmetric physics seems to require eternalism—past and future must both exist to send and receive waves. But the Map's [[collapse-and-time|collapse framework]] requires real temporal becoming (see [[growing-block-universe-and-consciousness|growing block universe and consciousness]] and [[consciousness-and-the-ontology-of-temporal-becoming|the ontology of temporal becoming]]). How to reconcile?
 
 The Map proposes a **modified growing block**:
 
@@ -209,11 +210,12 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 ## Further Reading
 
-- [[consciousness-selecting-neural-patterns]] — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
+- [[non-retrocausal-conscious-selection-models]] — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
+- [[consciousness-selecting-neural-patterns]] — The selection mechanism in detail
 - [[retrocausality]] — Physics of backward causation and the Libet resolution
 - [[collapse-and-time]] — How collapse introduces time's arrow
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and conscious agency
-- [[concepts/consciousness-selecting-neural-patterns]] — The selection mechanism in detail
+- [[growing-block-universe-and-consciousness]] — The modified growing block ontology
 - [[quantum-interpretations]] — Survey of interpretations and consciousness implications
 - [[libet-experiments]] — The timing experiments and Schurger's critique
 - [[agent-causation]] — How agents serve as ultimate sources
