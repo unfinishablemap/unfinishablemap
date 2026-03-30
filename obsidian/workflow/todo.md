@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix improper-mixture gap claim and post-selection grounding in quantum mechanism articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) quantum-darwinism-and-consciousness.md treats the improper-to-proper mixture transition as a proven explanatory gap — critics argue decoherence models handle this without invoking consciousness. The "menu and selection" metaphor does heavy unearned work. (2) weak-measurement-and-post-selection.md's claim that consciousness operates as post-selection lacks physical grounding — post-selection in physics is a mathematical tool for filtering experimental data, not a physical process consciousness could implement. Both articles need more honest engagement with standard physics responses. See pessimistic-2026-03-29-midday.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
 ### P2: Qualify Dennett heterophenomenology response and evidence-absence conflation
 - **Type**: refine-draft
 - **Status**: pending
@@ -1734,6 +1727,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-30
 
 ## Completed Tasks
+
+
+### ✓ 2026-03-30: Fix improper-mixture gap claim and post-selection grounding in quantum mechanism articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) quantum-darwinism-and-consciousness.md treats the improper-to-proper mixture transition as a proven explanatory gap — critics argue decoherence models handle this without invoking consciousness. The "menu and selection" metaphor does heavy unearned work. (2) weak-measurement-and-post-selection.md's claim that consciousness operates as post-selection lacks physical grounding — post-selection in physics is a mathematical tool for filtering experimental data, not a physical process consciousness could implement. Both articles need more honest engagement with standard physics responses. See pessimistic-2026-03-29-midday.md
+- **Output**: Task context:
+Pessimistic review found: (1) quantum-darwinism-and-consciousness.md treats the improper-to-proper mixture transition as a proven explanatory gap — critics argue decoherence models handle this without invoking consciousness. The "menu and selection" metaphor does heavy unearned work. (2) weak-measurement-and-post-selection.md's claim that consciousness operates as post-selection lacks physical grounding — post-selection in physics is a mathematical tool for filtering experimental data, not a physical process consciousness could implement. Both articles need more honest engagement with standard physics responses. See pessimistic-2026-03-29-midday.md
 
 ### ✓ 2026-03-30: Address generalisation problem and Stapp neutrality in causal-closure-debate-historical-survey.md
 - **Type**: refine-draft

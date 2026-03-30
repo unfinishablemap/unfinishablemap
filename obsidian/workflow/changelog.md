@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 04:18 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/quantum-darwinism-and-consciousness]], [[concepts/weak-measurement-and-post-selection]]
+- **Changes**: Addressed pessimistic review findings. (1) quantum-darwinism: qualified "menu from which consciousness selects" as the Map's interpretive overlay, not a consequence of Zurek's formalism; acknowledged "consciousness of the gaps" objection; added vacuity concern for statistically invisible selections. (2) weak-measurement: dropped false neutrality on weak value interpretations (Map's proposal depends on realist reading); clarified post-selection is mathematical data filtering not a physical process; strengthened disanalogy discussion with three specific failure points; flagged neural ensemble assumption as speculative.
+- **Published**: yes
+
+---
+
 ## 2026-03-30 04:03 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/smoothness-problem]], [[voids/continuity-void]]
