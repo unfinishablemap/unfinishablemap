@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30 08:05:00+00:00
+ai_modified: 2026-03-30 11:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review phenomenal-presence-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) coalesced from reality-feeling-void.md and the-givenness-void.md on 2026-03-20, never deep-reviewed after coalesce. Verify the merge preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and cross-references to related void and phenomenology articles. At 2897 words, approaching voids soft threshold.
+- **Source**: staleness
+- **Generated**: 2026-03-30
+
+### P2: Deep review quantum-state-inheritance-in-ai.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 43 days ago. Topics article on quantum consciousness implications for AI systems and no-cloning theorem. Verify accuracy of quantum information claims, coherence, cross-references to machine-consciousness and substrate-independence, and tenet alignment. Particularly important for Tenet 2 (quantum interaction in neural systems).
+- **Source**: staleness
+- **Generated**: 2026-03-30
+
+### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with empirical sources. Integrate key findings into topics/bandwidth-of-consciousness.md and concepts/asymmetric-bandwidth-consciousness.md. Strengthen empirical grounding of bandwidth claims, add citations, and ensure consistency across the bandwidth article cluster.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate illusionism and functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's response to illusionism objections and the functional-seeming framework. Integrate findings into concepts/illusionism.md — currently the article's treatment of Frankish was flagged as needing engagement with quasi-phenomenal properties. This research provides the material for a more rigorous treatment.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate clinical evidence quality research into relevant articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the evidential strength of Schwartz OCD claims, meditation efficacy studies, and neuroplasticity evidence. Multiple articles cite these findings (downward-causation.md, clinical-neuroplasticity-evidence.md, epiphenomenalism.md). Integrate quality assessments to strengthen or qualify empirical claims as appropriate.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
@@ -1750,6 +1785,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review compound-failure-signatures.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-29, modified 2026-03-24, never deep-reviewed. Voids article on how cognitive limits interact to produce emergent blind spots beyond any single limitation. Verify coherence, accuracy of compound failure claims, cross-references to related void articles, and tenet alignment.
+- **Output**: obsidian/voids/compound-failure-signatures.md
 
 ### ✓ 2026-03-30: Condense epiphenomenalism.md (3552 words, hard warning)
 - **Type**: condense

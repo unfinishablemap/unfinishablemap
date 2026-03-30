@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 11:59 UTC - deep-review
+- **Status**: Success
+- **File**: [semantic-memory](/concepts/semantic-memory/)
+- **Word count**: 3133 → ~3120 (-13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (tightened cross-reference sentence, removed duplicate wikilink)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-30-semantic-memory](/reviews/deep-review-2026-03-30-semantic-memory/)
+
+## 2026-03-30 11:51 UTC - deep-review
+- **Status**: Success
+- **File**: [compound-failure-signatures](/voids/compound-failure-signatures/)
+- **Word count**: 1871 → 1879 (+8)
+- **Critical issues addressed**: 1 (unverified Plotinus quote)
+- **Medium issues addressed**: 1 (front-loading compound thesis)
+- **Enhancements made**: 2 (opening restructure, attribution fix)
+- **Output**: [deep-review-2026-03-30-compound-failure-signatures](/reviews/deep-review-2026-03-30-compound-failure-signatures/)
+
 ## 2026-03-30 11:29 UTC - condense
 - **Status**: Success
 - **File**: [epiphenomenalism](/concepts/epiphenomenalism/)

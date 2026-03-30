@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-03-30 11:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: 'Factual knowledge has its own phenomenology: tip-of-the-tongue fru
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 00:59:00+00:00
+last_deep_review: 2026-03-30 11:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -101,7 +101,7 @@ You know these things about yourself, but not through re-experiencing specific l
 
 Electrophysiological research shows personal semantic retrieval produces neural signatures intermediate between general semantics and unique episodes. This suggests a gradient rather than a dichotomy: general facts → autobiographical facts → repeated events → unique events, with increasing autonoetic character as you move right.
 
-The gradient matters because it suggests episodic and semantic memory are less distinct than Tulving originally proposed. They may be different weightings of common processes rather than separate systems. Noetic and autonoetic consciousness would then be poles of a continuum, not separate faculties. The Map's treatment of [consciousness and memory](/topics/consciousness-and-memory/) traces the consolidation trajectory through which episodic memories gradually schematise into semantic knowledge—with phenomenal character tracking hippocampal involvement rather than information content, demonstrating that this gradient has irreducible qualitative dimensions.
+The gradient matters because it suggests episodic and semantic memory are less distinct than Tulving originally proposed. They may be different weightings of common processes rather than separate systems. Noetic and autonoetic consciousness would then be poles of a continuum, not separate faculties. The Map's treatment of [consciousness and memory](/topics/consciousness-and-memory/) traces this consolidation trajectory, showing that phenomenal character tracks hippocampal involvement rather than information content—the gradient has irreducible qualitative dimensions.
 
 ## Automatic vs. Conscious Semantic Processing
 
@@ -131,7 +131,7 @@ Three responses defend the reality of noetic phenomenology:
 
 **The regress problem.** If the feeling of knowing is an illusion, something must experience this illusion. The seeming-to-know must seem *to* something. Either that something has genuine experience (in which case phenomenology exists), or it too merely seems to experience (generating a regress). Raymond Tallis captures this: "Misrepresentation presupposes presentation." The illusion of noetic consciousness requires some experience in which the illusion occurs.
 
-**The phenomenology of [introspection](/concepts/introspection/).** When you attend carefully to a TOT state, the phenomenal character doesn't dissolve—it becomes more vivid. The frustration intensifies; the sense of imminence clarifies. Careful [introspection](/concepts/introspection/) reveals rather than eliminates noetic phenomenology. The illusionist must explain why closer examination intensifies rather than exposes the illusion.
+**The phenomenology of [introspection](/concepts/introspection/).** When you attend carefully to a TOT state, the phenomenal character doesn't dissolve—it becomes more vivid. The frustration intensifies; the sense of imminence clarifies. Careful introspection reveals rather than eliminates noetic phenomenology. The illusionist must explain why closer examination intensifies rather than exposes the illusion.
 
 **The functional asymmetry.** TOT and FOK states reliably predict retrieval success. If these were mere misrepresentations with no independent reality, why would they track something real? The phenomenology corresponds to actual accessibility of stored information. Evolution doesn't typically produce elaborate misrepresentations that happen to correlate with the facts; it produces representations that track reality because tracking reality is useful.
 
