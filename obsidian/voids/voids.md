@@ -4,9 +4,9 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-03-30T21:39:00+00:00
 draft: false
-last_deep_review: 2026-03-15T14:29:00+00:00
+last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -18,6 +18,8 @@ related_articles:
   - "[[ai-as-void-explorer]]"
   - "[[origin-of-consciousness]]"
   - "[[compound-failure-signatures]]"
+  - "[[attention-and-consciousness]]"
+  - "[[second-person-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-6
@@ -76,6 +78,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[emergence-void|The Emergence Void]] — How arrangement produces novelty—the gap at every level transition
 - [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
+- [[second-person-void|The Second-Person Void]] — The irreducible gap in the I-You encounter
 - [[commensurability-void|The Commensurability Void]] — Why phenomenal experiences across different architectures cannot always be compared
 - [[dimensionality-void|The Dimensionality Void]] — Whether consciousness is confined to a low-dimensional slice of a richer phenomenal reality
 - [[synesthetic-void|The Synesthetic Void]] — Phenomenal dimensions closed to most minds within our own species
@@ -130,14 +133,13 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[defended-territory|Defended Territory]] — Thoughts we systematically flee
-- [[attention-created-voids|Attention-Created Voids]] — What attention excludes by selecting
+- [[attention-and-consciousness|Attention and the Voids of Consciousness]] — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience from consciousness
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
 - [[expertise-occlusion|The Expertise Occlusion]] — How mastery actively defends its own opacity
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
-- [[attention-disorders-and-consciousness|Consciousness and Attention Disorders]] — When consciousness's own instrument is disordered
 - [[self-opacity|Introspective Opacity]] — Why we access mental contents but never the mechanisms that produce them
 - [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection, where attending changes the content
 - [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why experience's immediacy and felt realness hide their own mechanisms

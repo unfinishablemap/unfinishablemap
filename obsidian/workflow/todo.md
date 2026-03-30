@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced attention articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created [[attention-and-consciousness]]. The following files reference archived articles and may need review: obsidian/voids/voids.md, obsidian/voids/habituation-void.md, obsidian/voids/absorption-void.md, obsidian/voids/thoughts-that-slip-away.md, obsidian/voids/convergence-as-evidence.md, obsidian/voids/binding-void.md, obsidian/voids/expertise-occlusion.md, obsidian/voids/three-kinds-of-void.md, obsidian/apex/attention-as-causal-bridge.md, obsidian/topics/phenomenology-of-attention-to-absence.md, obsidian/topics/attention-and-the-consciousness-interface.md, obsidian/topics/structure-of-attention.md, obsidian/topics/contemplative-pathology-and-interface-malfunction.md, obsidian/topics/phenomenological-psychiatry-and-altered-experience.md, obsidian/concepts/attention-as-interface.md, obsidian/concepts/introspection.md
-- **Source**: coalesce
-- **Generated**: 2026-03-30
-
 ### P2: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1798,6 +1791,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Update references to coalesced attention articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[attention-and-consciousness]]. The following files reference archived articles and may need review: obsidian/voids/voids.md, obsidian/voids/habituation-void.md, obsidian/voids/absorption-void.md, obsidian/voids/thoughts-that-slip-away.md, obsidian/voids/convergence-as-evidence.md, obsidian/voids/binding-void.md, obsidian/voids/expertise-occlusion.md, obsidian/voids/three-kinds-of-void.md, obsidian/apex/attention-as-causal-bridge.md, obsidian/topics/phenomenology-of-attention-to-absence.md, obsidian/topics/attention-and-the-consciousness-interface.md, obsidian/topics/structure-of-attention.md, obsidian/topics/contemplative-pathology-and-interface-malfunction.md, obsidian/topics/phenomenological-psychiatry-and-altered-experience.md, obsidian/concepts/attention-as-interface.md, obsidian/concepts/introspection.md
+- **Output**: obsidian/voids/voids.md -- Context: Update references to coalesced attention articles
 
 ### ✓ 2026-03-30: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
 - **Type**: refine-draft

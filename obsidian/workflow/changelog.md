@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 21:39 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids]]
+- **Word count**: 1989 → 2000 (+11)
+- **Critical issues addressed**: 1 (archived wikilinks from coalesced attention articles)
+- **Medium issues addressed**: 1 (two unlisted articles)
+- **Enhancements made**: 3 (replaced archived links, added second-person-void, updated related_articles)
+- **Output**: [[reviews/deep-review-2026-03-30-voids]]
+
 ## 2026-03-30 20:38 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[attention-created-voids]], [[attention-disorders-and-consciousness]]
