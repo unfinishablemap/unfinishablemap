@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30T04:48:00+00:00
+ai_modified: 2026-03-30T08:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate clinical evidence quality findings into clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md contains updated evidence quality analysis for Schwartz OCD, meditation, and neuroplasticity claims. Integrate relevant findings—strengthen citations, qualify overstated claims, update evidence status where research identifies issues. Directly supports Tenet 3 (Bidirectional Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate illusionism functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's functional-seeming response in detail. Current illusionism.md may not fully engage with this sophisticated materialist position. Integrate key distinctions (quasi-phenomenal properties, representing vs experiencing) to strengthen the Map's response.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate phenomenological method research into methodology articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/phenomenological-method-evidence-standards-2026-03-19.md covers evidence standards for phenomenological claims. Integrate findings into relevant methodology articles (phenomenological-evidence, methodology-of-consciousness-research) to strengthen the Map's epistemological foundations.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate consciousness-collapse-prediction-landscape.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (differential-predictions-consciousness-collapse, testing-consciousness-collapse, consciousness-collapse-experimental-landscape) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-30
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (amplification-mechanisms, contextual-selection-in-quantum-processes, neural-correlates-of-consciousness) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-30
+
+### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, phenomenological-evidence, first-person-methodology) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-30
+
+### P2: Condense epiphenomenalism.md (3552 words, hard warning)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments against epiphenomenalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-30
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
