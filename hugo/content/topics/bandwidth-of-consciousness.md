@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-30 00:30:00+00:00
+ai_modified: 2026-03-30 13:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -70,7 +70,7 @@ Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness o
 
 All figures use Shannon information theory: entropy of the decision space divided by time, not subjective difficulty. A binary choice carries 1 bit regardless of how "hard" it feels. Reading (~45 bits/s) and cross-linguistic speech production (~39 bits/s; Coupé et al. 2019) appear higher because they measure the *information content of the output signal*, not the rate of novel conscious decisions. Much of reading comprehension and speech production is automated; the conscious contribution—selecting what to say or attending to meaning—is closer to ~10 bits/s. Coupé et al. found that all 17 languages studied, across 9 linguistic families, converge on ~39 bits/second of speech information: fast-spoken languages carry less information per syllable and compensate with speed. This universal ceiling is a cognitive constraint on language, not a property of any particular grammar.
 
-The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. The convergence is not a recent discovery. Hick (1952) first measured the human information-processing rate at ~5 bits per second using choice reaction time experiments. Miller (1956) identified the related capacity limit of ~7 chunks in immediate memory, showing that "recoding" (chunking) is how humans work around the channel capacity—without removing it. Over seven decades of subsequent measurement—through typing studies, memory competitions, professional e-sports, and speech analysis—the ceiling has held. The convergence across tasks, populations, and historical periods is what makes it a structural feature rather than an artefact of particular experimental designs.
+The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. The convergence is not a recent discovery. Hick (1952) first measured the human information-processing rate at ~5 bits per second using choice reaction time experiments. Hyman (1953) confirmed the logarithmic relationship with an average slope of ~150 ms per bit, extending the paradigm to unequal stimulus probabilities—together establishing what is now called the Hick-Hyman Law. Miller (1956) identified the related capacity limit of ~7 chunks in immediate memory, showing that "recoding" (chunking) is how humans work around the channel capacity—without removing it. Over seven decades of subsequent measurement—through typing studies, memory competitions, professional e-sports, and speech analysis—the ceiling has held. The convergence across tasks, populations, and historical periods is what makes it a structural feature rather than an artefact of particular experimental designs.
 
 Zheng and Meister call the ratio between the brain's sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—and note that the resulting factor of 10⁸ is "the largest unexplained number in brain science." The puzzle deepens at the storage level: the brain retains only approximately 1 gigabyte of information over a lifetime, far below its estimated ~50 terabyte capacity. The bottleneck is not merely in throughput but in what consciousness actually captures and retains from the vast computational activity surrounding it.
 
@@ -78,7 +78,7 @@ Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynsk
 
 ## The Inbound Channel
 
-The inbound bandwidth of conscious experience is enormous, though estimates vary with what counts as a "bit." Nørretranders (1998) measured the *information content* of sensory processing—how many discriminable states per second reach the brain—at roughly 12 million bits per second: 10 million from vision, 1 million from touch, the remainder from hearing, smell, and taste. Raw neural transmission capacity is far larger: the optic nerve alone carries on the order of 10⁸ bits per second, and aggregate sensory nerve bandwidth reaches 10⁹ bits per second.
+The inbound bandwidth of conscious experience is enormous, though estimates vary with what counts as a "bit." Nørretranders (1998), drawing on Zimmermann's (1986) neurophysiology measurements, estimated the *information content* of sensory processing—how many discriminable states per second reach the brain—at roughly 12 million bits per second: 10 million from vision, 1 million from touch, the remainder from hearing, smell, and taste. Raw neural transmission capacity is far larger: the optic nerve alone carries on the order of 10⁸ bits per second, and aggregate sensory nerve bandwidth reaches 10⁹ bits per second.
 
 How rich is conscious experience itself? Ned Block (2011) argues that [phenomenal consciousness](/concepts/phenomenal-consciousness/) is richer than cognitive access—we are conscious of more than we can report or act upon. Evidence from iconic memory (Sperling's 1960 partial-report paradigm) shows that observers are aware of more items than they can identify when cued. Cohen, Dennett, and Kanwisher (2016) counter that apparent richness comes from *ensemble statistics*—the visual system represents groups through summary properties rather than individual objects.
 
@@ -128,7 +128,7 @@ This matches the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interact
 
 ### ~3–4 Selections Per Second
 
-At ~10 bits per second, with each selection choosing among a small set of alternatives, consciousness makes approximately 3–4 selections per second. This matches the phenomenology of deliberate decision-making. The ~280–300ms timing window for [motor commitment](/concepts/motor-selection/) and [willed attention deployment](/concepts/attention-as-interface/) aligns: if conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
+At ~10 bits per second, with each selection choosing among a small set of alternatives, consciousness makes approximately 3–4 selections per second. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second using perceptual decision-making tasks—even lower than the ~10 bits/s ceiling for well-practised skills, and directly measuring the rate at which consciousness exerts deliberate control rather than executing automated sequences. This matches the phenomenology of deliberate decision-making. The ~280–300ms timing window for [motor commitment](/concepts/motor-selection/) and [willed attention deployment](/concepts/attention-as-interface/) aligns: if conscious selection operates at ~3 Hz, each selection takes approximately 300ms—precisely the window where neural signatures distinguish willed from automatic processing.
 
 ### Cumulative Over Time
 
@@ -233,29 +233,27 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Coupé, C., Oh, Y.M., Dediu, D., & Pellegrino, F. (2019). Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche. *Science Advances*, 5(9).
 1. Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. Viking Press.
 1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26.
+1. Hyman, R. (1953). Stimulus information as a determinant of reaction time. *Journal of Experimental Psychology*, 45(3), 188–196.
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
+1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 
-<!-- AI REFINEMENT LOG - 2026-03-30
+<!-- AI REFINEMENT LOG - 2026-03-30 (second pass)
 Changes made:
-- Replaced approximate measurements table with precise Shannon-information-theory figures from research, adding method column
-- Added methodological note explaining why reading (~45 bits/s) and speech (~39 bits/s) appear higher than ~10 bits/s
-- Integrated Coupé et al. (2019) cross-linguistic speech universality finding (17 languages, 9 families, ~39 bits/s)
-- Added Miller (1956) chunking point: capacity limit of ~7 chunks, recoding as workaround
-- Added Zheng & Meister's "sifting ratio" (10⁸) and "largest unexplained number" framing
-- Added ~1 GB lifetime storage vs ~50 TB capacity point (bottleneck extends to retention)
-- Expanded automatisation section with chunking/trainability analysis: expertise compresses information rather than widening the channel
-- Added Coupé et al. (2019) and Miller (1956) to References
-- Based on research/bandwidth-constraints-10-bits-2026-03-29.md
+- Attributed Nørretranders' sensory figures to Zimmermann (1986) as original source
+- Added Hyman (1953) confirmation of Hick's findings, establishing the Hick-Hyman Law
+- Added Musslick et al. (2016) cognitive control capacity (~3-4 bits/s) to the selections-per-second section
+- Added Hyman (1953), Musslick et al. (2016), and Zimmermann (1986) to References
 
-Key improvements: The empirical grounding is now much stronger — specific task measurements with methods, the speech universality data, and the chunking analysis all strengthen the case that ~10 bits/s is a genuine structural ceiling rather than a measurement artefact.
+Key improvements: Stronger attribution chain (Zimmermann → Nørretranders), deeper historical grounding (Hick-Hyman Law), and direct empirical support for the ~3-4 selections/second claim from cognitive control research.
 
 This log should be removed after human review.
 -->

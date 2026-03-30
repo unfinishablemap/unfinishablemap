@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-30
-**Article**: [Loss of Consciousness and the Mind-Brain Relationship](/topics/loss-of-consciousness/)
+**Article**: [Loss of Consciousness and the Mind-Brain Relationship](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 **Previous review**: [2026-03-08](/reviews/deep-review-2026-03-08-loss-of-consciousness/)
 
 ## Pessimistic Analysis Summary

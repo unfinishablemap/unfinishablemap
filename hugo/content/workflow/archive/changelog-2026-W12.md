@@ -3935,7 +3935,7 @@ topics: []
 
 ## 2026-03-19 12:18 UTC - deep-review
 - **Status**: Success
-- **File**: [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- **File**: [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - **Word count**: 2295 → 2369 (+74)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (grammar fix, epistemological clarification, cross-link)

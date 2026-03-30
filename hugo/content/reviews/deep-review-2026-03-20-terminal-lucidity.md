@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - Mancuso (2023) reference #9 was orphaned (never cited in text): Resolution — added in-text citation in the philosophical significance section
 - "Parnia suggests oxygen deprivation triggers heightened brain activity" was uncited and unsourced: Resolution — removed the specific unsourced claim; the materialist account remains substantive without it
-- "Up to 25% of behaviourally unresponsive patients" — specific statistic unsourced in this article: Resolution — softened to "a significant proportion" and added wikilink to [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) where the evidence is detailed
+- "Up to 25% of behaviourally unresponsive patients" — specific statistic unsourced in this article: Resolution — softened to "a significant proportion" and added wikilink to [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) where the evidence is detailed
 - Hemispherectomy claim lacked source link: Resolution — added wikilink to [mind-brain-separation](/concepts/mind-brain-separation/) which covers this evidence
 
 ### Counterarguments Considered
@@ -49,13 +49,13 @@ topics: []
 
 ### Enhancements Made
 - Added Murray-Pinker 2025 debate — significant cultural milestone from research notes, showing terminal lucidity entering mainstream intellectual discourse
-- Added wikilinks to convergent evidence bullet points ([disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/), [mind-brain-separation](/concepts/mind-brain-separation/))
+- Added wikilinks to convergent evidence bullet points ([disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/), [mind-brain-separation](/concepts/mind-brain-separation/))
 - Removed unsourced Parnia claim to strengthen factual rigour
 - Softened unsourced "25%" statistic
 - Cited orphaned Mancuso (2023) reference in text
 
 ### Cross-links Added
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) (convergent evidence section)
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) (convergent evidence section)
 - [mind-brain-separation](/concepts/mind-brain-separation/) (convergent evidence section)
 
 ## Remaining Items

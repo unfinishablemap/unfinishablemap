@@ -53,7 +53,7 @@ topics: []
 - [near-death-experiences](/concepts/near-death-experiences/) — Fixed misdirected wikilink in Terminal Lucidity section (death-and-consciousness → death-phenomenology-beyond-ndes)
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Added to Further Reading
 - [filter-theory](/concepts/filter-theory/) — Added to Further Reading
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Added to Further Reading
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Added to Further Reading
 - [death-void](/voids/death-void/) — Added to Further Reading
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Added to Further Reading
 

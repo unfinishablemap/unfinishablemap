@@ -279,7 +279,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 ## Relation to Existing Site Content
 
 The Map already has substantial coverage of related topics:
-- **[loss-of-consciousness](/topics/loss-of-consciousness/)**: Covers anesthesia, coma, disorders of consciousness
+- **[loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)**: Covers anesthesia, coma, disorders of consciousness
 - **[sleep-and-consciousness](/concepts/sleep-and-consciousness/)**: Covers sleep stages, dreaming, offline processing
 - **[dream-consciousness](/topics/dream-consciousness/)**: Covers REM, lucid dreaming, dream phenomenology
 - **[meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)**: Covers meditation states, witness consciousness

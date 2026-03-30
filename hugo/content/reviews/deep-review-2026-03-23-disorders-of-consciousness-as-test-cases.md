@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [Disorders of Consciousness as Test Cases](/topics/disorders-of-consciousness-as-test-cases/)
+**Article**: [Disorders of Consciousness as Test Cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-disorders-of-consciousness-as-test-cases/)
 
 ## Pessimistic Analysis Summary
@@ -46,8 +46,8 @@ No new counterarguments needed. All six adversarial personas confirmed philosoph
 - Added inbound cross-link from `neurological-dissociations-as-interface-architecture` (Further Reading)
 
 ### Cross-links Added
-- Inbound: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) → [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
-- Inbound: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) → [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- Inbound: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) → [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- Inbound: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) → [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 
 ## Remaining Items
 

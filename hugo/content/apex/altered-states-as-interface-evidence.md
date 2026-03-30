@@ -185,7 +185,7 @@ This synthesis draws on:
 - [Dream Consciousness](/topics/dream-consciousness/)
 - [Meditation and Consciousness Modes](/concepts/meditation-and-consciousness-modes/)
 - [Coupling Modes](/concepts/coupling-modes/)
-- [Loss of Consciousness and the Mind-Brain Relationship](/topics/loss-of-consciousness/)
+- [Loss of Consciousness and the Mind-Brain Relationship](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - [Hypnagogic Phenomenology and Interface Modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
 - [Anaesthesia and the Consciousness Interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/)

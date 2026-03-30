@@ -87,7 +87,7 @@ Terminal lucidity gains evidential weight when considered alongside other phenom
 
 - **[Near-death experiences](/concepts/near-death-experiences/)**: Enhanced consciousness during cardiac arrest, when the brain is severely compromised
 - **[Psychedelic states](/topics/psychedelics-and-the-filter-model/)**: Decreased brain activity (measured by fMRI) accompanied by expanded, more vivid conscious experience
-- **[Covert consciousness](/topics/disorders-of-consciousness-as-test-cases/)**: A significant proportion of behaviourally unresponsive patients retain awareness detectable only via neuroimaging
+- **[Covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)**: A significant proportion of behaviourally unresponsive patients retain awareness detectable only via neuroimaging
 - **[Hemispherectomy](/concepts/mind-brain-separation/)**: Patients with an entire hemisphere removed retain substantially normal consciousness
 
 Each phenomenon, considered alone, admits materialist explanation. Taken together, they form a pattern: consciousness sometimes persists or intensifies when the brain is damaged, disrupted, or suppressed. Filter theory provides a unified interpretation of this pattern; production models must explain each case with a different mechanism.
@@ -112,7 +112,7 @@ The evidence base for terminal lucidity, while growing, has significant limitati
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity with expanded consciousness
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for brain-consciousness relations
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Covert consciousness and the interface distinction
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Covert consciousness and the interface distinction
 
 ## References
 

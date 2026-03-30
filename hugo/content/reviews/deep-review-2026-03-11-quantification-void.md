@@ -48,7 +48,7 @@ topics: []
 - Tenet connections are specific and well-argued, particularly the dualism-predicts-the-void argument
 
 ### Enhancements Made
-- Added 6 cross-links to existing Map content: [integrated-information-theory](/concepts/integrated-information-theory/), [psychophysical-laws](/concepts/psychophysical-laws/), [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), plus frontmatter entries
+- Added 6 cross-links to existing Map content: [integrated-information-theory](/concepts/integrated-information-theory/), [psychophysical-laws](/concepts/psychophysical-laws/), [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/), [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), plus frontmatter entries
 - Corrected factual claims (Aaronson example, Michel date, PCI sensitivity)
 - Removed misattribution to Feigl; strengthened the passage by making the philosophical point independently
 - Added 3 missing references (Aaronson, Casali et al., Michel)
@@ -56,7 +56,7 @@ topics: []
 ### Cross-links Added
 - [integrated-information-theory](/concepts/integrated-information-theory/)
 - [psychophysical-laws](/concepts/psychophysical-laws/)
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 
 ## Remaining Items

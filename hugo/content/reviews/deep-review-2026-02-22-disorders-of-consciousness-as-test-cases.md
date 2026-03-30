@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Disorders of Consciousness as Test Cases](/topics/disorders-of-consciousness-as-test-cases/)
+**Article**: [Disorders of Consciousness as Test Cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 **Previous review**: [2026-02-15](/reviews/deep-review-2026-02-15-disorders-of-consciousness-as-test-cases/)
 
 ## Pessimistic Analysis Summary
@@ -45,7 +45,7 @@ No new counterarguments needed—all were addressed in the previous review. Bedr
 ### Enhancements Made
 - Added 2 outbound cross-links to parallel test case articles (pain-asymbolia, split-brain)
 - Added 7 inbound cross-references from related articles to resolve orphan status:
-  - [loss-of-consciousness](/topics/loss-of-consciousness/) (CMD section)
+  - [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) (CMD section)
   - [filter-theory](/concepts/filter-theory/) (covert consciousness section)
   - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) (filter theory section)
   - [pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/) (opening comparison of dissociations)

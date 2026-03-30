@@ -69,7 +69,7 @@ topics: []
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Further Reading
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Further Reading
 - [witness-consciousness](/concepts/witness-consciousness/) — Further Reading
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Further Reading
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Further Reading
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Further Reading
 
 ## Remaining Items

@@ -60,7 +60,7 @@ Inbound links to this apex article were added from:
 - [personal-identity](/topics/personal-identity/) — Further Reading section
 - [death-and-consciousness](/topics/death-and-consciousness/) — Further Reading section
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Further Reading section
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Further Reading section
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Further Reading section
 - [haecceity](/concepts/haecceity/) — Further Reading section
 - [filter-theory](/concepts/filter-theory/) — Further Reading section
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Further Reading section

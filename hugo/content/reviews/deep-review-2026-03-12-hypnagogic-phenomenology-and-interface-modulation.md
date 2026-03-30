@@ -69,7 +69,7 @@ topics: []
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) (Further Reading + inline)
 - [witness-consciousness](/concepts/witness-consciousness/) (Further Reading)
 - [filter-theory](/concepts/filter-theory/) (Further Reading + inline subsection)
-- [loss-of-consciousness](/topics/loss-of-consciousness/) (Further Reading + inline)
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) (Further Reading + inline)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (Further Reading + inline)
 
 ## Remaining Items

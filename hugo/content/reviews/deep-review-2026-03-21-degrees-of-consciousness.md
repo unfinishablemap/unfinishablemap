@@ -60,8 +60,8 @@ Primary focus: orphan integration via cross-referencing.
 1. [minimal-consciousness](/concepts/minimal-consciousness/) — linked "degrees" in Threshold Problem section + added to Further Reading
 2. [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — linked "graded rather than binary" in opening + added to Further Reading
 3. [integrated-information-theory](/concepts/integrated-information-theory/) — linked "graduated rather than threshold-based" in Panpsychism section + added to Further Reading
-4. [loss-of-consciousness](/topics/loss-of-consciousness/) — linked "graded reduction" in Memory Systems section + added to Further Reading
-5. [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — linked "spectrum" in Clinical Spectrum section + added to Further Reading
+4. [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — linked "graded reduction" in Memory Systems section + added to Further Reading
+5. [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — linked "spectrum" in Clinical Spectrum section + added to Further Reading
 6. [filter-theory](/concepts/filter-theory/) — added sentence connecting degrees to filter theory in Huxley section + added to Further Reading
 
 **Medium priority — Further Reading only:**

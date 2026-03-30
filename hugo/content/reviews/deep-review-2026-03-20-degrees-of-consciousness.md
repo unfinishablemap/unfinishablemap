@@ -28,7 +28,7 @@ None. The article is factually accurate, internally consistent, and well-structu
 ### Medium Issues Found
 - **Missing tenet connection**: The "No Many Worlds" tenet was absent from the Relation to Site Perspective section. All other articles connect to all five tenets where relevant. Resolution: Added a paragraph explaining how degrees of consciousness become physically consequential under collapse interpretations but irrelevant under many-worlds.
 - **Psychedelics claim imprecision**: The "Emergence vs. Interface" section described psychedelic effects as "reduced measurable neural organisation" without specifying which measures. Resolution: Clarified to "reduced default mode network connectivity and increased neural entropy" and softened "inversions" to "dissociations" for accuracy.
-- **Missing body cross-link**: `[loss-of-consciousness](/topics/loss-of-consciousness/)` appeared in frontmatter topics but was never linked in the article body. Resolution: Added contextual link in the anaesthesia subsection.
+- **Missing body cross-link**: `[loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)` appeared in frontmatter topics but was never linked in the article body. Resolution: Added contextual link in the anaesthesia subsection.
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Gradation is equally compatible with physicalist production models — more complex neural processing could simply produce richer experience. The article addresses this in "Emergence vs. Interface" by noting dissociations between neural complexity and experiential intensity (psychedelics, meditation). This is a genuine philosophical argument, not a critical flaw.
@@ -62,7 +62,7 @@ None. The article is factually accurate, internally consistent, and well-structu
 - Added loss-of-consciousness cross-link in anaesthesia section
 
 ### Cross-links Added
-- [loss-of-consciousness](/topics/loss-of-consciousness/) (body link added)
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) (body link added)
 
 ## Remaining Items
 

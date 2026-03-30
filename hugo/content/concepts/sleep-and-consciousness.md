@@ -161,7 +161,7 @@ The Map's interpretation would face difficulty if:
 ## Further Reading
 
 - [dream-consciousness](/topics/dream-consciousness/) — The phenomenology and philosophy of dream experience
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — How unconsciousness illuminates mind-brain relationships
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How unconsciousness illuminates mind-brain relationships
 - [episodic-memory](/concepts/episodic-memory/) — Memory systems affected by sleep consolidation
 - [binding-problem](/concepts/binding-problem/) — How distributed processing becomes unified experience
 - [attention-as-interface](/concepts/attention-as-interface/) — The proposed mechanism for consciousness-brain interaction

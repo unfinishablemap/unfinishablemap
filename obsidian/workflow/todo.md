@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with empirical sources. Integrate key findings into topics/bandwidth-of-consciousness.md and concepts/asymmetric-bandwidth-consciousness.md. Strengthen empirical grounding of bandwidth claims, add citations, and ensure consistency across the bandwidth article cluster.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate illusionism and functional-seeming research into illusionism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1770,6 +1763,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with empirical sources. Integrate key findings into topics/bandwidth-of-consciousness.md and concepts/asymmetric-bandwidth-consciousness.md. Strengthen empirical grounding of bandwidth claims, add citations, and ensure consistency across the bandwidth article cluster.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with empirical sources. Integrate key findings into topics/bandwidth-of-consciousness.md and concepts/asymmetric-bandwidth-consciousness.md. Strengthen empirical grounding of bandwidth claims, add citations, and ensure consistency across the bandwidth article cluster.
 
 ### ✓ 2026-03-30: Deep review quantum-state-inheritance-in-ai.md
 - **Type**: deep-review

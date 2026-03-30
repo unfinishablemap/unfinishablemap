@@ -104,7 +104,7 @@ Advanced meditation produces cessation events—voluntary states with full loss 
 
 ### Covert Consciousness
 
-Up to 25% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging (Claassen et al. 2019; Owen et al. 2006)—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior. Consciousness persists; only its interface with motor systems is damaged. This is precisely what filter theory predicts: damage the interface, not the consciousness. The [full spectrum of disorders of consciousness](/topics/disorders-of-consciousness-as-test-cases/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
+Up to 25% of patients classified as behaviorally unresponsive show clear signs of consciousness via neuroimaging (Claassen et al. 2019; Owen et al. 2006)—understanding language, following instructions, sustaining attention—but cannot express any of this through behavior. Consciousness persists; only its interface with motor systems is damaged. This is precisely what filter theory predicts: damage the interface, not the consciousness. The [full spectrum of disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) tests this prediction against functionalist, IIT, GNWT, and higher-order alternatives.
 
 ### Dreams
 

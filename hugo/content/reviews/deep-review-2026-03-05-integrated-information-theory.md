@@ -54,7 +54,7 @@ topics: []
 - Added disorders-of-consciousness to Further Reading
 
 ### Cross-links Added
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) (Further Reading)
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) (Further Reading)
 
 ## Remaining Items
 

@@ -31,7 +31,7 @@ topics: []
   - [near-death-experiences](/concepts/near-death-experiences/) — fixed misdirected wikilink in Terminal Lucidity section
   - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Further Reading
   - [filter-theory](/concepts/filter-theory/) — Further Reading
-  - [loss-of-consciousness](/topics/loss-of-consciousness/) — Further Reading
+  - [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Further Reading
   - [death-void](/voids/death-void/) — Further Reading
   - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Further Reading
 - All 6 articles also link to [death-and-consciousness](/topics/death-and-consciousness/) (the superseding article), ensuring both the archive URL and the live article are reachable.

@@ -129,7 +129,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Tenet alignment**: Tests Minimal Quantum Interaction empirically; if classical explanations fail, supports quantum binding
 
 #### Disorders of Consciousness: Ambiguous Cases
-- **Builds on**: [loss-of-consciousness](/topics/loss-of-consciousness/), [minimal-consciousness](/concepts/minimal-consciousness/), [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
+- **Builds on**: [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), [minimal-consciousness](/concepts/minimal-consciousness/), [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
 - **Would address**: How the Map's framework handles minimally conscious state, vegetative state, locked-in syndrome—cases where consciousness presence is uncertain
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tests framework against hard cases; has implications for ethics of consciousness

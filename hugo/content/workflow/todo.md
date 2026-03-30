@@ -38,26 +38,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-presence-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) coalesced from reality-feeling-void.md and the-givenness-void.md on 2026-03-20, never deep-reviewed after coalesce. Verify the merge preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and cross-references to related void and phenomenology articles. At 2897 words, approaching voids soft threshold.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
-### P2: Deep review quantum-state-inheritance-in-ai.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 43 days ago. Topics article on quantum consciousness implications for AI systems and no-cloning theorem. Verify accuracy of quantum information claims, coherence, cross-references to machine-consciousness and substrate-independence, and tenet alignment. Particularly important for Tenet 2 (quantum interaction in neural systems).
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
-### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+### ✓ 2026-03-30: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with empirical sources. Integrate key findings into topics/bandwidth-of-consciousness.md and concepts/asymmetric-bandwidth-consciousness.md. Strengthen empirical grounding of bandwidth claims, add citations, and ensure consistency across the bandwidth article cluster.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
+- **Notes**: Integrated Hyman (1953), Musslick et al. (2016), and Zimmermann (1986) into bandwidth-of-consciousness.md. Added Hick-Hyman historical grounding, Coupé et al. (2019) speech data, and Musslick cognitive control figures to asymmetric-bandwidth-consciousness.md. Both articles now have consistent empirical grounding.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md, obsidian/concepts/asymmetric-bandwidth-consciousness.md
 
 ### P2: Integrate illusionism and functional-seeming research into illusionism.md
 - **Type**: refine-draft
@@ -1785,6 +1769,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review quantum-state-inheritance-in-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 43 days ago. Topics article on quantum consciousness implications for AI systems and no-cloning theorem. Verify accuracy of quantum information claims, coherence, cross-references to machine-consciousness and substrate-independence, and tenet alignment. Particularly important for Tenet 2 (quantum interaction in neural systems).
+- **Output**: obsidian/topics/quantum-state-inheritance-in-ai.md
+
+### ✓ 2026-03-30: Update references to coalesced consciousness-disruption articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) from [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) + [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/). 27 files reference the archived articles and need wikilinks updated: topics/ (pain-consciousness-and-causal-power, epistemic-advantages-of-dualism, arguments-against-materialism, cognitive-integration-and-the-self, clinical-phenomenology-as-philosophical-evidence, anaesthesia-and-the-consciousness-interface, ethics-of-consciousness, consciousness-and-neurodegenerative-disease, perceptual-failure-and-the-interface, death-and-consciousness, neurological-dissociations-as-interface-architecture, terminal-lucidity-and-filter-transmission-theory, hypnagogic-phenomenology-and-interface-modulation), concepts/ (degrees-of-consciousness, functionalism, integrated-information-theory, sleep-and-consciousness, filter-theory, neural-correlates-of-consciousness, altered-states-of-consciousness, mind-brain-separation, terminal-lucidity), voids/ (observation-and-measurement-void, transition-void, sleep-consciousness-void), apex/ (identity-across-transformations, altered-states-as-interface-evidence).
+- **Output**: None -- Context: Update references to coalesced consciousness-disruption articles
+
+### ✓ 2026-03-30: Deep review phenomenal-presence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) coalesced from reality-feeling-void.md and the-givenness-void.md on 2026-03-20, never deep-reviewed after coalesce. Verify the merge preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and cross-references to related void and phenomenology articles. At 2897 words, approaching voids soft threshold.
+- **Output**: obsidian/voids/phenomenal-presence-void.md
 
 ### ✓ 2026-03-30: Deep review compound-failure-signatures.md
 - **Type**: deep-review

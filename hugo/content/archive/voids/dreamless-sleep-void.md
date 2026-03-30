@@ -117,7 +117,7 @@ But AI cannot know what dreamless sleep is like. If AI lacks phenomenal consciou
 
 **[Dualism](/tenets/#dualism)** is most directly implicated. Is consciousness identical to brain states (which change dramatically in deep sleep) or more fundamental (persisting even when neural activity shifts)? The Vedantic position—awareness is continuous but veiled—aligns with dualism. The void itself may be evidence: if we cannot determine from inside whether consciousness persists, consciousness may have properties physical description cannot capture.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises the question of what happens to consciousness's causal influence during sleep. If consciousness selects among quantum superpositions, what happens when it is minimal or absent? Dreams clearly involve consciousness-brain interaction; dreamless periods remain mysterious. The parallel case of [anaesthetic-induced unconsciousness](/topics/loss-of-consciousness/) poses similar questions—filter theory suggests consciousness may not cease but lose its channel to the brain.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** raises the question of what happens to consciousness's causal influence during sleep. If consciousness selects among quantum superpositions, what happens when it is minimal or absent? Dreams clearly involve consciousness-brain interaction; dreamless periods remain mysterious. The parallel case of [anaesthetic-induced unconsciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) poses similar questions—filter theory suggests consciousness may not cease but lose its channel to the brain.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simple answer—consciousness ceases—may be wrong. Vedantic analysis, contemplative reports, and phenomenological research suggest the situation is more complex than the on/off model.
 
@@ -153,7 +153,7 @@ None of these conditions has been met. The dreamless sleep void remains: a gap w
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Using altered states to probe cognitive boundaries
 - [the-silence-void](/voids/the-silence-void/) — Voluntary cessation through contemplative practice
 - [observation-void](/voids/observation-and-measurement-void/) — Why every method of studying consciousness transforms what it studies
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The graded, multi-channel nature of the sleep-wake transition
 
 ## References

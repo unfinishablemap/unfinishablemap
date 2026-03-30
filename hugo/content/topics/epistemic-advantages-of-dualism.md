@@ -77,7 +77,7 @@ If dualism is true, certain risks become visible that materialism renders invisi
 
 **Interventions on consciousness itself.** Technologies that alter brain function—pharmaceuticals, brain-computer interfaces, neural modification—might affect not just behavior but the experiential being who is the subject of that behavior. If consciousness is fundamental, interventions might have implications beyond what functionalist analysis captures.
 
-**The moral status of altered and marginal states.** [Loss of consciousness](/topics/loss-of-consciousness/), split-brain patients, severe cognitive impairment—these edge cases have moral weight that depends on whether consciousness persists beneath behavioral evidence. Materialists who identify consciousness with reportability miss potential moral patients.
+**The moral status of altered and marginal states.** [Loss of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), split-brain patients, severe cognitive impairment—these edge cases have moral weight that depends on whether consciousness persists beneath behavioral evidence. Materialists who identify consciousness with reportability miss potential moral patients.
 
 **Post-mortem concerns.** If mind can exist independently of its physical substrate, even temporarily, then what happens to consciousness at death matters in ways materialists cannot articulate. The possibility of [consciousness persisting](/topics/death-and-consciousness/)—however speculative—changes the ethical calculus around death, dying, and end-of-life decisions.
 

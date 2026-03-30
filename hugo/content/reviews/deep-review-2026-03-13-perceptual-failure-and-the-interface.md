@@ -61,7 +61,7 @@ None.
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
 - [default-mode-network](/concepts/default-mode-network/)
 - [causal-closure](/concepts/causal-closure/)
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
 
 ## Remaining Items

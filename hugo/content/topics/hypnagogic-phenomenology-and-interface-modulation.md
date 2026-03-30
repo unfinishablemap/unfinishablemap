@@ -85,7 +85,7 @@ The graded nature of hypnagogic dissolution constrains theories of consciousness
 
 ### Against Binary Models
 
-Any theory that treats consciousness as simply present or absent cannot account for hypnagogia. The [loss of consciousness](/topics/loss-of-consciousness/) evidence already challenges binary models—propofol and ketamine produce identical behavioural unresponsiveness with radically different phenomenologies. Hypnagogia extends the challenge by showing that even within a single subject, across minutes, consciousness-brain coupling varies continuously along multiple dimensions simultaneously.
+Any theory that treats consciousness as simply present or absent cannot account for hypnagogia. The [loss of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) evidence already challenges binary models—propofol and ketamine produce identical behavioural unresponsiveness with radically different phenomenologies. Hypnagogia extends the challenge by showing that even within a single subject, across minutes, consciousness-brain coupling varies continuously along multiple dimensions simultaneously.
 
 ### For Multi-Channel Interface
 
@@ -137,7 +137,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 
 - [dream-consciousness](/topics/dream-consciousness/) — What happens after hypnagogia: consciousness during REM and NREM sleep
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — The rendering dilemma and capability signatures visible when the interface fully reconfigures into REM
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — The extreme case: interface disruption through anaesthesia, coma, and injury
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — The extreme case: interface disruption through anaesthesia, coma, and injury
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary channel through which consciousness influences neural activity
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as distinct interface mechanisms
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — How the hypnagogic boundary state enhances creative problem-solving

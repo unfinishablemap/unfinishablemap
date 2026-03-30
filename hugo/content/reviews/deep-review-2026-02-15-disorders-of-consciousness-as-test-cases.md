@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Disorders of Consciousness as Test Cases](/topics/disorders-of-consciousness-as-test-cases/)
+**Article**: [Disorders of Consciousness as Test Cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

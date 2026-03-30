@@ -60,7 +60,7 @@ Files updated (62 link replacements across 26 files):
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) (2)
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) (2)
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) (3)
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) (2)
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) (2)
 - [emotional-consciousness](/topics/emotion-and-dualism/) (2)
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) (4)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) (2)

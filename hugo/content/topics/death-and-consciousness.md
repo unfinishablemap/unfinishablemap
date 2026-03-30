@@ -140,7 +140,7 @@ A tension deserves acknowledgement: Buddhist metaphysics is built on *anattā* (
 
 ## Temporary Loss of Consciousness
 
-[Temporary loss of consciousness](/topics/loss-of-consciousness/) provides a natural experiment. Filter theory interprets these cases as disconnection rather than elimination.
+[Temporary loss of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) provides a natural experiment. Filter theory interprets these cases as disconnection rather than elimination.
 
 **The vanishing of time**: Under anesthesia, time vanishes entirely. How does the same subject exist before and after with no connecting experience? Filter theory suggests consciousness loses its temporal anchor when the brain-interface is disrupted. Death might represent permanent disconnection.
 
@@ -209,7 +209,7 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - [witness-consciousness](/concepts/witness-consciousness/) — Consciousness as observer, distinct from contents
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — The broader spectrum of non-ordinary experience
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — What perceptual learning reveals about the brain-consciousness interface
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Temporary disconnection as a natural experiment
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Temporary disconnection as a natural experiment
 - [death-consciousness-persistence-2026-01-14](/research/death-consciousness-persistence-2026-01-14/) — Detailed research notes
 
 ## References

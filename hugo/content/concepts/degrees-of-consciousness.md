@@ -64,7 +64,7 @@ These dimensions can vary independently. Ketamine dissociation involves high phe
 - **Disconnected consciousness** — phenomenal experience persists (dreams, hallucinations) but connection to external stimuli is severed
 - **Unconsciousness** — no reportable experience
 
-Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. Complete [loss of consciousness](/topics/loss-of-consciousness/) under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
+Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. Complete [loss of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
 
 ### Sleep and Dreaming
 
@@ -78,7 +78,7 @@ Cross-species comparison provides the broadest evidence for degrees. If [*C. ele
 
 ### Clinical Disorders
 
-[Disorders of consciousness](/topics/disorders-of-consciousness-as-test-cases/) reveal gradation through clinical dissociation. Cognitive motor dissociation — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
+[Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) reveal gradation through clinical dissociation. Cognitive motor dissociation — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
 
 ## Theoretical Frameworks
 
@@ -128,7 +128,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 - [access-consciousness](/concepts/access-consciousness/) — One dimension along which consciousness varies
 - [filter-theory](/concepts/filter-theory/) — Interface model that explains gradation as transmission variation
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological mapping of consciousness degrees
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Clinical evidence for graded consciousness
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence for graded consciousness
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Degrees across the animal kingdom
 - [blindsight](/concepts/blindsight/) — Dissociation between phenomenal and access dimensions
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Explicit theoretical account of consciousness as graded

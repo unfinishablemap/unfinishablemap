@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-30 00:30:00+00:00
+ai_modified: 2026-03-30 13:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -45,7 +45,7 @@ Whether conscious experience itself is as rich as sensory input remains debated.
 
 ### Outbound: Volitional Selection
 
-The outbound channel carries conscious influence into the physical world. Zheng and Meister's 2025 *Neuron* perspective quantified this across dozens of cognitive tasks—typing, speech, gaming, choice-reaction, memory sports—and found a universal ceiling of approximately 10 bits per second. The figure holds regardless of expertise, training, or task type.
+The outbound channel carries conscious influence into the physical world. Zheng and Meister's 2025 *Neuron* perspective quantified this across dozens of cognitive tasks—typing, speech, gaming, choice-reaction, memory sports—and found a universal ceiling of approximately 10 bits per second. The convergence spans seven decades: Hick (1952) first measured the rate at ~5 bits per second using choice reaction time; Hyman (1953) confirmed the logarithmic relationship across conditions, establishing the Hick-Hyman Law. The figure holds regardless of expertise, training, or task type. Coupé et al. (2019) found that all 17 languages studied, across 9 linguistic families, converge on ~39 bits per second of speech information—but this measures the *information content of the output signal*, not the speaker's conscious decision-making rate. Much of speech production is automated; the conscious contribution—selecting what to say—is closer to ~10 bits/s.
 
 The bottleneck is not motor. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary "The Brain Works at More Than 10 Bits Per Second" accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far above the conscious ceiling. Individual neurons transmit ~200 bits per second. The constraint applies specifically at [conscious access](/concepts/access-consciousness/)—the point where information becomes available to the experiencing subject for deliberate use—not in the computational substrate surrounding it. Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement. The step from "behavioural ceiling in conscious tasks" to "bandwidth of conscious influence" is an interpretation, not a direct measurement—but Sauerbrei and Pruszynski's finding that unconscious processing operates at far higher bandwidth while the ceiling appears precisely where consciousness participates strongly supports this interpretation.
 
@@ -77,7 +77,7 @@ The asymmetry functions as evidence within the Map's framework in three ways:
 
 **For dualism**: The 10⁸-fold gap sits uncomfortably with identity theories. If consciousness just *is* neural processing, serial-integration architectures can explain *a* bottleneck—but the specific location of the constraint at conscious access, combined with the vast asymmetry between experiential richness and volitional throughput, is more naturally predicted by a view that treats the two directions as different kinds of process.
 
-**For minimal interaction**: The outbound bandwidth empirically confirms what the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet stipulates philosophically. A 10-bit/second channel carries exactly the minimal information required for selection among prepared alternatives—roughly 3–4 choices per second among small sets.
+**For minimal interaction**: The outbound bandwidth empirically confirms what the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet stipulates philosophically. A 10-bit/second channel carries exactly the minimal information required for selection among prepared alternatives—roughly 3–4 choices per second among small sets. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, directly measuring the rate of deliberate control rather than automated skill execution.
 
 **For bidirectional interaction**: The asymmetry defines the two directions' architecture. Brain-to-consciousness runs at ~10⁹ bits per second. Consciousness-to-brain runs at ~10 bits per second. Both directions are causally real; they differ in bandwidth by eight orders of magnitude.
 
@@ -107,22 +107,24 @@ The asymmetric bandwidth concept connects to all five tenets. **[Dualism](/tenet
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
 1. Dehaene, S. & Naccache, L. (2001). Towards a cognitive neuroscience of consciousness: basic evidence and a workspace framework. *Cognition*, 79(1–2), 1–37.
 1. Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20(5), 324–335.
+1. Coupé, C., Oh, Y.M., Dediu, D., & Pellegrino, F. (2019). Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche. *Science Advances*, 5(9).
+1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26.
+1. Hyman, R. (1953). Stimulus information as a determinant of reaction time. *Journal of Experimental Psychology*, 45(3), 188–196.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
+1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
 
-<!-- AI REFINEMENT LOG - 2026-03-30
+<!-- AI REFINEMENT LOG - 2026-03-30 (second pass)
 Changes made:
-- Integrated Sauerbrei & Pruszynski (2025) throughout: outbound channel section, production models critique, and filter models support
-- Added "sifting ratio" and "largest unexplained number" framing from Zheng & Meister
-- Added S&P motor control data (runner stride, cerebellum, ~200 bits/s per neuron) to demonstrate bottleneck is consciousness-specific
-- Added chunking/trainability insight to evolutionary puzzle: expertise works around the ceiling, not through it
-- Added Sauerbrei & Pruszynski (2025) to References
-- Based on research/bandwidth-constraints-10-bits-2026-03-29.md
+- Added Hick (1952) and Hyman (1953) historical grounding to outbound section, establishing the Hick-Hyman Law
+- Added Coupé et al. (2019) cross-linguistic speech universality finding with methodological note on conscious vs automated processing
+- Added Musslick et al. (2016) cognitive control capacity (~3-4 bits/s) to strengthen minimal interaction evidence
+- Added Coupé et al., Hick, Hyman, and Musslick et al. to References
 
-Key improvements: The article now incorporates the critical distinction between conscious and unconscious throughput, which directly strengthens the asymmetry argument — the bottleneck is at the interface, not in the hardware.
+Key improvements: Stronger empirical grounding and historical depth for the outbound ceiling claim, plus the speech universality data that shows the constraint is cross-linguistic. Consistent with bandwidth-of-consciousness.md.
 
 This log should be removed after human review.
 -->

@@ -110,7 +110,7 @@ This has implications for the [binding problem](/concepts/binding-problem/). IIT
 
 ### What's Unconscious
 
-IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [Disorders of consciousness](/topics/disorders-of-consciousness-as-test-cases/)—particularly cognitive motor dissociation, where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
+IIT explains why some brain processes are unconscious. The cerebellum, despite having more neurons than the cerebral cortex, has relatively feed-forward architecture—low integration, low phi, no contribution to consciousness. Sleep, anesthesia, and certain brain injuries reduce integration and thus reduce consciousness. [Disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)—particularly cognitive motor dissociation, where behaviourally unresponsive patients retain awareness—create tension for IIT: either these patients retain more integration than expected, or Φ is not the complete story.
 
 ## The Controversy
 
@@ -223,7 +223,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [functionalism](/concepts/functionalism/) — The view IIT rejects with substrate-dependence
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — How disorders of consciousness challenge IIT's predictions
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How disorders of consciousness challenge IIT's predictions
 - [integrated-information-theory-2026-01-07](/research/integrated-information-theory-2026-01-07/) — Detailed research notes
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information cannot be identical to consciousness under dualism
 - [tenets](/tenets/) — the Map's alternative framework

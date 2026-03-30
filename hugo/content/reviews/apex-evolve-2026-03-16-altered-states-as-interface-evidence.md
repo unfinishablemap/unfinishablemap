@@ -26,7 +26,7 @@ Suggested by optimistic review ([optimistic-2026-03-11-late](/reviews/optimistic
 2. [dream-consciousness](/topics/dream-consciousness/) — Dreams as natural experiment, lucid dreaming, problem-solving evidence
 3. [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Active selection vs. passive witnessing, FA/OM distinction
 4. [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as distinct coupling mechanisms
-5. [loss-of-consciousness](/topics/loss-of-consciousness/) — Propofol/ketamine divergence, covert consciousness, filter interpretation
+5. [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Propofol/ketamine divergence, covert consciousness, filter interpretation
 6. [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — Sequential interface disassembly at sleep onset
 7. [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of four interface components
 8. [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Overview of ASCs and filter theory interpretation

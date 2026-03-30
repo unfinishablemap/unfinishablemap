@@ -56,7 +56,7 @@ This review was commissioned specifically for **orphan integration** — the art
 
 3. **[mind-brain-separation](/concepts/mind-brain-separation/)** — Added terminal lucidity reference in the Filter Theory Framework section, citing it as the most dramatic evidence for the filter model.
 
-4. **[disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)** — Added terminal lucidity paragraph in the Interface Reading section, positioning it as the most extreme form of the consciousness-persistence pattern. Also added to Further Reading.
+4. **[disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)** — Added terminal lucidity paragraph in the Interface Reading section, positioning it as the most extreme form of the consciousness-persistence pattern. Also added to Further Reading.
 
 5. **[arguments-against-materialism](/topics/arguments-against-materialism/)** — Added empirical evidence paragraph after the cumulative philosophical case, citing terminal lucidity alongside psychedelics, NDEs, and covert consciousness as convergent empirical support.
 

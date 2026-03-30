@@ -90,7 +90,7 @@ If consciousness could split like physical matter, haecceity would face a proble
 
 ## The Temporal Gap: Loss and Return of Consciousness
 
-[Loss of consciousness](/topics/loss-of-consciousness/) under anesthesia poses a different challenge. Time doesn't merely pass quickly—it vanishes entirely. A six-hour surgery feels identical to a six-minute procedure: nothing. The experiencing subject seems to disappear, then reappear.
+[Loss of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) under anesthesia poses a different challenge. Time doesn't merely pass quickly—it vanishes entirely. A six-hour surgery feels identical to a six-minute procedure: nothing. The experiencing subject seems to disappear, then reappear.
 
 Where do you go when time stops?
 
@@ -176,7 +176,7 @@ This synthesis draws from:
 - [Split-Brain Cases and Consciousness Unity](/topics/split-brain-consciousness/) — Empirical evidence on unity's resilience
 - [Indexical Identity and Quantum Measurement](/topics/indexical-identity-quantum-measurement/) — The connection to fundamental physics
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/) — Transformation without loss of subject
-- [Loss of Consciousness and the Mind-Brain Relationship](/topics/loss-of-consciousness/) — Temporal gaps and identity persistence
+- [Loss of Consciousness and the Mind-Brain Relationship](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Temporal gaps and identity persistence
 
 ## References
 

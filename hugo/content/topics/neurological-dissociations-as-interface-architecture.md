@@ -192,7 +192,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — What attention pathology reveals and the broader attention-consciousness relationship
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture these dissociations map
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How clinical disruptions as a class generate doubly grounded philosophical evidence
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
 - [curated-mind](/topics/curated-mind/) — The brain's pervasive curation of experience across vision, body, memory, and self-model
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Body-level interface considerations
 

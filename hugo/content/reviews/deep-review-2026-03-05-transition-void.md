@@ -49,7 +49,7 @@ topics: []
 - Added cross-link to [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) in attention shifts example
 - Added cross-link to [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) in flow states example
 - Added cross-link to [temporal-consciousness](/concepts/temporal-consciousness/) in Husserl section
-- Added cross-link to [loss-of-consciousness](/topics/loss-of-consciousness/) in sleep onset example
+- Added cross-link to [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) in sleep onset example
 - Added Dennett divergence paragraph in Retroactive Narration section
 - Expanded Further Reading with 4 additional entries
 - Expanded related_articles with 4 additional connections
@@ -61,7 +61,7 @@ topics: []
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — Added transition-void note on invisible flow entry/exit
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — Added transition-void as generalisation of attention departure invisibility
 - [dreamless-sleep-void](/voids/sleep-consciousness-void/) — Added transition-void as full treatment of the transition problem
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Added transition-void reference in contemplative evidence section
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Added transition-void reference in contemplative evidence section
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Added transition-void connection to temporal smoothing discussion
 
 ## Remaining Items

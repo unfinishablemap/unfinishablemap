@@ -126,7 +126,7 @@ The "folk error" accusation receives careful treatment: "cognitive naturalness d
 - **Tenet alignment**: Addresses the "why would evolution produce non-physical minds?" objection; strengthens Bidirectional Interaction
 
 #### Near-Death Experiences: What They Tell Us (and Don't Tell Us)
-- **Builds on**: [death-and-consciousness](/topics/death-and-consciousness/), [loss-of-consciousness](/topics/loss-of-consciousness/), existing NDE references in hard-problem-of-consciousness.md
+- **Builds on**: [death-and-consciousness](/topics/death-and-consciousness/), [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), existing NDE references in hard-problem-of-consciousness.md
 - **Would address**: The phenomenological data from NDEs—enhanced clarity during compromised brain function—as evidence against production models of consciousness. Also the methodological challenges: retrospective reporting, oxygen deprivation, lack of precise timing
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports filter/interface model over production model; connects to Bidirectional Interaction

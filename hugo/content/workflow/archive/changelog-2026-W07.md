@@ -157,7 +157,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 15:32 UTC - deep-review
 - **Status**: Success
-- **File**: [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- **File**: [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - **Word count**: 2082 → 2270 (+188)
 - **Critical issues addressed**: 5 (COGITATE mischaracterization, incorrect CMD statistic, broken link, wrong first author, frontmatter misclassification)
 - **Medium issues addressed**: 3 (functionalism strawman, hemispherectomy strawman, CMD/dualism overstatement)
@@ -1549,7 +1549,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-11 17:19 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Disorders of consciousness as test cases
-- **Output**: [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- **Output**: [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - **Word count**: 2082
 - **Based on research**: yes, [loss-of-consciousness-mind-brain-2026-01-15](/research/loss-of-consciousness-mind-brain-2026-01-15/)
 

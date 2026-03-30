@@ -98,7 +98,7 @@ Brain complexity measures show continuous, graded changes under propofol — not
 
 The ketamine case poses a specific challenge to integrated information theory (IIT). Under ketamine, brain complexity measured by PCI remains at waking levels yet consciousness is disconnected from the environment. Filter theory accommodates this naturally: integration capacity remains intact because consciousness still engages through the interface, but access channels have been pharmacologically blocked.
 
-The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023), with ~40% of patients showing near-normal brain activity during CPR (Parnia et al., 2023), are neurobiological paradoxes for production theory. Filter theory predicts these naturally: reduced filtering allows more consciousness through. [Psychedelic states](/topics/loss-of-consciousness/), where default-mode network disruption correlates with expanded experience, add further support.
+The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023), with ~40% of patients showing near-normal brain activity during CPR (Parnia et al., 2023), are neurobiological paradoxes for production theory. Filter theory predicts these naturally: reduced filtering allows more consciousness through. [Psychedelic states](/topics/consciousness-disruption-and-the-mind-brain-interface/), where default-mode network disruption correlates with expanded experience, add further support.
 
 The pharmacological specificity documented here also bears on [experimental design for consciousness-collapse testing](/topics/testing-consciousness-collapse/): different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need.
 
@@ -160,8 +160,8 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 
 ## Further Reading
 
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Vegetative states, CMD, and locked-in syndrome as parallel cases of consciousness-behaviour dissociation
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Broader treatment of consciousness loss including coma, sleep, and covert consciousness
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states, CMD, and locked-in syndrome as parallel cases of consciousness-behaviour dissociation
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Broader treatment of consciousness loss including coma, sleep, and covert consciousness
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain: candidates and constraints
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Parallel case: interface disruption from the consciousness side rather than pharmacological

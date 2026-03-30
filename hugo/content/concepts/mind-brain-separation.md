@@ -131,8 +131,8 @@ The mind-brain separation framework would face serious difficulty if:
 - [binding-problem](/concepts/binding-problem/) — Why neural mechanisms fail to explain phenomenal unity
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Why phenomenal unity resists neural explanation
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Dissociation evidence from severed corpus callosum
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Clinical conditions testing mind-brain models
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia, covert consciousness, and the interface interpretation
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical conditions testing mind-brain models
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Anesthesia, covert consciousness, and the interface interpretation
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework this analysis supports
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't establish production

@@ -156,7 +156,7 @@ This dissociation between minimal and narrative integration suggests they are di
 
 ### Dreamless Sleep and Anesthesia
 
-[Loss of consciousness](/topics/loss-of-consciousness/) during deep sleep or anesthesia disrupts integration entirely—or appears to. When you wake, you experience temporal continuity despite the gap. The self "picks up where it left off" after the disruption.
+[Loss of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) during deep sleep or anesthesia disrupts integration entirely—or appears to. When you wake, you experience temporal continuity despite the gap. The self "picks up where it left off" after the disruption.
 
 How is this possible if consciousness vanishes? One possibility: integration is not continuous but retrospective. Consciousness does not literally persist during the gap; rather, upon waking, it integrates the pre-sleep and post-sleep experiences into a continuous narrative. The experienced continuity is constructed, not lived through.
 

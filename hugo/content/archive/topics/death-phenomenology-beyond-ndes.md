@@ -146,7 +146,7 @@ The Map's interpretation would face difficulty if:
 - [near-death-experiences](/concepts/near-death-experiences/) — Detailed treatment of NDE research and evidence
 - [death-void](/voids/death-void/) — The structural impossibility of conceiving nonexistence
 - [filter-theory](/concepts/filter-theory/) — The transmission model that unifies these phenomena
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Temporary disconnection as a natural experiment
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Temporary disconnection as a natural experiment
 - [witness-consciousness](/concepts/witness-consciousness/) — Consciousness as observer, distinct from contents
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — The broader spectrum of non-ordinary experience
 

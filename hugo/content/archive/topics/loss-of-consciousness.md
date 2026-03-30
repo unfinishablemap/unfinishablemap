@@ -1,0 +1,232 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-01-15
+ai_modified: 2026-03-30 04:56:00+00:00
+ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Consciousness Disruption and the Mind-Brain Interface
+archived: true
+archived_date: 2026-03-30 12:30:00+00:00
+author: null
+concepts:
+- '[[neural-correlates-of-consciousness]]'
+- '[[qualia]]'
+- '[[interactionist-dualism]]'
+- '[[concepts/epiphenomenalism]]'
+- '[[episodic-memory]]'
+- '[[implicit-memory]]'
+- '[[anoetic-noetic-autonoetic-consciousness]]'
+- '[[sleep-and-consciousness]]'
+- '[[binding-problem]]'
+- '[[altered-states-of-consciousness]]'
+- '[[illusionism]]'
+- '[[decoherence]]'
+- '[[witness-consciousness]]'
+- '[[introspection]]'
+- '[[haecceity]]'
+created: 2026-01-15
+date: &id001 2026-01-18
+description: 'Anesthesia and coma don''t prove brains produce consciousness. Filter
+  theory: the brain interfaces with consciousness rather than generating it.'
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-03-30 04:56:00+00:00
+modified: *id001
+original_path: /topics/loss-of-consciousness/
+related_articles:
+- '[[tenets]]'
+- '[[near-death-experiences]]'
+- '[[filter-theory]]'
+- '[[hypnagogic-phenomenology-and-interface-modulation]]'
+superseded_by: /topics/consciousness-disruption-and-the-mind-brain-interface/
+title: Loss of Consciousness and the Mind-Brain Relationship
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[death-and-consciousness]]'
+---
+
+Loss of consciousness—through anesthesia, coma, or brain injury—provides a natural experiment for understanding the mind-brain relationship. Materialists argue that consciousness disappearing when brain function is disrupted proves consciousness is produced by the brain. But this argument conflates correlation with causation. The filter or transmission theory, developed by William James, Henri Bergson, and Aldous Huxley, interprets the same evidence differently: brain dysfunction disrupts the *interface* through which consciousness operates, not the consciousness itself. Several findings support this alternative interpretation: behaviorally unresponsive patients who retain awareness detectable only via neuroimaging, radically different conscious states from anesthetics that produce identical behavioral unresponsiveness, and consciousness persisting despite massive neural loss from hemispherectomy.
+
+Loss of consciousness belongs within the broader spectrum of [altered states of consciousness](/concepts/altered-states-of-consciousness/). While ASCs like psychedelics and meditation *reconfigure* the brain-consciousness interface—loosening constraints or redirecting attention—loss-of-consciousness states represent the extreme where the interface becomes severely disrupted or partially closed. The filter theory unifies both: psychedelics open the filter wider, anesthesia narrows or blocks it, and sleep voluntarily disengages specific channels. Each reveals something about the interface's configurable nature rather than supporting simple production models.
+
+## The Materialist Argument
+
+The standard materialist argument from loss of consciousness runs as follows:
+
+1. Brain damage produces specific consciousness deficits
+2. Anesthetics targeting neural receptors abolish consciousness
+3. Neural correlates predict conscious states
+4. Therefore, consciousness is produced by neural activity
+
+This reasoning has intuitive appeal. If consciousness were independent of the brain, why would it vanish so predictably when brain function is disrupted?
+
+Yet the argument commits a logical error. Correlation—even tight, reliable correlation—does not establish production. Consider an analogy: a radio that falls silent when its circuitry is damaged hasn't proven that the circuitry *produces* the broadcast. The damage could equally disrupt the radio's ability to *receive* a signal that exists independently.
+
+Analogies have limits, and this one is no exception. Radios are designed artifacts with known transmission sources; brains are not. The analogy cannot by itself establish that consciousness has an external source—it can only demonstrate that the materialist inference from correlation to production is not logically compulsory. The actual case for a non-productive relationship must come from evidence, not from the analogy's suggestiveness. The sections that follow present that evidence.
+
+## The Filter Theory Alternative
+
+At the close of the nineteenth century, several philosophers and psychologists dissented from growing physiological reductionism. William James proposed a "transmissive function" model for the brain, contrasting it with the assumed "productive function." His analogy of a prism illustrates the distinction: a broken prism fails to refract white light into colors—but this failure doesn't prove the prism *produces* colors. The prism has a transmissive function; it reveals rather than generates.
+
+Henri Bergson argued that the brain selects and transmits only action-relevant information from a larger field of consciousness. Memory, for Bergson, is not stored in the brain but activated through it when needed for action. The brain's role is eliminative—filtering out what is unnecessary for survival—rather than productive.
+
+Aldous Huxley synthesized these ideas in his "reducing valve" metaphor. Each person, Huxley suggested, is capable of perceiving far more than ordinary consciousness allows. The brain and nervous system function primarily to protect us from being overwhelmed by this "Mind at Large," reducing infinite consciousness to the trickle useful for biological survival.
+
+This framework predicts exactly what we observe: brain dysfunction disrupts consciousness not by destroying its source but by damaging the interface through which it operates.
+
+## Anesthesia: Different Drugs, Different Realities
+
+Comparing different anesthetic drugs reveals a dissociation that production models struggle to accommodate. Propofol and ketamine both produce behavioral unresponsiveness—patients cannot move, speak, or respond to commands. To an external observer, they appear equivalently unconscious.
+
+Yet the subjective realities differ radically.
+
+Propofol produces near-total extinction of consciousness. Patients report nothing—no dreams, no experiences, no sense of time passing. Brain complexity under propofol decreases by an order of magnitude (Mashour, 2024). The posterior cortical hot zone essentially goes silent.
+
+Ketamine, by contrast, produces "dissociative anesthesia" with vivid dreams, complex hallucinations, and out-of-body experiences. Brain dynamics under ketamine remain similar to waking consciousness. Patients emerge with elaborate narratives of journeys, encounters, and transformations.
+
+This divergence creates a specific problem for production models, independent of any analogy. If neural activity produces consciousness, then the relationship between neural states and conscious states should be straightforward: similar neural disruption should yield similar conscious outcomes. Instead, two drugs that both abolish behavioral responsiveness produce opposite phenomenologies—one extinguishing experience, the other intensifying it. The materialist can respond that propofol and ketamine affect different neural circuits, and this is true. But this response concedes the central point: behavioral unresponsiveness is not a reliable indicator of conscious absence. The relationship between neural states and consciousness is not the simple production relationship the materialist argument from anesthesia assumes.
+
+The concession matters. If consciousness can be present during apparent unconsciousness (ketamine) and absent during neural activity sufficient for some processing (propofol still permits some brainstem function), then the tight production link—neural activity generates consciousness, no activity means no consciousness—is broken. What remains is a more complex relationship where neural configurations modulate conscious states without straightforwardly producing them.
+
+## Sleep: The Evolved Consciousness Reduction
+
+[Sleep](/concepts/sleep-and-consciousness/) presents a distinct category of consciousness loss—neither pathological like coma nor pharmacological like anesthesia. Sleep evolved as an adaptive mechanism, and its relationship to consciousness illuminates what the brain-consciousness interface requires. See [sleep-and-consciousness](/concepts/sleep-and-consciousness/) for detailed analysis.
+
+Sleep and anesthesia differ profoundly despite both producing behavioral unresponsiveness. Anesthesia fragments the brain's dynamic integration more thoroughly—the integration-segregation balance is better preserved during sleep. For the filter theory, sleep is like closing a door (mechanism intact); anesthesia is like breaking the hinges.
+
+Unlike anesthesia's near-total extinction, [sleep consciousness varies continuously](/concepts/sleep-and-consciousness/#gradations-of-sleep-consciousness). Dreaming correlates with reduced slow-wave activity in the posterior cortical "hot zone." Two individuals in identical NREM Stage 3 may differ radically: one experiences nothing, the other vivid dreams. The materialist dichotomy—asleep means unconscious—is false.
+
+Sleep reveals *why* consciousness might functionally withdraw. Memory consolidation requires parallel replay and cross-memory linking that the consciousness bottleneck would impede. Consciousness withdraws not as failure but as functional adaptation. In anesthesia, the interface is chemically disrupted; in coma, pathologically damaged; in sleep, it *voluntarily disengages*.
+
+The [binding problem](/concepts/binding-problem/) takes a different form during sleep: computational binding (neural integration) proceeds without phenomenal binding (unified experience). This dissociation supports the Map's distinction between brain processes and consciousness—binding is a neural operation, but phenomenal unity is something additional.
+
+## Covert Consciousness: Awareness Without Expression
+
+The discovery of cognitive motor dissociation (CMD) further complicates the materialist picture. Up to 25% of patients classified as behaviorally unresponsive—those who fail all clinical tests for awareness—show clear signs of consciousness when tested via neuroimaging. They understand language, follow instructions ("imagine playing tennis"), remember tasks, and sustain attention.
+
+These patients are not unconscious. They are *disconnected*—aware but unable to express that awareness through behavior. The neural pathways linking consciousness to motor output are damaged, while consciousness itself persists.
+
+This finding independently undermines the materialist argument from loss of consciousness. The argument's logic runs: brain disruption abolishes consciousness, therefore the brain produces consciousness. But CMD demonstrates that apparent abolition of consciousness is frequently misdiagnosed—the consciousness was there all along, invisible to behavioral assessment. If 25% of "unconscious" patients retain awareness, the evidential base for the production argument is systematically contaminated. We cannot trust that cases counted as "consciousness abolished" actually involve absent consciousness.
+
+CMD also reveals something about the architecture of the brain-consciousness relationship. In CMD patients, consciousness persists with full experiential richness—patients understand language, follow instructions, form memories, sustain attention—while motor output is severed. Consciousness continues to *do* things at the experiential level even when it cannot act on the body. This dissociation between conscious function and behavioral expression is difficult to reconcile with simple production: if consciousness were an output of neural processing, severing the output pathways should not leave the supposed product intact and fully operational. See [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) for how the full spectrum of disorders of consciousness—vegetative state, minimally conscious state, locked-in syndrome, and CMD—discriminates between competing theories.
+
+## Memory Systems and Loss of Consciousness
+
+Different memory systems show strikingly different vulnerabilities to consciousness disruption. See [episodic-memory](/concepts/episodic-memory/), [implicit-memory](/concepts/implicit-memory/), and [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) for detailed treatments.
+
+[Episodic memory](/concepts/episodic-memory/) is exquisitely sensitive—anesthesia reliably produces anterograde amnesia. Existing memories remain accessible after recovery; the anesthetic only prevented new encoding. [Implicit memory](/concepts/implicit-memory/) shows remarkable resilience: patients under adequate anesthesia can still form conditioned associations and learn motor patterns without explicit awareness.
+
+The pattern follows Tulving's consciousness hierarchy:
+
+- **Autonoetic consciousness** (episodic): Most vulnerable
+- **Noetic consciousness** (semantic): Intermediate
+- **Anoetic consciousness** (implicit): Most preserved
+
+If consciousness were simply produced by neural activity, we'd expect uniform loss. Instead, we observe layered degradation—[graded reduction](/concepts/degrees-of-consciousness/) across separable dimensions, exactly what the filter theory predicts when an interface with multiple channels is partially blocked. The interface has different vulnerability thresholds at different levels.
+
+## The Vanishing of Time
+
+Under general anesthesia, time doesn't merely pass quickly—it vanishes entirely. Patients report no sense of duration at all. A six-hour surgery and a six-minute procedure feel identical: nothing. This differs qualitatively from sleep, where [consciousness gradations](/concepts/sleep-and-consciousness/#gradations-of-sleep-consciousness) mean that some rudimentary sense of duration often persists—particularly during NREM dreaming or REM states. The seven hours of a typical night feel like *something*, even if compressed and fragmentary.
+
+Where does the experiencing subject go when time stops? Materialists argue that the neural processes generating temporal experience have ceased. But this faces the problem of discontinuity: how does the same experiential subject exist before and after a temporal gap with no connecting experience?
+
+The filter theory offers an alternative. When the brain-interface is disrupted, consciousness loses its temporal anchor within physical time. The subject doesn't cease to exist but becomes unable to interface with the temporal dimension through the brain's processing. Upon reconnection, continuity of subject resumes even without continuity of temporal experience.
+
+## Brain Damage: Disconnection Rather Than Destruction
+
+Modern disconnection neuroscience supports reading brain damage as communication disruption rather than faculty destruction. Norman Geschwind's framework revolutionized neurology by demonstrating that higher cognitive functions result from associative connections between brain regions, not isolated modules. Damage to white matter tracts—the connections—often produces more severe deficits than damage to cortical regions themselves.
+
+Hemispherectomy provides the most dramatic evidence. Patients who have had an entire hemisphere surgically removed—half their cortex, half their cerebellum—retain consciousness despite significant neurological deficits including hemiparesis and visual field cuts. They have personalities, memories, emotional lives, and self-awareness. Some maintain employment and family relationships despite their impairments.
+
+If consciousness were straightforwardly produced by cortical activity, removing half the cortex should halve consciousness or eliminate it entirely. Instead, consciousness adapts, reorganizes, and persists. This makes sense if the brain provides an interface rather than a generator—damage the interface, and consciousness finds alternative pathways; destroy the generator, and consciousness should disappear proportionally.
+
+## The Active Reboot
+
+One intriguing finding concerns how consciousness returns after anesthesia. Recovery is not simply the reverse of induction. As drugs clear from the system, the brain appears to actively "reboot" consciousness through specific mechanisms including KCC2 downregulation, rather than passively waiting for pharmacological effects to dissipate.
+
+This suggests the brain *prepares* for consciousness rather than *producing* it—as if neural structures orient themselves to receive something that comes from elsewhere. The pattern is compatible with interactionist dualism: consciousness influences which neural configurations become active, and neural configurations prepare to receive conscious input.
+
+## The Illusionist Challenge
+
+[Illusionists](/concepts/illusionism/) argue that the "experiencing subject" is a model the brain maintains rather than a genuine entity—anesthesia doesn't eliminate consciousness but disrupts the brain's self-model. See [illusionism](/concepts/illusionism/) for the full debate.
+
+This objection faces the regress problem: if the appearance of consciousness is an illusion, something must experience that illusion. Patients don't report "my self-model was suspended" but "I experienced nothing"—the complete disappearance of the experiencing subject, the very thing illusionism claims doesn't exist.
+
+The propofol/ketamine divergence poses a specific challenge. Both drugs disrupt self-modelling, yet produce radically different phenomenologies. If the self is purely a model, why would two forms of disruption yield experiential extinction versus vivid journeys? Whatever distinguishes propofol's extinction from ketamine's preservation is precisely what filter theory identifies as the consciousness-brain interface.
+
+## Contemplative Evidence
+
+Experienced meditators report maintaining [witness awareness](/concepts/witness-consciousness/) through sleep onset ("yoga nidra")—the witnessing awareness persists while contents fade. The [transition-void](/voids/transition-void/) examines this contemplative evidence in detail, arguing that the awareness maintained may itself constitute a modified state rather than genuine observation of the natural transition. The [hypnagogic phenomenology](/topics/hypnagogic-phenomenology-and-interface-modulation/) of this transition reveals a graded loosening of interface constraint—not a binary switch but a progressive relaxation where bizarre imagery and loose associations emerge before consciousness narrows into NREM. This parallels the filter theory: the interface narrows during sleep, reducing transmitted content, but underlying consciousness remains.
+
+Advanced practitioners report cessation states (*nirodha-samapatti*) phenomenologically distinct from anesthesia—profound peace rather than nothing, with controlled entry and exit. Voluntary cessation differs qualitatively from pharmacological cessation: meditation progressively closes the interface by choice; anesthesia chemically disrupts it.
+
+[Buddhist philosophy](/concepts/buddhism-and-dualism/) denies any permanent self (*anatman*) while acknowledging the phenomenal reality of experiential arising. From this perspective, anesthesia doesn't eliminate a self but interrupts the dependent arising of conscious moments. This framing neither confirms nor refutes filter theory—Buddhism's process view is compatible with consciousness having a non-physical ground, but doesn't require it.
+
+## What Would Challenge This View?
+
+The filter theory interpretation of loss of consciousness could be falsified or seriously challenged by:
+
+1. **Demonstration that propofol eliminates the neural correlates of consciousness entirely while ketamine preserves them.** If the different phenomenologies of these drugs tracked simple presence/absence of the same neural process, the interface interpretation would lose explanatory advantage.
+
+2. **Patients who experience nothing under ketamine.** If ketamine routinely produced propofol-like experiential extinction in some patients, the drug-specific interface interpretation would require revision.
+
+3. **Neural production theory explaining the propofol/ketamine divergence without consciousness-brain interface.** If materialists provided a complete account of why identical behavioral unresponsiveness correlates with radically different phenomenologies, the filter theory's explanatory advantage would diminish.
+
+4. **Evidence that witness consciousness during sleep transitions is illusory.** If careful phenomenological investigation revealed that yoga nidra reports are confabulations or distorted memories, the contemplative evidence for consciousness persisting during reduced neural activity would weaken.
+
+5. **Complete physical account of the active reboot mechanism.** If the brain's preparation for consciousness return were fully explained in terms of neural processes with no remaining explanatory gap, the suggestion that neural structures "orient themselves to receive" something from elsewhere would lose support.
+
+## Relation to Site Perspective
+
+The Map's [tenets](/tenets/) converge on loss of consciousness as a domain where the dualist-interactionist framework provides explanatory advantages that materialist accounts lack.
+
+**[Dualism](/tenets/#dualism)**: Three independent lines of evidence from loss-of-consciousness research support dualism. First, the propofol/ketamine divergence shows that identical behavioral unresponsiveness correlates with radically different phenomenologies—extinction versus vivid experience—which is difficult to explain if neural states straightforwardly produce conscious states. Second, CMD patients retain full conscious function (language comprehension, task following, memory formation) despite severed motor output, demonstrating that consciousness operates with a degree of independence from the neural systems it supposedly depends on. Third, hemispherectomy patients retain consciousness despite losing half their cortex, suggesting consciousness is far more resilient than a production model predicts. The filter theory provides a framework that accommodates all three findings: brain states configure an interface rather than generating consciousness. But the evidential force of each finding stands independently of the filter metaphor.
+
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The active reboot mechanism suggests the brain prepares to *receive* consciousness rather than generate it. This is consistent with quantum-level interface mechanisms: as anesthetic effects dissipate, the brain reestablishes the quantum-coherent states necessary for consciousness to influence neural patterns. The [decoherence](/concepts/decoherence/) objection notes that quantum coherence is difficult to maintain in warm biological systems. But loss-of-consciousness evidence doesn't require sustained coherence—it requires only that the brain provide appropriate conditions for consciousness-quantum interaction when functional. Anesthesia disrupts these conditions; recovery reestablishes them.
+
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot mechanism, the propofol/ketamine divergence, and covert consciousness all suggest that consciousness has causal powers distinct from brain processes. These findings are difficult to reconcile with [epiphenomenalism](/concepts/epiphenomenalism/)—if consciousness were merely along for the ride, why would different drugs produce different conscious states with identical behavioral outputs? The covert consciousness finding (25% CMD) is especially significant: consciousness persists with full causal efficacy at the experiential level (patients understand language, follow instructions, form memories) even when motor output pathways are severed. The experience continues to *do* something even when it cannot act on the body.
+
+**[No Many Worlds](/tenets/#no-many-worlds)**: The temporal gap of anesthesia raises the [indexical identity question](/concepts/haecceity/): why does the same *I* exist before and after the experiential discontinuity? Many-worlds would interpret anesthesia as branching events without genuine experiential gaps—all branches continue with conscious observers. But patients' reports of genuine experiential absence (under propofol) suggest that some branches genuinely lack conscious experience. The same indexical subject returns after anesthesia—not merely a similar observer in a related branch. This favors collapse interpretations where consciousness genuinely ceases and resumes rather than branching interpretations where all outcomes are equally realized.
+
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The materialist argument assumes that "brain produces consciousness" is simpler than "brain filters consciousness." But this judgment of simplicity may reflect ignorance. Production models must explain why identical behavioral outputs (propofol and ketamine) correlate with radically different phenomenologies. Filter models explain this naturally: different drugs affect different interface parameters, transmitting different aspects of consciousness. Until materialists close this explanatory gap, parsimony arguments carry limited weight. The hard problem remains: no neural account explains *why* there is something it is like. Loss of consciousness evidence doesn't solve the hard problem—but it constrains which accounts remain viable.
+
+## Further Reading
+
+- [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: how indexical identity persists through anesthesia, split-brain, altered states, and death
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How different anaesthetic agents map the structured, multi-layered consciousness interface
+- [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Loss of consciousness as part of the broader ASC spectrum
+- [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- [near-death-experiences](/concepts/near-death-experiences/)
+- [interactionist-dualism](/concepts/interactionist-dualism/)
+- [death-and-consciousness](/topics/death-and-consciousness/)
+- [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — The evolved mechanism of consciousness reduction and its distinct neural dynamics
+- [episodic-memory](/concepts/episodic-memory/) — Autobiographical memory and its vulnerability to consciousness disruption
+- [implicit-memory](/concepts/implicit-memory/) — Procedural memory and anoetic consciousness that persists through altered states
+- [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The form of consciousness required for episodic encoding
+- [binding-problem](/concepts/binding-problem/) — How binding operates differently during sleep versus waking
+- [illusionism](/concepts/illusionism/) — The strongest physicalist challenge and why it fails to explain loss of consciousness
+- [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
+- [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence for awareness persisting through reduced neural activity
+- [decoherence](/concepts/decoherence/) — Quantum challenges to the interface hypothesis and why they don't defeat it
+- [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The graded interface transition at sleep onset
+- [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies along multiple dimensions — the gradation loss-of-consciousness research reveals
+- [haecceity](/concepts/haecceity/) — The indexical identity problem posed by temporal gaps in experience
+- [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
+- [dream-consciousness](/topics/dream-consciousness/) — Dream states as contrast case: consciousness persists during sleep with distinct phenomenal modes and cognitive contributions
+- [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Terminal lucidity as strongest single-phenomenon case for filter/transmission theory despite severe brain damage
+- [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — Blindsight, anosognosia, and alien hand syndrome mapping the functional anatomy of the mind-brain channel
+- [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Dissociative disorders as evidence that connectivity disruption supports dualist interface architecture
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity producing expanded consciousness as pharmacological evidence for filter theory
+
+## References
+
+1. Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*.
+2. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*.
+3. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*.
+4. Bergson, H. (1896). *Matter and Memory*.
+5. Huxley, A. (1954). *The Doors of Perception*.
+6. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*.
+7. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+8. Tallis, R. (2016). Why Illusionism Is Not the Solution to the Hard Problem of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 182-192.
+9. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+10. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

@@ -42,7 +42,7 @@ The transition void is primarily **occluded** within the Map's [voids](/voids/) 
 
 ## The Incompatibility Thesis
 
-The paradigm case is falling asleep — a transition explored from a different angle in [the Map's treatment of consciousness loss](/topics/loss-of-consciousness/). To observe the moment of sleep onset, you must maintain the controlled, reflective attention characteristic of waking consciousness. But maintaining that attention *is* what it means to remain awake. The transition requires releasing the very faculty needed to witness it. Maeda's phenomenological analysis identifies the paradox precisely: the "tension of consciousness" must loosen from higher to lower degrees, but this loosening cannot itself be conscious, because consciousness requires the tension it is losing.
+The paradigm case is falling asleep — a transition explored from a different angle in [the Map's treatment of consciousness loss](/topics/consciousness-disruption-and-the-mind-brain-interface/). To observe the moment of sleep onset, you must maintain the controlled, reflective attention characteristic of waking consciousness. But maintaining that attention *is* what it means to remain awake. The transition requires releasing the very faculty needed to witness it. Maeda's phenomenological analysis identifies the paradox precisely: the "tension of consciousness" must loosen from higher to lower degrees, but this loosening cannot itself be conscious, because consciousness requires the tension it is losing.
 
 This incompatibility generalises beyond sleep:
 
@@ -127,7 +127,7 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-structure of attention shifts, where departure is never witnessed
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's retention-protention structure and why temporal smoothing conceals transitions
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow entry and exit as paradigm cases of unobserved transition
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Sleep onset, anesthesia, and the transition problem from a different angle
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Sleep onset, anesthesia, and the transition problem from a different angle
 
 ## References
 

@@ -9,6 +9,46 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 13:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Changes**: Added Hyman (1953) Hick-Hyman Law, Musslick et al. (2016) cognitive control capacity (~3-4 bits/s), Zimmermann (1986) attribution for sensory figures, Coupé et al. (2019) speech universality data. Ensured consistency across bandwidth article cluster.
+- **Published**: yes
+
+## 2026-03-30 12:59 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Word count**: 2286 → 2302 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (fixed vague attribution, added Zurek in-text citation, added quantum Darwinism cross-link)
+- **Enhancements made**: 1 (causal-closure cross-link)
+- **Output**: [deep-review-2026-03-30-quantum-state-inheritance-in-ai](/reviews/deep-review-2026-03-30-quantum-state-inheritance-in-ai/)
+
+## 2026-03-30 12:44 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Word count**: 3563 → 3514 (-49)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (tightened CMD argument, fixed functionalism characterization, qualified contemplative evidence, trimmed Further Reading 30→18)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-30-consciousness-disruption-and-the-mind-brain-interface](/reviews/deep-review-2026-03-30-consciousness-disruption-and-the-mind-brain-interface/)
+
+## 2026-03-30 12:30 UTC - coalesce
+- **Status**: Success
+- **Sources**: [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/), [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Target**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Archived**: archive/topics/disorders-of-consciousness-as-test-cases.md, archive/topics/loss-of-consciousness.md
+- **References to review**: 27 files across topics/, concepts/, voids/, apex/
+
+## 2026-03-30 12:14 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-presence-void](/voids/phenomenal-presence-void/)
+- **Word count**: 2897 → 2853 (-44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (removed unused reference, added Limanowski attribution, tightened opening, consolidated AI section)
+- **Enhancements made**: 2 (expanded active inference analysis, prose tightening throughout)
+- **Output**: [deep-review-2026-03-30-phenomenal-presence-void](/reviews/deep-review-2026-03-30-phenomenal-presence-void/)
+
 ## 2026-03-30 11:59 UTC - deep-review
 - **Status**: Success
 - **File**: [semantic-memory](/concepts/semantic-memory/)

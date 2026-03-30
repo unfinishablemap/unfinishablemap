@@ -63,7 +63,7 @@ All major counterarguments remain well-addressed from previous reviews:
 ### Cross-links Added
 - [split-brain-consciousness](/topics/split-brain-consciousness/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/)
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 
 ## Remaining Items
 

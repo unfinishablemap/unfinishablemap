@@ -99,7 +99,7 @@ The Unfinishable Map's [tenets](/tenets/) find specific support in anesthetic ev
 
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological dissection of the four separable interface components
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Broader treatment including coma, sleep, and covert consciousness
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Broader treatment including coma, sleep, and covert consciousness
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — The strongest single-phenomenon case for filter theory
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for the consciousness-brain interface
 

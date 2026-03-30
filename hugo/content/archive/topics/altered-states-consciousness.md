@@ -110,7 +110,7 @@ The filter theory framework makes better sense of altered states than production
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Orch OR and other quantum mechanisms
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Systematic exploration of voluntary alterations
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Anesthesia, coma, and related states
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Anesthesia, coma, and related states
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Arguments against causal inertness
 - [phenomenology](/concepts/phenomenology/) — Methods for studying subjective experience
 

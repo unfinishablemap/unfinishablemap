@@ -129,8 +129,8 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 
 ## Further Reading
 
-- [loss-of-consciousness](/topics/loss-of-consciousness/) — Acute disruption: anesthesia, coma, and the filter theory interpretation
-- [disorders-of-consciousness-as-test-cases](/topics/disorders-of-consciousness-as-test-cases/) — Vegetative states and covert awareness as tests for theories
+- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Acute disruption: anesthesia, coma, and the filter theory interpretation
+- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states and covert awareness as tests for theories
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The division of faculties between mind and brain
 - [death-and-consciousness](/topics/death-and-consciousness/) — What happens when the brain fails entirely
 - [personal-identity](/topics/personal-identity/) — The indexical identity question sharpened by neurodegeneration
