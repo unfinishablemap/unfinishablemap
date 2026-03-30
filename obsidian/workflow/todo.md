@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review quantum-state-inheritance-in-ai.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 43 days ago. Topics article on quantum consciousness implications for AI systems and no-cloning theorem. Verify accuracy of quantum information claims, coherence, cross-references to machine-consciousness and substrate-independence, and tenet alignment. Particularly important for Tenet 2 (quantum interaction in neural systems).
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1777,6 +1770,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review quantum-state-inheritance-in-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-15 — 43 days ago. Topics article on quantum consciousness implications for AI systems and no-cloning theorem. Verify accuracy of quantum information claims, coherence, cross-references to machine-consciousness and substrate-independence, and tenet alignment. Particularly important for Tenet 2 (quantum interaction in neural systems).
+- **Output**: obsidian/topics/quantum-state-inheritance-in-ai.md
 
 ### ✓ 2026-03-30: Update references to coalesced consciousness-disruption articles
 - **Type**: cross-review
