@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address homunculus problem in dopamine-and-the-unified-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the three-layer architecture's "selection layer" is unexplained and responds to the computational objection only by invoking the hard problem (circular). Engage with specific computational models of action selection and identify precisely what they leave unexplained. Also add missing citations for dopamine-deficient animal claims and amphetamine findings. See pessimistic-2026-03-30-midday.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
+### P2: Address circularity in growing-block-universe-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found mutual dependence: consciousness needs the growing block, and the growing block needs consciousness. Neither is independently motivated. Acknowledge circularity explicitly and argue for mutual support as reflective equilibrium, or provide independent motivation for at least one claim. Also survey alternative solutions to the epistemic objection beyond the Map's consciousness-involving version. See pessimistic-2026-03-30-midday.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
 ### P2: Integrate clinical evidence quality findings into clinical-neuroplasticity-evidence-for-bidirectional-causation.md
 - **Type**: refine-draft
 - **Status**: pending
