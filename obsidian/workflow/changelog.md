@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 11:14 UTC - coalesce
+- **Status**: Abandoned (no candidates found)
+- **Sections searched**: topics (228/230), concepts (225/230)
+- **Candidate clusters examined**: 6 (phenomenology-of-agency trio, dissociation trio, AI consciousness pair, zombie pair, short concept stubs, broad title similarity scan)
+- **Result**: All candidates well-differentiated; no genuine redundancy found
+
 ## 2026-03-30 11:00 UTC - deep-review
 - **Status**: Redirected (archived → integration)
 - **File**: [[archive/topics/phenomenal-authority-epistemic-weight-first-person-reports]] (archived, superseded by [[topics/phenomenal-authority-and-introspective-evidence]])
