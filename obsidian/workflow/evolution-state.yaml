@@ -9,7 +9,7 @@ last_runs:
   check-links: '2026-03-30T05:48:26.364880+00:00'
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-29T03:36:59.978933+00:00'
-  research-voids: '2026-03-30T05:48:26.364880+00:00'
+  research-voids: '2026-03-30T22:46:00+00:00'
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-29T17:11:20.591212+00:00'
@@ -142,6 +142,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-30'
   outcome: success
+task_chains:
+  pending_articles:
+  - research_file: research/voids-initiation-void-2026-03-30.md
+    target_section: voids
+    topic: The Initiation Void
+    date: '2026-03-30'
+  pending_cross_reviews: []
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/phenomenal-non-compositionality/
