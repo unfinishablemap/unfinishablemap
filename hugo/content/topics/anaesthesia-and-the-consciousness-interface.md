@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-28 16:48:00+00:00
+ai_modified: 2026-03-30 14:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -120,6 +120,8 @@ Executive function returns before reaction time and simpler sensorimotor tasks �
 
 The Mashour et al. (2021) finding that frontal-parietal dynamics normalise *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [attention's role as interface](/concepts/attention-as-interface/). The workspace needs to be inhabited, not merely activated. On the transmissive model (Bhatt et al., 2024), the recovery sequence maps the filter's architecture from basic to sophisticated components. The physicalist can respond that complex neural systems require active initialisation — but recovery involves molecular preparation oriented toward conscious state transitions specifically, not generic neural function.
 
+The recovery sequence converges with the four-component interface model from the pharmacological dissection. Disconnected consciousness — phenomenal presence without environmental access — is a common intermediate stage during emergence, demonstrating that the phenomenal channel reopens before access channels reconnect. Memory encoding typically recovers later, with patients in the immediate post-anaesthetic period experiencing conscious moments they subsequently cannot recall. This mirrors the induction pattern from the opposite direction: ketamine severs access while preserving phenomenal presence, midazolam isolates memory encoding from the other components. That both induction dissociations and recovery sequencing independently reveal the same component architecture — through different pharmacological and temporal pathways — provides convergent evidence for a structured, multi-layered interface rather than a uniform consciousness generator operating at varying power levels.
+
 ### Stochastic Emergence
 
 A 2025 study in the *British Journal of Anaesthesia* found that genetically identical mice under identical conditions showed emergence times varying by two orders of magnitude. Deterministic pharmacokinetic models failed; stochastic neural dynamics models fit significantly better. No single brain area controlled emergence — recovery depended on network-level dynamics where neuronal noise created macro-level variability.
@@ -130,7 +132,7 @@ If consciousness is produced by neural activity and the neural substrate is iden
 
 What initiates the return of consciousness? On production theory, neural activity recovers and consciousness follows — but the active reboot evidence complicates this, since the brain prepares for consciousness before consciousness arrives. On filter theory: if consciousness is separate and the interface is pharmacologically closed, what causes it to reopen?
 
-The most plausible resolution is that consciousness never fully departs. Even under deep anaesthesia, some neural processing continues, and the brain shows non-random activity patterns. The filter may narrow to a near-closed state without fully shutting, with recovery representing widening from this residual aperture. The bootstrapping problem remains genuinely open, and its difficulty is itself informative: the relationship between consciousness and its neural interface involves dynamics that resist simple causal stories in either direction.
+The most plausible resolution is that consciousness never fully departs. Even under deep anaesthesia, some neural processing continues, and the brain shows non-random activity patterns. The filter may narrow to a near-closed state without fully shutting, with recovery representing widening from this residual aperture rather than reconnection from nothing. The hierarchical recovery sequence supports this: disconnected consciousness (dreaming, internal experience) during emergence suggests the phenomenal channel was merely constricted, not severed, and widens through the same component stages that induction narrows. The bootstrapping problem remains genuinely open, and its difficulty is itself informative: the relationship between consciousness and its neural interface involves dynamics that resist simple causal stories in either direction.
 
 ## Anaesthetic Resistance and Interface Variation
 
@@ -150,7 +152,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 
 **[Dualism](/tenets/#dualism)**: The decisive evidence comes from two directions. First, consciousness *persists or intensifies* during severe neural disruption: terminal lucidity, cardiac arrest gamma surges, vivid ketamine experiences despite complete behavioural unresponsiveness — a system losing generative capacity should not produce more consciousness. Second, the hysteresis of neural inertia: identical neural activity levels correspond to different consciousness states depending on transition direction, suggesting consciousness involves something with its own persistence conditions.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. Craddock et al. (2015) provide a more specific candidate: anaesthetics dampen quantum oscillations in tryptophan residues within microtubule quantum channels, impairing π-resonance energy transfer — a proposed mechanism linking anaesthetic action to quantum-sensitive molecular systems. This remains speculative, but if anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness (while sparing other brain functions) gains an additional explanation. The irreducible stochasticity of emergence timing in genetically identical organisms adds further support: deterministic models fail where stochastic models succeed, consistent with the interface operating where fundamental indeterminacy shapes reconnection. The [constrained pluralism](/topics/the-interface-location-problem/) position gains support: the interface operates through the [attention-motor architecture](/concepts/voluntary-attention-control-mechanisms/) at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. Craddock et al. (2015) provide a more specific candidate: anaesthetics dampen quantum oscillations in tryptophan residues within microtubule quantum channels, impairing π-resonance energy transfer — a proposed mechanism linking anaesthetic action to quantum-sensitive molecular systems. Hameroff et al. (2025) extend this with delayed luminescence experiments demonstrating that anaesthetics measurably alter quantum properties of microtubules — providing additional experimental evidence, though still contested, for quantum-level interface disruption. These findings remain speculative, but if anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness (while sparing other brain functions) gains an additional explanation. The irreducible stochasticity of emergence timing in genetically identical organisms adds further support: deterministic models fail where stochastic models succeed, consistent with the interface operating where fundamental indeterminacy shapes reconnection. The [constrained pluralism](/topics/the-interface-location-problem/) position gains support: the interface operates through the [attention-motor architecture](/concepts/voluntary-attention-control-mechanisms/) at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The active reboot — the brain preparing for consciousness before consciousness arrives — suggests causal traffic in both directions. During disconnected consciousness under ketamine, consciousness actively generates elaborate internal experience despite environmental severance — reorganising around whichever channels remain open, characteristic of an agent interacting with a structured interface.
 
@@ -207,17 +209,18 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Friedman, E. B., et al. (2010). A conserved behavioral state barrier impedes transitions between anesthetic-induced unconsciousness and wakefulness. *PLOS ONE*, 5(7), e11903.
 1. Redinbaugh, M. J., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75.
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
+1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
 
-<!-- AI REFINEMENT LOG - 2026-03-28T16:48
+<!-- AI REFINEMENT LOG - 2026-03-30T14:24
 Changes made:
-- Integrated flip-flop switch mechanism (Sepúlveda) into Neural Inertia subsection — mutually inhibitory neuronal populations forming bistable switch, deepening the dualist reading
-- Added Craddock et al. (2015) quantum channels finding to Minimal Quantum Interaction tenet paragraph — anaesthetics dampening tryptophan quantum oscillations in microtubules, presented with appropriate restraint as speculative
-- Added Craddock reference to References section
-- KCC2 downregulation: not integrated — research notes (2026-03-26) flagged insufficient sourcing from web search
+- Added convergence paragraph in Active Reboot connecting recovery sequence to the four-component interface model from Pharmacological Dissection — disconnected consciousness as intermediate stage, memory encoding recovering later, mirroring induction dissociations from opposite direction
+- Strengthened Bootstrapping Problem with hierarchical recovery evidence supporting residual-aperture interpretation
+- Added Hameroff et al. (2025) delayed luminescence experiments to Minimal Quantum Interaction tenet paragraph — experimental evidence for quantum-level interface disruption
+- Added Hameroff 2025 reference
+- KCC2 downregulation: still not integrated — research notes (2026-03-26) flagged insufficient sourcing
 
-Based on research integration from research/anaesthetic-recovery-neuroscience-2026-03-26.md.
-Prior refinement (same day) fixed Bodart/Mashour misattributions.
+Based on task to strengthen interface model's recovery account using research/anaesthetic-recovery-neuroscience-2026-03-26.md.
 
 This log should be removed after human review.
 -->

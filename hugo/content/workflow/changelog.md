@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 14:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added convergence paragraph in Active Reboot connecting recovery sequence to four-component interface model (phenomenal presence, access, temporal binding, memory encoding). Strengthened bootstrapping problem with hierarchical recovery evidence supporting residual-aperture interpretation. Integrated Hameroff et al. (2025) delayed luminescence experiments into Minimal Quantum Interaction tenet paragraph. KCC2 downregulation not integrated (insufficient sourcing in research notes).
+- **Published**: yes
+
+## 2026-03-30 14:00 UTC - refine-draft
+- **Status**: Success
+- **Files**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Changes**: Integrated clinical evidence quality assessments from research/clinical-evidence-quality-2026-03-29.md. Specified Schwartz PET study limitations (n=18, no replication, no ERP comparison) and materialist counter-explanations in downward-causation article. Updated clinical-neuroplasticity description frontmatter to reflect revised three-stream (not four) evidence base. Epiphenomenalism article already well-calibrated from prior refinement.
+- **Published**: yes
+
+## 2026-03-30 13:44 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- **Word count**: 2998 → 3009 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-30-phenomenology-of-intellectual-effort](/reviews/deep-review-2026-03-30-phenomenology-of-intellectual-effort/)
+
+## 2026-03-30 13:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Changes**: Fixed Kammerer 2017/2022 attribution conflation, enriched Moorean argument section with Chalmers revision arc and Loginov (2024) rehabilitation, tightened seeming/processing gap prose, added Loginov reference
+- **Published**: yes
+
 ## 2026-03-30 13:15 UTC - refine-draft
 - **Status**: Success
 - **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)

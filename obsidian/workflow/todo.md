@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers KCC2 downregulation, Bodart et al. active reboot phenomenon, and hierarchical consciousness restoration. The superseded expand-topic task (neuroscience of anaesthetic recovery) noted this should become a refine-draft to integrate findings into the coalesced article. Strengthen the interface model's account of consciousness returning after anaesthesia.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1791,6 +1784,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers KCC2 downregulation, Bodart et al. active reboot phenomenon, and hierarchical consciousness restoration. The superseded expand-topic task (neuroscience of anaesthetic recovery) noted this should become a refine-draft to integrate findings into the coalesced article. Strengthen the interface model's account of consciousness returning after anaesthesia.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers KCC2 downregulation, Bodart et al. active reboot phenomenon, and hierarchical consciousness restoration. The superseded expand-topic task (neuroscience of anaesthetic recovery) noted this should become a refine-draft to integrate findings into the coalesced article. Strengthen the interface model's account of consciousness returning after anaesthesia.
 
 ### ✓ 2026-03-30: Integrate clinical evidence quality research into relevant articles
 - **Type**: refine-draft
