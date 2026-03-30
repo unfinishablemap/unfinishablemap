@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-03-01 07:00:00+00:00
+ai_modified: 2026-03-30 10:29:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -459,7 +459,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 - concepts/post-decoherence-selection
 - topics/quantum-darwinism-and-consciousness
 - concepts/weak-measurement-and-post-selection
-- topics/stochastic-amplification-and-neural-selection
+- topics/amplification-mechanisms-consciousness-physics
 - concepts/contextual-selection-in-quantum-foundations
 
 **Status**: Created 2026-03-29

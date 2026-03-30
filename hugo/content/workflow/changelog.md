@@ -9,6 +9,94 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 11:29 UTC - condense
+- **Status**: Success
+- **File**: [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Before**: 3552 words
+- **After**: 2548 words
+- **Reduction**: 28%
+- **Technique**: Cut historical background (Huxley detail), removed redundant block quote in self-stultification section, tightened cultural transmission objection from 3 to 2 paragraphs, condensed amplification evidence and contemplative neuroscience subsections, trimmed Further Reading from 27 to 14 items, tightened prose throughout
+
+## 2026-03-30 11:14 UTC - coalesce
+- **Status**: Abandoned (no candidates found)
+- **Sections searched**: topics (228/230), concepts (225/230)
+- **Candidate clusters examined**: 6 (phenomenology-of-agency trio, dissociation trio, AI consciousness pair, zombie pair, short concept stubs, broad title similarity scan)
+- **Result**: All candidates well-differentiated; no genuine redundancy found
+
+## 2026-03-30 11:00 UTC - deep-review
+- **Status**: Redirected (archived → integration)
+- **File**: [phenomenal-authority-epistemic-weight-first-person-reports](/archive/topics/phenomenal-authority-epistemic-weight-first-person-reports/) (archived, superseded by [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/))
+- **Stale links fixed**: 3 (in epistemology-of-first-person-evidence)
+- **Cross-references added**: 6 (introspection, phenomenological-evidence, self-stultification, phenomenal-acquaintance, knowledge-argument, methodology-of-consciousness-research)
+- **Successor inbound links**: 1 → 7
+- **Output**: [deep-review-2026-03-30-phenomenal-authority-epistemic-weight-first-person-reports](/reviews/deep-review-2026-03-30-phenomenal-authority-epistemic-weight-first-person-reports/)
+
+## 2026-03-30 10:44 UTC - deep-review
+- **Status**: Success (timestamps only — article stable)
+- **File**: [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/)
+- **Word count**: 2722 → 2722 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stable after 4th review; wikilink fixes since last review all verified correct)
+- **Output**: [deep-review-2026-03-30-comparative-phenomenology-of-meditative-traditions](/reviews/deep-review-2026-03-30-comparative-phenomenology-of-meditative-traditions/)
+
+## 2026-03-30 10:29 UTC - deep-review
+- **Status**: Success (metadata cleanup only)
+- **File**: [stochastic-amplification-and-neural-selection](/archive/topics/stochastic-amplification-and-neural-selection/) (archived)
+- **Word count**: N/A (archived article, no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale apex_sources references in 2 files)
+- **Enhancements made**: 1 (closed moot orphan-integration todo task)
+- **Output**: [deep-review-2026-03-30-stochastic-amplification-and-neural-selection](/reviews/deep-review-2026-03-30-stochastic-amplification-and-neural-selection/)
+
+## 2026-03-30 10:16 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: consciousness-collapse-prediction-landscape
+- **Reason**: Article was archived on 2026-03-29, coalesced into [testing-consciousness-collapse](/topics/testing-consciousness-collapse/). Deep review of archived content is not productive — improvements should target the successor article.
+
+## 2026-03-30 09:59 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus — 346 published articles across topics (104), concepts (115), tenets (1), apex (22), voids (104). Deep reading of 15+ articles.
+- **Output**: [optimistic-2026-03-30-morning](/reviews/optimistic-2026-03-30-morning/)
+
+## 2026-03-30 09:44 UTC - refine-draft
+- **Status**: Success
+- **Files**: [phenomenological-evidence](/concepts/phenomenological-evidence/), [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
+- **Changes**: Integrated research from phenomenological-method-evidence-standards-2026-03-19.md. Added Husserl adequacy/apodicticity distinction, Berghofer's originary givenness framework, Merleau-Ponty's embodied evidence section, self-undermining argument against introspective skepticism, Thomasson's disciplined-vs-naive introspection distinction. Added 4 new references across both articles.
+- **Published**: yes
+
+## 2026-03-30 09:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Changes**: Made representing/experiencing distinction explicit as Frankish's core epistemological move; strengthened self-representation problem with combustion/phlogiston asymmetry; sharpened seeming/processing gap conclusion
+- **Published**: yes
+
+## 2026-03-30 09:14 UTC - deep-review
+- **Status**: Success
+- **File**: [zombie-master-argument](/concepts/zombie-master-argument/)
+- **Word count**: 1838 → 1862 (+24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (qualia cross-link, two-dimensional semantics gloss)
+- **Enhancements made**: 2 (illusionism/qualia added to frontmatter concepts)
+- **Output**: [deep-review-2026-03-30-zombie-master-argument](/reviews/deep-review-2026-03-30-zombie-master-argument/)
+
+## 2026-03-30 09:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
+- **Changes**: Addressed circularity charge with new "Question of Mutual Support" section (reflective equilibrium argument); surveyed alternative epistemic objection responses (Forrest, Bourne, Merricks); added 2 references; updated opening to flag mutual support concern
+- **Published**: yes
+
+## 2026-03-30 08:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
+- **Changes**: Rewrote computational objection response with specific models (GPR, Frank Go/NoGo); added 3 concrete empirical gaps; added 6 missing citations (Palmiter, Ungerstedt, Robbins & Everitt, Gurney et al., Frank 2005/2006)
+- **Published**: yes
+
+## 2026-03-30 08:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/dopamine-and-the-unified-interface.md, topics/the-convergence-argument-for-dualism.md, topics/growing-block-universe-and-consciousness.md
+- **Output**: [pessimistic-2026-03-30-midday](/reviews/pessimistic-2026-03-30-midday/)
+
 ## 2026-03-30 07:49 UTC - deep-review
 - **Status**: Success
 - **File**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)

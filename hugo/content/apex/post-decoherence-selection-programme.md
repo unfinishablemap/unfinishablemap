@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-30 01:15:00+00:00
+ai_modified: 2026-03-30 10:29:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 13:56:00+00:00
 apex_sources:
 - concepts/post-decoherence-selection
 - topics/quantum-darwinism-and-consciousness
 - concepts/weak-measurement-and-post-selection
-- topics/stochastic-amplification-and-neural-selection
+- topics/amplification-mechanisms-consciousness-physics
 - concepts/contextual-selection-in-quantum-foundations
 apex_thesis: Five converging lines of inquiry—the post-decoherence selection gap,
   quantum Darwinism's menu specification, contextuality's structural constraints,

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-24 15:39:00+00:00
+ai_modified: 2026-03-30 08:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,7 +36,7 @@ The [attention-as-interface](/concepts/attention-as-interface/) is where conscio
 
 ### From Perception to Action
 
-Dopamine mediates *salience*—the process by which stimuli or internal states gain prominence and capture cognitive and behavioral resources. Research on dopamine-deficient animals reveals a striking dissociation: they remain awake and capable of movement when externally triggered, yet cannot spontaneously attend to salient information, integrate it with prior experience, or initiate appropriate actions. The behavioral profile resembles a system that can execute but cannot select.
+Dopamine mediates *salience*—the process by which stimuli or internal states gain prominence and capture cognitive and behavioral resources. Research on dopamine-deficient animals reveals a striking dissociation: genetically engineered mice lacking dopamine (Palmiter 2008) and rats with 6-OHDA lesions (Ungerstedt 1971) remain awake and capable of movement when externally triggered, yet cannot spontaneously attend to salient information, integrate it with prior experience, or initiate appropriate actions. The behavioral profile resembles a system that can execute but cannot select.
 
 This is the salience bridge at work. Dopamine converts neutral stimuli into entities that pull for attention and action:
 
@@ -61,7 +61,7 @@ This dissociation is critical for understanding the interface:
 - **Dopamine sets threshold height**: Lower dopamine → higher threshold → harder to initiate
 - **The selection question remains**: What determines which of the competing options crosses threshold?
 
-If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options. The threshold effect is selective, favoring marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
+If dopamine determined selection directly, lowering threshold would produce random faster responses. But amphetamine preferentially speeds responses to previously rewarded options (Robbins & Everitt 2007), and rodent studies show amphetamine-induced threshold reduction in the striatum selectively enhances responses associated with stimulus change rather than producing indiscriminate activation (Westbrook et al. 2023). The threshold effect is selective, favoring marked options—yet the mechanism by which one marked option wins over another is not explained by threshold alone. The Map proposes that this residual selection may be where consciousness operates.
 
 ### A Proposed Three-Layer Architecture
 
@@ -73,7 +73,19 @@ The Map proposes a layered architecture to interpret these findings:
 | Threshold modulation | Determine what level of evidence triggers action | Primary |
 | Selection | Determine which option actualizes | None (operates on dopamine-prepared options) |
 
-On this model, consciousness operates at the third layer—selecting among options that dopamine has made selectable. This would satisfy [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness doesn't generate options or set thresholds; it only biases which threshold-ready option wins. Critics may argue that the "selection layer" is simply further neural computation—noise, lateral inhibition, and winner-take-all dynamics. The Map's response is that such mechanisms explain *how* selection is implemented but not *why* it is accompanied by phenomenal experience, nor why volitional selection feels different from automatic processing.
+On this model, consciousness operates at the third layer—selecting among options that dopamine has made selectable. This would satisfy [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): consciousness doesn't generate options or set thresholds; it only biases which threshold-ready option wins.
+
+### What Computational Models Leave Unexplained
+
+The obvious objection is that the "selection layer" is simply further neural computation. Specific models make this case in detail. The GPR model (Gurney, Prescott & Redgrave 2001) treats the basal ganglia as a feedforward off-centre on-surround network where lateral inhibition between competing action channels produces a winner. Frank's Go/NoGo model (2005, 2006) adds reinforcement learning: D1-expressing "Go" neurons and D2-expressing "NoGo" neurons accumulate evidence for and against each action, with dopamine biasing the balance. Both models resolve selection through competitive dynamics—no residual selector is needed.
+
+These models handle routine, well-learned action selection convincingly. But three empirical patterns resist this treatment:
+
+**The volitional-automatic dissociation.** Parkinson's patients lose volitional movement while retaining reflexes, automatic gait, and externally cued action. Competitive dynamics models treat all selection uniformly—they have no principled basis for why dopamine depletion would disable deliberate choice while leaving habitual and reflexive selection intact. Frank's model partially addresses this by distinguishing Go/NoGo learning rates, but the qualitative divide between volitional and automatic action is not an adjustable parameter in any current model.
+
+**Deliberate override of learned associations.** Humans can choose against strongly rewarded options—selecting the less-practiced, lower-value action when context demands it. Frank's 2006 model introduced the subthalamic nucleus as a "hold your horses" signal that delays action when conflict is high. But delaying is not the same as selecting: the STN raises the threshold globally, buying time for striatal dynamics to settle, yet what determines which option ultimately wins when two are closely matched remains noise in these models. The Map proposes that what the models attribute to noise is the locus of conscious selection.
+
+**Effort tracks selection difficulty, not motor difficulty.** The phenomenology of effort correlates with the number and similarity of competing options, not with the physical demands of the selected action. Choosing between two equally rewarded options feels harder than executing a physically demanding but obvious movement. Computational models predict processing time and error rates for difficult selections but have no mechanism to generate or explain this graded phenomenal effort—the felt experience of deliberation that scales with competition among options.
 
 ## Tonic and Phasic: Two Modes of Preparation
 
@@ -237,3 +249,28 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 6. Berridge, K.C. (2007). The debate over dopamine's role in reward: the case for incentive salience. *Psychopharmacology*, 191(3), 391-431.
 
 7. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
+
+8. Palmiter, R.D. (2008). Dopamine signaling in the dorsal striatum is essential for motivated behaviors: Lessons from dopamine-deficient mice. *Annals of the New York Academy of Sciences*, 1129, 35-46.
+
+9. Ungerstedt, U. (1971). Adipsia and aphagia after 6-hydroxydopamine induced degeneration of the nigro-striatal dopamine system. *Acta Physiologica Scandinavica*, 82(S367), 95-122.
+
+10. Robbins, T.W. & Everitt, B.J. (2007). A role for mesencephalic dopamine in activation: Commentary on Berridge (2006). *Psychopharmacology*, 191(3), 433-437.
+
+11. Gurney, K., Prescott, T.J., & Redgrave, P. (2001). A computational model of action selection in the basal ganglia. I. A new functional anatomy. *Biological Cybernetics*, 84(6), 401-410.
+
+12. Frank, M.J. (2005). Dynamic dopamine modulation in the basal ganglia: A neurocomputational account of cognitive deficits in medicated and nonmedicated Parkinsonism. *Journal of Cognitive Neuroscience*, 17(1), 51-72.
+
+13. Frank, M.J. (2006). Hold your horses: A dynamic computational role for the subthalamic nucleus in decision making. *Neural Networks*, 19(8), 1120-1136.
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Rewrote response to computational objection: replaced circular hard-problem invocation with engagement of specific models (Gurney/Prescott/Redgrave GPR model, Frank Go/NoGo model) and three concrete empirical gaps they leave unexplained (volitional-automatic dissociation, deliberate override of learned associations, effort-selection difficulty correlation)
+- Added citations for dopamine-deficient animal claims (Palmiter 2008, Ungerstedt 1971)
+- Added citation for amphetamine findings (Robbins & Everitt 2007)
+- Added 6 new references (#8-13)
+
+Based on pessimistic review finding circular reasoning in selection layer defense.
+Key improvements: argument now identifies specific functional gaps in named computational models rather than retreating to the hard problem.
+
+This log should be removed after human review.
+-->

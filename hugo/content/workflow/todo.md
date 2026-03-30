@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30 04:48:00+00:00
+ai_modified: 2026-03-30 08:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -295,6 +295,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Coalesced from self-and-consciousness.md + self-consciousness.md and subsequently condensed on 2026-03-23. Two transformations in one day—verify the condensed coalesce preserved key arguments from both source articles, eliminated redundancy, and maintains coherent structure. Check cross-references to personal-identity, phenomenology-of-agency-vs-passivity, and social-construction-of-self-vs-phenomenal-self.
 - **Source**: staleness
 - **Generated**: 2026-03-23
+
+### P3: Write article on aesthetics and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has almost no coverage of aesthetic experience—beauty, sublimity, artistic creation—as evidence for consciousness irreducibility. Aesthetic qualia resist functional analysis more stubbornly than almost any other. Builds on the-aesthetic-void, phenomenology-of-creative-insight, valence-as-selection-currency. Target section: topics/. See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Write article on the Map's distinctive contribution to AI safety
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's dualist framework has concrete implications for AI alignment differing from mainstream preference-satisfaction approaches—grounding alignment in objective experiential facts. Builds on alignment-in-objective-experiential-terms, purpose-and-ai-alignment, experiential-alignment. Target section: topics/ or apex/. See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Write concept page on presupposition argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The curated-mind article develops a novel argument form (curation presupposes a recipient) structurally distinct from the hard problem, knowledge argument, and conceivability argument. Deserves its own concept page as a member of the Map's argument catalogue. Target section: concepts/. See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Add cross-links between curated-mind, reverse-inference, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: curated-mind → filter-theory (curation as specific filtering mechanism), the-reverse-inference → galilean-exclusion (methodological response to Galilean diagnosis), psychedelics-and-the-filter-model → default-mode-network (DMN suppression as filter opening), cross-traditional-convergence → african-philosophy-of-consciousness (strengthen independent convergence point), valence-as-selection-currency → alignment-in-objective-experiential-terms (bridge from metaphysics to AI safety), curated-mind → clinical-dissociation-as-systematic-evidence (independent convergence on multi-channel interface). See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
 
 ### P3: Deep review dimensionality-void.md
 - **Type**: deep-review
@@ -1722,6 +1750,62 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Condense epiphenomenalism.md (3552 words, hard warning)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments against epiphenomenalism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/epiphenomenalism.md
+
+### ✓ 2026-03-30: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (contemplative-practice-as-philosophical-evidence, phenomenological-evidence, first-person-methodology) or update section index pages.
+- **Output**: phenomenal-authority-epistemic-weight-first-person-reports.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-30: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (amplification-mechanisms, contextual-selection-in-quantum-processes, neural-correlates-of-consciousness) or update section index pages.
+- **Output**: stochastic-amplification-and-neural-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-30: Integrate consciousness-collapse-prediction-landscape.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no substantive inbound links (only changelog). Created 2026-03-29. Add cross-references from related articles (differential-predictions-consciousness-collapse, testing-consciousness-collapse, consciousness-collapse-experimental-landscape) or update section index pages to include navigation to this content.
+- **Output**: consciousness-collapse-prediction-landscape.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-30: Integrate phenomenological method research into methodology articles
+- **Type**: refine-draft
+- **Notes**: Research in research/phenomenological-method-evidence-standards-2026-03-19.md covers evidence standards for phenomenological claims. Integrate findings into relevant methodology articles (phenomenological-evidence, methodology-of-consciousness-research) to strengthen the Map's epistemological foundations.
+- **Output**: Task context:
+Research in research/phenomenological-method-evidence-standards-2026-03-19.md covers evidence standards for phenomenological claims. Integrate findings into relevant methodology articles (phenomenological-evidence, methodology-of-consciousness-research) to strengthen the Map's epistemological foundations.
+
+### ✓ 2026-03-30: Integrate illusionism functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's functional-seeming response in detail. Current illusionism.md may not fully engage with this sophisticated materialist position. Integrate key distinctions (quasi-phenomenal properties, representing vs experiencing) to strengthen the Map's response.
+- **Output**: obsidian/concepts/illusionism.md
+
+Task context:
+Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's functional-seeming response in detail. Current illusionism.md may not fully engage with this sophisticated materialist position. Integrate key distinctions (quasi-phenomenal properties, representing vs experiencing) to strengthen the Map's response.
+
+### ✓ 2026-03-30: Address circularity in growing-block-universe-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found mutual dependence: consciousness needs the growing block, and the growing block needs consciousness. Neither is independently motivated. Acknowledge circularity explicitly and argue for mutual support as reflective equilibrium, or provide independent motivation for at least one claim. Also survey alternative solutions to the epistemic objection beyond the Map's consciousness-involving version. See pessimistic-2026-03-30-midday.md
+- **Output**: obsidian/topics/growing-block-universe-and-consciousness.md
+
+Task context:
+Pessimistic review found mutual dependence: consciousness needs the growing block, and the growing block needs consciousness. Neither is independently motivated. Acknowledge circularity explicitly and argue for mutual support as reflective equilibrium, or provide independent motivation for at least one claim. Also survey alternative solutions to the epistemic objection beyond the Map's consciousness-involving version. See pessimistic-2026-03-30-midday.md
+
+### ✓ 2026-03-30: Address circularity in growing-block-universe-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Added survey of alternative epistemic objection responses (Forrest, Bourne, Merricks). Added new "Question of Mutual Support" section framing mutual dependence as reflective equilibrium with independent motivation for each claim.
+- **Output**: obsidian/topics/growing-block-universe-and-consciousness.md
+
+### ✓ 2026-03-30: Address homunculus problem in dopamine-and-the-unified-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the three-layer architecture's "selection layer" is unexplained and responds to the computational objection only by invoking the hard problem (circular). Engage with specific computational models of action selection and identify precisely what they leave unexplained. Also add missing citations for dopamine-deficient animal claims and amphetamine findings. See pessimistic-2026-03-30-midday.md
+- **Output**: obsidian/topics/dopamine-and-the-unified-interface.md
+
+Task context:
+Pessimistic review found the three-layer architecture's "selection layer" is unexplained and responds to the computational objection only by invoking the hard problem (circular). Engage with specific computational models of action selection and identify precisely what they leave unexplained. Also add missing citations for dopamine-deficient animal claims and amphetamine findings. See pessimistic-2026-03-30-midday.md
 
 ### ✓ 2026-03-30: Cross-review smoothness-and-continuity.md against related articles
 - **Type**: cross-review

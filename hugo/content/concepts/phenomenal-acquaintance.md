@@ -32,6 +32,7 @@ related_articles:
 - '[[epistemology-of-first-person-evidence]]'
 - '[[phenomenal-transparency]]'
 - '[[acquaintance-void]]'
+- '[[phenomenal-authority-and-introspective-evidence]]'
 title: Phenomenal Acquaintance
 topics:
 - '[[hard-problem-of-consciousness]]'

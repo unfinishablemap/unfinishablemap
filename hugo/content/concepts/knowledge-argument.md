@@ -34,6 +34,7 @@ related_articles:
 - '[[epistemology-of-first-person-evidence]]'
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
+- '[[phenomenal-authority-and-introspective-evidence]]'
 title: The Knowledge Argument (Mary's Room)
 topics:
 - '[[hard-problem-of-consciousness]]'

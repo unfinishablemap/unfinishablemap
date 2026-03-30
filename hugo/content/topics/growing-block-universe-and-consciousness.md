@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-16 15:48:00+00:00
+ai_modified: 2026-03-30 09:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-The growing block theory of time holds that past and present exist but the future does not yet. Unlike eternalism's frozen four-dimensional block where all moments are equally real, and unlike presentism's razor-thin slice of existence, the growing block accumulates reality as time passes. C.D. Broad introduced this view in 1923, and it has a distinctive virtue for The Unfinishable Map's concerns: it takes consciousness seriously as marking something ontologically significant about the present moment. The growing block is the temporal ontology most naturally aligned with the reality of conscious experience—and consciousness, in turn, may provide the growing block with exactly what it needs to answer its deepest objections.
+The growing block theory of time holds that past and present exist but the future does not yet. Unlike eternalism's frozen four-dimensional block where all moments are equally real, and unlike presentism's razor-thin slice of existence, the growing block accumulates reality as time passes. C.D. Broad introduced this view in 1923, and it has a distinctive virtue for The Unfinishable Map's concerns: it takes consciousness seriously as marking something ontologically significant about the present moment. The growing block is the temporal ontology most naturally aligned with the reality of conscious experience—and consciousness, in turn, may provide the growing block with resources for answering its deepest objections. This mutual support invites a charge of circularity, addressed in the [mutual support section](#mutual-support) below, but each claim also has independent motivation that the other reinforces rather than creates.
 
 ## Broad's Original Insight
 
@@ -76,7 +76,11 @@ The growing block faces a serious challenge: if past moments exist and contain o
 
 David Braddon-Mitchell (2004) pressed this into a formal objection: growing block residents cannot know they are present rather than past. Since past and present observers have identical epistemic access, the growing block makes temporal knowledge impossible. We could all be deep in the block's past, with reality having grown far beyond us.
 
-This is where consciousness becomes not just a beneficiary of the growing block but a potential resource for defending it. If the present is distinguished not merely by being the latest time-slice but by the occurrence of some ontologically distinctive process—like [quantum collapse](/concepts/collapse-and-time/)—then present observers have something past observers lack: active collapse, active becoming. The past is settled; the present is where settlement occurs. Consciousness, on the Map's framework, participates in this settlement. If the phenomenology of the present reflects active participation in collapse—the dynamic, forward-driving quality of experience—then present observers have epistemic access past observers don't: not because they represent themselves as present, but because they are actively constituting reality in a way that past (settled) states no longer do.
+Several responses have been offered. Peter Forrest (2004) argues that past observers are "real but dead"—they exist but no longer have experiences. If consciousness requires active processes rather than frozen states, past time-slices contain the *structures* of observers but not functioning minds. Past observers cannot wonder whether they are present because they cannot wonder at all. Craig Bourne (2002) takes a different approach, arguing that the growing block can be reformulated so that past times exist but lack the same ontological status as the present—a "degree of reality" view where the present is more robustly real. Merricks (2006) appeals to the causal powers of the present: only the leading edge has the capacity to cause future events, and this asymmetry in causal power could ground an epistemic difference.
+
+Each response has limitations. Forrest's "dead past" raises the question of what extinguishes consciousness in settled time-slices—if the physical structure is preserved, why does experience cease? Bourne's degrees of reality can seem ad hoc without an account of what grounds the asymmetry. Merricks's causal approach locates the difference in forward-looking causal powers, but past observers (when they were present) also had those powers, so it is unclear how a present observer could use causal power to *know* she is present rather than past.
+
+The Map offers a further response that builds on Forrest's intuition while providing a mechanism. If the present is distinguished not merely by being the latest time-slice but by the occurrence of some ontologically distinctive process—like [quantum collapse](/concepts/collapse-and-time/)—then present observers have something past observers lack: active collapse, active becoming. The past is settled; the present is where settlement occurs. Consciousness, on the Map's framework, participates in this settlement. If the phenomenology of the present reflects active participation in collapse—the dynamic, forward-driving quality of experience—then present observers have epistemic access past observers don't: not because they represent themselves as present, but because they are actively constituting reality in a way that past (settled) states no longer do.
 
 ## The Rate of Passage Problem
 
@@ -85,6 +89,16 @@ A second objection asks: at what rate does the block grow? "One second per secon
 But this objection may assume what it targets. If growth *is* temporal passage rather than something occurring within time, asking for its rate commits a category error—like asking how fast space extends spatially. The growth of the block and the passage of time are the same phenomenon, not one occurring within the other.
 
 Bergson's [durée](/concepts/temporal-consciousness/) offers a complementary response. Lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time—treats it as movement through a container—which is precisely what the growing block denies. Time doesn't pass through anything. Reality simply accumulates.
+
+## The Question of Mutual Support {#mutual-support}
+
+An objection arises: the article argues that the growing block is the best temporal home for consciousness (the growing block needs consciousness to explain its leading edge), and that consciousness provides the growing block with its best defence against the epistemic objection (consciousness needs the growing block's ontological structure). If neither claim is independently motivated, the reasoning is circular—each claim's only support is the other.
+
+The circularity charge would stick if the two claims had no independent grounding. But each does. The growing block has independent motivation from the philosophy of time: it preserves the reality of the past (solving presentism's truth-maker problem), treats the present as objectively special (avoiding eternalism's reduction of "now" to mere indexicality), and accommodates the phenomenology of temporal flow without making it a systematic illusion. These advantages hold regardless of any claim about consciousness's role in collapse. Broad proposed the growing block in 1923 without invoking consciousness as a mechanism for growth.
+
+Conversely, the claim that consciousness participates in quantum collapse has independent motivation from the measurement problem in quantum mechanics and from the hard problem of consciousness. Wigner, Stapp, and others have argued for consciousness-involving collapse on grounds that owe nothing to temporal ontology. The Map's dualist tenets commit to consciousness as causally efficacious in the physical world; this commitment stands whether or not the growing block is the correct temporal ontology.
+
+What the mutual support provides is not a circular proof but a *reflective equilibrium*: two independently motivated positions that, when combined, illuminate and strengthen each other. The growing block provides a temporal structure where consciousness's role in collapse makes ontological sense (the leading edge is where collapse occurs). Consciousness-involving collapse provides the growing block with a mechanism for growth and a response to the epistemic objection. Each claim is stronger in the presence of the other, but neither depends on the other for its initial plausibility.
 
 ## The Map's Modified Growing Block
 
@@ -127,6 +141,21 @@ The growing block connects to all five of the Map's [tenets](/tenets/):
 1. Broad, C.D. (1923). *Scientific Thought*. Kegan Paul.
 1. Braddon-Mitchell, D. (2004). How do we know it is now now? *Analysis*, 64(3), 199-203.
 1. Forrest, P. (2004). The real but dead past: A reply to Braddon-Mitchell. *Analysis*, 64(4), 358-362.
+1. Bourne, C. (2002). When am I? A tense time for some tense theorists? *Australasian Journal of Philosophy*, 80(3), 359-371.
+1. Merricks, T. (2006). Goodbye growing block. In *Oxford Studies in Metaphysics*, Vol. 2 (pp. 103-110). Oxford University Press.
 1. Bergson, H. (1889/2001). *Time and Free Will*. Dover.
 1. Whitehead, A.N. (1929/1978). *Process and Reality*. Free Press.
 1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Added survey of alternative epistemic objection responses (Forrest, Bourne, Merricks) with critical assessment of each
+- Added new "The Question of Mutual Support" section addressing circularity charge explicitly, arguing for reflective equilibrium with independent motivation for each claim
+- Updated opening paragraph to flag mutual support concern and forward-reference the new section
+- Added Bourne (2002) and Merricks (2006) to references
+- Framed Map's epistemic objection response as building on Forrest rather than standing alone
+
+Key improvements: Addresses circularity head-on; surveys philosophical landscape rather than presenting only the Map's solution
+
+This log should be removed after human review.
+-->

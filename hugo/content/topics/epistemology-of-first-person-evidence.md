@@ -52,7 +52,7 @@ related_articles:
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
 - '[[phenomenology-of-epistemic-cognition]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
-- '[[phenomenal-authority-epistemic-weight-first-person-reports]]'
+- '[[phenomenal-authority-and-introspective-evidence]]'
 title: The Epistemology of First-Person Evidence
 topics:
 - '[[epistemology]]'
