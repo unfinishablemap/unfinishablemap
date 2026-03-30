@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate clinical evidence quality research into relevant articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the evidential strength of Schwartz OCD claims, meditation efficacy studies, and neuroplasticity evidence. Multiple articles cite these findings (downward-causation.md, clinical-neuroplasticity-evidence.md, epiphenomenalism.md). Integrate quality assessments to strengthen or qualify empirical claims as appropriate.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1756,6 +1749,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate clinical evidence quality research into relevant articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the evidential strength of Schwartz OCD claims, meditation efficacy studies, and neuroplasticity evidence. Multiple articles cite these findings (downward-causation.md, clinical-neuroplasticity-evidence.md, epiphenomenalism.md). Integrate quality assessments to strengthen or qualify empirical claims as appropriate.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md evaluates the evidential strength of Schwartz OCD claims, meditation efficacy studies, and neuroplasticity evidence. Multiple articles cite these findings (downward-causation.md, clinical-neuroplasticity-evidence.md, epiphenomenalism.md). Integrate quality assessments to strengthen or qualify empirical claims as appropriate.
 
 ### ✓ 2026-03-30: Integrate illusionism and functional-seeming research into illusionism.md
 - **Type**: refine-draft

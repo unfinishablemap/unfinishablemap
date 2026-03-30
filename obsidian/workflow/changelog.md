@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 14:00 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[mental-causation-and-downward-causation]], [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Changes**: Integrated clinical evidence quality assessments from research/clinical-evidence-quality-2026-03-29.md. Specified Schwartz PET study limitations (n=18, no replication, no ERP comparison) and materialist counter-explanations in downward-causation article. Updated clinical-neuroplasticity description frontmatter to reflect revised three-stream (not four) evidence base. Epiphenomenalism article already well-calibrated from prior refinement.
+- **Published**: yes
+
 ## 2026-03-30 13:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenology-of-intellectual-effort]]
