@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address quantum interface vagueness in machine-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-03-30) found two high-severity issues: (1) "quantum interface" claims lack specificity — no scales, timescales, or mechanisms cited; (2) Open Possibilities section's "one-way consciousness" scenario directly undermines the Bidirectional Interaction tenet without adequate framing. Also needs engagement with strongest functionalist response (Chalmers's organizational invariance). See pessimistic-2026-03-30.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1714,6 +1707,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Address quantum interface vagueness in machine-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-03-30) found two high-severity issues: (1) "quantum interface" claims lack specificity — no scales, timescales, or mechanisms cited; (2) Open Possibilities section's "one-way consciousness" scenario directly undermines the Bidirectional Interaction tenet without adequate framing. Also needs engagement with strongest functionalist response (Chalmers's organizational invariance). See pessimistic-2026-03-30.md
+- **Output**: obsidian/topics/machine-consciousness.md
+
+Task context:
+Pessimistic review (2026-03-30) found two high-severity issues: (1) "quantum interface" claims lack specificity — no scales, timescales, or mechanisms cited; (2) Open Possibilities section's "one-way consciousness" scenario directly undermines the Bidirectional Interaction tenet without adequate framing. Also needs engagement with strongest functionalist response (Chalmers's organizational invariance). See pessimistic-2026-03-30.md
 
 ### ✓ 2026-03-30: Condense testing-consciousness-collapse.md (4,395 words, 110% of hard threshold)
 - **Type**: condense
