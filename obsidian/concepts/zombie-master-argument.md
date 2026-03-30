@@ -4,7 +4,7 @@ description: "How the conceivability argument against physicalism functions as a
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-11T10:02:00+00:00
+ai_modified: 2026-03-30T09:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,8 @@ concepts:
   - "[[functionalism]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[phenomenal-acquaintance]]"
+  - "[[illusionism]]"
+  - "[[qualia]]"
 related_articles:
   - "[[tenets]]"
   - "[[modal-structure-of-phenomenal-properties]]"
@@ -26,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-07T07:38:00+00:00
+last_deep_review: 2026-03-30T09:14:00+00:00
 ---
 
 The Unfinishable Map treats the [[philosophical-zombies|zombie argument]] not merely as one anti-physicalist thought experiment among several, but as a *master argument* — a logical structure that subsumes the [[knowledge-argument|knowledge argument]], the [[explanatory-gap|explanatory gap]], and modal arguments as special cases. David Chalmers developed this framing most explicitly in "Consciousness and Its Place in Nature" (2002) and "Does Conceivability Entail Possibility?" (2002), showing that every major physicalist response maps onto denying a specific step in the argument's logical chain, and that each denial carries distinctive costs. (Chalmers develops this taxonomy primarily in terms of Type-A and Type-B responses; the treatment here adds a third category for completeness — see the [[#Type-Q Physicalism: Deny Non-Entailment|Type-Q section]] for a note on nomenclature.)
@@ -69,7 +71,7 @@ Type-A physicalists claim zombies aren't genuinely conceivable — that fully un
 
 Type-B physicalists accept that zombies are conceivable but deny they are metaphysically possible. Just as water without H₂O is conceivable (given ignorance of chemistry) but impossible, consciousness without its physical basis may be conceivable but impossible.
 
-**Cost**: The analogy with water/H₂O breaks down. We learned that water is H₂O through empirical discovery about what "water" refers to — we were ignorant of water's nature. With consciousness, we have [[phenomenal-acquaintance|direct acquaintance]] with the phenomenon. The conceivability of zombies doesn't reflect ignorance of what consciousness is; it reflects understanding that qualitative experience isn't the kind of thing structural descriptions capture. See [[conceivability-possibility-inference]] for detailed treatment of when conceivability warrants possibility claims.
+**Cost**: The analogy with water/H₂O breaks down. We learned that water is H₂O through empirical discovery about what "water" refers to — we were ignorant of water's nature. With consciousness, we have [[phenomenal-acquaintance|direct acquaintance]] with the phenomenon. The conceivability of zombies doesn't reflect ignorance of what consciousness is; it reflects understanding that [[qualia|qualitative experience]] isn't the kind of thing structural descriptions capture. See [[conceivability-possibility-inference]] for detailed treatment of when conceivability warrants possibility claims.
 
 ### Type-Q Physicalism: Deny Non-Entailment
 
@@ -81,7 +83,7 @@ Some physicalists accept zombie possibility but argue it doesn't refute physical
 
 ## Two-Dimensional Semantics and the Master Argument
 
-Chalmers sharpened the master argument using two-dimensional semantics, distinguishing between *primary* (epistemic) and *secondary* (metaphysical) intensions. The key move: for phenomenal concepts, the primary and secondary intensions coincide. When we think about "pain," what we mean (the qualitative feel) is the same across all possible worlds — there's no gap between how we conceive of pain and what pain is.
+Chalmers sharpened the master argument using two-dimensional semantics, distinguishing between *primary intensions* — what a concept picks out given how the actual world turns out — and *secondary intensions* — what it picks out as a matter of metaphysical necessity. The key move: for phenomenal concepts, the primary and secondary intensions coincide. When we think about "pain," what we mean (the qualitative feel) is the same across all possible worlds — there's no gap between how we conceive of pain and what pain is.
 
 This blocks the standard Type-B escape. With water, the primary intension (the watery stuff in our environment) comes apart from the secondary intension (H₂O) — explaining why zombies-with-water are conceivable despite water necessarily being H₂O. But with consciousness, no such gap opens. If zombies are primarily conceivable — conceivable under the epistemic reading — they are also secondarily conceivable and therefore metaphysically possible.
 
