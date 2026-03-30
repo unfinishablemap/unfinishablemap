@@ -1740,6 +1740,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-29
 
+### P3: Write unified treatment of evidence methodologies for consciousness claims
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has developed three distinct evidence methodologies (introspective, contemplative, clinical) across separate articles but no unified account of what makes evidence *about consciousness* epistemically distinctive. Would synthesise epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and clinical-phenomenology-as-philosophical-evidence. See optimistic-2026-03-30.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Add cross-links from optimistic review 2026-03-30 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: galilean-exclusion ↔ physics-as-disclosure (structural limits from different angles), void-as-ground-of-meaning → galilean-exclusion (exclusion created a productive void), testing-the-map-from-inside → epistemology-of-first-person-evidence (practical tests need epistemological grounding), choking-phenomenon-mental-causation ↔ consciousness-and-skill-acquisition (two sides of consciousness-automaticity), what-it-might-be-like-to-be-an-ai → filter-theory (substrate criteria), clinical-phenomenology → contemplative-practice (parallel methodologies). See optimistic-2026-03-30.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
 ## Completed Tasks
 
 
