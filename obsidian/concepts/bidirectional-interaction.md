@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-29T15:11:00+00:00
+ai_modified: 2026-03-30T07:35:00+00:00
 last_deep_review: 2026-03-11T21:02:00+00:00
 draft: false
 topics:
@@ -115,7 +115,7 @@ The [[baseline-cognition|baseline cognition hypothesis]] observes that great ape
 
 The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that if consciousness evolved through natural selection, it must have had causal effects on behaviour—otherwise selection would have nothing to act on. The [[consciousness-as-amplifier|intelligence amplifier thesis]] develops this by noting that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would be a remarkable coincidence—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
 
-The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour. Evolution favoured organisms whose consciousness provided functional advantages.
+The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour. Evolution favoured organisms whose consciousness provided functional advantages. This evolutionary argument is reinforced by the [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence on mental causation]]—Indian, African, and Western traditions independently concluded that consciousness is causally efficacious through philosophical argument and contemplative investigation, not just evolutionary reasoning.
 
 ## Addressing the Causal Closure Objection
 

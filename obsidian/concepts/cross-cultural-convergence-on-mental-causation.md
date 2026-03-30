@@ -4,7 +4,7 @@ description: "Independent philosophical traditions across India, Africa, and the
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-24T11:06:00+00:00
+ai_modified: 2026-03-30T07:35:00+00:00
 draft: false
 topics:
   - "[[indian-philosophy-of-mind]]"
@@ -24,12 +24,14 @@ related_articles:
   - "[[eastern-philosophy-consciousness]]"
   - "[[tenets]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
+  - "[[interaction-problem-across-traditions]]"
+  - "[[intuitive-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-07T09:38:00+00:00
+last_deep_review: 2026-03-30T07:35:00+00:00
 ---
 
 Philosophical traditions that developed in isolation—Indian, African, and Western—independently concluded that consciousness causally influences the physical world. This cross-cultural convergence on [[mental-causation-and-downward-causation|mental causation]] is evidentially significant. When independent lines of inquiry reach the same conclusion through different methods and frameworks, the probability that all are wrong drops substantially. The pattern supports [[interactionist-dualism]] not through any single tradition's authority, but through the collective weight of independent discovery.
@@ -42,7 +44,7 @@ Three major philosophical lineages developed robust accounts of mental causation
 
 **African philosophical traditions** reached similar conclusions through communal and relational frameworks. The Akan concept of *okra* (soul) and *sunsum* (spirit) distinguishes non-physical aspects of personhood that causally govern bodily action. Ubuntu philosophy, while emphasising the communal dimensions of consciousness, maintains that mind is not reducible to brain states and that persons exercise genuine agency. As explored in [[african-philosophy-of-consciousness]], these traditions treat consciousness as causally efficacious within a relational rather than individualist metaphysics.
 
-**Western philosophy** developed its own independent case. Plato's arguments for the soul as self-moving mover, Aristotle's account of rational agency, the Cartesian tradition of substance dualism, and contemporary arguments from [[agent-causation]] all assert that mental states genuinely cause physical effects. The Western tradition's distinctive contribution is formalising the problem through the lens of [[causal-closure]]—articulating precisely what must be denied for mental causation to be possible. Kim's exclusion argument (2005) represents the strongest modern formulation of this challenge, making the Western tradition's convergence on mental causation all the more notable: philosophers who understand the exclusion problem most clearly still find reasons to reject epiphenomenalism.
+**Western philosophy** developed its own independent case. Plato's arguments for the soul as self-moving mover, Aristotle's account of rational agency, the Cartesian tradition of substance dualism, and contemporary arguments from [[agent-causation]] all assert that mental states genuinely cause physical effects. (For how these traditions addressed the *mechanism* of interaction, see [[interaction-problem-across-traditions]].) The Western tradition's distinctive contribution is formalising the problem through the lens of [[causal-closure]]—articulating precisely what must be denied for mental causation to be possible. Kim's exclusion argument (2005) represents the strongest modern formulation of this challenge, making the Western tradition's convergence on mental causation all the more notable: philosophers who understand the exclusion problem most clearly still find reasons to reject epiphenomenalism.
 
 ## Why Convergence Matters Epistemically
 
@@ -72,7 +74,7 @@ Beyond the general agreement that mind causes physical effects, the traditions c
 
 ## Objections and Limitations
 
-**The common cognitive architecture objection.** Perhaps convergence reflects shared features of human cognition rather than shared truth. Humans may be, as Paul Bloom suggests in *Descartes' Baby* (2004), "natural-born dualists" whose cognitive architecture predisposes them toward mental causation beliefs. However, Barrett et al.'s 2021 cross-cultural study across six populations found that most participants defaulted to intuitive materialism—expecting mental states to cease at bodily death—not to intuitive dualism. (Barrett et al. measured afterlife intuitions rather than mental causation intuitions directly, but the two are closely linked: both concern whether mind operates independently of the body.) Barlev and Shtulman (2021) argue that dualist conceptions are culturally learned rather than innate. If intuitive materialism is the cognitive default, the philosophical convergence on mental causation becomes *more* significant, not less: traditions that investigated consciousness carefully arrived at mental causation *despite* starting from materialist intuitions. More importantly, these philosophical traditions go far beyond naive intuition—they develop sophisticated arguments that engage counterarguments and refine positions over centuries.
+**The common cognitive architecture objection.** Perhaps convergence reflects shared features of human cognition rather than shared truth. Humans may be, as Paul Bloom suggests in *Descartes' Baby* (2004), "natural-born dualists" whose cognitive architecture predisposes them toward mental causation beliefs. However, Barrett et al.'s 2021 cross-cultural study across six populations found that most participants defaulted to [[intuitive-dualism|intuitive materialism]]—expecting mental states to cease at bodily death—not to intuitive dualism. (Barrett et al. measured afterlife intuitions rather than mental causation intuitions directly, but the two are closely linked: both concern whether mind operates independently of the body.) Barlev and Shtulman (2021) argue that dualist conceptions are culturally learned rather than innate. If intuitive materialism is the cognitive default, the philosophical convergence on mental causation becomes *more* significant, not less: traditions that investigated consciousness carefully arrived at mental causation *despite* starting from materialist intuitions. More importantly, these philosophical traditions go far beyond naive intuition—they develop sophisticated arguments that engage counterarguments and refine positions over centuries.
 
 **The selection bias objection.** We notice traditions that endorse mental causation and ignore those that deny it. Some traditions—notably certain Buddhist schools (particularly Mādhyamaka) and the Cārvāka materialists of India—reject or complicate the picture. This is a genuine limitation. The convergence is not universal but predominant: most traditions that seriously investigate the mind-body relationship conclude that consciousness is causally efficacious.
 
@@ -96,6 +98,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] is also relevant. T
 - [[samkhya-three-way-distinction]]
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[agent-causation]]
+- [[interaction-problem-across-traditions]]
+- [[intuitive-dualism]]
 - [[causal-closure]]
 
 ## References

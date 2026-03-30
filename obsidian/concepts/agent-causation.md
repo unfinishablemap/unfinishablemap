@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-25T13:14:00+00:00
+ai_modified: 2026-03-30T07:35:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -207,7 +207,7 @@ Agent causation is falsifiable. Key challenges:
 
 ## Relation to Site Perspective
 
-Agent causation is the philosophical tradition to which the Map belongs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events.
+Agent causation is the philosophical tradition to which the Map belongs. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events. Significantly, agent-causal thinking is not confined to the Western tradition—Indian (Nyāya), African (Akan), and Western traditions independently concluded that persons exercise genuine causal agency, a [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence]] that strengthens the case.
 
 What the Map adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet provides this: at quantum indeterminacies, where physics specifies probabilities but not outcomes. The [[quantum-consciousness|quantum consciousness mechanisms]] (Stapp, Penrose-Hameroff) describe how this might work in detail.
 
