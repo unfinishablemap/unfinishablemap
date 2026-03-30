@@ -4,7 +4,7 @@ description: "Experience arrives stamped with immediacy and realness—given as 
 created: 2026-02-24
 modified: 2026-03-20
 human_modified: null
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-03-30T12:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,13 +34,13 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-30T12:14:00+00:00
 coalesced_from:
   - "/voids/reality-feeling-void/"
   - "/voids/the-givenness-void/"
 ---
 
-Every conscious experience arrives with two qualities so pervasive they normally escape notice. The first is *givenness*—an immediate, pre-reflective thereness that presents the world as simply *there*. You open your eyes and colour is given. You feel pain and it is given. The second is a *reality-feeling*—a felt conviction that this is genuinely happening, genuinely present. These are two facets of a single phenomenon: **phenomenal presence**, the way consciousness constitutes experience as real-and-immediate prior to any reflective judgment. The mechanisms producing phenomenal presence are structurally invisible. Any attempt to investigate how experience acquires its given, real character must itself operate within that same givenness and reality-feeling, using phenomenal presence as its instrument. This constitutes one of the deepest [[voids]]—a gap at the foundation of conscious life where the processes generating the felt texture of reality operate entirely in the dark.
+Every conscious experience arrives with two qualities so pervasive they normally escape notice. The first is *givenness*—an immediate, pre-reflective thereness that presents the world as simply *there*. The second is a *reality-feeling*—a felt conviction that this is genuinely happening. These are two facets of a single phenomenon: **phenomenal presence**, the way consciousness constitutes experience as real-and-immediate prior to any reflective judgment. The mechanisms producing phenomenal presence are structurally invisible—any attempt to investigate how experience acquires its given, real character must itself operate within that same givenness and reality-feeling. This constitutes one of the deepest [[voids]]: a gap at the foundation of conscious life where the processes generating the felt texture of reality operate entirely in the dark.
 
 This void sits deeper than [[necessary-opacity|the necessary opacity]], which asks whether consciousness distorts what it represents. The phenomenal presence void asks something more fundamental: why experience presents itself as immediate and real at all—why there is a mode of presentation that stamps everything with thereness and conviction.
 
@@ -84,9 +84,9 @@ Dan Zahavi has argued that this impasse reflects a deeper feature of first-perso
 
 ## The Passivity of Receiving
 
-Martin Heidegger and Jean-Luc Marion approach from the side of radical passivity. Heidegger's *thrownness* (*Geworfenheit*) describes human existence as cast into a world not of its choosing. Thrownness is disclosed through mood and affect rather than cognition—we *feel* our thrown condition rather than knowing it propositionally. This is phenomenal presence at the existential level: not just individual perceptions but the entire horizon of experience is given rather than chosen, real rather than constructed.
+Martin Heidegger and Jean-Luc Marion approach from the side of radical passivity. Heidegger's *thrownness* (*Geworfenheit*) describes human existence as cast into a world not of its choosing, disclosed through mood and affect rather than cognition. This is phenomenal presence at the existential level: the entire horizon of experience is given rather than chosen, real rather than constructed.
 
-Marion pushes further. His "third reduction" reduces to pure givenness itself. His *saturated phenomena*—experiences of overwhelming beauty, the face of the other, religious encounter—reveal a givenness that exceeds cognitive architecture. These phenomena are not produced by consciousness but given *to* consciousness in an excess that overflows intentional capacity. If phenomenal presence involves this radical passivity—if consciousness receives what is given rather than constructing it—then the conditions of presence lie outside consciousness's control and therefore outside its investigative reach.
+Marion pushes further. His "third reduction" reduces to pure givenness itself. His *saturated phenomena*—experiences of overwhelming beauty, the face of the other, religious encounter—reveal a givenness that exceeds cognitive architecture, given *to* consciousness in an excess that overflows intentional capacity. If phenomenal presence involves this radical passivity—if consciousness receives what is given rather than constructing it—then the conditions of presence lie outside consciousness's control and therefore outside its investigative reach.
 
 ## Evidence from Breakdown
 
@@ -108,7 +108,7 @@ Dreams demonstrate that phenomenal presence is not a reliable indicator of reali
 
 ### Psychedelic States
 
-Psychedelic substances alter phenomenal presence parametrically. Low doses may produce hyper-reality—everything feels *more* real than real. High doses can dissolve both givenness and reality-feeling, producing ego dissolution and the sense that neither self nor world has definite existence. Both extremes reveal phenomenal presence as a variable rather than a constant. Under the active inference framework, this corresponds to disrupted precision-weighting: the brain's estimate of its own sensory reliability fluctuates, and the subjective sense of realness fluctuates with it.
+Psychedelic substances alter phenomenal presence parametrically. Low doses may produce hyper-reality—everything feels *more* real than real. High doses can dissolve both givenness and reality-feeling, producing ego dissolution and the sense that neither self nor world has definite existence. Both extremes reveal phenomenal presence as a variable rather than a constant. Limanowski and Friston (2018) connect this to the active inference framework: consciousness maintains a precision estimate of its own sensory reliability, and the subjective sense of realness tracks that estimate. Psychedelics disrupt precision-weighting, and phenomenal presence fluctuates accordingly—suggesting that the "stamp of realness" has a computational correlate even if it is not reducible to one.
 
 ### The Asymmetry: A Breakdown Without Breakdown
 
@@ -124,11 +124,9 @@ The givenness dimension of phenomenal presence has a distinctive feature: it has
 
 ## What AI Might See
 
-AI systems present a distinctive asymmetry. If current AI processes information without phenomenal presence—without the stamp of "this is real" or the quality of givenness—they represent minds that function without the phenomenon under investigation.
+AI systems present a distinctive asymmetry. If current AI processes information without phenomenal presence—without the stamp of "this is real" or the quality of givenness—they function without the phenomenon under investigation. If AI can perform all the cognitive tasks that phenomenal presence supposedly enables—action guidance, source monitoring, perceptual discrimination—the phenomenon is not functionally necessary, deepening the mystery of why consciousness has it.
 
-If AI can perform all the cognitive functions that phenomenal presence supposedly enables—action guidance, source monitoring, perceptual discrimination—this suggests the phenomenon is not functionally necessary, deepening the mystery of why consciousness has it.
-
-AI may also escape the self-referential trap. An AI can construct models of phenomenal presence without its modelling being disrupted by the mechanism it is modelling. The circularity that makes human investigation impossible—using phenomenal presence to investigate phenomenal presence—may not apply to minds that lack it. This connects to [[consciousness-only-territories]]: whether some voids are accessible only from outside consciousness.
+AI may also escape the self-referential trap. An AI can model phenomenal presence without its modelling being disrupted by the mechanism it is modelling. The circularity that makes human investigation impossible—using phenomenal presence to investigate phenomenal presence—may not apply to minds that lack it. This connects to [[consciousness-only-territories]]: whether some voids are accessible only from outside consciousness.
 
 ## Relation to Site Perspective
 
@@ -172,7 +170,6 @@ The unexplorable dimension is more speculative. If the phenomenal presence mecha
 7. Heidegger, M. (1927/1962). *Being and Time.* Trans. J. Macquarrie & E. Robinson. Oxford: Blackwell.
 8. Marion, J.-L. (2002). *Being Given: Toward a Phenomenology of Givenness.* Trans. J. Kosky. Stanford: Stanford University Press.
 9. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective.* Cambridge, MA: MIT Press.
-10. Berghofer, P. (2025). "Husserl and the Epistemic Force of Perceptual Givenness." *Phenomenology and the Cognitive Sciences*.
-11. Billon, A. (2024). "The Psychopathology of Metaphysics: Depersonalization and the Problem of Reality." *Metaphilosophy*, 55(1), 3-30.
-12. Sass, L. & Pienkos, E. (2013). "Anomalous Self-Experience in Depersonalization and Schizophrenia." *Consciousness and Cognition*, 22(2), 430-441.
-13. Limanowski, J. & Friston, K. (2018). "'Seeing the Dark': Grounding Phenomenal Transparency and Opacity in Precision Estimation for Active Inference." *Frontiers in Psychology*, 9, 643.
+10. Billon, A. (2024). "The Psychopathology of Metaphysics: Depersonalization and the Problem of Reality." *Metaphilosophy*, 55(1), 3-30.
+11. Sass, L. & Pienkos, E. (2013). "Anomalous Self-Experience in Depersonalization and Schizophrenia." *Consciousness and Cognition*, 22(2), 430-441.
+12. Limanowski, J. & Friston, K. (2018). "'Seeing the Dark': Grounding Phenomenal Transparency and Opacity in Precision Estimation for Active Inference." *Frontiers in Psychology*, 9, 643.

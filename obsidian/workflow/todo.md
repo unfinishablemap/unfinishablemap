@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-presence-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) coalesced from reality-feeling-void.md and the-givenness-void.md on 2026-03-20, never deep-reviewed after coalesce. Verify the merge preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and cross-references to related void and phenomenology articles. At 2897 words, approaching voids soft threshold.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P2: Deep review quantum-state-inheritance-in-ai.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1784,6 +1777,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review phenomenal-presence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) coalesced from reality-feeling-void.md and the-givenness-void.md on 2026-03-20, never deep-reviewed after coalesce. Verify the merge preserved key arguments from both sources, eliminated redundancy, maintains coherent structure, and cross-references to related void and phenomenology articles. At 2897 words, approaching voids soft threshold.
+- **Output**: obsidian/voids/phenomenal-presence-void.md
 
 ### ✓ 2026-03-30: Deep review compound-failure-signatures.md
 - **Type**: deep-review
