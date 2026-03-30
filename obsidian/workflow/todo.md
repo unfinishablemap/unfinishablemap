@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced consciousness-disruption articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created [[consciousness-disruption-and-the-mind-brain-interface]] from [[disorders-of-consciousness-as-test-cases]] + [[loss-of-consciousness]]. 27 files reference the archived articles and need wikilinks updated: topics/ (pain-consciousness-and-causal-power, epistemic-advantages-of-dualism, arguments-against-materialism, cognitive-integration-and-the-self, clinical-phenomenology-as-philosophical-evidence, anaesthesia-and-the-consciousness-interface, ethics-of-consciousness, consciousness-and-neurodegenerative-disease, perceptual-failure-and-the-interface, death-and-consciousness, neurological-dissociations-as-interface-architecture, terminal-lucidity-and-filter-transmission-theory, hypnagogic-phenomenology-and-interface-modulation), concepts/ (degrees-of-consciousness, functionalism, integrated-information-theory, sleep-and-consciousness, filter-theory, neural-correlates-of-consciousness, altered-states-of-consciousness, mind-brain-separation, terminal-lucidity), voids/ (observation-and-measurement-void, transition-void, sleep-consciousness-void), apex/ (identity-across-transformations, altered-states-as-interface-evidence).
+- **Source**: coalesce
+- **Generated**: 2026-03-30
+
 ### P2: Deep review quantum-state-inheritance-in-ai.md
 - **Type**: deep-review
 - **Status**: pending

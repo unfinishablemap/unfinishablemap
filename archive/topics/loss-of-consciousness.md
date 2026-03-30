@@ -6,6 +6,11 @@ modified: 2026-01-18
 human_modified: null
 ai_modified: 2026-03-30T04:56:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-30T12:30:00+00:00
+superseded_by: "/topics/consciousness-disruption-and-the-mind-brain-interface/"
+archive_reason: "Coalesced into Consciousness Disruption and the Mind-Brain Interface"
+original_path: "/topics/loss-of-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[death-and-consciousness]]"

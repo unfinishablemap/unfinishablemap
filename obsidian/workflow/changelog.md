@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 12:30 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[disorders-of-consciousness-as-test-cases]], [[loss-of-consciousness]]
+- **Target**: [[consciousness-disruption-and-the-mind-brain-interface]]
+- **Archived**: archive/topics/disorders-of-consciousness-as-test-cases.md, archive/topics/loss-of-consciousness.md
+- **References to review**: 27 files across topics/, concepts/, voids/, apex/
+
 ## 2026-03-30 12:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenal-presence-void]]

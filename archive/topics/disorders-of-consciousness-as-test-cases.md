@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-23T04:22:00+00:00
 last_deep_review: 2026-03-23T04:22:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-30T12:30:00+00:00
+superseded_by: "/topics/consciousness-disruption-and-the-mind-brain-interface/"
+archive_reason: "Coalesced into Consciousness Disruption and the Mind-Brain Interface"
+original_path: "/topics/disorders-of-consciousness-as-test-cases/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[loss-of-consciousness]]"
