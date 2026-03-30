@@ -135,7 +135,7 @@ What AST gets right—and the Map acknowledges this—is that the brain almost c
 
 ## The Void at Attention's Core
 
-Every interface has limits. [Attention creates voids](/voids/attention-created-voids/) as a structural necessity—to attend to anything is to render something else unattendable. Gestalt psychology's figure-ground relation, Husserl's thematic field and margin, James's unfocusable fringes—all point to the same structure: the periphery cannot be promoted to the centre without creating a new periphery.
+Every interface has limits. [Attention creates voids](/voids/attention-and-consciousness/) as a structural necessity—to attend to anything is to render something else unattendable. Gestalt psychology's figure-ground relation, Husserl's thematic field and margin, James's unfocusable fringes—all point to the same structure: the periphery cannot be promoted to the centre without creating a new periphery.
 
 The bandwidth constraint is not a design flaw to be overcome but a constitutive feature of selective engagement. A consciousness that could attend to everything simultaneously would not be attending at all; it would be something categorically different. Agency is real but bounded—not by lack of will, but by the structure of the bridge through which will operates.
 
@@ -188,4 +188,4 @@ This apex article synthesises:
 - [The Structure of Attention](/topics/structure-of-attention/) — The three-mode architecture identifying where consciousness contributes
 - [Attention and the Consciousness Interface](/topics/attention-and-the-consciousness-interface/) — Dissociation evidence, selection mechanisms, clinical evidence, and the AST critique unified
 - [Phenomenology of Returning Attention](/topics/phenomenology-of-returning-attention/) — Micro-phenomenological analysis of bidirectional interaction
-- [Attention-Created Voids](/voids/attention-created-voids/) — The structural limits of attentional engagement
+- [Attention-Created Voids](/voids/attention-and-consciousness/) — The structural limits of attentional engagement

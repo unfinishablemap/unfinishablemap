@@ -43,10 +43,10 @@ No new counterarguments raised. The six adversarial personas (Eliminative Materi
 
 ### Enhancements Made
 - Added new subsection "Attention Creates Voids" (approximately 90 words) introducing the structural void concept before the interface mechanism discussion
-- Added cross-link to [attention-created-voids](/voids/attention-created-voids/) as first item in Further Reading section
+- Added cross-link to [attention-created-voids](/voids/attention-and-consciousness/) as first item in Further Reading section
 
 ### Cross-links Added
-- [attention-created-voids](/voids/attention-created-voids/)
+- [attention-created-voids](/voids/attention-and-consciousness/)
 
 ## Word Count
 - Before: 2010 words (80% of 2500 soft threshold)

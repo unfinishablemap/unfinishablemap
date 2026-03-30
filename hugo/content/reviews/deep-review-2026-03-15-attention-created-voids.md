@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [Attention-Created Voids](/voids/attention-created-voids/)
+**Article**: [Attention-Created Voids](/voids/attention-and-consciousness/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-attention-created-voids/)
 
 ## Pessimistic Analysis Summary

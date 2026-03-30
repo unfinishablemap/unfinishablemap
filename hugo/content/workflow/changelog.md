@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 21:39 UTC - deep-review
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Word count**: 1989 → 2000 (+11)
+- **Critical issues addressed**: 1 (archived wikilinks from coalesced attention articles)
+- **Medium issues addressed**: 1 (two unlisted articles)
+- **Enhancements made**: 3 (replaced archived links, added second-person-void, updated related_articles)
+- **Output**: [deep-review-2026-03-30-voids](/reviews/deep-review-2026-03-30-voids/)
+
+## 2026-03-30 20:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [attention-created-voids](/voids/attention-and-consciousness/), [attention-disorders-and-consciousness](/voids/attention-and-consciousness/)
+- **Target**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Archived**: [attention-created-voids](/archive/voids/attention-created-voids/), [attention-disorders-and-consciousness](/archive/voids/attention-disorders-and-consciousness/)
+- **References to review**: ~25 files reference archived articles
+
 ## 2026-03-30 19:38 UTC - refine-draft
 - **Status**: Success
 - **Files**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)

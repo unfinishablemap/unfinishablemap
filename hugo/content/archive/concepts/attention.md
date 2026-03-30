@@ -86,7 +86,7 @@ Here the Map's framework offers a distinctive perspective. Rather than asking wh
 
 Before examining attention's positive role as interface, note its structural consequence: to attend is to create voids. The Gestalt figure-ground relation means that focal attention necessarily produces margins and backgrounds that cannot be simultaneously focal. James's "fringe of consciousness" cannot be directly examined without transforming it into something else. Penumbral suppression actively darkens what surrounds the attentional spotlight.
 
-This matters for the interface hypothesis: if attention is how consciousness engages matter, then consciousness necessarily creates inaccessibility as a byproduct of access. Selection implies exclusion. See [attention-created-voids](/voids/attention-created-voids/) for the full treatment of these structural limits.
+This matters for the interface hypothesis: if attention is how consciousness engages matter, then consciousness necessarily creates inaccessibility as a byproduct of access. Selection implies exclusion. See [attention-created-voids](/voids/attention-and-consciousness/) for the full treatment of these structural limits.
 
 ### The Willed-Instructed-Exogenous Distinction
 
@@ -202,7 +202,7 @@ The attention-consciousness relationship illuminates all five tenets:
 
 ## Further Reading
 
-- [attention-created-voids](/voids/attention-created-voids/) — How attention creates structural voids as a byproduct of selection
+- [attention-created-voids](/voids/attention-and-consciousness/) — How attention creates structural voids as a byproduct of selection
 - [voluntary-attention](/concepts/attention-as-interface/) — The willed-instructed-exogenous distinction
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention mediates consciousness's causal influence on matter
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — FA/OM meditation and selection vs witnessing modes

@@ -199,7 +199,7 @@ The 2025 adversarial testing found neither GWT nor IIT fully explains consciousn
 
 The convergence argument identifies *where* consciousness might influence brain states and *when* selection occurs. It does not explain *how* a non-physical consciousness biases physical outcomes. The quantum Zeno mechanism remains contested—decoherence objections have not been definitively answered. The convergence of attention and motor planning is well-established neuroscience; the extension to quantum selection is the Map's philosophical interpretation.
 
-Attention disorders are consistent with the interface model but also with purely computational accounts. The [void at the heart of attention disorders](/voids/attention-disorders-and-consciousness/) is that we cannot determine whether consciousness is unchanged behind a degraded interface or is itself altered in ways the degraded interface prevents us from recognising.
+Attention disorders are consistent with the interface model but also with purely computational accounts. The [void at the heart of attention disorders](/voids/attention-and-consciousness/) is that we cannot determine whether consciousness is unchanged behind a degraded interface or is itself altered in ways the degraded interface prevents us from recognising.
 
 The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengson, Schurger, Schwartz, Graziano—who would not all endorse the dualist framework applied to their work.
 
@@ -215,7 +215,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [free-will](/topics/free-will/) — How timing constraints relate to libertarian free will
 - [attention-schema-theory](/concepts/attention-schema-theory/) — Graziano's theory introduced
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — Apex synthesis: attention as the bridge between consciousness and matter
-- [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/) — The epistemological void of attention disorders
+- [attention-disorders-and-consciousness](/voids/attention-and-consciousness/) — The epistemological void of attention disorders
 
 ## References
 

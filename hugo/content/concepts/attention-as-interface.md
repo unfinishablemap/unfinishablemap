@@ -248,7 +248,7 @@ The hypothesis would fail if:
 
 ## Further Reading
 
-**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-laws](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-and-the-consciousness-interface/), [The Epistemological Void of Attention Disorders](/voids/attention-disorders-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
+**Core concepts**: [mental-effort](/concepts/mental-effort/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [psychophysical-laws](/concepts/psychophysical-laws/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [coupling-modes](/concepts/coupling-modes/), [attentional-economics](/concepts/attentional-economics/), [Attention Disorders and the Interface](/topics/attention-and-the-consciousness-interface/), [The Epistemological Void of Attention Disorders](/voids/attention-and-consciousness/), [Epistemology of Interface Mechanism](/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/)
 
 **Motor convergence**: [motor-selection](/concepts/motor-selection/), [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/)
 

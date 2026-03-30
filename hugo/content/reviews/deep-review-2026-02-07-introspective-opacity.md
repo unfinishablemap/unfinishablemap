@@ -55,10 +55,10 @@ None.
 ### Enhancements Made
 - Buddhist phenomenology section expanded with vipassana specifics and the insight that greater attentional acuity reveals characteristics (impermanence) without granting process-access
 - Dualism subsection reframed around uniformity of opacity rather than mere existence
-- Cross-link added to [attention-created-voids](/voids/attention-created-voids/) in Further Reading
+- Cross-link added to [attention-created-voids](/voids/attention-and-consciousness/) in Further Reading
 
 ### Cross-links Added
-- [attention-created-voids](/voids/attention-created-voids/)
+- [attention-created-voids](/voids/attention-and-consciousness/)
 
 ## Word Count
 - Before: 1913 words (96% of 2000 threshold)

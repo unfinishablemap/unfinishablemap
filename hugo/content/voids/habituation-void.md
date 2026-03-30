@@ -40,7 +40,7 @@ topics:
 
 The familiar disappears. When experiences become sufficiently routine, they drop out of phenomenal awareness while remaining functionally processed. You navigate your daily commute without seeing it. The background hum of your refrigerator vanishes unless it stops. The taste of your morning coffee fades within the first few sips. This is the Habituation Void: the structural barrier consciousness erects between itself and the overly familiar.
 
-The Unfinishable Map's [voids project](/voids/) investigates cognitive limits—places where thought cannot go or is blocked from going. The habituation void differs from [attention-created voids](/voids/attention-created-voids/) (which concern what attention excludes by selecting) and from [slipping thoughts](/voids/thoughts-that-slip-away/) (which concern memory failure). Here, the barrier is familiarity itself. We cannot maintain fresh phenomenal access to the habitual regardless of attentional effort.
+The Unfinishable Map's [voids project](/voids/) investigates cognitive limits—places where thought cannot go or is blocked from going. The habituation void differs from [attention-created voids](/voids/attention-and-consciousness/) (which concern what attention excludes by selecting) and from [slipping thoughts](/voids/thoughts-that-slip-away/) (which concern memory failure). Here, the barrier is familiarity itself. We cannot maintain fresh phenomenal access to the habitual regardless of attentional effort.
 
 ## The Architecture of Disappearance
 
@@ -135,7 +135,7 @@ The void reveals consciousness as constitutively novelty-oriented. The familiar 
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [Attention-Created Voids](/voids/attention-created-voids/) — How attention itself generates inaccessible territory
+- [Attention-Created Voids](/voids/attention-and-consciousness/) — How attention itself generates inaccessible territory
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture

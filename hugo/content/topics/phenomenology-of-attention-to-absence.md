@@ -99,7 +99,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is implicated becau
 
 ## Further Reading
 
-- [attention-created-voids](/voids/attention-created-voids/) — How attending produces unattendable territory
+- [attention-created-voids](/voids/attention-and-consciousness/) — How attending produces unattendable territory
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The structure of attention returning from absence
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed experience that absence violates
 - [phenomenology-of-temporal-consciousness-and-agency](/topics/phenomenology-of-temporal-consciousness-and-agency/) — How attention shapes temporal experience and agency

@@ -71,7 +71,7 @@ But the [voids](/voids/) framework asks: do these mechanisms exhaust the phenome
 
 Recent research on attention reveals a possibility beyond passive forgetting: attention may *create* slippage through its own operation. The attentional spotlight doesn't merely illuminate—it actively suppresses its penumbra, the surrounding zone. William James observed that consciousness has "fringes" that cannot become focal without ceasing to be fringes. Gurwitsch's field theory distinguishes theme, thematic field, and margin—with marginal contents following different organizational principles that prevent their becoming thematic.
 
-This is the core mechanism behind [attention-created-voids](/voids/attention-created-voids/)—attending generates unattendable territory. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
+This is the core mechanism behind [attention-created-voids](/voids/attention-and-consciousness/)—attending generates unattendable territory. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
 
 Several patterns suggest investigation:
 
@@ -145,7 +145,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [Illusionism](/concepts/illusionism/) — The radical challenge that slippage is misrepresentation
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — The bidirectional void between waking and dreaming where slippage is systematic
 - [The Memory Void](/voids/inaccessible-past/) — Whether past experiences are recoverable or lost forever
-- [Attention-Created Voids](/voids/attention-created-voids/) — How attending generates unattendable territory
+- [Attention-Created Voids](/voids/attention-and-consciousness/) — How attending generates unattendable territory
 - [The Absorption Void](/voids/absorption-void/) — Peak experiences that resist introspective access
 
 ## References

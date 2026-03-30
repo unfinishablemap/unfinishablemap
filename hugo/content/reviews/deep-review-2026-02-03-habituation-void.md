@@ -53,7 +53,7 @@ None.
 ### Cross-links Added (Orphan Integration)
 **Inbound links added FROM:**
 - [voids](/voids/) — Listed in Phenomenology of Limits section
-- [attention-created-voids](/voids/attention-created-voids/) — Listed in Further Reading as related void type
+- [attention-created-voids](/voids/attention-and-consciousness/) — Listed in Further Reading as related void type
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Listed in Further Reading
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Listed in Further Reading
 - [filter-theory](/concepts/filter-theory/) — Inline link in slime mold section + Further Reading entry

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-08
-**Article**: [Consciousness and the Structure of Attention Disorders](/voids/attention-disorders-and-consciousness/)
+**Article**: [Consciousness and the Structure of Attention Disorders](/voids/attention-and-consciousness/)
 **Previous review**: Never
 **Word count**: 1834 → 1863 (+29)
 

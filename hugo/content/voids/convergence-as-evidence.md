@@ -67,7 +67,7 @@ Signature failure: **epistemic asymmetry**—knowledge structurally available in
 
 ### The Cognitive Architecture Family
 
-The [evolved cognitive limits](/voids/biological-cognitive-closure/), [computational limits](/voids/computational-cognitive-limits/), [attention-created voids](/voids/attention-created-voids/), [habituation void](/voids/habituation-void/), [language-thought boundary](/voids/language-thought-boundary/), and [scale void](/voids/scale-void/) reveal constraints imposed by the specific architecture of human minds. These are voids because *minds like ours* cannot reach the territory—evolution optimised for fitness, not truth; language carves experience at joints that may not exist in the territory.
+The [evolved cognitive limits](/voids/biological-cognitive-closure/), [computational limits](/voids/computational-cognitive-limits/), [attention-created voids](/voids/attention-and-consciousness/), [habituation void](/voids/habituation-void/), [language-thought boundary](/voids/language-thought-boundary/), and [scale void](/voids/scale-void/) reveal constraints imposed by the specific architecture of human minds. These are voids because *minds like ours* cannot reach the territory—evolution optimised for fitness, not truth; language carves experience at joints that may not exist in the territory.
 
 The [Recognition Void's](/voids/recognition-void/) "inventory blindness" deepens this family: absent cognitive capabilities produce no signal, so the convergence of independent failure modes is stronger evidence than any single failure.
 

@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
-- **Type**: refine-draft
-- **Status**: complete
-- **Notes**: Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-30
-
 ### P2: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1799,6 +1792,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Update references to coalesced attention articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [attention-and-consciousness](/voids/attention-and-consciousness/). The following files reference archived articles and may need review: obsidian/voids/voids.md, obsidian/voids/habituation-void.md, obsidian/voids/absorption-void.md, obsidian/voids/thoughts-that-slip-away.md, obsidian/voids/convergence-as-evidence.md, obsidian/voids/binding-void.md, obsidian/voids/expertise-occlusion.md, obsidian/voids/three-kinds-of-void.md, obsidian/apex/attention-as-causal-bridge.md, obsidian/topics/phenomenology-of-attention-to-absence.md, obsidian/topics/attention-and-the-consciousness-interface.md, obsidian/topics/structure-of-attention.md, obsidian/topics/contemplative-pathology-and-interface-malfunction.md, obsidian/topics/phenomenological-psychiatry-and-altered-experience.md, obsidian/concepts/attention-as-interface.md, obsidian/concepts/introspection.md
+- **Output**: obsidian/voids/voids.md -- Context: Update references to coalesced attention articles
+
+### ✓ 2026-03-30: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
+- **Type**: refine-draft
+- **Notes**: Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
+- **Output**: Task context:
+Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
 
 ### ✓ 2026-03-30: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
 - **Type**: refine-draft

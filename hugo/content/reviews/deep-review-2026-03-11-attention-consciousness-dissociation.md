@@ -66,7 +66,7 @@ topics: []
 ### Cross-links Added
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/)
-- [attention-disorders-and-consciousness](/voids/attention-disorders-and-consciousness/)
+- [attention-disorders-and-consciousness](/voids/attention-and-consciousness/)
 
 ## Remaining Items
 
