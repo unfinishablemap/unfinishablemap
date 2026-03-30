@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix KS theorem non-sequitur and agency conflation in contextual-selection-in-quantum-foundations.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) The Kochen-Specker theorem constrains hidden-variable models — the article extrapolates this into claims about consciousness selecting outcomes, which the theorem does not support. The leap from "no non-contextual value assignment exists" to "consciousness participates in constituting outcomes" is a non-sequitur. (2) The free will section conflates "not determined" with "agentive" — quantum indeterminacy provides randomness, not agency. Also: "contextuality survives decoherence" is technically correct but misleadingly deployed. See pessimistic-2026-03-29-evening.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
 ### P2: Address generalisation problem and Stapp neutrality in causal-closure-debate-historical-survey.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1749,6 +1742,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Fix KS theorem non-sequitur and agency conflation in contextual-selection-in-quantum-foundations.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The Kochen-Specker theorem constrains hidden-variable models — the article extrapolates this into claims about consciousness selecting outcomes, which the theorem does not support. The leap from "no non-contextual value assignment exists" to "consciousness participates in constituting outcomes" is a non-sequitur. (2) The free will section conflates "not determined" with "agentive" — quantum indeterminacy provides randomness, not agency. Also: "contextuality survives decoherence" is technically correct but misleadingly deployed. See pessimistic-2026-03-29-evening.md
+- **Output**: obsidian/concepts/contextual-selection-in-quantum-foundations.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The Kochen-Specker theorem constrains hidden-variable models — the article extrapolates this into claims about consciousness selecting outcomes, which the theorem does not support. The leap from "no non-contextual value assignment exists" to "consciousness participates in constituting outcomes" is a non-sequitur. (2) The free will section conflates "not determined" with "agentive" — quantum indeterminacy provides randomness, not agency. Also: "contextuality survives decoherence" is technically correct but misleadingly deployed. See pessimistic-2026-03-29-evening.md
 
 ### ✓ 2026-03-30: Address asymmetric evidential standards in rival framework articles
 - **Type**: refine-draft
