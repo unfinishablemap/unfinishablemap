@@ -1754,6 +1754,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-30
 
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong theory of quantum selection but hasn't systematically explored action theory implications. How does the selection model handle skilled performance, sport, craft? Builds on consciousness-and-skill-acquisition, choking-phenomenon-mental-causation, motor-selection, volitional-control. See optimistic-2026-03-30-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Write article on IIT as Kuhnian paradigm competition case study
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Detailed case study showing paradigm competition in action. IIT emerged from neuroscience, makes bold structural claims, faces the combination problem, generated enthusiastic adoption and sharp criticism — textbook paradigm dynamics. Extends consciousness-and-the-structure-of-scientific-revolutions. See optimistic-2026-03-30-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Add cross-links from optimistic review 2026-03-30 afternoon findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Seven cross-linking opportunities: pragmatisms-path-to-dualism ↔ consciousness-and-the-structure-of-scientific-revolutions (reflexive argument and Kuhnian crisis complement each other), self-stultification-as-master-argument ↔ parsimony-case-for-interactionist-dualism (establishes efficacy then shows it's not extravagant), indian-philosophy-of-mind ↔ contemplative-practice-as-philosophical-evidence (metaphysics-methodology integration), three-kinds-of-void ↔ epistemic-advantages-of-dualism (voids operationalise epistemic humility), phenomenology-of-intellectual-effort ↔ self-stultification-as-master-argument (phenomenology of reasoning is what self-stultification shows can't be epiphenomenal), consciousness-and-the-structure-of-scientific-revolutions ↔ comparing-quantum-consciousness-mechanisms (mechanism proliferation as Kuhnian crisis evidence), ethics-of-possible-ai-consciousness ↔ epistemic-advantages-of-dualism (asymmetric cost applied). See optimistic-2026-03-30-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
 ### P3: Address self-stultification tracking response in philosophical-zombies.md
 - **Type**: refine-draft
 - **Status**: pending
