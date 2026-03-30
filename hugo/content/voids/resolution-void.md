@@ -21,7 +21,7 @@ related_articles:
 - '[[voids]]'
 - '[[scale-void]]'
 - '[[temporal-void]]'
-- '[[continuity-void]]'
+- '[[smoothness-and-continuity]]'
 - '[[computational-cognitive-limits]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[bandwidth-problem-mental-causation]]'
@@ -92,7 +92,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 - [voids](/voids/) — The framework of cognitive limits and unchartable territories
 - [scale-void](/voids/scale-void/) — Parallel resolution limits in spatial cognition
 - [temporal-void](/voids/temporal-void/) — The temporal dimension of conscious confinement
-- [continuity-void](/voids/continuity-void/) — Whether experience is continuous or discrete at the finest grain
+- [smoothness-and-continuity](/voids/smoothness-and-continuity/) — Whether experience is continuous or discrete at the finest grain
 - [grain-mismatch](/concepts/grain-mismatch/) — The structural incompatibility between smooth phenomenal properties and discrete neural substrates
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and how consciousness packages time
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What happens when perception degrades and the interface becomes visible

@@ -57,7 +57,7 @@ Cross-review of neural-refresh-rates.md against smoothness and binding articles:
 
 ### Cross-links Added
 - [capability-division-problem](/voids/capability-division-problem/)
-- [continuity-void](/voids/continuity-void/)
+- [continuity-void](/voids/smoothness-and-continuity/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
 

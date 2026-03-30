@@ -25,7 +25,7 @@ related_articles:
   - "[[probability-intuition-void]]"
   - "[[mind-space-void]]"
   - "[[death-void]]"
-  - "[[continuity-void]]"
+  - "[[smoothness-and-continuity]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[resonance-void]]"
 ai_contribution: 100
@@ -106,7 +106,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[transition-void|transition-boundary]] (where consciousness cannot witness its own state changes because observation requires the cognitive stance that must be released for the transition to occur), the [[continuity-void|continuity-boundary]] (where consciousness cannot determine its own temporal grain), the [[scale-void|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[probability-intuition-void|probability-boundary]] (where genuine randomness resists intuitive grasp), the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order), the [[mind-space-void|mind-space boundary]] (where other forms of consciousness become inconceivable), and the [[death-void|death-boundary]] (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[transition-void|transition-boundary]] (where consciousness cannot witness its own state changes because observation requires the cognitive stance that must be released for the transition to occur), the [[smoothness-and-continuity|continuity-boundary]] (where consciousness cannot determine its own temporal grain), the [[scale-void|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[probability-intuition-void|probability-boundary]] (where genuine randomness resists intuitive grasp), the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order), the [[mind-space-void|mind-space boundary]] (where other forms of consciousness become inconceivable), and the [[death-void|death-boundary]] (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -159,7 +159,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[witness-consciousness|Witness Consciousness]] — The sakshi tradition and the structure of awareness
 - [[altered-states-of-consciousness|Altered States of Consciousness]] — How different states reveal the configurability of the consciousness-brain interface
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
-- [[continuity-void|The Continuity Void]] — The structural impossibility of determining whether experience flows or arrives in discrete drops
+- [[smoothness-and-continuity|Smoothness and Continuity]] — The structural impossibility of determining whether experience flows or arrives in discrete drops
 - [[death-void|The Death Void]] — The purest edge: consciousness cannot represent its own absence
 - [[probability-intuition-void|The Probability Intuition Void]] — Where pattern-seeking architecture confronts genuine randomness
 

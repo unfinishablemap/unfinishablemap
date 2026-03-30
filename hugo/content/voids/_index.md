@@ -111,7 +111,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
 - [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions
 - [The Agency Verification Void](/voids/agency-verification-void/) — Why consciousness cannot verify its own causal powers
-- [The Continuity Void](/voids/continuity-void/) — Whether experience flows continuously or arrives in discrete drops
+- [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
 - [The Explanatory Void](/voids/explanatory-void/) — Why explanation cannot explain itself
 - [The Imagination Void](/voids/imagination-void/) — Where imagination's structural failures reveal the architecture of mind
@@ -164,7 +164,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [The Probability Intuition Void](/voids/probability-intuition-void/) — Why genuine randomness resists intuitive comprehension
 - [The Reconstruction Paradox](/voids/reconstruction-paradox/) — Why the brain silently corrects some errors but delivers others
-- [The Smoothness Problem](/voids/smoothness-problem/) — The gap between neural discreteness and experiential continuity
+
 
 ### Comparative Perspectives
 

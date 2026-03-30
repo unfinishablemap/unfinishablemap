@@ -30,7 +30,7 @@ related_articles:
 - '[[probability-intuition-void]]'
 - '[[mind-space-void]]'
 - '[[death-void]]'
-- '[[continuity-void]]'
+- '[[smoothness-and-continuity]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[resonance-void]]'
 title: The Phenomenology of the Edge
@@ -108,7 +108,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [transition-boundary](/voids/transition-void/) (where consciousness cannot witness its own state changes because observation requires the cognitive stance that must be released for the transition to occur), the [continuity-boundary](/voids/continuity-void/) (where consciousness cannot determine its own temporal grain), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp), the [recursion-boundary](/voids/recursion-void/) (where metacognitive depth terminates around fifth order), the [mind-space boundary](/voids/mind-space-void/) (where other forms of consciousness become inconceivable), and the [death-boundary](/voids/death-void/) (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [transition-boundary](/voids/transition-void/) (where consciousness cannot witness its own state changes because observation requires the cognitive stance that must be released for the transition to occur), the [continuity-boundary](/voids/smoothness-and-continuity/) (where consciousness cannot determine its own temporal grain), the [scale-boundary](/voids/scale-void/) (where cosmic distances and deep time exceed comprehension), the [probability-boundary](/voids/probability-intuition-void/) (where genuine randomness resists intuitive grasp), the [recursion-boundary](/voids/recursion-void/) (where metacognitive depth terminates around fifth order), the [mind-space boundary](/voids/mind-space-void/) (where other forms of consciousness become inconceivable), and the [death-boundary](/voids/death-void/) (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -161,7 +161,7 @@ The [apophatic tradition](/concepts/apophatic-approaches/) offers methods for en
 - [Witness Consciousness](/concepts/witness-consciousness/) — The sakshi tradition and the structure of awareness
 - [Altered States of Consciousness](/concepts/altered-states-of-consciousness/) — How different states reveal the configurability of the consciousness-brain interface
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
-- [The Continuity Void](/voids/continuity-void/) — The structural impossibility of determining whether experience flows or arrives in discrete drops
+- [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The structural impossibility of determining whether experience flows or arrives in discrete drops
 - [The Death Void](/voids/death-void/) — The purest edge: consciousness cannot represent its own absence
 - [The Probability Intuition Void](/voids/probability-intuition-void/) — Where pattern-seeking architecture confronts genuine randomness
 

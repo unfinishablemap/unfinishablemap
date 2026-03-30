@@ -67,7 +67,7 @@ The continuity-void article (2026-03-01) explores the structural impossibility o
 Integration kept minimal due to word count constraints (article at 118% of soft threshold). Cross-link added at the taxonomic level in the edges list and in Further Reading.
 
 ### Enhancements Made
-- Added `[continuity-void](/voids/continuity-void/)` to related_articles frontmatter
+- Added `[continuity-void](/voids/smoothness-and-continuity/)` to related_articles frontmatter
 - Added continuity-boundary to "Multiple edges exist" section with descriptor
 - Added continuity-void to Further Reading
 
@@ -77,7 +77,7 @@ Integration kept minimal due to word count constraints (article at 118% of soft 
 - Tightened dissolving-insight interpretation paragraph (merged sentences)
 
 ### Cross-links Added
-- [continuity-void](/voids/continuity-void/)
+- [continuity-void](/voids/smoothness-and-continuity/)
 
 ## Remaining Items
 

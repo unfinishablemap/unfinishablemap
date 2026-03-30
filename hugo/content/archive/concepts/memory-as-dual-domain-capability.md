@@ -97,7 +97,7 @@ Memory as dual-domain capability connects to each of the Map's tenets.
 ## Further Reading
 
 - [capability-division-problem](/voids/capability-division-problem/) — The general framework this article extends
-- [smoothness-problem](/voids/smoothness-problem/) — The temporal instance of capability division
+- [smoothness-problem](/voids/smoothness-and-continuity/) — The temporal instance of capability division
 - [consciousness-and-memory](/topics/consciousness-and-memory/)
 - [episodic-memory](/concepts/episodic-memory/)
 - [inaccessible-past](/voids/inaccessible-past/)

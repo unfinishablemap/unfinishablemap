@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [The Smoothness Problem](/voids/smoothness-problem/)
+**Article**: [The Smoothness Problem](/voids/smoothness-and-continuity/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-smoothness-problem/)
 **Context**: Cross-review considering neural-refresh-rates-and-the-smoothness-problem insights
 

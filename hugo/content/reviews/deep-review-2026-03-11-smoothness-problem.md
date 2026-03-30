@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Smoothness Problem](/voids/smoothness-problem/)
+**Article**: [The Smoothness Problem](/voids/smoothness-and-continuity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -28,7 +28,7 @@ topics: []
 
 ### Medium Issues Found
 - **Missing illusionist engagement**: The article presented no response to the illusionist challenge — a major counterargument to phenomenal smoothness. Resolution: added "The Illusionist Response" section addressing Dennett's "user illusion" argument and the regress problem it faces.
-- **Missing cross-links**: No links to `[continuity-void](/voids/continuity-void/)`, `[unity-of-consciousness](/concepts/unity-of-consciousness/)`, `[illusionism](/concepts/illusionism/)`, or `[process-philosophy](/concepts/process-philosophy/)` despite conceptual relevance. Resolution: added to concepts, related_articles, and Further Reading with descriptive annotations.
+- **Missing cross-links**: No links to `[continuity-void](/voids/smoothness-and-continuity/)`, `[unity-of-consciousness](/concepts/unity-of-consciousness/)`, `[illusionism](/concepts/illusionism/)`, or `[process-philosophy](/concepts/process-philosophy/)` despite conceptual relevance. Resolution: added to concepts, related_articles, and Further Reading with descriptive annotations.
 - **Hz range imprecision**: Opening paragraph cited "7–13 Hz" which omits theta range (4–8 Hz) covered by VanRullen. Resolution: corrected to "4–13 Hz" to encompass both theta and alpha sampling.
 - **Process philosophy gap**: `[process-philosophy](/concepts/process-philosophy/)` listed in concepts but never discussed in article body. Resolution: added Whitehead connection in Relation to Site Perspective.
 
@@ -51,10 +51,10 @@ topics: []
 - Process philosophy (Whitehead) connection in Relation to Site Perspective
 - Expanded Further Reading with descriptive annotations
 - Added `[unity-of-consciousness](/concepts/unity-of-consciousness/)` and `[illusionism](/concepts/illusionism/)` to concepts
-- Added `[continuity-void](/voids/continuity-void/)` to related_articles
+- Added `[continuity-void](/voids/smoothness-and-continuity/)` to related_articles
 
 ### Cross-links Added
-- [continuity-void](/voids/continuity-void/)
+- [continuity-void](/voids/smoothness-and-continuity/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [illusionism](/concepts/illusionism/)
 - [process-philosophy](/concepts/process-philosophy/)

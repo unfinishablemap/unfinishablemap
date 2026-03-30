@@ -34,7 +34,7 @@ None. Article remains stable after six prior reviews.
    - Resolution: Updated to `[temporal integration](/topics/temporal-structure-of-consciousness/)`.
 
 2. **Discrete/continuous statement underconnected to continuity void**: The Temporal Binding section's "Whether consciousness comes in discrete frames or continuous flow remains debated" was a bare assertion. The continuity-void article provides the substantive argument for why this is structurally irresolvable, not merely debated.
-   - Resolution: Replaced "remains debated" with "may be [structurally irresolvable](/voids/continuity-void/)" — more precise and strengthens the cross-reference established in the previous review.
+   - Resolution: Replaced "remains debated" with "may be [structurally irresolvable](/voids/smoothness-and-continuity/)" — more precise and strengthens the cross-reference established in the previous review.
 
 ### Counterarguments Considered
 
@@ -80,7 +80,7 @@ All major strengths from prior reviews remain intact:
 ### Cross-links Updated
 
 - Fixed: `[temporal integration](/topics/temporal-structure-of-consciousness/)` → `[temporal integration](/topics/temporal-structure-of-consciousness/)` (body text)
-- Enhanced: Added `[structurally irresolvable](/voids/continuity-void/)` inline link in Temporal Binding section
+- Enhanced: Added `[structurally irresolvable](/voids/smoothness-and-continuity/)` inline link in Temporal Binding section
 
 ## Word Count
 

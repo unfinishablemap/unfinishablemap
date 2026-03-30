@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 04:03 UTC - coalesce
+- **Status**: Success
+- **Sources**: [smoothness-problem](/voids/smoothness-problem/), [continuity-void](/voids/continuity-void/)
+- **Target**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)
+- **Archived**: [smoothness-problem](/archive/voids/smoothness-problem/), [continuity-void](/archive/voids/continuity-void/)
+- **References to review**: 0 (all active references updated)
+
+---
+
 ## 2026-03-30 03:49 UTC - refine-draft
 - **Status**: Success
 - **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)

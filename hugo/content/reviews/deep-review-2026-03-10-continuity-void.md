@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [The Continuity Void](/voids/continuity-void/)
+**Article**: [The Continuity Void](/voids/smoothness-and-continuity/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

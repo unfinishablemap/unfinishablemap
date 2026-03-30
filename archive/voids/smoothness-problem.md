@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-29T02:22:00+00:00
 last_deep_review: 2026-03-18T03:44:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-30T04:03:00+00:00
+superseded_by: "/voids/smoothness-and-continuity/"
+archive_reason: "Coalesced into Smoothness and Continuity"
+original_path: "/voids/smoothness-problem/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[temporal-structure-of-consciousness]]"

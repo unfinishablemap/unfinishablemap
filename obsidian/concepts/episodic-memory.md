@@ -45,7 +45,7 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[phenomenology-of-memory-and-the-self]]"
   - "[[capability-division-problem]]"
-  - "[[smoothness-problem]]"
+  - "[[smoothness-and-continuity]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

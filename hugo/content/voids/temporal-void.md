@@ -40,7 +40,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[scale-void]]'
-- '[[continuity-void]]'
+- '[[smoothness-and-continuity]]'
 - '[[resolution-void]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[binding-void]]'
@@ -157,7 +157,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 - [absorption-void](/voids/absorption-void/) — Peak engagement dissolves temporal awareness and self-monitoring together
 - [inaccessible-past](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
-- [continuity-void](/voids/continuity-void/) — Whether consciousness has gaps
+- [smoothness-and-continuity](/voids/smoothness-and-continuity/) — Whether consciousness has gaps
 - [resolution-void](/voids/resolution-void/) — The temporal resolution limit of conscious access
 - [temporal-consciousness](/concepts/temporal-consciousness/) — How time structures conscious experience
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory

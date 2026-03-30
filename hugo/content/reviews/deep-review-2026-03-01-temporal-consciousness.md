@@ -27,7 +27,7 @@ topics: []
 ### Critical Issues Found
 
 1. **Broken link — `consciousness-and-temporal-integration`** (frontmatter + Further Reading): Archived article, superseded by `temporal-structure-of-consciousness` (which was already in the related_articles list).
-   - Resolution: Removed from frontmatter related_articles (redundant). Replaced in Further Reading with `[continuity-void](/voids/continuity-void/)`.
+   - Resolution: Removed from frontmatter related_articles (redundant). Replaced in Further Reading with `[continuity-void](/voids/smoothness-and-continuity/)`.
 
 ### Medium Issues Found
 
@@ -35,7 +35,7 @@ topics: []
    - Resolution: Added qualifying sentence acknowledging underdetermination while explaining why the collapse framework still makes extensionalism a natural fit for the Map.
 
 2. **Missing reciprocal cross-links to void articles**: The continuity-void, temporal-consciousness-void, and duration-void all link to temporal-consciousness, but no reciprocal links existed.
-   - Resolution: Added `[continuity-void](/voids/continuity-void/)` to frontmatter related_articles and Further Reading. Other void articles are sufficiently discoverable through continuity-void.
+   - Resolution: Added `[continuity-void](/voids/smoothness-and-continuity/)` to frontmatter related_articles and Further Reading. Other void articles are sufficiently discoverable through continuity-void.
 
 3. **Redundant AI argument in Temporal Binding section**: The final two sentences ("and this binding is where artificial systems fail. An AI processing tokens statelessly lacks whatever connects moments into experience") duplicated the dedicated "Implications for Machine Consciousness" section.
    - Resolution: Trimmed to maintain length-neutral mode while adding continuity-void content.
@@ -90,7 +90,7 @@ All major strengths from prior reviews remain intact:
 
 ### Cross-links Updated
 - Removed: `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` (archived, superseded by already-linked `[temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)`)
-- Added: `[continuity-void](/voids/continuity-void/)` (frontmatter + Further Reading)
+- Added: `[continuity-void](/voids/smoothness-and-continuity/)` (frontmatter + Further Reading)
 
 ## Word Count
 

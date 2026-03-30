@@ -55,7 +55,7 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[phenomenology-of-memory-and-the-self]]'
 - '[[capability-division-problem]]'
-- '[[smoothness-problem]]'
+- '[[smoothness-and-continuity]]'
 title: Episodic Memory and Autonoetic Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

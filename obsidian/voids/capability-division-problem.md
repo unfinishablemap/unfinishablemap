@@ -17,7 +17,7 @@ concepts:
   - "[[epiphenomenalism]]"
 related_articles:
   - "[[dualist-perception]]"
-  - "[[smoothness-problem]]"
+  - "[[smoothness-and-continuity]]"
   - "[[episodic-memory]]"
   - "[[dream-consciousness]]"
   - "[[lucid-dreaming-and-dualist-rendering]]"
@@ -69,7 +69,7 @@ This is not a shrinking domain. The capabilities consciousness enables — logic
 
 The capability division problem is not confined to visual perception. Wherever the brain and mind collaborate, the same question arises: which contributions are whose?
 
-**Temporal continuity.** Neural activity is oscillatory and discrete — perceptual cycles at roughly 7–13 Hz, gamma binding at ~40 Hz, processing in time slices of up to 400 milliseconds. Yet experience flows without seams. The [[smoothness-problem|smoothness problem]] is a temporal instance of capability division: the brain provides discrete computational snapshots, but the seamless experiential stream may be a mind-side contribution that consciousness brings to the interface rather than something the brain constructs.
+**Temporal continuity.** Neural activity is oscillatory and discrete — perceptual cycles at roughly 7–13 Hz, gamma binding at ~40 Hz, processing in time slices of up to 400 milliseconds. Yet experience flows without seams. The [[smoothness-and-continuity|smoothness problem]] is a temporal instance of capability division: the brain provides discrete computational snapshots, but the seamless experiential stream may be a mind-side contribution that consciousness brings to the interface rather than something the brain constructs.
 
 **Memory.** Physical engrams encode information, but recall involves autonoetic re-experiencing, selectional guidance during reconstruction, and phenomenal colouring that no trace can carry. The [[episodic-memory|dual-domain capability]] framework makes the division explicit: the brain handles storage and replay; consciousness handles the phenomenal dimension of remembering — the *what it was like* that distinguishes episodic recall from mere data retrieval.
 
@@ -99,7 +99,7 @@ The Map speculates that the capability division may ultimately prove asymmetric:
 
 ## Further Reading
 
-- [[smoothness-problem]] — The temporal instance of capability division
+- [[smoothness-and-continuity]] — The temporal instance of capability division
 - [[episodic-memory]] — Memory as requiring both brain-side and mind-side contributions
 - [[dream-consciousness]] — How the division shifts across waking and dreaming
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as clean evidence for capability division: architecture vs content

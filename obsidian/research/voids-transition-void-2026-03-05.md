@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[continuity-void]]"
+  - "[[smoothness-and-continuity]]"
   - "[[observation-void]]"
   - "[[dreamless-sleep-void]]"
   - "[[past-self-void]]"
