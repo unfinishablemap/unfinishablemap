@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate arguments-against-epiphenomenalism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-21). Core article arguing consciousness is causally efficacious — directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from the-epiphenomenalist-threat.md, mental-causation-and-downward-causation.md, and consciousness-as-amplifier.md. High tenet relevance.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-30
-
 ### P2: Integrate consciousness-collapse-prediction-landscape into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1749,6 +1742,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate arguments-against-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-21). Core article arguing consciousness is causally efficacious — directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from the-epiphenomenalist-threat.md, mental-causation-and-downward-causation.md, and consciousness-as-amplifier.md. High tenet relevance.
+- **Output**: arguments-against-epiphenomenalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-30: Update references to coalesced mental-causation and downward-causation articles
 - **Type**: cross-review

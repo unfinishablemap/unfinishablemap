@@ -5,6 +5,11 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 06:50 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: arguments-against-epiphenomenalism.md
+- **Reason**: Article was coalesced into [[concepts/epiphenomenalism]] on 2026-03-27. No obsidian source file exists. Archive version at `archive/concepts/arguments-against-epiphenomenalism.md` correctly points to replacement via `superseded_by`. The replacement article already incorporates all content (Convergence of Arguments section, 35 Further Reading entries). No action needed.
+
 ## 2026-03-30 06:43 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Thrownness Void
