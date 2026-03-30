@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 17:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-intellectual-effort]], [[topics/phenomenology-of-epistemic-cognition]]
+- **Target**: [[topics/phenomenology-of-intellectual-life]]
+- **Archived**: [[archive/topics/phenomenology-of-intellectual-effort]], [[archive/topics/phenomenology-of-epistemic-cognition]]
+- **References to review**: 31 active content files (cross-review task created)
+
 ## 2026-03-30 16:59 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/post-decoherence-selection]]

@@ -6,6 +6,11 @@ modified: 2026-02-01
 human_modified:
 ai_modified: 2026-03-30T13:44:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-30T17:19:00+00:00
+superseded_by: "/topics/phenomenology-of-intellectual-life/"
+archive_reason: "Coalesced into The Phenomenology of Intellectual Life"
+original_path: "/topics/phenomenology-of-intellectual-effort/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
