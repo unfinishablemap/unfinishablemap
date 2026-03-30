@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-28 18:48:00+00:00
+ai_modified: 2026-03-30 03:33:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Leibniz's 1714 thought experiment—walk through an enlarged brain,
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 00:54:00+00:00
+last_deep_review: 2026-03-30 03:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -71,11 +71,11 @@ Leibniz's Mill stands at the head of a lineage of anti-materialist arguments tha
 
 **The [knowledge-argument](/concepts/knowledge-argument/)** (Jackson, 1982) translates the mill into epistemic terms. Mary knows every physical fact about colour vision yet learns something new upon seeing red. What she lacked was exactly what the mill-walker cannot find: the qualitative character of perception. Where Leibniz walked through a machine and found no perception, Mary walked through a complete physics textbook and found no redness.
 
-**The [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)** (Chalmers, 1995) generalises both. Why is physical processing accompanied by experience at all? The hard problem is the mill argument writ large—not just about any particular perception but about the existence of phenomenal consciousness itself. Chalmers' formulation completed what Leibniz began: the recognition that the gap between mechanism and experience is not temporary ignorance but a structural feature of physical explanation.
+**The [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)** (Chalmers, 1995) generalises both. Why is physical processing accompanied by experience at all? The hard problem is the mill argument writ large—not just about any particular perception but about the existence of phenomenal consciousness itself. Chalmers' formulation gave the sharpest articulation of what Leibniz first identified: the gap between mechanism and experience is not temporary ignorance but a structural feature of physical explanation.
 
 **The [zombie argument](/concepts/philosophical-zombies/)** extends the mill in a different direction. If walking through the mill reveals only mechanism, we can conceive of the mechanism operating without any accompanying experience—a philosophical zombie. The mill makes conceivability vivid: nothing you would find inside demands that perception be present.
 
-This convergence—arguments from different centuries, different philosophical traditions, and different logical structures all arriving at the same conclusion—is itself evidential. The [cumulative case against materialism](/topics/arguments-against-materialism/) draws its strength from this pattern, and Leibniz's Mill is where it begins.
+The [cumulative case against materialism](/topics/arguments-against-materialism/) draws its strength from this convergence across centuries and logical structures, and Leibniz's Mill is where the tradition begins.
 
 ## Why the Argument Endures
 
@@ -156,19 +156,3 @@ The mill argument is the historical origin of what has become a converging famil
 1. Levine, J. (1983). Materialism and qualia: The explanatory gap. *Pacific Philosophical Quarterly*, 64, 354-361.
 1. Jackson, F. (1982). Epiphenomenal qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Lodge, P. (2014). Leibniz's mill argument against mechanical materialism revisited. *Ergo*, 1(3), 79-104.
-
-<!-- AI REFINEMENT LOG - 2026-03-28
-Changes made:
-- Added new "Historical Lineage: From the Mill to the Hard Problem" section positioning the argument as ancestor of explanatory gap, knowledge argument, hard problem, and zombie argument
-- Expanded opening summary to establish historical significance immediately
-- Strengthened "Relation to Site Perspective" convergence paragraph with links to convergent-phenomenological-evidence and epistemology-of-convergence-arguments
-- Added cross-links FROM knowledge-argument.md and arguments-against-materialism.md TO this article
-- Updated description for better SEO and historical framing
-- Added arguments-against-materialism and convergent-phenomenological-evidence to related_articles
-- Added epistemology-of-convergence-arguments to Further Reading
-- Added Jackson (1982) to References
-
-Key improvements: Reduced isolation from 3 to 6+ inbound links; positioned article as historical origin of anti-materialist tradition rather than standalone curiosity.
-
-This log should be removed after human review.
--->

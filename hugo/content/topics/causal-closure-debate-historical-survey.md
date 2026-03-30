@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 18:26:00+00:00
+ai_modified: 2026-03-30 03:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -80,6 +80,8 @@ But Kim himself acknowledged a formulation dilemma. The principle must be strong
 
 More damaging still is the *generalisation problem*: Kim's exclusion reasoning applies to all higher-level causation, not just mental causation. If physical micro-causes are always sufficient, then chemical, biological, and geological causes are equally "excluded." The argument proves too much — it eliminates all macro-level causation alongside the mental.
 
+Several philosophers have proposed frameworks that preserve higher-level causation within a causally closed physics. Woodward's interventionist account defines causation through counterfactual manipulation, allowing macro-level causes to be genuine without competing with micro-level ones. List and Menzies offer a difference-making account where higher-level properties earn causal status by being counterfactually relevant. Loewer's compatibilism treats mental and physical causation as non-competing descriptions at different levels. These responses successfully rescue chemical and biological causation from Kim's argument — but rescuing *mental* causation is harder. Each framework preserves higher-level causation only for properties that supervene on the physical. If mental properties are non-physical (as [interactionist-dualism](/concepts/interactionist-dualism/) holds), they fall outside the scope of these solutions. The interventionist, difference-making, and compatibilist strategies all presuppose that higher-level causes are constituted by lower-level physical causes. They address the generalisation problem by showing that *physically grounded* higher-level causation survives exclusion. The dualist's mental causes, which are not physically grounded, receive no such protection. The generalisation problem thus remains a genuine difficulty for Kim's argument as applied to biology and chemistry, while the exclusion of non-physical mental causation — the case Kim actually cared about — is left standing by these responses.
+
 ## Contemporary Challenges: Philosophy
 
 Three strands of contemporary philosophical criticism have weakened causal closure's standing.
@@ -94,7 +96,9 @@ Three strands of contemporary philosophical criticism have weakened causal closu
 
 The physics-based challenge cuts deeper. Orthodox quantum mechanics is not causally closed.
 
-Henry Stapp's analysis identifies the gap precisely. Von Neumann's Process 1 — the choice of what to measure — is not specified by any known physical law. Physics tells us what happens *given* a measurement but not why *that* measurement occurs. Stapp calls this "Process 0," the free choice determining Process 1. It constitutes a genuine causal gap in the physical description. [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) develops this into a full account: consciousness fills the gap by selecting among quantum-permitted neural outcomes.
+Henry Stapp's analysis identifies one way to locate this gap. Working within von Neumann's formulation of quantum mechanics, Stapp notes that Process 1 — the choice of what to measure — is not specified by the Schrödinger equation. Physics tells us what happens *given* a measurement but not why *that* measurement occurs. Stapp calls the free choice determining Process 1 "Process 0," and argues that it constitutes a causal gap in the physical description. [Stapp's quantum Zeno framework](/concepts/stapp-quantum-mind/) develops this into a full account: consciousness fills the gap by selecting among quantum-permitted neural outcomes.
+
+It should be noted that most physicists regard Stapp's framework as non-standard. His reliance on von Neumann's Process 1/Process 2 distinction is not shared by all interpretations of quantum mechanics, and his conclusions about a causal role for consciousness depend on treating the measurement problem as ontologically fundamental rather than as an artefact of formalism. The strength of his argument is therefore interpretation-dependent. Nevertheless, the broader point survives independently of Stapp's particular framework: orthodox quantum mechanics does not specify which outcome actualises, and this indeterminacy is a feature of the theory itself, not merely of our ignorance.
 
 More broadly, quantum mechanics determines the *probabilities* of measurement outcomes but not *which* outcome actualises. The physical causes are insufficient — not because of ignorance (hidden variables) but because the theory is fundamentally stochastic. This directly contradicts the claim that every physical event has a sufficient physical cause.
 
@@ -143,3 +147,14 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 9. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 10. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
 11. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Engaged with philosophical responses to Kim's generalisation problem (Woodward's interventionism, List & Menzies's difference-making, Loewer's compatibilism) and explained why these rescue physically grounded higher-level causation but not non-physical mental causation
+- Qualified Stapp's Process 0 analysis: acknowledged his framework is non-standard, his conclusions are interpretation-dependent, and separated the broader quantum indeterminacy point from Stapp's specific apparatus
+
+Based on pessimistic review findings.
+Key improvements: stronger dialectical engagement, honest qualification of speculative claims.
+
+This log should be removed after human review.
+-->

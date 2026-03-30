@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-03-29 06:01:00+00:00
+ai_modified: 2026-03-30 03:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -46,7 +46,7 @@ IIT starts unusually: from phenomenology rather than neuroscience. Instead of as
 
 ### Axioms: What Consciousness Is Like
 
-IIT begins with axioms—self-evident truths about experience that anyone can verify through introspection:
+IIT begins with axioms—self-evident truths about experience that anyone can verify through introspection. These axioms presuppose that phenomenal consciousness is real and has the character introspection suggests—a commitment the Map shares but that deflationists like Dennett and Frankish contest. The hard problem itself is a substantive philosophical claim, not an established fact; both IIT and the Map depend on taking it seriously (see [illusionism](/concepts/illusionism/) for the opposing view).
 
 1. **Existence**: Consciousness exists. Each experience is actual.
 2. **Composition**: Experience is structured—it contains distinctions, relations, multiple components.
@@ -181,7 +181,7 @@ IIT doesn't require quantum mechanics. It works at the level of classical inform
 
 Some speculate that quantum coherence might be relevant to how integration occurs in biological systems—quantum entanglement provides exactly the kind of holistic, irreducible connections that IIT claims underlie consciousness. A 2022 MRI study by Kerskens & Pérez reported possible entanglement signatures in brain water protons—though this remains preliminary and disputed, it suggests potential links between quantum holism and neural integration. McQueen has proposed hybrid CSL-IIT models where integrated information (Φ) modulates [spontaneous collapse](/concepts/spontaneous-collapse-theories/) parameters—the higher the integration, the stronger the collapse effect. But this isn't part of standard IIT. The theory is designed to work without invoking quantum mysteries, treating consciousness as a feature of classical causal structure.
 
-The Map's framework suggests IIT may be incomplete precisely because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's purely observational stance—consciousness *is* integration but doesn't *do* anything—misses consciousness's causal role. Quantum approaches give consciousness an independent causal role; IIT's identity thesis does not.
+From the Map's perspective, IIT may be incomplete because it ignores quantum mechanics. If consciousness influences physical outcomes via quantum selection (per Bidirectional Interaction), then IIT's identity thesis—consciousness *is* integration but doesn't *do* anything beyond it—leaves no room for causal efficacy. Quantum approaches would give consciousness an independent causal role that IIT's identity thesis does not. But this argument is conditional on the Map's framework being correct; IIT proponents would reject the premise that consciousness needs a causal role separate from the physical processes it is identical to. The disagreement is ultimately about whether identity or interaction better characterises the mind-matter relation.
 
 ### What Would Challenge This View?
 
@@ -242,15 +242,15 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Internet Encyclopedia of Philosophy. Integrated Information Theory of Consciousness.
 
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Fixed philosophical error: removed incorrect application of self-undermining argument against epiphenomenalism to IIT's identity thesis. On identity theory, beliefs about consciousness ARE caused by consciousness (because consciousness IS the physical process). Replaced with correct objection: identity assertions are unexplanatory (don't bridge the explanatory gap).
-- Added engagement with structural realist defence: acknowledged that fundamental identities are normally asserted, but argued the consciousness=Φ identity differs because it cannot be empirically confirmed via third-person observation.
-- Fixed awkward phrasing: "It is the physical, in a certain configuration" → "It is physical structure in a certain configuration"
-- Qualified quantum interaction claim in Assessment section: acknowledged it is speculative, faces decoherence objection, lacks experimental support, and is no more empirically established than IIT's identity claim
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made (building on 2026-03-29 pass):
+- Added explicit note that IIT's axioms presuppose phenomenal consciousness is real — a commitment the Map shares but deflationists contest (Issue 2)
+- Added cross-reference to illusionism article for the opposing view
+- Fixed circular reasoning in Quantum Question section: Map's critique of IIT now explicitly flagged as conditional on Map's framework being correct; IIT proponents' response acknowledged (Unsupported Claims)
+- Reframed quantum section conclusion as a genuine disagreement about identity vs interaction, not a one-sided critique
 
-Based on pessimistic-2026-03-29.md Issues 1, 3, and 4.
-Key improvements: philosophical accuracy of identity theory critique; symmetric evidential standards.
+Based on pessimistic-2026-03-29.md Issues 2 and Unsupported Claims.
+Key improvements: engagement with deflationary positions; removed circular reasoning in quantum critique.
 
 This log should be removed after human review.
 -->

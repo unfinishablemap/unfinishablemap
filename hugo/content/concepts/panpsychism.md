@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-29 05:46:00+00:00
+ai_modified: 2026-03-30 03:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -44,11 +44,11 @@ The Unfinishable Map shares panpsychism's core insight—consciousness cannot em
 
 ## The Anti-Emergence Argument
 
-Panpsychism's central motivation is negative: standard physicalism fails. The [hard problem](/topics/hard-problem-of-consciousness/) shows that no amount of physical description—however complete—explains why there's something it's like to be a brain. Physical properties describe structure and function; consciousness is what structure and function are *for* someone.
+Panpsychism's central motivation is negative: standard physicalism fails. The [hard problem](/topics/hard-problem-of-consciousness/) argues that no amount of physical description—however complete—explains why there's something it's like to be a brain. Physical properties describe structure and function; consciousness is what structure and function are *for* someone. Not everyone accepts this framing—deflationists like Dennett and illusionists like Frankish argue that the "hard problem" inflates first-person intuitions into a metaphysical barrier, and that consciousness may be real without being what we naively think it is. Panpsychism (and the Map) depend on taking the hard problem seriously; readers should know this is a substantive commitment, not a settled fact.
 
-How does consciousness arise from unconscious matter? Panpsychists argue it can't—at least not intelligibly. Galen Strawson puts it sharply: "Emergence can't be brute." If consciousness emerges from the non-conscious, there should be some explanation of why it emerges, how the transition works. But no such explanation seems possible. Physical descriptions are third-person; consciousness is first-person. The gap appears unbridgeable.
+How does consciousness arise from unconscious matter? Panpsychists argue it can't—at least not intelligibly. Galen Strawson puts it sharply: "Emergence can't be brute." If consciousness emerges from the non-conscious, there should be some explanation of why it emerges, how the transition works. But no such explanation seems possible. Physical descriptions are third-person; consciousness is first-person. The gap appears unbridgeable. A Dennettian response holds that experiential-from-non-experiential emergence is perfectly intelligible once we stop treating first-person intuitions as metaphysical data—just as liquidity emerges from non-liquid molecules. Panpsychists and dualists find this deflationary move unsatisfying, but it deserves acknowledgment as a serious philosophical position.
 
-The Map agrees. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes precisely because the explanatory gap cannot be closed. Consciousness isn't the sort of thing that emerges from structural arrangements of unconscious matter.
+The Map agrees with the panpsychist diagnosis. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes precisely because the explanatory gap cannot be closed. Consciousness isn't the sort of thing that emerges from structural arrangements of unconscious matter.
 
 ## The Panpsychist Solution
 
@@ -76,7 +76,7 @@ Panpsychists propose that consciousness—or something proto-conscious—is what
 
 **Panprotopsychist Russellian monism** (Chalmers's distinction) holds that quiddities are "protophenomenal"—non-experiential properties that jointly constitute phenomenal properties in complex combinations. Electrons don't have experience; they have something that yields experience when organized appropriately.
 
-Panprotopsychism faces a "revenge" problem: if protophenomenal properties aren't phenomenal, "protophenomenal zombies" seem conceivable—systems with all the protophenomenal properties but no experience. The conceivability argument that threatens standard physicalism threatens panprotopsychism too.
+Panprotopsychism faces a potential "revenge" problem: if protophenomenal properties aren't phenomenal, "protophenomenal zombies" might seem conceivable—systems with all the protophenomenal properties but no experience. However, the force of this objection is less clear than the original zombie argument against physicalism. The zombie argument works because the physical and the phenomenal are conceptually independent; panprotopsychism explicitly denies this independence by defining protophenomenal properties as constituting phenomenal properties in the right combinations. Chalmers himself acknowledges this is less clear-cut than the original conceivability argument.
 
 ## The Combination Problem
 
@@ -100,7 +100,7 @@ The combination problem has several variants:
 
 - **Slime molds** (no neurons): *Physarum polycephalum* solves mazes and shows habituation without a nervous system. The panpsychist answer: cognition and consciousness are distinct; slime molds may have proto-experience but lack integration for unified consciousness.
 
-The 2024 New York Declaration on Animal Consciousness affirms a "realistic possibility" of consciousness in invertebrates—exactly what panpsychism predicts. Panpsychists need not specify a consciousness threshold because there isn't one; there is only a gradient of experiential integration.
+The 2024 New York Declaration on Animal Consciousness affirms a "realistic possibility" of consciousness in invertebrates—consistent with panpsychism's predictions, though also compatible with emergentist and functionalist frameworks that place the threshold low. Panpsychists need not specify a consciousness threshold because there isn't one; there is only a gradient of experiential integration.
 
 Panpsychists have responses. Strawson argues that experiential-from-experiential emergence, while mysterious, is less mysterious than experiential-from-non-experiential emergence. Cosmopsychists (like the later Philip Goff) invert the problem: perhaps the universe as a whole is conscious, and individual minds are dissociated fragments of universal consciousness.
 
@@ -112,7 +112,7 @@ The Map agrees with panpsychism's diagnosis (emergence from non-conscious matter
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes this happens at the quantum level—consciousness biases otherwise indeterminate outcomes.
 
-This avoids the combination problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it. The Map's [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) develops this further: reality has two irreducible aspects (structure and actuality) that interact at quantum indeterminacies rather than being identical.
+This trades the combination problem for the interaction problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it. The Map's [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) develops this further: reality has two irreducible aspects (structure and actuality) that interact at quantum indeterminacies rather than being identical.
 
 ## Key Differences
 
@@ -123,7 +123,7 @@ This avoids the combination problem. There's no need to explain how micro-experi
 | Combination problem | Must explain how micro-experiences combine | Doesn't face this problem |
 | Interaction problem | Doesn't face this (no separate substances) | Must explain how distinct substances interact |
 
-The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map's proposed response appeals to quantum indeterminacy: consciousness might bias outcomes that physics leaves undetermined, so no physical law would be violated. This proposal remains speculative—it faces the decoherence objection (quantum superpositions in warm biological tissue collapse almost instantly) and lacks experimental support. It is a research programme, not an established result.
+The interaction problem—how do distinct substances causally influence each other?—is dualism's classic challenge. The Map's proposed response appeals to quantum indeterminacy: consciousness might bias outcomes that physics leaves undetermined, so no physical law would be violated. This proposal draws on ideas from Stapp's quantum Zeno approach and Penrose-Hameroff's orchestrated collapse, but remains speculative—it faces the decoherence objection (quantum superpositions in warm biological tissue collapse in femtoseconds, while neural processes operate at milliseconds) and lacks experimental support. It is a research programme, not an established result. Parsimony favours panpsychism here: one kind of stuff with two aspects is simpler than two substances requiring a novel interaction mechanism. The Map accepts this cost (see [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits)) but should not understate it.
 
 ## What Panpsychism Gets Right
 
@@ -183,7 +183,7 @@ The Map's framework is closer to dualism than panpsychism, but the two share mor
 
 If forced to choose between panpsychism and standard physicalism, the Map would choose panpsychism. Consciousness *is* fundamental; the hard problem *is* insoluble by physicalist means. Panpsychism sees this clearly.
 
-But the Map thinks interactionist dualism offers a cleaner solution. Consciousness influences matter without being identical to it. The quantum level may provide room for this influence without violating physics—though this remains an open research question, not a settled answer. And we avoid having to say that protons experience anything.
+But the Map thinks interactionist dualism offers a cleaner solution. Consciousness influences matter without being identical to it. The quantum level may provide room for this influence without violating physics—though this remains an open research question, not a settled answer. And the framework does not require attributing experience to fundamental particles.
 
 ## Further Reading
 
@@ -216,15 +216,19 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Qualified quantum interaction proposal in Key Differences section: acknowledged it is speculative, faces decoherence objection, lacks experimental support
-- Qualified quantum reference in Analytic Idealism comparison section
-- Qualified quantum reference in Evaluating the Positions section
-- Qualified quantum reference in Relation to Site Perspective section
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made (building on 2026-03-29 pass):
+- Added explicit acknowledgment that the hard problem is contested, not settled fact (Issue 2): deflationary positions from Dennett and Frankish now engaged
+- Added Dennettian response to anti-emergence argument with acknowledgment it deserves serious consideration
+- Softened panprotopsychism "revenge" problem (Issue 5): noted the conceivability argument is less clear-cut here than against physicalism, cited Chalmers's own acknowledgment
+- Fixed NY Declaration claim: changed "exactly what panpsychism predicts" to "consistent with" panpsychism but also compatible with other frameworks
+- Changed "This avoids the combination problem" to "This trades the combination problem for the interaction problem"
+- Added citation to Stapp and Penrose-Hameroff for quantum interaction proposal, added femtosecond/millisecond timescale specificity
+- Added explicit parsimony acknowledgment favouring panpsychism, with Tenet 5 cross-reference
+- Language: "we avoid having to say that protons experience anything" → more formal phrasing
 
-Based on pessimistic-2026-03-29.md Issues 1 and 3.
-Key improvements: symmetric evidential standards between rival views and the Map's own interaction proposal.
+Based on pessimistic-2026-03-29.md Issues 1, 2, 3, 5.
+Key improvements: symmetric evidential standards; engagement with deflationary positions; fairer treatment of panprotopsychism.
 
 This log should be removed after human review.
 -->
