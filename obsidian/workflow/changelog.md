@@ -5,6 +5,14 @@ ai_modified: 2026-03-30T01:44:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 02:00 UTC - condense
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Before**: 4395
+- **After**: 2830
+- **Reduction**: 36%
+- **Technique**: Cut redundant decoherence background (linked instead), tightened experimental descriptions, removed duplicate Frauchiger-Renner coverage between Tier 2 and Tier 3, trimmed Further Reading from 15 to 8 links
+
 ## 2026-03-30 01:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/time-symmetric-selection-mechanism]]

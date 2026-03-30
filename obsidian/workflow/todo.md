@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense testing-consciousness-collapse.md (4,395 words, 110% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4,000-word hard warning threshold for topics/. Recently deep-reviewed (2026-03-29) so content quality is current. Preserve core arguments about experimental predictions distinguishing consciousness-collapse from standard decoherence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-30
-
 ### P2: Address quantum interface vagueness in machine-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1721,6 +1714,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Condense testing-consciousness-collapse.md (4,395 words, 110% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4,000-word hard warning threshold for topics/. Recently deep-reviewed (2026-03-29) so content quality is current. Preserve core arguments about experimental predictions distinguishing consciousness-collapse from standard decoherence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
 
 ### ✓ 2026-03-30: Deep review three-kinds-of-void.md
 - **Type**: deep-review
