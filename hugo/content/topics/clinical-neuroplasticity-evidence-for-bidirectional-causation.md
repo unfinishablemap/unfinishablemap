@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-29 05:09:00+00:00
+ai_modified: 2026-03-30 14:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,9 +17,9 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-21
 date: &id001 2026-03-21
-description: Four converging clinical evidence streams—OCD self-directed neuroplasticity,
-  psychotherapy neuroimaging, meditation structural remodelling, and placebo neuroplasticity—build
-  an empirical case for genuine mental causation.
+description: Three converging clinical evidence streams—OCD neuroplasticity, psychotherapy
+  neuroimaging, and placebo effects—provide suggestive evidence for genuine mental
+  causation, honestly assessed.
 draft: false
 human_modified: null
 last_curated: null
@@ -154,18 +154,12 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 16. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 17. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 
-<!-- AI REFINEMENT LOG - 2026-03-29
+<!-- AI REFINEMENT LOG - 2026-03-30
 Changes made:
-- Downgraded opening from "strongest empirical evidence" to "suggestive empirical evidence" with explicit acknowledgment of materialist counter-explanations
-- OCD section: added sample size limitations (n=18, 9 new), lack of independent replication, no ERP head-to-head comparison, and full materialist counter-explanation via Hebbian learning
-- Replaced "Meditation-Driven Structural Remodelling" section with honest "Meditation and Neural Changes" section documenting Kral et al. (2022) replication failure, surviving functional evidence, and Van Dam et al. (2018) methodological critique
-- Convergence argument: added materialist counter-explanation paragraph, reduced from "four" to "three" pillars, acknowledged pattern is also consistent with different-physical-inputs explanation
-- Relation to Site Perspective: downgraded from "strongest empirical support" to "compatible with and suggestive of"
-- Closing: reframed to acknowledge philosophical arguments are stronger than clinical evidence
-- Added 6 new references (Kral 2022, Goyal 2014, Van Dam 2018, Lazar 2005, Hölzel 2011, Schwartz 1996)
+- Updated description frontmatter from "four converging" streams including "meditation structural remodelling" to "three converging" streams, matching the body text revised on 2026-03-29
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Major evidence calibration across all sections, honest engagement with replication failures and materialist explanations.
+Key improvements: Frontmatter consistency with revised body content.
 
 This log should be removed after human review.
 -->

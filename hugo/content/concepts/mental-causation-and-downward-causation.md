@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-03-30 05:48:00+00:00
+ai_modified: 2026-03-30 14:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -178,7 +178,7 @@ If consciousness causes physical effects, why only in *this* brain? The [pairing
 
 ## Empirical Evidence: Clinical Neuroplasticity
 
-The philosophical arguments gain empirical traction from [clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/). Schwartz's OCD programme showed that purely cognitive intervention normalises caudate nucleus metabolism comparably to SSRI pharmacotherapy (Schwartz 1998), though with methodological limitations. More broadly, meta-analyses reveal that CBT and pharmacotherapy produce comparable outcomes through *different neural pathways*—CBT top-down from cortex, pharmacotherapy bottom-up from synapse. If mental causation were merely physical causation redescribed, both should converge on the same route.
+The philosophical arguments gain empirical traction from [clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Schwartz's OCD programme showed that purely cognitive intervention normalises caudate nucleus metabolism on PET imaging (Schwartz et al., 1996), but the study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and lacks a head-to-head comparison with standard exposure-response prevention therapy. The mainstream materialist explanation—changed behaviour alters neural activation through Hebbian learning without requiring non-physical causation—fits the same data. More broadly, meta-analyses reveal that CBT and pharmacotherapy produce comparable outcomes through *different neural pathways*—CBT top-down from cortex, pharmacotherapy bottom-up from synapse. If mental causation were merely physical causation redescribed, both should converge on the same route, though the physicalist can reply that different physical inputs naturally take different physical routes.
 
 Placebo effects reinforce the point: belief states with propositional content recruit specific neurochemical systems, with different beliefs producing different neural signatures. This [content-specificity](/concepts/content-specificity-of-mental-causation/)—meaning determining which physical effect occurs—is difficult to accommodate if mental descriptions lack genuine causal efficacy. The philosophical case for downward causation stands on the arguments developed here independently of clinical evidence quality.
 
@@ -254,6 +254,7 @@ Mental causation and downward causation are central to the Map's framework.
 1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
 1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
+1. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
@@ -261,3 +262,16 @@ Mental causation and downward causation are central to the Map's framework.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
 1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Specified Schwartz PET study limitations: n=18 (9 new), no independent replication, no ERP head-to-head comparison
+- Added materialist counter-explanation (Hebbian learning) and physicalist reply to pathway divergence argument
+- Corrected citation from Schwartz 1998 to Schwartz et al. 1996 for the PET finding
+- Added Schwartz et al. 1996 to References section
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Empirical claims now specify evidence quality rather than vaguely noting "methodological limitations."
+
+This log should be removed after human review.
+-->

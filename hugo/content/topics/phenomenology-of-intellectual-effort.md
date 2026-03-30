@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-03-30 13:44:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Thinking hard feels like work. The experience of reasoning—holdin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 12:23:00+00:00
+last_deep_review: 2026-03-30 13:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -169,7 +169,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains 
 
 If intellectual effort were causally inert, its correlation with successful reasoning would be inexplicable. Why would effortful reasoning track truth better than lazy reasoning if the effort doesn't contribute? The phenomenology suggests that consciousness—through the work of thinking—causally influences cognitive outcomes. The [quantum Zeno mechanism](/concepts/mental-effort/) offers a candidate for how this might work: sustained attention holds desired cognitive patterns stable.
 
-The neuroplasticity evidence extends the point. Intellectual effort changes brains. Research shows that mathematical training enhances parietal cortex structure and function (Aydin et al., 2007; Grabner et al., 2007). These changes follow from effortful thinking, suggesting the phenomenal effort has physical consequences.
+The neuroplasticity evidence extends the point. Intellectual effort changes brains. Research shows that mathematicians have greater parietal cortex gray matter density and distinctive activation patterns during calculation compared to non-mathematicians (Aydin et al., 2007; Grabner et al., 2007). These structural differences correlate with sustained effortful thinking, suggesting the phenomenal effort has physical consequences.
 
 ### Minimal Quantum Interaction
 

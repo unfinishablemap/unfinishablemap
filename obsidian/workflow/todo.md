@@ -1782,6 +1782,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-30
 
+### P3: Address self-stultification tracking response in philosophical-zombies.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the self-stultification argument doesn't address the physicalist tracking response (if consciousness IS the neural state, reports caused by that state are reports OF consciousness). Also: Whitehead's process philosophy is cited in support of dualism but is closer to panpsychism—needs qualification. See pessimistic-2026-03-30-afternoon.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-03-30
+
 ## Completed Tasks
 
 
