@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-03-29T03:22:00+00:00
+ai_modified: 2026-03-30T00:30:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel, not a production line."
 topics:
@@ -57,15 +57,20 @@ Consciousness sits at the centre of a dramatic information asymmetry. Sensory sy
 
 Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness of Being" reviewed conscious processing rates across every domain researchers have measured. The results converge:
 
-| Domain | Conscious Processing Rate |
-|--------|--------------------------|
-| Reading | ~28–45 bits/second |
-| Speech comprehension | ~13 bits/second |
-| Typing | ~10 bits/second |
-| Skilled gaming (e.g. StarCraft) | ~10 bits/second |
-| Choice-reaction tasks | ~5 bits/second |
+| Domain | Conscious Processing Rate | Method |
+|--------|--------------------------|--------|
+| Choice-reaction tasks | ~5 bits/second | Hick 1952; log₂(alternatives) / reaction time |
+| Digit memorisation | ~5 bits/second | digits × log₂(10) / memorisation time |
+| Professional Tetris | ~7 bits/second | piece placement decisions per second |
+| Expert typing (120 wpm) | ~10 bits/second | ~10 keystrokes/s × ~1 bit/char (Shannon redundancy) |
+| Professional StarCraft | ~10 bits/second | actions per minute × information content |
+| Speed cards (memory sport) | ~18 bits/second | 52 cards × log₂(52!) bits / inspection time |
 
-The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. Across radically different tasks—linguistic, motor, perceptual, cognitive—conscious throughput hovers between 5 and 45 bits per second. This convergence is not a recent discovery. Hick (1952) first measured the human information-processing rate at ~5 bits per second using choice reaction time experiments. Over seven decades of subsequent measurement—through typing studies, memory competitions, professional e-sports, and speech analysis—the ceiling has held. The convergence across tasks, populations, and historical periods is what makes it a structural feature rather than an artefact of particular experimental designs.
+All figures use Shannon information theory: entropy of the decision space divided by time, not subjective difficulty. A binary choice carries 1 bit regardless of how "hard" it feels. Reading (~45 bits/s) and cross-linguistic speech production (~39 bits/s; Coupé et al. 2019) appear higher because they measure the *information content of the output signal*, not the rate of novel conscious decisions. Much of reading comprehension and speech production is automated; the conscious contribution—selecting what to say or attending to meaning—is closer to ~10 bits/s. Coupé et al. found that all 17 languages studied, across 9 linguistic families, converge on ~39 bits/second of speech information: fast-spoken languages carry less information per syllable and compensate with speed. This universal ceiling is a cognitive constraint on language, not a property of any particular grammar.
+
+The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. The convergence is not a recent discovery. Hick (1952) first measured the human information-processing rate at ~5 bits per second using choice reaction time experiments. Miller (1956) identified the related capacity limit of ~7 chunks in immediate memory, showing that "recoding" (chunking) is how humans work around the channel capacity—without removing it. Over seven decades of subsequent measurement—through typing studies, memory competitions, professional e-sports, and speech analysis—the ceiling has held. The convergence across tasks, populations, and historical periods is what makes it a structural feature rather than an artefact of particular experimental designs.
+
+Zheng and Meister call the ratio between the brain's sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—and note that the resulting factor of 10⁸ is "the largest unexplained number in brain science." The puzzle deepens at the storage level: the brain retains only approximately 1 gigabyte of information over a lifetime, far below its estimated ~50 terabyte capacity. The bottleneck is not merely in throughput but in what consciousness actually captures and retains from the vast computational activity surrounding it.
 
 Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary "The Brain Works at More Than 10 Bits Per Second" accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far exceeding the conscious ceiling. Individual neurons transmit ~200 bits per second. The bottleneck is specifically at *[[access-consciousness|conscious access]]*—the point where information becomes available to the experiencing subject—not in the computational substrate surrounding it.
 
@@ -142,6 +147,8 @@ What requires expanded conscious bandwidth is manipulation rather than maintenan
 ### Automatisation as Bandwidth Management
 
 Skills that begin as conscious, bandwidth-consuming processes become automatic with practice. Learning to drive consumes nearly all conscious bandwidth; experienced driving consumes almost none. The skill has moved outside the conscious channel, freeing bandwidth for other selections.
+
+This explains why elite performers do not appear to widen the bottleneck despite years of training. Memory athletes using the method of loci do not process more bits per second of novel information—they compress arbitrary sequences into familiar spatial patterns, reducing the effective information per conscious decision. Expert typists chunk familiar letter sequences so that each conscious selection triggers multiple keystrokes. Speed cubers recognise algorithmic patterns that compress a sequence of moves into a single recognition. In every case, expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity.
 
 On the interface model, consciousness trains neural systems to execute patterns autonomously, then withdraws its bandwidth to address new challenges. The brain learns what consciousness selects; consciousness selects what the brain hasn't yet learned. The transfer runs in one direction—from selected to automatic—because the selector's role ends once the pattern is learned.
 
@@ -222,10 +229,12 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Block, N. (2011). Perceptual consciousness overflows cognitive access. *Trends in Cognitive Sciences*, 15(12), 567–575.
 1. Carhart-Harris, R.L. et al. (2014). The entropic brain: A theory of conscious states informed by neuroimaging research with psychedelic drugs. *Frontiers in Human Neuroscience*, 8, 20.
 1. Cohen, M.A., Dennett, D.C., & Kanwisher, N. (2016). What is the bandwidth of perceptual experience? *Trends in Cognitive Sciences*, 20(5), 324–335.
+1. Coupé, C., Oh, Y.M., Dediu, D., & Pellegrino, F. (2019). Different languages, similar encoding efficiency: Comparable information rates across the human communicative niche. *Science Advances*, 5(9).
 1. Dehaene, S. (2014). *Consciousness and the Brain: Deciphering How the Brain Codes Our Thoughts*. Viking Press.
 1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26.
 1. Libet, B., Gleason, C.A., Wright, E.W., & Pearl, D.K. (1983). Time of conscious intention to act in relation to onset of cerebral activity. *Brain*, 106(3), 623–642.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
+1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
@@ -233,16 +242,19 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Sperling, G. (1960). The information available in brief visual presentations. *Psychological Monographs: General and Applied*, 74(11), 1–29.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 
-<!-- AI REFINEMENT LOG - 2026-03-29
+<!-- AI REFINEMENT LOG - 2026-03-30
 Changes made:
-- Integrated Sauerbrei & Pruszynski (2025) Nature Neuroscience critique throughout: Outbound Bottleneck, Against Production Models, Filter Theory, and Selection sections
-- Added historical convergence context (Hick 1952 → present, 70+ years of measurement)
-- Strengthened filter-theory connection: S&P data shows bottleneck is consciousness-specific, not a general neural limit
-- Strengthened consciousness-selecting-neural-patterns connection: pianist example contrasting execution bandwidth vs selection bandwidth
-- Added Hick (1952) and Sauerbrei & Pruszynski (2025) to References
+- Replaced approximate measurements table with precise Shannon-information-theory figures from research, adding method column
+- Added methodological note explaining why reading (~45 bits/s) and speech (~39 bits/s) appear higher than ~10 bits/s
+- Integrated Coupé et al. (2019) cross-linguistic speech universality finding (17 languages, 9 families, ~39 bits/s)
+- Added Miller (1956) chunking point: capacity limit of ~7 chunks, recoding as workaround
+- Added Zheng & Meister's "sifting ratio" (10⁸) and "largest unexplained number" framing
+- Added ~1 GB lifetime storage vs ~50 TB capacity point (bottleneck extends to retention)
+- Expanded automatisation section with chunking/trainability analysis: expertise compresses information rather than widening the channel
+- Added Coupé et al. (2019) and Miller (1956) to References
 - Based on research/bandwidth-constraints-10-bits-2026-03-29.md
 
-Key improvements: The conscious-vs-unconscious throughput distinction from S&P now threads through the philosophical argument, sharpening the case that the bottleneck is at the interface rather than in the hardware.
+Key improvements: The empirical grounding is now much stronger — specific task measurements with methods, the speech universality data, and the chunking analysis all strengthen the case that ~10 bits/s is a genuine structural ceiling rather than a measurement artefact.
 
 This log should be removed after human review.
 -->

@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine bandwidth articles with 10 bits/second research findings
-- **Type**: refine-draft
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-29
-
-### P3: Deep review amplification-mechanisms-consciousness-physics.md after coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Article coalesced today (2026-03-29) — absorbed stochastic-amplification-and-neural-selection.md. Never deep-reviewed after the merge. Verify the coalesce preserved coherence, eliminated redundancy from the merge, and maintains consistent terminology. Check cross-references to amplification-void, motor-selection, post-decoherence-selection, consciousness-as-amplifier, and tenet alignment (Tenets 2 and 3).
-- **Source**: staleness
-- **Generated**: 2026-03-29
-
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1706,6 +1693,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Refine bandwidth articles with 10 bits/second research findings
+- **Type**: refine-draft
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
+- **Output**: Task context:
+Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zheng & Meister 2024 synthesis and Sauerbrei & Pruszynski 2025 critique provide grounding for the ~10 bits/second conscious throughput claim. Integrate key findings into bandwidth-of-consciousness.md and asymmetric-bandwidth-consciousness.md. The conscious vs total neural throughput distinction is directly relevant to the interface model.
 
 ### ✓ 2026-03-30: Cross-review related void articles considering boundary-void.md
 - **Type**: cross-review

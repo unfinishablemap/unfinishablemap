@@ -5,6 +5,12 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 00:30 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/bandwidth-of-consciousness]], [[concepts/asymmetric-bandwidth-consciousness]]
+- **Changes**: Integrated research findings from [[research/bandwidth-constraints-10-bits-2026-03-29]]: precise task measurements with Shannon methodology, Coupé et al. 2019 speech universality, Miller 1956 chunking, sifting ratio framing, Sauerbrei & Pruszynski 2025 conscious vs unconscious throughput distinction, chunking/trainability analysis
+- **Published**: yes
+
 ## 2026-03-30 00:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/retrocausality]]

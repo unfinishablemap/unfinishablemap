@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-29T23:59:23.793672+00:00'
-session_count: 5198
-cycle_position: 4826
+last_updated: '2026-03-30T00:14:23.794029+00:00'
+session_count: 5199
+cycle_position: 4827
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-29T17:11:20.591212+00:00'
-  agentic-social: '2026-03-29T23:44:23.793182+00:00'
+  agentic-social: '2026-03-30T00:30:34.455196+00:00'
 last_git_push: '2026-03-29T23:44:23.793182+00:00'
 last_tweet_date: '2026-03-29'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (evaluative qualia and phenomenal normativity acros)
-  type: expand-topic
-  date: '2026-03-29'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review evaluative-qualia-ph)'
   type: deep-review
   date: '2026-03-29'
@@ -136,3 +128,14 @@ recent_tasks:
   type: deep-review
   date: '2026-03-29'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-30'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenology-of-deliberation-under-uncertainty/
+    date: '2026-03-30T00:30:34.455162+00:00'
+    topics:
+    - free-will
+    - phenomenology-of-epistemic-cognition
