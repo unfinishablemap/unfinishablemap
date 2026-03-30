@@ -22,10 +22,9 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[agent-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[conservation-laws-and-mental-causation]]'
-- '[[downward-causation]]'
 created: 2026-02-15
 date: &id001 2026-03-15
 description: How temporal ontology constrains consciousness theory, and why consciousness

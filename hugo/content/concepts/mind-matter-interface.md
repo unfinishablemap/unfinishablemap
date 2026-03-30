@@ -9,7 +9,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[illusionism]]'
@@ -195,7 +195,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How selection operates concretely
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Why selection addresses the exclusion problem
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — Why selection addresses the exclusion problem
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework
 - [tenets](/tenets/) — the Map's foundational commitments
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological exceptions

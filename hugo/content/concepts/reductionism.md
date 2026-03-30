@@ -9,7 +9,7 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[emergence]]'
 - '[[explanatory-gap]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[mysterianism]]'
@@ -145,9 +145,8 @@ The [Buddhist tradition](/concepts/buddhism-and-dualism/) raises its own challen
 - [emergence](/concepts/emergence/) — The philosophical framework for non-reductive properties
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanations leave consciousness unexplained
 - [materialism](/concepts/materialism/) — The view that reductionism about consciousness underwrites
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem reductionism tries to solve and the Map's alternative
+- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: why complete physical knowledge may not be complete knowledge
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — What reduction denies and the Map affirms
 - [causal-closure](/concepts/causal-closure/) — The principle reductionists assume and the Map denies at quantum level
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and why the hard problem may resist solution
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Process philosophy and the limits of substance-thinking

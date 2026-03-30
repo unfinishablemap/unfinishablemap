@@ -9,7 +9,7 @@ concepts:
 - '[[reductionism]]'
 - '[[combination-problem]]'
 - '[[binding-problem]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
 created: 2026-02-05

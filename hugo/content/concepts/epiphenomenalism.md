@@ -11,7 +11,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[dualism]]'
 - '[[qualia]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[self-stultification]]'
@@ -69,7 +69,7 @@ Epiphenomenalism seems obviously false—how can pain not cause me to avoid the 
 
 ### The Closure Argument
 
-The [causal closure of physics](/concepts/causal-closure/) provides the main motivation for epiphenomenalism. Kim's exclusion argument (see [mental-causation](/concepts/mental-causation-and-downward-causation/) for detailed treatment) runs:
+The [causal closure of physics](/concepts/causal-closure/) provides the main motivation for epiphenomenalism. Kim's exclusion argument (see [mental causation](/concepts/mental-causation-and-downward-causation/) for detailed treatment) runs:
 
 1. **Causal closure**: Every physical event that has a cause has a sufficient physical cause.
 2. **Non-identity**: Mental events are not physical events.
@@ -87,7 +87,7 @@ This reasoning is weak. We also don't understand how physical states produce con
 
 ## The Self-Stultification Problem
 
-The most powerful objection to epiphenomenalism is that it undermines itself. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents the formal argument; the [mental-causation](/concepts/mental-causation-and-downward-causation/) article develops the mechanism in detail. The [convergence section below](#convergence-of-arguments) classifies four logically independent argument types—epistemic, evolutionary, phenomenological, and the knowledge argument reversed—showing how their cumulative burden escalates even when individual defences succeed.
+The most powerful objection to epiphenomenalism is that it undermines itself. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents the formal argument; the [mental causation](/concepts/mental-causation-and-downward-causation/) article develops the mechanism in detail. The [convergence section below](#convergence-of-arguments) classifies four logically independent argument types—epistemic, evolutionary, phenomenological, and the knowledge argument reversed—showing how their cumulative burden escalates even when individual defences succeed.
 
 Consider: you're reading an argument for epiphenomenalism. You find it convincing. You form the belief that consciousness is causally inert.
 
@@ -222,7 +222,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why AI consciousness, if present, would be architecturally epiphenomenal
 - [dualism](/concepts/dualism/) — The foundational framework; epiphenomenalism is one of three dualist positions
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain is the hardest case for epiphenomenalism: felt awfulness inseparable from motivational force
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem epiphenomenalism claims to solve
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem epiphenomenalism claims to solve
 - [Illusionism as Epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) — Why illusionism inherits epiphenomenalism's structural problems
 - [causal-closure](/concepts/causal-closure/) — The principle that motivates epiphenomenalism
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from empirical observation to metaphysical axiom

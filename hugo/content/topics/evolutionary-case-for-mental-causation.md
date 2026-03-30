@@ -9,7 +9,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[baseline-cognition]]'
 - '[[evolution-of-consciousness]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[phenomenal-consciousness]]'
 - '[[global-workspace-theory]]'
 - '[[explanatory-gap]]'

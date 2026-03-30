@@ -26,7 +26,7 @@ concepts:
 - '[[materialism]]'
 - '[[phenomenal-transparency]]'
 - '[[conceivability-possibility-inference]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[meta-problem-of-consciousness]]'
 created: 2026-02-15
 date: &id001 2026-02-24

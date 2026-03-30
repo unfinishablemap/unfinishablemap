@@ -14,7 +14,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
 - '[[bidirectional-interaction]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[objections-to-interactionism]]'
 - '[[decoherence]]'
 - '[[explanatory-gap]]'
@@ -187,7 +187,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of the quantum Zeno mechanism
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves a causal gap at measurement
 - [the-reverse-inference](/topics/the-reverse-inference/) — The epistemic argument for using consciousness to constrain physics
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of how mind causes physical effects
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of how mind causes physical effects
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other challenges to the interactionist position
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why the selection mechanism operates only in brains
 

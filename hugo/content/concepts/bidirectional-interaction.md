@@ -11,10 +11,9 @@ concepts:
 - '[[argument-from-reason]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[quantum-consciousness]]'
-- '[[downward-causation]]'
 - '[[self-stultification]]'
 created: 2026-01-23
 date: &id001 2026-01-24
@@ -133,7 +132,7 @@ These premises are jointly inconsistent. Kim concludes mental properties must be
 
 The Map rejects premise 1. At quantum indeterminacies, there is no sufficient physical cause. Physics provides necessary but not sufficient conditions—the probabilities but not which outcome actualizes. Consciousness fills a genuine gap rather than competing with complete physical causes.
 
-See [causal-closure](/concepts/causal-closure/) and [mental-causation](/concepts/mental-causation-and-downward-causation/) for detailed treatment.
+See [causal-closure](/concepts/causal-closure/) and [mental causation](/concepts/mental-causation-and-downward-causation/) for detailed treatment.
 
 ## What Bidirectional Interaction Is Not
 
@@ -164,7 +163,7 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [voluntary attention](/concepts/attention-as-interface/) — The attention interface with neural evidence
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Comprehensive treatment of the philosophical framework
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view this tenet rejects
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader problem of how mind causes anything
+- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [causal-closure](/concepts/causal-closure/) — The closure objection and its limits
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism in detail
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for mental causation
@@ -178,7 +177,6 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Whether mental causation violates energy conservation
 - [agent-causation](/concepts/agent-causation/) — How consciousness exercises causal powers
 - [baseline-cognition](/concepts/baseline-cognition/) — The great ape comparison
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — Top-down causation more generally
 - [tenets](/tenets/) — The Map's foundational commitments
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference shows *where* bidirectional interaction occurs and *why* it is undetectable
 

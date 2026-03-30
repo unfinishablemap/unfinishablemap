@@ -18,7 +18,7 @@ apex_thesis: Genuine authorship requires consciousness to select among quantum p
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[moral-responsibility]]'
 - '[[quantum-consciousness]]'
 created: 2026-01-24

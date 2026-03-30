@@ -10,7 +10,7 @@ concepts:
 - '[[stapp-quantum-mind]]'
 - '[[decoherence]]'
 - '[[measurement-problem]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[psychophysical-laws]]'
 - '[[causal-closure]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
@@ -232,7 +232,7 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 
 **Background:**
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The exclusion problem
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The exclusion problem
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse creates the quantum opening
 - [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — Wheeler's information ontology and the case for informational foundations
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Which interpretations leave room for consciousness as causal participant

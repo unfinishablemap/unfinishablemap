@@ -25,12 +25,11 @@ related_articles:
 - '[[quantum-biology-and-neural-consciousness]]'
 - '[[process-philosophy]]'
 - '[[quantum-biology-and-neural-mechanisms]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[reductionism-and-consciousness]]'
 - '[[explanatory-gap]]'
-- '[[downward-causation]]'
 - '[[psychophysical-laws]]'
 - '[[biological-teleology-and-the-interface-framework]]'
 title: Consciousness and the Philosophy of Biology
@@ -117,7 +116,7 @@ The Map holds that philosophy of biology reveals not the biological nature of co
 - [agent-teleology](/concepts/agent-teleology/)
 - [functionalism](/concepts/functionalism/)
 - [emergence](/concepts/emergence/)
-- [mental-causation](/concepts/mental-causation-and-downward-causation/)
+- [mental causation](/concepts/mental-causation-and-downward-causation/)
 - [causal-closure](/concepts/causal-closure/)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)

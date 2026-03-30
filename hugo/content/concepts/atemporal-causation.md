@@ -17,7 +17,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[libet-experiments]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[decoherence]]'
 created: 2026-02-14
 date: &id001 2026-03-25

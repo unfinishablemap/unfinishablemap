@@ -8,7 +8,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[introspection]]'
 - '[[skill-delegation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 created: 2026-03-27
 date: &id001 2026-03-27
 description: Human+AI exploration of how mastery actively defends its own opacity—consciousness

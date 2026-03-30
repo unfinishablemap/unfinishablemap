@@ -10,7 +10,7 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[concepts/functionalism]]'
 - '[[qualia]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[explanatory-gap]]'
 - '[[intentionality]]'
 - '[[interactionist-dualism]]'
@@ -135,7 +135,7 @@ Together, these tenets do not merely select a position from the existing menu. T
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [dualism](/concepts/dualism/)
 - [materialism](/concepts/materialism/)
-- [mental-causation](/concepts/mental-causation-and-downward-causation/)
+- [mental causation](/concepts/mental-causation-and-downward-causation/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [qualia](/concepts/qualia/)

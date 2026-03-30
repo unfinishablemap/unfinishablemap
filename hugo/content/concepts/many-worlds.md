@@ -13,7 +13,7 @@ concepts:
 - '[[illusionism]]'
 - '[[decoherence]]'
 - '[[introspection]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[quantum-completeness]]'
 created: 2026-01-19
 date: &id001 2026-01-23

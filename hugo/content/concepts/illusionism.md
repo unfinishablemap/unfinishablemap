@@ -23,7 +23,7 @@ concepts:
 - '[[heterophenomenology]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[self-stultification]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 created: 2026-01-14
 date: &id001 2026-03-28

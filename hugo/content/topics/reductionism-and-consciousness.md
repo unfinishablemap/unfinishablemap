@@ -10,7 +10,7 @@ concepts:
 - '[[emergence]]'
 - '[[explanatory-gap]]'
 - '[[causal-closure]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
 - '[[qualia]]'
 - '[[functionalism]]'

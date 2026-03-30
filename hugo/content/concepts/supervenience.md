@@ -6,8 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[emergence]]'
-- '[[mental-causation]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[reductionism]]'
 - '[[causal-closure]]'
 - '[[psychophysical-laws]]'
@@ -104,8 +103,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is relevant because
 ## Further Reading
 
 - [emergence](/concepts/emergence/)
-- [mental-causation](/concepts/mental-causation-and-downward-causation/)
-- [downward-causation](/concepts/mental-causation-and-downward-causation/)
+- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [psychophysical-laws](/concepts/psychophysical-laws/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [explanatory-gap](/concepts/explanatory-gap/)

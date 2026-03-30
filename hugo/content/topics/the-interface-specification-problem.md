@@ -5,7 +5,7 @@ ai_modified: 2026-03-19 02:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[psychophysical-laws]]'
 - '[[interactionist-dualism]]'
 - '[[quantum-consciousness]]'
@@ -179,7 +179,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Fundamental principles connecting conscious experience to physical processes, including selection law formulations
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness couples: basis, timing, or probability control
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader case for consciousness causing physical effects
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader case for consciousness causing physical effects
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The unified attention-motor interface where selection occurs
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of psychophysical laws
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The ~10 bits/second constraint on conscious selection

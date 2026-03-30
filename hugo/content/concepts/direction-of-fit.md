@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[intentionality]]'
 - '[[agent-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
 - '[[cognitive-phenomenology]]'
@@ -115,7 +115,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [intentionality](/concepts/intentionality/) — The broader phenomenon of mental directedness that direction of fit classifies
 - [agent-causation](/concepts/agent-causation/) — How agents exercise world-to-mind causal power
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem direction of fit helps frame
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem direction of fit helps frame
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Empirical evidence that belief content drives physiological outcomes
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thought that may ground direction of fit

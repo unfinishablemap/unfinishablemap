@@ -5,8 +5,7 @@ ai_modified: 2026-03-20 04:33:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[mental-causation]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
@@ -124,8 +123,7 @@ The bandwidth problem also differs from the [binding problem](/concepts/binding-
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and its philosophical implications
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism that addresses the bandwidth problem
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework for mental-to-physical causation
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of how mind affects body
+- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The coupling laws the bandwidth problem constrains
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the selection channel through which consciousness operates
 - [resolution-void](/voids/resolution-void/) — The broader resolution gap between brain processing and conscious access

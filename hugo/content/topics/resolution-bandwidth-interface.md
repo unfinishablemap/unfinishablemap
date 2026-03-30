@@ -10,7 +10,7 @@ concepts:
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[interactionist-dualism]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[filter-theory]]'
 created: 2026-03-11
 date: &id001 2026-03-11

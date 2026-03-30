@@ -9,7 +9,7 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[mental-effort]]'
 - '[[mysterianism]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'

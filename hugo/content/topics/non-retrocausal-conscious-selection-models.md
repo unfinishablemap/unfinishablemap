@@ -12,7 +12,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[decoherence]]'
 - '[[collapse-and-time]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 created: 2026-03-18
 date: &id001 2026-03-18
 description: Three forward-in-time frameworks propose consciousness selects among

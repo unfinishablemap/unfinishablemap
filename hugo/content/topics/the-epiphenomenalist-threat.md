@@ -8,7 +8,7 @@ coalesced_from:
 - /topics/epiphenomenalisms-gravity-well/
 concepts:
 - '[[concepts/epiphenomenalism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[concepts/functionalism]]'
 - '[[panpsychism]]'
@@ -206,7 +206,7 @@ The Map's framework is one of the few that provides all three elements needed to
 
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view itself: what it claims and why it fails
 - [epiphenomenalism](/concepts/epiphenomenalism/#convergence-of-arguments) — Four independent argument types converging against epiphenomenalism
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and the Map's quantum response
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and the Map's quantum response
 - [causal-closure](/concepts/causal-closure/) — The principle that drives most theories toward epiphenomenalism
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from empirical observation to metaphysical axiom
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causal influence consciousness exercises

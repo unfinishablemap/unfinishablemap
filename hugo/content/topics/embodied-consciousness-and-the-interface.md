@@ -13,7 +13,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[brain-interface-boundary]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[explanatory-gap]]'
 - '[[somatic-interface]]'
 created: 2026-02-09

@@ -10,7 +10,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[phenomenal-consciousness]]'
 - '[[philosophical-zombies]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[illusionism]]'
 - '[[mysterianism]]'
 - '[[process-philosophy]]'

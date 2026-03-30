@@ -8,12 +8,11 @@ concepts:
 - '[[binding-problem]]'
 - '[[unity-of-consciousness]]'
 - '[[combination-problem]]'
-- '[[binding-problem]]'
 - '[[temporal-consciousness]]'
 - '[[episodic-memory]]'
 - '[[cognitive-phenomenology]]'
 - '[[split-brain-consciousness]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[quantum-consciousness]]'
 - '[[prehension]]'
 - '[[explanatory-gap]]'
@@ -198,7 +197,7 @@ The systematic treatment of binding presented here rests on claims that could be
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt quality of thinking and understanding
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Natural experiments on binding disruption
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — BP1 without BP2 during dreamless sleep
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — Top-down causation from phenomenal states to neural coordination
+- [downward causation](/concepts/mental-causation-and-downward-causation/) — Top-down causation from phenomenal states to neural coordination
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding as the hardest case: temporal recalibration, inverse effectiveness, and the unity of place
 - [neural-refresh-rates](/concepts/neural-refresh-rates/) — Discrete oscillatory sampling rates and the smoothness problem in temporal binding
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the binding puzzle

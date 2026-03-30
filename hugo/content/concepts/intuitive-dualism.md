@@ -10,7 +10,7 @@ concepts:
 - '[[concepts/materialism]]'
 - '[[interactionist-dualism]]'
 - '[[philosophical-zombies]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[stapp-quantum-mind]]'
 - '[[attention-as-interface]]'
 - '[[theory-of-mind]]'

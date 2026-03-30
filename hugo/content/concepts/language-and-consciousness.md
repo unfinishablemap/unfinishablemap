@@ -105,7 +105,7 @@ The philosophy of language provides independent support for several of the Map's
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument against physicalism
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning, and why they can't without consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether understanding has its own phenomenal character
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How conscious states cause physical effects
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — How conscious states cause physical effects
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — How private experience relates to public knowledge of others' minds
 - [tenets](/tenets/) — The foundational commitments of the Map
 

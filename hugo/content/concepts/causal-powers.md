@@ -5,7 +5,7 @@ ai_modified: 2026-03-16 20:15:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[agent-causation]]'
 created: 2026-02-11
@@ -20,7 +20,7 @@ last_deep_review: 2026-03-16 20:15:00+00:00
 modified: *id001
 related_articles:
 - '[[interactionist-dualism]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[objections-to-interactionism]]'
 - '[[topics/free-will]]'
 - '[[evolutionary-case-for-mental-causation]]'
@@ -65,7 +65,7 @@ The Map's framework requires some account of [psychophysical-laws](/concepts/psy
 
 ## Downward Causation and Higher-Level Powers
 
-Can higher-level entities possess causal powers not reducible to the powers of their constituents? This is the question of [downward-causation](/concepts/mental-causation-and-downward-causation/).
+Can higher-level entities possess causal powers not reducible to the powers of their constituents? This is the question of [downward causation](/concepts/mental-causation-and-downward-causation/).
 
 **Emergentist views** hold that complex systems acquire novel causal powers at higher levels of organization. Life, consciousness, or agency might exercise powers that cannot be fully explained by summing microphysical powers. British emergentists (C.D. Broad, Samuel Alexander) defended this in the early 20th century but fell out of favor with the rise of reductive physicalism.
 
@@ -91,14 +91,13 @@ Third, it **connects consciousness to the broader dispositional framework** that
 
 The Map acknowledges what powers realism does *not* do: it does not by itself specify *how* consciousness biases quantum outcomes, nor does it provide the empirical precision of Coulomb's law for charge. The empirical characterisation of mental causal powers remains an open challenge—one that the Map addresses through the constraints developed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) and the account of quantum indeterminacy in [causal-closure](/concepts/causal-closure/).
 
-For the broader question of mental causation, see [mental-causation](/concepts/mental-causation-and-downward-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/). For how causal powers ground agent-causal accounts, see [agent-causation](/concepts/agent-causation/).
+For the broader question of mental causation, see [mental causation](/concepts/mental-causation-and-downward-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/). For how causal powers ground agent-causal accounts, see [agent-causation](/concepts/agent-causation/).
 
 ## Further Reading
 
 - [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How pandispositionalism, categoricalism, and the identity theory each frame the mind-body problem
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How consciousness exercises its causal powers, with constraints and examples
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical events
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — Causal influence from higher to lower levels
+- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [causal-closure](/concepts/causal-closure/) — Why physical causal closure is not absolute at quantum indeterminacies
 - [agent-causation](/concepts/agent-causation/) — Substance causation and the metaphysical foundation for free will
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The view that mind and body causally interact

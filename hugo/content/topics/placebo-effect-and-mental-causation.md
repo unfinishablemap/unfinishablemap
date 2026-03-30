@@ -5,7 +5,7 @@ ai_modified: 2026-03-22 23:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
@@ -116,7 +116,7 @@ Placebo evidence contributes to a broader [convergence of independent empirical 
 
 ## Further Reading
 
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem and the Map's quantum framework response
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem and the Map's quantum framework response
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Complementary evidence: conscious interference with automatised performance
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness causes nothing, and why it fails

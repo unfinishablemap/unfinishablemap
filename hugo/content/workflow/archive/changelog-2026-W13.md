@@ -265,7 +265,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Article**: [consciousness-and-agency](/apex/consciousness-and-agency/)
 - **Changed sources**: 8
 - **Word count**: 4125 → 4017
-- **Review**: [apex-evolve-2026-03-29-consciousness-and-agency](/reviews/apex-evolve-2026-03-29-consciousness-and-agency/)
+- **Review**: apex-evolve-2026-03-29-consciousness-and-agency (draft)
 
 ---
 

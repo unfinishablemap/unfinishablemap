@@ -19,7 +19,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[reasons-responsiveness]]'
 - '[[process-philosophy]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[contextual-selection-in-quantum-foundations]]'
 created: 2026-01-19
 date: &id001 2026-01-20
@@ -290,7 +290,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [phenomenal unity](/concepts/unity-of-consciousness/) — Unified experience as evidence for non-reductive consciousness
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Why reasons-guided selection escapes the luck objection
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's metaphysical framework for experiential causation
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How mental states influence physical outcomes
+- [downward causation](/concepts/mental-causation-and-downward-causation/) — How mental states influence physical outcomes
 - [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/) — Why quantum selection is context-dependent, not item-picking
 - [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/) — Research notes underlying this article
 

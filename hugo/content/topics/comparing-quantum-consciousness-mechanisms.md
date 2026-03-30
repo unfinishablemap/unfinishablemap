@@ -12,7 +12,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[decoherence]]'
 - '[[psychophysical-laws]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
 - '[[post-decoherence-selection]]'
 created: 2026-02-09

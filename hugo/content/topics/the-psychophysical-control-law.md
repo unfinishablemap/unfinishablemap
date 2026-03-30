@@ -42,7 +42,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 ---
 
 The Unfinishable Map commits to [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influences the physical world through quantum selection. But commitment alone does not constitute specification. A psychophysical control law would state *precisely* how phenomenal states map to physical selection outputs: which aspects of experience serve as inputs, which physical parameters change as a result, and what functional form connects them. Without such a law, "consciousness selects" remains programmatic rather than specified. This article examines what a psychophysical control law would need to look like, why specifying one is so difficult, and where candidate formulations stand.

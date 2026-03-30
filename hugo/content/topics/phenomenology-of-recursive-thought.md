@@ -13,7 +13,7 @@ concepts:
 - '[[self-opacity]]'
 - '[[witness-consciousness]]'
 - '[[phenomenology]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[temporal-consciousness]]'
 - '[[self-stultification]]'
 created: 2026-02-01
@@ -155,7 +155,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative phenomenology of observing without identification
 - [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — The transformation thesis: how the first level of recursive self-awareness produces the most dramatic qualitative shift
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and its relation to recursive awareness
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness might influence physical processes
+- [downward causation](/concepts/mental-causation-and-downward-causation/) — How consciousness might influence physical processes
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and temporal thickness that recursive thought requires
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Self-reflexive meaning as one of five phenomenal meaning modes
 

@@ -89,7 +89,7 @@ The dimensional reversal undermines the standard argument's implicit assumption:
 
 ## Interactionism Over Epiphenomenalism
 
-Among dualist positions, interactionism has its own parsimony advantage. Koksvik argues that interactionism is simpler than [epiphenomenalism](/concepts/epiphenomenalism/) because epiphenomenalism must explain away the universal appearance of [mental-causation](/concepts/mental-causation-and-downward-causation/).
+Among dualist positions, interactionism has its own parsimony advantage. Koksvik argues that interactionism is simpler than [epiphenomenalism](/concepts/epiphenomenalism/) because epiphenomenalism must explain away the universal appearance of [mental causation](/concepts/mental-causation-and-downward-causation/).
 
 Every conscious being acts as though their mental states cause their behaviour. Pain causes avoidance. Belief guides action. Intention precedes effort. Epiphenomenalism holds that this universal appearance is systematically misleading — consciousness tracks behaviour with perfect fidelity but causes none of it. This requires a coincidence of staggering scope: phenomenal states happen to correlate perfectly with the physical states that actually cause behaviour, despite having no causal connection to them.
 

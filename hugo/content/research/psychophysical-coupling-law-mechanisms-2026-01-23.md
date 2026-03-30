@@ -23,7 +23,7 @@ target_section: concepts
 title: Research Notes - Psychophysical Coupling Law Mechanisms
 topics:
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 ---
 
 # Research: Psychophysical Coupling Law Mechanisms

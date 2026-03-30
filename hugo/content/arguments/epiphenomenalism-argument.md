@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[concepts/epiphenomenalism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
 - '[[knowledge-argument]]'
@@ -219,7 +219,7 @@ The arguments against epiphenomenalism directly support the Map's framework:
 ## Further Reading
 
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view examined in detail
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and responses
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and responses
 - [causal-closure](/concepts/causal-closure/) — The principle motivating epiphenomenalism
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The positive case for interaction
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How mental causation could work

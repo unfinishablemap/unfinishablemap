@@ -17,7 +17,7 @@ concepts:
 - '[[consciousness]]'
 - '[[qualia]]'
 - '[[explanatory-gap]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[temporal-consciousness]]'
 - '[[self-and-self-consciousness]]'
 created: 2026-02-15
@@ -147,7 +147,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - [metacognition](/concepts/metacognition/) — Thinking about thinking across consciousness levels
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The irreducible phenomenal properties each level introduces
 - [explanatory-gap](/concepts/explanatory-gap/) — Why functional descriptions cannot bridge the transitions
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework for consciousness as causally efficacious
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader framework for consciousness as causally efficacious
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure of conscious experience underlying mental time travel
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy as diagnostic tool for AI consciousness

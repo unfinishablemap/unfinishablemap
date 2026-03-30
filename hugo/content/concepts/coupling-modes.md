@@ -29,7 +29,7 @@ related_articles:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 title: Coupling Modes
 topics:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[topics/free-will]]'
 ---
 

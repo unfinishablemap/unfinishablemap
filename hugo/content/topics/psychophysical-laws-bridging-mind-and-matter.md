@@ -10,8 +10,7 @@ coalesced_from:
 - /topics/psychophysical-coupling-law-mechanisms/
 concepts:
 - '[[psychophysical-laws]]'
-- '[[mental-causation]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[coupling-modes]]'
 - '[[quantum-consciousness]]'
 - '[[decoherence]]'
@@ -88,7 +87,7 @@ The Map is skeptical of constraint 5, preferring: "Ensure phenomenology superven
 
 Most philosophical development has focused on upward laws. Chalmers himself tends toward [epiphenomenalism](/concepts/epiphenomenalism/)—the view that consciousness accompanies physical processes without causally affecting them. His psychophysical laws are [supervenience](/concepts/supervenience/) laws, not causal laws.
 
-The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [downward-causation](/concepts/mental-causation-and-downward-causation/).
+The Map requires more. If consciousness makes a causal difference—if intention affects action, if effort affects outcome—then upward laws alone are incomplete. We need *downward* laws: laws specifying how mental states select among physical possibilities. This is the problem of [downward causation](/concepts/mental-causation-and-downward-causation/).
 
 The asymmetry reflects different commitments:
 - **Chalmers**: Consciousness is real and irreducible, but may be causally inert
@@ -236,7 +235,7 @@ The framework would face serious difficulty if:
 - [functionalism](/concepts/functionalism/) — The view Chalmers tends toward, the Map rejects
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
 - [haecceity](/concepts/haecceity/) — Why organizational invariance may fail
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing selection pathways
 - [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects

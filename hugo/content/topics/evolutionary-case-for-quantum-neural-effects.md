@@ -10,7 +10,7 @@ concepts:
 - '[[decoherence]]'
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 created: 2026-03-23
 date: &id001 2026-03-23
 description: If evolution optimised quantum effects for bird navigation and enzyme

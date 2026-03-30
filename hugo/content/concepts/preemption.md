@@ -5,7 +5,7 @@ ai_modified: 2026-03-01 05:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[delegatory-dualism]]'
 - '[[interactionist-dualism]]'
@@ -63,7 +63,7 @@ This distinction matters because systematic overdetermination is widely regarded
 
 ## Preemption in Philosophy of Mind
 
-Preemption becomes philosophically urgent in the context of [mental-causation](/concepts/mental-causation-and-downward-causation/). If both mental states and physical states are sufficient to cause behaviour, do they overdetermine it? Kim's exclusion argument presses this question, concluding that non-physical mental properties are either identical to physical properties or causally inert.
+Preemption becomes philosophically urgent in the context of [mental causation](/concepts/mental-causation-and-downward-causation/). If both mental states and physical states are sufficient to cause behaviour, do they overdetermine it? Kim's exclusion argument presses this question, concluding that non-physical mental properties are either identical to physical properties or causally inert.
 
 ### Saad's Delegatory Preemption
 
@@ -99,7 +99,7 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 ## Further Reading
 
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework applying preemption to mental causation
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader problem of how consciousness causes physical effects
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader problem of how consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The principle that delegatory preemption explicitly violates
 - [observational-closure](/concepts/observational-closure/) — Why preemption leaves no empirical trace
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for conscious agents as causal originators

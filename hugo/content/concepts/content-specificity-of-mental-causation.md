@@ -5,7 +5,7 @@ ai_modified: 2026-03-11 19:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[intentionality]]'
 - '[[resolution-bandwidth-interface]]'
@@ -91,7 +91,7 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 
 ## Further Reading
 
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical problem and the Map's quantum framework
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical problem and the Map's quantum framework
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — The primary empirical case for content-specificity
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: content-specific interference with skilled performance
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia isolating phenomenal quality's causal role

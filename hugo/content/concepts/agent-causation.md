@@ -21,8 +21,7 @@ concepts:
 - '[[concepts/many-worlds]]'
 - '[[pairing-problem]]'
 - '[[causal-interface]]'
-- '[[downward-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[explanatory-gap]]'
 - '[[authentic-vs-inauthentic-choice]]'
@@ -238,8 +237,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Frontal decision circuits, salience network switching, and thalamic gating
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The agency-passivity axis that empirically grounds agent causation
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern, choking phenomenon, and parallel with [causal-delegation](/concepts/causal-delegation/)
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem substance causation addresses
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How higher-level substances influence lower-level processes
+- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges
 - [causal-interface](/voids/causal-interface/) — Why the mechanism of agent causation is systematically invisible

@@ -12,7 +12,7 @@ concepts:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[measurement-problem]]'
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[decoherence]]'
 created: 2026-03-27
 date: &id001 2026-03-27

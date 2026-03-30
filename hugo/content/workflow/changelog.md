@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 05:48 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Word count**: 3836 → 2840 (-996)
+- **Critical issues addressed**: 1 (hard length threshold exceeded — condensed 26%)
+- **Medium issues addressed**: 2 (duplicate frontmatter concept; 127 stale cross-references across site)
+- **Enhancements made**: 6 (condensed clinical section, trimmed Further Reading, tightened prose, removed uncited refs, updated site-wide refs, deduplicated 13 Further Reading sections)
+- **Output**: [deep-review-2026-03-30-mental-causation-and-downward-causation](/reviews/deep-review-2026-03-30-mental-causation-and-downward-causation/)
+
 ## 2026-03-30 05:33 UTC - refine-draft
 - **Status**: Success
 - **Files**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)

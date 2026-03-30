@@ -25,7 +25,7 @@ concepts:
 - '[[quantum-biology-and-neural-mechanisms]]'
 - '[[luck-objection]]'
 - '[[causal-interface]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[phenomenology]]'

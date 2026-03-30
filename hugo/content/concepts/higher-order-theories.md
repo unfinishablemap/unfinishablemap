@@ -14,7 +14,7 @@ concepts:
 - '[[blindsight]]'
 - '[[illusionism]]'
 - '[[phenomenal-concepts-strategy]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 created: 2026-01-14
 date: &id001 2026-01-19
 description: Mental states become conscious when we become aware of them. HOT explains
@@ -224,7 +224,7 @@ The hard problem remains hard.
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying HOT
 - [illusionism](/concepts/illusionism/) — HOT's logical extreme: phenomenal consciousness as illusion
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's parallel attempt to explain the gap
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Where HOT's classical framing creates problems
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — Where HOT's classical framing creates problems
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Comprehensive taxonomy where monitoring consciousness fits alongside phenomenal and access types
 - [ai-consciousness](/topics/ai-consciousness/) — Where HOT's implications meet the Map's skepticism
 - [higher-order-theories-consciousness-2026-01-14](/research/higher-order-theories-consciousness-2026-01-14/) — Detailed research notes

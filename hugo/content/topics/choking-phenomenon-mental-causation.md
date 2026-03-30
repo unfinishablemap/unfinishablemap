@@ -5,7 +5,7 @@ ai_modified: 2026-03-28 08:13:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[implicit-memory]]'
 - '[[embodied-cognition]]'
 - '[[attention-as-interface]]'
@@ -135,7 +135,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 
 ## Further Reading
 
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical framework and Kim's exclusion argument
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical framework and Kim's exclusion argument
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness and skill automaticity
 - [embodied-cognition](/concepts/embodied-cognition/) — Body memory and the interface response to Merleau-Ponty
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction

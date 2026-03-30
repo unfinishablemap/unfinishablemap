@@ -20,7 +20,7 @@ concepts:
 - '[[spontaneous-collapse-theories]]'
 - '[[concepts/many-worlds]]'
 - '[[combination-problem]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 created: 2026-01-16
 date: &id001 2026-02-05
 description: How quantum wave functions collapsed before conscious observers existed.
@@ -105,7 +105,7 @@ The [Many-Worlds Interpretation](/concepts/many-worlds/) claims to dissolve the 
 
 This is not a solution but a different problem. MWI trades the prebiotic collapse question for the [indexical identity question](/concepts/haecceity/): why am I *this* observer in *this* branch? If all branches are equally real and all observers equally exist, the question of "which outcome" merely relocates to "which me." The explanatory burden shifts from physics to metaphysics without genuine progress.
 
-Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [mental-causation](/concepts/mental-causation-and-downward-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
+Moreover, MWI eliminates the causal role for consciousness entirely. The Map holds that consciousness participates in determining physical outcomes—that [mental causation](/concepts/mental-causation-and-downward-causation/) is real. MWI explicitly denies this: outcomes occur regardless of consciousness; the appearance of selection is illusion. Far from solving the prebiotic problem, MWI dissolves the framework within which consciousness matters at all.
 
 ## Cosmological Evidence for Early-Universe Collapse
 

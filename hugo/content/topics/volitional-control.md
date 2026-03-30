@@ -9,7 +9,7 @@ coalesced_from:
 - /topics/volitional-control-empirical-evidence/
 concepts:
 - '[[agent-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 - '[[phenomenology-of-choice-and-volition]]'

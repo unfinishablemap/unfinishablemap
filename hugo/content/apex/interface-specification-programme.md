@@ -17,7 +17,7 @@ apex_thesis: Six converging lines of inquiry—the psychophysical control law, t
   research programme rather than scattered philosophical speculation.
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
 - '[[attention-as-interface]]'
 - '[[psychophysical-laws]]'

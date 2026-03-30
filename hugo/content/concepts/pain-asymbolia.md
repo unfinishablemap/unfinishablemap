@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[qualia]]'
 - '[[concepts/epiphenomenalism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[phenomenal-consciousness]]'
 - '[[explanatory-gap]]'
 - '[[valence]]'
@@ -73,7 +73,7 @@ The Map takes pain asymbolia as strong evidence for the causal role of [phenomen
 
 The epiphenomenalist must maintain that the behavioural differences between normal patients and asymbolia patients are explained entirely by the neural damage, not by the absence of phenomenal suffering. The anterior cingulate and insular lesions disrupt neural pathways that *happen to correlate* with affective experience; the experience itself was never doing any causal work.
 
-This response has some force. Berthier, Starkstein, and Leiguarda (1988) report that their patients also failed to react appropriately to threatening gestures and verbal menaces—suggesting the deficit may extend beyond pain to bodily-threat evaluation more broadly. The neural damage is not surgically precise in its phenomenal effects. Nevertheless, the core of the deficit tracks the phenomenal loss in ways the epiphenomenalist must explain away. Patients retain motor function, planning capacity, and emotional responses outside the domain of bodily threat. They lose specifically the motivation that phenomenal suffering provides: the urgency of *this hurts and must stop*. The selectivity of the deficit—centred on the affective dimension of harm—matches the selectivity of the phenomenal change, which is what one would expect if [mental-causation](/concepts/mental-causation-and-downward-causation/) is real and harder to explain if phenomenal qualities are causally inert decorations on an underlying physical process.
+This response has some force. Berthier, Starkstein, and Leiguarda (1988) report that their patients also failed to react appropriately to threatening gestures and verbal menaces—suggesting the deficit may extend beyond pain to bodily-threat evaluation more broadly. The neural damage is not surgically precise in its phenomenal effects. Nevertheless, the core of the deficit tracks the phenomenal loss in ways the epiphenomenalist must explain away. Patients retain motor function, planning capacity, and emotional responses outside the domain of bodily threat. They lose specifically the motivation that phenomenal suffering provides: the urgency of *this hurts and must stop*. The selectivity of the deficit—centred on the affective dimension of harm—matches the selectivity of the phenomenal change, which is what one would expect if [mental causation](/concepts/mental-causation-and-downward-causation/) is real and harder to explain if phenomenal qualities are causally inert decorations on an underlying physical process.
 
 ## Complementary Dissociations
 
@@ -101,7 +101,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that asymbolia exposes in miniature
 - [qualia](/concepts/qualia/) — The qualitative character of experience
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal reality
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How mind influences matter
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — How mind influences matter
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Another route to dissociating pain's dimensions
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation supporting dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness has no causal efficacy

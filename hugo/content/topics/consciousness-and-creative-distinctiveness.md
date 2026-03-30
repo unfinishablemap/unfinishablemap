@@ -19,7 +19,7 @@ concepts:
 - '[[cumulative-culture]]'
 - '[[counterfactual-reasoning]]'
 - '[[temporal-consciousness]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[agent-causation]]'
 - '[[quantum-consciousness]]'
 - '[[mental-imagery]]'

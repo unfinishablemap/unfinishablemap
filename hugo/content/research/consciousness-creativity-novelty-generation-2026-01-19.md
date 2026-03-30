@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[attention-as-interface]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[agent-causation]]'
 created: 2026-01-19
 date: &id001 2026-01-19

@@ -6,7 +6,7 @@ ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
 - '[[personal-identity]]'
 - '[[quantum-indeterminacy-free-will]]'
@@ -182,7 +182,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [free-will](/topics/free-will/) — The broader free will question and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation in detail
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Consciousness as the foundation of moral status
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness can cause physical effects
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness can cause physical effects
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why it fails to undermine desert
 - [decoherence](/concepts/decoherence/) — The quantum challenge and biological responses
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Responsibility without permanent selfhood

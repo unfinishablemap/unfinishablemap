@@ -56,7 +56,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 ---
 
 Psychophysical laws are fundamental principles connecting conscious experience to physical processes. Psychophysical coupling is the lawful relationship those laws describe — the bridge binding conscious states to physical parameters. If consciousness is ontologically distinct from physics — as The Unfinishable Map's [Dualism tenet](/tenets/#dualism) holds — then no purely physical explanation can account for why particular brain states are accompanied by particular experiences. New laws are needed: laws relating phenomenal properties to physical properties at the most basic level. As Chalmers put it: "Where we have new fundamental properties, we also have new fundamental laws" (Chalmers 1995). But specifying that such laws are needed is not enough. [Interactionist dualism](/concepts/interactionist-dualism/) faces a specification problem: *which* phenomenal properties map to *which* physical selections with enough precision to generate falsifiable predictions?
@@ -252,7 +252,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary candidate for coupling's mental variable
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
 - [attention-as-causal-bridge](/apex/attention-as-causal-bridge/) — Apex synthesis: the three-layer architecture that instantiates attention-bounded and policy-level coupling
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical effects
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Major theories of quantum-consciousness interface
 - [decoherence](/concepts/decoherence/) — The decoherence challenge and biological quantum effects
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view Chalmers tends toward (and the Map rejects)

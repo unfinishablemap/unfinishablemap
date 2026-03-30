@@ -28,7 +28,7 @@ related_articles:
 - '[[aesthetics-and-consciousness]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[free-will]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 title: Phenomenal Normativity and Environmental Ethics
 topics:
 - '[[ethics-of-consciousness]]'

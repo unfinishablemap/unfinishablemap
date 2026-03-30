@@ -20,7 +20,7 @@ apex_thesis: A complete argument chain runs from the phenomenology of willing th
 author: null
 concepts:
 - '[[agent-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[attention-as-interface]]'
 - '[[motor-selection]]'
 - '[[phenomenology-of-choice-and-volition]]'

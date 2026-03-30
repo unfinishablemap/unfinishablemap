@@ -6,7 +6,7 @@ ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[concepts/consciousness-selecting-neural-patterns]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[baseline-cognition]]'
 - '[[quantum-biology-and-neural-mechanisms]]'

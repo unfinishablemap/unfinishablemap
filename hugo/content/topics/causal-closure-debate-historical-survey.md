@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[causal-closure]]'
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[concepts/materialism]]'

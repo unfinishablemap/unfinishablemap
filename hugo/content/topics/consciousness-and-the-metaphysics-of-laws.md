@@ -8,7 +8,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[causal-powers]]'
 - '[[causal-closure]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[emergence]]'
 - '[[supervenience]]'
 created: 2026-02-16

@@ -5,7 +5,7 @@ ai_modified: 2026-03-29 05:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[bidirectional-interaction]]'
 - '[[interactionist-dualism]]'
 - '[[causal-closure]]'
@@ -13,7 +13,6 @@ concepts:
 - '[[neuroplasticity]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[quantum-consciousness]]'
-- '[[downward-causation]]'
 - '[[content-specificity-of-mental-causation]]'
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-21
@@ -132,7 +131,7 @@ The Map holds that the philosophical arguments for mental causation—the self-s
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
-- [downward-causation](/concepts/mental-causation-and-downward-causation/)
+- [downward causation](/concepts/mental-causation-and-downward-causation/)
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
 
 ## References

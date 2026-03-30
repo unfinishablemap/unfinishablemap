@@ -7,11 +7,10 @@ author: null
 concepts:
 - '[[interactionist-dualism]]'
 - '[[causal-closure]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
 - '[[quantum-consciousness]]'
 - '[[emergence]]'
-- '[[downward-causation]]'
 - '[[decoherence]]'
 - '[[haecceity]]'
 - '[[pairing-problem]]'

@@ -16,8 +16,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[stapp-quantum-mind]]'
 - '[[emergence]]'
-- '[[mental-causation]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[reductionism]]'
 - '[[delegatory-dualism]]'
 - '[[preemption]]'
@@ -158,7 +157,7 @@ This argument appears in formal premise-conclusion form in the [argument for int
 
 ### The Emergentist Response
 
-Strong [emergentism](/concepts/emergence/) provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation—genuine [downward-causation](/concepts/mental-causation-and-downward-causation/) where consciousness influences neural states in ways component interactions don't determine.
+Strong [emergentism](/concepts/emergence/) provides another route to denying causal closure. Timothy O'Connor and Hong Yu Wong argue that emergent properties possess "fundamentally novel" causal powers not reducible to component-level causation—genuine [downward causation](/concepts/mental-causation-and-downward-causation/) where consciousness influences neural states in ways component interactions don't determine.
 
 Classical British emergentists (Broad, Alexander) accepted this with "natural piety" but lacked a mechanism, leaving them vulnerable to Kim's exclusion argument. The Map's quantum framework strengthens emergentism by specifying where emergent causation operates: at quantum indeterminacies, where physics provides probabilities but not outcomes. [Spontaneous collapse theories](/concepts/spontaneous-collapse-theories/) (GRW, CSL) further strengthen the position: they provide consciousness-independent baseline collapse, allowing consciousness to *modulate* rather than wholly cause collapse—preserving [prebiotic cosmology](/concepts/prebiotic-collapse/) while enabling mental causation. Downward causation becomes coherent because the "downward" direction operates precisely where the "upward" physical story is incomplete.
 
@@ -213,8 +212,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [physical-completeness](/concepts/physical-completeness/) — The structural-ontological gap: why structural completeness does not entail ontological completeness, reframing the closure equivocation
 - [reductionism](/concepts/reductionism/) — Ontological vs methodological vs epistemic reduction; why conflating them supports closure illicitly
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical neuroplasticity evidence challenging causal closure through pathway divergence
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem causal closure creates
-- [downward-causation](/concepts/mental-causation-and-downward-causation/) — Higher-level causation that closure threatens
+- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [emergence](/concepts/emergence/) — The emergentist response to causal closure
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position that mental causation enables
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-matter interaction; includes decoherence response

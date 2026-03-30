@@ -8,7 +8,7 @@ concepts:
 - '[[concept-of-free-will]]'
 - '[[agent-causation]]'
 - '[[moral-responsibility]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
 - '[[bidirectional-interaction]]'
 - '[[consciousness-value-connection]]'

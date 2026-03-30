@@ -261,7 +261,7 @@ The Map's position would face serious difficulty if:
 - **Hypothesised**: Consciousness interfaces with quantum indeterminacy in neural systems.
 - **Uncertain**: Whether specific theories (Orch OR, QBIT, quantum Zeno) are correct.
 
-Quantum biology's relevance is primarily *defensive*: it removes a major objection to quantum consciousness without proving consciousness involves quantum effects. The positive case rests on the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [mental-causation](/concepts/mental-causation-and-downward-causation/), and [free-will](/topics/free-will/).
+Quantum biology's relevance is primarily *defensive*: it removes a major objection to quantum consciousness without proving consciousness involves quantum effects. The positive case rests on the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [mental causation](/concepts/mental-causation-and-downward-causation/), and [free-will](/topics/free-will/).
 
 ## Further Reading
 

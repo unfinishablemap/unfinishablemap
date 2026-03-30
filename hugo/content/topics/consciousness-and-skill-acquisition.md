@@ -20,7 +20,7 @@ concepts:
 - '[[brain-interface-boundary]]'
 - '[[mental-effort]]'
 - '[[agent-causation]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[cognitive-phenomenology]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[metacognition]]'
@@ -31,7 +31,6 @@ concepts:
 - '[[self-and-self-consciousness]]'
 - '[[consciousness-and-creativity]]'
 - '[[neuroplasticity]]'
-- '[[downward-causation]]'
 created: 2026-02-02
 date: &id001 2026-03-22
 description: Skill acquisition challenges epiphenomenalism—deliberate practice, flow,
@@ -102,7 +101,7 @@ Ericsson et al. (1993) established that hours alone do not predict expertise; wh
 
 **Structural plasticity.** Bengtsson et al. (2005) found that pianists' practice hours correlated with white matter structure in motor-auditory-prefrontal connections, with different developmental windows affecting different tracts. The physical architecture of signal transmission tracks what the practitioner consciously attended to.
 
-These four lines converge against epiphenomenalism: if phenomenal quality has zero causal relevance, the tight correlation between engagement quality and neural outcome specificity—from circuit recruitment to myelination—is unexplained. The identity theorist can accommodate the findings by identifying conscious engagement with the relevant neural patterns. The interactionist reads them as [downward-causation](/concepts/mental-causation-and-downward-causation/) operating across timescales from seconds to months.
+These four lines converge against epiphenomenalism: if phenomenal quality has zero causal relevance, the tight correlation between engagement quality and neural outcome specificity—from circuit recruitment to myelination—is unexplained. The identity theorist can accommodate the findings by identifying conscious engagement with the relevant neural patterns. The interactionist reads them as [downward causation](/concepts/mental-causation-and-downward-causation/) operating across timescales from seconds to months.
 
 ## The Paradox of Effortless Mastery
 

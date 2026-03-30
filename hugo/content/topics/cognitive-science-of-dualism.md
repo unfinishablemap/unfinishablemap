@@ -13,7 +13,7 @@ concepts:
 - '[[consciousness]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 created: 2026-02-05
 date: &id001 2026-02-05
 description: Cognitive science presupposes methodological materialism, yet its own
@@ -94,7 +94,7 @@ The [Dualism tenet](/tenets/#dualism) does not rest on cognitive naturalness or 
 
 The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) finds indirect support in cognitive science's methodological dependence on first-person report. Every neural correlate study requires subjects to tell experimenters what they experience — information about [consciousness](/concepts/consciousness/) flowing into the physical domain through speech and behaviour. If consciousness were epiphenomenal, this information flow would be accidental, making the entire methodology of cognitive neuroscience unreliable. The field's own practice presupposes that conscious experience causally contributes to verbal and behavioural outputs.
 
-The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) occupies a domain cognitive science cannot currently probe. If quantum events play a role in neural systems as the Map proposes, they operate orders of magnitude faster than the hundreds-of-milliseconds timescale at which cognitive methods measure. The absence of cognitive-scientific evidence for quantum-level [mental-causation](/concepts/mental-causation-and-downward-causation/) reflects methodological limitations, not ontological absence.
+The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) occupies a domain cognitive science cannot currently probe. If quantum events play a role in neural systems as the Map proposes, they operate orders of magnitude faster than the hundreds-of-milliseconds timescale at which cognitive methods measure. The absence of cognitive-scientific evidence for quantum-level [mental causation](/concepts/mental-causation-and-downward-causation/) reflects methodological limitations, not ontological absence.
 
 The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives perhaps the strongest support from this analysis. Cognitive science's methodological materialism makes physicalism appear simple and dualism appear extravagant. But this apparent simplicity is an artefact of the method, not a discovery about reality. A thermometer makes temperature look like the only relevant variable — until you measure pressure.
 
@@ -109,7 +109,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) receives perhaps th
 - [cognitive closure](/concepts/mysterianism/) — McGinn's thesis on constitutional limits of human cognition
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why no amount of functional description explains experience
 - [dualism](/concepts/dualism/) — The philosophical case independent of cognitive science
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness might causally influence the physical world
+- [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness might causally influence the physical world
 
 ## References
 

@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[interactionist-dualism]]'
 - '[[causal-closure]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-01-15
 date: &id001 2026-01-15

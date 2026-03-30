@@ -7,7 +7,7 @@ author: null
 concepts:
 - '[[psychophysical-coupling]]'
 - '[[interactionist-dualism]]'
-- '[[mental-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[integrated-information-theory]]'
 created: 2026-01-17
 date: &id001 2026-01-17

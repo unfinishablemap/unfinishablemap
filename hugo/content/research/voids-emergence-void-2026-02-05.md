@@ -9,7 +9,7 @@ concepts:
 - '[[reductionism]]'
 - '[[combination-problem]]'
 - '[[binding-problem]]'
-- '[[downward-causation]]'
+- '[[mental-causation-and-downward-causation]]'
 - '[[simulation]]'
 created: 2026-02-05
 date: &id001 2026-02-05
