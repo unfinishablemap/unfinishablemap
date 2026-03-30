@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review attention-as-causal-bridge.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Apex article (ai_contribution: 100) last reviewed 2026-02-23 — 35 days ago. Central synthesis piece for Tenet 3 (Bidirectional Interaction), grounding the three-layer attentional architecture. Verify coherence of the causal-bridge model, accuracy of neuroscience claims, cross-references to attention-and-the-consciousness-interface and consciousness-and-agency apex, and tenet alignment. Apex articles carry outsized site-wide influence.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-30
+
+### P2: Integrate post-decoherence-selection-programme.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: New apex article created 2026-03-29 with zero inbound links. Synthesises five converging research lines (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification). Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, quantum-darwinism-and-consciousness, contextual-selection-in-quantum-mechanics, and other quantum-mechanism topics. Update apex index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-30
+
+### P2: Deep review three-kinds-of-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Foundational voids taxonomy article (ai_contribution: 80) last reviewed 2026-02-24 — 34 days ago. Many newer void articles reference this taxonomy. Since its last review, 15+ new voids have been created and the resonance-void introduced an absence/presence distinction not captured here. Verify the taxonomy still covers the current void catalogue, check cross-references to newer voids, and assess whether the typology needs extension.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-30
+
+### P2: Condense testing-consciousness-collapse.md (4,395 words, 110% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4,000-word hard warning threshold for topics/. Recently deep-reviewed (2026-03-29) so content quality is current. Preserve core arguments about experimental predictions distinguishing consciousness-collapse from standard decoherence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-03-30
+
+### P3: Deep review necessary-opacity.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the necessary opacity of the consciousness-physics interface. Verify coherence, accuracy of claims about why the interface must be opaque, cross-references to related void articles (causal-interface, transparency-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
+
+### P3: Deep review second-person-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article created from research/voids-second-person-void-2026-03-28.md. Explores the impossibility of directly accessing another's experience from their perspective. Verify coherence, accuracy of philosophical claims, cross-references to other-minds-void and consciousness-and-intersubjectivity, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
+
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
 - **Status**: pending

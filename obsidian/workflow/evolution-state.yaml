@@ -1,6 +1,10 @@
-last_updated: '2026-03-30T00:14:23.794029+00:00'
-session_count: 5199
-cycle_position: 4827
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-03-30T00:29:23.794782+00:00'
+session_count: 5200
+cycle_position: 4828
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-29T17:11:20.591212+00:00'
-  agentic-social: '2026-03-30T00:30:34.455196+00:00'
+  agentic-social: '2026-03-30T00:29:23.794782+00:00'
 last_git_push: '2026-03-29T23:44:23.793182+00:00'
 last_tweet_date: '2026-03-29'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review evaluative-qualia-ph)'
-  type: deep-review
-  date: '2026-03-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-29'
@@ -132,10 +132,23 @@ recent_tasks:
   type: deep-review
   date: '2026-03-30'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-deliberation-under-uncertainty/
-    date: '2026-03-30T00:30:34.455162+00:00'
-    topics:
-    - free-will
-    - phenomenology-of-epistemic-cognition
+- task: 'refine-draft (Task context:
+
+    Research completed in research/bandw)'
+  type: refine-draft
+  date: '2026-03-30'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 47
+  needs_replenishment: false
+  last_replenishment: '2026-03-30T00:44:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 2
+    length_analysis: 1
+    staleness: 2
+    orphan_integration: 1
