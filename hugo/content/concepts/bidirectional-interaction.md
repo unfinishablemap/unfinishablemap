@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-29 15:11:00+00:00
+ai_modified: 2026-03-30 07:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -117,7 +117,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) observes that
 
 The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues that if consciousness evolved through natural selection, it must have had causal effects on behaviour—otherwise selection would have nothing to act on. The [intelligence amplifier thesis](/concepts/consciousness-as-amplifier/) develops this by noting that phenomenal consciousness systematically tracks adaptive significance. Pleasure accompanies beneficial stimuli, pain accompanies harmful ones, and subtle differences in phenomenal character track subtle differences in biological urgency. If consciousness were causally inert, this systematic correlation would be a remarkable coincidence—evolution would have produced costly neural complexity generating an experience that does nothing, yet happens to reliably indicate what matters for survival.
 
-The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour. Evolution favoured organisms whose consciousness provided functional advantages.
+The interactionist alternative offers a simpler explanation: consciousness evolved *because* it influences behaviour. Evolution favoured organisms whose consciousness provided functional advantages. This evolutionary argument is reinforced by the [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/)—Indian, African, and Western traditions independently concluded that consciousness is causally efficacious through philosophical argument and contemplative investigation, not just evolutionary reasoning.
 
 ## Addressing the Causal Closure Objection
 

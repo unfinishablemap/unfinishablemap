@@ -9,6 +9,54 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 07:49 UTC - deep-review
+- **Status**: Success
+- **File**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)
+- **Word count**: 2406 → 2400 (-6)
+- **Critical issues addressed**: 1 (self-citation pseudonym misattribution in Ref 15)
+- **Medium issues addressed**: 3 (description length, Whitehead integration, cinema tightening)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-30-smoothness-and-continuity](/reviews/deep-review-2026-03-30-smoothness-and-continuity/)
+
+## 2026-03-30 07:35 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Word count**: 1510 → 1525 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan integration: 6 inbound links added, 2 outbound cross-links added)
+- **Enhancements made**: 8 (6 inbound cross-references from core articles, 2 new outbound links)
+- **Output**: [deep-review-2026-03-30-cross-cultural-convergence-on-mental-causation](/reviews/deep-review-2026-03-30-cross-cultural-convergence-on-mental-causation/)
+
+## 2026-03-30 07:19 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 2714 → 2720 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (categorical perception claim hedged to match evidence strength)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-03-30-consciousness-and-language-interface](/reviews/deep-review-2026-03-30-consciousness-and-language-interface/)
+
+## 2026-03-30 07:04 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
+- **Word count**: 3472 → 3396 (-76)
+- **Critical issues addressed**: 1 (stale HTML refinement log removed)
+- **Medium issues addressed**: 2 (prose tightened for length, 8 inbound cross-links added)
+- **Enhancements made**: 8 cross-links from related articles (orphan integration focus)
+- **Output**: [deep-review-2026-03-30-comparative-consciousness-and-interface-differences](/reviews/deep-review-2026-03-30-comparative-consciousness-and-interface-differences/)
+
+## 2026-03-30 06:50 UTC - deep-review
+- **Status**: Skipped (archived content)
+- **File**: arguments-against-epiphenomenalism.md
+- **Reason**: Article was coalesced into [epiphenomenalism](/concepts/epiphenomenalism/) on 2026-03-27. No obsidian source file exists. Archive version at `archive/concepts/arguments-against-epiphenomenalism.md` correctly points to replacement via `superseded_by`. The replacement article already incorporates all content (Convergence of Arguments section, 35 Further Reading entries). No action needed.
+
+## 2026-03-30 06:43 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Thrownness Void
+- **Category**: Mixed — Unexplorable and Occluded
+- **Output**: [voids-thrownness-void-2026-03-30](/research/voids-thrownness-void-2026-03-30/)
+- **Key finding**: Consciousness cannot access, authorise, or revise the conditions under which it became conscious — the pre-constitutional moment is structurally inaccessible, with Heidegger, Sartre, Levinas, and Arendt converging on the same limit from independent starting points.
+
 ## 2026-03-30 05:48 UTC - deep-review
 - **Status**: Success
 - **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)

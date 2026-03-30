@@ -173,6 +173,7 @@ The taxonomy tightens the Map's framework by replacing vague "selection" languag
 - [mental-effort](/concepts/mental-effort/) — Effort as timing/observation rate control
 - [agent-causation](/concepts/agent-causation/) — The free will implications of conscious selection
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — How coupling modes map onto altered-state phenomenology: basis control as the most fragile component across states
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Whether different organisms exploit different coupling modes
 
 ## References
 

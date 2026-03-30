@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-22 14:02:00+00:00
+ai_modified: 2026-03-30 07:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: 'How consciousness and language interact bidirectionally: language 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 01:06:00+00:00
+last_deep_review: 2026-03-30 07:19:00+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -47,7 +47,7 @@ Evidence suggests genuine phenomenal influence:
 
 **Verbal overshadowing.** Describing a face interferes with subsequent recognition—not merely with recall, but potentially with the phenomenal character of memory retrieval. The act of verbalising appears to transform the stored representation, making it more categorical and less richly detailed. This interference occurs regardless of explicit rehearsal instructions, though whether the original experience itself is transformed or only the memory trace remains debated.
 
-**Categorical perception shifts.** Colour perception near linguistic boundaries differs from perception away from boundaries. The phenomenal experience of seeing a colour changes based on whether it falls near a learned categorical boundary. Cross-linguistic studies confirm: speakers of different languages have phenomenally different colour perception at the boundaries their language marks.
+**Categorical perception shifts.** Colour perception near linguistic boundaries differs from perception away from boundaries. The phenomenal experience of seeing a colour changes based on whether it falls near a learned categorical boundary. Cross-linguistic studies suggest that speakers of different languages show measurably different perceptual responses at the boundaries their language marks, consistent with genuine phenomenal differences.
 
 **Inner speech and experience.** Much adult thought occurs as [inner speech](/concepts/introspection/)—the internal voice that accompanies reflection. This inner monologue structures phenomenal experience temporally and sequentially. Trying to think without words—as in certain meditation practices—reveals how much language shapes the texture of everyday consciousness.
 

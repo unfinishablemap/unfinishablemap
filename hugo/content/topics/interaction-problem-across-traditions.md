@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-25 18:01:00+00:00
+ai_modified: 2026-03-30 07:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -108,7 +108,7 @@ These positions are internally consistent but unavailable to the Map, which is c
 
 Three patterns emerge from this cross-traditional comparison.
 
-**The problem is real, not parochial.** When Sāṃkhya, Nyāya, Avicenna, Descartes, and Buddhist Abhidharma independently identify the same difficulty in mind-body relations, the difficulty cannot be dismissed as an artifact of Cartesian metaphysics. A functionalist might counter that the convergence reflects a shared cognitive bias—humans naturally but erroneously separate mind from matter, so every tradition generates the same pseudo-problem. But the traditions differ sharply in their ontologies, cultural contexts, and starting assumptions. That such diverse frameworks converge on the *same structural difficulty* is better explained by the difficulty being genuine than by a single universal bias.
+**The problem is real, not parochial.** When Sāṃkhya, Nyāya, Avicenna, Descartes, and Buddhist Abhidharma independently identify the same difficulty in mind-body relations, the difficulty cannot be dismissed as an artifact of Cartesian metaphysics. Moreover, these traditions converge not only on the *problem* but on the *answer*—that consciousness is causally efficacious (see [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)). A functionalist might counter that the convergence reflects a shared cognitive bias—humans naturally but erroneously separate mind from matter, so every tradition generates the same pseudo-problem. But the traditions differ sharply in their ontologies, cultural contexts, and starting assumptions. That such diverse frameworks converge on the *same structural difficulty* is better explained by the difficulty being genuine than by a single universal bias.
 
 **Contact fails; selection is more promising.** No tradition has made contact mechanisms work. Every attempt to locate a specific point where mind touches body pushes the problem back one step. The more promising solutions—Sāṃkhya's reflection, Avicenna's holistic governance, quantum selection—share the structural insight that interaction need not involve one substance pushing another. Consciousness may shape or select without efficient causation. This convergence across traditions lends independent support to the Map's "selection not injection" framework.
 

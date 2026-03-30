@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-21 05:09:00+00:00
+ai_modified: 2026-03-30 07:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -151,7 +151,7 @@ The Map's engagement with non-Western philosophy serves all five tenets.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Non-Western traditions do not discuss quantum mechanics, but Sāṃkhya's "reflection" model—where matter becomes transparent to consciousness when *sattva* predominates—shares a thematic concern with the Map's model: both hold that consciousness engages with physical systems only under specific conditions. The underlying structures differ substantially (pre-scientific metaphor versus quantum measurement), but the shared theme of conditional interface is suggestive.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Nyāya provides the strongest non-Western support, with its explicit model of a non-material self interacting causally with the body. Buddhist karma doctrine implies mental causation. Sāṃkhya's passive *Puruṣa* is a genuine tension—one the Map resolves by insisting that consciousness *acts*, not merely witnesses.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Nyāya provides the strongest non-Western support, with its explicit model of a non-material self interacting causally with the body. Buddhist karma doctrine implies mental causation. Sāṃkhya's passive *Puruṣa* is a genuine tension—one the Map resolves by insisting that consciousness *acts*, not merely witnesses. The broader [convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) across these traditions—not just on irreducibility but on causal efficacy—strengthens the case for bidirectional interaction.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Non-Western traditions do not address many-worlds as a physical theory, but their philosophical orientation resonates with the Map's rejection of observer-proliferation. The Nyāya insistence on a unified, enduring subject and the Buddhist emphasis on *this* stream of consciousness—rather than branching alternatives—share the Map's concern that indexical identity matters. These are thematic parallels, not direct arguments about quantum mechanics.
 

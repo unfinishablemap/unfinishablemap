@@ -174,6 +174,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [higher-order-theories](/concepts/higher-order-theories/) — Theories that consciousness requires higher-order representation
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The position that mind and body are distinct yet causally connected
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Whether emotional consciousness differs in nature, coupling, or both across species
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness
 - [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — The felt character of wrongness, obligation, and guilt as moral qualia
 - [valence-as-selection-currency](/topics/valence-as-selection-currency/) — Valence as the criterion for conscious selection

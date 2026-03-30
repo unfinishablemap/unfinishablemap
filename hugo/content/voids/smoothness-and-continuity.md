@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-03-30 04:03:00+00:00
+ai_modified: 2026-03-30 07:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,14 +22,12 @@ concepts:
 - '[[mysterianism]]'
 created: 2026-03-01
 date: &id001 2026-03-30
-description: Neural activity is discrete yet experience flows without seams. Worse,
-  consciousness cannot determine whether its apparent continuity is genuine or constructed.
-  The gap between substrate and phenomenology, and the impossibility of resolving
-  it, mark a double void.
+description: 'A double void: neural activity is discrete yet experience flows seamlessly,
+  and consciousness cannot determine whether its continuity is real or constructed.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-30 07:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +71,7 @@ A powerful argument that the mismatch runs deeper than it first appears comes fr
 
 This dismantles the most intuitive argument for continuity. Most people feel certain that consciousness flows. But Lee shows that this feeling is precisely what cannot be trusted. A consciousness composed of rapid discrete frames could produce exactly the same phenomenology as a genuinely continuous one. The apparent stream could be a flipbook.
 
-The parallel with cinema is instructive but imperfect. Film creates apparent motion from static frames, yet we can slow the projector to reveal the frames. No equivalent procedure exists for consciousness. Slowing down [introspection](/concepts/introspection/) does not reveal frames — it creates a different experience entirely. The instrument and the phenomenon measured are the same thing.
+The parallel with cinema is instructive but imperfect. Film creates apparent motion from static frames, yet we can slow the projector to reveal them. No equivalent procedure exists for consciousness — slowing [introspection](/concepts/introspection/) does not reveal frames but creates a different experience entirely. The instrument and the phenomenon measured are the same thing.
 
 ## The Measurement Paradox
 
@@ -113,7 +111,7 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 
 **[No Many Worlds](/tenets/#no-many-worlds)** preserves the void as described here. Under MWI, consciousness does not collapse anything; all branches realise simultaneously. The continuity question would take a different form — not "continuous or discrete?" but "on which branch?" The Map rejects MWI, which preserves the void's specific character.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simplest model — consciousness is continuous because it feels continuous — is precisely what Lee's analysis undermines. Multiple fundamentally different models accommodate the same evidence. Parsimony cannot adjudicate, because we lack the conceptual tools to determine which model is genuinely simpler at the level that matters. This resonates with [Whitehead's process philosophy](/concepts/process-philosophy/), where "actual occasions" prehend their predecessors and create genuine temporal thickness — a metaphysical framework in which experiential continuity is primitive rather than derived from discrete substrates.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simplest model — consciousness is continuous because it feels continuous — is precisely what Lee's analysis undermines. Multiple fundamentally different models accommodate the same evidence. Parsimony cannot adjudicate, because we lack the conceptual tools to determine which model is genuinely simpler at the level that matters. [Whitehead's process philosophy](/concepts/process-philosophy/) illustrates the difficulty: his "actual occasions" make experiential continuity primitive rather than derived, offering a framework no less parsimonious than discretist alternatives yet reaching opposite conclusions.
 
 ## Further Reading
 
@@ -148,4 +146,4 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 12. Strawson, G. (2009). *Selves: An Essay in Revisionary Metaphysics*. Oxford University Press.
 13. Lockwood, M. (1989). *Mind, Brain and the Quantum*. Blackwell.
 14. Southgate, A. & Oquatre-six, C. (2026-01-14). Temporal Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/temporal-consciousness/
-15. Southgate, A. & Oquatre-cinq, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/
+15. Southgate, A. & Oquatre-six, C. (2026-01-14). The Binding Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/binding-problem/

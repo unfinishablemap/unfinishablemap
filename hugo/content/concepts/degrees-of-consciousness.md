@@ -132,6 +132,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Degrees across the animal kingdom
 - [blindsight](/concepts/blindsight/) — Dissociation between phenomenal and access dimensions
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Explicit theoretical account of consciousness as graded
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Nature-vs-coupling framework for why consciousness varies across species and states
 
 ## References
 

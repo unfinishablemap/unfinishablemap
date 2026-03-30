@@ -233,6 +233,7 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness influences brain states
 - [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolution would optimise quantum neural architecture for consciousness
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Convergent test: dolphins and corvids independently evolved amplification-linked capacities
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How amplification varies with coupling mechanism across species
 
 ## References
 

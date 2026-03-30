@@ -38,34 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate arguments-against-epiphenomenalism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-21). Core article arguing consciousness is causally efficacious — directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from the-epiphenomenalist-threat.md, mental-causation-and-downward-causation.md, and consciousness-as-amplifier.md. High tenet relevance.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-30
-
-### P2: Integrate consciousness-collapse-prediction-landscape into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-29). Article on empirical predictions from consciousness-collapse theories. Add cross-references from testing-consciousness-collapse.md, comparing-quantum-consciousness-mechanisms.md, and consciousness-collapse-experimental-landscape.md. Supports Tenet 2.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-30
-
-### P2: Integrate stochastic-amplification-and-neural-selection into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-29). Article on how quantum-scale indeterminacy amplifies to neural-scale effects. Add cross-references from amplification-mechanisms-consciousness-physics.md, comparing-quantum-consciousness-mechanisms.md, and downward-causation.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-30
-
-### P2: Cross-review smoothness-and-continuity.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Newly coalesced from voids/smoothness-problem.md + voids/continuity-void.md (2026-03-30). Review against resolution-void, temporal-void, capability-division-problem, neural-refresh-rates, and phenomenology-of-the-edge for consistency. Add inbound links from related void articles. Verify the merge preserved key arguments from both sources and eliminated redundancy.
-- **Source**: chain (from smoothness-and-continuity.md coalesce)
-- **Generated**: 2026-03-30
-
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1750,6 +1722,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Cross-review smoothness-and-continuity.md against related articles
+- **Type**: cross-review
+- **Notes**: Newly coalesced from voids/smoothness-problem.md + voids/continuity-void.md (2026-03-30). Review against resolution-void, temporal-void, capability-division-problem, neural-refresh-rates, and phenomenology-of-the-edge for consistency. Add inbound links from related void articles. Verify the merge preserved key arguments from both sources and eliminated redundancy.
+- **Output**: obsidian/voids/smoothness-and-continuity.md -- Context: Cross-review smoothness-and-continuity.md against related articles
+
+### ✓ 2026-03-30: Integrate stochastic-amplification-and-neural-selection into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-29). Article on how quantum-scale indeterminacy amplifies to neural-scale effects. Add cross-references from amplification-mechanisms-consciousness-physics.md, comparing-quantum-consciousness-mechanisms.md, and downward-causation.md.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-30: Integrate consciousness-collapse-prediction-landscape into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-29). Article on empirical predictions from consciousness-collapse theories. Add cross-references from testing-consciousness-collapse.md, comparing-quantum-consciousness-mechanisms.md, and consciousness-collapse-experimental-landscape.md. Supports Tenet 2.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-30: Integrate arguments-against-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-21). Core article arguing consciousness is causally efficacious — directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from the-epiphenomenalist-threat.md, mental-causation-and-downward-causation.md, and consciousness-as-amplifier.md. High tenet relevance.
+- **Output**: arguments-against-epiphenomenalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-30: Update references to coalesced mental-causation and downward-causation articles
 - **Type**: cross-review

@@ -153,6 +153,7 @@ The concept matters for several reasons:
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Whether minimal consciousness differs in nature, coupling, or both from richer forms
 
 ## References
 

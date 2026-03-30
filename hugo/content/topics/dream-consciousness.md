@@ -231,6 +231,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The creative cycle and consciousness's role in incubation
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader case for consciousness enabling human-level cognition
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: dreams as one of five windows into the multi-channel interface architecture
+- [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Dreams as coupling variation: same consciousness, different interface configuration
 
 ## References
 
