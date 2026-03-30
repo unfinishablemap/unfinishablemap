@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 06:43 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Thrownness Void
+- **Category**: Mixed — Unexplorable and Occluded
+- **Output**: [[research/voids-thrownness-void-2026-03-30]]
+- **Key finding**: Consciousness cannot access, authorise, or revise the conditions under which it became conscious — the pre-constitutional moment is structurally inaccessible, with Heidegger, Sartre, Levinas, and Arendt converging on the same limit from independent starting points.
+
 ## 2026-03-30 05:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-causation-and-downward-causation]]
