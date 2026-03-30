@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address homunculus problem in dopamine-and-the-unified-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the three-layer architecture's "selection layer" is unexplained and responds to the computational objection only by invoking the hard problem (circular). Engage with specific computational models of action selection and identify precisely what they leave unexplained. Also add missing citations for dopamine-deficient animal claims and amphetamine findings. See pessimistic-2026-03-30-midday.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
 ### P2: Address circularity in growing-block-universe-and-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1784,6 +1777,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Address homunculus problem in dopamine-and-the-unified-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the three-layer architecture's "selection layer" is unexplained and responds to the computational objection only by invoking the hard problem (circular). Engage with specific computational models of action selection and identify precisely what they leave unexplained. Also add missing citations for dopamine-deficient animal claims and amphetamine findings. See pessimistic-2026-03-30-midday.md
+- **Output**: obsidian/topics/dopamine-and-the-unified-interface.md
+
+Task context:
+Pessimistic review found the three-layer architecture's "selection layer" is unexplained and responds to the computational objection only by invoking the hard problem (circular). Engage with specific computational models of action selection and identify precisely what they leave unexplained. Also add missing citations for dopamine-deficient animal claims and amphetamine findings. See pessimistic-2026-03-30-midday.md
 
 ### ✓ 2026-03-30: Cross-review smoothness-and-continuity.md against related articles
 - **Type**: cross-review
