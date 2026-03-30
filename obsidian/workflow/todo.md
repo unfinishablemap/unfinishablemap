@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review death-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the ultimate cognitive limit — the impossibility of experiencing one's own death. Verify coherence, cross-references to personal-identity and temporal-void, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1784,6 +1777,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review death-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the ultimate cognitive limit — the impossibility of experiencing one's own death. Verify coherence, cross-references to personal-identity and temporal-void, and tenet alignment.
+- **Output**: obsidian/voids/death-void.md
 
 ### ✓ 2026-03-30: Deep review limits-reveal-structure.md
 - **Type**: deep-review
