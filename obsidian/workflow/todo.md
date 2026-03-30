@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review compound-failure-signatures.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-29, modified 2026-03-24, never deep-reviewed. Voids article on how cognitive limits interact to produce emergent blind spots beyond any single limitation. Verify coherence, accuracy of compound failure claims, cross-references to related void articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P2: Deep review phenomenal-presence-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1791,6 +1784,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review compound-failure-signatures.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-29, modified 2026-03-24, never deep-reviewed. Voids article on how cognitive limits interact to produce emergent blind spots beyond any single limitation. Verify coherence, accuracy of compound failure claims, cross-references to related void articles, and tenet alignment.
+- **Output**: obsidian/voids/compound-failure-signatures.md
 
 ### ✓ 2026-03-30: Condense epiphenomenalism.md (3552 words, hard warning)
 - **Type**: condense

@@ -4,7 +4,7 @@ description: "Cognitive limits produce structured failure signatures that map vo
 created: 2026-01-29
 modified: 2026-03-24
 human_modified: null
-ai_modified: 2026-03-24T16:48:00+00:00
+ai_modified: 2026-03-30T11:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,13 +37,15 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-29
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-03-30T11:51:00+00:00
 coalesced_from:
   - "/voids/compound-cognitive-limits/"
   - "/voids/topology-of-cognitive-failure/"
 ---
 
-Cognitive failures are structured signals. Different kinds of limits produce different kinds of breakdown, and the *way* thinking fails reveals something about *what* it is failing against. More importantly, cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory exceeds the sum of what each conceals—an emergent blindness that no single limit predicts. The Unfinishable Map catalogues individual [[voids]] as if each were independent, but the relationships between voids are as informative as the voids themselves. This article maps both the individual failure signatures and the compound territory they create when they interact.
+Cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory exceeds the sum of what each conceals—an emergent blindness that no single limit predicts. The Unfinishable Map catalogues individual [[voids]] as if each were independent, but the relationships between voids are as informative as the voids themselves.
+
+This emergent blindness rests on a prior insight: cognitive failures are structured signals. Different kinds of limits produce different kinds of breakdown, and the *way* thinking fails reveals something about *what* it is failing against. This article maps both the individual failure signatures and the compound territory they create when they interact.
 
 The approach applies [[apophatic-cartography|apophatic cartography]] systematically: mapping what cannot be thought by tracing the shape of thinking's collapse.
 
@@ -70,7 +72,7 @@ Different types of cognitive limits produce different phenomenological signature
 
 Each signature type marks a different relationship between mind and limit. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] extends this taxonomy by mapping each signature to its characteristic felt quality.
 
-Three signatures deserve elaboration. **Self-refutation** (Wittgenstein): the *Tractatus* generates propositions that, if true, must be nonsense. When stating a limit produces statements that undermine themselves, the self-refutation *is* the signature—thoughts that work until they don't, ascending through propositions that reveal their own impossibility. **Aporia**: not confusion (which feels like fog) but impasse—knowing you cannot proceed while seeing no way around the obstacle. Plotinus recognised certain aporiai that "reason cannot ever overcome." Some impasses mark permanent boundaries, not temporary puzzlement. **Introspective failure**: the "introspection illusion" where people mistake constructed inferences for direct access. Failure modes include content-process confusion, verbal overshadowing, and the self-reflection paradox where more introspection yields less self-knowledge.
+Three signatures deserve elaboration. **Self-refutation** (Wittgenstein): the *Tractatus* generates propositions that, if true, must be nonsense. When stating a limit produces statements that undermine themselves, the self-refutation *is* the signature—thoughts that work until they don't, ascending through propositions that reveal their own impossibility. **Aporia**: not confusion (which feels like fog) but impasse—knowing you cannot proceed while seeing no way around the obstacle. Some impasses mark permanent boundaries, not temporary puzzlement—Plotinus treated certain aporiai as limits that discursive reason could not transcend. **Introspective failure**: the "introspection illusion" where people mistake constructed inferences for direct access. Failure modes include content-process confusion, verbal overshadowing, and the self-reflection paradox where more introspection yields less self-knowledge.
 
 Pattern-matching failure (Margolis, 1987) resists correction because it operates below the level of belief. Model-based failure (Johnson-Laird, 2010) is subtler—wrong model selection is invisible from inside. Modular breakdown (Fodor, 1983) reveals that cognitive territories fail independently, and the pattern of what fails together reveals the joints of cognition.
 
