@@ -4,7 +4,7 @@ description: "Anesthesia and coma don't prove brains produce consciousness. Filt
 created: 2026-01-15
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-03-30T04:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-08T00:49:00+00:00
+last_deep_review: 2026-03-30T04:56:00+00:00
 ---
 
 Loss of consciousness—through anesthesia, coma, or brain injury—provides a natural experiment for understanding the mind-brain relationship. Materialists argue that consciousness disappearing when brain function is disrupted proves consciousness is produced by the brain. But this argument conflates correlation with causation. The filter or transmission theory, developed by William James, Henri Bergson, and Aldous Huxley, interprets the same evidence differently: brain dysfunction disrupts the *interface* through which consciousness operates, not the consciousness itself. Several findings support this alternative interpretation: behaviorally unresponsive patients who retain awareness detectable only via neuroimaging, radically different conscious states from anesthetics that produce identical behavioral unresponsiveness, and consciousness persisting despite massive neural loss from hemispherectomy.
@@ -73,7 +73,7 @@ Comparing different anesthetic drugs reveals a dissociation that production mode
 
 Yet the subjective realities differ radically.
 
-Propofol produces near-total extinction of consciousness. Patients report nothing—no dreams, no experiences, no sense of time passing. Brain complexity under propofol decreases by an order of magnitude. The posterior cortical hot zone essentially goes silent.
+Propofol produces near-total extinction of consciousness. Patients report nothing—no dreams, no experiences, no sense of time passing. Brain complexity under propofol decreases by an order of magnitude (Mashour, 2024). The posterior cortical hot zone essentially goes silent.
 
 Ketamine, by contrast, produces "dissociative anesthesia" with vivid dreams, complex hallucinations, and out-of-body experiences. Brain dynamics under ketamine remain similar to waking consciousness. Patients emerge with elaborate narratives of journeys, encounters, and transformations.
 
@@ -206,6 +206,10 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 - [[haecceity]] — The indexical identity problem posed by temporal gaps in experience
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing loss of consciousness within a convergence matrix of five altered states
 - [[dream-consciousness]] — Dream states as contrast case: consciousness persists during sleep with distinct phenomenal modes and cognitive contributions
+- [[terminal-lucidity-and-filter-transmission-theory]] — Terminal lucidity as strongest single-phenomenon case for filter/transmission theory despite severe brain damage
+- [[neurological-dissociations-as-interface-architecture]] — Blindsight, anosognosia, and alien hand syndrome mapping the functional anatomy of the mind-brain channel
+- [[clinical-dissociation-as-systematic-evidence]] — Dissociative disorders as evidence that connectivity disruption supports dualist interface architecture
+- [[psychedelics-and-the-filter-model]] — Decreased brain activity producing expanded consciousness as pharmacological evidence for filter theory
 
 ## References
 
@@ -217,19 +221,5 @@ The Map's [[tenets]] converge on loss of consciousness as a domain where the dua
 6. Bodart, O., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*.
 7. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 8. Tallis, R. (2016). Why Illusionism Is Not the Solution to the Hard Problem of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 182-192.
-9. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-10. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
-11. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
-
-<!-- AI REFINEMENT LOG - 2026-03-17
-Changes made:
-- Added explicit acknowledgment of radio/prism analogy limitations in Materialist Argument section
-- Strengthened propofol/ketamine section: added independent argumentation showing the divergence undermines production models on its own terms, not just as filter theory illustration
-- Strengthened CMD section: added independent argument that 25% misdiagnosis rate contaminates the evidential base for production claims, plus architectural argument about consciousness persisting despite severed output
-- Rewrote Dualism tenet subsection to lead with three independent evidence lines (propofol/ketamine, CMD, hemispherectomy) rather than restating the radio analogy
-
-Based on pessimistic review pessimistic-2026-03-17b.md finding that radio/prism analogy was doing too much argumentative work.
-Key improvements: Evidence now carries the argument independently; analogies illustrate rather than substitute for reasoning.
-
-This log should be removed after human review.
--->
+9. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
+10. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
