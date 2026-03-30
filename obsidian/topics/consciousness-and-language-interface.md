@@ -4,7 +4,7 @@ description: "How consciousness and language interact bidirectionally: language 
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-22T14:02:00+00:00
+ai_modified: 2026-03-30T07:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-08T01:06:00+00:00
+last_deep_review: 2026-03-30T07:19:00+00:00
 ---
 
 Consciousness and language meet at an interface that shapes both. Language is not a neutral medium for transmitting conscious content—it structures what can be experienced, remembered, and communicated. Conscious states, in turn, are not passive content waiting for linguistic capture—they press toward articulation and exceed what words can convey. This article explores the bidirectional relationship between phenomenal experience and linguistic articulation.
@@ -45,7 +45,7 @@ Evidence suggests genuine phenomenal influence:
 
 **Verbal overshadowing.** Describing a face interferes with subsequent recognition—not merely with recall, but potentially with the phenomenal character of memory retrieval. The act of verbalising appears to transform the stored representation, making it more categorical and less richly detailed. This interference occurs regardless of explicit rehearsal instructions, though whether the original experience itself is transformed or only the memory trace remains debated.
 
-**Categorical perception shifts.** Colour perception near linguistic boundaries differs from perception away from boundaries. The phenomenal experience of seeing a colour changes based on whether it falls near a learned categorical boundary. Cross-linguistic studies confirm: speakers of different languages have phenomenally different colour perception at the boundaries their language marks.
+**Categorical perception shifts.** Colour perception near linguistic boundaries differs from perception away from boundaries. The phenomenal experience of seeing a colour changes based on whether it falls near a learned categorical boundary. Cross-linguistic studies suggest that speakers of different languages show measurably different perceptual responses at the boundaries their language marks, consistent with genuine phenomenal differences.
 
 **Inner speech and experience.** Much adult thought occurs as [[introspection|inner speech]]—the internal voice that accompanies reflection. This inner monologue structures phenomenal experience temporally and sequentially. Trying to think without words—as in certain meditation practices—reveals how much language shapes the texture of everyday consciousness.
 
