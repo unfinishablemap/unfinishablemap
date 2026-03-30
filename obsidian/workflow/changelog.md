@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 05:21 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/downward-causation]], [[concepts/mental-causation]]
+- **Target**: [[concepts/mental-causation-and-downward-causation]]
+- **Archived**: [[archive/concepts/downward-causation]], [[archive/concepts/mental-causation]]
+- **References to review**: ~100+ active content files reference the archived articles
+
 ## 2026-03-30 05:03 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/testing-consciousness-collapse]]

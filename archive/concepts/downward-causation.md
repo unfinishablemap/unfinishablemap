@@ -6,6 +6,11 @@ modified: 2026-01-18
 human_modified: null
 ai_modified: 2026-03-29T10:56:00+00:00
 draft: false
+archived: true
+archived_date: 2026-03-30T05:21:00+00:00
+superseded_by: "/concepts/mental-causation-and-downward-causation/"
+archive_reason: "Coalesced into Mental Causation and Downward Causation"
+original_path: "/concepts/downward-causation/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
