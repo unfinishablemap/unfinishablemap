@@ -20,6 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"
   - "[[collapse-and-time]]"
+  - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -134,6 +135,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the view that all ou
 
 ## Further Reading
 
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis integrating boundary-condition selection with four other converging lines of inquiry
 - [[atemporal-causation]] — Causation outside temporal sequence
 - [[time-symmetric-physics]] — Fundamental time-symmetry grounding retrocausal interpretations
 - [[time-symmetric-selection-mechanism]] — The full selection mechanism using atemporal constraint satisfaction

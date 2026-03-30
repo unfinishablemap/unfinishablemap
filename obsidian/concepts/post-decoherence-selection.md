@@ -28,6 +28,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[quantum-darwinism-and-consciousness]]"
+  - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -84,6 +85,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 
 ## Further Reading
 
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis integrating this concept with quantum Darwinism, contextuality, weak measurement, and stochastic amplification
 - [[decoherence|Decoherence]]
 - [[measurement-problem|The Measurement Problem]]
 - [[timing-gap-problem|The Timing Gap Problem]]

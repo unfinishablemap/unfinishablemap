@@ -23,6 +23,7 @@ related_articles:
   - "[[amplification-mechanisms-consciousness-physics]]"
   - "[[weak-measurement-and-post-selection]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
+  - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -85,6 +86,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the dissolution of s
 
 ## Further Reading
 
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis showing how contextuality constrains the full post-decoherence research programme
 - [[post-decoherence-selection]]
 - [[measurement-problem]]
 - [[consciousness-selecting-neural-patterns]]

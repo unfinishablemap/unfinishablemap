@@ -19,6 +19,7 @@ related_articles:
   - "[[comparing-quantum-consciousness-mechanisms]]"
   - "[[tenets]]"
   - "[[decoherence-and-macroscopic-superposition]]"
+  - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -83,6 +84,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant here: t
 
 ## Further Reading
 
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis showing how the timing gap motivates the post-decoherence research programme
 - [[quantum-neural-timing-constraints]]
 - [[comparing-quantum-consciousness-mechanisms]]
 - [[decoherence]]

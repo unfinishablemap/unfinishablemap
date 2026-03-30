@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 01:15 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Word count**: 2805 → 2825 (+20)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (orphan integration via 9 backlinks, missing cross-links, Schlosshauer attribution)
+- **Enhancements made**: 8 cross-links added within apex, 9 backlinks from source/related articles
+- **Output**: [[reviews/deep-review-2026-03-30-post-decoherence-selection-programme]]
+
 ## 2026-03-30 00:59 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/machine-consciousness.md, topics/causal-closure-debate-historical-survey.md

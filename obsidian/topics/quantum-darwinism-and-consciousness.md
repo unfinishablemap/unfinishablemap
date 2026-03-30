@@ -25,6 +25,7 @@ related_articles:
   - "[[amplification-mechanisms-consciousness-physics]]"
   - "[[weak-measurement-and-post-selection]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
+  - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -117,6 +118,7 @@ These constraints do not make the proposal easily testable with current technolo
 
 ## Further Reading
 
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis showing how quantum Darwinism's menu specification integrates with four other lines of inquiry
 - [[post-decoherence-selection]]
 - [[contextual-selection-in-quantum-foundations|Contextual Selection in Quantum Foundations]]
 - [[amplification-mechanisms-consciousness-physics|Amplification Mechanisms for Consciousness-Physics Interaction]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate post-decoherence-selection-programme.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: New apex article created 2026-03-29 with zero inbound links. Synthesises five converging research lines (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification). Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, quantum-darwinism-and-consciousness, contextual-selection-in-quantum-mechanics, and other quantum-mechanism topics. Update apex index if needed.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-30
-
 ### P2: Deep review three-kinds-of-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1735,6 +1728,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate post-decoherence-selection-programme.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: New apex article created 2026-03-29 with zero inbound links. Synthesises five converging research lines (post-decoherence selection, quantum Darwinism, contextuality, weak measurement, stochastic amplification). Add cross-references from related articles: comparing-quantum-consciousness-mechanisms, quantum-darwinism-and-consciousness, contextual-selection-in-quantum-mechanics, and other quantum-mechanism topics. Update apex index if needed.
+- **Output**: obsidian/apex/post-decoherence-selection-programme.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-30: Deep review attention-as-causal-bridge.md
 - **Type**: deep-review

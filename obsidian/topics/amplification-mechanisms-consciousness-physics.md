@@ -31,6 +31,7 @@ related_articles:
   - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[conservation-laws-and-mental-causation]]"
   - "[[contextual-selection-in-quantum-foundations]]"
+  - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -179,6 +180,7 @@ The **[[tenets#^no-many-worlds|No Many Worlds]]** tenet constrains which mechani
 
 ## Further Reading
 
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis integrating amplification mechanisms with four other converging lines of inquiry
 - [[amplification-void]] — Why the amplification chain cannot be traced: a structurally necessary gap
 - [[quantum-consciousness]] — Detailed treatment of Orch OR, Stapp, and Fisher mechanisms
 - [[consciousness-as-amplifier]] — How consciousness amplifies intelligence through cognitive mechanisms

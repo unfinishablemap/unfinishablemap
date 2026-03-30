@@ -34,6 +34,7 @@ related_articles:
   - "[[illusionism]]"
   - "[[decoherence-and-macroscopic-superposition]]"
   - "[[amplification-void]]"
+  - "[[post-decoherence-selection-programme]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -192,6 +193,9 @@ The Map's position is strong emergentism that specifies its mechanism. Mental ca
 **A mysterian caveat**: Even if these mechanisms prove correct, we may face cognitive closure on *how* consciousness interfaces with quantum effects. [[mysterianism|Colin McGinn's cognitive closure thesis]] suggests human minds may be constitutionally incapable of understanding this connection—not because the problem is unanswerable, but because the answer lies outside our conceptual repertoire. The Map documents mechanisms constrained by physics while acknowledging the ultimate nature of the consciousness-quantum interface may exceed human comprehension.
 
 ## Further Reading
+
+**Apex synthesis:**
+- [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Five converging lines of inquiry for consciousness acting after decoherence
 
 **Mechanisms and timing:**
 - [[attention-and-the-consciousness-interface]] — Candidate neural sites, timing constraints, and testable predictions
