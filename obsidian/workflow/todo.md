@@ -323,6 +323,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-23
 
+### P3: Write article on aesthetics and consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has almost no coverage of aesthetic experience—beauty, sublimity, artistic creation—as evidence for consciousness irreducibility. Aesthetic qualia resist functional analysis more stubbornly than almost any other. Builds on the-aesthetic-void, phenomenology-of-creative-insight, valence-as-selection-currency. Target section: topics/. See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Write article on the Map's distinctive contribution to AI safety
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's dualist framework has concrete implications for AI alignment differing from mainstream preference-satisfaction approaches—grounding alignment in objective experiential facts. Builds on alignment-in-objective-experiential-terms, purpose-and-ai-alignment, experiential-alignment. Target section: topics/ or apex/. See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Write concept page on presupposition argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The curated-mind article develops a novel argument form (curation presupposes a recipient) structurally distinct from the hard problem, knowledge argument, and conceivability argument. Deserves its own concept page as a member of the Map's argument catalogue. Target section: concepts/. See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
+### P3: Add cross-links between curated-mind, reverse-inference, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: curated-mind → filter-theory (curation as specific filtering mechanism), the-reverse-inference → galilean-exclusion (methodological response to Galilean diagnosis), psychedelics-and-the-filter-model → default-mode-network (DMN suppression as filter opening), cross-traditional-convergence → african-philosophy-of-consciousness (strengthen independent convergence point), valence-as-selection-currency → alignment-in-objective-experiential-terms (bridge from metaphysics to AI safety), curated-mind → clinical-dissociation-as-systematic-evidence (independent convergence on multi-channel interface). See optimistic-2026-03-30-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-30
+
 ### P3: Deep review dimensionality-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
