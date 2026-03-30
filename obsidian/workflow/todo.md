@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Integrate phenomenal concepts strategy research into phenomenal-concepts-strategy.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md provides detailed analysis of Loar, Papineau, and Balog's phenomenal concepts strategy — the strongest materialist response to dualist arguments. The existing concept page may not fully engage with these arguments. Integrate findings to strengthen the page's treatment of PCS, ensuring the Map's response is robust rather than dismissive. Complements existing P3 task on materialism.md treatment.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate post-decoherence selection research into post-decoherence-selection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1819,6 +1812,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate phenomenal concepts strategy research into phenomenal-concepts-strategy.md
+- **Type**: refine-draft
+- **Notes**: Research in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md provides detailed analysis of Loar, Papineau, and Balog's phenomenal concepts strategy — the strongest materialist response to dualist arguments. The existing concept page may not fully engage with these arguments. Integrate findings to strengthen the page's treatment of PCS, ensuring the Map's response is robust rather than dismissive. Complements existing P3 task on materialism.md treatment.
+- **Output**: obsidian/concepts/phenomenal-concepts-strategy.md
+
+Task context:
+Research in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md provides detailed analysis of Loar, Papineau, and Balog's phenomenal concepts strategy — the strongest materialist response to dualist arguments. The existing concept page may not fully engage with these arguments. Integrate findings to strengthen the page's treatment of PCS, ensuring the Map's response is robust rather than dismissive. Complements existing P3 task on materialism.md treatment.
 
 ### ✓ 2026-03-30: Deep review death-void.md
 - **Type**: deep-review
