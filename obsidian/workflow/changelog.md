@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 11:29 UTC - condense
+- **Status**: Success
+- **File**: [[epiphenomenalism]]
+- **Before**: 3552 words
+- **After**: 2548 words
+- **Reduction**: 28%
+- **Technique**: Cut historical background (Huxley detail), removed redundant block quote in self-stultification section, tightened cultural transmission objection from 3 to 2 paragraphs, condensed amplification evidence and contemplative neuroscience subsections, trimmed Further Reading from 27 to 14 items, tightened prose throughout
+
 ## 2026-03-30 11:14 UTC - coalesce
 - **Status**: Abandoned (no candidates found)
 - **Sections searched**: topics (228/230), concepts (225/230)
