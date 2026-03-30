@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenological method research into methodology articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/phenomenological-method-evidence-standards-2026-03-19.md covers evidence standards for phenomenological claims. Integrate findings into relevant methodology articles (phenomenological-evidence, methodology-of-consciousness-research) to strengthen the Map's epistemological foundations.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate consciousness-collapse-prediction-landscape.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1756,6 +1749,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate phenomenological method research into methodology articles
+- **Type**: refine-draft
+- **Notes**: Research in research/phenomenological-method-evidence-standards-2026-03-19.md covers evidence standards for phenomenological claims. Integrate findings into relevant methodology articles (phenomenological-evidence, methodology-of-consciousness-research) to strengthen the Map's epistemological foundations.
+- **Output**: Task context:
+Research in research/phenomenological-method-evidence-standards-2026-03-19.md covers evidence standards for phenomenological claims. Integrate findings into relevant methodology articles (phenomenological-evidence, methodology-of-consciousness-research) to strengthen the Map's epistemological foundations.
 
 ### ✓ 2026-03-30: Integrate illusionism functional-seeming research into illusionism.md
 - **Type**: refine-draft

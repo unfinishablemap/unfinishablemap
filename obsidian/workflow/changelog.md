@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 09:44 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/phenomenological-evidence]], [[topics/methodology-of-consciousness-research]]
+- **Changes**: Integrated research from phenomenological-method-evidence-standards-2026-03-19.md. Added Husserl adequacy/apodicticity distinction, Berghofer's originary givenness framework, Merleau-Ponty's embodied evidence section, self-undermining argument against introspective skepticism, Thomasson's disciplined-vs-naive introspection distinction. Added 4 new references across both articles.
+- **Published**: yes
+
 ## 2026-03-30 09:30 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/illusionism]]
