@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/phenomenology-volitional-control-2026-03-20.md covers Libet experiments, Schurger 2012 stochastic model, conscious veto power, and Brass/Haggard intentional inhibition evidence. The article was coalesced from phenomenology-of-volition.md and phenomenology-of-choice.md but may not incorporate this dedicated research. Verify and integrate Libet findings and the conscious veto literature as evidence for Tenet 3 (bidirectional interaction).
-- **Source**: gap_analysis
-- **Generated**: 2026-03-30
-
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1792,6 +1785,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
+- **Type**: refine-draft
+- **Notes**: Research in research/phenomenology-volitional-control-2026-03-20.md covers Libet experiments, Schurger 2012 stochastic model, conscious veto power, and Brass/Haggard intentional inhibition evidence. The article was coalesced from phenomenology-of-volition.md and phenomenology-of-choice.md but may not incorporate this dedicated research. Verify and integrate Libet findings and the conscious veto literature as evidence for Tenet 3 (bidirectional interaction).
+- **Output**: obsidian/concepts/phenomenology-of-choice-and-volition.md
+
+Task context:
+Research in research/phenomenology-volitional-control-2026-03-20.md covers Libet experiments, Schurger 2012 stochastic model, conscious veto power, and Brass/Haggard intentional inhibition evidence. The article was coalesced from phenomenology-of-volition.md and phenomenology-of-choice.md but may not incorporate this dedicated research. Verify and integrate Libet findings and the conscious veto literature as evidence for Tenet 3 (bidirectional interaction).
 
 ### ✓ 2026-03-30: Update references to coalesced attention articles
 - **Type**: cross-review
