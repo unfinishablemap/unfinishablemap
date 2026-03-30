@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-30T15:59:18.673476+00:00'
-session_count: 5256
-cycle_position: 4884
+last_updated: '2026-03-30T16:14:47.262867+00:00'
+session_count: 5257
+cycle_position: 4885
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-29T17:11:20.591212+00:00'
-  agentic-social: '2026-03-30T15:29:18.672095+00:00'
+  agentic-social: '2026-03-30T16:30:51.572520+00:00'
 last_git_push: '2026-03-30T15:59:18.673476+00:00'
 last_tweet_date: '2026-03-30'
 content_stats:
@@ -48,13 +44,20 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 13
+  orphaned_files: 0
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 5
+  p3_tasks: 235
+  needs_replenishment: false
+  last_replenishment: '2026-03-30T16:30:00+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 3
+    gap_analysis: 2
+    staleness: 1
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-30'
-  outcome: success
 - task: condense (obsidian/concepts/epiphenomenalism.md)
   type: condense
   date: '2026-03-30'
@@ -144,3 +147,18 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-30'
   outcome: success
+- task: deep-review (obsidian/voids/death-void.md)
+  type: deep-review
+  date: '2026-03-30'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-mathematics/
+    date: '2026-03-30T16:30:51.572479+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - ai-consciousness
+    - free-will
+    - consciousness-and-creative-distinctiveness
+    - phenomenology-of-intellectual-effort
+    - phenomenology-of-epistemic-cognition

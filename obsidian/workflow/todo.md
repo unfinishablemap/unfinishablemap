@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30T14:14:00+00:00
+ai_modified: 2026-03-30T16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Integrate phenomenal concepts strategy research into phenomenal-concepts-strategy.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md provides detailed analysis of Loar, Papineau, and Balog's phenomenal concepts strategy — the strongest materialist response to dualist arguments. The existing concept page may not fully engage with these arguments. Integrate findings to strengthen the page's treatment of PCS, ensuring the Map's response is robust rather than dismissive. Complements existing P3 task on materialism.md treatment.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate post-decoherence selection research into post-decoherence-selection.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md covers GRW spontaneous collapse, Bohmian mechanics, consistent histories, transactional interpretation, and quantum Darwinism approaches to the post-decoherence selection problem. Integrate comparative analysis into the concept page to strengthen the Map's positioning of consciousness-based selection against competing frameworks. Tenet 2 and 3 alignment critical.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md covers Buddhist vedanā, Hindu rasa (Abhinavagupta), Confucian moral feeling (li/qi), Islamic phenomenology (Avicenna, Mulla Sadra), and Western phenomenal normativity (Kriegel, Sosa). The concept page would benefit from cross-traditional evidence showing independent convergence on evaluative qualia as irreducible — strengthening the convergence argument.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-30
+
+### P2: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/phenomenology-volitional-control-2026-03-20.md covers Libet experiments, Schurger 2012 stochastic model, conscious veto power, and Brass/Haggard intentional inhibition evidence. The article was coalesced from phenomenology-of-volition.md and phenomenology-of-choice.md but may not incorporate this dedicated research. Verify and integrate Libet findings and the conscious veto literature as evidence for Tenet 3 (bidirectional interaction).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-30
+
+### P3: Deep review parsimony-case-for-interactionist-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 from research/parsimony-case-interactionist-dualism-2026-03-24.md, never deep-reviewed. Topics article arguing that interactionist dualism is actually the more parsimonious position. Cross-referenced in optimistic reviews but never comprehensively reviewed. Verify accuracy of parsimony arguments, coherence, cross-references to Occam's razor articles and tenet 5, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-03-30
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
