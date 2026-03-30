@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-03-30T03:18:26.343057+00:00'
-session_count: 5210
-cycle_position: 4838
+last_updated: '2026-03-30T03:33:26.343817+00:00'
+session_count: 5211
+cycle_position: 4839
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-29T17:11:20.591212+00:00'
-  agentic-social: '2026-03-30T03:03:26.341973+00:00'
+  agentic-social: '2026-03-30T03:49:04.163346+00:00'
 last_git_push: '2026-03-29T23:44:23.793182+00:00'
 last_tweet_date: '2026-03-29'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the boundary void)
-  type: expand-topic
-  date: '2026-03-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-03-29'
@@ -143,3 +135,17 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-30'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-30'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/degrees-of-consciousness/
+    date: '2026-03-30T03:49:04.163307+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-in-simple-organisms
+    - animal-consciousness
+    - anaesthesia-and-the-consciousness-interface
+    - loss-of-consciousness

@@ -5,6 +5,12 @@ ai_modified: 2026-03-30T03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 03:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Changes**: Addressed pessimistic review findings. (1) Engaged with Woodward, List & Menzies, and Loewer responses to Kim's generalisation problem; explained why these rescue physically grounded higher-level causation but leave non-physical mental causation excluded. (2) Qualified Stapp's Process 0 as interpretation-dependent and non-standard; separated the broader quantum indeterminacy point from Stapp's specific framework.
+- **Published**: yes
+
 ## 2026-03-30 03:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/leibnizs-mill-argument]]

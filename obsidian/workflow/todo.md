@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address generalisation problem and Stapp neutrality in causal-closure-debate-historical-survey.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) Kim's exclusion argument generalisation problem identified but not engaged — Woodward's interventionist framework, List & Menzies's difference-making account, and Loewer's compatibilism all preserve higher-level causation within closed physics. Explain why the Map finds these insufficient. (2) Stapp's "Process 0" presented as revealing a "genuine causal gap" without noting that most physicists regard his framework as non-standard. Acknowledge the interpretive dependency. See pessimistic-2026-03-30.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-03-30
-
 ### P2: Fix improper-mixture gap claim and post-selection grounding in quantum mechanism articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1742,6 +1735,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Address generalisation problem and Stapp neutrality in causal-closure-debate-historical-survey.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) Kim's exclusion argument generalisation problem identified but not engaged — Woodward's interventionist framework, List & Menzies's difference-making account, and Loewer's compatibilism all preserve higher-level causation within closed physics. Explain why the Map finds these insufficient. (2) Stapp's "Process 0" presented as revealing a "genuine causal gap" without noting that most physicists regard his framework as non-standard. Acknowledge the interpretive dependency. See pessimistic-2026-03-30.md
+- **Output**: obsidian/topics/causal-closure-debate-historical-survey.md
+
+Task context:
+Pessimistic review found: (1) Kim's exclusion argument generalisation problem identified but not engaged — Woodward's interventionist framework, List & Menzies's difference-making account, and Loewer's compatibilism all preserve higher-level causation within closed physics. Explain why the Map finds these insufficient. (2) Stapp's "Process 0" presented as revealing a "genuine causal gap" without noting that most physicists regard his framework as non-standard. Acknowledge the interpretive dependency. See pessimistic-2026-03-30.md
 
 ### ✓ 2026-03-30: Fix KS theorem non-sequitur and agency conflation in contextual-selection-in-quantum-foundations.md
 - **Type**: refine-draft
