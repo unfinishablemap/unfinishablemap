@@ -4,9 +4,9 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-03-30T01:29:00+00:00
 draft: false
-last_deep_review: 2026-02-24T18:44:00+00:00
+last_deep_review: 2026-03-30T01:29:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -47,7 +47,9 @@ But there may be another kind of void. Not darkness that awaits illumination, bu
 
 Colin McGinn's [[mysterianism|mysterian]] framework articulates this possibility with philosophical precision. McGinn proposes that minds can be *cognitively closed* with respect to certain properties—the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. A rat is cognitively closed to calculus not because it's insufficiently intelligent within its domain, but because the conceptual apparatus simply isn't there. [[inventory-blindness|Inventory blindness]] ensures such closure is self-concealing: absent capabilities produce no signal marking their absence.
 
-McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [[recognition-void]] exemplifies this category: the process by which perception becomes identification is structurally hidden, and its failures (Capgras delusion, prosopagnosia) reveal components that were never accessible to introspection. The [[hard-problem-of-consciousness|hard problem]] might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach. The [[the-silence-void|silence void]] exemplifies this category: contemplative traditions report that certain truths are accessible only through the cessation of thought, making them structurally inaccessible to any cognitive process—including the process of mapping.
+McGinn argues that humans may be cognitively closed to what he calls "property P"—whatever property of the brain explains how neural activity gives rise to conscious experience. We access consciousness through introspection and brain through perception, but neither mode reveals the bridge between them. The [[hard-problem-of-consciousness|hard problem]] might be unsolvable not because it's supernatural but because the solution lies outside our cognitive reach.
+
+Several voids exemplify this category. The [[recognition-void]] reveals that the process by which perception becomes identification is structurally hidden—its failures (Capgras delusion, prosopagnosia) expose components never accessible to introspection. The [[the-silence-void|silence void]] goes further: contemplative traditions report that certain truths are accessible only through the cessation of thought, making them structurally inaccessible to any cognitive process—including the process of mapping.
 
 Materialists counter that apparent cognitive closure often dissolves with scientific progress—what seems unthinkable becomes tractable once the right concepts emerge. This is a serious objection. But if the Map's [[tenets]] are correct—consciousness is irreducible and interacts with physical processes—the hard problem may be different in kind from merely difficult problems. [[apophatic-cartography|Apophatic cartography]] formalises criteria for making this distinction — structured persistence, cross-observer convergence, signature specificity, and framework independence. Cross-cultural evidence strengthens the case: where [[biological-cognitive-closure|cognitive limits converge]] independently across isolated cultures, they point to species-level architecture rather than contingent ignorance. The [[meta-epistemology-of-limits|meta-level question]] of how we can distinguish genuine closure from merely difficult problems may itself be unanswerable from within any limited cognitive system—which is itself evidence for the framework.
 
@@ -67,7 +69,7 @@ How would we detect occluded thoughts? By their phenomenology. An occluded thoug
 
 We've all experienced this. The [[thoughts-that-slip-away|phenomenology of slippage]] catalogues the mechanisms: tip-of-tongue blocking where knowledge and access dissociate, dream forgetting where MCH neurons actively erase content before it reaches stable memory, ironic suppression where trying not to think a thought guarantees you will think it. Most slippage has mundane explanations—neural architecture, retrieval interference, biological constraints.
 
-But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And Husserl's "double concealment" suggests that some forgetting erases even the gap—we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely [[defended-territory|defended territory]]? The [[whether-real|question of whether voids are genuine]] may itself be a void—formally undecidable from within any limited system.
+But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And the phenomenological concept of "double concealment"—drawn from Husserl's analysis of time-consciousness—suggests that some forgetting erases even the gap: we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely [[defended-territory|defended territory]]? The [[whether-real|question of whether voids are genuine]] may itself be a void—formally undecidable from within any limited system.
 
 This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form, paying attention to whether certain *content types* produce systematic slippage. The [[defended-territory|defended territory]] article develops specific tests: if consciousness-related thoughts slip no more than matched control topics, the hypothesis fails; if AI can stably articulate what humans consistently lose, human slippage was contingent rather than structural.
 
@@ -97,3 +99,9 @@ The three-part taxonomy organises investigation but does not confine it. The [[r
 - [[adaptive-cognitive-limits]] — Blind spots as evolutionary features, not defects
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level limits
 - [[the-silence-void]] — Territory accessible only through the cessation of thought
+
+## References
+
+1. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green and Co.
+2. McGinn, C. (1989). Can We Solve the Mind-Body Problem? *Mind*, 98(391), 349-366.
+3. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.

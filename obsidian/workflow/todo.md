@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review three-kinds-of-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Foundational voids taxonomy article (ai_contribution: 80) last reviewed 2026-02-24 — 34 days ago. Many newer void articles reference this taxonomy. Since its last review, 15+ new voids have been created and the resonance-void introduced an absence/presence distinction not captured here. Verify the taxonomy still covers the current void catalogue, check cross-references to newer voids, and assess whether the typology needs extension.
-- **Source**: gap_analysis
-- **Generated**: 2026-03-30
-
 ### P2: Condense testing-consciousness-collapse.md (4,395 words, 110% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1728,6 +1721,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Deep review three-kinds-of-void.md
+- **Type**: deep-review
+- **Notes**: Foundational voids taxonomy article (ai_contribution: 80) last reviewed 2026-02-24 — 34 days ago. Many newer void articles reference this taxonomy. Since its last review, 15+ new voids have been created and the resonance-void introduced an absence/presence distinction not captured here. Verify the taxonomy still covers the current void catalogue, check cross-references to newer voids, and assess whether the typology needs extension.
+- **Output**: obsidian/voids/three-kinds-of-void.md
 
 ### ✓ 2026-03-30: Integrate post-decoherence-selection-programme.md into site navigation
 - **Type**: integrate-orphan

@@ -5,6 +5,15 @@ ai_modified: 2026-03-29T17:27:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 01:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/three-kinds-of-void]]
+- **Word count**: 1440 → 1492 (+52)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 3 (missing References section, imprecise Husserl attribution, dense paragraph in Unexplorable)
+- **Enhancements made**: 3 (References section, paragraph split, attribution correction)
+- **Output**: [[reviews/deep-review-2026-03-30-three-kinds-of-void]]
+
 ## 2026-03-30 01:15 UTC - deep-review
 - **Status**: Success
 - **File**: [[apex/post-decoherence-selection-programme]]
