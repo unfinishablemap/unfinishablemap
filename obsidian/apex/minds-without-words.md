@@ -149,6 +149,7 @@ This apex article synthesises:
 - [[mysterianism]] — Cognitive closure and the limits of understanding consciousness
 - [[consciousness-as-amplifier]] — How consciousness transforms baseline cognition into human-level intelligence
 - [[delegatory-dualism]] — The causal structure for consciousness doing work without overdetermination
+- [[comparative-consciousness-and-interface-differences]] — Nature-vs-coupling framework for comparing consciousness across species
 
 ## References
 

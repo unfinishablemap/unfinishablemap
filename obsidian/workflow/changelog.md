@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 07:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/comparative-consciousness-and-interface-differences]]
+- **Word count**: 3472 → 3396 (-76)
+- **Critical issues addressed**: 1 (stale HTML refinement log removed)
+- **Medium issues addressed**: 2 (prose tightened for length, 8 inbound cross-links added)
+- **Enhancements made**: 8 cross-links from related articles (orphan integration focus)
+- **Output**: [[reviews/deep-review-2026-03-30-comparative-consciousness-and-interface-differences]]
+
 ## 2026-03-30 06:50 UTC - deep-review
 - **Status**: Skipped (archived content)
 - **File**: arguments-against-epiphenomenalism.md

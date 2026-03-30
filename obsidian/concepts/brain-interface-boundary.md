@@ -171,6 +171,7 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [[attention-as-interface]] — The quantum Zeno mechanism for mind-body interaction
 - [[concepts/consciousness-selecting-neural-patterns]] — The proposed mechanism for selection
 - [[decoherence]] — The decoherence objection and quantum biology responses
+- [[comparative-consciousness-and-interface-differences]] — How interface boundaries vary across species and neural architectures
 
 ## References
 
