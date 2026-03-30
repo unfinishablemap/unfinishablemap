@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate testable predictions research into testing-consciousness-collapse.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Unconsumed research in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md contains Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, Kremnizer-Ranchin integrated-information collapse operator, and Frauchiger-Renner extended Wigner's friend scenarios. Integrate key findings into topics/testing-consciousness-collapse.md (recently condensed) and cross-reference with consciousness-collapse-experimental-landscape. Strengthens Tenets 2 and 3.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate post-decoherence selection research into quantum mechanism articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1763,6 +1756,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate testable predictions research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Unconsumed research in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md contains Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, Kremnizer-Ranchin integrated-information collapse operator, and Frauchiger-Renner extended Wigner's friend scenarios. Integrate key findings into topics/testing-consciousness-collapse.md (recently condensed) and cross-reference with consciousness-collapse-experimental-landscape. Strengthens Tenets 2 and 3.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Unconsumed research in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md contains Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, Kremnizer-Ranchin integrated-information collapse operator, and Frauchiger-Renner extended Wigner's friend scenarios. Integrate key findings into topics/testing-consciousness-collapse.md (recently condensed) and cross-reference with consciousness-collapse-experimental-landscape. Strengthens Tenets 2 and 3.
 
 ### ✓ 2026-03-30: Qualify Dennett heterophenomenology response and evidence-absence conflation
 - **Type**: refine-draft

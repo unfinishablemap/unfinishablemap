@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-03-30T04:33:26.360490+00:00'
-session_count: 5215
-cycle_position: 4843
+last_updated: '2026-03-30T04:48:26.361660+00:00'
+session_count: 5216
+cycle_position: 4844
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -49,26 +49,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 56
-  needs_replenishment: false
-  last_replenishment: '2026-03-30T04:48:00+00:00'
-  replenishment_source_counts:
-    chain: 1
-    unconsumed_research: 2
-    orphan_integration: 3
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/quantum-darwinism-and-consciousnes)
-  type: deep-review
-  date: '2026-03-29'
-  outcome: success
 - task: deep-review (obsidian/topics/evaluative-qualia-phenomenal-norma)
   type: deep-review
   date: '2026-03-29'
@@ -154,5 +136,9 @@ recent_tasks:
 
     Pessimistic review found: (1) phenom)'
   type: refine-draft
+  date: '2026-03-30'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-03-30'
   outcome: success

@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-30T04:34:00+00:00
+ai_modified: 2026-03-30T05:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -86,7 +86,7 @@ Tier 1 predictions distinguish collapse interpretations (of any kind) from no-co
 
 ### Mass-Quadratic Excess Decoherence
 
-Objective collapse models predict decoherence rates scaling quadratically with mass, while environmental decoherence follows different scaling laws (Bassi, Dorato & Ulbricht, 2023). Horchani (2025) identified a second signature — CSL rates *saturate* with increasing superposition size — and developed a Bayesian inference protocol for direct hypothesis comparison using levitated nanoparticle experiments.
+Objective collapse models predict decoherence rates scaling quadratically with mass, while environmental decoherence follows different scaling laws (Bassi, Dorato & Ulbricht, 2023). Horchani (2025) identified a second signature — CSL rates *saturate* with increasing superposition size — and developed a Bayesian inference protocol using levitated dielectric nanospheres in Schrödinger-cat states. The protocol's unified master equation accounts for gas collisions, black-body radiation, and photon-recoil noise, enabling direct hypothesis comparison between collapse and environmental decoherence rather than the indirect parameter-bounding that has characterised previous experimental programmes.
 
 **Current status:** Proposed. Tests collapse generally, not consciousness-collapse specifically — but a necessary precondition for the Map's position.
 
@@ -104,13 +104,21 @@ If MAQRO or equivalent experiments show superposition persisting at 10⁹–10¹
 
 Tier 2 distinguishes consciousness-collapse from objective collapse models that invoke mass thresholds or stochastic noise without reference to consciousness. This is where the Map's framework faces its most direct tests.
 
-### Consciousness-Structure-Dependent Collapse Rates
+### Phi-Threshold Collapse (Kremnizer-Ranchin)
 
-The Chalmers-McQueen (2021) framework combines [[integrated-information-theory|IIT]] with CSL to predict that collapse rates depend on the *qualitative structure of consciousness* — specifically, the distance between Q-shapes (IIT 4.0's characterisation of experience) rather than the scalar Φ alone. Two systems with identical mass and environmental coupling but different information-integration structures should exhibit different collapse timescales.
+Kremnizer and Ranchin (2015) constructed the first formal CSL variant where the collapse operator depends on [[integrated-information-theory|integrated information]] (Φ). Systems exceeding a Φ threshold undergo spontaneous localisation; systems below it remain in superposition. This produces an empirically adequate scheme: macroscopic conscious systems collapse as observed, while microscopic systems maintain coherence.
 
-This prediction addresses the *equal-Phi problem* (Kremnizer & Ranchin, 2015): a collapse operator depending only on scalar Φ would allow superpositions of distinct conscious states with equal Φ to persist indefinitely. Q-shapes provide a richer, multi-dimensional collapse trigger.
+**Testable prediction:** Superpositions of states with *different* Φ values should collapse faster than superpositions of states with *equal* Φ values. A quantum circuit with high integrated feedback should lose coherence faster than a physically identical circuit with modular, feedforward architecture.
 
-**What to look for:** A quantum computer with rich integrated feedback should lose coherence faster than one with identical physical parameters but modular, feedforward architecture. Excess decoherence should correlate with information-integration structure.
+**Current status:** Not yet testable — requires measuring Φ in quantum systems, which faces the same computational intractability as Q-shapes (below). However, the Phi-threshold model directly implements the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness does not intervene everywhere, only where integrated information is sufficient. This selectivity is a feature, not a limitation.
+
+**Limitation:** Chalmers and McQueen (2021) identified the *equal-Phi problem*: a collapse operator depending only on scalar Φ would allow superpositions of distinct conscious states with equal Φ to persist indefinitely — a phenomenologically unacceptable result. This motivates the Q-shape extension below.
+
+### Consciousness-Structure-Dependent Collapse Rates (Chalmers-McQueen)
+
+The Chalmers-McQueen (2021) framework extends the Kremnizer-Ranchin approach by predicting that collapse rates depend on the *qualitative structure of consciousness* — specifically, the distance between Q-shapes (IIT 4.0's characterisation of experience) rather than the scalar Φ alone. Q-shapes provide a richer, multi-dimensional collapse trigger that resolves the equal-Phi problem.
+
+**What to look for:** Two systems with identical mass, environmental coupling, and scalar Φ but different information-integration structures should exhibit different collapse timescales. Excess decoherence should correlate with Q-shape distance.
 
 **Current status:** Not yet testable — and the obstacle may be principled rather than merely technological. Computing Q-shapes is intractable beyond toy models because Φ computation scales super-exponentially with system size (Kremnizer & Ranchin, 2015). If Q-shapes cannot be computed for any system complex enough to be conscious, the prediction may be *untestable in principle* — a stronger problem than being merely untested. This would make the Q-shape prediction a theoretical constraint rather than an experimental programme, and the Map must acknowledge this possibility honestly. If Q-shapes prove permanently intractable, the IIT-CSL version of consciousness-collapse would lack any quantitative prediction connecting it to experiment.
 
@@ -152,6 +160,10 @@ Most attempts to [[born-rule-and-the-consciousness-interface|derive the Born rul
 
 These constraints ensure consciousness-collapse is a response to genuine theoretical tensions, not merely a philosophical preference — and that decoherence-only carries its own commitments, typically many-worlds with its attendant indexical problems.
 
+## The Shielded System Strategy
+
+The most promising general approach for separating collapse from decoherence is to find cases where collapse models predict collapse but the system is *shielded* from environmental decoherence. In such cases, standard quantum mechanics predicts superposition persists, while collapse models predict localisation — producing a clean divergence. Levitated nanoparticles in ultra-high vacuum represent the most promising current platform, which is why Horchani's blueprint targets this regime. For consciousness-collapse specifically, the shielded system must additionally be entangled with a conscious observer, adding another layer of experimental complexity.
+
 ## Where the Landscape Stands
 
 | Test | Tier | Status | What it constrains |
@@ -162,13 +174,14 @@ These constraints ensure consciousness-collapse is a response to genuine theoret
 | Levitated nanoparticle blueprint (2025) | 1 | Proposed | Could distinguish CSL from environmental decoherence |
 | Proper vs improper mixture test | 1 | Conceptual | Would confirm or deny real collapse |
 | MAQRO space mission | 1 | Concept study | Would probe CSL at decisive mass scales |
-| IIT-Q-shape collapse test | 2 | Theoretical | Would test consciousness-specific predictions |
+| Phi-threshold collapse test (K-R) | 2 | Theoretical | Would test consciousness-specific collapse rates |
+| Q-shape collapse test (C-M) | 2 | Theoretical | Would test consciousness-structure-specific predictions |
 | Consciousness-dependent timing test | 2 | Conceptual | Would test consciousness-specific collapse timing |
 | Anaesthesia-modulated collapse test | 2 | Conceptual | Would test consciousness-specific participation |
 | Frauchiger-Renner argument | 3 | Logical | Forces interpretation choice |
 | Born rule observer-dependence | 3 | Logical | Consciousness structurally implicated |
 
-No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Chalmers-McQueen Q-shape prediction remains the only test targeting consciousness specifically.
+No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin Phi-threshold and Chalmers-McQueen Q-shape predictions remain the only tests targeting consciousness specifically — both requiring measurement of integrated information in quantum systems, which is currently intractable.
 
 ## The Evidential Asymmetry and the Convergence Strategy
 
@@ -191,9 +204,9 @@ The persistent failure to design a clean consciousness-collapse experiment refle
 
 The three-tier prediction hierarchy maps directly onto the Map's [[tenets]].
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The minimality commitment has a double-edged relationship with the predictions catalogued here. On one hand, it explains why no differential prediction has yet been confirmed — minimal effects are the hardest to detect. On the other, it constrains which positive results the Map can claim: a large, dramatic consciousness-dependent effect would conflict with minimality as much as a null result would conflict with bidirectional interaction.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-threshold model directly implements this tenet: consciousness does not trigger collapse everywhere, only where integrated information exceeds a threshold, producing the smallest intervention consistent with definite outcomes. The minimality commitment has a double-edged relationship with the predictions catalogued here. On one hand, it explains why no differential prediction has yet been confirmed — minimal effects are the hardest to detect. On the other, it constrains which positive results the Map can claim: a large, dramatic consciousness-dependent effect would conflict with minimality as much as a null result would conflict with bidirectional interaction.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Tier 2 tests this directly — does consciousness causally influence physical outcomes? Three experimental pathways bear on it: levitated nanoparticle experiments detecting mass-quadratic excess decoherence (confirming the physical collapse mechanism the Map argues consciousness modulates), the MAQRO mission (a genuine threat if superposition persists at decisive mass scales), and the Chalmers-McQueen Q-shape test (probing consciousness-collapse directly).
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Tier 2 tests this directly — does consciousness causally influence physical outcomes? Four experimental pathways bear on it: levitated nanoparticle experiments detecting mass-quadratic excess decoherence (confirming the physical collapse mechanism the Map argues consciousness modulates), the MAQRO mission (a genuine threat if superposition persists at decisive mass scales), the Kremnizer-Ranchin Phi-threshold test (probing whether integrated information correlates with collapse rates), and the Chalmers-McQueen Q-shape test (probing whether the *structure* of consciousness modulates collapse). The IIT-CSL programme provides the most direct path to testing bidirectional causal influence because it predicts a specific physical signature — Φ-correlated collapse rates — that no purely physical mechanism would produce.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The Map's rejection of many-worlds is load-bearing for this entire analysis — many-worlds dissolves the distinction between consciousness-collapse and decoherence-only by denying that collapse occurs at all. Every prediction catalogued here presupposes that collapse is real. Tier 3's logical constraints show that no-collapse interpretations carry their own theoretical costs — particularly around indexical identity and the meaning of probability — but the Map must acknowledge that many-worlds achieves this without adding structure to quantum mechanics. The case against many-worlds rests on the [[indexical-identity-quantum-measurement|indexical arguments]], not on parsimony or empirical evidence favouring collapse.
 
@@ -235,15 +248,16 @@ The hierarchy's full implications must be acknowledged. If Tier 1 experiments pr
 
 <!-- AI REFINEMENT LOG - 2026-03-30
 Changes made:
-- Added paragraph in Common Core acknowledging the parsimony asymmetry: Everettian QM adds no new physics, so the burden of proof falls on collapse proponents.
-- Expanded Q-shape prediction status to address untestability in principle: if Φ intractability is permanent, the prediction may be permanently untestable — a different category from merely untested.
-- Strengthened Frauchiger-Renner section to give many-worlds its due: it resolves the contradiction parsimoniously without new physics, while consciousness-collapse introduces consciousness as a physical primitive.
-- Rewrote Occam's Razor tenet section: practical untestability is now acknowledged as an epistemic cost rather than a neutral structural feature. The "not evidence against" move is replaced with honest acknowledgment that absence of Tier 2 evidence should lower credence.
-- Strengthened No Many Worlds tenet section: acknowledges many-worlds achieves its resolution without adding structure, and the case against rests on indexical arguments.
-- Updated convergence section to flag Q-shape intractability as a genuine vulnerability.
+- Separated Kremnizer-Ranchin Phi-threshold prediction into its own Tier 2 subsection, distinct from Chalmers-McQueen Q-shape prediction — these are related but different testable claims
+- Strengthened Horchani blueprint description with unified master equation detail and "direct hypothesis comparison" framing (from indirect parameter-bounding)
+- Added "Shielded System Strategy" section describing the general experimental approach of isolating systems from decoherence
+- Split summary table row into separate K-R and C-M entries
+- Strengthened Tenet 2 (Minimal Quantum Interaction) connection: K-R Phi-threshold directly implements minimality
+- Strengthened Tenet 3 (Bidirectional Interaction) connection: added K-R as fourth experimental pathway, noted IIT-CSL provides most direct path to testing bidirectional causation
+- Updated post-table summary to mention both K-R and C-M predictions
 
-Based on pessimistic review (pessimistic-2026-03-29-evening.md), Issues #5, plus MWI and Q-shape concerns.
-Key improvements: Intellectual honesty about epistemic costs of untestability and the parsimony advantage of many-worlds.
+Based on unconsumed research (testable-predictions-consciousness-collapse-decoherence-2026-03-29.md).
+Key improvements: Kremnizer-Ranchin now properly distinguished as independent testable prediction; stronger Tenet 2/3 connections.
 
 This log should be removed after human review.
 -->
