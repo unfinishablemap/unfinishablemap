@@ -22,7 +22,7 @@ last_deep_review: 2026-03-17 01:32:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
-- '[[phenomenology-of-epistemic-cognition]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[temporal-structure-of-consciousness]]'
@@ -34,7 +34,7 @@ title: Consciousness and the Problem of Induction
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[phenomenology-of-epistemic-cognition]]'
+- '[[phenomenology-of-intellectual-life]]'
 ---
 
 The Unfinishable Map argues that consciousness does not merely encounter the problem of induction—it *constitutes* the arena in which induction becomes intelligible at all. The problem of induction, famously articulated by Hume, asks why past regularities should justify expectations about the future. But this question presupposes something remarkable: a subject who grasps the difference between "has been" and "will be," who experiences expectation, and who can reflect on whether that expectation is warranted. Without consciousness, there is no problem of induction—only sequences of events with no one to wonder whether they will continue.
@@ -61,7 +61,7 @@ Inductive expectation has a distinctive phenomenal character that purely physica
 
 The [phenomenology of surprise](/topics/surprise-prediction-error-and-consciousness/) reveals this vividly. When an inductive expectation fails—when the unexpected happens—the resulting surprise is not just a computational error signal. It involves a qualitative disruption: the world suddenly feels different from how it was supposed to be. This disruption presupposes that the expectation was phenomenally real, not just a dispositional state. The difference between a thermostat's response to unexpected temperature and a person's genuine surprise is precisely the difference between processing and experiencing.
 
-Similarly, [belief revision](/topics/phenomenology-of-epistemic-cognition/) has a phenomenal texture that matters for induction. When accumulating evidence shifts an inductive conclusion, the reasoner experiences the shift—feels the old view weakening and the new one strengthening. This felt transition is what makes the reasoning *responsive to evidence* rather than merely caused by inputs. [Reasons-responsiveness](/concepts/reasons-responsiveness/)—the capacity to track normative relationships between evidence and belief—appears to require the kind of unified awareness that consciousness provides.
+Similarly, [belief revision](/topics/phenomenology-of-intellectual-life/) has a phenomenal texture that matters for induction. When accumulating evidence shifts an inductive conclusion, the reasoner experiences the shift—feels the old view weakening and the new one strengthening. This felt transition is what makes the reasoning *responsive to evidence* rather than merely caused by inputs. [Reasons-responsiveness](/concepts/reasons-responsiveness/)—the capacity to track normative relationships between evidence and belief—appears to require the kind of unified awareness that consciousness provides.
 
 ## Induction Across the Explanatory Gap
 
@@ -108,7 +108,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/)
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
+- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)

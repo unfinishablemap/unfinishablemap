@@ -43,7 +43,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[phenomenology-of-intellectual-effort]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[embodied-consciousness-and-the-interface]]'
@@ -53,7 +53,6 @@ related_articles:
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[phenomenology-of-conceptual-change]]'
-- '[[phenomenology-of-epistemic-cognition]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[temporal-structure-of-consciousness]]'
 - '[[contemplative-path]]'

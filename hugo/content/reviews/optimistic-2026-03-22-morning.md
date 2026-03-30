@@ -30,7 +30,7 @@ The [amplification mechanisms](/topics/amplification-mechanisms-consciousness-ph
 
 ### The Phenomenologist (Nagel)
 
-The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) article does exactly what Nagel calls for—it takes first-person experience as data rather than reducing it. The distinction between the phenomenology of being *compelled* by an argument versus being *forced* to accept a conclusion is precisely the kind of phenomenal description that resists functional capture. The [phenomenal conservatism](/topics/phenomenal-authority-and-introspective-evidence/) article provides epistemological grounding for why first-person reports deserve evidential weight—a move Nagel would endorse as correcting the third-person bias in analytic philosophy. The [contemplative-epistemology](/concepts/contemplative-epistemology/) article extends this into trained observation, arguing that systematic contemplative practice generates reliable first-person data.
+The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) article does exactly what Nagel calls for—it takes first-person experience as data rather than reducing it. The distinction between the phenomenology of being *compelled* by an argument versus being *forced* to accept a conclusion is precisely the kind of phenomenal description that resists functional capture. The [phenomenal conservatism](/topics/phenomenal-authority-and-introspective-evidence/) article provides epistemological grounding for why first-person reports deserve evidential weight—a move Nagel would endorse as correcting the third-person bias in analytic philosophy. The [contemplative-epistemology](/concepts/contemplative-epistemology/) article extends this into trained observation, arguing that systematic contemplative practice generates reliable first-person data.
 
 ### The Process Philosopher (Whitehead)
 
@@ -76,13 +76,13 @@ The [cognitive-closure](/concepts/mysterianism/) article handles McGinn's positi
 ### High Priority
 
 #### Philosophy of Action Under Dualism
-- **Builds on**: [agent-teleology](/concepts/agent-teleology/), [moral-responsibility](/concepts/moral-responsibility/), [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/), [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- **Builds on**: [agent-teleology](/concepts/agent-teleology/), [moral-responsibility](/concepts/moral-responsibility/), [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/), [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - **Would address**: The Map has strong articles on *why* consciousness matters for action but lacks a unified treatment of *how* conscious agency operates—from intention formation through deliberation to motor execution under the interface framework
 - **Estimated scope**: Medium article (1500-2000 words)
 - **Tenet alignment**: Directly serves Tenets 2 (Minimal Quantum Interaction) and 3 (Bidirectional Interaction) by specifying where in the action pipeline consciousness interfaces
 
 #### Mathematical Intuition and the Interface Framework
-- **Builds on**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- **Builds on**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/), [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/), [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - **Would address**: The mathematics article identifies the pressure points well but does not connect mathematical intuition to the Map's interface mechanism. How does consciousness's quantum-level selection relate to mathematical insight? The "aha" moment in mathematical discovery may be a paradigm case of consciousness-physics interaction
 - **Estimated scope**: Medium article (1500-2000 words)
 - **Tenet alignment**: Strengthens Tenet 1 (Dualism) through the knowledge argument applied to mathematical objects, and Tenet 5 (Occam's Limits) through Godel's incompleteness
@@ -126,7 +126,7 @@ The [cognitive-closure](/concepts/mysterianism/) article handles McGinn's positi
 |------|-----|--------|
 | [valence-as-selection-currency](/topics/valence-as-selection-currency/) | [process-philosophy](/concepts/process-philosophy/) | Valence as selection criterion closely parallels Whitehead's subjective aim—both are evaluative mechanisms for conscious selection |
 | [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) | [galilean-exclusion](/concepts/galilean-exclusion/) | The Born rule's structural underivability may be another instance of Galilean exclusion—physics excluding what it cannot mathematise |
-| [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) | [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) | Mathematical understanding has distinctive phenomenology (the "aha" vs. "slog" distinction) that bears directly on whether mathematical cognition requires consciousness |
+| [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) | [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) | Mathematical understanding has distinctive phenomenology (the "aha" vs. "slog" distinction) that bears directly on whether mathematical cognition requires consciousness |
 | [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) | [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) | Convergent evolution evidence directly addresses the evolution problem's core question about why consciousness accompanies certain functions |
 | [contemplative-epistemology](/concepts/contemplative-epistemology/) | [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) | Contemplative reliability conditions (training, calibration, consensus) are precisely the defeater-conditions phenomenal conservatism requires |
 | [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) | [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) | The parsimony article's hostile-witness evidence directly strengthens the epistemic advantages case |

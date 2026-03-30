@@ -127,7 +127,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 ## Further Reading
 
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)

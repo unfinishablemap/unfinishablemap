@@ -93,7 +93,7 @@ The goal is triggering what Husserl called the phenomenological reduction—atte
 
 ## Critical Phenomenology: A Middle Path
 
-Between naive trust in introspection and Dennett's heterophenomenology (treating reports as mere data about "how things seem"), Max Velmans and David Chalmers advocate critical phenomenology. The [phenomenology of epistemic cognition](/topics/phenomenology-of-epistemic-cognition/) explores what this assessment process feels like from the inside—how evidence carries felt weight, how conviction tips, and how the recursive structure of evaluating arguments about consciousness generates its own phenomenal data. The position: accept verbal reports as a prima facie guide except where specific reasons to doubt exist.
+Between naive trust in introspection and Dennett's heterophenomenology (treating reports as mere data about "how things seem"), Max Velmans and David Chalmers advocate critical phenomenology. The [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) explores what this assessment process feels like from the inside—how evidence carries felt weight, how conviction tips, and how the recursive structure of evaluating arguments about consciousness generates its own phenomenal data. The position: accept verbal reports as a prima facie guide except where specific reasons to doubt exist.
 
 This intermediate stance acknowledges fallibility without dismissing phenomenal data. Chalmers endorses it as the "natural intermediate option." We can be critical about how reliably subjects communicate experience without doubting that experience exists.
 

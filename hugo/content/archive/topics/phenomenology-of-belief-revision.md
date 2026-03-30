@@ -78,7 +78,7 @@ This reorganisation often unfolds over days or weeks, during which the phenomena
 
 ## Belief Revision as Conscious Work
 
-The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) reveals that reasoning feels like work. Belief revision exemplifies this: maintaining two competing frameworks in mind, comparing their implications, attending to their respective coherence—all of this involves sustained conscious effort of a distinctive kind.
+The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) reveals that reasoning feels like work. Belief revision exemplifies this: maintaining two competing frameworks in mind, comparing their implications, attending to their respective coherence—all of this involves sustained conscious effort of a distinctive kind.
 
 Consider the difference between revising a trivial belief (learning that a restaurant has moved locations) and revising a central one (abandoning a religious framework, or accepting a new scientific paradigm). The phenomenology differs not just in intensity but in kind. Central belief revision involves:
 
@@ -112,7 +112,7 @@ The bootstrap problem for belief revision also connects to the Map's [tenet on O
 
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)

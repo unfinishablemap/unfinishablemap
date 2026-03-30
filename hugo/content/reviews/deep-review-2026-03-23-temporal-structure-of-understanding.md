@@ -59,7 +59,7 @@ All counterarguments from previous reviews remain adequately addressed. No new i
 
 Inbound links to `[temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)` added in:
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) (Further Reading)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) (inline, at "aha" discussion)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) (inline, at "aha" discussion)
 - [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) (Further Reading)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (Further Reading)
 

@@ -68,7 +68,7 @@ Csikszentmihalyi's original research (1975, 1990) identified flow through extens
 
 Flow presents a genuine paradox for theories that link consciousness to control and effort.
 
-On many accounts — including some readings of the Map's framework — consciousness makes its most important causal contribution through [effortful attention](/concepts/mental-effort/). Stapp's quantum Zeno model proposes that conscious effort operates through rapid observation of neural states, holding desired patterns stable. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) provides supporting evidence: reasoning feels like work because consciousness is doing real cognitive labour. The harder the task, the more effort required, the more consciousness contributes.
+On many accounts — including some readings of the Map's framework — consciousness makes its most important causal contribution through [effortful attention](/concepts/mental-effort/). Stapp's quantum Zeno model proposes that conscious effort operates through rapid observation of neural states, holding desired patterns stable. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) provides supporting evidence: reasoning feels like work because consciousness is doing real cognitive labour. The harder the task, the more effort required, the more consciousness contributes.
 
 Flow inverts this pattern. The task is demanding. Performance is excellent. Yet effort is absent. If consciousness contributes through effort, flow looks like peak performance without consciousness — exactly what the epiphenomenalist claims is possible everywhere.
 
@@ -150,7 +150,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The inverse of flow: when conscious monitoring disrupts skilled performance
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The broader axis between doing and undergoing, where flow occupies a puzzling middle ground
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — What effortful thinking feels like, contrasting with flow's effortlessness
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — What effortful thinking feels like, contrasting with flow's effortlessness
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that flow engages frictionlessly
 - [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — How attention and consciousness can come apart
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present

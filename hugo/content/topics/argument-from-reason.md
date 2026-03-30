@@ -36,7 +36,7 @@ related_articles:
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[introspection]]'
 - '[[pragmatisms-path-to-dualism]]'
-- '[[phenomenology-of-intellectual-effort]]'
+- '[[phenomenology-of-intellectual-life]]'
 title: The Argument from Reason
 topics:
 - '[[dualism]]'
@@ -91,7 +91,7 @@ This "seeing as" requires [phenomenal-consciousness](/concepts/phenomenal-consci
 
 This connects to Thomas Nagel's analysis in [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/): objective knowledge requires a subject capable of distinguishing how things appear from how they are. But that very distinction presupposes phenomenal consciousness—the capacity to recognize that appearances can mislead. The argument from reason shows this capacity has causal efficacy: our reasoning *about* the objective/subjective distinction influences what we believe. If consciousness were epiphenomenal, the coincidence between what's logically warranted and what we believe would be inexplicable.
 
-This connects to [agent-causation](/concepts/agent-causation/): rational inference is an agent recognizing logical relationships and *choosing* to affirm the conclusion *because* it follows. That "because" marks the irreducible contribution of consciousness to reasoning. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) provides experiential evidence: the strain of holding premises together, the grip of logical necessity, the work of tracing implications—this is what tracking normative relationships *feels like* from inside.
+This connects to [agent-causation](/concepts/agent-causation/): rational inference is an agent recognizing logical relationships and *choosing* to affirm the conclusion *because* it follows. That "because" marks the irreducible contribution of consciousness to reasoning. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) provides experiential evidence: the strain of holding premises together, the grip of logical necessity, the work of tracing implications—this is what tracking normative relationships *feels like* from inside.
 
 ## Plantinga's Evolutionary Argument: A Complementary Challenge
 
@@ -157,7 +157,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [free-will](/topics/free-will/) - Rational choice as paradigm case of consciousness selecting among neural patterns
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The Map's framework for mind-body causation
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) - A candidate mechanism for consciousness influencing neural states
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) - The felt character of reasoning: holding premises, tracing implications, grasping why conclusions follow
+- [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) - The felt character of reasoning: holding premises, tracing implications, grasping why conclusions follow
 - [voluntary attention](/concepts/attention-as-interface/) - Neural signatures of willed cognitive engagement
 - [mysterianism](/concepts/mysterianism/) - Whether the mechanism of normative awareness may exceed our comprehension
 - [intentionality](/concepts/intentionality/) - Why genuine aboutness requires phenomenal consciousness (phenomenal intentionality thesis)

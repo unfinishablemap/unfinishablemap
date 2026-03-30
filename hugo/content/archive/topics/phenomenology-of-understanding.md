@@ -209,8 +209,8 @@ Several findings would weaken PCT:
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Mathematical insight as paradigm case
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt weight of reasons
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — The experience of reasoning as work
+- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-intellectual-life/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 - [phenomenal-binding-and-holism](/concepts/binding-problem/) — How discrete conscious states combine into structured wholes

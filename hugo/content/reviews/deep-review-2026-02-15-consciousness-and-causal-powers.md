@@ -61,7 +61,7 @@ topics: []
 - [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/) — conservation law preservation
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — probabilistic constraint
 - [quantum-neural-mechanisms](/concepts/quantum-neural-mechanisms-and-coherence/) — microtubule controversy
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — effort phenomenology
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — effort phenomenology
 - [quantum-measurement-consciousness-interface](/topics/quantum-measurement-and-consciousness/) — in Further Reading
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — added to frontmatter concepts
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — added to frontmatter related articles

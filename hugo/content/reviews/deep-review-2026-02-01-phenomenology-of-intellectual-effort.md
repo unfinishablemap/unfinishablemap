@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [The Phenomenology of Intellectual Effort](/topics/phenomenology-of-intellectual-effort/)
+**Article**: [The Phenomenology of Intellectual Effort](/topics/phenomenology-of-intellectual-life/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

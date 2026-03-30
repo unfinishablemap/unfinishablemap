@@ -111,7 +111,7 @@ The authority of logic provides distinctive support for three of the Map's [tene
 
 **[Dualism](/tenets/#dualism)**: Logical necessity is not a physical property. No arrangement of matter is "necessarily so" in the way that a valid deduction is necessarily truth-preserving. If logical authority is real — if modus ponens genuinely compels — then there are normative facts that physical description cannot capture. Consciousness, as the medium through which these facts become manifest, involves irreducible properties.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The authority of logic is not merely recognised — it is *acted upon*. When you draw a valid conclusion, your recognition of logical necessity influences which belief you form. If this recognition is genuinely conscious (as the [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) suggests), then consciousness causally influences belief formation. An epiphenomenal consciousness could experience logical compulsion without that compulsion making any difference to what is believed — a position that is, as the [self-stultification](/concepts/self-stultification/) argument shows, epistemically self-defeating.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The authority of logic is not merely recognised — it is *acted upon*. When you draw a valid conclusion, your recognition of logical necessity influences which belief you form. If this recognition is genuinely conscious (as the [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) suggests), then consciousness causally influences belief formation. An epiphenomenal consciousness could experience logical compulsion without that compulsion making any difference to what is believed — a position that is, as the [self-stultification](/concepts/self-stultification/) argument shows, epistemically self-defeating.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Physicalism offers a simpler picture: brains compute, and computation is all there is to logic. But this simplicity purchases incoherence. A theory that cannot account for why logical validity *binds* — that reduces logical compulsion to neural habit — cannot itself be logically justified. The apparent simplicity of eliminating logical authority from one's ontology costs more than it saves.
 
@@ -121,7 +121,7 @@ The authority of logic provides distinctive support for three of the Map's [tene
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — Normative authority across moral, epistemic, and aesthetic domains
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has its own phenomenal character
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — Mathematical insight as a paradigm case
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The felt experience of reasoning
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — The felt experience of reasoning
 - [self-stultification](/concepts/self-stultification/) — Positions that undermine their own rational grounds
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Tracking normative relationships
 - [agent-causation](/concepts/agent-causation/) — How rational agents influence beliefs through recognising reasons

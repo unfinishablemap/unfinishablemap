@@ -121,7 +121,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies to theories
 - Paradox Of Effortless Mastery
 - [implicit-memory](/concepts/implicit-memory/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
 - Contemplative Training And Phenomenal Access
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)

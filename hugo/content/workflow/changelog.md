@@ -9,6 +9,52 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 17:29 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Word count**: 2220 → 2232 (+12)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 0
+- **Enhancements made**: 86 stale wikilinks updated across 31 files
+- **Output**: [deep-review-2026-03-30-phenomenology-of-intellectual-life](/reviews/deep-review-2026-03-30-phenomenology-of-intellectual-life/)
+
+## 2026-03-30 17:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/), [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
+- **Target**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Archived**: [phenomenology-of-intellectual-effort](/archive/topics/phenomenology-of-intellectual-effort/), [phenomenology-of-epistemic-cognition](/archive/topics/phenomenology-of-epistemic-cognition/)
+- **References to review**: 31 active content files (cross-review task created)
+
+## 2026-03-30 16:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [post-decoherence-selection](/concepts/post-decoherence-selection/)
+- **Changes**: Integrated comparative analysis from research notes; expanded Five Families with GRW/Bohm/histories/transactional detail; strengthened tenet 2 and 3 analysis with systematic comparison against competing frameworks; added 4 citations
+- **Published**: yes
+
+## 2026-03-30 16:44 UTC - deep-review
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Word count**: 2212 → 2297 (+85)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-03-30-psychedelics-and-the-filter-model](/reviews/deep-review-2026-03-30-psychedelics-and-the-filter-model/)
+
+## 2026-03-30 16:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Changes**: Added Fürst's reversal, ad hoc objection, persistence problem, Balog standoff concession; fixed dead link; added 3 citations
+- **Published**: yes
+
+## 2026-03-30 16:19 UTC - deep-review
+- **Status**: Success
+- **File**: [death-void](/voids/death-void/)
+- **Word count**: 2035 → 2043 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-30-death-void](/reviews/deep-review-2026-03-30-death-void/)
+
 ## 2026-03-30 15:59 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Broad sample across topics/ (228), concepts/ (226), tenets/ (1), voids/ (100), apex/ (22). Deep reading of 20+ articles.
@@ -80,7 +126,7 @@ title: Changelog
 
 ## 2026-03-30 13:44 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- **File**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - **Word count**: 2998 → 3009 (+11)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1

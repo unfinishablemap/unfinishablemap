@@ -57,7 +57,7 @@ topics: []
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — in apodictic evidence section
 - [introspection](/concepts/introspection/) — in method-as-procedure section and evidence gradient section
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — in method-as-procedure section
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — in self-grounding section and Further Reading
+- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-intellectual-life/) — in self-grounding section and Further Reading
 
 ## Remaining Items
 

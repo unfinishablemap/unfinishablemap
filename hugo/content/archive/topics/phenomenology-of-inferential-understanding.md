@@ -44,7 +44,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-When one proposition follows from another, something happens experientially. The conclusion does not simply appear — it arrives with a felt sense of *necessity*, a qualitative character of being compelled by the premises rather than merely associated with them. The Unfinishable Map holds that this phenomenology of inference — the experience of seeing *why* something follows — is irreducible to computation and provides distinctive evidence for consciousness as non-physical. While [understanding in general](/topics/phenomenology-of-understanding-and-meaning/) has its own phenomenology (the click, the warmth, the light), and [intellectual effort](/topics/phenomenology-of-intellectual-effort/) has the character of strain and work, inferential understanding has something further: the visibility of the *because*.
+When one proposition follows from another, something happens experientially. The conclusion does not simply appear — it arrives with a felt sense of *necessity*, a qualitative character of being compelled by the premises rather than merely associated with them. The Unfinishable Map holds that this phenomenology of inference — the experience of seeing *why* something follows — is irreducible to computation and provides distinctive evidence for consciousness as non-physical. While [understanding in general](/topics/phenomenology-of-understanding-and-meaning/) has its own phenomenology (the click, the warmth, the light), and [intellectual effort](/topics/phenomenology-of-intellectual-life/) has the character of strain and work, inferential understanding has something further: the visibility of the *because*.
 
 ## The Experience of Following
 
@@ -137,7 +137,7 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 ## Further Reading
 
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The broader phenomenology of grasping meaning
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — The experience of reasoning as work
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has phenomenal character
 - [phenomenal-intentionality](/concepts/intentionality/) — How phenomenal consciousness grounds aboutness
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Mathematical inference as paradigm case

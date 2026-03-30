@@ -35,7 +35,7 @@ related_articles:
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
-- '[[phenomenology-of-intellectual-effort]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[agent-causation]]'
 - '[[phenomenology-of-choice-and-volition]]'
@@ -43,7 +43,6 @@ related_articles:
 - '[[consciousness-and-mathematics]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[categorical-surprise]]'
-- '[[phenomenology-of-epistemic-cognition]]'
 - '[[philosophy-of-science-under-dualism]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[surprise-prediction-error-and-consciousness]]'
@@ -148,7 +147,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
 - [agent-causation](/concepts/agent-causation/)
@@ -157,7 +156,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal phenomenology of the "click" and gradual comprehension
 - [categorical-surprise](/concepts/categorical-surprise/)
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
+- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/)
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as the strongest case of creative phenomenology with external validation
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)

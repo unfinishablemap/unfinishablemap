@@ -50,7 +50,7 @@ related_articles:
 - '[[epistemology-of-convergence-arguments]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
-- '[[phenomenology-of-epistemic-cognition]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
 - '[[phenomenal-authority-and-introspective-evidence]]'
 title: The Epistemology of First-Person Evidence
@@ -170,7 +170,7 @@ Rorty identified the deeper structural pressure: incorrigibility is what disting
 
 Defending phenomenal reports as genuine data does not mean claiming they capture everything about experience. Some aspects of phenomenal character may resist articulation — contemplative traditions routinely describe advanced meditative states as "ineffable." [Phenomenological evidence standards](/concepts/phenomenological-evidence/) must grapple with the possibility that some features of experience resist not only articulation but the very subject-object structure that reporting presupposes.
 
-Phenomenological method also faces a self-grounding problem: its evidence standards are established through phenomenological investigation. But all foundational epistemologies face analogous circularity — the [phenomenology of epistemic cognition](/topics/phenomenology-of-epistemic-cognition/) reveals this as structural. Neurophenomenology partially breaks the circle by introducing an independent evidential channel: when phenomenological reports predict neural findings, the prediction provides non-phenomenological confirmation.
+Phenomenological method also faces a self-grounding problem: its evidence standards are established through phenomenological investigation. But all foundational epistemologies face analogous circularity — the [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) reveals this as structural. Neurophenomenology partially breaks the circle by introducing an independent evidential channel: when phenomenological reports predict neural findings, the prediction provides non-phenomenological confirmation.
 
 ## Relation to Site Perspective
 
@@ -194,7 +194,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [galilean-exclusion](/concepts/galilean-exclusion/) — How modern science excluded the subjective
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Formal conditions for when convergence carries evidential weight
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How first-person evidence grounds inference to other minds
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — What evaluating evidence feels like from the inside
+- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — What evaluating evidence feels like from the inside
 - [phenomenal authority](/topics/phenomenal-authority-and-introspective-evidence/) — The spectrum of authority positions, Rorty's dilemma, and the dualism connection
 
 ## References

@@ -57,11 +57,11 @@ All six personas engaged. No new counterarguments beyond those handled by the ar
 - Bidirectional Interaction grounded in phenomenology of agency
 
 ### Enhancements Made
-1. Added cross-link to [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) in Stapp section — connects the phenomenal variable (mental effort) to its dedicated phenomenological treatment
+1. Added cross-link to [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) in Stapp section — connects the phenomenal variable (mental effort) to its dedicated phenomenological treatment
 2. Added proper citation for Hagan, Hameroff & Tuszyński (2002) response to Tegmark's decoherence calculations
 
 ### Cross-links Added
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) (Stapp section, line 136)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) (Stapp section, line 136)
 
 ## Word Count
 

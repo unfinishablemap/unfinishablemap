@@ -44,7 +44,7 @@ The January 2026 Princeton study on avian magnetoreception validates the core in
 
 The treatment of witness consciousness draws on contemplative traditions without New Age mystification. Advanced meditators describe states where awareness itself becomes the object of attention, revealing experience as unified prior to particular contents. This phenomenological evidence deserves philosophical attention.
 
-The [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) and [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) articles take cognitive phenomenology seriously—the distinctive feel of thinking, not just accompanying sensations. If thinking itself has phenomenal character, the explanatory gap pervades mentality, not just sensory qualia.
+The [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) and [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) articles take cognitive phenomenology seriously—the distinctive feel of thinking, not just accompanying sensations. If thinking itself has phenomenal character, the explanatory gap pervades mentality, not just sensory qualia.
 
 I appreciate the epistemological modesty. The [mysterianism](/concepts/mysterianism/) article acknowledges that human cognitive architecture may lack resources to solve the consciousness problem—not because consciousness is supernatural, but because our conceptual tools may be inadequate. This intellectual humility strengthens rather than weakens the position."
 

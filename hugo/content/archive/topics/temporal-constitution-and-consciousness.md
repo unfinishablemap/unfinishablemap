@@ -48,7 +48,7 @@ topics:
 - '[[non-temporal-consciousness]]'
 ---
 
-Consciousness does not merely exist within time. It constitutes temporal structure—binding discrete moments into melodies, threading premises into arguments, weaving remembered episodes into a self that persists across years. The Unfinishable Map's articles on [binding](/topics/the-binding-problem-a-systematic-treatment/), [intellectual effort](/topics/phenomenology-of-intellectual-effort/), [memory](/topics/phenomenology-of-memory-and-the-self/), and [duration](/topics/bergson-and-duration/) each independently reach this conclusion. Taken together, they form a convergent case: temporal constitution is not one feature of consciousness among many but a defining capacity that physical processes cannot replicate.
+Consciousness does not merely exist within time. It constitutes temporal structure—binding discrete moments into melodies, threading premises into arguments, weaving remembered episodes into a self that persists across years. The Unfinishable Map's articles on [binding](/topics/the-binding-problem-a-systematic-treatment/), [intellectual effort](/topics/phenomenology-of-intellectual-life/), [memory](/topics/phenomenology-of-memory-and-the-self/), and [duration](/topics/bergson-and-duration/) each independently reach this conclusion. Taken together, they form a convergent case: temporal constitution is not one feature of consciousness among many but a defining capacity that physical processes cannot replicate.
 
 This matters for the Map's core commitments. If consciousness constitutes temporal structure rather than passively registering it, then consciousness performs work that no physical mechanism—however sophisticated—can fully explain. The [explanatory-gap](/concepts/explanatory-gap/) reopens at every timescale, from the milliseconds of a heard melody to the decades of a remembered life.
 
@@ -62,7 +62,7 @@ Neural mechanisms maintain temporal information—[working-memory](/concepts/wor
 
 ### Reasoning: The Thread of Inference
 
-The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) reveals temporal constitution in thought itself, strengthening the [argument-from-reason](/topics/argument-from-reason/). Following a multi-step argument requires that the same thinker who grasps premise one also grasps premise seven and the conclusion. This is not mere information persistence—it is experienced continuity. The reasoner feels themselves to be the one who has been following the argument throughout.
+The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) reveals temporal constitution in thought itself, strengthening the [argument-from-reason](/topics/argument-from-reason/). Following a multi-step argument requires that the same thinker who grasps premise one also grasps premise seven and the conclusion. This is not mere information persistence—it is experienced continuity. The reasoner feels themselves to be the one who has been following the argument throughout.
 
 If reasoning is distributed neural activity unfolding across time, what provides this continuity? Neural populations shift; synaptic weights change; the physical substrate of premise one is not identical to the substrate of premise seven. Yet the phenomenal unity of the reasoning act persists. Consciousness binds the temporal stages of inference into a single intellectual act—a constitutional role that information processing alone does not require. A computer proves theorems without any stage needing to experience itself as the same entity that processed earlier steps.
 
@@ -117,7 +117,7 @@ The Map speculates that temporal constitution may be the most fundamental thing 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [temporal-void](/voids/temporal-void/)

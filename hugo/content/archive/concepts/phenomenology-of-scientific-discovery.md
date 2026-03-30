@@ -108,7 +108,7 @@ The phenomenology of scientific discovery connects to several of the Map's [tene
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [categorical-surprise](/concepts/categorical-surprise/)

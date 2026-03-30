@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-03
-**Article**: [The Phenomenology of Intellectual Effort](/topics/phenomenology-of-intellectual-effort/)
+**Article**: [The Phenomenology of Intellectual Effort](/topics/phenomenology-of-intellectual-life/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-phenomenology-of-intellectual-effort/)
 **Review focus**: Orphan integration—adding inbound links from related articles
 

@@ -49,7 +49,7 @@ Seven inbound links added from existing articles:
 2. **[temporal-consciousness](/concepts/temporal-consciousness/)** — In "Irreducibility Argument" section, where temporal extension is described as constitutive. Also added to related_articles and Further Reading.
 3. **[phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)** — In "Memory as Self-Constitution" section, where memory transforms the minimal self into a temporally extended self. Also added to related_articles.
 4. **[the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)** — In "Temporal Binding" BP2 gap section, where temporal binding's distinctive puzzle is explained.
-5. **[phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)** — In "Unity of Thinking" section, where continuous identity through reasoning is discussed.
+5. **[phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)** — In "Unity of Thinking" section, where continuous identity through reasoning is discussed.
 6. **[bergson-and-duration](/topics/bergson-and-duration/)** — In "Durée" section on interpenetration, where the melody example illustrates qualitative multiplicity. Also added to related_articles.
 7. **[unity-of-consciousness](/concepts/unity-of-consciousness/)** — In "Diachronic Unity" section, where temporal unity across the specious present is discussed. Also added to Further Reading.
 

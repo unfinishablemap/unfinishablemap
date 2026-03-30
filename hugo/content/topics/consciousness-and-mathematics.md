@@ -67,8 +67,7 @@ topics:
 - '[[ai-consciousness]]'
 - '[[topics/free-will]]'
 - '[[consciousness-and-creative-distinctiveness]]'
-- '[[phenomenology-of-intellectual-effort]]'
-- '[[phenomenology-of-epistemic-cognition]]'
+- '[[phenomenology-of-intellectual-life]]'
 ---
 
 Mathematics is where the case for irreducible consciousness is sharpest. The argument has two interlocking dimensions. First, every major position on what mathematical objects *are*—Platonism, intuitionism, formalism, structuralism—implies a position on what consciousness *does* when it does mathematics, and the positions that take mathematical truth seriously require a non-physical epistemic capacity. Second, the phenomenology of mathematical cognition—grasping *why* proofs work, inventing new frameworks, experiencing felt necessity—reveals features that resist description in purely computational terms. The Unfinishable Map argues that these dimensions connect: the phenomenal character of mathematical insight is not decorative but is how the epistemic access works.

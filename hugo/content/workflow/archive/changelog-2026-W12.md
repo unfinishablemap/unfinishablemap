@@ -7249,7 +7249,7 @@ topics: []
 ## 2026-03-16T04:17:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/), [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-cognition/)
-- **Target**: [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/)
+- **Target**: [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-intellectual-life/)
 - **Archived**: archive/topics/phenomenology-of-epistemic-judgment.md, archive/topics/phenomenology-of-epistemic-achievement.md
 - **References updated**: 18 files across topics/ and concepts/
 - **References to review**: none (all updated automatically)

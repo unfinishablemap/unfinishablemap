@@ -102,7 +102,7 @@ The [consciousness-only-territories](/voids/consciousness-only-territories/) voi
 ### High Priority
 
 #### The Phenomenology of Scientific Discovery
-- **Builds on**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/), [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/), [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-cognition/)
+- **Builds on**: [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/), [consciousness-and-scientific-methodology](/topics/methodology-of-consciousness-research/), [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-cognition/)
 - **Would address**: How scientific breakthroughs feel from the inside—the gestalt shift from confusion to understanding, the phenomenal structure of hypothesis formation, the role of aesthetic judgement in theory selection. Scientists report that good theories "feel right" before they can articulate why. This phenomenal dimension of scientific practice supports consciousness as active participant in cognition.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (consciousness causally contributes to scientific cognition), Dualism (phenomenal character of discovery is irreducible)

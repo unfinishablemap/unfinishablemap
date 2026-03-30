@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [The Phenomenology of Epistemic Cognition](/topics/phenomenology-of-epistemic-cognition/)
+**Article**: [The Phenomenology of Epistemic Cognition](/topics/phenomenology-of-intellectual-life/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

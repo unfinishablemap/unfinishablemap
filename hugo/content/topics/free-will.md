@@ -68,7 +68,7 @@ The **[luck objection](/concepts/luck-objection/)** is the strongest challenge t
 
 Three lines of evidence support genuine agent causation:
 
-1. **Phenomenology of volition**: The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) extends the effort component to reasoning.
+1. **Phenomenology of volition**: The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) reveals four distinguishable components of willing — initiation, sustained control, effort, and veto — each with distinct neural correlates and clinical dissociation patterns. If choices were random fluctuations, this articulated structure would have no explanation. The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) extends the effort component to reasoning.
 2. **Reasons-guidance**: Selection responds to what matters to the agent. Reasons *influence* (though don't determine) which outcome actualizes.
 3. **Distinctive neural signatures**: Willed actions show frontal theta oscillations and bidirectional coherence that automatic processes lack.
 

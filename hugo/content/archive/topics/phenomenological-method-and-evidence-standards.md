@@ -108,7 +108,7 @@ The Map endorses Varela's standard as the most rigorous available methodology fo
 
 Phenomenological method faces a distinctive challenge: its evidence standards are themselves established through phenomenological investigation. The epoché is justified by what the epoché reveals. Eidetic variation is validated by the essential insights it produces. This circularity is structural, not accidental.
 
-Two considerations limit its force. First, all foundational epistemological frameworks face analogous circularity—empiricism cannot provide an empirical justification for why empirical evidence is authoritative; rationalism must use reason to justify reason. The [phenomenology of epistemic cognition](/topics/phenomenology-of-epistemic-cognition/) reveals this as structural: evaluating any evidence standard requires standards for evaluation, generating a bootstrap problem that no epistemology escapes. Phenomenology's circularity is not uniquely damaging. Second, neurophenomenology partially breaks the circle by introducing an independent evidential channel. When phenomenological reports predict neural findings, the prediction provides non-phenomenological confirmation that the reports track something real.
+Two considerations limit its force. First, all foundational epistemological frameworks face analogous circularity—empiricism cannot provide an empirical justification for why empirical evidence is authoritative; rationalism must use reason to justify reason. The [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) reveals this as structural: evaluating any evidence standard requires standards for evaluation, generating a bootstrap problem that no epistemology escapes. Phenomenology's circularity is not uniquely damaging. Second, neurophenomenology partially breaks the circle by introducing an independent evidential channel. When phenomenological reports predict neural findings, the prediction provides non-phenomenological confirmation that the reports track something real.
 
 The honest position: phenomenological evidence is better grounded than its critics claim but less independently secured than its strongest advocates suggest. The evidence taxonomy Husserl provides—distinguishing apodictic from merely presumptive claims—is itself a tool for managing this uncertainty. Not all phenomenological claims carry equal weight, and recognising the gradient is more epistemically responsible than either blanket endorsement or blanket dismissal.
 
@@ -133,7 +133,7 @@ The Map's [tenets](/tenets/) connect to phenomenological evidence standards at m
 - [introspection](/concepts/introspection/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How clinical disruptions apply phenomenological evidence standards through instruments like the EASE
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — What evaluating evidence feels like from the inside, revealing the bootstrap structure of all epistemology
+- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-intellectual-life/) — What evaluating evidence feels like from the inside, revealing the bootstrap structure of all epistemology
 
 ## References
 

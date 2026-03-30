@@ -94,7 +94,7 @@ This felt limitation is phenomenologically primitive. You don't infer that you'r
 
 Cognitive load phenomenology reveals that maintaining representations in [working-memory](/concepts/working-memory/) is *active*. Items don't persist on their own; they must be held there. This is experienced as ongoing work—the effort of maintenance that increases with each additional item.
 
-The [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) explores the strain of reasoning—the work of inference and logical tracking. Cognitive load phenomenology complements this by revealing the more basic work of simply *keeping things present*. Before you can reason about premises, you must hold them in consciousness. This holding is effortful, and the effort has its own qualitative character distinct from the effort of reasoning itself.
+The [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) explores the strain of reasoning—the work of inference and logical tracking. Cognitive load phenomenology complements this by revealing the more basic work of simply *keeping things present*. Before you can reason about premises, you must hold them in consciousness. This holding is effortful, and the effort has its own qualitative character distinct from the effort of reasoning itself.
 
 The distinction matters. You can hold items without reasoning about them (memorising a phone number), and you can reason with minimal maintenance demands (following a short inference). Cognitive load phenomenology concerns the maintenance dimension specifically—what it's like to keep representations available for use.
 
@@ -110,7 +110,7 @@ This [embodied](/concepts/embodied-cognition/) dimension complicates any simple 
 
 ### Versus Intellectual Effort
 
-The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-effort/) concerns the work of reasoning—following logical implications, grasping why conclusions follow, evaluating evidence. Cognitive load phenomenology concerns the more basic work of maintaining the materials that reasoning operates on.
+The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) concerns the work of reasoning—following logical implications, grasping why conclusions follow, evaluating evidence. Cognitive load phenomenology concerns the more basic work of maintaining the materials that reasoning operates on.
 
 The distinction becomes clear in practice. A simple syllogism (two premises, one conclusion) involves intellectual effort (grasping the logical connection) with minimal cognitive load (only two items to maintain). A complex legal argument involving many precedents and exceptions involves heavy cognitive load (maintaining all the relevant elements) alongside intellectual effort (reasoning about their relationships). You can have either without the other, and they feel different.
 
@@ -150,7 +150,7 @@ The claim that cognitive load phenomenology is irreducible and informative would
 
 ## Further Reading
 
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The effort of reasoning itself, complementing the maintenance effort explored here
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — The effort of reasoning itself, complementing the maintenance effort explored here
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — The opposite experiential pole: effortless engagement at peak performance
 - Phenomenology Of Cognitive Automatisation — How expertise transforms effortful cognition into automatic processing
 - [working-memory](/concepts/working-memory/) — The cognitive architecture that cognitive load phenomenology reveals from inside

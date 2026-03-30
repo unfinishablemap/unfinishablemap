@@ -136,7 +136,7 @@ What PC rules out is treating the qualitative presentations of consciousness as 
 
 ## Further Reading
 
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — How weighing evidence and changing beliefs feel from the inside
+- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-intellectual-life/) — How weighing evidence and changing beliefs feel from the inside
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's framework for direct knowledge of phenomenal character
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When and how first-person reports constitute evidence

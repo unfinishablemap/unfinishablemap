@@ -120,7 +120,7 @@ The paradox of effortless mastery aligns with the Map's tenets in illuminating w
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — When consciousness re-engages with automated skills and disrupts them
 - Phenomenology Of Skill Transition — The painful return of consciousness during skill restructuring
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — What conscious effort feels like and why it matters
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — What conscious effort feels like and why it matters
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The levels of consciousness that map onto the three phases of skill acquisition
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30 14:14:00+00:00
+ai_modified: 2026-03-30 16:30:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review death-void.md
+### P2: Integrate evaluative qualia cross-traditional research into evaluative-qualia.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md covers Buddhist vedanā, Hindu rasa (Abhinavagupta), Confucian moral feeling (li/qi), Islamic phenomenology (Avicenna, Mulla Sadra), and Western phenomenal normativity (Kriegel, Sosa). The concept page would benefit from cross-traditional evidence showing independent convergence on evaluative qualia as irreducible — strengthening the convergence argument.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-30
+
+### P2: Integrate quantum biology 2025-2026 experimental evidence into quantum consciousness articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/quantum-biology-neural-experimental-2026-03-20.md covers latest experimental results on quantum coherence in neural systems (microtubule experiments, spintronic coherence, diamond NV center proposals). Multiple articles reference older evidence: quantum-neural-mechanisms-and-coherence.md, comparing-quantum-consciousness-mechanisms.md, consciousness-in-smeared-quantum-states.md. Update with current experimental status to maintain empirical credibility. Tenet 2 alignment critical.
+- **Source**: gap_analysis
+- **Generated**: 2026-03-30
+
+### P2: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/phenomenology-volitional-control-2026-03-20.md covers Libet experiments, Schurger 2012 stochastic model, conscious veto power, and Brass/Haggard intentional inhibition evidence. The article was coalesced from phenomenology-of-volition.md and phenomenology-of-choice.md but may not incorporate this dedicated research. Verify and integrate Libet findings and the conscious veto literature as evidence for Tenet 3 (bidirectional interaction).
+- **Source**: gap_analysis
+- **Generated**: 2026-03-30
+
+### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the ultimate cognitive limit — the impossibility of experiencing one's own death. Verify coherence, cross-references to personal-identity and temporal-void, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-24 from research/parsimony-case-interactionist-dualism-2026-03-24.md, never deep-reviewed. Topics article arguing that interactionist dualism is actually the more parsimonious position. Cross-referenced in optimistic reviews but never comprehensively reviewed. Verify accuracy of parsimony arguments, coherence, cross-references to Occam's razor articles and tenet 5, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-30
 
@@ -1785,6 +1806,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Update references to coalesced articles (phenomenology-of-intellectual-effort, phenomenology-of-epistemic-cognition)
+- **Type**: cross-review
+- **Notes**: Coalesce created [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/). The following active content files reference archived articles and need wikilinks updated to point to the new unified article: topics/consciousness-and-causal-powers, topics/consciousness-and-skill-acquisition, topics/psychophysical-laws-bridging-mind-and-matter, topics/consciousness-and-mathematics, topics/consciousness-and-the-authority-of-formal-systems, topics/free-will, topics/phenomenology-of-understanding-and-meaning, topics/argument-from-reason, topics/phenomenology-of-framework-inhabitation, topics/phenomenology-of-cognitive-capacity, topics/phenomenology-of-deliberation-under-uncertainty, topics/cognitive-phenomenology-and-the-irreducibility-of-thought, topics/phenomenology-of-intellectual-courage, topics/consciousness-and-the-phenomenology-of-constraint-satisfaction, topics/epistemology-of-first-person-evidence, topics/epistemology-of-convergence-arguments, topics/phenomenology-of-conceptual-change, topics/surprise-prediction-error-and-consciousness, topics/duhem-quine-underdetermination-consciousness, topics/phenomenology-of-philosophical-disagreement, topics/consciousness-and-testimony, topics/phenomenology-of-trust, topics/consciousness-and-the-problem-of-induction, concepts/phenomenology-of-choice-and-volition, concepts/mental-effort, concepts/cognitive-phenomenology, concepts/phenomenology-of-creative-insight, concepts/phenomenological-evidence, concepts/introspection, concepts/metacognition, concepts/epistemic-emotions
+- **Output**: None -- Context: Update references to coalesced articles (phenomenology-of-intellectual-effort, phenomenology-of-epistemic-cognition)
+
+### ✓ 2026-03-30: Integrate post-decoherence selection research into post-decoherence-selection.md
+- **Type**: refine-draft
+- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md covers GRW spontaneous collapse, Bohmian mechanics, consistent histories, transactional interpretation, and quantum Darwinism approaches to the post-decoherence selection problem. Integrate comparative analysis into the concept page to strengthen the Map's positioning of consciousness-based selection against competing frameworks. Tenet 2 and 3 alignment critical.
+- **Output**: obsidian/concepts/post-decoherence-selection.md
+
+Task context:
+Research in research/post-decoherence-selection-mechanisms-2026-03-29.md covers GRW spontaneous collapse, Bohmian mechanics, consistent histories, transactional interpretation, and quantum Darwinism approaches to the post-decoherence selection problem. Integrate comparative analysis into the concept page to strengthen the Map's positioning of consciousness-based selection against competing frameworks. Tenet 2 and 3 alignment critical.
+
+### ✓ 2026-03-30: Integrate phenomenal concepts strategy research into phenomenal-concepts-strategy.md
+- **Type**: refine-draft
+- **Notes**: Research in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md provides detailed analysis of Loar, Papineau, and Balog's phenomenal concepts strategy — the strongest materialist response to dualist arguments. The existing concept page may not fully engage with these arguments. Integrate findings to strengthen the page's treatment of PCS, ensuring the Map's response is robust rather than dismissive. Complements existing P3 task on materialism.md treatment.
+- **Output**: obsidian/concepts/phenomenal-concepts-strategy.md
+
+Task context:
+Research in research/phenomenal-concepts-strategy-strongest-materialist-response-2026-03-29.md provides detailed analysis of Loar, Papineau, and Balog's phenomenal concepts strategy — the strongest materialist response to dualist arguments. The existing concept page may not fully engage with these arguments. Integrate findings to strengthen the page's treatment of PCS, ensuring the Map's response is robust rather than dismissive. Complements existing P3 task on materialism.md treatment.
+
+### ✓ 2026-03-30: Deep review death-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 33 days ago. Voids article on the ultimate cognitive limit — the impossibility of experiencing one's own death. Verify coherence, cross-references to personal-identity and temporal-void, and tenet alignment.
+- **Output**: obsidian/voids/death-void.md
 
 ### ✓ 2026-03-30: Deep review limits-reveal-structure.md
 - **Type**: deep-review

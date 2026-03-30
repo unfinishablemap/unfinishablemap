@@ -61,7 +61,7 @@ All counterargument engagements were confirmed adequate from the first review. N
 - [epistemic-emotions](/concepts/epistemic-emotions/) — in "Insight: The Aha Moment" section
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — in "The Phenomenal Constitution Thesis" section
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — in "The Phenomenology of Mathematical Insight" section
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — in "The Aha and the Slog" section
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — in "The Aha and the Slog" section
 - [ai-consciousness](/topics/ai-consciousness/) — in "The Chinese Room and Intentionality" section
 
 ## Remaining Items

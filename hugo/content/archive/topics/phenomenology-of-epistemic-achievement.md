@@ -140,7 +140,7 @@ The Unfinishable Map's [tenets](/tenets/) illuminate this topic from several dir
 ## Further Reading
 
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/)
+- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [argument-from-reason](/topics/argument-from-reason/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-03-30 16:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: 'Human+AI exploration of the purest cognitive limit: consciousness 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 03:23:00+00:00
+last_deep_review: 2026-03-30 16:19:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[death-and-consciousness]]'
 - '[[void-as-ground-of-meaning]]'
 - '[[defended-territory]]'
+- '[[boundary-void]]'
 title: The Death Void
 topics:
 - '[[death-and-consciousness]]'
@@ -88,13 +89,13 @@ The asymmetry reveals that the void concerns the *ending* of the self that exist
 
 Several lines of evidence suggest the death void is genuinely unexplorable rather than merely unexplored.
 
-**Cross-traditional convergence**: As explored above, thinkers from incompatible frameworks identify the same impossibility. When opposed traditions converge, they likely encounter a genuine boundary.
+**Cross-traditional convergence**: As explored above, thinkers from incompatible frameworks identify the same impossibility—suggesting a genuine boundary rather than cultural artifact.
 
 **Developmental evidence**: Children assume psychological continuity after death. Jesse Bering's research shows that children deny dead mice can eat or move but attribute mental states (missing its mother, knowing it is dead). The belief in mental continuity appears cognitively default, not culturally acquired.
 
 **Psychological evidence**: Terror Management Theory, building on Ernest Becker, shows humans systematically avoid and defend against death awareness. This reflects [cognitive aversion](/voids/defended-territory/)—deflection of attention from mortality that precedes conscious awareness.
 
-**Logical structure**: The no-subject problem in philosophy of death reveals that harm requires a subject to be harmed, a harm to be suffered, and a time of suffering. Death provides none of these coherently. The difficulty is structural, not contingent.
+**Logical structure**: The no-subject problem reveals that harm requires a subject, a harm, and a time of suffering. Death provides none of these coherently. The difficulty is structural, not contingent.
 
 ## Indirect Approaches
 
@@ -159,6 +160,7 @@ The death void connects directly to the Map's [foundational commitments](/tenets
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [inaccessible-past](/voids/inaccessible-past/) — The discontinuity of personal identity over time
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Why the death void is not merely a limit but a precondition for temporal meaning
+- [boundary-void](/voids/boundary-void/) — The parallel structural impossibility: consciousness cannot locate its spatial boundaries, just as it cannot represent its temporal end
 - [death-and-consciousness](/topics/death-and-consciousness/) — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References

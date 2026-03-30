@@ -46,7 +46,7 @@ related_articles:
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[self-opacity]]'
-- '[[phenomenology-of-epistemic-cognition]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[consciousness-and-mathematics]]'
 - '[[creativity-void]]'
@@ -54,7 +54,7 @@ title: Surprise, Prediction Error, and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[phenomenology-of-anticipation]]'
-- '[[phenomenology-of-epistemic-cognition]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[topics/free-will]]'
 ---
 
@@ -82,7 +82,7 @@ Computational models treat prediction error as a quantity: a signal with magnitu
 
 **Cognitive surprise** is slower and conceptual rather than somatic. A trusted friend reveals an unexpected opinion. Your model of the person—built over years—has a gap exposed. The surprise here has the character of recalibration: not just updating a parameter but recognising that a framework was wrong.
 
-**Deep disorientation** occurs when prediction error is large enough to overwhelm existing models rather than merely update them. This is what Kuhn described in paradigm shifts and what the Map explores in [belief revision](/topics/phenomenology-of-epistemic-cognition/): not a correction within a framework but the felt collapse of the framework itself. The phenomenal character differs from ordinary surprise as vertigo differs from a stumble. There is a distinctive experience of groundlessness—the recognition that one's interpretive apparatus is inadequate—accompanied by something closer to existential anxiety than cognitive recalibration.
+**Deep disorientation** occurs when prediction error is large enough to overwhelm existing models rather than merely update them. This is what Kuhn described in paradigm shifts and what the Map explores in [belief revision](/topics/phenomenology-of-intellectual-life/): not a correction within a framework but the felt collapse of the framework itself. The phenomenal character differs from ordinary surprise as vertigo differs from a stumble. There is a distinctive experience of groundlessness—the recognition that one's interpretive apparatus is inadequate—accompanied by something closer to existential anxiety than cognitive recalibration.
 
 These categories are not cleanly bounded. But the qualitative discontinuities between them constitute phenomenal facts that computational descriptions of error magnitude leave untouched. A somatic jolt—no matter how large—does not become existential vertigo by getting bigger. The two involve different bodily phenomenology, different relationships to the self, different temporal profiles, and different modes of resolution—qualitatively distinct modes of [cognitive phenomenology](/concepts/cognitive-phenomenology/).
 
@@ -217,7 +217,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of affective states
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The click of successful integration
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt texture of changing one's mind
+- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — The felt texture of changing one's mind
 - [phenomenology of self-awareness](/voids/self-opacity/) — How minds catch their own mistakes
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The "what it's like" quality presupposed by the entire prediction error spectrum
 - [categorical-surprise](/concepts/categorical-surprise/) — Framework-transcending encounters with genuine novelty

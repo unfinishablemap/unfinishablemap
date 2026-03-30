@@ -44,10 +44,9 @@ related_articles:
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-counterfactual-reasoning]]'
-- '[[phenomenology-of-epistemic-cognition]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[argument-from-reason]]'
 - '[[explanatory-gap]]'
-- '[[phenomenology-of-intellectual-effort]]'
 - '[[binding-problem]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[phenomenal-normativity]]'
@@ -227,8 +226,8 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as paradigm case of understanding
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical relationships carry normative force
-- [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-effort/) — The experience of reasoning as work
-- [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-epistemic-cognition/) — The felt weight of reasons
+- [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) — The experience of reasoning as work
+- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — The felt weight of reasons
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
 - [binding-problem](/concepts/binding-problem/) — How discrete conscious states combine into structured wholes
