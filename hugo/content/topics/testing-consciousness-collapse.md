@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-30 02:00:00+00:00
+ai_modified: 2026-03-30 04:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -60,6 +60,8 @@ Consciousness-collapse and decoherence-only interpretations nonetheless make dis
 
 Both consciousness-collapse and decoherence-only interpretations accept [decoherence](/concepts/decoherence/) as real and quantitatively precise. Where they disagree is on what the post-decoherence state *means*. Decoherence-only interpretations (typically combined with many-worlds) hold that all outcomes coexist in parallel branches. Collapse interpretations hold that one outcome becomes actual. Consciousness-collapse adds that consciousness participates in the selection.
 
+The asymmetry here deserves acknowledgment. Everettian quantum mechanics is the Schrödinger equation applied universally without modification — it adds no new physics, no collapse postulate, no consciousness criterion. Every collapse model, including consciousness-collapse, adds structure to quantum theory. The burden of proof therefore falls on collapse proponents to demonstrate that this additional structure is needed. The predictions catalogued below are the Map's attempt to meet that burden.
+
 The post-decoherence state — Schlosshauer's (2004) "problem of outcomes" — is the hinge on which all prediction divergences turn. After decoherence suppresses interference, the system remains in an *improper mixture*: a state that looks classical from subsystem measurements but retains quantum correlations with the environment. Genuine collapse would produce a *proper mixture* — actual ignorance about a definite outcome. This distinction is the deepest theoretical faultline in the landscape.
 
 ## The Core Experimental Obstacle
@@ -114,9 +116,9 @@ This prediction addresses the *equal-Phi problem* (Kremnizer & Ranchin, 2015): a
 
 **What to look for:** A quantum computer with rich integrated feedback should lose coherence faster than one with identical physical parameters but modular, feedforward architecture. Excess decoherence should correlate with information-integration structure.
 
-**Current status:** Not yet testable — computing Q-shapes is intractable beyond toy models. But this is the strongest candidate for a genuinely decisive test because it targets consciousness specifically.
+**Current status:** Not yet testable — and the obstacle may be principled rather than merely technological. Computing Q-shapes is intractable beyond toy models because Φ computation scales super-exponentially with system size (Kremnizer & Ranchin, 2015). If Q-shapes cannot be computed for any system complex enough to be conscious, the prediction may be *untestable in principle* — a stronger problem than being merely untested. This would make the Q-shape prediction a theoretical constraint rather than an experimental programme, and the Map must acknowledge this possibility honestly. If Q-shapes prove permanently intractable, the IIT-CSL version of consciousness-collapse would lack any quantitative prediction connecting it to experiment.
 
-**What a negative result would mean:** Identical collapse dynamics across high and low Q-shape configurations would directly undermine the IIT-CSL version of consciousness-collapse. The Map would face a choice: abandon Q-shape-collapse specifically, or argue IIT misidentifies the relevant consciousness measure — preserving the hypothesis but losing its only quantitative prediction.
+**What a negative result would mean:** If Q-shapes *can* be computed for suitable systems and identical collapse dynamics are observed across high and low Q-shape configurations, this would directly undermine the IIT-CSL version of consciousness-collapse. The Map would face a choice: abandon Q-shape-collapse specifically, or argue IIT misidentifies the relevant consciousness measure — preserving the hypothesis but losing its only quantitative prediction.
 
 ### Consciousness-Dependent Collapse Timing
 
@@ -144,7 +146,7 @@ Tier 3 consists of logical arguments constraining which interpretation-packages 
 
 ### The Frauchiger-Renner Argument
 
-Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions. The 2019 six-photon experiment confirmed these tensions are empirically real. Consciousness-collapse resolves the contradiction by denying quantum mechanics applies universally to conscious systems; many-worlds resolves it by denying measurements produce single definite outcomes. The argument narrows viable positions without selecting among them empirically.
+Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions. The 2019 six-photon experiment confirmed these tensions are empirically real. Many-worlds resolves the contradiction parsimoniously: the wave equation applies universally, and what appears as a single definite outcome is perspective-relative. No new physics is required. Consciousness-collapse resolves it differently, by denying quantum mechanics applies universally to conscious systems — a more expensive move that introduces consciousness as a physical primitive. The argument narrows viable positions without selecting among them empirically, but the parsimony advantage lies with many-worlds.
 
 ### Born Rule Derivation as Indirect Evidence
 
@@ -176,7 +178,7 @@ No experiment has yet confirmed or refuted consciousness-collapse specifically. 
 
 These predictions reveal a structural asymmetry. Consciousness-collapse makes positive predictions that generate targeted experiments, while decoherence-only predicts only the absence of anomalies. Given the confound of embodiment, evidence may accumulate through convergence rather than direct variable isolation — but convergence carries a burden: specifying what evidence would count *against* the hypothesis.
 
-The Chalmers-McQueen Q-shape prediction provides the necessary anchor. If systems with large Q-shape distance show identical collapse dynamics to those with small Q-shape distance at equivalent mass, the IIT-CSL version is directly disconfirmed. Without this or something comparably specific, convergence would be indistinguishable from unfalsifiability. The Map's [testability-ledger](/project/testability-ledger/) catalogues broader disconfirmers — a complete physical theory of qualia, a solution to the measurement problem requiring no observers, or proof that causal closure holds at quantum collapse — though these are research programmes rather than experiments.
+The Chalmers-McQueen Q-shape prediction is intended to provide this anchor. If Q-shapes can be computed for suitable systems and identical collapse dynamics are observed across high and low Q-shape configurations, the IIT-CSL version is directly disconfirmed. However, if Φ intractability renders Q-shapes permanently uncomputable for conscious-scale systems, this anchor is lost — and without it or something comparably specific, convergence would be indistinguishable from unfalsifiability. This is a genuine vulnerability the Map must confront rather than defer. The Map's [testability-ledger](/project/testability-ledger/) catalogues broader disconfirmers — a complete physical theory of qualia, a solution to the measurement problem requiring no observers, or proof that causal closure holds at quantum collapse — though these are research programmes rather than experiments.
 
 Supporting lines that would strengthen the case without being individually decisive:
 - Failure of objective collapse theories to match observed collapse rates
@@ -197,9 +199,9 @@ The three-tier prediction hierarchy maps directly onto the Map's [tenets](/tenet
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly — does consciousness causally influence physical outcomes? Three experimental pathways bear on it: levitated nanoparticle experiments detecting mass-quadratic excess decoherence (confirming the physical collapse mechanism the Map argues consciousness modulates), the MAQRO mission (a genuine threat if superposition persists at decisive mass scales), and the Chalmers-McQueen Q-shape test (probing consciousness-collapse directly).
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Tier 3's logical constraints support the rejection of many-worlds by showing that no-collapse interpretations carry their own theoretical costs. The Map's rejection of many-worlds is load-bearing for this entire analysis — many-worlds dissolves the distinction between consciousness-collapse and decoherence-only by denying that collapse occurs at all. Every prediction catalogued here presupposes that collapse is real.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The Map's rejection of many-worlds is load-bearing for this entire analysis — many-worlds dissolves the distinction between consciousness-collapse and decoherence-only by denying that collapse occurs at all. Every prediction catalogued here presupposes that collapse is real. Tier 3's logical constraints show that no-collapse interpretations carry their own theoretical costs — particularly around indexical identity and the meaning of probability — but the Map must acknowledge that many-worlds achieves this without adding structure to quantum mechanics. The case against many-worlds rests on the [indexical arguments](/topics/indexical-identity-quantum-measurement/), not on parsimony or empirical evidence favouring collapse.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The predictable objection that decoherence-only is simpler and should be preferred in the absence of Tier 2 evidence. The hierarchy shows that this absence is not evidence against consciousness-collapse but a consequence of the structural difficulty of making consciousness an experimental variable — a difficulty that parsimony cannot dissolve. The predictions above show that the absence of evidence is not yet evidence of absence — the relevant experiments have mostly not been performed.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The predictable objection that decoherence-only is simpler and should be preferred in the absence of Tier 2 evidence. The Map must acknowledge honestly that practical untestability is an epistemic cost, not a neutral structural feature. The absence of Tier 2 evidence *should* lower credence in consciousness-collapse relative to interpretations that require no additional structure — this is standard scientific methodology. The Map's response is twofold: first, the convergence strategy provides an alternative evidential pathway that does not require isolating consciousness as a variable; second, if the difficulty of testing reflects the same structural feature generating the hard problem, parsimony cannot dissolve it by fiat. But the burden remains: if Tier 2 predictions prove untestable in principle — particularly if Q-shape intractability is permanent — the epistemic cost compounds rather than stabilises.
 
 The hierarchy's full implications must be acknowledged. If Tier 1 experiments progressively eliminate all collapse models, the physical framework that consciousness-collapse requires would be undermined. This is a genuine vulnerability, not a remote possibility — the parameter space is narrowing. The Map's position depends on collapse being real, and that claim is empirically at risk.
 
@@ -234,3 +236,18 @@ The hierarchy's full implications must be acknowledged. If Tier 1 experiments pr
 16. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
 17. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
 18. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Added paragraph in Common Core acknowledging the parsimony asymmetry: Everettian QM adds no new physics, so the burden of proof falls on collapse proponents.
+- Expanded Q-shape prediction status to address untestability in principle: if Φ intractability is permanent, the prediction may be permanently untestable — a different category from merely untested.
+- Strengthened Frauchiger-Renner section to give many-worlds its due: it resolves the contradiction parsimoniously without new physics, while consciousness-collapse introduces consciousness as a physical primitive.
+- Rewrote Occam's Razor tenet section: practical untestability is now acknowledged as an epistemic cost rather than a neutral structural feature. The "not evidence against" move is replaced with honest acknowledgment that absence of Tier 2 evidence should lower credence.
+- Strengthened No Many Worlds tenet section: acknowledges many-worlds achieves its resolution without adding structure, and the case against rests on indexical arguments.
+- Updated convergence section to flag Q-shape intractability as a genuine vulnerability.
+
+Based on pessimistic review (pessimistic-2026-03-29-evening.md), Issues #5, plus MWI and Q-shape concerns.
+Key improvements: Intellectual honesty about epistemic costs of untestability and the parsimony advantage of many-worlds.
+
+This log should be removed after human review.
+-->

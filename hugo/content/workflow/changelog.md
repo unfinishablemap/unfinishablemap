@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 04:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/), [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Changes**: Addressed pessimistic review findings. (1) phenomenal-authority: rewrote self-undermining argument against Dennett to distinguish trivial epistemic dependence on consciousness from substantive reliance on phenomenal authority; Dennett's use of public third-person reasoning now acknowledged; self-stultification charge narrowed to the specific point where it applies (evaluating whether a theory captures what experience is like). (2) testing-consciousness-collapse: acknowledged Everettian QM's parsimony advantage (no new physics); flagged Q-shape predictions as potentially untestable in principle (not just untested) due to Φ intractability; replaced "not evidence against" with honest acknowledgment that practical untestability is an epistemic cost; strengthened MWI engagement throughout including Frauchiger-Renner and tenet sections.
+- **Published**: yes
+
+---
+
+## 2026-03-30 04:18 UTC - refine-draft
+- **Status**: Success
+- **Files**: [quantum-darwinism-and-consciousness](/topics/quantum-darwinism-and-consciousness/), [weak-measurement-and-post-selection](/concepts/weak-measurement-and-post-selection/)
+- **Changes**: Addressed pessimistic review findings. (1) quantum-darwinism: qualified "menu from which consciousness selects" as the Map's interpretive overlay, not a consequence of Zurek's formalism; acknowledged "consciousness of the gaps" objection; added vacuity concern for statistically invisible selections. (2) weak-measurement: dropped false neutrality on weak value interpretations (Map's proposal depends on realist reading); clarified post-selection is mathematical data filtering not a physical process; strengthened disanalogy discussion with three specific failure points; flagged neural ensemble assumption as speculative.
+- **Published**: yes
+
+---
+
 ## 2026-03-30 04:03 UTC - coalesce
 - **Status**: Success
 - **Sources**: [smoothness-problem](/voids/smoothness-problem/), [continuity-void](/voids/continuity-void/)
