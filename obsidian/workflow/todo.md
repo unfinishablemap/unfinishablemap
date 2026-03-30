@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Deep review causal-interface.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1791,6 +1784,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate pragmatist philosophy of mind research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
 
 ### ✓ 2026-03-30: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft

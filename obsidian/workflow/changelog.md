@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 14:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [[pragmatisms-path-to-dualism]]
+- **Changes**: Integrated research from pragmatist-philosophy-of-mind-2026-03-28.md. Added James's radical empiricism paragraph (addresses neutral monism objection). Added QBism paragraph strengthening Peirce→quantum indeterminism thread. Strengthened dissolution subsection with Dewey organism-environment specifics and Rorty's inadvertent anti-physicalist support. Added three references (James 1904, Rorty 1979, Fuchs 2012).
+- **Published**: yes
+
 ## 2026-03-30 14:29 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: hard-problem-of-consciousness.md, philosophical-zombies.md, epistemic-advantages-of-dualism.md

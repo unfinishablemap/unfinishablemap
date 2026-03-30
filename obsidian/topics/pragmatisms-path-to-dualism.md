@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-28T23:43:00+00:00
+ai_modified: 2026-03-30T14:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,6 +48,8 @@ James did not claim to prove the transmissive view. He argued something more mod
 
 James went further in "The Will to Believe" (1896). When a choice is forced (we must act on some assumption), living (both options have genuine appeal), and momentous (the stakes are high), we may legitimately choose based on our nature and needs rather than waiting for conclusive evidence. The consciousness question meets all three conditions. Pragmatism does not mandate agnosticism — it permits taking the dualist hypothesis seriously as a working commitment.
 
+A common objection: James himself moved beyond dualism toward *radical empiricism* — the thesis that "pure experience," neither mental nor physical, is the fundamental stuff of reality. In "Does Consciousness Exist?" (1904), he argued that consciousness is not a substance but a function within experience. Does this undermine the pragmatic path to dualism? It does not. Radical empiricism preserves exactly what the Map requires: the irreducibility of experience. James denied that experience reduces to matter — he denied that it reduces to mind-as-substance too, but his framework insists that experience is real, fundamental, and not eliminable. The pragmatist who invokes James's neutral monism against dualism has conceded the essential point: experience cannot be reduced to the physical. Whether the irreducible remainder is called "non-physical properties" or "pure experience" is a second-order question. The first-order commitment — that materialism cannot account for consciousness — is shared.
+
 ## Peirce's Tychism and the Space for Mind
 
 Charles Sanders Peirce — pragmatism's founder — arrived at a position strikingly convergent with the Map's tenets through his doctrine of *tychism*: the thesis that absolute chance is a real factor in the universe, not merely a reflection of ignorance. In "The Architecture of Theories" (1891) and "The Law of Mind" (1892), Peirce argued that strict determinism leaves no room for consciousness to play a genuine role. If every physical event is fully determined by prior physical events, then mind is either identical to those events or epiphenomenal — precisely the dilemma the Map identifies.
@@ -55,6 +57,8 @@ Charles Sanders Peirce — pragmatism's founder — arrived at a position striki
 Peirce's resolution was direct: real indeterminism in nature opens space for mental causation. He wrote that consciousness "is not to be reinstated without tychism" — without genuine ontological chance, there is nowhere for mind to act. This philosophical argument anticipated quantum indeterminacy by decades. Karl Popper later noted that Peirce's indeterminism received little attention until quantum mechanics vindicated it.
 
 Peirce went further. His *synechism* — the doctrine of continuity — held that mind and matter are not sharply divided but exist on a continuum, with the universe "suffused with mind" associated with spontaneity and freedom. While synechism differs from the Map's dualism — Peirce posited a continuum rather than distinct properties — it shares the essential commitment: consciousness is causally efficacious, and strict physicalism cannot accommodate it. Peirce reached this conclusion not through introspective arguments about qualia but through pragmatism's own logic applied to the conditions under which inquiry and reasoning are possible.
+
+The pragmatist lineage from Peirce's tychism extends into contemporary physics. QBism — the quantum Bayesian interpretation developed by Christopher Fuchs — explicitly locates itself in classical American pragmatism, treating quantum mechanics as a tool for agents navigating experience rather than a description of observer-independent reality. QBism centres the conscious agent in physics itself: quantum states are not features of the world but degrees of belief held by someone. While QBism's anti-realism about quantum states creates tension with the Map's collapse realism, its insistence that physics cannot be formulated without reference to conscious agents reinforces the pragmatist case that consciousness is ineliminable from any complete account of reality.
 
 ## Van Fraassen and the Pragmatics of Explanation
 
@@ -90,7 +94,7 @@ This is convergent with the Map's position. If reference and meaning require con
 
 Most pragmatists have resisted the path to dualism. The reasons are instructive.
 
-**Dissolution rather than solution.** The most influential pragmatist response, from Dewey through Rorty, holds that the mind-body problem is an artifact of Cartesian framing rather than a genuine metaphysical puzzle. Dissolve the dualism between experience and nature — as Dewey attempted in *Experience and Nature* (1925) — and the problem evaporates. But dissolution is not refutation. The hard problem survives this treatment because it does not depend on Cartesian assumptions. Even within Dewey's organism-environment framework, the question remains: why is there something it is like to be this organism rather than nothing? Pragmatism's own insistence on taking experiential consequences seriously should make pragmatists wary of strategies that dissolve experience away.
+**Dissolution rather than solution.** The most influential pragmatist response, from Dewey through Rorty, holds that the mind-body problem is an artifact of Cartesian framing rather than a genuine metaphysical puzzle. Dewey's *Experience and Nature* (1925) treats mind as "part and parcel of nature" — not a spectator observing the world but an organism actively transacting with its environment. Rorty's *Philosophy and the Mirror of Nature* (1979) goes further, arguing that the very idea of mind representing reality should be abandoned. Dissolve the framing and the problem evaporates. But dissolution is not refutation. The hard problem survives this treatment because it does not depend on Cartesian assumptions. Even within Dewey's organism-environment framework, the question remains: why is there something it is like to be this organism rather than nothing? Rorty's anti-representationalism fares no better: his rejection of one-to-one identity between brain states and mental states actually undermines reductive physicalism — precisely the Map's target. Pragmatism's own insistence on taking experiential consequences seriously should make pragmatists wary of strategies that dissolve experience away.
 
 **Methodological naturalism.** Many pragmatists assume that philosophy should operate within the framework of natural science. But this assumption is not itself pragmatic — it is a prior commitment that pragmatism's own method should evaluate rather than presuppose. James saw this clearly: treating naturalism as a default rather than a hypothesis to be tested by its consequences is a failure of pragmatic nerve.
 
@@ -130,23 +134,25 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. Peirce, C. S. (1892). The Law of Mind. *The Monist*, 2(4), 533-559.
 1. James, W. (1896). The Will to Believe. *The New World*, 5(18), 327-347.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
+1. James, W. (1904). Does Consciousness Exist? *Journal of Philosophy, Psychology, and Scientific Methods*, 1(18), 477-491.
 1. Dewey, J. (1925). *Experience and Nature*. Open Court.
+1. Rorty, R. (1979). *Philosophy and the Mirror of Nature*. Princeton University Press.
 1. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
 1. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
 1. Putnam, H. (1988). *Representation and Reality*. MIT Press.
 1. Putnam, H. (1994). *Words and Life*. Harvard University Press.
+1. Fuchs, C. (2012). QBism, the Perimeter of Quantum Bayesianism. arXiv:1003.5209.
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/
 
-<!-- AI REFINEMENT LOG - 2026-03-28 (pass 2)
+<!-- AI REFINEMENT LOG - 2026-03-30 (pass 3)
 Changes made:
-- Fixed imprecise claim "the Map's property dualism" → "the Map's dualism" with clarifying parenthetical about Peirce's continuum vs distinct properties
-- Tightened reflexive argument's functionalist response paragraph — removed redundant final sentence, sharpened "concedes what it denies" to "self-undermining"
-- Removed repeated Peirce tychism quote from Tenet 2 connection (already appears in Peirce section)
-- Sharpened enactivist inheritance subsection — added "that its practitioners have not resolved" for specificity
-- Minor prose improvements throughout (word choice, sentence rhythm)
+- Added James's radical empiricism paragraph: addresses the objection that James himself moved to neutral monism, argues this preserves the irreducibility commitment the Map requires
+- Added QBism paragraph to Peirce section: contemporary pragmatist quantum mechanics that centres the conscious agent, strengthening the tychism→quantum indeterminism thread
+- Strengthened dissolution subsection: added specifics on Dewey's organism-environment transaction and Rorty's anti-representationalism (noting his rejection of brain-mind identity inadvertently aids the Map)
+- Added references: James (1904), Rorty (1979), Fuchs (2012)
 
-Previous pass (same day): Peirce tychism section, Putnam strengthening, enactivist/dissolution subsections, research integration.
+Based on integration of research/pragmatist-philosophy-of-mind-2026-03-28.md findings.
 
 This log should be removed after human review.
 -->
