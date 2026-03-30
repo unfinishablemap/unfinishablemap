@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 20:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[attention-created-voids]], [[attention-disorders-and-consciousness]]
+- **Target**: [[attention-and-consciousness]]
+- **Archived**: [[archive/voids/attention-created-voids]], [[archive/voids/attention-disorders-and-consciousness]]
+- **References to review**: ~25 files reference archived articles
+
 ## 2026-03-30 19:38 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/consciousness-in-smeared-quantum-states]], [[topics/comparing-quantum-consciousness-mechanisms]], [[concepts/quantum-biology-and-neural-mechanisms]]

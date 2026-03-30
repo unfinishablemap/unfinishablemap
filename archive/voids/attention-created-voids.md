@@ -27,6 +27,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-29
 last_curated:
+archived: true
+archived_date: 2026-03-30T20:38:00+00:00
+superseded_by: "/voids/attention-and-consciousness/"
+archive_reason: "Coalesced into Attention and the Voids of Consciousness"
+original_path: "/voids/attention-created-voids/"
 ---
 
 Attention creates voids as a structural necessity, not as a contingent failure. To attend to anything is to render something else unattendable—not merely unattended, but actively excluded by the operation of attending itself. This distinguishes attention-created voids from other cognitive limits: here the mechanism of conscious access generates inaccessibility as its essential byproduct.

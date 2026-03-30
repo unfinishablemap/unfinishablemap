@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-07
 last_curated:
 last_deep_review: 2026-03-08T05:29:00+00:00
+archived: true
+archived_date: 2026-03-30T20:38:00+00:00
+superseded_by: "/voids/attention-and-consciousness/"
+archive_reason: "Coalesced into Attention and the Voids of Consciousness"
+original_path: "/voids/attention-disorders-and-consciousness/"
 ---
 
 Attention disorders pose a distinctive epistemological problem for the study of consciousness. If attention serves as the interface through which consciousness acts on the brain — as The Unfinishable Map's framework proposes — then disorders of attention compromise the very instrument we use to probe consciousness. This creates a void: we cannot clearly distinguish between a consciousness that is different and a consciousness that merely *acts* differently because its interface is impaired. The boundary between altered experience and impaired expression of normal experience may be fundamentally unmappable.
