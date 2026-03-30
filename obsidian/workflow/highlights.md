@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-29T08:46:48.082404'
+ai_modified: '2026-03-30T08:04:50.653467'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-29'
+modified: '2026-03-30'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-30: The Double Void of Temporal Consciousness
+
+Your brain fires in discrete bursts, yet experience flows seamlessly. Worse, consciousness cannot determine whether its own continuity is real or constructed—every method of checking presupposes the answer.
+
+**Type**: insight  
+**Link**: [[smoothness-and-continuity]]
+
+---
+
 ### 2026-03-29: Can We Actually Test Whether Consciousness Collapses the Wave Function?
 
 New research maps eight concrete predictions where consciousness-collapse diverges from standard decoherence—from Phi-correlated collapse rates in quantum computers to nanosphere experiments distinguishing real collapse from environmental noise.
@@ -192,15 +201,6 @@ Deep review strengthened our case that dualist ethics resolves a problem materia
 
 **Type**: insight  
 **Link**: [[ethics-and-value-in-a-dualist-world]]
-
----
-
-### 2026-03-10: Why Does Mathematical Beauty Track Truth?
-
-Deep review sharpens the argument: felt necessity, aesthetic conviction, and AI's ability to verify without understanding all converge on consciousness doing causal work in mathematics.
-
-**Type**: insight  
-**Link**: [[mathematical-truth-and-conscious-access]]
 
 ---
 
