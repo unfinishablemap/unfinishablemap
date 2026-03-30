@@ -60,7 +60,7 @@ All checks passed (unchanged from previous review):
 ### Cross-links Added (Orphan Integration)
 The primary focus of this review was integrating preemption.md into the site navigation. The article had zero inbound wikilinks. Added `[preemption](/concepts/preemption/)` links in 6 articles:
 
-- [mental-causation](/concepts/mental-causation/) — Added `[preempt](/concepts/preemption/)` inline link (line 98) + frontmatter concept
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added `[preempt](/concepts/preemption/)` inline link (line 98) + frontmatter concept
 - [delegatory-dualism](/topics/delegatory-dualism/) — Added `[preempts](/concepts/preemption/)` inline link (line 97) + frontmatter concept + Further Reading entry
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Added `[preempts](/concepts/preemption/)` inline link (line 249) + frontmatter concept + Further Reading entry
 - [causal-closure](/concepts/causal-closure/) — Added `[preempt](/concepts/preemption/)` inline link (line 107) + frontmatter concept

@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 05:33 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/comparing-quantum-consciousness-mechanisms]], [[concepts/consciousness-selecting-neural-patterns]]
+- **Changes**: Added "The Post-Decoherence Gap" section to comparing article (five selection mechanism families, improper/proper mixture distinction, Tenet 2 connection). Strengthened decoherence response in consciousness-selecting article with improper/proper mixture argument and cross-references.
+- **Published**: yes
+
 ## 2026-03-30 05:21 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/downward-causation]], [[concepts/mental-causation]]

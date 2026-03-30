@@ -1486,7 +1486,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-25 10:58 UTC - deep-review
 - **Status**: Success
-- **File**: [downward-causation](/concepts/downward-causation/)
+- **File**: [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - **Word count**: 2427 → ~2430 (length-neutral)
 - **Critical issues addressed**: 1 (broken wikilink from coalesce operation)
 - **Medium issues addressed**: 1 (missing Tallis reference for attributed quote)

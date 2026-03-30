@@ -142,9 +142,9 @@ Applied to the brain:
 
 Key features supporting free will:
 
-**No energy injection**: Consciousness doesn't add energy; it shapes which pre-existing possibility actualizes. This respects [conservation laws](/concepts/conservation-laws-and-mental-causation/) and satisfies [observational-closure](/concepts/observational-closure/) while allowing genuine [mental causation](/concepts/mental-causation/).
+**No energy injection**: Consciousness doesn't add energy; it shapes which pre-existing possibility actualizes. This respects [conservation laws](/concepts/conservation-laws-and-mental-causation/) and satisfies [observational-closure](/concepts/observational-closure/) while allowing genuine [mental causation](/concepts/mental-causation-and-downward-causation/).
 
-**[Top-down causation](/concepts/downward-causation/)**: Mental effort (intention, attention) influences physical outcomes. The mind isn't epiphenomenal—it selects among quantum possibilities that physics leaves undetermined.
+**[Top-down causation](/concepts/mental-causation-and-downward-causation/)**: Mental effort (intention, attention) influences physical outcomes. The mind isn't epiphenomenal—it selects among quantum possibilities that physics leaves undetermined.
 
 **The [attention-consciousness relationship](/concepts/attention-as-interface/)**: Koch and Tsuchiya documented that attention and consciousness are dissociable—blindsight patients attend to stimuli they don't consciously see; peripheral awareness presents experiences without focused attention. Attention is the *mechanism* consciousness uses, not consciousness itself. A non-physical subject deploys a physical mechanism to influence quantum outcomes.
 
@@ -290,7 +290,7 @@ The convergence of Kane's event-causal libertarianism (now incorporating agent-c
 - [phenomenal unity](/concepts/unity-of-consciousness/) — Unified experience as evidence for non-reductive consciousness
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Why reasons-guided selection escapes the luck objection
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's metaphysical framework for experiential causation
-- [downward-causation](/concepts/downward-causation/) — How mental states influence physical outcomes
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How mental states influence physical outcomes
 - [contextual-selection-in-quantum-foundations](/concepts/contextual-selection-in-quantum-foundations/) — Why quantum selection is context-dependent, not item-picking
 - [quantum-mechanics-free-will-2026-01-16](/research/quantum-mechanics-free-will-2026-01-16/) — Research notes underlying this article
 

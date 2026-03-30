@@ -55,7 +55,7 @@ The success of physics—the fact that physical investigations reliably find phy
 
 ## Why the Distinction Matters
 
-The causal closure argument against [mental-causation](/concepts/mental-causation/) runs:
+The causal closure argument against [mental-causation](/concepts/mental-causation-and-downward-causation/) runs:
 
 1. Every physical event has a sufficient physical cause (causal closure)
 2. Therefore, mental events cannot add anything—physical causes already suffice
@@ -142,7 +142,7 @@ The distinction between observational and universal closure is a key dialectical
 - [causal-closure](/concepts/causal-closure/) — The principle observational closure weakens
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory using observational closure
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The view observational closure makes defensible
-- [mental-causation](/concepts/mental-causation/) — What observational closure allows
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — What observational closure allows
 - [quantum-consciousness](/concepts/quantum-consciousness/) — One mechanism satisfying observational closure
 - Cognitive Closure — A distinct epistemic concept
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view observational closure is not

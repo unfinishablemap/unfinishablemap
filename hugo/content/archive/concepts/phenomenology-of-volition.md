@@ -44,7 +44,7 @@ topics:
 - '[[consciousness-and-causal-powers]]'
 ---
 
-Volition has a distinctive phenomenology. When you will an action — raising your arm, directing attention, suppressing an impulse — the experience differs qualitatively from anything that merely happens to you. The Unfinishable Map treats this phenomenology as evidence, not illusion: the first-person structure of willing reveals components that [mental causation](/concepts/mental-causation/) theories must account for and that [epiphenomenalist](/concepts/epiphenomenalism/) dismissals cannot explain away. Where [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) concerns the experience of deliberating between options, the phenomenology of volition concerns the experience of *exerting control itself* — the what-it-is-like of initiating, sustaining, and vetoing action.
+Volition has a distinctive phenomenology. When you will an action — raising your arm, directing attention, suppressing an impulse — the experience differs qualitatively from anything that merely happens to you. The Unfinishable Map treats this phenomenology as evidence, not illusion: the first-person structure of willing reveals components that [mental causation](/concepts/mental-causation-and-downward-causation/) theories must account for and that [epiphenomenalist](/concepts/epiphenomenalism/) dismissals cannot explain away. Where [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) concerns the experience of deliberating between options, the phenomenology of volition concerns the experience of *exerting control itself* — the what-it-is-like of initiating, sustaining, and vetoing action.
 
 ## Components of Volitional Experience
 

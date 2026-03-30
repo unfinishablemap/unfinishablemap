@@ -150,7 +150,7 @@ See [brain-interface-boundary](/concepts/brain-interface-boundary/#what-would-ch
 
 **"Doesn't this make consciousness's role trivially small?"**
 
-The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [mental-causation](/concepts/mental-causation/) and [free will](/topics/free-will/). The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
+The scope is limited—one brain—but not the significance. Consciousness modulating neural patterns is the mechanism for [mental-causation](/concepts/mental-causation-and-downward-causation/) and [free will](/topics/free-will/). The alternative (epiphenomenalism) makes consciousness do nothing at all. Doing something in one brain is infinitely more than doing nothing anywhere.
 
 **"Doesn't relativity still create problems?"**
 
@@ -166,7 +166,7 @@ The interface locality constraint follows from the mechanism's structure. Consci
 
 The resolution also illuminates the [pairing-problem](/concepts/pairing-problem/). The interface was built locally, through neural development, creating specific coupling. The mind-brain connection is a particular relation between *this* mind and *this* brain. The solution works because minds are individuals.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: "Minimal" applies to scope as well as mechanism. Consciousness modulates collapse locally, in one brain—the smallest intervention compatible with [mental-causation](/concepts/mental-causation/). The multi-mind resolution shows *why* minimality is essential: universal consciousness-caused collapse generates paradoxes that local modulation avoids.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: "Minimal" applies to scope as well as mechanism. Consciousness modulates collapse locally, in one brain—the smallest intervention compatible with [mental-causation](/concepts/mental-causation-and-downward-causation/). The multi-mind resolution shows *why* minimality is essential: universal consciousness-caused collapse generates paradoxes that local modulation avoids.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Preserved but bounded. Consciousness receives information from its brain (perception) and sends information (selection among neural patterns). Bidirectionality operates through a specific, local interface—not universally but *here*.
 

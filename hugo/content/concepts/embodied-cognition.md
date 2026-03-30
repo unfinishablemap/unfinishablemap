@@ -94,7 +94,7 @@ The *explicit monitoring theory* (Beilock and Carr, 2001; building on Baumeister
 - Dual-task conditions that occupy conscious attention can *improve* skilled performance
 - Instructions to focus on outcomes rather than mechanics reduce choking
 
-This is consistent with [bidirectional interaction](/concepts/mental-causation/). Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1.
+This is consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/). Consider the causal chain: (1) conscious attention shifts to procedural execution, (2) procedural execution is disrupted, (3) performance degrades. If consciousness were epiphenomenal—a mere byproduct—step 2 couldn't follow from step 1.
 
 The standard neuroscience interpretation explains choking as neural resource competition: conscious monitoring is a neural process that competes with automated motor routines for shared resources. On this reading, "attention disrupting performance" is one neural process interfering with another. Baumeister and Beilock's own explanations are framed in these neural-functional terms, and this reading is mainstream.
 

@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Awkward phrasing**: "Paralysed persons will movement that does not follow" was unclear. **Resolution**: Reworded to "Paralysed persons will bodily movement that never occurs."
-- **Missing cross-links**: Body text lacked links to `[causal-closure](/concepts/causal-closure/)`, `[mental-causation](/concepts/mental-causation/)`, and `[dualism](/concepts/dualism/)` despite discussing these concepts directly. **Resolution**: Added inline wikilinks where contextually appropriate.
+- **Missing cross-links**: Body text lacked links to `[causal-closure](/concepts/causal-closure/)`, `[mental-causation](/concepts/mental-causation-and-downward-causation/)`, and `[dualism](/concepts/dualism/)` despite discussing these concepts directly. **Resolution**: Added inline wikilinks where contextually appropriate.
 - **Unqualified claim about physics**: "Quantum mechanics reveals a domain where physics is genuinely incomplete" stated without noting this depends on interpretation. **Resolution**: Added qualifier "on the standard (non-Many-Worlds) interpretation."
 
 ### Low Issues Found
@@ -62,7 +62,7 @@ All eleven factual claims verified via web search against SEP, Cambridge Descart
 
 ### Enhancements Made
 - Added Leibniz section with pre-established harmony as sixth strategy
-- Added cross-links to `[causal-closure](/concepts/causal-closure/)`, `[mental-causation](/concepts/mental-causation/)`, `[dualism](/concepts/dualism/)`
+- Added cross-links to `[causal-closure](/concepts/causal-closure/)`, `[mental-causation](/concepts/mental-causation-and-downward-causation/)`, `[dualism](/concepts/dualism/)`
 - Added `occasionalism` to frontmatter concepts
 - Qualified the "physics is genuinely incomplete" claim
 - Fixed awkward Cordemoy phrasing
@@ -70,7 +70,7 @@ All eleven factual claims verified via web search against SEP, Cambridge Descart
 
 ### Cross-links Added
 - [causal-closure](/concepts/causal-closure/) (in Relation to Site Perspective)
-- [mental-causation](/concepts/mental-causation/) (in Leibniz section)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (in Leibniz section)
 - [dualism](/concepts/dualism/) (in Leibniz section)
 
 ## Remaining Items

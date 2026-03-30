@@ -104,7 +104,7 @@ Contemporary interactionist dualists have largely adopted this move. William Has
 
 ## Legacy: From Elisabeth to Kim
 
-Elisabeth's challenge did not merely embarrass Descartes. It launched a research programme in [mental-causation](/concepts/mental-causation/)—how minds cause physical effects—that continues today, and not only in the West. Indian, Islamic, and Buddhist philosophers independently posed the same structural question, arriving at [five recurring types of solution](/topics/interaction-problem-across-traditions/) that mirror and extend the Western trajectory.
+Elisabeth's challenge did not merely embarrass Descartes. It launched a research programme in [mental-causation](/concepts/mental-causation-and-downward-causation/)—how minds cause physical effects—that continues today, and not only in the West. Indian, Islamic, and Buddhist philosophers independently posed the same structural question, arriving at [five recurring types of solution](/topics/interaction-problem-across-traditions/) that mirror and extend the Western trajectory.
 
 Leibniz, who later corresponded with Elisabeth's family, acknowledged that Descartes had "given up the game" on interaction. He developed pre-established harmony—mind and body run in parallel without causal connection—as an alternative. This was an admission that Elisabeth's problem had no direct solution within Cartesian metaphysics.
 

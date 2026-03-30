@@ -105,7 +105,7 @@ Several findings would weaken the constitutive position and, with it, the dualis
 
 **[Dualism](/tenets/#dualism)**: The constitutive-contingent debate directly instantiates the broader question of whether phenomenal consciousness is reducible. If autonoetic awareness is constitutive of episodic memory, then a functionally identical system lacking the felt quality of re-experiencing would not have episodic memory—precisely what dualism predicts. The incompleteness of all three philosophical frameworks (representational, metacognitive, epistemic) in capturing autonoetic phenomenology mirrors the general explanatory gap between physical description and conscious experience.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [mental causation](/concepts/mental-causation/). If the felt quality of temporal self-awareness drives planning and counterfactual reasoning—capacities absent from unconscious processing—then consciousness is not epiphenomenal but causally efficacious.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [mental causation](/concepts/mental-causation-and-downward-causation/). If the felt quality of temporal self-awareness drives planning and counterfactual reasoning—capacities absent from unconscious processing—then consciousness is not epiphenomenal but causally efficacious.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Autonoetic consciousness presupposes not only a determinate personal history but a singular future self to project into. While past-directed autonoesis requires only that *my* history is singular—which each MWI branch trivially satisfies—future-directed autonoesis demands that the self I am planning for is *this* self, not an indefinite plurality. Many-worlds fragmentation, where every quantum event spawns branching versions of the subject, undermines the indexical future "I" that [temporal self-projection](/concepts/temporal-consciousness/) requires. If every plan I make will be executed by countless branching copies, the felt urgency of deliberation—autonoesis at its most action-guiding—loses its rational basis.
 
@@ -115,7 +115,7 @@ Several findings would weaken the constitutive position and, with it, the dualis
 - [episodic-memory](/concepts/episodic-memory/) — The memory system most closely tied to autonoetic awareness
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The irreducible phenomenal properties that autonoesis introduces
 - [explanatory-gap](/concepts/explanatory-gap/) — Why functional descriptions cannot bridge the gap between retrieval and re-experiencing
-- [mental-causation](/concepts/mental-causation/) — The broader framework for consciousness as causally efficacious
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework for consciousness as causally efficacious
 - [baseline-cognition](/concepts/baseline-cognition/) — Cognitive capacities without autonoetic self-awareness
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure of conscious experience underlying mental time travel
 - [self-and-consciousness](/concepts/self-and-self-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes

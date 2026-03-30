@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-03-21](/reviews/deep-review-2026-03-21-mental-causation/)
 **Word count**: 3023 → 3070 (+47, length-neutral mode)
 **Context**: Cross-review mental-causation.md considering supervenience insights

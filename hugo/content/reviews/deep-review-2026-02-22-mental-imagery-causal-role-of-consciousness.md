@@ -55,7 +55,7 @@ topics: []
 ### Cross-links Added
 From these articles to the target:
 - [mental-imagery](/concepts/mental-imagery/) (concept — related_articles + Further Reading)
-- [mental-causation](/concepts/mental-causation/) (concept — Further Reading)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (concept — Further Reading)
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) (concept — Further Reading)
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) (topic — Further Reading)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) (topic — Further Reading)

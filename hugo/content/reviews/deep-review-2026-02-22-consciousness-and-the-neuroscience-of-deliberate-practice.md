@@ -58,7 +58,7 @@ topics: []
 
 ### Enhancements Made
 
-- Added inline cross-links to [mental-causation](/concepts/mental-causation/) and [downward-causation](/concepts/downward-causation/) where these concepts are discussed naturally in the text.
+- Added inline cross-links to [mental-causation](/concepts/mental-causation-and-downward-causation/) and [downward-causation](/concepts/mental-causation-and-downward-causation/) where these concepts are discussed naturally in the text.
 - Added inline cross-link to [epiphenomenalism](/concepts/epiphenomenalism/) in the sleep consolidation section.
 - Expanded Further Reading from 6 to 8 entries, replacing archived links with current articles and adding new connections.
 - Updated related_articles frontmatter from 7 to 10 entries, all pointing to live (non-archived) pages.
@@ -70,8 +70,8 @@ topics: []
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (replaced archived link)
 - [phenomenology-of-cognitive-automatisation](/topics/phenomenology-of-cognitive-capacity/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
-- [mental-causation](/concepts/mental-causation/)
-- [downward-causation](/concepts/downward-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
 

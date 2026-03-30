@@ -51,7 +51,7 @@ topics: []
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — inline link after selection sites discussion
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — added to Further Reading
 - [mental-effort](/concepts/mental-effort/) — inline link in Proposed Mechanisms section
-- [mental-causation](/concepts/mental-causation/) — inline paragraph in Quantum Opening section
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — inline paragraph in Quantum Opening section
 - [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — added to Further Reading
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — added to Further Reading
 

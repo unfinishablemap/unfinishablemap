@@ -40,7 +40,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [mental causation](/concepts/mental-causation/). When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [epiphenomenalism](/concepts/epiphenomenalism/) because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
+The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [mental causation](/concepts/mental-causation-and-downward-causation/). When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [epiphenomenalism](/concepts/epiphenomenalism/) because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
 
 ## Beyond the Folk Understanding
 
@@ -116,7 +116,7 @@ Placebo evidence contributes to a broader [convergence of independent empirical 
 
 ## Further Reading
 
-- [mental-causation](/concepts/mental-causation/) — The philosophical problem and the Map's quantum framework response
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem and the Map's quantum framework response
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Complementary evidence: conscious interference with automatised performance
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness causes nothing, and why it fails

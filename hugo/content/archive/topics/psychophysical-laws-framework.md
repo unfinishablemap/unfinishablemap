@@ -208,7 +208,7 @@ The psychophysical laws framework would face serious difficulty if:
 - Psychophysical Coupling — The selection law problem specifically
 - Psychophysical Coupling — Five candidate mechanisms evaluated
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws
-- [mental-causation](/concepts/mental-causation/) — How consciousness affects physical outcomes
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing selection pathways
 - [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert

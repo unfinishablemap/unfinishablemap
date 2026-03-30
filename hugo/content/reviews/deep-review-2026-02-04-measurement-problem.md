@@ -62,7 +62,7 @@ All six adversarial personas engaged:
 
 ### Enhancements Made
 
-1. **MWI mental causation critique**: Added explicit note that MWI "eliminates [mental-causation](/concepts/mental-causation/) entirely—consciousness makes no causal difference if all outcomes occur regardless"
+1. **MWI mental causation critique**: Added explicit note that MWI "eliminates [mental-causation](/concepts/mental-causation-and-downward-causation/) entirely—consciousness makes no causal difference if all outcomes occur regardless"
 2. **Prebiotic-collapse cross-link**: Added "See [prebiotic-collapse](/concepts/prebiotic-collapse/) for how objective collapse solves the cosmological timeline problem"
 3. **Prose tightening**: Trimmed redundancy in Wallace derivation description and indexical paragraph to maintain length neutrality
 

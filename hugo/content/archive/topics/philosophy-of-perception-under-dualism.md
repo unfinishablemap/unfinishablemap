@@ -90,7 +90,7 @@ Under physicalism, the conscious subject is typically treated as the endpoint of
 
 The Map's [bidirectional interaction](/tenets/#bidirectional-interaction) tenet opens a different possibility. If consciousness causally influences physical processes, then perception is not a one-way street. Consciousness may actively shape what is perceived—not in the sense of hallucinating or distorting, but in the sense of selecting, organising, and constituting the perceptual field.
 
-This aligns with [perceptual constancy](/topics/consciousness-as-perceptual-architect/). A white wall looks white under candlelight and fluorescent light despite radically different wavelength compositions reaching the eye. Neuroscience explains much of this through adaptation, gain control, and cortical normalisation (Palmer, 1999), but the constancy as *experienced*—the seamless stability of the perceived world—goes beyond what these mechanisms predict. If consciousness contributes to maintaining this experiential stability—selecting the stable distal interpretation over the fluctuating proximal stimulus—then perception involves [downward-causation](/concepts/downward-causation/) from consciousness to neural processing.
+This aligns with [perceptual constancy](/topics/consciousness-as-perceptual-architect/). A white wall looks white under candlelight and fluorescent light despite radically different wavelength compositions reaching the eye. Neuroscience explains much of this through adaptation, gain control, and cortical normalisation (Palmer, 1999), but the constancy as *experienced*—the seamless stability of the perceived world—goes beyond what these mechanisms predict. If consciousness contributes to maintaining this experiential stability—selecting the stable distal interpretation over the fluctuating proximal stimulus—then perception involves [downward-causation](/concepts/mental-causation-and-downward-causation/) from consciousness to neural processing.
 
 The strongest evidence for this participatory model comes from what happens when perception breaks down. Eigengrau—the dark grey perceived in complete darkness—and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [reconstruction-paradox](/voids/reconstruction-paradox/) reveals that the brain operates in two distinct modes: editing some signals (filling the blind spot, suppressing saccadic blur) while faithfully transmitting others (optical blur, tinnitus). Both modes produce qualitatively distinct experiences, implying a conscious recipient whose experience is being shaped—precisely the active participant that dualism predicts.
 
@@ -148,7 +148,7 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [knowledge-argument](/concepts/knowledge-argument/)
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [binding-problem](/concepts/binding-problem/)

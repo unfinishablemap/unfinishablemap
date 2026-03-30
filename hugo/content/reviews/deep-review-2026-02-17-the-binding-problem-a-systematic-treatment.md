@@ -40,7 +40,7 @@ topics: []
 
 - **Speculative quantum-collapse/agent-causation claim insufficiently hedged**: The cognitive binding section connected quantum collapse, agent causation, and parsing selection without hedging markers. Fixed: prefaced with "One speculative possibility" and restructured as conditional.
 
-- **Missing cross-links**: Added `[downward-causation](/concepts/downward-causation/)` and `[prehension](/concepts/prehension/)` to concepts list. Added `[downward-causation](/concepts/downward-causation/)` to Further Reading. Removed broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` from Further Reading.
+- **Missing cross-links**: Added `[downward-causation](/concepts/mental-causation-and-downward-causation/)` and `[prehension](/concepts/prehension/)` to concepts list. Added `[downward-causation](/concepts/mental-causation-and-downward-causation/)` to Further Reading. Removed broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` from Further Reading.
 
 ### Counterarguments Considered
 
@@ -75,12 +75,12 @@ topics: []
 - Added hedging to speculative agent-causation claim
 - Corrected NREM sleep characterization
 - Fixed misleading filling-in claim
-- Added cross-links: `[downward-causation](/concepts/downward-causation/)`, `[prehension](/concepts/prehension/)`
-- Replaced broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` Further Reading entry with `[downward-causation](/concepts/downward-causation/)`
+- Added cross-links: `[downward-causation](/concepts/mental-causation-and-downward-causation/)`, `[prehension](/concepts/prehension/)`
+- Replaced broken `[multimodal-binding](/concepts/phenomenal-binding-and-holism/)` Further Reading entry with `[downward-causation](/concepts/mental-causation-and-downward-causation/)`
 
 ### Cross-links Added
 
-- [downward-causation](/concepts/downward-causation/) (concepts list and Further Reading)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) (concepts list and Further Reading)
 - [prehension](/concepts/prehension/) (concepts list)
 - [episodic-memory](/concepts/episodic-memory/) (replaced archived [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/))
 - [phenomenal-binding-and-holism](/concepts/binding-problem/) (replaced archived [multimodal-binding](/concepts/phenomenal-binding-and-holism/) and [neural-binding-mechanisms](/concepts/phenomenal-binding-and-holism/))

@@ -58,11 +58,11 @@ None. The article is well-sourced, properly qualified, and fixes from the previo
 
 ### Enhancements Made
 - Added inline definition for "bodily spirits" (*esprits animaux*) improving accessibility
-- Connected Elisabeth's challenge to [mental-causation](/concepts/mental-causation/) with body-text wikilink
+- Connected Elisabeth's challenge to [mental-causation](/concepts/mental-causation-and-downward-causation/) with body-text wikilink
 - Linked Elisabeth's demand for lawful connection to modern [psychophysical-coupling](/concepts/psychophysical-laws/) concept
 
 ### Cross-links Added
-- [mental-causation](/concepts/mental-causation/) (body text, Legacy section)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (body text, Legacy section)
 - [psychophysical-coupling](/concepts/psychophysical-laws/) (body text, Elisabeth's Alternative section)
 
 ## Remaining Items

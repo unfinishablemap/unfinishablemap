@@ -65,7 +65,7 @@ topics: []
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [inverted-qualia](/concepts/inverted-qualia/)
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)

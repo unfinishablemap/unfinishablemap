@@ -50,7 +50,7 @@ topics: []
 Files updated (62 link replacements across 26 files):
 - [living-with-the-map](/apex/living-with-the-map/) (1 link)
 - [epiphenomenalism](/concepts/epiphenomenalism/) (1)
-- [mental-causation](/concepts/mental-causation/) (3)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (3)
 - [pain-asymbolia](/concepts/pain-asymbolia/) (4)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) (2)
 - [qualia](/concepts/qualia/) (2)

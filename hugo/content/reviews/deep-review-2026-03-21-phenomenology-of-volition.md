@@ -52,7 +52,7 @@ The article was orphaned with zero inbound links. Added [phenomenology-of-voliti
 
 **Inline cross-references (with contextual text):**
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Added distinction sentence in opening and Further Reading entry
-- [mental-causation](/concepts/mental-causation/) — Added inline reference in Agent Causation section
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added inline reference in Agent Causation section
 - [agent-causation](/concepts/agent-causation/) — Added inline reference in Motor Selection section
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Added inline reference in Effort bullet point and Further Reading entry
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-03-04](/reviews/deep-review-2026-03-04-mental-causation/)
 **Word count**: 2312 → 2341 (+29, near length-neutral)
 **Context**: Cross-review mental-causation.md and mind-matter-interface.md considering delegatory dualism

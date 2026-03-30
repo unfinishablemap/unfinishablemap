@@ -84,7 +84,7 @@ No misattributions, dropped qualifiers, overstated positions, or source/Map conf
 - Added `[functionalism](/concepts/functionalism/)` cross-link in Functional Reduction section
 - Added `[heterophenomenology](/concepts/heterophenomenology/)` cross-link in Dennett paragraph
 - Added `[epiphenomenalism](/concepts/epiphenomenalism/)` cross-link in Kim's Challenge
-- Added `[mental-causation](/concepts/mental-causation/)` and `[knowledge-argument](/concepts/knowledge-argument/)` to Further Reading
+- Added `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[knowledge-argument](/concepts/knowledge-argument/)` to Further Reading
 - Added Dennett references (*Consciousness Explained* 1991, *Darwin's Dangerous Idea* 1995)
 - Removed stale AI refinement log
 - Softened "Even Dennett" rhetoric
@@ -93,7 +93,7 @@ No misattributions, dropped qualifiers, overstated positions, or source/Map conf
 - [functionalism](/concepts/functionalism/)
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 
 ## Remaining Items

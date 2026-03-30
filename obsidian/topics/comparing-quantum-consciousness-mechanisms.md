@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-29T15:42:00+00:00
+ai_modified: 2026-03-30T05:33:00+00:00
 last_deep_review: 2026-03-29T15:42:00+00:00
 draft: false
 topics:
@@ -57,6 +57,24 @@ This comparison evaluates each mechanism along two independent dimensions — sc
 **Philosophical criterion** (specific to the Map):
 
 5. **Tenet alignment** — How well does the mechanism satisfy all five of the Map's commitments, particularly [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]? This criterion reflects the Map's philosophical preferences, not scientific merit. A mechanism that scores poorly here may still be scientifically strong, and vice versa.
+
+## The Post-Decoherence Gap
+
+Before evaluating specific mechanisms, a framing question: *why* does consciousness need a quantum mechanism at all? The answer lies in what [[decoherence]] does and does not accomplish.
+
+Decoherence suppresses quantum interference and selects preferred bases (pointer states) through environment-induced superselection. Schlosshauer (2004) identifies three sub-problems within the [[measurement-problem|measurement problem]]: the preferred basis problem, the non-observability of interference, and the problem of outcomes. Decoherence solves the first two — but the third remains open. After decoherence, the system is described by a diagonal density matrix that *looks* like a classical probability distribution but is not one. This is the improper/proper mixture distinction (Luppi & Adlam 2012): tracing out the environment yields an *improper* mixture — mathematically identical to classical ignorance but physically different, because no definite outcome has yet been actualised. Something beyond decoherence must explain why one outcome obtains rather than the mixture persisting.
+
+This residual "problem of outcomes" is widely acknowledged — even by researchers working on decoherence — as requiring supplementation by an interpretation. Five families of selection mechanism have been proposed to fill the gap:
+
+1. **Consciousness-mediated collapse** (von Neumann, Wigner, Stapp, Chalmers-McQueen) — Conscious observation actualises one outcome from the post-decoherence mixture.
+2. **Objective collapse** (GRW, Penrose-Diósi, CSL) — New physics triggers collapse without observers. Consciousness plays no role in outcome selection.
+3. **Hidden variables** (de Broglie-Bohm) — Particles always have definite positions; the pilot wave guides them. Fully deterministic, no indeterminacy for consciousness to exploit.
+4. **Many worlds** (Everett) — No selection occurs. All outcomes happen in separate branches. Directly ruled out by [[tenets#^no-many-worlds|Tenet 4]].
+5. **History selection** (consistent histories, transactional interpretation) — Probabilities are assigned to complete histories or transactions. The consistent histories set selection problem could be where consciousness operates, but the framework's architects reject this reading.
+
+For the Map's interactionist dualism, families 2-5 either eliminate consciousness from the selection process entirely (objective collapse, hidden variables), deny that selection occurs (many worlds), or remain ambiguous about consciousness's role (history selection). Only consciousness-mediated collapse locates an irreducible non-physical agent at the point where physics leaves outcomes undetermined — making it the sole family consistent with all five tenets. The four mechanisms compared here are all variants within or compatible with this first family.
+
+The post-decoherence gap is central to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum Interaction)]]: consciousness need not inject energy, override physical laws, or maintain fragile quantum states. It need only select among outcomes that decoherence has already prepared — the smallest possible non-physical influence. See [[post-decoherence-selection]] for the concept in detail and [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] for a full synthesis of how this gap connects to quantum Darwinism, contextuality, and amplification.
 
 ## Orch OR: Gravitational Collapse in Microtubules
 
@@ -135,7 +153,7 @@ Rather than proposing a specific neural mechanism, hybrid models combine spontan
 
 Three patterns emerge from the scientific evaluation; a fourth emerges when tenet alignment is considered separately.
 
-**The decoherence divide.** Mechanisms divide sharply into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). [[quantum-darwinism-and-consciousness|Quantum Darwinism]] sharpens this divide: Zurek's einselection prepares the pointer states that any consciousness mechanism must work with, and proposals operating on the already-decohered mixture avoid the [[timing-gap-problem|timing gap]] entirely. Mechanisms that sidestep decoherence hold a structural advantage.
+**The decoherence divide.** Mechanisms divide sharply into those requiring sustained coherence (Orch OR) and those operating through discrete events or modified dynamics (Stapp, Fisher, CSL hybrids). [[quantum-darwinism-and-consciousness|Quantum Darwinism]] sharpens this divide: Zurek's einselection prepares the pointer states that any consciousness mechanism must work with, and proposals operating on the already-decohered mixture avoid the [[timing-gap-problem|timing gap]] entirely. The [[#the-post-decoherence-gap|improper/proper mixture distinction]] reinforces this: mechanisms that act on the post-decoherence diagonal density matrix need not maintain fragile quantum coherence — they operate at the gap where physics has prepared the options but not yet selected among them. Mechanisms that sidestep decoherence hold a structural advantage.
 
 **Phenomenology matters.** Theories of consciousness should explain what consciousness is like, not merely where it acts. Stapp's model uniquely predicts the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience. Other proposals explain that consciousness plays a causal role without explaining why that role feels the way it does. A complete theory must eventually address both.
 
@@ -145,7 +163,7 @@ Three patterns emerge from the scientific evaluation; a fourth emerges when tene
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [[tenets]] do not commit to any single quantum consciousness mechanism, and this comparison explains why that agnosticism is warranted. The Map's framework does, however, constrain acceptable mechanisms. [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] rules against proposals requiring macroscopic quantum coherence or panpsychist commitments — a tension Orch OR must address. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires that consciousness genuinely causes physical effects — ruling out proposals where consciousness is merely correlated with quantum processes. [[tenets#^no-many-worlds|No Many Worlds]] requires that collapse is real, not apparent.
+The Unfinishable Map's [[tenets]] do not commit to any single quantum consciousness mechanism, and this comparison explains why that agnosticism is warranted. The Map's framework does, however, constrain acceptable mechanisms — and the [[#the-post-decoherence-gap|post-decoherence gap]] explains *where* those constraints bite. The problem of outcomes — the fact that decoherence prepares a menu of pointer states but does not select among them — is precisely where [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] locates consciousness's causal role: not injecting energy or overriding physical law, but selecting where physics leaves room. This tenet rules against proposals requiring macroscopic quantum coherence or panpsychist commitments — a tension Orch OR must address. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires that consciousness genuinely causes physical effects — ruling out proposals where consciousness is merely correlated with quantum processes. [[tenets#^no-many-worlds|No Many Worlds]] requires that collapse is real, not apparent.
 
 Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks that act forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict: these models fit the Map's commitments better, but that does not make them more likely to be correct. Stapp provides the phenomenological depth; spontaneous collapse — whether CSL or [[penrose-gravity-induced-collapse-empirical-prospects|Penrose's gravitational OR]] — provides the physical framework. These are not competitors but potentially complementary: Stapp's mechanism could describe *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides the baseline collapse dynamics that consciousness modulates. The Penrose article develops this explicitly: gravity determines *when* collapse occurs, but not *which outcome* — leaving room for consciousness at the moment of selection. The [[coupling-modes]] framework — basis control, timing control, probability control — provides vocabulary for specifying what such integration would require.
 
@@ -189,6 +207,8 @@ The Map's position is that *some* quantum consciousness mechanism exists, constr
 1. Hagan, S., Hameroff, S., & Tuszynski, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Luppi, A. & Adlam, E. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
+1. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267-1305.
 1. Khan, S., Huang, Y., Timuçin, D., Bailey, S., Lee, S., Lopes, J., Gaunce, E., Mosberger, J., Zhan, M., Abdelrahman, B., Zeng, X., & Wiest, M. C. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8), ENEURO.0291-24.2024.
 1. Player, T. C. & Hore, P. J. (2018). Posner qubits: spin dynamics of entangled Ca₉(PO₄)₆ molecules. *Journal of the Royal Society Interface*, 15(148), 20180494.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
@@ -204,6 +224,21 @@ Changes made:
 
 Based on cross-review findings from deep-review of differential-predictions-consciousness-collapse.
 Key improvements: technical precision of C-M prediction description.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-30
+Changes made:
+- Added "The Post-Decoherence Gap" section framing the problem of outcomes and five selection mechanism families
+- Integrated improper/proper mixture distinction (Luppi & Adlam 2012, Schlosshauer 2004)
+- Showed why consciousness-mediated selection is the only family consistent with all five tenets
+- Strengthened "decoherence divide" in What the Comparison Reveals with improper/proper mixture cross-reference
+- Enhanced Relation to Site Perspective with explicit Tenet 2 connection to post-decoherence gap
+- Added Luppi & Adlam and Schlosshauer to References
+
+Based on research in research/post-decoherence-selection-mechanisms-2026-03-29.md.
+Key improvements: article now frames the four mechanism comparison within the broader post-decoherence selection landscape, making explicit why this comparison matters for Tenet 2.
 
 This log should be removed after human review.
 -->

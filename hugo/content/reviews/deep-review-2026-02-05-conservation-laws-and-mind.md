@@ -84,7 +84,7 @@ Six sympathetic philosopher personas identified strengths:
 3. **Cross-links added**:
    - [brain-specialness-boundary](/topics/brain-specialness-boundary/) (Further Reading + related_articles)
    - [brain-interface-boundary](/concepts/brain-interface-boundary/) (Further Reading)
-   - [mental-causation](/concepts/mental-causation/) (Further Reading + related_articles)
+   - [mental-causation](/concepts/mental-causation-and-downward-causation/) (Further Reading + related_articles)
 
 ## Remaining Items
 

@@ -57,7 +57,7 @@ All substantive counterarguments from the pessimistic review were already addres
 - Cross-link to [choking under pressure](/topics/choking-phenomenon-mental-causation/) in reinvestment passage
 - Cross-link to [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) in scaffolding section and Further Reading
 - Reference to [skill-delegation](/concepts/skill-delegation/) concept (three-phase process) in scaffolding section
-- Added `[mental-causation](/concepts/mental-causation/)` to concepts frontmatter
+- Added `[mental-causation](/concepts/mental-causation-and-downward-causation/)` to concepts frontmatter
 
 ### Cross-links Added
 - In expertise-occlusion.md: [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/), [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/), [skill-delegation](/concepts/skill-delegation/)

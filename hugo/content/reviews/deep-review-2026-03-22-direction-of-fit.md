@@ -28,7 +28,7 @@ None. The article's factual claims are accurate (Anscombe 1957, Searle 1983 attr
 ### Medium Issues Found
 1. **Inconsistent wikilink path prefix**: `[epiphenomenalism](/concepts/epiphenomenalism/)` used unnecessary `concepts/` prefix while all other wikilinks omit section prefixes. File is unambiguous. **Resolution**: Normalized to `[epiphenomenalism](/concepts/epiphenomenalism/)` across frontmatter, body text, and Further Reading (3 occurrences).
 
-2. **Missing inline cross-links**: `[mental-causation](/concepts/mental-causation/)` and `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` were discussed substantively in the body but only linked in Further Reading. **Resolution**: Added `[mind-body problem](/concepts/mental-causation/)` in the World-to-Mind section and `[phenomenal character](/concepts/cognitive-phenomenology/)` in the Normative Dimension section.
+2. **Missing inline cross-links**: `[mental-causation](/concepts/mental-causation-and-downward-causation/)` and `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)` were discussed substantively in the body but only linked in Further Reading. **Resolution**: Added `[mind-body problem](/concepts/mental-causation-and-downward-causation/)` in the World-to-Mind section and `[phenomenal character](/concepts/cognitive-phenomenology/)` in the Normative Dimension section.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. Findings align with previous review's stability notes:
@@ -63,7 +63,7 @@ All six adversarial personas engaged. Findings align with previous review's stab
 - Added inline cross-links to mental-causation and cognitive-phenomenology where those concepts are substantively discussed
 
 ### Cross-links Added
-- [mental-causation](/concepts/mental-causation/) — linked inline in World-to-Mind Fit section
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — linked inline in World-to-Mind Fit section
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — linked inline in Normative Dimension section
 
 ## Word Count

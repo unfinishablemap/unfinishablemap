@@ -172,7 +172,7 @@ If consciousness is not reducible to physical processes, it's not reducible to f
 
 ### Bidirectional Interaction
 
-If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes what the substrate does, adding nothing causally novel. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [causal-closure](/concepts/causal-closure/) at precisely the point where physics leaves outcomes open. This requires consciousness to be something with its own causal efficacy, not just a pattern description. See [mental-causation](/concepts/mental-causation/) for the full case.
+If consciousness is merely functional organization, it can't "do" anything beyond what the physical substrate already does—functional role redescribes what the substrate does, adding nothing causally novel. But the Map holds that consciousness causally influences physical outcomes at quantum indeterminacies, breaching [causal-closure](/concepts/causal-closure/) at precisely the point where physics leaves outcomes open. This requires consciousness to be something with its own causal efficacy, not just a pattern description. See [mental-causation](/concepts/mental-causation-and-downward-causation/) for the full case.
 
 ### Temporal Structure
 
@@ -219,7 +219,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [inverted-qualia](/concepts/inverted-qualia/) — The spectrum inversion thought experiment
 - [illusionism](/concepts/illusionism/) — The radical defense of functionalism
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The moderate defense against qualia objections
-- [mental-causation](/concepts/mental-causation/) — How consciousness might influence physics
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness might influence physics
 - [causal-closure](/concepts/causal-closure/) — The assumption functionalism inherits from materialism
 - [integrated-information-theory](/concepts/integrated-information-theory/) — A theory that partially rejects functionalism
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information's substrate independence doesn't extend to consciousness

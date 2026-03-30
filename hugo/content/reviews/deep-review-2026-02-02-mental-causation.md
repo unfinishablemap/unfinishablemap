@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-mental-causation/)
 **Word count**: 2933 → 2918 (-15, length-neutral)
 **Context**: Cross-review considering choking phenomenon insights

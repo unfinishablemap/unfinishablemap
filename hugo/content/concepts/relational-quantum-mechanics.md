@@ -68,7 +68,7 @@ RQM faces several objections, some more serious than others:
 
 Rovelli is explicit: "There is nothing subjective, idealistic, or mentalistic, in RQM." This is a feature, not a bug—RQM succeeds by eliminating the special status of consciousness that other interpretations invoke.
 
-The consequence: RQM provides no mechanism for [mental-causation](/concepts/mental-causation/). If any physical interaction is a "measurement," then a rock measuring a photon is equivalent to a physicist measuring one. Consciousness adds nothing. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—the claim that consciousness causally influences physical outcomes—has no place in RQM's framework.
+The consequence: RQM provides no mechanism for [mental-causation](/concepts/mental-causation-and-downward-causation/). If any physical interaction is a "measurement," then a rock measuring a photon is equivalent to a physicist measuring one. Consciousness adds nothing. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—the claim that consciousness causally influences physical outcomes—has no place in RQM's framework.
 
 For the Map, that's the fundamental incompatibility. RQM dissolves the measurement problem by dissolving the observer—making "observer" mean any physical system rather than a conscious subject. This elegantly avoids both the [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) and the [prebiotic collapse problem](/concepts/prebiotic-collapse/) (any physical interaction produces relative facts, so the early universe needed no conscious minds), but only by denying that consciousness matters at all.
 

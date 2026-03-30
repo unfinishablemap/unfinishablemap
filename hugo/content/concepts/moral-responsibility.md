@@ -81,7 +81,7 @@ Compatibilist desert is pragmatic: holding people responsible has good consequen
 
 ## The Role of Consciousness
 
-Moral responsibility requires consciousness. The agent that sources action is a conscious being with [mental causation](/concepts/mental-causation/). This connects to the [consciousness-value-connection](/concepts/consciousness-value-connection/): just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). [phenomenal-value-realism](/topics/phenomenal-value-realism/) deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame.
+Moral responsibility requires consciousness. The agent that sources action is a conscious being with [mental causation](/concepts/mental-causation-and-downward-causation/). This connects to the [consciousness-value-connection](/concepts/consciousness-value-connection/): just as consciousness grounds moral patienthood (who can be harmed), it grounds moral agency (who can be responsible). [phenomenal-value-realism](/topics/phenomenal-value-realism/) deepens this: the felt badness of suffering *constitutes* badness, so the agent who causes suffering causes something genuinely bad—not by convention but by the nature of phenomenal experience. Only a conscious being can genuinely author choices for which they deserve praise or blame.
 
 **Experience of alternatives**: Conscious choice involves experiencing alternatives as live options. Under agent causation, this phenomenology tracks reality—the alternatives were genuinely possible. The [phenomenology of moral life](/topics/phenomenology-of-moral-life/) traces the full arc of this experience—from perceiving moral demands through deliberative weighing to the felt ownership of having chosen.
 
@@ -93,7 +93,7 @@ Moral responsibility requires consciousness. The agent that sources action is a 
 
 **[Dualism](/tenets/#dualism)**: Without dualism, "agent causation" collapses into a description of complex physical processes—and desert becomes pragmatic fiction. The [illusionist](/concepts/illusionism/) challenge targets this: if phenomenal consciousness is illusory, the phenomenology of effort loses its evidential force.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness caused nothing, holding conscious agents responsible for physical outcomes would be incoherent. [Mental causation](/concepts/mental-causation/) provides what responsibility requires—the agent's phenomenal engagement shapes what happens.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness caused nothing, holding conscious agents responsible for physical outcomes would be incoherent. [Mental causation](/concepts/mental-causation-and-downward-causation/) provides what responsibility requires—the agent's phenomenal engagement shapes what happens.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Agents select quantum outcomes that physics leaves undetermined. The [decoherence](/concepts/decoherence/) challenge must be addressed, but [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates biological quantum effects despite thermal environments.
 
@@ -182,7 +182,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [free-will](/topics/free-will/) — The broader free will question and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Agent vs. event causation in detail
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Consciousness as the foundation of moral status
-- [mental-causation](/concepts/mental-causation/) — How consciousness can cause physical effects
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness can cause physical effects
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and why it fails to undermine desert
 - [decoherence](/concepts/decoherence/) — The quantum challenge and biological responses
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Responsibility without permanent selfhood

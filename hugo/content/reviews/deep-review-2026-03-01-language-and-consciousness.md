@@ -70,7 +70,7 @@ Six additional articles now link to `[language-and-consciousness](/concepts/lang
 4. **[problem-of-other-minds](/concepts/problem-of-other-minds/)** — Added inline in "Wittgensteinian Dissolution" section, explaining how the private language argument permits public language to refer to private experience. Also added to Further Reading.
 5. **[materialism](/concepts/materialism/)** — Added to Further Reading, noting how philosophy of language's reductive tools fail when applied to consciousness.
 6. **[language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)** — Added to Further Reading as the philosophical infrastructure underlying the empirical recursion-consciousness argument.
-7. **[mental-causation](/concepts/mental-causation/)** — Added inline in "Self-Stultification Argument" section connecting Grice's meaning analysis to meaningful utterance as mental causation.
+7. **[mental-causation](/concepts/mental-causation-and-downward-causation/)** — Added inline in "Self-Stultification Argument" section connecting Grice's meaning analysis to meaningful utterance as mental causation.
 
 ### Total Inbound Links (Cumulative)
 The article now has 13 inbound links from content articles:

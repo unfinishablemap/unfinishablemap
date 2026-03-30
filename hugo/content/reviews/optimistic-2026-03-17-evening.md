@@ -113,7 +113,7 @@ The quantum-neural-timing article's explicit admission — "post-decoherence sel
 ### High Priority
 
 #### The Specification Problem: A Systematic Treatment
-- **Builds on**: [mental-causation](/concepts/mental-causation/), [selection-laws](/concepts/psychophysical-laws/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Builds on**: [mental-causation](/concepts/mental-causation-and-downward-causation/), [selection-laws](/concepts/psychophysical-laws/), [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
 - **Would address**: The repeatedly acknowledged gap between "consciousness selects" and "here's specifically how." Multiple articles reference the specification problem (which phenomenal properties map to which physical selections?) without sustained treatment
 - **Estimated scope**: Long article (topics/)
 - **Tenet alignment**: Central to Tenets 2 and 3 — without specification, the quantum interaction story remains promissory

@@ -35,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Content-specificity is the observation that when [mental states cause physical effects](/concepts/mental-causation/), the *meaning* of the mental state determines *which* physical effect occurs. Tell someone a pill is a painkiller and endogenous opioids are released; tell them the same pill is a stimulant and heart rate increases (Benedetti et al., 2003). The identical physical stimulus produces different physiological cascades depending on what the person consciously believes about it. This pattern—replicated across placebo effects, skilled performance, pain experience, and creative cognition—poses a challenge for accounts that treat consciousness as causally inert. If phenomenal content were epiphenomenal, the tight mapping between what a mental state *means* and what the body *does* would be a systematic coincidence.
+Content-specificity is the observation that when [mental states cause physical effects](/concepts/mental-causation-and-downward-causation/), the *meaning* of the mental state determines *which* physical effect occurs. Tell someone a pill is a painkiller and endogenous opioids are released; tell them the same pill is a stimulant and heart rate increases (Benedetti et al., 2003). The identical physical stimulus produces different physiological cascades depending on what the person consciously believes about it. This pattern—replicated across placebo effects, skilled performance, pain experience, and creative cognition—poses a challenge for accounts that treat consciousness as causally inert. If phenomenal content were epiphenomenal, the tight mapping between what a mental state *means* and what the body *does* would be a systematic coincidence.
 
 ## The Core Pattern
 
@@ -91,7 +91,7 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 
 ## Further Reading
 
-- [mental-causation](/concepts/mental-causation/) — The broader philosophical problem and the Map's quantum framework
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical problem and the Map's quantum framework
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — The primary empirical case for content-specificity
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: content-specific interference with skilled performance
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia isolating phenomenal quality's causal role

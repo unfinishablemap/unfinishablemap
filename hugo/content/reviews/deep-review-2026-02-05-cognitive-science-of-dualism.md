@@ -79,7 +79,7 @@ None. The article is factually accurate with correct citations and attributions.
 - [explanatory-gap](/concepts/explanatory-gap/) (2 new inline links)
 - [materialism](/concepts/materialism/) (1 new inline link)
 - [introspection](/concepts/introspection/) (1 new inline link)
-- [mental-causation](/concepts/mental-causation/) (1 new inline link)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (1 new inline link)
 - [phenomenology](/concepts/phenomenology/) (1 new inline link)
 
 ## Remaining Items

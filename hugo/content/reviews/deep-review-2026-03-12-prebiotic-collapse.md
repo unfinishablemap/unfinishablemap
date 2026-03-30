@@ -58,7 +58,7 @@ Comprehensive — no additions needed. Recent cross-reference refinements (since
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
 - [many-worlds](/concepts/many-worlds/)
 - [combination-problem](/concepts/combination-problem/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 - [the-participatory-universe](/topics/the-participatory-universe/)
 - [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
 

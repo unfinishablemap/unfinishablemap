@@ -28,7 +28,7 @@ None. Article remains stable after five reviews.
 ### Medium Issues Found
 - **Missing cross-links to interaction problem content**: The article discusses Buddhist dependent origination, Yogācāra, karma as mental causation, and Advaita's levels of truth—all of which are interaction solutions explored in [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)—but had no link to that article. **Resolution**: Added cross-links in Yogācāra subsection, Relation to Site Perspective (Bidirectional Interaction), Further Reading, and frontmatter.
 - **Yogācāra's interaction-dissolving potential underexplored**: The interaction-problem article shows Yogācāra dissolves the interaction problem by making mind-body into mind-mind causation. The eastern-philosophy article mentioned Yogācāra without making this connection. **Resolution**: Added sentence explaining Yogācāra's approach to the interaction problem.
-- **Missing link to mental-causation concept**: Karma is described as mental causation but the concept page wasn't linked. **Resolution**: Added wikilink to [mental-causation](/concepts/mental-causation/) in Relation to Site Perspective and added to concepts frontmatter.
+- **Missing link to mental-causation concept**: Karma is described as mental causation but the concept page wasn't linked. **Resolution**: Added wikilink to [mental-causation](/concepts/mental-causation-and-downward-causation/) in Relation to Site Perspective and added to concepts frontmatter.
 
 ### Low Issues Found
 - Cessation/brain activity claim still lacks specific citation (deferred from previous review—not urgent)
@@ -57,11 +57,11 @@ None. Article remains stable after five reviews.
 ### Enhancements Made
 - Connected Yogācāra to the interaction problem, showing how it dissolves mind-body causation into mind-mind causation
 - Connected Bidirectional Interaction tenet discussion to the cross-traditional analysis of interaction solutions, showing how Eastern "non-contact" and "processual" approaches converge with the Map's quantum selection framework
-- Added cross-links to [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) and [mental-causation](/concepts/mental-causation/)
+- Added cross-links to [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) and [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
 ### Cross-links Added
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) (Yogācāra section, Relation to Site Perspective, Further Reading, frontmatter)
-- [mental-causation](/concepts/mental-causation/) (Relation to Site Perspective, concepts frontmatter)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (Relation to Site Perspective, concepts frontmatter)
 - [interactionist-dualism](/concepts/interactionist-dualism/) (concepts frontmatter)
 
 ## Length Analysis

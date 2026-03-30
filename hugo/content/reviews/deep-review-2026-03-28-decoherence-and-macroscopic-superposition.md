@@ -33,7 +33,7 @@ None. All attributions verified. No factual errors, no source/Map conflation, no
 1. **Missing connection to clinical neuroplasticity evidence**: The article discussed consciousness possibly acting at quantum measurement points but did not note the independent clinical evidence (Schwartz OCD research, CBT pathway divergence, meditation, placebo) that mental causation *occurs*. The Schwartz-Stapp-Beauregard (2005) paper explicitly connects self-directed neuroplasticity to the quantum Zeno mechanism discussed in this article, making this a natural bridge.
    - **Resolution**: Added a bridging paragraph in "What This Means for Consciousness" connecting the quantum boundary question to clinical neuroplasticity evidence. The paragraph distinguishes the *reality* of mental causation (established by clinical evidence) from the *mechanism* question (where the receding boundary is relevant).
 
-2. **Missing cross-links to mental causation content**: The Further Reading section had no link to `[clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)` or `[mental-causation](/concepts/mental-causation/)` despite direct relevance.
+2. **Missing cross-links to mental causation content**: The Further Reading section had no link to `[clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)` or `[mental-causation](/concepts/mental-causation-and-downward-causation/)` despite direct relevance.
    - **Resolution**: Added both cross-links to Further Reading.
 
 ### Counterarguments Considered
@@ -66,7 +66,7 @@ Applied six sympathetic philosopher personas with cross-review focus on clinical
 ### Cross-links Added
 
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
 ## Remaining Items
 

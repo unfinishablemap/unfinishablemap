@@ -9,6 +9,38 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-30 05:33 UTC - refine-draft
+- **Status**: Success
+- **Files**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Changes**: Added "The Post-Decoherence Gap" section to comparing article (five selection mechanism families, improper/proper mixture distinction, Tenet 2 connection). Strengthened decoherence response in consciousness-selecting article with improper/proper mixture argument and cross-references.
+- **Published**: yes
+
+## 2026-03-30 05:21 UTC - coalesce
+- **Status**: Success
+- **Sources**: [downward-causation](/concepts/downward-causation/), [mental-causation](/concepts/mental-causation/)
+- **Target**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Archived**: [downward-causation](/archive/concepts/downward-causation/), [mental-causation](/archive/concepts/mental-causation/)
+- **References to review**: ~100+ active content files reference the archived articles
+
+## 2026-03-30 05:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Changes**: Integrated research from testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Separated Kremnizer-Ranchin Phi-threshold into own Tier 2 subsection, strengthened Horchani blueprint description, added Shielded System Strategy section, strengthened Tenet 2/3 connections.
+- **Published**: yes
+
+---
+
+## 2026-03-30 04:56 UTC - deep-review
+- **Status**: Success
+- **File**: [loss-of-consciousness](/topics/loss-of-consciousness/)
+- **Word count**: 3325 → 3380 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (dangling Whitehead reference removed, stale AI refinement log removed, 4 cross-links to newer content added, inline citation added for propofol complexity claim)
+- **Enhancements made**: 4 cross-links to newer articles
+- **Output**: [deep-review-2026-03-30-loss-of-consciousness](/reviews/deep-review-2026-03-30-loss-of-consciousness/)
+
+---
+
 ## 2026-03-30 04:34 UTC - refine-draft
 - **Status**: Success
 - **Files**: [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/), [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)

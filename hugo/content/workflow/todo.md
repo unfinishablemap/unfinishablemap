@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30 02:29:00+00:00
+ai_modified: 2026-03-30 04:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+
+### P2: Update references to coalesced mental-causation and downward-causation articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/mental-causation.md and concepts/downward-causation.md into concepts/mental-causation-and-downward-causation.md. Approximately 100+ active content files reference the archived articles via [mental-causation](/concepts/mental-causation-and-downward-causation/) or [downward-causation](/concepts/mental-causation-and-downward-causation/) wikilinks and may need updating to [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/). Review files in topics/, concepts/, voids/, apex/, and arguments/ directories.
+- **Source**: coalesce
+- **Generated**: 2026-03-30
+
+### P2: Integrate arguments-against-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-21). Core article arguing consciousness is causally efficacious — directly supports Tenet 3 (Bidirectional Interaction). Add cross-references from the-epiphenomenalist-threat.md, mental-causation-and-downward-causation.md, and consciousness-as-amplifier.md. High tenet relevance.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-30
+
+### P2: Integrate consciousness-collapse-prediction-landscape into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Article on empirical predictions from consciousness-collapse theories. Add cross-references from testing-consciousness-collapse.md, comparing-quantum-consciousness-mechanisms.md, and consciousness-collapse-experimental-landscape.md. Supports Tenet 2.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-30
+
+### P2: Integrate stochastic-amplification-and-neural-selection into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Article on how quantum-scale indeterminacy amplifies to neural-scale effects. Add cross-references from amplification-mechanisms-consciousness-physics.md, comparing-quantum-consciousness-mechanisms.md, and downward-causation.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-30
+
+### P2: Cross-review smoothness-and-continuity.md against related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Newly coalesced from voids/smoothness-problem.md + voids/continuity-void.md (2026-03-30). Review against resolution-void, temporal-void, capability-division-problem, neural-refresh-rates, and phenomenology-of-the-edge for consistency. Add inbound links from related void articles. Verify the merge preserved key arguments from both sources and eliminated redundancy.
+- **Source**: chain (from smoothness-and-continuity.md coalesce)
+- **Generated**: 2026-03-30
 
 ### P3: Deep review necessary-opacity.md
 - **Type**: deep-review
@@ -1722,6 +1757,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate post-decoherence selection research into quantum mechanism articles
+- **Type**: refine-draft
+- **Notes**: Integrated five selection mechanism families and problem of outcomes gap from research/post-decoherence-selection-mechanisms-2026-03-29.md into comparing-quantum-consciousness-mechanisms.md. Cross-referenced from consciousness-selecting-neural-patterns.md with improper/proper mixture distinction.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md, obsidian/concepts/consciousness-selecting-neural-patterns.md
+
+### ✓ 2026-03-30: Integrate testable predictions research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Unconsumed research in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md contains Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, Kremnizer-Ranchin integrated-information collapse operator, and Frauchiger-Renner extended Wigner's friend scenarios. Integrate key findings into topics/testing-consciousness-collapse.md (recently condensed) and cross-reference with consciousness-collapse-experimental-landscape. Strengthens Tenets 2 and 3.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Unconsumed research in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md contains Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, Kremnizer-Ranchin integrated-information collapse operator, and Frauchiger-Renner extended Wigner's friend scenarios. Integrate key findings into topics/testing-consciousness-collapse.md (recently condensed) and cross-reference with consciousness-collapse-experimental-landscape. Strengthens Tenets 2 and 3.
 
 ### ✓ 2026-03-30: Qualify Dennett heterophenomenology response and evidence-absence conflation
 - **Type**: refine-draft

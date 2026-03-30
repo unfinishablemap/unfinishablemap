@@ -52,7 +52,7 @@ Can event causation reduce to substance causation, or vice versa? Lowe argued th
 
 The reverse reduction fails. You can't analyse "substance S exercised power P" purely in terms of events—you need S itself, the thing that persists and acts. Substances are ontologically prior.
 
-This matters for [mental causation](/concepts/mental-causation/). If event causation is fundamental, Kim's exclusion argument has force: mental events compete with physical events for causal responsibility. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
+This matters for [mental causation](/concepts/mental-causation-and-downward-causation/). If event causation is fundamental, Kim's exclusion argument has force: mental events compete with physical events for causal responsibility. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
 
 ## Lowe's Framework
 
@@ -87,7 +87,7 @@ Jonathan Jacobs and Timothy O'Connor's work (2013) develops this connection expl
 
 ## The Causal Closure Question
 
-Kim's exclusion argument against [mental causation](/concepts/mental-causation/) depends on [causal closure](/concepts/causal-closure/): every physical event has a sufficient physical cause. If true, mental causes seem excluded—the physical story is complete without them.
+Kim's exclusion argument against [mental causation](/concepts/mental-causation-and-downward-causation/) depends on [causal closure](/concepts/causal-closure/): every physical event has a sufficient physical cause. If true, mental causes seem excluded—the physical story is complete without them.
 
 Substance causation shifts the dialectic. The question isn't whether physical *events* are sufficient but whether physical *substances* are the only substances with causal powers. Physics describes regularities in what substances do; it doesn't prove that only physical substances exist.
 
@@ -152,8 +152,8 @@ Substance causation provides the metaphysical foundation for the Map's position 
 ## Further Reading
 
 - [agent-causation](/concepts/agent-causation/) — Substance causation applied to free will
-- [mental-causation](/concepts/mental-causation/) — The problem substance causation addresses
-- [downward-causation](/concepts/downward-causation/) — How higher-level substances influence lower-level processes
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem substance causation addresses
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How higher-level substances influence lower-level processes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework substance causation supports
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges
 - [luck-objection](/concepts/luck-objection/) — The main challenge to agent causation

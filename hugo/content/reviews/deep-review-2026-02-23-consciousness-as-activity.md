@@ -61,7 +61,7 @@ None.
 ### Cross-links Added
 - [embodied-cognition](/concepts/embodied-cognition/)
 - [predictive-processing](/concepts/predictive-processing/)
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
 
 ## Remaining Items

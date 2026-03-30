@@ -59,12 +59,12 @@ None. The article has no factual errors, attribution errors, internal contradict
 ### Enhancements Made
 
 1. **Reframed MWI argument** around indexical identity — logically precise and aligned with the tenet's own stated concern about indexical identity mattering.
-2. **Added [mental-causation](/concepts/mental-causation/) inline link** in the choking discussion — connects the concept listed in frontmatter to the body text.
+2. **Added [mental-causation](/concepts/mental-causation-and-downward-causation/) inline link** in the choking discussion — connects the concept listed in frontmatter to the body text.
 3. **Added [interactionist-dualism](/concepts/interactionist-dualism/) inline link** in Relation to Site Perspective — makes explicit that tight coupling is what interaction requires, connecting the listed concept to the argument.
 
 ### Cross-links Added
 
-- [mental-causation](/concepts/mental-causation/) — In the choking paragraph
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — In the choking paragraph
 - [interactionist-dualism](/concepts/interactionist-dualism/) — In the Dualism tenet paragraph
 
 ## Remaining Items

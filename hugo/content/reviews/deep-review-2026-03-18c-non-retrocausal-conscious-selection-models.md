@@ -58,7 +58,7 @@ All attributions verified in previous review and remain accurate. No changes to 
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — added parenthetical reference in framework comparison
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — added after tenet-compatible approaches
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — added after Zeno effect mention
-- [mental-causation](/concepts/mental-causation/) — added in quantum indeterminacy paragraph
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — added in quantum indeterminacy paragraph
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — added in consciousness selection section
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — added parenthetical in mechanism list
 - [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) — added in consciousness-as-candidate paragraph

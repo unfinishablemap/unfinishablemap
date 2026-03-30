@@ -177,7 +177,7 @@ Chalmers provides the philosophical framework the Map requires. His naturalistic
 - [functionalism](/concepts/functionalism/) — The view Chalmers tends toward, the Map rejects
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Chalmers' tendency, the Map's rejection
 - [haecceity](/concepts/haecceity/) — Why organisational invariance may fail
-- [mental-causation](/concepts/mental-causation/) — The downward direction Chalmers underspecifies
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The downward direction Chalmers underspecifies
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

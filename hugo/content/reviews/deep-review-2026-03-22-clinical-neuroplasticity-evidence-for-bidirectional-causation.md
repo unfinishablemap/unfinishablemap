@@ -30,7 +30,7 @@ None. Article has stabilised after two prior reviews.
 - **Citation format error**: "Schwartz et al., 1998" used for single-author paper. Resolution: Corrected to "Schwartz, 1998".
 - **Missing cross-link to content-specificity**: Placebo section discussed content-tracking pattern without referencing the dedicated [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) article. Resolution: Added inline cross-link and sentence connecting to the broader content-specificity pattern.
 - **Missing cross-link to consciousness-selecting**: Mechanisms section discussed Schwartz/Stapp/Beauregard quantum Zeno framework without linking to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/). Resolution: Added inline cross-link.
-- **Missing cross-link to downward-causation**: Convergence argument made the empirical case for strong downward causation without referencing the concept article. Resolution: Added inline cross-link and sentence connecting to [downward-causation](/concepts/downward-causation/).
+- **Missing cross-link to downward-causation**: Convergence argument made the empirical case for strong downward causation without referencing the concept article. Resolution: Added inline cross-link and sentence connecting to [downward-causation](/concepts/mental-causation-and-downward-causation/).
 - **Unsupported claim**: "Paradoxical lucidity in advanced dementia" lacked a reference. Resolution: Added Nahm et al. (2012) citation.
 
 ### Counterarguments Considered
@@ -49,7 +49,7 @@ No new counterarguments beyond those addressed in previous reviews (pathway dive
 ### Enhancements Made
 - Connected placebo section to broader [content-specificity pattern](/concepts/content-specificity-of-mental-causation/)
 - Linked mechanisms section to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
-- Connected convergence argument to [strong downward causation](/concepts/downward-causation/)
+- Connected convergence argument to [strong downward causation](/concepts/mental-causation-and-downward-causation/)
 - Added Nahm et al. (2012) reference for paradoxical lucidity
 - Fixed citation format error (Schwartz et al. → Schwartz)
 - Added three new concept cross-references to frontmatter
@@ -59,7 +59,7 @@ No new counterarguments beyond those addressed in previous reviews (pathway dive
 ### Cross-links Added
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) (placebo section inline + frontmatter + Further Reading)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) (mechanisms section inline + frontmatter + Further Reading)
-- [downward-causation](/concepts/downward-causation/) (convergence section inline + frontmatter + Further Reading)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) (convergence section inline + frontmatter + Further Reading)
 
 ## Remaining Items
 

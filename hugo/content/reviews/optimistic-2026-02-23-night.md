@@ -125,7 +125,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 - **Tenet alignment**: Dualism (contemplative evidence as first-person data supporting irreducibility), Minimal Quantum Interaction (jhana states may represent consciousness operating with minimal interface friction)
 
 #### The Bandwidth Problem in Mental Causation
-- **Builds on**: [downward-causation](/concepts/downward-causation/), [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/), [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
+- **Builds on**: [downward-causation](/concepts/mental-causation-and-downward-causation/), [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/), [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)
 - **Would address**: Multiple articles acknowledge the timing gap between conscious experience (~10 bits/second, ~300ms decisions) and quantum events (femtosecond timescales) without resolving it. A dedicated article could tackle this directly: does consciousness need to operate at quantum timescales, or does hierarchical architecture (consciousness → attention networks → threshold events → quantum indeterminacies) bridge the gap? This is the Map's most honest open problem and deserves dedicated treatment
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Minimal Quantum Interaction (specifying how minimality works across timescales), Bidirectional Interaction (mechanism detail)

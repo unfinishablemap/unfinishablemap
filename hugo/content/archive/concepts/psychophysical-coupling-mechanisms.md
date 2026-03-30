@@ -128,7 +128,7 @@ That said, the Map's framework doesn't get a free pass. If *no* coupling mechani
 
 - [psychophysical-coupling-law](/concepts/psychophysical-laws/) — The broader framework requiring mechanism specification
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring these mechanisms
-- [mental-causation](/concepts/mental-causation/) — How mental states produce physical effects
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How mental states produce physical effects
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing coupling pathways
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
 - [psychophysical-laws](/concepts/psychophysical-laws/) — General principles of mind-body correlation

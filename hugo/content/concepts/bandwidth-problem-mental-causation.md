@@ -124,8 +124,8 @@ The bandwidth problem also differs from the [binding problem](/concepts/binding-
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and its philosophical implications
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism that addresses the bandwidth problem
-- [downward-causation](/concepts/downward-causation/) — The broader framework for mental-to-physical causation
-- [mental-causation](/concepts/mental-causation/) — The philosophical problem of how mind affects body
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework for mental-to-physical causation
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of how mind affects body
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The coupling laws the bandwidth problem constrains
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the selection channel through which consciousness operates
 - [resolution-void](/voids/resolution-void/) — The broader resolution gap between brain processing and conscious access

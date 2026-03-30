@@ -58,13 +58,13 @@ All attributions verified correct: Cucu & Pitts (2019), Pitts (2022), Carroll, C
 New inbound links added to 6 articles:
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — "the mechanism satisfies conservation laws" → wikilinked
 - [quantum-consciousness](/concepts/quantum-consciousness/) — "No energy violation" point → wikilinked
-- [downward-causation](/concepts/downward-causation/) — "No energy injection" feature → wikilinked
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — "No energy injection" feature → wikilinked
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — minimality constraint → wikilinked
 - [coupling-modes](/concepts/coupling-modes/) — conservation concerns for probability control → wikilinked
 - [selection-laws](/concepts/psychophysical-laws/) — "without violating conservation laws" → wikilinked
 
 ### Stale Links Fixed
-- [mental-causation](/concepts/mental-causation/) — 2 instances of old slug `conservation-laws-mind-brain-causation` updated to new slug
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — 2 instances of old slug `conservation-laws-mind-brain-causation` updated to new slug
 
 ### Total Inbound Links
 Before: 18 content files (+ 1 stale)

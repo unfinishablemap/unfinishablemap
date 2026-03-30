@@ -151,7 +151,7 @@ The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) ga
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — Physical mechanisms for objective collapse (GRW, Penrose)
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Experimental tests of gravity-induced collapse, including nanoparticle interferometry and the MAQRO space mission
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Clinical evidence that mental causation occurs, including the Schwartz-Stapp-Beauregard quantum Zeno framework
-- [mental-causation](/concepts/mental-causation/) — The philosophical problem and the Map's quantum resolution
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem and the Map's quantum resolution
 - [free-will](/topics/free-will/) — How quantum indeterminacy relates to agent causation
 - [tenets](/tenets/) — The Map's foundational commitments
 

@@ -80,7 +80,7 @@ The Map denies causal closure—but not wholesale. [Causal closure](/concepts/ca
 
 The Map's approach adds a specific mechanism to the emergence debate. Classical British emergentists like Broad and Samuel Alexander affirmed strong emergence but accepted it with "natural piety"—as a brute fact admitting no mechanism. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete, where novel higher-level causation could operate without contradicting lower-level laws. Whether quantum indeterminacies in neural tissue survive decoherence long enough for this mechanism to operate remains contested. Tegmark's calculations suggest decoherence times far too short for neural relevance, though these have been challenged on their assumptions (see [quantum-consciousness](/concepts/quantum-consciousness/) for the debate). The Map treats the quantum mechanism as a promissory note rather than an established fact.
 
-Kim himself acknowledged the difficulty of formulating causal closure precisely. Too strong, and it begs the question against dualism. Too weak, and it permits the very mental causation it was meant to exclude. The quantum response threads this needle: physics is causally closed at the classical level but genuinely open at the quantum level. [Downward causation](/concepts/downward-causation/) operates at this opening.
+Kim himself acknowledged the difficulty of formulating causal closure precisely. Too strong, and it begs the question against dualism. Too weak, and it permits the very mental causation it was meant to exclude. The quantum response threads this needle: physics is causally closed at the classical level but genuinely open at the quantum level. [Downward causation](/concepts/mental-causation-and-downward-causation/) operates at this opening.
 
 ## What Strong Emergence Reveals
 
@@ -90,7 +90,7 @@ Accepting strong emergence transforms the metaphysical landscape in several ways
 
 **Explanation has real limits.** If consciousness is strongly emergent, then there exist truths about the world that physical science cannot in principle capture—not because of practical limitations but because of the nature of reality itself. The [emergence-void](/voids/emergence-void/) explores this as a cognitive limit: the systematic inability to grasp how arrangement produces novelty may reflect a genuine boundary in what explanation can achieve. The [fifth tenet](/tenets/#occams-limits)—Occam's Razor Has Limits—follows directly: if reality contains strong emergence, then the preference for simpler (reductive) explanations will systematically mislead.
 
-**[Mental causation](/concepts/mental-causation/) is real.** Strong emergence with downward causation means consciousness genuinely does things. Decisions are not merely physical processes that feel like choices—they involve non-physical properties causally influencing physical outcomes. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) provides independent support: if consciousness were causally inert, natural selection could not have shaped it. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is a commitment to this: consciousness acts on the world, not just accompanies it.
+**[Mental causation](/concepts/mental-causation-and-downward-causation/) is real.** Strong emergence with downward causation means consciousness genuinely does things. Decisions are not merely physical processes that feel like choices—they involve non-physical properties causally influencing physical outcomes. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) provides independent support: if consciousness were causally inert, natural selection could not have shaped it. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is a commitment to this: consciousness acts on the world, not just accompanies it.
 
 **[epiphenomenalism](/concepts/epiphenomenalism/) is false.** If consciousness is strongly emergent *and* causally efficacious, the epiphenomenalist picture—consciousness as a causally inert byproduct—is wrong. The Map's quantum mechanism provides the explanation for how this works: consciousness selects among physically undetermined outcomes, giving it genuine causal power without requiring energy injection.
 
@@ -135,8 +135,8 @@ The Map's framework is best understood as *emergentist interactionism*: consciou
 - [emergence](/concepts/emergence/) — The technical concept: weak vs. strong emergence, Kim's argument, the Map's mechanism
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The deepest instance of strong emergence
-- [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
-- [mental-causation](/concepts/mental-causation/) — The philosophical problem strong emergence addresses
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How emergent properties causally influence lower levels
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem strong emergence addresses
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [reductionism](/concepts/reductionism/) — The three types and why consciousness resists each
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism

@@ -63,7 +63,7 @@ None. The article remains internally consistent, factually accurate, and well-st
 - Connected specification problem to interface-specification-problem article
 
 ### Cross-links Added
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)

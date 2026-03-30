@@ -182,7 +182,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 - [combination-problem](/concepts/combination-problem/) — The central challenge for panpsychist and process approaches
 - [emergence](/concepts/emergence/) — What process philosophy says about how complexity arises
 - [phenomenal unity](/concepts/unity-of-consciousness/) — How many experiences become one
-- [downward-causation](/concepts/downward-causation/) — How higher-level processes influence lower-level ones
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How higher-level processes influence lower-level ones
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle process philosophy claims to dissolve
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) — Process dissolution as one of five recurring solution types

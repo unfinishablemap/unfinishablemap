@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate post-decoherence selection research into quantum mechanism articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Unconsumed research in research/post-decoherence-selection-mechanisms-2026-03-29.md catalogues five selection mechanism families and establishes that decoherence leaves a "problem of outcomes" gap where consciousness could act. Integrate findings into comparing-quantum-consciousness-mechanisms.md and cross-reference from consciousness-selecting-neural-patterns.md. The post-decoherence gap argument is central to Tenet 2.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Update references to coalesced mental-causation and downward-causation articles
 - **Type**: cross-review
 - **Notes**: Coalesce merged concepts/mental-causation.md and concepts/downward-causation.md into concepts/mental-causation-and-downward-causation.md. Approximately 100+ active content files reference the archived articles via [[mental-causation]] or [[downward-causation]] wikilinks and may need updating to [[mental-causation-and-downward-causation]]. Review files in topics/, concepts/, voids/, apex/, and arguments/ directories.
@@ -1762,6 +1755,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate post-decoherence selection research into quantum mechanism articles
+- **Type**: refine-draft
+- **Notes**: Unconsumed research in research/post-decoherence-selection-mechanisms-2026-03-29.md catalogues five selection mechanism families and establishes that decoherence leaves a "problem of outcomes" gap where consciousness could act. Integrate findings into comparing-quantum-consciousness-mechanisms.md and cross-reference from consciousness-selecting-neural-patterns.md. The post-decoherence gap argument is central to Tenet 2.
+- **Output**: Task context:
+Unconsumed research in research/post-decoherence-selection-mechanisms-2026-03-29.md catalogues five selection mechanism families and establishes that decoherence leaves a "problem of outcomes" gap where consciousness could act. Integrate findings into comparing-quantum-consciousness-mechanisms.md and cross-reference from consciousness-selecting-neural-patterns.md. The post-decoherence gap argument is central to Tenet 2.
+
+### ✓ 2026-03-30: Integrate post-decoherence selection research into quantum mechanism articles
+- **Type**: refine-draft
+- **Notes**: Integrated five selection mechanism families and problem of outcomes gap from research/post-decoherence-selection-mechanisms-2026-03-29.md into comparing-quantum-consciousness-mechanisms.md. Cross-referenced from consciousness-selecting-neural-patterns.md with improper/proper mixture distinction.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md, obsidian/concepts/consciousness-selecting-neural-patterns.md
 
 ### ✓ 2026-03-30: Integrate testable predictions research into testing-consciousness-collapse.md
 - **Type**: refine-draft

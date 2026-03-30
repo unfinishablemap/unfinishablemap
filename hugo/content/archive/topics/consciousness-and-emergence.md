@@ -61,7 +61,7 @@ If consciousness is strongly emergent, it possesses properties not deducible eve
 
 This is the Map's position. Strong emergence says the universe contains real novelty: properties that are not implicit in the fundamental physical inventory but arise when matter organises in certain ways. Consciousness is the paradigm case—C.D. Broad's criterion that emergent properties "cannot, even in theory, be deduced from the most complete knowledge" of components applies most clearly to the relationship between neurons and experience.
 
-Strong emergence demands a mechanism for [downward-causation](/concepts/downward-causation/)—how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [epiphenomenal](/concepts/epiphenomenalism/): real but causally inert, a metaphysical spectator. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies. This answers Jaegwon Kim's [exclusion argument](/concepts/emergence/#kims-exclusion-argument) by targeting causal closure where physics is genuinely incomplete.
+Strong emergence demands a mechanism for [downward-causation](/concepts/mental-causation-and-downward-causation/)—how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [epiphenomenal](/concepts/epiphenomenalism/): real but causally inert, a metaphysical spectator. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies. This answers Jaegwon Kim's [exclusion argument](/concepts/emergence/#kims-exclusion-argument) by targeting causal closure where physics is genuinely incomplete.
 
 The cost of strong emergence is accepting that reality contains more than physics describes. For many philosophers, this is too high a price. For the Map, it is an honest acknowledgment that the simplest ontology is not always the correct one—which is what the [fifth tenet](/tenets/#occams-limits) asserts.
 
@@ -87,7 +87,7 @@ The choice of emergence model is not an abstract metaphysical preference. It det
 
 ### Do Your Choices Matter?
 
-The emergence question connects directly to [free will](/topics/free-will/) and [mental-causation](/concepts/mental-causation/).
+The emergence question connects directly to [free will](/topics/free-will/) and [mental-causation](/concepts/mental-causation-and-downward-causation/).
 
 **Weak emergence preserves the appearance of choice but not the reality.** If consciousness is derivable from physics, and physics is deterministic (or randomly indeterminate), then conscious decisions are determined by physical processes. The feeling of choosing is real as a felt experience, but the outcome was fixed by the prior physical state. Compatibilists argue this is enough for meaningful agency; the Map disagrees.
 
@@ -132,8 +132,8 @@ The Map treats the gap as ontological. The [hard problem](/topics/hard-problem-o
 - [emergence-void](/voids/emergence-void/) — The cognitive limit: why no mind can fully grasp how arrangement produces novelty
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness emerged and what this reveals
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The deepest instance of the emergence question
-- [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
-- [mental-causation](/concepts/mental-causation/) — The philosophical problem strong emergence addresses
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How emergent properties causally influence lower levels
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem strong emergence addresses
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's parallel challenge at the same boundary
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's framework as strong emergentism with mechanism

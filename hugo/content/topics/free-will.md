@@ -107,7 +107,7 @@ If consciousness selects neural patterns, shouldn't selection occur *before* neu
 
 ## Mental Causation and Epiphenomenalism
 
-Free will requires [mental-causation](/concepts/mental-causation/): decisions must cause physical outcomes. Kim's exclusion argument challenges this, but the Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts.
+Free will requires [mental-causation](/concepts/mental-causation-and-downward-causation/): decisions must cause physical outcomes. Kim's exclusion argument challenges this, but the Map responds: physics provides *necessary but not sufficient* causes where genuine indeterminacy exists. [Causal closure](/concepts/causal-closure/) fails precisely where consciousness acts.
 
 [Epiphenomenalism](/concepts/epiphenomenalism/) faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. The [argument-from-reason](/topics/argument-from-reason/) extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate.
 
@@ -177,7 +177,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [Free Will (concept overview)](/concepts/concept-of-free-will/) — The core concept: agent-causal libertarian free will grounded in phenomenology and quantum selection
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, including substance causation
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
-- [mental-causation](/concepts/mental-causation/) — How the framework addresses Kim's exclusion argument
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How the framework addresses Kim's exclusion argument
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deciding
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Consciousness-dependent capacity to imagine alternatives

@@ -99,7 +99,7 @@ The Unfinishable Map separates two claims often conflated:
 
 1. **Collapse is real.** Quantum measurement produces definite outcomes; the universe has one actual history. This is the [No Many Worlds](/tenets/#no-many-worlds) commitment.
 
-2. **Consciousness interfaces with collapse in neural systems.** This is the mechanism for [mental causation](/concepts/mental-causation/), operating at quantum indeterminacies through [minimal quantum interaction](/tenets/#minimal-quantum-interaction).
+2. **Consciousness interfaces with collapse in neural systems.** This is the mechanism for [mental causation](/concepts/mental-causation-and-downward-causation/), operating at quantum indeterminacies through [minimal quantum interaction](/tenets/#minimal-quantum-interaction).
 
 But (2) does not entail that consciousness is universally required for collapse. Objective reduction—physical collapse mechanisms—provides the baseline. The early universe collapsed through physics alone.
 
@@ -157,7 +157,7 @@ This is not a solution but a different framework with its own difficulties:
 
 **[Indexical identity](/concepts/haecceity/)**: Why am I *this* observer in *this* branch? If all branches are equally real, the question "why this outcome?" merely relocates to "why this me?" MWI defenders dismiss indexical questions as pseudo-problems, but this seems to mistake physics for metaphysics. The question "which me?" isn't asking for a physical fact but for a first-person fact—and first-person facts don't reduce to third-person descriptions of branches. The explanatory burden shifts from physics to metaphysics without resolution.
 
-**Consciousness becomes epiphenomenal**: If all outcomes occur regardless of consciousness, consciousness doesn't select anything—it merely accompanies one branch among many. This conflicts with the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. We hold that consciousness causally participates in determining outcomes—that [mental-causation](/concepts/mental-causation/) is real, not illusory.
+**Consciousness becomes epiphenomenal**: If all outcomes occur regardless of consciousness, consciousness doesn't select anything—it merely accompanies one branch among many. This conflicts with the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. We hold that consciousness causally participates in determining outcomes—that [mental-causation](/concepts/mental-causation-and-downward-causation/) is real, not illusory.
 
 **Occam's Razor cuts both ways**: MWI seems parsimonious (no collapse mechanism needed), but it posits an infinity of unobservable universes. Whether this counts as simple depends on what simplicity means—and the Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet questions simplicity as a reliable guide to metaphysical truth.
 

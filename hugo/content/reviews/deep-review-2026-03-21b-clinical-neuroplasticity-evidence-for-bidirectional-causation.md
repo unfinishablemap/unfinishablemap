@@ -48,7 +48,7 @@ topics: []
 
 **Concept articles:**
 - [neuroplasticity](/concepts/neuroplasticity/) — Added to related_articles and Further Reading
-- [mental-causation](/concepts/mental-causation/) — Added to Further Reading
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added to Further Reading
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — Added new "Clinical Neuroplasticity" subsection in Empirical Support + Further Reading
 - [causal-closure](/concepts/causal-closure/) — Added to Further Reading
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Added inline link in Contemplative Neuroscience Evidence section + Further Reading

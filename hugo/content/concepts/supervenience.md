@@ -89,7 +89,7 @@ This is precisely the Map's position. The correlation between brain states and e
 
 Jaegwon Kim's exclusion argument uses supervenience to argue *against* non-reductive physicalism and, by extension, against dualist mental causation. The argument runs: if mental properties supervene on physical properties, then for any mental cause M of a physical effect P, there exists a physical supervenience base M* that is sufficient for P. The mental cause is either identical to M* (reduction) or excluded by it ([epiphenomenalism](/concepts/epiphenomenalism/)). The mental is stripped of genuine [causal-powers](/concepts/causal-powers/) — it becomes causally redundant.
 
-Kim himself concluded that non-reductive physicalism is unstable — it collapses into either reductionism or epiphenomenalism. The Map agrees with Kim's diagnosis of non-reductive physicalism but draws a different conclusion: the problem lies not with mental causation but with the assumption of [causal closure](/concepts/causal-closure/). At quantum indeterminacies, physics does not provide sufficient physical causes. Consciousness can select among physically underdetermined outcomes without competing with physical causes — because at those junctures, there is no sufficient physical cause to compete with. [Mental causation](/concepts/mental-causation/) operates in the gaps that physics itself acknowledges.
+Kim himself concluded that non-reductive physicalism is unstable — it collapses into either reductionism or epiphenomenalism. The Map agrees with Kim's diagnosis of non-reductive physicalism but draws a different conclusion: the problem lies not with mental causation but with the assumption of [causal closure](/concepts/causal-closure/). At quantum indeterminacies, physics does not provide sufficient physical causes. Consciousness can select among physically underdetermined outcomes without competing with physical causes — because at those junctures, there is no sufficient physical cause to compete with. [Mental causation](/concepts/mental-causation-and-downward-causation/) operates in the gaps that physics itself acknowledges.
 
 ## Relation to Site Perspective
 
@@ -97,15 +97,15 @@ The Unfinishable Map's relationship to supervenience is carefully calibrated. Th
 
 The [Dualism tenet](/tenets/#dualism) holds that consciousness is not reducible to physical processes. Supervenience-as-correlation is compatible with this: the correlation is real but is sustained by fundamental [psychophysical laws](/concepts/psychophysical-laws/) rather than by metaphysical identity. The phenomenal is ontologically additional to the physical, even though it lawfully tracks it.
 
-The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) adds a further dimension. Standard supervenience is asymmetric — the physical determines the mental, not the reverse. The Map insists on bidirectional determination: consciousness also causally influences the physical through [downward causation](/concepts/downward-causation/) at quantum indeterminacies. This means the Map's picture is not mere supervenience but *mutual constraint* — physical states constrain which experiences are possible, and conscious states constrain which physical outcomes become actual.
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) adds a further dimension. Standard supervenience is asymmetric — the physical determines the mental, not the reverse. The Map insists on bidirectional determination: consciousness also causally influences the physical through [downward causation](/concepts/mental-causation-and-downward-causation/) at quantum indeterminacies. This means the Map's picture is not mere supervenience but *mutual constraint* — physical states constrain which experiences are possible, and conscious states constrain which physical outcomes become actual.
 
 The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is relevant because supervenience is often wielded as a parsimony argument: "Why posit anything beyond the physical if the physical determines everything?" But determination-without-explanation is not ontological parsimony — it is an unresolved mystery wearing a formal label. The apparent simplicity of "everything supervenes on the physical" conceals the explanatory gap rather than closing it.
 
 ## Further Reading
 
 - [emergence](/concepts/emergence/)
-- [mental-causation](/concepts/mental-causation/)
-- [downward-causation](/concepts/downward-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [psychophysical-laws](/concepts/psychophysical-laws/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [explanatory-gap](/concepts/explanatory-gap/)

@@ -65,7 +65,7 @@ topics: []
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) (Philosophy of Mind section)
-- [downward-causation](/concepts/downward-causation/) (Bidirectional Interaction paragraph)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) (Bidirectional Interaction paragraph)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) (Contemplative Investigation section)
 - [introspection](/concepts/introspection/) (Contemplative Investigation section)
 - [agent-causation](/concepts/agent-causation/) (Further Reading)

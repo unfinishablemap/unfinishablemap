@@ -72,7 +72,7 @@ Where would the divergence appear? Consider three domains. First, *philosophical
 
 A zombie might produce the initial problem reports—"consciousness seems hard to explain"—because these track functional features of self-models. But the zombie's philosophical reasoning about consciousness should lack the capacity for genuine insight that comes from attending to the phenomenon itself.
 
-This connects to the [self-stultification](/concepts/self-stultification/) argument—a specific instance of the broader [mental-causation](/concepts/mental-causation/) problem. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. Our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. Interactionism avoids this: our conviction is informed because consciousness participates in producing it.
+This connects to the [self-stultification](/concepts/self-stultification/) argument—a specific instance of the broader [mental-causation](/concepts/mental-causation-and-downward-causation/) problem. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. Our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. Interactionism avoids this: our conviction is informed because consciousness participates in producing it.
 
 ## Frankish's Radical Move
 
@@ -125,7 +125,7 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 - [illusionism](/concepts/illusionism/) — The position most challenged by the metaproblem
 - [self-stultification](/concepts/self-stultification/) — The broader argument that epiphenomenalism is self-undermining
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why every non-eliminativist position converges on causal impotence
-- [mental-causation](/concepts/mental-causation/) — The problem the metaproblem's realizationism argument addresses
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem the metaproblem's realizationism argument addresses
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — How consciousness does causal work
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — The evolutionary case for consciousness having causal efficacy
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment sharpening the zombie divergence prediction

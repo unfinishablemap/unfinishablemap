@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-26
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-mental-causation/)
 **Word count**: 2907 → 2908 (+1, length-neutral)
 **Context**: Cross-review considering psychophysical laws framework

@@ -204,7 +204,7 @@ HOT operates at the cognitive level without invoking [quantum mechanics](/tenets
 
 The disagreement has empirical implications. HOT predicts consciousness should be fully explicable in terms of classical neural computation. The Map's quantum proposal predicts anomalies that classical HOT cannot accommodate—though detecting such effects remains technically challenging.
 
-HOT's classical framing also affects its treatment of [mental causation](/concepts/mental-causation/). If higher-order thoughts are just neural computations, they inherit whatever causal efficacy neural computations have—but this is garden-variety physical causation, not the distinctive mental causation the Map's framework requires. The felt efficacy of conscious effort, attention, and decision would be epiphenomenal: the computation does the work while consciousness watches. HOT thus struggles with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet for reasons beyond its bottom-up framing.
+HOT's classical framing also affects its treatment of [mental causation](/concepts/mental-causation-and-downward-causation/). If higher-order thoughts are just neural computations, they inherit whatever causal efficacy neural computations have—but this is garden-variety physical causation, not the distinctive mental causation the Map's framework requires. The felt efficacy of conscious effort, attention, and decision would be epiphenomenal: the computation does the work while consciousness watches. HOT thus struggles with the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet for reasons beyond its bottom-up framing.
 
 ## Assessment
 
@@ -224,7 +224,7 @@ The hard problem remains hard.
 - [functionalism](/concepts/functionalism/) — The philosophical framework underlying HOT
 - [illusionism](/concepts/illusionism/) — HOT's logical extreme: phenomenal consciousness as illusion
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Physicalism's parallel attempt to explain the gap
-- [mental-causation](/concepts/mental-causation/) — Where HOT's classical framing creates problems
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Where HOT's classical framing creates problems
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Comprehensive taxonomy where monitoring consciousness fits alongside phenomenal and access types
 - [ai-consciousness](/topics/ai-consciousness/) — Where HOT's implications meet the Map's skepticism
 - [higher-order-theories-consciousness-2026-01-14](/research/higher-order-theories-consciousness-2026-01-14/) — Detailed research notes

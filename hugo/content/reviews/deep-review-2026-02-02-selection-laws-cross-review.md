@@ -59,8 +59,8 @@ This review focused on **integration** rather than content enhancement:
 ### Cross-links Added
 The selection-laws article now has 6 inbound content links (up from 0):
 - [psychophysical-laws](/concepts/psychophysical-laws/)
-- [mental-causation](/concepts/mental-causation/)
-- [downward-causation](/concepts/downward-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/)
 - [bidirectional-interaction](/concepts/bidirectional-interaction/)
 - [quantum-consciousness](/concepts/quantum-consciousness/)

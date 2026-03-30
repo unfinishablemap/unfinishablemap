@@ -111,7 +111,7 @@ The weak/strong boundary connects to the Map's tenets at multiple points.
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The deepest instance of the emergence question
 - [reductionism](/concepts/reductionism/) — The three types and why consciousness resists each
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergence must deny
-- [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How emergent properties causally influence lower levels
 
 ## References
 

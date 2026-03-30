@@ -179,7 +179,7 @@ The [objections-to-interactionism](/concepts/objections-to-interactionism/) arti
 - [haecceity](/concepts/haecceity/) - Primitive "thisness" as individuating principle
 - [interactionist-dualism](/concepts/interactionist-dualism/) - The position the pairing problem challenges
 - [causal-closure](/concepts/causal-closure/) - The distinct (but related) closure objection
-- [mental-causation](/concepts/mental-causation/) - The general problem of how minds cause physical effects
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) - The general problem of how minds cause physical effects
 - [substance-property-dualism](/concepts/substance-property-dualism/) - The choice between dualist frameworks
 - [quantum-consciousness](/concepts/quantum-consciousness/) - The quantum mechanisms that address both objections
 - [illusionism](/concepts/illusionism/) - The eliminativist challenge to the problem's presuppositions

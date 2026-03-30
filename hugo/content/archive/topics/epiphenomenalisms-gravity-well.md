@@ -47,7 +47,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article surv
 
 ## What Generates the Pull
 
-The gravity well has a single source: the [causal closure of physics](/concepts/causal-closure/). If every physical event that has a cause has a sufficient physical cause, then any non-physical property—however real—has no causal work left to do. Jaegwon Kim's [exclusion argument](/concepts/mental-causation/) formalised this: where physical causes are sufficient, mental causes are either identical to them or excluded by them.
+The gravity well has a single source: the [causal closure of physics](/concepts/causal-closure/). If every physical event that has a cause has a sufficient physical cause, then any non-physical property—however real—has no causal work left to do. Jaegwon Kim's [exclusion argument](/concepts/mental-causation-and-downward-causation/) formalised this: where physical causes are sufficient, mental causes are either identical to them or excluded by them.
 
 This creates a dilemma that functions like gravitational attraction. Any theory that takes two steps—accepting that consciousness is real and distinct from physics, and accepting that physics is causally complete—finds itself at step three: consciousness does nothing. The pull is not optional. It follows from the logical structure of the commitments, not from any particular empirical finding.
 
@@ -122,7 +122,7 @@ The well metaphor also illuminates why the Map treats the epiphenomenalist threa
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Which theories fall in and how the Map escapes
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view itself and the self-stultification objection
 - [causal-closure](/concepts/causal-closure/) — The principle that generates the pull
-- [mental-causation](/concepts/mental-causation/) — Kim's exclusion argument and the quantum response
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and the quantum response
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causal influence consciousness exercises
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework for escape
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from observation to axiom

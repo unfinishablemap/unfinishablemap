@@ -27,7 +27,7 @@ topics: []
 
 ### Medium Issues Found
 - **Churchland attribution: source/Map conflation**: The article said Churchland qualifies that parsimony is "not a conclusive argument for materialism" *because the explanatory-adequacy precondition is not met*. The research notes show Churchland said the razor is "inconclusive regarding duality" — the specific reason about explanatory-adequacy preconditions was the Map's interpretation presented as Churchland's reasoning. [Resolution: Rewrote to use wording closer to the source, removing the interpretive reason.]
-- **Missing cross-links**: Several concepts explicitly discussed in the article (functionalism, global workspace theory, idealism, mental causation) had no wikilinks to their existing concept pages. [Resolution: Added [functionalism](/concepts/functionalism/), [global-workspace-theory](/concepts/global-workspace-theory/), [idealism](/concepts/idealism/), and [mental-causation](/concepts/mental-causation/) links.]
+- **Missing cross-links**: Several concepts explicitly discussed in the article (functionalism, global workspace theory, idealism, mental causation) had no wikilinks to their existing concept pages. [Resolution: Added [functionalism](/concepts/functionalism/), [global-workspace-theory](/concepts/global-workspace-theory/), [idealism](/concepts/idealism/), and [mental-causation](/concepts/mental-causation-and-downward-causation/) links.]
 - **Stale AI refinement log**: HTML comment at the bottom said "This log should be removed after human review." Since this is AI-authored content and the changes are now reviewed, the comment was clutter. [Resolution: Removed.]
 
 ### Counterarguments Considered
@@ -62,7 +62,7 @@ topics: []
 - [functionalism](/concepts/functionalism/)
 - [global-workspace-theory](/concepts/global-workspace-theory/)
 - [idealism](/concepts/idealism/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
 ## Word Count
 - Before: 2450 words

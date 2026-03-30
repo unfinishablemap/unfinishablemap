@@ -28,7 +28,7 @@ None. The article was factually accurate and logically coherent.
 ### Medium Issues Found
 - **Decoherence objection not addressed**: The Tegmark decoherence calculation (10⁻¹³ to 10⁻²⁰ seconds for neural microtubules) was not engaged in this article despite being a major physics objection. **Resolution**: Added "The Decoherence Challenge" subsection with three responses (revised timescales, Zeno sidestep, quantum biology precedents).
 - **Indexical argument against MWI could be stronger**: The claim that "indexical questions relocate the problem" was stated without fully engaging the MWI response that indexical questions are meaningless. **Resolution**: Expanded to explain that indexical questions concern first-person facts that don't reduce to third-person descriptions.
-- **Missing cross-links**: The article didn't link to [decoherence](/concepts/decoherence/), [haecceity](/concepts/haecceity/), or [mental-causation](/concepts/mental-causation/). **Resolution**: Added cross-links in text and frontmatter.
+- **Missing cross-links**: The article didn't link to [decoherence](/concepts/decoherence/), [haecceity](/concepts/haecceity/), or [mental-causation](/concepts/mental-causation-and-downward-causation/). **Resolution**: Added cross-links in text and frontmatter.
 
 ### Counterarguments Considered
 - **Tegmark's decoherence argument**: Now addressed with three responses in dedicated subsection.
@@ -51,13 +51,13 @@ None. The article was factually accurate and logically coherent.
 - Added "The Decoherence Challenge" subsection with three responses
 - Strengthened indexical identity argument with philosophical substance
 - Added [haecceity](/concepts/haecceity/) link in MWI section
-- Added [mental-causation](/concepts/mental-causation/) link to reinforce consciousness's causal efficacy
+- Added [mental-causation](/concepts/mental-causation-and-downward-causation/) link to reinforce consciousness's causal efficacy
 - Added Tegmark (2000) and Hagan et al. (2002) to References
 
 ### Cross-links Added
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
 ## Word Count Change
 - Before: 1833 words (61% of 3000 target)

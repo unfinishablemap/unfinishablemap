@@ -35,7 +35,7 @@ topics:
 - '[[epistemology-of-convergence-arguments]]'
 ---
 
-Philosophical traditions that developed in isolation—Indian, African, and Western—independently concluded that consciousness causally influences the physical world. This cross-cultural convergence on [mental causation](/concepts/mental-causation/) is evidentially significant. When independent lines of inquiry reach the same conclusion through different methods and frameworks, the probability that all are wrong drops substantially. The pattern supports [interactionist-dualism](/concepts/interactionist-dualism/) not through any single tradition's authority, but through the collective weight of independent discovery.
+Philosophical traditions that developed in isolation—Indian, African, and Western—independently concluded that consciousness causally influences the physical world. This cross-cultural convergence on [mental causation](/concepts/mental-causation-and-downward-causation/) is evidentially significant. When independent lines of inquiry reach the same conclusion through different methods and frameworks, the probability that all are wrong drops substantially. The pattern supports [interactionist-dualism](/concepts/interactionist-dualism/) not through any single tradition's authority, but through the collective weight of independent discovery.
 
 ## The Convergence Pattern
 

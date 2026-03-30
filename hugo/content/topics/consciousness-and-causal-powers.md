@@ -49,7 +49,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-If consciousness has genuine causal powers—if it does more than merely accompany physical processes—then understanding the nature and scope of those powers becomes central to the philosophy of mind. The question is not simply whether consciousness causes anything (addressed in [mental-causation](/concepts/mental-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)) but what *kind* of causation consciousness exercises and what limits constrain it. The Unfinishable Map holds that consciousness possesses a specific and limited causal power: the capacity to bias quantum indeterminacies in neural systems toward certain outcomes without violating physical conservation laws. This is not the unconstrained psychokinesis of science fiction but a precise interface between phenomenal experience and physical reality.
+If consciousness has genuine causal powers—if it does more than merely accompany physical processes—then understanding the nature and scope of those powers becomes central to the philosophy of mind. The question is not simply whether consciousness causes anything (addressed in [mental-causation](/concepts/mental-causation-and-downward-causation/) and [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)) but what *kind* of causation consciousness exercises and what limits constrain it. The Unfinishable Map holds that consciousness possesses a specific and limited causal power: the capacity to bias quantum indeterminacies in neural systems toward certain outcomes without violating physical conservation laws. This is not the unconstrained psychokinesis of science fiction but a precise interface between phenomenal experience and physical reality.
 
 The question matters because different answers lead to radically different worldviews. If consciousness has no causal powers ([epiphenomenalism](/concepts/epiphenomenalism/))—the default destination that [the epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) shows most frameworks converge on—then everything we do would happen exactly the same way if we were unconscious automata—our experiences are merely along for the ride. If consciousness has unlimited causal powers, we enter the territory of magic and pseudoscience. The Map stakes out middle ground: consciousness has real but circumscribed causal influence, operating within the constraints physics provides.
 
@@ -201,8 +201,8 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 
 ## Further Reading
 
-- [mental-causation](/concepts/mental-causation/) — The philosophical problem of how mental states cause physical effects
-- [downward-causation](/concepts/downward-causation/) — How higher-level properties influence lower-level processes
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of how mental states cause physical effects
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How higher-level properties influence lower-level processes
 - [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Voluntary imagery as concrete evidence for consciousness's causal powers
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence from natural selection for causal efficacy
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Formal frameworks for mind-matter interaction

@@ -53,7 +53,7 @@ No new counterarguments needed. Previous review already addressed functionalist 
 - **[history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/)**: Added contextual link in "Shape of Progress" section + Further Reading
 - **[princess-elizabeths-challenge](/topics/history-of-the-interaction-problem/)**: Added contextual link in "Legacy" section + Further Reading
 - **[interactionist-dualism](/concepts/interactionist-dualism/)**: Added contextual link in "Historical Problem" section + Related topics list
-- **[mental-causation](/concepts/mental-causation/)**: Added contextual link in "Process Philosophy Alternative" section
+- **[mental-causation](/concepts/mental-causation-and-downward-causation/)**: Added contextual link in "Process Philosophy Alternative" section
 - **[objections-to-interactionism](/concepts/objections-to-interactionism/)**: Added to Further Reading
 - **[process-philosophy](/concepts/process-philosophy/)**: Added contextual paragraph in "Tensions" section + Further Reading
 

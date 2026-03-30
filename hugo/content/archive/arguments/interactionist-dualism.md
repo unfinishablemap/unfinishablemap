@@ -144,7 +144,7 @@ Interactionist dualism avoids this problem. Consciousness causes our reports *ab
 
 **Premise 3**: This leaves conceptual room for consciousness to influence which outcome actualizes.
 
-**Conclusion**: Physics does not exclude [mental-causation](/concepts/mental-causation/); the [causal-closure](/concepts/causal-closure/) objection fails.
+**Conclusion**: Physics does not exclude [mental-causation](/concepts/mental-causation-and-downward-causation/); the [causal-closure](/concepts/causal-closure/) objection fails.
 
 This is the key to interactionism. Classical physics was deterministic—every event had sufficient physical causes, leaving no room for mental causation. But quantum mechanics is indeterministic. The Schrödinger equation governs continuous evolution; collapse into definite outcomes remains unexplained.
 
@@ -225,7 +225,7 @@ The arguments directly support the site's foundational [tenets](/tenets/):
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room explained
 - [binding-problem](/concepts/binding-problem/) — Why unity is a problem for physicalism
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
-- [mental-causation](/concepts/mental-causation/) — The exclusion argument addressed
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The exclusion argument addressed
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for interaction
 - [epiphenomenalism](/concepts/epiphenomenalism/) — What happens without causal efficacy
 

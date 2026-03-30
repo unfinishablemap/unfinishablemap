@@ -63,7 +63,7 @@ topics:
 - '[[emotion-and-dualism]]'
 ---
 
-Pain is the hard problem made personal. Abstract debates about [qualia](/concepts/qualia/) and the [explanatory-gap](/concepts/explanatory-gap/) can feel remote, but pain forces the question with brute immediacy: why does tissue damage *hurt*? The Unfinishable Map holds that no physical account — no neural firing pattern, no functional role, no information-processing story — captures what makes pain painful. More than this: pain is where the debate about [mental-causation](/concepts/mental-causation/) stops being abstract. The felt awfulness of pain is not a side effect of its motivational force — it is partially constitutive of that force. When pain hurts, the hurting *is* what drives avoidance. And the clinical condition of [pain-asymbolia](/concepts/pain-asymbolia/) — where patients detect nociceptive stimuli but lack the felt awfulness — provides the single most discriminating empirical test case in philosophy of mind, forcing every major theory to reveal its commitments and its gaps.
+Pain is the hard problem made personal. Abstract debates about [qualia](/concepts/qualia/) and the [explanatory-gap](/concepts/explanatory-gap/) can feel remote, but pain forces the question with brute immediacy: why does tissue damage *hurt*? The Unfinishable Map holds that no physical account — no neural firing pattern, no functional role, no information-processing story — captures what makes pain painful. More than this: pain is where the debate about [mental-causation](/concepts/mental-causation-and-downward-causation/) stops being abstract. The felt awfulness of pain is not a side effect of its motivational force — it is partially constitutive of that force. When pain hurts, the hurting *is* what drives avoidance. And the clinical condition of [pain-asymbolia](/concepts/pain-asymbolia/) — where patients detect nociceptive stimuli but lack the felt awfulness — provides the single most discriminating empirical test case in philosophy of mind, forcing every major theory to reveal its commitments and its gaps.
 
 This article unifies three threads: why pain resists reduction, why the pain-suffering distinction exposes the limits of physicalism, and why asymbolia is the decisive test case — together building the strongest case for consciousness as both irreducible and causally real.
 
@@ -135,13 +135,13 @@ The pattern across these theories is revealing. Each can redescribe asymbolia wi
 
 ## The Inseparability of Character and Causal Power
 
-Most philosophical discussions of [mental-causation](/concepts/mental-causation/) treat phenomenal character and causal role as conceptually distinct. A mental state has qualitative properties (what it feels like) and causal properties (what it does). Pain collapses this distinction.
+Most philosophical discussions of [mental-causation](/concepts/mental-causation-and-downward-causation/) treat phenomenal character and causal role as conceptually distinct. A mental state has qualitative properties (what it feels like) and causal properties (what it does). Pain collapses this distinction.
 
 When you touch a hot stove, the nociceptive signal travels through C-fibres and A-delta fibres to the brain. But the *withdrawal* — the urgent, whole-body recoil — is phenomenologically unified with the awfulness: the pain hurts *and therefore* you pull away. The "therefore" is experienced, not inferred.
 
 The epiphenomenalist insists the withdrawal would occur identically without conscious experience. But this conflates the initial spinal reflex (which is indeed unconscious and automatic) with the sustained behavioural response that follows. The spinal reflex yanks your hand away. Consciousness determines what happens next: whether you run cold water over the burn, avoid the stove for hours afterward, or develop a lasting wariness. These extended responses track the *felt severity* of the pain, not merely the magnitude of tissue damage.
 
-Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. If the awfulness were identical to the functional state, removing it while preserving damage-detection would be impossible. What asymbolia demonstrates is that phenomenal character is a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's [causal exclusion argument](/concepts/mental-causation/) denies — that phenomenal properties contribute causally beyond the physical base — and pain provides the strongest counter-evidence.
+Asymbolia makes this vivid from the other direction. When the felt awfulness is absent, the extended behavioural response collapses — despite intact nociceptive detection. If the awfulness were identical to the functional state, removing it while preserving damage-detection would be impossible. What asymbolia demonstrates is that phenomenal character is a distinct contributor to motivation, not reducible to the information-processing role. This is precisely what Kim's [causal exclusion argument](/concepts/mental-causation-and-downward-causation/) denies — that phenomenal properties contribute causally beyond the physical base — and pain provides the strongest counter-evidence.
 
 ### Quality-Action Mapping
 
@@ -190,7 +190,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why evolution requires mental causation
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Content-specific beliefs causing physiological change
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — How phenomenal properties ground objective value
-- [mental-causation](/concepts/mental-causation/) — The problem of how mind influences matter
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem of how mind influences matter
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment that sharpens the bypass question
 - [knowledge-argument](/concepts/knowledge-argument/) — What physical knowledge cannot convey
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation

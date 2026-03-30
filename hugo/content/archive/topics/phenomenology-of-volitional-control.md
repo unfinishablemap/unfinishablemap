@@ -47,7 +47,7 @@ topics:
 - '[[consciousness-and-causal-powers]]'
 ---
 
-When you decide to raise your hand, something happens that neuroscience has spent four decades trying to explain away. A readiness potential appears in your motor cortex hundreds of milliseconds before you report the conscious intention to move. Since Benjamin Libet's landmark 1983 experiments, this temporal gap has been treated as evidence that consciousness arrives too late to cause anything — that the feeling of willing is an afterthought to neural processes already underway. The Unfinishable Map argues this conclusion was premature. The phenomenology of volitional control — the first-person structure of willing, vetoing, and selecting among actions — reveals features that the timing data cannot dissolve and that point toward genuine [conscious causation](/concepts/mental-causation/).
+When you decide to raise your hand, something happens that neuroscience has spent four decades trying to explain away. A readiness potential appears in your motor cortex hundreds of milliseconds before you report the conscious intention to move. Since Benjamin Libet's landmark 1983 experiments, this temporal gap has been treated as evidence that consciousness arrives too late to cause anything — that the feeling of willing is an afterthought to neural processes already underway. The Unfinishable Map argues this conclusion was premature. The phenomenology of volitional control — the first-person structure of willing, vetoing, and selecting among actions — reveals features that the timing data cannot dissolve and that point toward genuine [conscious causation](/concepts/mental-causation-and-downward-causation/).
 
 ## The Libet Experiments and Their Reinterpretation
 

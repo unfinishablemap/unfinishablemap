@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-26
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-02-24](/reviews/deep-review-2026-02-24-mental-causation/)
 **Word count**: 3109 → 3124 (+15, near length-neutral)
 **Context**: Cross-review considering conservation-laws-mind-brain-causation insights

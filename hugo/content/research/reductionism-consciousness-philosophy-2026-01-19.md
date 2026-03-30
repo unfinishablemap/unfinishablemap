@@ -222,7 +222,7 @@ This research directly supports:
 - **[emergence](/concepts/emergence/)** — Already covers strong vs weak emergence; reductionism article would be the contrasting concept
 - **[materialism](/concepts/materialism/)** — Reductionism is the explanatory commitment of materialism
 - **[explanatory-gap](/concepts/explanatory-gap/)** — If exists, central to anti-reductionist case
-- **[downward-causation](/concepts/downward-causation/)** — What reductionism denies and the Map affirms
+- **[downward-causation](/concepts/mental-causation-and-downward-causation/)** — What reductionism denies and the Map affirms
 - **[causal-closure](/concepts/causal-closure/)** — The principle reductionists defend and site denies at quantum level
 - **[interactionist-dualism](/concepts/interactionist-dualism/)** — Site's positive alternative to reductionism
 

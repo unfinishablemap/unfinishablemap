@@ -45,14 +45,14 @@ topics: []
 
 ### Enhancements Made
 - Added 4 missing references (Cramer, James, Kim, Koch & Tsuchiya)
-- Added wikilinks: [reasons-responsiveness](/concepts/reasons-responsiveness/), [process-philosophy](/concepts/process-philosophy/), [downward-causation](/concepts/downward-causation/)
+- Added wikilinks: [reasons-responsiveness](/concepts/reasons-responsiveness/), [process-philosophy](/concepts/process-philosophy/), [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - Added 3 concepts to frontmatter and 3 items to Further Reading
 - Tightened prose in 4 locations to maintain length neutrality
 
 ### Cross-links Added
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)
 - [process-philosophy](/concepts/process-philosophy/)
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 
 ## Remaining Items
 

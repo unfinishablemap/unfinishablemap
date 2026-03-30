@@ -115,7 +115,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of the quantum Zeno mechanism
 - [measurement-problem](/concepts/measurement-problem/) — Why quantum mechanics leaves a causal gap at measurement
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework for mind-matter interaction
-- [mental-causation](/concepts/mental-causation/) — The philosophical problem of how mind causes physical effects
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of how mind causes physical effects
 
 ## References
 

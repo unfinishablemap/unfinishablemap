@@ -77,7 +77,7 @@ None. The article is well-constructed with accurate attributions, sound argument
 
 **Inbound links added from other articles:**
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — Further Reading
-- [mental-causation](/concepts/mental-causation/) — Further Reading
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Further Reading
 - [selection-laws](/concepts/psychophysical-laws/) — Further Reading
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Further Reading (Epistemology subsection)
 - [causal-interface](/voids/causal-interface/) — Further Reading

@@ -71,7 +71,7 @@ No attribution errors found.
 **Body text + Further Reading links added FROM these articles:**
 1. [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Added body text link in Dualist Difference section and Further Reading
 2. [attentional-economics](/concepts/attentional-economics/) — Added body text link in Implications for Moral Responsibility section
-3. [mental-causation](/concepts/mental-causation/) — Added body text link in Why This Matters section
+3. [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added body text link in Why This Matters section
 4. [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — Added body text link in Moral Authority section
 
 **Further Reading links added FROM these articles:**

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-mental-causation/)
 **Word count**: 2931 → 2933 (+2, length-neutral)
 **Context**: Update with delegation and preemption framework per user request

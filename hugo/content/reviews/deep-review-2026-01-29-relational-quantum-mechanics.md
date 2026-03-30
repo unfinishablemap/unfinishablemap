@@ -81,7 +81,7 @@ All major counterarguments were already addressed in the 2026-01-20 review.
 - [decoherence](/concepts/decoherence/)
 - [haecceity](/concepts/haecceity/)
 - [witness-consciousness](/concepts/witness-consciousness/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
 ### Enhancements Made
 - None required - article is at stability

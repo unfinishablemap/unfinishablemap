@@ -57,7 +57,7 @@ topics: []
 ### Cross-links Added
 - [illusionism](/concepts/illusionism/) - Added to concepts frontmatter and Further Reading
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) - Added to concepts frontmatter and Further Reading
-- [mental-causation](/concepts/mental-causation/) - Added to concepts frontmatter and Further Reading
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) - Added to concepts frontmatter and Further Reading
 - [dreams-and-consciousness](/topics/dream-consciousness/) - Referenced in testability section
 
 ## Remaining Items

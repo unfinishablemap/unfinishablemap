@@ -117,7 +117,7 @@ The Map [rejects Many-Worlds](/tenets/#no-many-worlds) for several reasons. The 
 
 Each branch-observer in MWI genuinely experiences a single definite outcome—phenomenology is not "wrong" from within a branch. The problem is that from the global view, no outcome is selected over any other. Everything happens; nothing is chosen. The phenomenology of *choice*—the sense that our decisions determine which outcome becomes actual rather than merely which branch we find ourselves in—becomes a perspective artifact rather than a causal fact. The Map takes this phenomenology of agency seriously.
 
-The cost—ontological proliferation and indexical puzzles—is considered acceptable by many. But MWI also eliminates [mental-causation](/concepts/mental-causation/): if all outcomes happen regardless of choice, choice makes no difference.
+The cost—ontological proliferation and indexical puzzles—is considered acceptable by many. But MWI also eliminates [mental-causation](/concepts/mental-causation-and-downward-causation/): if all outcomes happen regardless of choice, choice makes no difference.
 
 ### Accept the Gap: Objective Collapse
 
@@ -226,7 +226,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — Born probabilities as interface structure
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Energy conservation and the causal closure loophole
-- [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The causal closure argument
+- [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation-and-downward-causation/) — The causal closure argument
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of consciousness and causal efficacy
 - [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) — The identity claim: the measurement problem is a species of hard problem
 - [tenets](/tenets/) — The Map's foundational commitments

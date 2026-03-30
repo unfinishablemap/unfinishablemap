@@ -136,7 +136,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 - **Tenet alignment**: Bidirectional Interaction—creativity as paradigm case of consciousness contributing what physics doesn't determine
 
 #### The Causal Exclusion Problem in Detail
-- **Builds on**: [delegatory-dualism](/topics/delegatory-dualism/), [mental-causation](/concepts/mental-causation/), [causal-closure](/concepts/causal-closure/)
+- **Builds on**: [delegatory-dualism](/topics/delegatory-dualism/), [mental-causation](/concepts/mental-causation-and-downward-causation/), [causal-closure](/concepts/causal-closure/)
 - **Would address**: A dedicated treatment of Kim's exclusion argument and the various dualist responses (overdetermination, delegation, gap-filling)
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction—central challenge for the tenet
@@ -190,7 +190,7 @@ The [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) 
 
 ## New Concept Pages Needed
 
-- **Causal Exclusion Problem**: Kim's argument deserves standalone treatment given its centrality to mental causation debates. Currently scattered across [delegatory-dualism](/topics/delegatory-dualism/), [mental-causation](/concepts/mental-causation/), [epiphenomenalism](/concepts/epiphenomenalism/).
+- **Causal Exclusion Problem**: Kim's argument deserves standalone treatment given its centrality to mental causation debates. Currently scattered across [delegatory-dualism](/topics/delegatory-dualism/), [mental-causation](/concepts/mental-causation-and-downward-causation/), [epiphenomenalism](/concepts/epiphenomenalism/).
 
 - **Specious Present**: Referenced in [temporal-consciousness](/concepts/temporal-consciousness/) but deserves its own page covering James, Husserl, and contemporary debates.
 

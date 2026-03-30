@@ -122,7 +122,7 @@ The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively prop
 - **Tenet alignment**: Supports Bidirectional Interaction by showing what consciousness adds to cognition
 
 #### The Choking Phenomenon and Mental Causation
-- **Builds on**: [implicit-memory](/concepts/implicit-memory/), [mental-causation](/concepts/mental-causation/), [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Builds on**: [implicit-memory](/concepts/implicit-memory/), [mental-causation](/concepts/mental-causation-and-downward-causation/), [epiphenomenalism](/concepts/epiphenomenalism/)
 - **Would address**: Sports psychology evidence for consciousness's causal efficacy deserves fuller treatment
 - **Estimated scope**: Short article
 - **Tenet alignment**: Directly supports Bidirectional Interaction with unexpected empirical evidence

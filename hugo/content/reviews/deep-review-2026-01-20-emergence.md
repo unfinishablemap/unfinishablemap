@@ -56,7 +56,7 @@ None identified.
 - Added Goff (2017), Seager (2016), and Wiest et al. (2024) references
 
 ### Cross-links Added
-- [mental-causation](/concepts/mental-causation/) to frontmatter and Further Reading
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) to frontmatter and Further Reading
 - [phenomenal-unity](/concepts/unity-of-consciousness/) to frontmatter and Further Reading
 - [binding-problem](/concepts/binding-problem/) to frontmatter and Further Reading (already mentioned in text)
 - [minimal-consciousness](/concepts/minimal-consciousness/) to frontmatter and Further Reading

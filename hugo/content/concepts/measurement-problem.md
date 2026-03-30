@@ -115,7 +115,7 @@ Collapse is a rule for predictions, not a physical process. The measurement boun
 
 ### Many-Worlds Interpretation
 
-All outcomes occur; the universe branches at every quantum event. **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). Key objections: (1) indexical—why am I *this* branch?; (2) [probability](/topics/probability-problem-in-many-worlds/)—what does "70% probable" mean if all outcomes occur?; (3) eliminates [mental-causation](/concepts/mental-causation/)—consciousness makes no causal difference. Wallace derives Born probabilities from decision-theoretic coherence, but this shows what rational betting requires, not what probabilities mean when all outcomes occur. See [many-worlds](/concepts/many-worlds/) for detailed arguments.
+All outcomes occur; the universe branches at every quantum event. **Directly rejected** by [No Many Worlds](/tenets/#no-many-worlds). Key objections: (1) indexical—why am I *this* branch?; (2) [probability](/topics/probability-problem-in-many-worlds/)—what does "70% probable" mean if all outcomes occur?; (3) eliminates [mental-causation](/concepts/mental-causation-and-downward-causation/)—consciousness makes no causal difference. Wallace derives Born probabilities from decision-theoretic coherence, but this shows what rational betting requires, not what probabilities mean when all outcomes occur. See [many-worlds](/concepts/many-worlds/) for detailed arguments.
 
 ### Objective Collapse Theories (GRW, CSL, Penrose)
 
@@ -153,7 +153,7 @@ The Map's resolution combines [brain-interface-boundary](/concepts/brain-interfa
 
 ## The Causal Closure Loophole
 
-The measurement problem reveals a genuine gap in physical explanation—where [mental-causation](/concepts/mental-causation/) becomes *possible*, though the gap alone does not establish that consciousness fills it.
+The measurement problem reveals a genuine gap in physical explanation—where [mental-causation](/concepts/mental-causation-and-downward-causation/) becomes *possible*, though the gap alone does not establish that consciousness fills it.
 
 [Causal closure](/concepts/causal-closure/) claims every physical event has a sufficient physical cause. At quantum measurement, this fails: the Born rule yields *probabilities*, not determinate causes—predicting ensemble statistics without explaining why *this* measurement yielded *this* outcome. [Physical completeness](/concepts/physical-completeness/) clarifies the distinction: physics is *structurally* complete (no hidden variables are missing) yet *ontologically* partial (the selection of actuality from possibility falls outside structural description).
 
@@ -211,7 +211,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel-quantum connections via Lawvere's theorem
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and consciousness-modulated collapse
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Comparative assessment of interpretations' consciousness compatibility
-- [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
+- [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — Coordination puzzles
 - [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How Zurek's framework specifies the menu while leaving the outcome gap open
 - [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis: five converging lines of inquiry for consciousness acting after decoherence

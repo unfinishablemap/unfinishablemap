@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-04
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-02-26](/reviews/deep-review-2026-02-26-mental-causation/)
 **Word count**: 3209 → 3224 (+15, near length-neutral)
 **Context**: Cross-review considering causal-delegation insights

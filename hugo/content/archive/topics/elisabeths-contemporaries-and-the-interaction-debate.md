@@ -82,7 +82,7 @@ Other thinkers concluded that the interaction problem refuted dualism itself.
 
 **Gottfried Wilhelm Leibniz** (1646–1716) proposed the most elegant sidestep. In the *Monadology* (1714) and the *New System of Nature* (1695), he argued that mind and body never interact at all. God arranged at creation a perfect correspondence between mental and physical sequences—like two clocks synchronised at the start and running in parallel forever after. When I decide to raise my arm, my body raises it—not because the decision caused the motion, but because God pre-coordinated both series from the beginning.
 
-Pre-established harmony preserved [dualism](/concepts/dualism/)'s distinction between mind and body while avoiding the interaction problem entirely. But the cost was high: [mental causation](/concepts/mental-causation/) became an illusion. The mind never moves the body; it only appears to. Leibniz's proposal thus shared a structural problem with occasionalism—both denied that minds genuinely cause physical events, differing only in whether God intervenes continuously (Malebranche) or once at creation (Leibniz).
+Pre-established harmony preserved [dualism](/concepts/dualism/)'s distinction between mind and body while avoiding the interaction problem entirely. But the cost was high: [mental causation](/concepts/mental-causation-and-downward-causation/) became an illusion. The mind never moves the body; it only appears to. Leibniz's proposal thus shared a structural problem with occasionalism—both denied that minds genuinely cause physical events, differing only in whether God intervenes continuously (Malebranche) or once at creation (Leibniz).
 
 ## What the Debate Reveals
 

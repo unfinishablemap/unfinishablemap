@@ -61,7 +61,7 @@ This second review addresses issues remaining after the earlier session, particu
 
 ### Cross-links Added
 - [arguments-against-materialism](/topics/arguments-against-materialism/) (frontmatter + body + Further Reading)
-- [mental-causation](/concepts/mental-causation/) (frontmatter + body + Further Reading)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (frontmatter + body + Further Reading)
 - [illusionism](/concepts/illusionism/) (frontmatter + Further Reading)
 
 ## Changes Summary (Session 2)

@@ -124,7 +124,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 
 **[Dualism](/tenets/#dualism)**: The qualitative discontinuities between levels resist reductive explanation. The transitions introduce irreducible phenomenal properties—felt knowing, felt pastness, temporal self-presence—that physical descriptions of neural activity do not entail. The constitutive-contingent debate directly instantiates the broader question: if autonoetic awareness defines episodic memory, then a functionally identical system lacking the felt quality of re-experiencing would not have episodic memory at all.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [mental causation](/concepts/mental-causation/). The hierarchy shows consciousness becoming increasingly *active* at higher levels—from anoetic receptivity through noetic recognition to autonoetic temporal projection—consistent with increasing causal efficacy.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Klein's argument that autonoetic consciousness is the "causally determinative factor" in future self-projection supports the Map's commitment to [mental causation](/concepts/mental-causation-and-downward-causation/). The hierarchy shows consciousness becoming increasingly *active* at higher levels—from anoetic receptivity through noetic recognition to autonoetic temporal projection—consistent with increasing causal efficacy.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Autonoetic consciousness presupposes a determinate personal history and a singular future self. Many-worlds fragmentation—where every quantum event spawns branching versions of the subject—undermines the indexical "I" that autonoetic experience requires. If every plan is executed by countless branching copies, the felt urgency of deliberation loses its rational basis.
 
@@ -147,7 +147,7 @@ Whether any non-human animals achieve genuine autonoetic consciousness remains d
 - [metacognition](/concepts/metacognition/) — Thinking about thinking across consciousness levels
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The irreducible phenomenal properties each level introduces
 - [explanatory-gap](/concepts/explanatory-gap/) — Why functional descriptions cannot bridge the transitions
-- [mental-causation](/concepts/mental-causation/) — The broader framework for consciousness as causally efficacious
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework for consciousness as causally efficacious
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The temporal structure of conscious experience underlying mental time travel
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The relationship between selfhood and consciousness that autonoesis presupposes
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy as diagnostic tool for AI consciousness

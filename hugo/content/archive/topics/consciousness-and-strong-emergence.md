@@ -91,7 +91,7 @@ Strong emergence is not merely the claim that consciousness is surprising or com
 
 **Genuine novelty.** Strongly emergent properties introduce something genuinely new into reality — not just new patterns of what already exists. Temperature is a new *description* of molecular motion, but it does not add to the ontological inventory. Consciousness, if strongly emergent, adds qualitative character to a universe that would otherwise contain only structure and dynamics.
 
-**Causal powers.** If consciousness is strongly emergent and causally inert, it becomes [epiphenomenal](/concepts/epiphenomenalism/) — real but impotent, a metaphysical spectator. For strong emergence to matter, the emergent property must exercise [downward-causation](/concepts/downward-causation/) — genuine causal influence on the physical base from which it emerges. The Map's framework requires this: the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet asserts that consciousness causally influences physical outcomes.
+**Causal powers.** If consciousness is strongly emergent and causally inert, it becomes [epiphenomenal](/concepts/epiphenomenalism/) — real but impotent, a metaphysical spectator. For strong emergence to matter, the emergent property must exercise [downward-causation](/concepts/mental-causation-and-downward-causation/) — genuine causal influence on the physical base from which it emerges. The Map's framework requires this: the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet asserts that consciousness causally influences physical outcomes.
 
 ## The Exclusion Problem and Its Resolution
 
@@ -139,7 +139,7 @@ Affirming strong emergence is not the same as explaining it. The Map proposes *w
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The core difficulty that motivates strong emergence
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: why complete physical knowledge does not entail experiential knowledge
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument underlying the strong emergence claim
-- [downward-causation](/concepts/downward-causation/) — How emergent properties causally influence lower levels
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How emergent properties causally influence lower levels
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for consciousness–brain interaction
 - [free-will](/topics/free-will/) — How strong emergence with causal powers grounds genuine agency
 - [mysterianism](/concepts/mysterianism/) — The cognitive closure thesis: why strong emergence may resist comprehension

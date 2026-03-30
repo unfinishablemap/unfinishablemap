@@ -191,7 +191,7 @@ The selection framework also has implications for [free-will](/topics/free-will/
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other challenges to the interactionist position
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why the selection mechanism operates only in brains
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — The positive criteria brains meet for consciousness interfaces
-- [mental-causation](/concepts/mental-causation/) — The broader philosophical framework for mental causation
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical framework for mental causation
 
 ## References
 

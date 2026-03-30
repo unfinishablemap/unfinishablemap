@@ -223,7 +223,7 @@ This response depends on contested physics. Whether quantum indeterminacy genuin
 
 Kim's [causal exclusion](/concepts/causal-closure/) argument claims that even if physics isn't causally closed, physical properties "screen off" mental ones. If physical state P is sufficient for effect E, mental property M seems causally redundant.
 
-**Response**: The quantum framework denies P is sufficient for E at indeterminacies. Where physics leaves outcomes undetermined, mental properties can be causally relevant without competing with sufficient physical causes (see [mental-causation](/concepts/mental-causation/)).
+**Response**: The quantum framework denies P is sufficient for E at indeterminacies. Where physics leaves outcomes undetermined, mental properties can be causally relevant without competing with sufficient physical causes (see [mental-causation](/concepts/mental-causation-and-downward-causation/)).
 
 ### The Evolutionary Argument
 
@@ -297,7 +297,7 @@ The Map does not commit to substance over property dualism. Both support irreduc
 
 **Background:**
 - [intuitive-dualism](/concepts/intuitive-dualism/) — What cognitive science reveals about natural mind-body thinking
-- [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The exclusion challenge and responses
+- [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation-and-downward-causation/) — The exclusion challenge and responses
 
 ## References
 

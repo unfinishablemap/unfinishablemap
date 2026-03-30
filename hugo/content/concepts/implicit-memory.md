@@ -41,7 +41,7 @@ topics:
 
 When you ride a bicycle, tie your shoes, or type on a keyboard, you act without reflective awareness. The skill executes smoothly; you don't observe yourself executing it. You don't mentally replay the lessons where you learned, nor do you consciously retrieve rules about pedal pressure or keystroke sequences. The knowledge is simply expressed in fluent action. This is implicit memory—knowledge that shows in performance rather than conscious recollection.
 
-Implicit memory matters for The Unfinishable Map's framework because it reveals consciousness as an *interface* that can delegate to procedural systems. Endel Tulving associated implicit memory with *anoetic consciousness*: awareness without self-knowledge, action without reflection. Crucially, when consciousness forcibly re-engages with automatized skills—when you attend to your typing or think about your footwork—performance typically *degrades*. This "choking under pressure" phenomenon is evidence consistent with [bidirectional interaction](/concepts/mental-causation/): consciousness causally affects procedural execution, sometimes disruptively. A physicalist can describe this as prefrontal cortex activity disrupting basal ganglia motor programs—neural competition between control systems. But the neural competition account leaves unexplained *why it feels like something* to choke: the performer's phenomenal experience of disruptive self-attention is not captured by describing which brain regions interfere with which. If consciousness were epiphenomenal, this phenomenal dimension would be causally inert, yet the felt quality of choking—the anxious self-monitoring—is precisely what distinguishes it from mere neural noise.
+Implicit memory matters for The Unfinishable Map's framework because it reveals consciousness as an *interface* that can delegate to procedural systems. Endel Tulving associated implicit memory with *anoetic consciousness*: awareness without self-knowledge, action without reflection. Crucially, when consciousness forcibly re-engages with automatized skills—when you attend to your typing or think about your footwork—performance typically *degrades*. This "choking under pressure" phenomenon is evidence consistent with [bidirectional interaction](/concepts/mental-causation-and-downward-causation/): consciousness causally affects procedural execution, sometimes disruptively. A physicalist can describe this as prefrontal cortex activity disrupting basal ganglia motor programs—neural competition between control systems. But the neural competition account leaves unexplained *why it feels like something* to choke: the performer's phenomenal experience of disruptive self-attention is not captured by describing which brain regions interfere with which. If consciousness were epiphenomenal, this phenomenal dimension would be causally inert, yet the felt quality of choking—the anxious self-monitoring—is precisely what distinguishes it from mere neural noise.
 
 ## Tulving's Anoetic Consciousness
 
@@ -93,7 +93,7 @@ Research confirms this pattern:
 
 ### Why This Matters for Dualism
 
-Choking is evidence consistent with [consciousness causally affecting](/concepts/mental-causation/) brain processes. Consider the causal chain:
+Choking is evidence consistent with [consciousness causally affecting](/concepts/mental-causation-and-downward-causation/) brain processes. Consider the causal chain:
 
 1. Conscious attention shifts to procedural execution
 2. Procedural execution is disrupted

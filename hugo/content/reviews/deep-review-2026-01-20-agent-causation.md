@@ -56,8 +56,8 @@ topics: []
 ### Cross-links Added
 - [many-worlds](/concepts/many-worlds/)
 - [pairing-problem](/concepts/pairing-problem/)
-- [downward-causation](/concepts/downward-causation/)
-- [mental-causation](/concepts/mental-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 - [decoherence](/concepts/decoherence/)
 
 ### References Added

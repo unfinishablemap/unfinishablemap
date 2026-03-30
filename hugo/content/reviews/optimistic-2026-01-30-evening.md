@@ -104,7 +104,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 - **Tenet alignment**: Could explore how predictive processing either supports or challenges the dualist framework—the "controlled hallucination" framing has materialist implications worth engaging
 
 #### The Problem of Mental Causation (Dedicated Topic)
-- **Builds on**: [downward-causation](/concepts/downward-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [delegatory-dualism](/topics/delegatory-dualism/)
+- **Builds on**: [downward-causation](/concepts/mental-causation-and-downward-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [delegatory-dualism](/topics/delegatory-dualism/)
 - **Would address**: Currently spread across multiple articles; deserves unified treatment
 - **Estimated scope**: Long article
 - **Tenet alignment**: Central to Bidirectional Interaction tenet; would consolidate scattered arguments
@@ -162,7 +162,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 
 | From | To | Reason |
 |------|-----|--------|
-| [delegatory-dualism](/topics/delegatory-dualism/) | [downward-causation](/concepts/downward-causation/) | Delegation is a form of downward causation; compare solutions |
+| [delegatory-dualism](/topics/delegatory-dualism/) | [downward-causation](/concepts/mental-causation-and-downward-causation/) | Delegation is a form of downward causation; compare solutions |
 | [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) | [agent-causation](/concepts/agent-causation/) | Authenticity engages genuine agent causation |
 | [consciousness-only-territories](/voids/consciousness-only-territories/) | [knowledge-argument](/concepts/knowledge-argument/) | Mary's Room as paradigm case of consciousness-only territory |
 | [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) | [phenomenology](/concepts/phenomenology/) | Fineness-of-grain problem connects to pre-conceptual access |

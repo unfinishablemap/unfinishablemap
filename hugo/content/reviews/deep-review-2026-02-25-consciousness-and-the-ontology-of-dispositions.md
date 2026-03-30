@@ -80,7 +80,7 @@ No new counterarguments required addressing.
 4. [russellian-monism](/concepts/russellian-monism/) — Added inline reference in Clearer Ontology paragraph and to Further Reading
 5. [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Added inline reference in Inseparability of Character and Causal Power section
 6. [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Added inline reference in Property Dualism Without Interaction section
-7. [mental-causation](/concepts/mental-causation/) — Added to Further Reading
+7. [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added to Further Reading
 8. [explanatory-gap](/concepts/explanatory-gap/) — Added to Further Reading
 9. [knowledge-argument](/concepts/knowledge-argument/) — Added to Further Reading
 

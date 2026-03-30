@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19b-mental-causation/)
 **Word count**: 2484 → 2505 (+21, length-neutral)
 **Context**: Cross-review mental-causation.md and self-stultification-as-master-argument.md considering arguments-against-epiphenomenalism insights

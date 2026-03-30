@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-mental-causation/)
 **Word count**: 3111 → 3096 (-15, length-neutral)
 **Context**: Cross-review considering bandwidth-problem insights

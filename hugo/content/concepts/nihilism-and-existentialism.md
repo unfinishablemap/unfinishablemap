@@ -144,7 +144,7 @@ Sartre's pour-soi (being-for-itself) is radically distinct from en-soi (being-in
 
 ### Bidirectional Interaction
 
-Existentialism assumes that choices make a difference but never explains how. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides the mechanism: consciousness influences outcomes through quantum selection, biasing which neural patterns actualise. The phenomenology of mental effort—trying, sustaining attention—gains significance here. For detailed treatment of how consciousness might causally influence physical outcomes without violating physics, see [mental-causation](/concepts/mental-causation/).
+Existentialism assumes that choices make a difference but never explains how. The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides the mechanism: consciousness influences outcomes through quantum selection, biasing which neural patterns actualise. The phenomenology of mental effort—trying, sustaining attention—gains significance here. For detailed treatment of how consciousness might causally influence physical outcomes without violating physics, see [mental-causation](/concepts/mental-causation-and-downward-causation/).
 
 ### Minimal Quantum Interaction
 

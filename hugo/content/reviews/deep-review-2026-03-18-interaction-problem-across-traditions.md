@@ -29,7 +29,7 @@ None. Article is factually accurate, attributions are correct, and source/Map se
 - **In-text citation error**: "Jamali & Golshani 2019" corrected to "Jamali et al. 2019" (three authors in ref 5)
 - **Opening paragraph too long**: 8-sentence block split into three shorter paragraphs per style guide
 - **Type 4 section thin**: Added MWI engagement (why the Map rejects it) and more specific decoherence responses (Hameroff timescale corrections, avian magnetoreception)
-- **Missing cross-links**: Added [substance-property-dualism](/concepts/substance-property-dualism/), [panpsychism](/concepts/panpsychism/), [mental-causation](/concepts/mental-causation/) links
+- **Missing cross-links**: Added [substance-property-dualism](/concepts/substance-property-dualism/), [panpsychism](/concepts/panpsychism/), [mental-causation](/concepts/mental-causation-and-downward-causation/) links
 - **Tempels (1945) used uncritically**: Added qualifier noting debate by Hountondji and Mudimbe
 - **"Strong illusionism" undefined**: Added brief parenthetical definition
 
@@ -58,7 +58,7 @@ None. Article is factually accurate, attributions are correct, and source/Map se
 ### Cross-links Added
 - [substance-property-dualism](/concepts/substance-property-dualism/) in Relation section
 - [panpsychism](/concepts/panpsychism/) in Relation section
-- [mental-causation](/concepts/mental-causation/) in Type 4 section
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) in Type 4 section
 
 ## Remaining Items
 None. All identified issues addressed.

@@ -61,11 +61,11 @@ None. The article has all required sections, no factual errors, and no internal 
 2. Added MWI decision-theoretic acknowledgment
 3. Qualified contemplative evidence claim
 4. Added tension note to śūnyatā discussion
-5. Added [mental-causation](/concepts/mental-causation/) cross-link in Bidirectional Interaction section
+5. Added [mental-causation](/concepts/mental-causation-and-downward-causation/) cross-link in Bidirectional Interaction section
 
 ### Cross-links Added
 
-- [mental-causation](/concepts/mental-causation/) — Added to Bidirectional Interaction section for readers wanting detailed treatment of causal mechanism
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added to Bidirectional Interaction section for readers wanting detailed treatment of causal mechanism
 
 ## Word Count
 

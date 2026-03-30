@@ -264,7 +264,7 @@ The quantum selection framework gains explanatory purchase where the simpler vie
 - [free-will](/topics/free-will/) — The broader topic this illuminates
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential character of selection
 - [mental-effort](/concepts/mental-effort/) — Why selection feels effortful
-- [downward-causation](/concepts/downward-causation/) — How consciousness affects neural processes
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects neural processes
 
 ## References
 

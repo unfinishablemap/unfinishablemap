@@ -51,14 +51,14 @@ None. The article is well-structured with proper frontmatter, accurate citations
 - Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) in new paragraph
 - Added cross-link to [mental-effort](/concepts/mental-effort/) in Phenomenological Unity section
 - Added cross-link to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) in three-layer model section
-- Added [downward-causation](/concepts/downward-causation/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), and [mental-effort](/concepts/mental-effort/) to frontmatter concepts
+- Added [downward-causation](/concepts/mental-causation-and-downward-causation/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), and [mental-effort](/concepts/mental-effort/) to frontmatter concepts
 - Added three new entries to Further Reading section
 
 ### Cross-links Added
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [mental-effort](/concepts/mental-effort/)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 
 ## Remaining Items
 

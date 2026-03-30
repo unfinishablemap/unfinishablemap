@@ -163,7 +163,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The positive account: what kind of causal influence consciousness exercises
-- [mental-causation](/concepts/mental-causation/) — The problem of how mind affects matter
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The problem of how mind affects matter
 - [causal-closure](/concepts/causal-closure/) — The physicalist principle that motivates epiphenomenalism
 - [introspection](/concepts/introspection/) — Whether self-knowledge requires causal connection
 - [intentionality](/concepts/intentionality/) — Why genuine aboutness requires phenomenal consciousness

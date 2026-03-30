@@ -63,7 +63,7 @@ The [concept article on epiphenomenalism](/concepts/epiphenomenalism/) covers th
 
 Epiphenomenalism persists because it solves a genuine problem. The [causal closure of physics](/concepts/causal-closure/)—the thesis that every physical event with a cause has a sufficient physical cause—appears to leave no room for non-physical causation. If brain states fully explain behavior, consciousness has nothing left to do.
 
-Jaegwon Kim showed that this problem is not confined to dualists. His [exclusion argument](/concepts/mental-causation/) targets anyone who distinguishes mental properties from physical properties while claiming mental properties are causally efficacious. The argument runs: if a physical event has a sufficient physical cause, any additional mental cause is either identical to the physical cause (identity theory) or excluded by it (epiphenomenalism). There is no comfortable middle ground.
+Jaegwon Kim showed that this problem is not confined to dualists. His [exclusion argument](/concepts/mental-causation-and-downward-causation/) targets anyone who distinguishes mental properties from physical properties while claiming mental properties are causally efficacious. The argument runs: if a physical event has a sufficient physical cause, any additional mental cause is either identical to the physical cause (identity theory) or excluded by it (epiphenomenalism). There is no comfortable middle ground.
 
 This creates a dilemma that functions like gravitational attraction—the gravity well. Any theory that takes two steps—accepting that consciousness is real and distinct from physics, and accepting that physics is causally complete—finds itself at step three: consciousness does nothing. The pull is not optional. It follows from the logical structure of the commitments, not from any particular empirical finding.
 
@@ -206,7 +206,7 @@ The Map's framework is one of the few that provides all three elements needed to
 
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view itself: what it claims and why it fails
 - [epiphenomenalism](/concepts/epiphenomenalism/#convergence-of-arguments) — Four independent argument types converging against epiphenomenalism
-- [mental-causation](/concepts/mental-causation/) — Kim's exclusion argument and the Map's quantum response
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Kim's exclusion argument and the Map's quantum response
 - [causal-closure](/concepts/causal-closure/) — The principle that drives most theories toward epiphenomenalism
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from empirical observation to metaphysical axiom
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causal influence consciousness exercises

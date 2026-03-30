@@ -69,7 +69,7 @@ topics: []
 - [witness-consciousness](/concepts/witness-consciousness/)
 - [haecceity](/concepts/haecceity/)
 - [decoherence](/concepts/decoherence/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
 ### References Added
 - Tegmark, M. (2000) - decoherence calculation

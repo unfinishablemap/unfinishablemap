@@ -130,7 +130,7 @@ Agent teleology follows directly from the Map's tenets.
 ## Further Reading
 
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework grounding how agents originate actions
-- [mental-causation](/concepts/mental-causation/) — How mental states cause physical effects despite Kim's exclusion argument
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects despite Kim's exclusion argument
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How agent teleology emerges from evolution without design
 - [subjective-aim](/concepts/subjective-aim/) — Whitehead's process-philosophical model of inherent directedness
 - [process-philosophy](/concepts/process-philosophy/) — The broader process-philosophical tradition informing this article

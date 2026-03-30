@@ -73,7 +73,7 @@ Inbound links added from these articles to [prebiotic-collapse](/concepts/prebio
 4. **[causal-closure](/concepts/causal-closure/)** — In the Emergentist Response section, converted existing "prebiotic cosmology" phrase to a wikilink
 5. **[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)** — In the Panpsychism subsection, added note about the temporal constraint prebiotic collapse places on consciousness-collapse frameworks
 6. **[free-will](/topics/free-will/)** — In the Physical Mechanism Question section, converted existing "prebiotic problem" phrase to a wikilink
-7. **[mental-causation](/concepts/mental-causation/)** — In the Quantum Opening section, added note about cosmological consistency of the framework
+7. **[mental-causation](/concepts/mental-causation-and-downward-causation/)** — In the Quantum Opening section, added note about cosmological consistency of the framework
 8. **[qbism](/concepts/qbism/)** — In the Versus Consciousness-Collapse section, added note about how QBism sidesteps the prebiotic problem
 9. **[relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)** — In the What RQM Removes section, added note about how RQM avoids the prebiotic problem
 

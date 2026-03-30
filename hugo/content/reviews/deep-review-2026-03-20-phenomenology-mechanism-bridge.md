@@ -69,7 +69,7 @@ topics: []
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [agent-causation](/concepts/agent-causation/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 
 **Related apex articles** (added `[phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)` to related_articles):
 - [consciousness-and-agency](/apex/consciousness-and-agency/)

@@ -235,7 +235,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference: if the tenets are correct, quantum mechanics is structurally partial
 
 **Related topics:**
-- [mental-causation](/concepts/mental-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/concepts/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/), [causal-interface](/voids/causal-interface/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/), [agent-causation](/concepts/agent-causation/), [emergence](/concepts/emergence/), [epiphenomenalism](/concepts/epiphenomenalism/), [evolution-of-consciousness](/concepts/evolution-of-consciousness/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [delegatory-dualism](/topics/delegatory-dualism/), [causal-interface](/voids/causal-interface/), [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
 
 ## References
 

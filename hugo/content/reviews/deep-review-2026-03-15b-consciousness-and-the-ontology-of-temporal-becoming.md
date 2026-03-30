@@ -27,7 +27,7 @@ None.
 
 ### Medium Issues Found
 - **5 uncited references**: Broad (1923), James (1890), McTaggart (1908), Varela (1999), and Tooley (1997) appeared in References but were never cited in the text. The previous review caught and fixed 2 of 7 such cases (Weyl, Greene & Sullivan) but missed these 5. Resolution: added in-text citations for Broad, James, McTaggart, and Varela at natural points; removed Tooley (no natural citation point).
-- **Missing cross-links**: The article discussed downward causation, conservation law compatibility, and causal closure without linking to existing concept pages on these topics. Resolution: added links to [downward-causation](/concepts/downward-causation/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), and [causal-closure](/concepts/causal-closure/).
+- **Missing cross-links**: The article discussed downward causation, conservation law compatibility, and causal closure without linking to existing concept pages on these topics. Resolution: added links to [downward-causation](/concepts/mental-causation-and-downward-causation/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), and [causal-closure](/concepts/causal-closure/).
 
 ### Low Issues Found
 - **Description over length**: The meta description was ~206 characters, exceeding the 150-160 target. Resolution: tightened to ~155 characters.
@@ -52,14 +52,14 @@ All six adversarial personas engaged. No new issues beyond those identified and 
 
 ### Enhancements Made
 - Added in-text citations for Broad (1923), James (1890), McTaggart (1908), Varela (1999), grounding the article's use of growing block theory, specious present, A/B theory framework, and neurophenomenology
-- Added cross-links to [causal-closure](/concepts/causal-closure/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [downward-causation](/concepts/downward-causation/)
+- Added cross-links to [causal-closure](/concepts/causal-closure/), [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - Tightened meta description to target length
 - Removed uncitable reference (Tooley 1997)
 
 ### Cross-links Added
 - [causal-closure](/concepts/causal-closure/)
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 
 ## Remaining Items
 

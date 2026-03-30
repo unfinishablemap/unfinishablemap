@@ -46,10 +46,10 @@ None to the article body. The article was reviewed earlier today and reached sta
 ### Cross-links Added (FROM other articles TO supervenience)
 1. [emergence](/concepts/emergence/) — "supervenes on the physical base" (weak emergence section)
 2. [emergence](/concepts/emergence/) — "supervenes with only nomological necessity" (strong emergence section)
-3. [mental-causation](/concepts/mental-causation/) — "The Supervenience Problem" heading and first paragraph
+3. [mental-causation](/concepts/mental-causation-and-downward-causation/) — "The Supervenience Problem" heading and first paragraph
 4. [materialism](/concepts/materialism/) — "supervene on physical states" (non-reductive materialism section)
 5. [materialism](/concepts/materialism/) — "The supervenience relation itself is unexplained"
-6. [downward-causation](/concepts/downward-causation/) — "Supervenience creates tension" (concept distinguished section)
+6. [downward-causation](/concepts/mental-causation-and-downward-causation/) — "Supervenience creates tension" (concept distinguished section)
 7. [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — "supervene on physical properties" and "Supervenience without identity" (non-reductive physicalism section)
 8. [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — "supervenience laws, not causal laws" (upward-downward asymmetry section)
 9. [interactionist-dualism](/concepts/interactionist-dualism/) — "supervenience laws alone yield epiphenomenalism"

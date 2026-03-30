@@ -63,7 +63,7 @@ Coupling runs in two directions, and the Map insists both matter:
 
 **Downward coupling** (phenomenal → physical): Conscious states influence physical outcomes. Intending to raise your arm precedes your arm rising; effortful attention changes neural dynamics. The Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) requires this direction. Without it, consciousness would be [epiphenomenal](/concepts/epiphenomenalism/) — real but causally inert, unable to account for our accurate reports about our own experience. As [the epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) analysis shows, most theories of consciousness default to epiphenomenalism unless they provide a specific downward coupling mechanism.
 
-Most philosophical work has addressed upward coupling. The Map's distinctive contribution is insisting that [downward coupling](/concepts/downward-causation/) demands equal attention, because it is what makes consciousness matter causally. The [selection-laws](/concepts/psychophysical-laws/) that specify downward coupling constitute the core of the Map's research programme.
+Most philosophical work has addressed upward coupling. The Map's distinctive contribution is insisting that [downward coupling](/concepts/mental-causation-and-downward-causation/) demands equal attention, because it is what makes consciousness matter causally. The [selection-laws](/concepts/psychophysical-laws/) that specify downward coupling constitute the core of the Map's research programme.
 
 ## Constraints on Coupling
 

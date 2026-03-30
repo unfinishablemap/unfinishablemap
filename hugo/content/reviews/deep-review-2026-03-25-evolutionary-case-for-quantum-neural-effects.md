@@ -51,7 +51,7 @@ None. Article remains stable after four reviews. No attribution errors, factual 
 4. [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Added body text link in "Minimal Quantum Interaction" subsection + Further Reading entry
 5. [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Added body text link in dualist paragraph + Further Reading entry
 6. [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Added body text link in "The Amplification Problem" section + Further Reading entry
-7. [mental-causation](/concepts/mental-causation/) — Added body text link in "The Quantum Opening" section + Further Reading entry
+7. [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added body text link in "The Quantum Opening" section + Further Reading entry
 
 ### Total Inbound Links (cumulative)
 Previous review added 8 links from: quantum-biology-and-neural-consciousness, quantum-biology, quantum-neural-mechanisms-and-coherence, evolutionary-case-for-mental-causation, evolution-under-dualism, binding-problem, decoherence, comparing-quantum-consciousness-mechanisms.

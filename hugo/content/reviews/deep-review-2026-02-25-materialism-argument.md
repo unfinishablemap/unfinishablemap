@@ -67,7 +67,7 @@ topics: []
 - [explanatory-gap](/concepts/explanatory-gap/) — inline in Hard Problem section
 - [philosophical-zombies](/concepts/philosophical-zombies/) — inline link on first mention
 - [knowledge-argument](/concepts/knowledge-argument/) — new paragraph with inline link
-- [mental-causation](/concepts/mental-causation/) — inline in epiphenomenalism trilemma
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — inline in epiphenomenalism trilemma
 - [causal-closure](/concepts/causal-closure/) — inline in quantum section
 - [illusionism](/concepts/illusionism/) — cross-reference for full dialectic
 - [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) — Further Reading and frontmatter

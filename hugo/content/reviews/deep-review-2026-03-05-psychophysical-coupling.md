@@ -50,7 +50,7 @@ None. The article is well-constructed with accurate attributions.
 - Added epiphenomenalist threat reference in directionality section — showing why downward coupling matters
 - Added bandwidth problem cross-link in constraints section — connecting to the detailed treatment
 - Added interface specification problem reference in specification challenge — linking to the broader challenge
-- Added [downward-causation](/concepts/downward-causation/) link in directionality section
+- Added [downward-causation](/concepts/mental-causation-and-downward-causation/) link in directionality section
 - Added inline definition of Born statistics for accessibility
 - Added cross-references FROM other articles: the-epiphenomenalist-threat, princess-elizabeths-challenge, psychophysical-laws, bandwidth-problem-mental-causation
 
@@ -59,7 +59,7 @@ None. The article is well-constructed with accurate attributions.
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (in article body + related_articles)
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) (in article body + related_articles)
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) (in related_articles)
-- [downward-causation](/concepts/downward-causation/) (in article body)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) (in article body)
 - Added [psychophysical-coupling](/concepts/psychophysical-laws/) to further reading of: the-epiphenomenalist-threat, princess-elizabeths-challenge
 - Added [psychophysical-coupling](/concepts/psychophysical-laws/) wikilink in psychophysical-laws.md body text
 - Added [psychophysical-coupling](/concepts/psychophysical-laws/) to concepts frontmatter of bandwidth-problem-mental-causation.md

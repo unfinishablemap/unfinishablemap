@@ -52,7 +52,7 @@ topics: []
 - Added inline cross-reference from [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (track record section)
 - Added Further Reading link from [explanatory-gap](/concepts/explanatory-gap/)
 - Added Further Reading link from [reductionism](/concepts/reductionism/)
-- Added Further Reading link from [downward-causation](/concepts/downward-causation/)
+- Added Further Reading link from [downward-causation](/concepts/mental-causation-and-downward-causation/)
 
 ### Cross-links Added
 - From [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) → [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
@@ -62,7 +62,7 @@ topics: []
 - From [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) → [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
 - From [explanatory-gap](/concepts/explanatory-gap/) → [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
 - From [reductionism](/concepts/reductionism/) → [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
-- From [downward-causation](/concepts/downward-causation/) → [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- From [downward-causation](/concepts/mental-causation-and-downward-causation/) → [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
 
 ## Remaining Items
 

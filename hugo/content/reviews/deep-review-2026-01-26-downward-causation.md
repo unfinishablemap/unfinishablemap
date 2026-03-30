@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-26
-**Article**: [Downward Causation](/concepts/downward-causation/)
+**Article**: [Downward Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-downward-causation/)
 **Cross-review context**: psychophysical-laws-framework.md
 

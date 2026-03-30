@@ -105,7 +105,7 @@ This combination of philosophical rigor with appropriate humility about limits i
 ### High Priority
 
 #### Consciousness and Causal Powers
-- **Builds on**: [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/), [free-will](/topics/free-will/)
+- **Builds on**: [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation-and-downward-causation/), [free-will](/topics/free-will/)
 - **Would address**: The metaphysics of how substances exercise causal powers—what it means for consciousness to "cause" in a non-Humean sense
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Directly supports Bidirectional Interaction by explaining the metaphysical framework for mental causation

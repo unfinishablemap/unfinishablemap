@@ -100,7 +100,7 @@ All six adversarial personas found expected philosophical standoffs:
 From other articles to this one:
 - [causal-closure](/concepts/causal-closure/) (inline + Further Reading)
 - [history-of-interactionist-dualism](/topics/history-of-the-interaction-problem/) (inline + Further Reading)
-- [mental-causation](/concepts/mental-causation/) (Further Reading)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (Further Reading)
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) (Further Reading)
 - [epiphenomenalism](/concepts/epiphenomenalism/) (inline + Further Reading)
 - [interactionist-dualism](/concepts/interactionist-dualism/) (Further Reading)

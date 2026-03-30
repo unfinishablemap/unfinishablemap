@@ -63,13 +63,13 @@ All strengths identified in the first review remain intact:
 7. **downward-causation.md** — Added to Further Reading as empirical evidence for semantically structured downward causation.
 
 ### Cross-links Added (inbound to content-specificity)
-- [mental-causation](/concepts/mental-causation/) (body text + Further Reading)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) (body text + Further Reading)
 - [epiphenomenalism](/concepts/epiphenomenalism/) (body text)
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) (new subsection + Further Reading)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (body text + Further Reading)
 - [qualia](/concepts/qualia/) (body text)
 - [selection-laws](/concepts/psychophysical-laws/) (body text + Further Reading)
-- [downward-causation](/concepts/downward-causation/) (Further Reading)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) (Further Reading)
 
 ## Word Count
 1663 → 1663 (no change to target article)

@@ -134,7 +134,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — What a complete specification of the interface must contain
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — How psychophysical laws bridge mind and matter
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
-- [mental-causation](/concepts/mental-causation/) — The broader case for consciousness causing physical effects
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader case for consciousness causing physical effects
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — From Descartes to contemporary quantum approaches
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When and how convergence carries evidential weight
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why consciousness breaks standard explanatory frameworks

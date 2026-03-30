@@ -55,15 +55,15 @@ topics: []
 
 ### Enhancements Made
 - Added `[observational-closure](/concepts/observational-closure/)` inline link in Observational Closure section
-- Expanded concepts frontmatter with `[downward-causation](/concepts/downward-causation/)`, `[agent-causation](/concepts/agent-causation/)`, `[observational-closure](/concepts/observational-closure/)`
+- Expanded concepts frontmatter with `[downward-causation](/concepts/mental-causation-and-downward-causation/)`, `[agent-causation](/concepts/agent-causation/)`, `[observational-closure](/concepts/observational-closure/)`
 - Normalized `[epiphenomenalism](/concepts/epiphenomenalism/)` to `[epiphenomenalism](/concepts/epiphenomenalism/)` for consistency
 - Added Further Reading entries: observational-closure, downward-causation, agent-causation
 
 ### Cross-links Added (Orphan Integration)
-- [downward-causation](/concepts/downward-causation/) — Added causal-delegation as response in Overdetermination Problem section
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — Added causal-delegation as response in Overdetermination Problem section
 - [emergence](/concepts/emergence/) — Added causal-delegation as third option after Kim's exclusion argument
 - [agent-causation](/concepts/agent-causation/) — Added causal-delegation parallel in Skill Delegation section
-- [mental-causation](/concepts/mental-causation/) — Added causal-delegation reference in Delegatory Dualism subsection
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added causal-delegation reference in Delegatory Dualism subsection
 - [preemption](/concepts/preemption/) — Added causal-delegation link in Saad's Delegatory Preemption section
 - [delegatory-dualism](/topics/delegatory-dualism/) — Added causal-delegation link where two laws are introduced
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Added causal-delegation in Delegation response paragraph

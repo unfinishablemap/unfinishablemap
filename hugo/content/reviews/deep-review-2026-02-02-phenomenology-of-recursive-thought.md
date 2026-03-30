@@ -30,7 +30,7 @@ None. The article is well-structured with accurate attributions and includes the
    - **Resolution**: Added paragraph addressing the objection and explaining why the indexical question "why am I this observer?" has no answer in many-worlds yet seems coherent to recursive consciousness.
 
 2. **Bidirectional Interaction connection underargued**: The claim that recursive thought "manifestly" demonstrates bidirectional causation could be challenged by classical mechanistic accounts.
-   - **Resolution**: Expanded the section to distinguish functional from phenomenal recursion and explain why phenomenal features being irreducible implies something beyond classical causation. Added cross-link to [downward-causation](/concepts/downward-causation/).
+   - **Resolution**: Expanded the section to distinguish functional from phenomenal recursion and explain why phenomenal features being irreducible implies something beyond classical causation. Added cross-link to [downward-causation](/concepts/mental-causation-and-downward-causation/).
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Phenomenal categories may be folk psychological constructs—acknowledged implicitly through the Map's commitment to dualism rather than engaged directly
@@ -52,7 +52,7 @@ None. The article is well-structured with accurate attributions and includes the
 3. **Added functional/phenomenal distinction** to hard problem section to strengthen irreducibility argument
 
 ### Cross-links Added
-- [downward-causation](/concepts/downward-causation/) — in Bidirectional Interaction section and Further Reading
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — in Bidirectional Interaction section and Further Reading
 
 ## Remaining Items
 

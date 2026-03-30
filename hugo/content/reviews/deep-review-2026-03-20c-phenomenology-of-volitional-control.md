@@ -53,7 +53,7 @@ topics: []
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — inline link in Attention Networks subsection
 - [control-theoretic-will](/concepts/control-theoretic-will/) — inline link in Veto subsection
 - [agent-causation](/concepts/agent-causation/) — inline link in Motor Selection section
-- [mental-causation](/concepts/mental-causation/) — inline link in Agent Causation and Mental Causation section
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — inline link in Agent Causation and Mental Causation section
 
 ## Remaining Items
 

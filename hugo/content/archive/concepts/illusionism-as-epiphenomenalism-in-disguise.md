@@ -59,7 +59,7 @@ Consider what happens in each framework when you report being in pain.
 
 **Under illusionism:** Your brain state causes (a) a quasi-phenomenal representation that you misjudge as pain experience and (b) your report "I'm in pain." The quasi-phenomenal state exists, but it has no phenomenal character. Your report is produced by the same physical processes that produce the misrepresentation. The phenomenal character you attribute to your state does no causal work because it doesn't exist.
 
-In both cases, the phenomenal—the "what it's like"—is causally idle. The epiphenomenalist admits the phenomenal exists and declares it inert. The illusionist denies the phenomenal exists and replaces it with something functional. But the functional replacement, by design, does only what physical processes already do. Frankish's quasi-phenomenal properties are defined as states that dispose you to make phenomenal judgments—they are *about* the functional role, not about any additional causal contribution. If quasi-phenomenal properties did genuine causal work beyond what the underlying physical processes accomplish, illusionism would be granting [mental-causation](/concepts/mental-causation/) to non-phenomenal states, which would raise the question of why phenomenal properties were denied rather than simply given their causal due.
+In both cases, the phenomenal—the "what it's like"—is causally idle. The epiphenomenalist admits the phenomenal exists and declares it inert. The illusionist denies the phenomenal exists and replaces it with something functional. But the functional replacement, by design, does only what physical processes already do. Frankish's quasi-phenomenal properties are defined as states that dispose you to make phenomenal judgments—they are *about* the functional role, not about any additional causal contribution. If quasi-phenomenal properties did genuine causal work beyond what the underlying physical processes accomplish, illusionism would be granting [mental-causation](/concepts/mental-causation-and-downward-causation/) to non-phenomenal states, which would raise the question of why phenomenal properties were denied rather than simply given their causal due.
 
 The convergence is exact: both positions hold that a complete causal explanation of human behavior, including all discourse about consciousness, requires no reference to phenomenal properties. Everything we say and do about consciousness is fully explained by physical processes. The phenomenal is either inert (epiphenomenalism) or absent (illusionism), but the causal picture is the same.
 
@@ -107,7 +107,7 @@ Illusionism and epiphenomenalism both attempt to reconcile consciousness (or its
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position illusionism structurally mirrors
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why epiphenomenalism is the default destination of most consciousness theories
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The argument that applies equally to both positions
-- [mental-causation](/concepts/mental-causation/) — What both positions deny and the Map affirms
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — What both positions deny and the Map affirms
 - [causal-closure](/concepts/causal-closure/) — The premise both positions rely on
 
 ## References

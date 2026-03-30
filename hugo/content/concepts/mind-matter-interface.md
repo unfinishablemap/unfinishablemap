@@ -80,7 +80,7 @@ Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-e
 
 **Upward direction** (brain → consciousness): Neural state configures the interface, determining what aspects of consciousness can manifest. Brain damage produces deficits not because consciousness is damaged but because interface components are—like a radio with blown speakers. This explains [neural correlates](/concepts/neural-correlates-of-consciousness/) without entailing production.
 
-**Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [mental causation](/concepts/mental-causation/) without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
+**Downward direction** (consciousness → brain): At quantum indeterminacies, consciousness selects among neural possibilities. This explains [mental causation](/concepts/mental-causation-and-downward-causation/) without violating conservation laws—consciousness doesn't inject energy but shapes what physics leaves undetermined. Bridging the gap from quantum selection to macroscopic neural effects requires [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/)—from chaotic sensitivity to self-organized criticality—that scale quantum-level biases through the brain's nonlinear dynamics.
 
 The layers are inseparable in practice. Consciousness both *uses* the interface (selection) and *is constrained by* it (filtering).
 
@@ -195,7 +195,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum selection mechanisms (Stapp, Orch OR)
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How selection operates concretely
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy
-- [mental-causation](/concepts/mental-causation/) — Why selection addresses the exclusion problem
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Why selection addresses the exclusion problem
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework
 - [tenets](/tenets/) — the Map's foundational commitments
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge and biological exceptions

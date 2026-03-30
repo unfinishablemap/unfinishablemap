@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [Mental Causation](/concepts/mental-causation/)
+**Article**: [Mental Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: [2026-03-19 (earlier)](/reviews/deep-review-2026-03-19-mental-causation/)
 **Word count**: 2349 → 2392 (+43, length-neutral)
 **Context**: Cross-review mental-causation.md considering interaction problem in non-western philosophy

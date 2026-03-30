@@ -56,7 +56,7 @@ topics: []
 - [illusionism](/concepts/illusionism/)
 - [decoherence](/concepts/decoherence/)
 - [introspection](/concepts/introspection/)
-- [mental-causation](/concepts/mental-causation/)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/)
 - [personal-identity](/topics/personal-identity/) (in Further Reading)
 
 ### References Added

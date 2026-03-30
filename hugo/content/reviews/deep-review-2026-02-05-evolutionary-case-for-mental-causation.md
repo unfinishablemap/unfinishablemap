@@ -52,7 +52,7 @@ Added cross-references from related articles to integrate this orphan:
 
 ### Cross-links Added (from other articles to this one)
 - [epiphenomenalism](/concepts/epiphenomenalism/) — Added link in "The Evolutionary Objection" section and Further Reading
-- [mental-causation](/concepts/mental-causation/) — Added link in "The Self-Stultification Argument" section and Further Reading
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added link in "The Self-Stultification Argument" section and Further Reading
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — Added link in "The Evolutionary Argument" section and Further Reading
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Added link in "The Epiphenomenalist Challenge" section and Further Reading
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Added link in "The Evolutionary Argument" section and Further Reading

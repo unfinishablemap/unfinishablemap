@@ -124,7 +124,7 @@ The Map acknowledges these objections but doesn't consider them decisive:
 
 **Decoherence doesn't solve the problem.** Explaining why we don't observe superpositions isn't explaining why we observe *this* outcome. The selector problem remains.
 
-**Many-Worlds has costs.** The [No Many Worlds](/tenets/#no-many-worlds) tenet reflects serious problems: indexical identity (why am I *this* branch?), probability interpretation (what does "70% likely" mean if all outcomes occur?), and elimination of [mental-causation](/concepts/mental-causation/) (if all outcomes happen regardless of choice, choice makes no difference).
+**Many-Worlds has costs.** The [No Many Worlds](/tenets/#no-many-worlds) tenet reflects serious problems: indexical identity (why am I *this* branch?), probability interpretation (what does "70% likely" mean if all outcomes occur?), and elimination of [mental-causation](/concepts/mental-causation-and-downward-causation/) (if all outcomes happen regardless of choice, choice makes no difference).
 
 **"Unphysical" begs the question.** The assumption that consciousness must be physical is precisely what's at issue. The [Dualism](/tenets/#dualism) tenet holds that consciousness is not reducible to physical processes. Demanding physical explanation of consciousness assumes the reducibility the Map denies.
 
@@ -192,7 +192,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Full synthesis of time, collapse, and conscious agency
 - [decoherence](/concepts/decoherence/) — What environmental interaction does and doesn't explain
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-collapse interaction
-- [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The causal closure loophole
+- [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation-and-downward-causation/) — The causal closure loophole
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How mind and body interact
 - [many-worlds](/concepts/many-worlds/) — Arguments against MWI
 - [tenets](/tenets/) — The Map's foundational commitments

@@ -58,7 +58,7 @@ topics: []
 - [materialism](/concepts/materialism/) — Wikilinked existing "philosophy of mind" plain text in opening
 - [qualia](/concepts/qualia/) — Wikilinked existing "philosophy of mind" plain text in opening
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — "The central question of philosophy of mind" after Chalmers definition
-- [mental-causation](/concepts/mental-causation/) — "One of the central problems in philosophy of mind" in opening
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — "One of the central problems in philosophy of mind" in opening
 - [explanatory-gap](/concepts/explanatory-gap/) — "Central to philosophy of mind" after Levine attribution
 - [intentionality](/concepts/intentionality/) — "One of philosophy of mind's core puzzles" after Brentano thesis
 - [functionalism](/concepts/functionalism/) — "The dominant position in contemporary philosophy of mind" in opening

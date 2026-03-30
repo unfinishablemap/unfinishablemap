@@ -126,7 +126,7 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 - **Tenet alignment**: Supports Tenet 1 (Dualism) by clarifying the choice between dualist frameworks
 
 #### Specification Problem Deep Treatment
-- **Builds on**: [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Builds on**: [mental-causation](/concepts/mental-causation-and-downward-causation/), [interactionist-dualism](/concepts/interactionist-dualism/), [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
 - **Would address**: The specification problem (which phenomenal properties map to which physical selections) is repeatedly acknowledged as open but never given dedicated treatment. This is arguably the Map's most significant unresolved challenge.
 - **Estimated scope**: Long article
 - **Tenet alignment**: Critical for Tenet 2 (Minimal Quantum Interaction) and Tenet 3 (Bidirectional Interaction)
@@ -166,7 +166,7 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | [machine-consciousness](/topics/machine-consciousness/) | Amplification thesis implies AI lacks consciousness-dependent capabilities; machine-consciousness should reference this |
 | [baseline-cognition](/concepts/baseline-cognition/) | [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) | The threshold question directly follows from baseline cognition: at what point does consciousness emerge? |
 | [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) | [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) | Both address the observer's role in quantum mechanics from different angles |
-| [causal-delegation](/concepts/causal-delegation/) | [mental-causation](/concepts/mental-causation/) | Mental causation is the Map's central treatment; should cross-reference delegation as a specific mechanism |
+| [causal-delegation](/concepts/causal-delegation/) | [mental-causation](/concepts/mental-causation-and-downward-causation/) | Mental causation is the Map's central treatment; should cross-reference delegation as a specific mechanism |
 | [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) | [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | The hard problem article mentions Indian philosophy broadly; the dedicated article deserves explicit linking |
 
 ## New Concept Pages Needed

@@ -146,7 +146,7 @@ The definite outcomes problem directly supports the Map's core commitments:
 - [free-will](/topics/free-will/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — The connection to agency
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of consciousness and causal efficacy
 - [knowledge-argument](/concepts/knowledge-argument/) — Why physics doesn't capture phenomenal facts
-- [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation/) — The broader framework
+- [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader framework
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

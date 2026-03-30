@@ -36,7 +36,7 @@ topics:
 
 When expert golfers think about their swing, they miss putts they would normally make. When concert pianists monitor their finger placement, they stumble over passages they've played flawlessly a thousand times. When skilled speakers attend to their pronunciation, they stammer. This is the choking phenomenon—the counterintuitive degradation of skilled performance when conscious attention focuses on automatized actions.
 
-Choking provides unusually strong evidence for [mental causation](/concepts/mental-causation/). If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—a causally inert byproduct of neural activity—it could not interfere with procedural execution. The fact that attending to skills *disrupts* them demonstrates that consciousness genuinely does something. The disruption is the evidence.
+Choking provides unusually strong evidence for [mental causation](/concepts/mental-causation-and-downward-causation/). If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—a causally inert byproduct of neural activity—it could not interfere with procedural execution. The fact that attending to skills *disrupts* them demonstrates that consciousness genuinely does something. The disruption is the evidence.
 
 ## The Structure of Choking
 
@@ -135,7 +135,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 
 ## Further Reading
 
-- [mental-causation](/concepts/mental-causation/) — The broader philosophical framework and Kim's exclusion argument
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical framework and Kim's exclusion argument
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness and skill automaticity
 - [embodied-cognition](/concepts/embodied-cognition/) — Body memory and the interface response to Merleau-Ponty
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-brain interaction

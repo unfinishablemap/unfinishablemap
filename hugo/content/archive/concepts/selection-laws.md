@@ -74,7 +74,7 @@ Without answers to these questions, "consciousness selects" remains metaphorical
 
 Selection laws naturally locate at quantum indeterminacies. Classical physics is deterministic—if physics fixes the outcome, there's no room for consciousness to determine anything. Quantum mechanics provides probability distributions without determining specific outcomes. That gap is where selection laws operate.
 
-This connects to the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases which of several quantum-mechanically possible outcomes becomes actual, without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/) or injecting energy. Since quantum mechanics assigns probabilities to outcomes but doesn't determine which occurs, shifting those probabilities requires no energy injection—the total probability still sums to one. The selection is minimal—the smallest deviation from standard physics that permits [downward-causation](/concepts/downward-causation/).
+This connects to the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases which of several quantum-mechanically possible outcomes becomes actual, without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/) or injecting energy. Since quantum mechanics assigns probabilities to outcomes but doesn't determine which occurs, shifting those probabilities requires no energy injection—the total probability still sums to one. The selection is minimal—the smallest deviation from standard physics that permits [downward-causation](/concepts/mental-causation-and-downward-causation/).
 
 ## Candidate Selection Laws
 
@@ -157,8 +157,8 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The broader framework including supervenience laws
 - [psychophysical-coupling](/concepts/psychophysical-laws/) — The coupling law problem and candidate mechanisms
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Integrated overview of the framework
-- [mental-causation](/concepts/mental-causation/) — How consciousness affects physical outcomes
-- [downward-causation](/concepts/downward-causation/) — The general framework for higher-level causes affecting lower-level processes
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — The general framework for higher-level causes affecting lower-level processes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for selection
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The ~10 bits/second constraint on conscious selection
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — Epistemic challenges of specifying the mind-matter interface

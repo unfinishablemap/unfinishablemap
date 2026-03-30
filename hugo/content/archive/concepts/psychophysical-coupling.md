@@ -343,7 +343,7 @@ The Map cannot resolve which coupling law is correct—this is an open empirical
 - [mental-effort](/concepts/mental-effort/) — The phenomenology Stapp's mechanism requires
 - [attention](/concepts/attention-as-interface/) — The attention-consciousness relationship
 - [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — Evidence that attention and consciousness are separable processes
-- [mental-causation](/concepts/mental-causation/) — How coupling addresses exclusion arguments
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — How coupling addresses exclusion arguments
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework requiring coupling laws
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Detailed treatment of attention-observation mechanism
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy of how consciousness might couple: basis, timing, or probability control

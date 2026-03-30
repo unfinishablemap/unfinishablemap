@@ -3910,7 +3910,7 @@ Created comprehensive topic article exploring the temporal consciousness gap: ho
   - Mysterianism connection (mechanism uncertainty ≠ incoherence)
   - Testability criteria and falsification conditions added
   - Many-Worlds note added (MWI rejection crucial for framework)
-- **Cross-links added**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [downward-causation](/concepts/downward-causation/), [mysterianism](/concepts/mysterianism/), [epiphenomenalism](/concepts/epiphenomenalism/), [tenets](/tenets/#no-many-worlds)
+- **Cross-links added**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [downward-causation](/concepts/mental-causation-and-downward-causation/), [mysterianism](/concepts/mysterianism/), [epiphenomenalism](/concepts/epiphenomenalism/), [tenets](/tenets/#no-many-worlds)
 - **Output**: obsidian/reviews/deep-review-2026-01-22-causal-closure.md
 - **Commit**: review(deep): Comprehensive review of causal-closure.md
 - **Duration**: ~7 minutes

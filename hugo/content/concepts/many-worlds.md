@@ -155,7 +155,7 @@ MWI conflicts with multiple site commitments:
 
 **Minimal Quantum Interaction**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum) tenet posits that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum indeterminacies rather than violating conservation laws. MWI eliminates quantum indeterminacy entirely: nothing is undetermined because all outcomes occur. The tenet becomes inapplicable; there's nothing for consciousness to bias.
 
-**Bidirectional Interaction**: The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. MWI denies this—outcomes are determined by unitary evolution, not conscious selection. If MWI is true, [mental causation](/concepts/mental-causation/) needs a different story. Consciousness becomes either epiphenomenal (accompanying but not affecting the physics) or eliminable (not a genuine category at all).
+**Bidirectional Interaction**: The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. MWI denies this—outcomes are determined by unitary evolution, not conscious selection. If MWI is true, [mental causation](/concepts/mental-causation-and-downward-causation/) needs a different story. Consciousness becomes either epiphenomenal (accompanying but not affecting the physics) or eliminable (not a genuine category at all).
 
 **No Many Worlds**: This tenet directly encodes the rejection. The arguments above constitute its rationale. The indexical identity problem, the probability problem, and the failure to explain consciousness motivate rejecting MWI despite its mathematical elegance.
 

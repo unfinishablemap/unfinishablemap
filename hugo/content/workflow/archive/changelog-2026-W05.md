@@ -5802,7 +5802,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2143 → 2263 (+120 words)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 4 (illusionism functionalist response, MWI decision-theoretic acknowledgment, contemplative evidence qualification, śūnyatā tension note)
-- **Enhancements made**: Added [mental-causation](/concepts/mental-causation/) cross-link, strengthened philosophical engagement with opposing views
+- **Enhancements made**: Added [mental-causation](/concepts/mental-causation-and-downward-causation/) cross-link, strengthened philosophical engagement with opposing views
 - **Output**: [deep-review-2026-01-27-nihilism-and-existentialism](/reviews/deep-review-2026-01-27-nihilism-and-existentialism/)
 - **Notes**: First review of coalesced article. No critical issues—article is philosophically competent with all required sections. Improvements focused on steelmanning opposing positions (illusionism, MWI) while maintaining the Map's commitments.
 
@@ -7166,7 +7166,7 @@ This is the second deep review; article is approaching stability.
 - Added cross-link to [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) in new neural determinism response
 - Added cross-link to [mental-effort](/concepts/mental-effort/) in Phenomenological Unity section
 - Added cross-link to [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) in three-layer model section
-- Added [downward-causation](/concepts/downward-causation/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), [mental-effort](/concepts/mental-effort/) to frontmatter and Further Reading
+- Added [downward-causation](/concepts/mental-causation-and-downward-causation/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), [mental-effort](/concepts/mental-effort/) to frontmatter and Further Reading
 **Output**: reviews/deep-review-2026-01-26-dopamine-selection-interface.md
 **Notes**: First review. Article is well-structured with strong empirical grounding. Main philosophical challenge (neural determinism as alternative to consciousness) now addressed. MWI objection acknowledged as bedrock disagreement.
 

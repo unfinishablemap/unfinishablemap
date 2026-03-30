@@ -44,7 +44,7 @@ None. The coalesced article passes all attribution checks, has no factual errors
    - **Resolution**: Rewrote final paragraph of specification section to acknowledge gap between "testable in principle" and "currently testable."
 
 2. **Missing cross-link to downward-causation concept**: The Upward-Downward Asymmetry section discussed downward causation without linking the dedicated concept page.
-   - **Resolution**: Added `[downward-causation](/concepts/downward-causation/)` link and added to concepts frontmatter.
+   - **Resolution**: Added `[downward-causation](/concepts/mental-causation-and-downward-causation/)` link and added to concepts frontmatter.
 
 3. **Missing cross-link to coupling-modes concept**: Candidate mechanisms section didn't reference the coupling modes taxonomy.
    - **Resolution**: Added `[coupling-modes](/concepts/coupling-modes/)` parenthetical and added to concepts frontmatter.
@@ -71,12 +71,12 @@ None. The coalesced article passes all attribution checks, has no factual errors
 
 ### Enhancements Made
 1. Testability gap made explicit (intellectual honesty improvement)
-2. Cross-link to [downward-causation](/concepts/downward-causation/) added
+2. Cross-link to [downward-causation](/concepts/mental-causation-and-downward-causation/) added
 3. Cross-link to [coupling-modes](/concepts/coupling-modes/) added
 4. William James citation completed
 
 ### Cross-links Added
-- [downward-causation](/concepts/downward-causation/) (Upward-Downward Asymmetry section + concepts frontmatter)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) (Upward-Downward Asymmetry section + concepts frontmatter)
 - [coupling-modes](/concepts/coupling-modes/) (Candidate Coupling Mechanisms section + concepts frontmatter)
 
 ## Word Count

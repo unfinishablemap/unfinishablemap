@@ -1,0 +1,285 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-01-15
+ai_modified: 2026-03-29 15:11:00+00:00
+ai_system: claude-opus-4-5-20251101
+archive_reason: Coalesced into Mental Causation and Downward Causation
+archived: true
+archived_date: 2026-03-30 05:21:00+00:00
+author: null
+concepts:
+- '[[psychophysical-laws]]'
+- '[[psychophysical-laws-bridging-mind-and-matter]]'
+- '[[supervenience]]'
+- '[[causal-closure]]'
+- '[[interactionist-dualism]]'
+- '[[concepts/epiphenomenalism]]'
+- '[[emergence]]'
+- '[[quantum-consciousness]]'
+- '[[agent-causation]]'
+- '[[downward-causation]]'
+- '[[reductionism]]'
+- '[[illusionism]]'
+- '[[brain-interface-boundary]]'
+- '[[concepts/many-worlds]]'
+- '[[pairing-problem]]'
+- '[[decoherence]]'
+- '[[attention-as-interface]]'
+- '[[bidirectional-interaction]]'
+- '[[conservation-laws-and-mental-causation]]'
+- '[[mind-matter-interface]]'
+- '[[causal-delegation]]'
+- '[[delegatory-dualism]]'
+- '[[preemption]]'
+- '[[observational-closure]]'
+- '[[bandwidth-problem-mental-causation]]'
+- '[[bandwidth-of-consciousness]]'
+- '[[cross-cultural-convergence-on-mental-causation]]'
+created: 2026-01-15
+date: &id001 2026-01-15
+description: How mental states cause physical effects despite Kim's exclusion argument.
+  Quantum indeterminacy provides openings where consciousness can select outcomes.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-03-24 22:09:00+00:00
+modified: *id001
+original_path: /concepts/mental-causation/
+related_articles:
+- '[[tenets]]'
+- '[[phenomenology-mechanism-bridge]]'
+- '[[arguments/epiphenomenalism-argument]]'
+- '[[metaproblem-of-consciousness-under-dualism]]'
+- '[[self-stultification-as-master-argument]]'
+- '[[concepts/epiphenomenalism]]'
+superseded_by: /concepts/mental-causation-and-downward-causation/
+title: Mental Causation
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[topics/free-will]]'
+---
+
+Mental causation — one of the central problems in [philosophy of mind](/concepts/philosophy-of-mind/) — is the thesis that mental states cause physical effects. When you decide to raise your arm, your decision causes the arm to rise. When pain motivates avoidance, the pain causes the avoidance. This seems obvious from experience but faces a formidable challenge: Jaegwon Kim's exclusion argument, which concludes that mental properties are either physical or causally inert. The Unfinishable Map's quantum framework provides a response: consciousness causes physical effects at points where physics is genuinely incomplete.
+
+## The Problem
+
+If physical events have sufficient physical causes, what room is there for mental causation?
+
+Consider your decision to speak. Neuroscience traces the causal chain: motor cortex activation → nerve signals → muscle contraction → sound waves. Each physical event has a physical cause. Where does "your decision" enter?
+
+If the decision is identical to some brain state, there's no special problem — it's physical causation all the way down. But if mental properties are distinct from physical properties (as [dualism](/concepts/interactionist-dualism/) holds), they seem causally excluded by their physical realizers.
+
+## Kim's Exclusion Argument
+
+Jaegwon Kim's exclusion argument runs:
+
+1. **Causal closure**: Every physical event that has a cause has a sufficient physical cause
+2. **Mental causation**: Mental events cause physical effects (common-sense premise)
+3. **No systematic overdetermination**: Mental causes don't overdetermine effects alongside physical causes
+4. **Non-reductionism**: Mental properties are not identical to physical properties
+
+Kim concludes that mental properties are causally excluded by their physical realizers. Either mental causation doesn't occur ([epiphenomenalism](/concepts/epiphenomenalism/)), or mental properties just *are* physical properties ([reductionism](/concepts/reductionism/)). See [reductionism](/concepts/reductionism/#kims-challenge) for the fuller argument.
+
+Why can't mental and physical causes both contribute through overdetermination? Kim argues systematic overdetermination is untenable. Critics respond that mental properties may be the more *proportional* cause (Yablo), but no response fully dissolves the problem under strong [causal closure](/concepts/causal-closure/).
+
+## The [Supervenience](/concepts/supervenience/) Problem
+
+Mental properties [supervene](/concepts/supervenience/) on physical properties: no mental difference without physical difference. But if mental property M supervenes on physical property P, and P suffices to cause effect E, then M seems causally "screened off."
+
+Kim calls this "causal drainage" — efficacy drains from higher levels to lower levels. The threat extends beyond consciousness to all higher-level properties: does temperature cause anything, or just molecular motion? This generalization either undermines all higher-level causation (implausible) or suggests something is wrong with the exclusion reasoning itself. The Map's response reframes the relationship: rather than one-way supervenience (physical determines mental), the [actual picture](/concepts/supervenience/) is *mutual constraint* — physical states constrain which experiences are possible, and conscious states constrain which physical outcomes become actual.
+
+## Major Responses
+
+### Interventionism
+
+James Woodward's interventionist theory defines causes as factors whose manipulation would change effects. Kroedel argues this vindicates mental causation by replacing the exclusion argument's "building block" model. The challenge: can we intervene on mental properties while holding physical realizers fixed?
+
+### Inheritance and Constitution
+
+Mental properties might "inherit" causal powers from physical realizers through constitution or grounding — mental causation *is* physical causation under another description, without identity.
+
+### Strong Emergence
+
+[Strong emergentism](/concepts/emergence/) holds that mental properties have genuinely novel causal powers not present in physical constituents. This requires denying causal closure, but without specifying *how* emergent causation works, it names the problem more than solves it. The [emergence](/concepts/emergence/) article traces how the Map advances beyond classical emergentism: consciousness is the paradigm case of strong emergence, and the quantum opening provides the locus that Broad and Alexander could only accept with "natural piety."
+
+### Delegatory Dualism
+
+Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025) holds that experiences *[preempt](/concepts/preemption/)* physical causes rather than overdetermining alongside them. Physical brain states have a "default causal profile" — the effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by preempting what the physical state would otherwise do.
+
+This differs crucially from overdetermination: preemption has one cause *operating* while the other is *sidelined*. Saad's distinction between *universal* closure and *[observational closure](/concepts/observational-closure/)* parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. See [causal-delegation](/concepts/causal-delegation/) for the full mechanism.
+
+### The Quantum Opening
+
+The Map's response: deny causal closure at quantum indeterminacies.
+
+Quantum mechanics specifies probabilities but not which outcome actualizes. Causal closure fails at these points. If consciousness acts at these indeterminacies — selecting among outcomes physics leaves undetermined, as [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks propose — it causes physical events without competing with physical causes. No overdetermination occurs because physics provides necessary but not sufficient causes. The [prebiotic collapse problem](/concepts/prebiotic-collapse/) shows this framework is cosmologically consistent.
+
+The [two-layer architecture](/concepts/mind-matter-interface/) places this quantum mechanism as Layer 2 (Interface/Control), complementing Layer 1's filter theory explanation of why brain-consciousness correlation doesn't entail production. This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness biases quantum outcomes where the physical story runs out. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) argues that evolution would have specifically selected for neural architectures supporting this quantum interface—the same selective logic that produced quantum magnetoreception and enzyme tunnelling.
+
+### The Decoherence Challenge
+
+The main physics-based objection: warm neural tissue decoheres quantum superpositions in ~10^-13 seconds (Tegmark 2000), far too fast for consciousness to exploit. But [decoherence](/concepts/decoherence/) doesn't eliminate quantum indeterminacy — it explains why interference effects wash out, but outcomes still require determination. Recent calculations incorporating biological protective mechanisms extend coherence estimates by many orders of magnitude. Consciousness could bias outcomes at the point of measurement even after decoherence has occurred.
+
+Even granting the quantum opening, consciousness must still bridge the gap between quantum-scale effects and macroscopic neural outcomes. Six distinct [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) have been proposed — from microtubule collapse to self-organized criticality — each addressing a different segment of this quantum-to-macroscopic chain.
+
+### The Conservation Objection
+
+If non-physical consciousness moves matter, doesn't energy appear from nowhere? This [conservation objection](/concepts/conservation-laws-and-mental-causation/) fails on two grounds. First, conservation laws derive from symmetries (Noether's theorem); mental influence would break the relevant symmetry, making the objection question-begging (Cucu and Pitts 2019). Second, selection among quantum-permitted outcomes requires no energy transfer — all candidates already have definite energies.
+
+### The Specification Challenge
+
+Even granting the quantum opening, *which* phenomenal properties map to *which* physical selections? The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure: Chalmers distinguished *supervenience laws* from what the Map calls *[selection laws](/concepts/psychophysical-laws/)* — laws specifying how consciousness participates in determining physical outcomes.
+
+The [psychophysical-laws](/concepts/psychophysical-laws/) article surveys five candidate mechanisms, of which only two meet basic adequacy standards: attention → observation rate (Stapp) and intention → probability weighting (Eccles). These operate through different [coupling-modes](/concepts/coupling-modes/) with distinct implications for detectability. The related [bandwidth problem](/concepts/bandwidth-problem-mental-causation/) — whether the mind-body channel carries enough information — is resolved by [hierarchical selection](/topics/bandwidth-of-consciousness/): consciousness selects at policy level while unconscious systems supply fine-grained detail.
+
+### Why Not Many Worlds?
+
+If all quantum outcomes occur in branching universes, there's no "selection" for consciousness to perform. The Map's [rejection of Many-Worlds](/concepts/many-worlds/) is essential to mental causation. The [No Many Worlds](/tenets/#no-many-worlds) tenet isn't incidental — it's required for mental causation to be possible.
+
+## Agent Causation and Mental Causation
+
+The exclusion argument assumes event causation — events causing events according to laws. But [agent causation](/concepts/agent-causation/) offers a different model: substances (agents) causing events through exercise of causal powers.
+
+E.J. Lowe argued that all causation is fundamentally [substance causation](/concepts/agent-causation/#the-metaphysical-foundation-substance-causation). The conscious subject causes actions not as one event producing another but as an agent exercising powers. If consciousness is a substance with genuine causal powers operating at quantum indeterminacies, the exclusion argument's framework doesn't apply. The phenomenology of [mental effort](/concepts/mental-effort/) supports this: effort feels like *doing* something, not observing correlated events. The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) reveals four distinguishable components of willing—initiation, sustained control, effort, and veto—each tracking genuine causal engagement. The [phenomenology of volitional control](/topics/volitional-control/)—including Brass and Haggard's "whether" component and Wegner's illusion theory rebuttal—provides the detailed first-person case.
+
+Whitehead's process philosophy offers a complementary reframing: "actual occasions" exercise self-determination in constituting themselves from their causal inheritance. If all causation involves experiential self-determination, human mental causation exemplifies what causation fundamentally is. See [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/) for how process solutions form one of five recurring types across philosophical traditions. The [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) on mental causation — Indian, African, and Western traditions independently concluding that consciousness is causally efficacious — provides further evidential support for the interactionist position.
+
+### The Interface Question
+
+If consciousness causes physical effects, why only in *this* brain? The [pairing problem](/concepts/pairing-problem/) asks what connects a particular mind to a particular body. The Map's response: [brain-interface-boundary](/concepts/brain-interface-boundary/) constrains mental causation to neural systems already integrated into the subject's control loop — consciousness can only influence quantum systems it can "observe" through the [attention mechanism](/concepts/attention-as-interface/).
+
+## Empirical Evidence: Clinical Neuroplasticity
+
+The philosophical arguments for mental causation gain empirical traction from [clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), where intentional mental activity produces measurable, lasting changes in neural architecture through causal routes distinct from pharmacological intervention.
+
+### Self-Directed Neuroplasticity in OCD
+
+Jeffrey Schwartz's research programme at UCLA provides the most direct clinical evidence. His four-step cognitive protocol—Relabel, Reattribute, Refocus, Revalue—trains OCD patients to recognise obsessive thoughts as faulty circuitry and redirect attention. PET imaging showed that patients completing this purely cognitive intervention, without medication, achieved normalisation of hyperactive caudate nucleus metabolism comparable in magnitude to SSRI pharmacotherapy (Schwartz, 1998). A conscious decision to implement a therapeutic strategy—a decision with propositional content about one's own mental states—produces measurable changes in neural metabolism.
+
+### The Pathway Divergence Argument
+
+Meta-analyses reveal a philosophically significant pattern across psychiatric disorders: CBT and pharmacotherapy produce comparable clinical outcomes through *different neural pathways*. CBT modulates top-down, from cortical regions to limbic structures—a 2022 meta-analysis of 302 depressed subjects across 18 experiments found consistent decreases in right amygdala activity following CBT (Marzbani et al., 2022). Pharmacotherapy modulates bottom-up, through neurochemical changes at the synapse propagating to cortex.
+
+This pathway divergence bears on the exclusion argument directly. If mental causation were merely physical causation redescribed at a higher level—as Kim's exclusion argument implies—psychological and pharmacological interventions should converge on the same neural route. The systematic directional asymmetry across independent research programmes (depression, anxiety, OCD) suggests top-down and bottom-up causation represent genuinely different causal types, not different descriptions of the same physical process.
+
+### Meditation and Placebo
+
+The evidence extends beyond clinical treatment. Sustained meditation practice produces *functional* brain changes—altered activation patterns, reduced default mode network activity, enhanced gamma synchrony—driven by deliberate cultivation of attentional capacities. However, earlier claims of *structural* changes (cortical thickening, grey matter density) have been challenged: Kral et al. (2022) tested 218 participants with active controls and found no structural brain changes from MBSR, suggesting earlier positive findings reflected methodological limitations. Meditation's functional effects and moderate efficacy for anxiety and depression (Goyal et al., 2014) remain supported but should not be overstated. Placebo effects demonstrate that belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions producing different neural signatures (Marueckova et al., 2024). This [content-specificity](/concepts/content-specificity-of-mental-causation/)—meaning determining which physical effect occurs—is difficult to accommodate if mental descriptions lack genuine causal efficacy.
+
+The [Bidirectional Interaction](/concepts/bidirectional-interaction/) article develops the convergence argument: four independent evidence streams (OCD, psychotherapy neuroimaging, meditation, placebo) all point toward intentional mental activity reshaping the brain through routes irreducible to bottom-up physical causation.
+
+## The Self-Stultification Argument
+
+The strongest positive argument for mental causation is [self-stultification](/topics/self-stultification-as-master-argument/). The [formal argument against epiphenomenalism](/arguments/epiphenomenalism/):
+
+1. We discuss consciousness — we write about qualia, debate the hard problem, report our experiences
+2. If epiphenomenalism is true, these discussions are not caused by consciousness itself
+3. Reports about consciousness would be accidentally correlated with their subject matter at best
+4. Beliefs formed without causal connection to their subject matter are not rationally held
+5. Therefore, epiphenomenalism cannot be rationally believed on the basis of evidence about consciousness
+
+If mental states cause nothing, then your beliefs about consciousness aren't caused by consciousness — making the denial epistemically self-defeating. The [metaproblem of consciousness](/topics/metaproblem-of-consciousness-under-dualism/) runs a parallel argument: if consciousness doesn't cause our problem intuitions, those intuitions cannot be explained as tracking their subject matter—interactionism's realizationism is the only position that avoids this. The [evolutionary case](/topics/evolutionary-case-for-mental-causation/) provides complementary support, and the [choking phenomenon](/topics/choking-phenomenon-mental-causation/) offers empirical evidence: conscious interference with automatized skills demonstrates causation.
+
+### The Illusionist Response
+
+[illusionism](/concepts/illusionism/) attempts to sidestep this argument. Frankish introduces *quasi-phenomenal properties*: functional states that represent themselves as having phenomenal character without possessing it. To "seem" to have phenomenal consciousness is just to be in a state that disposes one to judge and react *as if* one has phenomenal properties.
+
+The Map's concern is structural. Even granting functional seeming, the illusionist faces a dilemma: if functional seeming retains any experiential dimension, the regress reasserts itself; if it eliminates experiential character entirely, it no longer explains why phenomenal consciousness strikes us as overwhelmingly real. The functional story explains why we produce certain *reports*, but reports are not what makes the hard problem hard. For the self-stultification argument specifically: the illusionist's position is produced by quasi-phenomenal states that, by hypothesis, misrepresent their own nature — undermining the epistemic basis for the position.
+
+## Relation to the Map's Perspective
+
+Mental causation is central to the Map's framework.
+
+**Bidirectional Interaction**: the Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) explicitly affirms that consciousness causally influences physical outcomes. The [bidirectional-interaction](/concepts/bidirectional-interaction/) concept page develops this in detail.
+
+**The Quantum Resolution**: The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) provides the mechanism. Consciousness acts where physics is incomplete — at quantum indeterminacies. This respects the spirit of causal closure while denying its letter.
+
+**Strong Emergence**: the Map's position can be understood as strong [emergentism](/concepts/emergence/) with a mechanism. The quantum framework specifies *where* and *how*: at indeterminacies, through biasing probabilities.
+
+**Against Epiphenomenalism**: The [cumulative case](/concepts/epiphenomenalism/#convergence-of-arguments) shows mental causation must occur. Self-stultification is the strongest blade: if consciousness causes nothing, we can't rationally believe anything about consciousness.
+
+**Agent Causation**: The [agent-causal framework](/concepts/agent-causation/) provides the metaphysics. The conscious subject exercises causal powers at quantum openings, addressing Kim's exclusion argument by rejecting its event-causal assumptions.
+
+## Why This Matters
+
+Mental causation bears directly on [free will](/concepts/concept-of-free-will/) (consciousness must cause choices for agency to be real), [moral responsibility](/topics/moral-implications-of-genuine-agency/) (blame and praise assume conscious states cause actions), and rationality (beliefs about consciousness must be caused by consciousness to be knowledge).
+
+## What Would Challenge This View?
+
+Mental causation, as defended here, is falsifiable:
+
+**Complete neural determinism**: If all neural events could be predicted from prior physical states with 100% accuracy, leaving no quantum gap, the mechanism fails. Current predictive accuracy (~60% for simple choices) leaves substantial room.
+
+**Elimination of neural quantum effects**: If quantum coherence were proven physically impossible in brain tissue, the interface mechanism fails. Current [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) evidence suggests biological quantum effects are more robust than expected.
+
+**Successful illusionist explanation**: If a fully satisfying account emerged explaining phenomenal seeming without phenomenal properties — navigating the dilemma between retaining experiential character and eliminating it — this would dissolve the motivation for mental causation.
+
+**Confirmation of Many-Worlds**: If the [many-worlds interpretation](/concepts/many-worlds/) were empirically confirmed, there would be no collapse for consciousness to influence. This would eliminate the quantum opening entirely.
+
+## Further Reading
+
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Four converging clinical neuroplasticity evidence streams for genuine mental causation
+- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Mental imagery as a test case for consciousness's causal efficacy
+- [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for consciousness's causal effects
+- [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Framework requiring selection laws for mental causation
+- [psychophysical-laws](/concepts/psychophysical-laws/) — How mental states select physical outcomes
+- [coupling-modes](/concepts/coupling-modes/) — Taxonomy: basis, timing, or probability control
+- [causal-delegation](/concepts/causal-delegation/) — Mechanism by which physical states hand off causal work to experiences
+- [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response: experiences preempt rather than overdetermine
+- [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Empirical evidence: conscious interference demonstrates causation
+- [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's commitment to consciousness causally influencing the physical
+- [illusionism](/concepts/illusionism/) — The radical challenge denying phenomenal consciousness
+- [supervenience](/concepts/supervenience/) — Why covariance without reduction is the Map's position
+- [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters here)
+- [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) — The cumulative case against epiphenomenalism
+- [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why conservation laws don't block mental causation
+- [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
+- [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How the causal closure principle evolved from Elisabeth's challenge through Kim's exclusion argument
+- [interactionist-dualism](/concepts/interactionist-dualism/) — The framework accommodating mental causation
+- [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolution would optimise the quantum substrate for mental causation
+- [epiphenomenalism](/concepts/epiphenomenalism/) — The view denying mental causation
+- [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
+- [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation
+- [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions independently converge on consciousness as causally efficacious
+- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether the mind-body channel carries enough information
+- [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain: phenomenal character inseparable from causal power
+- [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Meaning determines which physical effect occurs
+- [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics
+- [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
+- [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness affects only its own brain
+- [attention-as-interface](/concepts/attention-as-interface/) — How attention implements the consciousness-physics interface
+- [mind-matter-interface](/concepts/mind-matter-interface/) — The unified two-layer architecture integrating filter theory and quantum selection
+- [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — The realizationism argument: self-stultification applied to problem intuitions
+- [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Self-stultification generalised beyond epiphenomenalism
+- [epiphenomenalism](/concepts/epiphenomenalism/#convergence-of-arguments) — Four independent argument types converging against causal inertness
+
+## References
+
+1. Cucu, A. C., & Pitts, J. B. (2019). How Dualists Should (Not) Respond to the Objection from Energy Conservation. *arXiv:1909.13643*.
+1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
+1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
+1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
+1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
+1. Woodward, J. (2003). *Making Things Happen*. Oxford University Press.
+1. Yablo, S. (1992). Mental Causation. *Philosophical Review*, 101: 245-280.
+1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
+1. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
+1. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
+1. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
+1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
+
+<!-- AI REFINEMENT LOG - 2026-03-29
+Changes made:
+- Meditation subsection: replaced structural claims (cortical thickness, neurogenesis) with functional/structural distinction, citing Kral et al. (2022) replication failure and Goyal et al. (2014) meta-analysis
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Meditation structural evidence honestly calibrated.
+
+This log should be removed after human review.
+-->

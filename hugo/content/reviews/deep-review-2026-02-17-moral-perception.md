@@ -71,7 +71,7 @@ topics: []
 - [moral-phenomenology](/concepts/moral-phenomenology-and-perception/)
 - [phenomenal-normativity](/concepts/phenomenal-normativity/)
 - [affective-void](/voids/affective-void/)
-- [downward-causation](/concepts/downward-causation/)
+- [downward-causation](/concepts/mental-causation-and-downward-causation/)
 
 ## Remaining Items
 

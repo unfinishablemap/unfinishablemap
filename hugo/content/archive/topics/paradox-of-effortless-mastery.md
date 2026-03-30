@@ -45,7 +45,7 @@ topics:
 
 Consciousness works hard to make itself unnecessary. A pianist spends years of deliberate, effortful practice—each note consciously placed, each error consciously corrected—until the music flows from their fingers without deliberation. A martial artist drills a technique ten thousand times under focused attention until the body responds faster than thought permits. The paradox of effortless mastery is that consciousness labours to construct systems that then operate without its involvement. The architect designs itself out of the building.
 
-The Unfinishable Map argues that this paradox, far from embarrassing consciousness, reveals its deepest nature. Only something with genuine causal power could build the structures that eventually replace it. The paradox is evidence for [mental causation](/concepts/mental-causation/), not against it.
+The Unfinishable Map argues that this paradox, far from embarrassing consciousness, reveals its deepest nature. Only something with genuine causal power could build the structures that eventually replace it. The paradox is evidence for [mental causation](/concepts/mental-causation-and-downward-causation/), not against it.
 
 ## The Shape of the Paradox
 

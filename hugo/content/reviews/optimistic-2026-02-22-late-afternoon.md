@@ -103,7 +103,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 - **Tenet alignment**: Supports No Many Worlds (creative commitment presupposes singular actualization) and Bidirectional Interaction (temporal accumulation requires active consciousness)
 
 #### Direction-of-Fit as Concept Page
-- **Builds on**: [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation/)
+- **Builds on**: [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [agent-causation](/concepts/agent-causation/), [mental-causation](/concepts/mental-causation-and-downward-causation/)
 - **Would address**: The distinction between mind-to-world (creation, agency) and world-to-mind (perception, reception) causation is discussed in several articles but has no dedicated concept page
 - **Estimated scope**: Short concept article
 - **Tenet alignment**: Directly articulates how Bidirectional Interaction works in practice

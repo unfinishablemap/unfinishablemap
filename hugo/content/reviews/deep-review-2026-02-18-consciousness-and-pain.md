@@ -61,7 +61,7 @@ topics: []
 - Quantum section contradiction resolved (minimal mechanism, maximal priority)
 
 ### Cross-links Added
-- [mental-causation](/concepts/mental-causation/) — linked via causal exclusion argument reference (already in frontmatter)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — linked via causal exclusion argument reference (already in frontmatter)
 - No new cross-links added to Further Reading; existing links are comprehensive
 
 ## Remaining Items

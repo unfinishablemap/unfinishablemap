@@ -60,7 +60,7 @@ topics: []
 - [metarepresentation](/concepts/metacognition/) — Core conceptual connection
 - [illusionism](/concepts/illusionism/) — Logical extreme of HOT
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — Parallel physicalist strategy
-- [mental-causation](/concepts/mental-causation/) — Where classical framing fails
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Where classical framing fails
 - [functionalism](/concepts/functionalism/), [qualia](/concepts/qualia/), [self-reference-paradox](/concepts/self-reference-paradox/), [global-workspace-theory](/concepts/global-workspace-theory/), [metacognition](/concepts/metacognition/)
 
 ## Remaining Items

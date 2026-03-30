@@ -58,7 +58,7 @@ All attributions verified (unchanged from previous review):
 
 ### Cross-links Added (inbound to concept-of-free-will)
 - [Free Will and Determinism](/topics/free-will/) — Added to Further Reading section as concept overview link
-- [Mental Causation](/concepts/mental-causation/) — Changed "Why This Matters" link from topics/free-will to concept-of-free-will
+- [Mental Causation](/concepts/mental-causation-and-downward-causation/) — Changed "Why This Matters" link from topics/free-will to concept-of-free-will
 - [Consciousness and Agency (apex)](/apex/consciousness-and-agency/) — Added to related_articles frontmatter
 - [Moral Implications of Genuine Agency](/topics/moral-implications-of-genuine-agency/) — Added to concepts frontmatter
 - [Authentic vs Inauthentic Choice](/topics/authentic-vs-inauthentic-choice/) — Added to concepts frontmatter

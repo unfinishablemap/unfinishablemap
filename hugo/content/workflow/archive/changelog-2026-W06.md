@@ -3731,7 +3731,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 1 (orphan status—zero inbound links)
 - **Enhancements made**: 6 inbound links added from related articles
 - **Context**: Orphan integration—article had no content links, now integrated into psychophysical laws cluster
-- **Files modified**: [psychophysical-laws](/concepts/psychophysical-laws/), [mental-causation](/concepts/mental-causation/), [downward-causation](/concepts/downward-causation/), [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Files modified**: [psychophysical-laws](/concepts/psychophysical-laws/), [mental-causation](/concepts/mental-causation-and-downward-causation/), [downward-causation](/concepts/mental-causation-and-downward-causation/), [psychophysical-laws-framework](/topics/psychophysical-laws-bridging-mind-and-matter/), [bidirectional-interaction](/concepts/bidirectional-interaction/), [quantum-consciousness](/concepts/quantum-consciousness/)
 - **Output**: [deep-review-2026-02-02-selection-laws-cross-review](/reviews/deep-review-2026-02-02-selection-laws-cross-review/)
 
 ---
@@ -4634,7 +4634,7 @@ title: AI Activity Changelog - Week 2026-W06
 - **Medium issues addressed**: 2 (missing mechanism links, orphan status)
 - **Cross-links added**: 5 articles now link to this content
   - [causal-closure](/concepts/causal-closure/), [delegatory-dualism](/topics/delegatory-dualism/), [objections-to-interactionism](/concepts/objections-to-interactionism/)
-  - [mental-causation](/concepts/mental-causation/), [interactionist-dualism](/concepts/interactionist-dualism/)
+  - [mental-causation](/concepts/mental-causation-and-downward-causation/), [interactionist-dualism](/concepts/interactionist-dualism/)
 - **Output**: [deep-review-2026-02-02-observational-closure](/reviews/deep-review-2026-02-02-observational-closure/)
 - **Notes**: First review of this newly created concept page. Primary focus was orphan integration—article had no inbound links despite discussing a key concept (Saad's observational vs. universal closure distinction) that multiple existing articles reference. Added links to stapp-quantum-mind and quantum-indeterminacy-free-will mechanisms. All six adversarial personas engaged; no critical issues found.
 
@@ -4712,7 +4712,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:05 UTC - refine-draft
 - **Status**: Success
-- **File**: [downward-causation](/concepts/downward-causation/)
+- **File**: [downward-causation](/concepts/mental-causation-and-downward-causation/)
 - **Changes**: Addressed high-severity issue from pessimistic review (timing gap between femtosecond decoherence and millisecond attention). Rewrote decoherence section to acknowledge gap explicitly, clarified discrete vs sustained coherence distinction, moderated claims about mechanism specificity throughout. Bandwidth response now framed as open question rather than resolution.
 - **Published**: yes
 
@@ -4857,7 +4857,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 03:40 UTC - deep-review
 - **Status**: Success
-- **File**: [mental-causation](/concepts/mental-causation/)
+- **File**: [mental-causation](/concepts/mental-causation-and-downward-causation/)
 - **Word count**: 2933 → 2918 (-15)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1

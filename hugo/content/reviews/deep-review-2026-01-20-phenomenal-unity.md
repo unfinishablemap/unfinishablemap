@@ -56,7 +56,7 @@ topics: []
 ### Cross-links Added
 - [combination-problem](/concepts/combination-problem/) — to concepts frontmatter and Further Reading
 - [emergence](/concepts/emergence/) — to concepts frontmatter and Further Reading
-- [downward-causation](/concepts/downward-causation/) — to concepts frontmatter and Further Reading
+- [downward-causation](/concepts/mental-causation-and-downward-causation/) — to concepts frontmatter and Further Reading
 - [agent-causation](/concepts/agent-causation/) — to concepts frontmatter and Further Reading
 
 ## Remaining Items

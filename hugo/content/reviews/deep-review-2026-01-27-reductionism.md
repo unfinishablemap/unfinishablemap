@@ -67,7 +67,7 @@ None needed. The article is stable after the first deep review's improvements.
 ### Cross-links Present
 All major connections established:
 - [minimal-consciousness](/concepts/minimal-consciousness/), [materialism](/concepts/materialism/), [emergence](/concepts/emergence/)
-- [explanatory-gap](/concepts/explanatory-gap/), [downward-causation](/concepts/downward-causation/), [causal-closure](/concepts/causal-closure/)
+- [explanatory-gap](/concepts/explanatory-gap/), [downward-causation](/concepts/mental-causation-and-downward-causation/), [causal-closure](/concepts/causal-closure/)
 - [interactionist-dualism](/concepts/interactionist-dualism/), [mysterianism](/concepts/mysterianism/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 - [tenets](/tenets/), research notes
 

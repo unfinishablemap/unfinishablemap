@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Downward Causation](/concepts/downward-causation/)
+**Article**: [Downward Causation](/concepts/mental-causation-and-downward-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
