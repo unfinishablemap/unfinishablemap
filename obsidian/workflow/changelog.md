@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 13:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[illusionism]]
+- **Changes**: Fixed Kammerer 2017/2022 attribution conflation, enriched Moorean argument section with Chalmers revision arc and Loginov (2024) rehabilitation, tightened seeming/processing gap prose, added Loginov reference
+- **Published**: yes
+
 ## 2026-03-30 13:15 UTC - refine-draft
 - **Status**: Success
 - **File**: [[bandwidth-of-consciousness]], [[asymmetric-bandwidth-consciousness]]

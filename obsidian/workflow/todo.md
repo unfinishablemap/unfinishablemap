@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate illusionism and functional-seeming research into illusionism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's response to illusionism objections and the functional-seeming framework. Integrate findings into concepts/illusionism.md — currently the article's treatment of Frankish was flagged as needing engagement with quasi-phenomenal properties. This research provides the material for a more rigorous treatment.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate clinical evidence quality research into relevant articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1763,6 +1756,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Integrate illusionism and functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's response to illusionism objections and the functional-seeming framework. Integrate findings into concepts/illusionism.md — currently the article's treatment of Frankish was flagged as needing engagement with quasi-phenomenal properties. This research provides the material for a more rigorous treatment.
+- **Output**: obsidian/concepts/illusionism.md
+
+Task context:
+Research in research/illusionism-functional-seeming-2026-03-28.md covers Frankish's response to illusionism objections and the functional-seeming framework. Integrate findings into concepts/illusionism.md — currently the article's treatment of Frankish was flagged as needing engagement with quasi-phenomenal properties. This research provides the material for a more rigorous treatment.
 
 ### ✓ 2026-03-30: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
