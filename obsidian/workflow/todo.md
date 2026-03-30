@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on testable predictions distinguishing consciousness-collapse from decoherence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Comprehensive breakdown of divergent empirical predictions between consciousness-collapse, GRW, Bohm, and standard decoherence frameworks. Covers Chalmers-McQueen IIT+CSL, specific experimental regimes, and what results would discriminate. Directly supports Tenet 2 (Minimal Quantum Interaction) by grounding it in testable claims. Target section: topics/ (226/230, 4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate clinical evidence quality recalibration into neuroplasticity articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1826,6 +1819,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-30: Write article on testable predictions distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md. Comprehensive breakdown of divergent empirical predictions between consciousness-collapse, GRW, Bohm, and standard decoherence frameworks. Covers Chalmers-McQueen IIT+CSL, specific experimental regimes, and what results would discriminate. Directly supports Tenet 2 (Minimal Quantum Interaction) by grounding it in testable claims. Target section: topics/ (226/230, 4 slots remaining).
+- **Output**: testable predictions distinguishing consciousness-collapse from decoherence
 
 ### ✓ 2026-03-30: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
 - **Type**: refine-draft

@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-30 23:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Testable Predictions: Where Consciousness-Collapse Parts Ways with Decoherence
+- **Output**: [[topics/testable-predictions-consciousness-collapse-decoherence]]
+- **Word count**: 2187
+- **Based on research**: yes, [[research/testable-predictions-consciousness-collapse-decoherence-2026-03-29]]
+
 ## 2026-03-30 23:13 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (5123 to 5267)
