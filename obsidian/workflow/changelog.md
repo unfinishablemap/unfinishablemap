@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 03:39 UTC - condense
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Before**: 4200 words
+- **After**: 2728 words
+- **Reduction**: 35%
+- **Technique**: Cut redundant prose in all mechanism sections, compressed Post-Decoherence Gap to essentials (full treatment in linked articles), tightened What the Comparison Reveals, trimmed Further Reading from 23 to 13 items, removed AI refinement log comments
+
 ## 2026-03-31 02:38 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/bandwidth-of-consciousness]], [[topics/resolution-bandwidth-interface]]

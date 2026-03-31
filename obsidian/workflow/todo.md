@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense comparing-quantum-consciousness-mechanisms.md (4200 words, 105% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core comparative analysis of Penrose-Hameroff, Stapp, and other quantum consciousness mechanisms while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-30
-
 ### P2: Condense quantum-biology-and-neural-mechanisms.md (3625 words, 104% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1805,6 +1798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Condense comparing-quantum-consciousness-mechanisms.md (4200 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Preserve core comparative analysis of Penrose-Hameroff, Stapp, and other quantum consciousness mechanisms while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md
 
 ### ✓ 2026-03-31: Integrate bandwidth constraints (10 bits/s) research into bandwidth articles
 - **Type**: refine-draft
