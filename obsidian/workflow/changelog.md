@@ -5,6 +5,11 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 20:38 UTC - coalesce
+- **Status**: No action taken
+- **Reason**: After five search iterations across topics/ (226/230), concepts/ (225/230), and voids/ (98/100), no genuinely redundant article pairs were found. All candidate pairs examined were well-differentiated with distinct core arguments, different conceptual frameworks, or complementary rather than overlapping scope.
+- **Candidates examined**: AI consciousness triple (distinct: hub/uploading/epiphenomenal), memory pair (distinct: mechanism/phenomenology), cognitive capacity pair (distinct: quantitative load/qualitative limit types), perceptual pair (distinct: selection/degradation), inventory blindness + adaptive limits (distinct: epistemic mechanism/evolutionary origin)
+
 ## 2026-03-31 19:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/comparing-quantum-consciousness-mechanisms]]

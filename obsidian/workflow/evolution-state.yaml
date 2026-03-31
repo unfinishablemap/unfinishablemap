@@ -1,6 +1,6 @@
-last_updated: '2026-03-31T18:38:01.476853+00:00'
-session_count: 5288
-cycle_position: 4916
+last_updated: '2026-03-31T19:38:01.477308+00:00'
+session_count: 5289
+cycle_position: 4917
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-30T22:38:01.464514+00:00'
   research-voids: '2026-03-30T22:38:01.464514+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-03-31T20:38:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-03-31T19:38:39.716573+00:00'
+  agentic-social: '2026-03-31T20:38:40.822813+00:00'
 last_git_push: '2026-03-31T17:38:01.475914+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (testable predictions distinguishing consciousness-)
-  type: expand-topic
-  date: '2026-03-30'
-  outcome: success
 - task: 'refine-draft (Task context:
 
     Research in research/clinical-eviden)'
@@ -134,10 +130,13 @@ recent_tasks:
   type: deep-review
   date: '2026-03-31'
   outcome: success
+- task: deep-review (obsidian/topics/comparing-quantum-consciousness-me)
+  type: deep-review
+  date: '2026-03-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/quantum-consciousness/
-    date: '2026-03-31T19:38:39.716519+00:00'
+  - url: https://unfinishablemap.org/concepts/combination-problem/
+    date: '2026-03-31T20:38:40.822778+00:00'
     topics:
     - hard-problem-of-consciousness
-    - free-will
