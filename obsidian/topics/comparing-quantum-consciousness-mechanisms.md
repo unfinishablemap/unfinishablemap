@@ -4,8 +4,8 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-31T12:38:00+00:00
-last_deep_review: 2026-03-29T15:42:00+00:00
+ai_modified: 2026-03-31T19:38:00+00:00
+last_deep_review: 2026-03-31T19:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,8 +50,6 @@ Each mechanism is evaluated along two independent dimensions — scientific stan
 **Scientific criteria:** (1) **Decoherence vulnerability** — does it require sustained coherence or sidestep the [[timing-gap-problem|timing gap]]? (2) **Empirical status** — what evidence supports or constrains it? (3) **Falsifiability** — can it be distinguished from competitors and classical alternatives?
 
 **Philosophical criteria:** (4) **Phenomenological fit** — does it match what consciousness feels like? This is a philosophical desideratum rather than empirical evidence: matching introspective reports carries different epistemic weight from surviving decoherence calculations or generating novel predictions. It is included because any complete theory of consciousness must eventually address phenomenal character, but high marks here do not substitute for scientific confirmation. (5) **Tenet alignment** — how well does it satisfy the Map's five [[tenets]], particularly [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]?
-
-**Philosophical criterion:** (5) **Tenet alignment** — how well does it satisfy the Map's five [[tenets]], particularly [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]?
 
 ## The Post-Decoherence Gap
 
@@ -115,7 +113,7 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 **Empirical status: Constrained.** The underlying physics makes falsifiable predictions, and parameter space is shrinking. But the consciousness modulation component remains untestable — we cannot yet measure whether Q-shape distance correlates with collapse dynamics.
 
-**Falsifiability: Split.** The physical collapse component is highly falsifiable. The consciousness modulation component is not currently testable — the part we most want to test is the part we cannot reach.
+**Falsifiability: Split.** The physical collapse component is highly falsifiable. The consciousness modulation component is not currently testable — computing Q-shapes is intractable beyond toy models, and this may be a principled limit rather than a technological one (see [[testing-consciousness-collapse|the experimental landscape]]). The part we most want to test may be the part we cannot reach.
 
 ## Comparative Summary
 
