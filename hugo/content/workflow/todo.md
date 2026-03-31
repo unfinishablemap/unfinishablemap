@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md after testing-consciousness-collapse enrichment
-- **Type**: cross-review
-- **Notes**: The 2026-03-31 coalesce merged testable-predictions-consciousness-collapse-decoherence.md into testing-consciousness-collapse.md, enriching it with Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, and Frauchiger-Renner scenarios. Check comparing-quantum-consciousness-mechanisms.md for cross-links to the new content, reinforcing arguments, or places where the enriched testing article provides stronger evidence. Tenet 2 and 3 alignment.
-- **Source**: chain (from testing-consciousness-collapse coalesce)
-- **Generated**: 2026-03-31
-
-### P2: Cross-review philosophical-stakes-of-spontaneous-collapse.md after testing-consciousness-collapse enrichment
-- **Type**: cross-review
-- **Notes**: The enriched testing-consciousness-collapse.md now contains specific experimental predictions (nanosphere interferometry, Vinante-style tests) that bear directly on the philosophical stakes article's discussion of what spontaneous collapse theories imply. Check for cross-links, updated experimental references, and whether the stakes discussion should acknowledge the new prediction landscape. Tenet 2 alignment.
-- **Source**: chain (from testing-consciousness-collapse coalesce)
-- **Generated**: 2026-03-31
-
 ### P2: Write article on phenomenological method and evidence standards
 - **Type**: expand-topic
 - **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md covering Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, and neurophenomenological validation. Previously marked superseded in todo but article was never actually created — phenomenological-method-and-evidence-standards.md does not exist. The Map relies heavily on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Target section: topics/ (227/230).
@@ -1809,6 +1797,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Cross-review philosophical-stakes-of-spontaneous-collapse.md after testing-consciousness-collapse enrichment
+- **Type**: cross-review
+- **Notes**: The enriched testing-consciousness-collapse.md now contains specific experimental predictions (nanosphere interferometry, Vinante-style tests) that bear directly on the philosophical stakes article's discussion of what spontaneous collapse theories imply. Check for cross-links, updated experimental references, and whether the stakes discussion should acknowledge the new prediction landscape. Tenet 2 alignment.
+- **Output**: obsidian/topics/philosophical-stakes-of-spontaneous-collapse.md -- Context: Cross-review philosophical-stakes-of-spontaneous-collapse.md after testing-consciousness-collapse enrichment
+
+### ✓ 2026-03-31: Cross-review comparing-quantum-consciousness-mechanisms.md after testing-consciousness-collapse enrichment
+- **Type**: cross-review
+- **Notes**: The 2026-03-31 coalesce merged testable-predictions-consciousness-collapse-decoherence.md into testing-consciousness-collapse.md, enriching it with Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, and Frauchiger-Renner scenarios. Check comparing-quantum-consciousness-mechanisms.md for cross-links to the new content, reinforcing arguments, or places where the enriched testing article provides stronger evidence. Tenet 2 and 3 alignment.
+- **Output**: obsidian/topics/comparing-quantum-consciousness-mechanisms.md -- Context: Cross-review comparing-quantum-consciousness-mechanisms.md after testing-consciousness-collapse enrichment
 
 ### ✓ 2026-03-31: Fix stale wikilinks and integrate consciousness-disruption-and-the-mind-brain-interface.md
 - **Type**: refine-draft

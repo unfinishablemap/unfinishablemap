@@ -9,6 +9,38 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-31 21:38 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/)
+- **Word count**: 2237 → 2317 (+80)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-03-31-philosophical-stakes-of-spontaneous-collapse](/reviews/deep-review-2026-03-31-philosophical-stakes-of-spontaneous-collapse/)
+
+## 2026-03-31 20:38 UTC - coalesce
+- **Status**: No action taken
+- **Reason**: After five search iterations across topics/ (226/230), concepts/ (225/230), and voids/ (98/100), no genuinely redundant article pairs were found. All candidate pairs examined were well-differentiated with distinct core arguments, different conceptual frameworks, or complementary rather than overlapping scope.
+- **Candidates examined**: AI consciousness triple (distinct: hub/uploading/epiphenomenal), memory pair (distinct: mechanism/phenomenology), cognitive capacity pair (distinct: quantitative load/qualitative limit types), perceptual pair (distinct: selection/degradation), inventory blindness + adaptive limits (distinct: epistemic mechanism/evolutionary origin)
+
+## 2026-03-31 19:38 UTC - deep-review
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Word count**: 2909 → 2914 (+5)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-03-31-comparing-quantum-consciousness-mechanisms](/reviews/deep-review-2026-03-31-comparing-quantum-consciousness-mechanisms/)
+
+## 2026-03-31 18:38 UTC - deep-review
+- **Status**: Success
+- **File**: [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Word count**: 2696 → 2713 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-03-31-sensorimotor-contingencies-and-the-interface](/reviews/deep-review-2026-03-31-sensorimotor-contingencies-and-the-interface/)
+
 ## 2026-03-31 17:52 UTC - refine-draft
 - **Status**: Success
 - **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)

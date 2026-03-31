@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-31 12:38:00+00:00
+ai_modified: 2026-03-31 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,6 +13,8 @@ concepts:
 - '[[causal-closure]]'
 - '[[psychophysical-laws]]'
 - '[[integrated-information-theory]]'
+- '[[post-decoherence-selection]]'
+- '[[consciousness-selecting-neural-patterns]]'
 created: 2026-02-22
 date: &id001 2026-02-22
 description: GRW, CSL, and objective reduction don't just solve quantum puzzles—they
@@ -20,7 +22,7 @@ description: GRW, CSL, and objective reduction don't just solve quantum puzzles�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 16:06:00+00:00
+last_deep_review: 2026-03-31 21:38:00+00:00
 modified: *id001
 related_articles:
 - '[[stapp-quantum-mind]]'
@@ -45,7 +47,7 @@ The [measurement-problem](/concepts/measurement-problem/) forces a choice. Quant
 
 **Consciousness-caused collapse** (von Neumann-Wigner): Collapse occurs only when a conscious observer interacts with a quantum system. Without observation, superpositions persist indefinitely. This grants consciousness extraordinary metaphysical power—reality itself depends on being witnessed. But it generates the [prebiotic collapse problem](/concepts/prebiotic-collapse/): what determined physical outcomes during the billions of years before conscious life evolved?
 
-**Consciousness-modulated collapse** (the Map's position): A baseline physical mechanism—GRW stochasticity, CSL noise, or gravitational self-energy—collapses wave functions universally. But in neural systems where consciousness is present, phenomenal properties modulate the collapse parameters: rate, location, basis selection. Consciousness does not create collapse from nothing; it biases an existing stochastic process toward outcomes that express conscious content. The key distinction from consciousness-caused collapse: remove all minds from the universe and physics still produces definite outcomes. Consciousness is a participant, not a prerequisite. This is the framework the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires.
+**Consciousness-modulated collapse** (the Map's position): A baseline physical mechanism—GRW stochasticity, CSL noise, or gravitational self-energy—collapses wave functions universally. But in neural systems where consciousness is present, phenomenal properties modulate the collapse parameters: rate, location, basis selection. Consciousness does not create collapse from nothing; it biases an existing stochastic process toward outcomes that express conscious content—acting at the [post-decoherence stage](/concepts/post-decoherence-selection/) where physics leaves outcomes underdetermined. The key distinction from consciousness-caused collapse: remove all minds from the universe and physics still produces definite outcomes. Consciousness is a participant, not a prerequisite. This is the framework the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet requires.
 
 These are not just different equations. They embody different answers to the question of whether minds matter to the physical world.
 
@@ -85,17 +87,17 @@ The Orchestrated Objective Reduction (Orch OR) theory—Penrose and Stuart Hamer
 
 Spontaneous collapse theories are among the few quantum interpretations that make [empirically testable predictions](/topics/testing-consciousness-collapse/). This is philosophically significant: the relationship between consciousness and physics could be constrained by laboratory results.
 
-**If collapse theories are experimentally confirmed** (spontaneous heating detected in ultracold systems, matter-wave interference showing GRW-predicted deviations), the metaphysical landscape shifts. Many-worlds loses its empirical equivalence with single-world interpretations. Collapse becomes a physical fact, not an interpretive choice. The question then becomes *which* collapse mechanism is correct—and whether consciousness modulation is compatible with the confirmed parameters.
+**If collapse theories are experimentally confirmed** (spontaneous heating detected in ultracold systems, matter-wave interference showing GRW-predicted deviations), the metaphysical landscape shifts. Many-worlds loses its empirical equivalence with single-world interpretations. Collapse becomes a physical fact, not an interpretive choice. The question then becomes *which* collapse mechanism is correct—and whether consciousness modulation is compatible with the confirmed parameters. As [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) catalogues in detail, predictions fall into three tiers: whether collapse happens at all, whether it is consciousness-dependent, and logical constraints that force interpretive commitments—with the consciousness-specific tier remaining the hardest and most important frontier.
 
 **If collapse theories are experimentally falsified** (parameter space excluded by null results in all major tests), the Map faces a challenge. Without objective collapse, the options narrow to decoherence-only interpretations, many-worlds, or something yet unknown. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would require finding an alternative mechanism for consciousness-reality interaction that doesn't rely on spontaneous collapse. This is possible—Stapp's [quantum Zeno approach](/concepts/stapp-quantum-mind/) uses standard quantum mechanics without modifying the Schrödinger equation—but it forces different commitments.
 
-**Current status**: As of 2025, GRW has "survived by a whisker," with original parameter values lying just within experimental bounds. The simplest Diósi-Penrose model has been ruled out by germanium detector experiments. CSL parameter space is increasingly constrained. The experimental programme is genuinely advancing, and philosophical commitments built on collapse theories may be vindicated or refuted within decades. The [concrete prediction catalogue](/topics/testing-consciousness-collapse/) maps the specific points where each framework diverges from standard decoherence.
+**Current status**: As of 2025, GRW has "survived by a whisker," with original parameter values lying just within experimental bounds. The simplest Diósi-Penrose model has been ruled out by germanium detector experiments, though Barbatti's (2024) atomistic refinements have opened new channels for gravity-collapse testing. CSL parameter space is increasingly constrained (Carlesso & Donadi, 2025). The experimental programme is genuinely advancing, and philosophical commitments built on collapse theories may be vindicated or refuted within decades. The [prediction catalogue](/topics/testing-consciousness-collapse/) maps the specific points where each framework diverges from standard decoherence.
 
 ## The Consciousness-Modulated Hybrid
 
 The framework most aligned with the Map's tenets is the consciousness-modulated CSL model developed by David Chalmers and Kelvin McQueen. Their proposal combines CSL's continuous collapse mechanism with [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT): differences in integrated information (Φ) between superposed conscious states determine collapse rates, so systems with higher integrated information experience faster and stronger collapse.
 
-This model has several philosophical virtues. It addresses the [measurement-problem](/concepts/measurement-problem/) and the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) simultaneously, rather than treating them as unrelated puzzles. It preserves consciousness-independent baseline collapse (low-Φ systems still collapse, solving the prebiotic problem). And it gives consciousness a mathematically precise causal role without requiring consciousness to be present at every quantum event.
+This model has several philosophical virtues. It addresses the [measurement-problem](/concepts/measurement-problem/) and the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) simultaneously, rather than treating them as unrelated puzzles. It preserves consciousness-independent baseline collapse (low-Φ systems still collapse, solving the prebiotic problem). And it gives consciousness a mathematically precise causal role—a concrete account of [how consciousness selects among neural patterns](/concepts/consciousness-selecting-neural-patterns/)—without requiring consciousness to be present at every quantum event.
 
 The model also faces honest difficulties. IIT's measure of integrated information (Φ) is notoriously hard to compute for real neural systems. The coupling between Φ and collapse strength is postulated, not derived—a theoretical proposal, not a result deduced from deeper principles. And the model inherits CSL's general vulnerability to experimental constraints on the noise field parameters. These are open problems, not fatal objections—but they mark the boundary between framework and finished theory.
 
@@ -126,6 +128,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — why the measurement problem is philosophical, not merely technical
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Penrose OR's experimental programme and partial falsification of the parameter-free model
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — comparative survey of interpretations and consciousness compatibility
+- [testability-ledger](/project/testability-ledger/) — systematic catalogue of what would disconfirm the Map's framework
 
 ## References
 
