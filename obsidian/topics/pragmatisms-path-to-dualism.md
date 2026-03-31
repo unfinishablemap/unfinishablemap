@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-30T14:46:00+00:00
+ai_modified: 2026-03-31T09:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,9 +34,9 @@ last_curated:
 last_deep_review: 2026-03-26T18:12:00+00:00
 ---
 
-[[pragmatism|Pragmatism]] evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The path runs through four stages — James's original pragmatic openness to dualism, Peirce's tychism opening ontological space for mental causation, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience.
+[[pragmatism|Pragmatism]] evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends.
 
-Pragmatism, taken seriously on its own terms, leads where many pragmatists have been reluctant to follow.
+The path runs through four stages — James's original pragmatic openness to dualism, Peirce's tychism opening ontological space for mental causation, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience. Pragmatism, taken seriously on its own terms, leads where many pragmatists have been reluctant to follow.
 
 ## James's Pragmatic Opening
 
@@ -82,7 +82,7 @@ A materialist pragmatist might respond: evaluation just *is* a certain kind of i
 
 ## Putnam's Pragmatic Realism
 
-Hilary Putnam's philosophical trajectory provides powerful evidence against reductive accounts of mind. Putnam invented functionalism in the 1960s — the thesis that mental states are defined by their computational roles, not their physical substrate. He later abandoned his own creation, arguing in *Representation and Reality* (1988) that functionalism remained committed to an internalist conception of mental states that semantic externalism had discredited. The architect found the building uninhabitable.
+Hilary Putnam's philosophical trajectory provides powerful evidence against reductive accounts of mind. Putnam invented functionalism in "Minds and Machines" (1960) — the thesis that mental states are defined by their computational roles, not their physical substrate. His multiple realizability argument showed that the same mental state could be implemented in radically different physical systems, which undermined type-identity physicalism. But Putnam later abandoned his own creation, arguing in *Representation and Reality* (1988) that functionalism remained committed to an internalist conception of mental states that semantic externalism had discredited. The architect found the building uninhabitable.
 
 Putnam's subsequent "pragmatic realism" — developed in *Reason, Truth and History* (1981) and *Words and Life* (1994) under James's influence — rejects both metaphysical realism (a God's-eye view of how things really are) and relativism (truth is whatever our community accepts). Instead, Putnam argues that truth is what would be justified under epistemically ideal conditions — conditions that essentially involve conscious rational agents.
 
@@ -94,13 +94,15 @@ This is convergent with the Map's position. If reference and meaning require con
 
 Most pragmatists have resisted the path to dualism. The reasons are instructive.
 
-**Dissolution rather than solution.** The most influential pragmatist response, from Dewey through Rorty, holds that the mind-body problem is an artifact of Cartesian framing rather than a genuine metaphysical puzzle. Dewey's *Experience and Nature* (1925) treats mind as "part and parcel of nature" — not a spectator observing the world but an organism actively transacting with its environment. Rorty's *Philosophy and the Mirror of Nature* (1979) goes further, arguing that the very idea of mind representing reality should be abandoned. Dissolve the framing and the problem evaporates. But dissolution is not refutation. The hard problem survives this treatment because it does not depend on Cartesian assumptions. Even within Dewey's organism-environment framework, the question remains: why is there something it is like to be this organism rather than nothing? Rorty's anti-representationalism fares no better: his rejection of one-to-one identity between brain states and mental states actually undermines reductive physicalism — precisely the Map's target. Pragmatism's own insistence on taking experiential consequences seriously should make pragmatists wary of strategies that dissolve experience away.
+**Dissolution rather than solution.** The most influential pragmatist response, from Dewey through Rorty, holds that the mind-body problem is an artifact of Cartesian framing rather than a genuine metaphysical puzzle. Dewey's *Experience and Nature* (1925) treats mind as "part and parcel of nature" — not a spectator observing the world but an organism actively transacting with its environment. Rorty's *Philosophy and the Mirror of Nature* (1979) goes further, arguing that the very idea of mind representing reality should be abandoned. Dissolve the framing and the problem evaporates.
+
+But dissolution is not refutation. The hard problem survives this treatment because it does not depend on Cartesian assumptions. Even within Dewey's organism-environment framework, the question remains: why is there something it is like to be this organism rather than nothing? Rorty's anti-representationalism fares no better: his rejection of one-to-one identity between brain states and mental states actually undermines reductive physicalism — precisely the Map's target. Pragmatism's own insistence on taking experiential consequences seriously should make pragmatists wary of strategies that dissolve experience away.
 
 **Methodological naturalism.** Many pragmatists assume that philosophy should operate within the framework of natural science. But this assumption is not itself pragmatic — it is a prior commitment that pragmatism's own method should evaluate rather than presuppose. James saw this clearly: treating naturalism as a default rather than a hypothesis to be tested by its consequences is a failure of pragmatic nerve.
 
 **Association with substance dualism.** Pragmatists tend to associate dualism with Cartesian substance dualism and its notorious interaction problem. But the Map's [[interactionist-dualism]] is not Descartes'. The question is whether consciousness is reducible to physical processes, not whether there are two kinds of substance. Property dualism, aspect dualism, and other non-Cartesian frameworks satisfy the Map's requirements without inheriting Cartesian difficulties.
 
-**The enactivist inheritance.** Contemporary 4E cognition — embodied, embedded, enactive, extended — traces its intellectual genealogy through Dewey's organism-environment transaction and Merleau-Ponty to the pragmatist tradition. Enactivists typically draw anti-dualist conclusions from this heritage. But if pragmatism's own reflexive logic supports dualism, as argued here, then enactivism inherits a tension with its anti-dualist commitments that its practitioners have not resolved. The Map's article on [[enactivism-challenge-to-interactionist-dualism|the enactivist challenge]] develops this point: enactivism's insistence on the irreducibility of lived experience sits uncomfortably with its materialist metaphysics.
+**The enactivist inheritance.** Contemporary 4E cognition — embodied, embedded, enactive, extended — traces its intellectual genealogy through Dewey's organism-environment transaction and Merleau-Ponty to the pragmatist tradition. Wu (2024) argues that pragmatism provides the philosophical foundation of cognitive enactivism, and Varela, Thompson, and Rosch's *The Embodied Mind* (1991) drew explicitly on this heritage. Enactivists typically draw anti-dualist conclusions from these pragmatist roots. But if pragmatism's own reflexive logic supports dualism, as argued here, then enactivism inherits a tension with its anti-dualist commitments that its practitioners have not resolved. The Map's article on [[enactivism-challenge-to-interactionist-dualism|the enactivist challenge]] develops this point: enactivism's insistence on the irreducibility of lived experience sits uncomfortably with its materialist metaphysics.
 
 **The success of science.** Science works extraordinarily well without positing non-physical properties. But pragmatism's own analysis shows why this success does not undermine dualism. Science works by producing understanding in conscious agents. The success of science is evidence that conscious agents can grasp truths about the physical world — which is precisely what bidirectional interaction predicts. Science's success presupposes what materialism denies: that conscious evaluation has genuine normative authority over what we should believe.
 
@@ -141,18 +143,22 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
 1. Putnam, H. (1988). *Representation and Reality*. MIT Press.
 1. Putnam, H. (1994). *Words and Life*. Harvard University Press.
+1. Putnam, H. (1960). Minds and Machines. In S. Hook (ed.), *Dimensions of Mind*. NYU Press.
+1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
 1. Fuchs, C. (2012). QBism, the Perimeter of Quantum Bayesianism. arXiv:1003.5209.
+1. Wu, J. (2024). Pragmatism as the Foundation of Cognitive Enactivism. *Philosophy and Social Criticism*.
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/
 
-<!-- AI REFINEMENT LOG - 2026-03-30 (pass 3)
+<!-- AI REFINEMENT LOG - 2026-03-31 (pass 4)
 Changes made:
-- Added James's radical empiricism paragraph: addresses the objection that James himself moved to neutral monism, argues this preserves the irreducibility commitment the Map requires
-- Added QBism paragraph to Peirce section: contemporary pragmatist quantum mechanics that centres the conscious agent, strengthening the tychism→quantum indeterminism thread
-- Strengthened dissolution subsection: added specifics on Dewey's organism-environment transaction and Rorty's anti-representationalism (noting his rejection of brain-mind identity inadvertently aids the Map)
-- Added references: James (1904), Rorty (1979), Fuchs (2012)
+- Split dense opening paragraph for better LLM truncation resilience
+- Added Putnam (1960) "Minds and Machines" citation and multiple realizability detail to Putnam section
+- Added Wu (2024) and Varela/Thompson/Rosch (1991) to enactivist inheritance subsection, grounding the pragmatism-enactivism genealogy in contemporary scholarship
+- Split dissolution paragraph for readability (was a single dense block)
+- Added references: Putnam (1960), Varela et al. (1991), Wu (2024)
 
-Based on integration of research/pragmatist-philosophy-of-mind-2026-03-28.md findings.
+Remaining research integration from pragmatist-philosophy-of-mind-2026-03-28.md.
 
 This log should be removed after human review.
 -->

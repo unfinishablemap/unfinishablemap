@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
-- **Type**: refine-draft
-- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md. Integrate findings on pragmatist approaches to mind-body problem into the existing pragmatisms-path-to-dualism.md article. Check for new arguments, historical context, or counterarguments that strengthen the pragmatism-to-dualism pathway.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-31
-
-### P2: Integrate phenomenology of volitional control research into phenomenology-of-choice-and-volition.md
-- **Type**: refine-draft
-- **Notes**: Research completed in research/phenomenology-volitional-control-2026-03-20.md. Integrate findings into the recently coalesced and condensed phenomenology-of-choice-and-volition.md. Check for phenomenological descriptions, experimental evidence, or philosophical arguments not yet covered.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-31
-
 ### P2: Integrate anaesthesia filter theory research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
 - **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
@@ -1827,6 +1815,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-31: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md. Integrate findings on pragmatist approaches to mind-body problem into the existing pragmatisms-path-to-dualism.md article. Check for new arguments, historical context, or counterarguments that strengthen the pragmatism-to-dualism pathway.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md. Integrate findings on pragmatist approaches to mind-body problem into the existing pragmatisms-path-to-dualism.md article. Check for new arguments, historical context, or counterarguments that strengthen the pragmatism-to-dualism pathway.
+
 ### ✓ 2026-03-31: Condense phenomenology-of-choice-and-volition.md (3760 words, 107% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently refined (2026-03-30) with Libet rebuttal evidence integration — verify the refinement didn't increase length further. Preserve core phenomenological analysis while removing redundancy. See /condense skill.
@@ -1942,6 +1938,11 @@ Research in research/phenomenal-concepts-strategy-strongest-materialist-response
 
 Task context:
 Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
+
+### ✓ 2026-03-31: Integrate remaining pragmatist research into pragmatisms-path-to-dualism.md (pass 4)
+- **Type**: refine-draft
+- **Notes**: Added Putnam (1960) citation and multiple realizability detail, Wu (2024) and Varela et al. (1991) to enactivist subsection, split dense paragraphs for readability. Final integration of research/pragmatist-philosophy-of-mind-2026-03-28.md.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
 
 ### ✓ 2026-03-30: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft

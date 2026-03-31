@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 09:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Changes**: Split dense paragraphs for readability, added Putnam (1960) citation and multiple realizability detail, added Wu (2024) and Varela et al. (1991) to enactivist subsection, added 3 references
+- **Published**: yes
+
 ## 2026-03-31 08:39 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/phenomenology-of-choice-and-volition]]
