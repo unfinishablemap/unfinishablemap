@@ -25,7 +25,7 @@ last_deep_review: 2026-03-21 16:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[dream-consciousness]]'
 title: Degrees of Consciousness
 topics:
@@ -33,7 +33,7 @@ topics:
 - '[[consciousness-in-simple-organisms]]'
 - '[[animal-consciousness]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
 Consciousness is not binary. Between full waking awareness and total unconsciousness lies a spectrum of intermediate states — graded variations in the intensity, richness, and complexity of phenomenal experience. Anaesthesia research reveals at least three distinct levels between awareness and unconsciousness. Sleep stages modulate experiential depth continuously. Animal cognition suggests consciousness at intensities far below human norms. The concept of degrees of consciousness captures this gradation and distinguishes it from the separate question of [types](/concepts/types-of-consciousness/) (structural varieties of consciousness) and [minimal consciousness](/concepts/minimal-consciousness/) (whether there is a lower bound at all).
@@ -128,7 +128,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 - [access-consciousness](/concepts/access-consciousness/) — One dimension along which consciousness varies
 - [filter-theory](/concepts/filter-theory/) — Interface model that explains gradation as transmission variation
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological mapping of consciousness degrees
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence for graded consciousness
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence for graded consciousness
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Degrees across the animal kingdom
 - [blindsight](/concepts/blindsight/) — Dissociation between phenomenal and access dimensions
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Explicit theoretical account of consciousness as graded

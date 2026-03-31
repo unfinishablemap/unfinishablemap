@@ -29,8 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[dream-consciousness]]'
-- '[[loss-of-consciousness]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 title: Hypnagogic Phenomenology and Interface Modulation
 topics:
@@ -137,7 +136,7 @@ The graded-interface interpretation of hypnagogia would face difficulty if:
 
 - [dream-consciousness](/topics/dream-consciousness/) — What happens after hypnagogia: consciousness during REM and NREM sleep
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — The rendering dilemma and capability signatures visible when the interface fully reconfigures into REM
-- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — The extreme case: interface disruption through anaesthesia, coma, and injury
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — The extreme case: interface disruption through anaesthesia, coma, and injury
 - [attention-as-interface](/concepts/attention-as-interface/) — The primary channel through which consciousness influences neural activity
 - [coupling-modes](/concepts/coupling-modes/) — Basis, timing, and probability control as distinct interface mechanisms
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — How the hypnagogic boundary state enhances creative problem-solving

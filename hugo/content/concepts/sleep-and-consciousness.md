@@ -39,7 +39,7 @@ related_articles:
 title: Sleep and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
 Sleep reveals that consciousness operates in gradations, not as a binary switch. During NREM slow-wave sleep, consciousness diminishes but rarely vanishes entirely—dreaming can occur in any sleep stage, correlating with reduced slow waves in the posterior cortical "hot zone." During REM, vivid experience returns while metacognition remains suppressed. [Lucid dreaming](/topics/dream-consciousness/#lucid-dreaming-a-distinct-state) restores metacognitive awareness by reactivating prefrontal regions normally quiescent during sleep. Most remarkably, memory consolidation during sleep operates *outside* the consciousness channel entirely—the brain's offline processing bypasses the ~10 bits/second bandwidth limitation of conscious experience, replaying multiple memory traces in parallel. This reveals the consciousness-brain interface as having multiple modes: waking selective attention, sleeping offline processing, and dreaming partial engagement.
@@ -161,7 +161,7 @@ The Map's interpretation would face difficulty if:
 ## Further Reading
 
 - [dream-consciousness](/topics/dream-consciousness/) — The phenomenology and philosophy of dream experience
-- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How unconsciousness illuminates mind-brain relationships
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How unconsciousness illuminates mind-brain relationships
 - [episodic-memory](/concepts/episodic-memory/) — Memory systems affected by sleep consolidation
 - [binding-problem](/concepts/binding-problem/) — How distributed processing becomes unified experience
 - [attention-as-interface](/concepts/attention-as-interface/) — The proposed mechanism for consciousness-brain interaction

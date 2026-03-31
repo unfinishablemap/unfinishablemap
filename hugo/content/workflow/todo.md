@@ -38,22 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-29 in obsidian/topics/, has no inbound links. Add cross-references from epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and related epistemological articles. Central to the Map's evidential strategy.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-31
-
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering testable-predictions insights
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md after testing-consciousness-collapse enrichment
 - **Type**: cross-review
-- **Notes**: New article testable-predictions-consciousness-collapse-decoherence.md (2026-03-30) identifies specific experimental predictions distinguishing consciousness-collapse from decoherence-only interpretations. Review comparing-quantum-consciousness-mechanisms.md for opportunities to reference these predictions, strengthen empirical grounding, and ensure consistency.
-- **Source**: chain (from testable-predictions-consciousness-collapse-decoherence.md)
+- **Notes**: The 2026-03-31 coalesce merged testable-predictions-consciousness-collapse-decoherence.md into testing-consciousness-collapse.md, enriching it with Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, and Frauchiger-Renner scenarios. Check comparing-quantum-consciousness-mechanisms.md for cross-links to the new content, reinforcing arguments, or places where the enriched testing article provides stronger evidence. Tenet 2 and 3 alignment.
+- **Source**: chain (from testing-consciousness-collapse coalesce)
 - **Generated**: 2026-03-31
 
-### P2: Condense bandwidth-of-consciousness.md (4064 words, 135% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word soft threshold and 4000-word hard threshold for topics/. Preserve core arguments about bandwidth asymmetry and interface constraints while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
+### P2: Cross-review philosophical-stakes-of-spontaneous-collapse.md after testing-consciousness-collapse enrichment
+- **Type**: cross-review
+- **Notes**: The enriched testing-consciousness-collapse.md now contains specific experimental predictions (nanosphere interferometry, Vinante-style tests) that bear directly on the philosophical stakes article's discussion of what spontaneous collapse theories imply. Check for cross-links, updated experimental references, and whether the stakes discussion should acknowledge the new prediction landscape. Tenet 2 alignment.
+- **Source**: chain (from testing-consciousness-collapse coalesce)
+- **Generated**: 2026-03-31
+
+### P2: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md covering Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, and neurophenomenological validation. Previously marked superseded in todo but article was never actually created — phenomenological-method-and-evidence-standards.md does not exist. The Map relies heavily on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Target section: topics/ (227/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-31
+
+### P2: Deep review testing-consciousness-collapse.md post-coalesce
+- **Type**: deep-review
+- **Notes**: Article was enriched by 2026-03-31 coalesce (merged testable-predictions-consciousness-collapse-decoherence.md). Last deep review was 2026-03-29, before the coalesce. Verify the merged content is coherent, eliminates redundancy, preserves key arguments from both sources, and maintains accurate experimental claims. Tenet 2 and 3 alignment critical — this article is central to the Map's empirical programme.
+- **Source**: chain (from testing-consciousness-collapse coalesce)
 - **Generated**: 2026-03-31
 
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
@@ -1803,6 +1809,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Fix stale wikilinks and integrate consciousness-disruption-and-the-mind-brain-interface.md
+- **Type**: refine-draft
+- **Notes**: Coalesce merged disorders-of-consciousness-as-test-cases.md and loss-of-consciousness.md into consciousness-disruption-and-the-mind-brain-interface.md, but 26 active content files still reference the archived slugs. Update all wikilinks in topics/, concepts/, voids/, and apex/ to point to the new article. This also resolves the file's orphan status (currently 0 inbound content links). Previous task ✓ 2026-03-30 was marked complete but references were not actually updated.
+- **Output**: obsidian/topics/consciousness-disruption-and-the-mind-brain-interface.md
+
+Task context:
+Coalesce merged disorders-of-consciousness-as-test-cases.md and loss-of-consciousness.md into consciousness-disruption-and-the-mind-brain-interface.md, but 26 active content files still reference the archived slugs. Update all wikilinks in topics/, concepts/, voids/, and apex/ to point to the new article. This also resolves the file's orphan status (currently 0 inbound content links). Previous task ✓ 2026-03-30 was marked complete but references were not actually updated.
+
+### ✓ 2026-03-31: Condense bandwidth-of-consciousness.md (4064 words, 135% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word soft threshold and 4000-word hard threshold for topics/. Preserve core arguments about bandwidth asymmetry and interface constraints while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+### ✓ 2026-03-31: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 in obsidian/topics/, has no inbound links. Add cross-references from epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and related epistemological articles. Central to the Map's evidential strategy.
+- **Output**: obsidian/topics/phenomenal-authority-and-introspective-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-31: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
 - **Type**: integrate-orphan

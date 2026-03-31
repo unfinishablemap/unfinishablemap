@@ -28,7 +28,7 @@ related_articles:
 - '[[observation-and-measurement-void]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[temporal-consciousness]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[consciousness-and-skill-acquisition]]'
 title: The Transition Void
 topics:
@@ -127,7 +127,7 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-structure of attention shifts, where departure is never witnessed
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's retention-protention structure and why temporal smoothing conceals transitions
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow entry and exit as paradigm cases of unobserved transition
-- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Sleep onset, anesthesia, and the transition problem from a different angle
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Sleep onset, anesthesia, and the transition problem from a different angle
 
 ## References
 

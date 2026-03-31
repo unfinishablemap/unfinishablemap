@@ -26,7 +26,7 @@ last_deep_review: 2026-03-22 05:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[emotion-and-dualism]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
@@ -38,7 +38,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[personal-identity]]'
 - '[[death-and-consciousness]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
 Neurodegenerative diseases—Alzheimer's, Parkinson's, frontotemporal dementia, Huntington's—progressively dismantle the brain's cognitive architecture while behavioural markers of consciousness appear to persist far longer than the faculties they once accompanied. This persistence is open to interpretation. On production models, it reflects the survival of minimal neural substrates sufficient for basic awareness. The Unfinishable Map reads the pattern differently: the brain provides the *tools* consciousness uses, not the consciousness itself—a framing that presupposes the dualist position the Map defends, but one that the evidence from neurodegeneration makes worth taking seriously. Terminal lucidity—episodes of remarkable cognitive clarity in patients with severe dementia, sometimes hours before death—raises provocative questions. If a brain ravaged by neurodegeneration can momentarily support coherent thought, the relationship between neural tissue and conscious experience may be more complex than simple production models suggest.
@@ -129,8 +129,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 
 ## Further Reading
 
-- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Acute disruption: anesthesia, coma, and the filter theory interpretation
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states and covert awareness as tests for theories
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Acute disruption, disorders of consciousness, and the filter theory interpretation
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The division of faculties between mind and brain
 - [death-and-consciousness](/topics/death-and-consciousness/) — What happens when the brain fails entirely
 - [personal-identity](/topics/personal-identity/) — The indexical identity question sharpened by neurodegeneration

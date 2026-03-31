@@ -89,7 +89,7 @@ Spontaneous collapse theories are among the few quantum interpretations that mak
 
 **If collapse theories are experimentally falsified** (parameter space excluded by null results in all major tests), the Map faces a challenge. Without objective collapse, the options narrow to decoherence-only interpretations, many-worlds, or something yet unknown. The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet would require finding an alternative mechanism for consciousness-reality interaction that doesn't rely on spontaneous collapse. This is possible—Stapp's [quantum Zeno approach](/concepts/stapp-quantum-mind/) uses standard quantum mechanics without modifying the Schrödinger equation—but it forces different commitments.
 
-**Current status**: As of 2025, GRW has "survived by a whisker," with original parameter values lying just within experimental bounds. The simplest Diósi-Penrose model has been ruled out by germanium detector experiments. CSL parameter space is increasingly constrained. The experimental programme is genuinely advancing, and philosophical commitments built on collapse theories may be vindicated or refuted within decades. The [concrete prediction catalogue](/topics/testable-predictions-consciousness-collapse-decoherence/) maps the specific points where each framework diverges from standard decoherence.
+**Current status**: As of 2025, GRW has "survived by a whisker," with original parameter values lying just within experimental bounds. The simplest Diósi-Penrose model has been ruled out by germanium detector experiments. CSL parameter space is increasingly constrained. The experimental programme is genuinely advancing, and philosophical commitments built on collapse theories may be vindicated or refuted within decades. The [concrete prediction catalogue](/topics/testing-consciousness-collapse/) maps the specific points where each framework diverges from standard decoherence.
 
 ## The Consciousness-Modulated Hybrid
 
@@ -117,8 +117,7 @@ The model also faces honest difficulties. IIT's measure of integrated informatio
 - [measurement-problem](/concepts/measurement-problem/) — the crisis that motivates collapse theories
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — what collapsed before consciousness existed
 - [collapse-and-time](/concepts/collapse-and-time/) — collapse, irreversibility, and the arrow of time
-- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — how to test consciousness-collapse hypotheses
-- [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/) — concrete predictions where consciousness-collapse diverges from decoherence
+- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — how to test consciousness-collapse hypotheses, including concrete predictions where consciousness-collapse diverges from decoherence
 - [psychophysical-laws](/concepts/psychophysical-laws/) — how consciousness interfaces with collapse parameters
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — alternative: consciousness via quantum Zeno effect
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) — when multiple minds observe the same system

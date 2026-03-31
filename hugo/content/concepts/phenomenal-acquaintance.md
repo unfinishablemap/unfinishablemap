@@ -108,7 +108,7 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — The epistemic category that results from standing in the acquaintance relation
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the case that acquaintance reveals facts beyond physical knowledge
-- [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — How acquaintance grounds introspective justification
+- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — How acquaintance grounds introspective justification
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through phenomenal acquaintance
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The pre-conceptual character of acquaintance
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The physicalist response that locates the gap in concepts rather than acquaintance

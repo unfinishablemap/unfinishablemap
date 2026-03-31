@@ -50,6 +50,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[phenomenal-authority-and-introspective-evidence]]'
 title: Contemplative Practice as Philosophical Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'

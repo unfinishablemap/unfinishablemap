@@ -12,7 +12,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[near-death-experiences]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[filter-theory]]'
 - '[[parfit-reductionism]]'
 - '[[episodic-memory]]'
@@ -209,7 +209,7 @@ What the Map claims: given its dualist commitments, survival is a *coherent poss
 - [witness-consciousness](/concepts/witness-consciousness/) — Consciousness as observer, distinct from contents
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — The broader spectrum of non-ordinary experience
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — What perceptual learning reveals about the brain-consciousness interface
-- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Temporary disconnection as a natural experiment
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Temporary disconnection as a natural experiment
 - [death-consciousness-persistence-2026-01-14](/research/death-consciousness-persistence-2026-01-14/) — Detailed research notes
 
 ## References

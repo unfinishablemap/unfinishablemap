@@ -9,7 +9,7 @@ apex_sources:
 - topics/dream-consciousness
 - concepts/meditation-and-consciousness-modes
 - concepts/coupling-modes
-- topics/loss-of-consciousness
+- topics/consciousness-disruption-and-the-mind-brain-interface
 - topics/hypnagogic-phenomenology-and-interface-modulation
 - topics/anaesthesia-and-the-consciousness-interface
 - concepts/altered-states-of-consciousness
@@ -48,7 +48,7 @@ related_articles:
 - '[[tenets]]'
 - '[[psychedelics-and-the-filter-model]]'
 - '[[dream-consciousness]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'

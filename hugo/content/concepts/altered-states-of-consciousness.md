@@ -40,7 +40,7 @@ related_articles:
 title: Altered States of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
 Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, [terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/), and [psychiatric conditions](/topics/phenomenological-psychiatry-and-altered-experience/) like depersonalization and schizophrenia—unified by [qualitative](/concepts/qualia/) deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [filter theory](/concepts/filter-theory/) interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) at sleep onset illustrates real-time filter loosening before the interface narrows into NREM. Where these states involve temporary reconfiguration, [cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) would constitute deliberate, permanent modification—raising ethical questions about identity and agency.
@@ -165,7 +165,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Voluntary access to altered states
 - [dream-consciousness](/topics/dream-consciousness/) — Consciousness operating without sensory input
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as evidence for mind-side rendering through neural architecture
-- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Anesthesia and the filter interpretation
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Anesthesia and the filter interpretation
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer that persists across state changes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Potential mechanisms for mind-brain interface
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced consciousness during brain compromise

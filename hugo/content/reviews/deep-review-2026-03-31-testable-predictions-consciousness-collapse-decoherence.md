@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-31
-**Article**: [Testable Predictions: Where Consciousness-Collapse Parts Ways with Decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/)
+**Article**: [Testable Predictions: Where Consciousness-Collapse Parts Ways with Decoherence](/topics/testing-consciousness-collapse/)
 **Previous review**: [2026-03-31 (first review)](/reviews/deep-review-2026-03-31-testable-predictions-consciousness-collapse-decoherence/)
 
 ## Pessimistic Analysis Summary

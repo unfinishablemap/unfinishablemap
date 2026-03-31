@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-31 12:38:00+00:00
+ai_modified: 2026-03-31 15:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,6 +10,7 @@ coalesced_from:
 - /topics/consciousness-collapse-versus-decoherence-experiments/
 - /topics/differential-predictions-consciousness-collapse/
 - /topics/consciousness-collapse-prediction-landscape/
+- /topics/testable-predictions-consciousness-collapse-decoherence/
 concepts:
 - '[[measurement-problem]]'
 - '[[quantum-consciousness]]'
@@ -64,6 +65,18 @@ The asymmetry here deserves acknowledgment. Everettian quantum mechanics is the 
 
 The post-decoherence state — Schlosshauer's (2004) "problem of outcomes" — is the hinge on which all prediction divergences turn. After decoherence suppresses interference, the system remains in an *improper mixture*: a state that looks classical from subsystem measurements but retains quantum correlations with the environment. Genuine collapse would produce a *proper mixture* — actual ignorance about a definite outcome. This distinction is the deepest theoretical faultline in the landscape.
 
+## The Baseline: What Decoherence Alone Predicts
+
+Standard decoherence makes three commitments relevant to distinguishing it from collapse:
+
+1. **No excess decoherence.** All loss of coherence traces to identifiable environmental interactions — gas collisions, photon scattering, black-body radiation. Remove the environment, and superposition persists indefinitely regardless of system mass.
+
+2. **No mass-quadratic scaling.** Environmental decoherence rates depend on the specific coupling between system and environment, not on mass alone. The scaling laws follow from the interaction Hamiltonian, not from any intrinsic collapse mechanism.
+
+3. **Improper mixtures persist.** After decoherence, the joint system-environment state retains quantum correlations. The reduced state of the system *appears* mixed but remains entangled with the environment — what Schlosshauer (2004) calls an "improper mixture," distinct from the "proper mixture" that genuine collapse would produce.
+
+Any observation violating these commitments would constitute evidence for collapse. The frameworks catalogued below predict such violations, but they disagree on when, where, and why they occur.
+
 ## The Core Experimental Obstacle
 
 The fundamental difficulty is the **confound of embodiment**: every conscious observer is also a physical system. When a human observes a quantum measurement, photons strike retinas, neurons fire, information amplifies from quantum to classical scales. Any of these physical processes could trigger collapse. Consciousness-collapse hypotheses propose that [something additional happens](/concepts/consciousness-selecting-neural-patterns/), but the physical events provide a sufficient-seeming alternative. The hypothesis depends on [causal closure](/concepts/causal-closure/) being incomplete at quantum indeterminacies — but testing this requires separating consciousness from its physical substrate.
@@ -101,6 +114,18 @@ Full state tomography of system plus environment should reveal whether post-meas
 ### Superposition Persistence at Biologically Relevant Masses
 
 If MAQRO or equivalent experiments show superposition persisting at 10⁹–10¹¹ amu, collapse models face progressive elimination. If superposition breaks down consistently with mass-dependent collapse, this confirms the physical substrate consciousness-collapse requires. MAQRO remains at concept study stage.
+
+### Anomalous Brownian Heating
+
+Spontaneous collapse models predict that isolated particles experience anomalous momentum diffusion — a random "heating" effect from the stochastic collapse noise field. Standard quantum mechanics predicts no such effect in isolated systems.
+
+**What to look for:** Anomalous temperature increase in ultra-cold, well-isolated systems — levitated nanoparticles, cold atom clouds, or gravitational wave detectors.
+
+**What a positive result means:** Collapse is real. The heating rate would constrain the collapse parameters (λ and r_C), narrowing the viable parameter space.
+
+**What a negative result means:** Upper bounds on the collapse rate tighten. Adler's enhanced rate (λ ≈ 10⁻⁸ s⁻¹) is already approaching experimental bounds of approximately 10⁻⁹ s⁻¹ from spontaneous heating measurements. Searches for spontaneous radiation — a related signature where collapse noise excites bound electrons — provide complementary constraints (Curceanu et al., 2022).
+
+**Current status:** Progressive experimental bounds are tightening. No anomalous heating detected, but the standard GRW/CSL parameter space remains viable. Carlesso and Donadi (2025) provide the most comprehensive current review of experimental constraints.
 
 **What Tier 1 results would mean:** Detected excess decoherence with mass-quadratic scaling would confirm collapse is real but would not implicate consciousness specifically. Conversely, persistent superposition at all tested scales would progressively eliminate the physical framework consciousness-collapse depends on.
 
@@ -176,6 +201,7 @@ The most promising general approach for separating collapse from decoherence is 
 | Atomistic D-P calculations (2024) | 1 | Published | Molecular/biological collapse times |
 | Macromolecule interferometry (25,000 amu record) | 1 | Ongoing | Lower bound on CSL collapse rate |
 | Levitated nanoparticle blueprint (2025) | 1 | Proposed | Could distinguish CSL from environmental decoherence |
+| Anomalous Brownian heating (GRW/CSL) | 1 | Bounds tightening | Constrains collapse rate parameters |
 | Proper vs improper mixture test | 1 | Conceptual | Would confirm or deny real collapse |
 | MAQRO space mission | 1 | Concept study | Would probe CSL at decisive mass scales |
 | Phi-threshold collapse test (K-R) | 2 | Theoretical | Would test consciousness-specific collapse rates |
@@ -185,7 +211,7 @@ The most promising general approach for separating collapse from decoherence is 
 | Frauchiger-Renner argument | 3 | Logical | Forces interpretation choice |
 | Born rule observer-dependence | 3 | Logical | Consciousness structurally implicated |
 
-No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin Phi-threshold and Chalmers-McQueen Q-shape predictions remain the only tests targeting consciousness specifically — both requiring measurement of integrated information in quantum systems, which is currently intractable. For a systematic catalogue of the specific points where these frameworks diverge from standard decoherence, see [the concrete prediction catalogue](/topics/testable-predictions-consciousness-collapse-decoherence/).
+No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin Phi-threshold and Chalmers-McQueen Q-shape predictions remain the only tests targeting consciousness specifically — both requiring measurement of integrated information in quantum systems, which is currently intractable. The decoherence baseline and prediction sections above catalogue the specific points where these frameworks diverge from standard decoherence.
 
 ## The Evidential Asymmetry and the Convergence Strategy
 
@@ -225,7 +251,6 @@ The hierarchy's full implications must be acknowledged. If Tier 1 experiments pr
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why deriving the Born rule matters for collapse theories
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Experimental programme constraining gravity-collapse models
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a test case for consciousness-physics interaction
-- [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/) — Concrete predictions where consciousness-collapse diverges from decoherence
 - [testability-ledger](/project/testability-ledger/) — Systematic catalogue of what would disconfirm the Map's framework
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — The conceptual gap where consciousness could act
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Studying subjective phenomena with objective methods
@@ -250,19 +275,3 @@ The hierarchy's full implications must be acknowledged. If Tier 1 experiments pr
 16. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
 17. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
 18. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Separated Kremnizer-Ranchin Phi-threshold prediction into its own Tier 2 subsection, distinct from Chalmers-McQueen Q-shape prediction — these are related but different testable claims
-- Strengthened Horchani blueprint description with unified master equation detail and "direct hypothesis comparison" framing (from indirect parameter-bounding)
-- Added "Shielded System Strategy" section describing the general experimental approach of isolating systems from decoherence
-- Split summary table row into separate K-R and C-M entries
-- Strengthened Tenet 2 (Minimal Quantum Interaction) connection: K-R Phi-threshold directly implements minimality
-- Strengthened Tenet 3 (Bidirectional Interaction) connection: added K-R as fourth experimental pathway, noted IIT-CSL provides most direct path to testing bidirectional causation
-- Updated post-table summary to mention both K-R and C-M predictions
-
-Based on unconsumed research (testable-predictions-consciousness-collapse-decoherence-2026-03-29.md).
-Key improvements: Kremnizer-Ranchin now properly distinguished as independent testable prediction; stronger Tenet 2/3 connections.
-
-This log should be removed after human review.
--->

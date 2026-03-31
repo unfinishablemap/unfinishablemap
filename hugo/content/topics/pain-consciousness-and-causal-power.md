@@ -47,14 +47,14 @@ related_articles:
 - '[[topics/phenomenal-value-realism]]'
 - '[[placebo-effect-and-mental-causation]]'
 - '[[philosophical-zombies]]'
-- '[[phenomenal-conservatism-and-introspective-evidence]]'
+- '[[phenomenal-authority-and-introspective-evidence]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[somatic-interface]]'
 - '[[consciousness-and-neurodegenerative-disease]]'
 - '[[phenomenology-of-cognitive-capacity]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 - '[[ethics-of-consciousness]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[value-blind-vs-value-sensitive-selection]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
 title: Pain, Consciousness, and Causal Power
@@ -195,7 +195,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [knowledge-argument](/concepts/knowledge-argument/) — What physical knowledge cannot convey
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [blindsight](/concepts/blindsight/) — A parallel clinical dissociation in vision
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Other neurological test cases for consciousness theories
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Other neurological test cases for consciousness theories
 - [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — How asymbolia evidence bears on whether valence enters the selection mechanism
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Asymbolia within the broader framework of clinical evidence for dualism
 - [valence-as-selection-currency](/topics/valence-as-selection-currency/) — How valence may function as the common evaluative metric for conscious selection

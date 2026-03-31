@@ -9,7 +9,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[integrated-information-theory]]'
 - '[[concepts/materialism]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[filter-theory]]'
 - '[[episodic-memory]]'
 - '[[semantic-memory]]'

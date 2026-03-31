@@ -47,7 +47,7 @@ related_articles:
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[integrated-information-theory]]'
 - '[[psychophysical-laws]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 title: The Observation and Measurement Void
 topics:
 - '[[hard-problem-of-consciousness]]'

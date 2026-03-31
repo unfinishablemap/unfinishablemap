@@ -28,7 +28,7 @@ related_articles:
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[clinical-dissociation-as-systematic-evidence]]'
 - '[[neurological-dissociations-as-interface-architecture]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[epistemology-of-first-person-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[pain-consciousness-and-causal-power]]'
@@ -117,7 +117,7 @@ Most fundamentally, clinical phenomenology vindicates the Map's methodological c
 - [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)

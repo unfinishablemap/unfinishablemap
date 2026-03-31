@@ -64,6 +64,7 @@ related_articles:
 - '[[analytic-idealism-and-mind-centric-metaphysics]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[russellian-monism-versus-bi-aspectual-dualism]]'
+- '[[phenomenal-authority-and-introspective-evidence]]'
 title: Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'

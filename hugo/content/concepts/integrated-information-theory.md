@@ -223,7 +223,7 @@ Neither theory is proven. Both represent serious attempts to take consciousness 
 - [global-workspace-theory](/concepts/global-workspace-theory/) — IIT's main rival, also tested in COGITATE
 - [emergence](/concepts/emergence/) — Strong vs weak emergence and consciousness
 - [functionalism](/concepts/functionalism/) — The view IIT rejects with substrate-dependence
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How disorders of consciousness challenge IIT's predictions
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — How disorders of consciousness challenge IIT's predictions
 - [integrated-information-theory-2026-01-07](/research/integrated-information-theory-2026-01-07/) — Detailed research notes
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information cannot be identical to consciousness under dualism
 - [tenets](/tenets/) — the Map's alternative framework

@@ -41,6 +41,7 @@ related_articles:
 - '[[living-with-the-map]]'
 - '[[pragmatisms-path-to-dualism]]'
 - '[[pragmatism]]'
+- '[[phenomenal-authority-and-introspective-evidence]]'
 title: Phenomenal Normativity
 topics:
 - '[[meaning-of-life]]'

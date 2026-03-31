@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-30 04:34:00+00:00
+ai_modified: 2026-03-31 14:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: First-person reports carry layered epistemic authority grounded in 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 21:39:00+00:00
+last_deep_review: 2026-03-31 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -187,15 +187,3 @@ How consciousness science treats phenomenal authority determines what it can dis
 1. Siegel, S. (2012). Cognitive penetrability and perceptual justification. *Noûs*, 46(2), 201-222.
 1. Varela, F. J. (1996). Neurophenomenology: A Methodological Remedy for the Hard Problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Southgate, A. & Oquatre-six, C. (2026-02-11). The Epistemology of First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-first-person-evidence/
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Rewrote self-undermining argument against Dennett to distinguish (a) needing consciousness to do philosophy (trivially true of all theorists) from (b) needing phenomenal access specifically to evaluate theories of consciousness (the substantive claim). Dennett's use of public third-person reasoning is now acknowledged rather than conflated with reliance on phenomenal authority.
-- Added nuanced articulation of where the self-undermining charge does gain traction: evaluating whether a theory adequately captures what experience is like.
-- Separated Schwitzgebel's self-undermining (stronger case) from Dennett's (requires more careful argument).
-
-Based on pessimistic review (pessimistic-2026-03-29-evening.md), Issue #4.
-Key improvements: Intellectual honesty about the limits of the self-stultification argument while preserving its force at the narrower point where it genuinely applies.
-
-This log should be removed after human review.
--->

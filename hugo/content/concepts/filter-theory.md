@@ -16,7 +16,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[attention-as-interface]]'
 - '[[mind-brain-separation]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[near-death-experiences]]'
 - '[[dream-consciousness]]'
 - '[[brain-interface-boundary]]'

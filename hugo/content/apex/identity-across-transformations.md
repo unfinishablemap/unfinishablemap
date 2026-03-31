@@ -10,7 +10,7 @@ apex_sources:
 - topics/split-brain-consciousness
 - topics/indexical-identity-quantum-measurement
 - concepts/altered-states-of-consciousness
-- topics/loss-of-consciousness
+- topics/consciousness-disruption-and-the-mind-brain-interface
 apex_thesis: Identity is irreducibly indexical—being *this* consciousness matters
   in ways pattern-based accounts cannot capture.
 author: null
@@ -35,7 +35,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[indexical-identity-quantum-measurement]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[altered-states-of-consciousness]]'
 title: Identity Across Transformations
 topics:

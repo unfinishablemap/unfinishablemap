@@ -31,7 +31,7 @@ last_deep_review: 2026-03-26 11:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[mind-brain-separation]]'
 - '[[brain-interface-boundary]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
@@ -100,7 +100,7 @@ The ketamine case poses a specific challenge to integrated information theory (I
 
 The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023), with ~40% of patients showing near-normal brain activity during CPR (Parnia et al., 2023), are neurobiological paradoxes for production theory. Filter theory predicts these naturally: reduced filtering allows more consciousness through. [Psychedelic states](/topics/consciousness-disruption-and-the-mind-brain-interface/), where default-mode network disruption correlates with expanded experience, add further support.
 
-The pharmacological specificity documented here also bears on [experimental design for consciousness-collapse testing](/topics/testing-consciousness-collapse/): different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need. The [concrete prediction catalogue](/topics/testable-predictions-consciousness-collapse-decoherence/) includes anaesthesia-modulated collapse dynamics as one of the key divergent predictions between consciousness-collapse and decoherence.
+The pharmacological specificity documented here also bears on [experimental design for consciousness-collapse testing](/topics/testing-consciousness-collapse/): different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need. The [concrete prediction catalogue](/topics/testing-consciousness-collapse/) includes anaesthesia-modulated collapse dynamics as one of the key divergent predictions between consciousness-collapse and decoherence.
 
 ## Recovery: What Emergence Reveals
 
@@ -162,8 +162,7 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 
 ## Further Reading
 
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states, CMD, and locked-in syndrome as parallel cases of consciousness-behaviour dissociation
-- [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Broader treatment of consciousness loss including coma, sleep, and covert consciousness
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Disorders of consciousness, coma, sleep, and covert consciousness as parallel cases of interface disruption
 - [filter-theory](/concepts/filter-theory/) — The transmission model of brain-consciousness relation
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain: candidates and constraints
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Parallel case: interface disruption from the consciousness side rather than pharmacological

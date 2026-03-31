@@ -42,7 +42,7 @@ related_articles:
 - '[[bandwidth-of-consciousness]]'
 - '[[consciousness-as-perceptual-architect]]'
 - '[[visual-consciousness]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
@@ -145,7 +145,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [phenomenal-transparency](/concepts/phenomenal-transparency/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [visual-consciousness](/concepts/visual-consciousness/)
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)

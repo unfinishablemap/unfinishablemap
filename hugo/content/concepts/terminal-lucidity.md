@@ -10,7 +10,7 @@ concepts:
 - '[[neural-correlates-of-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[mind-brain-separation]]'
-- '[[loss-of-consciousness]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 created: 2026-03-20
 date: &id001 2026-03-20
 description: The unexpected return of mental clarity in patients with severe neurodegeneration
@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[terminal-lucidity-filter-theory-2026-03-20]]'
 - '[[psychedelics-and-the-filter-model]]'
-- '[[disorders-of-consciousness-as-test-cases]]'
+- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 title: Terminal Lucidity
 topics:
 - '[[death-and-consciousness]]'
@@ -112,7 +112,7 @@ The evidence base for terminal lucidity, while growing, has significant limitati
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Decreased brain activity with expanded consciousness
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for brain-consciousness relations
-- [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Covert consciousness and the interface distinction
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Covert consciousness and the interface distinction
 
 ## References
 

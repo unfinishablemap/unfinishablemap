@@ -9,6 +9,37 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-31 17:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
+- **Changes**: Updated 28 active content files (topics/, concepts/, voids/, apex/) replacing stale wikilinks from archived slugs (disorders-of-consciousness-as-test-cases, loss-of-consciousness) to the coalesced article. Deduplicated frontmatter arrays and Further Reading entries in 8 files that referenced both old slugs. Resolved orphan status — article now has inbound links from across the site.
+- **Published**: yes
+
+## 2026-03-31 16:38 UTC - condense
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Before**: 4064
+- **After**: 2992
+- **Reduction**: 26%
+- **Technique**: Cut redundant historical detail (Hick/Hyman/Miller restated table), trimmed Block/Cohen debate, removed James's prism metaphor (redundant with user illusion), tightened automatisation examples, compressed evolutionary puzzle and free will sections
+
+## 2026-03-31 15:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/)
+- **Target**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Archived**: archive/topics/testable-predictions-consciousness-collapse-decoherence.md
+- **References to review**: 0 (all updated)
+- **Notes**: Newer article (created 2026-03-30) covered same experimental predictions as comprehensive article (already coalesced from 5 prior articles). Integrated unique content (decoherence baseline section, anomalous Brownian heating subsection) into target. Updated 4 files with stale wikilinks.
+
+## 2026-03-31 14:38 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)
+- **Word count**: 2625 → 2625 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (removed stale AI log comment, fixed 8 stale links across content files, added 7 new cross-references for orphan integration)
+- **Enhancements made**: 15 (8 stale link fixes + 7 new cross-references)
+- **Output**: [deep-review-2026-03-31-phenomenal-authority-and-introspective-evidence](/reviews/deep-review-2026-03-31-phenomenal-authority-and-introspective-evidence/)
+
 ## 2026-03-31 13:38 UTC - deep-review
 - **Status**: Success
 - **File**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
