@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/conscious-vs-unconscious-processing]]
+- **Word count**: 3183 → 3198 (+15)
+- **Critical issues addressed**: 1 (COGITATE study misattributed as testing GNW vs RPT; corrected to GNW vs IIT)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (inline IIT cross-link added)
+- **Output**: [[reviews/deep-review-2026-03-31-conscious-vs-unconscious-processing]]
+
 ## 2026-03-31 12:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/testable-predictions-consciousness-collapse-decoherence]]
