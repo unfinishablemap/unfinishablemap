@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-30 22:38:00+00:00
+ai_modified: 2026-03-31 08:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -63,36 +63,23 @@ Choosing feels like something. Willing feels like something. And the two feel di
 
 ## Deliberation: Options as Felt Possibilities
 
-Before choosing, options present themselves as genuinely open possibilities. This openness has phenomenal character. When considering whether to accept a job offer, you don't experience one outcome as already determined and the other as impossible. Both feel like live alternatives you could actualise.
+Before choosing, options present themselves as genuinely open possibilities. This openness has phenomenal character. Both alternatives feel like live possibilities you could actualise — contrasting sharply with the past, experienced as fixed and closed. William James called this the feeling of "genuine alternatives."
 
-William James called this the feeling of "genuine alternatives." The future appears branching, not linear. This contrasts sharply with how we experience the past — as fixed, closed, no longer possible to influence. The asymmetry between past and future isn't just cognitive knowledge but lived experience with its own phenomenology.
+Deliberation also involves the *weight* of options — some feel heavier, demanding more consideration, others almost dismissible. This felt weight doesn't reduce to probability estimates or preference rankings; it's an experiential quality guiding attention during choice.
 
-Deliberation also involves what might be called the *weight* of options. Some possibilities feel heavier, more significant, demanding more consideration. Others feel lighter, almost dismissible. This felt weight doesn't reduce to probability estimates or preference rankings — it's an experiential quality that guides attention during choice.
-
-Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates this phase. Choosing unfolds in lived time — qualitative duration where past and present interpenetrate — not spatialised clock-time. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self rather than a chain of discrete events. This creative dimension shows up phenomenologically: options become ambiguous through consideration, seemingly equivalent options reveal differences, and sometimes new options emerge. This is the [creativity](/concepts/consciousness-and-creativity/) aspect of choice — consciousness doesn't merely select from a fixed menu but actively constitutes the options through imaginative exploration.
+Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates this phase. Choosing unfolds in lived time, not spatialised clock-time. Options evolve through deliberation — what "option A" means changes as you consider option B, seemingly equivalent options reveal differences, and new options emerge. This is the [creativity](/concepts/consciousness-and-creativity/) aspect of choice — consciousness doesn't merely select from a fixed menu but actively constitutes options through imaginative exploration.
 
 ## The Moment of Decision
 
 The transition from deliberation to decision has its own phenomenology. There is a characteristic *settling* when alternatives collapse to actuality. One moment the options are open; the next, one has become real while others fade to mere counterfactuals.
 
-This settling can be gradual or sudden:
-- **Gradual resolution**: The preferred option emerges slowly, gaining felt momentum until its actualisation seems almost inevitable
-- **Sudden decision**: Alternatives remain equipoised until a discrete moment when one becomes actual — sometimes surprising even the chooser
-
-Both patterns share the same structure: genuine openness followed by determinate actualisation. Gradual decisions feel less effortful; sudden decisions often feel more *willed*, as though the agent intervened at the decisive moment. The [phenomenology of temporal selection](/topics/phenomenology-of-temporal-consciousness-and-agency/) develops the temporal dimension of this settling: the transition from open deliberation to committed action maps onto the three-phase structure of timing windows, where "not yet" gives way to the kairos moment of "now" and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action — the mechanism is phenomenologically invisible. This is the [causal interface void](/voids/causal-interface/): we experience ourselves as causes but cannot access the interface that makes causation possible.
-
-The [retrocausal](/concepts/retrocausality/) dimension adds complexity. If selection operates atemporally — determining which history becomes real — the phenomenology of deciding "now" may be how atemporal selection manifests to time-bound consciousness.
+This settling can be gradual (the preferred option gaining felt momentum) or sudden (alternatives equipoised until a discrete moment of actualisation). Both share the same structure: genuine openness followed by determinate actualisation. The [phenomenology of temporal selection](/topics/phenomenology-of-temporal-consciousness-and-agency/) develops this further: deliberation maps onto "not yet," the kairos moment of "now," and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action — the mechanism is phenomenologically invisible. This is the [causal interface void](/voids/causal-interface/): we experience ourselves as causes but cannot access the interface that makes causation possible.
 
 ## Authorship: The Sense of Agency
 
-After deciding, there is typically a sense of *ownership* — the decision was *mine*, authored by *me*. Gallagher and Zahavi's distinction between *sense of agency* and *sense of ownership* is precise here. Ownership — the feeling that *my* body is moving — accompanies both voluntary and involuntary action. Agency — the feeling that *I am initiating* this — accompanies only voluntary action. The dissociability of these components in clinical populations (schizophrenia, anarchic hand syndrome) demonstrates that agency phenomenology tracks genuine causal structure rather than being a blanket confabulation.
+After deciding, there is typically a sense of *ownership* — the decision was *mine*, authored by *me*. Gallagher and Zahavi's distinction between *sense of agency* and *sense of ownership* is precise here. Ownership accompanies both voluntary and involuntary action; agency — the feeling of *initiating* — accompanies only voluntary action. The dissociability of these components in clinical populations (schizophrenia, anarchic hand syndrome) demonstrates that agency phenomenology tracks genuine causal structure rather than being a blanket confabulation.
 
-The sense of agency varies:
-- **Strong authorship**: "I really chose this"
-- **Weak authorship**: "This seemed like the only option"
-- **Absent authorship**: "I don't know how that happened"
-
-These variations track something real. Spontaneous skilled performance (typing this sentence) produces weak authorship — it happens through me but doesn't feel deliberately chosen, reflecting [delegated skill](/concepts/skill-delegation/) where consciousness has withdrawn from active control. Effortful decisions produce strong authorship. Automatic habits or compulsions may produce absent authorship.
+The sense of agency varies from strong authorship ("I really chose this") through weak authorship (skilled performance that happens through me without feeling deliberately chosen) to absent authorship (automatic habits or compulsions). These variations track something real about the degree of conscious involvement in action.
 
 ## The Four Components of Willing
 
@@ -100,29 +87,25 @@ When decision gives way to execution, a further phenomenological structure emerg
 
 ### Initiation
 
-The experience of starting an action has a characteristic quality of *authorship from the outset*. When you decide to stand up, there is a felt transition from rest to directed activity — what James called "the fiat" of will. This initiation phenomenology is absent in reflex, startle, and involuntary movement. A knee-jerk produces movement without any sense of having launched it; a deliberate step produces movement *and* the experience of being its source.
+Starting an action has a characteristic quality of *authorship from the outset* — what James called "the fiat" of will. This initiation phenomenology is absent in reflex and involuntary movement. A knee-jerk produces movement without any sense of having launched it; a deliberate step produces movement *and* the experience of being its source.
 
 ### Sustained Control
 
-Initiation is momentary; sustained control unfolds over time. Holding attention on a difficult text, maintaining a physical posture against fatigue, or staying with an uncomfortable emotion all involve ongoing volitional engagement with a characteristic phenomenology of *continuing to will*.
+Initiation is momentary; sustained control unfolds over time. Holding attention on a difficult text, maintaining posture against fatigue, or staying with an uncomfortable emotion all involve ongoing volitional engagement — a phenomenology of *continuing to will* that distinguishes volition from mere triggering.
 
-This sustained aspect distinguishes volition from mere triggering. A reflex fires and is done. A volitional action requires ongoing commitment — what [mental effort](/concepts/mental-effort/) research identifies as the experiential correlate of active cognitive engagement. The neural signatures confirm this: sustained voluntary attention produces frontal theta oscillations and bidirectional frontoparietal coherence absent during automatic processing.
-
-The experience of sustained control reveals something about the *grain* of volition. Attention does not lock on smoothly — introspective reports and contemplative traditions consistently describe it as a series of renewed commitments, each a fresh act of willing. James observed that "sustained voluntary attention is a repetition of successive efforts." This iterative character matches what the Map's framework predicts: consciousness repeatedly selecting among competing neural patterns rather than setting a process in motion and passively observing it unfold.
+Attention does not lock on smoothly — introspective reports and contemplative traditions consistently describe it as a series of renewed commitments. James observed that "sustained voluntary attention is a repetition of successive efforts." This iterative character matches what the Map's framework predicts: consciousness repeatedly selecting among competing neural patterns rather than setting a process in motion and passively observing it unfold. See [mental-effort](/concepts/mental-effort/) for the neural signatures of this sustained engagement.
 
 ### Effort
 
-Volitional acts vary in felt difficulty. Suppressing a craving, solving a hard problem, or maintaining focus amid distraction all feel *effortful* in ways that distinguish them from automatic processing. The effort gradient tracks real cognitive demands: hard tasks feel hard; easy tasks feel easy.
+Volitional acts vary in felt difficulty. The effort gradient tracks real cognitive demands: hard tasks feel hard; easy tasks feel easy. If effort experience were causally inert, the metabolic cost of generating it — in precise proportion to task demands — would have no adaptive explanation. The Map interprets this correlation as evidence that effort phenomenology reflects genuine causal contribution: consciousness doing work at the [interface](/concepts/attention-as-interface/) between intention and neural execution.
 
-If effort experience were causally inert, the metabolic cost of generating it — in precise proportion to task demands — would have no adaptive explanation. The Map interprets the correlation as evidence that effort phenomenology reflects genuine causal contribution: consciousness doing work at the [interface](/concepts/attention-as-interface/) between intention and neural execution.
-
-Effort also has a directional quality. It feels like pushing *against* something — resistance from competing impulses, fatigue, or environmental distraction. This oppositional character suggests volition operates in a space of competing possibilities, selecting one pattern while suppressing alternatives. The experience of resistance is phenomenologically distinct from the experience of inability: failing to lift a heavy object feels different from failing to concentrate, even though both involve felt limits.
+Effort also has a directional quality — pushing *against* competing impulses, fatigue, or distraction. This oppositional character suggests volition operates in a space of competing possibilities, selecting one pattern while suppressing alternatives.
 
 ### Veto
 
-The capacity to refrain is phenomenologically distinct from the capacity to initiate. When you suppress an impulse — catching an angry retort before it leaves your mouth, stopping your hand from reaching for a phone — there is a specific experience of *active inhibition* that differs from both action and mere inaction.
+The capacity to refrain is phenomenologically distinct from the capacity to initiate. Catching an angry retort or stopping your hand from reaching for a phone involves *active inhibition* — different from both action and mere inaction.
 
-[Libet](/concepts/libet-experiments/) himself recognised this "free won't" as the strongest evidence for conscious causal efficacy in his own data. The veto operates in a narrow but real temporal window: Libet's subjects could cancel a prepared action within the ~150ms before movement onset, after the readiness potential had already begun. Brass and Haggard's "what, when, whether" model (2007–2008) formalised this insight by identifying three separable components of intentional action — what to do, when to do it, and *whether* to do it at all — each with distinct neural substrates. The "whether" component activates dorsal fronto-median cortex, which exerts top-down suppression of premotor areas. The veto is not merely the absence of a go signal but an active neural process with its own circuitry and its own phenomenology. That intentional inhibition recruits dedicated cortical machinery — distinct from both action initiation and passive non-action — strengthens the case that conscious agency operates at a genuine decision point rather than decorating processes already determined.
+[Libet](/concepts/libet-experiments/) himself recognised "free won't" as the strongest evidence for conscious causal efficacy. Brass and Haggard's "what, when, whether" model (2007–2008) formalised this by identifying three separable components of intentional action, each with distinct neural substrates. The "whether" component activates dorsal fronto-median cortex, exerting top-down suppression of premotor areas. That intentional inhibition recruits dedicated cortical machinery — distinct from both action initiation and passive non-action — strengthens the case that conscious agency operates at a genuine decision point.
 
 ## Choosing vs Observing
 
@@ -135,15 +118,11 @@ The phenomenology of choice differs fundamentally from observation. When observi
 | Counterfactual status | Fixed at arrival | Open until selection |
 | Authorship | Absent | Present |
 
-This maps onto the neural distinction between willed and automatic processing. [Willed attention](/concepts/attention-as-interface/) produces distinct signatures absent during automatic attention capture. The contrast is vivid: being *pulled* by a loud noise versus *directing* focus on difficult text.
+This maps onto the neural distinction between [willed and automatic processing](/concepts/attention-as-interface/) — being *pulled* by a loud noise versus *directing* focus on difficult text.
 
 ## Motor Selection as Paradigm Case
 
-[Motor selection](/concepts/motor-selection/) provides the clearest instance where effort phenomenology matches mechanism. When you prepare to move, you hold an intention stable until execution. Willed movements take ~300ms to initiate versus ~100ms for instructed movements — time for consciousness to engage and stabilise the pattern. The basal ganglia's brake-release architecture provides a candidate site: motor programs compete under tonic inhibition, selection works by disinhibiting the chosen program.
-
-The Desmurget dissociation is particularly revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. The experience of effort tracks conscious contribution at the selection interface, not execution downstream.
-
-The gap between volitional intention and motor detail is itself phenomenologically informative: you experience willing to type a word, not willing each finger movement. This suggests consciousness operates at the level of goals and selection, not micromanagement.
+[Motor selection](/concepts/motor-selection/) provides the clearest instance where effort phenomenology matches mechanism. Willed movements take ~300ms to initiate versus ~100ms for instructed movements — time for consciousness to engage. The Desmurget dissociation is revealing: stimulating inferior parietal cortex produces conscious intention *without* movement; stimulating premotor cortex produces movement *without* intention phenomenology. Effort tracks conscious contribution at the selection interface, not execution downstream. You experience willing to type a word, not willing each finger movement — consciousness operates at the level of goals and selection.
 
 ## Effort as Evidence
 
@@ -151,93 +130,61 @@ The [phenomenology of effort](/concepts/mental-effort/) provides the strongest e
 
 ### The Libet Timing Challenge and Its Dissolution
 
-The strongest empirical objection to effort-as-evidence comes from [Libet's experiments](/concepts/libet-experiments/) (1983): the readiness potential — a slow negative EEG shift — begins ~550ms before movement but ~350ms before subjects report awareness of intending to move. This was widely interpreted as proof that unconscious brain processes initiate action before consciousness arrives, reducing felt effort to post-hoc decoration.
+The strongest empirical objection comes from [Libet's experiments](/concepts/libet-experiments/) (1983): the readiness potential begins ~550ms before movement but ~350ms before subjects report awareness of intending to move — widely interpreted as proof that unconscious processes initiate action before consciousness arrives.
 
-The evidential force of this finding has substantially weakened. Schurger, Sitt, and Dehaene (2012) demonstrated that the readiness potential reflects ongoing stochastic fluctuations in neural activity — not an unconscious "decision" to act. Their leaky accumulator model accounts for the specific shape of the RP and the distribution of waiting times: in spontaneous movement tasks, premotor activity fluctuates near threshold, and random fluctuations determine when the threshold is crossed. As Schurger concluded, this "takes the sting out of the Libet argument against free will." A 2021 meta-analysis of Libet-style experiments found the evidence for RP-preceding-intention is "uncertain and based on only a small number of studies," confirming the field's shift away from early triumphalist readings.
+This interpretation has substantially weakened. Schurger, Sitt, and Dehaene (2012) demonstrated that the readiness potential reflects stochastic fluctuations in neural activity, not an unconscious "decision" to act. Their accumulator model accounts for the RP's shape and the distribution of waiting times. A 2021 meta-analysis confirmed the evidence is "uncertain and based on only a small number of studies." See [volitional-control](/topics/volitional-control/) for detailed treatment.
 
-Single-neuron recordings tell a compatible story. Fried, Mukamel, and Kreiman (2011) found that populations of supplementary motor area neurons showed progressive activation ~1500ms before movement, predicting decisions ~700ms before reported awareness. Yet their own computational model frames this as threshold-crossing — compatible with consciousness modulating the threshold or selecting among competing activations rather than passively observing a fait accompli.
-
-One candidate mechanism is Stapp's [quantum Zeno model](/concepts/mental-effort/), where rapid acts of attention hold desired neural patterns stable — though the [decoherence objection](/concepts/decoherence/) remains a live challenge addressed through [proposed protection mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
-
-The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is quantum Zeno, some other quantum process, or a mechanism not yet conceived. The phenomenological evidence for conscious causal contribution stands independently.
+The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is Stapp's [quantum Zeno model](/concepts/mental-effort/), some other quantum process, or a mechanism not yet conceived.
 
 ## The Contemplative Perspective
 
-Meditation practice refines phenomenological discrimination, revealing aspects of choice and volition that ordinary introspection misses.
+Meditation practice refines phenomenological discrimination. Advanced meditators describe watching decisions arise before identifying with them — intention appears, followed by a distinct moment of "signing off." Buddhist, Tibetan, and Hindu traditions report convergent findings: the gap between stimulus and response is observable, and intention can be distinguished from the act of endorsing it.
 
-Advanced meditators describe watching decisions arise before identifying with them — a moment where intention appears, followed by a distinct moment of "signing off." Buddhist sources describe this precisely: the Abhidhamma distinguishes *cetanā* (intention/volition) from preceding mental factors; Theravāda manuals describe observing intention in the gap between stimulus and response. The Tibetan *dzogchen* tradition distinguishes recognising thoughts from being captured by them. Hindu contemplative traditions report convergent findings through different frameworks.
-
-[Choiceless awareness](/concepts/witness-consciousness/) provides a contrast case: options arise and pass without selection. This proves consciousness can observe without choosing — the distinction is phenomenally accessible, not just conceptual. Curiously, not-choosing has its own phenomenology: deliberately refraining from decision feels different from both choosing and indecision — active non-selection. The agent can (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode. This three-level structure suggests agency exceeds simple selection.
-
-The Buddhist concept of *vīriya* (energetic effort) applies equally to initiating wholesome action and restraining unwholesome impulse. Both require volitional engagement; both feel effortful; both produce the sense of authorship.
+[Choiceless awareness](/concepts/witness-consciousness/) provides a contrast case: options arise and pass without selection. This proves consciousness can observe without choosing. The agent can (1) select among options, (2) refrain from selecting, (3) choose whether to enter selecting mode — a three-level structure suggesting agency exceeds simple selection. See [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) for the cross-cultural persistence of these structures.
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) argue that effort, openness, and authorship are representational fiction — the brain generates *representations* of choosing without there being anything it's like to choose. Wegner's *The Illusion of Conscious Will* (2002) argues the experience of willing is a post-hoc construction — the brain decides, then generates a feeling of having decided.
+[Illusionists](/concepts/illusionism/) argue that effort, openness, and authorship are representational fiction. Wegner's *The Illusion of Conscious Will* (2002) argues the experience of willing is a post-hoc construction.
 
 ### Why the Illusion Thesis Falls Short
 
-If phenomenology is illusory, what is the *seeming* of effort? The seeming must itself be explained. Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). Raymond Tallis: "misrepresentation presupposes presentation."
+If phenomenology is illusory, what is the *seeming* of effort? Either it has phenomenal character (relocating the problem) or it doesn't (mysterious why it's compelling). As Tallis puts it: "misrepresentation presupposes presentation."
 
-Wegner's evidence comes primarily from cases where agency attribution goes wrong — automatisms, hypnosis, the "I Spy" experiment. These cases involve *initiation* phenomenology alone. They say nothing about sustained control, effort gradients, or active veto. The illusion would need to be not one trick but four independent tricks, each precisely calibrated to real cognitive demands.
+Wegner's evidence comes from cases where agency attribution goes wrong — automatisms, hypnosis. These involve *initiation* phenomenology alone, saying nothing about sustained control, effort gradients, or active veto. The illusion would need to be four independent tricks, each precisely calibrated to real cognitive demands.
 
-Mele's critique sharpens the point from a different angle: the Libet paradigm tests spontaneous wrist flicking — an impulsive, arbitrary motion bearing little resemblance to genuine voluntary action. Real decisions involve deliberation over minutes, hours, or days; they engage reasons, values, and competing considerations. Extrapolating from RP timing in wrist-flex tasks to the denial of conscious causation in all voluntary action is an interpretive leap the data cannot support. As Mele argues, what subjects become aware of may be an urge to flex, not a decision already made — a distinction the experimental design cannot adjudicate.
+Mele's critique adds that the Libet paradigm tests spontaneous wrist flicking — bearing little resemblance to genuine voluntary action involving deliberation, reasons, and competing considerations. What subjects become aware of may be an urge to flex, not a decision already made.
 
-[Cross-cultural evidence](/topics/cross-cultural-phenomenology-of-agency/) provides independent support: the felt structure of acting, the opacity of volitional mechanism, and the link between agency and temporal openness persist across cultures that frame agency very differently — from Western effortful willing to Daoist *wu wei* to Buddhist conditioned arising. If these components were cultural constructions, their cross-cultural persistence would be unexplained.
-
-If choosing were passive reception of randomly determined outcomes, deliberation costs — attentional, emotional, temporal — would be inexplicable. Time feels *invested*, not merely elapsed. The [luck objection](/concepts/luck-objection/) compounds this: if choice is mere reception plus representational gloss, why does choosing feel like achievement while lucky outcomes don't?
-
-Contemplative traditions provide further evidence. If effort were illusory, extended practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states. The illusion doesn't dissolve on inspection; it deepens into clearer phenomenology.
+If choosing were passive reception of randomly determined outcomes, deliberation costs — attentional, emotional, temporal — would be inexplicable. The [luck objection](/concepts/luck-objection/) compounds this: why does choosing feel like achievement while lucky outcomes don't? And if effort were illusory, extended contemplative practice should dissolve the illusion. Instead, meditators report *clearer* discrimination between effortful and effortless states.
 
 ## What Would Challenge This View?
 
-The phenomenology-of-choice-and-volition framework would face serious difficulty if:
-
-1. **Phenomenology proves inconsistent.** If trained introspectors reported radically different phenomenologies of choice under identical conditions, the claim to be tracking a genuine phenomenon weakens.
-
-2. **The willed/automatic distinction dissolves neurally.** If more sensitive measurement showed no neural difference between genuine decision and mere implementation, the third-person support for the first-person phenomenology would collapse.
-
-3. **Effort phenomenology decouples from cognitive load.** If hard tasks reliably felt easy while easy tasks felt hard, the correlation supporting mental causation would break.
-
-4. **Contemplative training reveals choice as illusory.** If extended meditation consistently dissolved the choosing-vs-observing distinction rather than clarifying it, the illusionist position would gain force.
-
-5. **Complete neural prediction.** If all decisions could be predicted from prior brain states with 100% accuracy at timescales ruling out conscious contribution, the phenomenology would become epiphenomenal.
+The framework would face serious difficulty if: (1) trained introspectors reported radically different phenomenologies under identical conditions; (2) more sensitive neural measurement showed no difference between genuine decision and mere implementation; (3) effort phenomenology decoupled from cognitive load; (4) extended meditation consistently dissolved the choosing-vs-observing distinction rather than clarifying it; or (5) all decisions could be predicted from prior brain states with 100% accuracy at timescales ruling out conscious contribution.
 
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)**: The qualitative character of the full deliberation-through-execution arc — felt weight of options, the settling of decision, the effort of sustained control, the active inhibition of veto — isn't captured by third-person neural accounts. The multi-component structure (deliberation, initiation, effort, sustained control, veto) resists reduction to any single neural measure like the readiness potential.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the dissociability of agency from ownership in neurological patients, and the distinct neural substrates for veto all suggest that volitional phenomenology tracks genuine causal engagement rather than decorating processes that would proceed identically without it. Crucially, the primary neuroscientific objection — that the readiness potential proves unconscious initiation — has been substantially weakened by Schurger's stochastic noise reinterpretation and by Mele's ecological validity critique. With this objection deflated, the positive evidence gains force: Brass and Haggard's "whether" component provides a neural locus where conscious veto exerts measurable top-down control, and Libet's own data are better read as supporting "free won't" than as undermining conscious agency. Neuroplasticity evidence extends the point: mathematical training enhances parietal cortex structure (Aydin et al., 2007), and these changes follow from effortful thinking.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Effort phenomenology suggests consciousness *does* something. The correlation between felt effort and cognitive load, the dissociability of agency from ownership, and distinct neural substrates for veto all suggest volitional phenomenology tracks genuine causal engagement. The primary objection — that the readiness potential proves unconscious initiation — has been weakened by Schurger's stochastic noise reinterpretation and Mele's ecological validity critique. Brass and Haggard's "whether" component provides a neural locus where conscious veto exerts measurable top-down control.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Choosing feels like biasing outcomes, not injecting energy. The iterative, moment-by-moment character of sustained voluntary attention — James's "successive efforts" — matches the predicted signature of consciousness repeatedly selecting among competing neural patterns at points of quantum indeterminacy.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Choosing feels like biasing outcomes, not injecting energy. The iterative character of sustained voluntary attention — James's "successive efforts" — matches consciousness repeatedly selecting among competing neural patterns at points of quantum indeterminacy.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Choice phenomenology presupposes singular actualisation. When you choose A, you experience A as *the* outcome — not one branch among equals. The felt openness before decision and closure after matches collapse rather than branching. The [indexical sense](/concepts/haecceity/) that *this* decision is happening to *you* requires an answer many-worlds cannot provide.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Choice phenomenology presupposes singular actualisation. You experience A as *the* outcome, not one branch among equals. The felt openness before decision and closure after matches collapse rather than branching.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Explaining away initiation, effort, sustained control, and veto as four distinct illusions rather than four aspects of a real capacity is not simpler — it merely relocates the explanatory burden.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Explaining away initiation, effort, sustained control, and veto as four distinct illusions rather than four aspects of a real capacity merely relocates the explanatory burden.
 
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The broader debate and the Map's position
 - [agent-causation](/concepts/agent-causation/) — Why choice requires agents, not just events
 - [mental-effort](/concepts/mental-effort/) — The quantum Zeno mechanism and why effort should feel like work
-- [voluntary attention](/concepts/attention-as-interface/) — Neural signatures of genuine choosing
 - [motor-selection](/concepts/motor-selection/) — Motor choice as parallel to attentional choice
 - [causal-interface](/voids/causal-interface/) — Why the mechanism connecting intention to action is invisible
-- [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time and creative becoming
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates options, not just selects
-- [introspection](/concepts/introspection/) — First-person methods for investigating choice
-- [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments testing the structure of choice
-- [witness-consciousness](/concepts/witness-consciousness/) — The contrast case of choiceless awareness
-- [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Phenomenology across contemplative states
-- [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal choice
-- [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral deliberation as a domain where choice phenomenology is especially vivid
-- [retrocausality](/concepts/retrocausality/) — How atemporal selection might manifest phenomenally
-- [haecceity](/concepts/haecceity/) — Why *this* chooser matters
-- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian freedom
 - [volitional-control](/topics/volitional-control/) — Libet, Schurger, and the evidence for conscious causation
-- [control-theoretic-will](/concepts/control-theoretic-will/) — Engineering models of volition and their limits
-- [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — How the invariants of volitional experience persist across cultures
-- [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The spectrum from full agency to full passivity
+- [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Phenomenological experiments testing the structure of choice
+- [witness-consciousness](/concepts/witness-consciousness/) — The contrast case of choiceless awareness
+- [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal choice
+- [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Invariants of volitional experience across cultures
+- [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) — The broader case for consciousness doing work
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The full case for conscious causal efficacy
 - [concept-of-free-will](/concepts/concept-of-free-will/) — The Map's libertarian position and its grounds
 

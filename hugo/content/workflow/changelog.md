@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-31 09:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Changes**: Split dense paragraphs for readability, added Putnam (1960) citation and multiple realizability detail, added Wu (2024) and Varela et al. (1991) to enactivist subsection, added 3 references
+- **Published**: yes
+
+## 2026-03-31 08:39 UTC - condense
+- **Status**: Success
+- **File**: [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
+- **Before**: 3760 words
+- **After**: 2515 words
+- **Reduction**: 33%
+- **Technique**: Cut redundant prose, trimmed Libet subsection (deferred to volitional-control), condensed contemplative/illusionist sections, reduced Further Reading from 23 to 13 links
+
 ## 2026-03-31 07:38 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)

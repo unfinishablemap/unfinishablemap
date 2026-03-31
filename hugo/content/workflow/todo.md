@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30 16:30:00+00:00
+ai_modified: 2026-03-31 09:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,12 +38,35 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense phenomenology-of-choice-and-volition.md (3760 words, 107% of hard threshold)
+### P2: Integrate anaesthesia filter theory research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
+- **Source**: unconsumed_research
+- **Generated**: 2026-03-31
+
+### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 via expand-topic, has no inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and related quantum consciousness articles. Ensure bidirectional linking.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-31
+
+### P2: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 in obsidian/topics/, has no inbound links. Add cross-references from epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and related epistemological articles. Central to the Map's evidential strategy.
+- **Source**: orphan_integration
+- **Generated**: 2026-03-31
+
+### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering testable-predictions insights
+- **Type**: cross-review
+- **Notes**: New article testable-predictions-consciousness-collapse-decoherence.md (2026-03-30) identifies specific experimental predictions distinguishing consciousness-collapse from decoherence-only interpretations. Review comparing-quantum-consciousness-mechanisms.md for opportunities to reference these predictions, strengthen empirical grounding, and ensure consistency.
+- **Source**: chain (from testable-predictions-consciousness-collapse-decoherence.md)
+- **Generated**: 2026-03-31
+
+### P2: Condense bandwidth-of-consciousness.md (4064 words, 135% of target)
 - **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently refined (2026-03-30) with Libet rebuttal evidence integration — verify the refinement didn't increase length further. Preserve core phenomenological analysis while removing redundancy. See /condense skill.
+- **Notes**: Article exceeds 3000-word soft threshold and 4000-word hard threshold for topics/. Preserve core arguments about bandwidth asymmetry and interface constraints while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
-- **Generated**: 2026-03-30
+- **Generated**: 2026-03-31
 
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
@@ -1793,6 +1816,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-31: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md. Integrate findings on pragmatist approaches to mind-body problem into the existing pragmatisms-path-to-dualism.md article. Check for new arguments, historical context, or counterarguments that strengthen the pragmatism-to-dualism pathway.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md. Integrate findings on pragmatist approaches to mind-body problem into the existing pragmatisms-path-to-dualism.md article. Check for new arguments, historical context, or counterarguments that strengthen the pragmatism-to-dualism pathway.
+
+### ✓ 2026-03-31: Condense phenomenology-of-choice-and-volition.md (3760 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Recently refined (2026-03-30) with Libet rebuttal evidence integration — verify the refinement didn't increase length further. Preserve core phenomenological analysis while removing redundancy. See /condense skill.
+- **Output**: obsidian/concepts/phenomenology-of-choice-and-volition.md
+
 ### ✓ 2026-03-31: Condense quantum-biology-and-neural-mechanisms.md (3625 words, 104% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum biological processes in neural tissue while tightening prose and deferring experimental details to linked articles. See /condense skill.
@@ -1903,6 +1939,11 @@ Research in research/phenomenal-concepts-strategy-strongest-materialist-response
 
 Task context:
 Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist ground than the existing article — James's radical empiricism, Dewey's naturalism, Peirce's semiotics, and contemporary neo-pragmatist responses to the hard problem. Integrate findings that strengthen the pragmatism-to-dualism argument and address pragmatist objections.
+
+### ✓ 2026-03-31: Integrate remaining pragmatist research into pragmatisms-path-to-dualism.md (pass 4)
+- **Type**: refine-draft
+- **Notes**: Added Putnam (1960) citation and multiple realizability detail, Wu (2024) and Varela et al. (1991) to enactivist subsection, split dense paragraphs for readability. Final integration of research/pragmatist-philosophy-of-mind-2026-03-28.md.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
 
 ### ✓ 2026-03-30: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
