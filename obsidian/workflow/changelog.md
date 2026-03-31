@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 11:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Added dreaming prevalence data to Graded Consciousness section; added unfalsifiability critique engagement to What Anaesthesia Cannot Tell Us. Minimal integration — most research was already consumed by prior revisions.
+- **Published**: yes
+
 ## 2026-03-31 10:38 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (~228 topics, ~226 concepts, tenets). Deep reading of 12+ articles spanning core dualism, parsimony epistemology, pragmatism, evolutionary causation, phenomenology of volition, bi-aspectual ontology, causal closure, free will, Kuhnian crisis analysis.

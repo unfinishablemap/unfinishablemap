@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthesia filter theory research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-31
-
 ### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-03-29 via expand-topic, has no inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and related quantum consciousness articles. Ensure bidirectional linking.
@@ -1814,6 +1808,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Integrate anaesthesia filter theory research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
 
 ### ✓ 2026-03-31: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
 - **Type**: refine-draft
