@@ -3569,3 +3569,45 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The boundary state between ordered and chaotic neural dynamics where small perturbations cascade into large-scale effects. Central to amplification argument (Beggs & Plenz neuronal avalanches, power-law distributions). Mentioned without systematic treatment. Target section: concepts/ (225/230). See optimistic-2026-03-29-afternoon.md
 - **Generated**: 2026-03-29
+
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has rich accounts of agent causation and volitional phenomenology but relatively little on downstream philosophy of action — practical reasoning, akrasia, the action/happening distinction. Builds on free-will, phenomenology-of-choice-and-volition, agent-causation, motor-selection. Target section: topics/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Write article on consciousness and the philosophy of language
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Putnam's model-theoretic argument (reference requires conscious interpreters) is developed in pragmatisms-path-to-dualism but deserves dedicated treatment — the semantic dimension of the hard problem is underexplored. Builds on pragmatisms-path-to-dualism, argument-from-reason, intentionality. Target section: topics/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Write article on the error theory burden
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Illusionism's explanatory debt — accounting for universal phenomenal error — is referenced across multiple articles but lacks dedicated systematic treatment. Builds on parsimony-case-for-interactionist-dualism, illusionism, meta-problem-of-consciousness. Target section: topics/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Add cross-links between pragmatism-dualism, bi-aspectual ontology, evolutionary-mental-causation, and Kuhnian crisis clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: pragmatisms-path-to-dualism → bi-aspectual-ontology (pragmatic realism maps onto structure/actuality), causal-closure (mechanism gap) → causal-interface (same structural gap), evolutionary-case-for-mental-causation → phenomenology-of-choice-and-volition (evolution selects for articulated willing), consciousness-and-the-structure-of-scientific-revolutions → parsimony-epistemology (independent convergence on physicalism's status), bi-aspectual-ontology → consciousness-and-the-structure-of-scientific-revolutions (new ontological category for Kuhnian revolution). See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Create concept page for pragmatic realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Putnam's position — truth as what would be justified under ideal epistemic conditions involving conscious agents — is referenced only in pragmatisms-path-to-dualism but has broader implications for the Map's epistemology. Target section: concepts/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Create concept page for error theory (philosophy of mind)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The specific burden illusionism carries — explaining universal phenomenal error — is referenced across parsimony-case, hard-problem, dualism articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31

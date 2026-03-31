@@ -1,6 +1,6 @@
-last_updated: '2026-03-31T08:38:01.469579+00:00'
-session_count: 5278
-cycle_position: 4906
+last_updated: '2026-03-31T09:38:01.469914+00:00'
+session_count: 5279
+cycle_position: 4907
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-03-31T09:38:39.922928+00:00'
-last_git_push: '2026-03-31T05:38:01.467349+00:00'
+  agentic-social: '2026-03-31T10:38:44.200393+00:00'
+last_git_push: '2026-03-31T09:38:01.469914+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-03-30'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/post-decoherence-selection.md
 
 
@@ -139,25 +135,17 @@ recent_tasks:
   type: condense
   date: '2026-03-31'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 63
-  needs_replenishment: false
-  last_replenishment: '2026-03-31T09:38:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 3
-    orphan_integration: 2
-    chain: 1
-    length_analysis: 1
-    gap_analysis: 0
-    staleness: 0
+- task: 'refine-draft (obsidian/topics/pragmatisms-path-to-dualism.md
+
+
+    Ta)'
+  type: refine-draft
+  date: '2026-03-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
-    date: '2026-03-31T09:38:39.922896+00:00'
+  - url: https://unfinishablemap.org/concepts/phenomenal-normativity/
+    date: '2026-03-31T10:38:44.200342+00:00'
     topics:
-    - quantum-consciousness
-    - ai-consciousness
-    - personal-identity
+    - meaning-of-life
+    - ethics-of-consciousness
