@@ -9,6 +9,35 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-31 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
+- **Word count**: 3183 → 3198 (+15)
+- **Critical issues addressed**: 1 (COGITATE study misattributed as testing GNW vs RPT; corrected to GNW vs IIT)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (inline IIT cross-link added)
+- **Output**: [deep-review-2026-03-31-conscious-vs-unconscious-processing](/reviews/deep-review-2026-03-31-conscious-vs-unconscious-processing/)
+
+## 2026-03-31 12:38 UTC - deep-review
+- **Status**: Success
+- **File**: [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/)
+- **Word count**: 2276 → 2294 (+18)
+- **Critical issues addressed**: 0 (none found — article stable after first review)
+- **Medium issues addressed**: 2 (orphan integration, missing inline testability-ledger reference)
+- **Enhancements made**: 5 inbound cross-references added from testing-consciousness-collapse, spontaneous-collapse-theories, comparing-quantum-consciousness-mechanisms, philosophical-stakes-of-spontaneous-collapse, anaesthesia-and-the-consciousness-interface
+- **Output**: [deep-review-2026-03-31-testable-predictions-consciousness-collapse-decoherence](/reviews/deep-review-2026-03-31-testable-predictions-consciousness-collapse-decoherence/)
+
+## 2026-03-31 11:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Added dreaming prevalence data to Graded Consciousness section; added unfalsifiability critique engagement to What Anaesthesia Cannot Tell Us. Minimal integration — most research was already consumed by prior revisions.
+- **Published**: yes
+
+## 2026-03-31 10:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~228 topics, ~226 concepts, tenets). Deep reading of 12+ articles spanning core dualism, parsimony epistemology, pragmatism, evolutionary causation, phenomenology of volition, bi-aspectual ontology, causal closure, free will, Kuhnian crisis analysis.
+- **Output**: [optimistic-2026-03-31](/reviews/optimistic-2026-03-31/)
+
 ## 2026-03-31 09:49 UTC - refine-draft
 - **Status**: Success
 - **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)

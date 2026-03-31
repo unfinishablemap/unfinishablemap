@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-03-31 01:39:00+00:00
+ai_modified: 2026-03-31 12:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: A systematic catalogue of concrete predictions where consciousness-
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-31 01:39:00+00:00
+last_deep_review: 2026-03-31 12:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -165,7 +165,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is dir
 
 The [No Many Worlds](/tenets/#no-many-worlds) tenet is load-bearing for this entire analysis. Many-worlds dissolves the distinction between consciousness-collapse and decoherence-only by denying that collapse occurs at all. Every prediction catalogued here presupposes that collapse is real.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the objection that decoherence-only is simpler and should be preferred absent consciousness-specific evidence. The Map acknowledges that practical untestability is an epistemic cost — but argues that if the difficulty of testing reflects the same structural feature that generates the [hard problem](/topics/hard-problem-of-consciousness/), parsimony cannot dissolve it by fiat.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the objection that decoherence-only is simpler and should be preferred absent consciousness-specific evidence. The Map acknowledges that practical untestability is an epistemic cost — but argues that if the difficulty of testing reflects the same structural feature that generates the [hard problem](/topics/hard-problem-of-consciousness/), parsimony cannot dissolve it by fiat. The Map's [testability-ledger](/project/testability-ledger/) catalogues broader conditions under which the framework would be disconfirmed, ensuring these commitments remain accountable.
 
 ## Further Reading
 

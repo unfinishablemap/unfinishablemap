@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-30 14:24:00+00:00
+ai_modified: 2026-03-31 12:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -92,7 +92,7 @@ This dissociation reveals that the interface's connection to memory systems is p
 
 Under normal conditions, production and transmission theories make identical predictions — any modular system produces different failure modes when different modules are disrupted. The theories diverge in abnormal cases — where consciousness *persists or intensifies* despite severe neural disruption.
 
-Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Connected consciousness, detectable through the isolated forearm technique, occurs in 0.1-0.2% of general anaesthetics — rising to 1% with neuromuscular blockade, demonstrating that consciousness persists far more often than behavioural measures suggest. Disconnected consciousness involves vivid dreaming while environmental access is severed. Sanders et al. (2023) make the clinical point explicit: anaesthesia does not require full loss of consciousness — disconnection from the environment is sufficient. That mainstream anaesthesiology acknowledges producing primarily *disconnection* rather than extinction aligns precisely with filter theory.
+Bhatt et al. (2019) decompose conscious experience under anaesthesia into three separable components: wakefulness, internal awareness, and environmental connectedness. Different agents selectively impair different components, producing agent-specific profiles rather than uniform suppression. Connected consciousness, detectable through the isolated forearm technique, occurs in 0.1-0.2% of general anaesthetics — rising to 1% with neuromuscular blockade, demonstrating that consciousness persists far more often than behavioural measures suggest. Disconnected consciousness involves vivid dreaming while environmental access is severed — in some study protocols, nearly all unresponsive participants recalled dreaming upon emergence, making disconnected consciousness the norm rather than the exception under many anaesthetic regimes. Sanders et al. (2023) make the clinical point explicit: anaesthesia does not require full loss of consciousness — disconnection from the environment is sufficient. That mainstream anaesthesiology acknowledges producing primarily *disconnection* rather than extinction aligns precisely with filter theory.
 
 Brain complexity measures show continuous, graded changes under propofol — not a sharp threshold. A filter being progressively constricted produces exactly this kind of graded narrowing; a generator being powered down might too, but the qualitative differences between agents — propofol silence versus ketamine vividness at equivalent behavioural depths — are harder to reconcile with a single generation mechanism at different power levels.
 
@@ -100,7 +100,7 @@ The ketamine case poses a specific challenge to integrated information theory (I
 
 The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023), with ~40% of patients showing near-normal brain activity during CPR (Parnia et al., 2023), are neurobiological paradoxes for production theory. Filter theory predicts these naturally: reduced filtering allows more consciousness through. [Psychedelic states](/topics/consciousness-disruption-and-the-mind-brain-interface/), where default-mode network disruption correlates with expanded experience, add further support.
 
-The pharmacological specificity documented here also bears on [experimental design for consciousness-collapse testing](/topics/testing-consciousness-collapse/): different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need.
+The pharmacological specificity documented here also bears on [experimental design for consciousness-collapse testing](/topics/testing-consciousness-collapse/): different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need. The [concrete prediction catalogue](/topics/testable-predictions-consciousness-collapse-decoherence/) includes anaesthesia-modulated collapse dynamics as one of the key divergent predictions between consciousness-collapse and decoherence.
 
 ## Recovery: What Emergence Reveals
 
@@ -144,7 +144,7 @@ If consciousness were a uniform product of neural activity, anaesthetic sensitiv
 
 Anaesthetic evidence constrains but does not determine the interface's ultimate nature. Anaesthesia demonstrates that specific molecular systems are necessary for the interface to function, but does not prove these systems are *where* consciousness connects — some anaesthetic targets may be interface infrastructure rather than interface points. The pharmacological map is also incomplete: current anaesthetics were discovered empirically, so interface components not targeted by any known drug remain invisible.
 
-Anaesthetic evidence alone cannot distinguish the Map's interactionist interpretation from a sophisticated functionalist account. The distinguishing evidence comes from convergence — the [hard problem](/topics/hard-problem-of-consciousness/), cases where consciousness persists despite profound neural disruption, and parallel evidence from [contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/) and [clinical phenomenology](/topics/clinical-phenomenology-as-philosophical-evidence/), where the same interface components can be disrupted from the consciousness side.
+Anaesthetic evidence alone cannot distinguish the Map's interactionist interpretation from a sophisticated functionalist account. Critics charge that filter theory merely reinterprets neuroscience findings without independent predictions, but the anaesthetic evidence complicates this: graded restriction rather than binary extinction, consciousness persisting during severe neural disruption, and enhanced experience when filtering loosens are predictions filter theory makes that production theory must accommodate post hoc. The distinguishing evidence comes from convergence — the [hard problem](/topics/hard-problem-of-consciousness/), cases where consciousness persists despite profound neural disruption, and parallel evidence from [contemplative pathology](/topics/contemplative-pathology-and-interface-malfunction/) and [clinical phenomenology](/topics/clinical-phenomenology-as-philosophical-evidence/), where the same interface components can be disrupted from the consciousness side.
 
 ## Relation to Site Perspective
 
@@ -212,15 +212,12 @@ Anaesthetic pharmacology connects to each of the Map's [tenets](/tenets/) in con
 1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
 
-<!-- AI REFINEMENT LOG - 2026-03-30T14:24
+<!-- AI REFINEMENT LOG - 2026-03-31T11:38
 Changes made:
-- Added convergence paragraph in Active Reboot connecting recovery sequence to the four-component interface model from Pharmacological Dissection — disconnected consciousness as intermediate stage, memory encoding recovering later, mirroring induction dissociations from opposite direction
-- Strengthened Bootstrapping Problem with hierarchical recovery evidence supporting residual-aperture interpretation
-- Added Hameroff et al. (2025) delayed luminescence experiments to Minimal Quantum Interaction tenet paragraph — experimental evidence for quantum-level interface disruption
-- Added Hameroff 2025 reference
-- KCC2 downregulation: still not integrated — research notes (2026-03-26) flagged insufficient sourcing
+- Added dreaming prevalence data to Graded Consciousness section — "nearly all unresponsive participants recalled dreaming upon emergence" (Sanders et al. 2023), strengthening the case that disconnected consciousness is the norm, not the exception
+- Added unfalsifiability critique engagement to "What Anaesthesia Cannot Tell Us" — noting that filter theory makes discriminating predictions (graded restriction, persistent consciousness, enhanced experience when filtering loosens) that production theory must accommodate post hoc
 
-Based on task to strengthen interface model's recovery account using research/anaesthetic-recovery-neuroscience-2026-03-26.md.
+Based on comparison of research/consciousness-anesthesia-filter-theory-2026-03-20.md against coalesced article. Most research content was already well-integrated from prior revisions. Only two genuinely un-covered points identified: dreaming prevalence and the unfalsifiability debate framing.
 
 This log should be removed after human review.
 -->

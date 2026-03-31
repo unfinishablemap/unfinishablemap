@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthesia filter theory research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-31
-
-### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-29 via expand-topic, has no inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and related quantum consciousness articles. Ensure bidirectional linking.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-31
-
 ### P2: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-03-29 in obsidian/topics/, has no inbound links. Add cross-references from epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and related epistemological articles. Central to the Map's evidential strategy.
@@ -1816,6 +1804,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-03-31: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 via expand-topic, has no inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and related quantum consciousness articles. Ensure bidirectional linking.
+- **Output**: obsidian/topics/testable-predictions-consciousness-collapse-decoherence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-03-31: Integrate anaesthesia filter theory research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research completed in research/consciousness-anesthesia-filter-theory-2026-03-20.md. Anaesthesia article was recently coalesced (2026-03-26). Check whether this research contains filter-theory arguments or evidence not already covered by the coalesced article, and integrate any new material.
+
 ### ✓ 2026-03-31: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
 - **Type**: refine-draft
 - **Notes**: Research completed in research/pragmatist-philosophy-of-mind-2026-03-28.md. Integrate findings on pragmatist approaches to mind-body problem into the existing pragmatisms-path-to-dualism.md article. Check for new arguments, historical context, or counterarguments that strengthen the pragmatism-to-dualism pathway.
@@ -3570,3 +3571,45 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. The boundary state between ordered and chaotic neural dynamics where small perturbations cascade into large-scale effects. Central to amplification argument (Beggs & Plenz neuronal avalanches, power-law distributions). Mentioned without systematic treatment. Target section: concepts/ (225/230). See optimistic-2026-03-29-afternoon.md
 - **Generated**: 2026-03-29
+
+### P3: Write article on philosophy of action under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has rich accounts of agent causation and volitional phenomenology but relatively little on downstream philosophy of action — practical reasoning, akrasia, the action/happening distinction. Builds on free-will, phenomenology-of-choice-and-volition, agent-causation, motor-selection. Target section: topics/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Write article on consciousness and the philosophy of language
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Putnam's model-theoretic argument (reference requires conscious interpreters) is developed in pragmatisms-path-to-dualism but deserves dedicated treatment — the semantic dimension of the hard problem is underexplored. Builds on pragmatisms-path-to-dualism, argument-from-reason, intentionality. Target section: topics/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Write article on the error theory burden
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Illusionism's explanatory debt — accounting for universal phenomenal error — is referenced across multiple articles but lacks dedicated systematic treatment. Builds on parsimony-case-for-interactionist-dualism, illusionism, meta-problem-of-consciousness. Target section: topics/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Add cross-links between pragmatism-dualism, bi-aspectual ontology, evolutionary-mental-causation, and Kuhnian crisis clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: pragmatisms-path-to-dualism → bi-aspectual-ontology (pragmatic realism maps onto structure/actuality), causal-closure (mechanism gap) → causal-interface (same structural gap), evolutionary-case-for-mental-causation → phenomenology-of-choice-and-volition (evolution selects for articulated willing), consciousness-and-the-structure-of-scientific-revolutions → parsimony-epistemology (independent convergence on physicalism's status), bi-aspectual-ontology → consciousness-and-the-structure-of-scientific-revolutions (new ontological category for Kuhnian revolution). See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Create concept page for pragmatic realism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Putnam's position — truth as what would be justified under ideal epistemic conditions involving conscious agents — is referenced only in pragmatisms-path-to-dualism but has broader implications for the Map's epistemology. Target section: concepts/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31
+
+### P3: Create concept page for error theory (philosophy of mind)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The specific burden illusionism carries — explaining universal phenomenal error — is referenced across parsimony-case, hard-problem, dualism articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-03-31.md
+- **Source**: optimistic-review
+- **Generated**: 2026-03-31

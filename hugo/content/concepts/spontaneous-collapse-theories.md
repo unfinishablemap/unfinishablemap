@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-29 02:22:00+00:00
+ai_modified: 2026-03-31 12:38:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -122,7 +122,7 @@ Spontaneous collapse theories are **falsifiable**—they make predictions distin
 3. **Gravitational wave detectors**: Ultra-sensitive LIGO-type devices can detect spontaneous heating predicted by CSL
 4. **Neutron star observations**: Constrain collapse models via thermal signatures
 
-**Current verdict**: Original GRW model "survived by a whisker"—just within experimental bounds. CSL parameter space increasingly constrained. Orch OR timescales revised upward (microseconds, not femtoseconds), keeping theory viable but contested.
+**Current verdict**: Original GRW model "survived by a whisker"—just within experimental bounds. CSL parameter space increasingly constrained. Orch OR timescales revised upward (microseconds, not femtoseconds), keeping theory viable but contested. See [the concrete prediction catalogue](/topics/testable-predictions-consciousness-collapse-decoherence/) for a systematic mapping of where each framework diverges from standard decoherence.
 
 This experimental accountability supports the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet: simplicity (standard QM without collapse) fails to solve the measurement problem. Falsifiable modifications of QM are scientifically rigorous, not ad hoc.
 
@@ -211,6 +211,7 @@ The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or sim
 - [illusionism](/concepts/illusionism/) - the eliminativist challenge this framework must address
 - [mysterianism](/concepts/mysterianism/) - cognitive limits on understanding the consciousness-collapse interface
 - [argument-from-reason](/topics/argument-from-reason/) - why consciousness must be causally efficacious
+- [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/) — Concrete predictions where consciousness-collapse diverges from decoherence
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Penrose OR's experimental programme: DP model falsification, nanoparticle interferometry, and the MAQRO space mission
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: spontaneous collapse as baseline within the reverse inference framework
 
