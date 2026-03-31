@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address prediction/accommodation bias in comparing-quantum-consciousness-mechanisms.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) phenomenological fit treated as scientific criterion alongside empirical ones, (2) Stapp section uses "predicts" where "accommodates" is accurate, (3) asymmetric treatment of weaknesses favouring tenet-compatible models, (4) Luppi & Adlam arXiv preprint used where standard peer-reviewed sources exist. See pessimistic-2026-03-31.md
+- **Generated**: 2026-03-31
+
 ### P2: Condense quantum-biology-and-neural-mechanisms.md (3625 words, 104% of hard threshold)
 - **Type**: condense
 - **Status**: pending
