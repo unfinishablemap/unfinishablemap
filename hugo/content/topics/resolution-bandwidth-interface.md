@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-18 19:05:00+00:00
+ai_modified: 2026-03-31 02:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -46,6 +46,8 @@ Taken separately, each looks like a liability. Consciousness knows too little an
 
 The interface has a characteristic signature. Inbound: massive compression, from billions of bits to the few dozen that reach awareness. Outbound: policy-level selection, from conscious intention to a handful of choices among prepared alternatives. These are not independent limitations that happen to coincide. They are two faces of the same architectural fact.
 
+The empirical grounding for these figures is extensive. Nørretranders (1998), drawing on Zimmermann's (1986) neurophysiology measurements, estimated sensory input at roughly 11 million bits per second—10 million from vision, 1 million from touch, the remainder from hearing, smell, and taste. His estimate of conscious throughput (~16–20 bits/s) has been refined downward by subsequent work. Zheng and Meister's 2025 *Neuron* synthesis reviewed measurements spanning from Hick's 1952 choice-reaction experiments (~5 bits/s) through professional e-sports telemetry (~10 bits/s), finding convergence at approximately 10 bits per second regardless of domain, training, or task type. Critically, Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary confirmed that the ceiling applies specifically to conscious cognition—unconscious motor control vastly exceeds it, with the cerebellum coordinating dozens of muscles simultaneously at rates far above 10 bits per second. The bottleneck is not in the neural hardware. It is at the point where consciousness participates.
+
 ## Why Coarseness Is Necessary
 
 Consider what consciousness would need to be if it operated at neural resolution.
@@ -86,7 +88,7 @@ If the bandwidth constraint reflects interface physics rather than neural archit
 
 Evolution *has* optimised the brain's side of the interface. Candidate preparation is faster and more sophisticated in humans than in simpler organisms. The options presented to consciousness are richer, more contextually appropriate, and better pre-evaluated. The [baseline cognition](/concepts/baseline-cognition/) that operates without conscious involvement has expanded dramatically — great apes achieve sophisticated tool use, social learning, and procedural metacognition through unconscious processing alone.
 
-What evolution has *not* done — so far as current evidence indicates — is substantially increase the rate at which consciousness selects. The throughput ceiling holds across diverse human tasks and training regimes; cross-species data are sparser, but no measured organism shows conscious throughput orders of magnitude above the human range. If the ceiling were purely neural, one might expect evolutionary pressure to have raised it, particularly given the enormous increases in brain size and complexity across mammalian lineages. If instead the ceiling is a property of the mind-brain interface itself — the channel width where a non-physical system meets a physical one — then brain-side optimisation cannot change it. Evolution can make better menus; it cannot make the diner read faster.
+What evolution has *not* done — so far as current evidence indicates — is substantially increase the rate at which consciousness selects. The throughput ceiling holds across diverse human tasks and training regimes; cross-species data are sparser, but no measured organism shows conscious throughput orders of magnitude above the human range. Sauerbrei and Pruszynski's demonstration sharpens this puzzle: the brain clearly *can* process information at rates far exceeding 10 bits per second—it does so constantly for motor control and sensory processing. If the ceiling were purely neural, one might expect evolutionary pressure to have raised it, particularly given that the neural hardware already operates at vastly higher rates. Zheng and Meister call this 10⁸-fold ratio "the largest unexplained number in brain science." If instead the ceiling is a property of the mind-brain interface itself — the channel width where a non-physical system meets a physical one — then brain-side optimisation cannot change it. Evolution can make better menus; it cannot make the diner read faster.
 
 ## The Resolution-Bandwidth Coupling
 
@@ -147,26 +149,26 @@ The interface interpretation would face serious difficulty if:
 
 ## References
 
-1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26.
 2. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
-3. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
-4. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
-5. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
-6. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
+3. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
+4. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
+5. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+6. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
+7. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
+8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
+9. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
 
-<!-- AI REFINEMENT LOG - 2026-03-12
+<!-- AI REFINEMENT LOG - 2026-03-31
 Changes made:
-- Added "How Robust Is the Ten-Bit Figure?" section addressing measurement uncertainty, methodological caveats from Zheng & Meister, range analysis, and ceiling vs operating point distinction
-- Softened pilot analogy from evidential to explicitly illustrative; added disclaimer that it presupposes the conclusion
-- Gave Global Workspace Theory a fairer hearing; acknowledged that demanding exact ratio derivation is a standard no theory meets
-- Qualified cross-species bandwidth claim (data are sparser outside humans)
-- Softened deliberate choice rate claim (removed false precision, noted measurement is open question)
-- Removed "This is the key insight:" editorialising
-- Decoupled minimal quantum interaction tenet from specific quantum mechanism
-- Updated falsification section to reference new measurement discussion
+- Added empirical grounding paragraph to "Two Problems, One Interface" section with Nørretranders/Zimmermann sensory breakdown, Zheng & Meister convergence, and Sauerbrei & Pruszynski motor control confirmation
+- Strengthened evolutionary constraint section with Sauerbrei & Pruszynski's demonstration that neural hardware already exceeds 10 bits/s
+- Added Zheng & Meister's "largest unexplained number" quote to evolutionary section
+- Added Hick (1952), Sauerbrei & Pruszynski (2025), Zimmermann (1986) to References
+- Kept Zheng & Meister as 2025 for consistency with site (print publication date)
 
-Based on pessimistic review pessimistic-2026-03-12.md.
-Key improvements: intellectual honesty about empirical foundations and fairer treatment of physicalist alternatives.
+Based on research/bandwidth-constraints-10-bits-2026-03-29.md.
+Key improvements: The article's abstract claims about resolution-bandwidth coupling are now grounded in specific empirical measurements, and the motor control exception strengthens the interface argument.
 
 This log should be removed after human review.
 -->

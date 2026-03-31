@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-30 13:15:00+00:00
+ai_modified: 2026-03-31 02:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -70,7 +70,7 @@ Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness o
 
 All figures use Shannon information theory: entropy of the decision space divided by time, not subjective difficulty. A binary choice carries 1 bit regardless of how "hard" it feels. Reading (~45 bits/s) and cross-linguistic speech production (~39 bits/s; Coupé et al. 2019) appear higher because they measure the *information content of the output signal*, not the rate of novel conscious decisions. Much of reading comprehension and speech production is automated; the conscious contribution—selecting what to say or attending to meaning—is closer to ~10 bits/s. Coupé et al. found that all 17 languages studied, across 9 linguistic families, converge on ~39 bits/second of speech information: fast-spoken languages carry less information per syllable and compensate with speed. This universal ceiling is a cognitive constraint on language, not a property of any particular grammar.
 
-The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. The convergence is not a recent discovery. Hick (1952) first measured the human information-processing rate at ~5 bits per second using choice reaction time experiments. Hyman (1953) confirmed the logarithmic relationship with an average slope of ~150 ms per bit, extending the paradigm to unequal stimulus probabilities—together establishing what is now called the Hick-Hyman Law. Miller (1956) identified the related capacity limit of ~7 chunks in immediate memory, showing that "recoding" (chunking) is how humans work around the channel capacity—without removing it. Over seven decades of subsequent measurement—through typing studies, memory competitions, professional e-sports, and speech analysis—the ceiling has held. The convergence across tasks, populations, and historical periods is what makes it a structural feature rather than an artefact of particular experimental designs.
+The ceiling holds regardless of training, talent, or task type. Memory champions, professional gamers, and speed typists all operate within the same order of magnitude. The convergence is not a recent discovery. Hick (1952) measured what he called "the rate of gain of information" at ~5 bits per second using choice reaction time experiments—a figure he found "constant with respect to time, within the duration of one perceptual-motor act." Hyman (1953) confirmed the logarithmic relationship with an average slope of ~150 ms per bit, extending the paradigm to unequal stimulus probabilities—together establishing what is now called the Hick-Hyman Law. Miller (1956) identified the related capacity limit of ~7 chunks in immediate memory, showing that "recoding" (chunking) is how humans work around the channel capacity—without removing it. Over seven decades of subsequent measurement—through typing studies, memory competitions, professional e-sports, and speech analysis—the ceiling has held. The convergence across tasks, populations, and historical periods is what makes it a structural feature rather than an artefact of particular experimental designs.
 
 Zheng and Meister call the ratio between the brain's sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—and note that the resulting factor of 10⁸ is "the largest unexplained number in brain science." The puzzle deepens at the storage level: the brain retains only approximately 1 gigabyte of information over a lifetime, far below its estimated ~50 terabyte capacity. The bottleneck is not merely in throughput but in what consciousness actually captures and retains from the vast computational activity surrounding it.
 
@@ -78,7 +78,7 @@ Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynsk
 
 ## The Inbound Channel
 
-The inbound bandwidth of conscious experience is enormous, though estimates vary with what counts as a "bit." Nørretranders (1998), drawing on Zimmermann's (1986) neurophysiology measurements, estimated the *information content* of sensory processing—how many discriminable states per second reach the brain—at roughly 12 million bits per second: 10 million from vision, 1 million from touch, the remainder from hearing, smell, and taste. Raw neural transmission capacity is far larger: the optic nerve alone carries on the order of 10⁸ bits per second, and aggregate sensory nerve bandwidth reaches 10⁹ bits per second.
+The inbound bandwidth of conscious experience is enormous, though estimates vary with what counts as a "bit." Nørretranders (1998), drawing on Zimmermann's (1986) neurophysiology measurements, estimated the *information content* of sensory processing—how many discriminable states per second reach the brain—at roughly 12 million bits per second: 10 million from vision, 1 million from touch, the remainder from hearing, smell, and taste. Raw neural transmission capacity is far larger: the optic nerve alone carries on the order of 10⁸ bits per second, and aggregate sensory nerve bandwidth reaches 10⁹ bits per second. Nørretranders estimated conscious throughput at ~16–20 bits per second—subsequent measurement has refined this toward ~10, but the order-of-magnitude picture he established holds: conscious processing handles roughly one millionth of sensory input.
 
 How rich is conscious experience itself? Ned Block (2011) argues that [phenomenal consciousness](/concepts/phenomenal-consciousness/) is richer than cognitive access—we are conscious of more than we can report or act upon. Evidence from iconic memory (Sperling's 1960 partial-report paradigm) shows that observers are aware of more items than they can identify when cued. Cohen, Dennett, and Kanwisher (2016) counter that apparent richness comes from *ensemble statistics*—the visual system represents groups through summary properties rather than individual objects.
 
@@ -96,7 +96,9 @@ The inbound side deepens the puzzle. Why would a system that generates rich expe
 
 The [filter model](/concepts/filter-theory/) handles the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck is the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. Consciousness may be vastly richer than what the brain's interface can transmit. The 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
-William James's prism analogy applies precisely: white light contains all wavelengths; the prism reveals specific colours. The prism's bandwidth is finite, but the light it refracts exceeds what any single prism can display. Similarly, consciousness operating through the brain's interface manifests at the rate the interface permits.
+Nørretranders (1998) captured this with the "user illusion" metaphor: consciousness is a simplified desktop, not the underlying computation. The icons on a computer desktop bear no resemblance to the millions of transistor operations they represent—but they are the interface through which the user acts. The desktop's bandwidth (a few clicks per second) is not a defect; it is the appropriate resolution for a selector operating on pre-computed options. The 10 bits per second measures the desktop's throughput, not the system's.
+
+William James's prism analogy makes the same point from the other direction: white light contains all wavelengths; the prism reveals specific colours. The prism's bandwidth is finite, but the light it refracts exceeds what any single prism can display. Similarly, consciousness operating through the brain's interface manifests at the rate the interface permits.
 
 The Sauerbrei and Pruszynski critique sharpens this interpretation. The fact that unconscious motor processing vastly exceeds 10 bits per second while conscious processing does not means the bottleneck cannot be a general neural-architectural limit. The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second at the point where consciousness participates. On the filter model, this is expected: the filter constrains consciousness specifically, not neural processing in general. The brain's full computational bandwidth operates on both sides of the filter—below it for unconscious processing, through it for conscious access.
 
@@ -246,14 +248,14 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 
-<!-- AI REFINEMENT LOG - 2026-03-30 (second pass)
+<!-- AI REFINEMENT LOG - 2026-03-31
 Changes made:
-- Attributed Nørretranders' sensory figures to Zimmermann (1986) as original source
-- Added Hyman (1953) confirmation of Hick's findings, establishing the Hick-Hyman Law
-- Added Musslick et al. (2016) cognitive control capacity (~3-4 bits/s) to the selections-per-second section
-- Added Hyman (1953), Musslick et al. (2016), and Zimmermann (1986) to References
+- Added Nørretranders' "user illusion" metaphor to filter theory section — consciousness as simplified desktop, not the underlying computation
+- Added Nørretranders' specific conscious throughput estimate (~16-20 bits/s) to inbound channel section, noting refinement toward ~10
+- Added Hick's direct quote about "rate of gain of information" being constant
 
-Key improvements: Stronger attribution chain (Zimmermann → Nørretranders), deeper historical grounding (Hick-Hyman Law), and direct empirical support for the ~3-4 selections/second claim from cognitive control research.
+Based on research/bandwidth-constraints-10-bits-2026-03-29.md.
+Key improvements: The user illusion metaphor strengthens the filter theory argument by providing an intuitive model for how a narrow interface can be functional rather than defective.
 
 This log should be removed after human review.
 -->

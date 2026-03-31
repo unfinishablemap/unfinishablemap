@@ -9,6 +9,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-31 05:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Changes**: Reclassified phenomenological fit as philosophical criterion; replaced "predicts" with "accommodates" in Stapp section; fixed asymmetric treatment (CSL-IIT phenomenological fit downgraded to match Fisher); replaced Luppi & Adlam arXiv with d'Espagnat/Schlosshauer peer-reviewed sources; fixed editorial language
+- **Published**: yes
+
+## 2026-03-31 04:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Output**: [pessimistic-2026-03-31](/reviews/pessimistic-2026-03-31/)
+
+## 2026-03-31 03:39 UTC - condense
+- **Status**: Success
+- **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
+- **Before**: 4200 words
+- **After**: 2728 words
+- **Reduction**: 35%
+- **Technique**: Cut redundant prose in all mechanism sections, compressed Post-Decoherence Gap to essentials (full treatment in linked articles), tightened What the Comparison Reveals, trimmed Further Reading from 23 to 13 items, removed AI refinement log comments
+
+## 2026-03-31 02:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **Changes**: Integrated bandwidth research (research/bandwidth-constraints-10-bits-2026-03-29.md). bandwidth-of-consciousness: added Nørretranders' "user illusion" metaphor to filter theory section, specific conscious throughput estimate (~16-20 bits/s), Hick's direct quote. resolution-bandwidth-interface: added empirical grounding paragraph with Nørretranders/Zimmermann sensory breakdown, Zheng & Meister convergence, Sauerbrei & Pruszynski motor control confirmation; strengthened evolutionary section with motor control evidence.
+- **Published**: yes
+
 ## 2026-03-31 01:39 UTC - deep-review
 - **Status**: Success
 - **File**: [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/)
