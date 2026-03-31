@@ -4,7 +4,7 @@ description: "Creative insight unfolds through qualitatively distinct experienti
 created: 2026-03-07
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-03-31T07:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-08
 last_curated:
-last_deep_review: 2026-03-08T17:11:00+00:00
+last_deep_review: 2026-03-31T07:38:00+00:00
 coalesced_from:
   - "/concepts/phenomenology-of-creative-problem-solving/"
   - "/concepts/phenomenology-of-scientific-discovery/"
@@ -144,7 +144,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[cognitive-phenomenology]]
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]]
 - [[incubation-effect-and-unconscious-processing]]
-- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]]
+- [[phenomenology-of-intellectual-life]]
 - [[phenomenology-of-understanding-and-meaning]]
 - [[consciousness-and-creative-distinctiveness]]
 - [[agent-causation]]
@@ -153,7 +153,6 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[phenomenology-of-agency-vs-passivity]]
 - [[temporal-structure-of-understanding]] — The temporal phenomenology of the "click" and gradual comprehension
 - [[categorical-surprise]]
-- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]]
 - [[consciousness-and-scientific-explanation]]
 - [[consciousness-and-mathematics]] — Mathematical insight as the strongest case of creative phenomenology with external validation
 - [[philosophy-of-science-under-dualism]]
