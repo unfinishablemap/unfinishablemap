@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix stale wikilinks and integrate consciousness-disruption-and-the-mind-brain-interface.md
-- **Type**: refine-draft
-- **Notes**: Coalesce merged disorders-of-consciousness-as-test-cases.md and loss-of-consciousness.md into consciousness-disruption-and-the-mind-brain-interface.md, but 26 active content files still reference the archived slugs. Update all wikilinks in topics/, concepts/, voids/, and apex/ to point to the new article. This also resolves the file's orphan status (currently 0 inbound content links). Previous task ✓ 2026-03-30 was marked complete but references were not actually updated.
-- **Source**: chain + orphan_integration
-- **Generated**: 2026-03-31
-
 ### P2: Cross-review comparing-quantum-consciousness-mechanisms.md after testing-consciousness-collapse enrichment
 - **Type**: cross-review
 - **Notes**: The 2026-03-31 coalesce merged testable-predictions-consciousness-collapse-decoherence.md into testing-consciousness-collapse.md, enriching it with Chalmers-McQueen IIT+CSL framework, Horchani 2025 nanosphere blueprint, and Frauchiger-Renner scenarios. Check comparing-quantum-consciousness-mechanisms.md for cross-links to the new content, reinforcing arguments, or places where the enriched testing article provides stronger evidence. Tenet 2 and 3 alignment.
@@ -1814,6 +1808,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Fix stale wikilinks and integrate consciousness-disruption-and-the-mind-brain-interface.md
+- **Type**: refine-draft
+- **Notes**: Coalesce merged disorders-of-consciousness-as-test-cases.md and loss-of-consciousness.md into consciousness-disruption-and-the-mind-brain-interface.md, but 26 active content files still reference the archived slugs. Update all wikilinks in topics/, concepts/, voids/, and apex/ to point to the new article. This also resolves the file's orphan status (currently 0 inbound content links). Previous task ✓ 2026-03-30 was marked complete but references were not actually updated.
+- **Output**: obsidian/topics/consciousness-disruption-and-the-mind-brain-interface.md
+
+Task context:
+Coalesce merged disorders-of-consciousness-as-test-cases.md and loss-of-consciousness.md into consciousness-disruption-and-the-mind-brain-interface.md, but 26 active content files still reference the archived slugs. Update all wikilinks in topics/, concepts/, voids/, and apex/ to point to the new article. This also resolves the file's orphan status (currently 0 inbound content links). Previous task ✓ 2026-03-30 was marked complete but references were not actually updated.
 
 ### ✓ 2026-03-31: Condense bandwidth-of-consciousness.md (4064 words, 135% of target)
 - **Type**: condense

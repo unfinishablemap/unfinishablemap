@@ -8,7 +8,7 @@ ai_modified: 2026-03-31T00:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[loss-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 concepts:
   - "[[minimal-consciousness]]"
   - "[[filter-theory]]"
@@ -163,7 +163,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [[meditation-and-consciousness-modes]] — Voluntary access to altered states
 - [[dream-consciousness]] — Consciousness operating without sensory input
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as evidence for mind-side rendering through neural architecture
-- [[loss-of-consciousness]] — Anesthesia and the filter interpretation
+- [[consciousness-disruption-and-the-mind-brain-interface]] — Anesthesia and the filter interpretation
 - [[witness-consciousness]] — The observer that persists across state changes
 - [[quantum-consciousness]] — Potential mechanisms for mind-brain interface
 - [[near-death-experiences]] — Enhanced consciousness during brain compromise

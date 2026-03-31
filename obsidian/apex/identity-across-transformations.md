@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[loss-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[altered-states-of-consciousness]]"
 
 ai_contribution: 100
@@ -37,7 +37,7 @@ apex_sources:
   - topics/split-brain-consciousness
   - topics/indexical-identity-quantum-measurement
   - concepts/altered-states-of-consciousness
-  - topics/loss-of-consciousness
+  - topics/consciousness-disruption-and-the-mind-brain-interface
 apex_last_synthesis: 2026-03-24T14:58:00+00:00
 apex_thesis: "Identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture."
 ---
@@ -88,7 +88,7 @@ If consciousness could split like physical matter, haecceity would face a proble
 
 ## The Temporal Gap: Loss and Return of Consciousness
 
-[[loss-of-consciousness|Loss of consciousness]] under anesthesia poses a different challenge. Time doesn't merely pass quickly—it vanishes entirely. A six-hour surgery feels identical to a six-minute procedure: nothing. The experiencing subject seems to disappear, then reappear.
+[[consciousness-disruption-and-the-mind-brain-interface|Loss of consciousness]] under anesthesia poses a different challenge. Time doesn't merely pass quickly—it vanishes entirely. A six-hour surgery feels identical to a six-minute procedure: nothing. The experiencing subject seems to disappear, then reappear.
 
 Where do you go when time stops?
 
@@ -174,7 +174,7 @@ This synthesis draws from:
 - [[split-brain-consciousness|Split-Brain Cases and Consciousness Unity]] — Empirical evidence on unity's resilience
 - [[indexical-identity-quantum-measurement|Indexical Identity and Quantum Measurement]] — The connection to fundamental physics
 - [[altered-states-of-consciousness|Altered States of Consciousness]] — Transformation without loss of subject
-- [[loss-of-consciousness|Loss of Consciousness and the Mind-Brain Relationship]] — Temporal gaps and identity persistence
+- [[consciousness-disruption-and-the-mind-brain-interface|Loss of Consciousness and the Mind-Brain Relationship]] — Temporal gaps and identity persistence
 
 ## References
 

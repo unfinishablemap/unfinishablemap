@@ -40,7 +40,7 @@ related_articles:
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[integrated-information-theory]]"
   - "[[psychophysical-laws]]"
-  - "[[disorders-of-consciousness-as-test-cases]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -98,7 +98,7 @@ Alston's work on epistemic circularity reveals this as an instance of a broader 
 
 Every proposed metric of consciousness—without exception—measures a correlate rather than consciousness itself. The gap between proxy and phenomenon is categorical, not technical.
 
-[[integrated-information-theory|Integrated Information Theory]] proposes phi as a consciousness metric, but Aaronson demonstrated that simple networks of logic gates arranged as expander graphs would score far higher on phi than human brains—despite lacking any intuitive claim to consciousness. The Perturbational Complexity Index achieves high sensitivity in detecting consciousness in [[disorders-of-consciousness-as-test-cases|minimally conscious patients]], but PCI measures algorithmic complexity of cortical responses, not consciousness itself. [[neural-correlates-of-consciousness|Neural correlates of consciousness]] face the same gap: correlations between conscious states and neural activity are compatible with parallelism, causation, identity, or epiphenomenalism. The correlates are real; whether they constitute, cause, or merely accompany consciousness is not a question measurement can settle.
+[[integrated-information-theory|Integrated Information Theory]] proposes phi as a consciousness metric, but Aaronson demonstrated that simple networks of logic gates arranged as expander graphs would score far higher on phi than human brains—despite lacking any intuitive claim to consciousness. The Perturbational Complexity Index achieves high sensitivity in detecting consciousness in [[consciousness-disruption-and-the-mind-brain-interface|minimally conscious patients]], but PCI measures algorithmic complexity of cortical responses, not consciousness itself. [[neural-correlates-of-consciousness|Neural correlates of consciousness]] face the same gap: correlations between conscious states and neural activity are compatible with parallelism, causation, identity, or epiphenomenalism. The correlates are real; whether they constitute, cause, or merely accompany consciousness is not a question measurement can settle.
 
 ## Convergent Structure
 

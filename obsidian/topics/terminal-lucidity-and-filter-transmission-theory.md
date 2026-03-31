@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[terminal-lucidity-filter-theory-2026-03-20]]"
   - "[[psychedelics-and-the-filter-model]]"
-  - "[[disorders-of-consciousness-as-test-cases]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[altered-states-as-interface-evidence]]"
   - "[[arguments-against-materialism]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
@@ -117,7 +117,7 @@ Each phenomenon, considered alone, permits materialist explanation. Taken togeth
 - [[consciousness-and-neurodegenerative-disease]] — What progressive neural erosion reveals about mind-brain relations
 - [[psychedelics-and-the-filter-model]] — Decreased brain activity with expanded consciousness
 - [[near-death-experiences]] — Enhanced experience during brain compromise
-- [[disorders-of-consciousness-as-test-cases]] — Covert consciousness and the interface distinction
+- [[consciousness-disruption-and-the-mind-brain-interface]] — Covert consciousness and the interface distinction
 - [[altered-states-as-interface-evidence]] — Apex synthesis of altered state evidence for the filter model
 
 ## References

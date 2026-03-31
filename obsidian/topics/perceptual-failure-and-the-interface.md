@@ -35,7 +35,7 @@ related_articles:
   - "[[bandwidth-of-consciousness]]"
   - "[[consciousness-as-perceptual-architect]]"
   - "[[visual-consciousness]]"
-  - "[[disorders-of-consciousness-as-test-cases]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[selective-correction-and-reconstruction-paradox]]"
@@ -101,7 +101,7 @@ This objection has force for any single degradation pattern in isolation. But it
 
 [[anaesthesia-and-the-consciousness-interface|Anaesthesia]] provides perhaps the most dramatic window into interface architecture. General anaesthetics do not damage neural tissue or destroy representations. They disrupt specific patterns of neural communication—particularly thalamocortical feedback loops and long-range cortical integration. Yet their effect on consciousness is profound: not degradation but apparent disconnection.
 
-The difference between anaesthetic unconsciousness and perceptual degradation is instructive. Progressive blur suggests reduced bandwidth. Anaesthesia suggests the channel shutting down. If consciousness were simply an emergent property of neural complexity, these should look similar—less complexity, less consciousness. Instead they produce categorically different phenomenologies: impoverished-but-present experience under degradation, and apparent absence under anaesthesia. This pattern extends to [[disorders-of-consciousness-as-test-cases|disorders of consciousness]] like vegetative states and locked-in syndrome, where the interface appears disrupted in yet different ways. The dissociation supports the interface model: the channel can transmit at reduced capacity (degradation) or be functionally closed (anaesthesia), and these are distinct failure modes.
+The difference between anaesthetic unconsciousness and perceptual degradation is instructive. Progressive blur suggests reduced bandwidth. Anaesthesia suggests the channel shutting down. If consciousness were simply an emergent property of neural complexity, these should look similar—less complexity, less consciousness. Instead they produce categorically different phenomenologies: impoverished-but-present experience under degradation, and apparent absence under anaesthesia. This pattern extends to [[consciousness-disruption-and-the-mind-brain-interface|disorders of consciousness]] like vegetative states and locked-in syndrome, where the interface appears disrupted in yet different ways. The dissociation supports the interface model: the channel can transmit at reduced capacity (degradation) or be functionally closed (anaesthesia), and these are distinct failure modes.
 
 ## Selective Preservation and the Filter
 
@@ -143,7 +143,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [[phenomenal-transparency]]
 - [[consciousness-as-perceptual-architect]]
 - [[visual-consciousness]]
-- [[disorders-of-consciousness-as-test-cases]]
+- [[consciousness-disruption-and-the-mind-brain-interface]]
 - [[hypnagogic-phenomenology-and-interface-modulation]]
 - [[perceptual-degradation-and-the-interface]]
 - [[selective-correction-and-reconstruction-paradox]]

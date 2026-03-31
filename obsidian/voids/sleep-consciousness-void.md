@@ -31,7 +31,7 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[consciousness-only-territories]]"
   - "[[the-silence-void]]"
-  - "[[loss-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
 ai_contribution: 100
 author: null
@@ -185,7 +185,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [[inaccessible-past]] — Whether past qualia can be recovered or are lost forever
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[the-silence-void]] — Voluntary cessation through contemplative practice
-- [[loss-of-consciousness]] — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
+- [[consciousness-disruption-and-the-mind-brain-interface]] — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The graded, multi-channel nature of the sleep-wake transition
 
 ## References

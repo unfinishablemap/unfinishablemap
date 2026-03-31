@@ -11,7 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[personal-identity]]"
   - "[[death-and-consciousness]]"
-  - "[[loss-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[disorders-of-consciousness-as-test-cases]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[emotion-and-dualism]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
@@ -126,8 +126,7 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 
 ## Further Reading
 
-- [[loss-of-consciousness]] — Acute disruption: anesthesia, coma, and the filter theory interpretation
-- [[disorders-of-consciousness-as-test-cases]] — Vegetative states and covert awareness as tests for theories
+- [[consciousness-disruption-and-the-mind-brain-interface]] — Acute disruption, disorders of consciousness, and the filter theory interpretation
 - [[mind-brain-separation]] — The division of faculties between mind and brain
 - [[death-and-consciousness]] — What happens when the brain fails entirely
 - [[personal-identity]] — The indexical identity question sharpened by neurodegeneration

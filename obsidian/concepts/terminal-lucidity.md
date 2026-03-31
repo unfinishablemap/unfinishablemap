@@ -16,12 +16,12 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[mind-brain-separation]]"
-  - "[[loss-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 related_articles:
   - "[[tenets]]"
   - "[[terminal-lucidity-filter-theory-2026-03-20]]"
   - "[[psychedelics-and-the-filter-model]]"
-  - "[[disorders-of-consciousness-as-test-cases]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -84,7 +84,7 @@ Terminal lucidity gains evidential weight when considered alongside other phenom
 
 - **[[near-death-experiences|Near-death experiences]]**: Enhanced consciousness during cardiac arrest, when the brain is severely compromised
 - **[[psychedelics-and-the-filter-model|Psychedelic states]]**: Decreased brain activity (measured by fMRI) accompanied by expanded, more vivid conscious experience
-- **[[disorders-of-consciousness-as-test-cases|Covert consciousness]]**: A significant proportion of behaviourally unresponsive patients retain awareness detectable only via neuroimaging
+- **[[consciousness-disruption-and-the-mind-brain-interface|Covert consciousness]]**: A significant proportion of behaviourally unresponsive patients retain awareness detectable only via neuroimaging
 - **[[mind-brain-separation|Hemispherectomy]]**: Patients with an entire hemisphere removed retain substantially normal consciousness
 
 Each phenomenon, considered alone, admits materialist explanation. Taken together, they form a pattern: consciousness sometimes persists or intensifies when the brain is damaged, disrupted, or suppressed. Filter theory provides a unified interpretation of this pattern; production models must explain each case with a different mechanism.
@@ -109,7 +109,7 @@ The evidence base for terminal lucidity, while growing, has significant limitati
 - [[near-death-experiences]] — Enhanced experience during brain compromise
 - [[psychedelics-and-the-filter-model]] — Decreased brain activity with expanded consciousness
 - [[mind-brain-separation]] — The rendering engine analogy for brain-consciousness relations
-- [[disorders-of-consciousness-as-test-cases]] — Covert consciousness and the interface distinction
+- [[consciousness-disruption-and-the-mind-brain-interface]] — Covert consciousness and the interface distinction
 
 ## References
 

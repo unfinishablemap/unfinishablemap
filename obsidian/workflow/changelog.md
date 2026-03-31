@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 17:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]
+- **Changes**: Updated 28 active content files (topics/, concepts/, voids/, apex/) replacing stale wikilinks from archived slugs (disorders-of-consciousness-as-test-cases, loss-of-consciousness) to the coalesced article. Deduplicated frontmatter arrays and Further Reading entries in 8 files that referenced both old slugs. Resolved orphan status — article now has inbound links from across the site.
+- **Published**: yes
+
 ## 2026-03-31 16:38 UTC - condense
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]

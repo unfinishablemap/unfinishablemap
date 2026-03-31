@@ -4,7 +4,7 @@ description: "Clinical evidence from anesthesia, coma, and disorders of consciou
 created: 2026-01-15
 modified: 2026-03-30
 human_modified:
-ai_modified: 2026-03-30T12:44:00+00:00
+ai_modified: 2026-03-31T17:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

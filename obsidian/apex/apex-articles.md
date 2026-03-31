@@ -100,7 +100,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/split-brain-consciousness
 - topics/indexical-identity-quantum-measurement
 - concepts/altered-states-of-consciousness
-- topics/loss-of-consciousness
+- topics/consciousness-disruption-and-the-mind-brain-interface
 
 **Status**: Created 2026-01-31
 
@@ -414,7 +414,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/dream-consciousness
 - concepts/meditation-and-consciousness-modes
 - concepts/coupling-modes
-- topics/loss-of-consciousness
+- topics/consciousness-disruption-and-the-mind-brain-interface
 - topics/hypnagogic-phenomenology-and-interface-modulation
 - topics/anaesthesia-and-the-consciousness-interface
 - concepts/altered-states-of-consciousness

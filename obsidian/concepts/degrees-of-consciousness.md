@@ -12,7 +12,7 @@ topics:
   - "[[consciousness-in-simple-organisms]]"
   - "[[animal-consciousness]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
-  - "[[loss-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 concepts:
   - "[[phenomenal-consciousness]]"
   - "[[minimal-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[disorders-of-consciousness-as-test-cases]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[dream-consciousness]]"
 ai_contribution: 100
 author:
@@ -61,7 +61,7 @@ These dimensions can vary independently. Ketamine dissociation involves high phe
 - **Disconnected consciousness** — phenomenal experience persists (dreams, hallucinations) but connection to external stimuli is severed
 - **Unconsciousness** — no reportable experience
 
-Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. Complete [[loss-of-consciousness|loss of consciousness]] under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
+Different agents produce different gradation profiles. Propofol creates relatively sharp transitions. Ketamine preserves vivid phenomenal states while disconnecting access and motor control. Xenon produces graded dimming. Complete [[consciousness-disruption-and-the-mind-brain-interface|loss of consciousness]] under deep anaesthesia represents the endpoint of this gradient, though even here the boundary is contested. The pharmacological diversity of these profiles — each agent targeting distinct molecular systems — maps the interface architecture through which consciousness connects to neural activity.
 
 ### Sleep and Dreaming
 
@@ -75,7 +75,7 @@ Cross-species comparison provides the broadest evidence for degrees. If [[consci
 
 ### Clinical Disorders
 
-[[disorders-of-consciousness-as-test-cases|Disorders of consciousness]] reveal gradation through clinical dissociation. Cognitive motor dissociation — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
+[[consciousness-disruption-and-the-mind-brain-interface|Disorders of consciousness]] reveal gradation through clinical dissociation. Cognitive motor dissociation — patients who appear vegetative but show robust neural responses to commands — demonstrates that consciousness can persist at degrees invisible to behavioural assessment. The approximately 40% misdiagnosis rate between vegetative and minimally conscious states reflects the practical difficulty of measuring a graded phenomenon with binary clinical categories.
 
 ## Theoretical Frameworks
 
@@ -125,7 +125,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 - [[access-consciousness]] — One dimension along which consciousness varies
 - [[filter-theory]] — Interface model that explains gradation as transmission variation
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological mapping of consciousness degrees
-- [[disorders-of-consciousness-as-test-cases]] — Clinical evidence for graded consciousness
+- [[consciousness-disruption-and-the-mind-brain-interface]] — Clinical evidence for graded consciousness
 - [[consciousness-in-simple-organisms]] — Degrees across the animal kingdom
 - [[blindsight]] — Dissociation between phenomenal and access dimensions
 - [[integrated-information-theory]] — Explicit theoretical account of consciousness as graded

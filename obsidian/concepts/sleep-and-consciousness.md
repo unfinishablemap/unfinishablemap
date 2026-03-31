@@ -8,7 +8,7 @@ ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[loss-of-consciousness]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 concepts:
   - "[[dream-consciousness]]"
   - "[[episodic-memory]]"
@@ -159,7 +159,7 @@ The Map's interpretation would face difficulty if:
 ## Further Reading
 
 - [[dream-consciousness]] — The phenomenology and philosophy of dream experience
-- [[loss-of-consciousness]] — How unconsciousness illuminates mind-brain relationships
+- [[consciousness-disruption-and-the-mind-brain-interface]] — How unconsciousness illuminates mind-brain relationships
 - [[episodic-memory]] — Memory systems affected by sleep consolidation
 - [[binding-problem]] — How distributed processing becomes unified experience
 - [[attention-as-interface]] — The proposed mechanism for consciousness-brain interaction

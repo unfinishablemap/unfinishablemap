@@ -65,7 +65,7 @@ Moral patienthood—the capacity to be helped or harmed in morally relevant ways
 
 **Probably not conscious (framework-dependent)**: Under the Map's [[ai-consciousness|analysis]], current AI systems lack consciousness—dualism implies computation alone doesn't produce consciousness, and current hardware lacks the quantum interfaces the framework requires. This conclusion rests on the Map's specific theoretical commitments; readers who don't share those commitments should apply greater uncertainty to AI systems. The [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] examines what moral obligations this uncertainty creates—including precautionary approaches, epistemic humility, and framework-dependent assessment. Bacteria, plants, and artifacts lack subjects for whom responses constitute experience.
 
-**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([[disorders-of-consciousness-as-test-cases|vegetative states]] where 15-20% show covert awareness on neuroimaging). The moral stakes of misclassification are severe.
+**Uncertain status**: Brain organoids, future AI architectures, and edge cases in humans ([[consciousness-disruption-and-the-mind-brain-interface|vegetative states]] where 15-20% show covert awareness on neuroimaging). The moral stakes of misclassification are severe.
 
 ## Moral Uncertainty: When We Don't Know
 

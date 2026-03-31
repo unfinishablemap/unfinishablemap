@@ -23,7 +23,7 @@ related_articles:
   - "[[phenomenological-psychiatry-and-altered-experience]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
-  - "[[disorders-of-consciousness-as-test-cases]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[epistemology-of-first-person-evidence]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[pain-consciousness-and-causal-power]]"
@@ -60,7 +60,7 @@ The philosophical power of clinical phenomenology lies not just in revealing the
 
 If consciousness is identical to brain activity, then experiential disruptions should ultimately be explicable in terms of neural disruptions — even if the mapping is complex and non-linear. Sophisticated identity theorists do not require a crude one-to-one correspondence between lesion site and experiential loss; they allow for distributed processing and network effects. What identity theory does require is that every experiential change has a sufficient neural explanation: no experiential disruption without a corresponding neural disruption, and no preserved experience where the relevant neural substrate is destroyed.
 
-Clinical phenomenology challenges even this sophisticated version. [[clinical-dissociation-as-systematic-evidence|Dissociative identity disorder]] produces profound experiential fragmentation — distinct personality states with separate experiential streams — without structural brain damage. The neural substrate remains intact; what fragments is the unity of experience itself. [[disorders-of-consciousness-as-test-cases|Cognitive motor dissociation]] reveals the reverse problem: preserved awareness in patients whose behavioural output suggests vegetative states, where the extent of neural damage would seem to preclude the experiential capacities that neuroimaging reveals. [[pain-consciousness-and-causal-power|Pain asymbolia]] dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways — the [[phenomenological-evidence|phenomenological evidence]] shows that what changes is not the neural signal but the experiential response to it. In each case, the experiential disruption is systematic and selective in ways that resist straightforward neural explanation, even when sophisticated network models are invoked.
+Clinical phenomenology challenges even this sophisticated version. [[clinical-dissociation-as-systematic-evidence|Dissociative identity disorder]] produces profound experiential fragmentation — distinct personality states with separate experiential streams — without structural brain damage. The neural substrate remains intact; what fragments is the unity of experience itself. [[consciousness-disruption-and-the-mind-brain-interface|Cognitive motor dissociation]] reveals the reverse problem: preserved awareness in patients whose behavioural output suggests vegetative states, where the extent of neural damage would seem to preclude the experiential capacities that neuroimaging reveals. [[pain-consciousness-and-causal-power|Pain asymbolia]] dissociates the sensory and affective dimensions of pain despite intact nociceptive pathways — the [[phenomenological-evidence|phenomenological evidence]] shows that what changes is not the neural signal but the experiential response to it. In each case, the experiential disruption is systematic and selective in ways that resist straightforward neural explanation, even when sophisticated network models are invoked.
 
 ### What Functionalism Predicts
 
@@ -114,7 +114,7 @@ Most fundamentally, clinical phenomenology vindicates the Map's methodological c
 - [[phenomenological-psychiatry-and-altered-experience]]
 - [[clinical-dissociation-as-systematic-evidence]]
 - [[neurological-dissociations-as-interface-architecture]]
-- [[disorders-of-consciousness-as-test-cases]]
+- [[consciousness-disruption-and-the-mind-brain-interface]]
 - [[epistemology-of-first-person-evidence]]
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[pain-consciousness-and-causal-power]]
