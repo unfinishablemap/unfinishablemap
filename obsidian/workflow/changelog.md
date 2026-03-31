@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 16:38 UTC - condense
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Before**: 4064
+- **After**: 2992
+- **Reduction**: 26%
+- **Technique**: Cut redundant historical detail (Hick/Hyman/Miller restated table), trimmed Block/Cohen debate, removed James's prism metaphor (redundant with user illusion), tightened automatisation examples, compressed evolutionary puzzle and free will sections
+
 ## 2026-03-31 15:39 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/testable-predictions-consciousness-collapse-decoherence]]

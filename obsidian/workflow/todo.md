@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense bandwidth-of-consciousness.md (4064 words, 135% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word soft threshold and 4000-word hard threshold for topics/. Preserve core arguments about bandwidth asymmetry and interface constraints while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-31
-
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1790,6 +1784,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Condense bandwidth-of-consciousness.md (4064 words, 135% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word soft threshold and 4000-word hard threshold for topics/. Preserve core arguments about bandwidth asymmetry and interface constraints while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
 
 ### ✓ 2026-03-31: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
 - **Type**: integrate-orphan
