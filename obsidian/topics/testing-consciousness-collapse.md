@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-31T15:39:00+00:00
+ai_modified: 2026-03-31T23:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-29T23:02:00+00:00
+last_deep_review: 2026-03-31T23:38:00+00:00
 coalesced_from:
   - "/topics/consciousness-collapse-experimental-landscape/"
   - "/topics/experimental-design-for-consciousness-collapse-testing/"
@@ -99,7 +99,7 @@ Tier 1 predictions distinguish collapse interpretations (of any kind) from no-co
 
 ### Mass-Quadratic Excess Decoherence
 
-Objective collapse models predict decoherence rates scaling quadratically with mass, while environmental decoherence follows different scaling laws (Bassi, Dorato & Ulbricht, 2023). Horchani (2025) identified a second signature — CSL rates *saturate* with increasing superposition size — and developed a Bayesian inference protocol using levitated dielectric nanospheres in Schrödinger-cat states. The protocol's unified master equation accounts for gas collisions, black-body radiation, and photon-recoil noise, enabling direct hypothesis comparison between collapse and environmental decoherence rather than the indirect parameter-bounding that has characterised previous experimental programmes.
+Objective collapse models predict decoherence rates scaling quadratically with mass, while environmental decoherence follows different scaling laws (Bassi, Dorato & Ulbricht, 2023). Horchani (2025) identified a second signature — CSL rates *saturate* with increasing superposition size — and developed a Bayesian inference protocol using levitated nanospheres in Schrödinger-cat states. The protocol's unified master equation accounts for gas collisions, black-body radiation, and photon-recoil noise, enabling direct collapse-vs-decoherence hypothesis comparison rather than the indirect parameter-bounding that has characterised previous experiments.
 
 **Current status:** Proposed. Tests collapse generally, not consciousness-collapse specifically — but a necessary precondition for the Map's position.
 
@@ -109,7 +109,7 @@ Full state tomography of system plus environment should reveal whether post-meas
 
 ### Superposition Persistence at Biologically Relevant Masses
 
-If MAQRO or equivalent experiments show superposition persisting at 10⁹–10¹¹ amu, collapse models face progressive elimination. If superposition breaks down consistently with mass-dependent collapse, this confirms the physical substrate consciousness-collapse requires. MAQRO remains at concept study stage.
+The MAQRO programme described above would be decisive here: persistent superposition at 10⁹–10¹¹ amu would progressively eliminate collapse models, while mass-dependent breakdown would confirm the physical substrate consciousness-collapse requires. MAQRO remains at concept study stage.
 
 ### Anomalous Brownian Heating
 
@@ -119,7 +119,7 @@ Spontaneous collapse models predict that isolated particles experience anomalous
 
 **What a positive result means:** Collapse is real. The heating rate would constrain the collapse parameters (λ and r_C), narrowing the viable parameter space.
 
-**What a negative result means:** Upper bounds on the collapse rate tighten. Adler's enhanced rate (λ ≈ 10⁻⁸ s⁻¹) is already approaching experimental bounds of approximately 10⁻⁹ s⁻¹ from spontaneous heating measurements. Searches for spontaneous radiation — a related signature where collapse noise excites bound electrons — provide complementary constraints (Curceanu et al., 2022).
+**What a negative result means:** Upper bounds on the collapse rate tighten. Adler's enhanced rate (λ ≈ 10⁻⁸ s⁻¹) already approaches experimental bounds (~10⁻⁹ s⁻¹) from spontaneous heating measurements. Spontaneous radiation searches — where collapse noise excites bound electrons — provide complementary constraints (Curceanu et al., 2022).
 
 **Current status:** Progressive experimental bounds are tightening. No anomalous heating detected, but the standard GRW/CSL parameter space remains viable. Carlesso and Donadi (2025) provide the most comprehensive current review of experimental constraints.
 
@@ -153,9 +153,7 @@ The Chalmers-McQueen (2021) framework extends the Kremnizer-Ranchin approach by 
 
 If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Objective collapse models predict timing fixed by the detector's physical properties.
 
-The Frauchiger-Renner (2018) thought experiment and its empirical confirmation (Proietti et al., 2019 — a six-photon experiment violating a Bell-type inequality by five standard deviations) show that quantum theory struggles to consistently describe observers modelling each other's measurements. Allori et al. (2025) extended this to show both many-worlds and single-world interpretations face distinct difficulties. These results challenge consciousness-collapse, but rest on an assumption it coherently rejects: that quantum mechanics applies universally to conscious systems.
-
-Bong et al. (2020) derived the "local friendliness" no-go theorem showing that "absoluteness of observed events" cannot hold alongside other standard assumptions. Consciousness-collapse must maintain absolute outcomes while explaining how consciousness produces them, tightly constraining viable versions.
+Extended Wigner's friend experiments bear on this prediction. Proietti et al. (2019) demonstrated a six-photon scenario violating a Bell-type inequality by five standard deviations, confirming that observer-modelling tensions are empirically real, not merely thought-experimental. Allori et al. (2025) showed both many-worlds and single-world interpretations face distinct difficulties. Bong et al. (2020) derived the "local friendliness" no-go theorem showing that "absoluteness of observed events" cannot hold alongside other standard assumptions. These results constrain consciousness-collapse — which must maintain absolute outcomes while explaining how consciousness produces them — but the logical implications are developed further in the [Tier 3 section](#the-frauchiger-renner-argument) below.
 
 **Current status:** Requires quantum memories maintaining coherence through macroscopic measurement chains — beyond current technology.
 
@@ -173,9 +171,9 @@ Tier 1 involves measurable physical quantities. Tier 2 requires controlling *con
 
 Tier 3 consists of logical arguments constraining which interpretation-packages are internally consistent, forcing commitments without producing measurement outcomes.
 
-### The Frauchiger-Renner Argument
+### The Frauchiger-Renner Argument {#the-frauchiger-renner-argument}
 
-Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions. The 2019 six-photon experiment confirmed these tensions are empirically real. Many-worlds resolves the contradiction parsimoniously: the wave equation applies universally, and what appears as a single definite outcome is perspective-relative. No new physics is required. Consciousness-collapse resolves it differently, by denying quantum mechanics applies universally to conscious systems — a more expensive move that introduces consciousness as a physical primitive. The argument narrows viable positions without selecting among them empirically, but the parsimony advantage lies with many-worlds.
+Extended Wigner's friend scenarios show that universal quantum mechanics plus definite conscious experiences produces contradictions — tensions confirmed empirically by Proietti et al. (2019) and sharpened by Bong et al. (2020) and Allori et al. (2025) as discussed in Tier 2. Many-worlds resolves the contradiction parsimoniously: the wave equation applies universally, and what appears as a single definite outcome is perspective-relative. No new physics is required. Consciousness-collapse resolves it differently, by denying quantum mechanics applies universally to conscious systems — a more expensive move that introduces consciousness as a physical primitive. The argument narrows viable positions without selecting among them empirically, but the parsimony advantage lies with many-worlds.
 
 ### Born Rule Derivation as Indirect Evidence
 

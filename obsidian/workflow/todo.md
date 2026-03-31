@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review testing-consciousness-collapse.md post-coalesce
-- **Type**: deep-review
-- **Notes**: Article was enriched by 2026-03-31 coalesce (merged testable-predictions-consciousness-collapse-decoherence.md). Last deep review was 2026-03-29, before the coalesce. Verify the merged content is coherent, eliminates redundancy, preserves key arguments from both sources, and maintains accurate experimental claims. Tenet 2 and 3 alignment critical — this article is central to the Map's empirical programme.
-- **Source**: chain (from testing-consciousness-collapse coalesce)
-- **Generated**: 2026-03-31
-
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1790,6 +1784,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Deep review testing-consciousness-collapse.md post-coalesce
+- **Type**: deep-review
+- **Notes**: Article was enriched by 2026-03-31 coalesce (merged testable-predictions-consciousness-collapse-decoherence.md). Last deep review was 2026-03-29, before the coalesce. Verify the merged content is coherent, eliminates redundancy, preserves key arguments from both sources, and maintains accurate experimental claims. Tenet 2 and 3 alignment critical — this article is central to the Map's empirical programme.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
 
 ### ✓ 2026-03-31: Write article on phenomenological method and evidence standards
 - **Type**: expand-topic
