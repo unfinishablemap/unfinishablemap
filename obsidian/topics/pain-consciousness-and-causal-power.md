@@ -38,7 +38,7 @@ related_articles:
   - "[[topics/phenomenal-value-realism]]"
   - "[[placebo-effect-and-mental-causation]]"
   - "[[philosophical-zombies]]"
-  - "[[phenomenal-conservatism-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[somatic-interface]]"
   - "[[consciousness-and-neurodegenerative-disease]]"

@@ -33,6 +33,7 @@ related_articles:
   - "[[living-with-the-map]]"
   - "[[pragmatisms-path-to-dualism]]"
   - "[[pragmatism]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 last_deep_review: 2026-03-16T23:01:00+00:00
 author:

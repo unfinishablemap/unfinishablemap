@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-29 in obsidian/topics/, has no inbound links. Add cross-references from epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and related epistemological articles. Central to the Map's evidential strategy.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-31
-
 ### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering testable-predictions insights
 - **Type**: cross-review
 - **Notes**: New article testable-predictions-consciousness-collapse-decoherence.md (2026-03-30) identifies specific experimental predictions distinguishing consciousness-collapse from decoherence-only interpretations. Review comparing-quantum-consciousness-mechanisms.md for opportunities to reference these predictions, strengthen empirical grounding, and ensure consistency.
@@ -1802,6 +1796,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 in obsidian/topics/, has no inbound links. Add cross-references from epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and related epistemological articles. Central to the Map's evidential strategy.
+- **Output**: obsidian/topics/phenomenal-authority-and-introspective-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-31: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
 - **Type**: integrate-orphan

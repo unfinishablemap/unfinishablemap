@@ -54,6 +54,7 @@ related_articles:
   - "[[analytic-idealism-and-mind-centric-metaphysics]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

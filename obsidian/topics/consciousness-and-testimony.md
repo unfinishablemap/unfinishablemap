@@ -27,7 +27,7 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[other-minds-void]]"
   - "[[introspection]]"
-  - "[[phenomenal-conservatism-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
   - "[[argument-from-reason]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
@@ -160,7 +160,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 - [[epistemology-of-first-person-evidence]] — Testimonial evidence and introspective epistemology in consciousness science
 - [[consciousness-and-the-authority-of-formal-systems]] — Logical compulsion and consciousness
 - [[introspection]] — The reliability debate and the case for restoring introspection
-- [[phenomenal-conservatism-and-introspective-evidence]] — Phenomenal experience as evidence
+- [[phenomenal-authority-and-introspective-evidence]] — Phenomenal experience as evidence
 - [[methodology-of-consciousness-research]] — Methodological tensions in consciousness science
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
 - [[epistemic-advantages-of-dualism]] — Why dualism provides better epistemic resources

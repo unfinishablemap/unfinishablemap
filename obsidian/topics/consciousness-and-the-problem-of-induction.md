@@ -25,7 +25,7 @@ related_articles:
   - "[[consciousness-and-normative-force]]"
   - "[[contemplative-epistemology]]"
   - "[[self-stultification]]"
-  - "[[phenomenal-conservatism-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -111,7 +111,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [[consciousness-and-normative-force]]
 - [[epistemic-advantages-of-dualism]]
 - [[contemplative-epistemology]]
-- [[phenomenal-conservatism-and-introspective-evidence]]
+- [[phenomenal-authority-and-introspective-evidence]]
 
 ## References
 

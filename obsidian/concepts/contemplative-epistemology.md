@@ -26,6 +26,7 @@ related_articles:
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[epistemology-of-first-person-evidence]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

@@ -146,7 +146,7 @@ The remaining tenets—[[tenets#^minimal-quantum-interaction|Minimal Quantum Int
 
 The Map treats self-stultification not as one argument among many but as the argumentative bedrock on which the case for dualism rests. Other arguments—the [[knowledge-argument]], [[philosophical-zombies|conceivability arguments]], the [[explanatory-gap]]—establish that consciousness has features physical description cannot capture. Self-stultification goes further: it shows that denying consciousness causal efficacy is not merely counterintuitive but rationally untenable.
 
-This makes the argument uniquely resistant to dismissal. Critics can challenge the conceivability of zombies, dispute the lessons of Mary's Room, or insist the explanatory gap will close with future science. Self-stultification resists these moves because it targets the *act of rational evaluation itself*. To argue against it, one must engage in the conscious reasoning whose causal efficacy the argument defends. The [[phenomenal-conservatism-and-introspective-evidence|phenomenal conservatism]] framework explains why: introspective seemings provide prima facie justification that cannot be overturned without relying on further introspective seemings.
+This makes the argument uniquely resistant to dismissal. Critics can challenge the conceivability of zombies, dispute the lessons of Mary's Room, or insist the explanatory gap will close with future science. Self-stultification resists these moves because it targets the *act of rational evaluation itself*. To argue against it, one must engage in the conscious reasoning whose causal efficacy the argument defends. The [[phenomenal-authority-and-introspective-evidence|phenomenal conservatism]] framework explains why: introspective seemings provide prima facie justification that cannot be overturned without relying on further introspective seemings.
 
 The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why this drift is not just unfortunate but catastrophic: any theory that lands on epiphenomenalism has destroyed its own rational foundations. The threat is not merely that a theory fails to account for mental causation—it is that the theory, by failing, cannot be rationally held by the very minds it purports to describe.
 
@@ -159,7 +159,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning about consciousness
 - [[epistemology-of-first-person-evidence]] — Whether introspective reports are causally connected to experiences
-- [[phenomenal-conservatism-and-introspective-evidence]] — The epistemic framework that self-stultification presupposes
+- [[phenomenal-authority-and-introspective-evidence]] — The epistemic framework that self-stultification presupposes
 - [[mental-causation-and-downward-causation|mental causation]] — The problem self-stultification helps resolve
 - [[causal-closure]] — The principle whose rejection self-stultification motivates
 - [[interactionist-dualism]] — The framework that escapes self-stultification

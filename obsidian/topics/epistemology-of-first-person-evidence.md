@@ -180,7 +180,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 ## Further Reading
 
 - [[introspection]] — Foundational concept article on the reliability debate
-- [[phenomenal-conservatism-and-introspective-evidence]] — Huemer's principle as epistemological grounding
+- [[phenomenal-authority-and-introspective-evidence]] — Huemer's principle as epistemological grounding
 - [[phenomenal-acquaintance]] — The direct epistemic relation underlying the acquaintance model
 - [[acquaintance-knowledge]] — Russell's distinction and its role in the knowledge argument
 - [[self-opacity]] — Where introspective access fails structurally

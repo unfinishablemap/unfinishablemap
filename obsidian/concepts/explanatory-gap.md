@@ -28,6 +28,7 @@ related_articles:
   - "[[what-consciousness-tells-us-about-physics]]"
   - "[[consciousness-and-memory]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[phenomenal-authority-and-introspective-evidence]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
 ai_contribution: 100
 author: null
