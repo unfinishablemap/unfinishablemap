@@ -140,7 +140,7 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 **Phenomenology matters.** Stapp's model uniquely accommodates the effortful character of attention, the willed/automatic distinction, and the temporal grain of experience — though these features also have well-established classical neuroscience explanations. Other proposals explain *that* consciousness plays a causal role without explaining *why* it feels the way it does. A complete theory must address both, but phenomenological accommodation carries less evidential weight than novel empirical predictions.
 
-**The falsifiability gap.** No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [[testing-consciousness-collapse|experimental landscape]] is narrowing, and [[testable-predictions-consciousness-collapse-decoherence|specific divergent predictions]] between consciousness-collapse and decoherence are now catalogued — though the consciousness-specific predictions remain untested. Emerging NV-centre diamond quantum sensors may provide the first direct in vivo measurements of neural quantum coherence.
+**The falsifiability gap.** No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [[testing-consciousness-collapse|experimental landscape]] is narrowing, and [[testing-consciousness-collapse|specific divergent predictions]] between consciousness-collapse and decoherence are now catalogued — though the consciousness-specific predictions remain untested. Emerging NV-centre diamond quantum sensors may provide the first direct in vivo measurements of neural quantum coherence.
 
 **No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from multiple proposals.
 
@@ -163,8 +163,7 @@ The Map's position: *some* quantum consciousness mechanism exists, constrained b
 - [[quantum-indeterminacy-free-will]] — Why mechanism choice matters for libertarian free will
 - [[coupling-modes]] — How consciousness might couple to quantum systems
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Penrose OR's experimental frontier
-- [[testing-consciousness-collapse]] — Distinguishing consciousness-collapse from decoherence
-- [[testable-predictions-consciousness-collapse-decoherence]] — Concrete predictions where consciousness-collapse diverges from decoherence
+- [[testing-consciousness-collapse]] — Distinguishing consciousness-collapse from decoherence, including concrete divergent predictions
 - [[post-decoherence-selection]] — Consciousness acting on already-decohered mixtures
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis of post-decoherence selection
 - [[measurement-problem]] — Why quantum mechanics leaves outcomes undetermined

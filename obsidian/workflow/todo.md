@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparing-quantum-consciousness-mechanisms.md considering testable-predictions insights
-- **Type**: cross-review
-- **Notes**: New article testable-predictions-consciousness-collapse-decoherence.md (2026-03-30) identifies specific experimental predictions distinguishing consciousness-collapse from decoherence-only interpretations. Review comparing-quantum-consciousness-mechanisms.md for opportunities to reference these predictions, strengthen empirical grounding, and ensure consistency.
-- **Source**: chain (from testable-predictions-consciousness-collapse-decoherence.md)
-- **Generated**: 2026-03-31
-
 ### P2: Condense bandwidth-of-consciousness.md (4064 words, 135% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 3000-word soft threshold and 4000-word hard threshold for topics/. Preserve core arguments about bandwidth asymmetry and interface constraints while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.

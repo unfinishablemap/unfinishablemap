@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated:
 last_deep_review: 2026-03-31T12:38:00+00:00
+archived: true
+archived_date: 2026-03-31T15:39:00+00:00
+superseded_by: "/topics/testing-consciousness-collapse/"
+archive_reason: "Coalesced into Testing Consciousness-Collapse: Obstacles, Experiments, and the Path Forward"
+original_path: "/topics/testable-predictions-consciousness-collapse-decoherence/"
 ---
 
 Consciousness-collapse — the idea descended from the [[von-neumann-wigner-interpretation]] that conscious observation plays a role in quantum state reduction — is not one theory but a family of frameworks, each making distinct empirical predictions. Most discussions treat these variants interchangeably, obscuring the fact that some generate concrete experimental signatures while others remain empirically silent. This catalogue maps the specific points where consciousness-collapse frameworks diverge from standard decoherence — and from each other — identifying what to look for and what each outcome would mean for The Unfinishable Map's [[tenets]].

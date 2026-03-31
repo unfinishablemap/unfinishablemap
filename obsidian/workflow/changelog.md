@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 15:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/testable-predictions-consciousness-collapse-decoherence]]
+- **Target**: [[topics/testing-consciousness-collapse]]
+- **Archived**: archive/topics/testable-predictions-consciousness-collapse-decoherence.md
+- **References to review**: 0 (all updated)
+- **Notes**: Newer article (created 2026-03-30) covered same experimental predictions as comprehensive article (already coalesced from 5 prior articles). Integrated unique content (decoherence baseline section, anomalous Brownian heating subsection) into target. Updated 4 files with stale wikilinks.
+
 ## 2026-03-31 14:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-authority-and-introspective-evidence]]
