@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth constraints (10 bits/s) research into bandwidth articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides detailed analysis of the conscious processing bottleneck (~10 bits/s vs ~10⁹ bits/s neural throughput). Update bandwidth-of-consciousness.md and resolution-bandwidth-interface.md with Nørretranders' analysis, specific experimental measurements, and implications for the interface model. The extreme asymmetry is among the Map's strongest empirical data points for the filter/interface model.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Condense comparing-quantum-consciousness-mechanisms.md (4200 words, 105% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1812,6 +1805,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Integrate bandwidth constraints (10 bits/s) research into bandwidth articles
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides detailed analysis of the conscious processing bottleneck (~10 bits/s vs ~10⁹ bits/s neural throughput). Update bandwidth-of-consciousness.md and resolution-bandwidth-interface.md with Nørretranders' analysis, specific experimental measurements, and implications for the interface model. The extreme asymmetry is among the Map's strongest empirical data points for the filter/interface model.
+- **Output**: Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides detailed analysis of the conscious processing bottleneck (~10 bits/s vs ~10⁹ bits/s neural throughput). Update bandwidth-of-consciousness.md and resolution-bandwidth-interface.md with Nørretranders' analysis, specific experimental measurements, and implications for the interface model. The extreme asymmetry is among the Map's strongest empirical data points for the filter/interface model.
 
 ### ✓ 2026-03-31: Integrate clinical evidence quality recalibration into neuroplasticity articles
 - **Type**: refine-draft

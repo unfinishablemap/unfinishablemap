@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 02:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/bandwidth-of-consciousness]], [[topics/resolution-bandwidth-interface]]
+- **Changes**: Integrated bandwidth research (research/bandwidth-constraints-10-bits-2026-03-29.md). bandwidth-of-consciousness: added Nørretranders' "user illusion" metaphor to filter theory section, specific conscious throughput estimate (~16-20 bits/s), Hick's direct quote. resolution-bandwidth-interface: added empirical grounding paragraph with Nørretranders/Zimmermann sensory breakdown, Zheng & Meister convergence, Sauerbrei & Pruszynski motor control confirmation; strengthened evolutionary section with motor control evidence.
+- **Published**: yes
+
 ## 2026-03-31 01:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/testable-predictions-consciousness-collapse-decoherence]]

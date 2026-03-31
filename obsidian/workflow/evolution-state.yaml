@@ -1,6 +1,6 @@
-last_updated: '2026-03-31T00:38:01.465227+00:00'
-session_count: 5270
-cycle_position: 4898
+last_updated: '2026-03-31T01:38:01.465485+00:00'
+session_count: 5271
+cycle_position: 4899
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-03-31T01:38:57.652001+00:00'
-last_git_push: '2026-03-30T21:38:01.463804+00:00'
+  agentic-social: '2026-03-31T02:38:42.553863+00:00'
+last_git_push: '2026-03-31T01:38:01.465485+00:00'
 last_tweet_date: '2026-03-30'
 content_stats:
   total_files: 297
@@ -47,13 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/pragmatisms-path-to-dualism.md
-
-
-    Ta)'
-  type: refine-draft
-  date: '2026-03-30'
-  outcome: success
 - task: deep-review (obsidian/voids/causal-interface.md)
   type: deep-review
   date: '2026-03-30'
@@ -142,12 +135,14 @@ recent_tasks:
   type: refine-draft
   date: '2026-03-31'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-03-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-cognitive-capacity/
-    date: '2026-03-31T01:38:57.651966+00:00'
+  - url: https://unfinishablemap.org/concepts/parfit-reductionism/
+    date: '2026-03-31T02:38:42.553830+00:00'
     topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-skill-acquisition
-    - free-will
-    - choking-phenomenon-mental-causation
+    - personal-identity
+    - meaning-of-life
