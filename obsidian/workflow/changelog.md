@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 08:39 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/phenomenology-of-choice-and-volition]]
+- **Before**: 3760 words
+- **After**: 2515 words
+- **Reduction**: 33%
+- **Technique**: Cut redundant prose, trimmed Libet subsection (deferred to volitional-control), condensed contemplative/illusionist sections, reduced Further Reading from 23 to 13 links
+
 ## 2026-03-31 07:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenology-of-creative-insight]]
