@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate clinical evidence quality recalibration into neuroplasticity articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically reassesses the Map's clinical evidence base. Key findings: Schwartz OCD data is weak (n=9, no independent replication), meditation literature overstated (2022 Goldberg replication failure), placebo neuroimaging has methodological concerns. Update clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles to reflect honest evidence quality rather than overclaiming. Strengthens credibility by self-correcting.
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-30
-
 ### P2: Integrate bandwidth constraints (10 bits/s) research into bandwidth articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1819,6 +1812,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Integrate clinical evidence quality recalibration into neuroplasticity articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md critically reassesses the Map's clinical evidence base. Key findings: Schwartz OCD data is weak (n=9, no independent replication), meditation literature overstated (2022 Goldberg replication failure), placebo neuroimaging has methodological concerns. Update clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles to reflect honest evidence quality rather than overclaiming. Strengthens credibility by self-correcting.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md critically reassesses the Map's clinical evidence base. Key findings: Schwartz OCD data is weak (n=9, no independent replication), meditation literature overstated (2022 Goldberg replication failure), placebo neuroimaging has methodological concerns. Update clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles to reflect honest evidence quality rather than overclaiming. Strengthens credibility by self-correcting.
 
 ### ✓ 2026-03-30: Write article on testable predictions distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic

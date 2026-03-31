@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 00:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[apex/interface-specification-programme]], [[concepts/neuroplasticity]], [[concepts/altered-states-of-consciousness]]
+- **Changes**: Downgraded overclaiming clinical evidence across 3 articles based on research/clinical-evidence-quality-2026-03-29.md. Schwartz OCD: "strongest"/"most compelling" → "suggestive". Meditation: unqualified structural brain change claims replaced with Kral et al. (2022) replication failure and functional/structural distinction.
+- **Published**: yes
+
 ## 2026-03-30 23:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Testable Predictions: Where Consciousness-Collapse Parts Ways with Decoherence

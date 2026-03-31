@@ -4,7 +4,7 @@ description: "Altered states reveal consciousness's range through meditation, ps
 created: 2026-01-18
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-03-31T00:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,7 +99,7 @@ Neuroimaging confirms that hypnosis alters executive control network integration
 
 Advanced meditation produces states ranging from focused absorption (samadhi) to [[witness-consciousness|witness awareness]] to cessation events—"radically altered states characterised by full loss of consciousness" that, unlike anaesthetic unconsciousness, are voluntary and transformative. Tantric yoga offers systematic phenomenology of consciousness structures that meditators navigate deliberately. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] documents how these states converge structurally across Buddhist, Hindu, Christian, [[islamic-sufi-philosophy-of-consciousness|Sufi]], and Daoist practices—self-dissolution, contentless awareness, and subject-object collapse appear independently across traditions with incompatible metaphysics.
 
-The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. Longitudinal studies show meditation produces lasting structural brain changes. From the Map's framework, this provides evidence for [[tenets#^bidirectional-interaction|Bidirectional Interaction]]: consciousness can deliberately reconfigure its neural interface through sustained practice.
+The voluntariness is crucial. Meditators deliberately alter their brain-consciousness interface through attention training. While earlier studies claimed meditation produces lasting structural brain changes, the most rigorous test to date—Kral et al. (2022), with 218 participants and active controls—found no evidence of structural changes from mindfulness-based stress reduction. Meditation's *functional* effects (altered activation patterns, moderate efficacy for anxiety and depression) survive scrutiny. From the Map's framework, meditation's functional modulation and the content-specificity of different practices remain relevant to [[tenets#^bidirectional-interaction|Bidirectional Interaction]], though structural remodelling claims should no longer be cited as evidence.
 
 Cessation events illuminate filter theory directly. Unlike anesthesia (where consciousness appears eliminated) or sleep (where it continues in altered form), meditative cessation involves *deliberate* withdrawal of consciousness from neural processing—then return. The transformation reported by advanced practitioners upon return suggests consciousness operated during cessation in a mode unconstrained by the brain-interface, returning with insights unavailable during normal filtered operation.
 
@@ -205,3 +205,15 @@ Tart, C. T. (Ed.). (1969). *Altered States of Consciousness*. Wiley.
 Wang, H. et al. (2025). Thalamic nuclei orchestrating consciousness through state-specific connectivity. *Communications Biology*, 8, 92.
 
 Xu, G. et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
+
+<!-- AI REFINEMENT LOG - 2026-03-31
+Changes made:
+- Meditation section: replaced unqualified "structural brain changes" claim with honest assessment
+- Added Kral et al. (2022) replication failure (218 participants, active controls, no structural changes found)
+- Clarified that functional effects survive scrutiny while structural remodelling claims should not be cited
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Meditation evidence calibration for structural vs functional distinction.
+
+This log should be removed after human review.
+-->
