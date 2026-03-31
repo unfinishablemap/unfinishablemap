@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 05:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/comparing-quantum-consciousness-mechanisms]]
+- **Changes**: Reclassified phenomenological fit as philosophical criterion; replaced "predicts" with "accommodates" in Stapp section; fixed asymmetric treatment (CSL-IIT phenomenological fit downgraded to match Fisher); replaced Luppi & Adlam arXiv with d'Espagnat/Schlosshauer peer-reviewed sources; fixed editorial language
+- **Published**: yes
+
 ## 2026-03-31 04:39 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[topics/comparing-quantum-consciousness-mechanisms]]
