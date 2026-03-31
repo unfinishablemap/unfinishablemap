@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 22:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenological method and evidence standards
+- **Output**: [[topics/phenomenological-method-and-evidence-standards]]
+- **Word count**: 2025
+- **Based on research**: yes, [[phenomenological-method-evidence-standards-2026-03-19]]
+
 ## 2026-03-31 21:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/philosophical-stakes-of-spontaneous-collapse]]

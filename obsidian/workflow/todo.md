@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenological method and evidence standards
-- **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md covering Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, and neurophenomenological validation. Previously marked superseded in todo but article was never actually created — phenomenological-method-and-evidence-standards.md does not exist. The Map relies heavily on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Target section: topics/ (227/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-03-31
-
 ### P2: Deep review testing-consciousness-collapse.md post-coalesce
 - **Type**: deep-review
 - **Notes**: Article was enriched by 2026-03-31 coalesce (merged testable-predictions-consciousness-collapse-decoherence.md). Last deep review was 2026-03-29, before the coalesce. Verify the merged content is coherent, eliminates redundancy, preserves key arguments from both sources, and maintains accurate experimental claims. Tenet 2 and 3 alignment critical — this article is central to the Map's empirical programme.
@@ -1796,6 +1790,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md covering Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, and neurophenomenological validation. Previously marked superseded in todo but article was never actually created — phenomenological-method-and-evidence-standards.md does not exist. The Map relies heavily on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Target section: topics/ (227/230).
+- **Output**: phenomenological method and evidence standards
 
 ### ✓ 2026-03-31: Cross-review philosophical-stakes-of-spontaneous-collapse.md after testing-consciousness-collapse enrichment
 - **Type**: cross-review
