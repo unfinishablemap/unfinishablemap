@@ -9,6 +9,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-03-31 07:38 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
+- **Word count**: 2703 → 2695 (-8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate Further Reading entry)
+- **Enhancements made**: 0 (article stable after 2 reviews)
+- **Output**: [deep-review-2026-03-31-phenomenology-of-creative-insight](/reviews/deep-review-2026-03-31-phenomenology-of-creative-insight/)
+
+## 2026-03-31 06:38 UTC - condense
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
+- **Before**: 3625
+- **After**: 2590
+- **Reduction**: 29%
+- **Technique**: Cut Process Philosophy section (tangential), condensed established quantum biology examples, compressed coherence protection and neural mechanism subsections into compact format, tightened Illusionist Challenge, condensed challenge criteria to prose
+
 ## 2026-03-31 05:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)

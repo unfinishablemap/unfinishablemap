@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-30T08:04:50.653467'
+ai_modified: '2026-03-31T08:38:27.309240'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-30'
+date: '2026-03-31'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-30'
+modified: '2026-03-31'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-03-31: The Aha Moment Is Evidence for Dualism
+
+Deep review of creative insight phenomenology: the felt shock of restructuring, certainty before verification, and ownership-without-authorship resist reduction to neural processes.
+
+**Type**: insight  
+**Link**: [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
+
+---
+
 ### 2026-03-30: The Double Void of Temporal Consciousness
 
 Your brain fires in discrete bursts, yet experience flows seamlessly. Worse, consciousness cannot determine whether its own continuity is real or constructed—every method of checking presupposes the answer.
@@ -193,15 +202,6 @@ Deep review sharpens the continual learning argument: LLMs can't be swapped for 
 
 **Type**: insight  
 **Link**: [continual-learning-argument](/concepts/continual-learning-argument/)
-
----
-
-### 2026-03-11: Dualism Unifies Ethics Where Materialism Fragments
-
-Deep review strengthened our case that dualist ethics resolves a problem materialists rarely acknowledge: value, agency, normativity, and moral perception all converge on one ground—consciousness.
-
-**Type**: insight  
-**Link**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
 
 ---
 

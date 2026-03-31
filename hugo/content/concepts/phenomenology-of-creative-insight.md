@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-28 01:09:00+00:00
+ai_modified: 2026-03-31 07:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Creative insight unfolds through qualitatively distinct experientia
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 17:11:00+00:00
+last_deep_review: 2026-03-31 07:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -147,7 +147,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
-- [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/)
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
 - [agent-causation](/concepts/agent-causation/)
@@ -156,7 +156,6 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal phenomenology of the "click" and gradual comprehension
 - [categorical-surprise](/concepts/categorical-surprise/)
-- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/)
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical insight as the strongest case of creative phenomenology with external validation
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/)

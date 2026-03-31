@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense quantum-biology-and-neural-mechanisms.md (3625 words, 104% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum biological processes in neural tissue while tightening prose and deferring experimental details to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-03-30
-
 ### P2: Condense phenomenology-of-choice-and-volition.md (3760 words, 107% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1799,6 +1792,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Condense quantum-biology-and-neural-mechanisms.md (3625 words, 104% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about quantum biological processes in neural tissue while tightening prose and deferring experimental details to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/quantum-biology-and-neural-mechanisms.md
 
 ### ✓ 2026-03-31: Address prediction/accommodation bias in comparing-quantum-consciousness-mechanisms.md
 - **Type**: refine-draft
