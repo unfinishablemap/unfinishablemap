@@ -1,6 +1,6 @@
-last_updated: '2026-03-31T15:38:01.474739+00:00'
-session_count: 5285
-cycle_position: 4913
+last_updated: '2026-03-31T16:38:01.475142+00:00'
+session_count: 5286
+cycle_position: 4914
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-03-31T16:38:54.076856+00:00'
+  agentic-social: '2026-03-31T17:38:57.223216+00:00'
 last_git_push: '2026-03-31T13:38:01.471590+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-30'
-  outcome: success
 - task: 'deep-review (obsidian/voids/voids.md -- Context: Update referen)'
   type: deep-review
   date: '2026-03-30'
@@ -134,11 +130,28 @@ recent_tasks:
   type: coalesce
   date: '2026-03-31'
   outcome: success
+- task: condense (obsidian/topics/bandwidth-of-consciousness.md)
+  type: condense
+  date: '2026-03-31'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 5
+  p3_tasks: 278
+  needs_replenishment: false
+  last_replenishment: '2026-03-31T17:39:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 1
+    orphan_integration: 1
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/galilean-exclusion/
-    date: '2026-03-31T16:38:54.076821+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-probability-interpretation/
+    date: '2026-03-31T17:38:57.223179+00:00'
     topics:
-    - methodology-of-consciousness-research
     - hard-problem-of-consciousness
-    - consciousness-and-the-authority-of-formal-systems
+    - quantum-measurement-and-subjective-probability
