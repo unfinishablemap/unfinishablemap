@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 18:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/sensorimotor-contingencies-and-the-interface]]
+- **Word count**: 2696 → 2713 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-03-31-sensorimotor-contingencies-and-the-interface]]
+
 ## 2026-03-31 17:52 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-disruption-and-the-mind-brain-interface]]

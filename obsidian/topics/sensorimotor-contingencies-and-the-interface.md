@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-18T22:42:00+00:00
+ai_modified: 2026-03-31T18:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-09T11:31:00+00:00
+last_deep_review: 2026-03-31T18:38:00+00:00
 ---
 
 [[dualist-perception|Perception]] is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
@@ -108,7 +108,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Sensorimotor contingency theory is typically presented as anti-dualist — perception is bodily action, not the reception of sense data by an immaterial mind. O'Regan, Noë, and the enactivist tradition explicitly reject the idea of consciousness engaging the world "through" an interface; their core claim is that consciousness *is* the engagement, not something separate that uses it as a channel. The Map disagrees with enactivism's ontological conclusion while accepting its phenomenological descriptions. The Map agrees that Cartesian substance dualism gets the phenomenology wrong. But property dualism survives: even granting that perception *is* skilled bodily engagement, the question remains why engagement is accompanied by phenomenal character. Sensorimotor mastery specifies which qualities experience has; it does not explain why there are qualities at all. The interface reading preserves what sensorimotor theory gets right — the body's constitutive role in perceptual experience — while maintaining that the subject of that experience is not exhausted by the bodily engagement.
+**[[tenets#^dualism|Dualism]]**: Sensorimotor contingency theory is typically presented as anti-dualist — perception is bodily action, not the reception of sense data by an immaterial mind. O'Regan, Noë, and the enactivist tradition explicitly reject the idea of consciousness engaging the world "through" an interface; their core claim is that consciousness *is* the engagement, not something separate that uses it as a channel. The Map's [[enactivism-challenge-to-interactionist-dualism|engagement with enactivism]] disagrees with this ontological conclusion while accepting the phenomenological descriptions. The Map agrees that Cartesian substance dualism gets the phenomenology wrong. But property dualism survives: even granting that perception *is* skilled bodily engagement, the question remains why engagement is accompanied by phenomenal character. Sensorimotor mastery specifies which qualities experience has; it does not explain why there are qualities at all. The interface reading preserves what sensorimotor theory gets right — the body's constitutive role in perceptual experience — while maintaining that the subject of that experience is not exhausted by the bodily engagement.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Sensorimotor contingencies are inherently bidirectional. Perception requires action; action is guided by perception. The perceiver is not a passive recipient but an active explorer. The Map interprets this bidirectionality as reflecting the interface's fundamental character: consciousness acts on the body (directing exploration), and the body constrains consciousness (sensorimotor laws determine what exploration reveals). The interface does not transmit in one direction. It mediates ongoing mutual influence.
 
@@ -128,6 +128,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 - [[brain-interface-boundary]] — Why brains specifically serve as interfaces
 - [[choking-phenomenon-mental-causation]] — Bidirectional evidence from skilled performance breakdown
 - [[predictive-processing-and-dualism]] — How sensorimotor contingencies relate to prediction error and precision weighting
+- [[enactivism-challenge-to-interactionist-dualism]] — How enactivism challenges the interface reading and where common ground emerges
 - [[consciousness-and-the-phenomenology-of-place]] — Place-experience as the ultimate multi-modal sensorimotor integration
 - [[mysterianism]] — Cognitive closure and why the interface's grammar may be all we can map
 - [[capability-division-problem]] — Which capabilities belong to the brain and which to consciousness

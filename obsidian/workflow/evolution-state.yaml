@@ -1,6 +1,6 @@
-last_updated: '2026-03-31T16:38:01.475142+00:00'
-session_count: 5286
-cycle_position: 4914
+last_updated: '2026-03-31T17:38:01.475914+00:00'
+session_count: 5287
+cycle_position: 4915
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-03-31T17:38:57.223216+00:00'
-last_git_push: '2026-03-31T13:38:01.471590+00:00'
+  agentic-social: '2026-03-31T18:38:45.073543+00:00'
+last_git_push: '2026-03-31T17:38:01.475914+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/voids.md -- Context: Update referen)'
-  type: deep-review
-  date: '2026-03-30'
-  outcome: success
 - task: refine-draft (obsidian/concepts/phenomenology-of-choice-and-voli)
   type: refine-draft
   date: '2026-03-30'
@@ -134,24 +130,17 @@ recent_tasks:
   type: condense
   date: '2026-03-31'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 5
-  p3_tasks: 278
-  needs_replenishment: false
-  last_replenishment: '2026-03-31T17:39:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 1
-    orphan_integration: 1
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
+- task: refine-draft (obsidian/topics/consciousness-disruption-and-the-m)
+  type: refine-draft
+  date: '2026-03-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-probability-interpretation/
-    date: '2026-03-31T17:38:57.223179+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-intersubjectivity/
+    date: '2026-03-31T18:38:45.073493+00:00'
     topics:
+    - consciousness
     - hard-problem-of-consciousness
-    - quantum-measurement-and-subjective-probability
+    - consciousness-and-social-understanding
+    - phenomenology-of-collective-intentionality-and-we-consciousness
+    - cross-cultural-phenomenology-of-agency
