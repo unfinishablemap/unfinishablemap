@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-20 18:00:00+00:00
+ai_modified: 2026-03-31 00:38:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-15 18:09:00+00:00
 apex_sources:
@@ -109,7 +109,7 @@ If the interface has a specific architecture, it should malfunction in specific 
 
 **Attention fatigue as resource depletion**: Sustained attention depletes. After extended effortful focus, the subjective sense of effort intensifies and attention slips despite intention. This reveals that the interface has biological costs—not because consciousness needs energy, but because the neural mechanisms through which it operates require metabolic resources.
 
-**OCD as runaway stabilisation**: Jeffrey Schwartz's work provides the strongest clinical evidence for the interface. OCD patients trained to recognise obsessive thoughts as symptoms and redirect attention produce measurable brain changes—reduced metabolic activity in the orbital frontal cortex and caudate nucleus—paralleling changes from medication but achieved through directed mental effort alone.
+**OCD as runaway stabilisation**: Jeffrey Schwartz's work provides suggestive clinical evidence for the interface. OCD patients trained to recognise obsessive thoughts as symptoms and redirect attention produce measurable brain changes—reduced metabolic activity in the orbital frontal cortex and caudate nucleus—paralleling changes from medication but achieved through directed mental effort alone. Important caveats: the original PET study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and the four-step method shares core behavioural elements with standard exposure-response prevention therapy. The findings are compatible with the interface model but also with standard Hebbian learning explanations. See [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for detailed assessment.
 
 **Meditation as interface training**: Beginning meditators discover that voluntary attention control is weak by default. With practice, sustained attention duration increases, meta-awareness improves, recovery from distraction accelerates, and effort requirements decrease. The interface becomes more efficient—not wider, but better governed.
 
@@ -190,5 +190,17 @@ Changes made:
 - Final paragraph: "transforms...into" → "moves...toward" to avoid overselling current state
 
 Based on pessimistic-2026-03-20-d.md Issues 1 and 3.
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-31
+Changes made:
+- OCD section: downgraded "strongest clinical evidence" to "suggestive clinical evidence"
+- Added caveats: n=18 (9 new) sample size, no independent replication, shared elements with standard ERP
+- Added cross-reference to clinical-neuroplasticity-evidence-for-bidirectional-causation for detailed assessment
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Evidence quality honesty for Schwartz OCD claims.
+
 This log should be removed after human review.
 -->

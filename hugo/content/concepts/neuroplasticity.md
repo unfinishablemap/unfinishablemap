@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-29 15:11:00+00:00
+ai_modified: 2026-03-31 00:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -64,7 +64,7 @@ Neuroplasticity alone doesn't settle this question. Both accounts accommodate th
 
 ## Schwartz's OCD Research
 
-Jeffrey Schwartz, a neuropsychiatrist at UCLA, developed a cognitive therapy for obsessive-compulsive disorder that provides the most compelling case for consciousness-driven neuroplasticity.
+Jeffrey Schwartz, a neuropsychiatrist at UCLA, developed a cognitive therapy for obsessive-compulsive disorder that provides a suggestive—though methodologically limited—case for consciousness-driven neuroplasticity.
 
 ### The Four-Step Method
 
@@ -193,6 +193,16 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Evidence calibration across all sections for epistemic credibility.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-03-31
+Changes made:
+- Opening of Schwartz OCD section: downgraded "most compelling case" to "suggestive—though methodologically limited—case"
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Consistent evidence qualification across all articles citing Schwartz.
 
 This log should be removed after human review.
 -->

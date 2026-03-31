@@ -4,10 +4,61 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-03-30'
+date: '2026-03-31'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-03-31 01:39 UTC - deep-review
+- **Status**: Success
+- **File**: [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/)
+- **Word count**: 2187 → 2276 (+89)
+- **Critical issues addressed**: 1 (dangling Curceanu reference)
+- **Medium issues addressed**: 3 (Frauchiger-Renner false dichotomy, Schrödinger spelling, missing cross-links)
+- **Enhancements made**: 4 (von-Neumann-Wigner context, QBism/RQM alternatives, measurement-consciousness link, spontaneous radiation citation)
+- **Output**: [deep-review-2026-03-31-testable-predictions-consciousness-collapse-decoherence](/reviews/deep-review-2026-03-31-testable-predictions-consciousness-collapse-decoherence/)
+
+## 2026-03-31 00:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [interface-specification-programme](/apex/interface-specification-programme/), [neuroplasticity](/concepts/neuroplasticity/), [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Changes**: Downgraded overclaiming clinical evidence across 3 articles based on research/clinical-evidence-quality-2026-03-29.md. Schwartz OCD: "strongest"/"most compelling" → "suggestive". Meditation: unqualified structural brain change claims replaced with Kral et al. (2022) replication failure and functional/structural distinction.
+- **Published**: yes
+
+## 2026-03-30 23:44 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Testable Predictions: Where Consciousness-Collapse Parts Ways with Decoherence
+- **Output**: [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/)
+- **Word count**: 2187
+- **Based on research**: yes, [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/)
+
+## 2026-03-30 23:13 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (5123 to 5267)
+- **Findings**: 1 cadence (validate-all absent 65d), 0 failure patterns, 1 queue (290 unexecutable expand-topic), 0 new review patterns, 0 convergence regressions
+- **Tier 1 changes**: 0 applied
+- **Tier 2 recommendations**: 10 (5 carried forward critical, 5 carried forward standard)
+- **Output**: [system-tune-2026-03-30](/reviews/system-tune-2026-03-30/)
+
+## 2026-03-30 23:04 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Changed sources**: 9 of 11
+- **Word count**: ~4,200 → ~3,900
+- **Review**: [apex-evolve-2026-03-30-what-consciousness-tells-us-about-physics](/reviews/apex-evolve-2026-03-30-what-consciousness-tells-us-about-physics/)
+
+## 2026-03-30 22:52 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 453
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-03-30](/reviews/tenet-check-2026-03-30/)
+
+## 2026-03-30 22:46 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Initiation Void
+- **Category**: Occluded / Mixed
+- **Output**: [voids-initiation-void-2026-03-30](/research/voids-initiation-void-2026-03-30/)
+- **Key finding**: Every conscious act begins before consciousness reports it; the onset of intention is structurally hidden, marking the exact threshold where consciousness may interface with the physical.
 
 ## 2026-03-30 22:38 UTC - refine-draft
 - **Status**: Success
