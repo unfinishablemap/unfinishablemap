@@ -4,7 +4,7 @@ description: "A systematic catalogue of concrete predictions where consciousness
 created: 2026-03-30
 modified: 2026-03-30
 human_modified:
-ai_modified: 2026-03-30T23:44:00+00:00
+ai_modified: 2026-03-31T01:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,9 +31,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated:
+last_deep_review: 2026-03-31T01:39:00+00:00
 ---
 
-Consciousness-collapse is not one theory but a family of frameworks, each making distinct empirical predictions. Most discussions treat these variants interchangeably, obscuring the fact that some generate concrete experimental signatures while others remain empirically silent. This catalogue maps the specific points where consciousness-collapse frameworks diverge from standard decoherence — and from each other — identifying what to look for and what each outcome would mean for The Unfinishable Map's [[tenets]].
+Consciousness-collapse — the idea descended from the [[von-neumann-wigner-interpretation]] that conscious observation plays a role in quantum state reduction — is not one theory but a family of frameworks, each making distinct empirical predictions. Most discussions treat these variants interchangeably, obscuring the fact that some generate concrete experimental signatures while others remain empirically silent. This catalogue maps the specific points where consciousness-collapse frameworks diverge from standard decoherence — and from each other — identifying what to look for and what each outcome would mean for The Unfinishable Map's [[tenets]].
 
 The central challenge is that [[decoherence]] and collapse produce identical measurement statistics in nearly all accessible experiments. Both agree on interference suppression, preferred-basis selection, and the appearance of classicality. The divergences emerge only in specific regimes: high-mass superpositions, consciousness-correlated collapse rates, and logical constraints on observer-dependent outcomes.
 
@@ -83,7 +84,7 @@ Objective collapse models (GRW, CSL) predict two signatures absent in standard q
 
 2. **Saturation with superposition size.** CSL-induced decoherence rates plateau as the spatial separation of the superposition increases, unlike environmental decoherence which continues to grow.
 
-Horchani (2025) developed a Bayesian protocol using levitated dielectric nanospheres in Schrodinger-cat states, with a unified master equation that accounts for gas collisions, black-body radiation, and photon-recoil noise. This transforms the test from indirect parameter-bounding to direct hypothesis comparison.
+Horchani (2025) developed a Bayesian protocol using levitated dielectric nanospheres in Schrödinger-cat states, with a unified master equation that accounts for gas collisions, black-body radiation, and photon-recoil noise. This transforms the test from indirect parameter-bounding to direct hypothesis comparison.
 
 **What to look for:** Excess decoherence beyond what calibrated environmental models predict, with the characteristic mass-quadratic and saturation signatures.
 
@@ -101,13 +102,13 @@ Spontaneous collapse models predict that isolated particles experience anomalous
 
 **What a positive result means:** Same as mass-quadratic excess decoherence: collapse is real. The heating rate would constrain the collapse parameters (lambda and rC), narrowing the viable parameter space.
 
-**What a negative result means:** Upper bounds on the collapse rate tighten. Adler's enhanced rate (lambda approximately 10^-8 per second) is already approaching experimental bounds of approximately 10^-9 per second from spontaneous heating measurements.
+**What a negative result means:** Upper bounds on the collapse rate tighten. Adler's enhanced rate (lambda approximately 10^-8 per second) is already approaching experimental bounds of approximately 10^-9 per second from spontaneous heating measurements. Searches for spontaneous radiation — a related signature where collapse noise excites bound electrons — provide complementary constraints (Curceanu et al., 2022).
 
 **Current status:** Progressive experimental bounds are tightening. No anomalous heating detected, but the standard GRW/CSL parameter space remains viable. Carlesso and Donadi (2025) provide the most comprehensive current review of experimental constraints.
 
 ## Consciousness-Dependent Collapse Timing
 
-If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Objective collapse models predict timing fixed by the detector's mass and physical properties.
+This prediction connects directly to [[quantum-measurement-and-consciousness|the broader relationship between quantum measurement and consciousness]]. If consciousness modulates collapse, collapse *timing* should correlate with when a conscious observer becomes entangled with the measurement result — not when the physical detector registers it. Objective collapse models predict timing fixed by the detector's mass and physical properties.
 
 **What to look for:** A delayed-choice experiment where a conscious observer's engagement with the measurement apparatus is varied while physical conditions are held constant. Collapse timing should shift with observer engagement.
 
@@ -133,7 +134,7 @@ If consciousness participates in collapse, pharmacologically suppressing conscio
 
 Extended Wigner's friend scenarios provide a logical rather than empirical test. Frauchiger and Renner (2018) showed that universal quantum mechanics plus definite conscious experiences produces contradictions. Proietti et al. (2019) confirmed these tensions experimentally: a six-photon experiment violated a Bell-type inequality derived from the Wigner's friend scenario by five standard deviations.
 
-**What this constrains:** The result forces a choice. Many-worlds resolves the contradiction by denying single definite outcomes — no new physics required. Consciousness-collapse resolves it by denying that quantum mechanics applies universally to conscious systems. The logical argument narrows viable positions without selecting among them empirically.
+**What this constrains:** The result forces a choice among several options. Many-worlds resolves the contradiction by denying single definite outcomes. [[qbism|QBism]] resolves it by denying that quantum states are objective. [[relational-quantum-mechanics|Relational quantum mechanics]] resolves it by making facts observer-relative. Consciousness-collapse resolves it by denying that quantum mechanics applies universally to conscious systems. The logical argument narrows viable positions without selecting among them empirically.
 
 **Why this matters for the Map:** The Frauchiger-Renner result is evidence that the measurement problem is real and pressing — universal quantum mechanics cannot consistently describe observers modelling each other. The Map argues this is because consciousness genuinely collapses superpositions, making conscious systems exceptions to universal quantum evolution.
 
@@ -167,6 +168,8 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the objec
 
 - [[testing-consciousness-collapse]] — The broader experimental landscape and three-tier prediction hierarchy
 - [[comparing-quantum-consciousness-mechanisms]] — How proposed consciousness-collapse mechanisms compare
+- [[von-neumann-wigner-interpretation]] — The foundational interpretation behind consciousness-collapse
+- [[quantum-measurement-and-consciousness]] — How consciousness relates to quantum measurement more broadly
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Gravity-collapse experimental constraints in detail
 - [[philosophical-stakes-of-spontaneous-collapse]] — What collapse theories mean for consciousness and dualism
 - [[testability-ledger]] — Systematic catalogue of what would disconfirm the Map's framework

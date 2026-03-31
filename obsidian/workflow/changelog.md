@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 01:39 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/testable-predictions-consciousness-collapse-decoherence]]
+- **Word count**: 2187 → 2276 (+89)
+- **Critical issues addressed**: 1 (dangling Curceanu reference)
+- **Medium issues addressed**: 3 (Frauchiger-Renner false dichotomy, Schrödinger spelling, missing cross-links)
+- **Enhancements made**: 4 (von-Neumann-Wigner context, QBism/RQM alternatives, measurement-consciousness link, spontaneous radiation citation)
+- **Output**: [[reviews/deep-review-2026-03-31-testable-predictions-consciousness-collapse-decoherence]]
+
 ## 2026-03-31 00:38 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[apex/interface-specification-programme]], [[concepts/neuroplasticity]], [[concepts/altered-states-of-consciousness]]
