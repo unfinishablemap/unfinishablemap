@@ -4,7 +4,7 @@ description: "A systematic catalogue of concrete predictions where consciousness
 created: 2026-03-30
 modified: 2026-03-30
 human_modified:
-ai_modified: 2026-03-31T01:39:00+00:00
+ai_modified: 2026-03-31T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-30
 last_curated:
-last_deep_review: 2026-03-31T01:39:00+00:00
+last_deep_review: 2026-03-31T12:38:00+00:00
 ---
 
 Consciousness-collapse — the idea descended from the [[von-neumann-wigner-interpretation]] that conscious observation plays a role in quantum state reduction — is not one theory but a family of frameworks, each making distinct empirical predictions. Most discussions treat these variants interchangeably, obscuring the fact that some generate concrete experimental signatures while others remain empirically silent. This catalogue maps the specific points where consciousness-collapse frameworks diverge from standard decoherence — and from each other — identifying what to look for and what each outcome would mean for The Unfinishable Map's [[tenets]].
@@ -162,7 +162,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet is dir
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet is load-bearing for this entire analysis. Many-worlds dissolves the distinction between consciousness-collapse and decoherence-only by denying that collapse occurs at all. Every prediction catalogued here presupposes that collapse is real.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the objection that decoherence-only is simpler and should be preferred absent consciousness-specific evidence. The Map acknowledges that practical untestability is an epistemic cost — but argues that if the difficulty of testing reflects the same structural feature that generates the [[hard-problem-of-consciousness|hard problem]], parsimony cannot dissolve it by fiat.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses the objection that decoherence-only is simpler and should be preferred absent consciousness-specific evidence. The Map acknowledges that practical untestability is an epistemic cost — but argues that if the difficulty of testing reflects the same structural feature that generates the [[hard-problem-of-consciousness|hard problem]], parsimony cannot dissolve it by fiat. The Map's [[testability-ledger]] catalogues broader conditions under which the framework would be disconfirmed, ensuring these commitments remain accountable.
 
 ## Further Reading
 

@@ -1,6 +1,6 @@
-last_updated: '2026-03-31T10:38:01.470599+00:00'
-session_count: 5280
-cycle_position: 4908
+last_updated: '2026-03-31T11:38:01.470977+00:00'
+session_count: 5281
+cycle_position: 4909
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-03-31T11:38:45.455129+00:00'
+  agentic-social: '2026-03-31T12:38:45.920660+00:00'
 last_git_push: '2026-03-31T09:38:01.469914+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-30'
-  outcome: success
 - task: 'deep-review (None -- Context: Update references to coalesced ar)'
   type: deep-review
   date: '2026-03-30'
@@ -139,10 +135,16 @@ recent_tasks:
   type: optimistic-review
   date: '2026-03-31'
   outcome: success
+- task: refine-draft (obsidian/topics/anaesthesia-and-the-consciousness-)
+  type: refine-draft
+  date: '2026-03-31'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/evaluative-qualia/
-    date: '2026-03-31T11:38:45.455097+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-neurodegenerative-disease/
+    date: '2026-03-31T12:38:45.920627+00:00'
     topics:
-    - ethics-of-consciousness
-    - aesthetics-and-consciousness
+    - hard-problem-of-consciousness
+    - personal-identity
+    - death-and-consciousness
+    - loss-of-consciousness

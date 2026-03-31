@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-03-31 12:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/testable-predictions-consciousness-collapse-decoherence]]
+- **Word count**: 2276 → 2294 (+18)
+- **Critical issues addressed**: 0 (none found — article stable after first review)
+- **Medium issues addressed**: 2 (orphan integration, missing inline testability-ledger reference)
+- **Enhancements made**: 5 inbound cross-references added from testing-consciousness-collapse, spontaneous-collapse-theories, comparing-quantum-consciousness-mechanisms, philosophical-stakes-of-spontaneous-collapse, anaesthesia-and-the-consciousness-interface
+- **Output**: [[reviews/deep-review-2026-03-31-testable-predictions-consciousness-collapse-decoherence]]
+
 ## 2026-03-31 11:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/anaesthesia-and-the-consciousness-interface]]

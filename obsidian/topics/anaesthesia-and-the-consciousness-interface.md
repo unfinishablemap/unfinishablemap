@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-31T11:38:00+00:00
+ai_modified: 2026-03-31T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,7 +97,7 @@ The ketamine case poses a specific challenge to integrated information theory (I
 
 The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023), with ~40% of patients showing near-normal brain activity during CPR (Parnia et al., 2023), are neurobiological paradoxes for production theory. Filter theory predicts these naturally: reduced filtering allows more consciousness through. [[loss-of-consciousness|Psychedelic states]], where default-mode network disruption correlates with expanded experience, add further support.
 
-The pharmacological specificity documented here also bears on [[testing-consciousness-collapse|experimental design for consciousness-collapse testing]]: different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need.
+The pharmacological specificity documented here also bears on [[testing-consciousness-collapse|experimental design for consciousness-collapse testing]]: different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need. The [[testable-predictions-consciousness-collapse-decoherence|concrete prediction catalogue]] includes anaesthesia-modulated collapse dynamics as one of the key divergent predictions between consciousness-collapse and decoherence.
 
 ## Recovery: What Emergence Reveals
 

@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-30T05:03:00+00:00
+ai_modified: 2026-03-31T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -181,7 +181,7 @@ The most promising general approach for separating collapse from decoherence is 
 | Frauchiger-Renner argument | 3 | Logical | Forces interpretation choice |
 | Born rule observer-dependence | 3 | Logical | Consciousness structurally implicated |
 
-No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin Phi-threshold and Chalmers-McQueen Q-shape predictions remain the only tests targeting consciousness specifically — both requiring measurement of integrated information in quantum systems, which is currently intractable.
+No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin Phi-threshold and Chalmers-McQueen Q-shape predictions remain the only tests targeting consciousness specifically — both requiring measurement of integrated information in quantum systems, which is currently intractable. For a systematic catalogue of the specific points where these frameworks diverge from standard decoherence, see [[testable-predictions-consciousness-collapse-decoherence|the concrete prediction catalogue]].
 
 ## The Evidential Asymmetry and the Convergence Strategy
 
@@ -221,6 +221,7 @@ The hierarchy's full implications must be acknowledged. If Tier 1 experiments pr
 - [[born-rule-and-the-consciousness-interface]] — Why deriving the Born rule matters for collapse theories
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Experimental programme constraining gravity-collapse models
 - [[anaesthesia-and-the-consciousness-interface]] — Anaesthesia as a test case for consciousness-physics interaction
+- [[testable-predictions-consciousness-collapse-decoherence]] — Concrete predictions where consciousness-collapse diverges from decoherence
 - [[testability-ledger]] — Systematic catalogue of what would disconfirm the Map's framework
 - [[post-decoherence-selection]] — The conceptual gap where consciousness could act
 - [[methodology-of-consciousness-research]] — Studying subjective phenomena with objective methods

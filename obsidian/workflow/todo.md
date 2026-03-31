@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-29 via expand-topic, has no inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and related quantum consciousness articles. Ensure bidirectional linking.
-- **Source**: orphan_integration
-- **Generated**: 2026-03-31
-
 ### P2: Integrate phenomenal-authority-and-introspective-evidence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-03-29 in obsidian/topics/, has no inbound links. Add cross-references from epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and related epistemological articles. Central to the Map's evidential strategy.
@@ -1808,6 +1802,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-03-31: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 via expand-topic, has no inbound links. Add cross-references from comparing-quantum-consciousness-mechanisms, consciousness-collapse-experimental-landscape, and related quantum consciousness articles. Ensure bidirectional linking.
+- **Output**: obsidian/topics/testable-predictions-consciousness-collapse-decoherence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-31: Integrate anaesthesia filter theory research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft
