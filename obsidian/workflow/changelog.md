@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-01 08:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/ethics-of-possible-ai-consciousness]]
+- **Changes**: Fixed circular framework-dependence (added transparency note), engaged Deutsch/Wallace decision theory for MWI section, resolved behavioural/phenomenal conflation with fragmented-consciousness consistency fix
+- **Published**: yes
+
 ## 2026-04-01 07:38 UTC - deep-review
 - **Status**: Success (stability confirmed)
 - **File**: [[topics/william-james-consciousness]]
