@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
-- **Type**: cross-review
-- **Notes**: Coalesce created phenomenal-authority-and-first-person-evidence.md. ~35 active content files reference the archived slugs (phenomenal-authority-and-introspective-evidence, epistemology-of-first-person-evidence) and may need wikilinks updated to the new slug. Archive preserves URLs but internal links should point to the live article.
-- **Source**: coalesce
-- **Generated**: 2026-04-01
-
 ### P2: Cross-review necessary-opacity.md considering initiation-void insights
 - **Type**: cross-review
 - **Notes**: New article initiation-void.md (2026-04-01) explores why the moment of conscious initiation is structurally inaccessible. Review necessary-opacity.md for connections — both address why certain cognitive processes must remain hidden. Check for cross-links and shared arguments about self-protecting opacity.
@@ -1844,6 +1838,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenal-authority-and-first-person-evidence.md. ~35 active content files reference the archived slugs (phenomenal-authority-and-introspective-evidence, epistemology-of-first-person-evidence) and may need wikilinks updated to the new slug. Archive preserves URLs but internal links should point to the live article.
+- **Output**: None -- Context: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
 
 ### ✓ 2026-04-01: Integrate fitness-beats-truth.md into site navigation
 - **Type**: integrate-orphan
