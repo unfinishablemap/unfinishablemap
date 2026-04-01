@@ -32,7 +32,7 @@ Adaptive cognitive limits are cognitive boundaries maintained by natural selecti
 
 ## The Fitness-Beats-Truth Theorem
 
-The strongest formal evidence for adaptive cognitive limits comes from Donald Hoffman, Manish Singh, and Chetan Prakash. Their Fitness-Beats-Truth (FBT) theorem proves that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth — for all fitness functions and all probability distributions over world states.
+The strongest formal evidence for adaptive cognitive limits comes from Donald Hoffman, Manish Singh, and Chetan Prakash. Their [[fitness-beats-truth|Fitness-Beats-Truth (FBT) theorem]] proves that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth — for all fitness functions and all probability distributions over world states.
 
 This is a mathematical result, not an empirical generalisation. Monte Carlo simulations confirm it: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). Organisms that perceived reality more accurately were systematically outcompeted by organisms that perceived it in fitness-relevant ways.
 

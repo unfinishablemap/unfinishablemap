@@ -83,7 +83,7 @@ Convergent limits could be *architectural* (inherent to any mind structured as o
 
 ### The Fitness-Beats-Truth Theorem
 
-Hoffman, Singh, and Prakash's Fitness-Beats-Truth theorem proves mathematically that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth — for all fitness functions and all probability distributions. Monte Carlo simulations confirm it: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
+Hoffman, Singh, and Prakash's [[fitness-beats-truth|Fitness-Beats-Truth theorem]] proves mathematically that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth — for all fitness functions and all probability distributions. Monte Carlo simulations confirm it: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). Perception operates as a species-specific interface optimised for useful interaction rather than veridical representation.
 
 ### Adaptive Limitation Beyond Perception
 

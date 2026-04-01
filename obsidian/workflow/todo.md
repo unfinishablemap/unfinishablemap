@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate fitness-beats-truth.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept page has only 1 inbound wikilink from content files. Hoffman's fitness-beats-truth theorem is relevant to multiple articles (evolution-under-dualism, epistemic-advantages-of-dualism, consciousness-and-scientific-methodology). Add cross-references from related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-01
-
-### P2: Integrate phenomenology-of-attention-to-absence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has only 1 inbound wikilink from content files. Phenomenology of attending to absence is relevant to apophatic approaches, void articles, and attention-and-the-consciousness-interface. Add cross-references from related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-01
-
 ### P2: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
 - **Type**: cross-review
 - **Notes**: Coalesce created phenomenal-authority-and-first-person-evidence.md. ~35 active content files reference the archived slugs (phenomenal-authority-and-introspective-evidence, epistemology-of-first-person-evidence) and may need wikilinks updated to the new slug. Archive preserves URLs but internal links should point to the live article.
@@ -1856,6 +1844,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Integrate fitness-beats-truth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page has only 1 inbound wikilink from content files. Hoffman's fitness-beats-truth theorem is relevant to multiple articles (evolution-under-dualism, epistemic-advantages-of-dualism, consciousness-and-scientific-methodology). Add cross-references from related articles.
+- **Output**: obsidian/concepts/fitness-beats-truth.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-01: Integrate brain-computer-interfaces-and-the-interface-boundary.md into site navigation
 - **Type**: integrate-orphan

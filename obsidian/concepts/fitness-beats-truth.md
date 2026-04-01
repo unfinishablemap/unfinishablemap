@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-01T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,8 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[phenomenal-transparency]]"
   - "[[perceptual-failure-and-the-interface]]"
+  - "[[perceptual-degradation-and-the-interface]]"
+  - "[[adaptive-cognitive-limits]]"
   - "[[probability-intuition-void]]"
   - "[[tenets]]"
 ai_contribution: 100
@@ -21,7 +23,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-03-15T17:29:00+00:00
+last_deep_review: 2026-04-01T21:38:00+00:00
 ---
 
 The Fitness-Beats-Truth (FBT) theorem, proved by Donald Hoffman, Manish Singh, and Chetan Prakash, establishes that natural selection systematically favours perceptual strategies tuned to fitness payoffs over strategies tuned to objective truth. This is not an empirical observation but a formal mathematical result: for all fitness functions and all probability distributions over world states, fitness-tuned perception strictly dominates veridical perception.
@@ -87,8 +89,10 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 ## Further Reading
 
 - [[biological-cognitive-closure]] — How cognitive limits function as adaptive features shaped by natural selection
+- [[adaptive-cognitive-limits]] — The broader framework of evolution-maintained cognitive boundaries
 - [[phenomenal-transparency]] — Why experience conceals its own representational character
 - [[perceptual-failure-and-the-interface]] — Perceptual failure analysed through Hoffman's interface framework
+- [[perceptual-degradation-and-the-interface]] — What degraded perception reveals about the interface's architecture
 - [[probability-intuition-void]] — How fitness-tuned cognition distorts probabilistic reasoning
 - [[mysterianism]] — McGinn's argument that the hard problem reflects cognitive closure
 - [[tenets]] — The Unfinishable Map's foundational commitments

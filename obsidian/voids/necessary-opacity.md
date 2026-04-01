@@ -66,7 +66,7 @@ Wilfrid Sellars's critique of the "Myth of the Given" reinforces the point from 
 
 ## Evolution Selects for Fitness, Not Truth
 
-Donald Hoffman's Fitness-Beats-Truth theorem provides a mathematical dimension to the opacity. Under Hoffman's models, for worlds with compact regular structure, the probability approaches one that non-veridical perceptual strategies—interfaces tuned to fitness rather than truth—strictly dominate veridical strategies of equal complexity. The theorem is contested—critics argue that fitness-relevant perception often tracks truth to a useful degree—but even moderate versions of the result create trouble when combined with transparency.
+Donald Hoffman's [[fitness-beats-truth|Fitness-Beats-Truth theorem]] provides a mathematical dimension to the opacity. Under Hoffman's models, for worlds with compact regular structure, the probability approaches one that non-veridical perceptual strategies—interfaces tuned to fitness rather than truth—strictly dominate veridical strategies of equal complexity. The theorem is contested—critics argue that fitness-relevant perception often tracks truth to a useful degree—but even moderate versions of the result create trouble when combined with transparency.
 
 Evolution selects perceptions that guide adaptive behaviour, not perceptions that reveal how things actually are. The desk you see, the colours you perceive, the spatial layout you navigate—these may be artifacts of a species-specific user interface rather than features of mind-independent reality. Natural selection has no reason to produce accurate representations, only useful ones.
 
