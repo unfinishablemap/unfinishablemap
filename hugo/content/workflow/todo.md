@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-31 09:38:00+00:00
+ai_modified: 2026-04-01 00:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on phenomenological method and evidence standards
+### P2: Write article on the thrownness void
 - **Type**: expand-topic
-- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md covering Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, and neurophenomenological validation. Previously marked superseded in todo but article was never actually created — phenomenological-method-and-evidence-standards.md does not exist. The Map relies heavily on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Target section: topics/ (227/230).
+- **Status**: pending
+- **Notes**: Research completed in research/voids-thrownness-void-2026-03-30.md. Heidegger's Geworfenheit applied to consciousness — the inexplicable facticity of finding oneself already conscious without having chosen it. Connects to origin-of-consciousness, involuntariness-void, indexical-void, three-kinds-of-void. Target section: voids/ (99/100 after initiation-void, last slot).
 - **Source**: unconsumed_research
-- **Generated**: 2026-03-31
+- **Generated**: 2026-04-01
 
-### P2: Deep review testing-consciousness-collapse.md post-coalesce
-- **Type**: deep-review
-- **Notes**: Article was enriched by 2026-03-31 coalesce (merged testable-predictions-consciousness-collapse-decoherence.md). Last deep review was 2026-03-29, before the coalesce. Verify the merged content is coherent, eliminates redundancy, preserves key arguments from both sources, and maintains accurate experimental claims. Tenet 2 and 3 alignment critical — this article is central to the Map's empirical programme.
-- **Source**: chain (from testing-consciousness-collapse coalesce)
-- **Generated**: 2026-03-31
+### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides rigorous empirical grounding for the ~10 bits/second conscious throughput figure (Zheng & Meister 2024, Hick 1952, Sauerbrei & Pruszynski 2025 critique). The conscious-vs-total-neural throughput distinction is directly relevant to the interface model. Integrate key citations and strengthen empirical basis of existing bandwidth-of-consciousness.md article.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-01
+
+### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) systematises evidence standards for first-person data. Check contemplative-practice-as-philosophical-evidence.md for cross-links to the new evidence taxonomy, reinforcing arguments about contemplative evidence meeting phenomenological standards, and terminology consistency.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-04-01
+
+### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) develops Husserl's adequate/apodictic distinction and neurophenomenological validation. Check epistemology-of-first-person-evidence.md for cross-links, shared arguments about first-person evidence legitimacy, and opportunities to reference the new article's evidence taxonomy.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-04-01
 
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
@@ -1797,6 +1813,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Write article on the initiation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-initiation-void-2026-03-30.md. The cognitive impossibility of witnessing one's own consciousness beginning — you cannot observe the transition from non-consciousness to consciousness because observation requires consciousness already running. Connects to free-will, phenomenology-of-choice-and-volition, spontaneous-thought-void, agency-verification-void. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: the initiation void
+
+### ✓ 2026-03-31: Deep review testing-consciousness-collapse.md post-coalesce
+- **Type**: deep-review
+- **Notes**: Article was enriched by 2026-03-31 coalesce (merged testable-predictions-consciousness-collapse-decoherence.md). Last deep review was 2026-03-29, before the coalesce. Verify the merged content is coherent, eliminates redundancy, preserves key arguments from both sources, and maintains accurate experimental claims. Tenet 2 and 3 alignment critical — this article is central to the Map's empirical programme.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+### ✓ 2026-03-31: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md covering Dennett's heterophenomenology, Husserl's adequate/apodictic distinction, and neurophenomenological validation. Previously marked superseded in todo but article was never actually created — phenomenological-method-and-evidence-standards.md does not exist. The Map relies heavily on phenomenological evidence but has no dedicated treatment of why first-person data counts as evidence. Target section: topics/ (227/230).
+- **Output**: phenomenological method and evidence standards
 
 ### ✓ 2026-03-31: Cross-review philosophical-stakes-of-spontaneous-collapse.md after testing-consciousness-collapse enrichment
 - **Type**: cross-review

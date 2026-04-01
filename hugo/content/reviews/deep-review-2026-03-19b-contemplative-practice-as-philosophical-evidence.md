@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review prompted by phenomenological method insights. The previous review (90 minutes earlier, same context) already integrated Husserl's evidence taxonomy and cross-linked to [phenomenological-method-and-evidence-standards](/topics/epistemology-of-first-person-evidence/). This review verified that integration and checked for anything missed.
+Cross-review prompted by phenomenological method insights. The previous review (90 minutes earlier, same context) already integrated Husserl's evidence taxonomy and cross-linked to [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/). This review verified that integration and checked for anything missed.
 
 ## Pessimistic Analysis Summary
 

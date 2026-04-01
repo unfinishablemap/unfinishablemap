@@ -27,7 +27,7 @@ topics: []
 - **Broken wikilink**: `[recent work confirms](/topics/contemplative-evidence-for-consciousness-theories/)` — the original article was archived and coalesced into `contemplative-evidence-for-consciousness-theories`, but that replacement also doesn't exist. Resolution: Replaced with `[cross-traditional evidence confirms](/topics/contemplative-practice-as-philosophical-evidence/)`, which exists and covers the same claim about trained meditators producing convergent reports.
 
 ### Medium Issues Found
-- **Phenomenological method article missing from frontmatter**: The article linked to `[phenomenological-method-and-evidence-standards](/topics/epistemology-of-first-person-evidence/)` inline but did not include it in `related_articles` or Further Reading. Resolution: Added to both `related_articles` frontmatter and Further Reading section (replacing the broken `contemplative-training-and-phenomenal-access` entry in related_articles).
+- **Phenomenological method article missing from frontmatter**: The article linked to `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)` inline but did not include it in `related_articles` or Further Reading. Resolution: Added to both `related_articles` frontmatter and Further Reading section (replacing the broken `contemplative-training-and-phenomenal-access` entry in related_articles).
 - **Evidence taxonomy connection underspecified**: The trained introspection paragraph referenced Husserl's evidence taxonomy but didn't articulate the key insight — that the hard problem's philosophical weight rests on apodictic/adequate evidence, not on speculative fine-grained phenomenological claims. Resolution: Expanded the inline explanation to make the apodictic/presumptive gradient and its philosophical consequences explicit.
 
 ### Counterarguments Considered
@@ -50,7 +50,7 @@ topics: []
 
 ### Cross-links Added
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) (replacing broken link)
-- [phenomenological-method-and-evidence-standards](/topics/epistemology-of-first-person-evidence/) (added to related_articles and Further Reading)
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) (added to related_articles and Further Reading)
 
 ## Remaining Items
 

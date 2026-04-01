@@ -46,13 +46,13 @@ None. All critical issues from the previous review (missing Fox citation, wrong 
 - **Bilateral methodology advocacy**: Neurophenomenological mutual constraint well-presented.
 
 ### Enhancements Made
-- **Phenomenological method paragraph**: New paragraph in Reliability section connecting Husserl's epoché to trained observation, explaining why contemplative training follows a skill-acquisition pattern. Bridges the article to the new [phenomenological-method-and-evidence-standards](/topics/epistemology-of-first-person-evidence/) article.
+- **Phenomenological method paragraph**: New paragraph in Reliability section connecting Husserl's epoché to trained observation, explaining why contemplative training follows a skill-acquisition pattern. Bridges the article to the new [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) article.
 - **Buddhist challenge acknowledgment**: New paragraph in Limits of Reportability addressing the process-philosophy challenge to the subject-object framework of reporting. Resolves the remaining item from the previous review.
 - **Cross-link to [phenomenological-evidence](/concepts/phenomenological-evidence/)**: Added to frontmatter and Further Reading, strengthening the conceptual network.
 
 ### Cross-links Added
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
-- [phenomenological-method-and-evidence-standards](/topics/epistemology-of-first-person-evidence/) (strengthened in-body reference via epoché connection)
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) (strengthened in-body reference via epoché connection)
 
 ## Remaining Items
 

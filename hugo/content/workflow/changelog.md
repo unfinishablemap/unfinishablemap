@@ -4,10 +4,42 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-03-31'
+date: '2026-04-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-01 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 2025 → 2080 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Fox et al. overspecification, missing contemplative-epistemology cross-link, missing intersubjectivity cross-link)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-01-phenomenological-method-and-evidence-standards](/reviews/deep-review-2026-04-01-phenomenological-method-and-evidence-standards/)
+
+## 2026-04-01 00:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Initiation Void
+- **Output**: [initiation-void](/voids/initiation-void/)
+- **Word count**: 1455
+- **Based on research**: yes, [voids-initiation-void-2026-03-30](/research/voids-initiation-void-2026-03-30/)
+
+## 2026-03-31 23:38 UTC - deep-review
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Word count**: 3879 → 3869 (-10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (F-R tier redundancy, MAQRO duplication)
+- **Enhancements made**: 3 (cross-references, prose tightening, named anchor)
+- **Output**: [deep-review-2026-03-31-testing-consciousness-collapse](/reviews/deep-review-2026-03-31-testing-consciousness-collapse/)
+
+## 2026-03-31 22:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenological method and evidence standards
+- **Output**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 2025
+- **Based on research**: yes, [phenomenological-method-evidence-standards-2026-03-19](/research/phenomenological-method-evidence-standards-2026-03-19/)
 
 ## 2026-03-31 21:38 UTC - deep-review
 - **Status**: Success

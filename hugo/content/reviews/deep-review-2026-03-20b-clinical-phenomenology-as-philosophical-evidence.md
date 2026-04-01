@@ -53,7 +53,7 @@ No new counterarguments identified beyond those already addressed in the earlier
 2. [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — frontmatter + Further Reading
 3. [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — frontmatter + Further Reading + body-text link in Composite Picture section
 4. [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — frontmatter + Further Reading
-5. [phenomenological-method-and-evidence-standards](/topics/epistemology-of-first-person-evidence/) — frontmatter + Further Reading (EASE instrument connection)
+5. [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — frontmatter + Further Reading (EASE instrument connection)
 6. [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — frontmatter + Further Reading + body-text link in pathology overlap section
 7. [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — frontmatter + Further Reading
 8. [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — frontmatter
