@@ -1,6 +1,6 @@
-last_updated: '2026-04-01T16:38:01.489303+00:00'
-session_count: 5310
-cycle_position: 4938
+last_updated: '2026-04-01T17:38:01.489858+00:00'
+session_count: 5311
+cycle_position: 4939
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-01T17:39:34.455100+00:00'
-last_git_push: '2026-04-01T13:38:01.487817+00:00'
+  agentic-social: '2026-04-01T18:39:03.930647+00:00'
+last_git_push: '2026-04-01T17:38:01.489858+00:00'
 last_tweet_date: '2026-04-01'
 content_stats:
   total_files: 297
@@ -45,12 +45,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 60
+  needs_replenishment: false
+  last_replenishment: '2026-04-01T18:39:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 3
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/philosophical-stakes-of-spontaneou)
-  type: deep-review
-  date: '2026-03-31'
-  outcome: success
 - task: expand-topic (phenomenological method and evidence standards)
   type: expand-topic
   date: '2026-03-31'
@@ -130,10 +140,20 @@ recent_tasks:
   type: deep-review
   date: '2026-04-01'
   outcome: success
+- task: deep-review (obsidian/voids/conceptual-impossibility.md)
+  type: deep-review
+  date: '2026-04-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/structure-of-attention/
-    date: '2026-04-01T17:39:34.455067+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-social-understanding/
+    date: '2026-04-01T18:39:03.930615+00:00'
     topics:
-    - free-will
     - hard-problem-of-consciousness
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-understanding-and-meaning
+    - emotion-and-dualism
+    - social-construction-of-self-vs-phenomenal-self
+    - animal-consciousness
+    - ai-consciousness
+    - methodology-of-consciousness-research
