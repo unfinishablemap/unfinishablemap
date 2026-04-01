@@ -4,7 +4,7 @@ description: "How phenomenological method establishes evidence standards irreduc
 created: 2026-03-31
 modified: 2026-03-31
 human_modified:
-ai_modified: 2026-03-31T22:38:00+00:00
+ai_modified: 2026-04-01T01:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-31
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-01T01:38:00+00:00
 ---
 
 Phenomenological method generates evidence about consciousness that natural science cannot replicate, replace, or reduce to its own terms. This is not a deficiency in either discipline — it reflects a genuine difference in what each investigates. Natural science studies objects from the outside; phenomenology studies experience from the inside. The evidence standards appropriate to each differ accordingly, and confusing them produces systematic errors in consciousness research. The Unfinishable Map holds that recognising this difference is essential to understanding why the [[hard-problem-of-consciousness|hard problem]] resists dissolution: the problem persists precisely because the evidence that reveals it — first-person phenomenological evidence — operates under standards that physicalist methodology cannot accommodate.
@@ -84,11 +84,11 @@ The bridge is genuine but partial. As the [[phenomenological-evidence#The Circul
 
 A persistent objection holds that phenomenological evidence is unreliable because introspection is unreliable. Schwitzgebel's catalogue of introspective failures — people misjudging the richness of peripheral vision, confabulating about their emotional states — seems to undermine any method that depends on first-person reports.
 
-The phenomenological response draws a sharp line between naive introspection and trained phenomenological observation. The distinction is not ad hoc. Varela, Petitmengin, and the neurophenomenological tradition have documented that training systematically improves the quality of first-person reports. Fox et al. (2012) found that meditation experience predicts introspective accuracy following a logarithmic learning curve. Microphenomenological interview techniques reveal experiential microstructures — the anticipatory phenomenology before epileptic seizures, the detailed texture of creative insight — invisible to untrained observation.
+The phenomenological response draws a sharp line between naive introspection and trained phenomenological observation. The distinction is not ad hoc. Varela, Petitmengin, and the neurophenomenological tradition have documented that training systematically improves the quality of first-person reports. Fox et al. (2012) found that meditation experience predicts introspective accuracy, with gains following a skill-acquisition pattern. Microphenomenological interview techniques reveal experiential microstructures — the anticipatory phenomenology before epileptic seizures, the detailed texture of creative insight — invisible to untrained observation.
 
-This creates a reliability gradient. At one end: naive self-report, which is indeed unreliable for many purposes. At the other: disciplined phenomenological observation by trained practitioners using systematic methods, which produces convergent evidence of experiential structures. Dismissing the entire gradient because its lower end is unreliable is like dismissing astronomy because naked-eye observations are imprecise.
+This creates a reliability gradient. At one end: naive self-report, which is indeed unreliable for many purposes. At the other: disciplined phenomenological observation by trained practitioners using systematic methods, which produces convergent evidence of experiential structures. The convergence across independently trained observers — what [[contemplative-epistemology]] tracks as cross-traditional agreement on experiential structures — provides evidence that the method accesses something beyond individual idiosyncrasy. Dismissing the entire gradient because its lower end is unreliable is like dismissing astronomy because naked-eye observations are imprecise.
 
-The evidence standards that follow: phenomenological claims carry more weight when observers are trained, when reports converge across independently trained individuals, when the convergence resists theoretical contamination (reports gathered before subjects learn relevant theories), and when methods resist suggestion (microphenomenology's non-leading questions, re-enactment techniques). These standards are not identical to naturalist standards, but they are genuinely rigorous.
+The evidence standards that follow: phenomenological claims carry more weight when observers are trained, when reports converge across independently trained individuals, when the convergence resists theoretical contamination (reports gathered before subjects learn relevant theories), and when methods resist suggestion (microphenomenology's non-leading questions, re-enactment techniques). The [[intersubjectivity|intersubjective]] dimension is key — convergence among independent observers provides a form of public validation, though one structured differently from the observer-independence that natural science requires. These standards are not identical to naturalist standards, but they are genuinely rigorous.
 
 ## The Self-Undermining Problem for Naturalist Exclusivism
 
