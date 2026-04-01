@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-01T00:38:00+00:00
+ai_modified: 2026-04-01T09:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md establishes a systematic evidence taxonomy (apodictic, adequate, intersubjective, structural) that may refine or challenge the evidence claims in contemplative-practice-as-philosophical-evidence.md. Check for cross-links, terminological consistency, and whether the new evidence standards framework strengthens or qualifies the contemplative evidence argument.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-04-01
+
+### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md provides a systematic phenomenological methodology that directly bears on the epistemological framework in epistemology-of-first-person-evidence.md. Check for redundancy, cross-links, and whether the new article's Husserlian evidence taxonomy should be referenced or integrated.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-04-01
+
+### P2: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Two new voids articles created 2026-04-01: initiation-void.md (consciousness cannot witness its own beginning) and thrownness-void.md (inaccessibility of pre-constitutional conditions). The taxonomy-of-voids apex article should integrate these new void types. Check whether the existing void classification accommodates them or needs extension, and add cross-references.
+- **Source**: chain (from initiation-void.md, thrownness-void.md)
+- **Generated**: 2026-04-01
+
+### P2: Deep review attention-and-consciousness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) in voids/ with no recorded deep review ever. Verify coherence, accuracy of claims about the relationship between attention and consciousness, cross-references to attention-as-interface and attention-and-the-consciousness-interface articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-01
+
+### P2: Deep review conceptual-impossibility.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 35 days ago. Voids article on conceptual impossibility as a cognitive limit. Referenced by framework-void and other void articles. Verify coherence, accuracy, cross-references to related void articles and recent additions (initiation-void, thrownness-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-01
+
+### P3: Deep review affective-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 35 days ago. Voids article on the limits of affective self-knowledge. Referenced by valence-void and emotional consciousness articles. Verify coherence, accuracy, cross-references to recent affective/emotional articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-01
 
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
