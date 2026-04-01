@@ -51,6 +51,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from phenomenological-method-and-evidence-standards.md)
 - **Generated**: 2026-04-01
 
+### P2: Address logical gaps in ethics-of-possible-ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) circular framework-dependence where the Map's metaphysics reduces AI moral stakes and this is treated as a practical advantage; (2) MWI strawman claiming it undermines moral weight without engaging Deutsch/Wallace decision theory; (3) behavioural/phenomenal unity conflation inherited from fragmented-consciousness.md. See pessimistic-2026-04-01.md
+- **Generated**: 2026-04-01
+
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
 - **Type**: deep-review
 - **Status**: pending
