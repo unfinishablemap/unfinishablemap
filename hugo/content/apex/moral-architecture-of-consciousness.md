@@ -14,7 +14,7 @@ apex_sources:
 - topics/phenomenology-of-moral-life
 - concepts/moral-responsibility
 - topics/animal-consciousness
-- topics/value-blind-vs-value-sensitive-selection
+- topics/valence-and-conscious-selection
 apex_thesis: If consciousness is irreducible and causally efficacious, it provides
   a unified moral architecture—grounding what has value, who bears responsibility,
   why moral claims bind, and how moral properties are perceived—that materialist ethics
@@ -123,7 +123,7 @@ For [AI systems](/topics/ethics-of-consciousness/#ai-ethics-non-consciousness-an
 
 ## The Open Frontier: Value in the Mechanism
 
-The architecture's most provocative open question concerns whether value itself participates in the causal mechanism through which consciousness acts on the physical world. The [value-blind vs value-sensitive selection](/topics/value-blind-vs-value-sensitive-selection/) fork is structurally forced by the Map's own commitments.
+The architecture's most provocative open question concerns whether value itself participates in the causal mechanism through which consciousness acts on the physical world. The [value-blind vs value-sensitive selection](/topics/valence-and-conscious-selection/) fork is structurally forced by the Map's own commitments.
 
 If selection is value-blind, consciousness steers neural outcomes through attention alone—a content-neutral pointer. Valence is real but causally idle in the selection process itself. This preserves a clean mechanism but creates an internal tension: the dimension of consciousness the Map claims grounds all value becomes causally inert in the one mechanism the Map assigns to consciousness.
 
@@ -174,7 +174,7 @@ This synthesis draws on:
 - [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — The philosophical study of moral experience
 - [Moral Responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
 - [Animal Consciousness](/topics/animal-consciousness/) — Non-human consciousness and moral patienthood
-- [Value-Blind vs Value-Sensitive Selection](/topics/value-blind-vs-value-sensitive-selection/) — Whether value participates in the selection mechanism
+- [Valence and the Mechanism of Conscious Selection](/topics/valence-and-conscious-selection/) — Whether value participates in the selection mechanism
 
 ## References
 

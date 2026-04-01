@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-25
-**Article**: [Value-Blind vs Value-Sensitive Selection](/topics/value-blind-vs-value-sensitive-selection/)
+**Article**: [Value-Blind vs Value-Sensitive Selection](/topics/valence-and-conscious-selection/)
 **Previous review**: [2026-03-02](/reviews/deep-review-2026-03-02-value-blind-vs-value-sensitive-selection/)
 
 ## Pessimistic Analysis Summary

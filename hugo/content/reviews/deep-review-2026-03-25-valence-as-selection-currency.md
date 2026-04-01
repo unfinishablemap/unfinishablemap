@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-25
-**Article**: [Valence as Selection Currency](/topics/valence-as-selection-currency/)
+**Article**: [Valence as Selection Currency](/topics/valence-and-conscious-selection/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11b-valence-as-selection-currency/) (orphan integration focus)
 
 ## Pessimistic Analysis Summary

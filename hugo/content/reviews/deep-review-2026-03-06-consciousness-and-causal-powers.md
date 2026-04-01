@@ -31,7 +31,7 @@ This review was conducted with specific attention to insights from [pain-conscio
 
 ### Medium Issues Found
 - Phenomenal Biasing section was thin (flagged in previous review as remaining item): Expanded with asymbolia evidence, quality-action mapping, and pain anticipation from pain-consciousness article
-- Missing cross-link to [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/): Added in Phenomenal Biasing section
+- Missing cross-link to [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/): Added in Phenomenal Biasing section
 - Missing frontmatter concepts for [causal-powers](/concepts/causal-powers/) and [pain-asymbolia](/concepts/pain-asymbolia/): Added
 
 ### Counterarguments Considered
@@ -56,12 +56,12 @@ This review was conducted with specific attention to insights from [pain-conscio
 - Expanded Phenomenal Biasing section: asymbolia now presented as paradigm case rather than parenthetical mention
 - Added quality-action mapping argument (sharp pain → withdrawal, burning → cooling, aching → immobility)
 - Added pain anticipation as evidence for phenomenal content driving behaviour without nociceptive input
-- Added cross-link to [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+- Added cross-link to [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/)
 - Added [causal-powers](/concepts/causal-powers/) and [pain-asymbolia](/concepts/pain-asymbolia/) to frontmatter concepts
-- Added [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) to frontmatter related_articles
+- Added [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) to frontmatter related_articles
 
 ### Cross-links Added
-- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — in body text and frontmatter
+- [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) — in body text and frontmatter
 
 ## Remaining Items
 

@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-01 17:39 UTC - deep-review
+- **Status**: Success
+- **File**: [conceptual-impossibility](/voids/conceptual-impossibility/)
+- **Word count**: 2528 → 2526 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (replaced improper Wikipedia citation with proper academic reference)
+- **Enhancements made**: 0 (article stable after 3rd review)
+- **Output**: [deep-review-2026-04-01-conceptual-impossibility](/reviews/deep-review-2026-04-01-conceptual-impossibility/)
+
+## 2026-04-01 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Word count**: 3429 → 3411 (-18)
+- **Critical issues addressed**: 1 (fabricated Cutter & Tye reference removed)
+- **Medium issues addressed**: 2 (added description, updated 18 files with stale cross-references)
+- **Enhancements made**: 0 (length-neutral mode, article above soft threshold)
+- **Output**: [deep-review-2026-04-01-valence-and-conscious-selection](/reviews/deep-review-2026-04-01-valence-and-conscious-selection/)
+
+## 2026-04-01 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/), [valence-as-selection-currency](/topics/valence-as-selection-currency/)
+- **Target**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Archived**: [value-blind-vs-value-sensitive-selection](/archive/topics/value-blind-vs-value-sensitive-selection/), [valence-as-selection-currency](/archive/topics/valence-as-selection-currency/)
+- **References to review**: ~25 files across obsidian/ reference the archived slugs
+
+## 2026-04-01 14:38 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Word count**: 1977 → 1975 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (ambiguous "materially relevant" terminology)
+- **Enhancements made**: 1 (description trimmed to guideline length)
+- **Output**: [deep-review-2026-04-01-attention-and-consciousness](/reviews/deep-review-2026-04-01-attention-and-consciousness/)
+
 ## 2026-04-01 13:39 UTC - deep-review
 - **Status**: Success (stability confirmed)
 - **File**: [substance-property-dualism](/concepts/substance-property-dualism/)

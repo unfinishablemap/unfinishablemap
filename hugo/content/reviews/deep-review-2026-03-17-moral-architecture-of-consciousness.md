@@ -65,7 +65,7 @@ From source articles (related_articles + Further Reading):
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [animal-consciousness](/topics/animal-consciousness/)
-- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+- [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/)
 
 From sibling apex articles (related_articles):
 - [consciousness-and-agency](/apex/consciousness-and-agency/)

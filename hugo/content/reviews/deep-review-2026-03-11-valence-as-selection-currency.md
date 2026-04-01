@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Valence as Selection Currency](/topics/valence-as-selection-currency/)
+**Article**: [Valence as Selection Currency](/topics/valence-and-conscious-selection/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

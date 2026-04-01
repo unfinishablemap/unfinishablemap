@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-02
-**Article**: [Value-Blind vs Value-Sensitive Selection](/topics/value-blind-vs-value-sensitive-selection/)
+**Article**: [Value-Blind vs Value-Sensitive Selection](/topics/valence-and-conscious-selection/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-value-blind-vs-value-sensitive-selection/)
 
 ## Pessimistic Analysis Summary
@@ -79,7 +79,7 @@ All six adversarial personas engaged:
   - **pain-asymbolia-as-central-test-case.md**: Further Reading entry
 
 ### Cross-links Added
-- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) linked FROM: valence, selection-laws, agent-teleology, consciousness-value-connection, control-theoretic-will, phenomenal-value-realism, stapp-quantum-mind, epiphenomenalism, pain-asymbolia, pain-asymbolia-as-central-test-case (10 inbound links total)
+- [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) linked FROM: valence, selection-laws, agent-teleology, consciousness-value-connection, control-theoretic-will, phenomenal-value-realism, stapp-quantum-mind, epiphenomenalism, pain-asymbolia, pain-asymbolia-as-central-test-case (10 inbound links total)
 
 ## Remaining Items
 

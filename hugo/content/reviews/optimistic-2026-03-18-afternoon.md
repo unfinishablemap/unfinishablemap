@@ -38,7 +38,7 @@ The Map avoids crude substance dualism while preserving mind's ontological disti
 
 ### The Libertarian Free Will Defender (Kane)
 
-The Free Will and Determinism article and the [Free Will](/concepts/concept-of-free-will/) concept page take agent causation seriously as substance causation—not merely as a label for indeterministic neural events but as genuine authorship by a conscious agent. Kane would appreciate the [Valence as Selection Currency](/topics/valence-as-selection-currency/) article's answer to the luck objection: if consciousness selects among quantum-indeterminate outcomes using felt value as a metric, then the selection is neither random (it tracks what matters) nor determined (multiple options remain physically possible). The Choking Under Pressure article provides exactly the kind of empirical evidence Kane has sought—cases where consciousness's involvement in skilled performance is revealed by its disruption under self-focused attention.
+The Free Will and Determinism article and the [Free Will](/concepts/concept-of-free-will/) concept page take agent causation seriously as substance causation—not merely as a label for indeterministic neural events but as genuine authorship by a conscious agent. Kane would appreciate the [Valence as Selection Currency](/topics/valence-and-conscious-selection/) article's answer to the luck objection: if consciousness selects among quantum-indeterminate outcomes using felt value as a metric, then the selection is neither random (it tracks what matters) nor determined (multiple options remain physically possible). The Choking Under Pressure article provides exactly the kind of empirical evidence Kane has sought—cases where consciousness's involvement in skilled performance is revealed by its disruption under self-focused attention.
 
 ### The Mysterian (McGinn)
 
@@ -93,7 +93,7 @@ The Map's [Cognitive Closure](/concepts/mysterianism/) article develops McGinn's
 - **Tenet alignment**: Strengthens Tenet 1 (dualism) and Tenet 5 (Occam's limits)—if mathematical realism is respectable despite interaction worries, consciousness dualism inherits that respectability
 
 #### The Normativity Gap: From Selection to Reasons
-- **Builds on**: [valence-as-selection-currency](/topics/valence-as-selection-currency/), [consciousness-and-normative-force](/topics/consciousness-and-normative-force/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Builds on**: [valence-as-selection-currency](/topics/valence-and-conscious-selection/), [consciousness-and-normative-force](/topics/consciousness-and-normative-force/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - **Would address**: The Map establishes that consciousness selects using valence and that rational endorsement requires consciousness. But the bridge between felt value and normative reasons—why valence-guided selection counts as reasoning rather than sophisticated tropism—needs explicit development
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Directly supports Tenet 3 (bidirectional interaction) by showing conscious selection is not just causal but normative

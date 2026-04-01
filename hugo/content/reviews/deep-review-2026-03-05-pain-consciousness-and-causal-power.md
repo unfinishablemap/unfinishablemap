@@ -71,7 +71,7 @@ Files updated (62 link replacements across 26 files):
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) (2)
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) (4)
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) (2)
-- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) (2)
+- [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) (2)
 - [valence-void](/voids/valence-void/) (5)
 - [voids-valence-void-2026-02-18](/research/voids-valence-void-2026-02-18/) (1)
 

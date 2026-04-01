@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review attention-and-consciousness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) in voids/ with no recorded deep review ever. Verify coherence, accuracy of claims about the relationship between attention and consciousness, cross-references to attention-as-interface and attention-and-the-consciousness-interface articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-01
-
-### P2: Deep review conceptual-impossibility.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 35 days ago. Voids article on conceptual impossibility as a cognitive limit. Referenced by framework-void and other void articles. Verify coherence, accuracy, cross-references to related void articles and recent additions (initiation-void, thrownness-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-01
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1841,6 +1827,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Deep review conceptual-impossibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 35 days ago. Voids article on conceptual impossibility as a cognitive limit. Referenced by framework-void and other void articles. Verify coherence, accuracy, cross-references to related void articles and recent additions (initiation-void, thrownness-void), and tenet alignment.
+- **Output**: obsidian/voids/conceptual-impossibility.md
+
+### ✓ 2026-04-01: Update references to coalesced valence/selection articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged value-blind-vs-value-sensitive-selection and valence-as-selection-currency into valence-and-conscious-selection. The following active content files reference the archived slugs and may need wikilink updates: apex/moral-architecture-of-consciousness.md, apex/living-with-the-map.md, concepts/pain-asymbolia.md, concepts/valence.md, concepts/agent-teleology.md, concepts/consciousness-value-connection.md, concepts/control-theoretic-will.md, concepts/stapp-quantum-mind.md, concepts/psychophysical-laws.md, concepts/bandwidth-problem-mental-causation.md, topics/consciousness-and-causal-powers.md, topics/pain-consciousness-and-causal-power.md, topics/phenomenal-value-realism.md, topics/emotion-and-dualism.md, topics/empirical-evidence-for-consciousness-selecting.md, topics/trilemma-of-selection.md, topics/the-psychophysical-control-law.md, topics/evolutionary-case-for-mental-causation.md
+- **Output**: None -- Context: Update references to coalesced valence/selection articles
+
+### ✓ 2026-04-01: Deep review attention-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) in voids/ with no recorded deep review ever. Verify coherence, accuracy of claims about the relationship between attention and consciousness, cross-references to attention-as-interface and attention-and-the-consciousness-interface articles, and tenet alignment.
+- **Output**: obsidian/voids/attention-and-consciousness.md
 
 ### ✓ 2026-04-01: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
 - **Type**: cross-review

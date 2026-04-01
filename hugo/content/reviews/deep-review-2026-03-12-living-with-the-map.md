@@ -64,10 +64,10 @@ None. The article is internally consistent, free of attribution errors, and well
 - Opening materialism characterization qualified for fairness
 - Contemplative evidence argument restructured for logical validity
 - Quantum mechanism language hedged appropriately
-- Cross-link added: [valence-as-selection-currency](/topics/valence-as-selection-currency/) in ethics section
+- Cross-link added: [valence-as-selection-currency](/topics/valence-and-conscious-selection/) in ethics section
 
 ### Cross-links Added
-- [valence-as-selection-currency](/topics/valence-as-selection-currency/) — linked where valence is discussed in the ethics section
+- [valence-as-selection-currency](/topics/valence-and-conscious-selection/) — linked where valence is discussed in the ethics section
 
 ## Remaining Items
 

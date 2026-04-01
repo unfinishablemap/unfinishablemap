@@ -66,7 +66,7 @@ The Map's handling of the individuation problem demonstrates the intellectual ho
 - **Notable argument**: The boundary problem — what draws the line around a conscious subject — is prior to the combination problem, which assumes the boundary exists
 - **Why it works**: Demonstrates that individuation resists every reductive answer while honestly acknowledging this creates a challenge for dualism too
 
-### [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/)
+### [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/)
 - **Strongest point**: The article identifies a genuine internal fork forced by the Map's own commitments — if consciousness selects, does valence guide the selection or not? — and honestly presents the costs of each horn
 - **Notable argument**: The middle path (valence modulating attention rather than directly biasing quantum outcomes) may dissolve the fork while preserving testability
 - **Why it works**: Demonstrates that the Map can identify and engage its own hard questions rather than papering over them
@@ -120,7 +120,7 @@ The Map's handling of the individuation problem demonstrates the intellectual ho
 | [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) | [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) | Both identify shared phenomenal architecture underlying normative experience |
 | [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) | [process-haecceitism](/concepts/process-haecceitism/) | Growing block provides temporal ontology; process haecceitism provides individuation mechanism within it |
 | [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) | [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) | Extended agency requires the invariant felt authorship cross-cultural phenomenology identifies |
-| [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) | [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) | If normativity requires phenomenal consciousness, value-sensitive selection follows |
+| [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) | [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) | If normativity requires phenomenal consciousness, value-sensitive selection follows |
 | [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) | [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) | Framework dependence strengthens the epistemic humility argument |
 
 ## New Concept Pages Needed

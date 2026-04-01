@@ -34,7 +34,7 @@ The [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual
 
 ### The Process Philosopher (Whitehead)
 
-The [process-philosophy](/concepts/process-philosophy/) concept article handles Whitehead with appropriate nuance—acknowledging both the resources it offers (prehension, concrescence, subjective aim) and the tensions with the Map's framework (process philosophy's panexperientialism versus the Map's sharper dualism). The [valence as selection currency](/topics/valence-as-selection-currency/) article resonates deeply with Whitehead's concept of subjective aim: consciousness selects through felt quality, not mere information processing. The connection between anticipatory valence and Whitehead's "aim toward an ideal" is implicit but could be made more explicit. The [phenomenal-binding-and-holism](/concepts/binding-problem/) article's treatment of holistic unity as irreducible parallels Whitehead's insistence that actual occasions are not decomposable into independent parts.
+The [process-philosophy](/concepts/process-philosophy/) concept article handles Whitehead with appropriate nuance—acknowledging both the resources it offers (prehension, concrescence, subjective aim) and the tensions with the Map's framework (process philosophy's panexperientialism versus the Map's sharper dualism). The [valence as selection currency](/topics/valence-and-conscious-selection/) article resonates deeply with Whitehead's concept of subjective aim: consciousness selects through felt quality, not mere information processing. The connection between anticipatory valence and Whitehead's "aim toward an ideal" is implicit but could be made more explicit. The [phenomenal-binding-and-holism](/concepts/binding-problem/) article's treatment of holistic unity as irreducible parallels Whitehead's insistence that actual occasions are not decomposable into independent parts.
 
 ### The Libertarian Free Will Defender (Kane)
 
@@ -52,7 +52,7 @@ The [cognitive-closure](/concepts/mysterianism/) article handles McGinn's positi
 - **Why it works**: This is the Map's most logically airtight chain. The concept article defines the pattern precisely; the topic article applies it across four targets with a summary table; and the connection to [illusionism](/concepts/illusionism/) shows how even sophisticated materialist moves (illusionism as "epiphenomenalism in disguise") fall to the same structure
 
 ### Valence as Selection Currency
-- **Strongest point**: The [valence article](/topics/valence-as-selection-currency/) solves a problem most dualist accounts ignore: *by what criterion* does consciousness select among quantum indeterminacies?
+- **Strongest point**: The [valence article](/topics/valence-and-conscious-selection/) solves a problem most dualist accounts ignore: *by what criterion* does consciousness select among quantum indeterminacies?
 - **Notable quote**: The pain asymbolia evidence—intact attention but absent felt badness demonstrating loss of motivational urgency—provides compelling empirical support
 - **Why it works**: It gives the Map a distinctive mechanism story. Most interactionist dualist projects hand-wave at the selection problem; this article proposes felt quality as a common metric, addresses bandwidth compatibility, and distinguishes valence from attention (channel versus criterion)
 
@@ -108,7 +108,7 @@ The [cognitive-closure](/concepts/mysterianism/) article handles McGinn's positi
 - **Tenet alignment**: Provides scientific grounding for Tenet 2 and 3 without requiring commitment to specific quantum mechanisms
 
 #### Process Philosophy's Subjective Aim and the Map's Valence Framework
-- **Builds on**: [process-philosophy](/concepts/process-philosophy/), [valence-as-selection-currency](/topics/valence-as-selection-currency/), [subjective-aim](/concepts/subjective-aim/), [prehension](/concepts/prehension/)
+- **Builds on**: [process-philosophy](/concepts/process-philosophy/), [valence-as-selection-currency](/topics/valence-and-conscious-selection/), [subjective-aim](/concepts/subjective-aim/), [prehension](/concepts/prehension/)
 - **Would address**: The parallel between Whitehead's subjective aim and the Map's valence-as-selection-currency is striking but nowhere explicitly developed. A focused article could show how process philosophy anticipated the Map's mechanism while differing on panexperientialism
 - **Estimated scope**: Short article (800-1200 words)
 - **Tenet alignment**: Strengthens philosophical genealogy of Tenet 2 while distinguishing the Map from process philosophy's panexperientialism
@@ -124,14 +124,14 @@ The [cognitive-closure](/concepts/mysterianism/) article handles McGinn's positi
 
 | From | To | Reason |
 |------|-----|--------|
-| [valence-as-selection-currency](/topics/valence-as-selection-currency/) | [process-philosophy](/concepts/process-philosophy/) | Valence as selection criterion closely parallels Whitehead's subjective aim—both are evaluative mechanisms for conscious selection |
+| [valence-as-selection-currency](/topics/valence-and-conscious-selection/) | [process-philosophy](/concepts/process-philosophy/) | Valence as selection criterion closely parallels Whitehead's subjective aim—both are evaluative mechanisms for conscious selection |
 | [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) | [galilean-exclusion](/concepts/galilean-exclusion/) | The Born rule's structural underivability may be another instance of Galilean exclusion—physics excluding what it cannot mathematise |
 | [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) | [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) | Mathematical understanding has distinctive phenomenology (the "aha" vs. "slog" distinction) that bears directly on whether mathematical cognition requires consciousness |
 | [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) | [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) | Convergent evolution evidence directly addresses the evolution problem's core question about why consciousness accompanies certain functions |
 | [contemplative-epistemology](/concepts/contemplative-epistemology/) | [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) | Contemplative reliability conditions (training, calibration, consensus) are precisely the defeater-conditions phenomenal conservatism requires |
 | [limits-of-parsimony-in-consciousness-science](/concepts/parsimony-epistemology/) | [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) | The parsimony article's hostile-witness evidence directly strengthens the epistemic advantages case |
 | [cognitive-closure](/concepts/mysterianism/) | [born-rule-derivation-failures-consciousness-collapse](/topics/born-rule-and-the-consciousness-interface/) | The formal root of closure (Lawvere's self-reference theorem) may be shared with the Born rule's structural ceiling—both involve systems unable to fully characterise themselves |
-| [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) | [valence-as-selection-currency](/topics/valence-as-selection-currency/) | PP's precision weighting provides the channel; valence provides the criterion—they are complementary interfaces |
+| [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) | [valence-as-selection-currency](/topics/valence-and-conscious-selection/) | PP's precision weighting provides the channel; valence provides the criterion—they are complementary interfaces |
 
 ## New Concept Pages Needed
 

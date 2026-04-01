@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-03-30 20:38:00+00:00
+ai_modified: 2026-04-01 14:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,12 +16,12 @@ concepts:
 - '[[interface-friction]]'
 created: 2026-01-29
 date: &id001 2026-03-30
-description: How attending generates unattendable territory as a structural necessity,
-  and why disordered attention creates epistemological voids that may be permanently
-  unmappable.
+description: Attending generates unattendable territory as a structural necessity.
+  Disordered attention creates epistemological voids that may be permanently unmappable.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-01 14:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,7 +49,7 @@ Attention creates voids as a structural necessity, not as a contingent failure. 
 
 ## Figure Creates Ground
 
-The Gestalt psychologists established that perception is structured by figure-ground relations. To see a figure requires producing a ground — the figure cannot exist as figure without it. Aron Gurwitsch developed this further: perception is always structured into theme (what is focal), thematic field (what is materially relevant), and margin (what is merely co-present). The margin follows different organisational principles than the theme. Making the margin thematic creates a new margin.
+The Gestalt psychologists established that perception is structured by figure-ground relations. To see a figure requires producing a ground — the figure cannot exist as figure without it. Aron Gurwitsch developed this further: perception is always structured into theme (what is focal), thematic field (what is substantively relevant), and margin (what is merely co-present). The margin follows different organisational principles than the theme. Making the margin thematic creates a new margin.
 
 Every act of attention therefore produces unattendable territory as its structural condition. The void is not incidental to attention but constitutive of it.
 

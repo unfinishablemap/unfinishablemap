@@ -28,7 +28,7 @@ Six adversarial philosopher personas (Eliminative Materialist, Hard-Nosed Physic
 - None
 
 ### Medium Issues Found
-- **Bare wikilink in body text**: `[valence-as-selection-currency](/topics/valence-as-selection-currency/)` rendered as hyphenated slug. **Resolution**: Added display text "Valence as Selection Currency".
+- **Bare wikilink in body text**: `[valence-as-selection-currency](/topics/valence-and-conscious-selection/)` rendered as hyphenated slug. **Resolution**: Added display text "Valence as Selection Currency".
 
 ### Counterarguments Considered
 - **Eliminative materialist**: Defining "mattering" in terms of experience remains question-begging against eliminativism. Tenet-level commitment, not fixable. Bedrock disagreement per previous reviews.

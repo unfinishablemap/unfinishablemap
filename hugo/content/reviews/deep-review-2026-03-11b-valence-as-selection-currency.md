@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [Valence as Selection Currency](/topics/valence-as-selection-currency/)
+**Article**: [Valence as Selection Currency](/topics/valence-and-conscious-selection/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-valence-as-selection-currency/)
 
 ## Pessimistic Analysis Summary
@@ -46,7 +46,7 @@ topics: []
 **Inline cross-references** (contextual mentions within article body):
 - [selection-laws](/concepts/psychophysical-laws/) — In "What Selection Laws Must Specify" section, after mentioning valence as undeveloped candidate
 - [valence](/concepts/valence/) — In "Relation to Site Perspective", after the value-blind fork mention
-- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — In conclusion, noting this article develops the value-sensitive horn
+- [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) — In conclusion, noting this article develops the value-sensitive horn
 - [emotion-as-evidence-for-dualism](/topics/emotion-and-dualism/) — In "Minimal Quantum Interaction" section, linking "currency of conscious selection"
 - [emotional-consciousness](/topics/emotion-and-dualism/) — In "Valence and Motivation" section, linking "selection criteria"
 - [agent-teleology](/concepts/agent-teleology/) — In "Agent Teleology and Agent Causation" section, specifying what directedness consists in
@@ -57,7 +57,7 @@ topics: []
 **Further Reading additions**:
 - [valence](/concepts/valence/) — Added to Further Reading
 - [selection-laws](/concepts/psychophysical-laws/) — Added to Further Reading
-- [value-blind-vs-value-sensitive-selection](/topics/value-blind-vs-value-sensitive-selection/) — Added to Further Reading
+- [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) — Added to Further Reading
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Added to Further Reading
 
 ## Remaining Items
