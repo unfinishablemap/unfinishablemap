@@ -3,7 +3,7 @@ title: "Conceptual Impossibility"
 created: 2026-01-23
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-02-25T05:13:00+00:00
+ai_modified: 2026-04-01T17:39:00+00:00
 draft: false
 description: "How consciousness encounters the formally unthinkable—we can reference impossibilities but cannot grasp them, revealing cognitive architecture's limits."
 topics: []
@@ -23,7 +23,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: 2026-02-25T05:13:00+00:00
+last_deep_review: 2026-04-01T17:39:00+00:00
 ---
 
 Try to imagine a round square. Not a circle drawn on a square. Not a rounded square with gentle corners. A shape that is simultaneously, *in the same respect*, perfectly round and perfectly square. What happens when you try?
@@ -169,7 +169,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 
 1. Berto, F. & Jago, M. (2019). "Impossible Worlds." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/impossible-worlds/
 2. Reicher, M. (2024). "Nonexistent Objects." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/nonexistent-objects/
-3. Carruthers, P. (2020). "Cognitive closure (philosophy)." *Wikipedia*. https://en.wikipedia.org/wiki/Cognitive_closure_(philosophy)
+3. Carruthers, P. (2019). *Human and Animal Minds: The Consciousness Questions Laid to Rest*. Oxford University Press.
 4. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In *Conceivability and Possibility*. Oxford University Press. https://consc.net/papers/conceivability.html
 5. Proust, J. (2020). "Editorial: Epistemic Feelings: Phenomenology, Implementation, and Role in Cognition." *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2020.606046/full
 6. Sass, L. & Ratcliffe, M. (2023). "Understanding incomprehensibility." *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1155838/full

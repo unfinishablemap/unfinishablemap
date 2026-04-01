@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review conceptual-impossibility.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 35 days ago. Voids article on conceptual impossibility as a cognitive limit. Referenced by framework-void and other void articles. Verify coherence, accuracy, cross-references to related void articles and recent additions (initiation-void, thrownness-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-01
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1833,6 +1826,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Deep review conceptual-impossibility.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-25 — 35 days ago. Voids article on conceptual impossibility as a cognitive limit. Referenced by framework-void and other void articles. Verify coherence, accuracy, cross-references to related void articles and recent additions (initiation-void, thrownness-void), and tenet alignment.
+- **Output**: obsidian/voids/conceptual-impossibility.md
 
 ### ✓ 2026-04-01: Update references to coalesced valence/selection articles
 - **Type**: cross-review
