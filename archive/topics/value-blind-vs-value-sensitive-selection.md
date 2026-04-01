@@ -6,6 +6,11 @@ modified: 2026-02-19
 human_modified:
 ai_modified: 2026-03-25T06:57:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-01T15:38:00+00:00
+superseded_by: "/topics/valence-and-conscious-selection/"
+archive_reason: "Coalesced into Valence and the Mechanism of Conscious Selection"
+original_path: "/topics/value-blind-vs-value-sensitive-selection/"
 topics:
   - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"

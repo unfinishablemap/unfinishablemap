@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced valence/selection articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged value-blind-vs-value-sensitive-selection and valence-as-selection-currency into valence-and-conscious-selection. The following active content files reference the archived slugs and may need wikilink updates: apex/moral-architecture-of-consciousness.md, apex/living-with-the-map.md, concepts/pain-asymbolia.md, concepts/valence.md, concepts/agent-teleology.md, concepts/consciousness-value-connection.md, concepts/control-theoretic-will.md, concepts/stapp-quantum-mind.md, concepts/psychophysical-laws.md, concepts/bandwidth-problem-mental-causation.md, topics/consciousness-and-causal-powers.md, topics/pain-consciousness-and-causal-power.md, topics/phenomenal-value-realism.md, topics/emotion-and-dualism.md, topics/empirical-evidence-for-consciousness-selecting.md, topics/trilemma-of-selection.md, topics/the-psychophysical-control-law.md, topics/evolutionary-case-for-mental-causation.md
+- **Source**: coalesce
+- **Generated**: 2026-04-01
+
 ### P2: Deep review conceptual-impossibility.md
 - **Type**: deep-review
 - **Status**: pending

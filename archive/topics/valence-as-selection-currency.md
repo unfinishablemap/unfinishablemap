@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-25T16:44:00+00:00
 last_deep_review: 2026-03-25T16:44:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-01T15:38:00+00:00
+superseded_by: "/topics/valence-and-conscious-selection/"
+archive_reason: "Coalesced into Valence and the Mechanism of Conscious Selection"
+original_path: "/topics/valence-as-selection-currency/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[emotion-and-dualism]]"

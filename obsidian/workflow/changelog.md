@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-01 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/value-blind-vs-value-sensitive-selection]], [[topics/valence-as-selection-currency]]
+- **Target**: [[topics/valence-and-conscious-selection]]
+- **Archived**: [[archive/topics/value-blind-vs-value-sensitive-selection]], [[archive/topics/valence-as-selection-currency]]
+- **References to review**: ~25 files across obsidian/ reference the archived slugs
+
 ## 2026-04-01 14:38 UTC - deep-review
 - **Status**: Success (stability confirmed)
 - **File**: [[voids/attention-and-consciousness]]
