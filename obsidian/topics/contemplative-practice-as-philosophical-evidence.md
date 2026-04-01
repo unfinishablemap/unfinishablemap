@@ -4,7 +4,7 @@ description: "Cross-traditional contemplative practice functions as philosophica
 created: 2026-01-27
 modified: 2026-03-09
 human_modified:
-ai_modified: 2026-03-29T15:11:00+00:00
+ai_modified: 2026-04-01T05:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,16 +40,16 @@ related_articles:
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[topics/free-will]]"
   - "[[testing-the-map-from-inside]]"
-  - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
   - "[[phenomenal-authority-and-introspective-evidence]]"
+  - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-03-19T04:31:00+00:00
+last_deep_review: 2026-04-01T05:39:00+00:00
 coalesced_from:
   - "/topics/contemplative-evidence-for-consciousness/"
   - "/topics/contemplative-methods-as-philosophical-methodology/"
@@ -65,7 +65,7 @@ A practice counts as philosophical methodology when it is disciplined (following
 
 Contemplative training targets precisely the layers of [[epistemology-of-first-person-evidence|phenomenal authority]] where naive introspection is weakest. Authority over *that* experience exists is robust, but authority over *what* attended experience is like and over structural features improves dramatically with training. Sustained attention training improves accuracy about phenomenal character; progressive disclosure of temporal microstructure, the awareness-content distinction, and the constructed self represents structural knowledge becoming accessible through disciplined practice. Contemplative methodology does not merely assume introspective reliability; it systematically extends it into domains where casual introspection fails.
 
-**Disciplined procedure.** Contemplative traditions prescribe specific techniques with progressive stages and criteria for competence. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure — structured methodological protocols comparable in rigour to Husserl's epoché.
+**Disciplined procedure.** Contemplative traditions prescribe specific techniques with progressive stages and criteria for competence. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure — structured methodological protocols comparable in rigour to [[phenomenological-method-and-evidence-standards|Husserl's epoché]].
 
 **Directed at philosophical questions.** The philosophical use of meditation investigates the structure of consciousness itself, generating first-person data bearing on questions about temporal grain, self-construction, and awareness-content relations.
 
@@ -215,23 +215,18 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practice destabilises the interface
 - [[phenomenology-of-returning-attention]] — Micro-phenomenology of attentional recovery during practice
 - [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as involuntary counterpart to contemplative evidence
+- [[phenomenological-method-and-evidence-standards]] — Husserl's epoché, evidence taxonomy, and why phenomenological standards are irreducible to naturalist criteria
 - [[aesthetics-and-consciousness]] — Aesthetic sensitivity deepening with training as evidence for irreducibility
 
 ## References
 
 1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
-1. Davidson, R. J., et al. (2012). Contemplative practices and mental training: Prospects for American education. *Child Development Perspectives*, 6(2), 146-153.
 1. Demir, U., Yang, W. F. Z., & Sacchet, M. D. (2025). Advanced concentrative absorption meditation reorganizes functional connectivity gradients of the brain: 7T MRI and phenomenology case study of jhana meditation. *Cerebral Cortex*, 35(4), bhaf079.
 1. Dreyfus, G. (2011). "Is Mindfulness Present-Centred and Non-Judgmental? A Discussion of the Cognitive Dimensions of Mindfulness." *Contemporary Buddhism*, 12(1), 41-54.
 1. Fox, K. C. R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy—First Book*. Trans. F. Kersten. The Hague: Nijhoff.
 1. Lazar, S. W., et al. (2005). Meditation experience is associated with increased cortical thickness. *Neuroreport*, 16(17), 1893-1897.
-1. Lutz, A., & Thompson, E. (2003). Neurophenomenology: Integrating subjective experience and brain dynamics. *Journal of Consciousness Studies*, 10(9-10), 31-52.
-1. Lutz, A., et al. (2020). The hitchhiker's guide to neurophenomenology. *Frontiers in Psychology*, 11, 1680.
 1. MacLean, K. A., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, 21(6), 829-839.
-1. Parkinson, T. D., et al. (2022). Mindfulness meditation increases default mode, salience, and central executive network connectivity. *Scientific Reports*, 12, 13219.
-1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 1. Weng, H. Y., et al. (2013). Compassion training alters altruism and neural responses to suffering. *Psychological Science*, 24(7), 1171-1180.
 

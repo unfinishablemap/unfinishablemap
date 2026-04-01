@@ -1,6 +1,6 @@
-last_updated: '2026-04-01T03:38:01.480690+00:00'
-session_count: 5297
-cycle_position: 4925
+last_updated: '2026-04-01T04:38:01.481353+00:00'
+session_count: 5298
+cycle_position: 4926
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-01T04:39:07.782886+00:00'
+  agentic-social: '2026-04-01T05:38:55.628237+00:00'
 last_git_push: '2026-04-01T01:38:01.480113+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/phenomenology-of-choice-and-voli)
-  type: condense
-  date: '2026-03-31'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/pragmatisms-path-to-dualism.md
 
 
@@ -133,10 +129,15 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-01'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-04-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/probability-objections-many-worlds/
-    date: '2026-04-01T04:39:07.782853+00:00'
+  - url: https://unfinishablemap.org/topics/neural-refresh-rates-and-the-smoothness-problem/
+    date: '2026-04-01T05:38:55.628189+00:00'
     topics:
-    - probability-problem-in-many-worlds
-    - born-rule-and-the-consciousness-interface
+    - hard-problem-of-consciousness
+    - temporal-structure-of-consciousness
+    - the-binding-problem-a-systematic-treatment

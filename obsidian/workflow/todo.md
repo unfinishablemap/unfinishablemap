@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) systematises evidence standards for first-person data. Check contemplative-practice-as-philosophical-evidence.md for cross-links to the new evidence taxonomy, reinforcing arguments about contemplative evidence meeting phenomenological standards, and terminology consistency.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-01
-
 ### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1804,6 +1797,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) systematises evidence standards for first-person data. Check contemplative-practice-as-philosophical-evidence.md for cross-links to the new evidence taxonomy, reinforcing arguments about contemplative evidence meeting phenomenological standards, and terminology consistency.
+- **Output**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md -- Context: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
 
 ### ✓ 2026-04-01: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
