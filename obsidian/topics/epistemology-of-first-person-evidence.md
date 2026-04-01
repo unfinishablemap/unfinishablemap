@@ -3,7 +3,7 @@ title: "The Epistemology of First-Person Evidence"
 created: 2026-02-11
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-04-01T06:38:00+00:00
+ai_modified: 2026-04-01T11:38:00+00:00
 draft: false
 description: "What introspection provides, how reliable it is, and why phenomenal reports are indispensable to consciousness science. Husserl's evidence taxonomy, four models of introspective knowledge, five calibration strategies, and warranted trust."
 topics:
@@ -46,12 +46,13 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
   - "[[phenomenal-authority-and-introspective-evidence]]"
+  - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated: null
-last_deep_review: 2026-04-01T06:38:00+00:00
+last_deep_review: 2026-04-01T11:38:00+00:00
 coalesced_from:
   - "/topics/epistemology-of-introspection-and-calibration/"
   - "/topics/epistemology-of-phenomenal-reports/"
@@ -70,7 +71,7 @@ A purely third-person neuroscience of consciousness cannot escape this dependenc
 
 ## The Phenomenological Method
 
-[[phenomenology|Phenomenological method]] is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
+[[phenomenological-method-and-evidence-standards|Phenomenological method]] is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
 
 These operations require training and sustained practice. [[phenomenological-evidence|Phenomenological evidence]] becomes more reliable as methodological discipline increases — [[introspection|introspective accuracy]] follows a skill-acquisition curve where trained observers reliably outperform untrained ones (Fox et al. 2012), and [[contemplative-practice-as-philosophical-evidence|contemplative practice]] produces convergent findings across independent traditions.
 
@@ -187,6 +188,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [[observation-and-measurement-void]] — Why strict calibration is structurally impossible
 - [[contemplative-practice-as-philosophical-evidence]] — Cross-traditional convergence as methodology
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — The mutual constraint framework validating trained introspection
+- [[phenomenological-method-and-evidence-standards]] — Why phenomenological evidence standards are irreducible to naturalist criteria
 - [[knowledge-argument]] — Mary's room and the limits of physical knowledge
 - [[galilean-exclusion]] — How modern science excluded the subjective
 - [[epistemology-of-convergence-arguments]] — Formal conditions for when convergence carries evidential weight
