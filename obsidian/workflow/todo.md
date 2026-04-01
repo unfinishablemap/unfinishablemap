@@ -1817,6 +1817,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-30
 
+### P3: Write article on phenomenology of temporal experience under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Husserl's time-consciousness, the specious present, experience of duration — integrating initiation-void and thrownness-void with bandwidth-of-consciousness (~3-4 selections/s). Shows how dualist framework illuminates temporal experience in ways physicalist accounts cannot. Builds on initiation-void, thrownness-void, phenomenology-of-choice-and-volition, bandwidth-of-consciousness. Target section: topics/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical understanding — grasping why a proof works — involves distinctive conscious experience. Engages Penrose's non-computability argument through the Map's interface model without committing to his stronger claims. Builds on argument-from-reason, bandwidth-of-consciousness, baseline-cognition. Target section: topics/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write article on the interface in sleep and dreaming
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Systematic treatment of what happens to the ~10 bits/s interface during NREM sleep, REM dreaming, and lucid dreaming. Different sleep stages as different interface configurations. Builds on dream-consciousness, bandwidth-of-consciousness, filter-theory, anaesthesia-and-the-consciousness-interface. Target section: topics/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write concept page on stochastic threshold model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Schurger's reinterpretation of Libet's readiness potential as stochastic neural noise crossing a decision threshold — referenced in initiation-void with implications across free will, agency, and quantum consciousness clusters. Deserves dedicated concept page. Target section: concepts/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write concept page on confound of embodiment
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The fundamental experimental obstacle: every conscious observer is also a physical system. Referenced in testing-consciousness-collapse as the core problem for Tier 2 predictions. Recurs across the empirical programme and deserves dedicated treatment. Target section: concepts/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
 ## Completed Tasks
 
 
