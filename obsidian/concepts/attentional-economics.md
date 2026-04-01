@@ -4,7 +4,7 @@ description: "Agency is fundamentally the allocation of attention over time. Fre
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-03-29T15:11:00+00:00
+ai_modified: 2026-04-01T18:48:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-31
 last_curated:
-last_deep_review: 2026-03-09T18:12:00+00:00
+last_deep_review: 2026-04-01T18:48:00+00:00
 ---
 
 If consciousness influences the physical world through attention—as The Unfinishable Map's [[attention-as-interface|attention-as-interface hypothesis]] proposes—then agency is fundamentally about how attention gets allocated over time. The deepest unit of will is not the discrete "decision" but the *sustained direction of attention*: what gets stabilised, what gets released, what gets held against competing claims. This is attentional economics—the budgeting and investment of a finite conscious resource that shapes which possibilities become actual.
@@ -219,13 +219,3 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Qualified Schwartz & Begley (2002) citation with sample size caveat (n=18), lack of replication, cross-reference to clinical neuroplasticity evidence article
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Schwartz evidence honestly calibrated.
-
-This log should be removed after human review.
--->
