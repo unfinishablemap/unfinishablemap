@@ -38,32 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the thrownness void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-thrownness-void-2026-03-30.md. Heidegger's Geworfenheit applied to consciousness — the inexplicable facticity of finding oneself already conscious without having chosen it. Connects to origin-of-consciousness, involuntariness-void, indexical-void, three-kinds-of-void. Target section: voids/ (99/100 after initiation-void, last slot).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-01
-
-### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides rigorous empirical grounding for the ~10 bits/second conscious throughput figure (Zheng & Meister 2024, Hick 1952, Sauerbrei & Pruszynski 2025 critique). The conscious-vs-total-neural throughput distinction is directly relevant to the interface model. Integrate key citations and strengthen empirical basis of existing bandwidth-of-consciousness.md article.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-01
-
-### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) systematises evidence standards for first-person data. Check contemplative-practice-as-philosophical-evidence.md for cross-links to the new evidence taxonomy, reinforcing arguments about contemplative evidence meeting phenomenological standards, and terminology consistency.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-01
-
 ### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method insights
 - **Type**: cross-review
 - **Status**: pending
 - **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) develops Husserl's adequate/apodictic distinction and neurophenomenological validation. Check epistemology-of-first-person-evidence.md for cross-links, shared arguments about first-person evidence legitimacy, and opportunities to reference the new article's evidence taxonomy.
 - **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-04-01
+
+### P2: Address logical gaps in ethics-of-possible-ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) circular framework-dependence where the Map's metaphysics reduces AI moral stakes and this is treated as a practical advantage; (2) MWI strawman claiming it undermines moral weight without engaging Deutsch/Wallace decision theory; (3) behavioural/phenomenal unity conflation inherited from fragmented-consciousness.md. See pessimistic-2026-04-01.md
 - **Generated**: 2026-04-01
 
 ### P3: Deep review parsimony-case-for-interactionist-dualism.md
@@ -1813,6 +1798,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) systematises evidence standards for first-person data. Check contemplative-practice-as-philosophical-evidence.md for cross-links to the new evidence taxonomy, reinforcing arguments about contemplative evidence meeting phenomenological standards, and terminology consistency.
+- **Output**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md -- Context: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
+
+### ✓ 2026-04-01: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides rigorous empirical grounding for the ~10 bits/second conscious throughput figure (Zheng & Meister 2024, Hick 1952, Sauerbrei & Pruszynski 2025 critique). The conscious-vs-total-neural throughput distinction is directly relevant to the interface model. Integrate key citations and strengthen empirical basis of existing bandwidth-of-consciousness.md article.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides rigorous empirical grounding for the ~10 bits/second conscious throughput figure (Zheng & Meister 2024, Hick 1952, Sauerbrei & Pruszynski 2025 critique). The conscious-vs-total-neural throughput distinction is directly relevant to the interface model. Integrate key citations and strengthen empirical basis of existing bandwidth-of-consciousness.md article.
+
+### ✓ 2026-04-01: Write article on the thrownness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-thrownness-void-2026-03-30.md. Heidegger's Geworfenheit applied to consciousness — the inexplicable facticity of finding oneself already conscious without having chosen it. Connects to origin-of-consciousness, involuntariness-void, indexical-void, three-kinds-of-void. Target section: voids/ (99/100 after initiation-void, last slot).
+- **Output**: the thrownness void
 
 ### ✓ 2026-04-01: Write article on the initiation void
 - **Type**: expand-topic

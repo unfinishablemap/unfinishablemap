@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-01 05:39 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Word count**: 2992 → 2893 (-99)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (self-referencing wikilink, uncited references, missing cross-link)
+- **Enhancements made**: 1 (cross-link to phenomenological-method-and-evidence-standards)
+- **Output**: [deep-review-2026-04-01-contemplative-practice-as-philosophical-evidence](/reviews/deep-review-2026-04-01-contemplative-practice-as-philosophical-evidence/)
+
+## 2026-04-01 04:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: ethics-of-possible-ai-consciousness.md, phenomenology-of-attention-to-absence.md, fragmented-consciousness.md
+- **Output**: [pessimistic-2026-04-01](/reviews/pessimistic-2026-04-01/)
+
+## 2026-04-01 03:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Original score**: N/A (curate.py unavailable)
+- **Changes**: Added Rubik's cube measurement to table; expanded Shannon methodology explanation; added Miller's 2.5 bits/dimension and Hyman's 150 ms/bit figures; added Pierce & Karlin (1957) to historical chain and references; added alpha oscillation (~10 Hz) connection as open question
+- **Published**: yes
+
+## 2026-04-01 02:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Thrownness Void
+- **Output**: [thrownness-void](/voids/thrownness-void/)
+- **Word count**: 1526
+- **Based on research**: yes, [voids-thrownness-void-2026-03-30](/research/voids-thrownness-void-2026-03-30/)
+
 ## 2026-04-01 01:38 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
