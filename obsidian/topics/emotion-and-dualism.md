@@ -174,7 +174,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [[comparative-consciousness-and-interface-differences]] — Whether emotional consciousness differs in nature, coupling, or both across species
 - [[ethics-of-consciousness]] — Moral implications of consciousness
 - [[moral-phenomenology-and-perception]] — The felt character of wrongness, obligation, and guilt as moral qualia
-- [[valence-as-selection-currency]] — Valence as the criterion for conscious selection
+- [[valence-and-conscious-selection]] — Valence as the criterion for conscious selection
 - [[consciousness-and-the-phenomenology-of-place]] — How mood and atmosphere co-constitute place-experience
 - [[emotional-consciousness-valence-2026-01-19]] — Research notes on emotions and valence
 

@@ -46,7 +46,7 @@ related_articles:
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[ethics-of-consciousness]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
-  - "[[value-blind-vs-value-sensitive-selection]]"
+  - "[[valence-and-conscious-selection]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
 ai_contribution: 100
 author:
@@ -193,9 +193,9 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[valence-void]] — Why the evaluative dimension of experience resists all explanation
 - [[blindsight]] — A parallel clinical dissociation in vision
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Other neurological test cases for consciousness theories
-- [[value-blind-vs-value-sensitive-selection]] — How asymbolia evidence bears on whether valence enters the selection mechanism
+- [[valence-and-conscious-selection]] — How asymbolia evidence bears on whether valence enters the selection mechanism
 - [[clinical-phenomenology-as-philosophical-evidence]] — Asymbolia within the broader framework of clinical evidence for dualism
-- [[valence-as-selection-currency]] — How valence may function as the common evaluative metric for conscious selection
+- [[valence-and-conscious-selection|Valence and Conscious Selection]] — How valence may function as the common evaluative metric for conscious selection
 - [[supervenience]] — Why the Map accepts phenomenal-physical covariance but rejects the reductive conclusions drawn from it
 
 ## References

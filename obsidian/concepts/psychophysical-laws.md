@@ -181,7 +181,7 @@ Beck and Eccles (1992) give a specific mechanism: mental intention modulates qua
 |----------|-------------------|-------------------|-------------|----------------|
 | **Attention→Observation** | Focus, effort | Measurement rate | High (challenged) | Decoherence timescale |
 | **Intention→Probability** | Volition | Vesicle release | Medium | Pairing problem |
-| **[[valence-as-selection-currency\|Valence→Motivation]]** | Pleasure/pain | Action selection | Low | No quantum mechanism |
+| **[[valence-and-conscious-selection\|Valence→Motivation]]** | Pleasure/pain | Action selection | Low | No quantum mechanism |
 | **Qualia→Basis** | Qualitative character | Measurement basis | Very low | Purely speculative |
 | **Unity→Entanglement** | [[binding-problem|Phenomenal binding]] | Sustained coherence | Low | Correlation≠causation |
 

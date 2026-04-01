@@ -36,7 +36,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[the-interface-location-problem]]"
   - "[[metaphysics-of-information-under-dualism]]"
-  - "[[value-blind-vs-value-sensitive-selection]]"
+  - "[[valence-and-conscious-selection]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[volitional-control]]"
 ai_contribution: 100
@@ -110,7 +110,7 @@ The causal power here is persistence: consciousness makes certain neural configu
 
 The character of conscious experience—what it feels like—might itself contribute to causal influence. [[pain-consciousness-and-causal-power|Pain]] provides the paradigm case. Pain's unpleasantness doesn't merely represent tissue damage; it causally motivates avoidance. The clinical condition of [[pain-asymbolia]]—where patients detect nociceptive stimuli but lack the felt awfulness—demonstrates this with unusual clarity: when the phenomenal character is removed, the extended behavioural response (guarding injuries, seeking treatment, developing avoidance patterns) collapses, despite intact sensory detection. The inseparability of pain's felt character and its causal power is precisely what epiphenomenalism denies and what the Map affirms.
 
-Different phenomenal qualities produce different behavioural responses: sharp pain provokes withdrawal, burning pain motivates cooling, aching pain produces protective immobility. This quality-action mapping tracks phenomenal character more transparently than underlying neural patterns, suggesting the quale is part of the causal process itself. Pain anticipation extends this further—imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. The [[valence-as-selection-currency|selection currency thesis]] develops this into a specific mechanism: valence is the common metric by which consciousness evaluates all competing options. See [[value-blind-vs-value-sensitive-selection]] for whether valence enters the selection mechanism.
+Different phenomenal qualities produce different behavioural responses: sharp pain provokes withdrawal, burning pain motivates cooling, aching pain produces protective immobility. This quality-action mapping tracks phenomenal character more transparently than underlying neural patterns, suggesting the quale is part of the causal process itself. Pain anticipation extends this further—imagined future pain alters present behaviour through phenomenal content alone, with no current nociceptive input. The [[valence-and-conscious-selection|selection currency thesis]] develops this into a specific mechanism: valence is the common metric by which consciousness evaluates all competing options, though whether valence enters the selection mechanism directly or through attention remains an open fork.
 
 This requires [[psychophysical-laws]]—psychophysical laws specifying how phenomenal character maps to action tendencies. The Map speculates that such laws exist, linking the qualitative nature of [[qualia]] to their causal role. See [[topics/phenomenal-value-realism]] for the ethical implications of treating phenomenal character as causally real.
 

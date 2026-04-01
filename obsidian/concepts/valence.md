@@ -81,7 +81,7 @@ The [[tenets#^dualism|Dualism]] tenet finds strong support: if the felt badness 
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet gains empirical backing from asymbolia cases. When the phenomenal property is absent, behavior changes. The felt quality is causally efficacious, not epiphenomenal.
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment, choosing among neural possibilities based on anticipated pleasure or pain. Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[value-blind-vs-value-sensitive-selection|unresolved fork]] with distinct consequences for teleology and testability. The [[valence-as-selection-currency]] thesis develops the value-sensitive position: valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet connects speculatively: if consciousness biases neural outcomes, valence may provide the criterion for selection. Consciousness doesn't randomly influence quantum indeterminacies—it does so guided by valenced assessment, choosing among neural possibilities based on anticipated pleasure or pain. Whether valence enters the selection mechanism directly or operates only through modulating attention is an [[valence-and-conscious-selection|unresolved fork]] with distinct consequences for teleology and testability. The value-sensitive position holds that valence serves as the common evaluative dimension—the currency—that makes selection among qualitatively different outcomes commensurable.
 
 ## Further Reading
 
@@ -92,8 +92,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
 - [[valence-void]] — Why the evaluative dimension of experience resists all explanation
-- [[value-blind-vs-value-sensitive-selection]] — Whether valence participates directly in selection or operates through attention
-- [[valence-as-selection-currency]] — How valence may function as the common metric for conscious selection
+- [[valence-and-conscious-selection]] — Whether valence participates directly in selection and how it may function as the common metric
 - [[pain-consciousness-and-causal-power]] — Pain, suffering, and the inseparability of phenomenal character and causal power
 - [[normative-phenomenology]] — How phenomenal properties ground normative claims
 - [[evaluative-qualia]] — The broader category of evaluative phenomenal experience beyond hedonic valence

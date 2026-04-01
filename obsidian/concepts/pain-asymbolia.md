@@ -46,7 +46,7 @@ The condition reveals that what ordinary language calls "pain" is not a single p
 
 **Sensory-discriminative**: where the damage is, what type it is, how intense the stimulus is. This layer survives in asymbolia. It corresponds roughly to processing in the primary and secondary somatosensory cortices and the posterior insula.
 
-**Affective-motivational**: the *awfulness*—the [[valence|phenomenal valence]] that makes pain intrinsically aversive and drives protective behaviour. When this dimension is abolished, the [[valence-as-selection-currency|selection currency]] that would normally prioritise avoidance over competing goals is lost. This layer is abolished in asymbolia. It depends on the anterior insula, the anterior cingulate cortex, and their connections to limbic structures.
+**Affective-motivational**: the *awfulness*—the [[valence|phenomenal valence]] that makes pain intrinsically aversive and drives protective behaviour. When this dimension is abolished, the [[valence-and-conscious-selection|selection currency]] that would normally prioritise avoidance over competing goals is lost. This layer is abolished in asymbolia. It depends on the anterior insula, the anterior cingulate cortex, and their connections to limbic structures.
 
 The dissociation is not a graded reduction. Asymbolia patients do not report mild discomfort where they should feel agony. They report no affective dimension at all. The sensory information arrives; the suffering does not. This clean separation argues against accounts that treat pain's unpleasantness as an intrinsic property of nociceptive processing itself. The processing continues; the unpleasantness vanishes.
 
@@ -102,7 +102,7 @@ Together, these dissociations show that pain's dimensions can be independently m
 - [[placebo-effect-and-mental-causation]] — Another route to dissociating pain's dimensions
 - [[blindsight]] — A parallel clinical dissociation supporting dualism
 - [[concepts/epiphenomenalism]] — The view that consciousness has no causal efficacy
-- [[value-blind-vs-value-sensitive-selection]] — How asymbolia evidence bears on whether valence participates in selection
+- [[valence-and-conscious-selection]] — How asymbolia evidence bears on whether valence participates in selection
 
 ## References
 

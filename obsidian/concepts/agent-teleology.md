@@ -70,7 +70,7 @@ Agent teleology is closely related to [[agent-causation]] but addresses a differ
 
 The two are complementary. Agent causation provides the metaphysical machinery (substances exercising powers). Agent teleology describes what that machinery introduces into nature (genuine purpose). Without agent causation, agent teleology lacks a mechanism. Without agent teleology, agent causation lacks its distinctive explanatory significance—it would be causation without direction. The [[biological-teleology-and-the-interface-framework|biological teleology article]] develops the specific physical architecture through which agent teleology is realised: the attention-motor selection interface where consciousness chooses among brain-prepared options.
 
-Whitehead's [[subjective-aim]] offers a [[process-philosophy|process-philosophical]] perspective on this relationship. Each actual occasion, in Whitehead's framework, is directed toward its own satisfaction—steered by an aim that is not a static goal-state but an internal feature of the process of becoming. The Map does not endorse Whitehead's panpsychism (attributing aim to all occasions), but it recognises subjective aim as a model for how directed selection works in conscious agents: the directedness is inherent in conscious experience itself, not imposed from outside. The [[valence-as-selection-currency]] thesis specifies what this directedness consists in: [[valence]]—the felt goodness or badness of anticipated outcomes—provides the evaluative criterion that makes selection purposive rather than arbitrary.
+Whitehead's [[subjective-aim]] offers a [[process-philosophy|process-philosophical]] perspective on this relationship. Each actual occasion, in Whitehead's framework, is directed toward its own satisfaction—steered by an aim that is not a static goal-state but an internal feature of the process of becoming. The Map does not endorse Whitehead's panpsychism (attributing aim to all occasions), but it recognises subjective aim as a model for how directed selection works in conscious agents: the directedness is inherent in conscious experience itself, not imposed from outside. The [[valence-and-conscious-selection|valence as selection currency]] thesis specifies what this directedness consists in: [[valence]]—the felt goodness or badness of anticipated outcomes—provides the evaluative criterion that makes selection purposive rather than arbitrary.
 
 ## Agent Teleology and Evolution
 
@@ -138,7 +138,7 @@ Agent teleology follows directly from the Map's tenets.
 - [[argument-from-reason]] — Why reasoning requires genuine teleology
 - [[phenomenology-of-choice-and-volition]] — The first-person experience of acting for reasons
 - [[topics/phenomenal-value-realism]] — Values grounded in experience, not projected onto mechanism
-- [[value-blind-vs-value-sensitive-selection]] — Whether the selection mechanism is itself value-directed or value-neutral
+- [[valence-and-conscious-selection]] — Whether the selection mechanism is itself value-directed or value-neutral
 - [[mysterianism]] — Why the mechanism linking purpose to physics may exceed comprehension
 - [[self-transcendence-void]] — Why consciousness cannot bootstrap its purposive capacity beyond architectural limits
 

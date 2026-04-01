@@ -175,7 +175,7 @@ The model generates falsifiable predictions:
 - [[agent-causation]] — Philosophical framework for conscious causation
 - [[the-participatory-universe]] — Wheeler's participatory vision that Stapp concretises
 - [[indexical-identity-quantum-measurement]] — The indexical gap: why *this* consciousness selects *this* outcome
-- [[value-blind-vs-value-sensitive-selection]] — Whether valence could extend the Zeno mechanism beyond value-neutral attention
+- [[valence-and-conscious-selection]] — Whether valence could extend the Zeno mechanism beyond value-neutral attention
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams extending Schwartz's OCD research
 - [[stapp-mental-effort-mind-matter-2026-01-14]] — Detailed research notes
 - [[qm-interpretations-beyond-many-worlds]] — How Stapp's Zeno mechanism fits within the broader interpretive landscape

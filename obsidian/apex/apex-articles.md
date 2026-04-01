@@ -395,7 +395,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/phenomenology-of-moral-life
 - concepts/moral-responsibility
 - topics/animal-consciousness
-- topics/value-blind-vs-value-sensitive-selection
+- topics/valence-and-conscious-selection
 
 **Status**: Created 2026-03-16
 

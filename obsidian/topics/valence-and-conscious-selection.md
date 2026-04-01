@@ -3,8 +3,9 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-01T15:38:00+00:00
+ai_modified: 2026-04-01T16:38:00+00:00
 draft: false
+description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
   - "[[topics/free-will]]"
   - "[[ethics-of-consciousness]]"
@@ -30,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-01T16:38:00+00:00
 coalesced_from:
   - "/topics/value-blind-vs-value-sensitive-selection/"
   - "/topics/valence-as-selection-currency/"
@@ -221,10 +222,9 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 2. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 3. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. CreateSpace.
 4. Carruthers, P. (2018). Valence and value. *Philosophy and Phenomenological Research*, 97(3), 658-680.
-5. Cutter, B. & Tye, M. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1).
-6. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
-7. Cleeremans, A. & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
-8. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
-9. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-10. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
-11. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+5. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
+6. Cleeremans, A. & Tallon-Baudry, C. (2022). Consciousness matters: Phenomenal experience has functional value. *Neuroscience of Consciousness*, 2022(1), niac007.
+7. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
+8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+9. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
+10. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
