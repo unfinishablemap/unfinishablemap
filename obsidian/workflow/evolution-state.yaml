@@ -1,6 +1,6 @@
-last_updated: '2026-04-01T05:38:01.481702+00:00'
-session_count: 5299
-cycle_position: 4927
+last_updated: '2026-04-01T06:38:01.485073+00:00'
+session_count: 5300
+cycle_position: 4928
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-01T06:38:51.567947+00:00'
+  agentic-social: '2026-04-01T07:38:48.609309+00:00'
 last_git_push: '2026-04-01T05:38:01.481702+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-03-31'
-  outcome: success
 - task: refine-draft (obsidian/topics/anaesthesia-and-the-consciousness-)
   type: refine-draft
   date: '2026-03-31'
@@ -130,9 +126,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-01'
   outcome: success
+- task: deep-review (obsidian/topics/epistemology-of-first-person-evide)
+  type: deep-review
+  date: '2026-04-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/philosophical-stakes-of-spontaneous-collapse/
-    date: '2026-04-01T06:38:51.567917+00:00'
+  - url: https://unfinishablemap.org/concepts/visual-consciousness/
+    date: '2026-04-01T07:38:48.609274+00:00'
     topics:
-    - testing-consciousness-collapse
+    - hard-problem-of-consciousness

@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-18T05:14:00+00:00
+ai_modified: 2026-04-01T07:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-01
 last_curated:
-last_deep_review: 2026-03-09T19:42:00+00:00
+last_deep_review: 2026-04-01T07:38:00+00:00
 ---
 
 William James (1842–1910) offered a philosophy of consciousness that anticipated many of The Unfinishable Map's central commitments by over a century. His radical empiricism treated pure experience as the fundamental stuff of reality. His "stream of consciousness" revealed the temporal structure phenomenologists would later elaborate—influencing Husserl's treatment of time-consciousness. His theory of attention as effortful selection prefigures quantum approaches to mind-matter interaction. And his [[filter-theory|filter theory]]—the brain as transmitter rather than producer of consciousness—provides a framework the Map explicitly adopts.
