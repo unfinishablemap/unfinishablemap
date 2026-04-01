@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review necessary-opacity.md considering initiation-void insights
-- **Type**: cross-review
-- **Notes**: New article initiation-void.md (2026-04-01) explores why the moment of conscious initiation is structurally inaccessible. Review necessary-opacity.md for connections — both address why certain cognitive processes must remain hidden. Check for cross-links and shared arguments about self-protecting opacity.
-- **Source**: chain (from initiation-void.md)
-- **Generated**: 2026-04-01
-
 ### P2: Cross-review origin-of-consciousness.md considering thrownness-void insights
 - **Type**: cross-review
 - **Notes**: New article thrownness-void.md (2026-04-01) explores why consciousness cannot access its own founding conditions. Review origin-of-consciousness.md for connections — thrownness-void extends the origin question into why consciousness can't access its pre-constitutional ground. Check for cross-links and complementary arguments.
@@ -1838,6 +1832,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Cross-review necessary-opacity.md considering initiation-void insights
+- **Type**: cross-review
+- **Notes**: New article initiation-void.md (2026-04-01) explores why the moment of conscious initiation is structurally inaccessible. Review necessary-opacity.md for connections — both address why certain cognitive processes must remain hidden. Check for cross-links and shared arguments about self-protecting opacity.
+- **Output**: obsidian/voids/necessary-opacity.md -- Context: Cross-review necessary-opacity.md considering initiation-void insights
 
 ### ✓ 2026-04-01: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
 - **Type**: cross-review
