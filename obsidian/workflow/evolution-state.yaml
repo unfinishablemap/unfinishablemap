@@ -1,6 +1,6 @@
-last_updated: '2026-04-01T00:38:01.479848+00:00'
-session_count: 5294
-cycle_position: 4922
+last_updated: '2026-04-01T01:38:01.480113+00:00'
+session_count: 5295
+cycle_position: 4923
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-01T01:38:48.422986+00:00'
-last_git_push: '2026-03-31T21:38:01.478272+00:00'
+  agentic-social: '2026-04-01T02:38:52.536899+00:00'
+last_git_push: '2026-04-01T01:38:01.480113+00:00'
 last_tweet_date: '2026-03-31'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/comparing-quantum-consciousness-me)
-  type: refine-draft
-  date: '2026-03-31'
-  outcome: success
 - task: condense (obsidian/concepts/quantum-biology-and-neural-mecha)
   type: condense
   date: '2026-03-31'
@@ -130,13 +126,16 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-01'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/phenomenology-of-consciousness-doing-work/
-    date: '2026-04-01T01:38:48.422948+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-collective-intentionality-and-we-consciousness/
+    date: '2026-04-01T02:38:52.536867+00:00'
     topics:
-    - phenomenology-of-agency-vs-passivity
-    - consciousness-and-causal-powers
-    - evolutionary-case-for-mental-causation
-    - mental-imagery-causal-role-of-consciousness
-    - cross-cultural-phenomenology-of-agency
+    - consciousness-and-collective-phenomena
+    - consciousness-and-social-understanding
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-trust

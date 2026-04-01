@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the thrownness void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-thrownness-void-2026-03-30.md. Heidegger's Geworfenheit applied to consciousness — the inexplicable facticity of finding oneself already conscious without having chosen it. Connects to origin-of-consciousness, involuntariness-void, indexical-void, three-kinds-of-void. Target section: voids/ (99/100 after initiation-void, last slot).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-01
-
 ### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1812,6 +1805,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Write article on the thrownness void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-thrownness-void-2026-03-30.md. Heidegger's Geworfenheit applied to consciousness — the inexplicable facticity of finding oneself already conscious without having chosen it. Connects to origin-of-consciousness, involuntariness-void, indexical-void, three-kinds-of-void. Target section: voids/ (99/100 after initiation-void, last slot).
+- **Output**: the thrownness void
 
 ### ✓ 2026-04-01: Write article on the initiation void
 - **Type**: expand-topic
