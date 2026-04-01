@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the initiation void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-initiation-void-2026-03-30.md. The cognitive impossibility of witnessing one's own consciousness beginning — you cannot observe the transition from non-consciousness to consciousness because observation requires consciousness already running. Connects to free-will, phenomenology-of-choice-and-volition, spontaneous-thought-void, agency-verification-void. Target section: voids/ (98/100, 2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-01
-
 ### P2: Write article on the thrownness void
 - **Type**: expand-topic
 - **Status**: pending
@@ -1819,6 +1812,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Write article on the initiation void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-initiation-void-2026-03-30.md. The cognitive impossibility of witnessing one's own consciousness beginning — you cannot observe the transition from non-consciousness to consciousness because observation requires consciousness already running. Connects to free-will, phenomenology-of-choice-and-volition, spontaneous-thought-void, agency-verification-void. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: the initiation void
 
 ### ✓ 2026-03-31: Deep review testing-consciousness-collapse.md post-coalesce
 - **Type**: deep-review

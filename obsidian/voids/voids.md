@@ -111,6 +111,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
 - [[transition-void|The Transition Void]] — Why consciousness cannot witness its own state transitions
 - [[agency-verification-void|The Agency Verification Void]] — Why consciousness cannot verify its own causal powers
+- [[initiation-void|The Initiation Void]] — Why consciousness cannot witness the onset of its own mental acts
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
 - [[explanatory-void|The Explanatory Void]] — Why explanation cannot explain itself
