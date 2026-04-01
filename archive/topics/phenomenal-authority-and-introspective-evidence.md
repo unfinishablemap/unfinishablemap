@@ -49,6 +49,11 @@ last_deep_review: 2026-03-31T14:38:00+00:00
 coalesced_from:
   - "/topics/phenomenal-conservatism-and-introspective-evidence/"
   - "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"
+archived: true
+archived_date: 2026-04-01T20:41:00+00:00
+superseded_by: "/topics/phenomenal-authority-and-first-person-evidence/"
+archive_reason: "Coalesced into Phenomenal Authority and First-Person Evidence"
+original_path: "/topics/phenomenal-authority-and-introspective-evidence/"
 ---
 
 When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority*—the special epistemic standing of first-person reports about conscious experience—is a load-bearing pillar of the case for dualism. Michael Huemer's phenomenal conservatism provides the epistemological grounding: if it seems to you that something is the case, you have at least prima facie justification for believing it, unless you have specific reasons to doubt. When experience presents itself as qualitative, unified, and subjective, these presentations deserve default trust as evidence. The question becomes not whether introspective evidence can earn its keep, but whether materialists have adequate defeaters for what consciousness presents.

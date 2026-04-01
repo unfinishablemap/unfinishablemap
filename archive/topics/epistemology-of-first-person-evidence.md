@@ -57,6 +57,11 @@ coalesced_from:
   - "/topics/epistemology-of-introspection-and-calibration/"
   - "/topics/epistemology-of-phenomenal-reports/"
   - "/topics/phenomenological-method-and-evidence-standards/"
+archived: true
+archived_date: 2026-04-01T20:41:00+00:00
+superseded_by: "/topics/phenomenal-authority-and-first-person-evidence/"
+archive_reason: "Coalesced into Phenomenal Authority and First-Person Evidence"
+original_path: "/topics/epistemology-of-first-person-evidence/"
 ---
 
 Consciousness science depends on first-person evidence — introspective reports of what experience is like — yet this evidence has no parallel in any other domain. It cannot be verified by external instruments, calibrated against independent standards, or replicated across observers in the way physical measurements can. The Unfinishable Map's arguments for dualism rest on taking this evidence seriously: the [[hard-problem-of-consciousness|hard problem]] arises because introspective knowledge reveals features of experience that physical description cannot capture. Understanding what introspection provides, how reliable it is, and why phenomenal reports are indispensable to science is therefore foundational to the Map's entire project.

@@ -49,10 +49,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-04-01
 
-### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological-method-and-evidence-standards insights
+### P2: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
 - **Type**: cross-review
-- **Notes**: New article phenomenological-method-and-evidence-standards.md (2026-03-31) provides a systematic evidence taxonomy and methodological framework. Review epistemology-of-first-person-evidence.md for cross-links, reinforcing arguments, or terminology to align. Both address phenomenological evidence but from different angles.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Notes**: Coalesce created phenomenal-authority-and-first-person-evidence.md. ~35 active content files reference the archived slugs (phenomenal-authority-and-introspective-evidence, epistemology-of-first-person-evidence) and may need wikilinks updated to the new slug. Archive preserves URLs but internal links should point to the live article.
+- **Source**: coalesce
 - **Generated**: 2026-04-01
 
 ### P2: Cross-review necessary-opacity.md considering initiation-void insights

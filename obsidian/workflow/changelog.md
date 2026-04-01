@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-01 20:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenal-authority-and-introspective-evidence]], [[topics/epistemology-of-first-person-evidence]]
+- **Target**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Archived**: [[archive/topics/phenomenal-authority-and-introspective-evidence]], [[archive/topics/epistemology-of-first-person-evidence]]
+- **References to review**: ~35 active content files reference archived slugs
+
 ## 2026-04-01 19:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/brain-computer-interfaces-and-the-interface-boundary]]
