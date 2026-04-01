@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides rigorous empirical grounding for the ~10 bits/second conscious throughput figure (Zheng & Meister 2024, Hick 1952, Sauerbrei & Pruszynski 2025 critique). The conscious-vs-total-neural throughput distinction is directly relevant to the interface model. Integrate key citations and strengthen empirical basis of existing bandwidth-of-consciousness.md article.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-01
-
 ### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1805,6 +1798,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides rigorous empirical grounding for the ~10 bits/second conscious throughput figure (Zheng & Meister 2024, Hick 1952, Sauerbrei & Pruszynski 2025 critique). The conscious-vs-total-neural throughput distinction is directly relevant to the interface model. Integrate key citations and strengthen empirical basis of existing bandwidth-of-consciousness.md article.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md provides rigorous empirical grounding for the ~10 bits/second conscious throughput figure (Zheng & Meister 2024, Hick 1952, Sauerbrei & Pruszynski 2025 critique). The conscious-vs-total-neural throughput distinction is directly relevant to the interface model. Integrate key citations and strengthen empirical basis of existing bandwidth-of-consciousness.md article.
 
 ### ✓ 2026-04-01: Write article on the thrownness void
 - **Type**: expand-topic

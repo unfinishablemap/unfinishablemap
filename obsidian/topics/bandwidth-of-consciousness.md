@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-03-31T16:38:00+00:00
+ai_modified: 2026-04-01T03:39:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel, not a production line."
 topics:
@@ -64,11 +64,12 @@ Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness o
 | Professional Tetris | ~7 bits/second | piece placement decisions per second |
 | Expert typing (120 wpm) | ~10 bits/second | ~10 keystrokes/s × ~1 bit/char (Shannon redundancy) |
 | Professional StarCraft | ~10 bits/second | actions per minute × information content |
+| Rubik's cube (speed solving, sighted) | ~12 bits/second | move information / solve time |
 | Speed cards (memory sport) | ~18 bits/second | 52 cards × log₂(52!) bits / inspection time |
 
-All figures use Shannon information theory: entropy of the decision space divided by time, not subjective difficulty. Reading (~45 bits/s) and speech production (~39 bits/s; Coupé et al. 2019) appear higher because they measure the *information content of the output signal*, not the rate of novel conscious decisions—much of reading and speech is automated. Coupé et al. found that all 17 languages studied converge on ~39 bits/second of speech information, a cognitive constraint independent of grammar.
+All figures use Shannon information theory: entropy of the decision space divided by time, not subjective difficulty or introspective report. The methodology is straightforward—define the decision space, calculate its entropy, divide by elapsed time—and applies identically across all domains, which is why the convergence on ~10 bits/s is so striking. Reading (~45 bits/s) and speech production (~39 bits/s; Coupé et al. 2019) appear higher because they measure the *information content of the output signal*, not the rate of novel conscious decisions—much of reading and speech is automated. Coupé et al. found that all 17 languages studied converge on ~39 bits/second of speech information, a cognitive constraint independent of grammar.
 
-The ceiling holds regardless of training, talent, or task type. Hick (1952) measured "the rate of gain of information" at ~5 bits per second; Hyman (1953) confirmed the logarithmic relationship—together establishing the Hick-Hyman Law. Miller (1956) identified the related ~7-chunk capacity limit, showing that chunking works *around* channel capacity without removing it. Over seven decades of measurement, the ceiling has held across tasks, populations, and historical periods—a structural feature, not an experimental artefact.
+The ceiling holds regardless of training, talent, or task type. Hick (1952) measured "the rate of gain of information" at ~5 bits per second—constant across task durations and number of alternatives. Hyman (1953) confirmed the logarithmic relationship with an average slope of ~150 ms per bit, together establishing the Hick-Hyman Law. Miller (1956) identified complementary capacity limits: ~2.5 bits per dimension in absolute judgement (distinguishing about 6 levels, not hundreds) and ~7 chunks in immediate memory. Chunking works *around* channel capacity without removing it. Pierce and Karlin (1957) extended the information-theoretic approach to reading performance, treating human reading aloud as a Shannon channel—converging on the same order-of-magnitude ceiling. Over seven decades of measurement, the ceiling has held across tasks, populations, and historical periods—a structural feature, not an experimental artefact.
 
 Zheng and Meister call the ratio between sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—"the largest unexplained number in brain science." The puzzle deepens at storage: the brain retains only ~1 gigabyte over a lifetime, far below its ~50 terabyte capacity.
 
@@ -156,6 +157,8 @@ Zheng and Meister propose that serial conscious processing was inherited from pr
 
 The Map offers an alternative. If the ~10 bits/s ceiling reflects the capacity of a mind-brain *interface*, evolutionary pressure on brain architecture alone could not raise it. Evolution can optimise the brain's side—preparing better options faster—but cannot widen a channel whose narrow end is non-physical. This explains why the ceiling holds from Hick's 1952 experiments through 2024 professional e-sports telemetry.
 
+A suggestive clue to the bottleneck's specific value: the brain's alpha rhythm oscillates at ~10 Hz, close to the ~10 bits/s ceiling. If each alpha cycle corresponds to one conscious "sample" carrying roughly 1 bit, the oscillation frequency would set the channel's capacity. No rigorous connection has been established, but the coincidence points toward the interface operating at the timescale of the brain's dominant idle rhythm—consistent with consciousness synchronising to neural oscillations rather than being limited by computational throughput.
+
 ## The Bandwidth and Free Will
 
 The constraint reshapes the free will debate. Libertarian free will doesn't require consciousness to override neural output—it requires consciousness to *bias* ~3–4 selections per second among options the brain has prepared. The Map locates this selection at points of [[quantum-indeterminacy-free-will|quantum indeterminacy]]. The bandwidth constraint tells us how many such selections per second are plausible: a few, not millions.
@@ -223,6 +226,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
 1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
+1. Pierce, J.R. & Karlin, J.E. (1957). Reading rates and the information rate of a human channel. *Bell System Technical Journal*, 36(2), 497–516.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
@@ -230,14 +234,16 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 
-<!-- AI REFINEMENT LOG - 2026-03-31
+<!-- AI REFINEMENT LOG - 2026-04-01
 Changes made:
-- Added Nørretranders' "user illusion" metaphor to filter theory section — consciousness as simplified desktop, not the underlying computation
-- Added Nørretranders' specific conscious throughput estimate (~16-20 bits/s) to inbound channel section, noting refinement toward ~10
-- Added Hick's direct quote about "rate of gain of information" being constant
+- Added Rubik's cube (sighted, ~12 bits/s) to measurement table, strengthening convergence evidence
+- Expanded methodology explanation: Shannon information theory applied to observable behavior, not introspection
+- Added Hyman's ~150 ms/bit slope and Miller's ~2.5 bits/dimension absolute judgement figure for empirical specificity
+- Added Pierce & Karlin (1957) Bell Labs reading-as-channel measurement to historical chain and references
+- Added alpha oscillation connection (~10 Hz ≈ ~10 bits/s) as suggestive open question in evolutionary puzzle section
 
 Based on research/bandwidth-constraints-10-bits-2026-03-29.md.
-Key improvements: The user illusion metaphor strengthens the filter theory argument by providing an intuitive model for how a narrow interface can be functional rather than defective.
+Key improvements: Strengthened empirical grounding with additional measurement data, earlier historical citations, and the intriguing alpha rhythm connection.
 
 This log should be removed after human review.
 -->

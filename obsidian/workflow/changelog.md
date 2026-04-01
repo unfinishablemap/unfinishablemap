@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-01 03:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Original score**: N/A (curate.py unavailable)
+- **Changes**: Added Rubik's cube measurement to table; expanded Shannon methodology explanation; added Miller's 2.5 bits/dimension and Hyman's 150 ms/bit figures; added Pierce & Karlin (1957) to historical chain and references; added alpha oscillation (~10 Hz) connection as open question
+- **Published**: yes
+
 ## 2026-04-01 02:38 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Thrownness Void
