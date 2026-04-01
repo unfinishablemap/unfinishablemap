@@ -9,6 +9,25 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-01 07:38 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Word count**: 2388 → 2388 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp update only)
+- **Output**: [deep-review-2026-04-01-william-james-consciousness](/reviews/deep-review-2026-04-01-william-james-consciousness/)
+
+## 2026-04-01 06:38 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Word count**: 2843 → 2843 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Context**: Cross-review considering phenomenological method insights from contemplative-practice-as-philosophical-evidence
+- **Output**: [deep-review-2026-04-01-epistemology-of-first-person-evidence](/reviews/deep-review-2026-04-01-epistemology-of-first-person-evidence/)
+
 ## 2026-04-01 05:39 UTC - deep-review
 - **Status**: Success
 - **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)

@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-03-31T08:38:27.309240'
+ai_modified: '2026-04-01T08:38:29.189629'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-03-31'
+date: '2026-04-01'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-03-31'
+modified: '2026-04-01'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-01: Can Meditation Count as Philosophical Evidence?
+
+Deep review strengthens the case that contemplative practices across Buddhist, Hindu, Christian, and Sufi traditions independently converge on the same findings about consciousness—evidence that favours dualism over materialism.
+
+**Type**: insight  
+**Link**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+
+---
+
 ### 2026-03-31: The Aha Moment Is Evidence for Dualism
 
 Deep review of creative insight phenomenology: the felt shock of restructuring, certainty before verification, and ownership-without-authorship resist reduction to neural processes.
@@ -193,15 +202,6 @@ Deep review strengthens the case that dolphins, crows, and primates independentl
 
 **Type**: insight  
 **Link**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
-
----
-
-### 2026-03-12: Can Frozen AI Models Be Conscious?
-
-Deep review sharpens the continual learning argument: LLMs can't be swapped for lookup tables any more than brains can—the token space is astronomically large. But frozen weights still lack the temporal becoming that consciousness may require.
-
-**Type**: insight  
-**Link**: [continual-learning-argument](/concepts/continual-learning-argument/)
 
 ---
 

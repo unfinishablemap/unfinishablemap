@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) develops Husserl's adequate/apodictic distinction and neurophenomenological validation. Check epistemology-of-first-person-evidence.md for cross-links, shared arguments about first-person evidence legitimacy, and opportunities to reference the new article's evidence taxonomy.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-01
-
 ### P2: Address logical gaps in ethics-of-possible-ai-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1798,6 +1791,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-03-31) develops Husserl's adequate/apodictic distinction and neurophenomenological validation. Check epistemology-of-first-person-evidence.md for cross-links, shared arguments about first-person evidence legitimacy, and opportunities to reference the new article's evidence taxonomy.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md -- Context: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method insights
 
 ### ✓ 2026-04-01: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method insights
 - **Type**: cross-review

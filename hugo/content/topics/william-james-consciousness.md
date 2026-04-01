@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-18 05:14:00+00:00
+ai_modified: 2026-04-01 07:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: James's radical empiricism treats experience as fundamental reality
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-09 19:42:00+00:00
+last_deep_review: 2026-04-01 07:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
