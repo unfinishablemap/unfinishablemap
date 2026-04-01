@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-01 06:38:00+00:00
+ai_modified: 2026-04-01 11:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: What introspection provides, how reliable it is, and why phenomenal
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 06:38:00+00:00
+last_deep_review: 2026-04-01 11:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,6 +53,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
 - '[[phenomenal-authority-and-introspective-evidence]]'
+- '[[phenomenological-method-and-evidence-standards]]'
 title: The Epistemology of First-Person Evidence
 topics:
 - '[[epistemology]]'
@@ -73,7 +74,7 @@ A purely third-person neuroscience of consciousness cannot escape this dependenc
 
 ## The Phenomenological Method
 
-[Phenomenological method](/concepts/phenomenology/) is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
+[Phenomenological method](/topics/phenomenological-method-and-evidence-standards/) is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
 
 These operations require training and sustained practice. [Phenomenological evidence](/concepts/phenomenological-evidence/) becomes more reliable as methodological discipline increases — [introspective accuracy](/concepts/introspection/) follows a skill-acquisition curve where trained observers reliably outperform untrained ones (Fox et al. 2012), and [contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) produces convergent findings across independent traditions.
 
@@ -190,6 +191,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why strict calibration is structurally impossible
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as methodology
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The mutual constraint framework validating trained introspection
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Why phenomenological evidence standards are irreducible to naturalist criteria
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [galilean-exclusion](/concepts/galilean-exclusion/) — How modern science excluded the subjective
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Formal conditions for when convergence carries evidential weight

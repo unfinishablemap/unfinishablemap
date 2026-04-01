@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md provides a systematic phenomenological methodology that directly bears on the epistemological framework in epistemology-of-first-person-evidence.md. Check for redundancy, cross-links, and whether the new article's Husserlian evidence taxonomy should be referenced or integrated.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-01
-
-### P2: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Two new voids articles created 2026-04-01: initiation-void.md (consciousness cannot witness its own beginning) and thrownness-void.md (inaccessibility of pre-constitutional conditions). The taxonomy-of-voids apex article should integrate these new void types. Check whether the existing void classification accommodates them or needs extension, and add cross-references.
-- **Source**: chain (from initiation-void.md, thrownness-void.md)
-- **Generated**: 2026-04-01
-
 ### P2: Deep review attention-and-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1818,8 +1804,53 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-30
 
+### P3: Write article on phenomenology of temporal experience under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Husserl's time-consciousness, the specious present, experience of duration — integrating initiation-void and thrownness-void with bandwidth-of-consciousness (~3-4 selections/s). Shows how dualist framework illuminates temporal experience in ways physicalist accounts cannot. Builds on initiation-void, thrownness-void, phenomenology-of-choice-and-volition, bandwidth-of-consciousness. Target section: topics/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write article on consciousness and mathematical understanding
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Mathematical understanding — grasping why a proof works — involves distinctive conscious experience. Engages Penrose's non-computability argument through the Map's interface model without committing to his stronger claims. Builds on argument-from-reason, bandwidth-of-consciousness, baseline-cognition. Target section: topics/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write article on the interface in sleep and dreaming
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Systematic treatment of what happens to the ~10 bits/s interface during NREM sleep, REM dreaming, and lucid dreaming. Different sleep stages as different interface configurations. Builds on dream-consciousness, bandwidth-of-consciousness, filter-theory, anaesthesia-and-the-consciousness-interface. Target section: topics/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write concept page on stochastic threshold model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Schurger's reinterpretation of Libet's readiness potential as stochastic neural noise crossing a decision threshold — referenced in initiation-void with implications across free will, agency, and quantum consciousness clusters. Deserves dedicated concept page. Target section: concepts/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
+### P3: Write concept page on confound of embodiment
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The fundamental experimental obstacle: every conscious observer is also a physical system. Referenced in testing-consciousness-collapse as the core problem for Tier 2 predictions. Recurs across the empirical programme and deserves dedicated treatment. Target section: concepts/. See optimistic-2026-04-01.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-01
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
+- **Type**: cross-review
+- **Notes**: Two new voids articles created 2026-04-01: initiation-void.md (consciousness cannot witness its own beginning) and thrownness-void.md (inaccessibility of pre-constitutional conditions). The taxonomy-of-voids apex article should integrate these new void types. Check whether the existing void classification accommodates them or needs extension, and add cross-references.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
+
+### ✓ 2026-04-01: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method article
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md provides a systematic phenomenological methodology that directly bears on the epistemological framework in epistemology-of-first-person-evidence.md. Check for redundancy, cross-links, and whether the new article's Husserlian evidence taxonomy should be referenced or integrated.
+- **Output**: obsidian/topics/epistemology-of-first-person-evidence.md -- Context: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method article
 
 ### ✓ 2026-04-01: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method article
 - **Type**: cross-review

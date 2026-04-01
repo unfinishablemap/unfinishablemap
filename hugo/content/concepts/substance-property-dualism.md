@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-01 13:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,6 +19,7 @@ concepts:
 - '[[haecceity]]'
 - '[[causal-closure]]'
 - '[[emergence]]'
+- '[[panpsychism]]'
 created: 2026-01-14
 date: &id001 2026-01-16
 description: 'Two forms of dualism: separate mental substances versus irreducible
@@ -27,7 +28,7 @@ description: 'Two forms of dualism: separate mental substances versus irreducibl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-09 12:16:00+00:00
+last_deep_review: 2026-04-01 13:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

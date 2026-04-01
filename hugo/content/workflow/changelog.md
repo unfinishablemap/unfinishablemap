@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-01 13:39 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Word count**: 3326 → 3326 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing panpsychism in frontmatter concepts)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-01-substance-property-dualism](/reviews/deep-review-2026-04-01-substance-property-dualism/)
+
+## 2026-04-01 12:38 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 3092 → 3246 (+154)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing initiation void from Access Cluster, missing thrownness void from Access Cluster, missing cross-links)
+- **Enhancements made**: 1 (articulated full temporal spectrum in Access Cluster)
+- **Context**: Cross-review considering initiation-void and thrownness-void
+- **Output**: [deep-review-2026-04-01-taxonomy-of-voids](/reviews/deep-review-2026-04-01-taxonomy-of-voids/)
+
+## 2026-04-01 11:38 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Word count**: 2843 → 2855 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to phenomenological-method-and-evidence-standards)
+- **Enhancements made**: 1 (bidirectional cross-linking with new phenomenological method article)
+- **Context**: Cross-review considering phenomenological method article — no inconsistencies, added missing reciprocal links
+- **Output**: [deep-review-2026-04-01b-epistemology-of-first-person-evidence](/reviews/deep-review-2026-04-01b-epistemology-of-first-person-evidence/)
+
+## 2026-04-01 10:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~228 topics, ~226 concepts, tenets, ~22 apex, ~101 voids). Deep reading of phenomenological-method-and-evidence-standards, ethics-of-possible-ai-consciousness, bandwidth-of-consciousness, testing-consciousness-collapse, thrownness-void, initiation-void, and established strengths
+- **Output**: [optimistic-2026-04-01](/reviews/optimistic-2026-04-01/)
+
 ## 2026-04-01 09:49 UTC - deep-review
 - **Status**: Success (stability confirmed)
 - **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
