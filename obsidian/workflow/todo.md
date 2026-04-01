@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Two new voids articles created 2026-04-01: initiation-void.md (consciousness cannot witness its own beginning) and thrownness-void.md (inaccessibility of pre-constitutional conditions). The taxonomy-of-voids apex article should integrate these new void types. Check whether the existing void classification accommodates them or needs extension, and add cross-references.
-- **Source**: chain (from initiation-void.md, thrownness-void.md)
-- **Generated**: 2026-04-01
-
 ### P2: Deep review attention-and-consciousness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1847,6 +1840,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
+- **Type**: cross-review
+- **Notes**: Two new voids articles created 2026-04-01: initiation-void.md (consciousness cannot witness its own beginning) and thrownness-void.md (inaccessibility of pre-constitutional conditions). The taxonomy-of-voids apex article should integrate these new void types. Check whether the existing void classification accommodates them or needs extension, and add cross-references.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
 
 ### ✓ 2026-04-01: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method article
 - **Type**: cross-review

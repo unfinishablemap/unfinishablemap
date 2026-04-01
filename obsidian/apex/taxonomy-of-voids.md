@@ -3,10 +3,10 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-03-28T02:43:00+00:00
+ai_modified: 2026-04-01T12:38:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
-last_deep_review: 2026-03-24T15:07:00+00:00
+last_deep_review: 2026-04-01T12:38:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -21,6 +21,8 @@ related_articles:
   - "[[convergence-as-evidence]]"
   - "[[resonance-void]]"
   - "[[phenomenal-presence-void]]"
+  - "[[initiation-void]]"
+  - "[[thrownness-void]]"
 
 ai_contribution: 100
 author: null
@@ -88,6 +90,8 @@ The [[resonance-void|resonance void]] complicates this cluster in an important w
 A third domain concerns boundaries between conscious states. The [[sleep-consciousness-void|dream consciousness void]] marks the bidirectional inaccessibility between waking and dreaming. The [[transition-void|transition void]] names the impossibility of witnessing one's own state changes. The [[sleep-consciousness-void|dreamless sleep void]] asks where consciousness goes during deep sleep. The [[death-void|death void]]—perhaps the purest limit—marks where consciousness cannot represent its own cessation.
 
 These voids trace the temporal grain of consciousness: its inability to observe its own transitions, its discontinuities, its absences. They suggest consciousness is not a continuous stream that happens to have gaps but something whose very structure precludes self-observation at boundary points.
+
+The [[initiation-void|initiation void]] and [[thrownness-void|thrownness void]] complete this temporal arc. The initiation void identifies a structural impossibility: consciousness cannot precede itself to observe itself beginning, so every mental act—deciding, attending, remembering—is already underway when awareness arrives. Libet's timing experiments provided the empirical touchstone, but the void is deeper than any measurement: it generates an immediate regress, since the act of observing initiation is itself a mental act whose initiation is hidden. The thrownness void extends this to consciousness's most fundamental boundary: the pre-constitutional moment, the transition from non-existence to existence that no witness can attend. Four independent traditions—Heidegger's *Geworfenheit*, Sartre's facticity, Levinas's *il y a*, Arendt's natality—converge on the same structure, strengthening the case that this is a genuine limit rather than a philosophical artefact. Together, these voids trace a full spectrum of temporal opacity: from the hiddenness of each act's onset, through state-change blindness, to the inaccessibility of consciousness's own origin and cessation.
 
 ### The Interpersonal and Social Cluster
 

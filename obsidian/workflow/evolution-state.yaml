@@ -1,6 +1,6 @@
-last_updated: '2026-04-01T10:38:01.486512+00:00'
-session_count: 5304
-cycle_position: 4932
+last_updated: '2026-04-01T11:38:01.486821+00:00'
+session_count: 5305
+cycle_position: 4933
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-01T11:38:43.927392+00:00'
+  agentic-social: '2026-04-01T12:38:54.764222+00:00'
 last_git_push: '2026-04-01T09:38:01.486153+00:00'
 last_tweet_date: '2026-04-01'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-03-31'
-  outcome: success
 - task: condense (obsidian/topics/bandwidth-of-consciousness.md)
   type: condense
   date: '2026-03-31'
@@ -130,10 +126,14 @@ recent_tasks:
   type: optimistic-review
   date: '2026-04-01'
   outcome: success
+- task: deep-review (obsidian/topics/epistemology-of-first-person-evide)
+  type: deep-review
+  date: '2026-04-01'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/heterophenomenology/
-    date: '2026-04-01T11:38:43.927359+00:00'
+  - url: https://unfinishablemap.org/topics/quantum-measurement-and-subjective-probability/
+    date: '2026-04-01T12:38:54.764188+00:00'
     topics:
-    - consciousness
-    - methodology-of-consciousness-research
+    - hard-problem-of-consciousness
+    - indexical-identity-quantum-measurement
