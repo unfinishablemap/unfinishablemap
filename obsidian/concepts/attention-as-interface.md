@@ -247,7 +247,7 @@ The hypothesis would fail if:
 
 **Core concepts**: [[mental-effort]], [[concepts/consciousness-selecting-neural-patterns]], [[psychophysical-laws]], [[brain-interface-boundary]], [[coupling-modes]], [[attentional-economics]], [[attention-and-the-consciousness-interface|Attention Disorders and the Interface]], [[attention-disorders-and-consciousness|The Epistemological Void of Attention Disorders]], [[epistemology-of-mechanism-at-the-consciousness-matter-interface|Epistemology of Interface Mechanism]]
 
-**Motor convergence**: [[motor-selection]], [[dopamine-and-the-unified-interface]]
+**Motor convergence**: [[motor-selection]], [[dopamine-and-the-unified-interface]], [[brain-computer-interfaces-and-the-interface-boundary|BCIs and the interface boundary]]
 
 **Voluntary control**: [[voluntary-attention-control-mechanisms]] — frontal theta, salience switching, and thalamic gating
 

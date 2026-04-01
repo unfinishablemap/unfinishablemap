@@ -4,7 +4,7 @@ description: "BCIs test whether conscious control can extend beyond the brain's 
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-03-15T12:19:00+00:00
+ai_modified: 2026-04-01T19:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-03-15T12:19:00+00:00
+last_deep_review: 2026-04-01T19:38:00+00:00
 ---
 
 Brain-computer interfaces present the most direct empirical test of The Unfinishable Map's [[brain-specialness-boundary|brain specialness boundary]]. If consciousness can only bias quantum outcomes in neural systems built through developmental integration, what happens when technology connects new hardware to the brain? BCIs bypass the evolutionary timescale—a person can gain control over a robotic arm, a cursor, or a speech synthesiser within weeks. If the developmental integration constraint is fundamental, BCIs should reveal its limits. If it bends, the Map's account of why consciousness stays brain-local needs revision.
@@ -149,4 +149,6 @@ None of these has been demonstrated. Current BCI evidence is consistent with the
 
 5. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Brain Specialness Problem: Why Not Psychokinesis? *The Unfinishable Map*. https://unfinishablemap.org/topics/brain-specialness-boundary/
 
-6. Southgate, A. & Oquatre-six, C. (2026-02-09). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
+6. Clark, A., & Chalmers, D. (1998). The extended mind. *Analysis*, 58(1), 7-19.
+
+7. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-and-the-consciousness-interface/

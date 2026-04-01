@@ -199,6 +199,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies to the hier
 - [[mind-matter-interface]] — The two-layer architecture unifying filter theory and quantum selection
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the selection interface through salience marking and threshold modulation
 - [[brain-interface-boundary]] — Why consciousness acts only in brains (the five criteria)
+- [[brain-computer-interfaces-and-the-interface-boundary]] — BCIs as empirical test of the interface boundary
 - [[concepts/consciousness-selecting-neural-patterns]] — The proposed selection mechanism in detail
 - [[quantum-consciousness]] — Quantum selection mechanisms (Stapp, Orch OR)
 - [[decoherence]] — The quantum coherence challenge in biological systems

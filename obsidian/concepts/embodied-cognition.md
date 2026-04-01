@@ -120,7 +120,7 @@ Clark and Chalmers' extended mind thesis generated extensive debate. The "parity
 
 Critics respond with the "coupling-constitution fallacy" (Adams and Aizawa). Just because something is coupled to cognition doesn't mean it's part of cognition. Your car is coupled to your transportation but isn't part of you. We need principled criteria—a "mark of the cognitive"—to distinguish cognitive processes from their external supports.
 
-This debate matters for consciousness studies because it concerns boundaries. If cognition has disputed boundaries, what about consciousness? Clark himself distinguishes extended cognition from extended consciousness—the thesis is about information processing, not phenomenal experience. This distinction allows embodied cognition to remain neutral on whether consciousness reduces to physical processes.
+This debate matters for consciousness studies because it concerns boundaries. If cognition has disputed boundaries, what about consciousness? Clark himself distinguishes extended cognition from extended consciousness—the thesis is about information processing, not phenomenal experience. [[brain-computer-interfaces-and-the-interface-boundary|Brain-computer interfaces]] provide the most direct test of this distinction: BCI users gain functional control over external devices, but the conscious selection mechanism remains in motor cortex — the processing loop extends while the phenomenal interface does not. This distinction allows embodied cognition to remain neutral on whether consciousness reduces to physical processes.
 
 ## Enactivism
 

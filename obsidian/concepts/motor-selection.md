@@ -225,6 +225,7 @@ This framework identifies *where* consciousness might influence motor selection�
 - [[voluntary-attention-control-mechanisms]] — Neural signatures of willed attention
 - [[attention-as-interface]] — The interface hypothesis foundation
 - [[dopamine-and-the-unified-interface]] — How dopamine prepares the unified attention-motor system for conscious selection
+- [[brain-computer-interfaces-and-the-interface-boundary]] — BCIs test whether motor selection extends beyond the brain
 - [[mental-causation-and-downward-causation|downward causation]] — How consciousness affects neural processes
 - [[phenomenology-of-choice-and-volition]] — The experiential structure of choosing
 - [[libet-experiments]] — Detailed analysis of readiness potential experiments

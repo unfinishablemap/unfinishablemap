@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate brain-computer-interfaces-and-the-interface-boundary.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has only 1 inbound wikilink from content files. Add cross-references from related articles (mind-matter-interface, neural-correlates-of-consciousness, consciousness-brain-interface-across-development) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-01
-
 ### P2: Integrate fitness-beats-truth.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept page has only 1 inbound wikilink from content files. Hoffman's fitness-beats-truth theorem is relevant to multiple articles (evolution-under-dualism, epistemic-advantages-of-dualism, consciousness-and-scientific-methodology). Add cross-references from related articles.
@@ -1862,6 +1856,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Integrate brain-computer-interfaces-and-the-interface-boundary.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound wikilink from content files. Add cross-references from related articles (mind-matter-interface, neural-correlates-of-consciousness, consciousness-brain-interface-across-development) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/brain-computer-interfaces-and-the-interface-boundary.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-01: Deep review conceptual-impossibility.md
 - **Type**: deep-review
