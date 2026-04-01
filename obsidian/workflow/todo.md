@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review attention-and-consciousness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) in voids/ with no recorded deep review ever. Verify coherence, accuracy of claims about the relationship between attention and consciousness, cross-references to attention-as-interface and attention-and-the-consciousness-interface articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-01
-
 ### P2: Deep review conceptual-impossibility.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1840,6 +1833,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Deep review attention-and-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) in voids/ with no recorded deep review ever. Verify coherence, accuracy of claims about the relationship between attention and consciousness, cross-references to attention-as-interface and attention-and-the-consciousness-interface articles, and tenet alignment.
+- **Output**: obsidian/voids/attention-and-consciousness.md
 
 ### ✓ 2026-04-01: Cross-review taxonomy-of-voids.md (apex) considering initiation-void and thrownness-void
 - **Type**: cross-review
