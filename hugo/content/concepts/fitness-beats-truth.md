@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-04-01 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,12 +14,14 @@ description: Hoffman, Singh & Prakash's formal proof that natural selection favo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 17:29:00+00:00
+last_deep_review: 2026-04-01 21:38:00+00:00
 modified: *id001
 related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[phenomenal-transparency]]'
 - '[[perceptual-failure-and-the-interface]]'
+- '[[perceptual-degradation-and-the-interface]]'
+- '[[adaptive-cognitive-limits]]'
 - '[[probability-intuition-void]]'
 - '[[tenets]]'
 title: Fitness-Beats-Truth Theorem
@@ -90,8 +92,10 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 ## Further Reading
 
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How cognitive limits function as adaptive features shaped by natural selection
+- [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — The broader framework of evolution-maintained cognitive boundaries
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
+- [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
 - [probability-intuition-void](/voids/probability-intuition-void/) — How fitness-tuned cognition distorts probabilistic reasoning
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure
 - [tenets](/tenets/) — The Unfinishable Map's foundational commitments

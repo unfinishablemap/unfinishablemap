@@ -1,0 +1,259 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-02-09
+ai_modified: 2026-04-01 20:41:00+00:00
+ai_system: claude-opus-4-6
+author: null
+coalesced_from:
+- /topics/phenomenal-conservatism-and-introspective-evidence/
+- /topics/phenomenal-authority-epistemic-weight-first-person-reports/
+- /topics/epistemology-of-introspection-and-calibration/
+- /topics/epistemology-of-phenomenal-reports/
+- /topics/phenomenological-method-and-evidence-standards/
+- /topics/phenomenal-authority-and-introspective-evidence/
+- /topics/epistemology-of-first-person-evidence/
+concepts:
+- '[[introspection]]'
+- '[[phenomenal-acquaintance]]'
+- '[[qualia]]'
+- '[[phenomenological-evidence]]'
+- '[[illusionism]]'
+- '[[metacognition]]'
+- '[[interactionist-dualism]]'
+- '[[acquaintance-knowledge]]'
+- '[[self-stultification]]'
+- '[[heterophenomenology]]'
+- '[[phenomenal-consciousness]]'
+- '[[phenomenology]]'
+- '[[intersubjectivity]]'
+- '[[contemplative-epistemology]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
+- '[[witness-consciousness]]'
+- '[[explanatory-gap]]'
+- '[[galilean-exclusion]]'
+- '[[mysterianism]]'
+created: 2026-02-09
+date: &id001 2026-04-01
+description: First-person reports carry layered epistemic authority grounded in acquaintance
+  and phenomenal conservatism. Husserl's evidence taxonomy, competing models of introspection,
+  and five calibration strategies establish the evidential base for dualism against
+  materialist dismissal.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-04-01 11:38:00+00:00
+modified: *id001
+related_articles:
+- '[[tenets]]'
+- '[[epistemic-advantages-of-dualism]]'
+- '[[dualism]]'
+- '[[modal-structure-of-phenomenal-properties]]'
+- '[[self-opacity]]'
+- '[[knowledge-argument]]'
+- '[[argument-from-reason]]'
+- '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
+- '[[neurophenomenology-and-contemplative-neuroscience]]'
+- '[[phenomenal-concepts-as-materialist-response]]'
+- '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
+- '[[introspection-reliability-first-person-2026-01-15]]'
+- '[[ethics-and-value-in-a-dualist-world]]'
+- '[[observation-and-measurement-void]]'
+- '[[intersubjective-void]]'
+- '[[objectivity-and-consciousness]]'
+- '[[epistemology-of-convergence-arguments]]'
+- '[[epistemology-of-other-minds-under-dualism]]'
+- '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
+- '[[phenomenology-of-intellectual-life]]'
+- '[[phenomenological-method-and-evidence-standards]]'
+title: Phenomenal Authority and First-Person Evidence
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[epistemology]]'
+- '[[methodology-of-consciousness-research]]'
+- '[[consciousness-and-testimony]]'
+- '[[consciousness-and-science]]'
+---
+
+When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority* — the special epistemic standing of first-person reports about conscious experience — is a load-bearing pillar of the case for dualism. Michael Huemer's phenomenal conservatism provides the epistemological grounding: if it seems to you that something is the case, you have at least prima facie justification for believing it, unless you have specific reasons to doubt. Husserl's evidence taxonomy provides the structural framework: different layers of phenomenal evidence carry different degrees of warrant, and the Map's core arguments draw from where authority is strongest.
+
+Consciousness science depends on first-person evidence — introspective reports of what experience is like — yet this evidence has no parallel in any other domain. It cannot be verified by external instruments, calibrated against independent standards, or replicated across observers in the way physical measurements can. Understanding what introspection provides, how reliable it is, and why phenomenal reports are indispensable to science is foundational to the Map's entire project.
+
+## Why Phenomenal Reports Are Indispensable
+
+Every empirical science rests on observations, but consciousness breaks the standard pattern: a subject reporting "I see red" makes a claim about a [phenomenal state](/concepts/phenomenal-consciousness/) that no external instrument can directly verify. The report is public; the experience is not.
+
+A purely third-person neuroscience of consciousness cannot escape this dependence. Every contrastive methodology — comparing brain states when subjects report awareness versus when they do not — relies on taking reports seriously as indicators of phenomenal states. Without subjects reporting what they experience, there is no way to distinguish neural correlates of *consciousness* from correlates of unconscious information processing. The neuroscience that eliminativists cite to debunk phenomenal reports could not have been conducted without trusting those reports as data.
+
+## The Phenomenological Method
+
+[Phenomenological method](/topics/phenomenological-method-and-evidence-standards/) is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
+
+These operations require training and sustained practice. [Phenomenological evidence](/concepts/phenomenological-evidence/) becomes more reliable as methodological discipline increases — [introspective accuracy](/concepts/introspection/) follows a skill-acquisition curve where trained observers reliably outperform untrained ones (Fox et al. 2012), and [contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) produces convergent findings across independent traditions.
+
+## Husserl's Evidence Taxonomy
+
+Husserl developed a taxonomy of evidence types that determines how much weight first-person data can bear.
+
+**Apodictic evidence** is indubitable in the strong sense that the negation is inconceivable. The existence of one's own experiencing is apodictic: doubting that one is having an experience is itself an experience. This grounds [phenomenal acquaintance](/concepts/phenomenal-acquaintance/) — the direct, non-inferential epistemic relation to qualitative character underlying the Map's case for dualism.
+
+**Adequate evidence** involves complete self-givenness — the object presented without remainder. The crucial insight from *Cartesian Meditations* (1931): "adequacy and apodicticity of evidence need not go hand in hand." One can have apodictic certainty that experience exists while lacking adequate knowledge of its content.
+
+**Assertoric evidence** is direct encounter with a particular instance without claims to necessity or completeness. **Presumptive evidence** involves what is co-intended but not directly presented — background feelings assumed to persist when unattended, dispositional beliefs assumed stable when unaccessed.
+
+## Three Layers of Phenomenal Authority
+
+Phenomenal authority decomposes into layers, each mapping onto Husserl's taxonomy:
+
+**Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility (apodictic evidence). Doubting that one is having an experience is itself an experience — the denial is self-refuting. Even introspective sceptics have almost no purchase at this level.
+
+**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it (adequate/assertoric evidence). Authority here is strong but fallible. Training demonstrably improves accuracy — meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/acquaintance-knowledge/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
+
+**Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience (assertoric/presumptive evidence). Authority is weakest here. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed or whether emotional experience has stable phenomenal signatures.
+
+The decomposition matters because the Map's core arguments draw on different layers. The [hard problem](/topics/hard-problem-of-consciousness/) rests primarily on layers 1 and 2. The [knowledge-argument](/concepts/knowledge-argument/) depends on acquaintance with phenomenal character under attention (layer 2). Challenges from introspective scepticism are strongest at layer 3, where the Map's core arguments have the least stake.
+
+## Phenomenal Conservatism and the Burden-Shifting Move
+
+Huemer formulates phenomenal conservatism (PC): if it seems to S that P, then, in the absence of defeaters, S thereby has at least some justification for believing that P. "Seemings" encompass perceptual experience, memory, introspection, and intellectual intuition. They have a distinctive phenomenal character — a felt "pushiness" toward their content that distinguishes them from wishes, guesses, or habits.
+
+Huemer's central argument for PC is the [self-defeat](/concepts/self-stultification/) charge: any alternative epistemological principle must itself seem true to those who hold it. Denying PC while relying on it is self-undermining.
+
+Applied to consciousness: pain *seems to hurt* — to have a qualitative feel beyond what functional description captures. Visual experience *seems coloured* — to present redness as a feature of consciousness itself. PC says these seemings carry prima facie justificatory weight. To deny this — as [illusionism](/concepts/illusionism/) does — requires positive reasons, not mere theoretical preference for parsimony.
+
+This reframes familiar debates. The traditional framing asks: "Can we *prove* consciousness is irreducible?" The PC framing asks: "Do we have adequate *defeaters* for the seeming that consciousness has qualitative character?" A crucial distinction: PC is strongest when applied to *what experience presents* — that pain hurts, that redness looks like something. The further claim that these qualities are *irreducible to physical processes* is a metaphysical judgement requiring additional philosophical work (the hard problem, the conceivability argument, the knowledge argument). PC secures the evidential base against dismissal; it does not replace those arguments.
+
+## Acquaintance and the Dualism Connection
+
+Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content partially constituted by the phenomenal quality itself — the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). If phenomenal knowledge cannot be deduced *a priori* from physical truths, then phenomenal qualities are not physical properties. The [knowledge-argument](/concepts/knowledge-argument/) makes the same move: Mary, who has all physical knowledge about colour vision, learns something new upon seeing red. What she gains — [phenomenal acquaintance](/concepts/phenomenal-acquaintance/) with redness — exceeds what physical description provides (Jackson 1982).
+
+The main physicalist response is the [phenomenal concepts strategy](/topics/phenomenal-concepts-as-materialist-response/): first-person concepts pick out physical states under a special mode of presentation, just as "water" and "H₂O" refer to the same substance under different guises. Chalmers' counter: if phenomenal concepts are constituted by phenomenal qualities (as the acquaintance model holds), the concept/referent gap collapses. For consciousness, appearance *is* reality — what it is like to see red just *is* the redness.
+
+## Competing Models of Introspective Knowledge
+
+**The acquaintance model** (Russell, BonJour, Chalmers) holds that conscious states are self-presenting — to be in pain is already to be aware of pain. The strength: acquaintance explains why introspective knowledge feels certain and why phenomenal knowledge cannot be deduced from physical truths. The resolution of its apparent infallibilism is to distinguish *acquaintance* from *judgement* — you may be acquainted with your phenomenal state while forming an inaccurate judgement about it.
+
+**Inner sense theories** (Armstrong, Lycan) assimilate introspection to perception: fallible but generally reliable, improvable with training. The difficulty is that inner sense requires a representational medium distinct from the states represented, but introspecting pain has qualitative character *identical* to the pain — the identity between knowledge and object that acquaintance captures.
+
+**Transparency** (Evans, Byrne 2005) proposes that introspection works by attending to the world, not to experience itself. This works for propositional attitudes but fails for phenomenal states. When a [trained contemplative](/concepts/contemplative-epistemology/) attends to the quality of awareness itself, they do something the transparency model says is impossible.
+
+**Inferentialism** (Carruthers 2011) holds that self-knowledge is always inferential. This draws support from confabulation research but cannot explain the asymmetry between first-person and third-person access to phenomenal states. Carruthers is right about *process* knowledge but wrong to extend this to phenomenal *content*.
+
+No standard model fully captures introspective epistemology. The Map's position is that introspection constitutes a **sui generis** epistemic capacity — irreducible to perception, inference, or transparent self-monitoring. Its distinctive features: direct phenomenal presentation (no independent representational medium), fallible judgement about incorrigible presentation, domain-variable reliability (strongest for attended content, absent for causal processes), and trainability confirmed by neurophenomenological convergence.
+
+## The Reliability Challenge and Calibration
+
+Schwitzgebel's empirical case documents genuine problems: contradictory reports about basic phenomenal features (Schwitzgebel 2008, 2011), overconfidence exposed by choice blindness experiments (Johansson et al. 2005), systematic biases from retrospective reconstruction, and the historical collapse of Wundt and Titchener's introspectionist programme. The historical failure is instructive rather than decisive — those observers were asked to decompose experience into sensory atoms, and phenomenological methods that dropped this demand produced more consistent results.
+
+Crucially, these critiques are unevenly distributed across the three layers. At layer 1 — *that* experience exists — Schwitzgebel's evidence has almost no purchase. At layer 2 — *what* attended experience is like — the evidence is mixed, and training demonstrably improves accuracy. At layer 3 — structural features of background states — his case is strongest.
+
+Strict calibration against an independent standard is impossible — the [observation-and-measurement-void](/voids/observation-and-measurement-void/) establishes this as structural. But five strategies collectively provide epistemic traction:
+
+**The process/content distinction.** Nisbett and Wilson's (1977) founding critique concerns *causal processes*, not *phenomenal content*. People cannot report why they chose one item, but reports about current phenomenal content occupy different epistemic terrain — we are *acquainted* with qualitative character while lacking knowledge of generating processes.
+
+**Convergence across independent traditions.** Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners converge on structural findings: the constructed character of the narrative self, the distinction between awareness and its contents, and the discrete temporal grain of experience (see [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) and [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)).
+
+**Cross-modal verification.** Experienced meditators' reports correspond to specific neural signatures (Brewer et al. 2011). If training merely produced more elaborate confabulations, reports should diverge from neural data; instead, convergence *increases* with training.
+
+**Predictive power.** Contemplative reports of altered temporal experience and distinct jhāna states preceded experimental and neuroimaging confirmation. The microphenomenological method (Petitmengin 2006) has guided researchers to neural processes they were not looking for.
+
+**Training-dependent accuracy.** Fox et al. (2012) found meditation experience predicted introspective accuracy in a genuine skill-acquisition pattern. Baird et al. (2014) found meditation training enhanced [metacognitive](/concepts/metacognition/) accuracy.
+
+### The Gradient of Warranted Trust
+
+| Domain | Layer | Husserl Category | Strategies Available | Warranted Trust |
+|--------|-------|-----------------|---------------------|-----------------|
+| Phenomenal existence (that there is something it is like) | First | Apodictic | Acquaintance; self-stultification of denial | Very high |
+| Attended phenomenal content (what it is like) | Second | Adequate/Assertoric | Process/content, convergence, cross-modal, training | High |
+| Structural features of experience (temporal grain, unity) | Second–Third | Assertoric/Presumptive | Convergence, cross-modal, prediction | Moderate-high |
+| Background and peripheral states | Third | Presumptive | Limited; Schwitzgebel's evidence strongest here | Low |
+| Causal processes behind experience | Beyond authority | Beyond taxonomy | None effective; process opacity is structural | Very low |
+| Metaphysical interpretation of findings | Beyond authority | Beyond taxonomy | Convergence fails (traditions diverge here) | Variable |
+
+## Rorty's Dilemma and Self-Stultification
+
+Rorty (1970) identified incorrigibility as "the mark of the mental" — what distinguishes mental from physical states. From this he derived a dilemma: either accept that mental states are ontologically distinctive (dualism) or abandon the mental category altogether (eliminativism).
+
+Most philosophers try to occupy a middle ground — granting real phenomenal authority without dualist commitments. At layer 1, if phenomenal experience is genuinely incorrigible — if denying it is self-refuting — then phenomenal states possess an epistemic property that no physical state has. Physical descriptions are always revisable in principle; phenomenal existence is not. The moderate who accepts incorrigibility while insisting that phenomenal states are "really" physical must explain how a physical state acquires an epistemic property no physical description in any other domain possesses.
+
+Eliminativism about phenomenal reports faces [self-stultification](/concepts/self-stultification/). A theorist arguing that phenomenal reports do not reliably indicate phenomenal states must trust their own phenomenal access to the evidential landscape while denying that such access is trustworthy in general — a special case of the [argument-from-reason](/topics/argument-from-reason/). The difficulty traces ultimately to the [Galilean exclusion](/concepts/galilean-exclusion/): consciousness *is* how things seem, and phenomenal reports describe features that the Galilean method deliberately set aside.
+
+## Methodological Implications and Competing Standards
+
+How consciousness science treats phenomenal authority determines what it can discover.
+
+Dennett's [heterophenomenology](/concepts/heterophenomenology/) treats reports as texts to be interpreted, neutral on whether experiences are as reported. But this neutrality presupposes that no epistemically distinctive first-person access exists — the very question at issue. A methodology that systematically declines to credit first-person access will systematically miss the evidence for irreducibility.
+
+Dennett's heterophenomenology is harder to convict of self-stultification than crude eliminativism. He treats first-person reports as data about how things *seem* and evaluates theories using public, third-person reasoning. The self-undermining charge gains traction at a narrower point: when the heterophenomenologist must assess whether a theoretical framework *adequately captures what experience is like*. This evaluative judgement seems to require phenomenal acquaintance with the states being theorised about. If it cannot proceed without implicit reliance on what consciousness *seems like from the inside*, heterophenomenology covertly depends on the phenomenal access it officially brackets.
+
+Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) treats first-person reports and third-person neural data as mutually constraining. When trained observers' reports systematically correlate with distinctive neural activity patterns, the cross-modal convergence validates both channels. Neurophenomenology preserves phenomenal authority while subjecting it to empirical discipline — the combination the Map endorses.
+
+## Objections
+
+**Crazy seemings.** Peter Markie objects that PC is too permissive — if any seeming provides justification, what about bizarre impressions? Huemer responds that genuine seemings must be distinguished from mere inclinations to believe, and that even marginal seemings are easily defeated by background knowledge. Introspective seemings about qualitative character are persistent, widely shared, and arise across varied philosophical traditions — paradigmatic cases of robust seemings.
+
+**Cognitive penetration.** Susanna Siegel raises the "bad basis" problem: if unjustified beliefs cause experiences, those experiences might inherit their sources' irrationality. The seeming that pain hurts is not plausibly produced by a background theory about pain — it is produced by pain itself. However, the seeming that qualitative character is *irreducible* may be more vulnerable to influence from folk-psychological assumptions.
+
+**The metajustification demand.** Classical foundationalists argue that PC needs independent justification for trusting seemings. Huemer responds that demanding metajustification leads to infinite regress. PC is a candidate for the foundational role — and it has the advantage that alternatives covertly rely on it anyway.
+
+**The limits of reportability.** Defending phenomenal reports as genuine data does not mean claiming they capture everything about experience. Contemplative traditions routinely describe advanced meditative states as "ineffable." [Phenomenological evidence standards](/concepts/phenomenological-evidence/) must grapple with the possibility that some features of experience resist not only articulation but the very subject-object structure that reporting presupposes.
+
+## Relation to Site Perspective
+
+**[Dualism](/tenets/#dualism)**: Phenomenal authority provides the evidential foundation for the Map's dualism. The layered structure of authority shows that core arguments — the hard problem, the knowledge argument, the conceivability argument — draw on layers where authority is strongest. The hard problem is not a vague intuition that "experience feels different from brain states." It is grounded in apodictic evidence: the indubitable existence of experience combined with the systematic failure of physical description to capture its qualitative character. Schwitzgebel's scepticism does not undermine dualism because it targets the wrong level — background and peripheral states, not the attended phenomenal content from which the hard problem draws its force. Deflating phenomenal authority to protect physicalism requires denying evidence at the apodictic level, where denial is self-refuting.
+
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Experience presents itself as causally efficacious — willing precedes action, attention modifies experience, reasoning shapes belief. PC grants these seemings default trust. Training-dependent improvement of introspective accuracy is itself evidence for bidirectional interaction: if consciousness were epiphenomenal, deliberate attentional training should not produce measurable improvements in reporting accuracy. The epiphenomenalist must reject apodictic evidence in favour of a theoretical commitment (causal closure) that has no apodictic warrant of its own.
+
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Deflating phenomenal authority is the parsimonious move — it avoids positing irreducible phenomenal states. But parsimony achieved by discounting evidence is not a guide to truth. Dennett's heterophenomenology appears simpler — it avoids positing irreducible first-person access — but this simplicity is achieved by excluding evidence rather than explaining it.
+
+## Further Reading
+
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying acquaintance authority
+- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction between acquaintance and description
+- [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
+- [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
+- [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally
+- [heterophenomenology](/concepts/heterophenomenology/) — Dennett's deflationary methodology
+- [phenomenological-evidence](/concepts/phenomenological-evidence/) — When and how first-person reports constitute evidence
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Why phenomenological evidence standards are irreducible to naturalist criteria
+- [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The distinctive modal profile of phenomenal properties
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — First-person reports as clinical evidence
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as validation
+- [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The mutual constraint framework validating trained introspection
+- [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The broader case for taking non-materialist theories seriously
+- [illusionism](/concepts/illusionism/) — The strongest denial of phenomenal consciousness
+- [phenomenal-concepts-as-materialist-response](/topics/phenomenal-concepts-as-materialist-response/) — The main physicalist response to phenomenal authority
+- [argument-from-reason](/topics/argument-from-reason/) — The broader case against epiphenomenalism
+- [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why strict calibration is structurally impossible
+- [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Formal conditions for when convergence carries evidential weight
+- [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How first-person evidence grounds inference to other minds
+- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — What evaluating evidence feels like from the inside
+- [galilean-exclusion](/concepts/galilean-exclusion/) — How modern science excluded the subjective
+
+## References
+
+1. Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972-1979.
+1. Bar-On, D. (2009). First-Person Authority: Dualism, Constitutivism, and Neo-Expressivism. *Erkenntnis*, 71, 7-31.
+1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
+1. Byrne, A. (2005). Introspection. *Philosophical Topics*, 33(1), 79-104.
+1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+1. Chalmers, D. J. (2003). The Content and Epistemology of Phenomenal Belief. In Q. Smith & A. Jokic (Eds.), *Consciousness: New Philosophical Perspectives*. Oxford University Press.
+1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
+1. Gertler, B. (2012). Renewed acquaintance. In D. Smithies & D. Stoljar (Eds.), *Introspection and Consciousness*. Oxford University Press.
+1. Hasan, A. (2013). Phenomenal conservatism, classical foundationalism, and internalist justification. *Philosophical Studies*, 162(2), 119-141.
+1. Huemer, M. (2001). *Skepticism and the Veil of Perception*. Rowman & Littlefield.
+1. Huemer, M. (2007). Compassionate phenomenal conservatism. *Philosophy and Phenomenological Research*, 74(1), 30-55.
+1. Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
+1. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly*, 32, 127-136.
+1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
+1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
+1. Markie, P. (2005). The mystery of direct perceptual justification. *Philosophical Studies*, 126(3), 347-373.
+1. Moran, R. (2001). *Authority and Estrangement: An Essay on Self-Knowledge*. Princeton University Press.
+1. Nagel, T. (1974). What Is It Like to Be a Bat? *Philosophical Review*, 83(4), 435-450.
+1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
+1. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+1. Rorty, R. (1970). Incorrigibility as the Mark of the Mental. *Journal of Philosophy*, 67(12), 399-424.
+1. Schwitzgebel, E. (2008). The unreliability of naive introspection. *Philosophical Review*, 117(2), 245-273.
+1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Siegel, S. (2012). Cognitive penetrability and perceptual justification. *Noûs*, 46(2), 201-222.
+1. Varela, F. J. (1996). Neurophenomenology: A Methodological Remedy for the Hard Problem. *Journal of Consciousness Studies*, 3(4), 330-349.

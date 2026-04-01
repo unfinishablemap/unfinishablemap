@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-01
-**Article**: [The Epistemology of First-Person Evidence](/topics/epistemology-of-first-person-evidence/)
+**Article**: [The Epistemology of First-Person Evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-03-29](/reviews/deep-review-2026-03-29-epistemology-of-first-person-evidence/)
 **Review context**: Cross-review considering phenomenological method insights from recently updated [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 

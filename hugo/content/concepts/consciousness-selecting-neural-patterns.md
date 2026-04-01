@@ -110,7 +110,7 @@ This is the brain specialness problem. The answer is mechanistic, not arbitrary:
 
 **Developmental integration**: The mind-brain interface develops through neural growth. No external system has this developmental history with your consciousness.
 
-These converge: **consciousness influences what it's connected to through attention and embodiment, and it's only connected to its own brain.** This isn't ad hoc restriction—it follows from the selection mechanism itself.
+These converge: **consciousness influences what it's connected to through attention and embodiment, and it's only connected to its own brain.** This isn't ad hoc restriction—it follows from the selection mechanism itself. [Brain-computer interfaces](/topics/brain-computer-interfaces-and-the-interface-boundary/) provide direct evidence: BCI users gain volitional control over external devices, but the adaptation occurs within existing motor cortex architecture — consciousness selects among neural patterns that happen to drive external devices, without the interface itself extending beyond the brain.
 
 ## The Decoherence Challenge
 

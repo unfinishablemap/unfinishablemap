@@ -113,12 +113,12 @@ The Unfinishable Map's framework depends on taking phenomenological evidence ser
 ## Further Reading
 
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — What phenomenological evidence is and how it is gathered
-- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Competing models for introspective knowledge
+- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Competing models for introspective knowledge
 - [phenomenology](/concepts/phenomenology/) — The philosophical method in its historical development
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person alternative and its limitations
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How contemplative training strengthens phenomenological evidence
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Clinical settings as a source of phenomenological data
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — The spectrum of epistemic weight in phenomenal reports
+- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of epistemic weight in phenomenal reports
 
 ## References
 

@@ -63,12 +63,12 @@ No attribution errors found. Source/Map separation maintained throughout.
 
 ### Enhancements Made
 
-- Added cross-link to [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) in positive predictions subsection, connecting first-person report evidence to the epistemic authority question — relevant given the recent coalesce of the phenomenal-conservatism and phenomenal-authority articles
+- Added cross-link to [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) in positive predictions subsection, connecting first-person report evidence to the epistemic authority question — relevant given the recent coalesce of the phenomenal-conservatism and phenomenal-authority articles
 - Removed stale AI refinement log comment
 
 ### Cross-links Added
 
-- [phenomenal authority](/topics/phenomenal-authority-and-introspective-evidence/)
+- [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/)
 
 ## Remaining Items
 

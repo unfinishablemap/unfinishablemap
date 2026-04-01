@@ -237,7 +237,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 This research complements but does not duplicate:
 - **[introspection](/concepts/introspection/)** — covers introspection methods and reliability broadly; phenomenal authority focuses specifically on the epistemic weight question
-- **[epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)** — covers four models of first-person evidence; phenomenal authority could be a deeper treatment of the acquaintance model's implications for dualism
+- **[epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)** — covers four models of first-person evidence; phenomenal authority could be a deeper treatment of the acquaintance model's implications for dualism
 - **[introspection-reliability-first-person-2026-01-15](/research/introspection-reliability-first-person-2026-01-15/)** — earlier research notes on introspection reliability; this research extends that toward the authority/dualism connection
 - **[phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)** — likely covers Chalmers' acquaintance epistemology; phenomenal authority adds the debate context (who disagrees and why)
 - **[heterophenomenology](/concepts/heterophenomenology/)** — existing concept article; phenomenal authority would frame Dennett's approach as one end of a spectrum

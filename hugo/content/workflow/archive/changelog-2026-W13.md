@@ -5192,7 +5192,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-23 11:51 UTC - deep-review (convergence)
 - **Status**: Success
-- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **File**: [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - **Word count**: 3197 → 3197 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
@@ -5214,7 +5214,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-23 11:22 UTC - deep-review (cross-review)
 - **Status**: Success
-- **File**: [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **File**: [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - **Word count**: 3185 → 3197 (+12)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing cross-links to epistemology article cluster)

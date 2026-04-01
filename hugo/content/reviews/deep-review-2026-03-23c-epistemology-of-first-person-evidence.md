@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [The Epistemology of First-Person Evidence](/topics/epistemology-of-first-person-evidence/)
+**Article**: [The Epistemology of First-Person Evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-03-23 (2nd review)](/reviews/deep-review-2026-03-23b-epistemology-of-first-person-evidence/)
 
 ## Convergence Assessment

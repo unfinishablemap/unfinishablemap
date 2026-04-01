@@ -59,7 +59,7 @@ This is officially methodological neutrality. Dennett insists he is not an elimi
 
 ## Heterophenomenology vs. Classical Phenomenology
 
-Classical [phenomenology](/concepts/phenomenology/) (Husserl, Heidegger, Merleau-Ponty) treats first-person investigation as revealing consciousness's actual structure. The [epoché](/concepts/phenomenology/#the-phenomenological-method) brackets assumptions about the external world to disclose how experience is structured from within—intentionality, temporal flow, bodily situatedness, the minimal self. Husserl's [evidence taxonomy](/topics/epistemology-of-first-person-evidence/) provides internal rigour: apodictic evidence (the indubitable existence of experience) carries different weight from merely presumptive claims about its fine structure.
+Classical [phenomenology](/concepts/phenomenology/) (Husserl, Heidegger, Merleau-Ponty) treats first-person investigation as revealing consciousness's actual structure. The [epoché](/concepts/phenomenology/#the-phenomenological-method) brackets assumptions about the external world to disclose how experience is structured from within—intentionality, temporal flow, bodily situatedness, the minimal self. Husserl's [evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/) provides internal rigour: apodictic evidence (the indubitable existence of experience) carries different weight from merely presumptive claims about its fine structure.
 
 Heterophenomenology reverses this: it brackets phenomenology itself, treating first-person reports as external behavioral data requiring third-person explanation.
 

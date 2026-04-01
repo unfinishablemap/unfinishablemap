@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-01
-**Article**: [The Epistemology of First-Person Evidence](/topics/epistemology-of-first-person-evidence/)
+**Article**: [The Epistemology of First-Person Evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-04-01 (earlier)](/reviews/deep-review-2026-04-01-epistemology-of-first-person-evidence/)
 **Review context**: Cross-review considering [Phenomenological Method and Evidence Standards](/topics/phenomenological-method-and-evidence-standards/) article (created 2026-03-31)
 

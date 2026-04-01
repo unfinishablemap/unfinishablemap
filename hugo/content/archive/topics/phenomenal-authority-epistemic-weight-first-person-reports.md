@@ -127,7 +127,7 @@ The methodological choice is not neutral with respect to the mind-body problem. 
 
 ## Further Reading
 
-- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Four models of introspective knowledge and five calibration strategies
+- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Four models of introspective knowledge and five calibration strategies
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying acquaintance authority
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction between acquaintance and description

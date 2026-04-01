@@ -146,7 +146,7 @@ The framework would face difficulty if:
 
 **The mechanism turned out not to require locality.** If future physics showed that quantum selection could operate non-locally—through entanglement-based mechanisms or novel physics—the locality constraints would need reconsideration.
 
-**The developmental constraint proved dispensable.** If brain-computer interfaces achieved full conscious control over external systems without developmental integration, the pairing-problem solution would need revision.
+**The developmental constraint proved dispensable.** If [brain-computer interfaces](/topics/brain-computer-interfaces-and-the-interface-boundary/) achieved full conscious control over external systems without developmental integration, the pairing-problem solution would need revision. Current BCI evidence supports the constraint — users learn through existing neural architecture rather than extending consciousness beyond the brain.
 
 None of these has occurred. The current framework remains consistent with available evidence.
 

@@ -113,8 +113,8 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not qualitative character
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap between physical and phenomenal
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic knowledge requires acquaintance across diverse substrates
-- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — How acquaintance functions within a sui generis model of introspective knowledge
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — The spectrum of authority positions and how acquaintance grounds the strongest layer
+- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — How acquaintance functions within a sui generis model of introspective knowledge
+- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of authority positions and how acquaintance grounds the strongest layer
 
 ## References
 

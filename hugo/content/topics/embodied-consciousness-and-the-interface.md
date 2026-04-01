@@ -165,6 +165,7 @@ There is also a deeper question the interface reading cannot answer: even if emb
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities supporting the interface reading
 - [somatic-interface](/concepts/somatic-interface/) — The body's internal sensing channels as structured interface substrate
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How the interface manifests in the felt character of being in a place
+- [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — BCIs test whether the interface extends beyond the brain through technology
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — The three strands of enactivism's challenge and why they ultimately support the dualist insight
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology: consciousness as something the organism does, not a property it has
 - [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — The first-person phenomenology of bodily experience: ownership, agency, absence, and pain

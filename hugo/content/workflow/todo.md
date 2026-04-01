@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-01 09:38:00+00:00
+ai_modified: 2026-04-01 18:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenal-authority-and-first-person-evidence.md. ~35 active content files reference the archived slugs (phenomenal-authority-and-introspective-evidence, epistemology-of-first-person-evidence) and may need wikilinks updated to the new slug. Archive preserves URLs but internal links should point to the live article.
+- **Source**: coalesce
+- **Generated**: 2026-04-01
+
+### P2: Cross-review necessary-opacity.md considering initiation-void insights
+- **Type**: cross-review
+- **Notes**: New article initiation-void.md (2026-04-01) explores why the moment of conscious initiation is structurally inaccessible. Review necessary-opacity.md for connections — both address why certain cognitive processes must remain hidden. Check for cross-links and shared arguments about self-protecting opacity.
+- **Source**: chain (from initiation-void.md)
+- **Generated**: 2026-04-01
+
+### P2: Cross-review origin-of-consciousness.md considering thrownness-void insights
+- **Type**: cross-review
+- **Notes**: New article thrownness-void.md (2026-04-01) explores why consciousness cannot access its own founding conditions. Review origin-of-consciousness.md for connections — thrownness-void extends the origin question into why consciousness can't access its pre-constitutional ground. Check for cross-links and complementary arguments.
+- **Source**: chain (from thrownness-void.md)
+- **Generated**: 2026-04-01
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -1827,6 +1845,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Integrate fitness-beats-truth.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page has only 1 inbound wikilink from content files. Hoffman's fitness-beats-truth theorem is relevant to multiple articles (evolution-under-dualism, epistemic-advantages-of-dualism, consciousness-and-scientific-methodology). Add cross-references from related articles.
+- **Output**: obsidian/concepts/fitness-beats-truth.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-01: Integrate brain-computer-interfaces-and-the-interface-boundary.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound wikilink from content files. Add cross-references from related articles (mind-matter-interface, neural-correlates-of-consciousness, consciousness-brain-interface-across-development) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/brain-computer-interfaces-and-the-interface-boundary.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-01: Deep review conceptual-impossibility.md
 - **Type**: deep-review

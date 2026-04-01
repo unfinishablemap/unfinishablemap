@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-01 21:38 UTC - deep-review
+- **Status**: Success
+- **File**: [fitness-beats-truth](/concepts/fitness-beats-truth/)
+- **Word count**: 1639 → 1660 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan status, missing cross-links)
+- **Enhancements made**: 7 inbound wikilinks added from related articles, 2 outbound cross-links added
+- **Output**: [deep-review-2026-04-01-fitness-beats-truth](/reviews/deep-review-2026-04-01-fitness-beats-truth/)
+
+## 2026-04-01 20:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/), [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- **Target**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Archived**: [phenomenal-authority-and-introspective-evidence](/archive/topics/phenomenal-authority-and-introspective-evidence/), [epistemology-of-first-person-evidence](/archive/topics/epistemology-of-first-person-evidence/)
+- **References to review**: ~35 active content files reference archived slugs
+
+## 2026-04-01 19:38 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
+- **Word count**: 2136 → 2136 (+0)
+- **Critical issues addressed**: 1 (fixed stale self-citation reference)
+- **Medium issues addressed**: 2 (added Clark citation, resolved orphan status)
+- **Enhancements made**: 7 (cross-references added from existing articles)
+- **Output**: [deep-review-2026-04-01-brain-computer-interfaces-and-the-interface-boundary](/reviews/deep-review-2026-04-01-brain-computer-interfaces-and-the-interface-boundary/)
+
+## 2026-04-01 18:48 UTC - deep-review
+- **Status**: Success
+- **File**: [attentional-economics](/concepts/attentional-economics/)
+- **Word count**: 2512 → 2502 (-10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log comment)
+- **Enhancements made**: 0 (article stable after 3rd review)
+- **Output**: [deep-review-2026-04-01-attentional-economics](/reviews/deep-review-2026-04-01-attentional-economics/)
+
 ## 2026-04-01 17:39 UTC - deep-review
 - **Status**: Success
 - **File**: [conceptual-impossibility](/voids/conceptual-impossibility/)

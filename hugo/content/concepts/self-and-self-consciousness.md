@@ -76,7 +76,7 @@ A fourth dimension cuts across all layers: [the unobservable self](/voids/self-o
 
 Zahavi draws a crucial distinction. **Pre-reflective self-consciousness** is the implicit self-awareness present in every conscious experience — not an additional mental act but the background condition for all experience. You do not first see a red apple and then add "I am the one seeing"; the first-person character is there from the start.
 
-**Reflective self-consciousness** is the deliberate, thematic awareness of one's own mental states. The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) reveals that this reflective capacity, while fallible, is trainable and provides genuine epistemic access to phenomenal content.
+**Reflective self-consciousness** is the deliberate, thematic awareness of one's own mental states. The [epistemology of first-person evidence](/topics/phenomenal-authority-and-first-person-evidence/) reveals that this reflective capacity, while fallible, is trainable and provides genuine epistemic access to phenomenal content.
 
 The relationship is asymmetric: reflective self-consciousness presupposes pre-reflective self-consciousness (you can only attend to experience already tagged as yours), but not vice versa. An infant has pre-reflective self-consciousness without the capacity for reflection.
 

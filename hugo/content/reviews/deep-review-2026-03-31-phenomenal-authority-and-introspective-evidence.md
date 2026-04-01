@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-31
-**Article**: [Phenomenal Authority and Introspective Evidence](/topics/phenomenal-authority-and-introspective-evidence/)
+**Article**: [Phenomenal Authority and Introspective Evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-03-30](/reviews/deep-review-2026-03-30-phenomenal-authority-epistemic-weight-first-person-reports/) (redirected to integration)
 
 ## Pessimistic Analysis Summary
@@ -51,7 +51,7 @@ topics: []
 
 Updated `phenomenal-conservatism-and-introspective-evidence` → `phenomenal-authority-and-introspective-evidence` in:
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — removed duplicate old slug from related_articles; updated 2 body references
-- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — removed duplicate old slug from related_articles; updated 1 Further Reading entry
+- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — removed duplicate old slug from related_articles; updated 1 Further Reading entry
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — updated 2 references (related_articles + Further Reading)
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — updated 2 references (body + Further Reading)
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — updated 2 references (related_articles + Further Reading)
@@ -61,7 +61,7 @@ Updated `phenomenal-conservatism-and-introspective-evidence` → `phenomenal-aut
 
 ### New Cross-References Added
 
-Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)` to related_articles in:
+Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/)` to related_articles in:
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — reliability of trained introspection grounded in phenomenal authority framework
 - [explanatory-gap](/concepts/explanatory-gap/) — introspective access to the gap depends on phenomenal authority
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — acquaintance grounds the strongest layer of authority (also added to Further Reading)

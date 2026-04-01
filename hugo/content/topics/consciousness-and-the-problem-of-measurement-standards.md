@@ -80,7 +80,7 @@ The inverted-qualia scenario is not merely a thought experiment. It exposes a st
 
 ## The Proxy Problem
 
-In practice, consciousness science uses proxies: verbal reports, behavioural indicators, neural correlates. These are genuine data, and the Map takes [phenomenal reports seriously as evidence](/topics/epistemology-of-first-person-evidence/). But proxies are not measurements. The distinction matters.
+In practice, consciousness science uses proxies: verbal reports, behavioural indicators, neural correlates. These are genuine data, and the Map takes [phenomenal reports seriously as evidence](/topics/phenomenal-authority-and-first-person-evidence/). But proxies are not measurements. The distinction matters.
 
 A measurement relates a quantity to a standard through a lawful, repeatable connection. A proxy *indicates* without *measuring* — it correlates with the target without providing metric information about it. Blood pressure is measured (a sphygmomanometer transduces arterial pressure into a mercury column height against a calibrated scale). Mood is proxied (a self-report questionnaire correlates with but does not measure the phenomenal state of feeling cheerful or despairing).
 
@@ -113,7 +113,7 @@ As the Map explores in [methodology-of-consciousness-research](/topics/methodolo
 ## Further Reading
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
-- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/)
+- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - [introspection](/concepts/introspection/)
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)

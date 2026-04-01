@@ -61,7 +61,7 @@ The Map recognises two fundamentally different ways of knowing about consciousne
 
 The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience. [Heterophenomenology](/concepts/heterophenomenology/) disputes this, arguing that third-person methods can take first-person reports seriously without granting them infallibility — though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience.
 
-The [epistemology of first-person evidence](/topics/epistemology-of-first-person-evidence/) examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation. [Contemplative traditions](/concepts/contemplative-epistemology/) offer a further development: sustained meditative practice as a method of refining first-person observation, analogous to training scientific observation skills.
+The [epistemology of first-person evidence](/topics/phenomenal-authority-and-first-person-evidence/) examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [Neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation. [Contemplative traditions](/concepts/contemplative-epistemology/) offer a further development: sustained meditative practice as a method of refining first-person observation, analogous to training scientific observation skills.
 
 ## Epistemic Assumptions That Determine Conclusions
 
@@ -102,7 +102,7 @@ Tenet 5 — Occam's Razor Has Limits — is explicitly epistemological. Tenet 1 
 ## Further Reading
 
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — When and why simplicity fails as a guide to truth
-- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/) — Rigorous treatment of introspective warrant
+- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Rigorous treatment of introspective warrant
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — First-person reports as genuine evidence
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — Knowing what resists being known
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Why convergence provides distinctive warrant

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-29 15:11:00+00:00
+ai_modified: 2026-04-01 18:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Agency is fundamentally the allocation of attention over time. Free
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-09 18:12:00+00:00
+last_deep_review: 2026-04-01 18:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -221,13 +221,3 @@ This connects the abstract commitments of the tenets—dualism, bidirectional in
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Suddendorf, T. & Corballis, M.C. (2007). The evolution of foresight: What is mental time travel, and is it unique to humans? *Behavioral and Brain Sciences*, 30(3), 299-313.
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Qualified Schwartz & Begley (2002) citation with sample size caveat (n=18), lack of replication, cross-reference to clinical neuroplasticity evidence article
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Schwartz evidence honestly calibrated.
-
-This log should be removed after human review.
--->

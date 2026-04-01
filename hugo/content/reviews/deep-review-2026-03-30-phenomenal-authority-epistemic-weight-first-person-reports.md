@@ -23,15 +23,15 @@ topics: []
 
 ## Review Outcome: Redirected to Integration
 
-The target article was archived on 2026-03-29 and coalesced into [Phenomenal Authority and Introspective Evidence](/topics/phenomenal-authority-and-introspective-evidence/). Deep review of archived content is not productive. Review effort redirected to orphan integration for the successor article, which had only 1 inbound link.
+The target article was archived on 2026-03-29 and coalesced into [Phenomenal Authority and Introspective Evidence](/topics/phenomenal-authority-and-first-person-evidence/). Deep review of archived content is not productive. Review effort redirected to orphan integration for the successor article, which had only 1 inbound link.
 
 ## Stale Links Fixed
 
-- [epistemology-of-first-person-evidence](/topics/epistemology-of-first-person-evidence/): Updated 3 references from old slug `phenomenal-authority-epistemic-weight-first-person-reports` to new slug `phenomenal-authority-and-introspective-evidence` (related_articles frontmatter + 2 body text wikilinks)
+- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/): Updated 3 references from old slug `phenomenal-authority-epistemic-weight-first-person-reports` to new slug `phenomenal-authority-and-introspective-evidence` (related_articles frontmatter + 2 body text wikilinks)
 
 ## Cross-References Added to Successor
 
-Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/)` to related_articles in:
+Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/)` to related_articles in:
 - [introspection](/concepts/introspection/) — Core concept discussed extensively in the successor article (also added to Further Reading)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — Closely related epistemological content (also added to Further Reading)
 - [self-stultification](/concepts/self-stultification/) — Self-undermining argument is a key theme of the successor
