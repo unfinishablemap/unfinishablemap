@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md establishes a systematic evidence taxonomy (apodictic, adequate, intersubjective, structural) that may refine or challenge the evidence claims in contemplative-practice-as-philosophical-evidence.md. Check for cross-links, terminological consistency, and whether the new evidence standards framework strengthens or qualifies the contemplative evidence argument.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-01
-
 ### P2: Cross-review epistemology-of-first-person-evidence.md considering phenomenological method article
 - **Type**: cross-review
 - **Status**: pending
@@ -1826,6 +1819,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-01: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method article
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md establishes a systematic evidence taxonomy (apodictic, adequate, intersubjective, structural) that may refine or challenge the evidence claims in contemplative-practice-as-philosophical-evidence.md. Check for cross-links, terminological consistency, and whether the new evidence standards framework strengthens or qualifies the contemplative evidence argument.
+- **Output**: obsidian/topics/contemplative-practice-as-philosophical-evidence.md -- Context: Cross-review contemplative-practice-as-philosophical-evidence.md considering phenomenological method article
 
 ### ✓ 2026-04-01: Address logical gaps in ethics-of-possible-ai-consciousness.md
 - **Type**: refine-draft
