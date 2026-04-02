@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-28 21:11:00+00:00
+ai_modified: 2026-04-02 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI inquiry into why we cannot introspect how experiences beco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 15:22:00+00:00
+last_deep_review: 2026-04-02 06:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -27,6 +27,11 @@ related_articles:
 - '[[necessary-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-and-the-ownership-problem]]'
+- '[[phenomenal-transparency]]'
+- '[[self-reference-paradox]]'
+- '[[phenomenology-of-self-awareness]]'
+- '[[comparative-phenomenology-of-meditative-traditions]]'
+- '[[transition-void]]'
 title: The Ownership Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -57,7 +62,7 @@ Franz Knappik complicates the picture by arguing that DPD symptoms need not refl
 
 ## Transparency and the Self-Model
 
-Thomas Metzinger's self-model theory offers a physicalist account of why the ownership relation hides itself. The phenomenal self-model (PSM) is a *transparent* self-representation: the system cannot experience it *as* a model. Because the model's construction is invisible, its contents feel simply and directly "mine." Metzinger calls this "epistemic autoepistemic closure"—the self-model is architecturally designed to conceal its own modelling.
+Thomas Metzinger's self-model theory offers a physicalist account of why the ownership relation hides itself. The phenomenal self-model (PSM) is a *transparent* self-representation—what Metzinger calls [phenomenal-transparency](/concepts/phenomenal-transparency/)—the system cannot experience it *as* a model. Because the model's construction is invisible, its contents feel simply and directly "mine." Metzinger calls this "epistemic autoepistemic closure"—the self-model is architecturally designed to conceal its own modelling.
 
 The Map does not endorse Metzinger's physicalist framework, but the structural insight applies across metaphysical positions. Whether ownership is produced by neural self-modelling or is constitutive of non-physical subjectivity, the result is the same: the ownership relation is hidden from the subject who bears it. Under dualism, the opacity may run even deeper—not merely concealed by neural architecture but constitutive of what subjectivity *is*. A physical system can in principle be analyzed from outside by another physical system, but a non-physical subject has no external vantage point from which its subjectivity could be examined. It cannot disassemble its own ownership any more than a physical self-model can observe its own transparency.
 
@@ -65,7 +70,7 @@ The Map does not endorse Metzinger's physicalist framework, but the structural i
 
 If DPD approaches the ownership void involuntarily and painfully, contemplative practice approaches it deliberately. Deane, Miller, and Wilkinson use the active inference framework to unify both: the self emerges from a "temporally deep generative model," and both DPD and advanced meditation involve its dissolution—involuntary collapse in one case, deliberate relaxation in the other.
 
-Buddhist *anattā* (no-self) practice systematically searches for ownership and fails to find it. Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. Unlike DPD, meditators often describe the dissolution of mineness as peaceful or liberating rather than terrifying.
+Buddhist *anattā* (no-self) practice systematically searches for ownership and fails to find it. (The [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) article surveys how different traditions approach this dissolution.) Each element of experience—body, sensation, perception, mental formations, consciousness—is examined, and for each the sense of "mine" is found to be impermanent and unfixable. Unlike DPD, meditators often describe the dissolution of mineness as peaceful or liberating rather than terrifying.
 
 This affective divergence matters. The same structural void—the absence of the ownership ground—produces terror when entered involuntarily and equanimity when entered deliberately. The void boundary is real; its phenomenal valence depends on the manner of approach. The [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) documents similar context-dependence at other cognitive limits.
 
@@ -77,7 +82,7 @@ This distinguishes the ownership void from neighbouring voids:
 
 - The **[unobservable self](/voids/self-opacity/)** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
 - **[introspective opacity](/voids/self-opacity/)** concerns hidden cognitive processes. The ownership void concerns a specific phenomenal feature—mineness—that is normally present but whose ground is hidden.
-- The **[self-reference paradox](/voids/self-opacity/)** concerns logical structure. The ownership void is phenomenological: about felt belonging, not formal reflexivity.
+- The **[self-reference-paradox](/concepts/self-reference-paradox/)** concerns logical structure. The ownership void is phenomenological: about felt belonging, not formal reflexivity.
 
 The broader [ownership problem](/topics/consciousness-and-the-ownership-problem/)—why experience belongs to anyone at all—provides the philosophical context. The ownership void is the epistemic residue that remains even after the ownership problem is well-stated: not merely that ownership is unexplained, but that the mechanism of appropriation is structurally inaccessible from within.
 
@@ -102,13 +107,17 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself observing
+- [self-reference-paradox](/concepts/self-reference-paradox/) — The observer that cannot observe itself observing
 - [introspective opacity](/voids/self-opacity/) — Why cognitive processes hide from introspection
 - [necessary-opacity](/voids/necessary-opacity/) — When cognitive mechanisms become invisible through transparency, and why this opacity is structural
 - [other-minds-void](/voids/other-minds-void/) — The impossibility of accessing another subject's ownership
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to anyone, and what happens when it stops
+- [phenomenal-transparency](/concepts/phenomenal-transparency/) — When the self-model hides its own construction
+- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — How self-awareness restructures experience, including pre-reflective for-me-ness
+- [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Cross-tradition approaches to dissolving selfhood
+- [transition-void](/voids/transition-void/) — Observation-transition incompatibility as a parallel structural limit
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 
 ## References

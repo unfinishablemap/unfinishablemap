@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-29 15:11:00+00:00
+ai_modified: 2026-04-02 07:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: 'Mental effort operates through the quantum Zeno effect: rapid atte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 03:12:00+00:00
+last_deep_review: 2026-04-02 07:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -87,7 +87,7 @@ The [attention as interface hypothesis](/concepts/attention-as-interface/) exten
 
 **Unified attention-motor substrate**: Rizzolatti's premotor theory of attention (PMTA) demonstrates that attention and motor planning share neural substrates—there is no independent attention system. Preparing an eye movement to location X improves visual processing at X; attention *is* motor preparation. This unification matters: if Stapp's Zeno mechanism works for attention, it should work identically for motor selection. The [attention-as-interface](/concepts/attention-as-interface/) develops this convergence in detail, showing that willed attention and willed action share the same neural signatures (frontal theta, ~280-300ms deployment, bidirectional frontoparietal coherence).
 
-**Bandwidth limitation**: Conscious processing operates at ~10 bits/second versus the brain's ~10⁹ bits/second. This gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons. The bandwidth constraint makes the model *more* plausible—operating at policy level matches phenomenology and neuroscience. This policy-level operation aligns with [adaptive computational depth](/concepts/adaptive-computational-depth/): consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
+**Bandwidth limitation**: Conscious behavioural throughput measures roughly 10 bits/second (Zheng & Meister, 2024)—a 100-million-fold reduction from the brain's sensory processing rate. This figure captures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. But the vast gap means consciousness operates at policy level (goals, strategies) rather than micromanaging neurons, making the model *more* plausible—operating at policy level matches phenomenology and neuroscience. This policy-level operation aligns with [adaptive computational depth](/concepts/adaptive-computational-depth/): consciousness allocates detail where it attends, operating as a coarse-grained selector rather than a quantum-by-quantum controller.
 
 **Interface locality**: Consciousness operates through attention, and attention operates through specific neural mechanisms. This explains why consciousness influences the brain but not distant objects—there are no attention channels to external quantum systems.
 
@@ -165,7 +165,7 @@ The model generates falsifiable predictions:
 2. **The willed/instructed neural distinction** (frontal theta, bidirectional coherence) proves artifactual across replications
 3. **Neuroplasticity occurs without conscious engagement**—equivalent brain changes under anaesthesia or sleep
 4. **Neural quantum effects prove non-functional**—quantum coherence occurs in neurons but plays no role in processing or consciousness
-5. **Attention bandwidth exceeds conscious limits** (>15 bits/second consistently)
+5. **Conscious behavioural throughput vastly exceeds current estimates** (>15 bits/second consistently)
 6. **Contemplative training reveals effort as illusory**—advanced meditators report the distinction dissolves (current evidence shows it becomes clearer)
 
 ## Further Reading
@@ -201,17 +201,4 @@ The model generates falsifiable predictions:
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-03-29
-Changes made:
-- Qualified opening claim from "empirical support" to "suggestive—though not conclusive—empirical support"
-- OCD section: replaced "literally reshaped their brains" with honest assessment including sample size (n=18), lack of replication, materialist counter-explanation
-- Noted meditation structural remodelling weakened by Kral et al. (2022) replication failure
-- Bidirectional Interaction section: downgraded from "shows downward causation" to "compatible with downward causation"
-- Reframed philosophical case as standing independently of clinical evidence
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Evidence calibration for Schwartz clinical claims and meditation evidence.
-
-This log should be removed after human review.
--->
+1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.

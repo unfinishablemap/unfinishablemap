@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-02 07:38 UTC - deep-review
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Word count**: 2373 → 2423 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (bandwidth characterization inconsistency, stale refinement log)
+- **Enhancements made**: 3 (corrected bandwidth description, added Zheng & Meister reference, removed stale log)
+- **Output**: [deep-review-2026-04-02-stapp-quantum-mind](/reviews/deep-review-2026-04-02-stapp-quantum-mind/)
+
+## 2026-04-02 06:38 UTC - deep-review
+- **Status**: Success
+- **File**: [ownership-void](/voids/ownership-void/)
+- **Word count**: 1608 → 1656 (+48)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (outdated cross-links, missing cross-links to new content)
+- **Enhancements made**: 5 new cross-links added, self-reference-paradox link updated to standalone page
+- **Output**: [deep-review-2026-04-02-ownership-void](/reviews/deep-review-2026-04-02-ownership-void/)
+
 ## 2026-04-02 05:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [attention-as-interface](/concepts/attention-as-interface/)

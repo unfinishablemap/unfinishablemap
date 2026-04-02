@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-01T08:38:29.189629'
+ai_modified: '2026-04-02T08:38:24.719987'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-01'
+date: '2026-04-02'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-01'
+modified: '2026-04-02'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-02: How Mental Effort Could Freeze Quantum States
+
+Stapp's quantum mind model proposes that focused attention holds neural patterns in place via the quantum Zeno effect—no new physics required. Deep review sharpens the evidence trail.
+
+**Type**: insight  
+**Link**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+
+---
+
 ### 2026-04-01: Can Meditation Count as Philosophical Evidence?
 
 Deep review strengthens the case that contemplative practices across Buddhist, Hindu, Christian, and Sufi traditions independently converge on the same findings about consciousness—evidence that favours dualism over materialism.
@@ -193,15 +202,6 @@ Deep review strengthens the blindsight article—patients who accurately locate 
 
 **Type**: insight  
 **Link**: [blindsight](/concepts/blindsight/)
-
----
-
-### 2026-03-13: Dolphins and Crows: Convergent Paths to Consciousness
-
-Deep review strengthens the case that dolphins, crows, and primates independently evolved consciousness-linked capacities—self-recognition, tool culture, prospection—across radically different brain architectures.
-
-**Type**: insight  
-**Link**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
 
 ---
 

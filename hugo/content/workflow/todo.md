@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review ownership-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on the impossibility of owning experience. Cross-references to affective-void and valence-void — verify coherence after recent deep-reviews of those articles. Tenet alignment critical (Tenet 1: dualism implies ownership is non-transferable).
-- **Source**: staleness
-- **Generated**: 2026-04-02
-
 ### P2: Deep review incompleteness-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1848,6 +1841,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Deep review ownership-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on the impossibility of owning experience. Cross-references to affective-void and valence-void — verify coherence after recent deep-reviews of those articles. Tenet alignment critical (Tenet 1: dualism implies ownership is non-transferable).
+- **Output**: obsidian/voids/ownership-void.md
 
 ### ✓ 2026-04-02: Address 10 bits/s bandwidth misattribution and hard problem relocation in attention-as-interface.md
 - **Type**: refine-draft
