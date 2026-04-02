@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate post-decoherence selection mechanisms research into quantum selection articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md identifies the post-decoherence gap as the point where consciousness could act without violating known physics. Integrate findings into consciousness-selecting-neural-patterns.md and non-retrocausal-conscious-selection-models.md to ground selection claims in the post-decoherence framework rather than relying on pre-decoherence quantum coherence. Addresses pessimistic review concern about inflated empirical claims in quantum mechanism articles.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate anaesthetic recovery neuroscience research into anaesthesia article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, and stochastic consciousness recovery. Integrate into anaesthesia-and-the-consciousness-interface.md (which absorbed the coalesced anaesthetic-recovery-and-the-filter-problem.md). Replaces superseded expand-topic task from 2026-03-23.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate amplification mechanisms research into consciousness-as-amplifier.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate evaluative qualia research across phenomenal normativity articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md bridges analytic philosophy with cross-cultural traditions (Buddhist, Confucian, Indian, Islamic) on irreducible evaluative properties of experience. Integrate findings into evaluative-qualia.md and phenomenal-normativity-environmental-ethics.md. Strengthens the case against epiphenomenalism by showing evaluative phenomenology is cross-culturally convergent.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
