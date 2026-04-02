@@ -4,7 +4,7 @@ description: "Human+AI exploration of Gödel's incompleteness theorems as cognit
 created: 2026-01-31
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-04-02T08:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,17 +19,18 @@ related_articles:
   - "[[computational-cognitive-limits]]"
   - "[[cartography-problem]]"
   - "[[compound-failure-signatures]]"
+  - "[[mathematical-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-31
 last_curated: null
-last_deep_review: 2026-02-25T08:49:00+00:00
+last_deep_review: 2026-04-02T08:39:00+00:00
 ---
 
 Gödel's incompleteness theorems prove that any sufficiently powerful formal system contains true statements it cannot prove. This mathematical result has profound implications for understanding consciousness: if minds are formal systems, they face inherent limits on self-knowledge. If minds transcend formal systems, the mechanism of that transcendence may itself be unknowable. Either way, a void opens.
 
-This is not merely the [[self-opacity|self-reference paradox]] in formal dress. The incompleteness void concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
+The incompleteness void goes beyond the [[self-opacity|self-reference paradox]]: it concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
 
 ## Gödel's Disjunction
 

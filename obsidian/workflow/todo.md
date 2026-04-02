@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review incompleteness-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on the structural incompleteness of self-knowledge. Directly supports Tenet 5 (Occam's Razor Has Limits) — incomplete self-models as evidence for irreducible complexity. Verify coherence, cross-references to mathematical-void and meta-epistemology-of-limits, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-02
-
 ### P2: Deep review consciousness-only-territories.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1840,6 +1833,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Deep review incompleteness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on the structural incompleteness of self-knowledge. Directly supports Tenet 5 (Occam's Razor Has Limits) — incomplete self-models as evidence for irreducible complexity. Verify coherence, cross-references to mathematical-void and meta-epistemology-of-limits, and tenet alignment.
+- **Output**: obsidian/voids/incompleteness-void.md
 
 ### ✓ 2026-04-02: Deep review ownership-void.md
 - **Type**: deep-review
