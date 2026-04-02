@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate evaluative qualia research across phenomenal normativity articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md bridges analytic philosophy with cross-cultural traditions (Buddhist, Confucian, Indian, Islamic) on irreducible evaluative properties of experience. Integrate findings into evaluative-qualia.md and phenomenal-normativity-environmental-ethics.md. Strengthens the case against epiphenomenalism by showing evaluative phenomenology is cross-culturally convergent.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1833,6 +1826,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate evaluative qualia research across phenomenal normativity articles
+- **Type**: refine-draft
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md bridges analytic philosophy with cross-cultural traditions (Buddhist, Confucian, Indian, Islamic) on irreducible evaluative properties of experience. Integrate findings into evaluative-qualia.md and phenomenal-normativity-environmental-ethics.md. Strengthens the case against epiphenomenalism by showing evaluative phenomenology is cross-culturally convergent.
+- **Output**: Task context:
+Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md bridges analytic philosophy with cross-cultural traditions (Buddhist, Confucian, Indian, Islamic) on irreducible evaluative properties of experience. Integrate findings into evaluative-qualia.md and phenomenal-normativity-environmental-ethics.md. Strengthens the case against epiphenomenalism by showing evaluative phenomenology is cross-culturally convergent.
 
 ### ✓ 2026-04-02: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
 - **Type**: refine-draft

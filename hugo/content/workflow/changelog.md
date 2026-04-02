@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-02 19:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [evaluative-qualia](/concepts/evaluative-qualia/), [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
+- **Changes**: Integrated cross-cultural convergence research into anti-epiphenomenalism arguments. evaluative-qualia.md: added new paragraph connecting five independent traditions' practical frameworks to the case against epiphenomenalism, strengthened Bidirectional Interaction tenet paragraph. phenomenal-normativity-environmental-ethics.md: rewrote deep ecology "Western narrowness" rebuttal with cross-cultural evidence, added rasa theory to aesthetic dimension, added cross-references.
+- **Published**: yes
+
+## 2026-04-02 18:38 UTC - deep-review
+- **Status**: Success
+- **File**: [three-dimensional-world-representation-problem](/topics/three-dimensional-world-representation-problem/)
+- **Word count**: 1857 → 1861 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (misleading wikilink from mechanical rename, self-citation misalignment, missing cross-link to spatial dual-domain article)
+- **Enhancements made**: 2 (corrected link targets, added relevant cross-links)
+- **Output**: [deep-review-2026-04-02-three-dimensional-world-representation-problem](/reviews/deep-review-2026-04-02-three-dimensional-world-representation-problem/)
+
 ## 2026-04-02 17:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [william-james-consciousness](/topics/william-james-consciousness/)

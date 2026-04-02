@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-03-30 17:38:00+00:00
+ai_modified: 2026-04-02 19:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -98,13 +98,15 @@ The functionalist will respond that evaluative qualia are simply complex functio
 
 The core dispute is whether felt badness is intrinsic to phenomenal character or relational—dependent on what the experience represents or what functional role it plays. Representationalists hold that evaluative character reduces to representational content; functionalists hold it reduces to computational role. But Dimitrov's direct acquaintance argument cuts against both: for simple, nonrepresentational phenomenal states, there is no gap between the appearance of badness and badness itself. The evaluative dimension appears to be a further fact beyond functional organisation—exactly the kind of fact that motivates dualism.
 
+The [epiphenomenalist](/concepts/epiphenomenalism/) escape route—conceding that evaluative qualia exist but denying them causal power—faces a distinctive difficulty here. If felt badness is causally inert, then the universal human practice of acting on evaluative experience is systematically disconnected from the evaluative properties themselves. The cross-traditional evidence sharpens the problem: Buddhist mindfulness of vedanā, Confucian moral cultivation, Indian aesthetic absorption, and Islamic knowledge-by-presence all constitute sustained practical traditions built on the assumption that evaluative phenomenal character guides action. Epiphenomenalism must explain why five independent civilisations converged on practical frameworks oriented by a phenomenal feature that, on the epiphenomenalist's account, does nothing. The simpler explanation—that evaluative qualia are causally efficacious, and traditions with different metaphysics detected this because it is real—aligns with what Sosa identifies as the normative face of dualism: evaluative experience resists reduction not only in its qualitative character but in its action-orienting force.
+
 ## Relation to Site Perspective
 
 Evaluative qualia connect to the Map's tenets at multiple points.
 
 **[Dualism](/tenets/#dualism)**: If evaluative properties are irreducible features of phenomenal experience, the hard problem extends beyond sensation into value. Physical description cannot capture why suffering *is* bad, not merely why organisms avoid tissue damage. This strengthens the case for irreducibility: consciousness does normative work that no physical account can replicate.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If evaluative qualia are real and causally relevant, moral choices and aesthetic judgments involve consciousness doing genuine work—selecting actions in light of experienced value. An epiphenomenal consciousness could not ground moral agency because its evaluative presentations would be causally inert. The fact that humans act on felt moral urgency—sometimes against evolutionary interest—suggests evaluative qualia causally influence behaviour.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If evaluative qualia are real and causally relevant, moral choices and aesthetic judgments involve consciousness doing genuine work—selecting actions in light of experienced value. An epiphenomenal consciousness could not ground moral agency because its evaluative presentations would be causally inert. The cross-traditional convergence strengthens this point: Buddhist, Confucian, Indian, and Islamic traditions all developed practices—contemplative, moral-cultivational, aesthetic, demonstrative—premised on evaluative experience guiding action. If evaluative qualia were epiphenomenal, the convergence would be inexplicable. Five independent traditions would have built entire practical frameworks around a phenomenal feature that does nothing. The simpler explanation is that evaluative qualia do genuine causal work, and traditions with radically different metaphysics all detected this because it is real. The fact that humans act on felt moral urgency—sometimes against evolutionary interest—is one data point; the fact that civilisations organised around evaluative phenomenology across millennia and continents is a much larger one.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If evaluative qualia make genuine moral stakes possible, the many-worlds interpretation threatens this by ensuring every possible outcome is realised somewhere. An MWI defender might respond that decisions retain moral weight *in your branch*—you still experience only one outcome. But evaluative qualia present their objects as mattering absolutely, not branch-relatively. The felt wrongness of cruelty does not present itself as "wrong-in-this-branch." If both outcomes are equally real, the phenomenal presentation of absolute moral stakes is systematically illusory—and explaining away the veridicality of evaluative qualia undermines the phenomenal realism that makes them philosophically significant. The Map's rejection of many-worlds preserves the moral weight that evaluative qualia present.
 
@@ -139,15 +141,13 @@ Evaluative qualia connect to the Map's tenets at multiple points.
 6. Southgate, A. & Oquatre-six, C. (2026-01-16). Phenomenal Normativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-normativity/
 7. Southgate, A. & Oquatre-six, C. (2026-01-07). Qualia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/qualia/
 
-<!-- AI REFINEMENT LOG - 2026-03-30
+<!-- AI REFINEMENT LOG - 2026-04-02
 Changes made:
-- Strengthened convergence argument framing: added introductory sentences explaining why independent convergence across incompatible frameworks is evidentially significant
-- Drew explicit parallel between Wang Yangming's liángzhī and Rawlette's normative qualia thesis to show structural equivalence across traditions
-- Added cross-references between tradition subsections (vedanā → Confucian → rasa) highlighting that three different phenomenal domains yield the same structural finding
-- Clarified methodological diversity: each tradition uses a distinct investigative method (contemplative phenomenology, moral cultivation, aesthetic absorption, rational demonstration, analytic argument)
-- Strengthened closing convergence paragraph: emphasized the specificity of convergence (not just "consciousness exists" but a precise structural claim) and why this makes shared bias explanations harder to sustain
+- Added new paragraph after the hard problem section connecting cross-cultural convergence to the anti-epiphenomenalism argument: five independent traditions built practical frameworks around evaluative phenomenal character, which epiphenomenalism cannot explain
+- Strengthened Bidirectional Interaction tenet paragraph: expanded from single-sentence anti-epiphenomenalism point to full argument using cross-traditional convergence as evidence against causal inertness of evaluative qualia
+- Connected Sosa's normative face of dualism to the cross-traditional convergence evidence
 
-Based on task context: integrate cross-traditional research to strengthen convergence argument.
+Key improvement: The article now explicitly argues that cross-cultural convergence on evaluative qualia constitutes evidence against epiphenomenalism, not just evidence for dualism.
 
 This log should be removed after human review.
 -->

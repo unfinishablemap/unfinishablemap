@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-03-19 14:58:00+00:00
+ai_modified: 2026-04-02 19:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,8 @@ related_articles:
 - '[[pain-consciousness-and-causal-power]]'
 - '[[free-will]]'
 - '[[mental-causation-and-downward-causation]]'
+- '[[evaluative-qualia]]'
+- '[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]'
 title: Phenomenal Normativity and Environmental Ethics
 topics:
 - '[[ethics-of-consciousness]]'
@@ -61,7 +63,9 @@ Holmes Rolston III offers ecocentrism's most rigorous defence: natural selection
 
 The deep ecology tradition responds that this reflects Western philosophical narrowness. Indigenous traditions and Eastern philosophies, they argue, recognise nature's intrinsic worth without requiring a conscious experiencer.
 
-The Map's reply: these traditions recognise something important—that human welfare is not the only value at stake in environmental decisions. But phenomenal normativity offers an alternative account of what they track. When indigenous traditions treat rivers as sacred, the sacredness reflects the river's role in sustaining conscious life, its place in the aesthetic and spiritual experience of communities, and the recognition that other beings depend on it. The phenomenal experience of encountering the river—its beauty, its sustaining power, the felt connection to place—is where the value resides. Some indigenous ontologies genuinely attribute agency and personhood to rivers and mountains in ways that resist this reinterpretation—the Map acknowledges this tension rather than claiming universal compatibility. But where indigenous ecological wisdom tracks the welfare of conscious beings and the experiential dimension of human-nature encounters, phenomenal normativity grounds these insights without requiring that inert matter carry intrinsic value.
+The Map's reply: the charge of Western narrowness gets the situation backwards. The claim that value resides in conscious experience rather than in ecological wholes is not a Western parochial view—it is a cross-culturally convergent finding. Buddhist philosophy treats *vedanā* (feeling tone) as the fundamental locus of evaluative significance, more basic than any ecological or cosmological category. Confucian moral phenomenology grounds ethical life in *qíng* (moral feeling) and *liángzhī* (innate evaluative awareness)—value arises where consciousness meets cosmic pattern, not in pattern alone. Indian *rasa* theory (Abhinavagupta, c. 1000 CE) locates aesthetic value exclusively in evaluative consciousness, not in the artistic object. Islamic philosophy from Avicenna through Mulla Sadra treats self-awareness as irreducible and knowledge as a mode of existence constituted by the knowing subject. These traditions—operating within incompatible metaphysical frameworks and sharing no common textual lineage—all converge on the same structural claim: evaluative properties are features of phenomenal experience, not of the experienced world independent of experiencers. (For the full convergence argument, see [evaluative-qualia](/concepts/evaluative-qualia/).)
+
+This does not dismiss what Eastern and indigenous traditions recognise—that human welfare is not the only value at stake in environmental decisions. Phenomenal normativity agrees, and goes further: the welfare of all conscious beings, not just humans, carries intrinsic moral weight. When indigenous traditions treat rivers as sacred, the sacredness reflects the river's role in sustaining conscious life, its place in the aesthetic and spiritual experience of communities, and the recognition that other beings depend on it. The phenomenal experience of encountering the river—its beauty, its sustaining power, the felt connection to place—is where the value resides. Some indigenous ontologies genuinely attribute agency and personhood to rivers and mountains in ways that resist this reinterpretation—the Map acknowledges this tension rather than claiming universal compatibility. But the deep ecology charge that consciousness-centred value theory is parochially Western is refuted by the cross-cultural evidence: the world's major philosophical traditions overwhelmingly locate value in experience, not in unexperienced nature.
 
 ## Sentientism's Environmental Demands
 
@@ -89,7 +93,7 @@ These instrumental obligations can be more demanding than ecocentrist obligation
 
 ## The Aesthetic Dimension
 
-[Aesthetic experience](/topics/aesthetics-and-consciousness/) provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character.
+[Aesthetic experience](/topics/aesthetics-and-consciousness/) provides a distinct but often overlooked grounding for environmental obligations. The felt beauty of a mountain landscape, the awe evoked by old-growth forest, the contemplative quality of watching ocean waves—these are phenomenal experiences with intrinsic normative character. This insight has deep cross-cultural roots: Indian *rasa* theory holds that aesthetic experience is "nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness" (Abhinavagupta, c. 1000 CE). The beauty is not in the landscape—it is in the evaluative consciousness of the perceiver encountering the landscape.
 
 The Map's [phenomenal value pluralism](/topics/phenomenal-value-realism/#beyond-hedonism) recognises aesthetic quality as intrinsically valuable alongside hedonic valence, meaning, agency, and understanding. Environmental destruction eliminates not only habitat for conscious animals but also the conditions for profound aesthetic experience in conscious beings who encounter nature.
 
@@ -146,6 +150,8 @@ The Map's tenets shape environmental ethics distinctively:
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's awfulness is constitutive, not correlative
 - [free-will](/topics/free-will/) — Genuine moral agency and environmental responsibility
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning and value
+- [evaluative-qualia](/concepts/evaluative-qualia/) — Phenomenal experiences carrying intrinsic evaluative character
+- [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-cultural convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western sources
 
 ## References
 
@@ -157,3 +163,14 @@ The Map's tenets shape environmental ethics distinctively:
 1. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference.
 1. Rolston, H. (1988). *Environmental Ethics: Duties to and Values in the Natural World*. Temple University Press.
+
+<!-- AI REFINEMENT LOG - 2026-04-02
+Changes made:
+- Rewrote the response to deep ecology's "Western narrowness" objection: now cites cross-cultural convergence (Buddhist vedanā, Confucian qíng/liángzhī, Indian rasa, Islamic philosophy) as evidence that consciousness-centred value theory is not Western-parochial
+- Strengthened the aesthetic dimension opening with rasa theory connection (Abhinavagupta)
+- Added evaluative-qualia and evaluative-qualia-phenomenal-normativity-across-traditions to related_articles and Further Reading
+
+Key improvement: The article now turns the deep ecology "Western narrowness" charge on its head by showing that the world's major traditions converge on locating value in phenomenal experience rather than in unexperienced nature.
+
+This log should be removed after human review.
+-->
