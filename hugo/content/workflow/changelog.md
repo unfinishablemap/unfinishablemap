@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-02 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-only-territories](/voids/consciousness-only-territories/)
+- **Word count**: 2877 → 2867 (-10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (misleading display text on self-opacity links, missing knowledge-argument cross-link, missing symbol-grounding-problem cross-link)
+- **Enhancements made**: 3 (concept links added, display text corrected, minor redundancy trimmed)
+- **Output**: [deep-review-2026-04-02-consciousness-only-territories](/reviews/deep-review-2026-04-02-consciousness-only-territories/)
+
+## 2026-04-02 08:39 UTC - deep-review
+- **Status**: Success
+- **File**: [incompleteness-void](/voids/incompleteness-void/)
+- **Word count**: 2036 → 2032 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (style guide violation, missing frontmatter cross-link)
+- **Enhancements made**: 2 (rephrased forbidden construct, added mathematical-void to related_articles)
+- **Output**: [deep-review-2026-04-02-incompleteness-void](/reviews/deep-review-2026-04-02-incompleteness-void/)
+
 ## 2026-04-02 07:38 UTC - deep-review
 - **Status**: Success
 - **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)

@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-19 02:21:06+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-04-02 08:39:00+00:00
+ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -14,7 +14,7 @@ description: Human+AI exploration of Gödel's incompleteness theorems as cogniti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-25 08:49:00+00:00
+last_deep_review: 2026-04-02 08:39:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,6 +25,7 @@ related_articles:
 - '[[computational-cognitive-limits]]'
 - '[[cartography-problem]]'
 - '[[compound-failure-signatures]]'
+- '[[mathematical-void]]'
 title: The Incompleteness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -32,7 +33,7 @@ topics:
 
 Gödel's incompleteness theorems prove that any sufficiently powerful formal system contains true statements it cannot prove. This mathematical result has profound implications for understanding consciousness: if minds are formal systems, they face inherent limits on self-knowledge. If minds transcend formal systems, the mechanism of that transcendence may itself be unknowable. Either way, a void opens.
 
-This is not merely the [self-reference paradox](/voids/self-opacity/) in formal dress. The incompleteness void concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
+The incompleteness void goes beyond the [self-reference paradox](/voids/self-opacity/): it concerns truths that are *provably* inaccessible—not because we lack time or intelligence, but because the mathematics of self-reference precludes access. Gödel demonstrated something stronger than "we haven't figured this out yet." He proved certain truths lie beyond the reach of specific methods, permanently.
 
 ## Gödel's Disjunction
 
