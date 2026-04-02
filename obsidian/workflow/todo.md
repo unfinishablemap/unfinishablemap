@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address 10 bits/s bandwidth misattribution and hard problem relocation in attention-as-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) The ~10 bits/s figure (Zheng & Meister 2024) measures conscious behavioural throughput, not "phenomenal attention" bandwidth — the article over-interprets this as evidence for a distinct phenomenal process. (2) The interface hypothesis relocates the hard problem rather than resolving it — should acknowledge this explicitly. See pessimistic-2026-04-02.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-02
+
+### P2: Tighten irreducibility arguments in consciousness-and-the-phenomenology-of-place.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) Opening "complete physical description" restricts to room properties, ignoring observer brain state — vulnerable to Dennettian objection. (2) IIT critique uses scalar phi as strawman when IIT's quale structure is multi-dimensional. (3) Falsification conditions reduce to solving the hard problem, making irreducibility claim practically unfalsifiable. See pessimistic-2026-04-02.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-02
+
 ### P2: Deep review ownership-void.md
 - **Type**: deep-review
 - **Status**: pending
