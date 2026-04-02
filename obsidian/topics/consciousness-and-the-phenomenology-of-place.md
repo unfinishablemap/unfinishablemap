@@ -4,7 +4,7 @@ description: "How the felt character of being in a place—atmosphere, familiari
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-01T21:52:00+00:00
+ai_modified: 2026-04-02T03:38:00+00:00
 draft: false
 topics:
   - "[[consciousness-as-perceptual-architect]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-01T21:52:00+00:00
+last_deep_review: 2026-04-02T03:38:00+00:00
 ---
 
 The experience of being *in a place* is among the most integrative feats consciousness performs. Walking into a childhood home, entering a cathedral, or stepping onto an unfamiliar street at dusk — each generates a unified felt character that binds sensory perception, bodily orientation, emotional tone, and biographical memory into something no list of physical properties captures. The Unfinishable Map argues that this binding — what phenomenologists call the *atmosphere* or *genius loci* of a place — provides evidence that consciousness is irreducible to information processing. A complete physical description of a room's dimensions, lighting, temperature, and acoustic properties leaves out everything that matters about what it is like to be there.
@@ -130,6 +130,8 @@ The irreducibility claim for place-experience would face difficulty if:
 ## References
 
 1. Merleau-Ponty, M. (1945). *Phénoménologie de la perception*. Gallimard.
+1. Heidegger, M. (1927). *Sein und Zeit*. Max Niemeyer Verlag.
 1. Heidegger, M. (1951). "Bauen Wohnen Denken" ("Building Dwelling Thinking"). Lecture delivered at the Darmstadt Symposium.
+1. Freud, S. (1919). "Das Unheimliche." *Imago*, 5(5–6), 297–324.
 1. Böhme, G. (1993). "Atmosphere as the Fundamental Concept of a New Aesthetics." *Thesis Eleven*, 36, 113–126.
 1. Casey, E. S. (1997). *The Fate of Place: A Philosophical History*. University of California Press.
