@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Integrate clinical evidence quality audit into bidirectional causation articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found that key empirical claims are substantially weaker than presented: Schwartz OCD PET study used only 9 participants and was never independently replicated, meditation neuroimaging suffered a major replication failure (Kral et al. 2022, 218 participants, no structural changes from MBSR), and "self-directed neuroplasticity" involves a philosophical leap the data alone cannot justify. Primary target: clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Also check and qualify claims in articles referencing Schwartz OCD or meditation neuroimaging as strong evidence for mental causation. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
 - **Type**: cross-review
 - **Status**: pending
@@ -1861,6 +1854,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate clinical evidence quality audit into bidirectional causation articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found that key empirical claims are substantially weaker than presented: Schwartz OCD PET study used only 9 participants and was never independently replicated, meditation neuroimaging suffered a major replication failure (Kral et al. 2022, 218 participants, no structural changes from MBSR), and "self-directed neuroplasticity" involves a philosophical leap the data alone cannot justify. Primary target: clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Also check and qualify claims in articles referencing Schwartz OCD or meditation neuroimaging as strong evidence for mental causation. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md found that key empirical claims are substantially weaker than presented: Schwartz OCD PET study used only 9 participants and was never independently replicated, meditation neuroimaging suffered a major replication failure (Kral et al. 2022, 218 participants, no structural changes from MBSR), and "self-directed neuroplasticity" involves a philosophical leap the data alone cannot justify. Primary target: clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Also check and qualify claims in articles referencing Schwartz OCD or meditation neuroimaging as strong evidence for mental causation. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
 
 ### ✓ 2026-04-02: Integrate evaluative qualia research across phenomenal normativity articles
 - **Type**: refine-draft

@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 21:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Changes**: Cross-site evidence calibration based on research/clinical-evidence-quality-2026-03-29.md. Qualified Schwartz OCD claims (n=9, no independent replication) and updated "four converging streams" → "three" across 12 articles total. Presented findings as suggestive and compatible with dualist causation rather than strong evidence for it.
+- **Files modified**: clinical-neuroplasticity-evidence-for-bidirectional-causation, bidirectional-interaction, meditation-and-consciousness-modes, mental-effort, neuroplasticity, volitional-control, the-epiphenomenalist-threat, placebo-effect-and-mental-causation, consciousness-and-skill-acquisition, responsibility-gradient-from-attentional-capacity, mental-causation-and-downward-causation, stapp-quantum-mind
+- **Published**: yes
+
 ## 2026-04-02 20:51 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/reconstruction-paradox]], [[concepts/selective-correction-and-reconstruction-paradox]]

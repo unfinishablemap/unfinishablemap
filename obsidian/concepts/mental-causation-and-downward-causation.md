@@ -4,7 +4,7 @@ description: "How mental states cause physical effects despite Kim's exclusion a
 created: 2026-01-15
 modified: 2026-03-30
 human_modified: null
-ai_modified: 2026-03-30T14:00:00+00:00
+ai_modified: 2026-04-02T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -225,7 +225,7 @@ Mental causation and downward causation are central to the Map's framework.
 - [[delegatory-dualism]] — Saad's 2025 response: experiences preempt rather than overdetermine
 - [[psychophysical-laws]] — How mental states select physical outcomes
 - [[psychophysical-laws-bridging-mind-and-matter]] — Framework requiring selection laws for mental causation
-- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Three converging clinical evidence streams suggestive of mental causation
 - [[content-specificity-of-mental-causation]] — Meaning determines which physical effects occur
 - [[arguments/epiphenomenalism-argument]] — The cumulative case against epiphenomenalism
 - [[self-stultification-as-master-argument]] — Self-stultification generalised beyond epiphenomenalism

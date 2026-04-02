@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-26T14:45:00+00:00
+ai_modified: 2026-04-02T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -215,7 +215,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[interactionist-dualism]] — The Map's positive framework
 - [[psychophysical-laws]] — What coupling between mind and matter requires
 - [[evolutionary-case-for-mental-causation]] — Why evolution requires consciousness to be causally efficacious
-- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams showing intentional mental activity reshapes neural architecture
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Three converging clinical evidence streams suggestive of intentional mental activity reshaping neural architecture
 - [[placebo-effect-and-mental-causation]] — Content-specific belief states producing targeted physiological changes
 - [[pain-consciousness-and-causal-power]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [[content-specificity-of-mental-causation]] — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain

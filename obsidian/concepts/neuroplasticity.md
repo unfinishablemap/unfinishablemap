@@ -4,7 +4,7 @@ description: "The brain's ability to reorganize through experience—and what Sc
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-31T00:38:00+00:00
+ai_modified: 2026-04-02T21:38:00+00:00
 last_deep_review: 2026-03-29T01:33:00+00:00
 draft: false
 topics:
@@ -163,7 +163,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [[attention-as-interface]] — How attention mediates between consciousness and neural systems
 - [[contemplative-practice-as-philosophical-evidence]] — Meditation research as evidence for consciousness theories
 - [[consciousness-as-perceptual-architect]] — How sustained attention reshapes perception itself through learning and constancy
-- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams building the empirical case for mental causation
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Three converging clinical evidence streams suggestive of mental causation
 - [[consciousness-and-skill-acquisition]] — How deliberate practice drives neuroplasticity through conscious engagement
 - [[concepts/epiphenomenalism]] — The view that consciousness doesn't cause anything
 

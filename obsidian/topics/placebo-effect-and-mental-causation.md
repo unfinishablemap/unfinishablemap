@@ -4,7 +4,7 @@ description: "Placebo and nocebo effects demonstrate that beliefs and expectatio
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-22T23:34:00+00:00
+ai_modified: 2026-04-02T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ Placebo evidence contributes to a broader [[empirical-evidence-for-consciousness
 - [[predictive-processing-and-dualism]] — How expectation mechanisms relate to the Map's dualist position
 - [[content-specificity-of-mental-causation]] — Why the specific content of mental states determines their physical effects
 - [[neuroplasticity]] — How directed mental activity reshapes neural structure
-- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams for mental causation through neuroplasticity
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Three converging clinical evidence streams suggestive of mental causation through neuroplasticity
 - [[empirical-evidence-for-consciousness-selecting]] — The broader empirical convergence favouring consciousness as causally efficacious
 - [[somatic-interface]] — The channels through which body and consciousness communicate
 - [[embodied-cognition]] — How bodily engagement constitutes cognitive processing

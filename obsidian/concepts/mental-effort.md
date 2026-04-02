@@ -4,7 +4,7 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-29T15:11:00+00:00
+ai_modified: 2026-04-02T21:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -78,9 +78,9 @@ Yet this position is unstable. If the *feeling* of effort is causally disconnect
 
 ## Empirical Evidence: Neuroplasticity
 
-[[neuroplasticity|Neuroplasticity research]] provides significant empirical support for mental effort as causally efficacious. The core finding: directed attention produces measurable brain changes without drugs, surgery, or external intervention.
+[[neuroplasticity|Neuroplasticity research]] provides suggestive empirical support for mental effort as causally efficacious, though the evidence admits materialist reinterpretation. The core observation: cognitive-behavioural intervention produces measurable brain changes without drugs, surgery, or external intervention.
 
-Jeffrey Schwartz's OCD research is the clearest example. Patients learned to redirect attention away from obsessive thoughts using a cognitive four-step method. PET scans showed altered metabolism in the caudate nucleus after successful treatment—patients *thought* their way to brain changes. The crucial point for phenomenology: effort *feels* different when you're genuinely redirecting attention versus passively experiencing thoughts. Schwartz's patients reported the Refocus step—deliberately shifting attention to a constructive activity—as the hardest and most effortful. The phenomenology of work matched the causal role. If effort were illusory, this correspondence would be coincidental.
+Jeffrey Schwartz's OCD research is the most-discussed example. Patients learned to redirect attention away from obsessive thoughts using a cognitive four-step method. PET scans showed altered metabolism in the caudate nucleus after successful treatment—though the original study included only 18 participants (9 new) and has not been independently replicated outside Schwartz's group (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]]). The crucial point for phenomenology: effort *feels* different when you're genuinely redirecting attention versus passively experiencing thoughts. Schwartz's patients reported the Refocus step—deliberately shifting attention to a constructive activity—as the hardest and most effortful. The phenomenology of work matched the causal role. If effort were illusory, this correspondence would be coincidental.
 
 Contemplative evidence extends the pattern in functional terms. Long-term meditators show functional brain differences (altered activation patterns, gamma synchrony) that track their practice, and brief meditation training produces measurable functional effects. However, earlier claims of structural changes (increased cortical thickness) have been weakened by Kral et al. (2022), whose well-powered replication with 218 participants and active controls found no structural brain changes from MBSR. The phenomenology of sustained attention—effortful at first, gradually easing with mastery—corresponds to the functional neural trajectory, even if structural remodelling claims require more cautious interpretation.
 

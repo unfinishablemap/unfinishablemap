@@ -4,7 +4,7 @@ description: "Two modes of consciousness: active selection through attention and
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-28T14:18:00+00:00
+ai_modified: 2026-04-02T21:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -41,7 +41,7 @@ This distinction extends The Unfinishable Map's [[tenets#^bidirectional-interact
 
 Active selection is the mode emphasized throughout the Map. Consciousness attends to something, and this [[attention-as-interface|attention]] influences which neural patterns persist. The proposed mechanism is the [[quantum-consciousness|quantum Zeno effect]]: rapid observation would hold quantum states stable against decoherence, allowing consciousness to bias which possibilities become actual.
 
-Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. This is not metaphor; effort does real work. Jeffrey Schwartz's OCD therapy demonstrates that directed attention produces measurable neuroplasticity. Attention is the interface through which consciousness acts on matter.
+Phenomenologically, this mode feels effortful. Sustained concentration on a difficult task, resisting distraction, holding an intention stable—all require what we call mental effort. This is not metaphor; effort does real work. Jeffrey Schwartz's OCD therapy provides suggestive evidence that directed attention can produce measurable neuroplasticity—though the original study was small (18 participants, 9 new) and has not been independently replicated. Attention is the interface through which consciousness acts on matter.
 
 The neural signature of active selection includes:
 - Frontal theta oscillations (~4-8 Hz)

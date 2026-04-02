@@ -4,7 +4,7 @@ description: "Mental effort operates through the quantum Zeno effect: rapid atte
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-04-02T07:38:00+00:00
+ai_modified: 2026-04-02T21:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -176,7 +176,7 @@ The model generates falsifiable predictions:
 - [[the-participatory-universe]] — Wheeler's participatory vision that Stapp concretises
 - [[indexical-identity-quantum-measurement]] — The indexical gap: why *this* consciousness selects *this* outcome
 - [[valence-and-conscious-selection]] — Whether valence could extend the Zeno mechanism beyond value-neutral attention
-- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Four converging clinical evidence streams extending Schwartz's OCD research
+- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] — Three converging clinical evidence streams, with honest assessment of Schwartz's OCD research limitations
 - [[stapp-mental-effort-mind-matter-2026-01-14]] — Detailed research notes
 - [[qm-interpretations-beyond-many-worlds]] — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 - [[amplification-mechanisms-consciousness-physics]] — Comparative survey: Stapp's Zeno approach alongside five other amplification mechanisms
