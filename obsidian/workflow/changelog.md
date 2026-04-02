@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 02:38 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/attention-as-interface]]
+- **Before**: 3502
+- **After**: 2556
+- **Reduction**: 27%
+- **Technique**: Cut standard definitions, removed redundant roadmap paragraph, tightened prose throughout (dissociation examples, willed attention markers, effort phenomenology, motor convergence, major theories, challenges), removed meditation table, consolidated COGITATE references
+
 ## 2026-04-02 01:45 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/evolutionary-case-for-mental-causation]]

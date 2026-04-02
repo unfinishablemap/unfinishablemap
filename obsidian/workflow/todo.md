@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense attention-as-interface.md (3502 words, 140% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Coalesced from attention.md, voluntary-attention.md, and attention-motor-quantum-interface.md on 2026-02-12 — coalesced articles often retain redundancy. Preserve core arguments about attention as the selection interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-02
-
 ### P2: Deep review consciousness-and-the-phenomenology-of-place.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1861,6 +1854,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Condense attention-as-interface.md (3502 words, 140% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Coalesced from attention.md, voluntary-attention.md, and attention-motor-quantum-interface.md on 2026-02-12 — coalesced articles often retain redundancy. Preserve core arguments about attention as the selection interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/attention-as-interface.md
 
 ### ✓ 2026-04-02: Cross-review origin-of-consciousness.md considering thrownness-void insights
 - **Type**: cross-review

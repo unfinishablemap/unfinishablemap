@@ -1,6 +1,6 @@
-last_updated: '2026-04-02T00:38:01.496189+00:00'
-session_count: 5318
-cycle_position: 4946
+last_updated: '2026-04-02T01:38:01.496866+00:00'
+session_count: 5319
+cycle_position: 4947
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-02T01:38:41.060501+00:00'
-last_git_push: '2026-04-01T21:38:01.494806+00:00'
+  agentic-social: '2026-04-02T02:38:46.873083+00:00'
+last_git_push: '2026-04-02T01:38:01.496866+00:00'
 last_tweet_date: '2026-04-01'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/contemplative-practice-as-philosop)
-  type: deep-review
-  date: '2026-04-01'
-  outcome: success
 - task: deep-review (obsidian/topics/epistemology-of-first-person-evide)
   type: deep-review
   date: '2026-04-01'
@@ -127,23 +123,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-02'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 48
-  needs_replenishment: false
-  last_replenishment: '2026-04-02T01:38:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 4
-    orphan_integration: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-04-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/
-    date: '2026-04-02T01:38:41.060458+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenal-normativity-environmental-ethics/
+    date: '2026-04-02T02:38:46.873052+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - ethics-of-consciousness
+    - animal-consciousness
