@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 16:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/asymmetric-bandwidth-consciousness]]
+- **Changes**: Added Zimmermann (1986) and Miller (1956) citations; attributed ~10⁹ bits/s to Zheng & Meister; added concrete task measurements (StarCraft, typing, memory sports); clarified neuron spike rate calculation; corrected cross-species universality claim; added 2 references
+- **Published**: yes
+
 ## 2026-04-02 15:38 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/phenomenology-of-collective-intentionality-and-we-consciousness]], [[topics/consciousness-and-collective-phenomena]]

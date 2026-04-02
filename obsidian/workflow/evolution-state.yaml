@@ -1,6 +1,6 @@
-last_updated: '2026-04-02T14:38:01.504863+00:00'
-session_count: 5332
-cycle_position: 4960
+last_updated: '2026-04-02T15:38:01.505478+00:00'
+session_count: 5333
+cycle_position: 4961
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-30T22:38:01.464514+00:00'
   research-voids: '2026-04-01T22:38:01.495155+00:00'
-  coalesce: '2026-04-02T15:38:00+00:00'
+  coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-02T15:38:47.786416+00:00'
+  agentic-social: '2026-04-02T16:38:40.644180+00:00'
 last_git_push: '2026-04-02T13:38:01.502973+00:00'
 last_tweet_date: '2026-04-02'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/brain-computer-interfaces-and-the-)
-  type: deep-review
-  date: '2026-04-01'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-01'
@@ -137,14 +133,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-02'
   outcome: success
-- task: coalesce (phenomenology-of-collective-intentionality → consciousness-and-collective-phenomena)
+- task: coalesce
   type: coalesce
   date: '2026-04-02'
   outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/episodic-memory/
-    date: '2026-04-02T15:38:47.786383+00:00'
+  - url: https://unfinishablemap.org/concepts/idealism/
+    date: '2026-04-02T16:38:40.644154+00:00'
     topics:
     - hard-problem-of-consciousness
-    - consciousness-and-memory

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1847,6 +1840,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
+- **Output**: obsidian/concepts/asymmetric-bandwidth-consciousness.md
+
+Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
 
 ### ✓ 2026-04-02: Integrate amplification mechanisms research into consciousness-as-amplifier.md
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "The consciousness-brain interface transmits vast sensory informati
 created: 2026-03-18
 modified: 2026-03-30
 human_modified:
-ai_modified: 2026-03-30T13:15:00+00:00
+ai_modified: 2026-04-02T16:38:00+00:00
 last_deep_review: 2026-03-18T19:05:00+00:00
 draft: false
 topics:
@@ -36,15 +36,15 @@ The consciousness-brain interface is dramatically asymmetric. Sensory systems de
 
 ### Inbound: Experience Delivery
 
-The inbound channel carries information from the physical world into conscious experience. The optic nerve alone transmits on the order of 10⁸ bits per second. Nørretranders (1998) estimated aggregate sensory input reaching the brain at roughly 12 million bits per second across all modalities—10 million from vision, 1 million from touch, the rest distributed among hearing, smell, and taste. More recent estimates place total sensory throughput at ~10⁹ bits per second when peripheral neural processing is included—a figure that encompasses pre-conscious processing in the retina and spinal cord, not just signals reaching cortex. The exact inbound figure matters less than the order of magnitude: whether millions or billions, it dwarfs outbound bandwidth by many orders of magnitude.
+The inbound channel carries information from the physical world into conscious experience. Zimmermann (1986) quantified sensory system throughput: vision transmits on the order of 10⁷ bits per second, with touch contributing ~10⁶ and hearing, smell, and taste considerably less. Nørretranders (1998) popularised these figures, estimating aggregate sensory input at roughly 12 million bits per second across all modalities. Zheng and Meister (2025) place total sensory throughput at ~10⁹ bits per second when peripheral neural processing is included—a figure that encompasses pre-conscious processing in the retina and spinal cord, not just signals reaching cortex. The exact inbound figure matters less than the order of magnitude: whether millions or billions, it dwarfs outbound bandwidth by many orders of magnitude.
 
 Whether conscious experience itself is as rich as sensory input remains debated. Block (2011) argues that [[phenomenal-overflow|phenomenal consciousness overflows cognitive access]]—we experience more than we can report. Cohen, Dennett, and Kanwisher (2016) counter that ensemble statistics create the *appearance* of richness from sparser representations.
 
 ### Outbound: Volitional Selection
 
-The outbound channel carries conscious influence into the physical world. Zheng and Meister's 2025 *Neuron* perspective quantified this across dozens of cognitive tasks—typing, speech, gaming, choice-reaction, memory sports—and found a universal ceiling of approximately 10 bits per second. The convergence spans seven decades: Hick (1952) first measured the rate at ~5 bits per second using choice reaction time; Hyman (1953) confirmed the logarithmic relationship across conditions, establishing the Hick-Hyman Law. The figure holds regardless of expertise, training, or task type. Coupé et al. (2019) found that all 17 languages studied, across 9 linguistic families, converge on ~39 bits per second of speech information—but this measures the *information content of the output signal*, not the speaker's conscious decision-making rate. Much of speech production is automated; the conscious contribution—selecting what to say—is closer to ~10 bits/s.
+The outbound channel carries conscious influence into the physical world. Zheng and Meister's 2025 *Neuron* perspective quantified this across dozens of cognitive tasks—typing, speech, gaming, choice-reaction, memory sports—and found a universal ceiling of approximately 10 bits per second. The convergence spans seven decades of empirical measurement: Hick (1952) first measured the rate at ~5 bits per second using choice reaction time; Hyman (1953) confirmed the logarithmic relationship across conditions, establishing the Hick-Hyman Law. The figure holds regardless of expertise, training, or task type—professional StarCraft players achieve ~10 bits per second, expert typists at 120 words per minute reach ~10 bits per second, and even elite memory athletes memorising shuffled card decks peak at ~18 bits per second (Zheng and Meister 2025). Coupé et al. (2019) found that all 17 languages studied, across 9 linguistic families, converge on ~39 bits per second of speech information—but this measures the *information content of the output signal*, not the speaker's conscious decision-making rate. Much of speech production is automated; the conscious contribution—selecting what to say—is closer to ~10 bits/s.
 
-The bottleneck is not motor. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary "The Brain Works at More Than 10 Bits Per Second" accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far above the conscious ceiling. Individual neurons transmit ~200 bits per second. The constraint applies specifically at [[access-consciousness|conscious access]]—the point where information becomes available to the experiencing subject for deliberate use—not in the computational substrate surrounding it. Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement. The step from "behavioural ceiling in conscious tasks" to "bandwidth of conscious influence" is an interpretation, not a direct measurement—but Sauerbrei and Pruszynski's finding that unconscious processing operates at far higher bandwidth while the ceiling appears precisely where consciousness participates strongly supports this interpretation.
+The bottleneck is not motor. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary "The Brain Works at More Than 10 Bits Per Second" accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far above the conscious ceiling. Individual neurons transmit ~200 bits per second (Zheng and Meister 2025, based on ~2 bits per spike at ~100 spikes per second). The constraint applies specifically at [[access-consciousness|conscious access]]—the point where information becomes available to the experiencing subject for deliberate use—not in the computational substrate surrounding it. Strictly, Zheng and Meister measured *behavioural* throughput in tasks requiring conscious engagement. The step from "behavioural ceiling in conscious tasks" to "bandwidth of conscious influence" is an interpretation, not a direct measurement—but Sauerbrei and Pruszynski's finding that unconscious processing operates at far higher bandwidth while the ceiling appears precisely where consciousness participates strongly supports this interpretation.
 
 ## Why the Asymmetry Matters
 
@@ -80,7 +80,7 @@ The asymmetry functions as evidence within the Map's framework in three ways:
 
 ## The Evolutionary Puzzle
 
-Why has evolution not widened the outbound channel? Brain complexity has increased enormously from simple organisms to humans, yet the ~10 bits per second ceiling appears universal across species with measurable conscious processing. The ceiling also resists individual training: memory athletes, professional gamers, and speed typists do not process more bits per second of novel conscious information—they compress information through chunking so that fewer conscious decisions accomplish more. Expertise works *around* the ceiling, not *through* it. Zheng and Meister suggest inheritance from primitive serial-processing organisms. This is a plausible neural explanation—serial processing may be deeply embedded in vertebrate brain architecture, and evolutionary pressure may have favoured faster *preparation* of options over wider conscious throughput, since parallel motor systems already handle rapid execution.
+Why has evolution not widened the outbound channel? Brain complexity has increased enormously from simple organisms to humans, yet the ~10 bits per second ceiling appears remarkably stable across all human tasks measured to date—and cross-species data, though sparse, suggests similar constraints in other vertebrates (Zheng and Meister 2025). The ceiling also resists individual training: memory athletes, professional gamers, and speed typists do not process more bits per second of novel conscious information—they compress information through what Miller (1956) identified as *chunking*, so that fewer conscious decisions accomplish more. Miller showed that immediate memory holds ~7 chunks regardless of chunk size; expertise expands what counts as a single chunk, not how many chunks consciousness handles. Expertise works *around* the ceiling, not *through* it. Zheng and Meister suggest inheritance from primitive serial-processing organisms. This is a plausible neural explanation—serial processing may be deeply embedded in vertebrate brain architecture, and evolutionary pressure may have favoured faster *preparation* of options over wider conscious throughput, since parallel motor systems already handle rapid execution.
 
 The Map offers an alternative structural explanation: if the ceiling reflects the capacity of a mind-brain *interface* rather than a neural-architectural constraint, evolution can optimise only the brain's side—preparing better options faster—but cannot widen a channel whose narrow end is non-physical. Both explanations account for the data. The neural-architectural explanation is more parsimonious if one already accepts materialism; the interface explanation is more natural if one already accepts dualism. The asymmetry alone does not decide between them—but within the Map's framework, the interface explanation has the advantage of unifying the evolutionary puzzle with the directionality puzzle (why inbound and outbound differ so radically).
 
@@ -108,20 +108,26 @@ The asymmetric bandwidth concept connects to all five tenets. **[[tenets#^dualis
 1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26.
 1. Hyman, R. (1953). Stimulus information as a determinant of reaction time. *Journal of Experimental Psychology*, 45(3), 188–196.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643–657.
+1. Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81–97.
 1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
 
-<!-- AI REFINEMENT LOG - 2026-03-30 (second pass)
+<!-- AI REFINEMENT LOG - 2026-04-02 (third pass)
 Changes made:
-- Added Hick (1952) and Hyman (1953) historical grounding to outbound section, establishing the Hick-Hyman Law
-- Added Coupé et al. (2019) cross-linguistic speech universality finding with methodological note on conscious vs automated processing
-- Added Musslick et al. (2016) cognitive control capacity (~3-4 bits/s) to strengthen minimal interaction evidence
-- Added Coupé et al., Hick, Hyman, and Musslick et al. to References
+- Added Zimmermann (1986) citation for sensory bandwidth figures that Nørretranders popularised
+- Attributed the ~10⁹ bits/s "outer brain" figure to Zheng and Meister (2025), replacing uncited claim
+- Added concrete task-by-task measurements (StarCraft, typing, memory sports) to ground the convergence claim
+- Clarified ~200 bits/s per neuron attribution with spike rate calculation from Zheng and Meister
+- Added Miller (1956) citation for chunking mechanism in evolutionary puzzle section, with detail on chunk capacity
+- Corrected cross-species universality claim from unqualified assertion to properly hedged ("sparse data")
+- Added Miller (1956) and Zimmermann (1986) to References
 
-Key improvements: Stronger empirical grounding and historical depth for the outbound ceiling claim, plus the speech universality data that shows the constraint is cross-linguistic. Consistent with bandwidth-of-consciousness.md.
+Based on research in bandwidth-constraints-10-bits-2026-03-29.md.
+Key improvements: Previously unsupported bandwidth claims now have specific empirical citations. The interface friction argument rests on sourced evidence rather than bare assertions.
 
 This log should be removed after human review.
 -->
