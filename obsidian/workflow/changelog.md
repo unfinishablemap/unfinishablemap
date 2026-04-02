@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 22:44 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 449 (224 topics, 225 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 7
+- **Output**: [[reviews/tenet-check-2026-04-02]]
+
 ## 2026-04-02 22:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-causation-and-downward-causation]]
