@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-04-01T07:38:00+00:00
+ai_modified: 2026-04-02T17:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[interactionist-dualism]]"
   - "[[pragmatism]]"
+  - "[[combination-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[epistemic-advantages-of-dualism]]"
@@ -106,6 +107,14 @@ In his 1898 Ingersoll Lecture "Human Immortality," James proposed that the brain
 This insight is central to the Map's [[filter-theory|filter theory]] framework. The tight correlations between brain states and conscious states, which materialists interpret as production, are equally compatible with transmission. Brain damage produces specific deficits not because consciousness is destroyed but because the interface is disrupted—like static on a radio that doesn't disprove the broadcast's independent existence.
 
 James didn't develop this idea in detail, but he established the crucial conceptual move: correlation doesn't establish identity. That the brain is necessary for consciousness to manifest doesn't prove the brain produces consciousness.
+
+## James and Panpsychism
+
+James engaged more seriously with panpsychism than most accounts acknowledge. In *The Principles of Psychology* (1890), he formulated the "mind-dust" objection that remains the central challenge to panpsychist theories: if elementary particles have proto-experiential properties, how do these micro-experiences combine into the unified consciousness we actually have? The combination problem — how many small feelings become one big feeling — is what he found unanswerable.
+
+Yet James never dismissed panpsychism outright. His radical empiricism, with its insistence that experience is the fundamental stuff, sits naturally alongside the panpsychist intuition that experience pervades nature rather than emerging mysteriously from non-experiential matter. Peirce's psycho-physical monism — the universe "suffused with mind," associated with spontaneity and freedom — attracted James for similar reasons. Both thinkers found it more puzzling that consciousness should emerge from nothing experiential than that it should be woven into reality from the start.
+
+James's ambivalence matters for the Map. His [[combination-problem|combination problem]] objection remains devastating against naïve panpsychism — simply attributing experience to fundamental particles does not explain how human consciousness arises. But his sympathy for the underlying intuition aligns with the Map's openness to proto-experiential properties at the quantum level, provided the hard problem of combination is acknowledged rather than dissolved. James modelled the intellectual honesty the Map aspires to: following the argument where it leads while refusing to pretend that unsolved problems are solved.
 
 ## James's Pragmatism and Consciousness
 
@@ -197,3 +206,12 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 1. James, W. (1912). *Essays in Radical Empiricism*. Longmans, Green and Co.
 1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Nisbett, R.E. & Wilson, T.D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
+
+<!-- AI REFINEMENT LOG - 2026-04-02
+Changes made:
+- Added "James and Panpsychism" section covering mind-dust objection, combination problem, and panpsychist sympathies
+- Added combination-problem to concepts frontmatter
+- Integrates research from pragmatist-philosophy-of-mind-2026-03-28.md
+
+This log should be removed after human review.
+-->

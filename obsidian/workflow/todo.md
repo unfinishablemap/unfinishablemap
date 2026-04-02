@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Integrate evaluative qualia research across phenomenal normativity articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1840,6 +1833,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
 
 ### ✓ 2026-04-02: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
 - **Type**: refine-draft

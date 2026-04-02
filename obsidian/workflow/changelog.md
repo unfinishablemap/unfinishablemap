@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 17:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]], [[topics/william-james-consciousness]]
+- **Changes**: Integrated pragmatist philosophy research — added James's panpsychist sympathies and mind-dust objection to both articles, sharpened Putnam's semantic externalism, deepened enactivist inheritance lineage, added combination-problem concept links
+- **Published**: yes
+
 ## 2026-04-02 16:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/asymmetric-bandwidth-consciousness]]
