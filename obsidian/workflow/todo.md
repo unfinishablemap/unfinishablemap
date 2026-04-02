@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate testable predictions research into testing-consciousness-collapse.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Two research notes contain specific experimental paradigms not yet fully integrated: research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md and research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Check for divergent predictions, new experimental proposals, and empirical criteria that would distinguish consciousness-collapse from standard decoherence. Tenet 2 alignment critical.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
 - **Type**: condense
 - **Status**: pending
@@ -1847,6 +1840,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate testable predictions research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Two research notes contain specific experimental paradigms not yet fully integrated: research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md and research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Check for divergent predictions, new experimental proposals, and empirical criteria that would distinguish consciousness-collapse from standard decoherence. Tenet 2 alignment critical.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Two research notes contain specific experimental paradigms not yet fully integrated: research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md and research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Check for divergent predictions, new experimental proposals, and empirical criteria that would distinguish consciousness-collapse from standard decoherence. Tenet 2 alignment critical.
 
 ### ✓ 2026-04-02: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
 - **Type**: cross-review

@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 23:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Changes**: Integrated content from two research notes (testable-predictions-consciousness-collapse-decoherence-2026-03-29, experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21). Added 3 new Tier 2 subsections: Selective Quantum Coherence Disruption (Kleiner & Hoel 2024), Attention-Based Selection (Stapp), quantum computer variable-Φ tests made explicit. Strengthened Tenet 2 alignment. Updated landscape table, convergence strategy, references.
+- **Published**: yes
+
 ## 2026-04-02 22:44 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 449 (224 topics, 225 concepts)
