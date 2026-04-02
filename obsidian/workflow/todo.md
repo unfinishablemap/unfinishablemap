@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review origin-of-consciousness.md considering thrownness-void insights
-- **Type**: cross-review
-- **Notes**: New article thrownness-void.md (2026-04-01) explores why consciousness cannot access its own founding conditions. Review origin-of-consciousness.md for connections — thrownness-void extends the origin question into why consciousness can't access its pre-constitutional ground. Check for cross-links and complementary arguments.
-- **Source**: chain (from thrownness-void.md)
-- **Generated**: 2026-04-01
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1832,6 +1826,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Cross-review origin-of-consciousness.md considering thrownness-void insights
+- **Type**: cross-review
+- **Notes**: New article thrownness-void.md (2026-04-01) explores why consciousness cannot access its own founding conditions. Review origin-of-consciousness.md for connections — thrownness-void extends the origin question into why consciousness can't access its pre-constitutional ground. Check for cross-links and complementary arguments.
+- **Output**: obsidian/voids/origin-of-consciousness.md -- Context: Cross-review origin-of-consciousness.md considering thrownness-void insights
 
 ### ✓ 2026-04-01: Cross-review necessary-opacity.md considering initiation-void insights
 - **Type**: cross-review
