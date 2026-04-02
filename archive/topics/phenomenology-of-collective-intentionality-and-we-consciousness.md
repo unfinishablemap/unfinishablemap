@@ -6,6 +6,11 @@ modified: 2026-03-16
 human_modified:
 ai_modified: 2026-03-26T08:48:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-02T15:38:00+00:00
+superseded_by: "/topics/consciousness-and-collective-phenomena/"
+archive_reason: "Coalesced into Consciousness and Collective Phenomena"
+original_path: "/topics/phenomenology-of-collective-intentionality-and-we-consciousness/"
 topics:
   - "[[consciousness-and-collective-phenomena]]"
   - "[[consciousness-and-social-understanding]]"
@@ -23,7 +28,6 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[other-minds-void]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-
   - "[[consciousness-and-skill-acquisition]]"
   - "[[consciousness-and-normative-force]]"
   - "[[phenomenology-of-musical-understanding]]"

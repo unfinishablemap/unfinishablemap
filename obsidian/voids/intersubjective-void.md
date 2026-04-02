@@ -21,7 +21,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[consciousness-only-territories]]"
   - "[[collective-cognitive-limits]]"
-  - "[[phenomenology-of-collective-intentionality-and-we-consciousness]]"
+  - "[[consciousness-and-collective-phenomena]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[brain-computer-interfaces-and-the-interface-boundary]]"
   - "[[framework-void]]"
@@ -89,7 +89,7 @@ Yet Husserl also saw self and other as "co-originated" in the constitution of me
 
 **Wittgenstein's challenge.** The "beetle in the box" analogy suggests that whatever is in each person's private box plays no role in the grammar of "beetle." If experience requires public criteria for meaningful reference, experience is never purely private.
 
-**"We" experiences.** Collective grief, ritual participation, group flow states have phenomenal qualities that resist purely individual description. The [[phenomenology-of-collective-intentionality-and-we-consciousness|phenomenology of collective intentionality]] explores whether "we-mode" experience constitutes genuine sharing—precisely what cannot be determined.
+**"We" experiences.** Collective grief, ritual participation, group flow states have phenomenal qualities that resist purely individual description. The [[consciousness-and-collective-phenomena|phenomenology of collective intentionality]] explores whether "we-mode" experience constitutes genuine sharing—precisely what cannot be determined.
 
 ## Social Mechanisms That Compound the Void
 
@@ -147,7 +147,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[collective-cognitive-limits]] — What groups cannot think together
 - [[three-kinds-of-void]] — The taxonomy of unexplored, unexplorable, and occluded
-- [[phenomenology-of-collective-intentionality-and-we-consciousness]] — Whether "we-mode" experience is genuine sharing
+- [[consciousness-and-collective-phenomena]] — Whether "we-mode" experience is genuine sharing
 - [[consciousness-and-social-understanding]] — The gap between knowing-about and understanding-of
 - [[framework-void]] — How conceptual frameworks exclude what they cannot represent
 - [[self-opacity|introspective opacity]] — Why we access contents but never mechanisms

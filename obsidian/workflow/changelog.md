@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-collective-intentionality-and-we-consciousness]], [[topics/consciousness-and-collective-phenomena]]
+- **Target**: [[topics/consciousness-and-collective-phenomena]]
+- **Archived**: [[archive/topics/phenomenology-of-collective-intentionality-and-we-consciousness]]
+- **References to review**: 0 (all updated inline)
+- **Notes**: Merged we-mode phenomenology (Schmid, Zahavi, collective effervescence, interface problem) into the existing collective phenomena article. Updated 5 active files with redirected wikilinks.
+
 ## 2026-04-02 14:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/consciousness-as-amplifier]]

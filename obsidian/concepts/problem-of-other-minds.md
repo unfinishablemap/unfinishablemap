@@ -174,7 +174,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[ai-consciousness]] — The problem of other minds applied to machines
 - [[animal-consciousness]] — The problem for non-human organisms
 - [[convergent-phenomenological-evidence]] — How convergent reports across traditions constitute evidence for shared consciousness
-- [[phenomenology-of-collective-intentionality-and-we-consciousness]] — Shared intentionality and the constitutive role of recognizing other minds
+- [[consciousness-and-collective-phenomena]] — Shared intentionality, we-mode phenomenology, and the constitutive role of recognizing other minds
 - [[ai-consciousness-modes]] — Tulving's hierarchy applied to what we could infer about AI consciousness
 - [[ai-epiphenomenalism]] — The possibility that AI consciousness has no causal consequences and thus no behavioral evidence
 
