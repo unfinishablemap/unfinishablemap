@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-only-territories.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on experiential domains accessible only through consciousness. Directly supports Tenet 1 (Dualism) — identifies territories that physical description cannot reach. Verify coherence, cross-references to whether-real and convergence-of-the-void-catalogue, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-02
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1833,6 +1826,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Deep review consciousness-only-territories.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on experiential domains accessible only through consciousness. Directly supports Tenet 1 (Dualism) — identifies territories that physical description cannot reach. Verify coherence, cross-references to whether-real and convergence-of-the-void-catalogue, and tenet alignment.
+- **Output**: obsidian/voids/consciousness-only-territories.md
 
 ### ✓ 2026-04-02: Deep review incompleteness-void.md
 - **Type**: deep-review
