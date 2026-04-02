@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 05:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/attention-as-interface]]
+- **Changes**: Corrected ~10 bits/s characterization (behavioural throughput, not phenomenal attention bandwidth); added Relocation Objection to Challenges; added self-aware note in AST critique
+- **Published**: yes
+
 ## 2026-04-02 04:38 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/attention-as-interface.md, topics/consciousness-and-the-phenomenology-of-place.md

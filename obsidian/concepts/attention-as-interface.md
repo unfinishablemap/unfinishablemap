@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-04-02T02:38:00+00:00
+ai_modified: 2026-04-02T05:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -88,16 +88,16 @@ Key features distinguishing phenomenal from computational attention:
 | **Effort** | Resource cost (measurable in compute/energy) | Felt work (the experience of trying) |
 | **Directedness** | Weighted signal enhancement | Experienced orientation toward an object |
 | **Selectivity** | Competitive inhibition among signals | The qualitative narrowing of awareness |
-| **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | ~10 bits per second (Zheng & Meister 2024) |
+| **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | Severely constrained (see [[bandwidth-of-consciousness]]) |
 | **Substrate** | Neurons, transistors, any suitable hardware | Unknown—possibly requires consciousness |
 
-The bandwidth asymmetry is revealing: the brain's computational attention processes vast quantities of information, but phenomenal attention operates at roughly 10 bits per second—a 100-million-fold reduction from sensory input. This makes sense if phenomenal attention is a different kind of process operating through a constrained interface.
+The bandwidth asymmetry is suggestive. Zheng and Meister (2024) measured conscious behavioural throughput at roughly 10 bits per second—a 100-million-fold reduction from sensory input. This figure measures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. Still, the vast gap between sensory throughput and conscious output is consistent with a constrained interface through which consciousness engages with neural processing.
 
 ### Why the Conflation Matters
 
 The most consequential error: inferring from "AI has attention" to "AI might have consciousness." What transformers have is computational attention—resource allocation, nothing more. Whether a system performing computational attention thereby *experiences* attending remains entirely open.
 
-[[attention-schema-theory|Attention Schema Theory]] exemplifies the conflation. Graziano proposes consciousness is the brain's model of its own attention—but the brain models its *computational* attention. AST then claims this model *is* consciousness, sliding from "the brain models its attention" (computational) to "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing it is precisely the [[hard-problem-of-consciousness|hard problem]]—the [[explanatory-gap]] relocated rather than solved.
+[[attention-schema-theory|Attention Schema Theory]] exemplifies the conflation. Graziano proposes consciousness is the brain's model of its own attention—but the brain models its *computational* attention. AST then claims this model *is* consciousness, sliding from "the brain models its attention" (computational) to "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing it is precisely the [[hard-problem-of-consciousness|hard problem]]—the [[explanatory-gap]] relocated rather than solved. (The interface hypothesis faces its own version of this relocation problem—see [[#the-relocation-objection|The Relocation Objection]] in the Challenges section.)
 
 ## Attention and Consciousness Are Dissociable
 
@@ -120,7 +120,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 | Attention is not identical to consciousness | Explains dissociation evidence |
 | Attention mediates consciousness's causal influence | Specifies the downward direction of bidirectional interaction |
 | Consciousness can only influence what it attends to | Explains [[brain-interface-boundary|brain specialness]]—why not psychokinesis |
-| Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
+| Conscious behavioural throughput is severely limited | Consistent with a constrained interface |
 | A candidate mechanism exists (quantum Zeno effect) | Rapid observation holds desired neural patterns (alternatives possible) |
 
 If consciousness can influence matter, why not everywhere? The [[brain-interface-boundary]] article develops why: attention requires neural infrastructure, the candidate mechanisms require rapid observation achievable only within neural systems, and [[concepts/consciousness-selecting-neural-patterns|selection]] works by biasing ongoing neural competition that external systems are not part of.
@@ -166,7 +166,7 @@ Where in the brain does the interface operate?
 | **Salience network** | Anterior insula + ACC switching between networks | Voluntary interruption of ongoing processing |
 | **Thalamic nuclei** | Relay: ascending sensory meets descending voluntary | Selection at the "gate" determining cortical access |
 | **Ion channels (Stapp)** | Sites where quantum effects survive | [[mental-effort|Zeno effect]] via "probing actions" |
-| **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/s bandwidth |
+| **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection consistent with limited conscious throughput |
 
 COGITATE (2025) suggests attention and consciousness networks are distinct; selection might occur where they meet. See [[attention-and-the-consciousness-interface]].
 
@@ -193,6 +193,8 @@ COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets 
 **The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Revised calculations (Hagan et al. 2002) extend coherence times significantly; biological precedent (avian magnetoreception) demonstrates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [[quantum-neural-timing-constraints]].
 
 **The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. But if the sense of effort is an illusion, something must experience that illusion—the regress problem. Even philosophers who accept illusionism report attention *still feels* effortful.
+
+**The Relocation Objection**: The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (e.g., quantum selection), but does not explain *why* phenomenal attention exists or how subjective experience arises from—or connects to—physical processes. The hard problem is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" This is a genuine limitation. The hypothesis gains its value not by dissolving the hard problem but by constraining where the explanatory gap sits—narrowing the mystery from "consciousness and the brain" to "consciousness and attentional selection"—which may prove more tractable.
 
 **The Functionalist Challenge**: Computational attention is fully specifiable in terms of inputs, outputs, and processing. But phenomenal attention resists functional specification—two systems performing identical computational attention could differ in phenomenal attention (or one could lack it entirely). A concrete instance of the general anti-[[concepts/functionalism|functionalist]] argument.
 
@@ -262,3 +264,15 @@ The hypothesis would fail if:
 22. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 23. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 24. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+
+<!-- AI REFINEMENT LOG - 2026-04-02
+Changes made:
+- Corrected characterization of Zheng & Meister (2024) ~10 bits/s figure: now explicitly described as conscious behavioural throughput, not phenomenal attention bandwidth. Removed direct equation between this figure and phenomenal attention bandwidth throughout (table, hypothesis statement, candidate sites).
+- Added "The Relocation Objection" to Challenges section: acknowledges that the interface hypothesis relocates rather than resolves the hard problem, while arguing this narrowing may be productive.
+- Added self-aware parenthetical in AST critique noting the interface hypothesis faces its own relocation problem.
+
+Based on pessimistic review findings (pessimistic-2026-04-02.md).
+Key improvements: intellectual honesty about the hypothesis's limitations and more careful use of empirical evidence.
+
+This log should be removed after human review.
+-->
