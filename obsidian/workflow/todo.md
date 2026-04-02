@@ -3845,3 +3845,31 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The specific burden illusionism carries — explaining universal phenomenal error — is referenced across parsimony-case, hard-problem, dualism articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-03-31.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-31
+
+### P3: Write article on phenomenology of interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map documents *what* interface friction looks like (blur, degradation, compensatory generation) but lacks a unified phenomenological account of *what friction feels like* — the common experiential texture across cognitive effort, perceptual degradation, and attentional strain. Builds on perceptual-failure-and-the-interface, perceptual-degradation-and-the-interface, bandwidth-of-consciousness. See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
+
+### P3: Write article on developmental phenomenology of the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How does the consciousness-brain interface change across the lifespan? Infant consciousness (unconstructed interface), cognitive decline in aging (interface degradation), developmental trajectory as constraint on mechanism. Builds on consciousness-interface-development, the-interface-location-problem, embodied-consciousness-and-the-interface. See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
+
+### P3: Add cross-links between fitness-beats-truth/adaptive-cognitive-limits, motor-selection/evolutionary-case, phenomenal-transparency/perceptual-degradation, and brain-specialness/interface-location clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: fitness-beats-truth → adaptive-cognitive-limits (formal grounding), phenomenal-transparency → perceptual-degradation-and-the-interface (transparency breakdown mechanism), motor-selection → evolutionary-case-for-mental-causation (mechanism for selected-for efficacy), implicit-memory → embodied-consciousness-and-the-interface (interface delegation), brain-specialness-boundary → the-interface-location-problem (boundary follows from location), consciousness-and-the-phenomenology-of-place → embodied-cognition (paradigm case). See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
+
+### P3: Create concept page for interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The felt texture of consciousness encountering its own bandwidth limits — referenced across perceptual degradation, cognitive effort, and attentional strain articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
