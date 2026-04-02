@@ -9,6 +9,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-02 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [meaning-of-life](/topics/meaning-of-life/)
+- **Word count**: 3272 → 3295 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphaned Landau citation integrated, Nagel attribution corrected)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-02-meaning-of-life](/reviews/deep-review-2026-04-02-meaning-of-life/)
+
+## 2026-04-02 12:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Changes**: Integrated remaining findings from research/anaesthetic-recovery-neuroscience-2026-03-26.md. Added Sanders et al. "different circuitry" asymmetry, GNW interpretation with Map reframing (workspace needs inhabiting, not merely activating), and non-localised emergence implications. Added Bhatt et al. (2021) reference.
+- **Published**: yes
+
+## 2026-04-02 11:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/), [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Changes**: Integrated post-decoherence selection framework from research/post-decoherence-selection-mechanisms-2026-03-29.md. Reframed core claims to foreground post-decoherence gap (improper mixture argument, Schlosshauer's three sub-problems) rather than relying on pre-decoherence quantum coherence. Added new "Post-Decoherence Alternative" section to non-retrocausal article. Addresses pessimistic review concern about inflated empirical claims.
+- **Published**: yes
+
+## 2026-04-02 10:48 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~452 articles). Deep reading of 18 articles spanning interface architecture, quantum mind, evolutionary arguments, embodied cognition, perceptual phenomenology, pragmatism, epistemic methodology
+- **Output**: [optimistic-2026-04-02](/reviews/optimistic-2026-04-02/)
+
 ## 2026-04-02 09:38 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-only-territories](/voids/consciousness-only-territories/)

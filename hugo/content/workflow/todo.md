@@ -38,6 +38,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Integrate amplification mechanisms research into consciousness-as-amplifier.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Integrate evaluative qualia research across phenomenal normativity articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/evaluative-qualia-phenomenal-normativity-2026-03-27.md bridges analytic philosophy with cross-cultural traditions (Buddhist, Confucian, Indian, Islamic) on irreducible evaluative properties of experience. Integrate findings into evaluative-qualia.md and phenomenal-normativity-environmental-ethics.md. Strengthens the case against epiphenomenalism by showing evaluative phenomenology is cross-culturally convergent.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1827,6 +1855,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate anaesthetic recovery neuroscience research into anaesthesia article
+- **Type**: refine-draft
+- **Notes**: Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, and stochastic consciousness recovery. Integrate into anaesthesia-and-the-consciousness-interface.md (which absorbed the coalesced anaesthetic-recovery-and-the-filter-problem.md). Replaces superseded expand-topic task from 2026-03-23.
+- **Output**: Task context:
+Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, and stochastic consciousness recovery. Integrate into anaesthesia-and-the-consciousness-interface.md (which absorbed the coalesced anaesthetic-recovery-and-the-filter-problem.md). Replaces superseded expand-topic task from 2026-03-23.
+
+### ✓ 2026-04-02: Integrate post-decoherence selection mechanisms research into quantum selection articles
+- **Type**: refine-draft
+- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md identifies the post-decoherence gap as the point where consciousness could act without violating known physics. Integrate findings into consciousness-selecting-neural-patterns.md and non-retrocausal-conscious-selection-models.md to ground selection claims in the post-decoherence framework rather than relying on pre-decoherence quantum coherence. Addresses pessimistic review concern about inflated empirical claims in quantum mechanism articles.
+- **Output**: Task context:
+Research in research/post-decoherence-selection-mechanisms-2026-03-29.md identifies the post-decoherence gap as the point where consciousness could act without violating known physics. Integrate findings into consciousness-selecting-neural-patterns.md and non-retrocausal-conscious-selection-models.md to ground selection claims in the post-decoherence framework rather than relying on pre-decoherence quantum coherence. Addresses pessimistic review concern about inflated empirical claims in quantum mechanism articles.
 
 ### ✓ 2026-04-02: Deep review consciousness-only-territories.md
 - **Type**: deep-review
@@ -3804,3 +3844,31 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The specific burden illusionism carries — explaining universal phenomenal error — is referenced across parsimony-case, hard-problem, dualism articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-03-31.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-31
+
+### P3: Write article on phenomenology of interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map documents *what* interface friction looks like (blur, degradation, compensatory generation) but lacks a unified phenomenological account of *what friction feels like* — the common experiential texture across cognitive effort, perceptual degradation, and attentional strain. Builds on perceptual-failure-and-the-interface, perceptual-degradation-and-the-interface, bandwidth-of-consciousness. See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
+
+### P3: Write article on developmental phenomenology of the interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How does the consciousness-brain interface change across the lifespan? Infant consciousness (unconstructed interface), cognitive decline in aging (interface degradation), developmental trajectory as constraint on mechanism. Builds on consciousness-interface-development, the-interface-location-problem, embodied-consciousness-and-the-interface. See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
+
+### P3: Add cross-links between fitness-beats-truth/adaptive-cognitive-limits, motor-selection/evolutionary-case, phenomenal-transparency/perceptual-degradation, and brain-specialness/interface-location clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: fitness-beats-truth → adaptive-cognitive-limits (formal grounding), phenomenal-transparency → perceptual-degradation-and-the-interface (transparency breakdown mechanism), motor-selection → evolutionary-case-for-mental-causation (mechanism for selected-for efficacy), implicit-memory → embodied-consciousness-and-the-interface (interface delegation), brain-specialness-boundary → the-interface-location-problem (boundary follows from location), consciousness-and-the-phenomenology-of-place → embodied-cognition (paradigm case). See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
+
+### P3: Create concept page for interface friction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The felt texture of consciousness encountering its own bandwidth limits — referenced across perceptual degradation, cognitive effort, and attentional strain articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-04-02.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-02
