@@ -21,7 +21,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[the-silence-void]]"
   - "[[phenomenal-presence-void]]"
-  - "[[reconstruction-paradox]]"
+  - "[[selective-correction-and-reconstruction-paradox]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

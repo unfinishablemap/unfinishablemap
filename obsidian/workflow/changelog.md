@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 20:51 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/reconstruction-paradox]], [[concepts/selective-correction-and-reconstruction-paradox]]
+- **Target**: [[concepts/selective-correction-and-reconstruction-paradox]]
+- **Archived**: archive/voids/reconstruction-paradox.md
+- **References to review**: 0 (all updated)
+
 ## 2026-04-02 19:38 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/evaluative-qualia]], [[topics/phenomenal-normativity-environmental-ethics]]

@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
 last_deep_review: 2026-03-12T23:19:00+00:00
+archived: true
+archived_date: 2026-04-02T20:51:00+00:00
+superseded_by: "/concepts/selective-correction-and-reconstruction-paradox/"
+archive_reason: "Coalesced into Selective Correction and the Reconstruction Paradox"
+original_path: "/voids/reconstruction-paradox/"
 ---
 
 The brain edits perception before consciousness receives it. It fills in the blind spot, suppresses visual blur during eye movements, maintains colour constancy across changing illumination, and interpolates motion across gaps. These corrections happen silently—consciousness never sees the raw signal, only the cleaned-up version. Yet the same brain faithfully delivers optical blur, tinnitus, visual floaters, and the Müller-Lyer illusion to consciousness without correction, even when the conscious mind knows the signal is degraded or false. This asymmetry—the reconstruction paradox—marks a boundary in the architecture of perception that neither neuroscience nor philosophy has adequately explained.

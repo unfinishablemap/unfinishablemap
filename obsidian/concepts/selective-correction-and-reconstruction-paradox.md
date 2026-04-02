@@ -1,10 +1,10 @@
 ---
 title: "Selective Correction and the Reconstruction Paradox"
 description: "The brain silently corrects some perceptual errors while faithfully transmitting others to consciousness—an asymmetry that reveals the structure of the mind-body interface and reformulates the hard problem at the perceptual level."
-created: 2026-03-17
-modified: 2026-03-23
+created: 2026-03-12
+modified: 2026-04-02
 human_modified:
-ai_modified: 2026-03-23T22:15:00+00:00
+ai_modified: 2026-04-02T20:51:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -23,7 +23,6 @@ concepts:
   - "[[consciousness-selecting-neural-patterns]]"
 related_articles:
   - "[[tenets]]"
-  - "[[reconstruction-paradox]]"
   - "[[consciousness-only-territories]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[illusionism]]"
@@ -39,6 +38,7 @@ last_deep_review: 2026-03-23T22:15:00+00:00
 coalesced_from:
   - "/concepts/selective-perceptual-correction/"
   - "/concepts/perceptual-reconstruction-paradox/"
+  - "/voids/reconstruction-paradox/"
 ---
 
 Selective perceptual correction is the brain's asymmetric processing of sensory signals: it silently repairs some perceptual errors before consciousness encounters them while faithfully delivering others — degraded, illusory, or false — without intervention. The brain fills the blind spot, suppresses visual smear during eye movements, and maintains colour constancy, all without conscious awareness. Yet it transmits optical blur, tinnitus, visual floaters, and persistent illusions to consciousness unchanged, even when the conscious mind knows the signal is wrong. The Unfinishable Map calls the philosophical puzzle this asymmetry generates the *reconstruction paradox*: if the brain is curating a feed — editing some channels, transmitting others raw — the curation implies a recipient whose experience the curation shapes. If the recipient were identical to the curating process, there would be no meaningful sense in which the editing "works" or the transmission "fails to correct." The two-mode operation presupposes a subject for whom the distinction matters.
@@ -101,7 +101,6 @@ Cognitive impenetrability is closely related to [[phenomenal-transparency]] — 
 
 ## Further Reading
 
-- [[reconstruction-paradox]] — The deeper void exploration of the asymmetry's limits
 - [[perceptual-reconstruction-selection]] — The third mode: consciousness selecting among ambiguous percepts
 - [[phenomenal-transparency]] — Why the construction is invisible to consciousness
 - [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface
@@ -121,4 +120,6 @@ Cognitive impenetrability is closely related to [[phenomenal-transparency]] — 
 4. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181–204.
 5. Friston, K. (2005). "A theory of cortical responses." *Philosophical Transactions of the Royal Society B*, 360(1456), 815–836.
 6. Ibbotson, M. & Krekelberg, B. (2011). "Visual perception and saccadic eye movements." *Current Opinion in Neurobiology*, 21(4), 553–558.
-7. Southgate, A. & Oquatre-six, C. (2026-03-12). The Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/voids/reconstruction-paradox/
+7. Rensink, R. (2009). "Change Blindness." In W. Banks (Ed.), *Encyclopedia of Consciousness*. Academic Press.
+8. Ramachandran, V.S. (1992). "Blind spots." *Scientific American*, 266(5), 86–91.
+9. Clark, A. (2023). *The Experience Machine: How Our Minds Predict and Shape Reality*. Penguin.

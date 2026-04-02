@@ -20,7 +20,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[mysterianism]]"
 related_articles:
-  - "[[reconstruction-paradox]]"
+  - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[filter-theory]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[perceptual-degradation-and-the-interface]]"
@@ -44,7 +44,7 @@ The [[predictive-processing]] framework models this as competition between two e
 
 ## The Selection Gap
 
-[[selective-correction-and-reconstruction-paradox|Selective perceptual correction]] describes cases where the brain resolves ambiguity autonomously — filling the blind spot, stabilising vision during saccades — without conscious involvement. The [[reconstruction-paradox|reconstruction paradox]] asks why the brain corrects some signals and not others. Perceptual reconstruction selection addresses a third case: where the brain *cannot* resolve the ambiguity and consciousness must participate.
+[[selective-correction-and-reconstruction-paradox|Selective perceptual correction]] describes cases where the brain resolves ambiguity autonomously — filling the blind spot, stabilising vision during saccades — without conscious involvement. The [[selective-correction-and-reconstruction-paradox|reconstruction paradox]] asks why the brain corrects some signals and not others. Perceptual reconstruction selection addresses a third case: where the brain *cannot* resolve the ambiguity and consciousness must participate.
 
 This three-way distinction clarifies the architecture:
 
@@ -66,7 +66,7 @@ This division of labour maps onto interactionist dualism. The brain proposes; co
 
 Perceptual reconstruction selection should not be confused with simple perceptual choice or decision-making. When choosing between two menu items, the options are cognitively represented and deliberated upon. In bistable perception, the alternatives are *perceptual* — they arise from the same sensory input processed through different generative models. The selection occurs below the level of deliberation, at the interface between perceptual processing and conscious experience.
 
-Nor is selection the same as the [[reconstruction-paradox|reconstruction paradox]]'s asymmetry. The paradox concerns *whether* the brain corrects — a binary between correction and transmission. Selection concerns *which reconstruction prevails* when multiple candidates compete. The paradox reveals the architecture's two modes; selection reveals a third mode where the architecture requires conscious participation to resolve.
+Nor is selection the same as the [[selective-correction-and-reconstruction-paradox|reconstruction paradox]]'s asymmetry. The paradox concerns *whether* the brain corrects — a binary between correction and transmission. Selection concerns *which reconstruction prevails* when multiple candidates compete. The paradox reveals the architecture's two modes; selection reveals a third mode where the architecture requires conscious participation to resolve.
 
 ## Relation to Site Perspective
 
@@ -79,9 +79,7 @@ The Map speculates that the meditation findings are particularly revealing. If t
 ## Further Reading
 
 - [[consciousness-selecting-neural-patterns]] — the general framework for conscious selection at the neural level
-- [[selective-correction-and-reconstruction-paradox]] — the mechanism of autonomous brain correction
-- [[selective-correction-and-reconstruction-paradox|reconstruction paradox]] — the philosophical paradox of asymmetric perceptual editing
-- [[reconstruction-paradox]] — the void exploration of the asymmetry's limits
+- [[selective-correction-and-reconstruction-paradox]] — the reconstruction paradox: why the brain corrects some signals but not others
 - [[attention-as-interface]] — attention as the mechanism of conscious influence
 - [[predictive-processing-and-dualism]] — predictive processing and interactionist dualism
 - [[filter-theory]] — the brain as filter rather than generator of consciousness
