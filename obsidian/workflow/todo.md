@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-01T18:39:00+00:00
+ai_modified: 2026-04-02T20:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Integrate clinical evidence quality audit into bidirectional causation articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found that key empirical claims are substantially weaker than presented: Schwartz OCD PET study used only 9 participants and was never independently replicated, meditation neuroimaging suffered a major replication failure (Kral et al. 2022, 218 participants, no structural changes from MBSR), and "self-directed neuroplasticity" involves a philosophical leap the data alone cannot justify. Primary target: clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Also check and qualify claims in articles referencing Schwartz OCD or meditation neuroimaging as strong evidence for mental causation. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: After clinical evidence quality audit (research/clinical-evidence-quality-2026-03-29.md), downward-causation.md's references to Schwartz OCD as "strongest clinical evidence" and epiphenomenalism.md's meditation efficacy claims need alignment with qualified presentation. Verify consistency with updated claims in clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Existing P3 task addresses timing gap in downward-causation.md separately.
+- **Source**: chain (from clinical-evidence-quality research)
+- **Generated**: 2026-04-02
+
+### P2: Integrate testable predictions research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Two research notes contain specific experimental paradigms not yet fully integrated: research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md and research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Check for divergent predictions, new experimental proposals, and empirical criteria that would distinguish consciousness-collapse from standard decoherence. Tenet 2 alignment critical.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-02
+
+### P2: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Recently refined (2026-04-02) but still 167% of target. Preserve core amplifier framework and key arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-02
+
+### P2: Fix stale wikilinks from archived phenomenal-authority and epistemology-of-first-person-evidence slugs
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-01 merged phenomenal-authority-and-introspective-evidence + epistemology-of-first-person-evidence into phenomenal-authority-and-first-person-evidence.md. Reference update task was marked complete but ~87 wikilinks across the site still point to archived slugs (57 to epistemology-of-first-person-evidence, 30 to phenomenal-authority-and-introspective-evidence). Update wikilinks in topics/ and concepts/ files to point to the new unified article.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-02
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
