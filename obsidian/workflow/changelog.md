@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 12:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Changes**: Integrated remaining findings from research/anaesthetic-recovery-neuroscience-2026-03-26.md. Added Sanders et al. "different circuitry" asymmetry, GNW interpretation with Map reframing (workspace needs inhabiting, not merely activating), and non-localised emergence implications. Added Bhatt et al. (2021) reference.
+- **Published**: yes
+
 ## 2026-04-02 11:38 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[concepts/consciousness-selecting-neural-patterns]], [[topics/non-retrocausal-conscious-selection-models]]

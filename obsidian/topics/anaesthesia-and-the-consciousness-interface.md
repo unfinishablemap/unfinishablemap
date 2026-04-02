@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-31T12:38:00+00:00
+ai_modified: 2026-04-02T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ The pharmacological specificity documented here also bears on [[testing-consciou
 
 ## Recovery: What Emergence Reveals
 
-Perhaps the most revealing anaesthetic phenomenon is how consciousness returns. Recovery is not simply induction in reverse: the brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities, and genetically identical organisms show emergence times varying by two orders of magnitude. Mashour (2024) argues that emergence may be more informative than induction for understanding consciousness, because it reveals interface components coming online sequentially.
+Perhaps the most revealing anaesthetic phenomenon is how consciousness returns. Recovery is not simply induction in reverse: the brain requires lower drug concentrations to stay unconscious than to become unconscious, executive function returns before simpler capacities, and genetically identical organisms show emergence times varying by two orders of magnitude. Sanders et al. (2023) make the asymmetry explicit: the "switch on" of consciousness appears to use different neural circuitry from the "switch off," with loss and recovery following distinct mechanistic pathways. Mashour (2024) argues that emergence may therefore be more informative than induction for understanding consciousness, because it reveals interface components coming online sequentially — exposing what Bhatt et al. (2024) call the "core elements" of consciousness as they re-engage one by one.
 
 ### Neural Inertia
 
@@ -113,15 +113,15 @@ On production models, hysteresis is puzzling — why should a generator resist b
 
 Mashour et al. (2021) documented that induction is rapid and stereotyped, while emergence follows a protracted, agent-specific trajectory — the dorsolateral prefrontal cortex re-engages early, with frontal-parietal dynamics returning to baseline just prior to connected consciousness. Different agents produce different recovery trajectories even when consciousness returns at comparable depths. The sequence — autonomic responses, then reflexes, then connected awareness — follows a consistent hierarchical order, but agent-specific timing suggests a multi-layered interface whose channels reopen through different molecular routes.
 
-Executive function returns before reaction time and simpler sensorimotor tasks — inverting the expected hierarchy if consciousness were building up from simple to complex. Redinbaugh et al. (2022) confirm that emergence involves an abrupt shift of neuronal dynamics rather than gradual reversal — a discrete state transition more consistent with a threshold being crossed than a generator powering up.
+Executive function returns before reaction time and simpler sensorimotor tasks — inverting the expected hierarchy if consciousness were building up from simple to complex. Redinbaugh et al. (2022) confirm that emergence involves an abrupt shift of neuronal dynamics across neocortex rather than gradual reversal — a discrete state transition more consistent with a threshold being crossed than a generator powering up.
 
-The Mashour et al. (2021) finding that frontal-parietal dynamics normalise *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [[attention-as-interface|attention's role as interface]]. The workspace needs to be inhabited, not merely activated. On the transmissive model (Bhatt et al., 2024), the recovery sequence maps the filter's architecture from basic to sophisticated components. The physicalist can respond that complex neural systems require active initialisation — but recovery involves molecular preparation oriented toward conscious state transitions specifically, not generic neural function.
+The early re-engagement of the prefrontal cortex is consistent with global neuronal workspace (GNW) theory, which posits that consciousness requires widespread broadcasting through a frontoparietal workspace (Bhatt et al., 2021). But the Map reframes this finding: the Mashour et al. (2021) observation that frontal-parietal dynamics normalise *just prior to* connected consciousness suggests the neural side prepares a channel that consciousness then re-enters, consistent with [[attention-as-interface|attention's role as interface]]. The workspace needs to be inhabited, not merely activated — GNW describes the physical infrastructure of the interface, but the interface requires something non-physical to come back through it. On the transmissive model (Bhatt et al., 2024), the recovery sequence maps the filter's architecture from basic to sophisticated components. The physicalist can respond that complex neural systems require active initialisation — but recovery involves molecular preparation oriented toward conscious state transitions specifically, not generic neural function.
 
 The recovery sequence converges with the four-component interface model from the pharmacological dissection. Disconnected consciousness — phenomenal presence without environmental access — is a common intermediate stage during emergence, demonstrating that the phenomenal channel reopens before access channels reconnect. Memory encoding typically recovers later, with patients in the immediate post-anaesthetic period experiencing conscious moments they subsequently cannot recall. This mirrors the induction pattern from the opposite direction: ketamine severs access while preserving phenomenal presence, midazolam isolates memory encoding from the other components. That both induction dissociations and recovery sequencing independently reveal the same component architecture — through different pharmacological and temporal pathways — provides convergent evidence for a structured, multi-layered interface rather than a uniform consciousness generator operating at varying power levels.
 
 ### Stochastic Emergence
 
-A 2025 study in the *British Journal of Anaesthesia* found that genetically identical mice under identical conditions showed emergence times varying by two orders of magnitude. Deterministic pharmacokinetic models failed; stochastic neural dynamics models fit significantly better. No single brain area controlled emergence — recovery depended on network-level dynamics where neuronal noise created macro-level variability.
+A 2025 study in the *British Journal of Anaesthesia* found that genetically identical mice under identical conditions showed emergence times varying by two orders of magnitude. Deterministic pharmacokinetic models failed; stochastic neural dynamics models fit significantly better. No single brain area controlled emergence — recovery depended on network-level dynamics where individual neuronal noise propagated into macro-level variability. The non-localised character of emergence is itself significant: consciousness does not "switch on" at a single anatomical site but reconstitutes through distributed network effects, consistent with the interface being a system-level property rather than housed in any particular structure.
 
 If consciousness is produced by neural activity and the neural substrate is identical, why should the product appear at wildly different times? The stochastic character resonates with the [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] tenet: if consciousness interfaces through quantum-sensitive molecular systems, the timing of restoration would inherit the fundamental indeterminacy of quantum processes. Classical stochastic models can also explain the variability, but the data are more naturally accommodated by frameworks including genuine indeterminacy at the interface.
 
@@ -206,14 +206,17 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 1. Redinbaugh, M. J., et al. (2022). Thalamus modulates consciousness via layer-specific control of cortex. *Neuron*, 106(1), 66-75.
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
+1. Bhatt, M. B., et al. (2021). Recovery of consciousness and cognition after general anesthesia in humans. *eLife*, 10, e59525.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
 
-<!-- AI REFINEMENT LOG - 2026-03-31T11:38
+<!-- AI REFINEMENT LOG - 2026-04-02T12:38
 Changes made:
-- Added dreaming prevalence data to Graded Consciousness section — "nearly all unresponsive participants recalled dreaming upon emergence" (Sanders et al. 2023), strengthening the case that disconnected consciousness is the norm, not the exception
-- Added unfalsifiability critique engagement to "What Anaesthesia Cannot Tell Us" — noting that filter theory makes discriminating predictions (graded restriction, persistent consciousness, enhanced experience when filtering loosens) that production theory must accommodate post hoc
+- Strengthened Recovery section opening with Sanders et al.'s "different circuitry" finding and Bhatt et al. (2024) "core elements" framing
+- Added GNW interpretation to Active Reboot subsection — prefrontal re-engagement is GNW-consistent, but the Map reframes: the workspace needs to be inhabited, not merely activated
+- Expanded Stochastic Emergence with the non-localised character of emergence (no single brain area controls it) and its implication for system-level interface properties
+- Added Bhatt et al. (2021) eLife reference for the GNW-consistent finding
 
-Based on comparison of research/consciousness-anesthesia-filter-theory-2026-03-20.md against coalesced article. Most research content was already well-integrated from prior revisions. Only two genuinely un-covered points identified: dreaming prevalence and the unfalsifiability debate framing.
+Based on integration of research/anaesthetic-recovery-neuroscience-2026-03-26.md. Most recovery findings were already well-integrated from the 2026-03-30 pass. This pass focused on three genuinely under-represented elements: the different-circuitry asymmetry, the GNW reframing, and the philosophical significance of non-localised emergence.
 
 This log should be removed after human review.
 -->

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthetic recovery neuroscience research into anaesthesia article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, and stochastic consciousness recovery. Integrate into anaesthesia-and-the-consciousness-interface.md (which absorbed the coalesced anaesthetic-recovery-and-the-filter-problem.md). Replaces superseded expand-topic task from 2026-03-23.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Integrate amplification mechanisms research into consciousness-as-amplifier.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1861,6 +1854,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate anaesthetic recovery neuroscience research into anaesthesia article
+- **Type**: refine-draft
+- **Notes**: Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, and stochastic consciousness recovery. Integrate into anaesthesia-and-the-consciousness-interface.md (which absorbed the coalesced anaesthetic-recovery-and-the-filter-problem.md). Replaces superseded expand-topic task from 2026-03-23.
+- **Output**: Task context:
+Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, and stochastic consciousness recovery. Integrate into anaesthesia-and-the-consciousness-interface.md (which absorbed the coalesced anaesthetic-recovery-and-the-filter-problem.md). Replaces superseded expand-topic task from 2026-03-23.
 
 ### ✓ 2026-04-02: Integrate post-decoherence selection mechanisms research into quantum selection articles
 - **Type**: refine-draft
