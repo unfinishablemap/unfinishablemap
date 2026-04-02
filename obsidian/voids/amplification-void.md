@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the chain from quantum-level conscious
 created: 2026-02-28
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-14T20:43:00+00:00
+ai_modified: 2026-04-02T14:38:00+00:00
 last_deep_review: 2026-03-10T18:24:00+00:00
 draft: false
 topics:
@@ -105,7 +105,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[causal-interface]] — The more general void: how consciousness causes anything at all
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms for the chain this void concerns
-- [[consciousness-as-amplifier]] — How consciousness amplifies intelligence through identifiable mechanisms
+- [[consciousness-as-amplifier]] — How consciousness amplifies intelligence; catalogues six proposed physical mechanisms for the chain this void concerns
 - [[tenet-generated-voids]] — Voids that arise from the Map's foundational commitments
 - [[nomic-void]] — Cognitive limits imposed by the laws of physics
 - [[observation-and-measurement-void]] — How studying consciousness transforms what is studied

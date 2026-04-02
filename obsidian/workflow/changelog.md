@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 14:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/consciousness-as-amplifier]]
+- **Changes**: Integrated six physical amplification mechanisms from research/amplification-mechanisms-consciousness-physics-2026-03-18.md (microtubule-mediated collapse, quantum Zeno stabilisation, synaptic tunnelling, chaotic sensitivity, self-organised criticality, stochastic resonance). Strengthened Bidirectional Interaction tenet section with two-level account. Updated amplification-void.md cross-reference. Added 6 new references.
+- **Published**: yes
+
 ## 2026-04-02 13:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/meaning-of-life]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate amplification mechanisms research into consciousness-as-amplifier.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1854,6 +1847,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate amplification mechanisms research into consciousness-as-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
+
+Task context:
+Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
 
 ### ✓ 2026-04-02: Integrate anaesthetic recovery neuroscience research into anaesthesia article
 - **Type**: refine-draft
