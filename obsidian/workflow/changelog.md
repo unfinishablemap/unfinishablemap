@@ -5,6 +5,16 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Word count**: 2952 → 2940 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Schwartz method mischaracterization: "purely cognitive" → "cognitive-behavioural")
+- **Enhancements made**: 1 (removed orphaned Schwartz 1998 reference)
+- **Cross-review**: [[concepts/epiphenomenalism]] — clinical evidence claims consistent, no issues found
+- **Output**: [[reviews/deep-review-2026-04-02-mental-causation-and-downward-causation]]
+
 ## 2026-04-02 21:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]]

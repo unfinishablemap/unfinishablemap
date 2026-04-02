@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: After clinical evidence quality audit (research/clinical-evidence-quality-2026-03-29.md), downward-causation.md's references to Schwartz OCD as "strongest clinical evidence" and epiphenomenalism.md's meditation efficacy claims need alignment with qualified presentation. Verify consistency with updated claims in clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Existing P3 task addresses timing gap in downward-causation.md separately.
-- **Source**: chain (from clinical-evidence-quality research)
-- **Generated**: 2026-04-02
-
 ### P2: Integrate testable predictions research into testing-consciousness-collapse.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1854,6 +1847,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
+- **Type**: cross-review
+- **Notes**: After clinical evidence quality audit (research/clinical-evidence-quality-2026-03-29.md), downward-causation.md's references to Schwartz OCD as "strongest clinical evidence" and epiphenomenalism.md's meditation efficacy claims need alignment with qualified presentation. Verify consistency with updated claims in clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Existing P3 task addresses timing gap in downward-causation.md separately.
+- **Output**: downward-causation.md -- Context: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
 
 ### ✓ 2026-04-02: Integrate clinical evidence quality audit into bidirectional causation articles
 - **Type**: refine-draft
