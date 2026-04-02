@@ -22,7 +22,7 @@ topics: []
 
 ## Cross-Review Context
 
-This review was triggered by the creation of [Phenomenology of Collective Intentionality and We-Consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) (2026-03-12). The new article introduces Schmid's "plural pre-reflective self-awareness," Zahavi's first-person plural perspective, and a detailed account of I-mode/we-mode phenomenology that enriches the collective phenomena article's treatment of collective intentionality.
+This review was triggered by the creation of [Phenomenology of Collective Intentionality and We-Consciousness](/topics/consciousness-and-collective-phenomena/) (2026-03-12). The new article introduces Schmid's "plural pre-reflective self-awareness," Zahavi's first-person plural perspective, and a detailed account of I-mode/we-mode phenomenology that enriches the collective phenomena article's treatment of collective intentionality.
 
 ## Pessimistic Analysis Summary
 
@@ -54,7 +54,7 @@ This review was triggered by the creation of [Phenomenology of Collective Intent
 - Added Zahavi (2015) and Schmid (2009) references
 
 ### Cross-links Added
-- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/)
 
 ## Remaining Items
 

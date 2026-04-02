@@ -35,7 +35,7 @@ topics: []
 - Schmid/Tomasello (newly referenced via collective intentionality link): appropriately cross-linked rather than directly attributed
 
 ### Medium Issues Found
-- **We-mode experience absent from second-person approaches**: The paragraph covered empathic encounter and contemplative convergence but did not mention collective intentionality as a complementary epistemic resource. The phenomenology-of-collective-intentionality article (created 2026-03-12, after prior reviews) identifies we-mode experience as providing distinctive evidence for other minds beyond dyadic encounter. **Resolution**: Added sentence on we-mode consciousness with cross-link to [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/).
+- **We-mode experience absent from second-person approaches**: The paragraph covered empathic encounter and contemplative convergence but did not mention collective intentionality as a complementary epistemic resource. The phenomenology-of-collective-intentionality article (created 2026-03-12, after prior reviews) identifies we-mode experience as providing distinctive evidence for other minds beyond dyadic encounter. **Resolution**: Added sentence on we-mode consciousness with cross-link to [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/).
 
 ### Low Issues Found
 - **Minimal Quantum Interaction paragraph verbose**: Contained redundant phrasing ("the dualist must acknowledge," repeated point about epistemic access). **Resolution**: Tightened by ~40 words while preserving all substantive content.
@@ -57,7 +57,7 @@ topics: []
 - Tightened Minimal Quantum Interaction paragraph for concision
 
 ### Cross-links Added
-- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — now in body text (second-person approaches), previously only in Further Reading
+- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/) — now in body text (second-person approaches), previously only in Further Reading
 
 ## Remaining Items
 

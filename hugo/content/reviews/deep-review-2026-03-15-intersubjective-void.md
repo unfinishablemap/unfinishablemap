@@ -37,7 +37,7 @@ No misattribution, dropped qualifiers, overstated positions, source/Map conflati
 
 ### Medium Issues Found
 
-- **Missing cross-links to newer content**: Several articles created since the February review are highly relevant but weren't linked. **Resolution**: Added wikilinks to `[inverted-qualia](/concepts/inverted-qualia/)`, `[phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)`, `[brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)`, `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`, and `[consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)` in contextually appropriate locations. Updated `related_articles` frontmatter and Further Reading section.
+- **Missing cross-links to newer content**: Several articles created since the February review are highly relevant but weren't linked. **Resolution**: Added wikilinks to `[inverted-qualia](/concepts/inverted-qualia/)`, `[phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/)`, `[brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)`, `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)`, and `[consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)` in contextually appropriate locations. Updated `related_articles` frontmatter and Further Reading section.
 
 ### Counterarguments Considered
 
@@ -66,7 +66,7 @@ All six pessimistic personas engaged:
 ### Enhancements Made
 
 - Added cross-link to `[inverted-qualia](/concepts/inverted-qualia/)` in evidence section
-- Added cross-link to `[phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)` in "we" experiences paragraph
+- Added cross-link to `[phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/)` in "we" experiences paragraph
 - Added cross-link to `[brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)` in technology section
 - Added cross-link to `[hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)` in implications section
 - Added cross-link to `[consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)` in empathy implications
@@ -77,7 +77,7 @@ All six pessimistic personas engaged:
 ### Cross-links Added
 
 - [inverted-qualia](/concepts/inverted-qualia/)
-- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/)
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/)

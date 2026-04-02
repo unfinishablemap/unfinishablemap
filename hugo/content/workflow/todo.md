@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate amplification mechanisms research into consciousness-as-amplifier.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
-### P2: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
-### P2: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Integrate evaluative qualia research across phenomenal normativity articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1855,6 +1834,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate pragmatist philosophy research into pragmatisms-path-to-dualism.md
+- **Type**: refine-draft
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research in research/pragmatist-philosophy-of-mind-2026-03-28.md identifies enhancement opportunities: Peirce's tychism, James's panpsychist sympathies, pragmatist-to-enactivist pipeline, and Putnam's trajectory as evidence against functionalism. Integrate into pragmatisms-path-to-dualism.md and william-james-consciousness.md to deepen the pragmatist treatment.
+
+### ✓ 2026-04-02: Integrate bandwidth constraints research into asymmetric-bandwidth-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
+- **Output**: obsidian/concepts/asymmetric-bandwidth-consciousness.md
+
+Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md rigorously grounds the ~10 bits/second conscious processing figure that the asymmetric-bandwidth article relies on. Integrate sourced empirical evidence to replace currently unsupported bandwidth claims. Key for credibility of the interface friction argument.
+
+### ✓ 2026-04-02: Integrate amplification mechanisms research into consciousness-as-amplifier.md
+- **Type**: refine-draft
+- **Notes**: Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
+
+Task context:
+Research in research/amplification-mechanisms-consciousness-physics-2026-03-18.md catalogues six distinct amplification mechanisms addressing how quantum-scale consciousness events produce macroscopic neural effects. Integrate into consciousness-as-amplifier.md and cross-reference from the-amplification-void.md. Strengthens Tenet 3 (Bidirectional Interaction) by providing concrete mechanism detail.
 
 ### ✓ 2026-04-02: Integrate anaesthetic recovery neuroscience research into anaesthesia article
 - **Type**: refine-draft

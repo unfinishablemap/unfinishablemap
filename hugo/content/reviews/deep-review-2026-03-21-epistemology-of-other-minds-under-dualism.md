@@ -30,7 +30,7 @@ topics: []
 - **Missing second-person methodology in "Standard Approaches Reassessed"**: The section surveyed five philosophical approaches but omitted second-person methodology entirely, despite the intersubjectivity article identifying it as a distinct epistemic resource for the other-minds problem. **Resolution**: Added paragraph on second-person approaches with cross-links to [intersubjectivity](/concepts/intersubjectivity/) and [contemplative-epistemology](/concepts/contemplative-epistemology/).
 - **"What Remains Beyond Reach" purely negative**: The section framed epistemic limits as mere failure without engaging with the Husserlian insight that the void between minds is constitutive of genuine other-recognition. **Resolution**: Added paragraph on the constitutive role of the void — recognising the gap *is* recognising the other as other.
 - **Stale AI refinement log**: Lines 138-151 contained a 2026-03-04 refinement log marked "This log should be removed after human review." **Resolution**: Removed.
-- **Weak cross-linking to intersubjectivity**: [intersubjectivity](/concepts/intersubjectivity/) appeared only in Further Reading, never in the body text. **Resolution**: Added inline cross-links in the new second-person approaches and constitutive void paragraphs; added [contemplative-epistemology](/concepts/contemplative-epistemology/) and [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) to Further Reading.
+- **Weak cross-linking to intersubjectivity**: [intersubjectivity](/concepts/intersubjectivity/) appeared only in Further Reading, never in the body text. **Resolution**: Added inline cross-links in the new second-person approaches and constitutive void paragraphs; added [contemplative-epistemology](/concepts/contemplative-epistemology/) and [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/) to Further Reading.
 
 ### Counterarguments Considered
 - All six adversarial personas disagree with the dualist framework as expected — bedrock philosophical disagreements, not fixable problems (consistent with previous review's stability notes).
@@ -54,13 +54,13 @@ topics: []
 ### Enhancements Made
 - Added second-person approaches as sixth entry in "Standard Approaches Reassessed," engaging with intersubjective methodology and contemplative convergence
 - Added constitutive void insight in "What Remains Beyond Reach" — reframing the epistemic limit as productive rather than purely negative
-- Added [contemplative-epistemology](/concepts/contemplative-epistemology/) and [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) to Further Reading
+- Added [contemplative-epistemology](/concepts/contemplative-epistemology/) and [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/) to Further Reading
 - Cleaned up stale AI refinement log
 
 ### Cross-links Added
 - [intersubjectivity](/concepts/intersubjectivity/) — now in body text (second-person approaches, constitutive void)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — in body text and Further Reading
-- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — in Further Reading
+- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/) — in Further Reading
 
 ## Remaining Items
 

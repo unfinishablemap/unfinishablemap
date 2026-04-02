@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [Phenomenology of Collective Intentionality and We-Consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+**Article**: [Phenomenology of Collective Intentionality and We-Consciousness](/topics/consciousness-and-collective-phenomena/)
 **Previous review**: [2026-03-21](/reviews/deep-review-2026-03-21-phenomenology-of-collective-intentionality-and-we-consciousness/)
 **Context**: Cross-review considering intersubjectivity — examining how the intersubjectivity concept, consciousness-and-intersubjectivity article, and intersubjective-void treatment inform this article's account of we-consciousness.
 

@@ -9,6 +9,32 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-02 17:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [william-james-consciousness](/topics/william-james-consciousness/)
+- **Changes**: Integrated pragmatist philosophy research — added James's panpsychist sympathies and mind-dust objection to both articles, sharpened Putnam's semantic externalism, deepened enactivist inheritance lineage, added combination-problem concept links
+- **Published**: yes
+
+## 2026-04-02 16:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Changes**: Added Zimmermann (1986) and Miller (1956) citations; attributed ~10⁹ bits/s to Zheng & Meister; added concrete task measurements (StarCraft, typing, memory sports); clarified neuron spike rate calculation; corrected cross-species universality claim; added 2 references
+- **Published**: yes
+
+## 2026-04-02 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/), [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Target**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Archived**: [phenomenology-of-collective-intentionality-and-we-consciousness](/archive/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+- **References to review**: 0 (all updated inline)
+- **Notes**: Merged we-mode phenomenology (Schmid, Zahavi, collective effervescence, interface problem) into the existing collective phenomena article. Updated 5 active files with redirected wikilinks.
+
+## 2026-04-02 14:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- **Changes**: Integrated six physical amplification mechanisms from research/amplification-mechanisms-consciousness-physics-2026-03-18.md (microtubule-mediated collapse, quantum Zeno stabilisation, synaptic tunnelling, chaotic sensitivity, self-organised criticality, stochastic resonance). Strengthened Bidirectional Interaction tenet section with two-level account. Updated amplification-void.md cross-reference. Added 6 new references.
+- **Published**: yes
+
 ## 2026-04-02 13:38 UTC - deep-review
 - **Status**: Success
 - **File**: [meaning-of-life](/topics/meaning-of-life/)

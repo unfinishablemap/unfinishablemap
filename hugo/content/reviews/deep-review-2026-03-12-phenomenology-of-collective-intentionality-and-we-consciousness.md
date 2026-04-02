@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [Phenomenology of Collective Intentionality and We-Consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/)
+**Article**: [Phenomenology of Collective Intentionality and We-Consciousness](/topics/consciousness-and-collective-phenomena/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

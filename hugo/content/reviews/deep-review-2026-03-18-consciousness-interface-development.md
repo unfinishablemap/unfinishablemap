@@ -63,7 +63,7 @@ This review was triggered by the article's orphan status — no inbound links fr
 
 ### Cross-links Repaired
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) (was pointing to coalesced slug)
-- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) (was pointing to coalesced slug)
+- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/) (was pointing to coalesced slug)
 - [the-interface-location-problem](/topics/the-interface-location-problem/) (was pointing to coalesced slug)
 
 ## Remaining Items

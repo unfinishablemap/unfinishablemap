@@ -34,7 +34,7 @@ topics:
 - '[[consciousness]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-social-understanding]]'
-- '[[phenomenology-of-collective-intentionality-and-we-consciousness]]'
+- '[[consciousness-and-collective-phenomena]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 ---
 
@@ -130,7 +130,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 
 - [intersubjectivity](/concepts/intersubjectivity/) — The concept: shared space between minds, Husserl's analysis, methodological implications
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Social cognition and interpersonal understanding through phenomenal consciousness
-- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — "We-consciousness" and shared intentionality
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — "We-consciousness" and shared intentionality
 - [other-minds-void](/voids/other-minds-void/) — The constitutive gap between individual consciousnesses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [second-person-void](/voids/second-person-void/) — The irreducible gap in the I-You encounter: what genuine meeting delivers and structurally cannot

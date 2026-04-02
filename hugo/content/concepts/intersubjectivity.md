@@ -28,7 +28,6 @@ related_articles:
 - '[[witness-consciousness]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
 - '[[tenets]]'
-- '[[phenomenology-of-collective-intentionality-and-we-consciousness]]'
 - '[[consciousness-and-collective-phenomena]]'
 - '[[consciousness-and-social-understanding]]'
 title: Intersubjectivity
@@ -57,7 +56,7 @@ Husserl's answer involved "appresentation"—we don't infer other minds from ana
 
 This perception of other subjects constitutes the intersubjective world. The objective world—the world that exists independently of my particular perspective—emerges when multiple subjects converge on the same structures. Objectivity, on Husserl's analysis, is grounded in intersubjectivity. We don't start with an objective world and then wonder how subjects fit into it. We start with intersubjective experience and constitute objectivity through convergent perspectives.
 
-Husserl's later work on *Vergemeinschaftung* (communalisation) extends this analysis beyond dyadic encounter to collective intentionality — the [phenomenology of "we-mode" experience](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) where individual experiential streams become intertwined without merging. Intersubjectivity grounds not just knowledge of other minds but the capacity for genuinely shared intentions, commitments, and projects.
+Husserl's later work on *Vergemeinschaftung* (communalisation) extends this analysis beyond dyadic encounter to collective intentionality — the [phenomenology of "we-mode" experience](/topics/consciousness-and-collective-phenomena/) where individual experiential streams become intertwined without merging. Intersubjectivity grounds not just knowledge of other minds but the capacity for genuinely shared intentions, commitments, and projects.
 
 Husserl's later work also reveals a deeper insight: the other is accessible *precisely insofar as* they are constituted as ultimately inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access. This is not failure but success: if I could directly access your experience, you would not be another subject but an extension of me. The [void between minds](/voids/other-minds-void/) is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals one way consciousness copes with this constitutive gap: trust is the practice of acting across the void, sustaining felt openness toward another subject whose inner life remains inaccessible. A further question then arises: even granting mutual recognition, can experiences be genuinely *shared*—or does each mind remain a fundamentally private stream? The [intersubjective-void](/voids/intersubjective-void/) explores this deeper puzzle.
 
@@ -145,7 +144,7 @@ Intersubjectivity also connects to methodology. The [first-person/third-person d
 - [phenomenology](/concepts/phenomenology/) — Classical first-person methods and their intersubjective validation
 - [theory-of-mind](/concepts/theory-of-mind/) — The cognitive capacity that enables intersubjective attribution
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — Trust as sustained openness across the intersubjective void
-- [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/phenomenology-of-collective-intentionality-and-we-consciousness/) — The distinctive phenomenology of "we-mode" experience built on intersubjective foundations
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Collective phenomena, we-mode phenomenology, and the consciousness requirement for shared intentionality
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Why collective intentionality requires individual consciousness
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How phenomenal consciousness enables human social cognition
 
