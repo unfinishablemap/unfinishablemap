@@ -167,7 +167,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [The Probability Intuition Void](/voids/probability-intuition-void/) — Why genuine randomness resists intuitive comprehension
-- [The Reconstruction Paradox](/voids/reconstruction-paradox/) — Why the brain silently corrects some errors but delivers others
+- [The Reconstruction Paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Why the brain silently corrects some errors but delivers others
 
 
 ### Comparative Perspectives

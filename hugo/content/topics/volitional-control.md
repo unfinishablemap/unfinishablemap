@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 18:55:00+00:00
+ai_modified: 2026-04-02 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -119,7 +119,7 @@ Intentional binding provides an implicit, non-introspective measure of the sense
 
 If conscious effort is epiphenomenal — if the felt strain of concentrating against distracting impulses accompanies but does not cause neural changes — then it should be possible to produce the same neural changes without the phenomenology of effort. The evidence points the other way.
 
-Schwartz et al. (1996) demonstrated that OCD patients who learn to cognitively reframe their intrusive thoughts produce measurable decreases in caudate nucleus activity, visible on PET scans. The treatment requires patients to recognise obsessive urges as brain-generated and redirect attention away from them. Patients consistently report this as effortful, requiring sustained concentration against compelling impulses. The phenomenology of effort and the neural changes track each other.
+Schwartz et al. (1996) found that OCD patients who learned to cognitively reframe their intrusive thoughts showed decreased caudate nucleus activity on PET scans—though the study included only 18 participants (9 new) and has not been independently replicated (see [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for honest assessment). The treatment requires patients to recognise obsessive urges as brain-generated and redirect attention away from them. Patients consistently report this as effortful, requiring sustained concentration against compelling impulses. The phenomenology of effort and the neural changes track each other.
 
 This finding generalises across therapeutic contexts. Paquette et al. (2003) showed CBT for spider phobia changed dorsolateral prefrontal and parahippocampal activity. Goldapple et al. (2004) found CBT for depression altered prefrontal and limbic metabolism in patterns distinct from pharmacological treatment — same symptom improvement, different neural signatures, suggesting the cognitive intervention operates through a different causal pathway. For the broader case that clinical neuroplasticity challenges epiphenomenalism, see [Clinical Neuroplasticity Evidence for Bidirectional Causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/).
 
@@ -141,7 +141,7 @@ The convergence argument would be weakened if: (1) a clinical population demonst
 
 The Unfinishable Map's [tenets](/tenets/) predict the pattern the evidence reveals. The **[Dualism](/tenets/#dualism)** tenet holds that consciousness is irreducible to physical processes — and the phenomenological structure of volitional experience (the agency-ownership distinction, the multi-level nature of intentional action) resists reduction to neural timing data. Desmurget's stimulation studies show that intention and execution occupy different neural real estate, and Sjöberg's resection cases show that the phenomenology survives the destruction of the neural machinery it was supposedly identical to.
 
-The **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** tenet holds that consciousness causally influences the physical world. Brass and Haggard's "whether" component provides a plausible neural locus for this influence, and the neuroplasticity evidence is the most direct support: Schwartz's OCD patients produce measurable brain changes through directed mental effort that track the phenomenology of straining to redirect attention. The Map interprets this as a site where consciousness modulates quantum-indeterminate processes, consistent with the **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tenet.
+The **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** tenet holds that consciousness causally influences the physical world. Brass and Haggard's "whether" component provides a plausible neural locus for this influence, and the neuroplasticity evidence is suggestive: Schwartz's OCD patients showed measurable brain changes correlated with directed mental effort, tracking the phenomenology of straining to redirect attention—though the small sample and lack of independent replication counsel caution. The Map interprets this as a site where consciousness modulates quantum-indeterminate processes, consistent with the **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** tenet.
 
 The **[Occam's Razor Has Limits](/tenets/#occams-limits)** tenet is directly relevant to the Libet debate's history. For decades, the "simpler" interpretation — that the RP proves consciousness is epiphenomenal — was treated as settled science. Schurger's stochastic model, the meta-analytic uncertainty, and Sjöberg's clinical evidence have collectively dismantled that conclusion. The rush to eliminate conscious causation in favour of a parsimonious neural account illustrates how simplicity can mislead when understanding is incomplete.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-22 03:41:00+00:00
+ai_modified: 2026-04-02 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -112,7 +112,7 @@ Consider three cases:
 
 **Cultivated capacity.** An emergency physician who has trained extensively in decision-making under pressure has expanded their effective attentional capacity for crisis situations. When they perform well under conditions that would overwhelm an untrained agent, their expanded capacity reflects prior investment. Conversely, an agent who has had opportunities to train and has refused bears more responsibility for attention-demanding moral failures than one who never had access to training.
 
-The cultivation principle means the gradient is temporally extended. Responsibility for a moment's choice may depend on choices made years earlier about developing or neglecting attentional resources. Schwartz and Begley (2002) provide neuroplasticity evidence that sustained attentional practice physically reshapes neural circuits—cultivation is not merely metaphorical but structurally real.
+The cultivation principle means the gradient is temporally extended. Responsibility for a moment's choice may depend on choices made years earlier about developing or neglecting attentional resources. Schwartz and Begley (2002) cite suggestive neuroplasticity evidence that sustained attentional practice may physically reshape neural circuits—though the underlying studies are small and not independently replicated, the principle that cultivation has structural consequences is supported by broader neuroscience.
 
 ## The Control-Theoretic Interpretation
 

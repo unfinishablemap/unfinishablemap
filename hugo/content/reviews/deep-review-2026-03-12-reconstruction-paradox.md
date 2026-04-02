@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [The Reconstruction Paradox](/voids/reconstruction-paradox/)
+**Article**: [The Reconstruction Paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 **Previous review**: Never
 
 ## Cross-Review Context

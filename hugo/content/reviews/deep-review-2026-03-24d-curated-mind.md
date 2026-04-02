@@ -23,7 +23,7 @@ topics: []
 ## Cross-Review Context
 
 This review examines curated-mind.md in the context of the reconstruction-paradox article cluster:
-- [reconstruction-paradox](/voids/reconstruction-paradox/) (void) — the paradox's original exploration
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (void) — the paradox's original exploration
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (concept) — the three-condition framework
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) (concept) — the third mode (conscious selection)
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) (topic) — bandwidth degradation evidence
@@ -70,12 +70,12 @@ This review examines curated-mind.md in the context of the reconstruction-parado
 - Added curated-mind cross-link from perceptual-failure-and-the-interface.md (related_articles + Further Reading)
 
 ### Cross-links Added (Inbound to curated-mind)
-- [reconstruction-paradox](/voids/reconstruction-paradox/) → curated-mind (related_articles + Further Reading)
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) → curated-mind (related_articles + Further Reading)
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) → curated-mind (related_articles + Further Reading)
 
 ### Cross-links Added (Other cluster improvements)
-- [reconstruction-paradox](/voids/reconstruction-paradox/) → perceptual-reconstruction-selection (related_articles + Further Reading)
-- [reconstruction-paradox](/voids/reconstruction-paradox/) → perceptual-failure-and-the-interface (related_articles + Further Reading)
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) → perceptual-reconstruction-selection (related_articles + Further Reading)
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) → perceptual-failure-and-the-interface (related_articles + Further Reading)
 
 ## Remaining Items
 

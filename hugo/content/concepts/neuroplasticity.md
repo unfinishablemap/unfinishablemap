@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-31 00:38:00+00:00
+ai_modified: 2026-04-02 21:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -166,7 +166,7 @@ Neuroplasticity provides empirical support for several of The Unfinishable Map's
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation research as evidence for consciousness theories
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — How sustained attention reshapes perception itself through learning and constancy
-- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Four converging clinical evidence streams building the empirical case for mental causation
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Three converging clinical evidence streams suggestive of mental causation
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How deliberate practice drives neuroplasticity through conscious engagement
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness doesn't cause anything
 

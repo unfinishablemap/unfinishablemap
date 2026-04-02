@@ -70,7 +70,7 @@ All six adversarial personas engaged:
 Updated wikilinks in 12 active content files from old slugs to `predictive-processing-and-dualism`:
 - [predictive-processing](/concepts/predictive-processing/) (frontmatter, inline, Further Reading — deduplicated from 2 entries to 1)
 - [dualist-perception](/topics/dualist-perception/) (frontmatter, Further Reading)
-- [reconstruction-paradox](/voids/reconstruction-paradox/) (frontmatter, inline, Further Reading, self-citation URL)
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (frontmatter, inline, Further Reading, self-citation URL)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) (frontmatter, inline, Further Reading)
 - [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/) (frontmatter, inline, Further Reading)
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) (frontmatter, inline, Further Reading)

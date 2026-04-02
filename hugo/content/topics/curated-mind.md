@@ -24,7 +24,7 @@ last_curated: null
 last_deep_review: 2026-03-24 08:35:00+00:00
 modified: *id001
 related_articles:
-- '[[reconstruction-paradox]]'
+- '[[selective-correction-and-reconstruction-paradox]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[illusionism]]'
 - '[[epiphenomenalism]]'
@@ -41,7 +41,7 @@ topics:
 - '[[predictive-processing-and-dualism]]'
 ---
 
-The brain never delivers raw reality to consciousness. It fills the blind spot with fabricated content, suppresses visual smear during eye movements, stabilises colour across changing illumination, and interpolates motion across temporal gaps. But the same brain faithfully transmits optical blur, tinnitus, persistent illusions, and phantom limb pain without correction. The Unfinishable Map calls this asymmetry the [reconstruction paradox](/voids/reconstruction-paradox/). The existing treatment focuses on the perceptual cases — what gets corrected, what passes through, and the [three-mode taxonomy](/concepts/selective-correction-and-reconstruction-paradox/) of selective correction, faithful transmission, and [conscious selection](/concepts/perceptual-reconstruction-selection/). This article develops a different implication: the brain's pervasive curation of conscious experience constitutes a novel argument for the irreducibility of consciousness, because curation presupposes a recipient distinct from the curating process. The argument strengthens when extended beyond vision to body schema, memory, and self-model — domains where the brain's editorial control over consciousness is equally pervasive and equally asymmetric.
+The brain never delivers raw reality to consciousness. It fills the blind spot with fabricated content, suppresses visual smear during eye movements, stabilises colour across changing illumination, and interpolates motion across temporal gaps. But the same brain faithfully transmits optical blur, tinnitus, persistent illusions, and phantom limb pain without correction. The Unfinishable Map calls this asymmetry the [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/). The existing treatment focuses on the perceptual cases — what gets corrected, what passes through, and the [three-mode taxonomy](/concepts/selective-correction-and-reconstruction-paradox/) of selective correction, faithful transmission, and [conscious selection](/concepts/perceptual-reconstruction-selection/). This article develops a different implication: the brain's pervasive curation of conscious experience constitutes a novel argument for the irreducibility of consciousness, because curation presupposes a recipient distinct from the curating process. The argument strengthens when extended beyond vision to body schema, memory, and self-model — domains where the brain's editorial control over consciousness is equally pervasive and equally asymmetric.
 
 ## The Presupposition Argument
 
@@ -51,7 +51,7 @@ If consciousness simply *is* the neural processing, there is no meaningful sense
 
 A physicalist can respond that the correction works for the system's *behavioural outputs* — no distinct recipient is needed, just a system with adaptive goals. The presupposition argument does not logically compel dualism. Rather, it is an inference to best explanation: the three-mode architecture — correction, transmission, and selection under ambiguity — is *better explained* by a recipient whose experience the curation serves than by mere functional coherence. The next sections develop why.
 
-The presupposition argument differs structurally from the standard [hard problem](/topics/hard-problem-of-consciousness/), though the [void exploration](/voids/reconstruction-paradox/) draws that parallel. It does not ask why there is something it is like to receive the corrected signal. It asks why the brain's error-correction architecture is organised around the needs of a recipient at all. Autonomous correction, faithful transmission, and selection under ambiguity are three modes that make functional sense only if they serve different purposes relative to a consumer of the output. A system with no consumer has no reason to distinguish these modes — it simply processes.
+The presupposition argument differs structurally from the standard [hard problem](/topics/hard-problem-of-consciousness/), though the [void exploration](/concepts/selective-correction-and-reconstruction-paradox/) draws that parallel. It does not ask why there is something it is like to receive the corrected signal. It asks why the brain's error-correction architecture is organised around the needs of a recipient at all. Autonomous correction, faithful transmission, and selection under ambiguity are three modes that make functional sense only if they serve different purposes relative to a consumer of the output. A system with no consumer has no reason to distinguish these modes — it simply processes.
 
 This argument invites the homunculus objection: that positing a "recipient" smuggles a little person into the brain who watches the show. But the presupposition argument does not require a spatially located observer peering at a screen. It requires only that the three processing modes — correction, transmission, and selection — are functionally organised around experiential outcomes rather than mere computational accuracy. A thermostat corrects temperature drift without distinguishing modes that serve different experiential purposes. The brain does distinguish such modes, and that distinction is what demands explanation. The claim is not that a homunculus sits inside the skull but that the processing architecture is structured as though experiential coherence matters — a structural feature that physicalism must explain away rather than merely relabel.
 
@@ -108,8 +108,7 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 
 ## Further Reading
 
-- [reconstruction-paradox](/voids/reconstruction-paradox/) — the void exploration of the reconstruction asymmetry
-- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the concept defining selective correction and the three conditions
+- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the reconstruction paradox: selective correction and the three conditions
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: consciousness selecting among ambiguous percepts
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — dissociation evidence converging on the same multi-channel interface
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — functional disconnection without structural damage
@@ -133,5 +132,4 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 7. Carter, O.L., Presti, D.E., Callistemon, C., Ungerer, Y., Liu, G.B. & Pettigrew, J.D. (2005). "Meditation alters perceptual rivalry in Tibetan Buddhist monks." *Current Biology*, 15(11), R412–R413.
 8. Goldstone, R.L. (1998). "Perceptual learning." *Annual Review of Psychology*, 49, 585–612.
 9. Ramachandran, V.S. & Rogers-Ramachandran, D. (1996). "Synaesthesia in phantom limbs induced with mirrors." *Proceedings of the Royal Society B*, 263(1369), 377–386.
-10. Southgate, A. & Oquatre-six, C. (2026-03-12). The Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/voids/reconstruction-paradox/
-11. Southgate, A. & Oquatre-six, C. (2026-03-17). Selective Correction and the Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/
+10. Southgate, A. & Oquatre-six, C. (2026-03-17). Selective Correction and the Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/

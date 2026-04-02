@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 22:15:00+00:00
+ai_modified: 2026-04-02 20:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /concepts/selective-perceptual-correction/
 - /concepts/perceptual-reconstruction-paradox/
+- /voids/reconstruction-paradox/
 concepts:
 - '[[predictive-processing]]'
 - '[[interactionist-dualism]]'
@@ -19,8 +20,8 @@ concepts:
 - '[[perceptual-reconstruction-selection]]'
 - '[[phenomenal-transparency]]'
 - '[[consciousness-selecting-neural-patterns]]'
-created: 2026-03-17
-date: &id001 2026-03-23
+created: 2026-03-12
+date: &id001 2026-04-02
 description: The brain silently corrects some perceptual errors while faithfully transmitting
   others to consciousness—an asymmetry that reveals the structure of the mind-body
   interface and reformulates the hard problem at the perceptual level.
@@ -31,7 +32,6 @@ last_deep_review: 2026-03-23 22:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[reconstruction-paradox]]'
 - '[[consciousness-only-territories]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[illusionism]]'
@@ -104,7 +104,6 @@ Cognitive impenetrability is closely related to [phenomenal-transparency](/conce
 
 ## Further Reading
 
-- [reconstruction-paradox](/voids/reconstruction-paradox/) — The deeper void exploration of the asymmetry's limits
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — The third mode: consciousness selecting among ambiguous percepts
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — Why the construction is invisible to consciousness
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface
@@ -124,4 +123,6 @@ Cognitive impenetrability is closely related to [phenomenal-transparency](/conce
 4. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181–204.
 5. Friston, K. (2005). "A theory of cortical responses." *Philosophical Transactions of the Royal Society B*, 360(1456), 815–836.
 6. Ibbotson, M. & Krekelberg, B. (2011). "Visual perception and saccadic eye movements." *Current Opinion in Neurobiology*, 21(4), 553–558.
-7. Southgate, A. & Oquatre-six, C. (2026-03-12). The Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/voids/reconstruction-paradox/
+7. Rensink, R. (2009). "Change Blindness." In W. Banks (Ed.), *Encyclopedia of Consciousness*. Academic Press.
+8. Ramachandran, V.S. (1992). "Blind spots." *Scientific American*, 266(5), 86–91.
+9. Clark, A. (2023). *The Experience Machine: How Our Minds Predict and Shape Reality*. Penguin.

@@ -45,7 +45,7 @@ related_articles:
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[perceptual-failure-and-the-interface]]'
 - '[[perceptual-degradation-and-the-interface]]'
-- '[[reconstruction-paradox]]'
+- '[[selective-correction-and-reconstruction-paradox]]'
 - '[[filter-theory]]'
 title: Dualist Perception
 topics:
@@ -185,8 +185,7 @@ The Map's [tenets](/tenets/) find their sharpest expression in perception.
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — Vision-specific evidence constraining the brain/mind boundary
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — The four failure signatures as evidence for a transmission channel
-- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Asymmetric perceptual editing and the reconstruction paradox
-- [reconstruction-paradox](/voids/reconstruction-paradox/) — Selective editing as evidence of a conscious recipient
+- [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — The reconstruction paradox: selective editing as evidence of a conscious recipient
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — Bistable percepts as evidence of conscious selection
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework for mind-body interaction

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-30 14:00:00+00:00
+ai_modified: 2026-04-02 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -109,7 +109,7 @@ This proposal is speculative and faces challenges regarding decoherence timescal
 
 Beyond the four primary evidence streams, anomalous cases challenge the assumption that consciousness scales with neural complexity. A 2023 review surveys hemispherectomy patients, hydrocephalic individuals with dramatically reduced brain volume, and congenitally decorticate children who demonstrate awareness despite lacking cortex (Manzotti & Moderato, 2023). A 44-year-old man with only 50-75% of normal brain volume maintained employment and family life. Paradoxical lucidity in advanced dementia—where patients with severely degraded neural tissue suddenly recover clarity (Nahm et al., 2012)—resists any neuroplasticity-based explanation.
 
-These cases complement the neuroplasticity evidence by attacking the same assumption from the opposite direction. Neuroplasticity shows consciousness reshaping the brain; anomalous cases show consciousness persisting despite radical brain reduction. Together, they suggest that the brain-consciousness relationship is not one of production but of interaction—consciousness works through the brain without being reducible to it.
+These cases complement the neuroplasticity evidence by attacking the same assumption from the opposite direction. The neuroplasticity evidence is *compatible with* consciousness reshaping the brain; anomalous cases show consciousness persisting despite radical brain reduction. Together, they suggest that the brain-consciousness relationship is not one of production but of interaction—consciousness works through the brain without being reducible to it.
 
 ## Relation to Site Perspective
 
@@ -160,6 +160,24 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Frontmatter consistency with revised body content.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-02
+Changes made:
+- Anomalous cases section: softened "Neuroplasticity shows consciousness reshaping the brain" to "compatible with consciousness reshaping the brain"
+- Cross-site qualification: updated 11 other articles referencing Schwartz OCD or meditation neuroimaging as strong evidence:
+  - bidirectional-interaction.md: "four streams" → "three streams", qualified Schwartz "demonstrated" → "found", added sample size/replication caveats
+  - meditation-and-consciousness-modes.md: qualified "demonstrates" → "provides suggestive evidence"
+  - mental-effort.md: "significant empirical support" → "suggestive", added study limitations
+  - volitional-control.md: "demonstrated" → "found", added sample size caveat, "most direct support" → "suggestive"
+  - neuroplasticity.md, epiphenomenalist-threat.md, placebo-effect-and-mental-causation.md, mental-causation-and-downward-causation.md, stapp-quantum-mind.md: "Four converging" → "Three converging" in link text
+  - consciousness-and-skill-acquisition.md: qualified link text
+  - responsibility-gradient-from-attentional-capacity.md: qualified Schwartz neuroplasticity claim
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Consistent evidence calibration across all articles citing Schwartz OCD or meditation structural evidence.
 
 This log should be removed after human review.
 -->

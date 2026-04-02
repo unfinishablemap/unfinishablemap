@@ -41,7 +41,7 @@ topics:
 
 The perceptual reconstruction paradox names the asymmetry between two modes of brain operation: autonomous correction, where the brain silently edits perceptual input before consciousness receives it, and faithful transmission, where degraded or misleading signals reach consciousness unaltered. The Unfinishable Map treats this asymmetry as evidence for an interface architecture between brain and mind—a system that curates a feed for a recipient, implying that the recipient is not identical to the system doing the curating.
 
-This concept article examines the *philosophical paradox*—why the asymmetry poses a problem for physicalism and what it reveals about the mind-body interface. The [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/) article describes the *mechanism* (how and when the brain corrects versus transmits), and the [reconstruction paradox](/voids/reconstruction-paradox/) void explores what the asymmetry reveals about the unchartable boundaries of conscious access.
+This concept article examines the *philosophical paradox*—why the asymmetry poses a problem for physicalism and what it reveals about the mind-body interface. The [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/) article describes the *mechanism* (how and when the brain corrects versus transmits), and the [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) void explores what the asymmetry reveals about the unchartable boundaries of conscious access.
 
 ## Defining the Two Modes
 
@@ -79,12 +79,12 @@ The Bidirectional Interaction tenet explains the cognitive impenetrability bound
 
 The [filter theory](/concepts/filter-theory/) of consciousness offers a complementary lens. If the brain partially filters rather than generates consciousness, the two-mode operation describes the filter's behaviour: autonomous correction is the filter at work, editing signals before they reach the conscious subject; faithful transmission is where the filter steps aside and raw sensory reality crosses to consciousness with minimal mediation.
 
-The cognitive impenetrability boundary also functions as one of the Map's [consciousness-only-territories](/voids/consciousness-only-territories/)—a region where consciousness encounters the limits of its own access. These limits are experienced from the inside (one can notice the blind spot with careful testing, can observe the persistence of illusions despite knowledge) but cannot be explained from the outside by purely computational accounts. The [deeper void exploration](/voids/reconstruction-paradox/) examines what these limits reveal about the unchartable territory at the boundary of conscious access.
+The cognitive impenetrability boundary also functions as one of the Map's [consciousness-only-territories](/voids/consciousness-only-territories/)—a region where consciousness encounters the limits of its own access. These limits are experienced from the inside (one can notice the blind spot with careful testing, can observe the persistence of illusions despite knowledge) but cannot be explained from the outside by purely computational accounts. The [deeper void exploration](/concepts/selective-correction-and-reconstruction-paradox/) examines what these limits reveal about the unchartable territory at the boundary of conscious access.
 
 ## Further Reading
 
 - [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/) — the mechanism: how and when the brain corrects
-- [reconstruction-paradox](/voids/reconstruction-paradox/) — the void: what the asymmetry reveals about unchartable territory
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the void: what the asymmetry reveals about unchartable territory
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: selection under ambiguity
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — why the construction is invisible to consciousness
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — what degraded perception reveals about the interface

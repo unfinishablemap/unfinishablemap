@@ -44,7 +44,7 @@ topics:
 
 Selective perceptual correction is the brain's asymmetric processing of sensory signals: it silently repairs some perceptual errors before consciousness encounters them while faithfully delivering others—degraded, illusory, or false—without intervention. The brain fills the blind spot, suppresses visual smear during eye movements, and maintains colour constancy, all without conscious awareness. Yet it transmits optical blur, tinnitus, visual floaters, and persistent illusions to consciousness unchanged, even when the conscious mind knows the signal is wrong. This selectivity is not random. It follows identifiable computational principles that reveal the structure of the mind-body interface.
 
-This concept article describes the *mechanism*—how and when the brain corrects versus transmits. The [perceptual reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) explores the philosophical puzzle this asymmetry creates, and the [reconstruction paradox](/voids/reconstruction-paradox/) void examines what the asymmetry reveals about the unchartable boundaries of conscious access.
+This concept article describes the *mechanism*—how and when the brain corrects versus transmits. The [perceptual reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) explores the philosophical puzzle this asymmetry creates, and the [reconstruction paradox](/concepts/selective-correction-and-reconstruction-paradox/) void examines what the asymmetry reveals about the unchartable boundaries of conscious access.
 
 ## What Gets Corrected
 
@@ -95,7 +95,7 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 ## Further Reading
 
 - [perceptual-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the philosophical paradox this mechanism creates
-- [reconstruction-paradox](/voids/reconstruction-paradox/) — the deeper void exploration of the asymmetry's limits
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the deeper void exploration of the asymmetry's limits
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: selection under ambiguity
 - [dualist-perception](/topics/dualist-perception/)
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)

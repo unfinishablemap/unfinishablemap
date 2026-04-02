@@ -22,7 +22,7 @@ related_articles:
 - '[[observation-and-measurement-void]]'
 - '[[the-silence-void]]'
 - '[[phenomenal-presence-void]]'
-- '[[reconstruction-paradox]]'
+- '[[selective-correction-and-reconstruction-paradox]]'
 target_section: voids
 title: 'Research Notes - Voids: The Phenomenal Absence Void'
 topics:

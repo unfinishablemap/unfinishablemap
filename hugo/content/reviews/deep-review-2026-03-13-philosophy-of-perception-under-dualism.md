@@ -52,7 +52,7 @@ topics: []
 
 ### Cross-links Added
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
-- [reconstruction-paradox](/voids/reconstruction-paradox/)
+- [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [filter-theory](/concepts/filter-theory/)
 
 ## Remaining Items
