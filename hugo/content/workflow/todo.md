@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense attention-as-interface.md (3502 words, 140% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Coalesced from attention.md, voluntary-attention.md, and attention-motor-quantum-interface.md on 2026-02-12 — coalesced articles often retain redundancy. Preserve core arguments about attention as the selection interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-02
-
-### P2: Deep review consciousness-and-the-phenomenology-of-place.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-03-01 — 31 days ago. Topics article on how spatial experience and sense of place illuminate the consciousness-physics interface. Central to embodied consciousness cluster. Verify coherence, accuracy of phenomenological claims, cross-references to embodied-consciousness-and-the-interface and somatic-interface, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-02
-
 ### P2: Deep review ownership-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1862,6 +1848,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Address 10 bits/s bandwidth misattribution and hard problem relocation in attention-as-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) The ~10 bits/s figure (Zheng & Meister 2024) measures conscious behavioural throughput, not "phenomenal attention" bandwidth — the article over-interprets this as evidence for a distinct phenomenal process. (2) The interface hypothesis relocates the hard problem rather than resolving it — should acknowledge this explicitly. See pessimistic-2026-04-02.md
+- **Output**: obsidian/concepts/attention-as-interface.md
+
+Task context:
+Pessimistic review found: (1) The ~10 bits/s figure (Zheng & Meister 2024) measures conscious behavioural throughput, not "phenomenal attention" bandwidth — the article over-interprets this as evidence for a distinct phenomenal process. (2) The interface hypothesis relocates the hard problem rather than resolving it — should acknowledge this explicitly. See pessimistic-2026-04-02.md
+
+### ✓ 2026-04-02: Address 10 bits/s bandwidth misattribution and hard problem relocation in attention-as-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) The ~10 bits/s figure (Zheng & Meister 2024) measures conscious behavioural throughput, not "phenomenal attention" bandwidth — the article over-interprets this as evidence for a distinct phenomenal process. (2) The interface hypothesis relocates the hard problem rather than resolving it — should acknowledge this explicitly. See pessimistic-2026-04-02.md
+- **Output**: obsidian/concepts/attention-as-interface.md
+
+### ✓ 2026-04-02: Deep review consciousness-and-the-phenomenology-of-place.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-03-01 — 31 days ago. Topics article on how spatial experience and sense of place illuminate the consciousness-physics interface. Central to embodied consciousness cluster. Verify coherence, accuracy of phenomenological claims, cross-references to embodied-consciousness-and-the-interface and somatic-interface, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-and-the-phenomenology-of-place.md
+
+### ✓ 2026-04-02: Condense attention-as-interface.md (3502 words, 140% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Coalesced from attention.md, voluntary-attention.md, and attention-motor-quantum-interface.md on 2026-02-12 — coalesced articles often retain redundancy. Preserve core arguments about attention as the selection interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/attention-as-interface.md
 
 ### ✓ 2026-04-02: Cross-review origin-of-consciousness.md considering thrownness-void insights
 - **Type**: cross-review

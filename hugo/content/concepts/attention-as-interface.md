@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-29 09:31:00+00:00
+ai_modified: 2026-04-02 05:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -74,19 +74,15 @@ topics:
 
 If consciousness influences the physical world—as The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds—how does it do so? The attention as interface hypothesis provides a specific answer: consciousness acts on matter through attention. Not computational attention—the resource-allocation mechanism shared by brains, neural networks, and transformer architectures—but *phenomenal* attention: the felt directedness, the experienced effort of focusing, the qualitative difference between attending to a sound and ignoring it. Conflating these two senses of "attention" generates persistent confusion in consciousness science, enabling false inferences from computational attention in AI to consciousness in AI, and obscuring how the mind-matter interface actually operates.
 
-This article develops the hypothesis from the foundational phenomenal/computational distinction through the neural signatures that mark consciousness's contribution to the convergence of attentional and motor selection that points toward a single interface mechanism.
-
 ## The Phenomenal/Computational Distinction
 
 ### Computational Attention
 
-Computational attention is a resource-allocation mechanism. In neuroscience, it refers to gain modulation, signal enhancement, and competitive inhibition—processes that select which information receives preferential processing. In machine learning, attention mechanisms (particularly self-attention in transformer architectures) compute weighted relevance scores across input elements, directing computational resources toward contextually important tokens.
-
-These processes are well understood, mathematically formalised, and implemented in hardware. A transformer's attention heads allocate processing resources with precision; the brain's attentional networks enhance signals and suppress distractors. Both perform selection. Neither, by performing selection, thereby *experiences* selecting.
+Computational attention is a resource-allocation mechanism—gain modulation, signal enhancement, and competitive inhibition in neuroscience; weighted relevance scores in transformer architectures. These processes are well understood, mathematically formalised, and implemented in hardware. Both brains and transformers perform selection. Neither, by performing selection, thereby *experiences* selecting.
 
 ### Phenomenal Attention
 
-Phenomenal attention is the experiential dimension—the *what it is like* of attending, a specific instance of [phenomenal-consciousness](/concepts/phenomenal-consciousness/) applied to the act of selection. When you concentrate on a difficult passage of text, there is something it feels like: a narrowing of experiential focus, a sense of effort, a qualitative shift from the diffuse awareness that preceded it. When attention drifts and you catch it wandering, the moment of re-engagement has a distinctive phenomenal character—a felt *pulling back*.
+Phenomenal attention is the experiential dimension—the *what it is like* of attending, a specific instance of [phenomenal-consciousness](/concepts/phenomenal-consciousness/) applied to the act of selection. Concentrating on a difficult passage involves a narrowing of experiential focus, a sense of effort, a qualitative shift from diffuse awareness. Catching attention wandering has a distinctive phenomenal character—a felt *pulling back*.
 
 Key features distinguishing phenomenal from computational attention:
 
@@ -95,30 +91,28 @@ Key features distinguishing phenomenal from computational attention:
 | **Effort** | Resource cost (measurable in compute/energy) | Felt work (the experience of trying) |
 | **Directedness** | Weighted signal enhancement | Experienced orientation toward an object |
 | **Selectivity** | Competitive inhibition among signals | The qualitative narrowing of awareness |
-| **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | ~10 bits per second (Zheng & Meister 2024) |
+| **Bandwidth** | Gigabits per second (neural), teraflops (silicon) | Severely constrained (see [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)) |
 | **Substrate** | Neurons, transistors, any suitable hardware | Unknown—possibly requires consciousness |
 
-The bandwidth asymmetry is particularly revealing. The brain's computational attention processes vast quantities of information. But phenomenal attention—what you actually *experience* attending to—operates at roughly 10 bits per second, a 100-million-fold reduction from sensory input. This asymmetry is difficult to explain if phenomenal attention is just computational attention viewed from inside. It makes sense if phenomenal attention is a different kind of process operating through a constrained interface.
+The bandwidth asymmetry is suggestive. Zheng and Meister (2024) measured conscious behavioural throughput at roughly 10 bits per second—a 100-million-fold reduction from sensory input. This figure measures what conscious agents *do*, not what phenomenal attention processes internally; the actual bandwidth of phenomenal attention remains unknown. Still, the vast gap between sensory throughput and conscious output is consistent with a constrained interface through which consciousness engages with neural processing.
 
 ### Why the Conflation Matters
 
-The most consequential error enabled by conflating these senses: the inference from "AI has attention" to "AI might have consciousness." Transformer architectures use attention mechanisms. If attention *is* consciousness (or if consciousness is an attention schema, as [AST](/concepts/attention-schema-theory/) proposes), then sufficiently sophisticated attention mechanisms should generate consciousness.
+The most consequential error: inferring from "AI has attention" to "AI might have consciousness." What transformers have is computational attention—resource allocation, nothing more. Whether a system performing computational attention thereby *experiences* attending remains entirely open.
 
-But what transformers have is computational attention—resource allocation, nothing more. The question of whether a system performing computational attention thereby *experiences* attending remains entirely open. Claiming AI "has attention" and therefore might "have consciousness" equivocates between the two senses.
-
-[Attention Schema Theory](/concepts/attention-schema-theory/) rests on this conflation. Graziano proposes that consciousness is the brain's model of its own attention. But which attention? The brain models its *computational* attention—tracking what is being processed and how. AST then claims this model *is* consciousness. The slide occurs between "the brain models its attention" (computational) and "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing that process is precisely the [hard problem](/topics/hard-problem-of-consciousness/)—the [explanatory-gap](/concepts/explanatory-gap/) relocated rather than solved.
+[Attention Schema Theory](/concepts/attention-schema-theory/) exemplifies the conflation. Graziano proposes consciousness is the brain's model of its own attention—but the brain models its *computational* attention. AST then claims this model *is* consciousness, sliding from "the brain models its attention" (computational) to "this model constitutes experience" (phenomenal). The gap between modelling a process and experiencing it is precisely the [hard problem](/topics/hard-problem-of-consciousness/)—the [explanatory-gap](/concepts/explanatory-gap/) relocated rather than solved. (The interface hypothesis faces its own version of this relocation problem—see [The Relocation Objection](#the-relocation-objection) in the Challenges section.)
 
 ## Attention and Consciousness Are Dissociable
 
-The interface hypothesis rests on a further distinction: attention and consciousness are related but separable processes. Koch and Tsuchiya (2007) documented the evidence. These dissociations map differently onto the two senses of attention.
+The interface hypothesis rests on a further distinction: attention and consciousness are related but separable processes. Koch and Tsuchiya (2007) documented the key dissociations.
 
-**Computational attention without phenomenal attention**: [Blindsight](/concepts/blindsight/) patients orient toward stimuli they deny seeing. Their brains perform computational attention—selecting and enhancing signals from the "blind" field—without phenomenal attention to those stimuli. The computational process runs; the experience does not accompany it.
+**Computational attention without phenomenal attention**: [Blindsight](/concepts/blindsight/) patients orient toward stimuli they deny seeing—computational selection without phenomenal accompaniment.
 
-**Phenomenal attention without focused computational attention**: Peripheral awareness demonstrates consciousness of stimuli receiving minimal computational processing. Ned Block's analysis of iconic memory experiments showed subjects seeing all letters in a display while reporting only 3-4—[consciousness overflowing](/concepts/phenomenal-overflow/) the computational bottleneck. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
+**Phenomenal attention without focused computational attention**: Ned Block's analysis of iconic memory showed subjects seeing all letters while reporting only 3-4—[consciousness overflowing](/concepts/phenomenal-overflow/) the computational bottleneck. A 2025 *eLife* study (Nartker et al.) strengthened the case: inattentionally blind participants retain visual sensitivity to stimuli they deny noticing.
 
-**Willed versus automatic computational attention**: The willed/instructed distinction provides neural evidence. Willed attention—internally initiated, accompanied by strong phenomenal effort—produces frontal theta oscillations, bidirectional frontoparietal coherence, and additional frontal recruitment absent in instructed (externally cued) attention. Both are computational attention; only willed attention involves the full phenomenal engagement. The additional neural signatures mark where phenomenal attention contributes something beyond the computational process.
+**Willed versus automatic computational attention**: Willed attention—internally initiated, accompanied by strong phenomenal effort—produces frontal theta, bidirectional frontoparietal coherence, and additional frontal recruitment absent in instructed attention. Both are computational attention; only willed attention involves full phenomenal engagement. Frequency analysis reinforces the separation: conscious content correlates with low gamma (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz).
 
-Frequency analysis adds a physiological dimension: conscious content correlates with low gamma oscillations (~55-65 Hz) while attentional control operates in high gamma (~75-90 Hz) (Koch & Tsuchiya 2007), indicating separable neural processes. If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
+If attention and consciousness are dissociable, consciousness cannot be reduced to attentional mechanisms. The interface hypothesis proposes that attention mediates between consciousness and brain, without being either one.
 
 ## The Hypothesis Stated
 
@@ -129,7 +123,7 @@ Attention functions as the **interface layer** between consciousness and neural 
 | Attention is not identical to consciousness | Explains dissociation evidence |
 | Attention mediates consciousness's causal influence | Specifies the downward direction of bidirectional interaction |
 | Consciousness can only influence what it attends to | Explains [brain specialness](/concepts/brain-interface-boundary/)—why not psychokinesis |
-| Attention has bandwidth limits (~10 bits/second) | Constrains what consciousness can select |
+| Conscious behavioural throughput is severely limited | Consistent with a constrained interface |
 | A candidate mechanism exists (quantum Zeno effect) | Rapid observation holds desired neural patterns (alternatives possible) |
 
 If consciousness can influence matter, why not everywhere? The [brain-interface-boundary](/concepts/brain-interface-boundary/) article develops why: attention requires neural infrastructure, the candidate mechanisms require rapid observation achievable only within neural systems, and [selection](/concepts/consciousness-selecting-neural-patterns/) works by biasing ongoing neural competition that external systems are not part of.
@@ -144,39 +138,25 @@ Not all top-down attention is willed. Research (Nadra & Mangun 2023) identifies 
 | **Instructed** | External cues | ~300ms | Low |
 | **Willed** | Internal decision | ~300ms | High |
 
-The willed/instructed distinction is critical. When you follow instructions, the decision about *what* to attend to was made externally. When you freely choose where to attend, different neural processes engage—additional frontal recruitment, theta oscillations, and bidirectional coherence that instructed attention does not produce.
+Three neural markers distinguish willed from instructed attention (Rajan et al. 2019): frontal theta oscillations (~500ms post-decision) absent in instructed attention; bidirectional theta-band frontoparietal coherence (suggesting ongoing communication between decision and execution systems, not unidirectional triggering); and additional DLPFC/ACC recruitment—decision-making machinery that cued attention bypasses.
 
-Three neural markers distinguish willed from instructed attention (Rajan et al. 2019):
-
-**Frontal theta oscillations**: Willed attention decisions produce frontal theta oscillations (~500ms post-decision) absent in instructed attention. Theta marks genuine decision—something beyond implementing an external instruction.
-
-**Bidirectional frontoparietal coherence**: During willed attention, theta-band coherence between frontal and parietal regions is bidirectional. If consciousness merely triggered attention mechanisms, we would expect unidirectional flow. The bidirectional pattern suggests ongoing communication between decision and execution systems.
-
-**Additional frontal recruitment**: Willed attention engages DLPFC/ACC regions beyond those active during instructed attention—decision-making machinery that cued attention bypasses.
-
-These neural signatures identify what the Map claims consciousness contributes: genuinely initiating attentional shifts, not merely following instructions. The distinction demands explanation: why would internally generated and externally cued shifts to the same location engage fundamentally different neural architectures? The additional computational load of generating a target internally does not obviously require bidirectional coherence or theta oscillations—those mark a qualitatively different process, not merely a harder version of the same one. See [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) for the full mechanistic analysis.
+Why would internally generated and externally cued shifts to the same location engage fundamentally different neural architectures? Bidirectional coherence and theta oscillations mark a qualitatively different process, not merely a harder version of the same one. See [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) for the full mechanistic analysis.
 
 ## Phenomenal Attention and Effort
 
-The [phenomenology of effort](/concepts/mental-effort/) becomes clearer with the phenomenal/computational distinction. Computational attention has computational costs—energy expenditure, opportunity costs, processing trade-offs. Phenomenal attention has phenomenal costs—the felt work of sustaining focus, the experience of fatigue, the qualitative strain of concentration.
+The [phenomenology of effort](/concepts/mental-effort/) becomes clearer with the phenomenal/computational distinction. Computational attention has computational costs—energy expenditure, processing trade-offs. Phenomenal attention has phenomenal costs—the felt work of sustaining focus, the qualitative strain of concentration. These track each other but are not identical. Kahneman's work shows computational load correlates with pupil dilation and heart rate—but why should resource allocation *feel* like anything? If phenomenal attention were nothing beyond computational attention, the felt dimension would be [epiphenomenal](/concepts/epiphenomenalism/) decoration. If phenomenal attention is a distinct process, the felt effort reflects genuine causal engagement.
 
-These track each other but are not identical. Kahneman's work shows computational load correlates with pupil dilation and heart rate—but the correlation itself demands explanation. Why should computational resource allocation *feel* like anything? If phenomenal attention were nothing beyond computational attention, the felt dimension would be [epiphenomenal](/concepts/epiphenomenalism/) decoration. If phenomenal attention is a distinct process—consciousness engaging through the attentional interface—the felt effort reflects genuine causal engagement.
-
-The meditation literature provides further evidence. Advanced practitioners distinguish increasingly fine-grained phenomenal states within attention: the moment of noticing distraction, the effortful return, the quality of sustained focus, the transition to effortless absorption. These distinctions are phenomenal, not computational—they concern the experiential character of attending, not the information-processing dynamics. Contemplative training deepens the distinction rather than dissolving it, consistent with phenomenal attention being a real feature of experience rather than a confusion to be overcome.
-
-The Map's proposed mechanism for mind-matter interaction—the quantum Zeno effect as developed by [Henry Stapp](/concepts/stapp-quantum-mind/)—operates on phenomenal attention specifically. What holds neural patterns stable through rapid observation is not computational resource allocation (which operates continuously and automatically) but the conscious act of attending—the felt, effortful engagement that [William James](/concepts/mental-effort/) described as "successive efforts." This proposal remains speculative and faces significant physical challenges regarding decoherence timescales in warm neural tissue, but it identifies the right causal variable: phenomenal attention, not computational attention.
+The Map's proposed mechanism—the quantum Zeno effect ([Stapp](/concepts/stapp-quantum-mind/))—operates on phenomenal attention specifically. What holds neural patterns stable is the conscious act of attending—the felt engagement that [William James](/concepts/mental-effort/) described as "successive efforts"—not computational resource allocation, which operates continuously and automatically.
 
 ## Motor Selection Convergence
 
-Giacomo Rizzolatti's premotor theory of attention (PMTA) provides striking support for a unified interface. PMTA's core claim: selective attention and movement planning use the same neural substrates. The same fronto-parietal networks activate during spatial attention shifts and motor preparation. Preparing an eye movement to a location improves visual processing there—attention *is* the motor preparation.
+Rizzolatti's premotor theory of attention (PMTA) provides striking support: selective attention and movement planning use the same neural substrates. Preparing an eye movement to a location improves visual processing there—attention *is* motor preparation.
 
-Paul Cisek's affordance competition hypothesis describes the architecture: sensory input automatically specifies multiple potential actions that compete within neural populations. Decision occurs when one competing population reaches threshold. This architecture provides a precise locus for selection: during competition, multiple action representations exist simultaneously; at threshold crossing, one becomes actual.
+Cisek's affordance competition hypothesis describes the architecture: sensory input specifies multiple potential actions competing within neural populations; decision occurs when one reaches threshold. Thura and Cisek (2014) found that ~280ms before movement onset, the selected target peaks while alternatives are suppressed—matching the ~300ms deployment time of willed attention. If these were independent systems, why share the same timeline?
 
-The timing convergence is striking. Thura and Cisek (2014) identified that approximately 280ms before movement onset, activity for the selected target peaks while the unselected target is suppressed. Willed attention takes ~300ms to deploy. If attention and motor selection were independent systems, why would they share the same timeline?
+The [dopamine system](/topics/dopamine-and-the-unified-interface/) illuminates further. A 2024 *Nature* study showed dopamine-deficient mice "can move" but "won't move"—dopamine modulates the *decision threshold*, not motor capacity. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
 
-The [dopamine system](/topics/dopamine-and-the-unified-interface/) illuminates how the brain prepares options for selection. A 2024 *Nature* study demonstrated that dopamine-deficient mice "can move" but "won't move"—motor circuitry remains intact but goal-directed initiative is lost. Dopamine modulates the *decision threshold*, not motor capacity itself. This suggests a layered architecture: neural computation generates competing options, dopamine sets threshold sensitivity, and consciousness determines which option crosses threshold.
-
-Willed attention and willed action feel like the same kind of effort because they may *be* the same kind of effort—consciousness operating through a single selection mechanism that the brain divides only functionally. See [motor-selection](/concepts/motor-selection/) for the full treatment.
+Willed attention and willed action feel like the same effort because they may *be* the same effort—consciousness operating through a single selection mechanism. See [motor-selection](/concepts/motor-selection/) for the full treatment.
 
 ## Candidate Selection Sites
 
@@ -189,42 +169,37 @@ Where in the brain does the interface operate?
 | **Salience network** | Anterior insula + ACC switching between networks | Voluntary interruption of ongoing processing |
 | **Thalamic nuclei** | Relay: ascending sensory meets descending voluntary | Selection at the "gate" determining cortical access |
 | **Ion channels (Stapp)** | Sites where quantum effects survive | [Zeno effect](/concepts/mental-effort/) via "probing actions" |
-| **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection matching ~10 bits/s bandwidth |
+| **Cortical microcolumns** | ~100-neuron coherence domains | Coarse-grained selection consistent with limited conscious throughput |
 
-The 2025 COGITATE adversarial testing suggests attention networks (frontoparietal) may be distinct from consciousness networks (posterior hot zone). Selection might occur where these systems meet. See [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) for detailed analysis.
+COGITATE (2025) suggests attention and consciousness networks are distinct; selection might occur where they meet. See [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/).
 
 ## Meditation as Interface Training
 
-Meditation provides a window onto the attention interface. Focused attention (FA) meditation trains selection—repeatedly redirecting attention to a chosen object. Open monitoring (OM) meditation cultivates the opposite: receiving without preference.
-
-| Mode | Practice | Interface State | Neural Signature |
-|------|----------|-----------------|------------------|
-| Active selection | FA meditation | Engaged | Frontal theta, ACC activation |
-| Passive witnessing | OM meditation | Disengaged | PCC deactivation, DMN quieting |
-
-FA practitioners develop stronger concentration; both selection and witnessing are genuine modes. The capacity for selection includes the capacity to suspend it. Buddhist samatha meditation reveals increasingly fine-grained awareness of the distinction between willed redirection and automatic drift—consistent with the three-level distinction. Advanced practitioners report a [witness](/concepts/witness-consciousness/) quality—awareness observing attention itself. Meditation training follows the [skill-delegation](/concepts/skill-delegation/) pattern: initial conscious calibration of attentional control, progressive withdrawal as stability develops, and retained override capacity to re-engage when attention drifts.
+Focused attention (FA) meditation trains selection; open monitoring (OM) cultivates receiving without preference. Samatha practice reveals increasingly fine-grained awareness of the distinction between willed redirection and automatic drift—consistent with the three-level distinction. Advanced practitioners report a [witness](/concepts/witness-consciousness/) quality—awareness observing attention itself. Meditation training follows the [skill-delegation](/concepts/skill-delegation/) pattern: initial conscious calibration, progressive withdrawal as stability develops, and retained override capacity when attention drifts.
 
 ## Relation to Major Theories
 
-**Global Workspace Theory** holds that consciousness arises when information achieves "global broadcast." The Map's interpretation: GWT describes *what happens in the brain* when consciousness attends, not what consciousness *is*.
+**Global Workspace Theory**: GWT describes *what happens in the brain* when consciousness attends, not what consciousness *is*.
 
-**Integrated Information Theory** measures consciousness by Φ. A 2025 *Erkenntnis* critique argues IIT "urgently needs an account of attention." The Map's interpretation: IIT describes the conscious side; the interface hypothesis describes how consciousness engages with physical outcomes.
+**Integrated Information Theory**: A 2025 *Erkenntnis* critique argues IIT "urgently needs an account of attention." IIT describes the conscious side; the interface hypothesis describes how consciousness engages with physical outcomes.
 
-**Predictive Processing** treats attention as precision weighting. This is a computational description of what attention does functionally, compatible with the interface hypothesis: consciousness biases which precision signals win.
+**Predictive Processing**: Treats attention as precision weighting—compatible with the interface hypothesis, where consciousness biases which precision signals win.
 
-**Attention Schema Theory** proposes consciousness is the brain's model of its own attention. The Map's objection: AST explains how brains model their computational attention processes but does not explain why modelling computational attention should produce phenomenal attention—why there should be something it is like to run the model. If consciousness is merely a model, what does the "seeming"? AST explains access to attention states but not phenomenal character.
+**Attention Schema Theory**: AST explains how brains model computational attention but not why modelling should produce phenomenal attention. AST explains access to attention states but not phenomenal character.
 
-The 2025 COGITATE adversarial testing found neither GWT nor IIT clearly vindicated. Something is missing; the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
+COGITATE (2025) found neither GWT nor IIT clearly vindicated—the Map's tenets point toward consciousness as an irreducible player using these mechanisms without being identical to them.
 
 ## Challenges and Falsification
 
-**The Stochastic Pre-State Challenge**: Pre-decision EEG alpha activity predicts subsequent free choices ~1000ms before participants decide. The Map's response parallels its response to the [libet-experiments](/concepts/libet-experiments/): stochastic activity provides options; consciousness selects among them. Finding that neural activity precedes choice does not show it *causes* choice in a way that excludes conscious selection.
+**The Stochastic Pre-State Challenge**: Pre-decision EEG alpha activity predicts free choices ~1000ms before participants decide. As with the [libet-experiments](/concepts/libet-experiments/): stochastic activity provides options; consciousness selects among them. Neural activity preceding choice does not show it *causes* choice in a way that excludes conscious selection.
 
-**The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Three responses: revised calculations (Hagan et al. 2002) extend coherence times by several orders of magnitude; biological precedent (avian magnetoreception) demonstrates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the timing hierarchy.
+**The Decoherence Objection**: Tegmark (2000) calculated neural quantum coherence decays in femtoseconds. Revised calculations (Hagan et al. 2002) extend coherence times significantly; biological precedent (avian magnetoreception) demonstrates quantum effects in warm tissue; and the Zeno mechanism does not require sustained coherence—each attentional "observation" constitutes a rapid measurement before decoherence acts. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
 
-**The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. The Map's response: illusionism faces the regress problem. If the sense of effort is an illusion, something must experience that illusion. The persistence of effort phenomenology—even philosophers who accept illusionism report attention *still feels* effortful—suggests something more than representation is at stake.
+**The Illusionist Challenge**: If phenomenal consciousness is illusory, no special interface is needed. But if the sense of effort is an illusion, something must experience that illusion—the regress problem. Even philosophers who accept illusionism report attention *still feels* effortful.
 
-**The Functionalist Challenge**: [Functionalism](/concepts/functionalism/) holds that consciousness is a functional role. Computational attention is a functional role, fully specifiable in terms of inputs, outputs, and processing. But phenomenal attention resists functional specification—the *what it is like* of attending cannot be captured by describing what the system does. Two systems performing identical computational attention could differ in phenomenal attention (or one could lack it entirely). The distinction is a concrete instance of the general anti-functionalist argument.
+**The Relocation Objection**: The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (e.g., quantum selection), but does not explain *why* phenomenal attention exists or how subjective experience arises from—or connects to—physical processes. The hard problem is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" This is a genuine limitation. The hypothesis gains its value not by dissolving the hard problem but by constraining where the explanatory gap sits—narrowing the mystery from "consciousness and the brain" to "consciousness and attentional selection"—which may prove more tractable.
+
+**The Functionalist Challenge**: Computational attention is fully specifiable in terms of inputs, outputs, and processing. But phenomenal attention resists functional specification—two systems performing identical computational attention could differ in phenomenal attention (or one could lack it entirely). A concrete instance of the general anti-[functionalist](/concepts/functionalism/) argument.
 
 The hypothesis would fail if:
 
@@ -236,15 +211,15 @@ The hypothesis would fail if:
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)**: Phenomenal attention is irreducible to computational attention. This is not a gap in current knowledge but a reflection of the ontological distinction between experience and mechanism. Computational attention can be fully described in physical terms; phenomenal attention cannot, because the felt character of attending is not a physical property. The willed/instructed distinction identifies what dualism claims consciousness contributes: internal decision about where to direct focus.
+**[Dualism](/tenets/#dualism)**: Phenomenal attention is irreducible to computational attention—a reflection of the ontological distinction between experience and mechanism. Computational attention can be fully described in physical terms; phenomenal attention cannot. The willed/instructed distinction identifies what dualism claims consciousness contributes: internal decision about where to direct focus.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If the quantum Zeno mechanism operates on phenomenal attention specifically, then consciousness interfaces with matter not through any computational process but through the experiential act of attending. Attention-mediated selection satisfies the "minimal" constraint—operating at quantum indeterminacies without injecting energy or violating physical laws. Consciousness does not generate force; it biases which accumulating option wins the threshold race.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Attention-mediated selection satisfies the "minimal" constraint—operating at quantum indeterminacies without injecting energy or violating physical laws. Consciousness does not generate force; it biases which accumulating option wins the threshold race.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The interface hypothesis specifies the downward direction. Schwartz's OCD neuroplasticity provides empirical grounding: patients who learn to voluntarily redirect attention produce measurable brain changes. The phenomenal effort of maintaining attention against obsessive patterns is what produces brain change. Whatever the mechanism, voluntary attention has physical consequences.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: The interface hypothesis specifies the downward direction. Schwartz's OCD neuroplasticity provides empirical grounding: patients who voluntarily redirect attention produce measurable brain changes. Whatever the mechanism, voluntary attention has physical consequences.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The phenomenology of attention *as selection* presupposes genuine alternatives—choosing *this* over *that*. On MWI, both occur. Self-locating explains the *appearance* of efficacy but not the *differential results* of engaged versus passive attention.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing phenomenal attention to computational attention appears parsimonious—one kind of attention rather than two. But this parsimony purchases simplicity by denying the datum. The felt character of attention is arguably the most immediately known datum; claiming it reduces to resource allocation prioritises theoretical simplicity over experiential evidence. The 2025 adversarial testing found neither GWT nor IIT fully explains consciousness. The interface hypothesis adds complexity but explains what simpler theories cannot: why attention feels effortful and why effortful attention produces neuroplastic results.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing phenomenal attention to computational attention appears parsimonious, but purchases simplicity by denying the datum. The felt character of attention is arguably the most immediately known datum. The interface hypothesis adds complexity but explains what simpler theories cannot: why attention feels effortful and why effortful attention produces neuroplastic results.
 
 ## Further Reading
 
@@ -292,3 +267,15 @@ The hypothesis would fail if:
 22. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 23. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 24. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
+
+<!-- AI REFINEMENT LOG - 2026-04-02
+Changes made:
+- Corrected characterization of Zheng & Meister (2024) ~10 bits/s figure: now explicitly described as conscious behavioural throughput, not phenomenal attention bandwidth. Removed direct equation between this figure and phenomenal attention bandwidth throughout (table, hypothesis statement, candidate sites).
+- Added "The Relocation Objection" to Challenges section: acknowledges that the interface hypothesis relocates rather than resolves the hard problem, while arguing this narrowing may be productive.
+- Added self-aware parenthetical in AST critique noting the interface hypothesis faces its own relocation problem.
+
+Based on pessimistic review findings (pessimistic-2026-04-02.md).
+Key improvements: intellectual honesty about the hypothesis's limitations and more careful use of empirical evidence.
+
+This log should be removed after human review.
+-->

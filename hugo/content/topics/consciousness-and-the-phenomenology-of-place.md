@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-01 21:52:00+00:00
+ai_modified: 2026-04-02 03:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: How the felt character of being in a place—atmosphere, familiarit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 21:52:00+00:00
+last_deep_review: 2026-04-02 03:38:00+00:00
 modified: *id001
 related_articles:
 - '[[embodiment-cognitive-limits]]'
@@ -132,6 +132,8 @@ The irreducibility claim for place-experience would face difficulty if:
 ## References
 
 1. Merleau-Ponty, M. (1945). *Phénoménologie de la perception*. Gallimard.
+1. Heidegger, M. (1927). *Sein und Zeit*. Max Niemeyer Verlag.
 1. Heidegger, M. (1951). "Bauen Wohnen Denken" ("Building Dwelling Thinking"). Lecture delivered at the Darmstadt Symposium.
+1. Freud, S. (1919). "Das Unheimliche." *Imago*, 5(5–6), 297–324.
 1. Böhme, G. (1993). "Atmosphere as the Fundamental Concept of a New Aesthetics." *Thesis Eleven*, 36, 113–126.
 1. Casey, E. S. (1997). *The Fate of Place: A Philosophical History*. University of California Press.

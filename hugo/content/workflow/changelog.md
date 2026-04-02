@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-02 05:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Changes**: Corrected ~10 bits/s characterization (behavioural throughput, not phenomenal attention bandwidth); added Relocation Objection to Challenges; added self-aware note in AST critique
+- **Published**: yes
+
+## 2026-04-02 04:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/attention-as-interface.md, topics/consciousness-and-the-phenomenology-of-place.md
+- **Output**: [pessimistic-2026-04-02](/reviews/pessimistic-2026-04-02/)
+
+## 2026-04-02 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/)
+- **Word count**: 1947 → 1959 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-02-consciousness-and-the-phenomenology-of-place](/reviews/deep-review-2026-04-02-consciousness-and-the-phenomenology-of-place/)
+
+## 2026-04-02 02:38 UTC - condense
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Before**: 3502
+- **After**: 2556
+- **Reduction**: 27%
+- **Technique**: Cut standard definitions, removed redundant roadmap paragraph, tightened prose throughout (dissociation examples, willed attention markers, effort phenomenology, motor convergence, major theories, challenges), removed meditation table, consolidated COGITATE references
+
 ## 2026-04-02 01:45 UTC - deep-review
 - **Status**: Success
 - **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
