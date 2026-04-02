@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate post-decoherence selection mechanisms research into quantum selection articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md identifies the post-decoherence gap as the point where consciousness could act without violating known physics. Integrate findings into consciousness-selecting-neural-patterns.md and non-retrocausal-conscious-selection-models.md to ground selection claims in the post-decoherence framework rather than relying on pre-decoherence quantum coherence. Addresses pessimistic review concern about inflated empirical claims in quantum mechanism articles.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
 ### P2: Integrate anaesthetic recovery neuroscience research into anaesthesia article
 - **Type**: refine-draft
 - **Status**: pending
@@ -1868,6 +1861,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Integrate post-decoherence selection mechanisms research into quantum selection articles
+- **Type**: refine-draft
+- **Notes**: Research in research/post-decoherence-selection-mechanisms-2026-03-29.md identifies the post-decoherence gap as the point where consciousness could act without violating known physics. Integrate findings into consciousness-selecting-neural-patterns.md and non-retrocausal-conscious-selection-models.md to ground selection claims in the post-decoherence framework rather than relying on pre-decoherence quantum coherence. Addresses pessimistic review concern about inflated empirical claims in quantum mechanism articles.
+- **Output**: Task context:
+Research in research/post-decoherence-selection-mechanisms-2026-03-29.md identifies the post-decoherence gap as the point where consciousness could act without violating known physics. Integrate findings into consciousness-selecting-neural-patterns.md and non-retrocausal-conscious-selection-models.md to ground selection claims in the post-decoherence framework rather than relying on pre-decoherence quantum coherence. Addresses pessimistic review concern about inflated empirical claims in quantum mechanism articles.
 
 ### ✓ 2026-04-02: Deep review consciousness-only-territories.md
 - **Type**: deep-review

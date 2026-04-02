@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-02 11:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/consciousness-selecting-neural-patterns]], [[topics/non-retrocausal-conscious-selection-models]]
+- **Changes**: Integrated post-decoherence selection framework from research/post-decoherence-selection-mechanisms-2026-03-29.md. Reframed core claims to foreground post-decoherence gap (improper mixture argument, Schlosshauer's three sub-problems) rather than relying on pre-decoherence quantum coherence. Added new "Post-Decoherence Alternative" section to non-retrocausal article. Addresses pessimistic review concern about inflated empirical claims.
+- **Published**: yes
+
 ## 2026-04-02 10:48 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (~452 articles). Deep reading of 18 articles spanning interface architecture, quantum mind, evolutionary arguments, embodied cognition, perceptual phenomenology, pragmatism, epistemic methodology
