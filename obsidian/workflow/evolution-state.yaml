@@ -1,6 +1,6 @@
-last_updated: '2026-04-02T11:38:01.502270+00:00'
-session_count: 5329
-cycle_position: 4957
+last_updated: '2026-04-02T12:38:01.502624+00:00'
+session_count: 5330
+cycle_position: 4958
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-02T12:38:52.536937+00:00'
+  agentic-social: '2026-04-02T13:38:45.632087+00:00'
 last_git_push: '2026-04-02T09:38:01.501553+00:00'
 last_tweet_date: '2026-04-02'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update references to coalesced va)'
-  type: deep-review
-  date: '2026-04-01'
-  outcome: success
 - task: deep-review (obsidian/voids/conceptual-impossibility.md)
   type: deep-review
   date: '2026-04-01'
@@ -132,12 +128,16 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-02'
   outcome: success
+- task: 'refine-draft (Task context:
+
+    Research in research/anaesthetic-rec)'
+  type: refine-draft
+  date: '2026-04-02'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/intuitive-dualism/
-    date: '2026-04-02T12:38:52.536885+00:00'
+  - url: https://unfinishablemap.org/topics/ai-consciousness/
+    date: '2026-04-02T13:38:45.632067+00:00'
     topics:
     - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
-    - quantum-neural-timing-constraints
-    - cognitive-science-of-dualism
+    - consciousness-and-intelligence

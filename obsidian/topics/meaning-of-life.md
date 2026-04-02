@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-02T13:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-03-10T07:43:00+00:00
+last_deep_review: 2026-04-02T13:38:00+00:00
 ---
 
 What makes a life meaningful? The question has occupied philosophers since antiquity, generating answers that range from divine purpose to self-created projects to the stark claim that meaning is impossible. The Unfinishable Map's framework—built on the conviction that consciousness is fundamental and causally efficacious—suggests a distinctive answer: meaning is grounded neither in God nor in subjective preference alone, but in the intrinsic significance of conscious experience itself.
@@ -67,7 +67,7 @@ This avoids metaphysical commitments but invites counterexamples. If someone dev
 
 No life achieves genuine meaning. Objective values don't exist (error theory), cosmic scales render human lives negligible (axiological argument), or without genuine free will we can't author meaning anyway (ontological argument).
 
-David Benatar argues existence always involves more harm than non-existence. Thomas Nagel highlights our absurdity from "the point of view of the universe." Some nihilists distinguish a "sunny" variant: the absence of cosmic purpose doesn't entail that life is bad, just neutral.
+David Benatar argues existence always involves more harm than non-existence. Thomas Nagel argues we are absurd because we take life seriously while recognising we could doubt that seriousness—a clash between engagement and cosmic perspective. Iddo Landau contends the implications of cosmic meaninglessness are overstated: scale alone doesn't determine significance. Some nihilists distinguish a "sunny" variant: the absence of cosmic purpose doesn't entail that life is bad, just neutral.
 
 ## The Map's Position
 
@@ -123,9 +123,7 @@ The Map's framework provides resources against the main nihilist arguments.
 
 ### Against Cosmic Insignificance
 
-"From the point of view of the universe, you don't matter." But the universe *as such* doesn't have a point of view. Only conscious beings have points of view—and from those perspectives, things do matter.
-
-The cosmic insignificance argument appeals to an impersonal "view from nowhere," but such a view is an abstraction, not an actual perspective. The question is not whether we matter to the void, but whether our lives have significance from the perspectives that actually exist.
+"From the point of view of the universe, you don't matter." But the universe *as such* doesn't have a point of view. Only conscious beings have perspectives—and from those perspectives, things do matter. The cosmic insignificance argument appeals to an impersonal "view from nowhere," but that view is an abstraction, not an actual perspective. The question is not whether we matter to the void, but whether our lives have significance from the perspectives that actually exist.
 
 ### Against Error Theory
 
