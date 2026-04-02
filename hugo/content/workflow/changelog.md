@@ -4,10 +4,46 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-01'
+date: '2026-04-02'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-02 01:45 UTC - deep-review
+- **Status**: Success
+- **File**: [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
+- **Word count**: 2993 → 2985 (-8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-02-evolutionary-case-for-mental-causation](/reviews/deep-review-2026-04-02-evolutionary-case-for-mental-causation/)
+
+## 2026-04-02 00:38 UTC - deep-review
+- **Status**: Success
+- **File**: [origin-of-consciousness](/voids/origin-of-consciousness/)
+- **Word count**: 2152 → 2177 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-02-origin-of-consciousness](/reviews/deep-review-2026-04-02-origin-of-consciousness/)
+
+## 2026-04-01 23:39 UTC - deep-review
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Word count**: 2928 → 2773 (-155)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-01-necessary-opacity](/reviews/deep-review-2026-04-01-necessary-opacity/)
+
+## 2026-04-01 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [implicit-memory](/concepts/implicit-memory/)
+- **Word count**: 2930 → 2948 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale refinement log removed, cross-link to coalesced article added)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-01-implicit-memory](/reviews/deep-review-2026-04-01-implicit-memory/)
 
 ## 2026-04-01 21:38 UTC - deep-review
 - **Status**: Success

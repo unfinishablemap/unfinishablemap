@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-26 14:45:00+00:00
+ai_modified: 2026-04-02 01:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Evolution provides significant evidence that consciousness causally
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 13:38:00+00:00
+last_deep_review: 2026-04-02 01:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -110,7 +110,7 @@ Unconscious processing handles routine situations through established patterns�
 
 ### Metacognitive Monitoring
 
-Consciousness enables organisms to monitor their own cognitive states—recognising uncertainty, detecting errors, adjusting strategies. This metacognitive capacity allows learning from mistakes and calibrating confidence to evidence. A 2018 paper in *Humanities and Social Sciences Communications* argues that explicit metacognition—representing one's knowledge as knowledge—enables cumulative culture, the ratchet effect that distinguishes human technological progress from the non-accumulating traditions of other species.
+Consciousness enables organisms to monitor their own cognitive states—recognising uncertainty, detecting errors, adjusting strategies. This metacognitive capacity allows learning from mistakes and calibrating confidence to evidence. Heyes (2018) argues that explicit metacognition—representing one's knowledge as knowledge—enables cumulative culture, the ratchet effect distinguishing human technological progress from the non-accumulating traditions of other species.
 
 ### Motivational Control Responsive to History
 

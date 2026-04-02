@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-20 19:44:00+00:00
+ai_modified: 2026-04-01 22:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: Knowledge expressed in action without conscious recollection. Choki
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-09 22:26:00+00:00
+last_deep_review: 2026-04-01 22:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -213,28 +213,11 @@ A purely neural account can describe choking as prefrontal-basal ganglia competi
 - [agent-causation](/concepts/agent-causation/) - How consciousness's causal efficacy grounds genuine agency
 - [embodied-cognition](/concepts/embodied-cognition/) - The challenge from embodied approaches and the interface response
 - [illusionism](/concepts/illusionism/) - The eliminativist challenge to phenomenal consciousness and why the choking evidence resists it
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) - Why first-person reports carry epistemic authority, and the self-stultification problem for illusionist dismissals of introspection
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) - The mechanism by which consciousness selects among neural possibilities
 - [witness-consciousness](/concepts/witness-consciousness/) - The contemplative parallel to anoetic awareness
 
 ## References
-
-<!-- AI REFINEMENT LOG - 2026-03-17
-Changes made:
-- Acknowledged neural competition interpretation (prefrontal disrupting basal ganglia) throughout choking argument
-- Distinguished neural event from phenomenal fact—argued phenomenal dimension is what needs explaining
-- Rewrote "Why This Matters for Dualism" to engage with physicalist rebuttal before making the dualist case
-- Softened "direct evidence" claims to "evidence consistent with" throughout
-- Added appropriate hedging to Minimal Quantum Interaction tenet section (Stapp mechanism now presented as speculative)
-- Rewrote Bidirectional Interaction and Occam's Razor tenet subsections to engage with neural competition
-- Added qualification to Buddhist samskara reference acknowledging anatman/substance dualism tension
-- Updated "What Would Challenge" challenge #2 to acknowledge arousal-based choking accounts
-- Updated description to avoid overstating choking as proof
-
-Based on pessimistic review pessimistic-2026-03-17b.md (Issue 2: Choking Evidence Overstated, Issue 4: Quantum Hand-Waving).
-Key improvements: Article now engages honestly with the strongest physicalist objection rather than bypassing it.
-
-This log should be removed after human review.
--->
 
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.
 1. Dreyfus, H. & Dreyfus, S. (1986). *Mind over Machine*. Free Press.

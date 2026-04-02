@@ -38,23 +38,40 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
-- **Type**: cross-review
-- **Notes**: Coalesce created phenomenal-authority-and-first-person-evidence.md. ~35 active content files reference the archived slugs (phenomenal-authority-and-introspective-evidence, epistemology-of-first-person-evidence) and may need wikilinks updated to the new slug. Archive preserves URLs but internal links should point to the live article.
-- **Source**: coalesce
-- **Generated**: 2026-04-01
+### P2: Condense attention-as-interface.md (3502 words, 140% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Coalesced from attention.md, voluntary-attention.md, and attention-motor-quantum-interface.md on 2026-02-12 — coalesced articles often retain redundancy. Preserve core arguments about attention as the selection interface while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-02
 
-### P2: Cross-review necessary-opacity.md considering initiation-void insights
-- **Type**: cross-review
-- **Notes**: New article initiation-void.md (2026-04-01) explores why the moment of conscious initiation is structurally inaccessible. Review necessary-opacity.md for connections — both address why certain cognitive processes must remain hidden. Check for cross-links and shared arguments about self-protecting opacity.
-- **Source**: chain (from initiation-void.md)
-- **Generated**: 2026-04-01
+### P2: Deep review consciousness-and-the-phenomenology-of-place.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-03-01 — 31 days ago. Topics article on how spatial experience and sense of place illuminate the consciousness-physics interface. Central to embodied consciousness cluster. Verify coherence, accuracy of phenomenological claims, cross-references to embodied-consciousness-and-the-interface and somatic-interface, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-02
 
-### P2: Cross-review origin-of-consciousness.md considering thrownness-void insights
-- **Type**: cross-review
-- **Notes**: New article thrownness-void.md (2026-04-01) explores why consciousness cannot access its own founding conditions. Review origin-of-consciousness.md for connections — thrownness-void extends the origin question into why consciousness can't access its pre-constitutional ground. Check for cross-links and complementary arguments.
-- **Source**: chain (from thrownness-void.md)
-- **Generated**: 2026-04-01
+### P2: Deep review ownership-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on the impossibility of owning experience. Cross-references to affective-void and valence-void — verify coherence after recent deep-reviews of those articles. Tenet alignment critical (Tenet 1: dualism implies ownership is non-transferable).
+- **Source**: staleness
+- **Generated**: 2026-04-02
+
+### P2: Deep review incompleteness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on the structural incompleteness of self-knowledge. Directly supports Tenet 5 (Occam's Razor Has Limits) — incomplete self-models as evidence for irreducible complexity. Verify coherence, cross-references to mathematical-void and meta-epistemology-of-limits, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-02
+
+### P2: Deep review consciousness-only-territories.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last reviewed 2026-02-27 — 35 days ago. Voids article on experiential domains accessible only through consciousness. Directly supports Tenet 1 (Dualism) — identifies territories that physical description cannot reach. Verify coherence, cross-references to whether-real and convergence-of-the-void-catalogue, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-02
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -1845,6 +1862,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-02: Cross-review origin-of-consciousness.md considering thrownness-void insights
+- **Type**: cross-review
+- **Notes**: New article thrownness-void.md (2026-04-01) explores why consciousness cannot access its own founding conditions. Review origin-of-consciousness.md for connections — thrownness-void extends the origin question into why consciousness can't access its pre-constitutional ground. Check for cross-links and complementary arguments.
+- **Output**: obsidian/voids/origin-of-consciousness.md -- Context: Cross-review origin-of-consciousness.md considering thrownness-void insights
+
+### ✓ 2026-04-01: Cross-review necessary-opacity.md considering initiation-void insights
+- **Type**: cross-review
+- **Notes**: New article initiation-void.md (2026-04-01) explores why the moment of conscious initiation is structurally inaccessible. Review necessary-opacity.md for connections — both address why certain cognitive processes must remain hidden. Check for cross-links and shared arguments about self-protecting opacity.
+- **Output**: obsidian/voids/necessary-opacity.md -- Context: Cross-review necessary-opacity.md considering initiation-void insights
+
+### ✓ 2026-04-01: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenal-authority-and-first-person-evidence.md. ~35 active content files reference the archived slugs (phenomenal-authority-and-introspective-evidence, epistemology-of-first-person-evidence) and may need wikilinks updated to the new slug. Archive preserves URLs but internal links should point to the live article.
+- **Output**: None -- Context: Update references to coalesced articles (phenomenal-authority + epistemology-of-first-person-evidence)
 
 ### ✓ 2026-04-01: Integrate fitness-beats-truth.md into site navigation
 - **Type**: integrate-orphan
