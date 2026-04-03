@@ -9,6 +9,37 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-03 13:48 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Word count**: 2385 → 2393 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Johansson citation year, heterophenomenology wikilink)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-03-contemplative-epistemology](/reviews/deep-review-2026-04-03-contemplative-epistemology/)
+
+## 2026-04-03 12:38 UTC - deep-review
+- **Status**: Success
+- **File**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- **Word count**: 1976 → 1964 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphaned references, description length)
+- **Enhancements made**: 2 (in-text citations for Ramachandran 1992, Clark 2023)
+- **Output**: [deep-review-2026-04-03-selective-correction-and-reconstruction-paradox](/reviews/deep-review-2026-04-03-selective-correction-and-reconstruction-paradox/)
+
+## 2026-04-03 11:38 UTC - condense
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Before**: 4432
+- **After**: 3106
+- **Reduction**: 30%
+- **Technique**: Cut redundant Common Core paragraph, condensed Baseline to inline list, tightened Tier 1 subsections (Mass-Quadratic, Brownian Heating), trimmed Tier 2 verbosity (Q-shape, timing, Stapp, coherence disruption), merged Shielded System Strategy into landscape intro, removed redundant post-table summary, tightened Relation to Site Perspective
+
+## 2026-04-03 10:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full corpus (~225 topics, ~226 concepts, tenets, ~22 apex). Deep reading of 12 recently modified articles spanning collective phenomena, self-stultification, phenomenal authority, epistemic emotions, consciousness-collapse testing, parsimony, amplification, valence selection, reconstruction paradox, pragmatism, mental causation, and neurological dissociations
+- **Output**: [optimistic-2026-04-03](/reviews/optimistic-2026-04-03/)
+
 ## 2026-04-03 09:38 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)

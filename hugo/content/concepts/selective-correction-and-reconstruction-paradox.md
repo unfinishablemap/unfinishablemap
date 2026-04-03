@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-02 20:51:00+00:00
+ai_modified: 2026-04-03 12:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,13 +22,13 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-12
 date: &id001 2026-04-02
-description: The brain silently corrects some perceptual errors while faithfully transmitting
-  others to consciousness—an asymmetry that reveals the structure of the mind-body
-  interface and reformulates the hard problem at the perceptual level.
+description: The brain corrects some perceptual errors silently while transmitting
+  others unchanged—an asymmetry that reformulates the hard problem at the perceptual
+  level.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 22:15:00+00:00
+last_deep_review: 2026-04-03 12:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -48,7 +48,7 @@ Selective perceptual correction is the brain's asymmetric processing of sensory 
 
 ## What Gets Corrected
 
-The brain's autonomous corrections are extensive. The blind spot — where the optic nerve exits each retina — creates a gap roughly the size of a lemon at arm's length. Consciousness never registers it. Hierarchical [predictive coding](/concepts/predictive-processing/) fills the gap with context-appropriate content: uniform colour, matching patterns, continuous object boundaries.
+The brain's autonomous corrections are extensive. The blind spot — where the optic nerve exits each retina — creates a gap roughly the size of a lemon at arm's length (Ramachandran, 1992). Consciousness never registers it. Hierarchical [predictive coding](/concepts/predictive-processing/) fills the gap with context-appropriate content: uniform colour, matching patterns, continuous object boundaries.
 
 Saccadic masking is more dramatic still. Several times per second, the eyes make rapid movements (saccades), during which the brain suppresses visual processing entirely — editing out approximately forty minutes of visual experience per waking day (Ibbotson & Krekelberg, 2011). Suppression begins roughly 100 milliseconds *before* each eye movement, indicating central initiation rather than retinal response.
 
@@ -64,7 +64,7 @@ The most revealing cases are cognitively impenetrable illusions. The Müller-Lye
 
 ## The Computational Account
 
-[Predictive processing](/topics/predictive-processing-and-dualism/) provides the best mechanistic explanation. Drawing on the precision-weighting framework (Friston, 2005; Clark, 2013), the Map identifies three conditions that converge when the brain corrects:
+[Predictive processing](/topics/predictive-processing-and-dualism/) provides the best mechanistic explanation. Drawing on the precision-weighting framework (Friston, 2005; Clark, 2013, 2023), the Map identifies three conditions that converge when the brain corrects:
 
 1. **Confident prior prediction** — a well-established statistical model of what to expect
 2. **Ambiguous or absent sensory evidence** — low-precision input that the model can override
@@ -123,6 +123,5 @@ Cognitive impenetrability is closely related to [phenomenal-transparency](/conce
 4. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181–204.
 5. Friston, K. (2005). "A theory of cortical responses." *Philosophical Transactions of the Royal Society B*, 360(1456), 815–836.
 6. Ibbotson, M. & Krekelberg, B. (2011). "Visual perception and saccadic eye movements." *Current Opinion in Neurobiology*, 21(4), 553–558.
-7. Rensink, R. (2009). "Change Blindness." In W. Banks (Ed.), *Encyclopedia of Consciousness*. Academic Press.
-8. Ramachandran, V.S. (1992). "Blind spots." *Scientific American*, 266(5), 86–91.
-9. Clark, A. (2023). *The Experience Machine: How Our Minds Predict and Shape Reality*. Penguin.
+7. Ramachandran, V.S. (1992). "Blind spots." *Scientific American*, 266(5), 86–91.
+8. Clark, A. (2023). *The Experience Machine: How Our Minds Predict and Shape Reality*. Penguin.

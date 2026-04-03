@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-03 03:38:00+00:00
+ai_modified: 2026-04-03 13:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense testing-consciousness-collapse.md (4432 words, 148% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently refined (2026-04-02) with qualified claims and improved arguments, but word count remains above threshold. Preserve core experimental predictions and testability arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
+### P2: Create voids page for attention-created-voids
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 15 articles (thoughts-that-slip-away, expertise-occlusion, absorption-void, and others) but no page exists. Voids article on what attention necessarily excludes by selecting — the cognitive blind spots created by attentional focus itself. Target section: voids/ (98/100). Builds on structure-of-attention, attention-and-the-consciousness-interface, absorption-void.
+- **Source**: gap_analysis
 - **Generated**: 2026-04-03
 
-### P2: Deep review selective-correction-and-reconstruction-paradox.md
-- **Type**: deep-review
-- **Notes**: Coalesced on 2026-04-02 from voids/reconstruction-paradox.md into concepts/selective-correction-and-reconstruction-paradox.md (section change from voids to concepts). Never deep-reviewed post-coalesce. Verify the merge preserved the void's core insight about error correction presupposing a correction standard, check cross-references to perceptual-reconstruction-paradox and curated-mind, and confirm tenet alignment.
-- **Source**: staleness
+### P2: Create topics page for attention-disorders-and-consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 9 articles (contemplative-pathology-and-interface-malfunction, structure-of-attention, attention-and-the-consciousness-interface, phenomenological-psychiatry-and-altered-experience, and others) but no page exists. The epistemological void when attention disorders compromise the instrument of investigation — ADHD, hemispatial neglect, Balint syndrome as windows into the consciousness-attention interface. Target section: topics/ (224/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-03
+
+### P2: Cross-review consciousness-as-amplifier.md after condensation
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Condensed on 2026-04-03. Verify the condensed version still properly integrates with related articles (downward-causation, consciousness-and-causal-powers, amplification-mechanisms, epiphenomenalism). Check that cross-references survive the reduction and core arguments supporting Tenet 3 remain intact.
+- **Source**: chain (from condense 2026-04-03)
+- **Generated**: 2026-04-03
+
+### P2: Cross-review testing-consciousness-collapse.md after condensation
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Condensed on 2026-04-03 from 4432 to 3106 words (30% reduction). Verify the condensed article still properly integrates with consciousness-collapse-experimental-landscape, comparing-quantum-consciousness-mechanisms, and post-decoherence-selection-mechanisms. Ensure experimental predictions and methodology survived the reduction.
+- **Source**: chain (from condense 2026-04-03)
+- **Generated**: 2026-04-03
+
+### P2: Cross-review consciousness-and-collective-phenomena.md after deep-review
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Deep review on 2026-04-03 fixed post-coalesce redundancy. Verify the revised article maintains coherent integration with consciousness-as-amplifier, phenomenology-of-collective-intentionality-and-we-consciousness, and social-construction-of-self-vs-phenomenal-self. Check that the coalesce-inherited arguments now form a unified structure.
+- **Source**: chain (from deep-review 2026-04-03)
 - **Generated**: 2026-04-03
 
 ### P3: Deep review affective-void.md
@@ -391,6 +414,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
 - **Generated**: 2026-03-21
+
+### P3: Write article on temporal phenomenology of selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map treats *what* consciousness selects extensively but lacks a unified account of selection's temporal structure—the 280ms commitment point, Libet timing, deliberation-duration/outcome-quality relationship. Would connect motor-selection, consciousness-selecting-neural-patterns, and valence-and-conscious-selection. Target section: topics/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Write concept page on norm-grasping
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The self-stultification article's distinction between norm-implementation and norm-grasping deserves standalone treatment—underpins argument from reason, Chinese Room, authority of formal systems. Currently compressed into a few paragraphs. Target section: concepts/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Write article on perceptual evidence as philosophical method
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Both selective-correction-and-reconstruction-paradox and neurological-dissociations articles derive philosophical conclusions from perceptual/clinical evidence, but the Map lacks a methodological article defending this approach. When does clinical evidence bear on metaphysical questions? Target section: topics/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Write article on pragmatism and quantum foundations (QBism)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Add cross-links between self-stultification, valence-selection, pragmatism, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: self-stultification → valence-and-conscious-selection (value-sensitive selection requires causal efficacy), selective-correction-and-reconstruction-paradox → neurological-dissociations-as-interface-architecture (correction operates through ascending channels), pragmatisms-path-to-dualism → self-stultification (reflexive argument is pragmatist self-stultification), epistemic-emotions → phenomenal-authority-and-first-person-evidence (epistemic emotions are felt evidence-evaluation), consciousness-as-amplifier → consciousness-and-collective-phenomena (amplification enables deliberative-group intelligence), parsimony-case → testing-consciousness-collapse (Q-shape intractability illustrates parsimony failure). See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
 
 ### ✓ 2026-03-25: Deep review phenomenology-of-volition.md
 - **Type**: deep-review
@@ -1839,6 +1897,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Deep review selective-correction-and-reconstruction-paradox.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-02 from voids/reconstruction-paradox.md into concepts/selective-correction-and-reconstruction-paradox.md (section change from voids to concepts). Never deep-reviewed post-coalesce. Verify the merge preserved the void's core insight about error correction presupposing a correction standard, check cross-references to perceptual-reconstruction-paradox and curated-mind, and confirm tenet alignment.
+- **Output**: obsidian/concepts/selective-correction-and-reconstruction-paradox.md
+
+### ✓ 2026-04-03: Condense testing-consciousness-collapse.md (4432 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently refined (2026-04-02) with qualified claims and improved arguments, but word count remains above threshold. Preserve core experimental predictions and testability arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
 
 ### ✓ 2026-04-03: Deep review consciousness-and-collective-phenomena.md
 - **Type**: deep-review
