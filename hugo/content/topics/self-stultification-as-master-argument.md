@@ -32,7 +32,7 @@ related_articles:
 - '[[bidirectional-interaction]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-the-problem-of-induction]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[tenets]]'
 title: Self-Stultification as Master Argument
 topics:
@@ -161,8 +161,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical necessity requires conscious recognition
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Self-stultification applied to inductive reasoning about consciousness
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Whether introspective reports are causally connected to experiences
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemic framework that self-stultification presupposes
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Whether introspective reports are causally connected to experiences
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem self-stultification helps resolve
 - [causal-closure](/concepts/causal-closure/) — The principle whose rejection self-stultification motivates
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification

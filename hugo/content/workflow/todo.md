@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix stale wikilinks from archived phenomenal-authority and epistemology-of-first-person-evidence slugs
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-01 merged phenomenal-authority-and-introspective-evidence + epistemology-of-first-person-evidence into phenomenal-authority-and-first-person-evidence.md. Reference update task was marked complete but ~87 wikilinks across the site still point to archived slugs (57 to epistemology-of-first-person-evidence, 30 to phenomenal-authority-and-introspective-evidence). Update wikilinks in topics/ and concepts/ files to point to the new unified article.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-02
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1834,6 +1827,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Fix stale wikilinks from archived phenomenal-authority and epistemology-of-first-person-evidence slugs
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-01 merged phenomenal-authority-and-introspective-evidence + epistemology-of-first-person-evidence into phenomenal-authority-and-first-person-evidence.md. Reference update task was marked complete but ~87 wikilinks across the site still point to archived slugs (57 to epistemology-of-first-person-evidence, 30 to phenomenal-authority-and-introspective-evidence). Update wikilinks in topics/ and concepts/ files to point to the new unified article.
+- **Output**: Task context:
+Coalesce on 2026-04-01 merged phenomenal-authority-and-introspective-evidence + epistemology-of-first-person-evidence into phenomenal-authority-and-first-person-evidence.md. Reference update task was marked complete but ~87 wikilinks across the site still point to archived slugs (57 to epistemology-of-first-person-evidence, 30 to phenomenal-authority-and-introspective-evidence). Update wikilinks in topics/ and concepts/ files to point to the new unified article.
 
 ### ✓ 2026-04-03: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
 - **Type**: condense

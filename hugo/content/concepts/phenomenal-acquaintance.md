@@ -29,10 +29,9 @@ related_articles:
 - '[[pre-conceptual-knowing]]'
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[intentionality]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[phenomenal-transparency]]'
 - '[[acquaintance-void]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
 title: Phenomenal Acquaintance
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -108,14 +107,13 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — The epistemic category that results from standing in the acquaintance relation
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the case that acquaintance reveals facts beyond physical knowledge
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — How acquaintance grounds introspective justification
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — How acquaintance grounds introspective justification
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through phenomenal acquaintance
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The pre-conceptual character of acquaintance
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The physicalist response that locates the gap in concepts rather than acquaintance
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The structural features of the qualities acquaintance reveals
 - [introspection](/concepts/introspection/) — The reliability debate and the relation between acquaintance and introspective judgement
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The competing models (acquaintance, inner sense, transparency, inferentialism) and the case for sui generis introspective access
 - [acquaintance-void](/voids/acquaintance-void/) — The structural limits on what modes of acquaintance are possible
 
 ## References

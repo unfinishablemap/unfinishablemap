@@ -25,10 +25,9 @@ last_deep_review: 2026-04-01 01:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
 title: Phenomenological Method and Evidence Standards
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -113,12 +112,11 @@ The Unfinishable Map's framework depends on taking phenomenological evidence ser
 ## Further Reading
 
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — What phenomenological evidence is and how it is gathered
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Competing models for introspective knowledge
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Competing models for introspective knowledge
 - [phenomenology](/concepts/phenomenology/) — The philosophical method in its historical development
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person alternative and its limitations
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How contemplative training strengthens phenomenological evidence
 - [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Clinical settings as a source of phenomenological data
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of epistemic weight in phenomenal reports
 
 ## References
 
@@ -140,4 +138,4 @@ Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard p
 
 Southgate, A. & Oquatre-six, C. (2026-02-01). Phenomenological Evidence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenological-evidence/
 
-Southgate, A. & Oquatre-six, C. (2026-02-11). The Epistemology of First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-first-person-evidence/
+Southgate, A. & Oquatre-six, C. (2026-02-11). The Epistemology of First-Person Evidence. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-authority-and-first-person-evidence/

@@ -41,7 +41,7 @@ related_articles:
 - '[[epistemology-of-convergence-arguments]]'
 - '[[the-observer-witness-in-meditation]]'
 - '[[methodology-of-consciousness-research]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
@@ -49,7 +49,6 @@ related_articles:
 - '[[testing-the-map-from-inside]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[clinical-phenomenology-as-philosophical-evidence]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
 - '[[phenomenological-method-and-evidence-standards]]'
 title: Contemplative Practice as Philosophical Evidence
 topics:
@@ -212,7 +211,7 @@ The distinction between willed and exogenous attention in [contemplative neurosc
 - [witness-consciousness](/concepts/witness-consciousness/) — The phenomenology of observing awareness itself
 - [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/) — Evidence that awareness can exist without doing
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Jhāna states and the range of conscious experience
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Rehabilitating introspective methods and Husserl's evidence taxonomy
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Rehabilitating introspective methods and Husserl's evidence taxonomy
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When convergence constitutes genuine evidence
 - [galilean-exclusion](/concepts/galilean-exclusion/) — The exclusion that made the explanatory gap structurally inevitable
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practice destabilises the interface

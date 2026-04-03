@@ -36,8 +36,7 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[epistemological-limits-occams-razor]]'
-- '[[epistemology-of-first-person-evidence]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 title: Phenomenological Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -187,7 +186,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [phenomenology](/concepts/phenomenology/) — The philosophical method for generating phenomenological evidence
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integration of phenomenological evidence with neuroscience
 - [introspection](/concepts/introspection/) — The reliability debate and trained first-person methods
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemological models and the case for sui generis introspective knowledge
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemological models and the case for sui generis introspective knowledge
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct, non-inferential relation grounding first-person evidence
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as a knowledge source about consciousness
 - [heterophenomenology](/concepts/heterophenomenology/) — The third-person alternative approach
@@ -196,7 +195,6 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — The experience of evaluating evidence phenomenologically
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The broader methodological divide in consciousness science
 - [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — Moral experience as a domain where phenomenological evidence is irreplaceable
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of phenomenal authority, three layers of epistemic weight, and Rorty's dilemma
 - [explanatory-gap](/concepts/explanatory-gap/) — Why third-person evidence alone cannot explain consciousness
 
 ## References

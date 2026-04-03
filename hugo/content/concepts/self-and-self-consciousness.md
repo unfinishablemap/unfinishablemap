@@ -43,7 +43,7 @@ related_articles:
 - '[[self-consciousness-philosophy-2026-01-15]]'
 - '[[reductionism-and-consciousness]]'
 - '[[ownership-void]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[indexical-void]]'
 - '[[cognitive-integration-and-the-self]]'

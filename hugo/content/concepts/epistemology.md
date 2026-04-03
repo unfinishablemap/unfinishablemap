@@ -38,7 +38,7 @@ related_articles:
 title: Epistemology
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 ---
 
 Epistemology — the study of knowledge, justification, and rational belief — takes on distinctive significance in The Unfinishable Map's framework because the consciousness debate is, at bottom, an epistemological crisis. The central dispute is not merely about what exists but about what kinds of evidence count, what methods of inquiry are appropriate, and whether the standard epistemic toolkit — third-person observation, parsimony, empirical prediction — is adequate for the domain it is being asked to adjudicate.
@@ -102,7 +102,7 @@ Tenet 5 — Occam's Razor Has Limits — is explicitly epistemological. Tenet 1 
 ## Further Reading
 
 - [parsimony-epistemology](/concepts/parsimony-epistemology/) — When and why simplicity fails as a guide to truth
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Rigorous treatment of introspective warrant
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Rigorous treatment of introspective warrant
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — First-person reports as genuine evidence
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — Knowing what resists being known
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — Why convergence provides distinctive warrant

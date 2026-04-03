@@ -122,7 +122,7 @@ The phenomenology of memory and self connects directly to the Map's foundational
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [narrative-coherence](/concepts/narrative-coherence/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemology of introspective evidence
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemology of introspective evidence
 
 ## References
 

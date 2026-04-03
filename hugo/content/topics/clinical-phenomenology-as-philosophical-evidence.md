@@ -29,7 +29,7 @@ related_articles:
 - '[[clinical-dissociation-as-systematic-evidence]]'
 - '[[neurological-dissociations-as-interface-architecture]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -118,7 +118,7 @@ Most fundamentally, clinical phenomenology vindicates the Map's methodological c
 - [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
 

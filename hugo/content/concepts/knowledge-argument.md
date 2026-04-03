@@ -31,10 +31,9 @@ related_articles:
 - '[[epiphenomenalism]]'
 - '[[knowledge-argument-marys-room-2026-01-14]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
 title: The Knowledge Argument (Mary's Room)
 topics:
 - '[[hard-problem-of-consciousness]]'

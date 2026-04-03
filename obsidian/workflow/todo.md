@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-02T20:38:00+00:00
+ai_modified: 2026-04-03T03:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review phenomenal-authority-and-first-person-evidence.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-01 from phenomenal-authority-and-introspective-evidence.md and epistemology-of-first-person-evidence.md — two major epistemology articles. Stale wikilinks updated (88 across 33 files) but the merged article itself has never been deep-reviewed. Verify the coalesce preserved key arguments from both sources (phenomenal authority taxonomy, introspective evidence standards, first-person methodology), eliminated redundancy, maintains coherent structure, and correctly integrates with epistemology-of-convergence-arguments and contemplative-practice-as-philosophical-evidence. Tenet 1 and 5 alignment critical.
+- **Source**: chain (coalesce 2026-04-01)
+- **Generated**: 2026-04-03
+
+### P2: Deep review valence-and-conscious-selection.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-01 from value-blind-vs-value-sensitive-selection.md and valence-as-selection-currency.md. The merged article covers the role of phenomenal valence in consciousness's selection mechanism — central to the Map's physics programme. Never deep-reviewed post-coalesce. Verify coherence, that the value-blind/value-sensitive distinction is preserved, cross-references to trilemma-of-selection and born-rule-and-the-consciousness-interface, and tenet alignment (Tenets 2 and 3).
+- **Source**: chain (coalesce 2026-04-01)
+- **Generated**: 2026-04-03
+
+### P2: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 10 articles but has no dedicated page. Directly supports Tenet 5 (Occam's Razor Has Limits). Should systematise why parsimony fails for consciousness — covering the incompleteness-of-knowledge argument, the complexity-of-reality objection, and the distinction between predictive and ontological parsimony. Builds on parsimony-case-for-interactionist-dualism, duhem-quine-underdetermination-consciousness, epistemology-of-convergence-arguments. Target section: concepts/ (226/230, 4 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-03
+
+### P2: Deep review consciousness-and-collective-phenomena.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-02 from phenomenology-of-collective-intentionality-and-we-consciousness.md and consciousness-and-collective-phenomena.md. Never deep-reviewed post-coalesce. Verify the merge preserved key arguments about collective intentionality (Searle, Tuomela), we-consciousness, and group phenomenology. Check cross-references to consciousness-and-intersubjectivity and consciousness-and-social-understanding. Tenet 1 alignment (individual consciousness is ontologically basic even in collective contexts).
+- **Source**: chain (coalesce 2026-04-02)
+- **Generated**: 2026-04-03
+
+### P2: Condense testing-consciousness-collapse.md (4432 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently refined (2026-04-02) with qualified claims and improved arguments, but word count remains above threshold. Preserve core experimental predictions and testability arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-03
+
+### P2: Deep review selective-correction-and-reconstruction-paradox.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-02 from voids/reconstruction-paradox.md into concepts/selective-correction-and-reconstruction-paradox.md (section change from voids to concepts). Never deep-reviewed post-coalesce. Verify the merge preserved the void's core insight about error correction presupposing a correction standard, check cross-references to perceptual-reconstruction-paradox and curated-mind, and confirm tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-03
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review

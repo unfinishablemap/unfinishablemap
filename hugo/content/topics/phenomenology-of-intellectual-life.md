@@ -54,7 +54,7 @@ related_articles:
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
 - '[[phenomenology-of-framework-inhabitation]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[consciousness-and-testimony]]'
 - '[[consciousness-and-the-problem-of-induction]]'
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
@@ -154,7 +154,7 @@ The claim that intellectual life has irreducible phenomenal character would face
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — The experience of sustained intellectual conflict
 - [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/) — What it is like to live inside a conceptual framework
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Why denying phenomenology is self-undermining
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Seemings as defeasible evidence
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Seemings as defeasible evidence
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Trained introspection as method
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism serves epistemology
 - [working-memory](/concepts/working-memory/) — Where intellectual capacity meets consciousness

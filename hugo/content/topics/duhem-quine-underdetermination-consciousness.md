@@ -26,7 +26,7 @@ related_articles:
 - '[[concepts/materialism]]'
 - '[[interactionist-dualism]]'
 - '[[epistemology-of-convergence-arguments]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[parsimony-epistemology]]'
 title: Duhem-Quine Underdetermination in Consciousness Science
@@ -125,7 +125,7 @@ The Map's honest assessment: underdetermination cuts both ways. It undermines ph
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 
 ## References

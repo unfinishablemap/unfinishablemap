@@ -23,7 +23,7 @@ last_deep_review: 2026-03-23 17:59:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[heterophenomenology]]'
 - '[[concepts/materialism]]'
 - '[[consciousness-and-scientific-explanation]]'

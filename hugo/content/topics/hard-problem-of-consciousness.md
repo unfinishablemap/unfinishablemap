@@ -73,7 +73,7 @@ related_articles:
 - '[[bandwidth-of-consciousness]]'
 - '[[perception]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[the-convergence-argument-for-dualism]]'

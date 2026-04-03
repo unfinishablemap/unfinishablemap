@@ -33,11 +33,10 @@ related_articles:
 - '[[intersubjective-void]]'
 - '[[other-minds-void]]'
 - '[[introspection]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[argument-from-reason]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
-- '[[epistemology-of-first-person-evidence]]'
 - '[[consciousness-and-social-understanding]]'
 - '[[phenomenology-of-understanding-and-meaning]]'
 - '[[knowledge-argument]]'
@@ -160,10 +159,9 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — The phenomenology of interpersonal trust and vulnerability
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — The felt character of weighing evidence and revising belief
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Testimonial evidence and introspective epistemology in consciousness science
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Testimonial evidence and introspective epistemology in consciousness science
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Logical compulsion and consciousness
 - [introspection](/concepts/introspection/) — The reliability debate and the case for restoring introspection
-- [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Phenomenal experience as evidence
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Methodological tensions in consciousness science
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism provides better epistemic resources

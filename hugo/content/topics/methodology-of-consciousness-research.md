@@ -39,7 +39,7 @@ last_deep_review: 2026-03-20 07:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[epistemology-of-first-person-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
@@ -50,7 +50,6 @@ related_articles:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
 - '[[the-subject-object-distinction-as-philosophical-discovery]]'
 title: The Methodology of Consciousness Research
 topics:
@@ -154,8 +153,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 
 - [introspection](/concepts/introspection/) — The reliability debate, process/content distinction, and the case for restoring introspection as a serious method
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as philosophical methodology
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Competing models of introspective knowledge, the sui generis account, and how first-person reports gain evidential standing
-- [Husserl's evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/) — Evidence standards and their consequences for first-person methods
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Competing models of introspective knowledge, the sui generis account, and how first-person reports gain evidential standing
 - [contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Empirical integration of first-person and third-person methods
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has structural limits
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation leaves phenomenal character unexplained

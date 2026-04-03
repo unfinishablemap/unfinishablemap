@@ -33,7 +33,7 @@ related_articles:
 - '[[physics-as-disclosure]]'
 - '[[self-reference-paradox]]'
 - '[[tenets]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 title: The Self-Stultification Argument
 topics:
 - '[[hard-problem-of-consciousness]]'

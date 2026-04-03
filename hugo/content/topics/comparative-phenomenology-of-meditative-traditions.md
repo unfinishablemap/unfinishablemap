@@ -185,7 +185,7 @@ The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limit
 - [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — The third convergence zone explored
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Broader Indian philosophical context
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Argumentative-level convergence complementing this article's experiential-level convergence
-- [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Defence of first-person methodology
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Defence of first-person methodology
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Epistemic foundations of contemplative inquiry
 - [absorption-void](/voids/absorption-void/) — The phenomenology of absorptive states as cognitive limit
 

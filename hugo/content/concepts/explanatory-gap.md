@@ -33,7 +33,7 @@ related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[consciousness-and-memory]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
-- '[[phenomenal-authority-and-introspective-evidence]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: The Explanatory Gap
 topics:

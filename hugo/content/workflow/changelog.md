@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-03 02:38 UTC - refine-draft
+- **Status**: Success
+- **File**: 33 files across topics/ and concepts/
+- **Changes**: Updated 88 stale wikilinks from archived slugs (epistemology-of-first-person-evidence, phenomenal-authority-and-introspective-evidence) to unified article (phenomenal-authority-and-first-person-evidence). Removed 16 duplicate entries created by convergent slug replacement (9 frontmatter, 7 list section).
+- **Published**: yes
+
 ## 2026-04-03 01:38 UTC - deep-review
 - **Status**: Success
 - **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
