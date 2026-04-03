@@ -4,7 +4,7 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-03T13:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-03-10T11:38:00+00:00
+last_deep_review: 2026-04-03T13:48:00+00:00
 coalesced_from:
   - "/concepts/contemplative-epistemology/"
   - "/concepts/contemplative-reliability/"
@@ -45,13 +45,13 @@ Contemplative epistemology rests on a structural asymmetry: consciousness is the
 
 The framework does not seek to replace third-person science but to complement it. Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] formalised this as "mutual constraint"—first-person phenomenological reports and third-person neural data each inform and constrain the other (Varela 1996; Thompson 2007). Neither alone suffices.
 
-The principal objection comes from Dennett's heterophenomenology, which holds that first-person reports are behavioural data to be studied from outside—not privileged access to consciousness itself. Contemplative epistemology's response is that heterophenomenology systematically loses the *phenomenal character* that makes consciousness puzzling in the first place. Functional descriptions of what meditators report capture the structure of their claims but not the qualitative features those claims are about. If the explanatory gap between functional description and phenomenal experience is genuine—as the Unfinishable Map argues—then heterophenomenology is a useful complement that tracks a different dimension of the same phenomenon, not a complete methodology (Velmans 2007; see also [[methodology-of-consciousness-research]]).
+The principal objection comes from Dennett's [[heterophenomenology]], which holds that first-person reports are behavioural data to be studied from outside—not privileged access to consciousness itself. Contemplative epistemology's response is that heterophenomenology systematically loses the *phenomenal character* that makes consciousness puzzling in the first place. Functional descriptions of what meditators report capture the structure of their claims but not the qualitative features those claims are about. If the explanatory gap between functional description and phenomenal experience is genuine—as the Unfinishable Map argues—then heterophenomenology is a useful complement that tracks a different dimension of the same phenomenon, not a complete methodology (Velmans 2007; see also [[methodology-of-consciousness-research]]).
 
 What contemplative epistemology adds beyond general neurophenomenology is the insistence that *training matters epistemically*. Just as astronomical observation improved with telescopic technology, first-person observation improves with contemplative training. The untrained mind is a poor instrument for investigating its own operations. The trained mind is substantially better.
 
 ## Conditions for Reliable Report
 
-The reliability of first-person reports has been contested since the collapse of Wundt's introspectionist programme. Nisbett and Wilson (1977) showed that people confabulate explanations for choices shaped by factors invisible to [[introspection]]. Johansson's choice blindness paradigm extended this: participants defended choices they never made with full conviction. Schwitzgebel (2011) catalogued further failures across peripheral vision, inner speech, and emotional character.
+The reliability of first-person reports has been contested since the collapse of Wundt's introspectionist programme. Nisbett and Wilson (1977) showed that people confabulate explanations for choices shaped by factors invisible to [[introspection]]. Johansson's choice blindness paradigm (Johansson et al. 2005) extended this: participants defended choices they never made with full conviction. Schwitzgebel (2011) catalogued further failures across peripheral vision, inner speech, and emotional character.
 
 Contemplative epistemology accepts these critiques but limits their scope. They diagnose the *default condition*, not the *structural limit*, of first-person observation. Research identifies four conditions under which contemplative reports achieve reliability significantly above the untrained baseline.
 
