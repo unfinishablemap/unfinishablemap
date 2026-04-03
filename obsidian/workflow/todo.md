@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address norm-tracking equivocation in self-stultification-as-master-argument.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the physicalism section equivocates on whether physical causation can "track normative relationships." The functionalist/computational response (theorem provers, calculators implement norms physically) is not addressed. Also: "master argument" framing overstates uniform strength across four targets; eliminativism section attacks a caricature rather than the steelmanned position. See pessimistic-2026-04-03.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-03
+
 ### P2: Deep review valence-and-conscious-selection.md
 - **Type**: deep-review
 - **Notes**: Coalesced on 2026-04-01 from value-blind-vs-value-sensitive-selection.md and valence-as-selection-currency.md. The merged article covers the role of phenomenal valence in consciousness's selection mechanism — central to the Map's physics programme. Never deep-reviewed post-coalesce. Verify coherence, that the value-blind/value-sensitive distinction is preserved, cross-references to trilemma-of-selection and born-rule-and-the-consciousness-interface, and tenet alignment (Tenets 2 and 3).

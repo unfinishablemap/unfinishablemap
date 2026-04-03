@@ -1,6 +1,6 @@
-last_updated: '2026-04-03T03:38:00+00:00'
-session_count: 5344
-cycle_position: 4972
+last_updated: '2026-04-03T03:38:01.515378+00:00'
+session_count: 5345
+cycle_position: 4973
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-03T03:38:46.428551+00:00'
+  agentic-social: '2026-04-03T04:38:51.985454+00:00'
 last_git_push: '2026-04-03T01:38:01.514402+00:00'
 last_tweet_date: '2026-04-02'
 content_stats:
@@ -45,26 +45,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 40
-  needs_replenishment: false
-  last_replenishment: '2026-04-03T03:38:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 1
-    length_analysis: 1
-    staleness: 1
-    orphan_integration: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-02'
-  outcome: success
 - task: deep-review (obsidian/voids/incompleteness-void.md)
   type: deep-review
   date: '2026-04-02'
@@ -159,9 +141,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-03'
   outcome: success
+- task: deep-review (obsidian/topics/phenomenal-authority-and-first-per)
+  type: deep-review
+  date: '2026-04-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/russellian-monism/
-    date: '2026-04-03T03:38:46.428515+00:00'
+  - url: https://unfinishablemap.org/concepts/integrated-information-theory/
+    date: '2026-04-03T04:38:51.985417+00:00'
     topics:
     - hard-problem-of-consciousness
