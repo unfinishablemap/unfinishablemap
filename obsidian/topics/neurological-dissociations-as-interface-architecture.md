@@ -4,8 +4,8 @@ description: "Blindsight, anosognosia, alien hand syndrome, and other dissociati
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-23T04:22:00+00:00
-last_deep_review: 2026-03-10T22:23:00+00:00
+ai_modified: 2026-04-03T01:38:00+00:00
+last_deep_review: 2026-04-03T01:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -95,7 +95,7 @@ The alien hand also illuminates [[motor-selection|motor selection]]. The Map's f
 
 ### Split-Brain
 
-When the corpus callosum is severed, [[split-brain-consciousness|split-brain]] patients exhibit divided perception but remarkably preserved behavioural unity. Each hemisphere processes its own visual field independently, yet patients maintain a continuous sense of identity and coordinated behaviour. Nagel's famous conclusion: "too much unity for two, too much separation for one."
+When the corpus callosum is severed, [[split-brain-consciousness|split-brain]] patients exhibit divided perception but remarkably preserved behavioural unity. Each hemisphere processes its own visual field independently, yet patients maintain a continuous sense of identity and coordinated behaviour. Nagel's famous puzzle: the result is too unified for two minds, too divided for one.
 
 What this maps: bilateral channels that maintain [[unity-of-consciousness|phenomenal unity]] across hemispheres. The interface is not just a point-to-point connection between consciousness and brain but includes lateral connections that bind separate processing streams into unified experience. Severing these connections produces partial division—perceptual content splits but higher-order unity persists, especially when even minimal fibres survive. The 2025 PNAS finding that a centimetre of intact corpus callosum preserves full neural synchronisation suggests the unity channel has high redundancy—a small connection suffices for full integration.
 
@@ -147,7 +147,7 @@ flowchart TB
 - **Bilateral channels** maintain unity of consciousness across processing streams
 - **Attentional gating** selects which perceptual and affective content reaches awareness
 
-Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. The [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology framework]] develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
+Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. Further dissociations—vegetative states, covert consciousness in unresponsive patients, locked-in syndrome—extend this mapping beyond the six cases examined here; [[consciousness-disruption-and-the-mind-brain-interface]] explores how these global disruptions test the same interface architecture from a different angle. The [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology framework]] develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
 
 ## What the Pattern Argues
 
@@ -173,7 +173,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The narrow bandwidth of the interface—consciousness operates at roughly 10 bits per second against the brain's billions (Norretranders, 1998)—is consistent with minimal interaction. The interface components are finite, enumerable, and individually disableable. A maximal interaction would pervade all neural processing; the clinical evidence shows consciousness engaging through discrete, severable channels.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The interface architecture assumes a single conscious subject interacting with a single brain through definite channels. In many-worlds interpretations, every dissociation would produce branching: versions of the patient with and without the deficit coexisting across branches. The clinical reality—a specific patient with a specific disconnection producing specific behavioural consequences—is naturally described by single-world interaction, not branching superposition.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The diagnostic power of dissociations depends on each case being a definite fact—this patient lost this channel, revealing this architectural feature. Under many-worlds interpretations, quantum events during brain development and injury produce branches with different neural configurations, and the interface architecture described here would be one branch-relative arrangement among countless alternatives. The Map reads dissociations as revealing the structure of a single mind-brain interface; that reading assumes the patient's condition is a determinate fact about one world, not an indexical perspective within a branching totality.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The interface architecture is not simple. Six independently faileable channels, attentional gating, bilateral unity maintenance—this is complex machinery. A simpler model (identity theory) fails to account for the dissociation pattern. The actual structure of mind-brain interaction is messier than parsimony would prefer, and the clinical evidence shows why parsimony misleads here.
 
