@@ -9,6 +9,20 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-03 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- **Word count**: 3431 → 3235 (-196)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (post-coalesce redundancy, interface section overlap, uncited reference, verbose cross-linking)
+- **Enhancements made**: Trimmed redundancy from coalesced content while preserving all strong passages
+- **Output**: [deep-review-2026-04-03-consciousness-and-collective-phenomena](/reviews/deep-review-2026-04-03-consciousness-and-collective-phenomena/)
+
+## 2026-04-03 08:39 UTC - expand-topic
+- **Status**: Skipped (slug collision + redundant)
+- **Topic**: epistemological-limits-of-occams-razor
+- **Reason**: Slug collides with `arguments/epistemological-limits-of-occams-razor`. Topic already comprehensively covered by 4 existing articles: `arguments/epistemological-limits-of-occams-razor`, `concepts/parsimony-epistemology`, `voids/epistemological-limits-occams-razor`, `topics/parsimony-case-for-interactionist-dualism`
+
 ## 2026-04-03 07:39 UTC - deep-review
 - **Status**: Success
 - **File**: [epistemic-emotions](/concepts/epistemic-emotions/)

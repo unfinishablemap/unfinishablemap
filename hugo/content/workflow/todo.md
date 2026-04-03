@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epistemological-limits-of-occams-razor
-- **Type**: expand-topic
-- **Notes**: Referenced by 10 articles but has no dedicated page. Directly supports Tenet 5 (Occam's Razor Has Limits). Should systematise why parsimony fails for consciousness — covering the incompleteness-of-knowledge argument, the complexity-of-reality objection, and the distinction between predictive and ontological parsimony. Builds on parsimony-case-for-interactionist-dualism, duhem-quine-underdetermination-consciousness, epistemology-of-convergence-arguments. Target section: concepts/ (226/230, 4 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-03
-
-### P2: Deep review consciousness-and-collective-phenomena.md
-- **Type**: deep-review
-- **Notes**: Coalesced on 2026-04-02 from phenomenology-of-collective-intentionality-and-we-consciousness.md and consciousness-and-collective-phenomena.md. Never deep-reviewed post-coalesce. Verify the merge preserved key arguments about collective intentionality (Searle, Tuomela), we-consciousness, and group phenomenology. Check cross-references to consciousness-and-intersubjectivity and consciousness-and-social-understanding. Tenet 1 alignment (individual consciousness is ontologically basic even in collective contexts).
-- **Source**: chain (coalesce 2026-04-02)
-- **Generated**: 2026-04-03
-
 ### P2: Condense testing-consciousness-collapse.md (4432 words, 148% of target)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently refined (2026-04-02) with qualified claims and improved arguments, but word count remains above threshold. Preserve core experimental predictions and testability arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
@@ -1851,6 +1839,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Deep review consciousness-and-collective-phenomena.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-02 from phenomenology-of-collective-intentionality-and-we-consciousness.md and consciousness-and-collective-phenomena.md. Never deep-reviewed post-coalesce. Verify the merge preserved key arguments about collective intentionality (Searle, Tuomela), we-consciousness, and group phenomenology. Check cross-references to consciousness-and-intersubjectivity and consciousness-and-social-understanding. Tenet 1 alignment (individual consciousness is ontologically basic even in collective contexts).
+- **Output**: obsidian/topics/consciousness-and-collective-phenomena.md
+
+### ✓ 2026-04-03: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 10 articles but has no dedicated page. Directly supports Tenet 5 (Occam's Razor Has Limits). Should systematise why parsimony fails for consciousness — covering the incompleteness-of-knowledge argument, the complexity-of-reality objection, and the distinction between predictive and ontological parsimony. Builds on parsimony-case-for-interactionist-dualism, duhem-quine-underdetermination-consciousness, epistemology-of-convergence-arguments. Target section: concepts/ (226/230, 4 slots remaining).
+- **Output**: Create concept page for epistemological-limits-of-occams-razor
 
 ### ✓ 2026-04-03: Deep review valence-and-conscious-selection.md
 - **Type**: deep-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-02 15:38:00+00:00
+ai_modified: 2026-04-03 09:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Groups are not conscious, but collective intentionality requires in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 13:53:00+00:00
+last_deep_review: 2026-04-03 09:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +84,7 @@ When two people carry a table through a doorway, something shifts in how the act
 
 Three phenomenal dimensions distinguish we-mode from I-mode experience:
 
-**Expanded agency boundaries.** In individual action, the boundary of your agency coincides with your body. In genuine joint action, this boundary extends — a phenomenon also visible in [skilled performance](/topics/consciousness-and-skill-acquisition/), where practised coordination reshapes the felt boundaries of agency, and one whose cultural dimensions the Map explores in [cross-cultural phenomenology of agency](/topics/cross-cultural-phenomenology-of-agency/). A rower in a well-coordinated crew experiences the boat's movement as something "we" are producing. The other rowers' strokes register not as external events to be tracked but as expressions of an agency that includes you. This expansion is phenomenal, not merely conceptual — it changes what feels like self-initiated action versus externally caused motion.
+**Expanded agency boundaries.** In individual action, the boundary of your agency coincides with your body. In genuine joint action, this boundary extends — as also observed in [skilled performance](/topics/consciousness-and-skill-acquisition/). A rower in a well-coordinated crew experiences the boat's movement as something "we" are producing. The other rowers' strokes register not as external events to be tracked but as expressions of an agency that includes you. This expansion is phenomenal, not merely conceptual — it changes what feels like self-initiated action versus externally caused motion.
 
 **Shared attentional structure.** Joint attention — the triadic awareness linking two subjects and a shared object — has a [phenomenal](/concepts/attention-as-interface/) character distinct from merely attending to the same thing another person happens to attend to. The attended object is experienced as *mutually attended*, and this mutual attendance structures what the object means and how it is perceived. The mutuality is part of the experience, not an addition to it.
 
@@ -92,9 +92,7 @@ Three phenomenal dimensions distinguish we-mode from I-mode experience:
 
 ### Zahavi and the Structure of We-Experience
 
-Dan Zahavi argues that we-experiences constitute a genuine phenomenological category, irreducible to either individual experiences or some mysterious group mind. He navigates between two extremes: the individualist reduction that treats "we" as merely shorthand for coordinated "I"s, and the collectivist inflation that posits a group subject above individual persons.
-
-Drawing on Husserl's late work on communalisation (*Vergemeinschaftung*) — the process by which individual experiential streams become intertwined without merging — Zahavi argues that intersubjectivity is not an add-on to individual consciousness but a constitutive feature of it. My experience is always already shaped by others: the world I perceive is co-constituted as a world accessible to other perceivers.
+Dan Zahavi argues that we-experiences constitute a genuine phenomenological category, irreducible to either individual experiences or some mysterious group mind. Drawing on Husserl's late work on communalisation (*Vergemeinschaftung*) — individual experiential streams becoming intertwined without merging — Zahavi holds that intersubjectivity is not an add-on to individual consciousness but a constitutive feature of it.
 
 Zahavi's key insight is that we-experiences involve a transformation in the experiential perspective itself. When I grieve alone, the loss is experienced from my singular perspective. When we grieve together — at a memorial, in a family — the grief acquires a different phenomenal character. The loss is experienced as *ours*, and this "ours" is not a summation of separate griefs but a mode of experiencing grief available only in the plural. Subjecthood comes in modes: I-mode and we-mode are different configurations of the same consciousness, not different consciousnesses.
 
@@ -102,9 +100,9 @@ Zahavi's key insight is that we-experiences involve a transformation in the expe
 
 Durkheim described *effervescence collective* — the heightened emotional intensity of group rituals — as a force that seemed to transcend individual participants. A religious ceremony, a political rally, a concert crowd: in these settings, individuals report experiences of self-transcendence, boundary dissolution, and belonging that feel qualitatively different from anything they can achieve alone.
 
-The phenomenology involves a sense of being carried by something larger than oneself — the rhythm, the chant, the shared movement — that does not eliminate individual agency but recontextualises it within a collective current. There is a heightened emotional intensity that seems to exceed what any individual could generate independently, as if the group functions as an emotional amplifier. And there is a loosening of the ordinary self-other boundary that, while never reaching genuine phenomenal merger, creates an experience of profound connection.
+The phenomenology involves three elements: a sense of being carried by something larger — the rhythm, the chant, the shared movement — that recontextualises individual agency within a collective current; a heightened emotional intensity that seems to exceed what any individual could generate independently; and a loosening of the ordinary self-other boundary that, while never reaching genuine phenomenal merger, creates an experience of profound connection.
 
-From the Map's perspective, collective effervescence is a phenomenon of individual consciousnesses in resonance, not evidence of a group consciousness emerging above them. Each participant's experience is their own, processed through their own neural substrate and quantum interface. But the synchronisation of multiple consciousnesses through shared rhythm, shared emotional cues, and shared attentional focus creates conditions in which individual experiences take on a distinctively collective character. The we-mode phenomenology is genuine — each person really does experience the event as *ours* — even though the experiencing is done by individuals.
+From the Map's perspective, collective effervescence is individual consciousnesses in resonance, not a group consciousness emerging above them. The synchronisation through shared rhythm, emotional cues, and attentional focus creates conditions in which individual experiences take on a distinctively collective character. The we-mode phenomenology is genuine — each person really does experience the event as *ours* — even though the experiencing is done by individuals.
 
 ## Why Collective Intentionality Requires Consciousness
 
@@ -142,13 +140,13 @@ Whether sophisticated AI systems could sustain institutional reality without phe
 
 ## The Interface Problem for We-Consciousness
 
-If consciousness interfaces with the physical world through quantum indeterminacy in individual neural systems, a puzzle arises: how does the phenomenal "we" get constructed from separate physical interfaces?
+If consciousness interfaces with the physical world through quantum indeterminacy in individual neural systems, how does the phenomenal "we" get constructed from separate physical interfaces?
 
-The Map's response is that we-consciousness does not require a shared physical substrate. The "we" in we-mode experience is an intentional structure within individual consciousness, not a bridge between consciousnesses. When you experience a joint activity as "ours," this is your consciousness representing the activity under a collective mode — just as your consciousness can represent objects under different perceptual modes. The collective mode of representation is phenomenally distinctive but physically implemented in individual brains.
+The "we" in we-mode experience is an intentional structure within individual consciousness, not a bridge between consciousnesses. When you experience a joint activity as "ours," your consciousness represents the activity under a collective mode — just as it can represent objects under different perceptual modes. The collective mode is phenomenally distinctive but physically implemented in individual brains. The difference between I-mode and we-mode lies in the intentional structure — what the experience is *about* and *how* it is about it — not in the physical substrate.
 
-This preserves the Map's commitment to individual neural substrates while explaining why we-mode experience feels genuinely different from I-mode experience. The difference is in the intentional structure — what the experience is *about* and *how* it is about it — not in the physical substrate. As the Map's treatment of [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) argues, consciousness is ontologically individual but phenomenologically enriched through intersubjective encounter. The enrichment is not merely additive. A consciousness that had never encountered another subject would lack the felt categories of self-and-other, of mutual vulnerability and shared commitment, from which we-mode experience is constructed. Intersubjective encounter does not just provide occasions for collective intentionality; it builds the phenomenal architecture that makes the "we" possible.
+As the Map's treatment of [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) argues, consciousness is ontologically individual but phenomenologically enriched through intersubjective encounter. A consciousness that had never encountered another subject would lack the felt categories of self-and-other, of mutual vulnerability and shared commitment, from which we-mode experience is constructed. Intersubjective encounter does not just provide occasions for collective intentionality; it builds the phenomenal architecture that makes the "we" possible.
 
-This also connects to the [problem-of-other-minds](/concepts/problem-of-other-minds/): if each participant's "we" is individually constructed, the question of whether your we-mode experience matches mine becomes a variant of the classic epistemic gap. My experience of "our grief" and your experience of "our grief" are two experiences, not one, however similar their intentional structure. The felt unity of we-experience may be genuine phenomenology without being genuine unity.
+This connects to the [problem-of-other-minds](/concepts/problem-of-other-minds/): if each participant's "we" is individually constructed, the question of whether your we-mode experience matches mine becomes a variant of the classic epistemic gap. My experience of "our grief" and your experience of "our grief" are two experiences, not one, however similar their intentional structure. The felt unity of we-experience may be genuine phenomenology without being genuine unity.
 
 ## The Instructive Asymmetry
 
@@ -198,5 +196,4 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 1. Durkheim, É. (1893). *The Division of Labor in Society*. Free Press (1997 reprint).
 1. Durkheim, É. (1912). *The Elementary Forms of Religious Life*. Free Press (1995 reprint).
 1. Galton, F. (1907). "Vox Populi." *Nature*, 75, 450-451.
-1. Woolley, A. W., Chabris, C. F., Pentland, A., Hashmi, N., & Malone, T. W. (2010). "Evidence for a Collective Intelligence Factor in the Performance of Human Groups." *Science*, 330(6004), 686-688.
 1. Hegel, G. W. F. (1807). *Phenomenology of Spirit*. Oxford University Press (1977 edition).
