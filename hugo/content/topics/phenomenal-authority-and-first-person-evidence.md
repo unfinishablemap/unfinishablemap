@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-01 20:41:00+00:00
+ai_modified: 2026-04-03 03:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,14 +34,12 @@ concepts:
 - '[[mysterianism]]'
 created: 2026-02-09
 date: &id001 2026-04-01
-description: First-person reports carry layered epistemic authority grounded in acquaintance
-  and phenomenal conservatism. Husserl's evidence taxonomy, competing models of introspection,
-  and five calibration strategies establish the evidential base for dualism against
-  materialist dismissal.
+description: First-person reports carry layered epistemic authority — apodictic at
+  the core, fallible at the periphery. This structure grounds the Map's case for dualism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 11:38:00+00:00
+last_deep_review: 2026-04-03 03:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,13 +75,13 @@ topics:
 
 When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority* — the special epistemic standing of first-person reports about conscious experience — is a load-bearing pillar of the case for dualism. Michael Huemer's phenomenal conservatism provides the epistemological grounding: if it seems to you that something is the case, you have at least prima facie justification for believing it, unless you have specific reasons to doubt. Husserl's evidence taxonomy provides the structural framework: different layers of phenomenal evidence carry different degrees of warrant, and the Map's core arguments draw from where authority is strongest.
 
-Consciousness science depends on first-person evidence — introspective reports of what experience is like — yet this evidence has no parallel in any other domain. It cannot be verified by external instruments, calibrated against independent standards, or replicated across observers in the way physical measurements can. Understanding what introspection provides, how reliable it is, and why phenomenal reports are indispensable to science is foundational to the Map's entire project.
+Consciousness science depends on first-person evidence — introspective reports of what experience is like — yet this evidence has no parallel in any other domain. It cannot be verified by external instruments, calibrated against independent standards, or replicated across observers in the way physical measurements can.
 
 ## Why Phenomenal Reports Are Indispensable
 
 Every empirical science rests on observations, but consciousness breaks the standard pattern: a subject reporting "I see red" makes a claim about a [phenomenal state](/concepts/phenomenal-consciousness/) that no external instrument can directly verify. The report is public; the experience is not.
 
-A purely third-person neuroscience of consciousness cannot escape this dependence. Every contrastive methodology — comparing brain states when subjects report awareness versus when they do not — relies on taking reports seriously as indicators of phenomenal states. Without subjects reporting what they experience, there is no way to distinguish neural correlates of *consciousness* from correlates of unconscious information processing. The neuroscience that eliminativists cite to debunk phenomenal reports could not have been conducted without trusting those reports as data.
+A purely third-person neuroscience cannot escape this dependence. Every contrastive methodology — comparing brain states when subjects report awareness versus when they do not — relies on taking reports seriously as indicators of phenomenal states. The neuroscience that eliminativists cite to debunk phenomenal reports could not have been conducted without trusting those reports as data.
 
 ## The Phenomenological Method
 

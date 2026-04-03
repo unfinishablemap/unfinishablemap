@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-03 05:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Changes**: Addressed functionalist/computational counterexample in physicalism section (norm-implementation vs norm-grasping); tempered "master argument" framing to acknowledge variable strength across four targets; steelmanned eliminativism section (engaged Churchland's mature position rather than crude "beliefs don't exist"); updated summary table
+- **Published**: yes
+
+## 2026-04-03 04:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: topics/self-stultification-as-master-argument.md
+- **Output**: [pessimistic-2026-04-03](/reviews/pessimistic-2026-04-03/)
+
+## 2026-04-03 03:48 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Word count**: 3529 → 3482 (-47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description length, minor redundancy)
+- **Enhancements made**: 0 (article stable after 3 review cycles)
+- **Output**: [deep-review-2026-04-03-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-04-03-phenomenal-authority-and-first-person-evidence/)
+
 ## 2026-04-03 02:38 UTC - refine-draft
 - **Status**: Success
 - **File**: 33 files across topics/ and concepts/
