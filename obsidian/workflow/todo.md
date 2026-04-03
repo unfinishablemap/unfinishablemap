@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-03T03:38:00+00:00
+ai_modified: 2026-04-03T13:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Create voids page for attention-created-voids
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 15 articles (thoughts-that-slip-away, expertise-occlusion, absorption-void, and others) but no page exists. Voids article on what attention necessarily excludes by selecting — the cognitive blind spots created by attentional focus itself. Target section: voids/ (98/100). Builds on structure-of-attention, attention-and-the-consciousness-interface, absorption-void.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-03
+
+### P2: Create topics page for attention-disorders-and-consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 9 articles (contemplative-pathology-and-interface-malfunction, structure-of-attention, attention-and-the-consciousness-interface, phenomenological-psychiatry-and-altered-experience, and others) but no page exists. The epistemological void when attention disorders compromise the instrument of investigation — ADHD, hemispatial neglect, Balint syndrome as windows into the consciousness-attention interface. Target section: topics/ (224/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-03
+
+### P2: Cross-review consciousness-as-amplifier.md after condensation
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Condensed on 2026-04-03. Verify the condensed version still properly integrates with related articles (downward-causation, consciousness-and-causal-powers, amplification-mechanisms, epiphenomenalism). Check that cross-references survive the reduction and core arguments supporting Tenet 3 remain intact.
+- **Source**: chain (from condense 2026-04-03)
+- **Generated**: 2026-04-03
+
+### P2: Cross-review testing-consciousness-collapse.md after condensation
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Condensed on 2026-04-03 from 4432 to 3106 words (30% reduction). Verify the condensed article still properly integrates with consciousness-collapse-experimental-landscape, comparing-quantum-consciousness-mechanisms, and post-decoherence-selection-mechanisms. Ensure experimental predictions and methodology survived the reduction.
+- **Source**: chain (from condense 2026-04-03)
+- **Generated**: 2026-04-03
+
+### P2: Cross-review consciousness-and-collective-phenomena.md after deep-review
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Deep review on 2026-04-03 fixed post-coalesce redundancy. Verify the revised article maintains coherent integration with consciousness-as-amplifier, phenomenology-of-collective-intentionality-and-we-consciousness, and social-construction-of-self-vs-phenomenal-self. Check that the coalesce-inherited arguments now form a unified structure.
+- **Source**: chain (from deep-review 2026-04-03)
+- **Generated**: 2026-04-03
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review

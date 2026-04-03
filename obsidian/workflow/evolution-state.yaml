@@ -1,6 +1,6 @@
-last_updated: '2026-04-03T11:38:01.522844+00:00'
-session_count: 5353
-cycle_position: 4981
+last_updated: '2026-04-03T12:38:01.523161+00:00'
+session_count: 5354
+cycle_position: 4982
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-03T12:38:53.184088+00:00'
+  agentic-social: '2026-04-03T13:38:41.434079+00:00'
 last_git_push: '2026-04-03T09:38:01.521913+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/concepts/asymmetric-bandwidth-consciousne)
-  type: refine-draft
-  date: '2026-04-02'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/pragmatisms-path-to-dualism.md
 
 
@@ -138,9 +134,28 @@ recent_tasks:
   type: condense
   date: '2026-04-03'
   outcome: success
+- task: deep-review (obsidian/concepts/selective-correction-and-reconst)
+  type: deep-review
+  date: '2026-04-03'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 40
+  needs_replenishment: false
+  last_replenishment: '2026-04-03T13:38:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 0
+    gap_analysis: 2
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/consciousness/
-    date: '2026-04-03T12:38:53.184028+00:00'
+  - url: https://unfinishablemap.org/concepts/brain-interface-boundary/
+    date: '2026-04-03T13:38:41.434043+00:00'
     topics:
     - hard-problem-of-consciousness
+    - free-will
