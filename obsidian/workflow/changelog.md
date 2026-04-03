@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 00:38 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/consciousness-as-amplifier]]
+- **Before**: 4174
+- **After**: 2619
+- **Reduction**: 37%
+- **Technique**: Cut detailed physical mechanisms catalogue (linked to research notes instead), removed Process Philosophy section, condensed Three Senses definitions, tightened Illusionist Challenge and tenet sections, removed AI refinement log
+
 ## 2026-04-02 23:39 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/testing-consciousness-collapse]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Recently refined (2026-04-02) but still 167% of target. Preserve core amplifier framework and key arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-02
-
 ### P2: Fix stale wikilinks from archived phenomenal-authority and epistemology-of-first-person-evidence slugs
 - **Type**: refine-draft
 - **Status**: pending
@@ -1840,6 +1833,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Recently refined (2026-04-02) but still 167% of target. Preserve core amplifier framework and key arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
 
 ### ✓ 2026-04-02: Integrate testable predictions research into testing-consciousness-collapse.md
 - **Type**: refine-draft
