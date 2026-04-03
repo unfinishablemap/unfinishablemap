@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-01T16:38:00+00:00
+ai_modified: 2026-04-03T06:38:00+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-04-01T16:38:00+00:00
+last_deep_review: 2026-04-03T06:38:00+00:00
 coalesced_from:
   - "/topics/value-blind-vs-value-sensitive-selection/"
   - "/topics/valence-as-selection-currency/"
@@ -227,4 +227,4 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 7. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 9. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
-10. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
