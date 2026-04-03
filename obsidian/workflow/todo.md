@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced fragmented-consciousness article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-03 merged fragmented-consciousness into split-brain-consciousness (now titled "When Consciousness Fragments"). The following files reference the archived article and may need review: clinical-dissociation-as-systematic-evidence.md, ethics-of-possible-ai-consciousness.md, non-temporal-consciousness.md
-- **Source**: coalesce
-- **Generated**: 2026-04-03
-
 ### P2: Create topics page for attention-disorders-and-consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1896,6 +1889,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Update references to coalesced fragmented-consciousness article
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-03 merged fragmented-consciousness into split-brain-consciousness (now titled "When Consciousness Fragments"). The following files reference the archived article and may need review: clinical-dissociation-as-systematic-evidence.md, ethics-of-possible-ai-consciousness.md, non-temporal-consciousness.md
+- **Output**: None -- Context: Update references to coalesced fragmented-consciousness article
 
 ### ✓ 2026-04-03: Create voids page for attention-created-voids
 - **Type**: expand-topic
