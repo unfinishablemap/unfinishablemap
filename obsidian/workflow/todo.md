@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-authority-and-first-person-evidence.md
-- **Type**: deep-review
-- **Notes**: Coalesced on 2026-04-01 from phenomenal-authority-and-introspective-evidence.md and epistemology-of-first-person-evidence.md — two major epistemology articles. Stale wikilinks updated (88 across 33 files) but the merged article itself has never been deep-reviewed. Verify the coalesce preserved key arguments from both sources (phenomenal authority taxonomy, introspective evidence standards, first-person methodology), eliminated redundancy, maintains coherent structure, and correctly integrates with epistemology-of-convergence-arguments and contemplative-practice-as-philosophical-evidence. Tenet 1 and 5 alignment critical.
-- **Source**: chain (coalesce 2026-04-01)
-- **Generated**: 2026-04-03
-
 ### P2: Deep review valence-and-conscious-selection.md
 - **Type**: deep-review
 - **Notes**: Coalesced on 2026-04-01 from value-blind-vs-value-sensitive-selection.md and valence-as-selection-currency.md. The merged article covers the role of phenomenal valence in consciousness's selection mechanism — central to the Map's physics programme. Never deep-reviewed post-coalesce. Verify coherence, that the value-blind/value-sensitive distinction is preserved, cross-references to trilemma-of-selection and born-rule-and-the-consciousness-interface, and tenet alignment (Tenets 2 and 3).
@@ -1862,6 +1856,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Deep review phenomenal-authority-and-first-person-evidence.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-01 from phenomenal-authority-and-introspective-evidence.md and epistemology-of-first-person-evidence.md — two major epistemology articles. Stale wikilinks updated (88 across 33 files) but the merged article itself has never been deep-reviewed. Verify the coalesce preserved key arguments from both sources (phenomenal authority taxonomy, introspective evidence standards, first-person methodology), eliminated redundancy, maintains coherent structure, and correctly integrates with epistemology-of-convergence-arguments and contemplative-practice-as-philosophical-evidence. Tenet 1 and 5 alignment critical.
+- **Output**: obsidian/topics/phenomenal-authority-and-first-person-evidence.md
 
 ### ✓ 2026-04-03: Fix stale wikilinks from archived phenomenal-authority and epistemology-of-first-person-evidence slugs
 - **Type**: refine-draft
