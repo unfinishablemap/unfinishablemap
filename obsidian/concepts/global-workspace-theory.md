@@ -4,9 +4,9 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-24T09:05:00+00:00
+ai_modified: 2026-04-03T18:38:00+00:00
 draft: false
-last_deep_review: 2026-03-10T12:38:00+00:00
+last_deep_review: 2026-04-03T18:38:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
@@ -107,7 +107,7 @@ A telling asymmetry complicates GWT's equation of workspace presence with consci
 
 ### The Amplification Hypothesis
 
-The global workspace may explain *how* [[consciousness-as-amplifier|consciousness amplifies cognition]]. Chimpanzee working memory holds approximately 2±1 items versus human 7±2. The [[consciousness-and-intelligence|consciousness threshold]] article argues this expansion marks a phase transition—the jump from two to seven items enables qualitatively new operations (logical reasoning, counterfactual thinking) that could not occur at smaller scales.
+The global workspace may explain *how* [[consciousness-as-amplifier|consciousness amplifies cognition]]. Chimpanzee working memory holds approximately 2±1 items versus human 4±1 (Cowan 2001, revising Miller's classic 7±2). The [[consciousness-and-intelligence|consciousness threshold]] article argues even this conservative two-fold expansion marks a phase transition—four items enable qualitatively new operations (logical reasoning, counterfactual thinking) that two items cannot support.
 
 This reinterprets GWT's central claim: global broadcast isn't merely making information reportable—it's making information *manipulable*. The workspace enables cross-domain integration, flexible recombination, [[metacognition|metacognitive]] monitoring, and counterfactual simulation. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited where global broadcast is required.
 
@@ -182,6 +182,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 ## References
 
 1. Baars, B. J. (1988). *A Cognitive Theory of Consciousness*. Cambridge University Press.
+1. Cowan, N. (2001). The magical number 4 in short-term memory: A reconsideration of mental storage capacity. *Behavioral and Brain Sciences*, 24(1), 87-114.
 1. Baddeley, A. (2000). The episodic buffer: a new component of working memory? *Trends in Cognitive Sciences*, 4(11), 417-423.
 1. Block, N. (2007). Consciousness, accessibility, and the mesh between psychology and neuroscience. *Behavioral and Brain Sciences*, 30(5-6), 481-499.
 1. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
@@ -191,15 +192,3 @@ A deeper methodological impasse: experiments detect consciousness only through r
 1. Nartker, M., et al. (2025). Visual sensitivity in inattentional blindness. *eLife*, 14:e97156.
 1. Randeniya, R. (2025). Neural correlates of unconscious processing in fMRI: Does brain activity contain more information than can be consciously reported? *Neuroscience of Consciousness*, 2025(1), niaf042.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-
-<!-- AI REFINEMENT LOG - 2026-03-22
-Changes made:
-- Rebalanced Block/Dennett presentation: gave Dennett's deflationary response its own paragraph instead of a subordinate clause, then presented Nartker evidence as contested between both views
-- Fixed COGITATE overinterpretation: changed "supports" Tenet 5 to "consistent with", added caveat that incomplete physicalist theories don't vindicate dualism
-- Acknowledged filter theory tension with Bidirectional Interaction tenet: expanded passage to note passive-reception risk and explicitly require bidirectional interface reading, citing choking phenomenon as evidence
-
-Based on pessimistic review findings.
-Key improvements: accuracy of tenet claims, fairness to opposing views, internal consistency with Map commitments.
-
-This log should be removed after human review.
--->

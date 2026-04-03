@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 18:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Word count**: 2189 → 2214 (+25)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [[reviews/deep-review-2026-04-03-global-workspace-theory]]
+
 ## 2026-04-03 17:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/moral-responsibility]]
