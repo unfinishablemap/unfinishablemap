@@ -26,10 +26,9 @@ related_articles:
   - "[[epiphenomenalism]]"
   - "[[knowledge-argument-marys-room-2026-01-14]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -130,7 +129,7 @@ Mary's recognition depends on [[introspection]]—her capacity to notice the dif
 
 The relevant findings on introspective unreliability concern causal *processes*, not phenomenal *content*. Nisbett and Wilson's studies show we lack insight into *why* we choose—not that we misidentify *what* we experience. Mary only needs to recognize that her experience has changed qualitatively. Additionally, Fox et al. (2012) found that contemplative training improves introspective accuracy for subtle phenomenal changes, suggesting introspection is a refinable skill rather than a broken faculty.
 
-The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] develops this further: introspection provides direct phenomenal presentation combined with fallible judgement, making it well-suited to ground Mary's recognition of novelty.
+The [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] develops this further: introspection provides direct phenomenal presentation combined with fallible judgement, making it well-suited to ground Mary's recognition of novelty.
 
 ## The Reliability of Consciousness Intuitions
 

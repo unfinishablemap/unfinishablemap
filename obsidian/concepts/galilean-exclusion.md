@@ -20,7 +20,7 @@ concepts:
   - "[[process-philosophy]]"
 related_articles:
   - "[[methodology-of-consciousness-research]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[heterophenomenology]]"
   - "[[concepts/materialism]]"
   - "[[consciousness-and-scientific-explanation]]"

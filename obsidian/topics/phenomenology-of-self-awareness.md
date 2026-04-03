@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-recursive-thought]]"
   - "[[consciousness-and-the-ownership-problem]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[necessary-opacity]]"
 ai_contribution: 100
 author:
@@ -114,7 +114,7 @@ At advanced levels, practitioners report that self-awareness persists even when 
 - [[self-and-self-consciousness]] — The conceptual framework: minimal self, circularity problem, and the pre-reflective/reflective distinction
 - [[self-opacity]] — What consciousness cannot know about itself — the limits self-awareness encounters
 - [[phenomenology-of-recursive-thought]] — What happens when thought takes itself as object at deeper levels of recursion
-- [[epistemology-of-first-person-evidence]] — Whether first-person reports of self-awareness can serve as evidence
+- [[phenomenal-authority-and-first-person-evidence]] — Whether first-person reports of self-awareness can serve as evidence
 - [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and self-knowledge can destabilise the system
 - [[witness-consciousness]] — The contemplative mode of self-awareness at its most refined
 

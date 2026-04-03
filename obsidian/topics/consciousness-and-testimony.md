@@ -27,11 +27,10 @@ related_articles:
   - "[[intersubjective-void]]"
   - "[[other-minds-void]]"
   - "[[introspection]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[argument-from-reason]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
-  - "[[epistemology-of-first-person-evidence]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[knowledge-argument]]"
@@ -89,7 +88,7 @@ When someone says "I see red" or "I am in pain," their report carries a distinct
 
 Testimony about the external world is defeasible in a familiar way. If someone says "there is a cat on the mat," others can check. Testimony about one's own conscious experience resists this pattern. If someone reports a sharp pain in their left knee, no brain scan or physiological measurement can straightforwardly override the claim. A neurologist might discover that the knee shows no damage and that nociceptive pathways are inactive. This shows unusual aetiology, not the absence of pain.
 
-First-person reports are not beyond challenge. In anosognosia, split-brain confabulation, and certain psychiatric conditions, clinicians do weigh clinical assessment against self-report. Eric Schwitzgebel (2008) documents extensive evidence that naive introspection is unreliable in many domains. But the *kind* of fallibility is different from external testimony. When someone misreports an external state, the error lies between report and world. When someone mischaracterises their experience, the error lies between report and a phenomenal reality to which only they have access. No third party is better positioned to correct it. The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] clarifies this asymmetry: introspection provides direct phenomenal presentation (infallible at the level of bare awareness) combined with fallible judgement (where categorisation, comparison, and linguistic encoding introduce error).
+First-person reports are not beyond challenge. In anosognosia, split-brain confabulation, and certain psychiatric conditions, clinicians do weigh clinical assessment against self-report. Eric Schwitzgebel (2008) documents extensive evidence that naive introspection is unreliable in many domains. But the *kind* of fallibility is different from external testimony. When someone misreports an external state, the error lies between report and world. When someone mischaracterises their experience, the error lies between report and a phenomenal reality to which only they have access. No third party is better positioned to correct it. The [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] clarifies this asymmetry: introspection provides direct phenomenal presentation (infallible at the level of bare awareness) combined with fallible judgement (where categorisation, comparison, and linguistic encoding introduce error).
 
 The materialist programme includes an implicit promise: that first-person testimony about consciousness will eventually be superseded by neuroscience, as testimony about disease has been superseded by diagnostics. This analogy breaks down at a critical point. When a thermometer shows 37°C and the patient says "I feel feverish," the thermometer does not contradict the patient's experience — it measures something different. Brain imaging can similarly displace folk theories about neural correlates. It cannot displace the experiences themselves, because it measures something categorically different.
 
@@ -107,7 +106,7 @@ This process is imperfect and everyone knows it. The felt inadequacy of testimon
 
 Testimonial chains amplify this loss. When knowledge passes through multiple testifiers — Alice tells Bob, who tells Carol — each link involves a conscious being reconstructing meaning from words and re-encoding it for the next recipient. The degradation is not merely information-theoretic noise. It reflects the repeated crossing and re-crossing of intersubjective voids, each transit losing something of the original phenomenal grounding. A meditator describes a specific attentional state from direct experience. A commentator summarises the description. A philosopher cites the summary. A textbook paraphrases the philosopher. Each step preserves propositional structure while losing connection to the original phenomenal ground. The result is testimony that is propositionally correct but phenomenally hollow.
 
-This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience" — each carrying less phenomenal weight with each retransmission. The remedy is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [[epistemology-of-first-person-evidence|introspective rehabilitation]] matters.
+This drift helps explain why consciousness discourse sometimes feels circular. The same testimonial descriptions recirculate — "there is something it is like," "the qualitative character of experience" — each carrying less phenomenal weight with each retransmission. The remedy is not better testimony but renewed first-person investigation. Each person who attends carefully to their own experience refreshes the phenomenal grounding that testimonial chains inevitably attenuate. This is one reason [[phenomenal-authority-and-first-person-evidence|introspective rehabilitation]] matters.
 
 ## What Testimony Cannot Convey
 
@@ -157,10 +156,9 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 
 - [[phenomenology-of-trust]] — The phenomenology of interpersonal trust and vulnerability
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt character of weighing evidence and revising belief
-- [[epistemology-of-first-person-evidence]] — Testimonial evidence and introspective epistemology in consciousness science
+- [[phenomenal-authority-and-first-person-evidence]] — Testimonial evidence and introspective epistemology in consciousness science
 - [[consciousness-and-the-authority-of-formal-systems]] — Logical compulsion and consciousness
 - [[introspection]] — The reliability debate and the case for restoring introspection
-- [[phenomenal-authority-and-introspective-evidence]] — Phenomenal experience as evidence
 - [[methodology-of-consciousness-research]] — Methodological tensions in consciousness science
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
 - [[epistemic-advantages-of-dualism]] — Why dualism provides better epistemic resources

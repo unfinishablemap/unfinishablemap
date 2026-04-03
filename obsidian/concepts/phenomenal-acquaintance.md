@@ -23,10 +23,9 @@ related_articles:
   - "[[pre-conceptual-knowing]]"
   - "[[modal-structure-of-phenomenal-properties]]"
   - "[[intentionality]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[phenomenal-transparency]]"
   - "[[acquaintance-void]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -71,7 +70,7 @@ Phenomenal acquaintance grounds several moves in philosophy of consciousness:
 
 **The knowledge argument.** When Mary sees red for the first time, what she gains is not merely a new concept or ability—she enters into a new acquaintance relation with the qualitative character of redness. Her prior physical knowledge was complete at the propositional level. What it lacked was this relation. The [[knowledge-argument]] depends on the claim that phenomenal acquaintance provides access to facts that propositional knowledge cannot capture.
 
-**Introspective justification.** [[phenomenal-authority-and-introspective-evidence|Phenomenal conservatism]]—associated with Michael Huemer—holds that if it seems to you that something is the case, you have prima facie justification for believing it. Phenomenal acquaintance explains *why* certain introspective seemings are especially resistant to cognitive penetration. When the seeming arises from direct acquaintance with a phenomenal quality—when pain itself generates the seeming that it hurts—no background theory or bias mediates between experience and judgement. The directness of the relation limits the channels through which distortion can enter, even if it does not eliminate every source of error (as the section on acquaintance and error explores).
+**Introspective justification.** [[phenomenal-authority-and-first-person-evidence|Phenomenal conservatism]]—associated with Michael Huemer—holds that if it seems to you that something is the case, you have prima facie justification for believing it. Phenomenal acquaintance explains *why* certain introspective seemings are especially resistant to cognitive penetration. When the seeming arises from direct acquaintance with a phenomenal quality—when pain itself generates the seeming that it hurts—no background theory or bias mediates between experience and judgement. The directness of the relation limits the channels through which distortion can enter, even if it does not eliminate every source of error (as the section on acquaintance and error explores).
 
 **Phenomenal intentionality.** [[intentionality#Phenomenal Intentionality Theory|Phenomenal intentionality]] holds that genuine *aboutness* derives from phenomenal consciousness. Acquaintance is the mechanism: acquaintance with the qualitative character of thinking about coffee is what makes the thought genuinely *about* coffee, rather than merely a symbol causally correlated with coffee. Without acquaintance, intentionality reduces to functional covariation—and functional covariation, absent a subject who grasps the content, never constitutes genuine understanding.
 
@@ -81,7 +80,7 @@ Phenomenal acquaintance grounds several moves in philosophy of consciousness:
 
 A common objection: if phenomenal acquaintance is so direct and immediate, it should be infallible. But [[introspection]] is demonstrably fallible. How can acquaintance be both immediate and error-prone?
 
-The resolution lies in distinguishing the relation from judgements based on it. Phenomenal acquaintance with a shade of blue is not itself a judgement—it is a presentation. Error enters when the subject forms beliefs about the presentation: classifying the shade, comparing it to memory, attributing properties to it. These downstream judgements are fallible because they involve concepts, memory, and inference. The acquaintance relation itself presents what it presents. The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] develops this acquaintance/judgement distinction into a full account: introspection provides infallible *presentation* but fallible *judgement*, and errors empirically cluster at the judgement level — categorisation, intensity, emotional valence — rather than at the level of bare phenomenal presence.
+The resolution lies in distinguishing the relation from judgements based on it. Phenomenal acquaintance with a shade of blue is not itself a judgement—it is a presentation. Error enters when the subject forms beliefs about the presentation: classifying the shade, comparing it to memory, attributing properties to it. These downstream judgements are fallible because they involve concepts, memory, and inference. The acquaintance relation itself presents what it presents. The [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] develops this acquaintance/judgement distinction into a full account: introspection provides infallible *presentation* but fallible *judgement*, and errors empirically cluster at the judgement level — categorisation, intensity, emotional valence — rather than at the level of bare phenomenal presence.
 
 This is not to claim that acquaintance is infallible in any metaphysically loaded sense. The point is structural: the immediacy of phenomenal acquaintance means that certain kinds of error—those involving misrepresentation across a causal chain—do not arise. Other kinds of error—misclassification, inattention, imprecise description—remain possible because they involve operations that go beyond the acquaintance relation itself.
 
@@ -105,14 +104,13 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 
 - [[acquaintance-knowledge]] — The epistemic category that results from standing in the acquaintance relation
 - [[knowledge-argument]] — Mary's Room and the case that acquaintance reveals facts beyond physical knowledge
-- [[phenomenal-authority-and-introspective-evidence]] — How acquaintance grounds introspective justification
+- [[phenomenal-authority-and-first-person-evidence]] — How acquaintance grounds introspective justification
 - [[consciousness-only-territories]] — Epistemic territories accessible only through phenomenal acquaintance
 - [[pre-conceptual-knowing]] — The pre-conceptual character of acquaintance
 - [[phenomenal-concepts-strategy]] — The physicalist response that locates the gap in concepts rather than acquaintance
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance
 - [[modal-structure-of-phenomenal-properties]] — The structural features of the qualities acquaintance reveals
 - [[introspection]] — The reliability debate and the relation between acquaintance and introspective judgement
-- [[epistemology-of-first-person-evidence]] — The competing models (acquaintance, inner sense, transparency, inferentialism) and the case for sui generis introspective access
 - [[acquaintance-void]] — The structural limits on what modes of acquaintance are possible
 
 ## References

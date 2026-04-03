@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 02:38 UTC - refine-draft
+- **Status**: Success
+- **File**: 33 files across topics/ and concepts/
+- **Changes**: Updated 88 stale wikilinks from archived slugs (epistemology-of-first-person-evidence, phenomenal-authority-and-introspective-evidence) to unified article (phenomenal-authority-and-first-person-evidence). Removed 16 duplicate entries created by convergent slug replacement (9 frontmatter, 7 list section).
+- **Published**: yes
+
 ## 2026-04-03 01:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/neurological-dissociations-as-interface-architecture]]

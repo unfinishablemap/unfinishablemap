@@ -8,7 +8,7 @@ ai_modified: 2026-03-28T00:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
 concepts:
   - "[[dualism]]"
   - "[[parsimony-epistemology]]"
@@ -58,7 +58,7 @@ The Map recognises two fundamentally different ways of knowing about consciousne
 
 The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience. [[heterophenomenology|Heterophenomenology]] disputes this, arguing that third-person methods can take first-person reports seriously without granting them infallibility — though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience.
 
-The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation. [[contemplative-epistemology|Contemplative traditions]] offer a further development: sustained meditative practice as a method of refining first-person observation, analogous to training scientific observation skills.
+The [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] examines how phenomenal reports can be calibrated and made rigorous without collapsing them into third-person data. [[neurophenomenology-and-contemplative-neuroscience|Neurophenomenology]] attempts to integrate both channels, using first-person reports to constrain and inform third-person investigation. [[contemplative-epistemology|Contemplative traditions]] offer a further development: sustained meditative practice as a method of refining first-person observation, analogous to training scientific observation skills.
 
 ## Epistemic Assumptions That Determine Conclusions
 
@@ -99,7 +99,7 @@ Tenet 5 — Occam's Razor Has Limits — is explicitly epistemological. Tenet 1 
 ## Further Reading
 
 - [[parsimony-epistemology]] — When and why simplicity fails as a guide to truth
-- [[epistemology-of-first-person-evidence]] — Rigorous treatment of introspective warrant
+- [[phenomenal-authority-and-first-person-evidence]] — Rigorous treatment of introspective warrant
 - [[phenomenological-evidence]] — First-person reports as genuine evidence
 - [[epistemology-of-limit-knowledge]] — Knowing what resists being known
 - [[epistemology-of-convergence-arguments]] — Why convergence provides distinctive warrant

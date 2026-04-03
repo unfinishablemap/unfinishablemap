@@ -24,9 +24,8 @@ related_articles:
   - "[[tenets]]"
   - "[[contemplative-neuroscience-meditation-2026-01-23]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -146,7 +145,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's research program formalising the integration of first-person and third-person methods
 - [[introspection]] — The reliability debate and the process/content distinction
-- [[epistemology-of-first-person-evidence]] — The broader case for restoring introspection as a serious method
+- [[phenomenal-authority-and-first-person-evidence]] — The broader case for restoring introspection as a serious method
 - [[neurophenomenology-and-contemplative-neuroscience|contemplative neuroscience]] — Empirical evidence validating the contemplative epistemological framework
 - [[witness-consciousness]] — The observer phenomenon as key contemplative finding
 - [[meditation-and-consciousness-modes]] — Active selection and passive witnessing as distinct epistemic modes

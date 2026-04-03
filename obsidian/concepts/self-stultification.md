@@ -28,7 +28,7 @@ related_articles:
   - "[[physics-as-disclosure]]"
   - "[[self-reference-paradox]]"
   - "[[tenets]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101

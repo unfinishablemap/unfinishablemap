@@ -24,7 +24,7 @@ related_articles:
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -93,7 +93,7 @@ The strongest materialist response here is that modular experiential disruptions
 
 Clinical phenomenology as philosophical evidence faces legitimate methodological concerns that must be addressed rather than dismissed.
 
-**Reliability of patient reports.** Psychiatric patients may struggle to articulate experiential disruptions, and their reports may be coloured by distress, medication effects, or suggestibility. The [[epistemology-of-first-person-evidence|phenomenological method's evidence taxonomy]] helps here: trained phenomenological interviewers use instruments like the EASE (Examination of Anomalous Self-Experience) that systematically probe specific experiential domains rather than relying on spontaneous report. Cross-validation between patients, and between patient reports and objective measures, provides additional constraint.
+**Reliability of patient reports.** Psychiatric patients may struggle to articulate experiential disruptions, and their reports may be coloured by distress, medication effects, or suggestibility. The [[phenomenal-authority-and-first-person-evidence|phenomenological method's evidence taxonomy]] helps here: trained phenomenological interviewers use instruments like the EASE (Examination of Anomalous Self-Experience) that systematically probe specific experiential domains rather than relying on spontaneous report. Cross-validation between patients, and between patient reports and objective measures, provides additional constraint.
 
 **Interpretation underdetermination.** The same clinical data can often be interpreted through different philosophical lenses. A materialist can accommodate dissociative phenomena by positing disruptions in functional connectivity without invoking non-physical components. This is true but reveals a methodological asymmetry: the materialist must construct post hoc explanations for each new dissociation pattern, while the interface model predicts the pattern of selective channel failures in advance.
 
@@ -115,7 +115,7 @@ Most fundamentally, clinical phenomenology vindicates the Map's methodological c
 - [[clinical-dissociation-as-systematic-evidence]]
 - [[neurological-dissociations-as-interface-architecture]]
 - [[consciousness-disruption-and-the-mind-brain-interface]]
-- [[epistemology-of-first-person-evidence]]
+- [[phenomenal-authority-and-first-person-evidence]]
 - [[contemplative-practice-as-philosophical-evidence]]
 - [[pain-consciousness-and-causal-power]]
 

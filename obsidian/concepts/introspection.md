@@ -32,7 +32,7 @@ related_articles:
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[intersubjective-void]]"
   - "[[recognition-void]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -181,7 +181,7 @@ This matters for consciousness science. If we restricted inquiry to third-person
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: phenomenological experiments you can run using your own experience
 - [[self-opacity|phenomenology of self-awareness]] — Why introspective error cannot be detected from within
 - [[self-opacity|introspective opacity]] — The void where process access fails structurally, including why we cannot observe our own willing
-- [[phenomenal-authority-and-introspective-evidence]] — The spectrum of phenomenal authority positions and phenomenal conservatism as epistemological grounding
+- [[phenomenal-authority-and-first-person-evidence]] — The spectrum of phenomenal authority positions and phenomenal conservatism as epistemological grounding
 - [[attention-disorders-and-consciousness]] — When the attentional basis of introspection is itself disordered
 - [[transition-void|The Transition Void]] — Why consciousness cannot witness its own state transitions—a structural introspective limit
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — State-dependent limits on introspecting dreaming from waking

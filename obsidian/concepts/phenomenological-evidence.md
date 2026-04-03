@@ -29,8 +29,7 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[epistemological-limits-occams-razor]]"
-  - "[[epistemology-of-first-person-evidence]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -77,7 +76,7 @@ Three methodological traditions have established how to gather phenomenological 
 
 ### Husserl's Epoché
 
-Edmund Husserl (1859–1938) developed [[phenomenology]] as a rigorous discipline. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend purely to how things appear in experience. Husserl distinguished phenomenological *description* from causal *explanation*: the question is not "why does this experience occur?" but "what is its structure?" His [[epistemology-of-first-person-evidence|evidence taxonomy]]—apodictic, adequate, assertoric, presumptive—determines how much epistemic weight different phenomenological claims can bear. A crucial late insight: "adequacy and apodicticity of evidence need not go hand in hand" (*Cartesian Meditations*, 1929). The ego's existence is apodictically certain—indubitable—even when its content is only presumptively given, extending into horizons that remain revisable. This separation matters for consciousness research: we can be certain *that* experience exists while remaining fallible about its detailed structure.
+Edmund Husserl (1859–1938) developed [[phenomenology]] as a rigorous discipline. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend purely to how things appear in experience. Husserl distinguished phenomenological *description* from causal *explanation*: the question is not "why does this experience occur?" but "what is its structure?" His [[phenomenal-authority-and-first-person-evidence|evidence taxonomy]]—apodictic, adequate, assertoric, presumptive—determines how much epistemic weight different phenomenological claims can bear. A crucial late insight: "adequacy and apodicticity of evidence need not go hand in hand" (*Cartesian Meditations*, 1929). The ego's existence is apodictically certain—indubitable—even when its content is only presumptively given, extending into horizons that remain revisable. This separation matters for consciousness research: we can be certain *that* experience exists while remaining fallible about its detailed structure.
 
 Philipp Berghofer (2019) interprets Husserl as a "mentalist evidentialist"—evidence determines epistemic justification, and ultimate evidence consists of *originary presentive intuitions*: perceptual experiences, introspective experiences, eidetic intuitions, and evaluative experiences all count as originary sources. This grounds phenomenological evidence not in theory but in the direct presentive character of experience itself. If originary givenness is genuinely foundational, then phenomenological evidence has epistemic standing independent of third-person corroboration—though such corroboration strengthens it.
 
@@ -148,7 +147,7 @@ The phenomenological response distinguishes two targets of introspection:
 - **Cognitive processes**: How we arrive at decisions, what causes our behaviour
 - **Phenomenal content**: What we are currently experiencing (see also [[cognitive-phenomenology]] for the distinctive qualitative character of thought itself)
 
-Nisbett and Wilson's research targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence. The [[epistemology-of-first-person-evidence|epistemology of first-person evidence]] examines the competing models — acquaintance, inner sense, transparency, and inferentialism — and argues that introspection is best understood as a sui generis epistemic capacity with domain-variable reliability: strongest for attended phenomenal content, weaker for background states, and absent for causal processes.
+Nisbett and Wilson's research targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" The reliability critique clarifies rather than defeats phenomenological method: untrained observation of cognitive processes is unreliable, but trained observation of phenomenal content produces convergent evidence. The [[phenomenal-authority-and-first-person-evidence|epistemology of first-person evidence]] examines the competing models — acquaintance, inner sense, transparency, and inferentialism — and argues that introspection is best understood as a sui generis epistemic capacity with domain-variable reliability: strongest for attended phenomenal content, weaker for background states, and absent for causal processes.
 
 There is also a self-undermining problem for thoroughgoing introspective skepticism. If introspective reports are systematically unreliable, then the very reports that motivate physicalism and epiphenomenalism are equally undermined. The epiphenomenalist trusts their own reasoning about consciousness enough to conclude that consciousness lacks causal power—but that conclusion depends on introspective access to the very experiences whose evidential status is being denied. Phenomenological method was designed precisely to discipline introspection beyond naive self-report (Thomasson); dismissing the disciplined version because the naive version is unreliable conflates two different epistemic practices.
 
@@ -185,7 +184,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[phenomenology]] — The philosophical method for generating phenomenological evidence
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integration of phenomenological evidence with neuroscience
 - [[introspection]] — The reliability debate and trained first-person methods
-- [[epistemology-of-first-person-evidence]] — The epistemological models and the case for sui generis introspective knowledge
+- [[phenomenal-authority-and-first-person-evidence]] — The epistemological models and the case for sui generis introspective knowledge
 - [[phenomenal-acquaintance]] — The direct, non-inferential relation grounding first-person evidence
 - [[contemplative-epistemology]] — Systematic contemplative practice as a knowledge source about consciousness
 - [[heterophenomenology]] — The third-person alternative approach
@@ -194,7 +193,6 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The experience of evaluating evidence phenomenologically
 - [[methodology-of-consciousness-research]] — The broader methodological divide in consciousness science
 - [[moral-phenomenology-and-perception]] — Moral experience as a domain where phenomenological evidence is irreplaceable
-- [[phenomenal-authority-and-introspective-evidence]] — The spectrum of phenomenal authority, three layers of epistemic weight, and Rorty's dilemma
 - [[explanatory-gap]] — Why third-person evidence alone cannot explain consciousness
 
 ## References

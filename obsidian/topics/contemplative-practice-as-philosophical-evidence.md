@@ -34,7 +34,7 @@ related_articles:
   - "[[epistemology-of-convergence-arguments]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[methodology-of-consciousness-research]]"
-  - "[[epistemology-of-first-person-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
@@ -42,7 +42,6 @@ related_articles:
   - "[[testing-the-map-from-inside]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
-  - "[[phenomenal-authority-and-introspective-evidence]]"
   - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
 author:
@@ -61,9 +60,9 @@ Contemplative practice — meditation, sustained introspective training, discipl
 
 Standard philosophical methods — thought experiments, conceptual analysis, [[phenomenology|phenomenological reduction]] — share a structural feature: they operate through thinking *about* consciousness rather than *within* it. Whether awareness can exist independently of objects, whether the ordinary sense of self is constructed or given, what the temporal grain of experience actually is — these questions demand sustained first-person investigation under controlled conditions.
 
-A practice counts as philosophical methodology when it is disciplined (following systematic procedures), directed at philosophical questions (not merely therapeutic), and produces findings that constrain theoretical options. This argument assumes trained introspection is at least partially reliable — a claim defended in the [[epistemology-of-first-person-evidence|rehabilitation of introspection]] and supported by neurophenomenological cross-validation.
+A practice counts as philosophical methodology when it is disciplined (following systematic procedures), directed at philosophical questions (not merely therapeutic), and produces findings that constrain theoretical options. This argument assumes trained introspection is at least partially reliable — a claim defended in the [[phenomenal-authority-and-first-person-evidence|rehabilitation of introspection]] and supported by neurophenomenological cross-validation.
 
-Contemplative training targets precisely the layers of [[epistemology-of-first-person-evidence|phenomenal authority]] where naive introspection is weakest. Authority over *that* experience exists is robust, but authority over *what* attended experience is like and over structural features improves dramatically with training. Sustained attention training improves accuracy about phenomenal character; progressive disclosure of temporal microstructure, the awareness-content distinction, and the constructed self represents structural knowledge becoming accessible through disciplined practice. Contemplative methodology does not merely assume introspective reliability; it systematically extends it into domains where casual introspection fails.
+Contemplative training targets precisely the layers of [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] where naive introspection is weakest. Authority over *that* experience exists is robust, but authority over *what* attended experience is like and over structural features improves dramatically with training. Sustained attention training improves accuracy about phenomenal character; progressive disclosure of temporal microstructure, the awareness-content distinction, and the constructed self represents structural knowledge becoming accessible through disciplined practice. Contemplative methodology does not merely assume introspective reliability; it systematically extends it into domains where casual introspection fails.
 
 **Disciplined procedure.** Contemplative traditions prescribe specific techniques with progressive stages and criteria for competence. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure — structured methodological protocols comparable in rigour to [[phenomenological-method-and-evidence-standards|Husserl's epoché]].
 
@@ -163,7 +162,7 @@ The honest assessment: contemplative evidence eliminates epiphenomenalism and re
 
 ## Scope and Limits
 
-**What contemplative methods can establish:** Structural claims about experience — temporal grain, awareness-content relationship, constructed self, non-ordinary states, attentional trainability — and causal claims where content-specificity of meditation effects demonstrates phenomenological character tracking neural outcomes. Husserl's [[epistemology-of-first-person-evidence|evidence taxonomy]] clarifies the gradient: findings are strongest where they approach adequate evidence (attended phenomenal content) and weakest at the presumptive level (metaphysical interpretation).
+**What contemplative methods can establish:** Structural claims about experience — temporal grain, awareness-content relationship, constructed self, non-ordinary states, attentional trainability — and causal claims where content-specificity of meditation effects demonstrates phenomenological character tracking neural outcomes. Husserl's [[phenomenal-authority-and-first-person-evidence|evidence taxonomy]] clarifies the gradient: findings are strongest where they approach adequate evidence (attended phenomenal content) and weakest at the presumptive level (metaphysical interpretation).
 
 **What they cannot establish:** The ultimate nature of consciousness; the mechanism of consciousness-brain interaction; interpretive disagreements between traditions with equally deep expertise.
 
@@ -209,7 +208,7 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 - [[witness-consciousness]] — The phenomenology of observing awareness itself
 - [[the-observer-witness-in-meditation]] — Evidence that awareness can exist without doing
 - [[altered-states-of-consciousness]] — Jhāna states and the range of conscious experience
-- [[epistemology-of-first-person-evidence]] — Rehabilitating introspective methods and Husserl's evidence taxonomy
+- [[phenomenal-authority-and-first-person-evidence]] — Rehabilitating introspective methods and Husserl's evidence taxonomy
 - [[epistemology-of-convergence-arguments]] — When convergence constitutes genuine evidence
 - [[galilean-exclusion]] — The exclusion that made the explanatory gap structurally inevitable
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practice destabilises the interface
