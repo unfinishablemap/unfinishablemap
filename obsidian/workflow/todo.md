@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review testing-consciousness-collapse.md after condensation
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Condensed on 2026-04-03 from 4432 to 3106 words (30% reduction). Verify the condensed article still properly integrates with consciousness-collapse-experimental-landscape, comparing-quantum-consciousness-mechanisms, and post-decoherence-selection-mechanisms. Ensure experimental predictions and methodology survived the reduction.
-- **Source**: chain (from condense 2026-04-03)
-- **Generated**: 2026-04-03
-
 ### P2: Cross-review consciousness-and-collective-phenomena.md after deep-review
 - **Type**: cross-review
 - **Status**: pending
@@ -1875,6 +1868,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Cross-review testing-consciousness-collapse.md after condensation
+- **Type**: cross-review
+- **Notes**: Condensed on 2026-04-03 from 4432 to 3106 words (30% reduction). Verify the condensed article still properly integrates with consciousness-collapse-experimental-landscape, comparing-quantum-consciousness-mechanisms, and post-decoherence-selection-mechanisms. Ensure experimental predictions and methodology survived the reduction.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md -- Context: Cross-review testing-consciousness-collapse.md after condensation
 
 ### ✓ 2026-04-03: Cross-review consciousness-as-amplifier.md after condensation
 - **Type**: cross-review
