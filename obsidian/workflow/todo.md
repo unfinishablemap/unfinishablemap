@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review selective-correction-and-reconstruction-paradox.md
-- **Type**: deep-review
-- **Notes**: Coalesced on 2026-04-02 from voids/reconstruction-paradox.md into concepts/selective-correction-and-reconstruction-paradox.md (section change from voids to concepts). Never deep-reviewed post-coalesce. Verify the merge preserved the void's core insight about error correction presupposing a correction standard, check cross-references to perceptual-reconstruction-paradox and curated-mind, and confirm tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-03
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1867,6 +1861,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Deep review selective-correction-and-reconstruction-paradox.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-02 from voids/reconstruction-paradox.md into concepts/selective-correction-and-reconstruction-paradox.md (section change from voids to concepts). Never deep-reviewed post-coalesce. Verify the merge preserved the void's core insight about error correction presupposing a correction standard, check cross-references to perceptual-reconstruction-paradox and curated-mind, and confirm tenet alignment.
+- **Output**: obsidian/concepts/selective-correction-and-reconstruction-paradox.md
 
 ### ✓ 2026-04-03: Condense testing-consciousness-collapse.md (4432 words, 148% of target)
 - **Type**: condense

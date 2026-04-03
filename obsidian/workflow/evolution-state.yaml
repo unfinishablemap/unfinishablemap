@@ -1,6 +1,6 @@
-last_updated: '2026-04-03T10:38:01.522367+00:00'
-session_count: 5352
-cycle_position: 4980
+last_updated: '2026-04-03T11:38:01.522844+00:00'
+session_count: 5353
+cycle_position: 4981
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-03T11:38:47.509856+00:00'
+  agentic-social: '2026-04-03T12:38:53.184088+00:00'
 last_git_push: '2026-04-03T09:38:01.521913+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-02'
-  outcome: success
 - task: refine-draft (obsidian/concepts/asymmetric-bandwidth-consciousne)
   type: refine-draft
   date: '2026-04-02'
@@ -138,10 +134,13 @@ recent_tasks:
   type: optimistic-review
   date: '2026-04-03'
   outcome: success
+- task: condense (obsidian/topics/testing-consciousness-collapse.md)
+  type: condense
+  date: '2026-04-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/convergent-phenomenological-evidence/
-    date: '2026-04-03T11:38:47.509824+00:00'
+  - url: https://unfinishablemap.org/concepts/consciousness/
+    date: '2026-04-03T12:38:53.184028+00:00'
     topics:
     - hard-problem-of-consciousness
-    - methodology-of-consciousness-research
