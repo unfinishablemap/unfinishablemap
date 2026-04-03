@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-04-03 00:38:00+00:00
+ai_modified: 2026-04-03 22:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -25,6 +25,7 @@ concepts:
 - '[[access-consciousness]]'
 - '[[causal-delegation]]'
 - '[[amplification-void]]'
+- '[[cumulative-culture]]'
 created: 2026-01-21
 date: &id001 2026-01-27
 description: Consciousness amplifies intelligence by enabling flexible deployment
@@ -33,7 +34,7 @@ description: Consciousness amplifies intelligence by enabling flexible deploymen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 13:02:00+00:00
+last_deep_review: 2026-04-03 22:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +71,7 @@ Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cogni
 
 **Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This metarepresentational capacity may require phenomenal consciousness.
 
-**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). Cumulative culture requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
+**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). [Cumulative culture](/concepts/cumulative-culture/) requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
 
 **Logical reasoning requires consciousness**: Lieberman et al. (2008) and De Neys & Glumicic (2008) demonstrate that cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Explicit rule-following requires conscious manipulation of representations.
 

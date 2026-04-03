@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-as-amplifier.md after condensation
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Condensed on 2026-04-03. Verify the condensed version still properly integrates with related articles (downward-causation, consciousness-and-causal-powers, amplification-mechanisms, epiphenomenalism). Check that cross-references survive the reduction and core arguments supporting Tenet 3 remain intact.
-- **Source**: chain (from condense 2026-04-03)
-- **Generated**: 2026-04-03
-
 ### P2: Cross-review testing-consciousness-collapse.md after condensation
 - **Type**: cross-review
 - **Status**: pending
@@ -1883,6 +1876,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Cross-review consciousness-as-amplifier.md after condensation
+- **Type**: cross-review
+- **Notes**: Condensed on 2026-04-03. Verify the condensed version still properly integrates with related articles (downward-causation, consciousness-and-causal-powers, amplification-mechanisms, epiphenomenalism). Check that cross-references survive the reduction and core arguments supporting Tenet 3 remain intact.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md -- Context: Cross-review consciousness-as-amplifier.md after condensation
 
 ### ✓ 2026-04-03: Update references to coalesced phenomenology-of-understanding-and-meaning
 - **Type**: refine-draft
