@@ -4,8 +4,8 @@ description: "Consciousness amplifies intelligence by enabling flexible deployme
 created: 2026-01-21
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-04-03T00:38:00+00:00
-last_deep_review: 2026-03-26T13:02:00+00:00
+ai_modified: 2026-04-03T22:39:00+00:00
+last_deep_review: 2026-04-03T22:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[access-consciousness]]"
   - "[[causal-delegation]]"
   - "[[amplification-void]]"
+  - "[[cumulative-culture]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
@@ -67,7 +68,7 @@ Great apes represent sophisticated [[baseline-cognition]]—what neurons achieve
 
 **Procedural versus declarative metacognition**: Great apes show [[metacognition|metacognitive]] monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This metarepresentational capacity may require phenomenal consciousness.
 
-**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). Cumulative culture requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
+**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). [[cumulative-culture|Cumulative culture]] requires [[metacognition|metarepresentation]]: treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
 
 **Logical reasoning requires consciousness**: Lieberman et al. (2008) and De Neys & Glumicic (2008) demonstrate that cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Explicit rule-following requires conscious manipulation of representations.
 
