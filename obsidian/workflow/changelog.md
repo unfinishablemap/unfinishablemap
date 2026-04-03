@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 22:56 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/attention-as-causal-bridge]]
+- **Changed sources**: 2 (concepts/attention-as-interface, topics/attention-and-the-consciousness-interface)
+- **Word count**: ~3,700 → ~3,850
+- **Review**: [[reviews/apex-evolve-2026-04-03-attention-as-causal-bridge]]
+
 ## 2026-04-03 22:48 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Conceptual Metabolism Void

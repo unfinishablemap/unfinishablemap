@@ -4,7 +4,7 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-30T00:52:00+00:00
+ai_modified: 2026-04-03T22:56:00+00:00
 last_deep_review: 2026-03-30T00:52:00+00:00
 draft: false
 topics:
@@ -39,13 +39,13 @@ apex_sources:
   - topics/attention-and-the-consciousness-interface
   - topics/phenomenology-of-returning-attention
   - voids/attention-created-voids
-apex_last_synthesis: 2026-03-11T16:13:00+00:00
+apex_last_synthesis: 2026-04-03T22:56:00+00:00
 apex_thesis: "Attention is the causal bridge between consciousness and the physical world—a bandwidth-limited selection interface through which mind biases quantum indeterminacy in neural systems."
 ---
 
 If consciousness is real and causally efficacious, it needs a way to reach the physical world. The Unfinishable Map proposes that [[attention-as-interface|attention is that way]]—not identical to consciousness, but the interface through which consciousness selects among the possibilities the brain generates. This claim has specific structure: attention divides into modes with distinct neural signatures, the effort of sustaining it reveals genuine causal work, its disorders expose the interface's components, and its limits create cognitive voids that no amount of attentional skill can eliminate. The attention cluster is the Map's most detailed account of how mind acts on matter.
 
-The argument proceeds through three layers. First, the empirical case: attention and consciousness dissociate in ways that constrain what consciousness can be. Second, the mechanistic proposal: attention operates as a unified selection interface—shared by perception and action—where consciousness biases neural competition through a channel limited to roughly 10 bits per second (Zheng & Meister 2024). Third, the implications: if agency flows through attention, then freedom scales with attentional skill, and the limits of attention define the limits of conscious influence.
+The argument proceeds through three layers. First, the empirical case: attention and consciousness dissociate in ways that constrain what consciousness can be. Second, the mechanistic proposal: attention operates as a unified selection interface—shared by perception and action—where conscious behavioral throughput is limited to roughly 10 bits per second (Zheng & Meister 2024)—a figure measuring what conscious agents *do*, not the internal bandwidth of phenomenal attention itself. Third, the implications: if agency flows through attention, then freedom scales with attentional skill, and the limits of attention define the limits of conscious influence.
 
 ## Attention Is Not Consciousness
 
@@ -91,7 +91,7 @@ Cai et al. (2024) demonstrated this layering directly in *Nature*: dopamine-defi
 
 ## The Economics of Agency
 
-If consciousness acts through attention, and attention is bandwidth-limited to roughly 10 bits per second, then agency is fundamentally an [[attentional-economics|economic problem]]. Every act of attention is simultaneously an act of exclusion. Freedom becomes not a binary capacity but a resource to be allocated.
+If consciousness acts through attention, and conscious behavioral throughput is limited to roughly 10 bits per second, then agency is fundamentally an [[attentional-economics|economic problem]]. Every act of attention is simultaneously an act of exclusion. Freedom becomes not a binary capacity but a resource to be allocated.
 
 The economic framing reframes moral responsibility. Traditional accounts focus on the moment of decision. The attentional economics framework locates responsibility earlier—in the cultivation or neglect of attentional capacity. A person who has trained their attention through contemplative practice has more agency than one who has not, because they can sustain selection longer, resist distraction more effectively, and notice options that untrained attention would miss.
 
@@ -143,15 +143,17 @@ The attention cluster forms the Map's most detailed answer to the interaction pr
 
 The dissociation between attention and consciousness—supported by blindsight, peripheral phenomenal overflow, and frequency-band separation—establishes that they are functionally and potentially ontologically distinct. The three-mode architecture pinpoints willed attention as consciousness's contribution, marked by neural signatures absent from automatic processing. The phenomenology of effort, corroborated by Sjöberg's neurosurgical evidence that the sense of willing survives motor area resection, indicates consciousness does genuine causal work. The three-layer architecture—neural competition, dopamine threshold modulation, conscious selection—specifies how the interface is organised. And the bandwidth and habituation constraints define the boundaries within which conscious influence operates.
 
+A candid limitation: the interface hypothesis specifies *where* and *how* consciousness acts but does not explain *why* phenomenal attention exists or how subjective experience connects to physical processes. The [[hard-problem-of-consciousness|hard problem]] is relocated from "why does neural processing produce experience?" to "why does consciousness have this particular interface with neural processing?" This narrowing may prove productive—constraining where the explanatory gap sits is progress even if the gap remains—but it should not be mistaken for a solution.
+
 These components outline empirical commitments that evidence can challenge. If willed attention shows no distinctive neural signatures, the three-mode architecture collapses. If effort phenomenology turns out to be eliminable without explanatory loss, the causal work argument weakens. If attention disorders impair consciousness itself rather than the interface, the component architecture is wrong. Both dualists and physicalists would accept these empirical predictions; the disagreement is over what the results mean. The Map's contribution is an interpretation that takes the cumulative pattern seriously as evidence for non-physical causation—a reading that strengthens or weakens with each empirical finding, even if no single finding is decisive.
 
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: The dissociation between attention and consciousness is consistent with their ontological distinctness—though physicalists can read the same evidence as mapping distinct neural circuits. The Map's reading gains force because one side of the dissociation involves the hard problem: phenomenal experience resists the third-person characterisation that resolves other double dissociations. The failure of AST to explain phenomenal consciousness through attention-modeling reinforces the irreducibility of experience.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The attention interface is where the Map locates mind-matter interaction. The quantum Zeno mechanism is one proposed way this might work—consciousness holding neural patterns stable through rapid observation—though it faces [[decoherence|decoherence objections]] that remain unresolved. Whatever the specific mechanism, the ~10 bits/second bandwidth constraint limits conscious intervention to the smallest influence consistent with genuine causal efficacy. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The attention interface is where the Map locates mind-matter interaction. The quantum Zeno mechanism is one proposed way this might work—consciousness holding neural patterns stable through rapid observation—though it faces [[decoherence|decoherence objections]] that remain unresolved. Whatever the specific mechanism, the ~10 bits/second conscious behavioral throughput is consistent with a constrained interface limiting conscious intervention to the smallest influence consistent with genuine causal efficacy. Conservation laws are preserved because the energy for any selected action comes from ordinary metabolic processes.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The entire attention cluster elaborates this tenet. The return cycle shows bidirectional interaction in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's neuroplasticity work suggests directed attention may produce lasting brain changes—though limited by small samples (n=18) and awaiting independent replication of structural claims. Desmurget's neurostimulation evidence shows intention and execution are separable, with consciousness contributing at the policy level.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The entire attention cluster elaborates this tenet. The return cycle shows bidirectional interaction in miniature—the brain wanders (bottom-up), consciousness re-engages (top-down). Schwartz's OCD work provides suggestive clinical evidence: patients who learn to redirect attention show reduced caudate nucleus activity on PET imaging, though the study was small (n=18), unreplicated outside his group, and mainstream neuroscience can account for the results via Hebbian learning. What remains philosophically significant is the *pathway divergence*—cognitive intervention modulates brain activity through a different causal route than pharmacological intervention. Desmurget's neurostimulation evidence shows intention and execution are separable, with consciousness contributing at the policy level.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The selection model requires that quantum indeterminacies resolve to definite outcomes. If all branches persist equally, there is nothing for consciousness to select. The phenomenology of effort—the feeling that sustaining a choice *costs* something—has no causal explanation if all options are equally actualised.
 
