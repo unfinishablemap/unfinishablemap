@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 20:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenology-of-intellectual-life]], [[phenomenology-of-understanding-and-meaning]]
+- **Target**: [[phenomenology-of-intellectual-life]]
+- **Archived**: [[archive/topics/phenomenology-of-understanding-and-meaning]]
+- **References to review**: ~30 files reference the archived article
+
 ## 2026-04-03 19:39 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Attention Disorders and Consciousness

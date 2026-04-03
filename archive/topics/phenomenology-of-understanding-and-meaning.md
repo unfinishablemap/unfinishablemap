@@ -6,6 +6,11 @@ modified: 2026-03-16
 human_modified:
 ai_modified: 2026-03-29T02:06:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-03T20:38:00+00:00
+superseded_by: "/topics/phenomenology-of-intellectual-life/"
+archive_reason: "Coalesced into The Phenomenology of Intellectual Life"
+original_path: "/topics/phenomenology-of-understanding-and-meaning/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"

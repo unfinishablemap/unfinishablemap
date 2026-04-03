@@ -1,6 +1,6 @@
-last_updated: '2026-04-03T18:38:01.547117+00:00'
-session_count: 5360
-cycle_position: 4988
+last_updated: '2026-04-03T19:38:01.546064+00:00'
+session_count: 5361
+cycle_position: 4989
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-30T22:38:01.464514+00:00'
   research-voids: '2026-04-01T22:38:01.495155+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-04-03T20:38:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-03T19:39:32.332766+00:00'
+  agentic-social: '2026-04-03T20:38:39.057644+00:00'
 last_git_push: '2026-04-03T17:38:01.534533+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
@@ -47,12 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/testing-consciousness-collapse.md
-
-    )'
-  type: refine-draft
-  date: '2026-04-02'
-  outcome: success
 - task: condense (obsidian/concepts/consciousness-as-amplifier.md)
   type: condense
   date: '2026-04-03'
@@ -131,11 +125,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-03'
   outcome: success
+- task: expand-topic (Create topics page for attention-disorders-and-con)
+  type: expand-topic
+  date: '2026-04-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/evaluative-qualia-phenomenal-normativity-across-traditions/
-    date: '2026-04-03T19:39:32.332722+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-intellectual-courage/
+    date: '2026-04-03T20:38:39.057607+00:00'
     topics:
-    - ethics-of-consciousness
-    - eastern-philosophy-consciousness
-    - contemplative-practice-as-philosophical-evidence
+    - hard-problem-of-consciousness
+    - free-will
