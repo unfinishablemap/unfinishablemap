@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 22:48 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Conceptual Metabolism Void
+- **Category**: Occluded / Unexplorable (mixed)
+- **Output**: [[research/voids-conceptual-metabolism-void-2026-04-03]]
+- **Key finding**: Understanding irreversibly transforms concepts during integration — the pre-understood form is permanently consumed, creating an invisible void behind every act of comprehension
+
 ## 2026-04-03 22:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/consciousness-as-amplifier]]
