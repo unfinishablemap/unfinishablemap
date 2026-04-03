@@ -27,7 +27,7 @@ None.
 
 ### Medium Issues Found
 - **Brown (2004) orphan reference**: Reference 5 appeared in the References section but was never cited in the article body. **Resolution**: Added inline citation in the conversion disorder section where Brown's integrative model of medically unexplained symptoms is directly relevant.
-- **Missing cross-links to related clinical articles**: Cross-review against related articles revealed the article was insufficiently connected to the Map's broader clinical dissociation network. **Resolution**: Added cross-links to [fragmented-consciousness](/topics/fragmented-consciousness/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), and [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/).
+- **Missing cross-links to related clinical articles**: Cross-review against related articles revealed the article was insufficiently connected to the Map's broader clinical dissociation network. **Resolution**: Added cross-links to [fragmented-consciousness](/topics/split-brain-consciousness/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), and [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/).
 - **Convergence argument missing third pathway**: The systematic pattern section noted convergence between structural (neurological) and functional (clinical) disconnection, but omitted contemplative pathology as a third independent route to the same interface disruptions. **Resolution**: Added reference to [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) in the convergence paragraph.
 
 ### Counterarguments Considered
@@ -46,7 +46,7 @@ None.
 
 ### Enhancements Made
 - Added Brown (2004) inline citation in conversion disorder section
-- Added cross-link to [fragmented-consciousness](/topics/fragmented-consciousness/) in DID section
+- Added cross-link to [fragmented-consciousness](/topics/split-brain-consciousness/) in DID section
 - Added cross-link to [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) in dualism section
 - Strengthened convergence argument with contemplative pathology as third pathway
 - Added [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) apex article to Further Reading
@@ -55,7 +55,7 @@ None.
 - Removed stale AI refinement log from previous review
 
 ### Cross-links Added
-- [fragmented-consciousness](/topics/fragmented-consciousness/)
+- [fragmented-consciousness](/topics/split-brain-consciousness/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) (in-text, already in Further Reading)

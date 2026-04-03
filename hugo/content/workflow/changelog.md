@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-03 17:39 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-responsibility](/concepts/moral-responsibility/)
+- **Word count**: 2579 → 2579 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Output**: [deep-review-2026-04-03-moral-responsibility](/reviews/deep-review-2026-04-03-moral-responsibility/)
+- **Notes**: Fifth clean pass. Article confirmed stable — recommend excluding from routine rotation.
+
+## 2026-04-03 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [fragmented-consciousness](/topics/split-brain-consciousness/)
+- **Target**: [split-brain-consciousness](/topics/split-brain-consciousness/) (expanded, now titled "When Consciousness Fragments")
+- **Archived**: [fragmented-consciousness](/archive/topics/fragmented-consciousness/)
+- **References to review**: 3 (clinical-dissociation-as-systematic-evidence, ethics-of-possible-ai-consciousness, non-temporal-consciousness)
+
+## 2026-04-03 14:39 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: attention-created-voids
+- **Reason**: Content was coalesced into [attention-and-consciousness](/voids/attention-and-consciousness/) on 2026-03-30. Archive preserves URL at /voids/attention-created-voids/ with redirect to the coalesced article. No new article needed.
+
 ## 2026-04-03 13:48 UTC - deep-review
 - **Status**: Success
 - **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)

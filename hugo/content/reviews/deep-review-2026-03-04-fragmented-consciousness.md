@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-04
-**Article**: [Fragmented Consciousness](/topics/fragmented-consciousness/)
+**Article**: [Fragmented Consciousness](/topics/split-brain-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

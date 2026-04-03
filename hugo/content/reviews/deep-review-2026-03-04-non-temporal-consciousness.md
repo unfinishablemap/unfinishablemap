@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-04
 **Article**: [Non-Temporal Consciousness](/topics/non-temporal-consciousness/)
 **Previous review**: [2026-02-15](/reviews/deep-review-2026-02-15-non-temporal-consciousness/)
-**Context**: Cross-review considering new [fragmented-consciousness](/topics/fragmented-consciousness/) article insights
+**Context**: Cross-review considering new [fragmented-consciousness](/topics/split-brain-consciousness/) article insights
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 - **Broken link in Further Reading**: `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)` pointed to a non-existent file. The actual file is `[contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)`. Resolution: Fixed the link.
 
 ### Medium Issues Found
-- **Missing cross-link to fragmented-consciousness**: The new dedicated [fragmented-consciousness](/topics/fragmented-consciousness/) article (created 2026-03-04) develops the interface argument, resilience of unity, and incompleteness of fragmentation in much greater detail. Non-temporal-consciousness had no link to it. Resolution: Added cross-link in the fragmentation section opening, in Further Reading, and in `related_articles` frontmatter.
+- **Missing cross-link to fragmented-consciousness**: The new dedicated [fragmented-consciousness](/topics/split-brain-consciousness/) article (created 2026-03-04) develops the interface argument, resilience of unity, and incompleteness of fragmentation in much greater detail. Non-temporal-consciousness had no link to it. Resolution: Added cross-link in the fragmentation section opening, in Further Reading, and in `related_articles` frontmatter.
 - **Fragmentation section lacked the two-pattern insight**: The fragmented-consciousness article identifies two telling features of the data — resilience of unity (split-brain doesn't cleanly divide) and incompleteness of fragmentation (anaesthesia eliminates rather than fragments). These strengthen the non-temporal thesis argument but were absent. Resolution: Added a paragraph introducing these two patterns with explanation of why they favour a threshold-condition reading over an identity reading.
 
 ### Low Issues Found
@@ -49,13 +49,13 @@ topics: []
 - The measured epistemic tone throughout
 
 ### Enhancements Made
-- Added cross-link to [fragmented-consciousness](/topics/fragmented-consciousness/) with parenthetical reference for fuller treatment
+- Added cross-link to [fragmented-consciousness](/topics/split-brain-consciousness/) with parenthetical reference for fuller treatment
 - Added "resilience of unity" and "incompleteness of fragmentation" patterns from fragmented-consciousness, strengthening the argument for integration as threshold condition rather than identity
 - Fixed broken link to contemplative evidence article
 - Added fragmented-consciousness to Further Reading with descriptive text
 
 ### Cross-links Added
-- [fragmented-consciousness](/topics/fragmented-consciousness/) — Added in fragmentation section, Further Reading, and related_articles
+- [fragmented-consciousness](/topics/split-brain-consciousness/) — Added in fragmentation section, Further Reading, and related_articles
 
 ## Remaining Items
 
