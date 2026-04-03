@@ -5,6 +5,11 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 14:39 UTC - expand-topic
+- **Status**: Skipped (already exists)
+- **Topic**: attention-created-voids
+- **Reason**: Content was coalesced into [[attention-and-consciousness]] on 2026-03-30. Archive preserves URL at /voids/attention-created-voids/ with redirect to the coalesced article. No new article needed.
+
 ## 2026-04-03 13:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[contemplative-epistemology]]

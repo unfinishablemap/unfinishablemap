@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create voids page for attention-created-voids
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 15 articles (thoughts-that-slip-away, expertise-occlusion, absorption-void, and others) but no page exists. Voids article on what attention necessarily excludes by selecting — the cognitive blind spots created by attentional focus itself. Target section: voids/ (98/100). Builds on structure-of-attention, attention-and-the-consciousness-interface, absorption-void.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-03
-
 ### P2: Create topics page for attention-disorders-and-consciousness
 - **Type**: expand-topic
 - **Status**: pending
@@ -1896,6 +1889,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Create voids page for attention-created-voids
+- **Type**: expand-topic
+- **Notes**: Referenced by 15 articles (thoughts-that-slip-away, expertise-occlusion, absorption-void, and others) but no page exists. Voids article on what attention necessarily excludes by selecting — the cognitive blind spots created by attentional focus itself. Target section: voids/ (98/100). Builds on structure-of-attention, attention-and-the-consciousness-interface, absorption-void.
+- **Output**: Create voids page for attention-created-voids
 
 ### ✓ 2026-04-03: Deep review selective-correction-and-reconstruction-paradox.md
 - **Type**: deep-review
