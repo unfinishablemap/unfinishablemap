@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-02T08:38:24.719987'
+ai_modified: '2026-04-03T08:38:33.851562'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-02'
+date: '2026-04-03'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-02'
+modified: '2026-04-03'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-03: Why the Tip-of-the-Tongue Feeling Defies Materialism
+
+The felt sense of almost-having a word reveals phenomenal character that no functional account captures. Epistemic emotions—curiosity, doubt, insight—are consciousness monitoring its own relationship to truth.
+
+**Type**: insight  
+**Link**: [epistemic-emotions](/concepts/epistemic-emotions/)
+
+---
+
 ### 2026-04-02: How Mental Effort Could Freeze Quantum States
 
 Stapp's quantum mind model proposes that focused attention holds neural patterns in place via the quantum Zeno effect—no new physics required. Deep review sharpens the evidence trail.
@@ -193,15 +202,6 @@ Every night you lose awareness for hours, then return as if nothing happened. Th
 
 **Type**: insight  
 **Link**: [dreamless-sleep-void](/voids/sleep-consciousness-void/)
-
----
-
-### 2026-03-14: Blindsight: Seeing Without Experience
-
-Deep review strengthens the blindsight article—patients who accurately locate and identify visual stimuli they cannot consciously see. A powerful case that consciousness and information processing come apart.
-
-**Type**: insight  
-**Link**: [blindsight](/concepts/blindsight/)
 
 ---
 

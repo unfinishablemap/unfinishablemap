@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-01 16:38:00+00:00
+ai_modified: 2026-04-03 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: Does consciousness select outcomes guided by valence, or is value e
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 16:38:00+00:00
+last_deep_review: 2026-04-03 06:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -229,4 +229,4 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 7. Kahneman, D. (2011). *Thinking, Fast and Slow*. Farrar, Straus and Giroux.
 8. Panksepp, J. (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
 9. Berridge, K.C. (2009). Wanting and Liking: Observations from the Neuroscience and Psychology Laboratory. *Inquiry*, 52(4), 378-398.
-10. Zheng, J. & Meister, M. (2024). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 112(24).
+10. Zheng, J. & Meister, M. (2025). The Unbearable Slowness of Being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.

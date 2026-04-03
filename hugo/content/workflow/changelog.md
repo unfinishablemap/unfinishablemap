@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-03 07:39 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemic-emotions](/concepts/epistemic-emotions/)
+- **Word count**: 2343 → 2343 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stable after 4th review; only wikilink updates since last review)
+- **Output**: [deep-review-2026-04-03-epistemic-emotions](/reviews/deep-review-2026-04-03-epistemic-emotions/)
+
+## 2026-04-03 06:38 UTC - deep-review
+- **Status**: Success
+- **File**: [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
+- **Word count**: 3411 → 3411 (+0)
+- **Critical issues addressed**: 1 (incorrect Zheng & Meister citation: wrong volume, issue, pages, year)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article is stable after prior review)
+- **Output**: [deep-review-2026-04-03-valence-and-conscious-selection](/reviews/deep-review-2026-04-03-valence-and-conscious-selection/)
+
 ## 2026-04-03 05:38 UTC - refine-draft
 - **Status**: Success
 - **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)

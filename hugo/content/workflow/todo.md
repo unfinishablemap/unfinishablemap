@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review valence-and-conscious-selection.md
-- **Type**: deep-review
-- **Notes**: Coalesced on 2026-04-01 from value-blind-vs-value-sensitive-selection.md and valence-as-selection-currency.md. The merged article covers the role of phenomenal valence in consciousness's selection mechanism — central to the Map's physics programme. Never deep-reviewed post-coalesce. Verify coherence, that the value-blind/value-sensitive distinction is preserved, cross-references to trilemma-of-selection and born-rule-and-the-consciousness-interface, and tenet alignment (Tenets 2 and 3).
-- **Source**: chain (coalesce 2026-04-01)
-- **Generated**: 2026-04-03
-
 ### P2: Create concept page for epistemological-limits-of-occams-razor
 - **Type**: expand-topic
 - **Notes**: Referenced by 10 articles but has no dedicated page. Directly supports Tenet 5 (Occam's Razor Has Limits). Should systematise why parsimony fails for consciousness — covering the incompleteness-of-knowledge argument, the complexity-of-reality objection, and the distinction between predictive and ontological parsimony. Builds on parsimony-case-for-interactionist-dualism, duhem-quine-underdetermination-consciousness, epistemology-of-convergence-arguments. Target section: concepts/ (226/230, 4 slots remaining).
@@ -1857,6 +1851,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Deep review valence-and-conscious-selection.md
+- **Type**: deep-review
+- **Notes**: Coalesced on 2026-04-01 from value-blind-vs-value-sensitive-selection.md and valence-as-selection-currency.md. The merged article covers the role of phenomenal valence in consciousness's selection mechanism — central to the Map's physics programme. Never deep-reviewed post-coalesce. Verify coherence, that the value-blind/value-sensitive distinction is preserved, cross-references to trilemma-of-selection and born-rule-and-the-consciousness-interface, and tenet alignment (Tenets 2 and 3).
+- **Output**: obsidian/topics/valence-and-conscious-selection.md
 
 ### ✓ 2026-04-03: Address norm-tracking equivocation in self-stultification-as-master-argument.md
 - **Type**: refine-draft
