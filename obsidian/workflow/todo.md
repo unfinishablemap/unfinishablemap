@@ -391,6 +391,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Only 1 existing article (african-philosophy-of-consciousness). Ubuntu and relational consciousness, decolonial approaches to mind deserve development. Strengthens convergence argument across traditions. Target section: topics/.
 - **Generated**: 2026-03-21
 
+### P3: Write article on temporal phenomenology of selection
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map treats *what* consciousness selects extensively but lacks a unified account of selection's temporal structure—the 280ms commitment point, Libet timing, deliberation-duration/outcome-quality relationship. Would connect motor-selection, consciousness-selecting-neural-patterns, and valence-and-conscious-selection. Target section: topics/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Write concept page on norm-grasping
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The self-stultification article's distinction between norm-implementation and norm-grasping deserves standalone treatment—underpins argument from reason, Chinese Room, authority of formal systems. Currently compressed into a few paragraphs. Target section: concepts/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Write article on perceptual evidence as philosophical method
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Both selective-correction-and-reconstruction-paradox and neurological-dissociations articles derive philosophical conclusions from perceptual/clinical evidence, but the Map lacks a methodological article defending this approach. When does clinical evidence bear on metaphysical questions? Target section: topics/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Write article on pragmatism and quantum foundations (QBism)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/. See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
+### P3: Add cross-links between self-stultification, valence-selection, pragmatism, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: self-stultification → valence-and-conscious-selection (value-sensitive selection requires causal efficacy), selective-correction-and-reconstruction-paradox → neurological-dissociations-as-interface-architecture (correction operates through ascending channels), pragmatisms-path-to-dualism → self-stultification (reflexive argument is pragmatist self-stultification), epistemic-emotions → phenomenal-authority-and-first-person-evidence (epistemic emotions are felt evidence-evaluation), consciousness-as-amplifier → consciousness-and-collective-phenomena (amplification enables deliberative-group intelligence), parsimony-case → testing-consciousness-collapse (Q-shape intractability illustrates parsimony failure). See optimistic-2026-04-03.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-03
+
 ### ✓ 2026-03-25: Deep review phenomenology-of-volition.md
 - **Type**: deep-review
 - **Status**: cancelled
