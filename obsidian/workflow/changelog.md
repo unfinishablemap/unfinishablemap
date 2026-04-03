@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-collective-phenomena]]
+- **Word count**: 3431 → 3235 (-196)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (post-coalesce redundancy, interface section overlap, uncited reference, verbose cross-linking)
+- **Enhancements made**: Trimmed redundancy from coalesced content while preserving all strong passages
+- **Output**: [[reviews/deep-review-2026-04-03-consciousness-and-collective-phenomena]]
+
 ## 2026-04-03 08:39 UTC - expand-topic
 - **Status**: Skipped (slug collision + redundant)
 - **Topic**: epistemological-limits-of-occams-razor
