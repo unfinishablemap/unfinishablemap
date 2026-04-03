@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: After clinical evidence quality audit (research/clinical-evidence-quality-2026-03-29.md), downward-causation.md's references to Schwartz OCD as "strongest clinical evidence" and epiphenomenalism.md's meditation efficacy claims need alignment with qualified presentation. Verify consistency with updated claims in clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Existing P3 task addresses timing gap in downward-causation.md separately.
-- **Source**: chain (from clinical-evidence-quality research)
-- **Generated**: 2026-04-02
-
-### P2: Integrate testable predictions research into testing-consciousness-collapse.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Two research notes contain specific experimental paradigms not yet fully integrated: research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md and research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Check for divergent predictions, new experimental proposals, and empirical criteria that would distinguish consciousness-collapse from standard decoherence. Tenet 2 alignment critical.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-02
-
-### P2: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Recently refined (2026-04-02) but still 167% of target. Preserve core amplifier framework and key arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-02
-
 ### P2: Fix stale wikilinks from archived phenomenal-authority and epistemology-of-first-person-evidence slugs
 - **Type**: refine-draft
 - **Status**: pending
@@ -1855,6 +1834,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word hard threshold for concepts/. Recently refined (2026-04-02) but still 167% of target. Preserve core amplifier framework and key arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/consciousness-as-amplifier.md
+
+### ✓ 2026-04-02: Integrate testable predictions research into testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Two research notes contain specific experimental paradigms not yet fully integrated: research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md and research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Check for divergent predictions, new experimental proposals, and empirical criteria that would distinguish consciousness-collapse from standard decoherence. Tenet 2 alignment critical.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Two research notes contain specific experimental paradigms not yet fully integrated: research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md and research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Check for divergent predictions, new experimental proposals, and empirical criteria that would distinguish consciousness-collapse from standard decoherence. Tenet 2 alignment critical.
+
+### ✓ 2026-04-02: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
+- **Type**: cross-review
+- **Notes**: After clinical evidence quality audit (research/clinical-evidence-quality-2026-03-29.md), downward-causation.md's references to Schwartz OCD as "strongest clinical evidence" and epiphenomenalism.md's meditation efficacy claims need alignment with qualified presentation. Verify consistency with updated claims in clinical-neuroplasticity-evidence-for-bidirectional-causation.md. Existing P3 task addresses timing gap in downward-causation.md separately.
+- **Output**: downward-causation.md -- Context: Cross-review downward-causation.md and epiphenomenalism.md for clinical evidence claims needing qualification
 
 ### ✓ 2026-04-02: Integrate clinical evidence quality audit into bidirectional causation articles
 - **Type**: refine-draft

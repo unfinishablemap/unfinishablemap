@@ -4,10 +4,51 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-02'
+date: '2026-04-03'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-03 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Word count**: 2306 → 2369 (+63)
+- **Critical issues addressed**: 1 (MWI tenet paragraph misrepresented many-worlds — rewrote with valid indexical-identity argument)
+- **Medium issues addressed**: 2 (Nagel quotation converted to paraphrase; added body-text cross-link to consciousness-disruption article)
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-03-neurological-dissociations-as-interface-architecture](/reviews/deep-review-2026-04-03-neurological-dissociations-as-interface-architecture/)
+
+## 2026-04-03 00:38 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- **Before**: 4174
+- **After**: 2619
+- **Reduction**: 37%
+- **Technique**: Cut detailed physical mechanisms catalogue (linked to research notes instead), removed Process Philosophy section, condensed Three Senses definitions, tightened Illusionist Challenge and tenet sections, removed AI refinement log
+
+## 2026-04-02 23:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Changes**: Integrated content from two research notes (testable-predictions-consciousness-collapse-decoherence-2026-03-29, experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21). Added 3 new Tier 2 subsections: Selective Quantum Coherence Disruption (Kleiner & Hoel 2024), Attention-Based Selection (Stapp), quantum computer variable-Φ tests made explicit. Strengthened Tenet 2 alignment. Updated landscape table, convergence strategy, references.
+- **Published**: yes
+
+## 2026-04-02 22:44 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 449 (224 topics, 225 concepts)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 7
+- **Output**: [tenet-check-2026-04-02](/reviews/tenet-check-2026-04-02/)
+
+## 2026-04-02 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Word count**: 2952 → 2940 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Schwartz method mischaracterization: "purely cognitive" → "cognitive-behavioural")
+- **Enhancements made**: 1 (removed orphaned Schwartz 1998 reference)
+- **Cross-review**: [epiphenomenalism](/concepts/epiphenomenalism/) — clinical evidence claims consistent, no issues found
+- **Output**: [deep-review-2026-04-02-mental-causation-and-downward-causation](/reviews/deep-review-2026-04-02-mental-causation-and-downward-causation/)
 
 ## 2026-04-02 21:38 UTC - refine-draft
 - **Status**: Success

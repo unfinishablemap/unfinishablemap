@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-04-02 14:38:00+00:00
+ai_modified: 2026-04-03 00:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -54,35 +54,25 @@ The Unfinishable Map proposes that consciousness interfaces with neural systems 
 
 ## Three Senses of Consciousness
 
-Before examining how consciousness amplifies intelligence, we must distinguish what we mean by "consciousness"—the term covers at least three related but distinct phenomena:
+The amplification thesis engages three distinct phenomena that often coincide but can dissociate:
 
-**[phenomenal-consciousness](/concepts/phenomenal-consciousness/)** is the "what it's like" aspect of experience—the redness of red, the painfulness of pain, the taste of coffee. This is the target of the hard problem: why do certain physical processes feel like something from the inside? Phenomenal consciousness is subjective, qualitative, and resists functional definition. When we ask whether consciousness has causal effects, this is usually what we mean—does the felt quality of experience itself influence the physical world?
+**[phenomenal-consciousness](/concepts/phenomenal-consciousness/)**—the "what it's like" of experience—is the primary target. The question is whether felt qualities themselves causally influence neural processing or are [epiphenomenal](/concepts/epiphenomenalism/) byproducts. The evolutionary argument below targets this directly.
 
-**[access-consciousness](/concepts/access-consciousness/)** refers to information being globally available for reasoning, report, and behavioural control. A mental state is access-conscious when its content can be freely used by cognitive systems—for reasoning, report, memory, and action. Access consciousness is functional: defined by what information can do, not how it feels. [Global Workspace Theory](/concepts/global-workspace-theory/) models access consciousness as information "broadcast" to multiple cognitive modules.
+**[access-consciousness](/concepts/access-consciousness/)**—information globally available for reasoning, report, and behavioural control—is modelled by [Global Workspace Theory](/concepts/global-workspace-theory/) as broadcast to multiple cognitive modules. That this broadcast enables flexible cognition is uncontroversial; the question is whether it requires phenomenal experience.
 
-**Executive function and working memory** involve controlled, effortful processing—holding information in mind, inhibiting prepotent responses, switching between tasks, monitoring performance. [Working memory](/concepts/working-memory/) capacity (the famous 7±2 items; Miller 1956) measures how many pieces of information can be simultaneously maintained. Executive function is neurologically localised (primarily prefrontal cortex) and measurable through behavioural tasks.
-
-These three often coincide in normal human experience: when information enters working memory for deliberate reasoning, it typically becomes both access-conscious (globally available) and phenomenally conscious (there's something it's like to think about it). But they can dissociate. You might phenomenally experience a background hum without it being access-conscious. Conversely, some theorists propose that computational systems could have access consciousness—information globally available for processing—without phenomenal consciousness.
-
-The amplification thesis applies differently to each:
-
-- **For phenomenal consciousness**: The question is whether felt qualities themselves causally influence neural processing, or whether they're epiphenomenal byproducts. This is what the evolutionary argument targets.
-- **For access consciousness**: That information broadcast enables flexible cognition is uncontroversial—the question is whether this functional role requires phenomenal experience or could be implemented in unconscious systems.
-- **For executive function**: That working memory and cognitive control enable complex reasoning is empirically established. The question is what relationship these functions have to phenomenal consciousness—do they cause it, constitute it, merely correlate with it?
+**Executive function and [working-memory](/concepts/working-memory/)**—controlled, effortful processing including holding information in mind and inhibiting prepotent responses. That these enable complex reasoning is empirically established. The question is their relationship to phenomenal consciousness: causal, constitutive, or merely correlative.
 
 ## The Baseline Cognition Hypothesis
 
-Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons can achieve without substantial conscious contribution. The [consciousness threshold](/topics/consciousness-and-intelligence/) hypothesis frames this as a phase transition: consciousness shifts from accompanying cognition to actively reshaping it at a critical level of neural complexity. The baseline cognition concept provides the complementary framework to amplification: it characterises the starting point from which consciousness amplifies, showing what domain-specific excellence looks like before metarepresentational capacities are added. This isn't to deny great ape consciousness; they likely have genuine phenomenal experience. But the hypothesis proposes their consciousness may differ qualitatively from human consciousness in ways that limit cognitive amplification.
+Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cognition/)—what neurons achieve without substantial conscious contribution. The [consciousness threshold](/topics/consciousness-and-intelligence/) hypothesis frames this as a phase transition: at a critical level of neural complexity, consciousness shifts from accompanying cognition to actively reshaping it. Great apes likely have genuine phenomenal experience, but the hypothesis proposes their consciousness differs qualitatively in ways that limit cognitive amplification.
 
-Evidence supporting this framework:
+**Working memory capacity**: Chimpanzee working memory estimates vary—2±1 items for abstract tasks, though Inoue & Matsuzawa (2007) found chimps briefly holding sequences of 9 numerals. Human capacity of 7±2 items implies expanded conscious access if manipulation requires consciousness (as [Global Workspace Theory](/concepts/global-workspace-theory/) suggests), enabling simultaneous comparison, manipulation, and flexible combination of representations.
 
-**Working memory capacity**: Estimates of chimpanzee working memory vary—some studies suggest 2±1 items for abstract tasks, though Inoue & Matsuzawa (2007) found chimps could briefly hold sequences of 9 numerals. Human working memory holds 7±2 items in most tasks. Whatever the precise gap, expanded [working memory](/concepts/working-memory/) capacity implies expanded conscious access if manipulation requires consciousness (as [Global Workspace Theory](/concepts/global-workspace-theory/) suggests). The additional capacity enables holding multiple representations simultaneously for comparison, manipulation, and flexible combination—operations that transform cognition.
+**Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This metarepresentational capacity may require phenomenal consciousness.
 
-**Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—they recognise uncertainty, seek information when needed, understand others' goals and knowledge states. But this appears to be *procedural* metacognition: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we can represent our knowledge *as* knowledge, take our beliefs as objects of thought, know that we know. This metarepresentational capacity may require phenomenal consciousness, not merely functional processing.
+**The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). Cumulative culture requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
 
-**The Jourdain Hypothesis**: Great apes have culture—tool-use traditions, grooming patterns, vocalisations that vary between groups—but may not *know* they have culture. As Whiten (2015) argues, they express cultural traditions without representing these as "our way of doing things" subject to deliberate modification and transmission. Cumulative culture requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within what Tomasello calls the "zone of latent solutions"—the existing cognitive repertoire without genuine accumulation.
-
-**Logical reasoning requires consciousness**: Empirical research (Lieberman et al. 2008; De Neys & Glumicic 2008) demonstrates that rule-based logical reasoning specifically depends on conscious processing. Cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Unconscious processing excels at pattern recognition, associative learning, and rapid categorisation. But explicit rule-following—"if P then Q, P, therefore Q"—requires conscious manipulation of representations.
+**Logical reasoning requires consciousness**: Lieberman et al. (2008) and De Neys & Glumicic (2008) demonstrate that cognitive load disrupting conscious attention impairs logical reasoning; disrupting unconscious processes does not. Explicit rule-following requires conscious manipulation of representations.
 
 ## How Consciousness Amplifies
 
@@ -90,64 +80,41 @@ The amplification isn't magical. It operates through identifiable mechanisms:
 
 ### Flexible Access
 
-[Global Workspace Theory](/concepts/global-workspace-theory/) provides the best-developed account. Unconscious processing is modular—specialised systems operating in parallel on domain-specific problems. Consciousness broadcasts information globally, making it available to multiple cognitive systems simultaneously. A visual perception, once conscious, can inform motor planning, verbal report, memory encoding, and emotional evaluation—all at once.
-
-This broadcasting enables flexible deployment: the same information can serve different purposes depending on current goals. Unconscious processing, however sophisticated, remains domain-bound; conscious processing enables cross-domain integration.
+[Global Workspace Theory](/concepts/global-workspace-theory/) provides the best-developed account. Unconscious processing is modular—specialised systems operating in parallel on domain-specific problems. Consciousness broadcasts information globally, making it available to multiple systems simultaneously. A visual perception, once conscious, can inform motor planning, verbal report, memory encoding, and emotional evaluation at once. Unconscious processing remains domain-bound; conscious processing enables cross-domain integration.
 
 ### Working Memory Manipulation
 
-The [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction) is crucial. Unconscious processing can *maintain* information—synaptic traces holding patterns without active firing. But *manipulation* requires consciousness. To compare two items, rearrange a mental image, or combine concepts into novel structures, you must bring content into conscious awareness.
-
-This explains why working memory capacity correlates with intelligence measures. Larger capacity means more simultaneous representations available for manipulation. The expansion from 2±1 to 7±2 items isn't just more storage—it's exponentially more possible combinations, comparisons, and transformations.
+The [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction) is crucial. Unconscious processing can *maintain* information, but *manipulation* requires consciousness—comparing items, rearranging mental images, combining concepts into novel structures. The expansion from 2±1 to 7±2 items isn't just more storage—it's exponentially more possible combinations, comparisons, and transformations.
 
 ### Metacognitive Monitoring
 
-[Metacognition](/concepts/metacognition/) enables self-correction. You can notice when reasoning goes wrong, recognise uncertainty, adjust strategies based on feedback about your own cognitive states. This monitoring appears to require conscious access—you cannot metacognitively evaluate processes you're unaware of.
-
-The training evidence supports this. Meditators with thousands of hours of practice show dramatically better introspective accuracy than novices (Fox et al. 2012). If metacognition were merely computational, such training should be impossible—you can't make a computer more aware of its own states through practice. But conscious attention to conscious states improves metacognitive capacity, suggesting genuine causal involvement.
+[Metacognition](/concepts/metacognition/) enables self-correction—noticing when reasoning goes wrong, recognising uncertainty, adjusting strategies. This monitoring requires conscious access: you cannot metacognitively evaluate processes you're unaware of. Meditators with thousands of hours of practice show dramatically better introspective accuracy than novices (Fox et al. 2012), suggesting conscious attention to conscious states genuinely improves metacognitive capacity.
 
 ### Counterfactual Thinking
 
-Human cognition uniquely involves imagining situations that don't exist. We ask "what if?"—learning from hypothetical alternatives, planning for future states we don't currently experience, evaluating actions by their possible consequences. This mental simulation appears to require conscious representation—explicitly imagining oneself in counterfactual scenarios.
-
-The Bischof-Köhler hypothesis (Suddendorf & Corballis 2007) suggests animals cannot act on drive states they don't currently possess. A sated animal won't store food for future hunger because it cannot consciously represent that future need-state. Humans transcend this limitation through conscious simulation—we can imagine being hungry tomorrow even while full today.
+Human cognition uniquely involves imagining situations that don't exist—learning from hypothetical alternatives, planning for future states, evaluating actions by possible consequences. The Bischof-Köhler hypothesis (Suddendorf & Corballis 2007) suggests animals cannot act on drive states they don't currently possess: a sated animal won't store food for future hunger. Humans transcend this through conscious simulation of counterfactual scenarios.
 
 ## The Evolutionary Argument
 
-William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this argument formally; the amplification hypothesis strengthens it with empirical evidence. The [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) provides the complementary physical argument: if consciousness amplifies cognition through quantum mechanisms, evolution would have specifically optimised neural architecture to support those mechanisms—just as it optimised cryptochrome proteins for quantum magnetoreception.
+William James argued in 1890 that consciousness must be causally efficacious to be selected by evolution. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) develops this formally; the [evolutionary case for quantum neural effects](/topics/evolutionary-case-for-quantum-neural-effects/) provides the complementary physical argument.
 
-If consciousness were [epiphenomenal](/concepts/epiphenomenalism/)—causally inert—then:
-1. Human-level intelligence should be achievable through neural complexity alone
-2. Great apes should show no systematic gap in capacities tied to conscious processing
-3. The correlation between expanded consciousness and expanded intelligence would be coincidental
+If consciousness were [epiphenomenal](/concepts/epiphenomenalism/), then human-level intelligence should be achievable through neural complexity alone, and great apes should show no systematic gap in consciousness-dependent capacities. Neither prediction holds. Great apes are sophisticated within the baseline but limited precisely where consciousness appears required—logical reasoning, metarepresentation, cumulative culture, counterfactual thinking. The gap tracks consciousness-dependent capacities systematically.
 
-None of these predictions hold. Great apes show precisely the pattern expected if consciousness causally amplifies cognitive capacity: sophisticated within the baseline, limited precisely where consciousness appears required—logical reasoning, metarepresentation, cumulative culture, counterfactual thinking.
-
-The gap is not random. It tracks consciousness-dependent capacities. This systematic pattern requires explanation. The simplest explanation: consciousness does the amplifying work.
-
-The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once we accept that phenomenal consciousness is ontologically separate from its neural correlates. If the painfulness of pain is something beyond the neural state that produces pain behaviour, then the correlation between phenomenal character and adaptive value becomes puzzling. As a 2024 review in *Neuroscience of Consciousness* argues: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
+The epiphenomenalist response—that neural systems causing both consciousness and adaptive behaviour are selected together—becomes implausible once phenomenal consciousness is ontologically separate from its neural correlates. As Doerig et al. (2024) argue in *Neuroscience of Consciousness*: "Any endeavor to construct a physical theory of consciousness based on emergence within the framework of classical physics leads to causally impotent conscious experiences in direct contradiction to evolutionary theory."
 
 ## The Illusionist Challenge
 
-[Illusionists](/concepts/illusionism/) might respond that what seems like conscious amplification is really unconscious processing that generates the *illusion* of conscious contribution. We experience ourselves as reasoning consciously, but the actual work happens below awareness.
+[Illusionists](/concepts/illusionism/) might respond that conscious amplification is really unconscious processing generating the *illusion* of conscious contribution. This faces several difficulties:
 
-This response faces several difficulties.
+**The empirical evidence**: Disrupting conscious processing specifically impairs logical reasoning; disrupting unconscious processing does not (Lieberman et al. 2008; De Neys & Glumicic 2008). If reasoning were really unconscious, the pattern should reverse.
 
-**The empirical evidence**: The Lieberman and De Neys studies controlled for this. Disrupting conscious processing specifically impaired logical reasoning; disrupting unconscious processing did not. If logical reasoning were really unconscious, the pattern should reverse.
+**The training problem**: If conscious amplification is illusory, metacognitive training shouldn't work. But contemplative traditions demonstrate that sustained attention to conscious states improves cognitive performance.
 
-**The training problem**: If conscious amplification is illusory, metacognitive training shouldn't work. But contemplative traditions demonstrate that sustained attention to conscious states improves cognitive performance. Either the training effect is also illusory (requiring explanation of what's really changing), or conscious access genuinely contributes.
+**The baseline pattern**: The systematic correspondence between consciousness-requiring tasks and the human-ape gap needs independent explanation if consciousness is causally inert.
 
-**The baseline pattern**: If consciousness is epiphenomenal, the systematic correspondence between consciousness-requiring tasks and the human-ape gap needs independent explanation. Why would causally inert consciousness track exactly those capacities that distinguish human from great ape cognition?
+**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary—effortful reasoning, insight, deliberate manipulation. If these are illusions, something must generate them, and that something is either conscious or requires further explanation.
 
-**The regress problem**: Explaining the *appearance* of conscious contribution requires phenomenal vocabulary—effortful reasoning, insight, deliberate manipulation. If these are illusions, something must generate them. That something is either conscious (so consciousness isn't eliminated) or requires further explanation of how unconscious processes produce conscious-seeming appearances.
-
-### Frankish's Quasi-Phenomenal Response
-
-Keith Frankish's sophisticated version of illusionism (Frankish 2016) proposes that what seems like phenomenal consciousness is actually quasi-phenomenal properties—functional states that represent themselves as having phenomenal character without actually possessing it.
-
-But the amplification evidence creates a specific problem for quasi-phenomenalism. The correlation between "tasks that feel conscious" and "tasks that distinguish humans from great apes" would be coincidental—an unexplained systematic alignment between two independent phenomena.
-
-More directly: the quasi-phenomenal framework must explain why disrupting quasi-phenomenal representations impairs logical reasoning while leaving pattern recognition intact. If quasi-phenomenal states are just functional representations with no special cognitive role, this differential impairment is puzzling. The simpler explanation: the phenomenal states illusionists aim to eliminate are the states doing the amplifying work.
+Frankish's (2016) quasi-phenomenal response—that functional states represent themselves as phenomenal without being so—faces a specific problem: the correlation between "tasks that feel conscious" and "tasks that distinguish humans from great apes" would be coincidental. The quasi-phenomenal framework must also explain why disrupting these representations impairs logical reasoning while leaving pattern recognition intact.
 
 ## The Decoherence Challenge
 
@@ -157,35 +124,13 @@ This challenge applies to the amplification hypothesis only if amplification req
 
 ## Proposed Physical Mechanisms {#proposed-physical-mechanisms}
 
-If consciousness acts at the quantum level—as the Minimal Quantum Interaction tenet proposes—the amplification chain must bridge at least five orders of spatial magnitude, from subnanometre quantum events to centimetre-scale neural networks. Research identifies [six distinct mechanisms](/topics/amplification-mechanisms-consciousness-physics/) addressing different links in this chain. No single mechanism spans the full gap; they are best understood as candidate solutions operating at different scales.
+If consciousness acts at the quantum level, the amplification chain must bridge at least five orders of spatial magnitude. Research identifies [six distinct mechanisms](/topics/amplification-mechanisms-consciousness-physics/) addressing different links in this chain: microtubule-mediated collapse (Penrose & Hameroff 2014), quantum Zeno stabilisation (Stapp 2009), synaptic tunnelling (Beck & Eccles 1992), chaotic sensitivity amplification, self-organised criticality, and stochastic resonance.
 
-**Microtubule-mediated collapse** (Penrose & Hameroff 2014). Collective dipole oscillations across tubulin networks create coherent quantum states. Superpositions grow over approximately 500 milliseconds until gravitational self-energy triggers objective reduction. The microtubule geometry itself serves as amplification architecture—quantum coherence at the protein level scales to coordinated activity across tubulin networks. Hagan et al. (2002) challenged Tegmark's decoherence calculations, yielding corrected estimates seven orders of magnitude longer than the original.
-
-**Quantum Zeno stabilisation** (Stapp 2009). Mental effort acts as repeated quantum observation, holding desired neural firing patterns in place through the quantum Zeno effect. Consciousness does not inject energy but sustains patterns that would otherwise decohere. The amplification is temporal: by stabilising a neural template, consciousness allows conventional neural dynamics to execute the intended action. This mechanism operates at whole-brain scale rather than individual synapses.
-
-**Synaptic tunnelling** (Beck & Eccles 1992; Walker 2000). Consciousness biases quantum tunnelling probability at synaptic vesicle release sites, modulating the likelihood of neurotransmitter exocytosis. Amplification proceeds in two stages: quantum-to-molecular (tunnelling bias) and molecular-to-macroscopic (electrochemical cascade). Thousands of synapses per pyramidal cell provide parallel amplification channels. The Beck-Eccles prediction of temperature-independent exocytosis was experimentally falsified, weakening this specific model without invalidating the general strategy.
-
-**Chaotic sensitivity amplification**. Neural systems operate near chaotic regimes where sensitivity to initial conditions means quantum-level perturbations at critical bifurcation points cascade through nonlinear dynamics into macroscopically different brain states. The brain's chaotic dynamics function as a natural amplifier—the butterfly effect applied to neural firing. Some authors note that damping due to friction may wash out quantum effects before significant amplification occurs.
-
-**Self-organised criticality** (SOC). The brain operates near a critical point between order and chaos, where perturbations at any scale have a non-negligible probability of producing effects at much larger scales. Neural avalanches follow power-law distributions—empirically confirmed in neural recordings—and avalanche characteristics correlate with states of consciousness. Quantum coherence at tubulin level could propagate through these scale-free critical dynamics, bridging the sub-neuronal and network levels.
-
-**Stochastic resonance**. Random noise—including quantum noise—enhances detection of subthreshold signals in nonlinear systems. Neural tissue exhibits stochastic resonance in sensory processing. Quantum fluctuations could provide the noise that pushes subthreshold conscious influences over detection thresholds. Counterintuitively, the brain's thermal environment might amplify quantum effects rather than destroy them.
-
-These mechanisms are not mutually exclusive. The amplification chain likely requires different solutions at different scales: quantum-to-molecular (tunnelling, collapse), molecular-to-cellular (ion channels, neurotransmitter release), and cellular-to-network (chaotic sensitivity, SOC avalanches). No complete chain from quantum to macroscopic has been experimentally validated—this gap is precisely the [amplification void](/voids/amplification-void/), which may be structurally necessary given the minimality of the proposed interaction.
+These mechanisms are not mutually exclusive—the chain likely requires different solutions at different scales: quantum-to-molecular (tunnelling, collapse), molecular-to-cellular (ion channels, neurotransmitter release), and cellular-to-network (chaotic sensitivity, SOC avalanches). No complete chain from quantum to macroscopic has been experimentally validated—this gap is precisely the [amplification void](/voids/amplification-void/), which may be structurally necessary given the minimality of the proposed interaction. See [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) for detailed analysis of each pathway.
 
 ## Contemplative Evidence
 
-Contemplative traditions report experiences consistent with amplification. [Witness consciousness](/concepts/witness-consciousness/) involves stepping back from cognitive content while remaining aware—observing thoughts rather than thinking them.
-
-Meditators describe increased metacognitive clarity: thoughts arise and pass more visibly; the gap between stimulus and response becomes more apparent; automatic reactions can be interrupted and redirected. If consciousness amplifies through flexible deployment and metacognitive monitoring, contemplative training enhances exactly these capacities.
-
-Buddhist psychology distinguishes consciousness (*vijñāna*) from mental factors (*cetasika*). Among the 52 factors, *manasikāra* (attention) directs consciousness toward objects; *vitakka* and *vicāra* (applied and sustained thought) enable deliberate manipulation. The analysis distinguishes mere mental activity from conscious mental activity, with the latter enabling operations the former cannot perform—paralleling the amplification hypothesis.
-
-## Process Philosophy Perspective
-
-Alfred North Whitehead's process philosophy treats experience as fundamental—reality consists of "actual occasions" that arise, achieve satisfaction, and perish. Conscious cognition involves high-complexity occasions that *prehend* (grasp, feel) outcomes of previous occasions, integrating diverse experiences into unified wholes. Amplification arises from this integration: consciousness binds disparate cognitive products into coherent representations.
-
-Whitehead's framework also explains why consciousness amplifies rather than replaces neural processing. The neural substrate provides the "physical pole"—input from prior processes. Consciousness provides the "mental pole"—the capacity to respond creatively, select among possibilities, aim at novel outcomes. Neither pole alone constitutes cognition; amplification emerges from their integration.
+Contemplative traditions report experiences consistent with amplification. [Witness consciousness](/concepts/witness-consciousness/)—stepping back from cognitive content while remaining aware—and the increased metacognitive clarity meditators describe (thoughts arising more visibly, the gap between stimulus and response becoming more apparent) are precisely the capacities the amplification hypothesis predicts would improve with training. Buddhist psychology's distinction between consciousness (*vijñāna*) and mental factors (*cetasika*)—where *manasikāra* (attention) and *vitakka*/*vicāra* (applied and sustained thought) enable deliberate manipulation—parallels the amplification framework.
 
 ## Implications for AI
 
@@ -195,31 +140,25 @@ This doesn't prove AI cannot achieve human-level cognition. It suggests doing so
 
 ## What Would Challenge This View?
 
-Several findings would substantially weaken the consciousness-as-amplifier hypothesis:
+Several findings would substantially weaken this hypothesis:
 
-1. **Logical reasoning without consciousness**: If experiments demonstrated that logical reasoning proceeds normally under conditions eliminating conscious access, the specific linkage between consciousness and rule-based cognition would fail. Current evidence shows the opposite.
-
-2. **Great apes achieving human-level cognition**: If enhanced training enabled great apes to develop cumulative culture, logical reasoning, or counterfactual thinking without apparent consciousness expansion, this would undermine the correlation. Currently, the gap persists despite extensive research and training efforts.
-
-3. **Working memory expansion without cognitive amplification**: If pharmaceutical or technological enhancement of working memory capacity produced no corresponding improvement in reasoning, metacognition, or flexible cognition, the linkage would weaken. Current evidence shows working memory capacity predicts cognitive performance across domains.
-
-4. **Successful illusionist explanation**: If neuroscience identified mechanisms generating the illusion of conscious amplification without any genuine consciousness contribution—explaining the training effects, the systematic pattern, the phenomenology—the amplification hypothesis would lose force. Current illusionist accounts cannot explain these features.
-
-5. **AI achieving human-level cognition without consciousness**: If artificial systems replicated the full range of human cognitive capacities while being demonstrably non-conscious, this would show consciousness is unnecessary for such capacities. Current AI, while impressive, cannot replicate the flexibility, metacognition, and counterfactual reasoning that characterise human cognition.
+1. **Logical reasoning without consciousness**: Experiments showing logical reasoning proceeds normally without conscious access would break the specific linkage. Current evidence shows the opposite.
+2. **Great apes achieving human-level cognition**: Enhanced training enabling cumulative culture or counterfactual thinking without consciousness expansion would undermine the correlation. The gap persists despite extensive efforts.
+3. **Working memory expansion without cognitive amplification**: Enhanced working memory capacity producing no improvement in reasoning or metacognition would weaken the linkage. Current evidence shows capacity predicts performance across domains.
+4. **Successful illusionist explanation**: Neuroscience identifying mechanisms that generate the illusion of conscious amplification while explaining the training effects and systematic pattern.
+5. **AI achieving human-level cognition without consciousness**: Artificial systems replicating the full range of human cognitive capacities while being demonstrably non-conscious.
 
 ## Relation to Site Perspective
 
 ### Dualism
 
-The [Dualism](/tenets/#dualism) tenet holds consciousness is irreducible to physical processes. The amplification hypothesis supports this: if consciousness genuinely amplifies cognition—contributing something neural processing alone cannot achieve—then consciousness has causal powers not derivable from physics. The systematic correspondence between consciousness-requiring capacities and the human-ape gap suggests consciousness adds something genuine. If consciousness were "just" brain activity, why would specifically conscious brain activity produce such distinctive effects?
-
-The stronger case for [interactionist dualism](/concepts/interactionist-dualism/) requires showing that phenomenal consciousness specifically—not just its functional or neural correlates—makes a causal difference. The evolutionary argument targets this: if phenomenal consciousness is ontologically distinct from neural activity (as the [explanatory gap](/concepts/explanatory-gap/) suggests), and if it evolved, then it plausibly provides functional advantages selection preserved.
+The [Dualism](/tenets/#dualism) tenet holds consciousness is irreducible to physical processes. If consciousness genuinely amplifies cognition—contributing something neural processing alone cannot achieve—then it has causal powers not derivable from physics. The case for [interactionist dualism](/concepts/interactionist-dualism/) requires showing phenomenal consciousness specifically makes a causal difference. The evolutionary argument targets this: if phenomenal consciousness is ontologically distinct from neural activity (as the [explanatory gap](/concepts/explanatory-gap/) suggests), and if it evolved, then it plausibly provides functional advantages selection preserved.
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences the physical world. The amplification hypothesis provides a specific account of *how* at two levels. At the cognitive level: through flexible deployment of cognitive resources, metacognitive monitoring, and counterfactual simulation—identifiable contributions to processing. At the physical level: through the [proposed amplification mechanisms](#proposed-physical-mechanisms) that bridge quantum-scale conscious influence to macroscopic neural effects—microtubule-mediated collapse, quantum Zeno stabilisation, synaptic tunnelling, chaotic sensitivity, self-organised criticality, and stochastic resonance. The cognitive account explains *what* consciousness contributes; the physical mechanisms address *how* that contribution propagates through the brain.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences the physical world. The amplification hypothesis provides a specific account at two levels: cognitively, through flexible deployment, metacognitive monitoring, and counterfactual simulation; physically, through the [proposed amplification mechanisms](#proposed-physical-mechanisms) bridging quantum-scale influence to macroscopic neural effects.
 
-But asserting causal efficacy raises the exclusion problem: if every neural event has a sufficient physical cause, how can consciousness contribute without overdetermination? [Causal delegation](/concepts/causal-delegation/) (Saad 2025) provides the answer: consciousness *takes over* causal work that neural states would otherwise perform, through [preemption](/concepts/preemption/) rather than duplication. The physical state delegates its causal responsibilities to the experience. Amplification is not an additional cause layered atop neural processing—it is consciousness exercising the causal role that the neural substrate yields.
+The exclusion problem—if every neural event has a sufficient physical cause, how can consciousness contribute?—is addressed by [causal delegation](/concepts/causal-delegation/) (Saad 2025): consciousness *takes over* causal work through [preemption](/concepts/preemption/) rather than duplication. Amplification is not an additional cause layered atop neural processing but consciousness exercising the causal role the neural substrate yields.
 
 ### Minimal Quantum Interaction
 
@@ -233,9 +172,7 @@ The [phenomenology of deliberate reasoning](/concepts/phenomenology-of-choice-an
 
 ### Occam's Razor Has Limits
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against premature parsimony. The simplest hypothesis—consciousness is epiphenomenal, the human-ape gap reflects neural complexity alone—fails the evidence. The systematic pattern, the empirical studies, the training effects, the evolutionary argument all point toward genuine causal contribution. Sometimes reality is less parsimonious than we'd like. The amplification hypothesis requires positing consciousness as a genuine causal factor; the evidence warrants this additional complexity.
-
-Epiphenomenalism appears "simpler" because it doesn't posit mental causation. But this apparent simplicity creates puzzles: why does phenomenal character systematically track adaptive value? Why do we accurately report on qualia if qualia are causally inert? Why would evolution produce and maintain phenomenal consciousness if it does nothing? Adding mental causation resolves these puzzles. The ontologically richer theory may be explanatorily simpler than the austere alternative.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against premature parsimony. Epiphenomenalism appears "simpler" because it doesn't posit mental causation, but this creates puzzles: why does phenomenal character systematically track adaptive value? Why do we accurately report on qualia if they're causally inert? Why would evolution maintain phenomenal consciousness if it does nothing? Adding mental causation resolves these puzzles. The ontologically richer theory may be explanatorily simpler than the austere alternative.
 
 ## Further Reading
 
@@ -283,19 +220,3 @@ Epiphenomenalism appears "simpler" because it doesn't posit mental causation. Bu
 1. Walker, E.H. (2000). *The Physics of Consciousness: The Quantum Mind and the Meaning of Life*. Perseus.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.
-
-<!-- AI REFINEMENT LOG - 2026-04-02
-Changes made:
-- Added "Proposed Physical Mechanisms" section cataloguing six amplification pathways from research notes (microtubule-mediated collapse, quantum Zeno stabilisation, synaptic tunnelling, chaotic sensitivity, self-organised criticality, stochastic resonance)
-- Updated Decoherence Challenge section to reference the new mechanisms section instead of a passing mention
-- Strengthened Bidirectional Interaction tenet section to distinguish cognitive-level and physical-level accounts of amplification
-- Added amplification-void and research notes to Further Reading
-- Added Beck & Eccles, Hagan et al., Hameroff & Penrose, Stapp, Tegmark, and Walker references
-- Added amplification-void concept and research notes to frontmatter
-- Updated amplification-void.md cross-reference to reflect new mechanisms catalogue
-
-Based on integration of research/amplification-mechanisms-consciousness-physics-2026-03-18.md.
-Key improvements: concrete physical mechanism detail strengthening Tenet 3 (Bidirectional Interaction).
-
-This log should be removed after human review.
--->

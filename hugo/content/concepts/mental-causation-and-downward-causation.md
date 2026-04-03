@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-04-02 21:38:00+00:00
+ai_modified: 2026-04-02 22:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ description: How mental states cause physical effects despite Kim's exclusion ar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 05:48:00+00:00
+last_deep_review: 2026-04-02 22:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -178,7 +178,7 @@ If consciousness causes physical effects, why only in *this* brain? The [pairing
 
 ## Empirical Evidence: Clinical Neuroplasticity
 
-The philosophical arguments gain empirical traction from [clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Schwartz's OCD programme showed that purely cognitive intervention normalises caudate nucleus metabolism on PET imaging (Schwartz et al., 1996), but the study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and lacks a head-to-head comparison with standard exposure-response prevention therapy. The mainstream materialist explanation—changed behaviour alters neural activation through Hebbian learning without requiring non-physical causation—fits the same data. More broadly, meta-analyses reveal that CBT and pharmacotherapy produce comparable outcomes through *different neural pathways*—CBT top-down from cortex, pharmacotherapy bottom-up from synapse. If mental causation were merely physical causation redescribed, both should converge on the same route, though the physicalist can reply that different physical inputs naturally take different physical routes.
+The philosophical arguments gain empirical traction from [clinical neuroplasticity research](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Schwartz's OCD programme showed that cognitive-behavioural intervention (without medication) normalises caudate nucleus metabolism on PET imaging (Schwartz et al., 1996), but the study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and lacks a head-to-head comparison with standard exposure-response prevention (ERP) therapy that shares the method's core behavioural elements. The mainstream materialist explanation—changed behaviour alters neural activation through Hebbian learning without requiring non-physical causation—fits the same data. More broadly, meta-analyses reveal that CBT and pharmacotherapy produce comparable outcomes through *different neural pathways*—CBT top-down from cortex, pharmacotherapy bottom-up from synapse. If mental causation were merely physical causation redescribed, both should converge on the same route, though the physicalist can reply that different physical inputs naturally take different physical routes.
 
 Placebo effects reinforce the point: belief states with propositional content recruit specific neurochemical systems, with different beliefs producing different neural signatures. This [content-specificity](/concepts/content-specificity-of-mental-causation/)—meaning determining which physical effect occurs—is difficult to accommodate if mental descriptions lack genuine causal efficacy. The philosophical case for downward causation stands on the arguments developed here independently of clinical evidence quality.
 
@@ -253,7 +253,6 @@ Mental causation and downward causation are central to the Map's framework.
 1. Lowe, E.J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
 1. O'Connor, T. & Wong, H.Y. (2005). The Metaphysics of Emergence. *Noûs*, 39: 658-678.
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
-1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
 1. Schwartz, J. M., Stoessel, P. W., Baxter, L. R. Jr., Martin, K. M., & Phelps, M. E. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109-113.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-31 23:38:00+00:00
+ai_modified: 2026-04-02 23:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[post-decoherence-selection]]'
 created: 2026-02-19
-date: &id001 2026-03-29
+date: &id001 2026-04-02
 description: Can experiments distinguish consciousness-driven collapse from decoherence?
   Predictions fall into three tiers—collapse existence, consciousness-dependence,
   and logical constraints—with the consciousness-specific tier remaining the hardest
@@ -137,9 +137,9 @@ Tier 2 distinguishes consciousness-collapse from objective collapse models that 
 
 Kremnizer and Ranchin (2015) constructed the first formal CSL variant where the collapse operator depends on [integrated information](/concepts/integrated-information-theory/) (Φ). Systems exceeding a Φ threshold undergo spontaneous localisation; systems below it remain in superposition. This produces an empirically adequate scheme: macroscopic conscious systems collapse as observed, while microscopic systems maintain coherence.
 
-**Testable prediction:** Superpositions of states with *different* Φ values should collapse faster than superpositions of states with *equal* Φ values. A quantum circuit with high integrated feedback should lose coherence faster than a physically identical circuit with modular, feedforward architecture.
+**Testable prediction:** Superpositions of states with *different* Φ values should collapse faster than superpositions of states with *equal* Φ values. Chalmers and McQueen (2021) identify quantum computer experiments as the most promising near-term platform: a quantum circuit with high integrated feedback (recurrent connections creating information integration) should lose coherence faster than a physically identical circuit with modular, feedforward architecture. The two circuits share the same mass, temperature, and environmental coupling — they differ only in information architecture. Any divergence in collapse rates would therefore implicate information integration specifically, not physical properties.
 
-**Current status:** Not yet testable — requires measuring Φ in quantum systems, which faces the same computational intractability as Q-shapes (below). However, the Phi-threshold model directly implements the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness does not intervene everywhere, only where integrated information is sufficient. This selectivity is a feature, not a limitation.
+**Current status:** Not yet testable — requires measuring Φ in quantum systems, which faces the same computational intractability as Q-shapes (below). However, quantum computer platforms are approaching the regime where variable-Φ circuits could be constructed with sufficient isolation to detect differential collapse, making this the closest Tier 2 prediction to experimental reach. The Phi-threshold model directly implements the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: consciousness does not intervene everywhere, only where integrated information is sufficient. This selectivity is a feature, not a limitation.
 
 **Limitation:** Chalmers and McQueen (2021) identified the *equal-Phi problem*: a collapse operator depending only on scalar Φ would allow superpositions of distinct conscious states with equal Φ to persist indefinitely — a phenomenologically unacceptable result. This motivates the Q-shape extension below.
 
@@ -167,9 +167,21 @@ If consciousness participates in collapse, suppressing it pharmacologically shou
 
 **Current status:** No experiment has attempted this. Anaesthesia alters brain dynamics sufficiently that attributing differences to absent consciousness (rather than changed physical conditions) faces the confound of embodiment.
 
+### Selective Quantum Coherence Disruption
+
+Kleiner and Hoel (2024) propose an inverse test: rather than checking whether consciousness triggers collapse, check whether disrupting quantum coherence in neural tissue disrupts consciousness. If consciousness depends on quantum processes, selectively suppressing quantum coherence in specific brain regions — while preserving classical neural function — should diminish or alter conscious experience. This complements standard consciousness-collapse tests by probing the other direction of the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet.
+
+**Current status:** Conceptual. Distinguishing quantum-coherence disruption from classical neural disruption faces the same confound of embodiment as anaesthesia tests — any intervention that disrupts quantum coherence also alters classical dynamics. However, if a method could suppress coherence without altering firing rates or metabolic activity, a resulting change in consciousness would constitute convergence evidence that quantum processes and consciousness are causally linked in both directions.
+
+### Attention-Based Selection (Stapp)
+
+Stapp's quantum Zeno approach proposes that conscious attention holds neural assemblies in specific quantum states through repeated observation, selecting which outcome actualises without adding new physics. Because it uses standard quantum mechanics without modified parameters, it makes no quantitative prediction that diverges from decoherence-only neuroscience. This is a principled limitation: the approach may be permanently empirically indistinguishable from classical accounts of attention.
+
+**What this means for Tier 2:** Stapp's framework aligns with the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet — the Zeno mechanism does not inject energy, only biases outcome selection. But its lack of novel predictions means it cannot contribute to the empirical programme catalogued here. The IIT-CSL approach (Chalmers-McQueen, Kremnizer-Ranchin) remains the only Tier 2 framework generating quantitative divergences from standard physics.
+
 ### Why Tier 2 Is Harder Than Tier 1
 
-Tier 1 involves measurable physical quantities. Tier 2 requires controlling *consciousness itself* as an independent variable — demanding either a validated consciousness metric (IIT's Φ is contested) or the ability to remove consciousness while holding physical conditions constant. This reflects the same structural feature generating the [hard problem](/topics/hard-problem-of-consciousness/): consciousness is always accessed from within a physical system that provides an alternative explanatory pathway.
+Tier 1 involves measurable physical quantities. Tier 2 requires controlling *consciousness itself* as an independent variable — demanding either a validated consciousness metric (IIT's Φ is contested) or the ability to remove consciousness while holding physical conditions constant. Some Tier 2 frameworks (Stapp) may be permanently indistinguishable from standard physics, while others (IIT-CSL) make novel predictions but face computational intractability. This reflects the same structural feature generating the [hard problem](/topics/hard-problem-of-consciousness/): consciousness is always accessed from within a physical system that provides an alternative explanatory pathway.
 
 ## Tier 3: Logical Constraints
 
@@ -206,10 +218,12 @@ The most promising general approach for separating collapse from decoherence is 
 | Q-shape collapse test (C-M) | 2 | Theoretical | Would test consciousness-structure-specific predictions |
 | Consciousness-dependent timing test | 2 | Conceptual | Would test consciousness-specific collapse timing |
 | Anaesthesia-modulated collapse test | 2 | Conceptual | Would test consciousness-specific participation |
+| Selective coherence disruption (K-H) | 2 | Conceptual | Would test inverse direction: quantum → consciousness |
+| Attention-based Zeno selection (Stapp) | 2 | Theoretical | No novel predictions; may be permanently indistinguishable |
 | Frauchiger-Renner argument | 3 | Logical | Forces interpretation choice |
 | Born rule observer-dependence | 3 | Logical | Consciousness structurally implicated |
 
-No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin Phi-threshold and Chalmers-McQueen Q-shape predictions remain the only tests targeting consciousness specifically — both requiring measurement of integrated information in quantum systems, which is currently intractable. The decoherence baseline and prediction sections above catalogue the specific points where these frameworks diverge from standard decoherence.
+No experiment has yet confirmed or refuted consciousness-collapse specifically. The simplest gravity-collapse model has been significantly constrained, though 2024 atomistic refinements opened new channels. CSL models remain viable but face increasingly precise bounds (Carlesso & Donadi, 2025). The Kremnizer-Ranchin Phi-threshold and Chalmers-McQueen Q-shape predictions remain the only Tier 2 tests generating quantitative divergences from standard physics — both requiring measurement of integrated information in quantum systems, which is currently intractable. Stapp's Zeno approach aligns with Tenet 2 but may be permanently indistinguishable from classical neuroscience. Kleiner and Hoel's (2024) inverse-direction test — selectively disrupting quantum coherence to observe effects on consciousness — offers a complementary probe but faces the same confound of embodiment.
 
 ## The Evidential Asymmetry and the Convergence Strategy
 
@@ -222,6 +236,7 @@ Supporting lines that would strengthen the case without being individually decis
 - Evidence that decoherence cannot solve the measurement problem — levitated nanoparticle experiments aim to test this directly
 - Discovery of quantum coherence effects in neural systems
 - Anomalous collapse dynamics in high Q-shape distance systems
+- Selective coherence disruption affecting consciousness without altering classical neural function — testing the inverse causal direction (Kleiner & Hoel, 2024)
 - Philosophical arguments that indexical facts require consciousness (see [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/))
 
 ## Why the Difficulty Is Informative
@@ -232,7 +247,9 @@ The persistent failure to design a clean consciousness-collapse experiment refle
 
 The three-tier prediction hierarchy maps directly onto the Map's [tenets](/tenets/).
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-threshold model directly implements this tenet: consciousness does not trigger collapse everywhere, only where integrated information exceeds a threshold, producing the smallest intervention consistent with definite outcomes. The minimality commitment has a double-edged relationship with the predictions catalogued here. On one hand, it explains why no differential prediction has yet been confirmed — minimal effects are the hardest to detect. On the other, it constrains which positive results the Map can claim: a large, dramatic consciousness-dependent effect would conflict with minimality as much as a null result would conflict with bidirectional interaction.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Tier 1 tests the precondition — if collapse is not real, consciousness has nothing to interact with. The Kremnizer-Ranchin Phi-threshold model directly implements this tenet: consciousness does not trigger collapse everywhere, only where integrated information exceeds a threshold, producing the smallest intervention consistent with definite outcomes. The quantum computer variable-Φ tests embody this minimality precisely — the proposed circuits differ only in information architecture, not in mass, temperature, or environmental coupling. Any detected divergence would implicate information integration as the operative variable, consistent with a minimal rather than gross intervention. Stapp's Zeno approach also satisfies minimality (no energy injection, only outcome selection) but at the cost of empirical distinctiveness — the mechanism may be too minimal to generate testable divergences from standard physics.
+
+The minimality commitment has a double-edged relationship with the predictions catalogued here. On one hand, it explains why no differential prediction has yet been confirmed — minimal effects are the hardest to detect. On the other, it constrains which positive results the Map can claim: a large, dramatic consciousness-dependent effect would conflict with minimality as much as a null result would conflict with bidirectional interaction.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly — does consciousness causally influence physical outcomes? Four experimental pathways bear on it: levitated nanoparticle experiments detecting mass-quadratic excess decoherence (confirming the physical collapse mechanism the Map argues consciousness modulates), the MAQRO mission (a genuine threat if superposition persists at decisive mass scales), the Kremnizer-Ranchin Phi-threshold test (probing whether integrated information correlates with collapse rates), and the Chalmers-McQueen Q-shape test (probing whether the *structure* of consciousness modulates collapse). The IIT-CSL programme provides the most direct path to testing bidirectional causal influence because it predicts a specific physical signature — Φ-correlated collapse rates — that no purely physical mechanism would produce.
 
@@ -266,10 +283,31 @@ The hierarchy's full implications must be acknowledged. If Tier 1 experiments pr
 9. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
 10. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
 11. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
-12. Kremnizer, K. & Ranchin, A. (2015). "Integrated Information-Induced Quantum Collapse." *Foundations of Physics*, 45(8), 889–899.
-13. Proietti, M. et al. (2019). "Experimental test of local observer independence." *Science Advances*, 5(9), eaaw9832.
-14. Schlosshauer, M. (2004). "Decoherence, the measurement problem, and interpretations of quantum mechanics." *Reviews of Modern Physics*, 76(4), 1267–1305.
-15. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
-16. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
-17. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
-18. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
+12. Kleiner, J. & Hoel, E. (2024). "Testing the Conjecture That Quantum Processes Create Conscious Experience." *Entropy*, 26(6), 460.
+13. Kremnizer, K. & Ranchin, A. (2015). "Integrated Information-Induced Quantum Collapse." *Foundations of Physics*, 45(8), 889–899.
+14. Proietti, M. et al. (2019). "Experimental test of local observer independence." *Science Advances*, 5(9), eaaw9832.
+15. Schlosshauer, M. (2004). "Decoherence, the measurement problem, and interpretations of quantum mechanics." *Reviews of Modern Physics*, 76(4), 1267–1305.
+16. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer.* Springer.
+17. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
+18. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+19. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
+20. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
+
+<!-- AI REFINEMENT LOG - 2026-04-02
+Changes made:
+- Enhanced Phi-Threshold section: made quantum computer variable-Φ experimental paradigm explicit (from both research notes)
+- Added Selective Quantum Coherence Disruption subsection (Kleiner & Hoel 2024): inverse-direction test probing quantum → consciousness causation
+- Added Attention-Based Selection (Stapp) subsection: acknowledged as Tenet 2-aligned but noted permanent empirical indistinguishability limitation
+- Expanded "Why Tier 2 Is Harder Than Tier 1" to note range from indistinguishable (Stapp) to novel-but-intractable (IIT-CSL)
+- Strengthened Tenet 2 (Minimal Quantum Interaction) alignment in Relation to Site Perspective: quantum computer tests embody minimality, Stapp illustrates too-minimal problem
+- Updated landscape table with 2 new entries (coherence disruption, Stapp Zeno)
+- Added inverse-direction test to convergence strategy supporting lines
+- Updated summary paragraph to reflect fuller Tier 2 landscape
+- Added references: Kleiner & Hoel (2024), Stapp (2007); fixed duplicate numbering
+
+Based on integration of research notes:
+- research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md
+- research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md
+
+This log should be removed after human review.
+-->
