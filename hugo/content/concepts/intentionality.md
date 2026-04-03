@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-29 21:09:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ title: Intentionality
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[ai-consciousness]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 ---
 
 Intentionality is the "aboutness" of mental states—their directedness toward objects, states of affairs, or contents. When you believe that snow is white, your belief is *about* snow. When you fear a spider, your fear is *directed at* the spider. This directedness is what philosophers call intentionality, and it remains one of [philosophy of mind](/concepts/philosophy-of-mind/)'s core puzzles.
@@ -121,7 +121,7 @@ Horgan and Tienson make the connection explicit: phenomenal consciousness is inh
 
 The connection between intentionality and meaning has deep roots. Grice argued that linguistic meaning depends on speaker intention; Searle's "connection principle" holds that all intentionality is either conscious or derivable from conscious states. The [philosophy of language and consciousness](/concepts/language-and-consciousness/) examines how these analyses reveal that consciousness resists the tools philosophy of language developed for ordinary discourse.
 
-The [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding-and-meaning/) (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience.
+The [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) (PCT) extends PIT to semantic content: meaning itself is constitutively phenomenal. To grasp a meaning *is* to have a certain kind of experience.
 
 PCT reinforces PIT with empirical evidence from [semantic memory](/concepts/semantic-memory/) research. The tip-of-the-tongue (TOT) state is revealing: you have the meaning without the phonological form. The semantic content is phenomenally present—you know what you mean—but the word won't come. This dissociation shows meaning has phenomenal character independent of linguistic expression.
 
@@ -129,7 +129,7 @@ The feeling of knowing (FOK) extends this: you feel confident you know something
 
 ### Understanding as Phenomenal Binding
 
-Why does intentionality require phenomenal consciousness? The [consciousness and semantic understanding](/topics/phenomenology-of-understanding-and-meaning/) analysis suggests a mechanistic answer: understanding complex content requires [*binding*](/concepts/binding-problem/) multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
+Why does intentionality require phenomenal consciousness? The [consciousness and semantic understanding](/topics/phenomenology-of-intellectual-life/) analysis suggests a mechanistic answer: understanding complex content requires [*binding*](/concepts/binding-problem/) multiple elements into unified semantic representations. "The dog chased the cat" means something different from "The cat chased the dog" despite identical elements—the binding is structured.
 
 Consciousness appears required for such binding. The maintenance/manipulation distinction shows that merely holding information can be unconscious, but actively combining information into new structures requires conscious access. Semantic binding is manipulation—integrating elements into structured wholes. If binding requires consciousness, so does intentionality toward complex contents.
 
@@ -241,7 +241,7 @@ Intentionality connects to all five foundational tenets:
 
 ## Further Reading
 
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Why meaning is constitutively phenomenal (the Phenomenal Constitution Thesis)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Does thinking itself have phenomenal character that grounds content?
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The phenomenal intentionality case applied to thought
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels

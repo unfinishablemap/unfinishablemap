@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-24 20:39:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -65,7 +65,7 @@ John Searle's Chinese Room argument (1980) posits a person manipulating Chinese 
 
 This connects to [intentionality](/concepts/intentionality/)—the "aboutness" of mental states. Computer symbols lack *original* intentionality; they're about things only because humans assigned meaning.
 
-The argument is heavily contested. The "systems reply" objects that the room-as-a-whole might understand; the "robot reply" grounds symbols through bodily interaction with the world. [Phenomenal Intentionality Theory](/concepts/intentionality/#phenomenal-intentionality-theory) (Horgan & Tienson 2002; Kriegel 2013) offers a response to both: genuine aboutness derives from consciousness itself, so a system lacking phenomenal consciousness has semantically empty symbols regardless of causal connections. The [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) reinforces this—understanding has distinctive phenomenal character that symbol manipulation lacks. See [intentionality](/concepts/intentionality/) for the full analysis.
+The argument is heavily contested. The "systems reply" objects that the room-as-a-whole might understand; the "robot reply" grounds symbols through bodily interaction with the world. [Phenomenal Intentionality Theory](/concepts/intentionality/#phenomenal-intentionality-theory) (Horgan & Tienson 2002; Kriegel 2013) offers a response to both: genuine aboutness derives from consciousness itself, so a system lacking phenomenal consciousness has semantically empty symbols regardless of causal connections. The [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) reinforces this—understanding has distinctive phenomenal character that symbol manipulation lacks. See [intentionality](/concepts/intentionality/) for the full analysis.
 
 The Map finds the Chinese Room illuminating but not decisive—it captures a genuine intuition about the gap between processing and understanding, but many philosophers consider it refuted, and the Map's skepticism does not rest on it alone.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-25 02:39:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[emotion-and-dualism]]'
 - '[[pain-consciousness-and-causal-power]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[identity-across-transformations]]'
 - '[[testing-consciousness-collapse]]'
@@ -138,7 +138,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on neurodegenerative disease 
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The anoetic-noetic-autonoetic hierarchy that dementia degrades in order
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlations don't settle the production debate
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Why emotional responsiveness persists through cognitive devastation
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The phenomenal character of comprehension that dementia strips away
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The phenomenal character of comprehension that dementia strips away
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain phenomenology and its persistence in severe dementia
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Interface degradation through practice versus disease
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change

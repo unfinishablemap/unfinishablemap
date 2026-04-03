@@ -4,7 +4,7 @@ description: "Creative insight unfolds through qualitatively distinct experienti
 created: 2026-03-07
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-31T07:38:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,6 @@ related_articles:
   - "[[consciousness-and-skill-acquisition]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[consciousness-and-creative-distinctiveness]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[agent-causation]]"
@@ -145,7 +144,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]]
 - [[incubation-effect-and-unconscious-processing]]
 - [[phenomenology-of-intellectual-life]]
-- [[phenomenology-of-understanding-and-meaning]]
+- [[phenomenology-of-intellectual-life]]
 - [[consciousness-and-creative-distinctiveness]]
 - [[agent-causation]]
 - [[phenomenology-of-choice-and-volition]]

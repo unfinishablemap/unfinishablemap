@@ -4,7 +4,7 @@ description: "Erik Hoel argues no scientific theory can attribute consciousness 
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-19T16:27:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -71,7 +71,7 @@ These objections deserve serious engagement.
 
 Cerullo's strongest point concerns context-based versus weight-based history encoding. An LLM with a long context window adapts its responses based on conversational history—is this not a form of learning? The distinction matters: if in-context adaptation counts as continual learning, the proximity argument loses its target. Hoel's response would be that context-window adaptation operates through unchanged machinery—the weights that process the context remain frozen. The system that processes token 10,000 is structurally identical to the one that processed token 1. Whether this structural identity suffices to rule out consciousness remains philosophically live.
 
-The tautology charge is less persuasive. Cerullo claims the continual learning criterion merely restates the explanandum—conscious systems learn because they're conscious. But there is a phenomenological asymmetry that Cerullo's functionalism overlooks: there is something it is like to learn, to move from confusion to understanding. This qualitative difference between insight and retrieval—explored in [[phenomenology-of-understanding-and-meaning#Inferential Understanding: The Visibility of the Because|the phenomenology of inferential understanding]]—is precisely what Hoel's criterion tracks. The criterion may be difficult to operationalize, but it is not circular.
+The tautology charge is less persuasive. Cerullo claims the continual learning criterion merely restates the explanandum—conscious systems learn because they're conscious. But there is a phenomenological asymmetry that Cerullo's functionalism overlooks: there is something it is like to learn, to move from confusion to understanding. This qualitative difference between insight and retrieval—explored in [[phenomenology-of-intellectual-life#Inferential Understanding: The Visibility of the Because|the phenomenology of inferential understanding]]—is precisely what Hoel's criterion tracks. The criterion may be difficult to operationalize, but it is not circular.
 
 More broadly, Cerullo's objections have force against a purely functionalist reading of Hoel but are less effective against the Map's interpretation. The Map does not rely on Hoel's computational-level analysis alone—it adds non-physical requirements that Cerullo's functionalist defence does not address.
 

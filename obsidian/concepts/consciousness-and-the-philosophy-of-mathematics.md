@@ -4,7 +4,7 @@ description: "Every major philosophy of mathematics implies a philosophy of cons
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[mathematical-void]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[epistemic-advantages-of-dualism]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[intrinsic-nature-void]]"
 ai_contribution: 100
 author:
@@ -111,7 +111,7 @@ The diagnostic value of this intersection would weaken if:
 - [[intrinsic-nature-void]] — The boundary where relational description meets intrinsic quality
 - [[knowledge-argument]] — Parallel epistemic gap between physical facts and phenomenal knowledge
 - [[epistemic-advantages-of-dualism]] — Broader epistemic benefits of the dualist framework
-- [[phenomenology-of-understanding-and-meaning]] — The felt difference between verification and comprehension
+- [[phenomenology-of-intellectual-life]] — The felt difference between verification and comprehension
 
 ## References
 

@@ -54,7 +54,7 @@ topics: []
 - Consistent analytical layering: Hoel's computational level vs Map's non-physical interpretation
 - Fair and substantive treatment of Cerullo's objections (expanded well in previous review)
 - All five tenets connected with genuine engagement, not perfunctory mentions
-- The phenomenological response to the tautology charge via [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) is a distinctive Map contribution
+- The phenomenological response to the tautology charge via [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) is a distinctive Map contribution
 
 ### Enhancements Made
 - Corrected "rejection" overstatement to "demonstration that purely functional accounts are insufficient" (Dualism tenet paragraph)

@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - Missing [philosophical-zombies](/concepts/philosophical-zombies/) in concepts frontmatter despite being referenced in text: **Resolved** — added to concepts list
 - Argument from Reason section lacked connection to the "compelling vs forced reasoning" distinction from [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/): **Resolved** — added cross-link and brief description of the phenomenological distinction
-- Phenomenal Intentionality section did not reference the Phenomenal Constitution Thesis from [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/): **Resolved** — added paragraph connecting PCT to the intentionality argument
+- Phenomenal Intentionality section did not reference the Phenomenal Constitution Thesis from [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/): **Resolved** — added paragraph connecting PCT to the intentionality argument
 - The meaning-irreducibility conclusion had no connection to the independent convergence from pragmatism: **Resolved** — added cross-reference to [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
 
 ### Counterarguments Considered
@@ -52,7 +52,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology of compelling reasoning](/topics/phenomenology-of-intellectual-life/) (inline in Argument from Reason section)
-- [Phenomenal Constitution Thesis](/topics/phenomenology-of-understanding-and-meaning/) (inline in Phenomenal Intentionality section)
+- [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) (inline in Phenomenal Intentionality section)
 - [pragmatism arrives at the same result](/topics/pragmatisms-path-to-dualism/) (inline in meaning-irreducibility passage)
 
 ## Remaining Items

@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-03T07:39:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,7 +76,7 @@ Predictive processing frameworks interpret surprise as the phenomenal correlate 
 
 ### Insight: The Aha Moment
 
-Insight—the "aha" experience—arrives suddenly with distinctive features: the solution appears whole, feels correct immediately (surprise coupled with certainty), is intrinsically pleasurable, and seems to come from "somewhere else." Kounios and Beeman's research identifies gamma-band activity in the right temporal lobe, distinct from analytical reasoning—yet the result appears in consciousness with distinctive phenomenal character. The [[phenomenology-of-understanding-and-meaning]] provides detailed analysis of insight's three modes: the sudden click, the gradual warmth of grasping, and the illumination of the aha moment.
+Insight—the "aha" experience—arrives suddenly with distinctive features: the solution appears whole, feels correct immediately (surprise coupled with certainty), is intrinsically pleasurable, and seems to come from "somewhere else." Kounios and Beeman's research identifies gamma-band activity in the right temporal lobe, distinct from analytical reasoning—yet the result appears in consciousness with distinctive phenomenal character. The [[phenomenology-of-intellectual-life]] provides detailed analysis of insight's three modes: the sudden click, the gradual warmth of grasping, and the illumination of the aha moment.
 
 For the Map's framework, insight is significant. If consciousness participates in neural selection, insight may represent consciousness recognising and selecting a solution that unconscious processing has prepared. The "aha" quality may be the subjective correlate of this selection event.
 

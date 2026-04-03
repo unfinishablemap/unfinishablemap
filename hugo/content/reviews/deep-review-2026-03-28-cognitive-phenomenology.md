@@ -28,7 +28,7 @@ None. Fourth review pass. The article was modified since last review (2026-03-19
 
 ### Medium Issues Found
 
-- **Archived wikilinks**: `[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)` and `[consciousness-and-meaning-integration](/topics/consciousness-and-semantic-understanding/)` pointed to archived articles (coalesced through multiple stages into `phenomenology-of-understanding-and-meaning`). Resolution: updated to use `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)` and self-reference `[](#the-phenomenal-constitution-thesis)`.
+- **Archived wikilinks**: `[meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/)` and `[consciousness-and-meaning-integration](/topics/consciousness-and-semantic-understanding/)` pointed to archived articles (coalesced through multiple stages into `phenomenology-of-understanding-and-meaning`). Resolution: updated to use `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)` and self-reference `[](#the-phenomenal-constitution-thesis)`.
 - **AI refinement log persisting**: HTML comment from 2026-03-19 refinement marked "should be removed after human review" was still present. Resolution: removed.
 - **Article length 3312 words (132% of 2500 soft threshold)**: The 2026-03-19 refinement added ~395 words without compensating cuts. Resolution: trimmed across multiple sections (-271 words to 3041).
 - **Further Reading re-expanded**: Had grown back to 12 items after previous review trimmed to 9. Resolution: removed 7 items already linked with explanatory text in body, leaving 5 that serve as navigation aids.

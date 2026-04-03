@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [The Phenomenology of Understanding and Meaning](/topics/phenomenology-of-understanding-and-meaning/)
+**Article**: [The Phenomenology of Understanding and Meaning](/topics/phenomenology-of-intellectual-life/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

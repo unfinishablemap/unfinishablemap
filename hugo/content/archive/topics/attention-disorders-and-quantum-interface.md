@@ -173,7 +173,7 @@ Attention disorders collectively suggest:
 
 ### What Disorders Don't Show
 
-Attention disorders don't prove the quantum interface model. They're consistent with it, but also consistent with purely computational accounts of attention. The distinctiveness of the Map's framework lies not in predicting attention disorders but in interpreting them: seeing them as interface dysfunction rather than consciousness dysfunction. A deeper epistemological problem lurks here: the [void at the heart of attention disorders](/voids/attention-and-consciousness/) is that we cannot determine, from inside an attention disorder, whether consciousness is unchanged behind a degraded interface or is itself altered in ways the degraded interface prevents us from recognising.
+Attention disorders don't prove the quantum interface model. They're consistent with it, but also consistent with purely computational accounts of attention. The distinctiveness of the Map's framework lies not in predicting attention disorders but in interpreting them: seeing them as interface dysfunction rather than consciousness dysfunction. A deeper epistemological problem lurks here: the [void at the heart of attention disorders](/topics/attention-disorders-and-consciousness/) is that we cannot determine, from inside an attention disorder, whether consciousness is unchanged behind a degraded interface or is itself altered in ways the degraded interface prevents us from recognising.
 
 The quantum mechanism specifically (consciousness biasing outcomes through the Zeno effect) predicts patterns that haven't yet been tested: whether quantum coherence in attention networks correlates with attentional capacity, whether the timing of attentional shifts matches quantum collapse timescales, whether individuals vary in interface efficiency in ways correlating with quantum-level parameters.
 
@@ -203,7 +203,7 @@ The materialist might argue that attention disorders show attention is "just" ne
 - [mental-effort](/concepts/mental-effort/) — Why attention feels effortful and what effort signifies
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — Salience bridge, tonic/phasic modes, and what Parkinson's reveals about the interface
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness might select among neural options
-- [attention-disorders-and-consciousness](/voids/attention-and-consciousness/) — The epistemological void: when the instrument of study is itself disordered
+- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — The epistemological void: when the instrument of study is itself disordered
 
 ## References
 

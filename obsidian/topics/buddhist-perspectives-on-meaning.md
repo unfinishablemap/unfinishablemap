@@ -4,7 +4,7 @@ description: "Buddhism diagnoses the craving for permanent significance as itsel
 created: 2026-02-04
 modified: 2026-02-04
 human_modified:
-ai_modified: 2026-03-12T19:20:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -172,7 +172,7 @@ The tension remains: is grounding meaning in consciousness itself another form o
 - [[witness-consciousness]] — Pure awareness in contemplative traditions
 - [[contemplative-practice-as-philosophical-evidence]] — The case for meditation as philosophical methodology
 - [[personal-identity]] — Western debates on selfhood that Buddhist no-self challenges
-- [[phenomenology-of-understanding-and-meaning]] — How consciousness generates meaning through five phenomenal modes
+- [[phenomenology-of-intellectual-life]] — How consciousness generates meaning through five phenomenal modes
 - [[buddhist-perspectives-meaning-2026-01-06]] — Research notes
 
 ## References

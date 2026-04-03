@@ -4,12 +4,12 @@ description: "How symbols acquire meaning intrinsic to a system rather than para
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-09T11:46:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[machine-consciousness]]"
 concepts:
@@ -142,7 +142,7 @@ The symbol grounding problem connects to all five tenets:
 
 - [[language-and-consciousness]] — How philosophy of language reveals that meaning depends on consciousness
 - [[intentionality]] — The aboutness of mental states and phenomenal intentionality
-- [[phenomenology-of-understanding-and-meaning]] — Why meaning is constitutively phenomenal
+- [[phenomenology-of-intellectual-life]] — Why meaning is constitutively phenomenal
 - [[language-recursion-and-consciousness]] — How recursive language requires conscious processing
 - [[working-memory]] — The maintenance/manipulation distinction and conscious access
 - [[concepts/functionalism]] — The view that mental states are defined by functional roles

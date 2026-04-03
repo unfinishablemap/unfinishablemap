@@ -4,7 +4,7 @@ description: "When thought takes itself as object, distinctive phenomenal struct
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-03-26T08:17:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -155,7 +155,7 @@ The phenomenology of recursive thought suggests several conclusions:
 - [[self-and-self-consciousness]] — The minimal self and its relation to recursive awareness
 - [[mental-causation-and-downward-causation|downward causation]] — How consciousness might influence physical processes
 - [[temporal-consciousness]] — The specious present and temporal thickness that recursive thought requires
-- [[phenomenology-of-understanding-and-meaning]] — Self-reflexive meaning as one of five phenomenal meaning modes
+- [[phenomenology-of-intellectual-life]] — Self-reflexive meaning as one of five phenomenal meaning modes
 
 ## References
 

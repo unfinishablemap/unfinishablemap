@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-26 04:31:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,7 +35,6 @@ related_articles:
 - '[[consciousness-defeats-explanation]]'
 title: The Phenomenology of Philosophical Disagreement
 topics:
-- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[consciousness-and-social-understanding]]'
 - '[[epistemic-advantages-of-dualism]]'
@@ -114,7 +113,7 @@ The Map's [Occam's Razor tenet](/tenets/#occams-limits) is also relevant. The ma
 
 ## Further Reading
 
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The phenomenal character of comprehension and insight
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The phenomenal character of comprehension and insight
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — What it feels like to change your mind
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — What genuine understanding of another person requires
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — The phenomenology of accepting or resisting another's claims

@@ -4,7 +4,7 @@ description: "Frameworks are inhabited like dwellings, not carried like luggage.
 created: 2026-02-18
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,6 @@ related_articles:
   - "[[duhem-quine-underdetermination-consciousness]]"
   - "[[phenomenology-of-intellectual-courage]]"
   - "[[phenomenology-of-intellectual-life]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[argument-from-reason]]"
@@ -181,7 +180,7 @@ The Map's analysis also resonates with [[mysterianism]]. If frameworks constrain
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt weight of evidence under evaluation
 - [[phenomenology-of-intellectual-courage]] — Holding position when frameworks clash
 - [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The work of reasoning within a framework
-- [[phenomenology-of-understanding-and-meaning]] — What it is like when the framework delivers comprehension
+- [[phenomenology-of-intellectual-life]] — What it is like when the framework delivers comprehension
 - [[epistemological-limits-occams-razor]] — Why simplicity is framework-relative
 - [[duhem-quine-underdetermination-consciousness]] — Underdetermination as the structural basis for framework dependence
 - [[argument-from-reason]] — Why genuine reasoning requires irreducible consciousness

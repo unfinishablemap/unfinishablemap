@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-31 07:38:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,6 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[consciousness-and-creative-distinctiveness]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[agent-causation]]'
@@ -148,7 +147,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
 - [agent-causation](/concepts/agent-causation/)
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)

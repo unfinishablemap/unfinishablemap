@@ -4,12 +4,12 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-26T06:13:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-intersubjectivity]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[emotion-and-dualism]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[animal-consciousness]]"
@@ -103,7 +103,7 @@ The second kind — what [[theory-of-mind]] researchers call recursive mindreadi
 
 ## The Phenomenology of Understanding a Person
 
-The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] describes the click of comprehension and the warmth of grasping in cognitive contexts. Understanding a person involves analogous but distinctive phenomenal transitions.
+The [[phenomenology-of-intellectual-life|phenomenology of understanding]] describes the click of comprehension and the warmth of grasping in cognitive contexts. Understanding a person involves analogous but distinctive phenomenal transitions.
 
 **The moment of recognition.** Sometimes understanding arrives suddenly. Someone describes an experience — a particular kind of loneliness, a specific shade of ambivalence — and you *recognise* it. The recognition has the quality of the "click" described in cognitive understanding, but it is directed at a subject rather than a proposition. You are not grasping a truth but meeting a perspective.
 
@@ -172,7 +172,7 @@ These conditions are offered in good faith, but what counts as "institutional co
 ## Further Reading
 
 - [[consciousness-and-intersubjectivity]] — Whether consciousness is constitutively intersubjective or ontologically individual
-- [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of understanding and meaning in cognitive contexts
+- [[phenomenology-of-intellectual-life]] — The phenomenal character of understanding and meaning in cognitive contexts
 - [[theory-of-mind]] — The levels of mental state attribution and where consciousness enters
 - [[intersubjectivity]] — The shared space between minds and how first-person experience can be communicated
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires the phenomenal self to already be in place

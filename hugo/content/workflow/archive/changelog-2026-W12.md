@@ -6874,7 +6874,7 @@ topics: []
 
 ## 2026-03-16 17:02 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- **File**: [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)
 - **Word count**: 3497 → 3514 (+17)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -6886,7 +6886,7 @@ topics: []
 ## 2026-03-16 16:17 UTC - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/), [phenomenology-of-meaning-making](/topics/phenomenology-of-understanding-and-meaning/)
-- **Target**: [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- **Target**: [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)
 - **Archived**: [phenomenology-of-understanding](/archive/topics/phenomenology-of-understanding/), [phenomenology-of-meaning-making](/archive/topics/phenomenology-of-meaning-making/)
 - **References to review**: 34 active content files
 

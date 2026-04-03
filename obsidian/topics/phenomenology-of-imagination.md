@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-29T23:10:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-recursive-thought]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[incubation-effect-and-unconscious-processing]]"
@@ -115,7 +115,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[phenomenology-of-recursive-thought]] — When imagination takes itself as object
 - [[phenomenology-of-anticipation]] — Forward-directed imagination and temporal experience
 - [[aesthetics-and-consciousness]] — Imagination in artistic creation
-- [[phenomenology-of-understanding-and-meaning]] — The felt quality of grasping meaning
+- [[phenomenology-of-intellectual-life]] — The felt quality of grasping meaning
 - [[dream-consciousness]] — Dreams as involuntary imagination
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [[phenomenology-of-moral-life]] — Moral imagination and the felt quality of ethical perception

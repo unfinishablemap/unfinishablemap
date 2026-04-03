@@ -4,7 +4,7 @@ description: "Protention—the forward-directed structure of present experience�
 created: 2026-02-09
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 - [[topics/free-will]] — How anticipatory consciousness enables genuine freedom
 - [[time-collapse-and-agency]] — The Map's framework connecting consciousness, collapse, and agency
 - [[agent-causation]] — Why protention's active character supports agent-causal accounts
-- [[phenomenology-of-understanding-and-meaning]] — Temporal meaning as one of five phenomenal meaning modes
+- [[phenomenology-of-intellectual-life]] — Temporal meaning as one of five phenomenal meaning modes
 
 ## References
 

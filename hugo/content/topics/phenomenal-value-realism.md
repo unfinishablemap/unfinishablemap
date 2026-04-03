@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-29 23:45:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -269,7 +269,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [haecceity](/concepts/haecceity/) — Why *this* experience matters, not just experience-of-this-type
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal consciousness
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Evaluative meaning as one of five phenomenal meaning modes
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Evaluative meaning as one of five phenomenal meaning modes
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral categories from useful fictions into responses to metaphysical fact
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: how phenomenal value realism integrates with agency, normativity, and moral perception
 

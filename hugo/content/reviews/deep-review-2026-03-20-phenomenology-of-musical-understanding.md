@@ -25,7 +25,7 @@ topics: []
 ### Critical Issues Found
 - **Broken wikilinks (3 archived articles)**: Three articles linked in frontmatter, body, and Further Reading were archived and coalesced since the last review:
   - `[aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)` → `[aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)` (coalesced into "Aesthetics and Consciousness")
-  - `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` → `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)` (coalesced into "The Phenomenology of Understanding")
+  - `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)` → `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)` (coalesced into "The Phenomenology of Understanding")
   - `[aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/)` → `[aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)` (coalesced into "Aesthetics and Consciousness")
   **Resolution**: Updated all references in frontmatter topics, concepts, related_articles, body text, and Further Reading. Consolidated duplicate Further Reading entries where two archived articles mapped to the same replacement.
 

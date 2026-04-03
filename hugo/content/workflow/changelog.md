@@ -9,6 +9,35 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-03 21:38 UTC - refine-draft
+- **Status**: Success
+- **File**: wikilink update across 38 files (26 topics, 12 concepts, 1 void)
+- **Changes**: Replaced all `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)` wikilinks with `[phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)` after coalesce
+- **Published**: yes
+
+## 2026-04-03 20:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/), [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)
+- **Target**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Archived**: [phenomenology-of-understanding-and-meaning](/archive/topics/phenomenology-of-understanding-and-meaning/)
+- **References to review**: ~30 files reference the archived article
+
+## 2026-04-03 19:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Attention Disorders and Consciousness
+- **Output**: [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
+- **Word count**: 1923
+- **Based on research**: yes, [attention-consciousness-mechanisms-2026-01-15](/research/attention-consciousness-mechanisms-2026-01-15/) and [attention-consciousness-relationship-2026-01-15](/research/attention-consciousness-relationship-2026-01-15/)
+
+## 2026-04-03 18:38 UTC - deep-review
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Word count**: 2189 → 2214 (+25)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-03-global-workspace-theory](/reviews/deep-review-2026-04-03-global-workspace-theory/)
+
 ## 2026-04-03 17:39 UTC - deep-review
 - **Status**: Success
 - **File**: [moral-responsibility](/concepts/moral-responsibility/)
@@ -755,7 +784,7 @@ title: Changelog
 
 ## 2026-03-30 20:38 UTC - coalesce
 - **Status**: Success
-- **Sources**: [attention-created-voids](/voids/attention-and-consciousness/), [attention-disorders-and-consciousness](/voids/attention-and-consciousness/)
+- **Sources**: [attention-created-voids](/voids/attention-and-consciousness/), [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
 - **Target**: [attention-and-consciousness](/voids/attention-and-consciousness/)
 - **Archived**: [attention-created-voids](/archive/voids/attention-created-voids/), [attention-disorders-and-consciousness](/archive/voids/attention-disorders-and-consciousness/)
 - **References to review**: ~25 files reference archived articles

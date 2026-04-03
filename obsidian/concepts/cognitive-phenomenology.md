@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-28T12:28:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[working-memory]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[temporal-consciousness]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[symbol-grounding-problem]]"
   - "[[metacognition]]"
   - "[[knowledge-argument]]"
@@ -67,7 +67,7 @@ When you understand a sentence, there's often inner speech (hearing the words in
 
 ### The Understanding Experience
 
-Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] examines this in depth—the "click" of comprehension, the warmth of gradual grasping, the light of sudden insight. The [[consciousness-and-language-interface|consciousness-language interface]] explores a related dimension: language shapes what can be experienced while conscious states generate pressure toward articulation.
+Galen Strawson's foreign language argument: A monolingual English speaker and a monolingual French speaker both hear news in French. Their auditory experiences are identical—same sounds. But only the French speaker *understands*. The phenomenal contrast cannot be explained by sensory differences. The same acoustic input produces different phenomenal states. The best explanation: understanding has its own phenomenal character. The [[phenomenology-of-intellectual-life|phenomenology of understanding]] examines this in depth—the "click" of comprehension, the warmth of gradual grasping, the light of sudden insight. The [[consciousness-and-language-interface|consciousness-language interface]] explores a related dimension: language shapes what can be experienced while conscious states generate pressure toward articulation.
 
 ### Self-Knowledge
 
@@ -127,7 +127,7 @@ Traditional discussions of phenomenal consciousness focus on sensory [[qualia]]�
 
 ## The Phenomenal Constitution Thesis
 
-The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The Phenomenal Constitution Thesis (PCT) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [[phenomenology-of-understanding-and-meaning|Meaning integration]] extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
+The strongest interpretation of cognitive phenomenology holds that meaning is *constituted* by phenomenal character—not merely accompanied by it. The Phenomenal Constitution Thesis (PCT) claims that to grasp a meaning *is* to have a certain kind of experience. Meaning and phenomenology are not separate features that happen to co-occur; they are two aspects of a single phenomenon. [[phenomenology-of-intellectual-life|Meaning integration]] extends this analysis: understanding a complex argument requires binding multiple semantic elements into unified comprehension—a phenomenal achievement irreducible to separately grasped meanings.
 
 PCT explains several puzzles:
 

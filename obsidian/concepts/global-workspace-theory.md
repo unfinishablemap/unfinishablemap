@@ -4,7 +4,7 @@ description: "Global Workspace Theory explains when information becomes consciou
 created: 2026-01-14
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-04-03T18:38:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 last_deep_review: 2026-04-03T18:38:00+00:00
 topics:
@@ -163,7 +163,7 @@ A deeper methodological impasse: experiments detect consciousness only through r
 - [[higher-order-theories]] — Competitor theory requiring higher-order representation
 - [[predictive-processing]] — Prediction-error framework integratable with GWT
 - [[attention-as-interface]] — Attention as the gateway to the workspace and the Map's proposed mind-matter interface
-- [[phenomenology-of-understanding-and-meaning]] — Why availability isn't integration: the unity of understanding
+- [[phenomenology-of-intellectual-life]] — Why availability isn't integration: the unity of understanding
 - [[working-memory]] — The cognitive system implementing the workspace architecture
 - [[episodic-memory]] — Autonoetic consciousness requiring full workspace ignition
 - [[semantic-memory]] — Noetic consciousness with intermediate workspace access

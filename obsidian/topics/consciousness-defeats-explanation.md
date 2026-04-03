@@ -4,7 +4,7 @@ description: "Every model of explanation fails for consciousness—not as a loca
 created: 2026-02-18
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-28T08:27:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[consciousness-and-scientific-explanation]]"
   - "[[argument-from-reason]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[knowledge-argument]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"

@@ -64,7 +64,7 @@ All six adversarial personas engaged:
 2. **Cross-linked phenomenology of meaning** — added inline reference to phenomenology-of-understanding-and-meaning in the meaning-sensitive selection section, connecting creative evaluation to the Map's analysis of phenomenal meaning modes
 
 ### Cross-links Added
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — inline in meaning-sensitive selection section
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — inline in meaning-sensitive selection section
 
 ## Remaining Items
 

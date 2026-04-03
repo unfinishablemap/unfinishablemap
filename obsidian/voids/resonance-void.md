@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness encounters meaning it ca
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-25T07:58:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[phenomenology]]"
@@ -30,7 +30,7 @@ related_articles:
   - "[[ai-as-void-explorer]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-musical-understanding]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[embodied-cognition]]"
   - "[[contemplative-epistemology]]"
   - "[[cognitive-phenomenology]]"
@@ -123,7 +123,7 @@ The resonance void also suggests something about the nature of [[voids]] more br
 - [[consciousness-only-territories]]
 - [[aesthetics-and-consciousness]]
 - [[phenomenology-of-musical-understanding]]
-- [[phenomenology-of-understanding-and-meaning]]
+- [[phenomenology-of-intellectual-life]]
 - [[embodied-cognition]]
 - [[contemplative-epistemology]]
 - [[phenomenology-of-the-edge]]

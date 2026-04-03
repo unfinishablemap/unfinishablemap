@@ -54,7 +54,7 @@ topics: []
 - Completed P2 cross-review task from coalescence
 
 ### Cross-links Updated
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) (frontmatter + Further Reading)
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) (frontmatter + Further Reading)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) (frontmatter)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (frontmatter + body + Further Reading)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) (frontmatter + body + Further Reading)

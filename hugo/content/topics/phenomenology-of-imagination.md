@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-29 23:10:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenology-of-recursive-thought]]'
 - '[[phenomenology-of-anticipation]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[consciousness-and-creative-distinctiveness]]'
 - '[[incubation-effect-and-unconscious-processing]]'
@@ -118,7 +118,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — When imagination takes itself as object
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Forward-directed imagination and temporal experience
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Imagination in artistic creation
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt quality of grasping meaning
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt quality of grasping meaning
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral imagination and the felt quality of ethical perception

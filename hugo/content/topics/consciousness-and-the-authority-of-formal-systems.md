@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-28 01:09:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,6 @@ related_articles:
 - '[[mathematical-void]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[objectivity-and-consciousness]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[arguments/materialism-argument]]'
 - '[[intrinsic-nature-void]]'
 - '[[incompleteness-void]]'
@@ -151,7 +150,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Tracking normative relationships
 - [agent-causation](/concepts/agent-causation/) — How rational agents influence beliefs through recognising reasons
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why consciousness resists objective methods
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt experience of comprehension, inference, and meaning integration
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt experience of comprehension, inference, and meaning integration
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The unbridgeable gap between structural description and intrinsic nature
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The structural and formal connections between Gödel's incompleteness and quantum measurement
 - [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits as a parallel to formal systems' limits at consciousness

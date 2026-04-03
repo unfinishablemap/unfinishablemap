@@ -4,11 +4,10 @@ description: "What does it feel like when the categories through which you under
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 last_deep_review: 2026-03-19T14:15:00+00:00
 draft: false
 topics:
-  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
 concepts:
@@ -66,7 +65,7 @@ This interval is not merely the absence of a framework. It has positive phenomen
 
 ### The Gestalt Shift
 
-The moment of conceptual change itself — when a new framework crystallises — has phenomenology related to but distinct from the [[phenomenology-of-understanding-and-meaning|click of understanding]]. The click resolves tension within a framework: scattered pieces integrate into coherent whole. The gestalt shift *replaces* the framework: what counted as scattered pieces, what counted as integration, what coherence even means — all of this transforms simultaneously.
+The moment of conceptual change itself — when a new framework crystallises — has phenomenology related to but distinct from the [[phenomenology-of-intellectual-life|click of understanding]]. The click resolves tension within a framework: scattered pieces integrate into coherent whole. The gestalt shift *replaces* the framework: what counted as scattered pieces, what counted as integration, what coherence even means — all of this transforms simultaneously.
 
 The Necker cube illustrates the structure at the simplest level. You see a wireframe cube projecting one way, then suddenly the other way. The visual input is identical. What changes is the *organising principle* through which input becomes experience. Conceptual change shares this structure but operates at a far deeper level — not on visual perception but on the categories through which you think, reason, and understand.
 
@@ -101,7 +100,7 @@ If these phenomenal states were epiphenomenal — present but causally idle — 
 
 ### The Limits of Computational Models
 
-Computational models of conceptual change — Thagard's (1992) explanatory coherence networks, Nersessian's (2008) model-based reasoning framework, connectionist retraining, Bayesian model selection — capture structural aspects but miss the phenomenology. Thagard models conceptual revolutions as shifts between competing explanatory networks, and his framework successfully predicts *which* framework wins. Nersessian's cognitive-historical approach reveals how scientists construct intermediate mental models to bridge old and new frameworks — a richer account of the *process* — yet still describes it from outside. What it cannot model is why the transition feels like anything, or why crossing what Chi (1992) calls ontological category boundaries feels qualitatively different from within-category revision. Carey (2009) documents how children's conceptual development involves genuine framework changes — the child who reconstructs "alive" from an animacy concept to a biological one — and her developmental evidence shows that these changes have a distinctive developmental signature irreducible to incremental learning. But even Carey's rich account describes the process from outside. What the computational models and developmental accounts share is an inability to capture the [[phenomenology-of-understanding-and-meaning#Inferential Understanding: The Visibility of the Because|felt sense]] of the shift itself.
+Computational models of conceptual change — Thagard's (1992) explanatory coherence networks, Nersessian's (2008) model-based reasoning framework, connectionist retraining, Bayesian model selection — capture structural aspects but miss the phenomenology. Thagard models conceptual revolutions as shifts between competing explanatory networks, and his framework successfully predicts *which* framework wins. Nersessian's cognitive-historical approach reveals how scientists construct intermediate mental models to bridge old and new frameworks — a richer account of the *process* — yet still describes it from outside. What it cannot model is why the transition feels like anything, or why crossing what Chi (1992) calls ontological category boundaries feels qualitatively different from within-category revision. Carey (2009) documents how children's conceptual development involves genuine framework changes — the child who reconstructs "alive" from an animacy concept to a biological one — and her developmental evidence shows that these changes have a distinctive developmental signature irreducible to incremental learning. But even Carey's rich account describes the process from outside. What the computational models and developmental accounts share is an inability to capture the [[phenomenology-of-intellectual-life#Inferential Understanding: The Visibility of the Because|felt sense]] of the shift itself.
 
 This gap matters beyond philosophical interest. If conceptual change requires phenomenal character — if the felt quality of the process is what enables the distinctively holistic, simultaneous, irreversible character of genuine framework shifts — then systems without phenomenal experience may be incapable of genuine conceptual change, however sophisticated their model-switching. They can approximate the outcome without undergoing the process.
 
@@ -124,7 +123,7 @@ The Unfinishable Map's tenets illuminate conceptual change from several directio
 ## Further Reading
 
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]]
-- [[phenomenology-of-understanding-and-meaning]]
+- [[phenomenology-of-intellectual-life]]
 - [[phenomenology-of-philosophical-disagreement]]
 - [[cognitive-phenomenology]]
 - [[temporal-structure-of-understanding]]

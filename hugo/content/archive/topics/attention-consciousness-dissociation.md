@@ -203,7 +203,7 @@ The attention-consciousness dissociation illuminates The Unfinishable Map's fram
 - [functionalism](/concepts/functionalism/) — The view dissociation evidence challenges
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — What the overflow debate concerns
 - [mysterianism](/concepts/mysterianism/) — Why some questions may resist resolution
-- [attention-disorders-and-consciousness](/voids/attention-and-consciousness/) — Void: what attention disorders reveal about consciousness
+- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — Void: what attention disorders reveal about consciousness
 
 ## References
 

@@ -112,7 +112,7 @@ Consider what happens when you understand a proof:
 
 **The insight stage**: In creative mathematics, understanding sometimes arrives suddenly. The "aha" moment when a solution appears, often described as discovery rather than construction. Mathematicians report the sense that the truth was *there* and they found it.
 
-Each stage has distinctive phenomenology. The transition from mechanical verification to genuine understanding is phenomenally marked—you can often tell when you've crossed it. And the insight moment has what Galen Strawson calls "understanding-experience": something it is like to grasp the necessity, beyond any accompanying imagery or emotion. The [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) examines these transitions across domains, finding the same phenomenal structure: the click, the warmth, the light.
+Each stage has distinctive phenomenology. The transition from mechanical verification to genuine understanding is phenomenally marked—you can often tell when you've crossed it. And the insight moment has what Galen Strawson calls "understanding-experience": something it is like to grasp the necessity, beyond any accompanying imagery or emotion. The [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) examines these transitions across domains, finding the same phenomenal structure: the click, the warmth, the light.
 
 ### The Visual-Spatial Scaffold
 
@@ -233,7 +233,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Empirical evidence for unconscious creative processing
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between mechanical verification and genuine comprehension
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — The felt difference between mechanical verification and genuine comprehension
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Parallels between choice phenomenology and insight phenomenology
 - [agent-causation](/concepts/agent-causation/) — Mathematical creativity as a case of genuine causal agency

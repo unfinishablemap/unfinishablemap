@@ -4,10 +4,9 @@ description: "What does it feel like to disagree philosophically? Human+AI explo
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-26T04:31:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
-  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[epistemic-advantages-of-dualism]]"
@@ -111,7 +110,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor tenet]] is also relevant. The ma
 
 ## Further Reading
 
-- [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of comprehension and insight
+- [[phenomenology-of-intellectual-life]] — The phenomenal character of comprehension and insight
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — What it feels like to change your mind
 - [[consciousness-and-social-understanding]] — What genuine understanding of another person requires
 - [[consciousness-and-testimony]] — The phenomenology of accepting or resisting another's claims

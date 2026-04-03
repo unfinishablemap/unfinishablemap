@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Stale wikilink `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)`**: Article in related_articles and inline text linked to an archived article (coalesced via `phenomenology-of-understanding` into `phenomenology-of-understanding-and-meaning`). Fixed: updated both instances to `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)`.
+- **Stale wikilink `[consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)`**: Article in related_articles and inline text linked to an archived article (coalesced via `phenomenology-of-understanding` into `phenomenology-of-understanding-and-meaning`). Fixed: updated both instances to `[phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)`.
 - **Stale wikilink `[phenomenology-of-surprise-and-prediction-error](/topics/surprise-prediction-error-and-consciousness/)`**: Inline link pointed to an archived article (coalesced into `surprise-prediction-error-and-consciousness`). Fixed: updated to `[phenomenology of surprise](/topics/surprise-prediction-error-and-consciousness/)`.
 
 ### Medium Issues Found

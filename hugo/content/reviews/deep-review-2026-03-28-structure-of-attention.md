@@ -67,7 +67,7 @@ All six adversarial personas engaged. The physicalist rebuttal (lines 182-184), 
 All cross-links point to existing articles:
 - [attention-as-interface](/concepts/attention-as-interface/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
-- [attention-disorders-and-consciousness](/voids/attention-and-consciousness/)
+- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
 - [mental-effort](/concepts/mental-effort/)
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/)
 - [motor-selection](/concepts/motor-selection/)

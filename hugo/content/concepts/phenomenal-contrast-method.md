@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ last_deep_review: 2026-03-17 15:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[methodological-pluralism]]'
 - '[[phenomenological-evidence]]'
@@ -117,7 +117,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 ## Further Reading
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The debate over whether thinking has irreducible phenomenal character
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Five modes of phenomenal meaning revealed by contrast analysis
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Five modes of phenomenal meaning revealed by contrast analysis
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Agency versus passivity as a phenomenal contrast
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Choice and deliberation as phenomenal contrasts
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the limits of physical information

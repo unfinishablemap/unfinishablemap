@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-03-28 06:12:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,6 @@ related_articles:
 - '[[mathematical-void]]'
 - '[[incompleteness-void]]'
 - '[[incubation-effect-and-unconscious-processing]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
@@ -138,7 +137,7 @@ Felt necessity admits of degrees: elementary arithmetic carries near-transparent
 
 ### Understanding vs. Verification {#understanding-vs-verification}
 
-Consider what happens when you understand a proof. Verification—checking each step—is plausibly mechanical. Understanding—grasping *why* the proof works as a whole—is phenomenally distinct. The transition is marked: you can often tell when you've crossed it. The [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) examines these transitions across domains.
+Consider what happens when you understand a proof. Verification—checking each step—is plausibly mechanical. Understanding—grasping *why* the proof works as a whole—is phenomenally distinct. The transition is marked: you can often tell when you've crossed it. The [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) examines these transitions across domains.
 
 The deflationary response treats understanding as compressed verification: chunked representations enabling rapid pattern-matching, with the "aha" feeling as the subjective signature of compression completing. Three considerations push against this. First, compression explains *speed* but not *content*: a student who memorises a proof's compressed pattern handles syntactically similar cases but fails at structurally novel extensions, while one who *understands* handles both. Second, understanding arrives discontinuously—after failed attempts, during unrelated activities, in dreams—fitting poorly with incremental chunking. Third, if understanding is compressed verification, the aesthetic criterion becomes mysterious: why should compression reliably track mathematical depth rather than merely proof brevity?
 
@@ -219,7 +218,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought supports dualism
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Mathematical beauty as evidence for irreducible consciousness
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between verification and comprehension
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt difference between verification and comprehension
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
 
 ## References

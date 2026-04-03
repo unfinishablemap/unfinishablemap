@@ -73,7 +73,7 @@ Inbound links added from 9 articles:
 | [knowledge-argument](/concepts/knowledge-argument/) | Frontmatter | Added to related_articles |
 | [explanatory-gap](/concepts/explanatory-gap/) | Frontmatter | Added to related_articles |
 | [intrinsic-nature-void](/voids/intrinsic-nature-void/) | Frontmatter + inline | Added to related_articles; inline sentence in Russell/structure section |
-| [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) | Frontmatter | Added to related_articles |
+| [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) | Frontmatter | Added to related_articles |
 | [arguments-against-materialism](/topics/arguments-against-materialism/) | Frontmatter + inline | Added to related_articles; inline sentence about mathematical knowledge as physicalism's hardest test case |
 
 ## Remaining Items

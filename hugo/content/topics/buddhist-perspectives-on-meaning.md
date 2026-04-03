@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-12 19:20:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -175,7 +175,7 @@ The tension remains: is grounding meaning in consciousness itself another form o
 - [witness-consciousness](/concepts/witness-consciousness/) — Pure awareness in contemplative traditions
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — The case for meditation as philosophical methodology
 - [personal-identity](/topics/personal-identity/) — Western debates on selfhood that Buddhist no-self challenges
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — How consciousness generates meaning through five phenomenal modes
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — How consciousness generates meaning through five phenomenal modes
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Research notes
 
 ## References

@@ -84,7 +84,7 @@ The Unfinishable Map proposes that belief revision has a three-phase phenomenal 
 
 **Rupture.** Between holding a belief and releasing it, there is often a discrete phenomenal event. The old framework stops generating the feeling of coherence. Arguments that once seemed decisive feel hollow. There follows a brief epistemic vertigo—neither framework organises experience—and then involuntary recognition: the new view forces itself into awareness. William James described something analogous in religious conversion—a "self-surrender" in which the will stops struggling (*The Varieties of Religious Experience*, 1902). Secular belief revision bears a similar structure. Strikingly, this moment often has a passive quality despite following sustained conscious work—we undergo it rather than perform it.
 
-**Reorganisation.** The new belief restructures neighbouring beliefs, reweights evidence, and generates new coherence. Past experiences appear in new light. Facts that were peripheral become central. This process involves the distinctive phenomenology of [understanding](/topics/phenomenology-of-understanding-and-meaning/)—things fitting together in a way that has positive qualitative character. [Conceptual change](/topics/phenomenology-of-conceptual-change/) describes a parallel process at the level of frameworks rather than individual beliefs.
+**Reorganisation.** The new belief restructures neighbouring beliefs, reweights evidence, and generates new coherence. Past experiences appear in new light. Facts that were peripheral become central. This process involves the distinctive phenomenology of [understanding](/topics/phenomenology-of-intellectual-life/)—things fitting together in a way that has positive qualitative character. [Conceptual change](/topics/phenomenology-of-conceptual-change/) describes a parallel process at the level of frameworks rather than individual beliefs.
 
 The difference between trivial and central belief revision differs not just in intensity but in kind. Central revision involves identity engagement (changing core beliefs feels like changing who you are), temporal depth (autobiographical reinterpretation), and layered [epistemic-emotions](/concepts/epistemic-emotions/)—grief for the old framework coexisting with excitement about the new.
 
@@ -144,7 +144,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 
 ## Further Reading
 
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology of self-awareness](/voids/self-opacity/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)

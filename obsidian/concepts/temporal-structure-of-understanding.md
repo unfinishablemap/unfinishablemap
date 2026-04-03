@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematics]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -191,7 +191,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [[working-memory]] — The cognitive system supporting temporal manipulation
 - [[epistemic-emotions]] — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [[language-recursion-and-consciousness]] — How recursive structure processing reveals temporal phenomenology
-- [[phenomenology-of-understanding-and-meaning]] — Related argument that meaning is constitutively phenomenal
+- [[phenomenology-of-intellectual-life]] — Related argument that meaning is constitutively phenomenal
 - [[phenomenology-of-choice-and-volition]] — Parallels between the phenomenology of choosing and understanding
 - [[agent-causation]] — Understanding as a case of conscious agency in cognition
 - [[decoherence]] — The quantum challenge to any consciousness-brain interface

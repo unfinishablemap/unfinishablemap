@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-28 01:09:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,7 +32,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-mathematics]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 title: The Temporal Structure of Understanding
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -193,7 +193,7 @@ This doesn't prove AI cannot understand. It suggests that if AI does understand,
 - [working-memory](/concepts/working-memory/) — The cognitive system supporting temporal manipulation
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings of knowing, curiosity, and other understanding-related phenomenology
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive structure processing reveals temporal phenomenology
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Related argument that meaning is constitutively phenomenal
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Related argument that meaning is constitutively phenomenal
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Parallels between the phenomenology of choosing and understanding
 - [agent-causation](/concepts/agent-causation/) — Understanding as a case of conscious agency in cognition
 - [decoherence](/concepts/decoherence/) — The quantum challenge to any consciousness-brain interface

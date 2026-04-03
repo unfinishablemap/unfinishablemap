@@ -4,7 +4,7 @@ description: "Neurodegenerative diseases progressively dismantle cognitive facul
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-25T02:39:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 last_deep_review: 2026-03-22T05:56:00+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[emotion-and-dualism]]"
   - "[[pain-consciousness-and-causal-power]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[identity-across-transformations]]"
   - "[[testing-consciousness-collapse]]"
@@ -135,7 +135,7 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 - [[anoetic-noetic-autonoetic-consciousness]] — The anoetic-noetic-autonoetic hierarchy that dementia degrades in order
 - [[neural-correlates-of-consciousness]] — Why correlations don't settle the production debate
 - [[emotion-and-dualism]] — Why emotional responsiveness persists through cognitive devastation
-- [[phenomenology-of-understanding-and-meaning]] — The phenomenal character of comprehension that dementia strips away
+- [[phenomenology-of-intellectual-life]] — The phenomenal character of comprehension that dementia strips away
 - [[pain-consciousness-and-causal-power]] — Pain phenomenology and its persistence in severe dementia
 - [[contemplative-pathology-and-interface-malfunction]] — Interface degradation through practice versus disease
 - [[identity-across-transformations]] — How indexical identity persists through radical change

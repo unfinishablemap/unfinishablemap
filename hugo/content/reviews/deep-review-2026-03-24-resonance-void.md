@@ -59,7 +59,7 @@ topics: []
 - [phenomenal-presence-void](/voids/phenomenal-presence-void/) — Added to Further Reading with Marion connection
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Added to Further Reading
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Added to Further Reading
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Added inline link in Aesthetic Meaning section
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — Added inline link in Aesthetic Meaning section
 
 ## Remaining Items
 

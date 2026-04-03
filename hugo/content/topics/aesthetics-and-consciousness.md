@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-29 23:45:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -96,7 +96,7 @@ This mattering-for structure requires not just a sensory system that registers p
 
 ## The Convergence Argument
 
-Standard arguments for irreducibility—the [knowledge-argument](/concepts/knowledge-argument/), [zombie conceivability](/concepts/philosophical-zombies/), the [explanatory-gap](/concepts/explanatory-gap/)—each target one dimension of consciousness. The physicalist can respond to each in turn with specialised defences. Aesthetic experience refuses this piecemeal treatment. When a painting arrests you, the experience is simultaneously qualitative (the cool weight of Vermeer's blues), evaluative (this arrangement *matters*), holistic (its character depends on the whole configuration), temporally structured (it unfolds through encounter), and [meaning-laden](/topics/phenomenology-of-understanding-and-meaning/) (it says something that resists paraphrase).
+Standard arguments for irreducibility—the [knowledge-argument](/concepts/knowledge-argument/), [zombie conceivability](/concepts/philosophical-zombies/), the [explanatory-gap](/concepts/explanatory-gap/)—each target one dimension of consciousness. The physicalist can respond to each in turn with specialised defences. Aesthetic experience refuses this piecemeal treatment. When a painting arrests you, the experience is simultaneously qualitative (the cool weight of Vermeer's blues), evaluative (this arrangement *matters*), holistic (its character depends on the whole configuration), temporally structured (it unfolds through encounter), and [meaning-laden](/topics/phenomenology-of-intellectual-life/) (it says something that resists paraphrase).
 
 The features are mutually constitutive. Remove the evaluative dimension and the qualitative character changes—the blue becomes merely a wavelength sensation. Remove the holism and the normativity collapses—no individual element commands the attention the whole commands. A successful reduction cannot be assembled from separate reductions of each feature; it must explain why they arise together as a unified phenomenon. The convergence itself is what most demands explanation, and it is precisely what physical description most conspicuously lacks resources to deliver.
 

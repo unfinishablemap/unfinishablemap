@@ -4,7 +4,7 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T15:59:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 last_deep_review: 2026-03-25T15:59:00+00:00
 draft: false
 topics:
@@ -29,7 +29,6 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[pragmatisms-path-to-dualism]]"
 ai_contribution: 100
@@ -75,7 +74,7 @@ The [[self-stultification-as-master-argument|self-stultification argument]] pres
 
 Cognitive phenomenology connects to a deeper issue: what makes thoughts *about* anything at all? The phenomenal intentionality thesis holds that genuine [[intentionality]] — the "aboutness" of mental states — derives from phenomenal consciousness.
 
-The [[phenomenology-of-understanding-and-meaning|Phenomenal Constitution Thesis]] takes this further: meaning is not merely *accompanied* by phenomenal character but *constituted* by it. The "click" of understanding, the felt difference between grasping a concept and merely processing its definition, is not a byproduct of comprehension — it is what comprehension consists in. If cognitive phenomenology exists and grounds intentionality, then the content of thought is determined by phenomenal character, not by functional role or causal covariance. What makes your thought about *rabbits* rather than *undetached rabbit parts* is the distinctive phenomenal character of thinking about rabbits — a qualitative difference no functional description captures.
+The [[phenomenology-of-intellectual-life|Phenomenal Constitution Thesis]] takes this further: meaning is not merely *accompanied* by phenomenal character but *constituted* by it. The "click" of understanding, the felt difference between grasping a concept and merely processing its definition, is not a byproduct of comprehension — it is what comprehension consists in. If cognitive phenomenology exists and grounds intentionality, then the content of thought is determined by phenomenal character, not by functional role or causal covariance. What makes your thought about *rabbits* rather than *undetached rabbit parts* is the distinctive phenomenal character of thinking about rabbits — a qualitative difference no functional description captures.
 
 This has a consequence that materialists rarely confront directly. If intentionality requires phenomenal consciousness, and phenomenal consciousness is irreducible, then *meaning itself* is irreducible to the physical. The aboutness of thought — the fact that your mental states point beyond themselves to objects, properties, and states of affairs — cannot be captured by any arrangement of non-conscious matter, however complex. This conclusion echoes from an unexpected direction: [[pragmatisms-path-to-dualism|pragmatism arrives at the same result]] when applied reflexively, since evaluating whether a framework "works" requires the very cognitive phenomenology materialism cannot accommodate.
 
@@ -112,7 +111,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 ## Further Reading
 
 - [[cognitive-phenomenology]] — The debate: liberalism versus conservatism on the phenomenal character of thought
-- [[phenomenology-of-understanding-and-meaning]] — Five modes of phenomenal meaning
+- [[phenomenology-of-intellectual-life]] — Five modes of phenomenal meaning
 - [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The felt texture of cognitive work
 - [[argument-from-reason]] — Why genuine reasoning requires more than physical causation
 - [[self-stultification-as-master-argument]] — Materialism undermines its own rational credentials

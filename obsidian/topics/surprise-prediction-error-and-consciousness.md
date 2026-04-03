@@ -4,7 +4,7 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,9 +37,8 @@ related_articles:
   - "[[structure-of-attention]]"
   - "[[emotion-and-dualism]]"
   - "[[choking-phenomenon-mental-causation]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
-  - "[[self-opacity]]"
   - "[[phenomenology-of-intellectual-life]]"
+  - "[[self-opacity]]"
   - "[[consciousness-and-creative-distinctiveness]]"
   - "[[consciousness-and-mathematics]]"
   - "[[creativity-void]]"
@@ -93,7 +92,7 @@ When prediction error crosses the threshold into conscious experience, it unfold
 
 **Reorientation** is where consciousness becomes most visibly active. Attention swivels toward the source of surprise. The experiential field restructures: what was background becomes foreground; irrelevant details become potentially significant. The [[epistemic-emotions]] engaged here—curiosity, alarm, fascination, dread—are not decorations on the search but constitutive of how it unfolds. The *flavour* of the search depends on the flavour of the surprise.
 
-**Integration** is the final phase: incorporating the surprising event into a revised model of the situation. When integration succeeds, there is a felt click—the experience of the new information finding its place, connecting to the [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]]. When it fails, the surprise lingers as an experiential residue—a nagging sense that something does not fit, persisting for hours or days.
+**Integration** is the final phase: incorporating the surprising event into a revised model of the situation. When integration succeeds, there is a felt click—the experience of the new information finding its place, connecting to the [[phenomenology-of-intellectual-life|phenomenology of understanding]]. When it fails, the surprise lingers as an experiential residue—a nagging sense that something does not fit, persisting for hours or days.
 
 ## Why Surprise Requires Consciousness
 
@@ -213,7 +212,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[epistemic-emotions]] — Curiosity, wonder, and other knowledge-directed affects
 - [[structure-of-attention]] — How attention allocates cognitive resources
 - [[emotion-and-dualism]] — The felt quality of affective states
-- [[phenomenology-of-understanding-and-meaning]] — The click of successful integration
+- [[phenomenology-of-intellectual-life]] — The click of successful integration
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt texture of changing one's mind
 - [[self-opacity|phenomenology of self-awareness]] — How minds catch their own mistakes
 - [[phenomenal-consciousness]] — The "what it's like" quality presupposed by the entire prediction error spectrum

@@ -127,7 +127,7 @@ Benacerraf's dilemma and the mind-body interaction problem are, at bottom, the s
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
 - [mathematical-void](/voids/mathematical-void/)
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 

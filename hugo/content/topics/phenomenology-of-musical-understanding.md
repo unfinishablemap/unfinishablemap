@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[binding-problem]]'
 - '[[cognitive-phenomenology]]'
 - '[[concepts/functionalism]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[temporal-structure-of-understanding]]'
 - '[[topics/phenomenal-value-realism]]'
 created: 2026-02-18
@@ -126,7 +126,7 @@ Musical understanding connects to the Map's framework through several tenets.
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How understanding unfolds temporally
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value in conscious experience
 - [binding-problem](/concepts/binding-problem/) — The binding of experience into unified wholes
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Unified account of five phenomenal meaning modes, including aesthetic meaning through music
 - [resonance-void](/voids/resonance-void/) — Where musical meaning exceeds articulation entirely—the body registers what the intellect cannot unpack
 
 ## References

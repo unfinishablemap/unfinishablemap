@@ -49,7 +49,7 @@ topics:
 
 Knowing everything about someone is not the same as understanding them. You could possess a complete neural map of another person's brain, a transcript of every word they have spoken, a full behavioural history — and still lack something essential. What you lack is the phenomenal grasp of what their experience is like from the inside — what Nagel (1974) established as the irreducible "what it is like" dimension of consciousness. The Unfinishable Map argues that genuine interpersonal understanding — the kind that matters in love, friendship, grief, and moral life — depends on phenomenal consciousness in ways that information processing alone cannot replicate.
 
-The [intersubjectivity article](/topics/consciousness-and-intersubjectivity/) asks the foundational question — whether consciousness is constitutively intersubjective or ontologically individual — and argues for enrichment through encounter. The [social cognition article](/topics/consciousness-and-social-cognition/) examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [understanding and meaning article](/topics/phenomenology-of-understanding-and-meaning/) explores the phenomenal character of comprehension itself. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
+The [intersubjectivity article](/topics/consciousness-and-intersubjectivity/) asks the foundational question — whether consciousness is constitutively intersubjective or ontologically individual — and argues for enrichment through encounter. The [social cognition article](/topics/consciousness-and-social-cognition/) examines the cognitive machinery enabling human social life: metarepresentation, theory of mind, institutional reality. The [understanding and meaning article](/topics/phenomenology-of-intellectual-life/) explores the phenomenal character of comprehension itself. This article asks a different question: what is the phenomenology of understanding another *person*, and why does it require consciousness?
 
 ## The Gap Between Knowledge and Understanding
 
@@ -77,7 +77,7 @@ A system without phenomenal consciousness could track the *concept* of phenomena
 
 ## The Phenomenology of Understanding a Person
 
-The [phenomenology of understanding](/topics/phenomenology-of-understanding-and-meaning/) article describes the click of comprehension, the warmth of grasping, the light of insight in cognitive contexts. Understanding a person involves analogous but distinctive phenomenal transitions.
+The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/) article describes the click of comprehension, the warmth of grasping, the light of insight in cognitive contexts. Understanding a person involves analogous but distinctive phenomenal transitions.
 
 **The moment of recognition.** Sometimes understanding arrives suddenly. Someone describes an experience — a particular kind of loneliness, a specific shade of ambivalence — and you *recognise* it. The recognition has the quality of the "click" described in cognitive understanding, but it is directed at a subject rather than a proposition. You are not grasping a truth but meeting a perspective.
 
@@ -125,7 +125,7 @@ None of these would refute dualism directly, but they would weaken the case that
 
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — The foundational question: is consciousness constitutively intersubjective or ontologically individual?
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — The cognitive machinery enabling social life: metarepresentation, theory of mind, institutional reality
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — The phenomenal character of understanding and meaning in cognitive contexts
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — The phenomenal character of understanding and meaning in cognitive contexts
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism reshapes the epistemology of knowing other minds
 - [other-minds-void](/voids/other-minds-void/) — The structural privacy of consciousness and how we navigate it
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared

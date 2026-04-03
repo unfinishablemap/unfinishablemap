@@ -4,7 +4,7 @@ description: "What the lived experience of translating between languages reveals
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-26T04:31:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[consciousness-and-language-interface]]"
   - "[[language-thought-boundary]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[intersubjective-void]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[clinical-phenomenology-as-philosophical-evidence]]"
@@ -49,7 +49,7 @@ The split is not between two strings of words but between two *ways of meaning*.
 
 ### The Moment of Semantic Grasp
 
-Before translation can begin, the source text must be *understood* — not just parsed but phenomenally grasped. This is the experience the [[phenomenology-of-understanding-and-meaning|phenomenology of understanding]] describes: the "click" when meaning crystallises, the shift from processing words to holding a meaning.
+Before translation can begin, the source text must be *understood* — not just parsed but phenomenally grasped. This is the experience the [[phenomenology-of-intellectual-life|phenomenology of understanding]] describes: the "click" when meaning crystallises, the shift from processing words to holding a meaning.
 
 In translation, this moment is distinctive because the translator must grasp the meaning *as something to be re-expressed*. Ordinary reading allows understanding to settle into memory. The translator must keep the meaning actively present, holding it in what might be called a pre-linguistic form — or at least a form loosened from its original linguistic shape — so that it can be re-clothed in another language.
 
@@ -126,7 +126,7 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 - [[consciousness-and-language-interface]] — The bidirectional, lossy channel between consciousness and language
 - [[language-thought-boundary]] — Where thought exceeds what language can capture
 - [[cognitive-phenomenology]] — Whether thinking has phenomenal character beyond sensory accompaniments
-- [[phenomenology-of-understanding-and-meaning]] — How consciousness constitutes semantic grasp
+- [[phenomenology-of-intellectual-life]] — How consciousness constitutes semantic grasp
 - [[intersubjective-void]] — The gap between minds that translation attempts to bridge
 - [[consciousness-and-social-understanding]] — Phenomenal engagement with other minds
 - [[clinical-phenomenology-as-philosophical-evidence]] — How disruptions of experience reveal consciousness architecture

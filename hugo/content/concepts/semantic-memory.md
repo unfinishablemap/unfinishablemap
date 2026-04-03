@@ -1,11 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-30 11:59:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[cognitive-phenomenology]]'
 - '[[temporal-consciousness]]'
@@ -81,7 +81,7 @@ Consider what happens when you finally understand a proof. There's the "aha" mom
 
 ### The Phenomenal Constitution Thesis
 
-The [Phenomenal Constitution Thesis (PCT)](/topics/phenomenology-of-understanding-and-meaning/) makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
+The [Phenomenal Constitution Thesis (PCT)](/topics/phenomenology-of-intellectual-life/) makes the stronger claim that meaning isn't just accompanied by phenomenology—meaning is constitutively phenomenal. On this view, to grasp that Paris is in France *is* to have a certain kind of experience; the semantic content cannot be separated from the experiential character. Semantic memory would then involve not information storage that consciousness illuminates, but phenomenal states that constitute the meanings themselves.
 
 TOT states provide striking evidence for PCT. During a tip-of-the-tongue state, you have the meaning without the phonological form. What you possess isn't merely information about the target word (first letter, syllable count)—you have *phenomenal access to the meaning itself*. Otherwise, how would you recognise the word when it finally comes? The meaning is experienced directly, even when the label cannot be retrieved. This dissociation shows that semantic content has phenomenal presence independent of linguistic expression.
 
@@ -189,7 +189,7 @@ The Map adopts a qualified position: noetic consciousness involves genuine pheno
 
 ## Further Reading
 
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — Why meaning may be constitutively phenomenal
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Why meaning may be constitutively phenomenal
 - [intentionality](/concepts/intentionality/) — Aboutness and the phenomenal intentionality thesis
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's tripartite hierarchy of consciousness levels
 - [episodic-memory](/concepts/episodic-memory/) — The contrasting memory system with autonoetic character

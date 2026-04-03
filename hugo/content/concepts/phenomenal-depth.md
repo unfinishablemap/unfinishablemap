@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ related_articles:
 - '[[aesthetics-and-consciousness]]'
 title: Phenomenal Depth
 topics:
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[emotion-and-dualism]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 ---
@@ -57,7 +57,7 @@ Phenomenal depth manifests differently across domains of experience:
 
 **Affective depth.** The [phenomenology of pain](/topics/pain-consciousness-and-causal-power/) reveals depth starkly. Pain has sensory qualities (burning, stabbing, aching), an affective dimension (its unpleasantness), a motivational dimension (the urge to withdraw), and cognitive significance (what the pain means about one's body). These layers can dissociate—patients with pain asymbolia retain sensory pain without unpleasantness—but in typical experience they form a deep, layered whole.
 
-**Cognitive depth.** The [phenomenology of understanding](/topics/phenomenology-of-understanding-and-meaning/) provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an [aesthetic](/topics/aesthetics-and-consciousness/) dimension—elegance or surprise. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
+**Cognitive depth.** The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/) provides another case. The moment of grasping a proof carries not just the logical content but a felt sense of how the parts connect, a qualitative sense of inevitability, and often an [aesthetic](/topics/aesthetics-and-consciousness/) dimension—elegance or surprise. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) research suggests these layers are genuinely phenomenal, not merely associated sensory imagery.
 
 ## Why Depth Resists Reduction
 
@@ -96,7 +96,7 @@ The Map does not claim that phenomenal depth is fully understood. Rather, it hol
 - [qualia](/concepts/qualia/)
 - [binding-problem](/concepts/binding-problem/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)

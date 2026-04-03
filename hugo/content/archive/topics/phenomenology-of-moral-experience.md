@@ -212,7 +212,7 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [free-will](/topics/free-will/) — Why moral agency requires libertarian alternatives
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — The epistemological role of meditative evidence
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Buddhist and Hindu perspectives on consciousness and value
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — What insight and comprehension feel like from the inside
+- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — What insight and comprehension feel like from the inside
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — The felt character of interpersonal trust, vulnerability, and betrayal
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-intellectual-life/) — How moral perception shifts under new evidence
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How moral seriousness gains metaphysical weight under genuine agency

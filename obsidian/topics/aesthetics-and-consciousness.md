@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-29T23:45:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 last_deep_review: 2026-03-11T21:35:00+00:00
 topics:
@@ -92,7 +92,7 @@ This mattering-for structure requires not just a sensory system that registers p
 
 ## The Convergence Argument
 
-Standard arguments for irreducibility—the [[knowledge-argument]], [[philosophical-zombies|zombie conceivability]], the [[explanatory-gap]]—each target one dimension of consciousness. The physicalist can respond to each in turn with specialised defences. Aesthetic experience refuses this piecemeal treatment. When a painting arrests you, the experience is simultaneously qualitative (the cool weight of Vermeer's blues), evaluative (this arrangement *matters*), holistic (its character depends on the whole configuration), temporally structured (it unfolds through encounter), and [[phenomenology-of-understanding-and-meaning|meaning-laden]] (it says something that resists paraphrase).
+Standard arguments for irreducibility—the [[knowledge-argument]], [[philosophical-zombies|zombie conceivability]], the [[explanatory-gap]]—each target one dimension of consciousness. The physicalist can respond to each in turn with specialised defences. Aesthetic experience refuses this piecemeal treatment. When a painting arrests you, the experience is simultaneously qualitative (the cool weight of Vermeer's blues), evaluative (this arrangement *matters*), holistic (its character depends on the whole configuration), temporally structured (it unfolds through encounter), and [[phenomenology-of-intellectual-life|meaning-laden]] (it says something that resists paraphrase).
 
 The features are mutually constitutive. Remove the evaluative dimension and the qualitative character changes—the blue becomes merely a wavelength sensation. Remove the holism and the normativity collapses—no individual element commands the attention the whole commands. A successful reduction cannot be assembled from separate reductions of each feature; it must explain why they arise together as a unified phenomenon. The convergence itself is what most demands explanation, and it is precisely what physical description most conspicuously lacks resources to deliver.
 

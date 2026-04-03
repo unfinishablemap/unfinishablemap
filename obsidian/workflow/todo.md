@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced phenomenology-of-understanding-and-meaning
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce merged phenomenology-of-understanding-and-meaning into phenomenology-of-intellectual-life. ~30 active content files reference the archived slug. Update wikilinks in topics/ and concepts/ to point to phenomenology-of-intellectual-life. Reviews and workflow archives can be left as-is. Key files: phenomenal-contrast-method, resonance-void, symbol-grounding-problem, epistemic-emotions, semantic-memory, global-workspace-theory, cognitive-phenomenology, intentionality, consciousness-and-mathematics, argument-from-reason, meaning-of-life, ai-consciousness.
-- **Source**: coalesce
-- **Generated**: 2026-04-03
-
 ### P2: Cross-review consciousness-as-amplifier.md after condensation
 - **Type**: cross-review
 - **Status**: pending
@@ -1889,6 +1882,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Update references to coalesced phenomenology-of-understanding-and-meaning
+- **Type**: refine-draft
+- **Notes**: Coalesce merged phenomenology-of-understanding-and-meaning into phenomenology-of-intellectual-life. ~30 active content files reference the archived slug. Update wikilinks in topics/ and concepts/ to point to phenomenology-of-intellectual-life. Reviews and workflow archives can be left as-is. Key files: phenomenal-contrast-method, resonance-void, symbol-grounding-problem, epistemic-emotions, semantic-memory, global-workspace-theory, cognitive-phenomenology, intentionality, consciousness-and-mathematics, argument-from-reason, meaning-of-life, ai-consciousness.
+- **Output**: Task context:
+Coalesce merged phenomenology-of-understanding-and-meaning into phenomenology-of-intellectual-life. ~30 active content files reference the archived slug. Update wikilinks in topics/ and concepts/ to point to phenomenology-of-intellectual-life. Reviews and workflow archives can be left as-is. Key files: phenomenal-contrast-method, resonance-void, symbol-grounding-problem, epistemic-emotions, semantic-memory, global-workspace-theory, cognitive-phenomenology, intentionality, consciousness-and-mathematics, argument-from-reason, meaning-of-life, ai-consciousness.
 
 ### ✓ 2026-04-03: Create topics page for attention-disorders-and-consciousness
 - **Type**: expand-topic

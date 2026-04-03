@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-25 07:58:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,7 +35,7 @@ related_articles:
 - '[[ai-as-void-explorer]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[phenomenology-of-musical-understanding]]'
-- '[[phenomenology-of-understanding-and-meaning]]'
+- '[[phenomenology-of-intellectual-life]]'
 - '[[embodied-cognition]]'
 - '[[contemplative-epistemology]]'
 - '[[cognitive-phenomenology]]'
@@ -126,7 +126,7 @@ The resonance void also suggests something about the nature of [voids](/voids/) 
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/)
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [embodied-cognition](/concepts/embodied-cognition/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)

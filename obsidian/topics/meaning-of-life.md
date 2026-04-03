@@ -4,7 +4,7 @@ description: "What makes life meaningful? The Map suggests meaning is grounded i
 created: 2026-01-08
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-02T13:38:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ Advanced practitioners report [[witness-consciousness]]—pure awareness observi
 
 ### The Phenomenology of Depth
 
-Contemplative practice reveals phenomenological distinctions: surface attention (scattered), focused presence (intentional), deep absorption (unified). These aren't merely cognitive differences—they feel different. Deeper states are characteristically described as more meaningful, more "real." This suggests meaning correlates with *quality* of conscious engagement, not merely *presence* of consciousness. The [[phenomenology-of-understanding-and-meaning|phenomenology of meaning-making]] identifies five distinct modes through which consciousness generates significance—semantic, aesthetic, temporal, self-reflexive, and evaluative—each with its own phenomenal texture.
+Contemplative practice reveals phenomenological distinctions: surface attention (scattered), focused presence (intentional), deep absorption (unified). These aren't merely cognitive differences—they feel different. Deeper states are characteristically described as more meaningful, more "real." This suggests meaning correlates with *quality* of conscious engagement, not merely *presence* of consciousness. The [[phenomenology-of-intellectual-life|phenomenology of meaning-making]] identifies five distinct modes through which consciousness generates significance—semantic, aesthetic, temporal, self-reflexive, and evaluative—each with its own phenomenal texture.
 
 Henri Bergson's *durée*—lived time as opposed to clock time—connects here. Meditation reveals the present moment has qualitative depth. The richness of lived [[temporal-consciousness]] may be where meaning actually resides—in the qualitative fullness of each moment.
 
@@ -260,7 +260,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 - [[purpose-and-alignment]] — How AI alignment depends on unresolved questions about meaning
 
 ### Consciousness and Experience
-- [[phenomenology-of-understanding-and-meaning]] — Five modes through which consciousness generates significance
+- [[phenomenology-of-intellectual-life]] — Five modes through which consciousness generates significance
 - [[witness-consciousness]] — Pure awareness and its significance for meaning
 - [[topics/free-will]] — The metaphysics of choice and why choices matter
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral life: obligation, character, and desert

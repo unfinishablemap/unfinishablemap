@@ -99,7 +99,7 @@ The [minimal quantum interaction tenet](/tenets/#minimal-quantum-interaction) su
 - [interface-friction](/concepts/interface-friction/)
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
-- [attention-disorders-and-consciousness](/voids/attention-and-consciousness/) — The epistemological void when attention itself is disordered
+- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — The epistemological void when attention itself is disordered
 
 ## References
 

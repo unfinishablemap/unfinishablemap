@@ -4,7 +4,7 @@ description: "The phenomenal contrast method isolates non-sensory phenomenal pro
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[knowledge-argument]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
+  - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[methodological-pluralism]]"
   - "[[phenomenological-evidence]]"
@@ -114,7 +114,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 ## Further Reading
 
 - [[cognitive-phenomenology]] — The debate over whether thinking has irreducible phenomenal character
-- [[phenomenology-of-understanding-and-meaning]] — Five modes of phenomenal meaning revealed by contrast analysis
+- [[phenomenology-of-intellectual-life]] — Five modes of phenomenal meaning revealed by contrast analysis
 - [[phenomenology-of-agency-vs-passivity]] — Agency versus passivity as a phenomenal contrast
 - [[phenomenology-of-choice-and-volition]] — Choice and deliberation as phenomenal contrasts
 - [[knowledge-argument]] — Mary's Room and the limits of physical information

@@ -4,7 +4,7 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-29T23:45:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -266,7 +266,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness
 - [[normative-void]] — Cognitive limits on moral knowledge
-- [[phenomenology-of-understanding-and-meaning]] — Evaluative meaning as one of five phenomenal meaning modes
+- [[phenomenology-of-intellectual-life]] — Evaluative meaning as one of five phenomenal meaning modes
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral categories from useful fictions into responses to metaphysical fact
 - [[moral-architecture-of-consciousness]] — Apex synthesis: how phenomenal value realism integrates with agency, normativity, and moral perception
 

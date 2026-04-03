@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-03 21:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -185,7 +185,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 
 ## Further Reading
 
-- [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-understanding-and-meaning/) — How multiple meanings are held and woven into unified understanding
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — How multiple meanings are held and woven into unified understanding
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How WM expansion enables cognitive amplification
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive linguistic structure depends on expanded WM capacity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the causal bridge between consciousness and neural systems

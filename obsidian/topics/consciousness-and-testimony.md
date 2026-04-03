@@ -4,7 +4,7 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-26T04:31:00+00:00
+ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,6 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-social-understanding]]"
-  - "[[phenomenology-of-understanding-and-meaning]]"
   - "[[knowledge-argument]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[consciousness-and-language-interface]]"
@@ -163,7 +162,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
 - [[epistemic-advantages-of-dualism]] — Why dualism provides better epistemic resources
 - [[consciousness-and-social-understanding]] — How minds understand each other
-- [[phenomenology-of-understanding-and-meaning]] — Meaning and conscious comprehension
+- [[phenomenology-of-intellectual-life]] — Meaning and conscious comprehension
 - [[consciousness-and-collective-phenomena]] — Shared consciousness and joint action
 - [[consciousness-and-language-interface]] — How consciousness converts experience into language
 - [[intersubjective-void]] — The constitutive gap between consciousnesses

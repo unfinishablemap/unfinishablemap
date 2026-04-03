@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 21:38 UTC - refine-draft
+- **Status**: Success
+- **File**: wikilink update across 38 files (26 topics, 12 concepts, 1 void)
+- **Changes**: Replaced all `[[phenomenology-of-understanding-and-meaning]]` wikilinks with `[[phenomenology-of-intellectual-life]]` after coalesce
+- **Published**: yes
+
 ## 2026-04-03 20:38 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[phenomenology-of-intellectual-life]], [[phenomenology-of-understanding-and-meaning]]
