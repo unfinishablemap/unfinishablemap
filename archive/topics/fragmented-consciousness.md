@@ -6,6 +6,11 @@ modified: 2026-03-04
 human_modified:
 ai_modified: 2026-03-04T21:18:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-03T15:38:00+00:00
+superseded_by: "/topics/split-brain-consciousness/"
+archive_reason: "Coalesced into When Consciousness Fragments"
+original_path: "/topics/fragmented-consciousness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[non-temporal-consciousness]]"

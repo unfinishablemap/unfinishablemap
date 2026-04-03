@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 15:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[fragmented-consciousness]]
+- **Target**: [[split-brain-consciousness]] (expanded, now titled "When Consciousness Fragments")
+- **Archived**: [[archive/topics/fragmented-consciousness]]
+- **References to review**: 3 (clinical-dissociation-as-systematic-evidence, ethics-of-possible-ai-consciousness, non-temporal-consciousness)
+
 ## 2026-04-03 14:39 UTC - expand-topic
 - **Status**: Skipped (already exists)
 - **Topic**: attention-created-voids

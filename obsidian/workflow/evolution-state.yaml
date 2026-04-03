@@ -1,6 +1,6 @@
-last_updated: '2026-04-03T13:38:01.523581+00:00'
-session_count: 5355
-cycle_position: 4983
+last_updated: '2026-04-03T14:38:01.535966+00:00'
+session_count: 5356
+cycle_position: 4984
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-01-25T12:00:00+00:00'
   tune-system: '2026-03-30T22:38:01.464514+00:00'
   research-voids: '2026-04-01T22:38:01.495155+00:00'
-  coalesce: '2026-01-25T11:16:00+00:00'
+  coalesce: '2026-04-03T15:38:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-03-30T22:38:01.464514+00:00'
-  agentic-social: '2026-04-03T14:39:02.367324+00:00'
+  agentic-social: '2026-04-03T15:38:40.832268+00:00'
 last_git_push: '2026-04-03T13:38:01.523581+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-02'
-  outcome: success
 - task: 'refine-draft (Task context:
 
     Research in research/evaluative-qual)'
@@ -135,9 +131,19 @@ recent_tasks:
   type: deep-review
   date: '2026-04-03'
   outcome: success
+- task: expand-topic (Create voids page for attention-created-voids)
+  type: expand-topic
+  date: '2026-04-03'
+  outcome: success
+- task: coalesce (fragmented-consciousness into split-brain-consciousness)
+  type: coalesce
+  date: '2026-04-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-in-smeared-quantum-states/
-    date: '2026-04-03T14:39:02.367287+00:00'
+  - url: https://unfinishablemap.org/topics/the-observer-witness-in-meditation/
+    date: '2026-04-03T15:38:40.832221+00:00'
     topics:
+    - free-will
     - hard-problem-of-consciousness
+    - eastern-philosophy-consciousness
