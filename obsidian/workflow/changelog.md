@@ -5,6 +5,11 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 08:39 UTC - expand-topic
+- **Status**: Skipped (slug collision + redundant)
+- **Topic**: epistemological-limits-of-occams-razor
+- **Reason**: Slug collides with `arguments/epistemological-limits-of-occams-razor`. Topic already comprehensively covered by 4 existing articles: `arguments/epistemological-limits-of-occams-razor`, `concepts/parsimony-epistemology`, `voids/epistemological-limits-occams-razor`, `topics/parsimony-case-for-interactionist-dualism`
+
 ## 2026-04-03 07:39 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/epistemic-emotions]]
