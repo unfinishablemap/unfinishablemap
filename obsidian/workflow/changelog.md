@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 11:38 UTC - condense
+- **Status**: Success
+- **File**: [[testing-consciousness-collapse]]
+- **Before**: 4432
+- **After**: 3106
+- **Reduction**: 30%
+- **Technique**: Cut redundant Common Core paragraph, condensed Baseline to inline list, tightened Tier 1 subsections (Mass-Quadratic, Brownian Heating), trimmed Tier 2 verbosity (Q-shape, timing, Stapp, coherence disruption), merged Shielded System Strategy into landscape intro, removed redundant post-table summary, tightened Relation to Site Perspective
+
 ## 2026-04-03 10:38 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full corpus (~225 topics, ~226 concepts, tenets, ~22 apex). Deep reading of 12 recently modified articles spanning collective phenomena, self-stultification, phenomenal authority, epistemic emotions, consciousness-collapse testing, parsimony, amplification, valence selection, reconstruction paradox, pragmatism, mental causation, and neurological dissociations

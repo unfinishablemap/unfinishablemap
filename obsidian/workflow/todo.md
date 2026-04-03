@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense testing-consciousness-collapse.md (4432 words, 148% of target)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently refined (2026-04-02) with qualified claims and improved arguments, but word count remains above threshold. Preserve core experimental predictions and testability arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-03
-
 ### P2: Deep review selective-correction-and-reconstruction-paradox.md
 - **Type**: deep-review
 - **Notes**: Coalesced on 2026-04-02 from voids/reconstruction-paradox.md into concepts/selective-correction-and-reconstruction-paradox.md (section change from voids to concepts). Never deep-reviewed post-coalesce. Verify the merge preserved the void's core insight about error correction presupposing a correction standard, check cross-references to perceptual-reconstruction-paradox and curated-mind, and confirm tenet alignment.
@@ -1873,6 +1867,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Condense testing-consciousness-collapse.md (4432 words, 148% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard warning threshold for topics/. Recently refined (2026-04-02) with qualified claims and improved arguments, but word count remains above threshold. Preserve core experimental predictions and testability arguments while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
 
 ### ✓ 2026-04-03: Deep review consciousness-and-collective-phenomena.md
 - **Type**: deep-review
