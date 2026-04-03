@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create topics page for attention-disorders-and-consciousness
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 9 articles (contemplative-pathology-and-interface-malfunction, structure-of-attention, attention-and-the-consciousness-interface, phenomenological-psychiatry-and-altered-experience, and others) but no page exists. The epistemological void when attention disorders compromise the instrument of investigation — ADHD, hemispatial neglect, Balint syndrome as windows into the consciousness-attention interface. Target section: topics/ (224/230).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-03
-
 ### P2: Cross-review consciousness-as-amplifier.md after condensation
 - **Type**: cross-review
 - **Status**: pending
@@ -1889,6 +1882,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-03: Create topics page for attention-disorders-and-consciousness
+- **Type**: expand-topic
+- **Notes**: Referenced by 9 articles (contemplative-pathology-and-interface-malfunction, structure-of-attention, attention-and-the-consciousness-interface, phenomenological-psychiatry-and-altered-experience, and others) but no page exists. The epistemological void when attention disorders compromise the instrument of investigation — ADHD, hemispatial neglect, Balint syndrome as windows into the consciousness-attention interface. Target section: topics/ (224/230).
+- **Output**: Create topics page for attention-disorders-and-consciousness
 
 ### ✓ 2026-04-03: Update references to coalesced fragmented-consciousness article
 - **Type**: cross-review

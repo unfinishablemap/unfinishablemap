@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-03 19:39 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Attention Disorders and Consciousness
+- **Output**: [[topics/attention-disorders-and-consciousness]]
+- **Word count**: 1923
+- **Based on research**: yes, [[research/attention-consciousness-mechanisms-2026-01-15]] and [[research/attention-consciousness-relationship-2026-01-15]]
+
 ## 2026-04-03 18:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/global-workspace-theory]]
