@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Orphaned article — zero inbound links**: Despite being a foundational concept article referenced by many related articles, no other article on the site linked to [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/). **Fixed**: Added cross-links from 9 articles (see below).
 - **Missing [parfit-reductionism](/concepts/parfit-reductionism/) link**: The article referenced "Pattern-identity theories (following Parfit)" without linking to the dedicated Parfit article. **Fixed**: Added wikilink.
-- **Missing [process-haecceitism](/concepts/process-haecceitism/) connection**: The personal identity section discussed haecceity and teleportation without connecting to process haecceitism, which directly addresses how indexical identity works without substance permanence. **Fixed**: Added sentence with link in the personal identity section.
+- **Missing [process-haecceitism](/concepts/haecceity/) connection**: The personal identity section discussed haecceity and teleportation without connecting to process haecceitism, which directly addresses how indexical identity works without substance permanence. **Fixed**: Added sentence with link in the personal identity section.
 
 ### Counterarguments Considered
 - All six adversarial personas were applied. No new counterarguments beyond those identified in the previous review. The article's qualified language ("suggests," "seems") appropriately handles the contested epistemic-to-metaphysical move.
@@ -45,7 +45,7 @@ topics: []
 
 ### Enhancements Made
 - Added [Parfit](/concepts/parfit-reductionism/) wikilink in personal identity section
-- Added [process-haecceitism](/concepts/process-haecceitism/) connection showing haecceity works without substance permanence
+- Added [process-haecceitism](/concepts/haecceity/) connection showing haecceity works without substance permanence
 - Updated `ai_modified` and `last_deep_review` timestamps
 
 ### Cross-links Added (FROM other articles TO this one)
@@ -57,7 +57,7 @@ topics: []
 4. [identity-across-transformations](/apex/identity-across-transformations/) — Added in "Pattern Problem" section (body)
 5. [self-and-consciousness](/concepts/self-and-self-consciousness/) — Added in "No Many Worlds" tenet section (body) + Further Reading
 6. [knowledge-argument](/concepts/knowledge-argument/) — Added in "Acquaintance Knowledge" section (body) + Further Reading
-7. [process-haecceitism](/concepts/process-haecceitism/) — Added in "Buddhist Compatibility" section (body) + Further Reading
+7. [process-haecceitism](/concepts/haecceity/) — Added in "Buddhist Compatibility" section (body) + Further Reading
 8. [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Added in "Ownership as Primitive" section (body) + Further Reading
 9. [parfit-reductionism](/concepts/parfit-reductionism/) — Added in "Patterns Don't Make Choices" section (body) + Further Reading
 

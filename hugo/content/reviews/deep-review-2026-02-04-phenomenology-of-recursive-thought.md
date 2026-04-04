@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-thought/)
+**Article**: [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-self-awareness/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-phenomenology-of-recursive-thought/)
 **Review focus**: Orphan integration (article had no inbound links)
 

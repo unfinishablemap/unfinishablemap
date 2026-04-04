@@ -126,7 +126,7 @@ The phenomenology of self-reference connects to the Map's [tenets](/tenets/) at 
 
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The formal and structural analysis of consciousness examining itself
 - [the-unobservable-self](/voids/self-reference-paradox/) — Why the observer cannot observe itself observing
-- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — The experiential structure of layered meta-cognition
+- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — The experiential structure of layered meta-cognition
 - [introspective-opacity](/voids/self-opacity/) — Why cognitive processes remain hidden while their products become conscious
 - [recursion-void](/voids/recursion-void/) — The empirical ceiling on metacognitive depth
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage

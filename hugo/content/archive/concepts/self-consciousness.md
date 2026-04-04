@@ -86,7 +86,7 @@ The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) illuminates this quest
 
 The [baseline cognition](/concepts/baseline-cognition/) research is revealing. Great apes demonstrate sophisticated cognition — tool use, social learning, procedural metacognition — yet appear to lack the recursive self-reflection that characterises human thought. They monitor their cognitive states (procedural [metacognition](/concepts/metacognition/)) without representing themselves *as beings who have cognitive states*. The gap between procedural metacognition and genuine self-consciousness — between *adjusting behaviour based on uncertainty* and *knowing that one is uncertain* — may be where reflective self-consciousness enters.
 
-This comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread among conscious creatures. Reflective self-consciousness — the capacity to take one's own awareness as an object of thought — may be far more restricted, perhaps to humans and a handful of other species. Full recursive self-consciousness — thinking about the fact that one is thinking about one's thinking — may be uniquely human, and as the [phenomenology of self-awareness](/topics/phenomenology-of-self-awareness/) reveals, even human self-consciousness encounters structural limits when it attempts deep recursion.
+This comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread among conscious creatures. Reflective self-consciousness — the capacity to take one's own awareness as an object of thought — may be far more restricted, perhaps to humans and a handful of other species. Full recursive self-consciousness — thinking about the fact that one is thinking about one's thinking — may be uniquely human, and as the [phenomenology of self-awareness](/topics/phenomenology-of-recursive-self-awareness/) reveals, even human self-consciousness encounters structural limits when it attempts deep recursion.
 
 ## The Meta-Hard Problem
 
@@ -116,7 +116,7 @@ Self-consciousness connects to the Map's foundational commitments at multiple po
 - [metacognition](/concepts/metacognition/) — Monitoring cognition vs knowing that one monitors
 - [self-reference-paradox](/concepts/self-reference-paradox/) — Why the observer cannot catch itself observing
 - [The Ownership Void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — What self-awareness feels like from the inside
+- [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — What self-awareness feels like from the inside
 - [jourdain-hypothesis](/concepts/jourdain-hypothesis/) — Having mental states vs knowing you have them
 - [witness-consciousness](/concepts/witness-consciousness/) — Awareness stripped of reflexive identification
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood

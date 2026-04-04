@@ -36,7 +36,7 @@ related_articles:
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[methodology-of-consciousness-research]]'
 - '[[consciousness-and-intersubjectivity]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[phenomenology-of-recursive-self-awareness]]'
 title: Social Construction of Self vs Phenomenal Self
 topics:
 - '[[personal-identity]]'
@@ -126,7 +126,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [self-reference paradox](/voids/self-opacity/) — Why the phenomenal self resists its own introspective gaze
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity is insufficient
 - [inaccessible-past](/voids/inaccessible-past/) — The reconstructive nature of autobiographical memory
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — How self-awareness transforms consciousness, generating capacities social construction operates upon but cannot produce
+- [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness transforms consciousness, generating capacities social construction operates upon but cannot produce
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditative phenomenology as evidence for the persistence of the phenomenal self
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The lived body as pre-social foundation for phenomenal selfhood
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why constructionism's third-person methodology misses the phenomenal self

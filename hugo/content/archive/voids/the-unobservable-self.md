@@ -50,7 +50,7 @@ This void differs from the [general self-reference problem](/concepts/self-refer
 
 Direct the attention inward. Observe your own observing. What happens?
 
-You become aware of awareness. But now there are two layers: the awareness observed and the awareness observing it. Attempt to observe *that* awareness—a third layer forms. The regression has no natural endpoint. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) maps this layered structure and reveals why higher levels become increasingly difficult to maintain, eventually collapsing rather than extending indefinitely. The [recursion-void](/voids/recursion-void/) quantifies this limit: empirical research on theory of mind finds the ceiling at approximately fifth-order intentionality.
+You become aware of awareness. But now there are two layers: the awareness observed and the awareness observing it. Attempt to observe *that* awareness—a third layer forms. The regression has no natural endpoint. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-self-awareness/) maps this layered structure and reveals why higher levels become increasingly difficult to maintain, eventually collapsing rather than extending indefinitely. The [recursion-void](/voids/recursion-void/) quantifies this limit: empirical research on theory of mind finds the ceiling at approximately fifth-order intentionality.
 
 David Hume put the problem empirically: "I never can catch myself at any time without a perception." The self doing the catching produces a perception of catching—but the catcher remains uncaught.
 

@@ -29,7 +29,7 @@ topics: []
 
 ### Medium Issues Found
 
-1. **Missing cross-link to [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)**: The self-awareness article's "transformation thesis" directly challenges AST's modeling account — self-awareness qualitatively transforms experience rather than adding a monitoring layer, which is precisely what AST proposes. Highly relevant given cross-review context.
+1. **Missing cross-link to [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)**: The self-awareness article's "transformation thesis" directly challenges AST's modeling account — self-awareness qualitatively transforms experience rather than adding a monitoring layer, which is precisely what AST proposes. Highly relevant given cross-review context.
    - **Resolution**: Added cross-link in witness consciousness section and Further Reading. Added to related_articles frontmatter.
 
 2. **Uncited empirical claims (deferred from 2026-03-03 review)**: Four claims in Neural Evidence and AI sections remain without citations. The 2024 deep RL emergence claim is most suspect. Previous review correctly recommended a targeted refine-draft task rather than another deep review.
@@ -72,13 +72,13 @@ All six adversarial personas engaged:
 ### Enhancements Made
 
 - Fixed "reframation" → "reframing"
-- Added cross-link to [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) in witness consciousness section
-- Added [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) to Further Reading and related_articles
+- Added cross-link to [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) in witness consciousness section
+- Added [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) to Further Reading and related_articles
 - Minor prose tightening for length neutrality
 
 ### Cross-links Added
 
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) (new — cross-review context)
+- [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) (new — cross-review context)
 
 ## Word Count
 

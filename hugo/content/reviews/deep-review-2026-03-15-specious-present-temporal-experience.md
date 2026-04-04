@@ -67,7 +67,7 @@ The superseding article ([temporal-consciousness](/concepts/temporal-consciousne
 However, two articles discussed temporal concepts relevant to the specious present without linking to temporal-consciousness:
 
 1. **[consciousness-and-memory](/topics/consciousness-and-memory/)**: Discusses "experienced present lasting roughly 100ms to 5s" — a direct reference to the specious present — without linking to temporal-consciousness.
-2. **[phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/)**: Has a "Temporal Thickness" section discussing duration requirements for recursive thought without linking to temporal-consciousness.
+2. **[phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/)**: Has a "Temporal Thickness" section discussing duration requirements for recursive thought without linking to temporal-consciousness.
 
 ### Cross-links Added
 

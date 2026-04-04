@@ -44,7 +44,7 @@ topics:
 
 Meaning is not found; it is made. And the making has a phenomenology—a distinctive felt quality that varies with what kind of meaning consciousness produces. When you grasp a mathematical proof, hear a melody resolve, recognise someone's suffering as mattering, or catch yourself in the act of thinking, each involves a different phenomenal texture of significance. The Unfinishable Map argues that these are not decorative accompaniments to information processing but the very substance of meaning itself. Meaning is a phenomenal achievement: something consciousness *does*, and what it is like to do it constitutes what meaning is.
 
-This article synthesises insights scattered across the Map's phenomenology articles—[musical understanding](/topics/phenomenology-of-musical-understanding/), [cognitive phenomenology](/concepts/cognitive-phenomenology/), [recursive thought](/topics/phenomenology-of-recursive-thought/), [anticipation](/topics/phenomenology-of-anticipation/), and [phenomenal value realism](/topics/phenomenal-value-realism/)—into a unified account of consciousness as the locus of meaning-making. The convergence of these independent analyses strengthens the case that meaning resists computational characterisation.
+This article synthesises insights scattered across the Map's phenomenology articles—[musical understanding](/topics/phenomenology-of-musical-understanding/), [cognitive phenomenology](/concepts/cognitive-phenomenology/), [recursive thought](/topics/phenomenology-of-recursive-self-awareness/), [anticipation](/topics/phenomenology-of-anticipation/), and [phenomenal value realism](/topics/phenomenal-value-realism/)—into a unified account of consciousness as the locus of meaning-making. The convergence of these independent analyses strengthens the case that meaning resists computational characterisation.
 
 ## Five Modes of Phenomenal Meaning
 
@@ -74,7 +74,7 @@ Surprise provides a negative portrait of temporal meaning. When something genuin
 
 ### Self-Reflexive Meaning: The Mind Folding Back
 
-[Recursive thought](/topics/phenomenology-of-recursive-thought/)—thinking about thinking—generates meaning of a distinctive kind. When consciousness takes itself as object, the thinker becomes both subject and observed, and something qualitatively new emerges. The experience of thinking about a tree differs from the experience of thinking about thinking about the tree. The second is not merely "more thinking"—it is a different mode of awareness in which the subject partially objectifies itself.
+[Recursive thought](/topics/phenomenology-of-recursive-self-awareness/)—thinking about thinking—generates meaning of a distinctive kind. When consciousness takes itself as object, the thinker becomes both subject and observed, and something qualitatively new emerges. The experience of thinking about a tree differs from the experience of thinking about thinking about the tree. The second is not merely "more thinking"—it is a different mode of awareness in which the subject partially objectifies itself.
 
 This recursive meaning-making is where consciousness generates significance about its own nature. The felt quality of doubled awareness—being the one thinking while simultaneously observing the thinking—is the phenomenological ground of self-knowledge. It is also inherently unstable: the thought being examined was just now the subject doing the thinking, and the thought now examining it will shortly become an object for further examination. This instability is itself meaningful—it reveals structural features of consciousness that stable, object-directed thought does not disclose.
 
@@ -136,7 +136,7 @@ The convergence of independent phenomenological analyses on the same structural 
 
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has phenomenal character
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Non-propositional meaning in musical experience
-- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — Consciousness taking itself as object
+- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — Consciousness taking itself as object
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed structure of experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to conscious experience
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/) — How consciousness weaves meanings into understanding

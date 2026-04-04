@@ -57,7 +57,7 @@ Added inbound wikilinks from 8 articles to integrate this orphan into site navig
 3. [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — In "Phenomenology of Evolved Limits" section, linked as the systematic mapping of limit phenomenologies
 4. [cognitive-aversion](/voids/defended-territory/) — After aversion markers, linked for positioning motivated disinterest within the broader diagnostic grid
 5. [compound-cognitive-limits](/voids/compound-failure-signatures/) — In "Phenomenology of Compound Closure" section, linked for systematising individual signature-to-origin mapping
-6. [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — In "Phenomenology of Error Recognition" section, linked for classifying self-referential signatures
+6. [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — In "Phenomenology of Error Recognition" section, linked for classifying self-referential signatures
 7. [mysterianism](/concepts/mysterianism/) — In "Phenomenology of Cognitive Closure" section, linked as the diagnostic framework for different limit types
 8. [introspection](/concepts/introspection/) — In "The Unobservable Self" section, linked for placing introspective signatures in the broader diagnostic grid
 

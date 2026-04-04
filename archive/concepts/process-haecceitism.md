@@ -2,11 +2,16 @@
 title: "Process Haecceitism"
 description: "Particularity without permanence: haecceity applies to experiential processes rather than enduring substances, reconciling Buddhist impermanence with indexical identity."
 created: 2026-02-10
-modified: 2026-02-15
+modified: 2026-04-04
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-04-04T17:58:00+00:00
 last_deep_review: 2026-03-16T06:48:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-04T17:58:00+00:00
+superseded_by: "/concepts/haecceity/"
+archive_reason: "Coalesced into Haecceity and Indexical Identity"
+original_path: "/concepts/process-haecceitism/"
 topics:
   - "[[personal-identity]]"
   - "[[hard-problem-of-consciousness]]"

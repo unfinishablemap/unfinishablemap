@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-04 17:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Reasons-responsiveness is the capacity to track normative relations
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 12:08:00+00:00
+last_deep_review: 2026-04-04 17:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,7 +67,7 @@ Reasons-responsiveness has a distinctive phenomenology. Deliberation involves *a
 
 Crucially, reasons feel like they have *valence*—some considerations feel weightier than others, pulling toward one conclusion rather than another. This felt weight isn't reducible to having the thought "this consideration is important"; it's the experiential quality of the consideration *pressing* toward a conclusion. [Normative phenomenology](/concepts/normative-phenomenology/) investigates precisely this structure: how obligation, evidential weight, and logical compulsion present themselves in conscious experience. The difference between intellectual acknowledgment ("X is a reason for Y") and reasons-responsiveness proper is this felt directedness.
 
-The [phenomenology of effort](/concepts/mental-effort/) supports this. Hard choices feel hard because reasoning through difficult trade-offs requires sustained engagement. Random processes don't feel like work; grasping why one option is better does. The felt cost of concentration corresponds to genuine cognitive work—consciousness tracking normative relationships that wouldn't be tracked by automatic processing.
+The [phenomenology of intellectual life](/topics/phenomenology-of-intellectual-life/) catalogues these structures systematically: the "click" of comprehension, the strain of sustained inference, the felt difference between understanding and mere verbal association. The [phenomenology of effort](/concepts/mental-effort/) supports this further. Hard choices feel hard because reasoning through difficult trade-offs requires sustained engagement. Random processes don't feel like work; grasping why one option is better does. The felt cost of concentration corresponds to genuine cognitive work—consciousness tracking normative relationships that wouldn't be tracked by automatic processing.
 
 The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) reveals the reasons-responsive structure. Choosing feels like determining an outcome *for* reasons. The experience isn't "option A randomly emerged from noise" but "I selected A because considerations X and Y favoured it." This phenomenological datum requires explanation. Eliminativists deny it; illusionists reframe it as misrepresentation; the Map takes it as evidence that consciousness genuinely engages with normative relationships.
 
@@ -138,6 +138,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 - [voluntary attention](/concepts/attention-as-interface/) — The paradigm case of reasons-responsive selection in attention deployment
 - [causal-closure](/concepts/causal-closure/) — The physicalist principle that reasons-responsiveness challenges
 - [normative-phenomenology](/concepts/normative-phenomenology/) — How obligation and evidential weight present themselves in conscious experience
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt texture of reasoning, comprehension, and intellectual work
 - [process-and-consciousness](/apex/process-and-consciousness/) — Process philosophy's support for reasons-responsiveness as experiential self-determination
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How reasons-responsive agency grounds moral obligation and character
 

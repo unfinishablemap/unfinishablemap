@@ -311,7 +311,7 @@ The reviewer's characterizations of the site's positions were checked against ex
 
 7. **Psychophysical temporal asymmetry** (#4) — Largely addressed by existing time-consciousness content. The suggestion to split into explicit competing models has merit.
 
-8. **Haecceity commitment** (#6) — Substantially addressed by existing [haecceity](/concepts/haecceity/), [process-haecceitism](/concepts/process-haecceitism/), and [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/). The "full cash-out" suggestion has diminishing returns given existing coverage.
+8. **Haecceity commitment** (#6) — Substantially addressed by existing [haecceity](/concepts/haecceity/), [process-haecceitism](/concepts/haecceity/), and [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/). The "full cash-out" suggestion has diminishing returns given existing coverage.
 
 ### Lower-value findings (already addressed or not actionable)
 

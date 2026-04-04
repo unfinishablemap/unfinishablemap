@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [The Phenomenology of Self-Awareness](/topics/phenomenology-of-self-awareness/)
+**Article**: [The Phenomenology of Self-Awareness](/topics/phenomenology-of-recursive-self-awareness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

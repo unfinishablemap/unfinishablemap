@@ -35,7 +35,7 @@ related_articles:
 - '[[death-and-consciousness]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[phenomenology-of-recursive-self-awareness]]'
 title: 'The Self: Minimal, Narrative, and Substantial'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -157,7 +157,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 ## Further Reading
 
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — How self-awareness transforms consciousness: the experiential signatures that distinguish self-aware from merely conscious beings
+- [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness transforms consciousness: the experiential signatures that distinguish self-aware from merely conscious beings
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of consciousness
 - [personal-identity](/topics/personal-identity/) — What makes you persist over time
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough

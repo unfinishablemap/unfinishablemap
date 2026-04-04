@@ -2083,7 +2083,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-10 03:11 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Process haecceitism
-- **Output**: [process-haecceitism](/concepts/process-haecceitism/)
+- **Output**: [process-haecceitism](/concepts/haecceity/)
 - **Word count**: 1638
 - **Based on research**: No
 

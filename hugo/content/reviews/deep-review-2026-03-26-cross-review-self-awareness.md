@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-26
-**New Article**: [The Phenomenology of Self-Awareness](/topics/phenomenology-of-self-awareness/)
+**New Article**: [The Phenomenology of Self-Awareness](/topics/phenomenology-of-recursive-self-awareness/)
 **Articles Reviewed**: 5 self-awareness articles cross-reviewed for integration
 
 ## Cross-Review Summary
@@ -33,13 +33,13 @@ The new article "The Phenomenology of Self-Awareness" (created 2026-03-25) intro
 
 ### Misdirected Links in self-and-self-consciousness.md
 **Severity**: Critical
-**Issue**: Two links displayed as "phenomenology of self-awareness" were pointing to `[self-opacity](/voids/self-opacity/)` instead of the actual `[phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)` article. Now that the dedicated article exists, these misdirections would confuse readers expecting content about what self-awareness feels like and instead getting content about what consciousness cannot know about itself.
-**Resolution**: Both links updated to point to `[phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)`.
+**Issue**: Two links displayed as "phenomenology of self-awareness" were pointing to `[self-opacity](/voids/self-opacity/)` instead of the actual `[phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)` article. Now that the dedicated article exists, these misdirections would confuse readers expecting content about what self-awareness feels like and instead getting content about what consciousness cannot know about itself.
+**Resolution**: Both links updated to point to `[phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)`.
 
 ## Cross-Links Added
 
 ### 1. self-and-self-consciousness.md (concept)
-- Fixed 2 misdirected `[phenomenology of self-awareness](/voids/self-opacity/)` → `[phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)`
+- Fixed 2 misdirected `[phenomenology of self-awareness](/voids/self-opacity/)` → `[phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)`
 - Added to `related_articles` frontmatter
 - Updated Further Reading entry with accurate description
 - **Rationale**: This is the primary concept article for self/self-consciousness. The new article provides the phenomenological detail that this article's Comparative Cognition section references.

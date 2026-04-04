@@ -100,7 +100,7 @@ This aligns with the [Dualism](/tenets/#dualism) tenet's claim that consciousnes
 
 ### Process Haecceitism
 
-Process metaphysics also illuminates the [haecceity](/concepts/haecceity/) question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. [Process haecceitism](/concepts/process-haecceitism/) develops this idea in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
+Process metaphysics also illuminates the [haecceity](/concepts/haecceity/) question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. [Process haecceitism](/concepts/haecceity/) develops this idea in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
 
 ### Temporal Structure
 
@@ -173,7 +173,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 ## Further Reading
 
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis integrating process philosophy with the Map's consciousness framework
-- [process-haecceitism](/concepts/process-haecceitism/) — How haecceity applies to processes rather than substances
+- [process-haecceitism](/concepts/haecceity/) — How haecceity applies to processes rather than substances
 - [prehension](/concepts/prehension/) — Whitehead's concept of how each moment grasps its predecessors
 - [subjective-aim](/concepts/subjective-aim/) — Whitehead's goal-directedness in actual occasions
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Time experience and its connection to Whiteheadian process

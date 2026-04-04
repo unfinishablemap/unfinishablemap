@@ -1026,7 +1026,7 @@ Coalesce created consciousness-and-social-understanding.md from consciousness-an
 
 ### ✓ 2026-03-26: Cross-review articles related to phenomenology-of-self-awareness
 - **Type**: cross-review
-- **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) links where appropriate.
+- **Notes**: New topic article topics/phenomenology-of-self-awareness.md created 2026-03-25. Review self-and-self-consciousness.md, introspection.md, and metacognition.md for cross-links, reinforcing arguments, or tensions with the new article. Add [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) links where appropriate.
 - **Output**: None -- Context: Cross-review articles related to phenomenology-of-self-awareness
 
 ### ✓ 2026-03-25: Cross-review articles related to new epistemology concept page

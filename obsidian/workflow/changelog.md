@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 17:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/process-haecceitism]]
+- **Target**: [[concepts/haecceity]]
+- **Archived**: [[archive/concepts/process-haecceitism]]
+- **References to review**: 5 active content files (identity-across-transformations, indexical-knowledge-and-identity, process-philosophy, consciousness-and-the-metaphysics-of-individuation, vertiginous-question)
+
 ## 2026-04-04 17:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/attention-and-the-consciousness-interface]]

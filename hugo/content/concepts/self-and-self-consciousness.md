@@ -37,7 +37,7 @@ last_deep_review: 2026-03-23 22:30:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[phenomenology-of-recursive-thought]]'
+- '[[phenomenology-of-recursive-self-awareness]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[self-consciousness-philosophy-2026-01-15]]'
@@ -48,7 +48,7 @@ related_articles:
 - '[[indexical-void]]'
 - '[[cognitive-integration-and-the-self]]'
 - '[[consciousness-and-memory]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[phenomenology-of-recursive-self-awareness]]'
 title: Self and Self-Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -106,7 +106,7 @@ This capacity may be constitutive of the temporally extended self. The minimal s
 
 [Metacognition](/concepts/metacognition/) and the minimal self must be carefully distinguished. Metacognition monitors conscious content; the minimal self is the first-person perspective that makes there be content to monitor.
 
-Empirical evidence shows they can come apart. In flow states, subjects report vivid phenomenal experience — consciousness with clear for-me-ness — while metacognitive self-monitoring recedes. Young children (before age 3-4) have phenomenal experiences without the metacognitive capacity to reflect on those experiences. These dissociations suggest the minimal self is more fundamental than metacognitive self-monitoring. The [phenomenology of recursive thought](/topics/phenomenology-of-recursive-thought/) explores what happens when the minimal self takes its own awareness as object — generating a distinctive "doubled awareness" where one experiences being both observer and observed.
+Empirical evidence shows they can come apart. In flow states, subjects report vivid phenomenal experience — consciousness with clear for-me-ness — while metacognitive self-monitoring recedes. Young children (before age 3-4) have phenomenal experiences without the metacognitive capacity to reflect on those experiences. These dissociations suggest the minimal self is more fundamental than metacognitive self-monitoring. The [phenomenology of recursive self-awareness](/topics/phenomenology-of-recursive-self-awareness/) explores what happens when the minimal self takes its own awareness as object — generating a distinctive "doubled awareness" where one experiences being both observer and observed.
 
 ## Comparative Cognition
 
@@ -114,7 +114,7 @@ The mirror self-recognition test (Gallup, 1970) provides a behavioural marker: g
 
 [Baseline cognition](/concepts/baseline-cognition/) research supports this: great apes demonstrate procedural [metacognition](/concepts/metacognition/) — adjusting behaviour based on uncertainty — without representing themselves *as beings who have cognitive states*. This gap between procedural metacognition and genuine self-consciousness may be where reflective self-consciousness enters.
 
-The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [phenomenology of self-awareness](/topics/phenomenology-of-self-awareness/) reveals, even human self-consciousness encounters structural limits at deep recursion.
+The comparative picture suggests self-consciousness has degrees. Pre-reflective self-consciousness may be widespread; reflective self-consciousness far more restricted. Full recursive self-consciousness may be uniquely human, and as the [phenomenology of recursive self-awareness](/topics/phenomenology-of-recursive-self-awareness/) reveals, even human self-consciousness encounters structural limits at deep recursion.
 
 ## Metzinger's Challenge
 
@@ -178,7 +178,7 @@ If dissociation cases revealed genuinely anonymous experiences — content exper
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three conceptions of selfhood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist no-self and the Map's irreducibility thesis
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — What self-awareness feels like from the inside: the transformation thesis, experiential signatures, and contemplative evidence
+- [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — What self-awareness feels like from the inside: the transformation thesis, experiential signatures, and contemplative evidence
 - [galilean-exclusion](/concepts/galilean-exclusion/) — Why science's founding methodology excludes what self-consciousness is
 - [ownership-void](/voids/ownership-void/) — Why the for-me-ness of experience hides its own ground
 - [personal-identity](/topics/personal-identity/) — How the self persists over time

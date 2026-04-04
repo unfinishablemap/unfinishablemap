@@ -26,7 +26,7 @@ topics: []
 None. The article's structure, factual claims, and required sections are sound. No misattributions, self-contradictions, or source/Map conflations detected.
 
 ### Medium Issues Found
-- **Outdated cross-link to archived article**: The Buddhist objection response referenced `[eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousness/)`, which has been archived and coalesced into "Eastern Philosophy and Consciousness." *Resolution*: Updated to `[process-haecceitism](/concepts/process-haecceitism/)`, which is the live concept page covering exactly the referenced "process haecceitism" response.
+- **Outdated cross-link to archived article**: The Buddhist objection response referenced `[eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousness/)`, which has been archived and coalesced into "Eastern Philosophy and Consciousness." *Resolution*: Updated to `[process-haecceitism](/concepts/haecceity/)`, which is the live concept page covering exactly the referenced "process haecceitism" response.
 
 - **Hellie citation year off by one**: Cited as Hellie (2012) but the paper was published in *Analysis* 73(2) in 2013 (preprint was February 2012). *Resolution*: Corrected to 2013.
 
@@ -55,13 +55,13 @@ All six pessimistic personas engaged. The article already handles their core obj
 - Effective use of italicized emphasis on indexical terms (*I*, *this*, *mine*)
 
 ### Enhancements Made
-- Updated outdated link to archived article → live `[process-haecceitism](/concepts/process-haecceitism/)` concept page
+- Updated outdated link to archived article → live `[process-haecceitism](/concepts/haecceity/)` concept page
 - Corrected two citation errors (Hellie year, List year and volume)
-- Added `[process-haecceitism](/concepts/process-haecceitism/)` to Further Reading and concepts frontmatter
+- Added `[process-haecceitism](/concepts/haecceity/)` to Further Reading and concepts frontmatter
 - Added `[indexical-void](/voids/indexical-void/)` to Further Reading (natural companion on limits of indexical knowledge)
 
 ### Cross-links Added
-- [process-haecceitism](/concepts/process-haecceitism/) (replacing archived link, added to Further Reading and frontmatter)
+- [process-haecceitism](/concepts/haecceity/) (replacing archived link, added to Further Reading and frontmatter)
 - [indexical-void](/voids/indexical-void/) (added to Further Reading)
 
 ## Remaining Items

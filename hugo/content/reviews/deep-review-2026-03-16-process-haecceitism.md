@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [Process Haecceitism](/concepts/process-haecceitism/)
+**Article**: [Process Haecceitism](/concepts/haecceity/)
 **Previous review**: [2026-02-15](/reviews/deep-review-2026-02-15-process-haecceitism/)
 
 ## Pessimistic Analysis Summary

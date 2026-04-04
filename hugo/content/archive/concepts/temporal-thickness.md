@@ -75,7 +75,7 @@ Husserl's analysis of time-consciousness provides the structural foundation. Eac
 
 A temporally thick moment has deep retention (the echoing past extends further and feels more vivid), active protention (the anticipated future presses into the now), and a primal impression enriched by both. A temporally thin moment has shallow retention, minimal protention, and a present that floats without temporal context.
 
-This is why [recursive thought](/topics/phenomenology-of-recursive-thought/) feels temporally thick. When you think about your own thinking, each layer of reflection adds temporal depth: you retain not just the thought but the act of having had it, and you anticipate not just the next thought but the next act of reflection. The characteristic instability of self-referential thinking — the sense that the ground shifts as you examine it — is partly a temporal phenomenon: too many layers of retention pressing into a present that cannot accommodate them all.
+This is why [recursive thought](/topics/phenomenology-of-recursive-self-awareness/) feels temporally thick. When you think about your own thinking, each layer of reflection adds temporal depth: you retain not just the thought but the act of having had it, and you anticipate not just the next thought but the next act of reflection. The characteristic instability of self-referential thinking — the sense that the ground shifts as you examine it — is partly a temporal phenomenon: too many layers of retention pressing into a present that cannot accommodate them all.
 
 ## Authentic Choice and Temporal Thickness
 
@@ -130,7 +130,7 @@ Temporal thickness connects to the Map's [tenets](/tenets/) at several points.
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The duration of the experienced present
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's concept of qualitative lived time
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Broader treatment of time in consciousness
-- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — How self-referential thinking creates temporal depth
+- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — How self-referential thinking creates temporal depth
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — How temporal thickness distinguishes genuine from automatic choice
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's actual occasions and concrescence
 - [witness-consciousness](/concepts/witness-consciousness/) — Observing temporal flow itself

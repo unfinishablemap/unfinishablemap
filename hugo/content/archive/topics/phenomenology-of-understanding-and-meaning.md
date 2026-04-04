@@ -115,7 +115,7 @@ Surprise provides a negative portrait: the phenomenal jolt reveals the anticipat
 
 ### Self-Reflexive Meaning
 
-[Recursive thought](/topics/phenomenology-of-recursive-thought/) — thinking about thinking — generates meaning of a distinctive kind. When consciousness takes itself as object, the thinker becomes both subject and observed, and something qualitatively new emerges. The experience of thinking about a tree differs from the experience of thinking about thinking about the tree. The second is a different mode of awareness in which the subject partially objectifies itself.
+[Recursive thought](/topics/phenomenology-of-recursive-self-awareness/) — thinking about thinking — generates meaning of a distinctive kind. When consciousness takes itself as object, the thinker becomes both subject and observed, and something qualitatively new emerges. The experience of thinking about a tree differs from the experience of thinking about thinking about the tree. The second is a different mode of awareness in which the subject partially objectifies itself.
 
 This recursive mode demonstrates that meaning-making is not always outward-directed. Some of the most significant meanings consciousness generates concern itself — the meaning of being aware, of being a subject, of existing as the kind of thing that can ask what it is. These are not propositional meanings and not aesthetic meanings. They are the felt significance of self-encounter.
 
@@ -247,7 +247,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge to phenomenal consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Non-propositional meaning in musical experience
-- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — Consciousness taking itself as object
+- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — Consciousness taking itself as object
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed structure of experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to conscious experience
 - [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property

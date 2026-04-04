@@ -9,6 +9,58 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 17:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [process-haecceitism](/concepts/process-haecceitism/)
+- **Target**: [haecceity](/concepts/haecceity/)
+- **Archived**: [process-haecceitism](/archive/concepts/process-haecceitism/)
+- **References to review**: 5 active content files (identity-across-transformations, indexical-knowledge-and-identity, process-philosophy, consciousness-and-the-metaphysics-of-individuation, vertiginous-question)
+
+## 2026-04-04 17:33 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)
+- **Word count**: 3026 → 3057 (+31, length-neutral mode)
+- **Critical issues addressed**: 1 (duplicate concept in frontmatter)
+- **Medium issues addressed**: 3 (cross-reference to companion article, interface-friction link, Further Reading update)
+- **Enhancements made**: 3 (cross-links to attention-disorders-and-consciousness expanded clinical evidence)
+- **Output**: [deep-review-2026-04-04-attention-and-the-consciousness-interface](/reviews/deep-review-2026-04-04-attention-and-the-consciousness-interface/)
+
+## 2026-04-04 17:19 UTC - deep-review
+- **Status**: Success
+- **File**: [reasons-responsiveness](/concepts/reasons-responsiveness/)
+- **Word count**: 2001 → 2041 (+40)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to phenomenology-of-intellectual-life)
+- **Enhancements made**: 1 (cross-link to recently coalesced article)
+- **Output**: [deep-review-2026-04-04-reasons-responsiveness](/reviews/deep-review-2026-04-04-reasons-responsiveness/)
+
+## 2026-04-04 17:03 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-presence-void](/voids/phenomenal-presence-void/)
+- **Word count**: 2853 → 2887 (+34, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 ("proves" → "demonstrates"; missing cross-link to phenomenal-absence-void)
+- **Enhancements made**: 1 (cross-reference to complementary absence void)
+- **Cross-review context**: [phenomenal-absence-void](/voids/phenomenal-absence-void/)
+- **Output**: [deep-review-2026-04-04-phenomenal-presence-void](/reviews/deep-review-2026-04-04-phenomenal-presence-void/)
+
+## 2026-04-04 16:48 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)
+- **Word count**: 2809 → 2809 (unchanged — length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale self-opacity display text)
+- **Enhancements made**: 0 (article stable from source reviews)
+- **Cross-links updated**: 14 files (stale wikilinks to archived source articles)
+- **Output**: [deep-review-2026-04-04-phenomenology-of-recursive-self-awareness](/reviews/deep-review-2026-04-04-phenomenology-of-recursive-self-awareness/)
+
+## 2026-04-04 16:37 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/), [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/)
+- **Target**: [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)
+- **Archived**: [phenomenology-of-self-awareness](/archive/topics/phenomenology-of-self-awareness/), [phenomenology-of-recursive-thought](/archive/topics/phenomenology-of-recursive-thought/)
+- **References to review**: 15 active content files
+
 ## 2026-04-04 16:18 UTC - refine-draft
 - **Status**: Success
 - **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-thought/)
+**Article**: [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-self-awareness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

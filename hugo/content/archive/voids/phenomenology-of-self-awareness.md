@@ -185,7 +185,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The formal and structural analysis of consciousness examining itself
 - [observation-void](/voids/observation-and-measurement-void/) — The structural impossibility of observing observation itself
-- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/) — The experiential structure of layered meta-cognition
+- [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — The experiential structure of layered meta-cognition
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling (limited) self-monitoring
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
 - [introspective-opacity](/voids/self-opacity/) — Why cognitive processes remain hidden while their products become conscious

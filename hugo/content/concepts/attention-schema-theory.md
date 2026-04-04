@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[attention-and-the-consciousness-interface]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[phenomenology-of-recursive-self-awareness]]'
 title: Attention Schema Theory
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -141,7 +141,7 @@ If the attention schema *seems* to generate consciousness, something must experi
 
 ### Contemplative Evidence Against AST
 
-[Witness consciousness](/concepts/witness-consciousness/) presents a particular challenge. Contemplative traditions report a mode of awareness that observes mental contents—including attention itself—without identifying with them. If AST were correct, this witness should be another attention schema modeling the first. But the [phenomenology of self-awareness](/topics/phenomenology-of-self-awareness/) suggests otherwise: self-awareness qualitatively transforms experience rather than adding a monitoring layer—precisely what AST proposes. The witness is not a model but the subject for whom models appear.
+[Witness consciousness](/concepts/witness-consciousness/) presents a particular challenge. Contemplative traditions report a mode of awareness that observes mental contents—including attention itself—without identifying with them. If AST were correct, this witness should be another attention schema modeling the first. But the [phenomenology of self-awareness](/topics/phenomenology-of-recursive-self-awareness/) suggests otherwise: self-awareness qualitatively transforms experience rather than adding a monitoring layer—precisely what AST proposes. The witness is not a model but the subject for whom models appear.
 
 [Trained introspectors](/concepts/introspection/) report accessing attention directly, not through a schema. The phenomenology of directing attention—the felt quality of focusing, sustaining, and releasing—resists assimilation into "model of attention." Either these reports are systematically mistaken (requiring explanation of why training deepens rather than dissolves the seeming), or AST fails to capture what attention actually is.
 
@@ -236,7 +236,7 @@ AST illustrates a recurring pattern in consciousness science: explaining the *fu
 - [introspection](/concepts/introspection/) — First-person methods and their reliability
 - [haecceity](/concepts/haecceity/) — The indexical identity problem AST cannot address
 - [mental-effort](/concepts/mental-effort/) — The phenomenology AST must explain away
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — Why self-awareness transforms experience rather than merely modeling it
+- [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — Why self-awareness transforms experience rather than merely modeling it
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How AST's meta-problem answer exposes illusionism's escalating burden
 - [decoherence](/concepts/decoherence/) — The quantum objection (which AST sidesteps but doesn't refute)
 

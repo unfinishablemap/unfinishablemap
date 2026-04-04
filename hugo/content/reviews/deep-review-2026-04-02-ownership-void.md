@@ -69,7 +69,7 @@ All six adversarial personas engaged. Findings consistent with previous review:
 
 ### Cross-links Added
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — inline in Metzinger section + Further Reading
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — Further Reading
+- [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — Further Reading
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — inline in contemplative section + Further Reading
 - [transition-void](/voids/transition-void/) — Further Reading
 - [self-reference-paradox](/concepts/self-reference-paradox/) — updated from anchored self-opacity link to standalone page

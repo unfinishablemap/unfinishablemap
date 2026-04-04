@@ -31,7 +31,7 @@ topics: []
 - Minimal Quantum Interaction tenet not discussed in Relation to Site Perspective despite being referenced in the body: Fixed by adding dedicated paragraph
 
 ### Low Issues Found
-- `process-philosophy` listed in concepts but not cross-linked in body: Addressed indirectly through new `[process-haecceitism](/concepts/process-haecceitism/)` link in haecceity paragraph
+- `process-philosophy` listed in concepts but not cross-linked in body: Addressed indirectly through new `[process-haecceitism](/concepts/haecceity/)` link in haecceity paragraph
 
 ### Counterarguments Considered
 - **Eliminative Materialist**: Would challenge the premise that no physical criterion can explain subject boundaries. Article acknowledges this through the physicalism paragraph (line 49) but could expand. Deferred — the article is appropriately focused on the dualist framing.
@@ -65,7 +65,7 @@ All attributions checked and verified:
 
 ### Enhancements Made
 - Added Minimal Quantum Interaction paragraph to Relation to Site Perspective, completing coverage of all five tenets
-- Added `[process-haecceitism](/concepts/process-haecceitism/)` cross-link in haecceity discussion, connecting static and dynamic accounts of thisness
+- Added `[process-haecceitism](/concepts/haecceity/)` cross-link in haecceity discussion, connecting static and dynamic accounts of thisness
 - Added `[unity-of-consciousness](/concepts/unity-of-consciousness/)` and `[varieties-of-unity](/concepts/unity-of-consciousness/)` to Further Reading section
 - Fixed broken concept link: `phenomenal-unity` → `unity-of-consciousness`
 - Fixed wikilink syntax on `binding-void` in frontmatter and Further Reading
@@ -73,7 +73,7 @@ All attributions checked and verified:
 ### Cross-links Added
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [varieties-of-unity](/concepts/unity-of-consciousness/)
-- [process-haecceitism](/concepts/process-haecceitism/)
+- [process-haecceitism](/concepts/haecceity/)
 
 ## Remaining Items
 

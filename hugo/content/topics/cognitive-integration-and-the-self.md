@@ -27,7 +27,7 @@ related_articles:
 - '[[consciousness-and-memory]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
-- '[[phenomenology-of-self-awareness]]'
+- '[[phenomenology-of-recursive-self-awareness]]'
 title: Cognitive Integration and the Self
 topics:
 - '[[personal-identity]]'
@@ -213,7 +213,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [The Self: Minimal, Narrative, and Substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three-layered model of selfhood
 - [Consciousness and Memory](/topics/consciousness-and-memory/) — The relationship between consciousness and memory formation
 - [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/) — Why phenomenal unity resists physical explanation
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/) — How self-awareness transforms consciousness and enables the evaluative capacities that integration serves
+- [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness transforms consciousness and enables the evaluative capacities that integration serves
 
 ## References
 

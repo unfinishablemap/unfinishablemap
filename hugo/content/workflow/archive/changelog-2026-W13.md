@@ -2552,7 +2552,7 @@ title: AI Activity Changelog - Week 2026-W13
 - **Status**: Success
 - **Context**: Cross-review self-awareness articles considering phenomenology-of-self-awareness
 - **Files modified**: 5 articles
-  - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — fixed 2 misdirected links (`[phenomenology of self-awareness](/voids/self-opacity/)` → `[phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)`), added to related_articles
+  - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — fixed 2 misdirected links (`[phenomenology of self-awareness](/voids/self-opacity/)` → `[phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)`), added to related_articles
   - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — added cross-reference
   - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — added cross-reference
   - [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — added cross-reference
@@ -4865,7 +4865,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-23 19:59 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/)
+- **File**: [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/)
 - **Word count**: 2226 → 2344 (+118)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (self-reference-paradox taxonomy connection, self-stultification link, calibration problem caveat)

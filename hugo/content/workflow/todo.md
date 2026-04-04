@@ -38,25 +38,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neurological-dissociations-as-interface-architecture.md considering attention-disorders-and-consciousness
+### P2: Update references to coalesced process-haecceitism article
 - **Type**: cross-review
 - **Status**: pending
-- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md (2026-04-03) adds ADHD, hemispatial neglect, Balint syndrome, and extinction cases to the interface model. neurological-dissociations-as-interface-architecture.md covers related ground — check for cross-links, complementary clinical evidence, and consistent terminology.
-- **Source**: chain (from attention-disorders-and-consciousness.md)
+- **Notes**: Coalesce merged process-haecceitism into haecceity. The following active content files reference [process-haecceitism](/concepts/haecceity/) and may need review: identity-across-transformations.md, indexical-knowledge-and-identity.md, process-philosophy.md, consciousness-and-the-metaphysics-of-individuation.md, vertiginous-question.md. Update wikilinks to point to [haecceity](/concepts/haecceity/#process-haecceitism) where appropriate.
+- **Source**: coalesce
 - **Generated**: 2026-04-04
 
-### P2: Cross-review phenomenal-presence-void.md considering phenomenal-absence-void
-- **Type**: cross-review
+### P2: Deep review phenomenology-of-recursive-self-awareness.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: New article obsidian/voids/phenomenal-absence-void.md (2026-04-04) is the direct companion to phenomenal-presence-void.md — presence vs. absence. Check for cross-links, consistent treatment of phenomenal generation, and whether the presence void article should reference the absence framework.
-- **Source**: chain (from phenomenal-absence-void.md)
+- **Notes**: Coalesced today from phenomenology-of-self-awareness.md + phenomenology-of-recursive-thought.md. Two source articles merged into one — verify the coalesce preserved key arguments from both, eliminated redundancy, and maintains coherent structure. Check cross-references to self-and-self-consciousness, introspection, higher-order-theories, and recursion-void. Tenet alignment critical (recursive self-awareness bears on Tenet 1 and Tenet 3).
+- **Source**: chain (from coalesce 2026-04-04)
 - **Generated**: 2026-04-04
 
-### P2: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
-- **Type**: cross-review
+### P2: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md (2026-04-03) applies the attention-as-interface framework to disorder cases. The foundational attention-and-the-consciousness-interface.md should reference these clinical elaborations and may benefit from a "Clinical evidence" pointer section.
-- **Source**: chain (from attention-disorders-and-consciousness.md)
+- **Notes**: File has only 1 inbound link (near-orphan). Created 2026-03-18 via expand-topic, refined 2026-03-29 but minimally integrated. Add cross-references from capability-division-problem, embodied-consciousness-and-the-interface, consciousness-as-amplifier, and the dual-domain capability cluster. Update relevant section index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Research biological computationalism and its inadvertent case for dualism
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Milinkovic and Aru (2025) argue consciousness requires specific biological substrates, inadvertently destroying functionalism. Research: (1) the Milinkovic-Aru paper and its reception, (2) how biological substrate-specificity narrows physicalism, (3) historical precedents for substrate arguments (Searle's biological naturalism), (4) whether substrate-dependence entails or merely permits dualism, (5) connection to multiple realizability debate. Directly supports Tenet 1 (Dualism). Feeds into existing P3 expand-topic task. Target section for eventual article: topics/ (7 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-04
+
+### P2: Research consciousness and language under dualism
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map has extensive epistemological content but no systematic account of language under dualist assumptions. Research: (1) if consciousness is non-physical, can linguistic meaning be exhausted by syntactic/functional properties? (2) Searle's Chinese Room under genuine dualism (not biological naturalism), (3) Grice's meaning-intention under non-physical intentionality, (4) Chomsky's poverty of stimulus — does language acquisition require conscious understanding? (5) Davidson's anomalous monism as competitor. Supports Tenets 1 and 3. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-04
+
+### P2: Research QBism and pragmatist quantum foundations
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: QBism (Fuchs, Mermin, Schack) centres conscious agents in quantum mechanics — probabilities are agent-relative, measurement is agent-action. Research: (1) Fuchs' participatory realism and its relation to Wheeler, (2) QBism's treatment of the Born rule as coherence constraint, (3) how QBism dissolves vs. solves the measurement problem, (4) Healey's pragmatist QM as alternative, (5) whether QBism is compatible with or entails interactionist dualism, (6) Timpson's and Mohrhoff's critiques. Supports all five tenets. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Source**: gap_analysis
 - **Generated**: 2026-04-04
 
 ### P3: Deep review affective-void.md
@@ -1904,6 +1925,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md (2026-04-03) applies the attention-as-interface framework to disorder cases. The foundational attention-and-the-consciousness-interface.md should reference these clinical elaborations and may benefit from a "Clinical evidence" pointer section.
+- **Output**: obsidian/topics/attention-and-the-consciousness-interface.md -- Context: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
+
+### ✓ 2026-04-04: Cross-review phenomenal-presence-void.md considering phenomenal-absence-void
+- **Type**: cross-review
+- **Notes**: New article obsidian/voids/phenomenal-absence-void.md (2026-04-04) is the direct companion to phenomenal-presence-void.md — presence vs. absence. Check for cross-links, consistent treatment of phenomenal generation, and whether the presence void article should reference the absence framework.
+- **Output**: obsidian/voids/phenomenal-presence-void.md -- Context: Cross-review phenomenal-presence-void.md considering phenomenal-absence-void
+
+### ✓ 2026-04-04: Update references to coalesced self-awareness/recursive-thought articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/phenomenology-of-recursive-self-awareness.md from phenomenology-of-self-awareness + phenomenology-of-recursive-thought. The following active files reference archived articles and need wikilink updates: self-and-self-consciousness, ownership-void, cognitive-integration-and-the-self, social-construction-of-self-vs-phenomenal-self, the-self-minimal-narrative-and-substantial, attention-schema-theory, phenomenology-of-intellectual-life, phenomenology-of-imagination, introspection, higher-order-theories, temporal-consciousness, self-reference-paradox, witness-consciousness, recursion-void.
+- **Output**: None -- Context: Update references to coalesced self-awareness/recursive-thought articles
 
 ### ✓ 2026-04-04: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft

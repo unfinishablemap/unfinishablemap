@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-thought/)
+**Article**: [The Phenomenology of Recursive Thought](/topics/phenomenology-of-recursive-self-awareness/)
 **Previous review**: [2026-03-10](/reviews/deep-review-2026-03-10-phenomenology-of-recursive-thought/)
 **Context**: Cross-review considering self-reference-paradox insights after its significant rewrite on 2026-03-23.
 
@@ -89,7 +89,7 @@ All checks pass:
 
 ## Remaining Items
 
-- **Reciprocal cross-linking gap**: [self-reference-paradox](/concepts/self-reference-paradox/) does not link back to [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/). A future refine-draft or cross-review of self-reference-paradox should add this link.
+- **Reciprocal cross-linking gap**: [self-reference-paradox](/concepts/self-reference-paradox/) does not link back to [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/). A future refine-draft or cross-review of self-reference-paradox should add this link.
 
 ## Stability Notes
 

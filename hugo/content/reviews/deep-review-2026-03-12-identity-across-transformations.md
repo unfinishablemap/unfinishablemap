@@ -29,7 +29,7 @@ None. The article was re-synthesized on 2026-03-08 and remains philosophically c
 - **"Three considerations" but four listed** (line 66): The text said "three considerations support taking the phenomenology seriously" but listed four arguments (First through Fourth). Resolution: Changed to "four considerations."
 - **Relative time reference**: "Recent analysis distinguishes three dimensions" violated style guide's explicit-dates guideline. Resolution: Replaced "Recent analysis" with "Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes" which removes the temporal claim and adds a useful cross-link.
 - **Missing References section**: The article cited a specific PNAS study and Nagel's 1971 paper without formal citations. Resolution: Added References section with both citations.
-- **Suboptimal cross-link for process haecceitism**: Linked to `[process haecceitism](/topics/personal-identity/#arguing-for-haecceity)` when a dedicated `[process-haecceitism](/concepts/process-haecceitism/)` concept article exists. Resolution: Updated to link directly to the concept article.
+- **Suboptimal cross-link for process haecceitism**: Linked to `[process haecceitism](/topics/personal-identity/#arguing-for-haecceity)` when a dedicated `[process-haecceitism](/concepts/haecceity/)` concept article exists. Resolution: Updated to link directly to the concept article.
 - **Dense paragraph in Altered States section**: A single paragraph mixed psychedelics, psychiatric conditions, and meditation examples. Resolution: Split into two paragraphs for readability.
 
 ### Low Issues Found
@@ -70,7 +70,7 @@ All major counterarguments from the previous review remain well-addressed. The a
 
 ### Cross-links Added
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) (inline, replacing "Recent analysis")
-- [process-haecceitism](/concepts/process-haecceitism/) (replacing indirect link through personal-identity)
+- [process-haecceitism](/concepts/haecceity/) (replacing indirect link through personal-identity)
 
 ## Word Count
 - Before: 3224 words

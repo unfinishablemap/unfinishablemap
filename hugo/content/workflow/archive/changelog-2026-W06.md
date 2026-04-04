@@ -4666,7 +4666,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 05:27 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-thought/)
+- **File**: [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/)
 - **Word count**: 2018 → 2193 (+175)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 2

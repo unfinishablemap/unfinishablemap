@@ -108,7 +108,7 @@ Pattern-identity theories (following [Parfit](/concepts/parfit-reductionism/)) h
 
 The connection to [haecceity](/concepts/haecceity/) runs deep. Haecceity is primitive "thisness" that makes something *this* particular thing rather than another qualitatively identical thing. Robert Adams argued that "primitive thisness" cannot be reduced to general properties. Self-locating knowledge tracks haecceitistic facts—the fact that *I* am this subject, that *this* experience is happening to me.
 
-Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists. [Process haecceitism](/concepts/process-haecceitism/) shows that this particularity need not require a permanent soul-substance—haecceity can apply to experiential *processes*, grounding indexical identity without permanence.
+Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists. [Process haecceitism](/concepts/haecceity/) shows that this particularity need not require a permanent soul-substance—haecceity can apply to experiential *processes*, grounding indexical identity without permanence.
 
 ## The Sleeping Beauty Problem
 

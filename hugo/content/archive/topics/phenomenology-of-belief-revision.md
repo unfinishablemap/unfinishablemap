@@ -92,7 +92,7 @@ These features suggest that belief revision—at least for central beliefs—is 
 
 ## The Bootstrap Problem
 
-Belief revision creates a distinctive epistemic puzzle explored in the Map's treatment of [error recognition](/topics/phenomenology-of-self-awareness/) and [destabilizing self-knowledge](/voids/necessary-opacity/). To revise a belief, you need to evaluate it against standards. But your standards are themselves beliefs, which might need revision. How does the mind bootstrap its way to a new framework when the criteria for evaluating frameworks are themselves in flux?
+Belief revision creates a distinctive epistemic puzzle explored in the Map's treatment of [error recognition](/topics/phenomenology-of-recursive-self-awareness/) and [destabilizing self-knowledge](/voids/necessary-opacity/). To revise a belief, you need to evaluate it against standards. But your standards are themselves beliefs, which might need revision. How does the mind bootstrap its way to a new framework when the criteria for evaluating frameworks are themselves in flux?
 
 The phenomenology suggests that conscious experience provides resources here that pure computation does not. When evaluating competing frameworks, we do not rely solely on explicit criteria. We attend to the felt quality of coherence—the way a framework either generates or fails to generate the experience of things hanging together. This felt coherence is not reducible to logical consistency (consistent systems can feel incoherent) and not captured by formal models of belief revision.
 
@@ -113,7 +113,7 @@ The bootstrap problem for belief revision also connects to the Map's [tenet on O
 - [phenomenology-of-evidence-assessment](/topics/phenomenology-of-epistemic-judgment/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
-- [phenomenology-of-self-awareness](/topics/phenomenology-of-self-awareness/)
+- [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)

@@ -61,7 +61,7 @@ topics: []
 
 ### Cross-links Verified
 Cross-review against process-related articles confirmed:
-- `[process-haecceitism](/concepts/process-haecceitism/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
+- `[process-haecceitism](/concepts/haecceity/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
 - `[prehension](/concepts/prehension/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
 - `[subjective-aim](/concepts/subjective-aim/)` links back to `[process-philosophy](/concepts/process-philosophy/)` ✓
 - `[process-and-consciousness](/apex/process-and-consciousness/)` (apex) synthesises process-philosophy extensively ✓

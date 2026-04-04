@@ -80,7 +80,7 @@ All attributions verified:
 - [other-minds-void](/voids/other-minds-void/) — Added to Further Reading
 - [indexical-void](/voids/indexical-void/) — Added to Further Reading
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Added to Further Reading
-- [process-haecceitism](/concepts/process-haecceitism/) — Added to Further Reading
+- [process-haecceitism](/concepts/haecceity/) — Added to Further Reading
 
 ## Remaining Items
 

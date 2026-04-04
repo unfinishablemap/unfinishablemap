@@ -81,7 +81,7 @@ The **epistemology-of-convergence-arguments** article demonstrates exemplary int
 ### High Priority
 
 #### Temporal Ontology as Unified Programme
-- **Builds on**: [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/), [bergson-and-duration](/topics/bergson-and-duration/), [process-haecceitism](/concepts/process-haecceitism/), [temporal-consciousness](/concepts/temporal-consciousness/), [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Builds on**: [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/), [bergson-and-duration](/topics/bergson-and-duration/), [process-haecceitism](/concepts/haecceity/), [temporal-consciousness](/concepts/temporal-consciousness/), [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 - **Would address**: The Map has developed a distinctive temporal philosophy across multiple articles — Bergson's durée, the growing block, process haecceitism, collapse-time connection — but has no single treatment showing how these fit together as a coherent programme. The relationships are implicit; making them explicit would reveal this as one of the Map's most original contributions
 - **Estimated scope**: Apex article candidate
 - **Tenet alignment**: All five tenets — the growing block article already demonstrates this connection; an apex synthesis would make the argument's full scope visible
