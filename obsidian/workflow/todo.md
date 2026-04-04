@@ -436,14 +436,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P2: Write article on philosophy of language under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
-- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
-- **Generated**: 2026-03-23
-- **Promoted**: 2026-04-04 (research completed, P3→P2)
-
 ### P3: Write article on neuroscience of anaesthetic recovery
 - **Type**: expand-topic
 - **Status**: superseded
@@ -1877,6 +1869,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Write article on philosophy of language under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Output**: philosophy of language under dualism
 
 ### ✓ 2026-04-04: Write article on pragmatism and quantum foundations (QBism)
 - **Type**: expand-topic
