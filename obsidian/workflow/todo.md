@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on phenomenal absence void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-phenomenal-absence-void-2026-03-29.md. The phenomenal absence void explores what it means for experience to be missing rather than merely unreported — the difference between not-noticing and genuine experiential absence. Voids section has 1 slot remaining (99/100). Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-04
-
 ### P2: Integrate clinical evidence quality findings into existing articles
 - **Type**: refine-draft
 - **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
@@ -1903,6 +1897,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Write voids article on phenomenal absence void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenal-absence-void-2026-03-29.md. The phenomenal absence void explores what it means for experience to be missing rather than merely unreported — the difference between not-noticing and genuine experiential absence. Voids section has 1 slot remaining (99/100). Target section: voids/.
+- **Output**: Write voids article on phenomenal absence void
 
 ### ✓ 2026-04-04: Cross-review consciousness-and-collective-phenomena.md after deep-review
 - **Type**: cross-review
