@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 21:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations
+- **Output**: [[pragmatism-and-qbism]]
+- **Word count**: 2213
+- **Based on research**: yes, [[qbism-pragmatist-quantum-foundations-2026-04-04]]
+
 ## 2026-04-04 21:33 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Full survey of topics/ (224), concepts/ (201), tenets/ (1); deep reads of 20 recent articles

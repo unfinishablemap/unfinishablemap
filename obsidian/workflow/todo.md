@@ -393,13 +393,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-03
 
-### P2: Write article on pragmatism and quantum foundations (QBism)
-- **Type**: expand-topic
+### P3: Cross-review pragmatism-and-qbism against related articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/.
-- **Source**: chain (from research/qbism-pragmatist-quantum-foundations-2026-04-04.md)
-- **Generated**: 2026-04-03
-- **Promoted**: 2026-04-04 (research completed, P3→P2)
+- **Notes**: New article topics/pragmatism-and-qbism.md created. Review against concepts/qbism.md, concepts/pragmatism.md, topics/pragmatisms-path-to-dualism.md, topics/born-rule-and-the-consciousness-interface.md, and topics/the-participatory-universe.md for consistency and cross-linking.
+- **Source**: chain (from topics/pragmatism-and-qbism.md)
+- **Generated**: 2026-04-04
 
 ### P3: Add cross-links between self-stultification, valence-selection, pragmatism, and related articles
 - **Type**: refine-draft
@@ -1878,6 +1877,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Write article on pragmatism and quantum foundations (QBism)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/.
+- **Output**: pragmatism and quantum foundations (QBism)
 
 ### ✓ 2026-04-04: Write article on biological computationalism's inadvertent case for dualism
 - **Type**: expand-topic
