@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 03:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
+- **Changes**: Extended evidence quality calibration to 5 additional articles (neurophenomenology-and-contemplative-neuroscience, empirical-evidence-for-consciousness-selecting, bandwidth-of-consciousness, structure-of-attention, consciousness-and-agency) — added Schwartz sample size/replication caveats, materialist alternatives, softened meditation structural claims per Kral 2022
+- **Published**: yes
+
 ## 2026-04-04 02:41 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Phenomenal Absence Void

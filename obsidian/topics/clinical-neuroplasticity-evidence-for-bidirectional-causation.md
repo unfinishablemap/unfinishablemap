@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-04-02T21:38:00+00:00
+ai_modified: 2026-04-04T03:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,6 +175,21 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Consistent evidence calibration across all articles citing Schwartz OCD or meditation structural evidence.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-04
+Changes made:
+- Extended evidence quality calibration to 5 additional articles not covered by April 2 pass:
+  - neurophenomenology-and-contemplative-neuroscience.md: opening paragraph claimed "cortical thickening" as established; replaced with functional changes and added Kral 2022 replication caveat. Softened compassion meditation "reshapes" to "appears to modulate" with structural caveats
+  - empirical-evidence-for-consciousness-selecting.md: "demonstrated" → "found", added sample size (18/9 new), replication caveat, materialist counter-explanation
+  - bandwidth-of-consciousness.md: "demonstrates" → "illustrates", added sample size and replication caveat
+  - structure-of-attention.md: "provides evidence" → "provides suggestive evidence", added sample size, unreplicated caveat, materialist alternative
+  - consciousness-and-agency.md (apex): "produces normalisation" → "found normalisation", added study limitations and ERP overlap, added physicalist reply to pathway divergence
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Complete cross-site evidence calibration — all articles citing Schwartz OCD or meditation structural evidence now carry appropriate hedging.
 
 This log should be removed after human review.
 -->

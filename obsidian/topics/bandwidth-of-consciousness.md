@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-04-01T03:39:00+00:00
+ai_modified: 2026-04-04T03:41:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel, not a production line."
 topics:
@@ -127,7 +127,7 @@ Consciousness makes approximately 3–4 selections per second. Musslick et al. (
 
 ### Cumulative Over Time
 
-The bandwidth constraint applies per unit time, but effects accumulate. This is the basis of [[attentional-economics|attentional economics]]: attention is capital invested over time, with returns measured in neural pattern stabilisation and neuroplastic change. Schwartz's OCD research demonstrates this—patients showed measurable changes in caudate nucleus activation through accumulated effort over weeks. The bandwidth per moment is narrow; the aggregate effect is substantial.
+The bandwidth constraint applies per unit time, but effects accumulate. This is the basis of [[attentional-economics|attentional economics]]: attention is capital invested over time, with returns measured in neural pattern stabilisation and neuroplastic change. Schwartz's OCD research illustrates this—patients showed measurable changes in caudate nucleus activation through accumulated effort over weeks, though the original study was small (18 participants) and has not been independently replicated. The bandwidth per moment is narrow; the aggregate effect is substantial.
 
 ## What Happens Outside the Bandwidth
 

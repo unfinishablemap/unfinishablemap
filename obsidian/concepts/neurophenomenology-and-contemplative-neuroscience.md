@@ -4,7 +4,7 @@ description: "Varela's research program integrating first-person phenomenology w
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-03-29T15:11:00+00:00
+ai_modified: 2026-04-04T03:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ coalesced_from:
   - "/concepts/contemplative-neuroscience/"
 ---
 
-The Unfinishable Map treats neurophenomenology and contemplative neuroscience as a single research programme: the systematic integration of first-person phenomenological reports with third-person neuroscience. Francisco Varela proposed the framework; meditation research has empirically vindicated it. Contemplative training produces measurable neuroplastic changes—cortical thickening, altered network connectivity, modulated default mode activity—through a causal pathway running from conscious intention through deliberate practice to neural reorganisation. This provides paradigm evidence for [[bidirectional-interaction]]: if [[phenomenal-consciousness]] were causally inert, deliberate attention training could not produce these effects.
+The Unfinishable Map treats neurophenomenology and contemplative neuroscience as a single research programme: the systematic integration of first-person phenomenological reports with third-person neuroscience. Francisco Varela proposed the framework; meditation research has empirically vindicated it. Contemplative training produces measurable functional changes—altered network connectivity, modulated default mode activity, improved attentional performance—through a causal pathway running from conscious intention through deliberate practice to neural reorganisation. Earlier claims of structural changes (cortical thickening, grey matter density increases) have been challenged by Kral et al. (2022), whose well-powered replication (218 participants, active controls) found no structural brain changes from mindfulness-based stress reduction. The functional effects nonetheless provide suggestive evidence for [[bidirectional-interaction]]: if [[phenomenal-consciousness]] were causally inert, deliberate attention training should not produce these effects.
 
 The programme also reveals consciousness structures invisible to ordinary introspection. Trained meditators distinguish experiential states with precision unavailable to naive subjects—and these phenomenological categories predict neural signatures. If advanced meditators can access phenomenal states with no third-person equivalent, and trained introspection reveals complexity neuroscience cannot predict, then materialism faces a fundamental limitation: the data itself requires methods physics cannot supply.
 
@@ -105,7 +105,7 @@ These are trainable skills. Willed attention (self-directed focus) activates dis
 
 ### Compassion and Emotional Neuroplasticity
 
-Compassion meditation reshapes emotional response networks—brain changes that predict prosocial behaviour.[^davidson] This connects to [[emotion-and-dualism]]: if phenomenal emotional qualities were causally inert, deliberate cultivation of compassion could not alter emotional responses and behaviour.
+Compassion meditation appears to modulate emotional response networks—functional activation changes that correlate with prosocial behaviour.[^davidson] Structural claims in this domain face the same caveats as other meditation neuroimaging: small samples, few active-control comparisons. The functional findings are more robust. This connects to [[emotion-and-dualism]]: if phenomenal emotional qualities were causally inert, deliberate cultivation of compassion should not alter emotional responses and behaviour.
 
 ## Jhana States and Cessation {#advanced-practice}
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate clinical evidence quality findings into existing articles
-- **Type**: refine-draft
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-04
-
 ### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File created 2026-03-31 has no inbound links. Add cross-references from related articles: testing-consciousness-collapse, consciousness-collapse-experimental-landscape, differential-predictions-consciousness-collapse, and comparing-quantum-consciousness-mechanisms. Key article for empirical credibility of the Map's physics programme.
@@ -1897,6 +1891,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Integrate clinical evidence quality findings into existing articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
 
 ### ✓ 2026-04-04: Write voids article on phenomenal absence void
 - **Type**: expand-topic

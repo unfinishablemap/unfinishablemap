@@ -4,7 +4,7 @@ description: "Attention divides into willed, instructed, and exogenous modes wit
 created: 2026-02-01
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-28T05:12:00+00:00
+ai_modified: 2026-04-04T03:41:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -205,7 +205,7 @@ If consciousness were identical to neural processing, willed and instructed atte
 
 The attention structure exemplifies the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Consciousness selects where attention goes; attention determines what consciousness experiences. The bidirectional frontoparietal coherence during willed attention may be the neural signature of this two-way causal flow.
 
-Jeffrey Schwartz's OCD research provides evidence: patients who learn to voluntarily redirect attention produce measurable brain changes (altered caudate metabolism). Whatever the mechanism, willed attention has physical consequences.
+Jeffrey Schwartz's OCD research provides suggestive evidence: patients who learned to voluntarily redirect attention showed altered caudate metabolism on PET imaging (Schwartz et al., 1996), though the study was small (18 participants) and unreplicated outside his group. Whatever the mechanism, willed attention appears to have physical consequences—though materialist explanations via Hebbian learning remain viable.
 
 ### Minimal Quantum Interaction
 
