@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-language-interface.md considering new language-under-dualism research
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New research in research/consciousness-and-language-under-dualism-2026-04-04.md covers meaning bridging the mind-matter gap, semantic content under dualism, and private language arguments. The existing consciousness-and-language-interface.md focuses on bidirectional interaction between language and consciousness. Check for cross-links, complementary arguments, and ensure consistent treatment of linguistic meaning under dualism.
-- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
-- **Generated**: 2026-04-04
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1893,6 +1886,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Review consciousness-and-language-interface.md considering new language-under-dualism research
+- **Type**: cross-review
+- **Notes**: New research in research/consciousness-and-language-under-dualism-2026-04-04.md covers meaning bridging the mind-matter gap, semantic content under dualism, and private language arguments. The existing consciousness-and-language-interface.md focuses on bidirectional interaction between language and consciousness. Check for cross-links, complementary arguments, and ensure consistent treatment of linguistic meaning under dualism.
+- **Output**: obsidian/topics/consciousness-and-language-interface.md -- Context: Review consciousness-and-language-interface.md considering new language-under-dualism research
 
 ### ✓ 2026-04-04: Address statistical overreach and filter theory weaknesses in near-death-experiences.md
 - **Type**: refine-draft
