@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-04T22:03:00+00:00
+ai_modified: 2026-04-04T22:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,13 +19,15 @@ related_articles:
   - "[[consciousness-and-language-interface]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[consciousness-and-testimony]]"
+  - "[[language-and-consciousness]]"
+  - "[[language-thought-boundary]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-04T22:27:00+00:00
 ---
 
 If consciousness is not reducible to physical processes, then language—the primary vehicle for expressing thought—faces a distinctive set of philosophical problems. Meaning cannot be exhausted by syntax or functional role. Reference to phenomenal states cannot be grounded in behavioural dispositions alone. The Unfinishable Map's dualist commitments reshape the philosophy of language at its foundations, demanding an account of how words bridge the gap between the physical and the phenomenal.
@@ -46,7 +48,7 @@ Phenomenal concepts—concepts that refer to conscious experiences by deploying 
 
 Physicalist philosophers have tried to explain phenomenal concepts without conceding dualism. The "phenomenal concept strategy" holds that phenomenal concepts are physically constituted concepts that merely *seem* to reveal a non-physical domain. On this view, the concepts are unusual but the properties they refer to are physical.
 
-The dualist response: if phenomenal concepts merely seemed to refer to something non-physical, it would be extraordinary luck that they produce systematically coherent judgements. People reliably distinguish their experiences, compare them, and report on their qualitative character in ways that track genuine phenomenal differences. The systematicity of phenomenal judgement is best explained by phenomenal concepts genuinely latching onto non-physical properties—not by an elaborate cognitive illusion.
+The dualist response: if phenomenal concepts merely seemed to refer to something non-physical, it would be extraordinary luck that they produce systematically coherent judgements. People reliably distinguish their experiences, compare them, and report on their qualitative character in ways that track genuine phenomenal differences. A physicalist might reply that neural categorisation mechanisms explain this systematicity without positing non-physical referents—the brain sorts and compares its own states. But categorisation tracks *functional* differences between states; it does not explain why those states have qualitative character at all, nor why subjects can attend to and compare the qualitative character itself rather than merely its functional effects. The systematicity of phenomenal judgement is best explained by phenomenal concepts genuinely latching onto non-physical properties—not by an elaborate cognitive illusion.
 
 ## Language Without Consciousness: The Zombie Problem
 
@@ -93,7 +95,7 @@ If the zombie scenario reveals that functional meaning and phenomenal meaning ar
 
 The Map argues that it does, for three reasons.
 
-**Intentionality requires a subject.** [[Intentionality]]—the "aboutness" of mental states—requires someone for whom a state is about something. Sentences on a page or patterns in a neural network have derived intentionality: they mean something *to us*. Original intentionality—meaning that is intrinsic rather than assigned—requires a conscious subject. If dualism is correct and consciousness is non-physical, original intentionality has a non-physical dimension that functional accounts cannot capture.
+**Intentionality requires a subject.** [[Intentionality]]—the "aboutness" of mental states—requires someone for whom a state is about something. Sentences on a page or patterns in a neural network have derived intentionality: they mean something *to us*. Original intentionality—meaning that is intrinsic rather than assigned—requires a conscious subject. This is the [[symbol-grounding-problem]] applied to language: symbols manipulated by a computational system remain ungrounded until a conscious agent anchors them in experience. If dualism is correct and consciousness is non-physical, original intentionality has a non-physical dimension that functional accounts cannot capture.
 
 **Understanding is phenomenal.** There is something it is like to understand a sentence—a felt grasp of meaning that differs from mere processing. A calculator processes "2+2=4" without understanding it. The phenomenal character of understanding—the "aha" of comprehension, the sense of a sentence clicking into place—is part of what makes human language meaningful rather than merely functional. The [[consciousness-and-language-interface|consciousness-language interface]] operates in both directions: consciousness does not merely add colour to meaning but partially constitutes it.
 
@@ -130,12 +132,14 @@ The philosophy of language under dualism connects to the Map's [[tenets]] at sev
 - [[consciousness-and-testimony]] — How first-person testimony transmits phenomenal knowledge
 - [[philosophical-zombies]] — The conceivability of language without consciousness
 - [[qualia]] — The qualitative character that resists linguistic capture
+- [[language-and-consciousness]] — Philosophy of language as it bears on the irreducibility of consciousness
+- [[language-thought-boundary]] — The boundary where thought exceeds linguistic expression
 - [[tenets]] — The foundational commitments shaping this investigation
 
 ## References
 
 1. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-2. Chalmers, D.J. (2023). "Could a Large Language Model Be Conscious?" *PhilPapers*.
+2. Chalmers, D.J. (2023). "Could a Large Language Model Be Conscious?" *Boston Review*.
 3. Fodor, J.A. (1975). *The Language of Thought*. Harvard University Press.
 4. Jackson, F. (1982). "Epiphenomenal Qualia." *Philosophical Quarterly*, 32, 127-136.
 5. Jakab, Z. (2005). "The Ineffability of Qualia and the Word-Anchoring Problem." *Consciousness and Cognition*.
