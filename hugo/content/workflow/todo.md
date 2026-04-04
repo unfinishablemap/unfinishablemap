@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review consciousness-and-language-interface.md considering new language-under-dualism research
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New research in research/consciousness-and-language-under-dualism-2026-04-04.md covers meaning bridging the mind-matter gap, semantic content under dualism, and private language arguments. The existing consciousness-and-language-interface.md focuses on bidirectional interaction between language and consciousness. Check for cross-links, complementary arguments, and ensure consistent treatment of linguistic meaning under dualism.
-- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
-- **Generated**: 2026-04-04
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -220,14 +213,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. The Map increasingly relies on convergence from independent methodologies (pharmacological, phenomenological, clinical, contemplative, quantum-biological). A dedicated article formalising when independent convergence is evidentially powerful, when it fails, and how it differs from cherry-picking would ground the epistemological programme. Builds on the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, experimental-consciousness-science-2025-2026. Target section: topics/. See optimistic-2026-03-27.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
-
-### P2: Write article on biological computationalism's inadvertent case for dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/.
-- **Source**: chain (from research/biological-computationalism-inadvertent-dualism-2026-04-04.md)
-- **Generated**: 2026-03-27
-- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Write article on phenomenology of anaesthetic recovery
 - **Type**: expand-topic
@@ -409,13 +394,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-03
 
-### P2: Write article on pragmatism and quantum foundations (QBism)
-- **Type**: expand-topic
+### P3: Cross-review pragmatism-and-qbism against related articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/.
-- **Source**: chain (from research/qbism-pragmatist-quantum-foundations-2026-04-04.md)
-- **Generated**: 2026-04-03
-- **Promoted**: 2026-04-04 (research completed, P3→P2)
+- **Notes**: New article topics/pragmatism-and-qbism.md created. Review against concepts/qbism.md, concepts/pragmatism.md, topics/pragmatisms-path-to-dualism.md, topics/born-rule-and-the-consciousness-interface.md, and topics/the-participatory-universe.md for consistency and cross-linking.
+- **Source**: chain (from topics/pragmatism-and-qbism.md)
+- **Generated**: 2026-04-04
 
 ### P3: Add cross-links between self-stultification, valence-selection, pragmatism, and related articles
 - **Type**: refine-draft
@@ -452,14 +436,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: File was archived (coalesced into the-epiphenomenalist-threat.md on 2026-03-20). No review needed.
 - **Source**: staleness
 - **Generated**: 2026-03-21
-
-### P2: Write article on philosophy of language under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
-- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
-- **Generated**: 2026-03-23
-- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Write article on neuroscience of anaesthetic recovery
 - **Type**: expand-topic
@@ -1871,29 +1847,49 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-01
 
-### P3: Write article on consciousness and the generative problem
-- **Type**: expand-topic
+### P3: Research consciousness under extreme metabolic constraint
+- **Type**: research-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The phenomenal absence void, presence void, and reconstruction paradox converge on a unified "generative problem": consciousness fabricates experiential deliverances indistinguishable from direct perception. Distinct from the hard problem (why experience at all) — asks why consciousness's products appear as given rather than constructed. Target section: topics/. See optimistic-2026-04-04.md
+- **Notes**: Suggested by optimistic review. The Map treats interface modulation (sleep, anaesthesia, psychedelics) but lacks systematic comparison of consciousness under metabolic extremes: hypothermia survival, cardiac arrest reports, high-altitude hypoxia, prolonged fasting, extreme exertion. Production model predicts degradation proportional to supply; interface model predicts selective failures and paradoxical enhancement. Terminal lucidity is one data point; systematic treatment needed. Target section: topics/. See optimistic-2026-04-04.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
-### P3: Write article on phenomenal temporality as distinct from physical time
-- **Type**: expand-topic
+### P3: Research invertebrate consciousness as interface test case
+- **Type**: research-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Bergson's durée, Husserl's time-consciousness, and empirical time distortion (boredom, flow, anaesthesia, meditation) demonstrate experienced duration is not a linear mapping of physical duration. If consciousness is irreducible, its temporal properties should be too. Target section: topics/. See optimistic-2026-04-04.md
+- **Notes**: Suggested by optimistic review. Cephalopod consciousness (distributed nervous system, convergent camera eyes, tool use) tests whether the interface model requires vertebrate architecture or accommodates multiple coupling mechanisms. Arthropod evidence (honeybee dance, jumping spider planning) pushes further. Interface model predicts substrate-flexible coupling with substrate-independent consciousness. Target section: topics/. See optimistic-2026-04-04.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
-### P3: Write article on epistemic architecture of self-correction
+### P3: Write article on phenomenal authority and contemplative training
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The Schwartz evidence audit across 17 articles demonstrated principled claim-qualification without abandoning supporting arguments. Formalise this self-correction methodology as distinctive consciousness studies contribution. Target section: topics/. See optimistic-2026-04-04.md
+- **Notes**: Suggested by optimistic review. The phenomenal authority framework (four-layer taxonomy) and contemplative evidence programme intersect but are underexplored. How does sustained practice affect which authority layers become accessible? Cross-traditional convergence on specific claims (attention separable from objects, awareness in objectless states) despite different metaphysics constitutes evidence for genuine phenomenological discovery. Target section: topics/. See optimistic-2026-04-04.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Write article on philosophy of language under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Output**: philosophy of language under dualism
+
+### ✓ 2026-04-04: Write article on pragmatism and quantum foundations (QBism)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/.
+- **Output**: pragmatism and quantum foundations (QBism)
+
+### ✓ 2026-04-04: Write article on biological computationalism's inadvertent case for dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/.
+- **Output**: biological computationalism's inadvertent case for dualism
+
+### ✓ 2026-04-04: Review consciousness-and-language-interface.md considering new language-under-dualism research
+- **Type**: cross-review
+- **Notes**: New research in research/consciousness-and-language-under-dualism-2026-04-04.md covers meaning bridging the mind-matter gap, semantic content under dualism, and private language arguments. The existing consciousness-and-language-interface.md focuses on bidirectional interaction between language and consciousness. Check for cross-links, complementary arguments, and ensure consistent treatment of linguistic meaning under dualism.
+- **Output**: obsidian/topics/consciousness-and-language-interface.md -- Context: Review consciousness-and-language-interface.md considering new language-under-dualism research
 
 ### ✓ 2026-04-04: Address statistical overreach and filter theory weaknesses in near-death-experiences.md
 - **Type**: refine-draft

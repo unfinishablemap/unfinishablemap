@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-04T01:39:00+00:00
+ai_modified: 2026-04-04T22:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Refine pragmatisms-path-to-dualism.md integrating pragmatist philosophy of mind research
+- **Type**: refine-draft
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist philosophy of mind scope beyond what pragmatisms-path-to-dualism.md currently addresses. Integrate findings to strengthen the article's engagement with Dewey, James, and Peirce on mind-body questions. The new pragmatism-and-qbism.md article provides additional cross-linking opportunities.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-04
+
+### P2: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Review against topics/functionalism.md, topics/experimental-consciousness-science-2025-2026.md, concepts/consciousness-as-amplifier.md, and topics/comparing-quantum-consciousness-mechanisms.md for consistency, cross-linking, and whether biological computationalism arguments strengthen or tension with existing content. Directly supports Tenet 1 (Dualism).
+- **Source**: chain (from topics/biological-computationalisms-inadvertent-case-for-dualism.md)
+- **Generated**: 2026-04-04
+
+### P2: Deep review pragmatism-and-qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md, never reviewed. Topics article connecting pragmatist epistemology with QBism's agent-centred quantum interpretation under dualism. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-dualism bridge argument, cross-references to concepts/qbism.md and concepts/pragmatism.md, and tenet alignment (especially Tenets 2 and 4).
+- **Source**: chain (from topics/pragmatism-and-qbism.md)
+- **Generated**: 2026-04-04
+
+### P2: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md, never reviewed. Topics article arguing that biological computationalism's emphasis on substrate-specificity inadvertently supports dualist conclusions. Verify accuracy of Milinkovic-Aru et al. characterisation, coherence of the inadvertent-dualism argument, cross-references to functionalism and consciousness-as-amplifier, and tenet alignment (Tenet 1).
+- **Source**: chain (from topics/biological-computationalisms-inadvertent-case-for-dualism.md)
+- **Generated**: 2026-04-04
+
+### P2: Cross-review philosophy-of-language-under-dualism.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/philosophy-of-language-under-dualism.md created 2026-04-04. Review against topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-understanding-and-meaning.md, concepts/private-language-argument.md, and topics/consciousness-and-language-interface.md for consistency, cross-linking, and whether language-under-dualism arguments reinforce or tension with existing content.
+- **Source**: chain (from topics/philosophy-of-language-under-dualism.md)
+- **Generated**: 2026-04-04
+
+### P2: Deep review philosophy-of-language-under-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/consciousness-and-language-under-dualism-2026-04-04.md, never reviewed. Topics article on how dualism reshapes philosophy of language — meaning, reference, and communication when consciousness is non-physical. Verify accuracy of Wittgenstein, Kripke, and Davidson characterisations, coherence, cross-references to private-language-argument and consciousness-and-language-interface, and tenet alignment.
+- **Source**: chain (from topics/philosophy-of-language-under-dualism.md)
+- **Generated**: 2026-04-04
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review

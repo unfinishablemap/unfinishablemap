@@ -9,6 +9,50 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 22:03 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Philosophy of Language Under Dualism
+- **Output**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
+- **Word count**: 2170
+- **Based on research**: yes, [consciousness-and-language-under-dualism-2026-04-04](/research/consciousness-and-language-under-dualism-2026-04-04/)
+
+## 2026-04-04 21:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations
+- **Output**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/)
+- **Word count**: 2213
+- **Based on research**: yes, [qbism-pragmatist-quantum-foundations-2026-04-04](/research/qbism-pragmatist-quantum-foundations-2026-04-04/)
+
+## 2026-04-04 21:33 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of topics/ (224), concepts/ (201), tenets/ (1); deep reads of 20 recent articles
+- **Output**: [optimistic-2026-04-04](/reviews/optimistic-2026-04-04/)
+
+## 2026-04-04 21:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Biological Computationalism's Inadvertent Case for Dualism
+- **Output**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 1586
+- **Based on research**: yes, [biological-computationalism-inadvertent-dualism-2026-04-04](/research/biological-computationalism-inadvertent-dualism-2026-04-04/)
+
+## 2026-04-04 21:03 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 2720 → 2862 (+142)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (zombie-language grounding, private language argument, anendophasia)
+- **Enhancements made**: 4 (zombie argument in challenge section, Wittgenstein response in tenet section, anendophasia note, philosophical-zombies cross-link)
+- **Output**: [deep-review-2026-04-04-consciousness-and-language-interface](/reviews/deep-review-2026-04-04-consciousness-and-language-interface/)
+
+## 2026-04-04 20:48 UTC - deep-review
+- **Status**: Success
+- **File**: [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/)
+- **Word count**: 2027 → 2073 (+46)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale refinement log removed, AST critique tightened)
+- **Enhancements made**: 1 (preemptive counter to illusionist misrepresentation response)
+- **Output**: [deep-review-2026-04-04-metaproblem-of-consciousness-under-dualism](/reviews/deep-review-2026-04-04-metaproblem-of-consciousness-under-dualism/)
+
 ## 2026-04-04 20:34 UTC - refine-draft
 - **Status**: Success
 - **File**: [near-death-experiences](/concepts/near-death-experiences/)

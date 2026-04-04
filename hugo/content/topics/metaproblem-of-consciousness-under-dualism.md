@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-20 17:19:00+00:00
+ai_modified: 2026-04-04 20:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: How interactionist dualism turns the metaproblem from threat to vin
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 19:22:00+00:00
+last_deep_review: 2026-04-04 20:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -88,7 +88,7 @@ The metaproblem exposes an escalating explanatory burden for [illusionism](/conc
 2. Accounts for the *specific character* of problem intuitions—not just that we find consciousness puzzling, but that we find it puzzling in exactly the ways that track the [explanatory gap](/concepts/explanatory-gap/)
 3. Does so without invoking features of self-representation so sophisticated that they approximate genuine phenomenality
 
-[Attention Schema Theory](/concepts/attention-schema-theory/) illustrates the difficulty. It proposes that the brain builds a simplified model of its own attention, and this model's incompleteness generates the sense that consciousness is mysterious. But why does the model attribute *phenomenal* properties to attention rather than merely functional ones? If the schema says "attention feels like something," the schema already encodes the concept of phenomenal feeling—the very thing illusionism claims doesn't exist.
+[Attention Schema Theory](/concepts/attention-schema-theory/) illustrates the difficulty. It proposes that the brain builds a simplified model of its own attention, and this model's incompleteness generates the sense that consciousness is mysterious. But why does the model attribute *phenomenal* properties to attention rather than merely functional ones? The illusionist may reply that the schema encodes a *misrepresentation* of phenomenal feeling. But this pushes the question back: why does a purely physical system generate misrepresentations with specifically phenomenal content—"attention feels like something"—rather than merely functional content like "attention state active"? The schema must already traffic in phenomenal concepts to misrepresent them, and explaining the origin of those concepts is precisely the hard problem restated at one remove.
 
 The interactionist faces no such escalation. Problem intuitions are accurate because they are produced, in part, by the phenomenon they report on. The explanation is complete at step one.
 
@@ -142,13 +142,3 @@ The evolutionary dimension deepens this point. If consciousness was selected bec
 4. Frankish, K. (2019). The meta-problem is the problem of consciousness. *Journal of Consciousness Studies*, 26(9-10).
 5. Diaz, R. (~2021). Do people think consciousness poses a hard problem? *Journal of Consciousness Studies*, 28(3-4).
 6. Southgate, A. & Oquatre-six, C. (2026-02-09). The Meta-Problem of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/meta-problem-of-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Added cross-link to the-epiphenomenalist-threat in Relation to Site Perspective (gravity well explains metaproblem failures)
-- Added cross-link to mental-causation in self-stultification section (parallel argument)
-- Added both articles to related_articles frontmatter and Further Reading
-
-Based on optimistic-2026-03-20-midday.md cross-linking suggestions.
-This log should be removed after human review.
--->
