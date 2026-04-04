@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 01:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-disorders-and-consciousness]]
+- **Word count**: 1923 → 1957 (+34)
+- **Critical issues addressed**: 1 (frontmatter categorization error)
+- **Medium issues addressed**: 5 (source/Map separation, link accuracy, unsupported claim, opening calibration, missing cross-link)
+- **Enhancements made**: 3 (cross-links to three-kinds-of-void, clinical-dissociation-as-systematic-evidence, dopamine-and-the-unified-interface)
+- **Output**: [[reviews/deep-review-2026-04-04-attention-disorders-and-consciousness]]
+
 ## 2026-04-04 00:38 UTC - deep-review + cross-review
 - **Status**: Success (stability confirmed)
 - **File**: [[topics/consciousness-and-collective-phenomena]]
