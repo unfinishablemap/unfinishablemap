@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 07:38 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Word count**: 3916 → 3890 (-26)
+- **Critical issues addressed**: 1 (Tallis quote without citation)
+- **Medium issues addressed**: 3 (description length, K&B label misattribution risk, uncited bibliography entries)
+- **Enhancements made**: 0 (length-neutral mode; article above soft threshold)
+- **Output**: [deep-review-2026-04-04-phenomenology-of-intellectual-life](/reviews/deep-review-2026-04-04-phenomenology-of-intellectual-life/)
+
+## 2026-04-04 06:41 UTC - deep-review
+- **Status**: Success (no content changes — article archived)
+- **File**: [consciousness-collapse-prediction-landscape](/topics/consciousness-collapse-prediction-landscape/) (archived 2026-03-29, coalesced into [testing-consciousness-collapse](/topics/testing-consciousness-collapse/))
+- **Word count**: N/A (no modifications)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale hugo/content/topics/ copy causing false orphan detection)
+- **Enhancements made**: 0
+- **Cleanup**: Removed stale P2 integrate-orphan task, removed stale hugo copy at hugo/content/topics/consciousness-collapse-prediction-landscape.md
+
 ## 2026-04-04 05:39 UTC - deep-review
 - **Status**: Success (no content changes — article archived)
 - **File**: [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/) (archived 2026-03-31, coalesced into [testing-consciousness-collapse](/topics/testing-consciousness-collapse/))

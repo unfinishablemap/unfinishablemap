@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-04-03 20:38:00+00:00
+ai_modified: 2026-04-04 07:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,14 +45,13 @@ concepts:
 - '[[phenomenal-normativity]]'
 created: 2026-01-22
 date: &id001 2026-04-03
-description: Reasoning, understanding, meaning-making, and epistemic achievement all
-  have irreducible phenomenal character. Consciousness constitutes intellectual life
-  through the work of inference, the click of comprehension, five modes of meaning,
-  and the felt texture of knowing.
+description: 'Intellectual life has irreducible phenomenal character: the work of
+  inference, the click of comprehension, five modes of meaning, and the felt texture
+  of knowing.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-04 07:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,7 +106,7 @@ Galen Strawson's foreign-language argument illuminates this. A monolingual Engli
 
 Complex texts reveal meaning incrementally. This has its own phenomenology: the accumulation of meaning layer by layer, the forward-directed expectation of where the argument is heading, and the effort of holding incomplete structure while processing continues. Bergson's concept of [durée](/concepts/temporal-consciousness/) captures this temporal interpenetration: earlier words echo in present processing while anticipated completion shapes current comprehension.
 
-Research by Kounios and Beeman on the cognitive neuroscience of insight reveals three characteristic features of "aha" moments: solutions appear as *received* rather than constructed (apparent givenness); insight carries confidence before verification (immediate certainty); and what was previously confusing becomes comprehensible in light of the breakthrough (retroactive illumination). The phenomenology suggests something beyond step-by-step computation: ideas being *given* rather than calculated.
+Research by Kounios and Beeman on the cognitive neuroscience of insight reveals three characteristic features of "aha" moments: solutions appear as *received* rather than constructed; insight carries confidence before verification; and what was previously confusing becomes comprehensible in light of the breakthrough. The phenomenology suggests something beyond step-by-step computation: ideas being *given* rather than calculated.
 
 ## The Work of Reasoning
 
@@ -287,17 +286,15 @@ None of these findings currently obtains.
 1. Chudnoff, E. (2015). *Cognitive Phenomenology*. Routledge.
 1. Festinger, L. (1957). *A Theory of Cognitive Dissonance*. Stanford University Press.
 1. Greco, J. (2010). *Achieving Knowledge: A Virtue-Theoretic Account of Epistemic Normativity*. Cambridge University Press.
-1. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
 1. Husserl, E. (1900/2001). *Logical Investigations*. Routledge.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. James, W. (1902). *The Varieties of Religious Experience*. Longmans, Green, and Co.
 1. Kounios, J. & Beeman, M. (2014). The cognitive neuroscience of insight. *Annual Review of Psychology*, 65, 71–93.
-1. Kriegel, U. (2013). *Phenomenal Intentionality*. Oxford University Press.
 1. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
 1. Petitmengin, C. (2006). Describing One's Subjective Experience in the Second Person. *Phenomenology and the Cognitive Sciences*, 5(3-4), 229-269.
 1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1–36.
 1. Plato. *Meno*. 97a–98b.
-1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 1. Sosa, E. (2007). *A Virtue Epistemology*. Oxford University Press.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
+1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen Publishing.
