@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-03T13:38:00+00:00
+ai_modified: 2026-04-04T01:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on phenomenal absence void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenal-absence-void-2026-03-29.md. The phenomenal absence void explores what it means for experience to be missing rather than merely unreported — the difference between not-noticing and genuine experiential absence. Voids section has 1 slot remaining (99/100). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-04
+
+### P2: Integrate clinical evidence quality findings into existing articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-04
+
+### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-31 has no inbound links. Add cross-references from related articles: testing-consciousness-collapse, consciousness-collapse-experimental-landscape, differential-predictions-consciousness-collapse, and comparing-quantum-consciousness-mechanisms. Key article for empirical credibility of the Map's physics programme.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from amplification-mechanisms-consciousness-physics, consciousness-selecting-neural-patterns, comparing-quantum-consciousness-mechanisms, and non-retrocausal-conscious-selection-models. Addresses the amplification problem central to Tenet 2.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Integrate consciousness-collapse-prediction-landscape.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from testing-consciousness-collapse, consciousness-collapse-experimental-landscape, testable-predictions-consciousness-collapse-decoherence, and completeness-in-physics-under-dualism. Maps the empirical prediction space for consciousness-collapse theories.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Cross-review attention-disorders-and-consciousness.md against related articles
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md created 2026-04-03 via expand-topic. Review against attention-and-the-consciousness-interface, clinical-dissociation-as-systematic-evidence, and consciousness-disruption-and-the-mind-brain-interface for consistency, cross-links, and reinforcing arguments. Check for terminology alignment with the attention-as-interface framework.
+- **Source**: chain (from attention-disorders-and-consciousness.md)
+- **Generated**: 2026-04-04
+
+### P2: Cross-review epistemological-limits-of-parsimony.md against related concept pages
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/epistemological-limits-parsimony.md created 2026-04-03 via expand-topic. Review against parsimony-case-for-interactionist-dualism, occams-razor, and limits-of-parsimony-in-consciousness-science for consistency and add cross-links. Central to Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from epistemological-limits-parsimony.md)
+- **Generated**: 2026-04-04
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review

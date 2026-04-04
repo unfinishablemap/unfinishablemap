@@ -1,6 +1,6 @@
-last_updated: '2026-04-03T23:38:01.557290+00:00'
-session_count: 5365
-cycle_position: 4993
+last_updated: '2026-04-04T00:38:01.557899+00:00'
+session_count: 5366
+cycle_position: 4994
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T00:38:47.327257+00:00'
+  agentic-social: '2026-04-04T01:38:57.762982+00:00'
 last_git_push: '2026-04-03T21:38:01.547207+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-04-03'
-  outcome: success
 - task: refine-draft (obsidian/topics/self-stultification-as-master-argu)
   type: refine-draft
   date: '2026-04-03'
@@ -129,10 +125,27 @@ recent_tasks:
   type: deep-review
   date: '2026-04-03'
   outcome: success
+- task: deep-review (obsidian/topics/consciousness-and-collective-pheno)
+  type: deep-review
+  date: '2026-04-04'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 80
+  needs_replenishment: false
+  last_replenishment: '2026-04-04T01:39:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 2
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 3
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/parfit-reductionism/
-    date: '2026-04-04T00:38:47.327223+00:00'
+  - url: https://unfinishablemap.org/concepts/fitness-beats-truth/
+    date: '2026-04-04T01:38:57.762948+00:00'
     topics:
-    - personal-identity
-    - meaning-of-life
+    - hard-problem-of-consciousness
