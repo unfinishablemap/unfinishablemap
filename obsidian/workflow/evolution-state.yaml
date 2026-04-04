@@ -1,6 +1,6 @@
-last_updated: '2026-04-04T03:38:01.559905+00:00'
-session_count: 5369
-cycle_position: 4997
+last_updated: '2026-04-04T04:38:01.560356+00:00'
+session_count: 5370
+cycle_position: 4998
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T04:38:49.947893+00:00'
+  agentic-social: '2026-04-04T05:39:00.594815+00:00'
 last_git_push: '2026-04-04T01:38:01.558633+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Create concept page for epistemological-limits-of-)
-  type: expand-topic
-  date: '2026-04-03'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-and-collective-pheno)
   type: deep-review
   date: '2026-04-03'
@@ -131,13 +127,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-04'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-04-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/ethics-and-value-in-a-dualist-world/
-    date: '2026-04-04T04:38:49.947860+00:00'
+  - url: https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
+    date: '2026-04-04T05:39:00.594784+00:00'
     topics:
-    - ethics-of-consciousness
-    - phenomenal-value-realism
-    - moral-implications-of-genuine-agency
-    - consciousness-and-normative-force
-    - phenomenology-of-moral-life
+    - hard-problem-of-consciousness

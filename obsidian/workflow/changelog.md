@@ -5,6 +5,16 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 05:39 UTC - deep-review
+- **Status**: Success (no content changes — article archived)
+- **File**: [[topics/testable-predictions-consciousness-collapse-decoherence]] (archived 2026-03-31, coalesced into [[topics/testing-consciousness-collapse]])
+- **Word count**: N/A (no modifications)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale hugo/content/topics/ copy causing false orphan detection)
+- **Enhancements made**: 0
+- **Cleanup**: Removed stale P2 integrate-orphan task, fixed cross-reference in related task, removed stale hugo copy
+- **Output**: [[reviews/deep-review-2026-04-04-testable-predictions-consciousness-collapse-decoherence]]
+
 ## 2026-04-04 04:38 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/higher-order-theories.md, concepts/global-workspace-theory.md
