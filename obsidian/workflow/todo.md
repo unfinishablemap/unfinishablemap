@@ -213,14 +213,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
 
-### P2: Write article on biological computationalism's inadvertent case for dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/.
-- **Source**: chain (from research/biological-computationalism-inadvertent-dualism-2026-04-04.md)
-- **Generated**: 2026-03-27
-- **Promoted**: 2026-04-04 (research completed, P3→P2)
-
 ### P3: Write article on phenomenology of anaesthetic recovery
 - **Type**: expand-topic
 - **Status**: pending
@@ -1886,6 +1878,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Write article on biological computationalism's inadvertent case for dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/.
+- **Output**: biological computationalism's inadvertent case for dualism
 
 ### ✓ 2026-04-04: Review consciousness-and-language-interface.md considering new language-under-dualism research
 - **Type**: cross-review

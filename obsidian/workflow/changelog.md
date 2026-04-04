@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 21:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Biological Computationalism's Inadvertent Case for Dualism
+- **Output**: [[biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 1586
+- **Based on research**: yes, [[biological-computationalism-inadvertent-dualism-2026-04-04]]
+
 ## 2026-04-04 21:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-language-interface]]
