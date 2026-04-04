@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense haecceity.md (4079 words, 163% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about haecceity and thisness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-04
-
 ### P2: Address statistical overreach and filter theory weaknesses in near-death-experiences.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1907,6 +1900,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Condense haecceity.md (4079 words, 163% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about haecceity and thisness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/haecceity.md
 
 ### ✓ 2026-04-04: Research QBism and pragmatist quantum foundations
 - **Type**: research-topic

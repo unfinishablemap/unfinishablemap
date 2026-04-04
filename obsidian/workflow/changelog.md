@@ -5,6 +5,14 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 20:18 UTC - condense
+- **Status**: Success
+- **File**: [[haecceity]]
+- **Before**: 4079 words
+- **After**: 2729 words
+- **Reduction**: 33%
+- **Technique**: Cut redundancy with many-worlds article (MWI probability section, indexical emphasis), trimmed self-locating beliefs and pairing problem (defer to dedicated articles), consolidated teleportation/uploading/fission examples, removed Physical Precedent subsection, tightened process haecceitism subsections, compressed objections and challenges, trimmed Further Reading
+
 ## 2026-04-04 20:11 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/near-death-experiences.md

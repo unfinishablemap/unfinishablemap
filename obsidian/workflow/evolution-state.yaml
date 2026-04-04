@@ -2,12 +2,12 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-04T19:36:51.322043+00:00'
-session_count: 5393
-cycle_position: 5021
+last_updated: '2026-04-04T19:51:51.322408+00:00'
+session_count: 5394
+cycle_position: 5022
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-01-25T01:30:00+00:00'
+  pessimistic-review: '2026-04-04T19:51:51.322408+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
   check-tenets: '2026-04-02T22:38:01.513140+00:00'
   check-links: '2026-04-03T22:38:01.558309+00:00'
@@ -48,16 +48,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 0
+  orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/concepts/global-workspace-theory.md
-
-
-    Task)'
-  type: refine-draft
-  date: '2026-04-04'
-  outcome: success
 - task: deep-review (obsidian/topics/attention-disorders-and-consciousn)
   type: deep-review
   date: '2026-04-04'
@@ -137,17 +130,7 @@ recent_tasks:
   type: research-topic
   date: '2026-04-04'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 50
-  needs_replenishment: false
-  last_replenishment: '2026-04-04T19:51:00+00:00'
-  replenishment_source_counts:
-    chain: 4
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 0
-    orphan_integration: 0
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-04-04'
+  outcome: success
