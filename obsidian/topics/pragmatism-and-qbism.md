@@ -4,7 +4,7 @@ description: "QBism inherits William James's pragmatism but refuses to explain i
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-04T21:48:00+00:00
+ai_modified: 2026-04-04T23:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,10 +29,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-04T23:33:00+00:00
 ---
 
-[[qbism|QBism]] — the interpretation of quantum mechanics developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack — is the most explicitly agent-centred approach in quantum foundations. It treats quantum states as an agent's personal beliefs about future experiences, the Born rule as a normative coherence constraint, and measurement as belief-updating rather than physical collapse. The Unfinishable Map argues that QBism's philosophical foundations in [[pragmatism|classical American pragmatism]] make it an inadvertent ally of dualism. By inheriting William James's insistence on the irreducibility of experience while refusing to theorise about what agents *are*, QBism locates the hard problem at the centre of physics — then declines to address it. That gap is precisely what the Map's [[interactionist-dualism]] fills.
+[[qbism|QBism]] — the interpretation of quantum mechanics developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack — is the most explicitly agent-centred approach in quantum foundations. It treats quantum states as an agent's personal beliefs about future experiences, the Born rule as a normative coherence constraint, and measurement as belief-updating rather than physical collapse. The Unfinishable Map argues that QBism's philosophical foundations in [[pragmatism|classical American pragmatism]] make it an inadvertent ally of dualism: by inheriting William James's insistence on the irreducibility of experience while refusing to theorise about what agents *are*, QBism places an agent-shaped gap at the centre of physics. That gap — primitive, irreducible, experiential — is precisely what the Map's [[interactionist-dualism]] fills.
 
 ## QBism's Pragmatist Genealogy
 
@@ -50,7 +50,7 @@ This genealogy matters because it reveals that QBism's deepest commitments are n
 
 ## Participatory Realism and the Agent Problem
 
-Fuchs coined the term "participatory realism" in 2017 to link QBism with [[the-participatory-universe|Wheeler's observer-participancy programme]] and other agent-centred interpretations. The label is telling: it claims realism while insisting that agents participate in constituting reality rather than passively observing it. Wheeler's formulation captures the vision: "every time an act of observer-participancy occurs, one of the undecidable propositions is upgraded to the status of a new axiom."
+Fuchs coined the term "participatory realism" in 2017 to link QBism with [[the-participatory-universe|Wheeler's observer-participancy programme]] and other agent-centred interpretations. The label is telling: it claims realism while insisting that agents participate in constituting reality rather than passively observing it. As Fuchs quotes Wheeler: "every time an act of observer-participancy occurs, one of the undecidable propositions is upgraded to the status of a new axiom."
 
 Participatory realism asserts that reality exceeds any third-person description. There is always more to the world than what can be captured in equations or propositions, because the act of engaging with the world — measuring, choosing, experiencing — adds something that no prior description could contain. This parallels the Map's argument that [[haecceity|first-person facts]] are irreducible to third-person descriptions.
 
@@ -72,7 +72,7 @@ The Map's [[born-rule-and-the-consciousness-interface|Born rule analysis]] opera
 
 QBism is not the only pragmatist approach to quantum foundations. Richard Healey's independent pragmatist interpretation agrees that quantum theory provides guidance for agents rather than descriptions of reality, but diverges on critical points. Where QBism treats probabilities as subjective Bayesian credences, Healey treats them as "objectively correct prescriptions" — what any physically situated agent ought to believe. And where QBism's agents are implicitly conscious (they have experiences, form beliefs, are surprised), Healey's agents need only be "physically situated" and capable of acting — consciousness is not required.
 
-The contrast is instructive. Healey's broader notion of agency avoids QBism's dependence on consciousness but at a cost: it becomes unclear what distinguishes genuine agency from mere physical process. If a thermostat is "physically situated" and "capable of acting" (adjusting temperature in response to input), is it a Healey-style agent? If so, quantum probabilities prescribe something for thermostats — which seems absurd. If not, some criterion must distinguish genuine agents from mere mechanisms, and that criterion threatens to reintroduce the consciousness requirement Healey sought to avoid.
+The contrast is instructive. Healey's broader notion of agency avoids QBism's dependence on consciousness but raises a boundary problem: what distinguishes genuine agency from mere physical process? Healey could presumably draw the line at systems capable of forming and acting on representations, which would exclude thermostats. But the pressure is real — any criterion robust enough to exclude simple mechanisms while including humans must appeal to something beyond physical situation and causal capacity. The most natural candidate for that something is phenomenal experience, which would reintroduce the consciousness requirement Healey sought to avoid.
 
 QBism's honesty about its agents' experiential character is preferable to Healey's attempt to de-psychologise agency. Better to acknowledge the hard problem at the foundations than to define it away through a notion of agency so broad it includes entities for which "having expectations" is a metaphor rather than a description.
 
@@ -103,6 +103,8 @@ QBism's pragmatist foundations create a framework that the Map completes.
 **[[tenets#^dualism|Dualism]]**: QBism inherits James's commitment to the irreducibility of experience and places experiencing agents at the centre of physics. But it takes agents as primitive — a placeholder where an explanation should be. The Map provides the explanation: agents are irreducible because consciousness is not reducible to physical processes. QBism's primitive agents are dualism's unexplored territory.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: QBism's anti-realism about quantum states creates tension with this tenet. But the tension is productive. QBism demonstrates that quantum mechanics requires agents; the Map specifies what agents contribute — biasing otherwise indeterminate outcomes at the quantum level. The normative Born rule may be normative precisely because it reflects the structure of consciousness-physics interaction.
+
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Here the deepest tension lies. QBism's agents update beliefs; the Map's agents select realities. QBism gives consciousness an epistemic role but not a causal one, whereas Tenet 3 holds that consciousness causally influences physical outcomes. The Map reads this tension as productive: QBism has identified exactly the juncture — measurement — where causal influence would operate, then stopped one step short of acknowledging it.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Full agreement. QBism and the Map reject MWI for complementary reasons — QBism because there is no objective state to branch, the Map because indexical identity is meaningful.
 

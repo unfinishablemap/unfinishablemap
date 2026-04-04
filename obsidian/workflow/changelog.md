@@ -5,6 +5,15 @@ ai_modified: 2026-04-04T23:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 23:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatism-and-qbism]]
+- **Word count**: 2213 → 2284 (+71)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (opening attribution scope, Wheeler quote chain, missing Tenet 3, Healey thermostat argument)
+- **Enhancements made**: 4 (clarified Map/QBism framing, Wheeler via Fuchs, Bidirectional Interaction paragraph, charitable Healey response)
+- **Output**: [[reviews/deep-review-2026-04-04-pragmatism-and-qbism]]
+
 ## 2026-04-04 23:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
