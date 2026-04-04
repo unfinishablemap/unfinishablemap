@@ -5,6 +5,16 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 23:03 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-phenomenology-and-altered-experience]]
+- **Word count**: 2536 → 2548 (+12)
+- **Critical issues addressed**: 1 (description length)
+- **Medium issues addressed**: 3 (qualifier calibration, research note removal, missing cross-link)
+- **Enhancements made**: 1 (methodology cross-link)
+- **Site-wide reference updates**: 22 files updated from old coalesced slugs
+- **Output**: [[reviews/deep-review-2026-04-04-clinical-phenomenology-and-altered-experience]]
+
 ## 2026-04-04 22:49 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[clinical-phenomenology-as-philosophical-evidence]], [[phenomenological-psychiatry-and-altered-experience]]

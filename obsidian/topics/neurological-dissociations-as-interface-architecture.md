@@ -26,7 +26,7 @@ related_articles:
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[motor-selection]]"
   - "[[reconstruction-paradox-brain-correction-2026-03-09]]"
-  - "[[clinical-phenomenology-as-philosophical-evidence]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -147,7 +147,7 @@ flowchart TB
 - **Bilateral channels** maintain unity of consciousness across processing streams
 - **Attentional gating** selects which perceptual and affective content reaches awareness
 
-Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. Further dissociations—vegetative states, covert consciousness in unresponsive patients, locked-in syndrome—extend this mapping beyond the six cases examined here; [[consciousness-disruption-and-the-mind-brain-interface]] explores how these global disruptions test the same interface architecture from a different angle. The [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology framework]] develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
+Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. Further dissociations—vegetative states, covert consciousness in unresponsive patients, locked-in syndrome—extend this mapping beyond the six cases examined here; [[consciousness-disruption-and-the-mind-brain-interface]] explores how these global disruptions test the same interface architecture from a different angle. The [[clinical-phenomenology-and-altered-experience|clinical phenomenology framework]] develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
 
 ## What the Pattern Argues
 
@@ -188,7 +188,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [[motor-selection]] — The descending channel in detail
 - [[attention-and-the-consciousness-interface]] — What attention pathology reveals and the broader attention-consciousness relationship
 - [[mind-matter-interface]] — The two-layer architecture these dissociations map
-- [[clinical-phenomenology-as-philosophical-evidence]] — How clinical disruptions as a class generate doubly grounded philosophical evidence
+- [[clinical-phenomenology-and-altered-experience]] — How clinical disruptions as a class generate doubly grounded philosophical evidence
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
 - [[curated-mind]] — The brain's pervasive curation of experience across vision, body, memory, and self-model
 - [[embodied-consciousness-and-the-interface]] — Body-level interface considerations

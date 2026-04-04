@@ -8,7 +8,7 @@ ai_modified: 2026-04-01T14:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
 concepts:
   - "[[attention-as-interface]]"
   - "[[phenomenology]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[structure-of-attention]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[three-kinds-of-void]]"
-  - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[compound-failure-signatures]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[responsibility-gradient-from-attentional-capacity]]"
@@ -141,7 +141,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [[three-kinds-of-void]] — The taxonomy of unknowable territories
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate architecture
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Whether artificial minds can probe human-specific voids
-- [[phenomenological-psychiatry-and-altered-experience]] — How mental illness reveals the structure of experience
+- [[clinical-phenomenology-and-altered-experience]] — How mental illness reveals the structure of experience
 - [[consciousness-and-neurodegenerative-disease]] — Progressive interface erosion as a parallel case
 - [[compound-failure-signatures]] — Mapping where and how cognition fails
 - [[responsibility-gradient-from-attentional-capacity]] — Moral implications when attentional capacity varies

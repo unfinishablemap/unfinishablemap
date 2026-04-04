@@ -31,7 +31,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-consciousness]]"
-  - "[[clinical-phenomenology-as-philosophical-evidence]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
 ai_contribution: 100
@@ -193,7 +193,7 @@ The Map's [[tenets]] converge on consciousness disruption as a domain where the 
 - [[neural-correlates-of-consciousness]] — Why correlations do not settle the production versus interface debate
 - [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural damage
 - [[near-death-experiences]] — Heightened consciousness during minimal brain function
-- [[clinical-phenomenology-as-philosophical-evidence]] — How clinical cases generate philosophical evidence
+- [[clinical-phenomenology-and-altered-experience]] — How clinical cases generate philosophical evidence
 - [[neurological-dissociations-as-interface-architecture]] — Blindsight, anosognosia, and alien hand syndrome mapping the interface
 - [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity
 - [[sleep-and-consciousness]] — The evolved mechanism of consciousness reduction

@@ -8,7 +8,7 @@ ai_modified: 2026-04-04T09:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[dopamine-and-the-unified-interface]]"
 concepts:
@@ -112,7 +112,7 @@ The interface interpretation would face difficulty if: neuroscience identified a
 - [[neurological-dissociations-as-interface-architecture]] — How neurological damage maps the interface
 - [[contemplative-pathology-and-interface-malfunction]] — When meditation pushes the interface beyond operating parameters
 - [[responsibility-gradient-from-attentional-capacity]] — Moral implications of variable attentional capacity
-- [[phenomenological-psychiatry-and-altered-experience]] — How mental illness reveals the structure of experience
+- [[clinical-phenomenology-and-altered-experience]] — How mental illness reveals the structure of experience
 - [[consciousness-and-neurodegenerative-disease]] — Progressive interface erosion as a parallel case
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Anesthesia, coma, and disorders of consciousness as parallel interface disruptions
 - [[voids/attention-and-consciousness]] — The epistemological voids that attention creates and that its disorders deepen

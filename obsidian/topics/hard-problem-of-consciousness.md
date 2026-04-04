@@ -62,7 +62,7 @@ related_articles:
   - "[[process-and-consciousness]]"
   - "[[emergence-void]]"
   - "[[quantum-measurement-and-consciousness]]"
-  - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[objectivity-and-consciousness]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[perception]]"
@@ -249,7 +249,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[quantum-consciousness]] — How quantum mechanics might relate to consciousness
 - [[witness-consciousness]] — The subject-object structure revealed by contemplative practice
 - [[types-of-consciousness]] — Comprehensive taxonomy of consciousness types and how they relate to the hard problem
-- [[phenomenological-psychiatry-and-altered-experience]] — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
+- [[clinical-phenomenology-and-altered-experience]] — How psychiatric conditions reveal structural features of consciousness that resist neural reduction
 - [[bandwidth-of-consciousness]] — The 100-million-fold gap between sensory input and conscious output as evidence for interface dualism
 - [[pain-consciousness-and-causal-power]] — Pain as the hard problem made personal: why phenomenal character resists reduction
 - [[topics/phenomenal-value-realism]] — The hard problem extends to value: if phenomenal properties are irreducible, so is the goodness and badness they constitute

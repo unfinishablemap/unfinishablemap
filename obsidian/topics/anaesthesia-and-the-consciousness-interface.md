@@ -28,7 +28,7 @@ related_articles:
   - "[[brain-interface-boundary]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[clinical-phenomenology-as-philosophical-evidence]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[temporal-structure-of-consciousness]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
@@ -149,7 +149,7 @@ If consciousness were a uniform product of neural activity, anaesthetic sensitiv
 
 Anaesthetic evidence constrains but does not determine the interface's ultimate nature. Anaesthesia demonstrates that specific molecular systems are necessary for the interface to function, but does not prove these systems are *where* consciousness connects — some anaesthetic targets may be interface infrastructure rather than interface points. The pharmacological map is also incomplete: current anaesthetics were discovered empirically, so interface components not targeted by any known drug remain invisible.
 
-Anaesthetic evidence alone cannot distinguish the Map's interactionist interpretation from a sophisticated functionalist account. Critics charge that filter theory merely reinterprets neuroscience findings without independent predictions, but the anaesthetic evidence complicates this: graded restriction rather than binary extinction, consciousness persisting during severe neural disruption, and enhanced experience when filtering loosens are predictions filter theory makes that production theory must accommodate post hoc. The distinguishing evidence comes from convergence — the [[hard-problem-of-consciousness|hard problem]], cases where consciousness persists despite profound neural disruption, and parallel evidence from [[contemplative-pathology-and-interface-malfunction|contemplative pathology]] and [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology]], where the same interface components can be disrupted from the consciousness side.
+Anaesthetic evidence alone cannot distinguish the Map's interactionist interpretation from a sophisticated functionalist account. Critics charge that filter theory merely reinterprets neuroscience findings without independent predictions, but the anaesthetic evidence complicates this: graded restriction rather than binary extinction, consciousness persisting during severe neural disruption, and enhanced experience when filtering loosens are predictions filter theory makes that production theory must accommodate post hoc. The distinguishing evidence comes from convergence — the [[hard-problem-of-consciousness|hard problem]], cases where consciousness persists despite profound neural disruption, and parallel evidence from [[contemplative-pathology-and-interface-malfunction|contemplative pathology]] and [[clinical-phenomenology-and-altered-experience|clinical phenomenology]], where the same interface components can be disrupted from the consciousness side.
 
 ## Relation to Site Perspective
 
@@ -187,7 +187,7 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 - [[binding-problem]] — Temporal and spatial binding challenges relevant to anaesthetic disruption
 - [[attention-as-interface]] — Attention as the mechanism through which consciousness acts
 - [[contemplative-practice-as-philosophical-evidence]] — Voluntary contemplative evidence converging with pharmacological findings on the same interface architecture
-- [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as the involuntary counterpart to pharmacological and contemplative evidence
+- [[clinical-phenomenology-and-altered-experience]] — Clinical disruptions as the involuntary counterpart to pharmacological and contemplative evidence
 - [[consciousness-and-causal-powers]] — The broader question of consciousness's causal role, relevant to the bootstrapping problem
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the decisive test case of pain asymbolia

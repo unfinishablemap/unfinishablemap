@@ -34,7 +34,7 @@ related_articles:
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[ownership-void]]"
   - "[[phenomenology-of-temporal-consciousness-and-agency]]"
-  - "[[clinical-phenomenology-as-philosophical-evidence]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -127,7 +127,7 @@ The [[witness-consciousness|witness mode]] in meditation demonstrates that consc
 
 ## Disorders of the Axis
 
-Pathological cases illuminate the structure (see [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry]] for extended treatment):
+Pathological cases illuminate the structure (see [[clinical-phenomenology-and-altered-experience|clinical phenomenology and altered experience]] for extended treatment):
 
 - **Schizophrenia (thought insertion)**: Patients report thoughts that feel alien—present in consciousness but not authored by the self (Frith, 1992). The content is experienced passively despite originating internally. Agency phenomenology has been stripped from what should be an active process. Sass and Parnas's (2003) ipseity disturbance model situates this within a broader disruption of the minimal self.
 

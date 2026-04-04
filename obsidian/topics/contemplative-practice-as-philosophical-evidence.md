@@ -41,7 +41,7 @@ related_articles:
   - "[[topics/free-will]]"
   - "[[testing-the-map-from-inside]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[clinical-phenomenology-as-philosophical-evidence]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
 author:
@@ -110,7 +110,7 @@ Three significant domains show genuine divergence, revealing the epistemic bound
 
 This pattern — agreement on phenomenological structure, disagreement on metaphysical interpretation — is itself evidentially significant. Contemplative practice verifies structural claims more reliably than metaphysical ones.
 
-A further complication: several convergent findings overlap phenomenologically with [[contemplative-pathology-and-interface-malfunction|pathological conditions]] (depersonalisation, temporal fragmentation, involuntary witness states). This overlap actually strengthens the structural claims — both healthy practice and pathological disruption reveal the same interface components from different directions, confirming genuine architectural features. The [[clinical-phenomenology-as-philosophical-evidence|clinical phenomenology framework]] develops this convergence systematically.
+A further complication: several convergent findings overlap phenomenologically with [[contemplative-pathology-and-interface-malfunction|pathological conditions]] (depersonalisation, temporal fragmentation, involuntary witness states). This overlap actually strengthens the structural claims — both healthy practice and pathological disruption reveal the same interface components from different directions, confirming genuine architectural features. The [[clinical-phenomenology-and-altered-experience|clinical phenomenology framework]] develops this convergence systematically.
 
 The five findings are a curated selection, not an exhaustive survey. The convergence argument is strongest for structural claims where evidence is independently replicable, and weakest where the selection could be biased toward confirming theoretical expectations. See [[epistemology-of-convergence-arguments]] and [[the-convergence-argument-for-dualism]] for broader treatment.
 
@@ -213,7 +213,7 @@ The distinction between willed and exogenous attention in [[neurophenomenology-a
 - [[galilean-exclusion]] — The exclusion that made the explanatory gap structurally inevitable
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practice destabilises the interface
 - [[phenomenology-of-returning-attention]] — Micro-phenomenology of attentional recovery during practice
-- [[clinical-phenomenology-as-philosophical-evidence]] — Clinical disruptions as involuntary counterpart to contemplative evidence
+- [[clinical-phenomenology-and-altered-experience]] — Clinical disruptions as involuntary counterpart to contemplative evidence
 - [[phenomenological-method-and-evidence-standards]] — Husserl's epoché, evidence taxonomy, and why phenomenological standards are irreducible to naturalist criteria
 - [[aesthetics-and-consciousness]] — Aesthetic sensitivity deepening with training as evidence for irreducibility
 

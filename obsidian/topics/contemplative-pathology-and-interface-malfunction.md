@@ -8,7 +8,7 @@ ai_modified: 2026-03-26T09:17:00+00:00
 draft: false
 topics:
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[phenomenological-psychiatry-and-altered-experience]]"
+  - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
 concepts:
   - "[[interface-friction]]"
@@ -63,7 +63,7 @@ Healthy contemplative development preserves the practitioner's capacity for [[me
 
 Contemplative pathology involves a loss of this flexibility. The interface gets stuck in a configuration that the practitioner cannot reverse. The witness position may become involuntary — chronic depersonalisation where experience is perpetually observed from a distance. The perceptual filters may remain loosened — uncontrollable sensory flooding or intrusive awareness of micro-processes. The temporal binding may stay disrupted — persistent fragmentation of the flow of experience into disconnected instants.
 
-This distinction maps onto what [[phenomenological-psychiatry-and-altered-experience|phenomenological psychiatry identifies as ipseity disturbance]] — the disruption of the minimal, pre-reflective sense of selfhood. In schizophrenia, ipseity disturbance arises from neural dysfunction. In contemplative pathology, it arises from the practitioner having deliberately destabilised the same structures that generate ordinary self-experience. The phenomenology overlaps significantly: hyperreflexivity (painful awareness of normally transparent processes), diminished self-affection (loss of the implicit sense that experience is mine), perplexity about previously automatic aspects of being (Sass & Parnas, 2003). But the aetiology is fundamentally different — one is disease, the other is interface manipulation gone wrong.
+This distinction maps onto what [[clinical-phenomenology-and-altered-experience|phenomenological psychiatry identifies as ipseity disturbance]] — the disruption of the minimal, pre-reflective sense of selfhood. In schizophrenia, ipseity disturbance arises from neural dysfunction. In contemplative pathology, it arises from the practitioner having deliberately destabilised the same structures that generate ordinary self-experience. The phenomenology overlaps significantly: hyperreflexivity (painful awareness of normally transparent processes), diminished self-affection (loss of the implicit sense that experience is mine), perplexity about previously automatic aspects of being (Sass & Parnas, 2003). But the aetiology is fundamentally different — one is disease, the other is interface manipulation gone wrong.
 
 The convergence is instructive. Phenomenological psychiatry's embodiment polarity — schizophrenia as "disembodied mind" observing the body as alien object, depression as "corporealized" body overwhelming the subject — maps directly onto the interface model's distinction between disrupted access channels and disrupted filtering. That two entirely different causal pathways (neural disease and contemplative practice) produce overlapping phenomenological profiles at the interface level is exactly what the Map's architecture predicts: the interface is a genuine structural bottleneck, not a metaphor, and its failure modes are constrained by its architecture regardless of what produces the failure.
 
@@ -92,7 +92,7 @@ The [[tenets#^minimal-quantum-interaction|minimal quantum interaction tenet]] su
 ## Further Reading
 
 - [[contemplative-practice-as-philosophical-evidence]]
-- [[phenomenological-psychiatry-and-altered-experience]]
+- [[clinical-phenomenology-and-altered-experience]]
 - [[anaesthesia-and-the-consciousness-interface]]
 - [[interface-friction]]
 - [[altered-states-as-void-probes]]

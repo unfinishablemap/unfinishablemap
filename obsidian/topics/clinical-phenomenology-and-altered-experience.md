@@ -1,14 +1,15 @@
 ---
 title: "Clinical Phenomenology and Altered Experience"
-description: "Mental illness and neurological disruption reveal consciousness's hidden architecture. Systematic study of how psychiatric conditions alter the structure of experience generates doubly grounded evidence that discriminates between philosophical theories with unusual precision."
+description: "Clinical phenomenology uses psychiatric disruption as natural experiments on consciousness, generating doubly grounded evidence that discriminates between philosophical theories."
 created: 2026-03-03
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-04-04T22:49:00+00:00
+ai_modified: 2026-04-04T23:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
+  - "[[phenomenological-method-and-evidence-standards]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[embodied-consciousness-and-the-interface]]"
   - "[[consciousness-and-the-ownership-problem]]"
@@ -35,13 +36,12 @@ related_articles:
   - "[[pain-consciousness-and-causal-power]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[attention-disorders-and-consciousness]]"
-  - "[[phenomenological-psychiatry-altered-experience-2026-02-21]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-04T23:03:00+00:00
 coalesced_from:
   - "/topics/clinical-phenomenology-as-philosophical-evidence/"
   - "/topics/phenomenological-psychiatry-and-altered-experience/"
@@ -81,7 +81,7 @@ Two complementary processes characterise this disturbance:
 
 These are not separate processes but two sides of the same coin. When normally tacit features of experience become explicit objects (hyperreflexivity), they simultaneously cease to function as the inhabited medium of selfhood (diminished self-affection).
 
-The Examination of Anomalous Self-Experience (EASE), a clinical interview instrument, has validated this model empirically. Self-disorders measured by EASE aggregate selectively in schizophrenia spectrum disorders and predict future onset in at-risk populations, independent of whether active psychotic symptoms are present. The finding that erosion of the first-person perspective appears specific to the schizophrenia spectrum demonstrates that the [[the-self-minimal-narrative-and-substantial|minimal self]] is not merely a philosophical abstraction but a clinically measurable structural feature of consciousness—one that connects directly to [[consciousness-and-the-ownership-problem|the ownership problem]].
+The Examination of Anomalous Self-Experience (EASE), a clinical interview instrument, has validated this model empirically. Self-disorders measured by EASE aggregate selectively in schizophrenia spectrum disorders and predict future onset in at-risk populations, independent of whether active psychotic symptoms are present. The finding that erosion of the first-person perspective aggregates selectively in schizophrenia spectrum disorders suggests that the [[the-self-minimal-narrative-and-substantial|minimal self]] is not merely a philosophical abstraction but a clinically measurable structural feature of consciousness—one that connects directly to [[consciousness-and-the-ownership-problem|the ownership problem]].
 
 ## Embodiment Disrupted
 
@@ -177,6 +177,7 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 ### Methodology
 - [[phenomenal-authority-and-first-person-evidence]] — The epistemic status of first-person reports
 - [[contemplative-practice-as-philosophical-evidence]] — Deliberate alteration as complement to involuntary disruption
+- [[phenomenological-method-and-evidence-standards]] — The standards governing phenomenological evidence in philosophy of mind
 - [[attention-disorders-and-consciousness]] — The epistemological void when attention disorders compromise investigation
 
 ### Core Concepts
