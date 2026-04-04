@@ -38,6 +38,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review neurological-dissociations-as-interface-architecture.md considering attention-disorders-and-consciousness
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md (2026-04-03) adds ADHD, hemispatial neglect, Balint syndrome, and extinction cases to the interface model. neurological-dissociations-as-interface-architecture.md covers related ground — check for cross-links, complementary clinical evidence, and consistent terminology.
+- **Source**: chain (from attention-disorders-and-consciousness.md)
+- **Generated**: 2026-04-04
+
+### P2: Cross-review phenomenal-presence-void.md considering phenomenal-absence-void
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/voids/phenomenal-absence-void.md (2026-04-04) is the direct companion to phenomenal-presence-void.md — presence vs. absence. Check for cross-links, consistent treatment of phenomenal generation, and whether the presence void article should reference the absence framework.
+- **Source**: chain (from phenomenal-absence-void.md)
+- **Generated**: 2026-04-04
+
+### P2: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md (2026-04-03) applies the attention-as-interface framework to disorder cases. The foundational attention-and-the-consciousness-interface.md should reference these clinical elaborations and may benefit from a "Clinical evidence" pointer section.
+- **Source**: chain (from attention-disorders-and-consciousness.md)
+- **Generated**: 2026-04-04
+
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1883,6 +1904,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with primary sources. bandwidth-of-consciousness.md references 10-bit constraints but the research provides deeper grounding (Nørretranders, Zimmermann, Dijksterhuis) that should strengthen the article's empirical claims.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with primary sources. bandwidth-of-consciousness.md references 10-bit constraints but the research provides deeper grounding (Nørretranders, Zimmermann, Dijksterhuis) that should strengthen the article's empirical claims.
+
+### ✓ 2026-04-04: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, stochastic emergence timing, and prefrontal re-engagement — rich material for the interface model not yet integrated into the coalesced anaesthesia article. The superseded expand-topic task (line 454) noted this research needed integration via refine-draft.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, stochastic emergence timing, and prefrontal re-engagement — rich material for the interface model not yet integrated into the coalesced anaesthesia article. The superseded expand-topic task (line 454) noted this research needed integration via refine-draft.
 
 ### ✓ 2026-04-04: Cross-review epistemological-limits-of-parsimony.md against related concept pages
 - **Type**: cross-review

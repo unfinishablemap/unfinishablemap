@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 16:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Changes**: Expanded Inbound Channel with Zimmermann's modality-specific sensory breakdown, added random character typing comparison to strengthen Shannon methodology, integrated Nørretranders quote in filter theory section, added order-of-magnitude summary
+- **Published**: yes
+
+## 2026-04-04 16:03 UTC - deep-review
+- **Status**: Success
+- **File**: [symbol-grounding-problem](/concepts/symbol-grounding-problem/)
+- **Word count**: 2480 → 2480 (unchanged — timestamp updates only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verified link migrations from coalescing are correct)
+- **Output**: [deep-review-2026-04-04-symbol-grounding-problem](/reviews/deep-review-2026-04-04-symbol-grounding-problem/)
+
+## 2026-04-04 15:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Original score**: ~7/10
+- **Changes**: Fixed duplicate reference (eLife e59525 listed under both Mashour and Bhatt), corrected in-text citation, split dense paragraphs in recovery and tenet sections for readability, added explicit PCI reference
+- **Published**: yes
+
 ## 2026-04-04 12:12 UTC - deep-review
 - **Status**: Success
 - **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)

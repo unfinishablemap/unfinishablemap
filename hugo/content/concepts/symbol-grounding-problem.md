@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-04 16:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: How symbols acquire meaning intrinsic to a system rather than paras
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-09 11:46:00+00:00
+last_deep_review: 2026-04-04 16:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
