@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
-- **Type**: cross-review
-- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Review against topics/functionalism.md, topics/experimental-consciousness-science-2025-2026.md, concepts/consciousness-as-amplifier.md, and topics/comparing-quantum-consciousness-mechanisms.md for consistency, cross-linking, and whether biological computationalism arguments strengthen or tension with existing content. Directly supports Tenet 1 (Dualism).
-- **Source**: chain (from topics/biological-computationalisms-inadvertent-case-for-dualism.md)
-- **Generated**: 2026-04-04
-
 ### P2: Deep review pragmatism-and-qbism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md, never reviewed. Topics article connecting pragmatist epistemology with QBism's agent-centred quantum interpretation under dualism. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-dualism bridge argument, cross-references to concepts/qbism.md and concepts/pragmatism.md, and tenet alignment (especially Tenets 2 and 4).
@@ -1899,6 +1893,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Review against topics/functionalism.md, topics/experimental-consciousness-science-2025-2026.md, concepts/consciousness-as-amplifier.md, and topics/comparing-quantum-consciousness-mechanisms.md for consistency, cross-linking, and whether biological computationalism arguments strengthen or tension with existing content. Directly supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md -- Context: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
 
 ### ✓ 2026-04-04: Update references to coalesced clinical phenomenology articles
 - **Type**: cross-review

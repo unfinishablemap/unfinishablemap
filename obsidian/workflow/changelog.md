@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30 03:18:00+00:00
+ai_modified: 2026-04-04T23:18:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-04-04 23:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 1586 → 1800 (+214)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing No Many Worlds tenet, ACD tension unaddressed, missing cross-links, unlinked IIT/GWT)
+- **Enhancements made**: 6 (No Many Worlds paragraph, ACD non-computability argument, philosophy of biology cross-ref, IIT/GWT/qualia/explanatory-gap links, expanded Further Reading)
+- **Output**: [[reviews/deep-review-2026-04-04-biological-computationalisms-inadvertent-case-for-dualism]]
 
 ## 2026-04-04 23:03 UTC - deep-review
 - **Status**: Success
