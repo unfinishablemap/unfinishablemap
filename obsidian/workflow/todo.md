@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review attention-disorders-and-consciousness.md against related articles
-- **Type**: cross-review
-- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md created 2026-04-03 via expand-topic. Review against attention-and-the-consciousness-interface, clinical-dissociation-as-systematic-evidence, and consciousness-disruption-and-the-mind-brain-interface for consistency, cross-links, and reinforcing arguments. Check for terminology alignment with the attention-as-interface framework.
-- **Source**: chain (from attention-disorders-and-consciousness.md)
-- **Generated**: 2026-04-04
-
 ### P2: Cross-review epistemological-limits-of-parsimony.md against related concept pages
 - **Type**: cross-review
 - **Notes**: New concept page obsidian/concepts/epistemological-limits-parsimony.md created 2026-04-03 via expand-topic. Review against parsimony-case-for-interactionist-dualism, occams-razor, and limits-of-parsimony-in-consciousness-science for consistency and add cross-links. Central to Tenet 5 (Occam's Razor Has Limits).
@@ -1873,6 +1867,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Cross-review attention-disorders-and-consciousness.md against related articles
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md created 2026-04-03 via expand-topic. Review against attention-and-the-consciousness-interface, clinical-dissociation-as-systematic-evidence, and consciousness-disruption-and-the-mind-brain-interface for consistency, cross-links, and reinforcing arguments. Check for terminology alignment with the attention-as-interface framework.
+- **Output**: obsidian/topics/attention-disorders-and-consciousness.md -- Context: Cross-review attention-disorders-and-consciousness.md against related articles
 
 ### ✓ 2026-04-04: Fix Baddeley misattribution in global-workspace-theory.md
 - **Type**: refine-draft

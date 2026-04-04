@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/attention-disorders-and-consciousness]]
+- **Word count**: 1957 → 1983 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (terminology alignment with Map vocabulary, cross-links to interface-friction, neurological-dissociations-as-interface-architecture, consciousness-disruption-and-the-mind-brain-interface)
+- **Enhancements made**: 4 (cross-links strengthening cluster integration)
+- **Output**: [[reviews/deep-review-2026-04-04-cross-attention-disorders-and-consciousness]]
+
 ## 2026-04-04 08:39 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/global-workspace-theory]]

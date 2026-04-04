@@ -4,7 +4,7 @@ description: "ADHD, hemispatial neglect, Balint syndrome, and extinction each di
 created: 2026-04-03
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-04T01:47:00+00:00
+ai_modified: 2026-04-04T09:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,12 +26,13 @@ related_articles:
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[consciousness-and-neurodegenerative-disease]]"
   - "[[neurological-dissociations-as-interface-architecture]]"
+  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-03
 last_curated:
-last_deep_review: 2026-04-04T01:47:00+00:00
+last_deep_review: 2026-04-04T09:38:00+00:00
 ---
 
 Attention disorders are natural experiments in consciousness. Each disorder disrupts a specific component of the attentional system while leaving others intact, and the resulting pattern of phenomenological change reveals an architecture that no single intact mind could disclose. The Unfinishable Map argues that attention is the [[attention-as-interface|interface]] through which consciousness engages with the brain—not consciousness itself. If this is correct, attention disorders should produce characteristic signatures: impaired *engagement* with specific content domains while consciousness persists behind the degraded channel. The clinical evidence across ADHD, hemispatial neglect, Balint syndrome, and extinction fits this prediction better than competing accounts, while exposing a deep epistemological challenge that neither materialist nor dualist frameworks fully resolve.
@@ -64,7 +65,7 @@ Balint syndrome isolates what spatial attention contributes to consciousness. No
 
 Extinction, often accompanying neglect, reveals something subtler. A patient can detect a single stimulus on either side of space, but when two stimuli appear simultaneously, the contralesional stimulus is extinguished from awareness. The stimulus is not invisible—it is visible only when it does not compete. Driver and Vuilleumier (2001) demonstrated that extinguished stimuli still activate early visual cortex and can prime subsequent responses, confirming that the information reaches the brain but loses the attentional competition for conscious access.
 
-Extinction exposes the competitive structure of awareness. Consciousness does not passively receive all available information—it operates through a selection mechanism where representations compete for access. When the competitive playing field is tilted by neural damage, weaker competitors are systematically excluded. This is consistent with the Map's view that consciousness engages with the brain through a bandwidth-limited channel: the channel has limited capacity, and damage reduces that capacity in systematic ways.
+Extinction exposes the competitive structure of awareness. Consciousness does not passively receive all available information—it operates through a selection mechanism where representations compete for access. When the competitive playing field is tilted by neural damage, weaker competitors are systematically excluded. This is consistent with the Map's view that consciousness engages with the brain through a [[interface-friction|bandwidth-limited]] channel: the channel has limited capacity, and damage reduces that capacity in systematic ways.
 
 ## The Phenomenological Kaleidoscope
 
@@ -79,7 +80,7 @@ Across the four disorders, a pattern emerges:
 
 Each disorder removes a different piece of the attentional architecture. In every case, consciousness continues—but its scope, structure, or reliability changes in ways that track the specific component damaged. And in every case, implicit processing of the "lost" content persists, creating a gap between what the brain processes and what consciousness accesses.
 
-This gap is the interface—one instance of the broader pattern where [[clinical-dissociation-as-systematic-evidence|clinical dissociations serve as systematic evidence]] for non-identity between consciousness and neural processing. If consciousness were neural processing, there should be no systematic divergence between processing and awareness. If consciousness were entirely independent of the brain, disorders should not alter phenomenology at all. The observed pattern—selective, specific, architecturally structured disruptions of conscious access while processing continues—fits an interface model where consciousness depends on but is not identical to the neural mechanisms through which it operates.
+This gap is the interface. Each disorder maps to a specific failure in the [[neurological-dissociations-as-interface-architecture|multi-channel architecture]] connecting consciousness to the brain—one instance of the broader pattern where [[clinical-dissociation-as-systematic-evidence|clinical dissociations serve as systematic evidence]] for non-identity between consciousness and neural processing. If consciousness were neural processing, there should be no systematic divergence between processing and awareness. If consciousness were entirely independent of the brain, disorders should not alter phenomenology at all. The observed pattern—selective, specific, architecturally structured disruptions of conscious access while processing continues—fits an interface model where consciousness depends on but is not identical to the neural mechanisms through which it operates.
 
 ## The Epistemological Challenge
 
@@ -95,7 +96,7 @@ The developmental dimension deepens this. A person with lifelong ADHD has no neu
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** gains indirect support from the threshold architecture that ADHD reveals. If consciousness biases selection at points of quantum indeterminacy, dopamine-modulated thresholds determine how reliably that bias translates into sustained neural patterns. ADHD compromises the threshold without eliminating the bias—consistent with a minimal interaction whose effectiveness depends on the neural substrate's readiness to be influenced.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is illuminated by the contrast between voluntary and captured attention across disorders. ADHD specifically impairs the voluntary direction of attention—the channel through which consciousness acts on the brain—while leaving the reception channel (captured attention, sensory consciousness) intact or enhanced. This selective impairment of the "downward" direction while preserving the "upward" direction is precisely what bidirectional interaction predicts: two separable causal pathways, each vulnerable to distinct forms of disruption.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is illuminated by the contrast between voluntary and captured attention across disorders. ADHD specifically impairs [[structure-of-attention|willed attention]]—the channel through which consciousness acts on the brain—while leaving the reception channel (exogenous attention, sensory consciousness) intact or enhanced. This selective impairment of the "downward" direction while preserving the "upward" direction is precisely what bidirectional interaction predicts: two separable causal pathways, each vulnerable to distinct forms of disruption.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The simple identification of consciousness with attention—eliminating the interface in favour of identity—cannot accommodate the fourfold pattern. ADHD preserves consciousness while impairing attention; neglect erases awareness while preserving processing; Balint restricts access while leaving object recognition intact; extinction depends on competition rather than absolute capacity. No single-mechanism account captures this diversity. The parsimony of "consciousness just is brain activity" purchases simplicity at the cost of explanatory adequacy.
 
@@ -113,6 +114,7 @@ The interface interpretation would face difficulty if: neuroscience identified a
 - [[responsibility-gradient-from-attentional-capacity]] — Moral implications of variable attentional capacity
 - [[phenomenological-psychiatry-and-altered-experience]] — How mental illness reveals the structure of experience
 - [[consciousness-and-neurodegenerative-disease]] — Progressive interface erosion as a parallel case
+- [[consciousness-disruption-and-the-mind-brain-interface]] — Anesthesia, coma, and disorders of consciousness as parallel interface disruptions
 - [[voids/attention-and-consciousness]] — The epistemological voids that attention creates and that its disorders deepen
 
 ## References
