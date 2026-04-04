@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix Baddeley misattribution in global-workspace-theory.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the Working Memory section misattributes dualist implications to Baddeley's episodic buffer model. The claim that Baddeley's formulation "implies something beyond the neural workspace does the accessing" reads the Map's dualism into a non-dualist source. Reframe as the Map's interpretation, not Baddeley's implication. See pessimistic-2026-04-04.md, Issue 3.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-04
-
 ### P2: Cross-review attention-disorders-and-consciousness.md against related articles
 - **Type**: cross-review
 - **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md created 2026-04-03 via expand-topic. Review against attention-and-the-consciousness-interface, clinical-dissociation-as-systematic-evidence, and consciousness-disruption-and-the-mind-brain-interface for consistency, cross-links, and reinforcing arguments. Check for terminology alignment with the attention-as-interface framework.
@@ -1880,6 +1873,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Fix Baddeley misattribution in global-workspace-theory.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the Working Memory section misattributes dualist implications to Baddeley's episodic buffer model. The claim that Baddeley's formulation "implies something beyond the neural workspace does the accessing" reads the Map's dualism into a non-dualist source. Reframe as the Map's interpretation, not Baddeley's implication. See pessimistic-2026-04-04.md, Issue 3.
+- **Output**: obsidian/concepts/global-workspace-theory.md
+
+Task context:
+Pessimistic review found that the Working Memory section misattributes dualist implications to Baddeley's episodic buffer model. The claim that Baddeley's formulation "implies something beyond the neural workspace does the accessing" reads the Map's dualism into a non-dualist source. Reframe as the Map's interpretation, not Baddeley's implication. See pessimistic-2026-04-04.md, Issue 3.
 
 ### ✓ 2026-04-04: Integrate consciousness-collapse-prediction-landscape.md into site navigation
 - **Type**: integrate-orphan

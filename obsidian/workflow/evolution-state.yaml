@@ -1,6 +1,6 @@
-last_updated: '2026-04-04T06:38:01.560869+00:00'
-session_count: 5372
-cycle_position: 5000
+last_updated: '2026-04-04T07:38:01.561618+00:00'
+session_count: 5373
+cycle_position: 5001
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T07:38:45.061507+00:00'
-last_git_push: '2026-04-04T05:38:01.560623+00:00'
+  agentic-social: '2026-04-04T08:39:43.570526+00:00'
+last_git_push: '2026-04-04T08:38:39.675612+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/topics/testing-consciousness-collapse.md)
-  type: condense
-  date: '2026-04-03'
-  outcome: success
 - task: deep-review (obsidian/concepts/selective-correction-and-reconst)
   type: deep-review
   date: '2026-04-03'
@@ -131,9 +127,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-04'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/combination-problem/
-    date: '2026-04-04T07:38:45.061477+00:00'
+  - url: https://unfinishablemap.org/topics/metaproblem-of-consciousness-under-dualism/
+    date: '2026-04-04T08:39:43.570492+00:00'
     topics:
     - hard-problem-of-consciousness
+    - evolution-under-dualism

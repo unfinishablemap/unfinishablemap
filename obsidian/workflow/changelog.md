@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 08:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/global-workspace-theory]]
+- **Changes**: Fixed Baddeley misattribution — reframed dualist reading of episodic buffer as Map's interpretation, not Baddeley's implication. Full attribution accuracy check passed.
+- **Published**: yes
+
 ## 2026-04-04 07:38 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-intellectual-life]]
