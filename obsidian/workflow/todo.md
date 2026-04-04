@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-collapse-prediction-landscape.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from testing-consciousness-collapse, consciousness-collapse-experimental-landscape, and completeness-in-physics-under-dualism. Maps the empirical prediction space for consciousness-collapse theories. (Note: testable-predictions-consciousness-collapse-decoherence was archived 2026-03-31, coalesced into testing-consciousness-collapse.)
-- **Source**: orphan_integration
-- **Generated**: 2026-04-04
-
 ### P2: Fix Baddeley misattribution in global-workspace-theory.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1886,6 +1880,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Integrate consciousness-collapse-prediction-landscape.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from testing-consciousness-collapse, consciousness-collapse-experimental-landscape, and completeness-in-physics-under-dualism. Maps the empirical prediction space for consciousness-collapse theories. (Note: testable-predictions-consciousness-collapse-decoherence was archived 2026-03-31, coalesced into testing-consciousness-collapse.)
+- **Output**: consciousness-collapse-prediction-landscape.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-04: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
 - **Type**: integrate-orphan

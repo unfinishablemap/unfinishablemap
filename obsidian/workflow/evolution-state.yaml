@@ -1,6 +1,6 @@
-last_updated: '2026-04-04T04:38:01.560356+00:00'
-session_count: 5370
-cycle_position: 4998
+last_updated: '2026-04-04T05:38:01.560623+00:00'
+session_count: 5371
+cycle_position: 4999
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T05:39:00.594815+00:00'
-last_git_push: '2026-04-04T01:38:01.558633+00:00'
+  agentic-social: '2026-04-04T06:41:22.675851+00:00'
+last_git_push: '2026-04-04T05:38:01.560623+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/consciousness-and-collective-pheno)
-  type: deep-review
-  date: '2026-04-03'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-04-03'
@@ -131,9 +127,14 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-04-04'
   outcome: success
+- task: deep-review (testable-predictions-consciousness-collapse-decohe)
+  type: deep-review
+  date: '2026-04-04'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
-    date: '2026-04-04T05:39:00.594784+00:00'
+  - url: https://unfinishablemap.org/topics/evolution-under-dualism/
+    date: '2026-04-04T06:41:22.675801+00:00'
     topics:
     - hard-problem-of-consciousness
+    - consciousness-evolution-problem
