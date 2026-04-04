@@ -4,7 +4,7 @@ description: "How symbols acquire meaning intrinsic to a system rather than para
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-04T16:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-30
 last_curated: null
-last_deep_review: 2026-03-09T11:46:00+00:00
+last_deep_review: 2026-04-04T16:03:00+00:00
 coalesced_from:
   - "/topics/symbol-grounding-problem/"
 ---
