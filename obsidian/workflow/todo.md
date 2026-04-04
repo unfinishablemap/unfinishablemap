@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenology-of-recursive-self-awareness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced today from phenomenology-of-self-awareness.md + phenomenology-of-recursive-thought.md. Two source articles merged into one — verify the coalesce preserved key arguments from both, eliminated redundancy, and maintains coherent structure. Check cross-references to self-and-self-consciousness, introspection, higher-order-theories, and recursion-void. Tenet alignment critical (recursive self-awareness bears on Tenet 1 and Tenet 3).
-- **Source**: chain (from coalesce 2026-04-04)
-- **Generated**: 2026-04-04
-
 ### P2: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1917,6 +1910,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Deep review phenomenology-of-recursive-self-awareness.md
+- **Type**: deep-review
+- **Notes**: Coalesced today from phenomenology-of-self-awareness.md + phenomenology-of-recursive-thought.md. Two source articles merged into one — verify the coalesce preserved key arguments from both, eliminated redundancy, and maintains coherent structure. Check cross-references to self-and-self-consciousness, introspection, higher-order-theories, and recursion-void. Tenet alignment critical (recursive self-awareness bears on Tenet 1 and Tenet 3).
+- **Output**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
 
 ### ✓ 2026-04-04: Update references to coalesced process-haecceitism article
 - **Type**: cross-review

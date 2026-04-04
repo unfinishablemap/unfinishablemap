@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Recursive Self-Awareness"
-description: "When consciousness curves back on itself, new phenomenal structures emerge—reflexive distance, existential tonality, doubled intentionality, and the collapsing tower of recursive levels. Self-awareness is not an added layer but a qualitative transformation, and its recursive deepening reveals structural limits on self-knowledge."
+description: "Recursive self-awareness transforms phenomenal experience through reflexive distance, doubled intentionality, and structural limits on self-knowledge."
 created: 2026-02-01
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-04-04T16:48:00+00:00
+ai_modified: 2026-04-04T18:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: 2026-04-04T16:48:00+00:00
+last_deep_review: 2026-04-04T18:21:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-self-awareness/"
   - "/topics/phenomenology-of-recursive-thought/"
