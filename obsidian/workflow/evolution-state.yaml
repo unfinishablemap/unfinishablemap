@@ -1,6 +1,6 @@
-last_updated: '2026-04-03T22:38:01.558309+00:00'
-session_count: 5364
-cycle_position: 4992
+last_updated: '2026-04-03T23:38:01.557290+00:00'
+session_count: 5365
+cycle_position: 4993
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-01-25T11:16:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-03T23:39:00.907616+00:00'
+  agentic-social: '2026-04-04T00:38:47.327257+00:00'
 last_git_push: '2026-04-03T21:38:01.547207+00:00'
 last_tweet_date: '2026-04-03'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/phenomenal-authority-and-first-per)
-  type: deep-review
-  date: '2026-04-03'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-03'
@@ -129,10 +125,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-03'
   outcome: success
+- task: deep-review (obsidian/topics/testing-consciousness-collapse.md )
+  type: deep-review
+  date: '2026-04-03'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-intelligence/
-    date: '2026-04-03T23:39:00.907561+00:00'
+  - url: https://unfinishablemap.org/concepts/parfit-reductionism/
+    date: '2026-04-04T00:38:47.327223+00:00'
     topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
+    - personal-identity
+    - meaning-of-life

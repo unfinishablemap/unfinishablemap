@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-collective-phenomena.md after deep-review
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Deep review on 2026-04-03 fixed post-coalesce redundancy. Verify the revised article maintains coherent integration with consciousness-as-amplifier, phenomenology-of-collective-intentionality-and-we-consciousness, and social-construction-of-self-vs-phenomenal-self. Check that the coalesce-inherited arguments now form a unified structure.
-- **Source**: chain (from deep-review 2026-04-03)
-- **Generated**: 2026-04-03
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1868,6 +1861,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Cross-review consciousness-and-collective-phenomena.md after deep-review
+- **Type**: cross-review
+- **Notes**: Deep review on 2026-04-03 fixed post-coalesce redundancy. Verify the revised article maintains coherent integration with consciousness-as-amplifier, phenomenology-of-collective-intentionality-and-we-consciousness, and social-construction-of-self-vs-phenomenal-self. Check that the coalesce-inherited arguments now form a unified structure.
+- **Output**: obsidian/topics/consciousness-and-collective-phenomena.md -- Context: Cross-review consciousness-and-collective-phenomena.md after deep-review
 
 ### ✓ 2026-04-03: Cross-review testing-consciousness-collapse.md after condensation
 - **Type**: cross-review

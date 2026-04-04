@@ -4,7 +4,7 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-28T21:26:00+00:00
+ai_modified: 2026-04-04T00:38:00+00:00
 draft: false
 last_deep_review: 2026-03-28T21:26:00+00:00
 topics:
@@ -32,6 +32,7 @@ related_articles:
   - "[[consciousness-and-intersubjectivity]]"
   - "[[second-person-void]]"
   - "[[boundary-void]]"
+  - "[[consciousness-and-collective-phenomena]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -173,6 +174,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[commensurability-void]] — Even with access to other minds, experiences across radically different architectures may resist comparison entirely
 - [[boundary-void]] — What determines the extent of each sealed consciousness
 - [[indexical-void]] — Why first-person identity resists explanation
+- [[consciousness-and-collective-phenomena]] — We-consciousness navigates the void without closing it: genuine collective experience, individually implemented
 
 ## References
 

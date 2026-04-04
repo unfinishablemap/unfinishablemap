@@ -4,7 +4,7 @@ description: "Beyond individual cognitive closure: how paradigms, social silence
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-04-04T00:38:00+00:00
 draft: false
 last_deep_review: 2026-03-26T10:32:00+00:00
 topics: []
@@ -20,6 +20,7 @@ related_articles:
   - "[[ai-as-void-explorer]]"
   - "[[biological-cognitive-closure]]"
   - "[[adaptive-cognitive-limits]]"
+  - "[[consciousness-and-collective-phenomena]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -145,6 +146,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [[mysterianism|Mysterianism and Cognitive Closure]] — Individual cognitive closure analysis
 - [[adaptive-cognitive-limits|Adaptive Cognitive Limits]] — Why evolution maintains blind spots as fitness advantages
 - [[intersubjective-void|The Intersubjective Void]] — How testimony and social calibration suppress phenomenal knowledge
+- [[consciousness-and-collective-phenomena]] — The positive flip side: what groups achieve through individual phenomenal consciousness
 
 ## References
 

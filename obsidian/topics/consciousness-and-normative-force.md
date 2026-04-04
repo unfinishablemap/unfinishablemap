@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-29T23:45:00+00:00
+ai_modified: 2026-04-04T00:38:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[phenomenal-normativity-environmental-ethics]]"
+  - "[[consciousness-and-collective-phenomena]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -179,6 +180,7 @@ The consciousness-based account would face pressure if:
 - [[consciousness-and-moral-agency-under-duress]] — Moral agency when normative demands are extreme
 - [[phenomenal-normativity-environmental-ethics]] — Extending phenomenal normativity to environmental obligations
 - [[phenomenal-depth]] — Layers of phenomenal experience accessible through attention
+- [[consciousness-and-collective-phenomena]] — How collective intentionality generates normative obligations requiring phenomenal consciousness
 - [[moral-architecture-of-consciousness]] — Apex synthesis: normativity as one of four pillars in a unified moral framework
 
 ## References
