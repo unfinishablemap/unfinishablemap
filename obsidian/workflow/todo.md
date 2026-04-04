@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, stochastic emergence timing, and prefrontal re-engagement — rich material for the interface model not yet integrated into the coalesced anaesthesia article. The superseded expand-topic task (line 454) noted this research needed integration via refine-draft.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-04
-
 ### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1917,6 +1910,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, stochastic emergence timing, and prefrontal re-engagement — rich material for the interface model not yet integrated into the coalesced anaesthesia article. The superseded expand-topic task (line 454) noted this research needed integration via refine-draft.
+- **Output**: obsidian/topics/anaesthesia-and-the-consciousness-interface.md
+
+Task context:
+Research in research/anaesthetic-recovery-neuroscience-2026-03-26.md covers neural inertia, hysteresis loops, stochastic emergence timing, and prefrontal re-engagement — rich material for the interface model not yet integrated into the coalesced anaesthesia article. The superseded expand-topic task (line 454) noted this research needed integration via refine-draft.
 
 ### ✓ 2026-04-04: Cross-review epistemological-limits-of-parsimony.md against related concept pages
 - **Type**: cross-review

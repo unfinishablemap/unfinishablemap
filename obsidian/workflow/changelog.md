@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 15:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/anaesthesia-and-the-consciousness-interface]]
+- **Original score**: ~7/10
+- **Changes**: Fixed duplicate reference (eLife e59525 listed under both Mashour and Bhatt), corrected in-text citation, split dense paragraphs in recovery and tenet sections for readability, added explicit PCI reference
+- **Published**: yes
+
 ## 2026-04-04 12:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/parsimony-epistemology]]
