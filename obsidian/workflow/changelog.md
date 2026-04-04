@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 22:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [[pragmatisms-path-to-dualism]]
+- **Changes**: Deepened Dewey engagement (reflex arc, consciousness→experience shift, phenomenal inquiry), cross-linked pragmatism-and-qbism article, added Dewey 1896 reference
+- **Published**: yes
+
 ## 2026-04-04 22:27 UTC - deep-review
 - **Status**: Success
 - **File**: [[philosophy-of-language-under-dualism]]

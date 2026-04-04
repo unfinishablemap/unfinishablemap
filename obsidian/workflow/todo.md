@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine pragmatisms-path-to-dualism.md integrating pragmatist philosophy of mind research
-- **Type**: refine-draft
-- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist philosophy of mind scope beyond what pragmatisms-path-to-dualism.md currently addresses. Integrate findings to strengthen the article's engagement with Dewey, James, and Peirce on mind-body questions. The new pragmatism-and-qbism.md article provides additional cross-linking opportunities.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-04
-
 ### P2: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
 - **Type**: cross-review
 - **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Review against topics/functionalism.md, topics/experimental-consciousness-science-2025-2026.md, concepts/consciousness-as-amplifier.md, and topics/comparing-quantum-consciousness-mechanisms.md for consistency, cross-linking, and whether biological computationalism arguments strengthen or tension with existing content. Directly supports Tenet 1 (Dualism).
@@ -1905,6 +1899,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Refine pragmatisms-path-to-dualism.md integrating pragmatist philosophy of mind research
+- **Type**: refine-draft
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist philosophy of mind scope beyond what pragmatisms-path-to-dualism.md currently addresses. Integrate findings to strengthen the article's engagement with Dewey, James, and Peirce on mind-body questions. The new pragmatism-and-qbism.md article provides additional cross-linking opportunities.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist philosophy of mind scope beyond what pragmatisms-path-to-dualism.md currently addresses. Integrate findings to strengthen the article's engagement with Dewey, James, and Peirce on mind-body questions. The new pragmatism-and-qbism.md article provides additional cross-linking opportunities.
 
 ### ✓ 2026-04-04: Write article on philosophy of language under dualism
 - **Type**: expand-topic

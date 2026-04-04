@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-04-02T17:38:00+00:00
+ai_modified: 2026-04-04T22:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[consciousness-defeats-explanation]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[enactivism-challenge-to-interactionist-dualism]]"
+  - "[[pragmatism-and-qbism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -61,7 +62,7 @@ Peirce's resolution was direct: real indeterminism in nature opens space for men
 
 Peirce went further. His *synechism* — the doctrine of continuity — held that mind and matter are not sharply divided but exist on a continuum, with the universe "suffused with mind" associated with spontaneity and freedom. While synechism differs from the Map's dualism — Peirce posited a continuum rather than distinct properties — it shares the essential commitment: consciousness is causally efficacious, and strict physicalism cannot accommodate it. Peirce reached this conclusion not through introspective arguments about qualia but through pragmatism's own logic applied to the conditions under which inquiry and reasoning are possible.
 
-The pragmatist lineage from Peirce's tychism extends into contemporary physics. QBism — the quantum Bayesian interpretation developed by Christopher Fuchs — explicitly locates itself in classical American pragmatism, treating quantum mechanics as a tool for agents navigating experience rather than a description of observer-independent reality. QBism centres the conscious agent in physics itself: quantum states are not features of the world but degrees of belief held by someone. While QBism's anti-realism about quantum states creates tension with the Map's collapse realism, its insistence that physics cannot be formulated without reference to conscious agents reinforces the pragmatist case that consciousness is ineliminable from any complete account of reality.
+The pragmatist lineage from Peirce's tychism extends into contemporary physics. QBism — the quantum Bayesian interpretation developed by Christopher Fuchs — explicitly locates itself in classical American pragmatism, treating quantum mechanics as a tool for agents navigating experience rather than a description of observer-independent reality. QBism centres the conscious agent in physics itself: quantum states are not features of the world but degrees of belief held by someone. While QBism's anti-realism about quantum states creates tension with the Map's collapse realism, its insistence that physics cannot be formulated without reference to conscious agents reinforces the pragmatist case that consciousness is ineliminable from any complete account of reality. The Map's article on [[pragmatism-and-qbism|pragmatism and QBism]] develops this connection in detail, arguing that QBism's refusal to theorise about what its agents *are* is precisely where dualism enters quantum foundations.
 
 ## Van Fraassen and the Pragmatics of Explanation
 
@@ -97,9 +98,11 @@ This is convergent with the Map's position. If reference and meaning require con
 
 Most pragmatists have resisted the path to dualism. The reasons are instructive.
 
-**Dissolution rather than solution.** The most influential pragmatist response, from Dewey through Rorty, holds that the mind-body problem is an artifact of Cartesian framing rather than a genuine metaphysical puzzle. Dewey's *Experience and Nature* (1925) treats mind as "part and parcel of nature" — not a spectator observing the world but an organism actively transacting with its environment. Rorty's *Philosophy and the Mirror of Nature* (1979) goes further, arguing that the very idea of mind representing reality should be abandoned. Dissolve the framing and the problem evaporates.
+**Dissolution rather than solution.** The most influential pragmatist response, from Dewey through Rorty, holds that the mind-body problem is an artifact of Cartesian framing rather than a genuine metaphysical puzzle. Dewey's approach was systematic. In "The Reflex Arc Concept in Psychology" (1896), he rejected the stimulus-response model that treated organism and environment as separate systems, arguing instead for a continuous circuit of coordinated activity. *Experience and Nature* (1925) extended this into a full metaphysics: mind is "part and parcel of nature" — not a spectator observing the world but an organism actively transacting with its environment. Dewey deliberately replaced the vocabulary of "consciousness" with "experience," treating the former as a Cartesian holdover that smuggled in the very dualism he sought to overcome. Rorty's *Philosophy and the Mirror of Nature* (1979) goes further, arguing that the very idea of mind representing reality should be abandoned. Dissolve the framing and the problem evaporates.
 
-But dissolution is not refutation. The hard problem survives this treatment because it does not depend on Cartesian assumptions. Even within Dewey's organism-environment framework, the question remains: why is there something it is like to be this organism rather than nothing? Rorty's anti-representationalism fares no better: his rejection of one-to-one identity between brain states and mental states actually undermines reductive physicalism — precisely the Map's target. Pragmatism's own insistence on taking experiential consequences seriously should make pragmatists wary of strategies that dissolve experience away.
+But dissolution is not refutation — and Dewey's own positive contributions reveal why. The hard problem survives this treatment because it does not depend on Cartesian assumptions. Even within Dewey's organism-environment framework, the question remains: why is there something it is like to be this organism rather than nothing? Dewey's emphasis on the *active organism* — one that selects, discriminates, and reconstructs its environment through inquiry — presupposes capacities that cry out for explanation. His model of inquiry begins with a "felt difficulty," proceeds through deliberation, and concludes with the "consummatory experience" of resolution. Every stage involves phenomenal character: the felt quality of confusion, the experienced tension of alternatives, the satisfaction of resolution. Dewey's replacement of "consciousness" with "experience" did not eliminate the phenomenal — it renamed it. The Map argues that Dewey's framework, taken on its own terms, requires exactly the irreducible experiential dimension that his anti-dualism officially denies.
+
+Rorty's anti-representationalism fares no better: his rejection of one-to-one identity between brain states and mental states actually undermines reductive physicalism — precisely the Map's target. Pragmatism's own insistence on taking experiential consequences seriously should make pragmatists wary of strategies that dissolve experience away.
 
 **Methodological naturalism.** Many pragmatists assume that philosophy should operate within the framework of natural science. But this assumption is not itself pragmatic — it is a prior commitment that pragmatism's own method should evaluate rather than presuppose. James saw this clearly: treating naturalism as a default rather than a hypothesis to be tested by its consequences is a failure of pragmatic nerve.
 
@@ -132,6 +135,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [[epistemic-advantages-of-dualism]] — Why maintaining dualism is epistemically responsible
 - [[cognitive-phenomenology]] — The irreducible phenomenal character of thought and evaluation
 - [[enactivism-challenge-to-interactionist-dualism]] — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
+- [[pragmatism-and-qbism]] — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations
 
 ## References
 
@@ -139,6 +143,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. Peirce, C. S. (1892). The Law of Mind. *The Monist*, 2(4), 533-559.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. James, W. (1896). The Will to Believe. *The New World*, 5(18), 327-347.
+1. Dewey, J. (1896). The Reflex Arc Concept in Psychology. *Psychological Review*, 3(4), 357-370.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. James, W. (1904). Does Consciousness Exist? *Journal of Philosophy, Psychology, and Scientific Methods*, 1(18), 477-491.
 1. Dewey, J. (1925). *Experience and Nature*. Open Court.
@@ -154,15 +159,14 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/
 
-<!-- AI REFINEMENT LOG - 2026-04-02 (pass 5)
+<!-- AI REFINEMENT LOG - 2026-04-04 (pass 6)
 Changes made:
-- Added James's panpsychist sympathies and mind-dust objection to James section, connecting to combination-problem concept
-- Sharpened Putnam section with "meanings ain't in the head" semantic externalism
-- Deepened enactivist inheritance with explicit Dewey → Merleau-Ponty → Varela/Thompson/Rosch lineage
-- Added combination-problem to concepts frontmatter
-- Added James (1890) Principles of Psychology reference
+- Deepened Dewey engagement: added reflex arc critique (1896), his strategic replacement of "consciousness" with "experience," and analysis of why his inquiry model (felt difficulty → deliberation → consummatory experience) presupposes irreducible phenomenal character
+- Added cross-link to new pragmatism-and-qbism article in Peirce/QBism paragraph and Further Reading
+- Added pragmatism-and-qbism to related_articles frontmatter
+- Added Dewey (1896) reflex arc reference
 
-Completes research integration from pragmatist-philosophy-of-mind-2026-03-28.md.
+Integrates task context: research/pragmatist-philosophy-of-mind-2026-03-28.md Dewey material + cross-linking with new pragmatism-and-qbism.md.
 
 This log should be removed after human review.
 -->
