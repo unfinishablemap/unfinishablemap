@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link (near-orphan). Created 2026-03-18 via expand-topic, refined 2026-03-29 but minimally integrated. Add cross-references from capability-division-problem, embodied-consciousness-and-the-interface, consciousness-as-amplifier, and the dual-domain capability cluster. Update relevant section index if needed.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-04
-
 ### P2: Research biological computationalism and its inadvertent case for dualism
 - **Type**: research-topic
 - **Status**: pending
@@ -1910,6 +1903,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (near-orphan). Created 2026-03-18 via expand-topic, refined 2026-03-29 but minimally integrated. Add cross-references from capability-division-problem, embodied-consciousness-and-the-interface, consciousness-as-amplifier, and the dual-domain capability cluster. Update relevant section index if needed.
+- **Output**: obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-04: Deep review phenomenology-of-recursive-self-awareness.md
 - **Type**: deep-review

@@ -101,6 +101,7 @@ One speculative possibility: the mind-side contribution in vision may not be an 
 - [[binding-void]] — Why perceptual binding tracks with conscious awareness
 - [[conscious-vs-unconscious-processing]] — The three functions consciousness enables that vision exemplifies
 - [[neurological-dissociations-as-interface-architecture]] — How vision dissociations map the interface's functional anatomy
+- [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — The same capability division pattern in proprioception and spatial imagination
 - [[lucid-dreaming-and-dualist-rendering]] — Dreams demonstrate the converse of blindsight: phenomenal experience without visual input, with the same dorsal/ventral division shaping dream imagery
 - [[interactionist-dualism]]
 - [[epiphenomenalism]]
