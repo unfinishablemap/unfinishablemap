@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with primary sources. bandwidth-of-consciousness.md references 10-bit constraints but the research provides deeper grounding (Nørretranders, Zimmermann, Dijksterhuis) that should strengthen the article's empirical claims.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-04
-
 ### P2: Cross-review neurological-dissociations-as-interface-architecture.md considering attention-disorders-and-consciousness
 - **Type**: cross-review
 - **Status**: pending
@@ -1910,6 +1903,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Integrate bandwidth constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with primary sources. bandwidth-of-consciousness.md references 10-bit constraints but the research provides deeper grounding (Nørretranders, Zimmermann, Dijksterhuis) that should strengthen the article's empirical claims.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research in research/bandwidth-constraints-10-bits-2026-03-29.md grounds the ~10 bits/second conscious processing figure with primary sources. bandwidth-of-consciousness.md references 10-bit constraints but the research provides deeper grounding (Nørretranders, Zimmermann, Dijksterhuis) that should strengthen the article's empirical claims.
 
 ### ✓ 2026-04-04: Integrate anaesthetic recovery neuroscience research into anaesthesia-and-the-consciousness-interface.md
 - **Type**: refine-draft

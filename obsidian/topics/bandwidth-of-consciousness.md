@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-04-04T03:41:00+00:00
+ai_modified: 2026-04-04T16:18:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel, not a production line."
 topics:
@@ -67,7 +67,7 @@ Zheng and Meister's 2025 *Neuron* perspective article "The Unbearable Slowness o
 | Rubik's cube (speed solving, sighted) | ~12 bits/second | move information / solve time |
 | Speed cards (memory sport) | ~18 bits/second | 52 cards × log₂(52!) bits / inspection time |
 
-All figures use Shannon information theory: entropy of the decision space divided by time, not subjective difficulty or introspective report. The methodology is straightforward—define the decision space, calculate its entropy, divide by elapsed time—and applies identically across all domains, which is why the convergence on ~10 bits/s is so striking. Reading (~45 bits/s) and speech production (~39 bits/s; Coupé et al. 2019) appear higher because they measure the *information content of the output signal*, not the rate of novel conscious decisions—much of reading and speech is automated. Coupé et al. found that all 17 languages studied converge on ~39 bits/second of speech information, a cognitive constraint independent of grammar.
+All figures use Shannon information theory: entropy of the decision space divided by time, not subjective difficulty or introspective report. The methodology is straightforward—define the decision space, calculate its entropy, divide by elapsed time—and applies identically across all domains, which is why the convergence on ~10 bits/s is so striking. A telling confirmation: expert typists achieve ~10 bits/s on English text, but their throughput drops precipitously when typing random characters. Same motor skill, different information content—the measure tracks *decisions*, not keystrokes. Reading (~45 bits/s) and speech production (~39 bits/s; Coupé et al. 2019) appear higher because they measure the *information content of the output signal*, not the rate of novel conscious decisions—much of reading and speech is automated. Coupé et al. found that all 17 languages studied converge on ~39 bits/second of speech information, a cognitive constraint independent of grammar.
 
 The ceiling holds regardless of training, talent, or task type. Hick (1952) measured "the rate of gain of information" at ~5 bits per second—constant across task durations and number of alternatives. Hyman (1953) confirmed the logarithmic relationship with an average slope of ~150 ms per bit, together establishing the Hick-Hyman Law. Miller (1956) identified complementary capacity limits: ~2.5 bits per dimension in absolute judgement (distinguishing about 6 levels, not hundreds) and ~7 chunks in immediate memory. Chunking works *around* channel capacity without removing it. Pierce and Karlin (1957) extended the information-theoretic approach to reading performance, treating human reading aloud as a Shannon channel—converging on the same order-of-magnitude ceiling. Over seven decades of measurement, the ceiling has held across tasks, populations, and historical periods—a structural feature, not an experimental artefact.
 
@@ -77,7 +77,7 @@ Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynsk
 
 ## The Inbound Channel
 
-The inbound bandwidth is enormous. Nørretranders (1998), drawing on Zimmermann's (1986) neurophysiology, estimated sensory information content at roughly 12 million bits per second (10 million from vision alone). Raw neural transmission is far larger—aggregate sensory bandwidth reaches 10⁹ bits per second. Nørretranders estimated conscious throughput at ~16–20 bits per second; subsequent measurement refined this toward ~10, but the order-of-magnitude picture holds.
+The inbound bandwidth is enormous. Zimmermann (1986) quantified sensory information content by modality: vision alone delivers roughly 10 million bits per second, touch approximately 1 million, with auditory, olfactory, and gustatory channels contributing substantially less. Nørretranders (1998) synthesised these neurophysiological estimates into a headline figure of roughly 12 million bits per second reaching conscious processing—before accounting for aggregate neural transmission, which reaches 10⁹ bits per second. Nørretranders estimated conscious throughput at ~16–20 bits per second; subsequent measurement refined this toward ~10, but the order-of-magnitude picture holds: sensory input exceeds conscious output by at least six orders of magnitude.
 
 Whether phenomenal experience is richer than cognitive access—as Block (2011) argues against Cohen, Dennett, and Kanwisher (2016)—the Map need not resolve. Whether inbound bandwidth measures in millions or billions of bits, it vastly exceeds outbound bandwidth. The gap is structural.
 
@@ -93,7 +93,7 @@ The inbound side deepens the puzzle: why would a system generating rich experien
 
 The [[filter-theory|filter model]] handles the bandwidth constraint without strain. If the brain constrains consciousness rather than producing it, the bottleneck is the *filter itself*—the narrow channel through which consciousness accesses and influences the physical world. The 10 bits per second measures the channel's capacity, not consciousness's capacity.
 
-Nørretranders (1998) captured this with the "user illusion" metaphor: consciousness is a simplified desktop, not the underlying computation. A desktop's bandwidth (a few clicks per second) is not a defect; it is the appropriate resolution for a selector operating on pre-computed options.
+Nørretranders (1998) captured this with the "user illusion" metaphor: consciousness is a simplified desktop, not the underlying computation. As Nørretranders put it, "Consciousness is a much smaller part of our mental life than we are conscious of"—the vast unconscious processing that Zimmermann quantified is not lost but *filtered*. A desktop's bandwidth (a few clicks per second) is not a defect; it is the appropriate resolution for a selector operating on pre-computed options.
 
 The Sauerbrei and Pruszynski findings sharpen this interpretation. The same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second where consciousness participates. On the filter model, this is expected: the filter constrains consciousness specifically, not neural processing in general.
 
@@ -234,16 +234,15 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 
-<!-- AI REFINEMENT LOG - 2026-04-01
+<!-- AI REFINEMENT LOG - 2026-04-04
 Changes made:
-- Added Rubik's cube (sighted, ~12 bits/s) to measurement table, strengthening convergence evidence
-- Expanded methodology explanation: Shannon information theory applied to observable behavior, not introspection
-- Added Hyman's ~150 ms/bit slope and Miller's ~2.5 bits/dimension absolute judgement figure for empirical specificity
-- Added Pierce & Karlin (1957) Bell Labs reading-as-channel measurement to historical chain and references
-- Added alpha oscillation connection (~10 Hz ≈ ~10 bits/s) as suggestive open question in evolutionary puzzle section
+- Expanded Inbound Channel with Zimmermann's modality-specific sensory breakdown (vision ~10M, touch ~1M, auditory/olfactory/gustatory less)
+- Added random character typing comparison to strengthen Shannon methodology explanation (same motor skill, lower information = lower throughput)
+- Integrated Nørretranders quote in filter theory section grounding the "user illusion" in Zimmermann's quantified unconscious processing
+- Added explicit order-of-magnitude summary closing the inbound section (six orders of magnitude)
 
-Based on research/bandwidth-constraints-10-bits-2026-03-29.md.
-Key improvements: Strengthened empirical grounding with additional measurement data, earlier historical citations, and the intriguing alpha rhythm connection.
+Based on research/bandwidth-constraints-10-bits-2026-03-29.md (second pass — deeper source grounding).
+Key improvements: Strengthened empirical specificity of inbound bandwidth claims and methodology explanation.
 
 This log should be removed after human review.
 -->
