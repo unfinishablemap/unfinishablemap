@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-29T11:12:00+00:00
+ai_modified: 2026-04-04T17:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[concepts/functionalism]]"
   - "[[adaptive-computational-depth]]"
-  - "[[attention-as-interface]]"
+  - "[[interface-friction]]"
   - "[[attention-schema-theory]]"
   - "[[illusionism]]"
   - "[[phenomenal-consciousness]]"
@@ -43,7 +43,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-17T02:30:00+00:00
+last_deep_review: 2026-04-04T17:33:00+00:00
 coalesced_from:
   - "/topics/attention-as-selection-interface/"
   - "/topics/attention-consciousness-dissociation/"
@@ -124,7 +124,7 @@ AST correctly identifies the intimate link between attention and consciousness a
 
 ## Clinical Evidence: What Disorders Reveal
 
-If attention serves as consciousness's interface, attention disorders should reveal what happens when specific components are compromised.
+If attention serves as consciousness's interface, attention disorders should reveal what happens when specific components are compromised. The cases here examine threshold dysregulation, resource depletion, and directed retraining; [[attention-disorders-and-consciousness]] extends the analysis to hemispatial neglect, Balint syndrome, and extinction, revealing the competitive architecture underlying conscious access.
 
 ### ADHD: Threshold Dysregulation
 
@@ -132,7 +132,7 @@ ADHD disrupts *voluntary* attention while leaving *captured* attention intact or
 
 ### Attention Fatigue: Resource Depletion
 
-Sustained attention depletes. The [[mental-effort|phenomenology of effort]] intensifies with fatigue, recovery requires sleep, and motivation can temporarily override fatigue—the resource is rationed, not exhausted. Computers don't fatigue from sustained processing; the biological character of attention fatigue suggests consciousness acts *through* physical mechanisms that require maintenance.
+Sustained attention depletes. The [[mental-effort|phenomenology of effort]] intensifies with fatigue, recovery requires sleep, and motivation can temporarily override fatigue—the resource is rationed, not exhausted. The biological character of this depletion suggests consciousness acts *through* physical mechanisms that require maintenance.
 
 ### OCD: Schwartz's Evidence
 
@@ -160,7 +160,7 @@ The Map doesn't commit to a specific neural mechanism—what matters is that con
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits per second—a universal ceiling (Zheng & Meister, 2024)—while sensory systems deliver ~10⁹ bits per second. This [[asymmetric-bandwidth-consciousness|100-million-fold asymmetry]] defines the interface: wide for reception, narrow for action. Ten bits per second suffices for 3-4 selections per second among small alternative sets—precisely the competition-selection architecture.
+Conscious processing operates at roughly 10 bits per second—a universal ceiling (Zheng & Meister, 2024)—while sensory systems deliver ~10⁹ bits per second. This [[asymmetric-bandwidth-consciousness|100-million-fold asymmetry]] defines the [[interface-friction|friction]] at the interface: wide for reception, narrow for action. Ten bits per second suffices for 3-4 selections per second among small alternative sets—precisely the competition-selection architecture.
 
 ## Testable Predictions
 
@@ -212,7 +212,7 @@ The Map builds on empirical findings from researchers—Rizzolatti, Cisek, Bengs
 - [[topics/free-will]] — How timing constraints relate to libertarian free will
 - [[attention-schema-theory]] — Graziano's theory introduced
 - [[attention-as-causal-bridge]] — Apex synthesis: attention as the bridge between consciousness and matter
-- [[attention-disorders-and-consciousness]] — The epistemological void of attention disorders
+- [[attention-disorders-and-consciousness]] — ADHD, neglect, Balint syndrome, and extinction as windows into interface architecture
 
 ## References
 

@@ -1,19 +1,23 @@
-last_updated: '2026-04-04T17:03:34.515961+00:00'
-session_count: 5383
-cycle_position: 5011
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-04T17:18:34.516592+00:00'
+session_count: 5384
+cycle_position: 5012
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
   optimistic-review: '2026-01-25T00:45:00+00:00'
   check-tenets: '2026-04-02T22:38:01.513140+00:00'
   check-links: '2026-04-03T22:38:01.558309+00:00'
-  deep-review: '2026-04-04T16:03:34.514007+00:00'
+  deep-review: '2026-04-04T17:18:34.516592+00:00'
   tune-system: '2026-03-30T22:38:01.464514+00:00'
   research-voids: '2026-04-03T22:38:01.558309+00:00'
   coalesce: '2026-04-04T16:33:34.515130+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T17:19:15.856805+00:00'
+  agentic-social: '2026-04-04T17:18:34.516592+00:00'
 last_git_push: '2026-04-04T16:18:34.514627+00:00'
 last_tweet_date: '2026-04-04'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/consciousness-as-amplifier.md --)
-  type: deep-review
-  date: '2026-04-03'
-  outcome: success
 - task: deep-review (obsidian/topics/testing-consciousness-collapse.md )
   type: deep-review
   date: '2026-04-03'
@@ -135,10 +135,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-04'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/quantum-measurement-and-subjective-probability/
-    date: '2026-04-04T17:19:15.856743+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - indexical-identity-quantum-measurement
+- task: deep-review
+  type: deep-review
+  date: '2026-04-04'
+  outcome: success

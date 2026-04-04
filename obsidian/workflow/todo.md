@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md (2026-04-03) applies the attention-as-interface framework to disorder cases. The foundational attention-and-the-consciousness-interface.md should reference these clinical elaborations and may benefit from a "Clinical evidence" pointer section.
-- **Source**: chain (from attention-disorders-and-consciousness.md)
-- **Generated**: 2026-04-04
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1889,6 +1882,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md (2026-04-03) applies the attention-as-interface framework to disorder cases. The foundational attention-and-the-consciousness-interface.md should reference these clinical elaborations and may benefit from a "Clinical evidence" pointer section.
+- **Output**: obsidian/topics/attention-and-the-consciousness-interface.md -- Context: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
 
 ### ✓ 2026-04-04: Cross-review phenomenal-presence-void.md considering phenomenal-absence-void
 - **Type**: cross-review
