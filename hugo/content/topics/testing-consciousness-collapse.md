@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-03 11:38:00+00:00
+ai_modified: 2026-04-03 23:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ description: Can experiments distinguish consciousness-driven collapse from deco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-31 23:38:00+00:00
+last_deep_review: 2026-04-03 23:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -216,13 +216,13 @@ The three-tier prediction hierarchy maps directly onto the Map's [tenets](/tenet
 
 The minimality commitment is double-edged: it explains why no differential prediction has yet been confirmed (minimal effects are hardest to detect), but also constrains which positive results the Map can claim — a large, dramatic consciousness-dependent effect would conflict with minimality as much as a null result would conflict with bidirectional interaction.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly. Four pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-threshold test, and the Chalmers-McQueen Q-shape test. The IIT-CSL programme provides the most direct path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Tier 2 tests this directly. Five pathways bear on it: levitated nanoparticle experiments, the MAQRO mission, the Kremnizer-Ranchin Phi-threshold test, the Chalmers-McQueen Q-shape test, and Kleiner and Hoel's (2024) selective coherence disruption — the only proposed test probing the reverse direction (quantum → consciousness). The IIT-CSL programme provides the most direct consciousness-to-physics path because it predicts Φ-correlated collapse rates that no purely physical mechanism would produce.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Load-bearing for this entire analysis — many-worlds dissolves the distinction by denying collapse occurs at all. Every prediction here presupposes collapse is real. Tier 3 shows no-collapse interpretations carry their own costs around indexical identity and probability, but the case against many-worlds rests on the [indexical arguments](/topics/indexical-identity-quantum-measurement/), not parsimony.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Practical untestability is an epistemic cost, not a neutral feature. The absence of Tier 2 evidence *should* lower credence in consciousness-collapse — standard scientific methodology. The Map's response: the convergence strategy provides an alternative evidential pathway, and the difficulty of testing may reflect the same structural feature generating the hard problem. But if Tier 2 predictions prove untestable in principle, the epistemic cost compounds rather than stabilises.
 
-If Tier 1 experiments progressively eliminate all collapse models, the physical framework consciousness-collapse requires would be undermined. The parameter space is narrowing. The Map's position depends on collapse being real, and that claim is empirically at risk.
+If Tier 1 experiments progressively eliminate all collapse models, consciousness-collapse's physical framework would be undermined — the parameter space is narrowing, and the Map's position depends on collapse being real.
 
 ## Further Reading
 

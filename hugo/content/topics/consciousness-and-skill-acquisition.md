@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-02 21:38:00+00:00
+ai_modified: 2026-04-04 00:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -68,6 +68,7 @@ related_articles:
 - '[[mental-imagery-causal-role-of-consciousness]]'
 - '[[pain-asymbolia]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
+- '[[consciousness-and-collective-phenomena]]'
 title: Consciousness and Skill Acquisition
 topics:
 - '[[hard-problem-of-consciousness]]'

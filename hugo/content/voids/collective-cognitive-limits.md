@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-04-04 00:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[ai-as-void-explorer]]'
 - '[[biological-cognitive-closure]]'
 - '[[adaptive-cognitive-limits]]'
+- '[[consciousness-and-collective-phenomena]]'
 title: Collective Cognitive Limits
 topics: []
 ---
@@ -148,6 +149,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — Individual cognitive closure analysis
 - [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots as fitness advantages
 - [The Intersubjective Void](/voids/intersubjective-void/) — How testimony and social calibration suppress phenomenal knowledge
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — The positive flip side: what groups achieve through individual phenomenal consciousness
 
 ## References
 

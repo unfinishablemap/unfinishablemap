@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-29 23:45:00+00:00
+ai_modified: 2026-04-04 00:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,6 +45,7 @@ related_articles:
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[consciousness-and-moral-agency-under-duress]]'
 - '[[phenomenal-normativity-environmental-ethics]]'
+- '[[consciousness-and-collective-phenomena]]'
 title: Consciousness and Normative Force
 topics:
 - '[[phenomenology-of-moral-life]]'
@@ -182,6 +183,7 @@ The consciousness-based account would face pressure if:
 - [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) — Moral agency when normative demands are extreme
 - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — Extending phenomenal normativity to environmental obligations
 - [phenomenal-depth](/concepts/phenomenal-depth/) — Layers of phenomenal experience accessible through attention
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How collective intentionality generates normative obligations requiring phenomenal consciousness
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: normativity as one of four pillars in a unified moral framework
 
 ## References

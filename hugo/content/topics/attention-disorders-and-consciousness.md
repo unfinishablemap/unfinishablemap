@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-04-03 19:39:00+00:00
+ai_modified: 2026-04-04 01:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,17 +10,16 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[altered-states-of-consciousness]]'
 - '[[mental-effort]]'
-- '[[dopamine-and-the-unified-interface]]'
 - '[[interface-friction]]'
 created: 2026-04-03
-date: &id001 2026-04-03
+date: &id001 2026-04-04
 description: ADHD, hemispatial neglect, Balint syndrome, and extinction each disrupt
   a different component of the attention interface—collectively revealing an architecture
   that materialist identification of consciousness with attention cannot accommodate.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-04 01:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,17 +34,18 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[phenomenological-psychiatry-and-altered-experience]]'
 - '[[clinical-dissociation-as-systematic-evidence]]'
+- '[[dopamine-and-the-unified-interface]]'
 ---
 
-Attention disorders are natural experiments in consciousness. Each disorder disrupts a specific component of the attentional system while leaving others intact, and the resulting pattern of phenomenological change reveals an architecture that no single intact mind could disclose. The Unfinishable Map argues that attention is the [interface](/concepts/attention-as-interface/) through which consciousness engages with the brain—not consciousness itself. If this is correct, attention disorders should produce characteristic signatures: impaired *engagement* with specific content domains while consciousness persists behind the degraded channel. The clinical evidence across ADHD, hemispatial neglect, Balint syndrome, and extinction largely confirms this prediction, while exposing a deep epistemological challenge that neither materialist nor dualist frameworks fully resolve.
+Attention disorders are natural experiments in consciousness. Each disorder disrupts a specific component of the attentional system while leaving others intact, and the resulting pattern of phenomenological change reveals an architecture that no single intact mind could disclose. The Unfinishable Map argues that attention is the [interface](/concepts/attention-as-interface/) through which consciousness engages with the brain—not consciousness itself. If this is correct, attention disorders should produce characteristic signatures: impaired *engagement* with specific content domains while consciousness persists behind the degraded channel. The clinical evidence across ADHD, hemispatial neglect, Balint syndrome, and extinction fits this prediction better than competing accounts, while exposing a deep epistemological challenge that neither materialist nor dualist frameworks fully resolve.
 
 ## ADHD: Threshold Without Capacity Loss
 
 Attention-deficit/hyperactivity disorder disrupts voluntary sustained attention while leaving—and sometimes enhancing—captured attention. People with ADHD can become absorbed in intrinsically motivating tasks with an intensity that exceeds neurotypical engagement, even as they struggle to sustain focus on tasks that lack immediate reward. Volkow et al. (2009) demonstrated reduced dopamine receptor availability in the reward pathway, and stimulant treatments restore function by modulating decision thresholds rather than generating attentional capacity from nothing.
 
-The philosophical significance lies in what ADHD *preserves*. Subjective experience remains vivid. Consciousness is present; what fails is the reliable translation of intention into sustained attentional deployment. Stimulant-treated patients do not report altered consciousness—they report that their intentions translate more reliably into action. This dissociation between conscious intention and attentional execution is precisely what an interface model predicts and what an identity model (consciousness *is* attention) cannot accommodate. If consciousness were identical to attention, ADHD should diminish consciousness itself, not merely frustrate its expression.
+The philosophical significance lies in what ADHD *preserves*. Subjective experience remains vivid. Consciousness is present; what fails is the reliable translation of intention into sustained attentional deployment. Stimulant-treated patients characteristically report not altered consciousness but that their intentions translate more reliably into action (Barkley, 2015). This dissociation between conscious intention and attentional execution is precisely what an interface model predicts and what an identity model (consciousness *is* attention) cannot accommodate. If consciousness were identical to attention, ADHD should diminish consciousness itself, not merely frustrate its expression.
 
-Cai et al.'s 2024 *Nature* study on dopamine-deficient mice sharpens the point: animals that retained full motor capacity but lost goal-directed initiative could still move when externally prompted. The architecture appears to have three layers—neural computation generates options, dopamine marks salience and modulates the selection threshold, and consciousness determines which salient option crosses threshold. ADHD disrupts the middle layer, leaving the outer two largely intact.
+Cai et al.'s 2024 *Nature* study on dopamine-deficient mice sharpens the point: dopamine-depleted animals retained full motor capacity but lost goal-directed initiative, moving only when externally prompted. On the Map's reading, this suggests a three-layer architecture—neural computation generates options, [dopamine](/topics/dopamine-and-the-unified-interface/) marks salience and modulates the selection threshold, and consciousness determines which salient option crosses threshold. ADHD disrupts the middle layer, leaving the outer two largely intact.
 
 ## Hemispatial Neglect: Erasure Without Remainder
 
@@ -82,13 +82,13 @@ Across the four disorders, a pattern emerges:
 
 Each disorder removes a different piece of the attentional architecture. In every case, consciousness continues—but its scope, structure, or reliability changes in ways that track the specific component damaged. And in every case, implicit processing of the "lost" content persists, creating a gap between what the brain processes and what consciousness accesses.
 
-This gap is the interface. If consciousness were neural processing, there should be no systematic divergence between processing and awareness. If consciousness were entirely independent of the brain, disorders should not alter phenomenology at all. The observed pattern—selective, specific, architecturally structured disruptions of conscious access while processing continues—fits an interface model where consciousness depends on but is not identical to the neural mechanisms through which it operates.
+This gap is the interface—one instance of the broader pattern where [clinical dissociations serve as systematic evidence](/topics/clinical-dissociation-as-systematic-evidence/) for non-identity between consciousness and neural processing. If consciousness were neural processing, there should be no systematic divergence between processing and awareness. If consciousness were entirely independent of the brain, disorders should not alter phenomenology at all. The observed pattern—selective, specific, architecturally structured disruptions of conscious access while processing continues—fits an interface model where consciousness depends on but is not identical to the neural mechanisms through which it operates.
 
 ## The Epistemological Challenge
 
 A central difficulty confronts any philosophical interpretation of attention disorders: the instrument of investigation is the system under investigation. When someone with ADHD reports on their attentional experience, the report is generated by the disordered system. When a patient with neglect fails to notice the left side of a drawing, their introspective report about the absence is itself produced by a system missing half its spatial representation.
 
-This creates what the Map calls an [occluded void](/voids/attention-and-consciousness/)—a limit on knowledge that is hidden by the very mechanism that produces the limit. We cannot determine, from inside an attention disorder, whether consciousness is the same consciousness operating through a degraded interface, or a different form of consciousness that the degraded interface prevents us from recognising as different.
+This creates what the Map calls an [occluded void](/voids/three-kinds-of-void/)—a limit on knowledge that is hidden by the very mechanism that produces the limit (explored further in [Attention and the Voids of Consciousness](/voids/attention-and-consciousness/)). We cannot determine, from inside an attention disorder, whether consciousness is the same consciousness operating through a degraded interface, or a different form of consciousness that the degraded interface prevents us from recognising as different.
 
 The developmental dimension deepens this. A person with lifelong ADHD has no neurotypical baseline for comparison. Their reports about attention are calibrated against a standard they have never experienced—analogous to a person with congenital colour blindness reporting on colour. The absence of a reference point does not invalidate the reports but limits what they can reveal about the underlying consciousness.
 

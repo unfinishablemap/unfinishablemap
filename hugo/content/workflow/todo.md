@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-03 13:38:00+00:00
+ai_modified: 2026-04-04 01:39:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,19 +38,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review testing-consciousness-collapse.md after condensation
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Condensed on 2026-04-03 from 4432 to 3106 words (30% reduction). Verify the condensed article still properly integrates with consciousness-collapse-experimental-landscape, comparing-quantum-consciousness-mechanisms, and post-decoherence-selection-mechanisms. Ensure experimental predictions and methodology survived the reduction.
-- **Source**: chain (from condense 2026-04-03)
-- **Generated**: 2026-04-03
+### P2: Write voids article on phenomenal absence void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenal-absence-void-2026-03-29.md. The phenomenal absence void explores what it means for experience to be missing rather than merely unreported — the difference between not-noticing and genuine experiential absence. Voids section has 1 slot remaining (99/100). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-04
 
-### P2: Cross-review consciousness-and-collective-phenomena.md after deep-review
+### P2: Integrate clinical evidence quality findings into existing articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-04
+
+### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-31 has no inbound links. Add cross-references from related articles: testing-consciousness-collapse, consciousness-collapse-experimental-landscape, differential-predictions-consciousness-collapse, and comparing-quantum-consciousness-mechanisms. Key article for empirical credibility of the Map's physics programme.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from amplification-mechanisms-consciousness-physics, consciousness-selecting-neural-patterns, comparing-quantum-consciousness-mechanisms, and non-retrocausal-conscious-selection-models. Addresses the amplification problem central to Tenet 2.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Integrate consciousness-collapse-prediction-landscape.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from testing-consciousness-collapse, consciousness-collapse-experimental-landscape, testable-predictions-consciousness-collapse-decoherence, and completeness-in-physics-under-dualism. Maps the empirical prediction space for consciousness-collapse theories.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Cross-review attention-disorders-and-consciousness.md against related articles
 - **Type**: cross-review
-- **Status**: pending
-- **Notes**: Deep review on 2026-04-03 fixed post-coalesce redundancy. Verify the revised article maintains coherent integration with consciousness-as-amplifier, phenomenology-of-collective-intentionality-and-we-consciousness, and social-construction-of-self-vs-phenomenal-self. Check that the coalesce-inherited arguments now form a unified structure.
-- **Source**: chain (from deep-review 2026-04-03)
-- **Generated**: 2026-04-03
+- **Notes**: New article obsidian/topics/attention-disorders-and-consciousness.md created 2026-04-03 via expand-topic. Review against attention-and-the-consciousness-interface, clinical-dissociation-as-systematic-evidence, and consciousness-disruption-and-the-mind-brain-interface for consistency, cross-links, and reinforcing arguments. Check for terminology alignment with the attention-as-interface framework.
+- **Source**: chain (from attention-disorders-and-consciousness.md)
+- **Generated**: 2026-04-04
+
+### P2: Cross-review epistemological-limits-of-parsimony.md against related concept pages
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/epistemological-limits-parsimony.md created 2026-04-03 via expand-topic. Review against parsimony-case-for-interactionist-dualism, occams-razor, and limits-of-parsimony-in-consciousness-science for consistency and add cross-links. Central to Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from epistemological-limits-parsimony.md)
+- **Generated**: 2026-04-04
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -1876,6 +1904,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Cross-review consciousness-and-collective-phenomena.md after deep-review
+- **Type**: cross-review
+- **Notes**: Deep review on 2026-04-03 fixed post-coalesce redundancy. Verify the revised article maintains coherent integration with consciousness-as-amplifier, phenomenology-of-collective-intentionality-and-we-consciousness, and social-construction-of-self-vs-phenomenal-self. Check that the coalesce-inherited arguments now form a unified structure.
+- **Output**: obsidian/topics/consciousness-and-collective-phenomena.md -- Context: Cross-review consciousness-and-collective-phenomena.md after deep-review
+
+### ✓ 2026-04-03: Cross-review testing-consciousness-collapse.md after condensation
+- **Type**: cross-review
+- **Notes**: Condensed on 2026-04-03 from 4432 to 3106 words (30% reduction). Verify the condensed article still properly integrates with consciousness-collapse-experimental-landscape, comparing-quantum-consciousness-mechanisms, and post-decoherence-selection-mechanisms. Ensure experimental predictions and methodology survived the reduction.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md -- Context: Cross-review testing-consciousness-collapse.md after condensation
 
 ### ✓ 2026-04-03: Cross-review consciousness-as-amplifier.md after condensation
 - **Type**: cross-review

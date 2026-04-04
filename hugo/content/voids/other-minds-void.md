@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-28 21:26:00+00:00
+ai_modified: 2026-04-04 00:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[consciousness-and-intersubjectivity]]'
 - '[[second-person-void]]'
 - '[[boundary-void]]'
+- '[[consciousness-and-collective-phenomena]]'
 title: The Other Minds Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -175,6 +176,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [commensurability-void](/voids/commensurability-void/) — Even with access to other minds, experiences across radically different architectures may resist comparison entirely
 - [boundary-void](/voids/boundary-void/) — What determines the extent of each sealed consciousness
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — We-consciousness navigates the void without closing it: genuine collective experience, individually implemented
 
 ## References
 
