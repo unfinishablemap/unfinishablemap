@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research consciousness and language under dualism
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map has extensive epistemological content but no systematic account of language under dualist assumptions. Research: (1) if consciousness is non-physical, can linguistic meaning be exhausted by syntactic/functional properties? (2) Searle's Chinese Room under genuine dualism (not biological naturalism), (3) Grice's meaning-intention under non-physical intentionality, (4) Chomsky's poverty of stimulus — does language acquisition require conscious understanding? (5) Davidson's anomalous monism as competitor. Supports Tenets 1 and 3. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-04
-
 ### P2: Research QBism and pragmatist quantum foundations
 - **Type**: research-topic
 - **Status**: pending
@@ -1896,6 +1889,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Research consciousness and language under dualism
+- **Type**: research-topic
+- **Notes**: The Map has extensive epistemological content but no systematic account of language under dualist assumptions. Research: (1) if consciousness is non-physical, can linguistic meaning be exhausted by syntactic/functional properties? (2) Searle's Chinese Room under genuine dualism (not biological naturalism), (3) Grice's meaning-intention under non-physical intentionality, (4) Chomsky's poverty of stimulus — does language acquisition require conscious understanding? (5) Davidson's anomalous monism as competitor. Supports Tenets 1 and 3. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Output**: consciousness and language under dualism
 
 ### ✓ 2026-04-04: Research biological computationalism and its inadvertent case for dualism
 - **Type**: research-topic
