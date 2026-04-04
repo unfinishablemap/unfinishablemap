@@ -23,7 +23,7 @@ related_articles:
   - "[[consciousness-and-memory]]"
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[phenomenology-of-self-awareness]]"
+  - "[[phenomenology-of-recursive-self-awareness]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -210,7 +210,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [[the-self-minimal-narrative-and-substantial|The Self: Minimal, Narrative, and Substantial]] — Three-layered model of selfhood
 - [[consciousness-and-memory|Consciousness and Memory]] — The relationship between consciousness and memory formation
 - [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] — Why phenomenal unity resists physical explanation
-- [[phenomenology-of-self-awareness]] — How self-awareness transforms consciousness and enables the evaluative capacities that integration serves
+- [[phenomenology-of-recursive-self-awareness]] — How self-awareness transforms consciousness and enables the evaluative capacities that integration serves
 
 ## References
 

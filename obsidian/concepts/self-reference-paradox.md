@@ -26,7 +26,7 @@ related_articles:
   - "[[necessary-opacity]]"
   - "[[apophatic-approaches]]"
   - "[[phenomenal-transparency]]"
-  - "[[phenomenology-of-recursive-thought]]"
+  - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[voids-self-reference-paradox-2026-01-14]]"
 ai_contribution: 100
 author:
@@ -114,7 +114,7 @@ The self-reference paradox directly supports several of the Map's [[tenets]].
 - [[necessary-opacity]]
 - [[apophatic-approaches]]
 - [[phenomenal-transparency]] — Why the self-model must hide its own machinery
-- [[phenomenology-of-recursive-thought]] — What self-referential thought feels like from the inside
+- [[phenomenology-of-recursive-self-awareness]] — What self-referential thought feels like from the inside
 
 ## References
 

@@ -4,7 +4,7 @@ description: "When consciousness curves back on itself, new phenomenal structure
 created: 2026-02-01
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-04-04T16:37:00+00:00
+ai_modified: 2026-04-04T16:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-04T16:48:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-self-awareness/"
   - "/topics/phenomenology-of-recursive-thought/"
@@ -101,7 +101,7 @@ Despite this asymmetry, recursive thought involves a distinctive "doubled awaren
 
 Recursive thoughts are notoriously difficult to hold. Try to maintain steady awareness of your awareness — the stability achieved with external objects proves elusive. The thought keeps slipping, either collapsing back to its object (you find yourself thinking about the tree again, not about thinking about the tree) or proliferating into ever-higher levels that cannot be sustained.
 
-The [[self-opacity|self-reference paradox]] suggests this instability may be structural rather than accidental. Thoughts about thinking are inherently less stable than thoughts about external objects because the object keeps moving — each act of observation changes the observer. This is a form of [[self-stultification]]: the system's capacity for self-knowledge is constrained by the very activity of self-knowing.
+The [[self-opacity]] analysis suggests this instability may be structural rather than accidental. Thoughts about thinking are inherently less stable than thoughts about external objects because the object keeps moving — each act of observation changes the observer. This is a form of [[self-stultification]]: the system's capacity for self-knowledge is constrained by the very activity of self-knowing.
 
 Three related forms of instability accompany the phenomenology of turning inward. *Felt inversion*: think "I am the one thinking this thought" and attend to the moment when the reference completes its circuit — a flicker that ordinary reference does not produce. *Semantic vertigo*: hold in mind "I am conscious of being conscious" and sustain attention — meaning slides between sense and the appearance of sense. *Oscillation*: awareness shifts between *being* the awareness and *noting* the awareness, because subject and object collapse into one.
 

@@ -46,7 +46,7 @@ concepts:
   - "[[motor-control-quantum-zeno]]"
   - "[[retrocausality]]"
   - "[[attention-as-interface]]"
-  - "[[phenomenology-of-recursive-thought]]"
+  - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[agent-causation]]"
   - "[[prehension]]"
   - "[[philosophical-zombies]]"
@@ -119,7 +119,7 @@ This divergence reflects differences in retention depth (how much of the immedia
 
 Temporal thickness does significant work in the Map's treatment of [[authentic-vs-inauthentic-choice|authentic versus inauthentic choice]]. Authentic decisions unfold in durée—the choice emerging from your whole history as creative expression. Inauthentic choice lacks temporal thickness: reactive compression where temporal horizons collapse to near-zero. Randomness at a temporally thin moment is mere noise; indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
 
-[[phenomenology-of-recursive-thought|Recursive thought]] feels temporally thick because each layer of reflection adds temporal depth. [[witness-consciousness|Witness consciousness]] demonstrates that temporal thickness can become an object for awareness, while cessation states (*nirodha samapatti*) suggest it is constitutive of conscious experience. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2024) may set the maximum temporal thickness available at any moment.
+[[phenomenology-of-recursive-self-awareness|Recursive thought]] feels temporally thick because each layer of reflection adds temporal depth. [[witness-consciousness|Witness consciousness]] demonstrates that temporal thickness can become an object for awareness, while cessation states (*nirodha samapatti*) suggest it is constitutive of conscious experience. The ~10 bits/second bandwidth limit on conscious processing (Zheng & Meister, 2024) may set the maximum temporal thickness available at any moment.
 
 ## Protention and Anticipatory Structure
 

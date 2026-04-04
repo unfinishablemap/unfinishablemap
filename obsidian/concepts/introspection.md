@@ -135,7 +135,7 @@ The mathematical case sharpens the illusionist regress: when illusionists grasp 
 
 ## The Unobservable Self: Introspection's Deepest Limit
 
-[[self-opacity|The unobservable self]] reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
+[[self-opacity|The unobservable self]] reveals a structural limit beyond reliability: the observer cannot observe itself observing. Direct attention inward. Observe your observing. What happens? You become aware of awareness—but now two layers exist. Attempt to observe *that* awareness—a third layer forms. The regression has no endpoint. The [[phenomenology-of-recursive-self-awareness|phenomenology of recursive self-awareness]] maps what this layered awareness feels like—the distinctive phenomenal qualities that emerge as consciousness folds back on itself through levels of self-reference.
 
 This differs from the process/content distinction. That distinction says we cannot introspect *why* we think but can introspect *what* we experience. The unobservable self reveals a limit even on content: the content that *is* current observing cannot be observed without transforming into past content.
 

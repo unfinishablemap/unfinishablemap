@@ -21,7 +21,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[computational-cognitive-limits]]"
-  - "[[phenomenology-of-recursive-thought]]"
+  - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[theory-of-mind]]"
 ai_contribution: 100
@@ -71,7 +71,7 @@ What does approaching the recursion limit feel like?
 
 **The stacking sensation.** At early levels—thinking about thinking—the structure feels stable. Mental states nest inside each other like boxes. At higher levels, the sensation shifts. The boxes become harder to hold in place. Each new level adds disproportionate difficulty; going from third-order to fourth-order is harder than going from second to third. The effort curve is superlinear.
 
-**Content dissolution.** Beyond approximately fourth order, the content of the recursion becomes vague. You know you are "thinking about thinking about thinking about..." but what specifically you are thinking about fades. The structure persists; the content empties out. The [[phenomenology-of-recursive-thought|phenomenology of recursive thought]] documents this characteristic: the form of recursion remains while its substance evaporates.
+**Content dissolution.** Beyond approximately fourth order, the content of the recursion becomes vague. You know you are "thinking about thinking about thinking about..." but what specifically you are thinking about fades. The structure persists; the content empties out. The [[phenomenology-of-recursive-self-awareness|phenomenology of recursive thought]] documents this characteristic: the form of recursion remains while its substance evaporates.
 
 **Regress anxiety.** A distinctive unease accompanies deep recursion attempts—the sense of falling backward without a floor. This differs from ordinary confusion. It has a vertiginous quality, as if the ground keeps receding. The [[phenomenology-of-the-edge|phenomenology of the edge]] documents similar experiences at other cognitive limits, but the recursion void has its own character: not a wall encountered but a depth that swallows.
 
@@ -143,7 +143,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[self-opacity|The Self-Reference Paradox]] — Formal limitations on self-understanding
-- [[phenomenology-of-recursive-thought|The Phenomenology of Recursive Thought]] — What the folding of awareness back on itself feels like
+- [[phenomenology-of-recursive-self-awareness|The Phenomenology of Recursive Self-Awareness]] — What the folding of awareness back on itself feels like
 - [[self-opacity|Introspective Opacity]] — Why cognitive processes remain hidden
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind

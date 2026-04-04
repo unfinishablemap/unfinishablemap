@@ -45,7 +45,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[argument-from-reason]]"
-  - "[[phenomenology-of-recursive-thought]]"
+  - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[questioning-as-evidence]]"
@@ -165,7 +165,7 @@ The core mode: grasping what something means, understanding a proof, comprehendi
 
 ### Self-Reflexive Meaning
 
-[[phenomenology-of-recursive-thought|Recursive thought]] — thinking about thinking — generates meaning of a distinctive kind. When consciousness takes itself as object, the thinker becomes both subject and observed, and something qualitatively new emerges. These are the felt significance of self-encounter — not propositional and not aesthetic, but the meaning of being aware, of existing as the kind of thing that can ask what it is.
+[[phenomenology-of-recursive-self-awareness|Recursive thought]] — thinking about thinking — generates meaning of a distinctive kind. When consciousness takes itself as object, the thinker becomes both subject and observed, and something qualitatively new emerges. These are the felt significance of self-encounter — not propositional and not aesthetic, but the meaning of being aware, of existing as the kind of thing that can ask what it is.
 
 ### Evaluative Meaning
 
@@ -270,7 +270,7 @@ None of these findings currently obtains.
 - [[illusionism]] — The eliminativist challenge to phenomenal consciousness
 - [[meaning-of-life]] — Consciousness-grounded meaning and existential significance
 - [[phenomenology-of-musical-understanding]] — Non-propositional meaning in musical experience
-- [[phenomenology-of-recursive-thought]] — Consciousness taking itself as object
+- [[phenomenology-of-recursive-self-awareness]] — Consciousness taking itself as object
 - [[phenomenology-of-anticipation]] — The forward-directed structure of experience
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to conscious experience
 - [[phenomenal-normativity]] — Logical compulsion as one species of normative phenomenal property

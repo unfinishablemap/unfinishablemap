@@ -29,7 +29,7 @@ concepts:
   - "[[concepts/functionalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenology-of-recursive-thought]]"
+  - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[aesthetics-and-consciousness]]"
@@ -112,7 +112,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[cognitive-phenomenology]] — Non-sensory phenomenal character in thought
 - [[consciousness-and-creative-distinctiveness]] — Imagination's role in creative cognition and why human creativity differs from computational generation
 - [[consciousness-and-counterfactual-reasoning]] — Why representing non-actuality requires consciousness
-- [[phenomenology-of-recursive-thought]] — When imagination takes itself as object
+- [[phenomenology-of-recursive-self-awareness]] — When imagination takes itself as object
 - [[phenomenology-of-anticipation]] — Forward-directed imagination and temporal experience
 - [[aesthetics-and-consciousness]] — Imagination in artistic creation
 - [[phenomenology-of-intellectual-life]] — The felt quality of grasping meaning

@@ -24,7 +24,7 @@ related_articles:
   - "[[consciousness-and-the-ownership-problem]]"
   - "[[phenomenal-transparency]]"
   - "[[self-reference-paradox]]"
-  - "[[phenomenology-of-self-awareness]]"
+  - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
   - "[[transition-void]]"
 ai_contribution: 100
@@ -112,7 +112,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[self-and-self-consciousness]] — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [[consciousness-and-the-ownership-problem]] — Why experience belongs to anyone, and what happens when it stops
 - [[phenomenal-transparency]] — When the self-model hides its own construction
-- [[phenomenology-of-self-awareness]] — How self-awareness restructures experience, including pre-reflective for-me-ness
+- [[phenomenology-of-recursive-self-awareness]] — How self-awareness restructures experience, including pre-reflective for-me-ness
 - [[comparative-phenomenology-of-meditative-traditions]] — Cross-tradition approaches to dissolving selfhood
 - [[transition-void]] — Observation-transition incompatibility as a parallel structural limit
 - [[mysterianism]] — McGinn on structural cognitive limits
