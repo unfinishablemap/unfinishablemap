@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense haecceity.md (4079 words, 163% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about haecceity and thisness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-04
+
+### P2: Review consciousness-and-language-interface.md considering new language-under-dualism research
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New research in research/consciousness-and-language-under-dualism-2026-04-04.md covers meaning bridging the mind-matter gap, semantic content under dualism, and private language arguments. The existing consciousness-and-language-interface.md focuses on bidirectional interaction between language and consciousness. Check for cross-links, complementary arguments, and ensure consistent treatment of linguistic meaning under dualism.
+- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
+- **Generated**: 2026-04-04
+
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -213,12 +227,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
 
-### P3: Write article on biological computationalism's inadvertent case for dualism
+### P2: Write article on biological computationalism's inadvertent case for dualism
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/. See optimistic-2026-03-27.md
-- **Source**: optimistic-review
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/.
+- **Source**: chain (from research/biological-computationalism-inadvertent-dualism-2026-04-04.md)
 - **Generated**: 2026-03-27
+- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Write article on phenomenology of anaesthetic recovery
 - **Type**: expand-topic
@@ -400,12 +415,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-03
 
-### P3: Write article on pragmatism and quantum foundations (QBism)
+### P2: Write article on pragmatism and quantum foundations (QBism)
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/. See optimistic-2026-04-03.md
-- **Source**: optimistic-review
+- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/.
+- **Source**: chain (from research/qbism-pragmatist-quantum-foundations-2026-04-04.md)
 - **Generated**: 2026-04-03
+- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Add cross-links between self-stultification, valence-selection, pragmatism, and related articles
 - **Type**: refine-draft
@@ -443,11 +459,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P3: Write article on philosophy of language under dualism
+### P2: Write article on philosophy of language under dualism
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
 - **Generated**: 2026-03-23
+- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Write article on neuroscience of anaesthetic recovery
 - **Type**: expand-topic
