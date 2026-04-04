@@ -5,6 +5,11 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 20:11 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/near-death-experiences.md
+- **Output**: [[reviews/pessimistic-2026-04-04-evening]]
+
 ## 2026-04-04 19:37 UTC - research-topic
 - **Status**: Success
 - **Topic**: QBism and pragmatist quantum foundations

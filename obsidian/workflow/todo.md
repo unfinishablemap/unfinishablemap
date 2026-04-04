@@ -44,6 +44,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-04-04
 
+### P2: Address statistical overreach and filter theory weaknesses in near-death-experiences.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found high-severity issues: (1) AWARE II 39.3% figure based on 11/28 self-selected survivors presented too prominently without adequate selection bias caveat. (2) Filter theory asymmetry problem under-addressed—ad hoc distinction between "constraining mechanism" and "interface channel" failure. (3) Uncited claim that confabulated memories don't produce personality changes. (4) Gamma surges treated as ambiguous in research section but as supporting dualism in tenet section. See pessimistic-2026-04-04-evening.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-04
+
 ### P2: Review consciousness-and-language-interface.md considering new language-under-dualism research
 - **Type**: cross-review
 - **Status**: pending
