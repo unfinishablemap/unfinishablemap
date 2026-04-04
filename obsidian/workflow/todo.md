@@ -1855,24 +1855,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-01
 
-### P3: Write article on consciousness and the generative problem
-- **Type**: expand-topic
+### P3: Research consciousness under extreme metabolic constraint
+- **Type**: research-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The phenomenal absence void, presence void, and reconstruction paradox converge on a unified "generative problem": consciousness fabricates experiential deliverances indistinguishable from direct perception. Distinct from the hard problem (why experience at all) — asks why consciousness's products appear as given rather than constructed. Target section: topics/. See optimistic-2026-04-04.md
+- **Notes**: Suggested by optimistic review. The Map treats interface modulation (sleep, anaesthesia, psychedelics) but lacks systematic comparison of consciousness under metabolic extremes: hypothermia survival, cardiac arrest reports, high-altitude hypoxia, prolonged fasting, extreme exertion. Production model predicts degradation proportional to supply; interface model predicts selective failures and paradoxical enhancement. Terminal lucidity is one data point; systematic treatment needed. Target section: topics/. See optimistic-2026-04-04.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
-### P3: Write article on phenomenal temporality as distinct from physical time
-- **Type**: expand-topic
+### P3: Research invertebrate consciousness as interface test case
+- **Type**: research-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Bergson's durée, Husserl's time-consciousness, and empirical time distortion (boredom, flow, anaesthesia, meditation) demonstrate experienced duration is not a linear mapping of physical duration. If consciousness is irreducible, its temporal properties should be too. Target section: topics/. See optimistic-2026-04-04.md
+- **Notes**: Suggested by optimistic review. Cephalopod consciousness (distributed nervous system, convergent camera eyes, tool use) tests whether the interface model requires vertebrate architecture or accommodates multiple coupling mechanisms. Arthropod evidence (honeybee dance, jumping spider planning) pushes further. Interface model predicts substrate-flexible coupling with substrate-independent consciousness. Target section: topics/. See optimistic-2026-04-04.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
-### P3: Write article on epistemic architecture of self-correction
+### P3: Write article on phenomenal authority and contemplative training
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The Schwartz evidence audit across 17 articles demonstrated principled claim-qualification without abandoning supporting arguments. Formalise this self-correction methodology as distinctive consciousness studies contribution. Target section: topics/. See optimistic-2026-04-04.md
+- **Notes**: Suggested by optimistic review. The phenomenal authority framework (four-layer taxonomy) and contemplative evidence programme intersect but are underexplored. How does sustained practice affect which authority layers become accessible? Cross-traditional convergence on specific claims (attention separable from objects, awareness in objectless states) despite different metaphysics constitutes evidence for genuine phenomenological discovery. Target section: topics/. See optimistic-2026-04-04.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
