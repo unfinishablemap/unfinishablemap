@@ -1865,6 +1865,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-01
 
+### P3: Write article on consciousness and the generative problem
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The phenomenal absence void, presence void, and reconstruction paradox converge on a unified "generative problem": consciousness fabricates experiential deliverances indistinguishable from direct perception. Distinct from the hard problem (why experience at all) — asks why consciousness's products appear as given rather than constructed. Target section: topics/. See optimistic-2026-04-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-04
+
+### P3: Write article on phenomenal temporality as distinct from physical time
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Bergson's durée, Husserl's time-consciousness, and empirical time distortion (boredom, flow, anaesthesia, meditation) demonstrate experienced duration is not a linear mapping of physical duration. If consciousness is irreducible, its temporal properties should be too. Target section: topics/. See optimistic-2026-04-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-04
+
+### P3: Write article on epistemic architecture of self-correction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Schwartz evidence audit across 17 articles demonstrated principled claim-qualification without abandoning supporting arguments. Formalise this self-correction methodology as distinctive consciousness studies contribution. Target section: topics/. See optimistic-2026-04-04.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-04
+
 ## Completed Tasks
 
 
