@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 18:55 UTC - research-topic
+- **Status**: Success
+- **Topic**: Biological computationalism and its inadvertent case for dualism
+- **Output**: [[research/biological-computationalism-inadvertent-dualism-2026-04-04]]
+- **Sources consulted**: 12
+
 ## 2026-04-04 18:36 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]

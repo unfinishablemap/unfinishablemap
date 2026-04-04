@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research biological computationalism and its inadvertent case for dualism
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Milinkovic and Aru (2025) argue consciousness requires specific biological substrates, inadvertently destroying functionalism. Research: (1) the Milinkovic-Aru paper and its reception, (2) how biological substrate-specificity narrows physicalism, (3) historical precedents for substrate arguments (Searle's biological naturalism), (4) whether substrate-dependence entails or merely permits dualism, (5) connection to multiple realizability debate. Directly supports Tenet 1 (Dualism). Feeds into existing P3 expand-topic task. Target section for eventual article: topics/ (7 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-04
-
 ### P2: Research consciousness and language under dualism
 - **Type**: research-topic
 - **Status**: pending
@@ -1903,6 +1896,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Research biological computationalism and its inadvertent case for dualism
+- **Type**: research-topic
+- **Notes**: Milinkovic and Aru (2025) argue consciousness requires specific biological substrates, inadvertently destroying functionalism. Research: (1) the Milinkovic-Aru paper and its reception, (2) how biological substrate-specificity narrows physicalism, (3) historical precedents for substrate arguments (Searle's biological naturalism), (4) whether substrate-dependence entails or merely permits dualism, (5) connection to multiple realizability debate. Directly supports Tenet 1 (Dualism). Feeds into existing P3 expand-topic task. Target section for eventual article: topics/ (7 slots remaining).
+- **Output**: biological computationalism and its inadvertent case for dualism
 
 ### ✓ 2026-04-04: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
 - **Type**: integrate-orphan
