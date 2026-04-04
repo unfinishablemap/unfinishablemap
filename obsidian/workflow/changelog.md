@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 19:37 UTC - research-topic
+- **Status**: Success
+- **Topic**: QBism and pragmatist quantum foundations
+- **Output**: [[research/qbism-pragmatist-quantum-foundations-2026-04-04]]
+- **Sources consulted**: 15
+
 ## 2026-04-04 19:21 UTC - research-topic
 - **Status**: Success
 - **Topic**: Consciousness and language under dualism

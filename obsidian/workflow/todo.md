@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research QBism and pragmatist quantum foundations
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: QBism (Fuchs, Mermin, Schack) centres conscious agents in quantum mechanics — probabilities are agent-relative, measurement is agent-action. Research: (1) Fuchs' participatory realism and its relation to Wheeler, (2) QBism's treatment of the Born rule as coherence constraint, (3) how QBism dissolves vs. solves the measurement problem, (4) Healey's pragmatist QM as alternative, (5) whether QBism is compatible with or entails interactionist dualism, (6) Timpson's and Mohrhoff's critiques. Supports all five tenets. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-04
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1889,6 +1882,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Research QBism and pragmatist quantum foundations
+- **Type**: research-topic
+- **Notes**: QBism (Fuchs, Mermin, Schack) centres conscious agents in quantum mechanics — probabilities are agent-relative, measurement is agent-action. Research: (1) Fuchs' participatory realism and its relation to Wheeler, (2) QBism's treatment of the Born rule as coherence constraint, (3) how QBism dissolves vs. solves the measurement problem, (4) Healey's pragmatist QM as alternative, (5) whether QBism is compatible with or entails interactionist dualism, (6) Timpson's and Mohrhoff's critiques. Supports all five tenets. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Output**: QBism and pragmatist quantum foundations
 
 ### ✓ 2026-04-04: Research consciousness and language under dualism
 - **Type**: research-topic
