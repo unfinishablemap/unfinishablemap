@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review phenomenology-of-recursive-self-awareness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced today from phenomenology-of-self-awareness.md + phenomenology-of-recursive-thought.md. Two source articles merged into one — verify the coalesce preserved key arguments from both, eliminated redundancy, and maintains coherent structure. Check cross-references to self-and-self-consciousness, introspection, higher-order-theories, and recursion-void. Tenet alignment critical (recursive self-awareness bears on Tenet 1 and Tenet 3).
+- **Source**: chain (from coalesce 2026-04-04)
+- **Generated**: 2026-04-04
+
+### P2: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has only 1 inbound link (near-orphan). Created 2026-03-18 via expand-topic, refined 2026-03-29 but minimally integrated. Add cross-references from capability-division-problem, embodied-consciousness-and-the-interface, consciousness-as-amplifier, and the dual-domain capability cluster. Update relevant section index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Research biological computationalism and its inadvertent case for dualism
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Milinkovic and Aru (2025) argue consciousness requires specific biological substrates, inadvertently destroying functionalism. Research: (1) the Milinkovic-Aru paper and its reception, (2) how biological substrate-specificity narrows physicalism, (3) historical precedents for substrate arguments (Searle's biological naturalism), (4) whether substrate-dependence entails or merely permits dualism, (5) connection to multiple realizability debate. Directly supports Tenet 1 (Dualism). Feeds into existing P3 expand-topic task. Target section for eventual article: topics/ (7 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-04
+
+### P2: Research consciousness and language under dualism
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map has extensive epistemological content but no systematic account of language under dualist assumptions. Research: (1) if consciousness is non-physical, can linguistic meaning be exhausted by syntactic/functional properties? (2) Searle's Chinese Room under genuine dualism (not biological naturalism), (3) Grice's meaning-intention under non-physical intentionality, (4) Chomsky's poverty of stimulus — does language acquisition require conscious understanding? (5) Davidson's anomalous monism as competitor. Supports Tenets 1 and 3. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-04
+
+### P2: Research QBism and pragmatist quantum foundations
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: QBism (Fuchs, Mermin, Schack) centres conscious agents in quantum mechanics — probabilities are agent-relative, measurement is agent-action. Research: (1) Fuchs' participatory realism and its relation to Wheeler, (2) QBism's treatment of the Born rule as coherence constraint, (3) how QBism dissolves vs. solves the measurement problem, (4) Healey's pragmatist QM as alternative, (5) whether QBism is compatible with or entails interactionist dualism, (6) Timpson's and Mohrhoff's critiques. Supports all five tenets. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-04
+
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
