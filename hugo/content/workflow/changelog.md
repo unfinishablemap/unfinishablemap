@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
+- **Word count**: 1957 → 1983 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (terminology alignment with Map vocabulary, cross-links to interface-friction, neurological-dissociations-as-interface-architecture, consciousness-disruption-and-the-mind-brain-interface)
+- **Enhancements made**: 4 (cross-links strengthening cluster integration)
+- **Output**: [deep-review-2026-04-04-cross-attention-disorders-and-consciousness](/reviews/deep-review-2026-04-04-cross-attention-disorders-and-consciousness/)
+
+## 2026-04-04 08:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [global-workspace-theory](/concepts/global-workspace-theory/)
+- **Changes**: Fixed Baddeley misattribution — reframed dualist reading of episodic buffer as Map's interpretation, not Baddeley's implication. Full attribution accuracy check passed.
+- **Published**: yes
+
 ## 2026-04-04 07:38 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
