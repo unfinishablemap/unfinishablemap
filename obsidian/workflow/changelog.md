@@ -5,6 +5,15 @@ ai_modified: 2026-04-04T23:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 23:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatism-and-qbism]]
+- **Word count**: 2284 → 2289 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (overclaim about dualism's explanatory scope)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-04-04b-pragmatism-and-qbism]]
+
 ## 2026-04-04 23:33 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/pragmatism-and-qbism]]

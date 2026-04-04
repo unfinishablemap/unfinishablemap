@@ -4,7 +4,7 @@ description: "QBism inherits William James's pragmatism but refuses to explain i
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-04T23:33:00+00:00
+ai_modified: 2026-04-04T23:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-04-04T23:33:00+00:00
+last_deep_review: 2026-04-04T23:48:00+00:00
 ---
 
 [[qbism|QBism]] — the interpretation of quantum mechanics developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack — is the most explicitly agent-centred approach in quantum foundations. It treats quantum states as an agent's personal beliefs about future experiences, the Born rule as a normative coherence constraint, and measurement as belief-updating rather than physical collapse. The Unfinishable Map argues that QBism's philosophical foundations in [[pragmatism|classical American pragmatism]] make it an inadvertent ally of dualism: by inheriting William James's insistence on the irreducibility of experience while refusing to theorise about what agents *are*, QBism places an agent-shaped gap at the centre of physics. That gap — primitive, irreducible, experiential — is precisely what the Map's [[interactionist-dualism]] fills.
@@ -56,7 +56,7 @@ Participatory realism asserts that reality exceeds any third-person description.
 
 But participatory realism generates a question it cannot answer on its own terms: what makes something a participant? QBism's agents are not rocks or thermostats. They hold beliefs, form expectations, are surprised by outcomes, and update their credences in response to experience. These are capacities that presuppose [[phenomenal-consciousness|phenomenal consciousness]] — there must be something it is like to be an agent for the framework to operate. Fuchs acknowledges this openly, treating agents as primitive and irreducible rather than attempting to define them in physical terms.
 
-The Map's response: QBism is right that agents are irreducible, and right that physics cannot define them. But "primitive and irreducible" is not an explanation — it is a placeholder for one. Dualism fills the placeholder by providing what QBism cannot: an account of why some systems are experiencing subjects and others are not. If consciousness is not reducible to physical processes (Tenet 1), the primitive status of QBism's agents is expected rather than puzzling.
+The Map's response: QBism is right that agents are irreducible, and right that physics cannot define them. But "primitive and irreducible" is not an explanation — it is a placeholder for one. The Map's dualism offers what QBism does not: a reason why agents resist physical definition. If consciousness is not reducible to physical processes (Tenet 1), the primitive status of QBism's agents is expected rather than puzzling — they are primitive within physics because they possess something beyond the physical.
 
 ## The Normative Born Rule and Its Discontents
 

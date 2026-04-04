@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review pragmatism-and-qbism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md, never reviewed. Topics article connecting pragmatist epistemology with QBism's agent-centred quantum interpretation under dualism. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-dualism bridge argument, cross-references to concepts/qbism.md and concepts/pragmatism.md, and tenet alignment (especially Tenets 2 and 4).
-- **Source**: chain (from topics/pragmatism-and-qbism.md)
-- **Generated**: 2026-04-04
-
 ### P2: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md, never reviewed. Topics article arguing that biological computationalism's emphasis on substrate-specificity inadvertently supports dualist conclusions. Verify accuracy of Milinkovic-Aru et al. characterisation, coherence of the inadvertent-dualism argument, cross-references to functionalism and consciousness-as-amplifier, and tenet alignment (Tenet 1).
@@ -1893,6 +1887,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Deep review pragmatism-and-qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md, never reviewed. Topics article connecting pragmatist epistemology with QBism's agent-centred quantum interpretation under dualism. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-dualism bridge argument, cross-references to concepts/qbism.md and concepts/pragmatism.md, and tenet alignment (especially Tenets 2 and 4).
+- **Output**: obsidian/topics/pragmatism-and-qbism.md
 
 ### ✓ 2026-04-04: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
 - **Type**: cross-review
