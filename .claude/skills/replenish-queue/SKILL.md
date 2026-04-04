@@ -1,3 +1,8 @@
+---
+name: replenish-queue
+description: Replenish the task queue when active tasks run low. Generates tasks from research chains, gap analysis, staleness, orphans, and length violations.
+---
+
 # Replenish Queue
 
 Automatically generate new tasks when the todo queue is empty or near-empty. Combines gap analysis, research-to-article pipelines, and review generation to maintain a healthy task queue.
@@ -155,7 +160,9 @@ For each task in `recent_tasks` from last 14 days:
 research_file = task.output
 topic = extract_topic(research_file)
 article_exists = check_for_article(topic)
-if not article_exists:
+# Also check if article was archived or coalesced into another article
+article_archived = check_archive_for_article(topic)  # Check archive/ directory
+if not article_exists and not article_archived:
     candidates.append({
         'title': f'Write article on {topic}',
         'type': 'expand-topic',
@@ -190,8 +197,8 @@ for research_file in glob('obsidian/research/*.md'):
     frontmatter = parse_frontmatter(research_file)
     topic = extract_topic_from_title(frontmatter['title'])
 
-    # Check if article exists for this research
-    if not has_corresponding_article(topic):
+    # Check if article exists for this research (including archived/coalesced articles)
+    if not has_corresponding_article(topic) and not check_archive_for_article(topic):
         candidates.append({
             'title': f'Write article on {topic}',
             'type': 'expand-topic',
@@ -336,7 +343,10 @@ for analysis in warnings[:5]:  # Top 5 worst offenders
 
 **Section cap filtering**: Before other filters, count existing `.md` files (excluding index files) in `obsidian/topics/`, `obsidian/concepts/`, and `obsidian/voids/`. Compare against `section_caps` in `evolution-state.yaml`. Remove any `expand-topic` candidate whose target section is at or above its cap. Also remove `research-topic` candidates if the research's `target_section` points to a capped section.
 
+**Archive/coalesce filtering**: For every `expand-topic` candidate, check whether the topic already has an article in `archive/` (meaning it was archived or coalesced into another article). If so, remove the candidate — the topic is already covered. Check both `archive/topics/`, `archive/concepts/`, and `archive/voids/` for matching slugs.
+
 Remove candidates that:
+- Target a topic that already has an article (including in `archive/` — coalesced or archived)
 - Target a section that has reached its cap (see above)
 - Match any task in Vetoed Tasks section
 - Match any task already in Active Tasks

@@ -215,6 +215,17 @@ def has_uncommitted_changes() -> bool:
     return bool(result.stdout.strip())
 
 
+def _git_checkout_unstaged() -> None:
+    """Discard all uncommitted changes (staged and unstaged)."""
+    subprocess.run(
+        ["git", "checkout", "."],
+        capture_output=True,
+        text=True,
+        cwd=REPO_ROOT,
+        check=True,
+    )
+
+
 def commit_as_agent(skill_name: str, task_info: str | None = None) -> str | None:
     """Commit any uncommitted changes with agent authorship.
 
@@ -758,6 +769,7 @@ def run_session(
     p0_p2_count = count_p0_p2_tasks(todo_content, skip_types=cap_skip_types)
     if p0_p2_count < MIN_QUEUE_TASKS:
         log.info(f"Queue low ({p0_p2_count} executable tasks), running replenish-queue")
+        todo_before = todo_content
         try:
             success, output = run_skill(
                 SkillInvocation("replenish-queue"),
@@ -768,13 +780,18 @@ def run_session(
             if success:
                 tasks_executed.append("replenish-queue")
                 todo_content = load_todo()  # Reload
-                # Commit any changes with agent authorship
-                try:
-                    commit_hash = run_agent_commit("replenish-queue", output)
-                    if commit_hash:
-                        log.info(f"Committed as agent: {commit_hash}")
-                except (GitError, Exception) as e:
-                    log.warning(f"Failed to commit: {e}")
+                # Only commit if todo.md actually changed (skip no-op replenishments)
+                if todo_content != todo_before:
+                    try:
+                        commit_hash = run_agent_commit("replenish-queue", output)
+                        if commit_hash:
+                            log.info(f"Committed as agent: {commit_hash}")
+                    except (GitError, Exception) as e:
+                        log.warning(f"Failed to commit: {e}")
+                else:
+                    log.info("Replenish-queue made no changes to todo.md, skipping commit")
+                    # Discard any state-only changes (e.g. timestamp updates)
+                    _git_checkout_unstaged()
         except (SkillTimeoutError, Exception) as e:
             log.warning(f"Replenish-queue failed: {e}")
 
@@ -874,6 +891,10 @@ def run_session(
                     log.info(f"Committed as agent: {commit_hash}")
             except (GitError, Exception) as e:
                 log.warning(f"Failed to commit: {e}")
+
+            # Update last_runs for cycle-slot tasks (not just triggers)
+            if task_type != "queue":
+                state.last_runs[invocation.skill] = now
 
             # Record in recent_tasks
             state.recent_tasks.append(
