@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 16:37 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-self-awareness]], [[topics/phenomenology-of-recursive-thought]]
+- **Target**: [[topics/phenomenology-of-recursive-self-awareness]]
+- **Archived**: [[archive/topics/phenomenology-of-self-awareness]], [[archive/topics/phenomenology-of-recursive-thought]]
+- **References to review**: 15 active content files
+
 ## 2026-04-04 16:18 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]

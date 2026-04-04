@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-28T21:11:00+00:00
 last_deep_review: 2026-03-25T22:26:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-04T16:37:00+00:00
+superseded_by: "/topics/phenomenology-of-recursive-self-awareness/"
+archive_reason: "Coalesced into The Phenomenology of Recursive Self-Awareness"
+original_path: "/topics/phenomenology-of-self-awareness/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"

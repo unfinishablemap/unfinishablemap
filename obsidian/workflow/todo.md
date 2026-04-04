@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced self-awareness/recursive-thought articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created topics/phenomenology-of-recursive-self-awareness.md from phenomenology-of-self-awareness + phenomenology-of-recursive-thought. The following active files reference archived articles and need wikilink updates: self-and-self-consciousness, ownership-void, cognitive-integration-and-the-self, social-construction-of-self-vs-phenomenal-self, the-self-minimal-narrative-and-substantial, attention-schema-theory, phenomenology-of-intellectual-life, phenomenology-of-imagination, introspection, higher-order-theories, temporal-consciousness, self-reference-paradox, witness-consciousness, recursion-void.
+- **Source**: coalesce
+- **Generated**: 2026-04-04
+
 ### P2: Cross-review neurological-dissociations-as-interface-architecture.md considering attention-disorders-and-consciousness
 - **Type**: cross-review
 - **Status**: pending
