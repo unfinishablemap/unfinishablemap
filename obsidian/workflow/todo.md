@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemological-limits-of-parsimony.md against related concept pages
-- **Type**: cross-review
-- **Notes**: New concept page obsidian/concepts/epistemological-limits-parsimony.md created 2026-04-03 via expand-topic. Review against parsimony-case-for-interactionist-dualism, occams-razor, and limits-of-parsimony-in-consciousness-science for consistency and add cross-links. Central to Tenet 5 (Occam's Razor Has Limits).
-- **Source**: chain (from epistemological-limits-parsimony.md)
-- **Generated**: 2026-04-04
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1888,6 +1882,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Cross-review epistemological-limits-of-parsimony.md against related concept pages
+- **Type**: cross-review
+- **Notes**: New concept page obsidian/concepts/epistemological-limits-parsimony.md created 2026-04-03 via expand-topic. Review against parsimony-case-for-interactionist-dualism, occams-razor, and limits-of-parsimony-in-consciousness-science for consistency and add cross-links. Central to Tenet 5 (Occam's Razor Has Limits).
+- **Output**: epistemological-limits-of-parsimony.md -- Context: Cross-review epistemological-limits-of-parsimony.md against related concept pages
 
 ### ✓ 2026-04-04: Cross-review attention-disorders-and-consciousness.md against related articles
 - **Type**: cross-review
