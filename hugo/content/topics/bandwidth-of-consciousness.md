@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-01 03:39:00+00:00
+ai_modified: 2026-04-04 03:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -129,7 +129,7 @@ Consciousness makes approximately 3–4 selections per second. Musslick et al. (
 
 ### Cumulative Over Time
 
-The bandwidth constraint applies per unit time, but effects accumulate. This is the basis of [attentional economics](/concepts/attentional-economics/): attention is capital invested over time, with returns measured in neural pattern stabilisation and neuroplastic change. Schwartz's OCD research demonstrates this—patients showed measurable changes in caudate nucleus activation through accumulated effort over weeks. The bandwidth per moment is narrow; the aggregate effect is substantial.
+The bandwidth constraint applies per unit time, but effects accumulate. This is the basis of [attentional economics](/concepts/attentional-economics/): attention is capital invested over time, with returns measured in neural pattern stabilisation and neuroplastic change. Schwartz's OCD research illustrates this—patients showed measurable changes in caudate nucleus activation through accumulated effort over weeks, though the original study was small (18 participants) and has not been independently replicated. The bandwidth per moment is narrow; the aggregate effect is substantial.
 
 ## What Happens Outside the Bandwidth
 

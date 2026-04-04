@@ -38,34 +38,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on phenomenal absence void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-phenomenal-absence-void-2026-03-29.md. The phenomenal absence void explores what it means for experience to be missing rather than merely unreported — the difference between not-noticing and genuine experiential absence. Voids section has 1 slot remaining (99/100). Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-04
-
-### P2: Integrate clinical evidence quality findings into existing articles
-- **Type**: refine-draft
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-04
-
-### P2: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-31 has no inbound links. Add cross-references from related articles: testing-consciousness-collapse, consciousness-collapse-experimental-landscape, differential-predictions-consciousness-collapse, and comparing-quantum-consciousness-mechanisms. Key article for empirical credibility of the Map's physics programme.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-04
-
-### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from amplification-mechanisms-consciousness-physics, consciousness-selecting-neural-patterns, comparing-quantum-consciousness-mechanisms, and non-retrocausal-conscious-selection-models. Addresses the amplification problem central to Tenet 2.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-04
-
 ### P2: Integrate consciousness-collapse-prediction-landscape.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from testing-consciousness-collapse, consciousness-collapse-experimental-landscape, testable-predictions-consciousness-collapse-decoherence, and completeness-in-physics-under-dualism. Maps the empirical prediction space for consciousness-collapse theories.
+- **Notes**: File created 2026-03-29 has no inbound links. Add cross-references from testing-consciousness-collapse, consciousness-collapse-experimental-landscape, and completeness-in-physics-under-dualism. Maps the empirical prediction space for consciousness-collapse theories. (Note: testable-predictions-consciousness-collapse-decoherence was archived 2026-03-31, coalesced into testing-consciousness-collapse.)
 - **Source**: orphan_integration
+- **Generated**: 2026-04-04
+
+### P2: Fix Baddeley misattribution in global-workspace-theory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the Working Memory section misattributes dualist implications to Baddeley's episodic buffer model. The claim that Baddeley's formulation "implies something beyond the neural workspace does the accessing" reads the Map's dualism into a non-dualist source. Reframe as the Map's interpretation, not Baddeley's implication. See pessimistic-2026-04-04.md, Issue 3.
+- **Source**: pessimistic-review
 - **Generated**: 2026-04-04
 
 ### P2: Cross-review attention-disorders-and-consciousness.md against related articles
@@ -1905,6 +1888,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-04-04: Integrate testable-predictions-consciousness-collapse-decoherence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-03-31 has no inbound links. Add cross-references from related articles: testing-consciousness-collapse, consciousness-collapse-experimental-landscape, differential-predictions-consciousness-collapse, and comparing-quantum-consciousness-mechanisms. Key article for empirical credibility of the Map's physics programme.
+- **Output**: testable-predictions-consciousness-collapse-decoherence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-04: Integrate clinical evidence quality findings into existing articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md evaluates the strength of key empirical claims (Schwartz OCD, meditation efficacy, neuroplasticity). Integrate quality assessments and caveats into clinical-neuroplasticity-evidence-for-bidirectional-causation.md and related articles that cite these studies. Add appropriate hedging where evidence is weaker than presented.
+
+### ✓ 2026-04-04: Write voids article on phenomenal absence void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-phenomenal-absence-void-2026-03-29.md. The phenomenal absence void explores what it means for experience to be missing rather than merely unreported — the difference between not-noticing and genuine experiential absence. Voids section has 1 slot remaining (99/100). Target section: voids/.
+- **Output**: Write voids article on phenomenal absence void
+
 ### ✓ 2026-04-04: Cross-review consciousness-and-collective-phenomena.md after deep-review
 - **Type**: cross-review
 - **Notes**: Deep review on 2026-04-03 fixed post-coalesce redundancy. Verify the revised article maintains coherent integration with consciousness-as-amplifier, phenomenology-of-collective-intentionality-and-we-consciousness, and social-construction-of-self-vs-phenomenal-self. Check that the coalesce-inherited arguments now form a unified structure.
@@ -1984,6 +1983,11 @@ Pessimistic review found the physicalism section equivocates on whether physical
 - **Notes**: Coalesce on 2026-04-01 merged phenomenal-authority-and-introspective-evidence + epistemology-of-first-person-evidence into phenomenal-authority-and-first-person-evidence.md. Reference update task was marked complete but ~87 wikilinks across the site still point to archived slugs (57 to epistemology-of-first-person-evidence, 30 to phenomenal-authority-and-introspective-evidence). Update wikilinks in topics/ and concepts/ files to point to the new unified article.
 - **Output**: Task context:
 Coalesce on 2026-04-01 merged phenomenal-authority-and-introspective-evidence + epistemology-of-first-person-evidence into phenomenal-authority-and-first-person-evidence.md. Reference update task was marked complete but ~87 wikilinks across the site still point to archived slugs (57 to epistemology-of-first-person-evidence, 30 to phenomenal-authority-and-introspective-evidence). Update wikilinks in topics/ and concepts/ files to point to the new unified article.
+
+### ✓ 2026-04-04: Deep review of testable-predictions-consciousness-collapse-decoherence.md (archived — no changes)
+- **Type**: deep-review
+- **Notes**: Article was archived 2026-03-31 (coalesced into testing-consciousness-collapse.md). No obsidian source exists. Stale hugo/content/topics/ copy removed. No content changes needed — the article's content lives in testing-consciousness-collapse.md.
+- **Output**: obsidian/reviews/deep-review-2026-04-04-testable-predictions-consciousness-collapse-decoherence.md
 
 ### ✓ 2026-04-03: Condense consciousness-as-amplifier.md (4174 words, 167% of target)
 - **Type**: condense

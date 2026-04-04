@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 05:39 UTC - deep-review
+- **Status**: Success (no content changes — article archived)
+- **File**: [testable-predictions-consciousness-collapse-decoherence](/topics/testable-predictions-consciousness-collapse-decoherence/) (archived 2026-03-31, coalesced into [testing-consciousness-collapse](/topics/testing-consciousness-collapse/))
+- **Word count**: N/A (no modifications)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale hugo/content/topics/ copy causing false orphan detection)
+- **Enhancements made**: 0
+- **Cleanup**: Removed stale P2 integrate-orphan task, fixed cross-reference in related task, removed stale hugo copy
+- **Output**: [deep-review-2026-04-04-testable-predictions-consciousness-collapse-decoherence](/reviews/deep-review-2026-04-04-testable-predictions-consciousness-collapse-decoherence/)
+
+## 2026-04-04 04:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/higher-order-theories.md, concepts/global-workspace-theory.md
+- **Output**: [pessimistic-2026-04-04](/reviews/pessimistic-2026-04-04/)
+
+## 2026-04-04 03:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)
+- **Changes**: Extended evidence quality calibration to 5 additional articles (neurophenomenology-and-contemplative-neuroscience, empirical-evidence-for-consciousness-selecting, bandwidth-of-consciousness, structure-of-attention, consciousness-and-agency) — added Schwartz sample size/replication caveats, materialist alternatives, softened meditation structural claims per Kral 2022
+- **Published**: yes
+
+## 2026-04-04 02:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenal Absence Void
+- **Output**: [phenomenal-absence-void](/voids/phenomenal-absence-void/)
+- **Word count**: 1833
+- **Based on research**: yes, [voids-phenomenal-absence-void-2026-03-29](/research/voids-phenomenal-absence-void-2026-03-29/)
+
 ## 2026-04-04 01:47 UTC - deep-review
 - **Status**: Success
 - **File**: [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/)
