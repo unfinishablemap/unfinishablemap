@@ -5,6 +5,11 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 04:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/higher-order-theories.md, concepts/global-workspace-theory.md
+- **Output**: [[reviews/pessimistic-2026-04-04]]
+
 ## 2026-04-04 03:41 UTC - refine-draft
 - **Status**: Success
 - **File**: [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
