@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 12:12 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Word count**: 2670 → 2670 (unchanged — cross-link additions only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing IIT/panpsychism cross-links)
+- **Enhancements made**: 2 (added [integrated-information-theory](/concepts/integrated-information-theory/) and [panpsychism](/concepts/panpsychism/) wikilinks)
+- **Output**: [deep-review-2026-04-04-parsimony-epistemology](/reviews/deep-review-2026-04-04-parsimony-epistemology/)
+
 ## 2026-04-04 10:38 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Representative sample across topics (~224), concepts (~226), tenets (1), voids (~105), apex (~14)

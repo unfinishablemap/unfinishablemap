@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-28 10:58:00+00:00
+ai_modified: 2026-04-04 12:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Why Occam's Razor lacks epistemic warrant in the consciousness deba
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 10:58:00+00:00
+last_deep_review: 2026-04-04 12:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -148,7 +148,7 @@ The [von Neumann-Wigner interpretation](/concepts/von-neumann-wigner-interpretat
 
 ## The IIT Parsimony Paradox
 
-Integrated Information Theory (IIT) provides a case study in how parsimony arguments self-destruct in consciousness science. IIT appears methodologically parsimonious: it identifies consciousness with a single mathematical quantity (Phi) and derives its properties from a small set of axioms. Yet IIT's parsimonious axioms lead to panpsychism — consciousness in thermostats, photodiodes, and simple logic gates. Tononi "openly stands by panpsychism insofar as it follows from IIT."
+[Integrated Information Theory](/concepts/integrated-information-theory/) (IIT) provides a case study in how parsimony arguments self-destruct in consciousness science. IIT appears methodologically parsimonious: it identifies consciousness with a single mathematical quantity (Phi) and derives its properties from a small set of axioms. Yet IIT's parsimonious axioms lead to [panpsychism](/concepts/panpsychism/) — consciousness in thermostats, photodiodes, and simple logic gates. Tononi "openly stands by panpsychism insofar as it follows from IIT."
 
 This illustrates a general problem: parsimony at one level of description can generate anti-parsimony at another. A theory with few axioms can commit to a vast, implausible ontology. The selective deployment is also revealing — physicalists invoke ontological parsimony against dualism's two substance types while accepting panpsychist implications when the theory is axiomatically clean, suggesting the principle is sometimes used rhetorically rather than epistemically.
 
