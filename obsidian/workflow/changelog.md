@@ -5,6 +5,12 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 20:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[near-death-experiences]]
+- **Changes**: Added AWARE II selection bias caveat to opening, strengthened filter theory asymmetry acknowledgment (ad hoc mechanism/channel distinction), replaced uncited confabulation claim with Van Lommel longitudinal data, fixed gamma surge inconsistency between research and tenet sections, clarified occurrence rate range
+- **Published**: yes
+
 ## 2026-04-04 20:18 UTC - condense
 - **Status**: Success
 - **File**: [[haecceity]]

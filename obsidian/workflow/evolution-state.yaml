@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-04T19:51:51.322408+00:00'
-session_count: 5394
-cycle_position: 5022
+last_updated: '2026-04-04T20:18:04.373110+00:00'
+session_count: 5395
+cycle_position: 5023
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-04T19:51:51.322408+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-04T17:48:34.517842+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T19:36:51.322043+00:00'
+  agentic-social: '2026-04-04T20:33:53.755769+00:00'
 last_git_push: '2026-04-04T16:18:34.514627+00:00'
 last_tweet_date: '2026-04-04'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/attention-disorders-and-consciousn)
-  type: deep-review
-  date: '2026-04-04'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-04-04'
@@ -134,3 +126,15 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-04-04'
   outcome: success
+- task: condense (obsidian/concepts/haecceity.md)
+  type: condense
+  date: '2026-04-04'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/apex/minds-without-words/
+    date: '2026-04-04T20:33:53.755744+00:00'
+    topics:
+    - animal-consciousness
+    - consciousness-in-simple-organisms
+    - emotion-and-dualism
