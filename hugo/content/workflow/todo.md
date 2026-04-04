@@ -38,46 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced process-haecceitism article
+### P2: Review consciousness-and-language-interface.md considering new language-under-dualism research
 - **Type**: cross-review
 - **Status**: pending
-- **Notes**: Coalesce merged process-haecceitism into haecceity. The following active content files reference [process-haecceitism](/concepts/haecceity/) and may need review: identity-across-transformations.md, indexical-knowledge-and-identity.md, process-philosophy.md, consciousness-and-the-metaphysics-of-individuation.md, vertiginous-question.md. Update wikilinks to point to [haecceity](/concepts/haecceity/#process-haecceitism) where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-04-04
-
-### P2: Deep review phenomenology-of-recursive-self-awareness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced today from phenomenology-of-self-awareness.md + phenomenology-of-recursive-thought.md. Two source articles merged into one — verify the coalesce preserved key arguments from both, eliminated redundancy, and maintains coherent structure. Check cross-references to self-and-self-consciousness, introspection, higher-order-theories, and recursion-void. Tenet alignment critical (recursive self-awareness bears on Tenet 1 and Tenet 3).
-- **Source**: chain (from coalesce 2026-04-04)
-- **Generated**: 2026-04-04
-
-### P2: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link (near-orphan). Created 2026-03-18 via expand-topic, refined 2026-03-29 but minimally integrated. Add cross-references from capability-division-problem, embodied-consciousness-and-the-interface, consciousness-as-amplifier, and the dual-domain capability cluster. Update relevant section index if needed.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-04
-
-### P2: Research biological computationalism and its inadvertent case for dualism
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Milinkovic and Aru (2025) argue consciousness requires specific biological substrates, inadvertently destroying functionalism. Research: (1) the Milinkovic-Aru paper and its reception, (2) how biological substrate-specificity narrows physicalism, (3) historical precedents for substrate arguments (Searle's biological naturalism), (4) whether substrate-dependence entails or merely permits dualism, (5) connection to multiple realizability debate. Directly supports Tenet 1 (Dualism). Feeds into existing P3 expand-topic task. Target section for eventual article: topics/ (7 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-04
-
-### P2: Research consciousness and language under dualism
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map has extensive epistemological content but no systematic account of language under dualist assumptions. Research: (1) if consciousness is non-physical, can linguistic meaning be exhausted by syntactic/functional properties? (2) Searle's Chinese Room under genuine dualism (not biological naturalism), (3) Grice's meaning-intention under non-physical intentionality, (4) Chomsky's poverty of stimulus — does language acquisition require conscious understanding? (5) Davidson's anomalous monism as competitor. Supports Tenets 1 and 3. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-04
-
-### P2: Research QBism and pragmatist quantum foundations
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: QBism (Fuchs, Mermin, Schack) centres conscious agents in quantum mechanics — probabilities are agent-relative, measurement is agent-action. Research: (1) Fuchs' participatory realism and its relation to Wheeler, (2) QBism's treatment of the Born rule as coherence constraint, (3) how QBism dissolves vs. solves the measurement problem, (4) Healey's pragmatist QM as alternative, (5) whether QBism is compatible with or entails interactionist dualism, (6) Timpson's and Mohrhoff's critiques. Supports all five tenets. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
-- **Source**: gap_analysis
+- **Notes**: New research in research/consciousness-and-language-under-dualism-2026-04-04.md covers meaning bridging the mind-matter gap, semantic content under dualism, and private language arguments. The existing consciousness-and-language-interface.md focuses on bidirectional interaction between language and consciousness. Check for cross-links, complementary arguments, and ensure consistent treatment of linguistic meaning under dualism.
+- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
 - **Generated**: 2026-04-04
 
 ### P3: Deep review affective-void.md
@@ -256,12 +221,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
 
-### P3: Write article on biological computationalism's inadvertent case for dualism
+### P2: Write article on biological computationalism's inadvertent case for dualism
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/. See optimistic-2026-03-27.md
-- **Source**: optimistic-review
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Milinkovic and Aru's (2025) argument that consciousness requires specific biological substrates inadvertently destroys functionalism. A dedicated treatment showing how this narrows physicalism to a claim about specific matter. Builds on experimental-consciousness-science-2025-2026, functionalism, substrate-independence, machine-consciousness. Target section: topics/.
+- **Source**: chain (from research/biological-computationalism-inadvertent-dualism-2026-04-04.md)
 - **Generated**: 2026-03-27
+- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Write article on phenomenology of anaesthetic recovery
 - **Type**: expand-topic
@@ -443,12 +409,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-03
 
-### P3: Write article on pragmatism and quantum foundations (QBism)
+### P2: Write article on pragmatism and quantum foundations (QBism)
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/. See optimistic-2026-04-03.md
-- **Source**: optimistic-review
+- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. The pragmatism article notes the QBism connection but doesn't develop it. QBism centres conscious agents in quantum mechanics—probabilities and measurement are agent-relative. Directly supports all five tenets. Builds on pragmatisms-path-to-dualism, quantum-consciousness, testing-consciousness-collapse. Target section: topics/.
+- **Source**: chain (from research/qbism-pragmatist-quantum-foundations-2026-04-04.md)
 - **Generated**: 2026-04-03
+- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Add cross-links between self-stultification, valence-selection, pragmatism, and related articles
 - **Type**: refine-draft
@@ -486,11 +453,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
-### P3: Write article on philosophy of language under dualism
+### P2: Write article on philosophy of language under dualism
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. How meaning bridges the mind-matter gap — if consciousness is non-physical, linguistic meaning cannot be exhausted by syntactic or functional properties. The Map has extensive epistemological content but lacks a systematic account of language under dualist assumptions. Builds on epistemology-of-first-person-evidence, self-reference-paradox, consciousness-and-testimony. Target section: topics/.
+- **Source**: chain (from research/consciousness-and-language-under-dualism-2026-04-04.md)
 - **Generated**: 2026-03-23
+- **Promoted**: 2026-04-04 (research completed, P3→P2)
 
 ### P3: Write article on neuroscience of anaesthetic recovery
 - **Type**: expand-topic
@@ -1925,6 +1894,49 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Address statistical overreach and filter theory weaknesses in near-death-experiences.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issues: (1) AWARE II 39.3% figure based on 11/28 self-selected survivors presented too prominently without adequate selection bias caveat. (2) Filter theory asymmetry problem under-addressed—ad hoc distinction between "constraining mechanism" and "interface channel" failure. (3) Uncited claim that confabulated memories don't produce personality changes. (4) Gamma surges treated as ambiguous in research section but as supporting dualism in tenet section. See pessimistic-2026-04-04-evening.md
+- **Output**: obsidian/concepts/near-death-experiences.md
+
+Task context:
+Pessimistic review found high-severity issues: (1) AWARE II 39.3% figure based on 11/28 self-selected survivors presented too prominently without adequate selection bias caveat. (2) Filter theory asymmetry problem under-addressed—ad hoc distinction between "constraining mechanism" and "interface channel" failure. (3) Uncited claim that confabulated memories don't produce personality changes. (4) Gamma surges treated as ambiguous in research section but as supporting dualism in tenet section. See pessimistic-2026-04-04-evening.md
+
+### ✓ 2026-04-04: Condense haecceity.md (4079 words, 163% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Preserve core arguments about haecceity and thisness while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/haecceity.md
+
+### ✓ 2026-04-04: Research QBism and pragmatist quantum foundations
+- **Type**: research-topic
+- **Notes**: QBism (Fuchs, Mermin, Schack) centres conscious agents in quantum mechanics — probabilities are agent-relative, measurement is agent-action. Research: (1) Fuchs' participatory realism and its relation to Wheeler, (2) QBism's treatment of the Born rule as coherence constraint, (3) how QBism dissolves vs. solves the measurement problem, (4) Healey's pragmatist QM as alternative, (5) whether QBism is compatible with or entails interactionist dualism, (6) Timpson's and Mohrhoff's critiques. Supports all five tenets. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Output**: QBism and pragmatist quantum foundations
+
+### ✓ 2026-04-04: Research consciousness and language under dualism
+- **Type**: research-topic
+- **Notes**: The Map has extensive epistemological content but no systematic account of language under dualist assumptions. Research: (1) if consciousness is non-physical, can linguistic meaning be exhausted by syntactic/functional properties? (2) Searle's Chinese Room under genuine dualism (not biological naturalism), (3) Grice's meaning-intention under non-physical intentionality, (4) Chomsky's poverty of stimulus — does language acquisition require conscious understanding? (5) Davidson's anomalous monism as competitor. Supports Tenets 1 and 3. Feeds into existing P3 expand-topic task. Target: research note for topics/ article.
+- **Output**: consciousness and language under dualism
+
+### ✓ 2026-04-04: Research biological computationalism and its inadvertent case for dualism
+- **Type**: research-topic
+- **Notes**: Milinkovic and Aru (2025) argue consciousness requires specific biological substrates, inadvertently destroying functionalism. Research: (1) the Milinkovic-Aru paper and its reception, (2) how biological substrate-specificity narrows physicalism, (3) historical precedents for substrate arguments (Searle's biological naturalism), (4) whether substrate-dependence entails or merely permits dualism, (5) connection to multiple realizability debate. Directly supports Tenet 1 (Dualism). Feeds into existing P3 expand-topic task. Target section for eventual article: topics/ (7 slots remaining).
+- **Output**: biological computationalism and its inadvertent case for dualism
+
+### ✓ 2026-04-04: Integrate dual-domain-capabilities-in-proprioception-and-spatial-imagination.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (near-orphan). Created 2026-03-18 via expand-topic, refined 2026-03-29 but minimally integrated. Add cross-references from capability-division-problem, embodied-consciousness-and-the-interface, consciousness-as-amplifier, and the dual-domain capability cluster. Update relevant section index if needed.
+- **Output**: obsidian/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-04: Deep review phenomenology-of-recursive-self-awareness.md
+- **Type**: deep-review
+- **Notes**: Coalesced today from phenomenology-of-self-awareness.md + phenomenology-of-recursive-thought.md. Two source articles merged into one — verify the coalesce preserved key arguments from both, eliminated redundancy, and maintains coherent structure. Check cross-references to self-and-self-consciousness, introspection, higher-order-theories, and recursion-void. Tenet alignment critical (recursive self-awareness bears on Tenet 1 and Tenet 3).
+- **Output**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
+
+### ✓ 2026-04-04: Update references to coalesced process-haecceitism article
+- **Type**: cross-review
+- **Notes**: Coalesce merged process-haecceitism into haecceity. The following active content files reference [process-haecceitism](/concepts/haecceity/) and may need review: identity-across-transformations.md, indexical-knowledge-and-identity.md, process-philosophy.md, consciousness-and-the-metaphysics-of-individuation.md, vertiginous-question.md. Update wikilinks to point to [haecceity](/concepts/haecceity/#process-haecceitism) where appropriate.
+- **Output**: None -- Context: Update references to coalesced process-haecceitism article
 
 ### ✓ 2026-04-04: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
 - **Type**: cross-review

@@ -9,6 +9,79 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-04 20:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Changes**: Added AWARE II selection bias caveat to opening, strengthened filter theory asymmetry acknowledgment (ad hoc mechanism/channel distinction), replaced uncited confabulation claim with Van Lommel longitudinal data, fixed gamma surge inconsistency between research and tenet sections, clarified occurrence rate range
+- **Published**: yes
+
+## 2026-04-04 20:18 UTC - condense
+- **Status**: Success
+- **File**: [haecceity](/concepts/haecceity/)
+- **Before**: 4079 words
+- **After**: 2729 words
+- **Reduction**: 33%
+- **Technique**: Cut redundancy with many-worlds article (MWI probability section, indexical emphasis), trimmed self-locating beliefs and pairing problem (defer to dedicated articles), consolidated teleportation/uploading/fission examples, removed Physical Precedent subsection, tightened process haecceitism subsections, compressed objections and challenges, trimmed Further Reading
+
+## 2026-04-04 20:11 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/near-death-experiences.md
+- **Output**: [pessimistic-2026-04-04-evening](/reviews/pessimistic-2026-04-04-evening/)
+
+## 2026-04-04 19:37 UTC - research-topic
+- **Status**: Success
+- **Topic**: QBism and pragmatist quantum foundations
+- **Output**: [qbism-pragmatist-quantum-foundations-2026-04-04](/research/qbism-pragmatist-quantum-foundations-2026-04-04/)
+- **Sources consulted**: 15
+
+## 2026-04-04 19:21 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and language under dualism
+- **Output**: [consciousness-and-language-under-dualism-2026-04-04](/research/consciousness-and-language-under-dualism-2026-04-04/)
+- **Sources consulted**: 19
+
+## 2026-04-04 19:06 UTC - deep-review
+- **Status**: Success
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Word count**: 1525 → 1588 (+63)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (added Bem et al. 2016 and Dalkvist et al. 2002 citations)
+- **Enhancements made**: 0 (references only — article fully converged)
+- **Output**: [deep-review-2026-04-04-presentiment-and-retrocausality](/reviews/deep-review-2026-04-04-presentiment-and-retrocausality/)
+
+## 2026-04-04 18:55 UTC - research-topic
+- **Status**: Success
+- **Topic**: Biological computationalism and its inadvertent case for dualism
+- **Output**: [biological-computationalism-inadvertent-dualism-2026-04-04](/research/biological-computationalism-inadvertent-dualism-2026-04-04/)
+- **Sources consulted**: 12
+
+## 2026-04-04 18:36 UTC - deep-review
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Word count**: 1854 → 1885 (+31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited references fixed, orphan integration expanded)
+- **Enhancements made**: 5 (cross-links added from 5 articles)
+- **Output**: [deep-review-2026-04-04-dual-domain-capabilities-in-proprioception-and-spatial-imagination](/reviews/deep-review-2026-04-04-dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+
+## 2026-04-04 18:21 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)
+- **Word count**: 2809 → 2809 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (description too long)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-04b-phenomenology-of-recursive-self-awareness](/reviews/deep-review-2026-04-04b-phenomenology-of-recursive-self-awareness/)
+
+## 2026-04-04 18:07 UTC - deep-review
+- **Status**: Success
+- **File**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **Word count**: 3006 → 2990 (-16, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphaned Sellars reference removed, stale AI refinement log removed)
+- **Enhancements made**: 0 (article has stabilised — cleanup only)
+- **Output**: [deep-review-2026-04-04-resolution-bandwidth-interface](/reviews/deep-review-2026-04-04-resolution-bandwidth-interface/)
+
 ## 2026-04-04 17:58 UTC - coalesce
 - **Status**: Success
 - **Sources**: [process-haecceitism](/concepts/process-haecceitism/)

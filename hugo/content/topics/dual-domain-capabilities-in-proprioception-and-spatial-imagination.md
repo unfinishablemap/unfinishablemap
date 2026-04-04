@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-29 23:10:00+00:00
+ai_modified: 2026-04-04 18:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Proprioception and spatial imagination each require contributions f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 23:10:00+00:00
+last_deep_review: 2026-04-04 18:36:00+00:00
 modified: *id001
 related_articles:
 - '[[capability-division-problem]]'
@@ -38,7 +38,7 @@ The Unfinishable Map's [dual-domain framework](/concepts/episodic-memory/) argue
 
 ## Proprioception: Body Schema and Phenomenal Embodiment
 
-Proprioception tracks the body's position, posture, and movement through muscle spindles, Golgi tendon organs, and joint receptors. The physical mechanisms are well understood: receptor signals travel via afferent neurons to the somatosensory cortex, where they integrate with vestibular and visual data to maintain an internal body model. Neuroscience distinguishes two components: the **body schema**—a non-conscious sensorimotor model that guides action automatically—and the **body image**—the conscious perceptual representation of one's body as an experienced presence.
+Proprioception tracks the body's position, posture, and movement through muscle spindles, Golgi tendon organs, and joint receptors. The physical mechanisms are well understood: receptor signals travel via afferent neurons to the somatosensory cortex, where they integrate with vestibular and visual data to maintain an internal body model. Neuroscience distinguishes two components: the **body schema**—a non-conscious sensorimotor model that guides action automatically—and the **body image**—the conscious perceptual representation of one's body as an experienced presence. Merleau-Ponty (1945/2012) anticipated this distinction phenomenologically, describing the body as simultaneously a physical mechanism and a "vehicle of being in the world" whose lived character exceeds any objective description.
 
 This distinction maps directly onto dual-domain architecture. The body schema is physical: it operates without phenomenal awareness, adjusting posture and coordinating movement below the threshold of consciousness. The body image is phenomenal: it constitutes the felt sense of *having* a body, of inhabiting a spatial form from the inside. Oliver Sacks documented the case of Christina, who lost proprioceptive input through peripheral neuropathy. She retained motor ability and intelligence—the body schema could be partially compensated by visual monitoring—but the felt sense of embodiment vanished. She described herself as "disembodied," her body becoming an object to manage rather than a medium to inhabit.
 
@@ -56,7 +56,7 @@ Spatial imagination generates, manipulates, and explores spatial structures with
 
 ### The Physical Domain
 
-Neuroscience has identified extensive physical correlates. Mental imagery activates many of the same brain regions as perception—the parietal cortex for spatial transformation, motor cortex for imagined movement, early visual areas for vivid imagery. This overlap supports the view that imagery reuses perceptual and motor machinery. Functional imaging shows that mental rotation activates regions homologous to those involved in physical object manipulation.
+Neuroscience has identified extensive physical correlates. Mental imagery activates many of the same brain regions as perception—the parietal cortex for spatial transformation, motor cortex for imagined movement, early visual areas for vivid imagery (Kosslyn, 1994). This overlap supports the view that imagery reuses perceptual and motor machinery. Functional imaging shows that mental rotation activates regions homologous to those involved in physical object manipulation.
 
 ### The Phenomenal Domain
 

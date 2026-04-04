@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-04 16:48:00+00:00
+ai_modified: 2026-04-04 18:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,14 +23,12 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-02-01
 date: &id001 2026-04-04
-description: When consciousness curves back on itself, new phenomenal structures emerge—reflexive
-  distance, existential tonality, doubled intentionality, and the collapsing tower
-  of recursive levels. Self-awareness is not an added layer but a qualitative transformation,
-  and its recursive deepening reveals structural limits on self-knowledge.
+description: Recursive self-awareness transforms phenomenal experience through reflexive
+  distance, doubled intentionality, and structural limits on self-knowledge.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-04 16:48:00+00:00
+last_deep_review: 2026-04-04 18:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

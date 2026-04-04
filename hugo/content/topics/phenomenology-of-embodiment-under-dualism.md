@@ -33,7 +33,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-The body is not something we merely have—it is something we *are from the inside*. The Unfinishable Map's [interface reading](/topics/embodied-consciousness-and-the-interface/) of embodied cognition explains the functional relationship between consciousness and body. The [somatic interface](/concepts/somatic-interface/) maps the anatomical channels. But neither captures the phenomenology—what embodiment actually *feels like* from the first person. This phenomenological dimension is where dualism finds some of its most compelling evidence. The structures of bodily experience—ownership, agency, pre-reflective awareness, bodily absence and reappearance—reveal a subject that inhabits the body without being reducible to it.
+The body is not something we merely have—it is something we *are from the inside*. The Unfinishable Map's [interface reading](/topics/embodied-consciousness-and-the-interface/) of embodied cognition explains the functional relationship between consciousness and body. The [somatic interface](/concepts/somatic-interface/) maps the anatomical channels. But neither captures the phenomenology—what embodiment actually *feels like* from the first person. This phenomenological dimension is where dualism finds some of its most compelling evidence. The structures of bodily experience—ownership, agency, pre-reflective awareness, bodily absence and reappearance—reveal a subject that inhabits the body without being reducible to it. The [dual-domain analysis of proprioception](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) confirms this from the empirical side: the body schema and body image dissociate in clinical cases exactly as a dual-domain architecture predicts.
 
 ## The Lived Body and the Observed Body
 
@@ -111,6 +111,7 @@ The Map reads intercorporeality as suggestive of consciousness interfacing with 
 - [dualist-perception](/topics/dualist-perception/) — How dualism reframes perceptual experience
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The felt character of being somewhere
 - [embodied-cognition](/concepts/embodied-cognition/) — The 4E framework and its phenomenological roots
+- [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Empirical evidence for dual-domain architecture in proprioception and spatial imagination
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's felt awfulness is inseparable from its causal role
 
 ## References

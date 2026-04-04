@@ -111,7 +111,7 @@ The deflationary reading—that repeated neural activation strengthens pathways 
 
 ## Body Schema and Tool Incorporation
 
-Skill changes what the body *is* from the inside. The *body schema*—the pre-reflective sense of bodily capacity (Head & Holmes, 1911)—transforms through practice while the body image remains unchanged. A surgeon's hands have not changed shape, but their operative sense is fundamentally different from a non-surgeon's.
+Skill changes what the body *is* from the inside. The *body schema*—the pre-reflective sense of bodily capacity (Head & Holmes, 1911)—transforms through practice while the body image remains unchanged. This schema-image distinction is itself a [dual-domain phenomenon](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/): the physical body schema operates without phenomenal awareness, while the body image is consciousness's contribution to embodiment. A surgeon's hands have not changed shape, but their operative sense is fundamentally different from a non-surgeon's.
 
 Tool incorporation demonstrates this: Iriki et al. (1996) showed that after macaques learned to use a rake, intraparietal neurons expanded their receptive fields to encompass the tool—but only during active use, not passive holding. The body schema expands along the lines of conscious engagement, reinforcing the same active-use requirement visible in the neuroscience evidence.
 

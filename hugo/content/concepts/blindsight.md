@@ -194,6 +194,7 @@ Blindsight demonstrates that sophisticated visual processing can occur without c
 - [Lucid dreaming](/topics/lucid-dreaming-and-dualist-rendering/) — Phenomenal experience without sensory input (converse dissociation)
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — How blindsight evidence constrains the brain/mind boundary in vision
 - [mind-brain-separation](/concepts/mind-brain-separation/) — Evidence for consciousness-brain dissociation
+- [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — The same processing-phenomenal dissociation pattern in proprioception and spatial imagination
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Blindsight as an empirical partial-zombie case
 - [higher-order-theories](/concepts/higher-order-theories/) — Physicalist framework for the blindsight dissociation
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding consciousness
