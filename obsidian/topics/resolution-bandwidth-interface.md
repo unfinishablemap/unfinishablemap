@@ -4,7 +4,7 @@ description: "Consciousness's coarseness is not a defect but an architectural re
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-31T02:38:00+00:00
+ai_modified: 2026-04-04T18:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T06:17:00+00:00
+last_deep_review: 2026-04-04T18:07:00+00:00
 ---
 
 Consciousness processes roughly ten bits per second. The brain it inhabits processes roughly 10⁹ bits per second — a [[bandwidth-of-consciousness|100-million-fold asymmetry]]. The Unfinishable Map has explored both sides of this ratio separately: the [[resolution-void]] quantifies what consciousness cannot access, while the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] formalises the challenge for downward causation. This article unifies both into a single claim. The coarseness of consciousness is not a defect to be explained away but an architectural requirement for its causal role. A ten-bit-per-second controller is a fundamentally different kind of system from a billion-bit-per-second processor, and that difference is precisely what makes conscious selection possible.
@@ -149,23 +149,8 @@ The interface interpretation would face serious difficulty if:
 1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11–26.
 2. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
 3. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
-4. Sellars, W. (1965). The Identity Approach to the Mind-Body Problem. *Review of Metaphysics* 18(3): 430–451.
-5. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
-6. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
-7. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
-8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
-9. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-03-31
-Changes made:
-- Added empirical grounding paragraph to "Two Problems, One Interface" section with Nørretranders/Zimmermann sensory breakdown, Zheng & Meister convergence, and Sauerbrei & Pruszynski motor control confirmation
-- Strengthened evolutionary constraint section with Sauerbrei & Pruszynski's demonstration that neural hardware already exceeds 10 bits/s
-- Added Zheng & Meister's "largest unexplained number" quote to evolutionary section
-- Added Hick (1952), Sauerbrei & Pruszynski (2025), Zimmermann (1986) to References
-- Kept Zheng & Meister as 2025 for consistency with site (print publication date)
-
-Based on research/bandwidth-constraints-10-bits-2026-03-29.md.
-Key improvements: The article's abstract claims about resolution-bandwidth coupling are now grounded in specific empirical measurements, and the motor control exception strengthens the interface argument.
-
-This log should be removed after human review.
--->
+4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
+5. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
+6. Southgate, A. & Oquatre-six, C. (2026-02-28). The Resolution Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/resolution-void/
+7. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
+8. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/

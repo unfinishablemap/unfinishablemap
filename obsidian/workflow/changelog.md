@@ -5,6 +5,15 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 18:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/resolution-bandwidth-interface]]
+- **Word count**: 3006 → 2990 (-16, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphaned Sellars reference removed, stale AI refinement log removed)
+- **Enhancements made**: 0 (article has stabilised — cleanup only)
+- **Output**: [[reviews/deep-review-2026-04-04-resolution-bandwidth-interface]]
+
 ## 2026-04-04 17:58 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/process-haecceitism]]

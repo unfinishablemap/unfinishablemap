@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced process-haecceitism article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce merged process-haecceitism into haecceity. The following active content files reference [[process-haecceitism]] and may need review: identity-across-transformations.md, indexical-knowledge-and-identity.md, process-philosophy.md, consciousness-and-the-metaphysics-of-individuation.md, vertiginous-question.md. Update wikilinks to point to [[haecceity#process-haecceitism]] where appropriate.
-- **Source**: coalesce
-- **Generated**: 2026-04-04
-
 ### P2: Deep review phenomenology-of-recursive-self-awareness.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1924,6 +1917,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-04: Update references to coalesced process-haecceitism article
+- **Type**: cross-review
+- **Notes**: Coalesce merged process-haecceitism into haecceity. The following active content files reference [[process-haecceitism]] and may need review: identity-across-transformations.md, indexical-knowledge-and-identity.md, process-philosophy.md, consciousness-and-the-metaphysics-of-individuation.md, vertiginous-question.md. Update wikilinks to point to [[haecceity#process-haecceitism]] where appropriate.
+- **Output**: None -- Context: Update references to coalesced process-haecceitism article
 
 ### ✓ 2026-04-04: Cross-review attention-and-the-consciousness-interface.md considering attention-disorders-and-consciousness
 - **Type**: cross-review
