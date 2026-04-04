@@ -6,6 +6,11 @@ modified: 2026-03-03
 human_modified:
 ai_modified: 2026-03-25T11:28:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-04T22:49:00+00:00
+superseded_by: "/topics/clinical-phenomenology-and-altered-experience/"
+archive_reason: "Coalesced into Clinical Phenomenology and Altered Experience"
+original_path: "/topics/phenomenological-psychiatry-and-altered-experience/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[the-self-minimal-narrative-and-substantial]]"

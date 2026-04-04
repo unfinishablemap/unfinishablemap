@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced clinical phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/clinical-phenomenology-and-altered-experience.md from topics/clinical-phenomenology-as-philosophical-evidence.md and topics/phenomenological-psychiatry-and-altered-experience.md. The following files reference archived articles and need wikilinks updated: phenomenal-authority-and-first-person-evidence.md, phenomenology-of-agency-vs-passivity.md, contemplative-practice-as-philosophical-evidence.md, clinical-dissociation-as-systematic-evidence.md, neurological-dissociations-as-interface-architecture.md, phenomenological-method-and-evidence-standards.md, anaesthesia-and-the-consciousness-interface.md, consciousness-disruption-and-the-mind-brain-interface.md, consciousness-and-the-phenomenology-of-translation.md, pain-consciousness-and-causal-power.md, altered-states-of-consciousness.md, self-and-self-consciousness.md, introspection.md, embodied-cognition.md, phenomenology.md, hard-problem-of-consciousness.md, contemplative-pathology-and-interface-malfunction.md, consciousness-and-the-ownership-problem.md, attention-disorders-and-consciousness.md, the-self-minimal-narrative-and-substantial.md, identity-across-transformations.md, attention-and-consciousness.md
+- **Source**: coalesce
+- **Generated**: 2026-04-04
+
 ### P2: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
 - **Type**: cross-review
 - **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Review against topics/functionalism.md, topics/experimental-consciousness-science-2025-2026.md, concepts/consciousness-as-amplifier.md, and topics/comparing-quantum-consciousness-mechanisms.md for consistency, cross-linking, and whether biological computationalism arguments strengthen or tension with existing content. Directly supports Tenet 1 (Dualism).

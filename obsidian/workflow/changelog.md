@@ -5,6 +5,13 @@ ai_modified: 2026-03-30 03:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-04 22:49 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[clinical-phenomenology-as-philosophical-evidence]], [[phenomenological-psychiatry-and-altered-experience]]
+- **Target**: [[clinical-phenomenology-and-altered-experience]]
+- **Archived**: archive/topics/clinical-phenomenology-as-philosophical-evidence.md, archive/topics/phenomenological-psychiatry-and-altered-experience.md
+- **References to review**: ~25 files across active content
+
 ## 2026-04-04 22:33 UTC - refine-draft
 - **Status**: Success
 - **File**: [[pragmatisms-path-to-dualism]]

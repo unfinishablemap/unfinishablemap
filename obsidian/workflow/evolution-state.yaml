@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-04T22:18:04.375509+00:00'
-session_count: 5403
-cycle_position: 5031
+last_updated: '2026-04-04T22:33:04.376005+00:00'
+session_count: 5404
+cycle_position: 5032
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-04T19:51:51.322408+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-04-04T22:18:04.375509+00:00'
   tune-system: '2026-03-30T22:38:01.464514+00:00'
   research-voids: '2026-04-03T22:38:01.558309+00:00'
-  coalesce: '2026-04-04T17:48:34.517842+00:00'
+  coalesce: '2026-04-04T22:49:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T22:03:04.375059+00:00'
+  agentic-social: '2026-04-04T22:48:59.466498+00:00'
 last_git_push: '2026-04-04T20:33:04.373419+00:00'
 last_tweet_date: '2026-04-04'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-04'
-  outcome: success
 - task: deep-review (obsidian/topics/attention-and-the-consciousness-in)
   type: deep-review
   date: '2026-04-04'
@@ -134,3 +126,16 @@ recent_tasks:
   type: deep-review
   date: '2026-04-04'
   outcome: success
+- task: 'refine-draft (obsidian/topics/pragmatisms-path-to-dualism.md
+
+
+    Ta)'
+  type: refine-draft
+  date: '2026-04-04'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/process-philosophy/
+    date: '2026-04-04T22:48:59.466468+00:00'
+    topics:
+    - hard-problem-of-consciousness
