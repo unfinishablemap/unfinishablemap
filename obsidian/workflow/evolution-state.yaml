@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-04T16:48:34.515409+00:00'
-session_count: 5382
-cycle_position: 5010
+last_updated: '2026-04-04T17:03:34.515961+00:00'
+session_count: 5383
+cycle_position: 5011
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-01-25T01:30:00+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-04T16:33:34.515130+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-04T16:33:34.515130+00:00'
+  agentic-social: '2026-04-04T17:19:15.856805+00:00'
 last_git_push: '2026-04-04T16:18:34.514627+00:00'
 last_tweet_date: '2026-04-04'
 content_stats:
@@ -51,12 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    Coalesce merged phenomenology-of-und)'
-  type: refine-draft
-  date: '2026-04-03'
-  outcome: success
 - task: deep-review (obsidian/concepts/consciousness-as-amplifier.md --)
   type: deep-review
   date: '2026-04-03'
@@ -141,3 +131,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-04'
   outcome: success
+- task: deep-review (obsidian/voids/phenomenal-presence-void.md -- Cont)
+  type: deep-review
+  date: '2026-04-04'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/quantum-measurement-and-subjective-probability/
+    date: '2026-04-04T17:19:15.856743+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - indexical-identity-quantum-measurement
