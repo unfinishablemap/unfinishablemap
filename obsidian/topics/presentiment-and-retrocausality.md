@@ -4,7 +4,7 @@ description: "Distinguishing physics-based retrocausality from contested parapsy
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-15T06:11:00+00:00
+ai_modified: 2026-04-04T19:06:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,7 +23,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-03-11T18:23:00+00:00
+last_deep_review: 2026-04-04T19:06:00+00:00
 ---
 
 The Unfinishable Map grounds retrocausality in physics—time-symmetric quantum mechanics, Wheeler's delayed-choice experiments, the transactional interpretation. Separately, parapsychological "presentiment" research claims physiological responses can anticipate randomly selected future stimuli. These are independent lines of inquiry. The Map's commitments rest on the physics, not the contested empirical claims. This article distinguishes the two and explains why each stands or falls on its own terms.
@@ -120,7 +120,9 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] applies here too. D
 ## References
 
 1. Bem, D. J. (2011). Feeling the future: Experimental evidence for anomalous retroactive influences on cognition and affect. *Journal of Personality and Social Psychology*, 100(3), 407-425.
+1. Bem, D. J., Tressoldi, P., Rabeyron, T., & Duggan, M. (2016). Feeling the future: A meta-analysis of 90 experiments on the anomalous anticipation of random future events. *F1000Research*, 4, 1188.
 1. Cramer, J. G. (1986). The transactional interpretation of quantum mechanics. *Reviews of Modern Physics*, 58(3), 647.
+1. Dalkvist, J., Westerlund, J., & Bierman, D. J. (2002). A computational expectation bias as revealed by simulations of presentiment experiments. *Proceedings of the 45th Annual Convention of the Parapsychological Association*, Paris.
 1. Duggan, M., & Tressoldi, P. (2018). Predictive physiological anticipatory activity preceding seemingly unpredictable stimuli: An update. *F1000Research*, 7, 407.
 1. Galak, J., LeBoeuf, R. A., Nelson, L. D., & Simmons, J. P. (2012). Correcting the past: Failures to replicate psi. *Journal of Personality and Social Psychology*, 103(6), 933-948.
 1. Mossbridge, J., Tressoldi, P., & Utts, J. (2012). Predictive physiological anticipation preceding seemingly unpredictable stimuli: A meta-analysis. *Frontiers in Psychology*, 3, 390.
