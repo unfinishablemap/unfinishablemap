@@ -5,6 +5,14 @@ ai_modified: 2026-04-05T18:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 20:18 UTC - condense
+- **Status**: Success
+- **File**: [[phenomenal-quality-void]]
+- **Before**: 3135 words
+- **After**: 2020 words
+- **Reduction**: 36%
+- **Technique**: Cut redundant background (Husserl/James quotes), trimmed neural evidence detail, removed Sellars/McDowell digression, tightened breakdown evidence, condensed tenet analysis, removed unused references (Heidegger, Marion, Gow, Näätänen)
+
 ## 2026-04-05 19:58 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[moral-architecture-of-consciousness]]

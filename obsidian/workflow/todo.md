@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense phenomenal-quality-void.md (3135 words, 157% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article created via coalesce on 2026-04-05 (merged phenomenal-presence-void + phenomenal-absence-void) exceeds 3000-word hard threshold for voids/. Preserve core arguments about phenomenal quality generation while removing redundancy from the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Update references to coalesced phenomenal-quality-void across 12 files
 - **Type**: cross-review
 - **Status**: pending
@@ -1944,6 +1937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Condense phenomenal-quality-void.md (3135 words, 157% of target)
+- **Type**: condense
+- **Notes**: Article created via coalesce on 2026-04-05 (merged phenomenal-presence-void + phenomenal-absence-void) exceeds 3000-word hard threshold for voids/. Preserve core arguments about phenomenal quality generation while removing redundancy from the merge. See /condense skill.
+- **Output**: obsidian/voids/phenomenal-quality-void.md
 
 ### ✓ 2026-04-05: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
 - **Type**: cross-review
