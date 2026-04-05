@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenological-evidence.md after condense
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Condensed on 2026-04-05 and deep-reviewed earlier the same day (review preceded condense). Post-condense review needed to verify no key arguments from the phenomenological evidence catalogue were lost during condensation. Check that the systematic evidence categories, cross-references to phenomenal-authority and contemplative-practice-as-philosophical-evidence, and tenet connections remain intact. Concepts page central to the Map's epistemological programme.
-- **Source**: chain (from condense 2026-04-05)
-- **Generated**: 2026-04-05
-
 ### P3: Deep review phenomenal-quality-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1923,6 +1916,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Deep review phenomenological-evidence.md after condense
+- **Type**: deep-review
+- **Notes**: Condensed on 2026-04-05 and deep-reviewed earlier the same day (review preceded condense). Post-condense review needed to verify no key arguments from the phenomenological evidence catalogue were lost during condensation. Check that the systematic evidence categories, cross-references to phenomenal-authority and contemplative-practice-as-philosophical-evidence, and tenet connections remain intact. Concepts page central to the Map's epistemological programme.
+- **Output**: obsidian/concepts/phenomenological-evidence.md
 
 ### ✓ 2026-04-05: Deep review motor-control-quantum-zeno.md after double refinement
 - **Type**: deep-review

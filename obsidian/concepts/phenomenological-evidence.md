@@ -4,7 +4,7 @@ description: "First-person experience reports are genuine evidence for conscious
 created: 2026-02-01
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-05T19:02:00+00:00
+ai_modified: 2026-04-05T23:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-06
 last_curated:
-last_deep_review: 2026-04-05T19:02:00+00:00
+last_deep_review: 2026-04-05T23:27:00+00:00
 coalesced_from:
   - "/concepts/phenomenological-evidence/"
   - "/topics/phenomenological-evidence-methodology/"
