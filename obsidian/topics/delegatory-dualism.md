@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-04-05T22:42:00+00:00
+ai_modified: 2026-04-05T23:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated:
-last_deep_review: 2026-03-01T09:22:00+00:00
+last_deep_review: 2026-04-05T23:53:00+00:00
 ---
 
 Delegatory dualism is Bradford Saad's 2025 solution to the causal exclusion problem—the challenge of how consciousness can cause physical effects without overdetermining outcomes that already have sufficient physical causes. The core insight: physical brain states *delegate* their causal responsibilities to conscious experiences that share their causal profiles. When you wince from pain, the pain causes the wince by taking over causal work the physical state would otherwise perform. No overdetermination occurs because the physical state's contribution is preempted, not duplicated.
@@ -72,7 +72,7 @@ Saad defines an observable violation as "a violation of Closure that would be re
 
 ### 4. Upward Systematicity
 
-Fundamental psychophysical laws must determine which experiences accompany which physical states. The mind-body correlation cannot be arbitrary—there must be principled laws connecting physical organization to phenomenal character. This is Chalmers' "supervenience laws" applied as a constraint.
+Fundamental psychophysical laws must determine which experiences accompany which physical states. The mind-body correlation cannot be arbitrary—there must be principled laws connecting physical organization to phenomenal character. This echoes Chalmers' "supervenience laws," applied here as a design constraint.
 
 ### 5. Organizational Invariance
 
@@ -260,23 +260,3 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 1. Saad, B. (2020). An exclusion problem for epiphenomenalist dualism. *Thought*, 9(4), 247-256.
 1. Chalmers, D. J. (1996). *The Conscious Mind*. Oxford University Press.
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-
-<!-- AI REFINEMENT LOG - 2026-04-05
-Changes made:
-- Acknowledged structural disanalogy in preemption analogies (major/sergeant, assassin A/B are same-type; delegation is cross-ontological) with new paragraph
-- Reframed theoretical advantages as intra-dualist rather than universal; acknowledged physicalist and illusionist rival explanations
-- Acknowledged counterfactual nature of "default causal profiles" and zombie presupposition
-- Added exploratory/speculative caveat to Part II Map integration header
-- Qualified epiphenomenalism self-undermining claim with attribution to Saad
-- Qualified "experiments reveal nothing unusual" with "to date"
-- Qualified introspective reliability claim with "on a causal theory of reference"
-- Added physicalist alternative to phenomenal character tracking section
-- Strengthened illusionism section to acknowledge it as genuine rival rather than dismissing it
-- Fixed language: "crucial contribution" → "key distinction", "Here's the key move" → "The central mechanism", added "Saad argues" attribution
-- Updated ai_modified timestamp
-
-Based on pessimistic review (2026-04-05 evening).
-Key improvements: intellectual honesty about analogy limits, intra-dualist framing, rival acknowledgment.
-
-This log should be removed after human review.
--->

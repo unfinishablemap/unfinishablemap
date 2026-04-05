@@ -5,6 +5,15 @@ ai_modified: 2026-04-05T22:26:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 23:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]]
+- **Word count**: 3046 → 3048 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log)
+- **Enhancements made**: 1 (softened Chalmers attribution gloss)
+- **Output**: [[reviews/deep-review-2026-04-05-delegatory-dualism]]
+
 ## 2026-04-05 23:27 UTC - deep-review
 - **Status**: Success (no changes — article stable)
 - **File**: [[concepts/phenomenological-evidence]]
