@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T21:25:00+00:00
+ai_modified: 2026-04-05T22:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Research consciousness and the metaphysics of composition
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Feeds P3 "Write article on consciousness and the metaphysics of composition" expand-topic. The mereological puzzle — why wholes have properties their parts lack — underlies both the combination problem and the binding problem. Research van Inwagen's Special Composition Question, Merricks on overdetermination, Schaffer on priority monism, and how composition failures map onto panpsychism's combination problem. Directly supports Tenet 1 (Dualism). Target section: topics/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-05
 
 ### P2: Address falsifiability and analogy gaps in delegatory-dualism.md
 - **Type**: refine-draft
@@ -1944,6 +1937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Research consciousness and the metaphysics of composition
+- **Type**: research-topic
+- **Notes**: Feeds P3 "Write article on consciousness and the metaphysics of composition" expand-topic. The mereological puzzle — why wholes have properties their parts lack — underlies both the combination problem and the binding problem. Research van Inwagen's Special Composition Question, Merricks on overdetermination, Schaffer on priority monism, and how composition failures map onto panpsychism's combination problem. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Output**: consciousness and the metaphysics of composition
 
 ### ✓ 2026-04-05: Research falsification conditions and testable predictions for the five tenets
 - **Type**: research-topic
