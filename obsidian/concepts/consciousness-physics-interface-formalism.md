@@ -74,7 +74,7 @@ Together, these five constraints define what the [[mathematical-structure-of-the
 
 ## How Existing Frameworks Instantiate the Formalism
 
-Each major proposal specifies different subsets of the three components.
+Each major proposal specifies different subsets of the three components. This theoretical diversity raises the question of [[interface-heterogeneity]]—whether different conscious systems instantiate different versions of the coupling map C, rather than all sharing a single universal mechanism.
 
 **Von Neumann-Stapp** takes P as standard Hilbert space, leaves E implicit (attention is the mental variable but has no independent formal structure), and models C as increased observation rate (the quantum Zeno effect) — a form of [[coupling-modes|timing control]]. The coupling map is interpretational rather than mathematically specified — Process 1 is identified with conscious attention, but the transfer function from attention to observation rate has no derivation.
 

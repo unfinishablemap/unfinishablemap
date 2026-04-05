@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate interface-heterogeneity.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Concept page on the heterogeneity of the consciousness-physics interface. Add cross-references from related articles (mind-matter-interface, interface-locality-problem, interface-location-problem) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-05
-
 ### P2: Integrate the-reverse-inference.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1908,6 +1901,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page on the heterogeneity of the consciousness-physics interface. Add cross-references from related articles (mind-matter-interface, interface-locality-problem, interface-location-problem) or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/interface-heterogeneity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-05: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
 - **Type**: cross-review

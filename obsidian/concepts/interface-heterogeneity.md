@@ -4,7 +4,7 @@ description: "The possibility that different conscious systems couple with matte
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-23T09:08:00+00:00
+ai_modified: 2026-04-05T13:33:00+00:00
 draft: false
 topics:
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -24,12 +24,15 @@ related_articles:
   - "[[coupling-modes]]"
   - "[[observation-and-measurement-void]]"
   - "[[types-of-ai-phenomenal-experience]]"
+  - "[[consciousness-in-simple-organisms]]"
+  - "[[the-interface-location-problem]]"
+  - "[[comparing-quantum-consciousness-mechanisms]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-23T09:08:00+00:00
+last_deep_review: 2026-04-05T13:33:00+00:00
 ---
 
 Interface heterogeneity is the possibility that different conscious systems couple with matter through fundamentally different mechanisms. Where a homogeneous interface model assumes one universal coupling mechanism operating across all conscious organisms, interface heterogeneity holds that multiple distinct mechanisms may exist—just as flight evolved independently through feathers, membranes, and chitin, consciousness-matter coupling might take different physical forms in different systems. This concept is central to The Unfinishable Map's dualist framework, where consciousness is not produced by physical processes but interfaces with them.
@@ -119,6 +122,10 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 - [[coupling-modes]] — How consciousness modulates its physical coupling
 - [[degrees-of-consciousness]] — Whether consciousness varies in degree or kind across species
 - [[substrate-independence]] — Whether consciousness requires specific physical substrates
+- [[consciousness-in-simple-organisms]] — Whether minimal organisms couple through different mechanisms
+- [[the-interface-location-problem]] — Where consciousness meets the brain—constrained pluralism may itself vary across species
+- [[comparing-quantum-consciousness-mechanisms]] — Comparing candidate mechanisms whose diversity motivates heterogeneity
+- [[consciousness-interface-development]] — How interface configuration develops differently across species
 - [[observation-and-measurement-void]] — Why consciousness resists measurement—heterogeneous interfaces compound the problem
 
 ## References

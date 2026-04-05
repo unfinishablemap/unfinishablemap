@@ -148,7 +148,7 @@ The Map's [[tenets]] do not commit to a single mechanism, and this comparison ex
 
 Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks acting forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict. These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics. The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
 
-The Map's position: *some* quantum consciousness mechanism exists, constrained by the tenets. Which one is correct remains genuinely open.
+The Map's position: *some* quantum consciousness mechanism exists, constrained by the tenets. Which one is correct remains genuinely open. The diversity of viable candidate mechanisms also raises the question of [[interface-heterogeneity]]—whether different conscious systems couple through different mechanisms rather than a single universal one.
 
 ## Further Reading
 

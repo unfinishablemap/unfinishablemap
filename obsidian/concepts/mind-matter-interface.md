@@ -185,7 +185,7 @@ Together they explain:
 - Independence and interaction
 - Brain specificity without brain production
 
-This unified model is the Map's most complete answer to how consciousness relates to the physical world. It preserves dualism while explaining mind-brain correlation. It enables mental causation while respecting physical law. It treats consciousness as real, irreducible, and efficacious—exactly what the tenets require.
+This unified model is the Map's most complete answer to how consciousness relates to the physical world. It preserves dualism while explaining mind-brain correlation. It enables mental causation while respecting physical law. It treats consciousness as real, irreducible, and efficacious—exactly what the tenets require. Whether all conscious systems implement both layers identically—or whether different organisms couple through different mechanisms—remains the open question of [[interface-heterogeneity]].
 
 ## Further Reading
 

@@ -173,6 +173,8 @@ Constrained pluralism narrows the problem without solving it.
 
 **Whether the hierarchy is continuous.** The hierarchical model assumes that molecular-level quantum effects aggregate smoothly into network-level selection. There might instead be a sharp transition — a particular level at which consciousness acts, with other levels merely implementing the result.
 
+**Whether location varies across species.** If consciousness-brain coupling depends on attention-motor architecture, organisms with radically different architectures (cephalopods, arthropods) may host the interface at different locations—or through different mechanisms entirely. The constrained pluralism established here for humans may not generalise. [[interface-heterogeneity|Interface heterogeneity]] explores this possibility.
+
 ## What Would Falsify the Framework
 
 The interface location problem is resolvable because it makes testable predictions. If systematic experimental investigation rules out quantum effects at microtubules, ion channels, cortical columns, and attention networks — finding either that decoherence eliminates quantum indeterminacy at these sites or that disrupting them doesn't affect conscious influence — the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] framework would face serious difficulty.
