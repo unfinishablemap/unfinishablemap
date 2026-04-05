@@ -68,11 +68,11 @@ All six adversarial personas applied. No new philosophical issues beyond those i
 ### Enhancements Made
 1. Drew explicit hyperreflexivity/choking parallel connecting clinical phenomenology to performance science — the key insight from the phenomenological-psychiatry context
 2. Condensed Illusionist Challenge section removing redundancy with choking section
-3. Added [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) to Further Reading and frontmatter
+3. Added [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) to Further Reading and frontmatter
 4. Added Sass & Parnas (2003) and Fuchs (2005) to References
 
 ### Cross-links Added
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) (Further Reading and frontmatter)
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) (Further Reading and frontmatter)
 - [](#choking-under-pressure) (internal section link from Phenomenological Roots)
 
 ## Remaining Items

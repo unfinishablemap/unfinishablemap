@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Clinical Phenomenology as Philosophical Evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+**Article**: [Clinical Phenomenology as Philosophical Evidence](/topics/clinical-phenomenology-and-altered-experience/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

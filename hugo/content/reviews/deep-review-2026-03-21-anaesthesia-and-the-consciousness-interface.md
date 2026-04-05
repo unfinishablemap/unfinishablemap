@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-21
 **Article**: [Anaesthesia and the Consciousness Interface](/topics/anaesthesia-and-the-consciousness-interface/)
 **Previous review**: [2026-02-23](/reviews/deep-review-2026-02-23-anaesthesia-and-the-consciousness-interface/)
-**Cross-review context**: Reviewed alongside [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) and [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/), considering clinical phenomenology evidence.
+**Cross-review context**: Reviewed alongside [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) and [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/), considering clinical phenomenology evidence.
 
 ## Pessimistic Analysis Summary
 
@@ -51,7 +51,7 @@ None. The article remains well-structured with accurate source attribution and g
 
 ### Cross-links Added
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) (related_articles, body text, Further Reading)
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) (related_articles, body text, Further Reading)
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/) (related_articles, body text, Further Reading)
 
 ## Remaining Items
 

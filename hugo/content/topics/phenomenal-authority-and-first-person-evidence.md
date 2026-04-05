@@ -49,7 +49,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[knowledge-argument]]'
 - '[[argument-from-reason]]'
-- '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenal-concepts-as-materialist-response]]'
@@ -215,7 +215,7 @@ Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neu
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When and how first-person reports constitute evidence
 - [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Why phenomenological evidence standards are irreducible to naturalist criteria
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The distinctive modal profile of phenomenal properties
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — First-person reports as clinical evidence
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — First-person reports as clinical evidence
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as validation
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — The mutual constraint framework validating trained introspection
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The broader case for taking non-materialist theories seriously

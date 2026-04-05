@@ -134,7 +134,7 @@ The methodological choice is not neutral with respect to the mind-body problem. 
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's deflationary methodology
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — First-person reports as clinical evidence
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/) — First-person reports as clinical evidence
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as validation
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — How evaluative qualia ground phenomenal normativity
 - [argument-from-reason](/topics/argument-from-reason/) — The broader case against epiphenomenalism

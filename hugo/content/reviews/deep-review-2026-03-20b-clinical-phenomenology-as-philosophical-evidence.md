@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Clinical Phenomenology as Philosophical Evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+**Article**: [Clinical Phenomenology as Philosophical Evidence](/topics/clinical-phenomenology-and-altered-experience/)
 **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-clinical-phenomenology-as-philosophical-evidence/) (earlier today)
 
 ## Pessimistic Analysis Summary
@@ -49,7 +49,7 @@ No new counterarguments identified beyond those already addressed in the earlier
 ### Cross-links Added (FROM other articles TO this one)
 
 **Frontmatter + Further Reading links added to:**
-1. [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — closest sibling article; also added body-text link in Relation to Site Perspective
+1. [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — closest sibling article; also added body-text link in Relation to Site Perspective
 2. [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — frontmatter + Further Reading
 3. [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — frontmatter + Further Reading + body-text link in Composite Picture section
 4. [disorders-of-consciousness-as-test-cases](/topics/consciousness-disruption-and-the-mind-brain-interface/) — frontmatter + Further Reading

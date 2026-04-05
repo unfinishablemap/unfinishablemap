@@ -28,7 +28,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 - '[[intersubjective-void]]'
 - '[[consciousness-and-social-understanding]]'
-- '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[tenets]]'
 title: Consciousness and the Phenomenology of Translation
@@ -90,7 +90,7 @@ The untranslatable remainder matters philosophically because it reveals the rela
 
 This does not reduce consciousness to language. Rather, it shows that *in the domain of linguistically structured thought*, consciousness and language are entangled in ways that resist clean separation. The translator's experience of the remainder is evidence that meaning is not information in the computational sense but something closer to an act — an event requiring a conscious subject situated in a particular linguistic world.
 
-The remainder also exhibits the [double grounding](/topics/clinical-phenomenology-as-philosophical-evidence/) that gives clinical phenomenology its evidential force. The translator's subjective report of phenomenal loss — the felt inadequacy of any rendering of *saudade* — is corroborated by an observable outcome: readers of the translation systematically miss dimensions of meaning that readers of the original grasp. First-person report and third-person observation converge on the same conclusion. Translation thus functions as a non-pathological analogue of the selective disruptions that clinical conditions perform on consciousness: it stress-tests the consciousness-language interface under controlled conditions, revealing architectural joints that ordinary monolingual experience leaves invisible.
+The remainder also exhibits the [double grounding](/topics/clinical-phenomenology-and-altered-experience/) that gives clinical phenomenology its evidential force. The translator's subjective report of phenomenal loss — the felt inadequacy of any rendering of *saudade* — is corroborated by an observable outcome: readers of the translation systematically miss dimensions of meaning that readers of the original grasp. First-person report and third-person observation converge on the same conclusion. Translation thus functions as a non-pathological analogue of the selective disruptions that clinical conditions perform on consciousness: it stress-tests the consciousness-language interface under controlled conditions, revealing architectural joints that ordinary monolingual experience leaves invisible.
 
 ## Translation and the Intersubjective Void
 
@@ -132,7 +132,7 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — How consciousness constitutes semantic grasp
 - [intersubjective-void](/voids/intersubjective-void/) — The gap between minds that translation attempts to bridge
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Phenomenal engagement with other minds
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How disruptions of experience reveal consciousness architecture
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How disruptions of experience reveal consciousness architecture
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between doing and undergoing
 
 ## References

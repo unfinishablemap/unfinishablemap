@@ -164,7 +164,7 @@ How consciousness science treats phenomenal authority determines what it can dis
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's deflationary methodology
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When and how first-person reports constitute evidence
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — The distinctive modal profile of phenomenal properties
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — First-person reports as clinical evidence
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/) — First-person reports as clinical evidence
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as validation
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — The broader case for taking non-materialist theories seriously
 - [illusionism](/concepts/illusionism/) — The strongest denial of phenomenal consciousness

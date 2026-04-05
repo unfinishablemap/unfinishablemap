@@ -53,12 +53,12 @@ All six adversarial personas applied. No new counterarguments beyond those addre
 
 ### Enhancements Made
 - Added phenomenological psychiatry paragraph in Empirical Anomalies: psychiatric conditions reveal structural alterations (ipseity, temporality, embodiment) that resist neurochemical explanation, extending the empirical case beyond pharmacological altered states
-- Added [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) to frontmatter related_articles
+- Added [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) to frontmatter related_articles
 - Added phenomenological-psychiatry-and-altered-experience entry to Further Reading section
 - Compensatory prose tightening in three locations: filter model sentence, perception list in Explanatory Gap, substrate independence section
 
 ### Cross-links Added
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) (related_articles frontmatter, body text in Empirical Anomalies section, Further Reading)
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) (related_articles frontmatter, body text in Empirical Anomalies section, Further Reading)
 
 ## Word Count
 

@@ -60,7 +60,7 @@ None. The article has been through three prior reviews and is structurally stabl
 
 ### Cross-links Added
 
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
 
 ## Word Count
 

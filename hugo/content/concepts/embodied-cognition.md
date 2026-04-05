@@ -33,7 +33,7 @@ related_articles:
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[embodied-consciousness-and-the-interface]]'
-- '[[phenomenological-psychiatry-and-altered-experience]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
@@ -63,7 +63,7 @@ Embodied cognition rests on several interconnected claims:
 
 ## Phenomenological Roots
 
-Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the nexus where consciousness and world interpenetrate. [Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) extends this analysis clinically: Fuchs shows that in schizophrenia the lived body's transparency breaks down—the person becomes a "disembodied mind," with normally tacit bodily processes surfacing as alien objects of attention (what Sass and Parnas term *hyperreflexivity*). In depression the opposite occurs through *corporealization*: the body becomes oppressively present. These opposite disruptions reveal the normally invisible mind-body interface. Hyperreflexivity is the pathological counterpart of the [choking phenomenon](#choking-under-pressure)—the same transparency-shattering dynamic that degrades expert performance.
+Embodied cognition draws heavily on [phenomenology](/concepts/phenomenology/). Merleau-Ponty's analysis of the "lived body" is foundational. The body is neither mere matter (an object among objects) nor pure mind (a thinking substance). It is the nexus where consciousness and world interpenetrate. [Clinical phenomenology](/topics/clinical-phenomenology-and-altered-experience/) extends this analysis clinically: Fuchs shows that in schizophrenia the lived body's transparency breaks down—the person becomes a "disembodied mind," with normally tacit bodily processes surfacing as alien objects of attention (what Sass and Parnas term *hyperreflexivity*). In depression the opposite occurs through *corporealization*: the body becomes oppressively present. These opposite disruptions reveal the normally invisible mind-body interface. Hyperreflexivity is the pathological counterpart of the [choking phenomenon](#choking-under-pressure)—the same transparency-shattering dynamic that degrades expert performance.
 
 Consider bodily skill. An expert typist doesn't consciously locate keys—the hands "know" where they are. A pianist's fingers find notes through acquired habit, not explicit representation. Merleau-Ponty calls this "motor intentionality": bodily knowledge that is meaningful but not intellectually represented.
 
@@ -197,7 +197,7 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognition, illuminating the Dreyfus progression
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt distinction between absorbed action and deliberate control
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding embodied cognition
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — Clinical evidence that disrupted embodiment reveals consciousness's structural architecture
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Clinical evidence that disrupted embodiment reveals consciousness's structural architecture
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The filter theory that can accommodate embodiment
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern underlying embodied expertise
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence

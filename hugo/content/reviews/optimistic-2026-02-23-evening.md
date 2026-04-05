@@ -121,7 +121,7 @@ The Map's consistent intellectual honesty—the AI exception in the epiphenomena
 - **Tenet alignment**: Directly addresses a classical objection to Dualism (Tenet 1); connects to Bidirectional Interaction (if consciousness makes physical differences, we can detect its presence through effects)
 
 #### Contemplative Pathology and Interface Malfunction
-- **Builds on**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/), disorders-of-consciousness, [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+- **Builds on**: [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/), disorders-of-consciousness, [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
 - **Would address**: Meditation can produce dissociation, depersonalisation, and adverse effects. What happens when the consciousness-body interface malfunctions through contemplative practice? The "dark night" phenomenon, Willoughby Britton's research on adverse meditation effects, and contemplative-induced depersonalisation all provide evidence about the interface model from its failure modes—failures that the Map should address to maintain credibility.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Tests Minimal Quantum Interaction (Tenet 2) and Bidirectional Interaction (Tenet 3) through failure cases rather than success cases

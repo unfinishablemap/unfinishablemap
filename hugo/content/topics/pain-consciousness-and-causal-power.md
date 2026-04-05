@@ -56,7 +56,7 @@ related_articles:
 - '[[ethics-of-consciousness]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[valence-and-conscious-selection]]'
-- '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 title: Pain, Consciousness, and Causal Power
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -198,7 +198,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — The same dual-domain dissociation pattern in proprioception and spatial imagination
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Other neurological test cases for consciousness theories
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — How asymbolia evidence bears on whether valence enters the selection mechanism
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Asymbolia within the broader framework of clinical evidence for dualism
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Asymbolia within the broader framework of clinical evidence for dualism
 - [Valence and Conscious Selection](/topics/valence-and-conscious-selection/) — How valence may function as the common evaluative metric for conscious selection
 - [supervenience](/concepts/supervenience/) — Why the Map accepts phenomenal-physical covariance but rejects the reductive conclusions drawn from it
 

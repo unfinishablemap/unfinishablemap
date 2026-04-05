@@ -56,7 +56,7 @@ None. All attributions verified (Zahavi, Heidegger, Billon, Ciaunica, Gallagher,
 Inbound links added from 8 articles:
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — body text (Ownership as Primitive section) + Further Reading + related_articles
 - [self-and-consciousness](/concepts/self-and-self-consciousness/) — Further Reading + related_articles
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — body text (DPD mineness bullet) + Further Reading + related_articles
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — body text (DPD mineness bullet) + Further Reading + related_articles
 - [existentialism](/concepts/existentialism/) — body text (Jemeinigkeit paragraph) + Further Reading + related_articles
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — body text (Ownership Without Agency section) + Further Reading + related_articles
 - [the-unobservable-self](/voids/self-reference-paradox/) — Further Reading + related_articles

@@ -1,13 +1,96 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-03-30 03:18:00+00:00
+ai_modified: 2026-04-04 23:18:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-04'
+date: '2026-04-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-05 00:33 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
+- **Word count**: 2277 → 2395 (+118)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to testimony, recursion, language-thought-boundary)
+- **Enhancements made**: 3 (inline cross-links strengthening connections to related articles)
+- **Output**: [deep-review-2026-04-05-philosophy-of-language-under-dualism](/reviews/deep-review-2026-04-05-philosophy-of-language-under-dualism/)
+
+## 2026-04-05 00:18 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 1800 → 1855 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Fodor reference, SEP citation, Chalmers in-text citation, Rosenthal citation)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-05-biological-computationalisms-inadvertent-case-for-dualism](/reviews/deep-review-2026-04-05-biological-computationalisms-inadvertent-case-for-dualism/)
+
+## 2026-04-05 00:03 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: voids (100/100), concepts (224/230)
+- **Pairs evaluated**: 5 (affective/valence void, biological-closure/embodiment-limits, other-minds/intersubjective, consciousness/types-of-consciousness, ai-consciousness-modes/types-of-ai-phenomenal-experience)
+- **Result**: All pairs well-differentiated with explicit distinction sections; no merge warranted
+
+## 2026-04-04 23:48 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/)
+- **Word count**: 2284 → 2289 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (overclaim about dualism's explanatory scope)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-04b-pragmatism-and-qbism](/reviews/deep-review-2026-04-04b-pragmatism-and-qbism/)
+
+## 2026-04-04 23:33 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/)
+- **Word count**: 2213 → 2284 (+71)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (opening attribution scope, Wheeler quote chain, missing Tenet 3, Healey thermostat argument)
+- **Enhancements made**: 4 (clarified Map/QBism framing, Wheeler via Fuchs, Bidirectional Interaction paragraph, charitable Healey response)
+- **Output**: [deep-review-2026-04-04-pragmatism-and-qbism](/reviews/deep-review-2026-04-04-pragmatism-and-qbism/)
+
+## 2026-04-04 23:18 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 1586 → 1800 (+214)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing No Many Worlds tenet, ACD tension unaddressed, missing cross-links, unlinked IIT/GWT)
+- **Enhancements made**: 6 (No Many Worlds paragraph, ACD non-computability argument, philosophy of biology cross-ref, IIT/GWT/qualia/explanatory-gap links, expanded Further Reading)
+- **Output**: [deep-review-2026-04-04-biological-computationalisms-inadvertent-case-for-dualism](/reviews/deep-review-2026-04-04-biological-computationalisms-inadvertent-case-for-dualism/)
+
+## 2026-04-04 23:03 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
+- **Word count**: 2536 → 2548 (+12)
+- **Critical issues addressed**: 1 (description length)
+- **Medium issues addressed**: 3 (qualifier calibration, research note removal, missing cross-link)
+- **Enhancements made**: 1 (methodology cross-link)
+- **Site-wide reference updates**: 22 files updated from old coalesced slugs
+- **Output**: [deep-review-2026-04-04-clinical-phenomenology-and-altered-experience](/reviews/deep-review-2026-04-04-clinical-phenomenology-and-altered-experience/)
+
+## 2026-04-04 22:49 UTC - coalesce
+- **Status**: Success
+- **Sources**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/), [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
+- **Target**: [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)
+- **Archived**: archive/topics/clinical-phenomenology-as-philosophical-evidence.md, archive/topics/phenomenological-psychiatry-and-altered-experience.md
+- **References to review**: ~25 files across active content
+
+## 2026-04-04 22:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Changes**: Deepened Dewey engagement (reflex arc, consciousness→experience shift, phenomenal inquiry), cross-linked pragmatism-and-qbism article, added Dewey 1896 reference
+- **Published**: yes
+
+## 2026-04-04 22:27 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
+- **Word count**: 2170 → 2277 (+107)
+- **Critical issues addressed**: 1 (citation venue correction)
+- **Medium issues addressed**: 1 (neural categorisation alternative)
+- **Enhancements made**: 3 (symbol-grounding cross-link, 2 Further Reading links)
+- **Output**: [deep-review-2026-04-04-philosophy-of-language-under-dualism](/reviews/deep-review-2026-04-04-philosophy-of-language-under-dualism/)
 
 ## 2026-04-04 22:03 UTC - expand-topic
 - **Status**: Success

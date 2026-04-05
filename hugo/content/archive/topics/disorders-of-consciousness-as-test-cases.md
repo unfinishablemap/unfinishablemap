@@ -145,7 +145,7 @@ The Unfinishable Map's [tenets](/tenets/) converge on DoC cases as among the mos
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that DoC cases illuminate
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia and pain's inseparable phenomenal-causal character as a test case
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Another classic dissociation case that challenges simple unity
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — The epistemic framework for how clinical cases generate philosophical evidence
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/) — The epistemic framework for how clinical cases generate philosophical evidence
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity — the gradation DoC cases reveal
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a parallel case of reversible consciousness disruption
 

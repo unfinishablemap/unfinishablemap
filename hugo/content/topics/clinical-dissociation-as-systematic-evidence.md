@@ -31,7 +31,7 @@ related_articles:
 - '[[altered-states-as-interface-evidence]]'
 - '[[fragmented-consciousness]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
-- '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 title: Clinical Dissociation as Systematic Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -131,7 +131,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological disruption of cortical integration and the interface model
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — The paradigm bilateral disconnection case
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Affective channel dissociation through neurological damage
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — The broader epistemic framework for clinical evidence in philosophy of mind
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — The broader epistemic framework for clinical evidence in philosophy of mind
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practices produce interface disruption
 
 ## References

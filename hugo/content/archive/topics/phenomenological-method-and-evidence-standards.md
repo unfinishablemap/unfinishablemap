@@ -132,7 +132,7 @@ The Map's [tenets](/tenets/) connect to phenomenological evidence standards at m
 - [heterophenomenology](/concepts/heterophenomenology/)
 - [introspection](/concepts/introspection/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — How clinical disruptions apply phenomenological evidence standards through instruments like the EASE
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/) — How clinical disruptions apply phenomenological evidence standards through instruments like the EASE
 - [phenomenology-of-epistemic-cognition](/topics/phenomenology-of-intellectual-life/) — What evaluating evidence feels like from the inside, revealing the bootstrap structure of all epistemology
 
 ## References

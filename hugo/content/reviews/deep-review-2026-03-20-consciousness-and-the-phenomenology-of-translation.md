@@ -27,7 +27,7 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 
 ### Medium Issues Found
 - **Missing connection to clinical phenomenology evidence base**: The article treated translation phenomenology as standalone evidence but didn't connect to the Map's developed clinical phenomenology framework (double grounding, selective disruption, convergence). Translation is a non-pathological analogue of the selective disruptions clinical conditions perform. **Resolution**: Added a paragraph in "The Remainder as Evidence" connecting the untranslatable remainder to the double grounding pattern — subjective report of phenomenal loss corroborated by observable translation quality failures.
-- **Missing cross-links to clinical phenomenology cluster**: The article linked to language/meaning articles but not to the phenomenological evidence articles sharing its argumentative strategy. **Resolution**: Added cross-links to [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) and [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) in frontmatter and Further Reading.
+- **Missing cross-links to clinical phenomenology cluster**: The article linked to language/meaning articles but not to the phenomenological evidence articles sharing its argumentative strategy. **Resolution**: Added cross-links to [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/) and [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) in frontmatter and Further Reading.
 - **Relation to Site Perspective omitted No Many Worlds tenet**: The translator's irreducibly indexical situation — being *this* subject positioned between *these* two linguistic worlds — naturally supports the rejection of Many Worlds. **Resolution**: Added a paragraph connecting translation's indexicality to the No Many Worlds tenet.
 
 ### Counterarguments Considered
@@ -49,7 +49,7 @@ None. No factual errors, misattributions, internal contradictions, or missing re
 - Added cross-links to clinical phenomenology cluster
 
 ### Cross-links Added
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 
 ## Remaining Items

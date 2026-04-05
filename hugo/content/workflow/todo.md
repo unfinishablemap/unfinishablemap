@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-04 01:39:00+00:00
+ai_modified: 2026-04-04 22:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review philosophy-of-language-under-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/consciousness-and-language-under-dualism-2026-04-04.md, never reviewed. Topics article on how dualism reshapes philosophy of language — meaning, reference, and communication when consciousness is non-physical. Verify accuracy of Wittgenstein, Kripke, and Davidson characterisations, coherence, cross-references to private-language-argument and consciousness-and-language-interface, and tenet alignment.
+- **Source**: chain (from topics/philosophy-of-language-under-dualism.md)
+- **Generated**: 2026-04-04
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -423,10 +429,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-03-21
 - **Output**: obsidian/topics/consciousness-and-intersubjectivity.md
 
-### P3: Deep review clinical-phenomenology-as-philosophical-evidence.md
+### ✓ P3: Deep review clinical-phenomenology-as-philosophical-evidence.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-20 via expand-topic, never reviewed. Topics article on clinical phenomenological data as philosophical evidence for consciousness theories. Verify accuracy of clinical claims, coherence of the evidential argument, cross-references to anaesthesia-and-the-consciousness-interface and contemplative-practice-as-philosophical-evidence, and tenet alignment.
+- **Status**: done
+- **Notes**: Article was coalesced into clinical-phenomenology-and-altered-experience.md on 2026-04-04. Deep review completed on the coalesced article.
 - **Source**: staleness
 - **Generated**: 2026-03-21
 
@@ -1870,6 +1876,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review philosophy-of-language-under-dualism.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/philosophy-of-language-under-dualism.md created 2026-04-04. Review against topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-understanding-and-meaning.md, concepts/private-language-argument.md, and topics/consciousness-and-language-interface.md for consistency, cross-linking, and whether language-under-dualism arguments reinforce or tension with existing content.
+- **Output**: obsidian/topics/philosophy-of-language-under-dualism.md -- Context: Cross-review philosophy-of-language-under-dualism.md against related articles
+
+### ✓ 2026-04-05: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md, never reviewed. Topics article arguing that biological computationalism's emphasis on substrate-specificity inadvertently supports dualist conclusions. Verify accuracy of Milinkovic-Aru et al. characterisation, coherence of the inadvertent-dualism argument, cross-references to functionalism and consciousness-as-amplifier, and tenet alignment (Tenet 1).
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
+
+### ✓ 2026-04-04: Deep review pragmatism-and-qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md, never reviewed. Topics article connecting pragmatist epistemology with QBism's agent-centred quantum interpretation under dualism. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-dualism bridge argument, cross-references to concepts/qbism.md and concepts/pragmatism.md, and tenet alignment (especially Tenets 2 and 4).
+- **Output**: obsidian/topics/pragmatism-and-qbism.md
+
+### ✓ 2026-04-04: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Review against topics/functionalism.md, topics/experimental-consciousness-science-2025-2026.md, concepts/consciousness-as-amplifier.md, and topics/comparing-quantum-consciousness-mechanisms.md for consistency, cross-linking, and whether biological computationalism arguments strengthen or tension with existing content. Directly supports Tenet 1 (Dualism).
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md -- Context: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against related articles
+
+### ✓ 2026-04-04: Update references to coalesced clinical phenomenology articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/clinical-phenomenology-and-altered-experience.md from topics/clinical-phenomenology-as-philosophical-evidence.md and topics/phenomenological-psychiatry-and-altered-experience.md. The following files reference archived articles and need wikilinks updated: phenomenal-authority-and-first-person-evidence.md, phenomenology-of-agency-vs-passivity.md, contemplative-practice-as-philosophical-evidence.md, clinical-dissociation-as-systematic-evidence.md, neurological-dissociations-as-interface-architecture.md, phenomenological-method-and-evidence-standards.md, anaesthesia-and-the-consciousness-interface.md, consciousness-disruption-and-the-mind-brain-interface.md, consciousness-and-the-phenomenology-of-translation.md, pain-consciousness-and-causal-power.md, altered-states-of-consciousness.md, self-and-self-consciousness.md, introspection.md, embodied-cognition.md, phenomenology.md, hard-problem-of-consciousness.md, contemplative-pathology-and-interface-malfunction.md, consciousness-and-the-ownership-problem.md, attention-disorders-and-consciousness.md, the-self-minimal-narrative-and-substantial.md, identity-across-transformations.md, attention-and-consciousness.md
+- **Output**: None -- Context: Update references to coalesced clinical phenomenology articles
+
+### ✓ 2026-04-04: Refine pragmatisms-path-to-dualism.md integrating pragmatist philosophy of mind research
+- **Type**: refine-draft
+- **Notes**: Research in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist philosophy of mind scope beyond what pragmatisms-path-to-dualism.md currently addresses. Integrate findings to strengthen the article's engagement with Dewey, James, and Peirce on mind-body questions. The new pragmatism-and-qbism.md article provides additional cross-linking opportunities.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+Task context:
+Research in research/pragmatist-philosophy-of-mind-2026-03-28.md covers broader pragmatist philosophy of mind scope beyond what pragmatisms-path-to-dualism.md currently addresses. Integrate findings to strengthen the article's engagement with Dewey, James, and Peirce on mind-body questions. The new pragmatism-and-qbism.md article provides additional cross-linking opportunities.
 
 ### ✓ 2026-04-04: Write article on philosophy of language under dualism
 - **Type**: expand-topic

@@ -108,7 +108,7 @@ The dualist response — the Map's response — preserves the distinction but ca
 
 ## The Phenomenological Kaleidoscope
 
-Different attention disorders fragment experience in characteristically different ways, suggesting that the structure of attention shapes the structure of conscious experience — or at least the structure of what can be reported about it. This connects to what [phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) identifies as alterations in the *form* rather than the *content* of experience.
+Different attention disorders fragment experience in characteristically different ways, suggesting that the structure of attention shapes the structure of conscious experience — or at least the structure of what can be reported about it. This connects to what [phenomenological psychiatry](/topics/clinical-phenomenology-and-altered-experience/) identifies as alterations in the *form* rather than the *content* of experience.
 
 | Disorder | Attentional Pattern | Phenomenological Report |
 |----------|-------------------|----------------------|
@@ -140,7 +140,7 @@ The Map acknowledges this void honestly. Attention disorders reveal boundaries i
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unknowable territories
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping where and how cognition fails
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person access
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How mental illness reveals the structure of experience
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How mental illness reveals the structure of experience
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Progressive interface erosion as a parallel case
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) — Moral implications when attentional capacity varies
 

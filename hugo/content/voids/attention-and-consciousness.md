@@ -35,14 +35,14 @@ related_articles:
 - '[[structure-of-attention]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[three-kinds-of-void]]'
-- '[[phenomenological-psychiatry-and-altered-experience]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 - '[[compound-failure-signatures]]'
 - '[[consciousness-and-neurodegenerative-disease]]'
 - '[[responsibility-gradient-from-attentional-capacity]]'
 title: Attention and the Voids of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[phenomenological-psychiatry-and-altered-experience]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 ---
 
 Attention creates voids as a structural necessity, not as a contingent failure. To attend to anything is to render something else unattendable — not merely unattended, but actively excluded by the operation of attending itself. When attention is then *disordered*, these structural voids become epistemologically impenetrable: we cannot distinguish a consciousness that is different from one that merely *acts* differently because its interface is impaired. Together, the normal and pathological cases reveal that attention is both the mechanism by which consciousness accesses anything and the source of its deepest blind spots.
@@ -143,7 +143,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unknowable territories
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Whether artificial minds can probe human-specific voids
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How mental illness reveals the structure of experience
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How mental illness reveals the structure of experience
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Progressive interface erosion as a parallel case
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping where and how cognition fails
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) — Moral implications when attentional capacity varies

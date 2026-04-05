@@ -35,7 +35,7 @@ related_articles:
 - '[[qualia]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[phenomenological-psychiatry-and-altered-experience]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 title: Altered States of Consciousness
 topics:
@@ -43,7 +43,7 @@ topics:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 ---
 
-Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, [terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/), and [psychiatric conditions](/topics/phenomenological-psychiatry-and-altered-experience/) like depersonalization and schizophrenia—unified by [qualitative](/concepts/qualia/) deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [filter theory](/concepts/filter-theory/) interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) at sleep onset illustrates real-time filter loosening before the interface narrows into NREM. Where these states involve temporary reconfiguration, [cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) would constitute deliberate, permanent modification—raising ethical questions about identity and agency.
+Altered states of consciousness (ASCs) constitute a diverse family of experiences—psychedelics, anesthesia, meditation, hypnosis, flow states, dreaming, near-death experiences, [terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/), and [psychiatric conditions](/topics/clinical-phenomenology-and-altered-experience/) like depersonalization and schizophrenia—unified by [qualitative](/concepts/qualia/) deviation from baseline waking consciousness. For dualism, ASCs are particularly revealing: they demonstrate that consciousness operates in multiple modes with distinct phenomenal qualities, suggesting the brain-consciousness interface has configurable settings rather than being a simple on/off producer. The [filter theory](/concepts/filter-theory/) interprets each ASC as a different configuration of the filtering mechanism—some states *loosen* the filter (psychedelics, mystical experiences), others *narrow* it (anesthesia, deep sleep), still others *reconfigure* it (meditation, flow). The [hypnagogic transition](/topics/hypnagogic-phenomenology-and-interface-modulation/) at sleep onset illustrates real-time filter loosening before the interface narrows into NREM. Where these states involve temporary reconfiguration, [cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) would constitute deliberate, permanent modification—raising ethical questions about identity and agency.
 
 ## Defining Altered States
 
@@ -107,7 +107,7 @@ Cessation events illuminate filter theory directly. Unlike anesthesia (where con
 
 ### Psychiatric Conditions
 
-[Phenomenological psychiatry](/topics/phenomenological-psychiatry-and-altered-experience/) reveals that conditions like schizophrenia, depression, and depersonalization are not merely illnesses but altered states that disrupt the *form* of experience rather than just its content. A depressed person doesn't simply feel sad about things—the temporal horizon of the future closes, making hope structurally impossible. A person with schizophrenia doesn't just hold unusual beliefs—the pre-reflective sense that experiences belong to a self (*ipseity*) fractures at its foundation.
+[Clinical phenomenology](/topics/clinical-phenomenology-and-altered-experience/) reveals that conditions like schizophrenia, depression, and depersonalization are not merely illnesses but altered states that disrupt the *form* of experience rather than just its content. A depressed person doesn't simply feel sad about things—the temporal horizon of the future closes, making hope structurally impossible. A person with schizophrenia doesn't just hold unusual beliefs—the pre-reflective sense that experiences belong to a self (*ipseity*) fractures at its foundation.
 
 This form/content distinction strengthens the filter theory interpretation. Where psychedelics and meditation alter *what* passes through the filter, psychiatric conditions alter *how the filtering itself works*. Thomas Fuchs's observation that schizophrenia and depression disrupt embodiment in opposite directions—disembodied detachment versus oppressive corporealization—suggests the consciousness-body interface can be mistuned in multiple ways, a pattern more consistent with an adjustable interface than with simple identity between mind and brain. Depersonalization is particularly revealing: experiences lose their sense of belonging to anyone while perception continues unchanged, demonstrating that ownership, reality, and temporal presence are separable architectural features of consciousness rather than a unified neural product.
 
@@ -174,7 +174,7 @@ The filter theory provides a unified framework: ASCs reveal different configurat
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Does the interface vary across states and species?
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — How anaesthetic agents reconfigure the consciousness interface
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Contemplative practices as evidence for irreducible consciousness
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — How psychiatric conditions reveal the hidden architecture of consciousness
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How psychiatric conditions reveal the hidden architecture of consciousness
 - [death-and-consciousness](/topics/death-and-consciousness/) — Death-related altered states: deathbed visions, terminal lucidity, and nearing death awareness
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: systematic comparison of five altered states mapping the multi-channel interface architecture
 

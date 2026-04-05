@@ -26,7 +26,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
-- '[[clinical-phenomenology-as-philosophical-evidence]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 title: Phenomenological Method and Evidence Standards
 topics:
@@ -116,7 +116,7 @@ The Unfinishable Map's framework depends on taking phenomenological evidence ser
 - [phenomenology](/concepts/phenomenology/) — The philosophical method in its historical development
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person alternative and its limitations
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — How contemplative training strengthens phenomenological evidence
-- [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/) — Clinical settings as a source of phenomenological data
+- [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Clinical settings as a source of phenomenological data
 
 ## References
 

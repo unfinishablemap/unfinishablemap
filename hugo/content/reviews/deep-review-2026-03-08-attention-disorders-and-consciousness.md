@@ -61,10 +61,10 @@ topics: []
 - [introspection](/concepts/introspection/) — Further Reading
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — Further Reading
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — body text (new paragraph in "Between the Categories")
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — Further Reading
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Further Reading
 
 ### Cross-links Added (outbound)
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) — body text + Further Reading
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — body text + Further Reading
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Further Reading
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) — Further Reading
 

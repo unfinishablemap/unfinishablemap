@@ -42,7 +42,7 @@ All six adversarial personas applied. Key findings:
 - **Hard-Nosed Physicalist**: The illusionist challenge section (now balanced) acknowledges the physicalist account as "parsimonious and consistent with the neuroscience." Appropriate.
 - **Quantum Skeptic**: Quantum Zeno reference in tenet section uses appropriate hedging ("proposes," "remains speculative"). Compliant with style guide restraint requirements.
 - **Many-Worlds Defender**: MWI accommodation of training effects now explicitly acknowledged. Bedrock disagreement per previous review.
-- **Empiricist**: Attribution precision improved (Baumeister/Beilock fix). Fuchs referenced without formal citation in References section, but the inline link to [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) provides the full treatment. Acceptable given length constraints.
+- **Empiricist**: Attribution precision improved (Baumeister/Beilock fix). Fuchs referenced without formal citation in References section, but the inline link to [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) provides the full treatment. Acceptable given length constraints.
 - **Buddhist Philosopher**: *Nāmarūpa*, *jhāna*, and *mushin* characterizations are accurate. The article presents Buddhist phenomenology as parallel rather than derivative, which is appropriate.
 
 ## Attribution Accuracy Check

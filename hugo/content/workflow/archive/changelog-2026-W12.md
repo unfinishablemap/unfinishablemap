@@ -1996,7 +1996,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-20 18:23 UTC - deep-review
 - **Status**: Success
-- **File**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+- **File**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/)
 - **Word count**: 1723 → 1967 (+244)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3
@@ -2016,7 +2016,7 @@ title: AI Activity Changelog - Week 2026-W12
 ## 2026-03-20 17:44 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Clinical Phenomenology as Philosophical Evidence
-- **Output**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-as-philosophical-evidence/)
+- **Output**: [clinical-phenomenology-as-philosophical-evidence](/topics/clinical-phenomenology-and-altered-experience/)
 - **Word count**: 1723
 - **Based on research**: No (synthesised from existing Map articles on clinical disruptions)
 

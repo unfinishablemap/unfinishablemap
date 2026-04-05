@@ -104,7 +104,7 @@ Filter theory's explanatory scope is also its vulnerability—every pattern of c
 
 ## Altered States: Transformation Without Loss
 
-[Altered states](/concepts/altered-states-of-consciousness/) reveal that consciousness can transform dramatically while indexical identity persists. Under psychedelics, ego boundaries dissolve; ordinary sense of self fragments; entirely new modes of experience emerge. [Psychiatric conditions](/topics/phenomenological-psychiatry-and-altered-experience/) alter not just the *content* of experience but its very *form*—a depressed person's temporal horizon closes; a person with depersonalisation loses the sense that experiences belong to anyone while perception continues unchanged.
+[Altered states](/concepts/altered-states-of-consciousness/) reveal that consciousness can transform dramatically while indexical identity persists. Under psychedelics, ego boundaries dissolve; ordinary sense of self fragments; entirely new modes of experience emerge. [Psychiatric conditions](/topics/clinical-phenomenology-and-altered-experience/) alter not just the *content* of experience but its very *form*—a depressed person's temporal horizon closes; a person with depersonalisation loses the sense that experiences belong to anyone while perception continues unchanged.
 
 Yet through all these transformations, something persists as the subject. The meditator who reports ego dissolution is still *that* meditator reporting—the one who entered the state and will exit it.
 

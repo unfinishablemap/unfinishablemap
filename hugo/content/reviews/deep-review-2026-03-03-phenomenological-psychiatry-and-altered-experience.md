@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-03
-**Article**: [Phenomenological Psychiatry and Altered Experience](/topics/phenomenological-psychiatry-and-altered-experience/)
+**Article**: [Phenomenological Psychiatry and Altered Experience](/topics/clinical-phenomenology-and-altered-experience/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-phenomenological-psychiatry-and-altered-experience/) (applied to a different version; article was completely rewritten on 2026-03-03)
 
 ## Pessimistic Analysis Summary

@@ -72,7 +72,7 @@ None.
 - Added Sass & Parnas (2003) and Parnas et al. (2005) to References
 
 ### Cross-links Added
-- [phenomenological-psychiatry-and-altered-experience](/topics/phenomenological-psychiatry-and-altered-experience/) (Further Reading + frontmatter)
+- [phenomenological-psychiatry-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) (Further Reading + frontmatter)
 
 ## Word Count
 - Before: 2334 words (78% of 3000 threshold)
