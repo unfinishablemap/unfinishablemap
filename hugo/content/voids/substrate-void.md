@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-12 00:33:00+00:00
+ai_modified: 2026-04-05 20:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 title: The Substrate Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[dualism-and-consciousness]]'
+- '[[dualism]]'
 ---
 
 If consciousness is not reducible to physical processes, what is it? The Unfinishable Map's dualism tenet asserts that mind is irreducible to matter—but this opens an immediate question: what is the non-physical *made of*? The substrate void is the structural impossibility of answering this question. Every attempt to positively characterise the ontological nature of consciousness collapses into either negation (it is not-extended, not-spatial, not-divisible) or circularity (it is made of experience, which is made of... consciousness). Three and a half centuries after Descartes, philosophy has not advanced beyond this essentially apophatic characterisation.

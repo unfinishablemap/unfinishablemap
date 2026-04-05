@@ -9,6 +9,56 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-05 21:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Changes**: Sharpened falsifiability claim with specific paradigm/effect size/sample size; strengthened decoherence timing gap to acknowledge 6-order gap after Hagan revision; rewrote No Many Worlds section to engage Everettian decoherence-branching response
+- **Published**: yes
+
+## 2026-04-05 20:55 UTC - refine-draft
+- **Status**: Success
+- **Files**: initiation-void, substrate-void, phenomenal-authority-and-first-person-evidence, resolution-void, self-transcendence-void, cognitive-phenomenology
+- **Changes**: Fixed 7 broken wikilinks across 6 files — corrected targets to existing pages
+- **Published**: yes
+
+## 2026-04-05 20:40 UTC - deep-review
+- **Status**: Success
+- **File**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Word count**: 2332 → 2319 (-13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (description omitted Eastern philosophy; 6 uncited references)
+- **Enhancements made**: 4 (description update, Kierkegaard mention, Dennett/Frankish attribution, reference cleanup)
+- **Output**: [deep-review-2026-04-05-nihilism-and-existentialism](/reviews/deep-review-2026-04-05-nihilism-and-existentialism/)
+
+## 2026-04-05 20:26 UTC - deep-review (reference update)
+- **Status**: Success
+- **Task**: Update references to coalesced phenomenal-quality-void across 12 files
+- **Files modified**: phenomenology.md, resonance-void.md, convergence-as-evidence.md, whether-real.md, tenet-generated-voids.md, obviousness-void.md, voids.md, thrownness-void.md, necessary-opacity.md, spontaneous-thought-void.md, the-surplus-void.md, taxonomy-of-voids.md
+- **Changes**: Updated all wikilinks from phenomenal-presence-void → phenomenal-quality-void (frontmatter related_articles and inline body references). Updated display text from "The Phenomenal Presence Void" to "The Phenomenal Quality Void".
+- **References updated**: 26 total (12 frontmatter + 14 body/further-reading)
+
+## 2026-04-05 20:18 UTC - condense
+- **Status**: Success
+- **File**: [phenomenal-quality-void](/voids/phenomenal-quality-void/)
+- **Before**: 3135 words
+- **After**: 2020 words
+- **Reduction**: 36%
+- **Technique**: Cut redundant background (Husserl/James quotes), trimmed neural evidence detail, removed Sellars/McDowell digression, tightened breakdown evidence, condensed tenet analysis, removed unused references (Heidegger, Marion, Gow, Näätänen)
+
+## 2026-04-05 19:58 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/)
+- **Changed sources**: 2 (phenomenology-of-moral-life, valence-and-conscious-selection)
+- **Word count**: 3409 → 3647
+- **Review**: [apex-evolve-2026-04-05-moral-architecture-of-consciousness](/reviews/apex-evolve-2026-04-05-moral-architecture-of-consciousness/)
+
+## 2026-04-05 19:53 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Fatigue Void — how cognitive fatigue systematically narrows consciousness, revealing phenomenal architecture through the order of degradation
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-fatigue-void-2026-04-05](/research/voids-fatigue-void-2026-04-05/)
+- **Key finding**: Consciousness degrades in a predictable hierarchy (attention → executive function → emotional regulation → creativity, with rule-following persisting longest), but the observer cannot witness this degradation because the monitoring faculties fail first — creating a structural blind spot where architecture is revealed only through its own collapse
+
 ## 2026-04-05 19:47 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)

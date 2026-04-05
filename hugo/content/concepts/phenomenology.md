@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-28 17:49:00+00:00
+ai_modified: 2026-04-05 20:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -54,7 +54,7 @@ Phenomenology begins with the *epoché*—a methodological suspension of assumpt
 
 The epoché reveals that consciousness is never empty. It is always consciousness *of* something—directed toward objects, meanings, or states of affairs. This directedness is [intentionality](/concepts/intentionality/), which Husserl's teacher Franz Brentano identified as "the mark of the mental."
 
-The *phenomenological reduction* extends the epoché, revealing how subjectivity constitutes the world as meaningful. When I perceive a table, I don't receive raw sensory data; I experience a unified, meaningful object. The reduction discloses how consciousness actively synthesizes this unity from the flow of experience—a [constitutive contribution](/topics/constitutive-exclusion/) that cannot be subtracted to reveal a "pre-conscious" reality. The [phenomenal presence void](/voids/phenomenal-quality-void/) names the structural limit this reveals: investigating how experience acquires its immediate "thereness" must itself operate within givenness, creating a circularity that over a century of phenomenological work has confirmed rather than resolved.
+The *phenomenological reduction* extends the epoché, revealing how subjectivity constitutes the world as meaningful. When I perceive a table, I don't receive raw sensory data; I experience a unified, meaningful object. The reduction discloses how consciousness actively synthesizes this unity from the flow of experience—a [constitutive contribution](/topics/constitutive-exclusion/) that cannot be subtracted to reveal a "pre-conscious" reality. The [phenomenal quality void](/voids/phenomenal-quality-void/) names the structural limit this reveals: investigating how experience acquires its immediate "thereness" must itself operate within givenness, creating a circularity that over a century of phenomenological work has confirmed rather than resolved.
 
 ## The Major Figures
 

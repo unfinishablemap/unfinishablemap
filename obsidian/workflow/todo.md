@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T20:05:00+00:00
+ai_modified: 2026-04-05T21:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced by 10 articles via wikilinks but has no dedicated page. Directly supports Tenet 5 (Occam's Razor Has Limits). The Map argues simplicity is unreliable with incomplete knowledge — this concept page should formalise the epistemological argument, distinguish from mere complexity preference, and connect to adaptive-cognitive-limits and parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230, 5 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
+
+### P2: Research falsification conditions and testable predictions for the five tenets
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Feeds P3 "Write falsification roadmap for the interface model" expand-topic. Research specific falsification conditions: decoherence solving measurement problem (Tenet 2), causal closure demonstrated at quantum scales (Tenet 3), uniform anaesthetic profiles at controlled metabolic levels (Tenet 1), deriving Born rule from non-observer premises (Tenet 2). Distinguish genuinely testable predictions from unfalsifiable metaphysics. Critical for site credibility.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
+
+### P2: Research consciousness and the metaphysics of composition
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Feeds P3 "Write article on consciousness and the metaphysics of composition" expand-topic. The mereological puzzle — why wholes have properties their parts lack — underlies both the combination problem and the binding problem. Research van Inwagen's Special Composition Question, Merricks on overdetermination, Schaffer on priority monism, and how composition failures map onto panpsychism's combination problem. Directly supports Tenet 1 (Dualism). Target section: topics/.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
+
+### P2: Deep review motor-control-quantum-zeno.md after double refinement
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Refined twice on 2026-04-05 — first addressing unfalsifiability and Quantum Zeno overemphasis, then restructuring to reduce Zeno centrality. Two significant revisions in one session warrant verification that the article maintains coherent argumentation, that decoherence gaps identified in the first refinement were addressed in the second, and that the reduced Zeno focus still supports the core motor-selection argument. Cross-check against consciousness-selecting-neural-patterns and voluntary-action.
+- **Source**: chain (from refine-draft 2026-04-05)
+- **Generated**: 2026-04-05
+
+### P2: Deep review phenomenological-evidence.md after condense
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Condensed on 2026-04-05 and deep-reviewed earlier the same day (review preceded condense). Post-condense review needed to verify no key arguments from the phenomenological evidence catalogue were lost during condensation. Check that the systematic evidence categories, cross-references to phenomenal-authority and contemplative-practice-as-philosophical-evidence, and tenet connections remain intact. Concepts page central to the Map's epistemological programme.
+- **Source**: chain (from condense 2026-04-05)
+- **Generated**: 2026-04-05
 
 ### P3: Deep review phenomenal-quality-void.md
 - **Type**: deep-review

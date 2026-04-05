@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-01 12:38:00+00:00
+ai_modified: 2026-04-05 20:26:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-21 10:55:00+00:00
 apex_sources:
@@ -43,7 +43,7 @@ related_articles:
 - '[[apex-articles]]'
 - '[[convergence-as-evidence]]'
 - '[[resonance-void]]'
-- '[[phenomenal-presence-void]]'
+- '[[phenomenal-quality-void]]'
 - '[[initiation-void]]'
 - '[[thrownness-void]]'
 title: A Taxonomy of Voids
@@ -83,7 +83,7 @@ These voids are not independent. They reinforce each other, creating what the Ma
 
 ### The Phenomenological Cluster
 
-A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [substrate void](/voids/substrate-void/) pursues what consciousness is *made of*, finding that every answer collapses into negation or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [phenomenal presence void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated.
+A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [substrate void](/voids/substrate-void/) pursues what consciousness is *made of*, finding that every answer collapses into negation or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated.
 
 These voids share a feature: they concern aspects of consciousness so fundamental that they are invisible in ordinary experience. As the [phenomenology of the edge](/voids/phenomenology-of-the-edge/) reveals, approaching these limits produces not confusion but a paradoxical clarity—the sense of understanding something too large for words. Contemplative traditions across cultures converge on this phenomenology, suggesting it reflects something about consciousness at its boundaries rather than artefacts of any particular practice.
 

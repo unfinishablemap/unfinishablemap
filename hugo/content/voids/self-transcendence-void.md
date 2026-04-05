@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-26 14:03:00+00:00
+ai_modified: 2026-04-05 20:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,8 +31,8 @@ related_articles:
 - '[[ethics-of-cognitive-enhancement-under-dualism]]'
 title: The Self-Transcendence Void
 topics:
-- '[[consciousness-and-cognition]]'
-- '[[cognitive-science-and-consciousness]]'
+- '[[consciousness-and-intelligence]]'
+- '[[cognitive-science-of-dualism]]'
 ---
 
 Can consciousness upgrade itself? The self-transcendence void concerns a structural impossibility: the instrument of cognitive improvement is the very instrument that needs improving. Like Baron Munchausen pulling himself from a swamp by his own hair, consciousness attempting to bootstrap beyond its own architecture lacks any platform outside itself from which to lever. Multiple independent traditions—Western analytic philosophy, formal logic, contemplative practice, and neuroscience—converge on this limit, suggesting it is genuine rather than contingent.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-04-05 17:47:00+00:00
+ai_modified: 2026-04-05 20:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 title: The Initiation Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[free-will-and-determinism]]'
+- '[[free-will]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[philosophy-of-mind]]'
 ---

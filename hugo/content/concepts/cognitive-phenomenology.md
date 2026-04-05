@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-05 15:32:00+00:00
+ai_modified: 2026-04-05 20:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ last_deep_review: 2026-03-28 12:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[cognitive-phenomenology-thinking-experience-2026-01-16]]'
+- '[[cognitive-phenomenology-thinking-experience-2026-01-17]]'
 - '[[pragmatisms-path-to-dualism]]'
 - '[[pragmatism]]'
 - '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-03-11 22:04:00+00:00
+ai_modified: 2026-04-05 20:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 title: The Resolution Void
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-information]]'
+- '[[consciousness-and-integrated-information]]'
 ---
 
 Consciousness encounters reality through an extraordinarily narrow aperture. Sensory systems deliver roughly eleven million bits per second to the brain, yet conscious thought processes approximately ten — a compression ratio of one to one million. This is The Unfinishable Map's resolution void: the gap between what the brain handles and what consciousness accesses. The void is not a contingent imperfection awaiting correction through sharper attention or better training. It operates across spatial, temporal, informational, and discriminatory dimensions simultaneously, and at least some of these limits appear architectural rather than incidental. Within the [voids](/voids/) framework, the resolution void is primarily **unexplorable** — consciousness cannot perceive at a finer grain than its own resolution permits — with an **unexplored** dimension in the informational domain where researchers continue mapping the compression mechanisms.

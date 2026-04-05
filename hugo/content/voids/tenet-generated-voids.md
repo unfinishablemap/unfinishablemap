@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-02-27 04:46:00+00:00
+ai_modified: 2026-04-05 20:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[binding-void]]'
 - '[[substrate-void]]'
 - '[[the-surplus-void]]'
-- '[[phenomenal-presence-void]]'
+- '[[phenomenal-quality-void]]'
 - '[[dissolution-problem]]'
 title: Tenet-Generated Voids
 topics: []
@@ -174,7 +174,7 @@ The framework-generated-voids analysis would be undermined if:
 - [The Binding Void](/voids/binding-void/) — Why phenomenal unity resists explanation entirely
 - [The Substrate Void](/voids/substrate-void/) — What consciousness is made of (the Nature Void in depth)
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers more than function requires
-- [The Phenomenal Presence Void](/voids/phenomenal-quality-void/) — Why experience presents as immediately given
+- [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why experience presents as immediately given
 - [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 

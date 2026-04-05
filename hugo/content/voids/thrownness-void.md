@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-04-05 18:32:00+00:00
+ai_modified: 2026-04-05 20:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -72,7 +72,7 @@ The thrownness void has a distinctive temporal structure that distinguishes it f
 
 The thrownness void is unusual among the Map's [voids](/voids/) because it is not typically experienced as a limit. Most people do not feel the absence of pre-existential choice as a deprivation.
 
-**Seamless presence.** Consciousness presents itself as simply being there — always already running, like a programme with no visible boot sequence. This seamless quality is precisely how the void maintains its invisibility. The [phenomenal presence void](/voids/phenomenal-quality-void/) documents a related phenomenon: the felt immediacy of experience hides its own mechanisms.
+**Seamless presence.** Consciousness presents itself as simply being there — always already running, like a programme with no visible boot sequence. This seamless quality is precisely how the void maintains its invisibility. The [phenomenal quality void](/voids/phenomenal-quality-void/) documents a related phenomenon: the felt immediacy of experience hides its own mechanisms.
 
 **Existential vertigo.** When the void does become phenomenally present — in philosophical reflection, in existential crisis, in the disorientation of the small hours — it manifests as vertigo: the sudden recognition that none of this was chosen, that the entire structure of one's conscious life rests on conditions that were simply imposed. Heidegger calls this *Angst*; Sartre calls it *nausée*; Levinas calls it the horror of the il y a.
 

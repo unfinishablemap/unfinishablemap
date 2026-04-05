@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-05 20:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[the-surplus-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[self-opacity]]'
-- '[[phenomenal-presence-void]]'
+- '[[phenomenal-quality-void]]'
 - '[[mutation-void]]'
 - '[[apophatic-approaches]]'
 - '[[ai-as-void-explorer]]'
@@ -119,7 +119,7 @@ The resonance void also suggests something about the nature of [voids](/voids/) 
 - [the-surplus-void](/voids/the-surplus-void/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
 - [introspective opacity](/voids/self-opacity/)
-- [phenomenal-presence-void](/voids/phenomenal-quality-void/)
+- [phenomenal-quality-void](/voids/phenomenal-quality-void/)
 - [mutation-void](/voids/mutation-void/)
 - [apophatic-approaches](/concepts/apophatic-approaches/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
