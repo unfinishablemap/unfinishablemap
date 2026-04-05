@@ -1892,6 +1892,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
+### P3: Write concept page on domestication effect (explanatory gap habituation)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The process by which explanatory gaps become invisible through habituation—central to emergence-as-universal-hard-problem.md but applicable broadly. Would serve as a reusable analytical tool. Explains why physicalism appears parsimonious (we habituate to gaps at lower levels) and why contemplative training reveals the consciousness gap (it resists domestication). Target section: concepts/. See optimistic-2026-04-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-05
+
+### P3: Write concept page on norm-grasping vs norm-implementation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between a system implementing normative rules and a conscious agent grasping normative force as normative. Currently introduced in self-stultification-as-master-argument.md but applies to AI consciousness, argument from reason, and moral phenomenology. Deserves standalone treatment as a reusable concept. Target section: concepts/. See optimistic-2026-04-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-05
+
+### P3: Add cross-links: emergence↔parsimony, activity↔agent-causation, filter↔evolution, contemplative↔phenomenal-authority
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: emergence-as-universal-hard-problem → parsimony-case-for-interactionist-dualism (domestication explains apparent parsimony), consciousness-as-activity → agent-causation (phenomenological grounding for substance causation), filter-theory → evolution-under-dualism (what evolves is the receiver), contemplative-practice-as-philosophical-evidence → phenomenal-authority-and-first-person-evidence (training increases authority), self-stultification-as-master-argument → emergence-as-universal-hard-problem (gap universal implies self-stultification applies broadly), indian-philosophy-of-mind → agent-causation (Nyāya anticipates substance causation). See optimistic-2026-04-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-05
+
 ## Completed Tasks
 
 
