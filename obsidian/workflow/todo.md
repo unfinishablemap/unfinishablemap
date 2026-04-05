@@ -58,6 +58,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-04-05
 
+### P2: Address falsifiability and analogy gaps in delegatory-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-05 evening) found two high-severity issues: (1) the preemption analogies have structural disanalogies (same-type vs cross-ontological) that aren't acknowledged, (2) the "theoretical advantages" are presented as uncontested when physicalists and illusionists offer rival explanations. Also: reframe advantages as intra-dualist rather than universal; acknowledge counterfactual nature of "default causal profiles." See pessimistic-2026-04-05-evening.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-05
+
 ### P2: Deep review motor-control-quantum-zeno.md after double refinement
 - **Type**: deep-review
 - **Status**: pending
