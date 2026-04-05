@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epistemological-limits-of-occams-razor
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced by 10 articles via wikilinks but has no dedicated page. Directly supports Tenet 5 (Occam's Razor Has Limits). The Map argues simplicity is unreliable with incomplete knowledge — this concept page should formalise the epistemological argument, distinguish from mere complexity preference, and connect to adaptive-cognitive-limits and parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230, 5 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Research falsification conditions and testable predictions for the five tenets
 - **Type**: research-topic
 - **Status**: pending
@@ -1958,6 +1951,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced by 10 articles via wikilinks but has no dedicated page. Directly supports Tenet 5 (Occam's Razor Has Limits). The Map argues simplicity is unreliable with incomplete knowledge — this concept page should formalise the epistemological argument, distinguish from mere complexity preference, and connect to adaptive-cognitive-limits and parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230, 5 slots remaining).
+- **Output**: Create concept page for epistemological-limits-of-occams-razor
 
 ### ✓ 2026-04-05: Address unfalsifiability and Quantum Zeno overemphasis in motor-control-quantum-zeno.md
 - **Type**: refine-draft
