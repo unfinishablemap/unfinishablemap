@@ -5,6 +5,16 @@ ai_modified: 2026-04-05T11:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 12:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/anoetic-noetic-autonoetic-consciousness]]
+- **Word count**: 2264 → 2267 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (corrected "non-reflective qualia" attribution from Tulving to Vandekerckhove & Panksepp, added inline citations for previously uncited references)
+- **Enhancements made**: 2
+- **Output**: [[reviews/deep-review-2026-04-05-anoetic-noetic-autonoetic-consciousness]]
+- **Notes**: Fifth review. Article confirmed fully stable — no critical issues across any review. Changes limited to attribution correction and citation hygiene.
+
 ## 2026-04-05 12:42 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/the-convergence-argument-for-dualism]]
