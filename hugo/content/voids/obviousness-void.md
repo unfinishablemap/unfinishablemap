@@ -105,7 +105,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [Cognitive Aversion](/voids/defended-territory/) — Thoughts we systematically flee
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — The cognitive bias behind Occam's Razor
 - [Defended Territory](/voids/defended-territory/) — Whether some thoughts are actively blocked
-- [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why immediacy hides its own mechanisms
+- [The Phenomenal Presence Void](/voids/phenomenal-quality-void/) — Why immediacy hides its own mechanisms
 
 ## References
 

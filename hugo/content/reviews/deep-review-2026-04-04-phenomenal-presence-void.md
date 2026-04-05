@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-04-04
-**Article**: [The Phenomenal Presence Void](/voids/phenomenal-presence-void/)
+**Article**: [The Phenomenal Presence Void](/voids/phenomenal-quality-void/)
 **Previous review**: [2026-03-30](/reviews/deep-review-2026-03-30-phenomenal-presence-void/)
-**Cross-review context**: [The Phenomenal Absence Void](/voids/phenomenal-absence-void/)
+**Cross-review context**: [The Phenomenal Absence Void](/voids/phenomenal-quality-void/)
 
 ## Pessimistic Analysis Summary
 
@@ -50,7 +50,7 @@ No new counterarguments beyond those addressed in the 2026-03-30 review. All six
 - Tightened "The Passivity of Receiving" section (Heidegger/Marion paragraphs) to partially offset additions
 
 ### Cross-links Added
-- [phenomenal-absence-void](/voids/phenomenal-absence-void/) (related_articles, body, Further Reading)
+- [phenomenal-absence-void](/voids/phenomenal-quality-void/) (related_articles, body, Further Reading)
 
 ## Remaining Items
 

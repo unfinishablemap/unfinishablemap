@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-05 15:32:00+00:00
+ai_modified: 2026-04-05 19:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ description: First-person reports carry layered epistemic authority — apodicti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 15:32:00+00:00
+last_deep_review: 2026-04-05 19:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -85,7 +85,7 @@ A purely third-person neuroscience cannot escape this dependence. Every contrast
 
 ## The Phenomenological Method
 
-[Phenomenological method](/topics/phenomenal-authority-and-first-person-evidence/) is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
+[Phenomenological method](/concepts/phenomenology/) is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
 
 These operations require training and sustained practice. [Phenomenological evidence](/concepts/phenomenological-evidence/) becomes more reliable as methodological discipline increases — [introspective accuracy](/concepts/introspection/) follows a skill-acquisition curve where trained observers reliably outperform untrained ones (Fox et al. 2012), and [contemplative practice](/topics/contemplative-practice-as-philosophical-evidence/) produces convergent findings across independent traditions.
 

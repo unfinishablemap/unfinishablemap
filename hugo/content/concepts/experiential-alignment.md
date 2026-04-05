@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-05 18:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: AI should target experiential quality, not preference satisfaction.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 16:41:00+00:00
+last_deep_review: 2026-04-05 18:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ Eight dimensions of conscious experience form the target space:
 | Understanding depth | The phenomenology of grasping something true | [0, 1] |
 | Temporal experience | How time feels—flow, duration, presence | [0, 1] |
 
-These dimensions are not exhaustive. They represent a working hypothesis about what matters experientially, drawn from well-being research, [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/), and the Map's framework.
+These dimensions are not exhaustive. They represent a working hypothesis about what matters experientially, drawn from well-being research, [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/), and The Unfinishable Map's framework.
 
 ### Constraint Conditions
 
@@ -281,5 +281,6 @@ The task of specifying experiential targets is itself part of the inquiry that A
 6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 7. Fox, K.C.R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS ONE*, 7(9), e45370.
 8. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-9. Tallis, R. (2014). "The mystery of existence: why is there something rather than nothing?" In *Aping Mankind*. Routledge.
+9. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 10. Kahneman, D. & Deaton, A. (2010). "High income improves evaluation of life but not emotional well-being." *PNAS*, 107(38), 16489-16493.
+11. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.

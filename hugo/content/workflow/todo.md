@@ -38,34 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-absence-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04, never deep-reviewed. Voids article on the impossibility of experiencing the absence of experience. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (sleep-consciousness-void, death-void, phenomenal-presence-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-05
-
-### P2: Deep review thrownness-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-01 from research/voids-thrownness-void-2026-03-30.md, never deep-reviewed. Voids article on Heidegger's thrownness as a cognitive limit. Verify coherence, accuracy of Heidegger characterisation, cross-references to related void articles (initiation-void, ownership-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-05
-
-### P2: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-05 merged convergent-phenomenological-evidence into phenomenological-evidence. References updated in 4 files (problem-of-other-minds, buddhism-and-dualism, leibnizs-mill-argument, epistemology-of-convergence-arguments). Verify merged content is coherent, no redundancy introduced, and check whether additional articles should cross-reference the expanded concept page. Particularly check contemplative-practice-as-philosophical-evidence and phenomenal-authority-and-first-person-evidence for consistency with new content.
-- **Source**: chain (from coalesce 2026-04-05)
-- **Generated**: 2026-04-05
-
-### P2: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-05 absorbed phenomenological-method-and-evidence-standards into phenomenal-authority-and-first-person-evidence. Unique content integrated: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence. References updated in 3 files. Verify merged content is coherent, the methodology material integrates naturally with the authority argument, and check whether epistemology-of-first-person-evidence, methodology-of-consciousness-research, and contemplative-epistemology should cross-reference new material.
-- **Source**: chain (from coalesce 2026-04-05)
-- **Generated**: 2026-04-05
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1937,6 +1909,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-05 absorbed phenomenological-method-and-evidence-standards into phenomenal-authority-and-first-person-evidence. Unique content integrated: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence. References updated in 3 files. Verify merged content is coherent, the methodology material integrates naturally with the authority argument, and check whether epistemology-of-first-person-evidence, methodology-of-consciousness-research, and contemplative-epistemology should cross-reference new material.
+- **Output**: obsidian/topics/phenomenal-authority-and-first-person-evidence.md -- Context: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
+
+### ✓ 2026-04-05: Update references to coalesced phenomenal-presence-void and phenomenal-absence-void
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-05 merged phenomenal-presence-void and phenomenal-absence-void into phenomenal-quality-void. The following files reference the archived articles and need wikilinks updated: apex/taxonomy-of-voids.md, voids/obviousness-void.md, voids/tenet-generated-voids.md, voids/the-surplus-void.md, voids/whether-real.md, voids/convergence-as-evidence.md, voids/spontaneous-thought-void.md, voids/resonance-void.md, voids/necessary-opacity.md, voids/thrownness-void.md, voids/voids.md, concepts/phenomenology.md.
+- **Output**: None -- Context: Update references to coalesced phenomenal-presence-void and phenomenal-absence-void
+
+### ✓ 2026-04-05: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-05 merged convergent-phenomenological-evidence into phenomenological-evidence. References updated in 4 files (problem-of-other-minds, buddhism-and-dualism, leibnizs-mill-argument, epistemology-of-convergence-arguments). Verify merged content is coherent, no redundancy introduced, and check whether additional articles should cross-reference the expanded concept page. Particularly check contemplative-practice-as-philosophical-evidence and phenomenal-authority-and-first-person-evidence for consistency with new content.
+- **Output**: obsidian/concepts/phenomenological-evidence.md -- Context: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
+
+### ✓ 2026-04-05: Deep review thrownness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-01 from research/voids-thrownness-void-2026-03-30.md, never deep-reviewed. Voids article on Heidegger's thrownness as a cognitive limit. Verify coherence, accuracy of Heidegger characterisation, cross-references to related void articles (initiation-void, ownership-void), and tenet alignment.
+- **Output**: obsidian/voids/thrownness-void.md
+
+### ✓ 2026-04-05: Deep review phenomenal-absence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04, never deep-reviewed. Voids article on the impossibility of experiencing the absence of experience. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (sleep-consciousness-void, death-void, phenomenal-presence-void), and tenet alignment.
+- **Output**: obsidian/voids/phenomenal-absence-void.md
 
 ### ✓ 2026-04-05: Deep review initiation-void.md
 - **Type**: deep-review

@@ -58,7 +58,7 @@ None identified. The new material references published sources (Gendlin 1997, Ot
 
 ### Cross-links Added
 - [resonance-void](/voids/resonance-void/) (new, in phenomenological cluster and related_articles)
-- [phenomenal-presence-void](/voids/phenomenal-presence-void/) (new, in phenomenological cluster and related_articles)
+- [phenomenal-presence-void](/voids/phenomenal-quality-void/) (new, in phenomenological cluster and related_articles)
 - [mutation-void](/voids/mutation-void/) (new cross-reference in failure signatures section, contrasting dissolution vs. transformation)
 
 ## Remaining Items

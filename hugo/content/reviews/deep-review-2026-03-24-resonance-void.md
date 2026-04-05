@@ -56,7 +56,7 @@ topics: []
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Added in "Aesthetic absorption" subsection and Further Reading
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Added as mixed-type void example in "Between the Categories" section
 - [mutation-void](/voids/mutation-void/) — Added explicit link in "What Mutation Feels Like" section
-- [phenomenal-presence-void](/voids/phenomenal-presence-void/) — Added to Further Reading with Marion connection
+- [phenomenal-presence-void](/voids/phenomenal-quality-void/) — Added to Further Reading with Marion connection
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Added to Further Reading
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Added to Further Reading
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — Added inline link in Aesthetic Meaning section

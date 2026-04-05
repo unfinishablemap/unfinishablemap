@@ -147,7 +147,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence
 - [Introspective Opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms that produce them
 - [The Mutation Void](/voids/mutation-void/) — Thoughts that transform upon inspection, where attending changes the content
-- [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — Why experience's immediacy and felt realness hide their own mechanisms
+- [The Phenomenal Presence Void](/voids/phenomenal-quality-void/) — Why experience's immediacy and felt realness hide their own mechanisms
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements
 - [The Resonance Void](/voids/resonance-void/) — Why consciousness encounters meaning it cannot articulate or inspect

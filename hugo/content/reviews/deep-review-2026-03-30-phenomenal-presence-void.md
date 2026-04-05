@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-30
-**Article**: [The Phenomenal Presence Void](/voids/phenomenal-presence-void/)
+**Article**: [The Phenomenal Presence Void](/voids/phenomenal-quality-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-04-05 16:17:00+00:00
+ai_modified: 2026-04-05 19:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: First-person experience reports are genuine evidence for consciousn
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 01:22:00+00:00
+last_deep_review: 2026-04-05 19:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -156,7 +156,7 @@ The status of phenomenological evidence divides into two philosophical camps:
 
 **Neurophenomenological realism** (Varela, Thompson): Treats first-person reports, when gathered rigorously, as evidence about what subjects *actually* experience. Training and convergence transform reports from fallible impressions into genuine evidence about phenomenal reality.
 
-The Map endorses neurophenomenological realism. If [phenomenal properties](/concepts/qualia/) are real and irreducible (as the [Dualism tenet](/tenets/#dualism) holds), bracketing their existence systematically avoids the central question. The [zombie argument](/concepts/philosophical-zombies/) presses the point: if beings functionally identical to us but lacking experience are conceivable, functional explanation cannot exhaust what needs explaining. Heterophenomenology works well for studying beliefs *about* experience but is less suited for studying the [hard problem](/topics/hard-problem-of-consciousness/)—the qualitative character of experience itself.
+The Map endorses neurophenomenological realism. If [phenomenal properties](/concepts/qualia/) are real and irreducible (as the [Dualism tenet](/tenets/#dualism) holds), bracketing their existence systematically avoids the central question. The [zombie argument](/concepts/philosophical-zombies/) presses the point: if beings functionally identical to us but lacking experience are conceivable, functional explanation cannot exhaust what needs explaining. Moreover, heterophenomenology offers no account of *why* independent traditions converge on these specific beliefs with such structural detail — the [convergence pattern](#convergence) is data that any theory, including heterophenomenology, must explain. Heterophenomenology works well for studying beliefs *about* experience but is less suited for studying the [hard problem](/topics/hard-problem-of-consciousness/)—the qualitative character of experience itself.
 
 ## The Reliability Objection
 
@@ -188,7 +188,7 @@ These limitations counsel humility without invalidating phenomenological evidenc
 
 Phenomenological evidence directly supports the Map's [tenets](/tenets/):
 
-**[Dualism](/tenets/#dualism)**: The need for a distinct category of first-person evidence—irreducible to behavioural or neural data—reflects the irreducibility of consciousness itself. If phenomenal properties were identical to physical properties, third-person methods would suffice. The convergence on structural features — contentless awareness, constructed selfhood, subject-object dissolution — describes aspects of consciousness that resist functional or neural description. Theories reducing consciousness to information processing cannot explain why trained observers across traditions converge on features (contentlessness, absence of subject-object structure) that functional architectures do not predict.
+**[Dualism](/tenets/#dualism)**: The need for a distinct category of first-person evidence—irreducible to behavioural or neural data—reflects the irreducibility of consciousness itself. If phenomenal properties were identical to physical properties, third-person methods would suffice. The [cross-traditional convergence](#convergence) reinforces this: trained observers across independent traditions converge on features (contentless awareness, constructed selfhood, subject-object dissolution) that functional architectures do not predict.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: [Neurophenomenology's](/concepts/neurophenomenology-and-contemplative-neuroscience/) mutual constraint exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience validates phenomenological distinctions. Neither domain dominates; both contribute evidence. The [cross-cultural convergence on mental causation](/concepts/cross-cultural-convergence-on-mental-causation/) extends convergent phenomenological evidence beyond contemplative observation to causal efficacy — Indian, African, and Western traditions independently hold that consciousness is not merely passive but causally influences the physical world.
 

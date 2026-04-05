@@ -24,7 +24,7 @@ topics: []
 
 ### Critical Issues Found
 - **Unreferenced citations**: Chomsky (2014), McGinn (1989), and Frankish (2016) appeared in References but were never cited in the article text. All three now have explicit in-text citations.
-- **Broken internal reference**: "givenness void" (line 132) was used without wikilink and doesn't match any article name. Replaced with `[phenomenal presence void](/voids/phenomenal-presence-void/)`.
+- **Broken internal reference**: "givenness void" (line 132) was used without wikilink and doesn't match any article name. Replaced with `[phenomenal presence void](/voids/phenomenal-quality-void/)`.
 - **Chalmers citation unspecific**: The Chalmers categorical-mismatch argument lacked a specific citation. Added "(Chalmers 1995)" to the relevant passage.
 
 ### Medium Issues Found
@@ -57,7 +57,7 @@ topics: []
 - Fixed wikilink for phenomenal presence void
 
 ### Cross-links Added
-- [phenomenal-presence-void](/voids/phenomenal-presence-void/) (fixed broken reference)
+- [phenomenal-presence-void](/voids/phenomenal-quality-void/) (fixed broken reference)
 
 ## Remaining Items
 

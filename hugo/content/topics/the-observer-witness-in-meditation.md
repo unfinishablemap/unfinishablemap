@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-04-05 19:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: 'What meditation''s witness state reveals about consciousness: that
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 19:28:00+00:00
+last_deep_review: 2026-04-05 19:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,7 +29,7 @@ related_articles:
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
 title: The Observer-Witness in Meditation
 topics:
-- '[[topics/free-will]]'
+- '[[free-will]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[eastern-philosophy-consciousness]]'
 ---

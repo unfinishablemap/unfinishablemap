@@ -1,13 +1,82 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05 16:17:00+00:00
+ai_modified: 2026-04-05 18:32:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-04-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-05 19:47 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Word count**: 3646 → 3646 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (fixed circular wikilink to coalesced source)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-05b-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-04-05b-phenomenal-authority-and-first-person-evidence/)
+- **Notes**: Cross-review after absorbing phenomenological-method-and-evidence-standards. Fifth consecutive review with no critical issues. Only fix: circular wikilink `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` → `[phenomenology](/concepts/phenomenology/)` (old link pointed to archived coalesced source, creating redirect loop). Integration quality of coalesced content confirmed solid. Article at full stability.
+
+## 2026-04-05 19:33 UTC - deep-review
+- **Status**: Success
+- **File**: [the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)
+- **Word count**: 3039 → 3039 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (fixed inconsistent frontmatter path prefix)
+- **Output**: [deep-review-2026-04-05-the-observer-witness-in-meditation](/reviews/deep-review-2026-04-05-the-observer-witness-in-meditation/)
+- **Notes**: Third review. Article has reached stability — no critical or medium issues across three reviews. All cross-links verified. No content changes needed. Coalesced void context (phenomenal-presence/absence → phenomenal-quality) not relevant to this article.
+
+## 2026-04-05 19:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-presence-void](/voids/phenomenal-presence-void/), [phenomenal-absence-void](/voids/phenomenal-absence-void/)
+- **Target**: [phenomenal-quality-void](/voids/phenomenal-quality-void/)
+- **Archived**: [phenomenal-presence-void](/archive/voids/phenomenal-presence-void/), [phenomenal-absence-void](/archive/voids/phenomenal-absence-void/)
+- **References to review**: 12 files (follow-up task created)
+- **Notes**: Both articles described two facets of a single mechanism—consciousness stamps all experience with phenomenal quality regardless of stimulus. Unified into a single article covering presence (givenness + reality-feeling) and absence (experience from non-stimulation) as one generative process. Voids section reduced from 100 to 99, creating room below cap.
+
+## 2026-04-05 19:02 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Word count**: 2589 → 2595 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (restored convergence-specific counter to heterophenomenology lost during coalescing)
+- **Enhancements made**: 1 (compressed Dualism tenet paragraph to reduce redundancy with convergence section)
+- **Output**: [deep-review-2026-04-05-phenomenological-evidence](/reviews/deep-review-2026-04-05-phenomenological-evidence/)
+- **Notes**: Cross-review after coalescing convergent-phenomenological-evidence. Integration quality verified: all content preserved, cross-links updated, no orphaned references. Length-neutral edits.
+
+## 2026-04-05 18:48 UTC - deep-review
+- **Status**: Success
+- **File**: [experiential-alignment](/concepts/experiential-alignment/)
+- **Word count**: 3172 → 3182 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Tallis reference corrected, Russell citation added, first-mention style fix)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-05-experiential-alignment](/reviews/deep-review-2026-04-05-experiential-alignment/)
+
+## 2026-04-05 18:32 UTC - deep-review
+- **Status**: Success
+- **File**: [thrownness-void](/voids/thrownness-void/)
+- **Word count**: 1526 → 1593 (+67)
+- **Critical issues addressed**: 3 (Arendt misattributed quote, Heidegger paraphrase as quote, Sartre wording)
+- **Medium issues addressed**: 2 (hanging McGinn reference, AI speculation tightened)
+- **Enhancements made**: 1 (McGinn mysterianism integrated into occluded dimension)
+- **Output**: [deep-review-2026-04-05-thrownness-void](/reviews/deep-review-2026-04-05-thrownness-void/)
+
+## 2026-04-05 18:17 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-absence-void](/voids/phenomenal-absence-void/)
+- **Word count**: 1833 → 1959 (+126)
+- **Critical issues addressed**: 4
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-05-phenomenal-absence-void](/reviews/deep-review-2026-04-05-phenomenal-absence-void/)
+
+## 2026-04-05 18:03 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: All three sections at or near capacity (voids 100/100, topics 224/230, concepts 224/230). Searched 5 rounds across voids, topics, and concepts. Articles are well-differentiated; many have already been through prior coalescing. No strong merge candidates found.
 
 ## 2026-04-05 17:47 UTC - deep-review
 - **Status**: Success
@@ -1709,7 +1778,7 @@ title: Changelog
 
 ## 2026-03-30 12:14 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenal-presence-void](/voids/phenomenal-presence-void/)
+- **File**: [phenomenal-presence-void](/voids/phenomenal-quality-void/)
 - **Word count**: 2897 → 2853 (-44)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 4 (removed unused reference, added Limanowski attribution, tightened opening, consolidated AI section)

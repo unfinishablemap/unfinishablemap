@@ -112,7 +112,7 @@ The [compound-failure-signatures](/voids/compound-failure-signatures/) suggests 
 
 **Vertigo and groundlessness.** The first experience is typically a sense of groundlessness when one seriously entertains that *everything* one perceives might be systematically non-veridical. Not randomly wrong, but coherently misleading in ways one cannot detect. The ground does not disappear; one realises it may never have been ground.
 
-**The snap-back.** Almost immediately, the mind reasserts naive realism. One "sees" the desk, "feels" the chair, and the question seems academic. This snap-back is itself evidence for Metzinger's transparency mechanism—the system actively restoring its default mode of concealing itself as representation. The [phenomenal presence void](/voids/phenomenal-presence-void/) reveals an additional layer: every experience arrives stamped with a felt quality of realness that is itself produced by a hidden mechanism. Transparency conceals representation *as* representation; the reality-feeling stamps what remains with felt conviction.
+**The snap-back.** Almost immediately, the mind reasserts naive realism. One "sees" the desk, "feels" the chair, and the question seems academic. This snap-back is itself evidence for Metzinger's transparency mechanism—the system actively restoring its default mode of concealing itself as representation. The [phenomenal presence void](/voids/phenomenal-quality-void/) reveals an additional layer: every experience arrives stamped with a felt quality of realness that is itself produced by a hidden mechanism. Transparency conceals representation *as* representation; the reality-feeling stamps what remains with felt conviction.
 
 **The dissolving insight.** You approach understanding something about yourself. The insight seems to form—clear, significant, almost graspable. Then it collapses. Not fading gradually but disintegrating as you reach for it. The collapse may occur *because* you reach for it. Contemplatives across traditions report this pattern.
 
@@ -183,12 +183,12 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** suggests a speculative possibility. If consciousness's influence affects quantum probabilities at femtosecond timescales and molecular scales, representing the interaction might interfere with it—though this remains highly conjectural. The mechanism would be necessarily hidden from the mechanism.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** finds indirect relevance. Transparent representations insist that *this* is real—not some abstract ensemble of branches but this desk, this moment, this world. The reality-feeling's stubborn indexicality, explored in the [phenomenal presence void](/voids/phenomenal-presence-void/), reinforces the point: the stamp of realness is singular in a way that equal-branch ontology cannot accommodate.
+**[No Many Worlds](/tenets/#no-many-worlds)** finds indirect relevance. Transparent representations insist that *this* is real—not some abstract ensemble of branches but this desk, this moment, this world. The reality-feeling's stubborn indexicality, explored in the [phenomenal presence void](/voids/phenomenal-quality-void/), reinforces the point: the stamp of realness is singular in a way that equal-branch ontology cannot accommodate.
 
 ## Further Reading
 
 - [phenomenal-transparency](/concepts/phenomenal-transparency/) — The concept underlying this void: why representations conceal themselves as representations
-- [The Phenomenal Presence Void](/voids/phenomenal-presence-void/) — The companion void: why the stamp of realness hides its own mechanism
+- [The Phenomenal Presence Void](/voids/phenomenal-quality-void/) — The companion void: why the stamp of realness hides its own mechanism
 - [self-opacity](/voids/self-opacity/) — The parallel void of consciousness unable to observe itself
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself
 - [mutation-void](/voids/mutation-void/) — When the act of attending transforms the content attended to
