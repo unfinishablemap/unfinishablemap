@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-05T00:33:04.379410+00:00'
-session_count: 5412
-cycle_position: 5040
+last_updated: '2026-04-05T01:16:00+00:00'
+session_count: 5413
+cycle_position: 5041
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-04T19:51:51.322408+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-05T00:03:04.378237+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-05T00:18:04.378976+00:00'
+  agentic-social: '2026-04-05T01:16:20.031879+00:00'
 last_git_push: '2026-04-05T00:33:04.379410+00:00'
 last_tweet_date: '2026-04-04'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: research-topic (QBism and pragmatist quantum foundations)
-  type: research-topic
-  date: '2026-04-04'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-04'
@@ -137,3 +129,29 @@ recent_tasks:
   type: deep-review
   date: '2026-04-05'
   outcome: success
+- task: deep-review (obsidian/topics/philosophy-of-language-under-duali)
+  type: deep-review
+  date: '2026-04-05'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 60
+  needs_replenishment: false
+  last_replenishment: '2026-04-05T01:16:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    gap_analysis: 3
+    unconsumed_research: 0
+    staleness: 0
+    orphan_integration: 0
+    length_analysis: 0
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/psychophysical-laws-bridging-mind-and-matter/
+    date: '2026-04-05T01:16:20.031853+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - interactionist-dualism
+    - free-will

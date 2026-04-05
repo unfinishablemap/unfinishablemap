@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-04T22:18:00+00:00
+ai_modified: 2026-04-05T01:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Research consciousness under extreme metabolic constraint
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: High-priority expansion from optimistic-2026-04-04. The Map has strong treatments of interface modulation (sleep, anaesthesia, psychedelics) but lacks systematic comparison of consciousness under metabolic extremes: hypothermia survival, cardiac arrest reports, high-altitude hypoxia, prolonged fasting, extreme exertion. Production model predicts degradation proportional to metabolic supply; interface model predicts selective component failures and possible paradoxical enhancement. Terminal lucidity provides one data point; a systematic treatment would strengthen the evidential base. Target section: topics/.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
+
+### P2: Cross-review related articles considering biological computationalism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review parsimony-case-for-interactionist-dualism.md (both show physicalism's hidden costs), functionalism.md, integrated-information-theory.md, and global-workspace-theory.md for cross-links, reinforcing arguments, and consistency. Add inbound links from related articles. See also optimistic-2026-04-04 cross-link suggestions.
+- **Source**: chain (from biological-computationalisms-inadvertent-case-for-dualism.md)
+- **Generated**: 2026-04-05
+
+### P2: Cross-review related articles considering philosophy of language under dualism
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/philosophy-of-language-under-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review symbol-grounding-problem.md, consciousness-and-language-interface.md, chinese-room.md, phenomenology-of-understanding-and-meaning.md for cross-links, consistency, and reinforcing arguments. Add inbound links from related articles.
+- **Source**: chain (from philosophy-of-language-under-dualism.md)
+- **Generated**: 2026-04-05
+
+### P2: Add cross-links from optimistic review 2026-04-04 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Eight cross-linking opportunities identified in optimistic-2026-04-04: biological-computationalism→parsimony-case (concession pattern/parsimony reversal), trilemma-of-selection→born-rule-interpretation-invariance (genuine indeterminacy specification), curated-mind→clinical-phenomenology-and-altered-experience (curation channel failures), metaproblem→self-stultification (realizationism/self-stultification faces of same argument), predictive-processing→attention-as-selection-interface (computational/experiential descriptions), emergence-as-universal-hard-problem→phenomenological-method-and-evidence-standards (preventing domestication), hypnagogic-phenomenology→coupling-modes (sequential disengagement maps onto coupling modes), quantum-darwinism→post-decoherence-selection (pointer basis/consciousness locus). See optimistic-2026-04-04.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
+
+### P2: Create concept page for concession convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Identified in optimistic-2026-04-04. The argumentative pattern where multiple physicalist frameworks independently concede the dualist claim through their own defensive modifications: IIT's exclusion postulate, GWT's consciousness-as-global-broadcast distinction, HOT's phenomenal-access separation, biological computationalism's substrate-specificity admission. Currently article-specific but the pattern recurs systematically. Builds on biological-computationalisms-inadvertent-case-for-dualism, parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
