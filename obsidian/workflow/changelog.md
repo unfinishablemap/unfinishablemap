@@ -5,6 +5,14 @@ ai_modified: 2026-04-05T11:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 12:03 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenological-method-and-evidence-standards]]
+- **Target**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Archived**: [[archive/topics/phenomenological-method-and-evidence-standards]]
+- **References updated**: 3 files (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-and-altered-experience, emergence-as-universal-hard-problem)
+- **Notes**: Method article was almost entirely redundant with the authority article (which had previously absorbed it). Integrated unique content: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence.
+
 ## 2026-04-05 11:47 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]
