@@ -3,7 +3,7 @@ title: "Valence and the Mechanism of Conscious Selection"
 created: 2026-02-19
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-03T06:38:00+00:00
+ai_modified: 2026-04-05T14:02:00+00:00
 draft: false
 description: "Does consciousness select outcomes guided by valence, or is value epiphenomenal to the selection mechanism? A fork forced by the Map's own commitments."
 topics:
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-04-03T06:38:00+00:00
+last_deep_review: 2026-04-05T14:02:00+00:00
 coalesced_from:
   - "/topics/value-blind-vs-value-sensitive-selection/"
   - "/topics/valence-as-selection-currency/"

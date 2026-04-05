@@ -4,7 +4,7 @@ description: "If consciousness is irreducible, it grounds moral status distincti
 created: 2026-01-16
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-25T09:43:00+00:00
+ai_modified: 2026-04-05T14:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -135,7 +135,7 @@ The Map's commitment to [[personal-identity|indexical identity]]—that *you* ar
 
 ## Suffering: The Moral Core
 
-Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [[pain-consciousness-and-causal-power|Suffering is distinct from mere pain]]—it requires a subject who experiences negative [[valence]], not just nociception. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [[pain-consciousness-and-causal-power]] traces why the felt badness of pain does genuine causal work.
+Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [[pain-consciousness-and-causal-power|Suffering is distinct from mere pain]]—it requires a subject who experiences negative [[valence]], not just nociception. The [[valence-and-conscious-selection|valence-and-conscious-selection thesis]] argues that this felt negativity is not epiphenomenal but participates in the selection mechanism through which consciousness acts on the brain. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [[pain-consciousness-and-causal-power]] traces why the felt badness of pain does genuine causal work.
 
 | Position | What Grounds Moral Status | Implication |
 |----------|---------------------------|-------------|

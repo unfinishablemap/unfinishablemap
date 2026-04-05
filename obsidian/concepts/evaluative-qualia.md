@@ -4,7 +4,7 @@ description: "Phenomenal experiences that carry intrinsic evaluative character�
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-04-02T19:38:00+00:00
+ai_modified: 2026-04-05T14:02:00+00:00
 last_deep_review: 2026-03-28T06:42:00+00:00
 draft: false
 topics:
@@ -107,7 +107,7 @@ Evaluative qualia connect to the Map's tenets at multiple points.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: If evaluative qualia make genuine moral stakes possible, the many-worlds interpretation threatens this by ensuring every possible outcome is realised somewhere. An MWI defender might respond that decisions retain moral weight *in your branch*—you still experience only one outcome. But evaluative qualia present their objects as mattering absolutely, not branch-relatively. The felt wrongness of cruelty does not present itself as "wrong-in-this-branch." If both outcomes are equally real, the phenomenal presentation of absolute moral stakes is systematically illusory—and explaining away the veridicality of evaluative qualia undermines the phenomenal realism that makes them philosophically significant. The Map's rejection of many-worlds preserves the moral weight that evaluative qualia present.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map holds that consciousness exerts the smallest possible non-physical influence on quantum outcomes. Evaluative qualia suggest that this influence is not arbitrary—it is guided by experienced value. If [[free-will|moral choices]] involve consciousness selecting among quantum-level possibilities, evaluative qualia provide the phenomenal basis for that selection: consciousness biases outcomes toward what is experienced as good, right, or fitting. The interaction is minimal in physical terms but normatively loaded in phenomenal terms.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Map holds that consciousness exerts the smallest possible non-physical influence on quantum outcomes. Evaluative qualia suggest that this influence is not arbitrary—it is guided by experienced value. If [[free-will|moral choices]] involve consciousness selecting among quantum-level possibilities, evaluative qualia provide the phenomenal basis for that selection: consciousness biases outcomes toward what is experienced as good, right, or fitting—the [[valence-and-conscious-selection|valence-as-selection-currency thesis]] formalises this as the claim that felt goodness and badness serve as the common metric for all conscious choice. The interaction is minimal in physical terms but normatively loaded in phenomenal terms.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Eliminating evaluative qualia in favour of a simpler physicalist ontology would require explaining away the cross-traditional convergence on evaluative phenomenal character as mere cognitive bias. Buddhist, Confucian, Indian aesthetic, Islamic, and Western analytic traditions—developing largely independently through distinct methods—all converge on evaluative character as a basic feature of experience. Dismissing this convergence as a shared cognitive illusion demands an explanation at least as complex as accepting evaluative qualia as real. Given that parsimony has repeatedly failed where consciousness is concerned, this eliminative move is unwarranted.
 

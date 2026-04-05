@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-24T09:05:00+00:00
+ai_modified: 2026-04-05T14:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,7 +73,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 [[concepts/epiphenomenalism]] holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
 
-This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
+This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose [[valence-and-conscious-selection|felt valence guides behaviour through selection]]. If consciousness does nothing, this apparent design is illusory.
 
 The Map rejects epiphenomenalism via the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]]. Consciousness *does* affect physical outcomes—which means selection could favour it directly.
 
