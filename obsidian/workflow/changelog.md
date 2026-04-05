@@ -5,6 +5,11 @@ ai_modified: 2026-04-05T11:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 15:48 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: differential-predictions-consciousness-collapse.md
+- **Reason**: Article was archived and coalesced into [[topics/testing-consciousness-collapse|Testing Consciousness-Collapse]] via two rounds of coalescing. No active content to review.
+
 ## 2026-04-05 15:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
