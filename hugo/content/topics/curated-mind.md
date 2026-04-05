@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 11:06:00+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,6 +35,7 @@ related_articles:
 - '[[neurological-dissociations-as-interface-architecture]]'
 - '[[clinical-dissociation-as-systematic-evidence]]'
 - '[[perceptual-failure-and-the-interface]]'
+- '[[clinical-phenomenology-and-altered-experience]]'
 title: The Curated Mind
 topics:
 - '[[dualist-perception]]'
@@ -73,7 +74,7 @@ Confabulation reveals where memory curation fails to self-correct. Patients with
 
 Anosognosia sharpens the point further. Patients with right parietal damage remain genuinely unaware of their disability — paralysis, blindness, or cognitive impairment. This is not psychological denial; it is the brain's self-model failing to update. Consciousness receives a false report: "your left arm works fine" when the arm is paralysed. The self-monitoring curation that normally tracks bodily capabilities has broken down, and consciousness has no independent access to check the report against reality.
 
-In each case, the structure matches the visual reconstruction paradox. The brain curates the feed. When curation works, consciousness receives a coherent, useful model. When it fails, consciousness receives a wrong model and — critically — cannot correct it from the inside. The subject depends on the editorial process and has no backstage pass. [Clinical dissociation](/topics/clinical-dissociation-as-systematic-evidence/) adds a further dimension: in dissociative amnesia, stored memories become inaccessible to consciousness without any trace destruction — the memory curation channel disconnects while the stored content remains intact, recoverable when the channel reconnects. The curation architecture is not merely editorial; it is the functional bridge between processing and awareness.
+In each case, the structure matches the visual reconstruction paradox. The brain curates the feed. When curation works, consciousness receives a coherent, useful model. When it fails, consciousness receives a wrong model and — critically — cannot correct it from the inside. The subject depends on the editorial process and has no backstage pass. [Clinical dissociation](/topics/clinical-dissociation-as-systematic-evidence/) adds a further dimension: in dissociative amnesia, stored memories become inaccessible to consciousness without any trace destruction — the memory curation channel disconnects while the stored content remains intact, recoverable when the channel reconnects. The curation architecture is not merely editorial; it is the functional bridge between processing and awareness. [Clinical phenomenology](/topics/clinical-phenomenology-and-altered-experience/) extends this analysis by treating psychiatric disruptions as natural experiments on curation itself: schizophrenia's disruption of the minimal self, depression's collapse of temporal horizon, and depersonalization's cracking of phenomenal transparency each reveal which curation channels fail independently, testing the three-mode architecture against real pathology.
 
 ## The Convergence
 

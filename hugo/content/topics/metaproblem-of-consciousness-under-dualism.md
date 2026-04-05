@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-04 20:48:00+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[evolution-under-dualism]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[mental-causation-and-downward-causation]]'
+- '[[self-stultification-as-master-argument]]'
 title: The Metaproblem of Consciousness Under Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -72,7 +73,7 @@ Where would the divergence appear? Consider three domains. First, *philosophical
 
 A zombie might produce the initial problem reports—"consciousness seems hard to explain"—because these track functional features of self-models. But the zombie's philosophical reasoning about consciousness should lack the capacity for genuine insight that comes from attending to the phenomenon itself.
 
-This connects to the [self-stultification](/concepts/self-stultification/) argument—a specific instance of the broader [mental causation](/concepts/mental-causation-and-downward-causation/) problem. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. Our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. Interactionism avoids this: our conviction is informed because consciousness participates in producing it.
+This connects to the [self-stultification master argument](/topics/self-stultification-as-master-argument/)—realizationism and self-stultification are two faces of the same insight: consciousness must participate in generating its own problem intuitions. If consciousness is epiphenomenal, then our beliefs *about* consciousness are causally disconnected from consciousness. Our conviction that consciousness is real would be an accident—a belief produced by processes with no access to the fact that makes it true. Interactionism avoids this: our conviction is informed because consciousness participates in producing it.
 
 ## Frankish's Radical Move
 

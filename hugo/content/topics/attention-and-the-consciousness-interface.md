@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-04 17:33:00+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -47,6 +47,7 @@ related_articles:
 - '[[attention-as-causal-bridge]]'
 - '[[attention-disorders-and-consciousness]]'
 - '[[structure-of-attention]]'
+- '[[predictive-processing-and-dualism]]'
 title: Attention and the Consciousness Interface
 topics:
 - '[[hard-problem-of-consciousness]]'

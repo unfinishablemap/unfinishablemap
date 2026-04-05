@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-31
-ai_modified: 2026-04-01 01:38:00+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,6 +28,7 @@ related_articles:
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
+- '[[emergence-as-universal-hard-problem]]'
 title: Phenomenological Method and Evidence Standards
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -103,7 +104,7 @@ This connects to the parallel self-undermining problem for [epiphenomenalism](/c
 
 The Unfinishable Map's framework depends on taking phenomenological evidence seriously as irreducible data.
 
-**[Dualism](/tenets/#dualism)**: The need for distinctive evidence standards — standards irreducible to third-person observation — reflects the irreducibility of consciousness itself. If phenomenal properties were identical to physical properties, naturalist evidence standards would suffice. The persistent methodological gap between studying experience from inside and studying the brain from outside is a symptom of the ontological gap the Dualism tenet asserts.
+**[Dualism](/tenets/#dualism)**: The need for distinctive evidence standards — standards irreducible to third-person observation — reflects the irreducibility of consciousness itself. If phenomenal properties were identical to physical properties, naturalist evidence standards would suffice. The persistent methodological gap between studying experience from inside and studying the brain from outside is a symptom of the ontological gap the Dualism tenet asserts. The [universal hard problem](/topics/emergence-as-universal-hard-problem/) shows why phenomenological method is uniquely necessary here: explanatory gaps at every level transition are normally domesticated through habituation, but phenomenological discipline prevents this domestication at the consciousness gap—the one gap that cannot be papered over because the subject of inquiry is the very capacity that performs understanding.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Neurophenomenology's mutual constraint model presupposes that phenomenological evidence has genuine causal consequences for which scientific theories we accept. First-person data is not epiphenomenal to theory construction — it shapes which neural interpretations are adequate. This methodological bidirectionality mirrors the ontological bidirectionality the tenet asserts.
 

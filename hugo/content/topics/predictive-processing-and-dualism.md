@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -78,7 +78,7 @@ PP has a response. Clark, Friston, and Wilkinson (2019) address the *meta-proble
 
 The Map's most productive integration with PP concerns precision weighting and its relationship to [attention as the causal interface](/concepts/attention-as-interface/).
 
-PP treats precision — the inverse variance of a probability distribution — as the mechanism governing what reaches awareness and what remains background processing. High-precision prediction errors receive more weight; low-precision ones are suppressed. This is functionally equivalent to attention, and attention is exactly the mechanism through which the Map argues consciousness acts on the physical world. PP describes *what* precision weighting does; the Map proposes *who* is doing the weighting.
+PP treats precision — the inverse variance of a probability distribution — as the mechanism governing what reaches awareness and what remains background processing. High-precision prediction errors receive more weight; low-precision ones are suppressed. This is functionally equivalent to attention, and attention is exactly the mechanism through which the Map argues consciousness acts on the physical world. PP describes *what* precision weighting does; the Map proposes *who* is doing the weighting. The [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) develops the experiential side of this relationship: PP's precision-weighting is the computational description of the same interface operation that phenomenal attention describes from the first-person perspective, and the convergence of attentional and motor selection onto shared neural substrates specifies where this interface operates.
 
 Computational accounts within PP explain precision as itself predicted — the brain learns which signals to trust based on past reliability (Feldman & Friston, 2010). This is hierarchical prediction applied to reliability estimation. The Map acknowledges this account but finds it incomplete: it explains how precision *converges* over time but not how it is *resolved* in the moment when competing hypotheses demand incompatible precision assignments. When precision predictions are themselves subject to precision weighting, the question of what ultimately determines the weighting at the top of the hierarchy becomes pressing. The physicalist answer is that learned priors and environmental statistics terminate the regress. The Map argues this answer leaves something out: the felt experience of deliberate attending — concentrating on a conversation in a noisy room, focusing on a philosophical argument — is not captured by describing signal gain adjustment.
 

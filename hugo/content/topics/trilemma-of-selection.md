@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-03-26 05:16:00+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[attention-and-the-consciousness-interface]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[concept-of-free-will]]'
+- '[[born-rule-and-the-consciousness-interface]]'
 title: The Trilemma of Selection
 topics:
 - '[[topics/free-will]]'
@@ -122,7 +123,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 
 **[Dualism](/tenets/#dualism)**: Horn 3 requires consciousness to be something beyond the physical processes it influences. A purely physical selector would inherit the determinism of physical law (Horn 1) or contribute only randomness (Horn 2). The selector must be the kind of thing that can act for reasons without being causally determined to do so—which is precisely what substance dualism provides. The standard physicalist objection—that [causal closure](/concepts/causal-closure/) of the physical leaves no room for non-physical influence—assumes what the trilemma contests: that determinism or randomness exhausts the options at points of genuine indeterminacy.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The trilemma derives the need for consciousness to bias outcomes at points of genuine indeterminacy. The smallest possible influence at the decision point—biasing which already-prepared option actualises—is exactly what the tenet specifies.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The trilemma derives the need for consciousness to bias outcomes at points of genuine indeterminacy. The smallest possible influence at the decision point—biasing which already-prepared option actualises—is exactly what the tenet specifies. The [Born rule analysis](/topics/born-rule-and-the-consciousness-interface/) specifies what that indeterminacy looks like in quantum mechanics: the Born rule governs the probability distribution over outcomes, but which outcome actualises remains open—precisely the gap where Horn 3's conscious selection operates.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Horn 3 *is* bidirectional interaction. The brain presents options to consciousness (world→mind); consciousness selects among them (mind→world). Without this bidirectionality, we are left with Horns 1 or 2.
 

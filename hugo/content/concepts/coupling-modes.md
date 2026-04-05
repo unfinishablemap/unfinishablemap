@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-30 15:14:00+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-probability-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
+- '[[hypnagogic-phenomenology-and-interface-modulation]]'
 title: Coupling Modes
 topics:
 - '[[mental-causation-and-downward-causation]]'
@@ -134,6 +135,8 @@ The most promising synthesis: **basis control sets the alternatives; timing cont
 ## Open Questions
 
 **Can modes combine?** Perhaps basis control is primary and timing control modulates it—attention selects alternatives (basis) and effort sustains them (timing). Probability control might be negligible or absent.
+
+**Does sequential disengagement during sleep reveal mode-specific signatures?** [Hypnagogic phenomenology](/topics/hypnagogic-phenomenology-and-interface-modulation/) shows that consciousness-brain coupling disassembles rather than switching off, with each interface component following its own trajectory. If the three coupling modes disengage sequentially during sleep onset, each should produce distinct phenomenological signatures—basis control's withdrawal appearing as loss of voluntary attention, timing control's withdrawal as autonomous imagery onset, probability control's withdrawal as the dissolution of agency.
 
 **Do different organisms use different modes?** [Interface heterogeneity](/concepts/interface-heterogeneity/) raises the possibility that different species couple through different primary modes—mammals through centralised basis control, cephalopods through distributed timing control, for example. If so, the coupling mode taxonomy applies not just within organisms but across them.
 

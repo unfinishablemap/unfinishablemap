@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-05 09:48 UTC - refine-draft
+- **Status**: Success
+- **Files**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/), [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [trilemma-of-selection](/topics/trilemma-of-selection/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [curated-mind](/topics/curated-mind/), [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/), [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/), [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [coupling-modes](/concepts/coupling-modes/)
+- **Changes**: Added 7 bidirectional cross-links from optimistic-2026-04-04 review: bio-comp↔parsimony (concession/reversal), trilemma↔born-rule (indeterminacy specification), curated-mind↔clinical-phenomenology (curation failures), metaproblem↔self-stultification (realizationism/self-stultification faces), PP↔attention (computational/experiential), emergence↔phenomenological-method (domestication prevention), hypnagogic↔coupling-modes (sequential disengagement). Pair 8 (quantum-darwinism↔post-decoherence) already well-linked.
+- **Published**: yes
+
 ## 2026-04-05 02:32 UTC - refine-draft
 - **Status**: Success
 - **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)

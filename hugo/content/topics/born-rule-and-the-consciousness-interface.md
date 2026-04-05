@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-28 12:12:00+00:00
+ai_modified: 2026-04-05 09:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,6 +40,7 @@ related_articles:
 - '[[penrose-gravity-induced-collapse-empirical-prospects]]'
 - '[[phenomenal-non-compositionality]]'
 - '[[completeness-in-physics-under-dualism]]'
+- '[[trilemma-of-selection]]'
 title: The Born Rule and the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -155,7 +156,7 @@ Third, the Map's position does not predict specific deviations from the Born rul
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Torres Alegre specifies what "minimal" means mathematically. Consciousness's influence must follow the Born rule exactly — the unique law compatible with no-signalling. Any other interaction pattern would be empirically visible. [Phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) further constrains this: consciousness operates at a unified locus rather than distributed micro-interactions, consistent with the smallest possible non-physical influence.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Every derivation presupposes an observer who obtains outcomes. If obtaining an outcome is itself an act — consciousness selecting among possibilities — then the Born rule's observer-dependence reflects genuine bidirectional causation. The rule describes not a passive observation but an active interface. Consciousness shapes which outcome actualises without altering the probability distribution that governs the selection.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Every derivation presupposes an observer who obtains outcomes. If obtaining an outcome is itself an act — consciousness selecting among possibilities — then the Born rule's observer-dependence reflects genuine bidirectional causation. The rule describes not a passive observation but an active interface. Consciousness shapes which outcome actualises without altering the probability distribution that governs the selection. The [trilemma-of-selection](/topics/trilemma-of-selection/) establishes why this selection must be conscious: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds must explain not only the Born rule's form but what probability *means* when all outcomes occur. Other interpretations need only explain the rule's specific form; MWI must also explain why there are probabilities at all in a deterministic branching universe. The [probability problem in many worlds](/topics/probability-problem-in-many-worlds/) is the Born rule gap at its widest.
 
