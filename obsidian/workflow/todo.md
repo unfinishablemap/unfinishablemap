@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles related to consciousness-under-extreme-metabolic-constraint.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topic page topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review against topics/anaesthesia-and-the-consciousness-interface.md, topics/degrees-of-consciousness.md, concepts/filter-theory.md, and topics/disorders-of-consciousness-as-test-cases.md for consistency, cross-links, and reinforcing arguments.
-- **Source**: chain (from topics/consciousness-under-extreme-metabolic-constraint.md)
-- **Generated**: 2026-04-05
-
 ### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1922,6 +1915,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review articles related to consciousness-under-extreme-metabolic-constraint.md
+- **Type**: cross-review
+- **Notes**: New topic page topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review against topics/anaesthesia-and-the-consciousness-interface.md, topics/degrees-of-consciousness.md, concepts/filter-theory.md, and topics/disorders-of-consciousness-as-test-cases.md for consistency, cross-links, and reinforcing arguments.
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md -- Context: Cross-review articles related to consciousness-under-extreme-metabolic-constraint.md
 
 ### ✓ 2026-04-05: Cross-review articles related to concession-convergence.md
 - **Type**: cross-review
