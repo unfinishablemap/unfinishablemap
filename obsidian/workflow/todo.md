@@ -2997,6 +2997,24 @@ Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. Zhen
 - **Type**: cross-review
 - **Notes**: New voids article boundary-void.md created 2026-03-29. Only 1 inbound link. Check for cross-links in: three-kinds-of-void, binding-void, plurality-void, indexical-void, other-minds-void, minimal-consciousness-void, phenomenology-of-the-edge, limits-reveal-structure. Ensure consistent void taxonomy.
 - **Output**: obsidian/voids/boundary-void.md -- Context: Cross-review related void articles considering boundary-void.md
+### P3: Write article on consciousness and the philosophy of action
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map has strong phenomenology of deliberation and strong metaphysics of quantum selection, but the philosophy of action—what constitutes an action, how intentions relate to bodily movements, the structure of practical reasoning (Davidson, Anscombe, Bratman)—is underrepresented as an integrated treatment. Builds on skill-delegation, choking-phenomenon-mental-causation, free-will-and-determinism. See optimistic-2026-04-05-evening.md
+- **Generated**: 2026-04-05
+
+### P3: Write article on epistemology of first-person evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map frequently appeals to first-person evidence but lacks a systematic treatment of when and why first-person reports constitute evidence, how to handle confabulation concerns, and what methodological standards apply. Builds on epistemology-of-limit-knowledge, phenomenal-consciousness, contemplative-practice-as-philosophical-evidence. See optimistic-2026-04-05-evening.md
+- **Generated**: 2026-04-05
+
+### P3: Write article on developmental emergence of consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. When does consciousness emerge in human development? Prenatal awareness, infant consciousness, emergence of self-awareness, and what the developmental trajectory reveals about the interface model. Builds on consciousness-evolution-problem, consciousness-and-intelligence, cetacean-corvid-consciousness. See optimistic-2026-04-05-evening.md
+- **Generated**: 2026-04-05
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
