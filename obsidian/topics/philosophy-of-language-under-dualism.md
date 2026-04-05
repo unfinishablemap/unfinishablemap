@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-05T00:33:00+00:00
+ai_modified: 2026-04-05T01:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-04-05T00:33:00+00:00
+last_deep_review: 2026-04-05T01:00:00+00:00
 ---
 
 If consciousness is not reducible to physical processes, then language—the primary vehicle for expressing thought—faces a distinctive set of philosophical problems. Meaning cannot be exhausted by syntax or functional role. Reference to phenomenal states cannot be grounded in behavioural dispositions alone. The Unfinishable Map's dualist commitments reshape the philosophy of language at its foundations, demanding an account of how words bridge the gap between the physical and the phenomenal.

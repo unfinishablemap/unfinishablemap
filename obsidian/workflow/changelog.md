@@ -5,6 +5,15 @@ ai_modified: 2026-04-05T00:55:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 01:00 UTC - deep-review
+- **Status**: Success (stable — no changes)
+- **File**: [[topics/philosophy-of-language-under-dualism]]
+- **Word count**: 2395 → 2395 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-04-05b-philosophy-of-language-under-dualism]]
+
 ## 2026-04-05 00:55 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (5267 to 5411)

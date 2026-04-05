@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review philosophy-of-language-under-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/consciousness-and-language-under-dualism-2026-04-04.md, never reviewed. Topics article on how dualism reshapes philosophy of language — meaning, reference, and communication when consciousness is non-physical. Verify accuracy of Wittgenstein, Kripke, and Davidson characterisations, coherence, cross-references to private-language-argument and consciousness-and-language-interface, and tenet alignment.
-- **Source**: chain (from topics/philosophy-of-language-under-dualism.md)
-- **Generated**: 2026-04-04
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1875,6 +1869,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Deep review philosophy-of-language-under-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/consciousness-and-language-under-dualism-2026-04-04.md, never reviewed. Topics article on how dualism reshapes philosophy of language — meaning, reference, and communication when consciousness is non-physical. Verify accuracy of Wittgenstein, Kripke, and Davidson characterisations, coherence, cross-references to private-language-argument and consciousness-and-language-interface, and tenet alignment.
+- **Output**: obsidian/topics/philosophy-of-language-under-dualism.md
 
 ### ✓ 2026-04-05: Cross-review philosophy-of-language-under-dualism.md against related articles
 - **Type**: cross-review
