@@ -5,6 +5,12 @@ ai_modified: 2026-04-04T23:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 00:03 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: voids (100/100), concepts (224/230)
+- **Pairs evaluated**: 5 (affective/valence void, biological-closure/embodiment-limits, other-minds/intersubjective, consciousness/types-of-consciousness, ai-consciousness-modes/types-of-ai-phenomenal-experience)
+- **Result**: All pairs well-differentiated with explicit distinction sections; no merge warranted
+
 ## 2026-04-04 23:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/pragmatism-and-qbism]]
