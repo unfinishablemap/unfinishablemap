@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-05 merged convergent-phenomenological-evidence into phenomenological-evidence. References updated in 4 files (problem-of-other-minds, buddhism-and-dualism, leibnizs-mill-argument, epistemology-of-convergence-arguments). Verify merged content is coherent, no redundancy introduced, and check whether additional articles should cross-reference the expanded concept page. Particularly check contemplative-practice-as-philosophical-evidence and phenomenal-authority-and-first-person-evidence for consistency with new content.
-- **Source**: chain (from coalesce 2026-04-05)
-- **Generated**: 2026-04-05
-
 ### P2: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
 - **Type**: cross-review
 - **Status**: pending
@@ -1922,6 +1915,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-05 merged convergent-phenomenological-evidence into phenomenological-evidence. References updated in 4 files (problem-of-other-minds, buddhism-and-dualism, leibnizs-mill-argument, epistemology-of-convergence-arguments). Verify merged content is coherent, no redundancy introduced, and check whether additional articles should cross-reference the expanded concept page. Particularly check contemplative-practice-as-philosophical-evidence and phenomenal-authority-and-first-person-evidence for consistency with new content.
+- **Output**: obsidian/concepts/phenomenological-evidence.md -- Context: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
 
 ### ✓ 2026-04-05: Deep review thrownness-void.md
 - **Type**: deep-review
