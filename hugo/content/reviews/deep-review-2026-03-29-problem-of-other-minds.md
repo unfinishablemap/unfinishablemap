@@ -57,13 +57,13 @@ All six adversarial personas reapplied:
 
 ### Enhancements Made
 - Added 4 cross-links to articles created since last review:
-  - [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/) — strengthens the discourse argument thread
+  - [convergent-phenomenological-evidence](/concepts/phenomenological-evidence/) — strengthens the discourse argument thread
   - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/) — deepens intersubjectivity connection
   - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — extends AI consciousness section
   - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — addresses causal evidence gap for AI consciousness
 
 ### Cross-links Added
-- [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)
+- [convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)
 - [phenomenology-of-collective-intentionality-and-we-consciousness](/topics/consciousness-and-collective-phenomena/)
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)

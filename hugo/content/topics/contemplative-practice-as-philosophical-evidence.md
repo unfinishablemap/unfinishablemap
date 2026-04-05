@@ -49,7 +49,6 @@ related_articles:
 - '[[testing-the-map-from-inside]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
-- '[[phenomenological-method-and-evidence-standards]]'
 title: Contemplative Practice as Philosophical Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -67,7 +66,7 @@ A practice counts as philosophical methodology when it is disciplined (following
 
 Contemplative training targets precisely the layers of [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/) where naive introspection is weakest. Authority over *that* experience exists is robust, but authority over *what* attended experience is like and over structural features improves dramatically with training. Sustained attention training improves accuracy about phenomenal character; progressive disclosure of temporal microstructure, the awareness-content distinction, and the constructed self represents structural knowledge becoming accessible through disciplined practice. Contemplative methodology does not merely assume introspective reliability; it systematically extends it into domains where casual introspection fails.
 
-**Disciplined procedure.** Contemplative traditions prescribe specific techniques with progressive stages and criteria for competence. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure — structured methodological protocols comparable in rigour to [Husserl's epoché](/topics/phenomenological-method-and-evidence-standards/).
+**Disciplined procedure.** Contemplative traditions prescribe specific techniques with progressive stages and criteria for competence. As Dreyfus (2011) argues, even "mindfulness" involves sophisticated cognitive dimensions that casual descriptions obscure — structured methodological protocols comparable in rigour to [Husserl's epoché](/topics/phenomenal-authority-and-first-person-evidence/).
 
 **Directed at philosophical questions.** The philosophical use of meditation investigates the structure of consciousness itself, generating first-person data bearing on questions about temporal grain, self-construction, and awareness-content relations.
 
@@ -217,7 +216,6 @@ The distinction between willed and exogenous attention in [contemplative neurosc
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practice destabilises the interface
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — Micro-phenomenology of attentional recovery during practice
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Clinical disruptions as involuntary counterpart to contemplative evidence
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's epoché, evidence taxonomy, and why phenomenological standards are irreducible to naturalist criteria
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic sensitivity deepening with training as evidence for irreducibility
 
 ## References

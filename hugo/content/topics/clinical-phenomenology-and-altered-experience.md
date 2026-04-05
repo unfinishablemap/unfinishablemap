@@ -45,7 +45,7 @@ title: Clinical Phenomenology and Altered Experience
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[methodology-of-consciousness-research]]'
-- '[[phenomenological-method-and-evidence-standards]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[consciousness-and-the-ownership-problem]]'
@@ -181,7 +181,6 @@ Clinical phenomenology as philosophical evidence faces legitimate concerns:
 ### Methodology
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The epistemic status of first-person reports
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Deliberate alteration as complement to involuntary disruption
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — The standards governing phenomenological evidence in philosophy of mind
 - [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — The epistemological void when attention disorders compromise investigation
 
 ### Core Concepts

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-23 18:44:00+00:00
+ai_modified: 2026-04-05 12:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: 'Tulving''s tripartite hierarchy classifies consciousness by self-a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 03:23:00+00:00
+last_deep_review: 2026-04-05 12:48:00+00:00
 modified: *id001
 related_articles:
 - '[[personal-identity]]'
@@ -48,7 +48,7 @@ Endel Tulving's tripartite framework divides consciousness into three levels def
 
 ### Anoetic Consciousness
 
-*Anoetic* (Greek: *a-* "without" + *noein* "to know") consciousness accompanies procedural and [implicit memory](/concepts/implicit-memory/). A person riding a bicycle, touch-typing, or catching a ball operates with skilled awareness that involves no self-reference. There is experience—something it is like to balance, to feel keys under fingers—but no representation of oneself *as* the experiencer. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode: what he called "non-reflective [qualia](/concepts/qualia/)." These are genuine phenomenal states, temporally bound to the present moment, with no sense of past learning or projection into future performance.
+*Anoetic* (Greek: *a-* "without" + *noein* "to know") consciousness accompanies procedural and [implicit memory](/concepts/implicit-memory/). A person riding a bicycle, touch-typing, or catching a ball operates with skilled awareness that involves no self-reference. There is experience—something it is like to balance, to feel keys under fingers—but no representation of oneself *as* the experiencer. Tulving emphasised that anoetic consciousness is not *absent* consciousness but a distinct mode. These are genuine phenomenal states—non-reflective [qualia](/concepts/qualia/) (Vandekerckhove & Panksepp, 2009)—temporally bound to the present moment, with no sense of past learning or projection into future performance.
 
 Animals with procedural learning but no episodic memory likely operate at this level (Tulving, 1985). The [baseline cognition hypothesis](/concepts/baseline-cognition/) suggests great apes possess sophisticated anoetic and noetic processing without reaching the autonoetic capacities that distinguish human cognition.
 
@@ -118,7 +118,7 @@ This bears on epiphenomenalism. Klein's content/manner distinction shows that th
 | Noetic | Semantic | Reflexive | Atemporal | Higher mammals? |
 | Autonoetic | Episodic | Temporal self | Past and future | Humans (primarily) |
 
-Whether any non-human animals achieve genuine autonoetic consciousness remains debated. Scrub-jays cache food in ways suggesting future planning (Clayton & Dickinson, 1998); great apes may form episodic-like memories. The difficulty of settling this question from the outside illustrates a deeper point: third-person observation cannot determine whether behaviour involves felt temporal self-projection or merely sophisticated future-oriented processing. The same diagnostic challenge applies to AI systems: [AI consciousness modes](/concepts/ai-consciousness-modes/) maps Tulving's hierarchy onto current architectures, finding that large language models functionally resemble noetic processing while lacking the phenomenal transitions that each level introduces.
+Whether any non-human animals achieve genuine autonoetic consciousness remains debated (Suddendorf & Corballis, 2007). Scrub-jays cache food in ways suggesting future planning (Clayton & Dickinson, 1998); great apes may form episodic-like memories. The difficulty of settling this question from the outside illustrates a deeper point: third-person observation cannot determine whether behaviour involves felt temporal self-projection or merely sophisticated future-oriented processing. The same diagnostic challenge applies to AI systems: [AI consciousness modes](/concepts/ai-consciousness-modes/) maps Tulving's hierarchy onto current architectures, finding that large language models functionally resemble noetic processing while lacking the phenomenal transitions that each level introduces.
 
 ## Relation to Site Perspective
 

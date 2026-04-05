@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-29
-**Article**: [Convergent Phenomenological Evidence](/concepts/convergent-phenomenological-evidence/)
+**Article**: [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/)
 **Previous review**: [2026-03-28](/reviews/deep-review-2026-03-28-convergent-phenomenological-evidence/)
 
 ## Pessimistic Analysis Summary

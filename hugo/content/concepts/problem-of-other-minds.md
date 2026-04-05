@@ -175,7 +175,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment dramatizing behavior-consciousness gap
 - [ai-consciousness](/topics/ai-consciousness/) — The problem of other minds applied to machines
 - [animal-consciousness](/topics/animal-consciousness/) — The problem for non-human organisms
-- [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/) — How convergent reports across traditions constitute evidence for shared consciousness
+- [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — How convergent reports across traditions constitute evidence for shared consciousness
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared intentionality, we-mode phenomenology, and the constitutive role of recognizing other minds
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy applied to what we could infer about AI consciousness
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — The possibility that AI consciousness has no causal consequences and thus no behavioral evidence

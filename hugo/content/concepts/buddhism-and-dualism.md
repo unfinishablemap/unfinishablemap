@@ -13,7 +13,7 @@ concepts:
 - '[[qualia]]'
 - '[[agent-causation]]'
 - '[[filter-theory]]'
-- '[[convergent-phenomenological-evidence]]'
+- '[[phenomenological-evidence]]'
 created: 2026-01-19
 date: &id001 2026-01-19
 description: Buddhism rejects permanent self while affirming irreducible consciousness.
@@ -53,7 +53,7 @@ Buddhist no-self targets three specific claims:
 
 Buddhism accepts that consciousness (*vijñāna*) is real—it's one of the five aggregates. Buddhism doesn't say "consciousness is an illusion" (that would be eliminativism, which Buddhism rejects). It says "the permanent self *owning* consciousness is an illusion."
 
-Buddhist contemplative practice constitutes millennia of first-person investigation—what [phenomenology](/concepts/phenomenology/) calls attention to experience itself. Meditation involves systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is phenomenological method in practice, predating Husserl by over two millennia. The rigor of Buddhist introspective training parallels what contemporary research confirms: skilled observers report consciousness more accurately than novices (Fox et al. 2012). Buddhism's claims about consciousness emerge from disciplined investigation, not mere speculation. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) maps how Buddhist reports converge with those from Hindu, Christian, Sufi, and Daoist practitioners on structural features like self-dissolution and contentless awareness—despite incompatible metaphysical frameworks. This pattern constitutes [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)—a distinct evidential category where independent traditions triangulate on the same first-person observations.
+Buddhist contemplative practice constitutes millennia of first-person investigation—what [phenomenology](/concepts/phenomenology/) calls attention to experience itself. Meditation involves systematic observation of how thoughts arise and pass, how sensations present themselves, how attention moves. This is phenomenological method in practice, predating Husserl by over two millennia. The rigor of Buddhist introspective training parallels what contemporary research confirms: skilled observers report consciousness more accurately than novices (Fox et al. 2012). Buddhism's claims about consciousness emerge from disciplined investigation, not mere speculation. The [comparative phenomenology of meditative traditions](/topics/comparative-phenomenology-of-meditative-traditions/) maps how Buddhist reports converge with those from Hindu, Christian, Sufi, and Daoist practitioners on structural features like self-dissolution and contentless awareness—despite incompatible metaphysical frameworks. This pattern constitutes [convergent phenomenological evidence](/concepts/phenomenological-evidence/#convergence)—a distinct evidential category where independent traditions triangulate on the same first-person observations.
 
 ## What the Map's Dualism Actually Claims
 
@@ -173,7 +173,7 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 - [panpsychism](/concepts/panpsychism/) — Another non-physicalist view, with different tensions with Buddhism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The central puzzle both frameworks address
 - [agent-causation](/concepts/agent-causation/) — How conscious beings initiate causal chains, relevant to karma
-- [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/) — When independent traditions converge on the same first-person observations
+- [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — When independent traditions converge on the same first-person observations
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Buddhist vedanā alongside Confucian, Indian, Islamic, and Western convergence on evaluative qualia
 - [filter-theory](/concepts/filter-theory/) — Why brain correlation doesn't entail brain production
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes

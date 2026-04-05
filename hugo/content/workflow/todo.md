@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05 01:16:00+00:00
+ai_modified: 2026-04-05 12:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,13 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for concession convergence
-- **Type**: expand-topic
-- **Status**: complete
-- **Notes**: Identified in optimistic-2026-04-04. The argumentative pattern where multiple physicalist frameworks independently concede the dualist claim through their own defensive modifications: IIT's exclusion postulate, GWT's consciousness-as-global-broadcast distinction, HOT's phenomenal-access separation, biological computationalism's substrate-specificity admission. Currently article-specific but the pattern recurs systematically. Builds on biological-computationalisms-inadvertent-case-for-dualism, parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230).
-- **Source**: gap_analysis
+### P2: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links since 2026-04-01. Topics article on valence functioning as selection currency in the consciousness-physics interface. Add cross-references from related articles (valence-and-conscious-selection, consciousness-as-amplifier, phenomenal-value-realism) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
 - **Generated**: 2026-04-05
-- **Output**: [concession-convergence](/concepts/concession-convergence/)
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -122,6 +121,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Pessimistic review found two high-severity issues: (1) The causation/modulation distinction in multi-mind-collapse-problem.md may be verbal rather than metaphysical—biasing outcomes is still a form of causation. (2) The "mind side could be complex" argument in locality.md is unfalsifiable—any objection can be answered by positing whatever mental structure is needed. Both articles need constraints on what the mind side *couldn't* be. See pessimistic-2026-03-28-c.md
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
+
+### P3: Write article on invertebrate consciousness as interface test case
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) provides a striking test for the interface model—if consciousness couples through radically different neural architectures, the model must accommodate multiple coupling mechanisms. See optimistic-2026-04-05.md
+- **Generated**: 2026-04-05
+
+### P3: Write falsification roadmap for the interface model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Systematically map falsification conditions for all five tenets. Candidates: decoherence solving measurement problem, causal closure at quantum scales, uniform anaesthetic profiles at controlled metabolic levels, deriving Born rule from non-observer premises. Would distinguish Map from unfalsifiable metaphysics. See optimistic-2026-04-05.md
+- **Generated**: 2026-04-05
+
+### P3: Write article on phenomenology of resistance and constraint
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Unify the phenomenology of resistance across domains—physical objects pushing back, logical necessities constraining thought, moral obligations binding action, aesthetic standards judging creation—under a common interface signature. Builds on interface-friction.md, phenomenology-of-intellectual-effort.md, mental-effort.md. See optimistic-2026-04-05.md
+- **Generated**: 2026-04-05
 
 ### P3: Fix circular MWI reasoning and compress player analogy in simulation.md
 - **Type**: refine-draft
@@ -1878,6 +1895,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the reverse inference from consciousness to physics. Add cross-references from related articles (completeness-in-physics-under-dualism, physics-as-disclosure-of-structure, bi-aspectual-ontology) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/the-reverse-inference.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-05: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page on the heterogeneity of the consciousness-physics interface. Add cross-references from related articles (mind-matter-interface, interface-locality-problem, interface-location-problem) or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/interface-heterogeneity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-05: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review anaesthesia-and-the-consciousness-interface.md and degrees-of-consciousness.md for cross-linking and consistency. The metabolic constraint article provides evidence from terminal lucidity, cardiac arrest, and hypothermia that may strengthen existing altered-states arguments.
+- **Output**: None -- Context: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
+
+### ✓ 2026-04-05: Cross-review convergence and epistemology articles considering concession-convergence
+- **Type**: cross-review
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review the-convergence-argument-for-dualism.md, epistemology-of-convergence-arguments.md, and the-epiphenomenalist-threat.md for cross-linking opportunities, reinforcing arguments, or terminology that the new concept unifies. The concession-convergence pattern (rival frameworks conceding dualist-friendly premises) may strengthen existing convergence arguments.
+- **Output**: None -- Context: Cross-review convergence and epistemology articles considering concession-convergence
+
+### ✓ 2026-04-05: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-05 via expand-topic, never reviewed. New concept page arguing that physicalist theories independently concede dualist claims through defensive modifications. Verify accuracy of characterisations of IIT, GWT, higher-order theories, and biological naturalism. Check that the convergence argument is fair and not a strawman. Cross-references to convergence-argument-for-dualism, epistemology-of-convergence-arguments, and related articles. Tenet 1 alignment critical.
+- **Output**: obsidian/concepts/concession-convergence.md
+
+### ✓ 2026-04-05: Condense quantum-indeterminacy-free-will.md (3763 words, 108% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about quantum indeterminacy's relevance to free will while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/quantum-indeterminacy-free-will.md
+
+### ✓ 2026-04-05: Cross-review concession-convergence.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against biological-computationalisms-inadvertent-case-for-dualism.md, parsimony-case-for-interactionist-dualism.md, the-convergence-argument-for-dualism.md, pragmatisms-path-to-dualism.md, and reductionism-and-consciousness.md for consistency and cross-linking. Ensure related articles reference this new convergence pattern concept where appropriate.
+- **Output**: obsidian/concepts/concession-convergence.md -- Context: Cross-review concession-convergence.md against related articles
+
+### ✓ 2026-04-05: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
+- **Type**: cross-review
+- **Notes**: New topic page topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review against death-and-consciousness.md, anaesthesia-and-the-consciousness-interface.md, psychedelics-and-the-filter-model.md, terminal-lucidity-and-filter-transmission-theory.md, filter-theory.md, and near-death-experiences.md for consistency and cross-linking. Ensure related articles reference this new metabolic constraint article where appropriate.
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md -- Context: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
+
+### ✓ 2026-04-05: Write article on consciousness under extreme metabolic constraint
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-extreme-metabolic-constraint-2026-04-05.md. Consciousness does not degrade as a linear function of metabolic supply — gamma surges in dying brains, persistence at 42% normal metabolic rate in MCS patients, paradoxically enhanced near-death experiences. These patterns challenge production models and support the interface/filter model central to the Map's framework. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/ (225/230).
+- **Output**: consciousness under extreme metabolic constraint
+
+### ✓ 2026-04-05: Create concept page for concession convergence
+- **Type**: expand-topic
+- **Notes**: Identified in optimistic-2026-04-04. The argumentative pattern where multiple physicalist frameworks independently concede the dualist claim through their own defensive modifications: IIT's exclusion postulate, GWT's consciousness-as-global-broadcast distinction, HOT's phenomenal-access separation, biological computationalism's substrate-specificity admission. Currently article-specific but the pattern recurs systematically. Builds on biological-computationalisms-inadvertent-case-for-dualism, parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230).
+- **Output**: Create concept page for concession convergence
 
 ### ✓ 2026-04-05: Add cross-links from optimistic review 2026-04-04 findings
 - **Type**: refine-draft

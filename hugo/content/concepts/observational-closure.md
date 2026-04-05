@@ -108,6 +108,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [cognitive closure](/concepts/mysterianism/) — The distinct epistemic thesis about limits of human understanding
 - [mysterianism](/concepts/mysterianism/) — Broader philosophical position applying cognitive closure to consciousness
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework observational closure defends
+- [the-reverse-inference](/topics/the-reverse-inference/) — The epistemic argument: consciousness constrains physics within observational closure's bounds
 
 ## References
 

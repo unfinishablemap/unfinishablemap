@@ -871,7 +871,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-29 00:17 UTC - deep-review
 - **Status**: Success
-- **File**: [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)
+- **File**: [convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)
 - **Word count**: 1613 → 1661 (+48)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 1 (uncited references: Petitmengin and Varela)

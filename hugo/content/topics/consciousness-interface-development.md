@@ -129,7 +129,7 @@ The [baseline cognition](/concepts/baseline-cognition/) framework suggests that 
 
 ### Developmental Trajectories Shape Adult Interfaces
 
-Developmental trajectory determines adult interface configuration. An octopus develops a distributed neural architecture producing a fundamentally different interface from any vertebrate. A corvid develops a brain structured differently from a mammal's but arrives at comparable cognitive sophistication through convergent evolution. What varies across species is not brain size but the developmental programme that builds the interface.
+Developmental trajectory determines adult interface configuration. An octopus develops a distributed neural architecture producing a fundamentally different interface from any vertebrate. A corvid develops a brain structured differently from a mammal's but arrives at comparable cognitive sophistication through convergent evolution. What varies across species is not brain size but the developmental programme that builds the interface. These divergent developmental programmes raise the question of [interface-heterogeneity](/concepts/interface-heterogeneity/)—whether the coupling mechanisms themselves differ across lineages, not merely the content that flows through them.
 
 ## The Trajectory Is Not Linear
 

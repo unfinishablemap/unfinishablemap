@@ -28,7 +28,7 @@ None. Fourth review confirms article stability.
 
 ### Medium Issues Found
 
-- **Missing cross-link to convergent-phenomenological-evidence**: The article discusses contemplative convergence and cross-traditional convergence without linking to the new `[convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)` concept article (created 2026-03-28). **Resolution**: Added cross-link in the contemplative practice paragraph, frontmatter concepts, and Further Reading.
+- **Missing cross-link to convergent-phenomenological-evidence**: The article discusses contemplative convergence and cross-traditional convergence without linking to the new `[convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)` concept article (created 2026-03-28). **Resolution**: Added cross-link in the contemplative practice paragraph, frontmatter concepts, and Further Reading.
 
 ### Counterarguments Considered
 
@@ -64,13 +64,13 @@ Synthesis piece, not single-source. All checks pass:
 
 ### Enhancements Made
 
-- Added `[convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)` cross-link in contemplative practice paragraph — names the specific evidential category the convergence claim invokes
-- Added `[convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)` to frontmatter concepts
-- Added `[convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)` to Further Reading
+- Added `[convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)` cross-link in contemplative practice paragraph — names the specific evidential category the convergence claim invokes
+- Added `[convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)` to frontmatter concepts
+- Added `[convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)` to Further Reading
 
 ### Cross-links Added
 
-- [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/) (body text, frontmatter, Further Reading)
+- [convergent-phenomenological-evidence](/concepts/phenomenological-evidence/) (body text, frontmatter, Further Reading)
 
 ## Word Count
 
@@ -91,4 +91,4 @@ This is the fourth review. The article has been stable since the second review (
 - **The article is approaching its length threshold** (95%). Further expansions must be accompanied by equivalent cuts.
 - **The candle flame analogy** is a known philosophical contention point but serves its purpose.
 
-The only change this review was adding the `[convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)` cross-link — a natural connection to a newly created concept article that articulates the evidential category the article's convergence claims invoke. The article has achieved and maintained stability.
+The only change this review was adding the `[convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)` cross-link — a natural connection to a newly created concept article that articulates the evidential category the article's convergence claims invoke. The article has achieved and maintained stability.

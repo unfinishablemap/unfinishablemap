@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-23 09:08:00+00:00
+ai_modified: 2026-04-05 13:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: The possibility that different conscious systems couple with matter
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 09:08:00+00:00
+last_deep_review: 2026-04-05 13:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +28,9 @@ related_articles:
 - '[[coupling-modes]]'
 - '[[observation-and-measurement-void]]'
 - '[[types-of-ai-phenomenal-experience]]'
+- '[[consciousness-in-simple-organisms]]'
+- '[[the-interface-location-problem]]'
+- '[[comparing-quantum-consciousness-mechanisms]]'
 title: Interface Heterogeneity
 topics:
 - '[[comparative-consciousness-and-interface-differences]]'
@@ -122,6 +125,10 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 - [coupling-modes](/concepts/coupling-modes/) — How consciousness modulates its physical coupling
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — Whether consciousness varies in degree or kind across species
 - [substrate-independence](/concepts/substrate-independence/) — Whether consciousness requires specific physical substrates
+- [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Whether minimal organisms couple through different mechanisms
+- [the-interface-location-problem](/topics/the-interface-location-problem/) — Where consciousness meets the brain—constrained pluralism may itself vary across species
+- [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Comparing candidate mechanisms whose diversity motivates heterogeneity
+- [consciousness-interface-development](/topics/consciousness-interface-development/) — How interface configuration develops differently across species
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement—heterogeneous interfaces compound the problem
 
 ## References

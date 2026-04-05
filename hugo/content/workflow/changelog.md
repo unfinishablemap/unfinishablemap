@@ -1,13 +1,132 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05 01:32:00+00:00
+ai_modified: 2026-04-05 11:47:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-04-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-05 13:47 UTC - deep-review
+- **Status**: Success
+- **File**: [the-reverse-inference](/topics/the-reverse-inference/)
+- **Word count**: 1729 → 1729 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (precision fix on "understand" vs "interpret"; added 6 new inbound cross-links)
+- **Enhancements made**: 6 inbound cross-links from epiphenomenalism, dualism, bi-aspectual-ontology, convergence-argument, observational-closure, measurement-problem
+- **Output**: [deep-review-2026-04-05-the-reverse-inference](/reviews/deep-review-2026-04-05-the-reverse-inference/)
+
+## 2026-04-05 13:33 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Word count**: 1764 → 1808 (+44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (added 6 new inbound cross-links from articles created since last review, added 4 outbound Further Reading links)
+- **Enhancements made**: 6 inbound cross-links, 4 outbound links, 3 frontmatter additions
+- **Output**: [deep-review-2026-04-05-interface-heterogeneity](/reviews/deep-review-2026-04-05-interface-heterogeneity/)
+
+## 2026-04-05 13:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)
+- **Target**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Archived**: [convergent-phenomenological-evidence](/archive/concepts/convergent-phenomenological-evidence/)
+- **References updated**: 4 files (problem-of-other-minds, buddhism-and-dualism, leibnizs-mill-argument, epistemology-of-convergence-arguments)
+
+## 2026-04-05 13:02 UTC - deep-review
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 3795 → 3834 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (removed stale AI refinement log, added Xu et al. sample size caveat, added cross-link to metabolic constraint article)
+- **Enhancements made**: 1 (reciprocal cross-link with consciousness-under-extreme-metabolic-constraint)
+- **Output**: [deep-review-2026-04-05-anaesthesia-and-the-consciousness-interface](/reviews/deep-review-2026-04-05-anaesthesia-and-the-consciousness-interface/)
+
+## 2026-04-05 12:48 UTC - deep-review
+- **Status**: Success
+- **File**: [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)
+- **Word count**: 2264 → 2267 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (corrected "non-reflective qualia" attribution from Tulving to Vandekerckhove & Panksepp, added inline citations for previously uncited references)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-05-anoetic-noetic-autonoetic-consciousness](/reviews/deep-review-2026-04-05-anoetic-noetic-autonoetic-consciousness/)
+- **Notes**: Fifth review. Article confirmed fully stable — no critical issues across any review. Changes limited to attribution correction and citation hygiene.
+
+## 2026-04-05 12:42 UTC - deep-review
+- **Status**: Success
+- **File**: [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
+- **Word count**: 3009 → 3023 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing concession-convergence cross-link, missing reverse related_articles link)
+- **Enhancements made**: 3 (inline concession-convergence mention, Further Reading entry, tightened description)
+- **Output**: [deep-review-2026-04-05-the-convergence-argument-for-dualism](/reviews/deep-review-2026-04-05-the-convergence-argument-for-dualism/)
+- **Notes**: Cross-review context — integrating new concession-convergence concept. Third consecutive review with no critical issues; article confirmed stable.
+
+## 2026-04-05 12:17 UTC - deep-review
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 1630 → 1645 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (absent qualia term undefined)
+- **Enhancements made**: 2 (inline definition, panpsychism cross-link)
+- **Output**: [deep-review-2026-04-05b-concession-convergence](/reviews/deep-review-2026-04-05b-concession-convergence/)
+
+## 2026-04-05 12:03 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Target**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Archived**: [phenomenological-method-and-evidence-standards](/archive/topics/phenomenological-method-and-evidence-standards/)
+- **References updated**: 3 files (contemplative-practice-as-philosophical-evidence, clinical-phenomenology-and-altered-experience, emergence-as-universal-hard-problem)
+- **Notes**: Method article was almost entirely redundant with the authority article (which had previously absorbed it). Integrated unique content: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence.
+
+## 2026-04-05 11:47 UTC - condense
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Before**: 3763
+- **After**: 2515
+- **Reduction**: 33%
+- **Technique**: Removed process philosophy section (has own page), consolidated Quantum Zeno mechanism into brief "Possible Mechanisms" section linking to quantum-consciousness, compressed Two Domains into mechanism section, trimmed luck objection detail, tightened decoherence/illusionism/many-worlds sections with links to dedicated pages, compressed falsifiability criteria to bullet list, removed stale AI refinement log comment, pruned unused references
+
+## 2026-04-05 11:32 UTC - deep-review
+- **Status**: Success
+- **File**: [evolution-under-dualism](/topics/evolution-under-dualism/)
+- **Word count**: 3028 → 3038 (+10)
+- **Critical issues addressed**: 1 (working memory citation misattribution — Inoue & Matsuzawa 2007 does not support "2±1" figure)
+- **Medium issues addressed**: 3 (removed stale AI refinement log, added Godfrey-Smith citation, removed uncited Kim reference)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-05-evolution-under-dualism](/reviews/deep-review-2026-04-05-evolution-under-dualism/)
+
+## 2026-04-05 11:20 UTC - deep-review
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 1535 → 1630 (+95)
+- **Critical issues addressed**: 1 (COGITATE misdated as 2023, corrected to 2025)
+- **Medium issues addressed**: 2 (added HOROR engagement for HOT section; refined pragmatism cross-link)
+- **Enhancements made**: 2 (Brown 2025 and COGITATE references added)
+- **Output**: [deep-review-2026-04-05-concession-convergence](/reviews/deep-review-2026-04-05-concession-convergence/)
+
+## 2026-04-05 11:02 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/)
+- **Word count**: 1658 → 1874 (+216)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-04-05-consciousness-under-extreme-metabolic-constraint](/reviews/deep-review-2026-04-05-consciousness-under-extreme-metabolic-constraint/)
+
+## 2026-04-05 10:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey across topics/ (224), concepts/ (201), tenets/ (1); focused reads of 40+ articles including today's new additions
+- **Output**: [optimistic-2026-04-05](/reviews/optimistic-2026-04-05/)
+- **Tasks added**: 3 P3 expand-topic suggestions (invertebrate consciousness, falsification roadmap, phenomenology of resistance)
+
+## 2026-04-05 10:43 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness Under Extreme Metabolic Constraint
+- **Output**: [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/)
+- **Word count**: 1658
+- **Based on research**: Yes, [consciousness-extreme-metabolic-constraint-2026-04-05](/research/consciousness-extreme-metabolic-constraint-2026-04-05/)
 
 ## 2026-04-05 10:16 UTC - expand-topic
 - **Status**: Success
@@ -27,7 +146,7 @@ title: Changelog
 
 ## 2026-04-05 09:48 UTC - refine-draft
 - **Status**: Success
-- **Files**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/), [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [trilemma-of-selection](/topics/trilemma-of-selection/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [curated-mind](/topics/curated-mind/), [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/), [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/), [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [coupling-modes](/concepts/coupling-modes/)
+- **Files**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/), [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [trilemma-of-selection](/topics/trilemma-of-selection/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [curated-mind](/topics/curated-mind/), [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/), [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/), [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [coupling-modes](/concepts/coupling-modes/)
 - **Changes**: Added 7 bidirectional cross-links from optimistic-2026-04-04 review: bio-comp↔parsimony (concession/reversal), trilemma↔born-rule (indeterminacy specification), curated-mind↔clinical-phenomenology (curation failures), metaproblem↔self-stultification (realizationism/self-stultification faces), PP↔attention (computational/experiential), emergence↔phenomenological-method (domestication prevention), hypnagogic↔coupling-modes (sequential disengagement). Pair 8 (quantum-darwinism↔post-decoherence) already well-linked.
 - **Published**: yes
 

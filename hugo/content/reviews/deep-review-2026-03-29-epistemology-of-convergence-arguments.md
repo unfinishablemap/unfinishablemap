@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review considering [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) and [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/). The cross-traditional article develops three structural features (asymmetry of acquaintance, regress of objectification, gap between structure and quality) that explain why irreducibility functions as an attractor — the epistemology article appropriately references this without duplicating it. The convergent-phenomenological-evidence concept page (created 2026-03-28) systematically analyzes convergent first-person reports as a distinct evidential category, which was not yet cross-linked.
+Cross-review considering [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/) and [convergent-phenomenological-evidence](/concepts/phenomenological-evidence/). The cross-traditional article develops three structural features (asymmetry of acquaintance, regress of objectification, gap between structure and quality) that explain why irreducibility functions as an attractor — the epistemology article appropriately references this without duplicating it. The convergent-phenomenological-evidence concept page (created 2026-03-28) systematically analyzes convergent first-person reports as a distinct evidential category, which was not yet cross-linked.
 
 ## Pessimistic Analysis Summary
 
@@ -50,12 +50,12 @@ All attributions verified ✓. No new attribution issues identified.
 - **Cross-traditional convergence cross-link** — appropriately delegates detailed tradition analysis
 
 ### Enhancements Made
-- Added cross-link to [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/) distinguishing phenomenological convergence (first-person reports) from philosophical argument convergence
+- Added cross-link to [convergent-phenomenological-evidence](/concepts/phenomenological-evidence/) distinguishing phenomenological convergence (first-person reports) from philosophical argument convergence
 - Added to related_articles frontmatter and Further Reading
 - Trimmed Swinburne sentence for length neutrality
 
 ### Cross-links Added
-- [convergent-phenomenological-evidence](/concepts/convergent-phenomenological-evidence/)
+- [convergent-phenomenological-evidence](/concepts/phenomenological-evidence/)
 
 ## Remaining Items
 

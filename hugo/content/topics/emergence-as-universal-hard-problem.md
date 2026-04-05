@@ -28,7 +28,7 @@ related_articles:
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[habituation-void]]'
 - '[[philosophy-of-language-under-dualism]]'
-- '[[phenomenological-method-and-evidence-standards]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 title: Emergence as Universal Hard Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -92,7 +92,7 @@ Why do we notice the hard problem at consciousness but not at chemistry or life?
 
 When a level transition is old enough, familiar enough, and practically useful enough, we stop noticing the explanatory gap. We say temperature "just is" molecular motion and feel satisfied. The satisfaction is not philosophical understanding — it is the absence of discomfort that comes from having encountered the identity thousands of times. The [habituation-void](/voids/habituation-void/) applies to entire explanatory frameworks: what was once baffling becomes obvious not because we understood it but because we stopped being bothered by it.
 
-Consciousness resists domestication for a specific reason. The qualitative character in question — subjective experience — is not an external property we observe and classify. It is the medium through which we observe and classify everything else. We cannot step back from experience the way we step back from temperature. The hard problem of consciousness is the hard problem that cannot be domesticated because the subject of inquiry is the very capacity that performs domestication. [Phenomenological method](/topics/phenomenological-method-and-evidence-standards/) provides the discipline that prevents this domestication: by bracketing naturalist assumptions and attending to how things appear rather than what causes them, it keeps the consciousness gap visible where habituation would otherwise render it invisible.
+Consciousness resists domestication for a specific reason. The qualitative character in question — subjective experience — is not an external property we observe and classify. It is the medium through which we observe and classify everything else. We cannot step back from experience the way we step back from temperature. The hard problem of consciousness is the hard problem that cannot be domesticated because the subject of inquiry is the very capacity that performs domestication. [Phenomenological method](/topics/phenomenal-authority-and-first-person-evidence/) provides the discipline that prevents this domestication: by bracketing naturalist assumptions and attending to how things appear rather than what causes them, it keeps the consciousness gap visible where habituation would otherwise render it invisible.
 
 This explains why the [hard problem appears independently across philosophical traditions](/topics/the-hard-problem-in-non-western-philosophy/) — Indian, Islamic, Japanese, and Western philosophy all converge on consciousness as irreducible. The convergence is not coincidental. It reflects the structural impossibility of domesticating the one qualitative character that is always present in any act of understanding.
 
