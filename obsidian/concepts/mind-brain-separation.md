@@ -4,7 +4,7 @@ description: "Filter theory's division of faculties: qualia belong to mind, auto
 created: 2026-01-14
 modified: 2026-02-26
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-05T01:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,15 +22,18 @@ concepts:
   - "[[motor-selection]]"
   - "[[philosophical-zombies]]"
   - "[[unity-of-consciousness]]"
+  - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
   - "[[near-death-experiences]]"
+  - "[[terminal-lucidity-and-filter-transmission-theory]]"
+  - "[[lucid-dreaming-and-dualist-rendering]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-10T21:13:00+00:00
+last_deep_review: 2026-04-05T01:32:00+00:00
 ---
 
 The mind-brain relationship can be clarified by examining which faculties appear intrinsic to consciousness itself versus those implemented by neural processes. This analysis suggests a division: [[qualia]]—the qualitative character of experience—belong to mind; automatic functions like respiration belong to brain; and many faculties emerge from the interaction between them. The case rests not merely on explanatory gaps but on positive arguments: the [[knowledge-argument|knowledge argument]] shows that complete physical knowledge leaves out phenomenal facts, and the conceivability of [[philosophical-zombies|philosophical zombies]] suggests this gap is metaphysical rather than merely epistemic. The [[binding-problem|binding problem]] illustrates the point—proposed neural mechanisms describe correlates of unity without explaining why integrated processing should feel unified. Brain lesions typically disconnect consciousness from specific functions rather than destroying those functions, supporting the [[filter-theory|filter/transmission theory]].
@@ -130,6 +133,8 @@ The mind-brain separation framework would face serious difficulty if:
 - [[unity-of-consciousness]] — Why phenomenal unity resists neural explanation
 - [[split-brain-consciousness]] — Dissociation evidence from severed corpus callosum
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Clinical conditions, anaesthesia, covert consciousness, and the interface interpretation
+- [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive clarity during neurodegeneration as filter theory evidence
+- [[lucid-dreaming-and-dualist-rendering]] — The rendering dilemma for dream imagery
 - [[near-death-experiences]] — Enhanced experience during brain compromise
 - [[interactionist-dualism]] — The broader framework this analysis supports
 - [[neural-correlates-of-consciousness]] — Why correlates don't establish production
