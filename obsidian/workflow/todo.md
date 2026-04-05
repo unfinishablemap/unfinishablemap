@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense phenomenological-evidence.md (3661 words, 105% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Concepts article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about types of phenomenological evidence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Restructure motor-control-quantum-zeno.md to reduce Quantum Zeno centrality
 - **Type**: refine-draft
 - **Status**: pending
@@ -1908,6 +1901,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Condense phenomenological-evidence.md (3661 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Concepts article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about types of phenomenological evidence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/phenomenological-evidence.md
 
 ### ✓ 2026-04-05: Integrate differential-predictions-consciousness-collapse.md into site navigation
 - **Type**: integrate-orphan

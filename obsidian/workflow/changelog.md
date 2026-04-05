@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T11:47:00+00:00
+ai_modified: 2026-04-05T16:17:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-04-05 16:17 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/phenomenological-evidence]]
+- **Before**: 3661 words
+- **After**: 2589 words
+- **Reduction**: 29%
+- **Technique**: Cut redundant "what it's not" list, trimmed Berghofer/Husserl digression, compressed Merleau-Ponty and microphenomenology sections, tightened reliability criteria, shortened convergence conditions and training problem (deferred to linked articles), compressed circularity objection and philosophical approaches, trimmed Further Reading from 17 to 11 links
 
 ## 2026-04-05 16:02 UTC - deep-review
 - **Status**: Success
