@@ -5,6 +5,12 @@ ai_modified: 2026-04-05T01:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 02:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-indeterminacy-free-will]]
+- **Changes**: Reframed luck objection response to acknowledge framework-dependence on dualism; removed uncited ~60% accuracy claim; demoted Zeno mechanism from core argument to illustrative possibility; corrected "orthodox QM" overstatement; added epistemic honesty about phenomenological evidence
+- **Published**: yes
+
 ## 2026-04-05 02:17 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/quantum-indeterminacy-free-will.md`, `concepts/evolution-of-consciousness.md`
