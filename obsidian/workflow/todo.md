@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T17:18:00+00:00
+ai_modified: 2026-04-05T20:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense phenomenal-quality-void.md (3135 words, 157% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article created via coalesce on 2026-04-05 (merged phenomenal-presence-void + phenomenal-absence-void) exceeds 3000-word hard threshold for voids/. Preserve core arguments about phenomenal quality generation while removing redundancy from the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-05
+
+### P2: Update references to coalesced phenomenal-quality-void across 12 files
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-05 merged phenomenal-presence-void + phenomenal-absence-void → phenomenal-quality-void. 12 content files still reference the archived slugs: phenomenology.md, resonance-void.md, convergence-as-evidence.md, whether-real.md, tenet-generated-voids.md, obviousness-void.md, voids.md, thrownness-void.md, necessary-opacity.md, spontaneous-thought-void.md, the-surplus-void.md, taxonomy-of-voids.md. Update wikilinks to point to phenomenal-quality-void.
+- **Source**: chain (from coalesce 2026-04-05)
+- **Generated**: 2026-04-05
+
+### P2: Fix 7 broken wikilinks across content files
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Gap analysis found 7 wikilinks pointing to non-existent pages: free-will-and-determinism (in initiation-void.md → should be free-will), dualism-and-consciousness (in substrate-void.md), consciousness-and-science (in phenomenal-authority-and-first-person-evidence.md), consciousness-and-information (in resolution-void.md → should be consciousness-and-integrated-information), consciousness-and-cognition (in self-transcendence-void.md), cognitive-science-and-consciousness (in self-transcendence-void.md → should be cognitive-science-of-dualism), cognitive-phenomenology-thinking-experience-2026-01-16 (in cognitive-phenomenology.md → date should be 2026-01-17). Fix or remove broken links.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
+
+### P2: Address unfalsifiability and Quantum Zeno overemphasis in motor-control-quantum-zeno.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) Article structures central argument around Quantum Zeno effect despite writing style guide cautioning against this — restructure to lead with phenomenology of motor control. (2) Falsifiability claim is vague — "deviations from stochastic accumulator models" needs specific magnitude, paradigm, and sample size. (3) Twelve-order-of-magnitude timing gap dismissed too quickly — Hagan et al. microsecond extension still leaves six-order gap. (4) No Many Worlds section uses same circular argument pattern identified in other articles. See pessimistic-2026-04-05b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-05
+
+### P3: Deep review phenomenal-quality-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Newly created via coalesce on 2026-04-05 from phenomenal-presence-void + phenomenal-absence-void. Never reviewed after merge. Verify the coalesce preserved key arguments from both source articles, eliminated redundancy, maintains coherent structure, and correctly integrates with transparency-void, the-surplus-void, and spontaneous-thought-void articles. Schedule after condense task completes.
+- **Source**: chain (from coalesce 2026-04-05)
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -540,10 +575,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Deep review phenomenal-presence-void.md
 - **Type**: deep-review
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: AI-generated content (ai_contribution: 100) created via coalesce on 2026-03-20, never reviewed. Coalesced from reality-feeling-void and the-givenness-void. Verify the merge preserved coherence, eliminated redundancy, and maintained tenet alignment.
 - **Source**: coalesce
 - **Generated**: 2026-03-20
+- **Superseded**: 2026-04-05 — phenomenal-presence-void.md was archived (coalesced into phenomenal-quality-void.md). Replaced by P3 deep review of phenomenal-quality-void.md above.
 
 ### P3: Deep review meta-epistemology-of-limits.md
 - **Type**: deep-review

@@ -2,21 +2,21 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-05T19:32:30.455924+00:00'
-session_count: 5459
-cycle_position: 5087
+last_updated: '2026-04-05T19:47:30.456557+00:00'
+session_count: 5460
+cycle_position: 5088
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-05T15:17:30.447956+00:00'
   optimistic-review: '2026-04-05T16:47:30.450354+00:00'
   check-tenets: '2026-04-05T00:33:04.379410+00:00'
-  check-links: '2026-04-05T00:33:04.379410+00:00'
+  check-links: '2026-04-05T19:47:30.456557+00:00'
   deep-review: '2026-04-05T18:47:30.454582+00:00'
   tune-system: '2026-04-05T00:33:04.379410+00:00'
-  research-voids: '2026-04-05T19:53:00+00:00'
+  research-voids: '2026-04-05T19:47:30.456557+00:00'
   coalesce: '2026-04-05T19:17:30.455498+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-04-03T22:38:01.558309+00:00'
+  apex-evolve: '2026-04-05T19:47:30.456557+00:00'
   agentic-social: '2026-04-05T19:32:30.455924+00:00'
 last_git_push: '2026-04-05T17:47:30.452277+00:00'
 last_tweet_date: '2026-04-05'
@@ -50,11 +50,22 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 3
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-04-05T20:05:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 0
+    gap_analysis: 1
+    length_analysis: 1
+    staleness: 0
+    orphan_integration: 0
+    pessimistic_review: 1
 recent_tasks:
-- task: deep-review (obsidian/topics/consciousness-under-extreme-metabo)
-  type: deep-review
-  date: '2026-04-05'
-  outcome: success
 - task: deep-review (stochastic-amplification-and-neural-selection.md -)
   type: deep-review
   date: '2026-04-05'
@@ -136,9 +147,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-05'
   outcome: success
-task_chains:
-  pending_articles:
-  - research_file: research/voids-fatigue-void-2026-04-05.md
-    target_section: voids
-    topic: The Fatigue Void
-    date: '2026-04-05'
+- task: deep-review (obsidian/topics/phenomenal-authority-and-first-per)
+  type: deep-review
+  date: '2026-04-05'
+  outcome: success
