@@ -5,6 +5,13 @@ ai_modified: 2026-04-05T18:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 19:58 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[moral-architecture-of-consciousness]]
+- **Changed sources**: 2 (phenomenology-of-moral-life, valence-and-conscious-selection)
+- **Word count**: 3409 → 3647
+- **Review**: [[reviews/apex-evolve-2026-04-05-moral-architecture-of-consciousness]]
+
 ## 2026-04-05 19:53 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Fatigue Void — how cognitive fatigue systematically narrows consciousness, revealing phenomenal architecture through the order of degradation
