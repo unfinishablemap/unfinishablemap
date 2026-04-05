@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T01:16:00+00:00
+ai_modified: 2026-04-05T10:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on consciousness under extreme metabolic constraint
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-extreme-metabolic-constraint-2026-04-05.md. Consciousness does not degrade as a linear function of metabolic supply — gamma surges in dying brains, persistence at 42% normal metabolic rate in MCS patients, paradoxically enhanced near-death experiences. These patterns challenge production models and support the interface/filter model central to the Map's framework. Directly supports Tenet 3 (Bidirectional Interaction). Target section: topics/ (225/230).
+- **Source**: chain + unconsumed_research
+- **Generated**: 2026-04-05
+
+### P2: Cross-review concession-convergence.md against related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against biological-computationalisms-inadvertent-case-for-dualism.md, parsimony-case-for-interactionist-dualism.md, the-convergence-argument-for-dualism.md, pragmatisms-path-to-dualism.md, and reductionism-and-consciousness.md for consistency and cross-linking. Ensure related articles reference this new convergence pattern concept where appropriate.
+- **Source**: chain (from concepts/concession-convergence.md)
+- **Generated**: 2026-04-05
+
+### P2: Condense quantum-indeterminacy-free-will.md (3763 words, 108% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about quantum indeterminacy's relevance to free will while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-05
+
+### P2: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-05 via expand-topic, never reviewed. New concept page arguing that physicalist theories independently concede dualist claims through defensive modifications. Verify accuracy of characterisations of IIT, GWT, higher-order theories, and biological naturalism. Check that the convergence argument is fair and not a strawman. Cross-references to convergence-argument-for-dualism, epistemology-of-convergence-arguments, and related articles. Tenet 1 alignment critical.
+- **Source**: chain
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
