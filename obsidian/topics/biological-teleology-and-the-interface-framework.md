@@ -4,7 +4,7 @@ description: "How the Map's interface framework transforms biological teleology 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-05T16:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,8 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[motor-selection]]"
   - "[[evolution-of-consciousness]]"
+  - "[[phenomenal-consciousness]]"
+  - "[[psychophysical-laws]]"
 related_articles:
   - "[[tenets]]"
   - "[[evolution-under-dualism]]"
@@ -31,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T15:33:00+00:00
+last_deep_review: 2026-04-05T16:02:00+00:00
 ---
 
 Biology banished purpose from nature. Darwin showed that apparent design arises from blind variation and selection, and the neo-Darwinian synthesis completed the project: biological "functions" are selected effects, not intentions. Organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts this account for all of biology except one domain. Where conscious organisms act through the [[attention-as-interface|unified selection interface]], genuine teleology re-enters nature—not as cosmic design or divine intention, but as conscious purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, arguing that the interface is where the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency.
@@ -58,7 +60,7 @@ Consider the contrast with pure biological function:
 | **Causation** | Mechanistic chain | Agent selection among options |
 | **Goal representation** | None (goals are observer-attributed) | Present (the agent represents outcomes) |
 | **Counterfactuals** | If selection had differed, different traits would exist | If the agent had chosen differently, different action would follow |
-| **Mechanism** | Genetic variation + natural selection | Neural competition + conscious selection at quantum indeterminacy |
+| **Mechanism** | Genetic variation + natural selection | Neural competition + conscious selection at the interface |
 
 The interface framework specifies where the transition occurs. Below the selection layer, everything operates by biological function—neurons fire because of prior causes, dopamine marks salience because of learned associations, motor programs compete because of neural architecture shaped by evolution. At the selection layer, something new enters: a conscious agent choosing among the options that biology has prepared. This is [[consciousness-as-activity|consciousness as activity]]—not a property the brain happens to have, but something the organism *does* at the selection interface.
 
@@ -66,9 +68,9 @@ The interface framework specifies where the transition occurs. Below the selecti
 
 Under physicalism, purposes reduce to functional descriptions. A gazelle "flees in order to survive" is shorthand for "the gazelle's neural states, caused by sensory input and shaped by selection history, produce fleeing behaviour." The purpose-language is convenient but eliminable. Nothing in the causal chain involves genuine intention.
 
-Under the Map's dualism, purposes have a different ontological standing. The gazelle's fear is a conscious state that causally contributes to fleeing through the [[tenets#^bidirectional-interaction|bidirectional interface]]. The fear represents danger. The representation is not a neural pattern (though it correlates with one) but a phenomenal state with intentional content—*aboutness* that cannot be captured in purely physical vocabulary. The gazelle flees *because* it fears death, where "because" picks out genuine mental causation rather than a mere functional redescription of neural events.
+Under the Map's dualism, purposes have a different ontological standing. The gazelle's fear is a conscious state that causally contributes to fleeing through the [[tenets#^bidirectional-interaction|bidirectional interface]]. The fear represents danger. The representation is not a neural pattern (though it correlates with one) but a phenomenal state with intentional content—*aboutness* that cannot be captured in purely physical vocabulary. The gazelle flees *because* it fears death, where "because" picks out genuine mental causation rather than a mere functional redescription of neural events. The [[psychophysical-laws]] governing this interaction remain to be specified, but the interface framework identifies *where* in the causal architecture they operate.
 
-This does not require attributing sophisticated cognition to every conscious organism. A moth navigating toward light may have minimal phenomenal experience—a bare valence of attraction without conceptual content. But if that minimal experience causally influences which motor pattern actualises through the selection interface, even minimal consciousness introduces genuine (if rudimentary) purpose. The threshold for purpose is not linguistic capacity or reflective self-awareness but causal efficacy through the interface.
+This does not require attributing sophisticated cognition to every conscious organism. A moth navigating toward light may have minimal [[phenomenal-consciousness|phenomenal experience]]—a bare valence of attraction without conceptual content. But if that minimal experience causally influences which motor pattern actualises through the selection interface, even minimal consciousness introduces genuine (if rudimentary) purpose. The threshold for purpose is not linguistic capacity or reflective self-awareness but causal efficacy through the interface.
 
 ## Biological Function as Interface Scaffolding
 
@@ -121,7 +123,7 @@ The connection between biological teleology and the interface framework draws on
 ## References
 
 1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
-2. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflection and reflexion: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199–249.
+2. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflexion and reflection: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199–249.
 3. Millikan, R.G. (1984). *Language, Thought, and Other Biological Categories*. MIT Press.
 4. Neander, K. (1991). Functions as selected effects: The conceptual analyst's defense. *Philosophy of Science*, 58(2), 168-184.
 5. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
