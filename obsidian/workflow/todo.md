@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering philosophy of language under dualism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/philosophy-of-language-under-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review symbol-grounding-problem.md, consciousness-and-language-interface.md, chinese-room.md, phenomenology-of-understanding-and-meaning.md for cross-links, consistency, and reinforcing arguments. Add inbound links from related articles.
-- **Source**: chain (from philosophy-of-language-under-dualism.md)
-- **Generated**: 2026-04-05
-
 ### P2: Add cross-links from optimistic review 2026-04-04 findings
 - **Type**: refine-draft
 - **Status**: pending
@@ -1890,6 +1883,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review related articles considering philosophy of language under dualism
+- **Type**: cross-review
+- **Notes**: New article topics/philosophy-of-language-under-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review symbol-grounding-problem.md, consciousness-and-language-interface.md, chinese-room.md, phenomenology-of-understanding-and-meaning.md for cross-links, consistency, and reinforcing arguments. Add inbound links from related articles.
+- **Output**: None -- Context: Cross-review related articles considering philosophy of language under dualism
 
 ### ✓ 2026-04-05: Cross-review related articles considering biological computationalism insights
 - **Type**: cross-review
