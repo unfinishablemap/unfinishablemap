@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research falsification conditions and testable predictions for the five tenets
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Feeds P3 "Write falsification roadmap for the interface model" expand-topic. Research specific falsification conditions: decoherence solving measurement problem (Tenet 2), causal closure demonstrated at quantum scales (Tenet 3), uniform anaesthetic profiles at controlled metabolic levels (Tenet 1), deriving Born rule from non-observer premises (Tenet 2). Distinguish genuinely testable predictions from unfalsifiable metaphysics. Critical for site credibility.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Research consciousness and the metaphysics of composition
 - **Type**: research-topic
 - **Status**: pending
@@ -1951,6 +1944,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Research falsification conditions and testable predictions for the five tenets
+- **Type**: research-topic
+- **Notes**: Feeds P3 "Write falsification roadmap for the interface model" expand-topic. Research specific falsification conditions: decoherence solving measurement problem (Tenet 2), causal closure demonstrated at quantum scales (Tenet 3), uniform anaesthetic profiles at controlled metabolic levels (Tenet 1), deriving Born rule from non-observer premises (Tenet 2). Distinguish genuinely testable predictions from unfalsifiable metaphysics. Critical for site credibility.
+- **Output**: falsification conditions and testable predictions for the five tenets
 
 ### ✓ 2026-04-05: Create concept page for epistemological-limits-of-occams-razor
 - **Type**: expand-topic
