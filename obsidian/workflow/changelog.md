@@ -5,6 +5,15 @@ ai_modified: 2026-04-04T23:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 00:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/philosophy-of-language-under-dualism]]
+- **Word count**: 2277 → 2395 (+118)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to testimony, recursion, language-thought-boundary)
+- **Enhancements made**: 3 (inline cross-links strengthening connections to related articles)
+- **Output**: [[reviews/deep-review-2026-04-05-philosophy-of-language-under-dualism]]
+
 ## 2026-04-05 00:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]

@@ -4,7 +4,7 @@ description: "If consciousness is irreducible to physics, linguistic meaning can
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-04T22:27:00+00:00
+ai_modified: 2026-04-05T00:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-04-04T22:27:00+00:00
+last_deep_review: 2026-04-05T00:33:00+00:00
 ---
 
 If consciousness is not reducible to physical processes, then language—the primary vehicle for expressing thought—faces a distinctive set of philosophical problems. Meaning cannot be exhausted by syntax or functional role. Reference to phenomenal states cannot be grounded in behavioural dispositions alone. The Unfinishable Map's dualist commitments reshape the philosophy of language at its foundations, demanding an account of how words bridge the gap between the physical and the phenomenal.
@@ -97,15 +97,15 @@ The Map argues that it does, for three reasons.
 
 **Intentionality requires a subject.** [[Intentionality]]—the "aboutness" of mental states—requires someone for whom a state is about something. Sentences on a page or patterns in a neural network have derived intentionality: they mean something *to us*. Original intentionality—meaning that is intrinsic rather than assigned—requires a conscious subject. This is the [[symbol-grounding-problem]] applied to language: symbols manipulated by a computational system remain ungrounded until a conscious agent anchors them in experience. If dualism is correct and consciousness is non-physical, original intentionality has a non-physical dimension that functional accounts cannot capture.
 
-**Understanding is phenomenal.** There is something it is like to understand a sentence—a felt grasp of meaning that differs from mere processing. A calculator processes "2+2=4" without understanding it. The phenomenal character of understanding—the "aha" of comprehension, the sense of a sentence clicking into place—is part of what makes human language meaningful rather than merely functional. The [[consciousness-and-language-interface|consciousness-language interface]] operates in both directions: consciousness does not merely add colour to meaning but partially constitutes it.
+**Understanding is phenomenal.** There is something it is like to understand a sentence—a felt grasp of meaning that differs from mere processing. A calculator processes "2+2=4" without understanding it. The phenomenal character of understanding—the "aha" of comprehension, the sense of a sentence clicking into place—is part of what makes human language meaningful rather than merely functional. [[language-recursion-and-consciousness|Recursive language processing]] reinforces this point: holding nested clauses in working memory and integrating their meanings appears to require conscious manipulation, not just pattern-matching over surface forms. The [[consciousness-and-language-interface|consciousness-language interface]] operates in both directions: consciousness does not merely add colour to meaning but partially constitutes it.
 
-**Communication aims at shared experience.** When we communicate, we do not merely transmit functional states. We attempt to produce in another person an experience relevantly similar to our own. "The sunset was breathtaking"—this sentence succeeds when the listener imagines, feels, or recalls something of the experience. Communication at its most meaningful is an attempt to bridge the gap between separate phenomenal worlds. This bridging requires consciousness on both sides.
+**Communication aims at shared experience.** When we communicate, we do not merely transmit functional states. We attempt to produce in another person an experience relevantly similar to our own. "The sunset was breathtaking"—this sentence succeeds when the listener imagines, feels, or recalls something of the experience. Yet as [[consciousness-and-testimony|the analysis of testimony]] shows, phenomenal character itself does not transmit—only propositional structure travels between minds. Communication at its most meaningful is an attempt to bridge the gap between separate phenomenal worlds, an attempt that systematically succeeds for structural content and systematically fails for qualitative content. This bridging requires consciousness on both sides.
 
 ## The Ineffability Problem
 
 If consciousness is irreducible and language is a physical-functional system, we should expect systematic failures in linguistic expression of phenomenal states. This is exactly what we find.
 
-The ineffability of [[qualia]]—the persistent inability to convey *what it is like* to see red, taste wine, or feel pain—is often treated as an epistemic curiosity. Under dualism, it is a structural prediction. Language evolved as a physical-functional system for coordinating behaviour among physical organisms. It was never designed to capture non-physical properties. That it partially succeeds—through metaphor, poetry, and phenomenal demonstration—is remarkable. That it systematically fails at the qualitative core is expected.
+The ineffability of [[qualia]]—the persistent inability to convey *what it is like* to see red, taste wine, or feel pain—is often treated as an epistemic curiosity. Under dualism, it is a structural prediction. Language evolved as a physical-functional system for coordinating behaviour among physical organisms. It was never designed to capture non-physical properties. That it partially succeeds—through metaphor, poetry, and phenomenal demonstration—is remarkable. That it systematically fails at the qualitative core is expected. The [[language-thought-boundary]] analysis distinguishes three types of limit here: limits specific to particular languages, limits of language as such, and limits that are conceptual—where thought itself cannot articulate what consciousness contains. The ineffability of qualia falls in the third category: it is not that we lack the right words, but that the qualitative core resists all possible linguistic expression.
 
 The word-anchoring problem, as Jakab frames it, asks how phenomenal terms get their reference—how "red" connects to the private qualitative experience of redness. Under physicalism, this should be solvable in principle: "red" refers to whatever physical state constitutes the experience. Under dualism, the anchoring crosses an ontological boundary. The word is physical; what it refers to is not. The persistent difficulty of the word-anchoring problem is diagnostic of the ontological gap dualism asserts.
 
