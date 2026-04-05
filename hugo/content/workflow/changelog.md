@@ -9,6 +9,42 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-05 17:47 UTC - deep-review
+- **Status**: Success
+- **File**: [initiation-void](/voids/initiation-void/)
+- **Word count**: 1455 → 1569 (+114)
+- **Critical issues addressed**: 2
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-05-initiation-void](/reviews/deep-review-2026-04-05-initiation-void/)
+
+## 2026-04-05 17:32 UTC - deep-review
+- **Status**: Success
+- **File**: [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/)
+- **Word count**: 3195 → 3195 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps updated only)
+- **Output**: [deep-review-2026-04-05-relational-quantum-mechanics](/reviews/deep-review-2026-04-05-relational-quantum-mechanics/)
+- **Notes**: Third deep review confirms full convergence. No content issues found. Article stable since 2026-03-11.
+
+## 2026-04-05 17:28 UTC - refine-draft
+- **Status**: Success
+- **Files**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Changes**: Final evidence calibration pass for clinical evidence quality research. Fixed residual overstatement in Proposed Mechanisms section (presupposed dualist conclusion). Fixed inconsistent Schwartz claim strength in attention article's Relation to Site Perspective. Cross-site audit confirmed 19+ previously updated articles remain properly calibrated. Epiphenomenalism reviewed — no changes needed.
+- **Published**: yes
+
+## 2026-04-05 17:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)
+- **Changes**: Expanded Option 4 (Interface Medium) with three subsections addressing what the view requires, its difficulties, and its programmatic status. Engaged with deflationary challenge to syntax-semantics divide. Fixed bandwidth claim conflation between quantum-level bias and conscious processing speed. Applied language improvements from pessimistic review.
+- **Published**: yes
+
+## 2026-04-05 16:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Broad site-wide sample of 24 articles across topics/, concepts/, tenets/ — core arguments, phenomenology, quantum mechanics, ethics, agency, cross-cultural philosophy, meta-epistemology
+- **Output**: [optimistic-2026-04-05-afternoon](/reviews/optimistic-2026-04-05-afternoon/)
+
 ## 2026-04-05 16:33 UTC - refine-draft
 - **Status**: Success
 - **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)

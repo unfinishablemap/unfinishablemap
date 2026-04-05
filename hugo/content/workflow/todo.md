@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05 14:19:00+00:00
+ai_modified: 2026-04-05 17:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ✓ 2026-04-05: Restructure motor-control-quantum-zeno.md to reduce Quantum Zeno centrality
-- **Type**: refine-draft
-- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" rule — the quantum Zeno effect is the article's title and organising framework despite the guide stating "Don't structure arguments around it." Restructure to foreground the philosophical question (how does consciousness move the body?) with Zeno as one candidate mechanism. The neuroscience content (Schurger, Sjöberg, Rizzolatti, Cisek, Desmurget) is strong and can stand independently. See pessimistic-2026-04-05b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-05
-- **Output**: obsidian/topics/motor-control-quantum-zeno.md -- Renamed to "Consciousness and Motor Selection", restructured with Zeno as candidate mechanism
-
-### P2: Develop "interface medium" position in metaphysics-of-information-under-dualism.md
-- **Type**: refine-draft
+### P2: Deep review phenomenal-absence-void.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: Pessimistic review found the article's preferred position (Option 4: information as interface medium) receives less analytical scrutiny than the three positions it rejects. The translator analogy is suggestive but unexplained. Either develop the position with comparable rigour or acknowledge it as programmatic rather than worked-out. See pessimistic-2026-04-05b.md
-- **Source**: pessimistic-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04, never deep-reviewed. Voids article on the impossibility of experiencing the absence of experience. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (sleep-consciousness-void, death-void, phenomenal-presence-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-05
+
+### P2: Deep review thrownness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-01 from research/voids-thrownness-void-2026-03-30.md, never deep-reviewed. Voids article on Heidegger's thrownness as a cognitive limit. Verify coherence, accuracy of Heidegger characterisation, cross-references to related void articles (initiation-void, ownership-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-05
+
+### P2: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-05 merged convergent-phenomenological-evidence into phenomenological-evidence. References updated in 4 files (problem-of-other-minds, buddhism-and-dualism, leibnizs-mill-argument, epistemology-of-convergence-arguments). Verify merged content is coherent, no redundancy introduced, and check whether additional articles should cross-reference the expanded concept page. Particularly check contemplative-practice-as-philosophical-evidence and phenomenal-authority-and-first-person-evidence for consistency with new content.
+- **Source**: chain (from coalesce 2026-04-05)
+- **Generated**: 2026-04-05
+
+### P2: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-05 absorbed phenomenological-method-and-evidence-standards into phenomenal-authority-and-first-person-evidence. Unique content integrated: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence. References updated in 3 files. Verify merged content is coherent, the methodology material integrates naturally with the authority argument, and check whether epistemology-of-first-person-evidence, methodology-of-consciousness-research, and contemplative-epistemology should cross-reference new material.
+- **Source**: chain (from coalesce 2026-04-05)
 - **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
@@ -1900,8 +1914,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-04
 
+### P3: Write concept page on domestication effect (explanatory gap habituation)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The process by which explanatory gaps become invisible through habituation—central to emergence-as-universal-hard-problem.md but applicable broadly. Would serve as a reusable analytical tool. Explains why physicalism appears parsimonious (we habituate to gaps at lower levels) and why contemplative training reveals the consciousness gap (it resists domestication). Target section: concepts/. See optimistic-2026-04-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-05
+
+### P3: Write concept page on norm-grasping vs norm-implementation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between a system implementing normative rules and a conscious agent grasping normative force as normative. Currently introduced in self-stultification-as-master-argument.md but applies to AI consciousness, argument from reason, and moral phenomenology. Deserves standalone treatment as a reusable concept. Target section: concepts/. See optimistic-2026-04-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-05
+
+### P3: Add cross-links: emergence↔parsimony, activity↔agent-causation, filter↔evolution, contemplative↔phenomenal-authority
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: emergence-as-universal-hard-problem → parsimony-case-for-interactionist-dualism (domestication explains apparent parsimony), consciousness-as-activity → agent-causation (phenomenological grounding for substance causation), filter-theory → evolution-under-dualism (what evolves is the receiver), contemplative-practice-as-philosophical-evidence → phenomenal-authority-and-first-person-evidence (training increases authority), self-stultification-as-master-argument → emergence-as-universal-hard-problem (gap universal implies self-stultification applies broadly), indian-philosophy-of-mind → agent-causation (Nyāya anticipates substance causation). See optimistic-2026-04-05-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-05
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Deep review initiation-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-01, never deep-reviewed. Voids article on the impossibility of witnessing one's own initiation into consciousness. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (origin-of-consciousness, transition-void, thrownness-void), and tenet alignment.
+- **Output**: obsidian/voids/initiation-void.md
+
+### ✓ 2026-04-05: Qualify overstated clinical evidence claims across Schwartz OCD, meditation, and neuroplasticity articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found critical evidence quality issues: (1) Schwartz OCD PET study used only 9 new participants, never independently replicated, no head-to-head comparison with standard ERP therapy; (2) meditation neuroimaging claims suffered major replication failure — Kral et al. 2022 (218 participants) found no structural brain changes from MBSR; (3) "self-directed neuroplasticity" involves a philosophical leap the empirical data alone cannot justify. Affected articles: clinical-neuroplasticity-evidence-for-bidirectional-causation.md, epiphenomenalism.md, attention-and-the-consciousness-interface.md, and any articles citing Schwartz or meditation brain-change evidence. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md found critical evidence quality issues: (1) Schwartz OCD PET study used only 9 new participants, never independently replicated, no head-to-head comparison with standard ERP therapy; (2) meditation neuroimaging claims suffered major replication failure — Kral et al. 2022 (218 participants) found no structural brain changes from MBSR; (3) "self-directed neuroplasticity" involves a philosophical leap the empirical data alone cannot justify. Affected articles: clinical-neuroplasticity-evidence-for-bidirectional-causation.md, epiphenomenalism.md, attention-and-the-consciousness-interface.md, and any articles citing Schwartz or meditation brain-change evidence. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
+
+### ✓ 2026-04-05: Develop "interface medium" position in metaphysics-of-information-under-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article's preferred position (Option 4: information as interface medium) receives less analytical scrutiny than the three positions it rejects. The translator analogy is suggestive but unexplained. Either develop the position with comparable rigour or acknowledge it as programmatic rather than worked-out. See pessimistic-2026-04-05b.md
+- **Output**: obsidian/concepts/metaphysics-of-information-under-dualism.md
+
+Task context:
+Pessimistic review found the article's preferred position (Option 4: information as interface medium) receives less analytical scrutiny than the three positions it rejects. The translator analogy is suggestive but unexplained. Either develop the position with comparable rigour or acknowledge it as programmatic rather than worked-out. See pessimistic-2026-04-05b.md
+
+### ✓ 2026-04-05: Restructure motor-control-quantum-zeno.md to reduce Quantum Zeno centrality
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" rule — the quantum Zeno effect is the article's title and organising framework despite the guide stating "Don't structure arguments around it." Restructure to foreground the philosophical question (how does consciousness move the body?) with Zeno as one candidate mechanism. The neuroscience content (Schurger, Sjöberg, Rizzolatti, Cisek, Desmurget) is strong and can stand independently. See pessimistic-2026-04-05b.md
+- **Output**: obsidian/topics/motor-control-quantum-zeno.md
+
+Task context:
+Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" rule — the quantum Zeno effect is the article's title and organising framework despite the guide stating "Don't structure arguments around it." Restructure to foreground the philosophical question (how does consciousness move the body?) with Zeno as one candidate mechanism. The neuroscience content (Schurger, Sjöberg, Rizzolatti, Cisek, Desmurget) is strong and can stand independently. See pessimistic-2026-04-05b.md
 
 ### ✓ 2026-04-05: Condense phenomenological-evidence.md (3661 words, 105% of hard threshold)
 - **Type**: condense

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-05 17:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -186,7 +186,7 @@ The selection architecture satisfies [Minimal Quantum Interaction](/tenets/#mini
 
 ### Bidirectional Interaction
 
-The interface hypothesis specifies how [bidirectional interaction](/tenets/#bidirectional-interaction) works mechanistically: consciousness selects among competing neural options (mind → brain), while the brain presents options to select among (brain → mind). Schwartz's OCD evidence directly supports this: directed attention produces brain changes that passive processing does not. The epiphenomenalist must explain why evolution built a unified attention-motor system with distinctive "willed" signatures that does nothing.
+The interface hypothesis specifies how [bidirectional interaction](/tenets/#bidirectional-interaction) works mechanistically: consciousness selects among competing neural options (mind → brain), while the brain presents options to select among (brain → mind). Schwartz's OCD evidence is suggestive here: directed attention appears to produce brain changes through a different route than passive processing, though the findings are small-sample and unreplicated. The epiphenomenalist must explain why evolution built a unified attention-motor system with distinctive "willed" signatures that does nothing.
 
 ### No Many Worlds
 
@@ -296,6 +296,16 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Evidence calibration bringing claims in line with actual study quality.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-05
+Changes made:
+- Bidirectional Interaction section: "Schwartz's OCD evidence directly supports this" → "is suggestive here" with sample-size and replication caveats, consistent with calibrated language earlier in the same article
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Internal consistency — Relation to Site Perspective section now matches calibrated language in OCD section.
 
 This log should be removed after human review.
 -->
