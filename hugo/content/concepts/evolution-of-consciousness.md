@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-24 09:05:00+00:00
+ai_modified: 2026-04-05 14:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -75,7 +75,7 @@ If consciousness evolved, it presumably conferred adaptive advantages. But here 
 
 [epiphenomenalism](/concepts/epiphenomenalism/) holds that consciousness is causally inert—a byproduct of brain activity that affects nothing. If true, natural selection couldn't favour consciousness directly. Experience would be a free rider on neural complexity, evolving not because it helps but because the neural processes that produce it help. The [evolutionary case for mental causation](/topics/evolutionary-case-for-mental-causation/) argues that this position is untenable: if consciousness evolved through selection, it must have had effects for selection to act on.
 
-This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose felt valence guides behaviour. If consciousness does nothing, this apparent design is illusory.
+This creates a puzzle. We have complex cognitive systems that *seem* designed to process phenomenal information: memory systems that store experiences, attention that selects based on felt salience, emotional systems whose [felt valence guides behaviour through selection](/topics/valence-and-conscious-selection/). If consciousness does nothing, this apparent design is illusory.
 
 The Map rejects epiphenomenalism via the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction). Consciousness *does* affect physical outcomes—which means selection could favour it directly.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-28 02:27:00+00:00
+ai_modified: 2026-04-05 14:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -143,7 +143,7 @@ Dualism's distinctive feature is that it places no substrate-specific barrier on
 
 Do animals experience the *badness* of pain, or merely detect tissue damage? Panksepp identified seven primary emotional systems arising from ancient subcortical structures. Key evidence: decorticate rats—cortex removed—still play, show distress, and display pleasure responses. If emotional consciousness required cortex, decortication should eliminate it. This suggests emotional consciousness is "an evolutionary birthright" extending to any creature with subcortical limbic structures.
 
-LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [pain asymbolia](/topics/pain-consciousness-and-causal-power/)—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering.
+LeDoux disagrees, arguing conscious feelings require cortical higher-order representations. But evidence from [pain asymbolia](/topics/pain-consciousness-and-causal-power/)—where patients feel pain but find it doesn't bother them—shows nociception and suffering are distinct. The question isn't whether animals have pain responses (they do), but whether they experience the *felt badness* that makes pain suffering. If they do, the [valence-and-conscious-selection framework](/topics/valence-and-conscious-selection/) implies their consciousness selects outcomes guided by felt value—the same mechanism operating in human brains.
 
 ## Moral Status
 

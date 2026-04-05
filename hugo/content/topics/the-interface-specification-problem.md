@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-19 02:34:00+00:00
+ai_modified: 2026-04-05 14:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -86,7 +86,7 @@ This proposal is less developed than Stapp's and faces the [pairing-problem](/co
 
 Three other candidates remain at the qualitative stage:
 
-- **[Valence](/concepts/valence/) → action selection**: Felt pleasure and pain bias approach/avoidance. Evidence from pain asymbolia (patients who register pain cognitively but lack the felt badness, and fail to avoid harm) supports the causal role of phenomenal valence. But no quantum mechanism has been proposed.
+- **[Valence](/concepts/valence/) → action selection**: Felt pleasure and pain bias approach/avoidance. Evidence from pain asymbolia (patients who register pain cognitively but lack the felt badness, and fail to avoid harm) supports the causal role of phenomenal valence. The [valence-and-conscious-selection article](/topics/valence-and-conscious-selection/) develops the case that valence may serve as a selection *currency*—the common metric enabling comparison among incommensurable outcomes. But no quantum mechanism has been proposed.
 - **Qualia → basis selection**: Qualitative character might determine which quantum measurement basis applies. Purely speculative.
 - **Phenomenal unity → sustained entanglement**: The binding of experience into a unified field might correspond to sustained quantum coherence. But correlation does not establish the causal direction.
 

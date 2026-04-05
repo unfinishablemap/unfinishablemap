@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-25 09:43:00+00:00
+ai_modified: 2026-04-05 14:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -138,7 +138,7 @@ The Map's commitment to [indexical identity](/topics/personal-identity/)—that 
 
 ## Suffering: The Moral Core
 
-Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [Suffering is distinct from mere pain](/topics/pain-consciousness-and-causal-power/)—it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) traces why the felt badness of pain does genuine causal work.
+Consciousness makes suffering possible; suffering is intrinsically bad; preventing suffering is therefore morally significant. [Suffering is distinct from mere pain](/topics/pain-consciousness-and-causal-power/)—it requires a subject who experiences negative [valence](/concepts/valence/), not just nociception. The [valence-and-conscious-selection thesis](/topics/valence-and-conscious-selection/) argues that this felt negativity is not epiphenomenal but participates in the selection mechanism through which consciousness acts on the brain. Pain asymbolia—patients who feel pain but aren't bothered—demonstrates this dissociation, and [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) traces why the felt badness of pain does genuine causal work.
 
 | Position | What Grounds Moral Status | Implication |
 |----------|---------------------------|-------------|

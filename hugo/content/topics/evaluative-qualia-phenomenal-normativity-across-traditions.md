@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-29 19:20:00+00:00
+ai_modified: 2026-04-05 14:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -109,7 +109,7 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [te
 
 **No Many Worlds**: The moral stakes that evaluative qualia generate—real suffering, real goodness—require a single-branch reality where outcomes matter. If all quantum branches are equally real, the felt badness that five traditions identify as irreducible carries no ultimate significance. The Map's rejection of many-worlds preserves the moral reality that evaluative qualia disclose.
 
-**Minimal Quantum Interaction**: If consciousness selects among quantum-level possibilities, evaluative qualia suggest this selection is normatively guided rather than arbitrary. The felt goodness or wrongness that five traditions identify as basic to experience would provide the phenomenal basis for consciousness's biasing of quantum outcomes—minimal in physical terms but normatively loaded.
+**Minimal Quantum Interaction**: If consciousness selects among quantum-level possibilities, evaluative qualia suggest this selection is normatively guided rather than arbitrary. The felt goodness or wrongness that five traditions identify as basic to experience would provide the phenomenal basis for consciousness's biasing of quantum outcomes—minimal in physical terms but normatively loaded. The [valence-and-conscious-selection fork](/topics/valence-and-conscious-selection/) examines whether this normative guidance operates directly through valence or indirectly through attention.
 
 **Occam's Razor Has Limits**: Eliminating evaluative qualia in favour of a simpler physicalist ontology requires explaining away the cross-traditional convergence as shared cognitive bias. Five traditions—developing through distinct methods within incompatible metaphysical frameworks—all converge on evaluative character as basic to experience. Dismissing this convergence as illusion demands an explanation at least as complex as accepting evaluative qualia as real.
 

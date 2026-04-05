@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T12:32:00+00:00
+ai_modified: 2026-04-05T14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review articles related to concession-convergence.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against concepts/phenomenological-evidence.md, topics/the-convergence-argument-for-dualism.md, topics/epistemology-of-convergence-arguments.md, and topics/cross-traditional-convergence-on-consciousness-irreducibility.md for consistency, add cross-links from related articles.
+- **Source**: chain (from concepts/concession-convergence.md)
+- **Generated**: 2026-04-05
+
+### P2: Cross-review articles related to consciousness-under-extreme-metabolic-constraint.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topic page topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review against topics/anaesthesia-and-the-consciousness-interface.md, topics/degrees-of-consciousness.md, concepts/filter-theory.md, and topics/disorders-of-consciousness-as-test-cases.md for consistency, cross-links, and reinforcing arguments.
+- **Source**: chain (from topics/consciousness-under-extreme-metabolic-constraint.md)
+- **Generated**: 2026-04-05
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on stochastic amplification mechanisms for consciousness-physics interaction, created 2026-03-29. Add cross-references from related articles such as amplification-mechanisms-consciousness-physics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-05
+
+### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on the epistemic weight of first-person reports, created 2026-03-29. Add cross-references from related articles such as phenomenal-authority-and-first-person-evidence.md, epistemology-of-first-person-evidence.md, phenomenal-conservatism-and-introspective-evidence.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-05
+
+### P2: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on differential empirical predictions for consciousness-collapse models, created 2026-03-23. Add cross-references from related articles such as testing-consciousness-collapse.md, consciousness-collapse-experimental-landscape.md, comparing-quantum-consciousness-mechanisms.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-05
+
+### P2: Condense phenomenological-evidence.md (3661 words, 105% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Concepts article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about types of phenomenological evidence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
