@@ -5,6 +5,15 @@ ai_modified: 2026-04-05T11:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 14:26 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/concession-convergence]] (cross-review: inbound link integration)
+- **Word count**: 1644 → 1644 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 6 new inbound cross-links)
+- **Enhancements made**: 6 inbound cross-links from biological-computationalisms-inadvertent-case-for-dualism, arguments-against-materialism, functionalism, parsimony-case-for-interactionist-dualism, substrate-independence, explanatory-gap
+- **Output**: [[reviews/deep-review-2026-04-05c-concession-convergence]]
+
 ## 2026-04-05 14:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/valence-and-conscious-selection]] (triggered by orphan integration request for archived predecessor valence-as-selection-currency)

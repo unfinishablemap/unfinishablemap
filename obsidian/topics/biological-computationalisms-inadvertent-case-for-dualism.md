@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-05T09:48:00+00:00
+ai_modified: 2026-04-05T14:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -61,7 +61,7 @@ Piccinini's mechanistic account of computation (2015) makes the most revealing c
 
 ## The Convergence Pattern
 
-Biological computationalism is not an isolated case. Multiple physicalist research programmes have converged on the same structural concession.
+Biological computationalism is not an isolated case. Multiple physicalist research programmes have converged on the same structural concession—a pattern the Map calls [[concession-convergence]].
 
 [[integrated-information-theory|Integrated Information Theory]] rejects substrate independence by tying consciousness to intrinsic causal power—not all systems with the right functional profile are conscious, only those with irreducible integrated information. [[global-workspace-theory|Global Workspace Theory]] ties consciousness to specific neural architectures rather than abstract computational properties. Higher-order theories (Rosenthal 2005) require specific representational structures that may not transfer across substrates.
 

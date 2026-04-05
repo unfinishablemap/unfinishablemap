@@ -4,7 +4,7 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-03-28T18:48:00+00:00
+ai_modified: 2026-04-05T14:26:00+00:00
 last_deep_review: 2026-03-23T07:38:00+00:00
 draft: false
 topics:
@@ -48,7 +48,7 @@ The Unfinishable Map takes this convergence seriously. Rather than treating the 
 
 The standard materialist strategy is to answer each argument individually. The [[explanatory-gap]] is supposedly just epistemic—a gap in *our understanding*, not in reality. [[philosophical-zombies|Philosophical zombies]] are conceivable but metaphysically impossible. [[knowledge-argument|Mary]] gains new abilities, not new facts. Each argument gets its own rebuttal, and physicalism continues.
 
-This strategy misses the forest for the trees. The tradition of anti-materialist argument stretches back to [[leibnizs-mill-argument|Leibniz's Mill]] (1714)—walk through an enlarged brain and find only mechanism, never perception. Seven or more independent arguments descend from or parallel that insight—the explanatory gap, the knowledge argument, the conceivability argument, arguments from [[qualia]], Kripke's modal argument, Nagel's subjectivity argument, the unity of consciousness, the [[argument-from-reason]], and [[intentionality]]—all arrive at the same conclusion through different routes. A pattern of this kind demands explanation. If materialism were correct, it would be a remarkable coincidence that so many independent lines of reasoning all happen to generate the same false conclusion.
+This strategy misses the forest for the trees. The tradition of anti-materialist argument stretches back to [[leibnizs-mill-argument|Leibniz's Mill]] (1714)—walk through an enlarged brain and find only mechanism, never perception. Seven or more independent arguments descend from or parallel that insight—the explanatory gap, the knowledge argument, the conceivability argument, arguments from [[qualia]], Kripke's modal argument, Nagel's subjectivity argument, the unity of consciousness, the [[argument-from-reason]], and [[intentionality]]—all arrive at the same conclusion through different routes. A pattern of this kind demands explanation. If materialism were correct, it would be a remarkable coincidence that so many independent lines of reasoning all happen to generate the same false conclusion. The pattern is reinforced by [[concession-convergence]]—physicalist theories themselves independently narrowing toward dualist-compatible positions through their own defensive modifications.
 
 The arguments exploit genuinely different features of consciousness. The explanatory gap concerns the absence of transparent connections between physical and phenomenal properties. The knowledge argument concerns the incompleteness of physical information. The conceivability argument concerns the logical separability of physics and experience. Arguments from qualia concern intrinsic qualitative character. The subjectivity argument concerns the irreducibility of perspective. The unity argument concerns the composition of conscious subjects from physical parts. The argument from reason concerns the normative character of inference. Each identifies a distinct aspect of experience that materialism struggles to accommodate.
 

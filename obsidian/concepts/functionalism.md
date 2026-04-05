@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-03-29T10:27:00+00:00
+ai_modified: 2026-04-05T14:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -68,7 +68,7 @@ This seems to follow from common sense. We attribute pain to dogs without demand
 
 Hilary Putnam invented functionalism. In "Psychological Predicates" (1967), he proposed that mental states are defined by their computational roles — the multiple realizability thesis that became functionalism's cornerstone. Putnam later abandoned his own creation. In *Representation and Reality* (1988), he argued that functionalism remained committed to an internalist conception of mental states that his own work on semantic externalism had discredited. If "meanings ain't in the head" — if mental content is partly constituted by environmental and social context — then no purely internal functional specification can capture what a mental state is.
 
-Putnam's trajectory did not stop at rejecting functionalism. Under William James's influence, he developed "pragmatic realism" — the view that truth is what would be justified under epistemically ideal conditions, conditions that essentially involve conscious rational agents. Each stage of his intellectual development moved further from reductive physicalism: functionalism → internal realism → pragmatic realism. The architect found the building uninhabitable and moved progressively toward a framework that grants consciousness an ineliminable role in constituting the meaningful world that science describes. When the philosopher who provided functionalism's most powerful argument (multiple realizability) concludes that the framework cannot account for meaning or reference, that is evidence the profession has not adequately absorbed.
+Putnam's trajectory did not stop at rejecting functionalism. Under William James's influence, he developed "pragmatic realism" — the view that truth is what would be justified under epistemically ideal conditions, conditions that essentially involve conscious rational agents. Each stage of his intellectual development moved further from reductive physicalism: functionalism → internal realism → pragmatic realism. The architect found the building uninhabitable and moved progressively toward a framework that grants consciousness an ineliminable role in constituting the meaningful world that science describes. Putnam's trajectory exemplifies [[concession-convergence]]—a physicalist pioneer forced by internal pressures to abandon the framework's core commitments. When the philosopher who provided functionalism's most powerful argument (multiple realizability) concludes that the framework cannot account for meaning or reference, that is evidence the profession has not adequately absorbed.
 
 ## Modern Functionalist Frameworks
 

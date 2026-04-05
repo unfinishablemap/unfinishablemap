@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles related to concession-convergence.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against concepts/phenomenological-evidence.md, topics/the-convergence-argument-for-dualism.md, topics/epistemology-of-convergence-arguments.md, and topics/cross-traditional-convergence-on-consciousness-irreducibility.md for consistency, add cross-links from related articles.
-- **Source**: chain (from concepts/concession-convergence.md)
-- **Generated**: 2026-04-05
-
 ### P2: Cross-review articles related to consciousness-under-extreme-metabolic-constraint.md
 - **Type**: cross-review
 - **Status**: pending
@@ -1929,6 +1922,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review articles related to concession-convergence.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against concepts/phenomenological-evidence.md, topics/the-convergence-argument-for-dualism.md, topics/epistemology-of-convergence-arguments.md, and topics/cross-traditional-convergence-on-consciousness-irreducibility.md for consistency, add cross-links from related articles.
+- **Output**: obsidian/concepts/concession-convergence.md -- Context: Cross-review articles related to concession-convergence.md
 
 ### ✓ 2026-04-05: Integrate valence-as-selection-currency.md into site navigation
 - **Type**: integrate-orphan
