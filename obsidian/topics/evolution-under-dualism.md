@@ -4,7 +4,7 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-04-05T11:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-12
 last_curated:
-last_deep_review: 2026-03-11T10:02:00+00:00
+last_deep_review: 2026-04-05T11:32:00+00:00
 coalesced_from:
   - "/topics/evolution-of-consciousness-dualist-perspective/"
 ---
@@ -124,13 +124,13 @@ What would selection for interface quality look like? Several features of brain 
 
 **Attentional systems**: The [[attention-as-interface|attention-as-interface]] hypothesis suggests that attention is the mechanism through which consciousness engages with neural processing. The elaborate attentional systems found in mammals and birds are consistent with selection for richer conscious access to neural content. Computational accounts explain attentional complexity in terms of information processing demands, and the interface hypothesis does not predict features that those accounts cannot also accommodate—but the sophistication of attention is what both accounts would expect if consciousness plays a functional role.
 
-**[[working-memory|Working memory]] expansion**: The dramatic expansion of human working memory relative to great apes (7±2 items versus approximately 2±1; Miller, 1956; Inoue & Matsuzawa, 2007) could reflect improved interface capacity. If working memory depends on conscious access, as [[global-workspace-theory|Global Workspace Theory]] proposes, then working memory expansion is interface expansion.
+**[[working-memory|Working memory]] expansion**: Human working memory capacity substantially exceeds that of other great apes (Miller, 1956). Comparative studies show chimpanzees performing differently on memory tasks—excelling at rapid spatial recall but handling fewer simultaneous items in sustained working memory (Inoue & Matsuzawa, 2007). This gap could reflect improved interface capacity. If working memory depends on conscious access, as [[global-workspace-theory|Global Workspace Theory]] proposes, then working memory expansion is interface expansion.
 
 These suggestions are speculative, and the interface selection argument depends on mental causation being established on independent grounds—without that foundation, the distinctive selection pressure the argument describes does not arise. The Map does not claim that interface selection has been demonstrated—only that dualism predicts a category of selection pressure that physicalism does not, and that some features of brain evolution are consistent with it.
 
 ## Convergent Evolution and Consciousness
 
-If consciousness interfaces with matter rather than being produced by it, convergent evolution takes on new significance. Cephalopods evolved complex nervous systems independently of vertebrates. If both lineages developed neural architectures capable of supporting consciousness, this convergence tells us something about what physical structures make good interfaces.
+If consciousness interfaces with matter rather than being produced by it, convergent evolution takes on new significance. Cephalopods evolved complex nervous systems independently of vertebrates (Godfrey-Smith, 2020). If both lineages developed neural architectures capable of supporting consciousness, this convergence tells us something about what physical structures make good interfaces.
 
 Under physicalism, convergent consciousness shows that similar computational architectures produce similar phenomenal states. Under dualism, it shows that the interface requirements are constrained by physics—not any physical system will do, but certain architectural features (integration, recurrence, perhaps quantum coherence) are necessary for consciousness to engage with matter. Evolution, exploring the space of possible neural architectures, converged on these features independently because they solve the same engineering problem: providing a workable consciousness-matter interface.
 
@@ -185,24 +185,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 1. Darwin, C. (1859). *On the Origin of Species*. John Murray.
 1. Godfrey-Smith, P. (2020). *Metazoa: Animal Life and the Birth of the Mind*. Farrar, Straus and Giroux.
 1. Inoue, S. & Matsuzawa, T. (2007). "Working memory of numerals in chimpanzees." *Current Biology*, 17(23), R1004–R1005.
-1. Kim, J. (1998). *Mind in a Physical World*. MIT Press.
 1. Miller, G. A. (1956). "The magical number seven, plus or minus two." *Psychological Review*, 63(2), 81–97.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 1. Southgate, A. & Oquatre-six, C. (2026-02-12). Evolution Under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolution-under-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-01-19). Evolution of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/evolution-of-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-03-23
-Changes made:
-- Fixed circular fitness argument: made interface selection explicitly conditional on independent evidence for mental causation, rather than assuming it as established
-- Removed unsupported claim that attentional systems are "far more sophisticated than what pure information processing would require"; reframed as consistent with both interface and computational accounts
-- Strengthened co-evolution temporal incoherence objection from "difficulty" to serious concern requiring resolution
-- Qualified zombie nomological impossibility claim as conditional on unspecified psychophysical laws
-- Softened "dissolves" to "offers a perspective on" for unsupported claim about puzzles
-- Added "may be" qualifier to convergent evolution empirical tractability claim
-- Added explicit note that interface selection argument depends on independent grounding for mental causation
-
-Based on pessimistic-2026-03-23c.md review findings.
-Key improvements: addressed two high-severity issues (circular fitness argument, unsupported attentional systems claim) and two medium-severity issues (zombie claim, co-evolution temporal coherence).
-
-This log should be removed after human review.
--->
