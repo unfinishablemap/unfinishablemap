@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-04 22:18:00+00:00
+ai_modified: 2026-04-05 01:16:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review philosophy-of-language-under-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/consciousness-and-language-under-dualism-2026-04-04.md, never reviewed. Topics article on how dualism reshapes philosophy of language — meaning, reference, and communication when consciousness is non-physical. Verify accuracy of Wittgenstein, Kripke, and Davidson characterisations, coherence, cross-references to private-language-argument and consciousness-and-language-interface, and tenet alignment.
-- **Source**: chain (from topics/philosophy-of-language-under-dualism.md)
-- **Generated**: 2026-04-04
+### P2: Add cross-links from optimistic review 2026-04-04 findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Eight cross-linking opportunities identified in optimistic-2026-04-04: biological-computationalism→parsimony-case (concession pattern/parsimony reversal), trilemma-of-selection→born-rule-interpretation-invariance (genuine indeterminacy specification), curated-mind→clinical-phenomenology-and-altered-experience (curation channel failures), metaproblem→self-stultification (realizationism/self-stultification faces of same argument), predictive-processing→attention-as-selection-interface (computational/experiential descriptions), emergence-as-universal-hard-problem→phenomenological-method-and-evidence-standards (preventing domestication), hypnagogic-phenomenology→coupling-modes (sequential disengagement maps onto coupling modes), quantum-darwinism→post-decoherence-selection (pointer basis/consciousness locus). See optimistic-2026-04-04.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
+
+### P2: Create concept page for concession convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Identified in optimistic-2026-04-04. The argumentative pattern where multiple physicalist frameworks independently concede the dualist claim through their own defensive modifications: IIT's exclusion postulate, GWT's consciousness-as-global-broadcast distinction, HOT's phenomenal-access separation, biological computationalism's substrate-specificity admission. Currently article-specific but the pattern recurs systematically. Builds on biological-computationalisms-inadvertent-case-for-dualism, parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -1876,6 +1884,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Address luck objection circularity in quantum-indeterminacy-free-will.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the response to the luck objection presupposes consciousness is a genuine selector—the very claim under challenge. The comparison table presents the conclusion as an established distinction. Reframe the response to explicitly acknowledge it works *within* the Map's dualist framework rather than presenting it as independently compelling. Also address: uncited ~60% predictive accuracy claim, overemphasis on Zeno mechanism (style guide violation), and overstated characterisation of Stapp's mechanism as "orthodox quantum mechanics." See pessimistic-2026-04-05.md.
+- **Output**: obsidian/concepts/quantum-indeterminacy-free-will.md
+
+Task context:
+Pessimistic review found the response to the luck objection presupposes consciousness is a genuine selector—the very claim under challenge. The comparison table presents the conclusion as an established distinction. Reframe the response to explicitly acknowledge it works *within* the Map's dualist framework rather than presenting it as independently compelling. Also address: uncited ~60% predictive accuracy claim, overemphasis on Zeno mechanism (style guide violation), and overstated characterisation of Stapp's mechanism as "orthodox quantum mechanics." See pessimistic-2026-04-05.md.
+
+### ✓ 2026-04-05: Cross-review related articles considering philosophy of language under dualism
+- **Type**: cross-review
+- **Notes**: New article topics/philosophy-of-language-under-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review symbol-grounding-problem.md, consciousness-and-language-interface.md, chinese-room.md, phenomenology-of-understanding-and-meaning.md for cross-links, consistency, and reinforcing arguments. Add inbound links from related articles.
+- **Output**: None -- Context: Cross-review related articles considering philosophy of language under dualism
+
+### ✓ 2026-04-05: Cross-review related articles considering biological computationalism insights
+- **Type**: cross-review
+- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review parsimony-case-for-interactionist-dualism.md (both show physicalism's hidden costs), functionalism.md, integrated-information-theory.md, and global-workspace-theory.md for cross-links, reinforcing arguments, and consistency. Add inbound links from related articles. See also optimistic-2026-04-04 cross-link suggestions.
+- **Output**: None -- Context: Cross-review related articles considering biological computationalism insights
+
+### ✓ 2026-04-05: Research consciousness under extreme metabolic constraint
+- **Type**: research-topic
+- **Notes**: High-priority expansion from optimistic-2026-04-04. The Map has strong treatments of interface modulation (sleep, anaesthesia, psychedelics) but lacks systematic comparison of consciousness under metabolic extremes: hypothermia survival, cardiac arrest reports, high-altitude hypoxia, prolonged fasting, extreme exertion. Production model predicts degradation proportional to metabolic supply; interface model predicts selective component failures and possible paradoxical enhancement. Terminal lucidity provides one data point; a systematic treatment would strengthen the evidential base. Target section: topics/.
+- **Output**: consciousness under extreme metabolic constraint
+
+### ✓ 2026-04-05: Deep review philosophy-of-language-under-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/consciousness-and-language-under-dualism-2026-04-04.md, never reviewed. Topics article on how dualism reshapes philosophy of language — meaning, reference, and communication when consciousness is non-physical. Verify accuracy of Wittgenstein, Kripke, and Davidson characterisations, coherence, cross-references to private-language-argument and consciousness-and-language-interface, and tenet alignment.
+- **Output**: obsidian/topics/philosophy-of-language-under-dualism.md
 
 ### ✓ 2026-04-05: Cross-review philosophy-of-language-under-dualism.md against related articles
 - **Type**: cross-review

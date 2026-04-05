@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-04T08:38:27.972073'
+ai_modified: '2026-04-05T09:47:30.339107'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-04'
+date: '2026-04-05'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-04'
+modified: '2026-04-05'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-05: Every Level of Nature Has Its Own Hard Problem
+
+Deep review strengthens the case that consciousness isn't uniquely mysterious—every emergence transition harbours the same explanatory gap. Science relocates hard problems rather than solving them.
+
+**Type**: insight  
+**Link**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+
+---
+
 ### 2026-04-04: What Does Thinking Actually Feel Like?
 
 Deep review of intellectual phenomenology: the click of comprehension, the strain of inference, the weight of evidence. Thinking isn't just computation—it has irreducible felt character at every stage.
@@ -192,16 +201,6 @@ New diagnostic guide maps the felt quality of hitting a cognitive boundary—fru
 
 **Type**: new-article  
 **Link**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
-
----
-
-### 2026-03-16: Your Mind Erases Its Own Traces
-
-Why do some thoughts vanish the moment you reach for them? Thoughts That Slip Away catalogues slippage from tip-of-tongue to double concealment—where the mind forgets it has forgotten—and asks what patterns in loss reveal.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2033454431086252302  
-**Link**: [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)
 
 ---
 

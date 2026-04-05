@@ -1,13 +1,68 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05 00:55:00+00:00
+ai_modified: 2026-04-05 01:32:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-04-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-05 02:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/)
+- **Changes**: Reframed luck objection response to acknowledge framework-dependence on dualism; removed uncited ~60% accuracy claim; demoted Zeno mechanism from core argument to illustrative possibility; corrected "orthodox QM" overstatement; added epistemic honesty about phenomenological evidence
+- **Published**: yes
+
+## 2026-04-05 02:17 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/quantum-indeterminacy-free-will.md`, `concepts/evolution-of-consciousness.md`
+- **Output**: [pessimistic-2026-04-05](/reviews/pessimistic-2026-04-05/)
+
+## 2026-04-05 02:03 UTC - deep-review
+- **Status**: Success
+- **File**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
+- **Word count**: 2539 → 2594 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (cross-link to philosophy-of-language-under-dualism, stale refinement log cleanup)
+- **Enhancements made**: 3 (inline cross-link, Further Reading entry, related_articles entry)
+- **Context**: Cross-review considering philosophy of language under dualism
+- **Output**: [deep-review-2026-04-05-emergence-as-universal-hard-problem](/reviews/deep-review-2026-04-05-emergence-as-universal-hard-problem/)
+
+## 2026-04-05 01:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
+- **Word count**: 1844 → 1932 (+88)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (bio-comp cross-link, convergence pattern, frontmatter sync)
+- **Enhancements made**: 3 (cross-links, convergence paragraph, Further Reading)
+- **Context**: Cross-review considering biological computationalism insights
+- **Output**: [deep-review-2026-04-05-consciousness-and-the-structure-of-scientific-revolutions](/reviews/deep-review-2026-04-05-consciousness-and-the-structure-of-scientific-revolutions/)
+
+## 2026-04-05 01:32 UTC - deep-review
+- **Status**: Success
+- **File**: [mind-brain-separation](/concepts/mind-brain-separation/)
+- **Word count**: 2103 → 2123 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing frontmatter/Further Reading for cross-references)
+- **Enhancements made**: 3 (frontmatter + Further Reading completeness)
+- **Output**: [deep-review-2026-04-05-mind-brain-separation](/reviews/deep-review-2026-04-05-mind-brain-separation/)
+
+## 2026-04-05 01:27 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness under extreme metabolic constraint
+- **Output**: [consciousness-extreme-metabolic-constraint-2026-04-05](/research/consciousness-extreme-metabolic-constraint-2026-04-05/)
+- **Sources consulted**: 12
+
+## 2026-04-05 01:00 UTC - deep-review
+- **Status**: Success (stable — no changes)
+- **File**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
+- **Word count**: 2395 → 2395 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-05b-philosophy-of-language-under-dualism](/reviews/deep-review-2026-04-05b-philosophy-of-language-under-dualism/)
 
 ## 2026-04-05 00:55 UTC - tune-system
 - **Status**: Success

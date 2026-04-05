@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-03-14 14:41:00+00:00
+ai_modified: 2026-04-05 01:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[dualism]]'
 - '[[reductionism]]'
 created: 2026-03-11
-date: &id001 2026-03-11
+date: &id001 2026-04-05
 description: Applying Kuhn's framework to consciousness studies reveals physicalism
   as a paradigm in crisis — anomalies mount, normal science cannot absorb them, and
   no successor paradigm has crystallised.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 21:17:00+00:00
+last_deep_review: 2026-04-05 01:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -26,6 +26,7 @@ related_articles:
 - '[[phenomenology-of-conceptual-change]]'
 - '[[phenomenology-of-framework-inhabitation]]'
 - '[[parsimony-epistemology]]'
+- '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 title: Consciousness and the Structure of Scientific Revolutions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -63,13 +64,15 @@ Kuhn described several features of paradigm crisis that map onto the current sta
 
 **Proliferation of competing theories.** During normal science, researchers share a framework and disagree about details. During crisis, fundamental alternatives proliferate. Contemporary consciousness studies offers global workspace theory, integrated information theory, higher-order theories, recurrent processing theory, orchestrated objective reduction, predictive processing accounts, and more. These are not minor variations on a theme. They disagree about what consciousness *is*, where it *is*, and what would count as explaining it. This proliferation is exactly what Kuhn predicted when a paradigm can no longer constrain inquiry.
 
-**Loosening of methodological standards.** Kuhn noted that crisis produces willingness to try approaches that normal science would exclude. In consciousness studies, this manifests as the resurgence of panpsychism in mainstream philosophy, the growing respectability of integrated information theory's axiomatic approach (which derives consciousness from mathematical structure rather than physical mechanism), and increasing openness to neurophenomenological methods that integrate first-person reports into empirical research. Each represents a departure from strict physicalist methodology. Their acceptance signals that the paradigm's methodological constraints no longer feel adequate.
+**Loosening of methodological standards.** Kuhn noted that crisis produces willingness to try approaches that normal science would exclude. In consciousness studies, this manifests as the resurgence of panpsychism in mainstream philosophy, the growing respectability of integrated information theory's axiomatic approach (which derives consciousness from mathematical structure rather than physical mechanism), increasing openness to neurophenomenological methods that integrate first-person reports into empirical research, and the emergence of [biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — which rejects [substrate-independence](/concepts/substrate-independence/) while retaining computation, conceding that abstract functional organisation does not suffice for consciousness. Each represents a departure from strict physicalist methodology. Their acceptance signals that the paradigm's methodological constraints no longer feel adequate.
 
 **Philosophical reflection.** Kuhn observed that scientists in crisis turn philosophical — questioning assumptions they normally take for granted. The explosion of foundational work in consciousness studies — debates about what explanation means for consciousness, whether the hard problem is genuine, whether first-person methods are scientifically legitimate — is characteristic. Normal science does not need to defend its foundations. A paradigm in crisis does.
 
 ## Why No Revolution Has Occurred
 
 If physicalism is a paradigm in crisis, why has no revolution occurred? Kuhn was clear that crisis alone is insufficient. Paradigms are not abandoned until a viable alternative is available. "To reject one paradigm without simultaneously substituting another is to reject science itself" (Kuhn 1962, p. 79). Lakatos (1978) reinforced this point: research programmes degenerate when they require ever more *ad hoc* modifications to handle anomalies, but they persist until a progressive alternative absorbs their successes. Physicalism's proliferation of competing consciousness theories resembles a degenerating programme — yet no rival has demonstrated the progressive problem-shifts that would trigger replacement.
+
+The pattern goes deeper than mere proliferation. As [biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) illustrates, multiple physicalist research programmes have independently converged on conceding a central dualist point: that abstract functional organisation is insufficient for consciousness. Each theory narrows the class of conscious systems in ways that undermine the functionalist response to dualism — inadvertently tracing the outline of the position they deny.
 
 This explains the current impasse. [Dualism](/concepts/interactionist-dualism/), the most prominent alternative, lacks what Kuhn called an exemplary solution — a worked example showing how the new paradigm resolves a key anomaly in detail. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet gestures toward such a solution, proposing that consciousness biases quantum indeterminacy in neural systems. But this remains programmatic rather than fully developed. Panpsychism faces the [combination problem](/concepts/combination-problem/). Mysterianism denies that any solution is humanly accessible. None has produced the decisive anomaly resolution that triggers revolution.
 
@@ -102,6 +105,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
 - [The Phenomenology of Framework Inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- [Biological Computationalism's Inadvertent Case for Dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 
 ## References

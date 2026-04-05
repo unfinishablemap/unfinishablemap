@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-05 01:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -15,6 +15,7 @@ concepts:
 - '[[motor-selection]]'
 - '[[philosophical-zombies]]'
 - '[[unity-of-consciousness]]'
+- '[[process-philosophy]]'
 created: 2026-01-14
 date: &id001 2026-02-26
 description: 'Filter theory''s division of faculties: qualia belong to mind, automatic
@@ -22,11 +23,13 @@ description: 'Filter theory''s division of faculties: qualia belong to mind, aut
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 21:13:00+00:00
+last_deep_review: 2026-04-05 01:32:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[near-death-experiences]]'
+- '[[terminal-lucidity-and-filter-transmission-theory]]'
+- '[[lucid-dreaming-and-dualist-rendering]]'
 title: Mind-Brain Separation and the Division of Faculties
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -132,6 +135,8 @@ The mind-brain separation framework would face serious difficulty if:
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Why phenomenal unity resists neural explanation
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Dissociation evidence from severed corpus callosum
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical conditions, anaesthesia, covert consciousness, and the interface interpretation
+- [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive clarity during neurodegeneration as filter theory evidence
+- [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — The rendering dilemma for dream imagery
 - [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework this analysis supports
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Why correlates don't establish production
