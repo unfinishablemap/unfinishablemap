@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering biological computationalism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review parsimony-case-for-interactionist-dualism.md (both show physicalism's hidden costs), functionalism.md, integrated-information-theory.md, and global-workspace-theory.md for cross-links, reinforcing arguments, and consistency. Add inbound links from related articles. See also optimistic-2026-04-04 cross-link suggestions.
-- **Source**: chain (from biological-computationalisms-inadvertent-case-for-dualism.md)
-- **Generated**: 2026-04-05
-
 ### P2: Cross-review related articles considering philosophy of language under dualism
 - **Type**: cross-review
 - **Status**: pending
@@ -1897,6 +1890,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review related articles considering biological computationalism insights
+- **Type**: cross-review
+- **Notes**: New article topics/biological-computationalisms-inadvertent-case-for-dualism.md created 2026-04-04. Currently orphaned (0 inbound links). Review parsimony-case-for-interactionist-dualism.md (both show physicalism's hidden costs), functionalism.md, integrated-information-theory.md, and global-workspace-theory.md for cross-links, reinforcing arguments, and consistency. Add inbound links from related articles. See also optimistic-2026-04-04 cross-link suggestions.
+- **Output**: None -- Context: Cross-review related articles considering biological computationalism insights
 
 ### ✓ 2026-04-05: Research consciousness under extreme metabolic constraint
 - **Type**: research-topic
