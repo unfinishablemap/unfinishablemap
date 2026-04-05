@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review convergence and epistemology articles considering concession-convergence
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review the-convergence-argument-for-dualism.md, epistemology-of-convergence-arguments.md, and the-epiphenomenalist-threat.md for cross-linking opportunities, reinforcing arguments, or terminology that the new concept unifies. The concession-convergence pattern (rival frameworks conceding dualist-friendly premises) may strengthen existing convergence arguments.
-- **Source**: chain (from concepts/concession-convergence.md)
-- **Generated**: 2026-04-05
-
 ### P2: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
 - **Type**: cross-review
 - **Status**: pending
@@ -1922,6 +1915,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review convergence and epistemology articles considering concession-convergence
+- **Type**: cross-review
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review the-convergence-argument-for-dualism.md, epistemology-of-convergence-arguments.md, and the-epiphenomenalist-threat.md for cross-linking opportunities, reinforcing arguments, or terminology that the new concept unifies. The concession-convergence pattern (rival frameworks conceding dualist-friendly premises) may strengthen existing convergence arguments.
+- **Output**: None -- Context: Cross-review convergence and epistemology articles considering concession-convergence
 
 ### ✓ 2026-04-05: Deep review concession-convergence.md
 - **Type**: deep-review
