@@ -5,6 +5,12 @@ ai_modified: 2026-04-05T22:26:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 22:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [[delegatory-dualism]]
+- **Changes**: Acknowledged preemption analogy cross-ontological disanalogy; reframed theoretical advantages as intra-dualist; acknowledged counterfactual nature of default causal profiles; qualified unsupported claims; strengthened illusionism engagement; added exploratory caveat to Map integration; fixed evaluative language
+- **Published**: yes
+
 ## 2026-04-05 22:26 UTC - research-topic
 - **Status**: Success
 - **Topic**: Consciousness and the metaphysics of composition

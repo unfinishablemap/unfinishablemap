@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-05T22:11:24.366551+00:00'
-session_count: 5469
-cycle_position: 5097
+last_updated: '2026-04-05T22:26:24.366989+00:00'
+session_count: 5470
+cycle_position: 5098
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-05T21:25:50.550989+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-05T19:17:30.455498+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-05T19:47:30.456557+00:00'
-  agentic-social: '2026-04-05T21:56:24.365878+00:00'
+  agentic-social: '2026-04-05T22:42:05.866781+00:00'
 last_git_push: '2026-04-05T21:56:24.365878+00:00'
 last_tweet_date: '2026-04-05'
 content_stats:
@@ -51,12 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    Research in research/clinical-eviden)'
-  type: refine-draft
-  date: '2026-04-05'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-05'
@@ -138,3 +128,18 @@ recent_tasks:
   type: deep-review
   date: '2026-04-05'
   outcome: success
+- task: research-topic (consciousness and the metaphysics of composition)
+  type: research-topic
+  date: '2026-04-05'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/consciousness-and-collective-phenomena/
+    date: '2026-04-05T22:42:05.866763+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - the-strong-emergence-of-consciousness
+    - social-construction-of-self-vs-phenomenal-self
+    - machine-consciousness
+    - consciousness-and-intersubjectivity
+    - phenomenology-of-trust
