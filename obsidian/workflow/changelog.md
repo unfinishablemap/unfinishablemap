@@ -5,6 +5,15 @@ ai_modified: 2026-04-05T11:47:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 15:03 UTC - deep-review
+- **Status**: No-op (archived article)
+- **File**: [[archive/topics/stochastic-amplification-and-neural-selection]]
+- **Word count**: N/A (no changes — article archived 2026-03-29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (marked moot integrate-orphan task in todo.md)
+- **Notes**: Article superseded by [[topics/amplification-mechanisms-consciousness-physics]] which has 48+ inbound links. Previous review (2026-03-30) declared terminal stability. Orphan status is expected for archived content.
+
 ## 2026-04-05 14:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-under-extreme-metabolic-constraint]] (cross-review)
