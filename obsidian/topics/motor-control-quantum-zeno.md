@@ -4,7 +4,7 @@ description: "How consciousness moves the body: converging neuroscience dissolve
 created: 2026-02-22
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-05T21:11:00+00:00
+ai_modified: 2026-04-05T23:11:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-03-21T08:33:00+00:00
+last_deep_review: 2026-04-05T23:11:00+00:00
 ---
 
 How does consciousness move the body? The Unfinishable Map holds that consciousness causally influences the physical world, and motor control is where this claim faces its sharpest test. Every voluntary movement—reaching for a glass, typing a sentence, turning your head—requires non-physical consciousness to produce physical effects. Converging neuroscience evidence now reveals the architecture where this could happen: the Libet challenge to conscious will has dissolved, attention and motor planning share neural substrates, and the brain's own motor selection system operates through competitive threshold-crossing that leaves room for a non-physical selector. The question is no longer whether the neuroscience permits a role for consciousness—it does—but what mechanism could fill that role.
@@ -109,7 +109,7 @@ This remains a candidate mechanism, not an established one. The Map's core argum
 
 The framework locates *where* consciousness might influence motor selection but does not fully explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is identified, not illuminated.
 
-For the quantum Zeno candidate specifically, the [[decoherence]] objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [[timing-gap-problem|twelve-order-of-magnitude gap]] from the millisecond timescales of neural competition. The most favourable revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, but this still leaves a gap of roughly six orders of magnitude. Stapp argues that his mechanism requires only that observation events outpace decoherence rather than sustaining coherence across the full decision interval—but even granting this reframing, no concrete model demonstrates observation events occurring at the required microsecond-or-faster rates, and the gap between the fastest plausible observation rate and the slowest plausible decoherence rate remains unquantified. This is the single largest empirical obstacle to the quantum Zeno candidate.
+For the quantum Zeno candidate specifically, the [[decoherence]] objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [[timing-gap-problem|twelve-order-of-magnitude gap]] from the millisecond timescales of neural competition. The most favourable revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, but this still leaves a gap of roughly three orders of magnitude from the millisecond timescales of neural competition. Stapp argues that his mechanism requires only that observation events outpace decoherence rather than sustaining coherence across the full decision interval—and if each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice—but no concrete model demonstrates observation events occurring at the required microsecond-or-faster rates. This is the single largest empirical obstacle to the quantum Zeno candidate.
 
 More broadly, the parallel between attention and motor control—while striking—does not prove they share a single mechanism through which consciousness acts. Shared timing and neural signatures could reflect computational similarities without any non-physical involvement. Reinforcement learning and Bayesian optimal control theory already explain much of motor selection without appealing to consciousness or quantum mechanics. The brain's dopamine system implements a well-characterised reward prediction error signal that biases selection computationally. Identifying what, specifically, these models fail to account for remains an open challenge.
 
@@ -155,20 +155,3 @@ What would strengthen the case? In Schurger-style self-paced movement tasks, sto
 1. Sjöberg, R.L. (2024). The readiness potential and the soul. *Brain*, 147(7), 2267-2274.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
-
-<!-- AI REFINEMENT LOG - 2026-04-05 (pass 2)
-Changes made:
-- Sharpened falsifiability claim: added specific paradigm (Schurger-style self-paced tasks), expected effect size (~5-15% drift rate shift), sample size (~50-100), and method (EEG-locked single-trial analysis), and acknowledged no such deviation has been demonstrated
-- Strengthened decoherence timing gap: explicitly stated Hagan's microsecond extension still leaves ~6-order gap, noted no concrete model for required observation rates, called this the single largest empirical obstacle
-- Rewrote No Many Worlds tenet section: engaged directly with the Everettian response (decoherence-based branching preserves experience of singular choice), clarified the Map's objection is about metaphysical significance of selection rather than phenomenology
-
-Prior pass (2026-04-05):
-- Restructured away from Quantum Zeno centrality per writing style guide
-- Retitled, rewrote opening, consolidated QZ into dedicated section
-- Engaged with computational motor control models
-- Updated description
-
-Driven by pessimistic-2026-04-05b.md Issues 1-4.
-
-This log should be removed after human review.
--->

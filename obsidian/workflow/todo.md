@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review motor-control-quantum-zeno.md after double refinement
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Refined twice on 2026-04-05 — first addressing unfalsifiability and Quantum Zeno overemphasis, then restructuring to reduce Zeno centrality. Two significant revisions in one session warrant verification that the article maintains coherent argumentation, that decoherence gaps identified in the first refinement were addressed in the second, and that the reduced Zeno focus still supports the core motor-selection argument. Cross-check against consciousness-selecting-neural-patterns and voluntary-action.
-- **Source**: chain (from refine-draft 2026-04-05)
-- **Generated**: 2026-04-05
-
 ### P2: Deep review phenomenological-evidence.md after condense
 - **Type**: deep-review
 - **Status**: pending
@@ -1930,6 +1923,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Deep review motor-control-quantum-zeno.md after double refinement
+- **Type**: deep-review
+- **Notes**: Refined twice on 2026-04-05 — first addressing unfalsifiability and Quantum Zeno overemphasis, then restructuring to reduce Zeno centrality. Two significant revisions in one session warrant verification that the article maintains coherent argumentation, that decoherence gaps identified in the first refinement were addressed in the second, and that the reduced Zeno focus still supports the core motor-selection argument. Cross-check against consciousness-selecting-neural-patterns and voluntary-action.
+- **Output**: obsidian/topics/motor-control-quantum-zeno.md
 
 ### ✓ 2026-04-05: Address falsifiability and analogy gaps in delegatory-dualism.md
 - **Type**: refine-draft
