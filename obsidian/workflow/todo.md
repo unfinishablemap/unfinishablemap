@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research consciousness under extreme metabolic constraint
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: High-priority expansion from optimistic-2026-04-04. The Map has strong treatments of interface modulation (sleep, anaesthesia, psychedelics) but lacks systematic comparison of consciousness under metabolic extremes: hypothermia survival, cardiac arrest reports, high-altitude hypoxia, prolonged fasting, extreme exertion. Production model predicts degradation proportional to metabolic supply; interface model predicts selective component failures and possible paradoxical enhancement. Terminal lucidity provides one data point; a systematic treatment would strengthen the evidential base. Target section: topics/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Cross-review related articles considering biological computationalism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1904,6 +1897,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Research consciousness under extreme metabolic constraint
+- **Type**: research-topic
+- **Notes**: High-priority expansion from optimistic-2026-04-04. The Map has strong treatments of interface modulation (sleep, anaesthesia, psychedelics) but lacks systematic comparison of consciousness under metabolic extremes: hypothermia survival, cardiac arrest reports, high-altitude hypoxia, prolonged fasting, extreme exertion. Production model predicts degradation proportional to metabolic supply; interface model predicts selective component failures and possible paradoxical enhancement. Terminal lucidity provides one data point; a systematic treatment would strengthen the evidential base. Target section: topics/.
+- **Output**: consciousness under extreme metabolic constraint
 
 ### ✓ 2026-04-05: Deep review philosophy-of-language-under-dualism.md
 - **Type**: deep-review

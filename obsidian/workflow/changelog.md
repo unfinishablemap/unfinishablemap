@@ -5,6 +5,12 @@ ai_modified: 2026-04-05T00:55:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 01:27 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness under extreme metabolic constraint
+- **Output**: [[research/consciousness-extreme-metabolic-constraint-2026-04-05]]
+- **Sources consulted**: 12
+
 ## 2026-04-05 01:00 UTC - deep-review
 - **Status**: Success (stable — no changes)
 - **File**: [[topics/philosophy-of-language-under-dualism]]
