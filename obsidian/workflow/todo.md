@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md, never reviewed. Topics article arguing that biological computationalism's emphasis on substrate-specificity inadvertently supports dualist conclusions. Verify accuracy of Milinkovic-Aru et al. characterisation, coherence of the inadvertent-dualism argument, cross-references to functionalism and consciousness-as-amplifier, and tenet alignment (Tenet 1).
-- **Source**: chain (from topics/biological-computationalisms-inadvertent-case-for-dualism.md)
-- **Generated**: 2026-04-04
-
 ### P2: Cross-review philosophy-of-language-under-dualism.md against related articles
 - **Type**: cross-review
 - **Notes**: New article topics/philosophy-of-language-under-dualism.md created 2026-04-04. Review against topics/consciousness-and-intersubjectivity.md, topics/phenomenology-of-understanding-and-meaning.md, concepts/private-language-argument.md, and topics/consciousness-and-language-interface.md for consistency, cross-linking, and whether language-under-dualism arguments reinforce or tension with existing content.
@@ -1887,6 +1881,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md, never reviewed. Topics article arguing that biological computationalism's emphasis on substrate-specificity inadvertently supports dualist conclusions. Verify accuracy of Milinkovic-Aru et al. characterisation, coherence of the inadvertent-dualism argument, cross-references to functionalism and consciousness-as-amplifier, and tenet alignment (Tenet 1).
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
 
 ### ✓ 2026-04-04: Deep review pragmatism-and-qbism.md
 - **Type**: deep-review

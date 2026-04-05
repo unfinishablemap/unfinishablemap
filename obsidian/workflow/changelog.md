@@ -5,6 +5,15 @@ ai_modified: 2026-04-04T23:18:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 00:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 1800 → 1855 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Fodor reference, SEP citation, Chalmers in-text citation, Rosenthal citation)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-04-05-biological-computationalisms-inadvertent-case-for-dualism]]
+
 ## 2026-04-05 00:03 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Sections searched**: voids (100/100), concepts (224/230)

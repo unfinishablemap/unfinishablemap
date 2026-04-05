@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-04T23:18:00+00:00
+ai_modified: 2026-04-05T00:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,14 +27,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-04-04T23:18:00+00:00
+last_deep_review: 2026-04-05T00:18:00+00:00
 ---
 
 Biological computationalism—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments inadvertently build the dualist case: by insisting that consciousness requires something beyond abstract computation, biological computationalism concedes the central point dualists have always made. The explanatory gap it opens between algorithm and experience is precisely the gap dualism was designed to fill.
 
 ## The Third Path
 
-Classical computational functionalism, associated with Putnam (1967) and Fodor (1974), holds that mental states are defined by functional roles. Any system implementing the right computation—silicon, carbon, soul-stuff—would be conscious. The Stanford Encyclopedia of Philosophy notes that the computational theory of mind "remains neutral in the traditional debate between physicalism and substance dualism, proceeding at a very abstract level without specifying whether mental computations are implemented by physical stuff or Cartesian soul-stuff." This formal neutrality is itself revealing: computation alone cannot settle questions about consciousness.
+Classical computational functionalism, associated with Putnam (1967) and Fodor (1974), holds that mental states are defined by functional roles. Any system implementing the right computation—silicon, carbon, soul-stuff—would be conscious. The Stanford Encyclopedia of Philosophy notes that the computational theory of mind "remains neutral in the traditional debate between physicalism and substance dualism, proceeding at a very abstract level without specifying whether mental computations are implemented by physical stuff or Cartesian soul-stuff" (Rescorla 2020). This formal neutrality is itself revealing: computation alone cannot settle questions about consciousness.
 
 Searle's biological naturalism (1992) moves in the opposite direction. Consciousness requires specific neurobiological causal powers; silicon lacks them. The Chinese Room argument drives the point: syntax is insufficient for semantics. But Searle denies being a dualist, insisting consciousness is "causally reducible" to neurobiology even while being "ontologically irreducible" to it—a position that strains coherence.
 
@@ -54,7 +54,7 @@ Each claim biological computationalists make to distinguish biological from digi
 
 Biological computationalism promises to explain why brains are conscious and computers are not. But the explanation amounts to: brains have the right physical substrate. This relocates the [[hard-problem-of-consciousness|hard problem]] rather than solving it.
 
-Under classical functionalism, the hard problem asks: why does *this* functional organisation produce experience? Biological computationalism narrows the question to: why does *this* biological substrate produce experience? The question has changed its scope but not its character. No amount of detail about ion flows, dendritic integration, or electromagnetic field interactions explains why these processes are accompanied by subjective experience rather than proceeding in the dark. The [[explanatory-gap]] persists at every level of physical description, whether abstract or substrate-specific.
+Under classical functionalism, the hard problem (Chalmers 1996) asks: why does *this* functional organisation produce experience? Biological computationalism narrows the question to: why does *this* biological substrate produce experience? The question has changed its scope but not its character. No amount of detail about ion flows, dendritic integration, or electromagnetic field interactions explains why these processes are accompanied by subjective experience rather than proceeding in the dark. The [[explanatory-gap]] persists at every level of physical description, whether abstract or substrate-specific.
 
 Piccinini's mechanistic account of computation (2015) makes the most revealing concession of all. He argues that computation is a physical mechanism, but then acknowledges that consciousness may depend on functional organisation *without being computational*—what he calls "noncomputational functionalism." If the aspect of brain function that produces consciousness is not the computational part, biological computationalism has identified the wrong explanatory target. The consciousness-relevant properties would be something *over and above* computation—which is structurally identical to the dualist claim that consciousness is something over and above the physical processes that give rise to it.
 
@@ -62,7 +62,7 @@ Piccinini's mechanistic account of computation (2015) makes the most revealing c
 
 Biological computationalism is not an isolated case. Multiple physicalist research programmes have converged on the same structural concession.
 
-[[integrated-information-theory|Integrated Information Theory]] rejects substrate independence by tying consciousness to intrinsic causal power—not all systems with the right functional profile are conscious, only those with irreducible integrated information. [[global-workspace-theory|Global Workspace Theory]] ties consciousness to specific neural architectures rather than abstract computational properties. Higher-order theories require specific representational structures that may not transfer across substrates.
+[[integrated-information-theory|Integrated Information Theory]] rejects substrate independence by tying consciousness to intrinsic causal power—not all systems with the right functional profile are conscious, only those with irreducible integrated information. [[global-workspace-theory|Global Workspace Theory]] ties consciousness to specific neural architectures rather than abstract computational properties. Higher-order theories (Rosenthal 2005) require specific representational structures that may not transfer across substrates.
 
 Each theory, developed to defend physicalism against the hard problem, ends up narrowing the class of conscious systems in ways that undermine the functionalist response to dualism. The pattern is consistent: the more precisely physicalists specify what consciousness requires, the more their specifications look like the dualist's insistence that something beyond abstract function is needed. The [[consciousness-and-the-philosophy-of-biology|philosophy of biology]] reveals the same structural limitation from another angle: biology's own conceptual toolkit—function, teleology, adaptation—lacks the resources to explain why physical processes are accompanied by experience.
 
@@ -105,11 +105,14 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 
 ## References
 
-1. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
-2. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
-3. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
-4. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
-5. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
-6. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261–325.
-7. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-8. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
+1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261–325.
+2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+3. Fodor, J.A. (1974). Special Sciences (Or: The Disunity of Science as a Working Hypothesis). *Synthese*, 28(2), 97–115.
+4. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
+5. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
+6. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
+7. Rescorla, M. (2020). The Computational Theory of Mind. In E.N. Zalta (ed.), *The Stanford Encyclopedia of Philosophy* (Fall 2020 Edition).
+8. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
+9. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
+10. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
+11. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
