@@ -1,10 +1,10 @@
 ---
 title: "Nihilism and Existentialism"
-description: "The crisis of meaning and its philosophical response. Nihilism diagnoses the absence of cosmic purpose; existentialism responds with self-creation through choice."
+description: "Nihilism diagnoses the absence of cosmic purpose; existentialism responds with self-creation through choice; Buddhism offers a middle way. Three paths through the meaning crisis."
 created: 2026-01-06
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-05T20:40:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-03-11T18:13:00+00:00
+last_deep_review: 2026-04-05T20:40:00+00:00
 coalesced_from:
   - "/concepts/nihilism/"
   - "/concepts/existentialism/"
@@ -73,7 +73,7 @@ Nietzsche saw passive nihilism—the exhausted sense that nothing matters—as a
 
 ## Existentialism: The Response
 
-Existentialism is the philosophical tradition that responds to nihilism by centring on individual existence, freedom, and the challenge of creating meaning. For detailed analysis of existentialist contributions to consciousness studies—particularly Sartre's pour-soi as an argument against illusionism and Heidegger's analysis of why Dasein resists reduction—see the dedicated [[existentialism]] article.
+Existentialism is the philosophical tradition that responds to nihilism by centring on individual existence, freedom, and the challenge of creating meaning. Kierkegaard laid the groundwork in *Either/Or*, insisting that existential choice—not abstract system-building—defines who we become. For detailed analysis of existentialist contributions to consciousness studies—particularly Sartre's pour-soi as an argument against illusionism and Heidegger's analysis of why Dasein resists reduction—see the dedicated [[existentialism]] article.
 
 The core insight is deceptively simple: existence precedes essence. Unlike a hammer, designed for a purpose before it exists, human beings exist first and only then define themselves through choices. There is no pre-given human nature, no cosmic script, no essence waiting to be discovered. We are, as Jean-Paul Sartre put it, "condemned to be free."
 
@@ -95,7 +95,7 @@ The challenge is to create meaning without pretending it was there all along—o
 
 ## The Illusionist Challenge
 
-[[illusionism]] argues that phenomenal consciousness is an introspective illusion—that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
+[[illusionism]]—defended by Dennett and Frankish—argues that phenomenal consciousness is an introspective illusion, that there's nothing it's *like* to choose or feel anguish. If true, existentialism's starting point collapses.
 
 But illusionism faces a regress: for anguish to be illusory, something must experience that illusory anguish. The *seeming* of choice must *seem to* something. The functionalist might reply that the "seeming" is just a functional state representing itself a certain way—no traditional experiencer required. Yet this pushes the question back: what makes a representation *seem* rather than merely *be*? A thermostat represents temperature without anything seeming any way to it. The distinction between representations that seem and those that don't reintroduces the explanandum.
 
@@ -200,6 +200,3 @@ The existentialist-dualist synthesis would face difficulty if:
 1. Sartre, J.-P. (1943). *Being and Nothingness*.
 1. Sartre, J.-P. (1946). *Existentialism Is a Humanism*.
 1. Schopenhauer, A. (1818). *The World as Will and Representation*.
-1. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-1. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
