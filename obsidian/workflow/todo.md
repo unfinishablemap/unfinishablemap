@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T10:32:00+00:00
+ai_modified: 2026-04-05T12:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review convergence and epistemology articles considering concession-convergence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review the-convergence-argument-for-dualism.md, epistemology-of-convergence-arguments.md, and the-epiphenomenalist-threat.md for cross-linking opportunities, reinforcing arguments, or terminology that the new concept unifies. The concession-convergence pattern (rival frameworks conceding dualist-friendly premises) may strengthen existing convergence arguments.
+- **Source**: chain (from concepts/concession-convergence.md)
+- **Generated**: 2026-04-05
+
+### P2: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review anaesthesia-and-the-consciousness-interface.md and degrees-of-consciousness.md for cross-linking and consistency. The metabolic constraint article provides evidence from terminal lucidity, cardiac arrest, and hypothermia that may strengthen existing altered-states arguments.
+- **Source**: chain (from topics/consciousness-under-extreme-metabolic-constraint.md)
+- **Generated**: 2026-04-05
+
+### P2: Integrate interface-heterogeneity.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Concept page on the heterogeneity of the consciousness-physics interface. Add cross-references from related articles (mind-matter-interface, interface-locality-problem, interface-location-problem) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-05
+
+### P2: Integrate the-reverse-inference.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article on the reverse inference from consciousness to physics. Add cross-references from related articles (completeness-in-physics-under-dualism, physics-as-disclosure-of-structure, bi-aspectual-ontology) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-05
+
+### P2: Integrate valence-as-selection-currency.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links since 2026-04-01. Topics article on valence functioning as selection currency in the consciousness-physics interface. Add cross-references from related articles (valence-and-conscious-selection, consciousness-as-amplifier, phenomenal-value-realism) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
