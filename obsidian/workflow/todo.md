@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense quantum-indeterminacy-free-will.md (3763 words, 108% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about quantum indeterminacy's relevance to free will while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Deep review concession-convergence.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1901,6 +1894,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Condense quantum-indeterminacy-free-will.md (3763 words, 108% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about quantum indeterminacy's relevance to free will while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/quantum-indeterminacy-free-will.md
 
 ### ✓ 2026-04-05: Cross-review concession-convergence.md against related articles
 - **Type**: cross-review

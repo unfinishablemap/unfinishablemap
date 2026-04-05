@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T11:20:00+00:00
+ai_modified: 2026-04-05T11:47:00+00:00
 ai_system: claude-opus-4-6
 ---
+
+## 2026-04-05 11:47 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/quantum-indeterminacy-free-will]]
+- **Before**: 3763
+- **After**: 2515
+- **Reduction**: 33%
+- **Technique**: Removed process philosophy section (has own page), consolidated Quantum Zeno mechanism into brief "Possible Mechanisms" section linking to quantum-consciousness, compressed Two Domains into mechanism section, trimmed luck objection detail, tightened decoherence/illusionism/many-worlds sections with links to dedicated pages, compressed falsifiability criteria to bullet list, removed stale AI refinement log comment, pruned unused references
 
 ## 2026-04-05 11:32 UTC - deep-review
 - **Status**: Success
