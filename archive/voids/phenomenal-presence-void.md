@@ -6,6 +6,11 @@ modified: 2026-03-20
 human_modified: null
 ai_modified: 2026-04-04T17:03:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-05T19:17:00+00:00
+superseded_by: "/voids/phenomenal-quality-void/"
+archive_reason: "Coalesced into The Phenomenal Quality Void"
+original_path: "/voids/phenomenal-presence-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"

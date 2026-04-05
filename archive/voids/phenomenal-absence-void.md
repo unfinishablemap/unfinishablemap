@@ -6,6 +6,11 @@ modified: 2026-04-05
 human_modified:
 ai_modified: 2026-04-05T18:17:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-05T19:17:00+00:00
+superseded_by: "/voids/phenomenal-quality-void/"
+archive_reason: "Coalesced into The Phenomenal Quality Void"
+original_path: "/voids/phenomenal-absence-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[predictive-processing]]"

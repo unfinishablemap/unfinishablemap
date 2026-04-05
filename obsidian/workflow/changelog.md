@@ -5,6 +5,14 @@ ai_modified: 2026-04-05T18:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 19:17 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/phenomenal-presence-void]], [[voids/phenomenal-absence-void]]
+- **Target**: [[voids/phenomenal-quality-void]]
+- **Archived**: [[archive/voids/phenomenal-presence-void]], [[archive/voids/phenomenal-absence-void]]
+- **References to review**: 12 files (follow-up task created)
+- **Notes**: Both articles described two facets of a single mechanism—consciousness stamps all experience with phenomenal quality regardless of stimulus. Unified into a single article covering presence (givenness + reality-feeling) and absence (experience from non-stimulation) as one generative process. Voids section reduced from 100 to 99, creating room below cap.
+
 ## 2026-04-05 19:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenological-evidence]]

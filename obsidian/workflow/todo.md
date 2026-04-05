@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced phenomenal-presence-void and phenomenal-absence-void
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-05 merged phenomenal-presence-void and phenomenal-absence-void into phenomenal-quality-void. The following files reference the archived articles and need wikilinks updated: apex/taxonomy-of-voids.md, voids/obviousness-void.md, voids/tenet-generated-voids.md, voids/the-surplus-void.md, voids/whether-real.md, voids/convergence-as-evidence.md, voids/spontaneous-thought-void.md, voids/resonance-void.md, voids/necessary-opacity.md, voids/thrownness-void.md, voids/voids.md, concepts/phenomenology.md.
+- **Source**: chain (from coalesce 2026-04-05)
+- **Generated**: 2026-04-05
+
 ### P2: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
 - **Type**: cross-review
 - **Status**: pending
