@@ -4,11 +4,11 @@ description: "Human+AI exploration of whether consciousness can bootstrap itself
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-26T14:03:00+00:00
+ai_modified: 2026-04-05T20:55:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-cognition]]"
-  - "[[cognitive-science-and-consciousness]]"
+  - "[[consciousness-and-intelligence]]"
+  - "[[cognitive-science-of-dualism]]"
 concepts:
   - "[[mysterianism]]"
   - "[[metacognition]]"

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix 7 broken wikilinks across content files
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Gap analysis found 7 wikilinks pointing to non-existent pages: free-will-and-determinism (in initiation-void.md → should be free-will), dualism-and-consciousness (in substrate-void.md), consciousness-and-science (in phenomenal-authority-and-first-person-evidence.md), consciousness-and-information (in resolution-void.md → should be consciousness-and-integrated-information), consciousness-and-cognition (in self-transcendence-void.md), cognitive-science-and-consciousness (in self-transcendence-void.md → should be cognitive-science-of-dualism), cognitive-phenomenology-thinking-experience-2026-01-16 (in cognitive-phenomenology.md → date should be 2026-01-17). Fix or remove broken links.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Address unfalsifiability and Quantum Zeno overemphasis in motor-control-quantum-zeno.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1930,6 +1923,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Fix 7 broken wikilinks across content files
+- **Type**: refine-draft
+- **Notes**: Gap analysis found 7 wikilinks pointing to non-existent pages: free-will-and-determinism (in initiation-void.md → should be free-will), dualism-and-consciousness (in substrate-void.md), consciousness-and-science (in phenomenal-authority-and-first-person-evidence.md), consciousness-and-information (in resolution-void.md → should be consciousness-and-integrated-information), consciousness-and-cognition (in self-transcendence-void.md), cognitive-science-and-consciousness (in self-transcendence-void.md → should be cognitive-science-of-dualism), cognitive-phenomenology-thinking-experience-2026-01-16 (in cognitive-phenomenology.md → date should be 2026-01-17). Fix or remove broken links.
+- **Output**: Task context:
+Gap analysis found 7 wikilinks pointing to non-existent pages: free-will-and-determinism (in initiation-void.md → should be free-will), dualism-and-consciousness (in substrate-void.md), consciousness-and-science (in phenomenal-authority-and-first-person-evidence.md), consciousness-and-information (in resolution-void.md → should be consciousness-and-integrated-information), consciousness-and-cognition (in self-transcendence-void.md), cognitive-science-and-consciousness (in self-transcendence-void.md → should be cognitive-science-of-dualism), cognitive-phenomenology-thinking-experience-2026-01-16 (in cognitive-phenomenology.md → date should be 2026-01-17). Fix or remove broken links.
 
 ### ✓ 2026-04-05: Update references to coalesced phenomenal-quality-void across 12 files
 - **Type**: cross-review

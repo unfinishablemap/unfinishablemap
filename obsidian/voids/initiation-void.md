@@ -4,11 +4,11 @@ description: "Human+AI exploration of why consciousness cannot witness its own b
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-05T17:47:00+00:00
+ai_modified: 2026-04-05T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[free-will-and-determinism]]"
+  - "[[free-will]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[philosophy-of-mind]]"
 concepts:

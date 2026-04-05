@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-05T15:32:00+00:00
+ai_modified: 2026-04-05T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ concepts:
   - "[[knowledge-argument]]"
 related_articles:
   - "[[tenets]]"
-  - "[[cognitive-phenomenology-thinking-experience-2026-01-16]]"
+  - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
   - "[[pragmatisms-path-to-dualism]]"
   - "[[pragmatism]]"
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"

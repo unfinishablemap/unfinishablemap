@@ -4,14 +4,14 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-05T19:47:00+00:00
+ai_modified: 2026-04-05T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[epistemology]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-and-testimony]]"
-  - "[[consciousness-and-science]]"
+  - "[[consciousness-and-scientific-explanation]]"
 concepts:
   - "[[introspection]]"
   - "[[phenomenal-acquaintance]]"

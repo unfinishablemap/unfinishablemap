@@ -4,11 +4,11 @@ description: "Consciousness processes ten bits per second from eleven million av
 created: 2026-02-28
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-03-11T22:04:00+00:00
+ai_modified: 2026-04-05T20:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-information]]"
+  - "[[consciousness-and-integrated-information]]"
 concepts:
   - "[[qualia]]"
   - "[[mysterianism]]"

@@ -5,6 +5,12 @@ ai_modified: 2026-04-05T18:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 20:55 UTC - refine-draft
+- **Status**: Success
+- **Files**: initiation-void, substrate-void, phenomenal-authority-and-first-person-evidence, resolution-void, self-transcendence-void, cognitive-phenomenology
+- **Changes**: Fixed 7 broken wikilinks across 6 files — corrected targets to existing pages
+- **Published**: yes
+
 ## 2026-04-05 20:40 UTC - deep-review
 - **Status**: Success
 - **File**: [[nihilism-and-existentialism]]
