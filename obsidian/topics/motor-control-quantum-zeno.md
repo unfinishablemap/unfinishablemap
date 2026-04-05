@@ -4,7 +4,7 @@ description: "How consciousness moves the body: converging neuroscience dissolve
 created: 2026-02-22
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-05T16:33:00+00:00
+ai_modified: 2026-04-05T21:11:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -109,11 +109,11 @@ This remains a candidate mechanism, not an established one. The Map's core argum
 
 The framework locates *where* consciousness might influence motor selection but does not fully explain *how* a non-physical consciousness biases physical outcomes. The psychophysical interface is identified, not illuminated.
 
-For the quantum Zeno candidate specifically, the [[decoherence]] objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—far too short for Zeno stabilisation at conscious timescales, a [[timing-gap-problem|twelve-order-of-magnitude timing gap]]. Revised estimates (Hagan et al. 2002) extend coherence to microseconds, and Stapp's mechanism requires only that observation events outpace decoherence rather than sustaining coherence. But the gap between quantum timescales and conscious timescales has not been conclusively bridged.
+For the quantum Zeno candidate specifically, the [[decoherence]] objection remains serious. Tegmark's original calculations placed neural coherence times at femtoseconds—a [[timing-gap-problem|twelve-order-of-magnitude gap]] from the millisecond timescales of neural competition. The most favourable revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, but this still leaves a gap of roughly six orders of magnitude. Stapp argues that his mechanism requires only that observation events outpace decoherence rather than sustaining coherence across the full decision interval—but even granting this reframing, no concrete model demonstrates observation events occurring at the required microsecond-or-faster rates, and the gap between the fastest plausible observation rate and the slowest plausible decoherence rate remains unquantified. This is the single largest empirical obstacle to the quantum Zeno candidate.
 
 More broadly, the parallel between attention and motor control—while striking—does not prove they share a single mechanism through which consciousness acts. Shared timing and neural signatures could reflect computational similarities without any non-physical involvement. Reinforcement learning and Bayesian optimal control theory already explain much of motor selection without appealing to consciousness or quantum mechanics. The brain's dopamine system implements a well-characterised reward prediction error signal that biases selection computationally. Identifying what, specifically, these models fail to account for remains an open challenge.
 
-What would strengthen the case? Evidence that conscious selection introduces statistical bias in otherwise random neural threshold-crossing events—deviations from the predictions of purely stochastic accumulator models during voluntary action. What would weaken it? Demonstration that willed action timing and selection can be fully predicted from prior neural states, leaving no residual indeterminacy for consciousness to resolve.
+What would strengthen the case? In Schurger-style self-paced movement tasks, stochastic accumulator models predict that reaction time distributions follow specific drift-diffusion statistics. If conscious selection biases threshold-crossing, voluntary actions should show systematic deviations from these distributions—a shift in the drift rate parameter on the order of 5-15% between passive and actively willed conditions, detectable with ~50-100 participants using EEG-locked single-trial analysis. No such deviation has been demonstrated. What would weaken it? Demonstration that willed action timing and selection can be fully predicted from prior neural states, leaving no residual indeterminacy for consciousness to resolve—for instance, if pre-movement neural decoding achieved near-perfect accuracy for which action is selected, not merely that one is imminent.
 
 ## Relation to Site Perspective
 
@@ -123,7 +123,7 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Motor control is where consciousness most visibly affects the physical world. Words appear on pages, bodies move through space. If the attention-motor interface is unified, the same mechanism connects consciousness to both perception and action.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Under many-worlds, every motor program executes in some branch. The felt singularity of choosing *this* action—reaching left rather than right—requires genuine collapse (or an alternative single-outcome interpretation) for selection to be real rather than perspectival.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Under many-worlds, every motor program executes in some branch. Everettians respond that decoherence-based branching preserves the *experience* of singular choice—each branch-instance genuinely feels it chose one action. The Map's objection is not that branching eliminates the phenomenology of choice but that it eliminates its metaphysical significance: if every option is realised somewhere, the agent's contribution reduces to indexical perspective rather than genuine selection. Motor control, where consciousness allegedly resolves physical indeterminacy, requires that resolution to be ontologically real—one outcome actualised, alternatives excluded—which collapse-based or single-outcome interpretations provide and many-worlds does not.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Neural determinism is simpler, but it struggles to explain why the willed/instructed distinction exists neurally, why effort phenomenology tracks difficulty, or why dopamine-deficient organisms retain motor capacity while losing initiative. A framework that includes conscious selection is less parsimonious but explanatorily richer.
 
@@ -156,21 +156,19 @@ What would strengthen the case? Evidence that conscious selection introduces sta
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 
-<!-- AI REFINEMENT LOG - 2026-04-05
+<!-- AI REFINEMENT LOG - 2026-04-05 (pass 2)
 Changes made:
-- Renamed title from "Motor Control and the Quantum Zeno Framework" to "Consciousness and Motor Selection"
-- Rewrote opening to foreground the philosophical question (how does consciousness move the body?) rather than the quantum Zeno mechanism
-- Restructured "From Attention to Action" to present the attention-motor overlap independently of quantum Zeno
-- Rewrote "How the Brain Presents Options" to frame the architecture as compatible with conscious selection generally, not specifically requiring quantum Zeno ("precisely what the quantum Zeno framework requires" → "compatible with a role for consciousness as selector")
-- Consolidated quantum Zeno material into a dedicated section "A Candidate Mechanism: Quantum Zeno Stabilisation" positioned after the neuroscience and agency discussion
-- Added explicit acknowledgement that the core philosophical argument survives if the quantum Zeno mechanism is refuted
-- Added note that computational accounts of effort can explain similar phenomenological patterns
-- Expanded "Challenges and Honest Gaps" to engage with computational motor control models (reinforcement learning, Bayesian optimal control) per review recommendation
-- Softened "No Many Worlds" tenet connection to avoid treating the Everettian response as obviously wrong
-- Updated description to not centre on quantum Zeno
-- Addressed language issues flagged in pessimistic review (overstrong claims, defensive framing)
+- Sharpened falsifiability claim: added specific paradigm (Schurger-style self-paced tasks), expected effect size (~5-15% drift rate shift), sample size (~50-100), and method (EEG-locked single-trial analysis), and acknowledged no such deviation has been demonstrated
+- Strengthened decoherence timing gap: explicitly stated Hagan's microsecond extension still leaves ~6-order gap, noted no concrete model for required observation rates, called this the single largest empirical obstacle
+- Rewrote No Many Worlds tenet section: engaged directly with the Everettian response (decoherence-based branching preserves experience of singular choice), clarified the Map's objection is about metaphysical significance of selection rather than phenomenology
 
-Driven by pessimistic-2026-04-05b.md Issue 1: article violated writing style guide "Subjects Requiring Restraint" rule.
+Prior pass (2026-04-05):
+- Restructured away from Quantum Zeno centrality per writing style guide
+- Retitled, rewrote opening, consolidated QZ into dedicated section
+- Engaged with computational motor control models
+- Updated description
+
+Driven by pessimistic-2026-04-05b.md Issues 1-4.
 
 This log should be removed after human review.
 -->

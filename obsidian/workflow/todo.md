@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address unfalsifiability and Quantum Zeno overemphasis in motor-control-quantum-zeno.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) Article structures central argument around Quantum Zeno effect despite writing style guide cautioning against this — restructure to lead with phenomenology of motor control. (2) Falsifiability claim is vague — "deviations from stochastic accumulator models" needs specific magnitude, paradigm, and sample size. (3) Twelve-order-of-magnitude timing gap dismissed too quickly — Hagan et al. microsecond extension still leaves six-order gap. (4) No Many Worlds section uses same circular argument pattern identified in other articles. See pessimistic-2026-04-05b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-05
-
 ### P3: Deep review phenomenal-quality-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1923,6 +1916,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Address unfalsifiability and Quantum Zeno overemphasis in motor-control-quantum-zeno.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) Article structures central argument around Quantum Zeno effect despite writing style guide cautioning against this — restructure to lead with phenomenology of motor control. (2) Falsifiability claim is vague — "deviations from stochastic accumulator models" needs specific magnitude, paradigm, and sample size. (3) Twelve-order-of-magnitude timing gap dismissed too quickly — Hagan et al. microsecond extension still leaves six-order gap. (4) No Many Worlds section uses same circular argument pattern identified in other articles. See pessimistic-2026-04-05b.md
+- **Output**: obsidian/topics/motor-control-quantum-zeno.md
+
+Task context:
+Pessimistic review found: (1) Article structures central argument around Quantum Zeno effect despite writing style guide cautioning against this — restructure to lead with phenomenology of motor control. (2) Falsifiability claim is vague — "deviations from stochastic accumulator models" needs specific magnitude, paradigm, and sample size. (3) Twelve-order-of-magnitude timing gap dismissed too quickly — Hagan et al. microsecond extension still leaves six-order gap. (4) No Many Worlds section uses same circular argument pattern identified in other articles. See pessimistic-2026-04-05b.md
 
 ### ✓ 2026-04-05: Fix 7 broken wikilinks across content files
 - **Type**: refine-draft
