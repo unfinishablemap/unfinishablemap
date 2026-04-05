@@ -4,7 +4,7 @@ description: "Consciousness as causally inert byproduct. Self-stultification pro
 created: 2026-01-09
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-03-30T11:29:00+00:00
+ai_modified: 2026-04-05T17:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

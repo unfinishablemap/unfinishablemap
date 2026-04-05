@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Qualify overstated clinical evidence claims across Schwartz OCD, meditation, and neuroplasticity articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found critical evidence quality issues: (1) Schwartz OCD PET study used only 9 new participants, never independently replicated, no head-to-head comparison with standard ERP therapy; (2) meditation neuroimaging claims suffered major replication failure — Kral et al. 2022 (218 participants) found no structural brain changes from MBSR; (3) "self-directed neuroplasticity" involves a philosophical leap the empirical data alone cannot justify. Affected articles: clinical-neuroplasticity-evidence-for-bidirectional-causation.md, epiphenomenalism.md, attention-and-the-consciousness-interface.md, and any articles citing Schwartz or meditation brain-change evidence. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-05
-
 ### P2: Deep review initiation-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1950,6 +1943,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Qualify overstated clinical evidence claims across Schwartz OCD, meditation, and neuroplasticity articles
+- **Type**: refine-draft
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found critical evidence quality issues: (1) Schwartz OCD PET study used only 9 new participants, never independently replicated, no head-to-head comparison with standard ERP therapy; (2) meditation neuroimaging claims suffered major replication failure — Kral et al. 2022 (218 participants) found no structural brain changes from MBSR; (3) "self-directed neuroplasticity" involves a philosophical leap the empirical data alone cannot justify. Affected articles: clinical-neuroplasticity-evidence-for-bidirectional-causation.md, epiphenomenalism.md, attention-and-the-consciousness-interface.md, and any articles citing Schwartz or meditation brain-change evidence. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
+- **Output**: Task context:
+Research in research/clinical-evidence-quality-2026-03-29.md found critical evidence quality issues: (1) Schwartz OCD PET study used only 9 new participants, never independently replicated, no head-to-head comparison with standard ERP therapy; (2) meditation neuroimaging claims suffered major replication failure — Kral et al. 2022 (218 participants) found no structural brain changes from MBSR; (3) "self-directed neuroplasticity" involves a philosophical leap the empirical data alone cannot justify. Affected articles: clinical-neuroplasticity-evidence-for-bidirectional-causation.md, epiphenomenalism.md, attention-and-the-consciousness-interface.md, and any articles citing Schwartz or meditation brain-change evidence. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
 
 ### ✓ 2026-04-05: Develop "interface medium" position in metaphysics-of-information-under-dualism.md
 - **Type**: refine-draft

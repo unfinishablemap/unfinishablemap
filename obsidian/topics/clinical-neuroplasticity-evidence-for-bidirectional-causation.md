@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-04-04T03:41:00+00:00
+ai_modified: 2026-04-05T17:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -98,7 +98,7 @@ What makes the remaining convergence worth philosophical attention is the system
 
 ## Proposed Mechanisms
 
-The clinical evidence establishes that intentional mental activity reshapes neural architecture, but the mechanism remains open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [[consciousness-selecting-neural-patterns|consciousness-selecting]]. As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human beings about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
+The clinical evidence documents that psychological intervention produces lasting changes in neural architecture—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [[consciousness-selecting-neural-patterns|consciousness-selecting]]. As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human beings about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
 
 This proposal is speculative and faces challenges regarding decoherence timescales in warm biological tissue. Other possible mechanisms include [[quantum-consciousness|non-local quantum effects]], classical top-down modulation through emergent causal powers, or interaction models not yet formulated. The Map's commitment is to the reality of mental causation (Tenet 3: [[bidirectional-interaction|Bidirectional Interaction]]), not to any specific mechanism. The clinical evidence documented here stands regardless of which mechanism ultimately proves correct.
 
@@ -190,6 +190,18 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Complete cross-site evidence calibration — all articles citing Schwartz OCD or meditation structural evidence now carry appropriate hedging.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-05
+Changes made:
+- Proposed Mechanisms section: "The clinical evidence establishes that intentional mental activity reshapes neural architecture" → neutral framing acknowledging the open question between mental causation and Hebbian learning
+- Cross-site audit: confirmed all 19+ previously updated articles remain properly calibrated
+- Epiphenomenalism article reviewed — no changes needed (already well-calibrated from 2026-03-29 pass)
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Eliminated residual overstatement in Proposed Mechanisms section that presupposed dualist conclusion.
 
 This log should be removed after human review.
 -->

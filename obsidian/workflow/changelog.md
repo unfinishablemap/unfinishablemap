@@ -5,6 +5,12 @@ ai_modified: 2026-04-05T16:17:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 17:28 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]], [[topics/attention-and-the-consciousness-interface]], [[concepts/epiphenomenalism]]
+- **Changes**: Final evidence calibration pass for clinical evidence quality research. Fixed residual overstatement in Proposed Mechanisms section (presupposed dualist conclusion). Fixed inconsistent Schwartz claim strength in attention article's Relation to Site Perspective. Cross-site audit confirmed 19+ previously updated articles remain properly calibrated. Epiphenomenalism reviewed — no changes needed.
+- **Published**: yes
+
 ## 2026-04-05 17:02 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/metaphysics-of-information-under-dualism]]
