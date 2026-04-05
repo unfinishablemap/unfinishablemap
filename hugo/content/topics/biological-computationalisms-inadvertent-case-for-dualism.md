@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-05 14:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -64,7 +64,7 @@ Piccinini's mechanistic account of computation (2015) makes the most revealing c
 
 ## The Convergence Pattern
 
-Biological computationalism is not an isolated case. Multiple physicalist research programmes have converged on the same structural concession.
+Biological computationalism is not an isolated case. Multiple physicalist research programmes have converged on the same structural concession—a pattern the Map calls [concession-convergence](/concepts/concession-convergence/).
 
 [Integrated Information Theory](/concepts/integrated-information-theory/) rejects substrate independence by tying consciousness to intrinsic causal power—not all systems with the right functional profile are conscious, only those with irreducible integrated information. [Global Workspace Theory](/concepts/global-workspace-theory/) ties consciousness to specific neural architectures rather than abstract computational properties. Higher-order theories (Rosenthal 2005) require specific representational structures that may not transfer across substrates.
 

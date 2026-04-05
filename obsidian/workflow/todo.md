@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Restructure motor-control-quantum-zeno.md to reduce Quantum Zeno centrality
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" rule — the quantum Zeno effect is the article's title and organising framework despite the guide stating "Don't structure arguments around it." Restructure to foreground the philosophical question (how does consciousness move the body?) with Zeno as one candidate mechanism. The neuroscience content (Schurger, Sjöberg, Rizzolatti, Cisek, Desmurget) is strong and can stand independently. See pessimistic-2026-04-05b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-05
-
 ### P2: Develop "interface medium" position in metaphysics-of-information-under-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1901,6 +1894,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Restructure motor-control-quantum-zeno.md to reduce Quantum Zeno centrality
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" rule — the quantum Zeno effect is the article's title and organising framework despite the guide stating "Don't structure arguments around it." Restructure to foreground the philosophical question (how does consciousness move the body?) with Zeno as one candidate mechanism. The neuroscience content (Schurger, Sjöberg, Rizzolatti, Cisek, Desmurget) is strong and can stand independently. See pessimistic-2026-04-05b.md
+- **Output**: obsidian/topics/motor-control-quantum-zeno.md
+
+Task context:
+Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" rule — the quantum Zeno effect is the article's title and organising framework despite the guide stating "Don't structure arguments around it." Restructure to foreground the philosophical question (how does consciousness move the body?) with Zeno as one candidate mechanism. The neuroscience content (Schurger, Sjöberg, Rizzolatti, Cisek, Desmurget) is strong and can stand independently. See pessimistic-2026-04-05b.md
 
 ### ✓ 2026-04-05: Condense phenomenological-evidence.md (3661 words, 105% of hard threshold)
 - **Type**: condense

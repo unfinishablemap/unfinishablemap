@@ -5,6 +5,12 @@ ai_modified: 2026-04-05T16:17:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 16:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/motor-control-quantum-zeno]]
+- **Changes**: Restructured to comply with writing style guide "Subjects Requiring Restraint" rule. Renamed title from "Motor Control and the Quantum Zeno Framework" to "Consciousness and Motor Selection". Foregrounded the philosophical question (how does consciousness move the body?) with neuroscience standing independently. Consolidated quantum Zeno material into dedicated candidate-mechanism section. Expanded challenges to engage with computational motor control models.
+- **Published**: yes
+
 ## 2026-04-05 16:17 UTC - condense
 - **Status**: Success
 - **File**: [[concepts/phenomenological-evidence]]

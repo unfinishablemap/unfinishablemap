@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05 12:32:00+00:00
+ai_modified: 2026-04-05 14:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### ✓ 2026-04-05: Restructure motor-control-quantum-zeno.md to reduce Quantum Zeno centrality
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article violates the writing style guide's "Subjects Requiring Restraint" rule — the quantum Zeno effect is the article's title and organising framework despite the guide stating "Don't structure arguments around it." Restructure to foreground the philosophical question (how does consciousness move the body?) with Zeno as one candidate mechanism. The neuroscience content (Schurger, Sjöberg, Rizzolatti, Cisek, Desmurget) is strong and can stand independently. See pessimistic-2026-04-05b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-05
+- **Output**: obsidian/topics/motor-control-quantum-zeno.md -- Renamed to "Consciousness and Motor Selection", restructured with Zeno as candidate mechanism
+
+### P2: Develop "interface medium" position in metaphysics-of-information-under-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article's preferred position (Option 4: information as interface medium) receives less analytical scrutiny than the three positions it rejects. The translator analogy is suggestive but unexplained. Either develop the position with comparable rigour or acknowledge it as programmatic rather than worked-out. See pessimistic-2026-04-05b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
@@ -1888,6 +1902,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Condense phenomenological-evidence.md (3661 words, 105% of hard threshold)
+- **Type**: condense
+- **Notes**: Concepts article exceeds 3500-word hard warning threshold for concepts/. Preserve core arguments about types of phenomenological evidence while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/phenomenological-evidence.md
+
+### ✓ 2026-04-05: Integrate differential-predictions-consciousness-collapse.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on differential empirical predictions for consciousness-collapse models, created 2026-03-23. Add cross-references from related articles such as testing-consciousness-collapse.md, consciousness-collapse-experimental-landscape.md, comparing-quantum-consciousness-mechanisms.md.
+- **Output**: differential-predictions-consciousness-collapse.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-05: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the epistemic weight of first-person reports, created 2026-03-29. Add cross-references from related articles such as phenomenal-authority-and-first-person-evidence.md, epistemology-of-first-person-evidence.md, phenomenal-conservatism-and-introspective-evidence.md.
+- **Output**: phenomenal-authority-epistemic-weight-first-person-reports.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-05: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on stochastic amplification mechanisms for consciousness-physics interaction, created 2026-03-29. Add cross-references from related articles such as amplification-mechanisms-consciousness-physics.md, comparing-quantum-consciousness-mechanisms.md, consciousness-selecting-neural-patterns.md, or update section index pages.
+- **Output**: stochastic-amplification-and-neural-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-05: Cross-review articles related to consciousness-under-extreme-metabolic-constraint.md
+- **Type**: cross-review
+- **Notes**: New topic page topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review against topics/anaesthesia-and-the-consciousness-interface.md, topics/degrees-of-consciousness.md, concepts/filter-theory.md, and topics/disorders-of-consciousness-as-test-cases.md for consistency, cross-links, and reinforcing arguments.
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md -- Context: Cross-review articles related to consciousness-under-extreme-metabolic-constraint.md
+
+### ✓ 2026-04-05: Cross-review articles related to concession-convergence.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against concepts/phenomenological-evidence.md, topics/the-convergence-argument-for-dualism.md, topics/epistemology-of-convergence-arguments.md, and topics/cross-traditional-convergence-on-consciousness-irreducibility.md for consistency, add cross-links from related articles.
+- **Output**: obsidian/concepts/concession-convergence.md -- Context: Cross-review articles related to concession-convergence.md
 
 ### ✓ 2026-04-05: Integrate valence-as-selection-currency.md into site navigation
 - **Type**: integrate-orphan

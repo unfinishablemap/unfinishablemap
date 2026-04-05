@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-04-05 11:02:00+00:00
+ai_modified: 2026-04-05 14:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: When brain metabolism collapses, consciousness does not degrade pro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 11:02:00+00:00
+last_deep_review: 2026-04-05 14:47:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'
@@ -83,13 +83,15 @@ The [filter or transmission theory](/concepts/filter-theory/)—originating with
 - **Psychedelic DMN suppression**: Metabolically suppressing the brain's primary constraint network loosens the filter, producing intensified experience.
 - **Agent-specific anaesthesia profiles**: Different agents disrupt different components of the filtering architecture, producing different consciousness effects at similar metabolic levels.
 
-The production model can accommodate each anomaly individually—perhaps gamma surges are death throes, perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. But accommodating all five simultaneously requires ad hoc adjustments that undermine the model's original simplicity. The filter model predicts the entire pattern from a single principle: metabolism sustains constraint, not consciousness.
+The production model can accommodate each anomaly individually—perhaps gamma surges are death throes, perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. But accommodating all five simultaneously requires ad hoc adjustments that undermine the model's original simplicity. The filter model predicts the entire pattern from a single principle: metabolism sustains constraint, not consciousness. [Terminal lucidity](/concepts/terminal-lucidity/)—discussed in the chronic versus acute section below—extends this pattern further: the production model must explain how a brain with years of irreversible structural damage produces a final episode of coherent consciousness, while the filter model simply predicts that dying disrupts the remaining constraint.
 
 ## Chronic Versus Acute Metabolic Failure
 
 The five anomalies above involve *acute* metabolic disruption—rapid, global changes to brain energy supply. A contrasting pattern emerges in [neurodegenerative disease](/topics/consciousness-and-neurodegenerative-disease/), where metabolic efficiency erodes chronically through neuroinflammation, mitochondrial dysfunction, and protein aggregation. In these conditions, consciousness does not intensify; it degrades progressively, with cognitive faculties peeling away in a characteristic order (episodic memory first, phenomenal awareness last).
 
 The filter model accommodates both patterns. Acute metabolic collapse disrupts the filtering apparatus globally and suddenly—the constraint lifts, and consciousness may briefly expand. Chronic degeneration destroys the interface structure itself—the hardware through which filtered consciousness is expressed. A radio whose power supply fails suddenly may produce a burst of static and signal; one whose circuits corrode over years simply grows quieter. The distinction between *filter dissolution* (acute) and *interface degradation* (chronic) explains why not all metabolic reduction enhances consciousness, resolving what would otherwise be an asymmetry problem for filter theory.
+
+[Terminal lucidity](/concepts/terminal-lucidity/) bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death. Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission; 84% of patients died within one week, 43% within 24 hours. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [theoretical implications](/topics/terminal-lucidity-and-filter-transmission-theory/) are explored in detail elsewhere on the Map.
 
 ## Hibernation and the Lower Bound
 
@@ -105,7 +107,7 @@ The metabolic evidence connects to three of the Map's [tenets](/tenets/).
 
 **Dualism**: If consciousness were identical to or produced by neural activity, its relationship to metabolic supply should be straightforward—more fuel, more consciousness; less fuel, less consciousness. The observed non-linear, paradoxical, and agent-specific patterns suggest consciousness and neural metabolism are not in a simple production relationship. The Map interprets this as evidence that consciousness is not reducible to physical processes, consistent with the dualism tenet.
 
-**Bidirectional interaction**: The Map's framework of [interactionist-dualism](/concepts/interactionist-dualism/) proposes that consciousness acts through quantum indeterminacy in neural systems. Metabolic constraint may affect the brain's quantum interface differently from consciousness itself. If metabolic energy maintains the decoherence-preventing conditions that allow [quantum-level interaction](/concepts/quantum-consciousness/), then metabolic collapse could paradoxically alter the interaction dynamics—not by eliminating consciousness but by changing the interface through which it operates. The gamma surges in dying brains may represent consciousness acting through a destabilised but not yet destroyed quantum interface.
+**Bidirectional interaction**: The Map's framework of [interactionist-dualism](/concepts/interactionist-dualism/) proposes that consciousness acts through quantum indeterminacy in neural systems. Metabolic constraint may affect the brain's quantum interface differently from consciousness itself. If metabolic energy maintains the decoherence-preventing conditions that allow [quantum-level interaction](/concepts/quantum-consciousness/)—a possibility increasingly supported by [experimental evidence for quantum effects in neural tissue](/topics/quantum-biology-and-neural-consciousness/)—then metabolic collapse could paradoxically alter the interaction dynamics—not by eliminating consciousness but by changing the interface through which it operates. The gamma surges in dying brains may represent consciousness acting through a destabilised but not yet destroyed quantum interface.
 
 **Occam's razor has limits**: The production model's apparent simplicity—consciousness is what brains do when adequately fuelled—dissolves under empirical scrutiny. Explaining the five anomalies within a production framework requires multiple independent auxiliary hypotheses. The filter model, while ontologically less parsimonious (it posits consciousness as non-reducible), is explanatorily more economical—a single principle accounts for all five patterns. This illustrates the Map's tenet that simplicity is not a reliable guide to truth when knowledge is incomplete.
 
@@ -130,5 +132,7 @@ The metabolic evidence connects to three of the Map's [tenets](/tenets/).
 6. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*.
 7. Cerri, M., et al. (2017). Consciousness in hibernation and synthetic torpor. *Neuroscience of Consciousness*, 3(1).
 8. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
-9. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
-10. Southgate, A. & Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/
+9. Batthyány, A. & Greyson, B. (2020). Spontaneous Remission of Dementia Before Death: Results from a Study on Paradoxical Lucidity. *Psychology of Consciousness: Theory, Research, and Practice*.
+10. Nahm, M., Greyson, B., Kelly, E. W., & Haraldsson, E. (2012). Terminal lucidity: A review and a case collection. *Archives of Gerontology and Geriatrics*, 55(1), 138–142.
+11. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
+12. Southgate, A. & Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/

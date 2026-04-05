@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-27 22:38:00+00:00
+ai_modified: 2026-04-05 15:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -83,7 +83,7 @@ Qualia resist complete verbal description. How would you explain the taste of co
 
 ### Directly Apprehensible
 
-Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This direct acquaintance gives qualia a peculiar epistemic status. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for how this first-person access, when disciplined through training and converging across observers, constitutes genuine evidence for consciousness theories.
+Despite being ineffable to others, qualia are immediately known to the one experiencing them. You don't infer that you're in pain—you directly apprehend the painful quality. This [direct acquaintance](/topics/phenomenal-authority-and-first-person-evidence/) gives qualia a peculiar epistemic status. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for how this first-person access, when disciplined through training and converging across observers, constitutes genuine evidence for consciousness theories.
 
 ## Qualia in Simple Organisms
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-05 15:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -74,7 +74,7 @@ Galen Strawson's foreign language argument: A monolingual English speaker and a 
 
 ### Self-Knowledge
 
-David Pitt argues we immediately identify our thoughts' contents through [introspection](/concepts/introspection/). When you think "snow is white," you know what you're thinking—and you know it non-inferentially, not by observing your behavior. This requires thoughts to have phenomenal character distinguishing their contents. Each distinct thought has its own phenomenal signature.
+David Pitt argues we immediately identify our thoughts' contents through [introspection](/concepts/introspection/). When you think "snow is white," you know what you're thinking—and you know it non-inferentially, not by observing your behavior. This requires thoughts to have phenomenal character distinguishing their contents — a form of [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/) operating in the cognitive domain. Each distinct thought has its own phenomenal signature.
 
 ### Ambiguity Resolution
 

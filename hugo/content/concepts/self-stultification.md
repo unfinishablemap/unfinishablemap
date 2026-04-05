@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-18 19:57:00+00:00
+ai_modified: 2026-04-05 14:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: A position is self-stultifying when accepting it undermines the rat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 07:32:00+00:00
+last_deep_review: 2026-04-05 14:32:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -65,7 +65,7 @@ The classic formulation against epiphenomenalism proceeds:
 
 ## Application to Epiphenomenalism
 
-The [epiphenomenalist](/concepts/epiphenomenalism/) holds that consciousness is a byproduct of brain activity—real, but causally inert. Brain states cause both behavior and consciousness, but consciousness itself causes nothing.
+The [epiphenomenalist](/concepts/epiphenomenalism/) holds that consciousness is a byproduct of brain activity—real, but causally inert (Jackson, 1982). Brain states cause both behavior and consciousness, but consciousness itself causes nothing.
 
 Consider what this means for introspective reports. When you say "I'm in pain," the epiphenomenalist claims the pain experience doesn't cause the utterance. Brain states cause both the pain and the statement about pain, but the statement isn't *about* the pain in any causally grounded sense—it's about whatever the brain states happen to represent, and the pain is merely a correlated byproduct.
 
@@ -75,9 +75,9 @@ As the Map's [tenets](/tenets/) put it:
 
 > If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states. Our reports about the redness of red or the painfulness of pain would be produced by brain states that have no causal connection to the experiences themselves.
 
-The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) deepens this problem: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If intentionality derives from phenomenal character, the position is doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character gives the denial its meaning.
+The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory)—that genuine aboutness derives from phenomenal character—deepens this problem: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If intentionality derives from phenomenal character, the position is doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character gives the denial its meaning.
 
-The epiphenomenalist who trusts their own introspection enough to engage in this debate must be wrong about something. Either consciousness causes their engagement (contradicting epiphenomenalism) or their engagement is causally disconnected from consciousness (undermining their rational grounds for any position on consciousness).
+The epiphenomenalist who trusts their own introspection enough to engage in this debate—exercising the very [phenomenal authority](/topics/phenomenal-authority-and-first-person-evidence/) that their position undermines—must be wrong about something. Either consciousness causes their engagement (contradicting epiphenomenalism) or their engagement is causally disconnected from consciousness (undermining their rational grounds for any position on consciousness).
 
 ## Broader Applications
 
@@ -145,7 +145,7 @@ In the philosophy of mind, the argument gained prominence through:
 
 Self-stultification establishes *that* consciousness must be causally efficacious. The follow-up question—*what kind* of causal powers consciousness possesses—is addressed in [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), which develops a framework of constrained but genuine influence: selection among quantum alternatives, sustained attention, phenomenal biasing, and volitional modulation. The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article shows why this question is urgent: most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism, and self-stultification shows why arriving there is catastrophic.
 
-The [master argument](/topics/self-stultification-as-master-argument/) develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. Together, these five lines of argument form a unified case whose cumulative force exceeds what any single strand provides.
+The [master argument](/topics/self-stultification-as-master-argument/) develops the full scope of self-stultification across four targets—epiphenomenalism, physicalism, eliminativism, and global skepticism—showing that the pattern recurs because each position severs a different strand connecting consciousness to rational justification. Together, these four lines of argument form a unified case whose cumulative force exceeds what any single strand provides.
 
 Self-stultification operates as a boundary-marker in the same register as [physics-as-disclosure](/concepts/physics-as-disclosure/). Where disclosure reveals the point at which structural description reaches its limit and actuality begins, self-stultification reveals the point at which purely structural explanation undermines the rational standing it needs to be believed. Both strategies converge: structural description is complete within its domain but cannot be the whole story.
 

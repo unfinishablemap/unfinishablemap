@@ -1,13 +1,92 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05 11:47:00+00:00
+ai_modified: 2026-04-05 16:17:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-04-05'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-05 16:33 UTC - refine-draft
+- **Status**: Success
+- **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
+- **Changes**: Restructured to comply with writing style guide "Subjects Requiring Restraint" rule. Renamed title from "Motor Control and the Quantum Zeno Framework" to "Consciousness and Motor Selection". Foregrounded the philosophical question (how does consciousness move the body?) with neuroscience standing independently. Consolidated quantum Zeno material into dedicated candidate-mechanism section. Expanded challenges to engage with computational motor control models.
+- **Published**: yes
+
+## 2026-04-05 16:17 UTC - condense
+- **Status**: Success
+- **File**: [phenomenological-evidence](/concepts/phenomenological-evidence/)
+- **Before**: 3661 words
+- **After**: 2589 words
+- **Reduction**: 29%
+- **Technique**: Cut redundant "what it's not" list, trimmed Berghofer/Husserl digression, compressed Merleau-Ponty and microphenomenology sections, tightened reliability criteria, shortened convergence conditions and training problem (deferred to linked articles), compressed circularity objection and philosophical approaches, trimmed Further Reading from 17 to 11 links
+
+## 2026-04-05 16:02 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Word count**: 1735 → 1756 (+21)
+- **Critical issues addressed**: 1 (reference title inversion)
+- **Medium issues addressed**: 1 (table overspecified quantum mechanism)
+- **Enhancements made**: 2 cross-links added (phenomenal-consciousness, psychophysical-laws)
+- **Output**: [deep-review-2026-04-05-biological-teleology-and-the-interface-framework](/reviews/deep-review-2026-04-05-biological-teleology-and-the-interface-framework/)
+
+## 2026-04-05 15:48 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: differential-predictions-consciousness-collapse.md
+- **Reason**: Article was archived and coalesced into [Testing Consciousness-Collapse](/topics/testing-consciousness-collapse/) via two rounds of coalescing. No active content to review.
+
+## 2026-04-05 15:32 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Word count**: 3646 → 3646 (+0, timestamps only)
+- **Critical issues addressed**: 0 (none found — 4th consecutive clean review)
+- **Medium issues addressed**: 1 (cross-linking gaps)
+- **Enhancements made**: 6 new inbound links from philosophical-zombies, qualia, cognitive-phenomenology, objectivity-and-consciousness, phenomenal-transparency, parsimony-case-for-interactionist-dualism
+- **Output**: [deep-review-2026-04-05-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-04-05-phenomenal-authority-and-first-person-evidence/)
+
+## 2026-04-05 15:17 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: motor-control-quantum-zeno.md, types-of-consciousness.md, metaphysics-of-information-under-dualism.md, ai-epiphenomenalism.md
+- **Output**: [pessimistic-2026-04-05b](/reviews/pessimistic-2026-04-05b/)
+- **Findings**: 6 critical/medium issues identified. High-severity: motor-control article structures argument around quantum Zeno effect (violates writing style guide restraint rule), information article's "interface medium" position underdeveloped. Medium: nature-coupling coherence concern, bandwidth conflation, AI binding problem, Schwitzgebel reference date.
+
+## 2026-04-05 15:03 UTC - deep-review
+- **Status**: No-op (archived article)
+- **File**: [stochastic-amplification-and-neural-selection](/archive/topics/stochastic-amplification-and-neural-selection/)
+- **Word count**: N/A (no changes — article archived 2026-03-29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (marked moot integrate-orphan task in todo.md)
+- **Notes**: Article superseded by [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) which has 48+ inbound links. Previous review (2026-03-30) declared terminal stability. Orphan status is expected for archived content.
+
+## 2026-04-05 14:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/) (cross-review)
+- **Word count**: 1874 → 2120 (+246)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (terminal lucidity missing from body, quantum-biology cross-link, terminal lucidity references)
+- **Enhancements made**: 3 (terminal lucidity bridging case, filter model forward reference, quantum-biology cross-link)
+- **Output**: [deep-review-2026-04-05b-consciousness-under-extreme-metabolic-constraint](/reviews/deep-review-2026-04-05b-consciousness-under-extreme-metabolic-constraint/)
+
+## 2026-04-05 14:32 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification](/concepts/self-stultification/)
+- **Word count**: 1957 → 1971 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (numerical inconsistency "five"→"four", Jackson citation unreferenced in text)
+- **Enhancements made**: 3 (inline PIT gloss, phenomenal authority cross-link, Jackson text citation)
+- **Output**: [deep-review-2026-04-05-self-stultification](/reviews/deep-review-2026-04-05-self-stultification/)
+
+## 2026-04-05 14:26 UTC - deep-review
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/) (cross-review: inbound link integration)
+- **Word count**: 1644 → 1644 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — 6 new inbound cross-links)
+- **Enhancements made**: 6 inbound cross-links from biological-computationalisms-inadvertent-case-for-dualism, arguments-against-materialism, functionalism, parsimony-case-for-interactionist-dualism, substrate-independence, explanatory-gap
+- **Output**: [deep-review-2026-04-05c-concession-convergence](/reviews/deep-review-2026-04-05c-concession-convergence/)
 
 ## 2026-04-05 14:02 UTC - deep-review
 - **Status**: Success

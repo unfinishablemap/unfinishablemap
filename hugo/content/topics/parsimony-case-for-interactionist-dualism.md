@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-05 15:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -58,7 +58,7 @@ Most tellingly, parsimony's own advocates have abandoned or qualified the argume
 
 ### The Proliferation Problem
 
-If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [functionalism](/concepts/functionalism/), [higher-order thought theory](/concepts/higher-order-theories/), [higher-order perception theory](/concepts/higher-order-theories/), [global-workspace-theory](/concepts/global-workspace-theory/), [illusionism](/concepts/illusionism/), eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [explanatory-gap](/concepts/explanatory-gap/). The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem. [Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) exemplifies the pattern at its sharpest: each concession physicalists make to distinguish biological from digital computation—substrate dependence, metabolic grounding, hybrid processing—maps onto a classical argument for dualism.
+If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [functionalism](/concepts/functionalism/), [higher-order thought theory](/concepts/higher-order-theories/), [higher-order perception theory](/concepts/higher-order-theories/), [global-workspace-theory](/concepts/global-workspace-theory/), [illusionism](/concepts/illusionism/), eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [explanatory-gap](/concepts/explanatory-gap/). The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem. [Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) exemplifies the pattern at its sharpest: each concession physicalists make to distinguish biological from digital computation—substrate dependence, metabolic grounding, hybrid processing—maps onto a classical argument for dualism. This [concession-convergence](/concepts/concession-convergence/) pattern recurs across physicalist frameworks.
 
 A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. But the analogy fails. In healthy research programmes, competing theories converge as evidence accumulates — rival models of stellar nucleosynthesis, for instance, progressively unified. The physicalist theories of consciousness are not converging. After decades, they remain structurally incompatible, and the [hard problem](/topics/hard-problem-of-consciousness/) remains exactly as Chalmers formulated it. This pattern — persistent fragmentation despite sustained effort — is the signature of a constraint that does not fit the phenomenon.
 
@@ -133,6 +133,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The full philosophical case
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — The broader case
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Why first-person evidence justifies taking consciousness at face value
 - [Tenet: Occam's Razor Has Limits](/tenets/#occams-limits)
 
 ## References

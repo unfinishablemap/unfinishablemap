@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-05 15:32:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -169,6 +169,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [phenomenology](/concepts/phenomenology/) — First-person investigation of experience
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought requires irreducible mental causation
 - [qualia](/concepts/qualia/) — The intrinsic subjective qualities that objective description cannot capture
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The layered structure of first-person authority and why phenomenal reports carry epistemic weight
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and why complete physical knowledge leaves out phenomenal facts
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge domains accessible only through phenomenal experience
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-28 21:11:00+00:00
+ai_modified: 2026-04-05 15:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -110,6 +110,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The question of what matter is in itself, hidden behind transparent perception
 - [self-reference paradox](/voids/self-opacity/) — The structural impossibility of observing the observer
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person access
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Where phenomenal authority is strongest despite transparency's limits
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — The broader category that transparency shapes
 - [introspective opacity](/voids/self-opacity/) — The structural limit where process access fails
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience that transparency makes vivid

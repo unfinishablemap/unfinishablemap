@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 15:59:00+00:00
+ai_modified: 2026-04-05 14:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -133,7 +133,7 @@ Levine's original formulation was carefully modest: the gap is epistemic, concer
 
 But Chalmers' development of the gap into the [hard problem](/topics/hard-problem-of-consciousness/) pushes toward ontological conclusions. The gap isn't like our historical failure to understand lightning (which was resolved by learning physical facts). With consciousness, we cannot even imagine what kind of physical fact would make the experience of red intelligible. The gap resists all incremental progress. The Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) frames this persistence as a hallmark of paradigm crisis: an anomaly that the framework's resources are structurally inadequate to address. The [explanatory-void](/voids/explanatory-void/) deepens this point: the phenomenal feeling of explanatory satisfaction—what makes the water/H₂O reduction seem *transparent*—is itself a conscious state. The very criterion by which we would judge the gap closed belongs to what the gap leaves unexplained.
 
-This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold. The gap functions as a [Duhem-Quine auxiliary assumption](/topics/duhem-quine-underdetermination-consciousness/): physicalists presuppose it can be closed; dualists deny it—and no experiment adjudicates because the disagreement concerns what would count as closure. [Cognitive science's own methodology](/topics/cognitive-science-of-dualism/) reveals the same structure: the field depends on first-person report to ground its third-person measurements, creating a methodological circle it cannot close from within.
+This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold. Across physicalist frameworks, this pressure produces [concession-convergence](/concepts/concession-convergence/)—independent theories narrowing their claims in structurally identical ways that inadvertently concede the dualist point. The gap functions as a [Duhem-Quine auxiliary assumption](/topics/duhem-quine-underdetermination-consciousness/): physicalists presuppose it can be closed; dualists deny it—and no experiment adjudicates because the disagreement concerns what would count as closure. [Cognitive science's own methodology](/topics/cognitive-science-of-dualism/) reveals the same structure: the field depends on first-person report to ground its third-person measurements, creating a methodological circle it cannot close from within.
 
 ### The Mysterian Alternative
 
