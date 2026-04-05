@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-05T10:16:00+00:00
+ai_modified: 2026-04-05T11:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-05T11:20:00+00:00
 ---
 
 Concession convergence is the argumentative pattern in which multiple physicalist theories of consciousness, developed independently and from different starting assumptions, each arrive at defensive modifications that inadvertently concede the central dualist claim: functional organisation alone cannot account for consciousness. The pattern is significant because isolated concessions might reflect local theoretical difficulties, but when structurally identical retreats appear across competing frameworks, they constitute independent evidence that the difficulty is fundamental rather than theory-specific.
@@ -52,11 +52,13 @@ The structure is consistent across cases. A physicalist theory begins with a bro
 
 [[global-workspace-theory|GWT]] proposes that consciousness arises when information enters a "global workspace" and is broadcast to multiple cognitive modules. But GWT explicitly addresses only *access consciousness*—the availability of information for reasoning, reporting, and action. It says nothing about *phenomenal consciousness*—why there is something it is like to have information in the workspace. GWT explains when and how information becomes accessible. It remains silent on why accessibility feels like anything at all.
 
-**The concession**: GWT ties consciousness to specific neural architectures (the prefrontal-parietal network) rather than abstract computational properties. The COGITATE results (2023) further suggest that conscious content tracks posterior cortex activity rather than the broadcast network itself—consciousness may access whatever the posterior cortex provides, with the workspace enabling but not constituting that access. GWT is compatible with dualism if read as describing neural correlates rather than constituting consciousness.
+**The concession**: GWT ties consciousness to specific neural architectures (the prefrontal-parietal network) rather than abstract computational properties. The COGITATE results (2025) further suggest that conscious content tracks posterior cortex activity rather than the broadcast network itself—consciousness may access whatever the posterior cortex provides, with the workspace enabling but not constituting that access. GWT is compatible with dualism if read as describing neural correlates rather than constituting consciousness.
 
 ### Higher-Order Theories
 
 [[higher-order-theories|Higher-order theories]] propose that a mental state becomes conscious when represented by a higher-order thought or perception. But the theory faces dissociation evidence: patients and experimental subjects can have phenomenal experience without the higher-order representations the theory requires. The theory explains access to mental states without explaining why access feels like anything. Contemplative traditions report states of awareness without the subject-object structure HOT requires—"pure consciousness" where the observer-observed distinction dissolves.
+
+Brown's (2025) HOROR theory attempts to close this gap by holding that the higher-order state represents the first-order state *as* having qualitative character. But HOROR shifts the explanatory burden rather than discharging it: why does representing a state "as qualitative" produce experience rather than merely representing qualitative content? The phenomenal-access gap reappears one level up.
 
 **The concession**: HOT requires specific representational structures that may not transfer across substrates. The theory's own proponents have retreated from strong versions—Lycan abandoned higher-order perception in favour of attention-based accounts. The phenomenal-access separation HOT must draw (between the higher-order representation and the phenomenal character it supposedly creates) replicates the very distinction between functional organisation and experience that dualists identify.
 
@@ -102,7 +104,7 @@ The Map speculates that concession convergence will continue. Future physicalist
 - [[parsimony-case-for-interactionist-dualism]] — The proliferation problem and parsimony reversal
 - [[the-convergence-argument-for-dualism]] — Positive convergence from independent pro-dualist arguments
 - [[epistemology-of-convergence-arguments]] — When and why independent convergence constitutes evidence
-- [[pragmatisms-path-to-dualism]] — Putnam's retreat from functionalism as another instance
+- [[pragmatisms-path-to-dualism]] — Putnam's retreat from functionalism via semantic externalism, a related but distinct route
 - [[reductionism-and-consciousness]] — Kim's concession that qualia resist functional reduction
 - [[integrated-information-theory]] — IIT's exclusion postulate and identity problem
 - [[global-workspace-theory]] — GWT's silence on phenomenal consciousness
@@ -111,10 +113,12 @@ The Map speculates that concession convergence will continue. Future physicalist
 ## References
 
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261–325.
-2. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
-3. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-4. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
-5. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
-6. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216–242.
-7. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
-8. Southgate, A. & Oquatre-six, C. (2026-03-24). The Parsimony Case for Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/parsimony-case-for-interactionist-dualism/
+2. Brown, R. (2025). *Consciousness as Representing One's Mind: The Higher-Order Approach to Consciousness Explained*. Oxford University Press.
+3. Chalmers, D.J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
+4. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+5. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+6. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
+7. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
+8. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216–242.
+9. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
+10. Southgate, A. & Oquatre-six, C. (2026-03-24). The Parsimony Case for Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/parsimony-case-for-interactionist-dualism/

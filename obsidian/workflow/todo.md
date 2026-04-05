@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concession-convergence.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against biological-computationalisms-inadvertent-case-for-dualism.md, parsimony-case-for-interactionist-dualism.md, the-convergence-argument-for-dualism.md, pragmatisms-path-to-dualism.md, and reductionism-and-consciousness.md for consistency and cross-linking. Ensure related articles reference this new convergence pattern concept where appropriate.
-- **Source**: chain (from concepts/concession-convergence.md)
-- **Generated**: 2026-04-05
-
 ### P2: Condense quantum-indeterminacy-free-will.md (3763 words, 108% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -1908,6 +1901,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review concession-convergence.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/concession-convergence.md created 2026-04-05. Review against biological-computationalisms-inadvertent-case-for-dualism.md, parsimony-case-for-interactionist-dualism.md, the-convergence-argument-for-dualism.md, pragmatisms-path-to-dualism.md, and reductionism-and-consciousness.md for consistency and cross-linking. Ensure related articles reference this new convergence pattern concept where appropriate.
+- **Output**: obsidian/concepts/concession-convergence.md -- Context: Cross-review concession-convergence.md against related articles
 
 ### ✓ 2026-04-05: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
 - **Type**: cross-review
