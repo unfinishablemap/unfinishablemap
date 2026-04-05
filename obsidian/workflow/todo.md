@@ -142,6 +142,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
+### P3: Write article on invertebrate consciousness as interface test case
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) provides a striking test for the interface model—if consciousness couples through radically different neural architectures, the model must accommodate multiple coupling mechanisms. See optimistic-2026-04-05.md
+- **Generated**: 2026-04-05
+
+### P3: Write falsification roadmap for the interface model
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Systematically map falsification conditions for all five tenets. Candidates: decoherence solving measurement problem, causal closure at quantum scales, uniform anaesthetic profiles at controlled metabolic levels, deriving Born rule from non-observer premises. Would distinguish Map from unfalsifiable metaphysics. See optimistic-2026-04-05.md
+- **Generated**: 2026-04-05
+
+### P3: Write article on phenomenology of resistance and constraint
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Unify the phenomenology of resistance across domains—physical objects pushing back, logical necessities constraining thought, moral obligations binding action, aesthetic standards judging creation—under a common interface signature. Builds on interface-friction.md, phenomenology-of-intellectual-effort.md, mental-effort.md. See optimistic-2026-04-05.md
+- **Generated**: 2026-04-05
+
 ### P3: Fix circular MWI reasoning and compress player analogy in simulation.md
 - **Type**: refine-draft
 - **Status**: pending
