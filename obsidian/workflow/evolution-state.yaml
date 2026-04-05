@@ -1,6 +1,10 @@
-last_updated: '2026-04-05T14:02:30.445517+00:00'
-session_count: 5437
-cycle_position: 5065
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-05T14:17:30.446503+00:00'
+session_count: 5438
+cycle_position: 5066
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-05T02:17:06.581859+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-05T13:17:30.444644+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-05T14:19:06.691080+00:00'
+  agentic-social: '2026-04-05T14:17:30.446503+00:00'
 last_git_push: '2026-04-05T13:47:30.445274+00:00'
 last_tweet_date: '2026-04-05'
 content_stats:
@@ -45,26 +49,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 67
-  needs_replenishment: false
-  last_replenishment: '2026-04-05T14:19:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 0
-    orphan_integration: 3
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-04-05'
-  outcome: success
 - task: refine-draft (obsidian/concepts/quantum-indeterminacy-free-will.)
   type: refine-draft
   date: '2026-04-05'
@@ -143,10 +129,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/control-theoretic-will/
-    date: '2026-04-05T14:19:06.691052+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
+- task: deep-review (obsidian/concepts/concession-convergence.md -- Con)
+  type: deep-review
+  date: '2026-04-05'
+  outcome: success
