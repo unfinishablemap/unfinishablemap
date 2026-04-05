@@ -4,7 +4,7 @@ description: "When brain metabolism collapses, consciousness does not degrade pr
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-05T10:43:00+00:00
+ai_modified: 2026-04-05T11:02:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -27,14 +27,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-05T11:02:00+00:00
 ---
 
 If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across cardiac arrest, deep hypothermia, minimally conscious states, hibernation, anaesthesia, and psychedelic suppression of the default mode network, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is better explained by [[filter-theory|filter theory]]—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source.
 
 ## The Production Model's Prediction
 
-The dominant physicalist position treats consciousness as a product of neural computation, which requires metabolic energy. Shulman et al. (2018) articulate this directly: cerebral energy metabolism organises the neural activity from which consciousness emerges. If this is correct, reducing metabolic supply should reduce consciousness in rough proportion. A brain running at half its normal metabolic rate should sustain roughly half its normal conscious capacity—degraded, diminished, fading toward silence as the fuel runs out.
+The dominant physicalist position treats consciousness as a product of neural computation, which requires metabolic energy. Shulman et al. (2018) articulate this directly: cerebral energy metabolism organises the neural activity from which consciousness emerges. If this is correct, reducing metabolic supply should reduce consciousness—perhaps not in strict proportion, since network models allow graceful degradation and threshold effects, but broadly tracking metabolic decline. The prediction is directional: less fuel, less consciousness, with no room for paradoxical intensification.
 
 This prediction is testable. Multiple clinical and experimental settings create precisely the conditions needed: brains operating under severe metabolic constraint, with both metabolic rates and consciousness levels measurable. The results are not what production models predict.
 
@@ -42,15 +42,15 @@ This prediction is testable. Multiple clinical and experimental settings create 
 
 ### Gamma Surges in Dying Brains
 
-Xu et al. (2023) recorded the brain activity of four patients during cardiac arrest. Two exhibited rapid, marked surges of gamma-frequency oscillations after the heart stopped—precisely the neural signatures associated with conscious processing. Cross-frequency coupling between gamma and slower oscillations *increased*. Interhemispheric connectivity in gamma bands *strengthened*. The activation concentrated in temporo-parieto-occipital junctions, regions associated with conscious experience, dreaming, and out-of-body experiences.
+Xu et al. (2023) recorded the brain activity of four patients during cardiac arrest. The sample was small—four patients total—and only two exhibited rapid, marked surges of gamma-frequency oscillations after the heart stopped, precisely the neural signatures associated with conscious processing. The other two showed no such activity, making generalisation premature. But the positive cases are striking. Cross-frequency coupling between gamma and slower oscillations *increased*. Interhemispheric connectivity in gamma bands *strengthened*. The activation concentrated in temporo-parieto-occipital junctions, regions associated with conscious experience, dreaming, and out-of-body experiences.
 
-This lasted approximately thirty seconds into cardiac arrest, as metabolism was collapsing. The brain produced its most organised output during its final moments, not its least. A production model must explain why a system generates peak-organised activity as its energy supply fails. A filter model has a ready answer: the filter is breaking down, and what had been constrained is briefly released.
+In those two patients, organised activity lasted approximately thirty seconds into cardiac arrest, as metabolism was collapsing. The brain produced its most organised output during its final moments, not its least. A production model must explain why a system generates peak-organised activity as its energy supply fails. A filter model has a ready answer: the filter is breaking down, and what had been constrained is briefly released.
 
 ### The 42% Metabolic Threshold
 
-Stender et al. (2014) used FDG-PET scanning to quantify brain metabolism in patients with disorders of consciousness. Vegetative state patients showed 38% of normal cerebral metabolic activity. Minimally conscious patients showed 56%. The critical finding: consciousness can be sustained at just 42% of healthy metabolic levels, and this threshold correctly predicted recovery of consciousness within twelve months in 94% of cases.
+Stender et al. (2014) used FDG-PET scanning to quantify brain metabolism in patients with disorders of consciousness. Vegetative state patients showed 38% of normal cerebral metabolic activity. Minimally conscious patients showed 56%. The critical finding: a metabolic rate of approximately 42% of healthy levels reliably separated patients who retained minimal consciousness from those in vegetative states, and this diagnostic threshold correctly predicted recovery of consciousness within twelve months in 94% of cases.
 
-This is a threshold, not a gradient. Consciousness does not fade smoothly from 100% to 0% as metabolism declines. It persists with surprising resilience until a critical point, then fails. The pattern resembles a system losing its channel rather than losing its source—a radio signal that remains clear until the receiver breaks, rather than a candle that dims steadily as wax is consumed.
+The 42% figure is a statistical classifier derived from clinical data, not a precise biological switch. But the pattern it reveals is threshold-like rather than gradual. Consciousness does not fade smoothly from 100% to 0% as metabolism declines. It persists with surprising resilience until a critical region, then fails. The pattern resembles a system losing its channel rather than losing its source—a radio signal that remains clear until the receiver breaks, rather than a candle that dims steadily as wax is consumed.
 
 ### Near-Death Experiences During Metabolic Crisis
 
@@ -81,6 +81,12 @@ The [[filter-theory|filter or transmission theory]]—originating with William J
 - **Agent-specific anaesthesia profiles**: Different agents disrupt different components of the filtering architecture, producing different consciousness effects at similar metabolic levels.
 
 The production model can accommodate each anomaly individually—perhaps gamma surges are death throes, perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. But accommodating all five simultaneously requires ad hoc adjustments that undermine the model's original simplicity. The filter model predicts the entire pattern from a single principle: metabolism sustains constraint, not consciousness.
+
+## Chronic Versus Acute Metabolic Failure
+
+The five anomalies above involve *acute* metabolic disruption—rapid, global changes to brain energy supply. A contrasting pattern emerges in [[consciousness-and-neurodegenerative-disease|neurodegenerative disease]], where metabolic efficiency erodes chronically through neuroinflammation, mitochondrial dysfunction, and protein aggregation. In these conditions, consciousness does not intensify; it degrades progressively, with cognitive faculties peeling away in a characteristic order (episodic memory first, phenomenal awareness last).
+
+The filter model accommodates both patterns. Acute metabolic collapse disrupts the filtering apparatus globally and suddenly—the constraint lifts, and consciousness may briefly expand. Chronic degeneration destroys the interface structure itself—the hardware through which filtered consciousness is expressed. A radio whose power supply fails suddenly may produce a burst of static and signal; one whose circuits corrode over years simply grows quieter. The distinction between *filter dissolution* (acute) and *interface degradation* (chronic) explains why not all metabolic reduction enhances consciousness, resolving what would otherwise be an asymmetry problem for filter theory.
 
 ## Hibernation and the Lower Bound
 

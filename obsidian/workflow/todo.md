@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topic page topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review against death-and-consciousness.md, anaesthesia-and-the-consciousness-interface.md, psychedelics-and-the-filter-model.md, terminal-lucidity-and-filter-transmission-theory.md, filter-theory.md, and near-death-experiences.md for consistency and cross-linking. Ensure related articles reference this new metabolic constraint article where appropriate.
-- **Source**: chain (from topics/consciousness-under-extreme-metabolic-constraint.md)
-- **Generated**: 2026-04-05
-
 ### P2: Cross-review concession-convergence.md against related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -1915,6 +1908,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
+- **Type**: cross-review
+- **Notes**: New topic page topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review against death-and-consciousness.md, anaesthesia-and-the-consciousness-interface.md, psychedelics-and-the-filter-model.md, terminal-lucidity-and-filter-transmission-theory.md, filter-theory.md, and near-death-experiences.md for consistency and cross-linking. Ensure related articles reference this new metabolic constraint article where appropriate.
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md -- Context: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
 
 ### ✓ 2026-04-05: Write article on consciousness under extreme metabolic constraint
 - **Type**: expand-topic
