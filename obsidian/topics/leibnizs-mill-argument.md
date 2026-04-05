@@ -20,7 +20,7 @@ related_articles:
   - "[[knowledge-argument]]"
   - "[[philosophical-zombies]]"
   - "[[arguments-against-materialism]]"
-  - "[[convergent-phenomenological-evidence]]"
+  - "[[phenomenological-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -130,7 +130,7 @@ Leibniz's Mill supports several of the Map's [[tenets]]:
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Leibniz himself denied mind-body interaction, preferring pre-established harmony. The Map disagrees. But the mill argument is compatible with interactionist dualism: if perception is not reducible to mechanism, it may nonetheless influence mechanism at points where physics leaves outcomes undetermined—precisely the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] the Map proposes.
 
-The mill argument is the historical origin of what has become a converging family of anti-materialist arguments. The [[knowledge-argument]], the [[philosophical-zombies|zombie argument]], arguments from [[qualia]], and the [[explanatory-gap]] all elaborate what Leibniz first identified in the mill. Each approaches the question from a different angle; their convergence strengthens the [[arguments-against-materialism|cumulative case against materialism]]. That independent thinkers across three centuries—Leibniz, Levine, Jackson, Nagel, Chalmers—arrived at the same conclusion through different routes is itself significant. The [[convergent-phenomenological-evidence|convergence of independent lines of evidence]] is a pattern the Map takes seriously as an [[epistemology-of-convergence-arguments|evidential category]].
+The mill argument is the historical origin of what has become a converging family of anti-materialist arguments. The [[knowledge-argument]], the [[philosophical-zombies|zombie argument]], arguments from [[qualia]], and the [[explanatory-gap]] all elaborate what Leibniz first identified in the mill. Each approaches the question from a different angle; their convergence strengthens the [[arguments-against-materialism|cumulative case against materialism]]. That independent thinkers across three centuries—Leibniz, Levine, Jackson, Nagel, Chalmers—arrived at the same conclusion through different routes is itself significant. The [[phenomenological-evidence#convergence|convergence of independent lines of evidence]] is a pattern the Map takes seriously as an [[epistemology-of-convergence-arguments|evidential category]].
 
 ## Further Reading
 

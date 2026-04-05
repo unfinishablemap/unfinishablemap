@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-29T00:17:00+00:00
 last_deep_review: 2026-03-29T00:17:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-05T13:17:00+00:00
+superseded_by: "/concepts/phenomenological-evidence/"
+archive_reason: "Coalesced into Phenomenological Evidence"
+original_path: "/concepts/convergent-phenomenological-evidence/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
