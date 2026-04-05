@@ -5,6 +5,13 @@ ai_modified: 2026-04-05T18:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 20:26 UTC - deep-review (reference update)
+- **Status**: Success
+- **Task**: Update references to coalesced phenomenal-quality-void across 12 files
+- **Files modified**: phenomenology.md, resonance-void.md, convergence-as-evidence.md, whether-real.md, tenet-generated-voids.md, obviousness-void.md, voids.md, thrownness-void.md, necessary-opacity.md, spontaneous-thought-void.md, the-surplus-void.md, taxonomy-of-voids.md
+- **Changes**: Updated all wikilinks from phenomenal-presence-void → phenomenal-quality-void (frontmatter related_articles and inline body references). Updated display text from "The Phenomenal Presence Void" to "The Phenomenal Quality Void".
+- **References updated**: 26 total (12 frontmatter + 14 body/further-reading)
+
 ## 2026-04-05 20:18 UTC - condense
 - **Status**: Success
 - **File**: [[phenomenal-quality-void]]

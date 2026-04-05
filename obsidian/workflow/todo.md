@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced phenomenal-quality-void across 12 files
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-05 merged phenomenal-presence-void + phenomenal-absence-void → phenomenal-quality-void. 12 content files still reference the archived slugs: phenomenology.md, resonance-void.md, convergence-as-evidence.md, whether-real.md, tenet-generated-voids.md, obviousness-void.md, voids.md, thrownness-void.md, necessary-opacity.md, spontaneous-thought-void.md, the-surplus-void.md, taxonomy-of-voids.md. Update wikilinks to point to phenomenal-quality-void.
-- **Source**: chain (from coalesce 2026-04-05)
-- **Generated**: 2026-04-05
-
 ### P2: Fix 7 broken wikilinks across content files
 - **Type**: refine-draft
 - **Status**: pending
@@ -1937,6 +1930,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Update references to coalesced phenomenal-quality-void across 12 files
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-05 merged phenomenal-presence-void + phenomenal-absence-void → phenomenal-quality-void. 12 content files still reference the archived slugs: phenomenology.md, resonance-void.md, convergence-as-evidence.md, whether-real.md, tenet-generated-voids.md, obviousness-void.md, voids.md, thrownness-void.md, necessary-opacity.md, spontaneous-thought-void.md, the-surplus-void.md, taxonomy-of-voids.md. Update wikilinks to point to phenomenal-quality-void.
+- **Output**: None -- Context: Update references to coalesced phenomenal-quality-void across 12 files
 
 ### ✓ 2026-04-05: Condense phenomenal-quality-void.md (3135 words, 157% of target)
 - **Type**: condense

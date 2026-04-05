@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-03-30T21:39:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -144,7 +144,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
 - [[self-opacity|Introspective Opacity]] — Why we access mental contents but never the mechanisms that produce them
 - [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection, where attending changes the content
-- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why experience's immediacy and felt realness hide their own mechanisms
+- [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience's immediacy and felt realness hide their own mechanisms
 - [[the-silence-void|The Silence Void]] — Whether cognitive silence accesses truths that reasoning cannot reach
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers richness far beyond survival requirements
 - [[resonance-void|The Resonance Void]] — Why consciousness encounters meaning it cannot articulate or inspect

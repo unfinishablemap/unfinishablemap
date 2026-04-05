@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-01T12:38:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-04-01T12:38:00+00:00
@@ -20,7 +20,7 @@ related_articles:
   - "[[apex-articles]]"
   - "[[convergence-as-evidence]]"
   - "[[resonance-void]]"
-  - "[[phenomenal-presence-void]]"
+  - "[[phenomenal-quality-void]]"
   - "[[initiation-void]]"
   - "[[thrownness-void]]"
 
@@ -79,7 +79,7 @@ These voids are not independent. They reinforce each other, creating what the Ma
 
 ### The Phenomenological Cluster
 
-A second major cluster concerns the qualitative character of experience itself. The [[binding-void|binding void]]—why unified experience arises from disparate sensory processes—resists analysis entirely. The [[valence-void|valence void]] asks why experience has a built-in good/bad dimension. The [[substrate-void|substrate void]] pursues what consciousness is *made of*, finding that every answer collapses into negation or circularity. The [[acquaintance-void|acquaintance void]] identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [[phenomenal-presence-void|phenomenal presence void]] asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated.
+A second major cluster concerns the qualitative character of experience itself. The [[binding-void|binding void]]—why unified experience arises from disparate sensory processes—resists analysis entirely. The [[valence-void|valence void]] asks why experience has a built-in good/bad dimension. The [[substrate-void|substrate void]] pursues what consciousness is *made of*, finding that every answer collapses into negation or circularity. The [[acquaintance-void|acquaintance void]] identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [[phenomenal-quality-void|phenomenal quality void]] asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated.
 
 These voids share a feature: they concern aspects of consciousness so fundamental that they are invisible in ordinary experience. As the [[phenomenology-of-the-edge|phenomenology of the edge]] reveals, approaching these limits produces not confusion but a paradoxical clarity—the sense of understanding something too large for words. Contemplative traditions across cultures converge on this phenomenology, suggesting it reflects something about consciousness at its boundaries rather than artefacts of any particular practice.
 

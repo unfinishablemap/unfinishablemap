@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own m
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
   - "[[involuntariness-void]]"
-  - "[[phenomenal-presence-void]]"
+  - "[[phenomenal-quality-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -123,7 +123,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through the indexic
 - [[thoughts-that-slip-away]] — How thoughts escape before they can be captured
 - [[absorption-void]] — Where focused attention swallows the attending self
 - [[involuntariness-void]] — Consciousness cannot opt out of its own spontaneous content
-- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Thoughts arrive with immediate thereness that resists examination
+- [[phenomenal-quality-void|The Phenomenal Quality Void]] — Thoughts arrive with immediate thereness that resists examination
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[three-kinds-of-void]] — Unexplored, unexplorable, occluded
 - [[limits-reveal-structure]] — How boundaries illuminate architecture

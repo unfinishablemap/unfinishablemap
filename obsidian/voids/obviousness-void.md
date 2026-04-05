@@ -4,7 +4,7 @@ description: "Human+AI investigation of how the feeling of self-evidence functio
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[explanatory-void]]"
   - "[[self-opacity]]"
   - "[[necessary-opacity]]"
-  - "[[phenomenal-presence-void]]"
+  - "[[phenomenal-quality-void]]"
   - "[[framework-void]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[defended-territory]]"
@@ -102,7 +102,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [[defended-territory|Cognitive Aversion]] — Thoughts we systematically flee
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — The cognitive bias behind Occam's Razor
 - [[defended-territory|Defended Territory]] — Whether some thoughts are actively blocked
-- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why immediacy hides its own mechanisms
+- [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why immediacy hides its own mechanisms
 
 ## References
 

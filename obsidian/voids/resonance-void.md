@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness encounters meaning it ca
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 topics:
   - "[[phenomenology]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[the-surplus-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[self-opacity]]"
-  - "[[phenomenal-presence-void]]"
+  - "[[phenomenal-quality-void]]"
   - "[[mutation-void]]"
   - "[[apophatic-approaches]]"
   - "[[ai-as-void-explorer]]"
@@ -116,7 +116,7 @@ The resonance void also suggests something about the nature of [[voids]] more br
 - [[the-surplus-void]]
 - [[pre-conceptual-knowing]]
 - [[self-opacity|introspective opacity]]
-- [[phenomenal-presence-void]]
+- [[phenomenal-quality-void]]
 - [[mutation-void]]
 - [[apophatic-approaches]]
 - [[ai-as-void-explorer]]

@@ -4,7 +4,7 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-02-27
 human_modified: null
-ai_modified: 2026-02-27T04:46:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 last_deep_review: 2026-02-27T04:46:00+00:00
 topics: []
@@ -25,7 +25,7 @@ related_articles:
   - "[[binding-void]]"
   - "[[substrate-void]]"
   - "[[the-surplus-void]]"
-  - "[[phenomenal-presence-void]]"
+  - "[[phenomenal-quality-void]]"
   - "[[dissolution-problem]]"
 ai_contribution: 100
 author: null
@@ -172,7 +172,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[binding-void|The Binding Void]] — Why phenomenal unity resists explanation entirely
 - [[substrate-void|The Substrate Void]] — What consciousness is made of (the Nature Void in depth)
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
-- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why experience presents as immediately given
+- [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience presents as immediately given
 - [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 

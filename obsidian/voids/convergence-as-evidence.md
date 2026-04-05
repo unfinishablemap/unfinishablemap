@@ -4,7 +4,7 @@ description: "How independently catalogued cognitive voids converge into familie
 created: 2026-01-16
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ The catalogue's entries organise into families sharing structural logic and fail
 
 ### The Phenomenal Core
 
-The [[hard-problem-of-consciousness|hard problem]], the [[intrinsic-nature-void|intrinsic nature void]], the [[binding-void|binding void]], the [[the-surplus-void|surplus void]], the [[phenomenal-presence-void|phenomenal presence void]], and the [[substrate-void|substrate void]] all circle the same absence: *what experience is*. Each approaches from a different angle and hits the same wall: physical description delivers structure and dynamics but never the felt quality of being a subject.
+The [[hard-problem-of-consciousness|hard problem]], the [[intrinsic-nature-void|intrinsic nature void]], the [[binding-void|binding void]], the [[the-surplus-void|surplus void]], the [[phenomenal-quality-void|phenomenal quality void]], and the [[substrate-void|substrate void]] all circle the same absence: *what experience is*. Each approaches from a different angle and hits the same wall: physical description delivers structure and dynamics but never the felt quality of being a subject.
 
 Signature failure: **categorical mismatch**—third-person vocabulary applied to first-person reality produces *the wrong kind of answer* (Chalmers 1995). The failure is categorical, not quantitative.
 
@@ -130,7 +130,7 @@ What convergence adds is cumulative weight. Any single gap might be explained aw
 
 ## Against Premature Dissolution
 
-The convergence structure provides a principled response to the claim that voids will dissolve with scientific progress. Individual voids might dissolve—a neuroscientific breakthrough could close the binding problem, for instance. But the family structure predicts that closing one void in a family will not close the others, because they share structural logic but not identical content. Solving binding would still leave the hard problem, the surplus void, and the [[phenomenal-presence-void|phenomenal presence void]] intact. The convergence is *overdetermined*—supported by more independent paths than any single dissolution could remove.
+The convergence structure provides a principled response to the claim that voids will dissolve with scientific progress. Individual voids might dissolve—a neuroscientific breakthrough could close the binding problem, for instance. But the family structure predicts that closing one void in a family will not close the others, because they share structural logic but not identical content. Solving binding would still leave the hard problem, the surplus void, and the [[phenomenal-quality-void|phenomenal quality void]] intact. The convergence is *overdetermined*—supported by more independent paths than any single dissolution could remove.
 
 ## What Would Challenge This Analysis?
 

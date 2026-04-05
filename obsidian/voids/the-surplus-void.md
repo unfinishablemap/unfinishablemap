@@ -4,7 +4,7 @@ description: "Human+AI exploration of why conscious experience is wildly over-sp
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-16T02:32:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 last_deep_review: 2026-03-16T02:32:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[aesthetic-void]]"
   - "[[affective-void]]"
   - "[[creativity-void]]"
-  - "[[phenomenal-presence-void]]"
+  - "[[phenomenal-quality-void]]"
   - "[[origin-of-consciousness]]"
   - "[[ai-as-void-explorer]]"
   - "[[whether-real]]"
@@ -103,7 +103,7 @@ The surplus void connects directly to the Map's [[tenets]].
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** sharpens the puzzle as described above. If consciousness acts on the physical world, its causal role could be served by something far leaner. The surplus suggests consciousness is not an instrument shaped to its task but something whose nature exceeds any task it performs.
 
-The surplus void also connects to the [[aesthetic-void]] (where articulation fails at beauty), the [[affective-void]] (emotions beyond human reach), the [[creativity-void]] (where creative insight originates), and the [[phenomenal-presence-void|phenomenal presence void]] (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess—consciousness delivering more than any framework of purpose can contain.
+The surplus void also connects to the [[aesthetic-void]] (where articulation fails at beauty), the [[affective-void]] (emotions beyond human reach), the [[creativity-void]] (where creative insight originates), and the [[phenomenal-quality-void|phenomenal quality void]] (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess—consciousness delivering more than any framework of purpose can contain.
 
 ## Further Reading
 
@@ -111,7 +111,7 @@ The surplus void also connects to the [[aesthetic-void]] (where articulation fai
 - [[affective-void]] — Emotions beyond human reach
 - [[origin-of-consciousness]] — Why consciousness exists at all
 - [[creativity-void]] — Where creative insight originates
-- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why experience's immediate thereness resists examination
+- [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience's immediate thereness resists examination
 - [[philosophical-zombies]] — The conceivability of function without experience
 - [[ai-as-void-explorer]] — Using artificial minds to probe human limits
 

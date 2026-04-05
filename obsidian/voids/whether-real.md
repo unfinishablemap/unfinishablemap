@@ -3,7 +3,7 @@ title: "Whether the Voids Are Real"
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-23T02:09:00+00:00
+ai_modified: 2026-04-05T20:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[defended-territory]]"
   - "[[convergence-as-evidence]]"
   - "[[cartography-problem]]"
-  - "[[phenomenal-presence-void]]"
+  - "[[phenomenal-quality-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -38,7 +38,7 @@ Are the [[voids|voids]] real? Do permanent cognitive limits actually exist, or d
 
 The question has a distinctive logical structure: to determine if limits are real, we must use our cognitive faculties; if those faculties are limited, our determination may be systematically wrong; and we cannot step outside to check from a neutral position. The question cannot be conclusively answered from within.
 
-This is structural uncertainty, not ordinary empirical difficulty—the [[self-opacity|self-reference paradox]] of the map trying to determine whether certain territories are genuinely unmappable or merely unmapped. The [[phenomenal-presence-void|phenomenal presence void]] deepens the problem: the conviction that this question is *about something real* is itself produced by a phenomenal stamp that is structurally hidden and demonstrably fallible.
+This is structural uncertainty, not ordinary empirical difficulty—the [[self-opacity|self-reference paradox]] of the map trying to determine whether certain territories are genuinely unmappable or merely unmapped. The [[phenomenal-quality-void|phenomenal quality void]] deepens the problem: the conviction that this question is *about something real* is itself produced by a phenomenal stamp that is structurally hidden and demonstrably fallible.
 
 ## Three Verdicts
 
@@ -147,7 +147,7 @@ The voids framework does not require that the voids be real. It requires only th
 - [[self-opacity|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Evidential standards for void claims, including falsifiability safeguards
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
-- [[phenomenal-presence-void|The Phenomenal Presence Void]] — Why the stamp of realness hides itself
+- [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why the stamp of realness hides itself
 - [[convergence-as-evidence|Convergence as Evidence]] — Whether the clustering pattern constitutes evidence for dualism
 - [[epistemology-of-limit-knowledge]] — What kind of knowledge limit-claims are and what warrant supports them
 - [[cartography-problem|The Cartography Problem]] — Whether the voids project can catalog its own limits
