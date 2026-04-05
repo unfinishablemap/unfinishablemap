@@ -5,6 +5,15 @@ ai_modified: 2026-04-05T01:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 10:01 UTC - deep-review
+- **Status**: Success
+- **File**: [[ethics-and-value-in-a-dualist-world]]
+- **Word count**: 2862 → 2864 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Weil citation corrected, stale refinement log removed)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [[reviews/deep-review-2026-04-05-ethics-and-value-in-a-dualist-world]]
+
 ## 2026-04-05 09:48 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[biological-computationalisms-inadvertent-case-for-dualism]], [[parsimony-case-for-interactionist-dualism]], [[trilemma-of-selection]], [[born-rule-and-the-consciousness-interface]], [[curated-mind]], [[clinical-phenomenology-and-altered-experience]], [[metaproblem-of-consciousness-under-dualism]], [[self-stultification-as-master-argument]], [[predictive-processing-and-dualism]], [[attention-and-the-consciousness-interface]], [[emergence-as-universal-hard-problem]], [[phenomenological-method-and-evidence-standards]], [[hypnagogic-phenomenology-and-interface-modulation]], [[coupling-modes]]

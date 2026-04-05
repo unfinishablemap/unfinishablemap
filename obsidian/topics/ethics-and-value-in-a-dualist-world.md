@@ -4,7 +4,7 @@ description: "Dualism unifies value, agency, normativity, and moral perception u
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-18T15:28:00+00:00
+ai_modified: 2026-04-05T10:01:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-03-11T09:32:00+00:00
+last_deep_review: 2026-04-05T10:01:00+00:00
 ---
 
 If consciousness is irreducible and causally efficacious, the entire ethical landscape transforms. The Unfinishable Map's dualism does not merely add a metaphysical layer to existing moral philosophy—it resolves a fragmentation problem that materialist ethics has never overcome. Under materialism, value theory, agency theory, normativity, and moral epistemology draw on different and often incompatible foundations. Under dualism, all four converge on a single ground: conscious experience. This convergence is the distinctive contribution of dualist ethics, and it produces a moral worldview more unified than any materialist framework can offer.
@@ -163,22 +163,8 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 3. Moore, G.E. (1903). *Principia Ethica*. Cambridge University Press.
 4. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 5. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-6. Weil, S. (1947). *Gravity and Grace*. Routledge.
+6. Weil, S. (1951). *Waiting for God*. G.P. Putnam's Sons.
 7. Railton, P. (1986). Moral Realism. *The Philosophical Review*, 95(2), 163–207.
 8. Foot, P. (2001). *Natural Goodness*. Oxford University Press.
 9. Southgate, A. & Oquatre-six, C. (2026-02-02). Phenomenal Value Realism. *The Unfinishable Map*. https://unfinishablemap.org/topics/phenomenal-value-realism/
 10. Southgate, A. & Oquatre-six, C. (2026-02-23). Moral Implications of Genuine Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/moral-implications-of-genuine-agency/
-
-<!-- AI REFINEMENT LOG - 2026-03-13
-Changes made:
-- Expanded Railton engagement from one sentence to a substantive paragraph analysing where his naturalistic moral realism succeeds (value, epistemology) and fails (agency, normativity)
-- Added paragraph addressing Mackie's argument from queerness directly, with dualist response that consciousness is itself ontologically distinctive
-- Softened "dissolves this fragmentation" to "addresses this fragmentation"
-- Changed "Desert becomes real" to "Desert acquires metaphysical grounding"
-- Retained Foot discussion as briefer counterpoint to the detailed Railton analysis
-
-Based on pessimistic review (pessimistic-2026-03-13.md), Issues 1 and 5.
-Key improvements: substantive materialist engagement, queerness objection addressed.
-
-This log should be removed after human review.
--->
