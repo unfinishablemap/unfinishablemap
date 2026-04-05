@@ -4,7 +4,7 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-04-04T15:54:00+00:00
+ai_modified: 2026-04-05T13:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-26T11:04:00+00:00
+last_deep_review: 2026-04-05T13:02:00+00:00
 coalesced_from:
   - "/topics/anesthesia-and-the-filter-argument/"
   - "/topics/anaesthetic-recovery-and-the-filter-problem/"
@@ -97,7 +97,7 @@ Brain complexity measures like the perturbational complexity index (PCI) show co
 
 The ketamine case poses a specific challenge to integrated information theory (IIT). Under ketamine, brain complexity measured by PCI remains at waking levels yet consciousness is disconnected from the environment. Filter theory accommodates this naturally: integration capacity remains intact because consciousness still engages through the interface, but access channels have been pharmacologically blocked.
 
-The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023), with ~40% of patients showing near-normal brain activity during CPR (Parnia et al., 2023), are neurobiological paradoxes for production theory. Filter theory predicts these naturally: reduced filtering allows more consciousness through. [[consciousness-disruption-and-the-mind-brain-interface|Psychedelic states]], where default-mode network disruption correlates with expanded experience, add further support.
+The strongest discriminating evidence comes from the boundary between anaesthesia and death. Terminal lucidity — coherent awareness returning in severely deteriorated brains — and cardiac arrest gamma surges (Xu et al., 2023, in two of four patients studied) are neurobiological paradoxes for production theory, with Parnia et al. (2023) finding ~40% of cardiac arrest patients showing organised brain activity during CPR. Filter theory predicts these naturally: reduced filtering allows more consciousness through. The broader pattern of [[consciousness-under-extreme-metabolic-constraint|consciousness persisting under extreme metabolic constraint]] — including psychedelic DMN suppression, near-death experiences, and agent-specific anaesthesia profiles — reinforces this interpretation.
 
 The pharmacological specificity documented here also bears on [[testing-consciousness-collapse|experimental design for consciousness-collapse testing]]: different agents selectively disrupting different interface channels could provide the controlled variation that consciousness-collapse experiments need. The [[testing-consciousness-collapse|concrete prediction catalogue]] includes anaesthesia-modulated collapse dynamics as one of the key divergent predictions between consciousness-collapse and decoherence.
 
@@ -189,6 +189,7 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 - [[contemplative-practice-as-philosophical-evidence]] — Voluntary contemplative evidence converging with pharmacological findings on the same interface architecture
 - [[clinical-phenomenology-and-altered-experience]] — Clinical disruptions as the involuntary counterpart to pharmacological and contemplative evidence
 - [[consciousness-and-causal-powers]] — The broader question of consciousness's causal role, relevant to the bootstrapping problem
+- [[consciousness-under-extreme-metabolic-constraint]] — How consciousness behaves when metabolic supply collapses: gamma surges, threshold effects, and the filter model
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the decisive test case of pain asymbolia
 - [[testing-consciousness-collapse]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
@@ -217,14 +218,3 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 1. Craddock, T. J. A., et al. (2015). Anesthetics act in quantum channels in brain microtubules to prevent consciousness. *Current Topics in Medicinal Chemistry*, 15(6), 523-533.
 1. Hameroff, S., et al. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 1. (2025). Emergence from general anaesthesia: stochastic or deterministic? *British Journal of Anaesthesia*.
-
-<!-- AI REFINEMENT LOG - 2026-04-04T15:54
-Changes made:
-- Fixed duplicate reference: eLife e59525 was listed twice under different first authors (Mashour #4 and Bhatt #21). Verified Mashour is correct first author via eLife; removed duplicate and corrected in-text citation
-- Improved readability by splitting dense paragraphs in: recovery section opening, GNW reframing, convergence summary, graded consciousness, and minimal quantum interaction tenet
-- Added explicit PCI (perturbational complexity index) reference where "brain complexity measures" were mentioned generically
-
-Based on review scoring ~7/10. Research from research/anaesthetic-recovery-neuroscience-2026-03-26.md was already well-integrated by prior passes (2026-03-30, 2026-04-02). This pass focused on reference accuracy and readability.
-
-This log should be removed after human review.
--->

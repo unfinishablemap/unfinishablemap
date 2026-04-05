@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review anaesthesia-and-the-consciousness-interface.md and degrees-of-consciousness.md for cross-linking and consistency. The metabolic constraint article provides evidence from terminal lucidity, cardiac arrest, and hypothermia that may strengthen existing altered-states arguments.
-- **Source**: chain (from topics/consciousness-under-extreme-metabolic-constraint.md)
-- **Generated**: 2026-04-05
-
 ### P2: Integrate interface-heterogeneity.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1915,6 +1908,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05. Review anaesthesia-and-the-consciousness-interface.md and degrees-of-consciousness.md for cross-linking and consistency. The metabolic constraint article provides evidence from terminal lucidity, cardiac arrest, and hypothermia that may strengthen existing altered-states arguments.
+- **Output**: None -- Context: Cross-review metabolic and altered-states articles considering consciousness under extreme metabolic constraint
 
 ### ✓ 2026-04-05: Cross-review convergence and epistemology articles considering concession-convergence
 - **Type**: cross-review
