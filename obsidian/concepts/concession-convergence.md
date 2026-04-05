@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-05T11:20:00+00:00
+ai_modified: 2026-04-05T12:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review: 2026-04-05T11:20:00+00:00
+last_deep_review: 2026-04-05T12:17:00+00:00
 ---
 
 Concession convergence is the argumentative pattern in which multiple physicalist theories of consciousness, developed independently and from different starting assumptions, each arrive at defensive modifications that inadvertently concede the central dualist claim: functional organisation alone cannot account for consciousness. The pattern is significant because isolated concessions might reflect local theoretical difficulties, but when structurally identical retreats appear across competing frameworks, they constitute independent evidence that the difficulty is fundamental rather than theory-specific.
@@ -46,7 +46,7 @@ The structure is consistent across cases. A physicalist theory begins with a bro
 
 [[integrated-information-theory|IIT]] begins by identifying consciousness with integrated information (Φ). But IIT's exclusion postulate restricts consciousness to systems with *maximal* integrated information, ruling out functional duplicates that integrate information in the wrong way. IIT further ties consciousness to *intrinsic causal power*—not all systems with the right functional profile are conscious, only those whose causal structure is irreducible. The theory's identity claim (consciousness *is* Φ-structure) then faces the charge that identity assertions are unexplanatory: asserting that a physical arrangement *is* experience does not explain why that arrangement is accompanied by experience. The [[explanatory-gap]] persists in the form of asking why this particular identity holds.
 
-**The concession**: IIT rejects [[substrate-independence]] by tying consciousness to intrinsic causal structure rather than abstract computation. Systems that are functionally identical but causally different can differ in consciousness. This is the absent qualia intuition wearing a mathematical hat.
+**The concession**: IIT rejects [[substrate-independence]] by tying consciousness to intrinsic causal structure rather than abstract computation. Systems that are functionally identical but causally different can differ in consciousness. This is the [[concepts/functionalism|absent qualia]] intuition—the possibility that a system could be functionally identical to a conscious being yet lack experience—wearing a mathematical hat.
 
 ### Global Workspace Theory
 
@@ -78,7 +78,7 @@ Isolated theoretical difficulties prove little—every theory has problems. Conc
 
 **Involuntariness.** The concessions are not strategic retreats designed to accommodate dualism. They are forced by the theories' own internal logic when confronted with the hard problem. Each theory's proponents would reject the dualist interpretation of their modifications. This makes the convergence more significant, not less: it is not a negotiated settlement but an independent arrival at the same structural limitation.
 
-**Directionality.** The narrowing moves go in one direction only—toward greater specificity about what consciousness requires. No physicalist theory has successfully broadened its account (claiming consciousness is *more* widely distributed than initially proposed) without running into panpsychism, which brings its own concession to irreducibility. The ratchet only turns toward the dualist position.
+**Directionality.** The narrowing moves go in one direction only—toward greater specificity about what consciousness requires. No physicalist theory has successfully broadened its account (claiming consciousness is *more* widely distributed than initially proposed) without running into [[panpsychism]], which brings its own concession to irreducibility. The ratchet only turns toward the dualist position.
 
 ## Relation to Concession and Convergence Arguments
 

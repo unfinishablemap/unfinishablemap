@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concession-convergence.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-05 via expand-topic, never reviewed. New concept page arguing that physicalist theories independently concede dualist claims through defensive modifications. Verify accuracy of characterisations of IIT, GWT, higher-order theories, and biological naturalism. Check that the convergence argument is fair and not a strawman. Cross-references to convergence-argument-for-dualism, epistemology-of-convergence-arguments, and related articles. Tenet 1 alignment critical.
-- **Source**: chain
-- **Generated**: 2026-04-05
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1894,6 +1887,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-05 via expand-topic, never reviewed. New concept page arguing that physicalist theories independently concede dualist claims through defensive modifications. Verify accuracy of characterisations of IIT, GWT, higher-order theories, and biological naturalism. Check that the convergence argument is fair and not a strawman. Cross-references to convergence-argument-for-dualism, epistemology-of-convergence-arguments, and related articles. Tenet 1 alignment critical.
+- **Output**: obsidian/concepts/concession-convergence.md
 
 ### ✓ 2026-04-05: Condense quantum-indeterminacy-free-will.md (3763 words, 108% of hard threshold)
 - **Type**: condense
