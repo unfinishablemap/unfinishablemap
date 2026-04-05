@@ -40,10 +40,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Create concept page for concession convergence
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete
 - **Notes**: Identified in optimistic-2026-04-04. The argumentative pattern where multiple physicalist frameworks independently concede the dualist claim through their own defensive modifications: IIT's exclusion postulate, GWT's consciousness-as-global-broadcast distinction, HOT's phenomenal-access separation, biological computationalism's substrate-specificity admission. Currently article-specific but the pattern recurs systematically. Builds on biological-computationalisms-inadvertent-case-for-dualism, parsimony-case-for-interactionist-dualism. Target section: concepts/ (225/230).
 - **Source**: gap_analysis
 - **Generated**: 2026-04-05
+- **Output**: [concession-convergence](/concepts/concession-convergence/)
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review

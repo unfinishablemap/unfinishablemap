@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-05 10:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Concession Convergence
+- **Output**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 1535
+- **Based on research**: No (synthesised from existing Map articles: biological-computationalisms-inadvertent-case-for-dualism, parsimony-case-for-interactionist-dualism, IIT, GWT, HOT concept pages)
+
+## 2026-04-05 10:01 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/)
+- **Word count**: 2862 → 2864 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Weil citation corrected, stale refinement log removed)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-04-05-ethics-and-value-in-a-dualist-world](/reviews/deep-review-2026-04-05-ethics-and-value-in-a-dualist-world/)
+
 ## 2026-04-05 09:48 UTC - refine-draft
 - **Status**: Success
 - **Files**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/), [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [trilemma-of-selection](/topics/trilemma-of-selection/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/), [curated-mind](/topics/curated-mind/), [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/), [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/), [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [coupling-modes](/concepts/coupling-modes/)

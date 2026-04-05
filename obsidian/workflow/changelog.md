@@ -5,6 +5,13 @@ ai_modified: 2026-04-05T01:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 10:16 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Concession Convergence
+- **Output**: [[concession-convergence]]
+- **Word count**: 1535
+- **Based on research**: No (synthesised from existing Map articles: biological-computationalisms-inadvertent-case-for-dualism, parsimony-case-for-interactionist-dualism, IIT, GWT, HOT concept pages)
+
 ## 2026-04-05 10:01 UTC - deep-review
 - **Status**: Success
 - **File**: [[ethics-and-value-in-a-dualist-world]]
