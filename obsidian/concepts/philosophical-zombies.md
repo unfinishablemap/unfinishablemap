@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-03-25T15:59:00+00:00
+ai_modified: 2026-04-05T15:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -172,7 +172,7 @@ The zombie argument is one of seven major arguments against materialism surveyed
 
 However, this convergence is only as strong as the independence of the arguments' premises. Eliminativists and illusionists argue that all seven share a foundational presupposition: that first-person phenomenal concepts reliably track a genuine ontological category. If this presupposition fails—if "consciousness" is as confused a concept as "vital élan"—then the arguments fail collectively, their convergence reflecting a common error rather than independent confirmation.
 
-The Map holds that this foundational commitment is more secure than the theories that deny it. We have direct acquaintance with our own experience—the conviction that there is something it is like to see red or feel pain is not a theoretical posit vulnerable to elimination but the datum that any adequate theory must explain. The convergence carries genuine weight because each argument exploits a different aspect of the gap between physical description and phenomenal reality, but that weight rests on taking phenomenal consciousness seriously as a starting point.
+The Map holds that this foundational commitment is more secure than the theories that deny it. We have [[phenomenal-authority-and-first-person-evidence|direct acquaintance]] with our own experience—the conviction that there is something it is like to see red or feel pain is not a theoretical posit vulnerable to elimination but the datum that any adequate theory must explain. The convergence carries genuine weight because each argument exploits a different aspect of the gap between physical description and phenomenal reality, but that weight rests on taking phenomenal consciousness seriously as a starting point.
 
 ## Relation to Site Perspective
 

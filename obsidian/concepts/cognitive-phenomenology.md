@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-05T15:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ Galen Strawson's foreign language argument: A monolingual English speaker and a 
 
 ### Self-Knowledge
 
-David Pitt argues we immediately identify our thoughts' contents through [[introspection]]. When you think "snow is white," you know what you're thinking—and you know it non-inferentially, not by observing your behavior. This requires thoughts to have phenomenal character distinguishing their contents. Each distinct thought has its own phenomenal signature.
+David Pitt argues we immediately identify our thoughts' contents through [[introspection]]. When you think "snow is white," you know what you're thinking—and you know it non-inferentially, not by observing your behavior. This requires thoughts to have phenomenal character distinguishing their contents — a form of [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] operating in the cognitive domain. Each distinct thought has its own phenomenal signature.
 
 ### Ambiguity Resolution
 

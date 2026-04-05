@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-05T12:03:00+00:00
+ai_modified: 2026-04-05T15:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-04-03T03:48:00+00:00
+last_deep_review: 2026-04-05T15:32:00+00:00
 coalesced_from:
   - "/topics/phenomenal-conservatism-and-introspective-evidence/"
   - "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"

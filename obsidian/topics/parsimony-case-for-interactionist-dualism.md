@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-05T14:26:00+00:00
+ai_modified: 2026-04-05T15:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -130,6 +130,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 - [[epistemological-limits-of-occams-razor]] — The full philosophical case
 - [[interactionist-dualism]] — The Map's core position
 - [[arguments-against-materialism]] — The broader case
+- [[phenomenal-authority-and-first-person-evidence]] — Why first-person evidence justifies taking consciousness at face value
 - [[tenets#^occams-limits|Tenet: Occam's Razor Has Limits]]
 
 ## References

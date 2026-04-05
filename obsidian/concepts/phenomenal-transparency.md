@@ -4,7 +4,7 @@ description: "Why experience presents itself as direct contact with reality rath
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-05T15:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -107,6 +107,7 @@ For the [[simulation|simulation hypothesis]], phenomenal transparency makes the 
 - [[intrinsic-nature-void]] — The question of what matter is in itself, hidden behind transparent perception
 - [[self-opacity|self-reference paradox]] — The structural impossibility of observing the observer
 - [[introspection]] — The reliability and limits of first-person access
+- [[phenomenal-authority-and-first-person-evidence]] — Where phenomenal authority is strongest despite transparency's limits
 - [[phenomenal-consciousness]] — The broader category that transparency shapes
 - [[self-opacity|introspective opacity]] — The structural limit where process access fails
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience that transparency makes vivid

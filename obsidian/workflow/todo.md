@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Topics article on the epistemic weight of first-person reports, created 2026-03-29. Add cross-references from related articles such as phenomenal-authority-and-first-person-evidence.md, epistemology-of-first-person-evidence.md, phenomenal-conservatism-and-introspective-evidence.md.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-05
-
 ### P2: Integrate differential-predictions-consciousness-collapse.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1922,6 +1915,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on the epistemic weight of first-person reports, created 2026-03-29. Add cross-references from related articles such as phenomenal-authority-and-first-person-evidence.md, epistemology-of-first-person-evidence.md, phenomenal-conservatism-and-introspective-evidence.md.
+- **Output**: phenomenal-authority-epistemic-weight-first-person-reports.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-05: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan

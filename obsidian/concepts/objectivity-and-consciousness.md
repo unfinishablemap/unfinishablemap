@@ -4,7 +4,7 @@ description: "Why consciousness resists the view from nowhere. Scientific object
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-05T15:32:00+00:00
 last_deep_review: 2026-03-12T06:25:00+00:00
 draft: false
 topics:
@@ -167,6 +167,7 @@ The limits of objectivity are not defects to overcome but features of reality it
 - [[phenomenology]] — First-person investigation of experience
 - [[argument-from-reason]] — Why rational thought requires irreducible mental causation
 - [[qualia]] — The intrinsic subjective qualities that objective description cannot capture
+- [[phenomenal-authority-and-first-person-evidence]] — The layered structure of first-person authority and why phenomenal reports carry epistemic weight
 - [[knowledge-argument]] — Mary's Room and why complete physical knowledge leaves out phenomenal facts
 - [[consciousness-only-territories]] — Knowledge domains accessible only through phenomenal experience
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
