@@ -167,6 +167,7 @@ The [[tenets#^no-many-worlds|No Many Worlds tenet]] connects through the [[index
 - [[reductionism-and-consciousness]] — Why consciousness differs structurally from past reductive successes
 - [[concession-convergence]] — The complementary pattern: physicalist theories retreating toward dualist positions
 - [[cross-cultural-convergence-on-mental-causation]] — Independent traditions converging on consciousness's causal efficacy
+- [[the-reverse-inference]] — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Convergence methodology applied to altered states
 
 ## References

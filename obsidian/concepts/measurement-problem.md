@@ -213,7 +213,8 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — Coordination puzzles
 - [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How Zurek's framework specifies the menu while leaving the outcome gap open
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis: five converging lines of inquiry for consciousness acting after decoherence
-- [[what-consciousness-tells-us-about-physics]] — The reverse inference
+- [[the-reverse-inference]] — Using consciousness as datum to constrain quantum interpretation
+- [[what-consciousness-tells-us-about-physics]] — Apex synthesis developing the reverse inference into a full framework
 - [[tenets]] — The Map's foundational commitments
 
 ## References

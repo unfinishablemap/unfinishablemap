@@ -4,8 +4,8 @@ description: "The reverse inference uses consciousness—our most certain datum�
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-23T08:51:00+00:00
-last_deep_review: 2026-03-23T08:51:00+00:00
+ai_modified: 2026-04-05T13:47:00+00:00
+last_deep_review: 2026-04-05T13:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ Philosophy of mind almost always runs in one direction: start with physics, then
 
 The default methodology in philosophy of mind treats physics as the fixed frame. Physicalists argue that consciousness reduces to or emerges from physical processes. Dualists argue for exceptions or extensions. Both sides take physics as given and ask where consciousness fits within it.
 
-This framing concedes an assumption that deserves scrutiny: that physics is the more secure starting point. Yet quantum mechanics has spent a century demonstrating otherwise. The [[measurement-problem|measurement problem]] remains unsolved. No interpretation commands consensus. Physicists are scattered across half a dozen incompatible views of what their own theory means. The physical world—at its most fundamental level—is the thing we understand least.
+This framing concedes an assumption that deserves scrutiny: that physics is the more secure starting point. Yet quantum mechanics has spent a century demonstrating otherwise. The [[measurement-problem|measurement problem]] remains unsolved. No interpretation commands consensus. Physicists are scattered across half a dozen incompatible views of what their own theory means. The physical world—at the level of interpretation—is the thing we understand least.
 
 The standard direction also inherits a specific bias. Starting from physics and working toward consciousness makes materialism the default: consciousness must earn its place in a physical world. Any role for consciousness beyond passive byproduct—any departure from [[epiphenomenalism]]—requires extraordinary justification. The assumption of [[causal-closure]] seals the case before the argument begins. The reverse inference challenges this by noting that the justificatory asymmetry points the wrong way.
 

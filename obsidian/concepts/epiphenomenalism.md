@@ -196,6 +196,7 @@ The self-stultification problem remains the strongest objection: if epiphenomena
 - [[agent-causation]] — The positive framework for mental causation
 - [[pain-consciousness-and-causal-power]] — Why pain is the hardest case for epiphenomenalism
 - [[illusionism#Structural Convergence with Epiphenomenalism|Illusionism as Epiphenomenalism]] — Why illusionism inherits epiphenomenalism's structural problems
+- [[the-reverse-inference]] — Using consciousness as secure datum to constrain physics, inverting the epiphenomenalist assumption
 - [[dualism]] — The foundational framework; epiphenomenalism is one of three dualist positions
 - [[epiphenomenalism-2026-01-08]] — Detailed research notes
 

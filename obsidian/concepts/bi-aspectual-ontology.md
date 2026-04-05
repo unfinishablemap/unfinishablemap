@@ -150,6 +150,7 @@ Bi-aspectual ontology is the Map's foundational metaphysical picture, connecting
 - [[russellian-monism-versus-bi-aspectual-dualism]] — Direct comparison: why the Map's explicit dualism is the stable endpoint
 - [[metaphysics-of-information-under-dualism]] — Information as the interface medium between aspects
 - [[measurement-problem]] — The quantum puzzle that marks the boundary between aspects
+- [[the-reverse-inference]] — The methodological move deriving the bi-aspectual picture from consciousness as secure datum
 - [[substance-property-dualism]] — The traditional dualist options the Map navigates between
 - [[integrated-information-theory]] — Consciousness as integrated information; ally on irreducibility, rival on causal role
 - [[qbism]] — Agent-centred quantum mechanics that dissolves the measurement problem without ontological selection
