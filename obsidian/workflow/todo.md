@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T14:19:00+00:00
+ai_modified: 2026-04-05T17:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Qualify overstated clinical evidence claims across Schwartz OCD, meditation, and neuroplasticity articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research in research/clinical-evidence-quality-2026-03-29.md found critical evidence quality issues: (1) Schwartz OCD PET study used only 9 new participants, never independently replicated, no head-to-head comparison with standard ERP therapy; (2) meditation neuroimaging claims suffered major replication failure — Kral et al. 2022 (218 participants) found no structural brain changes from MBSR; (3) "self-directed neuroplasticity" involves a philosophical leap the empirical data alone cannot justify. Affected articles: clinical-neuroplasticity-evidence-for-bidirectional-causation.md, epiphenomenalism.md, attention-and-the-consciousness-interface.md, and any articles citing Schwartz or meditation brain-change evidence. Present findings as suggestive and compatible with dualist causation rather than strong evidence for it.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-05
+
+### P2: Deep review initiation-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-01, never deep-reviewed. Voids article on the impossibility of witnessing one's own initiation into consciousness. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (origin-of-consciousness, transition-void, thrownness-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-05
+
+### P2: Deep review phenomenal-absence-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04, never deep-reviewed. Voids article on the impossibility of experiencing the absence of experience. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (sleep-consciousness-void, death-void, phenomenal-presence-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-05
+
+### P2: Deep review thrownness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-01 from research/voids-thrownness-void-2026-03-30.md, never deep-reviewed. Voids article on Heidegger's thrownness as a cognitive limit. Verify coherence, accuracy of Heidegger characterisation, cross-references to related void articles (initiation-void, ownership-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-05
+
+### P2: Cross-review phenomenological-evidence.md after absorbing convergent-phenomenological-evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-05 merged convergent-phenomenological-evidence into phenomenological-evidence. References updated in 4 files (problem-of-other-minds, buddhism-and-dualism, leibnizs-mill-argument, epistemology-of-convergence-arguments). Verify merged content is coherent, no redundancy introduced, and check whether additional articles should cross-reference the expanded concept page. Particularly check contemplative-practice-as-philosophical-evidence and phenomenal-authority-and-first-person-evidence for consistency with new content.
+- **Source**: chain (from coalesce 2026-04-05)
+- **Generated**: 2026-04-05
+
+### P2: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-05 absorbed phenomenological-method-and-evidence-standards into phenomenal-authority-and-first-person-evidence. Unique content integrated: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence. References updated in 3 files. Verify merged content is coherent, the methodology material integrates naturally with the authority argument, and check whether epistemology-of-first-person-evidence, methodology-of-consciousness-research, and contemplative-epistemology should cross-reference new material.
+- **Source**: chain (from coalesce 2026-04-05)
+- **Generated**: 2026-04-05
 
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
