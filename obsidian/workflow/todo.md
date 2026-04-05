@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-05T22:26:00+00:00
+ai_modified: 2026-04-05T23:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on the fatigue void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-fatigue-void-2026-04-05.md. Synthesize findings into a voids article exploring the phenomenology of cognitive fatigue as an interface constraint — why sustained mental effort degrades conscious performance in ways not fully explained by metabolic depletion alone. Target section: voids/ (98/100, 2 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-05
+
+### P2: Write voids article on the conceptual metabolism void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-conceptual-metabolism-void-2026-04-03.md. Synthesize findings into a voids article on the limits of conceptual processing — how concepts are consumed, transformed, and exhausted through use. Target section: voids/ (98/100, 2 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-05
+
+### P2: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05 from research/consciousness-extreme-metabolic-constraint-2026-04-05.md. Review against anaesthesia-and-the-consciousness-interface, degrees-of-consciousness, terminal-lucidity-and-the-filter-model, filter-theory, and consciousness-and-survival for consistency, cross-links, and reinforcing arguments.
+- **Source**: chain (from topics/consciousness-under-extreme-metabolic-constraint.md)
+- **Generated**: 2026-04-05
+
+### P2: Fix broken wikilinks with trailing backslashes across content files
+- **Type**: refine-draft
+- **Notes**: Gap analysis found 6 wikilinks with trailing backslash formatting errors: obviousness-void\ in phenomenology-of-cognitive-limit-types.md, implicit-memory\, anoetic-noetic-autonoetic-consciousness\, semantic-memory\, episodic-memory\ in global-workspace-theory.md, and valence-and-conscious-selection\ in psychophysical-laws.md. Remove trailing backslashes; for links where the target page exists (valence-and-conscious-selection, obviousness-void), fix the link. For memory-related terms in global-workspace-theory.md that lack dedicated pages, convert to plain text or remove wikilink syntax.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-05
 
 ### P3: Deep review phenomenal-quality-void.md
 - **Type**: deep-review
