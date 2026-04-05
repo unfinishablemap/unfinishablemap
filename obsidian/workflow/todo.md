@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address luck objection circularity in quantum-indeterminacy-free-will.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the response to the luck objection presupposes consciousness is a genuine selector—the very claim under challenge. The comparison table presents the conclusion as an established distinction. Reframe the response to explicitly acknowledge it works *within* the Map's dualist framework rather than presenting it as independently compelling. Also address: uncited ~60% predictive accuracy claim, overemphasis on Zeno mechanism (style guide violation), and overstated characterisation of Stapp's mechanism as "orthodox quantum mechanics." See pessimistic-2026-04-05.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-05
+
 ### P2: Add cross-links from optimistic review 2026-04-04 findings
 - **Type**: refine-draft
 - **Status**: pending
