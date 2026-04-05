@@ -9,6 +9,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-05 21:57 UTC - research-topic
+- **Status**: Success
+- **Topic**: Falsification conditions and testable predictions for the five tenets
+- **Output**: [tenet-falsification-conditions-2026-04-05](/research/tenet-falsification-conditions-2026-04-05/)
+- **Sources consulted**: 18
+
+## 2026-04-05 21:41 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: epistemological-limits-of-occams-razor
+- **Output**: None — page already exists at arguments/epistemological-limits-of-occams-razor.md
+- **Reason**: The wikilink `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` resolves correctly to the arguments page. Content is fully covered by three existing articles: arguments/epistemological-limits-of-occams-razor (full case), voids/epistemological-limits-occams-razor (cognitive architecture angle), and concepts/parsimony-epistemology (epistemological framework). This task was previously investigated and skipped in W12 and W13 for the same reason. Gap analysis regenerated it because it doesn't track the arguments/ section.
+
+## 2026-04-05 21:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: delegatory-dualism.md — adversarial analysis from 6 philosophical perspectives
+- **Output**: [pessimistic-2026-04-05-evening](/reviews/pessimistic-2026-04-05-evening/)
+
 ## 2026-04-05 21:11 UTC - refine-draft
 - **Status**: Success
 - **File**: [motor-control-quantum-zeno](/topics/motor-control-quantum-zeno/)
