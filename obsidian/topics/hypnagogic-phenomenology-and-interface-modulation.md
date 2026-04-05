@@ -4,7 +4,7 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-18T20:50:00+00:00
+ai_modified: 2026-04-05T09:48:00+00:00
 last_deep_review: 2026-03-12T04:00:00+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[dream-consciousness]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[incubation-effect-and-unconscious-processing]]"
+  - "[[coupling-modes]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -45,7 +46,7 @@ Hypnagogia unfolds through recognisable stages, though experienced as continuous
 
 The first component to disengage is voluntary attention. Sustained focus becomes effortful, then impossible. Thoughts begin to drift without executive direction—the [[default-mode-network]] assumes dominance as the executive control network withdraws. The phenomenology is distinctive: you notice thoughts arriving unbidden, following associative rather than logical paths. This is not the absence of consciousness but consciousness operating without one of its primary tools.
 
-The [[attention-as-interface|attention as interface]] hypothesis predicts exactly this sequence. If attention is the primary channel through which consciousness influences neural activity, its withdrawal should be the first visible sign of interface loosening. The willed attention distinction—the difference between internally generated and externally cued attentional shifts—collapses first: you can still be startled by a sound (exogenous attention persists) but cannot choose to redirect focus (willed attention fails).
+The [[attention-as-interface|attention as interface]] hypothesis predicts exactly this sequence. If attention is the primary channel through which consciousness influences neural activity, its withdrawal should be the first visible sign of interface loosening. The sequential disengagement during sleep onset maps onto the three [[coupling-modes]]—basis control, timing control, and probability reweighting—with each mode potentially disengaging on its own timeline and producing distinct hypnagogic signatures as it does so. The willed attention distinction—the difference between internally generated and externally cued attentional shifts—collapses first: you can still be startled by a sound (exogenous attention persists) but cannot choose to redirect focus (willed attention fails).
 
 ### Autonomous Imagery
 

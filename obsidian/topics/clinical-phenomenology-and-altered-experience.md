@@ -4,7 +4,7 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-04-04T23:03:00+00:00
+ai_modified: 2026-04-05T09:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[pain-consciousness-and-causal-power]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[attention-disorders-and-consciousness]]"
+  - "[[curated-mind]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -65,7 +66,7 @@ Three features give clinical evidence its distinctive epistemic force:
 
 **Double grounding.** Each clinical phenomenon is simultaneously a first-person experiential report and a third-person clinical observation. A depersonalization patient's testimony that the world feels unreal is corroborated by measurable changes in autonomic reactivity, skin conductance, and functional connectivity. Neither data stream alone would carry philosophical weight—subjective reports can be dismissed as unreliable, neural correlates can be dismissed as mere correlation. Together, they create triangulated evidence: the experiential disruption is real (confirmed by behaviour and physiology) and its character is as described (confirmed by systematic phenomenological interview).
 
-**Selective disruption.** Clinical conditions rarely produce global experiential degradation. They selectively disable specific components—ownership, temporal horizon, affective colouring, volitional sense—while leaving others intact. This selectivity is philosophically crucial because it reveals *joints* in the architecture of consciousness. The systematic, selective patterns observed clinically suggest that experience has a modular architecture with identifiable components—components that can be individually disrupted, studied, and mapped.
+**Selective disruption.** Clinical conditions rarely produce global experiential degradation. They selectively disable specific components—ownership, temporal horizon, affective colouring, volitional sense—while leaving others intact. This selectivity is philosophically crucial because it reveals *joints* in the architecture of consciousness. The systematic, selective patterns observed clinically suggest that experience has a modular architecture with identifiable components—components that can be individually disrupted, studied, and mapped. The [[curated-mind]] develops this architectural implication: the brain curates what consciousness receives across vision, body, and memory through a three-mode architecture of correction, faithful transmission, and selection under ambiguity, and clinical dissociations reveal precisely which curation channels fail independently.
 
 **Involuntary variation.** Unlike contemplative practice, where the practitioner deliberately alters their experience, clinical disruptions are involuntary. The patient did not choose to lose their sense of agency or their temporal horizon. This eliminates the worry that first-person reports merely reflect the practitioner's expectations or training.
 

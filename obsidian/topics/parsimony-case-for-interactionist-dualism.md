@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-28T16:03:00+00:00
+ai_modified: 2026-04-05T09:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[epistemological-limits-of-occams-razor]]"
   - "[[parsimony-case-interactionist-dualism-2026-03-24]]"
   - "[[limits-of-parsimony-consciousness-2026-03-20]]"
+  - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -54,7 +55,7 @@ Most tellingly, parsimony's own advocates have abandoned or qualified the argume
 
 ### The Proliferation Problem
 
-If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [[functionalism]], [[higher-order-theories|higher-order thought theory]], [[higher-order-theories|higher-order perception theory]], [[global-workspace-theory]], [[illusionism]], eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem.
+If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [[functionalism]], [[higher-order-theories|higher-order thought theory]], [[higher-order-theories|higher-order perception theory]], [[global-workspace-theory]], [[illusionism]], eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] exemplifies the pattern at its sharpest: each concession physicalists make to distinguish biological from digital computation—substrate dependence, metabolic grounding, hybrid processing—maps onto a classical argument for dualism.
 
 A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. But the analogy fails. In healthy research programmes, competing theories converge as evidence accumulates — rival models of stellar nucleosynthesis, for instance, progressively unified. The physicalist theories of consciousness are not converging. After decades, they remain structurally incompatible, and the [[hard-problem-of-consciousness|hard problem]] remains exactly as Chalmers formulated it. This pattern — persistent fragmentation despite sustained effort — is the signature of a constraint that does not fit the phenomenon.
 

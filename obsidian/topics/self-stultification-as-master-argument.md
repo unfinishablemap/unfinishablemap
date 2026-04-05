@@ -4,7 +4,7 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-04-03T05:38:00+00:00
+ai_modified: 2026-04-05T09:48:00+00:00
 last_deep_review: 2026-03-27T15:32:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[consciousness-and-the-problem-of-induction]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[tenets]]"
+  - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -140,7 +141,7 @@ Self-stultification functions as a master argument because it establishes a mini
 
 This minimum commitment directly entails three of the Map's five tenets:
 
-**[[tenets#dualism|Dualism]]**: If consciousness must causally influence belief-formation, and if physical causation alone cannot track normative relationships (the space of reasons vs. space of causes), then consciousness involves something irreducible to physics. The [[argument-from-reason]] makes this case in detail.
+**[[tenets#dualism|Dualism]]**: If consciousness must causally influence belief-formation, and if physical causation alone cannot track normative relationships (the space of reasons vs. space of causes), then consciousness involves something irreducible to physics. The [[argument-from-reason]] makes this case in detail. The [[metaproblem-of-consciousness-under-dualism|metaproblem analysis]] shows the same structure from the other direction: realizationism—the claim that consciousness participates in generating problem intuitions—is precisely the self-stultification constraint applied to the metaproblem.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causes beliefs—if your conscious understanding of an argument influences what you conclude—then there is genuine mind-to-brain causation. The direction of influence runs from consciousness to the physical, not merely from physical to consciousness.
 

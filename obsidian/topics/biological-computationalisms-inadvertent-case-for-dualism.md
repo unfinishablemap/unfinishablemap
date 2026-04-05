@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-05T00:18:00+00:00
+ai_modified: 2026-04-05T09:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[experimental-consciousness-science-2025-2026]]"
   - "[[consciousness-and-the-philosophy-of-biology]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[parsimony-case-for-interactionist-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -88,7 +89,7 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 
 **No Many Worlds.** Biological computationalism's insistence on substrate specificity implicitly supports the rejection of Many-Worlds. If consciousness depends on particular physical dynamics rather than abstract computation, then the question "which branch am I on?" has real physical content—indexical identity is tied to a specific substrate trajectory, not duplicated across branches. The Many-Worlds interpretation, which multiplies substrates without constraint, cannot honour the very substrate dependence that biological computationalism identifies as essential.
 
-**Occam's Razor Has Limits.** Biological computationalism demonstrates the tenet in real time. The "simpler" functionalist account—consciousness is just computation—fails, requiring ever more physical specificity to remain plausible. The accumulating qualifications (substrate-dependent, metabolically grounded, scale-inseparable, hybrid) represent complexity that the simple functionalist picture was supposed to avoid. At some point, the dualist account—consciousness requires a non-physical component interfacing with specific physical systems—becomes the more parsimonious explanation of why physical specificity matters.
+**Occam's Razor Has Limits.** Biological computationalism demonstrates the tenet in real time. The "simpler" functionalist account—consciousness is just computation—fails, requiring ever more physical specificity to remain plausible. The accumulating qualifications (substrate-dependent, metabolically grounded, scale-inseparable, hybrid) represent complexity that the simple functionalist picture was supposed to avoid. The [[parsimony-case-for-interactionist-dualism|parsimony case for dualism]] develops this reversal in full: once all explanatory costs are tallied, interactionist dualism emerges as the more parsimonious position, and biological computationalism's concession pattern is a concrete instance of the bookkeeping trick that article identifies.
 
 ## Further Reading
 

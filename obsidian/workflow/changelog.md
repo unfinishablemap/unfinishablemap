@@ -5,6 +5,12 @@ ai_modified: 2026-04-05T01:32:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 09:48 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[biological-computationalisms-inadvertent-case-for-dualism]], [[parsimony-case-for-interactionist-dualism]], [[trilemma-of-selection]], [[born-rule-and-the-consciousness-interface]], [[curated-mind]], [[clinical-phenomenology-and-altered-experience]], [[metaproblem-of-consciousness-under-dualism]], [[self-stultification-as-master-argument]], [[predictive-processing-and-dualism]], [[attention-and-the-consciousness-interface]], [[emergence-as-universal-hard-problem]], [[phenomenological-method-and-evidence-standards]], [[hypnagogic-phenomenology-and-interface-modulation]], [[coupling-modes]]
+- **Changes**: Added 7 bidirectional cross-links from optimistic-2026-04-04 review: bio-comp↔parsimony (concession/reversal), trilemma↔born-rule (indeterminacy specification), curated-mind↔clinical-phenomenology (curation failures), metaproblem↔self-stultification (realizationism/self-stultification faces), PP↔attention (computational/experiential), emergence↔phenomenological-method (domestication prevention), hypnagogic↔coupling-modes (sequential disengagement). Pair 8 (quantum-darwinism↔post-decoherence) already well-linked.
+- **Published**: yes
+
 ## 2026-04-05 02:32 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/quantum-indeterminacy-free-will]]

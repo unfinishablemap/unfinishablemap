@@ -4,7 +4,7 @@ description: "A comprehensive treatment of attention as consciousness's interfac
 created: 2026-02-01
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-04T17:33:00+00:00
+ai_modified: 2026-04-05T09:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,7 @@ related_articles:
   - "[[attention-as-causal-bridge]]"
   - "[[attention-disorders-and-consciousness]]"
   - "[[structure-of-attention]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

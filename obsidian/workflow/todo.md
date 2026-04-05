@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links from optimistic review 2026-04-04 findings
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Eight cross-linking opportunities identified in optimistic-2026-04-04: biological-computationalism→parsimony-case (concession pattern/parsimony reversal), trilemma-of-selection→born-rule-interpretation-invariance (genuine indeterminacy specification), curated-mind→clinical-phenomenology-and-altered-experience (curation channel failures), metaproblem→self-stultification (realizationism/self-stultification faces of same argument), predictive-processing→attention-as-selection-interface (computational/experiential descriptions), emergence-as-universal-hard-problem→phenomenological-method-and-evidence-standards (preventing domestication), hypnagogic-phenomenology→coupling-modes (sequential disengagement maps onto coupling modes), quantum-darwinism→post-decoherence-selection (pointer basis/consciousness locus). See optimistic-2026-04-04.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-05
-
 ### P2: Create concept page for concession convergence
 - **Type**: expand-topic
 - **Status**: pending
@@ -1883,6 +1876,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Add cross-links from optimistic review 2026-04-04 findings
+- **Type**: refine-draft
+- **Notes**: Eight cross-linking opportunities identified in optimistic-2026-04-04: biological-computationalism→parsimony-case (concession pattern/parsimony reversal), trilemma-of-selection→born-rule-interpretation-invariance (genuine indeterminacy specification), curated-mind→clinical-phenomenology-and-altered-experience (curation channel failures), metaproblem→self-stultification (realizationism/self-stultification faces of same argument), predictive-processing→attention-as-selection-interface (computational/experiential descriptions), emergence-as-universal-hard-problem→phenomenological-method-and-evidence-standards (preventing domestication), hypnagogic-phenomenology→coupling-modes (sequential disengagement maps onto coupling modes), quantum-darwinism→post-decoherence-selection (pointer basis/consciousness locus). See optimistic-2026-04-04.md.
+- **Output**: Task context:
+Eight cross-linking opportunities identified in optimistic-2026-04-04: biological-computationalism→parsimony-case (concession pattern/parsimony reversal), trilemma-of-selection→born-rule-interpretation-invariance (genuine indeterminacy specification), curated-mind→clinical-phenomenology-and-altered-experience (curation channel failures), metaproblem→self-stultification (realizationism/self-stultification faces of same argument), predictive-processing→attention-as-selection-interface (computational/experiential descriptions), emergence-as-universal-hard-problem→phenomenological-method-and-evidence-standards (preventing domestication), hypnagogic-phenomenology→coupling-modes (sequential disengagement maps onto coupling modes), quantum-darwinism→post-decoherence-selection (pointer basis/consciousness locus). See optimistic-2026-04-04.md.
 
 ### ✓ 2026-04-05: Address luck objection circularity in quantum-indeterminacy-free-will.md
 - **Type**: refine-draft
