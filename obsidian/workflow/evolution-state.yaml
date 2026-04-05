@@ -13,7 +13,7 @@ last_runs:
   check-links: '2026-04-05T00:33:04.379410+00:00'
   deep-review: '2026-04-05T18:47:30.454582+00:00'
   tune-system: '2026-04-05T00:33:04.379410+00:00'
-  research-voids: '2026-04-05T00:33:04.379410+00:00'
+  research-voids: '2026-04-05T19:53:00+00:00'
   coalesce: '2026-04-05T19:17:30.455498+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
@@ -136,3 +136,9 @@ recent_tasks:
   type: deep-review
   date: '2026-04-05'
   outcome: success
+task_chains:
+  pending_articles:
+  - research_file: research/voids-fatigue-void-2026-04-05.md
+    target_section: voids
+    topic: The Fatigue Void
+    date: '2026-04-05'
