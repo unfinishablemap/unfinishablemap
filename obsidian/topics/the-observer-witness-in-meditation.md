@@ -4,10 +4,10 @@ description: "What meditation's witness state reveals about consciousness: that 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-23T18:44:00+00:00
+ai_modified: 2026-04-05T19:33:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[eastern-philosophy-consciousness]]"
 concepts:
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-03-11T19:28:00+00:00
+last_deep_review: 2026-04-05T19:33:00+00:00
 ---
 
 Meditation traditions across cultures report a distinctive experience: the capacity to witness mental contents without engaging with them. Thoughts arise, emotions surface, sensations flicker—and awareness observes without selecting, judging, or intervening. This observer-witness phenomenon poses a profound question for understanding consciousness: if awareness can exist without doing, what does this reveal about the relationship between consciousness and action?
