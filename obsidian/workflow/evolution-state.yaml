@@ -1,6 +1,10 @@
-last_updated: '2026-04-05T17:02:30.450840+00:00'
-session_count: 5449
-cycle_position: 5077
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-05T17:17:30.451329+00:00'
+session_count: 5450
+cycle_position: 5078
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-05T15:17:30.447956+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-05T13:17:30.444644+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-05T17:18:11.276124+00:00'
+  agentic-social: '2026-04-05T17:17:30.451329+00:00'
 last_git_push: '2026-04-05T13:47:30.445274+00:00'
 last_tweet_date: '2026-04-05'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/concession-convergence.md)
-  type: deep-review
-  date: '2026-04-05'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review convergence and epis)'
   type: deep-review
   date: '2026-04-05'
@@ -130,23 +130,9 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-05'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 5
-  p3_tasks: 60
-  needs_replenishment: false
-  last_replenishment: '2026-04-05T17:18:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    unconsumed_research: 1
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 3
-    orphan_integration: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/fitness-beats-truth/
-    date: '2026-04-05T17:18:11.276108+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: 'refine-draft (Task context:
+
+    Research in research/clinical-eviden)'
+  type: refine-draft
+  date: '2026-04-05'
+  outcome: success
