@@ -1,6 +1,10 @@
-last_updated: '2026-04-05T19:17:30.455498+00:00'
-session_count: 5458
-cycle_position: 5086
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-05T19:32:30.455924+00:00'
+session_count: 5459
+cycle_position: 5087
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-05T15:17:30.447956+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-05T19:17:30.455498+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-03T22:38:01.558309+00:00'
-  agentic-social: '2026-04-05T19:33:23.813580+00:00'
+  agentic-social: '2026-04-05T19:32:30.455924+00:00'
 last_git_push: '2026-04-05T17:47:30.452277+00:00'
 last_tweet_date: '2026-04-05'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-05'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-under-extreme-metabo)
   type: deep-review
   date: '2026-04-05'
@@ -132,10 +132,7 @@ recent_tasks:
   type: coalesce
   date: '2026-04-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/attentional-economics/
-    date: '2026-04-05T19:33:23.813564+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
+- task: 'deep-review (None -- Context: Update references to coalesced ph)'
+  type: deep-review
+  date: '2026-04-05'
+  outcome: success

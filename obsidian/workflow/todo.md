@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-05 absorbed phenomenological-method-and-evidence-standards into phenomenal-authority-and-first-person-evidence. Unique content integrated: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence. References updated in 3 files. Verify merged content is coherent, the methodology material integrates naturally with the authority argument, and check whether epistemology-of-first-person-evidence, methodology-of-consciousness-research, and contemplative-epistemology should cross-reference new material.
-- **Source**: chain (from coalesce 2026-04-05)
-- **Generated**: 2026-04-05
-
 ### P3: Deep review affective-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1915,6 +1908,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-05 absorbed phenomenological-method-and-evidence-standards into phenomenal-authority-and-first-person-evidence. Unique content integrated: Lutz 2002 neurophenomenology study, circularity objection, zombie conceivability argument for method independence. References updated in 3 files. Verify merged content is coherent, the methodology material integrates naturally with the authority argument, and check whether epistemology-of-first-person-evidence, methodology-of-consciousness-research, and contemplative-epistemology should cross-reference new material.
+- **Output**: obsidian/topics/phenomenal-authority-and-first-person-evidence.md -- Context: Cross-review phenomenal-authority-and-first-person-evidence.md after absorbing phenomenological-method-and-evidence-standards
 
 ### ✓ 2026-04-05: Update references to coalesced phenomenal-presence-void and phenomenal-absence-void
 - **Type**: cross-review

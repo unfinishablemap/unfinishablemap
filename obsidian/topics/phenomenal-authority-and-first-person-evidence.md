@@ -4,7 +4,7 @@ description: "First-person reports carry layered epistemic authority — apodict
 created: 2026-02-09
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-05T15:32:00+00:00
+ai_modified: 2026-04-05T19:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-04-05T15:32:00+00:00
+last_deep_review: 2026-04-05T19:47:00+00:00
 coalesced_from:
   - "/topics/phenomenal-conservatism-and-introspective-evidence/"
   - "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"
@@ -83,7 +83,7 @@ A purely third-person neuroscience cannot escape this dependence. Every contrast
 
 ## The Phenomenological Method
 
-[[phenomenological-method-and-evidence-standards|Phenomenological method]] is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
+[[phenomenology|Phenomenological method]] is not casual introspection but a rigorous discipline involving three operations. **The epoché** brackets the "natural attitude" — setting aside questions about whether objects exist independently to focus on the structure of experience itself. **The transcendental reduction** attends to the constitutive acts through which objects appear, disclosing invariant structures of consciousness. **Eidetic variation** isolates essential structures by imaginatively varying features to determine which are constitutive and which contingent.
 
 These operations require training and sustained practice. [[phenomenological-evidence|Phenomenological evidence]] becomes more reliable as methodological discipline increases — [[introspection|introspective accuracy]] follows a skill-acquisition curve where trained observers reliably outperform untrained ones (Fox et al. 2012), and [[contemplative-practice-as-philosophical-evidence|contemplative practice]] produces convergent findings across independent traditions.
 
