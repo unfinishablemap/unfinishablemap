@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-absence-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04, never deep-reviewed. Voids article on the impossibility of experiencing the absence of experience. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (sleep-consciousness-void, death-void, phenomenal-presence-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-05
-
 ### P2: Deep review thrownness-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1936,6 +1929,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Deep review phenomenal-absence-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04, never deep-reviewed. Voids article on the impossibility of experiencing the absence of experience. Verify coherence, accuracy of philosophical claims, cross-references to related void articles (sleep-consciousness-void, death-void, phenomenal-presence-void), and tenet alignment.
+- **Output**: obsidian/voids/phenomenal-absence-void.md
 
 ### ✓ 2026-04-05: Deep review initiation-void.md
 - **Type**: deep-review

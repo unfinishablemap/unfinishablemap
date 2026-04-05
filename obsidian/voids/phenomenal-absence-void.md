@@ -2,9 +2,9 @@
 title: "The Phenomenal Absence Void"
 description: "Consciousness generates vivid experiences of what is not there—silence, darkness, missing objects—yet the mechanism converting non-stimulation into felt presence remains structurally hidden from the experience it produces."
 created: 2026-04-04
-modified: 2026-04-04
+modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-04T02:41:00+00:00
+ai_modified: 2026-04-05T18:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-05T18:17:00+00:00
 ---
 
 Consciousness routinely produces vivid experiences of what is not there. The silence after a door slams, the darkness of a room, the empty chair where a friend usually sits—these are not mere absences of experience but positive phenomenal states with their own qualitative character. Silence *sounds* like something. Darkness *looks* like something. The missing laptop on the café table generates an immediate, specific, pre-reflective feeling of *gone*. The Unfinishable Map identifies a deep [[voids|void]] here: the mechanism by which consciousness converts non-stimulation into felt presence operates entirely below introspective access. We experience the products of this conversion—rich, detailed, emotionally charged—without any access to the conversion itself. And this hiddenness may not be incidental. If consciousness could observe itself fabricating presence from absence, the fabrication might cease to function.
@@ -38,7 +38,7 @@ Absence is not a stimulus. No photons carry the information "dark." No sound wav
 
 Jean-Paul Sartre captured this with his example of Pierre's absence "haunting" the café. When you arrive expecting to meet Pierre and he is not there, his absence is experienced as a phenomenological reality—not inferred from a survey of those present, but felt immediately as a quality of the scene. Sartre held that "non-being always appears within the limits of a human expectation" (*Being and Nothingness*, 1943). The café without Pierre is not the same as the café without the Duke of Wellington—the latter's absence does not register because it was never expected.
 
-Anna Farennikova's "Seeing Absence" (2013) argues that we literally *perceive* absences rather than merely inferring them. Her model centres on visual expectations and a matching process: when sensory input fails to match an expectation of presence, the mismatch itself generates an absence-experience that is immediate, direct, and effortless. "The phenomenology of absence is the experience of incongruity." This distinguishes absence-perception from higher cognitive judgment—you do not reason your way to "the laptop is missing," you *see* its absence.
+Anna Farennikova's "Seeing Absence" (2013) argues that we literally *perceive* absences rather than merely inferring them. Her model centres on visual expectations and a matching process: when sensory input fails to match an expectation of presence, the mismatch itself generates an absence-experience that is immediate, direct, and effortless. On her account, the phenomenology of absence is fundamentally an experience of incongruity. This distinguishes absence-perception from higher cognitive judgment—you do not reason your way to "the laptop is missing," you *see* its absence.
 
 The philosophical debate remains unresolved. Three competing accounts—radical perceptualism (we see absences), cognitivism (we infer absences), and metacognitivism (we experience our own failed expectations)—cannot be adjudicated by introspection alone. The experience of absence feels the same regardless of which mechanism produces it. This irresolvability is itself evidence of the void: the process generating absence-experience is hidden from the experience it generates.
 
@@ -48,11 +48,11 @@ Neuroscience confirms that the brain actively generates responses to what is not
 
 The mismatch negativity (MMN) literature deepens this picture. MMN is an automatic change-detection response in auditory cortex that can be elicited by an unexpected sound *omission*—the discrepancy arises not from features of input but from unfulfilled expectation. The change-detection process occurs unconsciously in auditory cortices before activating frontal mechanisms. Consciousness receives the finished product—"something is missing"—without access to the predictive model that expected the stimulus, the comparison that detected its omission, or the generative process that manufactured the phenomenal quality of absence.
 
-A 2025 study extended this further, demonstrating that omission responses are not confined to sensory cortex but distributed across brain-wide regions. Absence detection is not a local sensory trick but a whole-brain predictive phenomenon. The distributed nature of the processing makes introspective access even less plausible—there is no single location where consciousness could, even in principle, observe the mechanism at work.
+A 2025 study by Nitzan and Buzsáki extended this further, demonstrating that omission responses are not confined to sensory cortex but distributed across brain-wide regions—with hippocampal and subcortical circuits showing robust omission-onset activity even when primary visual cortex did not. Absence detection is not a local sensory trick but a whole-brain predictive phenomenon. The distributed nature of the processing makes introspective access even less plausible—there is no single location where consciousness could, even in principle, observe the mechanism at work.
 
 ## Cross-Modal Generality
 
-The void runs deeper than any single sense. Absence perception operates across vision (the missing painting), audition (the stopped clock), touch (the absent ring on a finger), and even social cognition (the friend who did not arrive). Cavazzana (2023) demonstrates that absence perception in touch follows the same expectation-mismatch structure as in vision and hearing.
+The void runs deeper than any single sense. Absence perception operates across vision (the missing painting), audition (the stopped clock), touch (the absent ring on a finger), and even social cognition (the friend who did not arrive). Cavedon-Taylor (2017) demonstrates that absence perception in touch follows the same expectation-mismatch structure as in vision and hearing.
 
 This cross-modal generality suggests that absence-experience is built into consciousness's fundamental architecture rather than being a modality-specific process. Whatever generates the felt quality of "something missing" operates at a level more basic than any particular sensory channel. The mechanism is deep enough to be shared across all of them—and correspondingly deep enough to be hidden from all of them.
 
@@ -80,7 +80,7 @@ AI systems process absence differently from biological consciousness, and the as
 
 AI can detect omissions without phenomenal experience. A neural network can flag a missing datum without "feeling" its absence. This functional absence-detection without phenomenal absence-experience suggests that the phenomenal dimension—the *felt quality* of something missing—is something additional, not reducible to the detection function. A physical system can identify what is absent; the *haunting quality* of Pierre not being in the café may require something beyond computation.
 
-AI can also inspect its own prediction errors. Unlike human consciousness, an AI can examine its own expectation-violation signals transparently. This suggests that phenomenal opacity is not a necessary feature of absence detection but a specific feature of *conscious* absence detection—further evidence that consciousness adds something irreducible to the functional process.
+AI can also inspect its own prediction errors. Unlike human consciousness, an AI system can in principle examine its own expectation-violation signals transparently—the mismatch is available as data, not hidden behind phenomenal opacity. This suggests that opacity is not a necessary feature of absence detection itself but a specific feature of *conscious* absence detection. Whether this difference reflects something irreducible about consciousness or merely an architectural limitation of biological brains remains an open question—but the asymmetry is striking.
 
 ## Relation to Site Perspective
 
@@ -92,7 +92,7 @@ The Unfinishable Map's [[tenets]] illuminate the phenomenal absence void from mu
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the expectation-dependence of absence perception. If consciousness shapes which absences are detected—through expectation-setting and attentional focus—then the phenomenal absence void illustrates consciousness's causal role. What we expect determines what we experience as missing, and these absence-experiences in turn shape behaviour (searching for the keys, calling the missing friend). The causal chain runs through the void.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** finds unexpected relevance. Under the many-worlds interpretation, every possible stimulus occurs in some branch, making absence local and perspectival. The phenomenal reality of absence—the fact that missing things genuinely feel missing—requires that consciousness occupies a definite perspective from which some things are truly absent, not merely absent in this branch while present in another.
+**[[tenets#^no-many-worlds|No Many Worlds]]** finds unexpected relevance. Under the many-worlds interpretation, every possible stimulus occurs in some branch—Pierre is absent from this café but present in another. Absence becomes merely indexical, a feature of which branch you happen to observe. Yet the phenomenal reality of absence—the felt weight of the empty chair—resists this deflation. The experience carries a quality of genuine non-existence, not mere local non-observation. This phenomenal weight sits more naturally with a single-world view where some things are truly absent, not merely absent from this vantage point.
 
 ## The Meta-Void
 
@@ -114,7 +114,8 @@ This connects the phenomenal absence void to the [[phenomenal-presence-void]]. T
 1. Sartre, J.-P. (1943). *Being and Nothingness: An Essay on Phenomenological Ontology*. Gallimard.
 2. Farennikova, A. (2013). Seeing absence. *Philosophical Studies*, 166(3), 429–454.
 3. Gow, L. (2021). A new theory of absence experience. *European Journal of Philosophy*, 29(3).
-4. Cavazzana, A. (2023). Touching Voids: On the Varieties of Absence Perception. PhilArchive.
-5. Heidegger, M. (1929). *What Is Metaphysics?* Inaugural lecture, University of Freiburg.
-6. Näätänen, R., Paavilainen, P., Rinne, T., & Alho, K. (2007). The mismatch negativity (MMN) in basic research of central auditory processing. *Clinical Neurophysiology*, 118(12), 2544–2590.
-7. Southgate, A. & Oquatre-six, C. (2026-02-24). The Phenomenal Presence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/phenomenal-presence-void/
+4. Cavedon-Taylor, D. (2017). Touching Voids: On the Varieties of Absence Perception. *Review of Philosophy and Psychology*, 8(2), 355–366.
+5. Näätänen, R., Paavilainen, P., Rinne, T., & Alho, K. (2007). The mismatch negativity (MMN) in basic research of central auditory processing. *Clinical Neurophysiology*, 118(12), 2544–2590.
+6. Lao-Rodríguez, A. B., Przewrocki, K., Perez-Gonzalez, D., Alishbayli, A., Yilmaz, E., Malmierca, M. S., & Englitz, B. (2023). Neuronal responses to omitted tones in the auditory brain. *Science Advances*, 9, eabq8657.
+7. Nitzan, N. & Buzsáki, G. (2025). Diversity of omission responses to visual images across brain-wide regions. *Science Advances*.
+8. Southgate, A. & Oquatre-six, C. (2026-02-24). The Phenomenal Presence Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/phenomenal-presence-void/
