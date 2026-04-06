@@ -3,7 +3,7 @@ title: "Deep Review - Clinical Evidence Quality Standards in Consciousness Resea
 created: 2026-04-06
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-06T04:06:00+00:00
+ai_modified: 2026-04-06T04:52:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -17,50 +17,45 @@ last_curated: null
 
 **Date**: 2026-04-06
 **Article**: [[clinical-evidence-quality-standards-consciousness-research|Clinical Evidence Quality Standards in Consciousness Research]]
-**Previous review**: Never
+**Previous review**: [[deep-review-2026-04-06-clinical-evidence-quality-standards-consciousness-research|2026-04-06]] (first review, same day)
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-None. The article is methodologically careful, applies its own standards to evidence the Map finds congenial, and correctly attributes all cited sources.
+None. Attribution accuracy check passed cleanly — all cited sources are accurately characterised, no dropped qualifiers, no source/Map conflation.
 
 ### Medium Issues Found
-- Missing cross-link to [[methodology-of-consciousness-research]] — the primary methodology article is closely related but was not referenced: **Resolved** (added inline link and to Further Reading/related_articles)
-- Convergence standard (Standard 4) referenced clinical neuroplasticity and phenomenal authority but missed other converging evidence streams: **Resolved** (added placebo content-specificity reference and clarifying clause)
-- Inline concept references lacked wikilinks where they appear naturally (e.g., neuroplasticity): **Resolved** (added wikilink on "synaptic plasticity")
-- `related_articles` frontmatter missing methodology-of-consciousness-research: **Resolved**
+- `[[concepts/epiphenomenalism|epiphenomenalism]]` used unnecessary path prefix inconsistent with all other wikilinks: **Resolved** (changed to `[[epiphenomenalism]]`)
+- Relation to Site Perspective section discussed causal closure implicitly without linking the concept page: **Resolved** (added `[[causal-closure]]` wikilink)
+- Schwartz sample size described as "n=9 new participants" without noting total sample was 18: **Resolved** (changed to "n=18 with 9 new participants")
 
 ### Counterarguments Considered
-- **Eliminative materialist**: The article already acknowledges that underdetermination means clinical evidence cannot adjudicate between frameworks — this is intellectually honest rather than a flaw.
-- **Empiricist**: Could push harder on the "missing comparator" problem as fatal to the entire project. The article handles this well by noting it as a structural feature rather than a design flaw.
-- **Quantum skeptic**: No quantum claims in this article — it appropriately stays at the methodological level.
-- **Many-worlds defender**: Tenet 4 not addressed, but this is appropriate — MWI is not relevant to evidence quality standards.
-- **Buddhist philosopher**: Could note that the five standards are themselves culturally situated within Western empiricism. A valid concern but outside scope.
+- **Eliminative materialist**: Concedes underdetermination honestly — no flaw to fix
+- **Hard-nosed physicalist**: "Missing comparator" presupposes consciousness is separable from function — bedrock disagreement, well-handled
+- **Quantum skeptic**: No quantum claims made — appropriate discipline
+- **Many-worlds defender**: MWI not relevant to evidence quality standards — appropriate omission
+- **Empiricist**: Could push on falsifiability — if philosophical arguments are "foundational," what would change the Map's mind? The article's honest admission that "the philosophical case would remain" partially addresses this but also highlights the concern. Bedrock philosophical commitment, not a fixable flaw.
+- **Buddhist philosopher**: Five standards situated within Western empiricism — valid but out of scope
 
 ## Optimistic Analysis Summary
 
 ### Strengths Preserved
-- **Opening paragraph**: Excellent front-loading — states the core claim, acknowledges the Map's position, and survives truncation
-- **Three-part inferential gap framework**: Original taxonomy (underdetermination, missing comparator, level-crossing inference) that could become a standard reference point for the Map
-- **Five evidence standards**: Practical, actionable, and applied self-critically
-- **Common Failures section**: Balanced across all philosophical perspectives — shows intellectual honesty
-- **Relation to Site Perspective**: Makes the crucial argument that philosophical arguments are foundational while clinical evidence is supporting — this ordering protects the Map's position from empirical reversals
-- **Self-critical application of standards**: Schwartz's OCD findings are downgraded despite supporting the Map's position
+- **Three-part inferential gap framework** (underdetermination, missing comparator, level-crossing inference): Original taxonomy, potential reference standard for the Map
+- **Self-critical evidence handling**: Downgrading Schwartz and meditation structural claims despite their alignment with the Map's position — intellectual integrity
+- **Ordering argument**: Philosophical arguments foundational, clinical evidence supporting — insulates against empirical reversal
+- **Common Failures section**: Symmetric across perspectives, applies the Map's own standards to evidence it finds congenial
+- **Front-loaded opening**: Core claim survives truncation
 
 ### Enhancements Made
-- Added cross-link to [[methodology-of-consciousness-research]] in the inferential gap section, creating a natural bridge between the general methodology article and this standards-focused one
-- Added wikilink on [[neuroplasticity|synaptic plasticity]] where Schwartz's findings are discussed
-- Expanded convergence standard (Standard 4) to reference [[placebo-effect-and-mental-causation|content-specificity of placebo responses]] alongside existing references, strengthening the convergence argument
-- Added [[methodology-of-consciousness-research]] to Further Reading and related_articles frontmatter
+- Fixed inconsistent wikilink path prefix (`[[concepts/epiphenomenalism|...]]` → `[[epiphenomenalism]]`)
+- Added `[[causal-closure]]` cross-link in Relation to Site Perspective where causal closure is implicitly discussed
+- Clarified Schwartz sample size (n=18 total, 9 new) for transparency
 
 ### Cross-links Added
-- [[methodology-of-consciousness-research]]
-- [[neuroplasticity]] (inline)
-- [[clinical-neuroplasticity-evidence-for-bidirectional-causation]] (inline in Standard 4)
-- [[placebo-effect-and-mental-causation]] (inline in Standard 4)
+- [[causal-closure]] (inline in Relation to Site Perspective)
 
 ## Remaining Items
-None. The article is well-constructed and required only cross-linking improvements.
+None. The article is well-constructed and approaching stability after two reviews.
 
 ## Stability Notes
-This is the first review. The article's self-critical stance toward its own evidence base (downgrading Schwartz, noting meditation replication failures) is a core strength that should be preserved in future reviews. Adversarial personas will always object that the inferential gap cannot be bridged at all — this is a bedrock philosophical disagreement, not a flaw to fix. The article's honest acknowledgment that "if the clinical evidence were shown to be entirely explicable in materialist terms, the philosophical case would remain" already addresses the strongest form of this objection.
+Second review. The article was strong from creation and required only minor consistency fixes in this pass. The inferential gap framework, self-critical evidence handling, and ordering argument are core strengths that should be preserved. Adversarial personas' objections (unfalsifiability, Western framing, presupposition of separable consciousness) are bedrock philosophical disagreements, not flaws to fix. The article is approaching stability — future reviews should focus on verifying cited statistics remain accurate rather than seeking structural changes.

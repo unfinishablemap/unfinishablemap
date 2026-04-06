@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review clinical-evidence-quality-standards-consciousness-research.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Topics article on evidence quality standards for consciousness research — methodological rigour, replication, and how clinical evidence bears on metaphysical claims. Verify accuracy of methodological claims, coherence, cross-references to experimental-consciousness-science-2025-2026 and phenomenological-method-and-evidence-standards, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Deep review conceptual-metabolism-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1947,6 +1940,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Topics article on evidence quality standards for consciousness research — methodological rigour, replication, and how clinical evidence bears on metaphysical claims. Verify accuracy of methodological claims, coherence, cross-references to experimental-consciousness-science-2025-2026 and phenomenological-method-and-evidence-standards, and tenet alignment.
+- **Output**: obsidian/topics/clinical-evidence-quality-standards-consciousness-research.md
 
 ### ✓ 2026-04-06: Cross-review Tenet 4 articles considering many-worlds-argument concept page
 - **Type**: cross-review

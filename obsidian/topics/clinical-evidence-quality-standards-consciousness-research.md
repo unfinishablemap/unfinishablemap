@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T04:06:00+00:00
+ai_modified: 2026-04-06T04:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-04-06T04:06:00+00:00
+last_deep_review: 2026-04-06T04:52:00+00:00
 ---
 
 Clinical and neurological evidence is routinely cited in debates about consciousness — Schwartz's OCD neuroplasticity, meditation neuroimaging, placebo effects, dissociation syndromes, anaesthesia studies. Yet consciousness research faces a distinctive methodological problem: the inferential gap between clinical findings and metaphysical conclusions is wider than in ordinary medicine, and standard evidence hierarchies (RCTs, meta-analyses, replication) address only part of the difficulty. The Unfinishable Map holds that clinical evidence can be genuinely probative for questions about consciousness, but only when evaluated against standards that account for both third-person and first-person data, the underdetermination problem, and the asymmetry between functional and structural claims.
@@ -59,7 +59,7 @@ Consciousness research inherits this hierarchy but encounters three problems spe
 
 Replication is the gold standard for reliability, but consciousness research faces distinctive replication challenges. The Kral et al. (2022) failure to replicate meditation-induced structural brain changes — 218 participants, active controls, published in *Science Advances* — illustrates the pattern: early small studies produce striking findings that larger, better-controlled studies fail to confirm. This is not unique to consciousness research (psychology's replication crisis is domain-general), but it is especially damaging here because consciousness researchers often build philosophical conclusions on empirical foundations that have not been stress-tested.
 
-The corrective is straightforward: calibrate philosophical weight to replication status. Findings from single small studies (Schwartz 1996, n=9 new participants) should be described as "suggestive" or "compatible with." Only findings confirmed across independent laboratories with adequate controls warrant stronger epistemic weight. The Map's [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity article]] applies this standard — and the present article argues it should be generalised across all clinical evidence cited for metaphysical purposes.
+The corrective is straightforward: calibrate philosophical weight to replication status. Findings from single small studies (Schwartz 1996, n=18 with 9 new participants) should be described as "suggestive" or "compatible with." Only findings confirmed across independent laboratories with adequate controls warrant stronger epistemic weight. The Map's [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity article]] applies this standard — and the present article argues it should be generalised across all clinical evidence cited for metaphysical purposes.
 
 ### The Active Control Problem
 
@@ -93,7 +93,7 @@ How many theoretical frameworks are consistent with the finding? Evidence is mos
 
 ### 4. Convergence Across Methods
 
-Does the finding converge with evidence from different methodologies — clinical, phenomenological, philosophical? Single-method evidence is inherently limited by method-specific artifacts. The convergence of clinical [[clinical-neuroplasticity-evidence-for-bidirectional-causation|neuroplasticity evidence]] with the philosophical self-stultification argument against [[concepts/epiphenomenalism|epiphenomenalism]], the [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] framework, and the [[placebo-effect-and-mental-causation|content-specificity of placebo responses]] is more compelling than any one stream alone — each addresses a different objection from a different methodological angle.
+Does the finding converge with evidence from different methodologies — clinical, phenomenological, philosophical? Single-method evidence is inherently limited by method-specific artifacts. The convergence of clinical [[clinical-neuroplasticity-evidence-for-bidirectional-causation|neuroplasticity evidence]] with the philosophical self-stultification argument against [[epiphenomenalism]], the [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] framework, and the [[placebo-effect-and-mental-causation|content-specificity of placebo responses]] is more compelling than any one stream alone — each addresses a different objection from a different methodological angle.
 
 ### 5. Honest Calibration
 
@@ -115,7 +115,7 @@ Several recurring patterns of evidence misuse deserve explicit identification, b
 
 The Unfinishable Map's [[tenets|foundational commitments]] shape how clinical evidence is evaluated but should not determine the evaluation's outcome. The [[tenets#^dualism|Dualism tenet]] (Tenet 1) holds that consciousness is irreducible, and the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] (Tenet 3) holds that consciousness causally influences the physical world. Clinical evidence may support, challenge, or be neutral toward these commitments — and the Map's credibility depends on reporting the evidence accurately regardless.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] (Tenet 5) is directly relevant to evidence evaluation. Materialist parsimony — explaining clinical findings entirely through neural mechanisms — is appealing precisely because it is simpler. But if parsimony is unreliable when knowledge is incomplete, then the "simpler" explanation is not automatically better. The Map holds that the inferential gap between clinical evidence and metaphysical conclusions cannot be closed by parsimony alone. It requires philosophical argument, phenomenological investigation, and honest calibration of what the clinical evidence actually shows.
+The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] (Tenet 5) is directly relevant to evidence evaluation. Materialist parsimony — explaining clinical findings entirely through neural mechanisms without violating [[causal-closure|causal closure]] — is appealing precisely because it is simpler. But if parsimony is unreliable when knowledge is incomplete, then the "simpler" explanation is not automatically better. The Map holds that the inferential gap between clinical evidence and metaphysical conclusions cannot be closed by parsimony alone. It requires philosophical argument, phenomenological investigation, and honest calibration of what the clinical evidence actually shows.
 
 The Map's strongest case for mental causation comes from philosophical arguments — the self-stultification of epiphenomenalism, the reportability argument, the knowledge argument. Clinical evidence is supporting rather than foundational. This ordering matters: if the clinical evidence were shown to be entirely explicable in materialist terms, the philosophical case would remain. Conversely, weak clinical evidence weakens the overall case only if it has been overclaimed — making honest evidence calibration a matter of philosophical integrity, not just methodological propriety.
 
