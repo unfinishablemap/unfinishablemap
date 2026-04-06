@@ -149,6 +149,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[the-silence-void|The Silence Void]] — Whether cognitive silence accesses truths that reasoning cannot reach
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers richness far beyond survival requirements
 - [[resonance-void|The Resonance Void]] — Why consciousness encounters meaning it cannot articulate or inspect
+- [[conceptual-metabolism-void|The Conceptual Metabolism Void]] — How understanding consumes concepts irreversibly, destroying their pre-understood form
 
 ### Types of Cognitive Limits
 

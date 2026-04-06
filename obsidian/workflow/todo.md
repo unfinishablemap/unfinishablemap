@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the conceptual metabolism void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-conceptual-metabolism-void-2026-04-03.md. Synthesize findings into a voids article on the limits of conceptual processing — how concepts are consumed, transformed, and exhausted through use. Target section: voids/ (98/100, 2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-05
-
 ### P2: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05 from research/consciousness-extreme-metabolic-constraint-2026-04-05.md. Review against anaesthesia-and-the-consciousness-interface, degrees-of-consciousness, terminal-lucidity-and-the-filter-model, filter-theory, and consciousness-and-survival for consistency, cross-links, and reinforcing arguments.
@@ -1934,6 +1928,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Write voids article on the conceptual metabolism void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-conceptual-metabolism-void-2026-04-03.md. Synthesize findings into a voids article on the limits of conceptual processing — how concepts are consumed, transformed, and exhausted through use. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write voids article on the conceptual metabolism void
 
 ### ✓ 2026-04-05: Write voids article on the fatigue void
 - **Type**: expand-topic

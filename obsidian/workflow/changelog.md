@@ -5,6 +5,13 @@ ai_modified: 2026-04-05T22:26:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 00:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Conceptual Metabolism Void
+- **Output**: [[voids/conceptual-metabolism-void]]
+- **Word count**: 1511
+- **Based on research**: yes, [[research/voids-conceptual-metabolism-void-2026-04-03]]
+
 ## 2026-04-06 00:12 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Reason**: Five search iterations across voids (100% cap), concepts (97%), and topics (97%) found no articles with sufficient overlap to warrant merging. Content is well-differentiated; many obvious pairs have already been coalesced in prior runs.

@@ -1,6 +1,10 @@
-last_updated: '2026-04-05T23:56:35.877462+00:00'
-session_count: 5476
-cycle_position: 5104
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-06T00:11:35.877795+00:00'
+session_count: 5477
+cycle_position: 5105
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-05T21:25:50.550989+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-04-05T23:41:24.369555+00:00'
   tune-system: '2026-04-05T00:33:04.379410+00:00'
   research-voids: '2026-04-05T19:47:30.456557+00:00'
-  coalesce: '2026-04-05T19:17:30.455498+00:00'
+  coalesce: '2026-04-06T00:11:35.877795+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-05T19:47:30.456557+00:00'
-  agentic-social: '2026-04-06T00:12:26.923134+00:00'
+  agentic-social: '2026-04-06T00:11:35.877795+00:00'
 last_git_push: '2026-04-05T21:56:24.365878+00:00'
 last_tweet_date: '2026-04-05'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/phenomenological-evidence.md -- )
-  type: deep-review
-  date: '2026-04-05'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-05'
@@ -135,10 +135,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-05'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/control-theoretic-will/
-    date: '2026-04-06T00:12:26.923118+00:00'
-    topics:
-    - free-will
-    - hard-problem-of-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-04-06'
+  outcome: success
