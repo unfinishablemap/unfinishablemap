@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 04:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-binding-problem-a-systematic-treatment]]
+- **Word count**: 3694 → 3682 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, frontmatter miscategorisation)
+- **Enhancements made**: 2 (merged duplicate link, moved 3 topics from concepts to topics list)
+- **Output**: [[reviews/deep-review-2026-04-06-the-binding-problem-a-systematic-treatment]]
+
 ## 2026-04-06 04:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/clinical-evidence-quality-standards-consciousness-research]]
