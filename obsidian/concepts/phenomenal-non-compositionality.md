@@ -4,7 +4,7 @@ description: "Consciousness cannot be assembled from parts—whether physical or
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-04-06T13:32:00+00:00
 last_deep_review: 2026-03-24T10:50:00+00:00
 draft: false
 topics:
@@ -60,7 +60,7 @@ The analogy breaks at a decisive point. Turbulence is *computationally* hard—t
 
 Phenomenal non-compositionality is *conceptually* hard. The difficulty is not that we lack computing power to derive how perspectives merge. The difficulty is that we cannot state what "perspectives merging" means. The gap is not between known equations and intractable solutions—it is between the very category of compositional explanation and the nature of what we are trying to explain.
 
-A functionalist might push further: functional states *do* compose—combine two information-processing systems and you get a larger information-processing system. But this only composes the functional organization, not the [[qualia|qualitative character]] of experience. William James (1890) saw this clearly with his "mind-dust" critique: even granting that each particle has a feeling, "we cannot deduce from it what any sum of feelings amounts to" because there is no law by which feelings combine. The gap between functional composition and phenomenal composition is the whole point.
+A [[functionalism|functionalist]] might push further: functional states *do* compose—combine two information-processing systems and you get a larger information-processing system. But this only composes the functional organization, not the [[qualia|qualitative character]] of experience. William James (1890) saw this clearly with his "mind-dust" critique: even granting that each particle has a feeling, "we cannot deduce from it what any sum of feelings amounts to" because there is no law by which feelings combine. The gap between functional composition and phenomenal composition is the whole point.
 
 This distinction between computational difficulty and conceptual unintelligibility is what makes consciousness unique among natural phenomena. Every other case of apparent non-compositionality in nature (turbulence, emergent chemistry, biological complexity) yields to compositional explanation in principle, even when intractable in practice. Consciousness alone resists the compositional framework itself.
 
@@ -80,7 +80,7 @@ Phenomenal non-compositionality provides some of the strongest support for the M
 
 **Dualism.** The [[tenets#^dualism|Dualism tenet]] holds that consciousness is not reducible to physical processes. Non-compositionality reveals *why* reduction fails: consciousness lacks the compositional structure that reduction requires. Physical explanation works by decomposing wholes into parts and showing how parts generate wholes. Consciousness does not decompose. The irreducibility the Map asserts is not merely claimed—it is grounded in a specific structural feature of phenomenal experience.
 
-**Minimal Quantum Interaction.** If consciousness is non-compositional, it does not arise from the summation of micro-level physical events. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]'s proposal—that consciousness biases quantum indeterminacies at a specific interface—coheres with non-compositionality. Consciousness interacts with the brain at a locus rather than being assembled across the brain's parts.
+**Minimal Quantum Interaction.** If consciousness is non-compositional, it does not arise from the summation of micro-level physical events. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]'s proposal—that consciousness biases quantum indeterminacies at a specific interface—coheres with non-compositionality. The [[born-rule-and-the-consciousness-interface|Born rule]] describes precisely this interface: the point where non-compositional consciousness meets compositional physics through probability amplitudes that physics constrains but does not fully determine. Consciousness interacts with the brain at a locus rather than being assembled across the brain's parts.
 
 **Phenomenal unity as intrinsic.** The Map treats [[unity-of-consciousness|phenomenal unity]] as a feature consciousness brings to neural processing, not something physical organisation constructs. Non-compositionality explains why this must be so: if unity cannot be built from parts, it must be intrinsic to consciousness itself. The [[binding-problem|holistic character]] of experience is not an achievement of combination but a primitive feature of what consciousness is.
 
@@ -104,3 +104,14 @@ Phenomenal non-compositionality provides some of the strongest support for the M
 2. Chalmers, D.J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 3. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 4. Southgate, A. & Oquatre-six, C. (2026-02-15). Panpsychism's Combination Problem in Depth. *The Unfinishable Map*. https://unfinishablemap.org/topics/panpsychisms-combination-problem/
+
+<!-- AI REFINEMENT LOG - 2026-04-06
+Changes made:
+- Added body text link to born-rule-and-the-consciousness-interface in Minimal Quantum Interaction section
+- Linked "functionalist" mention to functionalism concept page
+
+Based on optimistic review cross-linking suggestions.
+Key improvements: strengthened cross-references to related Map articles
+
+This log should be removed after human review.
+-->

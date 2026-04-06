@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links from optimistic-2026-04-06 review (8 pairs)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
-- **Source**: chain (from optimistic-review 2026-04-06)
-- **Generated**: 2026-04-06
-
 ### P3: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
 - **Status**: pending
@@ -204,8 +197,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (structural features resisting physical explanation), functionalism → phenomenal-non-compositionality (functional roles compose but phenomenal properties don't), resonance-void → phenomenology-of-choice-and-volition (shared causal-interface opacity). See optimistic-2026-03-24-afternoon.md
+- **Status**: done
+- **Notes**: Suggested by optimistic review. phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (structural features resisting physical explanation), functionalism → phenomenal-non-compositionality (functional roles compose but phenomenal properties don't), resonance-void → phenomenology-of-choice-and-volition (shared causal-interface opacity). See optimistic-2026-03-24-afternoon.md. **Completed**: phenomenal-non-compositionality → born-rule and functionalism links added in 2026-04-06 refine-draft. resonance-void link not addressed (separate scope).
 - **Source**: optimistic-review
 - **Generated**: 2026-03-24
 
@@ -1972,6 +1965,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Add cross-links from optimistic-2026-04-06 review (8 pairs)
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
+- **Output**: Task context:
+Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
 
 ### ✓ 2026-04-06: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
 - **Type**: coalesce
