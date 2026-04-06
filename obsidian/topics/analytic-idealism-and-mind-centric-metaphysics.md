@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-11T17:14:00+00:00
+ai_modified: 2026-04-06T09:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ Dual-aspect monism (or neutral monism) holds that reality is fundamentally neith
 
 The Map's [[interactionist-dualism|interactionist dualism]] is mind-centric without being idealist. It takes consciousness as irreducible (with idealism, against physicalism) while insisting that physical reality exists distinctly (with common sense, against idealism).
 
-This requires accepting two fundamental categories: consciousness and physical reality. Critics call this ontologically extravagant. The Map's response draws on the [[tenets#^occams-limits|limits of Occam's Razor]]: apparent simplicity may reflect ignorance rather than truth. The history of science shows repeatedly that the simpler theory was wrong—atoms seemed unnecessary until they weren't, curved spacetime seemed extravagant until it explained Mercury's orbit.
+This requires accepting two fundamental categories: consciousness and physical reality. Critics call this ontologically extravagant. The Map's response draws on the [[tenets#^occams-limits|limits of Occam's Razor]]: apparent simplicity may reflect ignorance rather than truth. The history of science includes cases where the simpler theory turned out to be incomplete — atoms seemed unnecessary until they weren't, curved spacetime seemed extravagant until it explained Mercury's orbit. (It also includes cases where the simpler theory won. The point is not that complexity always prevails, but that parsimony alone is unreliable as a guide to truth.)
 
 What makes the Map's framework distinctively mind-centric is the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness doesn't merely accompany physical processes; it causally influences them. Most mind-centric frameworks either deny interaction (epiphenomenalist panpsychism) or dissolve it (idealism's intra-mental causation). The Map insists on genuine cross-domain causation through quantum-level processes where physics leaves outcomes undetermined.
 
@@ -107,7 +107,9 @@ The mind-centric frameworks divide cleanly on three questions:
 - **Dual-aspect monism**: Correlations between aspects, not causation across them.
 - **The Map**: Genuine bidirectional causation between consciousness and physics, at quantum indeterminacies.
 
-### Does Individual Identity Survive?
+### Does Individual Identity Survive? (A Values Commitment)
+
+Unlike the first two questions, this is not a neutral diagnostic — it reflects the Map's commitment that indexical identity matters. Frameworks that dissolve individual identity are not thereby refuted; they simply conflict with a value the Map holds. With that caveat:
 
 - **Idealism**: Derivative. Individual minds are dissociated portions of universal consciousness; individuality may be illusory.
 - **Panpsychism**: Unclear. If micro-experience is fundamental, what constitutes *your* experience as a unified individual?
@@ -123,7 +125,7 @@ If idealism or cosmopsychism is right—if individual identity is derivative—t
 
 Panpsychism preserves individual identity but struggles with unity. If experience is distributed across fundamental particles, the unity of *your* consciousness becomes the mystery. The [[combination-problem]] is not just a technical puzzle; it asks whether unified subjects can exist at all if experience is fundamentally fragmented.
 
-The Map's dualist answer is unfashionable but direct: you are an irreducible conscious being who interacts with a physical world that exists independently of you. Both halves of this claim carry weight. Taking consciousness seriously doesn't require denying matter. Taking matter seriously doesn't require reducing consciousness.
+The Map's dualist answer is direct: you are an irreducible conscious being who interacts with a physical world that exists independently of you. Both halves of this claim carry weight. Taking consciousness seriously doesn't require denying matter. Taking matter seriously doesn't require reducing consciousness.
 
 ## Relation to Site Perspective
 
@@ -154,3 +156,15 @@ The Map acknowledges that if forced to choose between idealism and physicalism, 
 1. Nagel, T. (2012). *Mind and Cosmos*. Oxford University Press.
 1. Shani, I. (2015). "Cosmopsychism: A Holistic Approach to the Metaphysics of Experience." *Philosophical Papers*, 44(3), 389–437.
 1. Stubenberg, L. (2018). "Neutral Monism." *Stanford Encyclopedia of Philosophy*.
+
+<!-- AI REFINEMENT LOG - 2026-04-06
+Changes made:
+- Renamed third diagnostic question heading to "Does Individual Identity Survive? (A Values Commitment)" with caveat that this is the Map's commitment, not a neutral diagnostic
+- Removed "unfashionable but" from "The Map's dualist answer is unfashionable but direct"
+- Fixed "history of science shows repeatedly" claim: acknowledged selection bias, noted parsimony sometimes wins
+
+Based on pessimistic review (pessimistic-2026-04-06b.md).
+Key improvements: honesty about values-vs-diagnostics distinction, reduced rhetorical self-positioning.
+
+This log should be removed after human review.
+-->

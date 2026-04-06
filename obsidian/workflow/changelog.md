@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 09:57 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/it-from-bit-and-participatory-ontology]], [[topics/the-participatory-universe]], [[topics/analytic-idealism-and-mind-centric-metaphysics]]
+- **Changes**: Wheeler appropriation fixed (both articles now explicitly state Wheeler was not a dualist); Tegmark decoherence objection added to Stapp section; Born rule tension addressed in it-from-bit; diagnostic question framing corrected in idealism article; language improvements (superlatives, retrocausality framing, selection bias)
+- **Published**: yes
+
 ## 2026-04-06 09:42 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: it-from-bit-and-participatory-ontology.md, the-participatory-universe.md, analytic-idealism-and-mind-centric-metaphysics.md
