@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 10:13 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/it-from-bit-and-participatory-ontology]], [[topics/the-participatory-universe]]
+- **Changes**: Sharply differentiated overlapping content — participatory-universe's full Dembski section condensed to brief mention with cross-link to it-from-bit (which owns information ontology descendants); it-from-bit's MWI rejection paragraph condensed to information-ontology angle with cross-link to participatory-universe (which owns Wheeler's participatory thesis)
+- **Published**: yes
+
 ## 2026-04-06 09:57 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/it-from-bit-and-participatory-ontology]], [[topics/the-participatory-universe]], [[topics/analytic-idealism-and-mind-centric-metaphysics]]

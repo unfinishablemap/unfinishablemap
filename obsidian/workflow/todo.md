@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Evaluate coalescing it-from-bit and participatory-universe articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-04-06b.md) found significant content overlap between these two articles: Dembski's critique, Wheeler's MWI rejection, self-excited circuit all duplicated. Consider whether these should be coalesced or more sharply differentiated.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-06
-
 ### P2: Integrate stochastic-amplification-and-neural-selection into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1944,6 +1937,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Evaluate coalescing it-from-bit and participatory-universe articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-06b.md) found significant content overlap between these two articles: Dembski's critique, Wheeler's MWI rejection, self-excited circuit all duplicated. Consider whether these should be coalesced or more sharply differentiated.
+- **Output**: Task context:
+Pessimistic review (pessimistic-2026-04-06b.md) found significant content overlap between these two articles: Dembski's critique, Wheeler's MWI rejection, self-excited circuit all duplicated. Consider whether these should be coalesced or more sharply differentiated.
 
 ### ✓ 2026-04-06: Address Wheeler appropriation and Stapp critique gaps in participatory universe articles
 - **Type**: refine-draft

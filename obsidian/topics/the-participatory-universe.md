@@ -4,7 +4,7 @@ description: "Wheeler's participatory universe — the thesis that observers con
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-06T09:57:00+00:00
+ai_modified: 2026-04-06T10:13:00+00:00
 last_deep_review: 2026-03-23T04:06:00+00:00
 draft: false
 topics:
@@ -87,13 +87,9 @@ This is the participatory universe made concrete. Where Wheeler spoke of abstrac
 
 However, Stapp's mechanism faces a serious physics objection. The quantum Zeno effect requires that the system being observed remains in a coherent quantum state between measurements. Max Tegmark's decoherence calculations (2000) showed that quantum superpositions in neural tissue at body temperature decohere in roughly 10⁻¹³ seconds — far too fast for the Zeno effect to operate at the timescales relevant to neural decision-making. Stapp's mechanism requires coherence times orders of magnitude longer than thermal physics appears to allow. The physics community has largely not accepted Stapp's specific proposal for this reason. The Map's own writing style guide lists the quantum Zeno effect among "subjects requiring restraint" — to be referenced when discussing how interaction might work, but not used as the foundation of the argument. The Map therefore treats Stapp's mechanism as suggestive rather than established: it illustrates *how* consciousness-physics interaction could work in principle, but the specific neural implementation remains an open problem.
 
-## A Critique: Information Without Creation
+## The Circularity Problem
 
-William Dembski offers a careful internal critique. Wheeler was right that information is fundamental, Dembski argues, but wrong that observers create reality. "It's one thing to say measurement requires information. It's another to say the thing being measured is created by the observer doing the measuring."
-
-The ontological circularity is real: observers cannot create the universe that creates them — not without the kind of temporal bootstrapping that Wheeler's self-excited circuit proposes and that few physicists accept literally. An alternative is *informational realism*: nature is genuinely informational without requiring observer-creation. Information is ontologically basic, not derived from observation.
-
-This critique is compatible with the Map's position. If information is ontologically fundamental and consciousness is irreducible, then consciousness could be an informational entity that interacts with physical information — participating in outcomes without creating reality wholesale.
+Wheeler's self-excited circuit faces a basic circularity: observers cannot create the universe that creates them — not without temporal bootstrapping that few physicists accept literally. William Dembski and others have argued that information can be ontologically fundamental without requiring observer-creation — a position the Map finds compatible with its own framework. For the full treatment of Dembski's informational realism and the broader debate over "it from bit" descendants, see [[it-from-bit-and-participatory-ontology]].
 
 ## Relation to Site Perspective
 
@@ -144,20 +140,16 @@ The participatory universe framework would face serious challenge from:
 1. Stapp, H. P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. 2nd ed. Springer.
 1. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194–4206.
 1. Jacques, V. et al. (2007). "Experimental Realization of Wheeler's Delayed-Choice Gedanken Experiment." *Science*, 315(5814), 966–968.
-1. Dembski, W. A. (2021). "It From Bit: What Did Wheeler Get Right — and Wrong?" *Mind Matters*.
 
-<!-- AI REFINEMENT LOG - 2026-04-06
+<!-- AI REFINEMENT LOG - 2026-04-06 (pass 2)
 Changes made:
-- Front-loaded distinction between Wheeler's cosmological vision and the Map's local neural modulation claim
-- Explicitly stated Wheeler was not a dualist; his "observer" was not specifically conscious mind
-- Added Tegmark decoherence objection (2000) to Stapp section — quantum Zeno effect faces femtosecond decoherence timescale problem
-- Noted Map's writing style guide lists quantum Zeno as "subject requiring restraint"
-- Fixed delayed-choice description: replaced "present observation reaches backward" with more accurate "present measurement choice determines how past quantum behaviour is described"
-- Added experimental citation (Jacques et al. 2007) for delayed-choice confirmation
-- Added Tegmark and Jacques references
+- Replaced full "A Critique: Information Without Creation" section (Dembski) with condensed "The Circularity Problem" section + cross-link to it-from-bit article, which owns the full Dembski/informational realism treatment
+- Removed Dembski reference (now cited only in it-from-bit where the full discussion lives)
 
-Based on pessimistic review (pessimistic-2026-04-06b.md).
-Key improvements: intellectual honesty about Wheeler's position, critical treatment of Stapp, accurate delayed-choice framing.
+Based on pessimistic review (pessimistic-2026-04-06b.md), Issue 2: Significant Content Overlap.
+Key improvement: sharper differentiation — this article now focuses on participatory thesis; it-from-bit owns information ontology descendants.
+
+Previous pass (same day): intellectual honesty about Wheeler's position, critical treatment of Stapp, accurate delayed-choice framing.
 
 This log should be removed after human review.
 -->

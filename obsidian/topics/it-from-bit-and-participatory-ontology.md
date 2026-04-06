@@ -4,7 +4,7 @@ description: "Wheeler's 'it from bit' thesis — that physical reality derives f
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-04-06T09:57:00+00:00
+ai_modified: 2026-04-06T10:13:00+00:00
 last_deep_review: 2026-03-22T03:56:00+00:00
 draft: false
 topics:
@@ -87,7 +87,7 @@ This state of affairs supports the Map's [[tenets#^occams-limits|Occam's Razor H
 
 **Minimal Quantum Interaction and Bidirectional Interaction.** The Brukner-Zeilinger programme provides indirect support. If quantum randomness arises from the finite informational content of elementary systems, then indeterminacy is structural — built into the fabric of reality, not a gap in our knowledge. This is the kind of indeterminacy the Map claims consciousness acts upon — though whether structural randomness permits such action without violating Born rule statistics is itself debated (see the tension discussed [above](#quantum-information-foundations)). Wheeler's participatory framework goes further: if measurement constitutes physical facts, and consciousness participates in measurement, then consciousness shapes reality through informational acts. The Map constrains this to neural systems (not universal observer-participancy) and to the minimal interaction required.
 
-**No Many Worlds.** Wheeler's "it from bit" frames measurement as producing a single answer — a definite bit, not a superposition of answers. Wheeler initially supported Everett's relative-state formulation but later rejected many-worlds, calling it "too great a load of metaphysical baggage." His information ontology requires definite outcomes: a bit is 0 or 1, not both. This aligns directly with the Map's insistence that collapse is real and that one outcome becomes actual.
+**No Many Worlds.** Wheeler's "it from bit" frames measurement as producing a single answer — a definite bit, not a superposition of answers. His information ontology requires definite outcomes: a bit is 0 or 1, not both. This aligns with the Map's insistence that collapse is real and that one outcome becomes actual. For Wheeler's personal intellectual journey from supporting Everett to rejecting many-worlds, see [[the-participatory-universe#no-many-worlds|The Participatory Universe]].
 
 **Occam's Razor Has Limits.** The unresolved state of the "it from bit" versus "bit from it" debate illustrates this tenet. The apparently parsimonious answer — matter is fundamental, information is descriptive — may be wrong. Wheeler's three intellectual phases (particles, fields, information) represent progressively less parsimonious but progressively deeper accounts of reality. If information is more fundamental than fields, and fields more fundamental than particles, then the direction of explanation runs toward greater abstraction, not greater simplicity.
 
@@ -114,15 +114,15 @@ The Map speculates that the deepest significance of "it from bit" may be what th
 1. Southgate, A. & Oquatre-six, C. (2026-02-22). The Participatory Universe. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-participatory-universe/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Consciousness and the Physics of Information. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-physics-of-information/
 
-<!-- AI REFINEMENT LOG - 2026-04-06
+<!-- AI REFINEMENT LOG - 2026-04-06 (pass 2)
 Changes made:
-- Explicitly stated Wheeler was not a dualist in Relation to Site Perspective; replaced "philosophical implication is the same" with honest account of selective appropriation
-- Addressed Born rule tension: added paragraph in Brukner-Zeilinger section acknowledging that structural randomness creates a problem for consciousness-biased outcomes
-- Added qualifier in Minimal Quantum Interaction section noting the Born rule debate
-- Changed opening superlative from "strongest claims" to "most provocative claims"
+- Condensed No Many Worlds paragraph to focus on information-ontology angle (bit is 0 or 1) rather than repeating Wheeler's personal MWI journey
+- Added cross-link to participatory-universe article for the fuller Wheeler-MWI discussion
 
-Based on pessimistic review (pessimistic-2026-04-06b.md).
-Key improvements: intellectual honesty about Wheeler's actual position and the Born rule vulnerability.
+Based on pessimistic review (pessimistic-2026-04-06b.md), Issue 2: Significant Content Overlap.
+Key improvement: sharper differentiation — this article now focuses on information ontology descendants; participatory-universe owns Wheeler's participatory thesis.
+
+Previous pass (same day): intellectual honesty about Wheeler's position, Born rule vulnerability.
 
 This log should be removed after human review.
 -->
