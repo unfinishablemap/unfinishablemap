@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 11:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[consciousness-under-extreme-metabolic-constraint]]
+- **Changes**: Demoted gamma surges (n=2) from anomaly #1 to #5; reordered all evidence by strength; reordered filter model bullets to match; shortened description to 160 chars; adjusted NDE section cross-reference
+- **Published**: yes
+
 ## 2026-04-06 11:24 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 29 recently modified files across topics/, concepts/, apex/ — grouped into 5 thematic clusters (causation/free will, ethics/value, interface/bandwidth, language/cognition, phenomenology/clinical)

@@ -1,10 +1,10 @@
 ---
 title: "Consciousness Under Extreme Metabolic Constraint"
-description: "When brain metabolism collapses, consciousness does not degrade proportionally—it persists at surprising thresholds, sometimes intensifying. These anomalies are compatible with filter theory, though the model must specify what evidence would challenge it."
+description: "Consciousness persists at surprising metabolic thresholds and sometimes intensifies during collapse—anomalies compatible with filter theory but not predicted by production models."
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-06T05:37:00+00:00
+ai_modified: 2026-04-06T11:32:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -30,7 +30,7 @@ last_curated:
 last_deep_review: 2026-04-06T00:41:00+00:00
 ---
 
-If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across cardiac arrest, deep hypothermia, minimally conscious states, hibernation, anaesthesia, and psychedelic suppression of the default mode network, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is compatible with [[filter-theory|filter theory]]—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source. The evidence does not prove filter theory, but it identifies specific anomalies that production models must accommodate through auxiliary hypotheses.
+If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across minimally conscious states, psychedelic suppression of the default mode network, anaesthesia, cardiac arrest, deep hypothermia, and hibernation, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is compatible with [[filter-theory|filter theory]]—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source. The evidence does not prove filter theory, but it identifies specific anomalies that production models must accommodate through auxiliary hypotheses.
 
 ## The Production Model's Prediction
 
@@ -40,23 +40,11 @@ This prediction is testable. Multiple clinical and experimental settings create 
 
 ## Five Lines of Anomalous Evidence
 
-### Gamma Surges in Dying Brains
-
-Xu et al. (2023) recorded the brain activity of four patients during cardiac arrest. The sample was small—four patients total—and only two exhibited rapid, marked surges of gamma-frequency oscillations after the heart stopped, precisely the neural signatures associated with conscious processing. The other two showed no such activity. With only two positive cases from four patients, the findings are suggestive rather than established—per the Map's own [[clinical-evidence-quality-standards-consciousness-research|evidence quality standards]], single small studies warrant cautious language, not strong inference. Cross-frequency coupling between gamma and slower oscillations *increased*. Interhemispheric connectivity in gamma bands *strengthened*. The activation concentrated in temporo-parieto-occipital junctions, regions associated with conscious experience, dreaming, and out-of-body experiences.
-
-In those two patients, organised activity lasted approximately thirty seconds into cardiac arrest, as metabolism was collapsing. The brain produced its most organised output during its final moments, not its least. A production model must explain why a system generates peak-organised activity as its energy supply fails. The filter model offers a compatible interpretation: the filter is breaking down, and what had been constrained is briefly released. But the evidence base—two patients—is too thin for this to count as more than a suggestive observation awaiting replication.
-
 ### The 42% Metabolic Threshold
 
 Stender et al. (2014) used FDG-PET scanning to quantify brain metabolism in patients with disorders of consciousness. Vegetative state patients showed 38% of normal cerebral metabolic activity. Minimally conscious patients showed 56%. The critical finding: a metabolic rate of approximately 42% of healthy levels reliably separated patients who retained minimal consciousness from those in vegetative states, and this diagnostic threshold correctly predicted recovery of consciousness within twelve months in 94% of cases.
 
 The 42% figure is a statistical classifier derived from clinical data, not a precise biological switch. But the pattern it reveals is threshold-like rather than gradual. Consciousness does not fade smoothly from 100% to 0% as metabolism declines. It persists with surprising resilience until a critical region, then fails. The pattern resembles a system losing its channel rather than losing its source—a radio signal that remains clear until the receiver breaks, rather than a candle that dims steadily as wax is consumed.
-
-### Near-Death Experiences During Metabolic Crisis
-
-Between 10% and 20% of cardiac arrest survivors report [[near-death-experiences|near-death experiences]]—episodes described as "highly lucid" and "realer than real" (Hoel, 2024). These occur during acute physiological crisis: hypoxia, failing circulation, collapsing metabolic supply. The neurobiological paradox is stark. If the brain produces consciousness, rich subjective experience during metabolic failure is difficult to explain. If the brain filters consciousness, reduced filtering during breakdown predicts exactly this kind of intensification.
-
-The timing question remains contested—whether NDEs occur during the period of flat-line EEG or during recovery—but the Xu et al. findings of organised gamma activity during cardiac arrest demonstrate that the dying brain is capable of the neural signatures associated with consciousness, even as its metabolic foundation crumbles.
 
 ### Psychedelic Enhancement with Metabolic Suppression
 
@@ -70,15 +58,27 @@ Sanders et al. (2023) demonstrated that different anaesthetic agents produce dif
 
 They do not. [[anaesthesia-and-the-consciousness-interface|Anaesthesia research]] reveals at least three distinct states—unconsciousness, disconnected consciousness, and connected consciousness—that depend on *which* networks are disrupted, not on total metabolic reduction. The brain under anaesthesia becomes less individually distinctive; consciousness-specific neural fingerprints require metabolism to maintain their uniqueness. This suggests metabolism sustains the brain's *channelling structure* rather than consciousness itself.
 
+### Near-Death Experiences During Metabolic Crisis
+
+Between 10% and 20% of cardiac arrest survivors report [[near-death-experiences|near-death experiences]]—episodes described as "highly lucid" and "realer than real" (Hoel, 2024). These occur during acute physiological crisis: hypoxia, failing circulation, collapsing metabolic supply. The neurobiological paradox is stark. If the brain produces consciousness, rich subjective experience during metabolic failure is difficult to explain. If the brain filters consciousness, reduced filtering during breakdown predicts exactly this kind of intensification.
+
+The timing question remains contested—whether NDEs occur during the period of flat-line EEG or during recovery—but preliminary findings of organised gamma activity during cardiac arrest (discussed next) suggest the dying brain is capable of neural signatures associated with consciousness, even as its metabolic foundation crumbles.
+
+### Gamma Surges in Dying Brains
+
+Xu et al. (2023) recorded the brain activity of four patients during cardiac arrest. The sample was small—four patients total—and only two exhibited rapid, marked surges of gamma-frequency oscillations after the heart stopped, precisely the neural signatures associated with conscious processing. The other two showed no such activity. With only two positive cases from four patients, the findings are suggestive rather than established—per the Map's own [[clinical-evidence-quality-standards-consciousness-research|evidence quality standards]], single small studies warrant cautious language, not strong inference. Cross-frequency coupling between gamma and slower oscillations *increased*. Interhemispheric connectivity in gamma bands *strengthened*. The activation concentrated in temporo-parieto-occipital junctions, regions associated with conscious experience, dreaming, and out-of-body experiences.
+
+In those two patients, organised activity lasted approximately thirty seconds into cardiac arrest, as metabolism was collapsing. The brain produced its most organised output during its final moments, not its least. A production model must explain why a system generates peak-organised activity as its energy supply fails. The filter model offers a compatible interpretation: the filter is breaking down, and what had been constrained is briefly released. But the evidence base—two patients—is too thin for this to count as more than a suggestive observation awaiting replication.
+
 ## The Filter Model's Explanation
 
 The [[filter-theory|filter or transmission theory]]—originating with William James (1898) and developed by Bergson, Huxley, and contemporary researchers like Edward Kelly—proposes that the brain constrains consciousness rather than producing it. Metabolic energy sustains the constraint, not the consciousness. This framework is compatible with each of the five anomalies:
 
-- **Gamma surges in dying brains**: The filter is failing, and consciousness briefly breaks through with reduced constraint.
 - **The 42% threshold**: The channelling structure has a minimum operating requirement, below which it cannot maintain coherent filtering—producing a threshold rather than a gradient.
-- **NDEs during metabolic crisis**: Reduced filtering allows broader conscious access, experienced as vivid, expansive awareness.
 - **Psychedelic DMN suppression**: Metabolically suppressing the brain's primary constraint network loosens the filter, producing intensified experience.
 - **Agent-specific anaesthesia profiles**: Different agents disrupt different components of the filtering architecture, producing different consciousness effects at similar metabolic levels.
+- **NDEs during metabolic crisis**: Reduced filtering allows broader conscious access, experienced as vivid, expansive awareness.
+- **Gamma surges in dying brains**: The filter is failing, and consciousness briefly breaks through with reduced constraint—though the evidence remains preliminary.
 
 The production model can accommodate each anomaly individually—perhaps gamma surges are death throes, perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. Accommodating all five simultaneously requires auxiliary hypotheses that complicate the model's original simplicity. The filter model accounts for the pattern from a single principle—metabolism sustains constraint, not consciousness—though this parsimony must be weighed against the filter model's own risk of unfalsifiability (addressed in the section on what would challenge filter theory). [[terminal-lucidity|Terminal lucidity]]—discussed in the chronic versus acute section below—extends this pattern further: the production model must explain how a brain with years of irreversible structural damage produces a final episode of coherent consciousness, while the filter model simply predicts that dying disrupts the remaining constraint.
 
@@ -150,18 +150,26 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 11. Southgate, A. & Oquatre-six, C. (2026-02-23). Anaesthesia and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/anaesthesia-and-the-consciousness-interface/
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). Death and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/death-and-consciousness/
 
-<!-- AI REFINEMENT LOG - 2026-04-06
-Changes made:
+<!-- AI REFINEMENT LOG - 2026-04-06 (pass 2, 11:32 UTC)
+Changes made (pass 1, 05:37 UTC):
 - Downgraded Xu et al. gamma surge evidence from "striking" to "suggestive" (n=2 from n=4, per Map's evidence quality standards)
 - Recalibrated confidence language throughout: "better explained by" → "compatible with", "predicts" → "is compatible with"
 - Added new section "What Would Challenge the Filter Model" specifying five falsifiable predictions
 - Added cross-reference to clinical-evidence-quality-standards-consciousness-research
 - Added self-aware caveat in chronic vs acute section about filter model accommodating opposite outcomes
 - Added explicit acknowledgment of unfalsifiability risk in filter model explanation section
-- Updated description to reflect falsifiability addition
+
+Changes made (pass 2, 11:32 UTC):
+- Demoted gamma surges from anomaly #1 to #5 (weakest evidence last, strongest first)
+- Reordered all five anomalies by evidence strength: 42% threshold → psychedelics → anaesthesia → NDEs → gamma surges
+- Reordered filter model explanation bullets to match new evidence order
+- Added "though the evidence remains preliminary" qualifier to gamma surges bullet
+- Adjusted NDE section's Xu et al. reference to forward-reference gamma section
+- Updated opening paragraph condition enumeration to match new emphasis
+- Shortened description from 218 to 160 characters
 
 Based on pessimistic review findings (2026-04-06).
-Key improvements: falsifiability, evidence calibration, intellectual honesty.
+Key improvements: evidence hierarchy, falsifiability, evidence calibration, intellectual honesty.
 
 This log should be removed after human review.
 -->

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address filter theory unfalsifiability and Xu et al. over-reliance in consciousness-under-extreme-metabolic-constraint.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) The filter model accommodates every possible metabolic-consciousness relationship by introducing the acute/chronic distinction — no conceivable metabolic pattern would refute it. Add a section identifying what patterns *would* be incompatible with filter theory, or recalibrate confidence to "compatible with" rather than "better explained by." (2) The gamma surge evidence (Xu et al., n=2 positive from n=4) anchors the first and most prominent anomaly despite being precisely the kind of evidence inflation the clinical-evidence-quality-standards article warns against. Demote or flag as "suggestive." See pessimistic-2026-04-06.md
-- **Source**: chain (from pessimistic-review 2026-04-06)
-- **Generated**: 2026-04-06
-
 ### P1: Address motte-and-bailey and evidence standards self-application in clinical-evidence-quality-standards-consciousness-research.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2000,6 +1993,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Address filter theory unfalsifiability and Xu et al. over-reliance in consciousness-under-extreme-metabolic-constraint.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The filter model accommodates every possible metabolic-consciousness relationship by introducing the acute/chronic distinction — no conceivable metabolic pattern would refute it. Add a section identifying what patterns *would* be incompatible with filter theory, or recalibrate confidence to "compatible with" rather than "better explained by." (2) The gamma surge evidence (Xu et al., n=2 positive from n=4) anchors the first and most prominent anomaly despite being precisely the kind of evidence inflation the clinical-evidence-quality-standards article warns against. Demote or flag as "suggestive." See pessimistic-2026-04-06.md
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The filter model accommodates every possible metabolic-consciousness relationship by introducing the acute/chronic distinction — no conceivable metabolic pattern would refute it. Add a section identifying what patterns *would* be incompatible with filter theory, or recalibrate confidence to "compatible with" rather than "better explained by." (2) The gamma surge evidence (Xu et al., n=2 positive from n=4) anchors the first and most prominent anomaly despite being precisely the kind of evidence inflation the clinical-evidence-quality-standards article warns against. Demote or flag as "suggestive." See pessimistic-2026-04-06.md
 
 ### ✓ 2026-04-06: Integrate phenomenal-authority-epistemic-weight-first-person-reports into site navigation
 - **Type**: integrate-orphan
