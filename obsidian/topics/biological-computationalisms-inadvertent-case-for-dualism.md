@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-05T14:26:00+00:00
+ai_modified: 2026-04-06T08:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[adaptive-computational-depth]]"
+  - "[[concession-convergence]]"
 related_articles:
   - "[[tenets]]"
   - "[[experimental-consciousness-science-2025-2026]]"
@@ -28,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-04-05T00:18:00+00:00
+last_deep_review: 2026-04-06T08:12:00+00:00
 ---
 
 Biological computationalism—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments inadvertently build the dualist case: by insisting that consciousness requires something beyond abstract computation, biological computationalism concedes the central point dualists have always made. The explanatory gap it opens between algorithm and experience is precisely the gap dualism was designed to fill.
@@ -49,7 +50,7 @@ Each claim biological computationalists make to distinguish biological from digi
 
 **Metabolic grounding.** Thagard (2022) argues that energy requirements undermine substrate independence: real information processing depends on energy, and energy depends on material substrates. The Church-Turing thesis provides no support for multiple realizability because it abstracts away time, space, and energy—exactly the physical constraints that matter for consciousness. Biological computationalism incorporates this insight by treating metabolic processes as integral to computation rather than as mere power supply. But this concession narrows "consciousness-capable computation" to a claim about specific physical matter—carbon chemistry running at specific energy scales in specific thermodynamic regimes. The gap between "any computation" and "only this specific physical process" is enormous, and it is precisely the gap dualists have identified.
 
-**Scale inseparability.** Milinkovic and Aru argue that biological computation operates across scales in a way digital computation does not—molecular, cellular, network, and whole-brain dynamics are computationally coupled rather than modular. This echoes a point [[adaptive-computational-depth|the Map has developed independently]]: if the consciousness-relevant properties of a system cannot be captured at any single computational level, they resist the kind of abstract description that functionalism requires. Properties that exist only in the specific multi-scale physical dynamics of a system are, by definition, not abstractable—and properties that resist abstraction are precisely what dualists mean when they say consciousness is not reducible to functional organisation.
+**Scale inseparability.** Milinkovic and Aru argue that biological computation operates across scales in a way digital computation does not—molecular, cellular, network, and whole-brain dynamics are computationally coupled rather than modular. This echoes the Map's concept of [[adaptive-computational-depth]]—developed independently of biological computationalism—that if the consciousness-relevant properties of a system cannot be captured at any single computational level, they resist the kind of abstract description that functionalism requires. Properties that exist only in the specific multi-scale physical dynamics of a system are, by definition, not abstractable—and properties that resist abstraction are precisely what dualists mean when they say consciousness is not reducible to functional organisation.
 
 ## The Relocated Hard Problem
 

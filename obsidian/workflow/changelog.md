@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 08:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 1876 → 1878 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (ACD link text for LLM readability, missing frontmatter concept)
+- **Enhancements made**: 0
+- **Output**: [[reviews/deep-review-2026-04-06-biological-computationalisms-inadvertent-case-for-dualism]]
+
 ## 2026-04-06 07:57 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/simulation]]
