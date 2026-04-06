@@ -56,6 +56,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
+### P3: Write article on consciousness and aesthetic experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. No systematic treatment of beauty, elegance, and aesthetic response as phenomenal domains. Aesthetic experience involves both production (mind-to-world) and reception (world-to-mind), providing a natural test case for bidirectional interaction. Builds on consciousness-and-creativity, consciousness-and-aesthetic-creation. Target section: topics/. See optimistic-2026-04-06-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on interface dissociation cases as unified evidence for filter theory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Terminal lucidity, lucid dreaming, psychedelics, and anaesthesia paradox all involve dissociation between neural state and conscious content — currently treated separately but constitute converging evidence for filter/transmission models. Systematising them would be far more powerful. Builds on terminal-lucidity-and-filter-transmission-theory, lucid-dreaming, psychedelics-and-consciousness, filter-theory. Target section: topics/. See optimistic-2026-04-06-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
 ### P2: Address conceivability non-sequitur and Eastern philosophy inconsistency in personal-identity.md
 - **Type**: refine-draft
 - **Status**: pending
