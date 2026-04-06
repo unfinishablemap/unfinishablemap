@@ -79,6 +79,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
+### P2: Address filter theory unfalsifiability in consciousness-under-extreme-metabolic-constraint.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the filter model as presented accommodates every possible metabolic-consciousness relationship (acute = filter breaking, chronic = interface degrading), making it unfalsifiable. Add a section identifying what metabolic patterns would be incompatible with filter theory, or recalibrate confidence language from "better explained by" to "compatible with." Also downgrade Xu et al. gamma surge evidence (n=2 positive from n=4) to "suggestive" per the Map's own evidence quality standards. See pessimistic-2026-04-06.md
+
+### P2: Apply evidence quality standards retroactively across clinical evidence articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Pessimistic review found motte-and-bailey pattern: clinical-evidence-quality-standards-consciousness-research.md correctly downgrades weak evidence then retreats to "clinical evidence is supporting rather than foundational," while other Map articles (clinical-neuroplasticity-evidence-for-bidirectional-causation.md, placebo-effect-and-mental-causation.md) foreground clinical evidence more strongly. Cross-review these articles and ensure confidence calibration is consistent with the five-point framework. See pessimistic-2026-04-06.md
+
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
 - **Status**: pending
