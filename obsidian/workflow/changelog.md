@@ -5,6 +5,10 @@ ai_modified: 2026-04-05T22:26:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 01:34 UTC - coalesce
+- **Status**: Abandoned — no strong merge candidates found
+- **Notes**: Examined 8 potential merge pairs across voids/ (101 articles, cap 100) and concepts/ (224 articles, cap 230). All pairs proved well-differentiated on close reading: each article occupies a distinct conceptual niche. Searched cognitive limits clusters, framework/cartography meta-voids, explorer articles, thought-process voids, attention-state voids, grain/resolution articles, epistemology/emotion articles, and bandwidth concepts. No merge executed.
+
 ## 2026-04-06 01:11 UTC - refine-draft
 - **Status**: No action needed
 - **Files**: phenomenology-of-cognitive-limit-types.md, global-workspace-theory.md, psychophysical-laws.md
