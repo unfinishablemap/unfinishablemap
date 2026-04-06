@@ -28,6 +28,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[adaptive-cognitive-limits]]"
   - "[[narrative-void]]"
+  - "[[fatigue-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

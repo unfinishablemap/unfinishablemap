@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review void articles considering fatigue-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/fatigue-void.md created 2026-04-05. Review sleep-consciousness-void, habituation-void, complicity-void, and phenomenology-of-the-edge for cross-links and consistency with the fatigue void's argument that consciousness cannot observe its own degradation.
-- **Source**: chain (from voids/fatigue-void.md)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review void articles considering conceptual-metabolism-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1944,6 +1937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review void articles considering fatigue-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/fatigue-void.md created 2026-04-05. Review sleep-consciousness-void, habituation-void, complicity-void, and phenomenology-of-the-edge for cross-links and consistency with the fatigue void's argument that consciousness cannot observe its own degradation.
+- **Output**: None -- Context: Cross-review void articles considering fatigue-void insights
 
 ### ✓ 2026-04-06: Write article on clinical evidence quality standards in consciousness research
 - **Type**: expand-topic

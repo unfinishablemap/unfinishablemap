@@ -29,6 +29,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[altered-states-of-consciousness]]"
   - "[[recognition-void]]"
+  - "[[fatigue-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101

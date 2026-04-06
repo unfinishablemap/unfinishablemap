@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 02:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[fatigue-void]]
+- **Word count**: 1507 → 1659 (+152)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (dualism argument sharpened, Ciocan 2025 integrated, ego depletion caveat strengthened)
+- **Enhancements made**: 3 (self-opacity cross-link, attention-and-consciousness link, cross-links added to 4 related voids)
+- **Output**: [[reviews/deep-review-2026-04-06-fatigue-void]]
+
 ## 2026-04-06 02:17 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Clinical evidence quality standards in consciousness research

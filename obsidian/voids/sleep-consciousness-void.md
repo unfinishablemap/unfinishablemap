@@ -33,6 +33,7 @@ related_articles:
   - "[[the-silence-void]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
+  - "[[fatigue-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
