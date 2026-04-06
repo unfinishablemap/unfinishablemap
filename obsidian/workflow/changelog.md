@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 02:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical evidence quality standards in consciousness research
+- **Output**: [[clinical-evidence-quality-standards-consciousness-research]]
+- **Word count**: 1977
+- **Based on research**: yes, [[clinical-evidence-quality-2026-03-29]] and [[phenomenological-method-evidence-standards-2026-03-19]]
+
 ## 2026-04-06 02:01 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 451

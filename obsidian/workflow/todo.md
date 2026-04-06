@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on clinical evidence quality standards in consciousness research
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. When does clinical and neurological evidence bear on metaphysical questions about consciousness? Standards for inferring from pathology to architecture. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review void articles considering fatigue-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1950,6 +1943,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-04-05
 
 ## Completed Tasks
+
+
+### ✓ 2026-04-06: Write article on clinical evidence quality standards in consciousness research
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. When does clinical and neurological evidence bear on metaphysical questions about consciousness? Standards for inferring from pathology to architecture. Target section: topics/.
+- **Output**: clinical evidence quality standards in consciousness research
 
 ### ✓ 2026-04-06: Write article on bandwidth constraints and conscious information processing
 - **Type**: expand-topic
