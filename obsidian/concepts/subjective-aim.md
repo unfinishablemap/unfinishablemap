@@ -1,10 +1,10 @@
 ---
 title: "Subjective Aim"
-description: "Whitehead's concept that each moment of reality is directed toward its own completion. Subjective aim connects process philosophy to the Map's account of consciousness selecting outcomes."
+description: "Whitehead's subjective aim—each occasion's directedness toward its own completion—illuminates the structure of conscious selection without requiring panpsychism."
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-02-17T11:42:00+00:00
+ai_modified: 2026-04-06T15:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-02-17T11:42:00+00:00
+last_deep_review: 2026-04-06T15:20:00+00:00
 ---
 
 Subjective aim is Alfred North Whitehead's term for the inherent directedness of each actual occasion toward its own completion. Every moment of reality, in Whitehead's [[process-philosophy|process philosophy]], is not passive matter awaiting external forces but an event actively steering itself toward a definite outcome—what Whitehead called "satisfaction." Subjective aim is what makes each occasion *for itself* rather than merely *there*: it introduces teleology at the most fundamental level of reality.
@@ -48,7 +48,7 @@ Subjective aim is not conscious deliberation. Most actual occasions (electrons, 
 
 Whitehead held that subjective aim is always aim toward *intensity of experience*—the richest possible integration of an occasion's data consistent with harmony. Value is not imposed on occasions from outside but is constitutive of what they are. Each occasion aims at the best it can achieve given its circumstances.
 
-This has consequences for understanding purpose. As the Map's [[purpose-and-alignment|purpose and alignment]] article develops: human purpose is not an external goal to be discovered or constructed but the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose is *in* experience, not something experience serves.
+This has consequences for understanding purpose. The Map's [[purpose-and-alignment|purpose and alignment]] article argues that human purpose is not an external goal to be discovered or constructed but the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose is *in* experience, not something experience serves.
 
 The [[experiential-alignment]] concept draws on this insight. If each occasion aims at experiential intensity—integrating hedonic, aesthetic, meaning, agency, and other value dimensions—then alignment is not arbitrary preference but reflects the deep structure of experiential becoming. The [[topics/phenomenal-value-realism|phenomenal value realism]] framework extends this further: values are grounded in phenomenal experience itself, not projected onto a value-neutral world.
 
@@ -60,7 +60,9 @@ For Whitehead, each actual occasion involves "decision"—literally a cutting-of
 
 The parallel to [[concepts/consciousness-selecting-neural-patterns]] is structural. In the Map's framework, the brain presents superposed quantum possibilities; consciousness selects which becomes actual. In Whitehead's framework, each occasion inherits data and possibilities; subjective aim determines which achieve satisfaction. Both involve directed selection where prior conditions are necessary but not sufficient to determine the outcome.
 
-Henry Stapp developed the connection between Whitehead's event ontology and quantum mechanics over several decades. In early work, Stapp focused on the structural correspondence between actual occasions and quantum events, while later works—particularly *Mindful Universe* (2011)—argued for completing Heisenberg's ontology with Whitehead's core ideas. Stapp's framework distinguishes the "Heisenberg choice" (which observable to measure, associated with mental causation) from the "Dirac choice" (which outcome nature returns). The structural parallel to Whitehead's concrescence is suggestive: the initial phase of an occasion, guided by subjective aim, resembles the probing question of the Heisenberg choice, while the definite satisfaction achieved resembles the Dirac outcome. Whether Stapp himself intended this tight a mapping is debated, but the convergence between his quantum ontology and Whitehead's process ontology supports the broader point: reality may involve irreducible moments of self-determination that neither randomness nor determinism can capture.
+Henry Stapp developed the connection between Whitehead's event ontology and quantum mechanics over several decades. In early work, Stapp focused on the structural correspondence between actual occasions and quantum events, while later works—particularly *Mindful Universe* (2011)—argued for completing Heisenberg's ontology with Whitehead's core ideas.
+
+Stapp's framework distinguishes the "Heisenberg choice" (which observable to measure, associated with mental causation) from the "Dirac choice" (which outcome nature returns). The structural parallel to Whitehead's concrescence is suggestive: the initial phase of an occasion, guided by subjective aim, resembles the probing question of the Heisenberg choice, while the definite satisfaction achieved resembles the Dirac outcome. Whether Stapp himself intended this tight a mapping is debated, but the convergence between his quantum ontology and Whitehead's process ontology supports the broader point: reality may involve irreducible moments of self-determination that neither randomness nor determinism can capture.
 
 ## Subjective Aim and Agency
 
@@ -78,7 +80,7 @@ Subjective aim faces objections both from within and outside process philosophy.
 
 **Empirical vacuity**: Subjective aim generates no distinctive empirical predictions. An electron with subjective aim behaves identically to one without. The concept's value is metaphysical—offering a framework where consciousness is natural rather than anomalous—not empirical. Whether metaphysical illumination without empirical consequences constitutes genuine explanation is debated.
 
-**The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [[combination-problem|combination problem]] that faces all panpsychist positions. Whitehead's answer—that "personally ordered societies" of occasions inherit aims with special intimacy—is contested. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
+**The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [[combination-problem|combination problem]] that faces all panpsychist positions. Whitehead's answer—that "personally ordered societies" of occasions inherit aims with special intimacy—is contested. Buddhist momentariness (*ksanikavada*) poses a related challenge from a different angle: if each occasion perishes immediately upon achieving satisfaction, what holds the "subject" in subjective aim together across moments? The *anatman* tradition questions whether a unified subject exists to have aims at all. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
 
 **Teleology without mechanism** {#teleology-without-mechanism}: Subjective aim introduces teleology (goal-directedness) at the fundamental level without specifying how this teleology operates physically. The Map's quantum selection framework at least identifies *where* consciousness might intervene (quantum indeterminacies). Process philosophy's subjective aim identifies *what* is happening (self-directed becoming) without specifying how this relates to physical law.
 

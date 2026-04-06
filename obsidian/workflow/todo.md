@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review subjective-aim.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-17 — 48 days ago. Concepts article on Whitehead's subjective aim — a key concept for the Map's process-philosophy connections. Verify coherence, accuracy of Whiteheadian claims, cross-references to process-philosophy and prehension, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Deep review preemption.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1979,6 +1972,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-17 — 48 days ago. Concepts article on Whitehead's subjective aim — a key concept for the Map's process-philosophy connections. Verify coherence, accuracy of Whiteheadian claims, cross-references to process-philosophy and prehension, and tenet alignment.
+- **Output**: obsidian/concepts/subjective-aim.md
 
 ### ✓ 2026-04-06: Deep review sleep-consciousness-void.md
 - **Type**: deep-review
