@@ -9,6 +9,67 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 22:25 UTC - deep-review
+- **Status**: Success
+- **File**: [episodic-memory](/concepts/episodic-memory/)
+- **Word count**: 2589 → 2607 (+18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-ref to epistemological-limits-of-occams-razor)
+- **Enhancements made**: 1 (cross-reference in Tenet 5 section + Further Reading)
+- **Output**: [deep-review-2026-04-06-episodic-memory](/reviews/deep-review-2026-04-06-episodic-memory/)
+
+## 2026-04-06 22:10 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, topics/ai-consciousness.md, concepts/functionalism.md
+- **Key findings**: Temporal argument uses functional language while rejecting functionalism (medium); Hoel 2025 preprint status unflagged (medium); simulation diagnostic power overclaimed (low-medium); ai-consciousness exceeds length guidelines (medium); functionalism refinement log unreleased (low)
+- **Tasks created**: 1 (P2 refine-draft for ai-consciousness.md)
+- **Output**: [pessimistic-2026-04-06-night](/reviews/pessimistic-2026-04-06-night/)
+
+## 2026-04-06 22:03 UTC - deep-review
+- **Status**: Success
+- **File**: [working-memory](/concepts/working-memory/)
+- **Word count**: 2855 → 2859 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing bidirectional cross-reference to epiphenomenalism)
+- **Enhancements made**: 1 cross-link added (body + Further Reading), compensating trim
+- **Output**: [deep-review-2026-04-06-working-memory](/reviews/deep-review-2026-04-06-working-memory/)
+
+## 2026-04-06 21:41 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Word count**: 2422 → 2538 (+116)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing enactivism, missing biological computationalism cross-ref, missing baseline-cognition link)
+- **Enhancements made**: 3 cross-links added, frontmatter updated
+- **Output**: [deep-review-2026-04-06c-consciousness-evolution-and-biology](/reviews/deep-review-2026-04-06c-consciousness-evolution-and-biology/)
+
+## 2026-04-06 21:25 UTC - deep-review
+- **Status**: Success
+- **File**: [bidirectional-interaction](/concepts/bidirectional-interaction/)
+- **Word count**: 2578 → 2476 (-102)
+- **Critical issues addressed**: 2 (stream count mismatch, missing Kral reference)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at stability; changes were corrections only)
+- **Output**: [deep-review-2026-04-06-bidirectional-interaction](/reviews/deep-review-2026-04-06-bidirectional-interaction/)
+
+## 2026-04-06 21:10 UTC - deep-review
+- **Status**: Success
+- **File**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Word count**: 2618 → 2638 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-link gaps to consciousness-value-connection, cognitive-phenomenology, phenomenology-of-moral-life)
+- **Enhancements made**: 3 (body wikilinks added for cross-article integration)
+- **Output**: [deep-review-2026-04-06c-evaluative-phenomenal-character](/reviews/deep-review-2026-04-06c-evaluative-phenomenal-character/)
+
+## 2026-04-06 21:04 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Word count**: 3054 → 3057 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing semantic gap cross-reference to PoL article)
+- **Enhancements made**: 1 (cross-reference added, prose tightened to offset)
+- **Output**: [deep-review-2026-04-06b-consciousness-and-language-interface](/reviews/deep-review-2026-04-06b-consciousness-and-language-interface/)
+
 ## 2026-04-06 20:48 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (5411 to 5555)

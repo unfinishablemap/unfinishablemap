@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-06 22:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ description: Working memory manipulation requires consciousness while maintenanc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 21:51:00+00:00
+last_deep_review: 2026-04-06 22:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ This maps onto the Map's framework:
 
 ## The Capacity Gap
 
-Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity, creating substantial increases in computational possibility. The [consciousness threshold](/topics/consciousness-and-intelligence/) hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
+Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity. The [consciousness threshold](/topics/consciousness-and-intelligence/) hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
 
 With 2 items, you can compare them. With 4-7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference is combinatorial: even four items yield six pairwise comparisons plus the ability to hold some comparisons in mind while making further comparisons.
 
@@ -161,7 +161,7 @@ Some clarifications:
 
 The [illusionist](/concepts/illusionism/) offers a deflationary reading: the maintenance/manipulation distinction merely shows that stronger neural activation is needed for certain operations, not that consciousness contributes anything special.
 
-This faces the standard regress. If manipulation merely *seems* to require consciousness, something must be doing the seeming. The felt effort of mental arithmetic, the sense of holding items against decay—these experiences cannot themselves be illusions without invoking a further level of experience. The [zombie reformulation](/concepts/philosophical-zombies/) applies: a zombie could perform WM operations functionally, but the phenomenal character of effortful cognition seems constitutive, not epiphenomenal.
+This faces the standard regress. If manipulation merely *seems* to require consciousness, something must be doing the seeming. The felt effort of mental arithmetic, the sense of holding items against decay—these experiences cannot themselves be illusions without invoking a further level of experience. The [zombie reformulation](/concepts/philosophical-zombies/) applies: a zombie could perform WM operations functionally, but the phenomenal character of effortful cognition seems constitutive, not [epiphenomenal](/concepts/epiphenomenalism/).
 
 ## Relation to Site Tenets
 
@@ -203,6 +203,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [prospective-memory](/concepts/prospective-memory/) — Future-oriented cognition and WM manipulation
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — Whether experience exceeds WM access
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — Broader relationship between consciousness and memory systems
+- [epiphenomenalism](/concepts/epiphenomenalism/) — Why the maintenance/manipulation asymmetry challenges causal inertness
 - [consciousness-working-memory-2026-01-17](/research/consciousness-working-memory-2026-01-17/) — Detailed research notes
 
 ## References

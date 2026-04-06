@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-04-06 07:41:00+00:00
+ai_modified: 2026-04-06 21:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Consciousness and language are separable but interact bidirectional
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 07:41:00+00:00
+last_deep_review: 2026-04-06 21:04:00+00:00
 modified: *id001
 related_articles:
 - '[[language-recursion-and-consciousness]]'
@@ -119,7 +119,7 @@ The interface runs the other direction too. Conscious states generate pressure t
 
 ### The Urge to Express
 
-Phenomenal experience generates pressure toward communication. Intense experiences—overwhelming beauty, profound grief, sudden insight—seek expression. People write poetry, compose music, and create art under pressure from conscious states that demand articulation. This pressure is itself phenomenal: the felt need to say something, the frustration when words fail, the relief when expression succeeds.
+Intense experiences—overwhelming beauty, profound grief, sudden insight—generate pressure toward expression. People write poetry, compose music, and create art under pressure from conscious states that demand articulation. This pressure is itself phenomenal: the felt need to say something, the frustration when words fail, the relief when expression succeeds.
 
 ### How Expression Transforms Experience
 
@@ -177,13 +177,13 @@ The Map holds that this confuses correlation with constitution. Language and hig
 
 ## The Lossy Bidirectional Channel
 
-Both directions—language shaping consciousness and consciousness seeking expression—involve loss. Neither translation is complete.
+Both directions—language shaping consciousness and consciousness seeking expression—involve loss. Neither translation is complete. The Map's [philosophy of language](/topics/philosophy-of-language-under-dualism/) formalises this as the *semantic gap*: meaning has a phenomenal dimension that functional semantics cannot capture.
 
 ### From Language to Consciousness
 
 When language shapes experience, it imposes categorical structure on continuous phenomena. The smooth colour spectrum becomes discrete named regions. The fluid flow of emotion becomes labelled states. Something is gained (clarity, communicability) and something is lost (continuous nuance, sub-categorical distinctions).
 
-The loss explains why different languages reveal different aspects of the same underlying reality. Each language is a filter, admitting some aspects of experience while attenuating others. No single language captures everything.
+The loss explains why different languages reveal different aspects of the same underlying reality. Each language is a filter, admitting some aspects of experience while attenuating others.
 
 ### From Consciousness to Language
 
@@ -197,7 +197,7 @@ Several characteristic experiences arise at the consciousness-language boundary:
 
 ### The Tip of the Tongue
 
-You know something but cannot say it. The phenomenal content is present—you recognise the word when supplied—but linguistic access is blocked. This frustration reveals the interface: consciousness holding content that language cannot currently reach. The gap between having and expressing is the interface.
+You know something but cannot say it. The phenomenal content is present—you recognise the word when supplied—but linguistic access is blocked. This frustration reveals the interface: consciousness holding content that language cannot currently reach.
 
 ### The Click of Expression
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 17:07:00+00:00
+ai_modified: 2026-04-06 21:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,6 +21,7 @@ concepts:
 - '[[russellian-monism]]'
 - '[[functionalism]]'
 - '[[emergence]]'
+- '[[baseline-cognition]]'
 - '[[agent-teleology]]'
 - '[[philosophy-of-mind]]'
 created: 2026-02-09
@@ -31,7 +32,7 @@ description: Why evolutionary theory and biology's conceptual toolkit—function
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 17:07:00+00:00
+last_deep_review: 2026-04-06 21:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,6 +50,8 @@ related_articles:
 - '[[reductionism-and-consciousness]]'
 - '[[explanatory-gap]]'
 - '[[psychophysical-laws]]'
+- '[[biological-computationalisms-inadvertent-case-for-dualism]]'
+- '[[enactivism-challenge-to-interactionist-dualism]]'
 title: Consciousness, Evolution, and the Limits of Biology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,11 +64,11 @@ Evolution should clarify consciousness, but instead it deepens the mystery. Natu
 
 ## The Functional Template and Its Limit
 
-Evolutionary biology explains traits through their fitness contributions. Hearts pump blood; eyes detect light; fear triggers avoidance of threats. In each case, the trait's *function* makes its evolution intelligible. Consciousness seems amenable to this approach. Flexible response to novelty, metacognitive monitoring, temporal integration, motivational control—these are plausible fitness advantages. The [amplification hypothesis](/concepts/consciousness-as-amplifier/) documents specific cognitive capacities consciousness enables, from logical reasoning to cumulative culture.
+Evolutionary biology explains traits through their fitness contributions. Hearts pump blood; eyes detect light; fear triggers avoidance of threats. In each case, the trait's *function* makes its evolution intelligible. Consciousness seems amenable to this approach. Flexible response to novelty, metacognitive monitoring, temporal integration, motivational control—these are plausible fitness advantages. The [amplification hypothesis](/concepts/consciousness-as-amplifier/) documents specific cognitive capacities consciousness enables, from logical reasoning to cumulative culture. The [baseline-cognition](/concepts/baseline-cognition/) framework sharpens this by distinguishing what sophisticated neural processing can achieve without consciousness from what requires it.
 
 But functional explanation reaches a limit. Every function attributed to consciousness could, in principle, be performed by an unconscious mechanism. Information can be integrated, behaviour can be flexible, errors can be detected and corrected—all without anyone being home. The functional template explains why organisms *process information in certain ways*. It does not explain why that processing is accompanied by subjective experience.
 
-Philosophy of biology has spent decades analysing what it means for a trait to have a function, and neither dominant account handles consciousness. The etiological theory (a trait's function is what it was selected for; Godfrey-Smith, 1994) runs directly into the zombie problem: if selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The causal-role theory (a trait's function is its contribution to a containing system; Cummins, 1975) fares differently but not better: if consciousness plays a causal role enabling types of cognition that unconscious processing cannot achieve, it has a function in the causal-role sense—but this says nothing about *why* the causal contribution involves subjective experience. Neither account captures both the causal significance and the phenomenal character of consciousness. Function-talk in biology was built for traits whose contribution can be exhaustively described in physical terms.
+Philosophy of biology has spent decades analysing what it means for a trait to have a function, and neither dominant account handles consciousness. The etiological theory (a trait's function is what it was selected for; Godfrey-Smith, 1994) runs directly into the zombie problem: if selection cannot distinguish a conscious organism from an unconscious one producing the same behaviour, it cannot select *for* consciousness. The causal-role theory (a trait's function is its contribution to a containing system; Cummins, 1975) fares differently but not better: if consciousness plays a causal role enabling types of cognition that unconscious processing cannot achieve, it has a function in the causal-role sense—but this says nothing about *why* the causal contribution involves subjective experience. Neither account captures both the causal significance and the phenomenal character of consciousness. Function-talk in biology was built for traits whose contribution can be exhaustively described in physical terms. [Biological computationalism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) encounters the same structural limitation from another angle: its retreat from substrate independence to biological specificity relocates rather than solves the explanatory gap.
 
 ## The Zombie Intuition Applied to Evolution
 
@@ -115,7 +118,7 @@ Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis proposes that
 
 ### Reframe the Problem
 
-[Process philosophy](/concepts/process-philosophy/) and [panpsychism](/concepts/panpsychism/) deny the central premise—that consciousness appeared where none existed before. If experiential properties are fundamental, evolution organised pre-existing experiential properties into complex, unified experiences. The question shifts from "why did experience arise?" to "how did experiential integration increase?"—a scalar question that evolution handles well. But this introduces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness? [Russellian monism](/concepts/russellian-monism/)—the view that the intrinsic nature of physical properties is itself experiential—offers a related reframing: consciousness was never absent from the physical world, only from physics' structural descriptions of it. Like panpsychism, it faces the combination problem, but it promises to dissolve the evolution question by making experience coextensive with the physical.
+[Process philosophy](/concepts/process-philosophy/), [panpsychism](/concepts/panpsychism/), and [enactivism](/topics/enactivism-challenge-to-interactionist-dualism/) deny the central premise—that consciousness appeared where none existed before. Enactivism's "deep continuity thesis" treats mind as continuous with life itself—where there is autopoiesis, there is at least proto-mentality—but this continuity claim inherits the hard problem: why is self-maintaining biological organisation accompanied by experience? If experiential properties are fundamental, evolution organised pre-existing experiential properties into complex, unified experiences. The question shifts from "why did experience arise?" to "how did experiential integration increase?"—a scalar question that evolution handles well. But this introduces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness? [Russellian monism](/concepts/russellian-monism/)—the view that the intrinsic nature of physical properties is itself experiential—offers a related reframing: consciousness was never absent from the physical world, only from physics' structural descriptions of it. Like panpsychism, it faces the combination problem, but it promises to dissolve the evolution question by making experience coextensive with the physical.
 
 ### Embrace Dualism
 
@@ -165,6 +168,9 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 - [russellian-monism](/concepts/russellian-monism/) — The view that the intrinsic nature of physical properties is experiential
 - [functionalism](/concepts/functionalism/) — The philosophical framework that grounds functional explanation
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Where consciousness begins in the biological world
+- [baseline-cognition](/concepts/baseline-cognition/) — What sophisticated neural processing achieves without consciousness
+- [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) — How computational biology's retreat from substrate independence concedes the dualist point
+- [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — Enactivism's deep continuity thesis and the hard problem it inherits
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Limits of reductive explanation
 
 ## References

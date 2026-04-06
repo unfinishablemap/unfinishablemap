@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-02 21:38:00+00:00
+ai_modified: 2026-04-06 21:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Consciousness and matter causally influence each other. This tenet 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 21:02:00+00:00
+last_deep_review: 2026-04-06 21:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,8 +98,6 @@ The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidenc
 **OCD self-directed neuroplasticity**: Jeffrey Schwartz's four-step cognitive protocol (Relabel, Reattribute, Refocus, Revalue) found that OCD patients using cognitive-behavioural techniques—no medication—showed normalisation of hyperactive caudate nucleus metabolism on PET imaging (Schwartz, 1998). However, the original study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and lacked comparison with standard exposure-response prevention therapy. The finding is suggestive but the materialist counter-explanation—that behavioural change produces neural change through standard Hebbian learning—remains viable.
 
 **Psychotherapy pathway divergence**: CBT and pharmacotherapy produce comparable clinical outcomes through *different neural pathways*. A 2022 meta-analysis (302 depressed subjects, 18 experiments) found CBT consistently decreases right amygdala activity through top-down cortical-to-limbic modulation, while SSRIs modulate bottom-up through synaptic neurochemistry (Marzbani et al., 2022). This directional asymmetry holds across depression, anxiety, and OCD—suggesting top-down and bottom-up represent genuinely different causal types rather than different descriptions of the same physical process.
-
-**Meditation neural changes**: A 2024 systematic review documents functional changes from sustained contemplative practice—reduced amygdala reactivity, improved brain connectivity, altered activation patterns (Rodríguez-Martín et al., 2024). However, structural claims (cortical thickening, grey matter density changes) have been weakened: Kral et al. (2022), testing 218 participants with active controls in *Science Advances*, found no structural brain changes from MBSR. Meditation's *functional* effects and the content-specificity of different practices remain philosophically relevant, but structural remodelling claims should be treated with caution pending stronger evidence.
 
 **Placebo neuroplasticity**: Belief states with propositional content ("this treatment will help") recruit opioid and dopamine systems and produce specific neuroplastic changes, with different beliefs about different conditions generating different neural signatures (Marueckova et al., 2024). This is a paradigmatic case of [content-specific mental causation](/concepts/content-specificity-of-mental-causation/): meaning determines which physical effect occurs.
 
@@ -191,7 +189,6 @@ Together with Minimal Quantum Interaction, this tenet commits the Map to [intera
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Schwartz, J. M. (1998). Neuroanatomical aspects of cognitive-behavioural therapy response in obsessive-compulsive disorder. *British Journal of Psychiatry*, 173(Suppl. 35), 38-44.
 1. Marzbani, H., et al. (2022). Neural effects of cognitive behavioral therapy in psychiatric disorders: A systematic review and activation likelihood estimation meta-analysis. *Frontiers in Psychology*, 13, 853804.
-1. Rodríguez-Martín, M. L., et al. (2024). Neurobiological changes induced by mindfulness and meditation: A systematic review. *Biomedicines*, 12(11), 2613.
 1. Marueckova, A., et al. (2024). Placebo stimulates neuroplasticity in depression: Implications for clinical practice and research. *Frontiers in Psychiatry*, 14, 1301143.
 
 <!-- AI REFINEMENT LOG - 2026-03-24

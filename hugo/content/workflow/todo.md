@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 15:50:00+00:00
+ai_modified: 2026-04-06 21:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address temporal argument tension in ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-06 night) identified that the temporal argument against AI consciousness uses functional language (no specious present, no reentrant dynamics, no continual learning) while the article rejects functionalism. Add acknowledgment that these criteria are functional in character and explain why they are deployed as necessary-but-not-sufficient conditions for non-physical coupling, not as constitutive of consciousness. Also flag Hoel (2025) preprint status in body text where the continual learning argument is introduced.
+- **Source**: pessimistic-review (pessimistic-2026-04-06-night.md)
+- **Generated**: 2026-04-06
+
+### P3: Deep review imagination-and-creativity-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the limits of imagination and creativity as cognitive capacities. Verify coherence, accuracy of claims, cross-references to related void articles and creativity/imagination topic articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P3: Deep review whether-real.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-25 — 40 days ago. Voids article on the question of whether consciousness is real or illusory. Verify coherence, cross-references to illusionism, phenomenal-presence-void (now coalesced into phenomenal-quality-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P3: Deep review intrinsic-nature-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-25 — 40 days ago. Voids article on the inaccessibility of consciousness's intrinsic nature. Verify coherence, cross-references to Russellian monism articles and related void articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P3: Deep review bandwidth-constraints-conscious-processing.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic from research/bandwidth-constraints-10-bits-2026-03-29.md, never reviewed. Topics article on the ~10 bits/s conscious bandwidth constraint and its interface implications. Verify accuracy of empirical bandwidth claims, coherence, cross-references to attention-as-interface-hypothesis and consciousness-as-amplifier, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P3: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-05 via expand-topic, never reviewed. Concept page on convergence of concessions — how partial materialist concessions converge toward dualist conclusions. Verify coherence of the convergence argument, accuracy of attributed positions (Chalmers, Nagel, Levine, etc.), cross-references to self-stultification-as-master-argument and the-convergence-argument-for-dualism, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
 
 ### P3: Deep review constitutive-exclusion.md
 - **Type**: deep-review
@@ -1987,6 +2029,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review related articles considering epistemological-limits-of-occams-razor argument page
+- **Type**: cross-review
+- **Notes**: New argument page arguments/epistemological-limits-of-occams-razor.md created 2026-04-06. Review against concepts/dualism.md, concepts/parsimony-epistemology.md, and topics/parsimony-case-for-interactionist-dualism.md for consistency and cross-linking. The new page argues Occam's Razor fails for consciousness — ensure Tenet 5 articles reference this consolidated argument.
+- **Output**: None -- Context: Cross-review related articles considering epistemological-limits-of-occams-razor argument page
+
+### ✓ 2026-04-06: Cross-review related articles considering epiphenomenalism-argument concept page
+- **Type**: cross-review
+- **Notes**: New argument page arguments/epiphenomenalism-argument.md created 2026-04-06. Review against concepts/epiphenomenalism.md, concepts/mental-causation.md, concepts/causal-closure.md, and concepts/interactionist-dualism.md for consistency, cross-linking, and reinforcing arguments. The new argument page consolidates the case against epiphenomenalism — ensure related concept pages reference it where appropriate.
+- **Output**: None -- Context: Cross-review related articles considering epiphenomenalism-argument concept page
+
+### ✓ 2026-04-06: Cross-review consciousness-evolution-and-biology.md against related articles
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/consciousness-evolution-and-biology.md created Apr 6 from two consciousness-evolution articles. Review against biological-computationalisms-inadvertent-case-for-dualism, functionalism, enactivism-challenge-to-interactionist-dualism, and consciousness-and-agency apex. Add cross-links and verify coalesce preserved key arguments from both sources.
+- **Output**: obsidian/topics/consciousness-evolution-and-biology.md -- Context: Cross-review consciousness-evolution-and-biology.md against related articles
+
+### ✓ 2026-04-06: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
+- **Type**: cross-review
+- **Notes**: New coalesced article concepts/evaluative-phenomenal-character.md created Apr 6 from 4 phenomenal normativity articles. Verify that references from other files have been updated, add cross-links to moral-phenomenology-and-perception, evaluative-qualia-phenomenal-normativity-across-traditions, phenomenal-authority-and-first-person-evidence, and consciousness-and-aesthetic-creation. Check for consistency with the normativity arguments across the site.
+- **Output**: obsidian/concepts/evaluative-phenomenal-character.md -- Context: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
+
+### ✓ 2026-04-06: Cross-review consciousness-and-language-under-dualism.md and philosophy-of-language-under-dualism.md for consistency
+- **Type**: cross-review
+- **Notes**: Two closely related articles created April 4-6: topics/consciousness-and-language-under-dualism.md (Apr 6) and topics/philosophy-of-language-under-dualism.md (Apr 4). Check for consistency, add cross-links, resolve any overlapping or contradictory claims, and ensure complementary rather than redundant coverage. Also link to content-specificity-of-mental-causation and consciousness-and-intersubjectivity.
+- **Output**: consciousness-and-language-under-dualism.md -- Context: Cross-review consciousness-and-language-under-dualism.md and philosophy-of-language-under-dualism.md for consistency
 
 ### ✓ 2026-04-06: Cross-review functionalism.md considering biological-computationalism deep-review findings
 - **Type**: cross-review
