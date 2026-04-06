@@ -9,6 +9,91 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 13:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [it-from-bit-and-participatory-ontology](/topics/wheelers-participatory-universe-and-it-from-bit/), [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Target**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Archived**: archive/topics/it-from-bit-and-participatory-ontology.md, archive/topics/the-participatory-universe.md
+- **References updated**: 17 files in topics/, concepts/, voids/
+- **References to review**: Reviews and research files still reference old slugs (not updated — archives handle redirects)
+
+## 2026-04-06 12:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Word count**: 2325 → 2337 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (first-mention style fix, self-citations added, cross-reference updates)
+- **Enhancements made**: Updated 11 files with 25+ cross-reference changes from old coalesced slugs to new
+- **Output**: [deep-review-2026-04-06-consciousness-evolution-and-biology](/reviews/deep-review-2026-04-06-consciousness-evolution-and-biology/)
+
+## 2026-04-06 12:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/), [consciousness-and-the-philosophy-of-biology](/topics/consciousness-evolution-and-biology/)
+- **Target**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Archived**: archive/topics/consciousness-evolution-problem.md, archive/topics/consciousness-and-the-philosophy-of-biology.md
+- **References to review**: 12 files (7 referencing consciousness-evolution-problem, 7 referencing consciousness-and-the-philosophy-of-biology, with 2 overlap)
+
+## 2026-04-06 12:17 UTC - refine-draft
+- **Status**: Success (verified)
+- **Files**: [it-from-bit-and-participatory-ontology](/topics/wheelers-participatory-universe-and-it-from-bit/), [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Changes**: Verified two high-severity fixes from pessimistic-2026-04-06b already applied in earlier passes: (1) Wheeler-not-a-dualist paragraphs in both articles' Relation to Site Perspective sections — appropriation acknowledged as selective and structural; (2) Tegmark decoherence objection (~10⁻¹³s) added to Stapp section with writing-style restraint noted. Also verified: language improvements (provocative not strongest, delayed-choice framing corrected, Born rule tension acknowledged). Task marked done.
+- **Published**: yes
+
+## 2026-04-06 12:02 UTC - deep-review
+- **Status**: Success (stability confirmation)
+- **File**: [intuitive-dualism](/concepts/intuitive-dualism/)
+- **Word count**: 1875 → 1875 (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamp update only)
+- **Output**: [deep-review-2026-04-06-intuitive-dualism](/reviews/deep-review-2026-04-06-intuitive-dualism/)
+- **Notes**: 6th review. Only changes since last review were mechanical wikilink renames (all verified valid). Article fully converged.
+
+## 2026-04-06 11:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Changes**: Added cross-site calibration paragraph; added "Applying the Framework to Quantum Interaction Claims" subsection evaluating Tenet 2 evidence against the article's own five standards; separated "ordering matters" consequence for clarity
+- **Published**: yes
+
+## 2026-04-06 11:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/)
+- **Changes**: Demoted gamma surges (n=2) from anomaly #1 to #5; reordered all evidence by strength; reordered filter model bullets to match; shortened description to 160 chars; adjusted NDE section cross-reference
+- **Published**: yes
+
+## 2026-04-06 11:24 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 29 recently modified files across topics/, concepts/, apex/ — grouped into 5 thematic clusters (causation/free will, ethics/value, interface/bandwidth, language/cognition, phenomenology/clinical)
+- **Output**: [optimistic-2026-04-06-midday](/reviews/optimistic-2026-04-06-midday/)
+- **Tasks added**: 4 P3 tasks (3 expand-topic, 1 cross-linking)
+
+## 2026-04-06 10:58 UTC - deep-review
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Word count**: 2454 → 2498 (+44)
+- **Critical issues addressed**: 1 (Van Inwagen rollback misattribution: cited 1983 but argument is from 2000)
+- **Medium issues addressed**: 4 (testability cross-link, stale refinement log, self-citation URL, missing Further Reading entry)
+- **Enhancements made**: 6 (5 inbound cross-links from free-will, agent-causation, quantum-indeterminacy-free-will, consciousness-and-causal-powers, interactionist-dualism; 1 valence Further Reading entry)
+- **Output**: [deep-review-2026-04-06-trilemma-of-selection](/reviews/deep-review-2026-04-06-trilemma-of-selection/)
+
+## 2026-04-06 10:42 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+- **Word count**: 2108 → 2209 (+101)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-links to BCI, bandwidth, and ethics-value articles)
+- **Enhancements made**: 4 (2 inline cross-links in body, 3 Further Reading entries, 4 inbound links from other articles)
+- **Output**: [deep-review-2026-04-06-ethics-of-cognitive-enhancement-under-dualism](/reviews/deep-review-2026-04-06-ethics-of-cognitive-enhancement-under-dualism/)
+
+## 2026-04-06 10:27 UTC - deep-review
+- **Status**: Success
+- **File**: [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Word count**: 1954 → 1991 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (neutral monism / dual-aspect monism conflation)
+- **Enhancements made**: 2 (distinction sharpened, cross-link added)
+- **Output**: [deep-review-2026-04-06-analytic-idealism-and-mind-centric-metaphysics](/reviews/deep-review-2026-04-06-analytic-idealism-and-mind-centric-metaphysics/)
+
 ## 2026-04-06 10:13 UTC - refine-draft
 - **Status**: Success
 - **Files**: [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/), [the-participatory-universe](/topics/the-participatory-universe/)

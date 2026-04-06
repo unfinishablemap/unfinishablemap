@@ -67,7 +67,7 @@ This is internal to QBism's own explanatory structure, not an external demand th
 
 ### The Participation Ambiguity
 
-John [[the-participatory-universe|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" attempt to capture something important: observation is active, not passive. The user of quantum mechanics participates in constituting facts.
+John [[wheelers-participatory-universe-and-it-from-bit|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" attempt to capture something important: observation is active, not passive. The user of quantum mechanics participates in constituting facts.
 
 Fuchs writes that participatory realism represents "attempts to make a deep statement about the nature of reality"—far from instrumentalism.
 

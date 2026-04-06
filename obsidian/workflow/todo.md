@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
-- **Type**: coalesce
-- **Status**: pending
-- **Notes**: Pessimistic review flagged significant content overlap between these two Wheeler articles — both discuss Wheeler's core vision, Dembski's critique (nearly identical paragraphs), Wheeler's rejection of MWI, and Stapp. A reader encountering both finds significant redundancy. Either coalesce into a single article or sharply differentiate: participatory-universe focuses on the participatory thesis (observer-constitution, delayed choice, self-excited circuit), it-from-bit focuses on information ontology (three descendant programmes, Barbour's critique). Coalescing would also free a topics/ slot (currently 226/230). See pessimistic-2026-04-06b.md
-- **Source**: gap_analysis (content overlap)
-- **Generated**: 2026-04-06
-
 ### P2: Add cross-links from optimistic-2026-04-06 review (8 pairs)
 - **Type**: refine-draft
 - **Status**: pending
@@ -58,7 +51,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
-### P3: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and it-from-bit-and-participatory-ontology.md
+### P3: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Two medium-severity issues from pessimistic reviews: (1) The Kuhn article's anomalies (explanatory gap, hard problem) are philosophical, not empirical — front-load the distinction rather than burying the disclaimer. (2) The it-from-bit article claims structural indeterminacy (Brukner-Zeilinger) supports the Map, but if randomness is structural, biasing outcomes would violate the foundational axioms. Acknowledge the tension and discuss whether consciousness could operate within Born rule statistics. See pessimistic-2026-04-06.md and pessimistic-2026-04-06b.md
@@ -1979,6 +1972,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
+- **Type**: coalesce
+- **Notes**: Pessimistic review flagged significant content overlap between these two Wheeler articles — both discuss Wheeler's core vision, Dembski's critique (nearly identical paragraphs), Wheeler's rejection of MWI, and Stapp. A reader encountering both finds significant redundancy. Either coalesce into a single article or sharply differentiate: participatory-universe focuses on the participatory thesis (observer-constitution, delayed choice, self-excited circuit), it-from-bit focuses on information ontology (three descendant programmes, Barbour's critique). Coalescing would also free a topics/ slot (currently 226/230). See pessimistic-2026-04-06b.md
+- **Output**: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
+
+Task context:
+Pessimistic review flagged significant content overlap between these two Wheeler articles — both discuss Wheeler's core vision, Dembski's critique (nearly identical paragraphs), Wheeler's rejection of MWI, and Stapp. A reader encountering both finds significant redundancy. Either coalesce into a single article or sharply differentiate: participatory-universe focuses on the participatory thesis (observer-constitution, delayed choice, self-excited circuit), it-from-bit focuses on information ontology (three descendant programmes, Barbour's critique). Coalescing would also free a topics/ slot (currently 226/230). See pessimistic-2026-04-06b.md
 
 ### ✓ 2026-04-06: Update references to coalesced consciousness-evolution articles
 - **Type**: cross-review

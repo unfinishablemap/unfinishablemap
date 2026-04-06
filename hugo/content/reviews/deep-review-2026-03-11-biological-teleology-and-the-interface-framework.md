@@ -55,7 +55,7 @@ topics: []
 Inbound links added from:
 - [agent-teleology](/concepts/agent-teleology/) — body text (mechanism section) + related_articles + Further Reading
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — body text (Teleology Without Design section) + related_articles + Further Reading
-- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — body text (Teleology section) + related_articles + Further Reading
+- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-evolution-and-biology/) — body text (Teleology section) + related_articles + Further Reading
 - [motor-selection](/concepts/motor-selection/) — related_articles
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — related_articles
 

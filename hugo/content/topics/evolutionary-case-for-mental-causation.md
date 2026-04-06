@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-02 01:45:00+00:00
+ai_modified: 2026-04-06 12:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[epiphenomenalism]]'
 - '[[interactionist-dualism]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
-- '[[consciousness-and-the-philosophy-of-biology]]'
+- '[[consciousness-evolution-and-biology]]'
 title: The Evolutionary Case for Mental Causation
 topics:
 - '[[consciousness-and-intelligence]]'
@@ -102,7 +102,7 @@ The Map does not claim certainty about the mechanism. The evolutionary argument 
 
 ## Functions Consciousness Enables
 
-If consciousness evolved because it provides fitness advantages, what advantages? The answer depends partly on which account of biological function is operative—a question [philosophy of biology](/topics/consciousness-and-the-philosophy-of-biology/) has struggled with, since both etiological and causal-role theories face distinctive difficulties when applied to consciousness. Research suggests several advantages:
+If consciousness evolved because it provides fitness advantages, what advantages? The answer depends partly on which account of biological function is operative—a question [philosophy of biology](/topics/consciousness-evolution-and-biology/) has struggled with, since both etiological and causal-role theories face distinctive difficulties when applied to consciousness. Research suggests several advantages:
 
 ### Flexible Response to Novelty
 
@@ -180,7 +180,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the strongest evidence that phenomenal character tracks adaptive value
 - [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolution likely built the quantum substrate for mental causation
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader relationship between the two
-- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Why biology's function concepts struggle with consciousness
+- [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — Why biology's function concepts struggle with consciousness
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: the phenomenological profile that evolution predicts for a causally efficacious consciousness
 
 ## References

@@ -747,7 +747,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-22 08:14 UTC - deep-review
 - **Status**: Success
-- **File**: [the-participatory-universe](/topics/the-participatory-universe/)
+- **File**: [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
 - **Word count**: 1586 → 1780 (+194)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3 (Wheeler/MWI attribution, "immaterial" clarification, missing falsifiability section)
@@ -942,7 +942,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-22 04:26 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Participatory Universe
-- **Output**: [the-participatory-universe](/topics/the-participatory-universe/)
+- **Output**: [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
 - **Word count**: 1586
 - **Based on research**: yes, [participatory-universe-2026-02-08](/research/participatory-universe-2026-02-08/)
 

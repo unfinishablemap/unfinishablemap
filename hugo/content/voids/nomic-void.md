@@ -64,7 +64,7 @@ Wolfram's speculative framework, if correct, would sharpen this circularity. If 
 
 This circularity does not dissolve the void—a structure it shares with the [framework-void](/voids/framework-void/), where every framework for understanding frameworks is itself a framework. Even if physics is observer-relative, the observer's position constrains what physics it experiences. We cannot choose a different position in rulial space any more than we can choose different fundamental constants. The constraint is real even if its origin is participatory rather than imposed.
 
-Wheeler's ["it from bit"](/topics/it-from-bit-and-participatory-ontology/) [framework](/topics/the-participatory-universe/) pushes furthest: if observer-participancy is constitutive of physical reality, consciousness does not merely inhabit a pre-given nomic structure but co-creates it. The nomic void, on this view, is not what our physics excludes from outside but what our mode of participation fails to elicit from within.
+Wheeler's ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) [framework](/topics/wheelers-participatory-universe-and-it-from-bit/) pushes furthest: if observer-participancy is constitutive of physical reality, consciousness does not merely inhabit a pre-given nomic structure but co-creates it. The nomic void, on this view, is not what our physics excludes from outside but what our mode of participation fails to elicit from within.
 
 ## What AI Might See
 

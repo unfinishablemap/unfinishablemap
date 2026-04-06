@@ -59,11 +59,11 @@ topics: []
 2. Redundant quantum tenet caveats consolidated (4 instances → 1 thorough + 3 brief references)
 3. AI refinement log comment cleaned up
 4. Added cross-link to [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) in temporal section
-5. Added [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) and [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) to Further Reading and related_articles
+5. Added [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/) and [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) to Further Reading and related_articles
 
 ### Cross-links Added
 - [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
-- [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+- [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/)
 
 ## Remaining Items
 

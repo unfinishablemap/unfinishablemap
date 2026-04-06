@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-06 08:12:00+00:00
+ai_modified: 2026-04-06 12:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[experimental-consciousness-science-2025-2026]]'
-- '[[consciousness-and-the-philosophy-of-biology]]'
+- '[[consciousness-evolution-and-biology]]'
 - '[[pragmatisms-path-to-dualism]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
 title: Biological Computationalism's Inadvertent Case for Dualism
@@ -69,7 +69,7 @@ Biological computationalism is not an isolated case. Multiple physicalist resear
 
 [Integrated Information Theory](/concepts/integrated-information-theory/) rejects substrate independence by tying consciousness to intrinsic causal power—not all systems with the right functional profile are conscious, only those with irreducible integrated information. [Global Workspace Theory](/concepts/global-workspace-theory/) ties consciousness to specific neural architectures rather than abstract computational properties. Higher-order theories (Rosenthal 2005) require specific representational structures that may not transfer across substrates.
 
-Each theory, developed to defend physicalism against the hard problem, ends up narrowing the class of conscious systems in ways that undermine the functionalist response to dualism. The pattern is consistent: the more precisely physicalists specify what consciousness requires, the more their specifications look like the dualist's insistence that something beyond abstract function is needed. The [philosophy of biology](/topics/consciousness-and-the-philosophy-of-biology/) reveals the same structural limitation from another angle: biology's own conceptual toolkit—function, teleology, adaptation—lacks the resources to explain why physical processes are accompanied by experience.
+Each theory, developed to defend physicalism against the hard problem, ends up narrowing the class of conscious systems in ways that undermine the functionalist response to dualism. The pattern is consistent: the more precisely physicalists specify what consciousness requires, the more their specifications look like the dualist's insistence that something beyond abstract function is needed. The [philosophy of biology](/topics/consciousness-evolution-and-biology/) reveals the same structural limitation from another angle: biology's own conceptual toolkit—function, teleology, adaptation—lacks the resources to explain why physical processes are accompanied by experience.
 
 ## What "The Algorithm Is the Substrate" Really Says
 
@@ -102,7 +102,7 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 - [adaptive-computational-depth](/concepts/adaptive-computational-depth/) — Why consciousness-driven depth allocation resists computation
 - [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) — Recent empirical results including Milinkovic and Aru
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem biological computationalism relocates
-- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Biology's broader relevance to consciousness
+- [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — Biology's broader relevance to consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and experience
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — Functionalism's architect abandoning his own creation
 - [integrated-information-theory](/concepts/integrated-information-theory/) — Another physicalist theory that narrows toward dualism

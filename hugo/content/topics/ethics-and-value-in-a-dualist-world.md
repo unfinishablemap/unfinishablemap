@@ -26,6 +26,7 @@ related_articles:
 - '[[living-with-the-map]]'
 - '[[meaning-of-life]]'
 - '[[moral-architecture-of-consciousness]]'
+- '[[ethics-of-cognitive-enhancement-under-dualism]]'
 title: Ethics and Value in a Dualist World
 topics:
 - '[[ethics-of-consciousness]]'

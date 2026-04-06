@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-01
-**Article**: [Consciousness and the Philosophy of Biology](/topics/consciousness-and-the-philosophy-of-biology/)
+**Article**: [Consciousness and the Philosophy of Biology](/topics/consciousness-evolution-and-biology/)
 **Previous review**: [2026-02-23](/reviews/deep-review-2026-02-23-consciousness-and-the-philosophy-of-biology/)
 
 ## Pessimistic Analysis Summary
@@ -70,7 +70,7 @@ Six adversarial personas engaged:
 Inbound links added FROM these articles TO consciousness-and-the-philosophy-of-biology:
 
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — Body text reference in Teleology Without Design section + Further Reading + related_articles
-- [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Body text reference in Why Functional Explanation Falls Short section + Further Reading + related_articles
+- [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/) — Body text reference in Why Functional Explanation Falls Short section + Further Reading + related_articles
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Body text reference in Functions Consciousness Enables section + Further Reading + related_articles
 - [animal-consciousness](/topics/animal-consciousness/) — Body text reference in Multiple Independent Origins section + related_articles
 - [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) — Body text reference in Why the Induction Fails section + related_articles

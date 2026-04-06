@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-06 12:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ last_curated: null
 last_deep_review: 2026-03-24 20:39:00+00:00
 modified: *id001
 related_articles:
-- '[[consciousness-evolution-problem]]'
+- '[[consciousness-evolution-and-biology]]'
 - '[[resolution-bandwidth-interface]]'
 - '[[tenets]]'
 - '[[ai-machine-consciousness-2026-01-08]]'
@@ -198,7 +198,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — Could AI experience without causal efficacy?
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Consciousness without temporal structure
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — Can AI inherit quantum states relevant to consciousness?
-- [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Why consciousness poses an evolutionary puzzle relevant to AI
+- [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — Why consciousness poses an evolutionary puzzle relevant to AI
 - [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) — How consciousness's coarse-grained nature constrains interface design
 - [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions and five models of AI phenomenology
 - [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six logical categories for what AI systems might or might not experience

@@ -75,7 +75,7 @@ John Archibald Wheeler proposed the most radical solution: the universe *did* re
 
 Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with conscious observation selecting which history becomes actual—not moment by moment, but across the entire temporal span.
 
-This resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." See [the-participatory-universe](/topics/the-participatory-universe/) for full treatment and [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) for how Dembski's informational realism avoids the circularity of Wheeler's self-excited circuit. The participatory universe remains philosophically coherent but highly speculative.
+This resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." See [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment and [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for how Dembski's informational realism avoids the circularity of Wheeler's self-excited circuit. The participatory universe remains philosophically coherent but highly speculative.
 
 ### 2. Panpsychism and Proto-Experience
 
@@ -220,7 +220,7 @@ The Map's commitment is to the *framework* (real collapse + consciousness modula
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-collapse interaction
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
 - [measurement-problem](/concepts/measurement-problem/) — Why collapse remains unexplained
-- [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) — Wheeler's "it from bit" thesis and its descendant programmes
+- [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's "it from bit" thesis and its descendant programmes
 - [panpsychism](/concepts/panpsychism/) — The alternative where experience is fundamental
 - [decoherence](/concepts/decoherence/) — The challenge of quantum coherence in biological systems
 - [illusionism](/concepts/illusionism/) — The radical physicalist response and why it doesn't dissolve the problem

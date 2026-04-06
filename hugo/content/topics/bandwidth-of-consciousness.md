@@ -170,7 +170,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) attributes so
 
 Skills that begin as conscious, bandwidth-consuming processes become automatic with practice—moving outside the conscious channel, freeing bandwidth for other selections.
 
-This explains why elite performers do not widen the bottleneck. Memory athletes compress arbitrary sequences into familiar spatial patterns; expert typists chunk letter sequences so each conscious selection triggers multiple keystrokes. Expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity.
+This explains why elite performers do not widen the bottleneck. Memory athletes compress arbitrary sequences into familiar spatial patterns; expert typists chunk letter sequences so each conscious selection triggers multiple keystrokes. Expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity. This distinction matters for [cognitive enhancement ethics](/topics/ethics-of-cognitive-enhancement-under-dualism/): technologies that widen the interface channel would be fundamentally different from those that merely accelerate the brain's pre-conscious processing.
 
 On the interface model, consciousness trains neural systems to execute patterns autonomously, then withdraws to address new challenges. The brain learns what consciousness selects; consciousness selects what the brain hasn't yet learned.
 
@@ -244,6 +244,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [grain-mismatch](/concepts/grain-mismatch/) — The resolution asymmetry tied to bandwidth constraints
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive linguistic structure as bandwidth compression
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
+- [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Ethical implications of modifying the interface's bandwidth
 
 ## References
 

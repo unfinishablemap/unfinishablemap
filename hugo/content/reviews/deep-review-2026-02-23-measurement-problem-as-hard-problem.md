@@ -67,7 +67,7 @@ All six personas engaged. No new counterarguments surfaced beyond those already 
 
 **Outbound from target article (new):**
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
-- [the-participatory-universe](/topics/the-participatory-universe/)
+- [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
 - [prebiotic-collapse](/concepts/prebiotic-collapse/)
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
 

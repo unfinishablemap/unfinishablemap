@@ -51,7 +51,7 @@ Primary focus of this review was **orphan integration** — the article had zero
 
 ### Cross-links Added (5 inbound links from existing articles)
 1. **[The Simulation Hypothesis](/concepts/simulation/)** — Added inline link in the Minimal Quantum Interaction section where the article discusses the simulator not pre-calculating every quantum outcome. Natural connection: simulation efficiency = adaptive computational depth.
-2. **[The Participatory Universe](/topics/the-participatory-universe/)** — Added inline link in the "It from bit" description. Natural connection: Wheeler's participatory universe is adaptive depth avant la lettre.
+2. **[The Participatory Universe](/topics/wheelers-participatory-universe-and-it-from-bit/)** — Added inline link in the "It from bit" description. Natural connection: Wheeler's participatory universe is adaptive depth avant la lettre.
 3. **[Consciousness and the Physics of Information](/topics/consciousness-and-the-physics-of-information/)** — Added inline link in the "Information as Interface" section where Wheeler's framework is discussed. Natural connection: information concentrating where observers engage.
 4. **[Consciousness-Selecting Neural Patterns](/concepts/consciousness-selecting-neural-patterns/)** — Added inline link in the bandwidth constraint section after the policy-level selection explanation. Natural connection: coarse-grained selection = adaptive depth.
 5. **[Prebiotic Collapse](/concepts/prebiotic-collapse/)** — Added inline link in the Map's Position section where consciousness modulation of collapse is described. Natural connection: baseline resolution everywhere with consciousness increasing depth locally.

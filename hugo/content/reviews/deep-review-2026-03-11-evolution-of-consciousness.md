@@ -70,7 +70,7 @@ All previously identified counterarguments remain at bedrock philosophical stand
 - Trimmed Further Reading descriptions for length neutrality
 
 ### Cross-links Added
-- [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+- [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/)
 - [evolution-of-consciousness-dualist-perspective](/topics/evolution-under-dualism/)
 
 ## Word Count Change

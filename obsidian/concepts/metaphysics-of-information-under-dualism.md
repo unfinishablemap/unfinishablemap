@@ -74,7 +74,7 @@ The Map's preferred position. Information is the *medium of interaction* between
 - Phenomenal content is real and non-physical—the qualitative character of conscious experience.
 - Information serves as the interface because consciousness interacts with the physical world by biasing which physical information states become actual (through [[psychophysical-laws#attention|quantum selection]]).
 
-This preserves genuine dualism (mind and matter remain distinct) while explaining why information appears in both domains: it is the point of contact. The position resonates with Wheeler's [[it-from-bit-and-participatory-ontology|"it from bit"]] programme, which treats information as constitutive of physical reality—though the Map stops short of Wheeler's idealist implications, insisting that both the physical and the phenomenal remain irreducible. The Map's account of [[adaptive-computational-depth|adaptive computational depth]] extends this: the informational resolution of reality varies with conscious engagement, concentrating detail where consciousness attends.
+This preserves genuine dualism (mind and matter remain distinct) while explaining why information appears in both domains: it is the point of contact. The position resonates with Wheeler's [[wheelers-participatory-universe-and-it-from-bit|"it from bit"]] programme, which treats information as constitutive of physical reality—though the Map stops short of Wheeler's idealist implications, insisting that both the physical and the phenomenal remain irreducible. The Map's account of [[adaptive-computational-depth|adaptive computational depth]] extends this: the informational resolution of reality varies with conscious engagement, concentrating detail where consciousness attends.
 
 #### What the Interface-Medium View Requires
 
@@ -157,7 +157,7 @@ The metaphysics of information connects to each of the Map's tenets.
 - [[consciousness-and-causal-powers]] — The causal efficacy of consciousness
 - [[decoherence]] — The quantum process that challenges and constrains neural-scale interaction models
 - [[attention-as-causal-bridge]] — How attention serves as the mechanism through which semantic information reaches physical processes
-- [[it-from-bit-and-participatory-ontology]] — Wheeler's "it from bit" and its descendant programmes on information ontology
+- [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's "it from bit" and its descendant programmes on information ontology
 
 ## References
 

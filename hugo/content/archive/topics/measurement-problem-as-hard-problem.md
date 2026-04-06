@@ -114,7 +114,7 @@ If the measurement problem is a species of hard problem, several consequences fo
 
 **The decoherence "solution" is parallel to functionalism.** Functionalism in philosophy of mind accounts for the structure of mental states but leaves the [explanatory-gap](/concepts/explanatory-gap/) intact—it explains functional organisation without explaining why that organisation is accompanied by experience. Decoherence accounts for the structure of measurement outcomes (basis selection, suppression of interference) but leaves the selection gap intact—it explains why certain outcomes are possible without explaining why one becomes actual. Both solve the easy problems while leaving the hard problem untouched.
 
-**Interpretations reveal unstated commitments about consciousness.** Wheeler's [participatory universe](/topics/the-participatory-universe/) thesis—"no phenomenon is a phenomenon until it is an observed phenomenon"—follows naturally from treating the measurement problem as a hard problem instance. If first-person facts are ineliminable at measurement, then observers do not passively witness outcomes but participate in constituting them. Wheeler reached this conclusion from within physics; the structural parallel provides the philosophical rationale.
+**Interpretations reveal unstated commitments about consciousness.** Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis—"no phenomenon is a phenomenon until it is an observed phenomenon"—follows naturally from treating the measurement problem as a hard problem instance. If first-person facts are ineliminable at measurement, then observers do not passively witness outcomes but participate in constituting them. Wheeler reached this conclusion from within physics; the structural parallel provides the philosophical rationale.
 
 **The "consciousness causes collapse" hypothesis is too strong.** The strong von Neumann-Wigner claim—that consciousness is the sole cause of collapse—parallels claiming that consciousness creates physical reality, a form of idealism that the Map does not endorse. The Map's position is more restrained: consciousness participates in determining which outcome becomes actual, within the constraints physics provides. This parallels interactionist dualism rather than idealism—consciousness influences the physical without constituting it entirely.
 
@@ -146,7 +146,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against prema
 - [free-will](/topics/free-will/) — How the selection gap connects to agent causation and libertarian free will
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — How this structural parallel contributes to the cumulative case for dualism
-- [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's thesis that observers constitute reality through measurement
+- [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's thesis that observers constitute reality through measurement
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How definite outcomes obtained before conscious observers existed
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science's methodology reinforces the first-person/third-person distinction
 

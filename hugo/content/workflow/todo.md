@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 08:42:00+00:00
+ai_modified: 2026-04-06 11:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate stochastic-amplification-and-neural-selection into site navigation
-- **Type**: integrate-orphan
+### ~~P2: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md~~
+- **Type**: coalesce
+- **Status**: complete
+- **Completed**: 2026-04-06
+- **Result**: Coalesced into wheelers-participatory-universe-and-it-from-bit.md. Both originals archived. 17 files updated with new wikilinks.
+
+### P2: Add cross-links from optimistic-2026-04-06 review (8 pairs)
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, and non-retrocausal-conscious-selection-models — or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
+- **Notes**: Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
+- **Source**: chain (from optimistic-review 2026-04-06)
 - **Generated**: 2026-04-06
 
-### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports into site navigation
-- **Type**: integrate-orphan
+### P3: Write article on phenomenology of perceptual learning
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and phenomenological-method-and-evidence-standards — or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
+- **Notes**: Suggested by optimistic review. Wine experts, radiologists, and musicians report qualitative shifts in what they perceive — genuinely new phenomenal properties arising from training, not just better discrimination. Bears directly on whether consciousness contributes to cognition or merely accompanies it. Builds on contemplative-epistemology, perception, phenomenal-contrast-method. Target section: topics/ (226/230). See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Two medium-severity issues from pessimistic reviews: (1) The Kuhn article's anomalies (explanatory gap, hard problem) are philosophical, not empirical — front-load the distinction rather than burying the disclaimer. (2) The it-from-bit article claims structural indeterminacy (Brukner-Zeilinger) supports the Map, but if randomness is structural, biasing outcomes would violate the foundational axioms. Acknowledge the tension and discuss whether consciousness could operate within Born rule statistics. See pessimistic-2026-04-06.md and pessimistic-2026-04-06b.md
+- **Source**: pessimistic-review
 - **Generated**: 2026-04-06
 
 ### P3: Create concept page for materialism-argument
@@ -1936,8 +1949,73 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-05
 
+### P3: Write article on somatic embodiment of evaluative experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The ethics/value cluster focuses on phenomenal value but remains abstract about the bodily dimension — rage in the chest, moral vertigo, compassion as physical opening. Connects evaluative-qualia cross-traditional convergence (contemplative traditions emphasise embodied awareness) to the interface programme. Builds on evaluative-qualia, consciousness-and-normative-force, embodied-consciousness-and-the-interface. Target section: topics/ (225/230). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on moral status of possible artificial consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The ethics articles treat AI consciousness only tangentially. If consciousness grounds moral status, what follows for systems that might or might not be conscious? Builds on moral-architecture-of-consciousness, ai-consciousness, ethics-and-value-in-a-dualist-world. Target section: topics/ (225/230). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on disorders of conscious agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Anarchic hand syndrome, dissociative disorders, and congenital insensitivity to pain reveal the structure of conscious agency by breakdown. The causation/free will cluster mentions these briefly but a dedicated treatment would strengthen the empirical case for agent causation. Builds on agent-causation, consciousness-and-causal-powers, phenomenology-of-choice-and-volition. Target section: topics/ (225/230). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Add cross-links from optimistic-2026-04-06-midday review (9 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review identified 9 cross-linking opportunities: (1) phenomenal-binding-and-multimodal-integration → bandwidth-of-consciousness (inverse effectiveness and bandwidth asymmetry), (2) language-recursion-and-consciousness → binding-problem (recursive parsing as conscious binding), (3) biological-computationalisms-inadvertent-case-for-dualism → adaptive-computational-depth (resource allocator outside computation), (4) consciousness-and-normative-force → moral-architecture-of-consciousness (moral conflict phenomenology), (5) hypnagogic-phenomenology-and-interface-modulation → bandwidth-of-consciousness (receiving without transmitting), (6) pragmatism-and-qbism → born-rule-and-the-consciousness-interface (normative Born rule), (7) clinical-evidence-quality-standards → quantum-biology-and-neural-consciousness (self-consistent standards application), (8) ethics-of-cognitive-enhancement-under-dualism → moral-architecture-of-consciousness (ethical foundation), (9) consciousness-under-extreme-metabolic-constraint → anaesthesia-and-the-consciousness-interface (agent-specific profiles). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Update references to coalesced consciousness-evolution articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/) and [consciousness-and-the-philosophy-of-biology](/topics/consciousness-evolution-and-biology/) into [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/). The following files reference archived articles and may need review: evolution-under-dualism.md, consciousness-and-intelligence.md, biological-teleology-and-the-interface-framework.md, ai-consciousness.md, the-strong-emergence-of-consciousness.md, evolution-of-consciousness.md, evolutionary-case-for-quantum-neural-effects.md, functionalism.md, evolutionary-case-for-mental-causation.md, biological-computationalisms-inadvertent-case-for-dualism.md, animal-consciousness.md
+- **Output**: None -- Context: Update references to coalesced consciousness-evolution articles
+
+### ✓ 2026-04-06: Address Wheeler appropriation and add Tegmark decoherence criticism in Wheeler articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues across topics/it-from-bit-and-participatory-ontology.md and topics/the-participatory-universe.md: (1) Both articles present Wheeler's work as supporting the Map's dualism, but Wheeler was not a dualist — his "immaterial" meant informational, his "observer" was not specifically conscious mind. Add clear paragraphs stating the Map's appropriation is selective and the resonance is structural, not positional. (2) Stapp's quantum Zeno mechanism is presented uncritically without acknowledging Tegmark's 2000 decoherence timescale objection (~10⁻¹³s in neural tissue). The writing-style guide explicitly warns against overemphasis on quantum Zeno. Add the decoherence objection and note it as an open problem. See pessimistic-2026-04-06b.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues across topics/it-from-bit-and-participatory-ontology.md and topics/the-participatory-universe.md: (1) Both articles present Wheeler's work as supporting the Map's dualism, but Wheeler was not a dualist — his "immaterial" meant informational, his "observer" was not specifically conscious mind. Add clear paragraphs stating the Map's appropriation is selective and the resonance is structural, not positional. (2) Stapp's quantum Zeno mechanism is presented uncritically without acknowledging Tegmark's 2000 decoherence timescale objection (~10⁻¹³s in neural tissue). The writing-style guide explicitly warns against overemphasis on quantum Zeno. Add the decoherence objection and note it as an open problem. See pessimistic-2026-04-06b.md
+
+### ✓ 2026-04-06: Address motte-and-bailey and evidence standards self-application in clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The article builds a rigorous five-point evidence framework, correctly downgrades the Map's favourite clinical studies, then retreats to "clinical evidence is supporting rather than foundational" — creating tension with other Map articles that foreground clinical evidence prominently. Ensure calibration is consistent cross-site. (2) The framework is never applied to the Map's quantum interaction claims (Tenet 2), where replication status and control adequacy would score poorly. Add at least a paragraph acknowledging this and noting where quantum claims currently fall short. See pessimistic-2026-04-06.md
+- **Output**: obsidian/topics/clinical-evidence-quality-standards-consciousness-research.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The article builds a rigorous five-point evidence framework, correctly downgrades the Map's favourite clinical studies, then retreats to "clinical evidence is supporting rather than foundational" — creating tension with other Map articles that foreground clinical evidence prominently. Ensure calibration is consistent cross-site. (2) The framework is never applied to the Map's quantum interaction claims (Tenet 2), where replication status and control adequacy would score poorly. Add at least a paragraph acknowledging this and noting where quantum claims currently fall short. See pessimistic-2026-04-06.md
+
+### ✓ 2026-04-06: Address filter theory unfalsifiability and Xu et al. over-reliance in consciousness-under-extreme-metabolic-constraint.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The filter model accommodates every possible metabolic-consciousness relationship by introducing the acute/chronic distinction — no conceivable metabolic pattern would refute it. Add a section identifying what patterns *would* be incompatible with filter theory, or recalibrate confidence to "compatible with" rather than "better explained by." (2) The gamma surge evidence (Xu et al., n=2 positive from n=4) anchors the first and most prominent anomaly despite being precisely the kind of evidence inflation the clinical-evidence-quality-standards article warns against. Demote or flag as "suggestive." See pessimistic-2026-04-06.md
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The filter model accommodates every possible metabolic-consciousness relationship by introducing the acute/chronic distinction — no conceivable metabolic pattern would refute it. Add a section identifying what patterns *would* be incompatible with filter theory, or recalibrate confidence to "compatible with" rather than "better explained by." (2) The gamma surge evidence (Xu et al., n=2 positive from n=4) anchors the first and most prominent anomaly despite being precisely the kind of evidence inflation the clinical-evidence-quality-standards article warns against. Demote or flag as "suggestive." See pessimistic-2026-04-06.md
+
+### ✓ 2026-04-06: Integrate phenomenal-authority-epistemic-weight-first-person-reports into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and phenomenological-method-and-evidence-standards — or update section index pages to include navigation to this content.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-06: Integrate stochastic-amplification-and-neural-selection into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, and non-retrocausal-conscious-selection-models — or update section index pages to include navigation to this content.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-06: Evaluate coalescing it-from-bit and participatory-universe articles
 - **Type**: refine-draft

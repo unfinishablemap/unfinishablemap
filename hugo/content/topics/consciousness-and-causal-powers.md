@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-28 03:42:00+00:00
+ai_modified: 2026-04-06 10:58:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -146,7 +146,7 @@ Why does the nature of consciousness's causal powers matter?
 
 ### For Free Will
 
-If consciousness has no causal powers, libertarian [free-will](/topics/free-will/) is impossible—our choices would be entirely products of prior physical states. If consciousness has unlimited powers, we face the [luck-objection](/concepts/luck-objection/): why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
+If consciousness has no causal powers, libertarian [free-will](/topics/free-will/) is impossible—our choices would be entirely products of prior physical states. The [trilemma-of-selection](/topics/trilemma-of-selection/) makes this explicit: at any indeterminate decision point, the options are determinism, randomness, or mental causation—and only genuine causal powers deliver the third. If consciousness has unlimited powers, we face the [luck-objection](/concepts/luck-objection/): why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
 
 ### For Ethics
 

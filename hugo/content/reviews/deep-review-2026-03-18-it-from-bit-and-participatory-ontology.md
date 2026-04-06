@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [It from Bit and Participatory Ontology](/topics/it-from-bit-and-participatory-ontology/)
+**Article**: [It from Bit and Participatory Ontology](/topics/wheelers-participatory-universe-and-it-from-bit/)
 **Previous review**: [2026-03-15](/reviews/deep-review-2026-03-15-it-from-bit-and-participatory-ontology/)
 
 ## Pessimistic Analysis Summary
@@ -52,12 +52,12 @@ None. The article remains factually accurate, properly attributed, and internall
 
 Eight articles now link to this article:
 
-1. **[the-participatory-universe](/topics/the-participatory-universe/)** — Changed "It from bit" to [It from bit](/topics/it-from-bit-and-participatory-ontology/) in body text; added to Further Reading
-2. **[consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)** — Changed Wheeler's "it from bit" to ["it from bit"](/topics/it-from-bit-and-participatory-ontology/) in body text; added to Further Reading
+1. **[the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)** — Changed "It from bit" to [It from bit](/topics/wheelers-participatory-universe-and-it-from-bit/) in body text; added to Further Reading
+2. **[consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)** — Changed Wheeler's "it from bit" to ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) in body text; added to Further Reading
 3. **[metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/)** — Added to Further Reading
-4. **[qbism](/concepts/qbism/)** — Added ["it from bit"](/topics/it-from-bit-and-participatory-ontology/) reference alongside existing participatory-universe link
-5. **[adaptive-computational-depth](/concepts/adaptive-computational-depth/)** — Changed "Wheeler's 'it from bit'" to ["it from bit"](/topics/it-from-bit-and-participatory-ontology/) wikilink
-6. **[nomic-void](/voids/nomic-void/)** — Split existing combined link into separate ["it from bit"](/topics/it-from-bit-and-participatory-ontology/) and [framework](/topics/the-participatory-universe/) links
+4. **[qbism](/concepts/qbism/)** — Added ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) reference alongside existing participatory-universe link
+5. **[adaptive-computational-depth](/concepts/adaptive-computational-depth/)** — Changed "Wheeler's 'it from bit'" to ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) wikilink
+6. **[nomic-void](/voids/nomic-void/)** — Split existing combined link into separate ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) and [framework](/topics/wheelers-participatory-universe-and-it-from-bit/) links
 7. **[measurement-problem](/concepts/measurement-problem/)** — Added to Further Reading
 8. **[quantum-consciousness](/concepts/quantum-consciousness/)** — Added to Further Reading
 

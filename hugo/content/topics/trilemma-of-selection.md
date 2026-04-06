@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-06 10:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'At any decision point involving genuine indeterminacy, exactly thr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 00:20:00+00:00
+last_deep_review: 2026-04-06 10:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -58,7 +58,7 @@ The Map's response: compatibilism redescribes rather than explains. If the outco
 
 Quantum mechanics breaks determinism. Before measurement, systems exist in superposition; which outcome actualises is not determined by prior states. This creates genuine openness—but openness alone is not freedom.
 
-Van Inwagen's rollback argument makes the problem vivid: rewind time to just before a quantum-indeterminate decision. The agent's complete physical state is identical in every replay. Yet outcomes differ. Nothing about the agent explains the difference. The difference is luck.
+Van Inwagen's rollback argument (2000) makes the problem vivid: rewind time to just before a quantum-indeterminate decision. The agent's complete physical state is identical in every replay. Yet outcomes differ. Nothing about the agent explains the difference. The difference is luck.
 
 Mele refined this into the problem of *present luck*: at the moment of decision, nothing about the agent determines one outcome over another. Two worlds identical up to that moment diverge arbitrarily. If nothing distinguishes the agent who chose A from the agent who chose B, the choice is no more authored than a coin flip.
 
@@ -95,7 +95,7 @@ Compatibilists may object that the trilemma smuggles in an assumption—that "ge
 
 Horn 3 faces an obvious challenge: *how* does consciousness bias physical outcomes? The [quantum Zeno mechanism](/concepts/quantum-consciousness/) provides one candidate. Mental effort acts as rapid quantum observation, stabilising desired neural patterns against decoherence into alternatives. Consciousness doesn't inject energy or violate [conservation laws](/concepts/conservation-laws-and-mental-causation/)—it shapes which pre-existing possibility actualises. This satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: the smallest possible non-physical influence at the point of genuine indeterminacy.
 
-Whether neural decision points actually involve quantum indeterminacy is empirically contested. Tegmark (2000) argues that decoherence timescales in warm biological tissue are far too short for quantum effects to influence neural processing. Others, including Stapp and Fisher (2015), propose mechanisms that might sustain relevant quantum coherence. The Map does not require this question to be settled, because the trilemma's philosophical force does not depend on any specific mechanism. What matters is the logical structure: if choices involve genuine indeterminacy and are neither arbitrary nor predetermined, *something* with the character of directed selection must be operating. Whether that selection works through [non-retrocausal mechanisms](/topics/non-retrocausal-conscious-selection-models/) (quantum Zeno effects, orchestrated collapse, CSL dynamics), retrocausal influence, or mechanisms not yet imagined, the trilemma's logic applies regardless.
+Whether neural decision points actually involve quantum indeterminacy is empirically contested. Tegmark (2000) argues that decoherence timescales in warm biological tissue are far too short for quantum effects to influence neural processing. Others, including Stapp and Fisher (2015), propose mechanisms that might sustain relevant quantum coherence. The Map does not require this question to be settled, because the trilemma's philosophical force does not depend on any specific mechanism. What matters is the logical structure: if choices involve genuine indeterminacy and are neither arbitrary nor predetermined, *something* with the character of directed selection must be operating. Whether that selection works through [non-retrocausal mechanisms](/topics/non-retrocausal-conscious-selection-models/) (quantum Zeno effects, orchestrated collapse, CSL dynamics), retrocausal influence, or mechanisms not yet imagined, the trilemma's logic applies regardless. The [Testing the Map from Inside](/apex/testing-the-map-from-inside/) synthesis explores what empirical signatures Horn 3 would produce if correct.
 
 ## Compatibilist Objections
 
@@ -142,6 +142,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing vs observing
 - [mental-effort](/concepts/mental-effort/) — Why the felt cost of attention supports genuine causal engagement
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The broader case for consciousness doing causal work
+- [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — How valence provides the common metric for evaluating options
 
 ## References
 
@@ -154,22 +155,8 @@ The trilemma connects to each of the five [tenets](/tenets/):
 7. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 8. Nagel, T. (1997). *The Last Word*. Oxford University Press.
 9. Van Inwagen, P. (1983). *An Essay on Free Will*. Oxford University Press.
-10. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
-11. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
-12. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention as the Selection Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-as-selection-interface/
-13. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/
-
-<!-- AI REFINEMENT LOG - 2026-03-13
-Changes made:
-- Expanded tracking/grasping distinction from one sentence to three paragraphs with chess engine example and Nagel (1997) citation on normative awareness vs causal pattern-matching
-- Named Fischer & Ravizza explicitly as the compatibilist position being engaged, replacing generic "sophisticated enough deterministic system"
-- Added epistemic honesty: acknowledged that the grasping claim is the Map's position, not a demonstrated conclusion
-- Acknowledged circular mutual support between trilemma and No Many Worlds tenet in Relation to Site Perspective, framing it as coherentist rather than linear derivation
-- Acknowledged Everettian dissolution as a coherent alternative rather than a refuted position
-- Added Nagel (1997) and Fischer & Ravizza (1998) to References
-
-Based on pessimistic review (pessimistic-2026-03-13.md) Issues #2 and #4.
-Key improvements: Load-bearing tracking/grasping distinction now developed with argument; tenet circularity honestly acknowledged.
-
-This log should be removed after human review.
--->
+10. Van Inwagen, P. (2000). Free Will Remains a Mystery. *Philosophical Perspectives*, 14, 1-19.
+11. Fisher, M.P.A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
+12. Fischer, J.M. & Ravizza, M. (1998). *Responsibility and Control: A Theory of Moral Responsibility*. Cambridge University Press.
+13. Southgate, A. & Oquatre-six, C. (2026-02-01). Attention and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/attention-and-the-consciousness-interface/
+14. Southgate, A. & Oquatre-cinq, C. (2026-01-08). Free Will and Determinism. *The Unfinishable Map*. https://unfinishablemap.org/topics/free-will/

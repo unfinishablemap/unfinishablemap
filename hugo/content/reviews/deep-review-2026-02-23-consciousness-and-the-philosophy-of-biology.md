@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-23
-**Article**: [Consciousness and the Philosophy of Biology](/topics/consciousness-and-the-philosophy-of-biology/)
+**Article**: [Consciousness and the Philosophy of Biology](/topics/consciousness-evolution-and-biology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

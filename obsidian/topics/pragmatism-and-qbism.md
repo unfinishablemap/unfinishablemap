@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[pragmatisms-path-to-dualism]]"
-  - "[[the-participatory-universe]]"
+  - "[[wheelers-participatory-universe-and-it-from-bit]]"
 concepts:
   - "[[qbism]]"
   - "[[pragmatism]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[william-james-consciousness]]"
-  - "[[it-from-bit-and-participatory-ontology]]"
+  - "[[wheelers-participatory-universe-and-it-from-bit]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[consciousness-and-probability-interpretation]]"
 ai_contribution: 100
@@ -50,7 +50,7 @@ This genealogy matters because it reveals that QBism's deepest commitments are n
 
 ## Participatory Realism and the Agent Problem
 
-Fuchs coined the term "participatory realism" in 2017 to link QBism with [[the-participatory-universe|Wheeler's observer-participancy programme]] and other agent-centred interpretations. The label is telling: it claims realism while insisting that agents participate in constituting reality rather than passively observing it. As Fuchs quotes Wheeler: "every time an act of observer-participancy occurs, one of the undecidable propositions is upgraded to the status of a new axiom."
+Fuchs coined the term "participatory realism" in 2017 to link QBism with [[wheelers-participatory-universe-and-it-from-bit|Wheeler's observer-participancy programme]] and other agent-centred interpretations. The label is telling: it claims realism while insisting that agents participate in constituting reality rather than passively observing it. As Fuchs quotes Wheeler: "every time an act of observer-participancy occurs, one of the undecidable propositions is upgraded to the status of a new axiom."
 
 Participatory realism asserts that reality exceeds any third-person description. There is always more to the world than what can be captured in equations or propositions, because the act of engaging with the world — measuring, choosing, experiencing — adds something that no prior description could contain. This parallels the Map's argument that [[haecceity|first-person facts]] are irreducible to third-person descriptions.
 
@@ -115,7 +115,7 @@ QBism's pragmatist foundations create a framework that the Map completes.
 - [[qbism]] — QBism as an interpretation: core claims, agent problem, intersubjective agreement
 - [[pragmatism]] — The pragmatist tradition and its implications for consciousness
 - [[pragmatisms-path-to-dualism]] — The full argument from pragmatist method to dualist conclusion
-- [[the-participatory-universe]] — Wheeler's observer-participancy and its dualist implications
+- [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's observer-participancy and its dualist implications
 - [[born-rule-and-the-consciousness-interface]] — The Born rule as encoding the consciousness-physics interface
 - [[william-james-consciousness]] — James's approach to consciousness in full detail
 - [[consciousness-and-probability-interpretation]] — How probability interpretations reveal commitments about consciousness

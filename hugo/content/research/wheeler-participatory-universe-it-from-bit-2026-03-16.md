@@ -119,7 +119,7 @@ Wheeler's participatory universe and "it from bit" form a unified programme asse
 
 ## Potential Article Angles
 
-Existing articles: [the-participatory-universe](/topics/the-participatory-universe/) and [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/).
+Existing articles: [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/) and [it-from-bit-and-participatory-ontology](/topics/wheelers-participatory-universe-and-it-from-bit/).
 
 1. **Multiple-observer problem** — Wheeler's "10,000 tinsmiths" as standalone piece. The Map's framework (objective reduction + consciousness modulation) resolves what Wheeler could not
 2. **Holographic principle** — integrate into [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) as independent evidence for information fundamentalism

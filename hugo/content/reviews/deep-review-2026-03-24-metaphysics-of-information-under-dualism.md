@@ -54,10 +54,10 @@ No new objections surfaced that the article doesn't already handle.
 
 ### Enhancements Made
 - Cited Chalmers & McQueen (2022) in the causal exclusion section, grounding the consciousness-collapse connection in a specific recent reference
-- Added inline cross-link to [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) in Option 4, showing how Wheeler's programme supports the information-as-interface position while the Map maintains irreducibility of both domains
+- Added inline cross-link to [it-from-bit-and-participatory-ontology](/topics/wheelers-participatory-universe-and-it-from-bit/) in Option 4, showing how Wheeler's programme supports the information-as-interface position while the Map maintains irreducibility of both domains
 
 ### Cross-links Added
-- [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/) (inline, Option 4 section)
+- [it-from-bit-and-participatory-ontology](/topics/wheelers-participatory-universe-and-it-from-bit/) (inline, Option 4 section)
 
 ## Remaining Items
 

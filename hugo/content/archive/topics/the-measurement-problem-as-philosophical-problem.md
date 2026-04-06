@@ -153,7 +153,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet warns against prema
 - [free-will](/topics/free-will/) — How the selection gap connects to agent causation and libertarian free will
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — How this structural parallel contributes to the cumulative case for dualism
-- [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's thesis that observers constitute reality through measurement
+- [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's thesis that observers constitute reality through measurement
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How definite outcomes obtained before conscious observers existed
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Interpretation comparison
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — Subjective probability and QBism

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-30 07:35:00+00:00
+ai_modified: 2026-04-06 10:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -65,7 +65,7 @@ Most causal explanations appeal to events causing events—*transeunt causation*
 
 Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. But critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control.
 
-Agent causation answers this. The agent is the source—an "uncaused cause" in traditional terminology. The regress stops at the agent's irreducible capacity to act. Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#event-causal-vs-agent-causal-approaches).
+Agent causation answers this—it is the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the logical options at any indeterminate decision point: determinism, randomness, or mental causation. The agent is the source—an "uncaused cause" in traditional terminology. The regress stops at the agent's irreducible capacity to act. Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#event-causal-vs-agent-causal-approaches).
 
 ## The Metaphysical Foundation: Substance Causation
 

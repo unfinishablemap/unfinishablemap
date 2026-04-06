@@ -44,7 +44,7 @@ related_articles:
 - '[[methodology-of-consciousness-research]]'
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[the-convergence-argument-for-dualism]]'
-- '[[the-participatory-universe]]'
+- '[[wheelers-participatory-universe-and-it-from-bit]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[topics/free-will]]'
 - '[[testing-consciousness-collapse]]'
@@ -192,7 +192,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [free-will](/topics/free-will/) — How the selection gap connects to agent causation
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — How this structural parallel contributes to the cumulative case for dualism
-- [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's thesis that observers constitute reality
+- [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's thesis that observers constitute reality
 - [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How Zurek's framework specifies the menu from which consciousness selects
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — The specific locus where consciousness could act after decoherence
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Three-tier prediction hierarchy, experimental obstacles, and the convergence strategy

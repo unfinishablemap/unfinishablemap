@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [The Participatory Universe](/topics/the-participatory-universe/)
+**Article**: [The Participatory Universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
 **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-the-participatory-universe/)
 **Word count**: 1876 → 1876 (no change)
 

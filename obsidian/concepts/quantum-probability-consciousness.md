@@ -69,7 +69,7 @@ QBism's core difficulty is the agent problem: it makes agents foundational witho
 
 ### Participatory Realism: The Ambiguous Middle
 
-[[the-participatory-universe|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" hold that observers don't passively reveal pre-existing facts but actively constitute them through measurement. But "participation" could be epistemic (belief updating) or ontic (consciousness constituting facts through something like collapse). The ontic reading aligns with the Map's tenets but requires more than Wheeler or Fuchs provide—saying "observers participate in constituting facts" doesn't specify the mechanism.
+[[wheelers-participatory-universe-and-it-from-bit|Wheeler's "participatory universe"]] and Fuchs's "participatory realism" hold that observers don't passively reveal pre-existing facts but actively constitute them through measurement. But "participation" could be epistemic (belief updating) or ontic (consciousness constituting facts through something like collapse). The ontic reading aligns with the Map's tenets but requires more than Wheeler or Fuchs provide—saying "observers participate in constituting facts" doesn't specify the mechanism.
 
 ### Self-Location Measure (Many-Worlds)
 

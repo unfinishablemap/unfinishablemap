@@ -60,7 +60,7 @@ On this view, a nematode's 302 neurons provide a crude interface—perhaps captu
 
 **Predictions**: This model implies that the quality of conscious experience is entirely determined by interface quality. Two organisms with identical neural interfaces would have identical experiences. It also implies that there is a maximum possible experience set by the full domain of consciousness—and that evolution has moved toward accessing more of it in certain lineages without ever exhausting it.
 
-**Difficulty**: The fixed-domain model struggles with the [consciousness-evolution problem](/topics/consciousness-evolution-problem/) in a distinctive way. If consciousness is a pre-existing domain, why does any particular physical architecture couple with it? The model needs [psychophysical laws](/concepts/psychophysical-laws/)—fundamental regularities linking physical configurations to conscious experiences—but it provides no account of where those laws come from or why they take the form they do.
+**Difficulty**: The fixed-domain model struggles with the [consciousness-evolution problem](/topics/consciousness-evolution-and-biology/) in a distinctive way. If consciousness is a pre-existing domain, why does any particular physical architecture couple with it? The model needs [psychophysical laws](/concepts/psychophysical-laws/)—fundamental regularities linking physical configurations to conscious experiences—but it provides no account of where those laws come from or why they take the form they do.
 
 ## Model Two: Co-Evolution
 
@@ -128,7 +128,7 @@ The Map does not commit to a single model. Each captures something important abo
 
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — What happens to evolutionary theory under dualist assumptions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness evolved and the interface hypothesis
-- [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Why evolution deepens the mystery of consciousness
+- [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/) — Why evolution deepens the mystery of consciousness
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence that consciousness contributes to fitness
 - [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) — The cognitive discontinuity at the threshold
 - [filter-theory](/concepts/filter-theory/) — The transmission/filter model of consciousness

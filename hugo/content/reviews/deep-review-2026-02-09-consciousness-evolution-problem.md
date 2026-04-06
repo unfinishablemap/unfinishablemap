@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-09
-**Article**: [The Consciousness-Evolution Problem](/topics/consciousness-evolution-problem/)
+**Article**: [The Consciousness-Evolution Problem](/topics/consciousness-evolution-and-biology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

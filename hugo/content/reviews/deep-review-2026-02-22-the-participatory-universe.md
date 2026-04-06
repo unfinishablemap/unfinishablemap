@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [The Participatory Universe](/topics/the-participatory-universe/)
+**Article**: [The Participatory Universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
 **Previous review**: Never
 **Word count**: 1586 → 1780 (+194)
 
@@ -79,7 +79,7 @@ This was the primary focus. The article had zero inbound links. Six articles now
 
 - [retrocausality](/concepts/retrocausality/) — Wheeler's "participatory universe" now wikilinked to dedicated article (line 58)
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — "participatory framework" now wikilinked (line 81)
-- [prebiotic-collapse](/concepts/prebiotic-collapse/) — Added "See [the-participatory-universe](/topics/the-participatory-universe/) for full treatment" in Wheeler section (line 75)
+- [prebiotic-collapse](/concepts/prebiotic-collapse/) — Added "See [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment" in Wheeler section (line 75)
 - [nomic-void](/voids/nomic-void/) — Wheeler's "it from bit" framework now wikilinked (line 61)
 - [qbism](/concepts/qbism/) — Added sentence noting Fuchs positioned QBism as completing Wheeler's participatory universe program (after intro)
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Added to Further Reading section

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-22
-**Article**: [It from Bit and Participatory Ontology](/topics/it-from-bit-and-participatory-ontology/)
+**Article**: [It from Bit and Participatory Ontology](/topics/wheelers-participatory-universe-and-it-from-bit/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-it-from-bit-and-participatory-ontology/)
 
 ## Pessimistic Analysis Summary

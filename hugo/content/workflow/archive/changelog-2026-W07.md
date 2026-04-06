@@ -2438,7 +2438,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 05:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Consciousness-Evolution Problem
-- **Output**: [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+- **Output**: [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/)
 - **Word count**: 2051
 - **Based on research**: No (drew on existing research notes for consciousness-simple-organisms, consciousness-independent-baseline-cognition, and consciousness-influence-intelligence)
 

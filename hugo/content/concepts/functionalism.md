@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-05 14:26:00+00:00
+ai_modified: 2026-04-06 12:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,7 +37,7 @@ related_articles:
 - '[[tenets]]'
 - '[[arguments/functionalism-argument]]'
 - '[[arguments-against-materialism]]'
-- '[[consciousness-and-the-philosophy-of-biology]]'
+- '[[consciousness-evolution-and-biology]]'
 - '[[metaphysics-of-information-under-dualism]]'
 - '[[phenomenal-non-compositionality]]'
 - '[[pragmatisms-path-to-dualism]]'
@@ -207,7 +207,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [arguments-against-materialism](/topics/arguments-against-materialism/) — Why the cumulative case against materialism is powerful
 - [minimal-consciousness](/concepts/minimal-consciousness/) — Simple organisms reveal functionalism's limits
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — The emergence problem functionalism cannot solve
-- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — Why biological function concepts fail to capture consciousness
+- [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — Why biological function concepts fail to capture consciousness
 - [functionalism-argument](/arguments/functionalism-argument/) — Five formal arguments against functionalism
 - [substrate-independence](/concepts/substrate-independence/) — Why the substrate matters for consciousness
 - [ai-consciousness](/topics/ai-consciousness/) — The question of machine minds

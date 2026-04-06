@@ -62,7 +62,7 @@ If outcomes differed — say, collapse occurred in condition 1 but not condition
 
 ### Delayed-Choice Consciousness Experiments
 
-Building on [Wheeler's delayed-choice experiment](/topics/the-participatory-universe/), several proposals attempt to test whether the *timing* of conscious awareness affects collapse. The logic: if a quantum system is measured by a detector but the result is not observed by a conscious agent until later, does collapse occur at detection or at conscious observation?
+Building on [Wheeler's delayed-choice experiment](/topics/wheelers-participatory-universe-and-it-from-bit/), several proposals attempt to test whether the *timing* of conscious awareness affects collapse. The logic: if a quantum system is measured by a detector but the result is not observed by a conscious agent until later, does collapse occur at detection or at conscious observation?
 
 One natural extension stores a measurement result in a quantum memory that preserves superposition. If consciousness causes collapse, the memory should collapse when a conscious observer accesses it — not when the detector originally registers the result. If objective collapse theories are correct, the memory collapses at detection regardless of observation.
 

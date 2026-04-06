@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-29 17:12:00+00:00
+ai_modified: 2026-04-06 12:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,7 +34,7 @@ related_articles:
 title: The Evolutionary Case for Quantum Neural Effects
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-evolution-problem]]'
+- '[[consciousness-evolution-and-biology]]'
 ---
 
 Evolution has already optimised quantum effects in multiple biological systems—avian magnetoreception, enzyme catalysis, and photosynthetic energy transfer. The Unfinishable Map argues that the same evolutionary logic applies to neural systems, where the computational payoffs of quantum effects would dwarf those of a compass or a faster enzyme. If natural selection discovered quantum solutions for navigation and chemistry, the question is not whether it *could* discover them for neural computation, but whether the selective pressures were strong enough to drive it there.

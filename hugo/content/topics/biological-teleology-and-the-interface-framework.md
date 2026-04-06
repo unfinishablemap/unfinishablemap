@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-05 16:02:00+00:00
+ai_modified: 2026-04-06 12:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,12 +30,11 @@ related_articles:
 - '[[attention-and-the-consciousness-interface]]'
 - '[[dopamine-and-the-unified-interface]]'
 - '[[evolutionary-case-for-mental-causation]]'
-- '[[consciousness-and-the-philosophy-of-biology]]'
 - '[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]'
 title: Biological Teleology and the Interface Framework
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-evolution-problem]]'
+- '[[consciousness-evolution-and-biology]]'
 - '[[topics/free-will]]'
 ---
 
@@ -113,7 +112,7 @@ The connection between biological teleology and the interface framework draws on
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The unified attention-motor selection interface
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares options for conscious selection
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Evidence that consciousness contributes to fitness
-- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) — How biology's conceptual categories interact with consciousness
+- [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — How biology's conceptual categories interact with consciousness
 - [consciousness threshold in cognitive evolution](/topics/consciousness-and-intelligence/) — When conscious selection becomes causally efficacious
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal influence
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Why consciousness is something organisms do, not something brains have

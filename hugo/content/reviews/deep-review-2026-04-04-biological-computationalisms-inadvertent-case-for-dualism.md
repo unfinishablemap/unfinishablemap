@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - [No Many Worlds tenet missing from Relation to Site Perspective]: Added paragraph connecting substrate specificity to rejection of MWI—indexical identity tied to specific substrate trajectory
 - [Adaptive computational depth tension unaddressed]: Added paragraph in "What the Algorithm Is the Substrate Really Says" engaging the non-computability argument—if the algorithm is the substrate, the allocator of computational depth cannot itself be a computation
-- [Missing cross-links to concept pages]: Added wikilinks to [qualia](/concepts/qualia/), [explanatory-gap](/concepts/explanatory-gap/), [integrated-information-theory](/concepts/integrated-information-theory/), [global-workspace-theory](/concepts/global-workspace-theory/), and [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) in body text
+- [Missing cross-links to concept pages]: Added wikilinks to [qualia](/concepts/qualia/), [explanatory-gap](/concepts/explanatory-gap/), [integrated-information-theory](/concepts/integrated-information-theory/), [global-workspace-theory](/concepts/global-workspace-theory/), and [consciousness-and-the-philosophy-of-biology](/topics/consciousness-evolution-and-biology/) in body text
 - [Convergence Pattern section lacked links]: IIT and GWT now properly linked to their concept pages
 
 ### Counterarguments Considered
@@ -58,7 +58,7 @@ topics: []
 - [explanatory-gap](/concepts/explanatory-gap/) (in Relocated Hard Problem)
 - [integrated-information-theory](/concepts/integrated-information-theory/) (in Convergence Pattern)
 - [global-workspace-theory](/concepts/global-workspace-theory/) (in Convergence Pattern)
-- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-and-the-philosophy-of-biology/) (in Convergence Pattern)
+- [consciousness-and-the-philosophy-of-biology](/topics/consciousness-evolution-and-biology/) (in Convergence Pattern)
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) (in Further Reading)
 
 ## Remaining Items

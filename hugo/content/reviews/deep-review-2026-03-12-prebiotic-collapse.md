@@ -59,7 +59,7 @@ Comprehensive — no additions needed. Recent cross-reference refinements (since
 - [many-worlds](/concepts/many-worlds/)
 - [combination-problem](/concepts/combination-problem/)
 - [mental-causation](/concepts/mental-causation-and-downward-causation/)
-- [the-participatory-universe](/topics/the-participatory-universe/)
+- [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)
 - [adaptive-computational-depth](/concepts/adaptive-computational-depth/)
 
 ## Remaining Items

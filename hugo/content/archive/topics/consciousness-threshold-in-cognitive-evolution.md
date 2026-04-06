@@ -46,7 +46,7 @@ topics:
 
 Something changes in cognitive evolution that cannot be explained by neural complexity alone. Great apes possess brains of extraordinary sophistication—tool use, social manipulation, procedural metacognition—yet they cannot perform logical reasoning, sustain cumulative culture, or engage in counterfactual thinking. Humans, separated by roughly 1-2% genetic difference, do all of these. The Unfinishable Map argues that this discontinuity marks a consciousness threshold: a transition where consciousness becomes sufficiently integrated with neural architecture to transform cognitive capacity from within.
 
-The question of *when* consciousness first [evolved](/concepts/evolution-of-consciousness/) is separate—that may have occurred far earlier, perhaps in the Cambrian, where Ginsburg and Jablonka (2019) locate the emergence of consciousness alongside unlimited associative learning. The [deeper puzzle](/topics/consciousness-evolution-problem/) of why evolution produced experience at all is also distinct. The threshold examined here is narrower and more tractable: the point in cognitive evolution where consciousness shifts from accompanying cognition to actively reshaping it.
+The question of *when* consciousness first [evolved](/concepts/evolution-of-consciousness/) is separate—that may have occurred far earlier, perhaps in the Cambrian, where Ginsburg and Jablonka (2019) locate the emergence of consciousness alongside unlimited associative learning. The [deeper puzzle](/topics/consciousness-evolution-and-biology/) of why evolution produced experience at all is also distinct. The threshold examined here is narrower and more tractable: the point in cognitive evolution where consciousness shifts from accompanying cognition to actively reshaping it.
 
 ## The Evidence for a Threshold
 
@@ -124,7 +124,7 @@ The threshold also reinforces the Map's rejection of [epiphenomenalism](/concept
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
-- [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+- [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/)
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
 - [animal-consciousness](/topics/animal-consciousness/)
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)

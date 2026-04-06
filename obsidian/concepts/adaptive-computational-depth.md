@@ -8,7 +8,7 @@ ai_modified: 2026-03-28T03:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[the-participatory-universe]]"
+  - "[[wheelers-participatory-universe-and-it-from-bit]]"
   - "[[consciousness-and-the-physics-of-information]]"
 concepts:
   - "[[quantum-consciousness]]"
@@ -45,7 +45,7 @@ This is not merely a metaphor borrowed from computing. On interpretations where 
 
 Several independent intellectual traditions converge on adaptive computational depth without using the term.
 
-**Wheeler's [[it-from-bit-and-participatory-ontology|"it from bit"]].** John Archibald Wheeler proposed in 1989 that "every item of the physical world has at bottom—at a very deep bottom, in most instances—an immaterial source and explanation" (Wheeler 1990). His participatory universe holds that observation does not merely reveal reality but participates in constituting it. Unobserved regions lack full determination—not because information is hidden, but because the physical facts have not yet been generated. This is adaptive depth avant la lettre: the universe's informational content increases where observers engage with it.
+**Wheeler's [[wheelers-participatory-universe-and-it-from-bit|"it from bit"]].** John Archibald Wheeler proposed in 1989 that "every item of the physical world has at bottom—at a very deep bottom, in most instances—an immaterial source and explanation" (Wheeler 1990). His participatory universe holds that observation does not merely reveal reality but participates in constituting it. Unobserved regions lack full determination—not because information is hidden, but because the physical facts have not yet been generated. This is adaptive depth avant la lettre: the universe's informational content increases where observers engage with it.
 
 **Bostrom's simulation argument.** Bostrom (2003) noted that a simulated universe need not compute quantum-level detail everywhere. Advanced simulations would use "powerful computational shortcuts" operating "at a much higher level of abstraction." While Bostrom's argument assumes consciousness is computable—a premise The Unfinishable Map rejects—his observation about selective detail allocation is structurally sound regardless of what drives the selection.
 
@@ -114,7 +114,7 @@ The adaptive-computational-depth framework would face serious difficulty if:
 - [[stapp-quantum-mind]]
 - [[attention-as-interface]]
 - [[prebiotic-collapse]]
-- [[the-participatory-universe]]
+- [[wheelers-participatory-universe-and-it-from-bit]]
 - [[consciousness-and-the-physics-of-information]]
 - [[consciousness-and-mathematics]]
 - [[computational-cognitive-limits]]

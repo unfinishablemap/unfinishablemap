@@ -68,7 +68,7 @@ All six personas engaged. No new issues beyond those identified in previous revi
 7. **[the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)** — Added inline link in the causal argument section connecting substantial selfhood to indexical grounding
 
 ### Already Linking (no action needed)
-- [the-participatory-universe](/topics/the-participatory-universe/) (frontmatter + Further Reading)
+- [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/) (frontmatter + Further Reading)
 - [measurement-problem](/concepts/measurement-problem/) (frontmatter)
 - [many-worlds](/concepts/many-worlds/) (frontmatter)
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) (inline + frontmatter)

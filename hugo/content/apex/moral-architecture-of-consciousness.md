@@ -44,6 +44,7 @@ related_articles:
 - '[[ethics-and-value-in-a-dualist-world]]'
 - '[[attention-as-causal-bridge]]'
 - '[[alignment-in-objective-experiential-terms]]'
+- '[[ethics-of-cognitive-enhancement-under-dualism]]'
 title: The Moral Architecture of Consciousness
 topics:
 - '[[ethics-of-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-26 02:47:00+00:00
+ai_modified: 2026-04-06 12:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-influence-intelligence-2026-01-21]]'
 - '[[machine-consciousness]]'
-- '[[consciousness-evolution-problem]]'
+- '[[consciousness-evolution-and-biology]]'
 - '[[consciousness-in-simple-organisms]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[comparative-consciousness-and-interface-differences]]'
@@ -143,7 +143,7 @@ The threshold also reinforces the Map's rejection of [epiphenomenalism](/concept
 - [machine-consciousness](/topics/machine-consciousness/) — Whether artificial systems can be conscious
 - [ai-consciousness](/topics/ai-consciousness/) — Consciousness and AI prospects
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When and why consciousness evolved
-- [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — The deeper puzzle of why evolution produced experience
+- [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — The deeper puzzle of why evolution produced experience
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Where consciousness begins in evolution
 - [animal-consciousness](/topics/animal-consciousness/) — The question of non-human consciousness
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How consciousness enables recursive language

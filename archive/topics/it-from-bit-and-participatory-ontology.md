@@ -25,6 +25,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
+archived: true
+archived_date: 2026-04-06T13:02:00+00:00
+superseded_by: "/topics/wheelers-participatory-universe-and-it-from-bit/"
+archive_reason: "Coalesced into Wheeler's Participatory Universe and It from Bit"
+original_path: "/topics/it-from-bit-and-participatory-ontology/"
 ---
 
 John Archibald Wheeler's "it from bit" is one of the most provocative claims made by a major physicist about the relationship between information and matter. "Every it — every particle, every field of force, even the spacetime continuum itself — derives its function, its meaning, its very existence entirely — even if in some contexts indirectly — from the apparatus-elicited answers to yes or no questions, binary choices, bits" (Wheeler 1990). This is not merely the claim that physics requires measurement — it is the claim that information-theoretic acts are ontologically prior to physical reality.

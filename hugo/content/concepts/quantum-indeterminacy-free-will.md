@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-05 11:47:00+00:00
+ai_modified: 2026-04-06 10:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -56,7 +56,7 @@ This creates what Peter van Inwagen called the "libertarian dilemma":
 2. **If indeterminism is true**, outcomes are random (luck, not choice)
 3. **Either way**, genuine authorship seems impossible
 
-Libertarian views must explain how indeterminism helps rather than hinders.
+Libertarian views must explain how indeterminism helps rather than hinders. The [trilemma-of-selection](/topics/trilemma-of-selection/) sharpens the dilemma into an exhaustive trilemma: determinism (theatre), randomness (luck), or mental causation (authorship)—showing that indeterminacy alone is not enough; a non-physical selector is required to escape luck.
 
 ## Event-Causal vs Agent-Causal Approaches
 

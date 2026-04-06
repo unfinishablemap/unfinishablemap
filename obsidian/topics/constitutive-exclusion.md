@@ -23,7 +23,7 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[the-subject-object-distinction-as-philosophical-discovery]]"
   - "[[objectivity-and-consciousness]]"
-  - "[[the-participatory-universe]]"
+  - "[[wheelers-participatory-universe-and-it-from-bit]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -125,7 +125,7 @@ The constitutive exclusion connects to all five of the Map's [[tenets]].
 - [[hard-problem-of-consciousness]] — Why consciousness resists physical explanation
 - [[the-subject-object-distinction-as-philosophical-discovery]] — Why the subject-object distinction is a philosophical discovery, not a given
 - [[objectivity-and-consciousness]] — Why the view from nowhere cannot capture what is perspective
-- [[the-participatory-universe]] — Wheeler's vision of observers constituting reality through measurement
+- [[wheelers-participatory-universe-and-it-from-bit]] — Wheeler's vision of observers constituting reality through measurement
 - [[phenomenology]] — The philosophical method that makes constitutive structures visible
 - [[voids]] — The broader framework for investigating cognitive limits
 

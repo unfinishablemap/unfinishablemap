@@ -27,6 +27,7 @@ related_articles:
 - '[[the-interface-location-problem]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[pairing-problem]]'
+- '[[ethics-of-cognitive-enhancement-under-dualism]]'
 title: Brain-Computer Interfaces and the Interface Boundary
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,7 +94,7 @@ Three observations temper this challenge:
 
 **Third, plasticity has limits.** Sadtler's intrinsic manifold constraint shows the brain cannot learn arbitrary mappings. BCI learning is constrained by existing neural connectivity—by the developmental architecture that the brain specialness boundary predicts should matter. If the interface were freely extensible, these constraints would not exist.
 
-The developmental integration constraint thus survives BCI evidence, with an important refinement: what matters is not that the specific neural pathway was evolved for a specific task, but that the neural substrate has the right architectural properties—feedback connectivity, representational capacity, integration with attentional systems—to support conscious selection. BCIs work because motor cortex already has these properties. A BCI connected to a brain region without these properties would not support volitional control.
+The developmental integration constraint thus survives BCI evidence, with an important refinement: what matters is not that the specific neural pathway was evolved for a specific task, but that the neural substrate has the right architectural properties—feedback connectivity, representational capacity, integration with attentional systems—to support conscious selection. BCIs work because motor cortex already has these properties. A BCI connected to a brain region without these properties would not support volitional control. This has direct implications for the [ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/): enhancement technologies that bypass existing interface sites might increase computational throughput while reducing the domain of conscious agency.
 
 ## What BCIs Cannot Do
 
@@ -138,6 +139,7 @@ None of these has been demonstrated. Current BCI evidence is consistent with the
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where in the brain does the interface reside?
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How embodiment shapes the interface
 - [pairing-problem](/concepts/pairing-problem/) — Why *this* mind pairs with *this* brain
+- [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Ethical implications when enhancement modifies the interface rather than the mind
 
 ## References
 

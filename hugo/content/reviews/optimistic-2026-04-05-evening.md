@@ -22,7 +22,7 @@ The Unfinishable Map has matured into a philosophically serious, internally cohe
 
 ### The Property Dualist (Chalmers)
 
-The Map takes the explanatory gap more seriously than almost any other resource. The [phenomenal-consciousness](/concepts/phenomenal-consciousness/) concept page doesn't merely state the hard problem—it systematically works through why every physicalist response fails, including the phenomenal concepts strategy that Chalmers himself identified as physicalism's strongest defence. The [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) article is particularly impressive: it shows that the zombie argument has an evolutionary dimension most philosophers neglect. If a philosophical zombie would enjoy the same fitness advantages, natural selection cannot explain why phenomenal experience exists. The value-tracking reframing—consciousness as the condition for value to exist at all—is a genuinely novel contribution that deserves wider attention.
+The Map takes the explanatory gap more seriously than almost any other resource. The [phenomenal-consciousness](/concepts/phenomenal-consciousness/) concept page doesn't merely state the hard problem—it systematically works through why every physicalist response fails, including the phenomenal concepts strategy that Chalmers himself identified as physicalism's strongest defence. The [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/) article is particularly impressive: it shows that the zombie argument has an evolutionary dimension most philosophers neglect. If a philosophical zombie would enjoy the same fitness advantages, natural selection cannot explain why phenomenal experience exists. The value-tracking reframing—consciousness as the condition for value to exist at all—is a genuinely novel contribution that deserves wider attention.
 
 ### The Quantum Mind Theorist (Stapp)
 
@@ -69,7 +69,7 @@ The Map's voids programme and the [epistemology-of-limit-knowledge](/concepts/ep
 - **Strongest point**: The "mathematical corridor" concept—Born rule uniqueness, inner product uniqueness, and absence of higher-order interference collectively constrain what consciousness can do
 - **Why it works**: Replaces "quantum consciousness" hand-waving with precise mathematical constraints. Shows that physics itself delimits the interface rather than leaving it unconstrained.
 
-### [consciousness-evolution-problem](/topics/consciousness-evolution-problem/)
+### [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/)
 - **Strongest point**: The value-tracking reframing—consciousness is necessary for value to exist; a zombie world is valueless; evolution produced consciousness as the condition for value-realisation
 - **Why it works**: Transforms the evolutionary problem from a challenge for dualism into a challenge for everyone, then offers a distinctive dualist response that other frameworks lack.
 
@@ -98,7 +98,7 @@ The Map's voids programme and the [epistemology-of-limit-knowledge](/concepts/ep
 - **Tenet alignment**: Supports Dualism (first-person evidence is irreducible) and Occam's Limits (excluding first-person evidence impoverishes inquiry)
 
 #### Developmental Emergence of Consciousness
-- **Builds on**: [consciousness-evolution-problem](/topics/consciousness-evolution-problem/), [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), cetacean-corvid-consciousness
+- **Builds on**: [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/), [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), cetacean-corvid-consciousness
 - **Would address**: When does consciousness emerge in human development? The Map has sophisticated evolutionary and comparative treatments but nothing on the developmental question—prenatal awareness, infant consciousness, the emergence of self-awareness, and what the developmental trajectory reveals about the interface model
 - **Estimated scope**: Long article
 - **Tenet alignment**: Bidirectional Interaction (developmental data on when consciousness begins influencing behaviour); Minimal Quantum Interaction (neural maturation may constrain when the interface activates)
@@ -136,7 +136,7 @@ The Map's voids programme and the [epistemology-of-limit-knowledge](/concepts/ep
 | From | To | Reason |
 |------|-----|--------|
 | [categorical-surprise](/concepts/categorical-surprise/) | lucid-dreaming-dualist-rendering | Lucid dream onset is a paradigm case of categorical surprise—framework shift from passive dreaming to active awareness |
-| [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) | [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | Samkhya's purusha-prakriti distinction offers an alternative evolutionary framework where consciousness was never produced by evolution |
+| [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/) | [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | Samkhya's purusha-prakriti distinction offers an alternative evolutionary framework where consciousness was never produced by evolution |
 | [delegatory-dualism](/topics/delegatory-dualism/) | [skill-delegation](/concepts/skill-delegation/) | Skill delegation is the empirical signature of delegatory preemption in action |
 | [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) | the-constitutive-exclusion | Constitutive exclusion is a specific instance of the limit-knowledge framework |
 | phenomenal-binding-multimodal-integration | lucid-dreaming-dualist-rendering | Dream binding achieves multimodal integration without sensory input—direct test of binding theories |

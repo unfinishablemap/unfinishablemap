@@ -49,7 +49,7 @@ None. Article remains stable after four reviews. No attribution errors, factual 
 2. [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Added body text link in "The Evolutionary Argument" section + Further Reading entry
 3. [interactionist-dualism](/concepts/interactionist-dualism/) — Added body text link in "Evolutionary Compatibility" subsection
 4. [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — Added body text link in "Minimal Quantum Interaction" subsection + Further Reading entry
-5. [consciousness-evolution-problem](/topics/consciousness-evolution-problem/) — Added body text link in dualist paragraph + Further Reading entry
+5. [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/) — Added body text link in dualist paragraph + Further Reading entry
 6. [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Added body text link in "The Amplification Problem" section + Further Reading entry
 7. [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added body text link in "The Quantum Opening" section + Further Reading entry
 

@@ -5,6 +5,14 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 13:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[it-from-bit-and-participatory-ontology]], [[the-participatory-universe]]
+- **Target**: [[wheelers-participatory-universe-and-it-from-bit]]
+- **Archived**: archive/topics/it-from-bit-and-participatory-ontology.md, archive/topics/the-participatory-universe.md
+- **References updated**: 17 files in topics/, concepts/, voids/
+- **References to review**: Reviews and research files still reference old slugs (not updated — archives handle redirects)
+
 ## 2026-04-06 12:47 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-evolution-and-biology]]

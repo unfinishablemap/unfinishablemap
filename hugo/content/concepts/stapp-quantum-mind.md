@@ -175,7 +175,7 @@ The model generates falsifiable predictions:
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer; neural signatures of willed attention
 - [decoherence](/concepts/decoherence/) — The decoherence objection and responses
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for conscious causation
-- [the-participatory-universe](/topics/the-participatory-universe/) — Wheeler's participatory vision that Stapp concretises
+- [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Wheeler's participatory vision that Stapp concretises
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap: why *this* consciousness selects *this* outcome
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — Whether valence could extend the Zeno mechanism beyond value-neutral attention
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Three converging clinical evidence streams, with honest assessment of Schwartz's OCD research limitations
