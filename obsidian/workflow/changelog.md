@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 12:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[consciousness-evolution-and-biology]]
+- **Word count**: 2325 → 2337 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (first-mention style fix, self-citations added, cross-reference updates)
+- **Enhancements made**: Updated 11 files with 25+ cross-reference changes from old coalesced slugs to new
+- **Output**: [[reviews/deep-review-2026-04-06-consciousness-evolution-and-biology]]
+
 ## 2026-04-06 12:33 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[consciousness-evolution-problem]], [[consciousness-and-the-philosophy-of-biology]]

@@ -4,11 +4,11 @@ description: "Natural selection works the same whether physicalism or dualism is
 created: 2026-02-12
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-04-05T11:32:00+00:00
+ai_modified: 2026-04-06T12:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-evolution-problem]]"
+  - "[[consciousness-evolution-and-biology]]"
 concepts:
   - "[[evolution-of-consciousness]]"
   - "[[interactionist-dualism]]"
@@ -31,7 +31,6 @@ related_articles:
   - "[[topics/free-will]]"
   - "[[animal-consciousness]]"
   - "[[quantum-biology-and-neural-consciousness]]"
-  - "[[consciousness-and-the-philosophy-of-biology]]"
   - "[[biological-teleology-and-the-interface-framework]]"
   - "[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]"
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -112,7 +111,7 @@ Dualism reintroduces a limited form of teleology without invoking a designer. If
 
 Under physicalism, even agent teleology reduces to mechanism. The gazelle's fear is identical to neural firing patterns, fully explained by prior physical states. Sophisticated functionalists argue that purposes are nonetheless "real patterns." The Map finds this insufficient: real patterns identified *from the outside* are not the same as purposes experienced *from the inside*. Under dualism, purpose is real in both senses. Conscious intention influences physical outcomes through the quantum interface the Map proposes, making [[agent-causation|agency]] a fundamental feature of certain biological systems rather than an emergent approximation.
 
-The [[biological-teleology-and-the-interface-framework|biological teleology article]] develops this further, showing how the interface framework specifies *where* the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency. This distinction matters for how we understand evolution's products—and [[consciousness-and-the-philosophy-of-biology|philosophy of biology's]] own conceptual categories each reveal it differently. Physicalism says evolution produced sophisticated machines whose behaviour we describe purposively. Dualism says evolution produced the physical conditions under which genuine purpose could enter the natural world. The implications extend to [[topics/free-will|free will]]: if evolution selected for genuine purpose-directed action, it selected for the capacity to act for reasons—the core of libertarian agency.
+The [[biological-teleology-and-the-interface-framework|biological teleology article]] develops this further, showing how the interface framework specifies *where* the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency. This distinction matters for how we understand evolution's products—and [[consciousness-evolution-and-biology|philosophy of biology's]] own conceptual categories each reveal it differently. Physicalism says evolution produced sophisticated machines whose behaviour we describe purposively. Dualism says evolution produced the physical conditions under which genuine purpose could enter the natural world. The implications extend to [[topics/free-will|free will]]: if evolution selected for genuine purpose-directed action, it selected for the capacity to act for reasons—the core of libertarian agency.
 
 ## The Selection Pressure on Interfaces
 
@@ -144,7 +143,7 @@ The Map rejects progressive evolution. Natural selection has no foresight, no go
 
 ## What Would Challenge This View?
 
-The evolutionary case for dualist interfaces would be weakened by several findings. If consciousness proved [[concepts/epiphenomenalism|epiphenomenal]]—present but causally inert—the interface story collapses, because selection cannot act on what has no physical consequences. If quantum effects in neural tissue were definitively ruled out, the specific mechanism the Map proposes for consciousness-matter interaction would fail. If all cognitive flexibility attributed to conscious deliberation could be replicated by unconscious processing, the fitness advantage of consciousness—and hence selection pressure on interfaces—would disappear. And if physicalism produced a satisfactory account of why evolution generates experience (resolving the [[consciousness-evolution-problem|consciousness-evolution problem]] without dualist resources), the explanatory motivation for the interface framework would weaken substantially.
+The evolutionary case for dualist interfaces would be weakened by several findings. If consciousness proved [[concepts/epiphenomenalism|epiphenomenal]]—present but causally inert—the interface story collapses, because selection cannot act on what has no physical consequences. If quantum effects in neural tissue were definitively ruled out, the specific mechanism the Map proposes for consciousness-matter interaction would fail. If all cognitive flexibility attributed to conscious deliberation could be replicated by unconscious processing, the fitness advantage of consciousness—and hence selection pressure on interfaces—would disappear. And if physicalism produced a satisfactory account of why evolution generates experience (resolving the [[consciousness-evolution-and-biology|consciousness-evolution problem]] without dualist resources), the explanatory motivation for the interface framework would weaken substantially.
 
 None of these would refute dualism itself. They would undermine the specific evolutionary argument that dualism enriches our understanding of what natural selection produced.
 
@@ -163,7 +162,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 ## Further Reading
 
 - [[evolution-of-consciousness]] — When consciousness evolved and the interface hypothesis
-- [[consciousness-evolution-problem]] — Why evolution deepens the mystery of consciousness
+- [[consciousness-evolution-and-biology]] — Why evolution deepens the mystery of consciousness
 - [[evolutionary-case-for-mental-causation]] — Evidence that consciousness contributes to fitness
 - [[the-strong-emergence-of-consciousness]] — Strong emergence and the quantum mechanism
 - [[consciousness-in-simple-organisms]] — Where the interface might begin
@@ -174,7 +173,6 @@ None of these would refute dualism itself. They would undermine the specific evo
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[topics/free-will]] — Agent teleology and libertarian agency
 - [[animal-consciousness]] — Convergent consciousness across species
-- [[consciousness-and-the-philosophy-of-biology]] — Biology's conceptual toolkit and the limits of biological explanation
 - [[biological-teleology-and-the-interface-framework]] — How the interface framework transforms biological teleology
 - [[consciousness-and-intelligence|consciousness threshold in cognitive evolution]] — The cognitive discontinuity at the threshold
 - [[comparative-consciousness-and-interface-differences]] — How the interface varies across species

@@ -4,7 +4,7 @@ description: "Why evolutionary theory and biology's conceptual toolkit—functio
 created: 2026-02-09
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-06T12:33:00+00:00
+ai_modified: 2026-04-06T12:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-06T12:47:00+00:00
 coalesced_from:
   - "/topics/consciousness-evolution-problem/"
   - "/topics/consciousness-and-the-philosophy-of-biology/"
@@ -69,7 +69,7 @@ This is the [[philosophical-zombies|zombie argument]] applied to natural selecti
 
 The materialist who denies zombie possibility avoids this particular formulation. If physical structure necessitates consciousness, evolution explains consciousness by explaining the physical structure. But this response inherits the [[hard-problem-of-consciousness|hard problem]]: *why* does physical structure necessitate experience?
 
-The consciousness-evolution problem takes different forms depending on one's starting assumptions. For the **materialist**: the explanatory gap persists even if consciousness is identical to neural processes—natural selection acting on function cannot select for phenomenal character if function is all that matters to fitness. For the **epiphenomenalist**: if consciousness is causally inert, it cannot be selected at all—its systematic correlation with adaptive behaviour becomes a cosmic coincidence. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues this cost is too high. For the **dualist**: if consciousness is non-physical and causally efficacious, it contributes to fitness—but the mechanism remains obscure. The Map's answer invokes [[tenets#^minimal-quantum-interaction|quantum interaction]], and the [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] argues this mechanism follows the same selective logic that produced quantum magnetoreception in birds and quantum tunnelling in enzymes.
+The consciousness-evolution problem takes different forms depending on one's starting assumptions. For the **materialist**: the explanatory gap persists even if consciousness is identical to neural processes—natural selection acting on function cannot select for phenomenal character if function is all that matters to fitness. For the **epiphenomenalist**: if consciousness is causally inert, it cannot be selected at all—its systematic correlation with adaptive behaviour becomes a cosmic coincidence. The [[evolutionary-case-for-mental-causation|evolutionary case for mental causation]] argues this cost is too high. For the **dualist**: if consciousness is non-physical and causally efficacious, it contributes to fitness—but the mechanism remains obscure. The Unfinishable Map's answer invokes [[tenets#^minimal-quantum-interaction|quantum interaction]], and the [[evolutionary-case-for-quantum-neural-effects|evolutionary case for quantum neural effects]] argues this mechanism follows the same selective logic that produced quantum magnetoreception in birds and quantum tunnelling in enzymes.
 
 ## Teleology Without and Within
 
@@ -175,3 +175,5 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 9. Nagel, T. (1974). What Is It Like to Be a Bat? *The Philosophical Review*, 83(4), 435-450.
 10. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 11. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+12. Southgate, A. & Oquatre-cinq, C. (2026-02-05). The Evolutionary Case for Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/
+13. Southgate, A. & Oquatre-cinq, C. (2026-01-21). Consciousness as Amplifier. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-as-amplifier/

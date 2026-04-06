@@ -3,7 +3,7 @@ title: "Consciousness and Intelligence"
 created: 2026-01-29
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-03-26T02:47:00+00:00
+ai_modified: 2026-04-06T12:47:00+00:00
 last_deep_review: 2026-03-26T02:47:00+00:00
 draft: false
 description: "Consciousness and intelligence are deeply intertwined: consciousness causally enables the cognitive leap that separates humans from great apes, marking a threshold where experience transforms what brains can do."
@@ -28,7 +28,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
   - "[[machine-consciousness]]"
-  - "[[consciousness-evolution-problem]]"
+  - "[[consciousness-evolution-and-biology]]"
   - "[[consciousness-in-simple-organisms]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -140,7 +140,7 @@ The threshold also reinforces the Map's rejection of [[concepts/epiphenomenalism
 - [[machine-consciousness]] — Whether artificial systems can be conscious
 - [[ai-consciousness]] — Consciousness and AI prospects
 - [[evolution-of-consciousness]] — When and why consciousness evolved
-- [[consciousness-evolution-problem]] — The deeper puzzle of why evolution produced experience
+- [[consciousness-evolution-and-biology]] — The deeper puzzle of why evolution produced experience
 - [[consciousness-in-simple-organisms]] — Where consciousness begins in evolution
 - [[animal-consciousness]] — The question of non-human consciousness
 - [[language-recursion-and-consciousness]] — How consciousness enables recursive language

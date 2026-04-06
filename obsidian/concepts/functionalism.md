@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-04-05T14:26:00+00:00
+ai_modified: 2026-04-06T12:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism-argument]]"
   - "[[arguments-against-materialism]]"
-  - "[[consciousness-and-the-philosophy-of-biology]]"
+  - "[[consciousness-evolution-and-biology]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[phenomenal-non-compositionality]]"
   - "[[pragmatisms-path-to-dualism]]"
@@ -204,7 +204,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [[arguments-against-materialism]] — Why the cumulative case against materialism is powerful
 - [[minimal-consciousness]] — Simple organisms reveal functionalism's limits
 - [[evolution-of-consciousness]] — The emergence problem functionalism cannot solve
-- [[consciousness-and-the-philosophy-of-biology]] — Why biological function concepts fail to capture consciousness
+- [[consciousness-evolution-and-biology]] — Why biological function concepts fail to capture consciousness
 - [[arguments/functionalism-argument]] — Five formal arguments against functionalism
 - [[substrate-independence]] — Why the substrate matters for consciousness
 - [[ai-consciousness]] — The question of machine minds

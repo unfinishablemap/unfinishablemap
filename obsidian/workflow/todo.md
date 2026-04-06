@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced consciousness-evolution articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce merged [[consciousness-evolution-problem]] and [[consciousness-and-the-philosophy-of-biology]] into [[consciousness-evolution-and-biology]]. The following files reference archived articles and may need review: evolution-under-dualism.md, consciousness-and-intelligence.md, biological-teleology-and-the-interface-framework.md, ai-consciousness.md, the-strong-emergence-of-consciousness.md, evolution-of-consciousness.md, evolutionary-case-for-quantum-neural-effects.md, functionalism.md, evolutionary-case-for-mental-causation.md, biological-computationalisms-inadvertent-case-for-dualism.md, animal-consciousness.md
-- **Source**: coalesce
-- **Generated**: 2026-04-06
-
 ### P2: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
 - **Type**: coalesce
 - **Status**: pending
@@ -1986,6 +1979,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Update references to coalesced consciousness-evolution articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged [[consciousness-evolution-problem]] and [[consciousness-and-the-philosophy-of-biology]] into [[consciousness-evolution-and-biology]]. The following files reference archived articles and may need review: evolution-under-dualism.md, consciousness-and-intelligence.md, biological-teleology-and-the-interface-framework.md, ai-consciousness.md, the-strong-emergence-of-consciousness.md, evolution-of-consciousness.md, evolutionary-case-for-quantum-neural-effects.md, functionalism.md, evolutionary-case-for-mental-causation.md, biological-computationalisms-inadvertent-case-for-dualism.md, animal-consciousness.md
+- **Output**: None -- Context: Update references to coalesced consciousness-evolution articles
 
 ### ✓ 2026-04-06: Address Wheeler appropriation and add Tegmark decoherence criticism in Wheeler articles
 - **Type**: refine-draft

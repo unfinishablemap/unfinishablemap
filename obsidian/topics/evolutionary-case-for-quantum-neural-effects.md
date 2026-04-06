@@ -4,11 +4,11 @@ description: "If evolution optimised quantum effects for bird navigation and enz
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-29T17:12:00+00:00
+ai_modified: 2026-04-06T12:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-evolution-problem]]"
+  - "[[consciousness-evolution-and-biology]]"
 concepts:
   - "[[quantum-biology-and-neural-mechanisms]]"
   - "[[evolution-of-consciousness]]"

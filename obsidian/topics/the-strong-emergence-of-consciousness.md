@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-24T21:10:00+00:00
+ai_modified: 2026-04-06T12:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[emergence-void]]"
-  - "[[consciousness-evolution-problem]]"
+  - "[[consciousness-evolution-and-biology]]"
   - "[[topics/free-will]]"
   - "[[philosophical-zombies]]"
   - "[[knowledge-argument]]"
@@ -35,7 +35,6 @@ related_articles:
   - "[[measurement-problem]]"
   - "[[evolution-of-consciousness]]"
   - "[[explanatory-gap]]"
-  - "[[consciousness-and-the-philosophy-of-biology]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
@@ -84,7 +83,7 @@ The induction assumes consciousness is the same *kind* of problem as chemical bo
 
 **The explanatory gap is structural, not informational.** When chemists could not explain bonding, they lacked information about quantum mechanics. More information closed the gap. The consciousness gap is different. We can specify neural correlates in arbitrary detail, and the question of why that pattern produces *that specific experience* remains untouched. The gap is not between what we know and what we need to know but between what physical description provides (structure, function, dynamics) and what phenomenal experience *is* (qualitative, subjective, first-personal).
 
-**Functional definability is absent.** Temperature, liquidity, and life can be defined in terms of what they *do* — their causal roles — without reference to what they are *like*. Consciousness resists this — a limitation that [[consciousness-and-the-philosophy-of-biology|philosophy of biology]] reveals precisely, since both etiological and causal-role accounts of biological function were built for traits whose contributions can be exhaustively described in physical terms. A complete functional description of a system leaves open whether the system has any experience at all. This is what [[philosophical-zombies|zombie arguments]] exploit: a functionally identical system could conceivably lack consciousness entirely.
+**Functional definability is absent.** Temperature, liquidity, and life can be defined in terms of what they *do* — their causal roles — without reference to what they are *like*. Consciousness resists this — a limitation that [[consciousness-evolution-and-biology|philosophy of biology]] reveals precisely, since both etiological and causal-role accounts of biological function were built for traits whose contributions can be exhaustively described in physical terms. A complete functional description of a system leaves open whether the system has any experience at all. This is what [[philosophical-zombies|zombie arguments]] exploit: a functionally identical system could conceivably lack consciousness entirely.
 
 **Third-person accessibility fails.** Chemical bonding, life, and superconductivity are observable from the outside. Consciousness is accessible only from the first-person perspective. No external measurement tells you what red looks like to the system being measured. [[qualia|Qualitative character]] is invisible to third-person methods.
 

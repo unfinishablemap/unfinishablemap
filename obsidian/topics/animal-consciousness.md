@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-05T14:02:00+00:00
+ai_modified: 2026-04-06T12:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[animal-consciousness-2026-01-14]]"
   - "[[consciousness-influence-intelligence-2026-01-21]]"
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
-  - "[[consciousness-and-the-philosophy-of-biology]]"
+  - "[[consciousness-evolution-and-biology]]"
   - "[[cetacean-and-corvid-consciousness]]"
 ai_contribution: 100
 author: null
@@ -87,7 +87,7 @@ Consciousness emerged separately in:
 
 Godfrey-Smith argues that features of vertebrate brain architecture traditionally "viewed as inessential" for consciousness may indeed be inessential. What matters are large-scale dynamic patterns, not specific anatomical structures. The conservation of dynamic patterns despite wildly divergent brain architectures suggests consciousness depends on *how* neural activity is organized, not *where* it occurs.
 
-This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage. Independent evolution of consciousness-supporting architecture also raises the possibility of [[interface-heterogeneity]]—that different lineages may couple with consciousness through fundamentally different physical mechanisms. It also raises [[consciousness-and-the-philosophy-of-biology|philosophy of biology questions]] about natural kinds: whether consciousness in different lineages represents the same natural kind, or whether the category resists the essentialist frameworks biology typically applies.
+This multiple-origins framework supports The Unfinishable Map's dualist position: if consciousness interfaces with physical systems rather than being produced by specific structures, we might expect it to appear wherever the relevant organizational properties exist—regardless of phylogenetic lineage. Independent evolution of consciousness-supporting architecture also raises the possibility of [[interface-heterogeneity]]—that different lineages may couple with consciousness through fundamentally different physical mechanisms. It also raises [[consciousness-evolution-and-biology|philosophy of biology questions]] about natural kinds: whether consciousness in different lineages represents the same natural kind, or whether the category resists the essentialist frameworks biology typically applies.
 
 ## The Agnostic Challenge
 
