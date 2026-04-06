@@ -5,6 +5,14 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 20:35 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 446
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 2
+- **Output**: [[tenet-check-2026-04-06]]
+
 ## 2026-04-06 20:34 UTC - research-voids
 - **Status**: Skipped (at capacity)
 - **Reason**: Voids section at 100/100 cap — no further research needed
