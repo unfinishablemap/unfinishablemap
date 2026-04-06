@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-04 20:34:00+00:00
+ai_modified: 2026-04-06 16:36:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,12 +18,12 @@ concepts:
 - '[[process-philosophy]]'
 created: 2026-01-15
 date: &id001 2026-01-15
-description: Vivid conscious experiences during cardiac arrest when brain activity
-  should preclude experience. Evidence supports filter theory over production models.
+description: Vivid conscious experiences during cardiac arrest challenge brain-production
+  models. Filter theory offers an alternative, though with acknowledged limitations.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 16:25:00+00:00
+last_deep_review: 2026-04-06 16:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ Common RED features include:
 - **Profound peace**: Deep tranquility and loss of fear of death
 - **Reluctant return**: Sense of being sent back against one's preference
 
-The terminology shift matters: RED emphasizes that subjects recall awareness during documented physiological death—cardiac arrest with no measurable brain function.
+The terminology shift matters: RED emphasizes that subjects recall awareness during documented cardiac arrest, when brain function should be severely compromised.
 
 ## Major Research Studies
 
@@ -65,7 +65,7 @@ The first rigorous prospective study: 344 cardiac arrest survivors across 10 Dut
 - Patients with deep NDEs were more likely to die within 30 days
 - Transformation effects (reduced fear of death, increased spirituality) persisted years later
 
-Van Lommel's key observation: "With a purely physiological explanation such as cerebral anoxia for the experience, most patients who have been clinically dead should report one." But only a minority do. The selectivity requires explanation.
+Van Lommel's key observation: "With a purely physiological explanation such as cerebral anoxia for the experience, most patients who have been clinically dead should report one." But only a minority do. The selectivity requires explanation—though unmeasured physiological variables (regional brain vulnerability, genetic factors, precise anoxia profiles) remain possible distinguishing factors.
 
 ### AWARE II (2023)
 
@@ -99,7 +99,7 @@ These explanations share a pattern: they identify neural correlates of NDE featu
 
 [Illusionists](/concepts/illusionism/) would argue NDEs don't require explaining consciousness during brain compromise—NDE reports are data about how things *seemed*, and memory consolidation during recovery could construct vivid narratives without requiring actual awareness during arrest.
 
-Two responses: First, the "illusion" of NDE experience must itself be explained—if physical processes cannot generate phenomenal consciousness, they cannot generate an illusion that feels "more real than real." Second, NDE [introspective reports](/concepts/introspection/) show characteristics of reliable phenomenal access: cross-cultural consistency, resistance to suggestion, and transformation effects persisting for decades. Van Lommel's longitudinal follow-up found that NDE experiencers maintained significant personality changes and reduced fear of death at eight-year follow-up, whereas non-experiencers showed no comparable shifts—a pattern more consistent with genuine experience than post hoc confabulation.
+Two responses: First, the "illusion" of NDE experience must itself be explained—if physical processes cannot generate phenomenal consciousness, they cannot generate an illusion that feels "more real than real." Second, NDE [introspective reports](/concepts/introspection/) show characteristics of reliable phenomenal access: cross-cultural commonalities (though with cultural variation in interpretation), resistance to suggestion, and transformation effects persisting for decades. Van Lommel's longitudinal follow-up found that NDE experiencers maintained significant personality changes and reduced fear of death at eight-year follow-up, whereas non-experiencers showed no comparable shifts—a pattern more consistent with genuine experience than post hoc confabulation.
 
 A [mysterian](/concepts/mysterianism/) perspective suggests the NDE puzzle may exceed human conceptual resources entirely—the relationship between brain states and consciousness during dying might be genuinely incomprehensible, explaining why both materialists and dualists find each other's positions baffling.
 
@@ -115,13 +115,13 @@ This is paradoxical if experience is produced by brain activity. When the factor
 
 ### Terminal Lucidity and Broader Death Phenomenology
 
-**Terminal lucidity**—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents a structurally parallel puzzle. Nahm and Greyson documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia (Nahm et al. 2012). Patients non-verbal for years suddenly recognized family, held coherent conversations, and recalled long-lost memories. Batthyány's 2023 survey found 73% of healthcare professionals had witnessed paradoxical lucidity at least once.
+**Terminal lucidity**—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents a structurally parallel puzzle. Nahm and Greyson documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia (Nahm et al. 2012)—though most evidence is retrospective caregiver accounts rather than controlled prospective observation. Patients non-verbal for years suddenly recognized family, held coherent conversations, and recalled long-lost memories. Batthyány's 2023 survey found 73% of healthcare professionals reported witnessing paradoxical lucidity at least once.
 
 The puzzle: if neurodegeneration has physically destroyed neural substrates for memory and thought, what restores them before death? Mashour et al. (2019) called paradoxical lucidity a "potential paradigm shift," suggesting some dementia involves *functional* suppression rather than purely structural destruction. But this strains against cases with massive structural damage where relevant neural substrates no longer exist.
 
 Filter theory accommodates terminal lucidity naturally: as the brain's interface dissolves near death, constraints that dementia imposed on consciousness loosen. The memories were accessed through the brain, not stored in it; as filtering collapses, access briefly returns.
 
-Terminal lucidity is one of several [death-related phenomena beyond NDEs](/topics/death-and-consciousness/) — including deathbed visions, shared death experiences, and nearing death awareness — that collectively strengthen the case against brain-production models. Each phenomenon manifests under different physiological conditions and timelines, yet all point toward the same conclusion: the consciousness-brain relationship during dying is more complex than production models accommodate. The convergence across these varied phenomena is more evidentially significant than any single phenomenon in isolation.
+Terminal lucidity is one of several [death-related phenomena beyond NDEs](/topics/death-and-consciousness/)—including deathbed visions, shared death experiences, and nearing death awareness—that collectively challenge brain-production models. Each manifests under different physiological conditions, yet all suggest the consciousness-brain relationship during dying is more complex than production models accommodate.
 
 ### The Asymmetry Problem
 
@@ -168,6 +168,8 @@ None of these would definitively refute dualism, but they would significantly we
 - [death-and-consciousness](/topics/death-and-consciousness/) — The broader question of consciousness and mortality, including deathbed visions, shared death experiences, terminal lucidity, and nearing death awareness
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — NDEs as the extreme case of interface reconfiguration
 - [filter-theory](/concepts/filter-theory/) — The transmission model that explains the paradox of heightened experience
+- [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/) — Consciousness persisting at metabolic thresholds where production models predict absence
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence favouring interface over production models
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — What brain activity tells us (and doesn't)
 - [personal-identity](/topics/personal-identity/) — Why the specific experiencer matters
 - [illusionism](/concepts/illusionism/) — The strongest challenge: are NDE reports just confabulation?
@@ -184,17 +186,3 @@ None of these would definitively refute dualism, but they would significantly we
 1. Parnia, S. et al. (2022). Guidelines and standards for the study of death and recalled experiences of death. *Annals of the New York Academy of Sciences*, 1511(1):5-21.
 1. Parnia, S. et al. (2023). AWAreness during REsuscitation II: A multi-center study. *Resuscitation*.
 1. Van Lommel, P. et al. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358:2039-2045.
-
-<!-- AI REFINEMENT LOG - 2026-04-04
-Changes made:
-- Added selection bias caveat to AWARE II 39.3% figure in opening paragraph (was presented without noting 28/567 self-selected sample)
-- Strengthened acknowledgment of filter theory asymmetry problem: explicitly called mechanism/channel distinction "ad hoc" and "explanatorily convenient rather than principled," added unfalsifiability concern
-- Replaced uncited confabulation claim with specific citation to Van Lommel's longitudinal follow-up data showing persistent personality changes in experiencers vs non-experiencers
-- Fixed gamma surge inconsistency: tenet section now matches research section's ambiguity rather than treating surges as supporting dualism
-- Clarified occurrence rate range in Occam's Razor tenet section to distinguish Van Lommel's representative sample from AWARE II's small subset
-
-Based on pessimistic review (pessimistic-2026-04-04-evening.md) identifying 4 high-severity issues.
-Key improvements: Intellectual honesty on statistical claims and theoretical weaknesses.
-
-This log should be removed after human review.
--->

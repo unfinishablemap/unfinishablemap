@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-04-06 18:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -88,7 +88,7 @@ The Map claims there's a fact about which one is you—that you are not intercha
 
 Three considerations support the inference:
 
-1. **The conceivability argument**: A zombie—physically and functionally identical to me but lacking consciousness—is conceivable. If conceivable, then consciousness is not determined by physical/functional properties. But if consciousness isn't so determined, neither is *this* consciousness. What makes me conscious rather than zombie-like isn't captured by qualitative properties I share with my hypothetical twin. The difference must be non-qualitative: my haecceity.
+1. **The conceivability argument**: A zombie—physically and functionally identical to me but lacking consciousness—is conceivable (Chalmers 1996). If conceivable, then consciousness is not determined by physical/functional properties. This establishes that consciousness involves something beyond the qualitative profile captured by physics. A further step is needed to reach haecceity: if what makes me conscious at all isn't fixed by my qualitative properties, then what makes me *this* conscious being rather than another—equally non-physical—conscious being is also unlikely to be qualitatively determined. The conceivability argument doesn't prove haecceity on its own, but it opens logical space for non-qualitative individuation by showing that the relevant facts about consciousness already outrun qualitative description.
 
 2. **The causal argument**: If consciousness causally influences physical outcomes (per the Bidirectional Interaction tenet), then *this* consciousness has a unique causal history. The replica's consciousness, even if qualitatively identical, would begin its causal engagement from creation, not from my birth. Causal history individuates.
 
@@ -100,7 +100,7 @@ Three considerations support the inference:
 
 This doesn't prove haecceity with certainty. But it shifts the burden: anti-haecceitists must explain why the phenomenological evidence misleads, not merely assert that it does.
 
-Crucially, haecceity does not require a permanent soul-substance. [Process haecceitism](/topics/eastern-philosophy-consciousness/) shows that particularity can apply to experiential *streams*—*this* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance.
+Crucially, haecceity does not require a permanent soul-substance. The Map's concept of [process haecceitism](/topics/eastern-philosophy-consciousness/)—a synthesis drawing on Whitehead's process philosophy and elements of Buddhist impermanence—holds that particularity can apply to experiential *streams*. *This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Process haecceitism is the Map's own construction, not a position found within Buddhist philosophy itself, which generally resists claims of irreducible personal particularity (see [buddhism-and-dualism](/concepts/buddhism-and-dualism/)).
 
 This connects to quantum selection. If consciousness influences which quantum outcomes occur, then *which* consciousness does the selecting matters. A teletransporter replica wouldn't be the consciousness that was making selections—even if psychologically identical. Many-worlds eliminates this role entirely: everything happens in some branch, so there's nothing for consciousness to select. (A caveat: consciousness-selection within Born probabilities is empirically indistinguishable from random collapse—see [measurement-problem](/concepts/measurement-problem/). The conceptual point about individuation holds regardless: if *any* non-physical selection occurs, the selector's identity matters.)
 
@@ -136,7 +136,7 @@ This aligns with Parfit's conclusion but for different reasons. Parfit says iden
 
 ### Evidence from Split-Brain Cases
 
-[Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently. Yet Thomas Nagel observed these patients have "too much unity to say 'two', yet too much separation to say 'one'."
+[Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently. Yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, yet "too much diversity" to count straightforwardly as one.
 
 This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists despite massive disconnection suggests consciousness has intrinsic unity physical disconnection cannot fully sever. Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding that physical connections enable.
 
@@ -144,7 +144,11 @@ This supports the Map's view: if consciousness were merely brain processes, comp
 
 If consciousness constitutes personal identity and ceases during dreamless sleep, the person who wakes may not be the same person who slept. The [sleep-consciousness-void](/voids/sleep-consciousness-void/) explores this gap we enter nightly and cannot observe from within.
 
-The Map's response draws on two complementary insights. The Vedantic analysis holds that consciousness persists through deep sleep as [witness-awareness](/concepts/witness-consciousness/) stripped of content—we remember nothing not because consciousness was absent but because the ego that would encode memory was not present. The [Buddhist perspective](/topics/eastern-philosophy-consciousness/) makes the gap less threatening from a different angle: if identity is already process-based rather than substance-based, a gap doesn't destroy a substance but merely pauses a causal process that resumes through continuity. The gap in memory need not imply a gap in consciousness—or in the conscious being whose identity is in question.
+The Map's response draws on two distinct traditions that, while both relevant, should not be conflated. The Vedantic analysis holds that consciousness persists through deep sleep as [witness-awareness](/concepts/witness-consciousness/) stripped of content—we remember nothing not because consciousness was absent but because the ego that would encode memory was not present (Mandukya Upanishad). This presupposes a persistent witness, a commitment central to Advaita Vedanta.
+
+Buddhism, by contrast, generally rejects a persistent witness-self. The [Buddhist emphasis](/topics/eastern-philosophy-consciousness/) on impermanence and dependent origination suggests a different framing: if identity is process-based rather than substance-based, a gap doesn't destroy a substance but merely pauses a causal process that resumes through continuity. However, Buddhism would not typically endorse the claim that *this* particular consciousness persists through the gap.
+
+The Map synthesises these insights selectively: it takes seriously the Vedantic intuition that consciousness need not cease when memory-formation stops, while drawing on process metaphysics (Whitehead rather than Buddhism proper) for a framework in which indexical identity applies to streams rather than substances. The gap in memory need not imply a gap in consciousness—or in the conscious being whose identity is in question.
 
 ## The Illusionist Challenge
 
@@ -188,7 +192,7 @@ But if the Map is right—if *you* are this unrepeatable conscious being—then 
 
 ## What Would Challenge This View?
 
-The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete loss of particularity—not just loss of substantial selfhood, but loss of the sense of being *this* experiencer (current reports suggest particularity survives self-deconstruction); (5) a complete neural explanation of unified experience that accounts for split-brain unity.
+The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete loss of particularity—not just loss of substantial selfhood, but loss of the sense of being *this* experiencer (existing accounts of meditative self-deconstruction, such as those documented in Albahari 2006, typically describe loss of ego-identification while a perspectival centre remains, but more radical cases would challenge this); (5) a complete neural explanation of unified experience that accounts for split-brain unity.
 
 These challenges remain unmet, but articulating them clarifies what evidence would count against the view.
 
@@ -238,4 +242,22 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Tallis, R. (2016). "The Disappearance of Appearance: Illusions of Illusionism." *Philosophy*, 91(3), 363-379.
 1. Dennett, D. (1991). *Consciousness Explained*. Little, Brown.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+1. Albahari, M. (2006). *Analytical Buddhism: The Two-Tiered Illusion of Self*. Palgrave Macmillan.
+1. Nagel, T. (1971). "Brain Bisection and the Unity of Consciousness." *Synthese*, 22(3-4), 396-413.
+1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
+
+<!-- AI REFINEMENT LOG - 2026-04-06
+Changes made:
+- Fixed conceivability argument non-sequitur: added explicit bridging premise showing the argument opens logical space for haecceity rather than proving it directly; weakened conclusion accordingly
+- Fixed Buddhist/Vedantic conflation: process haecceitism now presented as the Map's own synthesis (drawing on Whitehead), not attributed to Buddhism; removed unsourced claim about Buddhist contemplatives
+- Dreamless sleep section rewritten: Vedantic and Buddhist perspectives now presented as distinct traditions with genuine disagreements, not "complementary insights"; Map's selective synthesis made explicit
+- Added citation for Nagel split-brain observation (1971 Synthese paper); corrected paraphrase
+- Added Albahari 2006 citation for contemplative reports of perspectival centre surviving ego-dissolution
+- Added Chalmers 1996 citation for zombie conceivability argument
+
+Based on pessimistic review findings (2026-04-06).
+Key improvements: argument rigour and proper attribution of Map-specific syntheses vs. source traditions.
+
+This log should be removed after human review.
+-->

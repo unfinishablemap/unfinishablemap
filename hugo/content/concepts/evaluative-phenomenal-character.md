@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-06 17:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -11,7 +11,6 @@ coalesced_from:
 - /concepts/moral-phenomenology-and-perception/
 concepts:
 - '[[qualia]]'
-- '[[phenomenal-value-realism]]'
 - '[[emotion-and-dualism]]'
 - '[[introspection]]'
 - '[[illusionism]]'
@@ -34,11 +33,11 @@ concepts:
 created: 2026-01-16
 date: &id001 2026-04-06
 description: Conscious experience carries intrinsic evaluative character—felt goodness,
-  badness, beauty, wrongness—that extends the hard problem into value.
+  badness, beauty, wrongness—extending the hard problem of consciousness into value.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 14:06:00+00:00
+last_deep_review: 2026-04-06 17:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,6 +61,7 @@ topics:
 - '[[consciousness-and-normative-force]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[phenomenology-of-moral-life]]'
+- '[[phenomenal-value-realism]]'
 ---
 
 Conscious experience carries intrinsic evaluative character. Pain is bad not because we judge it bad but because badness is constitutive of what pain feels like. Beauty presents itself as significant without inference. Moral wrongness appears as a feature of the situation, not an overlay added by the observer. The Unfinishable Map holds that this evaluative phenomenal character—what [evaluative qualia](/concepts/qualia/) isolate as a distinct phenomenal dimension—grounds [phenomenal-value-realism](/topics/phenomenal-value-realism/): intrinsic value is a feature of conscious experience, and without conscious experience, nothing has intrinsic worth. This claim extends the [hard problem](/topics/hard-problem-of-consciousness/) beyond sensation into value: physics cannot capture not only why there is something it is like to see red, but why there is something it is like for suffering to matter.
@@ -88,7 +88,7 @@ Hume argued you cannot derive "ought" from "is." The logical point stands: no fo
 
 ## Phenomenal Value Pluralism
 
-While hedonic valence matters, the Map holds it is not the only thing that matters. Multiple features of conscious experience carry intrinsic value:
+While hedonic [valence](/concepts/valence/) matters, the Map holds it is not the only thing that matters. Multiple features of conscious experience carry intrinsic value:
 
 | Feature | Why It Matters |
 |---------|----------------|

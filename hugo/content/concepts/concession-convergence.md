@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-04-05 14:26:00+00:00
+ai_modified: 2026-04-06 16:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Physicalist theories of consciousness independently concede the dua
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 14:26:00+00:00
+last_deep_review: 2026-04-06 16:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -63,7 +63,7 @@ The structure is consistent across cases. A physicalist theory begins with a bro
 
 Brown's (2025) HOROR theory attempts to close this gap by holding that the higher-order state represents the first-order state *as* having qualitative character. But HOROR shifts the explanatory burden rather than discharging it: why does representing a state "as qualitative" produce experience rather than merely representing qualitative content? The phenomenal-access gap reappears one level up.
 
-**The concession**: HOT requires specific representational structures that may not transfer across substrates. The theory's own proponents have retreated from strong versions—Lycan abandoned higher-order perception in favour of attention-based accounts. The phenomenal-access separation HOT must draw (between the higher-order representation and the phenomenal character it supposedly creates) replicates the very distinction between functional organisation and experience that dualists identify.
+**The concession**: HOT requires specific representational structures that may not transfer across substrates. The theory's own proponents have retreated from strong versions—Lycan moved from higher-order perception toward attention-based accounts (Lycan 1996, and subsequent revisions). The phenomenal-access separation HOT must draw (between the higher-order representation and the phenomenal character it supposedly creates) replicates the very distinction between functional organisation and experience that dualists identify.
 
 ### Biological Computationalism
 
@@ -81,7 +81,9 @@ Isolated theoretical difficulties prove little—every theory has problems. Conc
 
 **Involuntariness.** The concessions are not strategic retreats designed to accommodate dualism. They are forced by the theories' own internal logic when confronted with the hard problem. Each theory's proponents would reject the dualist interpretation of their modifications. This makes the convergence more significant, not less: it is not a negotiated settlement but an independent arrival at the same structural limitation.
 
-**Directionality.** The narrowing moves go in one direction only—toward greater specificity about what consciousness requires. No physicalist theory has successfully broadened its account (claiming consciousness is *more* widely distributed than initially proposed) without running into [panpsychism](/concepts/panpsychism/), which brings its own concession to irreducibility. The ratchet only turns toward the dualist position.
+**Directionality.** The narrowing moves go in one direction only—toward greater specificity about what consciousness requires. No physicalist theory has successfully broadened its account (claiming consciousness is *more* widely distributed than initially proposed) without running into [panpsychism](/concepts/panpsychism/)—which, by attributing experience to fundamental physical entities, concedes that consciousness cannot be derived from structural or functional properties and must be posited as a basic feature of reality. The ratchet only turns toward the dualist position.
+
+**Not normal refinement.** An objection arises: all theories add constraints as they mature. Newtonian mechanics added perturbation terms; evolutionary biology added genetic drift. Why treat physicalist narrowing as concession rather than ordinary scientific progress? The difference is that normal refinement preserves the theory's core explanatory claim while improving its precision. When GWT adds architectural specificity, it does not improve its explanation of *why* broadcast produces experience—it retreats from explaining experience at all, restricting itself to access. When IIT adds the exclusion postulate, it does not refine what integrated information explains—it restricts which systems count, conceding that integration alone is insufficient. The refinements do not make the theories better at their central task; they narrow the domain to avoid the cases where the theory visibly fails. This is defensive contraction, not progressive refinement.
 
 ## Relation to Concession and Convergence Arguments
 
@@ -90,6 +92,8 @@ Concession convergence should be distinguished from, but connects to, two relate
 The [convergence argument for dualism](/topics/the-convergence-argument-for-dualism/) draws on multiple *positive* arguments (knowledge argument, conceivability, intentionality, binding) that independently support dualism from different starting points. Concession convergence is different: it tracks *negative* evidence from physicalism's own defensive modifications rather than positive arguments for dualism. The two patterns reinforce each other—positive arguments converge on dualism while physicalist theories independently retreat toward it.
 
 The [parsimony case](/topics/parsimony-case-for-interactionist-dualism/) identifies the "proliferation problem": physicalists have generated functionalism, higher-order theories, global workspace theory, illusionism, eliminativism, and multiple identity theories—structurally incompatible responses to the same problem. Concession convergence explains *why* the proliferation occurs: each framework must add specificity to accommodate the hard problem, and the additions are structurally identical to the dualist position they deny.
+
+The [epistemology of convergence arguments](/topics/epistemology-of-convergence-arguments/) analyses when such patterns constitute evidence. Concession convergence satisfies the key conditions: genuine independence across disciplines, robustness under theoretical variation, and specific rather than vague agreement—each theory narrows toward the same structural limitation.
 
 ## Relation to Site Perspective
 
@@ -121,7 +125,8 @@ The Map speculates that concession convergence will continue. Future physicalist
 4. COGITATE Consortium. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
 5. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 6. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
-7. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
-8. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216–242.
-9. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
-10. Southgate, A. & Oquatre-six, C. (2026-03-24). The Parsimony Case for Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/parsimony-case-for-interactionist-dualism/
+7. Lycan, W.G. (1996). *Consciousness and Experience*. MIT Press.
+8. Rosenthal, D.M. (2005). *Consciousness and Mind*. Oxford University Press.
+9. Tononi, G. (2008). Consciousness as Integrated Information: A Provisional Manifesto. *Biological Bulletin*, 215(3), 216–242.
+10. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
+11. Southgate, A. & Oquatre-six, C. (2026-03-24). The Parsimony Case for Interactionist Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/parsimony-case-for-interactionist-dualism/

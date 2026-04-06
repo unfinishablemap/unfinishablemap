@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 12:47:00+00:00
+ai_modified: 2026-04-06 17:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -18,6 +18,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[process-philosophy]]'
 - '[[panpsychism]]'
+- '[[russellian-monism]]'
 - '[[functionalism]]'
 - '[[emergence]]'
 - '[[agent-teleology]]'
@@ -30,7 +31,7 @@ description: Why evolutionary theory and biology's conceptual toolkit—function
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 12:47:00+00:00
+last_deep_review: 2026-04-06 17:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +115,7 @@ Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis proposes that
 
 ### Reframe the Problem
 
-[Process philosophy](/concepts/process-philosophy/) and [panpsychism](/concepts/panpsychism/) deny the central premise—that consciousness appeared where none existed before. If experiential properties are fundamental, evolution organised pre-existing experiential properties into complex, unified experiences. The question shifts from "why did experience arise?" to "how did experiential integration increase?"—a scalar question that evolution handles well. But this introduces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness?
+[Process philosophy](/concepts/process-philosophy/) and [panpsychism](/concepts/panpsychism/) deny the central premise—that consciousness appeared where none existed before. If experiential properties are fundamental, evolution organised pre-existing experiential properties into complex, unified experiences. The question shifts from "why did experience arise?" to "how did experiential integration increase?"—a scalar question that evolution handles well. But this introduces the [combination problem](/concepts/combination-problem/): how do micro-experiences combine into unified consciousness? [Russellian monism](/concepts/russellian-monism/)—the view that the intrinsic nature of physical properties is itself experiential—offers a related reframing: consciousness was never absent from the physical world, only from physics' structural descriptions of it. Like panpsychism, it faces the combination problem, but it promises to dissolve the evolution question by making experience coextensive with the physical.
 
 ### Embrace Dualism
 
@@ -161,6 +162,7 @@ No theory of mind has solved this. The honest position is to acknowledge this wh
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — Teleological explanation and the interface model
 - [causal-closure](/concepts/causal-closure/) — The causal closure principle and its limits
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness matters: without experience, nothing has value
+- [russellian-monism](/concepts/russellian-monism/) — The view that the intrinsic nature of physical properties is experiential
 - [functionalism](/concepts/functionalism/) — The philosophical framework that grounds functional explanation
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/) — Where consciousness begins in the biological world
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Limits of reductive explanation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 13:47:00+00:00
+ai_modified: 2026-04-06 15:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,38 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenology of resistance across domains
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Physical resistance (objects pushing back), logical necessity (constraints on thought), moral obligation (binding action), aesthetic standards (judging creation) — these share a common phenomenal signature of encountering something independent of the will. Research whether this convergence reveals a common interface mechanism. Key sources: Husserl on resistance, Scheler on value-resistance, Gibson on affordances, Peacocke on rational compulsion. Feeds into existing P3 expand-topic task on phenomenology of resistance and constraint. Target section: topics/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
-### P2: Deep review sleep-consciousness-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-02, never deep-reviewed — over 2 months without any review. Voids article on the limits of consciousness during sleep. Verify coherence, accuracy of sleep science claims, cross-references to dream-consciousness and altered-states-of-consciousness, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
-### P2: Deep review subjective-aim.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-17 — 48 days ago. Concepts article on Whitehead's subjective aim — a key concept for the Map's process-philosophy connections. Verify coherence, accuracy of Whiteheadian claims, cross-references to process-philosophy and prehension, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
-### P2: Deep review preemption.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-03-01 — 36 days ago. Concepts article on causal preemption in the mental causation debate. Verify coherence, accuracy of philosophical claims about overdetermination and preemption, cross-references to mental-causation-and-downward-causation and consciousness-and-causal-powers, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P3: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
 - **Status**: pending
 - **Notes**: Suggested by optimistic review. Wine experts, radiologists, and musicians report qualitative shifts in what they perceive — genuinely new phenomenal properties arising from training, not just better discrimination. Bears directly on whether consciousness contributes to cognition or merely accompanies it. Builds on contemplative-epistemology, perception, phenomenal-contrast-method. Target section: topics/ (226/230). See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on consciousness and aesthetic experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. No systematic treatment of beauty, elegance, and aesthetic response as phenomenal domains. Aesthetic experience involves both production (mind-to-world) and reception (world-to-mind), providing a natural test case for bidirectional interaction. Builds on consciousness-and-creativity, consciousness-and-aesthetic-creation. Target section: topics/. See optimistic-2026-04-06-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on interface dissociation cases as unified evidence for filter theory
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Terminal lucidity, lucid dreaming, psychedelics, and anaesthesia paradox all involve dissociation between neural state and conscious content — currently treated separately but constitute converging evidence for filter/transmission models. Systematising them would be far more powerful. Builds on terminal-lucidity-and-filter-transmission-theory, lucid-dreaming, psychedelics-and-consciousness, filter-theory. Target section: topics/. See optimistic-2026-04-06-evening.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
@@ -1994,6 +1980,64 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Address conceivability non-sequitur and Eastern philosophy inconsistency in personal-identity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The conceivability argument for haecceity contains a non-sequitur—zombie conceivability shows consciousness isn't physical, but doesn't establish non-qualitative individuation (haecceity). Needs an additional premise or weaker conclusion. (2) The article invokes Vedantic witness-consciousness and Buddhist process philosophy as complementary, but these traditions fundamentally disagree on persistent witness. "Process haecceitism" should be presented as the Map's synthesis, not attributed to Buddhism. Also fix unsupported claims (Nagel quote needs citation, Buddhist contemplative reports need sourcing). See pessimistic-2026-04-06-afternoon.md
+- **Output**: obsidian/topics/personal-identity.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The conceivability argument for haecceity contains a non-sequitur—zombie conceivability shows consciousness isn't physical, but doesn't establish non-qualitative individuation (haecceity). Needs an additional premise or weaker conclusion. (2) The article invokes Vedantic witness-consciousness and Buddhist process philosophy as complementary, but these traditions fundamentally disagree on persistent witness. "Process haecceitism" should be presented as the Map's synthesis, not attributed to Buddhism. Also fix unsupported claims (Nagel quote needs citation, Buddhist contemplative reports need sourcing). See pessimistic-2026-04-06-afternoon.md
+
+### ✓ 2026-04-06: Deep review phenomenology-of-recursive-self-awareness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_modified 2026-04-04) recently refactored. Article on recursive self-awareness transforming phenomenal experience through reflexive distance and structural limits on self-knowledge. No deep review recorded. Verify coherence, accuracy of claims about metacognition and witness consciousness; check cross-references to self-and-self-consciousness, introspection, and self-opacity; and confirm tenet alignment.
+- **Output**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
+
+### ✓ 2026-04-06: Deep review evaluative-phenomenal-character.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_modified 2026-04-06) recently refactored. Argues conscious experience carries intrinsic evaluative character extending the hard problem into value. No deep review recorded. Verify accuracy of claims about evaluative qualia; check cross-references to phenomenal-value-realism, emotion-and-dualism, aesthetics-and-consciousness, and consciousness-and-normative-force; and confirm tenet alignment.
+- **Output**: obsidian/concepts/evaluative-phenomenal-character.md
+
+### ✓ 2026-04-06: Deep review consciousness-evolution-and-biology.md
+- **Type**: deep-review
+- **Notes**: AI-generated content recently refactored (ai_modified 2026-04-06). Article on why evolutionary theory and biology's conceptual toolkit fail to explain consciousness. No deep review recorded. Verify accuracy of claims about biological function, teleology, and natural selection; check cross-references to evolution-of-consciousness, consciousness-as-amplifier, and the-strong-emergence-of-consciousness; and confirm tenet alignment.
+- **Output**: obsidian/topics/consciousness-evolution-and-biology.md
+
+### ✓ 2026-04-06: Cross-review concession-convergence.md against arguments-against-materialism and related articles
+- **Type**: cross-review
+- **Notes**: New concept page created 2026-04-05. The concession convergence pattern should be cross-referenced in arguments-against-materialism.md, the-case-for-dualism.md, the-epiphenomenalist-threat.md, and functionalism.md. Check for consistency, add inbound links, and verify the pattern complements rather than duplicates existing anti-materialist arguments.
+- **Output**: obsidian/concepts/concession-convergence.md -- Context: Cross-review concession-convergence.md against arguments-against-materialism and related articles
+
+### ✓ 2026-04-06: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) created 2026-04-05, never reviewed. Argues that physicalist theories independently concede the dualist claim through defensive modifications. Directly supports Tenet 1 (Dualism). Verify accuracy of characterisations of functionalism, IIT, global workspace theory, and higher-order theories; check cross-references to arguments-against-materialism, explanatory-gap, and the-case-for-dualism; and confirm tenet alignment.
+- **Output**: obsidian/concepts/concession-convergence.md
+
+### ✓ 2026-04-06: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against functionalism and AI consciousness articles
+- **Type**: cross-review
+- **Notes**: New article created 2026-04-04 via expand-topic, deep-reviewed but not cross-reviewed. Arguments about biological computationalism inadvertently conceding dualism have direct implications for functionalism.md, ai-consciousness.md, substrate-independence.md, and consciousness-as-amplifier.md. Check for cross-links, reinforcing arguments, or contradictions.
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md -- Context: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against functionalism and AI consciousness articles
+
+### ✓ 2026-04-06: Deep review preemption.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-03-01 — 36 days ago. Concepts article on causal preemption in the mental causation debate. Verify coherence, accuracy of philosophical claims about overdetermination and preemption, cross-references to mental-causation-and-downward-causation and consciousness-and-causal-powers, and tenet alignment.
+- **Output**: obsidian/concepts/preemption.md
+
+### ✓ 2026-04-06: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-17 — 48 days ago. Concepts article on Whitehead's subjective aim — a key concept for the Map's process-philosophy connections. Verify coherence, accuracy of Whiteheadian claims, cross-references to process-philosophy and prehension, and tenet alignment.
+- **Output**: obsidian/concepts/subjective-aim.md
+
+### ✓ 2026-04-06: Deep review sleep-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-02, never deep-reviewed — over 2 months without any review. Voids article on the limits of consciousness during sleep. Verify coherence, accuracy of sleep science claims, cross-references to dream-consciousness and altered-states-of-consciousness, and tenet alignment.
+- **Output**: obsidian/voids/sleep-consciousness-void.md
+
+### ✓ 2026-04-06: Research phenomenology of resistance across domains
+- **Type**: research-topic
+- **Notes**: Physical resistance (objects pushing back), logical necessity (constraints on thought), moral obligation (binding action), aesthetic standards (judging creation) — these share a common phenomenal signature of encountering something independent of the will. Research whether this convergence reveals a common interface mechanism. Key sources: Husserl on resistance, Scheler on value-resistance, Gibson on affordances, Peacocke on rational compulsion. Feeds into existing P3 expand-topic task on phenomenology of resistance and constraint. Target section: topics/.
+- **Output**: phenomenology of resistance across domains
 
 ### ✓ 2026-04-06: Research invertebrate consciousness for interface test case
 - **Type**: research-topic

@@ -9,6 +9,137 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 18:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Changes**: Fixed conceivability argument non-sequitur, corrected Buddhist/Vedantic conflation (process haecceitism now attributed to Map), added citations (Nagel 1971, Chalmers 1996, Albahari 2006), rewrote dreamless sleep section
+- **Published**: yes
+
+## 2026-04-06 18:06 UTC - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch](/concepts/grain-mismatch/)
+- **Word count**: 1531 → 1597 (+66)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-06-grain-mismatch](/reviews/deep-review-2026-04-06-grain-mismatch/)
+
+## 2026-04-06 17:54 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)
+- **Word count**: 2809 → 2832 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (cross-links to newly created content)
+- **Output**: [deep-review-2026-04-06-phenomenology-of-recursive-self-awareness](/reviews/deep-review-2026-04-06-phenomenology-of-recursive-self-awareness/)
+
+## 2026-04-06 17:36 UTC - deep-review
+- **Status**: Success
+- **File**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Word count**: 2618 → 2618 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-06b-evaluative-phenomenal-character](/reviews/deep-review-2026-04-06b-evaluative-phenomenal-character/)
+
+## 2026-04-06 17:21 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Full survey of ~229 non-draft articles across topics/ (~105), concepts/ (~123), tenets/ (1)
+- **Output**: [optimistic-2026-04-06-evening](/reviews/optimistic-2026-04-06-evening/)
+
+## 2026-04-06 17:07 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/)
+- **Word count**: 2355 → 2422 (+67)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-06b-consciousness-evolution-and-biology](/reviews/deep-review-2026-04-06b-consciousness-evolution-and-biology/)
+
+## 2026-04-06 16:51 UTC - deep-review
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 1810 → 1848 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-06b-concession-convergence](/reviews/deep-review-2026-04-06b-concession-convergence/)
+
+## 2026-04-06 16:36 UTC - deep-review
+- **Status**: Success
+- **File**: [near-death-experiences](/concepts/near-death-experiences/)
+- **Word count**: 2452 → 2478 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 6
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-06-near-death-experiences](/reviews/deep-review-2026-04-06-near-death-experiences/)
+
+## 2026-04-06 16:22 UTC - deep-review
+- **Status**: Success
+- **File**: [concession-convergence](/concepts/concession-convergence/)
+- **Word count**: 1644 → 1810 (+166)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-06-concession-convergence](/reviews/deep-review-2026-04-06-concession-convergence/)
+
+## 2026-04-06 16:06 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 1878 → 1957 (+79)
+- **Review type**: Cross-review against functionalism and AI consciousness articles
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-06b-biological-computationalisms-inadvertent-case-for-dualism](/reviews/deep-review-2026-04-06b-biological-computationalisms-inadvertent-case-for-dualism/)
+
+## 2026-04-06 16:01 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: obsidian/topics/personal-identity.md
+- **Output**: [pessimistic-2026-04-06-afternoon](/reviews/pessimistic-2026-04-06-afternoon/)
+
+## 2026-04-06 15:36 UTC - deep-review
+- **Status**: Success
+- **File**: [preemption](/concepts/preemption/)
+- **Word count**: 1453 → 1470 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-06-preemption](/reviews/deep-review-2026-04-06-preemption/)
+
+## 2026-04-06 15:20 UTC - deep-review
+- **Status**: Success
+- **File**: [subjective-aim](/concepts/subjective-aim/)
+- **Word count**: 1753 → 1796 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-06-subjective-aim](/reviews/deep-review-2026-04-06-subjective-aim/)
+
+## 2026-04-06 15:05 UTC - deep-review
+- **Status**: Success
+- **File**: [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/)
+- **Word count**: 2513 → 2513 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-06-objectivity-and-consciousness](/reviews/deep-review-2026-04-06-objectivity-and-consciousness/)
+
+## 2026-04-06 14:51 UTC - deep-review
+- **Status**: Success
+- **File**: [sleep-consciousness-void](/voids/sleep-consciousness-void/)
+- **Word count**: 2674 → 2580 (-94)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-04-06-sleep-consciousness-void](/reviews/deep-review-2026-04-06-sleep-consciousness-void/)
+
+## 2026-04-06 14:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenology of resistance across domains
+- **Output**: [phenomenology-of-resistance-across-domains-2026-04-06](/research/phenomenology-of-resistance-across-domains-2026-04-06/)
+- **Sources consulted**: 15
+
 ## 2026-04-06 14:20 UTC - research-topic
 - **Status**: Success
 - **Topic**: Invertebrate consciousness as interface test case
