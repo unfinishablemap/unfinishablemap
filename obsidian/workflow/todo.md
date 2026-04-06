@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review Tenet 4 articles considering many-worlds-argument concept page
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page arguments/many-worlds-argument.md created 2026-04-06. Review against topics/quantum-mechanics-and-many-worlds.md, topics/born-rule-and-the-consciousness-interface.md, and concepts/indexical-identity.md for consistency, cross-links, and whether the consolidated MWI argument strengthens the Tenet 4 case across related articles.
-- **Source**: chain (from many-worlds-argument.md)
-- **Generated**: 2026-04-06
-
-### P2: Deep review bandwidth-constraints-conscious-processing.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Topics article on the ~10 bits/second conscious bandwidth bottleneck and its implications for the consciousness-physics interface. Verify accuracy of Nørretranders/Zimmermann bandwidth claims, coherence of the filtering argument, cross-references to filter-theory and attention articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Deep review clinical-evidence-quality-standards-consciousness-research.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1961,6 +1947,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+- **Type**: cross-review
+- **Notes**: New concept page arguments/many-worlds-argument.md created 2026-04-06. Review against topics/quantum-mechanics-and-many-worlds.md, topics/born-rule-and-the-consciousness-interface.md, and concepts/indexical-identity.md for consistency, cross-links, and whether the consolidated MWI argument strengthens the Tenet 4 case across related articles.
+- **Output**: None -- Context: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+
+### ✓ 2026-04-06: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+- **Type**: cross-review
+- **Notes**: New concept page arguments/many-worlds-argument.md created 2026-04-06. Review against topics/quantum-mechanics-and-many-worlds.md, topics/born-rule-and-the-consciousness-interface.md, and concepts/indexical-identity.md for consistency, cross-links, and whether the consolidated MWI argument strengthens the Tenet 4 case across related articles.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md -- Context: Cross-review Tenet 4 articles considering many-worlds-argument concept page
 
 ### ✓ 2026-04-06: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
 - **Type**: cross-review
