@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06T13:47:00+00:00
+ai_modified: 2026-04-06T15:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against functionalism and AI consciousness articles
+- **Type**: cross-review
+- **Notes**: New article created 2026-04-04 via expand-topic, deep-reviewed but not cross-reviewed. Arguments about biological computationalism inadvertently conceding dualism have direct implications for functionalism.md, ai-consciousness.md, substrate-independence.md, and consciousness-as-amplifier.md. Check for cross-links, reinforcing arguments, or contradictions.
+- **Source**: chain (from biological-computationalisms-inadvertent-case-for-dualism.md)
+- **Generated**: 2026-04-06
+
+### P2: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) created 2026-04-05, never reviewed. Argues that physicalist theories independently concede the dualist claim through defensive modifications. Directly supports Tenet 1 (Dualism). Verify accuracy of characterisations of functionalism, IIT, global workspace theory, and higher-order theories; check cross-references to arguments-against-materialism, explanatory-gap, and the-case-for-dualism; and confirm tenet alignment.
+- **Source**: chain (from expand-topic 2026-04-05)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review concession-convergence.md against arguments-against-materialism and related articles
+- **Type**: cross-review
+- **Notes**: New concept page created 2026-04-05. The concession convergence pattern should be cross-referenced in arguments-against-materialism.md, the-case-for-dualism.md, the-epiphenomenalist-threat.md, and functionalism.md. Check for consistency, add inbound links, and verify the pattern complements rather than duplicates existing anti-materialist arguments.
+- **Source**: chain (from concession-convergence.md)
+- **Generated**: 2026-04-06
+
+### P2: Deep review consciousness-evolution-and-biology.md
+- **Type**: deep-review
+- **Notes**: AI-generated content recently refactored (ai_modified 2026-04-06). Article on why evolutionary theory and biology's conceptual toolkit fail to explain consciousness. No deep review recorded. Verify accuracy of claims about biological function, teleology, and natural selection; check cross-references to evolution-of-consciousness, consciousness-as-amplifier, and the-strong-emergence-of-consciousness; and confirm tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review evaluative-phenomenal-character.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_modified 2026-04-06) recently refactored. Argues conscious experience carries intrinsic evaluative character extending the hard problem into value. No deep review recorded. Verify accuracy of claims about evaluative qualia; check cross-references to phenomenal-value-realism, emotion-and-dualism, aesthetics-and-consciousness, and consciousness-and-normative-force; and confirm tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review phenomenology-of-recursive-self-awareness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_modified 2026-04-04) recently refactored. Article on recursive self-awareness transforming phenomenal experience through reflexive distance and structural limits on self-knowledge. No deep review recorded. Verify coherence, accuracy of claims about metacognition and witness consciousness; check cross-references to self-and-self-consciousness, introspection, and self-opacity; and confirm tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
 
 ### P3: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
