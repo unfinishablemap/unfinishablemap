@@ -4,7 +4,7 @@ description: "The ~10 bits/second ceiling doesn't merely limit consciousness—i
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T01:56:00+00:00
+ai_modified: 2026-04-06T02:47:00+00:00
 draft: false
 topics:
   - "[[bandwidth-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-06T02:47:00+00:00
 ---
 
 The ~10 bits per second ceiling on conscious throughput is not merely a capacity limitation. It determines the *kind* of information processing consciousness performs. A processor operating at 10 bits per second works fundamentally differently from one operating at 10⁹ bits per second — not just slower, but in a structurally distinct mode. The Unfinishable Map argues that the bandwidth constraint reveals consciousness as a qualitatively different information-processing system from the neural computation surrounding it: serial where the brain is parallel, abstract where the brain is granular, evaluative where the brain is computational. Understanding how bandwidth shapes processing illuminates both what consciousness contributes to cognition and why that contribution resists physical explanation.
@@ -44,7 +44,7 @@ Consciousness processes one thing at a time. Dual-task interference — the inab
 
 This seriality is often treated as a quirk of neural architecture, but the bandwidth constraint makes it inevitable. At 10 bits per second, there is no capacity for parallel conscious streams. Dividing 10 bits across two tasks yields ~5 bits each — below the threshold for effective decision-making in either. Seriality is not a design choice the brain made; it is a mathematical consequence of the channel's capacity.
 
-The contrast with unconscious processing sharpens the point. Sauerbrei and Pruszynski (2025) demonstrated that the cerebellum coordinates dozens of muscles simultaneously, each requiring multiple bits of specification per movement cycle. The brain runs massively parallel computation at full neural bandwidth. Consciousness does not. The serial/parallel divide maps precisely onto the conscious/unconscious divide — a coincidence on materialist accounts, an expected signature of the [[asymmetric-bandwidth-consciousness|interface]] on the Map's framework.
+The contrast with unconscious processing sharpens the point. Sauerbrei and Pruszynski (2025) demonstrated that the cerebellum coordinates dozens of muscles simultaneously, each requiring multiple bits of specification per movement cycle. The brain runs massively parallel computation at full neural bandwidth. Consciousness does not. The serial/parallel divide maps precisely onto the conscious/unconscious divide. Materialist accounts can explain *a* serial bottleneck — neural broadcast architectures create one — but struggle to explain why the processing *mode* changes so radically at the bottleneck rather than merely the throughput. On the Map's framework, this is an expected signature of the [[asymmetric-bandwidth-consciousness|interface]] between two distinct systems.
 
 ## Forced Abstraction
 
@@ -60,7 +60,7 @@ Language may be the most powerful compression scheme consciousness employs. A si
 
 At approximately 3-4 selections per second — the rate implied by ~10 bits/second given typical decision complexity — consciousness has a characteristic clock speed. Each selection takes roughly 250-300 milliseconds, a window that appears repeatedly across cognitive phenomena.
 
-The [[working-memory|maintenance/manipulation distinction]] in working memory maps onto this temporal grain. Maintenance can occur unconsciously and continuously. Manipulation — the conscious rearrangement of working memory contents — proceeds at the serial rate the bandwidth permits. Lieberman et al. (2008) found that cognitive load on conscious processes specifically impairs logical reasoning while leaving unconscious processing intact, confirming that the temporal grain belongs to consciousness specifically.
+The [[working-memory|maintenance/manipulation distinction]] in working memory maps onto this temporal grain. Maintenance can occur unconsciously and continuously. Manipulation — the conscious rearrangement of working memory contents — proceeds at the serial rate the bandwidth permits. Lieberman et al. (2002) found that cognitive load on conscious processes specifically impairs logical reasoning while leaving unconscious processing intact, confirming that the temporal grain belongs to consciousness specifically.
 
 Musslick et al. (2016) estimated cognitive control capacity at ~3-4 bits per second — measuring deliberate control rather than automated execution. This rate aligns with the ~280-300ms timing window for motor commitment and willed attention deployment. Conscious processing does not merely happen to be slow; it operates at a characteristic temporal resolution that shapes everything from decision timing to the phenomenology of agency.
 
@@ -104,6 +104,9 @@ The [[filter-theory|filter model]] accommodates this naturally. If consciousness
 - [[attention-and-the-consciousness-interface]] — How the interface operates through attention
 - [[attentional-economics]] — Agency as allocation of the scarce conscious resource
 - [[resolution-void]] — The resolution gap between conscious and neural processing
+- [[grain-mismatch]] — The resolution asymmetry tied to bandwidth constraints
+- [[empirical-evidence-for-consciousness-selecting]] — Empirical support for the selection model
+- [[consciousness-and-memory]] — How the serial bottleneck contrasts with parallel consolidation
 
 ## References
 
