@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 05:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-under-extreme-metabolic-constraint]]
+- **Changes**: Downgraded Xu et al. evidence to "suggestive" (n=2/4), recalibrated confidence language from "better explained by" to "compatible with", added falsifiability section specifying five testable challenges to filter theory, added cross-reference to evidence quality standards
+- **Published**: yes
+
 ## 2026-04-06 05:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/conceptual-metabolism-void]]

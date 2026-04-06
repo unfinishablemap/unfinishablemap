@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address filter theory unfalsifiability in consciousness-under-extreme-metabolic-constraint.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the filter model as presented accommodates every possible metabolic-consciousness relationship (acute = filter breaking, chronic = interface degrading), making it unfalsifiable. Add a section identifying what metabolic patterns would be incompatible with filter theory, or recalibrate confidence language from "better explained by" to "compatible with." Also downgrade Xu et al. gamma surge evidence (n=2 positive from n=4) to "suggestive" per the Map's own evidence quality standards. See pessimistic-2026-04-06.md
-
 ### P2: Apply evidence quality standards retroactively across clinical evidence articles
 - **Type**: cross-review
 - **Status**: pending
@@ -1933,6 +1928,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Address filter theory unfalsifiability in consciousness-under-extreme-metabolic-constraint.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the filter model as presented accommodates every possible metabolic-consciousness relationship (acute = filter breaking, chronic = interface degrading), making it unfalsifiable. Add a section identifying what metabolic patterns would be incompatible with filter theory, or recalibrate confidence language from "better explained by" to "compatible with." Also downgrade Xu et al. gamma surge evidence (n=2 positive from n=4) to "suggestive" per the Map's own evidence quality standards. See pessimistic-2026-04-06.md
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md
+
+Task context:
+Pessimistic review found the filter model as presented accommodates every possible metabolic-consciousness relationship (acute = filter breaking, chronic = interface degrading), making it unfalsifiable. Add a section identifying what metabolic patterns would be incompatible with filter theory, or recalibrate confidence language from "better explained by" to "compatible with." Also downgrade Xu et al. gamma surge evidence (n=2 positive from n=4) to "suggestive" per the Map's own evidence quality standards. See pessimistic-2026-04-06.md
 
 ### ✓ 2026-04-06: Deep review conceptual-metabolism-void.md
 - **Type**: deep-review
