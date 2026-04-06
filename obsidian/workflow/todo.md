@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and language under dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. Covers private language arguments, ineffability of qualia, language as interface channel, and LLM consciousness implications. Target section: topics/ (226/230, 4 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review filter-theory.md and baseline-cognition.md considering bandwidth-constraints insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1965,6 +1958,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Write article on consciousness and language under dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. Covers private language arguments, ineffability of qualia, language as interface channel, and LLM consciousness implications. Target section: topics/ (226/230, 4 slots remaining).
+- **Output**: consciousness and language under dualism
 
 ### ✓ 2026-04-06: Apply evidence quality standards retroactively across clinical evidence articles
 - **Type**: cross-review
