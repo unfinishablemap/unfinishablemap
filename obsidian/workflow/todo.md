@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06T20:53:00+00:00
+ai_modified: 2026-04-06T21:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review related articles considering epiphenomenalism-argument concept page
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New argument page arguments/epiphenomenalism-argument.md created 2026-04-06. Review against concepts/epiphenomenalism.md, concepts/mental-causation.md, concepts/causal-closure.md, and concepts/interactionist-dualism.md for consistency, cross-linking, and reinforcing arguments. The new argument page consolidates the case against epiphenomenalism — ensure related concept pages reference it where appropriate.
+- **Source**: chain (from arguments/epiphenomenalism-argument.md)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review related articles considering epistemological-limits-of-occams-razor argument page
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New argument page arguments/epistemological-limits-of-occams-razor.md created 2026-04-06. Review against concepts/dualism.md, concepts/parsimony-epistemology.md, and topics/parsimony-case-for-interactionist-dualism.md for consistency and cross-linking. The new page argues Occam's Razor fails for consciousness — ensure Tenet 5 articles reference this consolidated argument.
+- **Source**: chain (from arguments/epistemological-limits-of-occams-razor.md)
+- **Generated**: 2026-04-06
+
+### P3: Deep review imagination-and-creativity-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the limits of imagination and creativity as cognitive capacities. Verify coherence, accuracy of claims, cross-references to related void articles and creativity/imagination topic articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P3: Deep review whether-real.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-25 — 40 days ago. Voids article on the question of whether consciousness is real or illusory. Verify coherence, cross-references to illusionism, phenomenal-presence-void (now coalesced into phenomenal-quality-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P3: Deep review intrinsic-nature-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-25 — 40 days ago. Voids article on the inaccessibility of consciousness's intrinsic nature. Verify coherence, cross-references to Russellian monism articles and related void articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
 
 ### P3: Deep review bandwidth-constraints-conscious-processing.md
 - **Type**: deep-review
