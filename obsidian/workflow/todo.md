@@ -3485,3 +3485,31 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The felt texture of consciousness encountering its own bandwidth limits — referenced across perceptual degradation, cognitive effort, and attentional strain articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-04-02.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-02
+
+### P3: Write article on phenomenology of perceptual learning
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How does experience change as perceptual expertise develops? Wine experts, radiologists, and musicians report qualitative shifts — genuinely new phenomenal properties from training. Bears on whether consciousness contributes to cognition or merely accompanies it. Builds on contemplative-epistemology, perception, phenomenal-contrast-method. See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on the evidential force of convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies heavily on convergence arguments (cross-cultural, empirical, contemplative) but has no dedicated treatment of convergence as evidential strategy. When does convergence constitute strong evidence vs. spurious correlation? Methodologically foundational. Builds on cross-cultural-convergence-on-mental-causation, quantum-biology-and-neural-consciousness, epistemology-of-limit-knowledge. See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on phenomenology of anaesthetic recovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The transition from anaesthetic unconsciousness to waking is a natural experiment on the interface. The characteristic return sequence (sensation before orientation, orientation before narrative self) reveals interface architecture. Given pharmacological evidence connecting anaesthetics to microtubule quantum states, has both phenomenological and empirical dimensions. Builds on degrees-of-consciousness, sleep-and-consciousness, quantum-biology-and-neural-consciousness. See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Add cross-links between phenomenal-non-compositionality/functionalism, inventory-blindness/adaptive-cognitive-limits, ai-epiphenomenalism/experiential-alignment, and contemplative-epistemology/neurophenomenology clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: phenomenal-non-compositionality → functionalism (non-compositionality defeats functional reduction), phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (Born probabilities at interface where non-compositional meets compositional), inventory-blindness → adaptive-cognitive-limits (mechanism and evolutionary explanation), ai-epiphenomenalism → experiential-alignment (matched pair), contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience (philosophical warrant), terminal-lucidity → near-death-experiences (comparative empirical cases), cross-cultural-convergence → fitness-beats-truth (overcoming fitness-shaped bias), epistemology-of-limit-knowledge → mysterianism (closure-to-programme transformation). See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
