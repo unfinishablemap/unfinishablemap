@@ -4,7 +4,7 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-28T03:42:00+00:00
+ai_modified: 2026-04-06T10:58:00+00:00
 last_deep_review: 2026-03-28T03:42:00+00:00
 draft: false
 topics:
@@ -144,7 +144,7 @@ Why does the nature of consciousness's causal powers matter?
 
 ### For Free Will
 
-If consciousness has no causal powers, libertarian [[topics/free-will]] is impossible—our choices would be entirely products of prior physical states. If consciousness has unlimited powers, we face the [[luck-objection]]: why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
+If consciousness has no causal powers, libertarian [[topics/free-will]] is impossible—our choices would be entirely products of prior physical states. The [[trilemma-of-selection]] makes this explicit: at any indeterminate decision point, the options are determinism, randomness, or mental causation—and only genuine causal powers deliver the third. If consciousness has unlimited powers, we face the [[luck-objection]]: why did consciousness choose one way rather than another? The Map's middle position—constrained but genuine causal influence—preserves meaningful agency without invoking uncaused causes.
 
 ### For Ethics
 

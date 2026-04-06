@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-30T07:35:00+00:00
+ai_modified: 2026-04-06T10:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmar
 
 The quantum mechanisms describe *where* consciousness interfaces with physics. [[agent-causation|Agent causation]] provides the metaphysical framework for *what* happens there: the conscious subject directly causes physical outcomes, not merely events causing events. The [[causal-interface]] itself remains systematically opaque—invisible from both first-person introspection and third-person observation.
 
-The phenomenology of mental effort confirms this: directing attention feels like *doing*, not observing correlated events. This connects to [[quantum-indeterminacy-free-will|free will]]: the same quantum openings permit libertarian freedom. The agent doesn't randomly select—the agent *chooses*.
+The phenomenology of mental effort confirms this: directing attention feels like *doing*, not observing correlated events. This connects to [[quantum-indeterminacy-free-will|free will]]: the same quantum openings permit libertarian freedom. The [[trilemma-of-selection]] shows why dualism is needed here—without an ontologically distinct mind, indeterminacy yields only randomness, never authorship. The agent doesn't randomly select—the agent *chooses*.
 
 ## Emergence and Mechanism
 

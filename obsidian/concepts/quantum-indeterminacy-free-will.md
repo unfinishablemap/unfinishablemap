@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-05T11:47:00+00:00
+ai_modified: 2026-04-06T10:58:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -54,7 +54,7 @@ This creates what Peter van Inwagen called the "libertarian dilemma":
 2. **If indeterminism is true**, outcomes are random (luck, not choice)
 3. **Either way**, genuine authorship seems impossible
 
-Libertarian views must explain how indeterminism helps rather than hinders.
+Libertarian views must explain how indeterminism helps rather than hinders. The [[trilemma-of-selection]] sharpens the dilemma into an exhaustive trilemma: determinism (theatre), randomness (luck), or mental causation (authorship)—showing that indeterminacy alone is not enough; a non-physical selector is required to escape luck.
 
 ## Event-Causal vs Agent-Causal Approaches
 

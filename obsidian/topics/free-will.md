@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-06T10:58:00+00:00
 last_deep_review: 2026-03-21T02:05:00+00:00
 draft: false
 topics:
@@ -54,6 +54,8 @@ Classical physics suggested determinism: given initial conditions and physical l
 **Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[[agent-causation|agent-causal]]*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [[tenets#^dualism|substance dualism]]: consciousness must be a persisting *thing* capable of exercising causal powers. [[existentialism|Existentialist philosophy]] articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
+
+The [[trilemma-of-selection]] formalises this logical structure: at any decision point with genuine indeterminacy, exactly three options obtain—determinism (theatre), randomness (luck), or mental causation (authorship). Only the third preserves genuine authorship, which is why the Map defends agent-causal libertarian free will.
 
 ## The Neuroscientific Challenge
 
