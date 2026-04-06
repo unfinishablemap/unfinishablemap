@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New coalesced article concepts/evaluative-phenomenal-character.md created Apr 6 from 4 phenomenal normativity articles. Verify that references from other files have been updated, add cross-links to moral-phenomenology-and-perception, evaluative-qualia-phenomenal-normativity-across-traditions, phenomenal-authority-and-first-person-evidence, and consciousness-and-aesthetic-creation. Check for consistency with the normativity arguments across the site.
-- **Source**: chain (from coalesce 2026-04-06)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review consciousness-evolution-and-biology.md against related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -2014,6 +2007,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
+- **Type**: cross-review
+- **Notes**: New coalesced article concepts/evaluative-phenomenal-character.md created Apr 6 from 4 phenomenal normativity articles. Verify that references from other files have been updated, add cross-links to moral-phenomenology-and-perception, evaluative-qualia-phenomenal-normativity-across-traditions, phenomenal-authority-and-first-person-evidence, and consciousness-and-aesthetic-creation. Check for consistency with the normativity arguments across the site.
+- **Output**: obsidian/concepts/evaluative-phenomenal-character.md -- Context: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
 
 ### ✓ 2026-04-06: Cross-review consciousness-and-language-under-dualism.md and philosophy-of-language-under-dualism.md for consistency
 - **Type**: cross-review

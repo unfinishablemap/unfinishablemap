@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T17:36:00+00:00
+ai_modified: 2026-04-06T21:10:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -54,7 +54,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-04-06T17:36:00+00:00
+last_deep_review: 2026-04-06T21:10:00+00:00
 coalesced_from:
   - "/concepts/phenomenal-normativity/"
   - "/concepts/evaluative-qualia/"
@@ -62,7 +62,7 @@ coalesced_from:
   - "/concepts/moral-phenomenology-and-perception/"
 ---
 
-Conscious experience carries intrinsic evaluative character. Pain is bad not because we judge it bad but because badness is constitutive of what pain feels like. Beauty presents itself as significant without inference. Moral wrongness appears as a feature of the situation, not an overlay added by the observer. The Unfinishable Map holds that this evaluative phenomenal character—what [[qualia|evaluative qualia]] isolate as a distinct phenomenal dimension—grounds [[topics/phenomenal-value-realism]]: intrinsic value is a feature of conscious experience, and without conscious experience, nothing has intrinsic worth. This claim extends the [[hard-problem-of-consciousness|hard problem]] beyond sensation into value: physics cannot capture not only why there is something it is like to see red, but why there is something it is like for suffering to matter.
+Conscious experience carries intrinsic evaluative character. Pain is bad not because we judge it bad but because badness is constitutive of what pain feels like. Beauty presents itself as significant without inference. Moral wrongness appears as a feature of the situation, not an overlay added by the observer. The Unfinishable Map holds that this evaluative phenomenal character—what [[qualia|evaluative qualia]] isolate as a distinct phenomenal dimension—grounds [[topics/phenomenal-value-realism]]: intrinsic value is a feature of conscious experience, and without conscious experience, [[consciousness-value-connection|nothing has intrinsic worth]]. This claim extends the [[hard-problem-of-consciousness|hard problem]] beyond sensation into value: physics cannot capture not only why there is something it is like to see red, but why there is something it is like for suffering to matter.
 
 ## The Category Distinguished
 
@@ -107,7 +107,7 @@ This bracketing is not scepticism about normativity. It is methodological discip
 
 ### Key Findings
 
-**Demand character.** The most consistent structure across normative domains is demand character: normative properties present themselves as requiring response. A valid deductive argument whose conclusion you resist produces a phenomenal pull toward acceptance—cool, impersonal, insistent. You can refuse the conclusion, but the refusal registers as [[mental-effort|effortful resistance]], not as absence of pressure.
+**Demand character.** The most consistent structure across normative domains is demand character: normative properties present themselves as requiring response. A valid deductive argument whose conclusion you resist produces a phenomenal pull toward acceptance—a case of [[cognitive-phenomenology]] that is cool, impersonal, insistent. You can refuse the conclusion, but the refusal registers as [[mental-effort|effortful resistance]], not as absence of pressure.
 
 **Independence from attitude.** Normative properties present themselves as independent of preferences. The wrongness of cruelty does not disappear when one stops caring. This phenomenal independence distinguishes normative experience from desire: wanting coffee and perceiving obligation are phenomenologically distinct even when both motivate action. This distinction grounds [[reasons-responsiveness]]: responding to reasons *as reasons* requires experiencing them as normatively laden.
 
@@ -123,7 +123,7 @@ This bracketing is not scepticism about normativity. It is methodological discip
 
 Moral phenomenology applies these methods to the ethical domain specifically. A central question is whether ethical properties can be directly *perceived*. Moral perception holds that wrongness presents itself in experience with the immediacy of colour or shape, rather than being inferred from morally neutral facts.
 
-Witnessing cruelty produces an experience with identifiable phenomenal character. The wrongness presents itself as a feature of the situation—belonging to the act, not merely to the observer's reaction. Obligation has a distinct phenomenal profile: a felt practical necessity rather than an inclination. Moral admiration, guilt, and moral remainder each carry specific felt qualities that resist functional reduction.
+Witnessing cruelty produces an experience with identifiable phenomenal character (see [[topics/phenomenology-of-moral-life|phenomenology of moral life]] for the full arc from pre-reflective strike through deliberation). The wrongness presents itself as a feature of the situation—belonging to the act, not merely to the observer's reaction. Obligation has a distinct phenomenal profile: a felt practical necessity rather than an inclination. Moral admiration, guilt, and moral remainder each carry specific felt qualities that resist functional reduction.
 
 Three considerations favour perception over inference. **Speed**: moral responses are typically immediate, not products of deliberation. **Phenomenal character**: moral experience presents ethical properties as features of the world, not conclusions of arguments. **Expertise effects**: moral perception improves with training, as sensory perception does—experienced clinicians perceive suffering that novices miss.
 
