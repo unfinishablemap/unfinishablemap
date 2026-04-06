@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review: 2026-04-05T14:47:00+00:00
+last_deep_review: 2026-04-06T00:41:00+00:00
 ---
 
 If the brain produces consciousness the way a generator produces electricity, then cutting the fuel supply should dim the lights proportionally. It does not. Across cardiac arrest, deep hypothermia, minimally conscious states, hibernation, anaesthesia, and psychedelic suppression of the default mode network, consciousness follows a pattern that production models struggle to explain: selective component failures, sharp non-linear thresholds, and paradoxical intensification precisely when metabolic supply is collapsing. The Unfinishable Map argues that this pattern is better explained by [[filter-theory|filter theory]]—the brain constrains and channels consciousness rather than generating it, and metabolic crisis disrupts the constraint rather than the source.

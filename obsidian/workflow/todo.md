@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05 from research/consciousness-extreme-metabolic-constraint-2026-04-05.md. Review against anaesthesia-and-the-consciousness-interface, degrees-of-consciousness, terminal-lucidity-and-the-filter-model, filter-theory, and consciousness-and-survival for consistency, cross-links, and reinforcing arguments.
-- **Source**: chain (from topics/consciousness-under-extreme-metabolic-constraint.md)
-- **Generated**: 2026-04-05
-
 ### P2: Fix broken wikilinks with trailing backslashes across content files
 - **Type**: refine-draft
 - **Notes**: Gap analysis found 6 wikilinks with trailing backslash formatting errors: obviousness-void\ in phenomenology-of-cognitive-limit-types.md, implicit-memory\, anoetic-noetic-autonoetic-consciousness\, semantic-memory\, episodic-memory\ in global-workspace-theory.md, and valence-and-conscious-selection\ in psychophysical-laws.md. Remove trailing backslashes; for links where the target page exists (valence-and-conscious-selection, obviousness-void), fix the link. For memory-related terms in global-workspace-theory.md that lack dedicated pages, convert to plain text or remove wikilink syntax.
@@ -1928,6 +1922,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-under-extreme-metabolic-constraint.md created 2026-04-05 from research/consciousness-extreme-metabolic-constraint-2026-04-05.md. Review against anaesthesia-and-the-consciousness-interface, degrees-of-consciousness, terminal-lucidity-and-the-filter-model, filter-theory, and consciousness-and-survival for consistency, cross-links, and reinforcing arguments.
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md -- Context: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
 
 ### ✓ 2026-04-06: Write voids article on the conceptual metabolism void
 - **Type**: expand-topic
