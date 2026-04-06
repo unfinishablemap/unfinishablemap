@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review filter and information-processing articles considering bandwidth-constraints-conscious-processing.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/bandwidth-constraints-conscious-processing.md created 2026-04-06. Review against filter-theory.md, consciousness-as-amplifier.md, attention-and-the-consciousness-interface.md, and degrees-of-consciousness.md for consistency, cross-links, and whether the 10-bit bottleneck evidence strengthens or complicates existing arguments.
-- **Source**: chain (from bandwidth-constraints-conscious-processing.md)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
 - **Type**: cross-review
 - **Status**: pending
@@ -1975,6 +1968,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review filter and information-processing articles considering bandwidth-constraints-conscious-processing.md
+- **Type**: cross-review
+- **Notes**: New article topics/bandwidth-constraints-conscious-processing.md created 2026-04-06. Review against filter-theory.md, consciousness-as-amplifier.md, attention-and-the-consciousness-interface.md, and degrees-of-consciousness.md for consistency, cross-links, and whether the 10-bit bottleneck evidence strengthens or complicates existing arguments.
+- **Output**: obsidian/topics/bandwidth-constraints-conscious-processing.md -- Context: Cross-review filter and information-processing articles considering bandwidth-constraints-conscious-processing.md
 
 ### ✓ 2026-04-06: Create concept page for many-worlds-argument
 - **Type**: expand-topic
