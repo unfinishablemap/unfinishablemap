@@ -4,7 +4,7 @@ description: "The philosophical method of investigating consciousness through sy
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-05T20:26:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[pre-conceptual-knowing]]"
   - "[[attention-as-interface]]"
   - "[[intuitive-dualism]]"
-  - "[[normative-phenomenology]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[decoherence]]"
 related_articles:
   - "[[tenets]]"
@@ -185,7 +185,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [[existentialism]] — Sartre's pour-soi and Heidegger's Dasein as phenomenological developments
 - [[introspection]] — The reliability debate and trained first-person methods
 - [[consciousness-and-the-phenomenology-of-place]] — Merleau-Ponty's lived body and Heidegger's Stimmung applied to spatial experience
-- [[normative-phenomenology]] — How phenomenological investigation generates normative claims about consciousness
+- [[evaluative-phenomenal-character|normative phenomenology]] — How phenomenological investigation generates normative claims about consciousness
 - [[pre-conceptual-knowing]] — The void territory where conceptual thought meets its limits
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
 

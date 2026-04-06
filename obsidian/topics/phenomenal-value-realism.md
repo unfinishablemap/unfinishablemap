@@ -4,14 +4,14 @@ description: "Why value lives in conscious experience—not in preferences, soci
 created: 2026-02-02
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
   - "[[emotion-and-dualism]]"
 concepts:
-  - "[[phenomenal-normativity]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"
   - "[[consciousness-value-connection]]"
   - "[[dualism]]"
@@ -23,7 +23,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[explanatory-gap]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[evaluative-qualia]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[moral-responsibility]]"
 related_articles:
   - "[[tenets]]"
@@ -117,7 +117,7 @@ Constructivism also cannot explain the authority of moral claims. If value is co
 
 ## Beyond Hedonism
 
-Rawlette defends a hedonistic version: pleasure and pain exhaust intrinsic value. The Map extends this to **phenomenal value pluralism**. Multiple features of experience carry intrinsic value—what the Map calls [[evaluative-qualia|evaluative qualia]], phenomenal qualities whose character is simultaneously descriptive and normative:
+Rawlette defends a hedonistic version: pleasure and pain exhaust intrinsic value. The Map extends this to **phenomenal value pluralism**. Multiple features of experience carry intrinsic value—what the Map calls [[evaluative-phenomenal-character|evaluative qualia]], phenomenal qualities whose character is simultaneously descriptive and normative:
 
 | Feature | Phenomenal Character | Value Dimension |
 |---------|---------------------|-----------------|
@@ -246,8 +246,8 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 
 ## Further Reading
 
-- [[phenomenal-normativity|Phenomenal Normativity]] — The definitional article on this metaethical position
-- [[evaluative-qualia]] — The distinct category of phenomenal qualities whose character is intrinsically evaluative
+- [[evaluative-phenomenal-character|Phenomenal Normativity]] — The definitional article on this metaethical position
+- [[evaluative-phenomenal-character|evaluative qualia]] — The distinct category of phenomenal qualities whose character is intrinsically evaluative
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western traditions
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[phenomenology-of-moral-life]] — The full arc of moral consciousness from perception through deliberation to choice
@@ -261,7 +261,7 @@ Phenomenal value realism is where the Map's abstract metaphysics becomes persona
 - [[contemplative-practice-as-philosophical-evidence]] — What contemplative practice reveals about value and consciousness
 - [[aesthetics-and-consciousness]] — Why aesthetic value resists hedonistic reduction
 - [[emotion-and-dualism]] — Valence as the felt quality of emotions
-- [[moral-phenomenology-and-perception]] — The felt character of moral experience as evidence for phenomenal value
+- [[evaluative-phenomenal-character|moral phenomenology and perception]] — The felt character of moral experience as evidence for phenomenal value
 - [[pain-consciousness-and-causal-power]] — Why pain's phenomenal character is inseparable from its causal and evaluative role
 - [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
 - [[illusionism]] — The strongest challenge to phenomenal consciousness

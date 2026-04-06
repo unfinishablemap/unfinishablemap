@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced phenomenal normativity articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [[evaluative-phenomenal-character]]. The following active files reference archived articles (phenomenal-normativity, evaluative-qualia, normative-phenomenology, moral-phenomenology-and-perception) and need wikilinks updated: adaptive-computational-depth, agent-teleology, buddhism-and-dualism, consciousness-value-connection, explanatory-gap, moral-responsibility, phenomenology, qualia, reasons-responsiveness, valence, aesthetics-and-consciousness, alignment-in-objective-experiential-terms, argument-from-reason, consciousness-and-normative-force, consciousness-and-the-authority-of-formal-systems, contemplative-practice-as-philosophical-evidence, emotion-and-dualism, ethics-and-value-in-a-dualist-world, ethics-of-consciousness, ethics-of-possible-ai-consciousness, evaluative-qualia-phenomenal-normativity-across-traditions, hard-problem-of-consciousness, moral-implications-of-genuine-agency, phenomenal-authority-and-first-person-evidence, phenomenal-normativity-environmental-ethics, phenomenal-value-realism, phenomenology-of-intellectual-life, phenomenology-of-moral-life, placebo-effect-and-mental-causation, pragmatisms-path-to-dualism, responsibility-gradient-from-attentional-capacity, moral-architecture-of-consciousness (apex), living-with-the-map (apex), degrees-of-consciousness, intentionality, measurement-problem, phenomenal-consciousness
-- **Source**: coalesce
-- **Generated**: 2026-04-06
-
 ### P2: Research invertebrate consciousness for interface test case
 - **Type**: research-topic
 - **Status**: pending
@@ -2006,6 +2000,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Update references to coalesced phenomenal normativity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[evaluative-phenomenal-character]]. The following active files reference archived articles (phenomenal-normativity, evaluative-qualia, normative-phenomenology, moral-phenomenology-and-perception) and need wikilinks updated: adaptive-computational-depth, agent-teleology, buddhism-and-dualism, consciousness-value-connection, explanatory-gap, moral-responsibility, phenomenology, qualia, reasons-responsiveness, valence, aesthetics-and-consciousness, alignment-in-objective-experiential-terms, argument-from-reason, consciousness-and-normative-force, consciousness-and-the-authority-of-formal-systems, contemplative-practice-as-philosophical-evidence, emotion-and-dualism, ethics-and-value-in-a-dualist-world, ethics-of-consciousness, ethics-of-possible-ai-consciousness, evaluative-qualia-phenomenal-normativity-across-traditions, hard-problem-of-consciousness, moral-implications-of-genuine-agency, phenomenal-authority-and-first-person-evidence, phenomenal-normativity-environmental-ethics, phenomenal-value-realism, phenomenology-of-intellectual-life, phenomenology-of-moral-life, placebo-effect-and-mental-causation, pragmatisms-path-to-dualism, responsibility-gradient-from-attentional-capacity, moral-architecture-of-consciousness (apex), living-with-the-map (apex), degrees-of-consciousness, intentionality, measurement-problem, phenomenal-consciousness
+- **Output**: None -- Context: Update references to coalesced phenomenal normativity articles
 
 ### ✓ 2026-04-06: Add cross-links from optimistic-2026-04-06 review (8 pairs)
 - **Type**: refine-draft

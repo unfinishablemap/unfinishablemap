@@ -4,7 +4,7 @@ description: "The full arc of moral consciousness—from the pre-reflective stri
 created: 2026-02-08
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[moral-implications-of-genuine-agency]]"
@@ -21,9 +21,9 @@ concepts:
   - "[[phenomenology]]"
   - "[[illusionism]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[moral-phenomenology-and-perception]]"
-  - "[[phenomenal-normativity]]"
-  - "[[normative-phenomenology]]"
+  - "[[evaluative-phenomenal-character]]"
+  - "[[evaluative-phenomenal-character]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"
   - "[[attentional-economics]]"
@@ -41,7 +41,7 @@ related_articles:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[alignment-in-objective-experiential-terms]]"
-  - "[[moral-phenomenology-and-perception]]"
+  - "[[evaluative-phenomenal-character]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -142,10 +142,10 @@ The phenomenology of moral life connects to the Map's [[tenets|foundational comm
 - [[topics/phenomenal-value-realism]] — The metaethical framework: phenomenal properties constitute value
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[ethics-of-consciousness]] — Ethical implications of consciousness-grounded value
-- [[moral-phenomenology-and-perception]] — What moral experience feels like and whether ethical properties can be directly perceived
-- [[phenomenal-normativity]] — The thesis that phenomenal states carry intrinsic normative force
+- [[evaluative-phenomenal-character|moral phenomenology and perception]] — What moral experience feels like and whether ethical properties can be directly perceived
+- [[evaluative-phenomenal-character|phenomenal normativity]] — The thesis that phenomenal states carry intrinsic normative force
 - [[consciousness-and-normative-force]] — The shared phenomenal architecture of normative demands
-- [[normative-phenomenology]] — First-person investigation of normative experience broadly
+- [[evaluative-phenomenal-character|normative phenomenology]] — First-person investigation of normative experience broadly
 - [[moral-implications-of-genuine-agency]] — What follows for moral life when agency is real
 - [[topics/free-will]] — The broader case for libertarian agency
 - [[phenomenology-of-choice-and-volition]] — The general phenomenology of choosing

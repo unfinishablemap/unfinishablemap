@@ -4,7 +4,7 @@ description: "How irreducible consciousness unifies value, agency, normativity, 
 created: 2026-03-16
 modified: 2026-03-16
 human_modified: null
-ai_modified: 2026-04-05T19:58:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 last_deep_review: 2026-03-17T13:13:00+00:00
 draft: false
 topics:
@@ -15,8 +15,8 @@ topics:
 concepts:
   - "[[moral-responsibility]]"
   - "[[agent-causation]]"
-  - "[[phenomenal-normativity]]"
-  - "[[moral-phenomenology-and-perception]]"
+  - "[[evaluative-phenomenal-character]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[attentional-economics]]"
   - "[[consciousness-value-connection]]"
 related_articles:
@@ -87,7 +87,7 @@ The convergence matters: value and agency share the same ground. Consciousness i
 
 [[consciousness-and-normative-force|Moral normativity]]—the binding force of "ought"—finds its ground in the same place. Pain's badness is constitutive of what pain feels like, not a judgement layered on top of a neutral sensation. The "ought" that arises from encountering suffering is present in the experience itself, not derived from a theory or constructed by a procedure.
 
-Four normative domains—moral, epistemic, aesthetic, prudential—share a common phenomenal architecture while retaining distinct textures. Moral outrage burns, epistemic compulsion pulls with impersonal rigidity, aesthetic experience draws through invitation, prudential concern gravitates with intimate familiarity. Despite these differences, all four present their objects as calling for response, resist reduction to preference, and admit of degrees. This shared architecture across domains with distinct evolutionary histories and cultural contexts is what [[phenomenal-normativity]] predicts and what projection cannot easily explain.
+Four normative domains—moral, epistemic, aesthetic, prudential—share a common phenomenal architecture while retaining distinct textures. Moral outrage burns, epistemic compulsion pulls with impersonal rigidity, aesthetic experience draws through invitation, prudential concern gravitates with intimate familiarity. Despite these differences, all four present their objects as calling for response, resist reduction to preference, and admit of degrees. This shared architecture across domains with distinct evolutionary histories and cultural contexts is what [[evaluative-phenomenal-character|phenomenal normativity]] predicts and what projection cannot easily explain.
 
 When normative domains collide—the whistleblower's moral obligation against self-preservation, the researcher's epistemic duty against potential harm—consciousness integrates competing demands within a single experiential field. The resolution has the character of genuine judgement that could have gone otherwise, not mechanical aggregation. Overridden demands persist as moral residue—the scientist who suppresses results for moral reasons still feels epistemic integrity pulling. This integration problem is structurally analogous to the perceptual [[binding-problem|binding problem]], and consciousness solves both by unifying diverse inputs into coherent wholes.
 
@@ -99,7 +99,7 @@ This perception unfolds through a characteristic temporal arc. The pre-reflectiv
 
 An honest challenge: if moral perception were as direct and gestalt-like as this account suggests, we might expect more cross-cultural convergence than empirical moral psychology reports. Haidt's moral foundations research and the WEIRD-population critique (Henrich et al., 2010) show that moral judgments differ systematically across cultures, which sits uneasily with strong perceptual directness. The Map's response parallels colour perception: basic colour experience is universal and direct, yet colour *categories*—where one colour ends and another begins—are culturally shaped. Similarly, the basic capacity for moral perception may be direct and phenomenologically immediate while its *application*—which acts trigger the moral gestalt, which features organise the scene—is shaped by culture, upbringing, and training. This preserves the core claim (moral properties present themselves perceptually rather than being inferred) while acknowledging that the content of moral perception is more culturally variable than the content of sensory perception. The analogy has limits: colour categories vary at the margins, while moral judgments vary substantially across domains. The directness claim is strongest for cases of witnessed cruelty and suffering, where cross-cultural convergence is greatest, and weakest for the culturally variable moral domains (purity, authority, loyalty) that Haidt identifies.
 
-The [[moral-phenomenology-and-perception|philosophical study of moral experience]] confirms that these features—wrongness presenting as a property of situations, obligation carrying a phenomenal profile distinct from desire, guilt tracking real moral costs that correct choices do not eliminate—constitute primary data that any adequate moral theory must accommodate. Materialist accounts that reduce moral experience to emotional reaction plus post-hoc rationalisation cannot accommodate the temporal phenomenology, the gestalt character, or the deepening under sustained attention.
+The [[evaluative-phenomenal-character|philosophical study of moral experience]] confirms that these features—wrongness presenting as a property of situations, obligation carrying a phenomenal profile distinct from desire, guilt tracking real moral costs that correct choices do not eliminate—constitute primary data that any adequate moral theory must accommodate. Materialist accounts that reduce moral experience to emotional reaction plus post-hoc rationalisation cannot accommodate the temporal phenomenology, the gestalt character, or the deepening under sustained attention.
 
 ## The Responsibility Gradient
 
@@ -171,7 +171,7 @@ This synthesis draws on:
 - [[moral-implications-of-genuine-agency|Moral Implications of Genuine Agency]] — What genuine authorship demands morally
 - [[responsibility-gradient-from-attentional-capacity|The Responsibility Gradient]] — Attentional capacity and graded desert
 - [[phenomenology-of-moral-life|The Phenomenology of Moral Life]] — What moral perception feels like
-- [[moral-phenomenology-and-perception|Moral Phenomenology and Perception]] — The philosophical study of moral experience
+- [[evaluative-phenomenal-character|Moral Phenomenology and Perception]] — The philosophical study of moral experience
 - [[moral-responsibility|Moral Responsibility]] — Agent causation and metaphysical desert
 - [[animal-consciousness|Animal Consciousness]] — Non-human consciousness and moral patienthood
 - [[valence-and-conscious-selection|Valence and the Mechanism of Conscious Selection]] — Whether value participates in the selection mechanism

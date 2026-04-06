@@ -4,21 +4,21 @@ description: "Why consciousness is necessary for value to exist. Without experie
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-29T04:30:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ethics-of-consciousness]]"
 concepts:
   - "[[phenomenal-value-realism]]"
-  - "[[phenomenal-normativity]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"
   - "[[phenomenal-consciousness]]"
   - "[[emotion-and-dualism]]"
   - "[[illusionism]]"
   - "[[panpsychism]]"
   - "[[epiphenomenalism]]"
-  - "[[evaluative-qualia]]"
+  - "[[evaluative-phenomenal-character]]"
 related_articles:
   - "[[tenets]]"
   - "[[experiential-alignment]]"
@@ -73,7 +73,7 @@ Consider love. Is love valuable if it exists only as a brain state no one experi
 
 [[topics/phenomenal-value-realism|Phenomenal value realism]] makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [[introspection|introspective]] access, not inference.
 
-On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness. [[evaluative-qualia|Evaluative qualia]]—the felt goodness, badness, beauty, and wrongness pervading experience—are the specific phenomenal properties through which value is constituted.
+On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness. [[evaluative-phenomenal-character|Evaluative qualia]]—the felt goodness, badness, beauty, and wrongness pervading experience—are the specific phenomenal properties through which value is constituted.
 
 The felt quality of joy is not a sign or indicator of something good happening; the joy is the goodness. When you experience pleasure, you are not experiencing something that has value—you are experiencing value itself. The identity is metaphysical, not merely conceptual.
 
@@ -190,10 +190,10 @@ These conditions do not currently obtain. The connection stands.
 - [[topics/free-will]] — How value-grounded consciousness enables genuine choice
 - [[illusionism]] — The strongest challenge and responses
 - [[panpsychism]] — What follows if consciousness is ubiquitous
-- [[moral-phenomenology-and-perception]] — Moral experience as evidence that consciousness carries evaluative structure
+- [[evaluative-phenomenal-character|moral phenomenology and perception]] — Moral experience as evidence that consciousness carries evaluative structure
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms the moral landscape
 - [[tenets]] — The foundational commitments grounding this view
-- [[evaluative-qualia]] — The phenomenal experiences carrying intrinsic evaluative character
+- [[evaluative-phenomenal-character|evaluative qualia]] — The phenomenal experiences carrying intrinsic evaluative character
 
 ## References
 

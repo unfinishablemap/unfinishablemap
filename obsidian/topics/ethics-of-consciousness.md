@@ -4,7 +4,7 @@ description: "If consciousness is irreducible, it grounds moral status distincti
 created: 2026-01-16
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-04-05T14:02:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ concepts:
   - "[[decoherence]]"
   - "[[witness-consciousness]]"
   - "[[quantum-biology-and-neural-mechanisms]]"
-  - "[[phenomenal-normativity]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[valence]]"
 related_articles:
   - "[[tenets]]"
@@ -142,7 +142,7 @@ Consciousness makes suffering possible; suffering is intrinsically bad; preventi
 | **Valence sentientism** | Capacity for suffering/enjoyment | Only beings that feel pleasure/pain matter |
 | **Broad sentientism** | Phenomenal consciousness generally | Any conscious being has moral status |
 
-The Map's [[topics/phenomenal-value-realism]] aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. [[phenomenal-normativity|Phenomenal normativity]] explains why: pain's badness is constitutive of what pain feels like, not a judgment layered on top of a neutral sensation.
+The Map's [[topics/phenomenal-value-realism]] aligns with sophisticated valence sentientism: multiple phenomenal features (meaning, agency, understanding) contribute to intrinsic value, but all are features of *felt* experience. [[evaluative-phenomenal-character|Phenomenal normativity]] explains why: pain's badness is constitutive of what pain feels like, not a judgment layered on top of a neutral sensation.
 
 **Practical upshot**: Focus moral attention on beings we're confident can suffer—humans, animals with complex nervous systems, possibly edge cases warranting caution—not current AI systems or hypothetical uploads. Resources for preventing suffering are finite and should be directed where suffering is most likely real.
 
@@ -207,8 +207,8 @@ These aren't mere philosophical positions—they bear on factory farming, AI dev
 - [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — How phenomenal value pluralism extends beyond hedonism to ground experiential value
 - [[emotion-and-dualism]] — The felt quality of emotion and its ethical implications
 - [[illusionism]] — The challenge from eliminativism about phenomenal consciousness
-- [[phenomenal-normativity]] — Why pain's badness is built into its phenomenal character
-- [[moral-phenomenology-and-perception]] — What moral experience feels like and whether ethical properties can be directly perceived
+- [[evaluative-phenomenal-character|phenomenal normativity]] — Why pain's badness is built into its phenomenal character
+- [[evaluative-phenomenal-character|moral phenomenology and perception]] — What moral experience feels like and whether ethical properties can be directly perceived
 - [[pain-consciousness-and-causal-power]] — The pain-suffering distinction and the causal work of felt badness
 - [[consciousness-and-moral-agency-under-duress]] — Moral responsibility when agency is constrained
 - [[normative-void]] — Cognitive limits on moral knowledge—ethical truths beyond human reach

@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-03T17:39:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -185,7 +185,7 @@ This framework respects the ordinary intuition that people deserve praise and bl
 - [[decoherence]] — The quantum challenge and biological responses
 - [[buddhism-and-dualism]] — Responsibility without permanent selfhood
 - [[moral-implications-of-genuine-agency]] — Beyond desert: how genuine agency transforms obligation, character, and moral theory
-- [[moral-phenomenology-and-perception]] — The felt character of moral experience that grounds desert judgements
+- [[evaluative-phenomenal-character|moral phenomenology and perception]] — The felt character of moral experience that grounds desert judgements
 - [[tenets]] — The foundational commitments grounding this view
 - [[moral-architecture-of-consciousness]] — Apex synthesis: moral responsibility within a unified framework of value, agency, normativity, and perception
 

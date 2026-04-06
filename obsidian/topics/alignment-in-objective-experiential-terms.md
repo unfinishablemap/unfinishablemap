@@ -4,7 +4,7 @@ description: "If phenomenal qualities are real features of reality, the badness 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-04-06T09:28:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -15,7 +15,7 @@ concepts:
   - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-value-connection]]"
   - "[[qualia]]"
-  - "[[phenomenal-normativity]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[haecceity]]"
   - "[[illusionism]]"
   - "[[introspection]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[alignment-objective-experiential-terms-2026-01-16]]"
   - "[[moral-architecture-of-consciousness]]"
-  - "[[evaluative-qualia]]"
+  - "[[evaluative-phenomenal-character]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -136,11 +136,11 @@ The case for objective experiential alignment criteria makes commitments that co
 - [[topics/phenomenal-value-realism]] — The metaethical position grounding experiential objectivity
 - [[consciousness-value-connection]] — Why consciousness is necessary for value to exist
 - [[purpose-and-alignment]] — The broader connection between human purpose and AI alignment
-- [[phenomenal-normativity]] — How phenomenal properties carry normative force
+- [[evaluative-phenomenal-character|phenomenal normativity]] — How phenomenal properties carry normative force
 - [[introspection]] — First-person methods as appropriate epistemic tools
 - [[haecceity]] — Why individual identity grounds per-person constraints
 - [[illusionism]] — The strongest challenge to phenomenal objectivity
-- [[evaluative-qualia]] — Felt goodness and badness as a distinct phenomenal category
+- [[evaluative-phenomenal-character|evaluative qualia]] — Felt goodness and badness as a distinct phenomenal category
 - [[moral-architecture-of-consciousness]] — Apex synthesis: how objective experiential criteria fit the broader moral framework
 - [[tenets]] — The Map's foundational commitments
 

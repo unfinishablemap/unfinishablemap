@@ -4,7 +4,7 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-03-06
 human_modified: null
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 last_deep_review: 2026-03-12T01:30:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ topics:
   - "[[topics/free-will]]"
 concepts:
   - "[[topics/phenomenal-value-realism]]"
-  - "[[phenomenal-normativity]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[moral-responsibility]]"
   - "[[existentialism]]"
   - "[[agent-causation]]"
@@ -55,7 +55,7 @@ The Map's [[tenets#^dualism|Dualism tenet]] asserts that consciousness is not re
 
 This matters practically because it grounds the significance of your experience. If [[illusionism|illusionism]] were correct—if phenomenal consciousness were merely a representational fiction—then what seems to matter about your life wouldn't really matter. The joy you feel, the suffering you endure, the meaning you discover: all would be shadows cast by neural activity signifying nothing.
 
-[[topics/phenomenal-value-realism|Phenomenal value realism]] offers the opposite view: the goodness of pleasure and the badness of suffering are features of conscious experience itself. [[phenomenal-normativity|Phenomenal normativity]] provides the answer to why: when you attend to what pain feels like—not abstractly, but in lived experience—you are directly acquainted with something bad. The badness is constitutive of pain's phenomenal character, not inferred from it or projected onto neutral sensation. Pleasure works the same way: the goodness is what you're experiencing, not a separate evaluation attached from outside. This closes Hume's is-ought gap for experience—the phenomenal "is" already contains normativity.
+[[topics/phenomenal-value-realism|Phenomenal value realism]] offers the opposite view: the goodness of pleasure and the badness of suffering are features of conscious experience itself. [[evaluative-phenomenal-character|Phenomenal normativity]] provides the answer to why: when you attend to what pain feels like—not abstractly, but in lived experience—you are directly acquainted with something bad. The badness is constitutive of pain's phenomenal character, not inferred from it or projected onto neutral sensation. Pleasure works the same way: the goodness is what you're experiencing, not a separate evaluation attached from outside. This closes Hume's is-ought gap for experience—the phenomenal "is" already contains normativity.
 
 This grounding goes beyond simple hedonism. Multiple features of conscious experience carry intrinsic value: hedonic valence, aesthetic quality, meaning, agency, understanding, and connection. This *phenomenal value pluralism* means a good life isn't simply maximising pleasure—it's cultivating richness across multiple dimensions of experience.
 
@@ -87,7 +87,7 @@ The [[meaning-of-life|meaning of life]] finds grounding in this framework that o
 
 Supernaturalism locates meaning in divine purpose—but leaves those without religious commitment adrift. Subjective naturalism says meaning is whatever you care about—but counting grass blades passionately isn't meaningful just because you're passionate. Nihilism concludes that without cosmic purpose, nothing matters—but this assumes the "view from nowhere" has authority to pronounce on significance.
 
-The alternative: meaning is grounded in consciousness itself. Each moment of awareness is something rather than nothing, and that "something" matters intrinsically. This isn't assertion but phenomenological observation—[[phenomenal-normativity|phenomenal normativity]] shows that the normative character of experience is directly accessible in having it. The qualitative features of experience—beauty, understanding, connection, agency—are forms of intrinsic value, discoverable through attending to experience rather than requiring external validation.
+The alternative: meaning is grounded in consciousness itself. Each moment of awareness is something rather than nothing, and that "something" matters intrinsically. This isn't assertion but phenomenological observation—[[evaluative-phenomenal-character|phenomenal normativity]] shows that the normative character of experience is directly accessible in having it. The qualitative features of experience—beauty, understanding, connection, agency—are forms of intrinsic value, discoverable through attending to experience rather than requiring external validation.
 
 Alfred North Whitehead's [[process-philosophy|process philosophy]] illuminates why consciousness can ground meaning without external validation. For Whitehead, reality consists of "actual occasions"—momentary events of experience, each with intrinsic "subjective aim" toward the richest possible integration. Value isn't added from outside; it's constitutive of what experience *is*. Each moment of experience inherently contributes novelty to reality. The question is not whether to create meaning (that's unavoidable) but what kind.
 
@@ -101,7 +101,7 @@ So *pursue what genuinely engages you*. Not what looks good from outside, not wh
 
 The [[ethics-of-consciousness|ethics of consciousness]] extends beyond individual meaning. If consciousness grounds value, then every conscious being instantiates value. Animals with subjective experience can suffer in ways that matter morally. Other humans are not resources for your purposes but fellow centres of intrinsic significance.
 
-The Map's framework gives special weight to *[[valence-and-conscious-selection|valence]]*—the felt positive or negative quality of experience. [[phenomenal-normativity|Phenomenal normativity]] explains why: [[pain-consciousness-and-causal-power|suffering's badness is constitutive of what suffering *is*]], not an evaluation layered on top. This is not merely a preference but a recognition of how value is structured in the phenomenal character of experience itself.
+The Map's framework gives special weight to *[[valence-and-conscious-selection|valence]]*—the felt positive or negative quality of experience. [[evaluative-phenomenal-character|Phenomenal normativity]] explains why: [[pain-consciousness-and-causal-power|suffering's badness is constitutive of what suffering *is*]], not an evaluation layered on top. This is not merely a preference but a recognition of how value is structured in the phenomenal character of experience itself.
 
 This shapes how to live among others. Causing unnecessary suffering is wrong because suffering is genuinely bad. Promoting flourishing is good because flourishing experiences are genuinely good. The Map isn't utilitarian in demanding you maximise aggregate welfare regardless of cost to yourself—but it does imply attention to how your choices affect others' experiential quality. The suffering you cause is real suffering. The joy you enable is real joy.
 
@@ -186,7 +186,7 @@ This apex article synthesizes:
 - [[ethics-of-consciousness|Ethics of Consciousness]] — How consciousness creates moral status and extends consideration to all sentient beings
 - [[purpose-and-alignment|Purpose and AI Alignment]] — Why AI alignment faces the meaning problem and requires human judgment
 - [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — Value as a feature of experience, extended to phenomenal value pluralism
-- [[phenomenal-normativity|Phenomenal Normativity]] — Why experience carries intrinsic normative force, grounding the is-ought bridge
+- [[evaluative-phenomenal-character|Phenomenal Normativity]] — Why experience carries intrinsic normative force, grounding the is-ought bridge
 - [[moral-responsibility|Moral Responsibility]] — How agent causation grounds desert
 - [[existentialism|Existentialism]] — Sartre's pour-soi and the structure of freedom
 - [[topics/free-will|Free Will and Determinism]] — The libertarian framework grounding genuine authorship

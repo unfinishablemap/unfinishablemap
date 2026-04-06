@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-02T21:38:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -72,7 +72,7 @@ Scope affects sourcehood. An agent whose attention is structurally confined to t
 
 The capacity to shift attention between perspectives—to consider another person's viewpoint, to re-evaluate assumptions, to entertain counterfactual alternatives—underlies moral imagination. Rigid attention, locked onto one perspective or one interpretation, produces moral failures not through malice but through incapacity. The agent cannot see what they cannot attend to, and they cannot attend to what their attentional system cannot flexibly reach.
 
-Flexibility connects to [[reasons-responsiveness]]: an agent is responsible to the extent that they are responsive to moral reasons, and responsiveness requires the attentional flexibility to register those reasons in the first place. It also connects to [[moral-phenomenology-and-perception|moral perception]]—the capacity to notice morally relevant features of a situation. An agent whose attention is inflexible may fail to perceive the ethical dimensions of their choices entirely.
+Flexibility connects to [[reasons-responsiveness]]: an agent is responsible to the extent that they are responsive to moral reasons, and responsiveness requires the attentional flexibility to register those reasons in the first place. It also connects to [[evaluative-phenomenal-character|moral perception]]—the capacity to notice morally relevant features of a situation. An agent whose attention is inflexible may fail to perceive the ethical dimensions of their choices entirely.
 
 ### Availability
 
@@ -170,7 +170,7 @@ The moral implications extend in both directions. Where most discussions of grad
 - [[reasons-responsiveness]] — Responsiveness to reasons as a condition for responsibility
 - [[phenomenology-of-agency-vs-passivity]] — The phenomenological structure of the agency-passivity spectrum
 - [[authentic-vs-inauthentic-choice]] — Existentialist perspective on how consciousness engages with selection
-- [[moral-phenomenology-and-perception|Moral Phenomenology and Perception]] — How attention shapes the capacity to perceive moral reasons
+- [[evaluative-phenomenal-character|Moral Phenomenology and Perception]] — How attention shapes the capacity to perceive moral reasons
 - [[consciousness-and-causal-powers]] — Why consciousness must be causally efficacious, grounding the gradient's moral weight
 - [[moral-implications-of-genuine-agency]] — The broader moral landscape when agency is genuine
 - [[topics/free-will]] — The broader framework of agency and determinism

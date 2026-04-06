@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-04-03
 human_modified: null
-ai_modified: 2026-04-04T07:38:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,7 +41,7 @@ concepts:
   - "[[semantic-memory]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[global-workspace-theory]]"
-  - "[[phenomenal-normativity]]"
+  - "[[evaluative-phenomenal-character]]"
 related_articles:
   - "[[tenets]]"
   - "[[argument-from-reason]]"
@@ -273,7 +273,7 @@ None of these findings currently obtains.
 - [[phenomenology-of-recursive-self-awareness]] — Consciousness taking itself as object
 - [[phenomenology-of-anticipation]] — The forward-directed structure of experience
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to conscious experience
-- [[phenomenal-normativity]] — Logical compulsion as one species of normative phenomenal property
+- [[evaluative-phenomenal-character|phenomenal normativity]] — Logical compulsion as one species of normative phenomenal property
 - [[resonance-void]] — Where felt significance exceeds articulation
 
 ## References

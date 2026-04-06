@@ -4,7 +4,7 @@ description: "Multiple philosophical traditions independently discovered that ev
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-04-05T14:02:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 last_deep_review: 2026-03-29T19:20:00+00:00
 draft: false
 topics:
@@ -12,9 +12,9 @@ topics:
   - "[[eastern-philosophy-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
 concepts:
-  - "[[evaluative-qualia]]"
-  - "[[phenomenal-normativity]]"
-  - "[[normative-phenomenology]]"
+  - "[[evaluative-phenomenal-character]]"
+  - "[[evaluative-phenomenal-character]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[qualia]]"
   - "[[valence]]"
 related_articles:
@@ -42,13 +42,13 @@ Five philosophical traditions, developing largely independently across two mille
 
 The argument is not that these traditions agree on metaphysics—they do not. Buddhist *anattā* denies the substantial self that dualism typically requires. Neo-Confucianism is ultimately monist. Kashmir Shaivism is idealist. Islamic *ḥikmah* operates within a theistic framework foreign to the Map's commitments. What converges is not ontology but phenomenological discovery: each tradition, through its own methods and conceptual vocabulary, identifies evaluative character as a basic, irreducible feature of experience rather than something layered on top of neutral sensation by judgment or cognition.
 
-This matters because the most common physicalist response to [[evaluative-qualia]] is that they are projections—value attributed to experience by cognitive processes rather than intrinsic to phenomenal character itself. If one tradition made this discovery, the projection objection would carry weight. When five traditions reach the same conclusion through radically different methods—meditative attention, moral cultivation, [[contemplative-practice-as-philosophical-evidence|aesthetic contemplation]], mystical practice, and analytic argument—the projection explanation becomes strained.
+This matters because the most common physicalist response to [[evaluative-phenomenal-character|evaluative qualia]] is that they are projections—value attributed to experience by cognitive processes rather than intrinsic to phenomenal character itself. If one tradition made this discovery, the projection objection would carry weight. When five traditions reach the same conclusion through radically different methods—meditative attention, moral cultivation, [[contemplative-practice-as-philosophical-evidence|aesthetic contemplation]], mystical practice, and analytic argument—the projection explanation becomes strained.
 
 ## Buddhist Vedanā: Evaluative Tone Before Thought
 
 The Pali *Satipaṭṭhāna Sutta* (c. 500 BCE) identifies *vedanā*—feeling tone—as the second of four foundations of mindfulness, more fundamental than mental states or conceptual content. Vedanā arises at sensory contact as pleasant, unpleasant, or neutral—pre-reflective evaluative phenomenology prior to emotion, preference, or judgment. It captures the felt valence of experience before any cognitive processing occurs.
 
-The Abhidharma tradition elaborates: vedanā is a *cetasika* (mental factor) present in every moment of consciousness. There is no experience without evaluative tone. This structural claim—that evaluation pervades all experience rather than appearing only in special cases—parallels the Western [[phenomenal-normativity]] thesis that phenomenal experiences carry intrinsic normative force.
+The Abhidharma tradition elaborates: vedanā is a *cetasika* (mental factor) present in every moment of consciousness. There is no experience without evaluative tone. This structural claim—that evaluation pervades all experience rather than appearing only in special cases—parallels the Western [[evaluative-phenomenal-character|phenomenal normativity]] thesis that phenomenal experiences carry intrinsic normative force.
 
 The parallel has limits. Buddhists resist reifying vedanā as a property of a substantial subject. The entire framework operates under *anattā* (no-self) and *paṭiccasamuppāda* (dependent origination). Yet the phenomenological finding stands independently of the metaphysics: careful first-person investigation reveals evaluative character as a basic constituent of experience, not a cognitive overlay. Vipassanā practitioners report encountering vedanā at levels of attentional refinement where conceptual processing has ceased—evidence that evaluation precedes thought rather than depending on it.
 
@@ -60,7 +60,7 @@ Zhu Xi (1130–1200) systematised this into a framework where evaluative moral a
 
 Wang Yangming (1472–1529) pushed further with *liángzhī* (良知)—innate moral knowledge that is phenomenally immediate. Moral knowledge is not inferred from experience but directly present in it. When you witness cruelty, the felt wrongness is not a judgment *about* the experience; it *is* the experience. This anticipates Dimitrov's 2025 argument that "suffering seems bad because it is, and what makes it true is our direct acquaintance with badness."
 
-The Confucian framework is not strictly dualist—*lǐ* and *qì* are interdependent aspects of one reality rather than separate substances. But the phenomenological claim aligns precisely with the [[evaluative-qualia]] thesis: evaluative character is constitutive of experience, not projected onto it.
+The Confucian framework is not strictly dualist—*lǐ* and *qì* are interdependent aspects of one reality rather than separate substances. But the phenomenological claim aligns precisely with the [[evaluative-phenomenal-character|evaluative qualia]] thesis: evaluative character is constitutive of experience, not projected onto it.
 
 ## Indian Rasa Theory: Aesthetic Consciousness as Irreducible
 
@@ -68,7 +68,7 @@ Bharata's *Nāṭyaśāstra* (c. 200 BCE) codified *rasa*—aesthetic flavour or
 
 Abhinavagupta's key insight: rasa is "nothing but aesthetic enjoyment, and this enjoyment consists exclusively in a kind of knowledge or consciousness." The evaluative dimension is not a response to beauty—it *is* a mode of consciousness. Within his Kashmir Shaivite metaphysics, aesthetic consciousness reveals the self-luminous nature of awareness itself, connecting phenomenal valence to the fundamental character of consciousness.
 
-This framework treats evaluative phenomenal character as more revealing of consciousness's nature than sensory qualia. The redness of red tells you about the stimulus; the beauty of beauty tells you about consciousness itself. If Abhinavagupta is right that evaluative experience discloses something about the structure of awareness that sensory experience does not, this supports the Map's claim that [[evaluative-qualia]] extend the hard problem into a domain even more resistant to physical explanation than sensation.
+This framework treats evaluative phenomenal character as more revealing of consciousness's nature than sensory qualia. The redness of red tells you about the stimulus; the beauty of beauty tells you about consciousness itself. If Abhinavagupta is right that evaluative experience discloses something about the structure of awareness that sensory experience does not, this supports the Map's claim that [[evaluative-phenomenal-character|evaluative qualia]] extend the hard problem into a domain even more resistant to physical explanation than sensation.
 
 ## Islamic Knowledge-as-Existence: Evaluative Participation
 
@@ -112,9 +112,9 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [[t
 
 ## Further Reading
 
-- [[evaluative-qualia]] — The distinct category of phenomenal experiences carrying intrinsic evaluative character
-- [[phenomenal-normativity]] — The thesis that phenomenal experiences carry intrinsic normative force
-- [[normative-phenomenology]] — Methodological first-person investigation of normative properties
+- [[evaluative-phenomenal-character|evaluative qualia]] — The distinct category of phenomenal experiences carrying intrinsic evaluative character
+- [[evaluative-phenomenal-character|phenomenal normativity]] — The thesis that phenomenal experiences carry intrinsic normative force
+- [[evaluative-phenomenal-character|normative phenomenology]] — Methodological first-person investigation of normative properties
 - [[topics/phenomenal-value-realism]] — The metaethical position grounded in evaluative qualia
 - [[topics/consciousness-and-normative-force]] — How phenomenal normativity manifests across domains
 - [[buddhism-and-dualism]] — Buddhist perspectives on experience and dualism

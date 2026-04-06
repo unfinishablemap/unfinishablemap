@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-04-05T15:32:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[semantic-memory]]"
   - "[[cognitive-phenomenology]]"
   - "[[emotion-and-dualism]]"
-  - "[[evaluative-qualia]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[explanatory-gap]]"
   - "[[introspection]]"
   - "[[decoherence]]"
@@ -55,7 +55,7 @@ Qualia are closely related to [[phenomenal-consciousness]]—the "what it's like
 
 ## Why Qualia Matter
 
-Qualia sit at the heart of the [[hard-problem-of-consciousness|hard problem of consciousness]]. We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [[emotion-and-dualism|Emotional valence]]—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case. These are [[evaluative-qualia]]—phenomenal experiences whose qualitative character is intrinsically evaluative—and they ground [[topics/phenomenal-value-realism|phenomenal value realism]]'s claim that felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[[pain-consciousness-and-causal-power]] develops this as the hardest case for epiphenomenalism. More broadly, [[content-specificity-of-mental-causation|content-specificity]] demonstrates that specific qualia produce specific causal consequences: different placebo beliefs trigger different neurochemical cascades, and the granularity of the mapping tracks the granularity of phenomenal content.
+Qualia sit at the heart of the [[hard-problem-of-consciousness|hard problem of consciousness]]. We can explain the neurological processes that detect light wavelengths, but no amount of neurological detail tells us *why* there is something it is like to see red rather than nothing at all. The explanatory gap between physical description and subjective experience remains unbridged. [[emotion-and-dualism|Emotional valence]]—the felt badness of pain and goodness of pleasure—provides perhaps the starkest case. These are [[evaluative-phenomenal-character|evaluative qualia]]—phenomenal experiences whose qualitative character is intrinsically evaluative—and they ground [[topics/phenomenal-value-realism|phenomenal value realism]]'s claim that felt qualities *constitute* intrinsic value rather than merely indicating it. Pain asymbolia patients prove that functional pain processing without the felt quality loses its motivational force—[[pain-consciousness-and-causal-power]] develops this as the hardest case for epiphenomenalism. More broadly, [[content-specificity-of-mental-causation|content-specificity]] demonstrates that specific qualia produce specific causal consequences: different placebo beliefs trigger different neurochemical cascades, and the granularity of the mapping tracks the granularity of phenomenal content.
 
 Consider two scenarios:
 1. A neuroscientist gives a complete account of pain—nerve fibers, neurotransmitter release, brain regions activated
@@ -107,7 +107,7 @@ Block's [[pre-conceptual-knowing#Phenomenal Overflow|phenomenal overflow]] resea
 
 [[aesthetics-and-consciousness|Aesthetic experience]] provides perhaps the strongest case for qualia's resistance to reduction. Colours carry aesthetic character (*warm*, *serene*, *electric*) independent of what they represent. Some rooms feel oppressive; others inviting. Ideas have aesthetic character—Einstein reported general relativity "felt right" before he could prove it.
 
-Aesthetic qualia may resist reduction more than sensory qualia: the [[inverted-qualia|inverted spectrum]] argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. This marks them as [[evaluative-qualia]]—their qualitative character is inseparable from their evaluative significance. The [[aesthetic-void]] explores what this resistance to articulation reveals about cognitive limits.
+Aesthetic qualia may resist reduction more than sensory qualia: the [[inverted-qualia|inverted spectrum]] argument faces the objection that colour space has structural asymmetries making inversion detectable. But aesthetic space lacks such asymmetries—someone whose aesthetic qualia are systematically inverted could behave identically to you. Aesthetic qualia also carry intrinsic normativity: beauty *calls for* attention. This marks them as [[evaluative-phenomenal-character|evaluative qualia]]—their qualitative character is inseparable from their evaluative significance. The [[aesthetic-void]] explores what this resistance to articulation reveals about cognitive limits.
 
 ## Thought Experiments
 
@@ -219,11 +219,11 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[illusionism]] - The radical denial of phenomenal properties
 
 **Extensions:**
-- [[evaluative-qualia]] - Phenomenal experiences carrying intrinsic evaluative character (goodness, beauty, wrongness)
+- [[evaluative-phenomenal-character|evaluative qualia]] - Phenomenal experiences carrying intrinsic evaluative character (goodness, beauty, wrongness)
 - [[consciousness-and-language-interface]] - Why qualia resist linguistic capture (bidirectional lossy channel)
 - [[aesthetics-and-consciousness]] - Aesthetic qualia resistant to reduction
 - [[cognitive-phenomenology]] - Whether thinking has phenomenal character
-- [[moral-phenomenology-and-perception]] - Moral qualia: the felt wrongness, obligation, and guilt that extend the hard problem into ethics
+- [[evaluative-phenomenal-character|moral phenomenology and perception]] - Moral qualia: the felt wrongness, obligation, and guilt that extend the hard problem into ethics
 - [[pain-consciousness-and-causal-power]] - Why pain's felt quality is inseparable from its causal power
 - [[minimal-consciousness]] - Qualia in simple organisms
 - [[affective-void]] - Emotions and affects beyond human phenomenological reach

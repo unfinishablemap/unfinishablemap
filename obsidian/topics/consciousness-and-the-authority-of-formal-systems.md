@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 last_deep_review: 2026-03-18T03:59:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ topics:
   - "[[philosophy-of-mind]]"
 concepts:
   - "[[cognitive-phenomenology]]"
-  - "[[phenomenal-normativity]]"
+  - "[[evaluative-phenomenal-character]]"
   - "[[self-stultification]]"
   - "[[reasons-responsiveness]]"
   - "[[agent-causation]]"
@@ -82,7 +82,7 @@ The presumption is understandable but not self-evidently correct. Mathematics de
 
 Physical causation operates through efficient causes — one state producing another according to natural law. But logical authority is not efficient causation. The premises do not *cause* the conclusion the way a billiard ball causes another to move. They *entail* it — a relationship that holds timelessly and necessarily. If your transition from premises to conclusion is fully explained by neural causation, the logical relationship between the propositions was explanatorily idle. You would have drawn the same conclusion (or a different one) depending on neural wiring, regardless of whether the argument was valid.
 
-The physicalist may respond that evolution wired our brains to track logical relationships. But this confuses reliable correlation with normative authority. A thermostat reliably tracks temperature without being compelled by thermodynamic laws. Reliable tracking, however sophisticated, is not the same as being bound. The felt authority of logic — the experience of *having no rational alternative* — is a species of [[phenomenal-normativity]] that exists only for subjects who encounter necessity as such.
+The physicalist may respond that evolution wired our brains to track logical relationships. But this confuses reliable correlation with normative authority. A thermostat reliably tracks temperature without being compelled by thermodynamic laws. Reliable tracking, however sophisticated, is not the same as being bound. The felt authority of logic — the experience of *having no rational alternative* — is a species of [[evaluative-phenomenal-character|phenomenal normativity]] that exists only for subjects who encounter necessity as such.
 
 Wilfrid Sellars's distinction between the "logical space of reasons" and the domain of causal explanation (later sharpened by McDowell into the contrast between "reasons" and "causes") illuminates why logic resists reduction. The claim that modus ponens is culturally constructed is incoherent — any culture that rejected it could not reason at all. The claim that it is an evolutionary adaptation reduces necessity to contingent usefulness. Logic's authority is *presupposed* by any attempt to explain it away. As Thomas Nagel argues in *The Last Word* (1997), logical reasoning claims an autonomy that survives every attempt at external explanation: to challenge reason's authority, one must exercise that very authority.
 

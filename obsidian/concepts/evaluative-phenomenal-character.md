@@ -1,10 +1,10 @@
 ---
 title: "Evaluative Phenomenal Character"
-description: "Conscious experience carries intrinsic evaluative character—felt goodness, badness, beauty, wrongness—that constitutes normative force, extends the hard problem into value, and is accessible through systematic first-person investigation including moral perception."
+description: "Conscious experience carries intrinsic evaluative character—felt goodness, badness, beauty, wrongness—that extends the hard problem into value."
 created: 2026-01-16
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T13:58:00+00:00
+ai_modified: 2026-04-06T14:06:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -14,7 +14,7 @@ topics:
   - "[[phenomenology-of-moral-life]]"
 concepts:
   - "[[qualia]]"
-  - "[[topics/phenomenal-value-realism]]"
+  - "[[phenomenal-value-realism]]"
   - "[[emotion-and-dualism]]"
   - "[[introspection]]"
   - "[[illusionism]]"
@@ -54,7 +54,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-06T14:06:00+00:00
 coalesced_from:
   - "/concepts/phenomenal-normativity/"
   - "/concepts/evaluative-qualia/"
@@ -78,11 +78,11 @@ The case builds on [[acquaintance-knowledge|knowledge by acquaintance]]. We don'
 
 When experiencing intense pain and asking "is *this* bad?"—attending directly to the phenomenal character—the question closes. The badness is not inferred or added; it is manifest in what you are attending to. [[introspection|Introspective]] access provides evidence but not proof. A critic will object that feeling certain about the pleasure-goodness link is exactly what we'd expect if the identification were a deeply ingrained conceptual habit rather than a metaphysical discovery. What it does establish is that any account making pleasure's goodness contingent must explain away a persistent and cross-culturally robust phenomenological appearance.
 
-Martin Dimitrov extends this through direct acquaintance with intrinsic value: for simple, nonrepresentational phenomenal states, there is no gap between the appearance of badness and badness itself (Dimitrov 2025). David Sosa identifies evaluative qualia as revealing a second, independent motivation for dualism: even if phenomenal consciousness could somehow be explained physically, the normative dimension might resist naturalisation independently (Sosa 2011).
+Martin Dimitrov extends this via constitutivism about phenomenal introspection: for simple, nonrepresentational phenomenal states like suffering's feeling bad, introspective judgments are literally constituted by the phenomenal states they concern, closing the appearance-reality gap (Dimitrov 2025). David Sosa argues that normativity provides a second, independent motivation for dualism: even if phenomenal consciousness could somehow be explained physically, rationality and normative force might resist naturalisation independently (Sosa 2011). The evaluative dimension of experience sits at the intersection of both motivations.
 
 ### The Is-Ought Bridge
 
-Hume argued you cannot derive "ought" from "is." Phenomenal normativity challenges this by denying that phenomenal experiences are purely descriptive. If pain's badness is constitutive of what pain *is*, then attending to pain already puts you in contact with a normative fact. The gap doesn't appear because the phenomenal "is" already contains normativity.
+Hume argued you cannot derive "ought" from "is." The logical point stands: no formal deduction bridges the gap. But phenomenal normativity reframes the premises. If pain's badness is constitutive of what pain *is*, then the phenomenal "is" already contains normativity—not by illicit derivation but because the starting point was never purely descriptive. Attending to pain puts you in contact with a fact that is simultaneously natural and normative.
 
 ## Phenomenal Value Pluralism
 
@@ -201,52 +201,33 @@ None of these findings currently obtains.
 
 - [[topics/phenomenal-value-realism]] — The metaethical position grounded in evaluative qualia
 - [[consciousness-value-connection]] — Why value requires consciousness
-- [[qualia]] — The broader category of phenomenal properties
 - [[topics/consciousness-and-normative-force]] — How phenomenal normativity manifests across domains
-- [[emotion-and-dualism]] — Valence as the felt quality of emotions
-- [[aesthetics-and-consciousness]] — Aesthetic normativity beyond hedonic valence
-- [[meaning-of-life]] — How consciousness grounds meaning
 - [[experiential-alignment]] — Operationalising phenomenal normativity for AI alignment
 - [[alignment-in-objective-experiential-terms]] — Why evaluative qualia ground genuinely objective AI alignment criteria
-- [[phenomenology]] — The broader phenomenological tradition
 - [[phenomenological-evidence]] — How first-person reports count as evidence
-- [[reasons-responsiveness]] — Why normative experience grounds genuine responsiveness to reasons
-- [[attention-as-interface]] — Attention as the site of consciousness-brain interaction
+- [[contemplative-practice-as-philosophical-evidence]] — Contemplative traditions as laboratories for normative investigation
 - [[normative-void]] — Where normative perception reaches its limits
 - [[affective-void]] — The space of affects beyond human access
-- [[contemplative-practice-as-philosophical-evidence]] — Contemplative traditions as laboratories for normative investigation
-- [[moral-responsibility]] — How agent causation grounds moral desert
-- [[phenomenology-of-moral-life]] — The full arc of moral consciousness
-- [[introspection]] — First-person access to phenomenal states
-- [[witness-consciousness]] — Contemplative access to valence
-- [[hard-problem-of-consciousness]] — The explanatory gap's normative dimension
-- [[philosophical-zombies]] — Why normativity requires phenomenal consciousness, not function
-- [[illusionism]] — The challenge that phenomenal consciousness is illusory
-- [[knowledge-argument]] — Phenomenal knowledge exceeds physical description
-- [[haecceity]] — Why *this* experience matters, not just experience-of-this-type
-- [[buddhism-and-dualism]] — Buddhist perspectives on value and emptiness
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia
 
 ## References
 
-1. Dimitrov, M. (2025). Direct Acquaintance with Intrinsic Value. *The Philosophical Quarterly*, 75(2), 428ff.
+1. Dimitrov, M. (2025). Direct Acquaintance with Intrinsic Value. *The Philosophical Quarterly*, 75(2), 428–449.
 2. Gethin, R. (1998). *The Foundations of Buddhism*. Oxford University Press.
-3. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56-77.
+3. Horgan, T. & Timmons, M. (2005). "Moral Phenomenology and Moral Theory." *Philosophical Issues*, 15, 56–77.
 4. Hume, D. (1739/1978). *A Treatise of Human Nature*. Oxford University Press.
 5. Joyce, R. (2006). *The Evolution of Morality*. MIT Press.
-6. Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1-19.
-7. Kriegel, U. (2022). Phenomenal Grounds of Epistemic Value. *Philosophy Compass*.
-8. Levinas, E. (1961/1969). *Totality and Infinity*. Trans. A. Lingis. Duquesne University Press.
-9. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
-10. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331-350.
-11. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
-12. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
-13. Onof, C. (2008). Property Dualism, Epistemic Normativity, and the Limits of Naturalism. *Philosophy and Phenomenological Research*, 76(1), 60–85.
-14. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323-338.
-15. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
-16. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
-17. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
-18. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*.
-19. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109-166.
-20. Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.
-21. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
+6. Kriegel, U. (2008). "Moral Phenomenology: Foundational Issues." *Phenomenology and the Cognitive Sciences*, 7(1), 1–19.
+7. Levinas, E. (1961/1969). *Totality and Infinity*. Trans. A. Lingis. Duquesne University Press.
+8. Mackie, J. L. (1977). *Ethics: Inventing Right and Wrong*. Penguin.
+9. McDowell, J. (1979). "Virtue and Reason." *The Monist*, 62(3), 331–350.
+10. Moore, G. E. (1903). *Principia Ethica*. Cambridge University Press.
+11. Murdoch, I. (1970). *The Sovereignty of Good*. Routledge.
+12. Palazzo, G., Krings, F., & Hoffrage, U. (2012). "Ethical Blindness." *Journal of Business Ethics*, 109(3), 323–338.
+13. Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
+14. Prinz, J. (2007). *The Emotional Construction of Morals*. Oxford University Press.
+15. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*. [Foreword by Thomas Nagel]
+16. Sosa, D. (2011). Two Forms of Dualism. *Dialogue: Canadian Philosophical Review*, 50(2).
+17. Street, S. (2006). "A Darwinian Dilemma for Realist Theories of Value." *Philosophical Studies*, 127(1), 109–166.
+18. Weil, S. (1947/1952). *Gravity and Grace*. Trans. A. Wills. Routledge & Kegan Paul.
+19. Werner, P. (2020). "Moral Perception." *Philosophy Compass*, 15(1), e12640.
