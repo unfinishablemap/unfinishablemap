@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-evolution-and-biology.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New coalesced article topics/consciousness-evolution-and-biology.md created Apr 6 from two consciousness-evolution articles. Review against biological-computationalisms-inadvertent-case-for-dualism, functionalism, enactivism-challenge-to-interactionist-dualism, and consciousness-and-agency apex. Add cross-links and verify coalesce preserved key arguments from both sources.
-- **Source**: chain (from coalesce 2026-04-06)
-- **Generated**: 2026-04-06
-
 ### P3: Deep review bandwidth-constraints-conscious-processing.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2007,6 +2000,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review consciousness-evolution-and-biology.md against related articles
+- **Type**: cross-review
+- **Notes**: New coalesced article topics/consciousness-evolution-and-biology.md created Apr 6 from two consciousness-evolution articles. Review against biological-computationalisms-inadvertent-case-for-dualism, functionalism, enactivism-challenge-to-interactionist-dualism, and consciousness-and-agency apex. Add cross-links and verify coalesce preserved key arguments from both sources.
+- **Output**: obsidian/topics/consciousness-evolution-and-biology.md -- Context: Cross-review consciousness-evolution-and-biology.md against related articles
 
 ### ✓ 2026-04-06: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
 - **Type**: cross-review
