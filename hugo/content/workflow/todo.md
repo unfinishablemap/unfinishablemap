@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review pragmatism-and-qbism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md. Never deep-reviewed. Topics article on the convergence between pragmatist philosophy and QBist quantum foundations. Cross-review already queued but no comprehensive review. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-QBism connection, cross-references to born-rule-and-the-consciousness-interface and pragmatisms-path-to-dualism, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -1931,6 +1924,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review pragmatism-and-qbism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md. Never deep-reviewed. Topics article on the convergence between pragmatist philosophy and QBist quantum foundations. Cross-review already queued but no comprehensive review. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-QBism connection, cross-references to born-rule-and-the-consciousness-interface and pragmatisms-path-to-dualism, and tenet alignment.
+- **Output**: obsidian/topics/pragmatism-and-qbism.md
 
 ### ✓ 2026-04-06: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
 - **Type**: deep-review

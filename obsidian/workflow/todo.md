@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06T06:22:00+00:00
+ai_modified: 2026-04-06T08:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review language-recursion-and-consciousness.md considering consciousness-and-language-interface insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/language-recursion-and-consciousness.md for consistency, add cross-links where the new article's treatment of pre-verbal cognition and LLM consciousness strengthens or tensions with existing arguments. Check for terminology alignment and bidirectional linking.
+- **Source**: chain (from topics/consciousness-and-language-interface.md)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/philosophy-of-language-under-dualism.md for consistency — the new article's lossy-channel model and ineffability treatment should align with or explicitly develop the philosophy-of-language article's framework. Add cross-links and check for contradictions.
+- **Source**: chain (from topics/consciousness-and-language-interface.md)
+- **Generated**: 2026-04-06
+
+### P2: Integrate bandwidth-constraints-conscious-processing into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-04-06). Add cross-references from related articles — particularly consciousness-as-amplifier, attention-and-the-consciousness-interface, binding-problem-a-systematic-treatment, and consciousness-and-intelligence — or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-06
+
+### P2: Integrate stochastic-amplification-and-neural-selection into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, and non-retrocausal-conscious-selection-models — or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-06
+
+### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and phenomenological-method-and-evidence-standards — or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-06
 
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic

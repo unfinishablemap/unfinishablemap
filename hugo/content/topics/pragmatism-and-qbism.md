@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-04 23:48:00+00:00
+ai_modified: 2026-04-06 08:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: QBism inherits William James's pragmatism but refuses to explain it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-04 23:48:00+00:00
+last_deep_review: 2026-04-06 08:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -95,7 +95,7 @@ Despite deep tensions, QBism and the Map share significant commitments:
 
 **Realism about quantum states.** The Map's Tenet 2 (Minimal Quantum Interaction) presupposes that quantum events are real and that consciousness interfaces with them. QBism denies there are objective quantum states for consciousness to interact with. This is the deepest tension: if wave functions are beliefs rather than reality, there is nothing for consciousness to causally influence at the quantum level.
 
-The Map's response: QBism's anti-realism about quantum states is a philosophical choice, not a consequence of the physics. The SIC-POVM reformulation shows that quantum mechanics *can* be expressed in purely probabilistic terms, but "can be expressed as" is not "is nothing more than." The normative constraints on agents' beliefs may reflect real structure in how consciousness and physics interface — structure that QBism's pragmatist anti-realism deliberately refuses to theorise about.
+The Map's response: QBism's anti-realism about quantum states is a philosophical choice, not a consequence of the physics. As Glick (2021) observes, QBism's stance toward realism is more nuanced than flat denial — it need not reject objective structure in reality, only that quantum states represent that structure directly. The SIC-POVM reformulation reinforces this: quantum mechanics *can* be expressed in purely probabilistic terms, but "can be expressed as" is not "is nothing more than." The normative constraints on agents' beliefs may reflect real structure in how consciousness and physics interface — structure that QBism's pragmatist anti-realism deliberately refuses to theorise about.
 
 **Causal efficacy of consciousness.** QBism gives consciousness an epistemic role — experience is what makes quantum states meaningful — but not a causal one. The Map (Tenet 3) holds that consciousness causally influences physical outcomes. QBism's agent *updates beliefs*; the Map's agent *selects realities*. This difference is fundamental: QBism's universe creates itself through acts of participation, but the participants are along for the ride in a way the Map denies.
 
