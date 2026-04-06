@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 14:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: Phenomenology of resistance across domains
+- **Output**: [[phenomenology-of-resistance-across-domains-2026-04-06]]
+- **Sources consulted**: 15
+
 ## 2026-04-06 14:20 UTC - research-topic
 - **Status**: Success
 - **Topic**: Invertebrate consciousness as interface test case

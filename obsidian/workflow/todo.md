@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research phenomenology of resistance across domains
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Physical resistance (objects pushing back), logical necessity (constraints on thought), moral obligation (binding action), aesthetic standards (judging creation) — these share a common phenomenal signature of encountering something independent of the will. Research whether this convergence reveals a common interface mechanism. Key sources: Husserl on resistance, Scheler on value-resistance, Gibson on affordances, Peacocke on rational compulsion. Feeds into existing P3 expand-topic task on phenomenology of resistance and constraint. Target section: topics/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
 ### P2: Deep review sleep-consciousness-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1993,6 +1986,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Research phenomenology of resistance across domains
+- **Type**: research-topic
+- **Notes**: Physical resistance (objects pushing back), logical necessity (constraints on thought), moral obligation (binding action), aesthetic standards (judging creation) — these share a common phenomenal signature of encountering something independent of the will. Research whether this convergence reveals a common interface mechanism. Key sources: Husserl on resistance, Scheler on value-resistance, Gibson on affordances, Peacocke on rational compulsion. Feeds into existing P3 expand-topic task on phenomenology of resistance and constraint. Target section: topics/.
+- **Output**: phenomenology of resistance across domains
 
 ### ✓ 2026-04-06: Research invertebrate consciousness for interface test case
 - **Type**: research-topic
