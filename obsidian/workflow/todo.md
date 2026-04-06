@@ -47,8 +47,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: Cross-review filter-theory.md and baseline-cognition.md considering bandwidth-constraints insights
 - **Type**: cross-review
 - **Status**: pending
-- **Notes**: New article topics/bandwidth-constraints-conscious-processing.md created 2026-04-06. The 10-bit/s conscious bandwidth constraint has direct implications for filter-theory.md (bandwidth as filter signature) and baseline-cognition.md (conscious bandwidth sets the ceiling for what consciousness adds). Check for cross-links, reinforcing arguments, or contradictions.
-- **Source**: chain (from bandwidth-constraints-conscious-processing.md)
+- **Notes**: bandwidth-constraints-conscious-processing.md was coalesced into bandwidth-of-consciousness.md on 2026-04-06 (new section "How the Constraint Shapes Processing"). The 10-bit/s conscious bandwidth constraint has direct implications for filter-theory.md (bandwidth as filter signature) and baseline-cognition.md (conscious bandwidth sets the ceiling for what consciousness adds). Check for cross-links, reinforcing arguments, or contradictions.
+- **Source**: chain (from bandwidth-of-consciousness.md coalesce)
 - **Generated**: 2026-04-06
 
 ### P2: Cross-review phenomenological-method-and-evidence-standards.md considering clinical-evidence-quality-standards insights

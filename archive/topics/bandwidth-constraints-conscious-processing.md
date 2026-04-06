@@ -35,6 +35,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
 last_deep_review: 2026-04-06T03:51:00+00:00
+archived: true
+archived_date: 2026-04-06T06:36:00+00:00
+superseded_by: "/topics/bandwidth-of-consciousness/"
+archive_reason: "Coalesced into The Bandwidth of Consciousness"
+original_path: "/topics/bandwidth-constraints-conscious-processing/"
 ---
 
 The ~10 bits per second ceiling on conscious throughput is not merely a capacity limitation. It determines the *kind* of information processing consciousness performs. A processor operating at 10 bits per second works fundamentally differently from one operating at 10⁹ bits per second — not just slower, but in a structurally distinct mode. The Unfinishable Map argues that the bandwidth constraint reveals consciousness as a qualitatively different information-processing system from the neural computation surrounding it: serial where the brain is parallel, abstract where the brain is granular, evaluative where the brain is computational. Understanding how bandwidth shapes processing illuminates both what consciousness contributes to cognition and why that contribution resists physical explanation.

@@ -5,6 +5,14 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 06:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/bandwidth-constraints-conscious-processing]]
+- **Target**: [[topics/bandwidth-of-consciousness]]
+- **Archived**: [[archive/topics/bandwidth-constraints-conscious-processing]]
+- **References to review**: none (only changelog and review files referenced the archived article)
+- **Notes**: Merged seriality, forced abstraction, temporal grain/specious present, and division of labour sections into bandwidth-of-consciousness. Updated cross-review task in todo.md.
+
 ## 2026-04-06 06:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
