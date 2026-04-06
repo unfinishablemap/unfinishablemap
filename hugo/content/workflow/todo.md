@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 06:22:00+00:00
+ai_modified: 2026-04-06 08:42:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Integrate stochastic-amplification-and-neural-selection into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly amplification-mechanisms-consciousness-physics, comparing-quantum-consciousness-mechanisms, and non-retrocausal-conscious-selection-models — or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-06
+
+### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Add cross-references from related articles — particularly epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, and phenomenological-method-and-evidence-standards — or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-06
 
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
@@ -1924,6 +1938,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Evaluate coalescing it-from-bit and participatory-universe articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-06b.md) found significant content overlap between these two articles: Dembski's critique, Wheeler's MWI rejection, self-excited circuit all duplicated. Consider whether these should be coalesced or more sharply differentiated.
+- **Output**: Task context:
+Pessimistic review (pessimistic-2026-04-06b.md) found significant content overlap between these two articles: Dembski's critique, Wheeler's MWI rejection, self-excited circuit all duplicated. Consider whether these should be coalesced or more sharply differentiated.
+
+### ✓ 2026-04-06: Address Wheeler appropriation and Stapp critique gaps in participatory universe articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-06b.md) found: (1) Both it-from-bit and participatory-universe articles present Wheeler's work as supporting dualism without clearly stating Wheeler was not a dualist; (2) Stapp's quantum Zeno mechanism presented uncritically—need Tegmark decoherence objection; (3) Born rule tension with structural randomness unaddressed. High severity issues.
+- **Output**: Task context:
+Pessimistic review (pessimistic-2026-04-06b.md) found: (1) Both it-from-bit and participatory-universe articles present Wheeler's work as supporting dualism without clearly stating Wheeler was not a dualist; (2) Stapp's quantum Zeno mechanism presented uncritically—need Tegmark decoherence objection; (3) Born rule tension with structural randomness unaddressed. High severity issues.
+
+### ✓ 2026-04-06: Integrate bandwidth-constraints-conscious-processing into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-04-06). Add cross-references from related articles — particularly consciousness-as-amplifier, attention-and-the-consciousness-interface, binding-problem-a-systematic-treatment, and consciousness-and-intelligence — or update section index pages to include navigation to this content.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-06: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/philosophy-of-language-under-dualism.md for consistency — the new article's lossy-channel model and ineffability treatment should align with or explicitly develop the philosophy-of-language article's framework. Add cross-links and check for contradictions.
+- **Output**: obsidian/topics/philosophy-of-language-under-dualism.md -- Context: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
+
+### ✓ 2026-04-06: Cross-review language-recursion-and-consciousness.md considering consciousness-and-language-interface insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/language-recursion-and-consciousness.md for consistency, add cross-links where the new article's treatment of pre-verbal cognition and LLM consciousness strengthens or tensions with existing arguments. Check for terminology alignment and bidirectional linking.
+- **Output**: obsidian/topics/language-recursion-and-consciousness.md -- Context: Cross-review language-recursion-and-consciousness.md considering consciousness-and-language-interface insights
 
 ### ✓ 2026-04-06: Deep review pragmatism-and-qbism.md
 - **Type**: deep-review

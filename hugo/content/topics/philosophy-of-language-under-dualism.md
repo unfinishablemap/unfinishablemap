@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-05 01:00:00+00:00
+ai_modified: 2026-04-06 09:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: If consciousness is irreducible to physics, linguistic meaning cann
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 01:00:00+00:00
+last_deep_review: 2026-04-06 09:12:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-language-interface]]'
@@ -88,7 +88,7 @@ The Map's interactionist dualism can absorb Wittgenstein's insight without aband
 
 Phenomenal terms like "pain," "red," and "bitter" get their public meaning through shared practices—pointing, grimacing, correcting children who use words unusually. Wittgenstein is right that this public dimension is essential for language to function. But public meaning does not exhaust what phenomenal terms do. When a speaker uses the word "pain" while *in pain*, the utterance has both public functional meaning and private phenomenal reference. The public dimension makes communication possible. The private dimension makes the communication *about something*.
 
-The private language argument shows that a language *consisting entirely* of private terms is incoherent. It does not show that a public language cannot *refer to* private states. The distinction matters. Human language is public—learned socially, governed by shared norms—yet it refers to phenomenal states that each speaker accesses privately. The referential reach of public language extends beyond the public domain.
+The private language argument shows that a language *consisting entirely* of private terms is incoherent. It does not show that a public language cannot *refer to* private states. The distinction matters. Human language is public—learned socially, governed by shared norms—yet it refers to phenomenal states that each speaker accesses privately. The referential reach of public language extends beyond the public domain. Evidence from anendophasia—the [absence of inner speech](/topics/consciousness-and-language-interface/)—reinforces this: people without an inner voice still refer successfully to their phenomenal states using public language, demonstrating that phenomenal reference depends on conscious experience itself, not on any private linguistic rehearsal.
 
 Consider pain. The word has public criteria: behavioural expressions, medical contexts, shared understanding. These criteria enable communication. But what motivates the communication—what the speaker is *talking about*—is a phenomenal state accessible only to them. The public criteria are necessary for the word to function linguistically; they are not sufficient to capture what the word is about.
 
@@ -100,7 +100,7 @@ The Map argues that it does, for three reasons.
 
 **Intentionality requires a subject.** [Intentionality](/concepts/intentionality/)—the "aboutness" of mental states—requires someone for whom a state is about something. Sentences on a page or patterns in a neural network have derived intentionality: they mean something *to us*. Original intentionality—meaning that is intrinsic rather than assigned—requires a conscious subject. This is the [symbol-grounding-problem](/concepts/symbol-grounding-problem/) applied to language: symbols manipulated by a computational system remain ungrounded until a conscious agent anchors them in experience. If dualism is correct and consciousness is non-physical, original intentionality has a non-physical dimension that functional accounts cannot capture.
 
-**Understanding is phenomenal.** There is something it is like to understand a sentence—a felt grasp of meaning that differs from mere processing. A calculator processes "2+2=4" without understanding it. The phenomenal character of understanding—the "aha" of comprehension, the sense of a sentence clicking into place—is part of what makes human language meaningful rather than merely functional. [Recursive language processing](/topics/language-recursion-and-consciousness/) reinforces this point: holding nested clauses in working memory and integrating their meanings appears to require conscious manipulation, not just pattern-matching over surface forms. The [consciousness-language interface](/topics/consciousness-and-language-interface/) operates in both directions: consciousness does not merely add colour to meaning but partially constitutes it.
+**Understanding is phenomenal.** There is something it is like to understand a sentence—a felt grasp of meaning that differs from mere processing. A calculator processes "2+2=4" without understanding it. The phenomenal character of understanding—the "aha" of comprehension, the sense of a sentence clicking into place—is part of what makes human language meaningful rather than merely functional. [Recursive language processing](/topics/language-recursion-and-consciousness/) reinforces this point: holding nested clauses in working memory and integrating their meanings appears to require conscious manipulation, not just pattern-matching over surface forms. The [consciousness-language interface](/topics/consciousness-and-language-interface/) operates in both directions: consciousness does not merely add colour to meaning but partially constitutes it. The interface analysis reveals a *formatting effect*: learning concepts like *saudade* or *mono no aware* does not merely label pre-existing experiences but generates new phenomenal states unavailable before the concept was internalised. A zombie could acquire the linguistic form without the phenomenal transformation—further evidence that genuine meaning has an irreducibly conscious dimension.
 
 **Communication aims at shared experience.** When we communicate, we do not merely transmit functional states. We attempt to produce in another person an experience relevantly similar to our own. "The sunset was breathtaking"—this sentence succeeds when the listener imagines, feels, or recalls something of the experience. Yet as [the analysis of testimony](/topics/consciousness-and-testimony/) shows, phenomenal character itself does not transmit—only propositional structure travels between minds. Communication at its most meaningful is an attempt to bridge the gap between separate phenomenal worlds, an attempt that systematically succeeds for structural content and systematically fails for qualitative content. This bridging requires consciousness on both sides.
 

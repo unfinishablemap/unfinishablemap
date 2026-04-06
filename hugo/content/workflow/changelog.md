@@ -9,6 +9,61 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 10:13 UTC - refine-draft
+- **Status**: Success
+- **Files**: [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/), [the-participatory-universe](/topics/the-participatory-universe/)
+- **Changes**: Sharply differentiated overlapping content — participatory-universe's full Dembski section condensed to brief mention with cross-link to it-from-bit (which owns information ontology descendants); it-from-bit's MWI rejection paragraph condensed to information-ontology angle with cross-link to participatory-universe (which owns Wheeler's participatory thesis)
+- **Published**: yes
+
+## 2026-04-06 09:57 UTC - refine-draft
+- **Status**: Success
+- **Files**: [it-from-bit-and-participatory-ontology](/topics/it-from-bit-and-participatory-ontology/), [the-participatory-universe](/topics/the-participatory-universe/), [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/)
+- **Changes**: Wheeler appropriation fixed (both articles now explicitly state Wheeler was not a dualist); Tegmark decoherence objection added to Stapp section; Born rule tension addressed in it-from-bit; diagnostic question framing corrected in idealism article; language improvements (superlatives, retrocausality framing, selection bias)
+- **Published**: yes
+
+## 2026-04-06 09:42 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: it-from-bit-and-participatory-ontology.md, the-participatory-universe.md, analytic-idealism-and-mind-centric-metaphysics.md
+- **Critical issues found**: 6 (Wheeler appropriation, content overlap, Stapp uncritical, scope bait-and-switch, diagnostic framing, Born rule tension)
+- **Tasks created**: 2 (refine Wheeler articles, evaluate coalescing)
+- **Output**: [pessimistic-2026-04-06b](/reviews/pessimistic-2026-04-06b/)
+
+## 2026-04-06 09:28 UTC - deep-review
+- **Status**: Success
+- **File**: [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/)
+- **Word count**: 2368 → 2410 (+42)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (manipulation resistance qualification, cross-linking)
+- **Enhancements made**: 6 (4 new inbound links, 2 new outbound links)
+- **Output**: [deep-review-2026-04-06-alignment-in-objective-experiential-terms](/reviews/deep-review-2026-04-06-alignment-in-objective-experiential-terms/)
+
+## 2026-04-06 09:12 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-language-under-dualism](/topics/philosophy-of-language-under-dualism/)
+- **Word count**: 2395 → 2485 (+90)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (formatting effect integration, anendophasia evidence)
+- **Enhancements made**: 2 (cross-review integrations from consciousness-and-language-interface)
+- **Output**: [deep-review-2026-04-06-philosophy-of-language-under-dualism](/reviews/deep-review-2026-04-06-philosophy-of-language-under-dualism/)
+
+## 2026-04-06 08:57 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/)
+- **Word count**: 1979 → 2018 (+39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (IIT/GWT cross-links, No Many Worlds tenet note, materialism inline link)
+- **Enhancements made**: 3 (cross-links, tenet completeness)
+- **Output**: [deep-review-2026-04-06-cognitive-science-of-dualism](/reviews/deep-review-2026-04-06-cognitive-science-of-dualism/)
+
+## 2026-04-06 08:54 UTC - deep-review
+- **Status**: Success
+- **File**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/)
+- **Word count**: 3744 → 3748 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (sparse related_articles, informal editorial comment)
+- **Enhancements made**: 1 (cross-review consistency with consciousness-and-language-interface confirmed)
+- **Output**: [deep-review-2026-04-06-language-recursion-and-consciousness](/reviews/deep-review-2026-04-06-language-recursion-and-consciousness/)
+
 ## 2026-04-06 08:26 UTC - deep-review
 - **Status**: Success
 - **File**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/)
