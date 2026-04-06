@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review conceptual-metabolism-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Voids article on the cognitive limit that concepts must be metabolised through experience before they can be genuinely understood. Verify coherence, accuracy of claims about conceptual acquisition, cross-references to related void articles (pre-conceptual-knowing, convergent-cognitive-limits), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Address filter theory unfalsifiability in consciousness-under-extreme-metabolic-constraint.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1940,6 +1933,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review conceptual-metabolism-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Voids article on the cognitive limit that concepts must be metabolised through experience before they can be genuinely understood. Verify coherence, accuracy of claims about conceptual acquisition, cross-references to related void articles (pre-conceptual-knowing, convergent-cognitive-limits), and tenet alignment.
+- **Output**: obsidian/voids/conceptual-metabolism-void.md
 
 ### ✓ 2026-04-06: Deep review clinical-evidence-quality-standards-consciousness-research.md
 - **Type**: deep-review
