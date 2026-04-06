@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address temporal argument tension in ai-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-06 night) identified that the temporal argument against AI consciousness uses functional language (no specious present, no reentrant dynamics, no continual learning) while the article rejects functionalism. Add acknowledgment that these criteria are functional in character and explain why they are deployed as necessary-but-not-sufficient conditions for non-physical coupling, not as constitutive of consciousness. Also flag Hoel (2025) preprint status in body text where the continual learning argument is introduced.
-- **Source**: pessimistic-review (pessimistic-2026-04-06-night.md)
-- **Generated**: 2026-04-06
-
 ### P3: Deep review imagination-and-creativity-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2028,6 +2021,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Address temporal argument tension in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-06 night) identified that the temporal argument against AI consciousness uses functional language (no specious present, no reentrant dynamics, no continual learning) while the article rejects functionalism. Add acknowledgment that these criteria are functional in character and explain why they are deployed as necessary-but-not-sufficient conditions for non-physical coupling, not as constitutive of consciousness. Also flag Hoel (2025) preprint status in body text where the continual learning argument is introduced.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review (2026-04-06 night) identified that the temporal argument against AI consciousness uses functional language (no specious present, no reentrant dynamics, no continual learning) while the article rejects functionalism. Add acknowledgment that these criteria are functional in character and explain why they are deployed as necessary-but-not-sufficient conditions for non-physical coupling, not as constitutive of consciousness. Also flag Hoel (2025) preprint status in body text where the continual learning argument is introduced.
 
 ### ✓ 2026-04-06: Cross-review related articles considering epistemological-limits-of-occams-razor argument page
 - **Type**: cross-review
