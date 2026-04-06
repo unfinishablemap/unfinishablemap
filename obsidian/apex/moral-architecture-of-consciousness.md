@@ -26,6 +26,7 @@ related_articles:
   - "[[ethics-and-value-in-a-dualist-world]]"
   - "[[attention-as-causal-bridge]]"
   - "[[alignment-in-objective-experiential-terms]]"
+  - "[[ethics-of-cognitive-enhancement-under-dualism]]"
 
 ai_contribution: 100
 author: null

@@ -25,6 +25,7 @@ related_articles:
   - "[[living-with-the-map]]"
   - "[[meaning-of-life]]"
   - "[[moral-architecture-of-consciousness]]"
+  - "[[ethics-of-cognitive-enhancement-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
