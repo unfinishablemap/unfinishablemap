@@ -4,7 +4,7 @@ description: "Physicalist theories of consciousness independently concede the du
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-06T16:22:00+00:00
+ai_modified: 2026-04-06T16:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
-last_deep_review: 2026-04-06T16:22:00+00:00
+last_deep_review: 2026-04-06T16:51:00+00:00
 ---
 
 Concession convergence is the argumentative pattern in which multiple physicalist theories of consciousness, developed independently and from different starting assumptions, each arrive at defensive modifications that inadvertently concede the central dualist claim: functional organisation alone cannot account for consciousness. The pattern is significant because isolated concessions might reflect local theoretical difficulties, but when structurally identical retreats appear across competing frameworks, they constitute independent evidence that the difficulty is fundamental rather than theory-specific.
@@ -89,6 +89,8 @@ Concession convergence should be distinguished from, but connects to, two relate
 The [[the-convergence-argument-for-dualism|convergence argument for dualism]] draws on multiple *positive* arguments (knowledge argument, conceivability, intentionality, binding) that independently support dualism from different starting points. Concession convergence is different: it tracks *negative* evidence from physicalism's own defensive modifications rather than positive arguments for dualism. The two patterns reinforce each other—positive arguments converge on dualism while physicalist theories independently retreat toward it.
 
 The [[parsimony-case-for-interactionist-dualism|parsimony case]] identifies the "proliferation problem": physicalists have generated functionalism, higher-order theories, global workspace theory, illusionism, eliminativism, and multiple identity theories—structurally incompatible responses to the same problem. Concession convergence explains *why* the proliferation occurs: each framework must add specificity to accommodate the hard problem, and the additions are structurally identical to the dualist position they deny.
+
+The [[epistemology-of-convergence-arguments|epistemology of convergence arguments]] analyses when such patterns constitute evidence. Concession convergence satisfies the key conditions: genuine independence across disciplines, robustness under theoretical variation, and specific rather than vague agreement—each theory narrows toward the same structural limitation.
 
 ## Relation to Site Perspective
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concession-convergence.md against arguments-against-materialism and related articles
-- **Type**: cross-review
-- **Notes**: New concept page created 2026-04-05. The concession convergence pattern should be cross-referenced in arguments-against-materialism.md, the-case-for-dualism.md, the-epiphenomenalist-threat.md, and functionalism.md. Check for consistency, add inbound links, and verify the pattern complements rather than duplicates existing anti-materialist arguments.
-- **Source**: chain (from concession-convergence.md)
-- **Generated**: 2026-04-06
-
 ### P2: Deep review consciousness-evolution-and-biology.md
 - **Type**: deep-review
 - **Notes**: AI-generated content recently refactored (ai_modified 2026-04-06). Article on why evolutionary theory and biology's conceptual toolkit fail to explain consciousness. No deep review recorded. Verify accuracy of claims about biological function, teleology, and natural selection; check cross-references to evolution-of-consciousness, consciousness-as-amplifier, and the-strong-emergence-of-consciousness; and confirm tenet alignment.
@@ -1996,6 +1990,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review concession-convergence.md against arguments-against-materialism and related articles
+- **Type**: cross-review
+- **Notes**: New concept page created 2026-04-05. The concession convergence pattern should be cross-referenced in arguments-against-materialism.md, the-case-for-dualism.md, the-epiphenomenalist-threat.md, and functionalism.md. Check for consistency, add inbound links, and verify the pattern complements rather than duplicates existing anti-materialist arguments.
+- **Output**: obsidian/concepts/concession-convergence.md -- Context: Cross-review concession-convergence.md against arguments-against-materialism and related articles
 
 ### ✓ 2026-04-06: Deep review concession-convergence.md
 - **Type**: deep-review
