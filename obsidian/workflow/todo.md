@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review preemption.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-03-01 — 36 days ago. Concepts article on causal preemption in the mental causation debate. Verify coherence, accuracy of philosophical claims about overdetermination and preemption, cross-references to mental-causation-and-downward-causation and consciousness-and-causal-powers, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P3: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
 - **Status**: pending
@@ -1972,6 +1965,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review preemption.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-03-01 — 36 days ago. Concepts article on causal preemption in the mental causation debate. Verify coherence, accuracy of philosophical claims about overdetermination and preemption, cross-references to mental-causation-and-downward-causation and consciousness-and-causal-powers, and tenet alignment.
+- **Output**: obsidian/concepts/preemption.md
 
 ### ✓ 2026-04-06: Deep review subjective-aim.md
 - **Type**: deep-review

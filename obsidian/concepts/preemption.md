@@ -4,17 +4,18 @@ description: "Causal preemption occurs when one cause renders another idle—cen
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-01T05:30:00+00:00
+ai_modified: 2026-04-06T15:36:00+00:00
 draft: false
 topics:
-  - "[[topics/free-will]]"
+  - "[[free-will]]"
 concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[delegatory-dualism]]"
   - "[[interactionist-dualism]]"
-  - "[[concepts/epiphenomenalism]]"
+  - "[[epiphenomenalism]]"
   - "[[agent-causation]]"
+  - "[[causal-delegation]]"
 related_articles:
   - "[[tenets]]"
   - "[[observational-closure]]"
@@ -24,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-01T05:30:00+00:00
+last_deep_review: 2026-04-06T15:36:00+00:00
 ---
 
 Preemption is a causal structure in which one sufficient cause renders another sufficient cause idle, so that only the first does the actual causal work. Unlike overdetermination—where two sufficient causes both contribute to the same effect—preemption involves one cause *operating* while the backup is *sidelined*. The Unfinishable Map's interest in preemption centres on its role in Bradford Saad's [[delegatory-dualism]], where conscious experiences preempt the causal contributions of physical brain states, solving the exclusion problem without overdetermination.
@@ -80,7 +81,9 @@ Several causal structures could model mental causation. Preemption has advantage
 - **Overdetermination** posits redundant causation. If the physical cause suffices, the mental cause is explanatorily idle—exactly the epiphenomenalist conclusion the dualist wants to avoid.
 - **Joint causation** (neither suffices alone) requires denying that the physical state is sufficient. This conflicts with what physics seems to show about causal completeness—though a physicalist would note that the completeness of physical causal chains is precisely what's at issue between dualists and physicalists.
 - **Constitution** (the mental cause *is* the physical cause under another description) amounts to reductionism, abandoning dualism.
-- **Preemption** preserves the physical state's *capacity* to cause the effect while denying it *exercises* that capacity (making room for mental causation). This does violate causal closure as standardly formulated: closure requires that every physical event has a sufficient physical cause that *actually operates*, not merely one that *could have* operated. Delegatory preemption accepts this violation. Its defence is not that physical causation is preserved, but that the violation is principled—governed by psychophysical law rather than arbitrary—and that the observable causal pattern remains intact even though the underlying causal structure differs from what physicalism asserts.
+- **Preemption** preserves the physical state's *capacity* to cause the effect while denying it *exercises* that capacity, making room for mental causation without positing redundant causes.
+
+Preemption does violate [[causal-closure]] as standardly formulated: closure requires that every physical event has a sufficient physical cause that *actually operates*, not merely one that *could have* operated. Delegatory preemption accepts this violation. Its defence is not that physical causation is preserved, but that the violation is principled—governed by psychophysical law rather than arbitrary—and that the observable causal pattern remains intact even though the underlying causal structure differs from what physicalism asserts.
 
 ## Relation to Site Perspective
 
@@ -92,11 +95,16 @@ Preemption connects to The Unfinishable Map's framework at multiple points.
 
 **Agent Causation**: The [[agent-causation|agent-causal]] tradition holds that substances—not prior events—originate actions directly. Agent-causal theories explain *what kind of entity* initiates causation (the conscious agent as substance), while preemption explains *how that initiation relates to the physical causal structure*: the agent's exercise of causal power preempts the physical state's default contribution. Together, substance causation and delegatory preemption answer both the ontological question (who causes?) and the structural question (how does that cause interact with physical causes?).
 
-**Observational Closure**: Saad's model satisfies [[observational-closure]]—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work. This means delegatory preemption is a metaphysical interpretation of the causal structure, not an empirically testable hypothesis. No experiment can distinguish a world where experiences preempt physical causes from one where physical causes operate unpreempted. The case for preemption rests entirely on philosophical arguments: that consciousness is real and irreducible, that reductive accounts fail, and that a principled causal structure is needed to accommodate non-physical mental causation. Those who find these philosophical arguments compelling have reason to accept preemption; those who demand empirical distinguishability from physicalism will find it wanting.
+**Observational Closure**: Saad's model satisfies [[observational-closure]]—no observable violations of physical causal patterns. Preemption produces exactly the effects the physical state would have produced by default. Experiments detect no anomalies, because the causal outcome is identical whether the experience or the physical state does the work.
+
+This means delegatory preemption is a metaphysical interpretation of the causal structure, not an empirically testable hypothesis. No experiment can distinguish a world where experiences preempt physical causes from one where physical causes operate unpreempted.
+
+The case for preemption rests entirely on philosophical arguments: that consciousness is real and irreducible, that reductive accounts fail, and that a principled causal structure is needed to accommodate non-physical mental causation. Those who find these philosophical arguments compelling have reason to accept preemption; those who demand empirical distinguishability from physicalism will find it wanting.
 
 ## Further Reading
 
 - [[delegatory-dualism]] — Saad's full framework applying preemption to mental causation
+- [[causal-delegation]] — The mechanism by which experiences inherit and preempt physical causal roles
 - [[mental-causation-and-downward-causation|mental causation]] — The broader problem of how consciousness causes physical effects
 - [[causal-closure]] — The principle that delegatory preemption explicitly violates
 - [[observational-closure]] — Why preemption leaves no empirical trace
