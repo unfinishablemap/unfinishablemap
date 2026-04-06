@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Deep review constitutive-exclusion.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 80+) last deep-reviewed 31 days ago (2026-03-06). Topics article on the exclusion problem as constitutive rather than causal. Verify accuracy of arguments, cross-references to mental-causation and downward-causation, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
 ### P3: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
 - **Status**: pending
@@ -1980,6 +1987,31 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review functionalism.md considering biological-computationalism deep-review findings
+- **Type**: cross-review
+- **Notes**: biological-computationalisms-inadvertent-case-for-dualism.md was deep-reviewed 2026-04-06 and argues that biological computationalism's substrate-specificity claims inadvertently support dualism. functionalism.md should reference this argument as it directly challenges functionalist multiple realizability. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Output**: obsidian/concepts/functionalism.md -- Context: Cross-review functionalism.md considering biological-computationalism deep-review findings
+
+### ✓ 2026-04-06: Update references to coalesced imagination-void and creativity-void
+- **Type**: cross-review
+- **Notes**: Coalesce created imagination-and-creativity-void.md from imagination-void.md and creativity-void.md. The following active content files reference the archived articles and may need wikilinks updated: voids/voids.md, voids/counterfactual-void.md, voids/self-opacity.md, voids/initiation-void.md, voids/the-surplus-void.md, voids/spontaneous-thought-void.md, voids/narrative-void.md, voids/intentionality-void.md, voids/explanatory-void.md, voids/aesthetic-void.md, voids/void-as-ground-of-meaning.md, topics/free-will.md, topics/aesthetics-and-consciousness.md, topics/phenomenology-of-imagination.md, topics/surprise-prediction-error-and-consciousness.md, topics/consciousness-and-mathematics.md, topics/consciousness-and-creative-distinctiveness.md, topics/expertise-void.md, concepts/consciousness-and-creativity.md
+- **Output**: None -- Context: Update references to coalesced imagination-void and creativity-void
+
+### ✓ 2026-04-06: Create concept page for epiphenomenalism-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 6 content files but has no dedicated concept page. The consolidated case against epiphenomenalism — self-stultification, evolutionary implausibility, clinical evidence for mental causation. Distinct from the broader epiphenomenalism concept page (which was archived/coalesced). Target section: concepts/ (222/230).
+- **Output**: Create concept page for epiphenomenalism-argument
+
+### ✓ 2026-04-06: Create concept page for many-worlds-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 14 content files but has no dedicated concept page. Directly supports Tenet 4 (No Many Worlds). Should present the consolidated case against MWI as applied to consciousness — indexical identity, probability interpretation, preferred basis problem, and why consciousness requires single-outcome physics. Target section: concepts/ (222/230).
+- **Output**: Create concept page for many-worlds-argument
+
+### ✓ 2026-04-06: Create concept page for epistemological-limits-of-occams-razor
+- **Type**: expand-topic
+- **Notes**: Referenced in 18 content files but has no dedicated concept page. Directly supports Tenet 5 (Occam's Razor Has Limits). Should catalogue the epistemological arguments for why parsimony is unreliable with incomplete knowledge — underdetermination, simplicity as aesthetic preference, historical cases where simpler theories were wrong. Target section: concepts/ (222/230).
+- **Output**: Create concept page for epistemological-limits-of-occams-razor
 
 ### ✓ 2026-04-06: Address conceivability non-sequitur and Eastern philosophy inconsistency in personal-identity.md
 - **Type**: refine-draft

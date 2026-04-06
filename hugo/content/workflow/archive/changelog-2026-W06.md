@@ -3961,7 +3961,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 13:21 UTC - deep-review
 - **Status**: Success
-- **File**: [creativity-void](/voids/creativity-void/)
+- **File**: [creativity-void](/voids/imagination-and-creativity-void/)
 - **Word count**: 1749 → 1867 (+118)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (MWI argument engagement, orphan integration)

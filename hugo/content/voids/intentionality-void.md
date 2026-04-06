@@ -36,7 +36,7 @@ topics:
 
 Thoughts are *about* things. You think about your childhood home, about tomorrow's meeting, about the number seven. This aboutness—what philosophers call intentionality—is among the most fundamental features of mind. Yet the mechanism by which any thought achieves its specific reference operates entirely below the threshold of introspective awareness. We experience that thoughts are about things; we cannot observe how they become so. This is the intentionality void: a structural inaccessibility at the heart of mental life.
 
-The Unfinishable Map explores [voids](/voids/)—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [unobservable self](/voids/self-opacity/) (the observer cannot observe itself observing) and the [creativity void](/voids/creativity-void/) (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
+The Unfinishable Map explores [voids](/voids/)—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [unobservable self](/voids/self-opacity/) (the observer cannot observe itself observing) and the [creativity void](/voids/imagination-and-creativity-void/) (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
 
 ## The Transparency of Reference
 
@@ -141,7 +141,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 
 - [voids](/voids/) — The broader framework for cognitive dark spaces
 - [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself observing
-- [creativity-void](/voids/creativity-void/) — Where insight originates, equally opaque to introspection
+- [creativity-void](/voids/imagination-and-creativity-void/) — Where insight originates, equally opaque to introspection
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data

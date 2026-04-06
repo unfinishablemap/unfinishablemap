@@ -248,7 +248,7 @@ Henri Bergson argued that consciousness is constitutively creative. For Bergson,
 
 This framework suggests that the options consciousness "combines" don't fully pre-exist the combination. Imagination actively constitutes what's possible by exploring it. The zone of latent solutions appears as a boundary from outside—from where consciousness can represent the zone as a zone and ask what lies beyond.
 
-The phenomenology supports this. When brainstorming, you don't feel you're scanning pre-existing options. You feel you're producing them—each idea suggesting the next through associative exploration. Creative generation is real because the generation is real, not because consciousness misperceives its role. Yet this very generation remains opaque: the [creativity void](/voids/creativity-void/) explores why we cannot observe the creative process as it happens.
+The phenomenology supports this. When brainstorming, you don't feel you're scanning pre-existing options. You feel you're producing them—each idea suggesting the next through associative exploration. Creative generation is real because the generation is real, not because consciousness misperceives its role. Yet this very generation remains opaque: the [creativity void](/voids/imagination-and-creativity-void/) explores why we cannot observe the creative process as it happens.
 
 ## The Penrose Conjecture
 
@@ -327,7 +327,7 @@ Current evidence doesn't support any of these conditions.
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and its neural correlates
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [free-will](/topics/free-will/) — How creative agency connects to libertarian free will
-- [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
+- [creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains phenomenologically hidden
 
 ## References
 

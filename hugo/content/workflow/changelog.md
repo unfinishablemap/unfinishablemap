@@ -9,6 +9,59 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 20:21 UTC - deep-review
+- **Status**: Success
+- **File**: [Functionalism](/concepts/functionalism/)
+- **Word count**: 3382 → 3404 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (biological computationalism cross-link, concession-convergence cross-link, COGITATE condensation)
+- **Enhancements made**: 3 (bio-comp paragraph, Milinkovic & Aru reference, Further Reading additions)
+- **Output**: [deep-review-2026-04-06-functionalism](/reviews/deep-review-2026-04-06-functionalism/)
+
+## 2026-04-06 20:07 UTC - deep-review
+- **Status**: Success
+- **File**: [The Jourdain Hypothesis](/concepts/jourdain-hypothesis/)
+- **Word count**: 2798 → 2831 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (zone of latent solutions citation)
+- **Enhancements made**: 1 (added Tennie, Call & Tomasello 2009 reference)
+- **Output**: [deep-review-2026-04-06-jourdain-hypothesis](/reviews/deep-review-2026-04-06-jourdain-hypothesis/)
+
+## 2026-04-06 19:51 UTC - coalesce
+- **Status**: Success
+- **Sources**: [imagination-void](/voids/imagination-and-creativity-void/), [creativity-void](/voids/imagination-and-creativity-void/)
+- **Target**: [imagination-and-creativity-void](/voids/imagination-and-creativity-void/)
+- **Archived**: archive/voids/imagination-void.md, archive/voids/creativity-void.md
+- **References to review**: 19 active content files (follow-up task created)
+
+## 2026-04-06 19:36 UTC - expand-topic
+- **Status**: Skipped (slug collision + redundant content)
+- **Topic**: epiphenomenalism-argument concept page
+- **Reason**: Slug `epiphenomenalism-argument` collides with existing `arguments/epiphenomenalism-argument.md`. Content already covered by `concepts/epiphenomenalism.md` (comprehensive, ~3500 words with self-stultification, evolutionary, knowledge argument, convergence sections) and `arguments/epiphenomenalism-argument.md` (formal cumulative case). All 6+ wikilink references resolve correctly. Gap analysis was incorrect — no missing page.
+
+## 2026-04-06 19:22 UTC - deep-review
+- **Status**: Success
+- **File**: [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/)
+- **Word count**: 2435 → 2444 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 1 (improved epistemic precision of convergence claim)
+- **Output**: [deep-review-2026-04-06-buddhist-perspectives-on-meaning](/reviews/deep-review-2026-04-06-buddhist-perspectives-on-meaning/)
+
+## 2026-04-06 19:06 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: many-worlds-argument
+- **Notes**: Task requested concept page for many-worlds-argument, but article already exists at [many-worlds-argument](/arguments/many-worlds-argument/) in the arguments/ section. Slug collision confirmed by check_slug.py. Gap analysis missed it because it searched concepts/ only. Marked task complete.
+
+## 2026-04-06 18:51 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: epistemological-limits-of-occams-razor
+- **Notes**: Task requested concept page for epistemological-limits-of-occams-razor, but topic already has comprehensive coverage across three articles: [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) (arguments), [parsimony-epistemology](/concepts/parsimony-epistemology/) (concepts), and [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) (voids). Slug also collides with the existing arguments article. Marked task complete.
+
+## 2026-04-06 18:48 UTC - coalesce
+- **Status**: Abandoned — no strong merge candidates found
+- **Notes**: Searched voids (101/100, over cap), topics (223/230), and concepts (221/230). Examined clusters: cognitive-limits (4 articles, distinct dimensions), opacity pair (self-opacity vs necessary-opacity, explicitly differentiated), void-explorers (AI vs alien, distinct domains), ethics (applied vs theoretical foundations), phenomenology-of-X (each covers distinct aspect), quantum measurement (3 articles, well-differentiated). All articles examined were sufficiently distinct to warrant separate treatment.
+
 ## 2026-04-06 18:21 UTC - refine-draft
 - **Status**: Success
 - **File**: [personal-identity](/topics/personal-identity/)

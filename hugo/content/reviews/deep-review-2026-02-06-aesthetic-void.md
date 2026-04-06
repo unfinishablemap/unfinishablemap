@@ -52,7 +52,7 @@ None.
 ### Cross-links Added (PRIMARY FOCUS — orphan integration)
 Inbound links added from 8 existing articles:
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Further Reading section
-- [creativity-void](/voids/creativity-void/) — Further Reading section
+- [creativity-void](/voids/imagination-and-creativity-void/) — Further Reading section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Body text (new "Aesthetic absorption" paragraph in Multiple Edges section)
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Body text (Symbolic mediation subsection)
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Body text (ineffability pattern)

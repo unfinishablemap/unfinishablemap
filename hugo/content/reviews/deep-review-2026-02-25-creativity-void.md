@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [The Creativity Void](/voids/creativity-void/)
+**Article**: [The Creativity Void](/voids/imagination-and-creativity-void/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-creativity-void/)
 
 ## Pessimistic Analysis Summary
@@ -51,12 +51,12 @@ None. No factual errors, internal contradictions, or broken links.
 - Poincaré thread providing narrative coherence
 
 ### Enhancements Made
-- Added cross-link to [imagination-void](/voids/imagination-void/) — inline connection in Novelty Void section establishing the complementary relationship: creativity cannot observe its own process, imagination cannot exceed its own materials
+- Added cross-link to [imagination-void](/voids/imagination-and-creativity-void/) — inline connection in Novelty Void section establishing the complementary relationship: creativity cannot observe its own process, imagination cannot exceed its own materials
 - Added imagination-void to related_articles frontmatter and Further Reading
 - Fixed 4 quotation accuracy issues (Hadamard, Kuhn ×2, Plato)
 
 ### Cross-links Added
-- [imagination-void](/voids/imagination-void/) — In Novelty Void section (inline), related_articles, and Further Reading. Completes the bidirectional link (imagination-void already links to creativity-void).
+- [imagination-void](/voids/imagination-and-creativity-void/) — In Novelty Void section (inline), related_articles, and Further Reading. Completes the bidirectional link (imagination-void already links to creativity-void).
 
 ## Remaining Items
 

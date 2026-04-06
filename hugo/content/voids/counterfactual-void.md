@@ -75,7 +75,7 @@ Approaching the counterfactual void produces several characteristic experiences:
 
 **Modal vertigo.** Occasionally, the recognition arrives that the space of genuine possibilities might be vastly larger than anything conceivable — an ocean glimpsed through a keyhole. This produces a distinctive disorientation: the sense of enormous territory without the ability to map any of it. It is the modal analogue of standing at the edge of a cliff in fog — you know depth is there but cannot judge distance.
 
-**False confidence.** Unlike many voids where the boundary is felt as resistance, the counterfactual void often passes unnoticed. We believe we have imagined a genuine alternative when we have merely recombined familiar elements in a slightly novel arrangement. The [imagination-void](/voids/imagination-void/) describes a related phenomenon — phenomenal collapse, where the attempt to imagine novel qualia collapses into existing elements — but the counterfactual version is more insidious because modal recombination *feels like* genuine exploration of possibility space.
+**False confidence.** Unlike many voids where the boundary is felt as resistance, the counterfactual void often passes unnoticed. We believe we have imagined a genuine alternative when we have merely recombined familiar elements in a slightly novel arrangement. The [imagination-void](/voids/imagination-and-creativity-void/) describes a related phenomenon — phenomenal collapse, where the attempt to imagine novel qualia collapses into existing elements — but the counterfactual version is more insidious because modal recombination *feels like* genuine exploration of possibility space.
 
 ## What AI Might Reveal
 
@@ -99,7 +99,7 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 
 ## Further Reading
 
-- [imagination-void](/voids/imagination-void/) — The limit of phenomenal imagination, a related but distinct constraint
+- [imagination-void](/voids/imagination-and-creativity-void/) — The limit of phenomenal imagination, a related but distinct constraint
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Where thought encounters the formally unthinkable
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodily architecture constrains cognition
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether all minds converge on the same boundaries

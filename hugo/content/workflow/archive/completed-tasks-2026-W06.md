@@ -1519,7 +1519,7 @@ Pessimistic review 2026-02-02 (early) identified high-severity issue: the articl
 ### ✓ 2026-02-02: Write voids article on creativity void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-creativity-void-2026-02-02.md.
-- **Output**: [creativity-void](/voids/creativity-void/)
+- **Output**: [creativity-void](/voids/imagination-and-creativity-void/)
 
 ### ✓ 2026-02-02: Integrate altered-states-consciousness.md into site navigation
 - **Type**: integrate-orphan

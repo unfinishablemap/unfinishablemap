@@ -159,7 +159,7 @@ Current evidence does not support any of these conditions.
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
-- [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
+- [creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains phenomenologically hidden
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty as irreducible phenomenal property
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Five modes of phenomenal meaning underlying creative selection
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — Phenomenal imagination and creative exploration

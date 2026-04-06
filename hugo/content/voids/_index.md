@@ -94,7 +94,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
-- [The Creativity Void](/voids/creativity-void/) — Where creative insight originates, inaccessible to introspection
+- [The Creativity Void](/voids/imagination-and-creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
@@ -119,7 +119,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
 - [The Explanatory Void](/voids/explanatory-void/) — Why explanation cannot explain itself
-- [The Imagination Void](/voids/imagination-void/) — Where imagination's structural failures reveal the architecture of mind
+- [The Imagination Void](/voids/imagination-and-creativity-void/) — Where imagination's structural failures reveal the architecture of mind
 - [The Indexical Void](/voids/indexical-void/) — Why first-person identity resists explanation
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot opt out of itself
 - [The Mind-Space Void](/voids/mind-space-void/) — Why we cannot locate ourselves in the space of possible minds

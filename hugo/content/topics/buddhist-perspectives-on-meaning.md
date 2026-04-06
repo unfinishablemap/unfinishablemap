@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-06 19:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Buddhism diagnoses the craving for permanent significance as itself
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 19:20:00+00:00
+last_deep_review: 2026-04-06 19:22:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,7 +146,7 @@ The compatibility between Buddhist and Map perspectives rests on claims that cou
 
 1. **If Buddhist no-self necessarily extended to momentary irreducibility.** The compatibility thesis holds that consciousness can be irreducible at each moment while impermanent across moments. If Buddhist analysis required that even momentary consciousness reduces to functional processes, the positions would conflict.
 
-2. **If contemplative evidence proved deeply divergent across traditions.** Buddhist, Hindu, and Christian contemplatives report different phenomenologies—Buddhists find no-self, Advaitins find universal Self, Christians find divine presence. If these differences proved irreconcilable rather than complementary perspectives on the same territory, confidence in any tradition's claims would weaken. Current evidence suggests more convergence than divergence at deep levels, but this remains an open question.
+2. **If contemplative evidence proved deeply divergent across traditions.** Buddhist, Hindu, and Christian contemplatives report different phenomenologies—Buddhists find no-self, Advaitins find universal Self, Christians find divine presence. If these differences proved irreconcilable rather than complementary perspectives on the same territory, confidence in any tradition's claims would weaken. Some scholars (notably Robert Forman and, more cautiously, Evan Thompson) argue for more convergence than divergence at deep levels, but the question remains genuinely open.
 
 3. **If meaning-claims proved pragmatically necessary.** If humans psychologically require explicit meaning-frameworks to function well—if the Buddhist release-from-craving approach worked only for exceptional practitioners—the view's generalizability would be limited.
 

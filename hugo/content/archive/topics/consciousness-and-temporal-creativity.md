@@ -151,7 +151,7 @@ A legitimate challenge comes from computational systems with state history. Recu
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [agent-causation](/concepts/agent-causation/) — Philosophical framework for mental causation including creative generation
 - [free-will](/topics/free-will/) — How creative agency connects to libertarian free will
-- [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
+- [creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains phenomenologically hidden
 
 ## References
 

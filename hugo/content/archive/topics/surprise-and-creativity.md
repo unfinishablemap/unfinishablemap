@@ -74,7 +74,7 @@ Creative surprise has a distinctive temporal phenomenology that distinguishes it
 
 **Preparation and tension.** The creator works on a problem, accumulates material, feels the friction of inadequate solutions. This phase builds the predictive model against which later surprise will register. Without preparation, there is no expectation to violate.
 
-**Incubation and opacity.** Something happens outside conscious access. Poincaré's "subliminal self" works on the problem in ways the conscious mind cannot observe. This is the [creativity void](/voids/creativity-void/)—the structurally hidden locus of creative work. The creator waits without knowing what they are waiting for. Yet incubation is not experienced as mere absence. It has a distinctive felt quality—a sense of pregnant opacity, of one's own mind working beyond one's reach. This [epistemic emotion](/concepts/epistemic-emotions/)—knowing that something is happening without knowing what—is itself evidence for the kind of first-person opacity that physicalist accounts of mind struggle to explain.
+**Incubation and opacity.** Something happens outside conscious access. Poincaré's "subliminal self" works on the problem in ways the conscious mind cannot observe. This is the [creativity void](/voids/imagination-and-creativity-void/)—the structurally hidden locus of creative work. The creator waits without knowing what they are waiting for. Yet incubation is not experienced as mere absence. It has a distinctive felt quality—a sense of pregnant opacity, of one's own mind working beyond one's reach. This [epistemic emotion](/concepts/epistemic-emotions/)—knowing that something is happening without knowing what—is itself evidence for the kind of first-person opacity that physicalist accounts of mind struggle to explain.
 
 **Illumination and self-surprise.** The insight arrives with its characteristic phenomenology: sudden, certain, and unexpected. The creator is surprised not by an external event but by their own mind's output. The temporal experience involves a rapid sequence: recognition that something has appeared, surprise that *this* is what appeared, and a sense of retroactive inevitability—the feeling that the solution was always implicit but could not have been foreseen.
 
@@ -102,7 +102,7 @@ Not all creative surprise is equal. The gradient maps onto the depth of creativi
 
 **Foundational surprise** occurs when the creative product changes the creator's understanding of what is possible. "I didn't know this *could* exist." This is the surprise of transformational creativity—the conceptual space itself has been altered. The creator's model of their own creative possibilities must be rebuilt.
 
-Each level involves a deeper violation of expectation and a more thoroughgoing phenomenal disruption. Recognition surprise updates beliefs about combinations. Structural surprise updates beliefs about connections. Foundational surprise updates beliefs about the boundaries of thought itself—and in doing so, pushes against the [creativity-void](/voids/creativity-void/), the limit of what minds can generate.
+Each level involves a deeper violation of expectation and a more thoroughgoing phenomenal disruption. Recognition surprise updates beliefs about combinations. Structural surprise updates beliefs about connections. Foundational surprise updates beliefs about the boundaries of thought itself—and in doing so, pushes against the [creativity-void](/voids/imagination-and-creativity-void/), the limit of what minds can generate.
 
 ## Relation to Site Perspective
 
@@ -121,7 +121,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is illustrated by t
 - Consciousness And Mathematical Creativity
 - Phenomenology Of Surprise And Prediction Error
 - [distinctiveness-of-human-creativity](/topics/consciousness-and-creative-distinctiveness/)
-- [creativity-void](/voids/creativity-void/)
+- [creativity-void](/voids/imagination-and-creativity-void/)
 
 ## References
 

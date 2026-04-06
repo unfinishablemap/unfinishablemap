@@ -67,7 +67,7 @@ New inbound links added:
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) (related_articles) — protention and surprise
 - [distinctiveness-of-human-creativity](/topics/consciousness-and-creative-distinctiveness/) (related_articles) — creative self-astonishment
 - [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) (related_articles) — creative generation/selection
-- [creativity-void](/voids/creativity-void/) (related_articles) — creative surprise phenomenology
+- [creativity-void](/voids/imagination-and-creativity-void/) (related_articles) — creative surprise phenomenology
 - [phenomenology-of-error-recognition](/voids/phenomenology-of-self-awareness/) (related_articles) — surprise in error detection
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) (related_articles) — insight and aha moments
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) (related_articles) — harmonic surprise

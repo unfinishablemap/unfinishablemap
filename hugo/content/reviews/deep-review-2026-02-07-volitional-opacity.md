@@ -60,7 +60,7 @@ topics: []
 
 ### Cross-links Added
 - [limits-reveal-structure](/voids/limits-reveal-structure/) (related_articles + Further Reading)
-- [creativity-void](/voids/creativity-void/) (related_articles + Further Reading)
+- [creativity-void](/voids/imagination-and-creativity-void/) (related_articles + Further Reading)
 - [volitional-opacity](/voids/introspective-opacity/) added to introspective-opacity.md (bidirectional link)
 
 ## Remaining Items

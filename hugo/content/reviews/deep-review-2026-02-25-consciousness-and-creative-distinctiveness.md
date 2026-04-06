@@ -65,7 +65,7 @@ None needed — article already well cross-linked with 15 concepts and 11 relate
 
 ### Cross-Reference Updates (Context Task)
 Updated 35 references across 10 content files, replacing old article slugs with [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/):
-- [creativity-void](/voids/creativity-void/) (2 refs)
+- [creativity-void](/voids/imagination-and-creativity-void/) (2 refs)
 - [free-will](/topics/free-will/) (3 refs)
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) (4 refs, merged duplicate)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (3 refs, including section anchor update)

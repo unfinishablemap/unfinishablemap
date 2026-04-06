@@ -111,7 +111,7 @@ The [limits-reveal-structure](/voids/limits-reveal-structure/) principle applies
 
 **Consciousness is subject-structured.** The [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/) appears constitutive, not optional. The direction always runs from subject to object, never the reverse simultaneously.
 
-**Self-knowledge has asymmetric access.** We know our mental contents (imperfectly) but not the knowing itself. The [creativity void](/voids/creativity-void/), [intentionality void](/voids/intentionality-void/), and [absorption void](/voids/absorption-void/) exhibit the same structure: we cannot catch ourselves creating, referring, or being fully absorbed.
+**Self-knowledge has asymmetric access.** We know our mental contents (imperfectly) but not the knowing itself. The [creativity void](/voids/imagination-and-creativity-void/), [intentionality void](/voids/intentionality-void/), and [absorption void](/voids/absorption-void/) exhibit the same structure: we cannot catch ourselves creating, referring, or being fully absorbed.
 
 **The hard problem's difficulty may be non-contingent.** The structure of consciousness precludes the observation that would generate its explanation. This supports the Map's [dualist](/tenets/#dualism) position: consciousness cannot be captured in objective terms because objectivity requires a subject, and the subject's nature is what escapes objectification.
 

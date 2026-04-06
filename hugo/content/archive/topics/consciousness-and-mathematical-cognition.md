@@ -228,7 +228,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How every major mathematical ontology implies a philosophy of consciousness
 - [mysterianism](/concepts/mysterianism/) — On whether consciousness may exceed human understanding
 - [working-memory](/concepts/working-memory/) — Computational limits that consciousness may transcend
-- [creativity-void](/voids/creativity-void/) — The phenomenologically hidden source of creative insight
+- [creativity-void](/voids/imagination-and-creativity-void/) — The phenomenologically hidden source of creative insight
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
 - [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Empirical evidence for unconscious creative processing

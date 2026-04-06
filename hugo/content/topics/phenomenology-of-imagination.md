@@ -96,7 +96,7 @@ These asymmetries in imaginative capacity reveal the structural constraints cons
 
 These constraints matter for understanding consciousness. A materialist can explain some of them—moral evaluations are neurally encoded, so the difficulty of imagining moral inversions may reflect deep patterns of neural connectivity. But this response pushes the question back: *why* do neural encodings of moral truth resist voluntary override when neural encodings of physical law do not? The asymmetry tracks the conceptual distinction between physical possibility and evaluative necessity rather than any obvious difference in neural implementation. The principled structure of imaginative limits—conforming to conceptual and evaluative categories rather than to neural architecture alone—is at minimum a phenomenon that reductive accounts must explain rather than explain away.
 
-Beyond its structural limits, imagination also confronts a deeper [generative mystery](/voids/creativity-void/). When you imagine a purple elephant, *where does the image come from*? It is not retrieved from memory—you have never perceived a purple elephant. It is not computed from explicit rules—no algorithm you can introspect delivers quasi-perceptual experience. The process by which consciousness assembles novel experiential wholes from stored components is phenomenologically opaque: you experience the result without observing the construction. This opacity parallels the [mysterian](/concepts/mysterianism/) insight that consciousness may involve processes whose mechanisms lie beyond our cognitive grasp.
+Beyond its structural limits, imagination also confronts a deeper [generative mystery](/voids/imagination-and-creativity-void/). When you imagine a purple elephant, *where does the image come from*? It is not retrieved from memory—you have never perceived a purple elephant. It is not computed from explicit rules—no algorithm you can introspect delivers quasi-perceptual experience. The process by which consciousness assembles novel experiential wholes from stored components is phenomenologically opaque: you experience the result without observing the construction. This opacity parallels the [mysterian](/concepts/mysterianism/) insight that consciousness may involve processes whose mechanisms lie beyond our cognitive grasp.
 
 ## Relation to Site Perspective
 
@@ -122,7 +122,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral imagination and the felt quality of ethical perception
-- [creativity-void](/voids/creativity-void/) — The opacity of consciousness's generative processes
+- [creativity-void](/voids/imagination-and-creativity-void/) — The opacity of consciousness's generative processes
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Spatial imagination as a dual-domain capability: the aphantasia dissociation as evidence for separable physical and phenomenal contributions
 
 ## References

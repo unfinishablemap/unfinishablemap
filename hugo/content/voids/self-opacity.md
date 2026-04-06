@@ -158,7 +158,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
-- [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
+- [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Why introspection cannot verify its own reliability
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case

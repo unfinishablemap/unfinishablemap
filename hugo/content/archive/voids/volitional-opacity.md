@@ -163,7 +163,7 @@ None of these conditions has been met. The persistence across four centuries of 
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — What choosing feels like
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
-- [The Creativity Void](/voids/creativity-void/) — Parallel opacity: creative process hidden, product accessible
+- [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
 
 ## References
 

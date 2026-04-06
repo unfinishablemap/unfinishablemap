@@ -102,7 +102,7 @@ The initiation void is distinct from but related to several neighbouring voids. 
 - [necessary-opacity](/voids/necessary-opacity/)
 - [transition-void](/voids/transition-void/)
 - [self-opacity](/voids/self-opacity/)
-- [creativity-void](/voids/creativity-void/)
+- [creativity-void](/voids/imagination-and-creativity-void/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 
 ## References

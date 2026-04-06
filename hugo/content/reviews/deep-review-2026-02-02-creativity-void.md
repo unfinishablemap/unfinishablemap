@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [The Creativity Void](/voids/creativity-void/)
+**Article**: [The Creativity Void](/voids/imagination-and-creativity-void/)
 **Previous review**: Never (first review)
 
 ## Pessimistic Analysis Summary

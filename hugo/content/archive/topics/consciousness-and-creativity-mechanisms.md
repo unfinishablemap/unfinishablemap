@@ -191,7 +191,7 @@ Current evidence doesn't support any of these conditions.
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum approaches to consciousness including Orch OR
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - Metarepresentation — The capacity to represent representations
-- [creativity-void](/voids/creativity-void/) — Why the creative source remains phenomenologically hidden
+- [creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains phenomenologically hidden
 
 ## References
 
