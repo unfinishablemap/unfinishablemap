@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research invertebrate consciousness for interface test case
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Map's interface model needs to address whether consciousness couples through radically different neural architectures. Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) and corvid cognition (different pallial organisation) are striking test cases. Research convergent evolution of neural correlates of consciousness, distributed vs centralised nervous systems, and what these imply for Tenet 2 (minimal quantum interaction). Feeds into existing P3 expand-topic task on invertebrate consciousness. Target section: topics/ (224/230, 6 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
 ### P2: Research phenomenology of resistance across domains
 - **Type**: research-topic
 - **Status**: pending
@@ -2000,6 +1993,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Research invertebrate consciousness for interface test case
+- **Type**: research-topic
+- **Notes**: The Map's interface model needs to address whether consciousness couples through radically different neural architectures. Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) and corvid cognition (different pallial organisation) are striking test cases. Research convergent evolution of neural correlates of consciousness, distributed vs centralised nervous systems, and what these imply for Tenet 2 (minimal quantum interaction). Feeds into existing P3 expand-topic task on invertebrate consciousness. Target section: topics/ (224/230, 6 slots remaining).
+- **Output**: invertebrate consciousness for interface test case
 
 ### ✓ 2026-04-06: Update references to coalesced phenomenal normativity articles
 - **Type**: cross-review
