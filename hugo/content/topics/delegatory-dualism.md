@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-03-01 09:22:00+00:00
+ai_modified: 2026-04-05 23:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Bradford Saad''s 2025 theory explains how consciousness causes beh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-01 09:22:00+00:00
+last_deep_review: 2026-04-05 23:53:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +50,7 @@ Previous responses accepted one horn or the other:
 - **Epiphenomenalists** accept that experiences don't cause physical effects—they're merely along for the ride
 - **Overdeterminists** accept systematic overdetermination as the price of mental causation
 
-Saad rejects both. Epiphenomenalism is self-undermining (if consciousness causes nothing, we have no reason to trust our reports about consciousness). Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
+Saad rejects both. He argues that epiphenomenalism is self-undermining (if consciousness causes nothing, our reports about consciousness lack the causal connection to their subject matter that would make them reliable). Overdetermination posits redundant causation without explaining why. Delegatory dualism offers a third option: experiences genuinely cause physical effects by *taking over* causal work, not duplicating it.
 
 ## Saad's Five Constraints
 
@@ -74,13 +74,13 @@ Saad defines an observable violation as "a violation of Closure that would be re
 
 ### 4. Upward Systematicity
 
-Fundamental psychophysical laws must determine which experiences accompany which physical states. The mind-body correlation cannot be arbitrary—there must be principled laws connecting physical organization to phenomenal character. This is Chalmers' "supervenience laws" applied as a constraint.
+Fundamental psychophysical laws must determine which experiences accompany which physical states. The mind-body correlation cannot be arbitrary—there must be principled laws connecting physical organization to phenomenal character. This echoes Chalmers' "supervenience laws," applied here as a design constraint.
 
 ### 5. Organizational Invariance
 
 Duplicating a system's functional organization should preserve its phenomenology. Functional duplicates should have the same experiences. This constraint favors views where physical structure determines what experiences arise (though not whether experiences are identical with physical states).
 
-Saad observes that existing dualist theories satisfy only some constraints. Epiphenomenalism satisfies all but Efficacy. Overdeterminism satisfies Efficacy but fails Non-Overdetermination. No previous theory satisfies all five.
+Saad observes that existing dualist theories satisfy only some constraints. Epiphenomenalism satisfies all but Efficacy. Overdeterminism satisfies Efficacy but fails Non-Overdetermination. Saad argues that no previous theory satisfies all five.
 
 ## Saad's Two Laws
 
@@ -92,13 +92,13 @@ A psychophysical law assigns experiences to physical states based on *causal pro
 
 > **Subset Law***: "If the causal profile of an experiential property E is a subset of the **default causal profile** of a physical property P, then whatever has P also has E." (Saad 2025)
 
-The "default" qualifier is crucial. A physical state's *default* causal profile is the pattern of effects it would produce in the absence of any experience taking over—what the state would cause if delegation didn't occur. This baseline enables the delegation mechanism: experiences can preempt the default contributions without creating overdetermination, because the physical state's default role is displaced rather than duplicated.
+The "default" qualifier is crucial. A physical state's *default* causal profile is the pattern of effects it would produce in the absence of any experience taking over—what the state would cause if delegation didn't occur. This baseline is inherently counterfactual: wherever experience is present, delegation is already occurring, so the default profile is never directly observed. Saad's Organizational Invariance constraint offers indirect access—a functional duplicate without experience (a philosophical zombie) would exhibit the default profile—though this presupposes that such zombies are metaphysically possible, itself a contested claim. Despite this counterfactual character, the default baseline enables the delegation mechanism: experiences can preempt the default contributions without creating overdetermination, because the physical state's default role is displaced rather than duplicated.
 
 Causal profiles are defined functionally. A physical brain state has a default causal profile: it *would* cause wincing, withdrawal, and attention-shifting. Pain has a causal profile too—it causes wincing, withdrawal, attention-shifting. When pain's profile is a subset of the physical state's default profile, pain is instantiated and takes over those causal responsibilities.
 
 ### The Delegatory Law
 
-Here's the key move: when an experience is instantiated via profile-matching, the experience *[preempts](/concepts/preemption/)* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
+The central mechanism: when an experience is instantiated via profile-matching, the experience *[preempts](/concepts/preemption/)* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
 
 > **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
@@ -112,17 +112,19 @@ Standard overdetermination posits two independent sufficient causes producing th
 
 Delegation is different. The physical state is not a *concurrent* cause—it's a *preempted* cause. The physical state has the *capacity* to cause the effect but doesn't exercise it because the experience takes over. One cause operates; the other is sidelined.
 
-This is analogous to how we understand preemption in ordinary causation. If assassin A shoots the target a moment before assassin B's bullet arrives, A causes the death even though B's bullet would have sufficed. B's shot is preempted, not overdetermining. Similarly, physical states are preempted by experiences, not overdetermined alongside them.
+This parallels preemption in ordinary causation. If assassin A shoots the target a moment before assassin B's bullet arrives, A causes the death even though B's bullet would have sufficed. B's shot is preempted, not overdetermining.
+
+However, both analogies—the major/sergeant and the two assassins—involve causes of the *same ontological type*: two physical events within a single causal order. Delegatory dualism claims something stronger: that a non-physical experience preempts a physical state across ontological boundaries. The analogies illustrate the *structure* of preemption (one cause displaces another), but the *mechanism* of cross-ontological preemption is a distinctive claim that the analogies do not themselves justify. Saad acknowledges this: the general interaction problem (how non-physical causes affect physical systems) is shared by all interactionist views, not solved by delegation. Delegation addresses whether mental causation entails overdetermination; the metaphysics of cross-type causation remains an open question for dualism generally.
 
 ## Observational Closure Without Universal Closure
 
-A crucial contribution is Saad's distinction between *universal* causal closure and *[observational](/concepts/observational-closure/) closure*:
+A key distinction is Saad's separation between *universal* causal closure and *[observational](/concepts/observational-closure/) closure*:
 
 **Universal closure**: Every physical event has a sufficient physical cause. No exceptions.
 
 **Observational closure**: There are no *observable* violations of closure—no violations detectable by physics or neuroscience experiments.
 
-Saad argues dualists need only respect observational closure. The delegation mechanism produces no statistical anomalies: experiences cause exactly what the physical states would have caused if delegation hadn't occurred. Causal patterns remain empirically intact. Experiments reveal nothing unusual.
+Saad argues dualists need only respect observational closure. The delegation mechanism produces no statistical anomalies: experiences cause exactly what the physical states would have caused if delegation hadn't occurred. Causal patterns remain empirically intact. Experiments to date reveal nothing unusual.
 
 This matters because the main argument against interactionism appeals to closure. If dualists can accept observational closure while rejecting universal closure, the argument loses force. Physics need not be complete *everywhere*—it need only appear complete in laboratories. Consciousness can operate causally without leaving detectable traces.
 
@@ -132,13 +134,13 @@ This matters because the main argument against interactionism appeals to closure
 
 Epiphenomenalism struggles to explain why we talk about consciousness. If consciousness causes nothing, our discussions of qualia must be caused entirely by physical states with no causal connection to the experiences themselves. Our reports would be accidentally correlated with, not caused by, what we're reporting.
 
-Delegatory dualism avoids this. Pain causes you to say "I'm in pain" by exercising delegated causal powers. Your verbal report is genuinely caused by your experience. Introspective reports are reliable because they're caused by what they purport to describe.
+Delegatory dualism avoids this. Pain causes you to say "I'm in pain" by exercising delegated causal powers. Your verbal report is genuinely caused by your experience. On a causal theory of reference, introspective reports are reliable because they're caused by what they purport to describe.
 
 ### Why Phenomenal Character Tracks Function
 
 Experiences correlate with functional roles: pain accompanies damage and motivates withdrawal; pleasure accompanies benefit and motivates approach. Epiphenomenalism makes this correlation mysterious—why would causally inert experiences track what matters?
 
-Delegatory dualism explains the correlation: experiences are assigned to physical states via causal profile matching (Subset Law*). Experiences with certain causal profiles arise when physical states with those profiles exist. The correlation isn't coincidental—it's built into the psychophysical laws.
+Delegatory dualism explains the correlation within its framework: experiences are assigned to physical states via causal profile matching (Subset Law*). Experiences with certain causal profiles arise when physical states with those profiles exist. The correlation isn't coincidental—it's built into the psychophysical laws. Physicalists offer a simpler explanation (experiences just *are* functional states), but for dualists who accept that experiences are non-physical, delegation provides a principled account of the tracking relationship.
 
 ### Why Neuroscience Finds Correlates
 
@@ -152,7 +154,9 @@ Delegatory dualism is designed to satisfy Observational Closure—no observable 
 
 The theory *would* be falsified by an observed violation of Closure—if an experiment detected a genuine anomaly where physical effects lacked sufficient physical causes. But Observational Closure is precisely the constraint that ensures such violations don't occur at observable scales.
 
-The theory's advantages are primarily *theoretical* rather than predictive: it explains why introspective reports track experiences (unlike epiphenomenalism) and avoids positing systematic redundant causation (unlike overdeterminism). The merits are in internal coherence and explanatory power, not distinctive empirical predictions.
+The theory's advantages are primarily *intra-dualist*—they distinguish delegation from rival dualist positions rather than from physicalism or illusionism. Compared to epiphenomenalism, delegation explains why introspective reports track experiences; compared to overdeterminism, it avoids positing systematic redundant causation. These are genuine advantages *for someone already committed to dualism*.
+
+Physicalists and illusionists offer their own accounts of the same phenomena. A physicalist explains introspective reliability through physical self-modelling without positing non-physical causation. An illusionist argues that sophisticated self-representational mechanisms generate accurate reports about consciousness without phenomenal causation being necessary. Delegation does not refute these rivals—it occupies a different theoretical space, one that accepts dualism as a starting point and then asks how mental causation can be coherent. The merits are in internal coherence within a dualist framework, not in distinctive empirical predictions or decisive arguments against physicalism.
 
 ## Objections and Responses
 
@@ -182,7 +186,7 @@ What metaphysical mechanism allows a non-physical cause to preempt a physical on
 
 # Part II: Map Integration
 
-*The following sections represent The Unfinishable Map's interpretation and integration of delegatory dualism with our quantum interactionist framework. These connections are not claims made by Saad.*
+*The following sections represent The Unfinishable Map's interpretation and integration of delegatory dualism with our quantum interactionist framework. These connections are not claims made by Saad. The integration is exploratory—each framework must stand independently before the combination has force, and combining two speculative frameworks multiplies assumptions rather than reducing them.*
 
 ## Relation to Quantum Interactionism
 
@@ -208,11 +212,9 @@ The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) te
 
 ## The Illusionism Challenge (Map Commentary)
 
-A challenge to delegatory dualism comes from [illusionists](/concepts/illusionism/), who argue that sophisticated self-models could generate accurate reports about consciousness without phenomenal causation—we merely *seem* to ourselves to be conscious. This trades the hard problem for an equally hard "illusion problem," since representing oneself as conscious presupposes something it is like to have that representation.
+A challenge to delegatory dualism comes from [illusionists](/concepts/illusionism/), who argue that sophisticated self-models could generate accurate reports about consciousness without phenomenal causation—we merely *seem* to ourselves to be conscious. The Map holds that this trades the hard problem for an equally hard "illusion problem," since representing oneself as conscious presupposes something it is like to have that representation—though illusionists contest this, arguing that self-representational mechanisms can generate the *appearance* of phenomenality without requiring it.
 
-Even heterophenomenology—Dennett's method of studying consciousness through third-person observation of reports—must identify which behaviors count as "conscious reports," a categorization that implicitly relies on phenomenal concepts.
-
-Delegatory dualism sidesteps this debate by granting experiences genuine causal efficacy. If pain *causes* you to report being in pain, there is no "illusion" to explain away.
+Delegatory dualism sidesteps this debate by granting experiences genuine causal efficacy. If pain *causes* you to report being in pain, there is no "illusion" to explain away. However, this response has force only for those who already accept that experiences exist as non-physical causes—illusionists deny the premise rather than the conclusion.
 
 ## Many-Worlds Considerations (Map-Specific)
 

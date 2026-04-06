@@ -20,7 +20,7 @@ description: When brain metabolism collapses, consciousness does not degrade pro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 14:47:00+00:00
+last_deep_review: 2026-04-06 00:41:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'

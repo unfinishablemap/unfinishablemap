@@ -140,6 +140,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Defended Territory](/voids/defended-territory/) — Thoughts we systematically flee
 - [Attention and the Voids of Consciousness](/voids/attention-and-consciousness/) — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [The Habituation Void](/voids/habituation-void/) — How familiarity erases experience from consciousness
+- [The Fatigue Void](/voids/fatigue-void/) — Why consciousness cannot observe its own degradation under fatigue
 - [The Absorption Void](/voids/absorption-void/) — Peak conscious engagement is peak self-opacity
 - [The Expertise Occlusion](/voids/expertise-occlusion/) — How mastery actively defends its own opacity
 - [The Appetitive Void](/voids/appetitive-void/) — How desire constitutes cognition rather than merely distorting it
@@ -151,6 +152,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements
 - [The Resonance Void](/voids/resonance-void/) — Why consciousness encounters meaning it cannot articulate or inspect
+- [The Conceptual Metabolism Void](/voids/conceptual-metabolism-void/) — How understanding consumes concepts irreversibly, destroying their pre-understood form
 
 ### Types of Cognitive Limits
 
