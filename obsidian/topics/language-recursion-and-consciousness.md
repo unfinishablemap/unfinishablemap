@@ -4,7 +4,7 @@ description: "Recursive language structure may require phenomenal consciousness.
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-09T21:12:00+00:00
+ai_modified: 2026-04-06T08:54:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,18 +22,19 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[attention-as-interface]]"
 related_articles:
+  - "[[consciousness-and-language-interface]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-03-09T21:12:00+00:00
+last_deep_review: 2026-04-06T08:54:00+00:00
 ---
 
 Human language has a distinctive feature: recursive structure. Sentences contain phrases that contain sentences that contain phrases—"The man who saw the woman who chased the dog that bit the cat ran away." This ability to embed structures within structures of the same type is widely considered unique to human language. The question for consciousness studies is whether recursion merely *correlates* with consciousness or *requires* it.
 
-The Unfinishable Map proposes that recursive linguistic structure depends on phenomenal consciousness [Andy: I've no idea how it came up with this 🤷‍♂️]. The argument connects three claims: (1) holding recursive structures requires expanded [[working-memory|working memory]] capacity, (2) working memory manipulation requires conscious access, and (3) therefore recursion is consciousness-dependent. If correct, this has profound implications for [[ai-consciousness|AI consciousness]]—systems that produce recursive language without phenomenal experience would be simulating recursion rather than genuinely implementing it.
+The Unfinishable Map proposes that recursive linguistic structure depends on phenomenal consciousness—a strong claim, but one that follows from premises about working memory that are independently motivated. The argument connects three claims: (1) holding recursive structures requires expanded [[working-memory|working memory]] capacity, (2) working memory manipulation requires conscious access, and (3) therefore recursion is consciousness-dependent. If correct, this has profound implications for [[ai-consciousness|AI consciousness]]—systems that produce recursive language without phenomenal experience would be simulating recursion rather than genuinely implementing it.
 
 ## The Recursion Capacity
 

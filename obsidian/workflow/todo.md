@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review language-recursion-and-consciousness.md considering consciousness-and-language-interface insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/language-recursion-and-consciousness.md for consistency, add cross-links where the new article's treatment of pre-verbal cognition and LLM consciousness strengthens or tensions with existing arguments. Check for terminology alignment and bidirectional linking.
-- **Source**: chain (from topics/consciousness-and-language-interface.md)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
 - **Type**: cross-review
 - **Status**: pending
@@ -1958,6 +1951,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review language-recursion-and-consciousness.md considering consciousness-and-language-interface insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/language-recursion-and-consciousness.md for consistency, add cross-links where the new article's treatment of pre-verbal cognition and LLM consciousness strengthens or tensions with existing arguments. Check for terminology alignment and bidirectional linking.
+- **Output**: obsidian/topics/language-recursion-and-consciousness.md -- Context: Cross-review language-recursion-and-consciousness.md considering consciousness-and-language-interface insights
 
 ### ✓ 2026-04-06: Deep review pragmatism-and-qbism.md
 - **Type**: deep-review
