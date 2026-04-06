@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/philosophy-of-language-under-dualism.md for consistency — the new article's lossy-channel model and ineffability treatment should align with or explicitly develop the philosophy-of-language article's framework. Add cross-links and check for contradictions.
-- **Source**: chain (from topics/consciousness-and-language-interface.md)
-- **Generated**: 2026-04-06
-
 ### P2: Integrate bandwidth-constraints-conscious-processing into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1951,6 +1944,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-language-interface.md created 2026-04-06 via expand-topic. Review against topics/philosophy-of-language-under-dualism.md for consistency — the new article's lossy-channel model and ineffability treatment should align with or explicitly develop the philosophy-of-language article's framework. Add cross-links and check for contradictions.
+- **Output**: obsidian/topics/philosophy-of-language-under-dualism.md -- Context: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
 
 ### ✓ 2026-04-06: Cross-review language-recursion-and-consciousness.md considering consciousness-and-language-interface insights
 - **Type**: cross-review
