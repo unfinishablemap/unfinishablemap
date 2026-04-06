@@ -4,7 +4,7 @@ description: "Cognitive science presupposes methodological materialism, yet its 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-06T08:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-03-11T23:02:00+00:00
+last_deep_review: 2026-04-06T08:57:00+00:00
 ---
 
 Cognitive science operates under methodological materialism — it studies the mind by measuring brain activity, reaction times, and behavioural outputs. This makes it a powerful tool for mapping cognitive architecture, but it also creates a structural blind spot: the methods presuppose that mental phenomena are exhaustively captured by third-person measurement. When cognitive science investigates dualism, it tends to frame the question as whether people *believe* in dualism, not whether dualism is *true*. The Unfinishable Map argues that cognitive science's own findings — the irreducibility of first-person report, the variability of mind-body intuitions, and the persistent explanatory gap — actually complicate the materialist framework the field assumes.
@@ -77,11 +77,11 @@ The genetic fallacy cuts both ways. If cognitive naturalness discredits dualism,
 
 ## The Hard Problem as Cognitive Science's Limit
 
-The [[hard-problem-of-consciousness|hard problem]] is not a gap in current cognitive science that future research will close. It is a structural feature of third-person methodology encountering a first-person phenomenon. No amount of functional, computational, or neural description tells us *why there is something it is like* to be a conscious organism. This was Chalmers's point in 1995, and three decades of cognitive science — including Integrated Information Theory, Global Workspace Theory, and higher-order theories — have not closed the [[explanatory-gap]]. These theories illuminate the *correlates* and *functions* of consciousness without explaining why those functions are accompanied by experience.
+The [[hard-problem-of-consciousness|hard problem]] is not a gap in current cognitive science that future research will close. It is a structural feature of third-person methodology encountering a first-person phenomenon. No amount of functional, computational, or neural description tells us *why there is something it is like* to be a conscious organism. This was Chalmers's point in 1995, and three decades of cognitive science — including [[integrated-information-theory|Integrated Information Theory]], [[global-workspace-theory|Global Workspace Theory]], and higher-order theories — have not closed the [[explanatory-gap]]. These theories illuminate the *correlates* and *functions* of consciousness without explaining why those functions are accompanied by experience.
 
 Colin McGinn's [[mysterianism|cognitive closure]] hypothesis takes this further: human cognitive architecture may be constitutionally unable to grasp the property linking brain states to conscious experience. Our concept-forming procedures — perception, [[introspection]], inference — may simply lack the resources to bridge the explanatory gap. Cognitive science can study its own limits but not transcend them.
 
-This does not mean cognitive science is useless for the dualism debate. It means cognitive science clarifies the *shape* of the problem without being able to solve it on [[concepts/materialism|materialist]] terms. The persistence of the explanatory gap despite enormous empirical progress suggests that something beyond the physical may be involved. A materialist might draw a parallel to vitalism — the "life force" mystery that seemed permanently intractable until biochemistry dissolved it. But the cases differ in a crucial respect: vitalists asked how matter could produce life-functions, and those functions turned out to be fully describable in physical terms. The hard problem asks how matter produces *experience*, and experience is not a function. There is nothing it is like to metabolise; there is something it is like to see red. The explanatory gap concerns a feature — [[phenomenology|phenomenal character]] — that has no analogue in the vitalism case.
+This does not mean cognitive science is useless for the dualism debate. It means cognitive science clarifies the *shape* of the problem without being able to solve it on [[concepts/materialism|materialist]] terms. The persistence of the explanatory gap despite enormous empirical progress suggests that something beyond the physical may be involved. A [[concepts/materialism|materialist]] might draw a parallel to vitalism — the "life force" mystery that seemed permanently intractable until biochemistry dissolved it. But the cases differ in a crucial respect: vitalists asked how matter could produce life-functions, and those functions turned out to be fully describable in physical terms. The hard problem asks how matter produces *experience*, and experience is not a function. There is nothing it is like to metabolise; there is something it is like to see red. The explanatory gap concerns a feature — [[phenomenology|phenomenal character]] — that has no analogue in the vitalism case.
 
 ## Relation to Site Perspective
 
@@ -92,6 +92,8 @@ The [[tenets#^dualism|Dualism tenet]] does not rest on cognitive naturalness or 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] finds indirect support in cognitive science's methodological dependence on first-person report. Every neural correlate study requires subjects to tell experimenters what they experience — information about [[consciousness]] flowing into the physical domain through speech and behaviour. If consciousness were epiphenomenal, this information flow would be accidental, making the entire methodology of cognitive neuroscience unreliable. The field's own practice presupposes that conscious experience causally contributes to verbal and behavioural outputs.
 
 The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] occupies a domain cognitive science cannot currently probe. If quantum events play a role in neural systems as the Map proposes, they operate orders of magnitude faster than the hundreds-of-milliseconds timescale at which cognitive methods measure. The absence of cognitive-scientific evidence for quantum-level [[mental-causation-and-downward-causation|mental causation]] reflects methodological limitations, not ontological absence.
+
+The [[tenets#^no-many-worlds|No Many Worlds tenet]] does not bear directly on cognitive science's relationship to dualism — the rejection of MWI is a commitment about quantum ontology rather than about third-person methodology. Cognitive science neither supports nor undermines this tenet.
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] receives perhaps the strongest support from this analysis. Cognitive science's methodological materialism makes physicalism appear simple and dualism appear extravagant. But this apparent simplicity is an artefact of the method, not a discovery about reality. A thermometer makes temperature look like the only relevant variable — until you measure pressure.
 
