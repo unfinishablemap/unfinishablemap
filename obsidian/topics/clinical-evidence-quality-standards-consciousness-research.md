@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T02:17:00+00:00
+ai_modified: 2026-04-06T04:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,12 +24,13 @@ related_articles:
   - "[[empirical-evidence-for-consciousness-selecting]]"
   - "[[placebo-effect-and-mental-causation]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
+  - "[[methodology-of-consciousness-research]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-06T04:06:00+00:00
 ---
 
 Clinical and neurological evidence is routinely cited in debates about consciousness — Schwartz's OCD neuroplasticity, meditation neuroimaging, placebo effects, dissociation syndromes, anaesthesia studies. Yet consciousness research faces a distinctive methodological problem: the inferential gap between clinical findings and metaphysical conclusions is wider than in ordinary medicine, and standard evidence hierarchies (RCTs, meta-analyses, replication) address only part of the difficulty. The Unfinishable Map holds that clinical evidence can be genuinely probative for questions about consciousness, but only when evaluated against standards that account for both third-person and first-person data, the underdetermination problem, and the asymmetry between functional and structural claims.
@@ -38,11 +39,11 @@ Clinical and neurological evidence is routinely cited in debates about conscious
 
 In standard clinical research, the chain from evidence to conclusion is relatively direct: a drug reduces symptoms, an imaging study reveals structural changes, a controlled trial demonstrates efficacy. The question "does this treatment work?" admits clear operationalisation.
 
-Consciousness research borrows clinical methodology but asks a fundamentally different question: does this clinical finding tell us something about the *metaphysical nature* of mind? This is the inferential gap — the distance between "therapy changed brain scans" and "consciousness causally reshapes neural architecture."
+Consciousness research borrows clinical methodology but asks a fundamentally different question: does this clinical finding tell us something about the *metaphysical nature* of mind? This is the inferential gap — the distance between "therapy changed brain scans" and "consciousness causally reshapes neural architecture." The [[methodology-of-consciousness-research|methodology of consciousness research]] faces this gap at every level, from experimental design to philosophical interpretation.
 
 The gap has three components:
 
-**Underdetermination.** Clinical findings in consciousness research are typically compatible with both dualist and physicalist interpretations. Schwartz's OCD PET data — caudate metabolic normalisation after cognitive-behavioural intervention — is consistent with genuine [[mental-causation-and-downward-causation|mental causation]] (a conscious decision reshapes the brain) and with Hebbian learning (changed behaviour changes neural firing patterns through standard synaptic plasticity). The data alone cannot adjudicate. This underdetermination is not a flaw in the studies but a structural feature of the domain: any third-person measurement of a system that may include irreducible first-person aspects will be interpretable from within a framework that denies those aspects.
+**Underdetermination.** Clinical findings in consciousness research are typically compatible with both dualist and physicalist interpretations. Schwartz's OCD PET data — caudate metabolic normalisation after cognitive-behavioural intervention — is consistent with genuine [[mental-causation-and-downward-causation|mental causation]] (a conscious decision reshapes the brain) and with Hebbian learning (changed behaviour changes neural firing patterns through standard [[neuroplasticity|synaptic plasticity]]). The data alone cannot adjudicate. This underdetermination is not a flaw in the studies but a structural feature of the domain: any third-person measurement of a system that may include irreducible first-person aspects will be interpretable from within a framework that denies those aspects.
 
 **The missing comparator.** In drug trials, placebo controls isolate the active ingredient. In consciousness research, there is no "consciousness placebo" — no way to run a clinical intervention with all the same physical components minus the conscious experience. Every human participant is conscious during therapy. This makes it impossible to construct the control condition that would directly test whether consciousness contributes to the outcome.
 
@@ -92,7 +93,7 @@ How many theoretical frameworks are consistent with the finding? Evidence is mos
 
 ### 4. Convergence Across Methods
 
-Does the finding converge with evidence from different methodologies — clinical, phenomenological, philosophical? Single-method evidence is inherently limited by method-specific artifacts. The convergence of clinical neuroplasticity evidence with the philosophical self-stultification argument against [[concepts/epiphenomenalism|epiphenomenalism]] and the phenomenological evidence for [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] is more compelling than any one stream alone.
+Does the finding converge with evidence from different methodologies — clinical, phenomenological, philosophical? Single-method evidence is inherently limited by method-specific artifacts. The convergence of clinical [[clinical-neuroplasticity-evidence-for-bidirectional-causation|neuroplasticity evidence]] with the philosophical self-stultification argument against [[concepts/epiphenomenalism|epiphenomenalism]], the [[phenomenal-authority-and-first-person-evidence|phenomenal authority]] framework, and the [[placebo-effect-and-mental-causation|content-specificity of placebo responses]] is more compelling than any one stream alone — each addresses a different objection from a different methodological angle.
 
 ### 5. Honest Calibration
 
@@ -120,6 +121,7 @@ The Map's strongest case for mental causation comes from philosophical arguments
 
 ## Further Reading
 
+- [[methodology-of-consciousness-research]]
 - [[clinical-neuroplasticity-evidence-for-bidirectional-causation]]
 - [[phenomenal-authority-and-first-person-evidence]]
 - [[contemplative-practice-as-philosophical-evidence]]

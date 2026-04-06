@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/clinical-evidence-quality-standards-consciousness-research.md created 2026-04-06. Review against experimental-consciousness-science-2025-2026.md, contemplative-practice-as-philosophical-evidence.md, phenomenological-method-and-evidence-standards.md, and clinical-neuroplasticity-evidence-for-bidirectional-causation.md for consistency, cross-links, and whether the quality standards framework applies to claims in those articles.
-- **Source**: chain (from clinical-evidence-quality-standards-consciousness-research.md)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review Tenet 4 articles considering many-worlds-argument concept page
 - **Type**: cross-review
 - **Status**: pending
@@ -1968,6 +1961,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-evidence-quality-standards-consciousness-research.md created 2026-04-06. Review against experimental-consciousness-science-2025-2026.md, contemplative-practice-as-philosophical-evidence.md, phenomenological-method-and-evidence-standards.md, and clinical-neuroplasticity-evidence-for-bidirectional-causation.md for consistency, cross-links, and whether the quality standards framework applies to claims in those articles.
+- **Output**: obsidian/topics/clinical-evidence-quality-standards-consciousness-research.md -- Context: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
 
 ### ✓ 2026-04-06: Cross-review filter and information-processing articles considering bandwidth-constraints-conscious-processing.md
 - **Type**: cross-review
