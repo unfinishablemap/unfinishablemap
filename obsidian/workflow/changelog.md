@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 07:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/consciousness-and-language-interface]], [[topics/consciousness-and-language-under-dualism]]
+- **Target**: [[topics/consciousness-and-language-interface]]
+- **Archived**: [[archive/topics/consciousness-and-language-under-dualism]]
+- **References to review**: none
+
 ## 2026-04-06 07:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-authority-and-first-person-evidence]]

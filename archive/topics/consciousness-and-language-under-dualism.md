@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
 last_deep_review: 2026-04-06T07:12:00+00:00
+archived: true
+archived_date: 2026-04-06T07:41:00+00:00
+superseded_by: "/topics/consciousness-and-language-interface/"
+archive_reason: "Coalesced into Consciousness and Language Interface"
+original_path: "/topics/consciousness-and-language-under-dualism/"
 ---
 
 Consciousness and language are separable. The Unfinishable Map's dualist commitments predict this: if consciousness is irreducible to physical processes, and language is a physical-behavioural system, then consciousness neither requires language nor reduces to it. Language is a tool that consciousness uses—an interface channel between the phenomenal and the physical—not the substance of experience itself. Pre-verbal infants, non-linguistic animals, and large language models each confirm different aspects of this separability, and the confirmation strengthens the case for interactionist dualism.
