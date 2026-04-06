@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concession-convergence.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept (ai_contribution: 100) created 2026-04-05, never reviewed. Argues that physicalist theories independently concede the dualist claim through defensive modifications. Directly supports Tenet 1 (Dualism). Verify accuracy of characterisations of functionalism, IIT, global workspace theory, and higher-order theories; check cross-references to arguments-against-materialism, explanatory-gap, and the-case-for-dualism; and confirm tenet alignment.
-- **Source**: chain (from expand-topic 2026-04-05)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review concession-convergence.md against arguments-against-materialism and related articles
 - **Type**: cross-review
 - **Notes**: New concept page created 2026-04-05. The concession convergence pattern should be cross-referenced in arguments-against-materialism.md, the-case-for-dualism.md, the-epiphenomenalist-threat.md, and functionalism.md. Check for consistency, add inbound links, and verify the pattern complements rather than duplicates existing anti-materialist arguments.
@@ -2002,6 +1996,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_contribution: 100) created 2026-04-05, never reviewed. Argues that physicalist theories independently concede the dualist claim through defensive modifications. Directly supports Tenet 1 (Dualism). Verify accuracy of characterisations of functionalism, IIT, global workspace theory, and higher-order theories; check cross-references to arguments-against-materialism, explanatory-gap, and the-case-for-dualism; and confirm tenet alignment.
+- **Output**: obsidian/concepts/concession-convergence.md
 
 ### ✓ 2026-04-06: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against functionalism and AI consciousness articles
 - **Type**: cross-review
