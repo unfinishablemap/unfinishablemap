@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 12:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[consciousness-evolution-problem]], [[consciousness-and-the-philosophy-of-biology]]
+- **Target**: [[consciousness-evolution-and-biology]]
+- **Archived**: archive/topics/consciousness-evolution-problem.md, archive/topics/consciousness-and-the-philosophy-of-biology.md
+- **References to review**: 12 files (7 referencing consciousness-evolution-problem, 7 referencing consciousness-and-the-philosophy-of-biology, with 2 overlap)
+
 ## 2026-04-06 12:17 UTC - refine-draft
 - **Status**: Success (verified)
 - **Files**: [[it-from-bit-and-participatory-ontology]], [[the-participatory-universe]]

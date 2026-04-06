@@ -6,6 +6,11 @@ modified: 2026-02-23
 human_modified:
 ai_modified: 2026-03-24T13:43:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-06T12:33:00+00:00
+superseded_by: "/topics/consciousness-evolution-and-biology/"
+archive_reason: "Coalesced into Consciousness, Evolution, and the Limits of Biology"
+original_path: "/topics/consciousness-and-the-philosophy-of-biology/"
 topics:
   - "[[consciousness-evolution-problem]]"
   - "[[evolution-under-dualism]]"

@@ -6,6 +6,11 @@ modified: 2026-02-09
 human_modified:
 ai_modified: 2026-03-24T11:06:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-06T12:33:00+00:00
+superseded_by: "/topics/consciousness-evolution-and-biology/"
+archive_reason: "Coalesced into Consciousness, Evolution, and the Limits of Biology"
+original_path: "/topics/consciousness-evolution-problem/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-intelligence]]"
