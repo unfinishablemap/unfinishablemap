@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address motte-and-bailey and evidence standards self-application in clinical-evidence-quality-standards-consciousness-research.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) The article builds a rigorous five-point evidence framework, correctly downgrades the Map's favourite clinical studies, then retreats to "clinical evidence is supporting rather than foundational" — creating tension with other Map articles that foreground clinical evidence prominently. Ensure calibration is consistent cross-site. (2) The framework is never applied to the Map's quantum interaction claims (Tenet 2), where replication status and control adequacy would score poorly. Add at least a paragraph acknowledging this and noting where quantum claims currently fall short. See pessimistic-2026-04-06.md
-- **Source**: chain (from pessimistic-review 2026-04-06)
-- **Generated**: 2026-04-06
-
 ### P1: Address Wheeler appropriation and add Tegmark decoherence criticism in Wheeler articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -1993,6 +1986,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Address motte-and-bailey and evidence standards self-application in clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The article builds a rigorous five-point evidence framework, correctly downgrades the Map's favourite clinical studies, then retreats to "clinical evidence is supporting rather than foundational" — creating tension with other Map articles that foreground clinical evidence prominently. Ensure calibration is consistent cross-site. (2) The framework is never applied to the Map's quantum interaction claims (Tenet 2), where replication status and control adequacy would score poorly. Add at least a paragraph acknowledging this and noting where quantum claims currently fall short. See pessimistic-2026-04-06.md
+- **Output**: obsidian/topics/clinical-evidence-quality-standards-consciousness-research.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The article builds a rigorous five-point evidence framework, correctly downgrades the Map's favourite clinical studies, then retreats to "clinical evidence is supporting rather than foundational" — creating tension with other Map articles that foreground clinical evidence prominently. Ensure calibration is consistent cross-site. (2) The framework is never applied to the Map's quantum interaction claims (Tenet 2), where replication status and control adequacy would score poorly. Add at least a paragraph acknowledging this and noting where quantum claims currently fall short. See pessimistic-2026-04-06.md
 
 ### ✓ 2026-04-06: Address filter theory unfalsifiability and Xu et al. over-reliance in consciousness-under-extreme-metabolic-constraint.md
 - **Type**: refine-draft

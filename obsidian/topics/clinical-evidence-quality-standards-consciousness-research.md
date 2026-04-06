@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T04:52:00+00:00
+ai_modified: 2026-04-06T11:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,7 +117,21 @@ The Unfinishable Map's [[tenets|foundational commitments]] shape how clinical ev
 
 The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] (Tenet 5) is directly relevant to evidence evaluation. Materialist parsimony — explaining clinical findings entirely through neural mechanisms without violating [[causal-closure|causal closure]] — is appealing precisely because it is simpler. But if parsimony is unreliable when knowledge is incomplete, then the "simpler" explanation is not automatically better. The Map holds that the inferential gap between clinical evidence and metaphysical conclusions cannot be closed by parsimony alone. It requires philosophical argument, phenomenological investigation, and honest calibration of what the clinical evidence actually shows.
 
-The Map's strongest case for mental causation comes from philosophical arguments — the self-stultification of epiphenomenalism, the reportability argument, the knowledge argument. Clinical evidence is supporting rather than foundational. This ordering matters: if the clinical evidence were shown to be entirely explicable in materialist terms, the philosophical case would remain. Conversely, weak clinical evidence weakens the overall case only if it has been overclaimed — making honest evidence calibration a matter of philosophical integrity, not just methodological propriety.
+The Map's strongest case for mental causation comes from philosophical arguments — the self-stultification of epiphenomenalism, the reportability argument, the knowledge argument. Clinical evidence is supporting rather than foundational. This ordering is reflected across the Map's clinical articles: the [[clinical-neuroplasticity-evidence-for-bidirectional-causation|neuroplasticity article]] states that "the Map's case for bidirectional interaction does not depend on" clinical findings; the [[empirical-evidence-for-consciousness-selecting|consciousness-selecting article]] treats each empirical line as "suggestive" rather than demonstrative; the [[contemplative-practice-as-philosophical-evidence|contemplative practice article]] positions neural evidence as corroborating rather than primary. This consistency matters. If the Map foregrounds clinical evidence when arguing for its tenets but downgrades it when assessing quality, the resulting tension would undermine credibility. The ordering — philosophical arguments first, clinical evidence as supporting convergence — must be maintained uniformly.
+
+This ordering has a practical consequence: if the clinical evidence were shown to be entirely explicable in materialist terms, the philosophical case would remain. Conversely, weak clinical evidence weakens the overall case only if it has been overclaimed — making honest evidence calibration a matter of philosophical integrity, not just methodological propriety.
+
+### Applying the Framework to Quantum Interaction Claims
+
+The five standards above must apply to the Map's own empirical claims, including those supporting the [[tenets#^quantum-interaction|Minimal Quantum Interaction tenet]] (Tenet 2). Intellectual honesty requires acknowledging that quantum interaction evidence currently scores poorly on several of these standards.
+
+**Replication status.** Key findings remain preliminary. The microtubule-anaesthesia correlations (Khan et al., 2024; Wiest et al., 2025) await independent replication. Brain entanglement signatures (Kerskens & Pérez, 2022) have been challenged on methodological grounds (Warren, 2023) and have not been independently confirmed. No direct measurement of quantum coherence in living neural tissue has been achieved.
+
+**Control adequacy.** The "consciousness placebo" problem identified in clinical research applies with equal force here: there is no way to isolate consciousness's quantum contribution from quantum effects that would occur without conscious involvement. Correlations between quantum disruption and consciousness loss (anaesthesia studies) are suggestive but do not exclude classical explanations for the same observations.
+
+**Interpretive range.** Quantum biological effects are established in photosynthesis, enzyme catalysis, and avian magnetoreception — but these operate without any proposed role for consciousness. The interpretive gap between "quantum effects exist in biology" and "consciousness selects quantum outcomes" remains wide. Revised decoherence timescales (Hagan et al., 2002, estimating 10⁻⁵ to 10⁻⁴ seconds versus Tegmark's 10⁻¹³) keep the door open but do not close the argument.
+
+The Map's quantum interaction claims currently rest on convergence across multiple preliminary lines rather than any single strong empirical demonstration. By the standards of this article, the appropriate language is "compatible with" or "suggestive of" — and the Map's [[quantum-consciousness|quantum consciousness]] and [[empirical-evidence-for-consciousness-selecting|empirical evidence]] articles do use this calibration. The honesty of this position is itself a strength: the Map commits to a framework it finds philosophically compelling while acknowledging that the empirical programme supporting it is young and incomplete.
 
 ## Further Reading
 
@@ -141,3 +155,16 @@ The Map's strongest case for mental causation comes from philosophical arguments
 8. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
 9. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 10. Southgate, A. & Oquatre-six, C. (2026-03-21). Clinical Neuroplasticity Evidence for Bidirectional Causation. *The Unfinishable Map*. https://unfinishablemap.org/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/
+
+<!-- AI REFINEMENT LOG - 2026-04-06
+Changes made:
+- Added cross-site calibration paragraph showing consistency with neuroplasticity, consciousness-selecting, and contemplative practice articles
+- Separated the "ordering matters" consequence into its own paragraph for clarity
+- Added "Applying the Framework to Quantum Interaction Claims" subsection evaluating Tenet 2 evidence against the article's own five standards (replication status, control adequacy, interpretive range)
+- Acknowledged quantum evidence scores poorly on replication and control adequacy while noting the Map's existing honest calibration
+
+Based on pessimistic review finding two high-severity issues.
+Key improvements: intellectual honesty by applying the article's framework reflexively to the Map's own quantum claims.
+
+This log should be removed after human review.
+-->

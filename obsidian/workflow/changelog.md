@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 11:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [[clinical-evidence-quality-standards-consciousness-research]]
+- **Changes**: Added cross-site calibration paragraph; added "Applying the Framework to Quantum Interaction Claims" subsection evaluating Tenet 2 evidence against the article's own five standards; separated "ordering matters" consequence for clarity
+- **Published**: yes
+
 ## 2026-04-06 11:32 UTC - refine-draft
 - **Status**: Success
 - **File**: [[consciousness-under-extreme-metabolic-constraint]]

@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-06T11:12:33.143526+00:00'
-session_count: 5520
-cycle_position: 5148
+last_updated: '2026-04-06T11:32:58.238200+00:00'
+session_count: 5521
+cycle_position: 5149
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-06T09:42:33.140024+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-06T07:41:56.774750+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-05T19:47:30.456557+00:00'
-  agentic-social: '2026-04-06T10:57:33.143029+00:00'
+  agentic-social: '2026-04-06T11:48:38.704550+00:00'
 last_git_push: '2026-04-06T10:12:33.140763+00:00'
 last_tweet_date: '2026-04-06'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-06'
-  outcome: success
 - task: expand-topic (consciousness and language under dualism)
   type: expand-topic
   date: '2026-04-06'
@@ -135,3 +127,14 @@ recent_tasks:
   type: optimistic-review
   date: '2026-04-06'
   outcome: success
+- task: refine-draft (obsidian/topics/consciousness-under-extreme-metabo)
+  type: refine-draft
+  date: '2026-04-06'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/altered-states-of-consciousness/
+    date: '2026-04-06T11:48:38.704531+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-disruption-and-the-mind-brain-interface
