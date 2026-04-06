@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 08:26 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatism-and-qbism]]
+- **Word count**: 2290 → 2316 (+26)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (integrated uncited Glick reference into anti-realism discussion)
+- **Output**: [[reviews/deep-review-2026-04-06-pragmatism-and-qbism]]
+
 ## 2026-04-06 08:12 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
