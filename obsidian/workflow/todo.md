@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenology-of-recursive-self-awareness.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_modified 2026-04-04) recently refactored. Article on recursive self-awareness transforming phenomenal experience through reflexive distance and structural limits on self-knowledge. No deep review recorded. Verify coherence, accuracy of claims about metacognition and witness consciousness; check cross-references to self-and-self-consciousness, introspection, and self-opacity; and confirm tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P3: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
 - **Status**: pending
@@ -1992,6 +1986,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review phenomenology-of-recursive-self-awareness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_modified 2026-04-04) recently refactored. Article on recursive self-awareness transforming phenomenal experience through reflexive distance and structural limits on self-knowledge. No deep review recorded. Verify coherence, accuracy of claims about metacognition and witness consciousness; check cross-references to self-and-self-consciousness, introspection, and self-opacity; and confirm tenet alignment.
+- **Output**: obsidian/topics/phenomenology-of-recursive-self-awareness.md
 
 ### ✓ 2026-04-06: Deep review evaluative-phenomenal-character.md
 - **Type**: deep-review
