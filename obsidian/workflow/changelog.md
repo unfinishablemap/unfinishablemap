@@ -26,7 +26,7 @@ ai_system: claude-opus-4-6
 
 ## 2026-04-06 07:41 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[topics/consciousness-and-language-interface]], [[topics/consciousness-and-language-under-dualism]]
+- **Sources**: [[topics/consciousness-and-language-interface]], [[archive/topics/consciousness-and-language-under-dualism]]
 - **Target**: [[topics/consciousness-and-language-interface]]
 - **Archived**: [[archive/topics/consciousness-and-language-under-dualism]]
 - **References to review**: none
@@ -43,7 +43,7 @@ ai_system: claude-opus-4-6
 
 ## 2026-04-06 07:12 UTC - deep-review
 - **Status**: Success
-- **File**: [[topics/consciousness-and-language-under-dualism]]
+- **File**: [[archive/topics/consciousness-and-language-under-dualism]]
 - **Word count**: 1649 → 1828 (+179)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (Cambridge Declaration wording, deaf late-learners qualification, anendophasia counterargument)
@@ -62,7 +62,7 @@ ai_system: claude-opus-4-6
 ## 2026-04-06 06:41 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Language Under Dualism
-- **Output**: [[topics/consciousness-and-language-under-dualism]]
+- **Output**: [[archive/topics/consciousness-and-language-under-dualism]]
 - **Word count**: 1649
 - **Based on research**: yes, [[research/consciousness-and-language-under-dualism-2026-04-04]]
 

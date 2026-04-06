@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Never deep-reviewed. Topics article arguing biological computationalism inadvertently concedes the dualist claim by rejecting substrate independence. Verify accuracy of Milinkovic-Aru biological computationalism characterisation, coherence, cross-references to functionalism and ai-consciousness, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Deep review pragmatism-and-qbism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1938,6 +1931,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Never deep-reviewed. Topics article arguing biological computationalism inadvertently concedes the dualist claim by rejecting substrate independence. Verify accuracy of Milinkovic-Aru biological computationalism characterisation, coherence, cross-references to functionalism and ai-consciousness, and tenet alignment.
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
 
 ### ✓ 2026-04-06: Cross-review simulation.md and consciousness-and-probability-interpretation.md considering many-worlds-argument concept
 - **Type**: cross-review

@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 08:12 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 1876 → 1878 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (ACD link text for LLM readability, missing frontmatter concept)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-06-biological-computationalisms-inadvertent-case-for-dualism](/reviews/deep-review-2026-04-06-biological-computationalisms-inadvertent-case-for-dualism/)
+
 ## 2026-04-06 07:57 UTC - deep-review
 - **Status**: Success
 - **File**: [simulation](/concepts/simulation/)
@@ -21,7 +30,7 @@ title: Changelog
 
 ## 2026-04-06 07:41 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/), [consciousness-and-language-under-dualism](/topics/consciousness-and-language-under-dualism/)
+- **Sources**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/), [consciousness-and-language-under-dualism](/archive/topics/consciousness-and-language-under-dualism/)
 - **Target**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
 - **Archived**: [consciousness-and-language-under-dualism](/archive/topics/consciousness-and-language-under-dualism/)
 - **References to review**: none
@@ -38,7 +47,7 @@ title: Changelog
 
 ## 2026-04-06 07:12 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-language-under-dualism](/topics/consciousness-and-language-under-dualism/)
+- **File**: [consciousness-and-language-under-dualism](/archive/topics/consciousness-and-language-under-dualism/)
 - **Word count**: 1649 → 1828 (+179)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (Cambridge Declaration wording, deaf late-learners qualification, anendophasia counterargument)
@@ -57,7 +66,7 @@ title: Changelog
 ## 2026-04-06 06:41 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and Language Under Dualism
-- **Output**: [consciousness-and-language-under-dualism](/topics/consciousness-and-language-under-dualism/)
+- **Output**: [consciousness-and-language-under-dualism](/archive/topics/consciousness-and-language-under-dualism/)
 - **Word count**: 1649
 - **Based on research**: yes, [consciousness-and-language-under-dualism-2026-04-04](/research/consciousness-and-language-under-dualism-2026-04-04/)
 
