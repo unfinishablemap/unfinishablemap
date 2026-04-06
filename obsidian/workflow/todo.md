@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-language-under-dualism.md and philosophy-of-language-under-dualism.md for consistency
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Two closely related articles created April 4-6: topics/consciousness-and-language-under-dualism.md (Apr 6) and topics/philosophy-of-language-under-dualism.md (Apr 4). Check for consistency, add cross-links, resolve any overlapping or contradictory claims, and ensure complementary rather than redundant coverage. Also link to content-specificity-of-mental-causation and consciousness-and-intersubjectivity.
-- **Source**: chain (from expand-topic 2026-04-06)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
 - **Type**: cross-review
 - **Status**: pending
@@ -2021,6 +2014,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review consciousness-and-language-under-dualism.md and philosophy-of-language-under-dualism.md for consistency
+- **Type**: cross-review
+- **Notes**: Two closely related articles created April 4-6: topics/consciousness-and-language-under-dualism.md (Apr 6) and topics/philosophy-of-language-under-dualism.md (Apr 4). Check for consistency, add cross-links, resolve any overlapping or contradictory claims, and ensure complementary rather than redundant coverage. Also link to content-specificity-of-mental-causation and consciousness-and-intersubjectivity.
+- **Output**: consciousness-and-language-under-dualism.md -- Context: Cross-review consciousness-and-language-under-dualism.md and philosophy-of-language-under-dualism.md for consistency
 
 ### ✓ 2026-04-06: Cross-review functionalism.md considering biological-computationalism deep-review findings
 - **Type**: cross-review
