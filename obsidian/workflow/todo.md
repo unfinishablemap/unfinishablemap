@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for many-worlds-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced in 14 content files but has no dedicated concept page. Directly supports Tenet 4 (No Many Worlds). Should present the consolidated case against MWI as applied to consciousness — indexical identity, probability interpretation, preferred basis problem, and why consciousness requires single-outcome physics. Target section: concepts/ (222/230).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
 ### P2: Create concept page for epiphenomenalism-argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -2007,6 +2000,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Create concept page for many-worlds-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 14 content files but has no dedicated concept page. Directly supports Tenet 4 (No Many Worlds). Should present the consolidated case against MWI as applied to consciousness — indexical identity, probability interpretation, preferred basis problem, and why consciousness requires single-outcome physics. Target section: concepts/ (222/230).
+- **Output**: Create concept page for many-worlds-argument
 
 ### ✓ 2026-04-06: Create concept page for epistemological-limits-of-occams-razor
 - **Type**: expand-topic
