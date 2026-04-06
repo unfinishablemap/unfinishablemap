@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review sleep-consciousness-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-02, never deep-reviewed — over 2 months without any review. Voids article on the limits of consciousness during sleep. Verify coherence, accuracy of sleep science claims, cross-references to dream-consciousness and altered-states-of-consciousness, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Deep review subjective-aim.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1986,6 +1979,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review sleep-consciousness-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-02, never deep-reviewed — over 2 months without any review. Voids article on the limits of consciousness during sleep. Verify coherence, accuracy of sleep science claims, cross-references to dream-consciousness and altered-states-of-consciousness, and tenet alignment.
+- **Output**: obsidian/voids/sleep-consciousness-void.md
 
 ### ✓ 2026-04-06: Research phenomenology of resistance across domains
 - **Type**: research-topic

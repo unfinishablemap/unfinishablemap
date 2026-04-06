@@ -4,7 +4,7 @@ description: "State-dependent cognitive limits across the sleep spectrum—what 
 created: 2026-02-02
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-06T14:51:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -21,14 +21,8 @@ related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
   - "[[dream-consciousness]]"
-  - "[[altered-states-as-void-probes]]"
-  - "[[observation-and-measurement-void]]"
-  - "[[thoughts-that-slip-away]]"
-  - "[[phenomenology-of-the-edge]]"
-  - "[[self-opacity]]"
   - "[[transition-void]]"
   - "[[death-void]]"
-  - "[[inaccessible-past]]"
   - "[[consciousness-only-territories]]"
   - "[[the-silence-void]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -39,6 +33,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated: null
+last_deep_review: 2026-04-06T14:51:00+00:00
 coalesced_from:
   - "/voids/dream-consciousness-void/"
   - "/voids/dreamless-sleep-void/"
@@ -60,7 +55,7 @@ Neither state can fully represent what the other knows. We cannot translate drea
 
 David Gelernter offers a striking observation: "'Dream logic' makes just as much sense as ordinary 'day logic'; it simply follows different rules." Most philosophers and cognitive scientists "see only day logic and ignore dream logic"—which Gelernter compares to "imagining the earth with a north pole but no south pole."
 
-This challenges the assumption that waking cognition is "real" thinking while dream cognition is merely degraded. The higher cortical areas involved in logical reasoning are deactivated during REM sleep—but this may enable different cognitive operations rather than simply disabling cognition. As Hobson notes, dream thought is "both impoverished and non-logical" by waking standards, but this framing itself reflects waking bias.
+This challenges the assumption that waking cognition is "real" thinking while dream cognition is merely degraded. The higher cortical areas involved in logical reasoning are deactivated during REM sleep—but this may enable different cognitive operations rather than simply disabling cognition. As Hobson notes, dream thought appears both impoverished and non-logical by waking standards, but this framing itself reflects waking bias.
 
 Dreams generate complete experiential worlds without external input. They create narratives, characters, environments, and events through processes waking consciousness cannot directly access or replicate. The "illogicalities that would demand cognitive attention during wakefulness go unnoticed during sleep"—not because the dreamer is cognitively impaired, but because the dreaming mind operates by different criteria for coherence.
 
@@ -106,15 +101,11 @@ Gamma and Metzinger's 2022 study investigated "objectless awareness" during slee
 
 Yoga nidra practitioners aim to maintain awareness through the sleep transition—an approach that functions as what the Map calls an [[altered-states-as-void-probes|altered-state void probe]]. EEG studies show high gamma-band activity (typically associated with waking consciousness) during states otherwise resembling deep sleep. These findings do not prove ordinary sleepers maintain awareness, but they demonstrate the boundary between consciousness and its apparent absence is more permeable than the simple on/off model suggests.
 
-## Evidence for the Limits
+## Converging Evidence
 
-**Neurological evidence.** The dorsolateral prefrontal cortex—associated with critical thinking, metacognition, and executive function—is selectively deactivated during REM sleep. This is not a contingent feature of particular dreams but part of the neurophysiology of the state. EEG recordings show dramatic further changes in deep sleep; subjects cannot report experiences from dreamless periods.
+The case for genuine state-dependent inaccessibility draws on multiple lines of evidence. Neurologically, selective deactivation of the dorsolateral prefrontal cortex during REM is not contingent but systematic—part of the state's architecture. Phenomenologically, dream memories fade within minutes and feel translated rather than transcribed; what Merleau-Ponty called the "depersonalization" of dream experience cannot be recreated while awake. Paller (2025) confirms that "most sleep-based memory processing is below the surface of what we can experience"—dreams access only fragments of memory, pieced together in ways waking cannot reproduce.
 
-**Phenomenological evidence.** Dream memories fade within minutes of waking, suggesting transformation in translation rather than simple decay. The felt quality of dreams—what Merleau-Ponty called "depersonalization"—cannot be recreated while awake. We can remember accepting flying as normal; we cannot re-enter the cognitive mode that made acceptance possible.
-
-**Memory evidence.** As Paller (2025) confirms, "most sleep-based memory processing is below the surface of what we can experience." Dreams access only fragments of memory, pieced together in ways waking cannot reproduce.
-
-**Philosophical evidence.** Dennett's challenge—whether we can verify that dreams are experiences during sleep rather than memory insertions upon waking—reveals how difficult it is to access what dream consciousness actually is. False awakenings show reality testing fails systematically during sleep; Russell reported experiencing "about a hundred" false awakenings in succession.
+Dennett's challenge—whether we can verify that dreams are experiences during sleep rather than memory insertions upon waking—reveals how difficult it is to access what dream consciousness actually is. False awakenings demonstrate the depth of the problem: Russell reported experiencing "about a hundred" false awakenings in succession, each indistinguishable from genuine waking.
 
 ## Three Kinds Within One Void
 
@@ -136,7 +127,7 @@ This response has force but misses the phenomenological data. Neural differences
 
 If consciousness constitutes [[personal-identity]] and ceases during sleep, the person who wakes may not be the same person who slept. Three responses: consciousness is continuous (the Vedantic view dissolves the puzzle), identity survives gaps (bodily continuity and memory connections ground identity across cessation), or we are new each morning (Locke may have been right, though strong intuitions of self-continuity resist this).
 
-The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet makes this question substantial. On many-worlds interpretations, identity questions dissolve into indexical triviality. The Map's single-history metaphysics makes the question real: *this* person, falling asleep, either persists or does not.
+The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet makes this question substantial. Many-worlds interpretations multiply the question—every branch contains a sleeper, and identity becomes a matter of indexical bookkeeping rather than metaphysical substance. The Map's single-history metaphysics makes the question real: *this* person, falling asleep, either persists or does not.
 
 ## Relation to Site Perspective
 
@@ -173,21 +164,15 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
 - [[dream-consciousness]] — How dreams illuminate the consciousness-brain relationship
-- [[observation-and-measurement-void]] — Why observing consciousness transforms what is observed
-- [[altered-states-as-void-probes]] — Whether altered states reveal or simulate transcendence of cognitive limits
 - [[transition-void]] — The void at the boundary between conscious states
-- [[thoughts-that-slip-away]] — Mechanisms of cognitive slippage
-- [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
-- [[sleep-and-consciousness]] — Neuroscience of consciousness gradations across sleep stages
 - [[witness-consciousness]] — The Vedantic concept of awareness that observes without identifying
 - [[personal-identity]] — What grounds identity through gaps in consciousness
-- [[self-opacity|self-reference paradox]] — The subject that cannot become its own object
 - [[death-void]] — Consciousness cannot represent its own permanent cessation
-- [[inaccessible-past]] — Whether past qualia can be recovered or are lost forever
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[the-silence-void]] — Voluntary cessation through contemplative practice
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The graded, multi-channel nature of the sleep-wake transition
+- [[fatigue-void]] — Consciousness degradation through exhaustion as a parallel state-dependent limit
 
 ## References
 
