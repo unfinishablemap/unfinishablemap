@@ -1,10 +1,10 @@
 ---
 title: "Death and Consciousness"
-description: "Does consciousness survive bodily death? Dualism keeps the question genuinely open. The phenomenology of dying—deathbed visions, terminal lucidity, shared death experiences—challenges brain-production models."
+description: "Does consciousness survive bodily death? Dualism keeps the question open where materialism forecloses it. Dying phenomenology challenges brain-production models."
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-11T23:47:00+00:00
+ai_modified: 2026-04-06T01:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-11T23:18:00+00:00
+last_deep_review: 2026-04-06T01:00:00+00:00
 coalesced_from:
   - "/topics/death-and-consciousness/"
   - "/topics/death-phenomenology-beyond-ndes/"
@@ -87,17 +87,17 @@ This sharpens the Map's rejection of Parfit. The extended self isn't a pattern t
 
 ### Near-Death Experiences
 
-[[near-death-experiences|Near-death experiences]] (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE II (2023) found 39% reported conscious awareness during arrest. Xu et al. (2023) found gamma wave surges in dying brains—heightened neural organisation during apparent shutdown. Materialist explanations exist but none fully accounts for why failing neural function sometimes produces *heightened* consciousness. See [[near-death-experiences]] for detailed treatment.
+[[near-death-experiences|Near-death experiences]] (NDEs) feature out-of-body perception, life review, and profound mental clarity during brain compromise. Van Lommel et al. (2001) found 18% of cardiac arrest survivors reported NDEs; Parnia's AWARE studies (2014; 2023) found increasing evidence of conscious awareness during arrest, with AWARE II reporting 39% of survivors had recalled experiences of death. Xu et al. (2023) found gamma wave surges in dying brains—heightened neural organisation during apparent shutdown. Materialist explanations exist but none fully accounts for why failing neural function sometimes produces *heightened* consciousness. See [[near-death-experiences]] for detailed treatment.
 
 ### Deathbed Visions
 
-Deathbed visions (DBVs) occur in dying patients who remain conscious and lucid—unlike NDEs, brains are functioning, not shut down. Patients report seeing deceased relatives or unknown figures alongside the physical room, with coherent interaction and calm rather than distress.
+Deathbed visions (DBVs) occur in dying patients who remain conscious and lucid—unlike NDEs, brains are functioning, not shut down. Patients report seeing deceased relatives or unknown figures alongside the physical room, with coherent interaction and calm rather than distress (Kerr et al., 2014; Fenwick & Fenwick, 2008).
 
 Osis and Haraldsson's cross-cultural study (1977) compared over 1,000 cases from the United States and India. Despite vast cultural differences, both populations predominantly saw deceased rather than living persons—including individuals the patient did not know had died. This cross-cultural convergence resists hallucinatory explanation: if DBVs were projections of expectation, the content should vary with cultural context rather than converging on deceased persons.
 
 ### Terminal Lucidity
 
-Terminal lucidity—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents perhaps the most direct challenge to production models. Nahm and Greyson (2012) documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia. Patients non-verbal for years suddenly recognised family, held coherent conversations, and recalled long-lost memories.
+Terminal lucidity—the sudden return of mental clarity shortly before death in patients with severe neurological conditions—presents perhaps the most direct challenge to production models. Nahm and Greyson (2012) documented 83 cases spanning 250 years across Alzheimer's, brain tumors, strokes, and chronic schizophrenia. Patients non-verbal for years suddenly recognised family, held coherent conversations, and recalled long-lost memories (see also Batthyány et al., 2023).
 
 The puzzle is severe: in advanced Alzheimer's, plaques and tangles have extensively replaced functional tissue, yet terminal lucidity restores precisely these capacities. Mashour et al. (2019) proposed that paradoxical lucidity represents a "potential paradigm shift," suggesting some dementia may involve functional suppression rather than structural destruction—plausible for moderate disease, but strained where autopsy confirms massive damage.
 
