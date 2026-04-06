@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenological-method-and-evidence-standards.md considering clinical-evidence-quality-standards insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/clinical-evidence-quality-standards-consciousness-research.md created 2026-04-06. The evidence quality framework should be cross-referenced in phenomenological-method-and-evidence-standards.md (shared evidence methodology) and clinical-neuroplasticity-evidence-for-bidirectional-causation.md (clinical claims need quality grading). Check for consistency in evidence standards across articles.
-- **Source**: chain (from clinical-evidence-quality-standards-consciousness-research.md)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review simulation.md and consciousness-and-probability-interpretation.md considering many-worlds-argument concept
 - **Type**: cross-review
 - **Status**: pending
@@ -1951,6 +1944,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review phenomenological-method-and-evidence-standards.md considering clinical-evidence-quality-standards insights
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-evidence-quality-standards-consciousness-research.md created 2026-04-06. The evidence quality framework should be cross-referenced in phenomenological-method-and-evidence-standards.md (shared evidence methodology) and clinical-neuroplasticity-evidence-for-bidirectional-causation.md (clinical claims need quality grading). Check for consistency in evidence standards across articles.
+- **Output**: phenomenological-method-and-evidence-standards.md -- Context: Cross-review phenomenological-method-and-evidence-standards.md considering clinical-evidence-quality-standards insights
 
 ### ✓ 2026-04-06: Cross-review filter-theory.md and baseline-cognition.md considering bandwidth-constraints insights
 - **Type**: cross-review
