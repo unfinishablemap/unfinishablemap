@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-05 20:55:00+00:00
+ai_modified: 2026-04-06 07:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ description: First-person reports carry layered epistemic authority — apodicti
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 19:47:00+00:00
+last_deep_review: 2026-04-06 07:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,6 +64,7 @@ related_articles:
 - '[[epistemology-of-other-minds-under-dualism]]'
 - '[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]'
 - '[[phenomenology-of-intellectual-life]]'
+- '[[clinical-evidence-quality-standards-consciousness-research]]'
 title: Phenomenal Authority and First-Person Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -151,7 +152,7 @@ Strict calibration against an independent standard is impossible — the [observ
 
 **Convergence across independent traditions.** Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners converge on structural findings: the constructed character of the narrative self, the distinction between awareness and its contents, and the discrete temporal grain of experience (see [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) and [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)).
 
-**Cross-modal verification.** Experienced meditators' reports correspond to specific neural signatures (Brewer et al. 2011). If training merely produced more elaborate confabulations, reports should diverge from neural data; instead, convergence *increases* with training.
+**Cross-modal verification.** Experienced meditators' reports correspond to specific neural signatures (Brewer et al. 2011). If training merely produced more elaborate confabulations, reports should diverge from neural data; instead, convergence increases with training.
 
 **Predictive power.** Contemplative reports of altered temporal experience and distinct jhāna states preceded experimental and neuroimaging confirmation. The microphenomenological method (Petitmengin 2006) has guided researchers to neural processes they were not looking for.
 
@@ -226,6 +227,7 @@ Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neu
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How first-person evidence grounds inference to other minds
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — What evaluating evidence feels like from the inside
 - [galilean-exclusion](/concepts/galilean-exclusion/) — How modern science excluded the subjective
+- [clinical evidence quality standards](/topics/clinical-evidence-quality-standards-consciousness-research/) — Formal criteria for evaluating empirical claims in consciousness debates
 
 ## References
 

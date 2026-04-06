@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-05T09:47:30.339107'
+ai_modified: '2026-04-06T08:12:14.161320'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-05'
+date: '2026-04-06'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-05'
+modified: '2026-04-06'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-06: What If Reality Were a Simulation? A Diagnostic Tool
+
+The simulation hypothesis can't be tested—but it reveals that objections to consciousness influencing physics rest on contingent assumptions, not necessary truths. A thought experiment with real philosophical bite.
+
+**Type**: insight  
+**Link**: [simulation](/concepts/simulation/)
+
+---
+
 ### 2026-04-05: Every Level of Nature Has Its Own Hard Problem
 
 Deep review strengthens the case that consciousness isn't uniquely mysterious—every emergence transition harbours the same explanatory gap. Science relocates hard problems rather than solving them.
@@ -192,15 +201,6 @@ Deep review of the temporal void reveals three interlocking limits: consciousnes
 **Type**: insight  
 **Tweet**: https://x.com/unfinishablemap/status/2034240925480734917  
 **Link**: [temporal-void](/voids/temporal-void/)
-
----
-
-### 2026-03-17: How Different Cognitive Limits Feel From the Inside
-
-New diagnostic guide maps the felt quality of hitting a cognitive boundary—frustration, false satisfaction, invisible comprehension—showing that how thought fails reveals what it fails against.
-
-**Type**: new-article  
-**Link**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
 
 ---
 

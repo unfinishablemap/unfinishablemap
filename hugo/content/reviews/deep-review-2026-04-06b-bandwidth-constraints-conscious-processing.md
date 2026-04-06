@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-06
-**Article**: [Bandwidth Constraints and Conscious Information Processing](/topics/bandwidth-constraints-conscious-processing/)
+**Article**: [Bandwidth Constraints and Conscious Information Processing](/topics/bandwidth-of-consciousness/)
 **Previous review**: [2026-04-06](/reviews/deep-review-2026-04-06-bandwidth-constraints-conscious-processing/)
 
 ## Pessimistic Analysis Summary

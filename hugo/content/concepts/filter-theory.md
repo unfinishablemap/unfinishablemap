@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-06 06:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,6 +24,7 @@ concepts:
 - '[[terminal-lucidity]]'
 - '[[death-and-consciousness]]'
 - '[[illusionism]]'
+- '[[baseline-cognition]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: The brain transmits and constrains consciousness rather than producing
@@ -31,7 +32,7 @@ description: The brain transmits and constrains consciousness rather than produc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 18:01:00+00:00
+last_deep_review: 2026-04-06 06:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,6 +44,7 @@ topics:
 - '[[the-interface-specification-problem]]'
 - '[[the-interface-location-problem]]'
 - '[[terminal-lucidity-and-filter-transmission-theory]]'
+- '[[bandwidth-of-consciousness]]'
 ---
 
 The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [William James](/topics/william-james-consciousness/), Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [interactionist dualism](/concepts/interactionist-dualism/) and explains how [dualism](/tenets/#dualism) can accommodate the empirical findings that seem to support materialism.
@@ -112,7 +114,7 @@ Up to 25% of patients classified as behaviorally unresponsive show clear signs o
 
 ### Simple Organisms and the Filter Boundary
 
-The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question: where does the filter begin? *C. elegans* (302 neurons) displays learning behaviors yet may lack the structural complexity for consciousness to interface effectively. The slime mold *Physarum polycephalum* solves mazes without any neurons, suggesting cognition and consciousness may fully dissociate. This connects to [brain-interface-boundary](/concepts/brain-interface-boundary/): not just *any* complex system serves as a consciousness interface. The brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable.
+The [minimal-consciousness](/concepts/minimal-consciousness/) literature raises a sharp question: where does the filter begin? *C. elegans* (302 neurons) displays learning behaviors yet may lack the structural complexity for consciousness to interface effectively. The slime mold *Physarum polycephalum* solves mazes without any neurons, suggesting [baseline cognition](/concepts/baseline-cognition/)—sophisticated information processing without conscious contribution—can fully dissociate from consciousness. This connects to [brain-interface-boundary](/concepts/brain-interface-boundary/): not just *any* complex system serves as a consciousness interface. The brain's specific properties (quantum sensitivity, representational structure, attention mechanisms) make it suitable.
 
 ## The Rendering Engine Analogy
 
@@ -145,7 +147,7 @@ Yes, but so is "production." Saying the brain "produces" consciousness is equall
 
 ### "How could we ever distinguish filter from production?"
 
-Filter theory organizes expectations differently: disrupting the filter *could* sometimes enhance experience (psychedelics, some NDEs), whereas production models would not naturally expect this. However, without independent criteria for which disruptions should enhance versus degrade, this remains a pattern-level asymmetry rather than a precise testable prediction. Other distinguishing expectations: consciousness could interface through different physical substrates; trained meditators who reduce the filter's grip should report more consistent phenomenology (Fox et al. 2012 provides tentative support). These aren't decisive tests, but they show filter theory generates different research questions than production models.
+Filter theory organizes expectations differently: disrupting the filter *could* sometimes enhance experience (psychedelics, some NDEs), whereas production models would not naturally expect this. However, without independent criteria for which disruptions should enhance versus degrade, this remains a pattern-level asymmetry rather than a precise testable prediction. A stronger discriminator emerges from [bandwidth constraints](/topics/bandwidth-of-consciousness/): conscious throughput measures at ~10 bits per second while the brain processes at 10⁹, and the bottleneck appears specifically at conscious access rather than at motor output or sensory processing (Sauerbrei & Pruszynski 2025). Filter theory predicts this pattern: the filter constrains consciousness specifically, not neural processing in general. Additionally, consciousness could in principle interface through different physical substrates. These aren't decisive tests, but they show filter theory generates different research questions than production models.
 
 ## The Illusionist Challenge
 
@@ -191,8 +193,8 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) — Cognitive return despite severe structural brain damage
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: five altered states converging on multi-channel filter architecture
 - [binding-problem](/concepts/binding-problem/) — Classical binding fails; quantum holism and filter theory on unity
-- [curated-mind](/topics/curated-mind/) — Asymmetric curation of experience as evidence for filter architecture
-- [near-death-experiences](/concepts/near-death-experiences/) — Enhanced experience during brain compromise
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The ~10 bits/s conscious throughput ceiling as empirical signature of filtering
+- [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious contribution
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
 
 ## References
@@ -203,7 +205,6 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Carhart-Harris, R., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138-2143.
 1. Carhart-Harris, R. & Friston, K. (2019). REBUS and the anarchic brain: Toward a unified model of the brain action of psychedelics. *Pharmacological Reviews*, 71(3), 316-344.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-1. Fox, K.C.R., et al. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Huxley, A. (1954). *The Doors of Perception*. Chatto & Windus.
 1. James, W. (1898). *Human Immortality: Two Supposed Objections to the Doctrine*. Houghton Mifflin.
 1. Josselyn, S.A. & Tonegawa, S. (2020). Memory engrams: Recalling the past and imagining the future. *Science*, 367(6473), eaaw4325.
@@ -213,6 +214,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 1. Parnia, S., et al. (2023). "AWAreness during REsuscitation II: A multi-center study of consciousness and awareness in cardiac arrest." *Resuscitation*, 191, 109903.
 1. Sarasso, S., et al. (2015). Consciousness and complexity during unresponsiveness induced by propofol, xenon, and ketamine. *Current Biology*, 25(23), 3099-3105.
 1. Sanders, R. D., et al. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8.
+1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Van Lommel, P., et al. (2001). "Near-death experience in survivors of cardiac arrest." *The Lancet*, 358(9298), 2039-2045.
 
 <!-- AI REFINEMENT LOG - 2026-03-28

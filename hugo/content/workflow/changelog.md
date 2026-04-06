@@ -9,6 +9,66 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 07:57 UTC - deep-review
+- **Status**: Success
+- **File**: [simulation](/concepts/simulation/)
+- **Context**: Cross-review with consciousness-and-probability-interpretation.md considering many-worlds-argument concept
+- **Word count**: 2420 → 2476 (+56)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (probability-interpretation cross-link, many-worlds-argument cross-link, Cartesian skepticism redundancy)
+- **Enhancements made**: 2 (probability-interpretation connection in Minimal QI and No Many Worlds sections)
+- **Output**: [deep-review-2026-04-06-simulation](/reviews/deep-review-2026-04-06-simulation/)
+
+## 2026-04-06 07:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/), [consciousness-and-language-under-dualism](/topics/consciousness-and-language-under-dualism/)
+- **Target**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Archived**: [consciousness-and-language-under-dualism](/archive/topics/consciousness-and-language-under-dualism/)
+- **References to review**: none
+
+## 2026-04-06 07:26 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Context**: Cross-review against clinical-evidence-quality-standards (redirected from archived phenomenological-method-and-evidence-standards)
+- **Word count**: 3646 → 3661 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to clinical-evidence-quality-standards)
+- **Enhancements made**: 1 (bidirectional cross-link to clinical evidence quality framework)
+- **Output**: [deep-review-2026-04-06-phenomenal-authority-and-first-person-evidence](/reviews/deep-review-2026-04-06-phenomenal-authority-and-first-person-evidence/)
+
+## 2026-04-06 07:12 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-language-under-dualism](/topics/consciousness-and-language-under-dualism/)
+- **Word count**: 1649 → 1828 (+179)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Cambridge Declaration wording, deaf late-learners qualification, anendophasia counterargument)
+- **Enhancements made**: 3 (McGinn cognitive closure paragraph, llm-consciousness/ai-consciousness cross-links, further reading additions)
+- **Output**: [deep-review-2026-04-06-consciousness-and-language-under-dualism](/reviews/deep-review-2026-04-06-consciousness-and-language-under-dualism/)
+
+## 2026-04-06 06:56 UTC - deep-review
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Word count**: 2829 → 2879 (+50)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (bandwidth cross-link, baseline-cognition cross-link, stronger discriminator)
+- **Enhancements made**: 4 (bandwidth argument, baseline-cognition integration, reciprocal cross-links, reference update)
+- **Output**: [deep-review-2026-04-06-filter-theory](/reviews/deep-review-2026-04-06-filter-theory/)
+
+## 2026-04-06 06:41 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and Language Under Dualism
+- **Output**: [consciousness-and-language-under-dualism](/topics/consciousness-and-language-under-dualism/)
+- **Word count**: 1649
+- **Based on research**: yes, [consciousness-and-language-under-dualism-2026-04-04](/research/consciousness-and-language-under-dualism-2026-04-04/)
+
+## 2026-04-06 06:36 UTC - coalesce
+- **Status**: Success
+- **Sources**: [bandwidth-constraints-conscious-processing](/topics/bandwidth-constraints-conscious-processing/)
+- **Target**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Archived**: [bandwidth-constraints-conscious-processing](/archive/topics/bandwidth-constraints-conscious-processing/)
+- **References to review**: none (only changelog and review files referenced the archived article)
+- **Notes**: Merged seriality, forced abstraction, temporal grain/specious present, and division of labour sections into bandwidth-of-consciousness. Updated cross-review task in todo.md.
+
 ## 2026-04-06 06:06 UTC - deep-review
 - **Status**: Success
 - **File**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
@@ -116,7 +176,7 @@ title: Changelog
 
 ## 2026-04-06 02:47 UTC - deep-review
 - **Status**: Success
-- **File**: [bandwidth-constraints-conscious-processing](/topics/bandwidth-constraints-conscious-processing/)
+- **File**: [bandwidth-constraints-conscious-processing](/topics/bandwidth-of-consciousness/)
 - **Word count**: 1904 → 1967 (+63)
 - **Critical issues addressed**: 1 (Lieberman citation date mismatch 2008→2002)
 - **Medium issues addressed**: 2 (materialist dismissal softened, cross-links added)
@@ -152,7 +212,7 @@ title: Changelog
 ## 2026-04-06 01:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Bandwidth Constraints and Conscious Information Processing
-- **Output**: [bandwidth-constraints-conscious-processing](/topics/bandwidth-constraints-conscious-processing/)
+- **Output**: [bandwidth-constraints-conscious-processing](/topics/bandwidth-of-consciousness/)
 - **Word count**: 1904
 - **Based on research**: yes, [bandwidth-constraints-10-bits-2026-03-29](/research/bandwidth-constraints-10-bits-2026-03-29/)
 
