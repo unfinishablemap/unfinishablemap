@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epiphenomenalism-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced in 6 content files but has no dedicated concept page. The consolidated case against epiphenomenalism — self-stultification, evolutionary implausibility, clinical evidence for mental causation. Distinct from the broader epiphenomenalism concept page (which was archived/coalesced). Target section: concepts/ (222/230).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review functionalism.md considering biological-computationalism deep-review findings
 - **Type**: cross-review
 - **Status**: pending
@@ -2000,6 +1993,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Create concept page for epiphenomenalism-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 6 content files but has no dedicated concept page. The consolidated case against epiphenomenalism — self-stultification, evolutionary implausibility, clinical evidence for mental causation. Distinct from the broader epiphenomenalism concept page (which was archived/coalesced). Target section: concepts/ (222/230).
+- **Output**: Create concept page for epiphenomenalism-argument
 
 ### ✓ 2026-04-06: Create concept page for many-worlds-argument
 - **Type**: expand-topic

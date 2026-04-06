@@ -5,6 +5,11 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 19:36 UTC - expand-topic
+- **Status**: Skipped (slug collision + redundant content)
+- **Topic**: epiphenomenalism-argument concept page
+- **Reason**: Slug `epiphenomenalism-argument` collides with existing `arguments/epiphenomenalism-argument.md`. Content already covered by `concepts/epiphenomenalism.md` (comprehensive, ~3500 words with self-stultification, evolutionary, knowledge argument, convergence sections) and `arguments/epiphenomenalism-argument.md` (formal cumulative case). All 6+ wikilink references resolve correctly. Gap analysis was incorrect — no missing page.
+
 ## 2026-04-06 19:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/buddhist-perspectives-on-meaning]]
