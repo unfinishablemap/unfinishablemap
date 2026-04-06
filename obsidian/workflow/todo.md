@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review void articles considering conceptual-metabolism-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/conceptual-metabolism-void.md created 2026-04-06. Review mutation-void, framework-void, obviousness-void, habituation-void, and inaccessible-past for cross-links and consistency with the argument that understanding irreversibly consumes concepts.
-- **Source**: chain (from voids/conceptual-metabolism-void.md)
-- **Generated**: 2026-04-06
-
 ### P2: Create concept page for many-worlds-argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -1937,6 +1930,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review void articles considering conceptual-metabolism-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/conceptual-metabolism-void.md created 2026-04-06. Review mutation-void, framework-void, obviousness-void, habituation-void, and inaccessible-past for cross-links and consistency with the argument that understanding irreversibly consumes concepts.
+- **Output**: None -- Context: Cross-review void articles considering conceptual-metabolism-void insights
 
 ### ✓ 2026-04-06: Cross-review void articles considering fatigue-void insights
 - **Type**: cross-review
