@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 01:42:00+00:00
+ai_modified: 2026-04-06T03:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review filter and information-processing articles considering bandwidth-constraints-conscious-processing.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/bandwidth-constraints-conscious-processing.md created 2026-04-06. Review against filter-theory.md, consciousness-as-amplifier.md, attention-and-the-consciousness-interface.md, and degrees-of-consciousness.md for consistency, cross-links, and whether the 10-bit bottleneck evidence strengthens or complicates existing arguments.
+- **Source**: chain (from bandwidth-constraints-conscious-processing.md)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/clinical-evidence-quality-standards-consciousness-research.md created 2026-04-06. Review against experimental-consciousness-science-2025-2026.md, contemplative-practice-as-philosophical-evidence.md, phenomenological-method-and-evidence-standards.md, and clinical-neuroplasticity-evidence-for-bidirectional-causation.md for consistency, cross-links, and whether the quality standards framework applies to claims in those articles.
+- **Source**: chain (from clinical-evidence-quality-standards-consciousness-research.md)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page arguments/many-worlds-argument.md created 2026-04-06. Review against topics/quantum-mechanics-and-many-worlds.md, topics/born-rule-and-the-consciousness-interface.md, and concepts/indexical-identity.md for consistency, cross-links, and whether the consolidated MWI argument strengthens the Tenet 4 case across related articles.
+- **Source**: chain (from many-worlds-argument.md)
+- **Generated**: 2026-04-06
+
+### P2: Deep review bandwidth-constraints-conscious-processing.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Topics article on the ~10 bits/second conscious bandwidth bottleneck and its implications for the consciousness-physics interface. Verify accuracy of Nørretranders/Zimmermann bandwidth claims, coherence of the filtering argument, cross-references to filter-theory and attention articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Topics article on evidence quality standards for consciousness research — methodological rigour, replication, and how clinical evidence bears on metaphysical claims. Verify accuracy of methodological claims, coherence, cross-references to experimental-consciousness-science-2025-2026 and phenomenological-method-and-evidence-standards, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review conceptual-metabolism-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Voids article on the cognitive limit that concepts must be metabolised through experience before they can be genuinely understood. Verify coherence, accuracy of claims about conceptual acquisition, cross-references to related void articles (pre-conceptual-knowing, convergent-cognitive-limits), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
 
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
