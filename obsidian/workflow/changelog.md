@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 20:43 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[phenomenology-mechanism-bridge]]
+- **Changed sources**: 2 (motor-control-quantum-zeno +15d, volitional-control +3d)
+- **Word count**: 3492 → 3739
+- **Review**: [[apex-evolve-2026-04-06-phenomenology-mechanism-bridge]]
+
 ## 2026-04-06 20:35 UTC - check-tenets
 - **Status**: Warnings
 - **Files checked**: 446
