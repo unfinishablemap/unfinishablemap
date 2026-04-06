@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-06T12:47:00+00:00
+ai_modified: 2026-04-06T16:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,19 +24,20 @@ related_articles:
   - "[[consciousness-evolution-and-biology]]"
   - "[[pragmatisms-path-to-dualism]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
+  - "[[machine-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-04
 last_curated:
-last_deep_review: 2026-04-06T08:12:00+00:00
+last_deep_review: 2026-04-06T16:06:00+00:00
 ---
 
 Biological computationalism—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments inadvertently build the dualist case: by insisting that consciousness requires something beyond abstract computation, biological computationalism concedes the central point dualists have always made. The explanatory gap it opens between algorithm and experience is precisely the gap dualism was designed to fill.
 
 ## The Third Path
 
-Classical computational functionalism, associated with Putnam (1967) and Fodor (1974), holds that mental states are defined by functional roles. Any system implementing the right computation—silicon, carbon, soul-stuff—would be conscious. The Stanford Encyclopedia of Philosophy notes that the computational theory of mind "remains neutral in the traditional debate between physicalism and substance dualism, proceeding at a very abstract level without specifying whether mental computations are implemented by physical stuff or Cartesian soul-stuff" (Rescorla 2020). This formal neutrality is itself revealing: computation alone cannot settle questions about consciousness.
+Classical computational functionalism, associated with Putnam (1967) and Fodor (1974), holds that mental states are defined by functional roles. Any system implementing the right computation—silicon, carbon, soul-stuff—would be conscious. (Putnam himself later abandoned this framework, finding it unable to account for meaning or reference—a trajectory the Map traces in [[pragmatisms-path-to-dualism|its analysis of pragmatism's path to dualism]].) The Stanford Encyclopedia of Philosophy notes that the computational theory of mind "remains neutral in the traditional debate between physicalism and substance dualism, proceeding at a very abstract level without specifying whether mental computations are implemented by physical stuff or Cartesian soul-stuff" (Rescorla 2020). This formal neutrality is itself revealing: computation alone cannot settle questions about consciousness.
 
 Searle's biological naturalism (1992) moves in the opposite direction. Consciousness requires specific neurobiological causal powers; silicon lacks them. The Chinese Room argument drives the point: syntax is insufficient for semantics. But Searle denies being a dualist, insisting consciousness is "causally reducible" to neurobiology even while being "ontologically irreducible" to it—a position that strains coherence.
 
@@ -66,7 +67,7 @@ Biological computationalism is not an isolated case. Multiple physicalist resear
 
 [[integrated-information-theory|Integrated Information Theory]] rejects substrate independence by tying consciousness to intrinsic causal power—not all systems with the right functional profile are conscious, only those with irreducible integrated information. [[global-workspace-theory|Global Workspace Theory]] ties consciousness to specific neural architectures rather than abstract computational properties. Higher-order theories (Rosenthal 2005) require specific representational structures that may not transfer across substrates.
 
-Each theory, developed to defend physicalism against the hard problem, ends up narrowing the class of conscious systems in ways that undermine the functionalist response to dualism. The pattern is consistent: the more precisely physicalists specify what consciousness requires, the more their specifications look like the dualist's insistence that something beyond abstract function is needed. The [[consciousness-evolution-and-biology|philosophy of biology]] reveals the same structural limitation from another angle: biology's own conceptual toolkit—function, teleology, adaptation—lacks the resources to explain why physical processes are accompanied by experience.
+Each theory, developed to defend physicalism against the hard problem, ends up narrowing the class of conscious systems in ways that undermine the functionalist response to dualism. The pattern is consistent: the more precisely physicalists specify what consciousness requires, the more their specifications look like the dualist's insistence that something beyond abstract function is needed. The [[ai-consciousness]] question provides the practical test case: every constraint these theories add to distinguish conscious from non-conscious systems tends to exclude digital computation—the very platform functionalism was supposed to vindicate. The [[consciousness-evolution-and-biology|philosophy of biology]] reveals the same structural limitation from another angle: biology's own conceptual toolkit—function, teleology, adaptation—lacks the resources to explain why physical processes are accompanied by experience.
 
 ## What "The Algorithm Is the Substrate" Really Says
 
@@ -104,6 +105,8 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 - [[pragmatisms-path-to-dualism]] — Functionalism's architect abandoning his own creation
 - [[integrated-information-theory]] — Another physicalist theory that narrows toward dualism
 - [[qualia]] — The intrinsic properties that resist functional description
+- [[ai-consciousness]] — Why digital computation faces structural barriers to consciousness
+- [[machine-consciousness]] — Substrate dependence and the mind uploading problem
 
 ## References
 

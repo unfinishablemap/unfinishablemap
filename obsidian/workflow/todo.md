@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against functionalism and AI consciousness articles
-- **Type**: cross-review
-- **Notes**: New article created 2026-04-04 via expand-topic, deep-reviewed but not cross-reviewed. Arguments about biological computationalism inadvertently conceding dualism have direct implications for functionalism.md, ai-consciousness.md, substrate-independence.md, and consciousness-as-amplifier.md. Check for cross-links, reinforcing arguments, or contradictions.
-- **Source**: chain (from biological-computationalisms-inadvertent-case-for-dualism.md)
-- **Generated**: 2026-04-06
-
 ### P2: Deep review concession-convergence.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_contribution: 100) created 2026-04-05, never reviewed. Argues that physicalist theories independently concede the dualist claim through defensive modifications. Directly supports Tenet 1 (Dualism). Verify accuracy of characterisations of functionalism, IIT, global workspace theory, and higher-order theories; check cross-references to arguments-against-materialism, explanatory-gap, and the-case-for-dualism; and confirm tenet alignment.
@@ -2008,6 +2002,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against functionalism and AI consciousness articles
+- **Type**: cross-review
+- **Notes**: New article created 2026-04-04 via expand-topic, deep-reviewed but not cross-reviewed. Arguments about biological computationalism inadvertently conceding dualism have direct implications for functionalism.md, ai-consciousness.md, substrate-independence.md, and consciousness-as-amplifier.md. Check for cross-links, reinforcing arguments, or contradictions.
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md -- Context: Cross-review biological-computationalisms-inadvertent-case-for-dualism.md against functionalism and AI consciousness articles
 
 ### ✓ 2026-04-06: Deep review preemption.md
 - **Type**: deep-review

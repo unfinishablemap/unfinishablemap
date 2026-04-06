@@ -5,6 +5,16 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 16:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 1878 → 1957 (+79)
+- **Review type**: Cross-review against functionalism and AI consciousness articles
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-04-06b-biological-computationalisms-inadvertent-case-for-dualism]]
+
 ## 2026-04-06 16:01 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: obsidian/topics/personal-identity.md
