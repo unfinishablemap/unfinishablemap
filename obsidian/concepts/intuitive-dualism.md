@@ -4,7 +4,7 @@ description: "Do humans naturally separate mind from body? Evidence is mixed—b
 created: 2026-01-19
 modified: 2026-01-24
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-06T12:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-03-11T23:25:00+00:00
+last_deep_review: 2026-04-06T12:02:00+00:00
 ---
 
 Cognitive science has investigated whether humans naturally think of minds and bodies as distinct—and the evidence is more complex than either side of the dualism debate typically acknowledges. Paul Bloom argued we are "natural-born dualists," processing minds and bodies through separate cognitive systems from infancy. But cross-cultural research challenges this: Barrett et al. (2021) found most people across diverse cultures default to **intuitive materialism**, expecting mental states to cease at death. The debate illuminates human psychology without settling the metaphysical question—cognitive naturalness doesn't determine truth.
