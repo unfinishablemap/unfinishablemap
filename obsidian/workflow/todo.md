@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06T11:12:00+00:00
+ai_modified: 2026-04-06T13:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Research invertebrate consciousness for interface test case
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Map's interface model needs to address whether consciousness couples through radically different neural architectures. Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) and corvid cognition (different pallial organisation) are striking test cases. Research convergent evolution of neural correlates of consciousness, distributed vs centralised nervous systems, and what these imply for Tenet 2 (minimal quantum interaction). Feeds into existing P3 expand-topic task on invertebrate consciousness. Target section: topics/ (224/230, 6 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-06
+
+### P2: Research phenomenology of resistance across domains
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Physical resistance (objects pushing back), logical necessity (constraints on thought), moral obligation (binding action), aesthetic standards (judging creation) — these share a common phenomenal signature of encountering something independent of the will. Research whether this convergence reveals a common interface mechanism. Key sources: Husserl on resistance, Scheler on value-resistance, Gibson on affordances, Peacocke on rational compulsion. Feeds into existing P3 expand-topic task on phenomenology of resistance and constraint. Target section: topics/.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-06
+
+### P2: Deep review sleep-consciousness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-02, never deep-reviewed — over 2 months without any review. Voids article on the limits of consciousness during sleep. Verify coherence, accuracy of sleep science claims, cross-references to dream-consciousness and altered-states-of-consciousness, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-17 — 48 days ago. Concepts article on Whitehead's subjective aim — a key concept for the Map's process-philosophy connections. Verify coherence, accuracy of Whiteheadian claims, cross-references to process-philosophy and prehension, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review preemption.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-03-01 — 36 days ago. Concepts article on causal preemption in the mental causation debate. Verify coherence, accuracy of philosophical claims about overdetermination and preemption, cross-references to mental-causation-and-downward-causation and consciousness-and-causal-powers, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
 
 ### P3: Write article on phenomenology of perceptual learning
 - **Type**: expand-topic
