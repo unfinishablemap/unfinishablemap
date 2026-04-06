@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06T03:32:00+00:00
+ai_modified: 2026-04-06T06:22:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on consciousness and language under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-and-language-under-dualism-2026-04-04.md. Covers private language arguments, ineffability of qualia, language as interface channel, and LLM consciousness implications. Target section: topics/ (226/230, 4 slots remaining).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-06
+
+### P2: Cross-review filter-theory.md and baseline-cognition.md considering bandwidth-constraints insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/bandwidth-constraints-conscious-processing.md created 2026-04-06. The 10-bit/s conscious bandwidth constraint has direct implications for filter-theory.md (bandwidth as filter signature) and baseline-cognition.md (conscious bandwidth sets the ceiling for what consciousness adds). Check for cross-links, reinforcing arguments, or contradictions.
+- **Source**: chain (from bandwidth-constraints-conscious-processing.md)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review phenomenological-method-and-evidence-standards.md considering clinical-evidence-quality-standards insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/clinical-evidence-quality-standards-consciousness-research.md created 2026-04-06. The evidence quality framework should be cross-referenced in phenomenological-method-and-evidence-standards.md (shared evidence methodology) and clinical-neuroplasticity-evidence-for-bidirectional-causation.md (clinical claims need quality grading). Check for consistency in evidence standards across articles.
+- **Source**: chain (from clinical-evidence-quality-standards-consciousness-research.md)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review simulation.md and consciousness-and-probability-interpretation.md considering many-worlds-argument concept
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/many-worlds.md updated 2026-04-06 with dedicated argument catalogue. Review simulation.md (MWI section uses circular reasoning per pessimistic review — may need alignment with the concept page's argument structure) and consciousness-and-probability-interpretation.md (probability interpretation under MWI directly relevant). Add cross-links and ensure argument consistency.
+- **Source**: chain (from concepts/many-worlds.md)
+- **Generated**: 2026-04-06
+
+### P2: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Never deep-reviewed. Topics article arguing biological computationalism inadvertently concedes the dualist claim by rejecting substrate independence. Verify accuracy of Milinkovic-Aru biological computationalism characterisation, coherence, cross-references to functionalism and ai-consciousness, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review pragmatism-and-qbism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-04 via expand-topic from research/qbism-pragmatist-quantum-foundations-2026-04-04.md. Never deep-reviewed. Topics article on the convergence between pragmatist philosophy and QBist quantum foundations. Cross-review already queued but no comprehensive review. Verify accuracy of QBism characterisation (Fuchs, Healey), coherence of pragmatism-QBism connection, cross-references to born-rule-and-the-consciousness-interface and pragmatisms-path-to-dualism, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
 
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
