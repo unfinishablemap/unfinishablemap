@@ -4,7 +4,7 @@ description: "Apes have culture but may not know they have culture. The gap betw
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-28T02:27:00+00:00
+ai_modified: 2026-04-06T20:07:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-03-11T23:41:00+00:00
+last_deep_review: 2026-04-06T20:07:00+00:00
 ---
 
 Apes have culture but may not know they have culture. This is the Jourdain Hypothesis, named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who discovers to his astonishment that he has been speaking prose all his life. The hypothesis, articulated by Andrew Whiten (2015), captures a crucial distinction: having mental states versus representing oneself as having them. Great apes possess cultural traditions—tool-use techniques, grooming patterns, food preferences that vary between groups—but may not represent these as "our way of doing things" subject to deliberate evaluation and modification.
@@ -113,7 +113,7 @@ No analogous phenomenon has been documented in great apes. They may feel uncerta
 
 ### For Cumulative Culture
 
-Cumulative culture—the ratchet effect where innovations build on innovations—requires metarepresentation. To improve a tool, you must represent the tool-making process *as* a process that could be done differently. To transmit an improvement, you must communicate not just the technique but its relationship to prior techniques: "this is better than the old way." Without the Jourdain transition, culture stays within Tomasello's "zone of latent solutions"—achievements within the space reachable by individual cognition, but no systematic accumulation beyond it.
+Cumulative culture—the ratchet effect where innovations build on innovations—requires metarepresentation. To improve a tool, you must represent the tool-making process *as* a process that could be done differently. To transmit an improvement, you must communicate not just the technique but its relationship to prior techniques: "this is better than the old way." Without the Jourdain transition, culture stays within the "zone of latent solutions" (Tennie, Call & Tomasello 2009)—achievements within the space reachable by individual cognition, but no systematic accumulation beyond it.
 
 This suggests that human civilization's trajectory depends on a cognitive capacity apes lack. If that capacity requires phenomenal consciousness, then consciousness is doing causal work at civilizational scale—not merely generating private experiences but enabling the cumulative knowledge that built cities, science, and philosophy itself.
 
@@ -198,6 +198,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 ## References
 
 1. Molière (1670). *Le Bourgeois Gentilhomme*.
+1. Tennie, C., Call, J. & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Tomasello, M. (2019). *Becoming Human: A Theory of Ontogeny*. Harvard University Press.
 1. Whiten, A. (2015). Apes have culture but may not know that they do. *Frontiers in Psychology*, 6, 91.

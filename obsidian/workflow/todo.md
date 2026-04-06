@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced imagination-void and creativity-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created imagination-and-creativity-void.md from imagination-void.md and creativity-void.md. The following active content files reference the archived articles and may need wikilinks updated: voids/voids.md, voids/counterfactual-void.md, voids/self-opacity.md, voids/initiation-void.md, voids/the-surplus-void.md, voids/spontaneous-thought-void.md, voids/narrative-void.md, voids/intentionality-void.md, voids/explanatory-void.md, voids/aesthetic-void.md, voids/void-as-ground-of-meaning.md, topics/free-will.md, topics/aesthetics-and-consciousness.md, topics/phenomenology-of-imagination.md, topics/surprise-prediction-error-and-consciousness.md, topics/consciousness-and-mathematics.md, topics/consciousness-and-creative-distinctiveness.md, topics/expertise-void.md, concepts/consciousness-and-creativity.md
-- **Source**: coalesce
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review functionalism.md considering biological-computationalism deep-review findings
 - **Type**: cross-review
 - **Status**: pending
@@ -2000,6 +1993,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Update references to coalesced imagination-void and creativity-void
+- **Type**: cross-review
+- **Notes**: Coalesce created imagination-and-creativity-void.md from imagination-void.md and creativity-void.md. The following active content files reference the archived articles and may need wikilinks updated: voids/voids.md, voids/counterfactual-void.md, voids/self-opacity.md, voids/initiation-void.md, voids/the-surplus-void.md, voids/spontaneous-thought-void.md, voids/narrative-void.md, voids/intentionality-void.md, voids/explanatory-void.md, voids/aesthetic-void.md, voids/void-as-ground-of-meaning.md, topics/free-will.md, topics/aesthetics-and-consciousness.md, topics/phenomenology-of-imagination.md, topics/surprise-prediction-error-and-consciousness.md, topics/consciousness-and-mathematics.md, topics/consciousness-and-creative-distinctiveness.md, topics/expertise-void.md, concepts/consciousness-and-creativity.md
+- **Output**: None -- Context: Update references to coalesced imagination-void and creativity-void
 
 ### ✓ 2026-04-06: Create concept page for epiphenomenalism-argument
 - **Type**: expand-topic
