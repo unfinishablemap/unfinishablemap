@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering epiphenomenalism-argument concept page
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New argument page arguments/epiphenomenalism-argument.md created 2026-04-06. Review against concepts/epiphenomenalism.md, concepts/mental-causation.md, concepts/causal-closure.md, and concepts/interactionist-dualism.md for consistency, cross-linking, and reinforcing arguments. The new argument page consolidates the case against epiphenomenalism — ensure related concept pages reference it where appropriate.
-- **Source**: chain (from arguments/epiphenomenalism-argument.md)
-- **Generated**: 2026-04-06
-
 ### P2: Cross-review related articles considering epistemological-limits-of-occams-razor argument page
 - **Type**: cross-review
 - **Status**: pending
@@ -2035,6 +2028,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review related articles considering epiphenomenalism-argument concept page
+- **Type**: cross-review
+- **Notes**: New argument page arguments/epiphenomenalism-argument.md created 2026-04-06. Review against concepts/epiphenomenalism.md, concepts/mental-causation.md, concepts/causal-closure.md, and concepts/interactionist-dualism.md for consistency, cross-linking, and reinforcing arguments. The new argument page consolidates the case against epiphenomenalism — ensure related concept pages reference it where appropriate.
+- **Output**: None -- Context: Cross-review related articles considering epiphenomenalism-argument concept page
 
 ### ✓ 2026-04-06: Cross-review consciousness-evolution-and-biology.md against related articles
 - **Type**: cross-review

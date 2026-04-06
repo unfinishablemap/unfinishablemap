@@ -4,7 +4,7 @@ description: "Working memory manipulation requires consciousness while maintenan
 created: 2026-01-17
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-06T22:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-03-11T21:51:00+00:00
+last_deep_review: 2026-04-06T22:03:00+00:00
 coalesced_from:
   - "/concepts/working-memory/"
   - "/topics/working-memory-as-consciousness-amplifier/"
@@ -70,7 +70,7 @@ This maps onto the Map's framework:
 
 ## The Capacity Gap
 
-Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity, creating substantial increases in computational possibility. The [[consciousness-and-intelligence|consciousness threshold]] hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
+Chimpanzee working memory holds approximately 2±1 items (Inoue & Matsuzawa 2007 on numerical sequence tasks). Miller (1956) famously estimated human working memory at 7±2 items, though Cowan (2001) revised this to approximately 4±1 items for pure capacity without chunking strategies. Even the conservative estimate represents a two-to-three-fold expansion over great ape capacity. The [[consciousness-and-intelligence|consciousness threshold]] hypothesis treats this capacity gap as evidence for a phase transition in cognitive evolution.
 
 With 2 items, you can compare them. With 4-7 items, you can hold multiple comparisons simultaneously, track intermediate results, and manipulate nested structures. The difference is combinatorial: even four items yield six pairwise comparisons plus the ability to hold some comparisons in mind while making further comparisons.
 
@@ -158,7 +158,7 @@ Some clarifications:
 
 The [[illusionism|illusionist]] offers a deflationary reading: the maintenance/manipulation distinction merely shows that stronger neural activation is needed for certain operations, not that consciousness contributes anything special.
 
-This faces the standard regress. If manipulation merely *seems* to require consciousness, something must be doing the seeming. The felt effort of mental arithmetic, the sense of holding items against decay—these experiences cannot themselves be illusions without invoking a further level of experience. The [[philosophical-zombies|zombie reformulation]] applies: a zombie could perform WM operations functionally, but the phenomenal character of effortful cognition seems constitutive, not epiphenomenal.
+This faces the standard regress. If manipulation merely *seems* to require consciousness, something must be doing the seeming. The felt effort of mental arithmetic, the sense of holding items against decay—these experiences cannot themselves be illusions without invoking a further level of experience. The [[philosophical-zombies|zombie reformulation]] applies: a zombie could perform WM operations functionally, but the phenomenal character of effortful cognition seems constitutive, not [[epiphenomenalism|epiphenomenal]].
 
 ## Relation to Site Tenets
 
@@ -200,6 +200,7 @@ None currently obtains. The asymmetry persists across studies; binding remains c
 - [[prospective-memory]] — Future-oriented cognition and WM manipulation
 - [[phenomenal-overflow]] — Whether experience exceeds WM access
 - [[consciousness-and-memory]] — Broader relationship between consciousness and memory systems
+- [[epiphenomenalism]] — Why the maintenance/manipulation asymmetry challenges causal inertness
 - [[consciousness-working-memory-2026-01-17]] — Detailed research notes
 
 ## References
