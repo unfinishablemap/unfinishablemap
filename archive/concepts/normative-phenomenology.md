@@ -32,6 +32,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
+archived: true
+archived_date: 2026-04-06T13:58:00+00:00
+superseded_by: "/concepts/evaluative-phenomenal-character/"
+archive_reason: "Coalesced into Evaluative Phenomenal Character"
+original_path: "/concepts/normative-phenomenology/"
 ---
 
 Normative phenomenology is the systematic first-person investigation of how normative properties—moral obligation, epistemic compellingness, aesthetic value, prudential weight—present themselves in conscious experience. Where [[phenomenology]] investigates the structures of experience in general, normative phenomenology applies the phenomenological method specifically to the evaluative dimension: what does it feel like to encounter a demand, perceive an obligation, or recognise beauty? The Unfinishable Map holds that this method is central to understanding normativity. If [[phenomenal-normativity]] is correct—if normativity is built into the phenomenal character of certain experiences—then first-person investigation provides primary access to normative reality that third-person methods cannot replace.

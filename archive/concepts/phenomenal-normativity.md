@@ -43,6 +43,11 @@ last_curated:
 coalesced_from:
   - "/concepts/phenomenal-normativity/"
   - "/concepts/concept-of-phenomenal-value-realism/"
+archived: true
+archived_date: 2026-04-06T13:58:00+00:00
+superseded_by: "/concepts/evaluative-phenomenal-character/"
+archive_reason: "Coalesced into Evaluative Phenomenal Character"
+original_path: "/concepts/phenomenal-normativity/"
 ---
 
 Phenomenal normativity is the view that certain phenomenal experiences carry intrinsic normative force built into their very phenomenal character. Pain is bad not because we judge it bad or because evolution programmed us to avoid it, but because badness is constitutive of what pain feels like. Pleasure is good because goodness is manifest in the experience itself. This claim grounds [[topics/phenomenal-value-realism]]—the metaethical position that intrinsic value is a feature of conscious experience, and without conscious experience, nothing has intrinsic worth.

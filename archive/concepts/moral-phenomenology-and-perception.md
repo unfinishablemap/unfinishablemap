@@ -41,6 +41,11 @@ last_deep_review: 2026-03-25T09:43:00+00:00
 coalesced_from:
   - "/concepts/moral-perception/"
   - "/concepts/moral-phenomenology/"
+archived: true
+archived_date: 2026-04-06T13:58:00+00:00
+superseded_by: "/concepts/evaluative-phenomenal-character/"
+archive_reason: "Coalesced into Evaluative Phenomenal Character"
+original_path: "/concepts/moral-phenomenology-and-perception/"
 ---
 
 Moral experience has distinctive phenomenal character that resists reduction to physical or functional description. Wrongness, obligation, admiration, and guilt each feel like something specific, and these felt qualities—instances of [[evaluative-qualia]]—provide primary data about the evaluative structure of consciousness. The Unfinishable Map holds that moral phenomenology matters for the same reason sensory phenomenology matters: the [[explanatory-gap]] between neural activation and felt experience extends into the moral domain, providing further evidence that consciousness is irreducible to physical processes.

@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 13:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[phenomenal-normativity]], [[evaluative-qualia]], [[normative-phenomenology]], [[moral-phenomenology-and-perception]]
+- **Target**: [[evaluative-phenomenal-character]]
+- **Archived**: archive/concepts/phenomenal-normativity.md, archive/concepts/evaluative-qualia.md, archive/concepts/normative-phenomenology.md, archive/concepts/moral-phenomenology-and-perception.md
+- **References to review**: 37 active content files (cross-review task created as P2)
+
 ## 2026-04-06 13:32 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[phenomenal-non-compositionality]], [[inventory-blindness]], [[ai-epiphenomenalism]], [[cross-cultural-convergence-on-mental-causation]]

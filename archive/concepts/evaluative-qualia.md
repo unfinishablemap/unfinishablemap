@@ -33,6 +33,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-27
 last_curated:
+archived: true
+archived_date: 2026-04-06T13:58:00+00:00
+superseded_by: "/concepts/evaluative-phenomenal-character/"
+archive_reason: "Coalesced into Evaluative Phenomenal Character"
+original_path: "/concepts/evaluative-qualia/"
 ---
 
 Evaluative qualia are phenomenal experiences whose qualitative character is intrinsically evaluative—carrying felt goodness, badness, beauty, ugliness, rightness, or wrongness as part of what it is like to have them. Where standard discussions of [[qualia]] focus on sensory properties (the redness of red, the painfulness of pain), evaluative qualia isolate a distinct phenomenal dimension: the value-character that pervades much of conscious experience but resists reduction to either sensation or judgment. The Unfinishable Map holds that evaluative qualia extend the hard problem of consciousness into the domain of value, demonstrating that what physics cannot capture about experience includes not only qualitative character but normative significance.
