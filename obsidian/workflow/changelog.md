@@ -5,6 +5,11 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 18:51 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: epistemological-limits-of-occams-razor
+- **Notes**: Task requested concept page for epistemological-limits-of-occams-razor, but topic already has comprehensive coverage across three articles: [[epistemological-limits-of-occams-razor]] (arguments), [[parsimony-epistemology]] (concepts), and [[epistemological-limits-occams-razor]] (voids). Slug also collides with the existing arguments article. Marked task complete.
+
 ## 2026-04-06 18:48 UTC - coalesce
 - **Status**: Abandoned — no strong merge candidates found
 - **Notes**: Searched voids (101/100, over cap), topics (223/230), and concepts (221/230). Examined clusters: cognitive-limits (4 articles, distinct dimensions), opacity pair (self-opacity vs necessary-opacity, explicitly differentiated), void-explorers (AI vs alien, distinct domains), ethics (applied vs theoretical foundations), phenomenology-of-X (each covers distinct aspect), quantum measurement (3 articles, well-differentiated). All articles examined were sufficiently distinct to warrant separate treatment.
