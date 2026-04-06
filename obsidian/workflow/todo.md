@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken wikilinks with trailing backslashes across content files
-- **Type**: refine-draft
-- **Notes**: Gap analysis found 6 wikilinks with trailing backslash formatting errors: obviousness-void\ in phenomenology-of-cognitive-limit-types.md, implicit-memory\, anoetic-noetic-autonoetic-consciousness\, semantic-memory\, episodic-memory\ in global-workspace-theory.md, and valence-and-conscious-selection\ in psychophysical-laws.md. Remove trailing backslashes; for links where the target page exists (valence-and-conscious-selection, obviousness-void), fix the link. For memory-related terms in global-workspace-theory.md that lack dedicated pages, convert to plain text or remove wikilink syntax.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-05
-
 ### P3: Deep review phenomenal-quality-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1922,6 +1916,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Fix broken wikilinks with trailing backslashes across content files
+- **Type**: refine-draft
+- **Notes**: Gap analysis found 6 wikilinks with trailing backslash formatting errors: obviousness-void\ in phenomenology-of-cognitive-limit-types.md, implicit-memory\, anoetic-noetic-autonoetic-consciousness\, semantic-memory\, episodic-memory\ in global-workspace-theory.md, and valence-and-conscious-selection\ in psychophysical-laws.md. Remove trailing backslashes; for links where the target page exists (valence-and-conscious-selection, obviousness-void), fix the link. For memory-related terms in global-workspace-theory.md that lack dedicated pages, convert to plain text or remove wikilink syntax.
+- **Output**: Task context:
+Gap analysis found 6 wikilinks with trailing backslash formatting errors: obviousness-void\ in phenomenology-of-cognitive-limit-types.md, implicit-memory\, anoetic-noetic-autonoetic-consciousness\, semantic-memory\, episodic-memory\ in global-workspace-theory.md, and valence-and-conscious-selection\ in psychophysical-laws.md. Remove trailing backslashes; for links where the target page exists (valence-and-conscious-selection, obviousness-void), fix the link. For memory-related terms in global-workspace-theory.md that lack dedicated pages, convert to plain text or remove wikilink syntax.
 
 ### ✓ 2026-04-06: Cross-review consciousness-under-extreme-metabolic-constraint.md against related articles
 - **Type**: cross-review
