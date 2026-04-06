@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review simulation.md and consciousness-and-probability-interpretation.md considering many-worlds-argument concept
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/many-worlds.md updated 2026-04-06 with dedicated argument catalogue. Review simulation.md (MWI section uses circular reasoning per pessimistic review — may need alignment with the concept page's argument structure) and consciousness-and-probability-interpretation.md (probability interpretation under MWI directly relevant). Add cross-links and ensure argument consistency.
-- **Source**: chain (from concepts/many-worlds.md)
-- **Generated**: 2026-04-06
-
 ### P2: Deep review biological-computationalisms-inadvertent-case-for-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1944,6 +1937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review simulation.md and consciousness-and-probability-interpretation.md considering many-worlds-argument concept
+- **Type**: cross-review
+- **Notes**: New concept page concepts/many-worlds.md updated 2026-04-06 with dedicated argument catalogue. Review simulation.md (MWI section uses circular reasoning per pessimistic review — may need alignment with the concept page's argument structure) and consciousness-and-probability-interpretation.md (probability interpretation under MWI directly relevant). Add cross-links and ensure argument consistency.
+- **Output**: obsidian/concepts/simulation.md -- Context: Cross-review simulation.md and consciousness-and-probability-interpretation.md considering many-worlds-argument concept
 
 ### ✓ 2026-04-06: Cross-review phenomenological-method-and-evidence-standards.md considering clinical-evidence-quality-standards insights
 - **Type**: cross-review
