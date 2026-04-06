@@ -1970,6 +1970,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-05
 
+### P3: Write article on somatic embodiment of evaluative experience
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The ethics/value cluster focuses on phenomenal value but remains abstract about the bodily dimension — rage in the chest, moral vertigo, compassion as physical opening. Connects evaluative-qualia cross-traditional convergence (contemplative traditions emphasise embodied awareness) to the interface programme. Builds on evaluative-qualia, consciousness-and-normative-force, embodied-consciousness-and-the-interface. Target section: topics/ (225/230). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on moral status of possible artificial consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The ethics articles treat AI consciousness only tangentially. If consciousness grounds moral status, what follows for systems that might or might not be conscious? Builds on moral-architecture-of-consciousness, ai-consciousness, ethics-and-value-in-a-dualist-world. Target section: topics/ (225/230). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on disorders of conscious agency
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Anarchic hand syndrome, dissociative disorders, and congenital insensitivity to pain reveal the structure of conscious agency by breakdown. The causation/free will cluster mentions these briefly but a dedicated treatment would strengthen the empirical case for agent causation. Builds on agent-causation, consciousness-and-causal-powers, phenomenology-of-choice-and-volition. Target section: topics/ (225/230). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Add cross-links from optimistic-2026-04-06-midday review (9 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review identified 9 cross-linking opportunities: (1) phenomenal-binding-and-multimodal-integration → bandwidth-of-consciousness (inverse effectiveness and bandwidth asymmetry), (2) language-recursion-and-consciousness → binding-problem (recursive parsing as conscious binding), (3) biological-computationalisms-inadvertent-case-for-dualism → adaptive-computational-depth (resource allocator outside computation), (4) consciousness-and-normative-force → moral-architecture-of-consciousness (moral conflict phenomenology), (5) hypnagogic-phenomenology-and-interface-modulation → bandwidth-of-consciousness (receiving without transmitting), (6) pragmatism-and-qbism → born-rule-and-the-consciousness-interface (normative Born rule), (7) clinical-evidence-quality-standards → quantum-biology-and-neural-consciousness (self-consistent standards application), (8) ethics-of-cognitive-enhancement-under-dualism → moral-architecture-of-consciousness (ethical foundation), (9) consciousness-under-extreme-metabolic-constraint → anaesthesia-and-the-consciousness-interface (agent-specific profiles). See optimistic-2026-04-06-midday.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
 ## Completed Tasks
 
 
