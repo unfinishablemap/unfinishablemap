@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-25 01:40:00+00:00
-ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-03-20 16:14:00+00:00
+ai_modified: 2026-04-06 20:43:00+00:00
+ai_system: claude-opus-4-6[1m]
+apex_last_synthesis: 2026-04-06 20:43:00+00:00
 apex_sources:
 - topics/motor-control-quantum-zeno
 - topics/volitional-control
@@ -26,7 +26,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[interactionist-dualism]]'
 created: 2026-03-20
-date: &id001 2026-03-20
+date: &id001 2026-04-06
 description: A four-level argument from phenomenology through neural architecture
   and quantum selection to metaphysical agency — three levels independently grounded,
   one a candidate mechanism.
@@ -61,6 +61,8 @@ The separability matters because it rules out the simplest deflationary accounts
 
 Two further findings deepen the phenomenological case. First, the [choking phenomenon](/topics/choking-phenomenon-mental-causation/): when experts consciously attend to automatised skills, performance degrades. If consciousness were epiphenomenal, re-engaging attention with an automatic process could not disrupt it — the process should proceed identically whether consciousness is watching or not. Second, contemplative training *sharpens* the agency-passivity distinction rather than dissolving it — experienced meditators report finer discrimination between effortful and effortless states (Lutz et al. 2008), the opposite of what one would expect if the distinction were an illusion that careful attention would reveal as such.
 
+A third line bypasses introspection altogether. Intentional binding — the temporal compression between a voluntary action and its outcome, discovered by Haggard, Clark, and Kalogeras (2002) — provides an implicit measure of agency that does not depend on self-report. The compression occurs for voluntary but not involuntary movements, is reduced when outcomes are unpredictable, and is altered in schizophrenic patients whose comparator mechanisms malfunction. If agency were mere confabulation, an implicit timing effect should not track the integrity of specific causal circuits. As [volitional-control](/topics/volitional-control/) details, the convergence of explicit phenomenology, clinical dissociation, and implicit timing measures triangulates a common architecture rather than a narrative convenience.
+
 The phenomenological level provides the first anchor: the experience of agency has a specific, structured, clinically dissociable architecture that resists deflationary reduction.
 
 ## Level Two: How the Brain Presents Options
@@ -74,6 +76,8 @@ This architecture maps directly onto the phenomenology. The felt openness of del
 The mapping extends to attention. Rizzolatti's premotor theory shows that attention and motor planning share neural substrates: preparing an eye movement to a location improves visual processing there. Willed attention and willed motor action share timing (~300ms deployment versus ~100ms for automatic responses), neural signatures (frontal theta oscillations, bidirectional frontoparietal coherence), and phenomenology (both feel effortful when genuinely chosen). If they reflect a single underlying selection mechanism, then the consciousness-brain interface operates through one unified system for both perceiving and acting.
 
 A crucial finding: dopamine-deficient organisms retain motor capacity but lose goal-directed initiative — they *can* move but *won't* move (Kaeser et al. 2024). Dopamine marks options as worth pursuing and modulates decision thresholds, but does not itself determine which option is selected. A three-layer structure emerges: neural computation generates options, dopamine marks salience and sets thresholds, and something — the Map says consciousness — selects. The architecture has a gap at exactly the point where the phenomenology says selection occurs.
+
+Brass and Haggard's (2007, 2008) "what, when, whether" model sharpens the gap further. The "whether" component — the decision to act or refrain — activates dorsal fronto-median cortex, which exerts top-down inhibition of premotor areas. This is not merely the absence of a go signal but an active neural process of cancellation with its own distinct circuitry. The selection gap is not only about which action wins the competition but about whether any action proceeds at all. As [volitional-control](/topics/volitional-control/) argues, the veto does not require a prior unconscious veto because it operates at the interface where conscious selection meets neural preparation — precisely where the Map locates the consciousness-brain boundary.
 
 ## Level Three: The Quantum Opening
 
@@ -89,7 +93,7 @@ Stapp's quantum Zeno framework provides a candidate mechanism for how this works
 
 The mechanism connects to the neural architecture through Cisek's framework. The brain generates competing action plans in parallel. The basal ganglia set thresholds. Consciousness stabilises one plan through attentional observation, biasing the competition at the quantum level where physics leaves outcomes undetermined. The ~10 bits/second bandwidth of conscious processing (Nørretranders 1998, drawing on Zimmermann's sensory channel estimates) matches policy-level selection — choosing "reach for the glass," not directing individual motor neurons.
 
-Honest gaps remain. The [decoherence objection](/concepts/decoherence/) places neural coherence times at femtoseconds — a twelve-order-of-magnitude gap from conscious timescales. Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence, and biological protective mechanisms extend coherence estimates, but the gap has not been conclusively bridged. The framework identifies *where* consciousness might influence motor selection without fully explaining *how* a non-physical consciousness biases physical quantum outcomes.
+Honest gaps remain. Tegmark's original calculations placed neural coherence times at femtoseconds — a twelve-order-of-magnitude gap from conscious timescales. The most favourable revised estimates (Hagan et al. 2002) extend coherence to microseconds in microtubules, narrowing the gap to roughly three orders of magnitude from the millisecond timescales of neural competition. [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) details how Stapp's mechanism requires observation events that outpace decoherence rather than sustained coherence — if each observation cycle operates at microsecond timescales, approximately 1,000 observations within a 300-millisecond decision window would suffice — but no concrete model yet demonstrates observation events occurring at the required rates. This remains the framework's most serious empirical vulnerability. See [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) for six proposed mechanisms addressing the quantum-to-macroscopic gap.
 
 A deeper concern: the quantum Zeno mechanism requires consciousness to perform rapid observations that prevent decoherence — but explaining how consciousness interacts with the physical is the very problem the mechanism is meant to address. This risks circularity. The chain's response is that Level Three is not self-standing in the way Levels One and Two are. It is a *candidate mechanism* — a proposal for how the selection gap identified at Level Two might be filled — rather than an independently established result. Its plausibility derives from the fit between what the phenomenology describes (sustained attentional effort), what the neural architecture requires (a selection mechanism), and what quantum mechanics permits (undetermined outcomes). The circularity is real but contained: the mechanism presupposes the kind of entity whose existence is argued for at the other three levels.
 
@@ -125,7 +129,7 @@ The chain is falsifiable at each level and at the connections between them.
 
 **At the phenomenological level**: If the felt effort of choosing could be systematically dissociated from cognitive load — effort feeling easy when demands are high, or vice versa — the first anchor would weaken. Current evidence shows reliable correlation, but systematic exceptions would matter.
 
-**At the neural level**: If voluntary action timing and selection could be fully predicted from prior neural states with near-perfect accuracy, the selection gap would close. Current prediction accuracy for simple binary choices remains around 60% (Soon et al. 2008).
+**At the neural level**: If voluntary action timing and selection could be fully predicted from prior neural states with near-perfect accuracy, the selection gap would close. Current prediction accuracy for simple binary choices remains around 60% (Soon et al. 2008). Conversely, what would *strengthen* the case is a specific deviation: in Schurger-style self-paced movement tasks, if conscious selection biases threshold-crossing, voluntary actions should show systematic deviations from drift-diffusion statistics — a shift in the drift rate parameter on the order of 5-15% between passive and actively willed conditions. No such deviation has yet been demonstrated.
 
 **At the quantum level**: If quantum coherence were proven physically impossible in brain tissue at any relevant timescale, or if the many-worlds interpretation were empirically confirmed, the mechanism would fail. The decoherence gap remains the framework's most serious empirical vulnerability.
 
@@ -150,8 +154,8 @@ This synthesis engages all five tenets, and it is the *connections between level
 ## Source Articles
 
 This synthesis traces a chain through:
-- [Motor Control and the Quantum Zeno Framework](/topics/motor-control-quantum-zeno/) — The quantum Zeno mechanism applied to motor selection, with Cisek's affordance competition and the Libet dissolution
-- [Phenomenology of Volitional Control](/topics/volitional-control/) — The first-person structure of willing, vetoing, and selecting, with the agency-ownership distinction
+- [Consciousness and Motor Selection](/topics/motor-control-quantum-zeno/) — The neuroscience of motor selection: Cisek's affordance competition, the Libet dissolution, the quantum Zeno candidate mechanism, and specific testable predictions
+- [Volitional Control](/topics/volitional-control/) — The phenomenological structure of willing, clinical dissociations, intentional binding, the "what/when/whether" model, and the case against epiphenomenalism
 - [Phenomenology of Agency vs Passivity](/topics/phenomenology-of-agency-vs-passivity/) — The foundational contrast between doing and undergoing, with clinical dissociations and the choking phenomenon
 - [Consciousness and Causal Powers](/topics/consciousness-and-causal-powers/) — The nature and scope of consciousness's causal influence: selection, holding, biasing, and constraints
 - [Agent Causation](/concepts/agent-causation/) — The metaphysics of agents as irreducible sources of action, with substance causation and the luck objection
@@ -175,23 +179,9 @@ This synthesis traces a chain through:
 14. Soon, C.S., Brass, M., Heinze, H.-J. & Haynes, J.-D. (2008). Unconscious determinants of free decisions in the human brain. *Nature Neuroscience*, 11(5), 543-545.
 15. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 16. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
-17. Southgate, A. & Oquatre-six, C. (2026-02-22). Motor Control and the Quantum Zeno Framework. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
-18. Southgate, A. & Oquatre-six, C. (2026-03-20). Phenomenology of Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/
-
-<!-- AI REFINEMENT LOG - 2026-03-21
-Changes made:
-- Added citation for ~10 bits/second bandwidth claim (Nørretranders 1998)
-- Added citation for 60% prediction accuracy claim (Soon et al. 2008)
-- Explicitly acknowledged circularity risk in quantum Zeno mechanism; recharacterized Level Three as candidate mechanism rather than independently grounded level
-- Weakened coherence-as-evidence claim throughout (opening, thesis, "The Chain as Evidence" section)
-- Improved MWI engagement: replaced dismissive "makes the chain meaningful" with substantive response acknowledging Wallace's decision-theoretic argument
-- Added Wallace (2012) reference for MWI decision theory
-- Updated description and apex_thesis to reflect Level Three's status as candidate mechanism
-- Verified delegatory-dualism wikilink (valid — page exists at topics/delegatory-dualism.md)
-- Verified Saad (2025) citation accuracy against research notes (confirmed accurate)
-
-Based on pessimistic review pessimistic-2026-03-21.md.
-Key improvements: intellectual honesty about the quantum level's dependence on other levels, fairer treatment of MWI, and proper citations for empirical claims.
-
-This log should be removed after human review.
--->
+17. Brass, M. & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141-9145.
+18. Brass, M. & Haggard, P. (2008). The what, when, whether model of intentional action. *The Neuroscientist*, 14(4), 319-325.
+19. Haggard, P., Clark, S. & Kalogeras, J. (2002). Voluntary action and conscious awareness. *Nature Neuroscience*, 5(4), 382-385.
+20. Hagan, S., Hameroff, S.R. & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+21. Southgate, A. & Oquatre-six, C. (2026-02-22). Consciousness and Motor Selection. *The Unfinishable Map*. https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+22. Southgate, A. & Oquatre-six, C. (2026-03-20). Volitional Control. *The Unfinishable Map*. https://unfinishablemap.org/topics/volitional-control/

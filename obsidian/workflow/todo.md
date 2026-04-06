@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06T15:50:00+00:00
+ai_modified: 2026-04-06T20:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review consciousness-and-language-under-dualism.md and philosophy-of-language-under-dualism.md for consistency
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Two closely related articles created April 4-6: topics/consciousness-and-language-under-dualism.md (Apr 6) and topics/philosophy-of-language-under-dualism.md (Apr 4). Check for consistency, add cross-links, resolve any overlapping or contradictory claims, and ensure complementary rather than redundant coverage. Also link to content-specificity-of-mental-causation and consciousness-and-intersubjectivity.
+- **Source**: chain (from expand-topic 2026-04-06)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review evaluative-phenomenal-character.md against related concept and topic articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New coalesced article concepts/evaluative-phenomenal-character.md created Apr 6 from 4 phenomenal normativity articles. Verify that references from other files have been updated, add cross-links to moral-phenomenology-and-perception, evaluative-qualia-phenomenal-normativity-across-traditions, phenomenal-authority-and-first-person-evidence, and consciousness-and-aesthetic-creation. Check for consistency with the normativity arguments across the site.
+- **Source**: chain (from coalesce 2026-04-06)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review consciousness-evolution-and-biology.md against related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New coalesced article topics/consciousness-evolution-and-biology.md created Apr 6 from two consciousness-evolution articles. Review against biological-computationalisms-inadvertent-case-for-dualism, functionalism, enactivism-challenge-to-interactionist-dualism, and consciousness-and-agency apex. Add cross-links and verify coalesce preserved key arguments from both sources.
+- **Source**: chain (from coalesce 2026-04-06)
+- **Generated**: 2026-04-06
+
+### P3: Deep review bandwidth-constraints-conscious-processing.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic from research/bandwidth-constraints-10-bits-2026-03-29.md, never reviewed. Topics article on the ~10 bits/s conscious bandwidth constraint and its interface implications. Verify accuracy of empirical bandwidth claims, coherence, cross-references to attention-as-interface-hypothesis and consciousness-as-amplifier, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P3: Deep review concession-convergence.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-05 via expand-topic, never reviewed. Concept page on convergence of concessions — how partial materialist concessions converge toward dualist conclusions. Verify coherence of the convergence argument, accuracy of attributed positions (Chalmers, Nagel, Levine, etc.), cross-references to self-stultification-as-master-argument and the-convergence-argument-for-dualism, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
 
 ### P3: Deep review constitutive-exclusion.md
 - **Type**: deep-review

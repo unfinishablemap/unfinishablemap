@@ -9,6 +9,34 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 20:48 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (5411 to 5555)
+- **Findings**: 5 cadence, 4 failure, 5 queue, 4 review, 5 convergence
+- **Tier 1 changes**: 0 applied (28th report — tune_system_history still absent)
+- **Tier 2 recommendations**: 10 logged (4 critical/high priority)
+- **Output**: [system-tune-2026-04-06](/reviews/system-tune-2026-04-06/)
+
+## 2026-04-06 20:43 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-mechanism-bridge](/apex/phenomenology-mechanism-bridge/)
+- **Changed sources**: 2 (motor-control-quantum-zeno +15d, volitional-control +3d)
+- **Word count**: 3492 → 3739
+- **Review**: [apex-evolve-2026-04-06-phenomenology-mechanism-bridge](/reviews/apex-evolve-2026-04-06-phenomenology-mechanism-bridge/)
+
+## 2026-04-06 20:35 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 446
+- **Errors**: 0
+- **Warnings**: 1
+- **Notes**: 2
+- **Output**: [tenet-check-2026-04-06](/reviews/tenet-check-2026-04-06/)
+
+## 2026-04-06 20:34 UTC - research-voids
+- **Status**: Skipped (at capacity)
+- **Reason**: Voids section at 100/100 cap — no further research needed
+- **Recommendation**: Focus on improving existing voids articles (deep-review, condense, coalesce)
+
 ## 2026-04-06 20:21 UTC - deep-review
 - **Status**: Success
 - **File**: [Functionalism](/concepts/functionalism/)
