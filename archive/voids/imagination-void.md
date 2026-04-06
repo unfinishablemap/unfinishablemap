@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-03-23T12:23:00+00:00
 last_deep_review: 2026-03-10T20:38:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-06T19:51:00+00:00
+superseded_by: "/voids/imagination-and-creativity-void/"
+archive_reason: "Coalesced into The Imagination and Creativity Void"
+original_path: "/voids/imagination-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenal-consciousness]]"
