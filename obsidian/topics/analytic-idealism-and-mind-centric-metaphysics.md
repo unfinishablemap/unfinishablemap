@@ -4,7 +4,7 @@ description: "Mapping the landscape of mind-first ontologies—from Kastrup's an
 created: 2026-02-22
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-06T09:57:00+00:00
+ai_modified: 2026-04-06T10:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-03-11T17:14:00+00:00
+last_deep_review: 2026-04-06T10:27:00+00:00
 ---
 
 If consciousness is fundamental—not something brains produce but something reality includes from the start—how should we build a metaphysics around that conviction? The Unfinishable Map, Bernardo Kastrup's analytic idealism, panpsychism, cosmopsychism, and dual-aspect monism all answer this question differently. They agree that physicalism fails. They disagree about what replaces it. The choice between these mind-centric frameworks turns on three questions: what is matter, how does causation work, and does individual identity survive?
@@ -71,13 +71,13 @@ This resembles idealism but retains physical structure as genuinely real—the c
 
 **What cosmopsychism loses:** It faces the *decombination problem*—how does unified cosmic consciousness break into apparently separate individual experiences? This mirrors the challenge Kastrup's dissociation model confronts. And it raises questions about individual significance: if your mind is merely a partial perspective on cosmic consciousness, what grounds your distinct identity and agency?
 
-## Dual-Aspect Monism: Neither Mind Nor Matter
+## Dual-Aspect Monism and Neutral Monism: Neither Mind Nor Matter
 
-Dual-aspect monism (or neutral monism) holds that reality is fundamentally neither mental nor physical. Mind and matter are two aspects of a single underlying nature—two ways of describing the same thing. Spinoza's substance, Russell's neutral monism, and some interpretations of Pauli and Jung's psychophysical complementarity fall here.
+These related views hold that reality is fundamentally neither mental nor physical, but they differ in structure. Dual-aspect monism (Spinoza) posits one substance with two irreducible aspects—mental and physical—that are always co-present. [[russellian-monism|Neutral monism]] (Russell) goes further: the basic elements are neither mental nor physical, and both mind and matter are *constructed* from arrangements of these neutral elements. Some interpretations of Pauli and Jung's psychophysical complementarity also fall in this family.
 
-**What dual-aspect monism gains:** Symmetry. Neither mind nor matter is privileged; both are derivative from something deeper. The interaction problem dissolves because mind and matter aren't separate substances trying to connect—they're aspects of one reality.
+**What these views gain:** Symmetry. Neither mind nor matter is privileged; both are derivative from something deeper. The interaction problem dissolves because mind and matter aren't separate substances trying to connect—they're aspects (or constructions) of one reality.
 
-**What dual-aspect monism loses:** Explanatory power. The "neutral" substrate is defined only negatively—neither mental nor physical—and invoking it to explain mind-matter correlations can look circular. Why does this neutral stuff have both aspects? What is its nature, if not mental and not physical? The framework sometimes substitutes a label for an explanation.
+**What these views lose:** Explanatory power. The "neutral" substrate is defined only negatively—neither mental nor physical—and invoking it to explain mind-matter correlations can look circular. Why does this neutral stuff have both aspects? What is its nature, if not mental and not physical? The framework sometimes substitutes a label for an explanation.
 
 ## The Map's Position: Dualist and Mind-Centric
 
@@ -96,7 +96,7 @@ The mind-centric frameworks divide cleanly on three questions:
 - **Idealism**: No. Matter is appearance within consciousness.
 - **Panpsychism**: Yes. Matter exists but has intrinsic experiential properties.
 - **Cosmopsychism**: Yes. The physical cosmos is real but inherently mental.
-- **Dual-aspect monism**: Neither mind nor matter exists independently; both are aspects.
+- **Dual-aspect / neutral monism**: Neither mind nor matter exists independently; both are aspects or constructions.
 - **The Map**: Yes. Matter exists distinctly from consciousness and interacts with it.
 
 ### How Does Causation Work?
@@ -104,7 +104,7 @@ The mind-centric frameworks divide cleanly on three questions:
 - **Idealism**: One portion of consciousness affects another. No cross-domain causation because there's only one domain.
 - **Panpsychism**: For Russellian panpsychists, consciousness is what physical causation *is* from the inside—intrinsic nature rather than a passenger. Constitutive panpsychism faces the [[combination-problem]] when explaining how micro-causation yields unified agency.
 - **Cosmopsychism**: Top-down from cosmic mind to individual; physical causation is a constraint within cosmic consciousness.
-- **Dual-aspect monism**: Correlations between aspects, not causation across them.
+- **Dual-aspect / neutral monism**: Correlations between aspects, not causation across them.
 - **The Map**: Genuine bidirectional causation between consciousness and physics, at quantum indeterminacies.
 
 ### Does Individual Identity Survive? (A Values Commitment)
@@ -114,7 +114,7 @@ Unlike the first two questions, this is not a neutral diagnostic — it reflects
 - **Idealism**: Derivative. Individual minds are dissociated portions of universal consciousness; individuality may be illusory.
 - **Panpsychism**: Unclear. If micro-experience is fundamental, what constitutes *your* experience as a unified individual?
 - **Cosmopsychism**: Derivative. Individual perspectives are partial views of cosmic consciousness.
-- **Dual-aspect monism**: Ambiguous. Individual subjects may be local manifestations of neutral reality.
+- **Dual-aspect / neutral monism**: Ambiguous. Individual subjects may be local manifestations of neutral reality.
 - **The Map**: Fundamental. The [[tenets#^no-many-worlds|No Many Worlds]] tenet asserts that indexical identity—*this* conscious being, *this* choice—genuinely matters.
 
 ## What's at Stake
