@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-04-06T12:47:00+00:00
+ai_modified: 2026-04-06T20:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[causal-closure]]"
+  - "[[concession-convergence]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism-argument]]"
@@ -36,12 +37,13 @@ related_articles:
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[phenomenal-non-compositionality]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-03-24T00:13:00+00:00
+last_deep_review: 2026-04-06T20:21:00+00:00
 ---
 
 Functionalism is the dominant position in contemporary [[philosophy-of-mind|philosophy of mind]]: the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
@@ -60,15 +62,13 @@ Mental states are individuated by their causal roles mediating sensory inputs, o
 
 ### Multiple Realizability
 
-The key functionalist insight: the same mental state can be realized by different physical substrates. Pain in humans involves C-fiber activation; pain in octopuses involves different neurons; pain in hypothetical aliens might involve something not remotely like neurons. What makes all these "pain" is the functional role, not the physical implementation.
-
-This seems to follow from common sense. We attribute pain to dogs without demanding their brains be identical to ours. We might attribute it to sufficiently sophisticated robots. What matters is how the system behaves and how internal states relate to inputs and outputs.
+The key functionalist insight: the same mental state can be realized by different physical substrates. Pain in humans involves C-fiber activation; pain in octopuses involves different neurons; pain in hypothetical aliens might involve something not remotely like neurons. What makes all these "pain" is the functional role, not the physical implementation. We attribute pain to dogs without demanding their brains be identical to ours—what matters is how internal states relate to inputs and outputs.
 
 ## The Architect's Defection
 
 Hilary Putnam invented functionalism. In "Psychological Predicates" (1967), he proposed that mental states are defined by their computational roles — the multiple realizability thesis that became functionalism's cornerstone. Putnam later abandoned his own creation. In *Representation and Reality* (1988), he argued that functionalism remained committed to an internalist conception of mental states that his own work on semantic externalism had discredited. If "meanings ain't in the head" — if mental content is partly constituted by environmental and social context — then no purely internal functional specification can capture what a mental state is.
 
-Putnam's trajectory did not stop at rejecting functionalism. Under William James's influence, he developed "pragmatic realism" — the view that truth is what would be justified under epistemically ideal conditions, conditions that essentially involve conscious rational agents. Each stage of his intellectual development moved further from reductive physicalism: functionalism → internal realism → pragmatic realism. The architect found the building uninhabitable and moved progressively toward a framework that grants consciousness an ineliminable role in constituting the meaningful world that science describes. Putnam's trajectory exemplifies [[concession-convergence]]—a physicalist pioneer forced by internal pressures to abandon the framework's core commitments. When the philosopher who provided functionalism's most powerful argument (multiple realizability) concludes that the framework cannot account for meaning or reference, that is evidence the profession has not adequately absorbed.
+Putnam's trajectory did not stop at rejecting functionalism. Under William James's influence, he developed "pragmatic realism," moving progressively toward a framework granting consciousness an ineliminable role in constituting the meaningful world that science describes (see [[pragmatisms-path-to-dualism|pragmatism's path to dualism]]). His trajectory exemplifies [[concession-convergence]]—a physicalist pioneer forced by internal pressures to abandon the framework's core commitments. When the philosopher who provided functionalism's most powerful argument (multiple realizability) concludes that the framework cannot account for meaning or reference, that is evidence the profession has not adequately absorbed.
 
 ## Modern Functionalist Frameworks
 
@@ -82,13 +82,15 @@ But PP inherits functionalism's core limitation: explaining *that* perception is
 
 [[global-workspace-theory|Global Workspace Theory (GWT)]] proposes consciousness arises when information broadcasts to a "global workspace" accessible across brain regions. But explaining how information becomes globally available doesn't explain why global availability feels like anything. Ned Block's distinction between "access consciousness" and "phenomenal consciousness" captures the gap: GWT may explain access but not phenomenal consciousness.
 
-The COGITATE experiment (Melloni et al., 2023-2024)—the largest adversarial collaboration in consciousness science—tested GWT against IIT. GWT predicted consciousness-related activity concentrated in prefrontal cortex; IIT predicted it in posterior cortical regions. Neither prediction was fully confirmed by the data. More fundamentally, both theories remain silent on why any neural activity should be accompanied by experience.
+The COGITATE adversarial collaboration (Melloni et al., 2023-2024) tested GWT against IIT; neither theory's predictions were fully confirmed. More fundamentally, both remain silent on why any neural activity should be accompanied by experience.
 
 ### A Physicalist Rejection of Functionalism
 
 [[integrated-information-theory|Integrated Information Theory (IIT)]] explicitly rejects functionalism—not from a dualist perspective, but from within [[concepts/materialism|physicalism]]. IIT holds that consciousness depends on *how* a system is physically organized, not just what function it computes. Two systems performing identical functions could have different integrated information (Φ) depending on their architecture: a feed-forward network processes information without integration, while a recurrent network with the same input-output function might have high Φ.
 
 This matters because it shows rejecting functionalism isn't merely a dualist move. The Map and IIT agree that substrate matters, though they disagree on *why*: IIT claims consciousness is identical to integrated physical structure, while the Map holds that the right physical structure enables non-physical consciousness to interact with the brain. The [[metaphysics-of-information-under-dualism|metaphysics of information under dualism]] develops this reasoning: the physical aspect of information may be substrate-independent, but the phenomenal aspect depends on the specific mind-matter interface. Both reject the functionalist claim that only causal roles matter.
+
+[[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] (Milinkovic & Aru, 2025) pushes further: brains compute, but biological computation is hybrid discrete-continuous, metabolically grounded, and inseparable from its fluidic substrate—"the algorithm *is* the substrate." This narrows consciousness-capable computation so drastically that classical functionalism's substrate neutrality is explicitly abandoned. The Map reads this as a [[concession-convergence|concession convergence]]—multiple physicalist programmes independently retreating to positions that inadvertently concede the dualist's central claim.
 
 ## Functionalism and AI
 
@@ -218,6 +220,8 @@ None of these would logically refute dualism (the conceivability arguments would
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness might influence physics
 - [[causal-closure]] — The assumption functionalism inherits from materialism
 - [[integrated-information-theory]] — A theory that partially rejects functionalism
+- [[biological-computationalisms-inadvertent-case-for-dualism]] — Biological computationalism's inadvertent concession to dualism
+- [[concession-convergence]] — The pattern of physicalist theories retreating toward dualist commitments
 - [[metaphysics-of-information-under-dualism]] — Why information's substrate independence doesn't extend to consciousness
 - [[pragmatisms-path-to-dualism]] — How pragmatism's own logic undermines the functionalist framework
 - [[tenets]] — Why the Map rejects the functionalist view
@@ -233,6 +237,7 @@ None of these would logically refute dualism (the conceivability arguments would
 1. Craddock, T.J.A., et al. (2017). "Anesthetic Alterations of Collective Terahertz Oscillations in Tubulin Correlate with Clinical Potency." *Scientific Reports*, 7, 9877.
 1. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Lewis, D. (1972). "Psychophysical and Theoretical Identifications." *Australasian Journal of Philosophy*, 50, 249-258.
+1. Milinkovic, B. & Aru, J. (2025). "On biological and artificial consciousness: A case for biological computationalism." *Neuroscience & Biobehavioral Reviews*, 181, 106524.
 1. Melloni, L., et al. (2023). "An adversarial collaboration protocol for testing contrasting predictions of global neuronal workspace and integrated information theory." *PLOS ONE*, 18(2), e0268577.
 1. Morgan, P.G. & Bhatt, D.H. (2015). "Anesthetic Action in *C. elegans*." In *Bhatt, D.H. (ed.), C. elegans: Methods and Applications*, 2nd ed.
 1. Nakagaki, T., Yamada, H. & Tóth, Á. (2000). "Maze-solving by an amoeboid organism." *Nature*, 407, 470.

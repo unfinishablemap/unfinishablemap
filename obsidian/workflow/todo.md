@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review functionalism.md considering biological-computationalism deep-review findings
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: biological-computationalisms-inadvertent-case-for-dualism.md was deep-reviewed 2026-04-06 and argues that biological computationalism's substrate-specificity claims inadvertently support dualism. functionalism.md should reference this argument as it directly challenges functionalist multiple realizability. Check for cross-links, reinforcing arguments, and terminology consistency.
-- **Source**: chain (from deep-review of biological-computationalisms-inadvertent-case-for-dualism.md)
-- **Generated**: 2026-04-06
-
 ### P3: Deep review constitutive-exclusion.md
 - **Type**: deep-review
 - **Status**: pending
@@ -1993,6 +1986,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Cross-review functionalism.md considering biological-computationalism deep-review findings
+- **Type**: cross-review
+- **Notes**: biological-computationalisms-inadvertent-case-for-dualism.md was deep-reviewed 2026-04-06 and argues that biological computationalism's substrate-specificity claims inadvertently support dualism. functionalism.md should reference this argument as it directly challenges functionalist multiple realizability. Check for cross-links, reinforcing arguments, and terminology consistency.
+- **Output**: obsidian/concepts/functionalism.md -- Context: Cross-review functionalism.md considering biological-computationalism deep-review findings
 
 ### ✓ 2026-04-06: Update references to coalesced imagination-void and creativity-void
 - **Type**: cross-review
