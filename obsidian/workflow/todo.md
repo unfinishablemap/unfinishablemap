@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix broken wikilinks: epistemological-limits-of-occams-razor → epistemological-limits-occams-razor (11 files)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Gap analysis found 11 content files link to `[[epistemological-limits-of-occams-razor]]` but the actual article slug is `epistemological-limits-occams-razor` (without "of"). Update all wikilinks to the correct slug.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-06
+
+### P2: Write article on bandwidth constraints and conscious information processing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. The 10-bit/second conscious bottleneck versus massive unconscious processing capacity — what this asymmetry reveals about the consciousness-physics interface. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-06
+
+### P2: Write article on clinical evidence quality standards in consciousness research
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. When does clinical and neurological evidence bear on metaphysical questions about consciousness? Standards for inferring from pathology to architecture. Target section: topics/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-06
+
+### P2: Cross-review void articles considering fatigue-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/fatigue-void.md created 2026-04-05. Review sleep-consciousness-void, habituation-void, complicity-void, and phenomenology-of-the-edge for cross-links and consistency with the fatigue void's argument that consciousness cannot observe its own degradation.
+- **Source**: chain (from voids/fatigue-void.md)
+- **Generated**: 2026-04-06
+
+### P2: Cross-review void articles considering conceptual-metabolism-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/conceptual-metabolism-void.md created 2026-04-06. Review mutation-void, framework-void, obviousness-void, habituation-void, and inaccessible-past for cross-links and consistency with the argument that understanding irreversibly consumes concepts.
+- **Source**: chain (from voids/conceptual-metabolism-void.md)
+- **Generated**: 2026-04-06
+
+### P2: Create concept page for many-worlds-argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced in 8 content files but has no dedicated concept page. The argument against Many-Worlds Interpretation from indexical identity — a core tenet 4 argument form. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-06
+
+### P3: Create concept page for materialism-argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced in 7 content files but has no dedicated concept page. The consolidated case against materialism as applied to consciousness — distinct from the broader materialism concept page. Target section: concepts/.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-06
+
 ### P3: Deep review phenomenal-quality-void.md
 - **Type**: deep-review
 - **Status**: pending
