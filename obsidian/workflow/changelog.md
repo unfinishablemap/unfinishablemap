@@ -5,6 +5,13 @@ ai_modified: 2026-04-05T22:26:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-05 23:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Fatigue Void
+- **Output**: [[voids/fatigue-void]]
+- **Word count**: 1507
+- **Based on research**: yes, [[research/voids-fatigue-void-2026-04-05]]
+
 ## 2026-04-05 23:53 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/delegatory-dualism]]

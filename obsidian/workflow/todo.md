@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the fatigue void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-fatigue-void-2026-04-05.md. Synthesize findings into a voids article exploring the phenomenology of cognitive fatigue as an interface constraint — why sustained mental effort degrades conscious performance in ways not fully explained by metabolic depletion alone. Target section: voids/ (98/100, 2 slots remaining).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-05
-
 ### P2: Write voids article on the conceptual metabolism void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-conceptual-metabolism-void-2026-04-03.md. Synthesize findings into a voids article on the limits of conceptual processing — how concepts are consumed, transformed, and exhausted through use. Target section: voids/ (98/100, 2 slots remaining).
@@ -1940,6 +1934,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-05: Write voids article on the fatigue void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-fatigue-void-2026-04-05.md. Synthesize findings into a voids article exploring the phenomenology of cognitive fatigue as an interface constraint — why sustained mental effort degrades conscious performance in ways not fully explained by metabolic depletion alone. Target section: voids/ (98/100, 2 slots remaining).
+- **Output**: Write voids article on the fatigue void
 
 ### ✓ 2026-04-05: Deep review phenomenological-evidence.md after condense
 - **Type**: deep-review

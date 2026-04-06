@@ -137,6 +137,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[defended-territory|Defended Territory]] — Thoughts we systematically flee
 - [[attention-and-consciousness|Attention and the Voids of Consciousness]] — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [[habituation-void|The Habituation Void]] — How familiarity erases experience from consciousness
+- [[fatigue-void|The Fatigue Void]] — Why consciousness cannot observe its own degradation under fatigue
 - [[absorption-void|The Absorption Void]] — Peak conscious engagement is peak self-opacity
 - [[expertise-occlusion|The Expertise Occlusion]] — How mastery actively defends its own opacity
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
