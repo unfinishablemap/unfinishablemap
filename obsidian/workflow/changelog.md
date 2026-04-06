@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 06:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/hypnagogic-phenomenology-and-interface-modulation]]
+- **Word count**: 2505 → 2550 (+45)
+- **Critical issues addressed**: 1 (orphaned Hori et al. reference)
+- **Medium issues addressed**: 4 (evidence calibration for single-study findings, uncited yoga nidra claims, missing evidence quality standards cross-link, stale AI refinement log)
+- **Enhancements made**: 6 targeted edits applying evidence quality standards retroactively
+- **Output**: [[reviews/deep-review-2026-04-06-hypnagogic-phenomenology-and-interface-modulation]]
+
 ## 2026-04-06 05:51 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenal-binding-and-multimodal-integration]]

@@ -37,11 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apply evidence quality standards retroactively across clinical evidence articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Pessimistic review found motte-and-bailey pattern: clinical-evidence-quality-standards-consciousness-research.md correctly downgrades weak evidence then retreats to "clinical evidence is supporting rather than foundational," while other Map articles (clinical-neuroplasticity-evidence-for-bidirectional-causation.md, placebo-effect-and-mental-causation.md) foreground clinical evidence more strongly. Cross-review these articles and ensure confidence calibration is consistent with the five-point framework. See pessimistic-2026-04-06.md
-
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -1928,6 +1923,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Apply evidence quality standards retroactively across clinical evidence articles
+- **Type**: cross-review
+- **Notes**: Pessimistic review found motte-and-bailey pattern: clinical-evidence-quality-standards-consciousness-research.md correctly downgrades weak evidence then retreats to "clinical evidence is supporting rather than foundational," while other Map articles (clinical-neuroplasticity-evidence-for-bidirectional-causation.md, placebo-effect-and-mental-causation.md) foreground clinical evidence more strongly. Cross-review these articles and ensure confidence calibration is consistent with the five-point framework. See pessimistic-2026-04-06.md
+- **Output**: None -- Context: Apply evidence quality standards retroactively across clinical evidence articles
 
 ### ✓ 2026-04-06: Address filter theory unfalsifiability in consciousness-under-extreme-metabolic-constraint.md
 - **Type**: refine-draft
