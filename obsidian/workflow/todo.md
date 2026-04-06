@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06T08:42:00+00:00
+ai_modified: 2026-04-06T11:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Address filter theory unfalsifiability and Xu et al. over-reliance in consciousness-under-extreme-metabolic-constraint.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) The filter model accommodates every possible metabolic-consciousness relationship by introducing the acute/chronic distinction — no conceivable metabolic pattern would refute it. Add a section identifying what patterns *would* be incompatible with filter theory, or recalibrate confidence to "compatible with" rather than "better explained by." (2) The gamma surge evidence (Xu et al., n=2 positive from n=4) anchors the first and most prominent anomaly despite being precisely the kind of evidence inflation the clinical-evidence-quality-standards article warns against. Demote or flag as "suggestive." See pessimistic-2026-04-06.md
+- **Source**: chain (from pessimistic-review 2026-04-06)
+- **Generated**: 2026-04-06
+
+### P1: Address motte-and-bailey and evidence standards self-application in clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues: (1) The article builds a rigorous five-point evidence framework, correctly downgrades the Map's favourite clinical studies, then retreats to "clinical evidence is supporting rather than foundational" — creating tension with other Map articles that foreground clinical evidence prominently. Ensure calibration is consistent cross-site. (2) The framework is never applied to the Map's quantum interaction claims (Tenet 2), where replication status and control adequacy would score poorly. Add at least a paragraph acknowledging this and noting where quantum claims currently fall short. See pessimistic-2026-04-06.md
+- **Source**: chain (from pessimistic-review 2026-04-06)
+- **Generated**: 2026-04-06
+
+### P1: Address Wheeler appropriation and add Tegmark decoherence criticism in Wheeler articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two high-severity issues across topics/it-from-bit-and-participatory-ontology.md and topics/the-participatory-universe.md: (1) Both articles present Wheeler's work as supporting the Map's dualism, but Wheeler was not a dualist — his "immaterial" meant informational, his "observer" was not specifically conscious mind. Add clear paragraphs stating the Map's appropriation is selective and the resonance is structural, not positional. (2) Stapp's quantum Zeno mechanism is presented uncritically without acknowledging Tegmark's 2000 decoherence timescale objection (~10⁻¹³s in neural tissue). The writing-style guide explicitly warns against overemphasis on quantum Zeno. Add the decoherence objection and note it as an open problem. See pessimistic-2026-04-06b.md
+- **Source**: chain (from pessimistic-review 2026-04-06)
+- **Generated**: 2026-04-06
+
+### P2: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
+- **Type**: coalesce
+- **Status**: pending
+- **Notes**: Pessimistic review flagged significant content overlap between these two Wheeler articles — both discuss Wheeler's core vision, Dembski's critique (nearly identical paragraphs), Wheeler's rejection of MWI, and Stapp. A reader encountering both finds significant redundancy. Either coalesce into a single article or sharply differentiate: participatory-universe focuses on the participatory thesis (observer-constitution, delayed choice, self-excited circuit), it-from-bit focuses on information ontology (three descendant programmes, Barbour's critique). Coalescing would also free a topics/ slot (currently 226/230). See pessimistic-2026-04-06b.md
+- **Source**: gap_analysis (content overlap)
+- **Generated**: 2026-04-06
+
+### P2: Add cross-links from optimistic-2026-04-06 review (8 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
+- **Source**: chain (from optimistic-review 2026-04-06)
+- **Generated**: 2026-04-06
+
+### P3: Write article on phenomenology of perceptual learning
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Wine experts, radiologists, and musicians report qualitative shifts in what they perceive — genuinely new phenomenal properties arising from training, not just better discrimination. Bears directly on whether consciousness contributes to cognition or merely accompanies it. Builds on contemplative-epistemology, perception, phenomenal-contrast-method. Target section: topics/ (226/230). See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and it-from-bit-and-participatory-ontology.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Two medium-severity issues from pessimistic reviews: (1) The Kuhn article's anomalies (explanatory gap, hard problem) are philosophical, not empirical — front-load the distinction rather than burying the disclaimer. (2) The it-from-bit article claims structural indeterminacy (Brukner-Zeilinger) supports the Map, but if randomness is structural, biasing outcomes would violate the foundational axioms. Acknowledge the tension and discuss whether consciousness could operate within Born rule statistics. See pessimistic-2026-04-06.md and pessimistic-2026-04-06b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-06
 
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic

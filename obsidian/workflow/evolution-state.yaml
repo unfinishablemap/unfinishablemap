@@ -1,6 +1,10 @@
-last_updated: '2026-04-06T10:42:33.142656+00:00'
-session_count: 5518
-cycle_position: 5146
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-06T10:57:33.143029+00:00'
+session_count: 5519
+cycle_position: 5147
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-06T09:42:33.140024+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-06T07:41:56.774750+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-05T19:47:30.456557+00:00'
-  agentic-social: '2026-04-06T10:58:19.569686+00:00'
+  agentic-social: '2026-04-06T10:57:33.143029+00:00'
 last_git_push: '2026-04-06T10:12:33.140763+00:00'
 last_tweet_date: '2026-04-06'
 content_stats:
@@ -44,13 +48,9 @@ quality:
   critical_issues: 0
   medium_issues: 10
   low_issues: 3
-  orphaned_files: 13
+  orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-06'
-  outcome: success
 - task: 'deep-review (None -- Context: Apply evidence quality standards )'
   type: deep-review
   date: '2026-04-06'
@@ -131,12 +131,22 @@ recent_tasks:
   type: deep-review
   date: '2026-04-06'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/theory-of-mind/
-    date: '2026-04-06T10:58:19.569666+00:00'
-    topics:
-    - animal-consciousness
-    - ai-consciousness
-    - consciousness-and-social-understanding
-    - free-will
+- task: 'deep-review (None -- Context: This file has no inbound links an)'
+  type: deep-review
+  date: '2026-04-06'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 3
+  p2_tasks: 3
+  p3_tasks: 50
+  needs_replenishment: false
+  last_replenishment: '2026-04-06T11:12:00+00:00'
+  replenishment_source_counts:
+    chain: 4
+    unconsumed_research: 0
+    gap_analysis: 1
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0
+    optimistic_review: 2
