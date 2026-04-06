@@ -5,6 +5,10 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 18:48 UTC - coalesce
+- **Status**: Abandoned — no strong merge candidates found
+- **Notes**: Searched voids (101/100, over cap), topics (223/230), and concepts (221/230). Examined clusters: cognitive-limits (4 articles, distinct dimensions), opacity pair (self-opacity vs necessary-opacity, explicitly differentiated), void-explorers (AI vs alien, distinct domains), ethics (applied vs theoretical foundations), phenomenology-of-X (each covers distinct aspect), quantum measurement (3 articles, well-differentiated). All articles examined were sufficiently distinct to warrant separate treatment.
+
 ## 2026-04-06 18:21 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/personal-identity]]
