@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-evolution-and-biology.md
-- **Type**: deep-review
-- **Notes**: AI-generated content recently refactored (ai_modified 2026-04-06). Article on why evolutionary theory and biology's conceptual toolkit fail to explain consciousness. No deep review recorded. Verify accuracy of claims about biological function, teleology, and natural selection; check cross-references to evolution-of-consciousness, consciousness-as-amplifier, and the-strong-emergence-of-consciousness; and confirm tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Deep review evaluative-phenomenal-character.md
 - **Type**: deep-review
 - **Notes**: AI-generated concept (ai_modified 2026-04-06) recently refactored. Argues conscious experience carries intrinsic evaluative character extending the hard problem into value. No deep review recorded. Verify accuracy of claims about evaluative qualia; check cross-references to phenomenal-value-realism, emotion-and-dualism, aesthetics-and-consciousness, and consciousness-and-normative-force; and confirm tenet alignment.
@@ -1990,6 +1984,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review consciousness-evolution-and-biology.md
+- **Type**: deep-review
+- **Notes**: AI-generated content recently refactored (ai_modified 2026-04-06). Article on why evolutionary theory and biology's conceptual toolkit fail to explain consciousness. No deep review recorded. Verify accuracy of claims about biological function, teleology, and natural selection; check cross-references to evolution-of-consciousness, consciousness-as-amplifier, and the-strong-emergence-of-consciousness; and confirm tenet alignment.
+- **Output**: obsidian/topics/consciousness-evolution-and-biology.md
 
 ### ✓ 2026-04-06: Cross-review concession-convergence.md against arguments-against-materialism and related articles
 - **Type**: cross-review
