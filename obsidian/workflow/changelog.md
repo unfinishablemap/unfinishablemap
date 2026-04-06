@@ -5,6 +5,11 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 03:18 UTC - expand-topic
+- **Status**: Skipped (slug collision)
+- **Topic**: many-worlds-argument
+- **Reason**: Slug `many-worlds-argument` already exists at `arguments/many-worlds-argument.md`. That article provides a comprehensive cumulative case against MWI covering indexical identity, probability, preferred basis, and ontological extravagance. Additional coverage exists in `concepts/many-worlds.md`, `concepts/probability-objections-many-worlds.md`, and `topics/probability-problem-in-many-worlds.md`. No concept duplicate needed.
+
 ## 2026-04-06 03:02 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenal-quality-void]]

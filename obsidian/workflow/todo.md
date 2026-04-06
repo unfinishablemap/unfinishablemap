@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for many-worlds-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced in 8 content files but has no dedicated concept page. The argument against Many-Worlds Interpretation from indexical identity — a core tenet 4 argument form. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
-
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
 - **Status**: pending
@@ -1930,6 +1923,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Create concept page for many-worlds-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 8 content files but has no dedicated concept page. The argument against Many-Worlds Interpretation from indexical identity — a core tenet 4 argument form. Target section: concepts/.
+- **Output**: Create concept page for many-worlds-argument
 
 ### ✓ 2026-04-06: Cross-review void articles considering conceptual-metabolism-void insights
 - **Type**: cross-review
