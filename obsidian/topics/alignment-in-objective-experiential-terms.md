@@ -4,7 +4,7 @@ description: "If phenomenal qualities are real features of reality, the badness 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-06T09:28:00+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -22,12 +22,14 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[alignment-objective-experiential-terms-2026-01-16]]"
+  - "[[moral-architecture-of-consciousness]]"
+  - "[[evaluative-qualia]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-12
 last_curated:
-last_deep_review: 2026-03-12T05:07:00+00:00
+last_deep_review: 2026-04-06T09:28:00+00:00
 ---
 
 AI alignment needs an objective target. Preferences cannot serve as that target because they are contingent, malleable, and systematically shaped by forces unrelated to human welfare. But if The Unfinishable Map's metaphysics is correct—if phenomenal consciousness is real and irreducible—then experiential qualities like the badness of suffering and the goodness of understanding are *objective facts about the character of experience*, not subjective preferences. This article argues that dualism provides alignment with something preferentism cannot: genuine objectivity rooted in the nature of conscious experience itself.
@@ -54,7 +56,7 @@ Preferences fail as objective alignment criteria for reasons that go deeper than
 
 **Preferences are evolutionarily contingent.** Natural selection shaped human preferences for inclusive fitness, not flourishing. We prefer sugar, status, and novelty because these tracked reproductive success in ancestral environments. An AI system faithfully maximising these preferences would produce an obese, status-obsessed, chronically distracted population—which is roughly what unregulated algorithmic optimisation already delivers. The preferences are satisfied; the experiential quality is poor.
 
-**Preferences are manipulable in ways that experiential quality is not.** Social media algorithms demonstrate this daily: they satisfy preferences (users keep choosing to scroll) while degrading experiential quality (users report feeling worse). An AI system aligned to preferences would count this as success. An AI system aligned to experiential quality would count it as failure. The divergence reveals that preferences and experiential quality are not the same thing, and that preferences are the more vulnerable target.
+**Preferences are manipulable in ways that experiential quality is not.** Social media algorithms demonstrate this daily: they satisfy preferences (users keep choosing to scroll) while degrading experiential quality (users report feeling worse). Context, expectation, and even placebo effects can modulate the intensity of experiential states—but they cannot make agony pleasant or render genuine understanding indistinguishable from confusion. The qualitative character of experience resists the wholesale redirection that preferences routinely undergo. An AI system aligned to preferences would count the scrolling scenario as success. An AI system aligned to experiential quality would count it as failure. The divergence reveals that preferences and experiential quality are not the same thing, and that preferences are the more vulnerable target.
 
 **Preferences presuppose a subject whose experience matters.** To have a preference is already to be a conscious being for whom outcomes make a phenomenal difference. Preferentism helps itself to the existence of conscious subjects while ignoring the experiential quality that makes those subjects morally significant in the first place. It takes the fruit while ignoring the root.
 
@@ -138,6 +140,8 @@ The case for objective experiential alignment criteria makes commitments that co
 - [[introspection]] — First-person methods as appropriate epistemic tools
 - [[haecceity]] — Why individual identity grounds per-person constraints
 - [[illusionism]] — The strongest challenge to phenomenal objectivity
+- [[evaluative-qualia]] — Felt goodness and badness as a distinct phenomenal category
+- [[moral-architecture-of-consciousness]] — Apex synthesis: how objective experiential criteria fit the broader moral framework
 - [[tenets]] — The Map's foundational commitments
 
 ## References

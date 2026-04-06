@@ -126,6 +126,7 @@ Evaluative qualia connect to the Map's tenets at multiple points.
 - [[hard-problem-of-consciousness]] — The challenge evaluative qualia extend into the domain of value
 - [[epiphenomenalism]] — The position evaluative qualia argue against
 - [[free-will]] — Moral agency as grounded in evaluative phenomenal experience
+- [[alignment-in-objective-experiential-terms]] — Why evaluative qualia ground genuinely objective AI alignment criteria
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western sources
 
 ## References

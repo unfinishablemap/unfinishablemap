@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth-constraints-conscious-processing into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-04-06). Add cross-references from related articles — particularly consciousness-as-amplifier, attention-and-the-consciousness-interface, binding-problem-a-systematic-treatment, and consciousness-and-intelligence — or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-06
-
 ### P2: Integrate stochastic-amplification-and-neural-selection into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -1944,6 +1937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Integrate bandwidth-constraints-conscious-processing into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-04-06). Add cross-references from related articles — particularly consciousness-as-amplifier, attention-and-the-consciousness-interface, binding-problem-a-systematic-treatment, and consciousness-and-intelligence — or update section index pages to include navigation to this content.
+- **Output**: None -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-06: Cross-review philosophy-of-language-under-dualism.md considering consciousness-and-language-interface insights
 - **Type**: cross-review

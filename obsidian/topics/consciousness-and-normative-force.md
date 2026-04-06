@@ -176,6 +176,7 @@ The consciousness-based account would face pressure if:
 - [[agent-causation]] — Conscious origination of action
 - [[normative-phenomenology]] — The phenomenology of normative experience
 - [[hard-problem-of-consciousness]] — Why consciousness resists reductive explanation
+- [[alignment-in-objective-experiential-terms]] — Why normative force grounds genuinely objective AI alignment criteria
 - [[consciousness-and-the-authority-of-formal-systems]] — How consciousness grounds logic's binding force
 - [[consciousness-and-moral-agency-under-duress]] — Moral agency when normative demands are extreme
 - [[phenomenal-normativity-environmental-ethics]] — Extending phenomenal normativity to environmental obligations
