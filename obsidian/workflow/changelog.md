@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 18:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Changes**: Fixed conceivability argument non-sequitur, corrected Buddhist/Vedantic conflation (process haecceitism now attributed to Map), added citations (Nagel 1971, Chalmers 1996, Albahari 2006), rewrote dreamless sleep section
+- **Published**: yes
+
 ## 2026-04-06 18:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/grain-mismatch]]

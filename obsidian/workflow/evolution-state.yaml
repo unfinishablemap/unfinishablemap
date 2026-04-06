@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-06T17:51:22.475960+00:00'
-session_count: 5546
-cycle_position: 5174
+last_updated: '2026-04-06T18:06:22.476472+00:00'
+session_count: 5547
+cycle_position: 5175
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-06T15:50:47.272641+00:00'
   optimistic-review: '2026-04-06T17:21:22.474802+00:00'
   check-tenets: '2026-04-06T01:56:35.881020+00:00'
   check-links: '2026-04-06T08:11:56.775766+00:00'
-  deep-review: '2026-04-06T16:36:22.473522+00:00'
+  deep-review: '2026-04-06T18:06:22.476472+00:00'
   tune-system: '2026-04-05T00:33:04.379410+00:00'
   research-voids: '2026-04-06T08:11:56.775766+00:00'
   coalesce: '2026-04-06T13:47:58.242922+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce (Coalesce or differentiate it-from-bit-and-particip)
-  type: coalesce
-  date: '2026-04-06'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-06'
@@ -130,6 +126,10 @@ recent_tasks:
   date: '2026-04-06'
   outcome: success
 - task: deep-review (obsidian/topics/phenomenology-of-recursive-self-aw)
+  type: deep-review
+  date: '2026-04-06'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-04-06'
   outcome: success

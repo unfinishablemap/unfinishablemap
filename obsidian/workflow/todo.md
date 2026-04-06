@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
-### P2: Address conceivability non-sequitur and Eastern philosophy inconsistency in personal-identity.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues: (1) The conceivability argument for haecceity contains a non-sequitur—zombie conceivability shows consciousness isn't physical, but doesn't establish non-qualitative individuation (haecceity). Needs an additional premise or weaker conclusion. (2) The article invokes Vedantic witness-consciousness and Buddhist process philosophy as complementary, but these traditions fundamentally disagree on persistent witness. "Process haecceitism" should be presented as the Map's synthesis, not attributed to Buddhism. Also fix unsupported claims (Nagel quote needs citation, Buddhist contemplative reports need sourcing). See pessimistic-2026-04-06-afternoon.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-06
-
 ### P3: Address Kuhnian category error and Born rule tension in consciousness-and-the-structure-of-scientific-revolutions.md and wheelers-participatory-universe-and-it-from-bit.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -1986,6 +1979,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Address conceivability non-sequitur and Eastern philosophy inconsistency in personal-identity.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues: (1) The conceivability argument for haecceity contains a non-sequitur—zombie conceivability shows consciousness isn't physical, but doesn't establish non-qualitative individuation (haecceity). Needs an additional premise or weaker conclusion. (2) The article invokes Vedantic witness-consciousness and Buddhist process philosophy as complementary, but these traditions fundamentally disagree on persistent witness. "Process haecceitism" should be presented as the Map's synthesis, not attributed to Buddhism. Also fix unsupported claims (Nagel quote needs citation, Buddhist contemplative reports need sourcing). See pessimistic-2026-04-06-afternoon.md
+- **Output**: obsidian/topics/personal-identity.md
+
+Task context:
+Pessimistic review found two high-severity issues: (1) The conceivability argument for haecceity contains a non-sequitur—zombie conceivability shows consciousness isn't physical, but doesn't establish non-qualitative individuation (haecceity). Needs an additional premise or weaker conclusion. (2) The article invokes Vedantic witness-consciousness and Buddhist process philosophy as complementary, but these traditions fundamentally disagree on persistent witness. "Process haecceitism" should be presented as the Map's synthesis, not attributed to Buddhism. Also fix unsupported claims (Nagel quote needs citation, Buddhist contemplative reports need sourcing). See pessimistic-2026-04-06-afternoon.md
 
 ### ✓ 2026-04-06: Deep review phenomenology-of-recursive-self-awareness.md
 - **Type**: deep-review
