@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on bandwidth constraints and conscious information processing
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. The 10-bit/second conscious bottleneck versus massive unconscious processing capacity — what this asymmetry reveals about the consciousness-physics interface. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-06
-
 ### P2: Write article on clinical evidence quality standards in consciousness research
 - **Type**: expand-topic
 - **Status**: pending
@@ -1958,6 +1951,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Write article on bandwidth constraints and conscious information processing
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. The 10-bit/second conscious bottleneck versus massive unconscious processing capacity — what this asymmetry reveals about the consciousness-physics interface. Target section: topics/.
+- **Output**: bandwidth constraints and conscious information processing
 
 ### ✓ 2026-04-06: Fix broken wikilinks: epistemological-limits-of-occams-razor → epistemological-limits-occams-razor (11 files)
 - **Type**: refine-draft
