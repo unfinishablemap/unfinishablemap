@@ -83,7 +83,7 @@ Each account fails at the same point: explaining why normative claims grip us ra
 
 ### Felt Valence as Intrinsic Normativity
 
-[Phenomenal normativity](/concepts/phenomenal-normativity/) holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like. When you experience pain, you are directly acquainted with something that demands response. This is not inference from sensation to evaluation; it is a single experience with both descriptive and normative character simultaneously.
+[Phenomenal normativity](/concepts/evaluative-phenomenal-character/) holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like. When you experience pain, you are directly acquainted with something that demands response. This is not inference from sensation to evaluation; it is a single experience with both descriptive and normative character simultaneously.
 
 This matters because it locates normative force *within* experience rather than in external relations between experience and something else (reason, agreement, natural facts). The problem of normative force dissolves for hedonic cases: pain binds because binding is what pain does. The normative force is the experience, not a consequence of it.
 
@@ -144,7 +144,7 @@ The consciousness-based account of normative force would face pressure if:
 ## Further Reading
 
 - Consciousness And Normative Authority — How consciousness grounds normative authority across domains
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like

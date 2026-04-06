@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-28 21:11:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -176,7 +176,7 @@ Both the cognitivist reduction of emotions to judgments and the somatic reductio
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems can be phenomenally conscious
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Whether emotional consciousness differs in nature, coupling, or both across species
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness
-- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) — The felt character of wrongness, obligation, and guilt as moral qualia
+- [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — The felt character of wrongness, obligation, and guilt as moral qualia
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — Valence as the criterion for conscious selection
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How mood and atmosphere co-constitute place-experience
 - [emotional-consciousness-valence-2026-01-19](/research/emotional-consciousness-valence-2026-01-19/) — Research notes on emotions and valence

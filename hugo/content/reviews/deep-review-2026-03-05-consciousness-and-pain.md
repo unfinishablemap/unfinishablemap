@@ -68,7 +68,7 @@ The archived `consciousness-and-pain.md` was not modified. All changes target th
 - **Further Reading**: Added `[why-pain-hurts](/topics/pain-consciousness-and-causal-power/)` entry alongside existing `[pain-asymbolia-as-central-test-case](/topics/pain-consciousness-and-causal-power/)`
 
 ### 10. apex/living-with-the-map.md
-- **Inline**: Added `[suffering's badness is constitutive of what suffering *is*](/topics/pain-consciousness-and-causal-power/)` in the ethics section (also added `[Phenomenal normativity](/concepts/phenomenal-normativity/)` link to previously unlinked mention)
+- **Inline**: Added `[suffering's badness is constitutive of what suffering *is*](/topics/pain-consciousness-and-causal-power/)` in the ethics section (also added `[Phenomenal normativity](/concepts/evaluative-phenomenal-character/)` link to previously unlinked mention)
 
 ## Pessimistic Analysis Summary
 

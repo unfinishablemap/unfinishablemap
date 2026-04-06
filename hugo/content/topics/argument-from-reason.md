@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -18,7 +18,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[intentionality]]'
 - '[[pragmatism]]'
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
 created: 2026-01-23
 date: &id001 2026-01-24
 description: If thoughts are fully explained by physical causes, no belief is rationally
@@ -120,7 +120,7 @@ William Hasker emphasizes the unity required for rational inference. Grasping an
 
 The argument from reason provides decisive support for three of the Map's five tenets:
 
-**[Dualism](/tenets/#dualism)**: Normative properties (justification, logical entailment, truth) are irreducible to physical properties. Rational inference requires tracking these normative relationships, which means consciousness must involve something beyond physical causation. This isn't property dualism smuggled in—it's a transcendental argument: the very possibility of rational thought requires irreducible mental properties. [Pragmatism's self-defeat argument](/topics/pragmatisms-path-to-dualism/) reaches the same conclusion independently: if evaluation is fully physical, the pragmatic criterion of "what works" loses the [phenomenal normativity](/concepts/phenomenal-normativity/) that gives it force.
+**[Dualism](/tenets/#dualism)**: Normative properties (justification, logical entailment, truth) are irreducible to physical properties. Rational inference requires tracking these normative relationships, which means consciousness must involve something beyond physical causation. This isn't property dualism smuggled in—it's a transcendental argument: the very possibility of rational thought requires irreducible mental properties. [Pragmatism's self-defeat argument](/topics/pragmatisms-path-to-dualism/) reaches the same conclusion independently: if evaluation is fully physical, the pragmatic criterion of "what works" loses the [phenomenal normativity](/concepts/evaluative-phenomenal-character/) that gives it force.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Reasoning causally influences beliefs and actions. If I conclude "Socrates is mortal" *because* the premises entail it, then logical relationships must play a causal role—they must influence which neural patterns become actual. This requires mind-to-brain causation, not merely brain-to-brain correlation. The [quantum framework](/concepts/quantum-consciousness/) provides a mechanism: consciousness selects among superposed neural states, collapsing indeterminacy toward patterns that respect logical relationships.
 

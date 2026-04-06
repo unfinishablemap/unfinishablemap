@@ -62,7 +62,7 @@ None. All six adversarial personas engaged specifically with the content. The 20
 
 1. Added cross-link to [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) in Moral Responsibility section, connecting agent causation to edge cases where agency is constrained
 2. Reworked Suffering section to distinguish suffering from mere pain via [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/) and [valence](/concepts/valence/), and link to [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) for the causal role of felt badness
-3. Added [phenomenal-normativity](/concepts/phenomenal-normativity/) connection in valence sentientism discussion, explaining why pain's badness is constitutive of its phenomenal character rather than a judgment layered on top
+3. Added [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) connection in valence sentientism discussion, explaining why pain's badness is constitutive of its phenomenal character rather than a judgment layered on top
 4. Consolidated duplicate Further Reading entry for phenomenal-value-realism
 5. Added four new Further Reading entries: phenomenal-normativity, suffering-versus-pain, why-pain-hurts, consciousness-and-moral-agency-under-duress
 6. Added phenomenal-normativity and valence to frontmatter concepts
@@ -70,7 +70,7 @@ None. All six adversarial personas engaged specifically with the content. The 20
 
 ### Cross-links Added
 
-- [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - [valence](/concepts/valence/)
 - [suffering-versus-pain](/topics/pain-consciousness-and-causal-power/)
 - [why-pain-hurts](/topics/pain-consciousness-and-causal-power/)

@@ -28,7 +28,7 @@ None. Article remains stable after five prior reviews. This cross-review focused
 
 ### Medium Issues Found
 - **Missing pragmatism convergence in body text**: The article listed [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) in Further Reading and related_articles but never discussed the structural parallel in the body. Resolution: Added a sentence in Relation to Site Perspective noting the independent convergence of pragmatism's self-defeat argument on the same dualist conclusion.
-- **Missing phenomenal-normativity concept link**: The article discusses normativity extensively but didn't link to [phenomenal-normativity](/concepts/phenomenal-normativity/), which the pragmatism article develops as the felt sense that gives normative judgments their force. Resolution: Added [phenomenal-normativity](/concepts/phenomenal-normativity/) link in the pragmatism convergence sentence and to concepts frontmatter.
+- **Missing phenomenal-normativity concept link**: The article discusses normativity extensively but didn't link to [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), which the pragmatism article develops as the felt sense that gives normative judgments their force. Resolution: Added [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) link in the pragmatism convergence sentence and to concepts frontmatter.
 
 ### Counterarguments Considered
 No new counterarguments beyond those established in previous reviews. The pragmatism connection strengthens existing arguments rather than introducing new vulnerabilities.
@@ -49,11 +49,11 @@ All strengths from previous reviews intact. The article's three-step core argume
 ### Enhancements Made
 1. **Pragmatism convergence**: Added sentence in Relation to Site Perspective connecting the argument from reason's self-defeat structure to pragmatism's independent arrival at the same conclusion via phenomenal normativity
 2. **Plantinga section tightened**: Condensed redundant phrasing about evolutionary selection, saving ~30 words for length-neutral compliance
-3. **Concept cross-link**: Added [phenomenal-normativity](/concepts/phenomenal-normativity/) to concepts frontmatter
+3. **Concept cross-link**: Added [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) to concepts frontmatter
 
 ### Cross-links Added
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — in-body reference (was previously only in Further Reading)
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — new concept link
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — new concept link
 
 ## Word Count
 - Before: 3222 words (107% of 3000 threshold)

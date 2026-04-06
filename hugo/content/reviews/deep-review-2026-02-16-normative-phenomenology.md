@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-16
-**Article**: [Normative Phenomenology](/concepts/normative-phenomenology/)
+**Article**: [Normative Phenomenology](/concepts/evaluative-phenomenal-character/)
 **Previous review**: Never
 **Word count**: 2266 → 2357 (+91)
 

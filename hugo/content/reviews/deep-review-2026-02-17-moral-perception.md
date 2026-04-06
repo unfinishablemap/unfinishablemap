@@ -69,7 +69,7 @@ topics: []
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [phenomenology-of-moral-perception](/topics/phenomenology-of-moral-experience/)
 - [moral-phenomenology](/concepts/moral-phenomenology-and-perception/)
-- [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - [affective-void](/voids/affective-void/)
 - [downward-causation](/concepts/mental-causation-and-downward-causation/)
 

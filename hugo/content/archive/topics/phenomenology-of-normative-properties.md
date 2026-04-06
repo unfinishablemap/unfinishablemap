@@ -99,7 +99,7 @@ Normative properties present themselves as admitting of degrees. Some wrongs are
 
 If normativity were merely projected onto experience, one would expect each domain to feel normative for different reasons—moral norms because of emotional conditioning, epistemic norms because of cognitive habits, aesthetic norms because of cultural training. Sentimentalists like Prinz (2007) argue that moral emotions are culturally constructed projections, and functionalists hold that "demand character" is simply the functional role of certain mental states in guiding behaviour rather than an irreducible phenomenal property. But the shared phenomenal architecture is surprising on both accounts. Why would independent projection mechanisms—or independent functional circuits—converge on the same demand-character, the same resistance to preference, the same gradedness across four domains with different evolutionary histories and cultural contexts?
 
-[Phenomenal normativity](/concepts/phenomenal-normativity/) offers a simpler explanation: normativity is built into the structure of consciousness itself. Different normative domains tap into a single underlying feature—the capacity of experience to present its objects as mattering. Moral, epistemic, aesthetic, and prudential normativity are variations on this theme, differing in content and affective tone but sharing a fundamental phenomenal structure.
+[Phenomenal normativity](/concepts/evaluative-phenomenal-character/) offers a simpler explanation: normativity is built into the structure of consciousness itself. Different normative domains tap into a single underlying feature—the capacity of experience to present its objects as mattering. Moral, epistemic, aesthetic, and prudential normativity are variations on this theme, differing in content and affective tone but sharing a fundamental phenomenal structure.
 
 ### The Unity Argument
 
@@ -136,7 +136,7 @@ The phenomenology of normative properties connects to the Map's [foundational co
 ## Further Reading
 
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral experience feels like from the inside
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Intrinsic normative force built into phenomenal character
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Intrinsic normative force built into phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning

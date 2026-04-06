@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-04 00:38:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/phenomenology-of-normative-experience/
 - /topics/consciousness-and-the-grounds-of-normative-authority/
 concepts:
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[topics/phenomenal-value-realism]]'
-- '[[moral-phenomenology-and-perception]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
 - '[[cognitive-phenomenology]]'
@@ -21,7 +21,7 @@ concepts:
 - '[[moral-responsibility]]'
 - '[[consciousness-value-connection]]'
 - '[[concepts/epiphenomenalism]]'
-- '[[normative-phenomenology]]'
+- '[[evaluative-phenomenal-character]]'
 created: 2026-02-13
 date: &id001 2026-03-04
 description: 'Why normative claims grip us: the shared phenomenal architecture of
@@ -78,7 +78,7 @@ Each account fails at the same point: explaining why normative claims grip rathe
 
 ## What Consciousness Contributes
 
-[Phenomenal normativity](/concepts/phenomenal-normativity/) holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like (Rawlette 2016). The normative force *is* the experience, not a consequence of it.
+[Phenomenal normativity](/concepts/evaluative-phenomenal-character/) holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like (Rawlette 2016). The normative force *is* the experience, not a consequence of it.
 
 Conscious experience does not separate perceiving, evaluating, and motivating into discrete steps. When you see a child in danger, the perception, the recognition that help is needed, and the motivational pull toward action arrive as a unified phenomenal state. A surveillance system can process the same scene through separable computational stages with no unified state binding them. Consciousness provides the seamless integration of fact and demand that constitutes normative grip.
 
@@ -108,7 +108,7 @@ Despite their differences, all four domains share common structure. Every normat
 
 Normative properties also present themselves as independent of preference — **resistance to preference**. Wrongness persists whether or not one cares; validity holds regardless of one's preferences about the conclusion. And they admit of degrees — **gradedness** — felt, not merely conceptual.
 
-If normativity were projected onto experience by external mechanisms, one would expect a single projection mechanism producing a single felt quality modulated only by intensity. The actual phenomenology — four distinct normative textures with shared architectural features — better fits intrinsic normativity. Four domains with distinct evolutionary histories and cultural contexts all presenting their objects with the same phenomenal character of demanding response is what [phenomenal normativity](/concepts/phenomenal-normativity/) predicts and what projection cannot easily explain.
+If normativity were projected onto experience by external mechanisms, one would expect a single projection mechanism producing a single felt quality modulated only by intensity. The actual phenomenology — four distinct normative textures with shared architectural features — better fits intrinsic normativity. Four domains with distinct evolutionary histories and cultural contexts all presenting their objects with the same phenomenal character of demanding response is what [phenomenal normativity](/concepts/evaluative-phenomenal-character/) predicts and what projection cannot easily explain.
 
 ## When Normative Domains Collide
 
@@ -162,7 +162,7 @@ The consciousness-based account would face pressure if:
 
 ## Further Reading
 
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
+- [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — Normativity as intrinsic to phenomenal character
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Five traditions converging on evaluative phenomenal character as irreducible
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness from perception through deliberation to choice
@@ -175,9 +175,9 @@ The consciousness-based account would face pressure if:
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages consciousness's selection function
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — The felt character of deciding without full information
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical description and phenomenal experience
-- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct perception of moral properties
+- [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — Direct perception of moral properties
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
-- [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
+- [normative phenomenology](/concepts/evaluative-phenomenal-character/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation
 - [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/) — Why normative force grounds genuinely objective AI alignment criteria
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — How consciousness grounds logic's binding force

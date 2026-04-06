@@ -57,10 +57,10 @@ None. The article has reached good stability after prior reviews and the 2026-03
 - Trimmed etymological detail from epoché description
 - Removed dangling Whitehead reference
 - Removed AI refinement log
-- Added [normative-phenomenology](/concepts/normative-phenomenology/) cross-link
+- Added [normative-phenomenology](/concepts/evaluative-phenomenal-character/) cross-link
 
 ### Cross-links Added
-- [normative-phenomenology](/concepts/normative-phenomenology/) (Further Reading and frontmatter)
+- [normative-phenomenology](/concepts/evaluative-phenomenal-character/) (Further Reading and frontmatter)
 
 ## Remaining Items
 None. Article is in good shape.

@@ -68,7 +68,7 @@ topics: []
 ### Cross-links Added
 - [phenomenal-intentionality](/concepts/intentionality/) — purposes as intentional states with phenomenal content
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — distinguishing genuine purpose from functional tracking
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — normative dimension of purposive experience
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — normative dimension of purposive experience
 - [mysterianism](/concepts/mysterianism/) — cognitive closure on the mechanism
 - [process-philosophy](/concepts/process-philosophy/) — broader tradition informing the Whitehead material
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — the active/passive phenomenological contrast

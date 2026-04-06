@@ -55,7 +55,7 @@ All counterarguments from the previous review remain addressed. No new counterar
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — Added contextual link in "Pragmatics of Explanation" section + related_articles
 - [argument-from-reason](/topics/argument-from-reason/) — Added to related_articles + Further Reading (parallel self-defeat structure)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Added to related_articles + Further Reading
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Added to related_articles + Further Reading (normative force in evaluation)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Added to related_articles + Further Reading (normative force in evaluation)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Added to related_articles + Further Reading (phenomenal character of evaluation)
 
 ### Cross-links Added (Outbound)

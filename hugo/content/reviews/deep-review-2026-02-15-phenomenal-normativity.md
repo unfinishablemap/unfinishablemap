@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [Phenomenal Normativity](/concepts/phenomenal-normativity/)
+**Article**: [Phenomenal Normativity](/concepts/evaluative-phenomenal-character/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

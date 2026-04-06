@@ -58,7 +58,7 @@ None. Attribution is accurate throughout — Peirce (1878), James (1896, 1898, 1
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Added [pragmatism](/concepts/pragmatism/) to related_articles
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — Added [pragmatism](/concepts/pragmatism/) to related_articles
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Added [pragmatism](/concepts/pragmatism/) to related_articles
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Added [pragmatism](/concepts/pragmatism/) to related_articles
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Added [pragmatism](/concepts/pragmatism/) to related_articles
 
 ### Cross-links Added (Outbound)
 - [consciousness-and-the-limits-of-explanation](/topics/consciousness-defeats-explanation/) — Added contextual link in Rorty section

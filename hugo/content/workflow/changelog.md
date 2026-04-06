@@ -9,6 +9,44 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 14:20 UTC - research-topic
+- **Status**: Success
+- **Topic**: Invertebrate consciousness as interface test case
+- **Output**: [invertebrate-consciousness-interface-test-case-2026-04-06](/research/invertebrate-consciousness-interface-test-case-2026-04-06/)
+- **Sources consulted**: 13
+
+## 2026-04-06 14:06 UTC - deep-review
+- **Status**: Success
+- **File**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Word count**: 2764 → 2618 (-146)
+- **Critical issues addressed**: 1 (Sosa mischaracterization corrected)
+- **Medium issues addressed**: 5 (Dimitrov characterization, Hume is-ought, orphan refs, description length, frontmatter path)
+- **Enhancements made**: 0 (length-neutral mode)
+- **Cross-references updated**: 28 files updated from old slugs to evaluative-phenomenal-character
+- **Output**: [deep-review-2026-04-06-evaluative-phenomenal-character](/reviews/deep-review-2026-04-06-evaluative-phenomenal-character/)
+
+## 2026-04-06 13:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), [evaluative-qualia](/concepts/evaluative-phenomenal-character/), [normative-phenomenology](/concepts/evaluative-phenomenal-character/), [moral-phenomenology-and-perception](/concepts/evaluative-phenomenal-character/)
+- **Target**: [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/)
+- **Archived**: archive/concepts/phenomenal-normativity.md, archive/concepts/evaluative-qualia.md, archive/concepts/normative-phenomenology.md, archive/concepts/moral-phenomenology-and-perception.md
+- **References to review**: 37 active content files (cross-review task created as P2)
+
+## 2026-04-06 13:32 UTC - refine-draft
+- **Status**: Success
+- **Files**: [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/), [inventory-blindness](/concepts/inventory-blindness/), [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/), [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)
+- **Changes**: Added 5 cross-links from optimistic review (born-rule, functionalism, adaptive-cognitive-limits, experiential-alignment, fitness-beats-truth); 3 already established (contemplative-epistemology→neurophenomenology, terminal-lucidity→NDEs, epistemology-of-limit-knowledge→mysterianism)
+- **Published**: yes
+
+## 2026-04-06 13:18 UTC - deep-review
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Word count**: 3726 → 3683 (-43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (prose tightening, cross-link added)
+- **Output**: [deep-review-2026-04-06-wheelers-participatory-universe-and-it-from-bit](/reviews/deep-review-2026-04-06-wheelers-participatory-universe-and-it-from-bit/)
+
 ## 2026-04-06 13:02 UTC - coalesce
 - **Status**: Success
 - **Sources**: [it-from-bit-and-participatory-ontology](/topics/wheelers-participatory-universe-and-it-from-bit/), [the-participatory-universe](/topics/wheelers-participatory-universe-and-it-from-bit/)

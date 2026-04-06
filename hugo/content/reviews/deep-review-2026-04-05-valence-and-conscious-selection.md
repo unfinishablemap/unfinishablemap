@@ -59,7 +59,7 @@ Six new inline cross-references from articles that discuss valence-based selecti
 3. **[evolution-of-consciousness](/concepts/evolution-of-consciousness/)** — In "The Epiphenomenalist Challenge" section, linking "felt valence guides behaviour" to the selection mechanism article
 4. **[ethics-of-consciousness](/topics/ethics-of-consciousness/)** — In "Suffering: The Moral Core" section, connecting negative valence to the selection currency thesis (valence not epiphenomenal but participatory)
 5. **[animal-consciousness](/topics/animal-consciousness/)** — In "Emotional Consciousness and Animal Sentience" section, linking felt badness to the valence-based selection framework across species
-6. **[evaluative-qualia](/concepts/evaluative-qualia/)** — In Minimal Quantum Interaction tenet paragraph, connecting consciousness biasing outcomes to the formal selection currency thesis
+6. **[evaluative-qualia](/concepts/evaluative-phenomenal-character/)** — In Minimal Quantum Interaction tenet paragraph, connecting consciousness biasing outcomes to the formal selection currency thesis
 
 **Total inbound content links now**: ~25 (19 existing + 6 new)
 

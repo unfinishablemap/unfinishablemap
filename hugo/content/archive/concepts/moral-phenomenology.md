@@ -47,11 +47,11 @@ Moral phenomenology occupies a specific position within a cluster of related con
 
 **[phenomenology](/concepts/phenomenology/)** is the broader tradition of first-person investigation of consciousness. Moral phenomenology applies this tradition to a specific domain: the moral.
 
-**[normative-phenomenology](/concepts/normative-phenomenology/)** investigates all normative experience — epistemic, aesthetic, prudential, and moral. Moral phenomenology is one branch of this wider programme, focused exclusively on the ethical.
+**[normative-phenomenology](/concepts/evaluative-phenomenal-character/)** investigates all normative experience — epistemic, aesthetic, prudential, and moral. Moral phenomenology is one branch of this wider programme, focused exclusively on the ethical.
 
 **[moral-perception](/concepts/moral-phenomenology-and-perception/)** is a capacity claim: that ethical properties can be directly perceived rather than inferred. Moral phenomenology is the descriptive investigation of what moral perceiving (and other moral experiences) feel like, without committing in advance to whether what is experienced constitutes perception in the technical sense.
 
-**[phenomenal-normativity](/concepts/phenomenal-normativity/)** is the metaphysical thesis that certain phenomenal states carry intrinsic normative force. Moral phenomenology is the descriptive enterprise that produces evidence relevant to this thesis without presupposing it.
+**[phenomenal-normativity](/concepts/evaluative-phenomenal-character/)** is the metaphysical thesis that certain phenomenal states carry intrinsic normative force. Moral phenomenology is the descriptive enterprise that produces evidence relevant to this thesis without presupposing it.
 
 Moral phenomenology is therefore the foundational descriptive work: careful first-person investigation of moral experience that informs — but does not settle — questions about moral perception, phenomenal normativity, and normative phenomenology more broadly. Kriegel (2008) identifies three foundational questions for the field: whether moral experience has distinctive phenomenal character at all, what that character consists in, and what philosophical work it can do. The sections below address each in turn.
 
@@ -122,8 +122,8 @@ None of these findings currently obtains. The challenge for sceptics is to produ
 
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Extended exploration of what moral experience feels like
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) — The capacity to directly perceive ethical properties
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
-- [normative-phenomenology](/concepts/normative-phenomenology/) — The broader method for investigating normative experience
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — The thesis that phenomenal states carry intrinsic normative force
+- [normative-phenomenology](/concepts/evaluative-phenomenal-character/) — The broader method for investigating normative experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — How first-person reports count as evidence

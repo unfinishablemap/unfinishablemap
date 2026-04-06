@@ -53,12 +53,12 @@ This review was conducted as a cross-review against the Map's AI and ethics arti
 - Added "What Would Challenge This View?" section with five falsifiable conditions
 - Added positioning sentence in opening paragraph differentiating from sibling articles
 - Enriched epiphenomenal section with nature-vs-coupling distinction from sibling article
-- Added cross-links to [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/), [phenomenal-normativity](/concepts/phenomenal-normativity/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) in body text
+- Added cross-links to [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) in body text
 
 ### Cross-links Added
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) (opening, positioning)
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) (opening, positioning)
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) (moral asymmetry section)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) (moral asymmetry section)
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) (end of Relation to Site Perspective)
 
 ## Remaining Items

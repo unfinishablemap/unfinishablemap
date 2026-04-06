@@ -250,7 +250,7 @@ Several findings would weaken PCT and the phenomenal constitution of meaning:
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — Consciousness taking itself as object
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed structure of experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to conscious experience
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Logical compulsion as one species of normative phenomenal property
 
 ## References
 

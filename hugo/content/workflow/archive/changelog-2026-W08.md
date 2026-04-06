@@ -3670,7 +3670,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-16 16:29 UTC - deep-review
 - **Status**: Success
-- **File**: [normative-phenomenology](/concepts/normative-phenomenology/)
+- **File**: [normative-phenomenology](/concepts/evaluative-phenomenal-character/)
 - **Word count**: 2266 → 2357 (+91)
 - **Critical issues addressed**: 3 (Husserl date, Weil reference, "selfless receptivity" attribution)
 - **Medium issues addressed**: 7 (dukkha characterisation, vedana/tanha distinction, Levinas qualifier, debunking response, description length, uncited references, missing cross-links)

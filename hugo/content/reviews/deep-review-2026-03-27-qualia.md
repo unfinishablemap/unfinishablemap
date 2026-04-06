@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-27
 **Article**: [Qualia](/concepts/qualia/)
 **Previous review**: [2026-03-08](/reviews/deep-review-2026-03-08-qualia/)
-**Trigger**: Cross-review following creation of [evaluative-qualia](/concepts/evaluative-qualia/)
+**Trigger**: Cross-review following creation of [evaluative-qualia](/concepts/evaluative-phenomenal-character/)
 
 ## Pessimistic Analysis Summary
 
@@ -28,7 +28,7 @@ None. Article is stable after five prior reviews and one refine.
 
 ### Medium Issues Found
 
-1. **Missing cross-link to [evaluative-qualia](/concepts/evaluative-qualia/)**: The article discusses evaluative properties of qualia in multiple places—emotional valence in "Why Qualia Matter," intrinsic normativity in "Aesthetic Qualia"—but had no link to the newly created dedicated concept page that develops these ideas systematically.
+1. **Missing cross-link to [evaluative-qualia](/concepts/evaluative-phenomenal-character/)**: The article discusses evaluative properties of qualia in multiple places—emotional valence in "Why Qualia Matter," intrinsic normativity in "Aesthetic Qualia"—but had no link to the newly created dedicated concept page that develops these ideas systematically.
    - **Resolution**: Added cross-links in both locations plus frontmatter and Further Reading.
 
 ### Low Issues Found
@@ -50,15 +50,15 @@ None.
 - Rich cross-linking (25+ concept links)
 
 ### Enhancements Made
-1. Added [evaluative-qualia](/concepts/evaluative-qualia/) cross-link in "Why Qualia Matter" — names the category where emotional valence is discussed
-2. Added [evaluative-qualia](/concepts/evaluative-qualia/) cross-link in "Aesthetic Qualia" subsection — connects intrinsic normativity to the evaluative qualia framework
-3. Added [evaluative-qualia](/concepts/evaluative-qualia/) to Further Reading extensions
-4. Added [evaluative-qualia](/concepts/evaluative-qualia/) to concepts frontmatter
+1. Added [evaluative-qualia](/concepts/evaluative-phenomenal-character/) cross-link in "Why Qualia Matter" — names the category where emotional valence is discussed
+2. Added [evaluative-qualia](/concepts/evaluative-phenomenal-character/) cross-link in "Aesthetic Qualia" subsection — connects intrinsic normativity to the evaluative qualia framework
+3. Added [evaluative-qualia](/concepts/evaluative-phenomenal-character/) to Further Reading extensions
+4. Added [evaluative-qualia](/concepts/evaluative-phenomenal-character/) to concepts frontmatter
 5. Removed redundant "See [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) for detailed treatment" (already linked at subsection start)
 6. Trimmed opening sentence of MWI paragraph to reduce word count
 
 ### Cross-links Added
-- [evaluative-qualia](/concepts/evaluative-qualia/) (4 locations: frontmatter, "Why Qualia Matter", "Aesthetic Qualia", Further Reading)
+- [evaluative-qualia](/concepts/evaluative-phenomenal-character/) (4 locations: frontmatter, "Why Qualia Matter", "Aesthetic Qualia", Further Reading)
 
 ## Remaining Items
 

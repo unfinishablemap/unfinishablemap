@@ -48,7 +48,7 @@ Traditional answers locate normative authority in reason (Kant), social agreemen
 
 Rational principles can be formally valid without being action-guiding. Social agreements can establish expectations without establishing obligations. Natural facts can describe what is without prescribing what should be. Hume's is-ought gap persists across these frameworks — unless something bridges the divide between descriptive facts and normative force.
 
-Consciousness bridges it. Pain does not merely correlate with badness — pain's phenomenal character *constitutes* a reason to avoid it. The wrongness of gratuitous cruelty is not inferred from premises but encountered in the phenomenal experience of recognising suffering. As [phenomenal-normativity](/concepts/phenomenal-normativity/) articulates, normative force is built into the structure of certain experiences, not layered on top of neutral sensory data. This [consciousness-value-connection](/concepts/consciousness-value-connection/) — the idea that [phenomenal qualities](/concepts/qualia/) carry normative weight intrinsically — is the foundation on which the rest of the argument builds.
+Consciousness bridges it. Pain does not merely correlate with badness — pain's phenomenal character *constitutes* a reason to avoid it. The wrongness of gratuitous cruelty is not inferred from premises but encountered in the phenomenal experience of recognising suffering. As [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) articulates, normative force is built into the structure of certain experiences, not layered on top of neutral sensory data. This [consciousness-value-connection](/concepts/consciousness-value-connection/) — the idea that [phenomenal qualities](/concepts/qualia/) carry normative weight intrinsically — is the foundation on which the rest of the argument builds.
 
 ## Moral Authority and Phenomenal Experience
 
@@ -122,13 +122,13 @@ The Map's position yields a distinctive implication: normative authority is not 
 
 ## Further Reading
 
-- [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/)
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/)
 - [moral-perception](/concepts/moral-phenomenology-and-perception/)
 - [agent-causation](/concepts/agent-causation/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
-- [normative-phenomenology](/concepts/normative-phenomenology/)
+- [normative-phenomenology](/concepts/evaluative-phenomenal-character/)
 - [moral-responsibility](/concepts/moral-responsibility/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
 - [free-will](/topics/free-will/)

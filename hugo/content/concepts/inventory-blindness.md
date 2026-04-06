@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-04-06 13:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[epistemology-of-limit-knowledge]]'
 - '[[meta-epistemology-of-limits]]'
+- '[[adaptive-cognitive-limits]]'
 title: Inventory Blindness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -65,6 +66,8 @@ This distinguishes inventory blindness from related phenomena:
 
 The Dunning-Kruger effect (Kruger & Dunning, 1999) provides a measurable parallel in bounded domains: incompetence in a skill correlates with inability to recognise that incompetence, because the very skills needed to evaluate performance are the skills that are missing. Inventory blindness extends this logic from specific skills to cognitive architecture itself — from "I lack the skill to judge my skill" to "I lack the capacity to detect my missing capacities."
 
+The [adaptive cognitive limits](/concepts/adaptive-cognitive-limits/) framework explains *why* inventory blindness exists. If the [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) is correct and natural selection favours fitness-tuned perception over veridical perception, then cognitive blind spots are not defects awaiting correction but features maintained by selection. Inventory blindness is the mechanism through which these adaptive limits conceal themselves — evolution produces the blind spot, and inventory blindness ensures the organism never notices it.
+
 ## Historical Evidence
 
 Kyle Stanford's problem of unconceived alternatives provides the strongest inductive case for inventory blindness in practice. Examining the history of science, Stanford (2006) demonstrated that scientists have repeatedly failed to conceive of theories that were both well-confirmed by existing evidence and later proved correct. Nineteenth-century physicists had the evidence for general relativity but lacked the conceptual framework to formulate it. The pattern is persistent enough to constitute an inductive argument: our current inventory of theories is almost certainly incomplete, though we cannot specify what is missing.
@@ -100,6 +103,7 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [introspective opacity](/voids/self-opacity/)
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
+- [adaptive cognitive limits](/concepts/adaptive-cognitive-limits/) — Why evolution produces and maintains the blind spots inventory blindness conceals
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [voids](/voids/)
 
@@ -110,3 +114,15 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 3. Kruger, J. & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 4. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
 5. Southgate, A. & Oquatre-six, C. (2026-03-22). The Recognition Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/recognition-void/
+
+<!-- AI REFINEMENT LOG - 2026-04-06
+Changes made:
+- Added paragraph linking inventory blindness to adaptive-cognitive-limits (evolutionary explanation for why blind spots exist)
+- Added fitness-beats-truth link as supporting evidence
+- Added adaptive-cognitive-limits to frontmatter and Further Reading
+
+Based on optimistic review cross-linking suggestions.
+Key improvements: connected mechanism (inventory blindness) to evolutionary explanation (adaptive limits)
+
+This log should be removed after human review.
+-->

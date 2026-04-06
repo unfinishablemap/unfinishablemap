@@ -3386,7 +3386,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-25 09:43 UTC - deep-review
 - **Status**: Success
-- **File**: [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/)
+- **File**: [moral-phenomenology-and-perception](/concepts/evaluative-phenomenal-character/)
 - **Word count**: 2403 → 2403 (no change)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (orphan integration — 9 missing inbound links)

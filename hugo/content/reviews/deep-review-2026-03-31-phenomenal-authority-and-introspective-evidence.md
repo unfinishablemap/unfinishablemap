@@ -68,7 +68,7 @@ Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-auth
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — the hard problem rests on layers 1-2 of phenomenal authority
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — contemplative training targets authority layers where naive introspection is weakest
 - [dualism](/concepts/dualism/) — phenomenal authority provides the evidential foundation for the dualism case
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — direct acquaintance with value exemplifies phenomenal authority
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — direct acquaintance with value exemplifies phenomenal authority
 
 ## Inbound Link Summary
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-28
-**Article**: [Evaluative Qualia](/concepts/evaluative-qualia/)
+**Article**: [Evaluative Qualia](/concepts/evaluative-phenomenal-character/)
 **Previous review**: [2026-03-27](/reviews/deep-review-2026-03-27-evaluative-qualia/)
 
 ## Pessimistic Analysis Summary
@@ -46,11 +46,11 @@ topics: []
 - **normative-phenomenology.md**: Added evaluative-qualia to frontmatter concepts, inline mention in Relation to Adjacent Concepts section, and Further Reading entry
 
 ### Cross-links Added
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) → [evaluative-qualia](/concepts/evaluative-qualia/)
-- [valence](/concepts/valence/) → [evaluative-qualia](/concepts/evaluative-qualia/)
-- [consciousness-value-connection](/concepts/consciousness-value-connection/) → [evaluative-qualia](/concepts/evaluative-qualia/)
-- [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/) → [evaluative-qualia](/concepts/evaluative-qualia/)
-- [normative-phenomenology](/concepts/normative-phenomenology/) → [evaluative-qualia](/concepts/evaluative-qualia/)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) → [evaluative-qualia](/concepts/evaluative-phenomenal-character/)
+- [valence](/concepts/valence/) → [evaluative-qualia](/concepts/evaluative-phenomenal-character/)
+- [consciousness-value-connection](/concepts/consciousness-value-connection/) → [evaluative-qualia](/concepts/evaluative-phenomenal-character/)
+- [moral-phenomenology-and-perception](/concepts/evaluative-phenomenal-character/) → [evaluative-qualia](/concepts/evaluative-phenomenal-character/)
+- [normative-phenomenology](/concepts/evaluative-phenomenal-character/) → [evaluative-qualia](/concepts/evaluative-phenomenal-character/)
 
 ## Remaining Items
 

@@ -148,7 +148,7 @@ It is worth noting, in the spirit of [mysterian](/concepts/mysterianism/) honest
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/) — When inference changes what you believe
 - [explanatory-gap](/concepts/explanatory-gap/) — The cognitive explanatory gap between implementing a rule and seeing why it holds
 - [phenomenal-binding-and-holism](/concepts/binding-problem/) — How discrete conscious states combine into structured wholes
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Logical compulsion as one species of normative phenomenal property
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) — Seeing-why as the paradigm of reasons-responsive cognition
 - [free-will](/topics/free-will/) — Inferential compulsion as rational constraint, not external determination
 

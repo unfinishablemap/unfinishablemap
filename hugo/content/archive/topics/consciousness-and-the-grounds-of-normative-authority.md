@@ -92,7 +92,7 @@ Consciousness provides what these accounts miss — not as a theory but as the m
 
 ### Felt Valence as Intrinsic Normativity
 
-[Phenomenal normativity](/concepts/phenomenal-normativity/) holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like. When you experience pain, you are directly acquainted with something that demands response. The normative force is the experience, not a consequence of it.
+[Phenomenal normativity](/concepts/evaluative-phenomenal-character/) holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like. When you experience pain, you are directly acquainted with something that demands response. The normative force is the experience, not a consequence of it.
 
 This matters because it locates normative force *within* experience rather than in external relations between experience and something else (reason, agreement, natural facts). Pain binds because binding is what pain does.
 
@@ -208,7 +208,7 @@ The consciousness-based account of normative authority would face pressure if:
 
 ## Further Reading
 
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity as intrinsic to phenomenal character
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Normativity as intrinsic to phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Intrinsic value as grounded in conscious experience
 - [phenomenology-of-normative-experience](/topics/consciousness-and-normative-force/) — The phenomenal structure of normative experience across four domains and what their collisions reveal
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral perception feels like
@@ -219,7 +219,7 @@ The consciousness-based account of normative authority would face pressure if:
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct perception of moral properties
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty, sublimity, and phenomenal experience
-- [normative-phenomenology](/concepts/normative-phenomenology/) — The phenomenology of normative experience
+- [normative-phenomenology](/concepts/evaluative-phenomenal-character/) — The phenomenology of normative experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reductive explanation
 - [free-will](/topics/free-will/) — Genuine choice at the site of normative conflict
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — How consciousness grounds logic's binding force

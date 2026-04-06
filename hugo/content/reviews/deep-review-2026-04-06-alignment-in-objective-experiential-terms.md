@@ -64,13 +64,13 @@ topics: []
 **Inbound links added FROM existing articles:**
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Added sentence in value section connecting phenomenal value realism to objective alignment criteria; added to related_articles
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — Added sentence in value section connecting metaphysical grounding to alignment implications
-- [evaluative-qualia](/concepts/evaluative-qualia/) — Added to Further Reading section
+- [evaluative-qualia](/concepts/evaluative-phenomenal-character/) — Added to Further Reading section
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — Added to Further Reading section
 
 **Previous inbound links (from 2026-03-12 review, still intact):**
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/)
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
-- [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - [purpose-and-alignment](/topics/purpose-and-alignment/)
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/)
@@ -78,7 +78,7 @@ topics: []
 **Total inbound links: 10** (6 existing + 4 new)
 
 **Outbound links added within the article:**
-- Added [evaluative-qualia](/concepts/evaluative-qualia/) to Further Reading
+- Added [evaluative-qualia](/concepts/evaluative-phenomenal-character/) to Further Reading
 - Added [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) to Further Reading and related_articles
 
 ## Remaining Items

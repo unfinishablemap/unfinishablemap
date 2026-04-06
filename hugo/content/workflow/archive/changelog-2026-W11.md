@@ -2513,8 +2513,8 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-12 02:18 UTC - coalesce
 - **Status**: Success
-- **Sources**: [phenomenal-normativity](/concepts/phenomenal-normativity/), [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
-- **Target**: [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- **Sources**: [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), [concept-of-phenomenal-value-realism](/concepts/phenomenal-normativity/)
+- **Target**: [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - **Archived**: archive/concepts/concept-of-phenomenal-value-realism.md
 - **References updated**: 6 files (consciousness-value-connection, qualia, ai-consciousness, phenomenology-of-meaning-making, animal-consciousness, phenomenal-value-realism)
 - **References to review**: none

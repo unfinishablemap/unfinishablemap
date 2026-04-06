@@ -55,7 +55,7 @@ Consider the parent deciding whether to attend their child's school performance 
 
 This qualitative distinctness is philosophically significant. Utilitarian calculation assumes that competing moral demands can be placed on a single scale. The phenomenology suggests otherwise. The parent does not experience "3.7 units of obligation to the child versus 4.2 units to the relative." They experience two incommensurable demands, each presenting its own case in its own register. Ruth Chang's work on incommensurability resonates here: when values cannot be ranked on a single scale, the choice between them requires something beyond weighing—it requires the agent to *commit*.
 
-The experience of competing claims also has a felt directionality—moral demands pull in different *directions*, structuring deliberation as a tension between forces rather than a comparison between options. This directional quality, studied within [moral phenomenology](/concepts/moral-phenomenology-and-perception/), is not merely a linguistic convenience but a structural feature of the deliberative experience.
+The experience of competing claims also has a felt directionality—moral demands pull in different *directions*, structuring deliberation as a tension between forces rather than a comparison between options. This directional quality, studied within [moral phenomenology](/concepts/evaluative-phenomenal-character/), is not merely a linguistic convenience but a structural feature of the deliberative experience.
 
 ## Deliberative Attention and Its Oscillation
 

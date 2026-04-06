@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-04-06 09:28:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[topics/phenomenal-value-realism]]'
 - '[[consciousness-value-connection]]'
 - '[[qualia]]'
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[haecceity]]'
 - '[[illusionism]]'
 - '[[introspection]]'
@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[alignment-objective-experiential-terms-2026-01-16]]'
 - '[[moral-architecture-of-consciousness]]'
-- '[[evaluative-qualia]]'
+- '[[evaluative-phenomenal-character]]'
 title: Alignment in Objective Experiential Terms
 topics:
 - '[[purpose-and-alignment]]'
@@ -139,11 +139,11 @@ The case for objective experiential alignment criteria makes commitments that co
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding experiential objectivity
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — The broader connection between human purpose and AI alignment
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — How phenomenal properties carry normative force
+- [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — How phenomenal properties carry normative force
 - [introspection](/concepts/introspection/) — First-person methods as appropriate epistemic tools
 - [haecceity](/concepts/haecceity/) — Why individual identity grounds per-person constraints
 - [illusionism](/concepts/illusionism/) — The strongest challenge to phenomenal objectivity
-- [evaluative-qualia](/concepts/evaluative-qualia/) — Felt goodness and badness as a distinct phenomenal category
+- [evaluative qualia](/concepts/evaluative-phenomenal-character/) — Felt goodness and badness as a distinct phenomenal category
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: how objective experiential criteria fit the broader moral framework
 - [tenets](/tenets/) — The Map's foundational commitments
 

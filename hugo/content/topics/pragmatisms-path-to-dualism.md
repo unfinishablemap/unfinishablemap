@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-04 22:33:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[reductionism]]'
 - '[[phenomenal-consciousness]]'
 - '[[cognitive-phenomenology]]'
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[functionalism]]'
 - '[[pragmatism]]'
 - '[[combination-problem]]'
@@ -81,7 +81,7 @@ The Map's article on [consciousness and the limits of explanation](/topics/consc
 
 The pragmatic path to dualism reaches its strongest form when applied to pragmatism itself. Pragmatism evaluates beliefs by their practical consequences. But evaluation is a conscious activity. Assessing whether a belief "works" — whether it resolves difficulties, opens productive inquiries, coheres with experience — requires phenomenal experience: the felt sense that things fit together, the recognition that one framework illuminates while another obscures. This is [cognitive-phenomenology](/concepts/cognitive-phenomenology/) in action.
 
-If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. This is [phenomenal-normativity](/concepts/phenomenal-normativity/) at stake: the felt sense that one framework illuminates while another obscures carries intrinsic normative force that no purely physical description can ground. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
+If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. This is [phenomenal normativity](/concepts/evaluative-phenomenal-character/) at stake: the felt sense that one framework illuminates while another obscures carries intrinsic normative force that no purely physical description can ground. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
 
 This parallels the [argument-from-reason](/topics/argument-from-reason/): if beliefs are fully explained by physical causes, no belief is rationally justified, including physicalism. The pragmatic version makes the same structural move in different terms. If evaluation is fully explained by physical causes, no evaluation has normative force — including the evaluation that materialism works better than dualism.
 

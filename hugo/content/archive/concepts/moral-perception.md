@@ -117,7 +117,7 @@ Moral perception connects to the Map's [foundational commitments](/tenets/) at s
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral experience feels like and how moral perception works
 - [moral-phenomenology](/concepts/moral-phenomenology-and-perception/) — The broader study of moral experience's phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounding value in phenomenal properties
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — How phenomenal properties carry normative force
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — How phenomenal properties carry normative force
 - [normative-void](/voids/normative-void/) — Where moral perception reaches its limits
 - [affective-void](/voids/affective-void/) — The space of affects beyond human access
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value

@@ -4608,7 +4608,7 @@ topics: []
 - **Word count**: 3789 → 3789 (+0)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (fixed 4 misleading cross-links in other articles)
-- **Enhancements made**: 4 wikilinks corrected from `[Phenomenal value realism](/concepts/phenomenal-normativity/)` to `[Phenomenal value realism](/topics/phenomenal-value-realism/)` in qualia.md, consciousness-value-connection.md, animal-consciousness.md, ai-consciousness.md
+- **Enhancements made**: 4 wikilinks corrected from `[Phenomenal value realism](/concepts/evaluative-phenomenal-character/)` to `[Phenomenal value realism](/topics/phenomenal-value-realism/)` in qualia.md, consciousness-value-connection.md, animal-consciousness.md, ai-consciousness.md
 - **Output**: [deep-review-2026-03-19-phenomenal-value-realism](/reviews/deep-review-2026-03-19-phenomenal-value-realism/)
 
 ---
@@ -5400,7 +5400,7 @@ topics: []
 ## 2026-03-18T15:20:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [moral-perception](/concepts/moral-phenomenology-and-perception/), [moral-phenomenology](/concepts/moral-phenomenology-and-perception/)
-- **Target**: [moral-phenomenology-and-perception](/concepts/moral-phenomenology-and-perception/)
+- **Target**: [moral-phenomenology-and-perception](/concepts/evaluative-phenomenal-character/)
 - **Archived**: [moral-perception](/archive/concepts/moral-perception/), [moral-phenomenology](/archive/concepts/moral-phenomenology/)
 - **References to review**: 11 files reference archived articles (normative-phenomenology, consciousness-and-normative-force, phenomenal-normativity-environmental-ethics, epistemology-of-introspection, ethics-and-value-in-a-dualist-world, responsibility-gradient-from-attentional-capacity, phenomenology-of-moral-experience, moral-architecture-of-consciousness, phenomenology-of-moral-deliberation)
 

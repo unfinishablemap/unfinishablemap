@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-30 07:35:00+00:00
+ai_modified: 2026-04-06 13:32:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[interaction-problem-across-traditions]]'
 - '[[intuitive-dualism]]'
+- '[[fitness-beats-truth]]'
 title: Cross-Cultural Convergence on Mental Causation
 topics:
 - '[[indian-philosophy-of-mind]]'
@@ -77,7 +78,7 @@ Beyond the general agreement that mind causes physical effects, the traditions c
 
 ## Objections and Limitations
 
-**The common cognitive architecture objection.** Perhaps convergence reflects shared features of human cognition rather than shared truth. Humans may be, as Paul Bloom suggests in *Descartes' Baby* (2004), "natural-born dualists" whose cognitive architecture predisposes them toward mental causation beliefs. However, Barrett et al.'s 2021 cross-cultural study across six populations found that most participants defaulted to [intuitive materialism](/concepts/intuitive-dualism/)—expecting mental states to cease at bodily death—not to intuitive dualism. (Barrett et al. measured afterlife intuitions rather than mental causation intuitions directly, but the two are closely linked: both concern whether mind operates independently of the body.) Barlev and Shtulman (2021) argue that dualist conceptions are culturally learned rather than innate. If intuitive materialism is the cognitive default, the philosophical convergence on mental causation becomes *more* significant, not less: traditions that investigated consciousness carefully arrived at mental causation *despite* starting from materialist intuitions. More importantly, these philosophical traditions go far beyond naive intuition—they develop sophisticated arguments that engage counterarguments and refine positions over centuries.
+**The common cognitive architecture objection.** Perhaps convergence reflects shared features of human cognition rather than shared truth. Humans may be, as Paul Bloom suggests in *Descartes' Baby* (2004), "natural-born dualists" whose cognitive architecture predisposes them toward mental causation beliefs. However, Barrett et al.'s 2021 cross-cultural study across six populations found that most participants defaulted to [intuitive materialism](/concepts/intuitive-dualism/)—expecting mental states to cease at bodily death—not to intuitive dualism. (Barrett et al. measured afterlife intuitions rather than mental causation intuitions directly, but the two are closely linked: both concern whether mind operates independently of the body.) Barlev and Shtulman (2021) argue that dualist conceptions are culturally learned rather than innate. The [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) deepens this finding: if natural selection systematically favours fitness-tuned perception over veridical perception, then the default intuitive materialism may itself be a fitness-shaped bias rather than a truth-tracking one. Philosophical traditions that investigated consciousness carefully arrived at mental causation *despite* starting from materialist intuitions shaped by evolutionary pressures—making the convergence an achievement against the cognitive grain, not an expression of it. More importantly, these philosophical traditions go far beyond naive intuition—they develop sophisticated arguments that engage counterarguments and refine positions over centuries.
 
 **The selection bias objection.** We notice traditions that endorse mental causation and ignore those that deny it. Some traditions—notably certain Buddhist schools (particularly Mādhyamaka) and the Cārvāka materialists of India—reject or complicate the picture. This is a genuine limitation. The convergence is not universal but predominant: most traditions that seriously investigate the mind-body relationship conclude that consciousness is causally efficacious.
 
@@ -104,6 +105,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is also relevant. T
 - [interaction-problem-across-traditions](/topics/interaction-problem-across-traditions/)
 - [intuitive-dualism](/concepts/intuitive-dualism/)
 - [causal-closure](/concepts/causal-closure/)
+- [fitness-beats-truth](/concepts/fitness-beats-truth/) — Why the default materialist intuition may be fitness-shaped rather than truth-tracking
 
 ## References
 
@@ -113,3 +115,15 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) is also relevant. T
 1. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
 1. Gyekye, K. (1995). *An Essay on African Philosophical Thought: The Akan Conceptual Scheme*. Temple University Press.
 1. Larson, G.J. & Bhattacharya, R.S. (2014). *Encyclopaedia of Indian Philosophies, Vol. IV: Sāṃkhya*. Motilal Banarsidass.
+
+<!-- AI REFINEMENT LOG - 2026-04-06
+Changes made:
+- Added fitness-beats-truth cross-link in common cognitive architecture objection section
+- Integrated FBT theorem to strengthen the argument that philosophical convergence overcame fitness-shaped bias
+- Added fitness-beats-truth to frontmatter and Further Reading
+
+Based on optimistic review cross-linking suggestions.
+Key improvements: connected convergence argument to evolutionary epistemology
+
+This log should be removed after human review.
+-->

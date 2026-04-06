@@ -198,10 +198,10 @@ The phenomenology of moral experience connects to the Map's [foundational commit
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical framework: phenomenal properties constitute value
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
-- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — What moral experience feels like and whether ethical properties can be directly perceived
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — The thesis that phenomenal states carry intrinsic normative force
+- [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — What moral experience feels like and whether ethical properties can be directly perceived
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — The thesis that phenomenal states carry intrinsic normative force
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of moral, epistemic, aesthetic, and prudential demands
-- [normative-phenomenology](/concepts/normative-phenomenology/) — First-person investigation of normative experience broadly
+- [normative-phenomenology](/concepts/evaluative-phenomenal-character/) — First-person investigation of normative experience broadly
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Valence as the felt quality of emotion
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience resists reduction
 - [normative-void](/voids/normative-void/) — Cognitive limits on moral knowledge

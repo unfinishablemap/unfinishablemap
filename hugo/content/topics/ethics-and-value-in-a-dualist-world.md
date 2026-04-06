@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-05 10:01:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[consciousness-value-connection]]'
 - '[[agent-causation]]'
 - '[[moral-responsibility]]'
-- '[[phenomenal-normativity]]'
-- '[[moral-phenomenology-and-perception]]'
-- '[[normative-phenomenology]]'
+- '[[evaluative-phenomenal-character]]'
+- '[[evaluative-phenomenal-character]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[interactionist-dualism]]'
 created: 2026-03-11
 date: &id001 2026-03-11
@@ -80,15 +80,15 @@ The convergence matters: value and agency share the same ground. Consciousness i
 
 ### Normativity Is Built into Experience
 
-[Moral normativity](/topics/consciousness-and-normative-force/)—the binding force of "ought"—finds its ground in the same place. [phenomenal-normativity](/concepts/phenomenal-normativity/) explains that the badness of suffering is constitutive of what suffering feels like, not a judgement layered on top of a neutral sensation. The "ought" that arises from encountering suffering is not derived from a theory or constructed by a procedure—it is present in the experience itself.
+[Moral normativity](/topics/consciousness-and-normative-force/)—the binding force of "ought"—finds its ground in the same place. [phenomenal normativity](/concepts/evaluative-phenomenal-character/) explains that the badness of suffering is constitutive of what suffering feels like, not a judgement layered on top of a neutral sensation. The "ought" that arises from encountering suffering is not derived from a theory or constructed by a procedure—it is present in the experience itself.
 
-The felt difference between "I notice this is painful" and "this pain demands response" is a phenomenal difference, not an inferential one. [Systematic investigation](/concepts/normative-phenomenology/) of normative experience reveals a demand character shared across moral, epistemic, aesthetic, and prudential domains—each with distinct phenomenal texture but a common structure of normativity built into the experience rather than attributed to it.
+The felt difference between "I notice this is painful" and "this pain demands response" is a phenomenal difference, not an inferential one. [Systematic investigation](/concepts/evaluative-phenomenal-character/) of normative experience reveals a demand character shared across moral, epistemic, aesthetic, and prudential domains—each with distinct phenomenal texture but a common structure of normativity built into the experience rather than attributed to it.
 
 Materialist accounts must bridge a gap between descriptive facts and normative force. Dualism eliminates the gap: some facts about consciousness are already normative. The gripping quality of moral demand is not a mystery to be explained but a datum about what consciousness is like.
 
 ### Moral Perception Is Direct
 
-[Moral perception](/concepts/moral-phenomenology-and-perception/)—the direct apprehension of ethical properties in situations—becomes intelligible under dualism in ways it cannot under materialism. The [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference.
+[Moral perception](/concepts/evaluative-phenomenal-character/)—the direct apprehension of ethical properties in situations—becomes intelligible under dualism in ways it cannot under materialism. The [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) reveals that wrongness organises an entire perceptual scene, arriving with the speed and involuntariness of sensory perception rather than the deliberation of inference.
 
 If consciousness is irreducible, its capacity to apprehend value is not reducible to pattern-matching over sensory inputs. Moral perception is a genuine mode of awareness—consciousness directed toward evaluative properties of situations. The projectivist objection (that we merely project moral properties onto neutral situations) loses force under the framework established above: if evaluative properties genuinely characterise conscious experience—if the badness of suffering is constitutive of what suffering phenomenally is—then moral perception apprehends real features of experience rather than projecting fictional properties onto a value-free world. The ontological reality of consciousness under dualism ensures these evaluative features are irreducible, not artefacts of functional description.
 
@@ -151,8 +151,8 @@ The Unfinishable Map's five tenets jointly create the conditions for unified dua
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness from perception through deliberation to choice
 - [moral-responsibility](/concepts/moral-responsibility/) — Agent causation and metaphysical desert
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
-- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Normativity built into phenomenal character
+- [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — Direct apprehension of ethical properties
+- [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — Normativity built into phenomenal character
 - [living-with-the-map](/apex/living-with-the-map/) — From metaphysics to practical guidance
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: unified moral architecture from value, agency, normativity, and moral perception
 - [free-will](/topics/free-will/) — The debate over genuine origination versus compatibilism

@@ -31,7 +31,7 @@ None. All six adversarial personas engaged. No factual errors, attribution issue
 
 ### Medium Issues Found
 - **Missing connection to evaluative qualia**: The article's central philosophical move—"what matters" cannot be computed—lacked any connection to the site's evaluative-qualia content, which directly grounds this claim phenomenologically. "Mattering" has phenomenal character (felt significance, experienced urgency) that resists functional decomposition. **Resolved**: Added a paragraph in the Non-Computability Turn section connecting the "what matters" argument to evaluative qualia and phenomenal normativity.
-- **Missing cross-links**: No links to [evaluative-qualia](/concepts/evaluative-qualia/), [phenomenal-normativity](/concepts/phenomenal-normativity/), or [consciousness-value-connection](/concepts/consciousness-value-connection/) despite strong thematic overlap. **Resolved**: Added to concepts frontmatter and Further Reading.
+- **Missing cross-links**: No links to [evaluative-qualia](/concepts/evaluative-phenomenal-character/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), or [consciousness-value-connection](/concepts/consciousness-value-connection/) despite strong thematic overlap. **Resolved**: Added to concepts frontmatter and Further Reading.
 
 ### Counterarguments Considered
 No new counterarguments beyond those documented in reviews 1-4. The self-allocation objection, MWI incompatibility, unfalsifiability, and computability of "what matters" remain handled in the text and documented as bedrock disagreements.
@@ -54,8 +54,8 @@ All 6 original sources re-verified — no issues. New citation (Rawlette 2016) a
 
 ### Cross-links Added
 **New outbound links (3):**
-1. **[evaluative-qualia](/concepts/evaluative-qualia/)** — Inline in Non-Computability Turn + Further Reading
-2. **[phenomenal-normativity](/concepts/phenomenal-normativity/)** — Inline in Non-Computability Turn + Further Reading
+1. **[evaluative-qualia](/concepts/evaluative-phenomenal-character/)** — Inline in Non-Computability Turn + Further Reading
+2. **[phenomenal-normativity](/concepts/evaluative-phenomenal-character/)** — Inline in Non-Computability Turn + Further Reading
 3. **[consciousness-value-connection](/concepts/consciousness-value-connection/)** — Inline in Non-Computability Turn + Further Reading
 
 ### Word Count
@@ -69,4 +69,4 @@ None. The evaluative-qualia cross-link was the primary gap identified in this cr
 
 - The article remains at full stability. The only substantive change was adding a paragraph connecting the existing "what matters" argument to the site's evaluative-qualia content—a cross-link enhancement, not a structural revision.
 - All bedrock disagreements documented in previous reviews remain unchanged: self-allocation objection, MWI incompatibility, unfalsifiability of consciousness-based quantum interpretations.
-- Future reviews should not re-expand the evaluative qualia connection; the current paragraph is appropriately concise. The detailed treatment belongs in [evaluative-qualia](/concepts/evaluative-qualia/) and [phenomenal-normativity](/concepts/phenomenal-normativity/), not here.
+- Future reviews should not re-expand the evaluative qualia connection; the current paragraph is appropriately concise. The detailed treatment belongs in [evaluative-qualia](/concepts/evaluative-phenomenal-character/) and [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), not here.

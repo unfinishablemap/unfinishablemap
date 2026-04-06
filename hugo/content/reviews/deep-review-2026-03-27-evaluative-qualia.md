@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-27
-**Article**: [Evaluative Qualia](/concepts/evaluative-qualia/)
+**Article**: [Evaluative Qualia](/concepts/evaluative-phenomenal-character/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -44,7 +44,7 @@ topics: []
 
 3. **Weak engagement with physicalist neural-encoding response**: Strengthened the evolutionary-tracking rebuttal to acknowledge the stronger claim that neural wiring *encodes* logical structure (not just correlates with it), then argue that even perfect structural mirroring would not produce phenomenal compulsion.
 
-4. **Missing body-text cross-links**: Added inline links to `[phenomenal-normativity](/concepts/phenomenal-normativity/)` and `[mysterianism](/concepts/mysterianism/)` in body text.
+4. **Missing body-text cross-links**: Added inline links to `[phenomenal-normativity](/concepts/evaluative-phenomenal-character/)` and `[mysterianism](/concepts/mysterianism/)` in body text.
 
 5. **Missing cross-link to `consciousness-and-the-problem-of-normative-force`**: Added to `related_articles` frontmatter.
 
@@ -79,7 +79,7 @@ topics: []
 
 ### Cross-links Added
 
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) (inline, "Why Physical Processes Cannot Ground Logical Authority" section)
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) (inline, "Why Physical Processes Cannot Ground Logical Authority" section)
 - [mysterianism](/concepts/mysterianism/) (inline, "Consciousness as the Site of Logical Authority" section)
 - [phenomenology-of-inferential-understanding](/topics/phenomenology-of-understanding/) (Further Reading and frontmatter)
 - [consciousness-and-the-problem-of-normative-force](/topics/consciousness-and-the-grounds-of-normative-authority/) (frontmatter)

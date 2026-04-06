@@ -49,7 +49,7 @@ None.
 
 ### Enhancements Made
 - Added vestibular sense section — a fifth somatic channel often overlooked in embodiment discussions
-- Added inline wikilinks to [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [phenomenal-normativity](/concepts/phenomenal-normativity/), [interactionist-dualism](/concepts/interactionist-dualism/), and [causal-closure](/concepts/causal-closure/)
+- Added inline wikilinks to [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), [interactionist-dualism](/concepts/interactionist-dualism/), and [causal-closure](/concepts/causal-closure/)
 - Clarified source/Map interpretation boundary in interoception section
 - Corrected Husserl/Merleau-Ponty attribution with proper terminology
 - Added Husserl reference to reference list
@@ -57,7 +57,7 @@ None.
 ### Cross-links Added
 - [interactionist-dualism](/concepts/interactionist-dualism/) — in context of Damasio reinterpretation
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — pain asymbolia as concrete instance
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — phenomenal quality in pain asymbolia
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — phenomenal quality in pain asymbolia
 - [causal-closure](/concepts/causal-closure/) — challenged by bidirectional interface
 
 ## Remaining Items

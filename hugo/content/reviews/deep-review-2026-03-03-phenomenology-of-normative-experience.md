@@ -50,12 +50,12 @@ topics: []
 ### Cross-links Added (from other articles to this one)
 - **Stale link fixes (4 articles):**
   - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — updated frontmatter and Further Reading from coalesced slugs
-  - [normative-phenomenology](/concepts/normative-phenomenology/) — updated topic reference, body text link, and Further Reading
+  - [normative-phenomenology](/concepts/evaluative-phenomenal-character/) — updated topic reference, body text link, and Further Reading
   - [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/) — updated frontmatter, body text, and Further Reading
   - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — updated frontmatter, body text, and Further Reading
 - **New Further Reading additions (4 articles):**
   - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — added to Further Reading
-  - [phenomenal-normativity](/concepts/phenomenal-normativity/) — added to Further Reading
+  - [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — added to Further Reading
   - [moral-perception](/concepts/moral-phenomenology-and-perception/) — added to Further Reading
   - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — added to Further Reading
 

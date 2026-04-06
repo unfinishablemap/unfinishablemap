@@ -26,7 +26,7 @@ topics: []
 None. All citations verified accurate (Sellars, Fischer & Ravizza, Goldman, Wolf). No misattributions, dropped qualifiers, source/Map conflation, or internal contradictions.
 
 ### Medium Issues Found
-1. **Missing cross-link to normative-phenomenology**: The "Phenomenology of Reasons" section discusses felt valence, normative weight, and experiential qualities of reasoning without linking to the directly relevant [normative-phenomenology](/concepts/normative-phenomenology/) concept page, which was created after the previous review.
+1. **Missing cross-link to normative-phenomenology**: The "Phenomenology of Reasons" section discusses felt valence, normative weight, and experiential qualities of reasoning without linking to the directly relevant [normative-phenomenology](/concepts/evaluative-phenomenal-character/) concept page, which was created after the previous review.
    - *Resolution*: Added wikilink in text and to frontmatter concepts and Further Reading.
 
 ### Counterarguments Considered
@@ -46,11 +46,11 @@ None. All citations verified accurate (Sellars, Fischer & Ravizza, Goldman, Wolf
 - Strong cross-linking network (13+ articles link to this page)
 
 ### Enhancements Made
-1. Added [normative-phenomenology](/concepts/normative-phenomenology/) wikilink in "Phenomenology of Reasons" section, connecting felt directedness to the systematic investigation of normative experience
-2. Added [normative-phenomenology](/concepts/normative-phenomenology/) to frontmatter concepts and Further Reading
+1. Added [normative-phenomenology](/concepts/evaluative-phenomenal-character/) wikilink in "Phenomenology of Reasons" section, connecting felt directedness to the systematic investigation of normative experience
+2. Added [normative-phenomenology](/concepts/evaluative-phenomenal-character/) to frontmatter concepts and Further Reading
 
 ### Cross-links Added
-- [normative-phenomenology](/concepts/normative-phenomenology/)
+- [normative-phenomenology](/concepts/evaluative-phenomenal-character/)
 
 ## Remaining Items
 

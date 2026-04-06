@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 11:12:00+00:00
+ai_modified: 2026-04-06 13:47:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### ~~P2: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md~~
-- **Type**: coalesce
-- **Status**: complete
-- **Completed**: 2026-04-06
-- **Result**: Coalesced into wheelers-participatory-universe-and-it-from-bit.md. Both originals archived. 17 files updated with new wikilinks.
-
-### P2: Add cross-links from optimistic-2026-04-06 review (8 pairs)
-- **Type**: refine-draft
+### P2: Research phenomenology of resistance across domains
+- **Type**: research-topic
 - **Status**: pending
-- **Notes**: Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
-- **Source**: chain (from optimistic-review 2026-04-06)
+- **Notes**: Physical resistance (objects pushing back), logical necessity (constraints on thought), moral obligation (binding action), aesthetic standards (judging creation) — these share a common phenomenal signature of encountering something independent of the will. Research whether this convergence reveals a common interface mechanism. Key sources: Husserl on resistance, Scheler on value-resistance, Gibson on affordances, Peacocke on rational compulsion. Feeds into existing P3 expand-topic task on phenomenology of resistance and constraint. Target section: topics/.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-06
+
+### P2: Deep review sleep-consciousness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-02, never deep-reviewed — over 2 months without any review. Voids article on the limits of consciousness during sleep. Verify coherence, accuracy of sleep science claims, cross-references to dream-consciousness and altered-states-of-consciousness, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review subjective-aim.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-02-17 — 48 days ago. Concepts article on Whitehead's subjective aim — a key concept for the Map's process-philosophy connections. Verify coherence, accuracy of Whiteheadian claims, cross-references to process-philosophy and prehension, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-06
+
+### P2: Deep review preemption.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100), last deep review 2026-03-01 — 36 days ago. Concepts article on causal preemption in the mental causation debate. Verify coherence, accuracy of philosophical claims about overdetermination and preemption, cross-references to mental-causation-and-downward-causation and consciousness-and-causal-powers, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-04-06
 
 ### P3: Write article on phenomenology of perceptual learning
@@ -211,8 +226,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Add cross-links between phenomenal-non-compositionality and born-rule, functionalism
 - **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (structural features resisting physical explanation), functionalism → phenomenal-non-compositionality (functional roles compose but phenomenal properties don't), resonance-void → phenomenology-of-choice-and-volition (shared causal-interface opacity). See optimistic-2026-03-24-afternoon.md
+- **Status**: done
+- **Notes**: Suggested by optimistic review. phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (structural features resisting physical explanation), functionalism → phenomenal-non-compositionality (functional roles compose but phenomenal properties don't), resonance-void → phenomenology-of-choice-and-volition (shared causal-interface opacity). See optimistic-2026-03-24-afternoon.md. **Completed**: phenomenal-non-compositionality → born-rule and functionalism links added in 2026-04-06 refine-draft. resonance-void link not addressed (separate scope).
 - **Source**: optimistic-review
 - **Generated**: 2026-03-24
 
@@ -1979,6 +1994,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Research invertebrate consciousness for interface test case
+- **Type**: research-topic
+- **Notes**: The Map's interface model needs to address whether consciousness couples through radically different neural architectures. Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) and corvid cognition (different pallial organisation) are striking test cases. Research convergent evolution of neural correlates of consciousness, distributed vs centralised nervous systems, and what these imply for Tenet 2 (minimal quantum interaction). Feeds into existing P3 expand-topic task on invertebrate consciousness. Target section: topics/ (224/230, 6 slots remaining).
+- **Output**: invertebrate consciousness for interface test case
+
+### ✓ 2026-04-06: Update references to coalesced phenomenal normativity articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/). The following active files reference archived articles (phenomenal-normativity, evaluative-qualia, normative-phenomenology, moral-phenomenology-and-perception) and need wikilinks updated: adaptive-computational-depth, agent-teleology, buddhism-and-dualism, consciousness-value-connection, explanatory-gap, moral-responsibility, phenomenology, qualia, reasons-responsiveness, valence, aesthetics-and-consciousness, alignment-in-objective-experiential-terms, argument-from-reason, consciousness-and-normative-force, consciousness-and-the-authority-of-formal-systems, contemplative-practice-as-philosophical-evidence, emotion-and-dualism, ethics-and-value-in-a-dualist-world, ethics-of-consciousness, ethics-of-possible-ai-consciousness, evaluative-qualia-phenomenal-normativity-across-traditions, hard-problem-of-consciousness, moral-implications-of-genuine-agency, phenomenal-authority-and-first-person-evidence, phenomenal-normativity-environmental-ethics, phenomenal-value-realism, phenomenology-of-intellectual-life, phenomenology-of-moral-life, placebo-effect-and-mental-causation, pragmatisms-path-to-dualism, responsibility-gradient-from-attentional-capacity, moral-architecture-of-consciousness (apex), living-with-the-map (apex), degrees-of-consciousness, intentionality, measurement-problem, phenomenal-consciousness
+- **Output**: None -- Context: Update references to coalesced phenomenal normativity articles
+
+### ✓ 2026-04-06: Add cross-links from optimistic-2026-04-06 review (8 pairs)
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
+- **Output**: Task context:
+Optimistic review identified 8 cross-linking opportunities: (1) phenomenal-non-compositionality → born-rule-and-the-consciousness-interface, (2) phenomenal-non-compositionality → functionalism, (3) inventory-blindness → adaptive-cognitive-limits, (4) ai-epiphenomenalism → experiential-alignment, (5) contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience, (6) terminal-lucidity-and-filter-transmission-theory → near-death-experiences, (7) cross-cultural-convergence-on-mental-causation → fitness-beats-truth, (8) epistemology-of-limit-knowledge → mysterianism. See optimistic-2026-04-06.md
+
+### ✓ 2026-04-06: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
+- **Type**: coalesce
+- **Notes**: Pessimistic review flagged significant content overlap between these two Wheeler articles — both discuss Wheeler's core vision, Dembski's critique (nearly identical paragraphs), Wheeler's rejection of MWI, and Stapp. A reader encountering both finds significant redundancy. Either coalesce into a single article or sharply differentiate: participatory-universe focuses on the participatory thesis (observer-constitution, delayed choice, self-excited circuit), it-from-bit focuses on information ontology (three descendant programmes, Barbour's critique). Coalescing would also free a topics/ slot (currently 226/230). See pessimistic-2026-04-06b.md
+- **Output**: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
+
+Task context:
+Pessimistic review flagged significant content overlap between these two Wheeler articles — both discuss Wheeler's core vision, Dembski's critique (nearly identical paragraphs), Wheeler's rejection of MWI, and Stapp. A reader encountering both finds significant redundancy. Either coalesce into a single article or sharply differentiate: participatory-universe focuses on the participatory thesis (observer-constitution, delayed choice, self-excited circuit), it-from-bit focuses on information ontology (three descendant programmes, Barbour's critique). Coalescing would also free a topics/ slot (currently 226/230). See pessimistic-2026-04-06b.md
 
 ### ✓ 2026-04-06: Update references to coalesced consciousness-evolution articles
 - **Type**: cross-review

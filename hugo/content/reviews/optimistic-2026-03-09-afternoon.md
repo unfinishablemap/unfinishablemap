@@ -107,7 +107,7 @@ The Map practices epistemic humility without surrendering to it. [selection-laws
 - **Tenet alignment**: All five tenets—each generates specific testable predictions
 
 #### Aesthetic Experience as Window on Irreducibility
-- **Builds on**: [binding-and-beauty](/topics/aesthetics-and-consciousness/), [phenomenal-normativity](/concepts/phenomenal-normativity/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
+- **Builds on**: [binding-and-beauty](/topics/aesthetics-and-consciousness/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/), [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - **Would address**: Beauty, elegance, and aesthetic satisfaction resist functional reduction as strongly as pain and colour. Systematic treatment of aesthetic phenomenology could provide independent evidence for irreducibility from a domain less contested than qualia
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Dualism (aesthetic properties are not physical properties), Bidirectional Interaction (aesthetic judgements causally influence creative output)

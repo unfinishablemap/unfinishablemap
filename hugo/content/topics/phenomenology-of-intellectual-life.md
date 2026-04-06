@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-04-04 07:38:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ concepts:
 - '[[semantic-memory]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[global-workspace-theory]]'
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
 created: 2026-01-22
 date: &id001 2026-04-03
 description: 'Intellectual life has irreducible phenomenal character: the work of
@@ -276,7 +276,7 @@ None of these findings currently obtains.
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — Consciousness taking itself as object
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed structure of experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to conscious experience
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property
+- [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — Logical compulsion as one species of normative phenomenal property
 - [resonance-void](/voids/resonance-void/) — Where felt significance exceeds articulation
 
 ## References

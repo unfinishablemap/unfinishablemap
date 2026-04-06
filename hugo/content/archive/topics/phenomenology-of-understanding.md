@@ -226,7 +226,7 @@ Several findings would weaken PCT:
 - [meaning-of-life](/topics/meaning-of-life/) — Consciousness-grounded meaning and existential significance
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and narrative integration
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Inference about non-actual scenarios
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Logical compulsion as one species of normative phenomenal property
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Logical compulsion as one species of normative phenomenal property
 
 ## References
 

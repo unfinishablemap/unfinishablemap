@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ concepts:
 - '[[pre-conceptual-knowing]]'
 - '[[attention-as-interface]]'
 - '[[intuitive-dualism]]'
-- '[[normative-phenomenology]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[decoherence]]'
 created: 2026-01-14
 date: &id001 2026-01-14
@@ -187,7 +187,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [existentialism](/concepts/existentialism/) — Sartre's pour-soi and Heidegger's Dasein as phenomenological developments
 - [introspection](/concepts/introspection/) — The reliability debate and trained first-person methods
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Merleau-Ponty's lived body and Heidegger's Stimmung applied to spatial experience
-- [normative-phenomenology](/concepts/normative-phenomenology/) — How phenomenological investigation generates normative claims about consciousness
+- [normative phenomenology](/concepts/evaluative-phenomenal-character/) — How phenomenological investigation generates normative claims about consciousness
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The void territory where conceptual thought meets its limits
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution
 

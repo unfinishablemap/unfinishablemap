@@ -129,13 +129,13 @@ Or consider aesthetic versus moral normativity. The artist recognises beauty in 
 
 If normative demands were mere preferences or desire-strengths, conflict between them would feel like competing desires—like wanting both chocolate and cheese when one must choose. But normative conflict feels fundamentally different. Desires compete on a single dimension (strength of wanting); normative demands compete across qualitatively distinct dimensions. No amount of intensified desire produces the felt character of moral obligation.
 
-[Phenomenal normativity](/concepts/phenomenal-normativity/)—the position that normative force is built into the structure of consciousness—predicts exactly this qualitative distinctness. If normativity were projected onto experience by external mechanisms, one would expect a single projection mechanism producing a single felt quality modulated only by intensity. The actual phenomenology—multiple distinct normative textures with shared architectural features—better fits intrinsic normativity than any projectivist account.
+[Phenomenal normativity](/concepts/evaluative-phenomenal-character/)—the position that normative force is built into the structure of consciousness—predicts exactly this qualitative distinctness. If normativity were projected onto experience by external mechanisms, one would expect a single projection mechanism producing a single felt quality modulated only by intensity. The actual phenomenology—multiple distinct normative textures with shared architectural features—better fits intrinsic normativity than any projectivist account.
 
 ### Against Domain-Specific Accounts
 
 If normativity were merely projected, each domain should feel normative for different reasons—moral norms because of emotional conditioning, epistemic norms because of cognitive habits, aesthetic norms because of cultural training. Sentimentalists like Prinz (2007) argue that moral emotions are culturally constructed projections, and functionalists hold that "demand character" is simply the functional role of certain mental states. A functionalist might reply that shared architecture is unsurprising: all normative states share the functional roles of evaluation, motivation, and action-guidance. But what demands explanation is not shared *functional* structure but shared *qualitative* structure—four domains with distinct evolutionary histories and cultural contexts all presenting their objects with the same phenomenal character of demanding response. Functional overlap predicts shared processing; it does not predict shared phenomenology.
 
-[Phenomenal normativity](/concepts/phenomenal-normativity/) offers a more direct explanation: normativity is built into the structure of consciousness itself. Different normative domains tap into a single underlying feature—the capacity of experience to present its objects as mattering.
+[Phenomenal normativity](/concepts/evaluative-phenomenal-character/) offers a more direct explanation: normativity is built into the structure of consciousness itself. Different normative domains tap into a single underlying feature—the capacity of experience to present its objects as mattering.
 
 ### Consciousness as Arbiter
 
@@ -190,7 +190,7 @@ The phenomenology of normative experience connects to the Map's [foundational co
 ## Further Reading
 
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — What moral experience feels like from the inside
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — Intrinsic normative force built into phenomenal character
+- [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) — Intrinsic normative force built into phenomenal character
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
 - [moral-perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of ethical properties
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and reasoning

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-28 03:12:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,8 +10,8 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[prebiotic-collapse]]'
 - '[[bidirectional-interaction]]'
-- '[[evaluative-qualia]]'
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[consciousness-value-connection]]'
 created: 2026-02-24
 date: &id001 2026-02-24
@@ -64,7 +64,7 @@ If consciousness drives computational allocation—deciding where reality resolv
 
 The difference is between *what to compute* and *what matters*. A video game's LOD system follows pre-specified rules: render in detail near the camera. The "camera" is defined computationally. But in the adaptive-depth framework, what triggers higher resolution is conscious observation—and defining consciousness computationally recreates the problem. A subroutine that determines "where consciousness is attending" must either reduce consciousness to a computable predicate (begging the question against non-computability) or appeal to something outside the computation. This creates a regress: whatever process allocates computational depth must itself be computed at some level, requiring its own allocator, and so on—unless the allocator is non-computational.
 
-The recent literature on [evaluative-qualia](/concepts/evaluative-qualia/) sharpens this point. If "what matters" were a computable predicate, mattering would reduce to a functional property—a pattern of weights in an optimisation process. But mattering has [phenomenal character](/concepts/phenomenal-normativity/): the felt significance that draws attention to a scene, the experienced urgency that makes one domain of inquiry more compelling than another. This evaluative dimension of consciousness—goodness, importance, beauty, salience experienced as intrinsic features of awareness—is precisely what resists functional decomposition (Rawlette 2016). The allocator of computational depth does not merely process information; it encounters value. And encountering value, as the [consciousness-value connection](/concepts/consciousness-value-connection/) suggests, requires the kind of non-computable consciousness the regress argument points toward.
+The recent literature on [evaluative qualia](/concepts/evaluative-phenomenal-character/) sharpens this point. If "what matters" were a computable predicate, mattering would reduce to a functional property—a pattern of weights in an optimisation process. But mattering has [phenomenal character](/concepts/evaluative-phenomenal-character/): the felt significance that draws attention to a scene, the experienced urgency that makes one domain of inquiry more compelling than another. This evaluative dimension of consciousness—goodness, importance, beauty, salience experienced as intrinsic features of awareness—is precisely what resists functional decomposition (Rawlette 2016). The allocator of computational depth does not merely process information; it encounters value. And encountering value, as the [consciousness-value connection](/concepts/consciousness-value-connection/) suggests, requires the kind of non-computable consciousness the regress argument points toward.
 
 Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) resolves this regress. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [quantum indeterminacy](/concepts/quantum-consciousness/).
 
@@ -121,8 +121,8 @@ The adaptive-computational-depth framework would face serious difficulty if:
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/)
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/)
 - [computational-cognitive-limits](/voids/computational-cognitive-limits/)
-- [evaluative-qualia](/concepts/evaluative-qualia/)
-- [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- [evaluative qualia](/concepts/evaluative-phenomenal-character/)
+- [phenomenal normativity](/concepts/evaluative-phenomenal-character/)
 - [consciousness-value-connection](/concepts/consciousness-value-connection/)
 - [qbism](/concepts/qbism/)
 

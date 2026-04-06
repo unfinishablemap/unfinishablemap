@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-04-02 19:38:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[consciousness-value-connection]]'
 - '[[topics/phenomenal-value-realism|phenomenal value realism]]'
 - '[[qualia]]'
 - '[[valence]]'
-- '[[moral-phenomenology-and-perception]]'
+- '[[evaluative-phenomenal-character]]'
 created: 2026-02-21
 date: &id001 2026-02-21
 description: If value requires consciousness, what grounds environmental obligations?
@@ -29,7 +29,7 @@ related_articles:
 - '[[pain-consciousness-and-causal-power]]'
 - '[[free-will]]'
 - '[[mental-causation-and-downward-causation]]'
-- '[[evaluative-qualia]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]'
 title: Phenomenal Normativity and Environmental Ethics
 topics:
@@ -37,7 +37,7 @@ topics:
 - '[[animal-consciousness]]'
 ---
 
-If intrinsic value exists only in conscious experience—if pain's badness and pleasure's goodness are built into what those experiences feel like—then environmental ethics cannot ground obligations in ecosystems, species, or landscapes themselves. The Unfinishable Map's [phenomenal normativity](/concepts/phenomenal-normativity/) demands that moral weight tracks consciousness, not ecological wholes. Yet this position does not license environmental indifference. It reconfigures environmental ethics around the conscious beings who inhabit, depend on, and appreciate the natural world—yielding obligations that are often more demanding than those of traditional environmentalism.
+If intrinsic value exists only in conscious experience—if pain's badness and pleasure's goodness are built into what those experiences feel like—then environmental ethics cannot ground obligations in ecosystems, species, or landscapes themselves. The Unfinishable Map's [phenomenal normativity](/concepts/evaluative-phenomenal-character/) demands that moral weight tracks consciousness, not ecological wholes. Yet this position does not license environmental indifference. It reconfigures environmental ethics around the conscious beings who inhabit, depend on, and appreciate the natural world—yielding obligations that are often more demanding than those of traditional environmentalism.
 
 ## The Scope Problem
 
@@ -63,7 +63,7 @@ Holmes Rolston III offers ecocentrism's most rigorous defence: natural selection
 
 The deep ecology tradition responds that this reflects Western philosophical narrowness. Indigenous traditions and Eastern philosophies, they argue, recognise nature's intrinsic worth without requiring a conscious experiencer.
 
-The Map's reply: the charge of Western narrowness gets the situation backwards. The claim that value resides in conscious experience rather than in ecological wholes is not a Western parochial view—it is a cross-culturally convergent finding. Buddhist philosophy treats *vedanā* (feeling tone) as the fundamental locus of evaluative significance, more basic than any ecological or cosmological category. Confucian moral phenomenology grounds ethical life in *qíng* (moral feeling) and *liángzhī* (innate evaluative awareness)—value arises where consciousness meets cosmic pattern, not in pattern alone. Indian *rasa* theory (Abhinavagupta, c. 1000 CE) locates aesthetic value exclusively in evaluative consciousness, not in the artistic object. Islamic philosophy from Avicenna through Mulla Sadra treats self-awareness as irreducible and knowledge as a mode of existence constituted by the knowing subject. These traditions—operating within incompatible metaphysical frameworks and sharing no common textual lineage—all converge on the same structural claim: evaluative properties are features of phenomenal experience, not of the experienced world independent of experiencers. (For the full convergence argument, see [evaluative-qualia](/concepts/evaluative-qualia/).)
+The Map's reply: the charge of Western narrowness gets the situation backwards. The claim that value resides in conscious experience rather than in ecological wholes is not a Western parochial view—it is a cross-culturally convergent finding. Buddhist philosophy treats *vedanā* (feeling tone) as the fundamental locus of evaluative significance, more basic than any ecological or cosmological category. Confucian moral phenomenology grounds ethical life in *qíng* (moral feeling) and *liángzhī* (innate evaluative awareness)—value arises where consciousness meets cosmic pattern, not in pattern alone. Indian *rasa* theory (Abhinavagupta, c. 1000 CE) locates aesthetic value exclusively in evaluative consciousness, not in the artistic object. Islamic philosophy from Avicenna through Mulla Sadra treats self-awareness as irreducible and knowledge as a mode of existence constituted by the knowing subject. These traditions—operating within incompatible metaphysical frameworks and sharing no common textual lineage—all converge on the same structural claim: evaluative properties are features of phenomenal experience, not of the experienced world independent of experiencers. (For the full convergence argument, see [evaluative qualia](/concepts/evaluative-phenomenal-character/).)
 
 This does not dismiss what Eastern and indigenous traditions recognise—that human welfare is not the only value at stake in environmental decisions. Phenomenal normativity agrees, and goes further: the welfare of all conscious beings, not just humans, carries intrinsic moral weight. When indigenous traditions treat rivers as sacred, the sacredness reflects the river's role in sustaining conscious life, its place in the aesthetic and spiritual experience of communities, and the recognition that other beings depend on it. The phenomenal experience of encountering the river—its beauty, its sustaining power, the felt connection to place—is where the value resides. Some indigenous ontologies genuinely attribute agency and personhood to rivers and mountains in ways that resist this reinterpretation—the Map acknowledges this tension rather than claiming universal compatibility. But the deep ecology charge that consciousness-centred value theory is parochially Western is refuted by the cross-cultural evidence: the world's major philosophical traditions overwhelmingly locate value in experience, not in unexperienced nature.
 
@@ -105,11 +105,11 @@ The aesthetic argument also extends to future generations. Even if no currently 
 
 Phenomenal normativity combined with the [hard problem](/topics/hard-problem-of-consciousness/) demands environmental moral humility. We cannot be certain where consciousness ends.
 
-The [graduated confidence framework](/topics/ethics-of-consciousness/#moral-uncertainty-when-we-dont-know) applies: moral consideration should be weighted by confidence in consciousness. For mammals and birds, confidence is high—they share the cortical and thalamic structures associated with consciousness in humans, display flexible behaviour, and exhibit pain responses that are neuroanatomically homologous to ours. For fish and cephalopods, confidence is moderate—they possess nociceptors, show aversive learning, and display behavioural flexibility, but their neural architectures differ substantially. For insects, confidence is low but non-zero—their behavioural complexity sometimes exceeds what reflexive processing would predict. For plants and ecosystems as wholes, near-zero—no known mechanism for unified [phenomenal experience](/concepts/phenomenal-normativity/).
+The [graduated confidence framework](/topics/ethics-of-consciousness/#moral-uncertainty-when-we-dont-know) applies: moral consideration should be weighted by confidence in consciousness. For mammals and birds, confidence is high—they share the cortical and thalamic structures associated with consciousness in humans, display flexible behaviour, and exhibit pain responses that are neuroanatomically homologous to ours. For fish and cephalopods, confidence is moderate—they possess nociceptors, show aversive learning, and display behavioural flexibility, but their neural architectures differ substantially. For insects, confidence is low but non-zero—their behavioural complexity sometimes exceeds what reflexive processing would predict. For plants and ecosystems as wholes, near-zero—no known mechanism for unified [phenomenal experience](/concepts/evaluative-phenomenal-character/).
 
 This uncertainty creates a practical asymmetry. The cost of treating a conscious being as if it lacks consciousness (ignoring genuine suffering) is far greater than the cost of treating a non-conscious entity as if it might be conscious (unnecessary caution). Environmental policies should err on the side of protecting beings whose consciousness status is uncertain.
 
-The [phenomenology of normative demands](/topics/consciousness-and-normative-force/) is relevant here. When confronted with a suffering animal, most people experience a direct normative demand—a felt obligation to help. This [moral perception](/concepts/moral-phenomenology-and-perception/) is evidence that consciousness-grounded normativity is at work. We do not infer that the animal's suffering matters through ethical theory; we perceive its mattering directly. Environmental ethics grounded in phenomenal normativity honours this perceptual evidence rather than explaining it away.
+The [phenomenology of normative demands](/topics/consciousness-and-normative-force/) is relevant here. When confronted with a suffering animal, most people experience a direct normative demand—a felt obligation to help. This [moral perception](/concepts/evaluative-phenomenal-character/) is evidence that consciousness-grounded normativity is at work. We do not infer that the animal's suffering matters through ethical theory; we perceive its mattering directly. Environmental ethics grounded in phenomenal normativity honours this perceptual evidence rather than explaining it away.
 
 ## Practical Implications
 
@@ -139,18 +139,18 @@ The Map's tenets shape environmental ethics distinctively:
 
 ## Further Reading
 
-- [phenomenal-normativity](/concepts/phenomenal-normativity/) — The view that experience carries intrinsic normative force
+- [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — The view that experience carries intrinsic normative force
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of consciousness across beings
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for and scope of animal experience
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical foundation
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic normativity beyond hedonic valence
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How normative demands present in experience across four domains
-- [Moral Phenomenology and Perception](/concepts/moral-phenomenology-and-perception/) — Direct apprehension of moral properties
+- [Moral Phenomenology and Perception](/concepts/evaluative-phenomenal-character/) — Direct apprehension of moral properties
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's awfulness is constitutive, not correlative
 - [free-will](/topics/free-will/) — Genuine moral agency and environmental responsibility
 - [meaning-of-life](/topics/meaning-of-life/) — How consciousness grounds meaning and value
-- [evaluative-qualia](/concepts/evaluative-qualia/) — Phenomenal experiences carrying intrinsic evaluative character
+- [evaluative qualia](/concepts/evaluative-phenomenal-character/) — Phenomenal experiences carrying intrinsic evaluative character
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-cultural convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western sources
 
 ## References

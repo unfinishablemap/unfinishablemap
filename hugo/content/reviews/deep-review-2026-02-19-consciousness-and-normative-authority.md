@@ -48,7 +48,7 @@ topics: []
 
 - **Kantian constructivism (Korsgaard)**: The authority of moral claims may derive from the reflective structure of rational agency rather than phenomenal encounter. The expanded Kant treatment now engages substantively and argues that rational agency itself depends on conscious experience.
 
-- **Buddhist deconstruction of intrinsic badness**: Contemplative practice can deconstruct pain's aversive quality. This represents a genuine challenge to the constitutive claim but is better addressed in the [phenomenal-normativity](/concepts/phenomenal-normativity/) concept page than here.
+- **Buddhist deconstruction of intrinsic badness**: Contemplative practice can deconstruct pain's aversive quality. This represents a genuine challenge to the constitutive claim but is better addressed in the [phenomenal-normativity](/concepts/evaluative-phenomenal-character/) concept page than here.
 
 - **Epistemic circularity**: If consciousness is the only access to normative reality, self-correction seems impossible. The new paragraph on iterative broadening of phenomenal access addresses this.
 

@@ -85,7 +85,7 @@ The voids programme is the Map's most intellectually humble achievement — and 
 ### High Priority
 
 #### Phenomenal Intentionality as Foundation
-- **Builds on**: [argument-from-reason](/topics/argument-from-reason/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [phenomenal-normativity](/concepts/phenomenal-normativity/)
+- **Builds on**: [argument-from-reason](/topics/argument-from-reason/), [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/), [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - **Would address**: The claim that intentionality derives from phenomenal consciousness underlies many of the Map's strongest arguments but has never received independent philosophical treatment. Multiple articles assume it; none defend it systematically
 - **Estimated scope**: Long article (2000-3000 words)
 - **Tenet alignment**: Supports Dualism (consciousness grounds intentionality, not vice versa) and Bidirectional Interaction (genuine understanding requires phenomenal consciousness)

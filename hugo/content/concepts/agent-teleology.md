@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-06 14:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[intentionality]]'
 - '[[reasons-responsiveness]]'
-- '[[phenomenal-normativity]]'
+- '[[evaluative-phenomenal-character]]'
 - '[[mysterianism]]'
 - '[[process-philosophy]]'
 created: 2026-02-16
@@ -89,7 +89,7 @@ Agent teleology is not purely theoretical. It has a first-person signature: the 
 
 The [phenomenology of choice](/concepts/phenomenology-of-choice-and-volition/) describes this directly. Deliberation feels different from passive event-observation. Choosing to direct attention feels different from having attention captured by a loud noise—a contrast explored in the Map's [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) article. The experience of effort, of weighing reasons, of committing to one option over another—this is what agent teleology feels like from the inside.
 
-Three features of this phenomenology deserve emphasis. First, *directedness*: purposive action leans toward a future not yet actual. The gazelle does not merely react to the lion; it orients toward survival as a state it is working to bring about. Second, *ownership*: purposes are experienced as genuinely one's own, not imposed by external causes. Third, *normativity*: purposive action carries a sense of what *ought* to result, not merely what will. The gazelle is oriented toward survival as what should happen, connecting purpose to [phenomenal normativity](/concepts/phenomenal-normativity/)—the experience of value built into conscious states.
+Three features of this phenomenology deserve emphasis. First, *directedness*: purposive action leans toward a future not yet actual. The gazelle does not merely react to the lion; it orients toward survival as a state it is working to bring about. Second, *ownership*: purposes are experienced as genuinely one's own, not imposed by external causes. Third, *normativity*: purposive action carries a sense of what *ought* to result, not merely what will. The gazelle is oriented toward survival as what should happen, connecting purpose to [phenomenal normativity](/concepts/evaluative-phenomenal-character/)—the experience of value built into conscious states.
 
 Physicalists interpret this phenomenology as an illusion or redescription: it *feels* purposive, but the real explanation is mechanistic. The Map takes the phenomenology seriously. If purpose-directed action feels fundamentally different from passive reception, and if that phenomenological difference correlates with distinct neural signatures (frontal theta, bidirectional coherence, the 300ms voluntary deployment window described in [agent-causation](/concepts/agent-causation/)), the parsimonious interpretation is that something genuinely different is happening—not that appearance and reality diverge at precisely the point where consciousness reports its own activity.
 

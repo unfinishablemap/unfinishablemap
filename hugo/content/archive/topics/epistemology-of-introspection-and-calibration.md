@@ -177,7 +177,7 @@ The gradient matters for assessing which philosophical arguments introspective e
 
 **It can establish structural features of experience.** The unity of consciousness, temporal structure, the awareness/content distinction — these draw on evidence that converges across independent traditions and correlates with third-person measurement.
 
-**It can ground evaluative awareness.** If introspection provides sui generis access to phenomenal content, and some content is inherently evaluative — the felt badness of suffering, the felt rightness of compassion — then introspective epistemology extends to [moral perception](/concepts/moral-phenomenology-and-perception/). The [dualist ethics](/topics/ethics-and-value-in-a-dualist-world/) the Map develops depends on this.
+**It can ground evaluative awareness.** If introspection provides sui generis access to phenomenal content, and some content is inherently evaluative — the felt badness of suffering, the felt rightness of compassion — then introspective epistemology extends to [moral perception](/concepts/evaluative-phenomenal-character/). The [dualist ethics](/topics/ethics-and-value-in-a-dualist-world/) the Map develops depends on this.
 
 **It cannot establish metaphysical conclusions on its own.** That experience has qualitative character does not entail dualism without additional philosophical argument. Introspection provides the *data*; the inference to irreducibility requires the reasoning the Map's [arguments for dualism](/concepts/dualism/) develop.
 
