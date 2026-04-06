@@ -4,7 +4,7 @@ description: "Episodic memory is constructive re-experiencing, not data retrieva
 created: 2026-01-17
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-03-28T14:49:00+00:00
+ai_modified: 2026-04-06T22:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-03-11T22:42:00+00:00
+last_deep_review: 2026-04-06T22:25:00+00:00
 coalesced_from:
   - "/concepts/autonoetic-consciousness/"
   - "/concepts/constructive-memory/"
@@ -166,7 +166,7 @@ Episodic memory supports all five foundational commitments.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Episodic memory presupposes a determinate history—one of many possibilities became actual, and that's what you remember. The pastness quale marks personal ownership, not just temporal location. If identity bifurcated at every quantum event, there would be no fact about which memories are *truly* mine. This connects to [[haecceity]]—requiring haecceitistic facts about which possibilities became actual.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" computational theory of memory—storage and retrieval of information—fails to account for the phenomenal facts. The remember/know distinction demonstrates that the same information can be accessed with or without experiential re-living, suggesting phenomenology isn't reducible to information content. Dismissing the phenomenology as "less parsimonious" assumes we understand memory well enough to judge what's essential. We don't.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" computational theory of memory—storage and retrieval of information—fails to account for the phenomenal facts. The remember/know distinction demonstrates that the same information can be accessed with or without experiential re-living, suggesting phenomenology isn't reducible to information content. The [[epistemological-limits-of-occams-razor|epistemological limits of parsimony]] apply directly: physicalism and dualism do not explain memorial phenomenology equally well, so the precondition for invoking parsimony—equal explanatory power—is unmet.
 
 ## Further Reading
 
@@ -182,6 +182,7 @@ Episodic memory supports all five foundational commitments.
 - [[binding-problem]] — Unity of experience and hippocampal binding
 - [[illusionism]] — The challenge to phenomenal consciousness claims
 - [[capability-division-problem]] — The general framework this article's dual-domain analysis extends
+- [[epistemological-limits-of-occams-razor]] — Why parsimony cannot settle the consciousness debate
 - [[bergson-and-duration]] — Bergson's full philosophy of time and memory
 - [[phenomenology-of-memory-and-the-self]] — How constructive memory constitutes and threatens selfhood
 - [[anoetic-noetic-autonoetic-consciousness]] — Tulving's full tripartite hierarchy
