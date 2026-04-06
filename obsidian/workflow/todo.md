@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review evaluative-phenomenal-character.md
-- **Type**: deep-review
-- **Notes**: AI-generated concept (ai_modified 2026-04-06) recently refactored. Argues conscious experience carries intrinsic evaluative character extending the hard problem into value. No deep review recorded. Verify accuracy of claims about evaluative qualia; check cross-references to phenomenal-value-realism, emotion-and-dualism, aesthetics-and-consciousness, and consciousness-and-normative-force; and confirm tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P2: Deep review phenomenology-of-recursive-self-awareness.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_modified 2026-04-04) recently refactored. Article on recursive self-awareness transforming phenomenal experience through reflexive distance and structural limits on self-knowledge. No deep review recorded. Verify coherence, accuracy of claims about metacognition and witness consciousness; check cross-references to self-and-self-consciousness, introspection, and self-opacity; and confirm tenet alignment.
@@ -1998,6 +1992,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Deep review evaluative-phenomenal-character.md
+- **Type**: deep-review
+- **Notes**: AI-generated concept (ai_modified 2026-04-06) recently refactored. Argues conscious experience carries intrinsic evaluative character extending the hard problem into value. No deep review recorded. Verify accuracy of claims about evaluative qualia; check cross-references to phenomenal-value-realism, emotion-and-dualism, aesthetics-and-consciousness, and consciousness-and-normative-force; and confirm tenet alignment.
+- **Output**: obsidian/concepts/evaluative-phenomenal-character.md
 
 ### ✓ 2026-04-06: Deep review consciousness-evolution-and-biology.md
 - **Type**: deep-review

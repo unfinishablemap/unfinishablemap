@@ -1,10 +1,10 @@
 ---
 title: "Evaluative Phenomenal Character"
-description: "Conscious experience carries intrinsic evaluative character—felt goodness, badness, beauty, wrongness—that extends the hard problem into value."
+description: "Conscious experience carries intrinsic evaluative character—felt goodness, badness, beauty, wrongness—extending the hard problem of consciousness into value."
 created: 2026-01-16
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-06T17:36:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -12,9 +12,9 @@ topics:
   - "[[consciousness-and-normative-force]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-moral-life]]"
+  - "[[phenomenal-value-realism]]"
 concepts:
   - "[[qualia]]"
-  - "[[phenomenal-value-realism]]"
   - "[[emotion-and-dualism]]"
   - "[[introspection]]"
   - "[[illusionism]]"
@@ -54,7 +54,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated:
-last_deep_review: 2026-04-06T14:06:00+00:00
+last_deep_review: 2026-04-06T17:36:00+00:00
 coalesced_from:
   - "/concepts/phenomenal-normativity/"
   - "/concepts/evaluative-qualia/"
@@ -86,7 +86,7 @@ Hume argued you cannot derive "ought" from "is." The logical point stands: no fo
 
 ## Phenomenal Value Pluralism
 
-While hedonic valence matters, the Map holds it is not the only thing that matters. Multiple features of conscious experience carry intrinsic value:
+While hedonic [[valence]] matters, the Map holds it is not the only thing that matters. Multiple features of conscious experience carry intrinsic value:
 
 | Feature | Why It Matters |
 |---------|----------------|
