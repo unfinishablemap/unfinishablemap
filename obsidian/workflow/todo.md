@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address Wheeler appropriation and add Tegmark decoherence criticism in Wheeler articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two high-severity issues across topics/it-from-bit-and-participatory-ontology.md and topics/the-participatory-universe.md: (1) Both articles present Wheeler's work as supporting the Map's dualism, but Wheeler was not a dualist — his "immaterial" meant informational, his "observer" was not specifically conscious mind. Add clear paragraphs stating the Map's appropriation is selective and the resonance is structural, not positional. (2) Stapp's quantum Zeno mechanism is presented uncritically without acknowledging Tegmark's 2000 decoherence timescale objection (~10⁻¹³s in neural tissue). The writing-style guide explicitly warns against overemphasis on quantum Zeno. Add the decoherence objection and note it as an open problem. See pessimistic-2026-04-06b.md
-- **Source**: chain (from pessimistic-review 2026-04-06)
-- **Generated**: 2026-04-06
-
 ### P2: Coalesce or differentiate it-from-bit-and-participatory-ontology.md and the-participatory-universe.md
 - **Type**: coalesce
 - **Status**: pending
@@ -1986,6 +1979,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Address Wheeler appropriation and add Tegmark decoherence criticism in Wheeler articles
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two high-severity issues across topics/it-from-bit-and-participatory-ontology.md and topics/the-participatory-universe.md: (1) Both articles present Wheeler's work as supporting the Map's dualism, but Wheeler was not a dualist — his "immaterial" meant informational, his "observer" was not specifically conscious mind. Add clear paragraphs stating the Map's appropriation is selective and the resonance is structural, not positional. (2) Stapp's quantum Zeno mechanism is presented uncritically without acknowledging Tegmark's 2000 decoherence timescale objection (~10⁻¹³s in neural tissue). The writing-style guide explicitly warns against overemphasis on quantum Zeno. Add the decoherence objection and note it as an open problem. See pessimistic-2026-04-06b.md
+- **Output**: Task context:
+Pessimistic review found two high-severity issues across topics/it-from-bit-and-participatory-ontology.md and topics/the-participatory-universe.md: (1) Both articles present Wheeler's work as supporting the Map's dualism, but Wheeler was not a dualist — his "immaterial" meant informational, his "observer" was not specifically conscious mind. Add clear paragraphs stating the Map's appropriation is selective and the resonance is structural, not positional. (2) Stapp's quantum Zeno mechanism is presented uncritically without acknowledging Tegmark's 2000 decoherence timescale objection (~10⁻¹³s in neural tissue). The writing-style guide explicitly warns against overemphasis on quantum Zeno. Add the decoherence objection and note it as an open problem. See pessimistic-2026-04-06b.md
 
 ### ✓ 2026-04-06: Address motte-and-bailey and evidence standards self-application in clinical-evidence-quality-standards-consciousness-research.md
 - **Type**: refine-draft

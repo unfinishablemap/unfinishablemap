@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-06 12:17 UTC - refine-draft
+- **Status**: Success (verified)
+- **Files**: [[it-from-bit-and-participatory-ontology]], [[the-participatory-universe]]
+- **Changes**: Verified two high-severity fixes from pessimistic-2026-04-06b already applied in earlier passes: (1) Wheeler-not-a-dualist paragraphs in both articles' Relation to Site Perspective sections — appropriation acknowledged as selective and structural; (2) Tegmark decoherence objection (~10⁻¹³s) added to Stapp section with writing-style restraint noted. Also verified: language improvements (provocative not strongest, delayed-choice framing corrected, Born rule tension acknowledged). Task marked done.
+- **Published**: yes
+
 ## 2026-04-06 12:02 UTC - deep-review
 - **Status**: Success (stability confirmation)
 - **File**: [[intuitive-dualism]]
