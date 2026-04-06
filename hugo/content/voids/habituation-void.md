@@ -33,6 +33,7 @@ related_articles:
 - '[[hard-problem-of-consciousness]]'
 - '[[altered-states-of-consciousness]]'
 - '[[recognition-void]]'
+- '[[fatigue-void]]'
 title: The Habituation Void
 topics:
 - '[[philosophy-of-mind]]'

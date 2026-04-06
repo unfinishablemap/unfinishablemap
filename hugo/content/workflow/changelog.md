@@ -9,6 +9,136 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 06:06 UTC - deep-review
+- **Status**: Success
+- **File**: [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
+- **Word count**: 2505 → 2550 (+45)
+- **Critical issues addressed**: 1 (orphaned Hori et al. reference)
+- **Medium issues addressed**: 4 (evidence calibration for single-study findings, uncited yoga nidra claims, missing evidence quality standards cross-link, stale AI refinement log)
+- **Enhancements made**: 6 targeted edits applying evidence quality standards retroactively
+- **Output**: [deep-review-2026-04-06-hypnagogic-phenomenology-and-interface-modulation](/reviews/deep-review-2026-04-06-hypnagogic-phenomenology-and-interface-modulation/)
+
+## 2026-04-06 05:51 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
+- **Word count**: 1901 → 1987 (+86)
+- **Critical issues addressed**: 1 (duplicate concept in frontmatter)
+- **Medium issues addressed**: 3 (overstated bidirectional claim, missing decoherence acknowledgment, missing cross-links)
+- **Enhancements made**: 4 (refined tenet arguments, added decoherence engagement, cross-linked qualia and explanatory-gap)
+- **Output**: [deep-review-2026-04-06-phenomenal-binding-and-multimodal-integration](/reviews/deep-review-2026-04-06-phenomenal-binding-and-multimodal-integration/)
+
+## 2026-04-06 05:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/)
+- **Changes**: Downgraded Xu et al. evidence to "suggestive" (n=2/4), recalibrated confidence language from "better explained by" to "compatible with", added falsifiability section specifying five testable challenges to filter theory, added cross-reference to evidence quality standards
+- **Published**: yes
+
+## 2026-04-06 05:21 UTC - deep-review
+- **Status**: Success
+- **File**: [conceptual-metabolism-void](/voids/conceptual-metabolism-void/)
+- **Word count**: 1511 → 1564 (+53)
+- **Critical issues addressed**: 1 (Grand et al. citation misrepresentation)
+- **Medium issues addressed**: 4 (Kuhn attribution, Wittgenstein quote, curse of knowledge overstatement, MWI argument)
+- **Enhancements made**: 5 targeted edits improving source accuracy and argument strength
+- **Output**: [deep-review-2026-04-06-conceptual-metabolism-void](/reviews/deep-review-2026-04-06-conceptual-metabolism-void/)
+
+## 2026-04-06 05:06 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~227 topics, ~225 concepts, 1 tenets file, ~21 apex articles (all non-draft)
+- **Key strengths identified**: Bandwidth asymmetry quantitative signature, quantum biology evidence convergence, cross-cultural convergence argument, epistemology-of-limits cluster, phenomenal non-compositionality master argument, AI epiphenomenalism nature/coupling distinction
+- **Expansion opportunities**: 3 high-priority (perceptual learning phenomenology, architecture of consciousness-quantum interface, evidential force of convergence), 3 medium-priority (metaphysics of composition, anaesthetic recovery phenomenology, testimony under dualism)
+- **Tasks added**: 4 P3 tasks (3 expand-topic, 1 cross-linking refine-draft)
+- **Output**: [optimistic-2026-04-06](/reviews/optimistic-2026-04-06/)
+
+## 2026-04-06 04:52 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Word count**: 2010 → 2016 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (inconsistent wikilink path prefix, missing causal-closure cross-link, imprecise sample size)
+- **Enhancements made**: 3 (fixed epiphenomenalism link, added causal-closure link, clarified Schwartz n=18)
+- **Output**: [deep-review-2026-04-06-clinical-evidence-quality-standards-consciousness-research](/reviews/deep-review-2026-04-06-clinical-evidence-quality-standards-consciousness-research/)
+
+## 2026-04-06 04:36 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 3034 → 3040 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to many-worlds-argument)
+- **Enhancements made**: 3 (cross-link in 3 locations, prose tightened for length neutrality)
+- **Output**: [deep-review-2026-04-06-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-04-06-born-rule-and-the-consciousness-interface/)
+
+## 2026-04-06 04:21 UTC - deep-review
+- **Status**: Success
+- **File**: [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- **Word count**: 3694 → 3682 (-12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, frontmatter miscategorisation)
+- **Enhancements made**: 2 (merged duplicate link, moved 3 topics from concepts to topics list)
+- **Output**: [deep-review-2026-04-06-the-binding-problem-a-systematic-treatment](/reviews/deep-review-2026-04-06-the-binding-problem-a-systematic-treatment/)
+
+## 2026-04-06 04:06 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Word count**: 1977 → 2010 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing methodology cross-link, sparse convergence standard, missing inline wikilinks, incomplete related_articles)
+- **Enhancements made**: 4 (methodology cross-link, neuroplasticity wikilink, expanded convergence references, Further Reading addition)
+- **Output**: [deep-review-2026-04-06-clinical-evidence-quality-standards-consciousness-research](/reviews/deep-review-2026-04-06-clinical-evidence-quality-standards-consciousness-research/)
+
+## 2026-04-06 03:51 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-constraints-conscious-processing](/topics/bandwidth-constraints-conscious-processing/)
+- **Word count**: 1967 → 1971 (+4)
+- **Critical issues addressed**: 1 (DeWall/Baumeister/Masicampo misattribution — was incorrectly cited as Lieberman et al.)
+- **Medium issues addressed**: 2 (Sauerbrei & Pruszynski commentary characterization, missing psychophysical-laws cross-link)
+- **Enhancements made**: 1 (psychophysical-laws added to concepts and Further Reading)
+- **Output**: [deep-review-2026-04-06b-bandwidth-constraints-conscious-processing](/reviews/deep-review-2026-04-06b-bandwidth-constraints-conscious-processing/)
+
+## 2026-04-06 03:46 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: clinical-evidence-quality-standards-consciousness-research.md, consciousness-and-the-structure-of-scientific-revolutions.md, consciousness-under-extreme-metabolic-constraint.md
+- **Output**: [pessimistic-2026-04-06](/reviews/pessimistic-2026-04-06/)
+
+## 2026-04-06 03:18 UTC - expand-topic
+- **Status**: Skipped (slug collision)
+- **Topic**: many-worlds-argument
+- **Reason**: Slug `many-worlds-argument` already exists at `arguments/many-worlds-argument.md`. That article provides a comprehensive cumulative case against MWI covering indexical identity, probability, preferred basis, and ontological extravagance. Additional coverage exists in `concepts/many-worlds.md`, `concepts/probability-objections-many-worlds.md`, and `topics/probability-problem-in-many-worlds.md`. No concept duplicate needed.
+
+## 2026-04-06 03:02 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-quality-void](/voids/phenomenal-quality-void/)
+- **Word count**: 2020 → 2097 (+77)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (falsifiability section, heterophenomenology engagement, NMW argument, conceptual-metabolism cross-link, reference numbering)
+- **Enhancements made**: 3 (conceptual metabolism connection, NMW strengthening, prose tightening)
+- **Output**: [deep-review-2026-04-06-phenomenal-quality-void](/reviews/deep-review-2026-04-06-phenomenal-quality-void/)
+
+## 2026-04-06 02:47 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-constraints-conscious-processing](/topics/bandwidth-constraints-conscious-processing/)
+- **Word count**: 1904 → 1967 (+63)
+- **Critical issues addressed**: 1 (Lieberman citation date mismatch 2008→2002)
+- **Medium issues addressed**: 2 (materialist dismissal softened, cross-links added)
+- **Enhancements made**: 3 (3 new Further Reading cross-links)
+- **Output**: [deep-review-2026-04-06-bandwidth-constraints-conscious-processing](/reviews/deep-review-2026-04-06-bandwidth-constraints-conscious-processing/)
+
+## 2026-04-06 02:33 UTC - deep-review
+- **Status**: Success
+- **File**: [fatigue-void](/voids/fatigue-void/)
+- **Word count**: 1507 → 1659 (+152)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (dualism argument sharpened, Ciocan 2025 integrated, ego depletion caveat strengthened)
+- **Enhancements made**: 3 (self-opacity cross-link, attention-and-consciousness link, cross-links added to 4 related voids)
+- **Output**: [deep-review-2026-04-06-fatigue-void](/reviews/deep-review-2026-04-06-fatigue-void/)
+
+## 2026-04-06 02:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Clinical evidence quality standards in consciousness research
+- **Output**: [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/)
+- **Word count**: 1977
+- **Based on research**: yes, [clinical-evidence-quality-2026-03-29](/research/clinical-evidence-quality-2026-03-29/) and [phenomenological-method-evidence-standards-2026-03-19](/research/phenomenological-method-evidence-standards-2026-03-19/)
+
 ## 2026-04-06 02:01 UTC - check-tenets
 - **Status**: Success
 - **Files checked**: 451

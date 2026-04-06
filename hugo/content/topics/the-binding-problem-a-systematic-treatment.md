@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-06 04:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,15 +11,12 @@ concepts:
 - '[[temporal-consciousness]]'
 - '[[episodic-memory]]'
 - '[[cognitive-phenomenology]]'
-- '[[split-brain-consciousness]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[quantum-consciousness]]'
 - '[[prehension]]'
 - '[[explanatory-gap]]'
-- '[[language-recursion-and-consciousness]]'
 - '[[working-memory]]'
 - '[[self-and-self-consciousness]]'
-- '[[topics/free-will]]'
 - '[[agent-causation]]'
 - '[[sleep-and-consciousness]]'
 - '[[mental-effort]]'
@@ -32,7 +29,7 @@ description: A comprehensive taxonomy of binding problems—perceptual, temporal
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 03:20:00+00:00
+last_deep_review: 2026-04-06 04:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,6 +41,9 @@ related_articles:
 title: 'The Binding Problem: A Systematic Treatment'
 topics:
 - '[[hard-problem-of-consciousness]]'
+- '[[split-brain-consciousness]]'
+- '[[language-recursion-and-consciousness]]'
+- '[[free-will]]'
 ---
 
 The Unfinishable Map treats binding as not one problem but a family of related problems, each revealing something distinct about consciousness. The binding problem is usually introduced through vision — how does the brain combine colour, shape, and motion into one object? — but this undersells its scope. Binding operates across sensory modalities, across time, across cognitive domains, and between experiences and their subject. Each variety resists physical explanation in its own way, yet they share a common structure: physical processes that are separate must somehow become experiential wholes. Mapping this family systematically reveals that the difficulty is not piecemeal — it is not that we lack solutions to five separate puzzles — but structural. This article argues that the same gap between coordination and unity appears everywhere consciousness appears.
@@ -189,8 +189,7 @@ The systematic treatment of binding presented here rests on claims that could be
 
 ## Further Reading
 
-- [binding-problem](/concepts/binding-problem/) — The foundational concept: BP1/BP2 distinction, classical and quantum approaches
-- [binding-problem](/concepts/binding-problem/) — Why classical mechanisms structurally fail and quantum holism may succeed
+- [binding-problem](/concepts/binding-problem/) — The foundational concept: BP1/BP2 distinction, classical failure, and quantum holism
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Entanglement as the physical substrate for unity
 - [varieties of unity](/concepts/unity-of-consciousness/) — Taxonomy of synchronic, diachronic, and subject unity
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding and the specious present

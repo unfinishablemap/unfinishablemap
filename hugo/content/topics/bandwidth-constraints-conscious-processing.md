@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 01:56:00+00:00
+ai_modified: 2026-04-06 03:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[counterfactual-reasoning]]'
 - '[[mental-effort]]'
 - '[[filter-theory]]'
+- '[[psychophysical-laws]]'
 created: 2026-04-06
 date: &id001 2026-04-06
 description: 'The ~10 bits/second ceiling doesn''t merely limit consciousness—it defines
@@ -25,7 +26,7 @@ description: 'The ~10 bits/second ceiling doesn''t merely limit consciousness—
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-06 03:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +48,7 @@ Consciousness processes one thing at a time. Dual-task interference — the inab
 
 This seriality is often treated as a quirk of neural architecture, but the bandwidth constraint makes it inevitable. At 10 bits per second, there is no capacity for parallel conscious streams. Dividing 10 bits across two tasks yields ~5 bits each — below the threshold for effective decision-making in either. Seriality is not a design choice the brain made; it is a mathematical consequence of the channel's capacity.
 
-The contrast with unconscious processing sharpens the point. Sauerbrei and Pruszynski (2025) demonstrated that the cerebellum coordinates dozens of muscles simultaneously, each requiring multiple bits of specification per movement cycle. The brain runs massively parallel computation at full neural bandwidth. Consciousness does not. The serial/parallel divide maps precisely onto the conscious/unconscious divide — a coincidence on materialist accounts, an expected signature of the [interface](/concepts/asymmetric-bandwidth-consciousness/) on the Map's framework.
+The contrast with unconscious processing sharpens the point. Sauerbrei and Pruszynski (2025) observed that the cerebellum coordinates dozens of muscles simultaneously, each requiring multiple bits of specification per movement cycle. The brain runs massively parallel computation at full neural bandwidth. Consciousness does not. The serial/parallel divide maps precisely onto the conscious/unconscious divide. Materialist accounts can explain *a* serial bottleneck — neural broadcast architectures create one — but struggle to explain why the processing *mode* changes so radically at the bottleneck rather than merely the throughput. On the Map's framework, this is an expected signature of the [interface](/concepts/asymmetric-bandwidth-consciousness/) between two distinct systems.
 
 ## Forced Abstraction
 
@@ -63,7 +64,7 @@ Language may be the most powerful compression scheme consciousness employs. A si
 
 At approximately 3-4 selections per second — the rate implied by ~10 bits/second given typical decision complexity — consciousness has a characteristic clock speed. Each selection takes roughly 250-300 milliseconds, a window that appears repeatedly across cognitive phenomena.
 
-The [maintenance/manipulation distinction](/concepts/working-memory/) in working memory maps onto this temporal grain. Maintenance can occur unconsciously and continuously. Manipulation — the conscious rearrangement of working memory contents — proceeds at the serial rate the bandwidth permits. Lieberman et al. (2008) found that cognitive load on conscious processes specifically impairs logical reasoning while leaving unconscious processing intact, confirming that the temporal grain belongs to consciousness specifically.
+The [maintenance/manipulation distinction](/concepts/working-memory/) in working memory maps onto this temporal grain. Maintenance can occur unconsciously and continuously. Manipulation — the conscious rearrangement of working memory contents — proceeds at the serial rate the bandwidth permits. DeWall, Baumeister, and Masicampo (2008) found that cognitive load on conscious processes specifically impairs logical reasoning while leaving unconscious processing intact, confirming that the temporal grain belongs to consciousness specifically.
 
 Musslick et al. (2016) estimated cognitive control capacity at ~3-4 bits per second — measuring deliberate control rather than automated execution. This rate aligns with the ~280-300ms timing window for motor commitment and willed attention deployment. Conscious processing does not merely happen to be slow; it operates at a characteristic temporal resolution that shapes everything from decision timing to the phenomenology of agency.
 
@@ -73,7 +74,7 @@ The specious present — the experienced duration of "now" — may reflect this 
 
 The bandwidth constraint creates a functional partition between conscious and unconscious processing that goes beyond mere speed. Unconscious systems handle tasks requiring high bandwidth: sensory processing, motor coordination, pattern recognition, spatial navigation, procedural memory. Conscious processing handles tasks requiring something the bandwidth constraint permits but unconscious systems apparently cannot achieve: novel combination, cross-domain evaluation, and counterfactual reasoning.
 
-The [baseline cognition hypothesis](/concepts/baseline-cognition/) formalises this partition. Great apes demonstrate sophisticated unconscious cognition — tool use, social learning, procedural metacognition — yet cannot perform logical reasoning, [counterfactual thinking](/concepts/counterfactual-reasoning/), or cumulative culture. These distinctively human capacities require conscious processing (Lieberman et al. 2008). The bandwidth constraint tells us *how much* conscious processing they require: not much. A few bits per second of evaluative selection, applied to pre-computed options over sustained periods, produces the cognitive capacities that distinguish human minds.
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) formalises this partition. Great apes demonstrate sophisticated unconscious cognition — tool use, social learning, procedural metacognition — yet cannot perform logical reasoning, [counterfactual thinking](/concepts/counterfactual-reasoning/), or cumulative culture. These distinctively human capacities require conscious processing (DeWall, Baumeister, & Masicampo 2008). The bandwidth constraint tells us *how much* conscious processing they require: not much. A few bits per second of evaluative selection, applied to pre-computed options over sustained periods, produces the cognitive capacities that distinguish human minds.
 
 This reframes what consciousness *does*. It is not a general-purpose computer constrained to run slowly. It is an evaluator — a system that assesses, selects, and vetoes among options that unconscious systems prepare at full neural bandwidth. The 10-bit/second channel carries exactly the information needed for this function: which option to pursue, which to inhibit, where to direct attention next. Mandik (2010) observed that control phenomenology — the experience of being in control — is informationally sparse compared to sensory phenomenology, consistent with consciousness performing selection rather than computation.
 
@@ -107,11 +108,15 @@ The [filter model](/concepts/filter-theory/) accommodates this naturally. If con
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention
 - [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
 - [resolution-void](/voids/resolution-void/) — The resolution gap between conscious and neural processing
+- [grain-mismatch](/concepts/grain-mismatch/) — The resolution asymmetry tied to bandwidth constraints
+- [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Empirical support for the selection model
+- [consciousness-and-memory](/topics/consciousness-and-memory/) — How the serial bottleneck contrasts with parallel consolidation
+- [psychophysical-laws](/concepts/psychophysical-laws/) — Candidate coupling laws governing mind-brain interaction
 
 ## References
 
 1. Hick, W.E. (1952). On the rate of gain of information. *Quarterly Journal of Experimental Psychology*, 4(1), 11-26.
-1. Lieberman, M.D., Gaunt, R., Gilbert, D.T., & Trope, Y. (2002). Reflection and reflexion: A social cognitive neuroscience approach to attributional inference. *Advances in Experimental Social Psychology*, 34, 199-249.
+1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628-645.
 1. Mandik, P. (2010). Control consciousness. *Topics in Cognitive Science*, 2(4), 643-657.
 1. Miller, G.A. (1956). The magical number seven, plus or minus two: Some limits on our capacity for processing information. *Psychological Review*, 63(2), 81-97.
 1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).

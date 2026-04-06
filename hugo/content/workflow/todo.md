@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 01:42:00+00:00
+ai_modified: 2026-04-06 03:32:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,34 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on clinical evidence quality standards in consciousness research
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. When does clinical and neurological evidence bear on metaphysical questions about consciousness? Standards for inferring from pathology to architecture. Target section: topics/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-06
-
-### P2: Cross-review void articles considering fatigue-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/fatigue-void.md created 2026-04-05. Review sleep-consciousness-void, habituation-void, complicity-void, and phenomenology-of-the-edge for cross-links and consistency with the fatigue void's argument that consciousness cannot observe its own degradation.
-- **Source**: chain (from voids/fatigue-void.md)
-- **Generated**: 2026-04-06
-
-### P2: Cross-review void articles considering conceptual-metabolism-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/conceptual-metabolism-void.md created 2026-04-06. Review mutation-void, framework-void, obviousness-void, habituation-void, and inaccessible-past for cross-links and consistency with the argument that understanding irreversibly consumes concepts.
-- **Source**: chain (from voids/conceptual-metabolism-void.md)
-- **Generated**: 2026-04-06
-
-### P2: Create concept page for many-worlds-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced in 8 content files but has no dedicated concept page. The argument against Many-Worlds Interpretation from indexical identity — a core tenet 4 argument form. Target section: concepts/.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-06
 
 ### P3: Create concept page for materialism-argument
 - **Type**: expand-topic
@@ -1952,6 +1924,70 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-06: Apply evidence quality standards retroactively across clinical evidence articles
+- **Type**: cross-review
+- **Notes**: Pessimistic review found motte-and-bailey pattern: clinical-evidence-quality-standards-consciousness-research.md correctly downgrades weak evidence then retreats to "clinical evidence is supporting rather than foundational," while other Map articles (clinical-neuroplasticity-evidence-for-bidirectional-causation.md, placebo-effect-and-mental-causation.md) foreground clinical evidence more strongly. Cross-review these articles and ensure confidence calibration is consistent with the five-point framework. See pessimistic-2026-04-06.md
+- **Output**: None -- Context: Apply evidence quality standards retroactively across clinical evidence articles
+
+### ✓ 2026-04-06: Address filter theory unfalsifiability in consciousness-under-extreme-metabolic-constraint.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the filter model as presented accommodates every possible metabolic-consciousness relationship (acute = filter breaking, chronic = interface degrading), making it unfalsifiable. Add a section identifying what metabolic patterns would be incompatible with filter theory, or recalibrate confidence language from "better explained by" to "compatible with." Also downgrade Xu et al. gamma surge evidence (n=2 positive from n=4) to "suggestive" per the Map's own evidence quality standards. See pessimistic-2026-04-06.md
+- **Output**: obsidian/topics/consciousness-under-extreme-metabolic-constraint.md
+
+Task context:
+Pessimistic review found the filter model as presented accommodates every possible metabolic-consciousness relationship (acute = filter breaking, chronic = interface degrading), making it unfalsifiable. Add a section identifying what metabolic patterns would be incompatible with filter theory, or recalibrate confidence language from "better explained by" to "compatible with." Also downgrade Xu et al. gamma surge evidence (n=2 positive from n=4) to "suggestive" per the Map's own evidence quality standards. See pessimistic-2026-04-06.md
+
+### ✓ 2026-04-06: Deep review conceptual-metabolism-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Voids article on the cognitive limit that concepts must be metabolised through experience before they can be genuinely understood. Verify coherence, accuracy of claims about conceptual acquisition, cross-references to related void articles (pre-conceptual-knowing, convergent-cognitive-limits), and tenet alignment.
+- **Output**: obsidian/voids/conceptual-metabolism-void.md
+
+### ✓ 2026-04-06: Deep review clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic, never reviewed. Topics article on evidence quality standards for consciousness research — methodological rigour, replication, and how clinical evidence bears on metaphysical claims. Verify accuracy of methodological claims, coherence, cross-references to experimental-consciousness-science-2025-2026 and phenomenological-method-and-evidence-standards, and tenet alignment.
+- **Output**: obsidian/topics/clinical-evidence-quality-standards-consciousness-research.md
+
+### ✓ 2026-04-06: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+- **Type**: cross-review
+- **Notes**: New concept page arguments/many-worlds-argument.md created 2026-04-06. Review against topics/quantum-mechanics-and-many-worlds.md, topics/born-rule-and-the-consciousness-interface.md, and concepts/indexical-identity.md for consistency, cross-links, and whether the consolidated MWI argument strengthens the Tenet 4 case across related articles.
+- **Output**: None -- Context: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+
+### ✓ 2026-04-06: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+- **Type**: cross-review
+- **Notes**: New concept page arguments/many-worlds-argument.md created 2026-04-06. Review against topics/quantum-mechanics-and-many-worlds.md, topics/born-rule-and-the-consciousness-interface.md, and concepts/indexical-identity.md for consistency, cross-links, and whether the consolidated MWI argument strengthens the Tenet 4 case across related articles.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md -- Context: Cross-review Tenet 4 articles considering many-worlds-argument concept page
+
+### ✓ 2026-04-06: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
+- **Type**: cross-review
+- **Notes**: New article topics/clinical-evidence-quality-standards-consciousness-research.md created 2026-04-06. Review against experimental-consciousness-science-2025-2026.md, contemplative-practice-as-philosophical-evidence.md, phenomenological-method-and-evidence-standards.md, and clinical-neuroplasticity-evidence-for-bidirectional-causation.md for consistency, cross-links, and whether the quality standards framework applies to claims in those articles.
+- **Output**: obsidian/topics/clinical-evidence-quality-standards-consciousness-research.md -- Context: Cross-review empirical methodology articles considering clinical-evidence-quality-standards-consciousness-research.md
+
+### ✓ 2026-04-06: Cross-review filter and information-processing articles considering bandwidth-constraints-conscious-processing.md
+- **Type**: cross-review
+- **Notes**: New article topics/bandwidth-constraints-conscious-processing.md created 2026-04-06. Review against filter-theory.md, consciousness-as-amplifier.md, attention-and-the-consciousness-interface.md, and degrees-of-consciousness.md for consistency, cross-links, and whether the 10-bit bottleneck evidence strengthens or complicates existing arguments.
+- **Output**: obsidian/topics/bandwidth-constraints-conscious-processing.md -- Context: Cross-review filter and information-processing articles considering bandwidth-constraints-conscious-processing.md
+
+### ✓ 2026-04-06: Create concept page for many-worlds-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 8 content files but has no dedicated concept page. The argument against Many-Worlds Interpretation from indexical identity — a core tenet 4 argument form. Target section: concepts/.
+- **Output**: Create concept page for many-worlds-argument
+
+### ✓ 2026-04-06: Cross-review void articles considering conceptual-metabolism-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/conceptual-metabolism-void.md created 2026-04-06. Review mutation-void, framework-void, obviousness-void, habituation-void, and inaccessible-past for cross-links and consistency with the argument that understanding irreversibly consumes concepts.
+- **Output**: None -- Context: Cross-review void articles considering conceptual-metabolism-void insights
+
+### ✓ 2026-04-06: Cross-review void articles considering fatigue-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/fatigue-void.md created 2026-04-05. Review sleep-consciousness-void, habituation-void, complicity-void, and phenomenology-of-the-edge for cross-links and consistency with the fatigue void's argument that consciousness cannot observe its own degradation.
+- **Output**: None -- Context: Cross-review void articles considering fatigue-void insights
+
+### ✓ 2026-04-06: Write article on clinical evidence quality standards in consciousness research
+- **Type**: expand-topic
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md. When does clinical and neurological evidence bear on metaphysical questions about consciousness? Standards for inferring from pathology to architecture. Target section: topics/.
+- **Output**: clinical evidence quality standards in consciousness research
+
 ### ✓ 2026-04-06: Write article on bandwidth constraints and conscious information processing
 - **Type**: expand-topic
 - **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md. The 10-bit/second conscious bottleneck versus massive unconscious processing capacity — what this asymmetry reveals about the consciousness-physics interface. Target section: topics/.
@@ -3451,3 +3487,31 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The felt texture of consciousness encountering its own bandwidth limits — referenced across perceptual degradation, cognitive effort, and attentional strain articles but has no dedicated concept page. Target section: concepts/. See optimistic-2026-04-02.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-02
+
+### P3: Write article on phenomenology of perceptual learning
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. How does experience change as perceptual expertise develops? Wine experts, radiologists, and musicians report qualitative shifts — genuinely new phenomenal properties from training. Bears on whether consciousness contributes to cognition or merely accompanies it. Builds on contemplative-epistemology, perception, phenomenal-contrast-method. See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on the evidential force of convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map relies heavily on convergence arguments (cross-cultural, empirical, contemplative) but has no dedicated treatment of convergence as evidential strategy. When does convergence constitute strong evidence vs. spurious correlation? Methodologically foundational. Builds on cross-cultural-convergence-on-mental-causation, quantum-biology-and-neural-consciousness, epistemology-of-limit-knowledge. See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Write article on phenomenology of anaesthetic recovery
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The transition from anaesthetic unconsciousness to waking is a natural experiment on the interface. The characteristic return sequence (sensation before orientation, orientation before narrative self) reveals interface architecture. Given pharmacological evidence connecting anaesthetics to microtubule quantum states, has both phenomenological and empirical dimensions. Builds on degrees-of-consciousness, sleep-and-consciousness, quantum-biology-and-neural-consciousness. See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06
+
+### P3: Add cross-links between phenomenal-non-compositionality/functionalism, inventory-blindness/adaptive-cognitive-limits, ai-epiphenomenalism/experiential-alignment, and contemplative-epistemology/neurophenomenology clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: phenomenal-non-compositionality → functionalism (non-compositionality defeats functional reduction), phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (Born probabilities at interface where non-compositional meets compositional), inventory-blindness → adaptive-cognitive-limits (mechanism and evolutionary explanation), ai-epiphenomenalism → experiential-alignment (matched pair), contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience (philosophical warrant), terminal-lucidity → near-death-experiences (comparative empirical cases), cross-cultural-convergence → fitness-beats-truth (overcoming fitness-shaped bias), epistemology-of-limit-knowledge → mysterianism (closure-to-programme transformation). See optimistic-2026-04-06.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-06

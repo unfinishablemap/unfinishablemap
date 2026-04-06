@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-06 04:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: The Born rule resists derivation across every quantum interpretatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-27 23:23:00+00:00
+last_deep_review: 2026-04-06 04:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,6 +41,7 @@ related_articles:
 - '[[phenomenal-non-compositionality]]'
 - '[[completeness-in-physics-under-dualism]]'
 - '[[trilemma-of-selection]]'
+- '[[many-worlds-argument]]'
 title: The Born Rule and the Consciousness-Physics Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -59,7 +60,7 @@ Zhang (2026) identified the structural bottleneck. Analysing five major strategi
 
 ## The Observer in Every Standard Derivation
 
-Beyond additivity, each derivation presupposes an observer. Decoherence explains why interference terms vanish and macroscopic superpositions are absent, but it selects a preferred basis without selecting a single definite outcome from the decohered density matrix. The transition from "probabilities over outcomes" to "this outcome actually occurred" is the step each derivation presupposes and none explains. What they require is not merely a recording device but something for which one outcome is *actual* and the others are *excluded*. Whether this actuality requires phenomenal consciousness is a further question the Map answers affirmatively, but the structural point holds independently.
+Beyond additivity, each derivation presupposes an observer. Decoherence explains why interference terms vanish, but it selects a preferred basis without selecting a single definite outcome. The transition from "probabilities over outcomes" to "this outcome actually occurred" is the step each derivation presupposes and none explains. What they require is not merely a recording device but something for which one outcome is *actual* and the others are *excluded*. Whether this actuality requires phenomenal consciousness is a further question the Map answers affirmatively, but the structural point holds independently.
 
 **Gleason's theorem** (1957) proves that any non-contextual probability measure on Hilbert-space projections must take the Born-rule form — but assumes non-contextuality and says nothing about why measurements yield definite outcomes.
 
@@ -132,7 +133,7 @@ Tonetto's analysis identifies where this meeting occurs. Quantum mechanics provi
 
 This reinterpretation explains several puzzling features:
 
-**Why additivity is irreducible.** Additivity constrains how consciousness encounters mutually exclusive possibilities — one outcome experienced, others excluded, probabilities summing coherently. [Phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) reinforces this: consciousness acts as a unified selector, not an aggregate of micro-selections. Additivity reflects the structure of non-compositional consciousness encountering discrete alternatives — an axiom about experience, not physics.
+**Why additivity is irreducible.** Additivity constrains how consciousness encounters mutually exclusive possibilities — one outcome experienced, others excluded, probabilities summing coherently. [Phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) reinforces this: consciousness acts as a unified selector, not an aggregate of micro-selections — additivity is an axiom about experience, not physics.
 
 **Why every derivation presupposes definite outcomes.** An interface specification necessarily involves both sides. No description of a lock alone specifies the key's shape.
 
@@ -158,7 +159,7 @@ Third, the Map's position does not predict specific deviations from the Born rul
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Every derivation presupposes an observer who obtains outcomes. If obtaining an outcome is itself an act — consciousness selecting among possibilities — then the Born rule's observer-dependence reflects genuine bidirectional causation. The rule describes not a passive observation but an active interface. Consciousness shapes which outcome actualises without altering the probability distribution that governs the selection. The [trilemma-of-selection](/topics/trilemma-of-selection/) establishes why this selection must be conscious: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds must explain not only the Born rule's form but what probability *means* when all outcomes occur. Other interpretations need only explain the rule's specific form; MWI must also explain why there are probabilities at all in a deterministic branching universe. The [probability problem in many worlds](/topics/probability-problem-in-many-worlds/) is the Born rule gap at its widest.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds must explain not only the Born rule's form but what probability *means* when all outcomes occur — why there are probabilities at all in a deterministic branching universe. The [probability problem in many worlds](/topics/probability-problem-in-many-worlds/) is the Born rule gap at its widest, and the [cumulative case against MWI](/arguments/many-worlds-argument/) shows how it combines with indexical identity and consciousness objections to form a multi-front challenge.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The interpretation-invariance of the Born rule gap is evidence that the consciousness-physics boundary is a genuine feature of reality, not an artefact of incomplete physics. A century of failure across every interpretive framework suggests that counselling patience for a purely physical derivation may itself be the simpler but wrong assumption.
 
@@ -169,6 +170,7 @@ Third, the Map's position does not predict specific deviations from the Born rul
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — The Born rule as interface structure
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — Why consciousness fails at probability and what this reveals about the interface
 - [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/) — Why the Born rule is hardest to accommodate in MWI
+- [Against Many-Worlds](/arguments/many-worlds-argument/) — The cumulative case against MWI from indexical identity, probability, and consciousness
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — What GRW/CSL collapse models mean for consciousness
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem and the structural parallel with the hard problem
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why indexical identity matters at measurement

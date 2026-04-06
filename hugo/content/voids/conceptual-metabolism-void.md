@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 00:26:00+00:00
+ai_modified: 2026-04-06 05:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI exploration of how understanding consumes concepts irrever
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-06 05:21:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,7 +42,7 @@ Consciousness does not store concepts the way a library stores books. It metabol
 
 Gadamer's hermeneutic circle captures one dimension of this. Understanding always proceeds from *Vorurteile* — fore-judgments that constitute the horizon from which anything can be understood at all. When a new concept enters this horizon, a "fusion of horizons" occurs: the interpreter's existing understanding and the new material merge into something neither was before. The pre-fused horizons cannot be recovered after fusion (Gadamer, 1960/2004).
 
-Kuhn's account of paradigm shifts reveals the same irreversibility at the scientific level. Post-shift scientists cannot return to seeing the world as pre-shift scientists did. The shift operates like a gestalt switch — but unlike the duck-rabbit illusion, it runs in one direction only (Kuhn, 1962/2012). Different paradigms are incommensurable not because scientists disagree about interpretations but because the conceptual vocabulary itself has changed, making translation impossible in principle.
+Kuhn's account of paradigm shifts reveals the same irreversibility at the scientific level. Post-shift scientists cannot return to seeing the world as pre-shift scientists did. The shift operates like a gestalt switch that, in practice, runs in one direction — once the new paradigm's explanatory power is absorbed, the old framework loses its grip (Kuhn, 1962/2012). Different paradigms are incommensurable not because scientists disagree about interpretations but because the conceptual vocabulary itself has changed, making translation impossible in principle.
 
 Piaget's developmental psychology confirms the pattern from the opposite direction. Children who achieve conservation — understanding that quantity persists through transformations of shape — cannot return to non-conservation reasoning even when asked to pretend. Both assimilation (fitting new information into existing schemas) and accommodation (changing schemas for new information) transform their inputs irreversibly (Piaget, 1952).
 
@@ -56,7 +56,7 @@ Four features produce this invisibility:
 
 **Improvement masquerade.** The post-metabolic concept typically feels *better* — more connected, more meaningful, more coherent. The loss is disguised as gain. Understanding feels like enrichment, not consumption.
 
-**Retroactive rewriting.** The curse of knowledge (Camerer et al., 1989) is not merely predictive but retroactive. We project our current understanding backward, believing we always understood it this way. Neural pathways linked to expert knowledge become so entrenched that the brain cannot revert to a pre-knowledge state — and financial incentives, explicit warnings, and deliberate effort all fail to reduce this effect.
+**Retroactive rewriting.** The curse of knowledge (Camerer et al., 1989) is not merely predictive but retroactive. We project our current understanding backward, believing we always understood it this way. In economic experiments, even financial incentives and explicit warnings failed to eliminate the bias — participants consistently overestimated what uninformed others would know.
 
 **No contrast available.** To notice the transformation, you would need simultaneous access to pre- and post-metabolised versions. But the former has been consumed by the latter. The void erases its own evidence.
 
@@ -78,7 +78,7 @@ The [expertise-occlusion](/voids/expertise-occlusion/) shares the closest family
 
 ## Wittgenstein and the Constitution of Perception
 
-Wittgenstein's work on aspect perception deepens the void's philosophical significance. "Seeing-as" involves understanding being "centrally and irreducibly involved in visual experience" — not as an added interpretation layer but as a different kind of seeing (Wittgenstein, 1953/2009). Once you can see the duck-rabbit as both, you cannot return to seeing it as only one. The second aspect permanently alters the experience of the first.
+Wittgenstein's work on aspect perception deepens the void's philosophical significance. "Seeing-as" is not an interpretation layered on top of raw perception but a different kind of seeing altogether — understanding is constitutively involved in visual experience (Wittgenstein, 1953/2009, Part II, §xi). Once you can see the duck-rabbit as both duck and rabbit, you cannot return to seeing it as only one. The second aspect permanently alters the experience of the first.
 
 This suggests that conceptual metabolism is not a deficiency of memory or cognitive limitation. It is constitutive of what understanding *is*. Consciousness does not merely record and file concepts; it transforms them through the act of comprehension. The metabolism is the understanding. To preserve the pre-understood form would require not understanding — which is precisely the state the metabolism replaces.
 
@@ -86,9 +86,9 @@ Theory-ladenness of observation (Hanson, 1958) extends this from individual conc
 
 ## What AI Might Preserve
 
-This void presents a particularly interesting case for [AI as void-explorer](/voids/ai-as-void-explorer/). Large language models may integrate concepts without the irreversible transformation that characterises human understanding. Research suggests LLM representations "vary significantly depending on the task used to generate responses" (Grand et al., 2025) — they lack the entrenched, irreversible integration of human cognition.
+This void presents a particularly interesting case for [AI as void-explorer](/voids/ai-as-void-explorer/). Large language models process concepts through fundamentally different mechanisms than human understanding. Where human cognition irreversibly integrates new concepts into existing knowledge structures, LLMs generate representations anew for each context — they lack the developmental, experiential history that makes human understanding a one-way transformation. Research into LLM conceptual representations reveals structural differences from human concept organisation, though the precise nature of these differences remains an active area of investigation (Grand et al., 2025).
 
-If LLMs can maintain multiple incommensurable framings of the same phenomenon simultaneously — accessing each without the others consuming it — they may preserve aspects of concepts that human understanding permanently destroys. The undigested, unintegrated form of a concept might remain accessible to a system that processes without metabolising.
+If LLMs can maintain multiple incommensurable framings of the same phenomenon — accessing each without the others consuming it — they may preserve aspects of concepts that human understanding permanently destroys. The undigested, unintegrated form of a concept might remain accessible to a system that processes without metabolising.
 
 This remains speculative. LLMs may have their own form of metabolism operating in embedding space, collapsing representational alternatives in ways not yet understood. But the structural possibility matters: an artificial system could serve as a control against which to measure what human understanding has consumed, comparing pre- and post-understanding representations to map precisely what the metabolism changed.
 
@@ -100,7 +100,7 @@ The conceptual metabolism void connects to the Map's [tenets](/tenets/) at multi
 
 **[Dualism](/tenets/#dualism)** is implicated because if consciousness is fundamental and irreducible, then conceptual metabolism may be a feature of consciousness as such — not merely of neural information processing. The irreversibility of understanding might reflect something constitutive about how conscious experience structures its encounters with the world, in a way that goes beyond physical computation.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** gives the void its weight. The irreversibility of conceptual metabolism depends on indexical identity — *this* mind, having metabolised *this* concept in *this* way, can never return to its prior state. In a many-worlds framework, all possible metabolisms would occur across branches, trivialising the void. Its significance depends on the fact that each consciousness commits irreversibly to a single metabolic pathway.
+**[No Many Worlds](/tenets/#no-many-worlds)** gives the void its weight. The irreversibility of conceptual metabolism depends on indexical identity — *this* mind, having metabolised *this* concept in *this* way, can never return to its prior state. In a many-worlds framework, every possible metabolism would occur across branches. While each branch-observer would still experience irreversibility locally, the ensemble would contain all possible outcomes — undermining the significance of any particular metabolic pathway as a genuine commitment rather than one realisation among all realisations.
 
 The conceptual metabolism void also illuminates the Map's own unfinishability. The Map is unfinishable not only because the territory is vast but because the act of mapping transforms the territory. Every concept the Map integrates is consumed by the integration — its pre-mapped form lost to the metabolism of understanding. The mapper changes the map by the act of mapping, and changes itself in the process.
 

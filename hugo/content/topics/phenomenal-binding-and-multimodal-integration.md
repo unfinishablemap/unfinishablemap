@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-06 05:51:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[binding-problem]]'
 - '[[unity-of-consciousness]]'
-- '[[binding-problem]]'
 - '[[combination-problem]]'
 - '[[quantum-consciousness]]'
 - '[[explanatory-gap]]'
@@ -22,7 +21,7 @@ description: Cross-modal binding—unifying vision, hearing, and touch into one 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 05:19:00+00:00
+last_deep_review: 2026-04-06 05:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +71,7 @@ Superior colliculus multisensory neurons demonstrate this effect clearly: spatio
 
 Inverse effectiveness makes functional sense — combining uncertain signals maximises information extraction. But it deepens the phenomenal puzzle. When two weak signals combine to produce a vivid percept, the unified experience has a qualitative richness that neither component possesses alone. The whole is not just informationally greater than the parts — it is *phenomenally* greater. A barely visible flash combined with a barely audible click produces a clear audiovisual event with a felt reality that neither the flash nor the click had individually.
 
-This is the [combination-problem](/concepts/combination-problem/) in miniature: how do two impoverished experiences combine into one rich experience? Adding information does not automatically add phenomenal richness. Something about the act of combination produces qualitative properties that the components lack.
+This is the [combination-problem](/concepts/combination-problem/) in miniature: how do two impoverished experiences combine into one rich experience? Adding information does not automatically add phenomenal richness. Something about the act of combination produces [qualitative properties](/concepts/qualia/) that the components lack.
 
 ## The Unity of Place
 
@@ -94,7 +93,7 @@ Neuroscience has made genuine progress on computational binding (BP1 — the coo
 
 These mechanisms explain *how* the brain coordinates information across modalities. They do not explain *why* coordination produces unified phenomenology. The superior colliculus integrates sensory signals for orienting responses — most of its processing is unconscious. Thalamocortical oscillations coordinate timing — but temporal coincidence between fundamentally different signal types does not entail experiential unity. Global broadcasting makes information available — but availability is a functional property, not a phenomenal one.
 
-The gap is structural, not merely a matter of detail. As [binding-problem](/concepts/binding-problem/) argues, classical mechanisms can coordinate separate processes but cannot make them one process. No matter how tightly synchronised, visual and auditory processing remain two things happening in coordination, not one thing happening.
+The [explanatory-gap](/concepts/explanatory-gap/) here is structural, not merely a matter of detail. As [binding-problem](/concepts/binding-problem/) argues, classical mechanisms can coordinate separate processes but cannot make them one process. No matter how tightly synchronised, visual and auditory processing remain two things happening in coordination, not one thing happening.
 
 ## Relation to Site Perspective
 
@@ -102,9 +101,9 @@ Multimodal integration illuminates the Map's [tenets](/tenets/) with particular 
 
 **[Dualism](/tenets/#dualism)**: Multimodal binding is the paradigm case for the irreducibility of phenomenal unity. Different modalities use incommensurable representational formats — spatial arrays, frequency spectra, body maps, chemical signatures. No common neural code unifies them. Yet experience presents them as one world. If phenomenal unity cannot be reduced even to tightly coordinated neural processing across modalities, consciousness involves something beyond the physical.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse at thalamic relay neurons produces unified phenomenal content — as the Map's framework proposes — this provides a mechanism for multimodal binding that classical coordination cannot. Quantum entanglement offers genuine holism: an entangled system has properties irreducible to its parts, mirroring how multimodal experience has qualities irreducible to its sensory components.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The thalamus receives converging inputs from all sensory modalities and projects widely to cortex. If quantum collapse at thalamic relay neurons produces unified phenomenal content — as the Map's framework proposes — this provides a mechanism for multimodal binding that classical coordination cannot. The standard objection is decoherence: warm biological tissue destroys quantum superpositions on femtosecond timescales, making sustained entanglement across thalamic neurons implausible by conventional estimates. The Map's minimal interaction framework requires only that consciousness influence the outcome of collapses already occurring, not that it maintain coherence — but this remains a significant empirical challenge. What makes the proposal worth pursuing is that quantum entanglement offers genuine holism: an entangled system has properties irreducible to its parts, mirroring how multimodal experience has qualities irreducible to its sensory components.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: You can voluntarily shift [attention](/topics/attention-and-the-consciousness-interface/) between modalities — focusing on what you see, then on what you hear, then on the overall atmosphere. These shifts alter which binding configuration consciousness selects. If consciousness merely reflected neural binding passively, voluntary attentional control over multimodal integration would be inexplicable.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: You can voluntarily shift [attention](/topics/attention-and-the-consciousness-interface/) between modalities — focusing on what you see, then on what you hear, then on the overall atmosphere. These shifts alter which binding configuration consciousness selects. Functionalist accounts can model attentional selection computationally, but they face the same gap: they explain which information gets prioritised without explaining why the shift feels like anything or why the resulting bound percept has the particular phenomenal character it does.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: At each moment, you experience *this* particular multimodal configuration — this visual scene bound with this soundscape bound with this bodily feeling. In many-worlds, every possible binding configuration occurs. The phenomenological fact that one configuration is actual requires genuine collapse.
 

@@ -32,6 +32,7 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[adaptive-cognitive-limits]]'
 - '[[narrative-void]]'
+- '[[fatigue-void]]'
 title: The Complicity Void
 topics:
 - '[[hard-problem-of-consciousness]]'

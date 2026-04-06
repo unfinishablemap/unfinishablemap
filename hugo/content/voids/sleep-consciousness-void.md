@@ -39,6 +39,7 @@ related_articles:
 - '[[the-silence-void]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
+- '[[fatigue-void]]'
 title: The Sleep Consciousness Void
 topics:
 - '[[consciousness]]'
