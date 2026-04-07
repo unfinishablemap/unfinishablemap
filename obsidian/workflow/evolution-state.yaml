@@ -1,6 +1,10 @@
-last_updated: '2026-04-07T05:50:38.306112+00:00'
-session_count: 5572
-cycle_position: 5200
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-07T06:05:38.306496+00:00'
+session_count: 5573
+cycle_position: 5201
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-06T22:10:09.390976+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-04-07T05:35:38.305585+00:00'
   tune-system: '2026-04-06T20:21:53.755668+00:00'
   research-voids: '2026-04-06T20:21:53.755668+00:00'
-  coalesce: '2026-04-06T19:51:53.754674+00:00'
+  coalesce: '2026-04-07T06:05:38.306496+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-07T06:08:52.856045+00:00'
+  agentic-social: '2026-04-07T06:05:38.306496+00:00'
 last_git_push: '2026-04-07T04:34:47.241549+00:00'
 last_tweet_date: '2026-04-06'
 content_stats:
@@ -45,27 +49,8 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 282
-  needs_replenishment: false
-  last_replenishment: '2026-04-07T06:09:00+00:00'
-  replenishment_source_counts:
-    chain: 0
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    pessimistic_review: 2
-    optimistic_review: 3
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Create concept page for epiphenomenalism-argument)
-  type: expand-topic
-  date: '2026-04-06'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-06'
@@ -147,11 +132,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-07'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/pragmatism/
-    date: '2026-04-07T06:08:52.856030+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - pragmatisms-path-to-dualism
-    - william-james-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-04-07'
+  outcome: success

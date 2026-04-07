@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address temporal-functional tension, preprint status, and length in ai-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found three medium-severity issues: (1) Temporal argument against AI consciousness uses functional criteria (no specious present, no reentrant dynamics, no continual learning) while simultaneously rejecting functionalism — acknowledge the tension and explain why these are necessary-but-not-sufficient structural prerequisites rather than constitutive functional properties; (2) Hoel (2025) preprint bears substantial argumentative weight but its unreviewed status is not flagged in body text — add parenthetical noting preprint status; (3) Article at ~4200 words exceeds topics/ soft threshold — tighten "What Would Challenge" section (9 bullet points → 4-5) and "Other Challenges" subsections. See pessimistic-2026-04-06-night.md Issues #1, #2, #5.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-07
-
 ### P2: Address Putnam authority framing in functionalism.md and simulation diagnostic overclaim in simulation.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2058,6 +2051,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Address temporal-functional tension, preprint status, and length in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three medium-severity issues: (1) Temporal argument against AI consciousness uses functional criteria (no specious present, no reentrant dynamics, no continual learning) while simultaneously rejecting functionalism — acknowledge the tension and explain why these are necessary-but-not-sufficient structural prerequisites rather than constitutive functional properties; (2) Hoel (2025) preprint bears substantial argumentative weight but its unreviewed status is not flagged in body text — add parenthetical noting preprint status; (3) Article at ~4200 words exceeds topics/ soft threshold — tighten "What Would Challenge" section (9 bullet points → 4-5) and "Other Challenges" subsections. See pessimistic-2026-04-06-night.md Issues #1, #2, #5.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review found three medium-severity issues: (1) Temporal argument against AI consciousness uses functional criteria (no specious present, no reentrant dynamics, no continual learning) while simultaneously rejecting functionalism — acknowledge the tension and explain why these are necessary-but-not-sufficient structural prerequisites rather than constitutive functional properties; (2) Hoel (2025) preprint bears substantial argumentative weight but its unreviewed status is not flagged in body text — add parenthetical noting preprint status; (3) Article at ~4200 words exceeds topics/ soft threshold — tighten "What Would Challenge" section (9 bullet points → 4-5) and "Other Challenges" subsections. See pessimistic-2026-04-06-night.md Issues #1, #2, #5.
 
 ### ✓ 2026-04-07: Deep review probability-problem-in-many-worlds.md
 - **Type**: deep-review
