@@ -4,12 +4,13 @@ description: "Teaching requires knowing that you know and that others don't. Gre
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-18T04:44:00+00:00
+ai_modified: 2026-04-07T10:43:00+00:00
 draft: false
-last_deep_review: 2026-03-11T22:32:00+00:00
+last_deep_review: 2026-04-07T10:43:00+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[ai-consciousness]]"
+  - "[[topics/free-will]]"
 concepts:
   - "[[jourdain-hypothesis]]"
   - "[[metacognition]]"
@@ -19,7 +20,6 @@ concepts:
   - "[[working-memory]]"
   - "[[illusionism]]"
   - "[[global-workspace-theory]]"
-  - "[[topics/free-will]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-interface-development]]"
