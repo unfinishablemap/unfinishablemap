@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 08:48 UTC - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 1812 → 1847 (+35)
+- **Critical issues addressed**: 1 (VanRullen reference misattribution)
+- **Medium issues addressed**: 2 (Prediction 4 hedging, causal-closure cross-link)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-07-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-04-07-grain-mismatch-as-independent-evidence/)
+
+## 2026-04-07 08:34 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Normativity of Reason
+- **Output**: [consciousness-normativity-of-reason-2026-04-07](/research/consciousness-normativity-of-reason-2026-04-07/)
+- **Sources consulted**: 17
+
+## 2026-04-07 08:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Original score**: N/A (review tool unavailable)
+- **Changes**: Foregrounded Frankish's positive functional-seeming claim (intrinsic→functional), added intrinsic-quality problem argument, framed dualist response explicitly throughout, updated Relation to Site Perspective
+- **Published**: yes
+
 ## 2026-04-07 08:04 UTC - deep-review
 - **Status**: Success
 - **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
