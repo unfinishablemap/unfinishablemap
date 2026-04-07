@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-29 02:22:00+00:00
+ai_modified: 2026-04-07 13:24:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Attributing beliefs, desires, and intentions to others. Higher leve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 12:21:00+00:00
+last_deep_review: 2026-04-07 13:24:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

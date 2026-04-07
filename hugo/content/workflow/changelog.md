@@ -9,6 +9,30 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 13:54 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: topics (224/230), concepts (221/230)
+- **Pairs examined**: 5 rounds across both sections
+- **Reason**: All candidate pairs are well-differentiated; no genuine redundancy found
+
+## 2026-04-07 13:39 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 2978 → 3000 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (normativity cross-link, reasons-responsiveness orphan)
+- **Enhancements made**: 3 (cross-link integration, Further Reading, phlogiston trim)
+- **Output**: [deep-review-2026-04-07-self-stultification-as-master-argument](/reviews/deep-review-2026-04-07-self-stultification-as-master-argument/)
+
+## 2026-04-07 13:24 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [theory-of-mind](/concepts/theory-of-mind/)
+- **Word count**: 3048 → 3048 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only — article fully converged after 4th review)
+- **Output**: [deep-review-2026-04-07-theory-of-mind](/reviews/deep-review-2026-04-07-theory-of-mind/)
+
 ## 2026-04-07 13:18 UTC - deep-review
 - **Status**: Success
 - **File**: [argument-from-reason](/topics/argument-from-reason/)
