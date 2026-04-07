@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review argument-from-reason.md considering normativity-of-reason insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md created 2026-04-07 via expand-topic. The argument from reason is the closest existing article — both address rational normativity as evidence for dualism. Check for cross-links, whether the new article's Sellarsian/Fregean framing reinforces or qualifies the argument-from-reason claims, and ensure consistent terminology around "norm-grasping" vs "rational insight."
-- **Source**: chain (from consciousness-and-the-normativity-of-reason.md)
-- **Generated**: 2026-04-07
-
 ### P2: Cross-review self-stultification-as-master-argument.md considering normativity-of-reason insights
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md created 2026-04-07 via expand-topic. Self-stultification develops the reflexive argument that physicalism undermines its own rational credentials — directly overlaps with the normativity article's treatment of rational normativity under physicalism. Check for cross-links, reinforcing arguments, and whether the new article's analysis of inferential justification strengthens or duplicates the self-stultification case.
@@ -2086,6 +2080,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Cross-review argument-from-reason.md considering normativity-of-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md created 2026-04-07 via expand-topic. The argument from reason is the closest existing article — both address rational normativity as evidence for dualism. Check for cross-links, whether the new article's Sellarsian/Fregean framing reinforces or qualifies the argument-from-reason claims, and ensure consistent terminology around "norm-grasping" vs "rational insight."
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md considering normativity-of-reason insights
 
 ### ✓ 2026-04-07: Deep review consciousness-defeats-explanation.md
 - **Type**: deep-review
