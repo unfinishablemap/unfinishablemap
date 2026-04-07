@@ -4,7 +4,7 @@ description: "Every model of explanation fails for consciousness—not as a loca
 created: 2026-02-18
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-07T09:23:00+00:00
+ai_modified: 2026-04-07T18:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-26
 last_curated: null
-last_deep_review: 2026-03-28T08:27:00+00:00
+last_deep_review: 2026-04-07T18:05:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-limits-of-explanation/"
   - "/topics/consciousness-and-methodological-failure/"
@@ -182,6 +182,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[explanatory-void]] — The void at the heart of explanation: why understanding cannot ground itself
 - [[self-reference-paradox]] — Structural obstacles when consciousness studies itself
 - [[temporal-structure-of-understanding]] — The phenomenal character of the "click" of comprehension
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Why theoretical virtues like elegance and loveliness are phenomenal states
 
 ## References
 

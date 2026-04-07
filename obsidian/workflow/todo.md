@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review consciousness-defeats-explanation.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never deep-reviewed (48 days old). Topics article on consciousness as the condition of explanation — argues consciousness cannot be explained because it is presupposed by explanation itself. Verify coherence of the reflexive argument, accuracy of philosophical claims, cross-references to argument-from-reason and consciousness-and-mathematics, and tenet alignment. Multiple optimistic reviews have identified expansion opportunities but no quality review has been done.
-- **Source**: staleness
-- **Generated**: 2026-04-07
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2056,6 +2050,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review consciousness-defeats-explanation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never deep-reviewed (48 days old). Topics article on consciousness as the condition of explanation — argues consciousness cannot be explained because it is presupposed by explanation itself. Verify coherence of the reflexive argument, accuracy of philosophical claims, cross-references to argument-from-reason and consciousness-and-mathematics, and tenet alignment. Multiple optimistic reviews have identified expansion opportunities but no quality review has been done.
+- **Output**: obsidian/topics/consciousness-defeats-explanation.md
 
 ### ✓ 2026-04-07: Deep review consciousness-and-the-normativity-of-reason.md
 - **Type**: deep-review
