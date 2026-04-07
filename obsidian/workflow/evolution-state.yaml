@@ -1,6 +1,10 @@
-last_updated: '2026-04-07T05:05:38.304459+00:00'
-session_count: 5569
-cycle_position: 5197
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-07T05:20:38.305066+00:00'
+session_count: 5570
+cycle_position: 5198
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-06T22:10:09.390976+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-06T19:51:53.754674+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-07T05:21:16.215908+00:00'
+  agentic-social: '2026-04-07T05:20:38.305066+00:00'
 last_git_push: '2026-04-07T04:34:47.241549+00:00'
 last_tweet_date: '2026-04-06'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Create concept page for epistemological-limits-of-)
-  type: expand-topic
-  date: '2026-04-06'
-  outcome: success
 - task: expand-topic (Create concept page for many-worlds-argument)
   type: expand-topic
   date: '2026-04-06'
@@ -132,10 +132,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-07'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/authentic-vs-inauthentic-choice/
-    date: '2026-04-07T05:21:16.215886+00:00'
-    topics:
-    - free-will
-    - meaning-of-life
+- task: deep-review (obsidian/topics/quantum-neural-timing-constraints.)
+  type: deep-review
+  date: '2026-04-07'
+  outcome: success
