@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research consciousness and the normativity of reason
-- **Type**: research-topic
-- **Notes**: High-priority gap identified by optimistic review (2026-04-07). If phenomenal character is inherently evaluative (per evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. This would unify the argument from reason with the normative qualia thesis. Currently these two powerful lines (evaluative phenomenology and argument from reason) run in parallel without integration. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/ (225/230).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-07
-
 ### P2: Deep review grain-mismatch-as-independent-evidence.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic, never reviewed. Topics article extending the grain mismatch from a single argument into three independent evidence lines (spatial, temporal, informational). Verify accuracy of empirical claims about neural discreteness and phenomenal continuity, coherence of the independence argument, cross-references to grain-mismatch concept page and neural-refresh-rates, and tenet alignment (Tenets 1 and 5).
@@ -2061,6 +2055,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Research consciousness and the normativity of reason
+- **Type**: research-topic
+- **Notes**: High-priority gap identified by optimistic review (2026-04-07). If phenomenal character is inherently evaluative (per evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. This would unify the argument from reason with the normative qualia thesis. Currently these two powerful lines (evaluative phenomenology and argument from reason) run in parallel without integration. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/ (225/230).
+- **Output**: consciousness and the normativity of reason
 
 ### ✓ 2026-04-07: Integrate Frankish functional-seeming research into illusionism.md
 - **Type**: refine-draft

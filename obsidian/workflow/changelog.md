@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 08:34 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Normativity of Reason
+- **Output**: [[consciousness-normativity-of-reason-2026-04-07]]
+- **Sources consulted**: 17
+
 ## 2026-04-07 08:18 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/illusionism]]
