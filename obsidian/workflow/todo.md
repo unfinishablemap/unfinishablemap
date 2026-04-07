@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review argument-from-reason.md considering consciousness-and-the-normativity-of-reason insights
-- **Type**: cross-review
-- **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md argues that reason's normativity requires conscious minds. Review argument-from-reason.md for: (1) cross-links to the new normativity article, (2) reinforcing arguments that new material provides, (3) terminology consistency between the two closely related articles. The argument from reason is the parent argument; the normativity article develops one specific strand.
-- **Source**: chain (from consciousness-and-the-normativity-of-reason.md)
-- **Generated**: 2026-04-07
-
 ### P2: Cross-review self-stultification-as-master-argument.md considering normativity-of-reason insights
 - **Type**: cross-review
 - **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md develops the norm-grasping vs norm-implementation distinction relevant to self-stultification. Review self-stultification-as-master-argument.md for: (1) cross-links to normativity-of-reason, (2) whether the normativity argument strengthens or refines the self-stultification case, (3) consistent treatment of the reflexive structure shared by both arguments.
@@ -2080,6 +2074,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Cross-review argument-from-reason.md considering consciousness-and-the-normativity-of-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md argues that reason's normativity requires conscious minds. Review argument-from-reason.md for: (1) cross-links to the new normativity article, (2) reinforcing arguments that new material provides, (3) terminology consistency between the two closely related articles. The argument from reason is the parent argument; the normativity article develops one specific strand.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md considering consciousness-and-the-normativity-of-reason insights
 
 ### ✓ 2026-04-07: Integrate indexical-void.md into site navigation
 - **Type**: integrate-orphan
