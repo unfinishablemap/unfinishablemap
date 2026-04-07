@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 08:04 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
+- **Word count**: 2053 → 2320 (+267)
+- **Critical issues addressed**: 1 (duplicate frontmatter entry)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (Lee's opacity section, evidence programme framing, informational mismatch reference, cross-links)
+- **Output**: [deep-review-2026-04-07-neural-refresh-rates](/reviews/deep-review-2026-04-07-neural-refresh-rates/)
+- **Context**: Cross-review considering grain-mismatch-as-independent-evidence insights
+
 ## 2026-04-07 07:49 UTC - deep-review
 - **Status**: Success
 - **File**: [grain-mismatch](/concepts/grain-mismatch/)

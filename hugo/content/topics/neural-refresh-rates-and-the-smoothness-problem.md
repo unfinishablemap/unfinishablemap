@@ -1,14 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-07 08:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[temporal-consciousness]]'
 - '[[binding-problem]]'
 - '[[neural-correlates-of-consciousness]]'
-- '[[binding-problem]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[explanatory-gap]]'
 - '[[qualia]]'
@@ -20,13 +19,14 @@ description: Discrete neural oscillations at 7-13 Hz clash with smooth conscious
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 23:00:00+00:00
+last_deep_review: 2026-04-07 08:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[timing-gap-problem]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[neural-refresh-rates-smoothness-problem-2026-03-08]]'
+- '[[grain-mismatch-as-independent-evidence]]'
 title: Neural Refresh Rates and the Smoothness Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -65,6 +65,12 @@ Bergson went further. In *Creative Evolution* (1907), he argued that the intelle
 Dainton's systematic phenomenology of temporal experience reinforces this position. He argues that the stream of consciousness is an "interconnected flowing whole" whose dynamic patterning is a primitive feature — not something derived from more basic discrete elements.
 
 The phenomenological evidence creates a genuine puzzle. If experience is intrinsically continuous, and the neural substrate is intrinsically discrete, then continuity cannot be a property of the substrate. It must come from somewhere else.
+
+## The Introspective Opacity Caveat
+
+Andrew Lee's work on discriminatory grain introduces a complication that applies with equal force to temporal smoothness. Lee demonstrates that introspection cannot determine whether phenomenal experience is genuinely continuous or merely discrete at a grain finer than our discriminatory threshold. We cannot inspect the temporal microstructure of our own experience — the resolution of consciousness is opaque to the consciousness whose resolution it is.
+
+This cuts both ways. The dualist cannot prove from introspection alone that temporal experience is genuinely smooth. But the physicalist cannot rescue identity by claiming temporal experience is "really" periodic either. If experience were discrete at a grain matching neural oscillations, the smoothness problem would dissolve — but Lee shows we have no introspective access to settle the question. The structural puzzle identified by the phenomenological tradition persists precisely because the tool we would need to resolve it — introspective access to temporal phenomenal microstructure — is unavailable.
 
 ## Physical Smoothing Mechanisms
 
@@ -106,12 +112,16 @@ The smoothness problem aligns with several of the Map's [tenets](/tenets/).
 
 **Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal continuity as a structuring principle rather than passively receiving whatever the brain delivers. This is consistent with the [bidirectional interaction tenet](/tenets/#bidirectional-interaction), though the smoothness problem does not require this specific mechanism. The problem stands regardless of which account of mind-brain interaction one adopts.
 
-The smoothness problem also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem-a-systematic-treatment/) and the [grain-mismatch](/concepts/grain-mismatch/). Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions. All three problems resist physical explanation in structurally similar ways — coordination at the neural level does not entail unity at the experiential level.
+The smoothness problem also connects to the Map's treatment of [temporal binding](/topics/the-binding-problem-a-systematic-treatment/) and the [grain-mismatch](/concepts/grain-mismatch/). Where the binding problem asks how spatially distributed neural representations become unified percepts at a moment, the smoothness problem asks how temporally distributed neural samples become unified experience across time. The grain mismatch generalises this pattern: phenomenal experience appears smooth and homogeneous across both space and time, while the neural substrate is discrete in both dimensions.
+
+The Map's [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) frames temporal smoothness as one of three independent structural mismatches — alongside spatial homogeneity (Sellars' original argument) and informational compression (the ~10 bits/second [conscious throughput](/topics/bandwidth-of-consciousness/) against ~10⁹ bits/second neural processing). Each mismatch arises from a different empirical domain, relies on different measurements, and requires a different physicalist response. Their convergence is what gives the programme its collective force: dissolving the temporal mismatch alone would leave the spatial and informational mismatches standing. This independence means the smoothness problem contributes to a cumulative structural case rather than standing or falling on its own.
 
 ## Further Reading
 
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
+- [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) — The temporal mismatch as part of a convergent evidence programme
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The informational grain mismatch: conscious throughput versus neural processing
 - [timing-gap-problem](/concepts/timing-gap-problem/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
@@ -125,5 +135,6 @@ The smoothness problem also connects to the Map's treatment of [temporal binding
 4. Herzog, M.H., Doerig, A., & Drissi-Daoudi, L. (2020). All in Good Time: Long-Lasting Postdictive Effects Reveal Discrete Perception. *Trends in Cognitive Sciences*, 24(10), 826–837.
 5. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
-7. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Structure of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-structure-of-consciousness/
-8. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem: A Systematic Treatment. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/
+7. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
+8. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Structure of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-structure-of-consciousness/
+9. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem: A Systematic Treatment. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/

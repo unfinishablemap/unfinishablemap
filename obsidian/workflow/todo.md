@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate Frankish functional-seeming research into illusionism.md
-- **Type**: refine-draft
-- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md on Frankish's functional-seeming response to the hard problem. The existing concepts/illusionism.md does not integrate this specific argument. Synthesize the research findings — particularly Frankish's claim that phenomenal properties are functional seemings rather than intrinsic qualities — into the illusionism concept page. Ensure the Map's dualist response to functional seeming is clearly articulated.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-07
-
 ### P2: Research consciousness and the normativity of reason
 - **Type**: research-topic
 - **Notes**: High-priority gap identified by optimistic review (2026-04-07). If phenomenal character is inherently evaluative (per evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. This would unify the argument from reason with the normative qualia thesis. Currently these two powerful lines (evaluative phenomenology and argument from reason) run in parallel without integration. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/ (225/230).
@@ -2067,6 +2061,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md on Frankish's functional-seeming response to the hard problem. The existing concepts/illusionism.md does not integrate this specific argument. Synthesize the research findings — particularly Frankish's claim that phenomenal properties are functional seemings rather than intrinsic qualities — into the illusionism concept page. Ensure the Map's dualist response to functional seeming is clearly articulated.
+- **Output**: obsidian/concepts/illusionism.md
+
+Task context:
+Research completed in research/illusionism-functional-seeming-2026-03-28.md on Frankish's functional-seeming response to the hard problem. The existing concepts/illusionism.md does not integrate this specific argument. Synthesize the research findings — particularly Frankish's claim that phenomenal properties are functional seemings rather than intrinsic qualities — into the illusionism concept page. Ensure the Map's dualist response to functional seeming is clearly articulated.
 
 ### ✓ 2026-04-07: Cross-review neural-refresh-rates-and-the-smoothness-problem.md considering grain-mismatch-as-independent-evidence insights
 - **Type**: cross-review

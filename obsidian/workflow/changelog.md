@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 08:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Original score**: N/A (review tool unavailable)
+- **Changes**: Foregrounded Frankish's positive functional-seeming claim (intrinsic→functional), added intrinsic-quality problem argument, framed dualist response explicitly throughout, updated Relation to Site Perspective
+- **Published**: yes
+
 ## 2026-04-07 08:04 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
