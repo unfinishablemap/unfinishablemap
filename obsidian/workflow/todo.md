@@ -3880,3 +3880,24 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: phenomenal-non-compositionality → functionalism (non-compositionality defeats functional reduction), phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (Born probabilities at interface where non-compositional meets compositional), inventory-blindness → adaptive-cognitive-limits (mechanism and evolutionary explanation), ai-epiphenomenalism → experiential-alignment (matched pair), contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience (philosophical warrant), terminal-lucidity → near-death-experiences (comparative empirical cases), cross-cultural-convergence → fitness-beats-truth (overcoming fitness-shaped bias), epistemology-of-limit-knowledge → mysterianism (closure-to-programme transformation). See optimistic-2026-04-06.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
+
+### P3: Write article on consciousness and the normativity of reason
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If phenomenal character is inherently evaluative (evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. Would unify argument-from-reason with normative qualia thesis: logical necessity *feels* necessary because phenomenal evaluation is constitutive of reasoning. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/. See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Write article on the metarepresentation threshold as evidence for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Jourdain hypothesis identifies a sharp procedural-to-declarative metacognition threshold separating human from animal cognition. Multiple articles discuss aspects but none systematically argues the threshold itself constitutes evidence for dualism — if consciousness were epiphenomenal, the sharp qualitative shift would need a purely physical explanation it resists. Builds on jourdain-hypothesis, cumulative-culture, teaching-as-metarepresentation, baseline-cognition, consciousness-and-social-understanding. Target section: topics/. See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Add cross-links between evaluative-phenomenal-character, jourdain-hypothesis, grain-mismatch, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: evaluative-phenomenal-character → argument-from-reason (rational norms grounded in phenomenal normativity), jourdain-hypothesis → consciousness-and-social-understanding (metarepresentation threshold explains social cognition gap), grain-mismatch → interface-heterogeneity (grain structures may vary across species), phenomenology-of-recursive-self-awareness → jourdain-hypothesis (recursive self-awareness is phenomenological content of Jourdain threshold), consciousness-and-language-interface → apophatic-approaches (linguistic inexpressibility as apophatic knowledge), evaluative-phenomenal-character → consciousness-and-aesthetic-creation (aesthetic creation deploys evaluative phenomenal character), phenomenal-concepts-strategy → parsimony-epistemology (both fail at consciousness boundary), bidirectional-interaction → clinical-neuroplasticity-evidence-for-bidirectional-causation (clinical detail for concept summary). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07

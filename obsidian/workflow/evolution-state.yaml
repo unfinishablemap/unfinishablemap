@@ -1,6 +1,10 @@
-last_updated: '2026-04-07T01:55:16.324943+00:00'
-session_count: 5566
-cycle_position: 5194
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-07T04:34:47.241549+00:00'
+session_count: 5567
+cycle_position: 5195
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-06T22:10:09.390976+00:00'
@@ -13,8 +17,8 @@ last_runs:
   coalesce: '2026-04-06T19:51:53.754674+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-07T04:35:31.114451+00:00'
-last_git_push: '2026-04-06T22:25:09.391212+00:00'
+  agentic-social: '2026-04-07T04:34:47.241549+00:00'
+last_git_push: '2026-04-07T04:34:47.241549+00:00'
 last_tweet_date: '2026-04-06'
 content_stats:
   total_files: 297
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-06'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/personal-identity.md
 
 
@@ -135,19 +135,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-07'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 286
-  needs_replenishment: false
-  last_replenishment: '2026-04-07T04:35:00+00:00'
-  replenishment_source_counts:
-    staleness: 2
-    gap_analysis: 3
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/pairing-problem/
-    date: '2026-04-07T04:35:31.114373+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: deep-review (obsidian/concepts/phenomenal-concepts-strategy.md)
+  type: deep-review
+  date: '2026-04-07'
+  outcome: success
