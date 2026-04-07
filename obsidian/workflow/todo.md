@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review probability-problem-in-many-worlds.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-04, never deep-reviewed (34 days). Key supporting article for Tenet 4 (No Many Worlds) — argues MWI faces unsolved probability interpretation problems. Tenet 4 has the least site-wide support (261 vs 384 articles). Verify accuracy of probability arguments (Born rule derivation attempts, self-locating uncertainty, decision-theoretic approaches), engagement with Wallace/Deutsch/Saunders responses, cross-references to vertiginous-question and probability-objections-many-worlds, and tenet 4 alignment.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-07
-
 ### P2: Deep review presentiment-and-retrocausality.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2030,6 +2023,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review probability-problem-in-many-worlds.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-04, never deep-reviewed (34 days). Key supporting article for Tenet 4 (No Many Worlds) — argues MWI faces unsolved probability interpretation problems. Tenet 4 has the least site-wide support (261 vs 384 articles). Verify accuracy of probability arguments (Born rule derivation attempts, self-locating uncertainty, decision-theoretic approaches), engagement with Wallace/Deutsch/Saunders responses, cross-references to vertiginous-question and probability-objections-many-worlds, and tenet 4 alignment.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md
 
 ### ✓ 2026-04-07: Deep review quantum-neural-timing-constraints.md
 - **Type**: deep-review

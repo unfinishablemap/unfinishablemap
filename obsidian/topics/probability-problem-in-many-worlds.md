@@ -4,7 +4,7 @@ description: "MWI faces a deep crisis: if all outcomes occur, probability loses 
 created: 2026-03-04
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-29T04:46:00+00:00
+ai_modified: 2026-04-07T05:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
-last_deep_review: 2026-03-29T04:46:00+00:00
+last_deep_review: 2026-04-07T05:50:00+00:00
 coalesced_from:
   - "/topics/probability-problem-in-many-worlds/"
   - "/topics/decision-theory-cannot-save-many-worlds/"
