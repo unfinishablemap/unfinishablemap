@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 10:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-language-interface]]
+- **Changes**: Reframed LLM section to remove question-begging (consistency check, not confirmation); expanded aphasia section with Broca's/Wernicke's/global dissociations; softened dismissive language; updated summary weighting
+- **Published**: yes
+
 ## 2026-04-07 09:53 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: grain-mismatch-as-independent-evidence.md, evaluative-phenomenal-character.md, consciousness-and-language-interface.md
