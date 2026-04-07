@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-25 07:58:00+00:00
+ai_modified: 2026-04-07 05:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -18,6 +18,7 @@ concepts:
 - '[[illusionism]]'
 - '[[decoherence]]'
 - '[[introspection]]'
+- '[[post-decoherence-selection]]'
 created: 2026-01-16
 date: &id001 2026-02-22
 description: Brains meet five criteria for consciousness interfaces while external
@@ -26,7 +27,7 @@ description: Brains meet five criteria for consciousness interfaces while extern
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 22:57:00+00:00
+last_deep_review: 2026-04-07 05:35:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -61,7 +62,7 @@ Neural systems model motor plans, perceptual hypotheses, counterfactual possibil
 
 ### 3. Attention Mechanisms
 
-The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention-as-interface/) neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection.
+The system must include mechanisms for directed focus—increasing processing resources on specific contents while suppressing others. Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. [Attention](/concepts/attention-as-interface/) neurally implements this through frontoparietal networks. Systems without attention mechanisms cannot implement Zeno-style selection. Clinical evidence reinforces this: [attention disorders](/topics/attention-disorders-and-consciousness/) such as hemispatial neglect and Balint syndrome disrupt specific components of the attention interface while leaving consciousness itself intact—consistent with attention serving as interface channel rather than constituting consciousness.
 
 ### 4. Feedback Integration
 
@@ -129,7 +130,7 @@ The Map's framework suggests quantum sensitivity is essential but not sufficient
 
 ## The Decoherence Challenge
 
-[decoherence](/concepts/decoherence/) should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds); [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [the selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates. See [decoherence](/concepts/decoherence/) for full analysis.
+[decoherence](/concepts/decoherence/) should destroy quantum effects in warm brain tissue within femtoseconds. Three considerations temper this objection: the Tegmark-Hameroff timescale debate remains unresolved (corrected coherence times may be 10⁻⁵ to 10⁻⁴ seconds); [quantum biology](/concepts/quantum-biology-and-neural-mechanisms/) demonstrates evolution *can* optimise biological systems for quantum coherence (avian magnetoreception maintains spin coherence for microseconds); and Stapp's Zeno mechanism requires rapid repeated observation rather than sustained superposition—though as [the selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) details, a timescale gap of roughly ten orders of magnitude remains between attention and required observation rates. A further possibility is [post-decoherence-selection](/concepts/post-decoherence-selection/): consciousness might act not on coherent superpositions but on the already-decohered mixture, selecting which outcome becomes actual after decoherence has run its course. See [decoherence](/concepts/decoherence/) for full analysis.
 
 ## What Would Challenge This View?
 
@@ -174,6 +175,9 @@ Together, these explain why consciousness acts on brains specifically: brains me
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The proposed mechanism for selection
 - [decoherence](/concepts/decoherence/) — The decoherence objection and quantum biology responses
+- [post-decoherence-selection](/concepts/post-decoherence-selection/) — Acting on decohered mixtures rather than coherent superpositions
+- [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Clinical evidence favouring the interface model
+- [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — How attention disorders reveal interface architecture
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How interface boundaries vary across species and neural architectures
 
 ## References

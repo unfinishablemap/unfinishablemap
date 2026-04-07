@@ -49,7 +49,7 @@ This review was conducted specifically to address the article's orphan status (z
 
 ### Cross-links Added (Inbound)
 - [ai-consciousness](/topics/ai-consciousness/) — Alignment Implications section: link noting ethical obligations from consciousness uncertainty
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — Metzinger's Moral Precaution section: link developing moral asymmetry and practical obligations
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Metzinger's Moral Precaution section: link developing moral asymmetry and practical obligations
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral Patienthood section: link to dedicated AI ethics treatment
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — Extensions: Animals and Machines section: link noting moral weight of epistemic gap
 - [animal-consciousness](/topics/animal-consciousness/) — Why Inference Is Stronger section: link on moral implications of animal-AI asymmetry

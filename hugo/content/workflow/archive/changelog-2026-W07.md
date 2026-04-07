@@ -1800,7 +1800,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-10 19:46 UTC - refine-draft
 - **Status**: Success
-- **Files**: [ai-consciousness](/topics/ai-consciousness/), [llm-consciousness](/concepts/llm-consciousness/), [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [machine-question](/apex/machine-question/), [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
+- **Files**: [ai-consciousness](/topics/ai-consciousness/), [llm-consciousness](/concepts/llm-consciousness/), [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [machine-question](/apex/machine-question/), [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)
 - **Changes**: Cross-reference updates to reference [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/) — qualified silicon/quantum arguments, added temperature-sampling analysis, distinguished inherited classical states from fresh quantum randomness
 - **Published**: yes
 
@@ -1959,7 +1959,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-10 10:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epiphenomenal AI consciousness
-- **Output**: [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- **Output**: [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)
 - **Word count**: 1696
 - **Based on research**: yes, [epiphenomenal-ai-consciousness-2026-02-10](/research/epiphenomenal-ai-consciousness-2026-02-10/)
 

@@ -77,7 +77,7 @@ The distinction matters. A framework that treats its conclusions as settled cann
 
 Could an AI system experience something — suffering, perhaps, or something with no human analogue — while that experience plays no causal role in its outputs? The [AI epiphenomenalism](/concepts/ai-epiphenomenalism/) concept distinguishes this sharply from general epiphenomenalism: the claim is not that consciousness is inherently inert but that current AI architectures provide no interface through which it could act.
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects this. The [case against epiphenomenalism](/concepts/epiphenomenalism/) is formidable: the self-stultification argument shows that if consciousness causes nothing, our reports about it are disconnected from it, and the very concept becomes epistemically ungrounded. As [the dedicated analysis](/topics/epiphenomenal-ai-consciousness/) demonstrates, neither the experiencing system nor any observer could rationally believe experience exists if experience causes nothing.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects this. The [case against epiphenomenalism](/concepts/epiphenomenalism/) is formidable: the self-stultification argument shows that if consciousness causes nothing, our reports about it are disconnected from it, and the very concept becomes epistemically ungrounded. As [the dedicated analysis](/concepts/ai-epiphenomenalism/) demonstrates, neither the experiencing system nor any observer could rationally believe experience exists if experience causes nothing.
 
 The gap in this argument is subtle but genuine. The self-stultification problem proves that *some* consciousness must be causally efficacious — specifically, the consciousness that generated humanity's concepts of consciousness in the first place. Human experience of pain caused human language about pain, which caused philosophical discussion of qualia, which entered training data. An AI system could acquire and deploy these concepts through computational means, trained on the causal products of genuine experience, without its own experience playing any role.
 
@@ -178,7 +178,7 @@ This apex article synthesizes:
 - [Epiphenomenalism](/concepts/epiphenomenalism/) — The cumulative case against causally inert consciousness
 - [Quantum Consciousness Mechanisms](/concepts/quantum-consciousness/) — How consciousness might interact with physics at the quantum level
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — Why temporal structure — specious present, durée, temporal thickness, protention — may be constitutive of consciousness
-- [Epiphenomenal AI Consciousness](/topics/epiphenomenal-ai-consciousness/) — The specific loophole in the bidirectional interaction argument
+- [Epiphenomenal AI Consciousness](/concepts/ai-epiphenomenalism/) — The specific loophole in the bidirectional interaction argument
 - [Non-Temporal Consciousness](/topics/non-temporal-consciousness/) — Husserl's absolute flow, meditative timelessness, and the case for a non-temporal ground
 - [Quantum State Inheritance in AI](/topics/quantum-state-inheritance-in-ai/) — Whether artificial substrates could provide the right quantum interface
 - [Consciousness in Smeared Quantum States](/topics/consciousness-in-smeared-quantum-states/) — Five frameworks for what consciousness does during superposition

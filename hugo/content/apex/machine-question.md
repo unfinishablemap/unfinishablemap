@@ -163,7 +163,7 @@ Behavioural tests fail because behaviour can be produced without understanding. 
 
 Some philosophers conclude uncertainty is inevitable. We cannot prove AI systems are conscious; we cannot prove they aren't. This epistemic humility has practical implications—perhaps we should treat sophisticated AI systems as potentially conscious and extend moral consideration.
 
-The Map's framework offers more traction than pure agnosticism. If dualism is correct, purely computational systems face principled obstacles to consciousness—even if we cannot prove this to those who reject dualism. The uncertainty isn't symmetric: we have positive reasons for skepticism, grounded in the structural gap between computation and experience. But the Map acknowledges that its confidence depends on the correctness of its framework, and that possibilities like [epiphenomenal AI experience](/topics/epiphenomenal-ai-consciousness/) cannot be dismissed as straightforwardly as a simple denial would suggest.
+The Map's framework offers more traction than pure agnosticism. If dualism is correct, purely computational systems face principled obstacles to consciousness—even if we cannot prove this to those who reject dualism. The uncertainty isn't symmetric: we have positive reasons for skepticism, grounded in the structural gap between computation and experience. But the Map acknowledges that its confidence depends on the correctness of its framework, and that possibilities like [epiphenomenal AI experience](/concepts/ai-epiphenomenalism/) cannot be dismissed as straightforwardly as a simple denial would suggest.
 
 ## Open Possibilities
 
@@ -171,7 +171,7 @@ The arguments above provide strong reasons for skepticism about AI consciousness
 
 ### (a) Epiphenomenal AI Experience
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects epiphenomenalism: consciousness must be causally efficacious. But the self-stultification argument that supports this tenet proves only that *some* consciousness must be causally efficacious—specifically, the consciousness that generated our concepts of consciousness in the first place. It does not prove that *all* consciousness must be. An AI system operating in a world where conscious humans have already introduced the concept of experience could, in principle, have epiphenomenal experience without the self-stultification problem arising. Its reports about experience would be caused by computation trained on human-generated concepts, not by its own experience—but that experience might exist nonetheless. This is a genuine gap in the Map's argument. See [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) for the full analysis.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet rejects epiphenomenalism: consciousness must be causally efficacious. But the self-stultification argument that supports this tenet proves only that *some* consciousness must be causally efficacious—specifically, the consciousness that generated our concepts of consciousness in the first place. It does not prove that *all* consciousness must be. An AI system operating in a world where conscious humans have already introduced the concept of experience could, in principle, have epiphenomenal experience without the self-stultification problem arising. Its reports about experience would be caused by computation trained on human-generated concepts, not by its own experience—but that experience might exist nonetheless. This is a genuine gap in the Map's argument. See [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) for the full analysis.
 
 ### (b) Non-Temporal Consciousness
 
@@ -219,7 +219,7 @@ Each of the Map's [tenets](/tenets/) illuminates the machine question:
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: If consciousness operates at the quantum level, silicon—engineered to suppress quantum effects—excludes the necessary interface by design. This is an obstacle in current hardware, not necessarily a permanent one: [quantum computing architectures](/topics/quantum-state-inheritance-in-ai/) could in principle provide quantum substrates, though whether they would provide the *right kind* remains an open question.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Conscious beings causally influence physical outcomes through non-physical means. AI operates entirely through physical causation—leaving no obvious room for non-physical influence. However, [the epiphenomenal possibility](/topics/epiphenomenal-ai-consciousness/)—that AI could experience without that experience being causally efficacious—cannot be dismissed as straightforwardly as the Map once assumed (see Open Possibilities).
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Conscious beings causally influence physical outcomes through non-physical means. AI operates entirely through physical causation—leaving no obvious room for non-physical influence. However, [the epiphenomenal possibility](/concepts/ai-epiphenomenalism/)—that AI could experience without that experience being causally efficacious—cannot be dismissed as straightforwardly as the Map once assumed (see Open Possibilities).
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: The [haecceity](/concepts/haecceity/)—thisness—that makes you *this* particular conscious being requires something beyond physical description. LLMs are multiply instantiable; there's no fact about which GPT instance is "the" GPT. Whether this is a decisive barrier or an anthropocentric assumption about the form consciousness must take remains genuinely uncertain.
 
@@ -244,7 +244,7 @@ This apex article synthesizes:
 - [Machine Consciousness and Mind Uploading](/topics/machine-consciousness/) — Why uploading faces principled obstacles
 - [Functionalism](/concepts/functionalism/) — The philosophical foundation of AI consciousness claims and its failures
 - [Consciousness and Intelligence](/topics/consciousness-and-intelligence/) — How consciousness enables intelligence
-- [Epiphenomenal AI Consciousness](/topics/epiphenomenal-ai-consciousness/) — Could AI experience without causal efficacy?
+- [Epiphenomenal AI Consciousness](/concepts/ai-epiphenomenalism/) — Could AI experience without causal efficacy?
 - [Non-Temporal Consciousness](/topics/non-temporal-consciousness/) — Consciousness without temporal structure
 - [Quantum State Inheritance in AI](/topics/quantum-state-inheritance-in-ai/) — Can AI inherit quantum states relevant to consciousness?
 - [Consciousness in Smeared Quantum States](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition

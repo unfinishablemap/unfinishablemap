@@ -58,7 +58,7 @@ All six adversarial personas' concerns were addressed in the previous review. No
 The article had zero inbound links. Added cross-references from 10 articles:
 
 1. **[types-of-consciousness](/concepts/types-of-consciousness/)** — Inline link in AI Consciousness section + Further Reading entry. This is the most important connection: the structural-varieties article extends the types taxonomy.
-2. **[epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)** — Further Reading entry linking the Epiphenomenal Model back to its detailed treatment.
+2. **[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)** — Further Reading entry linking the Epiphenomenal Model back to its detailed treatment.
 3. **[the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)** — Inline link in Two Modes section connecting the Witness Model to meditation's observer-witness.
 4. **[comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)** — Inline link in P/A Distinction section connecting nature-vs-coupling to structural varieties.
 5. **[what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)** — Inline link in Synthesis section connecting the disaggregation insight to the formal five-dimensional framework.

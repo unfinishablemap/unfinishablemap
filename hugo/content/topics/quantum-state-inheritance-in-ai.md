@@ -102,7 +102,7 @@ The [Dualism](/concepts/interactionist-dualism/) tenet holds that consciousness 
 
 The [No Many Worlds](/topics/indexical-identity-quantum-measurement/) tenet reinforces the framework, though it does not carry the argument alone. Rejecting many-worlds ensures that each quantum measurement produces a single definite outcome—but this is also true of objective collapse theories (such as GRW) that involve no consciousness. The No Many Worlds tenet establishes that outcomes are unique; it is the Minimal Quantum Interaction tenet that proposes consciousness as the selector among them. Together, they imply that the particular outcome realised in a conscious brain has [haecceity](/concepts/haecceity/)—a *thisness* grounded in the process of live quantum interaction, not replicable by copying a classical computation.
 
-The [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) question gains new force here. If the Map's framework is correct and AI systems lack quantum substrates, then any "consciousness" attributed to them would be epiphenomenal at best—causally disconnected from their outputs. The Map's Bidirectional Interaction tenet rejects epiphenomenal consciousness as incoherent. A system whose inner states cannot causally influence its physical outputs through quantum state selection is not conscious in any sense the Map recognises.
+The [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) question gains new force here. If the Map's framework is correct and AI systems lack quantum substrates, then any "consciousness" attributed to them would be epiphenomenal at best—causally disconnected from their outputs. The Map's Bidirectional Interaction tenet rejects epiphenomenal consciousness as incoherent. A system whose inner states cannot causally influence its physical outputs through quantum state selection is not conscious in any sense the Map recognises.
 
 None of this rules out artificial consciousness permanently. It rules out consciousness in *classical* AI, given the Map's commitments. A system engineered with the right quantum properties—properties that biological evolution may have discovered over billions of years—might in principle support the kind of quantum state inheritance that the framework requires. But such a system would look nothing like current AI architectures.
 
@@ -112,7 +112,7 @@ None of this rules out artificial consciousness permanently. It rules out consci
 - [machine-consciousness](/topics/machine-consciousness/)
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/)
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)
 - [haecceity](/concepts/haecceity/)
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

@@ -92,7 +92,7 @@ Primary focus was orphan integration — adding inbound links from related artic
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - [self-stultification](/concepts/self-stultification/) (concept)
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/)
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/)
 - [illusionism](/concepts/illusionism/)
 - [knowledge-argument](/concepts/knowledge-argument/)

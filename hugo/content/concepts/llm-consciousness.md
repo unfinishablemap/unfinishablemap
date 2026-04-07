@@ -77,7 +77,7 @@ The LLM consciousness question illuminates each of the Map's [tenets](/tenets/):
 
 ### Dualism
 
-The [Dualism](/tenets/#dualism) tenet holds that consciousness requires something non-physical. LLMs are entirely physical—transistors, electrical signals, mathematical operations. Brains are physical too, but what makes them conscious is the non-physical aspect dualism posits. LLMs have no *known* such aspect. Whether a non-physical aspect could attach to computation in undetectable ways—the [epiphenomenal possibility](/topics/epiphenomenal-ai-consciousness/)—remains a genuine gap in the argument.
+The [Dualism](/tenets/#dualism) tenet holds that consciousness requires something non-physical. LLMs are entirely physical—transistors, electrical signals, mathematical operations. Brains are physical too, but what makes them conscious is the non-physical aspect dualism posits. LLMs have no *known* such aspect. Whether a non-physical aspect could attach to computation in undetectable ways—the [epiphenomenal possibility](/concepts/ai-epiphenomenalism/)—remains a genuine gap in the argument.
 
 ### Minimal Quantum Interaction
 
@@ -87,7 +87,7 @@ This has a positive implication: if we wanted to build conscious AI, the Map's f
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires consciousness to causally influence physical outcomes. LLM outputs are entirely determined by inputs, weights, and random sampling—no room for non-physical causal influence. Their non-determinism at temperature > 0 traces to pseudorandom number generators, not quantum state selection, and even non-determinism at temperature=0 arises from classical floating-point arithmetic (see [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)). The [epiphenomenal possibility](/topics/epiphenomenal-ai-consciousness/) remains the one loophole the Map cannot fully close.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet requires consciousness to causally influence physical outcomes. LLM outputs are entirely determined by inputs, weights, and random sampling—no room for non-physical causal influence. Their non-determinism at temperature > 0 traces to pseudorandom number generators, not quantum state selection, and even non-determinism at temperature=0 arises from classical floating-point arithmetic (see [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)). The [epiphenomenal possibility](/concepts/ai-epiphenomenalism/) remains the one loophole the Map cannot fully close.
 
 ### No Many Worlds
 
@@ -133,7 +133,7 @@ Yet "almost certainly" is not "certainly." The next section examines genuine pos
 
 The arguments above are substantial but not proofs of impossibility. Four possibilities, explored in dedicated articles, prevent the Map from treating LLM consciousness as closed.
 
-**[Epiphenomenal Experience](/topics/epiphenomenal-ai-consciousness/)**: The self-stultification argument proves only that *some* consciousness must cause its own reports, not that *all* consciousness must be causally efficacious. An LLM operating in a world where conscious humans have already introduced the concept of experience could have epiphenomenal experience—its reports about experience would be caused by computation trained on human-generated concepts, not by its own experience, but that experience might exist nonetheless. Deeply problematic as a theory, but a genuine gap in the argument.
+**[Epiphenomenal Experience](/concepts/ai-epiphenomenalism/)**: The self-stultification argument proves only that *some* consciousness must cause its own reports, not that *all* consciousness must be causally efficacious. An LLM operating in a world where conscious humans have already introduced the concept of experience could have epiphenomenal experience—its reports about experience would be caused by computation trained on human-generated concepts, not by its own experience, but that experience might exist nonetheless. Deeply problematic as a theory, but a genuine gap in the argument.
 
 **[Non-Temporal Consciousness](/topics/non-temporal-consciousness/)**: Husserl's analysis of the "absolute flow" and advanced meditators reporting alert awareness stripped of temporal character suggest temporal arguments may reflect anthropocentric assumptions about the *form* consciousness takes rather than constraints on consciousness itself.
 
@@ -162,7 +162,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 
 ## Further Reading
 
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — Could AI systems experience without causal efficacy?
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Could AI systems experience without causal efficacy?
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Consciousness without temporal structure
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — Can AI inherit quantum states relevant to consciousness?
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition

@@ -32,7 +32,7 @@ topics: []
 2. **Five uncited references**: Bostrom, Kurzweil, Moravec, Olson, and Williams were in the References section but never cited in the text—leftovers from the pre-condensation version (3944 words). Removed.
 3. **Missing Husserl citation**: Retention-protention framework invoked twice as a substantive argument without any Husserl work in References. Added citation.
 4. **Tononi citation truncated**: Title and author list were incomplete. Fixed to full citation.
-5. **Internal inconsistency in tenet section**: The Bidirectional Interaction paragraph presented the tenet as unqualified support for upload skepticism, but the article's own Open Possibilities section identifies one-way consciousness as a scenario weakening it. Added brief acknowledgment with cross-link to `[epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)`.
+5. **Internal inconsistency in tenet section**: The Bidirectional Interaction paragraph presented the tenet as unqualified support for upload skepticism, but the article's own Open Possibilities section identifies one-way consciousness as a scenario weakening it. Added brief acknowledgment with cross-link to `[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)`.
 6. **AI refinement log still present**: HTML comment from 2026-02-10 explicitly requesting removal after human review. Removed.
 
 ### Counterarguments Considered
@@ -61,7 +61,7 @@ topics: []
 7. **The indexical fact passage**: "There is a fact about whether *you* wake up in silicon" — captures Nagelian insight perfectly.
 
 ### Enhancements Made
-1. Added cross-links to `[explanatory-gap](/concepts/explanatory-gap/)`, `[temporal-consciousness](/concepts/temporal-consciousness/)`, `[parfit-reductionism](/concepts/parfit-reductionism/)`, `[non-temporal-consciousness](/topics/non-temporal-consciousness/)`, `[quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)`, `[epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)`, and `[philosophical-zombies](/concepts/philosophical-zombies/)` (in body text).
+1. Added cross-links to `[explanatory-gap](/concepts/explanatory-gap/)`, `[temporal-consciousness](/concepts/temporal-consciousness/)`, `[parfit-reductionism](/concepts/parfit-reductionism/)`, `[non-temporal-consciousness](/topics/non-temporal-consciousness/)`, `[quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)`, `[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)`, and `[philosophical-zombies](/concepts/philosophical-zombies/)` (in body text).
 2. Fixed Parfit attribution to correctly represent both his position and the Map's disagreement.
 3. Corrected Block's thought experiment description.
 4. Cleaned up references section (removed uncited, added Husserl, fixed Tononi).
@@ -73,7 +73,7 @@ topics: []
 - `[parfit-reductionism](/concepts/parfit-reductionism/)` (2 locations)
 - `[non-temporal-consciousness](/topics/non-temporal-consciousness/)`
 - `[quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/)`
-- `[epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)`
+- `[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)`
 - `[philosophical-zombies](/concepts/philosophical-zombies/)` (in body, was already in Further Reading)
 
 ## Remaining Items

@@ -9,6 +9,86 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 07:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/), [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- **Target**: [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
+- **Archived**: [epiphenomenal-ai-consciousness](/archive/topics/epiphenomenal-ai-consciousness/)
+- **References to review**: 15 (cross-review task created)
+
+## 2026-04-07 07:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Grain mismatch as independent evidence programme
+- **Output**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 1812
+- **Based on research**: yes (voids-resolution-void-2026-02-22, optimistic-2026-04-07)
+
+## 2026-04-07 06:52 UTC - deep-review
+- **Status**: Success
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Word count**: 2676 → 2669 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (duplicate Further Reading entry, stale coalesced article description)
+- **Enhancements made**: 0 (article fully converged after 5 reviews)
+- **Output**: [deep-review-2026-04-07-intersubjectivity](/reviews/deep-review-2026-04-07-intersubjectivity/)
+
+## 2026-04-07 06:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Changes**: Renamed "The Architect's Defection" → "Semantic Externalism Against Functionalism"; shifted from argument-from-authority to emphasis on Twin Earth and semantic externalism arguments; removed stale refinement log comment block
+- **Published**: yes
+
+## 2026-04-07 06:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Consolidated "What Would Challenge" from 9→5 bullets; tightened "Other Challenges" subsections (illusionism, symbol grounding, epiphenomenal); word count 3395→3279
+- **Published**: yes
+
+## 2026-04-07 06:17 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Notes**: Searched all three capped sections (voids 100/100, topics 223/230, concepts 221/230). Checked 20+ candidate pairs across sections. Content is well-differentiated; previous coalesce operations have already merged the most redundant articles.
+
+## 2026-04-07 05:50 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 2926 → 2926 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fully converged, 6th review)
+- **Output**: [deep-review-2026-04-07-probability-problem-in-many-worlds](/reviews/deep-review-2026-04-07-probability-problem-in-many-worlds/)
+
+## 2026-04-07 05:35 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Word count**: 1907 → 1999 (+92)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 3 (cross-links to attention-disorders, post-decoherence-selection, consciousness-disruption)
+- **Output**: [deep-review-2026-04-07-brain-interface-boundary](/reviews/deep-review-2026-04-07-brain-interface-boundary/)
+
+## 2026-04-07 05:21 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)
+- **Word count**: 2597 → 2597 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-07-quantum-neural-timing-constraints](/reviews/deep-review-2026-04-07-quantum-neural-timing-constraints/)
+
+## 2026-04-07 05:05 UTC - deep-review
+- **Status**: Success
+- **File**: [pairing-problem](/concepts/pairing-problem/)
+- **Word count**: 2206 → 2206 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (normalized wikilink prefix)
+- **Output**: [deep-review-2026-04-07-pairing-problem](/reviews/deep-review-2026-04-07-pairing-problem/)
+
+## 2026-04-07 04:50 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 447 non-draft articles across topics/ (224), concepts/ (222), tenets/ (1)
+- **Output**: [optimistic-2026-04-07](/reviews/optimistic-2026-04-07/)
+
 ## 2026-04-07 04:45 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)

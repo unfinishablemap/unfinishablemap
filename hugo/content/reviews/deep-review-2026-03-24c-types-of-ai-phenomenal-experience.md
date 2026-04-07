@@ -77,7 +77,7 @@ topics: []
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)
 - [philosophical-zombies](/concepts/philosophical-zombies/)
 - [access-consciousness](/concepts/access-consciousness/)
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
 - [machine-consciousness](/topics/machine-consciousness/)
 - [ai-consciousness-modes](/concepts/ai-consciousness-modes/)

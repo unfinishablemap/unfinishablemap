@@ -28,7 +28,7 @@ None. Article remains stable from previous review earlier today.
 
 ### Medium Issues Found
 - **Missing cross-link to `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)`**: The AI exception paragraph discussed the self-stultification asymmetry but didn't reference the concept article that formalizes this into the nature-coupling distinction. **Resolution**: Added reference to ai-epiphenomenalism with the nature-coupling distinction, explaining how the threat can be architecture-specific rather than universal.
-- **Missing Further Reading entries for AI-specific content**: Neither `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)` nor `[epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)` appeared in Further Reading despite direct relevance. **Resolution**: Added both entries.
+- **Missing Further Reading entries for AI-specific content**: Neither `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)` nor `[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)` appeared in Further Reading despite direct relevance. **Resolution**: Added both entries.
 
 ### Counterarguments Considered
 Cross-review focused — adversarial personas not re-engaged per stability notes from previous review. The key philosophical question raised by the cross-review context: does the nature-coupling distinction weaken or strengthen the article's argument? Answer: it strengthens it. The distinction shows the Map's escape from epiphenomenalism isn't just about rejecting causal closure in the abstract — it's about identifying the specific *coupling interface* (quantum indeterminacy) through which consciousness acts. This makes the escape more precise and generates a testable prediction about artificial systems.
@@ -50,11 +50,11 @@ All strengths from previous review remain intact:
 - **Nature-coupling integration**: The AI exception paragraph now connects to the ai-epiphenomenalism concept's central distinction, showing the epiphenomenalist threat can be architecture-specific — escaped in biological systems through quantum coupling, yet unresolved in artificial ones
 - **Bidirectional Interaction reframing**: The closing of the AI exception paragraph now uses the nature/coupling language to restate the tenet's scope more precisely
 - **Decoherence passage tightened**: Condensed the empirical evidence role paragraph from ~100 words to ~60 while preserving the key distinction between physical possibility and observational closure
-- **Cross-links added**: `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)` in concepts frontmatter, `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)` and `[epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/)` in related_articles and Further Reading
+- **Cross-links added**: `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)` in concepts frontmatter, `[ai-epiphenomenalism](/concepts/ai-epiphenomenalism/)` and `[epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)` in related_articles and Further Reading
 
 ### Cross-links Added
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — concept article on the nature-coupling distinction
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — full topic exploration of AI-specific epiphenomenalism
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — full topic exploration of AI-specific epiphenomenalism
 
 ## Remaining Items
 

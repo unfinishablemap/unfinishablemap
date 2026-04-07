@@ -22,7 +22,7 @@ topics: []
 
 ## Cross-Review Context
 
-This review was conducted as a cross-review against the Map's AI and ethics articles: [ai-consciousness](/topics/ai-consciousness/), [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/), and [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/).
+This review was conducted as a cross-review against the Map's AI and ethics articles: [ai-consciousness](/topics/ai-consciousness/), [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/), [ethics-of-consciousness](/topics/ethics-of-consciousness/), [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/), and [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/).
 
 ## Pessimistic Analysis Summary
 

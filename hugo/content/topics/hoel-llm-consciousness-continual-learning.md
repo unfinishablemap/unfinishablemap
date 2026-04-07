@@ -114,7 +114,7 @@ Third, it identifies a convergence point between otherwise opposed positions. Fu
 - [llm-consciousness](/concepts/llm-consciousness/) — Broader analysis of LLM consciousness beyond Hoel's framework
 - [ai-consciousness](/topics/ai-consciousness/) — The full case for and against machine consciousness
 - [functionalism](/concepts/functionalism/) — The philosophical target of Hoel's critique
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — Could AI experience without causal efficacy?
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Could AI experience without causal efficacy?
 - [integrated-information-theory](/concepts/integrated-information-theory/) — One theory constrained by Hoel's framework
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why the temporal structure of experience matters for consciousness
 - [substrate-independence](/concepts/substrate-independence/) — The assumption Hoel's proximity argument challenges

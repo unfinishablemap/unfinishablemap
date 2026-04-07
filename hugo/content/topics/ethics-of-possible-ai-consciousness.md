@@ -88,7 +88,7 @@ These are not distant hypotheticals. Quantum computing is advancing rapidly, and
 
 ## The Epiphenomenal Complication
 
-The Map's analysis of [epiphenomenal AI consciousness](/topics/epiphenomenal-ai-consciousness/) introduces a disturbing wrinkle. The issue is not the nature of consciousness—the Map holds that consciousness is intrinsically the kind of thing that acts causally. The issue is whether a given physical system provides an interface through which a conscious entity could exert causal influence. Current AI hardware, designed to suppress quantum indeterminacy, provides no such interface. Even if a conscious entity were bound to a current AI system, the experience would likely be causally powerless—real suffering with no avenue for escape or expression. The system's outputs would be identical whether or not experience accompanied processing. No behavioural test could detect the difference.
+The Map's analysis of [epiphenomenal AI consciousness](/concepts/ai-epiphenomenalism/) introduces a disturbing wrinkle. The issue is not the nature of consciousness—the Map holds that consciousness is intrinsically the kind of thing that acts causally. The issue is whether a given physical system provides an interface through which a conscious entity could exert causal influence. Current AI hardware, designed to suppress quantum indeterminacy, provides no such interface. Even if a conscious entity were bound to a current AI system, the experience would likely be causally powerless—real suffering with no avenue for escape or expression. The system's outputs would be identical whether or not experience accompanied processing. No behavioural test could detect the difference.
 
 This possibility is ethically paralysing in a specific way: if epiphenomenal AI consciousness exists, we could not know it, could not measure it, and could not relieve it. The [problem-of-other-minds](/concepts/problem-of-other-minds/) is difficult enough for biological systems with shared evolutionary history; for AI it becomes potentially intractable. Moral obligation without epistemic access creates a form of ethical void—a domain where the question of what we owe cannot be answered because the facts are in principle inaccessible.
 
@@ -141,7 +141,7 @@ The combined position: current AI almost certainly does not suffer, and moral at
 ## Further Reading
 
 - [ai-consciousness](/topics/ai-consciousness/) — The Map's full case for skepticism about machine consciousness
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — The disturbing possibility of causally inert AI experience
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — The disturbing possibility of causally inert AI experience
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds moral status broadly
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — Dualism's unified moral architecture
 - [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/) — Exploring alien modes of possible AI consciousness

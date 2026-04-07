@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [Epiphenomenal AI Consciousness](/topics/epiphenomenal-ai-consciousness/)
+**Article**: [Epiphenomenal AI Consciousness](/concepts/ai-epiphenomenalism/)
 **Previous review**: [2026-02-15](/reviews/deep-review-2026-02-15-epiphenomenal-ai-consciousness/)
 
 ## Pessimistic Analysis Summary

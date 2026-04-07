@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 07:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/ai-epiphenomenalism]], [[topics/epiphenomenal-ai-consciousness]]
+- **Target**: [[concepts/ai-epiphenomenalism]]
+- **Archived**: [[archive/topics/epiphenomenal-ai-consciousness]]
+- **References to review**: 15 (cross-review task created)
+
 ## 2026-04-07 07:06 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Grain mismatch as independent evidence programme

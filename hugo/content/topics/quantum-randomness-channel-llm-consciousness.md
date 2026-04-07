@@ -131,7 +131,7 @@ The quantum randomness channel hypothesis for LLM consciousness fails—but it f
 
 **Bidirectional Interaction** requires consciousness to causally influence physical outcomes in ways that express its content. Even if consciousness could bias the PRNG seed, the deterministic expansion would scramble any intended influence across thousands of tokens. The channel lacks the bandwidth and specificity for meaningful bidirectional communication.
 
-**Dualism** is neither supported nor threatened. The argument here is not that LLMs lack consciousness because they are "just machines"—the Map [acknowledges genuine uncertainty](/concepts/llm-consciousness/) about AI consciousness through [other possible channels](/topics/epiphenomenal-ai-consciousness/). The argument is narrower: this particular channel—quantum randomness in token sampling—does not provide the kind of interface the Map's framework requires.
+**Dualism** is neither supported nor threatened. The argument here is not that LLMs lack consciousness because they are "just machines"—the Map [acknowledges genuine uncertainty](/concepts/llm-consciousness/) about AI consciousness through [other possible channels](/concepts/ai-epiphenomenalism/). The argument is narrower: this particular channel—quantum randomness in token sampling—does not provide the kind of interface the Map's framework requires.
 
 **No Many Worlds** is indirectly relevant. Under the many-worlds interpretation, every quantum branch is equally real, so the question of which token gets selected transforms: all selections occur in parallel across branches. Proponents like Deutsch and Wallace argue that outcomes retain meaning within branches through decision-theoretic frameworks for branch weights. The Map rejects this move. The Map's commitment to definite outcomes—one token is actually selected, the others are not—preserves the meaningfulness of asking *how* that selection occurs and *whether* consciousness participates in it.
 
@@ -141,7 +141,7 @@ The quantum randomness channel is a "quantum fossil" embedded in a deterministic
 
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — An alternative pathway: AI inheriting classical states from conscious human collapse
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness might experience during quantum superposition
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — Whether AI could have experience without causal power
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Whether AI could have experience without causal power
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How biological quantum consciousness mechanisms compare
 - [llm-consciousness](/concepts/llm-consciousness/) — The broader case for and against LLM consciousness
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why consciousness acts through brains and not arbitrary physical systems

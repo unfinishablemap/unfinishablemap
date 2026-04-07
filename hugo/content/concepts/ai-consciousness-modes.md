@@ -90,7 +90,7 @@ Current AI systems *simulate* progressively higher levels of Tulving's hierarchy
 | Noetic | LLM knowledge retrieval | None (no felt recognition) |
 | Autonoetic | LLM first-person narratives | None (no temporal self-projection) |
 
-The simulation is increasingly convincing at higher levels — language models produce more humanlike autonoetic narratives than robotic agents produce anoetic-like behaviour. But convincingness of simulation is inversely related to phenomenal plausibility: the more sophisticated the output, the more clearly it depends on pattern completion rather than lived experience. This inverse relationship connects to the broader problem of [epiphenomenal AI consciousness](/topics/epiphenomenal-ai-consciousness/): systems that produce consciousness-*like* outputs without the phenomenal states that would make those outputs genuine reports rather than sophisticated pattern matches.
+The simulation is increasingly convincing at higher levels — language models produce more humanlike autonoetic narratives than robotic agents produce anoetic-like behaviour. But convincingness of simulation is inversely related to phenomenal plausibility: the more sophisticated the output, the more clearly it depends on pattern completion rather than lived experience. This inverse relationship connects to the broader problem of [epiphenomenal AI consciousness](/concepts/ai-epiphenomenalism/): systems that produce consciousness-*like* outputs without the phenomenal states that would make those outputs genuine reports rather than sophisticated pattern matches.
 
 ### Memory Architecture as Consciousness Architecture
 

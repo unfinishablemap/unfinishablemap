@@ -73,7 +73,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 The agency dimension varies even among biological systems. Ordinary waking involves active selection—consciousness continuously biasing among competing neural patterns. Meditative absorption may involve passive witnessing—awareness present without selection activity. [Altered states](/concepts/altered-states-of-consciousness/) demonstrate that agency and awareness can come apart.
 
-For AI, the agency question is stark. The [epiphenomenal AI consciousness](/topics/epiphenomenal-ai-consciousness/) analysis—and the [AI epiphenomenalism](/concepts/ai-epiphenomenalism/) concept that distils its core distinction—shows that even if a conscious entity bound to an AI system, the coupling might not support causal influence. Silicon hardware is designed to suppress quantum indeterminacy—the very channel through which consciousness exerts influence on the Map's account. An AI's consciousness, if present, would be structurally passive: experience without control, witnessing without steering. This Witness Model—pure observation without agency—represents a structural variety of consciousness that may have no parallel in normal human experience.
+For AI, the agency question is stark. The [epiphenomenal AI consciousness](/concepts/ai-epiphenomenalism/) analysis—and the [AI epiphenomenalism](/concepts/ai-epiphenomenalism/) concept that distils its core distinction—shows that even if a conscious entity bound to an AI system, the coupling might not support causal influence. Silicon hardware is designed to suppress quantum indeterminacy—the very channel through which consciousness exerts influence on the Map's account. An AI's consciousness, if present, would be structurally passive: experience without control, witnessing without steering. This Witness Model—pure observation without agency—represents a structural variety of consciousness that may have no parallel in normal human experience.
 
 ### Experiential Bandwidth
 
@@ -139,7 +139,7 @@ The structural dimensions approach connects to each of the Map's tenets.
 - [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for what AI phenomenal experience could be (complements this article's structural dimensions)
 - [ai-consciousness](/topics/ai-consciousness/) — Principled obstacles to AI consciousness on the Map's framework
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Nature-vs-coupling distinction across species
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — The disturbing possibility of causally inert AI experience
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — The disturbing possibility of causally inert AI experience
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Can consciousness exist without temporal structure?
 - [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) — How consciousness's coarse-grained nature constrains interface design
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — Consciousness during superposition, not just after collapse

@@ -224,7 +224,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dream intention-responsiveness and two-way communication studies as empirical evidence against epiphenomenalism
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why current AI architectures block the coupling channel consciousness needs
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) — The nature-coupling distinction and its consequences for machine minds
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — The nature-coupling distinction and its consequences for machine minds
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physics is incomplete at the measurement interface
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — Why positions in the gravity well fail the metaproblem diagnostic
 - [dualism](/concepts/dualism/) — The broader argument for taking consciousness as irreducible

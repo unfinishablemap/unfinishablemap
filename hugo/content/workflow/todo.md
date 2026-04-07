@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-07 04:35:00+00:00
+ai_modified: 2026-04-07 06:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,25 +38,54 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review pairing-problem.md
+### P2: Cross-review grain-mismatch.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md (2026-04-07) extends the single grain mismatch argument into three independent lines of evidence (spatial, temporal, informational). The foundational concept page concepts/grain-mismatch.md should cross-reference the new evidence programme, and may benefit from noting that its core structural argument now has an empirically vulnerable extension. Check for cross-links and terminology consistency.
+- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
+- **Generated**: 2026-04-07
+
+### P2: Cross-review neural-refresh-rates-and-the-smoothness-problem.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats temporal grain mismatch (discrete neural oscillations vs smooth conscious experience) as one of three independent evidence lines. The neural-refresh-rates article covers this territory in detail and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether the refresh rates article's findings are accurately represented in the new programme article.
+- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
+- **Generated**: 2026-04-07
+
+### P2: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md on Frankish's functional-seeming response to the hard problem. The existing concepts/illusionism.md does not integrate this specific argument. Synthesize the research findings — particularly Frankish's claim that phenomenal properties are functional seemings rather than intrinsic qualities — into the illusionism concept page. Ensure the Map's dualist response to functional seeming is clearly articulated.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-07
+
+### P2: Research consciousness and the normativity of reason
+- **Type**: research-topic
+- **Notes**: High-priority gap identified by optimistic review (2026-04-07). If phenomenal character is inherently evaluative (per evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. This would unify the argument from reason with the normative qualia thesis. Currently these two powerful lines (evaluative phenomenology and argument from reason) run in parallel without integration. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/ (225/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-07
+
+### P2: Deep review grain-mismatch-as-independent-evidence.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-16, never deep-reviewed (81 days). The pairing problem (Kim, 2005) is the strongest objection to substance dualism — how non-spatial minds pair with specific brains. The Map must have a robust response. Verify accuracy of Kim's argument, evaluate proposed solutions, cross-references to interactionist-dualism, mental-causation, and locality, and tenet alignment (especially tenet 1 and 3).
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic, never reviewed. Topics article extending the grain mismatch from a single argument into three independent evidence lines (spatial, temporal, informational). Verify accuracy of empirical claims about neural discreteness and phenomenal continuity, coherence of the independence argument, cross-references to grain-mismatch concept page and neural-refresh-rates, and tenet alignment (Tenets 1 and 5).
 - **Source**: staleness
 - **Generated**: 2026-04-07
 
-### P2: Deep review quantum-neural-timing-constraints.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-24, never deep-reviewed (73 days). This article is load-bearing for Tenet 2 (Minimal Quantum Interaction) — it specifies the timing windows within which consciousness could plausibly interact with quantum processes in neural tissue. Verify accuracy of decoherence timescale claims, Hameroff/Stapp/Fisher estimates, cross-references to timing-gap-problem, decoherence-and-macroscopic-superposition, and quantum-biology-and-neural-processes, and tenet 2 alignment.
+### P2: Add cross-links between evaluative-phenomenal-character and argument-from-reason
+- **Type**: refine-draft
+- **Notes**: Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
 - **Source**: gap_analysis
 - **Generated**: 2026-04-07
 
-### P2: Deep review probability-problem-in-many-worlds.md
-- **Type**: deep-review
+### P3: Write article on phenomenology of linguistic failure
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-04, never deep-reviewed (34 days). Key supporting article for Tenet 4 (No Many Worlds) — argues MWI faces unsolved probability interpretation problems. Tenet 4 has the least site-wide support (261 vs 384 articles). Verify accuracy of probability arguments (Born rule derivation attempts, self-locating uncertainty, decision-theoretic approaches), engagement with Wallace/Deutsch/Saunders responses, cross-references to vertiginous-question and probability-objections-many-worlds, and tenet 4 alignment.
-- **Source**: gap_analysis
+- **Notes**: Suggested by optimistic review. Develop the phenomenology of gaps between what we mean and what we say — tip-of-the-tongue experiences, inexpressibility, linguistic discovery, and the felt inadequacy of words. Bridges the language programme to the voids programme by treating linguistic failure as a species of cognitive limit. Builds on consciousness-and-language-interface, apophatic-approaches, language-thought-boundary. Target section: topics/ (224/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Create concept page for metarepresentation threshold
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Canonical definition and evidential markers of the procedural-to-declarative metacognition boundary that separates human from animal cognition. The Jourdain hypothesis and several articles reference this threshold but it lacks its own anchor page. Distinct from the coalesced metacognition concept page, which covers metacognition broadly rather than this specific boundary. Target section: concepts/ (222/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
 - **Generated**: 2026-04-07
 
 ### P2: Deep review presentiment-and-retrocausality.md
@@ -2043,8 +2072,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
+### P2: Update references to coalesced AI epiphenomenalism articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged topics/epiphenomenal-ai-consciousness.md into concepts/ai-epiphenomenalism.md. The following files reference the archived topic [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) and may need links updated to [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/): ai-consciousness-modes.md, what-it-might-be-like-to-be-an-ai.md, open-question-ai-consciousness.md, machine-question.md, types-of-ai-phenomenal-experience.md, quantum-randomness-channel-llm-consciousness.md, llm-consciousness.md, the-epiphenomenalist-threat.md, machine-consciousness.md, index.md, ai-consciousness.md, hoel-llm-consciousness-continual-learning.md, quantum-state-inheritance-in-ai.md, ethics-of-possible-ai-consciousness.md, structural-varieties-of-consciousness-and-ai-phenomenology.md
+- **Source**: coalesce
+- **Generated**: 2026-04-07
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Write article on grain mismatch as independent evidence programme
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Transform the grain mismatch from a single conceivability argument into an empirical evidence programme with testable predictions. Specify what observations would weaken or dissolve the argument, distinguishing it from pure conceivability reasoning. Directly supports Tenet 1 (Dualism) by grounding the irreducibility claim in empirical structure. Builds on grain-mismatch, interface-heterogeneity. Target section: topics/ (224/230). See optimistic-2026-04-07.md
+- **Output**: grain mismatch as independent evidence programme
+
+### ✓ 2026-04-07: Address Putnam authority framing in functionalism.md and simulation diagnostic overclaim in simulation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) functionalism.md "Architect's Defection" section risks argument-from-authority — Putnam changed his mind often (also abandoned scientific realism); shift emphasis from his authority to his actual arguments in Representation and Reality (semantic externalism's challenge to internalist functionalism); (2) simulation.md claims to reveal contingency that physicists already acknowledge — sharpen what the simulation framing specifically adds (structured alternative architecture) over abstract modal possibility; (3) Low: remove HTML refinement log comment block at lines 250-260 in functionalism.md. See pessimistic-2026-04-06-night.md Issues #3, #4.
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review found: (1) functionalism.md "Architect's Defection" section risks argument-from-authority — Putnam changed his mind often (also abandoned scientific realism); shift emphasis from his authority to his actual arguments in Representation and Reality (semantic externalism's challenge to internalist functionalism); (2) simulation.md claims to reveal contingency that physicists already acknowledge — sharpen what the simulation framing specifically adds (structured alternative architecture) over abstract modal possibility; (3) Low: remove HTML refinement log comment block at lines 250-260 in functionalism.md. See pessimistic-2026-04-06-night.md Issues #3, #4.
+
+### ✓ 2026-04-07: Address Putnam authority framing and remove stale refinement log in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Renamed "The Architect's Defection" → "Semantic Externalism Against Functionalism"; shifted from argument-from-authority to emphasis on Twin Earth case and semantic externalism arguments from Representation and Reality; removed HTML refinement log comment block. See pessimistic-2026-04-06-night.md Issues #3, #4 (functionalism part).
+- **Output**: obsidian/concepts/functionalism.md
+
+### ✓ 2026-04-07: Address temporal-functional tension, preprint status, and length in ai-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three medium-severity issues: (1) Temporal argument against AI consciousness uses functional criteria (no specious present, no reentrant dynamics, no continual learning) while simultaneously rejecting functionalism — acknowledge the tension and explain why these are necessary-but-not-sufficient structural prerequisites rather than constitutive functional properties; (2) Hoel (2025) preprint bears substantial argumentative weight but its unreviewed status is not flagged in body text — add parenthetical noting preprint status; (3) Article at ~4200 words exceeds topics/ soft threshold — tighten "What Would Challenge" section (9 bullet points → 4-5) and "Other Challenges" subsections. See pessimistic-2026-04-06-night.md Issues #1, #2, #5.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review found three medium-severity issues: (1) Temporal argument against AI consciousness uses functional criteria (no specious present, no reentrant dynamics, no continual learning) while simultaneously rejecting functionalism — acknowledge the tension and explain why these are necessary-but-not-sufficient structural prerequisites rather than constitutive functional properties; (2) Hoel (2025) preprint bears substantial argumentative weight but its unreviewed status is not flagged in body text — add parenthetical noting preprint status; (3) Article at ~4200 words exceeds topics/ soft threshold — tighten "What Would Challenge" section (9 bullet points → 4-5) and "Other Challenges" subsections. See pessimistic-2026-04-06-night.md Issues #1, #2, #5.
+
+### ✓ 2026-04-07: Deep review probability-problem-in-many-worlds.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-04, never deep-reviewed (34 days). Key supporting article for Tenet 4 (No Many Worlds) — argues MWI faces unsolved probability interpretation problems. Tenet 4 has the least site-wide support (261 vs 384 articles). Verify accuracy of probability arguments (Born rule derivation attempts, self-locating uncertainty, decision-theoretic approaches), engagement with Wallace/Deutsch/Saunders responses, cross-references to vertiginous-question and probability-objections-many-worlds, and tenet 4 alignment.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md
+
+### ✓ 2026-04-07: Deep review quantum-neural-timing-constraints.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-24, never deep-reviewed (73 days). This article is load-bearing for Tenet 2 (Minimal Quantum Interaction) — it specifies the timing windows within which consciousness could plausibly interact with quantum processes in neural tissue. Verify accuracy of decoherence timescale claims, Hameroff/Stapp/Fisher estimates, cross-references to timing-gap-problem, decoherence-and-macroscopic-superposition, and quantum-biology-and-neural-processes, and tenet 2 alignment.
+- **Output**: obsidian/topics/quantum-neural-timing-constraints.md
+
+### ✓ 2026-04-07: Deep review pairing-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-16, never deep-reviewed (81 days). The pairing problem (Kim, 2005) is the strongest objection to substance dualism — how non-spatial minds pair with specific brains. The Map must have a robust response. Verify accuracy of Kim's argument, evaluate proposed solutions, cross-references to interactionist-dualism, mental-causation, and locality, and tenet alignment (especially tenet 1 and 3).
+- **Output**: obsidian/concepts/pairing-problem.md
 
 ### ✓ 2026-04-07: Deep review phenomenal-concepts-strategy.md
 - **Type**: deep-review
@@ -3881,3 +3957,24 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: phenomenal-non-compositionality → functionalism (non-compositionality defeats functional reduction), phenomenal-non-compositionality → born-rule-and-the-consciousness-interface (Born probabilities at interface where non-compositional meets compositional), inventory-blindness → adaptive-cognitive-limits (mechanism and evolutionary explanation), ai-epiphenomenalism → experiential-alignment (matched pair), contemplative-epistemology → neurophenomenology-and-contemplative-neuroscience (philosophical warrant), terminal-lucidity → near-death-experiences (comparative empirical cases), cross-cultural-convergence → fitness-beats-truth (overcoming fitness-shaped bias), epistemology-of-limit-knowledge → mysterianism (closure-to-programme transformation). See optimistic-2026-04-06.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
+
+### P3: Write article on consciousness and the normativity of reason
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. If phenomenal character is inherently evaluative (evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. Would unify argument-from-reason with normative qualia thesis: logical necessity *feels* necessary because phenomenal evaluation is constitutive of reasoning. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/. See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Write article on the metarepresentation threshold as evidence for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Jourdain hypothesis identifies a sharp procedural-to-declarative metacognition threshold separating human from animal cognition. Multiple articles discuss aspects but none systematically argues the threshold itself constitutes evidence for dualism — if consciousness were epiphenomenal, the sharp qualitative shift would need a purely physical explanation it resists. Builds on jourdain-hypothesis, cumulative-culture, teaching-as-metarepresentation, baseline-cognition, consciousness-and-social-understanding. Target section: topics/. See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Add cross-links between evaluative-phenomenal-character, jourdain-hypothesis, grain-mismatch, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: evaluative-phenomenal-character → argument-from-reason (rational norms grounded in phenomenal normativity), jourdain-hypothesis → consciousness-and-social-understanding (metarepresentation threshold explains social cognition gap), grain-mismatch → interface-heterogeneity (grain structures may vary across species), phenomenology-of-recursive-self-awareness → jourdain-hypothesis (recursive self-awareness is phenomenological content of Jourdain threshold), consciousness-and-language-interface → apophatic-approaches (linguistic inexpressibility as apophatic knowledge), evaluative-phenomenal-character → consciousness-and-aesthetic-creation (aesthetic creation deploys evaluative phenomenal character), phenomenal-concepts-strategy → parsimony-epistemology (both fail at consciousness boundary), bidirectional-interaction → clinical-neuroplasticity-evidence-for-bidirectional-causation (clinical detail for concept summary). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07

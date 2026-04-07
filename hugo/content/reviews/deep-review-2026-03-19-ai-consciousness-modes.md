@@ -58,10 +58,10 @@ topics: []
 ### Enhancements Made
 - Added No Many Worlds tenet connection (all 5 tenets now addressed)
 - Integrated Schwitzgebel (2025) citation
-- Added cross-link to [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) in simulation-instantiation section
+- Added cross-link to [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) in simulation-instantiation section
 
 ### Cross-links Added
-- [epiphenomenal-ai-consciousness](/topics/epiphenomenal-ai-consciousness/) (inline reference)
+- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) (inline reference)
 
 ## Remaining Items
 
