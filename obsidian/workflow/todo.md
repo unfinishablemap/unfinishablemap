@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
-- **Type**: cross-review
-- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats informational grain mismatch (discrete neural coding vs rich phenomenal content) as one of three independent evidence lines. The bandwidth-of-consciousness article covers the ~10 bits/s bandwidth constraint and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether bandwidth constraints are accurately represented in the new programme article.
-- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
-- **Generated**: 2026-04-07
-
 ### P2: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
 - **Type**: cross-review
 - **Notes**: New article topics/grain-mismatch-as-independent-evidence.md extends grain mismatch into three independent evidence lines (spatial, temporal, informational). The resolution-bandwidth-interface article covers related territory on resolution limits and bandwidth constraints at the consciousness-physics interface. Check for consistency, cross-links, and whether the resolution article's arguments are complementary or overlapping.
@@ -2066,6 +2060,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats informational grain mismatch (discrete neural coding vs rich phenomenal content) as one of three independent evidence lines. The bandwidth-of-consciousness article covers the ~10 bits/s bandwidth constraint and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether bandwidth constraints are accurately represented in the new programme article.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md -- Context: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
 
 ### ✓ 2026-04-07: Write article on consciousness and the normativity of reason
 - **Type**: expand-topic

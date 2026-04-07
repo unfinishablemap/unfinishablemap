@@ -5,6 +5,16 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 11:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Context**: Cross-review considering grain-mismatch-as-independent-evidence insights
+- **Word count**: 3984 → 3987 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-link, duplicate Further Reading, stale log)
+- **Enhancements made**: 1 (grain mismatch convergence programme integration)
+- **Output**: [[reviews/deep-review-2026-04-07-bandwidth-of-consciousness]]
+
 ## 2026-04-07 10:52 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Consciousness and the Normativity of Reason
