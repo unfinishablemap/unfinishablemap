@@ -4,10 +4,25 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-06'
+date: '2026-04-07'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-07 04:45 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/)
+- **Word count**: 2788 → 2559 (-229)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed stale refinement log, tightened prose to reduce word count)
+- **Enhancements made**: 6 (prose tightening across 6 sections)
+- **Output**: [deep-review-2026-04-07-phenomenal-concepts-strategy](/reviews/deep-review-2026-04-07-phenomenal-concepts-strategy/)
+
+## 2026-04-07 03:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
+- **Changes**: Moderated description and opening paragraph to match article's own conclusions; expanded selection bias caveat with explicit structural/interpretive scoping and acknowledgement of divergent findings; self-link already fixed in prior revision
+- **Published**: yes
 
 ## 2026-04-06 22:40 UTC - refine-draft
 - **Status**: Success

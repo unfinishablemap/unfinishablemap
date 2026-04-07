@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 21:55:00+00:00
+ai_modified: 2026-04-07 04:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review pairing-problem.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-16, never deep-reviewed (81 days). The pairing problem (Kim, 2005) is the strongest objection to substance dualism — how non-spatial minds pair with specific brains. The Map must have a robust response. Verify accuracy of Kim's argument, evaluate proposed solutions, cross-references to interactionist-dualism, mental-causation, and locality, and tenet alignment (especially tenet 1 and 3).
+- **Source**: staleness
+- **Generated**: 2026-04-07
+
+### P2: Deep review quantum-neural-timing-constraints.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-24, never deep-reviewed (73 days). This article is load-bearing for Tenet 2 (Minimal Quantum Interaction) — it specifies the timing windows within which consciousness could plausibly interact with quantum processes in neural tissue. Verify accuracy of decoherence timescale claims, Hameroff/Stapp/Fisher estimates, cross-references to timing-gap-problem, decoherence-and-macroscopic-superposition, and quantum-biology-and-neural-processes, and tenet 2 alignment.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-07
+
+### P2: Deep review probability-problem-in-many-worlds.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-04, never deep-reviewed (34 days). Key supporting article for Tenet 4 (No Many Worlds) — argues MWI faces unsolved probability interpretation problems. Tenet 4 has the least site-wide support (261 vs 384 articles). Verify accuracy of probability arguments (Born rule derivation attempts, self-locating uncertainty, decision-theoretic approaches), engagement with Wallace/Deutsch/Saunders responses, cross-references to vertiginous-question and probability-objections-many-worlds, and tenet 4 alignment.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-07
+
+### P2: Deep review presentiment-and-retrocausality.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-27, never deep-reviewed (70 days). Empirical evidence article for Tenet 3 (Bidirectional Interaction) — covers Bem, Radin, and Mossbridge presentiment studies. These claims are scientifically controversial and reputationally sensitive for the Map. Verify accuracy of experimental descriptions, appropriate epistemic hedging, acknowledgement of replication failures and methodological critiques, cross-references to retrocausality and atemporal-causation, and tenet 3 alignment.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-07
 
 ### P3: Deep review imagination-and-creativity-void.md
 - **Type**: deep-review
@@ -1661,11 +1689,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Six cross-linking opportunities identified: the-epiphenomenalist-threat→consciousness-and-the-problem-of-induction, evolutionary-case-for-mental-causation→clinical-dissociation-as-systematic-evidence, pragmatisms-path-to-dualism→contemplative-practice-as-philosophical-evidence, causal-closure→emergence-as-universal-hard-problem, filter-theory→clinical-dissociation-as-systematic-evidence, differential-predictions-consciousness-collapse→philosophical-stakes-of-spontaneous-collapse. See optimistic-2026-03-23-afternoon.md
 - **Generated**: 2026-03-23
 
-### P2: Address self-referential link and selection bias in contemplative-practice-as-philosophical-evidence
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) self-link in Further Reading and related_articles, (2) convergence argument selection bias insufficiently addressed, (3) description overstates "favouring dualism" relative to what the article demonstrates. See pessimistic-2026-03-23d.md
-
 ### P3: Write article on phenomenology of attention as distinct from computational attention
 - **Type**: expand-topic
 - **Status**: pending
@@ -2022,6 +2045,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review phenomenal-concepts-strategy.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-15, never deep-reviewed (82 days). The phenomenal concepts strategy is the most sophisticated materialist response to the knowledge argument and conceivability arguments — errors or weak spots here directly undermine the Map's anti-materialist case. Verify accuracy of attributed positions (Loar, Papineau, Balog), strength of counter-arguments, cross-references to knowledge-argument, zombie-master-argument, and phenomenal-concepts-as-materialist-response, and tenet alignment.
+- **Output**: obsidian/concepts/phenomenal-concepts-strategy.md
+
+### ✓ 2026-04-07: Address self-referential link and selection bias in contemplative-practice-as-philosophical-evidence
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) self-link in Further Reading and related_articles, (2) convergence argument selection bias insufficiently addressed, (3) description overstates "favouring dualism" relative to what the article demonstrates. See pessimistic-2026-03-23d.md
+- **Output**: Task context:
+Pessimistic review found: (1) self-link in Further Reading and related_articles, (2) convergence argument selection bias insufficiently addressed, (3) description overstates "favouring dualism" relative to what the article demonstrates. See pessimistic-2026-03-23d.md
 
 ### ✓ 2026-04-06: Address temporal argument tension in ai-consciousness.md
 - **Type**: refine-draft

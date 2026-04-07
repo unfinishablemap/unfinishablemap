@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-04-01 09:49:00+00:00
+ai_modified: 2026-04-07 03:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,9 +27,9 @@ concepts:
 - '[[phenomenological-evidence]]'
 created: 2026-01-27
 date: &id001 2026-03-09
-description: Cross-traditional contemplative practice functions as philosophical methodology,
-  generating evidence that eliminates epiphenomenalism and reductive materialism while
-  favouring dualism.
+description: Cross-traditional contemplative evidence eliminates epiphenomenalism
+  and reductive materialism decisively, while offering qualified support for dualism
+  over non-reductive physicalism.
 draft: false
 human_modified: null
 last_curated: null
@@ -56,7 +56,7 @@ topics:
 - '[[methodology-of-consciousness-research]]'
 ---
 
-Contemplative practice — meditation, sustained introspective training, disciplined first-person inquiry — constitutes a distinct philosophical method that generates evidence about consciousness unavailable through other approaches. The Unfinishable Map argues that this evidence, drawn from cross-traditional convergence and corroborated by neuroimaging, eliminates epiphenomenalism and reductive materialism, and favours interactionist dualism over non-reductive physicalism. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, [Sufi murāqaba](/concepts/islamic-sufi-philosophy-of-consciousness/), and secular mindfulness programs arose independently, carry opposed metaphysical commitments, and employ different techniques — yet practitioners across these traditions report strikingly similar findings about consciousness structure. Where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.
+Contemplative practice — meditation, sustained introspective training, disciplined first-person inquiry — constitutes a distinct philosophical method that generates evidence about consciousness unavailable through other approaches. The Unfinishable Map argues that this evidence, drawn from cross-traditional convergence and corroborated by neuroimaging, eliminates epiphenomenalism and reductive materialism, and offers qualified support for interactionist dualism over non-reductive physicalism — though it does not eliminate the latter. Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, [Sufi murāqaba](/concepts/islamic-sufi-philosophy-of-consciousness/), and secular mindfulness programs arose independently, carry opposed metaphysical commitments, and employ different techniques — yet practitioners across these traditions report strikingly similar findings about consciousness structure. Where traditions with incompatible doctrines discover the same phenomenological features, the most parsimonious explanation is that those features are real properties of experience rather than artefacts of any single tradition's training.
 
 ## Contemplative Practice as Methodology
 
@@ -114,7 +114,7 @@ This pattern — agreement on phenomenological structure, disagreement on metaph
 
 A further complication: several convergent findings overlap phenomenologically with [pathological conditions](/topics/contemplative-pathology-and-interface-malfunction/) (depersonalisation, temporal fragmentation, involuntary witness states). This overlap actually strengthens the structural claims — both healthy practice and pathological disruption reveal the same interface components from different directions, confirming genuine architectural features. The [clinical phenomenology framework](/topics/clinical-phenomenology-and-altered-experience/) develops this convergence systematically.
 
-The five findings are a curated selection, not an exhaustive survey. The convergence argument is strongest for structural claims where evidence is independently replicable, and weakest where the selection could be biased toward confirming theoretical expectations. See [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) and [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) for broader treatment.
+The five findings are a curated selection, not an exhaustive survey, and the convergence claim applies specifically to *structural* findings — phenomenological features discoverable through disciplined practice — rather than to contemplative findings generally. A critic could curate a different set emphasising divergent results (the status of the observer, the nature of cessation, whether attention is unitary or composite), and those divergences are genuine. The argument's force depends on the structural/interpretive distinction holding: if the "convergent" findings are already shaped by interpretive frameworks, the selection is circular. The convergence argument is strongest where evidence is independently replicable across traditions with distinct historical roots, and weakest where the selection could be biased toward confirming theoretical expectations. See [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) and [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) for broader treatment of when convergence constitutes genuine evidence and when it reflects selection artefacts.
 
 ## The Theory-Ladenness Objection
 
@@ -237,6 +237,19 @@ Changes made:
 - Both additions integrate findings from phenomenal-authority-epistemic-weight-2026-03-28.md research
 
 Key improvements: contemplative practice now explicitly positioned as extending phenomenal authority into structural domains where naive introspection fails
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-07
+Changes made:
+- Moderated description: replaced "favouring dualism" with "offering qualified support for dualism over non-reductive physicalism"
+- Qualified opening paragraph claim: added "though it does not eliminate the latter" to dualism support
+- Expanded selection bias caveat: explicitly scoped convergence to structural findings, acknowledged a critic could curate divergent findings, noted the structural/interpretive distinction is load-bearing
+- Self-link issue (from pessimistic review): already fixed in prior revision
+
+Based on pessimistic-2026-03-23d.md review findings.
+Key improvements: claims now better calibrated to what the article actually demonstrates
 
 This log should be removed after human review.
 -->
