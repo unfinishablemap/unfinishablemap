@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-04-04 03:41:00+00:00
+ai_modified: 2026-04-07 12:53:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 17:27:00+00:00
 apex_sources:
@@ -39,6 +39,7 @@ related_articles:
 - '[[testing-the-map-from-inside]]'
 - '[[counterfactual-void]]'
 - '[[moral-architecture-of-consciousness]]'
+- '[[indexical-void]]'
 title: Consciousness and Agency
 topics:
 - '[[topics/free-will]]'

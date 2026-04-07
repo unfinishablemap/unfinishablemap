@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-07 06:09:00+00:00
+ai_modified: 2026-04-07 10:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review grain-mismatch-as-independent-evidence.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic, never reviewed. Topics article extending the grain mismatch from a single argument into three independent evidence lines (spatial, temporal, informational). Verify accuracy of empirical claims about neural discreteness and phenomenal continuity, coherence of the independence argument, cross-references to grain-mismatch concept page and neural-refresh-rates, and tenet alignment (Tenets 1 and 5).
-- **Source**: staleness
-- **Generated**: 2026-04-07
-
-### P2: Add cross-links between evaluative-phenomenal-character and argument-from-reason
-- **Type**: refine-draft
-- **Notes**: Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-07
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -64,11 +52,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-07
 
-### P2: Deep review presentiment-and-retrocausality.md
-- **Type**: deep-review
+### P3: Write article on comparative phenomenology of mathematical insight across cultures
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-27, never deep-reviewed (70 days). Empirical evidence article for Tenet 3 (Bidirectional Interaction) — covers Bem, Radin, and Mossbridge presentiment studies. These claims are scientifically controversial and reputationally sensitive for the Map. Verify accuracy of experimental descriptions, appropriate epistemic hedging, acknowledgement of replication failures and methodological critiques, cross-references to retrocausality and atemporal-causation, and tenet 3 alignment.
-- **Source**: gap_analysis
+- **Notes**: Suggested by optimistic review. Test whether the four features of mathematical insight (cross-domain connection, aesthetic filtration, phenomenal certainty, external validation) are culturally universal — Eastern approaches to proof, Islamic algebraic traditions, Indian mathematical phenomenology. Extends convergence programme to new domain. Builds on consciousness-and-mathematics, cross-cultural-phenomenology-of-agency, contemplative-practice-as-philosophical-evidence. Target section: topics/ (225/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Write article on consciousness-physics interface mechanism (technical treatment)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles reference consciousness selecting at quantum indeterminacies without fully explaining the mechanism. A dedicated technical article would make the interface proposal precise enough for empirical evaluation. Builds on mind-matter-interface, quantum-consciousness, comparing-quantum-consciousness-mechanisms, consciousness-physics-interface-formalism. Target section: topics/ (225/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
 - **Generated**: 2026-04-07
 
 ### P3: Deep review imagination-and-creativity-void.md
@@ -2057,6 +2052,60 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-04-07: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the indexical void — the impossibility of fully capturing what it is to be *this* subject (created 2026-02-24). Add cross-references from related articles such as indexical-identity, haecceity, other-minds-void, and taxonomy-of-voids. Bridges the identity programme and the voids programme.
+- **Output**: obsidian/voids/indexical-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-07: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on indexical identity and quantum measurement (created 2026-01-23). Add cross-references from related articles such as indexical-identity, quantum-measurement, born-rule-and-the-consciousness-interface, and probability-problem-in-many-worlds. Directly supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-07: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article on indexical knowledge and personal identity (created 2026-01-27). Add cross-references from related articles such as indexical-identity, personal-identity, haecceity, knowledge-argument, and the indexical identity quantum measurement article. Central to Tenet 4 (No Many Worlds) — indexical identity matters.
+- **Output**: obsidian/concepts/indexical-knowledge-and-identity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-07: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md extends grain mismatch into three independent evidence lines (spatial, temporal, informational). The resolution-bandwidth-interface article covers related territory on resolution limits and bandwidth constraints at the consciousness-physics interface. Check for consistency, cross-links, and whether the resolution article's arguments are complementary or overlapping.
+- **Output**: obsidian/topics/resolution-bandwidth-interface.md -- Context: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
+
+### ✓ 2026-04-07: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats informational grain mismatch (discrete neural coding vs rich phenomenal content) as one of three independent evidence lines. The bandwidth-of-consciousness article covers the ~10 bits/s bandwidth constraint and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether bandwidth constraints are accurately represented in the new programme article.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md -- Context: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
+
+### ✓ 2026-04-07: Write article on consciousness and the normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Epistemic normativity — the fact that beliefs can be right or wrong and that we ought to follow logical rules — poses a distinctive challenge for physicalism distinct from existing Map coverage. Differs from argument-from-reason (which focuses on self-defeat) and evaluative-qualia (which focuses on moral normativity). Synthesize the Lewis-Reppert-Hasker-Plantinga tradition, Nagel's defense of rational objectivity, and the "five marks of the mental." Target section: topics/ (223/230).
+- **Output**: consciousness and the normativity of reason
+
+### ✓ 2026-04-07: Deep review presentiment-and-retrocausality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-27, never deep-reviewed (70 days). Empirical evidence article for Tenet 3 (Bidirectional Interaction) — covers Bem, Radin, and Mossbridge presentiment studies. These claims are scientifically controversial and reputationally sensitive for the Map. Verify accuracy of experimental descriptions, appropriate epistemic hedging, acknowledgement of replication failures and methodological critiques, cross-references to retrocausality and atemporal-causation, and tenet 3 alignment.
+- **Output**: obsidian/topics/presentiment-and-retrocausality.md
+
+### ✓ 2026-04-07: Fix circular LLM evidence in consciousness-and-language-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "LLMs as Partial Evidence" section begs the question—using LLMs as evidence for language-without-consciousness presupposes LLMs lack consciousness. Reframe to say LLMs are *consistent with* dualist predictions rather than *confirming* them. Also expand the underdeveloped aphasia section which provides stronger empirical evidence. See pessimistic-2026-04-07.md
+- **Output**: obsidian/topics/consciousness-and-language-interface.md
+
+Task context:
+Pessimistic review found the "LLMs as Partial Evidence" section begs the question—using LLMs as evidence for language-without-consciousness presupposes LLMs lack consciousness. Reframe to say LLMs are *consistent with* dualist predictions rather than *confirming* them. Also expand the underdeveloped aphasia section which provides stronger empirical evidence. See pessimistic-2026-04-07.md
+
+### ✓ 2026-04-07: Add cross-links between evaluative-phenomenal-character and argument-from-reason
+- **Type**: refine-draft
+- **Notes**: Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
+- **Output**: Task context:
+Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
+
+### ✓ 2026-04-07: Deep review grain-mismatch-as-independent-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic, never reviewed. Topics article extending the grain mismatch from a single argument into three independent evidence lines (spatial, temporal, informational). Verify accuracy of empirical claims about neural discreteness and phenomenal continuity, coherence of the independence argument, cross-references to grain-mismatch concept page and neural-refresh-rates, and tenet alignment (Tenets 1 and 5).
+- **Output**: obsidian/topics/grain-mismatch-as-independent-evidence.md
+
 ### ✓ 2026-04-07: Research consciousness and the normativity of reason
 - **Type**: research-topic
 - **Notes**: High-priority gap identified by optimistic review (2026-04-07). If phenomenal character is inherently evaluative (per evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. This would unify the argument from reason with the normative qualia thesis. Currently these two powerful lines (evaluative phenomenology and argument from reason) run in parallel without integration. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/ (225/230).
@@ -3957,10 +4006,12 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
-### P3: Write article on consciousness and the normativity of reason
+### ✓ 2026-04-07: Write article on consciousness and the normativity of reason
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: completed (superseded by P2 chain task)
 - **Notes**: Suggested by optimistic review. If phenomenal character is inherently evaluative (evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. Would unify argument-from-reason with normative qualia thesis: logical necessity *feels* necessary because phenomenal evaluation is constitutive of reasoning. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/. See optimistic-2026-04-07.md
+- **Completed**: 2026-04-07
+- **Output**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-07
 

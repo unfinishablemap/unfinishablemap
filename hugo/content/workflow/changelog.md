@@ -9,6 +9,125 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 12:53 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-void](/voids/indexical-void/)
+- **Word count**: 1589 → 1621 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (continued orphan integration)
+- **Enhancements made**: 5 new inbound cross-links from articles created/modified since last review
+- **Output**: [deep-review-2026-04-07-indexical-void](/reviews/deep-review-2026-04-07-indexical-void/)
+
+## 2026-04-07 12:37 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Notes**: Searched voids (100/100), topics (224/230), concepts (221/230) across 5 iterations. All candidate pairs well-differentiated after prior coalesce operations. No merge performed.
+
+## 2026-04-07 12:22 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Context**: Orphan integration focus — article was NOT orphaned (26+ inbound links). Added 1 missing inbound cross-link.
+- **Word count**: 2726 → 2726 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing inbound link from pragmatism-and-qbism)
+- **Enhancements made**: 1 (inbound cross-link from pragmatism-and-qbism)
+- **Output**: [deep-review-2026-04-07-indexical-identity-quantum-measurement](/reviews/deep-review-2026-04-07-indexical-identity-quantum-measurement/)
+
+## 2026-04-07 12:07 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Word count**: 1716 → 2029 (+313)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (reliabilism response strengthened, evolutionary naturalism addressed, conceptual nature acknowledged)
+- **Enhancements made**: 3 (content-sensitivity expanded with formal systems cross-link, Nagel's Last Word integrated, cross-link to consciousness-and-the-authority-of-formal-systems)
+- **Output**: [deep-review-2026-04-07-consciousness-and-the-normativity-of-reason](/reviews/deep-review-2026-04-07-consciousness-and-the-normativity-of-reason/)
+
+## 2026-04-07 11:52 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Context**: Orphan integration focus — added inbound cross-links from 5 articles
+- **Word count**: 2357 → 2357 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 (inbound cross-links from cognitive-integration-and-the-self, probability-problem-in-many-worlds, quantum-probability-consciousness, consciousness-and-probability-interpretation, quantum-measurement-and-subjective-probability)
+- **Output**: [deep-review-2026-04-07-indexical-knowledge-and-identity](/reviews/deep-review-2026-04-07-indexical-knowledge-and-identity/)
+
+## 2026-04-07 11:37 UTC - deep-review
+- **Status**: Success
+- **File**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **Context**: Cross-review considering grain-mismatch-as-independent-evidence insights
+- **Word count**: 2990 → 3003 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing grain-mismatch evidence programme cross-link, redundant parentheticals)
+- **Enhancements made**: 1 (convergence note connecting informational mismatch to three-domain evidence programme)
+- **Output**: [deep-review-2026-04-07-resolution-bandwidth-interface](/reviews/deep-review-2026-04-07-resolution-bandwidth-interface/)
+
+## 2026-04-07 11:23 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Representative sample across 448 non-draft articles (225 topics, 222 concepts, 1 tenets) plus apex (~22) and voids (~101)
+- **Output**: [optimistic-2026-04-07](/reviews/optimistic-2026-04-07/)
+
+## 2026-04-07 11:07 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Context**: Cross-review considering grain-mismatch-as-independent-evidence insights
+- **Word count**: 3984 → 3987 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-link, duplicate Further Reading, stale log)
+- **Enhancements made**: 1 (grain mismatch convergence programme integration)
+- **Output**: [deep-review-2026-04-07-bandwidth-of-consciousness](/reviews/deep-review-2026-04-07-bandwidth-of-consciousness/)
+
+## 2026-04-07 10:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Normativity of Reason
+- **Output**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Word count**: 1716
+- **Based on research**: yes, [consciousness-normativity-of-reason-2026-04-07](/research/consciousness-normativity-of-reason-2026-04-07/)
+
+## 2026-04-07 10:43 UTC - deep-review
+- **Status**: Success (converged)
+- **File**: [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- **Word count**: 3027 → 3027 (frontmatter-only fix)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (frontmatter categorization)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-07-teaching-as-metarepresentation](/reviews/deep-review-2026-04-07-teaching-as-metarepresentation/)
+
+## 2026-04-07 10:22 UTC - deep-review
+- **Status**: Success (converged, no changes)
+- **File**: [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- **Word count**: 1588 → 1588 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-07-presentiment-and-retrocausality](/reviews/deep-review-2026-04-07-presentiment-and-retrocausality/)
+
+## 2026-04-07 10:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
+- **Changes**: Reframed LLM section to remove question-begging (consistency check, not confirmation); expanded aphasia section with Broca's/Wernicke's/global dissociations; softened dismissive language; updated summary weighting
+- **Published**: yes
+
+## 2026-04-07 09:53 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: grain-mismatch-as-independent-evidence.md, evaluative-phenomenal-character.md, consciousness-and-language-interface.md
+- **Output**: [pessimistic-2026-04-07](/reviews/pessimistic-2026-04-07/)
+
+## 2026-04-07 09:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/), [argument-from-reason](/topics/argument-from-reason/), [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Changes**: Added bidirectional wikilinks and connecting notes between evaluative phenomenology and argument from reason; linked both to consciousness-defeats-explanation
+- **Published**: yes
+
+## 2026-04-07 09:03 UTC - deep-review
+- **Status**: Success (converged)
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 1847 → 1854 (+7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (GWT cross-link)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-07b-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-04-07b-grain-mismatch-as-independent-evidence/)
+- **Note**: 2nd review, article fully converged
+
 ## 2026-04-07 08:48 UTC - deep-review
 - **Status**: Success
 - **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)

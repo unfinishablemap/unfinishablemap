@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-24 14:58:00+00:00
+ai_modified: 2026-04-07 12:53:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-24 14:58:00+00:00
 apex_sources:
@@ -37,6 +37,7 @@ related_articles:
 - '[[indexical-identity-quantum-measurement]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[altered-states-of-consciousness]]'
+- '[[indexical-void]]'
 title: Identity Across Transformations
 topics:
 - '[[personal-identity]]'
@@ -58,7 +59,7 @@ What makes you the same person across time? Three standard philosophical answers
 
 **Narrative identity** identifies you with your self-told life story. But narratives fragment; they're told differently at different times; and some people have remarkably discontinuous self-understanding without ceasing to exist.
 
-Each approach treats identity as *qualitative*—a matter of which features persist. The Map's alternative: identity is *indexical*, grounded in the primitive thisness ([haecceity](/concepts/haecceity/)) of being *this* conscious subject rather than any qualitatively identical other. As [indexical knowledge](/concepts/indexical-knowledge-and-identity/) analysis shows, knowledge expressible only as "I," "here," "now" resists translation into impersonal terms—no description of your properties captures what makes you *you* rather than a perfect copy.
+Each approach treats identity as *qualitative*—a matter of which features persist. The Map's alternative: identity is *indexical*, grounded in the primitive thisness ([haecceity](/concepts/haecceity/)) of being *this* conscious subject rather than any qualitatively identical other. The [indexical-void](/voids/indexical-void/) marks this as a genuine cognitive boundary: the question "why am I *this* one?" resists every available method of answer. As [indexical knowledge](/concepts/indexical-knowledge-and-identity/) analysis shows, knowledge expressible only as "I," "here," "now" resists translation into impersonal terms—no description of your properties captures what makes you *you* rather than a perfect copy.
 
 A direct objection: if haecceity has no observable consequences—if no measurement, behaviour, or brain state distinguishes you from a qualitatively identical replica—then does "primitive thisness" name a real feature of reality or merely label the problem it claims to solve? The Map takes haecceity to be a genuine metaphysical primitive: some facts are fundamental and admit no further explanation, and the fact that *this* consciousness is *this one* may be among them. This is an honest cost. Haecceity does not *explain* indexical identity in terms of something more basic; it asserts that indexical identity is basic. Critics who demand explanatory reduction will find this unsatisfying, and the Map acknowledges that the demand is reasonable even while declining to meet it.
 

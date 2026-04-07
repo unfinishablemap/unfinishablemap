@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-07 11:52:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -130,7 +130,7 @@ This prospective dimension matters for [free will](/topics/free-will/). If consc
 
 ## Integration and Indexical Identity
 
-The [vertiginous question](/topics/vertiginous-question/)—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [Haecceity](/concepts/haecceity/), or "thisness," is the property that makes this consciousness mine rather than someone else's.
+The [vertiginous question](/topics/vertiginous-question/)—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [Haecceity](/concepts/haecceity/), or "thisness," is the property that makes this consciousness mine rather than someone else's. [Indexical knowledge](/concepts/indexical-knowledge-and-identity/)—knowledge expressible only as "I," "here," "now"—provides the epistemic counterpart: the self is not merely unified but known from the inside in a way that resists third-person translation.
 
 Cognitive integration constitutes indexical identity. The boundaries of "me" are defined by what integrates into a single experiential stream. Experiences that bind together phenomenally belong to the same self; experiences that do not remain separate selves.
 

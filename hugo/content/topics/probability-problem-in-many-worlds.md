@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-04
-ai_modified: 2026-04-07 05:50:00+00:00
+ai_modified: 2026-04-07 11:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -112,7 +112,7 @@ Saunders (2021) revisited branch-counting in *Proceedings of the Royal Society A
 
 ### The Sleeping-Pill Strategy
 
-Vaidman (1998) proposed a different approach: between the moment of measurement and the moment of observation, an agent genuinely doesn't know which branch they occupy. This window of ignorance provides a foothold for probability as rational credence about self-location.
+Vaidman (1998) proposed a different approach: between the moment of measurement and the moment of observation, an agent genuinely doesn't know which branch they occupy. This window of ignorance provides a foothold for probability as rational credence about self-location—the kind of [self-locating knowledge](/concepts/indexical-knowledge-and-identity/) that Lewis's Two Gods scenario shows cannot be derived from impersonal facts alone.
 
 Sebens and Carroll (2018) refined this into a formal derivation. Their epistemic separability principle (ESP-QM) holds that "an agent's self-locating credences should depend only on the quantum state of the relevant part of the multiverse." From ESP-QM, they derive that the Born rule is the uniquely rational way to apportion credence.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-18 04:44:00+00:00
+ai_modified: 2026-04-07 10:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,6 @@ concepts:
 - '[[working-memory]]'
 - '[[illusionism]]'
 - '[[global-workspace-theory]]'
-- '[[topics/free-will]]'
 created: 2026-01-22
 date: &id001 2026-01-22
 description: Teaching requires knowing that you know and that others don't. Great
@@ -21,7 +20,7 @@ description: Teaching requires knowing that you know and that others don't. Grea
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-11 22:32:00+00:00
+last_deep_review: 2026-04-07 10:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +29,7 @@ title: Teaching as Metarepresentational Achievement
 topics:
 - '[[animal-consciousness]]'
 - '[[ai-consciousness]]'
+- '[[topics/free-will]]'
 ---
 
 To teach is to represent your knowledge as knowledge another lacks, represent that lack as a gap to be filled, and adjust your behaviour to bridge it. This triadic structure—knowledge, absence of knowledge, and the relation between them—makes teaching a paradigm case of [metarepresentation](/concepts/metacognition/). Great apes rarely teach despite decades of opportunity; humans teach constantly, across all cultures, beginning in early childhood. The Unfinishable Map proposes that this asymmetry reveals something fundamental about consciousness: teaching requires the phenomenal standing-back that metarepresentation demands, and metarepresentation may require phenomenal consciousness.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-07 12:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Why am I this consciousness and not another? The indexical void mar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 03:53:00+00:00
+last_deep_review: 2026-04-07 12:53:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,8 @@ related_articles:
 - '[[indexical-identity-quantum-measurement]]'
 - '[[plurality-void]]'
 - '[[boundary-void]]'
+- '[[identity-across-transformations]]'
+- '[[split-brain-consciousness]]'
 title: The Indexical Void
 topics:
 - '[[personal-identity]]'
@@ -125,6 +127,8 @@ The indexical void connects to the Map's [tenets](/tenets/) in a distinctive way
 - [combination-problem](/concepts/combination-problem/) — How micro-experiences combine into unified subjects
 - [boundary-void](/voids/boundary-void/) — What determines the extent of one consciousness; individuation presupposes boundaries
 - [plurality-void](/voids/plurality-void/) — The void around the multiplicity of conscious subjects
+- [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
+- [split-brain-consciousness](/topics/split-brain-consciousness/) — Cases where division intensifies the indexical question
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-06 06:36:00+00:00
+ai_modified: 2026-04-07 11:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ description: The 100-million-fold gap between sensory input and conscious output
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 02:31:00+00:00
+last_deep_review: 2026-04-07 11:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -51,6 +51,7 @@ related_articles:
 - '[[conservation-laws-and-mental-causation]]'
 - '[[attentional-economics]]'
 - '[[grain-mismatch]]'
+- '[[grain-mismatch-as-independent-evidence]]'
 title: The Bandwidth of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -78,7 +79,7 @@ All figures use Shannon information theory: entropy of the decision space divide
 
 The ceiling holds regardless of training, talent, or task type. Hick (1952) measured "the rate of gain of information" at ~5 bits per second—constant across task durations and number of alternatives. Hyman (1953) confirmed the logarithmic relationship with an average slope of ~150 ms per bit, together establishing the Hick-Hyman Law. Miller (1956) identified complementary capacity limits: ~2.5 bits per dimension in absolute judgement (distinguishing about 6 levels, not hundreds) and ~7 chunks in immediate memory. Chunking works *around* channel capacity without removing it. Pierce and Karlin (1957) extended the information-theoretic approach to reading performance, treating human reading aloud as a Shannon channel—converging on the same order-of-magnitude ceiling. Over seven decades of measurement, the ceiling has held across tasks, populations, and historical periods—a structural feature, not an experimental artefact.
 
-Zheng and Meister call the ratio between sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—"the largest unexplained number in brain science." The puzzle deepens at storage: the brain retains only ~1 gigabyte over a lifetime, far below its ~50 terabyte capacity.
+Zheng and Meister call the ratio between sensory processing (~10⁹ bits/s) and conscious throughput (~10 bits/s) the "sifting ratio"—"the largest unexplained number in brain science."
 
 Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynski's 2025 *Nature Neuroscience* commentary "The Brain Works at More Than 10 Bits Per Second" accepts the ~10 bits/s ceiling for conscious cognition but demonstrates that unconscious motor control vastly exceeds it. A runner's stride takes 250 milliseconds; specifying phase, amplitude, and duty cycle for even one muscle requires more than 3 bits per stride, and dozens of muscles must be coordinated simultaneously. The cerebellum—containing roughly half the brain's neurons—performs continuous real-time sensorimotor processing far exceeding the conscious ceiling. Individual neurons transmit ~200 bits per second. The bottleneck is specifically at *[conscious access](/concepts/access-consciousness/)*—the point where information becomes available to the experiencing subject—not in the computational substrate surrounding it.
 
@@ -118,7 +119,7 @@ The bandwidth constraint creates a functional partition between conscious and un
 
 If the brain *produces* consciousness, the bandwidth constraint is puzzling. A system with 86 billion neurons and petabit-scale internal processing produces a consciousness that processes at 10 bits per second—a narrowing factor of 10⁸, far beyond what parallel-to-serial architectures typically impose.
 
-The inbound side deepens the puzzle: why would a system generating rich experience restrict that experience's causal influence to 10 bits per second? Sauerbrei and Pruszynski's demonstration that unconscious motor processing vastly exceeds this ceiling makes the puzzle sharper—the brain *can* process at higher rates. The bottleneck appears precisely where consciousness enters the picture.
+The inbound side deepens the puzzle: why would a system generating rich experience restrict that experience's causal influence to 10 bits per second? Sauerbrei and Pruszynski's demonstration that unconscious motor processing vastly exceeds this ceiling makes the puzzle sharper—the brain *can* process at higher rates. The bottleneck appears precisely where consciousness enters the picture. The [grain mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) situates this informational asymmetry alongside two independent structural mismatches—spatial (phenomenal homogeneity versus neural discreteness) and temporal (experiential smoothness versus oscillatory periodicity)—arguing that their convergence through distinct empirical routes constitutes structural evidence rather than a conceivability exercise.
 
 ### Filter Theory's Natural Fit
 
@@ -158,7 +159,7 @@ Consciousness makes approximately 3–4 selections per second. Musslick et al. (
 
 ### Cumulative Over Time
 
-The bandwidth constraint applies per unit time, but effects accumulate. This is the basis of [attentional economics](/concepts/attentional-economics/): attention is capital invested over time, with returns measured in neural pattern stabilisation and neuroplastic change. Schwartz's OCD research illustrates this—patients showed measurable changes in caudate nucleus activation through accumulated effort over weeks, though the original study was small (18 participants) and has not been independently replicated. The bandwidth per moment is narrow; the aggregate effect is substantial.
+The bandwidth constraint applies per unit time, but effects accumulate. This is the basis of [attentional economics](/concepts/attentional-economics/): attention is capital invested over time, with returns measured in neural pattern stabilisation and neuroplastic change. Schwartz's OCD research illustrates this—patients showed measurable caudate nucleus changes through accumulated effort over weeks, though the original study was small (18 participants) and has not been independently replicated.
 
 ## What Happens Outside the Bandwidth
 
@@ -170,7 +171,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) attributes so
 
 Skills that begin as conscious, bandwidth-consuming processes become automatic with practice—moving outside the conscious channel, freeing bandwidth for other selections.
 
-This explains why elite performers do not widen the bottleneck. Memory athletes compress arbitrary sequences into familiar spatial patterns; expert typists chunk letter sequences so each conscious selection triggers multiple keystrokes. Expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity. This distinction matters for [cognitive enhancement ethics](/topics/ethics-of-cognitive-enhancement-under-dualism/): technologies that widen the interface channel would be fundamentally different from those that merely accelerate the brain's pre-conscious processing.
+This explains why elite performers do not widen the bottleneck. Memory athletes compress arbitrary sequences into familiar spatial patterns; expert typists chunk letter sequences so each conscious selection triggers multiple keystrokes. Expertise works *around* the ceiling by moving processing below it, not *through* it by expanding conscious capacity. This distinction matters for [cognitive enhancement ethics](/topics/ethics-of-cognitive-enhancement-under-dualism/): widening the interface channel would be fundamentally different from accelerating pre-conscious processing.
 
 On the interface model, consciousness trains neural systems to execute patterns autonomously, then withdraws to address new challenges. The brain learns what consciousness selects; consciousness selects what the brain hasn't yet learned.
 
@@ -242,8 +243,8 @@ The argument linking bandwidth constraints to the interface model would face ser
 - [access-consciousness](/concepts/access-consciousness/) — The distinction between phenomenal and access consciousness
 - [resolution-void](/voids/resolution-void/) — The resolution gap between brain processing and conscious access
 - [grain-mismatch](/concepts/grain-mismatch/) — The resolution asymmetry tied to bandwidth constraints
+- [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) — The bandwidth constraint as one of three converging grain mismatches
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive linguistic structure as bandwidth compression
-- [attentional-economics](/concepts/attentional-economics/) — Agency as allocation of the scarce conscious resource
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Ethical implications of modifying the interface's bandwidth
 
 ## References
@@ -270,16 +271,3 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 1. Pashler, H. (1994). Dual-task interference in simple tasks: Data and theory. *Psychological Bulletin*, 116(2), 220–244.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628–645.
-
-<!-- AI REFINEMENT LOG - 2026-04-04
-Changes made:
-- Expanded Inbound Channel with Zimmermann's modality-specific sensory breakdown (vision ~10M, touch ~1M, auditory/olfactory/gustatory less)
-- Added random character typing comparison to strengthen Shannon methodology explanation (same motor skill, lower information = lower throughput)
-- Integrated Nørretranders quote in filter theory section grounding the "user illusion" in Zimmermann's quantified unconscious processing
-- Added explicit order-of-magnitude summary closing the inbound section (six orders of magnitude)
-
-Based on research/bandwidth-constraints-10-bits-2026-03-29.md (second pass — deeper source grounding).
-Key improvements: Strengthened empirical specificity of inbound bandwidth claims and methodology explanation.
-
-This log should be removed after human review.
--->

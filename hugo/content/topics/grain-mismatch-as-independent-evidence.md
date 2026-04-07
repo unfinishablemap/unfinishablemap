@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-04-07 08:48:00+00:00
+ai_modified: 2026-04-07 09:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Three independent grain mismatches—spatial, temporal, information
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 08:48:00+00:00
+last_deep_review: 2026-04-07 09:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -89,7 +89,7 @@ The evidence programme would be substantially weakened by:
 
 **Demonstration that phenomenal homogeneity is illusory.** If Lee's introspective opacity were resolved — if it were shown that phenomenal experience is discrete at a fine grain matching neural architecture — the spatial and temporal mismatches would dissolve at their foundation. The informational mismatch would survive (discrete conscious experience could still be informationally coarser than neural processing), but the programme would lose two of its three pillars.
 
-**A physicalist theory that *predicts* the grain ratios.** Currently, physicalist accounts explain that *some* compression exists (Global Workspace Theory's serial broadcasting, for instance) without explaining why the compression has the specific magnitude it does. A theory that derived the ~10 bits/second figure from neural architecture — and explained why that specific bottleneck occurs at conscious access rather than elsewhere — would provide the kind of explanatory resource the programme claims physicalism lacks.
+**A physicalist theory that *predicts* the grain ratios.** Currently, physicalist accounts explain that *some* compression exists ([Global Workspace Theory's](/concepts/global-workspace-theory/) serial broadcasting, for instance) without explaining why the compression has the specific magnitude it does. A theory that derived the ~10 bits/second figure from neural architecture — and explained why that specific bottleneck occurs at conscious access rather than elsewhere — would provide the kind of explanatory resource the programme claims physicalism lacks.
 
 ## Relation to Site Perspective
 
