@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-the-normativity-of-reason.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Brand new article (created 2026-04-07) with zero inbound links. References argument-from-reason, hard-problem-of-consciousness, consciousness-and-normative-force as topics and self-stultification, cognitive-phenomenology, intentionality, reasons-responsiveness as concepts. Add cross-references from these and other related articles to integrate into the site's link graph.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-07
-
-### P2: Deep review consciousness-and-the-normativity-of-reason.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic from research/consciousness-normativity-of-reason-2026-04-07.md, never reviewed. Topics article arguing physical processes lack normativity while reasoning requires it. Verify accuracy of philosophical claims (Frege, Sellars, Boghossian on normativity), coherence of the bridge from normativity gap to dualism, cross-references to argument-from-reason and self-stultification-as-master-argument, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-04-07)
-- **Generated**: 2026-04-07
-
-### P2: Deep review consciousness-defeats-explanation.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never deep-reviewed (48 days old). Topics article on consciousness as the condition of explanation — argues consciousness cannot be explained because it is presupposed by explanation itself. Verify coherence of the reflexive argument, accuracy of philosophical claims, cross-references to argument-from-reason and consciousness-and-mathematics, and tenet alignment. Multiple optimistic reviews have identified expansion opportunities but no quality review has been done.
-- **Source**: staleness
-- **Generated**: 2026-04-07
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2069,6 +2051,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review consciousness-defeats-explanation.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-02-18, never deep-reviewed (48 days old). Topics article on consciousness as the condition of explanation — argues consciousness cannot be explained because it is presupposed by explanation itself. Verify coherence of the reflexive argument, accuracy of philosophical claims, cross-references to argument-from-reason and consciousness-and-mathematics, and tenet alignment. Multiple optimistic reviews have identified expansion opportunities but no quality review has been done.
+- **Output**: obsidian/topics/consciousness-defeats-explanation.md
+
+### ✓ 2026-04-07: Deep review consciousness-and-the-normativity-of-reason.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic from research/consciousness-normativity-of-reason-2026-04-07.md, never reviewed. Topics article arguing physical processes lack normativity while reasoning requires it. Verify accuracy of philosophical claims (Frege, Sellars, Boghossian on normativity), coherence of the bridge from normativity gap to dualism, cross-references to argument-from-reason and self-stultification-as-master-argument, and tenet alignment.
+- **Output**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
+
+### ✓ 2026-04-07: Integrate consciousness-and-the-normativity-of-reason.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Brand new article (created 2026-04-07) with zero inbound links. References argument-from-reason, hard-problem-of-consciousness, consciousness-and-normative-force as topics and self-stultification, cognitive-phenomenology, intentionality, reasons-responsiveness as concepts. Add cross-references from these and other related articles to integrate into the site's link graph.
+- **Output**: obsidian/topics/consciousness-and-the-normativity-of-reason.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-07: Cross-review self-stultification-as-master-argument.md considering normativity-of-reason insights
 - **Type**: cross-review

@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 18:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Word count**: 2732 → 2745 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing Further Reading cross-link)
+- **Enhancements made**: 1 (evaluative-qualia cross-link in Further Reading)
+- **Output**: [deep-review-2026-04-07-consciousness-defeats-explanation](/reviews/deep-review-2026-04-07-consciousness-defeats-explanation/)
+
+## 2026-04-07 16:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Word count**: 1929 → 2007 (+78)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (functionalism counterargument gap)
+- **Enhancements made**: 1 (functionalism paragraph + inline link)
+- **Output**: [deep-review-2026-04-07c-consciousness-and-the-normativity-of-reason](/reviews/deep-review-2026-04-07c-consciousness-and-the-normativity-of-reason/)
+
+## 2026-04-07 14:04 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Word count**: 1929 → 1929 (no change — content stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 7 inbound cross-links added from related articles
+- **Output**: [deep-review-2026-04-07b-consciousness-and-the-normativity-of-reason](/reviews/deep-review-2026-04-07b-consciousness-and-the-normativity-of-reason/)
+
 ## 2026-04-07 13:54 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Sections searched**: topics (224/230), concepts (221/230)

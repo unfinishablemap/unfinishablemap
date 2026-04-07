@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-04-07 12:07:00+00:00
+ai_modified: 2026-04-07 16:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Reasoning is normative — it involves rules about what one ought t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 12:07:00+00:00
+last_deep_review: 2026-04-07 16:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,6 +77,8 @@ Wilfrid Sellars captured this distinction by separating the "space of reasons" f
 The naturalist response, in its most sophisticated form, appeals to [reliabilism](/concepts/reasons-responsiveness/): a belief is justified if produced by a process that reliably generates true beliefs. On this view, normative authority reduces to statistical reliability. Neural processes that consistently track truth are "rational" in the only sense that matters.
 
 This response changes the subject. Reliabilism replaces the normative question — "what *should* I believe?" — with a descriptive one — "what process reliably produces true beliefs?" But reliability is itself a normative notion. Which processes count as "the same type"? Reliable relative to which environments? What counts as "truth"? These questions cannot be answered without normative judgement. Reliabilism does not eliminate normativity; it presupposes it.
+
+[Functionalism](/concepts/functionalism/) proposes that the right causal-functional organisation constitutes rule-following: a system follows a rule when its internal states mediate between inputs and outputs in the right pattern. But functional descriptions, like physical descriptions, specify causal relations — what causes what, not what justifies what. The normative relation between premises and conclusion is a logical relation between *contents*, not a causal relation between functional states. Functionalism can map the architecture of reasoning without explaining why that architecture is *correct*.
 
 A deeper naturalist move appeals to evolution: natural selection shaped our cognitive faculties to track truth because accurate beliefs aid survival. But this teleological grounding faces Plantinga's evolutionary argument against naturalism — natural selection rewards adaptive behaviour, not true belief. A creature with systematically false beliefs that nonetheless produces survival-enhancing behaviour would be equally fit. Evolution can explain why we *behave* as if our beliefs are rational; it cannot explain why they *are* rational. The normative question — why you *ought* to follow the evidence — remains untouched by any account of how you *came* to follow it.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-04-07 09:23:00+00:00
+ai_modified: 2026-04-07 18:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ description: Every model of explanation fails for consciousness—not as a local
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 08:27:00+00:00
+last_deep_review: 2026-04-07 18:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,6 +184,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [explanatory-void](/voids/explanatory-void/) — The void at the heart of explanation: why understanding cannot ground itself
 - [self-reference-paradox](/concepts/self-reference-paradox/) — Structural obstacles when consciousness studies itself
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The phenomenal character of the "click" of comprehension
+- [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Why theoretical virtues like elegance and loveliness are phenomenal states
 
 ## References
 

@@ -34,6 +34,7 @@ related_articles:
 - '[[interactionist-dualism]]'
 - '[[argument-from-reason]]'
 - '[[consciousness-defeats-explanation]]'
+- '[[consciousness-and-the-normativity-of-reason]]'
 title: Evaluative Qualia and Phenomenal Normativity Across Traditions
 topics:
 - '[[ethics-of-consciousness]]'
@@ -129,6 +130,7 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [te
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — Rational inference requires phenomenal normativity: evaluative qualia ground the felt authority of reasons
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — The phenomenal sense of understanding—an evaluative state—is what makes explanation possible
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Logical normativity as a species of phenomenal normativity grounded in cognitive phenomenology
 
 ## References
 

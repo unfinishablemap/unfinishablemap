@@ -29,6 +29,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[concept-of-free-will]]'
+- '[[consciousness-and-the-normativity-of-reason]]'
 title: Reasons-Responsiveness
 topics:
 - '[[topics/free-will]]'
@@ -43,7 +44,7 @@ Wilfrid Sellars distinguished the "space of reasons" from the "space of causes."
 
 Reasons-responsiveness means operating in the space of reasons—being sensitive to what *follows from* what, to what *counts as* good evidence, to what conclusions are *warranted*. A thermostat is causally responsive to temperature but not reasons-responsive to it. A reasoner tracking why global warming follows from greenhouse gas emissions operates in a different space from the causal chain of neurons producing that tracking.
 
-This distinction is conceptually irreducible: we cannot describe reasoning without normative vocabulary. The [argument from reason](/topics/argument-from-reason/) presses further: if normative relationships are conceptually irreducible to causal ones, they may be ontologically irreducible as well. Physical causation operates through efficient causes that have nothing to do with whether outputs are *justified*—neurons fire because of electrochemical gradients, not because firing would be reasonable.
+This distinction is conceptually irreducible: we cannot describe reasoning without normative vocabulary. The [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) develops three features of this irreducibility — prescriptive force, universality, and content-sensitivity — that resist any physical redescription. The [argument from reason](/topics/argument-from-reason/) presses further: if normative relationships are conceptually irreducible to causal ones, they may be ontologically irreducible as well. Physical causation operates through efficient causes that have nothing to do with whether outputs are *justified*—neurons fire because of electrochemical gradients, not because firing would be reasonable.
 
 ## Reasons-Responsiveness and Free Will
 
@@ -127,6 +128,7 @@ Reasons-responsiveness connects to multiple [tenets](/tenets/):
 
 ## Further Reading
 
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the normative gap between causal and evidential "because" requires consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — The self-defeat argument showing physicalism cannot account for reasons-responsiveness
 - [self-stultification](/concepts/self-stultification/) — How the argument from reason renders physicalism self-undermining
 - [luck-objection](/concepts/luck-objection/) — Why reasons-guidance distinguishes selection from luck

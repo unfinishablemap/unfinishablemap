@@ -34,6 +34,7 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[tenets]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
+- '[[consciousness-and-the-normativity-of-reason]]'
 title: The Self-Stultification Argument
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,7 +102,7 @@ If all thoughts are determined by prior physical causes that have nothing to do 
 
 ### Physicalism and Normativity
 
-The argument from reason argues that physicalism is self-stultifying because rational inference requires tracking *normative* relationships (what follows from what, what counts as evidence), but physical causation operates via *efficient* causes that don't instantiate normativity. If physicalism is true, your belief in physicalism wasn't rationally inferred—it was merely caused by neurons that weren't tracking logical relationships as such. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) sharpens this point: grasping *why* a conclusion follows from premises—not merely registering that it does—requires irreducible phenomenal awareness that must itself be causally connected to what one goes on to believe.
+The argument from reason argues that physicalism is self-stultifying because rational inference requires tracking *normative* relationships (what follows from what, what counts as evidence), but physical causation operates via *efficient* causes that don't instantiate normativity. The [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) develops this point in detail, showing that logical norms have prescriptive force, universality, and content-sensitivity that no physical process can constitute. If physicalism is true, your belief in physicalism wasn't rationally inferred—it was merely caused by neurons that weren't tracking logical relationships as such. [Cognitive phenomenology](/concepts/cognitive-phenomenology/) sharpens this point: grasping *why* a conclusion follows from premises—not merely registering that it does—requires irreducible phenomenal awareness that must itself be causally connected to what one goes on to believe.
 
 ## Responses and Limitations
 
@@ -161,6 +162,7 @@ The argument also supports the [Occam's Razor Has Limits](/tenets/#occams-limits
 
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The unified pattern across four targets
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position most directly challenged by self-stultification
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — The normative gap that makes physicalism self-stultifying for reason
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The positive account: what kind of causal influence consciousness exercises
