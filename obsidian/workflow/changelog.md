@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 16:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-normativity-of-reason]]
+- **Word count**: 1929 → 2007 (+78)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (functionalism counterargument gap)
+- **Enhancements made**: 1 (functionalism paragraph + inline link)
+- **Output**: [[reviews/deep-review-2026-04-07c-consciousness-and-the-normativity-of-reason]]
+
 ## 2026-04-07 14:04 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-normativity-of-reason]]
