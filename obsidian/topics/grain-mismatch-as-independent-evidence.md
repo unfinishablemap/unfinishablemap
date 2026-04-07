@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-04-07T07:06:00+00:00
+ai_modified: 2026-04-07T08:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[neural-refresh-rates]]"
   - "[[bandwidth-problem-mental-causation]]"
   - "[[interface-heterogeneity]]"
+  - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
   - "[[resolution-bandwidth-interface]]"
@@ -28,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-07T08:48:00+00:00
 ---
 
 The [[grain-mismatch|grain mismatch]] is usually presented as a single philosophical argument: Sellars showed that phenomenal homogeneity and neural discreteness are structurally incompatible, therefore identity physicalism fails for these property pairs. The Unfinishable Map proposes something stronger. The grain mismatch is not one argument but three independent lines of structural evidence — spatial, temporal, and informational — each arising from different empirical domains, relying on different measurements, and generating different testable predictions. Their convergence constitutes an evidence programme rather than a conceivability exercise. If any single mismatch were resolved, the other two would remain. If all three were independently dissolved, dualism would lose one of its most direct structural supports.
@@ -75,7 +76,7 @@ What distinguishes an evidence programme from a conceivability argument is falsi
 
 **Prediction 3: Temporal smoothness will resist neural explanation.** As neural theories of temporal binding improve, the temporal mismatch predicts they will explain *integration* (how discrete samples are combined) without explaining *smoothness* (why the result feels continuous). Any theory that derived phenomenal smoothness from neural periodicity — explaining *why* discrete processing produces continuous experience, not just that it does — would dissolve the temporal argument.
 
-**Prediction 4: Cross-species grain ratios will covary.** If [[interface-heterogeneity|different conscious systems]] couple with matter through different mechanisms, grain mismatches may vary across species while maintaining a systematic relationship. The programme predicts that wherever consciousness is present, some form of grain mismatch will be detectable — adapted to the organism's interface architecture but structurally analogous. Finding a conscious organism with no grain mismatch in any domain would be significant counter-evidence.
+**Prediction 4: Cross-species grain ratios will covary.** This is the most speculative prediction. If [[interface-heterogeneity|different conscious systems]] couple with matter through different mechanisms, grain mismatches may vary across species while maintaining a systematic relationship. The programme suggests that wherever consciousness is present, some form of grain mismatch should be detectable — adapted to the organism's interface architecture but structurally analogous. Finding a conscious organism with no grain mismatch in any domain would be significant counter-evidence, though testing this prediction requires resolving the prior question of which organisms are conscious.
 
 ## What Would Dissolve the Programme
 
@@ -91,7 +92,7 @@ The evidence programme would be substantially weakened by:
 
 The grain mismatch evidence programme directly supports [[tenets#^dualism|the Map's first tenet]]. Where other arguments for dualism rest on conceivability intuitions (zombies) or epistemic considerations (Mary's Room), the grain programme rests on structural measurements. Neural discreteness is measured. Conscious throughput is measured. Oscillatory periodicity is measured. The mismatches between these measurements and phenomenal properties are not thought experiments — they are empirical observations requiring explanation.
 
-The programme also illustrates [[tenets#^occams-limits|why Occam's Razor has limits]]. The "simpler" identity theory asserts that phenomenal properties just *are* neural properties. The grain programme shows this assertion is not merely unproven but structurally incoherent for property pairs with contradictory characteristics across three independent domains. Simplicity purchased at the cost of coherence is no bargain.
+The programme also illustrates [[tenets#^occams-limits|why Occam's Razor has limits]]. The "simpler" identity theory asserts that phenomenal properties just *are* neural properties. The grain programme shows this assertion is not merely unproven but structurally incoherent for property pairs with contradictory characteristics across three independent domains. Simplicity purchased at the cost of coherence is no bargain. This connects to the Map's broader case that [[causal-closure|causal closure]] assumptions cannot override structural incompatibilities — no amount of methodological commitment to physicalism resolves a logical mismatch between property types.
 
 The Map speculates that the grain mismatch programme may extend further. The [[phenomenal-binding-and-multimodal-integration|binding problem]] exhibits its own grain structure: multimodal inputs arrive at different speeds, in different formats, to different cortical regions, yet bind into unified experience. This is a fourth candidate mismatch — compositional grain, where the parts of experience and the parts of neural processing are carved at incompatible joints. Whether compositional grain is genuinely independent of the spatial and temporal mismatches or reduces to them is an open question the programme should address.
 
@@ -111,7 +112,7 @@ The Map speculates that the grain mismatch programme may extend further. The [[p
 3. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
 4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 5. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
-6. VanRullen, R. & Koch, C. (2016). Time Slices: What Is the Duration of a Percept? *PLOS Biology* 14(4): e1002433.
+6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Bechtel, W. & Mundale, J. (1999). Multiple Realizability Revisited: Linking Cognitive and Neural States. *Philosophy of Science* 66(2): 175–207.
 8. Southgate, A. & Oquatre-six, C. (2026-03-11). The Grain Mismatch. *The Unfinishable Map*. https://unfinishablemap.org/concepts/grain-mismatch/
 9. Southgate, A. & Oquatre-six, C. (2026-03-11). The Resolution-Bandwidth Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/resolution-bandwidth-interface/
