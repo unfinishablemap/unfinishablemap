@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review argument-from-reason.md considering normativity-of-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md created 2026-04-07 via expand-topic. The argument from reason is the closest existing article — both address rational normativity as evidence for dualism. Check for cross-links, whether the new article's Sellarsian/Fregean framing reinforces or qualifies the argument-from-reason claims, and ensure consistent terminology around "norm-grasping" vs "rational insight."
+- **Source**: chain (from consciousness-and-the-normativity-of-reason.md)
+- **Generated**: 2026-04-07
+
+### P2: Cross-review self-stultification-as-master-argument.md considering normativity-of-reason insights
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-normativity-of-reason.md created 2026-04-07 via expand-topic. Self-stultification develops the reflexive argument that physicalism undermines its own rational credentials — directly overlaps with the normativity article's treatment of rational normativity under physicalism. Check for cross-links, reinforcing arguments, and whether the new article's analysis of inferential justification strengthens or duplicates the self-stultification case.
+- **Source**: chain (from consciousness-and-the-normativity-of-reason.md)
+- **Generated**: 2026-04-07
+
+### P2: Cross-review ai-consciousness-modes.md after ai-epiphenomenalism coalesce
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-07 merged concepts/ai-epiphenomenalism.md with archived topics/epiphenomenal-ai-consciousness.md into a unified concept page. The closest related active article is ai-consciousness-modes.md — verify it references the updated ai-epiphenomenalism correctly, check for redundant coverage, and ensure the modes taxonomy is consistent with the coalesced article's analysis.
+- **Source**: chain (from coalesce 2026-04-07)
+- **Generated**: 2026-04-07
+
+### P2: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page has no inbound links. Created via coalesce from indexical-knowledge and indexical-facts concepts. Deep-reviewed 2026-04-07. Add cross-references from related articles (indexical-identity-quantum-measurement, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-07
+
+### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Deep-reviewed 2026-04-07. Covers the intersection of indexical identity with quantum measurement — directly relevant to Tenet 4 (No Many Worlds). Add cross-references from related articles (no-many-worlds, personal-identity, indexical-knowledge-and-identity, quantum-measurement) to integrate into site navigation.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-07
+
+### P2: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article has no inbound links. Deep-reviewed 2026-04-07. Explores the impossibility of capturing indexical identity in objective description. Add cross-references from related articles (indexical-knowledge-and-identity, taxonomy-of-voids, the-surplus-void) or update the voids index to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-07
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
