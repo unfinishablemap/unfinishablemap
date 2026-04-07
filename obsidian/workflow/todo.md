@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-07T06:09:00+00:00
+ai_modified: 2026-04-07T10:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on consciousness and the normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Epistemic normativity — the fact that beliefs can be right or wrong and that we ought to follow logical rules — poses a distinctive challenge for physicalism distinct from existing Map coverage. Differs from argument-from-reason (which focuses on self-defeat) and evaluative-qualia (which focuses on moral normativity). Synthesize the Lewis-Reppert-Hasker-Plantinga tradition, Nagel's defense of rational objectivity, and the "five marks of the mental." Target section: topics/ (223/230).
+- **Source**: chain (from research-topic 2026-04-07)
+- **Generated**: 2026-04-07
+
+### P2: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats informational grain mismatch (discrete neural coding vs rich phenomenal content) as one of three independent evidence lines. The bandwidth-of-consciousness article covers the ~10 bits/s bandwidth constraint and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether bandwidth constraints are accurately represented in the new programme article.
+- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
+- **Generated**: 2026-04-07
+
+### P2: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md extends grain mismatch into three independent evidence lines (spatial, temporal, informational). The resolution-bandwidth-interface article covers related territory on resolution limits and bandwidth constraints at the consciousness-physics interface. Check for consistency, cross-links, and whether the resolution article's arguments are complementary or overlapping.
+- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
+- **Generated**: 2026-04-07
+
+### P2: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article on indexical knowledge and personal identity (created 2026-01-27). Add cross-references from related articles such as indexical-identity, personal-identity, haecceity, knowledge-argument, and the indexical identity quantum measurement article. Central to Tenet 4 (No Many Worlds) — indexical identity matters.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-07
+
+### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on indexical identity and quantum measurement (created 2026-01-23). Add cross-references from related articles such as indexical-identity, quantum-measurement, born-rule-and-the-consciousness-interface, and probability-problem-in-many-worlds. Directly supports Tenet 4 (No Many Worlds).
+- **Source**: orphan_integration
+- **Generated**: 2026-04-07
+
+### P2: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the indexical void — the impossibility of fully capturing what it is to be *this* subject (created 2026-02-24). Add cross-references from related articles such as indexical-identity, haecceity, other-minds-void, and taxonomy-of-voids. Bridges the identity programme and the voids programme.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-07
 
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
