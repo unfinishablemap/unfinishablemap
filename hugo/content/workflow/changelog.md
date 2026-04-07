@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 22:05 UTC - deep-review
+- **Status**: Success
+- **File**: [prebiotic-collapse](/concepts/prebiotic-collapse/)
+- **Word count**: 3111 → 3080 (-31)
+- **Critical issues addressed**: 1 (duplicate Wheeler link from coalesce artifact)
+- **Medium issues addressed**: 1 (minor length trimming)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-07-prebiotic-collapse](/reviews/deep-review-2026-04-07-prebiotic-collapse/)
+
+## 2026-04-07 20:11 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3309 → 3309 (no change — content stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-07b-argument-from-reason](/reviews/deep-review-2026-04-07b-argument-from-reason/)
+
 ## 2026-04-07 18:05 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)

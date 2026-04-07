@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-22 03:56:00+00:00
+ai_modified: 2026-04-07 22:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: How quantum wave functions collapsed before conscious observers exi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 13:23:00+00:00
+last_deep_review: 2026-04-07 22:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ John Archibald Wheeler proposed the most radical solution: the universe *did* re
 
 Delayed-choice experiments confirm that measurement choices made *after* a photon's path determine its earlier behavior. Wheeler extended this cosmologically: the universe exists as a quantum superposition of possible histories, with conscious observation selecting which history becomes actual—not moment by moment, but across the entire temporal span.
 
-This resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." See [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment and [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for how Dembski's informational realism avoids the circularity of Wheeler's self-excited circuit. The participatory universe remains philosophically coherent but highly speculative.
+This resonates with the Map's [retrocausality](/concepts/retrocausality/) framework but extends further. Wheeler later softened his position, acknowledging "ordinary matter and radiation play the dominant roles." See [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) for full treatment, including how Dembski's informational realism avoids the circularity of Wheeler's self-excited circuit. The participatory universe remains philosophically coherent but highly speculative.
 
 ### 2. Panpsychism and Proto-Experience
 
@@ -165,7 +165,7 @@ This preserves:
 
 The Map rejects illusionism for reasons detailed on its [dedicated page](/concepts/illusionism/), but the response here is specific: **the illusion problem compounds the prebiotic challenge rather than dissolving it**.
 
-If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But this explanation itself requires collapse during the prebiotic era—the neural systems that generate the illusion evolved through quantum events (mutations, molecular interactions) that required definite outcomes. The illusionist cannot escape into "it's all illusion" because the very existence of the illusion-generating system presupposes the cosmological timeline the prebiotic problem addresses.
+If consciousness is an illusion, something must generate that illusion. On illusionist accounts, neural processes produce systematic misrepresentations that seem phenomenal. But this explanation itself requires collapse during the prebiotic era—the neural systems that generate the illusion evolved through quantum events (mutations, molecular interactions) that required definite outcomes. The illusionist cannot escape into "it's all illusion" because the illusion-generating system itself presupposes the cosmological timeline the prebiotic problem addresses.
 
 Moreover, Raymond Tallis's regress objection applies: "Misrepresentation presupposes presentation." If the illusion of consciousness seems real to something, that something is doing the experiencing. Illusionists contest this regress—arguing that the "seeming" can itself be functionally explained without invoking genuine phenomenal experience—but the debate remains unresolved. At minimum, the problem relocates rather than dissolves.
 
@@ -179,9 +179,9 @@ This framework reinterprets the prebiotic collapse problem:
 
 **The question changes**: From "what collapsed wavefunctions before consciousness?" to "how do actual occasions achieve definiteness?" Whitehead's occasions are inherently self-determining—they complete themselves through internal process, not external observation.
 
-**Experience pervades reality**: Whitehead's panexperientialism (distinct from full panpsychism) holds that experiential aspects are fundamental. The prebiotic universe wasn't experientially empty; it was constituted by micro-occasions with minimal experiential character. This is not the claim that rocks are conscious, but that the fundamental constituents of rocks involve proto-experiential prehension.
+**Experience pervades reality**: Whitehead's panexperientialism (distinct from full panpsychism) holds that experiential aspects are fundamental. The prebiotic universe was constituted by micro-occasions with minimal experiential character—not the claim that rocks are conscious, but that their fundamental constituents involve proto-experiential prehension.
 
-**Consciousness as high-grade experience**: What we call consciousness is highly integrated, complex experience—not a different kind of thing from prebiotic occasions but a sophisticated organisation of the same fundamental process. The evolution of consciousness was the evolution of experiential complexity, not the emergence of experience from non-experience.
+**Consciousness as high-grade experience**: What we call consciousness is highly integrated, complex experience—a sophisticated organisation of the same fundamental process found in prebiotic occasions. The evolution of consciousness was the evolution of experiential complexity, not the emergence of experience from non-experience.
 
 This doesn't commit the Map to full Whiteheadian metaphysics. But it shows an alternative to the sharp consciousness/no-consciousness divide that generates the prebiotic problem. If experience is a matter of degree rather than kind, the bootstrapping worry softens—there was always *something* experiential, however minimal, in the quantum selection process.
 
@@ -203,11 +203,11 @@ The objective-reduction-plus-modulation framework would be undermined if:
 
 Objective collapse theories face empirical pressure but remain viable:
 
-**Diósi-Penrose model**: Donadi et al. (2020) used X-ray emission from germanium detectors to rule out the simplest gravitational collapse model, though modified versions remain consistent with observations.
+**Diósi-Penrose model**: Donadi et al. (2020) ruled out the simplest gravitational collapse model using X-ray emission from germanium detectors, though modified versions remain viable.
 
 **CSL constraints**: Continuous Spontaneous Localisation parameters have been tightened by gravitational wave detectors, optomechanical experiments, and X-ray measurements. The theory survives in reduced parameter space.
 
-**GRW theory**: The original Ghirardi-Rimini-Weber parameters "survived by a whisker"—spontaneous localisation rates and widths lie just within experimental bounds. Larger quantum superposition experiments may test these boundaries.
+**GRW theory**: The original Ghirardi-Rimini-Weber parameters "survived by a whisker"—spontaneous localisation rates and widths lie just within experimental bounds.
 
 **Quantum biology support**: The August 2024 epothilone B study in rats—showing that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness—provides indirect support for consciousness-quantum interaction at neural sites. If microtubule integrity affects consciousness, the interface exists.
 
