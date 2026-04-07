@@ -4,7 +4,7 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-23T07:51:00+00:00
+ai_modified: 2026-04-07T11:52:00+00:00
 last_deep_review: 2026-03-23T07:51:00+00:00
 draft: false
 topics:
@@ -99,7 +99,7 @@ The disagreement between objective and subjective interpretations reflects a dee
 
 **Subjective reading (QBism)**: Probabilities are rational constraints on belief. The Born rule tells agents how to set credences coherently, like Dutch-book arguments in standard Bayesianism. Probabilities describe minds, not matter—and inherit the structural dependence critiqued throughout this article.
 
-**Indexical reading**: Probabilities describe the relationship between *this* consciousness and possible outcomes—not "probability that spin-up occurs" but "probability that *I* experience spin-up." The first-person perspective is constitutive.
+**Indexical reading**: Probabilities describe the relationship between *this* consciousness and possible outcomes—not "probability that spin-up occurs" but "probability that *I* experience spin-up." The first-person perspective is constitutive. This reading draws on [[indexical-knowledge-and-identity|indexical knowledge]]—knowledge expressible only through context-dependent terms like "I" and "this"—which Perry and Lewis showed cannot be reduced to impersonal description.
 
 The indexical reading makes explicit what the structural-dependence critique reveals: QBism's probabilities are already about what agents will experience—they just don't acknowledge that "experience" requires explanation. The indexical reading accepts the dependence on consciousness openly and builds it into the foundations, connecting the [[measurement-problem]] directly to the hard problem of consciousness.
 

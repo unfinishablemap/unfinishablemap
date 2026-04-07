@@ -4,7 +4,7 @@ description: "MWI faces a deep crisis: if all outcomes occur, probability loses 
 created: 2026-03-04
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-04-07T05:50:00+00:00
+ai_modified: 2026-04-07T11:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -109,7 +109,7 @@ Saunders (2021) revisited branch-counting in *Proceedings of the Royal Society A
 
 ### The Sleeping-Pill Strategy
 
-Vaidman (1998) proposed a different approach: between the moment of measurement and the moment of observation, an agent genuinely doesn't know which branch they occupy. This window of ignorance provides a foothold for probability as rational credence about self-location.
+Vaidman (1998) proposed a different approach: between the moment of measurement and the moment of observation, an agent genuinely doesn't know which branch they occupy. This window of ignorance provides a foothold for probability as rational credence about self-location—the kind of [[indexical-knowledge-and-identity|self-locating knowledge]] that Lewis's Two Gods scenario shows cannot be derived from impersonal facts alone.
 
 Sebens and Carroll (2018) refined this into a formal derivation. Their epistemic separability principle (ESP-QM) holds that "an agent's self-locating credences should depend only on the quantum state of the relevant part of the multiverse." From ESP-QM, they derive that the Born rule is the uniquely rational way to apportion credence.
 

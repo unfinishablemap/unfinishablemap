@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-23T04:06:00+00:00
+ai_modified: 2026-04-07T11:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,7 +128,7 @@ Consider a spin measurement with Born probability 0.5 for spin-up. What does thi
 
 The indexical reading makes consciousness constitutive of what probability means. Not "probability that spin-up occurs somewhere in the universe" but "probability that this experiencing subject finds spin-up." The first-person perspective is built into the probability claim.
 
-This connects to [[haecceity]]—the quality of being *this* particular consciousness rather than another qualitatively identical one. Born probabilities describe probabilities for *this* subject specifically, not for "any observer with my physical properties." The irreducibility of haecceity grounds the irreducibility of indexical probability claims.
+This connects to [[haecceity]]—the quality of being *this* particular consciousness rather than another qualitatively identical one—and to [[indexical-knowledge-and-identity|indexical knowledge]] more broadly, where self-locating knowledge ("I am *this* subject") resists derivation from any impersonal description. Born probabilities describe probabilities for *this* subject specifically, not for "any observer with my physical properties." The irreducibility of haecceity grounds the irreducibility of indexical probability claims.
 
 ## Consciousness-Collapse Without Solipsism
 

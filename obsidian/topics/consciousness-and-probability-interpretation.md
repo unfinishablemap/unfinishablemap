@@ -4,7 +4,7 @@ description: "Probability requires a subject who faces uncertainty, yet consciou
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-29T06:31:00+00:00
+ai_modified: 2026-04-07T11:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,7 +119,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The fact that we can report our experiences—including our failures at probabilistic reasoning—requires causal flow from consciousness to physical behaviour. This reporting involves consciousness influencing neural states, providing evidence of the very interface the article discusses.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: If all outcomes occur (as [[many-worlds|Many-Worlds]] claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. The [[probability-problem-in-many-worlds|probability problem in MWI]] shows that every major recovery strategy—decision-theoretic derivations, self-locating uncertainty, and envariance—faces either circularity or question-begging objections. The paradox explored here takes its sharpest form when there is a genuine fact about which outcome *this* consciousness experiences—one actual world with definite outcomes. MWI's self-locating uncertainty generates analogous puzzles about consciousness and probability, but on the Map's view, those puzzles are artefacts of an interpretation that dissolves the very question it should answer.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: If all outcomes occur (as [[many-worlds|Many-Worlds]] claims), probability becomes a measure over branches, and the question of what consciousness does at measurement dissolves. [[indexical-knowledge-and-identity|Indexical knowledge]]—the irreducible self-locating awareness that *I* experience *this* outcome—loses its grounding when all outcomes are equally real. The [[probability-problem-in-many-worlds|probability problem in MWI]] shows that every major recovery strategy—decision-theoretic derivations, self-locating uncertainty, and envariance—faces either circularity or question-begging objections. The paradox explored here takes its sharpest form when there is a genuine fact about which outcome *this* consciousness experiences—one actual world with definite outcomes. MWI's self-locating uncertainty generates analogous puzzles about consciousness and probability, but on the Map's view, those puzzles are artefacts of an interpretation that dissolves the very question it should answer.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Our systematic preference for pattern over probability is Occam's razor embedded in cognitive architecture. We favour simple, coherent, meaningful explanations over statistical noise. But reality at the quantum level is fundamentally probabilistic. Our built-in Occam's razor misleads us about the very interface where consciousness meets physics.
 

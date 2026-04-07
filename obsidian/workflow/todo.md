@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate indexical-knowledge-and-identity.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Concepts article on indexical knowledge and personal identity (created 2026-01-27). Add cross-references from related articles such as indexical-identity, personal-identity, haecceity, knowledge-argument, and the indexical identity quantum measurement article. Central to Tenet 4 (No Many Worlds) — indexical identity matters.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-07
-
 ### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article on indexical identity and quantum measurement (created 2026-01-23). Add cross-references from related articles such as indexical-identity, quantum-measurement, born-rule-and-the-consciousness-interface, and probability-problem-in-many-worlds. Directly supports Tenet 4 (No Many Worlds).
@@ -2068,6 +2062,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concepts article on indexical knowledge and personal identity (created 2026-01-27). Add cross-references from related articles such as indexical-identity, personal-identity, haecceity, knowledge-argument, and the indexical identity quantum measurement article. Central to Tenet 4 (No Many Worlds) — indexical identity matters.
+- **Output**: obsidian/concepts/indexical-knowledge-and-identity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-07: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
 - **Type**: cross-review

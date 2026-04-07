@@ -5,6 +5,16 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 11:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Context**: Orphan integration focus — added inbound cross-links from 5 articles
+- **Word count**: 2357 → 2357 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 (inbound cross-links from cognitive-integration-and-the-self, probability-problem-in-many-worlds, quantum-probability-consciousness, consciousness-and-probability-interpretation, quantum-measurement-and-subjective-probability)
+- **Output**: [[reviews/deep-review-2026-04-07-indexical-knowledge-and-identity]]
+
 ## 2026-04-07 11:37 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/resolution-bandwidth-interface]]

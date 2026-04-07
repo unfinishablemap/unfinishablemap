@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-04-07T11:52:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -127,7 +127,7 @@ This prospective dimension matters for [[topics/free-will|free will]]. If consci
 
 ## Integration and Indexical Identity
 
-The [[vertiginous-question|vertiginous question]]—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [[haecceity|Haecceity]], or "thisness," is the property that makes this consciousness mine rather than someone else's.
+The [[vertiginous-question|vertiginous question]]—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [[haecceity|Haecceity]], or "thisness," is the property that makes this consciousness mine rather than someone else's. [[indexical-knowledge-and-identity|Indexical knowledge]]—knowledge expressible only as "I," "here," "now"—provides the epistemic counterpart: the self is not merely unified but known from the inside in a way that resists third-person translation.
 
 Cognitive integration constitutes indexical identity. The boundaries of "me" are defined by what integrates into a single experiential stream. Experiences that bind together phenomenally belong to the same self; experiences that do not remain separate selves.
 
