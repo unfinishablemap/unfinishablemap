@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article on indexical identity and quantum measurement (created 2026-01-23). Add cross-references from related articles such as indexical-identity, quantum-measurement, born-rule-and-the-consciousness-interface, and probability-problem-in-many-worlds. Directly supports Tenet 4 (No Many Worlds).
-- **Source**: orphan_integration
-- **Generated**: 2026-04-07
-
 ### P2: Integrate indexical-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Voids article on the indexical void — the impossibility of fully capturing what it is to be *this* subject (created 2026-02-24). Add cross-references from related articles such as indexical-identity, haecceity, other-minds-void, and taxonomy-of-voids. Bridges the identity programme and the voids programme.
@@ -2062,6 +2056,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article on indexical identity and quantum measurement (created 2026-01-23). Add cross-references from related articles such as indexical-identity, quantum-measurement, born-rule-and-the-consciousness-interface, and probability-problem-in-many-worlds. Directly supports Tenet 4 (No Many Worlds).
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-07: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan

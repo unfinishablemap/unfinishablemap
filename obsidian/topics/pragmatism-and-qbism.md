@@ -4,7 +4,7 @@ description: "QBism inherits William James's pragmatism but refuses to explain i
 created: 2026-04-04
 modified: 2026-04-04
 human_modified:
-ai_modified: 2026-04-06T08:26:00+00:00
+ai_modified: 2026-04-07T12:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[wheelers-participatory-universe-and-it-from-bit]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[consciousness-and-probability-interpretation]]"
+  - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -54,7 +55,7 @@ Fuchs coined the term "participatory realism" in 2017 to link QBism with [[wheel
 
 Participatory realism asserts that reality exceeds any third-person description. There is always more to the world than what can be captured in equations or propositions, because the act of engaging with the world — measuring, choosing, experiencing — adds something that no prior description could contain. This parallels the Map's argument that [[haecceity|first-person facts]] are irreducible to third-person descriptions.
 
-But participatory realism generates a question it cannot answer on its own terms: what makes something a participant? QBism's agents are not rocks or thermostats. They hold beliefs, form expectations, are surprised by outcomes, and update their credences in response to experience. These are capacities that presuppose [[phenomenal-consciousness|phenomenal consciousness]] — there must be something it is like to be an agent for the framework to operate. Fuchs acknowledges this openly, treating agents as primitive and irreducible rather than attempting to define them in physical terms.
+But participatory realism generates a question it cannot answer on its own terms: what makes something a participant? QBism's agents are not rocks or thermostats. They hold beliefs, form expectations, are surprised by outcomes, and update their credences in response to experience. These are capacities that presuppose [[phenomenal-consciousness|phenomenal consciousness]] — there must be something it is like to be an agent for the framework to operate. The [[indexical-identity-quantum-measurement|indexical gap in quantum measurement]] sharpens this: QBism presupposes that agents have determinate experiences to update beliefs *about*, but cannot explain why *this* agent has *this* experience. Fuchs acknowledges this openly, treating agents as primitive and irreducible rather than attempting to define them in physical terms.
 
 The Map's response: QBism is right that agents are irreducible, and right that physics cannot define them. But "primitive and irreducible" is not an explanation — it is a placeholder for one. The Map's dualism offers what QBism does not: a reason why agents resist physical definition. If consciousness is not reducible to physical processes (Tenet 1), the primitive status of QBism's agents is expected rather than puzzling — they are primitive within physics because they possess something beyond the physical.
 
@@ -120,6 +121,7 @@ QBism's pragmatist foundations create a framework that the Map completes.
 - [[william-james-consciousness]] — James's approach to consciousness in full detail
 - [[consciousness-and-probability-interpretation]] — How probability interpretations reveal commitments about consciousness
 - [[haecceity]] — The first-person "thisness" QBism implicitly invokes
+- [[indexical-identity-quantum-measurement]] — The indexical gap across quantum interpretations, including QBism's failure to explain why *this* agent has *this* experience
 
 ## References
 
