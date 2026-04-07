@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on grain mismatch as independent evidence programme
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Transform the grain mismatch from a single conceivability argument into an empirical evidence programme with testable predictions. Specify what observations would weaken or dissolve the argument, distinguishing it from pure conceivability reasoning. Directly supports Tenet 1 (Dualism) by grounding the irreducibility claim in empirical structure. Builds on grain-mismatch, interface-heterogeneity. Target section: topics/ (224/230). See optimistic-2026-04-07.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-07
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2044,6 +2037,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Write article on grain mismatch as independent evidence programme
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Transform the grain mismatch from a single conceivability argument into an empirical evidence programme with testable predictions. Specify what observations would weaken or dissolve the argument, distinguishing it from pure conceivability reasoning. Directly supports Tenet 1 (Dualism) by grounding the irreducibility claim in empirical structure. Builds on grain-mismatch, interface-heterogeneity. Target section: topics/ (224/230). See optimistic-2026-04-07.md
+- **Output**: grain mismatch as independent evidence programme
 
 ### ✓ 2026-04-07: Address Putnam authority framing in functionalism.md and simulation diagnostic overclaim in simulation.md
 - **Type**: refine-draft

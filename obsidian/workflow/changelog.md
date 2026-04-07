@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 07:06 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Grain mismatch as independent evidence programme
+- **Output**: [[topics/grain-mismatch-as-independent-evidence]]
+- **Word count**: 1812
+- **Based on research**: yes (voids-resolution-void-2026-02-22, optimistic-2026-04-07)
+
 ## 2026-04-07 06:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/intersubjectivity]]
