@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenal-concepts-strategy.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-15, never deep-reviewed (82 days). The phenomenal concepts strategy is the most sophisticated materialist response to the knowledge argument and conceivability arguments — errors or weak spots here directly undermine the Map's anti-materialist case. Verify accuracy of attributed positions (Loar, Papineau, Balog), strength of counter-arguments, cross-references to knowledge-argument, zombie-master-argument, and phenomenal-concepts-as-materialist-response, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-07
-
 ### P2: Deep review pairing-problem.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2051,6 +2044,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review phenomenal-concepts-strategy.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-15, never deep-reviewed (82 days). The phenomenal concepts strategy is the most sophisticated materialist response to the knowledge argument and conceivability arguments — errors or weak spots here directly undermine the Map's anti-materialist case. Verify accuracy of attributed positions (Loar, Papineau, Balog), strength of counter-arguments, cross-references to knowledge-argument, zombie-master-argument, and phenomenal-concepts-as-materialist-response, and tenet alignment.
+- **Output**: obsidian/concepts/phenomenal-concepts-strategy.md
 
 ### ✓ 2026-04-07: Address self-referential link and selection bias in contemplative-practice-as-philosophical-evidence
 - **Type**: refine-draft
