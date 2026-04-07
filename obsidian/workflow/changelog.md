@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 06:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Changes**: Renamed "The Architect's Defection" → "Semantic Externalism Against Functionalism"; shifted from argument-from-authority to emphasis on Twin Earth and semantic externalism arguments; removed stale refinement log comment block
+- **Published**: yes
+
 ## 2026-04-07 06:21 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/ai-consciousness]]

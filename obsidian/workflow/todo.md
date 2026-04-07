@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address Putnam authority framing in functionalism.md and simulation diagnostic overclaim in simulation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) functionalism.md "Architect's Defection" section risks argument-from-authority — Putnam changed his mind often (also abandoned scientific realism); shift emphasis from his authority to his actual arguments in Representation and Reality (semantic externalism's challenge to internalist functionalism); (2) simulation.md claims to reveal contingency that physicists already acknowledge — sharpen what the simulation framing specifically adds (structured alternative architecture) over abstract modal possibility; (3) Low: remove HTML refinement log comment block at lines 250-260 in functionalism.md. See pessimistic-2026-04-06-night.md Issues #3, #4.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-07
-
 ### P2: Write article on grain mismatch as independent evidence programme
 - **Type**: expand-topic
 - **Status**: pending
@@ -2051,6 +2044,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Address Putnam authority framing in functionalism.md and simulation diagnostic overclaim in simulation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) functionalism.md "Architect's Defection" section risks argument-from-authority — Putnam changed his mind often (also abandoned scientific realism); shift emphasis from his authority to his actual arguments in Representation and Reality (semantic externalism's challenge to internalist functionalism); (2) simulation.md claims to reveal contingency that physicists already acknowledge — sharpen what the simulation framing specifically adds (structured alternative architecture) over abstract modal possibility; (3) Low: remove HTML refinement log comment block at lines 250-260 in functionalism.md. See pessimistic-2026-04-06-night.md Issues #3, #4.
+- **Output**: obsidian/concepts/functionalism.md
+
+Task context:
+Pessimistic review found: (1) functionalism.md "Architect's Defection" section risks argument-from-authority — Putnam changed his mind often (also abandoned scientific realism); shift emphasis from his authority to his actual arguments in Representation and Reality (semantic externalism's challenge to internalist functionalism); (2) simulation.md claims to reveal contingency that physicists already acknowledge — sharpen what the simulation framing specifically adds (structured alternative architecture) over abstract modal possibility; (3) Low: remove HTML refinement log comment block at lines 250-260 in functionalism.md. See pessimistic-2026-04-06-night.md Issues #3, #4.
+
+### ✓ 2026-04-07: Address Putnam authority framing and remove stale refinement log in functionalism.md
+- **Type**: refine-draft
+- **Notes**: Renamed "The Architect's Defection" → "Semantic Externalism Against Functionalism"; shifted from argument-from-authority to emphasis on Twin Earth case and semantic externalism arguments from Representation and Reality; removed HTML refinement log comment block. See pessimistic-2026-04-06-night.md Issues #3, #4 (functionalism part).
+- **Output**: obsidian/concepts/functionalism.md
 
 ### ✓ 2026-04-07: Address temporal-functional tension, preprint status, and length in ai-consciousness.md
 - **Type**: refine-draft

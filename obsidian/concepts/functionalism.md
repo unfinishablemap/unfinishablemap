@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-04-06T20:21:00+00:00
+ai_modified: 2026-04-07T06:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,11 +64,13 @@ Mental states are individuated by their causal roles mediating sensory inputs, o
 
 The key functionalist insight: the same mental state can be realized by different physical substrates. Pain in humans involves C-fiber activation; pain in octopuses involves different neurons; pain in hypothetical aliens might involve something not remotely like neurons. What makes all these "pain" is the functional role, not the physical implementation. We attribute pain to dogs without demanding their brains be identical to ours—what matters is how internal states relate to inputs and outputs.
 
-## The Architect's Defection
+## Semantic Externalism Against Functionalism
 
-Hilary Putnam invented functionalism. In "Psychological Predicates" (1967), he proposed that mental states are defined by their computational roles — the multiple realizability thesis that became functionalism's cornerstone. Putnam later abandoned his own creation. In *Representation and Reality* (1988), he argued that functionalism remained committed to an internalist conception of mental states that his own work on semantic externalism had discredited. If "meanings ain't in the head" — if mental content is partly constituted by environmental and social context — then no purely internal functional specification can capture what a mental state is.
+In *Representation and Reality* (1988), Hilary Putnam argued that functionalism—which he himself had introduced in "Psychological Predicates" (1967)—was fatally committed to an internalist conception of mental states that semantic externalism had discredited. If "meanings ain't in the head"—if mental content is partly constituted by environmental and social context—then no purely internal functional specification can capture what a mental state is.
 
-Putnam's trajectory did not stop at rejecting functionalism. Under William James's influence, he developed "pragmatic realism," moving progressively toward a framework granting consciousness an ineliminable role in constituting the meaningful world that science describes (see [[pragmatisms-path-to-dualism|pragmatism's path to dualism]]). His trajectory exemplifies [[concession-convergence]]—a physicalist pioneer forced by internal pressures to abandon the framework's core commitments. When the philosopher who provided functionalism's most powerful argument (multiple realizability) concludes that the framework cannot account for meaning or reference, that is evidence the profession has not adequately absorbed.
+The argument's force is independent of its author. Functionalism individuates mental states by their causal roles within a cognitive system. But semantic externalism shows that two agents with identical internal functional organization can have different mental contents if their environments differ. In Putnam's Twin Earth case, the beliefs "water is wet" and "twater is wet" play identical internal functional roles yet are different beliefs—they refer to different substances. Functional role underdetermines mental content, and this follows from the logic of externalism regardless of who endorses it.
+
+Putnam's own trajectory continued past rejecting functionalism. Under William James's influence, he developed "pragmatic realism," moving toward a framework granting consciousness an ineliminable role in constituting the meaningful world that science describes (see [[pragmatisms-path-to-dualism|pragmatism's path to dualism]]). The Map reads this as one instance of [[concession-convergence]]—physicalist programmes independently retreating from positions that prove unable to accommodate meaning, reference, or phenomenal character.
 
 ## Modern Functionalist Frameworks
 
@@ -247,14 +249,14 @@ None of these would logically refute dualism (the conceivability arguments would
 1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
 1. Tero, A., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." *Science*, 327(5964), 439-442.
 
-<!-- AI REFINEMENT LOG - 2026-03-29
+<!-- AI REFINEMENT LOG - 2026-04-07
 Changes made:
-1. Added "The Architect's Defection" section: Putnam's trajectory from inventing functionalism (1967) through abandoning it (1988) to pragmatic realism — the most dramatic internal challenge to functionalism from its own creator
-2. Added Putnam (1988) Representation and Reality to references
-3. Added cross-reference to pragmatisms-path-to-dualism in related_articles and Further Reading
-4. Based on research in pragmatist-philosophy-of-mind-2026-03-28.md identifying Putnam's self-refutation as a high-priority enhancement
+1. Renamed "The Architect's Defection" to "Semantic Externalism Against Functionalism" — shifted from argument-from-authority framing to emphasis on the actual arguments in Representation and Reality
+2. Added Twin Earth case to concretely illustrate how semantic externalism undermines internalist functionalism (functional role underdetermines mental content)
+3. Replaced authority-based conclusion ("when the philosopher who provided...") with argument-independent framing ("the argument's force is independent of its author")
+4. Removed stale refinement log from 2026-03-29
 
-Previous refinement (2026-03-24): functionalist higher-level properties argument; falsifiability conditions.
+Based on pessimistic-2026-04-06-night.md Issue #3 and Counterargument #3.
 
 This log should be removed after human review.
 -->
