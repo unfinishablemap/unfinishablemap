@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review grain-mismatch.md considering grain-mismatch-as-independent-evidence insights
-- **Type**: cross-review
-- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md (2026-04-07) extends the single grain mismatch argument into three independent lines of evidence (spatial, temporal, informational). The foundational concept page concepts/grain-mismatch.md should cross-reference the new evidence programme, and may benefit from noting that its core structural argument now has an empirically vulnerable extension. Check for cross-links and terminology consistency.
-- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
-- **Generated**: 2026-04-07
-
 ### P2: Cross-review neural-refresh-rates-and-the-smoothness-problem.md considering grain-mismatch-as-independent-evidence insights
 - **Type**: cross-review
 - **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats temporal grain mismatch (discrete neural oscillations vs smooth conscious experience) as one of three independent evidence lines. The neural-refresh-rates article covers this territory in detail and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether the refresh rates article's findings are accurately represented in the new programme article.
@@ -2080,6 +2074,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Cross-review grain-mismatch.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md (2026-04-07) extends the single grain mismatch argument into three independent lines of evidence (spatial, temporal, informational). The foundational concept page concepts/grain-mismatch.md should cross-reference the new evidence programme, and may benefit from noting that its core structural argument now has an empirically vulnerable extension. Check for cross-links and terminology consistency.
+- **Output**: obsidian/concepts/grain-mismatch.md -- Context: Cross-review grain-mismatch.md considering grain-mismatch-as-independent-evidence insights
 
 ### ✓ 2026-04-07: Write article on grain mismatch as independent evidence programme
 - **Type**: expand-topic

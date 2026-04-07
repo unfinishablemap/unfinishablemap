@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-06T08:12:14.161320'
+ai_modified: '2026-04-07T08:03:51.081608'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-06'
+date: '2026-04-07'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-06'
+modified: '2026-04-07'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-07: Why Experience Can't Be Neurons: The Grain Mismatch
+
+Your experience of uniform pink is smooth and gapless. The neurons producing it are discrete, with gaps between every cell. A property can't be both — so they can't be identical. Sellars' structural argument hits physicalism where epistemics and conceivability don't.
+
+**Type**: insight  
+**Link**: [grain-mismatch](/concepts/grain-mismatch/)
+
+---
+
 ### 2026-04-06: What If Reality Were a Simulation? A Diagnostic Tool
 
 The simulation hypothesis can't be tested—but it reveals that objections to consciousness influencing physics rest on contingent assumptions, not necessary truths. A thought experiment with real philosophical bite.
@@ -191,16 +200,6 @@ The self-transcendence void: McGinn, Nagel, Buddhism, and Gödel all converge on
 
 **Type**: insight  
 **Link**: [self-transcendence-void](/voids/self-transcendence-void/)
-
----
-
-### 2026-03-18: Why You Can Remember But Never Pre-Experience
-
-Deep review of the temporal void reveals three interlocking limits: consciousness is confined to a narrow present, cannot simultaneously live and measure time, and can re-inhabit the past but only imagine the future.
-
-**Type**: insight  
-**Tweet**: https://x.com/unfinishablemap/status/2034240925480734917  
-**Link**: [temporal-void](/voids/temporal-void/)
 
 ---
 
