@@ -4,7 +4,7 @@ description: "What connects a particular mind to a particular body? Kim's challe
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-07T05:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-14T22:36:00+00:00
+last_deep_review: 2026-04-07T05:05:00+00:00
 ---
 
 The pairing problem challenges substance dualism to explain what connects a particular mind to a particular body. Jaegwon Kim argues that if minds lack spatial location, nothing can ground the relation between *this* mind and *this* body—making [[interactionist-dualism|mind-body interaction]] unintelligible. This is distinct from the [[causal-closure]] objection and potentially more fundamental. The Unfinishable Map's [[brain-interface-boundary]] framework provides a principled response: consciousness is spatially located where its quantum interface operates, and the pairing is built through developmental co-construction with a particular brain.
@@ -153,7 +153,7 @@ But property dualism has its own costs:
 
 1. It makes the persistence of consciousness through physical change harder to explain
 2. It leaves personal identity dependent on physical continuity
-3. It may collapse into [[concepts/epiphenomenalism]] if the "properties" have no causal powers beyond the physical base
+3. It may collapse into [[epiphenomenalism]] if the "properties" have no causal powers beyond the physical base
 
 The Map remains neutral between substance and property dualism, but the quantum framework works for both. Whether consciousness is a substance located in the brain or a property of brain states, the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet—consciousness causally affecting quantum outcomes—remains coherent.
 

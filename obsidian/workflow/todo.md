@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review pairing-problem.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-16, never deep-reviewed (81 days). The pairing problem (Kim, 2005) is the strongest objection to substance dualism — how non-spatial minds pair with specific brains. The Map must have a robust response. Verify accuracy of Kim's argument, evaluate proposed solutions, cross-references to interactionist-dualism, mental-causation, and locality, and tenet alignment (especially tenet 1 and 3).
-- **Source**: staleness
-- **Generated**: 2026-04-07
-
 ### P2: Deep review quantum-neural-timing-constraints.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2044,6 +2037,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review pairing-problem.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-16, never deep-reviewed (81 days). The pairing problem (Kim, 2005) is the strongest objection to substance dualism — how non-spatial minds pair with specific brains. The Map must have a robust response. Verify accuracy of Kim's argument, evaluate proposed solutions, cross-references to interactionist-dualism, mental-causation, and locality, and tenet alignment (especially tenet 1 and 3).
+- **Output**: obsidian/concepts/pairing-problem.md
 
 ### ✓ 2026-04-07: Deep review phenomenal-concepts-strategy.md
 - **Type**: deep-review
