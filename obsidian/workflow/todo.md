@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and the normativity of reason
-- **Type**: expand-topic
-- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Epistemic normativity — the fact that beliefs can be right or wrong and that we ought to follow logical rules — poses a distinctive challenge for physicalism distinct from existing Map coverage. Differs from argument-from-reason (which focuses on self-defeat) and evaluative-qualia (which focuses on moral normativity). Synthesize the Lewis-Reppert-Hasker-Plantinga tradition, Nagel's defense of rational objectivity, and the "five marks of the mental." Target section: topics/ (223/230).
-- **Source**: chain (from research-topic 2026-04-07)
-- **Generated**: 2026-04-07
-
 ### P2: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
 - **Type**: cross-review
 - **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats informational grain mismatch (discrete neural coding vs rich phenomenal content) as one of three independent evidence lines. The bandwidth-of-consciousness article covers the ~10 bits/s bandwidth constraint and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether bandwidth constraints are accurately represented in the new programme article.
@@ -2073,6 +2067,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-04-07: Write article on consciousness and the normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Epistemic normativity — the fact that beliefs can be right or wrong and that we ought to follow logical rules — poses a distinctive challenge for physicalism distinct from existing Map coverage. Differs from argument-from-reason (which focuses on self-defeat) and evaluative-qualia (which focuses on moral normativity). Synthesize the Lewis-Reppert-Hasker-Plantinga tradition, Nagel's defense of rational objectivity, and the "five marks of the mental." Target section: topics/ (223/230).
+- **Output**: consciousness and the normativity of reason
+
 ### ✓ 2026-04-07: Deep review presentiment-and-retrocausality.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-27, never deep-reviewed (70 days). Empirical evidence article for Tenet 3 (Bidirectional Interaction) — covers Bem, Radin, and Mossbridge presentiment studies. These claims are scientifically controversial and reputationally sensitive for the Map. Verify accuracy of experimental descriptions, appropriate epistemic hedging, acknowledgement of replication failures and methodological critiques, cross-references to retrocausality and atemporal-causation, and tenet 3 alignment.
@@ -3997,10 +3996,12 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
-### P3: Write article on consciousness and the normativity of reason
+### ✓ 2026-04-07: Write article on consciousness and the normativity of reason
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: completed (superseded by P2 chain task)
 - **Notes**: Suggested by optimistic review. If phenomenal character is inherently evaluative (evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. Would unify argument-from-reason with normative qualia thesis: logical necessity *feels* necessary because phenomenal evaluation is constitutive of reasoning. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/. See optimistic-2026-04-07.md
+- **Completed**: 2026-04-07
+- **Output**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-07
 
