@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neural-refresh-rates-and-the-smoothness-problem.md considering grain-mismatch-as-independent-evidence insights
-- **Type**: cross-review
-- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats temporal grain mismatch (discrete neural oscillations vs smooth conscious experience) as one of three independent evidence lines. The neural-refresh-rates article covers this territory in detail and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether the refresh rates article's findings are accurately represented in the new programme article.
-- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
-- **Generated**: 2026-04-07
-
 ### P2: Integrate Frankish functional-seeming research into illusionism.md
 - **Type**: refine-draft
 - **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md on Frankish's functional-seeming response to the hard problem. The existing concepts/illusionism.md does not integrate this specific argument. Synthesize the research findings — particularly Frankish's claim that phenomenal properties are functional seemings rather than intrinsic qualities — into the illusionism concept page. Ensure the Map's dualist response to functional seeming is clearly articulated.
@@ -2073,6 +2067,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Cross-review neural-refresh-rates-and-the-smoothness-problem.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats temporal grain mismatch (discrete neural oscillations vs smooth conscious experience) as one of three independent evidence lines. The neural-refresh-rates article covers this territory in detail and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether the refresh rates article's findings are accurately represented in the new programme article.
+- **Output**: obsidian/topics/neural-refresh-rates-and-the-smoothness-problem.md -- Context: Cross-review neural-refresh-rates-and-the-smoothness-problem.md considering grain-mismatch-as-independent-evidence insights
 
 ### ✓ 2026-04-07: Cross-review grain-mismatch.md considering grain-mismatch-as-independent-evidence insights
 - **Type**: cross-review

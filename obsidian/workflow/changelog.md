@@ -5,6 +5,16 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 08:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/neural-refresh-rates-and-the-smoothness-problem]]
+- **Word count**: 2053 → 2320 (+267)
+- **Critical issues addressed**: 1 (duplicate frontmatter entry)
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (Lee's opacity section, evidence programme framing, informational mismatch reference, cross-links)
+- **Output**: [[reviews/deep-review-2026-04-07-neural-refresh-rates]]
+- **Context**: Cross-review considering grain-mismatch-as-independent-evidence insights
+
 ## 2026-04-07 07:49 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/grain-mismatch]]
