@@ -75,6 +75,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-07
 
+### P3: Write article on comparative phenomenology of mathematical insight across cultures
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Test whether the four features of mathematical insight (cross-domain connection, aesthetic filtration, phenomenal certainty, external validation) are culturally universal — Eastern approaches to proof, Islamic algebraic traditions, Indian mathematical phenomenology. Extends convergence programme to new domain. Builds on consciousness-and-mathematics, cross-cultural-phenomenology-of-agency, contemplative-practice-as-philosophical-evidence. Target section: topics/ (225/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Write article on consciousness-physics interface mechanism (technical treatment)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Multiple articles reference consciousness selecting at quantum indeterminacies without fully explaining the mechanism. A dedicated technical article would make the interface proposal precise enough for empirical evaluation. Builds on mind-matter-interface, quantum-consciousness, comparing-quantum-consciousness-mechanisms, consciousness-physics-interface-formalism. Target section: topics/ (225/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
 ### P3: Deep review imagination-and-creativity-void.md
 - **Type**: deep-review
 - **Status**: pending
