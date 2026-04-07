@@ -4,7 +4,7 @@ description: "Attributing beliefs, desires, and intentions to others. Higher lev
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-04-07T13:24:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-03-12T12:21:00+00:00
+last_deep_review: 2026-04-07T13:24:00+00:00
 ---
 
 Theory of mind is the capacity to attribute mental states—beliefs, desires, intentions, knowledge—to others and to understand that these states may differ from one's own. The Unfinishable Map argues that theory of mind admits of levels, and that the higher levels require phenomenal consciousness. Great apes possess impressive social cognition at lower levels (tracking what others see, predicting behaviour from goals) but appear limited at higher levels (recursive mindreading, understanding false beliefs as mental representations). This gap tracks the consciousness-dependent capacity for [[metacognition|metarepresentation]]—representing mental states *as* mental states rather than merely responding to behavioural cues.

@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-07 13:18 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3295 → 3309 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to consciousness-and-the-normativity-of-reason, self-stultification-as-master-argument, consciousness-and-normative-force)
+- **Enhancements made**: 1 in-body cross-link, 3 Further Reading entries, prose tightening for length neutrality
+- **Output**: [deep-review-2026-04-07-argument-from-reason](/reviews/deep-review-2026-04-07-argument-from-reason/)
+
 ## 2026-04-07 12:53 UTC - deep-review
 - **Status**: Success
 - **File**: [indexical-void](/voids/indexical-void/)
