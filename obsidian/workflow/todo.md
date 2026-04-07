@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix circular LLM evidence in consciousness-and-language-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the "LLMs as Partial Evidence" section begs the question—using LLMs as evidence for language-without-consciousness presupposes LLMs lack consciousness. Reframe to say LLMs are *consistent with* dualist predictions rather than *confirming* them. Also expand the underdeveloped aphasia section which provides stronger empirical evidence. See pessimistic-2026-04-07.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-07
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
