@@ -5,6 +5,15 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 12:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-normativity-of-reason]]
+- **Word count**: 1716 → 2029 (+313)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (reliabilism response strengthened, evolutionary naturalism addressed, conceptual nature acknowledged)
+- **Enhancements made**: 3 (content-sensitivity expanded with formal systems cross-link, Nagel's Last Word integrated, cross-link to consciousness-and-the-authority-of-formal-systems)
+- **Output**: [[reviews/deep-review-2026-04-07-consciousness-and-the-normativity-of-reason]]
+
 ## 2026-04-07 11:52 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/indexical-knowledge-and-identity]]
