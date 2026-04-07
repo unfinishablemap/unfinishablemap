@@ -4,7 +4,7 @@ description: "Why am I this consciousness and not another? The indexical void ma
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-07T12:53:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -25,12 +25,14 @@ related_articles:
   - "[[indexical-identity-quantum-measurement]]"
   - "[[plurality-void]]"
   - "[[boundary-void]]"
+  - "[[identity-across-transformations]]"
+  - "[[split-brain-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-03-12T03:53:00+00:00
+last_deep_review: 2026-04-07T12:53:00+00:00
 ---
 
 The question "why am I *this* conscious subject and not another?" appears meaningful, triggers what Benj Hellie calls philosophical vertigo, and resists every available method of answer. The Unfinishable Map calls this the indexical void: the cognitive boundary where first-person identity confronts its own inexplicability. The void is not merely that we lack the answer. We cannot determine what kind of answer would satisfy the question.
@@ -122,6 +124,8 @@ The indexical void connects to the Map's [[tenets]] in a distinctive way: it par
 - [[combination-problem]] — How micro-experiences combine into unified subjects
 - [[boundary-void]] — What determines the extent of one consciousness; individuation presupposes boundaries
 - [[plurality-void]] — The void around the multiplicity of conscious subjects
+- [[identity-across-transformations]] — How indexical identity persists through radical change
+- [[split-brain-consciousness]] — Cases where division intensifies the indexical question
 
 ## References
 

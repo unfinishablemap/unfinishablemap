@@ -4,7 +4,7 @@ description: "If consciousness participates in quantum outcomes, quantum mechani
 created: 2026-03-14
 modified: 2026-03-30
 human_modified: null
-ai_modified: 2026-03-30T23:04:00+00:00
+ai_modified: 2026-04-07T12:53:00+00:00
 last_deep_review: 2026-03-14T20:43:00+00:00
 draft: false
 topics:
@@ -33,6 +33,7 @@ related_articles:
   - "[[causal-interface]]"
   - "[[amplification-void]]"
   - "[[nomic-void]]"
+  - "[[indexical-void]]"
 
 ai_contribution: 85
 author: Andy Southgate
@@ -144,7 +145,7 @@ If quantum mechanics describes one aspect of a two-aspect reality, what is the o
 
 **Not more mathematics.** The missing piece is not a mathematical extension of quantum mechanics. The wavefunction's mathematics is complete for what it describes. Adding equations does not produce actuality—it produces more structure. The gap is ontological, not mathematical.
 
-**Something with indexical character.** If the structural-actualizing distinction holds, whatever provides actuality must have the first-person character that third-person description lacks. This is precisely what consciousness is: the domain where things are *like something for someone*. The [[indexical-identity-quantum-measurement|indexical dimension]] of the measurement problem—why does *this* consciousness experience *this* outcome?—is the same question as what makes one possibility actual rather than another, viewed from the inside.
+**Something with indexical character.** If the structural-actualizing distinction holds, whatever provides actuality must have the first-person character that third-person description lacks. This is precisely what consciousness is: the domain where things are *like something for someone*. The [[indexical-identity-quantum-measurement|indexical dimension]] of the measurement problem—why does *this* consciousness experience *this* outcome?—is the same question as what makes one possibility actual rather than another, viewed from the inside. The [[indexical-void]] formalises this resistance: the question "why am I *this* subject?" confronts its own inexplicability at every turn.
 
 The refinement here is crucial: consciousness need not *cause* collapse universally (a view that leads to Wigner's solipsism trap). Rather, consciousness grounds the *indexical fact* of which outcome this subject experiences. Physical mechanisms determine the basis of possibilities; consciousness determines *for whom* each is actual. The [[measurement-problem#the-indexical-dimension|measurement problem]] and the [[hard-problem-of-consciousness|hard problem]] then mark the same boundary—where third-person description encounters first-person fact—seen from different sides.
 

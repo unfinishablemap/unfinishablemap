@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-04T03:41:00+00:00
+ai_modified: 2026-04-07T12:53:00+00:00
 last_deep_review: 2026-03-06T04:55:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[testing-the-map-from-inside]]"
   - "[[counterfactual-void]]"
   - "[[moral-architecture-of-consciousness]]"
+  - "[[indexical-void]]"
 
 ai_contribution: 100
 author: null
