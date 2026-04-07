@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-04-07T08:48:00+00:00
+ai_modified: 2026-04-07T09:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-04-07T08:48:00+00:00
+last_deep_review: 2026-04-07T09:03:00+00:00
 ---
 
 The [[grain-mismatch|grain mismatch]] is usually presented as a single philosophical argument: Sellars showed that phenomenal homogeneity and neural discreteness are structurally incompatible, therefore identity physicalism fails for these property pairs. The Unfinishable Map proposes something stronger. The grain mismatch is not one argument but three independent lines of structural evidence — spatial, temporal, and informational — each arising from different empirical domains, relying on different measurements, and generating different testable predictions. Their convergence constitutes an evidence programme rather than a conceivability exercise. If any single mismatch were resolved, the other two would remain. If all three were independently dissolved, dualism would lose one of its most direct structural supports.
@@ -86,7 +86,7 @@ The evidence programme would be substantially weakened by:
 
 **Demonstration that phenomenal homogeneity is illusory.** If Lee's introspective opacity were resolved — if it were shown that phenomenal experience is discrete at a fine grain matching neural architecture — the spatial and temporal mismatches would dissolve at their foundation. The informational mismatch would survive (discrete conscious experience could still be informationally coarser than neural processing), but the programme would lose two of its three pillars.
 
-**A physicalist theory that *predicts* the grain ratios.** Currently, physicalist accounts explain that *some* compression exists (Global Workspace Theory's serial broadcasting, for instance) without explaining why the compression has the specific magnitude it does. A theory that derived the ~10 bits/second figure from neural architecture — and explained why that specific bottleneck occurs at conscious access rather than elsewhere — would provide the kind of explanatory resource the programme claims physicalism lacks.
+**A physicalist theory that *predicts* the grain ratios.** Currently, physicalist accounts explain that *some* compression exists ([[global-workspace-theory|Global Workspace Theory's]] serial broadcasting, for instance) without explaining why the compression has the specific magnitude it does. A theory that derived the ~10 bits/second figure from neural architecture — and explained why that specific bottleneck occurs at conscious access rather than elsewhere — would provide the kind of explanatory resource the programme claims physicalism lacks.
 
 ## Relation to Site Perspective
 

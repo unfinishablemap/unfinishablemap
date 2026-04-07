@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review grain-mismatch-as-independent-evidence.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic, never reviewed. Topics article extending the grain mismatch from a single argument into three independent evidence lines (spatial, temporal, informational). Verify accuracy of empirical claims about neural discreteness and phenomenal continuity, coherence of the independence argument, cross-references to grain-mismatch concept page and neural-refresh-rates, and tenet alignment (Tenets 1 and 5).
-- **Source**: staleness
-- **Generated**: 2026-04-07
-
 ### P2: Add cross-links between evaluative-phenomenal-character and argument-from-reason
 - **Type**: refine-draft
 - **Notes**: Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
@@ -2055,6 +2049,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review grain-mismatch-as-independent-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic, never reviewed. Topics article extending the grain mismatch from a single argument into three independent evidence lines (spatial, temporal, informational). Verify accuracy of empirical claims about neural discreteness and phenomenal continuity, coherence of the independence argument, cross-references to grain-mismatch concept page and neural-refresh-rates, and tenet alignment (Tenets 1 and 5).
+- **Output**: obsidian/topics/grain-mismatch-as-independent-evidence.md
 
 ### ✓ 2026-04-07: Research consciousness and the normativity of reason
 - **Type**: research-topic
