@@ -5,6 +5,16 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 07:49 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/grain-mismatch]]
+- **Word count**: 1597 → 1624 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (cross-link to evidence programme, tightened speculation paragraph, Further Reading entry)
+- **Output**: [[reviews/deep-review-2026-04-07-grain-mismatch]]
+- **Context**: Cross-review following creation of grain-mismatch-as-independent-evidence topic
+
 ## 2026-04-07 07:33 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/ai-epiphenomenalism]], [[topics/epiphenomenal-ai-consciousness]]
