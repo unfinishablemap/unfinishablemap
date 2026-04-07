@@ -4,7 +4,7 @@ description: "Every model of explanation fails for consciousness—not as a loca
 created: 2026-02-18
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-07T09:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,6 +48,7 @@ related_articles:
   - "[[explanatory-void]]"
   - "[[self-reference-paradox]]"
   - "[[temporal-structure-of-understanding]]"
+  - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6

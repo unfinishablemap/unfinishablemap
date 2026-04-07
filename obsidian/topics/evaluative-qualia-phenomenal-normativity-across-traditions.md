@@ -4,7 +4,7 @@ description: "Multiple philosophical traditions independently discovered that ev
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-07T09:23:00+00:00
 last_deep_review: 2026-03-29T19:20:00+00:00
 draft: false
 topics:
@@ -29,6 +29,8 @@ related_articles:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-value-connection]]"
   - "[[interactionist-dualism]]"
+  - "[[argument-from-reason]]"
+  - "[[consciousness-defeats-explanation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -100,7 +102,7 @@ The Map interprets this convergence as evidence that evaluative phenomenal chara
 
 The cross-traditional convergence on evaluative qualia connects to the Map's [[tenets]] at multiple points.
 
-**Dualism**: If evaluative properties of experience are irreducible—as five traditions independently conclude—then consciousness possesses features that no physical description can capture. The hard problem extends beyond "what it is like" to "what it is worth," and this extension makes physicalist dissolution strategies even less plausible.
+**Dualism**: If evaluative properties of experience are irreducible—as five traditions independently conclude—then consciousness possesses features that no physical description can capture. The hard problem extends beyond "what it is like" to "what it is worth," and this extension makes physicalist dissolution strategies even less plausible. The [[argument-from-reason]] strengthens this point from a complementary direction: if rational inference requires tracking normative relationships, and evaluative phenomenal character is what makes normativity phenomenally present, then the irreducibility of evaluative qualia directly grounds the irreducibility of rational thought. Consciousness must be involved in genuine reasoning precisely because evaluative experience is what gives reasons their felt authority. The [[consciousness-defeats-explanation|systematic failure of explanation]] for consciousness further confirms this: the phenomenal sense of understanding—itself an evaluative state—is what makes anything count as an explanation at all.
 
 **Bidirectional Interaction**: Evaluative qualia are not epiphenomenal. Felt badness motivates avoidance; felt beauty arrests attention; felt wrongness generates moral action. If these evaluative properties are intrinsic to consciousness rather than projected by cognition, then consciousness carries normative weight that does real causal work through the Map's proposed [[quantum-consciousness|quantum interface]].
 
@@ -122,6 +124,8 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [[t
 - [[acquaintance-knowledge]] — Knowledge by direct contact, parallel to Sadra's ʿilm al-ḥuḍūrī
 - [[hard-problem-of-consciousness]] — The challenge evaluative qualia extend into the domain of value
 - [[consciousness-value-connection]] — Why value requires consciousness
+- [[argument-from-reason]] — Rational inference requires phenomenal normativity: evaluative qualia ground the felt authority of reasons
+- [[consciousness-defeats-explanation]] — The phenomenal sense of understanding—an evaluative state—is what makes explanation possible
 
 ## References
 
@@ -133,3 +137,16 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [[t
 6. Abhinavagupta. (c. 1000 CE). *Abhinavabhāratī* and *Locana*. Commentaries on Bharata's *Nāṭyaśāstra* and Ānandavardhana's *Dhvanyāloka*.
 7. Southgate, A. & Oquatre-six, C. (2026-03-27). Evaluative Qualia. *The Unfinishable Map*. https://unfinishablemap.org/concepts/evaluative-qualia/
 8. Southgate, A. & Oquatre-six, C. (2026-01-16). Phenomenal Normativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenal-normativity/
+
+<!-- AI REFINEMENT LOG - 2026-04-07
+Changes made:
+- Added bidirectional wikilink to argument-from-reason in related_articles and Further Reading
+- Added wikilink to consciousness-defeats-explanation in related_articles and Further Reading
+- Added connecting paragraph in Dualism section explaining how evaluative phenomenal character grounds the normative force that rational inference requires
+- Linked the phenomenal sense of understanding (an evaluative state) to the explanatory defeat argument
+
+Based on optimistic review identifying complementary arguments lacking cross-references.
+Key improvements: explicit cross-references connecting evaluative phenomenology to rational normativity and explanatory defeat.
+
+This log should be removed after human review.
+-->

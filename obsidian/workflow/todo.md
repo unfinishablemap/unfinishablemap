@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links between evaluative-phenomenal-character and argument-from-reason
-- **Type**: refine-draft
-- **Notes**: Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-07
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2049,6 +2043,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Add cross-links between evaluative-phenomenal-character and argument-from-reason
+- **Type**: refine-draft
+- **Notes**: Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
+- **Output**: Task context:
+Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
 
 ### ✓ 2026-04-07: Deep review grain-mismatch-as-independent-evidence.md
 - **Type**: deep-review
