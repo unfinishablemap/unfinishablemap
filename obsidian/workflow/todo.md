@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-07T04:35:00+00:00
+ai_modified: 2026-04-07T06:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address temporal-functional tension, preprint status, and length in ai-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found three medium-severity issues: (1) Temporal argument against AI consciousness uses functional criteria (no specious present, no reentrant dynamics, no continual learning) while simultaneously rejecting functionalism — acknowledge the tension and explain why these are necessary-but-not-sufficient structural prerequisites rather than constitutive functional properties; (2) Hoel (2025) preprint bears substantial argumentative weight but its unreviewed status is not flagged in body text — add parenthetical noting preprint status; (3) Article at ~4200 words exceeds topics/ soft threshold — tighten "What Would Challenge" section (9 bullet points → 4-5) and "Other Challenges" subsections. See pessimistic-2026-04-06-night.md Issues #1, #2, #5.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-07
+
+### P2: Address Putnam authority framing in functionalism.md and simulation diagnostic overclaim in simulation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found: (1) functionalism.md "Architect's Defection" section risks argument-from-authority — Putnam changed his mind often (also abandoned scientific realism); shift emphasis from his authority to his actual arguments in Representation and Reality (semantic externalism's challenge to internalist functionalism); (2) simulation.md claims to reveal contingency that physicists already acknowledge — sharpen what the simulation framing specifically adds (structured alternative architecture) over abstract modal possibility; (3) Low: remove HTML refinement log comment block at lines 250-260 in functionalism.md. See pessimistic-2026-04-06-night.md Issues #3, #4.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-07
+
+### P2: Write article on grain mismatch as independent evidence programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Transform the grain mismatch from a single conceivability argument into an empirical evidence programme with testable predictions. Specify what observations would weaken or dissolve the argument, distinguishing it from pure conceivability reasoning. Directly supports Tenet 1 (Dualism) by grounding the irreducibility claim in empirical structure. Builds on grain-mismatch, interface-heterogeneity. Target section: topics/ (224/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Write article on phenomenology of linguistic failure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Develop the phenomenology of gaps between what we mean and what we say — tip-of-the-tongue experiences, inexpressibility, linguistic discovery, and the felt inadequacy of words. Bridges the language programme to the voids programme by treating linguistic failure as a species of cognitive limit. Builds on consciousness-and-language-interface, apophatic-approaches, language-thought-boundary. Target section: topics/ (224/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
+
+### P3: Create concept page for metarepresentation threshold
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Canonical definition and evidential markers of the procedural-to-declarative metacognition boundary that separates human from animal cognition. The Jourdain hypothesis and several articles reference this threshold but it lacks its own anchor page. Distinct from the coalesced metacognition concept page, which covers metacognition broadly rather than this specific boundary. Target section: concepts/ (222/230). See optimistic-2026-04-07.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-07
 
 ### P2: Deep review presentiment-and-retrocausality.md
 - **Type**: deep-review
