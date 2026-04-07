@@ -31,6 +31,7 @@ related_articles:
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[consciousness-and-the-normativity-of-reason]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -66,7 +67,7 @@ This generalisation matters because it blocks an important materialist strategy:
 
 The [[argument-from-reason]] gains force from cognitive phenomenology. The argument, in its classical form (C.S. Lewis, Plantinga, Reppert), holds that if mental states are entirely determined by physical causes, then reasoning — which requires sensitivity to logical relations — is undermined. Physical causation operates on physical properties; logical validity is not a physical property. So genuine reasoning requires something beyond the physical.
 
-Cognitive phenomenology sharpens this. When you follow a valid inference — when you *see* that the conclusion follows from the premises — there is something it is like to grasp that logical relation. The [[phenomenology-of-intellectual-life|phenomenology of compelling reasoning]] reveals the distinction: being *compelled* by an argument because you grasp its logic feels categorically different from being *forced* to a conclusion by bias or habit. The phenomenal character of valid inference differs from the phenomenal character of invalid inference accepted through bias. This phenomenal difference tracks a normative distinction (valid versus invalid) that physical description cannot capture.
+Cognitive phenomenology sharpens this. When you follow a valid inference — when you *see* that the conclusion follows from the premises — there is something it is like to grasp that logical relation. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops this point: logical inference involves prescriptive force, universality, and content-sensitivity — features that physical causation cannot instantiate. The [[phenomenology-of-intellectual-life|phenomenology of compelling reasoning]] reveals the distinction: being *compelled* by an argument because you grasp its logic feels categorically different from being *forced* to a conclusion by bias or habit. The phenomenal character of valid inference differs from the phenomenal character of invalid inference accepted through bias. This phenomenal difference tracks a normative distinction (valid versus invalid) that physical description cannot capture.
 
 The [[self-stultification-as-master-argument|self-stultification argument]] presses the same point from a different angle: materialism, if true, undermines the rational credentials of the very reasoning that leads to its acceptance. Cognitive phenomenology makes this vivid. The materialist's own experience of finding their arguments compelling — the felt force of evidence, the phenomenal pull of logical connection — is precisely the kind of irreducible cognitive phenomenology their position cannot accommodate.
 
@@ -113,6 +114,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [[cognitive-phenomenology]] — The debate: liberalism versus conservatism on the phenomenal character of thought
 - [[phenomenology-of-intellectual-life]] — Five modes of phenomenal meaning
 - [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The felt texture of cognitive work
+- [[consciousness-and-the-normativity-of-reason]] — The normative gap: why logical "ought" requires conscious minds
 - [[argument-from-reason]] — Why genuine reasoning requires more than physical causation
 - [[self-stultification-as-master-argument]] — Materialism undermines its own rational credentials
 - [[pragmatisms-path-to-dualism]] — How cognitive phenomenology in evaluation forces pragmatism toward dualism

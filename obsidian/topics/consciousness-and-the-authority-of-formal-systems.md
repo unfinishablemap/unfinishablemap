@@ -45,6 +45,7 @@ related_articles:
   - "[[consciousness-and-the-metaphysics-of-laws]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -139,6 +140,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 ## Further Reading
 
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
+- [[consciousness-and-the-normativity-of-reason]] — The normative gap between causal and evidential "because" — a companion to this article's normative gap
 - [[consciousness-and-normative-force]] — Normative authority across moral, epistemic, aesthetic, and prudential domains
 - [[cognitive-phenomenology]] — Whether thinking has its own phenomenal character
 - [[consciousness-and-mathematics]] — Mathematical insight and creativity as evidence for consciousness doing causal work

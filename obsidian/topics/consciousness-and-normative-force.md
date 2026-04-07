@@ -37,6 +37,7 @@ related_articles:
   - "[[explanatory-gap]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
+  - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[phenomenal-normativity-environmental-ethics]]"
   - "[[consciousness-and-collective-phenomena]]"
@@ -89,7 +90,7 @@ The Map's [[topics/phenomenal-value-realism#Beyond Hedonism|phenomenal value plu
 
 ### Epistemic Normativity
 
-Epistemic demands have their own phenomenal character. Encountering a valid argument whose conclusion you resist produces a felt pull toward acceptance — cooler and more impersonal than moral obligation, but equally insistent. This phenomenal rigidity is distinct from physical necessity and moral necessity. It belongs to [[cognitive-phenomenology|cognitive phenomenology]]: the felt character of thinking itself. Evidence contradicting a held belief registers as epistemic tension — a characteristic restlessness, the sense of instability.
+Epistemic demands have their own phenomenal character. Encountering a valid argument whose conclusion you resist produces a felt pull toward acceptance — cooler and more impersonal than moral obligation, but equally insistent. This phenomenal rigidity is distinct from physical necessity and moral necessity. It belongs to [[cognitive-phenomenology|cognitive phenomenology]]: the felt character of thinking itself. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops this in detail: logical inference involves prescriptive force, universality, and content-sensitivity that resist physical description. Evidence contradicting a held belief registers as epistemic tension — a characteristic restlessness, the sense of instability.
 
 ### Aesthetic Normativity
 
@@ -178,6 +179,7 @@ The consciousness-based account would face pressure if:
 - [[hard-problem-of-consciousness]] — Why consciousness resists reductive explanation
 - [[alignment-in-objective-experiential-terms]] — Why normative force grounds genuinely objective AI alignment criteria
 - [[consciousness-and-the-authority-of-formal-systems]] — How consciousness grounds logic's binding force
+- [[consciousness-and-the-normativity-of-reason]] — Why the gap between causal and normative "because" requires conscious minds
 - [[consciousness-and-moral-agency-under-duress]] — Moral agency when normative demands are extreme
 - [[phenomenal-normativity-environmental-ethics]] — Extending phenomenal normativity to environmental obligations
 - [[phenomenal-depth]] — Layers of phenomenal experience accessible through attention

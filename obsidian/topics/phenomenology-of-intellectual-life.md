@@ -62,6 +62,7 @@ related_articles:
   - "[[consciousness-and-mathematics]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
+  - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[phenomenology-of-musical-understanding]]"
@@ -111,7 +112,7 @@ Complex arguments require holding multiple premises simultaneously while derivin
 
 Tracing implications adds another dimension. From "all humans are mortal" and "Socrates is human," you *move* — not merely find yourself at — "Socrates is mortal." The transition is directed, purposive, constrained by the logical relationship. Valid conclusions do not merely happen to follow; they *must* follow, and this necessity is experienced. It feels different to grasp that something must follow than to observe that it happens to. Long chains of reasoning require vigilance — monitoring whether each step genuinely follows, whether a fallacy has crept in.
 
-This phenomenology differs from [[mental-effort|attentional effort]]. Attention can be sustained without intellectual strain. Intellectual effort adds the *work* of inference, the *strain* of integration, the *reach* toward a conclusion not yet grasped. The [[argument-from-reason]] makes this point structurally: genuine reasoning requires tracking normative relationships. The phenomenology makes it experiential.
+This phenomenology differs from [[mental-effort|attentional effort]]. Attention can be sustained without intellectual strain. Intellectual effort adds the *work* of inference, the *strain* of integration, the *reach* toward a conclusion not yet grasped. The [[argument-from-reason]] makes this point structurally: genuine reasoning requires tracking normative relationships. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops three features of this tracking — prescriptive force, universality, and content-sensitivity — that physical causation cannot replicate. The phenomenology makes it experiential.
 
 The experience of necessity itself is philosophically significant. Confidence comes in degrees; logical necessity feels categorically different — not "this is extremely likely" but "it could not be otherwise." If inference were merely recognising patterns, the experience should be recognition-like. Instead, it feels like perceiving a relationship that holds independent of frequency — that *would* hold even if it had never been instantiated.
 
@@ -258,6 +259,7 @@ None of these findings currently obtains.
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[temporal-structure-of-understanding]] — The temporal unfolding of comprehension
 - [[consciousness-and-mathematics]] — Mathematical insight as paradigm case of understanding
+- [[consciousness-and-the-normativity-of-reason]] — Prescriptive force, universality, and content-sensitivity: why logical norms require consciousness
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical relationships carry normative force
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
 - [[binding-problem]] — How discrete conscious states combine into structured wholes

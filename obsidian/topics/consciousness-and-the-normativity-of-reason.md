@@ -4,7 +4,7 @@ description: "Reasoning is normative — it involves rules about what one ought 
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-04-07T12:07:00+00:00
+ai_modified: 2026-04-07T14:04:00+00:00
 draft: false
 topics:
   - "[[argument-from-reason]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-07
 last_curated:
-last_deep_review: 2026-04-07T12:07:00+00:00
+last_deep_review: 2026-04-07T14:04:00+00:00
 ---
 
 Reasoning is normative. When you infer a conclusion from premises, you are not merely undergoing a causal process — you are following rules that prescribe what you *ought* to believe. The conclusion of a valid argument with true premises is not just what you *will* believe but what you *should* believe. Physical processes, by contrast, simply happen. Neurons fire or do not fire; they are never correct or incorrect. The Unfinishable Map argues that this gap between the causal order and the normative order — between what *is* and what *ought to be believed* — requires conscious minds. Without phenomenal awareness, there is nothing it is like to grasp a logical relation, and without grasping, there is no following of rules, only causal regularity masquerading as reason.
