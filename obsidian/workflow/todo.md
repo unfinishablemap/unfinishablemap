@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
-- **Type**: cross-review
-- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md extends grain mismatch into three independent evidence lines (spatial, temporal, informational). The resolution-bandwidth-interface article covers related territory on resolution limits and bandwidth constraints at the consciousness-physics interface. Check for consistency, cross-links, and whether the resolution article's arguments are complementary or overlapping.
-- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
-- **Generated**: 2026-04-07
-
 ### P2: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Concepts article on indexical knowledge and personal identity (created 2026-01-27). Add cross-references from related articles such as indexical-identity, personal-identity, haecceity, knowledge-argument, and the indexical identity quantum measurement article. Central to Tenet 4 (No Many Worlds) — indexical identity matters.
@@ -2074,6 +2068,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md extends grain mismatch into three independent evidence lines (spatial, temporal, informational). The resolution-bandwidth-interface article covers related territory on resolution limits and bandwidth constraints at the consciousness-physics interface. Check for consistency, cross-links, and whether the resolution article's arguments are complementary or overlapping.
+- **Output**: obsidian/topics/resolution-bandwidth-interface.md -- Context: Cross-review resolution-bandwidth-interface.md considering grain-mismatch-as-independent-evidence insights
 
 ### ✓ 2026-04-07: Cross-review bandwidth-of-consciousness.md considering grain-mismatch-as-independent-evidence insights
 - **Type**: cross-review

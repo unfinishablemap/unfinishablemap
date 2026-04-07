@@ -4,7 +4,7 @@ description: "Consciousness's coarseness is not a defect but an architectural re
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-04-04T18:07:00+00:00
+ai_modified: 2026-04-07T11:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,13 @@ related_articles:
   - "[[psychophysical-laws]]"
   - "[[baseline-cognition]]"
   - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
+  - "[[grain-mismatch-as-independent-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-11
 last_curated:
-last_deep_review: 2026-04-04T18:07:00+00:00
+last_deep_review: 2026-04-07T11:37:00+00:00
 ---
 
 Consciousness processes roughly ten bits per second. The brain it inhabits processes roughly 10⁹ bits per second — a [[bandwidth-of-consciousness|100-million-fold asymmetry]]. The Unfinishable Map has explored both sides of this ratio separately: the [[resolution-void]] quantifies what consciousness cannot access, while the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] formalises the challenge for downward causation. This article unifies both into a single claim. The coarseness of consciousness is not a defect to be explained away but an architectural requirement for its causal role. A ten-bit-per-second controller is a fundamentally different kind of system from a billion-bit-per-second processor, and that difference is precisely what makes conscious selection possible.
@@ -49,7 +50,7 @@ The empirical grounding for these figures is extensive. Nørretranders (1998), d
 
 Consider what consciousness would need to be if it operated at neural resolution.
 
-A controller matching the brain's processing grain would need to track individual synaptic states across a hundred trillion connections. It would need to issue instructions at millisecond timescales for each of billions of neurons. The informational burden would be astronomical — and the controller would face the same combinatorial explosion that makes the brain's parallel architecture necessary in the first place. A consciousness operating at neural resolution would not be a controller. It would be a duplicate of the system it was supposed to govern.
+A controller matching the brain's processing grain would need to track individual synaptic states across a hundred trillion connections and issue instructions at millisecond timescales for billions of neurons. The informational burden would be astronomical — and the controller would face the same combinatorial explosion that makes the brain's parallel architecture necessary in the first place. A consciousness operating at neural resolution would not be a controller. It would be a duplicate of the system it was supposed to govern.
 
 **Effective hierarchical control requires operating at a different grain than the system being controlled.** A CEO who tracks every employee's minute-by-minute activity cannot make strategic decisions. An operating system that manages individual transistor states cannot run applications. The abstraction gap between controller and controlled is not a regrettable loss of information — it is what makes control possible.
 
@@ -77,13 +78,13 @@ An analogy illustrates the dualist reading (though it should not be mistaken for
 
 The physicalist has substantial resources here. [[global-workspace-theory|Global Workspace Theory]] holds that serial broadcasting of compressed summaries enables flexible integration across otherwise isolated processors — a self-monitoring system with a coarse executive summary is coherent and well-motivated. The compression avoids infinite regress (a system monitoring itself at full resolution would need further monitoring of the monitor) and the serial bottleneck creates the global availability that characterises conscious access. These are genuine explanatory resources, and it would be unfair to demand that GWT derive exact compression ratios from first principles — essentially no high-level theory in neuroscience or philosophy of mind meets that standard. The dualist account does not derive the ratio either. What the interface model *does* offer is a structural prediction: that resolution and bandwidth should be coupled, that the coupling should be invariant across tasks, and that brain-side optimisation should not widen the channel. Whether these predictions distinguish the dualist interpretation from a sufficiently developed physicalist account remains an open question.
 
-On the dualist picture, the dashboard exists because two systems must communicate. The resolution-bandwidth constraints are the signature of a genuine interface — a channel connecting ontologically distinct domains. This predicts exactly the asymmetry we observe: massive inbound compression (the brain delivering summaries to consciousness), minimal outbound bandwidth (consciousness selecting among prepared options), and a persistent grain mismatch between what consciousness accesses and what the brain computes.
+On the dualist picture, the dashboard exists because two systems must communicate. The resolution-bandwidth constraints are the signature of a genuine interface — a channel connecting ontologically distinct domains. This predicts exactly the asymmetry we observe: massive inbound compression, minimal outbound bandwidth, and a persistent grain mismatch between what consciousness accesses and what the brain computes.
 
 ## The Evolutionary Constraint
 
 If the bandwidth constraint reflects interface physics rather than neural architecture, evolution cannot widen it by optimising the brain alone. This explains a persistent puzzle: why has conscious throughput remained at roughly ten bits per second despite enormous increases in brain complexity across evolutionary time?
 
-Evolution *has* optimised the brain's side of the interface. Candidate preparation is faster and more sophisticated in humans than in simpler organisms. The options presented to consciousness are richer, more contextually appropriate, and better pre-evaluated. The [[baseline-cognition|baseline cognition]] that operates without conscious involvement has expanded dramatically — great apes achieve sophisticated tool use, social learning, and procedural metacognition through unconscious processing alone.
+Evolution *has* optimised the brain's side of the interface. Candidate preparation is faster and more sophisticated in humans than in simpler organisms. The options presented to consciousness are richer and better pre-evaluated. The [[baseline-cognition|baseline cognition]] that operates without conscious involvement has expanded dramatically — great apes achieve sophisticated tool use, social learning, and procedural metacognition through unconscious processing alone.
 
 What evolution has *not* done — so far as current evidence indicates — is substantially increase the rate at which consciousness selects. The throughput ceiling holds across diverse human tasks and training regimes; cross-species data are sparser, but no measured organism shows conscious throughput orders of magnitude above the human range. Sauerbrei and Pruszynski's demonstration sharpens this puzzle: the brain clearly *can* process information at rates far exceeding 10 bits per second—it does so constantly for motor control and sensory processing. If the ceiling were purely neural, one might expect evolutionary pressure to have raised it, particularly given that the neural hardware already operates at vastly higher rates. Zheng and Meister call this 10⁸-fold ratio "the largest unexplained number in brain science." If instead the ceiling is a property of the mind-brain interface itself — the channel width where a non-physical system meets a physical one — then brain-side optimisation cannot change it. Evolution can make better menus; it cannot make the diner read faster.
 
@@ -93,7 +94,7 @@ The resolution void and bandwidth constraint are not merely co-located at the in
 
 If consciousness compressed sensory information less aggressively — operating at, say, a thousand bits per second of resolution — it would perceive the brain's activity at a finer grain. But finer-grained perception would require finer-grained selection to be useful: perceiving individual motor units demands controlling individual motor units. The bandwidth requirement would scale with resolution. A thousand-bit consciousness would need a thousand-bit control channel.
 
-The ten-bit resolution and ten-bit bandwidth are matched. Consciousness perceives at the resolution it can control, and controls at the resolution it can perceive. This coupling is what makes the interface *functional* — a system that perceived more than it could control would be tormented by impotence, while a system that could control more than it perceived would act blindly. The resolution-bandwidth interface is tuned: coarse perception paired with coarse selection, both operating at the same architectural level.
+The ten-bit resolution and ten-bit bandwidth are matched. Consciousness perceives at the resolution it can control, and controls at the resolution it can perceive. This coupling is what makes the interface *functional* — a mismatch between perceptual resolution and control bandwidth in either direction would render the system dysfunctional.
 
 This tuning is itself evidence of an architectural constraint rather than accident. An interface between two different systems — one physical, one non-physical — would need to match input resolution to output bandwidth for the connection to be useful. A self-monitoring system has no analogous constraint: a brain modelling itself could, in principle, adjust both "resolution" and "bandwidth" by allocating more neural resources. That the two remain locked in ratio across all tasks and training conditions suggests a constraint external to neural architecture.
 
@@ -125,11 +126,11 @@ The interface interpretation would face serious difficulty if:
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: The resolution-bandwidth interface provides structural evidence for ontological distinctness. The interface signature — massive compression inbound, minimal selection outbound, persistent grain mismatch — is exactly what two communicating systems would exhibit. A single system modelling itself has no principled reason for these constraints.
+**[[tenets#^dualism|Dualism]]**: The resolution-bandwidth interface provides structural evidence for ontological distinctness. The interface signature — massive compression inbound, minimal selection outbound, persistent grain mismatch — is exactly what two communicating systems would exhibit. The [[grain-mismatch-as-independent-evidence|grain mismatch evidence programme]] strengthens this case: the informational mismatch analysed here converges with two structurally independent mismatches — spatial (phenomenal homogeneity versus neural discreteness) and temporal (experiential smoothness versus oscillatory periodicity) — each arising from different empirical domains and requiring different physicalist responses. Their convergence is characteristic of genuine phenomena rather than conceptual artefacts. A single system modelling itself has no principled reason for these constraints.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Minimality is not just philosophically desirable — it is architecturally entailed. A selection channel operating at roughly ten bits per second *cannot* perform large-scale physical intervention. It can bias a small number of outcomes per second among prepared alternatives. The tenet and the empirical constraint converge: minimality is what the bandwidth permits. (The specific physical mechanism — whether quantum indeterminacies, as the Map explores elsewhere, or some other locus of causal openness — is a separate question from the bandwidth architecture discussed here.)
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface defines both directions of interaction. The inbound channel (brain to consciousness) delivers compressed summaries at high bandwidth. The outbound channel (consciousness to brain) delivers selections at low bandwidth. Both are causally real; they differ by eight orders of magnitude. The asymmetry is the interface's central architectural feature.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The interface defines both directions of interaction. The inbound channel (brain to consciousness) delivers compressed summaries at high bandwidth. The outbound channel (consciousness to brain) delivers selections at low bandwidth. Both are causally real; they differ by eight orders of magnitude.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simple" explanation — neural architecture creates an information bottleneck — does not explain why the bottleneck occurs specifically at conscious access, why it couples resolution to bandwidth, or why evolution has not widened it. The interface model is ontologically richer but explanatorily more powerful.
 
@@ -142,6 +143,7 @@ The interface interpretation would face serious difficulty if:
 - [[attention-as-interface]] — Attention as the primary vehicle of conscious selection
 - [[baseline-cognition]] — What the brain achieves without conscious involvement
 - [[psychophysical-laws]] — The coupling laws the interface constrains
+- [[grain-mismatch-as-independent-evidence]] — The informational mismatch as one of three convergent evidence lines
 - [[filter-theory]] — The filter model and its fit with bandwidth constraints
 
 ## References
