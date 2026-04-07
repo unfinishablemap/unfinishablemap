@@ -4,8 +4,8 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-04-05T09:48:00+00:00
-last_deep_review: 2026-03-27T15:32:00+00:00
+ai_modified: 2026-04-07T13:39:00+00:00
+last_deep_review: 2026-04-07T13:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[consciousness-and-the-problem-of-induction]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
+  - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[tenets]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
@@ -80,13 +81,13 @@ The functionalist has a ready response: physical systems *can* track normative r
 
 The answer turns on the distinction between *implementing* a norm and *grasping* it. A theorem prover follows syntactic rules that, from an external perspective, correspond to logical validity—but the prover does not recognise the rules *as* valid, does not understand *why* the conclusion follows, and could not revise its inference patterns in response to discovering a new logical principle. Its reliability is designed in from outside, not understood from within. The self-stultification argument targets this gap: the physicalist who argues for physicalism does not merely *execute* a reliable inferential process—they claim to *understand why* the premises support the conclusion, to *grasp* the justificatory relationship between evidence and theory. If this grasping reduces to syntactic processing, then the physicalist's confidence that they hold their position for good reasons is illusory—they are, at best, a theorem prover that happens to output "physicalism is true" without understanding why.
 
-Wilfrid Sellars captured the underlying tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge this conceptual distinction—McDowell's *Mind and World* (1994), for instance, builds on it while remaining broadly naturalistic. The self-stultification move is not that physical systems *never* track norms—plainly some do in a functional sense—but that the specific kind of normative sensitivity required for *rational endorsement* (grasping why a conclusion follows, recognising the force of evidence, understanding justification as justification) cannot be cashed out in purely physical terms without eliminating what makes it rational rather than merely reliable. A belief produced entirely by causes that do not involve this grasping cannot count as rationally held, regardless of whether it happens to be true.
+Wilfrid Sellars captured the underlying tension: reasoning operates in the "space of reasons" (justification, entailment, norms), while physical causation operates in the "space of causes" (efficient causation, natural law). Even naturalists who reject Sellars' broader framework acknowledge this conceptual distinction—McDowell's *Mind and World* (1994), for instance, builds on it while remaining broadly naturalistic. The [[consciousness-and-the-normativity-of-reason|normativity of reason]] develops this gap further: logical norms are prescriptive, universal, and content-sensitive in ways that resist physical description. The self-stultification move is not that physical systems *never* track norms—plainly some do in a functional sense—but that the [[reasons-responsiveness|normative sensitivity]] required for *rational endorsement* (grasping why a conclusion follows, recognising the force of evidence, understanding justification as justification) cannot be cashed out in purely physical terms without eliminating what makes it rational rather than merely reliable. A belief produced entirely by causes that do not involve this grasping cannot count as rationally held, regardless of whether it happens to be true.
 
 The [[argument-from-reason#consciousness|consciousness connection]] makes this vivid: grasping that a conclusion *follows from* premises—seeing the logical necessity, not merely the statistical correlation—requires phenomenal awareness of reasons *as* reasons. The [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]] deepens the point: genuine [[intentionality]]—the *aboutness* of mental states—derives from phenomenal consciousness. Recognising that premises *entail* a conclusion is itself an intentional state directed at a logical relationship, and if intentionality requires phenomenal character, then tracking normative relationships cannot be a purely physical achievement. [[cognitive-phenomenology|Cognitive phenomenology]] provides the experiential evidence: understanding has irreducible phenomenal character beyond sensory accompaniments, and this character is what distinguishes genuine comprehension of *why* a conclusion follows from mere pattern-matching that it does.
 
 ### Eliminativism
 
-Eliminative materialism, in its strongest form, holds that beliefs, desires, and other propositional attitudes do not exist—folk psychology is a radically false theory destined for wholesale replacement by neuroscience, much as phlogiston was replaced by oxygen chemistry. Against this strong version, self-stultification is immediate: the eliminativist *believes* that beliefs don't exist, and the position eliminates itself along with its target.
+Eliminative materialism, in its strongest form, holds that beliefs, desires, and other propositional attitudes do not exist—folk psychology is a radically false theory destined for wholesale replacement by neuroscience. Against this strong version, self-stultification is immediate: the eliminativist *believes* that beliefs don't exist, and the position eliminates itself along with its target.
 
 Sophisticated eliminativists, however, do not typically defend this crude version. Paul Churchland's mature position is better characterised as holding that folk-psychological categories carve nature at the wrong joints—that "belief," "desire," and "intention" are as misleading as "impetus" or "vital force," and that a mature neuroscience will provide superior categories that track the actual causal structure of cognition. On this reading, it is not that *nothing* plays a belief-like functional role, but that the folk category "belief" misdescribes what is really going on, and the properties folk psychology attributes to beliefs (discrete propositional content, semantic compositionality, rational relations to other beliefs) may not survive the transition to better theory.
 
@@ -164,6 +165,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[concepts/epiphenomenalism]] — The position most directly defeated, including the AI exception
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
+- [[consciousness-and-the-normativity-of-reason]] — Why the normative dimension of reasoning resists physical description
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning about consciousness
 - [[phenomenal-authority-and-first-person-evidence]] — Whether introspective reports are causally connected to experiences
 - [[mental-causation-and-downward-causation|mental causation]] — The problem self-stultification helps resolve
