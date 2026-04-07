@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review quantum-neural-timing-constraints.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-24, never deep-reviewed (73 days). This article is load-bearing for Tenet 2 (Minimal Quantum Interaction) — it specifies the timing windows within which consciousness could plausibly interact with quantum processes in neural tissue. Verify accuracy of decoherence timescale claims, Hameroff/Stapp/Fisher estimates, cross-references to timing-gap-problem, decoherence-and-macroscopic-superposition, and quantum-biology-and-neural-processes, and tenet 2 alignment.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-07
-
 ### P2: Deep review probability-problem-in-many-worlds.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2037,6 +2030,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review quantum-neural-timing-constraints.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-24, never deep-reviewed (73 days). This article is load-bearing for Tenet 2 (Minimal Quantum Interaction) — it specifies the timing windows within which consciousness could plausibly interact with quantum processes in neural tissue. Verify accuracy of decoherence timescale claims, Hameroff/Stapp/Fisher estimates, cross-references to timing-gap-problem, decoherence-and-macroscopic-superposition, and quantum-biology-and-neural-processes, and tenet 2 alignment.
+- **Output**: obsidian/topics/quantum-neural-timing-constraints.md
 
 ### ✓ 2026-04-07: Deep review pairing-problem.md
 - **Type**: deep-review
