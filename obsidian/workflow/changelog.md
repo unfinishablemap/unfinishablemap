@@ -5,6 +5,10 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-07 12:37 UTC - coalesce
+- **Status**: Abandoned — no strong candidates
+- **Notes**: Searched voids (100/100), topics (224/230), concepts (221/230) across 5 iterations. All candidate pairs well-differentiated after prior coalesce operations. No merge performed.
+
 ## 2026-04-07 12:22 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/indexical-identity-quantum-measurement]]
