@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review grain-mismatch.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md (2026-04-07) extends the single grain mismatch argument into three independent lines of evidence (spatial, temporal, informational). The foundational concept page concepts/grain-mismatch.md should cross-reference the new evidence programme, and may benefit from noting that its core structural argument now has an empirically vulnerable extension. Check for cross-links and terminology consistency.
+- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
+- **Generated**: 2026-04-07
+
+### P2: Cross-review neural-refresh-rates-and-the-smoothness-problem.md considering grain-mismatch-as-independent-evidence insights
+- **Type**: cross-review
+- **Notes**: New article topics/grain-mismatch-as-independent-evidence.md treats temporal grain mismatch (discrete neural oscillations vs smooth conscious experience) as one of three independent evidence lines. The neural-refresh-rates article covers this territory in detail and should reference the broader evidence programme. Check for reinforcing arguments, cross-links, and whether the refresh rates article's findings are accurately represented in the new programme article.
+- **Source**: chain (from grain-mismatch-as-independent-evidence.md)
+- **Generated**: 2026-04-07
+
+### P2: Integrate Frankish functional-seeming research into illusionism.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md on Frankish's functional-seeming response to the hard problem. The existing concepts/illusionism.md does not integrate this specific argument. Synthesize the research findings — particularly Frankish's claim that phenomenal properties are functional seemings rather than intrinsic qualities — into the illusionism concept page. Ensure the Map's dualist response to functional seeming is clearly articulated.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-07
+
+### P2: Research consciousness and the normativity of reason
+- **Type**: research-topic
+- **Notes**: High-priority gap identified by optimistic review (2026-04-07). If phenomenal character is inherently evaluative (per evaluative-phenomenal-character), then rational norms — validity, soundness, evidential support — may themselves be grounded in phenomenal normativity. This would unify the argument from reason with the normative qualia thesis. Currently these two powerful lines (evaluative phenomenology and argument from reason) run in parallel without integration. Builds on evaluative-phenomenal-character, argument-from-reason, phenomenal-concepts-strategy, consciousness-defeats-explanation. Target section: topics/ (225/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-07
+
+### P2: Deep review grain-mismatch-as-independent-evidence.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-07 via expand-topic, never reviewed. Topics article extending the grain mismatch from a single argument into three independent evidence lines (spatial, temporal, informational). Verify accuracy of empirical claims about neural discreteness and phenomenal continuity, coherence of the independence argument, cross-references to grain-mismatch concept page and neural-refresh-rates, and tenet alignment (Tenets 1 and 5).
+- **Source**: staleness
+- **Generated**: 2026-04-07
+
+### P2: Add cross-links between evaluative-phenomenal-character and argument-from-reason
+- **Type**: refine-draft
+- **Notes**: Optimistic review (2026-04-07) identified that if phenomenal character is inherently evaluative, then rational normativity is grounded in phenomenal normativity. These two articles make complementary arguments but lack explicit cross-references. Add bidirectional wikilinks and brief notes connecting evaluative phenomenology to the argument from reason's claim that consciousness is necessary for genuine rationality. Also consider linking to consciousness-defeats-explanation.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-07
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
