@@ -9,6 +9,12 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-06 22:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [ai-consciousness](/topics/ai-consciousness/)
+- **Changes**: Added paragraph acknowledging functional character of temporal criteria, explaining their role as necessary-but-not-sufficient conditions for non-physical coupling; flagged Hoel (2025) preprint status in continual learning section
+- **Published**: yes
+
 ## 2026-04-06 22:25 UTC - deep-review
 - **Status**: Success
 - **File**: [episodic-memory](/concepts/episodic-memory/)
