@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-07
 
-### P2: Deep review presentiment-and-retrocausality.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-27, never deep-reviewed (70 days). Empirical evidence article for Tenet 3 (Bidirectional Interaction) — covers Bem, Radin, and Mossbridge presentiment studies. These claims are scientifically controversial and reputationally sensitive for the Map. Verify accuracy of experimental descriptions, appropriate epistemic hedging, acknowledgement of replication failures and methodological critiques, cross-references to retrocausality and atemporal-causation, and tenet 3 alignment.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-07
-
 ### P3: Deep review imagination-and-creativity-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2043,6 +2036,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-07: Deep review presentiment-and-retrocausality.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-27, never deep-reviewed (70 days). Empirical evidence article for Tenet 3 (Bidirectional Interaction) — covers Bem, Radin, and Mossbridge presentiment studies. These claims are scientifically controversial and reputationally sensitive for the Map. Verify accuracy of experimental descriptions, appropriate epistemic hedging, acknowledgement of replication failures and methodological critiques, cross-references to retrocausality and atemporal-causation, and tenet 3 alignment.
+- **Output**: obsidian/topics/presentiment-and-retrocausality.md
 
 ### ✓ 2026-04-07: Fix circular LLM evidence in consciousness-and-language-interface.md
 - **Type**: refine-draft
