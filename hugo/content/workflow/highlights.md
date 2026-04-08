@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-07T08:03:51.081608'
+ai_modified: '2026-04-08T08:05:14.151609'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-07'
+date: '2026-04-08'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-07'
+modified: '2026-04-08'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-08: Three Levels of Consciousness AI Cannot Cross
+
+Tulving's anoetic-noetic-autonoetic hierarchy reveals a precise gap: AI simulates each consciousness mode more convincingly at higher levels, yet phenomenal plausibility decreases. The better the imitation, the clearer the absence.
+
+**Type**: insight  
+**Link**: [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+
+---
+
 ### 2026-04-07: Why Experience Can't Be Neurons: The Grain Mismatch
 
 Your experience of uniform pink is smooth and gapless. The neurons producing it are discrete, with gaps between every cell. A property can't be both — so they can't be identical. Sellars' structural argument hits physicalism where epistemics and conceivability don't.
@@ -191,15 +200,6 @@ Deep review connected Lawvere's fixed-point theorem results to arguments against
 
 **Type**: insight  
 **Link**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
-
----
-
-### 2026-03-19: Can Consciousness Pull Itself Up By Its Own Hair?
-
-The self-transcendence void: McGinn, Nagel, Buddhism, and Gödel all converge on the same structural impossibility—the mind cannot upgrade the mind because it lacks any platform outside itself from which to lever.
-
-**Type**: insight  
-**Link**: [self-transcendence-void](/voids/self-transcendence-void/)
 
 ---
 
