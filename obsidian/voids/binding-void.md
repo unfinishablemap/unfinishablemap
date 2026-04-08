@@ -133,7 +133,7 @@ The binding void connects to the Map's [[tenets]] at multiple points and provide
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds its most intimate application. Binding may be the first instance of consciousness acting causally—structuring its own experience into a unified field. The binding void's occluded dimension suggests this primordial self-structuring is hidden because it is the foundation on which all other conscious activity rests.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through indexical identity. Phenomenal binding is not an abstract property but a concrete feature of *this* particular experience right now. The Map's rejection of many worlds insists that this concreteness matters—that the unity I experience is not one copy among infinitely many.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through [[indexical-knowledge-and-identity|indexical identity]]. Phenomenal binding is not an abstract property but a concrete feature of *this* particular experience right now. The Map's rejection of many worlds insists that this concreteness matters—that the unity I experience is not one copy among infinitely many.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is directly illustrated. The convergence on treating co-consciousness as primitive is a case study in Occam's Razor failing. The demand for a simpler explanation may be a demand the phenomenon cannot satisfy.
 

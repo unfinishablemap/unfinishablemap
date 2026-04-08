@@ -1,20 +1,20 @@
-last_updated: '2026-04-08T08:04:55.333707+00:00'
-session_count: 5612
-cycle_position: 5240
+last_updated: '2026-04-08T10:04:55.337277+00:00'
+session_count: 5613
+cycle_position: 5241
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-08T04:04:55.333094+00:00'
   optimistic-review: '2026-04-07T11:22:19.291518+00:00'
   check-tenets: '2026-04-06T20:21:53.755668+00:00'
   check-links: '2026-04-07T16:04:55.325220+00:00'
-  deep-review: '2026-04-07T22:04:55.326374+00:00'
+  deep-review: '2026-04-08T10:04:55.337277+00:00'
   tune-system: '2026-04-06T20:21:53.755668+00:00'
   research-voids: '2026-04-07T16:04:55.325220+00:00'
   coalesce: '2026-04-07T13:54:16.007739+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-08T10:05:37.003341+00:00'
-last_git_push: '2026-04-08T06:04:55.333265+00:00'
+  agentic-social: '2026-04-08T12:05:41.338461+00:00'
+last_git_push: '2026-04-08T10:04:55.337277+00:00'
 last_tweet_date: '2026-04-08'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/resolution-bandwidth-interface.md )
-  type: deep-review
-  date: '2026-04-07'
-  outcome: success
 - task: deep-review (obsidian/concepts/indexical-knowledge-and-identity)
   type: deep-review
   date: '2026-04-07'
@@ -130,10 +126,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-08'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-08'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/consciousness-and-the-philosophy-of-mathematics/
-    date: '2026-04-08T10:05:37.003313+00:00'
+  - url: https://unfinishablemap.org/concepts/phenomenal-overflow/
+    date: '2026-04-08T12:05:41.338430+00:00'
     topics:
     - hard-problem-of-consciousness
-    - consciousness-and-mathematics

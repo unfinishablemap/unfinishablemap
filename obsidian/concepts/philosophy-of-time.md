@@ -168,7 +168,7 @@ Alfred North Whitehead's process philosophy offers a complementary framework for
 
 **Creative advance as temporal becoming.** Whitehead's "creative advance"—the ongoing production of new actual occasions—*is* time's passage, not something occurring within time. This matches the framework's claim that consciousness doesn't experience time from within a pre-existing temporal structure but helps constitute that structure through collapse. A-theory's real temporal becoming gets a mechanism: concrescence through consciousness-involving collapse.
 
-**[[haecceity|Haecceity]] and indexical identity.** Each actual occasion has primitive thisness—it's *this* occasion rather than any other. This grounds the framework's emphasis on indexical identity (the [[tenets#^no-many-worlds|No Many Worlds]] tenet). *This* consciousness making *this* selection creates *this* temporal structure. The particularity matters because consciousness isn't a general property but specific occasions of experience.
+**[[haecceity|Haecceity]] and [[indexical-knowledge-and-identity|indexical identity]].** Each actual occasion has primitive thisness—it's *this* occasion rather than any other. This grounds the framework's emphasis on indexical identity (the [[tenets#^no-many-worlds|No Many Worlds]] tenet). *This* consciousness making *this* selection creates *this* temporal structure. The particularity matters because consciousness isn't a general property but specific occasions of experience.
 
 ## Temporal Phenomenology
 

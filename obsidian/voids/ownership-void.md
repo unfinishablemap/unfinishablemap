@@ -95,7 +95,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet connec
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet gains relevance because ownership is inherently indexical. *My* experiences are mine, not anyone else's, and not the experiences of a branching counterpart. Many-worlds generates countless subjects each with their own ownership, but cannot explain why *this* ownership feels singular rather than distributed. The ownership void is a void *for this subject*—its determinacy presupposes a determinate referent.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet gains relevance because ownership is inherently [[indexical-knowledge-and-identity|indexical]]. *My* experiences are mine, not anyone else's, and not the experiences of a branching counterpart. Many-worlds generates countless subjects each with their own ownership, but cannot explain why *this* ownership feels singular rather than distributed. The ownership void is a void *for this subject*—its determinacy presupposes a determinate referent.
 
 ### Occam's Razor Has Limits
 

@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-04-07T11:52:00+00:00
+ai_modified: 2026-04-08T12:05:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-04-07T11:52:00+00:00
+last_deep_review: 2026-04-08T12:05:00+00:00
 coalesced_from:
   - "/concepts/indexical-facts/"
   - "/concepts/indexical-knowledge/"
