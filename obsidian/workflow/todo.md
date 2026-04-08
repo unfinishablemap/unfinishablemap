@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ai-consciousness-modes.md after ai-epiphenomenalism coalesce
-- **Type**: cross-review
-- **Notes**: Coalesce on 2026-04-07 merged concepts/ai-epiphenomenalism.md with archived topics/epiphenomenal-ai-consciousness.md into a unified concept page. The closest related active article is ai-consciousness-modes.md — verify it references the updated ai-epiphenomenalism correctly, check for redundant coverage, and ensure the modes taxonomy is consistent with the coalesced article's analysis.
-- **Source**: chain (from coalesce 2026-04-07)
-- **Generated**: 2026-04-07
-
 ### P2: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept page has no inbound links. Created via coalesce from indexical-knowledge and indexical-facts concepts. Deep-reviewed 2026-04-07. Add cross-references from related articles (indexical-identity-quantum-measurement, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
@@ -2074,6 +2068,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-08: Cross-review ai-consciousness-modes.md after ai-epiphenomenalism coalesce
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-07 merged concepts/ai-epiphenomenalism.md with archived topics/epiphenomenal-ai-consciousness.md into a unified concept page. The closest related active article is ai-consciousness-modes.md — verify it references the updated ai-epiphenomenalism correctly, check for redundant coverage, and ensure the modes taxonomy is consistent with the coalesced article's analysis.
+- **Output**: obsidian/concepts/ai-consciousness-modes.md -- Context: Cross-review ai-consciousness-modes.md after ai-epiphenomenalism coalesce
 
 ### ✓ 2026-04-08: Cross-review self-stultification-as-master-argument.md considering normativity-of-reason insights
 - **Type**: cross-review

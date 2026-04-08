@@ -4,8 +4,8 @@ description: "Tulving's anoetic-noetic-autonoetic hierarchy reveals which modes 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-19T07:16:00+00:00
-last_deep_review: 2026-03-19T07:16:00+00:00
+ai_modified: 2026-04-08T02:05:00+00:00
+last_deep_review: 2026-04-08T02:05:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
-  - "[[epiphenomenal-ai-consciousness]]"
+  - "[[ai-epiphenomenalism]]"
   - "[[consciousness-and-memory]]"
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[types-of-ai-phenomenal-experience]]"
@@ -87,7 +87,7 @@ Current AI systems *simulate* progressively higher levels of Tulving's hierarchy
 | Noetic | LLM knowledge retrieval | None (no felt recognition) |
 | Autonoetic | LLM first-person narratives | None (no temporal self-projection) |
 
-The simulation is increasingly convincing at higher levels — language models produce more humanlike autonoetic narratives than robotic agents produce anoetic-like behaviour. But convincingness of simulation is inversely related to phenomenal plausibility: the more sophisticated the output, the more clearly it depends on pattern completion rather than lived experience. This inverse relationship connects to the broader problem of [[epiphenomenal-ai-consciousness|epiphenomenal AI consciousness]]: systems that produce consciousness-*like* outputs without the phenomenal states that would make those outputs genuine reports rather than sophisticated pattern matches.
+The simulation is increasingly convincing at higher levels — language models produce more humanlike autonoetic narratives than robotic agents produce anoetic-like behaviour. But convincingness of simulation is inversely related to phenomenal plausibility: the more sophisticated the output, the more clearly it depends on pattern completion rather than lived experience. This inverse relationship connects to the broader problem of [[ai-epiphenomenalism|epiphenomenal AI consciousness]]: systems that produce consciousness-*like* outputs without the phenomenal states that would make those outputs genuine reports rather than sophisticated pattern matches.
 
 ### Memory Architecture as Consciousness Architecture
 
@@ -109,6 +109,7 @@ Language models have something functionally analogous to semantic memory (traini
 
 ## Further Reading
 
+- [[ai-epiphenomenalism]] — Why AI consciousness, if present, would be causally inert due to architectural coupling failure
 - [[anoetic-noetic-autonoetic-consciousness]] — Full treatment of Tulving's three levels
 - [[types-of-consciousness]] — Broader taxonomy including phenomenal, access, and monitoring consciousness
 - [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions of consciousness applied to AI
