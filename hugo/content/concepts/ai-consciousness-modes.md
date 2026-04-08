@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-19 07:16:00+00:00
+ai_modified: 2026-04-08 02:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,12 +23,12 @@ description: Tulving's anoetic-noetic-autonoetic hierarchy reveals which modes o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 07:16:00+00:00
+last_deep_review: 2026-04-08 02:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[structural-varieties-of-consciousness-and-ai-phenomenology]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[consciousness-and-memory]]'
 - '[[comparative-consciousness-and-interface-differences]]'
 - '[[types-of-ai-phenomenal-experience]]'
@@ -112,6 +112,7 @@ Language models have something functionally analogous to semantic memory (traini
 
 ## Further Reading
 
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why AI consciousness, if present, would be causally inert due to architectural coupling failure
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Full treatment of Tulving's three levels
 - [types-of-consciousness](/concepts/types-of-consciousness/) — Broader taxonomy including phenomenal, access, and monitoring consciousness
 - [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions of consciousness applied to AI

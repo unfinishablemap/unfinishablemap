@@ -4,10 +4,28 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-07'
+date: '2026-04-08'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-08 02:05 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+- **Word count**: 1785 → 1805 (+20)
+- **Critical issues addressed**: 1 (broken links after ai-epiphenomenalism coalesce)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (ai-epiphenomenalism added to Further Reading)
+- **Output**: [deep-review-2026-04-08-ai-consciousness-modes](/reviews/deep-review-2026-04-08-ai-consciousness-modes/)
+
+## 2026-04-08 00:06 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 3000 → 3012 (+12)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (normative-force cross-link)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-08-self-stultification-as-master-argument](/reviews/deep-review-2026-04-08-self-stultification-as-master-argument/)
 
 ## 2026-04-07 22:05 UTC - deep-review
 - **Status**: Success

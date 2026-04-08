@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-07 13:39:00+00:00
+ai_modified: 2026-04-08 00:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Self-stultification defeats not just epiphenomenalism but every pos
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 13:39:00+00:00
+last_deep_review: 2026-04-08 00:06:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -34,6 +34,7 @@ related_articles:
 - '[[consciousness-and-the-problem-of-induction]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
+- '[[consciousness-and-normative-force]]'
 - '[[tenets]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 title: Self-Stultification as Master Argument
@@ -169,6 +170,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logical necessity requires conscious recognition
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the normative dimension of reasoning resists physical description
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — Why recognising rational authority as binding requires phenomenal consciousness
 - [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/) — Self-stultification applied to inductive reasoning about consciousness
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Whether introspective reports are causally connected to experiences
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem self-stultification helps resolve
