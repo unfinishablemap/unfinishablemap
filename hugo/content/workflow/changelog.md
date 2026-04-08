@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-08 10:05 UTC - deep-review
+- **Status**: Success
+- **File**: [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/)
+- **Word count**: 2693 → 2693 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article reached convergence after 3 review passes)
+- **Output**: [deep-review-2026-04-08-cetacean-and-corvid-consciousness](/reviews/deep-review-2026-04-08-cetacean-and-corvid-consciousness/)
+
+## 2026-04-08 08:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Changes**: Added three missing explanatory models (interventionist, mechanistic, computational/information-theoretic) to substantiate universal claim; updated opening and section framing; added three references
+- **Published**: yes
+
 ## 2026-04-08 06:05 UTC - refine-draft
 - **Status**: Success
 - **File**: [argument-from-reason](/topics/argument-from-reason/)
