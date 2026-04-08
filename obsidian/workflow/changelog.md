@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-08 06:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/argument-from-reason]]
+- **Changes**: Added argumentation for PIT (phenomenal intentionality thesis) where first introduced; flagged dependency explicitly at all three invocation points; acknowledged PIT is contested with three considerations favouring it
+- **Published**: yes
+
 ## 2026-04-08 04:05 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: argument-from-reason.md, consciousness-defeats-explanation.md, consciousness-and-the-authority-of-formal-systems.md

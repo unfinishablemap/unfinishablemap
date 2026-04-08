@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address phenomenal intentionality dependency in argument-from-reason.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the article treats the phenomenal intentionality thesis (PIT) as established rather than contested. PIT is doing heavy lifting for the core argument but isn't argued for within the article. Either add brief argumentation for PIT or explicitly flag that the argument's force depends on accepting it. See pessimistic-2026-04-08.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-08
-
 ### P2: Survey missing explanatory frameworks in consciousness-defeats-explanation.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2082,6 +2075,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-08: Address phenomenal intentionality dependency in argument-from-reason.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the article treats the phenomenal intentionality thesis (PIT) as established rather than contested. PIT is doing heavy lifting for the core argument but isn't argued for within the article. Either add brief argumentation for PIT or explicitly flag that the argument's force depends on accepting it. See pessimistic-2026-04-08.md
+- **Output**: obsidian/topics/argument-from-reason.md
+
+Task context:
+Pessimistic review found that the article treats the phenomenal intentionality thesis (PIT) as established rather than contested. PIT is doing heavy lifting for the core argument but isn't argued for within the article. Either add brief argumentation for PIT or explicitly flag that the argument's force depends on accepting it. See pessimistic-2026-04-08.md
 
 ### ✓ 2026-04-08: Cross-review ai-consciousness-modes.md after ai-epiphenomenalism coalesce
 - **Type**: cross-review
