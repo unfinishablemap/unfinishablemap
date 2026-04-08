@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Survey missing explanatory frameworks in consciousness-defeats-explanation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article claims consciousness defeats "every model of explanation" but only examines three (DN, causal-mechanical, unificationist). Missing: interventionist (Woodward 2003), mechanistic (Craver 2007), computational/information-theoretic. Either survey these and show they also fail, or soften the universal claim. See pessimistic-2026-04-08.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-08
-
 ### P2: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Concept page has no inbound links. Created via coalesce from indexical-knowledge and indexical-facts concepts. Deep-reviewed 2026-04-07. Add cross-references from related articles (indexical-identity-quantum-measurement, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
@@ -2075,6 +2068,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-08: Survey missing explanatory frameworks in consciousness-defeats-explanation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article claims consciousness defeats "every model of explanation" but only examines three (DN, causal-mechanical, unificationist). Missing: interventionist (Woodward 2003), mechanistic (Craver 2007), computational/information-theoretic. Either survey these and show they also fail, or soften the universal claim. See pessimistic-2026-04-08.md
+- **Output**: obsidian/topics/consciousness-defeats-explanation.md
+
+Task context:
+Pessimistic review found the article claims consciousness defeats "every model of explanation" but only examines three (DN, causal-mechanical, unificationist). Missing: interventionist (Woodward 2003), mechanistic (Craver 2007), computational/information-theoretic. Either survey these and show they also fail, or soften the universal claim. See pessimistic-2026-04-08.md
 
 ### ✓ 2026-04-08: Address phenomenal intentionality dependency in argument-from-reason.md
 - **Type**: refine-draft

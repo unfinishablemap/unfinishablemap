@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-08 08:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-defeats-explanation]]
+- **Changes**: Added three missing explanatory models (interventionist, mechanistic, computational/information-theoretic) to substantiate universal claim; updated opening and section framing; added three references
+- **Published**: yes
+
 ## 2026-04-08 06:05 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/argument-from-reason]]
