@@ -9,6 +9,17 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-08 06:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Changes**: Added argumentation for PIT (phenomenal intentionality thesis) where first introduced; flagged dependency explicitly at all three invocation points; acknowledged PIT is contested with three considerations favouring it
+- **Published**: yes
+
+## 2026-04-08 04:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: argument-from-reason.md, consciousness-defeats-explanation.md, consciousness-and-the-authority-of-formal-systems.md
+- **Output**: [pessimistic-2026-04-08](/reviews/pessimistic-2026-04-08/)
+
 ## 2026-04-08 02:05 UTC - deep-review
 - **Status**: Success
 - **File**: [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
