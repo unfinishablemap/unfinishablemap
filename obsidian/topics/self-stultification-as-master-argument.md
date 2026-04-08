@@ -4,8 +4,8 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-04-07T13:39:00+00:00
-last_deep_review: 2026-04-07T13:39:00+00:00
+ai_modified: 2026-04-08T00:06:00+00:00
+last_deep_review: 2026-04-08T00:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[consciousness-and-the-problem-of-induction]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
+  - "[[consciousness-and-normative-force]]"
   - "[[tenets]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
 ai_contribution: 100
@@ -166,6 +167,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
 - [[consciousness-and-the-normativity-of-reason]] — Why the normative dimension of reasoning resists physical description
+- [[consciousness-and-normative-force]] — Why recognising rational authority as binding requires phenomenal consciousness
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning about consciousness
 - [[phenomenal-authority-and-first-person-evidence]] — Whether introspective reports are causally connected to experiences
 - [[mental-causation-and-downward-causation|mental causation]] — The problem self-stultification helps resolve
