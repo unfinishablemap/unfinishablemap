@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-07 12:53:00+00:00
+ai_modified: 2026-04-09 08:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Why am I this consciousness and not another? The indexical void mar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 12:53:00+00:00
+last_deep_review: 2026-04-09 08:56:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,6 +32,7 @@ related_articles:
 - '[[boundary-void]]'
 - '[[identity-across-transformations]]'
 - '[[split-brain-consciousness]]'
+- '[[ownership-void]]'
 title: The Indexical Void
 topics:
 - '[[personal-identity]]'
@@ -51,6 +52,8 @@ Every attempt at answer defeats itself:
 **Physical explanation** (consciousness is individuated by brains) pushes the question back without resolving it. Why is *my* consciousness associated with *this* brain? Brains are physical objects individuated by spatiotemporal location—but consciousness, if non-physical, lacks spatial coordinates. What does the assigning?
 
 **Logical explanation** (consciousness is self-individuating) is circular. The "self" in "self-individuating" is exactly what needs explaining.
+
+**Ownership explanation** (consciousness belongs to whatever it experiences) reverses the order. The [ownership-void](/voids/ownership-void/) shows that the mechanism of appropriation—how experiences become *mine*—is itself structurally opaque. You cannot ground indexical identity in ownership when ownership presupposes the very identity in question.
 
 **Eliminative response** (there is no genuine indexical fact; the question is confused) requires denying that "I am this one" states something real. The Map's dualism holds that first-person facts are genuine.
 
@@ -130,6 +133,7 @@ The indexical void connects to the Map's [tenets](/tenets/) in a distinctive way
 - [plurality-void](/voids/plurality-void/) — The void around the multiplicity of conscious subjects
 - [identity-across-transformations](/apex/identity-across-transformations/) — How indexical identity persists through radical change
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Cases where division intensifies the indexical question
+- [ownership-void](/voids/ownership-void/) — Why experiences feel *mine*; ownership presupposes the indexical identity this void questions
 
 ## References
 

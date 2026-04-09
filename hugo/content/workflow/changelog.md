@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-09 08:56 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-void](/voids/indexical-void/)
+- **Word count**: 1620 → 1675 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (ownership-void cross-link gap)
+- **Enhancements made**: 2 (bidirectional cross-links between indexical-void and ownership-void)
+- **Output**: [deep-review-2026-04-09-indexical-void](/reviews/deep-review-2026-04-09-indexical-void/)
+
 ## 2026-04-09 07:56 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Representative sample across topics/ (225), concepts/ (222), tenets/ (1), with focused attention on recently deep-reviewed content, self-stultification programme, and cross-linking integrity

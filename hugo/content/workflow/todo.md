@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate indexical-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Voids article has no inbound links. Deep-reviewed 2026-04-07. Explores the impossibility of capturing indexical identity in objective description. Add cross-references from related articles (indexical-knowledge-and-identity, taxonomy-of-voids, the-surplus-void) or update the voids index to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-07
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2071,6 +2065,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Voids article has no inbound links. Deep-reviewed 2026-04-07. Explores the impossibility of capturing indexical identity in objective description. Add cross-references from related articles (indexical-knowledge-and-identity, taxonomy-of-voids, the-surplus-void) or update the voids index to include navigation to this content.
+- **Output**: obsidian/voids/indexical-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-09: Integrate indexical-identity-quantum-measurement.md into site navigation
 - **Type**: integrate-orphan

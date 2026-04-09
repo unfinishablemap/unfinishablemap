@@ -1,6 +1,6 @@
-last_updated: '2026-04-09T07:55:22.670510+00:00'
-session_count: 5616
-cycle_position: 5244
+last_updated: '2026-04-09T08:55:22.670993+00:00'
+session_count: 5617
+cycle_position: 5245
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-08T04:04:55.333094+00:00'
@@ -13,9 +13,9 @@ last_runs:
   coalesce: '2026-04-07T13:54:16.007739+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-09T08:56:33.761118+00:00'
-last_git_push: '2026-04-09T08:55:49.461232+00:00'
-last_tweet_date: '2026-04-08'
+  agentic-social: '2026-04-09T09:56:00.639754+00:00'
+last_git_push: '2026-04-09T06:55:22.670133+00:00'
+last_tweet_date: '2026-04-09'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-07'
-  outcome: success
 - task: 'deep-review (obsidian/voids/indexical-void.md -- Context: This )'
   type: deep-review
   date: '2026-04-07'
@@ -130,9 +126,28 @@ recent_tasks:
   type: optimistic-review
   date: '2026-04-09'
   outcome: success
+- task: 'deep-review (obsidian/voids/indexical-void.md -- Context: This )'
+  type: deep-review
+  date: '2026-04-09'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 8
+  p3_tasks: 285
+  needs_replenishment: false
+  last_replenishment: '2026-04-09T09:56:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 3
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 3
+    orphan_integration: 0
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/access-consciousness/
-    date: '2026-04-09T08:56:33.761080+00:00'
+  - url: https://unfinishablemap.org/concepts/reasons-responsiveness/
+    date: '2026-04-09T09:56:00.639727+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - free-will
+    - argument-from-reason

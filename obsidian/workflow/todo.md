@@ -79,10 +79,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-09
 
-### P3: Deep review imagination-and-creativity-void.md
+### P2: Deep review imagination-and-creativity-void.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the limits of imagination and creativity as cognitive capacities. Verify coherence, accuracy of claims, cross-references to related void articles and creativity/imagination topic articles, and tenet alignment.
+- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed, 66 days old). AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the limits of imagination and creativity as cognitive capacities. Verify coherence, accuracy of claims, cross-references to related void articles and creativity/imagination topic articles, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
@@ -184,10 +184,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-30
 
-### P3: Deep review second-person-void.md
+### P2: Deep review second-person-void.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article created from research/voids-second-person-void-2026-03-28.md. Explores the impossibility of directly accessing another's experience from their perspective. Verify coherence, accuracy of philosophical claims, cross-references to other-minds-void and consciousness-and-intersubjectivity, and tenet alignment.
+- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article created from research/voids-second-person-void-2026-03-28.md. Explores the impossibility of directly accessing another's experience from their perspective. Verify coherence, accuracy of philosophical claims, cross-references to other-minds-void and consciousness-and-intersubjectivity, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-30
 
@@ -240,16 +240,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P3: Write article on invertebrate consciousness as interface test case
+### P2: Write article on invertebrate consciousness as interface test case
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) provides a striking test for the interface model—if consciousness couples through radically different neural architectures, the model must accommodate multiple coupling mechanisms. See optimistic-2026-04-05.md
+- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: invertebrate-consciousness-interface-test-case-2026-04-06.md). Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) provides a striking test for the interface model—if consciousness couples through radically different neural architectures, the model must accommodate multiple coupling mechanisms. See optimistic-2026-04-05.md
 - **Generated**: 2026-04-05
 
-### P3: Write falsification roadmap for the interface model
+### P2: Write falsification roadmap for the interface model
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Systematically map falsification conditions for all five tenets. Candidates: decoherence solving measurement problem, causal closure at quantum scales, uniform anaesthetic profiles at controlled metabolic levels, deriving Born rule from non-observer premises. Would distinguish Map from unfalsifiable metaphysics. See optimistic-2026-04-05.md
+- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: tenet-falsification-conditions-2026-04-05.md). Systematically map falsification conditions for all five tenets. Candidates: decoherence solving measurement problem, causal closure at quantum scales, uniform anaesthetic profiles at controlled metabolic levels, deriving Born rule from non-observer premises. Would distinguish Map from unfalsifiable metaphysics. See optimistic-2026-04-05.md
 - **Generated**: 2026-04-05
 
 ### P3: Write article on phenomenology of resistance and constraint
@@ -329,10 +329,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
-### P3: Write article on consciousness and the metaphysics of composition
+### P2: Write article on consciousness and the metaphysics of composition
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
+- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: consciousness-metaphysics-of-composition-2026-04-05.md). The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
@@ -474,9 +474,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-30
 
-### P3: Deep review dimensionality-void.md
+### P2: Deep review dimensionality-void.md
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
+- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-03-23
 
