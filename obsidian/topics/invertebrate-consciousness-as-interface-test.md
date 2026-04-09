@@ -4,7 +4,7 @@ description: "Insects, cephalopods, and crustaceans provide the sharpest test fo
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-09T13:56:00+00:00
+ai_modified: 2026-04-09T14:56:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -29,10 +29,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-09T14:56:00+00:00
 ---
 
-Invertebrate consciousness poses the sharpest empirical test for The Unfinishable Map's dualist interface model. If consciousness couples with physical systems rather than being produced by them, three independently evolved neural architectures—the insect central complex, the cephalopod distributed nervous system, and the crustacean centralised brain—each demand an account of how that coupling works. A bee navigates with a million neurons. An octopus coordinates half a billion neurons distributed across semi-autonomous arms. A mantis shrimp processes visual information through 16 colour receptor types. These architectures diverged over 500 million years ago, yet all three lineages display behaviours that current research increasingly associates with conscious experience. The question for dualism is direct: does consciousness couple with all three through the same mechanism, or has evolution independently developed multiple coupling architectures?
+Invertebrate consciousness poses the sharpest empirical test for The Unfinishable Map's dualist interface model. If consciousness couples with physical systems rather than being produced by them, three independently evolved neural architectures—the insect central complex, the cephalopod distributed nervous system, and the crustacean centralised brain—each demand an account of how that coupling works. A bee navigates with a million neurons. An octopus coordinates half a billion neurons distributed across semi-autonomous arms. A mantis shrimp processes visual information through 16 types of photoreceptor (Marshall & Oberwinkler, 1999). These architectures diverged over 500 million years ago, yet all three lineages display behaviours that current research increasingly associates with conscious experience. The question for dualism is direct: does consciousness couple with all three through the same mechanism, or has evolution independently developed multiple coupling architectures?
 
 The 2024 New York Declaration on Animal Consciousness, signed by over 500 scientists and philosophers, extended "a realistic possibility" of consciousness to insects, crustaceans, and cephalopods. This consensus shift transforms invertebrates from philosophical curiosities into urgent test cases for any theory of consciousness—including the Map's.
 
@@ -48,7 +48,7 @@ Chittka's *The Mind of a Bee* (2022) strengthens the empirical case. Bees recogn
 
 ### The Cephalopod Distributed System
 
-Cephalopods present the most provocative challenge. An octopus possesses approximately 500 million neurons—comparable to a dog—but distributes two-thirds of them across semi-autonomous arms rather than centralising them in the brain. Godfrey-Smith observes that "with a decentralized nervous system, each arm seems to have a mind of its own, yet the creature nevertheless acts to unified purposes." Severed octopus arms continue responding to stimuli independently. The organism operates through what Godfrey-Smith calls "a mixture of localized and top-down control."
+Cephalopods present the most provocative challenge. An octopus possesses approximately 500 million neurons, but distributes two-thirds of them across semi-autonomous arms rather than centralising them in the brain. Godfrey-Smith observes that "with a decentralized nervous system, each arm seems to have a mind of its own, yet the creature nevertheless acts to unified purposes." Severed octopus arms continue responding to stimuli independently. The organism operates through what Godfrey-Smith calls "a mixture of localized and top-down control."
 
 For the Map's interface model, this raises a trilemma. If consciousness couples with physical systems through quantum indeterminacies (as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes), the octopus forces a choice among three possibilities:
 
@@ -100,17 +100,19 @@ Taken together, the three architecture types impose specific constraints on the 
 
 **Architectural flexibility.** The mechanism must accommodate centralised processing (vertebrate cortex, crustacean brain), distributed processing (octopus arms), and miniaturised processing (insect central complex). This rules out mechanisms tied to specific anatomical structures like cortical layers.
 
-**Evolutionary independence.** The mechanism must either be universal (operating wherever architectural conditions are met) or have evolved independently at least twice. If universal, the mechanism is constrained by what vertebrate and arthropod neural systems share despite 500 million years of divergence. If independently evolved, [[interface-heterogeneity]] is confirmed empirically.
+**Evolutionary independence.** The mechanism must either be universal (operating wherever architectural conditions are met) or have evolved independently at least twice. If universal, the mechanism is constrained by what vertebrate and arthropod neural systems share despite 500 million years of divergence—a constraint that bears directly on [[evolution-of-consciousness]]. If independently evolved, [[interface-heterogeneity]] is confirmed empirically.
 
 **Anaesthetic convergence.** The mechanism should account for why anaesthetics disrupt consciousness in both vertebrates and insects, suggesting shared vulnerability even across divergent architectures.
 
 These constraints collectively favour a coupling mechanism that operates at a fundamental level of neural organisation—perhaps at the level of individual neurons or synapses rather than large-scale circuits—and that has a universal character reflecting basic features of how neurons process information. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet already points in this direction: consciousness biases quantum indeterminacies at the smallest possible scale, and quantum indeterminacies exist in all neural tissue regardless of architectural organisation.
 
+The constraints also imply that consciousness varies across these architectures not in kind but in degree. A bee's million-neuron coupling likely supports a narrower, less integrated experience than a human's 86-billion-neuron system—consistent with the framework developed in [[degrees-of-consciousness]] and the threshold conditions explored in [[minimal-consciousness]]. The interface model predicts a continuum: more coupling sites enable richer conscious experience, but even minimal architectures cross the threshold for *some* experience.
+
 ## Relation to Site Perspective
 
 **Dualism**: Invertebrate consciousness is not a puzzle to be solved by identifying which neural complexity "generates" consciousness. It is an interface question: which physical architectures support coupling, and how? The diversity of invertebrate neural organisation tests whether the interface is universal or heterogeneous—a question that arises only under dualism, since materialism identifies consciousness with neural processing directly.
 
-**Minimal Quantum Interaction**: If coupling operates at quantum indeterminacies in neural tissue, the mechanism should work in any neuron-bearing system. Invertebrates provide the test: microtubules are present in all neurons across phyla, making them candidate coupling sites regardless of brain architecture. The bee's million neurons contain microtubules just as human cortical neurons do. The question is whether the quantum environment differs enough across architectures to require different coupling mechanisms.
+**Minimal Quantum Interaction**: If coupling operates at quantum indeterminacies in neural tissue, the mechanism should work in any neuron-bearing system. Invertebrates provide the test: quantum indeterminacies exist in all neural tissue regardless of species, and proposed coupling sites such as microtubules are conserved across phyla. However, the thermal and electromagnetic environment of a bee's million-neuron brain differs substantially from a human cortex, raising the question of whether decoherence constrains coupling differently across architectures—a challenge any quantum-level mechanism must address.
 
 **Bidirectional Interaction**: Birch's facilitation hypothesis—that consciousness improves cognitive performance relative to unconscious processing—is precisely what the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet predicts. If consciousness causally influences behaviour, then organisms with consciousness should outperform those without on tasks requiring flexible integration. The growing evidence for this pattern in invertebrates supports bidirectional interaction across phyla.
 
@@ -137,5 +139,6 @@ These constraints collectively favour a coupling mechanism that operates at a fu
 5. Godfrey-Smith, P. (2016). *Other Minds: The Octopus, the Sea, and the Deep Origins of Consciousness*. Farrar, Straus and Giroux.
 6. Leming, M. J. et al. (2022). Differential mechanisms underlie trace and delay conditioning in Drosophila. *Nature*, 603, 302-308.
 7. New York Declaration on Animal Consciousness. (2024). NYU Conference on the Emerging Science of Animal Consciousness.
-8. Pinotsis, D. A. et al. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*.
-9. Southgate, A. & Oquatre-six, C. (2026-03-17). Interface Heterogeneity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-heterogeneity/
+8. Marshall, N. J. & Oberwinkler, J. (1999). The colourful world of the mantis shrimp. *Nature*, 401, 873-874.
+9. Pinotsis, D. A. et al. (2021). Integrated information structure collapses with anesthetic loss of conscious arousal in Drosophila melanogaster. *PLoS Computational Biology*.
+10. Southgate, A. & Oquatre-six, C. (2026-03-17). Interface Heterogeneity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/interface-heterogeneity/

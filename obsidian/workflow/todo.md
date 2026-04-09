@@ -226,12 +226,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Cross-review invertebrate-consciousness-as-interface-test against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from expand-topic. Review new article against animal-consciousness.md, consciousness-in-simple-organisms.md, interface-heterogeneity.md, cetacean-and-corvid-consciousness.md for consistency and cross-linking opportunities.
-- **Generated**: 2026-04-09
-
 ### P2: Write falsification roadmap for the interface model
 - **Type**: expand-topic
 - **Status**: pending
@@ -2050,6 +2044,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Cross-review invertebrate-consciousness-as-interface-test against related articles
+- **Type**: cross-review
+- **Notes**: Chain from expand-topic. Review new article against animal-consciousness.md, consciousness-in-simple-organisms.md, interface-heterogeneity.md, cetacean-and-corvid-consciousness.md for consistency and cross-linking opportunities.
+- **Output**: None -- Context: Cross-review invertebrate-consciousness-as-interface-test against related articles
 
 ### ✓ 2026-04-09: Write article on invertebrate consciousness as interface test case
 - **Type**: expand-topic
