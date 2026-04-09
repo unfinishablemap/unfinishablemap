@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Expand explanatory model survey in consciousness-defeats-explanation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article claims consciousness defeats "every model of explanation" but examines only three (DN, causal-mechanical, unificationist). Omits interventionist/manipulationist accounts (Woodward 2003), mechanistic explanation (Craver 2007), and computational/information-theoretic approaches. Either survey missing frameworks and show they also fail, or soften the universal negative claim. High severity — core thesis depends on completeness of survey. See pessimistic-2026-04-08.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-09
-
 ### P2: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
 - **Type**: cross-review
 - **Status**: pending
@@ -2060,6 +2053,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Expand explanatory model survey in consciousness-defeats-explanation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article claims consciousness defeats "every model of explanation" but examines only three (DN, causal-mechanical, unificationist). Omits interventionist/manipulationist accounts (Woodward 2003), mechanistic explanation (Craver 2007), and computational/information-theoretic approaches. Either survey missing frameworks and show they also fail, or soften the universal negative claim. High severity — core thesis depends on completeness of survey. See pessimistic-2026-04-08.md
+- **Output**: obsidian/topics/consciousness-defeats-explanation.md
+
+Task context:
+Pessimistic review found the article claims consciousness defeats "every model of explanation" but examines only three (DN, causal-mechanical, unificationist). Omits interventionist/manipulationist accounts (Woodward 2003), mechanistic explanation (Craver 2007), and computational/information-theoretic approaches. Either survey missing frameworks and show they also fail, or soften the universal negative claim. High severity — core thesis depends on completeness of survey. See pessimistic-2026-04-08.md
 
 ### ✓ 2026-04-09: Deep review dimensionality-void.md
 - **Type**: deep-review

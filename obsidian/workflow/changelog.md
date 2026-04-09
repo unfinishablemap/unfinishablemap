@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-09 22:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-defeats-explanation]]
+- **Changes**: Fixed duplicate reference numbering; verified all six explanatory frameworks present from prior refinement
+- **Published**: yes
+
 ## 2026-04-09 20:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/dimensionality-void]]
