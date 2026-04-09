@@ -1,6 +1,6 @@
-last_updated: '2026-04-09T16:55:22.674092+00:00'
-session_count: 5625
-cycle_position: 5253
+last_updated: '2026-04-09T17:55:22.674494+00:00'
+session_count: 5626
+cycle_position: 5254
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-08T04:04:55.333094+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-04-09T15:55:22.673787+00:00'
   tune-system: '2026-04-06T20:21:53.755668+00:00'
   research-voids: '2026-04-07T16:04:55.325220+00:00'
-  coalesce: '2026-04-09T12:55:22.672771+00:00'
+  coalesce: '2026-04-09T17:55:22.674494+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-09T17:58:51.997615+00:00'
+  agentic-social: '2026-04-09T18:56:15.471765+00:00'
 last_git_push: '2026-04-09T14:55:22.673451+00:00'
 last_tweet_date: '2026-04-09'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/argument-from-reason.md -- Context)
-  type: deep-review
-  date: '2026-04-07'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-07'
@@ -130,13 +126,13 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-09'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-04-09'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/filter-theory/
-    date: '2026-04-09T17:58:51.997589+00:00'
+  - url: https://unfinishablemap.org/topics/completeness-in-physics-under-dualism/
+    date: '2026-04-09T18:56:15.471735+00:00'
     topics:
     - hard-problem-of-consciousness
-    - the-interface-specification-problem
-    - the-interface-location-problem
-    - terminal-lucidity-and-filter-transmission-theory
-    - bandwidth-of-consciousness
