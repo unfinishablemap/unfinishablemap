@@ -71,6 +71,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-07
 
+### P3: Create concept page for domestication effect
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The insight that explanatory satisfaction is produced by familiarity, not comprehension — used in emergence-as-universal-hard-problem and consciousness-defeats-explanation but lacking an anchor page. A meta-philosophical tool explaining why physicalism *seems* to gain ground without closing the gap. Target section: concepts/ (222/230). See optimistic-2026-04-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-09
+
+### P3: Write article on the snap-back pattern as interface evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The recovery pattern observed in dissociation, anaesthesia recovery, psychedelic return, and sleep-wake transitions — full function returning immediately upon reconnection — is referenced across multiple articles but not systematically collected. A dedicated treatment would strengthen the interface model. Builds on clinical-dissociation-as-systematic-evidence, filter-theory, altered-states-of-consciousness. Target section: topics/ (225/230). See optimistic-2026-04-09.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-09
+
 ### P3: Deep review imagination-and-creativity-void.md
 - **Type**: deep-review
 - **Status**: pending

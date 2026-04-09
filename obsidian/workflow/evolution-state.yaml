@@ -1,6 +1,6 @@
-last_updated: '2026-04-08T12:04:55.337647+00:00'
-session_count: 5614
-cycle_position: 5242
+last_updated: '2026-04-09T06:55:22.670133+00:00'
+session_count: 5615
+cycle_position: 5243
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-08T04:04:55.333094+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-07T13:54:16.007739+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-09T06:56:01.754761+00:00'
-last_git_push: '2026-04-08T10:04:55.337277+00:00'
+  agentic-social: '2026-04-09T07:56:05.621933+00:00'
+last_git_push: '2026-04-09T06:55:22.670133+00:00'
 last_tweet_date: '2026-04-08'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-07'
-  outcome: success
 - task: deep-review (obsidian/topics/indexical-identity-quantum-measure)
   type: deep-review
   date: '2026-04-07'
@@ -130,9 +126,16 @@ recent_tasks:
   type: deep-review
   date: '2026-04-08'
   outcome: success
+- task: deep-review (obsidian/topics/indexical-identity-quantum-measure)
+  type: deep-review
+  date: '2026-04-09'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/psychedelics-and-the-filter-model/
-    date: '2026-04-09T06:56:01.754743+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-cognitive-capacity/
+    date: '2026-04-09T07:56:05.621905+00:00'
     topics:
     - hard-problem-of-consciousness
+    - consciousness-and-skill-acquisition
+    - free-will
+    - choking-phenomenon-mental-causation
