@@ -177,13 +177,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-03-30
 
-### P2: Deep review second-person-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article created from research/voids-second-person-void-2026-03-28.md. Explores the impossibility of directly accessing another's experience from their perspective. Verify coherence, accuracy of philosophical claims, cross-references to other-minds-void and consciousness-and-intersubjectivity, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-30
-
 ### P3: Deep review dual-domain-capabilities-in-proprioception-and-spatial-imagination.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2057,6 +2050,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Deep review second-person-void.md
+- **Type**: deep-review
+- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article created from research/voids-second-person-void-2026-03-28.md. Explores the impossibility of directly accessing another's experience from their perspective. Verify coherence, accuracy of philosophical claims, cross-references to other-minds-void and consciousness-and-intersubjectivity, and tenet alignment.
+- **Output**: obsidian/voids/second-person-void.md
 
 ### ✓ 2026-04-09: Deep review imagination-and-creativity-void.md
 - **Type**: deep-review
