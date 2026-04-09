@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-09T16:56:00+00:00
+ai_modified: 2026-04-09T22:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-09T22:56:00+00:00
 ---
 
 The Unfinishable Map claims consciousness is irreducible, causally efficacious, and operates through quantum indeterminacies. Critics ask: what would change your mind? If nothing could, the framework is unfalsifiable metaphysics rather than honest philosophy. This article answers the question directly, mapping falsification conditions for each of the five [[tenets]] and identifying which conditions are experimentally accessible, which remain out of reach, and which the Map shares with every theory of consciousness.
@@ -47,7 +47,7 @@ The Map should not hide behind this structural problem. That everyone faces the 
 
 **What would falsify it**: A complete, verified physical explanation of subjective experience that closes the explanatory gap—not merely identifying neural correlates (which dualism already expects) but demonstrating that physical description *entails* phenomenal experience. This would require resolving the [[hard-problem-of-consciousness|hard problem]] from the physicalist side: showing why and how certain physical configurations necessarily produce specific experiences.
 
-A principled resolution of the knowledge argument (Mary's Room) showing that phenomenal knowledge is physical knowledge in a rigorous sense would constitute strong evidence. So would demonstrating that [[philosophical-zombies|conceivability arguments]] fail because consciousness is logically entailed by physical structure.
+A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's Room) showing that phenomenal knowledge is physical knowledge in a rigorous sense would constitute strong evidence. So would demonstrating that [[philosophical-zombies|conceivability arguments]] fail because consciousness is logically entailed by physical structure.
 
 **What would not count**: Finding more neural correlates of consciousness, demonstrating that brain damage affects consciousness, or showing that anaesthesia eliminates experience. Dualism already expects all of these through the interaction interface. A common error is treating evidence of mind-brain *correlation* as evidence of mind-brain *identity*—but correlation is precisely what interactionist dualism predicts.
 
@@ -65,7 +65,7 @@ A principled resolution of the knowledge argument (Mary's Room) showing that phe
 
 *Moderate*: Falsification of all proposed mechanism candidates (Orch OR, Stapp's quantum Zeno model, and any future proposals) leaving no viable mechanism for quantum-level mind-matter interaction.
 
-**Current experimental status**: This is the Map's most empirically tractable tenet. Hameroff (2020) argues Orch OR is "the most complete, and most easily falsifiable theory of consciousness," with 20 testable predictions published in 1998—six confirmed, zero refuted as of a 2014 review. The Gran Sasso experiment (Donadi et al., 2021) rules out the simplest form of the Diosi-Penrose collapse model but not Penrose's original proposal. The 2025 experimental blueprint for distinguishing decoherence from objective collapse using levitated nanoparticles (arXiv:2512.02838) offers a near-term path to testing whether collapse is real.
+**Current experimental status**: This is the Map's most empirically tractable tenet. Hameroff (2020) argues Orch OR is "the most complete, and most easily falsifiable theory of consciousness," with 20 testable predictions published in 1998—six confirmed and zero refuted as of a 2014 review by the theory's proponents (Hameroff & Penrose, 2014). Independent assessment of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) rules out the simplest form of the Diosi-Penrose collapse model but not Penrose's original proposal. The 2025 experimental blueprint for distinguishing decoherence from objective collapse using levitated nanoparticles (arXiv:2512.02838) offers a near-term path to testing whether collapse is real.
 
 **Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature that could be mistaken for evasiveness. The Map should acknowledge that falsifying Orch OR would not falsify the tenet, while specifying that falsifying *all* quantum biology in neural systems would.
 
@@ -75,7 +75,7 @@ A principled resolution of the knowledge argument (Mary's Room) showing that phe
 
 **What would falsify it**:
 
-*Decisive*: Proof that the physical world is strictly causally closed at all levels, including quantum—that there is no room for non-physical influence on any physical outcome. This would require establishing [[causal-closure|causal closure]] not as an assumption but as an empirically confirmed fact at quantum scales, where physics currently leaves outcomes indeterminate.
+*Decisive*: Proof that the physical world is strictly causally closed at all levels, including quantum—that there is no room for non-physical influence on any physical outcome. This would require establishing [[causal-closure|causal closure]] not as an assumption but as an empirically confirmed fact at quantum scales, where physics currently leaves outcomes indeterminate. Note that causal closure is currently a methodological assumption of physics, not an established result—quantum mechanics explicitly leaves measurement outcomes undetermined.
 
 *Strong*: Demonstration that all human cognitive capacities attributed to consciousness—logical reasoning, counterfactual thinking, cumulative culture—can be replicated by unconscious processing alone. If consciousness does no functional work, the argument from its causal efficacy collapses. The [[consciousness-independent-baseline-cognition|baseline cognition hypothesis]] currently provides evidence against this: great apes demonstrate sophisticated cognition without the capacities that seem to require conscious processing.
 
@@ -83,7 +83,7 @@ A principled resolution of the knowledge argument (Mary's Room) showing that phe
 
 **The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as viable within physics. This is not special pleading; it is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
 
-**Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support. If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position is epistemically self-defeating. Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing is extremely difficult.
+**Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support. If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position is epistemically [[concepts/epiphenomenalism|self-defeating]]. Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing is extremely difficult.
 
 ## Tenet 4: No Many Worlds
 
@@ -93,17 +93,17 @@ A principled resolution of the knowledge argument (Mary's Room) showing that phe
 
 *Decisive*: Experimental demonstration of quantum interference between macroscopic branches—Deutsch's 1985 Wigner's friend variant. If all branches demonstrably persist and interfere, collapse is not real and MWI is confirmed.
 
-*Strong*: Ruling out all objective collapse models, leaving MWI as the only viable interpretation. The Gran Sasso experiment constrains one specific collapse model; ruling out *all* collapse models would constitute strong pressure.
+*Strong*: Ruling out all objective collapse models (including [[spontaneous-collapse-theories|spontaneous collapse theories]]), leaving MWI as the only viable interpretation. The Gran Sasso experiment constrains one specific collapse model; ruling out *all* collapse models would constitute strong pressure.
 
 **What would support the tenet**: Experimental confirmation of objective collapse through any mechanism. The levitated-optomechanical experiments proposed in 2025 could distinguish decoherence (compatible with MWI) from genuine collapse (incompatible with MWI) by detecting collapse-induced excess decoherence beyond environmental noise baselines. See [[testing-consciousness-collapse]] for the three-tier experimental programme.
 
-**Honest assessment**: MWI and collapse interpretations make identical predictions for all currently feasible experiments. The Map's rejection of MWI is motivated primarily by philosophical concerns—indexical identity, ontological profligacy—rather than empirical evidence. This is a legitimate philosophical stance but should not be presented as empirically testable in the near term. The collapse-vs-no-collapse question may become experimentally accessible within decades as quantum technology advances, and the Map should watch these developments closely.
+**Honest assessment**: MWI and collapse interpretations make identical predictions for all currently feasible experiments. The Map's rejection of MWI is motivated primarily by philosophical concerns—indexical identity, ontological profligacy—rather than empirical evidence (see [[many-worlds-argument]] for the full cumulative case). This is a legitimate philosophical stance but should not be presented as empirically testable in the near term. The collapse-vs-no-collapse question may become experimentally accessible within decades as quantum technology advances, and the Map should watch these developments closely.
 
 ## Tenet 5: Occam's Razor Has Limits
 
 **Claim**: Simplicity is not a reliable guide to truth when knowledge is incomplete.
 
-**What would falsify it**: A rigorous proof that parsimony reliably tracks truth across domains—that simpler theories are more likely correct not merely as a methodological heuristic but as a metaphysical fact. This would require establishing a deep connection between simplicity and reality that no philosopher has demonstrated.
+**What would falsify it**: A rigorous proof that parsimony reliably tracks truth across domains—that simpler theories are more likely correct not merely as a methodological heuristic but as a metaphysical fact. This would require establishing a deep connection between simplicity and reality that no philosopher has demonstrated. See [[parsimony-epistemology]] for the Map's detailed treatment of why this connection fails.
 
 **Honest assessment**: This is not a scientific claim. It is an epistemological position about scientific methodology itself, supported by cumulative historical evidence (heliocentrism initially required more epicycles; atomic theory posited invisible entities; quantum mechanics replaced deterministic simplicity). The tenet removes a common objection to the other four tenets rather than making a testable prediction. The Map should present it as what it is: a well-evidenced philosophical thesis that parsimony lacks universal epistemic warrant, not a hypothesis awaiting experimental confirmation.
 

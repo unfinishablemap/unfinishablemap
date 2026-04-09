@@ -1,6 +1,6 @@
-last_updated: '2026-04-09T20:55:22.675542+00:00'
-session_count: 5629
-cycle_position: 5257
+last_updated: '2026-04-09T21:55:22.676058+00:00'
+session_count: 5630
+cycle_position: 5258
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-08T04:04:55.333094+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-09T17:55:22.674494+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-09T21:56:04.629923+00:00'
+  agentic-social: '2026-04-09T22:56:12.053124+00:00'
 last_git_push: '2026-04-09T18:55:22.674745+00:00'
 last_tweet_date: '2026-04-09'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-04-08'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/argument-from-reason.md
 
 
@@ -130,22 +126,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-09'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 4
-  p3_tasks: 285
-  needs_replenishment: false
-  last_replenishment: '2026-04-09T21:56:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    pessimistic-review: 2
-    length_analysis: 1
+- task: refine-draft (obsidian/topics/consciousness-defeats-explanation.)
+  type: refine-draft
+  date: '2026-04-09'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/consciousness-and-agency/
-    date: '2026-04-09T21:56:04.629896+00:00'
+  - url: https://unfinishablemap.org/concepts/causal-delegation/
+    date: '2026-04-09T22:56:12.053095+00:00'
     topics:
-    - free-will
-    - argument-from-reason
-    - time-collapse-and-agency
+    - hard-problem-of-consciousness

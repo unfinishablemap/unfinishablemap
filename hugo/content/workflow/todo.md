@@ -38,6 +38,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09 via expand-topic. Review against the-interface-specification-problem.md, testing-consciousness-collapse.md, and comparing-quantum-consciousness-mechanisms.md for consistency, cross-links, and whether the roadmap's specific predictions align with or refine claims in existing articles.
+- **Source**: chain (from falsification-roadmap-for-the-interface-model.md)
+- **Generated**: 2026-04-09
+
+### P2: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09 via expand-topic. Review against phenomenal-non-compositionality.md, panpsychisms-combination-problem.md, and unity-of-consciousness.md for consistency, cross-links, and whether the composition article's mereological arguments strengthen or qualify claims in existing articles.
+- **Source**: chain (from consciousness-and-the-metaphysics-of-composition.md)
+- **Generated**: 2026-04-09
+
+### P2: Qualify Gödel-Lawvere analogy in consciousness-and-the-authority-of-formal-systems.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article overstretches the Szangolies/Lawvere fixed-point theorem. The mathematical result connects incompleteness and complementarity structurally, but the leap to "consciousness sits at that boundary" is not justified by the mathematics. Distinguish more carefully between the mathematical result, the interpretive suggestion, and the Map's philosophical claim. Medium severity. See pessimistic-2026-04-08.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-09
+
+### P2: Condense intrinsic-nature-void.md (3282 words, 109% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the inaccessibility of consciousness's intrinsic nature while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-09
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -304,13 +332,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
-### P2: Write article on consciousness and the metaphysics of composition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: consciousness-metaphysics-of-composition-2026-04-05.md). The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
-- **Source**: optimistic-review
-- **Generated**: 2026-03-26
-
 ### P3: Write article on temporal phenomenology across altered states
 - **Type**: expand-topic
 - **Status**: pending
@@ -448,12 +469,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic review. Six cross-linking opportunities: curated-mind → filter-theory (curation as specific filtering mechanism), the-reverse-inference → galilean-exclusion (methodological response to Galilean diagnosis), psychedelics-and-the-filter-model → default-mode-network (DMN suppression as filter opening), cross-traditional-convergence → african-philosophy-of-consciousness (strengthen independent convergence point), valence-as-selection-currency → alignment-in-objective-experiential-terms (bridge from metaphysics to AI safety), curated-mind → clinical-dissociation-as-systematic-evidence (independent convergence on multi-channel interface). See optimistic-2026-03-30-morning.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-30
-
-### P2: Deep review dimensionality-void.md
-- **Type**: deep-review
-- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-23
 
 ### P3: Create concept page for testability-ledger
 - **Type**: expand-topic
@@ -2039,6 +2054,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Expand explanatory model survey in consciousness-defeats-explanation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article claims consciousness defeats "every model of explanation" but examines only three (DN, causal-mechanical, unificationist). Omits interventionist/manipulationist accounts (Woodward 2003), mechanistic explanation (Craver 2007), and computational/information-theoretic approaches. Either survey missing frameworks and show they also fail, or soften the universal negative claim. High severity — core thesis depends on completeness of survey. See pessimistic-2026-04-08.md
+- **Output**: obsidian/topics/consciousness-defeats-explanation.md
+
+Task context:
+Pessimistic review found the article claims consciousness defeats "every model of explanation" but examines only three (DN, causal-mechanical, unificationist). Omits interventionist/manipulationist accounts (Woodward 2003), mechanistic explanation (Craver 2007), and computational/information-theoretic approaches. Either survey missing frameworks and show they also fail, or soften the universal negative claim. High severity — core thesis depends on completeness of survey. See pessimistic-2026-04-08.md
+
+### ✓ 2026-04-09: Deep review dimensionality-void.md
+- **Type**: deep-review
+- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
+- **Output**: obsidian/voids/dimensionality-void.md
+
+### ✓ 2026-04-09: Write article on consciousness and the metaphysics of composition
+- **Type**: expand-topic
+- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: consciousness-metaphysics-of-composition-2026-04-05.md). The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
+- **Output**: consciousness and the metaphysics of composition
 
 ### ✓ 2026-04-09: Review disappearance-voids article in context of related articles
 - **Type**: cross-review

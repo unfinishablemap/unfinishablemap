@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-04-08 08:06:00+00:00
+ai_modified: 2026-04-09 22:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -198,32 +198,30 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 2. Chalmers, D. J. (2018). "The Meta-Problem of Consciousness." *Journal of Consciousness Studies*, 25(9-10), 6-61.
 3. Craver, C. F. (2007). *Explaining the Brain: Mechanisms and the Mosaic Unity of Neuroscience*. Oxford University Press.
 4. de Regt, H. W. (2017). *Understanding Scientific Understanding*. Oxford University Press.
-4. Hempel, C. G. (1965). "Aspects of Scientific Explanation." In *Aspects of Scientific Explanation and Other Essays*. Free Press.
-5. Kitcher, P. (1989). "Explanatory Unification and the Causal Structure of the World." In P. Kitcher & W. Salmon (eds.), *Scientific Explanation*. University of Minnesota Press.
-6. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-7. Kuhn, T. S. (1977). "Objectivity, Value Judgment, and Theory Choice." In *The Essential Tension*. University of Chicago Press.
-8. Leibniz, G.W. (1714). *Monadology*, §17.
-9. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
-10. Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
-11. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-12. McMullin, E. (2008). "The Virtues of a Good Theory." In S. Psillos & M. Curd (eds.), *The Routledge Companion to Philosophy of Science*. Routledge.
-13. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
-14. Rozenblit, L. & Keil, F. C. (2002). "The Misunderstood Limits of Folk Science: An Illusion of Explanatory Depth." *Cognitive Science*, 26(5), 521-562.
-15. Salmon, W. C. (1984). *Scientific Explanation and the Causal Structure of the World*. Princeton University Press.
-16. Tononi, G. (2004). "An Information Integration Theory of Consciousness." *BMC Neuroscience*, 5, 42.
-17. Trout, J. D. (2007). "The Psychology of Scientific Explanation." *Philosophy Compass*, 2(3), 564-591.
-18. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
-19. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
+5. Hempel, C. G. (1965). "Aspects of Scientific Explanation." In *Aspects of Scientific Explanation and Other Essays*. Free Press.
+6. Kitcher, P. (1989). "Explanatory Unification and the Causal Structure of the World." In P. Kitcher & W. Salmon (eds.), *Scientific Explanation*. University of Minnesota Press.
+7. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+8. Kuhn, T. S. (1977). "Objectivity, Value Judgment, and Theory Choice." In *The Essential Tension*. University of Chicago Press.
+9. Leibniz, G.W. (1714). *Monadology*, §17.
+10. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354-361.
+11. Lipton, P. (2004). *Inference to the Best Explanation*. 2nd ed. Routledge.
+12. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
+13. McMullin, E. (2008). "The Virtues of a Good Theory." In S. Psillos & M. Curd (eds.), *The Routledge Companion to Philosophy of Science*. Routledge.
+14. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435-450.
+15. Rozenblit, L. & Keil, F. C. (2002). "The Misunderstood Limits of Folk Science: An Illusion of Explanatory Depth." *Cognitive Science*, 26(5), 521-562.
+16. Salmon, W. C. (1984). *Scientific Explanation and the Causal Structure of the World*. Princeton University Press.
+17. Tononi, G. (2004). "An Information Integration Theory of Consciousness." *BMC Neuroscience*, 5, 42.
+18. Trout, J. D. (2007). "The Psychology of Scientific Explanation." *Philosophy Compass*, 2(3), 564-591.
+19. van Fraassen, B. C. (1980). *The Scientific Image*. Oxford University Press.
+20. Woodward, J. (2003). *Making Things Happen: A Theory of Causal Explanation*. Oxford University Press.
 
-<!-- AI REFINEMENT LOG - 2026-04-08
+<!-- AI REFINEMENT LOG - 2026-04-09
 Changes made:
-- Added three missing models of explanation: interventionist (Woodward 2003), mechanistic (Craver 2007), computational/information-theoretic (Tononi 2004)
-- Updated opening paragraph to enumerate all six frameworks explicitly
-- Updated section framing from "three major accounts" to "several major accounts"
-- Added three new references (Craver, Tononi, Woodward)
-- Updated description to reference six models
+- Fixed duplicate reference numbering (two entries labeled "4." after 2026-04-08 additions)
+- Verified all six explanatory frameworks (DN, causal-mechanical, unificationist, interventionist, mechanistic, computational/information-theoretic) are present and well-argued
+- Confirmed pessimistic review issue (universal claim supported by only three frameworks) was already resolved in 2026-04-08 refinement
 
-Triggered by pessimistic review finding that universal claim ("every model of explanation") was substantiated by only three frameworks. Now covers six major accounts.
+Prior refinement (2026-04-08): Added interventionist (Woodward 2003), mechanistic (Craver 2007), and computational/information-theoretic (Tononi 2004) frameworks. Updated opening paragraph and description.
 
 This log should be removed after human review.
 -->

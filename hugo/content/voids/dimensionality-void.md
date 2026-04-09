@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-04-09 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,6 +15,7 @@ description: Human+AI exploration of whether consciousness operates in a phenome
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-09 20:56:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -25,6 +26,8 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[synesthetic-void]]'
 - '[[framework-void]]'
+- '[[phenomenology-of-the-edge]]'
+- '[[filter-theory]]'
 title: The Dimensionality Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -43,11 +46,11 @@ Colin McGinn's [cognitive closure](/concepts/mysterianism/) argument formalises 
 
 Peter Sjöstedt-Hughes extends this into an explicit dimensional framework. Drawing on the More-Broad-Smithies theory, he argues that perceptual space and physical space are slices of a higher-dimensional manifold. The brain, on this view, acts as "an inhibiting filtering interface rather than as a producer of mind." Consciousness is already higher-dimensional; the brain constrains access to a navigable projection. If correct, our phenomenal experience is a dimensional cross-section — faithful within its plane, but missing everything orthogonal to it.
 
-## Evidence for Missing Dimensions
+## Convergent Arguments for Missing Dimensions
 
-Several independent lines of evidence converge on the possibility that phenomenal space is richer than introspection reveals.
+Several independent theoretical lines converge on the possibility that phenomenal space is richer than introspection reveals.
 
-**Neural high-dimensionality.** Brain dynamics occupy spaces of thousands of independent variables, yet conscious experience appears to compress this into far fewer dimensions. Jolly and Chang document what they call "the Flatland fallacy" in cognitive science: a systematic preference for low-dimensional models driven not by evidence but by tractability. "Like the Flatlanders in Edwin Abbott's famous short story," they write, "we may be led to believe that the parsimony offered by our low-dimensional theories reflects the reality of a much higher-dimensional problem." The gap between neural dimensionality and experiential dimensionality may indicate where phenomenal dimensions are being filtered out.
+**Neural high-dimensionality.** Brain dynamics occupy spaces of thousands of independent variables, yet conscious experience appears to compress this into far fewer dimensions. Jolly and Chang document what they call "the Flatland fallacy" in cognitive science: a systematic preference for low-dimensional models driven not by evidence but by tractability. "Like the Flatlanders in Edwin Abbott's famous short story," they write, "we may be led to believe that the parsimony offered by our low-dimensional theories reflects the reality of a much higher-dimensional problem." Their point is methodological — about how scientists model cognition — but the implication cuts deeper. If our *theories* of mind systematically flatten high-dimensional processes, our *introspection* of mind may do the same. The gap between neural dimensionality and experiential dimensionality may indicate where phenomenal dimensions are being filtered out.
 
 **Experience-space.** Barron and Klein propose an "experience-space" (E-space) for mapping qualia — a configuration space whose dimensionality reflects the degrees of freedom needed to specify phenomenal properties. They argue that E-space requires "at least several times as many dimensions as there are categories of qualia." Different organisms may occupy different regions of this space with fundamentally different dimensionalities of experience. Bat echolocation, mantis shrimp colour vision, and shark electroreception all suggest phenomenal dimensions inaccessible to human introspection — not merely unfamiliar sensory data, but entire axes of experiential variation we cannot represent. The [synesthetic-void](/voids/synesthetic-void/) explores a related phenomenon within our own species: phenomenal dimensions that some human minds access and others do not.
 
@@ -67,7 +70,7 @@ This is why the Flatland analogy is structural rather than merely illustrative. 
 
 ## Phenomenology of the Edge
 
-Approaching the dimensionality void produces distinctive experiential signatures.
+Approaching the dimensionality void produces distinctive experiential signatures — instances of what the Map calls the [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), the characteristic ways cognition behaves at its own limits.
 
 **The flattening effect.** Attempting to conceive a new phenomenal dimension collapses into recombinations of known dimensions. Try to imagine a colour outside the visible spectrum — not infrared *detected*, but a genuinely novel hue. The attempt produces nothing, or it produces familiar colours in unfamiliar arrangements. Thought flattens the unknown into the known, and the flattening feels seamless rather than forced.
 
@@ -83,9 +86,11 @@ The dimensionality void connects directly to the Map's [tenets](/tenets/).
 
 **[Dualism](/tenets/#dualism)** provides the framework in which the void makes sense. If consciousness is reducible to physical processes in 3+1 spacetime, phenomenal dimensionality is bounded by physical dimensionality and the void shrinks to a technical question about neural coding. If consciousness is fundamental and irreducible, phenomenal space may have its own dimensional structure — potentially richer than physical spacetime — and our introspective access may capture only a fraction of it.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains a natural geometry. If consciousness exists in a higher-dimensional space and the brain acts as a filtering interface, then bidirectional interaction occurs at the dimensional boundary — consciousness influencing physical outcomes from dimensions the brain cannot fully represent, and physical processes constraining which dimensions of consciousness are accessible. The interface is not a mystery to be dissolved but a dimensional projection to be characterised.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** gains context from the dimensional picture. If consciousness operates in higher-dimensional phenomenal space but interfaces with the brain through quantum indeterminacies, then the "minimal" in minimal interaction may reflect the narrowness of the dimensional bottleneck — a vast phenomenal reality squeezing its influence through the tiny aperture where quantum outcomes remain undetermined. The filtering model suggests that the interaction is minimal not because consciousness is weak, but because the dimensional interface is narrow.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes the void genuine. If consciousness has a specific dimensional signature — a particular way of being embedded in phenomenal space — then your identity is a matter of dimensional location. You are *this* cross-section, not any other. Under many-worlds, all cross-sections are simultaneously realised and the question of dimensionality dissolves into indexical triviality.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains a natural geometry. If consciousness exists in a higher-dimensional space and the brain acts as a [filtering interface](/concepts/filter-theory/), then bidirectional interaction occurs at the dimensional boundary — consciousness influencing physical outcomes from dimensions the brain cannot fully represent, and physical processes constraining which dimensions of consciousness are accessible. The interface is not a mystery to be dissolved but a dimensional projection to be characterised.
+
+**[No Many Worlds](/tenets/#no-many-worlds)** makes the void genuine. If consciousness has a specific dimensional signature — a particular way of being embedded in phenomenal space — then your identity is a matter of dimensional location. You are *this* cross-section, not any other. Under many-worlds, every quantum branch realises every possible cross-section. Dimensional location loses its significance because every location is occupied. The void collapses from a genuine limit on *this* consciousness into a merely apparent one — an indexical artefact of being unable to see all the branches at once. Rejecting many-worlds preserves the dimensionality void as a real constraint on a real, singular consciousness.
 
 ## Further Reading
 

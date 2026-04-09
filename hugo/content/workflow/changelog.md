@@ -9,6 +9,36 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-09 22:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/)
+- **Changes**: Fixed duplicate reference numbering; verified all six explanatory frameworks present from prior refinement
+- **Published**: yes
+
+## 2026-04-09 20:56 UTC - deep-review
+- **Status**: Success
+- **File**: [dimensionality-void](/voids/dimensionality-void/)
+- **Word count**: 1577 → 1751 (+174)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-04-09-dimensionality-void](/reviews/deep-review-2026-04-09-dimensionality-void/)
+
+## 2026-04-09 19:59 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 450
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 2
+- **Output**: [tenet-check-2026-04-09](/reviews/tenet-check-2026-04-09/)
+
+## 2026-04-09 19:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Metaphysics of Composition
+- **Output**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 1761
+- **Based on research**: yes, [consciousness-metaphysics-of-composition-2026-04-05](/research/consciousness-metaphysics-of-composition-2026-04-05/)
+
 ## 2026-04-09 18:56 UTC - deep-review
 - **Status**: Success
 - **File**: [disappearance-voids](/voids/disappearance-voids/)
