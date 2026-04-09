@@ -29,7 +29,7 @@ related_articles:
 - '[[pre-conceptual-knowing]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[ai-as-void-explorer]]'
-- '[[habituation-void]]'
+- '[[disappearance-voids]]'
 - '[[self-opacity]]'
 - '[[contemplative-epistemology]]'
 - '[[witness-consciousness]]'

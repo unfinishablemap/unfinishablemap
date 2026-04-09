@@ -50,7 +50,7 @@ topics: []
 3. [contemplative-neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Added in methodological limitations objection, strengthening cross-tradition convergence response
 4. [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/) — Added in Indian traditions convergence paragraph, connecting subject-object collapse as one of three convergence zones
 5. [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) — Added to Further Reading section
-6. [absorption-void](/voids/absorption-void/) — Added in Cross-Cultural Evidence section, connecting self-dissolution as a convergence zone
+6. [absorption-void](/voids/disappearance-voids/) — Added in Cross-Cultural Evidence section, connecting self-dissolution as a convergence zone
 7. [introspection](/concepts/introspection/) — Added in Training and Contemplative Science section, strengthening the case against belief-convergence objection
 
 ## Remaining Items

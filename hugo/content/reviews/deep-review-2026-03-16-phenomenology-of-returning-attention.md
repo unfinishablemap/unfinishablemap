@@ -50,7 +50,7 @@ None. Citations accurate, no misattributions, required sections present, no inte
 - Meditation-as-laboratory framing — bridges philosophy and empirical science
 
 ### Enhancements Made
-- Added [absorption-void](/voids/absorption-void/) cross-link in Phase One (absorption without meta-awareness)
+- Added [absorption-void](/voids/disappearance-voids/) cross-link in Phase One (absorption without meta-awareness)
 - Added inline Schooler (2002) citation for meta-consciousness dissociation framework
 - Added inline Smallwood & Schooler (2015) citation for cross-cultural mind-wandering convergence
 - Refined Hasenkamp (2012) claim in Contemplative Refinement for accuracy
@@ -58,7 +58,7 @@ None. Citations accurate, no misattributions, required sections present, no inte
 - Merged duplicate Further Reading entry for attention-as-interface
 
 ### Cross-links Added
-- [absorption-void](/voids/absorption-void/) — Phase One absorption as micro-instance of the absorption void
+- [absorption-void](/voids/disappearance-voids/) — Phase One absorption as micro-instance of the absorption void
 
 ## Remaining Items
 

@@ -24,7 +24,7 @@ related_articles:
 - '[[sleep-consciousness-void]]'
 - '[[inaccessible-past]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[absorption-void]]'
+- '[[disappearance-voids]]'
 - '[[observation-and-measurement-void]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[temporal-consciousness]]'
@@ -50,7 +50,7 @@ This incompatibility generalises beyond sleep:
 
 **Attention shifts.** You realise you have been daydreaming. The departure from focused attention was unwitnessed; only the return is noticed. The [phenomenology of returning attention](/topics/phenomenology-of-returning-attention/) confirms this asymmetry: meditators performing thousands of return cycles report that the departure from focus is never caught, only the arrival back. Catching the departure would require the focused attention whose loss constitutes the departure.
 
-**Flow states.** Entering and exiting flow is never observed from within flow. The [absorption-void](/voids/absorption-void/) describes a related phenomenon: peak conscious engagement is peak self-opacity. The [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) documents that subjects consistently report "you don't experience yourself entering or exiting flow" — the transition is structurally invisible from both sides. You surface and realise time has passed.
+**Flow states.** Entering and exiting flow is never observed from within flow. The [absorption void](/voids/disappearance-voids/) describes a related phenomenon: peak conscious engagement is peak self-opacity. The [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) documents that subjects consistently report "you don't experience yourself entering or exiting flow" — the transition is structurally invisible from both sides. You surface and realise time has passed.
 
 **Insight.** The "aha" moment arrives fully formed. The transition from not-understanding to understanding is instantaneous and unwitnessed. Petitmengin's micro-phenomenological research calls these "micro-processes"—bursts of intentionality that escape ordinary introspection entirely.
 
@@ -121,7 +121,7 @@ The transition void connects to several of the Map's [tenets](/tenets/).
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why every method of studying consciousness transforms what it studies
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The related void: where consciousness goes during deep sleep
 - [inaccessible-past](/voids/inaccessible-past/) — Why past conscious states can only be reconstructed, not accessed
-- [absorption-void](/voids/absorption-void/) — Peak engagement is peak self-opacity
+- [The Absorption Void](/voids/disappearance-voids/) — Peak engagement is peak self-opacity
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why introspection cannot be verified against any independent standard
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The micro-structure of attention shifts, where departure is never witnessed

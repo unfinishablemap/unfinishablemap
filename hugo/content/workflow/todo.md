@@ -227,12 +227,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Write falsification roadmap for the interface model
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: tenet-falsification-conditions-2026-04-05.md). Systematically map falsification conditions for all five tenets. Candidates: decoherence solving measurement problem, causal closure at quantum scales, uniform anaesthetic profiles at controlled metabolic levels, deriving Born rule from non-observer premises. Would distinguish Map from unfalsifiable metaphysics. See optimistic-2026-04-05.md
-- **Generated**: 2026-04-05
-
 ### P3: Write article on phenomenology of resistance and constraint
 - **Type**: expand-topic
 - **Status**: pending
@@ -2045,6 +2039,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Review disappearance-voids article in context of related articles
+- **Type**: cross-review
+- **Notes**: Coalesce created disappearance-voids from absorption-void + habituation-void + fatigue-void. The following files reference the archived articles and may need review: expertise-occlusion, expertise-void, transition-void, temporal-void, thoughts-that-slip-away, voids, attention-and-consciousness, convergence-as-evidence, phenomenology-of-the-edge, limits-reveal-structure, conscious-vs-unconscious-processing, and others (26 files total updated).
+- **Output**: None -- Context: Review disappearance-voids article in context of related articles
+
+### ✓ 2026-04-09: Write falsification roadmap for the interface model
+- **Type**: expand-topic
+- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: tenet-falsification-conditions-2026-04-05.md). Systematically map falsification conditions for all five tenets. Candidates: decoherence solving measurement problem, causal closure at quantum scales, uniform anaesthetic profiles at controlled metabolic levels, deriving Born rule from non-observer premises. Would distinguish Map from unfalsifiable metaphysics. See optimistic-2026-04-05.md
+- **Output**: Write falsification roadmap for the interface model
 
 ### ✓ 2026-04-09: Cross-review invertebrate-consciousness-as-interface-test against related articles
 - **Type**: cross-review

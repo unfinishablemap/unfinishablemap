@@ -54,12 +54,12 @@ Six sympathetic personas examined the article.
 - Bridging premises made explicit throughout
 
 ### Enhancements Made
-- Added [absorption-void](/voids/absorption-void/) cross-link with contextualizing note distinguishing regress (unobservable self) from termination (absorption void)
+- Added [absorption-void](/voids/disappearance-voids/) cross-link with contextualizing note distinguishing regress (unobservable self) from termination (absorption void)
 - Added absorption void to Further Reading and related_articles
 - Removed stale AI refinement log
 
 ### Cross-links Added
-- [absorption-void](/voids/absorption-void/)
+- [absorption-void](/voids/disappearance-voids/)
 
 ## Remaining Items
 

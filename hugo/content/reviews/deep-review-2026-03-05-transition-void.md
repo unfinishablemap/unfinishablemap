@@ -56,7 +56,7 @@ topics: []
 - Removed 2 orphaned references
 
 ### Cross-links Added (backlinks FROM existing articles)
-- [absorption-void](/voids/absorption-void/) — Added transition-void as generalisation of observation-termination pattern
+- [absorption-void](/voids/disappearance-voids/) — Added transition-void as generalisation of observation-termination pattern
 - [observation-void](/voids/observation-and-measurement-void/) — Added transition-void to void interconnection paragraph
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — Added transition-void note on invisible flow entry/exit
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — Added transition-void as generalisation of attention departure invisibility

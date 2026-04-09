@@ -135,7 +135,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The interface model applied to ADHD, fatigue, and clinical evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
 - [structure-of-attention](/topics/structure-of-attention/) — Three modes of attention and their neural signatures
-- [The Habituation Void](/voids/habituation-void/) — A related void where familiarity, not attention, erases experience
+- [The Habituation Void](/voids/disappearance-voids/) — A related void where familiarity, not attention, erases experience
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive slippage
 - [The Unobservable Self](/voids/self-opacity/) — The observer who cannot observe itself observing
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries

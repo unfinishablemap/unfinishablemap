@@ -105,7 +105,7 @@ What happens when consciousness approaches this void?
 
 **Vertigo of eternalism**: Contemplating the block universe—that past and future exist equally—produces conceptual disorientation. We can think it but cannot experience it.
 
-**The self-time binding**: Approaching timelessness involves approaching selflessness. The self seems constituted by temporal extension—memory, anticipation, narrative identity. Dissolving time dissolves the experiencer. The [absorption-void](/voids/absorption-void/) confirms this from the opposite direction: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
+**The self-time binding**: Approaching timelessness involves approaching selflessness. The self seems constituted by temporal extension—memory, anticipation, narrative identity. Dissolving time dissolves the experiencer. The [absorption-void](/voids/disappearance-voids/) confirms this from the opposite direction: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
 
 ## Bergson's Diagnosis
 
@@ -137,7 +137,7 @@ This void connects to the Map's [tenets](/tenets/):
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [duration-void](/voids/temporal-void/) — The complementary void: lived time and measured time cannot be simultaneously inhabited
-- [absorption-void](/voids/absorption-void/) — Peak engagement dissolves temporal awareness and self-monitoring together
+- [absorption-void](/voids/disappearance-voids/) — Peak engagement dissolves temporal awareness and self-monitoring together
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/) — Why we can re-experience the past but only imagine the future
 - [memory-void](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence

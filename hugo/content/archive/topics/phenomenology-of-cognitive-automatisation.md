@@ -110,7 +110,7 @@ Automatisation, from the Map's perspective, is not consciousness becoming unnece
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [implicit-memory](/concepts/implicit-memory/)
-- [habituation-void](/voids/habituation-void/)
+- [habituation-void](/voids/disappearance-voids/)
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/)
 - [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/)
 - [neural-bandwidth-constraints-and-the-interface](/topics/bandwidth-of-consciousness/)

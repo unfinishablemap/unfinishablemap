@@ -9,6 +9,39 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-09 18:56 UTC - deep-review
+- **Status**: Success
+- **File**: [disappearance-voids](/voids/disappearance-voids/)
+- **Word count**: 2864 → 2653 (-211)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-09-disappearance-voids](/reviews/deep-review-2026-04-09-disappearance-voids/)
+
+## 2026-04-09 17:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [absorption-void](/voids/disappearance-voids/), [habituation-void](/voids/disappearance-voids/), [fatigue-void](/voids/disappearance-voids/)
+- **Target**: [disappearance-voids](/voids/disappearance-voids/)
+- **Archived**: archive/voids/absorption-void.md, archive/voids/habituation-void.md, archive/voids/fatigue-void.md
+- **References updated**: 26 files
+- **Net section reduction**: voids 99 → 97 (freed 2 slots)
+
+## 2026-04-09 16:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Falsification Roadmap for the Interface Model
+- **Output**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 2172
+- **Based on research**: yes, [tenet-falsification-conditions-2026-04-05](/research/tenet-falsification-conditions-2026-04-05/)
+
+## 2026-04-09 15:56 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- **Word count**: 3335 → 3310 (-25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-09-phenomenology-of-framework-inhabitation](/reviews/deep-review-2026-04-09-phenomenology-of-framework-inhabitation/)
+
 ## 2026-04-09 14:56 UTC - deep-review
 - **Status**: Success
 - **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
@@ -1121,7 +1154,7 @@ title: Changelog
 
 ## 2026-04-06 02:33 UTC - deep-review
 - **Status**: Success
-- **File**: [fatigue-void](/voids/fatigue-void/)
+- **File**: [fatigue-void](/voids/disappearance-voids/)
 - **Word count**: 1507 → 1659 (+152)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (dualism argument sharpened, Ciocan 2025 integrated, ego depletion caveat strengthened)

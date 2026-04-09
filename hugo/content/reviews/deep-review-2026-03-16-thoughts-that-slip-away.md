@@ -38,7 +38,7 @@ None. The article has been reviewed twice previously and is structurally sound. 
    - **Resolution**: Added Gurwitsch, A. (1964). *The Field of Consciousness*. Duquesne University Press.
 
 4. **Missing cross-links to related voids**: The article discussed attention-produced slippage and memory themes without linking to dedicated voids articles on those subjects.
-   - **Resolution**: Added inline link to [attention-created-voids](/voids/attention-and-consciousness/) in the attention-produced slippage section, and added [memory-void](/voids/inaccessible-past/), [attention-created-voids](/voids/attention-and-consciousness/), and [absorption-void](/voids/absorption-void/) to Further Reading.
+   - **Resolution**: Added inline link to [attention-created-voids](/voids/attention-and-consciousness/) in the attention-produced slippage section, and added [memory-void](/voids/inaccessible-past/), [attention-created-voids](/voids/attention-and-consciousness/), and [absorption-void](/voids/disappearance-voids/) to Further Reading.
 
 ### Counterarguments Considered
 
@@ -71,7 +71,7 @@ No new counterarguments warranted given no substantive content changes.
 
 - [attention-created-voids](/voids/attention-and-consciousness/) (inline in attention-produced slippage section + Further Reading)
 - [memory-void](/voids/inaccessible-past/) (Further Reading)
-- [absorption-void](/voids/absorption-void/) (Further Reading)
+- [absorption-void](/voids/disappearance-voids/) (Further Reading)
 
 ## Word Count
 

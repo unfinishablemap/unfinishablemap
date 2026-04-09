@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-14
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-09 15:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ description: Frameworks are inhabited like dwellings, not carried like luggage. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 15:06:00+00:00
+last_deep_review: 2026-04-09 15:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -180,10 +180,8 @@ The Map's analysis also resonates with [mysterianism](/concepts/mysterianism/). 
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments create framework-specific blind spots
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — What happens when inhabited frameworks collide
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The phenomenology of framework revision
-- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — The felt weight of evidence under evaluation
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt texture of epistemic cognition, intellectual effort, and understanding
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — Holding position when frameworks clash
-- [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) — The work of reasoning within a framework
-- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — What it is like when the framework delivers comprehension
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity is framework-relative
 - [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/) — Underdetermination as the structural basis for framework dependence
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires irreducible consciousness

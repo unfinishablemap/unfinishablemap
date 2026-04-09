@@ -44,7 +44,7 @@ topics: []
 - Tenet connections — substantive, especially Occam's Razor and Bidirectional Interaction
 
 ### Enhancements Made
-- Added `[habituation-void](/voids/habituation-void/)` to frontmatter related_articles (was referenced in body but missing from metadata)
+- Added `[habituation-void](/voids/disappearance-voids/)` to frontmatter related_articles (was referenced in body but missing from metadata)
 - Added inline cross-reference from [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (line ~113, emergence-void paragraph)
 - Added inline cross-reference from [emergence](/concepts/emergence/) ("Why Consciousness Is the Paradigm Case" section)
 - Added inline cross-reference from [emergence-void](/voids/emergence-void/) ("Relation to Site Perspective" section)

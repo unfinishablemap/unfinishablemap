@@ -74,7 +74,7 @@ topics: []
 
 - [phenomenology-of-skill-transition](/topics/consciousness-and-skilled-performance/)
 - [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
-- [habituation-void](/voids/habituation-void/) (fixed from generic [voids](/voids/) link)
+- [habituation-void](/voids/disappearance-voids/) (fixed from generic [voids](/voids/) link)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 
 ## Remaining Items

@@ -34,7 +34,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[absorption-void]]'
+- '[[disappearance-voids]]'
 - '[[inaccessible-past]]'
 - '[[death-void]]'
 - '[[self-opacity]]'
@@ -113,7 +113,7 @@ McTaggart's A-series (past/present/future — dynamic, perspectival) versus B-se
 
 **The memory-anticipation asymmetry**: The pastness quale — the felt sense of having-been-there — has no forward-looking counterpart.
 
-**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-self-consciousness/) that experiences time. The [absorption-void](/voids/absorption-void/) confirms this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
+**Self-entanglement**: Dissolving temporal structure may require dissolving the [self](/concepts/self-and-self-consciousness/) that experiences time. The [absorption void](/voids/disappearance-voids/) confirms this: peak absorption dissolves both self-monitoring and temporal awareness simultaneously.
 
 ## Evidence for the Limit
 
@@ -154,7 +154,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [absorption-void](/voids/absorption-void/) — Peak engagement dissolves temporal awareness and self-monitoring together
+- [The Absorption Void](/voids/disappearance-voids/) — Peak engagement dissolves temporal awareness and self-monitoring together
 - [inaccessible-past](/voids/inaccessible-past/) — Whether past qualia can be recovered
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [smoothness-and-continuity](/voids/smoothness-and-continuity/) — Whether consciousness has gaps

@@ -43,7 +43,7 @@ related_articles:
 - '[[consciousness-and-the-phenomenology-of-place]]'
 - '[[predictive-processing-and-dualism]]'
 - '[[capability-division-problem]]'
-- '[[habituation-void]]'
+- '[[disappearance-voids]]'
 title: Consciousness as Perceptual Architect
 topics:
 - '[[hard-problem-of-consciousness]]'

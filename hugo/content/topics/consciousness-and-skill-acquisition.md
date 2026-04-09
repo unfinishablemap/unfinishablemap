@@ -48,7 +48,7 @@ related_articles:
 - '[[attention-and-the-consciousness-interface]]'
 - '[[embodied-consciousness-and-the-interface]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[habituation-void]]'
+- '[[disappearance-voids]]'
 - '[[conscious-vs-unconscious-processing]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[consciousness-as-perceptual-architect]]'

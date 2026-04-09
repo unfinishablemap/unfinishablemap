@@ -137,7 +137,7 @@ What does it feel like to approach this void?
 
 **The level-switching vertigo.** Moving between micro and macro descriptions produces a distinctive cognitive disorientation. We can think about molecules; we can think about water. We cannot smoothly think both at once. The inability to hold both levels in mind simultaneously may be a feature of the void, not a deficiency of attention.
 
-**The illusion of understanding.** We *feel* we understand weak emergence (temperature as mean kinetic energy). But probe the feeling: do we genuinely grasp why molecular motion *is* temperature, or have we merely learned to associate the two descriptions? The emergence void may be hidden by familiarity—the [habituation-void](/voids/habituation-void/) applied to conceptual understanding itself.
+**The illusion of understanding.** We *feel* we understand weak emergence (temperature as mean kinetic energy). But probe the feeling: do we genuinely grasp why molecular motion *is* temperature, or have we merely learned to associate the two descriptions? The emergence void may be hidden by familiarity—the [habituation-void](/voids/disappearance-voids/) applied to conceptual understanding itself.
 
 **The combination vertigo.** Attempting to think how micro-experiences combine into macro-experience produces a distinctive cognitive strain—James's original observation that the idea of experiential combination is "unintelligible." This is not the strain of difficulty but the phenomenology of approaching a void boundary.
 

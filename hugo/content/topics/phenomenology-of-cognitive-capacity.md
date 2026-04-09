@@ -34,7 +34,7 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]'
 - '[[attention-and-the-consciousness-interface]]'
-- '[[habituation-void]]'
+- '[[disappearance-voids]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[stapp-quantum-mind]]'
 title: The Phenomenology of Cognitive Capacity
@@ -156,7 +156,7 @@ The claim that cognitive capacity phenomenology is irreducible would face diffic
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character independent of sensory accompaniments
 - [mental-effort](/concepts/mental-effort/) — Attentional effort and the quantum Zeno mechanism
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the bandwidth-limited bridge between consciousness and neural systems
-- [habituation-void](/voids/habituation-void/) — Where habituated experience meets the unchartable
+- [The Habituation Void](/voids/disappearance-voids/) — Where habituated experience meets the unchartable
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Why the interface has the bandwidth it does
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's hierarchy including anoetic consciousness, the residual awareness in automatised skills
 - [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) — The felt dynamics of navigating competing demands

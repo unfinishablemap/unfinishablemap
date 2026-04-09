@@ -107,7 +107,7 @@ The philosophical significance lies in the *direction of influence*. The body sc
 
 ## Habit vs. Skill
 
-Habit reveals the contrast case. Habits form through mere repetition without deliberate design—the morning routine crystallises because repetition carved a channel, not because anyone optimised it. This is the territory of the [habituation void](/voids/habituation-void/). The result: skilled actions feel *authored*—carrying the residue of deliberate construction—while habits feel *discovered*, noticed as already present. When consciousness is engaged during learning, the resulting automaticity is structured and purposeful; when absent, automaticity is merely whatever repetition happens to consolidate.
+Habit reveals the contrast case. Habits form through mere repetition without deliberate design—the morning routine crystallises because repetition carved a channel, not because anyone optimised it. This is the territory of the [habituation void](/voids/disappearance-voids/). The result: skilled actions feel *authored*—carrying the residue of deliberate construction—while habits feel *discovered*, noticed as already present. When consciousness is engaged during learning, the resulting automaticity is structured and purposeful; when absent, automaticity is merely whatever repetition happens to consolidate.
 
 ## Flow: Frictionless Selection at the Peak of Mastery
 

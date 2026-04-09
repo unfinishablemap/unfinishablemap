@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Absorption Void](/voids/absorption-void/)
+**Article**: [The Absorption Void](/voids/disappearance-voids/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

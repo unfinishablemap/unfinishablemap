@@ -26,7 +26,7 @@ related_articles:
 - '[[mysterianism]]'
 - '[[intrinsic-nature-void]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
-- '[[habituation-void]]'
+- '[[disappearance-voids]]'
 - '[[philosophy-of-language-under-dualism]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 title: Emergence as Universal Hard Problem
@@ -90,7 +90,7 @@ C.D. Broad anticipated this pattern in 1925, arguing that certain higher-level p
 
 Why do we notice the hard problem at consciousness but not at chemistry or life? The Map suggests a specific cognitive mechanism: domestication through habituation.
 
-When a level transition is old enough, familiar enough, and practically useful enough, we stop noticing the explanatory gap. We say temperature "just is" molecular motion and feel satisfied. The satisfaction is not philosophical understanding — it is the absence of discomfort that comes from having encountered the identity thousands of times. The [habituation-void](/voids/habituation-void/) applies to entire explanatory frameworks: what was once baffling becomes obvious not because we understood it but because we stopped being bothered by it.
+When a level transition is old enough, familiar enough, and practically useful enough, we stop noticing the explanatory gap. We say temperature "just is" molecular motion and feel satisfied. The satisfaction is not philosophical understanding — it is the absence of discomfort that comes from having encountered the identity thousands of times. The [habituation void](/voids/disappearance-voids/) applies to entire explanatory frameworks: what was once baffling becomes obvious not because we understood it but because we stopped being bothered by it.
 
 Consciousness resists domestication for a specific reason. The qualitative character in question — subjective experience — is not an external property we observe and classify. It is the medium through which we observe and classify everything else. We cannot step back from experience the way we step back from temperature. The hard problem of consciousness is the hard problem that cannot be domesticated because the subject of inquiry is the very capacity that performs domestication. [Phenomenological method](/topics/phenomenal-authority-and-first-person-evidence/) provides the discipline that prevents this domestication: by bracketing naturalist assumptions and attending to how things appear rather than what causes them, it keeps the consciousness gap visible where habituation would otherwise render it invisible.
 
@@ -124,7 +124,7 @@ The hard problem of consciousness, on this view, is not an anomaly. It is the vi
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Chalmers' formulation and the Map's response
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why the reductive track record does not extend to consciousness
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The related gap: what matter is in itself
-- [habituation-void](/voids/habituation-void/) — How familiarity erases awareness of limits
+- [The Habituation Void](/voids/disappearance-voids/) — How familiarity erases awareness of limits
 - [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) — Cross-cultural convergence on the irreducibility of consciousness
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the hard problem made personal: why the nociception-to-suffering transition exemplifies the universal gap

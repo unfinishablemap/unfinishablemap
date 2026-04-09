@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [The Habituation Void](/voids/habituation-void/)
+**Article**: [The Habituation Void](/voids/disappearance-voids/)
 **Previous review**: [2026-02-03](/reviews/deep-review-2026-02-03-habituation-void/)
 
 ## Pessimistic Analysis Summary

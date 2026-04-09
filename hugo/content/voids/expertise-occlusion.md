@@ -22,8 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[three-kinds-of-void]]'
 - '[[expertise-void]]'
-- '[[absorption-void]]'
-- '[[habituation-void]]'
+- '[[disappearance-voids]]'
 - '[[biological-cognitive-closure]]'
 - '[[self-opacity]]'
 - '[[attention-created-voids]]'
@@ -78,7 +77,7 @@ Three features of the void carry weight:
 
 **The void is cross-domain invariant.** The same pattern of construction-then-exclusion appears in music, sport, chess, language, surgery, and craftsmanship (Dreyfus & Dreyfus, 1986). No domain of expertise escapes it. This universality suggests the void reflects something about consciousness itself rather than about any particular skill.
 
-**The void is asymmetric with the [absorption-void](/voids/absorption-void/).** Absorption eliminates self-awareness during peak engagement—a void at the moment of maximum intensity. The expertise occlusion eliminates access to the *processes* that enable expert performance—a void that persists whether or not the expert is currently performing. The two voids reinforce each other: during expert flow, neither the process nor the self observing it is accessible.
+**The void is asymmetric with the [absorption void](/voids/disappearance-voids/).** Absorption eliminates self-awareness during peak engagement—a void at the moment of maximum intensity. The expertise occlusion eliminates access to the *processes* that enable expert performance—a void that persists whether or not the expert is currently performing. The two voids reinforce each other: during expert flow, neither the process nor the self observing it is accessible.
 
 ## A Contested View
 
@@ -105,8 +104,8 @@ The expertise occlusion engages the Map's [tenets](/tenets/):
 - [expertise-void](/topics/expertise-void/) — The broader exploration of how expertise transforms experience
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How the stages of skill acquisition challenge epiphenomenalism
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Choking as evidence for mental causation
-- [absorption-void](/voids/absorption-void/) — Peak conscious engagement as peak self-opacity
-- [habituation-void](/voids/habituation-void/) — How familiarity erases experience from consciousness
+- [The Absorption Void](/voids/disappearance-voids/) — Peak conscious engagement as peak self-opacity
+- [The Habituation Void](/voids/disappearance-voids/) — How familiarity erases experience from consciousness
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — The developmental analogue: maturation as irreversible closure
 - [self-opacity](/voids/self-opacity/) — The subject that cannot be its own object
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits

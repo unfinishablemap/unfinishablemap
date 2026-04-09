@@ -31,7 +31,7 @@ related_articles:
 - '[[mind-space-void]]'
 - '[[conceptual-impossibility]]'
 - '[[scale-void]]'
-- '[[habituation-void]]'
+- '[[disappearance-voids]]'
 - '[[three-kinds-of-void]]'
 - '[[placebo-effect-and-mental-causation]]'
 - '[[convergence-as-evidence]]'
@@ -88,7 +88,7 @@ The Recognition Void is distinctive: **it produces nothing**. Where mechanism op
 
 This silence is the void's most significant feature. Other voids announce themselves through confusion, frustration, or uncanniness. The Recognition Void is the void that does not announce itself — except in the rare pathological windows where recognition partially fails and the uncanniness of its absence briefly surfaces.
 
-The Dunning-Kruger effect provides a suggestive parallel: in measurable domains, incompetence correlates with inability to recognise that incompetence (Kruger & Dunning, 1999), though the original finding has faced methodological challenges and the effect size may be partly statistical artefact. The Recognition Void extends the underlying logic — that missing a capacity can mean missing awareness of the capacity — from specific skills to cognitive architecture itself. The [habituation-void](/voids/habituation-void/) reveals a complementary mechanism: semantic satiation, where recognition exhausts through repetition, demonstrates that meaningfulness is actively maintained rather than passively stored.
+The Dunning-Kruger effect provides a suggestive parallel: in measurable domains, incompetence correlates with inability to recognise that incompetence (Kruger & Dunning, 1999), though the original finding has faced methodological challenges and the effect size may be partly statistical artefact. The Recognition Void extends the underlying logic — that missing a capacity can mean missing awareness of the capacity — from specific skills to cognitive architecture itself. The [habituation void](/voids/disappearance-voids/) reveals a complementary mechanism: semantic satiation, where recognition exhausts through repetition, demonstrates that meaningfulness is actively maintained rather than passively stored.
 
 ## Approaches to the Edge
 

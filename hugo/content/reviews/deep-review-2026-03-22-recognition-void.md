@@ -62,7 +62,7 @@ From other articles TO recognition-void:
 4. [cognitive-closure](/concepts/mysterianism/) — added to related_articles and Two-Access Problem section
 5. [three-kinds-of-void](/voids/three-kinds-of-void/) — added to related_articles and Unexplorable section (as exemplar)
 6. [introspection](/concepts/introspection/) — added to related_articles and Process vs Content section
-7. [habituation-void](/voids/habituation-void/) — added to related_articles
+7. [habituation-void](/voids/disappearance-voids/) — added to related_articles
 8. [ai-as-void-explorer](/voids/ai-as-void-explorer/) — added to related_articles
 
 ## Remaining Items

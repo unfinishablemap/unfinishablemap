@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-03
-**Article**: [The Habituation Void](/voids/habituation-void/)
+**Article**: [The Habituation Void](/voids/disappearance-voids/)
 **Previous review**: Never
 **Context**: Orphan integration focus—article had no inbound links
 

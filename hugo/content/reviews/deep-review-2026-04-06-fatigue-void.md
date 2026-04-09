@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-06
-**Article**: [The Fatigue Void](/voids/fatigue-void/)
+**Article**: [The Fatigue Void](/voids/disappearance-voids/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

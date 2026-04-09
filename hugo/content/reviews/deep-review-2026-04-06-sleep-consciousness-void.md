@@ -61,10 +61,10 @@ topics: []
 - Improved MWI characterisation accuracy
 - Fixed attribution concern with Hobson paraphrase
 - Trimmed Further Reading from 17 to 12 items (removed less relevant links)
-- Added [fatigue-void](/voids/fatigue-void/) to Further Reading (was in related_articles but missing from list)
+- Added [fatigue-void](/voids/disappearance-voids/) to Further Reading (was in related_articles but missing from list)
 
 ### Cross-links Added
-- [fatigue-void](/voids/fatigue-void/) added to Further Reading
+- [fatigue-void](/voids/disappearance-voids/) added to Further Reading
 
 ## Word Count
 - Before: 2674 words (134% of 2000 soft threshold)

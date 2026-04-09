@@ -69,7 +69,7 @@ topics: []
 - [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
-- [absorption-void](/voids/absorption-void/)
+- [absorption-void](/voids/disappearance-voids/)
 
 ## Remaining Items
 

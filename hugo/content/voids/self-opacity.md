@@ -54,7 +54,7 @@ related_articles:
 - '[[emotional-epistemology-void]]'
 - '[[self-reference-paradox]]'
 - '[[boundary-void]]'
-- '[[fatigue-void]]'
+- '[[disappearance-voids]]'
 title: Self-Opacity
 topics:
 - '[[philosophy-of-mind]]'

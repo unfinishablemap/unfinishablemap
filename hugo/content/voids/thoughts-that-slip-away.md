@@ -137,7 +137,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Habituation Void](/voids/habituation-void/) — Where familiarity rather than forgetting erases experience
+- [The Habituation Void](/voids/disappearance-voids/) — Where familiarity rather than forgetting erases experience
 - [Introspective Opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
@@ -146,7 +146,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — The bidirectional void between waking and dreaming where slippage is systematic
 - [The Memory Void](/voids/inaccessible-past/) — Whether past experiences are recoverable or lost forever
 - [Attention-Created Voids](/voids/attention-and-consciousness/) — How attending generates unattendable territory
-- [The Absorption Void](/voids/absorption-void/) — Peak experiences that resist introspective access
+- [The Absorption Void](/voids/disappearance-voids/) — Peak experiences that resist introspective access
 
 ## References
 
