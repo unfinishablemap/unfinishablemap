@@ -5,6 +5,14 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-09 12:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/intrinsic-nature-void]], [[voids/substrate-void]]
+- **Target**: [[voids/intrinsic-nature-void]]
+- **Archived**: archive/voids/substrate-void.md
+- **References to review**: 5 active files updated; reviews/research left as historical records
+- **Notes**: Merged substrate void (what consciousness is made of) into intrinsic nature void (what matter is in itself), unifying both directions of the same structural gap. Kept intrinsic-nature-void slug to minimize reference disruption (167 refs vs 14). Voids section reduced from 100 to 99.
+
 ## 2026-04-09 11:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/second-person-void]]

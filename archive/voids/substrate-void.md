@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-04-05T20:55:00+00:00
 draft: false
 last_deep_review: 2026-03-12T00:33:00+00:00
+archived: true
+archived_date: 2026-04-09T12:56:00+00:00
+superseded_by: "/voids/intrinsic-nature-void/"
+archive_reason: "Coalesced into The Intrinsic Nature Void"
+original_path: "/voids/substrate-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[dualism]]"

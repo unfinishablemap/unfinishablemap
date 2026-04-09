@@ -146,7 +146,7 @@ The measurement void follows from the Map's [tenets](/tenets/) with particular d
 - [observation-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [self-reference paradox](/voids/self-opacity/) — The subject that cannot become its own object
-- [substrate-void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses
+- [substrate-void](/voids/intrinsic-nature-void/) — What consciousness is made of, when every answer collapses
 - [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience

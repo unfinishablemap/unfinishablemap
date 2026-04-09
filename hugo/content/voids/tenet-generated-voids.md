@@ -28,7 +28,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[binding-void]]'
-- '[[substrate-void]]'
+- '[[intrinsic-nature-void]]'
 - '[[the-surplus-void]]'
 - '[[phenomenal-quality-void]]'
 - '[[dissolution-problem]]'
@@ -52,7 +52,7 @@ Each tenet generates its characteristic void—a question the tenet points towar
 
 Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [self-reference paradox](/voids/self-opacity/)).
 
-The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [binding void](/voids/binding-void/) sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely. The [substrate void](/voids/substrate-void/) traces this characterisation failure from Descartes to the present.
+The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [binding void](/voids/binding-void/) sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely. The [intrinsic nature void](/voids/intrinsic-nature-void/) traces this characterisation failure from Descartes to the present.
 
 ### Minimal Quantum Interaction: The Mechanism Void
 
@@ -172,7 +172,7 @@ The framework-generated-voids analysis would be undermined if:
 - [Whether the Voids Are Real](/voids/whether-real/) — The question of genuine versus apparent limits
 - [The Self-Reference Paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [The Binding Void](/voids/binding-void/) — Why phenomenal unity resists explanation entirely
-- [The Substrate Void](/voids/substrate-void/) — What consciousness is made of (the Nature Void in depth)
+- [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers more than function requires
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why experience presents as immediately given
 - [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent

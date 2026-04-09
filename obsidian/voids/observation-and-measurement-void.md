@@ -34,7 +34,6 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[whether-real]]"
   - "[[necessary-opacity]]"
-  - "[[substrate-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[intersubjective-void]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
@@ -155,9 +154,8 @@ The [[constitutive-exclusion]] develops a further insight: consciousness does no
 - [[apophatic-approaches]] — Knowing through negation—an indirect route past the void
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
 - [[mutation-void]] — Thought-contents that are constitutively unstable under attention
-- [[substrate-void]] — What consciousness is made of, when every answer collapses
+- [[intrinsic-nature-void]] — What matter and consciousness are in themselves, beneath structure and experience
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
-- [[intrinsic-nature-void]] — What matter is in itself, beneath relational properties
 - [[necessary-opacity]] — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[consciousness-and-the-problem-of-measurement-standards]] — The formal triad that physical measurement requires and consciousness lacks

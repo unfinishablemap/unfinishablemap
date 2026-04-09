@@ -49,7 +49,7 @@ The catalogue's entries organise into families sharing structural logic and fail
 
 ### The Phenomenal Core
 
-The [hard problem](/topics/hard-problem-of-consciousness/), the [intrinsic nature void](/voids/intrinsic-nature-void/), the [binding void](/voids/binding-void/), the [surplus void](/voids/the-surplus-void/), the [phenomenal quality void](/voids/phenomenal-quality-void/), and the [substrate void](/voids/substrate-void/) all circle the same absence: *what experience is*. Each approaches from a different angle and hits the same wall: physical description delivers structure and dynamics but never the felt quality of being a subject.
+The [hard problem](/topics/hard-problem-of-consciousness/), the [intrinsic nature void](/voids/intrinsic-nature-void/) (which now subsumes the former substrate void), the [binding void](/voids/binding-void/), the [surplus void](/voids/the-surplus-void/), and the [phenomenal quality void](/voids/phenomenal-quality-void/) all circle the same absence: *what experience is*. Each approaches from a different angle and hits the same wall: physical description delivers structure and dynamics but never the felt quality of being a subject.
 
 Signature failure: **categorical mismatch**—third-person vocabulary applied to first-person reality produces *the wrong kind of answer* (Chalmers 1995). The failure is categorical, not quantitative.
 

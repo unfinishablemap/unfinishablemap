@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [The Substrate Void](/voids/substrate-void/)
+**Article**: [The Substrate Void](/voids/intrinsic-nature-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

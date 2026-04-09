@@ -35,7 +35,7 @@ Six adversarial personas engaged with the content. Context: cross-review in ligh
 None. Fourth consecutive review with no critical issues.
 
 ### Medium Issues Found
-- **Missing cross-link to substrate-void**: The Nature Void section discusses characterisation failure. The substrate-void article is the dedicated deep-dive. *Resolution*: Added inline reference connecting Nature Void to `[substrate-void](/voids/substrate-void/)`.
+- **Missing cross-link to substrate-void**: The Nature Void section discusses characterisation failure. The substrate-void article is the dedicated deep-dive. *Resolution*: Added inline reference connecting Nature Void to `[substrate-void](/voids/intrinsic-nature-void/)`.
 - **Missing cross-links to surplus-void and givenness-void**: New void articles in the framework. *Resolution*: Added all three to Further Reading and related_articles.
 
 ### Counterarguments Considered
@@ -63,11 +63,11 @@ Six sympathetic personas identified strengths:
 
 ### Enhancements Made
 - Connected Nature Void to substrate void — the dedicated deep-dive companion article
-- Added `[substrate-void](/voids/substrate-void/)`, `[the-surplus-void](/voids/the-surplus-void/)`, `[the-givenness-void](/voids/phenomenal-presence-void/)` to Further Reading
+- Added `[substrate-void](/voids/intrinsic-nature-void/)`, `[the-surplus-void](/voids/the-surplus-void/)`, `[the-givenness-void](/voids/phenomenal-presence-void/)` to Further Reading
 - Tightened prose in Mechanism Void, Nature of These Limits, Completeness Void, and Comparative Context to maintain length neutrality
 
 ### Cross-links Added
-- [substrate-void](/voids/substrate-void/)
+- [substrate-void](/voids/intrinsic-nature-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
 - [the-givenness-void](/voids/phenomenal-presence-void/)
 

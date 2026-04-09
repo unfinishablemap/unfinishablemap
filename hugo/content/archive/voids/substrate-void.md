@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-02-24
 ai_modified: 2026-04-05 20:55:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into The Intrinsic Nature Void
+archived: true
+archived_date: 2026-04-09 12:56:00+00:00
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -18,6 +21,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-03-12 00:33:00+00:00
 modified: *id001
+original_path: /voids/substrate-void/
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
@@ -29,6 +33,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[binding-void]]'
 - '[[consciousness-only-territories]]'
+superseded_by: /voids/intrinsic-nature-void/
 title: The Substrate Void
 topics:
 - '[[hard-problem-of-consciousness]]'

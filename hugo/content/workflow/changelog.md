@@ -9,6 +9,23 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-09 12:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [intrinsic-nature-void](/voids/intrinsic-nature-void/), [substrate-void](/voids/substrate-void/)
+- **Target**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Archived**: archive/voids/substrate-void.md
+- **References to review**: 5 active files updated; reviews/research left as historical records
+- **Notes**: Merged substrate void (what consciousness is made of) into intrinsic nature void (what matter is in itself), unifying both directions of the same structural gap. Kept intrinsic-nature-void slug to minimize reference disruption (167 refs vs 14). Voids section reduced from 100 to 99.
+
+## 2026-04-09 11:56 UTC - deep-review
+- **Status**: Success
+- **File**: [second-person-void](/voids/second-person-void/)
+- **Word count**: 1406 → 1768 (+362)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (Buber quote reframed as paraphrase, functionalist engagement added, contemplative traditions added to convergence, "What Would Challenge This View?" section added)
+- **Enhancements made**: 4 (comparison table, expanded Further Reading with annotations, 4 new cross-links, related_articles updated)
+- **Output**: [deep-review-2026-04-09-second-person-void](/reviews/deep-review-2026-04-09-second-person-void/)
+
 ## 2026-04-09 10:56 UTC - deep-review
 - **Status**: Success
 - **File**: [observational-closure](/concepts/observational-closure/)

@@ -74,7 +74,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[scale-void|The Scale Void]] — Why cosmic distances, deep time, and large numbers resist comprehension
 - [[causal-interface|The Causal Interface Void]] — How consciousness interfaces with the physical
 - [[interface-formalization-void|The Interface Formalization Void]] — Why the consciousness-physics interface resists mathematical formalization
-- [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter is in itself
+- [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves, when every answer yields only structure or negation
 - [[emergence-void|The Emergence Void]] — How arrangement produces novelty—the gap at every level transition
 - [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
@@ -101,7 +101,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[observation-and-measurement-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
 - [[binding-void|The Binding Void]] — Why unified experience from disparate sensations resists explanation
 - [[boundary-void|The Boundary Void]] — Why consciousness cannot determine its own spatial and functional limits
-- [[substrate-void|The Substrate Void]] — What consciousness is made of, when every answer collapses into negation or circularity
 - [[observation-and-measurement-void|The Measurement Void]] — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [[simulation-detection-void|The Simulation Detection Void]] — Why embedded observers cannot determine whether their reality is simulated
 - [[acquaintance-void|The Acquaintance Void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours

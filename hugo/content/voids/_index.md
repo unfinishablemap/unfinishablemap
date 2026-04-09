@@ -77,7 +77,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Scale Void](/voids/scale-void/) — Why cosmic distances, deep time, and large numbers resist comprehension
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Interface Formalization Void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists mathematical formalization
-- [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter is in itself
+- [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves, when every answer yields only structure or negation
 - [The Emergence Void](/voids/emergence-void/) — How arrangement produces novelty—the gap at every level transition
 - [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
@@ -104,7 +104,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation
 - [The Boundary Void](/voids/boundary-void/) — Why consciousness cannot determine its own spatial and functional limits
-- [The Substrate Void](/voids/substrate-void/) — What consciousness is made of, when every answer collapses into negation or circularity
 - [The Measurement Void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
