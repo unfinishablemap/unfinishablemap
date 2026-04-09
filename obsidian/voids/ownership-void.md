@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-02T06:38:00+00:00
+ai_modified: 2026-04-09T08:56:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -27,6 +27,7 @@ related_articles:
   - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
   - "[[transition-void]]"
+  - "[[indexical-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -75,6 +76,8 @@ This affective divergence matters. The same structural void—the absence of the
 
 Attempting to introspect ownership produces a distinctive recursion. Unlike the [[self-opacity|unobservable self]], where the observer generates new layers of observation, the ownership void traps attention in a different way: the attending itself is "mine," which means ownership is present in the very act of looking for it. It cannot be isolated because isolation would require a vantage point outside ownership—an experience that is not "for anyone"—and such a vantage point would not be experience at all.
 
+The [[indexical-void|indexical void]] asks the adjacent question: why am I *this* consciousness rather than another? Ownership presupposes an answer—experiences are "mine" only if there is a determinate "me" to own them. The indexical void questions the ground of that determinacy, while the ownership void questions the mechanism of appropriation. Together they mark two faces of the same deeper mystery: what makes a subject *this* subject, and how does experience become *its* experience.
+
 This distinguishes the ownership void from neighbouring voids:
 
 - The **[[self-opacity|unobservable self]]** concerns the subject that cannot become its own object. The ownership void asks why any experience feels appropriated by a subject.
@@ -116,6 +119,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[comparative-phenomenology-of-meditative-traditions]] — Cross-tradition approaches to dissolving selfhood
 - [[transition-void]] — Observation-transition incompatibility as a parallel structural limit
 - [[mysterianism]] — McGinn on structural cognitive limits
+- [[indexical-void]] — Why am I *this* consciousness? The identity question underlying ownership
 
 ## References
 
