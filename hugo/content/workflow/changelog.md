@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-09 10:56 UTC - deep-review
+- **Status**: Success
+- **File**: [observational-closure](/concepts/observational-closure/)
+- **Word count**: 1358 → 1354 (-4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2 (path prefix cleanup, duplicate Further Reading consolidation)
+- **Output**: [deep-review-2026-04-09-observational-closure](/reviews/deep-review-2026-04-09-observational-closure/)
+
+## 2026-04-09 10:04 UTC - deep-review
+- **Status**: Success
+- **File**: [imagination-and-creativity-void](/voids/imagination-and-creativity-void/)
+- **Word count**: 2581 → 2597 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (inexact Hume quote, unsourced neuroscience claim, unsourced meditation claim)
+- **Enhancements made**: 1 (added Kounios & Beeman citation)
+- **Output**: [deep-review-2026-04-09-imagination-and-creativity-void](/reviews/deep-review-2026-04-09-imagination-and-creativity-void/)
+
 ## 2026-04-09 08:56 UTC - deep-review
 - **Status**: Success
 - **File**: [indexical-void](/voids/indexical-void/)

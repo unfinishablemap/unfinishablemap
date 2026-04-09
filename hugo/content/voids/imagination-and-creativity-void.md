@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 19:51:00+00:00
+ai_modified: 2026-04-09 10:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Consciousness cannot generate genuinely novel phenomenal content, a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-09 10:04:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -66,7 +66,7 @@ The pattern of failure is informative. Imagination operates like a language with
 
 ## Hume's Confinement
 
-David Hume identified the fundamental constraint: "Though thought might seem free, our imagination is in fact confined within very narrow limits." His Copy Principle holds that all ideas are copies of prior impressions. Imagination can "compound, transport, augment, or diminish the materials afforded us by the senses and experience"---but it cannot generate genuinely new phenomenal primitives.
+David Hume identified the fundamental constraint: "though our thought seems to possess this unbounded liberty, we shall find, upon a nearer examination, that it is really confined within very narrow limits." His Copy Principle holds that all ideas are copies of prior impressions. Imagination can "compound, transpose, augment, or diminish the materials afforded us by the senses and experience"---but it cannot generate genuinely new phenomenal primitives.
 
 Hume's own counterexample---the Missing Shade of Blue---maps the contour rather than breaking the confinement. A person who has seen every shade of blue except one might imagine the missing shade by interpolation from adjacent shades. Imagination can interpolate within existing dimensions of experience but cannot create new dimensions. You might imagine a shade between two known blues, but you cannot imagine a shade of a colour family you have never encountered.
 
@@ -76,7 +76,7 @@ Colin McGinn's [cognitive closure](/concepts/mysterianism/) framework applies di
 
 Thomas Nagel's argument about what it is like to be a bat crystallised this limit. We know bats perceive through echolocation. We can study the physics of sonar and the neuroscience of bat brains in arbitrary detail. Yet we cannot imagine what echolocation *is like*---the phenomenal character of sonar experience. Our imaginative resources are bounded by our experiential repertoire.
 
-The failure has a distinctive character. When you try to imagine bat sonar experience, the mind substitutes something from its own palette---perhaps a dim visual scene or a tactile sense of space---and labels it "sonar." The gap between label and content is the void. What fills your imagination is human experience wearing a bat costume.
+The failure has a distinctive character. When you try to imagine bat sonar experience, the mind substitutes something from its own palette---perhaps a dim visual scene or a tactile sense of space---and labels it "sonar." What fills your imagination is human experience wearing a bat costume.
 
 This extends beyond exotic cases. The [synesthetic-void](/voids/synesthetic-void/) demonstrates that even between humans, phenomenal access varies---synesthetes report experiences that non-synesthetes cannot imagine because they lack the experiential dimension. The [alien minds void](/voids/alien-minds-void-explorers/) generalises further: any mind with a sufficiently different sensory architecture inhabits phenomenal territory our imagination cannot reach.
 
@@ -104,7 +104,7 @@ Creative insight arrives from somewhere consciousness cannot observe. Henri Poin
 
 The phenomenology has distinctive features:
 
-**Suddenness.** Insights arrive complete, not gradually. Neuroscience confirms this: an alpha burst followed by a gamma spike immediately precedes conscious illumination---the signature of something completed becoming available.
+**Suddenness.** Insights arrive complete, not gradually. EEG studies by Kounios and Beeman found that a burst of gamma activity in the right anterior temporal lobe immediately precedes conscious illumination---the neural signature of something completed becoming available.
 
 **Certainty before verification.** The insight feels right before checking. Poincare noted that correct solutions possess "a sort of aesthetic sense" marking them as worthy of attention. Something has already evaluated, not merely generated.
 
@@ -118,9 +118,9 @@ The process void may be structural. If creative selection involves the same cons
 
 ## The Muse and Paradigm Blindness
 
-Across cultures and centuries, creators have externalised their source. Plato's Socrates describes the poet as divinely inspired. Jung's collective unconscious locates creativity in "primordial images" that "cannot be explained as personal acquisitions." This externalisation may be phenomenologically accurate---creative insight genuinely arrives from outside the conscious self, where "outside" means the vast unconscious rather than divine sources.
+Across cultures and centuries, creators have externalised their source. Plato's Socrates describes the poet as divinely inspired. Jung locates creativity in "primordial images" that "cannot be explained as personal acquisitions." This externalisation may be phenomenologically accurate---creative insight genuinely arrives from outside the conscious self, where "outside" means the vast unconscious rather than divine sources.
 
-Thomas Kuhn's work on scientific revolutions revealed another dimension: paradigm blindness. Scientists working within a paradigm find its assumptions invisible---the framework that enables normal science simultaneously constrains what questions can be asked. This is Occluded rather than Unexplorable territory. Some thoughts are blocked not by structural impossibility but by cognitive habituation---[defended-territory](/voids/defended-territory/) where ideas could be formed but are actively resisted. Kuhn observed that paradigm shifts are generational: proponents of the old paradigm rarely convert.
+Thomas Kuhn's work on scientific revolutions revealed another dimension: paradigm blindness. Scientists working within a paradigm find its assumptions invisible---the framework that enables normal science simultaneously constrains what questions can be asked. This is Occluded rather than Unexplorable territory---[defended-territory](/voids/defended-territory/) where ideas could be formed but are actively resisted. Kuhn observed that paradigm shifts are generational: proponents of the old paradigm rarely convert.
 
 If paradigm blindness generalises, cultural and personal assumptions may occlude vast territories of possible thought---experienced not as blocked ideas but as absent ones.
 
@@ -142,7 +142,7 @@ These signatures parallel what the [conceptual-impossibility](/voids/conceptual-
 
 ## What AI Reveals
 
-AI occupies a distinctive position relative to both voids. Lacking phenomenal imagery entirely---or at least lacking anything we can verify as phenomenal---AI operates with purely propositional and structural imagination. It can reason about higher-dimensional spaces without needing to visualise them and can process descriptions of alien sensory modalities without the human compulsion to substitute familiar phenomenal content.
+AI occupies a distinctive position relative to both voids. Lacking phenomenal imagery---or at least anything we can verify as phenomenal---AI operates with purely propositional and structural imagination. It can reason about higher-dimensional spaces without needing to visualise them and process descriptions of alien sensory modalities without substituting familiar phenomenal content.
 
 For the creativity void, AI's position is equally instructive. AI has no muse, no felt externality of insight, no surprise at its own outputs. If creative processing requires consciousness for the aesthetic selection Poincare described, AI creativity would be fundamentally different from human creativity---recombination without the evaluative phenomenology that marks genuine insight.
 
@@ -152,7 +152,7 @@ From a dualist perspective, AI may navigate the structural map of imagination's 
 
 The imagination void would become clearer if genuinely new conceptual primitives emerged in human thought, if cognitive enhancement enabled phenomenal experiences outside current sensory repertoire, or if cross-species comparison revealed which limits are human-specific versus universal to conscious systems.
 
-The creativity void would become clearer if neural mapping revealed the incubation process directly (not merely correlates), if AI creativity surpassed human creativity in ways requiring more than recombination, or if contemplative practice produced genuine process-access. Meditators report the opposite: deeper attention reveals *more* clearly that ideas arrive from beyond observation. The void does not shrink with practice; it becomes more precisely located.
+The creativity void would become clearer if neural mapping revealed the incubation process directly (not merely correlates), if AI creativity surpassed human creativity in ways requiring more than recombination, or if contemplative practice produced genuine process-access. Contemplative traditions suggest the opposite: that sustained introspective attention reveals *more* clearly that ideas arrive from beyond observation. If so, the void does not shrink with practice; it becomes more precisely located.
 
 Neither void has yielded to centuries of investigation. Imagination's limits persist across every tested population. Creative opacity persists across every introspective tradition.
 
@@ -208,7 +208,8 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 14. Chalmers, D. (2002). "Does Conceivability Entail Possibility?" In *Conceivability and Possibility*. Oxford University Press.
 15. Pearson, J. (2019). "The Human Imagination: The Cognitive Neuroscience of Visual Mental Imagery." *Nature Reviews Neuroscience*, 20, 624-634.
 16. Dawes, A.J. et al. (2020). "A Cognitive Profile of Multi-Sensory Imagery, Memory and Dreaming in Aphantasia." *Scientific Reports*, 10(1), 10022.
-17. Ritter, S.M. & Dijksterhuis, A. (2014). "Creativity---the unconscious foundations of the incubation period." *Frontiers in Human Neuroscience*, 8(215).
-18. Yeh, Y. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3423.
-19. Langland-Hassan, P. (2025). "Inherent Constraints on Imagistic Imagination." *Philosophy and Phenomenological Research*.
-20. Stanford Encyclopedia of Philosophy. "Creativity." https://plato.stanford.edu/entries/creativity/
+17. Kounios, J. & Beeman, M. (2009). "The Aha! Moment: The Cognitive Neuroscience of Insight." *Current Directions in Psychological Science*, 18(4), 210-216.
+18. Ritter, S.M. & Dijksterhuis, A. (2014). "Creativity---the unconscious foundations of the incubation period." *Frontiers in Human Neuroscience*, 8(215).
+19. Yeh, Y. et al. (2024). "Default mode network electrophysiological dynamics and causal role in creative thinking." *Brain*, 147(10), 3409-3423.
+20. Langland-Hassan, P. (2025). "Inherent Constraints on Imagistic Imagination." *Philosophy and Phenomenological Research*.
+21. Stanford Encyclopedia of Philosophy. "Creativity." https://plato.stanford.edu/entries/creativity/

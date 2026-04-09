@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-03-25 16:30:00+00:00
+ai_modified: 2026-04-09 10:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[preemption]]'
 - '[[stapp-quantum-mind]]'
 - '[[quantum-indeterminacy-free-will]]'
-- '[[concepts/epiphenomenalism]]'
+- '[[epiphenomenalism]]'
 - '[[mysterianism]]'
 created: 2026-03-13
 date: &id001 2026-03-13
@@ -23,7 +23,7 @@ description: Observational closure distinguishes empirical from metaphysical cau
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-13 17:19:00+00:00
+last_deep_review: 2026-04-09 10:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ The general claim that *some* mental causation exists somewhere is indeed unfals
 
 ### "This Is Epiphenomenalism in Disguise"
 
-[epiphenomenalism](/concepts/epiphenomenalism/) claims consciousness causes *nothing*. Observational closure allows consciousness to cause *everything it appears to cause*—the avoidance behaviour, the verbal reports, the neural downstream effects. The observational indistinguishability concerns what *laboratories* can detect, not whether causation occurs. Saad's framework makes this explicit: the experience preempts the physical cause, doing the actual causal work. The physical state is sidelined. This is the opposite of epiphenomenalism—consciousness is the operative cause, not a causally inert bystander.
+[Epiphenomenalism](/concepts/epiphenomenalism/) claims consciousness causes *nothing*. Observational closure allows consciousness to cause *everything it appears to cause*—the avoidance behaviour, the verbal reports, the neural downstream effects. The observational indistinguishability concerns what *laboratories* can detect, not whether causation occurs. Saad's framework makes this explicit: the experience preempts the physical cause, doing the actual causal work. The physical state is sidelined. This is the opposite of epiphenomenalism—consciousness is the operative cause, not a causally inert bystander.
 
 ### "This Seems Designed to Avoid Refutation"
 
@@ -105,8 +105,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [preemption](/concepts/preemption/) — The causal structure making delegation observationally invisible
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation violates neither conservation laws nor observational closure
-- [cognitive closure](/concepts/mysterianism/) — The distinct epistemic thesis about limits of human understanding
-- [mysterianism](/concepts/mysterianism/) — Broader philosophical position applying cognitive closure to consciousness
+- [mysterianism](/concepts/mysterianism/) — Cognitive closure and the broader mysterian position on limits of human understanding
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework observational closure defends
 - [the-reverse-inference](/topics/the-reverse-inference/) — The epistemic argument: consciousness constrains physics within observational closure's bounds
 
