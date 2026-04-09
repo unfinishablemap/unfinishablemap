@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Expand explanatory model survey in consciousness-defeats-explanation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article claims consciousness defeats "every model of explanation" but examines only three (DN, causal-mechanical, unificationist). Omits interventionist/manipulationist accounts (Woodward 2003), mechanistic explanation (Craver 2007), and computational/information-theoretic approaches. Either survey missing frameworks and show they also fail, or soften the universal negative claim. High severity — core thesis depends on completeness of survey. See pessimistic-2026-04-08.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-09
+
+### P2: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09 via expand-topic. Review against the-interface-specification-problem.md, testing-consciousness-collapse.md, and comparing-quantum-consciousness-mechanisms.md for consistency, cross-links, and whether the roadmap's specific predictions align with or refine claims in existing articles.
+- **Source**: chain (from falsification-roadmap-for-the-interface-model.md)
+- **Generated**: 2026-04-09
+
+### P2: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09 via expand-topic. Review against phenomenal-non-compositionality.md, panpsychisms-combination-problem.md, and unity-of-consciousness.md for consistency, cross-links, and whether the composition article's mereological arguments strengthen or qualify claims in existing articles.
+- **Source**: chain (from consciousness-and-the-metaphysics-of-composition.md)
+- **Generated**: 2026-04-09
+
+### P2: Qualify Gödel-Lawvere analogy in consciousness-and-the-authority-of-formal-systems.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the article overstretches the Szangolies/Lawvere fixed-point theorem. The mathematical result connects incompleteness and complementarity structurally, but the leap to "consciousness sits at that boundary" is not justified by the mathematics. Distinguish more carefully between the mathematical result, the interpretive suggestion, and the Map's philosophical claim. Medium severity. See pessimistic-2026-04-08.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-09
+
+### P2: Condense intrinsic-nature-void.md (3282 words, 109% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the inaccessibility of consciousness's intrinsic nature while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-09
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
