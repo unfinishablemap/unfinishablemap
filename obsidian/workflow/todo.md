@@ -441,12 +441,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-30
 
-### P2: Deep review dimensionality-void.md
-- **Type**: deep-review
-- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-03-23
-
 ### P3: Create concept page for testability-ledger
 - **Type**: expand-topic
 - **Notes**: Referenced in 2 articles but has no dedicated page. The Map makes specific empirical predictions across quantum consciousness, placebo, anaesthesia, and contemplative domains — a concept page cataloguing what's testable and what distinguishes the Map's predictions from competitors would strengthen the empirical credibility argument. Target section: concepts/.
@@ -2031,6 +2025,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Deep review dimensionality-void.md
+- **Type**: deep-review
+- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed). AI-generated content (ai_contribution: 100) created 2026-03-23 via expand-topic from research/voids-dimensionality-void-2026-03-23.md, never reviewed. Has only 2 inbound links (minimal integration). Voids article on the limits of conscious spatial representation. Verify coherence, accuracy of claims about dimensional representation, cross-references to related void articles (mathematical-void, mind-space-void), and tenet alignment.
+- **Output**: obsidian/voids/dimensionality-void.md
 
 ### ✓ 2026-04-09: Write article on consciousness and the metaphysics of composition
 - **Type**: expand-topic
