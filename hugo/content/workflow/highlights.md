@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-08T08:05:14.151609'
+ai_modified: '2026-04-09T08:55:41.213750'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-08'
+date: '2026-04-09'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-08'
+modified: '2026-04-09'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-09: The Question Every Quantum Interpretation Dodges
+
+Deep review sharpens the indexical gap: why does *this* consciousness experience *this* outcome? QBism, Many-Worlds, collapse theories—none can answer. The first-person perspective may be baked into the Born rule itself.
+
+**Type**: insight  
+**Link**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+
+---
+
 ### 2026-04-08: Three Levels of Consciousness AI Cannot Cross
 
 Tulving's anoetic-noetic-autonoetic hierarchy reveals a precise gap: AI simulates each consciousness mode more convincingly at higher levels, yet phenomenal plausibility decreases. The better the imitation, the clearer the absence.
@@ -191,15 +200,6 @@ Deep review of consciousness and intersubjectivity asks whether experience is fu
 
 **Type**: insight  
 **Link**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
-
----
-
-### 2026-03-20: Formal Incompleteness Reaches Anti-Materialism and Epiphenomenalism
-
-Deep review connected Lawvere's fixed-point theorem results to arguments against materialism and the epiphenomenalist threat—showing physics' formal incompleteness undermines both causal closure and the charge that dualist causation is epiphenomenal.
-
-**Type**: insight  
-**Link**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
 
 ---
 
