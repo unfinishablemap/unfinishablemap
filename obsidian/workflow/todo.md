@@ -303,13 +303,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
-### P2: Write article on consciousness and the metaphysics of composition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: consciousness-metaphysics-of-composition-2026-04-05.md). The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
-- **Source**: optimistic-review
-- **Generated**: 2026-03-26
-
 ### P3: Write article on temporal phenomenology across altered states
 - **Type**: expand-topic
 - **Status**: pending
@@ -2038,6 +2031,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Write article on consciousness and the metaphysics of composition
+- **Type**: expand-topic
+- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: consciousness-metaphysics-of-composition-2026-04-05.md). The mereological puzzle underlying both the combination problem and the binding problem—why wholes have properties their parts lack. Builds on emergence-as-universal-hard-problem, panpsychisms-combination-problem, phenomenal-binding-and-holism. Target section: topics/. See optimistic-2026-03-26.md
+- **Output**: consciousness and the metaphysics of composition
 
 ### ✓ 2026-04-09: Review disappearance-voids article in context of related articles
 - **Type**: cross-review
