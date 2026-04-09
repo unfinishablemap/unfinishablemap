@@ -21,7 +21,7 @@ related_articles:
   - "[[affective-void]]"
   - "[[sleep-consciousness-void]]"
   - "[[agency-verification-void]]"
-  - "[[absorption-void]]"
+  - "[[disappearance-voids]]"
   - "[[appetitive-void]]"
   - "[[three-kinds-of-void]]"
   - "[[phenomenology-of-the-edge]]"
@@ -109,7 +109,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies directly. T
 - [[affective-void]] — The emotions we cannot feel
 - [[appetitive-void]] — The desires we cannot choose
 - [[sleep-consciousness-void]] — Where consciousness goes when it departs involuntarily
-- [[absorption-void]] — When peak experience eliminates reflective access
+- [[disappearance-voids|The Absorption Void]] — When peak experience eliminates reflective access
 - [[three-kinds-of-void]] — Unexplored, unexplorable, and occluded
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[agency-verification-void]] — The impossibility of verifying our own agency

@@ -20,7 +20,7 @@ related_articles:
   - "[[creativity-void]]"
   - "[[self-opacity]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[absorption-void]]"
+  - "[[disappearance-voids]]"
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
   - "[[involuntariness-void]]"
@@ -121,7 +121,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through the indexic
 - [[self-opacity|introspective opacity]] — Why we cannot observe cognitive processes, including willing
 - [[self-opacity|self-reference paradox]] — The observer that cannot observe itself
 - [[thoughts-that-slip-away]] — How thoughts escape before they can be captured
-- [[absorption-void]] — Where focused attention swallows the attending self
+- [[disappearance-voids|The Absorption Void]] — Where focused attention swallows the attending self
 - [[involuntariness-void]] — Consciousness cannot opt out of its own spontaneous content
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Thoughts arrive with immediate thereness that resists examination
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits

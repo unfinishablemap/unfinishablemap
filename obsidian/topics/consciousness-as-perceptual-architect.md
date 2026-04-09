@@ -36,7 +36,7 @@ related_articles:
   - "[[consciousness-and-the-phenomenology-of-place]]"
   - "[[predictive-processing-and-dualism]]"
   - "[[capability-division-problem]]"
-  - "[[habituation-void]]"
+  - "[[disappearance-voids]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

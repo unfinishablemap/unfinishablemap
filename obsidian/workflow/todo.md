@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review disappearance-voids article in context of related articles
+- **Type**: cross-review
+- **Notes**: Coalesce created disappearance-voids from absorption-void + habituation-void + fatigue-void. The following files reference the archived articles and may need review: expertise-occlusion, expertise-void, transition-void, temporal-void, thoughts-that-slip-away, voids, attention-and-consciousness, convergence-as-evidence, phenomenology-of-the-edge, limits-reveal-structure, conscious-vs-unconscious-processing, and others (26 files total updated).
+- **Source**: coalesce
+- **Generated**: 2026-04-09
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending

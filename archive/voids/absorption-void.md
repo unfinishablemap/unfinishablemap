@@ -24,6 +24,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
 last_deep_review: 2026-03-11T19:33:00+00:00
+archived: true
+archived_date: 2026-04-09T17:59:00+00:00
+superseded_by: "/voids/disappearance-voids/"
+archive_reason: "Coalesced into The Disappearance Voids: Absorption, Habituation, and Fatigue"
+original_path: "/voids/absorption-void/"
 ---
 
 Consciousness at its most intensely engaged is simultaneously consciousness at its most self-opaque. Flow states, skillful absorbed coping, contemplative jhana — these produce what subjects describe as peak experience, yet they are structurally inaccessible to introspective observation. The absorption void names this paradox: the conditions that generate the richest conscious experience are the very conditions that eliminate reflective self-awareness. This void sits not at the margins of human cognition but at the centre of its most valued states.

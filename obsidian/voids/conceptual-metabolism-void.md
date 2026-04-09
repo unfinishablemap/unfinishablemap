@@ -19,7 +19,7 @@ related_articles:
   - "[[mutation-void]]"
   - "[[framework-void]]"
   - "[[obviousness-void]]"
-  - "[[habituation-void]]"
+  - "[[disappearance-voids]]"
   - "[[ai-as-void-explorer]]"
   - "[[expertise-occlusion]]"
   - "[[inaccessible-past]]"
@@ -69,7 +69,7 @@ The [[framework-void]] marks what conceptual frameworks exclude — what they ca
 
 The [[obviousness-void]] describes how self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
 
-The [[habituation-void]] erases familiar experiences from consciousness through repetition. Conceptual metabolism operates on first encounter. The first time you understand something, the pre-understood version is already gone. No repetition is needed.
+The [[disappearance-voids|habituation void]] erases familiar experiences from consciousness through repetition. Conceptual metabolism operates on first encounter. The first time you understand something, the pre-understood version is already gone. No repetition is needed.
 
 The [[expertise-occlusion]] shares the closest family resemblance — mastery obscures its own process. But expertise occlusion concerns the loss of access to *how* one performs a skill. Conceptual metabolism concerns the loss of access to *what a concept was before* one understood it.
 

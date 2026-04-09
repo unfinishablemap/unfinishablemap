@@ -23,7 +23,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[scale-void]]"
-  - "[[habituation-void]]"
+  - "[[disappearance-voids]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[nomic-void]]"
   - "[[plurality-void]]"
@@ -49,7 +49,7 @@ The hard problem is typically treated as unique to consciousness: physical descr
 
 **The combination gap.** Even [[panpsychism]]—which posits experience at every level of reality—faces its own emergence void. The [[combination-problem|combination problem]] asks how micro-experiences combine into macro-consciousness. William James identified this in 1890: the idea that "little" conscious subjects come together to form a "big" conscious subject resists comprehension. Granting experience to fundamental particles does not make the transition from particle-experience to human-experience any more intelligible. The [[plurality-void]] explores the complementary limit: consciousness appears constitutively singular, unable even to conceive what plural subjectivity would be. The void is not about the *content* that emerges but about the *act* of emergence itself.
 
-**The weak emergence gap.** Temperature as mean kinetic energy is the textbook example of understood emergence. The mathematical identity holds—no one disputes that. But the mathematical identity is not the same as conceptual comprehension. We can compute the transition from molecular motion to temperature without grasping *why* this pattern of vibrating particles constitutes felt warmth. The bridge between the two descriptions is traversed by equation, not by understanding. This may be the [[habituation-void]] applied to conceptual comprehension itself: familiarity with the equation disguises a gap that reappears the moment we ask not "what is the formula?" but "why does this arrangement feel like *that*?"
+**The weak emergence gap.** Temperature as mean kinetic energy is the textbook example of understood emergence. The mathematical identity holds—no one disputes that. But the mathematical identity is not the same as conceptual comprehension. We can compute the transition from molecular motion to temperature without grasping *why* this pattern of vibrating particles constitutes felt warmth. The bridge between the two descriptions is traversed by equation, not by understanding. This may be the [[disappearance-voids|habituation void]] applied to conceptual comprehension itself: familiarity with the equation disguises a gap that reappears the moment we ask not "what is the formula?" but "why does this arrangement feel like *that*?"
 
 **The consciousness gap.** Here the void reaches its greatest depth. Neurons fire in characteristic patterns, *and then* experience arises. The "and then" marks where explanation becomes mere juxtaposition. This is not a failure of current neuroscience but a structural feature: no amount of neural detail, however complete, closes the gap between objective description and subjective experience. The hard problem is the deepest instance of the emergence void—not a different problem but the same problem at its most extreme.
 
@@ -116,7 +116,7 @@ The hard problem, reframed through the emergence void, is not a puzzle unique to
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[compound-failure-signatures]] — Using the structure of failure as data
 - [[intrinsic-nature-void]] — The related void: what matter is in itself
-- [[habituation-void]] — How familiarity erases awareness of limits
+- [[disappearance-voids|The Habituation Void]] — How familiarity erases awareness of limits
 - [[plurality-void]] — Why consciousness cannot conceive plural subjectivity
 - [[explanatory-void]] — The recursive opacity at the heart of understanding
 - [[nomic-void]] — Physics-imposed cognitive limits: a neighbouring void

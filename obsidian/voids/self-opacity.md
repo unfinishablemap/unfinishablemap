@@ -43,7 +43,7 @@ related_articles:
   - "[[emotional-epistemology-void]]"
   - "[[self-reference-paradox]]"
   - "[[boundary-void]]"
-  - "[[fatigue-void]]"
+  - "[[disappearance-voids]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

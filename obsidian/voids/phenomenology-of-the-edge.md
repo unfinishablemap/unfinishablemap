@@ -152,7 +152,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising edge-phenomenology as evidential data for boundary-mapping
 - [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection rather than slipping away
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage and dissolving insights
-- [[habituation-void|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
+- [[disappearance-voids|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
 - [[resonance-void|The Resonance Void]] — Edge-phenomenology within ordinary consciousness: meaning that exceeds articulation without requiring practice or preparation
 - [[the-silence-void|The Silence Void]] — The ultimate edge: where cognitive cessation opens territory mapping cannot reach
 - [[mysterianism|Mysterianism]] — Colin McGinn's analysis of cognitive closure

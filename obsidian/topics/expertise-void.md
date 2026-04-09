@@ -19,8 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[three-kinds-of-void]]"
   - "[[expertise-occlusion]]"
-  - "[[absorption-void]]"
-  - "[[habituation-void]]"
+  - "[[disappearance-voids]]"
   - "[[biological-cognitive-closure]]"
   - "[[creativity-void]]"
   - "[[pre-conceptual-knowing]]"
@@ -64,7 +63,7 @@ The curse of knowledge (Camerer, Loewenstein, and Weber, 1989) provides experime
 
 The Dreyfus and Dreyfus (1986) five-stage model of skill acquisition—novice, advanced beginner, competent, proficient, expert—reveals something philosophically radical at the highest level. At the expert stage, absorption replaces deliberation. As Dreyfus later argued, "In total absorption, one ceases being a subject altogether" (Dreyfus, 2002). The expert performer is not thinking about what they do; they are not thinking at all, in the reflective sense. Consciousness in expert flow has no available vantage point from which to observe itself.
 
-This creates a deeper void within the void. Not only can the expert not recover their novice phenomenology, but at the moment of peak expertise—in flow—there may be no subject present to observe the transformation. The void is defended by its own structure: to examine expertise reflectively is to temporarily exit the expert mode. The [[absorption-void|absorption void]] and the expertise void reinforce each other.
+This creates a deeper void within the void. Not only can the expert not recover their novice phenomenology, but at the moment of peak expertise—in flow—there may be no subject present to observe the transformation. The void is defended by its own structure: to examine expertise reflectively is to temporarily exit the expert mode. The [[disappearance-voids|absorption void]] and the expertise void reinforce each other.
 
 ## The Taxonomy of the Limit
 
@@ -107,8 +106,8 @@ The expertise void also connects to the [[biological-cognitive-closure|developme
 - [[expertise-occlusion]] — Why the void is actively defended: the lock on the one-way door
 - [[consciousness-and-skill-acquisition]] — How the stages of skill acquisition challenge epiphenomenalism
 - [[skill-delegation]] — The three-phase process (calibration, withdrawal, retained override) that creates the expertise void when withdrawal becomes irreversible
-- [[absorption-void]]
-- [[habituation-void]]
+- [[disappearance-voids|The Absorption Void]]
+- [[disappearance-voids|The Habituation Void]]
 - [[biological-cognitive-closure]]
 - [[creativity-void]]
 - [[three-kinds-of-void]]

@@ -27,7 +27,7 @@ related_articles:
   - "[[the-silence-void]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
-  - "[[fatigue-void]]"
+  - "[[disappearance-voids]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -172,7 +172,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [[the-silence-void]] — Voluntary cessation through contemplative practice
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Anaesthesia and coma as parallel cases of consciousness-brain decoupling
 - [[hypnagogic-phenomenology-and-interface-modulation]] — The graded, multi-channel nature of the sleep-wake transition
-- [[fatigue-void]] — Consciousness degradation through exhaustion as a parallel state-dependent limit
+- [[disappearance-voids|The Fatigue Void]] — Consciousness degradation through exhaustion as a parallel state-dependent limit
 
 ## References
 

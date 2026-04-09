@@ -153,7 +153,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of cognitive slippage
 - [[boundary-void|The Boundary Void]] — Consciousness cannot determine its own boundaries, yet this failure reveals architectural structure
-- [[habituation-void|The Habituation Void]] — How familiarity-limits reveal novelty-orientation in consciousness
+- [[disappearance-voids|The Habituation Void]] — How familiarity-limits reveal novelty-orientation in consciousness
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[convergence-as-evidence|Convergence as Evidence]] — How the full catalogue's limits converge into five families and constitute evidence for dualism

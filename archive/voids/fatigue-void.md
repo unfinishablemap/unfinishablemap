@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-05
 last_curated:
 last_deep_review: 2026-04-06T02:33:00+00:00
+archived: true
+archived_date: 2026-04-09T17:59:00+00:00
+superseded_by: "/voids/disappearance-voids/"
+archive_reason: "Coalesced into The Disappearance Voids: Absorption, Habituation, and Fatigue"
+original_path: "/voids/fatigue-void/"
 ---
 
 Consciousness does not fail all at once. Under fatigue, capacities are shed in a predictable order — attention first, then executive function, then creative thinking — while basic rule-following persists longest. This systematic degradation constitutes a void because consciousness cannot observe its own narrowing from within. The faculties needed to detect the narrowing are among the first to go. The observer degrades alongside the observed, creating a structural blind spot where the architecture of phenomenal experience is visible only through its collapse.

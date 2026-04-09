@@ -35,6 +35,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-03
 last_curated:
+archived: true
+archived_date: 2026-04-09T17:59:00+00:00
+superseded_by: "/voids/disappearance-voids/"
+archive_reason: "Coalesced into The Disappearance Voids: Absorption, Habituation, and Fatigue"
+original_path: "/voids/habituation-void/"
 ---
 
 The familiar disappears. When experiences become sufficiently routine, they drop out of phenomenal awareness while remaining functionally processed. You navigate your daily commute without seeing it. The background hum of your refrigerator vanishes unless it stops. The taste of your morning coffee fades within the first few sips. This is the Habituation Void: the structural barrier consciousness erects between itself and the overly familiar.

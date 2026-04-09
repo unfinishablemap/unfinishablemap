@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[habituation-void]]"
+  - "[[disappearance-voids]]"
   - "[[explanatory-void]]"
   - "[[self-opacity]]"
   - "[[necessary-opacity]]"
@@ -48,7 +48,7 @@ Cognitive science has identified the mechanism. **Processing fluency**—the eas
 
 This creates a feedback loop. A claim encountered frequently processes fluently. Fluent processing generates a feeling of truth. The feeling of truth generates a feeling of obviousness. The feeling of obviousness terminates inquiry. The claim is never examined because it has already been accepted—not through evidence but through ease. Metacognitive research suggests that feelings of rightness function as regulatory signals that can discourage further analytical processing (Fernández Velasco & Loev, 2025).
 
-The obviousness void differs from the [[habituation-void]] in mechanism and target. Habituation erases the *experience* of familiar stimuli from awareness. The obviousness void preserves the experience but overlays it with a feeling of completeness that prevents deeper engagement. You can look directly at the obvious and still be occluded—not because the object has disappeared from awareness but because it arrives pre-packaged with the conviction that nothing more needs to be seen.
+The obviousness void differs from the [[disappearance-voids|habituation void]] in mechanism and target. Habituation erases the *experience* of familiar stimuli from awareness. The obviousness void preserves the experience but overlays it with a feeling of completeness that prevents deeper engagement. You can look directly at the obvious and still be occluded—not because the object has disappeared from awareness but because it arrives pre-packaged with the conviction that nothing more needs to be seen.
 
 ## Philosophical Convergence
 
@@ -95,7 +95,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
-- [[habituation-void|The Habituation Void]] — How familiarity erases experience (distinct mechanism, related effect)
+- [[disappearance-voids|The Habituation Void]] — How familiarity erases experience (distinct mechanism, related effect)
 - [[explanatory-void|The Explanatory Void]] — When the feeling of understanding substitutes for understanding itself
 - [[self-opacity]] — Consciousness cannot fully know itself
 - [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy, and this opacity is structural

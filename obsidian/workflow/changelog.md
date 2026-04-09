@@ -5,6 +5,14 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-09 17:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[absorption-void]], [[habituation-void]], [[fatigue-void]]
+- **Target**: [[disappearance-voids]]
+- **Archived**: archive/voids/absorption-void.md, archive/voids/habituation-void.md, archive/voids/fatigue-void.md
+- **References updated**: 26 files
+- **Net section reduction**: voids 99 → 97 (freed 2 slots)
+
 ## 2026-04-09 16:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Falsification Roadmap for the Interface Model

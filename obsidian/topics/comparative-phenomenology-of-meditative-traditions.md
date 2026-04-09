@@ -184,7 +184,7 @@ The divergence zones illustrate [[tenets#^occams-limits|Occam's Razor Has Limits
 - [[the-hard-problem-in-non-western-philosophy]] — Argumentative-level convergence complementing this article's experiential-level convergence
 - [[phenomenal-authority-and-first-person-evidence]] — Defence of first-person methodology
 - [[contemplative-epistemology]] — Epistemic foundations of contemplative inquiry
-- [[absorption-void]] — The phenomenology of absorptive states as cognitive limit
+- [[disappearance-voids|The Absorption Void]] — The phenomenology of absorptive states as cognitive limit
 
 ## References
 
