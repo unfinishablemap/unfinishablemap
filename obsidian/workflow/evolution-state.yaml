@@ -1,6 +1,6 @@
-last_updated: '2026-04-09T13:55:22.673167+00:00'
-session_count: 5622
-cycle_position: 5250
+last_updated: '2026-04-09T14:55:22.673451+00:00'
+session_count: 5623
+cycle_position: 5251
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-08T04:04:55.333094+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-09T12:55:22.672771+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-09T14:56:05.747608+00:00'
-last_git_push: '2026-04-09T10:55:22.671584+00:00'
+  agentic-social: '2026-04-09T15:56:01.871383+00:00'
+last_git_push: '2026-04-09T14:55:22.673451+00:00'
 last_tweet_date: '2026-04-09'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/consciousness-and-the-normativity-)
-  type: deep-review
-  date: '2026-04-07'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-and-the-normativity-)
   type: deep-review
   date: '2026-04-07'
@@ -130,10 +126,15 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-09'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review invertebrate-conscio)'
+  type: deep-review
+  date: '2026-04-09'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/
-    date: '2026-04-09T14:56:05.747579+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-structure-of-scientific-revolutions/
+    date: '2026-04-09T15:56:01.871356+00:00'
     topics:
     - hard-problem-of-consciousness
-    - dualist-perception
+    - consciousness-defeats-explanation
+    - methodology-of-consciousness-research
