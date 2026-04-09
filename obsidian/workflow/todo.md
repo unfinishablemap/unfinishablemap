@@ -79,13 +79,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-09
 
-### P2: Deep review imagination-and-creativity-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed, 66 days old). AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the limits of imagination and creativity as cognitive capacities. Verify coherence, accuracy of claims, cross-references to related void articles and creativity/imagination topic articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-06
-
 ### P3: Deep review whether-real.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2064,6 +2057,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Deep review imagination-and-creativity-void.md
+- **Type**: deep-review
+- **Notes**: Promoted from P3 by queue replenishment (staleness: never reviewed, 66 days old). AI-generated content (ai_contribution: 100) with no recorded deep review ever. Voids article on the limits of imagination and creativity as cognitive capacities. Verify coherence, accuracy of claims, cross-references to related void articles and creativity/imagination topic articles, and tenet alignment.
+- **Output**: obsidian/voids/imagination-and-creativity-void.md
 
 ### ✓ 2026-04-09: Integrate indexical-void.md into site navigation
 - **Type**: integrate-orphan
