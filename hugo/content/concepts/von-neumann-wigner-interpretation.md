@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 17:40:00+00:00
+ai_modified: 2026-04-09 06:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[spontaneous-collapse-theories]]'
 - '[[coupling-modes]]'
 - '[[motor-control-quantum-zeno]]'
+- '[[indexical-identity-quantum-measurement]]'
 title: The Von Neumann–Wigner Interpretation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -75,7 +76,7 @@ Several objections have shaped the interpretation's reception:
 
 **The prebiotic problem.** If consciousness causes collapse, what determined quantum outcomes for the ~13.8 billion years before conscious observers existed? Stars formed, chemistry proceeded, and evolution unfolded—all requiring definite physical outcomes. See [prebiotic-collapse](/concepts/prebiotic-collapse/) for the Map's resolution through objective reduction with consciousness modulation.
 
-**The multi-observer problem.** When multiple conscious observers measure the same system, whose consciousness collapses the wave function? If Alice and Bob observe correlated quantum systems, their results must agree—but the interpretation provides no mechanism for coordinating independent conscious collapses. The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) develops this challenge in detail.
+**The multi-observer problem.** When multiple conscious observers measure the same system, whose consciousness collapses the wave function? If Alice and Bob observe correlated quantum systems, their results must agree—but the interpretation provides no mechanism for coordinating independent conscious collapses. The [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/) develops this challenge in detail. More broadly, the question "whose consciousness?" is one instance of the [indexical gap](/topics/indexical-identity-quantum-measurement/)—the unsolved question of why *this* particular consciousness experiences *this* particular outcome.
 
 **The demarcation problem.** Which systems are conscious? If consciousness causes collapse, the answer matters physically. But we have no agreed criterion for consciousness—making the interpretation's predictions depend on an unsolved problem in philosophy of mind.
 
@@ -115,6 +116,7 @@ The interpretation also connects to [No Many Worlds](/tenets/#no-many-worlds): M
 - [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Comparative analysis of three forward-in-time frameworks (Orch OR, Stapp Zeno, Chalmers-McQueen)
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — Objective collapse as baseline mechanism
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness acts only on its own brain's quantum events
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap: why *this* consciousness experiences *this* collapsed outcome
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

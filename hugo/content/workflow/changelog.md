@@ -4,10 +4,28 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-08'
+date: '2026-04-09'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-09 06:56 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Word count**: 2726 → 2726 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-link gaps in other articles)
+- **Enhancements made**: 3 inbound cross-links added (von-neumann-wigner-interpretation, qm-interpretations-beyond-many-worlds, time-collapse-and-agency)
+- **Output**: [deep-review-2026-04-09-indexical-identity-quantum-measurement](/reviews/deep-review-2026-04-09-indexical-identity-quantum-measurement/)
+
+## 2026-04-08 12:05 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Word count**: 2357 → 2357 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 5 inbound cross-links added from voids/concepts cluster
+- **Output**: [deep-review-2026-04-08-indexical-knowledge-and-identity](/reviews/deep-review-2026-04-08-indexical-knowledge-and-identity/)
 
 ## 2026-04-08 10:05 UTC - deep-review
 - **Status**: Success

@@ -116,6 +116,7 @@ The indexical void connects to the Map's [tenets](/tenets/) in a distinctive way
 ## Further Reading
 
 - [vertiginous-question](/topics/vertiginous-question/) — The philosophical problem in detail
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — The epistemic and metaphysical dimensions of indexical knowledge
 - [haecceity](/concepts/haecceity/) — Primitive thisness and indexical identity
 - [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself
 - [other-minds-void](/voids/other-minds-void/) — The privacy of each consciousness

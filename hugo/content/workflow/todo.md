@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate indexical-knowledge-and-identity.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Concept page has no inbound links. Created via coalesce from indexical-knowledge and indexical-facts concepts. Deep-reviewed 2026-04-07. Add cross-references from related articles (indexical-identity-quantum-measurement, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-07
-
-### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: Topics article has no inbound links. Deep-reviewed 2026-04-07. Covers the intersection of indexical identity with quantum measurement — directly relevant to Tenet 4 (No Many Worlds). Add cross-references from related articles (no-many-worlds, personal-identity, indexical-knowledge-and-identity, quantum-measurement) to integrate into site navigation.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-07
-
 ### P2: Integrate indexical-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: Voids article has no inbound links. Deep-reviewed 2026-04-07. Explores the impossibility of capturing indexical identity in objective description. Add cross-references from related articles (indexical-knowledge-and-identity, taxonomy-of-voids, the-surplus-void) or update the voids index to include navigation to this content.
@@ -2069,6 +2057,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Topics article has no inbound links. Deep-reviewed 2026-04-07. Covers the intersection of indexical identity with quantum measurement — directly relevant to Tenet 4 (No Many Worlds). Add cross-references from related articles (no-many-worlds, personal-identity, indexical-knowledge-and-identity, quantum-measurement) to integrate into site navigation.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-08: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Concept page has no inbound links. Created via coalesce from indexical-knowledge and indexical-facts concepts. Deep-reviewed 2026-04-07. Add cross-references from related articles (indexical-identity-quantum-measurement, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/indexical-knowledge-and-identity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-08: Survey missing explanatory frameworks in consciousness-defeats-explanation.md
 - **Type**: refine-draft
