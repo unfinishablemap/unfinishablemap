@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-09T06:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[phenomenology-of-temporal-consciousness-and-agency]]"
   - "[[agent-causation]]"
+  - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -171,7 +172,7 @@ Alfred North Whitehead's process philosophy offers a complementary framework. Fo
 
 *Duration as experiential extension.* Whitehead's actual occasions aren't durationless instants but experiential quanta with internal structure. This resonates with Bergson's [[temporal-consciousness|durée]] and the framework's treatment of the specious present as constitutive activity.
 
-*Haecceity and indexical identity.* Each actual occasion has a [[haecceity]]—a primitive thisness that makes it *this* occasion rather than any other. *This* consciousness making *this* selection creates *this* temporal structure. The particularity cannot be eliminated without losing what selection explains.
+*Haecceity and indexical identity.* Each actual occasion has a [[haecceity]]—a primitive thisness that makes it *this* occasion rather than any other. *This* consciousness making *this* selection creates *this* temporal structure. The particularity cannot be eliminated without losing what selection explains. This is the same [[indexical-identity-quantum-measurement|indexical gap]] that persists across quantum interpretations—the question of why *this* subject experiences *this* outcome—now applied to temporal becoming.
 
 ## Implications for Free Will
 
@@ -245,6 +246,7 @@ This synthesis strengthens and deepens each of the five tenets:
 - [[illusionism]] — The eliminativist challenge and the Map's response
 - [[introspection]] — First-person methods and temporal phenomenology
 - [[haecceity]] — Indexical identity and why *this* consciousness matters
+- [[indexical-identity-quantum-measurement]] — The indexical gap across quantum interpretations
 - [[witness-consciousness]] — Suspended selection in contemplative practice
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-collapse interaction
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integrating first-person observation with neuroscience

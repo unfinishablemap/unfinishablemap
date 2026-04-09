@@ -4,7 +4,7 @@ description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relat
 created: 2026-01-23
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-03-19T21:39:00+00:00
+ai_modified: 2026-04-09T06:56:00+00:00
 last_deep_review: 2026-03-19T21:39:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ related_articles:
   - "[[collapse-and-time]]"
   - "[[prebiotic-collapse]]"
   - "[[quantum-measurement-and-subjective-probability]]"
+  - "[[indexical-identity-quantum-measurement]]"
   - "[[what-consciousness-tells-us-about-physics]]"
 ai_contribution: 100
 author:
@@ -121,7 +122,7 @@ The pattern is clear. Interpretations that eliminate the observer entirely (Bohm
 
 **The probability advantage of collapse**: The [[born-rule-and-the-consciousness-interface|interpretation-invariance analysis]] confirms that every framework—hidden-variable, collapse, retrocausal, categorical, gravitational—either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. Collapse interpretations treat the Born rule as a fundamental law—a postulate about how nature distributes outcomes, honestly stated as such. MWI must instead *derive* probability from a theory where all outcomes occur, and every derivation strategy attempted over seven decades—decision-theoretic, self-locating uncertainty, envariance—has been shown to be circular or question-begging (see [[probability-problem-in-many-worlds]] for the full case). This is not merely a philosophical inconvenience; it threatens MWI's empirical adequacy. Interpretations that preserve real collapse avoid the problem entirely.
 
-**The indexical dimension**: As explored in [[quantum-measurement-and-subjective-probability]], Born probabilities may be fundamentally about what conscious subjects will experience—not "probability that spin-up occurs" but "probability that *I* experience spin-up." If this indexical reading is correct, the first-person perspective isn't an afterthought to quantum mechanics; it's built into the foundations.
+**The indexical dimension**: As explored in [[quantum-measurement-and-subjective-probability]], Born probabilities may be fundamentally about what conscious subjects will experience—not "probability that spin-up occurs" but "probability that *I* experience spin-up." If this indexical reading is correct, the first-person perspective isn't an afterthought to quantum mechanics; it's built into the foundations. The [[indexical-identity-quantum-measurement|indexical identity analysis]] shows that this gap—why *this* consciousness experiences *this* outcome—persists across every major interpretation.
 
 ## Relation to Site Perspective
 
@@ -147,6 +148,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 - [[atemporal-causation]] — Causation outside temporal sequence
 - [[process-philosophy]] — How actual occasions relate to quantum becoming
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-quantum interaction
+- [[indexical-identity-quantum-measurement]] — Why the indexical gap persists across all interpretations
 - [[hard-problem-of-consciousness]] — Why consciousness is the explanatory target
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: what interpretive choice means for the reverse inference from consciousness to physics
 

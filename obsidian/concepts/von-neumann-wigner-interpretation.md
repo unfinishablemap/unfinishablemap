@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T17:40:00+00:00
+ai_modified: 2026-04-09T06:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[spontaneous-collapse-theories]]"
   - "[[coupling-modes]]"
   - "[[motor-control-quantum-zeno]]"
+  - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -72,7 +73,7 @@ Several objections have shaped the interpretation's reception:
 
 **The prebiotic problem.** If consciousness causes collapse, what determined quantum outcomes for the ~13.8 billion years before conscious observers existed? Stars formed, chemistry proceeded, and evolution unfolded—all requiring definite physical outcomes. See [[prebiotic-collapse]] for the Map's resolution through objective reduction with consciousness modulation.
 
-**The multi-observer problem.** When multiple conscious observers measure the same system, whose consciousness collapses the wave function? If Alice and Bob observe correlated quantum systems, their results must agree—but the interpretation provides no mechanism for coordinating independent conscious collapses. The [[multi-mind-collapse-problem]] develops this challenge in detail.
+**The multi-observer problem.** When multiple conscious observers measure the same system, whose consciousness collapses the wave function? If Alice and Bob observe correlated quantum systems, their results must agree—but the interpretation provides no mechanism for coordinating independent conscious collapses. The [[multi-mind-collapse-problem]] develops this challenge in detail. More broadly, the question "whose consciousness?" is one instance of the [[indexical-identity-quantum-measurement|indexical gap]]—the unsolved question of why *this* particular consciousness experiences *this* particular outcome.
 
 **The demarcation problem.** Which systems are conscious? If consciousness causes collapse, the answer matters physically. But we have no agreed criterion for consciousness—making the interpretation's predictions depend on an unsolved problem in philosophy of mind.
 
@@ -112,6 +113,7 @@ The interpretation also connects to [[tenets#^no-many-worlds|No Many Worlds]]: M
 - [[non-retrocausal-conscious-selection-models]] — Comparative analysis of three forward-in-time frameworks (Orch OR, Stapp Zeno, Chalmers-McQueen)
 - [[spontaneous-collapse-theories]] — Objective collapse as baseline mechanism
 - [[brain-interface-boundary]] — Why consciousness acts only on its own brain's quantum events
+- [[indexical-identity-quantum-measurement]] — The indexical gap: why *this* consciousness experiences *this* collapsed outcome
 - [[tenets]] — The Map's foundational commitments
 
 ## References
