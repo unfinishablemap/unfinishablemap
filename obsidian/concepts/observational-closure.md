@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-03-25T16:30:00+00:00
+ai_modified: 2026-04-09T10:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[preemption]]"
   - "[[stapp-quantum-mind]]"
   - "[[quantum-indeterminacy-free-will]]"
-  - "[[concepts/epiphenomenalism]]"
+  - "[[epiphenomenalism]]"
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-13
 last_curated:
-last_deep_review: 2026-03-13T17:19:00+00:00
+last_deep_review: 2026-04-09T10:56:00+00:00
 ---
 
 Observational closure is the thesis that no *observable* violations of physical causal patterns exist—that physics appears causally complete in every domain accessible to experiment. Bradford Saad (2025) introduced this distinction to separate what the evidence actually shows from the stronger metaphysical claim that [[causal-closure|causal closure]] defenders typically assert. The distinction matters because the standard argument against [[mental-causation-and-downward-causation|mental causation]] requires *universal* closure (no exceptions anywhere), while the scientific evidence supports only observational closure (no *detectable* exceptions). Dualists who accept observational closure while denying universal closure can maintain that consciousness genuinely causes physical effects without contradicting any empirical finding.
@@ -72,7 +72,7 @@ The general claim that *some* mental causation exists somewhere is indeed unfals
 
 ### "This Is Epiphenomenalism in Disguise"
 
-[[concepts/epiphenomenalism]] claims consciousness causes *nothing*. Observational closure allows consciousness to cause *everything it appears to cause*—the avoidance behaviour, the verbal reports, the neural downstream effects. The observational indistinguishability concerns what *laboratories* can detect, not whether causation occurs. Saad's framework makes this explicit: the experience preempts the physical cause, doing the actual causal work. The physical state is sidelined. This is the opposite of epiphenomenalism—consciousness is the operative cause, not a causally inert bystander.
+[[epiphenomenalism|Epiphenomenalism]] claims consciousness causes *nothing*. Observational closure allows consciousness to cause *everything it appears to cause*—the avoidance behaviour, the verbal reports, the neural downstream effects. The observational indistinguishability concerns what *laboratories* can detect, not whether causation occurs. Saad's framework makes this explicit: the experience preempts the physical cause, doing the actual causal work. The physical state is sidelined. This is the opposite of epiphenomenalism—consciousness is the operative cause, not a causally inert bystander.
 
 ### "This Seems Designed to Avoid Refutation"
 
@@ -102,8 +102,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [[preemption]] — The causal structure making delegation observationally invisible
 - [[stapp-quantum-mind]] — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [[conservation-laws-and-mental-causation]] — Why mental causation violates neither conservation laws nor observational closure
-- [[mysterianism|cognitive closure]] — The distinct epistemic thesis about limits of human understanding
-- [[mysterianism]] — Broader philosophical position applying cognitive closure to consciousness
+- [[mysterianism]] — Cognitive closure and the broader mysterian position on limits of human understanding
 - [[interactionist-dualism]] — The framework observational closure defends
 - [[the-reverse-inference]] — The epistemic argument: consciousness constrains physics within observational closure's bounds
 
