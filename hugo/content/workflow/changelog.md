@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-09 14:56 UTC - deep-review
+- **Status**: Success
+- **File**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
+- **Word count**: 2175 → 2279 (+104)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-09-invertebrate-consciousness-as-interface-test](/reviews/deep-review-2026-04-09-invertebrate-consciousness-as-interface-test/)
+
+## 2026-04-09 13:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Invertebrate consciousness as interface test case
+- **Output**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/)
+- **Word count**: 2175
+- **Based on research**: yes, [invertebrate-consciousness-interface-test-case-2026-04-06](/research/invertebrate-consciousness-interface-test-case-2026-04-06/)
+
 ## 2026-04-09 12:56 UTC - coalesce
 - **Status**: Success
 - **Sources**: [intrinsic-nature-void](/voids/intrinsic-nature-void/), [substrate-void](/voids/substrate-void/)
