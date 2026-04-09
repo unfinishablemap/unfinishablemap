@@ -226,11 +226,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-03-28
 
-### P2: Write article on invertebrate consciousness as interface test case
-- **Type**: expand-topic
+### P2: Cross-review invertebrate-consciousness-as-interface-test against related articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: invertebrate-consciousness-interface-test-case-2026-04-06.md). Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) provides a striking test for the interface model—if consciousness couples through radically different neural architectures, the model must accommodate multiple coupling mechanisms. See optimistic-2026-04-05.md
-- **Generated**: 2026-04-05
+- **Notes**: Chain from expand-topic. Review new article against animal-consciousness.md, consciousness-in-simple-organisms.md, interface-heterogeneity.md, cetacean-and-corvid-consciousness.md for consistency and cross-linking opportunities.
+- **Generated**: 2026-04-09
 
 ### P2: Write falsification roadmap for the interface model
 - **Type**: expand-topic
@@ -2050,6 +2050,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-09: Write article on invertebrate consciousness as interface test case
+- **Type**: expand-topic
+- **Notes**: Promoted from P3 by queue replenishment (unconsumed research: invertebrate-consciousness-interface-test-case-2026-04-06.md). Cephalopod consciousness (distributed nervous system, independently evolved camera eyes, tool use) provides a striking test for the interface model—if consciousness couples through radically different neural architectures, the model must accommodate multiple coupling mechanisms. See optimistic-2026-04-05.md
+- **Output**: invertebrate consciousness as interface test case
 
 ### ✓ 2026-04-09: Deep review second-person-void.md
 - **Type**: deep-review
