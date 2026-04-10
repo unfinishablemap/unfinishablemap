@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix broken wikilinks to epistemological-limits-of-occams-razor across content
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 20+ content files reference [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) but this slug does not exist. The archived file archive/concepts/epistemological-limits-parsimony.md suggests the content was coalesced or archived under a different name. Update wikilinks across topics/ and concepts/ to point to parsimony-epistemology or the appropriate replacement article.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-10
-
 ### P2: Cross-review composition and binding articles considering consciousness-and-the-metaphysics-of-composition insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2096,6 +2089,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Fix broken wikilinks to epistemological-limits-of-occams-razor across content
+- **Type**: refine-draft
+- **Notes**: 20+ content files reference [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) but this slug does not exist. The archived file archive/concepts/epistemological-limits-parsimony.md suggests the content was coalesced or archived under a different name. Update wikilinks across topics/ and concepts/ to point to parsimony-epistemology or the appropriate replacement article.
+- **Output**: Task context:
+20+ content files reference [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) but this slug does not exist. The archived file archive/concepts/epistemological-limits-parsimony.md suggests the content was coalesced or archived under a different name. Update wikilinks across topics/ and concepts/ to point to parsimony-epistemology or the appropriate replacement article.
 
 ### ✓ 2026-04-10: Create concept page for many-worlds-argument
 - **Type**: expand-topic

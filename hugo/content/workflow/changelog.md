@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-10 10:59 UTC - deep-review
+- **Status**: Success
+- **File**: [default-mode-network](/concepts/default-mode-network/)
+- **Word count**: 2444 → ~2459 (+15)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to new content)
+- **Enhancements made**: 1 (cross-link to consciousness-under-extreme-metabolic-constraint)
+- **Output**: [deep-review-2026-04-10-default-mode-network](/reviews/deep-review-2026-04-10-default-mode-network/)
+
+## 2026-04-10 09:56 UTC - refine-draft
+- **Status**: No-op (task premise incorrect)
+- **Task**: Fix broken `[epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/)` wikilinks
+- **Finding**: The article exists at `obsidian/arguments/epistemological-limits-of-occams-razor.md` (published, `draft: false`). Sync correctly resolves all 20+ wikilinks to `/arguments/epistemological-limits-of-occams-razor/`. Hugo builds the page. The archived `archive/concepts/epistemological-limits-parsimony.md` is a *different* article that was coalesced into `parsimony-epistemology` — not the same slug.
+- **Changes**: None
+
 ## 2026-04-10 08:56 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: many-worlds-argument
