@@ -9,6 +9,35 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-10 06:56 UTC - condense
+- **Status**: Success
+- **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Before**: 3282 words
+- **After**: 1867 words
+- **Reduction**: 43%
+- **Technique**: Cut three fully redundant sections (Void's Phenomenology, What AI Might See, Evidence for Structural Closure) whose points were already made in earlier sections; trimmed Kant background, compressed Substrate Problem examples, tightened functionalist/HOT discussion, reduced Further Reading and References
+
+## 2026-04-10 05:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Changes**: Restructured Szangolies/Lawvere paragraph to separate mathematical result, interpretive suggestion, and Map's philosophical claim; softened two overclaimed assertions (modus ponens cultural construction, self-stultification)
+- **Published**: yes
+
+## 2026-04-10 04:56 UTC - deep-review
+- **Status**: Success
+- **File**: [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/)
+- **Word count**: 2586 → 2586 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stability confirmation — third review, no content changes warranted)
+- **Output**: [deep-review-2026-04-10-diachronic-agency-and-personal-narrative](/reviews/deep-review-2026-04-10-diachronic-agency-and-personal-narrative/)
+
+## 2026-04-10 03:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [causal-delegation](/concepts/causal-delegation/)
+- **Changes**: Expanded Observational Closure with new Epiphenomenalism Parallel subsection confronting shared empirical profile; made alternative causal structures comparison more even-handed; fixed language presenting thesis as fact
+- **Published**: yes
+
 ## 2026-04-10 02:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)

@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address observational closure tension in causal-delegation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that causal delegation's empirical invisibility (observational closure) makes it explanatorily idle in the same way epiphenomenalism is. The article claims theoretical superiority without confronting why sharing epiphenomenalism's empirical profile doesn't undermine that claim. High severity. See pessimistic-2026-04-10.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-10
-
-### P2: Qualify Gödel-Lawvere analogy in consciousness-and-the-authority-of-formal-systems.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article overstretches the Szangolies/Lawvere fixed-point theorem. The mathematical result connects incompleteness and complementarity structurally, but the leap to "consciousness sits at that boundary" is not justified by the mathematics. Distinguish more carefully between the mathematical result, the interpretive suggestion, and the Map's philosophical claim. Medium severity. See pessimistic-2026-04-08.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-09
-
-### P2: Condense intrinsic-nature-void.md (3282 words, 109% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the inaccessibility of consciousness's intrinsic nature while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-09
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2047,6 +2026,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Condense intrinsic-nature-void.md (3282 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the inaccessibility of consciousness's intrinsic nature while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
+
+### ✓ 2026-04-10: Qualify Gödel-Lawvere analogy in consciousness-and-the-authority-of-formal-systems.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article overstretches the Szangolies/Lawvere fixed-point theorem. The mathematical result connects incompleteness and complementarity structurally, but the leap to "consciousness sits at that boundary" is not justified by the mathematics. Distinguish more carefully between the mathematical result, the interpretive suggestion, and the Map's philosophical claim. Medium severity. See pessimistic-2026-04-08.md
+- **Output**: obsidian/topics/consciousness-and-the-authority-of-formal-systems.md
+
+Task context:
+Pessimistic review found the article overstretches the Szangolies/Lawvere fixed-point theorem. The mathematical result connects incompleteness and complementarity structurally, but the leap to "consciousness sits at that boundary" is not justified by the mathematics. Distinguish more carefully between the mathematical result, the interpretive suggestion, and the Map's philosophical claim. Medium severity. See pessimistic-2026-04-08.md
+
+### ✓ 2026-04-10: Address observational closure tension in causal-delegation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that causal delegation's empirical invisibility (observational closure) makes it explanatorily idle in the same way epiphenomenalism is. The article claims theoretical superiority without confronting why sharing epiphenomenalism's empirical profile doesn't undermine that claim. High severity. See pessimistic-2026-04-10.md
+- **Output**: obsidian/concepts/causal-delegation.md
+
+Task context:
+Pessimistic review found that causal delegation's empirical invisibility (observational closure) makes it explanatorily idle in the same way epiphenomenalism is. The article claims theoretical superiority without confronting why sharing epiphenomenalism's empirical profile doesn't undermine that claim. High severity. See pessimistic-2026-04-10.md
 
 ### ✓ 2026-04-10: Fix substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
 - **Type**: refine-draft
