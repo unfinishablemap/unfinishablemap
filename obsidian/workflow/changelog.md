@@ -5,6 +5,10 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 12:56 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched topics/ (227/230, most pressured section) across 5 iterations examining cognitive-capacity/limit-types, intellectual-courage/disagreement, ownership/individuation, predictive-processing pairs, bandwidth pairs, and methodology articles. All pairs are well-differentiated with distinct scopes. No strong merge candidates found.
+
 ## 2026-04-10 11:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]

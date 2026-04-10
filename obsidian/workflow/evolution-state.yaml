@@ -1,6 +1,6 @@
-last_updated: '2026-04-10T10:55:22.681339+00:00'
-session_count: 5643
-cycle_position: 5271
+last_updated: '2026-04-10T11:55:22.681823+00:00'
+session_count: 5644
+cycle_position: 5272
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-10T01:55:22.677855+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-09T17:55:22.674494+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-10T11:56:11.793915+00:00'
+  agentic-social: '2026-04-10T12:56:24.739244+00:00'
 last_git_push: '2026-04-10T10:55:22.681339+00:00'
 last_tweet_date: '2026-04-10'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-09'
-  outcome: success
 - task: expand-topic (Write falsification roadmap for the interface mode)
   type: expand-topic
   date: '2026-04-09'
@@ -132,10 +128,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-10'
   outcome: success
+- task: deep-review (obsidian/topics/consciousness-and-the-metaphysics-)
+  type: deep-review
+  date: '2026-04-10'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/machine-consciousness/
-    date: '2026-04-10T11:56:11.793885+00:00'
+  - url: https://unfinishablemap.org/concepts/mysterianism/
+    date: '2026-04-10T12:56:24.739221+00:00'
     topics:
-    - ai-consciousness
     - hard-problem-of-consciousness
