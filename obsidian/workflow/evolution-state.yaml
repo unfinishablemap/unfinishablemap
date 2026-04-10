@@ -1,6 +1,6 @@
-last_updated: '2026-04-10T12:55:22.682158+00:00'
-session_count: 5645
-cycle_position: 5273
+last_updated: '2026-04-10T13:55:22.682540+00:00'
+session_count: 5646
+cycle_position: 5274
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-10T01:55:22.677855+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-10T12:55:22.682158+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-10T13:56:10.940794+00:00'
+  agentic-social: '2026-04-10T14:56:12.048248+00:00'
 last_git_push: '2026-04-10T10:55:22.681339+00:00'
 last_tweet_date: '2026-04-10'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-09'
-  outcome: success
 - task: 'deep-review (None -- Context: Review disappearance-voids articl)'
   type: deep-review
   date: '2026-04-09'
@@ -132,13 +128,14 @@ recent_tasks:
   type: coalesce
   date: '2026-04-10'
   outcome: success
+- task: deep-review (obsidian/topics/falsification-roadmap-for-the-inte)
+  type: deep-review
+  date: '2026-04-10'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/filter-theory/
-    date: '2026-04-10T13:56:10.940772+00:00'
+  - url: https://unfinishablemap.org/concepts/emergence/
+    date: '2026-04-10T14:56:12.048219+00:00'
     topics:
     - hard-problem-of-consciousness
-    - the-interface-specification-problem
-    - the-interface-location-problem
-    - terminal-lucidity-and-filter-transmission-theory
-    - bandwidth-of-consciousness
+    - reductionism-and-consciousness

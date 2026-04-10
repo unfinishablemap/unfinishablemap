@@ -5,6 +5,11 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 14:56 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [[topics/stochastic-amplification-and-neural-selection]]
+- **Reason**: Article was archived on 2026-03-29, coalesced into [[topics/amplification-mechanisms-consciousness-physics]]. Orphan status is expected. Previous review (2026-03-30) already fixed stale references and confirmed replacement has 48+ inbound links. No content changes needed.
+
 ## 2026-04-10 13:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/falsification-roadmap-for-the-interface-model]]

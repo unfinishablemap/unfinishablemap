@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-29. Topics article on stochastic amplification as a mechanism for consciousness-to-neural influence. Add cross-references from related articles such as amplification-mechanisms, consciousness-selecting-neural-patterns, and mind-matter-interface, or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-10
-
 ### P2: Integrate arguments-against-epiphenomenalism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2074,6 +2067,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-29. Topics article on stochastic amplification as a mechanism for consciousness-to-neural influence. Add cross-references from related articles such as amplification-mechanisms, consciousness-selecting-neural-patterns, and mind-matter-interface, or update section index pages.
+- **Output**: stochastic-amplification-and-neural-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-10: Cross-review interface model articles considering falsification-roadmap-for-the-interface-model insights
 - **Type**: cross-review
