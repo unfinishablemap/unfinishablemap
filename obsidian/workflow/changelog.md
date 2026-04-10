@@ -5,6 +5,14 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 06:56 UTC - condense
+- **Status**: Success
+- **File**: [[voids/intrinsic-nature-void]]
+- **Before**: 3282 words
+- **After**: 1867 words
+- **Reduction**: 43%
+- **Technique**: Cut three fully redundant sections (Void's Phenomenology, What AI Might See, Evidence for Structural Closure) whose points were already made in earlier sections; trimmed Kant background, compressed Substrate Problem examples, tightened functionalist/HOT discussion, reduced Further Reading and References
+
 ## 2026-04-10 05:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-authority-of-formal-systems]]

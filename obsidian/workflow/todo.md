@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense intrinsic-nature-void.md (3282 words, 109% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the inaccessibility of consciousness's intrinsic nature while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-09
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2032,6 +2025,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Condense intrinsic-nature-void.md (3282 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Preserve core arguments about the inaccessibility of consciousness's intrinsic nature while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/intrinsic-nature-void.md
 
 ### ✓ 2026-04-10: Qualify Gödel-Lawvere analogy in consciousness-and-the-authority-of-formal-systems.md
 - **Type**: refine-draft
