@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review composition and binding articles considering consciousness-and-the-metaphysics-of-composition insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09. Review mereological-constitution, phenomenal-binding-and-holism, and binding-problem for cross-links, reinforcing arguments, or contradictions. The new article argues composition itself is evidence for non-physical consciousness — check consistency with existing mereology and binding treatments.
-- **Source**: chain (from consciousness-and-the-metaphysics-of-composition.md)
-- **Generated**: 2026-04-10
-
 ### P2: Cross-review interface model articles considering falsification-roadmap-for-the-interface-model insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2088,6 +2081,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Cross-review composition and binding articles considering consciousness-and-the-metaphysics-of-composition insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09. Review mereological-constitution, phenomenal-binding-and-holism, and binding-problem for cross-links, reinforcing arguments, or contradictions. The new article argues composition itself is evidence for non-physical consciousness — check consistency with existing mereology and binding treatments.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md -- Context: Cross-review composition and binding articles considering consciousness-and-the-metaphysics-of-composition insights
 
 ### ✓ 2026-04-10: Fix broken wikilinks to epistemological-limits-of-occams-razor across content
 - **Type**: refine-draft
