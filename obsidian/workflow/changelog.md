@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 18:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[biological-computationalisms-inadvertent-case-for-dualism]]
+- **Changes**: Addressed three pessimistic review issues — eliminated residual equivocation between substrate-dependent and non-physical (added physics analogies showing abstraction-resistance is common), fixed circular ACD argument (now explicitly flags presupposition of dualism), softened opening and tenet section framing
+- **Published**: yes
+
 ## 2026-04-10 18:10 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
 - **Sections searched**: topics (227/230), voids (97/100), concepts (221/230)

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-04-10.md) found three issues: (1) High: The article slides from "properties that resist abstraction" to "non-physical properties" — substrate-dependent properties can be entirely physical. The central inference (resisting abstraction = non-physical) is a non sequitur. (2) Medium: The adaptive computational depth argument ("the allocator must stand outside the computation") presupposes dualism to argue for dualism. (3) Medium: Piccinini's noncomputational functionalism is still physicalist — treating "not computational" as "not physical" repeats the equivocation. Acknowledge substrate-dependent properties can be physical; frame the argument as structural analogy rather than entailment.
-- **Source**: chain (from pessimistic-review 2026-04-10)
-- **Generated**: 2026-04-10
-
 ### P1: Address observational closure self-undermining tension in causal-delegation.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2102,6 +2095,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Address substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-10.md) found three issues: (1) High: The article slides from "properties that resist abstraction" to "non-physical properties" — substrate-dependent properties can be entirely physical. The central inference (resisting abstraction = non-physical) is a non sequitur. (2) Medium: The adaptive computational depth argument ("the allocator must stand outside the computation") presupposes dualism to argue for dualism. (3) Medium: Piccinini's noncomputational functionalism is still physicalist — treating "not computational" as "not physical" repeats the equivocation. Acknowledge substrate-dependent properties can be physical; frame the argument as structural analogy rather than entailment.
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
+
+Task context:
+Pessimistic review (pessimistic-2026-04-10.md) found three issues: (1) High: The article slides from "properties that resist abstraction" to "non-physical properties" — substrate-dependent properties can be entirely physical. The central inference (resisting abstraction = non-physical) is a non sequitur. (2) Medium: The adaptive computational depth argument ("the allocator must stand outside the computation") presupposes dualism to argue for dualism. (3) Medium: Piccinini's noncomputational functionalism is still physicalist — treating "not computational" as "not physical" repeats the equivocation. Acknowledge substrate-dependent properties can be physical; frame the argument as structural analogy rather than entailment.
 
 ### ✓ 2026-04-10: Integrate arguments-against-epiphenomenalism.md into site navigation
 - **Type**: integrate-orphan

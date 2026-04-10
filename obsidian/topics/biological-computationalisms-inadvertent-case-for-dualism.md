@@ -4,7 +4,7 @@ description: "Biological computationalism rejects substrate independence while r
 created: 2026-04-04
 modified: 2026-04-10
 human_modified:
-ai_modified: 2026-04-10T02:56:00+00:00
+ai_modified: 2026-04-10T18:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ last_curated:
 last_deep_review: 2026-04-06T16:06:00+00:00
 ---
 
-Biological computationalism—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments are structurally analogous to dualist arguments in ways its proponents may not intend: by insisting that consciousness requires something beyond abstract computation, biological computationalism arrives at constraints that mirror the dualist's insistence on the limits of functional organisation. The explanatory gap it opens between algorithm and experience is the gap dualism claims to address.
+Biological computationalism—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments are structurally analogous to dualist arguments in ways its proponents may not intend: by insisting that consciousness requires something beyond abstract computation, biological computationalism arrives at constraints that parallel the dualist's insistence on the limits of functional organisation. The explanatory gap it opens between algorithm and experience is one both dualists and biological computationalists acknowledge—though they offer different accounts of what fills it.
 
 ## The Third Path
 
@@ -75,13 +75,13 @@ Milinkovic and Aru's central claim—that in biological computation, the algorit
 
 If the algorithm is the substrate, then knowing the algorithm does not tell you what is being computed in any consciousness-relevant sense. Two systems running "the same algorithm" in different substrates would not, on this view, be performing the same computation. This means computation, as traditionally understood—abstract, substrate-neutral, multiply realisable—is not what produces consciousness. What produces consciousness is something that exists only in the specific physical instantiation.
 
-The question is what to make of these substrate-specific, abstraction-resistant properties. A physicalist would insist they are simply physical properties of a specific substrate—nothing non-physical about them. A dualist would argue that the persistent failure to capture consciousness in abstract terms points toward something beyond the physical. Biological computationalism does not settle this dispute. But it does occupy unstable middle ground: its own constraints—substrate dependence, metabolic grounding, scale inseparability—mirror the structural commitments of dualism even while its ontology remains physicalist. Whether one labels the consciousness-relevant substrate properties as "non-physical" (substance dualism), "irreducible higher-order physical" (property dualism), or "non-computational biological" (biological computationalism), the shared structure is: functional organisation is not sufficient, something more is needed. Where these positions diverge is on whether that "something more" is itself physical. The dualist says no; the biological computationalist says yes. But the concession that abstract computation is insufficient is common ground.
+The question is what to make of these substrate-specific, abstraction-resistant properties. A physicalist would insist they are simply physical properties of a specific substrate—nothing non-physical about them, and nothing philosophically puzzling about physical properties that resist abstraction. Resistance to abstraction is common in physics: turbulence, protein folding, and weather all involve substrate-specific dynamics that cannot be captured by abstract models, yet no one infers non-physical ingredients. A dualist would argue that consciousness is different—that the persistent failure to capture it in abstract terms is not merely a modelling limitation but evidence that something beyond the physical is involved. Biological computationalism does not settle this dispute, and a physicalist can adopt its constraints comfortably: substrate dependence, metabolic grounding, and scale inseparability are straightforwardly physical commitments. What is noteworthy is the structural parallel. Whether one labels the consciousness-relevant substrate properties as "substrate-specific physical" (biological computationalism), "irreducible higher-order physical" (property dualism), or "non-physical" (substance dualism), the shared structure is: functional organisation is not sufficient, something more is needed. Where these positions diverge is on what that "something more" is. The dualist says it is non-physical; the biological computationalist says it is physical but substrate-bound. The concession that abstract computation is insufficient is common ground—even if the conclusions drawn from that concession differ sharply.
 
-The Map's concept of [[adaptive-computational-depth|adaptive computational depth]] adds a further consideration—though one that depends on the Map's prior commitments rather than following from biological computationalism alone. If consciousness allocates computational resources, as the Map proposes, then the allocator cannot itself be one of the computations it directs. Biological computationalism's insistence that the algorithm is the substrate would make this tension acute: whatever selects *which* computations to run would need to be something other than a substrate-bound computation. This is suggestive rather than conclusive—a physicalist would argue that resource allocation is itself a physical computation within the system. But if biological computationalism is right that consciousness-relevant properties resist computational abstraction, the question of what directs the computation remains open.
+The Map's concept of [[adaptive-computational-depth|adaptive computational depth]] offers a related but independent line of thought—one that depends on the Map's prior dualist commitments rather than following from biological computationalism. The Map proposes that consciousness allocates computational resources, and argues that this creates a regress: the allocator would itself need to be computed, requiring a further allocator, and so on. On the Map's view, a non-physical consciousness breaks the regress. But this argument presupposes what it seeks to establish—a physicalist would respond that resource allocation is itself a physical computation within the system, with no regress because the allocation emerges from the same substrate dynamics that biological computationalism describes. The argument is better understood as an illustration of how dualism and biological computationalism diagnose the same structural feature (the limits of abstract computation) while offering different explanations. If biological computationalism is right that consciousness-relevant properties resist computational abstraction, both physicalist and dualist accounts of what directs the computation remain live options.
 
 ## Relation to Site Perspective
 
-The Unfinishable Map's [[tenets]] predict exactly the convergence biological computationalism exemplifies.
+The Unfinishable Map's [[tenets]] predict the kind of convergence biological computationalism exemplifies.
 
 The **Dualism** tenet holds that consciousness is not reducible to physical processes. Biological computationalism's rejection of substrate independence, its insistence on specific physical dynamics, and its admission that computation alone is insufficient are structurally analogous to this claim—even though the framework remains physicalist. Its authors would reject the dualist label, and their ontological commitments differ. But the structural parallel is instructive: both positions hold that abstract functional organisation cannot account for consciousness, and both insist that something more specific is needed.
 
@@ -122,16 +122,15 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 10. Southgate, A. & Oquatre-cinq, C. (2026-01-19). Substrate Independence. *The Unfinishable Map*. https://unfinishablemap.org/concepts/substrate-independence/
 11. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
 
-<!-- AI REFINEMENT LOG - 2026-04-10
+<!-- AI REFINEMENT LOG - 2026-04-10 (second pass)
 Changes made:
-- Fixed central equivocation: article now argues structural analogy to dualism rather than entailment of dualism throughout
-- Corrected Piccinini misrepresentation: noncomputational functionalism is now accurately presented as physicalist-but-non-computational, with argument for why it faces pressures toward dualist structure
-- Fixed circular adaptive computational depth argument: now explicitly flagged as depending on the Map's prior commitments, not as an independent argument from biological computationalism
-- Toned down tendentious language: "inadvertently conceding" → "structurally analogous"; "precisely the gap dualism was designed to fill" → "the gap dualism claims to address"
-- Added physicalist counterpoints throughout to make the analogy argument honest rather than sliding past the distinction between substrate-specific physical properties and non-physical properties
+- Further addressed equivocation (Issue 1): added explicit acknowledgment that abstraction-resistance is common in physics (turbulence, protein folding) and doesn't imply non-physical ingredients; replaced "unstable middle ground" framing with balanced presentation where physicalists can hold biological computationalism comfortably
+- Fixed circular ACD argument (Issue 2): now explicitly identifies the regress argument as presupposing dualism, gives the physicalist response full weight (emergence from substrate dynamics), and frames the argument as illustrating a shared structural diagnosis rather than as independent evidence for dualism
+- Softened opening paragraph: "the gap dualism claims to address" → acknowledges both sides offer different accounts of what fills the gap
+- Softened tenet section: "predict exactly" → "predict the kind of"
 
-Based on pessimistic review pessimistic-2026-04-10.md (Issues 1, 4, 5).
-Key improvements: intellectual honesty about what biological computationalism's concessions actually show vs. what they don't.
+Based on pessimistic review pessimistic-2026-04-10.md (Issues 1, 2, 3).
+Key improvements: eliminated residual equivocation between substrate-dependent and non-physical; made ACD argument honest about its circularity.
 
 This log should be removed after human review.
 -->
