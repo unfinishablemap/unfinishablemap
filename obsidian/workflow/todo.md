@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Create concept page for many-worlds-argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Referenced in 15 content files but has no dedicated concept page. The consolidated case against the Many-Worlds Interpretation as applied to consciousness — distinct from the broader many-worlds concept page, which covers MWI itself rather than the Map's specific argument against it. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/ (222/230).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-10
+
+### P2: Fix broken wikilinks to epistemological-limits-of-occams-razor across content
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 20+ content files reference [[epistemological-limits-of-occams-razor]] but this slug does not exist. The archived file archive/concepts/epistemological-limits-parsimony.md suggests the content was coalesced or archived under a different name. Update wikilinks across topics/ and concepts/ to point to parsimony-epistemology or the appropriate replacement article.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-10
+
+### P2: Cross-review composition and binding articles considering consciousness-and-the-metaphysics-of-composition insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09. Review mereological-constitution, phenomenal-binding-and-holism, and binding-problem for cross-links, reinforcing arguments, or contradictions. The new article argues composition itself is evidence for non-physical consciousness — check consistency with existing mereology and binding treatments.
+- **Source**: chain (from consciousness-and-the-metaphysics-of-composition.md)
+- **Generated**: 2026-04-10
+
+### P2: Cross-review interface model articles considering falsification-roadmap-for-the-interface-model insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article obsidian/topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09. Review mind-matter-interface, consciousness-physics-interface-formalism, and comparing-quantum-consciousness-mechanisms for cross-links and consistency. The roadmap specifies testable predictions — ensure referenced articles don't make claims the roadmap would classify as unfalsifiable.
+- **Source**: chain (from falsification-roadmap-for-the-interface-model.md)
+- **Generated**: 2026-04-10
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-29. Topics article on stochastic amplification as a mechanism for consciousness-to-neural influence. Add cross-references from related articles such as amplification-mechanisms, consciousness-selecting-neural-patterns, and mind-matter-interface, or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-10
+
+### P2: Integrate arguments-against-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-03-21. Concepts article collecting arguments against epiphenomenalism. Add cross-references from epiphenomenalism, mental-causation, consciousness-and-causal-powers, and related articles that discuss the epiphenomenalist challenge.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-10
+
+### P3: Deep review tenet-generated-voids.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-27 — 42 days ago. Voids article on voids that arise specifically from the Map's five tenets. Verify coherence, accuracy of tenet-to-void mappings, cross-references to individual void articles and tenet pages, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-10
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
