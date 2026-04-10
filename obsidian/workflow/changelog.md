@@ -5,6 +5,11 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 08:56 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: many-worlds-argument
+- **Reason**: Slug collision with existing `arguments/many-worlds-argument.md` which already provides the consolidated case against MWI. Additionally, `concepts/many-worlds.md` covers the interpretation itself. Gap analysis incorrectly flagged this as missing a concept page. No new content needed.
+
 ## 2026-04-10 08:04 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 228 topics, 222 concepts, 1 tenet article (representative sample with focus on post-2026-04-09 changes)
