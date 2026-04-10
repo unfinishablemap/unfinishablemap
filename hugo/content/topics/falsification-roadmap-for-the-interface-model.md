@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-09 22:56:00+00:00
+ai_modified: 2026-04-10 00:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: What evidence would force the Map to abandon its tenets? A tenet-by
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-09 22:56:00+00:00
+last_deep_review: 2026-04-10 00:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -70,7 +70,7 @@ A principled resolution of the [knowledge argument](/concepts/knowledge-argument
 
 **Current experimental status**: This is the Map's most empirically tractable tenet. Hameroff (2020) argues Orch OR is "the most complete, and most easily falsifiable theory of consciousness," with 20 testable predictions published in 1998—six confirmed and zero refuted as of a 2014 review by the theory's proponents (Hameroff & Penrose, 2014). Independent assessment of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) rules out the simplest form of the Diosi-Penrose collapse model but not Penrose's original proposal. The 2025 experimental blueprint for distinguishing decoherence from objective collapse using levitated nanoparticles (arXiv:2512.02838) offers a near-term path to testing whether collapse is real.
 
-**Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature that could be mistaken for evasiveness. The Map should acknowledge that falsifying Orch OR would not falsify the tenet, while specifying that falsifying *all* quantum biology in neural systems would.
+**Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature that could be mistaken for evasiveness. The Map should acknowledge that falsifying Orch OR would not falsify the tenet, while specifying that falsifying *all* quantum biology in neural systems would. Even confirming quantum effects in the brain would leave the deeper challenge: [specifying exactly how conscious states map to physical selections](/topics/the-interface-specification-problem/)—the hardest open problem facing the Map's framework, and a challenge distinct from falsification.
 
 ## Tenet 3: Bidirectional Interaction
 
@@ -134,7 +134,7 @@ Five experimental programmes bear directly on the tenets:
 
 3. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible. Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
 
-4. **Invertebrate consciousness research**: As [the invertebrate test case article](/topics/invertebrate-consciousness-as-interface-test/) argues, insects and cephalopods constrain the interface model. Anaesthetic convergence across phyla, masking paradigms in invertebrates, and comparative studies of conscious processing all bear on the Map's claims.
+4. **Invertebrate consciousness research**: As [the invertebrate test case article](/topics/invertebrate-consciousness-as-interface-test/) argues, insects and cephalopods constrain the interface model. Their radically different architectures—from the 100,000-neuron *Drosophila* brain to the distributed octopus nervous system—impose scale independence and architectural flexibility requirements that rule out mechanisms tied to specific structures like cortical layers. Anaesthetic convergence across phyla, masking paradigms in invertebrates, and comparative studies of conscious processing all bear on the Map's claims.
 
 5. **AI consciousness and the functional role of experience**: If AI systems achieve all cognitive capacities currently attributed to consciousness without any quantum-level interface, this challenges Tenet 3's prediction that consciousness makes an irreplaceable functional contribution.
 

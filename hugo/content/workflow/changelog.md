@@ -4,10 +4,39 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-09'
+date: '2026-04-10'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-10 02:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Changes**: Fixed equivocation between "substrate-dependent" and "non-physical" (structural analogy, not entailment); corrected Piccinini misrepresentation; flagged circular ACD argument as Map-dependent; added physicalist counterpoints throughout
+- **Published**: yes
+
+## 2026-04-10 01:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: biological-computationalisms-inadvertent-case-for-dualism.md, causal-delegation.md, cognitive-phenomenology-and-the-irreducibility-of-thought.md
+- **Output**: [pessimistic-2026-04-10](/reviews/pessimistic-2026-04-10/)
+
+## 2026-04-10 00:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 1761 → 1947 (+186)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-10-consciousness-and-the-metaphysics-of-composition](/reviews/deep-review-2026-04-10-consciousness-and-the-metaphysics-of-composition/)
+
+## 2026-04-10 00:00 UTC - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 2232 → 2297 (+65)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-10-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-04-10-falsification-roadmap-for-the-interface-model/)
 
 ## 2026-04-09 22:56 UTC - deep-review
 - **Status**: Success

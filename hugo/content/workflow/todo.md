@@ -38,19 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
-- **Type**: cross-review
+### P2: Address observational closure tension in causal-delegation.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: New article topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09 via expand-topic. Review against the-interface-specification-problem.md, testing-consciousness-collapse.md, and comparing-quantum-consciousness-mechanisms.md for consistency, cross-links, and whether the roadmap's specific predictions align with or refine claims in existing articles.
-- **Source**: chain (from falsification-roadmap-for-the-interface-model.md)
-- **Generated**: 2026-04-09
-
-### P2: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09 via expand-topic. Review against phenomenal-non-compositionality.md, panpsychisms-combination-problem.md, and unity-of-consciousness.md for consistency, cross-links, and whether the composition article's mereological arguments strengthen or qualify claims in existing articles.
-- **Source**: chain (from consciousness-and-the-metaphysics-of-composition.md)
-- **Generated**: 2026-04-09
+- **Notes**: Pessimistic review found that causal delegation's empirical invisibility (observational closure) makes it explanatorily idle in the same way epiphenomenalism is. The article claims theoretical superiority without confronting why sharing epiphenomenalism's empirical profile doesn't undermine that claim. High severity. See pessimistic-2026-04-10.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-10
 
 ### P2: Qualify Gödel-Lawvere analogy in consciousness-and-the-authority-of-formal-systems.md
 - **Type**: refine-draft
@@ -2054,6 +2047,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Fix substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article slides from "resists abstraction" to "non-physical" without argument. Substrate-dependent physical properties are still physical. The article should argue structural analogy to dualism rather than entailment of dualism. Also misrepresents Piccinini's noncomputational functionalism as equivalent to dualism. High severity. See pessimistic-2026-04-10.md
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
+
+Task context:
+Pessimistic review found the article slides from "resists abstraction" to "non-physical" without argument. Substrate-dependent physical properties are still physical. The article should argue structural analogy to dualism rather than entailment of dualism. Also misrepresents Piccinini's noncomputational functionalism as equivalent to dualism. High severity. See pessimistic-2026-04-10.md
+
+### ✓ 2026-04-10: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09 via expand-topic. Review against phenomenal-non-compositionality.md, panpsychisms-combination-problem.md, and unity-of-consciousness.md for consistency, cross-links, and whether the composition article's mereological arguments strengthen or qualify claims in existing articles.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md -- Context: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
+
+### ✓ 2026-04-10: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
+- **Type**: cross-review
+- **Notes**: New article topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09 via expand-topic. Review against the-interface-specification-problem.md, testing-consciousness-collapse.md, and comparing-quantum-consciousness-mechanisms.md for consistency, cross-links, and whether the roadmap's specific predictions align with or refine claims in existing articles.
+- **Output**: obsidian/topics/falsification-roadmap-for-the-interface-model.md -- Context: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
 
 ### ✓ 2026-04-09: Expand explanatory model survey in consciousness-defeats-explanation.md
 - **Type**: refine-draft
