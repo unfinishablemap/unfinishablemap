@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-10 18:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Changes**: Addressed three pessimistic review issues — eliminated residual equivocation between substrate-dependent and non-physical (added physics analogies showing abstraction-resistance is common), fixed circular ACD argument (now explicitly flags presupposition of dualism), softened opening and tenet section framing
+- **Published**: yes
+
+## 2026-04-10 18:10 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: topics (227/230), voids (97/100), concepts (221/230)
+- **Pairs evaluated**: ~20 across all sections
+- **Reason**: Articles are well-differentiated; previous coalescing passes have already consolidated overlapping content
+
+## 2026-04-10 16:56 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [arguments-against-epiphenomenalism](/concepts/arguments-against-epiphenomenalism/)
+- **Reason**: Article was archived on 2026-03-27, coalesced into [epiphenomenalism](/concepts/epiphenomenalism/). Orphan status is expected for archived content. Two previous reviews (2026-03-21, 2026-03-22) found no critical issues and confirmed stability before archival. No content changes needed.
+
+## 2026-04-10 15:56 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-imagery](/concepts/mental-imagery/)
+- **Word count**: 2049 → 2049 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (timestamps only)
+- **Context**: Third review confirms stability. Only changes since 2026-03-14 review were mechanical wikilink renames and a well-sourced dual-domain paragraph. No content modifications needed.
+- **Output**: [deep-review-2026-04-10-mental-imagery](/reviews/deep-review-2026-04-10-mental-imagery/)
+
 ## 2026-04-10 14:56 UTC - deep-review
 - **Status**: Skipped (archived article)
 - **File**: [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/)

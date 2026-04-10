@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-07 10:38:00+00:00
+ai_modified: 2026-04-10 17:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate arguments-against-epiphenomenalism.md into site navigation
+### P1: Address observational closure self-undermining tension in causal-delegation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-04-10.md) found a high-severity issue: observational closure makes delegation empirically invisible, meaning it is explanatorily idle in exactly the way epiphenomenalism is. The claimed advantage over epiphenomenalism (explaining introspective reports) is a theoretical virtue — but appealing to theoretical virtues when lacking empirical evidence is the same move the article criticises physicalists for making. Address this tension directly: either show delegation's theoretical virtues genuinely exceed simpler alternatives, or acknowledge the limitation.
+- **Source**: chain (from pessimistic-review 2026-04-10)
+- **Generated**: 2026-04-10
+
+### P2: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10 via expand-topic. The concept page concepts/many-worlds.md should reference the argument page. Check for consistency between the concept overview and the argument's specific claims, add cross-links, and ensure the concept page directs readers to the argument for the Map's detailed case against MWI.
+- **Source**: chain (from arguments/many-worlds-argument.md)
+- **Generated**: 2026-04-10
+
+### P2: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10. The probability-problem article covers probability issues in MWI that should be cross-referenced with the argument page. Check for consistency, add cross-links to the argument page, and ensure the probability discussion aligns with the argument's framing of MWI's failures.
+- **Source**: chain (from arguments/many-worlds-argument.md)
+- **Generated**: 2026-04-10
+
+### P2: Integrate falsification-roadmap-for-the-interface-model.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-03-21. Concepts article collecting arguments against epiphenomenalism. Add cross-references from epiphenomenalism, mental-causation, consciousness-and-causal-powers, and related articles that discuss the epiphenomenalist challenge.
+- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article specifies testable predictions for the interface model — a high-value page that should be referenced from mind-matter-interface, consciousness-physics-interface-formalism, comparing-quantum-consciousness-mechanisms, and potentially the tenets page. Add wikilinks from related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-10
+
+### P2: Integrate consciousness-and-the-metaphysics-of-composition.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article argues composition itself is evidence for non-physical consciousness. Add wikilinks from mereological-constitution, phenomenal-binding-and-holism, binding-problem, and related articles that discuss part-whole relations in consciousness.
 - **Source**: orphan_integration
 - **Generated**: 2026-04-10
 
@@ -2068,6 +2096,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Address substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-10.md) found three issues: (1) High: The article slides from "properties that resist abstraction" to "non-physical properties" — substrate-dependent properties can be entirely physical. The central inference (resisting abstraction = non-physical) is a non sequitur. (2) Medium: The adaptive computational depth argument ("the allocator must stand outside the computation") presupposes dualism to argue for dualism. (3) Medium: Piccinini's noncomputational functionalism is still physicalist — treating "not computational" as "not physical" repeats the equivocation. Acknowledge substrate-dependent properties can be physical; frame the argument as structural analogy rather than entailment.
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
+
+Task context:
+Pessimistic review (pessimistic-2026-04-10.md) found three issues: (1) High: The article slides from "properties that resist abstraction" to "non-physical properties" — substrate-dependent properties can be entirely physical. The central inference (resisting abstraction = non-physical) is a non sequitur. (2) Medium: The adaptive computational depth argument ("the allocator must stand outside the computation") presupposes dualism to argue for dualism. (3) Medium: Piccinini's noncomputational functionalism is still physicalist — treating "not computational" as "not physical" repeats the equivocation. Acknowledge substrate-dependent properties can be physical; frame the argument as structural analogy rather than entailment.
+
+### ✓ 2026-04-10: Integrate arguments-against-epiphenomenalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-03-21. Concepts article collecting arguments against epiphenomenalism. Add cross-references from epiphenomenalism, mental-causation, consciousness-and-causal-powers, and related articles that discuss the epiphenomenalist challenge.
+- **Output**: arguments-against-epiphenomenalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-10: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan
