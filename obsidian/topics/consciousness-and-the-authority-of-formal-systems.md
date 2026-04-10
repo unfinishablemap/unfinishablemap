@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-10T05:56:00+00:00
 last_deep_review: 2026-03-18T03:59:00+00:00
 draft: false
 topics:
@@ -85,7 +85,7 @@ Physical causation operates through efficient causes — one state producing ano
 
 The physicalist may respond that evolution wired our brains to track logical relationships. But this confuses reliable correlation with normative authority. A thermostat reliably tracks temperature without being compelled by thermodynamic laws. Reliable tracking, however sophisticated, is not the same as being bound. The felt authority of logic — the experience of *having no rational alternative* — is a species of [[evaluative-phenomenal-character|phenomenal normativity]] that exists only for subjects who encounter necessity as such.
 
-Wilfrid Sellars's distinction between the "logical space of reasons" and the domain of causal explanation (later sharpened by McDowell into the contrast between "reasons" and "causes") illuminates why logic resists reduction. The claim that modus ponens is culturally constructed is incoherent — any culture that rejected it could not reason at all. The claim that it is an evolutionary adaptation reduces necessity to contingent usefulness. Logic's authority is *presupposed* by any attempt to explain it away. As Thomas Nagel argues in *The Last Word* (1997), logical reasoning claims an autonomy that survives every attempt at external explanation: to challenge reason's authority, one must exercise that very authority.
+Wilfrid Sellars's distinction between the "logical space of reasons" and the domain of causal explanation (later sharpened by McDowell into the contrast between "reasons" and "causes") illuminates why logic resists reduction. The claim that modus ponens is culturally constructed faces a severe difficulty — any culture that rejected it could not reason coherently, since the rejection itself would require the inferential step it denies. The claim that it is an evolutionary adaptation reduces necessity to contingent usefulness. Logic's authority is *presupposed* by any attempt to explain it away. As Thomas Nagel argues in *The Last Word* (1997), logical reasoning claims an autonomy that survives every attempt at external explanation: to challenge reason's authority, one must exercise that very authority.
 
 ### The Structural Gap
 
@@ -111,7 +111,7 @@ Formal authority also matters *for* the Map's framework. The [[tenets#^minimal-q
 
 Formal systems also face *internal* limits. Gödel's incompleteness theorems (1931) showed that any consistent formal system powerful enough to express arithmetic contains truths it cannot prove. This is not a practical limitation but a structural one — an inherent boundary on what formal methods can accomplish on their own terms. The consciousness case is a more radical instance of the same pattern: formal systems fail not just to prove certain truths about consciousness but to *express* what consciousness is. The [[incompleteness-void]] explores how Gödelian limits and the limits at consciousness may share a common root in the gap between formal manipulation and genuine comprehension.
 
-The connection between incompleteness and formal limits at consciousness runs deeper than analogy. Category-theoretic work (Szangolies 2018, via Lawvere's fixed-point theorem) identifies a single mathematical structure underlying both Gödelian incompleteness and quantum complementarity — the same self-referential obstruction that prevents a formal system from proving its own consistency also prevents a physical theory from determining its own measurement outcomes. The [[self-reference-and-the-limits-of-physical-description]] develops this connection across three tiers of rigour. For the authority/sovereignty distinction, the implication is direct: self-reference sets a principled boundary on formal sovereignty, and consciousness — the phenomenon that constitutes the observer's side of every measurement — sits precisely at that boundary.
+The connection between incompleteness and formal limits at consciousness can be stated at three levels of strength that should not be conflated. *Mathematically*, category-theoretic work (Szangolies 2018, via Lawvere's fixed-point theorem) identifies a single structure — self-referential obstruction in Cartesian closed categories — underlying both Gödelian incompleteness and quantum complementarity. The same formal mechanism that prevents a system from proving its own consistency also prevents a physical theory from determining its own measurement outcomes. This is rigorous mathematics, not analogy. *Interpretively*, the measurement problem's self-referential structure involves an observer who is part of the system being described — and every actual measurement we perform involves a conscious subject. This proximity is suggestive but is not itself a mathematical conclusion; Szangolies' result concerns epistemic horizons, not phenomenal experience. *Philosophically*, the Map argues that consciousness — the phenomenon that constitutes the observer's side of every measurement — occupies the boundary where formal self-description breaks down. This is a philosophical claim that draws on but goes beyond the mathematics, motivated by the convergence of the formal result with independent arguments from the [[explanatory-gap]] and the [[hard-problem-of-consciousness|hard problem]]. The [[self-reference-and-the-limits-of-physical-description]] develops the mathematical and interpretive levels across three tiers of rigour.
 
 The [[mathematical-void]] documents how even *within* mathematics, formal manipulation can proceed without genuine comprehension — we can prove theorems about structures we cannot intuit. When the target is consciousness — the phenomenon that constitutes understanding — the gap between formalism and comprehension may be unbridgeable in principle.
 
@@ -131,7 +131,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 
 **[[tenets#^dualism|Dualism]]:** The twin limitations of formal systems — logic's failure to ground its own authority without consciousness, mathematics' inability to capture intrinsic quality — provide converging support for dualism. If logical necessity is real and mathematical structure does not exhaust reality, then there are features of the world that physical description cannot capture. Consciousness, as the medium through which necessity becomes manifest and quality exists, involves irreducible properties.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** Logical authority is not merely recognised — it is *acted upon*. When you draw a valid conclusion, your recognition of necessity influences which belief you form. If this recognition is genuinely conscious, consciousness causally influences belief formation. An epiphenomenal consciousness could experience logical compulsion without that compulsion making any difference — a position that is, as [[self-stultification]] shows, epistemically self-defeating.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]:** Logical authority is not merely recognised — it is *acted upon*. When you draw a valid conclusion, your recognition of necessity influences which belief you form. If this recognition is genuinely conscious, consciousness causally influences belief formation. An epiphenomenal consciousness could experience logical compulsion without that compulsion making any difference — a position that [[self-stultification]] arguments characterise as epistemically self-defeating.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]:** The authority/sovereignty distinction directly shapes how the Map conceives consciousness-physics interaction. Mathematics retains full authority over the structural aspects of this interaction — probability distributions, energy conservation, collapse dynamics — while lacking sovereignty over the conscious agent that participates. The interaction must be formally constrained; the interactor need not be formally exhausted.
 
@@ -173,3 +173,15 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669-1697.
 1. Alter, T. & Nagasawa, Y. (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
+
+<!-- AI REFINEMENT LOG - 2026-04-10
+Changes made:
+- Restructured Szangolies/Lawvere paragraph to clearly separate three layers: (a) the mathematical result (Lawvere's fixed-point theorem connecting incompleteness and complementarity), (b) the interpretive suggestion (observer proximity is suggestive but not a mathematical conclusion), and (c) the Map's philosophical claim (consciousness occupies the boundary, motivated by convergence with independent arguments)
+- Softened "incoherent" claim about cultural construction of modus ponens to "faces a severe difficulty" with explicit argument
+- Softened self-stultification reference from "shows" to "arguments characterise as"
+
+Based on pessimistic review 2026-04-08 (Issue 3: Gödel analogy overstretched, medium severity).
+Key improvements: Epistemic honesty about what the mathematics does and does not show.
+
+This log should be removed after human review.
+-->
