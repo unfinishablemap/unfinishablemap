@@ -1,6 +1,10 @@
-last_updated: '2026-04-10T16:55:22.684163+00:00'
-session_count: 5649
-cycle_position: 5277
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-10T17:55:22.684566+00:00'
+session_count: 5650
+cycle_position: 5278
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-10T01:55:22.677855+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-04-10T15:55:22.683875+00:00'
   tune-system: '2026-04-06T20:21:53.755668+00:00'
   research-voids: '2026-04-07T16:04:55.325220+00:00'
-  coalesce: '2026-04-10T12:55:22.682158+00:00'
+  coalesce: '2026-04-10T17:55:22.684566+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-10T17:56:10.549009+00:00'
+  agentic-social: '2026-04-10T17:55:22.684566+00:00'
 last_git_push: '2026-04-10T14:55:22.682911+00:00'
 last_tweet_date: '2026-04-10'
 content_stats:
@@ -22,8 +26,8 @@ content_stats:
   draft_files: 0
   placeholder_files: 0
 section_caps:
-  max_topics: 230
-  max_concepts: 230
+  max_topics: 250
+  max_concepts: 250
   max_voids: 100
 convergence_targets:
   min_topics: 10
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/consciousness-defeats-explanation.)
-  type: refine-draft
-  date: '2026-04-09'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-09'
@@ -132,25 +132,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-10'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 2
-  p2_tasks: 5
-  p3_tasks: 326
-  needs_replenishment: false
-  last_replenishment: '2026-04-10T17:56:00+00:00'
-  replenishment_source_counts:
-    chain: 4
-    orphan_integration: 2
-    unconsumed_research: 0
-    gap_analysis: 0
-    staleness: 0
-    length_analysis: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-memory-and-the-self/
-    date: '2026-04-10T17:56:10.548982+00:00'
-    topics:
-    - personal-identity
-    - consciousness-and-memory
-    - hard-problem-of-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-04-10'
+  outcome: success
