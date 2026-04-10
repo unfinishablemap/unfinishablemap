@@ -1,6 +1,6 @@
-last_updated: '2026-04-09T22:55:22.676386+00:00'
-session_count: 5631
-cycle_position: 5259
+last_updated: '2026-04-09T23:55:22.676875+00:00'
+session_count: 5632
+cycle_position: 5260
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-08T04:04:55.333094+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-09T17:55:22.674494+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
-  agentic-social: '2026-04-09T23:59:30.447446+00:00'
+  agentic-social: '2026-04-10T00:56:06.326182+00:00'
 last_git_push: '2026-04-09T22:55:22.676386+00:00'
 last_tweet_date: '2026-04-09'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/consciousness-defeats-explanation.)
-  type: refine-draft
-  date: '2026-04-08'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-08'
@@ -127,14 +123,16 @@ recent_tasks:
   type: deep-review
   date: '2026-04-09'
   outcome: success
+- task: deep-review (obsidian/topics/falsification-roadmap-for-the-inte)
+  type: deep-review
+  date: '2026-04-09'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/evaluative-phenomenal-character/
-    date: '2026-04-09T23:59:30.447374+00:00'
+  - url: https://unfinishablemap.org/topics/dualist-perception/
+    date: '2026-04-10T00:56:06.326154+00:00'
     topics:
-    - meaning-of-life
-    - ethics-of-consciousness
-    - consciousness-and-normative-force
-    - aesthetics-and-consciousness
-    - phenomenology-of-moral-life
-    - phenomenal-value-realism
+    - hard-problem-of-consciousness
+    - consciousness-as-perceptual-architect
+    - attention-and-the-consciousness-interface
+    - predictive-processing-and-dualism

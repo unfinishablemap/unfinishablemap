@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09 via expand-topic. Review against phenomenal-non-compositionality.md, panpsychisms-combination-problem.md, and unity-of-consciousness.md for consistency, cross-links, and whether the composition article's mereological arguments strengthen or qualify claims in existing articles.
-- **Source**: chain (from consciousness-and-the-metaphysics-of-composition.md)
-- **Generated**: 2026-04-09
-
 ### P2: Qualify Gödel-Lawvere analogy in consciousness-and-the-authority-of-formal-systems.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2046,6 +2039,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-and-the-metaphysics-of-composition.md created 2026-04-09 via expand-topic. Review against phenomenal-non-compositionality.md, panpsychisms-combination-problem.md, and unity-of-consciousness.md for consistency, cross-links, and whether the composition article's mereological arguments strengthen or qualify claims in existing articles.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md -- Context: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
 
 ### ✓ 2026-04-10: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
 - **Type**: cross-review

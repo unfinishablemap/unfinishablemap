@@ -4,7 +4,8 @@ description: "Multiple independent answers to the Special Composition Question c
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-09T19:56:00+00:00
+ai_modified: 2026-04-10T00:56:00+00:00
+last_deep_review: 2026-04-10T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,13 +46,13 @@ The SCQ asks: under what conditions do some objects compose a further object? Th
 
 Van Inwagen (1990) proposes that composition occurs if and only if the activity of simples constitutes a life. Only living organisms are genuine composite objects. Tables, rocks, and stars do not strictly exist as wholes—only "simples arranged tablewise."
 
-Consciousness enters indirectly. All conscious beings are organisms, and organisms are the only genuine composites. Life is the criterion, but life's most distinctive product—consciousness—is what makes the restriction philosophically compelling. Van Inwagen himself is a materialist about minds, so he does not draw the dualist conclusion. But his restriction implicitly privileges the domain where consciousness occurs.
+Consciousness enters indirectly. All conscious beings are organisms, and organisms are the only genuine composites. Van Inwagen himself defends a materialist ontology of persons and does not draw dualist conclusions from his organicism. But the Map observes that his restriction implicitly privileges the domain where consciousness occurs: life is the criterion, and consciousness is life's most philosophically distinctive product. The convergence is in the destination, not in van Inwagen's reasoning.
 
 ### Merricks' Consciousness-Based Eliminativism
 
 Trenton Merricks (2001) goes further. In *Objects and Persons*, he argues that only conscious organisms exist as composite objects, and he gives an explicit causal argument for why.
 
-Merricks' reasoning proceeds through causal redundancy. Consider a baseball. Every causal power attributed to the baseball—its mass, trajectory, ability to break a window—is fully explained by the causal powers of its constituent atoms. The baseball is causally redundant given its parts. Merricks concludes that the baseball does not genuinely exist as a composite object.
+Merricks' reasoning proceeds through causal redundancy. Consider a baseball. Every causal power attributed to the baseball—its mass, trajectory, ability to break a window—is fully explained by the causal powers of its constituent atoms. The baseball is causally redundant given its parts. Merricks concludes that the baseball does not genuinely exist as a composite object. This argument challenges [[causal-closure|causal closure]] from an unexpected direction: not by questioning whether physics is complete, but by asking which composites have powers that physics cannot decompose.
 
 Conscious organisms escape this elimination. Merricks argues that consciousness "does not even globally supervene on microscopic physical properties"—conscious organisms have causal powers their parts lack. A person's conscious decision to raise an arm is not reducible to the causal powers of individual neurons or atoms. Consciousness breaks the redundancy that eliminates inanimate composites.
 
@@ -77,7 +78,7 @@ These three positions arrive at the same destination by different paths:
 
 The convergence is striking because these philosophers disagree about almost everything else. Van Inwagen is a materialist who defends organicism. Merricks is an eliminativist who denies the existence of most physical objects. McQueen and Tsuchiya work within a computational theory of consciousness. Yet all three independently conclude that consciousness—or the domain where consciousness occurs—is the criterion for genuine composition.
 
-Independent convergence from divergent starting assumptions is a hallmark of philosophical progress. When multiple lines of inquiry, pursued for different reasons and using different methods, arrive at the same conclusion, the conclusion gains credibility beyond what any single argument provides.
+A natural objection is that this convergence reflects a selection effect—these philosophers work in the same analytic tradition and may have influenced each other. But the objection understates how different their methods are. Van Inwagen reasons from biological natural kinds, Merricks from causal redundancy principles, and McQueen and Tsuchiya from information-theoretic measures. The conceptual distance between a life criterion, a causal powers criterion, and an integrated information criterion is large enough that arriving at the same destination—consciousness as the composition threshold—carries genuine evidential weight. Independent convergence from divergent methods is a hallmark of philosophical progress.
 
 ## Why Consciousness Resists Mereological Analysis
 
@@ -113,6 +114,8 @@ The convergence of composition theories on consciousness directly supports The U
 
 **Minimal Quantum Interaction.** If conscious wholes are genuinely something over and above their physical parts, the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]]'s proposal—that consciousness biases quantum indeterminacies—provides a mechanism for how this "over and above" manifests causally. The non-compositional character of consciousness explains why its causal contribution cannot be decomposed into contributions of individual neurons or atoms.
 
+**No Many Worlds.** If composition depends on consciousness, then which objects exist depends on whether genuine conscious subjects are present. The [[tenets#^no-many-worlds|No Many Worlds tenet]]'s rejection of MWI matters here: in a many-worlds framework, every possible composition obtains in some branch, trivialising the SCQ. The question "when do parts form wholes?" has philosophical weight only if there is a single definite world in which some collections compose and others do not. Consciousness-based composition requires [[consciousness-and-the-metaphysics-of-individuation|definite conscious subjects]]—not subjects-in-every-branch.
+
 **Occam's Razor Has Limits.** Universalism and nihilism appear simpler than restricted composition—one avoids restrictions entirely, the other eliminates composites entirely. Yet both fail to account for the distinctive metaphysical status of conscious beings. The [[tenets#^occams-limits|fifth tenet]]'s warning applies: the apparently simpler ontology cannot accommodate the phenomenon that multiple independent analyses converge upon as fundamental.
 
 ## Further Reading
@@ -123,6 +126,7 @@ The convergence of composition theories on consciousness directly supports The U
 - [[emergence]] — The general problem of deriving wholes from parts
 - [[interactionist-dualism]] — The Map's alternative to compositional accounts
 - [[hard-problem-of-consciousness]] — The explanatory gap that composition theories reveal
+- [[consciousness-and-the-metaphysics-of-individuation]] — The complementary question: what draws boundaries around conscious subjects
 
 ## References
 
