@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for many-worlds-argument
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Referenced in 15 content files but has no dedicated concept page. The consolidated case against the Many-Worlds Interpretation as applied to consciousness — distinct from the broader many-worlds concept page, which covers MWI itself rather than the Map's specific argument against it. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/ (222/230).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-10
-
 ### P2: Fix broken wikilinks to epistemological-limits-of-occams-razor across content
 - **Type**: refine-draft
 - **Status**: pending
@@ -2103,6 +2096,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Create concept page for many-worlds-argument
+- **Type**: expand-topic
+- **Notes**: Referenced in 15 content files but has no dedicated concept page. The consolidated case against the Many-Worlds Interpretation as applied to consciousness — distinct from the broader many-worlds concept page, which covers MWI itself rather than the Map's specific argument against it. Directly supports Tenet 4 (No Many Worlds). Target section: concepts/ (222/230).
+- **Output**: Create concept page for many-worlds-argument
 
 ### ✓ 2026-04-10: Condense intrinsic-nature-void.md (3282 words, 109% of hard threshold)
 - **Type**: condense

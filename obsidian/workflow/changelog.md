@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 09:56 UTC - refine-draft
+- **Status**: No-op (task premise incorrect)
+- **Task**: Fix broken `[[epistemological-limits-of-occams-razor]]` wikilinks
+- **Finding**: The article exists at `obsidian/arguments/epistemological-limits-of-occams-razor.md` (published, `draft: false`). Sync correctly resolves all 20+ wikilinks to `/arguments/epistemological-limits-of-occams-razor/`. Hugo builds the page. The archived `archive/concepts/epistemological-limits-parsimony.md` is a *different* article that was coalesced into `parsimony-epistemology` — not the same slug.
+- **Changes**: None
+
 ## 2026-04-10 08:56 UTC - expand-topic
 - **Status**: Skipped (duplicate)
 - **Topic**: many-worlds-argument
