@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-29 04:01:00+00:00
+ai_modified: 2026-04-10 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[introspection]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[quantum-completeness]]'
+- '[[parfit-reductionism]]'
+- '[[binding-problem]]'
 created: 2026-01-19
 date: &id001 2026-01-23
 description: 'Why the Map rejects MWI: it raises unanswerable questions about indexical
@@ -22,7 +24,7 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 04:01:00+00:00
+last_deep_review: 2026-04-10 20:56:00+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -31,6 +33,7 @@ related_articles:
 - '[[indexical-identity-quantum-measurement]]'
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[probability-objections-many-worlds]]'
+- '[[many-worlds-argument]]'
 - '[[tenets]]'
 title: The Many-Worlds Interpretation
 topics:

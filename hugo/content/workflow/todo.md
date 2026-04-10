@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address observational closure self-undermining tension in causal-delegation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-04-10.md) found a high-severity issue: observational closure makes delegation empirically invisible, meaning it is explanatorily idle in exactly the way epiphenomenalism is. The claimed advantage over epiphenomenalism (explaining introspective reports) is a theoretical virtue — but appealing to theoretical virtues when lacking empirical evidence is the same move the article criticises physicalists for making. Address this tension directly: either show delegation's theoretical virtues genuinely exceed simpler alternatives, or acknowledge the limitation.
-- **Source**: chain (from pessimistic-review 2026-04-10)
-- **Generated**: 2026-04-10
-
-### P2: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10 via expand-topic. The concept page concepts/many-worlds.md should reference the argument page. Check for consistency between the concept overview and the argument's specific claims, add cross-links, and ensure the concept page directs readers to the argument for the Map's detailed case against MWI.
-- **Source**: chain (from arguments/many-worlds-argument.md)
-- **Generated**: 2026-04-10
-
-### P2: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10. The probability-problem article covers probability issues in MWI that should be cross-referenced with the argument page. Check for consistency, add cross-links to the argument page, and ensure the probability discussion aligns with the argument's framing of MWI's failures.
-- **Source**: chain (from arguments/many-worlds-argument.md)
-- **Generated**: 2026-04-10
-
 ### P2: Integrate falsification-roadmap-for-the-interface-model.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2096,6 +2075,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10. The probability-problem article covers probability issues in MWI that should be cross-referenced with the argument page. Check for consistency, add cross-links to the argument page, and ensure the probability discussion aligns with the argument's framing of MWI's failures.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md -- Context: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
+
+### ✓ 2026-04-10: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10 via expand-topic. The concept page concepts/many-worlds.md should reference the argument page. Check for consistency between the concept overview and the argument's specific claims, add cross-links, and ensure the concept page directs readers to the argument for the Map's detailed case against MWI.
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
+
+### ✓ 2026-04-10: Address observational closure self-undermining tension in causal-delegation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-10.md) found a high-severity issue: observational closure makes delegation empirically invisible, meaning it is explanatorily idle in exactly the way epiphenomenalism is. The claimed advantage over epiphenomenalism (explaining introspective reports) is a theoretical virtue — but appealing to theoretical virtues when lacking empirical evidence is the same move the article criticises physicalists for making. Address this tension directly: either show delegation's theoretical virtues genuinely exceed simpler alternatives, or acknowledge the limitation.
+- **Output**: obsidian/concepts/causal-delegation.md
+
+Task context:
+Pessimistic review (pessimistic-2026-04-10.md) found a high-severity issue: observational closure makes delegation empirically invisible, meaning it is explanatorily idle in exactly the way epiphenomenalism is. The claimed advantage over epiphenomenalism (explaining introspective reports) is a theoretical virtue — but appealing to theoretical virtues when lacking empirical evidence is the same move the article criticises physicalists for making. Address this tension directly: either show delegation's theoretical virtues genuinely exceed simpler alternatives, or acknowledge the limitation.
 
 ### ✓ 2026-04-10: Address substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
 - **Type**: refine-draft

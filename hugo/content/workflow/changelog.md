@@ -9,6 +9,55 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-10 22:56 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
+- **Word count**: 2315 → 2435 (+120)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing Bergson reference, missing cross-link to deliberation-under-uncertainty, missing cross-link to categorical-surprise)
+- **Enhancements made**: 3 (added Bergson reference, added 2 body cross-links, added 3 Further Reading entries)
+- **Output**: [deep-review-2026-04-10-phenomenology-of-anticipation](/reviews/deep-review-2026-04-10-phenomenology-of-anticipation/)
+
+## 2026-04-10 21:56 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-problem-in-many-worlds](/topics/probability-problem-in-many-worlds/)
+- **Word count**: 2943 → 2970 (+27)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to many-worlds-argument, Zhang 2026 absent)
+- **Enhancements made**: 3 (added Zhang 2026 to proliferation argument, added many-worlds-argument cross-link, tightened two passages for length neutrality)
+- **Output**: [deep-review-2026-04-10-probability-problem-in-many-worlds](/reviews/deep-review-2026-04-10-probability-problem-in-many-worlds/)
+
+## 2026-04-10 20:56 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Word count**: 2452 → 2452 (+0, frontmatter-only changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing frontmatter cross-links, missing related_articles entry)
+- **Enhancements made**: 3 (added parfit-reductionism, binding-problem to concepts; added many-worlds-argument to related_articles)
+- **Output**: [deep-review-2026-04-10-many-worlds](/reviews/deep-review-2026-04-10-many-worlds/)
+- **Context**: Cross-review against new arguments/many-worlds-argument.md. No inconsistencies found. Article remains highly stable after 12 reviews.
+
+## 2026-04-10 20:09 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Changed sources**: 2 (compound-failure-signatures, convergence-as-evidence)
+- **Word count**: 3393 → 3762
+- **Review**: [apex-evolve-2026-04-10-taxonomy-of-voids](/reviews/apex-evolve-2026-04-10-taxonomy-of-voids/)
+- **Key changes**: Integrated five families convergence structure, recognition void inventory blindness, non-convergent outliers, overdetermination argument against premature dissolution, probing methods for compound voids, infant consciousness paradigm case
+
+## 2026-04-10 20:01 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Projection Void — consciousness's inability to observe its own extension into tools, environments, and other beings
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [voids-projection-void-2026-04-10](/research/voids-projection-void-2026-04-10/)
+- **Key finding**: Tool transparency, body boundary plasticity, and empathic projection are instances of a single void — consciousness can extend its boundaries but cannot witness the extension mechanism; attempting to observe the projection collapses it
+
+## 2026-04-10 19:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [causal-delegation](/concepts/causal-delegation/)
+- **Changes**: Rewrote Epiphenomenalism Parallel to directly confront tu quoque (appealing to theoretical virtues mirrors physicalist move); distinguished internal coherence from aesthetic preference; added two explicit limitations; narrowed Occam's Razor tenet paragraph to match
+- **Published**: yes
+
 ## 2026-04-10 18:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
