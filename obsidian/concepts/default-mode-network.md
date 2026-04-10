@@ -4,8 +4,8 @@ description: "The brain's self-referential system, active at rest. DMN may const
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-03-23T21:43:00+00:00
-last_deep_review: 2026-03-14T09:25:00+00:00
+ai_modified: 2026-04-10T10:59:00+00:00
+last_deep_review: 2026-04-10T10:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -216,6 +216,7 @@ Current evidence does not meet these conditions, but they define the space of po
 - [[neural-correlates-of-consciousness]] — The broader NCC research program
 - [[introspection]] — Self-reflection and its neural correlates
 - [[dream-consciousness]] — How DMN reconfiguration during REM relates to dream experience and creative problem-solving
+- [[consciousness-under-extreme-metabolic-constraint]] — DMN suppression as evidence that metabolic reduction intensifies rather than dims experience
 
 ## References
 
