@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 02:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Changes**: Fixed equivocation between "substrate-dependent" and "non-physical" (structural analogy, not entailment); corrected Piccinini misrepresentation; flagged circular ACD argument as Map-dependent; added physicalist counterpoints throughout
+- **Published**: yes
+
 ## 2026-04-10 01:56 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: biological-computationalisms-inadvertent-case-for-dualism.md, causal-delegation.md, cognitive-phenomenology-and-the-irreducibility-of-thought.md

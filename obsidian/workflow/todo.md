@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article slides from "resists abstraction" to "non-physical" without argument. Substrate-dependent physical properties are still physical. The article should argue structural analogy to dualism rather than entailment of dualism. Also misrepresents Piccinini's noncomputational functionalism as equivalent to dualism. High severity. See pessimistic-2026-04-10.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-10
-
 ### P2: Address observational closure tension in causal-delegation.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2053,6 +2046,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Fix substrate-dependent ≠ non-physical equivocation in biological-computationalisms-inadvertent-case-for-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article slides from "resists abstraction" to "non-physical" without argument. Substrate-dependent physical properties are still physical. The article should argue structural analogy to dualism rather than entailment of dualism. Also misrepresents Piccinini's noncomputational functionalism as equivalent to dualism. High severity. See pessimistic-2026-04-10.md
+- **Output**: obsidian/topics/biological-computationalisms-inadvertent-case-for-dualism.md
+
+Task context:
+Pessimistic review found the article slides from "resists abstraction" to "non-physical" without argument. Substrate-dependent physical properties are still physical. The article should argue structural analogy to dualism rather than entailment of dualism. Also misrepresents Piccinini's noncomputational functionalism as equivalent to dualism. High severity. See pessimistic-2026-04-10.md
 
 ### ✓ 2026-04-10: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
 - **Type**: cross-review
