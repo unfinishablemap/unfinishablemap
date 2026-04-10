@@ -5,6 +5,11 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 16:56 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [[concepts/arguments-against-epiphenomenalism]]
+- **Reason**: Article was archived on 2026-03-27, coalesced into [[concepts/epiphenomenalism]]. Orphan status is expected for archived content. Two previous reviews (2026-03-21, 2026-03-22) found no critical issues and confirmed stability before archival. No content changes needed.
+
 ## 2026-04-10 15:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/mental-imagery]]
