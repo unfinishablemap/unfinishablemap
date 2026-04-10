@@ -5,6 +5,11 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 01:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: biological-computationalisms-inadvertent-case-for-dualism.md, causal-delegation.md, cognitive-phenomenology-and-the-irreducibility-of-thought.md
+- **Output**: [[reviews/pessimistic-2026-04-10]]
+
 ## 2026-04-10 00:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
