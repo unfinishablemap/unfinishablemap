@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 19:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[causal-delegation]]
+- **Changes**: Rewrote Epiphenomenalism Parallel to directly confront tu quoque (appealing to theoretical virtues mirrors physicalist move); distinguished internal coherence from aesthetic preference; added two explicit limitations; narrowed Occam's Razor tenet paragraph to match
+- **Published**: yes
+
 ## 2026-04-10 18:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [[biological-computationalisms-inadvertent-case-for-dualism]]

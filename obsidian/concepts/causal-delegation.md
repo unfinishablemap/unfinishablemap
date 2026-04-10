@@ -4,7 +4,7 @@ description: "Causal delegation: physical brain states hand off causal work to c
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-04-10T03:56:00+00:00
+ai_modified: 2026-04-10T19:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -84,11 +84,15 @@ This means delegation's case rests on philosophical argument rather than empiric
 
 This shared empirical profile demands direct confrontation. The standard objection to [[epiphenomenalism]] is that it renders consciousness causally idle—experiences are real but do nothing. Delegation claims to avoid this by giving experiences genuine causal work. Yet if no experiment can distinguish a world with delegation from one without it, a critic can reasonably ask whether delegation is explanatorily idle in the same way: positing invisible causal handoffs that make no observable difference.
 
-The concern is sharpened by the fact that theoretical virtues—the very thing delegation appeals to—are what any empirically equivalent theory must appeal to. Delegation's advantage over epiphenomenalism cannot be that it makes better predictions, because it doesn't. So the question becomes whether its theoretical virtues are genuinely superior or merely different.
+The concern is sharpened by a tu quoque. Empirically equivalent theories must compete on theoretical virtues since predictions cannot decide between them. But appealing to theoretical virtues when empirical evidence is unavailable is a move the Map elsewhere criticises physicalists for making—invoking parsimony or explanatory scope to paper over the hard problem. If that move is suspect when physicalists make it, it looks suspect when dualists make it too.
 
-Delegation's strongest theoretical claim is asymmetric in a way that matters: epiphenomenalism undermines the epistemic basis for believing in it. If experiences cause nothing, then introspective reports about experiences are not caused by those experiences—they are caused entirely by physical brain states that happen to correlate with experiences. This means the evidence someone cites for epiphenomenalism (their awareness of their own experience) is, on the theory's own account, not produced by that experience. Delegation avoids this self-undermining structure. Reports about pain are caused by the pain itself, because the pain has taken over the causal work. The reliability of introspection is explained, not merely assumed.
+Delegation must therefore show that its advantage over epiphenomenalism is not just another theoretical preference but a constraint of a different kind. The strongest case is that epiphenomenalism is *internally incoherent* in a way delegation is not. If experiences cause nothing, then introspective reports about experiences are not caused by those experiences—they are caused entirely by physical brain states that happen to correlate with experiences. The evidence someone cites for epiphenomenalism (their awareness of their own experience) is, on the theory's own account, not produced by that experience. This is not merely inelegant; it is self-undermining. A theory that severs the link between its subject matter and the evidence for believing in it has a logical defect, not just an aesthetic disadvantage.
 
-Whether this single theoretical advantage justifies the additional metaphysical commitment is a legitimate question. A strict empiricist may hold that no theoretical virtue compensates for empirical equivalence. The Map's [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with incomplete knowledge—provides a framework for resisting this move, but the resistance should be stated as a philosophical commitment rather than treated as a settled conclusion. Delegation is not proven superior to epiphenomenalism; it is argued to be, on grounds that depend on how much weight one gives to introspective reliability and explanatory coherence over strict parsimony.
+Delegation avoids this defect. Reports about pain are caused by the pain itself, because the pain has taken over the causal work. The reliability of introspection is explained, not merely assumed. This asymmetry is less like choosing a prettier theory and more like rejecting a theory that defeats its own evidence base—closer to a consistency requirement than a taste preference.
+
+Two honest limitations remain. First, the self-undermining argument eliminates epiphenomenalism but does not distinguish delegation from physicalism, which also explains introspective reports (via physical processes that constitute or correlate with experiences). Delegation's case against physicalism rests on the broader arguments for [[interactionist-dualism]]—the [[hard-problem-of-consciousness|hard problem]], the conceivability arguments—not on causal structure alone. Second, even granting that internal coherence is a harder constraint than parsimony, a strict empiricist may hold that no theoretical advantage compensates for shared empirical emptiness. The Map's [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with incomplete knowledge—provides a framework for resisting this strict empiricism, but this resistance is itself a philosophical commitment, not a settled conclusion.
+
+Delegation is not proven superior to its rivals. The claim is narrower: it avoids a specific logical defect that epiphenomenalism cannot, while inheriting the broader case for dualism against physicalism. Whether that is sufficient depends on how much weight one gives to internal coherence versus empirical distinctiveness—a question the evidence currently cannot settle.
 
 ## Relation to Site Perspective
 
@@ -100,7 +104,7 @@ Causal delegation supports multiple tenets of the Map's framework.
 
 **Minimal Quantum Interaction**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. The frameworks operate at different levels—mechanism and structure—and integrate naturally. Consciousness biases quantum outcomes (mechanism); this biasing constitutes the physical state delegating its causal role (structure).
 
-**Occam's Razor Has Limits**: Delegation is more complex than epiphenomenalism but more explanatory. A theory that preserves mental causation while explaining why introspective reports are reliable has virtues that simpler theories lack. Parsimony alone does not settle metaphysical questions—an instance of the Map's [[tenets#^occams-limits|fifth tenet]].
+**Occam's Razor Has Limits**: Delegation is more complex than epiphenomenalism, and its advantage is not empirical but structural: it avoids the self-undermining defect that epiphenomenalism's account of introspection creates. Whether this internal coherence advantage justifies the added complexity is itself a philosophical judgement. The Map's [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with incomplete knowledge—provides a framework for making that judgement, but does not settle it.
 
 The everyday phenomenon of [[skill-delegation]] inverts this direction: consciousness hands off causal work to procedural systems. The conscious agent retains the capacity to control the action but does not exercise it because the trained procedure has taken over. Both forms share the crucial feature of preemption—one causal source does the work while the other retains capacity without exercising it.
 
@@ -125,14 +129,17 @@ The full development of Saad's theory, including his five constraints on dualist
 1. Southgate, A. & Oquatre-cinq, C. (2026-01-29). Delegatory Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/delegatory-dualism/
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Preemption. *The Unfinishable Map*. https://unfinishablemap.org/concepts/preemption/
 
-<!-- AI REFINEMENT LOG - 2026-04-10
+<!-- AI REFINEMENT LOG - 2026-04-10 (second pass)
 Changes made:
-- Expanded Observational Closure section with new "Epiphenomenalism Parallel" subsection that directly confronts why sharing epiphenomenalism's empirical profile is a genuine liability, articulates the self-undermining asymmetry argument, and frames the conclusion as a philosophical commitment rather than settled fact
-- Rewrote Delegation vs. Alternative Causal Structures comparison to present each alternative more even-handedly, acknowledging that each has serious defenders and that delegation's advantage depends on which theoretical costs one finds acceptable
-- Fixed "The structure is preemption, not overdetermination" → "The proposed structure is preemption rather than overdetermination" (was stated as fact when it's the article's thesis)
+- Rewrote Epiphenomenalism Parallel subsection to directly confront the tu quoque: appealing to theoretical virtues is the same move the Map criticises physicalists for making
+- Distinguished delegation's advantage as internal coherence (epiphenomenalism is self-undermining) rather than mere theoretical preference—framed as a consistency constraint, not aesthetic choice
+- Added two explicit limitations: (1) the self-undermining argument only eliminates epiphenomenalism, not physicalism; (2) strict empiricists may reject any theoretical advantage given shared empirical emptiness
+- Narrowed the concluding claim: delegation avoids a specific logical defect and inherits the broader dualist case, rather than claiming standalone superiority
 
-Based on pessimistic-2026-04-10.md Issue 2 (high severity) and counterargument "Delegation's Theoretical Superiority Is Assumed, Not Argued."
-Key improvements: Article now directly confronts the tension between claiming theoretical superiority and sharing epiphenomenalism's empirical profile, rather than treating observational closure as a neutral feature.
+Based on pessimistic-2026-04-10.md Issue 2 (high severity): "observational closure makes delegation explanatorily idle in the way epiphenomenalism is."
+Key improvements: Article now names the tu quoque, argues the asymmetry is a constraint rather than a preference, and honestly acknowledges what delegation cannot do on its own.
+
+Previous pass (same date): added Epiphenomenalism Parallel subsection, rewrote alternatives comparison more even-handedly, fixed assertive language.
 
 This log should be removed after human review.
 -->
