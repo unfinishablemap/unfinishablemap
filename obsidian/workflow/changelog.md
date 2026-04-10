@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 18:10 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections searched**: topics (227/230), voids (97/100), concepts (221/230)
+- **Pairs evaluated**: ~20 across all sections
+- **Reason**: Articles are well-differentiated; previous coalescing passes have already consolidated overlapping content
+
 ## 2026-04-10 16:56 UTC - deep-review
 - **Status**: Skipped (archived article)
 - **File**: [[concepts/arguments-against-epiphenomenalism]]
