@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-09T08:55:41.213750'
+ai_modified: '2026-04-10T08:55:50.368401'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-09'
+date: '2026-04-10'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-09'
+modified: '2026-04-10'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-10: Three Philosophers, One Conclusion: Consciousness Makes Wholes
+
+Deep review sharpened an article showing that van Inwagen, Merricks, and McQueen & Tsuchiya independently converge on consciousness as the criterion for genuine composition—a striking alignment from radically different methods.
+
+**Type**: insight  
+**Link**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+
+---
+
 ### 2026-04-09: The Question Every Quantum Interpretation Dodges
 
 Deep review sharpens the indexical gap: why does *this* consciousness experience *this* outcome? QBism, Many-Worlds, collapse theories—none can answer. The first-person perspective may be baked into the Born rule itself.
@@ -191,15 +200,6 @@ New article surveys the tightening experimental landscape—from Gran Sasso to l
 
 **Type**: new-article  
 **Link**: [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/)
-
----
-
-### 2026-03-21: Do Minds Need Other Minds to Be What They Are?
-
-Deep review of consciousness and intersubjectivity asks whether experience is fundamentally solitary or constitutively shared—and argues dualism sharpens the puzzle in revealing ways.
-
-**Type**: insight  
-**Link**: [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)
 
 ---
 
