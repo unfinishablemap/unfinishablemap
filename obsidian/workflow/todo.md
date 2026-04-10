@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10 via expand-topic. The concept page concepts/many-worlds.md should reference the argument page. Check for consistency between the concept overview and the argument's specific claims, add cross-links, and ensure the concept page directs readers to the argument for the Map's detailed case against MWI.
-- **Source**: chain (from arguments/many-worlds-argument.md)
-- **Generated**: 2026-04-10
-
 ### P2: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
 - **Type**: cross-review
 - **Status**: pending
@@ -2088,6 +2081,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10 via expand-topic. The concept page concepts/many-worlds.md should reference the argument page. Check for consistency between the concept overview and the argument's specific claims, add cross-links, and ensure the concept page directs readers to the argument for the Map's detailed case against MWI.
+- **Output**: obsidian/concepts/many-worlds.md -- Context: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
 
 ### ✓ 2026-04-10: Address observational closure self-undermining tension in causal-delegation.md
 - **Type**: refine-draft
