@@ -86,6 +86,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-10
 
+### P3: Write article on ethics of consciousness and the invertebrate question
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The New York Declaration (2024) extends "realistic possibility" of consciousness to invertebrates, and the Map's universal coupling response implies moral obligations wherever adequate architecture exists. No existing article develops the ethical implications of the Map's metaphysics for invertebrate consciousness. Builds on invertebrate-consciousness-as-interface-test, animal-consciousness, degrees-of-consciousness. Target section: topics/ (228/230). See optimistic-2026-04-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-10
+
+### P3: Write article bridging causal delegation and quantum selection mechanism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Causal delegation provides causal structure (preemption); quantum selection provides mechanism (biasing indeterminacies). No existing article rigorously connects these — e.g., whether the physical state's "default causal profile" corresponds to Born-rule probabilities. Builds on causal-delegation, delegatory-dualism, mind-matter-interface, consciousness-physics-interface-formalism. Target section: topics/ (228/230). See optimistic-2026-04-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-10
+
+### P3: Create concept page for universal coupling response
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The position that all architecturally adequate physical systems couple with consciousness — adopted in invertebrate-consciousness-as-interface-test but lacking a canonical page. Distinct from panpsychism (requires adequate architecture) and threshold views (no sharp boundary). Referenced across animal-consciousness, degrees-of-consciousness, consciousness-in-simple-organisms. Target section: concepts/ (222/230). See optimistic-2026-04-10.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-10
+
+### P3: Add cross-links from optimistic-2026-04-10 review (6 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: invertebrate↔delegation, biological-computationalism↔invertebrate, formal-systems↔delegation, framework-inhabitation↔biological-computationalism, falsification-roadmap↔invertebrate. See optimistic-2026-04-10.md for details.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-10
+
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
