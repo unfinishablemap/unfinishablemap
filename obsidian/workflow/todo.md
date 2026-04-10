@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10. The probability-problem article covers probability issues in MWI that should be cross-referenced with the argument page. Check for consistency, add cross-links to the argument page, and ensure the probability discussion aligns with the argument's framing of MWI's failures.
-- **Source**: chain (from arguments/many-worlds-argument.md)
-- **Generated**: 2026-04-10
-
 ### P2: Integrate falsification-roadmap-for-the-interface-model.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2081,6 +2074,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
+- **Type**: cross-review
+- **Notes**: New argument page arguments/many-worlds-argument.md ("Against Many-Worlds") created 2026-04-10. The probability-problem article covers probability issues in MWI that should be cross-referenced with the argument page. Check for consistency, add cross-links to the argument page, and ensure the probability discussion aligns with the argument's framing of MWI's failures.
+- **Output**: obsidian/topics/probability-problem-in-many-worlds.md -- Context: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
 
 ### ✓ 2026-04-10: Cross-review concepts/many-worlds.md considering new arguments/many-worlds-argument.md
 - **Type**: cross-review
