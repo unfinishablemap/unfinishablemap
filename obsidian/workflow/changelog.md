@@ -5,6 +5,14 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 20:09 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/taxonomy-of-voids]]
+- **Changed sources**: 2 (compound-failure-signatures, convergence-as-evidence)
+- **Word count**: 3393 → 3762
+- **Review**: [[reviews/apex-evolve-2026-04-10-taxonomy-of-voids]]
+- **Key changes**: Integrated five families convergence structure, recognition void inventory blindness, non-convergent outliers, overdetermination argument against premature dissolution, probing methods for compound voids, infant consciousness paradigm case
+
 ## 2026-04-10 20:01 UTC - research-voids
 - **Status**: Success
 - **Topic**: The Projection Void — consciousness's inability to observe its own extension into tools, environments, and other beings
