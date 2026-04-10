@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-10 00:56:00+00:00
+ai_modified: 2026-04-10 11:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[integrated-information-theory]]'
+- '[[binding-problem]]'
 created: 2026-04-09
 date: &id001 2026-04-09
 description: Multiple independent answers to the Special Composition Question converge
@@ -19,11 +20,12 @@ description: Multiple independent answers to the Special Composition Question co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-10 00:56:00+00:00
+last_deep_review: 2026-04-10 11:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenal-non-compositionality]]'
+- '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-metaphysics-of-composition-2026-04-05]]'
 title: Consciousness and the Metaphysics of Composition
 topics:
@@ -89,9 +91,9 @@ The convergence on consciousness as the composition criterion connects to a deep
 
 **Bottom-up failure.** The [combination-problem](/concepts/combination-problem/) shows that micro-experiences—if they exist—do not compose into macro-experiences. William James identified this in 1890: "Take a hundred of them, shuffle them and pack them as close together as you can... each remains the same old private self." The [phenomenal non-compositionality](/concepts/phenomenal-non-compositionality/) thesis generalises this: there is no operation on experiences analogous to vector addition or superposition.
 
-**Top-down failure.** Conscious experience resists decomposition into independent parts. The [unity-of-consciousness](/concepts/unity-of-consciousness/) is not a sum of features but a primitive wholeness that cannot be reconstructed from components. Bayne and Chalmers (2003) showed that phenomenal unity involves conjoint phenomenology—a "what it is like" to experience features together that is not derivable from the individual features.
+**Top-down failure.** Conscious experience resists decomposition into independent parts. The [unity-of-consciousness](/concepts/unity-of-consciousness/) is not a sum of features but a primitive wholeness that cannot be reconstructed from components. Bayne and Chalmers (2003) showed that phenomenal unity involves conjoint phenomenology—a "what it is like" to experience features together that is not derivable from the individual features. The [binding-problem](/concepts/binding-problem/) makes the same point empirically: neuroscience can explain how distributed features are computationally coordinated (BP1), but not why that coordination produces unified phenomenal experience (BP2). Classical neural mechanisms—synchrony, thalamocortical broadcasting, information integration—coordinate parts that remain metaphysically separate. Coordination is not composition.
 
-This bidirectional resistance to mereological analysis—neither composable from below nor decomposable from above—is unique to consciousness. Physical properties compose and decompose transparently. Consciousness does neither.
+This bidirectional resistance to mereological analysis—neither composable from below nor decomposable from above—is unique to consciousness. Physical properties compose and decompose transparently. Consciousness does neither. The structural argument that physical composition fails in principle, not merely in practice, is developed in [Quantum Holism and Phenomenal Unity](/topics/quantum-holism-and-phenomenal-unity/).
 
 ## Composition as Identity: The Consciousness Counterexample
 
@@ -103,7 +105,7 @@ This is not the familiar hard problem restated. It is a distinct mereological ar
 
 ## The Unity Argument
 
-Gasparov develops a related line: the [unity-of-consciousness](/concepts/unity-of-consciousness/) provides direct evidence for substance dualism. Physical systems, being composite, consist of parts in external relation. Experience, being unified, does not decompose into externally related parts. The structural mismatch between physical composition and phenomenal unity suggests that the conscious subject is not a physical composite at all.
+Gasparov develops a related line: the [unity-of-consciousness](/concepts/unity-of-consciousness/) provides direct evidence for substance dualism. Physical systems, being composite, consist of parts in external relation. Experience, being unified, does not decompose into externally related parts. The structural mismatch between physical composition and phenomenal unity suggests that the conscious subject is not a physical composite at all. This mismatch appears across all three dimensions of unity identified by Bayne and Chalmers—synchronic (features bound at a moment), diachronic (experience flowing through time), and subject (all experiences belonging to one experiencer)—each presenting its own version of the compositional gap.
 
 Hasker's emergent dualism pushes this further. The soul is an emergent substance—immaterial and causally efficacious, generated by brain activity but not reducible to it. The unity-of-consciousness argument is central: continual physical change means the material "individual" is a series of distinct individuals, but the conscious subject persists as one. Whatever bears the unity of consciousness cannot be a physical composite whose parts change while the unity remains.
 
@@ -126,6 +128,8 @@ The convergence of composition theories on consciousness directly supports The U
 - [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — Why consciousness resists composition categorically
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the composition failure
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The primitive wholeness that defies decomposition
+- [binding-problem](/concepts/binding-problem/) — Why neural coordination fails to produce phenomenal unity
+- [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — The structural argument that physical composition fails in principle
 - [emergence](/concepts/emergence/) — The general problem of deriving wholes from parts
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative to compositional accounts
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that composition theories reveal

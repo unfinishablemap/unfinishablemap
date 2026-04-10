@@ -9,6 +9,35 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-10 14:56 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: [stochastic-amplification-and-neural-selection](/topics/stochastic-amplification-and-neural-selection/)
+- **Reason**: Article was archived on 2026-03-29, coalesced into [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/). Orphan status is expected. Previous review (2026-03-30) already fixed stale references and confirmed replacement has 48+ inbound links. No content changes needed.
+
+## 2026-04-10 13:56 UTC - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 2297 → 2334 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (cross-links to explanatory-gap, causal-closure-debate-historical-survey, the-epiphenomenalist-threat, experimental-consciousness-science-2025-2026; Gamez attribution tightened)
+- **Enhancements made**: 4 (network cross-links)
+- **Context**: Cross-review interface model articles considering falsification-roadmap insights
+- **Output**: [deep-review-2026-04-10b-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-04-10b-falsification-roadmap-for-the-interface-model/)
+
+## 2026-04-10 12:56 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched topics/ (227/230, most pressured section) across 5 iterations examining cognitive-capacity/limit-types, intellectual-courage/disagreement, ownership/individuation, predictive-processing pairs, bandwidth pairs, and methodology articles. All pairs are well-differentiated with distinct scopes. No strong merge candidates found.
+
+## 2026-04-10 11:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 1947 → 2074 (+127)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-links to binding-problem and quantum-holism-and-phenomenal-unity, unity dimensions connection)
+- **Enhancements made**: 3 (binding BP1/BP2 connection, quantum-holism in-principle argument link, Gasparov unity dimensions)
+- **Context**: Cross-review of composition and binding articles
+- **Output**: [deep-review-2026-04-10b-consciousness-and-the-metaphysics-of-composition](/reviews/deep-review-2026-04-10b-consciousness-and-the-metaphysics-of-composition/)
+
 ## 2026-04-10 10:59 UTC - deep-review
 - **Status**: Success
 - **File**: [default-mode-network](/concepts/default-mode-network/)
