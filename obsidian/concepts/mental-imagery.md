@@ -4,7 +4,7 @@ description: "Voluntary mental imagery is consistent with consciousness's causal
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-29T23:10:00+00:00
+ai_modified: 2026-04-10T15:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-23
 last_curated: null
-last_deep_review: 2026-03-14T14:16:00+00:00
+last_deep_review: 2026-04-10T15:56:00+00:00
 ---
 
 Mental imagery—perceptual representation without direct sensory input—is consistent with consciousness's causal efficacy, though it does not uniquely establish it. When you deliberately visualize your childhood home or mentally rehearse a difficult conversation, you engage neural mechanisms that can subsequently guide behaviour. Voluntary mental imagery requires conscious engagement and lateral prefrontal cortex activation (LPFC), distinguishing it from involuntary imagery like dreams or intrusive flashbacks. This voluntary/involuntary distinction maps onto the conscious/unconscious distinction, suggesting consciousness adds a control function beyond automatic processing. If [[concepts/epiphenomenalism]] were true—if consciousness merely observed neural activity without influencing it—the phenomenology of effortful visualization would be deeply mysterious: we would feel ourselves *directing* imagery while actually directing nothing.
