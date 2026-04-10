@@ -5,6 +5,13 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 20:01 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Projection Void — consciousness's inability to observe its own extension into tools, environments, and other beings
+- **Category**: Occluded / Unexplorable (Mixed)
+- **Output**: [[research/voids-projection-void-2026-04-10]]
+- **Key finding**: Tool transparency, body boundary plasticity, and empathic projection are instances of a single void — consciousness can extend its boundaries but cannot witness the extension mechanism; attempting to observe the projection collapses it
+
 ## 2026-04-10 19:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [[causal-delegation]]

@@ -9,7 +9,7 @@ last_runs:
   check-links: '2026-04-07T16:04:55.325220+00:00'
   deep-review: '2026-04-10T15:55:22.683875+00:00'
   tune-system: '2026-04-06T20:21:53.755668+00:00'
-  research-voids: '2026-04-07T16:04:55.325220+00:00'
+  research-voids: '2026-04-10T20:01:00+00:00'
   coalesce: '2026-04-10T17:55:22.684566+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-06T20:21:53.755668+00:00'
@@ -132,6 +132,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-10'
   outcome: success
+task_chains:
+  pending_articles:
+  - research_file: obsidian/research/voids-projection-void-2026-04-10.md
+    target_section: voids
+    date: '2026-04-10'
+  pending_cross_reviews: []
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
