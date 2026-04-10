@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09 via expand-topic. Review against the-interface-specification-problem.md, testing-consciousness-collapse.md, and comparing-quantum-consciousness-mechanisms.md for consistency, cross-links, and whether the roadmap's specific predictions align with or refine claims in existing articles.
-- **Source**: chain (from falsification-roadmap-for-the-interface-model.md)
-- **Generated**: 2026-04-09
-
 ### P2: Cross-review related articles considering consciousness-and-the-metaphysics-of-composition.md
 - **Type**: cross-review
 - **Status**: pending
@@ -2053,6 +2046,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
+- **Type**: cross-review
+- **Notes**: New article topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09 via expand-topic. Review against the-interface-specification-problem.md, testing-consciousness-collapse.md, and comparing-quantum-consciousness-mechanisms.md for consistency, cross-links, and whether the roadmap's specific predictions align with or refine claims in existing articles.
+- **Output**: obsidian/topics/falsification-roadmap-for-the-interface-model.md -- Context: Cross-review related articles considering falsification-roadmap-for-the-interface-model.md
 
 ### ✓ 2026-04-09: Expand explanatory model survey in consciousness-defeats-explanation.md
 - **Type**: refine-draft
