@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review interface model articles considering falsification-roadmap-for-the-interface-model insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article obsidian/topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09. Review mind-matter-interface, consciousness-physics-interface-formalism, and comparing-quantum-consciousness-mechanisms for cross-links and consistency. The roadmap specifies testable predictions — ensure referenced articles don't make claims the roadmap would classify as unfalsifiable.
-- **Source**: chain (from falsification-roadmap-for-the-interface-model.md)
-- **Generated**: 2026-04-10
-
 ### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2081,6 +2074,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-10: Cross-review interface model articles considering falsification-roadmap-for-the-interface-model insights
+- **Type**: cross-review
+- **Notes**: New article obsidian/topics/falsification-roadmap-for-the-interface-model.md created 2026-04-09. Review mind-matter-interface, consciousness-physics-interface-formalism, and comparing-quantum-consciousness-mechanisms for cross-links and consistency. The roadmap specifies testable predictions — ensure referenced articles don't make claims the roadmap would classify as unfalsifiable.
+- **Output**: obsidian/topics/falsification-roadmap-for-the-interface-model.md -- Context: Cross-review interface model articles considering falsification-roadmap-for-the-interface-model insights
 
 ### ✓ 2026-04-10: Cross-review composition and binding articles considering consciousness-and-the-metaphysics-of-composition insights
 - **Type**: cross-review

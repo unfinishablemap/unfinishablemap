@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-10T00:00:00+00:00
+ai_modified: 2026-04-10T13:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,18 +15,23 @@ concepts:
   - "[[measurement-problem]]"
   - "[[decoherence]]"
   - "[[spontaneous-collapse-theories]]"
+  - "[[explanatory-gap]]"
+  - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[the-interface-specification-problem]]"
   - "[[testing-consciousness-collapse]]"
   - "[[invertebrate-consciousness-as-interface-test]]"
   - "[[tenet-falsification-conditions-2026-04-05]]"
+  - "[[causal-closure-debate-historical-survey]]"
+  - "[[the-epiphenomenalist-threat]]"
+  - "[[experimental-consciousness-science-2025-2026]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review: 2026-04-10T00:00:00+00:00
+last_deep_review: 2026-04-10T13:56:00+00:00
 ---
 
 The Unfinishable Map claims consciousness is irreducible, causally efficacious, and operates through quantum indeterminacies. Critics ask: what would change your mind? If nothing could, the framework is unfalsifiable metaphysics rather than honest philosophy. This article answers the question directly, mapping falsification conditions for each of the five [[tenets]] and identifying which conditions are experimentally accessible, which remain out of reach, and which the Map shares with every theory of consciousness.
@@ -45,7 +50,7 @@ The Map should not hide behind this structural problem. That everyone faces the 
 
 **Claim**: Consciousness is not reducible to physical processes.
 
-**What would falsify it**: A complete, verified physical explanation of subjective experience that closes the explanatory gap—not merely identifying neural correlates (which dualism already expects) but demonstrating that physical description *entails* phenomenal experience. This would require resolving the [[hard-problem-of-consciousness|hard problem]] from the physicalist side: showing why and how certain physical configurations necessarily produce specific experiences.
+**What would falsify it**: A complete, verified physical explanation of subjective experience that closes the [[explanatory-gap|explanatory gap]]—not merely identifying neural correlates (which dualism already expects) but demonstrating that physical description *entails* phenomenal experience. This would require resolving the [[hard-problem-of-consciousness|hard problem]] from the physicalist side: showing why and how certain physical configurations necessarily produce specific experiences.
 
 A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's Room) showing that phenomenal knowledge is physical knowledge in a rigorous sense would constitute strong evidence. So would demonstrating that [[philosophical-zombies|conceivability arguments]] fail because consciousness is logically entailed by physical structure.
 
@@ -75,15 +80,15 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 **What would falsify it**:
 
-*Decisive*: Proof that the physical world is strictly causally closed at all levels, including quantum—that there is no room for non-physical influence on any physical outcome. This would require establishing [[causal-closure|causal closure]] not as an assumption but as an empirically confirmed fact at quantum scales, where physics currently leaves outcomes indeterminate. Note that causal closure is currently a methodological assumption of physics, not an established result—quantum mechanics explicitly leaves measurement outcomes undetermined.
+*Decisive*: Proof that the physical world is strictly causally closed at all levels, including quantum—that there is no room for non-physical influence on any physical outcome. This would require establishing [[causal-closure|causal closure]] not as an assumption but as an empirically confirmed fact at quantum scales, where physics currently leaves outcomes indeterminate. Note that causal closure is currently a methodological assumption of physics, not an established result (see [[causal-closure-debate-historical-survey|the historical survey]] for how this assumption evolved)—quantum mechanics explicitly leaves measurement outcomes undetermined.
 
 *Strong*: Demonstration that all human cognitive capacities attributed to consciousness—logical reasoning, counterfactual thinking, cumulative culture—can be replicated by unconscious processing alone. If consciousness does no functional work, the argument from its causal efficacy collapses. The [[consciousness-independent-baseline-cognition|baseline cognition hypothesis]] currently provides evidence against this: great apes demonstrate sophisticated cognition without the capacities that seem to require conscious processing.
 
 *Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens.
 
-**The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as viable within physics. This is not special pleading; it is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
+**The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as remaining open within physics. This is not special pleading; it is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
 
-**Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support. If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position is epistemically [[concepts/epiphenomenalism|self-defeating]]. Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing is extremely difficult.
+**Honest assessment**: The self-undermining argument against epiphenomenalism remains the strongest philosophical support (see [[the-epiphenomenalist-threat]] for why epiphenomenalism is the default destination of most consciousness theories and what genuine escape requires). If consciousness is causally inert, our beliefs *about* consciousness are causally disconnected from consciousness itself, making every report about experience accidentally right at best. The position is epistemically [[concepts/epiphenomenalism|self-defeating]]. Empirical support for bidirectional interaction is real but indirect: establishing that the functional role requires *non-physical* causation rather than complex physical processing is extremely difficult.
 
 ## Tenet 4: No Many Worlds
 
@@ -129,7 +134,7 @@ Five experimental programmes bear directly on the tenets:
 
 2. **Collapse-vs-decoherence experiments**: The levitated-optomechanical programme and related proposals. If objective collapse is confirmed, Tenet 4 gains support and MWI loses ground.
 
-3. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible. Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
+3. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible (see [[experimental-consciousness-science-2025-2026]] for the COGITATE results and their implications). Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
 
 4. **Invertebrate consciousness research**: As [[invertebrate-consciousness-as-interface-test|the invertebrate test case article]] argues, insects and cephalopods constrain the interface model. Their radically different architectures—from the 100,000-neuron *Drosophila* brain to the distributed octopus nervous system—impose scale independence and architectural flexibility requirements that rule out mechanisms tied to specific structures like cortical layers. Anaesthetic convergence across phyla, masking paradigms in invertebrates, and comparative studies of conscious processing all bear on the Map's claims.
 
