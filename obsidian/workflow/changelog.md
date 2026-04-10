@@ -5,6 +5,12 @@ ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-10 03:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/causal-delegation]]
+- **Changes**: Expanded Observational Closure with new Epiphenomenalism Parallel subsection confronting shared empirical profile; made alternative causal structures comparison more even-handed; fixed language presenting thesis as fact
+- **Published**: yes
+
 ## 2026-04-10 02:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
