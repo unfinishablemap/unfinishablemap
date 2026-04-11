@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review self-opacity.md considering projection-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/projection-void.md created 2026-04-11 develops how consciousness cannot observe its own projective activity. Review self-opacity.md for cross-links (projection as a species of self-opacity), check whether the projection void's analysis of tool-extension blindness strengthens or challenges self-opacity's arguments, and ensure consistent treatment of introspective limits.
-- **Source**: chain (from voids/projection-void.md)
-- **Generated**: 2026-04-11
-
 ### P2: Deep review projection-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2109,6 +2102,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Cross-review self-opacity.md considering projection-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/projection-void.md created 2026-04-11 develops how consciousness cannot observe its own projective activity. Review self-opacity.md for cross-links (projection as a species of self-opacity), check whether the projection void's analysis of tool-extension blindness strengthens or challenges self-opacity's arguments, and ensure consistent treatment of introspective limits.
+- **Output**: obsidian/voids/self-opacity.md -- Context: Cross-review self-opacity.md considering projection-void insights
 
 ### ✓ 2026-04-11: Cross-review boundary-void.md considering projection-void insights
 - **Type**: cross-review

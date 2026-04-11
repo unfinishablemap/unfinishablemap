@@ -5,6 +5,15 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-11 16:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/self-opacity]]
+- **Word count**: 2733 → 2742 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate related_articles, duplicate Further Reading, missing projection-void cross-link)
+- **Enhancements made**: 1 (projection-void cross-link in constitutive thesis section)
+- **Output**: [[reviews/deep-review-2026-04-11-self-opacity]]
+
 ## 2026-04-11 15:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-as-perceptual-architect]]
