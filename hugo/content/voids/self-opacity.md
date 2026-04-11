@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-28 21:11:00+00:00
+ai_modified: 2026-04-11 16:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: Consciousness cannot fully know itself—six thinkers from divergen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 02:16:00+00:00
+last_deep_review: 2026-04-11 16:56:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -42,7 +42,7 @@ related_articles:
 - '[[void-as-ground-of-meaning]]'
 - '[[narrative-void]]'
 - '[[limits-reveal-structure]]'
-- '[[observation-and-measurement-void]]'
+- '[[projection-void]]'
 - '[[necessary-opacity]]'
 - '[[constitutive-exclusion]]'
 - '[[causal-interface]]'
@@ -65,7 +65,7 @@ topics:
 
 Consciousness cannot fully know itself. When it tries, it encounters three structural impossibilities: the observer cannot observe itself observing, cognitive processes remain hidden while their products become conscious, and self-reference produces felt instabilities rather than clean self-knowledge. These are not three separate failures but three facets of a single void—the self-opacity of consciousness.
 
-The convergence is striking. Six thinkers from divergent frameworks identify the unobservable self despite sharing almost no premises. Empirical psychology confirms that we confabulate our reasons and construct our sense of agency from interpretive cues. Phenomenological investigation reveals that turning attention inward produces distinctive experiential signatures—felt inversion, semantic vertigo, oscillation—that outward-directed thought lacks. The Unfinishable Map proposes that this self-opacity is not a limitation but a constitutive feature: the subject-object asymmetry that makes experience possible.
+The convergence is striking. Six thinkers from divergent frameworks identify the unobservable self despite sharing almost no premises. Empirical psychology confirms that we confabulate our reasons and construct our sense of agency from interpretive cues. Phenomenology reveals that turning attention inward produces distinctive experiential signatures—felt inversion, semantic vertigo, oscillation—that outward-directed thought lacks. The Unfinishable Map proposes that this self-opacity is not a limitation but a constitutive feature: the subject-object asymmetry that makes experience possible.
 
 ## Six Thinkers, One Limit
 
@@ -105,7 +105,7 @@ Despite structural opacity, we *feel* transparent to ourselves. This connects to
 
 Volitional opacity sits at the intersection of introspective opacity and the [causal interface void](/voids/causal-interface/). We cannot observe the processes of willing, and we cannot observe how (or whether) willing causes action.
 
-Libet's experiments revealed the "readiness potential" beginning ~550 milliseconds before voluntary action, while conscious awareness appears only ~200 milliseconds before. Soon et al. (2008) extended this: brain activity predicted decisions up to seven seconds before awareness, though at modest accuracy (~60%). Wegner showed that the experience of willing arises from interpreting thoughts as causes of actions, based on priority, consistency, and exclusivity. The sense of agency is constructed from interpretive cues, not observed directly.
+Libet's experiments revealed the "readiness potential" beginning ~550 milliseconds before voluntary action, while conscious awareness appears only ~200 milliseconds before. Soon et al. (2008) extended this: brain activity predicted decisions up to seven seconds before awareness, though at modest accuracy (~60%). Wegner showed that the experience of willing arises from interpreting thoughts as causes of actions based on priority, consistency, and exclusivity—constructed from interpretive cues, not observed directly.
 
 Three interpretations compete. The **illusion** reading: the "will" is post-hoc narrative. The **partial access** reading: volition is real but largely unconscious—"free won't" rather than free will. The **closure** reading: volition is real and causally efficacious, but the mechanism is permanently inaccessible. Merleau-Ponty adds a fourth: much of willing operates pre-reflectively through the body—the "willing" we seek may be distributed across processes that were never conscious to begin with.
 
@@ -113,7 +113,7 @@ Three interpretations compete. The **illusion** reading: the "will" is post-hoc 
 
 Self-awareness faces its starkest practical test in error recognition. Kathryn Schulz articulates the central insight: "Being wrong doesn't feel like anything." Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. The Dunning-Kruger research deepens this: competence in X includes the ability to distinguish good from bad instances of X, so incompetence structurally guarantees error-blindness.
 
-Yet we clearly do recognise errors. Recognising that belief B is wrong requires standard S against which B is judged—but S comes from the same cognitive system that produced B. External feedback, formal methods, and redundancy partially resolve this, but none eliminates circularity. Self-correction works despite the impossibility of guaranteeing our corrective faculties are themselves correct.
+Yet we clearly do recognise errors. Recognising that belief B is wrong requires standard S against which B is judged—but S comes from the same cognitive system that produced B. External feedback, formal methods, and redundancy partially resolve this, but none eliminates circularity.
 
 Žižek observes a temporal paradox: before discovering you were wrong, you had "a belief," experienced as true. Only after correction does the prior state become "the error." We have rich access to *realising* we were wrong—the suddenness, surprise, and affective charge of the "aha moment"—but no access to *being* wrong. The same "feeling of being right" accompanies both the error and its correction.
 
@@ -123,7 +123,7 @@ Some errors resist recognition through active defence. Self-deception creates pr
 
 Most treatments frame self-opacity as a *limitation*. The Map proposes a stronger reading: the opacity is *constitutive*. The subject-object asymmetry is not a bug in conscious architecture but its enabling condition.
 
-Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls.
+Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [projection-void](/voids/projection-void/) discovers the same pattern in consciousness's outward reach: tool extension, spatial boundary shifts, and empathic contact all require the projective mechanism to be hidden from the consciousness using it.
 
 This explains the convergence across frameworks. Empiricists, phenomenologists, transcendental idealists, and neuroscientists discover the limit independently because it is a feature of what they study, not an artifact of method. The [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) framework generalises this pattern: cognitive limits are preconditions for meaning, not merely obstacles. A mind with perfect self-transparency would have no perspective, no orientation, no "what it is like." It would contain all information about itself without *being* anyone to whom that information matters.
 
@@ -133,7 +133,7 @@ The eliminativist response—if the self cannot be found, perhaps it does not ex
 
 The constitutive thesis would be undermined if: a contemplative tradition demonstrated stable, articulable knowledge of the observing process itself (not merely its contents or absence); neuroscience captured the subjective perspective as such (not merely neural correlates); a formal proof showed self-modelling systems can achieve complete self-transparency without infinite regress; training produced genuine process-access (contemplatives reporting *how* thoughts arise, not just *that* they arise); direct neural intervention produced first-person observation of thought-generation; or the Libet timing gap proved methodological rather than structural.
 
-After millennia of contemplative practice and centuries of philosophical inquiry, none of these conditions has been met. Self-opacity persists across cultures, methods, and neural states.
+After millennia of contemplative practice and centuries of philosophical inquiry, none of these conditions has been met.
 
 ## Relation to Site Perspective
 
@@ -159,7 +159,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
-- [The Calibration Void](/voids/observation-and-measurement-void/) — Why introspection cannot verify its own reliability
+- [The Projection Void](/voids/projection-void/) — Why consciousness cannot observe its own extension into tools, space, and other minds
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [The Ownership Void](/voids/ownership-void/) — Why experiences feel mine

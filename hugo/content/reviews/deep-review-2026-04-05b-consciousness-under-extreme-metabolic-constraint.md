@@ -55,7 +55,7 @@ topics: []
 - Added Batthyány & Greyson (2020) and Nahm et al. (2012) references
 
 ### Cross-links Added
-- [terminal-lucidity](/concepts/terminal-lucidity/) (body text, chronic vs acute section)
+- [terminal-lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) (body text, chronic vs acute section)
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/) (body text, chronic vs acute section)
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) (body text, Relation to Site Perspective)
 

@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-11 18:58 UTC - deep-review
+- **Status**: Success
+- **File**: [projection-void](/voids/projection-void/)
+- **Word count**: 1526 → 1567 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (unsourced interoception claim, loose Metzinger attribution, missing phenomenal-transparency cross-link)
+- **Enhancements made**: 1 (added Tsakiris et al. citation to references)
+- **Output**: [deep-review-2026-04-11-projection-void](/reviews/deep-review-2026-04-11-projection-void/)
+
+## 2026-04-11 17:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [terminal-lucidity](/concepts/terminal-lucidity/), [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Target**: [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- **Archived**: archive/concepts/terminal-lucidity.md
+- **References to review**: 2 active content files (filter-theory.md, consciousness-under-extreme-metabolic-constraint.md)
+
+## 2026-04-11 16:56 UTC - deep-review
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Word count**: 2733 → 2742 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate related_articles, duplicate Further Reading, missing projection-void cross-link)
+- **Enhancements made**: 1 (projection-void cross-link in constitutive thesis section)
+- **Output**: [deep-review-2026-04-11-self-opacity](/reviews/deep-review-2026-04-11-self-opacity/)
+
+## 2026-04-11 15:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
+- **Word count**: 2586 → 2586 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stable after 4th review; no content changes warranted)
+- **Output**: [deep-review-2026-04-11-consciousness-as-perceptual-architect](/reviews/deep-review-2026-04-11-consciousness-as-perceptual-architect/)
+
 ## 2026-04-11 14:56 UTC - deep-review
 - **Status**: Success
 - **File**: [boundary-void](/voids/boundary-void/)

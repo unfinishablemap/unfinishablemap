@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Terminal Lucidity](/concepts/terminal-lucidity/)
+**Article**: [Terminal Lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

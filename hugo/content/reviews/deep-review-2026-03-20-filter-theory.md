@@ -32,7 +32,7 @@ None. This is the article's sixth review. All previous critical issues remain pr
 ### Medium Issues Found
 
 1. **Missing frontmatter cross-links**: The article discusses terminal lucidity, death-and-consciousness, and the terminal lucidity concept in its body and Further Reading, but frontmatter lacked these entries.
-   - **Resolution**: Added `[terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)` to topics, `[terminal-lucidity](/concepts/terminal-lucidity/)` and `[death-and-consciousness](/topics/death-and-consciousness/)` to concepts.
+   - **Resolution**: Added `[terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)` to topics, `[terminal-lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)` and `[death-and-consciousness](/topics/death-and-consciousness/)` to concepts.
 
 2. **Terminal lucidity section lacked monotonicity argument**: The companion article (terminal-lucidity-and-filter-transmission-theory.md) develops a clean logical formulation: production models predict monotonic decline; terminal lucidity breaks this monotonicity. The filter-theory article's terminal lucidity section didn't capture this structural insight.
    - **Resolution**: Integrated monotonicity argument and added note about autobiographical memory return (a key prediction from companion article). Removed redundant closing sentence to maintain length neutrality.
@@ -71,7 +71,7 @@ All six adversarial personas engaged with cross-review context:
 ### Cross-links Added
 
 - `[terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)` — topics frontmatter
-- `[terminal-lucidity](/concepts/terminal-lucidity/)` — concepts frontmatter
+- `[terminal-lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)` — concepts frontmatter
 - `[death-and-consciousness](/topics/death-and-consciousness/)` — concepts frontmatter
 
 ## Length Management
