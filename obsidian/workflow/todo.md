@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review boundary-void.md considering projection-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/projection-void.md created 2026-04-11 explores consciousness's inability to observe its own extension into tools, space, and other minds. Review boundary-void.md for cross-links (projection as boundary-shifting), reinforcing arguments about self-boundary opacity, and terminology consistency. The projection void directly references boundary-void as a related article.
-- **Source**: chain (from voids/projection-void.md)
-- **Generated**: 2026-04-11
-
 ### P2: Cross-review self-opacity.md considering projection-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2116,6 +2109,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Cross-review boundary-void.md considering projection-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/projection-void.md created 2026-04-11 explores consciousness's inability to observe its own extension into tools, space, and other minds. Review boundary-void.md for cross-links (projection as boundary-shifting), reinforcing arguments about self-boundary opacity, and terminology consistency. The projection void directly references boundary-void as a related article.
+- **Output**: obsidian/voids/boundary-void.md -- Context: Cross-review boundary-void.md considering projection-void insights
 
 ### ✓ 2026-04-11: Update references to coalesced existentialism article
 - **Type**: cross-review
