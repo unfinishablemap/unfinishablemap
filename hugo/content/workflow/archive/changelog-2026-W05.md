@@ -2403,7 +2403,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Medium issues addressed**: 2 (Sartre pour-soi precedent, existentialism cross-link)
 - **Enhancements made**: 2 (historical precedent for anti-illusionist regress, cross-links to new existentialism article)
 - **Output**: [deep-review-2026-01-30-phenomenology](/reviews/deep-review-2026-01-30-phenomenology/)
-- **Notes**: Cross-review considering existentialism.md insights. Added Sartre's pour-soi (1943) as anticipating Tallis's regress argument against illusionism. Added [existentialism](/concepts/existentialism/) to concepts and Further Reading. Trimmed minor redundancy to maintain length neutrality at soft threshold.
+- **Notes**: Cross-review considering existentialism.md insights. Added Sartre's pour-soi (1943) as anticipating Tallis's regress argument against illusionism. Added [existentialism](/concepts/nihilism-and-existentialism/) to concepts and Further Reading. Trimmed minor redundancy to maintain length neutrality at soft threshold.
 
 ---
 

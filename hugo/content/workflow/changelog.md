@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-11 13:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [existentialism](/concepts/nihilism-and-existentialism/), [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Target**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Archived**: [existentialism](/archive/concepts/existentialism/)
+- **References to review**: 14 active content files (cross-review task created)
+- **Notes**: Merged existentialism's consciousness-studies contributions (Sartre's pour-soi, Heidegger's Dasein, bad faith, phenomenology of freedom) into the existing nihilism-and-existentialism article. Reduces concepts/ from 221 to 220 (cap: 230).
+
+## 2026-04-11 11:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Changes**: Expanded Buddhism discussion to distinguish svasaṃvedana (self-intimation) from Western irreducibility; explained dependent origination and denial of svabhāva; added Candrakīrti's Mādhyamaka rejection; changed table entry from "Yes" to "Qualified*" with footnote; adjusted summary paragraph
+- **Trigger**: pessimistic-2026-04-11.md Issue 3
+- **Published**: yes
+
 ## 2026-04-11 10:56 UTC - deep-review
 - **Status**: Success
 - **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)

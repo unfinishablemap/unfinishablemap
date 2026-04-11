@@ -63,7 +63,7 @@ None. Attribution accuracy checks pass — Merleau-Ponty's motor intentional arc
 
 Inbound links added from 10 articles:
 
-1. [existentialism](/concepts/existentialism/) — Inline link in Mood (Stimmung) section + Further Reading entry
+1. [existentialism](/concepts/nihilism-and-existentialism/) — Inline link in Mood (Stimmung) section + Further Reading entry
 2. [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/) — Further Reading entry
 3. [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Inline link in cross-modal binding BP2 gap section
 4. [emotional-consciousness](/topics/emotion-and-dualism/) — Further Reading entry

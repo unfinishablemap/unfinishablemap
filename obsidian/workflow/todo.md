@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced existentialism article
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged existentialism.md into nihilism-and-existentialism.md. The following active content files reference [[existentialism]] and may need updating to [[nihilism-and-existentialism]]: complicity-void, buddhist-perspectives-on-meaning, phenomenology-of-recursive-self-awareness, qualia, phenomenology, living-with-the-map, free-will, thrownness-void, meaning-of-life, consciousness-and-the-phenomenology-of-place, eastern-philosophy-consciousness, idealism, authentic-vs-inauthentic-choice, purpose-and-alignment. The archived article preserves the URL but wikilinks should point to the live unified article.
+- **Source**: coalesce
+- **Generated**: 2026-04-11
+
 ### P2: Cross-review boundary-void.md considering projection-void insights
 - **Type**: cross-review
 - **Status**: pending

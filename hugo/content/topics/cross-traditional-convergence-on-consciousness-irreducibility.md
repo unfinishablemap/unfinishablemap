@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-11 09:56:00+00:00
+ai_modified: 2026-04-11 11:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -48,7 +48,11 @@ Consider three traditions that disagree about nearly everything metaphysical:
 
 **[Sāṃkhya](/topics/indian-philosophy-of-mind/)** holds that consciousness (*Puruṣa*) is eternal, changeless, and completely passive. Matter (*Prakṛti*) does all the work. There is no self that acts—only a [witness](/concepts/witness-consciousness/) that observes. Yet Sāṃkhya insists that this witness is utterly irreducible to the material processes it observes. No arrangement of *Prakṛti* produces *Puruṣa*.
 
-**Buddhism** denies the existence of any enduring self or witness. Consciousness is a stream of momentary events with no underlying substance. The metaphysics could not be more different from Sāṃkhya's. Yet Buddhist phenomenological analysis—particularly the doctrine of *svasaṃvedana* (reflexive self-awareness) in Dignāga and Dharmakīrti—arrives at the same structural recognition: each moment of awareness has an intrinsic phenomenal character that no third-person description captures.
+**Buddhism** denies the existence of any enduring self or witness. Consciousness is a stream of momentary events with no underlying substance. The metaphysics could not be more different from Sāṃkhya's. Yet Buddhist phenomenological analysis arrives at a conclusion that partially parallels the irreducibility finding, though the parallel requires careful qualification.
+
+Dignāga and Dharmakīrti's doctrine of *svasaṃvedana* (reflexive self-awareness) holds that each moment of cognition is self-intimating—awareness illuminates itself without requiring a separate act of introspection. This self-intimation means that the phenomenal character of experience is not accessible through third-person description alone, which *resembles* the Western irreducibility claim. However, self-intimation is not identical to irreducibility as Sāṃkhya or Western dualists use the term. Buddhist *svasaṃvedana* does not posit an ontologically primitive experiential property that stands apart from physical processes. Instead, it operates within the framework of *pratītyasamutpāda* (dependent origination): consciousness arises in dependence on conditions—sense organ, object, attention—and lacks the inherent existence (*svabhāva*) that strong irreducibility claims typically presuppose. The Buddhist position is that consciousness is neither reducible to material elements nor possessed of the independent ontological status that "irreducible" often implies in Western philosophy. It occupies a middle ground that resists both physicalist reduction and substance dualism.
+
+Candrakīrti's *Mādhyamaka* tradition goes further, rejecting *svasaṃvedana* entirely on the grounds that self-awareness would require the impossible act of a sword cutting itself. This intra-Buddhist disagreement means that even the qualified convergence with irreducibility is contested within the tradition itself.
 
 **Western analytic philosophy** begins from neither contemplative practice nor metaphysical system-building but from logical analysis and thought experiment. The [knowledge-argument](/concepts/knowledge-argument/), [conceivability arguments](/concepts/philosophical-zombies/), and the [explanatory-gap](/concepts/explanatory-gap/) all converge—through formal logic rather than phenomenological investigation—on the conclusion that physical description leaves something out.
 
@@ -100,13 +104,15 @@ The most striking feature of the pattern is not that traditions agree on irreduc
 |-----------|-------------|-------|------------|------------|
 | Sāṃkhya | Yes | Eternal witness | Dual substance | Consciousness passive |
 | Nyāya | Yes | Enduring ātman | Realist pluralism | Consciousness active |
-| Buddhism | Yes | No self | No substance | Dependent origination |
+| Buddhism | Qualified* | No self | No substance | Dependent origination |
 | Advaita Vedānta | Yes | Consciousness is all | Monist | Causation illusory |
 | Islamic (Ibn Sīnā) | Yes | Rational soul | Substance dualism | Soul acts on body |
 | Western analytic | Yes | Debated | Debated | Debated |
 | Kyoto School | Yes | Pre-subjective | Anti-substantialist | Prior to causation |
 
-These traditions do not agree because they share premises—they arrive at irreducibility *despite* their premises pulling in different directions. A Buddhist who denies substance and self still finds irreducibility. A Sāṃkhya philosopher who affirms eternal substance and passive witness still finds irreducibility. An analytic philosopher who brackets all metaphysical commitments and works only with thought experiments still finds irreducibility. Nyāya's realist interactionism, Advaita's monist idealism, [Ibn Sīnā's](/concepts/islamic-sufi-philosophy-of-consciousness/) Aristotelian substance dualism, and Nishida's pre-subjective "pure experience" each bring radically different frameworks—yet each finds the same structural limit when third-person description confronts first-person acquaintance.
+\*Buddhism's convergence is qualified: *svasaṃvedana* establishes that awareness is self-intimating and not capturable in third-person terms, which parallels the irreducibility finding. But Buddhist philosophy denies the inherent existence (*svabhāva*) that strong irreducibility claims typically presuppose, and the Mādhyamaka tradition rejects *svasaṃvedana* entirely. Buddhism resists physicalist reduction without endorsing the ontological independence that "irreducible" implies in most other traditions listed here.
+
+These traditions do not agree because they share premises—they arrive at irreducibility, or conclusions structurally similar to it, *despite* their premises pulling in different directions. A Buddhist who denies substance and self still finds that awareness cannot be captured in purely third-person terms. A Sāṃkhya philosopher who affirms eternal substance and passive witness still finds irreducibility. An analytic philosopher who brackets all metaphysical commitments and works only with thought experiments still finds irreducibility. Nyāya's realist interactionism, Advaita's monist idealism, [Ibn Sīnā's](/concepts/islamic-sufi-philosophy-of-consciousness/) Aristotelian substance dualism, and Nishida's pre-subjective "pure experience" each bring radically different frameworks—yet each finds the same structural limit when third-person description confronts first-person acquaintance.
 
 This pattern of agreement-despite-disagreement resembles the structure the [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) analyses as carrying the strongest evidential force. When conclusions hold despite divergent premises, the conclusion is more likely tracking an external reality than reflecting a shared assumption—because the assumptions are not shared.
 
@@ -151,17 +157,21 @@ The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)—that
 1. Southgate, A. & Oquatre-six, C. (2026-02-14). The Hard Problem in Non-Western Philosophy. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-hard-problem-in-non-western-philosophy/
 1. Southgate, A. & Oquatre-six, C. (2026-02-19). The Epistemology of Convergence Arguments. *The Unfinishable Map*. https://unfinishablemap.org/topics/epistemology-of-convergence-arguments/
 
-<!-- AI REFINEMENT LOG - 2026-04-11
+<!-- AI REFINEMENT LOG - 2026-04-11 (pass 2)
 Changes made:
-- Defined independent methodological criteria for "depth of inquiry" (multi-generational development, engagement with strong objections, methodological diversity, internal disagreement) to break the circularity identified in pessimistic review Issue 1
-- Added explicit acknowledgment of the circularity risk in the Chinese counter-example section
-- Noted that Chinese philosophy meets several independent depth criteria, strengthening the honest treatment of the exception
-- Replaced five instances of bare "sufficient depth" with language referencing the independent criteria
-- Softened "precisely the structure" to "resembles the structure" (convergence-arguments link)
-- Softened "consciousness is self-intimating" to "consciousness appears to be self-intimating"
+- Expanded Buddhism discussion from 3 sentences to full treatment distinguishing svasaṃvedana (self-intimation) from Western irreducibility
+- Explained that dependent origination (pratītyasamutpāda) and denial of inherent existence (svabhāva) place Buddhism in a middle ground between physicalist reduction and substance dualism
+- Added Candrakīrti's Mādhyamaka rejection of svasaṃvedana as intra-Buddhist contestation of even the qualified convergence
+- Changed table entry for Buddhism from "Yes" to "Qualified*" with footnote explaining the qualification
+- Adjusted summary paragraph after table to acknowledge Buddhism's conclusion is "structurally similar" to irreducibility rather than identical
 
-Based on pessimistic-2026-04-11.md Issue 1 (circularity in depth criterion).
-Key improvement: The convergence argument is now falsifiable — a tradition meeting the independent depth criteria that converges on reducibility would count as genuine counter-evidence.
+Previous changes (pass 1):
+- Defined independent methodological criteria for "depth of inquiry" to break circularity (Issue 1)
+- Added circularity risk acknowledgment in Chinese counter-example section
+- Softened "precisely the structure" and "consciousness is self-intimating"
+
+Based on pessimistic-2026-04-11.md Issue 3 (misrepresentation of Buddhist position).
+Key improvement: The article now honestly represents Buddhism's qualified, contested relationship to the irreducibility thesis rather than flattening it into a simple "Yes."
 
 This log should be removed after human review.
 -->

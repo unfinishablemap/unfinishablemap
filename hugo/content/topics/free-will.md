@@ -54,7 +54,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Hard Determinism**: Free will is an illusion. Choices are predetermined by prior causes stretching back to the Big Bang.
 
-**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[agent-causal](/concepts/agent-causation/)*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [substance dualism](/tenets/#dualism): consciousness must be a persisting *thing* capable of exercising causal powers. [Existentialist philosophy](/concepts/existentialism/) articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
+**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[agent-causal](/concepts/agent-causation/)*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [substance dualism](/tenets/#dualism): consciousness must be a persisting *thing* capable of exercising causal powers. [Existentialist philosophy](/concepts/nihilism-and-existentialism/) articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
 
@@ -115,7 +115,7 @@ Free will requires [mental causation](/concepts/mental-causation-and-downward-ca
 
 ## Agent Causation and Supporting Evidence
 
-Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [existentialism](/concepts/existentialism/) for the full analysis.
+Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [existentialism](/concepts/nihilism-and-existentialism/) for the full analysis.
 
 The [phenomenology of effort](/concepts/mental-effort/) supports this picture—the felt cost of concentration reflects genuine causal engagement. [Creativity](/topics/consciousness-and-creative-distinctiveness/) strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [creativity void](/voids/imagination-and-creativity-void/) reveals we cannot observe ourselves creating.
 
@@ -194,7 +194,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [dream-consciousness](/topics/dream-consciousness/) — Dream evidence for consciousness's causal role
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
-- [existentialism](/concepts/existentialism/) — Sartre's pour-soi and agent causation
+- [existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi and agent causation
 - [causal-interface](/voids/causal-interface/) — Why consciousness-physics interaction is systematically invisible
 - [tenets](/tenets/) — The foundational commitments grounding this view
 

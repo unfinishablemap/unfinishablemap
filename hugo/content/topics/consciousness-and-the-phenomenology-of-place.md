@@ -66,7 +66,7 @@ A functionalist might respond that atmospheric perception is simply multi-modal 
 
 ## Dwelling and the Heidegger Problem
 
-Heidegger's concept of *Dasein* — being-there, always already situated in a meaningful world — emphasises that consciousness is never placeless. As the [existentialism](/concepts/existentialism/) article explores, Heidegger resisted reducing consciousness to an object among objects. For Heidegger, *dwelling* (*Wohnen*) names the way human beings inhabit the world not as containers hold contents but as care structures meaning. The distinction between [authentic and inauthentic](/topics/authentic-vs-inauthentic-choice/) dwelling matters here: genuinely inhabiting a place — letting it shape and be shaped by one's projects — differs from merely occupying space.
+Heidegger's concept of *Dasein* — being-there, always already situated in a meaningful world — emphasises that consciousness is never placeless. As the [existentialism](/concepts/nihilism-and-existentialism/) article explores, Heidegger resisted reducing consciousness to an object among objects. For Heidegger, *dwelling* (*Wohnen*) names the way human beings inhabit the world not as containers hold contents but as care structures meaning. The distinction between [authentic and inauthentic](/topics/authentic-vs-inauthentic-choice/) dwelling matters here: genuinely inhabiting a place — letting it shape and be shaped by one's projects — differs from merely occupying space.
 
 This carries implications for the Map's position. If consciousness is always placed — always somewhere, oriented, situated — then the placeless, disembodied mind of Cartesian dualism requires revision. The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualism/) does not require a mind detached from the world. Rather, consciousness interfaces with the physical through embodied, situated engagement. The body in its environment provides the [interface](/concepts/attention-as-interface/) through which mind and matter meet.
 
@@ -118,7 +118,7 @@ The irreducibility claim for place-experience would face difficulty if:
 
 - [embodied-cognition](/concepts/embodied-cognition/)
 - [phenomenology](/concepts/phenomenology/)
-- [existentialism](/concepts/existentialism/)
+- [existentialism](/concepts/nihilism-and-existentialism/)
 - [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [attention-as-interface](/concepts/attention-as-interface/)

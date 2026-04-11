@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-27
-**Article**: [Existentialism](/concepts/existentialism/)
+**Article**: [Existentialism](/concepts/nihilism-and-existentialism/)
 **Previous review**: [2026-03-05](/reviews/deep-review-2026-03-05-existentialism/)
 
 ## Pessimistic Analysis Summary

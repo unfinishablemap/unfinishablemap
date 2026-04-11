@@ -103,7 +103,7 @@ Bad faith is self-deception about one's freedom. The waiter who performs "being 
 
 Bad faith has a paradoxical structure: the same person must be both deceiver and deceived. This differs from ordinary lying, where deceiver and deceived are distinct. In bad faith, I convince myself of something I simultaneously know to be false—that I have no choice, that my role determines me, that "I can't help it."
 
-This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [existentialism](/concepts/existentialism/) article. The [complicity void](/voids/complicity-void/) traces this structure across five independent traditions that converge on the same claim: consciousness actively participates in maintaining its own limits.
+This structure presupposes what Sartre calls the pour-soi (being-for-itself): consciousness's constitutive self-distance. Only a being that is never identical with its contents can deceive itself about what those contents mean. The very possibility of bad faith demonstrates consciousness's irreducibility—a point developed in the [existentialism](/concepts/nihilism-and-existentialism/) article. The [complicity void](/voids/complicity-void/) traces this structure across five independent traditions that converge on the same claim: consciousness actively participates in maintaining its own limits.
 
 ### Forms of Bad Faith
 
@@ -222,7 +222,7 @@ The authentic-inauthentic framework would face difficulty if:
 ## Further Reading
 
 - [free-will](/topics/free-will/) — The broader framework for libertarian agency
-- [existentialism](/concepts/existentialism/) — Sartre and Heidegger on consciousness and freedom
+- [existentialism](/concepts/nihilism-and-existentialism/) — Sartre and Heidegger on consciousness and freedom
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of decision-making
 - [agent-causation](/concepts/agent-causation/) — Why genuine choice requires agent causation
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of cognitive engagement

@@ -5,6 +5,14 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-11 13:02 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[existentialism]], [[nihilism-and-existentialism]]
+- **Target**: [[nihilism-and-existentialism]]
+- **Archived**: [[archive/concepts/existentialism]]
+- **References to review**: 14 active content files (cross-review task created)
+- **Notes**: Merged existentialism's consciousness-studies contributions (Sartre's pour-soi, Heidegger's Dasein, bad faith, phenomenology of freedom) into the existing nihilism-and-existentialism article. Reduces concepts/ from 221 to 220 (cap: 230).
+
 ## 2026-04-11 11:56 UTC - refine-draft
 - **Status**: Success
 - **File**: [[cross-traditional-convergence-on-consciousness-irreducibility]]

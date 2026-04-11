@@ -177,7 +177,7 @@ This connects to [filter-theory](/concepts/filter-theory/): if the brain filters
 
 ## Existentialist Support for the Map's Position
 
-[Existentialist phenomenology](/concepts/existentialism/) provides resources for taking the dualist side. Sartre's analysis of the *pour-soi* (being-for-itself) reveals that consciousness is constitutively self-distanced—always aware of itself from a position of separation, never coinciding with its contents. This structure enables genuine choice.
+[Existentialist phenomenology](/concepts/nihilism-and-existentialism/) provides resources for taking the dualist side. Sartre's analysis of the *pour-soi* (being-for-itself) reveals that consciousness is constitutively self-distanced—always aware of itself from a position of separation, never coinciding with its contents. This structure enables genuine choice.
 
 The pour-soi's correlate is the *en-soi* (being-in-itself)—the mode of things that simply are what they are, solid and self-identical. Sartre's framework suggests consciousness requires objects that are genuinely other. The en-soi is not merely separate from the pour-soi; it is *indifferent* to it—it has no interiority to care with. Can one portion of universal consciousness be genuinely indifferent to another if both are fundamentally mind?
 
@@ -208,7 +208,7 @@ If forced to choose between idealism and physicalism, idealism is closer to the 
 - [panpsychism](/concepts/panpsychism/) — Another view taking consciousness as fundamental
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness and matter interact on the Map's view
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical and phenomenal description
-- [existentialism](/concepts/existentialism/) — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
+- [existentialism](/concepts/nihilism-and-existentialism/) — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
 - [filter-theory](/concepts/filter-theory/) — How dualism accommodates brain-consciousness correlation without production
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence both idealists and dualists cite
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness interfaces only with its own brain

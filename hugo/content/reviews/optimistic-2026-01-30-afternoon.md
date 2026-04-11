@@ -28,13 +28,13 @@ The treatment of LLMs is particularly valuable. The Map's third interpretation�
 
 ### The Quantum Mind Theorist (Stapp)
 
-The [existentialism](/concepts/existentialism/) article makes a connection I hadn't considered: the phenomenology of effort that James emphasized and that I've argued reflects genuine quantum selection finds philosophical grounding in Sartre's analysis of freedom. The pour-soi's constitutive self-distance—consciousness always transcending any characterization—provides the philosophical framework for understanding why consciousness can't be captured in neural descriptions.
+The [existentialism](/concepts/nihilism-and-existentialism/) article makes a connection I hadn't considered: the phenomenology of effort that James emphasized and that I've argued reflects genuine quantum selection finds philosophical grounding in Sartre's analysis of freedom. The pour-soi's constitutive self-distance—consciousness always transcending any characterization—provides the philosophical framework for understanding why consciousness can't be captured in neural descriptions.
 
 The article's treatment of mental effort deserves emphasis: "The experience of mental effort—the felt strain of sustaining attention against distraction, of resisting the easier path—provides evidence for this selection function." This is exactly right. If choices were predetermined, the phenomenology of effort would be systematically illusory. But contemplative traditions report that effortful attention has genuine effects.
 
 ### The Phenomenologist (Nagel)
 
-The [existentialism](/concepts/existentialism/) article's treatment of Heidegger's Dasein captures something essential: "Dasein is the being for whom being is a question. This reflexivity—being able to inquire into one's own mode of existence—presupposes what materialism cannot explain: that there is something it is like to be this inquirer."
+The [existentialism](/concepts/nihilism-and-existentialism/) article's treatment of Heidegger's Dasein captures something essential: "Dasein is the being for whom being is a question. This reflexivity—being able to inquire into one's own mode of existence—presupposes what materialism cannot explain: that there is something it is like to be this inquirer."
 
 The article properly distinguishes what existentialists were doing from mere philosophy of language. When Heidegger analyzes being-in-the-world, he's not offering a competing theory to Cartesian dualism—he's showing that the subject-object split both dualism and materialism presuppose is derivative, not primary. The Map understands this: "The detached, objectifying stance is a derived mode, not the ground level."
 
@@ -50,7 +50,7 @@ The phenomenal value pluralism—hedonic valence, aesthetic quality, meaning, ag
 
 ### The Libertarian Free Will Defender (Kane)
 
-The [existentialism](/concepts/existentialism/) article strengthens the case for libertarian free will through phenomenological analysis. Sartre's insistence that freedom isn't an empirical fact but a structural feature of consciousness aligns with my own view that we don't *discover* we're free—freedom is constitutive of what consciousness is.
+The [existentialism](/concepts/nihilism-and-existentialism/) article strengthens the case for libertarian free will through phenomenological analysis. Sartre's insistence that freedom isn't an empirical fact but a structural feature of consciousness aligns with my own view that we don't *discover* we're free—freedom is constitutive of what consciousness is.
 
 The connection to the No Many Worlds tenet is compelling: "If Many Worlds were true, the weight of existentialist choice would dissolve. The anguish Sartre describes—the dizzying awareness that nothing determines one's choice but oneself—presupposes that the choice matters, that it selects one path over others that will not be taken."
 
@@ -64,7 +64,7 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 
 ## Content Strengths
 
-### [existentialism](/concepts/existentialism/)
+### [existentialism](/concepts/nihilism-and-existentialism/)
 - **Strongest point**: The regress argument against illusionism derived from Sartre's pour-soi analysis. "The pour-soi is not a representation added to consciousness but consciousness's own mode of being... To claim this is an illusion requires something to *experience* the illusion."
 - **Notable quote**: "Raymond Tallis has made this point against contemporary illusionists: 'Misrepresentation presupposes presentation.' For consciousness to misrepresent itself as phenomenal, there must be something to which this misrepresentation appears."
 - **Why it works**: Shows that existentialist insights anticipated and ground contemporary arguments against illusionism by 80+ years.
@@ -104,13 +104,13 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 ### High Priority
 
 #### Consciousness and Language: The Recursion Connection
-- **Builds on**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/), [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [existentialism](/concepts/existentialism/)
+- **Builds on**: [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/), [symbol-grounding-problem](/concepts/symbol-grounding-problem/), [existentialism](/concepts/nihilism-and-existentialism/)
 - **Would address**: The Map has pieces on language and consciousness but not a unified treatment of why recursive syntax might require or indicate consciousness. The new symbol grounding article touches on this but doesn't develop it.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism through the argument that meaningful language requires consciousness.
 
 #### The Phenomenology of Authentic vs. Inauthentic Choice
-- **Builds on**: [existentialism](/concepts/existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), bad faith
+- **Builds on**: [existentialism](/concepts/nihilism-and-existentialism/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), bad faith
 - **Would address**: Sartre's distinction between authentic and bad-faith choice has phenomenological correlates. What does authentic choosing actually feel like versus going through the motions?
 - **Estimated scope**: Short article
 - **Tenet alignment**: Supports Bidirectional Interaction by identifying phenomenal signatures of genuine agency.
@@ -153,12 +153,12 @@ The [meaning-of-life](/topics/meaning-of-life/) article properly distinguishes w
 
 | From | To | Reason |
 |------|-----|--------|
-| [existentialism](/concepts/existentialism/) | [illusionism](/concepts/illusionism/) | Pour-soi analysis directly undermines illusionist position |
+| [existentialism](/concepts/nihilism-and-existentialism/) | [illusionism](/concepts/illusionism/) | Pour-soi analysis directly undermines illusionist position |
 | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | phenomenal intentionality | SGP leads to phenomenal intentionality thesis |
-| [phenomenal-value-realism](/topics/phenomenal-value-realism/) | [existentialism](/concepts/existentialism/) | Sartre's authentic choice has phenomenal character that matters |
-| [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/concepts/existentialism/) | Existentialist answers to meaning need the new systematic treatment |
+| [phenomenal-value-realism](/topics/phenomenal-value-realism/) | [existentialism](/concepts/nihilism-and-existentialism/) | Sartre's authentic choice has phenomenal character that matters |
+| [meaning-of-life](/topics/meaning-of-life/) | [existentialism](/concepts/nihilism-and-existentialism/) | Existentialist answers to meaning need the new systematic treatment |
 | [idealism](/concepts/idealism/) | [symbol-grounding-problem](/concepts/symbol-grounding-problem/) | Idealism dissolves SGP differently than dualism |
-| [free-will](/topics/free-will/) | [existentialism](/concepts/existentialism/) | Sartre's radical freedom aligns with libertarian position |
+| [free-will](/topics/free-will/) | [existentialism](/concepts/nihilism-and-existentialism/) | Sartre's radical freedom aligns with libertarian position |
 
 ## New Concept Pages Needed
 
