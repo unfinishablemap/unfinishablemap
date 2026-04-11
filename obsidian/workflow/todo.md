@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-and-the-metaphysics-of-composition.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article argues composition itself is evidence for non-physical consciousness. Add wikilinks from mereological-constitution, phenomenal-binding-and-holism, binding-problem, and related articles that discuss part-whole relations in consciousness.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-10
-
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2067,6 +2060,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Integrate consciousness-and-the-metaphysics-of-composition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article argues composition itself is evidence for non-physical consciousness. Add wikilinks from mereological-constitution, phenomenal-binding-and-holism, binding-problem, and related articles that discuss part-whole relations in consciousness.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-11: Integrate falsification-roadmap-for-the-interface-model.md into site navigation
 - **Type**: integrate-orphan

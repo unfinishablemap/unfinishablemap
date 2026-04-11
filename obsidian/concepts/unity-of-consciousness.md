@@ -4,7 +4,7 @@ description: "Experience comes as an integrated whole—unified across features 
 created: 2026-01-21
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-04-11T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -104,7 +104,7 @@ Phenomenal unity presents a structural challenge to physicalism:
 2. Phenomenal unity is not a relation among distinct parts. It is a property of the whole that is prior to and not derivable from its parts.
 3. Therefore, phenomenal unity cannot be fully explained by physical relations among brain parts.
 
-This parallels Leibniz's mill: walk through a brain enlarged to mill-size and you observe mechanical interactions—neurons firing, chemicals diffusing—but nowhere do you find a unified experience. The physical system consists of parts external to one another; experience is unified without parts in that sense. For the extended argument, see [[quantum-holism-and-phenomenal-unity|Why Phenomenal Unity Resists Physical Explanation]].
+This parallels Leibniz's mill: walk through a brain enlarged to mill-size and you observe mechanical interactions—neurons firing, chemicals diffusing—but nowhere do you find a unified experience. The physical system consists of parts external to one another; experience is unified without parts in that sense. For the extended argument, see [[quantum-holism-and-phenomenal-unity|Why Phenomenal Unity Resists Physical Explanation]]. The [[consciousness-and-the-metaphysics-of-composition|metaphysics of composition]] develops a complementary point: three independent answers to the Special Composition Question converge on consciousness as the criterion for genuine wholes, supporting the claim that phenomenal unity is not assembled from parts but is intrinsic to consciousness itself.
 
 Phenomenal unity also bears on the [[combination-problem|combination problem]]. If panpsychism is true and micro-experiences exist, how do they combine into macro-experiences with conjoint phenomenology? William James called this "the most peculiar puzzle" in philosophy of mind. Both the combination problem and the hard problem of unity may be instances of a general cognitive limit at level transitions—what the Map calls the [[emergence-void|emergence void]].
 

@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-24T21:54:00+00:00
+ai_modified: 2026-04-11T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Every successful [[reductionism-and-consciousness|scientific reduction]] passes 
 
 The [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues this opacity is present at every level transition—reduction relocates explanatory gaps rather than closing them. Consciousness is where the gap becomes undeniable because the qualitative character in question is experience itself. The [[explanatory-void|explanatory void]] deepens this: the phenomenal sense of understanding that makes other reductions *feel* transparent is itself a conscious process, so the transparency test relies on the very phenomenon it identifies as irreducible. Three features make this failure systematic:
 
-**[[unity-of-consciousness|Unified awareness]].** Physically separated neural networks somehow constitute a single conscious state. The [[binding-problem|binding problem]]—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity.
+**[[unity-of-consciousness|Unified awareness]].** Physically separated neural networks somehow constitute a single conscious state. The [[binding-problem|binding problem]]—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity. The [[consciousness-and-the-metaphysics-of-composition|convergence of composition theories]] on consciousness as the criterion for genuine wholes reinforces this: consciousness is what distinguishes genuine composites from mere aggregates, yet consciousness itself resists compositional analysis.
 
 **Qualia.** The qualitative character of experience seems "dimensionally mismatched" with neural complexity. Jackson's [[knowledge-argument|knowledge argument]] and Chalmers' zombie argument suggest phenomenal properties resist physical characterization. Putnam's [[reductionism#multiple-realizability|multiple realizability]] argument reinforces this—if the same quale can be realized by different physical substrates, qualia cannot be identified with any particular neural state.
 

@@ -4,8 +4,8 @@ description: "Multiple independent answers to the Special Composition Question c
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-10T11:56:00+00:00
-last_deep_review: 2026-04-10T11:56:00+00:00
+ai_modified: 2026-04-11T00:56:00+00:00
+last_deep_review: 2026-04-11T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

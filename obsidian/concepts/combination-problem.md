@@ -4,7 +4,7 @@ description: "If electrons have micro-experiences, how do billions combine into 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-29T08:48:00+00:00
+ai_modified: 2026-04-11T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -116,7 +116,7 @@ The combination problem is not just a technical difficulty—it threatens panpsy
 
 Panpsychism aimed to avoid the hard problem of consciousness: the seeming impossibility of experience emerging from non-experiential matter. But if the combination problem is equally intractable, panpsychism hasn't made progress. We've traded "how does experience arise from non-experience?" for "how do micro-experiences combine into macro-experience?"
 
-The deeper issue is [[phenomenal-non-compositionality]]: consciousness simply does not compose the way physical properties do. Two masses combine into a larger mass; two perspectives do not merge into a third perspective. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
+The deeper issue is [[phenomenal-non-compositionality]]: consciousness simply does not compose the way physical properties do. This is why [[consciousness-and-the-metaphysics-of-composition|three independent answers to the Special Composition Question]]—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—all converge on consciousness as the criterion for genuine composition. Two masses combine into a larger mass; two perspectives do not merge into a third perspective. This asymmetry between physical and phenomenal composition may explain why every proposed solution to the combination problem—phenomenal bonding, co-consciousness, combinatorial infusion—remains unsatisfying. They attempt composition where composition may be categorically impossible.
 
 Chalmers acknowledges this: "The combination problem is perhaps the hardest problem of panpsychism... It's not clear that panpsychism has an advantage over physicalism here."
 

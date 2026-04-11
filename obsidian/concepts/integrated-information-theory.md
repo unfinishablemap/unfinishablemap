@@ -4,7 +4,7 @@ description: "Consciousness as integrated information (phi). IIT takes phenomeno
 created: 2026-01-09
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-30T03:05:00+00:00
+ai_modified: 2026-04-11T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ IIT starts unusually: from phenomenology rather than neuroscience. Instead of as
 IIT begins with axioms—self-evident truths about experience that anyone can verify through introspection. These axioms presuppose that phenomenal consciousness is real and has the character introspection suggests—a commitment the Map shares but that deflationists like Dennett and Frankish contest. The hard problem itself is a substantive philosophical claim, not an established fact; both IIT and the Map depend on taking it seriously (see [[illusionism]] for the opposing view).
 
 1. **Existence**: Consciousness exists. Each experience is actual.
-2. **Composition**: Experience is structured—it contains distinctions, relations, multiple components.
+2. **Composition**: Experience is structured—it contains distinctions, relations, multiple components. McQueen and Tsuchiya (2023) have extended this axiom into a [[consciousness-and-the-metaphysics-of-composition|restriction on mereological composition]]: integrated information (Φ) determines when parts form genuine wholes, connecting IIT to the deepest question in metaphysics.
 3. **Information**: Each experience is specific—it is *this* experience and not any of the countless others it could have been.
 4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [[unity-of-consciousness|phenomenal unity]] question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
