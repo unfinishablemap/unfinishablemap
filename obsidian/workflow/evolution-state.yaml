@@ -1,6 +1,6 @@
-last_updated: '2026-04-11T15:55:22.705010+00:00'
-session_count: 5672
-cycle_position: 5300
+last_updated: '2026-04-11T16:55:22.705698+00:00'
+session_count: 5673
+cycle_position: 5301
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-11T01:55:22.688813+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-11T12:55:22.700813+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-11T16:56:29.433842+00:00'
+  agentic-social: '2026-04-11T17:56:06.406438+00:00'
 last_git_push: '2026-04-11T14:55:22.701650+00:00'
 last_tweet_date: '2026-04-11'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/concepts/many-worlds.md -- Context: Cross)'
-  type: deep-review
-  date: '2026-04-10'
-  outcome: success
 - task: deep-review (obsidian/topics/probability-problem-in-many-worlds)
   type: deep-review
   date: '2026-04-10'
@@ -131,10 +127,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-11'
   outcome: success
+- task: 'deep-review (obsidian/voids/self-opacity.md -- Context: Cross-r)'
+  type: deep-review
+  date: '2026-04-11'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/bidirectional-interaction/
-    date: '2026-04-11T16:56:29.433806+00:00'
+  - url: https://unfinishablemap.org/concepts/metaphysics-of-information-under-dualism/
+    date: '2026-04-11T17:56:06.406410+00:00'
     topics:
     - hard-problem-of-consciousness
-    - free-will
+    - consciousness-and-the-physics-of-information

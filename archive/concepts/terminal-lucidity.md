@@ -28,6 +28,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
 last_deep_review: 2026-03-20T07:14:00+00:00
+archived: true
+archived_date: 2026-04-11T17:56:00+00:00
+superseded_by: "/topics/terminal-lucidity-and-filter-transmission-theory/"
+archive_reason: "Coalesced into Terminal Lucidity and Filter/Transmission Theory"
+original_path: "/concepts/terminal-lucidity/"
 ---
 
 Terminal lucidity is the unexpected return of mental clarity, memory, and personality in patients with severe neurological conditions—most commonly advanced dementia—shortly before death. Coined by Michael Nahm in 2009, the term describes episodes in which patients who have been nonverbal and cognitively absent for months or years suddenly recognise family members, hold coherent conversations, and recall long-lost autobiographical memories. The phenomenon is difficult to reconcile with the materialist premise that progressive neurodegeneration irreversibly destroys the neural substrate of cognition, and provides positive evidence for [[filter-theory|filter/transmission models]] of consciousness in which the brain constrains rather than generates mental life.

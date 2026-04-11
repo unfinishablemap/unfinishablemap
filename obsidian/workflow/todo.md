@@ -58,6 +58,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: gap_analysis
 - **Generated**: 2026-04-11
 
+### P2: Update references to coalesced terminal-lucidity concept
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce merged concepts/terminal-lucidity.md into topics/terminal-lucidity-and-filter-transmission-theory.md. The following files reference the archived [[terminal-lucidity]] concept and may need wikilinks updated to [[terminal-lucidity-and-filter-transmission-theory]]: concepts/filter-theory.md, topics/consciousness-under-extreme-metabolic-constraint.md
+- **Source**: coalesce
+- **Generated**: 2026-04-11
+
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
