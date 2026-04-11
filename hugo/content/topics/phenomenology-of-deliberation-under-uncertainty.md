@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-11 13:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,6 +12,7 @@ concepts:
 - '[[counterfactual-reasoning]]'
 - '[[metacognition]]'
 - '[[introspection]]'
+- '[[nihilism-and-existentialism]]'
 - '[[subjective-aim]]'
 - '[[temporal-consciousness]]'
 created: 2026-02-09
@@ -21,7 +22,7 @@ description: What it feels like to decide when outcomes are unknowable—the ver
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 03:04:00+00:00
+last_deep_review: 2026-04-11 13:56:00+00:00
 modified: *id001
 related_articles:
 - '[[authentic-vs-inauthentic-choice]]'
@@ -57,7 +58,7 @@ Each variety engages consciousness differently. Risk invites calculation (howeve
 
 The most distinctive phenomenal feature of deciding under genuine uncertainty is what might be called *deliberative vertigo*—a felt awareness that no amount of reasoning can close the gap between what you know and what you need to know to decide well.
 
-Sartre described existential anguish as the awareness of radical freedom—the dizzying recognition that nothing determines your choice but you. Deliberative vertigo is related but distinct. It is not primarily about freedom but about *ignorance combined with necessity*. You must choose. You cannot know enough to choose well. The combination produces a specific phenomenal state that resembles physical vertigo: a sense of groundlessness, of reaching for support that isn't there.
+Sartre described [existential](/concepts/nihilism-and-existentialism/) anguish as the awareness of radical freedom—the dizzying recognition that nothing determines your choice but you. Deliberative vertigo is related but distinct. It is not primarily about freedom but about *ignorance combined with necessity*. You must choose. You cannot know enough to choose well. The combination produces a specific phenomenal state that resembles physical vertigo: a sense of groundlessness, of reaching for support that isn't there.
 
 This vertigo has several components:
 
@@ -157,6 +158,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why some moments are denser with experience than others
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Deliberative vertigo applied to skilled execution under pressure
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — When commitment arrives without extended deliberation
+- [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — Sartre's anguish and Heidegger's anxiety as existentialist roots of deliberative vertigo
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — The full arc of moral consciousness, where deliberative uncertainty meets competing moral demands
 
 ## References

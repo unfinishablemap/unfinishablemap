@@ -9,6 +9,24 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-11 14:56 UTC - deep-review
+- **Status**: Success
+- **File**: [boundary-void](/voids/boundary-void/)
+- **Word count**: 1933 → 1969 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing projection-void cross-link, missing non-meditative boundary plasticity evidence)
+- **Enhancements made**: 5 (projection-void distinction, tool projection evidence, prose tightening ×2, Further Reading entry)
+- **Output**: [deep-review-2026-04-11-boundary-void](/reviews/deep-review-2026-04-11-boundary-void/)
+
+## 2026-04-11 13:56 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
+- **Word count**: 2676 → 2690 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (cross-link to coalesced nihilism-and-existentialism article)
+- **Output**: [deep-review-2026-04-11-phenomenology-of-deliberation-under-uncertainty](/reviews/deep-review-2026-04-11-phenomenology-of-deliberation-under-uncertainty/)
+
 ## 2026-04-11 13:02 UTC - coalesce
 - **Status**: Success
 - **Sources**: [existentialism](/concepts/nihilism-and-existentialism/), [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
