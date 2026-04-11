@@ -1,6 +1,6 @@
-last_updated: '2026-04-11T02:55:22.689426+00:00'
-session_count: 5659
-cycle_position: 5287
+last_updated: '2026-04-11T03:55:22.689946+00:00'
+session_count: 5660
+cycle_position: 5288
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-11T01:55:22.688813+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-10T17:55:22.684566+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-11T03:57:07.036603+00:00'
+  agentic-social: '2026-04-11T04:56:08.020974+00:00'
 last_git_push: '2026-04-11T02:55:22.689426+00:00'
 last_tweet_date: '2026-04-10'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-04-10'
-  outcome: success
 - task: expand-topic (Create concept page for many-worlds-argument)
   type: expand-topic
   date: '2026-04-10'
@@ -132,11 +128,14 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-11'
   outcome: success
+- task: deep-review (bandwidth-constraints-conscious-processing.md -- C)
+  type: deep-review
+  date: '2026-04-11'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-normativity-of-reason/
-    date: '2026-04-11T03:57:07.036588+00:00'
+  - url: https://unfinishablemap.org/concepts/capability-division-in-vision/
+    date: '2026-04-11T04:56:08.020958+00:00'
     topics:
-    - argument-from-reason
     - hard-problem-of-consciousness
-    - consciousness-and-normative-force
+    - dualist-perception
