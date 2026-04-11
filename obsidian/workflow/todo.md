@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research consciousness and the epistemology of extended cognition
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Gap analysis: the projection-void article raises questions about extended mind (Clark & Chalmers) under dualism that the Map has not systematically addressed. The Map's Tenet 1 (dualism) and Tenet 2 (minimal quantum interaction at neural sites) appear to conflict with strong extended mind thesis. Research how the Map should position itself: does consciousness extend, or does it merely project? Would Clark & Chalmers' parity principle survive under the Map's dualism? Key sources: Clark & Chalmers (1998), Adams & Aizawa (2001), Menary (2010). Target: research note for potential future article.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-11
-
 ### P2: Update references to coalesced terminal-lucidity concept
 - **Type**: cross-review
 - **Status**: pending
@@ -2095,6 +2088,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Research consciousness and the epistemology of extended cognition
+- **Type**: research-topic
+- **Notes**: Gap analysis: the projection-void article raises questions about extended mind (Clark & Chalmers) under dualism that the Map has not systematically addressed. The Map's Tenet 1 (dualism) and Tenet 2 (minimal quantum interaction at neural sites) appear to conflict with strong extended mind thesis. Research how the Map should position itself: does consciousness extend, or does it merely project? Would Clark & Chalmers' parity principle survive under the Map's dualism? Key sources: Clark & Chalmers (1998), Adams & Aizawa (2001), Menary (2010). Target: research note for potential future article.
+- **Output**: consciousness and the epistemology of extended cognition
 
 ### ✓ 2026-04-11: Create concept page for phenomenal opacity
 - **Type**: expand-topic
