@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 02:01:00+00:00
+ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
 date: '2026-04-11'
@@ -9,12 +9,37 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-11 06:56 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: convergent-phenomenological-evidence
+- **Finding**: Article was archived on 2026-04-05 via coalesce into [phenomenological-evidence](/concepts/phenomenological-evidence/). Replacement article absorbs all convergent evidence content in its "Cross-Traditional Convergence" section. Two prior deep reviews (2026-03-28, 2026-03-29) confirmed terminal stability before archival. Orphan status is expected for archived content — no action needed.
+
+## 2026-04-11 05:59 UTC - deep-review
+- **Status**: Skipped (archived article)
+- **File**: stochastic-amplification-and-neural-selection
+- **Finding**: Article was archived on 2026-03-29 via coalesce into [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/). Replacement article has 48+ inbound links. Previous deep review (2026-03-30) already fixed stale references and confirmed terminal stability. Orphan status is expected for archived content — no action needed.
+
+## 2026-04-11 04:56 UTC - deep-review
+- **Status**: Success
+- **File**: [the-interface-location-problem](/topics/the-interface-location-problem/)
+- **Word count**: 3273 → 3255 (-18)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphaned reference removed)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-11-the-interface-location-problem](/reviews/deep-review-2026-04-11-the-interface-location-problem/)
+
 ## 2026-04-11 02:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Projection Void
 - **Output**: [projection-void](/voids/projection-void/)
 - **Word count**: 1526
 - **Based on research**: yes, [voids-projection-void-2026-04-10](/research/voids-projection-void-2026-04-10/)
+
+## 2026-04-11 03:57 UTC - deep-review
+- **Status**: Resolved (no review needed)
+- **File**: bandwidth-constraints-conscious-processing
+- **Finding**: Article was coalesced into [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) on 2026-04-06 but hugo/content/topics/bandwidth-constraints-conscious-processing.md was never cleaned up. The file had no obsidian source and was a stale duplicate. Removed the orphaned hugo file. Archive version at archive/topics/ properly preserves the URL with a redirect to the parent article. Marked two obsolete todo tasks (P2 integrate-orphan, P3 deep-review) as resolved.
+- **Action**: Deleted stale hugo/content/topics/bandwidth-constraints-conscious-processing.md
 
 ## 2026-04-11 02:04 UTC - pessimistic-review
 - **Status**: Success

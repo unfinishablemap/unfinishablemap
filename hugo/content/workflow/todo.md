@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-10 17:56:00+00:00
+ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,27 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Integrate bandwidth-constraints-conscious-processing.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-04-06 via expand-topic from bandwidth-constraints research. Topics article on the ~10 bits/s conscious bandwidth constraint and its interface implications. Add cross-references from attention-as-interface-hypothesis, consciousness-as-amplifier, and related articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-11
-
-### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links despite recent deep-review (2026-04-10). Topics article on stochastic amplification mechanisms connecting quantum indeterminacy to neural-scale behaviour. Add cross-references from comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics, and non-retrocausal-conscious-selection-models.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-11
-
-### P2: Integrate convergent-phenomenological-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Concept page created 2026-03-28 on the evidential pattern where independent phenomenological observations converge on the same conclusion. Add cross-references from the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, and cross-traditional-convergence articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-11
 
 ### P2: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
 - **Type**: cross-review
@@ -171,10 +150,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
-### P3: Deep review bandwidth-constraints-conscious-processing.md
+### ~~P3: Deep review bandwidth-constraints-conscious-processing.md~~
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-06 via expand-topic from research/bandwidth-constraints-10-bits-2026-03-29.md, never reviewed. Topics article on the ~10 bits/s conscious bandwidth constraint and its interface implications. Verify accuracy of empirical bandwidth claims, coherence, cross-references to attention-as-interface-hypothesis and consciousness-as-amplifier, and tenet alignment.
+- **Status**: resolved
+- **Notes**: Article was coalesced into bandwidth-of-consciousness on 2026-04-06. Content reviewed as part of the parent article (last_deep_review: 2026-04-07). Stale hugo duplicate removed 2026-04-11.
 - **Source**: staleness
 - **Generated**: 2026-04-06
 
@@ -2103,6 +2082,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Integrate convergent-phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page created 2026-03-28 on the evidential pattern where independent phenomenological observations converge on the same conclusion. Add cross-references from the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, and cross-traditional-convergence articles.
+- **Output**: convergent-phenomenological-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-11: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links despite recent deep-review (2026-04-10). Topics article on stochastic amplification mechanisms connecting quantum indeterminacy to neural-scale behaviour. Add cross-references from comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics, and non-retrocausal-conscious-selection-models.
+- **Output**: stochastic-amplification-and-neural-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-11: Integrate bandwidth-constraints-conscious-processing.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-04-06 via expand-topic from bandwidth-constraints research. Topics article on the ~10 bits/s conscious bandwidth constraint and its interface implications. Add cross-references from attention-as-interface-hypothesis, consciousness-as-amplifier, and related articles.
+- **Output**: bandwidth-constraints-conscious-processing.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-11: Write article on the projection void
 - **Type**: expand-topic
