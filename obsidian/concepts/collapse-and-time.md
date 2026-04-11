@@ -4,7 +4,7 @@ description: "Wavefunction collapse introduces temporal asymmetry into physics. 
 created: 2026-01-14
 modified: 2026-03-07
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-11T23:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-15T06:11:00+00:00
+last_deep_review: 2026-04-11T23:05:00+00:00
 coalesced_from:
   - "/concepts/consciousness-collapse-arrow-of-time/"
 ---
@@ -94,7 +94,7 @@ The debate maps onto traditional [[philosophy-of-time|philosophy of time]] posit
 
 The Map proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" *is* collapse—resolution of superposition into definite history. Presentism struggles with retrocausal constraints (past states must exert real influence). Eternalism has no room for genuine collapse. The growing block preserves past reality (supporting retrocausal influence) while maintaining genuine openness of the future.
 
-Kastner's PTI resolves the apparent tension: offer and confirmation waves exist in a timeless pre-spacetime realm, while actualized transactions establish empirical spacetime events. The "future" participating in transactions is the possibility space of potential absorbers, not ontologically existing future facts. This allows both real collapse and time-symmetric physics.
+Kastner's PTI addresses the apparent tension: offer and confirmation waves exist in a timeless pre-spacetime realm, while actualized transactions establish empirical spacetime events. The "future" participating in transactions is the possibility space of potential absorbers, not ontologically existing future facts. This allows both real collapse and time-symmetric physics.
 
 This isn't growth *in* time but the *constitution of* time. The [[temporal-consciousness|specious present]] may be the phenomenological manifestation of consciousness's constitutive role—not merely a neural representation. The [[temporal-consciousness|temporal phenomenology of quantum selection]] develops this idea further.
 
@@ -112,7 +112,7 @@ Müller et al. (2021) demonstrated experimentally that forward-to-backward trans
 
 Many-Worlds denies collapse entirely: the universal wavefunction evolves unitarily forever. MWI defenders argue temporal asymmetry emerges from branching structure, with self-locating uncertainty explaining temporal phenomenology.
 
-The Map rejects this. First, the "discovery" model treats temporal experience as epistemic rather than constitutive—but the future doesn't feel like undiscovered territory; it feels genuinely open. Second, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Third, as detailed in [[concepts/many-worlds|Against Many-Worlds]], MWI faces the indexical identity problem. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that consciousness makes *this* outcome actual, not merely observed.
+The Map rejects this. First, the "discovery" model treats temporal experience as epistemic rather than constitutive—but the future doesn't feel like undiscovered territory; it feels genuinely open. Second, the branching structure presupposes what it purports to explain: why branches increase traces to the Past Hypothesis, not to branching itself. Third, as detailed in [[many-worlds|Against Many-Worlds]], MWI faces the indexical identity problem. The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet holds that consciousness makes *this* outcome actual, not merely observed.
 
 ## Falsifiability and Predictions
 
@@ -147,9 +147,12 @@ The triad of consciousness, collapse, and time's arrow engages all five [[tenets
 - [[quantum-consciousness]] — Mechanisms for consciousness-collapse interaction
 - [[decoherence]] — What environmental interaction does and doesn't do
 - [[agent-causation]] — How agents serve as ultimate sources of action
-- [[concepts/many-worlds]] — Detailed arguments against the Many-Worlds interpretation
+- [[many-worlds]] — Detailed arguments against the Many-Worlds interpretation
 - [[quantum-measurement-and-consciousness]] — The measurement problem as a philosophical problem about observation and first-person fact
 - [[prebiotic-collapse]] — What collapsed wavefunctions before conscious observers?
+- [[spontaneous-collapse-theories]] — GRW, CSL, and Penrose OR as physical collapse mechanisms
+- [[presentiment-and-retrocausality]] — Empirical evidence bearing on retrocausal interpretations
+
 ## References
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.
