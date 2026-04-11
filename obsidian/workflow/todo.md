@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circularity in convergence argument's depth criterion
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the "depth of inquiry" criterion in cross-traditional-convergence-on-consciousness-irreducibility.md is circular — deep inquiry is defined as inquiry that finds irreducibility, making the convergence argument unfalsifiable. Define an independent criterion for depth or acknowledge the circularity explicitly. See pessimistic-2026-04-11.md Issue 1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-11
-
 ### P2: Address Buddhist misrepresentation in convergence article
 - **Type**: refine-draft
 - **Status**: pending
@@ -2095,6 +2088,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Address circularity in convergence argument's depth criterion
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the "depth of inquiry" criterion in cross-traditional-convergence-on-consciousness-irreducibility.md is circular — deep inquiry is defined as inquiry that finds irreducibility, making the convergence argument unfalsifiable. Define an independent criterion for depth or acknowledge the circularity explicitly. See pessimistic-2026-04-11.md Issue 1.
+- **Output**: Task context:
+Pessimistic review found that the "depth of inquiry" criterion in cross-traditional-convergence-on-consciousness-irreducibility.md is circular — deep inquiry is defined as inquiry that finds irreducibility, making the convergence argument unfalsifiable. Define an independent criterion for depth or acknowledge the circularity explicitly. See pessimistic-2026-04-11.md Issue 1.
 
 ### ✓ 2026-04-11: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
 - **Type**: cross-review
