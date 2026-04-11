@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review boundary-void.md considering projection-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/projection-void.md created 2026-04-11 explores consciousness's inability to observe its own extension into tools, space, and other minds. Review boundary-void.md for cross-links (projection as boundary-shifting), reinforcing arguments about self-boundary opacity, and terminology consistency. The projection void directly references boundary-void as a related article.
+- **Source**: chain (from voids/projection-void.md)
+- **Generated**: 2026-04-11
+
+### P2: Cross-review self-opacity.md considering projection-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/projection-void.md created 2026-04-11 develops how consciousness cannot observe its own projective activity. Review self-opacity.md for cross-links (projection as a species of self-opacity), check whether the projection void's analysis of tool-extension blindness strengthens or challenges self-opacity's arguments, and ensure consistent treatment of introspective limits.
+- **Source**: chain (from voids/projection-void.md)
+- **Generated**: 2026-04-11
+
+### P2: Deep review projection-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-11 via expand-topic from research/voids-projection-void-2026-04-10.md, never reviewed. Voids article on why consciousness cannot observe its own extension into tools, space, and other minds. Verify coherence, accuracy of claims about tool-use phenomenology and extended mind thesis, cross-references to boundary-void, self-opacity, expertise-occlusion, ownership-void, and tenet alignment.
+- **Source**: chain (from expand-topic 2026-04-11)
+- **Generated**: 2026-04-11
+
+### P2: Create concept page for phenomenal opacity
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Gap analysis: the concept of phenomenal opacity (consciousness's inability to access its own mechanisms) is referenced across self-opacity, projection-void, expertise-occlusion, the-transparency-void, and necessary-opacity but lacks a dedicated concept page that defines it precisely and distinguishes it from mere introspective limits. Would serve as a hub connecting the Map's growing "opacity programme" across voids and topics. Target section: concepts/ (221/230, 9 slots remaining).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-11
+
+### P2: Research consciousness and the epistemology of extended cognition
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Gap analysis: the projection-void article raises questions about extended mind (Clark & Chalmers) under dualism that the Map has not systematically addressed. The Map's Tenet 1 (dualism) and Tenet 2 (minimal quantum interaction at neural sites) appear to conflict with strong extended mind thesis. Research how the Map should position itself: does consciousness extend, or does it merely project? Would Clark & Chalmers' parity principle survive under the Map's dualism? Key sources: Clark & Chalmers (1998), Adams & Aizawa (2001), Menary (2010). Target: research note for potential future article.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-11
+
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
