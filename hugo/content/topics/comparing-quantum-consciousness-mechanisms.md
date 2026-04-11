@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-31 19:38:00+00:00
+ai_modified: 2026-04-10 23:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -38,6 +38,7 @@ related_articles:
 - '[[testing-consciousness-collapse]]'
 - '[[quantum-darwinism-and-consciousness]]'
 - '[[post-decoherence-selection-programme]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 title: Comparing Quantum Consciousness Mechanisms
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -143,7 +144,7 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 **The falsifiability gap.** No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [experimental landscape](/topics/testing-consciousness-collapse/) is narrowing, and [specific divergent predictions](/topics/testing-consciousness-collapse/) between consciousness-collapse and decoherence are now catalogued — though the consciousness-specific predictions remain untested. Emerging NV-centre diamond quantum sensors may provide the first direct in vivo measurements of neural quantum coherence.
 
-**No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from multiple proposals.
+**No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from multiple proposals. The [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) maps these experimental prospects onto the Map's five tenets, specifying what evidence would require abandoning each commitment.
 
 ## Relation to Site Perspective
 

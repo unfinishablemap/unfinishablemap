@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-27 19:39:00+00:00
+ai_modified: 2026-04-10 23:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,6 +44,7 @@ related_articles:
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[causal-closure-debate-historical-survey]]'
 - '[[completeness-in-physics-under-dualism]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 title: Causal Closure of the Physical
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -195,7 +196,7 @@ Rejecting causal closure might seem to invite chaos—if physics isn't complete,
 
 Why don't consciousness-influenced quantum events aggregate to detectable violations? Consciousness biases only indeterminacies that matter for cognition—quantum events in neural systems prepared for amplification. In non-neural systems (bridge atoms, thermalization events), any biases average out to undetectable fluctuations within quantum statistical variation. Causal closure's failure allows *small* deviations that influence which superposed neural state becomes actual—statistically invisible outside neural systems, yet decisive for agency and thought.
 
-**Testability**: The Map's position makes falsifiable predictions: if quantum coherence proves impossible at neural timescales, if quantum effects cannot be amplified to affect neural firing, or if purely classical mechanisms explain all consciousness-related phenomena including reportability—the framework fails. The position is not empirically equivalent to physicalism.
+**Testability**: The Map's position makes falsifiable predictions: if quantum coherence proves impossible at neural timescales, if quantum effects cannot be amplified to affect neural firing, or if purely classical mechanisms explain all consciousness-related phenomena including reportability—the framework fails. The position is not empirically equivalent to physicalism. See [the falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) for tenet-by-tenet falsification conditions.
 
 This is not "god of the gaps" reasoning. Physics *describes* a gap—between quantum probabilities and definite outcomes—and the Map asks what fills it. The position may be naturally mysterious (see [mysterianism](/concepts/mysterianism/)).
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-04-06 13:32:00+00:00
+ai_modified: 2026-04-11 00:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -53,7 +53,7 @@ But phenomenal non-compositionality is broader than the combination problem. It 
 
 **Panpsychism** faces it as the combination problem. Even granting experiential parts, they do not compose into experiential wholes. This is compositional failure in the other direction: phenomenal parts cannot compose into unified phenomenal wholes either.
 
-The two failures share a common structure. Whether the candidate building blocks are physical or experiential, the compositional operation that would yield unified consciousness from them remains missing. Sam Coleman (2014) made this vivid: if subject A and subject B combine to form subject C, then either A and B cease to exist (in which case nothing combined) or all three coexist (in which case C was added, not composed). The dilemma applies regardless of whether A and B are conceived as physical states or micro-experiences.
+The two failures share a common structure. Whether the candidate building blocks are physical or experiential, the compositional operation that would yield unified consciousness from them remains missing. Sam Coleman (2014) made this vivid: if subject A and subject B combine to form subject C, then either A and B cease to exist (in which case nothing combined) or all three coexist (in which case C was added, not composed). The dilemma applies regardless of whether A and B are conceived as physical states or micro-experiences. This structural insight helps explain why [multiple independent answers to the Special Composition Question](/topics/consciousness-and-the-metaphysics-of-composition/) converge on consciousness as the criterion for genuine wholes—consciousness marks where composition breaks down.
 
 ## Why Physical Analogies Fail
 
@@ -99,6 +99,7 @@ Phenomenal non-compositionality provides some of the strongest support for the M
 - [binding-problem](/concepts/binding-problem/) — Why experience comes as unified wholes
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The physicalist face of the same structural gap
 - [emergence](/concepts/emergence/) — The general problem of deriving wholes from parts
+- [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/) — Three composition theories independently converge on consciousness as the criterion for genuine wholes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's alternative to compositional accounts
 
 ## References

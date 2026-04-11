@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-29 03:36:00+00:00
+ai_modified: 2026-04-11 00:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -101,7 +101,7 @@ Several mechanisms have been proposed for computational binding (BP1):
 
 These theories address BP1 but share a structural limitation when applied to BP2. Classical physics describes reality as fundamentally separate particles interacting through local forces. All large-scale phenomena reduce to arrangements of parts—there are no genuine wholes, only coordinated pluralities. A symphony orchestra coordinates hundreds of instruments with exquisite precision, yet the instruments remain separate, making separate sounds that happen to be coordinated. Coordination is not identity. No matter how tightly synchronized, two events remain two events.
 
-Even perfect temporal synchrony doesn't explain phenomenal unity. Suppose we discover that neurons representing red, round, and moving all fire at exactly 40 Hz in phase when you see the bouncing ball. This tells us *when* they're coordinated, but not *why* coordination produces unified experience. The [combination-problem](/concepts/combination-problem/) appears here in acute form: if consciousness somehow emerges from neural activity, why doesn't each neuron have its own tiny consciousness? And if they do, how do millions of micro-consciousnesses combine into your single unified experience?
+Even perfect temporal synchrony doesn't explain phenomenal unity. Suppose we discover that neurons representing red, round, and moving all fire at exactly 40 Hz in phase when you see the bouncing ball. This tells us *when* they're coordinated, but not *why* coordination produces unified experience. The [combination-problem](/concepts/combination-problem/) appears here in acute form: if consciousness somehow emerges from neural activity, why doesn't each neuron have its own tiny consciousness? And if they do, how do millions of micro-consciousnesses combine into your single unified experience? The [metaphysics of composition](/topics/consciousness-and-the-metaphysics-of-composition/) traces this challenge to its source: three independent answers to the Special Composition Question—van Inwagen's organicism, Merricks' eliminativism, and McQueen and Tsuchiya's IIT-based approach—converge on consciousness as what makes genuine wholes, yet consciousness itself resists the mereological analysis that would explain how those wholes are built.
 
 Researchers acknowledge this gap explicitly: phenomenology and neural integration don't line up cleanly. Sometimes we experience unity without corresponding neural binding (filling-in, binocular fusion). Sometimes neural integration occurs without corresponding phenomenal unity (unconscious multisensory processing in anesthesia).
 

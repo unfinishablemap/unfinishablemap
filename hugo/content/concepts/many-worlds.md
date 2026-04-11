@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-10 20:56:00+00:00
+ai_modified: 2026-04-10 23:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[probability-objections-many-worlds]]'
 - '[[many-worlds-argument]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 - '[[tenets]]'
 title: The Many-Worlds Interpretation
 topics:
@@ -146,7 +147,7 @@ The Map's rejection of MWI is principled but not dogmatic. Conditions that would
 
 4. **Empirical tests favoring MWI.** If experiments produced results uniquely predicted by MWI, empirical pressure would mount.
 
-None of these conditions currently obtain. The rejection of MWI remains well-motivated.
+None of these conditions currently obtain. The rejection of MWI remains well-motivated. For a systematic treatment of falsification conditions across all five tenets, see [the falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/).
 
 ## Relation to Site Perspective
 

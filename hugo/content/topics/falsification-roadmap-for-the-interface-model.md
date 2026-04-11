@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-10 13:56:00+00:00
+ai_modified: 2026-04-10 23:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: What evidence would force the Map to abandon its tenets? A tenet-by
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-10 13:56:00+00:00
+last_deep_review: 2026-04-10 23:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -32,6 +32,12 @@ related_articles:
 - '[[causal-closure-debate-historical-survey]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[experimental-consciousness-science-2025-2026]]'
+- '[[methodology-of-consciousness-research]]'
+- '[[comparing-quantum-consciousness-mechanisms]]'
+- '[[duhem-quine-underdetermination-consciousness]]'
+- '[[consciousness-and-the-structure-of-scientific-revolutions]]'
+- '[[parsimony-case-for-interactionist-dualism]]'
+- '[[penrose-gravity-induced-collapse-empirical-prospects]]'
 title: Falsification Roadmap for the Interface Model
 topics:
 - '[[hard-problem-of-consciousness]]'

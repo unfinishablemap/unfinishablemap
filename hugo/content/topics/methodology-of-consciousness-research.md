@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-30 09:44:00+00:00
+ai_modified: 2026-04-10 23:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -50,6 +50,7 @@ related_articles:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 - '[[the-subject-object-distinction-as-philosophical-discovery]]'
 title: The Methodology of Consciousness Research
 topics:
@@ -165,6 +166,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — What scientific practice looks like under dualist commitments
 - [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/) — Why standard theory-choice criteria malfunction for consciousness
 - [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/) — Kuhn's framework applied to consciousness studies
+- [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) — Tenet-by-tenet falsification conditions for the Map's framework
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — The methodological circle in cognitive science's consciousness research
 - [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) — Why the measurement triad breaks down for phenomenal quantities
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The irreducibly phenomenal character of scientific practice itself

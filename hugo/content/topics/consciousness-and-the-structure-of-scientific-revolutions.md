@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-05 01:47:00+00:00
+ai_modified: 2026-04-10 23:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[phenomenology-of-framework-inhabitation]]'
 - '[[parsimony-epistemology]]'
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 title: Consciousness and the Structure of Scientific Revolutions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -94,7 +95,7 @@ The Unfinishable Map interprets Kuhn's framework as illuminating rather than res
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Kuhn showed that paradigm choice is not determined by simplicity alone. Scientists in different paradigms weight theoretical virtues differently. The preference for physicalism on grounds of parsimony reflects the incumbent paradigm's values, not a neutral assessment. [Parsimony epistemology](/concepts/parsimony-epistemology/) shows that simplicity is unreliable when knowledge is incomplete — and Kuhn's own work demonstrates that scientists routinely adopt more complex frameworks when simpler ones fail to handle anomalies.
 
-**[Dualism](/tenets/#dualism)**: The Kuhnian analysis does not prove dualism. It reframes the dialectic. If physicalism is a paradigm in crisis rather than an established truth, then dualism is not a reactionary retreat to pre-scientific thinking but a candidate successor framework responding to genuine anomalies. The explanatory gap, the hard problem, and conceivability arguments are not puzzles awaiting physicalist solutions — they are the anomalies driving crisis.
+**[Dualism](/tenets/#dualism)**: The Kuhnian analysis does not prove dualism. It reframes the dialectic. If physicalism is a paradigm in crisis rather than an established truth, then dualism is not a reactionary retreat to pre-scientific thinking but a candidate successor framework responding to genuine anomalies. The explanatory gap, the hard problem, and conceivability arguments are not puzzles awaiting physicalist solutions — they are the anomalies driving crisis. The Map's [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) responds to the Kuhnian demand that candidate successor frameworks specify what would count as evidence against them.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Kuhn emphasised that paradigm shifts are not purely rational processes — they involve the [phenomenology of conceptual change](/topics/phenomenology-of-conceptual-change/), where aesthetic judgment, felt coherence, and what the Map calls [epistemic-emotions](/concepts/epistemic-emotions/) guide scientists toward new frameworks. If these phenomenal states are causally efficacious in theory selection — as the Map's Bidirectional Interaction tenet holds — then the very process by which a consciousness revolution could occur depends on the reality of what the revolution would establish: that consciousness does real work.
 

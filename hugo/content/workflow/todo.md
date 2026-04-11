@@ -38,19 +38,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate falsification-roadmap-for-the-interface-model.md into site navigation
+### P2: Integrate bandwidth-constraints-conscious-processing.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article specifies testable predictions for the interface model — a high-value page that should be referenced from mind-matter-interface, consciousness-physics-interface-formalism, comparing-quantum-consciousness-mechanisms, and potentially the tenets page. Add wikilinks from related articles.
+- **Notes**: File has no inbound links. Created 2026-04-06 via expand-topic from bandwidth-constraints research. Topics article on the ~10 bits/s conscious bandwidth constraint and its interface implications. Add cross-references from attention-as-interface-hypothesis, consciousness-as-amplifier, and related articles.
 - **Source**: orphan_integration
-- **Generated**: 2026-04-10
+- **Generated**: 2026-04-11
 
-### P2: Integrate consciousness-and-the-metaphysics-of-composition.md into site navigation
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article argues composition itself is evidence for non-physical consciousness. Add wikilinks from mereological-constitution, phenomenal-binding-and-holism, binding-problem, and related articles that discuss part-whole relations in consciousness.
+- **Notes**: File has no inbound links despite recent deep-review (2026-04-10). Topics article on stochastic amplification mechanisms connecting quantum indeterminacy to neural-scale behaviour. Add cross-references from comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics, and non-retrocausal-conscious-selection-models.
 - **Source**: orphan_integration
-- **Generated**: 2026-04-10
+- **Generated**: 2026-04-11
+
+### P2: Integrate convergent-phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Concept page created 2026-03-28 on the evidential pattern where independent phenomenological observations converge on the same conclusion. Add cross-references from the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, and cross-traditional-convergence articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-11
+
+### P2: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Deep reviews of probability-problem-in-many-worlds.md and many-worlds.md completed 2026-04-10 with cross-link updates. The born-rule article's treatment of Born rule resistance to derivation maps directly onto the probability argument against MWI but may lack updated cross-references. Review for consistency, add cross-links to probability-problem-in-many-worlds and many-worlds-argument, and verify terminology alignment on probability interpretation.
+- **Source**: chain (from deep-reviews 2026-04-10)
+- **Generated**: 2026-04-11
+
+### P2: Address circularity in convergence argument's depth criterion
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that the "depth of inquiry" criterion in cross-traditional-convergence-on-consciousness-irreducibility.md is circular — deep inquiry is defined as inquiry that finds irreducibility, making the convergence argument unfalsifiable. Define an independent criterion for depth or acknowledge the circularity explicitly. See pessimistic-2026-04-11.md Issue 1.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-11
+
+### P2: Address Buddhist misrepresentation in convergence article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found that cross-traditional-convergence-on-consciousness-irreducibility.md maps Buddhist svasaṃvedana onto Western "irreducibility" without adequate qualification. Dependent origination and self-intimation are not equivalent to irreducibility as the article uses the term. Expand discussion, qualify table entry. See pessimistic-2026-04-11.md Issue 3.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-11
 
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
@@ -2075,6 +2103,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Write article on the projection void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-projection-void-2026-04-10.md. The projection void explores how consciousness projects structure onto experience — attributing internal organisation to external reality. Synthesise findings into a voids article. Voids section has capacity (97/100). Target section: voids/.
+- **Output**: the projection void
+
+### ✓ 2026-04-11: Integrate consciousness-and-the-metaphysics-of-composition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article argues composition itself is evidence for non-physical consciousness. Add wikilinks from mereological-constitution, phenomenal-binding-and-holism, binding-problem, and related articles that discuss part-whole relations in consciousness.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-11: Integrate falsification-roadmap-for-the-interface-model.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Created 2026-04-09, cross-reviewed but still has 0 inbound links from content files. This article specifies testable predictions for the interface model — a high-value page that should be referenced from mind-matter-interface, consciousness-physics-interface-formalism, comparing-quantum-consciousness-mechanisms, and potentially the tenets page. Add wikilinks from related articles.
+- **Output**: obsidian/topics/falsification-roadmap-for-the-interface-model.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-10: Cross-review topics/probability-problem-in-many-worlds.md considering many-worlds-argument.md
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-03-28 01:09:00+00:00
+ai_modified: 2026-04-10 23:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,6 +20,7 @@ last_deep_review: 2026-03-24 04:33:00+00:00
 modified: *id001
 related_articles:
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[falsification-roadmap-for-the-interface-model]]'
 title: Penrose Gravity-Induced Collapse and Empirical Prospects
 topics:
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
@@ -98,7 +99,7 @@ Penrose's gravitational OR aligns with the Map's tenets in specific and importan
 
 **Minimal Quantum Interaction.** The Map speculates that consciousness modulates collapse parameters in neural systems—biasing which quantum outcomes become actual—without creating collapse from nothing. If gravitational OR provides the baseline, consciousness need only nudge an already-occurring process. This is the minimal intervention the [second tenet](/tenets/#minimal-quantum-interaction) demands.
 
-**Empirical stakes.** The Map holds that its framework should be responsive to evidence. If gravity-related collapse is confirmed experimentally, it strengthens the case for objective collapse and against many-worlds, providing empirical support for the Map's metaphysical commitments. If collapse models are entirely falsified—if no deviation from standard quantum mechanics is found even at macroscopic scales—the Map must reconsider how collapse occurs and whether consciousness-modulated selection can operate through other mechanisms. The honesty to acknowledge this vulnerability distinguishes a philosophical position from dogma.
+**Empirical stakes.** The Map holds that its framework should be responsive to evidence. If gravity-related collapse is confirmed experimentally, it strengthens the case for objective collapse and against many-worlds, providing empirical support for the Map's metaphysical commitments. If collapse models are entirely falsified—if no deviation from standard quantum mechanics is found even at macroscopic scales—the Map must reconsider how collapse occurs and whether consciousness-modulated selection can operate through other mechanisms. The [falsification roadmap](/topics/falsification-roadmap-for-the-interface-model/) specifies these conditions systematically for each tenet. The honesty to acknowledge this vulnerability distinguishes a philosophical position from dogma.
 
 The partial falsification of the parameter-free DP model is instructive. It shows that nature does not always cooperate with the most elegant version of a theory—a concrete instance of the Map's [fifth tenet](/tenets/#occams-limits) that simplicity is not a reliable guide. The physically simplest version (R₀ = 0) failed, but the underlying physical insight—that gravity and quantum superposition are in tension—may still be correct.
 

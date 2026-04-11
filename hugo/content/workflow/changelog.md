@@ -4,10 +4,42 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-06 02:01:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-10'
+date: '2026-04-11'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-11 02:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Projection Void
+- **Output**: [projection-void](/voids/projection-void/)
+- **Word count**: 1526
+- **Based on research**: yes, [voids-projection-void-2026-04-10](/research/voids-projection-void-2026-04-10/)
+
+## 2026-04-11 02:04 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: vertiginous-question.md, structural-varieties-of-consciousness-and-ai-phenomenology.md, cross-traditional-convergence-on-consciousness-irreducibility.md
+- **Output**: [pessimistic-2026-04-11](/reviews/pessimistic-2026-04-11/)
+- **Issues found**: 4 critical/medium (circularity in convergence depth criterion, nested speculation in AI phenomenology, Buddhist misrepresentation, deflationary dismissal)
+- **Tasks created**: 2 (P2 refine-draft tasks for convergence article)
+
+## 2026-04-11 00:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 2074 → 2074 (+0, cross-linking only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — article had zero inbound links from content articles)
+- **Enhancements made**: 7 inbound cross-links added from: phenomenal-non-compositionality, combination-problem, unity-of-consciousness, emergence, integrated-information-theory, binding-problem, consciousness-and-the-metaphysics-of-individuation
+- **Output**: [deep-review-2026-04-11-consciousness-and-the-metaphysics-of-composition](/reviews/deep-review-2026-04-11-consciousness-and-the-metaphysics-of-composition/)
+
+## 2026-04-10 23:56 UTC - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 2334 → 2334 (+0, cross-linking only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — article had zero inbound links)
+- **Enhancements made**: 8 inbound cross-links added from: methodology-of-consciousness-research, causal-closure, many-worlds, comparing-quantum-consciousness-mechanisms, duhem-quine-underdetermination-consciousness, consciousness-and-the-structure-of-scientific-revolutions, penrose-gravity-induced-collapse-empirical-prospects, parsimony-case-for-interactionist-dualism
+- **Output**: [deep-review-2026-04-10c-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-04-10c-falsification-roadmap-for-the-interface-model/)
 
 ## 2026-04-10 22:56 UTC - deep-review
 - **Status**: Success
