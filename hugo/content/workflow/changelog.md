@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-11 23:05 UTC - deep-review
+- **Status**: Success
+- **File**: [collapse-and-time](/concepts/collapse-and-time/)
+- **Word count**: 1983 → 2004 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-11-collapse-and-time](/reviews/deep-review-2026-04-11-collapse-and-time/)
+
 ## 2026-04-11 21:56 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenal-opacity](/concepts/phenomenal-opacity/)

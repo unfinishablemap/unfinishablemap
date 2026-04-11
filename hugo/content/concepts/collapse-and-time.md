@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-11 23:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: Wavefunction collapse introduces temporal asymmetry into physics. I
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 06:11:00+00:00
+last_deep_review: 2026-04-11 23:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,7 +97,7 @@ The debate maps onto traditional [philosophy of time](/concepts/philosophy-of-ti
 
 The Map proposes a **modified growing block**. Past and present exist; the future doesn't yet. The "growth" *is* collapse—resolution of superposition into definite history. Presentism struggles with retrocausal constraints (past states must exert real influence). Eternalism has no room for genuine collapse. The growing block preserves past reality (supporting retrocausal influence) while maintaining genuine openness of the future.
 
-Kastner's PTI resolves the apparent tension: offer and confirmation waves exist in a timeless pre-spacetime realm, while actualized transactions establish empirical spacetime events. The "future" participating in transactions is the possibility space of potential absorbers, not ontologically existing future facts. This allows both real collapse and time-symmetric physics.
+Kastner's PTI addresses the apparent tension: offer and confirmation waves exist in a timeless pre-spacetime realm, while actualized transactions establish empirical spacetime events. The "future" participating in transactions is the possibility space of potential absorbers, not ontologically existing future facts. This allows both real collapse and time-symmetric physics.
 
 This isn't growth *in* time but the *constitution of* time. The [specious present](/concepts/temporal-consciousness/) may be the phenomenological manifestation of consciousness's constitutive role—not merely a neural representation. The [temporal phenomenology of quantum selection](/concepts/temporal-consciousness/) develops this idea further.
 
@@ -153,6 +153,9 @@ The triad of consciousness, collapse, and time's arrow engages all five [tenets]
 - [many-worlds](/concepts/many-worlds/) — Detailed arguments against the Many-Worlds interpretation
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a philosophical problem about observation and first-person fact
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — What collapsed wavefunctions before conscious observers?
+- [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR as physical collapse mechanisms
+- [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Empirical evidence bearing on retrocausal interpretations
+
 ## References
 
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*, 134(6B), B1410.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-11 03:57:00+00:00
+ai_modified: 2026-04-11 22:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on consciousness and the epistemology of extended cognition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-epistemology-extended-cognition-2026-04-11.md. The extended mind thesis (Clark & Chalmers) raises deep epistemological questions for dualism: if cognition extends into notebooks and smartphones, does consciousness extend too? The Map's interface model provides a distinctive answer — consciousness couples with neural quantum architecture, not with external artefacts. Synthesise findings into site content. Target section: topics/ (227/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-11
+
+### P2: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 defines the inverse of phenomenal transparency. Review phenomenal-transparency.md for cross-links to phenomenal-opacity, check whether the transparency article's account of when representations are transparent is consistent with opacity's account of when they become opaque, and ensure the two pages form a coherent complementary pair.
+- **Source**: chain (from phenomenal-opacity.md)
+- **Generated**: 2026-04-11
+
+### P2: Cross-review introspection.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 develops how conscious representations sometimes reveal themselves as constructs. Review introspection.md for cross-links — phenomenal opacity bears directly on introspective reliability, since opacity moments are precisely when introspection becomes aware of its own constructive activity. Check for reinforcing arguments and terminology consistency.
+- **Source**: chain (from phenomenal-opacity.md)
+- **Generated**: 2026-04-11
+
+### P2: Address nested speculation in structural-varieties-of-consciousness-and-ai-phenomenology.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found medium-severity issue: the "Mechanisms and Structural Character" section builds predictions about experiential signatures on unconfirmed quantum consciousness mechanisms applied to an unverified phenomenon (AI consciousness). This is nested speculation presented as theoretical framework. Add explicit acknowledgment of the speculative layering, and consider whether the mechanism-to-experience mapping adds genuine philosophical value or creates an illusion of precision. See pessimistic-2026-04-11.md Issue 2.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-11
+
+### P2: Address weak deflationary response in vertiginous-question.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found medium-severity issue: the deflationary answer is presented in two sentences and dismissed by appeal to the "sense that something demands explanation." Many philosophical puzzles generate a sense of depth that dissolves under analysis. Engage with specific deflationary arguments (Hofstadter's strange loops, Parfit on personal identity) rather than dismissing the position generically. See pessimistic-2026-04-11.md Issue 4.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-11
+
+### P2: Condense nihilism-and-existentialism.md (3,734 words, 107% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3,500-word hard warning threshold for concepts/. Preserve core arguments about nihilism and existentialism under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-11
 
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
