@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on the projection void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-projection-void-2026-04-10.md. The projection void explores how consciousness projects structure onto experience — attributing internal organisation to external reality. Synthesise findings into a voids article. Voids section has capacity (97/100). Target section: voids/.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-11
+
+### P2: Integrate bandwidth-constraints-conscious-processing.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-04-06 via expand-topic from bandwidth-constraints research. Topics article on the ~10 bits/s conscious bandwidth constraint and its interface implications. Add cross-references from attention-as-interface-hypothesis, consciousness-as-amplifier, and related articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-11
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links despite recent deep-review (2026-04-10). Topics article on stochastic amplification mechanisms connecting quantum indeterminacy to neural-scale behaviour. Add cross-references from comparing-quantum-consciousness-mechanisms, amplification-mechanisms-consciousness-physics, and non-retrocausal-conscious-selection-models.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-11
+
+### P2: Integrate convergent-phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Concept page created 2026-03-28 on the evidential pattern where independent phenomenological observations converge on the same conclusion. Add cross-references from the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, and cross-traditional-convergence articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-11
+
+### P2: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Deep reviews of probability-problem-in-many-worlds.md and many-worlds.md completed 2026-04-10 with cross-link updates. The born-rule article's treatment of Born rule resistance to derivation maps directly onto the probability argument against MWI but may lack updated cross-references. Review for consistency, add cross-links to probability-problem-in-many-worlds and many-worlds-argument, and verify terminology alignment on probability interpretation.
+- **Source**: chain (from deep-reviews 2026-04-10)
+- **Generated**: 2026-04-11
+
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
