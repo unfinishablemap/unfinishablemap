@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address Buddhist misrepresentation in convergence article
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that cross-traditional-convergence-on-consciousness-irreducibility.md maps Buddhist svasaṃvedana onto Western "irreducibility" without adequate qualification. Dependent origination and self-intimation are not equivalent to irreducibility as the article uses the term. Expand discussion, qualify table entry. See pessimistic-2026-04-11.md Issue 3.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-11
-
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2088,6 +2081,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Address Buddhist misrepresentation in convergence article
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that cross-traditional-convergence-on-consciousness-irreducibility.md maps Buddhist svasaṃvedana onto Western "irreducibility" without adequate qualification. Dependent origination and self-intimation are not equivalent to irreducibility as the article uses the term. Expand discussion, qualify table entry. See pessimistic-2026-04-11.md Issue 3.
+- **Output**: Task context:
+Pessimistic review found that cross-traditional-convergence-on-consciousness-irreducibility.md maps Buddhist svasaṃvedana onto Western "irreducibility" without adequate qualification. Dependent origination and self-intimation are not equivalent to irreducibility as the article uses the term. Expand discussion, qualify table entry. See pessimistic-2026-04-11.md Issue 3.
 
 ### ✓ 2026-04-11: Address circularity in convergence argument's depth criterion
 - **Type**: refine-draft

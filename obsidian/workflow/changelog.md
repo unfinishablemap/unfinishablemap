@@ -5,6 +5,13 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-11 11:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[cross-traditional-convergence-on-consciousness-irreducibility]]
+- **Changes**: Expanded Buddhism discussion to distinguish svasaṃvedana (self-intimation) from Western irreducibility; explained dependent origination and denial of svabhāva; added Candrakīrti's Mādhyamaka rejection; changed table entry from "Yes" to "Qualified*" with footnote; adjusted summary paragraph
+- **Trigger**: pessimistic-2026-04-11.md Issue 3
+- **Published**: yes
+
 ## 2026-04-11 10:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[modal-structure-of-phenomenal-properties]]
