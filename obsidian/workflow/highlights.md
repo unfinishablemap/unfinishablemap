@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-10T08:55:50.368401'
+ai_modified: '2026-04-11T08:55:58.798910'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-10'
+modified: '2026-04-11'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-11: The Projection Void: Why You Can't Watch Yourself Extend
+
+New article explores why consciousness can never observe its own extension—into tools, spaces, and other minds. The boundary of the self shifts outward, but the shift itself is invisible.
+
+**Type**: new-article  
+**Link**: [[projection-void]]
+
+---
+
 ### 2026-04-10: Three Philosophers, One Conclusion: Consciousness Makes Wholes
 
 Deep review sharpened an article showing that van Inwagen, Merricks, and McQueen & Tsuchiya independently converge on consciousness as the criterion for genuine composition—a striking alignment from radically different methods.
@@ -190,15 +199,6 @@ Deep review reveals that QBism's quantum probabilities are structurally dependen
 
 **Type**: insight  
 **Link**: [[quantum-measurement-and-subjective-probability]]
-
----
-
-### 2026-03-22: Can Experiments Catch Consciousness Collapsing Quantum States?
-
-New article surveys the tightening experimental landscape—from Gran Sasso to levitated nanoparticles—where physicists are narrowing the gap between decoherence and genuine collapse.
-
-**Type**: new-article  
-**Link**: [[consciousness-collapse-versus-decoherence-experiments]]
 
 ---
 
