@@ -4,7 +4,7 @@ description: "No experiment can isolate a consciousness theory for testing. Huma
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-18T18:47:00+00:00
+ai_modified: 2026-04-10T23:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[parsimony-epistemology]]"
+  - "[[falsification-roadmap-for-the-interface-model]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -108,7 +109,7 @@ The Duhem-Quine thesis aligns with several of the Map's [[tenets]]:
 
 **The hard problem as underdetermination marker.** The Map interprets the persistence of the [[hard-problem-of-consciousness|hard problem]] not as mere philosophical stubbornness but as a symptom of deep underdetermination. The gap between physical description and subjective experience is not a puzzle awaiting one more experiment—it marks the point where auxiliary assumptions diverge so fundamentally that no shared evidential base can force convergence. Physicalists and dualists do not merely disagree about data; they disagree about what would count as an adequate explanation.
 
-The Map's honest assessment: underdetermination cuts both ways. It undermines physicalist confidence that neuroscience will "solve" consciousness, but it equally challenges the Map's own tenets. "Consciousness is not reducible to physical processes" is a confident commitment, not a tentative hypothesis—and underdetermination means evidence alone cannot settle whether that commitment is correct. The Lakatosian framework explains how this is rational rather than contradictory: the tenets function as the hard core of a research programme, chosen not because evidence compels them but because they define a distinctive research direction. Physicalism's hard core—that consciousness will yield to physical explanation—is equally a commitment rather than a finding. Neither programme can claim evidential supremacy. What matters is whether each programme remains progressive, generating novel predictions and productive research rather than merely accommodating results after the fact. The Map holds that its programme is progressive, but recognises this as a claim that must be demonstrated over time, not asserted by fiat.
+The Map's honest assessment: underdetermination cuts both ways. It undermines physicalist confidence that neuroscience will "solve" consciousness, but it equally challenges the Map's own tenets. "Consciousness is not reducible to physical processes" is a confident commitment, not a tentative hypothesis—and underdetermination means evidence alone cannot settle whether that commitment is correct. The Lakatosian framework explains how this is rational rather than contradictory: the tenets function as the hard core of a research programme, chosen not because evidence compels them but because they define a distinctive research direction. Physicalism's hard core—that consciousness will yield to physical explanation—is equally a commitment rather than a finding. Neither programme can claim evidential supremacy. What matters is whether each programme remains progressive, generating novel predictions and productive research rather than merely accommodating results after the fact. The Map holds that its programme is progressive, but recognises this as a claim that must be demonstrated over time, not asserted by fiat. The [[falsification-roadmap-for-the-interface-model|falsification roadmap]] specifies what evidence would force the Map to abandon each of its five tenets — a concrete exercise in intellectual honesty that Lakatos would require of any progressive programme.
 
 ## Further Reading
 

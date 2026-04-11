@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-31T19:38:00+00:00
+ai_modified: 2026-04-10T23:56:00+00:00
 last_deep_review: 2026-03-31T19:38:00+00:00
 draft: false
 topics:
@@ -34,6 +34,7 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
   - "[[quantum-darwinism-and-consciousness]]"
   - "[[post-decoherence-selection-programme]]"
+  - "[[falsification-roadmap-for-the-interface-model]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -140,7 +141,7 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 **The falsifiability gap.** No mechanism currently generates predictions cleanly distinguishing it from classical neuroscience. Orch OR's shrinking parameter space is genuinely falsifiable; Fisher's lithium isotope and Posner predictions come closest to unique tests. The [[testing-consciousness-collapse|experimental landscape]] is narrowing, and [[testing-consciousness-collapse|specific divergent predictions]] between consciousness-collapse and decoherence are now catalogued — though the consciousness-specific predictions remain untested. Emerging NV-centre diamond quantum sensors may provide the first direct in vivo measurements of neural quantum coherence.
 
-**No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from multiple proposals.
+**No single mechanism currently addresses all criteria.** Each illuminates different aspects: Stapp explains effort phenomenology; Orch OR connects consciousness to spacetime; Fisher demonstrates biological quantum persistence; CSL hybrids solve the prebiotic problem. The full picture may require elements from multiple proposals. The [[falsification-roadmap-for-the-interface-model|falsification roadmap]] maps these experimental prospects onto the Map's five tenets, specifying what evidence would require abandoning each commitment.
 
 ## Relation to Site Perspective
 

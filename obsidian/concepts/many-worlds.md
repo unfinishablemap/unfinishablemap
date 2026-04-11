@@ -4,7 +4,7 @@ description: "Why the Map rejects MWI: it raises unanswerable questions about in
 created: 2026-01-19
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-04-10T20:56:00+00:00
+ai_modified: 2026-04-10T23:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[probability-objections-many-worlds]]"
   - "[[many-worlds-argument]]"
+  - "[[falsification-roadmap-for-the-interface-model]]"
   - "[[tenets]]"
 ai_contribution: 100
 author: null
@@ -144,7 +145,7 @@ The Map's rejection of MWI is principled but not dogmatic. Conditions that would
 
 4. **Empirical tests favoring MWI.** If experiments produced results uniquely predicted by MWI, empirical pressure would mount.
 
-None of these conditions currently obtain. The rejection of MWI remains well-motivated.
+None of these conditions currently obtain. The rejection of MWI remains well-motivated. For a systematic treatment of falsification conditions across all five tenets, see [[falsification-roadmap-for-the-interface-model|the falsification roadmap]].
 
 ## Relation to Site Perspective
 

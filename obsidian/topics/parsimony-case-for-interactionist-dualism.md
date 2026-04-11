@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-05T15:32:00+00:00
+ai_modified: 2026-04-10T23:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[parsimony-case-interactionist-dualism-2026-03-24]]"
   - "[[limits-of-parsimony-consciousness-2026-03-20]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
+  - "[[falsification-roadmap-for-the-interface-model]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -122,7 +123,7 @@ The Map's fifth tenet — [[tenets#^occams-limits|Occam's Razor Has Limits]] —
 
 This matters because parsimony is the psychological barrier most often cited by those who find the [[hard-problem-of-consciousness|hard problem]] compelling but resist [[dualism]]. The defensive case — parsimony does not apply here — removes a bad reason for dismissing dualism. The positive case goes further: it suggests that those who value simplicity should *prefer* interactionist dualism. The same principle invoked to reject dualism, when applied honestly across all dimensions, points toward it.
 
-The Map speculates that the standard parsimony argument persists not because of its philosophical strength — its own advocates have abandoned or qualified it — but because it provides a convenient shorthand for a deeper commitment to naturalism. Engaging with that deeper commitment requires different arguments, ones the Map develops elsewhere. But the parsimony objection itself, the Map concludes, is not merely neutralised. It is reversed.
+The Map speculates that the standard parsimony argument persists not because of its philosophical strength — its own advocates have abandoned or qualified it — but because it provides a convenient shorthand for a deeper commitment to naturalism. The [[falsification-roadmap-for-the-interface-model|falsification roadmap]] addresses the related concern that the Map's framework is unfalsifiable: Tenet 5 itself is an epistemological thesis rather than a scientific claim, but the other tenets generate concrete falsification conditions. Engaging with that deeper commitment requires different arguments, ones the Map develops elsewhere. But the parsimony objection itself, the Map concludes, is not merely neutralised. It is reversed.
 
 ## Further Reading
 

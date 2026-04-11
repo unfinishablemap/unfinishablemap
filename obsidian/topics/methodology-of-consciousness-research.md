@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-30T09:44:00+00:00
+ai_modified: 2026-04-10T23:56:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -42,6 +42,7 @@ related_articles:
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
+  - "[[falsification-roadmap-for-the-interface-model]]"
   - "[[the-subject-object-distinction-as-philosophical-discovery]]"
 ai_contribution: 100
 author:
@@ -162,6 +163,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [[philosophy-of-science-under-dualism]] — What scientific practice looks like under dualist commitments
 - [[consciousness-defeats-explanation]] — Why standard theory-choice criteria malfunction for consciousness
 - [[consciousness-and-the-structure-of-scientific-revolutions]] — Kuhn's framework applied to consciousness studies
+- [[falsification-roadmap-for-the-interface-model]] — Tenet-by-tenet falsification conditions for the Map's framework
 - [[cognitive-science-of-dualism]] — The methodological circle in cognitive science's consciousness research
 - [[consciousness-and-the-problem-of-measurement-standards]] — Why the measurement triad breaks down for phenomenal quantities
 - [[phenomenology-of-creative-insight]] — The irreducibly phenomenal character of scientific practice itself
