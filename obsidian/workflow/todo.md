@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for phenomenal opacity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Gap analysis: the concept of phenomenal opacity (consciousness's inability to access its own mechanisms) is referenced across self-opacity, projection-void, expertise-occlusion, the-transparency-void, and necessary-opacity but lacks a dedicated concept page that defines it precisely and distinguishes it from mere introspective limits. Would serve as a hub connecting the Map's growing "opacity programme" across voids and topics. Target section: concepts/ (221/230, 9 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-11
-
 ### P2: Research consciousness and the epistemology of extended cognition
 - **Type**: research-topic
 - **Status**: pending
@@ -2102,6 +2095,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Create concept page for phenomenal opacity
+- **Type**: expand-topic
+- **Notes**: Gap analysis: the concept of phenomenal opacity (consciousness's inability to access its own mechanisms) is referenced across self-opacity, projection-void, expertise-occlusion, the-transparency-void, and necessary-opacity but lacks a dedicated concept page that defines it precisely and distinguishes it from mere introspective limits. Would serve as a hub connecting the Map's growing "opacity programme" across voids and topics. Target section: concepts/ (221/230, 9 slots remaining).
+- **Output**: Create concept page for phenomenal opacity
 
 ### ✓ 2026-04-11: Deep review projection-void.md
 - **Type**: deep-review

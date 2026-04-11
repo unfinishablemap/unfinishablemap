@@ -5,6 +5,13 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-11 19:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Opacity
+- **Output**: [[concepts/phenomenal-opacity]]
+- **Word count**: 1366
+- **Based on research**: No (general knowledge; extensive existing coverage in phenomenal-transparency, self-opacity, necessary-opacity informed the article)
+
 ## 2026-04-11 18:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/projection-void]]
