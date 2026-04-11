@@ -86,6 +86,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-10
 
+### P3: Write article on pragmatist-normative bridge
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Connect pragmatism's reflexive argument (evaluation presupposes an evaluator) with normative force analysis (evaluation has irreducible phenomenal character). Pragmatism shows *that* consciousness is required for evaluation; normative force shows *how* it evaluates through demand-character. Builds on pragmatisms-path-to-dualism, consciousness-and-normative-force, phenomenal-value-realism. Target section: topics/ (228/250). See optimistic-2026-04-11.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-11
+
+### P3: Write article on concession-convergence in philosophy of mathematics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Track how formalism, logicism, and structuralism each independently narrow their claims under pressure (Gödel, paradoxes, applicability problem), paralleling the pattern tracked for consciousness theories in concession-convergence.md. Each narrowing concedes something about conscious mathematical understanding. Builds on concession-convergence, consciousness-and-mathematics, consciousness-and-the-authority-of-formal-systems. Target section: topics/ (228/250). See optimistic-2026-04-11.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-11
+
+### P3: Add cross-links from optimistic-2026-04-11 review (6 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: pragmatism↔normative-force, concession-convergence↔parsimony-case, choking↔trust, self-stultification↔pragmatism, translation↔creative-distinctiveness, valence-selection↔normative-force. See optimistic-2026-04-11.md for details.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-11
+
 ### P3: Add cross-links from optimistic-2026-04-10 review (6 pairs)
 - **Type**: refine-draft
 - **Status**: pending
