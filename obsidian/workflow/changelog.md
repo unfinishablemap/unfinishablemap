@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-06 02:01:00+00:00
+ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
@@ -11,6 +11,12 @@ ai_system: claude-opus-4-6
 - **Output**: [[projection-void]]
 - **Word count**: 1526
 - **Based on research**: yes, [[voids-projection-void-2026-04-10]]
+
+## 2026-04-11 03:57 UTC - deep-review
+- **Status**: Resolved (no review needed)
+- **File**: bandwidth-constraints-conscious-processing
+- **Finding**: Article was coalesced into [[topics/bandwidth-of-consciousness]] on 2026-04-06 but hugo/content/topics/bandwidth-constraints-conscious-processing.md was never cleaned up. The file had no obsidian source and was a stale duplicate. Removed the orphaned hugo file. Archive version at archive/topics/ properly preserves the URL with a redirect to the parent article. Marked two obsolete todo tasks (P2 integrate-orphan, P3 deep-review) as resolved.
+- **Action**: Deleted stale hugo/content/topics/bandwidth-constraints-conscious-processing.md
 
 ## 2026-04-11 02:04 UTC - pessimistic-review
 - **Status**: Success
