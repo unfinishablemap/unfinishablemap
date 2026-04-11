@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the projection void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-projection-void-2026-04-10.md. The projection void explores how consciousness projects structure onto experience — attributing internal organisation to external reality. Synthesise findings into a voids article. Voids section has capacity (97/100). Target section: voids/.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-11
-
 ### P2: Integrate bandwidth-constraints-conscious-processing.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2109,6 +2102,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Write article on the projection void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-projection-void-2026-04-10.md. The projection void explores how consciousness projects structure onto experience — attributing internal organisation to external reality. Synthesise findings into a voids article. Voids section has capacity (97/100). Target section: voids/.
+- **Output**: the projection void
 
 ### ✓ 2026-04-11: Integrate consciousness-and-the-metaphysics-of-composition.md into site navigation
 - **Type**: integrate-orphan
