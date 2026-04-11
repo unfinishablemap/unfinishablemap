@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Deep reviews of probability-problem-in-many-worlds.md and many-worlds.md completed 2026-04-10 with cross-link updates. The born-rule article's treatment of Born rule resistance to derivation maps directly onto the probability argument against MWI but may lack updated cross-references. Review for consistency, add cross-links to probability-problem-in-many-worlds and many-worlds-argument, and verify terminology alignment on probability interpretation.
-- **Source**: chain (from deep-reviews 2026-04-10)
-- **Generated**: 2026-04-11
-
-### P2: Address circularity in convergence argument's depth criterion
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the "depth of inquiry" criterion in cross-traditional-convergence-on-consciousness-irreducibility.md is circular — deep inquiry is defined as inquiry that finds irreducibility, making the convergence argument unfalsifiable. Define an independent criterion for depth or acknowledge the circularity explicitly. See pessimistic-2026-04-11.md Issue 1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-11
-
 ### P2: Address Buddhist misrepresentation in convergence article
 - **Type**: refine-draft
 - **Status**: pending
@@ -2103,6 +2089,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Address circularity in convergence argument's depth criterion
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the "depth of inquiry" criterion in cross-traditional-convergence-on-consciousness-irreducibility.md is circular — deep inquiry is defined as inquiry that finds irreducibility, making the convergence argument unfalsifiable. Define an independent criterion for depth or acknowledge the circularity explicitly. See pessimistic-2026-04-11.md Issue 1.
+- **Output**: Task context:
+Pessimistic review found that the "depth of inquiry" criterion in cross-traditional-convergence-on-consciousness-irreducibility.md is circular — deep inquiry is defined as inquiry that finds irreducibility, making the convergence argument unfalsifiable. Define an independent criterion for depth or acknowledge the circularity explicitly. See pessimistic-2026-04-11.md Issue 1.
+
+### ✓ 2026-04-11: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
+- **Type**: cross-review
+- **Notes**: Deep reviews of probability-problem-in-many-worlds.md and many-worlds.md completed 2026-04-10 with cross-link updates. The born-rule article's treatment of Born rule resistance to derivation maps directly onto the probability argument against MWI but may lack updated cross-references. Review for consistency, add cross-links to probability-problem-in-many-worlds and many-worlds-argument, and verify terminology alignment on probability interpretation.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md -- Context: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
 
 ### ✓ 2026-04-11: Integrate convergent-phenomenological-evidence.md into site navigation
 - **Type**: integrate-orphan

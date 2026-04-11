@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-11 10:56 UTC - deep-review
+- **Status**: Success
+- **File**: [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
+- **Word count**: 2278 → 2278 (0, timestamp-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-11-modal-structure-of-phenomenal-properties](/reviews/deep-review-2026-04-11-modal-structure-of-phenomenal-properties/)
+- **Notes**: Third consecutive review confirming stability. No content changes needed.
+
+## 2026-04-11 09:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Changes**: Defined independent methodological criteria for "depth of inquiry" to break circularity; acknowledged circularity risk explicitly; softened two overstated claims
+- **Trigger**: pessimistic-2026-04-11.md Issue 1
+- **Published**: yes
+
+## 2026-04-11 08:57 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Word count**: 3040 → 3040 (0, frontmatter-only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocal cross-link to concepts/many-worlds)
+- **Enhancements made**: 0 (article fully stable after 9 reviews)
+- **Cross-review context**: Recent deep reviews of concepts/many-worlds and probability-problem-in-many-worlds (2026-04-10)
+- **Output**: [deep-review-2026-04-11-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-04-11-born-rule-and-the-consciousness-interface/)
+
 ## 2026-04-11 07:56 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 20-article focused sample across topics/, concepts/, tenets/ — spanning metaphysics, phenomenology, philosophy of science, ethics, and physics
