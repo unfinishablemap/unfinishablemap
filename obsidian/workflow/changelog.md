@@ -5,6 +5,13 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-11 23:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Epistemology of Extended Cognition
+- **Output**: [[topics/consciousness-epistemology-extended-cognition]]
+- **Word count**: 1741
+- **Based on research**: yes, [[consciousness-epistemology-extended-cognition-2026-04-11]]
+
 ## 2026-04-11 23:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/collapse-and-time]]

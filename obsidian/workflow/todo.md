@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and the epistemology of extended cognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-epistemology-extended-cognition-2026-04-11.md. The extended mind thesis (Clark & Chalmers) raises deep epistemological questions for dualism: if cognition extends into notebooks and smartphones, does consciousness extend too? The Map's interface model provides a distinctive answer — consciousness couples with neural quantum architecture, not with external artefacts. Synthesise findings into site content. Target section: topics/ (227/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-11
-
 ### P2: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2123,6 +2116,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Write article on consciousness and the epistemology of extended cognition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-epistemology-extended-cognition-2026-04-11.md. The extended mind thesis (Clark & Chalmers) raises deep epistemological questions for dualism: if cognition extends into notebooks and smartphones, does consciousness extend too? The Map's interface model provides a distinctive answer — consciousness couples with neural quantum architecture, not with external artefacts. Synthesise findings into site content. Target section: topics/ (227/230).
+- **Output**: consciousness and the epistemology of extended cognition
 
 ### ✓ 2026-04-11: Update references to coalesced terminal-lucidity concept
 - **Type**: cross-review
