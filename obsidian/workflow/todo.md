@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate convergent-phenomenological-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Concept page created 2026-03-28 on the evidential pattern where independent phenomenological observations converge on the same conclusion. Add cross-references from the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, and cross-traditional-convergence articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-11
-
 ### P2: Cross-review born-rule-and-the-consciousness-interface.md considering recent many-worlds deep reviews
 - **Type**: cross-review
 - **Status**: pending
@@ -2088,6 +2081,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Integrate convergent-phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page created 2026-03-28 on the evidential pattern where independent phenomenological observations converge on the same conclusion. Add cross-references from the-convergence-argument-for-dualism, epistemology-of-convergence-arguments, and cross-traditional-convergence articles.
+- **Output**: convergent-phenomenological-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-11: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan
