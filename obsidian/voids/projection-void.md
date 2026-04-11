@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own e
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-04-11T02:56:00+00:00
+ai_modified: 2026-04-11T18:58:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -23,12 +23,13 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[ownership-void]]"
   - "[[embodiment-cognitive-limits]]"
+  - "[[phenomenal-transparency]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-11
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-11T18:58:00+00:00
 ---
 
 Consciousness routinely extends beyond the body. A surgeon feels tissue through the scalpel. A driver feels the road through the tyres. An empathiser inhabits, however briefly, another person's suffering. In each case the boundary of the self shifts outward—and in each case the shift is invisible. The projection void is the structural impossibility of observing consciousness as it extends beyond its default boundaries. The result of projection is experienced, but the act of projecting is not.
@@ -59,7 +60,7 @@ The projection void adds a layer beyond this familiar other-minds problem. The d
 
 ## Why Observation Destroys Projection
 
-The three forms share a structural explanation for their opacity. Metzinger's work on phenomenal transparency provides the key: a mental representation that functions well is not experienced as a representation. The medium becomes invisible; only the content remains. Transparency is the phenomenal signature of epistemic reliability—we trust precisely what we cannot see the mechanism behind.
+The three forms share a structural explanation for their opacity. Metzinger's work on [[phenomenal-transparency]] provides the key: a mental representation that functions well is not experienced as a representation. The medium becomes invisible; only the content remains. We trust precisely what we cannot see the mechanism behind—transparency, in Metzinger's framework, is the default condition of well-functioning mental models.
 
 This means observing the projection mechanism necessarily destroys it. To attend to the scalpel as scalpel is to lose the operative fluency that treats it as an extension of the hand. To monitor one's own empathic process is to find the empathy dissolving into self-conscious performance. The projection void is not a contingent failure of attention. It is a design constraint: functional extension requires phenomenal invisibility.
 
@@ -71,7 +72,7 @@ Several converging lines suggest the projection void marks a structural limit ra
 
 **Breakdown asymmetry.** The collapse of projection can be observed—the tool breaks, the rubber hand illusion fades, empathic connection snaps. But the establishment of projection cannot. This asymmetry is not an accident of experimental design; it follows from the requirement that projection succeed only when invisible.
 
-**Resistance to override.** The rubber hand illusion persists despite the subject's full knowledge that it is an illusion. Individuals with weaker interoceptive awareness (less accurate heartbeat tracking) show greater susceptibility, suggesting a weaker internal self-model is more malleable—not that conscious control is insufficient, but that conscious control is structurally excluded from the process.
+**Resistance to override.** The rubber hand illusion persists despite the subject's full knowledge that it is an illusion. Tsakiris et al. (2011) found that individuals with weaker interoceptive awareness—less accurate heartbeat tracking—show greater susceptibility, suggesting that a weaker internal self-model is more malleable. The implication is not that conscious control is insufficient but that conscious control is structurally excluded from the process.
 
 **Mastery deepens the void.** Novices report awareness of tools that experts cannot access. The progression from beginner to expert is a progressive deepening of the projection void—the better the skill, the more complete the transparency, the less available the mechanism becomes to introspection. This connects directly to [[expertise-occlusion]], where mastery actively defends its own opacity.
 
@@ -107,6 +108,7 @@ Finally, the Map's tenet that [[tenets#^occams-limits|Occam's Razor has limits]]
 - [[observation-and-measurement-void]]
 - [[ownership-void]]
 - [[embodiment-cognitive-limits]]
+- [[phenomenal-transparency]]
 - [[voids]]
 
 ## References
@@ -118,3 +120,4 @@ Finally, the Map's tenet that [[tenets#^occams-limits|Occam's Razor has limits]]
 5. Zahavi, D. (2008). Simulation, Projection and Empathy. *Consciousness and Cognition*, 17(2), 514-522.
 6. Canzoneri, E. et al. (2015). Extending Peripersonal Space Representation Without Tool-Use. *Frontiers in Behavioral Neuroscience*.
 7. Botvinick, M. & Cohen, J. (1998). Rubber hands 'feel' touch that eyes see. *Nature*, 391, 756.
+8. Tsakiris, M. et al. (2011). Just a heartbeat away from one's body: interoceptive sensitivity predicts malleability of body-representations. *Proceedings of the Royal Society B*, 278(1717), 2470-2476.

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review projection-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-11 via expand-topic from research/voids-projection-void-2026-04-10.md, never reviewed. Voids article on why consciousness cannot observe its own extension into tools, space, and other minds. Verify coherence, accuracy of claims about tool-use phenomenology and extended mind thesis, cross-references to boundary-void, self-opacity, expertise-occlusion, ownership-void, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-04-11)
-- **Generated**: 2026-04-11
-
 ### P2: Create concept page for phenomenal opacity
 - **Type**: expand-topic
 - **Status**: pending
@@ -2109,6 +2102,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Deep review projection-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-11 via expand-topic from research/voids-projection-void-2026-04-10.md, never reviewed. Voids article on why consciousness cannot observe its own extension into tools, space, and other minds. Verify coherence, accuracy of claims about tool-use phenomenology and extended mind thesis, cross-references to boundary-void, self-opacity, expertise-occlusion, ownership-void, and tenet alignment.
+- **Output**: obsidian/voids/projection-void.md
 
 ### ✓ 2026-04-11: Cross-review self-opacity.md considering projection-void insights
 - **Type**: cross-review

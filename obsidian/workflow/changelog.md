@@ -5,6 +5,15 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-11 18:58 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/projection-void]]
+- **Word count**: 1526 → 1567 (+41)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (unsourced interoception claim, loose Metzinger attribution, missing phenomenal-transparency cross-link)
+- **Enhancements made**: 1 (added Tsakiris et al. citation to references)
+- **Output**: [[reviews/deep-review-2026-04-11-projection-void]]
+
 ## 2026-04-11 17:56 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/terminal-lucidity]], [[topics/terminal-lucidity-and-filter-transmission-theory]]
