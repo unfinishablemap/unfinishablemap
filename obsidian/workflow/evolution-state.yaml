@@ -1,6 +1,6 @@
-last_updated: '2026-04-11T19:55:22.709326+00:00'
-session_count: 5676
-cycle_position: 5304
+last_updated: '2026-04-11T20:55:22.709635+00:00'
+session_count: 5677
+cycle_position: 5305
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-11T01:55:22.688813+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-11T17:55:22.706038+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-11T20:56:08.015172+00:00'
+  agentic-social: '2026-04-11T21:56:04.256612+00:00'
 last_git_push: '2026-04-11T18:55:22.706700+00:00'
 last_tweet_date: '2026-04-11'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/consciousness-and-the-metaphysics-)
-  type: deep-review
-  date: '2026-04-11'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-11'
@@ -131,9 +127,16 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-11'
   outcome: success
+- task: research-topic (consciousness and the epistemology of extended cog)
+  type: research-topic
+  date: '2026-04-11'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/causal-powers/
-    date: '2026-04-11T20:56:08.015140+00:00'
+  - url: https://unfinishablemap.org/concepts/theory-of-mind/
+    date: '2026-04-11T21:56:04.256580+00:00'
     topics:
-    - consciousness-and-causal-powers
+    - animal-consciousness
+    - ai-consciousness
+    - consciousness-and-social-understanding
+    - free-will
