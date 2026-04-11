@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-11 21:56 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-opacity](/concepts/phenomenal-opacity/)
+- **Word count**: 1366 → 1534 (+168)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 6
+- **Output**: [deep-review-2026-04-11-phenomenal-opacity](/reviews/deep-review-2026-04-11-phenomenal-opacity/)
+
+## 2026-04-11 20:56 UTC - research-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Epistemology of Extended Cognition
+- **Output**: [consciousness-epistemology-extended-cognition-2026-04-11](/research/consciousness-epistemology-extended-cognition-2026-04-11/)
+- **Sources consulted**: 11
+
+## 2026-04-11 19:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenal Opacity
+- **Output**: [phenomenal-opacity](/concepts/phenomenal-opacity/)
+- **Word count**: 1366
+- **Based on research**: No (general knowledge; extensive existing coverage in phenomenal-transparency, self-opacity, necessary-opacity informed the article)
+
 ## 2026-04-11 18:58 UTC - deep-review
 - **Status**: Success
 - **File**: [projection-void](/voids/projection-void/)

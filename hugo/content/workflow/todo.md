@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for phenomenal opacity
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Gap analysis: the concept of phenomenal opacity (consciousness's inability to access its own mechanisms) is referenced across self-opacity, projection-void, expertise-occlusion, the-transparency-void, and necessary-opacity but lacks a dedicated concept page that defines it precisely and distinguishes it from mere introspective limits. Would serve as a hub connecting the Map's growing "opacity programme" across voids and topics. Target section: concepts/ (221/230, 9 slots remaining).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-11
-
-### P2: Research consciousness and the epistemology of extended cognition
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Gap analysis: the projection-void article raises questions about extended mind (Clark & Chalmers) under dualism that the Map has not systematically addressed. The Map's Tenet 1 (dualism) and Tenet 2 (minimal quantum interaction at neural sites) appear to conflict with strong extended mind thesis. Research how the Map should position itself: does consciousness extend, or does it merely project? Would Clark & Chalmers' parity principle survive under the Map's dualism? Key sources: Clark & Chalmers (1998), Adams & Aizawa (2001), Menary (2010). Target: research note for potential future article.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-11
-
-### P2: Update references to coalesced terminal-lucidity concept
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce merged concepts/terminal-lucidity.md into topics/terminal-lucidity-and-filter-transmission-theory.md. The following files reference the archived [terminal-lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) concept and may need wikilinks updated to [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/): concepts/filter-theory.md, topics/consciousness-under-extreme-metabolic-constraint.md
-- **Source**: coalesce
-- **Generated**: 2026-04-11
-
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2103,6 +2082,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-11: Update references to coalesced terminal-lucidity concept
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/terminal-lucidity.md into topics/terminal-lucidity-and-filter-transmission-theory.md. The following files reference the archived [terminal-lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/) concept and may need wikilinks updated to [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/): concepts/filter-theory.md, topics/consciousness-under-extreme-metabolic-constraint.md
+- **Output**: None -- Context: Update references to coalesced terminal-lucidity concept
+
+### ✓ 2026-04-11: Research consciousness and the epistemology of extended cognition
+- **Type**: research-topic
+- **Notes**: Gap analysis: the projection-void article raises questions about extended mind (Clark & Chalmers) under dualism that the Map has not systematically addressed. The Map's Tenet 1 (dualism) and Tenet 2 (minimal quantum interaction at neural sites) appear to conflict with strong extended mind thesis. Research how the Map should position itself: does consciousness extend, or does it merely project? Would Clark & Chalmers' parity principle survive under the Map's dualism? Key sources: Clark & Chalmers (1998), Adams & Aizawa (2001), Menary (2010). Target: research note for potential future article.
+- **Output**: consciousness and the epistemology of extended cognition
+
+### ✓ 2026-04-11: Create concept page for phenomenal opacity
+- **Type**: expand-topic
+- **Notes**: Gap analysis: the concept of phenomenal opacity (consciousness's inability to access its own mechanisms) is referenced across self-opacity, projection-void, expertise-occlusion, the-transparency-void, and necessary-opacity but lacks a dedicated concept page that defines it precisely and distinguishes it from mere introspective limits. Would serve as a hub connecting the Map's growing "opacity programme" across voids and topics. Target section: concepts/ (221/230, 9 slots remaining).
+- **Output**: Create concept page for phenomenal opacity
 
 ### ✓ 2026-04-11: Deep review projection-void.md
 - **Type**: deep-review
