@@ -9,6 +9,22 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-12 14:56 UTC - deep-review
+- **Status**: Success (no changes needed — article stable)
+- **File**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- **Word count**: 2153 → 2153 (no change)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article at stability after 4th review)
+- **Output**: [deep-review-2026-04-12b-phenomenal-transparency](/reviews/deep-review-2026-04-12b-phenomenal-transparency/)
+
+## 2026-04-12 13:56 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: experimental tests distinguishing consciousness-collapse from decoherence
+- **Reason**: Existing article [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) already covers this topic comprehensively, including three-tier prediction hierarchy and all major experiments. Both research notes (experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21, testable-predictions-consciousness-collapse-decoherence-2026-03-29) were already integrated into the existing article during a prior refinement.
+- **Word count**: N/A (no new article created)
+- **Based on research**: yes — [experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21](/research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21/), [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/)
+
 ## 2026-04-12 12:57 UTC - coalesce
 - **Status**: Success
 - **Sources**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)

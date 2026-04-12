@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Directly supports tenets 2 and 3 — identifies empirical signatures that could distinguish consciousness-driven collapse from standard decoherence. Critical for the Map's falsifiability programme. Target section: topics/ (229/230, near cap — may require coalesce first).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-12
-
-### P2: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 via expand-topic. phenomenal-transparency.md is the natural complement — opacity is what transparency lacks. Check for cross-links, consistent terminology, and whether transparency article should reference opacity as a distinct concept rather than treating it implicitly.
-- **Source**: chain (from concepts/phenomenal-opacity.md)
-- **Generated**: 2026-04-12
-
 ### P2: Cross-review introspection.md considering phenomenal-opacity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2138,6 +2124,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 via expand-topic. phenomenal-transparency.md is the natural complement — opacity is what transparency lacks. Check for cross-links, consistent terminology, and whether transparency article should reference opacity as a distinct concept rather than treating it implicitly.
+- **Output**: obsidian/concepts/phenomenal-transparency.md -- Context: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
+
+### ✓ 2026-04-12: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Directly supports tenets 2 and 3 — identifies empirical signatures that could distinguish consciousness-driven collapse from standard decoherence. Critical for the Map's falsifiability programme. Target section: topics/ (229/230, near cap — may require coalesce first).
+- **Output**: experimental tests distinguishing consciousness-collapse from decoherence
 
 ### ✓ 2026-04-12: Write concept page on functional seeming (Frankish)
 - **Type**: expand-topic
