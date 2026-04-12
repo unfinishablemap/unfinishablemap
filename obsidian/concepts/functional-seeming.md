@@ -4,7 +4,7 @@ description: "Keith Frankish's claim that 'seeming conscious' reduces to functio
 created: 2026-04-12
 modified: 2026-04-12
 human_modified:
-ai_modified: 2026-04-12T11:56:00+00:00
+ai_modified: 2026-04-12T15:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-12
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-12T15:56:00+00:00
 ---
 
 Functional seeming is Keith Frankish's proposal that when we say consciousness "seems" phenomenal, the seeming itself is entirely functional—a matter of having the right beliefs, dispositions, and reactions—rather than involving any phenomenal experience. This is the central defensive move of [[illusionism]]: it blocks the otherwise devastating regress objection by denying that an illusion of consciousness requires consciousness.
@@ -44,7 +44,7 @@ Frankish introduces **quasi-phenomenal properties** as the positive account of w
 
 Pereboom and Frankish (2021) develop this through the **distortion thesis**: introspective *access* to mental states is real, but introspective *interpretation* is systematically flawed. The conceptual framework we apply to our own states—a folk theory positing intrinsic phenomenal qualities—generates the illusion. The error is theoretical, not experiential.
 
-This distinction between access and interpretation is crucial to the illusionist programme. It allows Frankish to grant that something real is being introspected while denying that the introspected properties are as they appear. The analogy is to pre-scientific explanations: phlogiston theorists genuinely observed combustion but applied a mistaken framework to explain it.
+This distinction between access and interpretation is crucial to the illusionist programme. It allows Frankish to grant that something real is being introspected while denying that the introspected properties are as they appear. The analogy is to pre-scientific explanations: phlogiston theorists genuinely observed combustion but applied a mistaken framework to explain it. Kammerer (2022) extends this line by addressing the "obviousness" objection—why phenomenal consciousness seems so undeniable—arguing that introspective opacity, not phenomenal access, explains the persistence of the seeming even under intellectual acceptance of illusionism.
 
 ## The Qualia Taxonomy
 
@@ -62,7 +62,7 @@ Frankish accepts that a philosophical zombie—a being physically identical to a
 
 This admission reveals the central tension. If illusionism is correct, the illusionist's *own* philosophical reasoning about consciousness is causally identical to the zombie's. Functional seeming cannot distinguish genuine philosophical insight about consciousness from its empty mechanical echo. The framework that was meant to explain consciousness away cannot tell us whether anyone is conscious—including the illusionist making the argument.
 
-Anti-illusionists read this as a *reductio*: a theory of consciousness that cannot distinguish consciousness from its absence has explained nothing. Frankish reads it as a feature: consciousness *adds* nothing to the functional story, which is precisely the illusionist claim. Whether this counts as explanatory progress or explanatory bankruptcy depends on prior commitments about whether there is something to explain beyond the functional facts.
+Anti-illusionists read this as a *reductio*: a theory of consciousness that cannot distinguish consciousness from its absence has explained nothing. The [[self-stultification-as-master-argument|self-stultification argument]]—standardly aimed at [[concepts/epiphenomenalism|epiphenomenalism]]—applies with equal force here: the illusionist cannot claim their position is informed by careful attention to the character of experience, because on their view experience has no character beyond what functional processes produce. Frankish reads the zombie convergence as a feature: consciousness *adds* nothing to the functional story, which is precisely the illusionist claim. Whether this counts as explanatory progress or explanatory bankruptcy depends on prior commitments about whether there is something to explain beyond the functional facts.
 
 ## The Vantage-Point Problem
 
@@ -80,7 +80,7 @@ This is not the bare regress objection, which Frankish's functional account does
 
 ## Relation to Site Perspective
 
-Functional seeming challenges the Map's [[tenets#^dualism|Dualism]] tenet directly. If seeming reduces to functional dispositions, there is nothing non-physical left to explain—the [[explanatory-gap|explanatory gap]] is an artefact of introspective misrepresentation rather than a genuine ontological boundary.
+Functional seeming challenges the Map's [[tenets#^dualism|Dualism]] tenet directly. If seeming reduces to functional dispositions, there is nothing non-physical left to explain—the [[explanatory-gap|explanatory gap]] is an artefact of introspective misrepresentation rather than a genuine ontological boundary. It equally threatens the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: if conscious experience is exhausted by functional roles, there is no phenomenal agent to exert causal influence on physical processes—the phenomenology of trying, attending, and deciding would be mere appearance with no work left to do.
 
 The Map holds that functional seeming fails because functional roles underdetermine experience. A complete functional description of colour vision specifies which wavelengths are discriminated, what behavioural dispositions result, and how internal states relate causally. It does not specify what redness is like. The [[knowledge-argument|knowledge argument]] makes this concrete: Mary learns something new on seeing red that no functional description could have provided. If functional seeming were the whole story, Mary would learn nothing—she already knew every functional fact.
 
@@ -104,5 +104,4 @@ The Map treats functional seeming as the strongest version of illusionism and en
 2. Frankish, K. (2021). "What is Illusionism?" *Klesis*, 55.
 3. Pereboom, D. & Frankish, K. (2021). "Illusionism about Phenomenal Consciousness: Explaining the Illusion." *Review of Philosophy and Psychology*.
 4. Kammerer, F. (2022). "How Can You Be So Sure? Illusionism and the Obviousness of Phenomenal Consciousness." *Philosophical Studies*.
-5. Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*.
-6. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/
+5. Southgate, A. & Oquatre-six, C. (2026-01-14). Illusionism. *The Unfinishable Map*. https://unfinishablemap.org/concepts/illusionism/

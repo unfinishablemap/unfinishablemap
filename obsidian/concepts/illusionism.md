@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-04-07
 human_modified: null
-ai_modified: 2026-04-07T08:18:00+00:00
+ai_modified: 2026-04-12T15:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ concepts:
   - "[[heterophenomenology]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[self-stultification]]"
+  - "[[functional-seeming]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
 related_articles:
@@ -98,7 +99,7 @@ Even if illusionism relocates the hard problem to a [[meta-problem-of-consciousn
 
 ## The Illusionist Response: Functional Seeming
 
-The strongest illusionist defence—and the one the Map must take most seriously—is Frankish's argument that phenomenal properties are not intrinsic qualities of experience but functional roles. Where dualists hold that the redness of red is an intrinsic property irreducible to any functional description, Frankish (2016, 2021) contends that what we call "phenomenal properties" reduce entirely to *functional seemings*: states defined by their causal role in producing judgments, reports, and reactions—nothing more.
+The strongest illusionist defence—and the one the Map must take most seriously—is Frankish's argument that phenomenal properties are not intrinsic qualities of experience but functional roles. (See [[functional-seeming]] for the concept definition.) Where dualists hold that the redness of red is an intrinsic property irreducible to any functional description, Frankish (2016, 2021) contends that what we call "phenomenal properties" reduce entirely to *functional seemings*: states defined by their causal role in producing judgments, reports, and reactions—nothing more.
 
 This reframing blocks the standard regress objection. When critics argue that an illusion of consciousness requires consciousness, they assume "seeming" is phenomenal. Frankish denies this: "Seeming need not be phenomenal seeming, and there is thus no circularity in claiming that phenomenal properties seem to exist." The crucial epistemological move is the wedge between *representing* oneself as phenomenally conscious and *experiencing* phenomenal consciousness—Frankish argues these come apart entirely. A system can have all the beliefs, dispositions, and reactions that genuine phenomenal consciousness would produce without any phenomenal consciousness existing. His central concept is **quasi-phenomenal properties**: the non-phenomenal, physical properties of inner states that introspection detects and systematically misrepresents as phenomenal. The "redness" you seem to experience is a mischaracterisation of a complex functional-discriminative state—like a computer desktop's icons misrepresenting the underlying binary processes.
 

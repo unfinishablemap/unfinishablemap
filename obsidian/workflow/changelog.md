@@ -5,6 +5,15 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 15:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/functional-seeming]]
+- **Word count**: 1254 → 1359 (+105)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (uncited references, missing tenet, missing cross-link)
+- **Enhancements made**: 5 (Kammerer citation, Bidirectional Interaction tenet, self-stultification link, illusionism cross-link, removed orphaned Strawson ref)
+- **Output**: [[reviews/deep-review-2026-04-12-functional-seeming]]
+
 ## 2026-04-12 14:56 UTC - deep-review
 - **Status**: Success (no changes needed — article stable)
 - **File**: [[concepts/phenomenal-transparency]]
