@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-04-07 09:03:00+00:00
+ai_modified: 2026-04-12 12:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,6 @@ last_deep_review: 2026-04-07 09:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[resolution-bandwidth-interface]]'
 - '[[resolution-void]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[bandwidth-of-consciousness]]'
@@ -102,7 +101,7 @@ The Map speculates that the grain mismatch programme may extend further. The [bi
 ## Further Reading
 
 - [grain-mismatch](/concepts/grain-mismatch/) — The core concept: Sellars' argument and its modern development
-- [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) — The architectural implications of grain mismatch
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The architectural implications of grain mismatch
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — The temporal mismatch in detail
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical basis for the informational mismatch
 - [resolution-void](/voids/resolution-void/) — What grain mismatch means for the limits of self-knowledge

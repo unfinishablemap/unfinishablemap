@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-02 16:38:00+00:00
+ai_modified: 2026-04-12 12:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ last_deep_review: 2026-03-18 19:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[resolution-bandwidth-interface]]'
+- '[[bandwidth-of-consciousness]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[psychophysical-laws]]'
 title: Asymmetric Bandwidth of Consciousness
@@ -95,7 +95,7 @@ The asymmetric bandwidth concept connects to all five tenets. **[Dualism](/tenet
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Full exploration of the bandwidth constraint and its philosophical implications
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether 10 bits/second suffices for complex behaviour
-- [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) — How the resolution void and bandwidth asymmetry unify into interface architecture
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — How the resolution void and bandwidth asymmetry unify into interface architecture
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model that accommodates the asymmetry naturally
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism operating within the outbound channel
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention

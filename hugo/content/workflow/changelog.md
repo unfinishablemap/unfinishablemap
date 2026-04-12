@@ -9,6 +9,21 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-12 12:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **Target**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Archived**: archive/topics/resolution-bandwidth-interface.md
+- **References to review**: 0 (all 6 active content references updated)
+- **Unique content preserved**: Why Coarseness Is Necessary, Resolution-Bandwidth Coupling, robustness analysis of 10-bit figure
+
+## 2026-04-12 11:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Functional seeming (Frankish)
+- **Output**: [functional-seeming](/concepts/functional-seeming/)
+- **Word count**: 1254
+- **Based on research**: yes, [illusionism-functional-seeming-2026-03-28](/research/illusionism-functional-seeming-2026-03-28/)
+
 ## 2026-04-12 11:03 UTC - deep-review
 - **Status**: Success
 - **File**: [parfit-reductionism](/concepts/parfit-reductionism/)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Resolution-Bandwidth Interface](/topics/resolution-bandwidth-interface/)
+**Article**: [The Resolution-Bandwidth Interface](/topics/bandwidth-of-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

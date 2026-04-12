@@ -2609,7 +2609,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-12 01:20 UTC - refine-draft
 - **Status**: Success
-- **File**: [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)
+- **File**: [resolution-bandwidth-interface](/topics/bandwidth-of-consciousness/)
 - **Changes**: Added measurement uncertainty section; softened pilot analogy to illustrative; gave GWT fairer treatment; qualified cross-species and choice-rate claims; decoupled quantum mechanism from bandwidth argument
 - **Published**: yes
 

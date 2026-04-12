@@ -4,7 +4,7 @@ description: "Three independent grain mismatches—spatial, temporal, informatio
 created: 2026-04-07
 modified: 2026-04-07
 human_modified:
-ai_modified: 2026-04-07T09:03:00+00:00
+ai_modified: 2026-04-12T12:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,6 @@ concepts:
   - "[[causal-closure]]"
 related_articles:
   - "[[tenets]]"
-  - "[[resolution-bandwidth-interface]]"
   - "[[resolution-void]]"
   - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[bandwidth-of-consciousness]]"
@@ -99,7 +98,7 @@ The Map speculates that the grain mismatch programme may extend further. The [[p
 ## Further Reading
 
 - [[grain-mismatch]] — The core concept: Sellars' argument and its modern development
-- [[resolution-bandwidth-interface]] — The architectural implications of grain mismatch
+- [[bandwidth-of-consciousness]] — The architectural implications of grain mismatch
 - [[neural-refresh-rates-and-the-smoothness-problem]] — The temporal mismatch in detail
 - [[bandwidth-of-consciousness]] — The empirical basis for the informational mismatch
 - [[resolution-void]] — What grain mismatch means for the limits of self-knowledge

@@ -4,7 +4,7 @@ description: "When consciousness causes physical effects, the specific meaning o
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-03-11T19:05:00+00:00
+ai_modified: 2026-04-12T12:57:00+00:00
 last_deep_review: 2026-03-11T19:05:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[concepts/epiphenomenalism]]"
   - "[[intentionality]]"
-  - "[[resolution-bandwidth-interface]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[qualia]]"
   - "[[bidirectional-interaction]]"
   - "[[causal-closure]]"
@@ -68,7 +68,7 @@ Three features make content-specificity philosophically significant:
 
 **Qualifier sensitivity.** The physical outcome tracks not just the broad category of belief but its specific qualifiers. Believing a pill is a *strong* painkiller produces greater analgesia than believing it is *mild* (Pollo et al., 2001). The granularity of the mapping—where finer distinctions in conscious content produce correspondingly finer distinctions in physiological response—is what would be expected if content were causally operative and what would be remarkable if it were coincidental.
 
-**Bandwidth constraint.** The [[resolution-bandwidth-interface|resolution-bandwidth interface]] adds an architectural dimension. Consciousness operates at roughly ten bits per second—a narrow channel that can make only a few selections per second among prepared alternatives. Content-specificity shows that these few selections are *semantically loaded*: each carries meaning that determines which of the brain's prepared options actualises. The bandwidth constraint limits the *quantity* of conscious intervention; content-specificity determines its *quality*. Together they define a system that exercises sparse but meaningful causal influence—precisely the pattern the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet predicts.
+**Bandwidth constraint.** The [[bandwidth-of-consciousness|resolution-bandwidth interface]] adds an architectural dimension. Consciousness operates at roughly ten bits per second—a narrow channel that can make only a few selections per second among prepared alternatives. Content-specificity shows that these few selections are *semantically loaded*: each carries meaning that determines which of the brain's prepared options actualises. The bandwidth constraint limits the *quantity* of conscious intervention; content-specificity determines its *quality*. Together they define a system that exercises sparse but meaningful causal influence—precisely the pattern the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet predicts.
 
 ## Complications
 
@@ -95,7 +95,7 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 - [[consciousness-and-creative-distinctiveness]] — Content-specificity in creative cognition
 - [[concepts/epiphenomenalism]] — The view content-specificity challenges most directly
 - [[intentionality]] — The aboutness of mental states; phenomenal intentionality theory links content to phenomenal character
-- [[resolution-bandwidth-interface]] — The architectural constraints on conscious selection: sparse bandwidth, semantically loaded content
+- [[bandwidth-of-consciousness]] — The architectural constraints on conscious selection: sparse bandwidth, semantically loaded content
 
 ## References
 

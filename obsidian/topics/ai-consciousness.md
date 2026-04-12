@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-04-07T06:21:00+00:00
+ai_modified: 2026-04-12T12:57:00+00:00
 draft: false
 last_deep_review: 2026-03-24T20:39:00+00:00
 topics:
@@ -31,7 +31,7 @@ concepts:
   - "[[types-of-ai-phenomenal-experience]]"
 related_articles:
   - "[[consciousness-evolution-and-biology]]"
-  - "[[resolution-bandwidth-interface]]"
+  - "[[bandwidth-of-consciousness]]"
   - "[[tenets]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
   - "[[hoel-llm-consciousness-continual-learning-2026-01-15]]"
@@ -194,7 +194,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [[non-temporal-consciousness]] — Consciousness without temporal structure
 - [[quantum-state-inheritance-in-ai]] — Can AI inherit quantum states relevant to consciousness?
 - [[consciousness-evolution-and-biology]] — Why consciousness poses an evolutionary puzzle relevant to AI
-- [[resolution-bandwidth-interface]] — How consciousness's coarse-grained nature constrains interface design
+- [[bandwidth-of-consciousness]] — How consciousness's coarse-grained nature constrains interface design
 - [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions and five models of AI phenomenology
 - [[types-of-ai-phenomenal-experience]] — Six logical categories for what AI systems might or might not experience
 - [[ai-consciousness-modes]] — Tulving's anoetic-noetic-autonoetic hierarchy as diagnostic tool for AI

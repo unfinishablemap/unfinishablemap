@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-07 11:07:00+00:00
+ai_modified: 2026-04-12 12:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/neural-bandwidth-constraints-and-the-interface/
 - /topics/asymmetric-bandwidth-of-consciousness/
 - /topics/bandwidth-constraints-conscious-processing/
+- /topics/resolution-bandwidth-interface/
 concepts:
 - '[[attention-as-interface]]'
 - '[[attentional-economics]]'
@@ -31,9 +32,10 @@ concepts:
 - '[[language-recursion-and-consciousness]]'
 - '[[counterfactual-reasoning]]'
 created: 2026-02-09
-date: &id001 2026-04-06
+date: &id001 2026-04-12
 description: The 100-million-fold gap between sensory input and conscious output reveals
-  the shape of the mind-brain interface—a selection channel, not a production line.
+  the shape of the mind-brain interface—a selection channel whose coarseness is architecturally
+  required, not a defect.
 draft: false
 human_modified: null
 last_curated: null
@@ -112,6 +114,24 @@ At approximately 3–4 selections per second — the rate implied by ~10 bits/se
 ### The Division of Labour
 
 The bandwidth constraint creates a functional partition between conscious and unconscious processing that goes beyond mere speed. Unconscious systems handle tasks requiring high bandwidth: sensory processing, motor coordination, pattern recognition, spatial navigation. Conscious processing handles tasks requiring something the bandwidth constraint permits but unconscious systems apparently cannot achieve: novel combination, cross-domain evaluation, and [counterfactual reasoning](/concepts/counterfactual-reasoning/). DeWall, Baumeister, and Masicampo (2008) found that cognitive load on conscious processes specifically impairs logical reasoning while leaving unconscious processing intact. The [phenomenology of effort](/concepts/mental-effort/) tracks bandwidth utilisation: maximum effort corresponds to the channel operating at capacity.
+
+## Why Coarseness Is Necessary
+
+The bandwidth constraint is not merely a limitation consciousness happens to have — it is an architectural requirement for effective control. A controller matching the brain's processing grain would need to track individual synaptic states across a hundred trillion connections and issue instructions at millisecond timescales for billions of neurons. The informational burden would be astronomical, and the controller would face the same combinatorial explosion that makes the brain's parallel architecture necessary in the first place. A consciousness operating at neural resolution would not be a controller. It would be a duplicate of the system it was supposed to govern.
+
+Effective hierarchical control requires operating at a different grain than the system being controlled. A CEO who tracks every employee's minute-by-minute activity cannot make strategic decisions. An operating system that manages individual transistor states cannot run applications. The abstraction gap between controller and controlled is what makes control possible.
+
+The [resolution-void](/voids/resolution-void/) creates this abstraction. By compressing eleven million bits to ten, consciousness operates at a level where the relevant categories are goals, policies, and action types — not synaptic weights and firing rates. The bandwidth constraint ensures that conscious intervention is limited to the small number of selection points where it can make a difference. Together, they define a system that *must* work through hierarchical selection because it cannot work any other way.
+
+## The Resolution-Bandwidth Coupling
+
+The [resolution void](/voids/resolution-void/) and bandwidth constraint are not merely co-located at the interface — they are tightly coupled. The compression ratio determines the selection vocabulary, and the selection vocabulary determines the bandwidth requirement.
+
+If consciousness compressed sensory information less aggressively — operating at, say, a thousand bits per second of resolution — it would perceive the brain's activity at a finer grain. But finer-grained perception would require finer-grained selection to be useful: perceiving individual motor units demands controlling individual motor units. The bandwidth requirement would scale with resolution. A thousand-bit consciousness would need a thousand-bit control channel.
+
+The ten-bit resolution and ten-bit bandwidth are matched. Consciousness perceives at the resolution it can control, and controls at the resolution it can perceive. This coupling is what makes the interface *functional* — a mismatch between perceptual resolution and control bandwidth in either direction would render the system dysfunctional.
+
+This tuning is itself evidence of an architectural constraint rather than accident. An interface between two different systems — one physical, one non-physical — would need to match input resolution to output bandwidth for the connection to be useful. A self-monitoring system has no analogous constraint: a brain modelling itself could, in principle, adjust both "resolution" and "bandwidth" by allocating more neural resources. That the two remain locked in ratio across all tasks and training conditions suggests a constraint external to neural architecture.
 
 ## Why the Asymmetry Is Philosophically Revealing
 
@@ -199,6 +219,16 @@ The constraint reshapes the free will debate. Libertarian free will doesn't requ
 
 Schultze-Kraft's 2016 research identified a "point of no return" at ~200ms before movement execution—before which conscious intervention can veto prepared actions. This dissolves rather than creates the [Libet problem](/concepts/libet-experiments/): if consciousness's role is selection among prepared options rather than initiation from nothing, neural preparation *should* precede selection.
 
+## How Robust Is the Ten-Bit Figure?
+
+The arguments above rest on a specific empirical claim: that conscious throughput is approximately ten bits per second. This figure deserves scrutiny, because its interpretation shapes every conclusion that follows.
+
+Zheng and Meister (2025) synthesise decades of measurements across diverse tasks and find convergence on the order of 10 bits/s. But the figure depends on how "conscious processing" is operationalised: it measures the *information rate of behavioural output*, not necessarily the full throughput of awareness. Tasks differ in their demands, and estimates for any single task carry substantial uncertainty. The convergence is at the order-of-magnitude level — consistently closer to 10 than to 100 or 1 — rather than at a precise value.
+
+The interface argument requires a large asymmetry between conscious throughput and neural processing capacity — large enough that conscious causation must work through selection rather than specification. If the true figure were 50 bits/s rather than 10, the asymmetry would still be seven orders of magnitude and the architectural argument would hold with equal force. Even at 100 bits/s, the gap would be enormous. The selection-not-specification framework survives anywhere in the range from a few bits per second to a few hundred.
+
+What would genuinely threaten the argument is evidence that conscious throughput is *variable* — that it scales with training, pharmacological intervention, or neural development in ways suggesting a soft, brain-determined limit rather than a hard interface constraint. Zheng and Meister note that extensive practice does not substantially increase the ceiling, which supports the fixed-channel interpretation. But the distinction between "hard ceiling" and "typical operating point well below a higher ceiling" has not been definitively resolved. The honest position is that current evidence *favours* a ceiling interpretation (the rate is remarkably stable across very different tasks and skill levels) but does not conclusively establish it.
+
 ## What Would Challenge This View
 
 The argument linking bandwidth constraints to the interface model would face serious challenge if:
@@ -207,9 +237,11 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 2. **The bottleneck is explained purely by neural architecture.** If serial global broadcasting fully accounts for the constraint—including why the ratio is ~10⁸—the philosophical implications dissolve.
 
-3. **Unconscious systems replicate all functions attributed to conscious selection.** If manipulation, counterfactual reasoning, and novel combination prove achievable without conscious access, the bandwidth constraint becomes irrelevant to the consciousness question.
+3. **The resolution-bandwidth coupling breaks.** If conditions arise where conscious resolution increases without corresponding bandwidth increase (or vice versa), the coupling argument fails. Current evidence shows them locked across all measured tasks.
 
-4. **Artificial systems with narrow processing channels develop consciousness.** If a 10-bit/second computational system becomes conscious, the bandwidth constraint would be a *cause* of consciousness rather than a *sign* of interface limitation.
+4. **Unconscious systems replicate all functions attributed to conscious selection.** If manipulation, counterfactual reasoning, and novel combination prove achievable without conscious access, the bandwidth constraint becomes irrelevant to the consciousness question.
+
+5. **Artificial systems with narrow processing channels develop consciousness.** If a 10-bit/second computational system becomes conscious, the bandwidth constraint would be a *cause* of consciousness rather than a *sign* of interface limitation.
 
 ## Relation to Site Perspective
 

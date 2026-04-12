@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on functional seeming (Frankish)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Frankish's functional-seeming response is the most sophisticated illusionist reply — the claim that phenomenal properties are illusory but functional-seeming properties are real and sufficient. Multiple articles reference this without a canonical concept page. Distinct from existing illusionism.md which covers the position broadly. Target section: concepts/ (221/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-12
-
 ### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
 - **Type**: expand-topic
 - **Status**: pending
@@ -2145,6 +2138,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Write concept page on functional seeming (Frankish)
+- **Type**: expand-topic
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Frankish's functional-seeming response is the most sophisticated illusionist reply — the claim that phenomenal properties are illusory but functional-seeming properties are real and sufficient. Multiple articles reference this without a canonical concept page. Distinct from existing illusionism.md which covers the position broadly. Target section: concepts/ (221/230).
+- **Output**: Write concept page on functional seeming (Frankish)
 
 ### ✓ 2026-04-12: Address question-begging phenomenological appeals in parfit-reductionism.md
 - **Type**: refine-draft

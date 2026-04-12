@@ -67,7 +67,7 @@ The article had zero inbound links. Added cross-references from 10 articles:
 8. **[ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)** — related_articles frontmatter entry.
 9. **[open-question-ai-consciousness](/apex/open-question-ai-consciousness/)** — related_articles frontmatter entry.
 10. **[quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)** — related_articles frontmatter entry.
-11. **[resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/)** — related_articles frontmatter entry.
+11. **[resolution-bandwidth-interface](/topics/bandwidth-of-consciousness/)** — related_articles frontmatter entry.
 
 ## Remaining Items
 

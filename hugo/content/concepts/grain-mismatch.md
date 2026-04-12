@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-11
-ai_modified: 2026-04-07 07:49:00+00:00
+ai_modified: 2026-04-12 12:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,6 @@ related_articles:
 - '[[bandwidth-problem-mental-causation]]'
 - '[[inverted-qualia]]'
 - '[[dualism]]'
-- '[[resolution-bandwidth-interface]]'
 - '[[grain-mismatch-as-independent-evidence]]'
 title: The Grain Mismatch
 topics:
@@ -94,7 +93,7 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 - [dualism](/concepts/dualism/) — How multiple independent arguments converge
 - [panpsychism](/concepts/panpsychism/) — An alternative response that accepts phenomenal properties but distributes them differently
 - [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) — Three independent mismatches as a convergent evidence programme
-- [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) — Architectural implications of the grain mismatch
+- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Architectural implications of the grain mismatch
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Grain mismatch in the causal domain
 - [combination-problem](/concepts/combination-problem/) — How phenomenal properties combine, with grain implications
 - [neural-refresh-rates](/concepts/neural-refresh-rates/) — The temporal face of the grain mismatch: discrete oscillatory sampling versus smooth experience

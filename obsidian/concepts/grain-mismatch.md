@@ -4,7 +4,7 @@ description: "Phenomenal experience appears smooth and homogeneous while neural 
 created: 2026-03-11
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-04-07T07:49:00+00:00
+ai_modified: 2026-04-12T12:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,6 @@ related_articles:
   - "[[bandwidth-problem-mental-causation]]"
   - "[[inverted-qualia]]"
   - "[[dualism]]"
-  - "[[resolution-bandwidth-interface]]"
   - "[[grain-mismatch-as-independent-evidence]]"
 ai_contribution: 100
 author:
@@ -92,7 +91,7 @@ The Map proposes that the grain mismatch extends beyond spatial homogeneity into
 - [[dualism]] — How multiple independent arguments converge
 - [[panpsychism]] — An alternative response that accepts phenomenal properties but distributes them differently
 - [[grain-mismatch-as-independent-evidence]] — Three independent mismatches as a convergent evidence programme
-- [[resolution-bandwidth-interface]] — Architectural implications of the grain mismatch
+- [[bandwidth-of-consciousness]] — Architectural implications of the grain mismatch
 - [[bandwidth-problem-mental-causation]] — Grain mismatch in the causal domain
 - [[combination-problem]] — How phenomenal properties combine, with grain implications
 - [[neural-refresh-rates]] — The temporal face of the grain mismatch: discrete oscillatory sampling versus smooth experience

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-11
 **Article**: [Content-Specificity of Mental Causation](/concepts/content-specificity-of-mental-causation/)
 **Previous review**: Never
-**Cross-review context**: [The Resolution-Bandwidth Interface](/topics/resolution-bandwidth-interface/)
+**Cross-review context**: [The Resolution-Bandwidth Interface](/topics/bandwidth-of-consciousness/)
 
 ## Pessimistic Analysis Summary
 
@@ -53,7 +53,7 @@ None.
 - Cross-links to intentionality and resolution-bandwidth-interface
 
 ### Cross-links Added
-- [resolution-bandwidth-interface](/topics/resolution-bandwidth-interface/) (concepts frontmatter + Further Reading + new paragraph)
+- [resolution-bandwidth-interface](/topics/bandwidth-of-consciousness/) (concepts frontmatter + Further Reading + new paragraph)
 - [intentionality](/concepts/intentionality/) (Further Reading description updated, connection in new paragraph)
 
 ## Word Count

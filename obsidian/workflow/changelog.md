@@ -5,6 +5,14 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 12:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/resolution-bandwidth-interface]]
+- **Target**: [[topics/bandwidth-of-consciousness]]
+- **Archived**: archive/topics/resolution-bandwidth-interface.md
+- **References to review**: 0 (all 6 active content references updated)
+- **Unique content preserved**: Why Coarseness Is Necessary, Resolution-Bandwidth Coupling, robustness analysis of 10-bit figure
+
 ## 2026-04-12 11:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Functional seeming (Frankish)
