@@ -9,6 +9,18 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-12 09:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [parfit-reductionism](/concepts/parfit-reductionism/)
+- **Changes**: Reframed "Patterns Don't Make Choices" as "The Explanatory Cost of Reducing Agency" to avoid question-begging; expanded contemplative evidence to acknowledge Dzogchen/Madhyamaka dissolution of the witness; softened zombie section language. Addresses pessimistic review Issues 2 and 3.
+- **Published**: yes
+
+## 2026-04-12 08:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [materialism](/concepts/materialism/)
+- **Changes**: Expanded "Mysterialism for Everyone" subsection to substantively address dualism's interaction problem (pessimistic review Issue 1). Added two paragraphs acknowledging the difficulty honestly while arguing the interaction problem and hard problem differ in kind.
+- **Published**: yes
+
 ## 2026-04-12 07:56 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: All non-draft content in topics/ (229), concepts/ (221), tenets/ (1), plus apex/ (22) and voids/ (99) for cross-linking

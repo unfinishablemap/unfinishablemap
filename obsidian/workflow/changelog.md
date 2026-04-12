@@ -5,6 +5,12 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 09:59 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/parfit-reductionism]]
+- **Changes**: Reframed "Patterns Don't Make Choices" as "The Explanatory Cost of Reducing Agency" to avoid question-begging; expanded contemplative evidence to acknowledge Dzogchen/Madhyamaka dissolution of the witness; softened zombie section language. Addresses pessimistic review Issues 2 and 3.
+- **Published**: yes
+
 ## 2026-04-12 08:57 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/materialism]]

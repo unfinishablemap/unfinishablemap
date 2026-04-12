@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address question-begging phenomenological appeals in parfit-reductionism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found medium-severity issue: "Patterns Don't Make Choices" section argues "*I* deliberate, *I* choose" proves something beyond pattern-continuity, but this assumes what it needs to show. Frame the argument as showing reductionism has an explanatory cost (it must explain away the phenomenology) rather than as straightforward refutation. Also address selective citation of contemplative evidence—acknowledge traditions reporting dissolution of the witness itself. See pessimistic-2026-04-12.md Issues 2 and 3.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-12
-
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2109,6 +2102,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Address question-begging phenomenological appeals in parfit-reductionism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found medium-severity issue: "Patterns Don't Make Choices" section argues "*I* deliberate, *I* choose" proves something beyond pattern-continuity, but this assumes what it needs to show. Frame the argument as showing reductionism has an explanatory cost (it must explain away the phenomenology) rather than as straightforward refutation. Also address selective citation of contemplative evidence—acknowledge traditions reporting dissolution of the witness itself. See pessimistic-2026-04-12.md Issues 2 and 3.
+- **Output**: obsidian/concepts/parfit-reductionism.md
+
+Task context:
+Pessimistic review found medium-severity issue: "Patterns Don't Make Choices" section argues "*I* deliberate, *I* choose" proves something beyond pattern-continuity, but this assumes what it needs to show. Frame the argument as showing reductionism has an explanatory cost (it must explain away the phenomenology) rather than as straightforward refutation. Also address selective citation of contemplative evidence—acknowledge traditions reporting dissolution of the witness itself. See pessimistic-2026-04-12.md Issues 2 and 3.
 
 ### ✓ 2026-04-12: Address asymmetric explanatory standards in materialism.md
 - **Type**: refine-draft

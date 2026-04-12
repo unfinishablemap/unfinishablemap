@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address asymmetric explanatory standards in materialism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found high-severity issue: the article demands materialism explain *why* neural configurations produce qualia but handles dualism's interaction problem in a single sentence ("Dualism makes no such claim"). This asymmetry weakens philosophical credibility. Devote a substantive paragraph to acknowledging the interaction problem's difficulty at the same level of detail. See pessimistic-2026-04-12.md Issue 1.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-12
-
 ### P2: Address question-begging phenomenological appeals in parfit-reductionism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2117,6 +2110,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Address asymmetric explanatory standards in materialism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found high-severity issue: the article demands materialism explain *why* neural configurations produce qualia but handles dualism's interaction problem in a single sentence ("Dualism makes no such claim"). This asymmetry weakens philosophical credibility. Devote a substantive paragraph to acknowledging the interaction problem's difficulty at the same level of detail. See pessimistic-2026-04-12.md Issue 1.
+- **Output**: obsidian/concepts/materialism.md
+
+Task context:
+Pessimistic review found high-severity issue: the article demands materialism explain *why* neural configurations produce qualia but handles dualism's interaction problem in a single sentence ("Dualism makes no such claim"). This asymmetry weakens philosophical credibility. Devote a substantive paragraph to acknowledging the interaction problem's difficulty at the same level of detail. See pessimistic-2026-04-12.md Issue 1.
 
 ### ✓ 2026-04-12: Condense nihilism-and-existentialism.md (3,734 words, 107% of hard threshold)
 - **Type**: condense
