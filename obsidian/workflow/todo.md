@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-11T22:56:00+00:00
+ai_modified: 2026-04-12T10:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept page on functional seeming (Frankish)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/illusionism-functional-seeming-2026-03-28.md. Frankish's functional-seeming response is the most sophisticated illusionist reply — the claim that phenomenal properties are illusory but functional-seeming properties are real and sufficient. Multiple articles reference this without a canonical concept page. Distinct from existing illusionism.md which covers the position broadly. Target section: concepts/ (221/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-12
+
+### P2: Write article on experimental tests distinguishing consciousness-collapse from decoherence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md. Directly supports tenets 2 and 3 — identifies empirical signatures that could distinguish consciousness-driven collapse from standard decoherence. Critical for the Map's falsifiability programme. Target section: topics/ (229/230, near cap — may require coalesce first).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-12
+
+### P2: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 via expand-topic. phenomenal-transparency.md is the natural complement — opacity is what transparency lacks. Check for cross-links, consistent terminology, and whether transparency article should reference opacity as a distinct concept rather than treating it implicitly.
+- **Source**: chain (from concepts/phenomenal-opacity.md)
+- **Generated**: 2026-04-12
+
+### P2: Cross-review introspection.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11. Introspection is directly constrained by phenomenal opacity — the limits of self-knowledge about one's own experience. Check for cross-links, reinforcing arguments about introspective limits, and consistency with the new opacity framework.
+- **Source**: chain (from concepts/phenomenal-opacity.md)
+- **Generated**: 2026-04-12
+
+### P2: Cross-review extended-mind-thesis considering epistemology of extended cognition
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md created 2026-04-11 via expand-topic. The extended-mind-thesis concept page covers the metaphysics; the new article develops the epistemological implications. Check for cross-links, consistency on whether extended cognition supports or undermines the Map's dualism, and add references in both directions.
+- **Source**: chain (from topics/consciousness-epistemology-extended-cognition.md)
+- **Generated**: 2026-04-12
+
+### P2: Condense parfit-reductionism.md (3784 words, 108% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard warning threshold for concepts/. Recently refined (2026-04-12) which may have increased length. Preserve core arguments about Parfit's reductionism and its implications for the Map's dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-12
 
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
