@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the numinous void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-numinous-void-2026-04-12.md. The numinous void explores experiences of sacred or transcendent encounter that resist all conceptual capture — awe, mystical experience, the sense of the holy. Connects to aesthetic-void, the-surplus-void, resonance-void, and the apophatic programme. Target section: voids/ (99/100, last slot available).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-12
-
 ### P2: Cross-review illusionism.md considering functional-seeming insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2144,6 +2137,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Write article on the numinous void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-numinous-void-2026-04-12.md. The numinous void explores experiences of sacred or transcendent encounter that resist all conceptual capture — awe, mystical experience, the sense of the holy. Connects to aesthetic-void, the-surplus-void, resonance-void, and the apophatic programme. Target section: voids/ (99/100, last slot available).
+- **Output**: the numinous void
 
 ### ✓ 2026-04-12: Condense parfit-reductionism.md (3784 words, 108% of hard threshold)
 - **Type**: condense
