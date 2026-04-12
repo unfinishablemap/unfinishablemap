@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense nihilism-and-existentialism.md (3,734 words, 107% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3,500-word hard warning threshold for concepts/. Preserve core arguments about nihilism and existentialism under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-11
-
 ### P2: Address asymmetric explanatory standards in materialism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2102,6 +2095,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Condense nihilism-and-existentialism.md (3,734 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3,500-word hard warning threshold for concepts/. Preserve core arguments about nihilism and existentialism under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/concepts/nihilism-and-existentialism.md
 
 ### ✓ 2026-04-12: Address weak deflationary response in vertiginous-question.md
 - **Type**: refine-draft
