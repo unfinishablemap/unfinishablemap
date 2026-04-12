@@ -39,7 +39,7 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[self-opacity]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[consciousness-and-mathematics]]"
   - "[[creativity-void]]"
 ai_contribution: 100
@@ -206,7 +206,7 @@ Surprise connects to The Unfinishable Map's [[tenets]] at multiple points.
 - [[concepts/epiphenomenalism]] — The view that consciousness does not cause anything
 - [[evolutionary-case-for-mental-causation]] — Why natural selection implies mental causation
 - [[choking-phenomenon-mental-causation]] — Another case against epiphenomenalism
-- [[consciousness-and-creative-distinctiveness]] — How consciousness enables creative distinctiveness
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — How consciousness enables creative distinctiveness
 - [[consciousness-and-mathematics]] — Surprise and insight in mathematics
 - [[creativity-void]] — The boundary of what minds can generate
 - [[epistemic-emotions]] — Curiosity, wonder, and other knowledge-directed affects

@@ -34,7 +34,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[ai-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[phenomenology-of-intellectual-life]]"
 related_articles:
   - "[[tenets]]"
@@ -165,7 +165,7 @@ The [[mathematical-void]] documents the negative phenomenology—when we manipul
 
 The Map's [[consciousness-and-creativity|generation-selection synthesis]] argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
 
-When a mathematician invents a new structure—Cantor creating set theory, Grothendieck developing schemes in algebraic geometry—these are not selections from a pre-existing space of options. They are acts of conceptual creation expanding what mathematics can express. This is Margaret Boden's *transformational creativity*: not combining existing ideas but changing the rules themselves. The [[consciousness-and-creative-distinctiveness|zone of latent solutions]] concept captures why this matters: great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. Mathematical transformational creativity exits every zone.
+When a mathematician invents a new structure—Cantor creating set theory, Grothendieck developing schemes in algebraic geometry—these are not selections from a pre-existing space of options. They are acts of conceptual creation expanding what mathematics can express. This is Margaret Boden's *transformational creativity*: not combining existing ideas but changing the rules themselves. The [[consciousness-and-cognitive-distinctiveness|zone of latent solutions]] concept captures why this matters: great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. Mathematical transformational creativity exits every zone.
 
 ## The Chinese Room and AI
 

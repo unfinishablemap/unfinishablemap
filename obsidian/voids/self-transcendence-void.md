@@ -7,7 +7,7 @@ human_modified:
 ai_modified: 2026-04-05T20:55:00+00:00
 draft: false
 topics:
-  - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[cognitive-science-of-dualism]]"
 concepts:
   - "[[mysterianism]]"

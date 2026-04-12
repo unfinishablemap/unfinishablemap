@@ -32,7 +32,7 @@ concepts:
   - "[[self-opacity|volitional opacity]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[dream-consciousness]]"
   - "[[motor-control-quantum-zeno]]"
   - "[[counterfactual-void]]"
@@ -114,7 +114,7 @@ Free will requires [[mental-causation-and-downward-causation|mental causation]]:
 
 Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [[existentialism]] for the full analysis.
 
-The [[mental-effort|phenomenology of effort]] supports this picture—the felt cost of concentration reflects genuine causal engagement. [[consciousness-and-creative-distinctiveness|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [[creativity-void|creativity void]] reveals we cannot observe ourselves creating.
+The [[mental-effort|phenomenology of effort]] supports this picture—the felt cost of concentration reflects genuine causal engagement. [[consciousness-and-cognitive-distinctiveness|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [[creativity-void|creativity void]] reveals we cannot observe ourselves creating.
 
 [[dream-consciousness|Dream problem-solving]] provides independent evidence: dream incorporation more than doubled solving rates for unsolved puzzles, suggesting consciousness generates novel approaches in a phenomenally different mode. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success.
 
@@ -187,7 +187,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[motor-control-quantum-zeno]] — Quantum Zeno framework applied to motor control
 - [[retrocausality]] — How backward causation resolves the timing problem
 - [[decoherence]] — The decoherence objection and biological quantum effects
-- [[consciousness-and-creative-distinctiveness]] — Creativity as evidence for agent causation
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — Creativity as evidence for agent causation
 - [[dream-consciousness]] — Dream evidence for consciousness's causal role
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[personal-identity]] — Why *you* are the author of your choices

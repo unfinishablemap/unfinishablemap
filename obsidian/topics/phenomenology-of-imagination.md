@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[consciousness-and-counterfactual-reasoning]]"
   - "[[emotion-and-dualism]]"
 concepts:
@@ -33,7 +33,7 @@ related_articles:
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[dream-consciousness]]"
@@ -110,7 +110,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[mental-imagery]] — The neuroscience and philosophy of mental imagery, including aphantasia
 - [[mental-imagery-causal-role-of-consciousness]] — How mental imagery exerts causal influence through conscious processes
 - [[cognitive-phenomenology]] — Non-sensory phenomenal character in thought
-- [[consciousness-and-creative-distinctiveness]] — Imagination's role in creative cognition and why human creativity differs from computational generation
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — Imagination's role in creative cognition and why human creativity differs from computational generation
 - [[consciousness-and-counterfactual-reasoning]] — Why representing non-actuality requires consciousness
 - [[phenomenology-of-recursive-self-awareness]] — When imagination takes itself as object
 - [[phenomenology-of-anticipation]] — Forward-directed imagination and temporal experience

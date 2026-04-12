@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced consciousness-and-intelligence and consciousness-and-creative-distinctiveness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created consciousness-and-cognitive-distinctiveness.md from consciousness-and-intelligence.md and consciousness-and-creative-distinctiveness.md. The following files reference archived articles and may need wikilink updates: apex/machine-question.md, concepts/baseline-cognition.md, concepts/consciousness-as-amplifier.md, concepts/conscious-vs-unconscious-processing.md, concepts/counterfactual-reasoning.md, concepts/cumulative-culture.md, concepts/epiphenomenalism.md, concepts/evolution-of-consciousness.md, concepts/global-workspace-theory.md, concepts/metacognition.md, concepts/working-memory.md, concepts/categorical-surprise.md, concepts/content-specificity-of-mental-causation.md, concepts/phenomenology-of-creative-insight.md, topics/ai-consciousness.md, topics/animal-consciousness.md, topics/biological-teleology-and-the-interface-framework.md, topics/comparative-consciousness-and-interface-differences.md, topics/consciousness-and-counterfactual-reasoning.md, topics/consciousness-and-language-interface.md, topics/consciousness-and-memory.md, topics/consciousness-and-mathematics.md, topics/consciousness-and-the-ontology-of-temporal-becoming.md, topics/consciousness-evolution-and-biology.md, topics/consciousness-in-simple-organisms.md, topics/dream-consciousness.md, topics/evolutionary-case-for-mental-causation.md, topics/evolution-under-dualism.md, topics/free-will.md, topics/language-recursion-and-consciousness.md, topics/the-strong-emergence-of-consciousness.md, topics/aesthetics-and-consciousness.md, topics/incubation-effect-and-unconscious-processing.md, topics/phenomenology-of-imagination.md, topics/surprise-prediction-error-and-consciousness.md, voids/infant-consciousness.md, voids/self-transcendence-void.md, voids/imagination-and-creativity-void.md
-- **Source**: coalesce
-- **Generated**: 2026-04-12
-
 ### P2: Cross-review extended-mind-thesis considering epistemology of extended cognition
 - **Type**: cross-review
 - **Status**: pending
@@ -963,7 +956,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write article on the automation paradox — AI as real-time test of baseline cognition
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. As AI automates more cognitive tasks, the residual human contribution increasingly looks like consciousness-requiring capacities. Current AI achievements and failures provide a real-time empirical test of the baseline cognition hypothesis. Builds on baseline-cognition, consciousness-as-amplifier, consciousness-and-intelligence. Target section: topics/. See optimistic-2026-03-17-evening.md
+- **Notes**: Suggested by optimistic review. As AI automates more cognitive tasks, the residual human contribution increasingly looks like consciousness-requiring capacities. Current AI achievements and failures provide a real-time empirical test of the baseline cognition hypothesis. Builds on baseline-cognition, consciousness-as-amplifier, consciousness-and-cognitive-distinctiveness. Target section: topics/. See optimistic-2026-03-17-evening.md
 - **Generated**: 2026-03-17
 
 ### P3: Create concept page for phenomenal forcing
@@ -1689,7 +1682,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Add cross-links from optimistic review 2026-03-22 evening
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Six cross-linking opportunities identified: consciousness-and-creative-distinctiveness→contemplative-practice, consciousness-and-language-interface→contemplative-practice, dream-consciousness→aesthetics-and-consciousness, binding-problem→perceptual-reconstruction-paradox, death-and-consciousness→contemplative-practice, consciousness-and-skill-acquisition→attention-as-interface. See optimistic-2026-03-22-evening.md
+- **Notes**: Six cross-linking opportunities identified: consciousness-and-cognitive-distinctiveness→contemplative-practice, consciousness-and-language-interface→contemplative-practice, dream-consciousness→aesthetics-and-consciousness, binding-problem→perceptual-reconstruction-paradox, death-and-consciousness→contemplative-practice, consciousness-and-skill-acquisition→attention-as-interface. See optimistic-2026-03-22-evening.md
 - **Generated**: 2026-03-22
 
 ### P3: Write article on epistemology of philosophical disagreement under dualism
@@ -2123,6 +2116,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Update references to coalesced consciousness-and-intelligence and consciousness-and-creative-distinctiveness
+- **Type**: cross-review
+- **Notes**: Coalesce created consciousness-and-cognitive-distinctiveness.md from consciousness-and-intelligence.md and consciousness-and-creative-distinctiveness.md. The following files reference archived articles and may need wikilink updates: apex/machine-question.md, concepts/baseline-cognition.md, concepts/consciousness-as-amplifier.md, concepts/conscious-vs-unconscious-processing.md, concepts/counterfactual-reasoning.md, concepts/cumulative-culture.md, concepts/epiphenomenalism.md, concepts/evolution-of-consciousness.md, concepts/global-workspace-theory.md, concepts/metacognition.md, concepts/working-memory.md, concepts/categorical-surprise.md, concepts/content-specificity-of-mental-causation.md, concepts/phenomenology-of-creative-insight.md, topics/ai-consciousness.md, topics/animal-consciousness.md, topics/biological-teleology-and-the-interface-framework.md, topics/comparative-consciousness-and-interface-differences.md, topics/consciousness-and-counterfactual-reasoning.md, topics/consciousness-and-language-interface.md, topics/consciousness-and-memory.md, topics/consciousness-and-mathematics.md, topics/consciousness-and-the-ontology-of-temporal-becoming.md, topics/consciousness-evolution-and-biology.md, topics/consciousness-in-simple-organisms.md, topics/dream-consciousness.md, topics/evolutionary-case-for-mental-causation.md, topics/evolution-under-dualism.md, topics/free-will.md, topics/language-recursion-and-consciousness.md, topics/the-strong-emergence-of-consciousness.md, topics/aesthetics-and-consciousness.md, topics/incubation-effect-and-unconscious-processing.md, topics/phenomenology-of-imagination.md, topics/surprise-prediction-error-and-consciousness.md, voids/infant-consciousness.md, voids/self-transcendence-void.md, voids/imagination-and-creativity-void.md
+- **Output**: None -- Context: Update references to coalesced consciousness-and-intelligence and consciousness-and-creative-distinctiveness
 
 ### ✓ 2026-04-12: Cross-review introspection.md considering phenomenal-opacity insights
 - **Type**: cross-review

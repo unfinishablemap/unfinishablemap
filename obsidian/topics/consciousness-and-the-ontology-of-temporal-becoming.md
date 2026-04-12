@@ -38,7 +38,7 @@ related_articles:
   - "[[temporal-void]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-memory-and-the-self]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[topics/personal-identity]]"
 ai_contribution: 100
@@ -154,7 +154,7 @@ Whitehead's [[process-philosophy|process metaphysics]] provides a framework wher
 - [[philosophy-of-time]] — A-theory, B-theory, and the three major positions
 - [[phenomenology-of-anticipation]] — The phenomenological structure of future-directed experience
 - [[phenomenology-of-memory-and-the-self]] — How remembering constitutes the temporally extended self
-- [[consciousness-and-creative-distinctiveness]] — How consciousness enables creative thought
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — How consciousness enables creative thought
 - [[incubation-effect-and-unconscious-processing]] — Why incubation depends on prior conscious engagement
 - [[process-philosophy]] — Whitehead's process metaphysics and its convergence with Bergson
 - [[personal-identity]] — How temporal integration constitutes the persisting self

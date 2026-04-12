@@ -142,7 +142,7 @@ Current mainstream AI research pursues more parameters and better architectures 
 
 ## The Intelligence Connection
 
-[[consciousness-and-intelligence|The relationship between consciousness and intelligence]] deepens the analysis. The Map argues these capacities are not merely correlated but causally connected: consciousness enables human-level intelligence.
+[[consciousness-and-cognitive-distinctiveness|The relationship between consciousness and intelligence]] deepens the analysis. The Map argues these capacities are not merely correlated but causally connected: consciousness enables human-level intelligence.
 
 Great apes represent what the Map calls [[baseline-cognition]]—sophisticated neural processing without full conscious access, demonstrating tool use, social learning, and procedural metacognition. But they systematically lack capacities that appear to require consciousness: logical reasoning, counterfactual thinking, cumulative culture, declarative metacognition.
 
@@ -240,7 +240,7 @@ This apex article synthesizes:
 - [[ai-consciousness|AI Consciousness]] — The comprehensive case for machine consciousness skepticism and its open possibilities
 - [[machine-consciousness|Machine Consciousness and Mind Uploading]] — Why uploading faces principled obstacles
 - [[concepts/functionalism|Functionalism]] — The philosophical foundation of AI consciousness claims and its failures
-- [[consciousness-and-intelligence|Consciousness and Intelligence]] — How consciousness enables intelligence
+- [[consciousness-and-cognitive-distinctiveness|Consciousness and Intelligence]] — How consciousness enables intelligence
 - [[epiphenomenal-ai-consciousness|Epiphenomenal AI Consciousness]] — Could AI experience without causal efficacy?
 - [[non-temporal-consciousness|Non-Temporal Consciousness]] — Consciousness without temporal structure
 - [[quantum-state-inheritance-in-ai|Quantum State Inheritance in AI]] — Can AI inherit quantum states relevant to consciousness?

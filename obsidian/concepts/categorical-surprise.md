@@ -8,7 +8,7 @@ ai_modified: 2026-03-19T03:11:00+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
 concepts:
   - "[[predictive-processing]]"
   - "[[phenomenal-consciousness]]"
@@ -75,7 +75,7 @@ The [[epistemic-emotions|epistemic emotions]] surrounding categorical surprise h
 
 Categorical surprise and creative insight share a deep structure. Both involve transcending existing representational frameworks rather than operating within them.
 
-As the Map's treatment of [[consciousness-and-creative-distinctiveness|creativity and novel thought]] argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the zone of latent predictions—the set of outcomes that existing models could anticipate.
+As the Map's treatment of [[consciousness-and-cognitive-distinctiveness|creativity and novel thought]] argues, genuine creativity requires escaping the zone of latent solutions—the set of outputs that existing processes could produce. Similarly, categorical surprise involves encountering something outside the zone of latent predictions—the set of outcomes that existing models could anticipate.
 
 The connection runs both directions. Creative acts produce categorical surprise in their audience (and often in the creator). And categorical surprise, by forcing framework revision, opens new representational space within which creative work becomes possible. The experience of [[surprise-prediction-error-and-consciousness|self-surprise]]—the creator's own astonishment at what they have produced—is often categorical rather than ordinary: not "I didn't expect this particular output" but "I didn't know this kind of output was available to me."
 
@@ -105,7 +105,7 @@ The Map's treatment of categorical surprise would be undermined by several possi
 
 - [[surprise-prediction-error-and-consciousness]] — The parent treatment of surprise, prediction error, and creative self-surprise
 - [[predictive-processing]] — The computational framework that handles ordinary but not categorical surprise
-- [[consciousness-and-creative-distinctiveness]] — Creative insight as framework transcendence
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — Creative insight as framework transcendence
 - [[consciousness-as-amplifier]] — Consciousness as enabler of cognitive achievements beyond routine processing
 - [[cognitive-phenomenology]] — What it is like to think, understand, and grasp a concept
 - [[metacognition]] — Awareness of one's own cognitive processes and their limits

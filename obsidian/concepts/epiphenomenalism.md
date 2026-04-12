@@ -24,7 +24,7 @@ concepts:
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[phenomenal-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[llm-consciousness]]"
 related_articles:
   - "[[tenets]]"

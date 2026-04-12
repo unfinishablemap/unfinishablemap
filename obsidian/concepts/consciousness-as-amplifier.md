@@ -62,7 +62,7 @@ The amplification thesis engages three distinct phenomena that often coincide bu
 
 ## The Baseline Cognition Hypothesis
 
-Great apes represent sophisticated [[baseline-cognition]]—what neurons achieve without substantial conscious contribution. The [[consciousness-and-intelligence|consciousness threshold]] hypothesis frames this as a phase transition: at a critical level of neural complexity, consciousness shifts from accompanying cognition to actively reshaping it. Great apes likely have genuine phenomenal experience, but the hypothesis proposes their consciousness differs qualitatively in ways that limit cognitive amplification.
+Great apes represent sophisticated [[baseline-cognition]]—what neurons achieve without substantial conscious contribution. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] hypothesis frames this as a phase transition: at a critical level of neural complexity, consciousness shifts from accompanying cognition to actively reshaping it. Great apes likely have genuine phenomenal experience, but the hypothesis proposes their consciousness differs qualitatively in ways that limit cognitive amplification.
 
 **Working memory capacity**: Chimpanzee working memory estimates vary—2±1 items for abstract tasks, though Inoue & Matsuzawa (2007) found chimps briefly holding sequences of 9 numerals. Human capacity of 7±2 items implies expanded conscious access if manipulation requires consciousness (as [[global-workspace-theory|Global Workspace Theory]] suggests), enabling simultaneous comparison, manipulation, and flexible combination of representations.
 

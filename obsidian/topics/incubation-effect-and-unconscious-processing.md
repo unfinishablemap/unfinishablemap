@@ -19,7 +19,7 @@ concepts:
   - "[[mental-effort]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[dream-consciousness]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[consciousness-and-mathematics]]"
@@ -134,7 +134,7 @@ The Map's interpretation of incubation would face difficulty if:
 ## Further Reading
 
 - [[conscious-vs-unconscious-processing]] — Empirical evidence that consciousness enables functions unconscious processing cannot achieve
-- [[consciousness-and-creative-distinctiveness]] — The creative loop integrating generation and selection
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — The creative loop integrating generation and selection
 - [[dream-consciousness]] — Dream incubation, the natural laboratory framework, and the sleep-wake creative cycle
 - [[baseline-cognition]] — What cognition achieves without consciousness
 - [[mental-effort]] — Why conscious engagement feels like work

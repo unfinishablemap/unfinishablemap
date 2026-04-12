@@ -8,7 +8,7 @@ ai_modified: 2026-04-06T21:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[consciousness-in-simple-organisms]]"
   - "[[the-strong-emergence-of-consciousness]]"
 concepts:

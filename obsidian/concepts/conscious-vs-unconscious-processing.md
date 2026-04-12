@@ -29,7 +29,7 @@ concepts:
   - "[[phenomenal-overflow]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[neural-correlates-conscious-unconscious-processing-2026-01-23]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"
@@ -256,7 +256,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 
 ## Further Reading
 
-- [[consciousness-and-intelligence]] — How consciousness enables human-level intelligence beyond baseline cognition
+- [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — How consciousness enables human-level intelligence beyond baseline cognition
 - [[disappearance-voids|The Habituation Void]] — How the familiar drops out of conscious processing while remaining functional
 - [[quantum-neural-timing-constraints]] — How quantum mechanisms can operate within neural timescales
 - [[argument-from-reason]] — Why reasoning about consciousness requires consciousness to be causally efficacious

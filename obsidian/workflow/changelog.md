@@ -5,9 +5,18 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 18:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[consciousness-and-cognitive-distinctiveness]]
+- **Word count**: 2305 → 2296 (-9)
+- **Critical issues addressed**: 2 (unused Searle reference, imprecise zone-of-latent-solutions attribution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 39 files updated with corrected wikilinks from archived source articles
+- **Output**: [[reviews/deep-review-2026-04-12-consciousness-and-cognitive-distinctiveness]]
+
 ## 2026-04-12 17:56 UTC - coalesce
 - **Status**: Success
-- **Sources**: [[consciousness-and-intelligence]], [[consciousness-and-creative-distinctiveness]]
+- **Sources**: [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]], [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]
 - **Target**: [[consciousness-and-cognitive-distinctiveness]]
 - **Archived**: archive/topics/consciousness-and-intelligence.md, archive/topics/consciousness-and-creative-distinctiveness.md
 - **References to review**: 39 files (27 + 12)

@@ -25,7 +25,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[consciousness-and-testimony]]"
   - "[[animal-consciousness]]"
-  - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[llm-consciousness]]"
   - "[[ai-consciousness]]"
   - "[[consciousness-and-the-phenomenology-of-translation]]"
@@ -262,7 +262,7 @@ The consciousness-language interface connects to the Map's [[tenets]] at multipl
 - [[language-recursion-and-consciousness]] — How recursive language may require consciousness
 - [[language-thought-boundary]] — The limits where thought exceeds language
 - [[animal-consciousness]] — Evidence for consciousness in non-linguistic creatures
-- [[consciousness-and-intelligence]] — Why consciousness and intelligence are distinct
+- [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — Why consciousness and intelligence are distinct
 - [[consciousness-and-testimony]] — How first-person testimony transmits phenomenal knowledge
 - [[llm-consciousness]] — Whether large language models might be conscious
 - [[ai-consciousness]] — The broader question of machine consciousness

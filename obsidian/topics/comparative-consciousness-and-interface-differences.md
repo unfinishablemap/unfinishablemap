@@ -97,7 +97,7 @@ If insects are conscious—as the New York Declaration's "realistic possibility"
 3. **Different nature**: Insect consciousness involves a genuinely different type of conscious entity—simpler in nature, not just more minimally coupled
 4. **Different coupling**: Same or different nature, but insects exploit a different physical coupling mechanism than mammals
 
-The [[consciousness-as-amplifier|amplification hypothesis]] suggests option 2 may be correct for at least some cognitive functions: baseline cognition operates without consciousness, while consciousness amplifies certain capacities. The [[consciousness-and-intelligence|consciousness threshold]] article argues that this amplification becomes transformative at a specific point in cognitive evolution—where coupling becomes rich enough for consciousness to enable logical reasoning, cumulative culture, and counterfactual thinking. But this concerns what consciousness *does* once coupled, not the nature of the consciousness or the coupling mechanism.
+The [[consciousness-as-amplifier|amplification hypothesis]] suggests option 2 may be correct for at least some cognitive functions: baseline cognition operates without consciousness, while consciousness amplifies certain capacities. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] article argues that this amplification becomes transformative at a specific point in cognitive evolution—where coupling becomes rich enough for consciousness to enable logical reasoning, cumulative culture, and counterfactual thinking. But this concerns what consciousness *does* once coupled, not the nature of the consciousness or the coupling mechanism.
 
 ## State-Dependent Variation: Coupling Changes, Not Nature
 

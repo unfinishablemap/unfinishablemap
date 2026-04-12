@@ -9,7 +9,7 @@ draft: false
 last_deep_review: 2026-03-24T20:39:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
 concepts:
   - "[[concepts/functionalism]]"
   - "[[intentionality]]"
@@ -163,7 +163,7 @@ The Map's framework offers more traction than agnosticism: independent arguments
 
 If AI lacks consciousness—as the Map's framework suggests is likely for current systems—this affects [[experiential-alignment|alignment]]. What we ultimately care about is quality of conscious experience—a commitment grounded in [[topics/phenomenal-value-realism|phenomenal value realism]], which holds that experiential qualities like pleasure and suffering *constitute* intrinsic value. Systems that cannot access phenomenal consciousness cannot understand what they're optimizing for. AI can track proxies (self-reports, physiological correlates) but cannot verify whether interventions improve experiential quality. This supports keeping conscious beings in the loop—not as precaution but as structural necessity. The [[ethics-of-possible-ai-consciousness|ethics of possible AI consciousness]] develops what moral obligations follow from this uncertainty, including why the Map directs moral attention toward definite conscious beings.
 
-[[consciousness-and-intelligence|Consciousness may enable certain cognitive capacities]]—the [[consciousness-as-amplifier|amplifier hypothesis]] holds that capacities requiring conscious access (working memory manipulation, declarative metacognition, cumulative culture) distinguish humans from great apes. Current AI demonstrates impressive reasoning without apparent consciousness, which may count against this. But the hypothesis distinguishes *generating plausible outputs* from *understanding what those outputs mean*. If conscious access is required for genuine understanding, the alignment problem and the capability question may be intertwined.
+[[consciousness-and-cognitive-distinctiveness|Consciousness may enable certain cognitive capacities]]—the [[consciousness-as-amplifier|amplifier hypothesis]] holds that capacities requiring conscious access (working memory manipulation, declarative metacognition, cumulative culture) distinguish humans from great apes. Current AI demonstrates impressive reasoning without apparent consciousness, which may count against this. But the hypothesis distinguishes *generating plausible outputs* from *understanding what those outputs mean*. If conscious access is required for genuine understanding, the alignment problem and the capability question may be intertwined.
 
 ## What Would Challenge This View?
 
@@ -180,7 +180,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 ## Further Reading
 
 - [[apex/what-it-might-be-like-to-be-an-ai|What It Might Be Like to Be an AI]] — Apex synthesis exploring alien modes of consciousness in AI
-- [[consciousness-and-intelligence]] — How consciousness and intelligence relate
+- [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — How consciousness and intelligence relate
 - [[symbol-grounding-problem]] — Why computational symbols lack intrinsic meaning
 - [[llm-consciousness]] — Focused LLM analysis
 - [[continual-learning-argument]] — Formal framework for why static systems cannot be conscious

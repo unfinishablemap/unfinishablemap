@@ -4,7 +4,7 @@ description: "Consciousness causally enables the cognitive leap that separates h
 created: 2026-01-29
 modified: 2026-04-12
 human_modified:
-ai_modified: 2026-04-12T17:56:00+00:00
+ai_modified: 2026-04-12T18:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +58,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-12
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-12T18:56:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-intelligence/"
   - "/topics/consciousness-and-creative-distinctiveness/"
@@ -68,7 +68,7 @@ Consciousness and intelligence are often conflated but conceptually distinct. In
 
 ## Baseline Cognition and the Zone of Latent Solutions
 
-The [[consciousness-as-amplifier|consciousness-as-intelligence-amplifier]] hypothesis draws on comparative cognition. Great apes represent what the Map calls [[baseline-cognition]]—sophisticated neural processing without the full conscious access that humans enjoy. Tomasello's "zone of latent solutions" names the boundary: within it, novel behaviours emerge through recombination of existing skills, trial-and-error discovery, and social observation—all without insight into *why* solutions work. A chimpanzee who discovers that a thin stick fishes termites more effectively than a thick one has innovated, but the innovation is unreflective—it happens *to* the ape rather than being *done by* the ape through deliberate authorship.
+The [[consciousness-as-amplifier|consciousness-as-intelligence-amplifier]] hypothesis draws on comparative cognition. Great apes represent what the Map calls [[baseline-cognition]]—sophisticated neural processing without the full conscious access that humans enjoy. The "zone of latent solutions" (Tennie, Call & Tomasello, 2009) names the boundary: within it, novel behaviours emerge through recombination of existing skills, trial-and-error discovery, and social observation—all without insight into *why* solutions work. A chimpanzee who discovers that a thin stick fishes termites more effectively than a thick one has innovated, but the innovation is unreflective—it happens *to* the ape rather than being *done by* the ape through deliberate authorship.
 
 The zone has a ceiling. Ape innovations do not ratchet upward because [[cumulative-culture|cumulative improvement]] requires representing the current method *as* a method, seeing its limitations, and designing improvements. This [[metacognition|metarepresentational]] step exits the zone—it requires consciousness. If consciousness contributed nothing to cognition—if it were [[concepts/epiphenomenalism|epiphenomenal]]—we would expect cognitive capabilities to scale smoothly with neural complexity. They do not.
 
@@ -188,7 +188,6 @@ The consciousness-intelligence-creativity thesis would weaken if:
 1. Georgiev, D.D. (2024). Evolution of Consciousness. *Life*, 14(1), 48.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210-216.
-1. Searle, J. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417-457.
 1. Tennie, C., Call, J., & Tomasello, M. (2009). Ratcheting up the ratchet: On the evolution of cumulative culture. *Philosophical Transactions of the Royal Society B*, 364(1528), 2405-2415.
 1. Tomasello, M., & Herrmann, E. (2010). Ape and human cognition: What's the difference? *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). Experimental studies illuminate the cultural transmission of percussive technologies in *Homo* and *Pan*. *Philosophical Transactions of the Royal Society B*, 370(1682).

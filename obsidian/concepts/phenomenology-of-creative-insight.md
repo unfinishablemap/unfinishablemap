@@ -26,7 +26,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[incubation-effect-and-unconscious-processing]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[consciousness-creativity-novelty-generation-2026-01-19]]"
   - "[[agent-causation]]"
@@ -145,7 +145,7 @@ The phenomenology of creative insight supports several of the Map's [[tenets]].
 - [[incubation-effect-and-unconscious-processing]]
 - [[phenomenology-of-intellectual-life]]
 - [[phenomenology-of-intellectual-life]]
-- [[consciousness-and-creative-distinctiveness]]
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]
 - [[agent-causation]]
 - [[phenomenology-of-choice-and-volition]]
 - [[phenomenology-of-conceptual-change]]

@@ -38,7 +38,7 @@ concepts:
   - "[[baseline-cognition]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-and-creative-distinctiveness]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[sleep-consciousness-void]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[dreams-problem-solving-lucid-dreaming-2026-02-06]]"
@@ -49,7 +49,7 @@ related_articles:
   - "[[lucid-dreaming-and-dualist-rendering]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[incubation-effect-and-unconscious-processing]]"
-  - "[[consciousness-and-intelligence]]"
+  - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[consciousness-and-memory]]"
 ai_contribution: 100
 author: null
@@ -151,7 +151,7 @@ The problem-solving evidence reveals a graded relationship between phenomenal mo
 | Hypnagogic N1 | Loosely directed, maximally creative | Tripled mathematical insight (Lacaux et al. 2021) |
 | Lucid REM | Metacognitive, partially controlled | Deliberate information processing, two-way communication |
 
-Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including the hippocampal-cortical replay that drives [[consciousness-and-memory|memory consolidation]]—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [[consciousness-and-intelligence|consciousness and intelligence]] debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [[incubation-effect-and-unconscious-processing|incubation effect]] explores the complementary waking side of this creative cycle.
+Cognitive outcomes track this phenomenal gradient, not simply whether the brain is "processing." NREM slow-wave sleep involves substantial brain activity—including the hippocampal-cortical replay that drives [[consciousness-and-memory|memory consolidation]]—yet REM specifically enhances creative outcomes while NREM does not (Cai et al. 2009). The [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] debate often focuses on waking cognition; the dream evidence shows consciousness contributes through the *mode shifts* it undergoes during sleep—different filter configurations allowing different cognitive access. The [[incubation-effect-and-unconscious-processing|incubation effect]] explores the complementary waking side of this creative cycle.
 
 ## Challenges: Illusionism and Epiphenomenalism
 
@@ -213,7 +213,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[sleep-consciousness-void]] — The epistemic boundary between waking and dreaming
 - [[degrees-of-consciousness]] — How consciousness varies in intensity, richness, and complexity — dreaming as a distinct configuration
 - [[sleep-and-consciousness]] — Consciousness gradations during sleep stages
-- [[consciousness-and-creative-distinctiveness]] — The creative loop and consciousness's role in novel combination
+- [[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]] — The creative loop and consciousness's role in novel combination
 - [[mind-brain-separation]] — The rendering engine analogy
 - [[attention-as-interface]] — How attention mediates the consciousness-brain interface
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
@@ -226,7 +226,7 @@ The Map's interpretation of dream consciousness would face difficulty if:
 - [[episodic-memory]] — Memory as a dual-domain capability requiring both physical and non-physical contributions
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as evidence for the capability division and mind-side rendering
 - [[incubation-effect-and-unconscious-processing]] — The creative cycle and consciousness's role in incubation
-- [[consciousness-and-intelligence]] — The broader case for consciousness enabling human-level cognition
+- [[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]] — The broader case for consciousness enabling human-level cognition
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: dreams as one of five windows into the multi-channel interface architecture
 - [[comparative-consciousness-and-interface-differences]] — Dreams as coupling variation: same consciousness, different interface configuration
 
