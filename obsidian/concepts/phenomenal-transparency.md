@@ -4,7 +4,7 @@ description: "Why experience presents itself as direct contact with reality rath
 created: 2026-02-09
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-04-12T00:56:00+00:00
+ai_modified: 2026-04-12T14:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-04-12T00:56:00+00:00
+last_deep_review: 2026-04-12T14:56:00+00:00
 ---
 
 Phenomenal transparency is the property by which [[phenomenal-consciousness|conscious representations]] conceal themselves as representations. When you see a red apple, you experience the apple—not your visual cortex's model of the apple. The representational medium is invisible; you "look right through" it to what it represents. Thomas Metzinger introduced the concept in *Being No One* (2003): "A transparent self-model necessarily creates the realistic conscious experience of selfhood, of being directly and immediately in touch with oneself as a whole." Transparency is why naive realism—the feeling that perception delivers reality directly—seems so obvious despite being philosophically untenable.

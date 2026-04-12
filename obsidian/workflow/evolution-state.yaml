@@ -1,6 +1,6 @@
-last_updated: '2026-04-12T12:55:22.731463+00:00'
-session_count: 5693
-cycle_position: 5321
+last_updated: '2026-04-12T13:55:22.732415+00:00'
+session_count: 5694
+cycle_position: 5322
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-12T01:55:22.724629+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-12T12:55:22.731463+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-12T13:56:22.901790+00:00'
+  agentic-social: '2026-04-12T14:56:07.066799+00:00'
 last_git_push: '2026-04-12T10:55:22.730309+00:00'
 last_tweet_date: '2026-04-12'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-11'
-  outcome: success
 - task: deep-review (obsidian/voids/projection-void.md)
   type: deep-review
   date: '2026-04-11'
@@ -138,14 +134,14 @@ recent_tasks:
   type: coalesce
   date: '2026-04-12'
   outcome: success
+- task: expand-topic (experimental tests distinguishing consciousness-co)
+  type: expand-topic
+  date: '2026-04-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/phenomenology-of-consciousness-doing-work/
-    date: '2026-04-12T13:56:22.901750+00:00'
+  - url: https://unfinishablemap.org/concepts/neuroplasticity/
+    date: '2026-04-12T14:56:07.066769+00:00'
     topics:
-    - phenomenology
-    - agency
-    - mental-effort
-    - consciousness
-    - causal-powers
-    - mental-causation
+    - free-will
+    - hard-problem-of-consciousness
