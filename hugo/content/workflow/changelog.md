@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-12 11:03 UTC - deep-review
+- **Status**: Success
+- **File**: [parfit-reductionism](/concepts/parfit-reductionism/)
+- **Word count**: 3784 → 3497 (-287)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed AI refinement log, condensed past hard threshold)
+- **Enhancements made**: Prose tightening across 7 sections to bring under hard threshold
+- **Output**: [deep-review-2026-04-12-parfit-reductionism](/reviews/deep-review-2026-04-12-parfit-reductionism/)
+
 ## 2026-04-12 09:59 UTC - refine-draft
 - **Status**: Success
 - **File**: [parfit-reductionism](/concepts/parfit-reductionism/)
