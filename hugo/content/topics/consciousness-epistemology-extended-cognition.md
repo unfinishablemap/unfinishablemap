@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-11
-ai_modified: 2026-04-12 04:56:00+00:00
+ai_modified: 2026-04-12 19:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,12 +19,13 @@ description: The extended mind thesis reveals consciousness as the non-negotiabl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-12 04:56:00+00:00
+last_deep_review: 2026-04-12 19:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
 - '[[consciousness-epistemology-extended-cognition-2026-04-11]]'
+- '[[cognitive-science-of-dualism]]'
 title: Consciousness and the Epistemology of Extended Cognition
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -53,7 +54,7 @@ Ned Block's distinction between phenomenal consciousness (P-consciousness) and a
 
 Extended cognition thus extends A-consciousness while leaving P-consciousness untouched. This dissociation is exactly what dualism predicts: functional roles are substrate-neutral and therefore extendable, while phenomenal properties are not exhausted by functional description and therefore resist extension.
 
-Not everyone accepts this boundary. Telakivi (2023) mounts the most sustained case for extended consciousness, arguing that certain brain-body-environment interactions can constitute phenomenal experience itself. If embodied tool use is sufficiently integrated—habitual, reliable, transparent in use—then the qualitative character of experience might extend along with it. The skilled cane user's tactile awareness extends to the cane's tip; perhaps the phenomenal experience itself is partially constituted by the cane-environment interaction. The Map's response: integration and transparency describe how consciousness *accesses* external resources, not where consciousness *resides*. The cane user's experience is richer because the filter has expanded, but the phenomenal character—what it is like to feel the pavement through the cane—remains a property of consciousness, not of the cane. Functional integration, however deep, does not convert a tool into an experiencer.
+Not everyone accepts this boundary. Telakivi (2023) mounts the most sustained case for extended consciousness, arguing that certain brain-body-environment interactions can constitute phenomenal experience itself. If embodied tool use is sufficiently integrated—habitual, reliable, transparent in use—then the qualitative character of experience might extend along with it. The skilled cane user's tactile awareness extends to the cane's tip; perhaps the phenomenal experience itself is partially constituted by the cane-environment interaction. The Map's response draws on a deeper pattern: as the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate mind and body functionally, the more puzzling it becomes that phenomenal experience does not reduce to function. Telakivi's own evidence—that skilled tool use produces seamless, transparent experience—sharpens rather than dissolves the hard problem. The cane user's experience is richer because the filter has expanded, but the phenomenal character—what it is like to feel the pavement through the cane—remains a property of consciousness, not of the cane. Integration and transparency describe how consciousness *accesses* external resources, not where consciousness *resides*. Functional integration, however deep, does not convert a tool into an experiencer.
 
 ## Consciousness as Epistemic Foundation
 
@@ -63,13 +64,15 @@ Smithies's central claim is that "consciousness is essential to explaining how w
 
 Consider the zombie thought experiment applied to extended cognition. A philosophical zombie with Otto's notebook accesses the same information, processes it identically, and produces the same behavioural outputs. But the zombie lacks phenomenal experience. Does the zombie have *knowledge*? If Smithies is right, no—the zombie has reliably caused true beliefs but not justified ones. Justification requires the phenomenal character that distinguishes genuine understanding from mere information retrieval.
 
+Reliabilists object: justification just *is* reliable belief-formation, and consciousness adds nothing essential. If Otto's notebook reliably produces true beliefs, that suffices for knowledge. The Map disagrees. Reliability explains why a belief tracks truth; it does not explain the difference between a thermostat that tracks temperature and a person who *knows* the temperature. That difference—the felt grasp of why something is so—is phenomenal, and no amount of reliable external processing generates it.
+
 This has direct implications for extended cognition. External devices can extend the *reach* of epistemic agency—providing more data, faster processing, broader access. But they cannot extend the *ground* of epistemic agency, which is phenomenal consciousness. A smartphone gives you access to the world's information; it does not give you understanding. Understanding requires the qualitative experience of grasping why something is true, and that experience happens in consciousness, not in the device.
 
 ## The Filter Theory and Extended Processing
 
 The Unfinishable Map's [filter theory](/concepts/filter-theory/) offers a natural framework for integrating the valid insights of extended cognition with dualist commitments. On the filter model, the brain does not produce consciousness but constrains and shapes it—filtering a wider field of experience into the focused awareness needed for embodied action.
 
-Extended cognition enriches the filter. Notebooks, smartphones, and environmental structures extend the *informational resources* available to the filter, expanding what consciousness can attend to and process. The body-plus-tools form the filtering apparatus; consciousness is what passes through it. This preserves the Map's core claim—consciousness is not reducible to any physical process, whether internal or external—while acknowledging that the physical substrate through which consciousness operates is genuinely distributed.
+Extended cognition enriches the filter. Notebooks, smartphones, and environmental structures extend the *informational resources* available to the filter, expanding what consciousness can attend to and process. The body-plus-tools form the filtering apparatus; consciousness is what passes through it. (This framing is the Map's extension of filter theory to the 4E context; [filter-theory](/concepts/filter-theory/) itself acknowledges that filter models currently lack independent criteria for predicting which disruptions enhance versus degrade experience, a limitation that applies here too.) This preserves the Map's core claim—consciousness is not reducible to any physical process, whether internal or external—while acknowledging that the physical substrate through which consciousness operates is genuinely distributed.
 
 The distinction maps cleanly onto the P-consciousness/A-consciousness divide. A-consciousness—the accessibility of information for reasoning and report—depends on the filter's bandwidth and structure, which tools can expand. P-consciousness—the qualitative character of experience—depends on consciousness itself, which no physical extension can replicate.
 
@@ -85,7 +88,7 @@ This dissolves the apparent tension between extended cognition and epistemic int
 
 [Phenomenal opacity](/concepts/phenomenal-opacity/)—the condition in which conscious representations reveal themselves as constructs rather than transparent windows onto reality—introduces a further complication. If phenomenal states are sometimes opaque to [introspection](/concepts/introspection/), how does this interact with the question of extension?
 
-Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. Consider a half-remembered face: you are conscious of the memory, but also conscious that it feels reconstructed, partial, unreliable. This meta-experiential character—knowing that you are uncertain *from the inside*—is precisely what external devices lack. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The notebook does not experience its own accuracy as questionable. The fact that consciousness can interrogate its own reliability—can notice that a perception feels constructed or uncertain—demonstrates a reflexive capacity that functional equivalence cannot capture. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate cognitive and phenomenal analysis, the more the irreducibility of phenomenal properties stands out.
+Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. Consider a half-remembered face: you are conscious of the memory, but also conscious that it feels reconstructed, partial, unreliable. This meta-experiential character—knowing that you are uncertain *from the inside*—points toward what the Map identifies as a distinctive feature of consciousness. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The notebook does not experience its own accuracy as questionable. The Map's claim here extends beyond the [phenomenal-opacity](/concepts/phenomenal-opacity/) concept itself: while opacity describes a condition *within* consciousness, the contrast with external devices is a further inference—that the reflexive capacity to interrogate one's own reliability has no functional equivalent in extended systems. This is consistent with [self-opacity](/voids/self-opacity/)'s analysis of consciousness examining its own processes. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate cognitive and phenomenal analysis, the more the irreducibility of phenomenal properties stands out.
 
 ## Relation to Site Perspective
 

@@ -9,6 +9,61 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-12 22:57 UTC - deep-review
+- **Status**: Success
+- **File**: [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/)
+- **Word count**: 1667 → 1710 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-12-content-specificity-of-mental-causation](/reviews/deep-review-2026-04-12-content-specificity-of-mental-causation/)
+
+## 2026-04-12 22:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Numinous Void
+- **Output**: [numinous-void](/voids/numinous-void/)
+- **Word count**: 1542
+- **Based on research**: yes, [voids-numinous-void-2026-04-12](/research/voids-numinous-void-2026-04-12/)
+
+## 2026-04-12 20:56 UTC - condense
+- **Status**: Success
+- **File**: [parfit-reductionism](/concepts/parfit-reductionism/)
+- **Before**: 3497
+- **After**: 1985
+- **Reduction**: 43%
+- **Technique**: Cut Process Philosophy section (tangential Whitehead material), condensed thought experiments to brief mentions, trimmed Illusionist Challenge (merged contemplative subsection), compressed What the Rejection Implies into compact paragraphs, removed 2 of 5 challenge-this-view items, pruned Further Reading and References
+
+## 2026-04-12 20:25 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (5555 to 5699)
+- **Findings**: 1 cadence (validate-all still absent, 21st report), 0 failure patterns (0% hard failure), 1 queue (first net reduction, -20), 2 review (deep-review marginal-value rate 32.1%, pessimistic pipeline 75% responsive), 1 convergence (voids resolved below cap)
+- **Tier 1 changes**: 0 applied (tune_system_history/locked_settings still absent, 29th report)
+- **Tier 2 recommendations**: 10 (5 carried forward critical, 2 new, 3 carried forward medium)
+- **Output**: [system-tune-2026-04-12](/reviews/system-tune-2026-04-12/)
+
+## 2026-04-12 20:16 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 448
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-04-12](/reviews/tenet-check-2026-04-12/)
+
+## 2026-04-12 20:07 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Numinous Void
+- **Category**: Mixed (Unexplorable / Occluded)
+- **Output**: [voids-numinous-void-2026-04-12](/research/voids-numinous-void-2026-04-12/)
+- **Key finding**: Consciousness cannot determine from within whether numinous experience (awe, sacred dread, cosmic significance) constitutes genuine epistemic contact with transcendent reality or sophisticated affective response — the evaluation mechanism (reflective self-awareness) is precisely what the experience suspends.
+
+## 2026-04-12 19:59 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Word count**: 1939 → 2129 (+190)
+- **Critical issues addressed**: 1 (missing cognitive-science-of-dualism in related_articles)
+- **Medium issues addressed**: 4 (weak Telakivi response, reliabilist challenge unacknowledged, phenomenal opacity source/Map conflation, filter theory used without qualifier)
+- **Enhancements made**: 2 (self-opacity cross-link, cognitive-science-of-dualism cross-link)
+- **Output**: [deep-review-2026-04-12b-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-12b-consciousness-epistemology-extended-cognition/)
+
 ## 2026-04-12 18:56 UTC - deep-review
 - **Status**: Success
 - **File**: [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
