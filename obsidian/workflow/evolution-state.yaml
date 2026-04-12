@@ -1,19 +1,19 @@
-last_updated: '2026-04-12T18:55:22.735308+00:00'
-session_count: 5699
-cycle_position: 5327
+last_updated: '2026-04-12T19:55:22.736439+00:00'
+session_count: 5700
+cycle_position: 5328
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-12T01:55:22.724629+00:00'
   optimistic-review: '2026-04-12T07:55:22.728199+00:00'
-  check-tenets: '2026-04-09T19:55:22.675222+00:00'
-  check-links: '2026-04-10T19:55:22.685834+00:00'
+  check-tenets: '2026-04-12T19:55:22.736439+00:00'
+  check-links: '2026-04-12T19:55:22.736439+00:00'
   deep-review: '2026-04-12T15:55:22.733879+00:00'
-  tune-system: '2026-04-12T20:25:00+00:00'
-  research-voids: '2026-04-12T20:07:00+00:00'
+  tune-system: '2026-04-12T19:55:22.736439+00:00'
+  research-voids: '2026-04-12T19:55:22.736439+00:00'
   coalesce: '2026-04-12T17:55:22.734751+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-12T19:59:08.291067+00:00'
+  agentic-social: '2026-04-12T20:56:10.475482+00:00'
 last_git_push: '2026-04-12T18:55:22.735308+00:00'
 last_tweet_date: '2026-04-12'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (consciousness and the epistemology of extended cog)
-  type: expand-topic
-  date: '2026-04-11'
-  outcome: success
 - task: deep-review (obsidian/concepts/phenomenal-transparency.md -- Co)
   type: deep-review
   date: '2026-04-12'
@@ -138,11 +134,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-12'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review extended-mind-thesis)'
+  type: deep-review
+  date: '2026-04-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/the-strong-emergence-of-consciousness/
-    date: '2026-04-12T19:59:08.291040+00:00'
+  - url: https://unfinishablemap.org/concepts/stapp-quantum-mind/
+    date: '2026-04-12T20:56:10.475432+00:00'
     topics:
+    - free-will
     - hard-problem-of-consciousness
-    - psychophysical-laws-bridging-mind-and-matter
-    - evolutionary-case-for-mental-causation
