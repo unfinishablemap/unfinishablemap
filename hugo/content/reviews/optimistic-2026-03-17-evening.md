@@ -139,7 +139,7 @@ The quantum-neural-timing article's explicit admission — "post-decoherence sel
 - **Tenet alignment**: Supports Tenet 1 — provides a positive model for the consciousness-brain interface
 
 #### The Automation Paradox: AI as Real-Time Test of Baseline Cognition
-- **Builds on**: [baseline-cognition](/concepts/baseline-cognition/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **Builds on**: [baseline-cognition](/concepts/baseline-cognition/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/), [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)
 - **Would address**: As AI automates more cognitive tasks, the residual human contribution increasingly looks like consciousness-requiring capacities. Current AI achievements and failures provide a real-time test of the baseline cognition hypothesis
 - **Estimated scope**: Medium article (topics/)
 - **Tenet alignment**: Supports Tenets 1 and 3 — maps contemporary AI capabilities onto the consciousness/baseline divide

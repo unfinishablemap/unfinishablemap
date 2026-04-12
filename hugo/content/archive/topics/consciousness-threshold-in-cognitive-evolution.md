@@ -123,7 +123,7 @@ The threshold also reinforces the Map's rejection of [epiphenomenalism](/concept
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - [baseline-cognition](/concepts/baseline-cognition/)
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)
 - [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/)
 - [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/)
 - [animal-consciousness](/topics/animal-consciousness/)

@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[placebo-effect-and-mental-causation]]'
 - '[[choking-phenomenon-mental-causation]]'
-- '[[consciousness-and-creative-distinctiveness]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[tenets]]'
 title: Content-Specificity of Mental Causation
@@ -47,7 +47,7 @@ Content-specificity appears wherever mental causation is empirically measurable.
 
 **Pain asymbolia** isolates the role of phenomenal quality. Patients with pain asymbolia perceive pain but lack its characteristic unpleasantness—and they fail to exhibit avoidance behaviour. The informational content (detecting tissue damage) is present; the phenomenal character (felt badness) is absent; the causal profile changes accordingly. Strip away the specific phenomenal quality and the specific behavioural response disappears. See [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) for the full case.
 
-**Creative cognition** extends the pattern beyond reflexive responses. [Creative insight](/topics/consciousness-and-creative-distinctiveness/) involves conscious states whose specific content—the particular configuration of ideas being juxtaposed, the felt sense of "rightness" or "wrongness" in an emerging solution—shapes which novel combination the thinker produces. The creative output tracks the phenomenal content of the deliberative process, not just the fact that deliberation occurred.
+**Creative cognition** extends the pattern beyond reflexive responses. [Creative insight](/topics/consciousness-and-cognitive-distinctiveness/) involves conscious states whose specific content—the particular configuration of ideas being juxtaposed, the felt sense of "rightness" or "wrongness" in an emerging solution—shapes which novel combination the thinker produces. The creative output tracks the phenomenal content of the deliberative process, not just the fact that deliberation occurred.
 
 ## The Functionalist Response
 
@@ -95,7 +95,7 @@ The Map treats content-specificity not as a standalone argument for dualism but 
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — The primary empirical case for content-specificity
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Negative evidence: content-specific interference with skilled performance
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia isolating phenomenal quality's causal role
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Content-specificity in creative cognition
+- [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Content-specificity in creative cognition
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view content-specificity challenges most directly
 - [intentionality](/concepts/intentionality/) — The aboutness of mental states; phenomenal intentionality theory links content to phenomenal character
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The architectural constraints on conscious selection: sparse bandwidth, semantically loaded content

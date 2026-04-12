@@ -32,7 +32,7 @@ related_articles:
 - '[[consciousness-evolution-and-biology]]'
 title: The Evolutionary Case for Mental Causation
 topics:
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -179,7 +179,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — How consciousness might have emerged and developed
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain as the strongest evidence that phenomenal character tracks adaptive value
 - [evolutionary-case-for-quantum-neural-effects](/topics/evolutionary-case-for-quantum-neural-effects/) — Why evolution likely built the quantum substrate for mental causation
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — The broader relationship between the two
+- [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — The broader relationship between the two
 - [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — Why biology's function concepts struggle with consciousness
 - [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/) — Apex synthesis: the phenomenological profile that evolution predicts for a causally efficacious consciousness
 

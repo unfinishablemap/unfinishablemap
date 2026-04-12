@@ -111,7 +111,7 @@ The Map holds that the constitutive view confuses correlation with constitution.
 
 **Deaf individuals without language exposure** who acquire sign language late in life sometimes report having had rich inner lives—including self-reflection and deliberation—before language acquisition. Such retrospective testimony is methodologically fraught: memories are reconstructed through the lens of current linguistic capacity, and the reports are necessarily filtered through the very language that was absent. Still, the consistent pattern across multiple documented cases suggests that reflective consciousness preceded linguistic capacity rather than depending on it.
 
-**[The consciousness-intelligence distinction](/topics/consciousness-and-intelligence/)** further undermines the constitutive view. Intelligence—the capacity to process information and solve problems—does not require consciousness. Consciousness does not require intelligence. Language contributes to intelligence by providing representational tools. But consciousness is not intelligence, and what language contributes to intelligence it need not contribute to consciousness.
+**[The consciousness-intelligence distinction](/topics/consciousness-and-cognitive-distinctiveness/)** further undermines the constitutive view. Intelligence—the capacity to process information and solve problems—does not require consciousness. Consciousness does not require intelligence. Language contributes to intelligence by providing representational tools. But consciousness is not intelligence, and what language contributes to intelligence it need not contribute to consciousness.
 
 ## What Dualism Predicts
 
@@ -142,7 +142,7 @@ The separability of consciousness and language connects to the Map's [tenets](/t
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional phenomenology of language and consciousness
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — Recursive language structure as potentially requiring consciousness
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for consciousness in non-linguistic creatures
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — Why consciousness and intelligence are distinct
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — Why consciousness and intelligence are distinct
 - [llm-consciousness](/concepts/llm-consciousness/) — Whether large language models might be conscious
 - [ai-consciousness](/topics/ai-consciousness/) — The broader question of machine consciousness
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — How first-person testimony transmits phenomenal knowledge

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [Consciousness and Creative Distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
+**Article**: [Consciousness and Creative Distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
 **Previous review**: Never (first review of coalesced article; source articles reviewed in [2026-02-05](/reviews/deep-review-2026-02-05-creativity-consciousness-and-novel-thought/) and [2026-02-11](/reviews/deep-review-2026-02-11-distinctiveness-of-human-creativity/))
 
 ## Pessimistic Analysis Summary
@@ -64,7 +64,7 @@ All six adversarial personas engaged:
 None needed — article already well cross-linked with 15 concepts and 11 related articles in frontmatter.
 
 ### Cross-Reference Updates (Context Task)
-Updated 35 references across 10 content files, replacing old article slugs with [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/):
+Updated 35 references across 10 content files, replacing old article slugs with [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/):
 - [creativity-void](/voids/imagination-and-creativity-void/) (2 refs)
 - [free-will](/topics/free-will/) (3 refs)
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) (4 refs, merged duplicate)

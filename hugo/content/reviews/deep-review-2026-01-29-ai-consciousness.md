@@ -63,7 +63,7 @@ None new.
    - IIT predictive success: clarified as testable predictions with experimental confirmation
 
 ### Cross-links Added
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)
 
 ## Changes Summary
 

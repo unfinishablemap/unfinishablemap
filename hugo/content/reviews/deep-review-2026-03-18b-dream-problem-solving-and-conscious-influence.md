@@ -46,14 +46,14 @@ This review was triggered specifically to address orphan status by finding addit
 ### Enhancements Made
 - Added cross-link from [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — dream evidence grounds the creativity argument empirically
 - Added cross-link from [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — dream phenomenal mode tracking is paradigmatic for this topic
-- Added cross-link from [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — dream problem-solving supports the consciousness-enables-intelligence thesis
+- Added cross-link from [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — dream problem-solving supports the consciousness-enables-intelligence thesis
 - Added cross-link from [baseline-cognition](/concepts/baseline-cognition/) — species restriction of dream problem-solving despite universal REM supports phenomenal richness hypothesis
 - Added cross-link from [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — dreams exemplify vivid P-consciousness without external input
 
 ### Cross-links Added
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) → [dream-consciousness](/topics/dream-consciousness/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) → [dream-consciousness](/topics/dream-consciousness/)
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) → [dream-consciousness](/topics/dream-consciousness/)
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) → [dream-consciousness](/topics/dream-consciousness/)
 - [baseline-cognition](/concepts/baseline-cognition/) → [dream-consciousness](/topics/dream-consciousness/)
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) → [dream-consciousness](/topics/dream-consciousness/)
 

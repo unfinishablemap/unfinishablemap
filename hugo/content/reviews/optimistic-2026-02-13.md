@@ -133,7 +133,7 @@ The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-an
 - **Tenet alignment**: Central to tenets 1-4; would be a signature piece connecting physics and philosophy of mind
 
 #### Childhood Development and the Interface
-- **Builds on**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/), [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/), [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **Builds on**: [consciousness-in-simple-organisms](/topics/consciousness-in-simple-organisms/), [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/), [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)
 - **Would address**: How the consciousness-matter interface develops in childhood. Piaget's stages, theory of mind development, and the emergence of metacognition offer developmental evidence about how consciousness increasingly engages with neural systems. The Map lacks developmental perspectives.
 - **Estimated scope**: Medium article (1000-1500 words)
 - **Tenet alignment**: Bidirectional interaction (consciousness-interface development over time), Occam's limits (developmental phenomena resist simple explanation)

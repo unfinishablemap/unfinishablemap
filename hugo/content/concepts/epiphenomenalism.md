@@ -22,7 +22,7 @@ concepts:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenal-consciousness]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[llm-consciousness]]'
 created: 2026-01-09
 date: &id001 2026-03-27

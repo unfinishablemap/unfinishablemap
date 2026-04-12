@@ -33,7 +33,7 @@ related_articles:
 - '[[language-thought-boundary]]'
 - '[[consciousness-and-testimony]]'
 - '[[animal-consciousness]]'
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[llm-consciousness]]'
 - '[[ai-consciousness]]'
 - '[[consciousness-and-the-phenomenology-of-translation]]'
@@ -185,7 +185,7 @@ The Map holds that this confuses correlation with constitution. Language and hig
 
 **Deaf individuals without language exposure** who acquire sign language late in life sometimes report having had rich inner lives—including self-reflection and deliberation—before language acquisition. Such retrospective testimony is methodologically fraught, but the consistent pattern across documented cases suggests that reflective consciousness preceded linguistic capacity.
 
-**[The consciousness-intelligence distinction](/topics/consciousness-and-intelligence/)** further undermines the constitutive view. Intelligence—the capacity to process information and solve problems—does not require consciousness. Consciousness does not require intelligence. Language contributes to intelligence by providing representational tools. But consciousness is not intelligence, and what language contributes to intelligence it need not contribute to consciousness.
+**[The consciousness-intelligence distinction](/topics/consciousness-and-cognitive-distinctiveness/)** further undermines the constitutive view. Intelligence—the capacity to process information and solve problems—does not require consciousness. Consciousness does not require intelligence. Language contributes to intelligence by providing representational tools. But consciousness is not intelligence, and what language contributes to intelligence it need not contribute to consciousness.
 
 ## The Lossy Bidirectional Channel
 
@@ -265,7 +265,7 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language may require consciousness
 - [language-thought-boundary](/voids/language-thought-boundary/) — The limits where thought exceeds language
 - [animal-consciousness](/topics/animal-consciousness/) — Evidence for consciousness in non-linguistic creatures
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — Why consciousness and intelligence are distinct
+- [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — Why consciousness and intelligence are distinct
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — How first-person testimony transmits phenomenal knowledge
 - [llm-consciousness](/concepts/llm-consciousness/) — Whether large language models might be conscious
 - [ai-consciousness](/topics/ai-consciousness/) — The broader question of machine consciousness

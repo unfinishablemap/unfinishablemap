@@ -64,7 +64,7 @@ related_articles:
 - '[[phenomenology-of-musical-understanding]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
-- '[[consciousness-and-creative-distinctiveness]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[consciousness-and-mathematics]]'
 - '[[creativity-void]]'
 - '[[consciousness-and-skill-acquisition]]'
@@ -158,7 +158,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The five standard varieties of phenomenal binding
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
+- [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out

@@ -31,7 +31,7 @@ related_articles:
 - '[[ethics-of-cognitive-enhancement-under-dualism]]'
 title: The Self-Transcendence Void
 topics:
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[cognitive-science-of-dualism]]'
 ---
 

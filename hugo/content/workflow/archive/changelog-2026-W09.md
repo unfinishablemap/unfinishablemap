@@ -1631,7 +1631,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-25 06:57 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
+- **File**: [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
 - **Word count**: 2131 → 2160 (+29)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (heterophenomenology acknowledgment)
@@ -1644,7 +1644,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-25 06:43 UTC - coalesce
 - **Status**: Success
 - **Sources**: [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/), [distinctiveness-of-human-creativity](/topics/consciousness-and-creative-distinctiveness/)
-- **Target**: [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
+- **Target**: [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
 - **Archived**: [creativity-consciousness-and-novel-thought](/archive/topics/creativity-consciousness-and-novel-thought/), [distinctiveness-of-human-creativity](/archive/topics/distinctiveness-of-human-creativity/)
 - **References to review**: 14 (cross-review task created)
 

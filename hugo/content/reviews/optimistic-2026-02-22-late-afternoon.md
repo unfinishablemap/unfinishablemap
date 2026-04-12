@@ -148,7 +148,7 @@ McGinn would appreciate the Map's fifth tenet—Occam's Razor Has Limits—which
 | [contemplative-epistemology](/concepts/contemplative-epistemology/) | rehabilitating-introspection | Trained contemplative observation is the strongest case for introspection's reliability |
 | [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | filter-theory-of-consciousness | Samkhya's model (consciousness filtered through buddhi/manas) is a classical filter theory |
 | [process-philosophy](/concepts/process-philosophy/) | [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/) | Whitehead's concrescence directly supports temporal creativity's metaphysical claims |
-| the-evolutionary-case-for-mental-causation | [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) | Great ape evidence bridges evolutionary arguments with intelligence-consciousness relationship |
+| the-evolutionary-case-for-mental-causation | [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) | Great ape evidence bridges evolutionary arguments with intelligence-consciousness relationship |
 
 ## New Concept Pages Needed
 

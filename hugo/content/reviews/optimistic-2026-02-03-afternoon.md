@@ -109,7 +109,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Tenet alignment**: Supports Bidirectional Interaction by showing conscious practice reshapes neural patterns; undermines illusionism by showing phenomenal access improves with training
 
 #### Counterfactual Reasoning and Consciousness
-- **Builds on**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/), [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), [free-will](/topics/free-will/)
+- **Builds on**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/), [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/), [free-will](/topics/free-will/)
 - **Would address**: Full treatment of why genuine deliberation requires consciousness—the Bischof-Köhler hypothesis, working memory constraints, great ape comparative evidence
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing consciousness enables cognitive capacities unconscious processing cannot achieve
@@ -135,7 +135,7 @@ This combination of rigorous philosophical argument with humility about limits i
 - **Tenet alignment**: Tests framework against hard cases; has implications for ethics of consciousness
 
 #### Machine Learning vs. Human Learning: The Consciousness Gap
-- **Builds on**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), [llm-consciousness](/concepts/llm-consciousness/), [machine-consciousness](/topics/machine-consciousness/)
+- **Builds on**: [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/), [llm-consciousness](/concepts/llm-consciousness/), [machine-consciousness](/topics/machine-consciousness/)
 - **Would address**: Why AI excels at pattern recognition but fails at understanding—consciousness enables flexible access and novel combination that training data cannot provide
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Dualism by showing why substrate matters; connects to contemporary AI debates
@@ -154,7 +154,7 @@ This combination of rigorous philosophical argument with humility about limits i
 |------|-----|--------|
 | [binding-problem](/concepts/binding-problem/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Binding operates across time in episodic memory, not just space |
 | [quantum-consciousness](/concepts/quantum-consciousness/) | [free-will](/topics/free-will/) | Both depend on quantum indeterminacy; deepen the connection |
-| [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Great ape gap evidence supports amplifier framework |
+| [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | Great ape gap evidence supports amplifier framework |
 | [contemplative-neuroscience-integration](/concepts/contemplative-neuroscience/) | [illusionism](/concepts/illusionism/) | Meditation evidence undermines illusionism |
 | [filter-theory](/concepts/filter-theory/) | [evolution-of-consciousness](/concepts/evolution-of-consciousness/) | Evolution favours consciousness if it filters/configures neural activity |
 | [sleep-and-consciousness](/concepts/sleep-and-consciousness/) | [prebiotic-collapse](/concepts/prebiotic-collapse/) | Both show binding without consciousness; parallel cases |

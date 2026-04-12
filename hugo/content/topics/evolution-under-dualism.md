@@ -39,7 +39,8 @@ related_articles:
 - '[[animal-consciousness]]'
 - '[[quantum-biology-and-neural-consciousness]]'
 - '[[biological-teleology-and-the-interface-framework]]'
-- '[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness threshold in cognitive
+  evolution]]'
 - '[[comparative-consciousness-and-interface-differences]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 title: Evolution Under Dualism
@@ -177,7 +178,7 @@ None of these would refute dualism itself. They would undermine the specific evo
 - [free-will](/topics/free-will/) — Agent teleology and libertarian agency
 - [animal-consciousness](/topics/animal-consciousness/) — Convergent consciousness across species
 - [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/) — How the interface framework transforms biological teleology
-- [consciousness threshold in cognitive evolution](/topics/consciousness-and-intelligence/) — The cognitive discontinuity at the threshold
+- [consciousness threshold in cognitive evolution](/topics/consciousness-and-cognitive-distinctiveness/) — The cognitive discontinuity at the threshold
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — How the interface varies across species
 
 ## References

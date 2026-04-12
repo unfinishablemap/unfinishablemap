@@ -25,7 +25,8 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
 - '[[counterfactual-void]]'
-- '[[consciousness-and-intelligence|consciousness threshold in cognitive evolution]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness threshold in cognitive
+  evolution]]'
 title: Consciousness and Counterfactual Reasoning
 topics:
 - '[[topics/free-will]]'
@@ -56,7 +57,7 @@ This dual representation has specific cognitive demands:
 
 **Evaluative comparison**: The point of counterfactual reasoning is typically to draw a conclusion—regret, relief, planning, learning. This requires comparing the actual and counterfactual scenarios against values or goals. The comparison is not merely computational but phenomenally present: we *feel* the regret of the better alternative not taken.
 
-[Working memory](/concepts/working-memory/) capacity constrains this dual representation. Current research estimates human working memory at roughly 4±1 chunks (Cowan, 2001), substantially less than the older 7±2 estimate; great apes manage around 2±1. Great apes show some capacity for future-oriented cognition—tool caching, simple planning, and anticipation of others' actions—suggesting they are not entirely confined to the present. But the *extended* counterfactual reasoning characteristic of humans—constructing elaborate alternative histories, reasoning about unrealised possibilities across multiple causal steps, sustaining the dual-status awareness described here—appears qualitatively limited in non-human primates. This pattern aligns with the prediction that full dual representation demands conscious workspace capacity beyond what [baseline cognition](/concepts/baseline-cognition/) provides. The [consciousness threshold](/topics/consciousness-and-intelligence/) article argues that counterfactual reasoning is one of a cluster of capacities—alongside logical reasoning, cumulative culture, and declarative metacognition—that emerge together at a specific point in cognitive evolution where consciousness becomes sufficiently integrated with neural architecture.
+[Working memory](/concepts/working-memory/) capacity constrains this dual representation. Current research estimates human working memory at roughly 4±1 chunks (Cowan, 2001), substantially less than the older 7±2 estimate; great apes manage around 2±1. Great apes show some capacity for future-oriented cognition—tool caching, simple planning, and anticipation of others' actions—suggesting they are not entirely confined to the present. But the *extended* counterfactual reasoning characteristic of humans—constructing elaborate alternative histories, reasoning about unrealised possibilities across multiple causal steps, sustaining the dual-status awareness described here—appears qualitatively limited in non-human primates. This pattern aligns with the prediction that full dual representation demands conscious workspace capacity beyond what [baseline cognition](/concepts/baseline-cognition/) provides. The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article argues that counterfactual reasoning is one of a cluster of capacities—alongside logical reasoning, cumulative culture, and declarative metacognition—that emerge together at a specific point in cognitive evolution where consciousness becomes sufficiently integrated with neural architecture.
 
 ## Why Physicalism Struggles
 

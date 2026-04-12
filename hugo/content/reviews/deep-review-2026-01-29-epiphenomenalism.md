@@ -33,7 +33,7 @@ None. Article remains stable after fourth review.
    - **Resolution**: Fixed the wikilink to point to correct file.
 
 2. **Missing bidirectional cross-reference**: The new `consciousness-and-intelligence.md` article explicitly discusses epiphenomenalism as a rival position, but epiphenomenalism.md did not link back to it.
-   - **Resolution**: Added `[consciousness-and-intelligence](/topics/consciousness-and-intelligence/)` to concepts frontmatter.
+   - **Resolution**: Added `[consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)` to concepts frontmatter.
 
 ### Counterarguments Considered
 
@@ -64,7 +64,7 @@ All six adversarial personas applied with cross-review focus:
 
 ### Cross-links Added
 
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) (in concepts frontmatter)
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) (in concepts frontmatter)
 
 ## Length Management
 

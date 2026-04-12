@@ -55,7 +55,7 @@ related_articles:
 title: Consciousness, Evolution, and the Limits of Biology
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[consciousness-in-simple-organisms]]'
 - '[[the-strong-emergence-of-consciousness]]'
 ---

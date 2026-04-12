@@ -81,7 +81,7 @@ The Map shows appropriate epistemic humility throughout. [epistemic-advantages-o
 ### High Priority
 
 #### Aesthetic Consciousness and the Interface
-- **Builds on**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/), [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
+- **Builds on**: [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/), [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/), [phenomenal-normativity](/concepts/evaluative-phenomenal-character/)
 - **Would address**: The Map has extensive treatment of cognitive and moral phenomenology but limited development of aesthetic experience as evidence for dualist claims. The phenomenology of beauty, sublimity, and artistic creation involves qualitative experiences that resist functional reduction with particular force.
 - **Estimated scope**: Medium article (1500-2000 words)
 - **Tenet alignment**: Dualism (aesthetic qualia resist reduction), Bidirectional Interaction (artistic creation demonstrates consciousness selecting), Occam's Razor Has Limits (aesthetic experience is data, not distraction)

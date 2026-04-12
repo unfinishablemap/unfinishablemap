@@ -3685,8 +3685,8 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-25 02:25 UTC - coalesce
 - **Status**: Success
-- **Sources**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)
-- **Target**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **Sources**: [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/), [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/)
+- **Target**: [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)
 - **Archived**: [consciousness-threshold-in-cognitive-evolution](/archive/topics/consciousness-threshold-in-cognitive-evolution/)
 - **References to review**: 19 active content files updated (wikilinks replaced)
 - **Published**: yes

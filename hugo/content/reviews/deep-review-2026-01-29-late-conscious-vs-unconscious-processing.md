@@ -60,13 +60,13 @@ All six adversarial personas engaged. No new counterarguments requiring response
 
 ### Enhancements Made
 
-1. **Added [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) to related_articles frontmatter**: Cross-referencing the closely related article
-2. **Added [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) to Further Reading**: With description "How consciousness enables human-level intelligence beyond baseline cognition"
+1. **Added [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) to related_articles frontmatter**: Cross-referencing the closely related article
+2. **Added [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) to Further Reading**: With description "How consciousness enables human-level intelligence beyond baseline cognition"
 
 ### Cross-links Added
 
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) (in related_articles frontmatter)
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) (in Further Reading section)
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) (in related_articles frontmatter)
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) (in Further Reading section)
 
 ## Word Count
 
@@ -86,7 +86,7 @@ This article has now been reviewed three times (2026-01-25, 2026-01-29 early, 20
 
 2. **Philosophical standoffs are acknowledged**: The "Why the Physicalist Reading Fails" section engages with materialist objections substantively. Future reviews should not re-flag these as issues needing resolution.
 
-3. **Cross-linking now complete**: With the addition of [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), the article properly connects to the Map's treatment of how consciousness contributes to intelligence. The two articles complement each other—this one focuses on empirical evidence, that one on the broader thesis.
+3. **Cross-linking now complete**: With the addition of [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/), the article properly connects to the Map's treatment of how consciousness contributes to intelligence. The two articles complement each other—this one focuses on empirical evidence, that one on the broader thesis.
 
 4. **Length is a constraint**: At 137% of soft threshold, the article cannot expand further without equivalent cuts. Future enhancements should prioritize condensation or extraction of content to dedicated articles rather than addition.
 

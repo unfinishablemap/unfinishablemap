@@ -9,6 +9,40 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-12 18:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
+- **Word count**: 2305 → 2296 (-9)
+- **Critical issues addressed**: 2 (unused Searle reference, imprecise zone-of-latent-solutions attribution)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 39 files updated with corrected wikilinks from archived source articles
+- **Output**: [deep-review-2026-04-12-consciousness-and-cognitive-distinctiveness](/reviews/deep-review-2026-04-12-consciousness-and-cognitive-distinctiveness/)
+
+## 2026-04-12 17:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/), [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
+- **Target**: [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
+- **Archived**: archive/topics/consciousness-and-intelligence.md, archive/topics/consciousness-and-creative-distinctiveness.md
+- **References to review**: 39 files (27 + 12)
+
+## 2026-04-12 16:56 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Word count**: 3038 → 2948 (-90)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (duplicate Further Reading entries, word count above soft threshold)
+- **Enhancements made**: 0 (prose tightening only — article at convergence after 8th review)
+- **Output**: [deep-review-2026-04-12b-introspection](/reviews/deep-review-2026-04-12b-introspection/)
+
+## 2026-04-12 15:56 UTC - deep-review
+- **Status**: Success
+- **File**: [functional-seeming](/concepts/functional-seeming/)
+- **Word count**: 1254 → 1359 (+105)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (uncited references, missing tenet, missing cross-link)
+- **Enhancements made**: 5 (Kammerer citation, Bidirectional Interaction tenet, self-stultification link, illusionism cross-link, removed orphaned Strawson ref)
+- **Output**: [deep-review-2026-04-12-functional-seeming](/reviews/deep-review-2026-04-12-functional-seeming/)
+
 ## 2026-04-12 14:56 UTC - deep-review
 - **Status**: Success (no changes needed — article stable)
 - **File**: [phenomenal-transparency](/concepts/phenomenal-transparency/)

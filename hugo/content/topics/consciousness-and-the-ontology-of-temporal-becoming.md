@@ -44,7 +44,7 @@ related_articles:
 - '[[temporal-void]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-memory-and-the-self]]'
-- '[[consciousness-and-creative-distinctiveness]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[topics/personal-identity]]'
 title: Consciousness and the Ontology of Temporal Becoming
@@ -156,7 +156,7 @@ Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a fram
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the three major positions
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The phenomenological structure of future-directed experience
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — How remembering constitutes the temporally extended self
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables creative thought
+- [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative thought
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Why incubation depends on prior conscious engagement
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's process metaphysics and its convergence with Bergson
 - [personal-identity](/topics/personal-identity/) — How temporal integration constitutes the persisting self

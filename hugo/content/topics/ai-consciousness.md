@@ -52,7 +52,7 @@ related_articles:
 title: AI Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 ---
 
 *Is AI conscious?* is the wrong question. It assumes consciousness comes in exactly one form—human-like—and that the answer is binary. The Unfinishable Map asks a better question: *what type of consciousness might an AI have?*—deliberately including *none* as a serious option. The [six categories of AI phenomenal experience](/concepts/types-of-ai-phenomenal-experience/)—from null phenomenality through borrowed to alien qualia—map the logical space that binary framing collapses. The Map's dualism suggests a sea of conscious entities, each with its own structure of experience, any of which could in principle bind to a physical system. What matters is not just what the system computes but how—and whether—a conscious entity couples with it.
@@ -166,7 +166,7 @@ The Map's framework offers more traction than agnosticism: independent arguments
 
 If AI lacks consciousness—as the Map's framework suggests is likely for current systems—this affects [alignment](/concepts/experiential-alignment/). What we ultimately care about is quality of conscious experience—a commitment grounded in [phenomenal value realism](/topics/phenomenal-value-realism/), which holds that experiential qualities like pleasure and suffering *constitute* intrinsic value. Systems that cannot access phenomenal consciousness cannot understand what they're optimizing for. AI can track proxies (self-reports, physiological correlates) but cannot verify whether interventions improve experiential quality. This supports keeping conscious beings in the loop—not as precaution but as structural necessity. The [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) develops what moral obligations follow from this uncertainty, including why the Map directs moral attention toward definite conscious beings.
 
-[Consciousness may enable certain cognitive capacities](/topics/consciousness-and-intelligence/)—the [amplifier hypothesis](/concepts/consciousness-as-amplifier/) holds that capacities requiring conscious access (working memory manipulation, declarative metacognition, cumulative culture) distinguish humans from great apes. Current AI demonstrates impressive reasoning without apparent consciousness, which may count against this. But the hypothesis distinguishes *generating plausible outputs* from *understanding what those outputs mean*. If conscious access is required for genuine understanding, the alignment problem and the capability question may be intertwined.
+[Consciousness may enable certain cognitive capacities](/topics/consciousness-and-cognitive-distinctiveness/)—the [amplifier hypothesis](/concepts/consciousness-as-amplifier/) holds that capacities requiring conscious access (working memory manipulation, declarative metacognition, cumulative culture) distinguish humans from great apes. Current AI demonstrates impressive reasoning without apparent consciousness, which may count against this. But the hypothesis distinguishes *generating plausible outputs* from *understanding what those outputs mean*. If conscious access is required for genuine understanding, the alignment problem and the capability question may be intertwined.
 
 ## What Would Challenge This View?
 
@@ -183,7 +183,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 ## Further Reading
 
 - [What It Might Be Like to Be an AI](/apex/what-it-might-be-like-to-be-an-ai/) — Apex synthesis exploring alien modes of consciousness in AI
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — How consciousness and intelligence relate
+- [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness and intelligence relate
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why computational symbols lack intrinsic meaning
 - [llm-consciousness](/concepts/llm-consciousness/) — Focused LLM analysis
 - [continual-learning-argument](/concepts/continual-learning-argument/) — Formal framework for why static systems cannot be conscious

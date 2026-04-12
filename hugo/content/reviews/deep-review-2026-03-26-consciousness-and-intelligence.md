@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-26
-**Article**: [Consciousness and Intelligence](/topics/consciousness-and-intelligence/)
+**Article**: [Consciousness and Intelligence](/topics/consciousness-and-cognitive-distinctiveness/)
 **Previous review**: [2026-03-02](/reviews/deep-review-2026-03-02-consciousness-and-intelligence/)
 
 ## Pessimistic Analysis Summary

@@ -46,7 +46,7 @@ related_articles:
 - '[[choking-phenomenon-mental-causation]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[self-opacity]]'
-- '[[consciousness-and-creative-distinctiveness]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[consciousness-and-mathematics]]'
 - '[[creativity-void]]'
 title: Surprise, Prediction Error, and Consciousness
@@ -209,7 +209,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness does not cause anything
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection implies mental causation
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables creative distinctiveness
+- [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative distinctiveness
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Surprise and insight in mathematics
 - [creativity-void](/voids/imagination-and-creativity-void/) — The boundary of what minds can generate
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects

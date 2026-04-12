@@ -54,7 +54,7 @@ title: Consciousness and Memory
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[temporal-structure-of-consciousness]]'
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[personal-identity]]'
 ---
 

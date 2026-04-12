@@ -205,7 +205,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) — How remembering constitutes the temporally extended self
 - [temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology and consciousness theories form natural pairings
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and temporal ontology
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables creative thought
+- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative thought
 - [bergson-and-duration](/topics/bergson-and-duration/) — Bergson's philosophy of durée and creative evolution
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Why incubation depends on prior conscious engagement
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview

@@ -35,7 +35,7 @@ last_deep_review: 2026-03-31 13:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-intelligence]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]'
 - '[[neural-correlates-conscious-unconscious-processing-2026-01-23]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'
@@ -258,7 +258,7 @@ The 2025 reanalysis reveals that decades of "simpler" interpretations (extensive
 
 ## Further Reading
 
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) — How consciousness enables human-level intelligence beyond baseline cognition
+- [consciousness and intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables human-level intelligence beyond baseline cognition
 - [The Habituation Void](/voids/disappearance-voids/) — How the familiar drops out of conscious processing while remaining functional
 - [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) — How quantum mechanisms can operate within neural timescales
 - [argument-from-reason](/topics/argument-from-reason/) — Why reasoning about consciousness requires consciousness to be causally efficacious

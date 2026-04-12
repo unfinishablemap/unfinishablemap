@@ -82,7 +82,7 @@ All checks passed:
 ### Cross-links Present
 
 Article has comprehensive cross-linking established in previous reviews:
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) in related_articles and Further Reading
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) in related_articles and Further Reading
 - Full set of 16 related concepts in frontmatter
 
 ## Word Count

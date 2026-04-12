@@ -127,7 +127,7 @@ A potential objection: much aesthetic creation involves trained skill—craft—
 
 The objection has force but misidentifies the role of consciousness. Craft automises *execution*, not *direction*. The pianist's trained fingers handle the physical demands of performance, but the musical direction—phrasing, dynamics, expressive shaping—is guided by real-time phenomenal experience. The potter's trained hands maintain the vessel's form, but the aesthetic decision about what form to pursue operates through felt judgment. Craft frees consciousness from managing physical execution so that it can guide aesthetic intention more precisely.
 
-The [consciousness and creative distinctiveness](/topics/consciousness-and-creative-distinctiveness/) article makes a parallel point about meaning-sensitive selection. Craft provides the infrastructure; consciousness provides the artistic direction. The infrastructure can be automated; the direction cannot, because it depends on phenomenal states that are constitutively experiential. Dewey (1934) captures this in his account of art as *experience*: the aesthetic quality of creation inheres in the process of making, not merely in the finished product. The potter's skilled hands and aesthetic consciousness are not separate systems but aspects of a unified experiential engagement with material.
+The [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) article makes a parallel point about meaning-sensitive selection. Craft provides the infrastructure; consciousness provides the artistic direction. The infrastructure can be automated; the direction cannot, because it depends on phenomenal states that are constitutively experiential. Dewey (1934) captures this in his account of art as *experience*: the aesthetic quality of creation inheres in the process of making, not merely in the finished product. The potter's skilled hands and aesthetic consciousness are not separate systems but aspects of a unified experiential engagement with material.
 
 ## What Would Challenge This View?
 
@@ -155,7 +155,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Beauty's pervasiveness, for-ness, and evidential force for dualism
 - [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Why beauty resists reduction across substrates and even in formally precise cases
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
+- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
 - [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creativity as the sharpest case for consciousness as causal force
 - [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits revealed by profound aesthetic encounter
 - [creativity-void](/voids/imagination-and-creativity-void/) — The inaccessibility of creative origins

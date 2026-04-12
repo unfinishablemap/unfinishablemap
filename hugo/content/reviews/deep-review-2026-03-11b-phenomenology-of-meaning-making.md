@@ -59,7 +59,7 @@ This review was triggered by orphan integration: the article had zero inbound li
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Added to Further Reading
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — Added to Further Reading
 - [meaning-of-life](/topics/meaning-of-life/) — Added to Further Reading (Consciousness and Experience subsection)
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) — Added to Further Reading
+- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Added to Further Reading
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Added to Further Reading (reciprocal)
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — Added to Further Reading (reciprocal)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Added to Further Reading (reciprocal)

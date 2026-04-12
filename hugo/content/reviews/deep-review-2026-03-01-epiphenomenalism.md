@@ -86,7 +86,7 @@ All six adversarial personas applied:
 
 All wikilinks verified as pointing to existing files. Key cross-references intact:
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) (updated from coalesced name)
-- [consciousness-and-intelligence](/topics/consciousness-and-intelligence/) (added in previous review, verified as topics/ file)
+- [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) (added in previous review, verified as topics/ file)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) (verified as concepts/ file)
 
 ## Length Management

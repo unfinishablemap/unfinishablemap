@@ -109,7 +109,7 @@ A telling asymmetry complicates GWT's equation of workspace presence with consci
 
 ### The Amplification Hypothesis
 
-The global workspace may explain *how* [consciousness amplifies cognition](/concepts/consciousness-as-amplifier/). Chimpanzee working memory holds approximately 2±1 items versus human 4±1 (Cowan 2001, revising Miller's classic 7±2). The [consciousness threshold](/topics/consciousness-and-intelligence/) article argues even this conservative two-fold expansion marks a phase transition—four items enable qualitatively new operations (logical reasoning, counterfactual thinking) that two items cannot support.
+The global workspace may explain *how* [consciousness amplifies cognition](/concepts/consciousness-as-amplifier/). Chimpanzee working memory holds approximately 2±1 items versus human 4±1 (Cowan 2001, revising Miller's classic 7±2). The [consciousness threshold](/topics/consciousness-and-cognitive-distinctiveness/) article argues even this conservative two-fold expansion marks a phase transition—four items enable qualitatively new operations (logical reasoning, counterfactual thinking) that two items cannot support.
 
 This reinterprets GWT's central claim: global broadcast isn't merely making information reportable—it's making information *manipulable*. The workspace enables cross-domain integration, flexible recombination, [metacognitive](/concepts/metacognition/) monitoring, and counterfactual simulation. Great apes show precisely the limitations expected if consciousness amplifies through the workspace: sophisticated within domain-specific modules, limited where global broadcast is required.
 

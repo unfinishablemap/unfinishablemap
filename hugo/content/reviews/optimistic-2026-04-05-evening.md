@@ -98,7 +98,7 @@ The Map's voids programme and the [epistemology-of-limit-knowledge](/concepts/ep
 - **Tenet alignment**: Supports Dualism (first-person evidence is irreducible) and Occam's Limits (excluding first-person evidence impoverishes inquiry)
 
 #### Developmental Emergence of Consciousness
-- **Builds on**: [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/), [consciousness-and-intelligence](/topics/consciousness-and-intelligence/), cetacean-corvid-consciousness
+- **Builds on**: [consciousness-evolution-problem](/topics/consciousness-evolution-and-biology/), [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/), cetacean-corvid-consciousness
 - **Would address**: When does consciousness emerge in human development? The Map has sophisticated evolutionary and comparative treatments but nothing on the developmental question—prenatal awareness, infant consciousness, the emergence of self-awareness, and what the developmental trajectory reveals about the interface model
 - **Estimated scope**: Long article
 - **Tenet alignment**: Bidirectional Interaction (developmental data on when consciousness begins influencing behaviour); Minimal Quantum Interaction (neural maturation may constrain when the interface activates)

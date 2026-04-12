@@ -586,7 +586,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-22 09:41 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
+- **File**: [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
 - **Word count**: 2161 → 2196 (+35)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (uncited timing claim → properly cited Kounios & Beeman 2009)
@@ -604,7 +604,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-22 09:11 UTC - refine-draft
 - **Status**: Success
-- **File**: [consciousness-and-intelligence](/topics/consciousness-and-intelligence/)
+- **File**: [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/)
 - **Changes**: Verified DeWall et al. (2008) citation is correct (not conflated with Lieberman). Restructured Great Ape Evidence section to fix circular argument: added "Why Enhanced Processing Alone Cannot Explain the Gap" subsection with three independent arguments (selective gap pattern, within-species DeWall experiments, neural complexity scaling). Expanded DeWall citation with experimental details.
 - **Published**: yes
 

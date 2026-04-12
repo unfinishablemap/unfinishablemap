@@ -44,7 +44,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
 - '[[defended-territory]]'
-- '[[consciousness-and-creative-distinctiveness]]'
+- '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[topics/free-will]]'
 - '[[process-and-consciousness]]'
 - '[[surprise-prediction-error-and-consciousness]]'
@@ -174,7 +174,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 - [spontaneous-thought-void](/voids/spontaneous-thought-void/) --- The same generative opacity pervading ordinary mentation
 - [aesthetic-void](/voids/aesthetic-void/) --- Where aesthetic content resists articulation
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) --- The generation-selection synthesis
-- [consciousness-and-creative-distinctiveness](/topics/consciousness-and-creative-distinctiveness/) --- How consciousness enables creative thought beyond baseline cognition
+- [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) --- How consciousness enables creative thought beyond baseline cognition
 - [conceptual-impossibility](/voids/conceptual-impossibility/) --- The experience of encountering formally unthinkable content
 - [synesthetic-void](/voids/synesthetic-void/) --- Phenomenal dimensions closed to most minds
 - [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) --- Whether radically different minds can probe our void

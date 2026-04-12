@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-22
-**Article**: [Consciousness and Creative Distinctiveness](/topics/consciousness-and-creative-distinctiveness/)
+**Article**: [Consciousness and Creative Distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-consciousness-and-creative-distinctiveness/)
 
 ## Pessimistic Analysis Summary
