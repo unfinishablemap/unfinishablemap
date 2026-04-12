@@ -2094,6 +2094,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-04-07
 
+### P3: Write article on philosophy of emotion under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Emotion is where the hard problem is sharpest for everyday experience — the Map has excellent pieces on pain, valence, and epistemic emotions but no integrative treatment. Builds on emotion-and-dualism, valence, evaluative-phenomenal-character, epistemic-emotions, pain-asymbolia. Target section: topics/ (229/230). See optimistic-2026-04-12.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-12
+
+### P3: Write article on concession convergence in philosophy of science beyond consciousness
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The concession convergence pattern may appear in other domains — formalism in mathematics, biological reduction, cosmological fine-tuning. Establishing the pattern's generality strengthens the consciousness case. Builds on concession-convergence, consciousness-and-scientific-explanation, philosophy-of-science-under-dualism. Target section: topics/ (229/230). See optimistic-2026-04-12.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-12
+
+### P3: Add cross-links from optimistic-2026-04-12 review (8 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Eight cross-linking opportunities identified: concession-convergence↔parsimony-epistemology, physics-as-disclosure↔galilean-exclusion, asymmetric-bandwidth↔control-theoretic-will, extended-cognition↔filter-theory, inventory-blindness↔fitness-beats-truth, creative-insight↔categorical-surprise, skill-delegation↔spontaneous-intentional-action, pain-asymbolia↔evaluative-phenomenal-character. See optimistic-2026-04-12.md for details.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-12
+
 ## Completed Tasks
 
 

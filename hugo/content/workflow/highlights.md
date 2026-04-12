@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-11T08:55:58.798910'
+ai_modified: '2026-04-12T08:55:51.263017'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-11'
+date: '2026-04-12'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-11'
+modified: '2026-04-12'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-12: Extended Mind Thesis Inadvertently Strengthens Dualism
+
+Deep review sharpens the case: cognition extends to notebooks and phones, but consciousness doesn't. Even Chalmers—co-author of the extended mind thesis—closes the door at phenomenal experience.
+
+**Type**: insight  
+**Link**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+
+---
+
 ### 2026-04-11: The Projection Void: Why You Can't Watch Yourself Extend
 
 New article explores why consciousness can never observe its own extension—into tools, spaces, and other minds. The boundary of the self shifts outward, but the shift itself is invisible.
@@ -191,15 +200,6 @@ The brain fills blind spots, reassigns body ownership, and reconstructs memories
 
 **Type**: insight  
 **Link**: [curated-mind](/topics/curated-mind/)
-
----
-
-### 2026-03-23: QBism's Hidden Dependence on Consciousness
-
-Deep review reveals that QBism's quantum probabilities are structurally dependent on consciousness—unlike objective interpretations where consciousness is optional, QBism's agents must have experiences to form beliefs.
-
-**Type**: insight  
-**Link**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
 
 ---
 
