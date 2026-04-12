@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-21 03:27:00+00:00
+ai_modified: 2026-04-12 08:57:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -146,7 +146,11 @@ Problem: past scientific progress explained phenomena by showing *how* they foll
 
 Dualism doesn't explain consciousness either—it just posits a soul or mental substance and leaves the hard problem equally unsolved. If materialism is stuck with mystery, so is everyone else.
 
-Problem: the Map doesn't claim to *explain* consciousness. The [Dualism](/tenets/#dualism) tenet holds that consciousness is fundamental, not derived from anything else. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim.
+Problem: the Map doesn't claim to *explain* consciousness. The [Dualism](/tenets/#dualism) tenet holds that consciousness is fundamental, not derived from anything else. Materialism claims consciousness derives from the physical—and must explain how. Dualism makes no such claim—but it does face its own explanatory burden.
+
+The interaction problem is genuine and serious. If consciousness is ontologically distinct from the physical, how does it causally engage with neural processes? Descartes located the interaction at the pineal gland, but no anatomical site resolves the conceptual difficulty: causal relations between categorically different substances lack any model or precedent in our experience. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases otherwise undetermined quantum outcomes—but this specifies *where* interaction occurs, not *how* a non-physical entity exerts causal influence on physical systems. The "how" remains genuinely open.
+
+What the Map maintains is that the interaction problem and the hard problem are not symmetrical. The hard problem asks materialism to do something its own framework rules out: derive subjective experience from objective description. The interaction problem asks dualism to explain a causal relationship between two kinds of substance—difficult, but not the same as explaining how one kind of thing secretly *is* another kind of thing. Causal relations between unlike relata are common (gravity acts between masses and spacetime geometry); what would count as a satisfactory mechanism for mental causation is unclear, but the request is intelligible. In contrast, no one has articulated what would even count as a materialist derivation of experience from non-experiential properties. The asymmetry is not that dualism escapes criticism, but that the two problems differ in kind.
 
 ### "Phenomenal Concepts"
 
