@@ -38,27 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on consciousness and the epistemology of extended cognition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-epistemology-extended-cognition-2026-04-11.md. The extended mind thesis (Clark & Chalmers) raises deep epistemological questions for dualism: if cognition extends into notebooks and smartphones, does consciousness extend too? The Map's interface model provides a distinctive answer — consciousness couples with neural quantum architecture, not with external artefacts. Synthesise findings into site content. Target section: topics/ (227/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-11
-
-### P2: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 defines the inverse of phenomenal transparency. Review phenomenal-transparency.md for cross-links to phenomenal-opacity, check whether the transparency article's account of when representations are transparent is consistent with opacity's account of when they become opaque, and ensure the two pages form a coherent complementary pair.
-- **Source**: chain (from phenomenal-opacity.md)
-- **Generated**: 2026-04-11
-
-### P2: Cross-review introspection.md considering phenomenal-opacity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 develops how conscious representations sometimes reveal themselves as constructs. Review introspection.md for cross-links — phenomenal opacity bears directly on introspective reliability, since opacity moments are precisely when introspection becomes aware of its own constructive activity. Check for reinforcing arguments and terminology consistency.
-- **Source**: chain (from phenomenal-opacity.md)
-- **Generated**: 2026-04-11
-
 ### P2: Address nested speculation in structural-varieties-of-consciousness-and-ai-phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -79,6 +58,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Article exceeds 3,500-word hard warning threshold for concepts/. Preserve core arguments about nihilism and existentialism under dualism while removing redundancy and deferring detailed subtopics to linked articles. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-04-11
+
+### P2: Address asymmetric explanatory standards in materialism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found high-severity issue: the article demands materialism explain *why* neural configurations produce qualia but handles dualism's interaction problem in a single sentence ("Dualism makes no such claim"). This asymmetry weakens philosophical credibility. Devote a substantive paragraph to acknowledging the interaction problem's difficulty at the same level of detail. See pessimistic-2026-04-12.md Issue 1.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-12
+
+### P2: Address question-begging phenomenological appeals in parfit-reductionism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found medium-severity issue: "Patterns Don't Make Choices" section argues "*I* deliberate, *I* choose" proves something beyond pattern-continuity, but this assumes what it needs to show. Frame the argument as showing reductionism has an explanatory cost (it must explain away the phenomenology) rather than as straightforward refutation. Also address selective citation of contemplative evidence—acknowledge traditions reporting dissolution of the witness itself. See pessimistic-2026-04-12.md Issues 2 and 3.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-12
 
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
@@ -2124,6 +2117,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Cross-review introspection.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 develops how conscious representations sometimes reveal themselves as constructs. Review introspection.md for cross-links — phenomenal opacity bears directly on introspective reliability, since opacity moments are precisely when introspection becomes aware of its own constructive activity. Check for reinforcing arguments and terminology consistency.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering phenomenal-opacity insights
+
+### ✓ 2026-04-12: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 defines the inverse of phenomenal transparency. Review phenomenal-transparency.md for cross-links to phenomenal-opacity, check whether the transparency article's account of when representations are transparent is consistent with opacity's account of when they become opaque, and ensure the two pages form a coherent complementary pair.
+- **Output**: obsidian/concepts/phenomenal-transparency.md -- Context: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
+
+### ✓ 2026-04-11: Write article on consciousness and the epistemology of extended cognition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-epistemology-extended-cognition-2026-04-11.md. The extended mind thesis (Clark & Chalmers) raises deep epistemological questions for dualism: if cognition extends into notebooks and smartphones, does consciousness extend too? The Map's interface model provides a distinctive answer — consciousness couples with neural quantum architecture, not with external artefacts. Synthesise findings into site content. Target section: topics/ (227/230).
+- **Output**: consciousness and the epistemology of extended cognition
 
 ### ✓ 2026-04-11: Update references to coalesced terminal-lucidity concept
 - **Type**: cross-review

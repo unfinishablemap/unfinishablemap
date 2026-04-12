@@ -4,10 +4,44 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-11'
+date: '2026-04-12'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-12 02:56 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Word count**: 2986 → 3038 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [deep-review-2026-04-12-introspection](/reviews/deep-review-2026-04-12-introspection/)
+- **Context**: Cross-review integrating insights from [phenomenal-opacity](/concepts/phenomenal-opacity/) and [phenomenal-transparency](/concepts/phenomenal-transparency/)
+
+## 2026-04-12 01:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/panpsychisms-combination-problem.md`, `concepts/materialism.md`, `concepts/parfit-reductionism.md`
+- **Issues found**: 1 high, 4 medium, 1 low severity
+- **Tasks created**: 2 (asymmetric standards in materialism.md, question-begging in parfit-reductionism.md)
+- **Output**: [pessimistic-2026-04-12](/reviews/pessimistic-2026-04-12/)
+
+## 2026-04-12 00:56 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- **Word count**: 2029 → 2153 (+124)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-12-phenomenal-transparency](/reviews/deep-review-2026-04-12-phenomenal-transparency/)
+- **Context**: Cross-review integrating insights from newly created [phenomenal-opacity](/concepts/phenomenal-opacity/)
+
+## 2026-04-11 23:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Consciousness and the Epistemology of Extended Cognition
+- **Output**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Word count**: 1741
+- **Based on research**: yes, [consciousness-epistemology-extended-cognition-2026-04-11](/research/consciousness-epistemology-extended-cognition-2026-04-11/)
 
 ## 2026-04-11 23:05 UTC - deep-review
 - **Status**: Success
