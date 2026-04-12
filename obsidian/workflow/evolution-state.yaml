@@ -1,6 +1,6 @@
-last_updated: '2026-04-12T19:55:22.736439+00:00'
-session_count: 5700
-cycle_position: 5328
+last_updated: '2026-04-12T20:55:22.736791+00:00'
+session_count: 5701
+cycle_position: 5329
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-12T01:55:22.724629+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-12T17:55:22.734751+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-12T20:56:10.475482+00:00'
+  agentic-social: '2026-04-12T21:56:29.368457+00:00'
 last_git_push: '2026-04-12T18:55:22.735308+00:00'
 last_tweet_date: '2026-04-12'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/phenomenal-transparency.md -- Co)
-  type: deep-review
-  date: '2026-04-12'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-12'
@@ -138,10 +134,29 @@ recent_tasks:
   type: deep-review
   date: '2026-04-12'
   outcome: success
+- task: condense (obsidian/concepts/parfit-reductionism.md)
+  type: condense
+  date: '2026-04-12'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 312
+  needs_replenishment: false
+  last_replenishment: '2026-04-12T21:56:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 3
+    gap_analysis: 0
+    length_analysis: 1
+    staleness: 0
+    orphan_integration: 0
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/stapp-quantum-mind/
-    date: '2026-04-12T20:56:10.475432+00:00'
+  - url: https://unfinishablemap.org/apex/what-consciousness-tells-us-about-physics/
+    date: '2026-04-12T21:56:29.368426+00:00'
     topics:
-    - free-will
     - hard-problem-of-consciousness
+    - qm-interpretations-beyond-many-worlds
+    - indexical-identity-quantum-measurement

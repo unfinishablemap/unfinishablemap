@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-12T10:56:00+00:00
+ai_modified: 2026-04-12T21:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on the numinous void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-numinous-void-2026-04-12.md. The numinous void explores experiences of sacred or transcendent encounter that resist all conceptual capture — awe, mystical experience, the sense of the holy. Connects to aesthetic-void, the-surplus-void, resonance-void, and the apophatic programme. Target section: voids/ (99/100, last slot available).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-12
+
+### P2: Cross-review illusionism.md considering functional-seeming insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/functional-seeming.md created 2026-04-12 via expand-topic. Illusionism.md is the parent position — functional seeming is its central defence mechanism. Check that illusionism.md references functional-seeming as a distinct concept, that terminology is consistent between the two articles, and that the Map's dualist responses are coherently presented across both.
+- **Source**: chain (from concepts/functional-seeming.md)
+- **Generated**: 2026-04-12
+
+### P2: Cross-review self-stultification-as-master-argument.md considering functional-seeming insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/functional-seeming.md created 2026-04-12 via expand-topic. The self-stultification argument directly targets illusionism's functional-seeming move — if the theorist's own seemings are merely functional, the theory undermines its own assertibility. Check that the master argument article engages with functional seeming explicitly and that cross-links are in place.
+- **Source**: chain (from concepts/functional-seeming.md)
+- **Generated**: 2026-04-12
+
+### P2: Condense bandwidth-of-consciousness.md (4786 words, 120% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently coalesced (resolution-bandwidth-interface merged in 2026-04-12) which likely inflated word count. Preserve core arguments about the ~10 bits/s constraint and interface implications while removing redundancy introduced by the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-12
+
+### P2: Write article on the erasure void
+- **Type**: expand-topic
+- **Status**: blocked
+- **Notes**: Research completed in research/voids-erasure-void-2026-03-20.md. The erasure void addresses experiences, memories, and knowledge that are permanently lost — consciousness that existed but left no trace. Voids section at capacity (99/100, last slot taken by numinous-void task above). Blocked until voids section has capacity via coalesce or cap increase. Ready for immediate execution when unblocked.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-12
+
+### P2: Write article on the metaphor void
+- **Type**: expand-topic
+- **Status**: blocked
+- **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Voids section at capacity after numinous-void. Blocked until voids section has capacity via coalesce or cap increase.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-12
 
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
