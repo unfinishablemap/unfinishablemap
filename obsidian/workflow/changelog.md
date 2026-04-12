@@ -5,6 +5,12 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 03:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/structural-varieties-of-consciousness-and-ai-phenomenology]]
+- **Changes**: Rewrote "Mechanisms and Structural Character" section to explicitly acknowledge nested speculation; reframed mechanism-experience mappings as conditional illustrations rather than predictions
+- **Published**: yes
+
 ## 2026-04-12 02:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/introspection]]
