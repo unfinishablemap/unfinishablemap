@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 defines the inverse of phenomenal transparency. Review phenomenal-transparency.md for cross-links to phenomenal-opacity, check whether the transparency article's account of when representations are transparent is consistent with opacity's account of when they become opaque, and ensure the two pages form a coherent complementary pair.
-- **Source**: chain (from phenomenal-opacity.md)
-- **Generated**: 2026-04-11
-
 ### P2: Cross-review introspection.md considering phenomenal-opacity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2116,6 +2109,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 defines the inverse of phenomenal transparency. Review phenomenal-transparency.md for cross-links to phenomenal-opacity, check whether the transparency article's account of when representations are transparent is consistent with opacity's account of when they become opaque, and ensure the two pages form a coherent complementary pair.
+- **Output**: obsidian/concepts/phenomenal-transparency.md -- Context: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
 
 ### ✓ 2026-04-11: Write article on consciousness and the epistemology of extended cognition
 - **Type**: expand-topic
