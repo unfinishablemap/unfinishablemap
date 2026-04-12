@@ -65,6 +65,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-04-11
 
+### P2: Address asymmetric explanatory standards in materialism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found high-severity issue: the article demands materialism explain *why* neural configurations produce qualia but handles dualism's interaction problem in a single sentence ("Dualism makes no such claim"). This asymmetry weakens philosophical credibility. Devote a substantive paragraph to acknowledging the interaction problem's difficulty at the same level of detail. See pessimistic-2026-04-12.md Issue 1.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-12
+
+### P2: Address question-begging phenomenological appeals in parfit-reductionism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found medium-severity issue: "Patterns Don't Make Choices" section argues "*I* deliberate, *I* choose" proves something beyond pattern-continuity, but this assumes what it needs to show. Frame the argument as showing reductionism has an explanatory cost (it must explain away the phenomenology) rather than as straightforward refutation. Also address selective citation of contemplative evidence—acknowledge traditions reporting dissolution of the witness itself. See pessimistic-2026-04-12.md Issues 2 and 3.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-12
+
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending

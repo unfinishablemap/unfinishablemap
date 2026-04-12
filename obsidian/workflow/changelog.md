@@ -5,6 +5,13 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 01:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/panpsychisms-combination-problem.md`, `concepts/materialism.md`, `concepts/parfit-reductionism.md`
+- **Issues found**: 1 high, 4 medium, 1 low severity
+- **Tasks created**: 2 (asymmetric standards in materialism.md, question-begging in parfit-reductionism.md)
+- **Output**: [[reviews/pessimistic-2026-04-12]]
+
 ## 2026-04-12 00:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/phenomenal-transparency]]
