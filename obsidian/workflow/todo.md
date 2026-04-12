@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced consciousness-and-intelligence and consciousness-and-creative-distinctiveness
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created consciousness-and-cognitive-distinctiveness.md from consciousness-and-intelligence.md and consciousness-and-creative-distinctiveness.md. The following files reference archived articles and may need wikilink updates: apex/machine-question.md, concepts/baseline-cognition.md, concepts/consciousness-as-amplifier.md, concepts/conscious-vs-unconscious-processing.md, concepts/counterfactual-reasoning.md, concepts/cumulative-culture.md, concepts/epiphenomenalism.md, concepts/evolution-of-consciousness.md, concepts/global-workspace-theory.md, concepts/metacognition.md, concepts/working-memory.md, concepts/categorical-surprise.md, concepts/content-specificity-of-mental-causation.md, concepts/phenomenology-of-creative-insight.md, topics/ai-consciousness.md, topics/animal-consciousness.md, topics/biological-teleology-and-the-interface-framework.md, topics/comparative-consciousness-and-interface-differences.md, topics/consciousness-and-counterfactual-reasoning.md, topics/consciousness-and-language-interface.md, topics/consciousness-and-memory.md, topics/consciousness-and-mathematics.md, topics/consciousness-and-the-ontology-of-temporal-becoming.md, topics/consciousness-evolution-and-biology.md, topics/consciousness-in-simple-organisms.md, topics/dream-consciousness.md, topics/evolutionary-case-for-mental-causation.md, topics/evolution-under-dualism.md, topics/free-will.md, topics/language-recursion-and-consciousness.md, topics/the-strong-emergence-of-consciousness.md, topics/aesthetics-and-consciousness.md, topics/incubation-effect-and-unconscious-processing.md, topics/phenomenology-of-imagination.md, topics/surprise-prediction-error-and-consciousness.md, voids/infant-consciousness.md, voids/self-transcendence-void.md, voids/imagination-and-creativity-void.md
+- **Source**: coalesce
+- **Generated**: 2026-04-12
+
 ### P2: Cross-review extended-mind-thesis considering epistemology of extended cognition
 - **Type**: cross-review
 - **Status**: pending

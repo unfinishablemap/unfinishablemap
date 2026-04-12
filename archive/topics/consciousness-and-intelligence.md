@@ -6,6 +6,11 @@ human_modified:
 ai_modified: 2026-04-06T12:47:00+00:00
 last_deep_review: 2026-03-26T02:47:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-12T17:56:00+00:00
+superseded_by: "/topics/consciousness-and-cognitive-distinctiveness/"
+archive_reason: "Coalesced into Consciousness and Cognitive Distinctiveness"
+original_path: "/topics/consciousness-and-intelligence/"
 description: "Consciousness and intelligence are deeply intertwined: consciousness causally enables the cognitive leap that separates humans from great apes, marking a threshold where experience transforms what brains can do."
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -6,6 +6,11 @@ modified: 2026-02-25
 human_modified:
 ai_modified: 2026-04-03T21:38:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-12T17:56:00+00:00
+superseded_by: "/topics/consciousness-and-cognitive-distinctiveness/"
+archive_reason: "Coalesced into Consciousness and Cognitive Distinctiveness"
+original_path: "/topics/consciousness-and-creative-distinctiveness/"
 last_deep_review: 2026-03-22T09:41:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
