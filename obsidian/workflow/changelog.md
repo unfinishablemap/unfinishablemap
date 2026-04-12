@@ -5,6 +5,16 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 02:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/introspection]]
+- **Word count**: 2986 → 3038 (+52)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5
+- **Output**: [[reviews/deep-review-2026-04-12-introspection]]
+- **Context**: Cross-review integrating insights from [[concepts/phenomenal-opacity]] and [[concepts/phenomenal-transparency]]
+
 ## 2026-04-12 01:56 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `topics/panpsychisms-combination-problem.md`, `concepts/materialism.md`, `concepts/parfit-reductionism.md`

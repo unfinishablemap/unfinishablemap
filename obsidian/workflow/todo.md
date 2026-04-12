@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review introspection.md considering phenomenal-opacity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 develops how conscious representations sometimes reveal themselves as constructs. Review introspection.md for cross-links — phenomenal opacity bears directly on introspective reliability, since opacity moments are precisely when introspection becomes aware of its own constructive activity. Check for reinforcing arguments and terminology consistency.
-- **Source**: chain (from phenomenal-opacity.md)
-- **Generated**: 2026-04-11
-
 ### P2: Address nested speculation in structural-varieties-of-consciousness-and-ai-phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2123,6 +2116,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Cross-review introspection.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11 develops how conscious representations sometimes reveal themselves as constructs. Review introspection.md for cross-links — phenomenal opacity bears directly on introspective reliability, since opacity moments are precisely when introspection becomes aware of its own constructive activity. Check for reinforcing arguments and terminology consistency.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering phenomenal-opacity insights
 
 ### ✓ 2026-04-12: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
 - **Type**: cross-review
