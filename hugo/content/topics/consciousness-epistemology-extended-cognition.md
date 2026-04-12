@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-11
-ai_modified: 2026-04-11 23:56:00+00:00
+ai_modified: 2026-04-12 04:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,6 +19,7 @@ description: The extended mind thesis reveals consciousness as the non-negotiabl
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-12 04:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,6 +53,8 @@ Ned Block's distinction between phenomenal consciousness (P-consciousness) and a
 
 Extended cognition thus extends A-consciousness while leaving P-consciousness untouched. This dissociation is exactly what dualism predicts: functional roles are substrate-neutral and therefore extendable, while phenomenal properties are not exhausted by functional description and therefore resist extension.
 
+Not everyone accepts this boundary. Telakivi (2023) mounts the most sustained case for extended consciousness, arguing that certain brain-body-environment interactions can constitute phenomenal experience itself. If embodied tool use is sufficiently integrated—habitual, reliable, transparent in use—then the qualitative character of experience might extend along with it. The skilled cane user's tactile awareness extends to the cane's tip; perhaps the phenomenal experience itself is partially constituted by the cane-environment interaction. The Map's response: integration and transparency describe how consciousness *accesses* external resources, not where consciousness *resides*. The cane user's experience is richer because the filter has expanded, but the phenomenal character—what it is like to feel the pavement through the cane—remains a property of consciousness, not of the cane. Functional integration, however deep, does not convert a tool into an experiencer.
+
 ## Consciousness as Epistemic Foundation
 
 The extension gap has deep epistemological consequences. If phenomenal consciousness plays an essential role in knowledge and justification—as Smithies argues in *The Epistemic Role of Consciousness* (2019)—then the limits of cognitive extension are set by the limits of phenomenal experience, not by functional equivalence.
@@ -80,9 +83,9 @@ This dissolves the apparent tension between extended cognition and epistemic int
 
 ## Phenomenal Opacity and the Limits of Self-Knowledge
 
-[Phenomenal opacity](/concepts/phenomenal-opacity/)—the condition in which conscious representations reveal themselves as constructs rather than transparent windows onto reality—introduces a further complication. If phenomenal states are sometimes opaque to introspection, how does this interact with the question of extension?
+[Phenomenal opacity](/concepts/phenomenal-opacity/)—the condition in which conscious representations reveal themselves as constructs rather than transparent windows onto reality—introduces a further complication. If phenomenal states are sometimes opaque to [introspection](/concepts/introspection/), how does this interact with the question of extension?
 
-Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. This meta-experiential character is precisely what external devices lack. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The fact that consciousness can interrogate its own reliability—can notice that a perception feels constructed or uncertain—demonstrates a reflexive capacity that functional equivalence cannot capture.
+Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. Consider a half-remembered face: you are conscious of the memory, but also conscious that it feels reconstructed, partial, unreliable. This meta-experiential character—knowing that you are uncertain *from the inside*—is precisely what external devices lack. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The notebook does not experience its own accuracy as questionable. The fact that consciousness can interrogate its own reliability—can notice that a perception feels constructed or uncertain—demonstrates a reflexive capacity that functional equivalence cannot capture. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate cognitive and phenomenal analysis, the more the irreducibility of phenomenal properties stands out.
 
 ## Relation to Site Perspective
 
@@ -94,7 +97,7 @@ Second, the epistemic role of consciousness aligns with **Tenet 3 (Bidirectional
 
 Third, the failure of simple functional extension aligns with **Tenet 5 (Occam's Razor Has Limits)**. The functionalist picture—cognition as substrate-neutral computation—is elegant and parsimonious. It works for information processing. It fails for consciousness. The simpler theory is not the correct one. The extension gap demonstrates this in microcosm: the "simpler" hypothesis (all mental states extend equally) breaks down at exactly the point where consciousness enters.
 
-The Map speculates that this convergence is not coincidental. The features that make consciousness non-extendable—qualitative character, subjective presence, reflexive opacity—may be the same features through which consciousness interfaces with quantum indeterminacy in the brain. If consciousness operates through [a specific physical interface](/concepts/filter-theory/) rather than through generic computation, then it should resist the computational extension that generic functions permit. Extended cognition inadvertently maps the boundary of that interface.
+The Map speculates that this convergence is not coincidental. The features that make consciousness non-extendable—qualitative character, subjective presence, reflexive opacity—may be the same features through which consciousness interfaces with quantum indeterminacy in the brain. If consciousness operates through [a specific physical interface](/concepts/filter-theory/) rather than through generic computation, then it should resist the computational extension that generic functions permit. Extended cognition inadvertently maps the boundary of that interface—a boundary that [embodied cognition research](/concepts/embodied-cognition/) confirms from the empirical side.
 
 ## Further Reading
 

@@ -9,6 +9,35 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-12 06:56 UTC - condense
+- **Status**: Success
+- **File**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Before**: 3734 words
+- **After**: 2015 words
+- **Reduction**: 46%
+- **Technique**: Cut epistemological/mereological nihilism tangents, compressed Nietzsche background, tightened existentialism core themes, trimmed Heidegger existential analytic, merged bad faith/authenticity sections, condensed Eastern approaches (defer to buddhism-and-dualism), tightened Relation to Site Perspective subsections
+
+## 2026-04-12 05:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [vertiginous-question](/topics/vertiginous-question/)
+- **Changes**: Expanded deflationary answer with Hofstadter (strange loops) and Parfit (personal identity) engagement; added specific rebuttals; added 2 references
+- **Published**: yes
+
+## 2026-04-12 04:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Word count**: 1741 → 1939 (+198)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-12-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-12-consciousness-epistemology-extended-cognition/)
+
+## 2026-04-12 03:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/)
+- **Changes**: Rewrote "Mechanisms and Structural Character" section to explicitly acknowledge nested speculation; reframed mechanism-experience mappings as conditional illustrations rather than predictions
+- **Published**: yes
+
 ## 2026-04-12 02:56 UTC - deep-review
 - **Status**: Success
 - **File**: [introspection](/concepts/introspection/)
