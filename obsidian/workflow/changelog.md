@@ -5,6 +5,13 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 11:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Functional seeming (Frankish)
+- **Output**: [[concepts/functional-seeming]]
+- **Word count**: 1254
+- **Based on research**: yes, [[research/illusionism-functional-seeming-2026-03-28]]
+
 ## 2026-04-12 11:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/parfit-reductionism]]

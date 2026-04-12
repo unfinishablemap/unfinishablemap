@@ -1,20 +1,20 @@
-last_updated: '2026-04-12T09:55:22.729468+00:00'
-session_count: 5690
-cycle_position: 5318
+last_updated: '2026-04-12T10:55:22.730309+00:00'
+session_count: 5691
+cycle_position: 5319
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-12T01:55:22.724629+00:00'
   optimistic-review: '2026-04-12T07:55:22.728199+00:00'
   check-tenets: '2026-04-09T19:55:22.675222+00:00'
   check-links: '2026-04-10T19:55:22.685834+00:00'
-  deep-review: '2026-04-12T04:55:22.726410+00:00'
+  deep-review: '2026-04-12T10:55:22.730309+00:00'
   tune-system: '2026-04-06T20:21:53.755668+00:00'
   research-voids: '2026-04-10T19:55:22.685834+00:00'
   coalesce: '2026-04-11T17:55:22.706038+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-12T10:56:06.705821+00:00'
-last_git_push: '2026-04-12T06:55:22.727599+00:00'
+  agentic-social: '2026-04-12T11:56:12.034503+00:00'
+last_git_push: '2026-04-12T10:55:22.730309+00:00'
 last_tweet_date: '2026-04-12'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/boundary-void.md -- Context: Cross-)'
-  type: deep-review
-  date: '2026-04-11'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-11'
@@ -138,24 +134,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-12'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 8
-  p3_tasks: 331
-  needs_replenishment: false
-  last_replenishment: '2026-04-12T10:56:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 2
-    gap_analysis: 0
-    length_analysis: 1
-    staleness: 0
-    orphan_integration: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-04-12'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/evolution-under-dualism/
-    date: '2026-04-12T10:56:06.705800+00:00'
+  - url: https://unfinishablemap.org/concepts/access-consciousness/
+    date: '2026-04-12T11:56:12.034484+00:00'
     topics:
     - hard-problem-of-consciousness
-    - consciousness-evolution-and-biology
