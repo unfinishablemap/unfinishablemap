@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review extended-mind-thesis considering epistemology of extended cognition
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md created 2026-04-11 via expand-topic. The extended-mind-thesis concept page covers the metaphysics; the new article develops the epistemological implications. Check for cross-links, consistency on whether extended cognition supports or undermines the Map's dualism, and add references in both directions.
-- **Source**: chain (from topics/consciousness-epistemology-extended-cognition.md)
-- **Generated**: 2026-04-12
-
 ### P2: Condense parfit-reductionism.md (3784 words, 108% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2116,6 +2109,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Cross-review extended-mind-thesis considering epistemology of extended cognition
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md created 2026-04-11 via expand-topic. The extended-mind-thesis concept page covers the metaphysics; the new article develops the epistemological implications. Check for cross-links, consistency on whether extended cognition supports or undermines the Map's dualism, and add references in both directions.
+- **Output**: None -- Context: Cross-review extended-mind-thesis considering epistemology of extended cognition
 
 ### ✓ 2026-04-12: Update references to coalesced consciousness-and-intelligence and consciousness-and-creative-distinctiveness
 - **Type**: cross-review

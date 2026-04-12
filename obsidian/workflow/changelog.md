@@ -5,6 +5,15 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 19:59 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [[consciousness-epistemology-extended-cognition]]
+- **Word count**: 1939 → 2129 (+190)
+- **Critical issues addressed**: 1 (missing cognitive-science-of-dualism in related_articles)
+- **Medium issues addressed**: 4 (weak Telakivi response, reliabilist challenge unacknowledged, phenomenal opacity source/Map conflation, filter theory used without qualifier)
+- **Enhancements made**: 2 (self-opacity cross-link, cognitive-science-of-dualism cross-link)
+- **Output**: [[reviews/deep-review-2026-04-12b-consciousness-epistemology-extended-cognition]]
+
 ## 2026-04-12 18:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-and-cognitive-distinctiveness]]
