@@ -5,6 +5,13 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-12 13:56 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: experimental tests distinguishing consciousness-collapse from decoherence
+- **Reason**: Existing article [[testing-consciousness-collapse]] already covers this topic comprehensively, including three-tier prediction hierarchy and all major experiments. Both research notes (experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21, testable-predictions-consciousness-collapse-decoherence-2026-03-29) were already integrated into the existing article during a prior refinement.
+- **Word count**: N/A (no new article created)
+- **Based on research**: yes — [[research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21]], [[research/testable-predictions-consciousness-collapse-decoherence-2026-03-29]]
+
 ## 2026-04-12 12:57 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/resolution-bandwidth-interface]]
