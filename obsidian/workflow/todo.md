@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review introspection.md considering phenomenal-opacity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11. Introspection is directly constrained by phenomenal opacity — the limits of self-knowledge about one's own experience. Check for cross-links, reinforcing arguments about introspective limits, and consistency with the new opacity framework.
-- **Source**: chain (from concepts/phenomenal-opacity.md)
-- **Generated**: 2026-04-12
-
 ### P2: Cross-review extended-mind-thesis considering epistemology of extended cognition
 - **Type**: cross-review
 - **Status**: pending
@@ -2123,6 +2116,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-12: Cross-review introspection.md considering phenomenal-opacity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/phenomenal-opacity.md created 2026-04-11. Introspection is directly constrained by phenomenal opacity — the limits of self-knowledge about one's own experience. Check for cross-links, reinforcing arguments about introspective limits, and consistency with the new opacity framework.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering phenomenal-opacity insights
 
 ### ✓ 2026-04-12: Cross-review phenomenal-transparency.md considering phenomenal-opacity insights
 - **Type**: cross-review
