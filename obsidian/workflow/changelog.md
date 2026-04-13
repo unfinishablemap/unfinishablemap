@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 23:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Metarepresentation Threshold
+- **Output**: [[concepts/metarepresentation-threshold]]
+- **Word count**: 1235
+- **Based on research**: no (synthesised from existing Map articles: Jourdain Hypothesis, Higher-Order Theories, Baseline Cognition)
+
 ## 2026-04-13 22:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-linguistic-failure]]

@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P3: Create concept page for metarepresentation threshold
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Canonical definition and evidential markers of the procedural-to-declarative metacognition boundary that separates human from animal cognition. The Jourdain hypothesis and several articles reference this threshold but it lacks its own anchor page. Distinct from the coalesced metacognition concept page, which covers metacognition broadly rather than this specific boundary. Target section: concepts/ (222/230). See optimistic-2026-04-07.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-07
-
 ### P3: Write article on comparative phenomenology of mathematical insight across cultures
 - **Type**: expand-topic
 - **Status**: pending
@@ -2047,6 +2040,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Create concept page for metarepresentation threshold
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Canonical definition and evidential markers of the procedural-to-declarative metacognition boundary that separates human from animal cognition. The Jourdain hypothesis and several articles reference this threshold but it lacks its own anchor page. Distinct from the coalesced metacognition concept page, which covers metacognition broadly rather than this specific boundary. Target section: concepts/ (222/230). See optimistic-2026-04-07.md
+- **Output**: Create concept page for metarepresentation threshold
 
 ### ✓ 2026-04-13: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic

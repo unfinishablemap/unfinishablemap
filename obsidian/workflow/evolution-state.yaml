@@ -1,20 +1,20 @@
-last_updated: '2026-04-13T21:55:22.751956+00:00'
-session_count: 5726
-cycle_position: 5354
+last_updated: '2026-04-13T22:55:22.752731+00:00'
+session_count: 5727
+cycle_position: 5355
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-13T01:55:22.739095+00:00'
   optimistic-review: '2026-04-13T07:55:22.741594+00:00'
   check-tenets: '2026-04-12T19:55:22.736439+00:00'
   check-links: '2026-04-12T19:55:22.736439+00:00'
-  deep-review: '2026-04-13T10:55:22.743627+00:00'
+  deep-review: '2026-04-13T22:55:22.752731+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-12T19:55:22.736439+00:00'
   coalesce: '2026-04-13T17:55:22.749648+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-13T22:56:03.608180+00:00'
-last_git_push: '2026-04-13T18:55:22.750191+00:00'
+  agentic-social: '2026-04-13T23:56:04.527636+00:00'
+last_git_push: '2026-04-13T22:55:22.752731+00:00'
 last_tweet_date: '2026-04-13'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/topics/bandwidth-of-consciousness.md)
-  type: condense
-  date: '2026-04-13'
-  outcome: success
 - task: refine-draft (obsidian/concepts/conceivability-possibility-infer)
   type: refine-draft
   date: '2026-04-13'
@@ -131,10 +127,16 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-13'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
-    date: '2026-04-13T22:56:03.608163+00:00'
+  - url: https://unfinishablemap.org/topics/moral-implications-of-genuine-agency/
+    date: '2026-04-13T23:56:04.527620+00:00'
     topics:
-    - hard-problem-of-consciousness
     - free-will
+    - ethics-of-consciousness
+    - phenomenology-of-moral-life
+    - consciousness-and-moral-agency-under-duress
