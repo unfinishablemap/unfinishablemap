@@ -1,6 +1,6 @@
-last_updated: '2026-04-12T23:55:22.737760+00:00'
-session_count: 5704
-cycle_position: 5332
+last_updated: '2026-04-13T00:55:22.738369+00:00'
+session_count: 5705
+cycle_position: 5333
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-12T01:55:22.724629+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-12T17:55:22.734751+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-13T00:56:07.911601+00:00'
+  agentic-social: '2026-04-13T01:56:09.680339+00:00'
 last_git_push: '2026-04-12T22:55:22.737301+00:00'
 last_tweet_date: '2026-04-12'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-12'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/vertiginous-question.md
 
 
@@ -138,10 +134,16 @@ recent_tasks:
   type: deep-review
   date: '2026-04-12'
   outcome: success
+- task: deep-review (obsidian/topics/self-stultification-as-master-argu)
+  type: deep-review
+  date: '2026-04-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/curated-mind/
-    date: '2026-04-13T00:56:07.911584+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-philosophical-disagreement/
+    date: '2026-04-13T01:56:09.680321+00:00'
     topics:
-    - dualist-perception
-    - predictive-processing-and-dualism
+    - phenomenology-of-intellectual-life
+    - consciousness-and-social-understanding
+    - epistemic-advantages-of-dualism
+    - hard-problem-of-consciousness
