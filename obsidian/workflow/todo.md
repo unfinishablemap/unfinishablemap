@@ -2136,6 +2136,34 @@ Pessimistic review found that the "Strength-Mismatch Objection" section omits vi
 - **Type**: cross-review
 - **Notes**: New concept page concepts/functional-seeming.md created 2026-04-12 via expand-topic. Illusionism.md is the parent position — functional seeming is its central defence mechanism. Check that illusionism.md references functional-seeming as a distinct concept, that terminology is consistent between the two articles, and that the Map's dualist responses are coherently presented across both.
 - **Output**: obsidian/concepts/illusionism.md -- Context: Cross-review illusionism.md considering functional-seeming insights
+### P3: Write article on completeness-under-dualism as philosophy-of-physics programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesise how structural completeness (no-go theorems) + Born rule uniqueness (Torres Alegre 2025) + Process 1 indeterminacy form a mutually reinforcing case for consciousness operating at physics' own demonstrated limits. Connects completeness-in-physics-under-dualism, born-rule-and-the-consciousness-interface, consciousness-physics-interface-formalism. Target section: topics/ (227/230). See optimistic-2026-04-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-13
+
+### P3: Write article comparing Russellian monism vs interactionist dualism systematically
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Russellian monism is the Map's closest rival. Dedicated comparison clarifying what interactionist dualism gains (specific mechanism, avoids combination problem) and concedes (interaction problem, less parsimonious) relative to Russellian monism. Builds on russellian-monism, substance-dualism-vs-property-dualism, bi-aspectual ontology concepts. Target section: topics/ (227/230). See optimistic-2026-04-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-13
+
+### P3: Add cross-links from optimistic-2026-04-13 review (6 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: completeness↔interface-formalism, dopamine↔constraint-satisfaction, conceivability↔continual-learning, russellian-monism↔completeness, continual-learning↔dopamine, phenomenology-mechanism-bridge↔completeness. See optimistic-2026-04-13.md for details.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-13
+
+### P3: Create concept page for observational closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The principle (Saad 2025) that consciousness acting at quantum indeterminacies within Born-rule probabilities would be empirically undetectable. Currently introduced in completeness-in-physics-under-dualism but referenced across multiple articles without a canonical definition. Core response to the "where's the evidence for dualist interaction?" objection. Target section: concepts/ (222/230). See optimistic-2026-04-13.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-13
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
