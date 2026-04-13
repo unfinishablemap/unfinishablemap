@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review self-stultification-as-master-argument.md considering functional-seeming insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/functional-seeming.md created 2026-04-12 via expand-topic. The self-stultification argument directly targets illusionism's functional-seeming move — if the theorist's own seemings are merely functional, the theory undermines its own assertibility. Check that the master argument article engages with functional seeming explicitly and that cross-links are in place.
-- **Source**: chain (from concepts/functional-seeming.md)
-- **Generated**: 2026-04-12
-
 ### P2: Condense bandwidth-of-consciousness.md (4786 words, 120% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2130,6 +2123,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Cross-review self-stultification-as-master-argument.md considering functional-seeming insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/functional-seeming.md created 2026-04-12 via expand-topic. The self-stultification argument directly targets illusionism's functional-seeming move — if the theorist's own seemings are merely functional, the theory undermines its own assertibility. Check that the master argument article engages with functional seeming explicitly and that cross-links are in place.
+- **Output**: obsidian/topics/self-stultification-as-master-argument.md -- Context: Cross-review self-stultification-as-master-argument.md considering functional-seeming insights
 
 ### ✓ 2026-04-13: Cross-review illusionism.md considering functional-seeming insights
 - **Type**: cross-review

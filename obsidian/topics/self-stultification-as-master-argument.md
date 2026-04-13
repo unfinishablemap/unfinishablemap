@@ -4,8 +4,8 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-04-08T00:06:00+00:00
-last_deep_review: 2026-04-08T00:06:00+00:00
+ai_modified: 2026-04-13T00:56:00+00:00
+last_deep_review: 2026-04-13T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,6 +33,7 @@ related_articles:
   - "[[consciousness-and-normative-force]]"
   - "[[tenets]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
+  - "[[functional-seeming]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -64,11 +65,11 @@ The position may still be *true*. Self-stultification is weaker than refutation 
 
 The most direct application. [[concepts/epiphenomenalism|Epiphenomenalism]] holds that consciousness causes nothing—brain states produce both behaviour and experience, but experience itself is causally inert.
 
-If true, then the epiphenomenalist's belief in epiphenomenalism was not caused by their conscious reasoning about the evidence. Their introspective reports about consciousness are causally disconnected from their conscious states. The pain doesn't cause the report "I'm in pain"; brain states cause both independently. As the Map's [[tenets]] put it: "If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states."
+If true, then the epiphenomenalist's belief in epiphenomenalism was not caused by their conscious reasoning about the evidence. As the Map's [[tenets]] put it: "If consciousness were truly epiphenomenal, then our beliefs *about* consciousness would be causally disconnected from our actual conscious states." Introspective reports would be caused by brain states, not by the experiences they purport to describe.
 
 The epiphenomenalist who presents arguments, responds to objections, and revises views on the basis of introspective evidence *performs* the falsity of their position. The very act of defending epiphenomenalism presupposes what epiphenomenalism denies—that conscious evaluation of reasons influences what one believes.
 
-The [[illusionism#Structural Convergence with Epiphenomenalism|convergence with illusionism]] deepens this point: illusionism inherits the same self-stultification because it preserves exactly the causal structure that generates the problem—phenomenal properties remain causally idle whether they are declared inert or declared non-existent.
+The [[illusionism#Structural Convergence with Epiphenomenalism|convergence with illusionism]] deepens this point: illusionism inherits the same self-stultification because it preserves exactly the causal structure that generates the problem—phenomenal properties remain causally idle whether they are declared inert or declared non-existent. Frankish's [[functional-seeming]] defence—that "seeming conscious" reduces to functional dispositions—reinforces rather than evades the problem: if the illusionist's own assessment of consciousness is merely functional, their reasoning is causally identical to a [[philosophical-zombies|zombie's]].
 
 Phenomenal intentionality adds a further layer: the belief in epiphenomenalism must be genuinely *about* consciousness—it must have determinate intentional content directed at phenomenal experience. If the [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality thesis]] is correct, this aboutness itself requires phenomenal character. The epiphenomenalist's position is thus doubly self-stultifying: it denies causal efficacy to the very consciousness whose phenomenal character is required to give the denial its content.
 
@@ -98,7 +99,7 @@ This more careful eliminativism partially evades the crude self-stultification c
 
 Radical skepticism—the claim that knowledge is impossible—faces the same structure. The skeptic who asserts "we cannot know anything" claims to know something. The position is self-referentially unstable: if true, it cannot be known to be true; if it can be known, it refutes itself.
 
-Pyrrhonian skeptics recognised this and attempted to avoid assertion entirely—not claiming that knowledge is impossible, but suspending judgment on whether it is. This is intellectually honest but practically empty. The Pyrrhonist who suspends judgment about whether their suspension of judgment is warranted enters an infinite regress of suspended judgments. More importantly, the Pyrrhonist who continues to function—eating, communicating, navigating—acts on the basis of beliefs they officially refuse to endorse.
+Pyrrhonian skeptics recognised this and attempted to avoid assertion entirely—suspending judgment rather than claiming knowledge is impossible. This is intellectually honest but practically empty: the Pyrrhonist who continues to function—eating, communicating, navigating—acts on beliefs they officially refuse to endorse.
 
 ## Why the Pattern Repeats
 
@@ -168,6 +169,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
 - [[consciousness-and-the-normativity-of-reason]] — Why the normative dimension of reasoning resists physical description
 - [[consciousness-and-normative-force]] — Why recognising rational authority as binding requires phenomenal consciousness
+- [[functional-seeming]] — Frankish's defence of illusionism, and why it reinforces self-stultification via the zombie convergence
 - [[consciousness-and-the-problem-of-induction]] — Self-stultification applied to inductive reasoning about consciousness
 - [[phenomenal-authority-and-first-person-evidence]] — Whether introspective reports are causally connected to experiences
 - [[mental-causation-and-downward-causation|mental causation]] — The problem self-stultification helps resolve
@@ -187,16 +189,3 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 1. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea*. InterVarsity Press.
 1. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1.
 
-<!-- AI REFINEMENT LOG - 2026-04-03
-Changes made:
-- Physicalism section: addressed functionalist/computational counterexample (theorem provers, calculators implement norms physically); distinguished norm-implementation from norm-grasping rather than simply asserting physics cannot track norms
-- Master argument framing: tempered claims of uniform strength; added paragraph acknowledging variable force across the four targets (devastating against epiphenomenalism, requires additional argument against physicalism, partially defused by Pyrrhonians against skepticism)
-- Eliminativism section: replaced caricature ("beliefs don't exist") with steelmanned version (folk-psychological categories carve nature at wrong joints); engaged with Churchland's mature position; showed self-stultification still applies but via a more sophisticated route (normative properties must survive vocabulary replacement)
-- Updated summary table for eliminativism to reflect nuanced treatment
-- Softened opening paragraph's "each target falls to the same blade" framing
-
-Based on pessimistic review findings (2026-04-03).
-Key improvements: intellectual honesty about argument's variable strength; engagement with strongest counterarguments.
-
-This log should be removed after human review.
--->
