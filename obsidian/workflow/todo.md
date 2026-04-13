@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced phenomenal-transparency and phenomenal-opacity
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenal-transparency-opacity-spectrum. The following active files reference archived articles and need wikilinks updated: introspection.md, projection-void.md, consciousness-and-the-authority-of-formal-systems.md, ownership-void.md, phenomenology-of-recursive-self-awareness.md, necessary-opacity.md, curated-mind.md, self-reference-paradox.md, phenomenal-depth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, dualist-perception.md, fitness-beats-truth.md, perceptual-degradation-and-the-interface.md, perceptual-failure-and-the-interface.md, biological-cognitive-closure.md, perception.md, intentionality-void.md, meta-problem-of-consciousness.md, consciousness-epistemology-extended-cognition.md (21 files total). Update [[phenomenal-transparency]] → [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]] and [[phenomenal-opacity]] → [[phenomenal-transparency-opacity-spectrum|phenomenal opacity]].
+- **Source**: coalesce
+- **Generated**: 2026-04-13
+
 ### P2: Write article on the erasure void
 - **Type**: expand-topic
 - **Status**: blocked

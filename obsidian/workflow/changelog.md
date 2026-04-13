@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 17:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/phenomenal-transparency]], [[concepts/phenomenal-opacity]]
+- **Target**: [[concepts/phenomenal-transparency-opacity-spectrum]]
+- **Archived**: [[archive/concepts/phenomenal-transparency]], [[archive/concepts/phenomenal-opacity]]
+- **References to review**: 21 active content files (cross-review task created)
+
 ## 2026-04-13 16:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Concession convergence in philosophy of mathematics

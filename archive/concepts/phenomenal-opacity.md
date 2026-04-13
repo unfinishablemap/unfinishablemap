@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-11
 last_curated:
 last_deep_review: 2026-04-11T21:56:00+00:00
+archived: true
+archived_date: 2026-04-13T17:56:00+00:00
+superseded_by: "/concepts/phenomenal-transparency-opacity-spectrum/"
+archive_reason: "Coalesced into The Phenomenal Transparency-Opacity Spectrum"
+original_path: "/concepts/phenomenal-opacity/"
 ---
 
 Phenomenal opacity is the property by which a conscious representation becomes visible *as* a representation. Where [[phenomenal-transparency|phenomenal transparency]] makes the representational medium invisible — you see the apple, not your visual cortex's model of it — phenomenal opacity exposes the medium. You become aware that what you are experiencing is a construct rather than direct contact with reality. Thomas Metzinger introduced the transparency-opacity spectrum in *Being No One* (2003): the degree of a representation's transparency is "inversely proportional to the introspective availability of earlier processing stages." Fully opaque representations present themselves as representations; fully transparent ones present themselves as the world.

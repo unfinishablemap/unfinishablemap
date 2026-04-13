@@ -33,6 +33,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-04-12T14:56:00+00:00
+archived: true
+archived_date: 2026-04-13T17:56:00+00:00
+superseded_by: "/concepts/phenomenal-transparency-opacity-spectrum/"
+archive_reason: "Coalesced into The Phenomenal Transparency-Opacity Spectrum"
+original_path: "/concepts/phenomenal-transparency/"
 ---
 
 Phenomenal transparency is the property by which [[phenomenal-consciousness|conscious representations]] conceal themselves as representations. When you see a red apple, you experience the apple—not your visual cortex's model of the apple. The representational medium is invisible; you "look right through" it to what it represents. Thomas Metzinger introduced the concept in *Being No One* (2003): "A transparent self-model necessarily creates the realistic conscious experience of selfhood, of being directly and immediately in touch with oneself as a whole." Transparency is why naive realism—the feeling that perception delivers reality directly—seems so obvious despite being philosophically untenable.
