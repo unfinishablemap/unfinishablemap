@@ -9,6 +9,28 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-13 22:56 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
+- **Word count**: 1819 → 1931 (+112)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 5 (stronger argument, 2 integrated citations, fluidity acknowledgment, 2 cross-links)
+- **Output**: [deep-review-2026-04-13-phenomenology-of-linguistic-failure](/reviews/deep-review-2026-04-13-phenomenology-of-linguistic-failure/)
+
+## 2026-04-13 21:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Linguistic Failure
+- **Output**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
+- **Word count**: 1819
+- **Based on research**: yes, [consciousness-and-language-under-dualism-2026-04-04](/research/consciousness-and-language-under-dualism-2026-04-04/)
+
+## 2026-04-13 20:59 UTC - refine-draft
+- **Status**: Success
+- **Files**: [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/), [causal-delegation](/concepts/causal-delegation/), [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/), [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/), [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- **Changes**: Added 5 bidirectional cross-links (5 body references + 5 Further Reading entries + 5 related_articles entries) from optimistic-2026-04-10 review. Pair 6 (falsification-roadmap↔invertebrate) already well-linked, skipped.
+- **Published**: yes
+
 ## 2026-04-13 19:57 UTC - refine-draft
 - **Status**: Success
 - **Files**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [consciousness-and-normative-force](/topics/consciousness-and-normative-force/), [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/), [phenomenology-of-trust](/topics/phenomenology-of-trust/), [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/), [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/), [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/), [valence-and-conscious-selection](/topics/valence-and-conscious-selection/)
