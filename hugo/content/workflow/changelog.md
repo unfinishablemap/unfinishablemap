@@ -9,6 +9,39 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-13 06:56 UTC - deep-review
+- **Status**: Success (stable — sixth review, no critical issues)
+- **File**: [tenet-generated-voids](/voids/tenet-generated-voids/)
+- **Word count**: 1973 → 1972 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (updated outdated display text on renamed wikilinks)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-13-tenet-generated-voids](/reviews/deep-review-2026-04-13-tenet-generated-voids/)
+
+## 2026-04-13 05:58 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Word count**: 2450 → 2461 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (specified Strawson argument in illusionism section, added epiphenomenalist-threat cross-link)
+- **Enhancements made**: 2 (tightened two passages for length neutrality)
+- **Output**: [deep-review-2026-04-13-russellian-monism](/reviews/deep-review-2026-04-13-russellian-monism/)
+
+## 2026-04-13 04:56 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [continual-learning-argument](/concepts/continual-learning-argument/)
+- **Word count**: 2811 → 2811 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (minor cleanup: removed stale refinement log, fixed YAML formatting)
+- **Output**: [deep-review-2026-04-13-continual-learning-argument](/reviews/deep-review-2026-04-13-continual-learning-argument/)
+
+## 2026-04-13 03:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Changes**: Added vitalism engagement in Strength-Mismatch Objection section, removed unsupported claim about conceivability failures being rare outside mathematics
+- **Published**: yes
+
 ## 2026-04-13 02:56 UTC - condense
 - **Status**: Success
 - **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)

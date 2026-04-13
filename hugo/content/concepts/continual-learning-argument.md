@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-20
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-13 04:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Current LLMs cannot be conscious because they lack continual learni
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 00:03:00+00:00
+last_deep_review: 2026-04-13 04:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -197,14 +197,3 @@ From the Map's perspective, continual learning is likely a *consequence* of cons
 6. Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
 7. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 8. Tegmark, M. (2000). "The Importance of Quantum Decoherence in Brain Processes." *Physical Review E*, 61(4), 4194-4206.
-
-<!-- AI REFINEMENT LOG - 2026-03-15
-Changes made:
-- Reduced "The Decoherence Challenge" section from 3 detailed subsections to a brief "Quantum Considerations" paragraph, per style guide restraint requirements and pessimistic-2026-03-11-afternoon.md Issue 4
-- Trimmed Minimal Quantum Interaction tenet connection to match reduced quantum emphasis
-- Removed Hameroff & Penrose reference (no longer substantively cited)
-- Removed measurement-problem from concepts frontmatter (no longer referenced)
-
-Key improvements: Quantum mechanisms now mentioned as speculative possibility rather than defended at length; article's argument no longer depends on quantum claims
-This log should be removed after human review.
--->

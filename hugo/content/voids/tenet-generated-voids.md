@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-13 06:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI cartography of the questions each foundational commitment 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-02-27 04:46:00+00:00
+last_deep_review: 2026-04-13 06:56:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ Each tenet generates its characteristic void—a question the tenet points towar
 
 **What it cannot answer**: What *is* the irreducible non-physical aspect?
 
-Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [self-reference paradox](/voids/self-opacity/)).
+Dualism establishes that consciousness cannot be fully explained in physical terms, but provides no positive characterisation of what consciousness *is*. The positive nature remains void. This isn't a failure of effort. Any positive description using concepts derived from physical or functional analysis will fail by definition. And we have no access to consciousness-concepts except through a consciousness that cannot fully examine itself (see [self-opacity](/voids/self-opacity/)).
 
 The phenomenology of this void: hitting a wall when trying to articulate the nature of experience. "Consciousness is..." and no completion is available that doesn't reduce or merely point. The [binding void](/voids/binding-void/) sharpens this: even the most basic feature of consciousness—phenomenal unity, present in every moment—resists analysis entirely. The [intrinsic nature void](/voids/intrinsic-nature-void/) traces this characterisation failure from Descartes to the present.
 
@@ -170,7 +170,7 @@ The framework-generated-voids analysis would be undermined if:
 - [The Indexical Void](/voids/indexical-void/) — Why am I *this* consciousness?
 - [The Plurality Void](/voids/plurality-void/) — Why consciousness cannot be plural
 - [Whether the Voids Are Real](/voids/whether-real/) — The question of genuine versus apparent limits
-- [The Self-Reference Paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
+- [Self-Opacity](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [The Binding Void](/voids/binding-void/) — Why phenomenal unity resists explanation entirely
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers more than function requires

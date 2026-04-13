@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-22 05:26:00+00:00
+ai_modified: 2026-04-13 05:58:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: Russellian monism claims quiddities ground consciousness, but faces
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 02:44:00+00:00
+last_deep_review: 2026-04-13 05:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ The Unfinishable Map shares Russellian monism's insight that physics is silent o
 
 Bertrand Russell (1927) and Arthur Eddington (1928) observed that physics describes only what things *do*—their causal and relational properties—not what they *are* intrinsically. Mass is defined by gravitational and inertial behavior; charge by electromagnetic interactions. No physical description tells us what these properties *are* in themselves. Eddington called physics "a world of shadows"—equations relating symbols without revealing what those symbols represent. The Map's [physical-completeness](/concepts/physical-completeness/) article develops this further: physics is *structurally exhaustive* while leaving an ontological gap where consciousness operates. The [intrinsic-nature-void](/voids/intrinsic-nature-void/) explores why this gap may be unfillable in principle.
 
-This creates space for consciousness. If physics captures only structure, something must *realize* that structure. Russellian monists propose that quiddities—the intrinsic natures of fundamental entities—are what realize it. Since consciousness is the one intrinsic nature we know directly (through [introspection](/concepts/introspection/)), perhaps consciousness *is* quiddity, or is grounded in it.
+This creates space for consciousness. If physics captures only structure, something must *realize* that structure. Russellian monists propose quiddities—the intrinsic natures of fundamental entities—as that realizer. Since consciousness is the one intrinsic nature we know directly (through [introspection](/concepts/introspection/)), perhaps consciousness *is* quiddity, or is grounded in it.
 
 ## Two Main Variants
 
@@ -87,7 +87,7 @@ Brian Cutter (2019) presses further: Russellian monism is not merely equivalent 
 
 ### The Epiphenomenalism Return
 
-Russellian monism was motivated partly by avoiding [epiphenomenalism](/concepts/epiphenomenalism/)—if quiddities ground physical dispositions, consciousness is causally relevant. But Howell (2014) and Robinson (2018) identify a fatal weakness: the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a distinct quiddity Q2 could ground the same disposition in another possible world, quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. As Howell puts it, "The best Russellian monism can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality." Epiphenomenalism returns under monist vocabulary.
+Russellian monism was motivated partly by avoiding [epiphenomenalism](/concepts/epiphenomenalism/)—if quiddities ground physical dispositions, consciousness is causally relevant. But Howell (2014) and Robinson (2018) identify a fatal weakness: the *contingency thesis*. If quiddity Q1 grounds negative charge in the actual world but a distinct quiddity Q2 could ground the same disposition in another possible world, quiddities make no distinctive causal contribution *in virtue of their phenomenal character*. As Howell puts it, "The best Russellian monism can hope for is that phenomenal properties are causally relevant, but not in virtue of their phenomenality." Epiphenomenalism returns under monist vocabulary—a specific instance of [the broader epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) that the Map addresses through its quantum interaction mechanism.
 
 ### The Map's Advantages
 
@@ -97,11 +97,11 @@ If Russellian monism inherits dualism's costs under a different name, the Map's 
 
 **Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [substance dualism](/concepts/substance-property-dualism/) sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
 
-**Interaction mechanism**: the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) proposal addresses how consciousness interfaces with physics at the quantum level—selection among quantum outcomes. This gives consciousness genuine causal work—selecting among undetermined outcomes—rather than claiming it *grounds* physical dispositions (which the contingency thesis undermines). Russellian monism claims consciousness is already integrated but doesn't specify *how* the integration works in physical terms.
+**Interaction mechanism**: the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) gives consciousness genuine causal work—selecting among undetermined quantum outcomes—rather than claiming it *grounds* physical dispositions (which the contingency thesis undermines). Russellian monism claims consciousness is already integrated but doesn't specify *how* the integration works in physical terms.
 
 ## The Illusionist Challenge
 
-[Illusionism](/concepts/illusionism/) and Russellian monism represent opposite responses to the [hard problem](/topics/hard-problem-of-consciousness/): Russellian monism enriches physics with phenomenal quiddities; illusionism denies phenomenal properties exist. Russellian monism has stronger resources against illusionism than standard physicalism—if quiddities provide intrinsic nature, Strawson's challenge applies: why deny experience when it is our most certain evidence? The deeper lesson is that Russellian monism shares the Map's recognition that phenomenal properties must be taken seriously. The disagreement is whether quiddities *are* phenomenal (panpsychism), *ground* the phenomenal (panprotopsychism), or whether consciousness is ontologically distinct and *interacts with* physics (the Map's framework). See [illusionism](/concepts/illusionism/) for the full debate.
+[Illusionism](/concepts/illusionism/) and Russellian monism represent opposite responses to the [hard problem](/topics/hard-problem-of-consciousness/): Russellian monism enriches physics with phenomenal quiddities; illusionism denies phenomenal properties exist. Russellian monism resists illusionism more effectively than standard physicalism because it can deploy Galen Strawson's "reality of experience" argument: experience is the one thing we know exists non-inferentially, so any theory denying it undermines its own epistemic basis. The deeper lesson is that Russellian monism shares the Map's recognition that phenomenal properties must be taken seriously. The disagreement is whether quiddities *are* phenomenal (panpsychism), *ground* the phenomenal (panprotopsychism), or whether consciousness is ontologically distinct and *interacts with* physics (the Map's framework). See [illusionism](/concepts/illusionism/) for the full debate.
 
 ## The Mysterian Angle
 
