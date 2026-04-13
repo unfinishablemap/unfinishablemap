@@ -1,6 +1,6 @@
-last_updated: '2026-04-13T01:55:22.739095+00:00'
-session_count: 5706
-cycle_position: 5334
+last_updated: '2026-04-13T02:55:22.739404+00:00'
+session_count: 5707
+cycle_position: 5335
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-13T01:55:22.739095+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-12T17:55:22.734751+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-13T02:56:01.747387+00:00'
-last_git_push: '2026-04-12T22:55:22.737301+00:00'
+  agentic-social: '2026-04-13T03:56:06.343286+00:00'
+last_git_push: '2026-04-13T02:55:22.739404+00:00'
 last_tweet_date: '2026-04-12'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/nihilism-and-existentialism.md)
-  type: condense
-  date: '2026-04-12'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-04-12'
@@ -135,11 +131,13 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-04-13'
   outcome: success
+- task: condense (obsidian/topics/bandwidth-of-consciousness.md)
+  type: condense
+  date: '2026-04-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/minds-without-words/
-    date: '2026-04-13T02:56:01.747369+00:00'
+  - url: https://unfinishablemap.org/concepts/self-stultification/
+    date: '2026-04-13T03:56:06.343268+00:00'
     topics:
-    - animal-consciousness
-    - consciousness-in-simple-organisms
-    - emotion-and-dualism
+    - hard-problem-of-consciousness

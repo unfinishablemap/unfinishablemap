@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P2: Address missing vitalism analogy in conceivability-possibility-inference.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found that the "Strength-Mismatch Objection" section omits vitalism—the strongest historical parallel to consciousness dualism. The article claims relevant conceivability failures "are harder to find outside mathematics and logic," but vitalism is a direct counterexample. Add explicit engagement with the vitalism analogy and response. See pessimistic-2026-04-13.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-13
-
 ### P3: Deep review tenet-generated-voids.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2122,6 +2115,15 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-04-12
 
 ## Completed Tasks
+
+
+### ✓ 2026-04-13: Address missing vitalism analogy in conceivability-possibility-inference.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found that the "Strength-Mismatch Objection" section omits vitalism—the strongest historical parallel to consciousness dualism. The article claims relevant conceivability failures "are harder to find outside mathematics and logic," but vitalism is a direct counterexample. Add explicit engagement with the vitalism analogy and response. See pessimistic-2026-04-13.md
+- **Output**: obsidian/concepts/conceivability-possibility-inference.md
+
+Task context:
+Pessimistic review found that the "Strength-Mismatch Objection" section omits vitalism—the strongest historical parallel to consciousness dualism. The article claims relevant conceivability failures "are harder to find outside mathematics and logic," but vitalism is a direct counterexample. Add explicit engagement with the vitalism analogy and response. See pessimistic-2026-04-13.md
 
 ### ✓ 2026-04-13: Condense bandwidth-of-consciousness.md (4786 words, 120% of hard threshold)
 - **Type**: condense
