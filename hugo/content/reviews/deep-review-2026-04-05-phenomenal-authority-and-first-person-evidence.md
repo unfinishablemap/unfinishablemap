@@ -65,7 +65,7 @@ No qualifier drops, position overstatements, or source/Map conflation detected.
   - [qualia](/concepts/qualia/) — inline link in "Directly Apprehensible" section
   - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — inline link in Self-Knowledge section ("phenomenal authority operating in the cognitive domain")
   - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Further Reading entry
-  - [phenomenal-transparency](/concepts/phenomenal-transparency/) — Further Reading entry
+  - [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Further Reading entry
   - [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — Further Reading entry
 
 ### Cross-links Added
@@ -73,7 +73,7 @@ No qualifier drops, position overstatements, or source/Map conflation detected.
 - [qualia](/concepts/qualia/) → phenomenal-authority-and-first-person-evidence
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) → phenomenal-authority-and-first-person-evidence
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) → phenomenal-authority-and-first-person-evidence
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) → phenomenal-authority-and-first-person-evidence
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) → phenomenal-authority-and-first-person-evidence
 - [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) → phenomenal-authority-and-first-person-evidence
 
 ## Remaining Items

@@ -66,7 +66,7 @@ topics: []
 - Added Minimal Quantum Interaction to Relation to Site Perspective
 
 ### Cross-links Added
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — transparency feature of logical compulsion
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — transparency feature of logical compulsion
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — zombie conceivability in Structural Gap
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) — consciousness acting on quantum indeterminacies
 - [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits parallel

@@ -64,7 +64,7 @@ topics: []
 ### Cross-links Added
 - [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
 

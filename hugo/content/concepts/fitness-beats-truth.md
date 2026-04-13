@@ -87,13 +87,13 @@ The FBT theorem bears most directly on **[Occam's Razor Has Limits](/tenets/#occ
 
 The theorem also connects to **[Dualism](/tenets/#dualism)** through [the evolved cognitive limits framework](/voids/biological-cognitive-closure/). If the brain is an organ shaped by natural selection for physical-world navigation, and if that shaping systematically favoured fitness over truth, then the brain may be precisely the wrong instrument for understanding consciousness—a phenomenon that, if dualism holds, is not a physical-world feature at all. The persistent difficulty of the [hard problem](/topics/hard-problem-of-consciousness/) may reflect not the hardness of the question but the unsuitability of the instrument asking it.
 
-For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT theorem raises the possibility that the mechanism by which consciousness influences physical outcomes is among the things our fitness-tuned perception is shaped *not* to detect. If perceiving the mind-brain interface accurately conferred no survival advantage—or actively reduced fitness by disrupting automatic processes—evolution would have selected against that transparency. The [phenomenal transparency](/concepts/phenomenal-transparency/) of experience may be a fitness-serving feature rather than a neutral fact about consciousness.
+For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT theorem raises the possibility that the mechanism by which consciousness influences physical outcomes is among the things our fitness-tuned perception is shaped *not* to detect. If perceiving the mind-brain interface accurately conferred no survival advantage—or actively reduced fitness by disrupting automatic processes—evolution would have selected against that transparency. The [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) of experience may be a fitness-serving feature rather than a neutral fact about consciousness.
 
 ## Further Reading
 
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How cognitive limits function as adaptive features shaped by natural selection
 - [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — The broader framework of evolution-maintained cognitive boundaries
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — Why experience conceals its own representational character
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
 - [probability-intuition-void](/voids/probability-intuition-void/) — How fitness-tuned cognition distorts probabilistic reasoning

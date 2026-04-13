@@ -87,7 +87,7 @@ Not all self-reference failures are alike. The paradox manifests in at least thr
 
 **Structural limits** arise from the formal properties of self-referential systems. These are analogous to Gödel's theorems and may be in principle insurmountable. If consciousness instantiates a system subject to incompleteness constraints, some truths about itself are permanently beyond its reach. This possibility grounds [mysterianism](/concepts/mysterianism/)—the thesis that the [hard problem of consciousness](/topics/hard-problem-of-consciousness/) may reflect cognitive closure rather than mere current ignorance.
 
-**Transparency limits** arise from the functional requirements of self-modelling. The machinery must hide itself for the self-model to work. These limits serve a purpose—they are features, not bugs, of conscious architecture. [Phenomenal transparency](/concepts/phenomenal-transparency/)—the property by which representations conceal themselves as representations—ensures the self-model functions seamlessly. Metzinger's work and the phenomenon of [galilean-exclusion](/concepts/galilean-exclusion/) both point to this category.
+**Transparency limits** arise from the functional requirements of self-modelling. The machinery must hide itself for the self-model to work. These limits serve a purpose—they are features, not bugs, of conscious architecture. [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/)—the property by which representations conceal themselves as representations—ensures the self-model functions seamlessly. Metzinger's work and the phenomenon of [galilean-exclusion](/concepts/galilean-exclusion/) both point to this category.
 
 **Recursive limits** arise from the finite depth of self-referential processing. Humans can manage roughly five orders of intentionality ("I believe that you suppose that I imagine that she thinks that he wants...") before [metacognition](/concepts/metacognition/) collapses. This is not a formal impossibility but a practical ceiling imposed by working memory and neural architecture.
 
@@ -116,7 +116,7 @@ The self-reference paradox directly supports several of the Map's [tenets](/tene
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
 - [necessary-opacity](/voids/necessary-opacity/)
 - [apophatic-approaches](/concepts/apophatic-approaches/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — Why the self-model must hide its own machinery
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why the self-model must hide its own machinery
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — What self-referential thought feels like from the inside
 
 ## References

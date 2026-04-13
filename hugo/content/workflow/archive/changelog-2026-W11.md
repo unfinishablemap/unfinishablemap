@@ -735,7 +735,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-15T06:26:00+00:00 - deep-review
 - **Status**: Success
-- **File**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- **File**: [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - **Word count**: 1917 → 1981 (+64)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (awkward cross-link placement, missing transparency-void link, missing meta-problem-of-consciousness link)

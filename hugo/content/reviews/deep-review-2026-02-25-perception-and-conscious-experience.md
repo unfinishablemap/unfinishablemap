@@ -78,7 +78,7 @@ The article had zero inbound links despite being a natural hub for perception-re
 - [blindsight](/concepts/blindsight/) — Added link noting perception-and-conscious-experience provides the broader framework of perceptual dissociations
 - [phenomenal-overflow](/concepts/phenomenal-overflow/) — Added link noting overflow is one feature of perceptual experience resisting reduction
 - [binding-problem](/concepts/binding-problem/) — Added link in cross-modal binding section noting perception's contribution
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — Added link in vision section noting transparency among features resisting neural reduction
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Added link in vision section noting transparency among features resisting neural reduction
 - [qualia](/concepts/qualia/) — Added link noting perceptual qualia as paradigm cases
 - [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Added link noting dissociations explored in detail
 - [access-consciousness](/concepts/access-consciousness/) — Added link noting perceptual dissociations as concrete cases

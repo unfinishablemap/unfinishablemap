@@ -28,7 +28,7 @@ topics: []
 ### Medium Issues Found
 - **Unsourced interoception claim** (line 74): The claim about weaker interoceptive awareness and rubber hand illusion susceptibility lacked a citation. Resolution: Added Tsakiris et al. (2011) reference and in-text attribution.
 - **Metzinger attribution slightly loose**: "Transparency is the phenomenal signature of epistemic reliability" was a reasonable but somewhat interpretive gloss on Metzinger's transparency thesis. Resolution: Tightened to stay closer to Metzinger's actual framing ("the default condition of well-functioning mental models").
-- **Missing cross-link to phenomenal-transparency concept**: Metzinger's transparency is discussed at length but the existing concept page wasn't linked. Resolution: Added wikilink to [phenomenal-transparency](/concepts/phenomenal-transparency/).
+- **Missing cross-link to phenomenal-transparency concept**: Metzinger's transparency is discussed at length but the existing concept page wasn't linked. Resolution: Added wikilink to [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/).
 
 ### Counterarguments Considered
 - **Churchland (eliminative materialist)**: "Extension" is just neural plasticity updating body representations — no void needed. Response: The article correctly notes the neural mechanisms (peripersonal space) but frames the void at the phenomenal level, where the update is invisible to the subject. The article doesn't deny the neural mechanism; it identifies a structural feature of the first-person experience of that mechanism.
@@ -60,13 +60,13 @@ topics: []
 - **Relation to Site Perspective**: Engages four tenets substantively (bidirectional interaction, dualism, Occam's limits, and implicitly minimal quantum interaction)
 
 ### Enhancements Made
-- Added [phenomenal-transparency](/concepts/phenomenal-transparency/) cross-link where Metzinger is discussed
+- Added [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) cross-link where Metzinger is discussed
 - Added phenomenal-transparency to related_articles and Further Reading
 - Added proper citation for Tsakiris et al. (2011) interoception finding
 - Tightened Metzinger attribution for accuracy
 
 ### Cross-links Added
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 
 ## Remaining Items
 

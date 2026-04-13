@@ -1371,7 +1371,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-13 07:34 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- **File**: [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - **Word count**: 1516 → 1808 (+292)
 - **Critical issues addressed**: 4
 - **Medium issues addressed**: 5
@@ -2492,7 +2492,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 04:15 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenal transparency
-- **Output**: [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- **Output**: [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - **Word count**: 1516
 - **Based on research**: yes, [voids-transparency-void-2026-02-09](/research/voids-transparency-void-2026-02-09/)
 

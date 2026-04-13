@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-11
-**Article**: [Phenomenal Opacity](/concepts/phenomenal-opacity/)
+**Article**: [Phenomenal Opacity](/concepts/phenomenal-transparency-opacity-spectrum/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

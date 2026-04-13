@@ -53,7 +53,7 @@ All checks pass (unchanged from previous review):
 ### Cross-links Added
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — inline in Recursive Levels + Further Reading
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — inline in Contemplative Evidence + Further Reading
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — Further Reading
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Further Reading
 
 ## Length Analysis
 

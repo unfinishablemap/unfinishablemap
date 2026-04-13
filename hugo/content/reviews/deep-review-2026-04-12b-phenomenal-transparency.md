@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-12
-**Article**: [Phenomenal Transparency](/concepts/phenomenal-transparency/)
+**Article**: [Phenomenal Transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 **Previous review**: [2026-04-12](/reviews/deep-review-2026-04-12-phenomenal-transparency/) (earlier today, cross-review with phenomenal-opacity)
 
 ## Pessimistic Analysis Summary
@@ -28,7 +28,7 @@ None. All critical issues from previous reviews remain resolved. Attribution che
 
 ### Medium Issues Found
 
-None. The earlier review today comprehensively addressed all cross-linking gaps with [phenomenal-opacity](/concepts/phenomenal-opacity/). All wikilinks verified as functional (transparency-void, previously linked, was correctly removed after archival).
+None. The earlier review today comprehensively addressed all cross-linking gaps with [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/). All wikilinks verified as functional (transparency-void, previously linked, was correctly removed after archival).
 
 ### Counterarguments Considered
 
@@ -60,7 +60,7 @@ None. No content changes needed — article is stable.
 
 ### Cross-links Added
 
-None. Cross-linking with [phenomenal-opacity](/concepts/phenomenal-opacity/) is comprehensive (related_articles, inline in Transparency Disruptions, Further Reading).
+None. Cross-linking with [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) is comprehensive (related_articles, inline in Transparency Disruptions, Further Reading).
 
 ## Remaining Items
 
@@ -68,13 +68,13 @@ None.
 
 ## Stability Notes
 
-- This is the article's **fourth deep review**. It has reached full stability. The third review (earlier today) comprehensively handled the cross-review with [phenomenal-opacity](/concepts/phenomenal-opacity/), adding Carruthers' interpretive self-knowledge argument, opacity spectrum framing in Transparency Disruptions, and reciprocal cross-links.
+- This is the article's **fourth deep review**. It has reached full stability. The third review (earlier today) comprehensively handled the cross-review with [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/), adding Carruthers' interpretive self-knowledge argument, opacity spectrum framing in Transparency Disruptions, and reciprocal cross-links.
 - All stability notes from previous reviews continue to hold:
   - The deflationary neuroscience reading is a bedrock philosophical disagreement, not a fixable flaw.
   - The FBT contestation is a genuine scholarly debate, fairly presented.
   - The meditation/impenetrability tension is properly resolved.
   - The Carruthers paragraph fills a genuine gap and should not be removed.
   - The degraded perception paragraph is a solid addition.
-- Schwitzgebel (2008) on unreliability of naive introspection (present in the companion [phenomenal-opacity](/concepts/phenomenal-opacity/) article) was considered for addition but deemed redundant given the Carruthers paragraph already covers the interpretive self-knowledge argument.
+- Schwitzgebel (2008) on unreliability of naive introspection (present in the companion [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) article) was considered for addition but deemed redundant given the Carruthers paragraph already covers the interpretive self-knowledge argument.
 - Word count: 2153 words (86% of 2500 soft threshold). Appropriate density, no expansion or condensation needed.
 - **This article should be deprioritized for future deep reviews** unless substantive new content is added. It has been reviewed four times with diminishing returns — the last two reviews found no critical issues.

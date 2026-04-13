@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-04-12
-**Article**: [Phenomenal Transparency](/concepts/phenomenal-transparency/)
+**Article**: [Phenomenal Transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 **Previous review**: [2026-03-15](/reviews/deep-review-2026-03-15-phenomenal-transparency/)
-**Context**: Cross-review considering newly created [phenomenal-opacity](/concepts/phenomenal-opacity/) article (2026-04-11)
+**Context**: Cross-review considering newly created [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) article (2026-04-11)
 
 ## Pessimistic Analysis Summary
 
@@ -29,7 +29,7 @@ None. All critical issues from previous reviews remain resolved. Attribution che
 
 ### Medium Issues Found
 
-- **Missing cross-link to [phenomenal-opacity](/concepts/phenomenal-opacity/)**: The natural companion piece (created 2026-04-11) was not referenced anywhere in the article — not in text, Further Reading, or related_articles — despite the opacity article linking back prominently. Resolution: Added to related_articles frontmatter, inline link in Transparency Disruptions section intro, and top entry in Further Reading.
+- **Missing cross-link to [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)**: The natural companion piece (created 2026-04-11) was not referenced anywhere in the article — not in text, Further Reading, or related_articles — despite the opacity article linking back prominently. Resolution: Added to related_articles frontmatter, inline link in Transparency Disruptions section intro, and top entry in Further Reading.
 - **Transparency disruptions lacked opacity framing**: The disruptions section described shifts toward opacity without naming the concept or Metzinger's transparency-opacity spectrum. Resolution: Added framing sentence noting disruptions as shifts along the spectrum toward phenomenal opacity, with the key epistemic qualification from the opacity article (opacity reveals status, not mechanism).
 - **Missing Carruthers' interpretive self-knowledge argument**: The opacity article introduced Carruthers (2011) arguing self-knowledge is fundamentally interpretive. This deepens the epistemic circularity discussion — transparency may hide not just mediation but the absence of direct introspective access entirely. Resolution: Added Carruthers paragraph to Epistemic Circularity section with reference.
 - **Duplicate self-opacity link in Further Reading**: `[self-reference paradox](/voids/self-opacity/)` and `[introspective opacity](/voids/self-opacity/)` both linked to the same article. Resolution: Removed the duplicate entry.
@@ -65,7 +65,7 @@ No new counterarguments warranted by the cross-review changes.
 
 ### Cross-links Added
 
-- [phenomenal-opacity](/concepts/phenomenal-opacity/) — related_articles, inline in Transparency Disruptions, Further Reading
+- [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) — related_articles, inline in Transparency Disruptions, Further Reading
 
 ## Remaining Items
 

@@ -9,6 +9,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-13 18:56 UTC - deep-review
+- **Status**: Success
+- **File**: [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/)
+- **Word count**: 1807 → 2132 (+325)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Lucas-Penrose gap, formal/physical equivocation, Brouwer reference)
+- **Enhancements made**: 3 (new section on Lucas-Penrose, cross-link to reductionism-and-consciousness, tightened opening)
+- **Output**: [deep-review-2026-04-13-concession-convergence-philosophy-of-mathematics](/reviews/deep-review-2026-04-13-concession-convergence-philosophy-of-mathematics/)
+
+## 2026-04-13 17:56 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-transparency](/concepts/phenomenal-transparency/), [phenomenal-opacity](/concepts/phenomenal-opacity/)
+- **Target**: [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)
+- **Archived**: [phenomenal-transparency](/archive/concepts/phenomenal-transparency/), [phenomenal-opacity](/archive/concepts/phenomenal-opacity/)
+- **References to review**: 21 active content files (cross-review task created)
+
+## 2026-04-13 16:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Concession convergence in philosophy of mathematics
+- **Output**: [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/)
+- **Word count**: 1807
+- **Based on research**: No (built on existing concession-convergence concept and consciousness-and-mathematics topic)
+
 ## 2026-04-13 14:56 UTC - deep-review
 - **Status**: Success
 - **File**: [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)

@@ -46,7 +46,7 @@ The Unfinishable Map's [voids](/voids/) chart the boundaries of what consciousne
 
 ## Phenomenal Transparency
 
-Thomas Metzinger identifies [phenomenal transparency](/concepts/phenomenal-transparency/) as a core feature of conscious experience. A representation is phenomenally transparent when it cannot be experienced *as* a representation—the subject "looks right through" it to what it apparently represents. As Metzinger writes, "A transparent self-model necessarily creates the realistic conscious experience of selfhood, of being directly and immediately in touch with oneself as a whole" (*Being No One*, 2003).
+Thomas Metzinger identifies [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) as a core feature of conscious experience. A representation is phenomenally transparent when it cannot be experienced *as* a representation—the subject "looks right through" it to what it apparently represents. As Metzinger writes, "A transparent self-model necessarily creates the realistic conscious experience of selfhood, of being directly and immediately in touch with oneself as a whole" (*Being No One*, 2003).
 
 The degree of transparency is inversely proportional to the introspective availability of earlier processing stages. When you see a red apple, you do not experience a representation-of-redness produced by photoreceptor activation, lateral inhibition, and cortical processing. You experience redness, full stop. The machinery is invisible.
 
@@ -110,7 +110,7 @@ The void also connects to the Map's [Bidirectional Interaction](/tenets/#bidirec
 
 ## Further Reading
 
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — The concept underlying this void: why representations conceal themselves as representations
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — The concept underlying this void: why representations conceal themselves as representations
 - [The Phenomenal Presence Void](/voids/phenomenal-quality-void/) — The companion void: why the stamp of realness hides its own mechanism
 - [introspective opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive mechanisms
 - [self-reference paradox](/voids/self-opacity/) — The broader difficulties of consciousness examining itself

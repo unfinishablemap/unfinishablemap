@@ -96,7 +96,7 @@ This response does require that consciousness can influence physical outcomes wi
 
 ## The Phenomenal Transparency Connection
 
-[Phenomenal transparency](/concepts/phenomenal-transparency/)—the property by which experience conceals its own representational nature—adds another dimension to the meta-problem. If we cannot introspectively detect the processing stages that produce our experiences, our problem intuitions may partly reflect this blindness. Thomas Metzinger's account of the phenomenal self-model develops this idea: the transparency of self-representation means we cannot experience the representational process *as* representation, which generates the conviction that consciousness is fundamentally unlike anything physical. We report that consciousness is mysterious because we literally cannot see the mechanism from the inside.
+[Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/)—the property by which experience conceals its own representational nature—adds another dimension to the meta-problem. If we cannot introspectively detect the processing stages that produce our experiences, our problem intuitions may partly reflect this blindness. Thomas Metzinger's account of the phenomenal self-model develops this idea: the transparency of self-representation means we cannot experience the representational process *as* representation, which generates the conviction that consciousness is fundamentally unlike anything physical. We report that consciousness is mysterious because we literally cannot see the mechanism from the inside.
 
 This cuts both ways. Physicalists can argue transparency explains *why* consciousness seems irreducible—we can't see the physical machinery, so we conclude none exists. Dualists can argue transparency explains *why* the hard problem is so persistently overlooked—the invisibility of the representational medium means we chronically underestimate how strange consciousness is.
 
@@ -128,7 +128,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment sharpening the meta-problem
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionist dualism turns the metaproblem into evidence for dualism
 - [Illusionism as Epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) — Why illusionism and epiphenomenalism face identical meta-problem burdens
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — How self-concealing representation connects to problem intuitions
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — How self-concealing representation connects to problem intuitions
 - [causal-closure](/concepts/causal-closure/) — The challenge interactionism must address
 - [mysterianism](/concepts/mysterianism/) — The view that consciousness may exceed human comprehension
 

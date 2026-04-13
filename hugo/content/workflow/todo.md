@@ -52,13 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P3: Write article on concession-convergence in philosophy of mathematics
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Track how formalism, logicism, and structuralism each independently narrow their claims under pressure (Gödel, paradoxes, applicability problem), paralleling the pattern tracked for consciousness theories in concession-convergence.md. Each narrowing concedes something about conscious mathematical understanding. Builds on concession-convergence, consciousness-and-mathematics, consciousness-and-the-authority-of-formal-systems. Target section: topics/ (228/250). See optimistic-2026-04-11.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-11
-
 ### P3: Add cross-links from optimistic-2026-04-11 review (6 pairs)
 - **Type**: refine-draft
 - **Status**: pending
@@ -2076,6 +2069,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Update references to coalesced phenomenal-transparency and phenomenal-opacity
+- **Type**: cross-review
+- **Notes**: Coalesce created phenomenal-transparency-opacity-spectrum. The following active files reference archived articles and need wikilinks updated: introspection.md, projection-void.md, consciousness-and-the-authority-of-formal-systems.md, ownership-void.md, phenomenology-of-recursive-self-awareness.md, necessary-opacity.md, curated-mind.md, self-reference-paradox.md, phenomenal-depth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, dualist-perception.md, fitness-beats-truth.md, perceptual-degradation-and-the-interface.md, perceptual-failure-and-the-interface.md, biological-cognitive-closure.md, perception.md, intentionality-void.md, meta-problem-of-consciousness.md, consciousness-epistemology-extended-cognition.md (21 files total). Update [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) → [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) and [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) → [phenomenal opacity](/concepts/phenomenal-transparency-opacity-spectrum/).
+- **Output**: None -- Context: Update references to coalesced phenomenal-transparency and phenomenal-opacity
+
+### ✓ 2026-04-13: Write article on concession-convergence in philosophy of mathematics
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Track how formalism, logicism, and structuralism each independently narrow their claims under pressure (Gödel, paradoxes, applicability problem), paralleling the pattern tracked for consciousness theories in concession-convergence.md. Each narrowing concedes something about conscious mathematical understanding. Builds on concession-convergence, consciousness-and-mathematics, consciousness-and-the-authority-of-formal-systems. Target section: topics/ (228/250). See optimistic-2026-04-11.md
+- **Output**: concession-convergence in philosophy of mathematics
 
 ### ✓ 2026-04-13: Cross-review pragmatist-normative-bridge against source articles
 - **Type**: cross-review

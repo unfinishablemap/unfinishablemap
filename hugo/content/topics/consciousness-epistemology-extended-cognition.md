@@ -86,9 +86,9 @@ This dissolves the apparent tension between extended cognition and epistemic int
 
 ## Phenomenal Opacity and the Limits of Self-Knowledge
 
-[Phenomenal opacity](/concepts/phenomenal-opacity/)—the condition in which conscious representations reveal themselves as constructs rather than transparent windows onto reality—introduces a further complication. If phenomenal states are sometimes opaque to [introspection](/concepts/introspection/), how does this interact with the question of extension?
+[Phenomenal opacity](/concepts/phenomenal-transparency-opacity-spectrum/)—the condition in which conscious representations reveal themselves as constructs rather than transparent windows onto reality—introduces a further complication. If phenomenal states are sometimes opaque to [introspection](/concepts/introspection/), how does this interact with the question of extension?
 
-Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. Consider a half-remembered face: you are conscious of the memory, but also conscious that it feels reconstructed, partial, unreliable. This meta-experiential character—knowing that you are uncertain *from the inside*—points toward what the Map identifies as a distinctive feature of consciousness. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The notebook does not experience its own accuracy as questionable. The Map's claim here extends beyond the [phenomenal-opacity](/concepts/phenomenal-opacity/) concept itself: while opacity describes a condition *within* consciousness, the contrast with external devices is a further inference—that the reflexive capacity to interrogate one's own reliability has no functional equivalent in extended systems. This is consistent with [self-opacity](/voids/self-opacity/)'s analysis of consciousness examining its own processes. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate cognitive and phenomenal analysis, the more the irreducibility of phenomenal properties stands out.
+Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. Consider a half-remembered face: you are conscious of the memory, but also conscious that it feels reconstructed, partial, unreliable. This meta-experiential character—knowing that you are uncertain *from the inside*—points toward what the Map identifies as a distinctive feature of consciousness. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The notebook does not experience its own accuracy as questionable. The Map's claim here extends beyond the [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) concept itself: while opacity describes a condition *within* consciousness, the contrast with external devices is a further inference—that the reflexive capacity to interrogate one's own reliability has no functional equivalent in extended systems. This is consistent with [self-opacity](/voids/self-opacity/)'s analysis of consciousness examining its own processes. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate cognitive and phenomenal analysis, the more the irreducibility of phenomenal properties stands out.
 
 ## Relation to Site Perspective
 
@@ -106,7 +106,7 @@ The Map speculates that this convergence is not coincidental. The features that 
 
 - [embodied-cognition](/concepts/embodied-cognition/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
-- [phenomenal-opacity](/concepts/phenomenal-opacity/)
+- [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [filter-theory](/concepts/filter-theory/)
 - [qualia](/concepts/qualia/)
 - [introspection](/concepts/introspection/)

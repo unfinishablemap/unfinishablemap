@@ -49,14 +49,14 @@ topics: []
 - Substantive tenet connections (Occam's Razor, Dualism, Bidirectional Interaction)
 
 ### Enhancements Made
-- Added cross-link to [phenomenal-transparency](/concepts/phenomenal-transparency/) in phenomenology section (natural connection to illusory comprehension)
+- Added cross-link to [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) in phenomenology section (natural connection to illusory comprehension)
 - Tightened Chomsky paragraph for concision
 - Compressed WEIRD caveat section while preserving argument
 - Compressed AI section while preserving key insight about architectural vs adaptive limits
 - Attributed problems/mysteries distinction explicitly to Chomsky
 
 ### Cross-links Added
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 
 ## Remaining Items
 

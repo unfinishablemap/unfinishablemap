@@ -26,7 +26,7 @@ topics: []
 None. All attributions verified accurate (Loar, Chalmers, Huemer, Rosenthal/Brown). No factual errors, no dropped qualifiers, no source/Map conflation, no self-contradictions. All required sections present and substantive.
 
 ### Medium Issues Found
-- **Transparency discussion lacked cross-link to [phenomenal-transparency](/concepts/phenomenal-transparency/)**: The article discussed phenomenal transparency without linking to the dedicated concept page. **Resolution**: Added inline link and brief contextualisation.
+- **Transparency discussion lacked cross-link to [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)**: The article discussed phenomenal transparency without linking to the dedicated concept page. **Resolution**: Added inline link and brief contextualisation.
 - **Missing [acquaintance-void](/voids/acquaintance-void/) connection**: The voids article directly extends the acquaintance concept by exploring structural limits on what modes of acquaintance are possible. **Resolution**: Added to Further Reading and related_articles frontmatter.
 - **Nagel (1974) missing from References**: The subject-dependence feature directly expresses Nagel's "what it is like" insight, yet the seminal paper was not cited. Previously noted as low-priority in the 2026-02-20 review. **Resolution**: Added to References.
 - **Stale refinement log**: HTML comment from 2026-02-20 (one month old) stated "should be removed after human review." **Resolution**: Removed.
@@ -48,14 +48,14 @@ None. All attributions verified accurate (Loar, Chalmers, Huemer, Rosenthal/Brow
 - Two-step dualism argument in Relation to Site Perspective: philosophically careful and explicit
 
 ### Enhancements Made
-- Added [phenomenal-transparency](/concepts/phenomenal-transparency/) cross-link in transparency discussion with brief contextualisation
+- Added [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) cross-link in transparency discussion with brief contextualisation
 - Added [acquaintance-void](/voids/acquaintance-void/) to Further Reading section
 - Added Nagel (1974) to References
 - Removed stale refinement log HTML comment
 - Updated related_articles frontmatter with new cross-links
 
 ### Cross-links Added
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [acquaintance-void](/voids/acquaintance-void/)
 
 ## Remaining Items

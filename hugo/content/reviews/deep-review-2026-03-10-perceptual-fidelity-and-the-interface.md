@@ -45,7 +45,7 @@ No new counterarguments beyond those addressed in the previous review. The artic
 - De-orphaned the article by adding 6 inbound cross-links from existing articles
 
 ### Cross-links Added (Inbound)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — Added "degraded perception" as a transparency disruption example with link to blur paradox
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Added "degraded perception" as a transparency disruption example with link to blur paradox
 - [blindsight](/concepts/blindsight/) — Extended Phillips's degraded consciousness discussion to reference the gradation continuum
 - [perception-and-conscious-experience](/topics/dualist-perception/) — Added blur paradox as evidence of transparency failure in the transparency section
 - [filter-theory](/concepts/filter-theory/) — Extended rendering engine analogy to include degraded rendering revealing the interface

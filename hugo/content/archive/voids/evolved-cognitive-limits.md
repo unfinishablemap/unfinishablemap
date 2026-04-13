@@ -111,7 +111,7 @@ Adaptive and architectural limits may produce different phenomenological signatu
 
 This connects to [cognitive-aversion](/voids/defended-territory/): the motivational deflection that steers thought away from certain territories. Adaptive limits produce **motivated disinterest** — the thought seems uninteresting rather than impossible. The cognitive system has learned through evolutionary deep time that this direction leads nowhere productive.
 
-Hoffman's work suggests the deepest form: **illusory comprehension**. The perceptual interface is smooth and well-functioning, so we feel we understand the world. The void is invisible precisely because the interface hides it seamlessly — we experience completeness, not a gap. This connects to [phenomenal transparency](/concepts/phenomenal-transparency/), where the medium of experience is invisible to the experiencer.
+Hoffman's work suggests the deepest form: **illusory comprehension**. The perceptual interface is smooth and well-functioning, so we feel we understand the world. The void is invisible precisely because the interface hides it seamlessly — we experience completeness, not a gap. This connects to [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/), where the medium of experience is invisible to the experiencer.
 
 Buddhist, Hindu, and Western contemplative traditions all report that self-investigation reaches a point where the investigator cannot be found. The consistent *phenomenology* across these traditions — regardless of interpretation — suggests a species-level feature of self-directed cognition.
 

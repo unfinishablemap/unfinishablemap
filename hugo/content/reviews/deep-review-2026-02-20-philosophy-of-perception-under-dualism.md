@@ -71,7 +71,7 @@ topics: []
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 
 ## Remaining Items
 

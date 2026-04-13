@@ -185,7 +185,7 @@ Based on this research, an article could:
 
 1. **"The Consciousness Bottleneck in Extended Cognition"** — Argue that the extended mind thesis inadvertently reveals consciousness as the non-negotiable core of cognition. The fact that cognitive processing extends but consciousness does not suggests consciousness has ontological features that functionalism cannot capture. This aligns with Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits — the "simpler" functionalist extension fails at consciousness).
 
-2. **"Epistemic Consciousness and the Limits of Extension"** — Drawing on Smithies and Block, argue that phenomenal consciousness sets the boundary of genuine epistemic agency. External devices can store and process information, but only conscious experience provides justification. This connects to Tenet 3 (Bidirectional Interaction — consciousness is epistemically active, not passive) and would cross-link with [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) and [phenomenal-opacity](/concepts/phenomenal-opacity/).
+2. **"Epistemic Consciousness and the Limits of Extension"** — Drawing on Smithies and Block, argue that phenomenal consciousness sets the boundary of genuine epistemic agency. External devices can store and process information, but only conscious experience provides justification. This connects to Tenet 3 (Bidirectional Interaction — consciousness is epistemically active, not passive) and would cross-link with [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) and [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/).
 
 3. **"The Filter Theory Meets Extended Cognition"** — Reconcile the Map's filter theory (body shapes how consciousness interfaces with the world) with the valid insights of extended cognition. Accept that cognitive *processing* extends while maintaining that consciousness itself does not. The body-plus-tools form the filter; consciousness is what passes through it. This preserves the Map's dualism while engaging seriously with 4E cognition rather than dismissing it.
 
@@ -199,7 +199,7 @@ When writing the article, follow `obsidian/project/writing-style.md` for:
 
 - Limited access to full text of Carter & Kallestrup (2016) on extended cognition and epistemic luck
 - Goldberg's arguments about content externalism forcing epistemic externalism need deeper investigation
-- The relationship between extended cognition and the Map's existing [phenomenal-opacity](/concepts/phenomenal-opacity/) concept could be developed further — if phenomenal states are opaque to introspection, how does this interact with the question of whether they can extend?
+- The relationship between extended cognition and the Map's existing [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) concept could be developed further — if phenomenal states are opaque to introspection, how does this interact with the question of whether they can extend?
 - Colombetti's work on extended affectivity deserves dedicated research — emotions as extended may be a more tractable case than cognition for the Map's framework
 - The relationship between cognitive integration conditions (Pritchard) and the Map's filter theory needs further development
 

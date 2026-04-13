@@ -30,7 +30,7 @@ topics: []
 None. All attributions verified accurate per previous reviews. No new factual errors, misattributions, broken links, or internal contradictions.
 
 ### Medium Issues Found
-- **Cross-review gap — phenomenal-opacity/transparency not referenced**: The newly created [phenomenal-opacity](/concepts/phenomenal-opacity/) article (2026-04-11) and recently updated [phenomenal-transparency](/concepts/phenomenal-transparency/) article introduce Metzinger's transparency-opacity spectrum, which maps directly onto the article's central process/content distinction. Phenomenal opacity explicitly states that opacity reveals *that* a representation is a representation without revealing *how* — precisely the content/process asymmetry. Neither article was linked. Resolution: integrated Metzinger's framework into the process/content section as the mechanistic explanation for why process access fails.
+- **Cross-review gap — phenomenal-opacity/transparency not referenced**: The newly created [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) article (2026-04-11) and recently updated [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) article introduce Metzinger's transparency-opacity spectrum, which maps directly onto the article's central process/content distinction. Phenomenal opacity explicitly states that opacity reveals *that* a representation is a representation without revealing *how* — precisely the content/process asymmetry. Neither article was linked. Resolution: integrated Metzinger's framework into the process/content section as the mechanistic explanation for why process access fails.
 - **Microphenomenology's relation to opacity unstated**: The microphenomenology section discusses "attending to experience itself" — precisely what Metzinger calls a shift toward phenomenal opacity. Resolution: added brief framing connecting microphenomenology to opacity cultivation.
 - **Error-blindness as transparency consequence unstated**: The insight that "being wrong feels like being right" is a direct consequence of phenomenal transparency — the invisible representational medium cannot signal its own distortions. Resolution: added one-sentence transparency connection.
 
@@ -54,12 +54,12 @@ None. All attributions verified accurate per previous reviews. No new factual er
 - Integrated Metzinger's transparency-opacity spectrum as the mechanistic explanation for the process/content distinction (1 medium issue)
 - Connected microphenomenology to phenomenal opacity cultivation (1 medium issue)
 - Connected error-blindness to phenomenal transparency (1 medium issue)
-- Added [phenomenal-transparency](/concepts/phenomenal-transparency/) and [phenomenal-opacity](/concepts/phenomenal-opacity/) to frontmatter concepts
-- Added [phenomenal-transparency](/concepts/phenomenal-transparency/) and [phenomenal-opacity](/concepts/phenomenal-opacity/) to Further Reading
+- Added [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) and [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) to frontmatter concepts
+- Added [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) and [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) to Further Reading
 
 ### Cross-links Added
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — in frontmatter, process/content section, error-blindness section, Further Reading
-- [phenomenal-opacity](/concepts/phenomenal-opacity/) — in frontmatter, process/content section, microphenomenology section, Further Reading
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — in frontmatter, process/content section, error-blindness section, Further Reading
+- [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) — in frontmatter, process/content section, microphenomenology section, Further Reading
 
 ### Prose Tightening (Length Neutrality)
 - Condensed Russell acquaintance/description passage

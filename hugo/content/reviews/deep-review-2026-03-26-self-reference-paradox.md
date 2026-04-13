@@ -45,7 +45,7 @@ None. The article remains well-attributed, internally consistent, and properly h
    - **Resolution**: Added to related_articles and Further Reading
 
 4. **Missing phenomenal-transparency body link**: Transparency limits section discussed Metzinger's work without linking to the concept article.
-   - **Resolution**: Added `[phenomenal-transparency](/concepts/phenomenal-transparency/)` link in transparency limits paragraph
+   - **Resolution**: Added `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` link in transparency limits paragraph
 
 ### Counterarguments Considered
 
@@ -65,7 +65,7 @@ All strengths from prior reviews remain intact:
 
 ### Enhancements Made
 
-1. Added `[phenomenal-transparency](/concepts/phenomenal-transparency/)` link in transparency limits section
+1. Added `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` link in transparency limits section
 2. Added self-opacity, phenomenal-transparency, phenomenology-of-recursive-thought to related_articles
 3. Added three new entries to Further Reading (self-opacity, phenomenal-transparency, phenomenology-of-recursive-thought)
 
@@ -77,7 +77,7 @@ All strengths from prior reviews remain intact:
 4. **[self-stultification](/concepts/self-stultification/)** — Added to related_articles and body text in Historical Context section
 5. **[explanatory-gap](/concepts/explanatory-gap/)** — Added to Further Reading
 6. **[higher-order-theories](/concepts/higher-order-theories/)** — Added to concepts frontmatter and updated Connection to Self-Reference section
-7. **[phenomenal-transparency](/concepts/phenomenal-transparency/)** — Added to concepts frontmatter
+7. **[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)** — Added to concepts frontmatter
 8. **[witness-consciousness](/concepts/witness-consciousness/)** — Added to concepts frontmatter
 
 ## Distinct Ground Analysis

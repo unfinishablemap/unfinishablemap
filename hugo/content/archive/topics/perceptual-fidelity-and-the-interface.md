@@ -50,7 +50,7 @@ This paradox matters because it exposes features of conscious experience that be
 
 ## The Transparency Illusion and Its Failure
 
-Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency/). When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role, and the path to a physicalist account looks clear.
+Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency-opacity-spectrum/). When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role, and the path to a physicalist account looks clear.
 
 Blur shatters this transparency. Remove your glasses, and you don't merely lose information about the external world—you gain something: awareness of the medium through which you were perceiving. The blurriness is not a property of the objects you're looking at. It is a property of *your experience*. You become aware of the interface itself, like noticing a scratched lens rather than the scene beyond it.
 
@@ -112,7 +112,7 @@ The blur paradox engages several of the Map's [tenets](/tenets/).
 
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
 - [perception-and-conscious-experience](/topics/dualist-perception/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)

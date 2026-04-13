@@ -58,7 +58,7 @@ topics: []
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — changed existing reconstruction-paradox link to perceptual-reconstruction-paradox
 - [blindsight](/concepts/blindsight/) — added to related_articles frontmatter
 - [predictive-processing](/concepts/predictive-processing/) — added contextual reference in "Perception as Controlled Hallucination" section
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — added substantive paragraph in optical illusions section
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — added substantive paragraph in optical illusions section
 - [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (void) — added to related_articles and Further Reading
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — added to Further Reading
 

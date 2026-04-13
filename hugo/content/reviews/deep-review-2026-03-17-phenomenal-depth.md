@@ -66,4 +66,4 @@ None. All identified issues were addressed.
 
 - Previous review's bedrock disagreements remain: eliminative materialist, Dennettian functionalist, and constructivist objections are expected philosophical standoffs, not fixable problems.
 - The article has reached good stability after two reviews. No structural changes needed — this review was primarily a reference maintenance pass triggered by upstream coalescence operations.
-- The `[phenomenal-transparency](/concepts/phenomenal-transparency/)` concept in frontmatter is not mentioned in the body text. This is a minor metadata issue, not worth adding body text just to justify the link. Future reviews should not flag this as critical.
+- The `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` concept in frontmatter is not mentioned in the body text. This is a minor metadata issue, not worth adding body text just to justify the link. Future reviews should not flag this as critical.

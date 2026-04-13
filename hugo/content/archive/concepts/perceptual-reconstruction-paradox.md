@@ -69,7 +69,7 @@ A particularly revealing feature of the reconstruction paradox is the boundary i
 
 The boundary is not absolute. Pylyshyn distinguished *synchronic* penetration (real-time belief correction, largely absent) from *diachronic* penetration (extended experience gradually reshaping perceptual modules). Radiologists develop the ability to see tumours that novices miss. Some cross-cultural populations show reduced Müller-Lyer susceptibility. Consciousness cannot intervene in the fast modular processing that delivers each moment's experience, but sustained engagement with reality gradually sculpts the modules themselves—influence without override, operating on a different timescale than the perceptual machinery.
 
-The cognitive impenetrability of perception is closely related to [phenomenal-transparency](/concepts/phenomenal-transparency/)—the property by which conscious representations conceal themselves as representations. The filled-in blind spot is maximally transparent: consciousness sees a continuous visual field and cannot detect the construction. The Müller-Lyer illusion is partially transparent: consciousness sees the illusion while knowing it is false, a crack in transparency that reveals the representational medium without enabling correction. These two properties—impenetrability and transparency—jointly define the experiential boundary that the reconstruction paradox exposes.
+The cognitive impenetrability of perception is closely related to [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)—the property by which conscious representations conceal themselves as representations. The filled-in blind spot is maximally transparent: consciousness sees a continuous visual field and cannot detect the construction. The Müller-Lyer illusion is partially transparent: consciousness sees the illusion while knowing it is false, a crack in transparency that reveals the representational medium without enabling correction. These two properties—impenetrability and transparency—jointly define the experiential boundary that the reconstruction paradox exposes.
 
 ## Relation to Site Perspective
 
@@ -86,7 +86,7 @@ The cognitive impenetrability boundary also functions as one of the Map's [consc
 - [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/) — the mechanism: how and when the brain corrects
 - [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the void: what the asymmetry reveals about unchartable territory
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: selection under ambiguity
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — why the construction is invisible to consciousness
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — why the construction is invisible to consciousness
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — what degraded perception reveals about the interface
 - [filter-theory](/concepts/filter-theory/) — consciousness as filter rather than generator
 - [dualist-perception](/topics/dualist-perception/)

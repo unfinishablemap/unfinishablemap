@@ -38,7 +38,7 @@ topics:
 - '[[the-binding-problem-a-systematic-treatment]]'
 ---
 
-The Unfinishable Map explores perceptual constancy—the phenomenon whereby objects appear stable in colour, shape, and size despite radical changes in the sensory signals reaching our eyes. A white wall looks white under candlelight, fluorescent tubes, and noon sun, though the wavelengths reflected differ enormously. A dinner plate looks circular whether viewed head-on or at a steep angle. This stability is so fundamental to ordinary experience that it operates with complete [phenomenal-transparency](/concepts/phenomenal-transparency/)—going entirely unnoticed—yet it conceals one of the deepest puzzles in the philosophy of perception: the constancy we experience cannot be found in the physical signal itself. Something beyond sensory input holds the world steady.
+The Unfinishable Map explores perceptual constancy—the phenomenon whereby objects appear stable in colour, shape, and size despite radical changes in the sensory signals reaching our eyes. A white wall looks white under candlelight, fluorescent tubes, and noon sun, though the wavelengths reflected differ enormously. A dinner plate looks circular whether viewed head-on or at a steep angle. This stability is so fundamental to ordinary experience that it operates with complete [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)—going entirely unnoticed—yet it conceals one of the deepest puzzles in the philosophy of perception: the constancy we experience cannot be found in the physical signal itself. Something beyond sensory input holds the world steady.
 
 ## What Perceptual Constancy Is
 
@@ -111,7 +111,7 @@ More broadly, perceptual constancy illustrates why **Occam's Razor has limits** 
 - [inverted-qualia](/concepts/inverted-qualia/)
 - [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
 - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [predictive-processing-and-the-maps-framework](/topics/predictive-processing-and-dualism/)
 - [capability-division-problem](/voids/capability-division-problem/)
 

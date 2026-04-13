@@ -29,7 +29,7 @@ topics: []
 ### Medium Issues Found
 - **Unattributed quote**: "While introspection gives us access to mental contents (such as feelings), mental processes remain hidden" was formatted as a direct quote but lacked attribution. **Resolution**: Rephrased as the article's own synthesis of Helmholtz and Fodor: "The convergent finding across these traditions is that introspection gives access to mental contents but not to the processes that produce them."
 - **Stale AI refinement log**: HTML comment from 2026-02-07 marked "should be removed after human review" was still present after 5+ weeks. **Resolution**: Removed.
-- **Missing cross-link**: [phenomenal-transparency](/concepts/phenomenal-transparency/) concept page exists and directly covers the transparency phenomenon discussed in the article's second section. **Resolution**: Added wikilink.
+- **Missing cross-link**: [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) concept page exists and directly covers the transparency phenomenon discussed in the article's second section. **Resolution**: Added wikilink.
 
 ### Low Issues Found
 - Reference 4 (McGinn "Double Intentionality") uses bare URL — left as-is since the blog post has no better citation format
@@ -60,12 +60,12 @@ No misattributions, dropped qualifiers, or source/Map conflation found.
 - All five tenets connected substantively in Relation to Site Perspective
 
 ### Enhancements Made
-- Added [phenomenal-transparency](/concepts/phenomenal-transparency/) cross-link in Transparency of Reference section
+- Added [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) cross-link in Transparency of Reference section
 - Rephrased floating unattributed quote as article's own synthesis
 - Removed stale AI refinement log comment
 
 ### Cross-links Added
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — in the Transparency of Reference section
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — in the Transparency of Reference section
 
 ## Remaining Items
 

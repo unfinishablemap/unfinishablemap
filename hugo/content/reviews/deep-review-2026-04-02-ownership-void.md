@@ -62,13 +62,13 @@ All six adversarial personas engaged. Findings consistent with previous review:
 
 ### Enhancements Made
 - Updated self-reference-paradox links to point to standalone concept page (created March 2026)
-- Added inline cross-link to [phenomenal-transparency](/concepts/phenomenal-transparency/) in Metzinger section
+- Added inline cross-link to [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) in Metzinger section
 - Added inline cross-link to [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) in contemplative section
 - Added 4 new entries to Further Reading: phenomenal-transparency, phenomenology-of-self-awareness, comparative-phenomenology-of-meditative-traditions, transition-void
 - Updated related_articles frontmatter with 5 new entries
 
 ### Cross-links Added
-- [phenomenal-transparency](/concepts/phenomenal-transparency/) — inline in Metzinger section + Further Reading
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — inline in Metzinger section + Further Reading
 - [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — Further Reading
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — inline in contemplative section + Further Reading
 - [transition-void](/voids/transition-void/) — Further Reading

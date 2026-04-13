@@ -57,7 +57,7 @@ The Unfinishable Map holds that consciousness operates through an interface with
 
 ## The Transparency Illusion and Its Failure
 
-Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency/). When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role.
+Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency-opacity-spectrum/). When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role.
 
 Blur shatters this transparency. Remove your glasses, and you do not merely lose information about the external world—you gain something: awareness of the medium through which you were perceiving. The blurriness is not a property of the objects you are looking at. It is a property of *your experience*. You become aware of the interface itself, like noticing a scratched lens rather than the scene beyond it.
 
@@ -142,7 +142,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [filter-theory](/concepts/filter-theory/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)

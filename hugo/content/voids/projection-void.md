@@ -63,7 +63,7 @@ The projection void adds a layer beyond this familiar other-minds problem. The d
 
 ## Why Observation Destroys Projection
 
-The three forms share a structural explanation for their opacity. Metzinger's work on [phenomenal-transparency](/concepts/phenomenal-transparency/) provides the key: a mental representation that functions well is not experienced as a representation. The medium becomes invisible; only the content remains. We trust precisely what we cannot see the mechanism behind—transparency, in Metzinger's framework, is the default condition of well-functioning mental models.
+The three forms share a structural explanation for their opacity. Metzinger's work on [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) provides the key: a mental representation that functions well is not experienced as a representation. The medium becomes invisible; only the content remains. We trust precisely what we cannot see the mechanism behind—transparency, in Metzinger's framework, is the default condition of well-functioning mental models.
 
 This means observing the projection mechanism necessarily destroys it. To attend to the scalpel as scalpel is to lose the operative fluency that treats it as an extension of the hand. To monitor one's own empathic process is to find the empathy dissolving into self-conscious performance. The projection void is not a contingent failure of attention. It is a design constraint: functional extension requires phenomenal invisibility.
 
@@ -111,7 +111,7 @@ Finally, the Map's tenet that [Occam's Razor has limits](/tenets/#occams-limits)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
 - [ownership-void](/voids/ownership-void/)
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [voids](/voids/)
 
 ## References

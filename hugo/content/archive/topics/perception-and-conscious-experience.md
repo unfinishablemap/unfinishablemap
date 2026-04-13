@@ -97,7 +97,7 @@ This point connects to [indexical identity](/topics/indexical-identity-quantum-m
 
 ## Transparency and Intentionality
 
-Perceptual experience is characteristically *transparent*—in perceiving, we seem to look right through the experience to the objects perceived. When you see a tree, you are aware of the tree, not of a mental representation of the tree. The experience itself recedes, presenting its objects rather than itself. This is what philosophers call [phenomenal-transparency](/concepts/phenomenal-transparency/).
+Perceptual experience is characteristically *transparent*—in perceiving, we seem to look right through the experience to the objects perceived. When you see a tree, you are aware of the tree, not of a mental representation of the tree. The experience itself recedes, presenting its objects rather than itself. This is what philosophers call [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/).
 
 Transparency complicates physicalist accounts—and its failure is equally revealing. When perception degrades through blur, visual noise, or neurological damage, transparency shatters: you become aware of the medium through which you were perceiving. The [blur paradox](/topics/perceptual-failure-and-the-interface/) shows that degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world. A representational physicalist might argue that introspection *should* reveal worldly objects—the brain evolved to represent the external world, so its representations have worldly content. Transparency, on this view, simply shows the system working as designed.
 
@@ -144,7 +144,7 @@ The Unfinishable Map's [tenets](/tenets/) find their sharpest expression in perc
 - [phenomenal-overflow](/concepts/phenomenal-overflow/)
 - [binding-problem](/concepts/binding-problem/)
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [intentionality](/concepts/intentionality/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)

@@ -37,7 +37,7 @@ Perceptual degradation and the interface is the observation that when perception
 
 ## The Core Observation
 
-Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency/). Experience feels like direct contact with the world—you see the apple, not the seeing. This transparency masks the interface through which perceptual information reaches consciousness. When perception degrades, the mask slips.
+Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency-opacity-spectrum/). Experience feels like direct contact with the world—you see the apple, not the seeing. This transparency masks the interface through which perceptual information reaches consciousness. When perception degrades, the mask slips.
 
 Remove your glasses: the resulting blur is not a property of external objects. It is a property of *your experience*—a [qualitative character](/concepts/qualia/) (softness, haziness, visual texture) that belongs to the experiencing subject. You become aware of the medium of perception itself, the way you notice a scratched lens rather than the scene behind it. This simple observation has deep consequences. If phenomenal character were exhausted by representational content about external objects, as representationalism claims, blur should be fully explicable as representing some external property. But the felt quality of blur—its specific "what it is like"—has no home in the physical scene. It belongs to the interface.
 
@@ -98,7 +98,7 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [interface-friction](/concepts/interface-friction/)
 - [filter-theory](/concepts/filter-theory/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [attention-as-interface](/concepts/attention-as-interface/)

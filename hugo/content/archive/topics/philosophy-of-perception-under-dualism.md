@@ -152,7 +152,7 @@ The Unfinishable Map's [tenets](/tenets/) reshape the philosophy of perception i
 - [mind-matter-interface](/concepts/mind-matter-interface/)
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/)
 - [binding-problem](/concepts/binding-problem/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency/)
+- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [perception-and-conscious-experience](/topics/dualist-perception/)
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — The two-streams dissociation and blindsight evidence applied to capability division
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
