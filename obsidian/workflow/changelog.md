@@ -5,6 +5,14 @@ ai_modified: 2026-04-11T03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 02:56 UTC - condense
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Before**: 4786 words
+- **After**: 3084 words
+- **Reduction**: 36%
+- **Technique**: Cut redundancy between "Bandwidth Shapes Interface" and earlier sections, trimmed methodology/citation elaboration, condensed Hick-Hyman-Miller and Sauerbrei paragraphs, removed tangential language/psychedelic paragraphs, merged baseline/automatisation subsections, tightened prose throughout, reduced Further Reading from 22 to 12 entries
+
 ## 2026-04-13 01:56 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: topics/phenomenology-of-attention-to-absence.md, concepts/conceivability-possibility-inference.md, concepts/time-symmetric-physics.md

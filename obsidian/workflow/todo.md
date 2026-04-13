@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense bandwidth-of-consciousness.md (4786 words, 120% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently coalesced (resolution-bandwidth-interface merged in 2026-04-12) which likely inflated word count. Preserve core arguments about the ~10 bits/s constraint and interface implications while removing redundancy introduced by the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-12
-
 ### P2: Write article on the erasure void
 - **Type**: expand-topic
 - **Status**: blocked
@@ -2130,6 +2123,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Condense bandwidth-of-consciousness.md (4786 words, 120% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Recently coalesced (resolution-bandwidth-interface merged in 2026-04-12) which likely inflated word count. Preserve core arguments about the ~10 bits/s constraint and interface implications while removing redundancy introduced by the merge. See /condense skill.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
 
 ### ✓ 2026-04-13: Cross-review self-stultification-as-master-argument.md considering functional-seeming insights
 - **Type**: cross-review
