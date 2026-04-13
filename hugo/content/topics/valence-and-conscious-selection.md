@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-05 14:02:00+00:00
+ai_modified: 2026-04-13 19:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,6 +31,7 @@ related_articles:
 - '[[pain-consciousness-and-causal-power]]'
 - '[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]'
 - '[[moral-architecture-of-consciousness]]'
+- '[[consciousness-and-normative-force]]'
 title: Valence and the Mechanism of Conscious Selection
 topics:
 - '[[topics/free-will]]'
@@ -103,7 +104,7 @@ The [attention-as-interface](/concepts/attention-as-interface/) framework propos
 
 Attention without valence is directionless. Attention specifies *where* consciousness acts—which neural patterns receive observation. But it doesn't specify *why* one target rather than another. "Consciousness attends to pattern A rather than pattern B" raises the question: on what basis? If the answer is "whatever attention happens to land on," selection is arbitrary. If the answer is "prior attention directed current attention," we face an infinite regress—something must ground the initial direction.
 
-Valence provides that grounding. Consciousness attends to pattern A because the anticipated valence of actualising A exceeds that of B. Attention is the *channel* of selection; valence is the *criterion*. The two are complementary: valence decides; attention executes.
+Valence provides that grounding. Consciousness attends to pattern A because the anticipated valence of actualising A exceeds that of B. Attention is the *channel* of selection; valence is the *criterion*. The two are complementary: valence decides; attention executes. The [normative force](/topics/consciousness-and-normative-force/) analysis suggests a deeper connection: the *demand-character* of phenomenal experience — the felt grip that makes some outcomes call for pursuit and others for avoidance — may be precisely the mechanism through which valence guides selection. Normative force is what gives valence its selective bite, transforming a felt quality into a basis for action.
 
 Pain asymbolia illustrates the point. Patients with intact attentional mechanisms but absent felt badness do not avoid painful stimuli with normal urgency. The attention channel works—they can direct observation toward the pain. What is missing is the valence signal that would make avoidance the preferred outcome. The selection mechanism has lost its currency.
 
@@ -216,6 +217,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work in selection
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Why emotional consciousness provides distinctive evidence for dualism
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The ~10 bits/second constraint on conscious selection
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The demand-character of experience as the mechanism through which valence grips and guides
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the value-sensitivity question within a unified moral framework
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-13 19:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,8 @@ related_articles:
 - '[[epistemic-advantages-of-dualism]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[pragmatism-and-qbism]]'
+- '[[consciousness-and-normative-force]]'
+- '[[self-stultification-as-master-argument]]'
 title: Pragmatism's Path to Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +84,10 @@ The Map's article on [consciousness and the limits of explanation](/topics/consc
 The pragmatic path to dualism reaches its strongest form when applied to pragmatism itself. Pragmatism evaluates beliefs by their practical consequences. But evaluation is a conscious activity. Assessing whether a belief "works" — whether it resolves difficulties, opens productive inquiries, coheres with experience — requires phenomenal experience: the felt sense that things fit together, the recognition that one framework illuminates while another obscures. This is [cognitive-phenomenology](/concepts/cognitive-phenomenology/) in action.
 
 If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. This is [phenomenal normativity](/concepts/evaluative-phenomenal-character/) at stake: the felt sense that one framework illuminates while another obscures carries intrinsic normative force that no purely physical description can ground. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
+
+The Map's article on [normative force](/topics/consciousness-and-normative-force/) develops the complementary analysis: pragmatism shows *that* evaluation requires a conscious evaluator, while the normative force account shows *how* evaluation works — through the phenomenal demand-character that makes some conclusions feel warranted and others defective.
+
+This reflexive argument is a species of [self-stultification](/topics/self-stultification-as-master-argument/) applied to evaluation rather than belief formation. The master argument shows that any theory severing consciousness from its own rational grounds cannot be rationally endorsed; the pragmatic version shows that materialism severs consciousness from the evaluative capacity that pragmatism's own method requires.
 
 This parallels the [argument-from-reason](/topics/argument-from-reason/): if beliefs are fully explained by physical causes, no belief is rationally justified, including physicalism. The pragmatic version makes the same structural move in different terms. If evaluation is fully explained by physical causes, no evaluation has normative force — including the evaluation that materialism works better than dualism.
 
@@ -137,6 +143,8 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [argument-from-reason](/topics/argument-from-reason/) — The parallel self-defeat argument from rationality
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism is epistemically responsible
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of thought and evaluation
+- [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How the demand-character of experience grounds the evaluation pragmatism requires
+- [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The master argument pattern that pragmatism's reflexive case instantiates
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
 - [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations
 

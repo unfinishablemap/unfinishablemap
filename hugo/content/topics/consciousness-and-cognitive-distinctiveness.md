@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-04-12 18:56:00+00:00
+ai_modified: 2026-04-13 19:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -59,6 +59,7 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[phenomenology-of-imagination]]'
+- '[[consciousness-and-the-phenomenology-of-translation]]'
 title: Consciousness and Cognitive Distinctiveness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -99,7 +100,7 @@ Research on [conscious versus unconscious processing](/concepts/conscious-vs-unc
 
 **Spontaneous intentional action.** Creative generation and deliberate reasoning both require initiating action from internal states alone—imagining goals not triggered by current circumstances.
 
-Beyond these functional requirements, several features depend on phenomenal consciousness specifically. **Meaning-sensitive selection** operates when a novelist chooses one word over another guided by what it *means to them*—its felt resonance, emotional texture, associative depth. **Temporal stakes** arise because human cognition occurs within [durée](/concepts/temporal-consciousness/)—Bergson's lived time, where each moment integrates the entire past and faces an open future. The artist working on what they suspect will be their final painting creates under existential pressure that shapes what they attempt. **Aesthetic experience as guide** operates as an evaluative mechanism: mathematicians report that correct proofs *feel* elegant before verification; composers hear when a passage works. These features are not on the same continuum as baseline or artificial cognition—they arise from a different kind of process.
+Beyond these functional requirements, several features depend on phenomenal consciousness specifically. **Meaning-sensitive selection** operates when a novelist chooses one word over another guided by what it *means to them*—its felt resonance, emotional texture, associative depth. [Literary translation](/topics/consciousness-and-the-phenomenology-of-translation/) provides a particularly vivid case: the translator must re-enact meaning across linguistic worlds, selecting among renderings guided by felt adequacy to the source — a creative act that reveals meaning-sensitive selection under double constraint. **Temporal stakes** arise because human cognition occurs within [durée](/concepts/temporal-consciousness/)—Bergson's lived time, where each moment integrates the entire past and faces an open future. The artist working on what they suspect will be their final painting creates under existential pressure that shapes what they attempt. **Aesthetic experience as guide** operates as an evaluative mechanism: mathematicians report that correct proofs *feel* elegant before verification; composers hear when a passage works. These features are not on the same continuum as baseline or artificial cognition—they arise from a different kind of process.
 
 ## The Intelligence Threshold
 
@@ -179,6 +180,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains hidden
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty as irreducible phenomenal property
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — Imagination and creative exploration
+- [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/) — Translation as a paradigm case of meaning-sensitive creative selection
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Unconscious incubation in creativity
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that consciousness is causally inert
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation

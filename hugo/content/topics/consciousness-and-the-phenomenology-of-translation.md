@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-13 19:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[tenets]]'
+- '[[consciousness-and-cognitive-distinctiveness]]'
 title: Consciousness and the Phenomenology of Translation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -66,7 +67,7 @@ The most phenomenologically rich phase of translation is the search for adequate
 
 **Awareness of loss.** Experienced translators report a persistent phenomenal accompaniment: the awareness that something is being lost. This is not an inference but a felt quality — a sense of the gap between what the source text means in its language and what the target text can mean in its own. The Italian aphorism *traduttore, traditore* ("translator, traitor") captures not just a judgment but a phenomenal reality. The translator *feels* the betrayal.
 
-**Creative reconfiguration.** When direct equivalence fails, the translator must restructure: change metaphors, reorganise syntax, sometimes alter the conceptual frame entirely. This creative phase has the phenomenology of problem-solving — the strain of holding multiple constraints simultaneously, the occasional flash of insight when an unexpected solution appears.
+**Creative reconfiguration.** When direct equivalence fails, the translator must restructure: change metaphors, reorganise syntax, sometimes alter the conceptual frame entirely. This creative phase has the phenomenology of problem-solving — the strain of holding multiple constraints simultaneously, the occasional flash of insight when an unexpected solution appears. Literary translation is a paradigm case of what the Map calls [meaning-sensitive creative selection](/topics/consciousness-and-cognitive-distinctiveness/): the translator chooses one rendering over another guided by what the words *mean to them* — their felt resonance, emotional texture, associative depth — not by pattern-matching alone.
 
 ## The Untranslatable Remainder
 
@@ -134,6 +135,7 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Phenomenal engagement with other minds
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How disruptions of experience reveal consciousness architecture
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between doing and undergoing
+- [consciousness-and-cognitive-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Translation as a paradigm case of meaning-sensitive creative selection
 
 ## References
 

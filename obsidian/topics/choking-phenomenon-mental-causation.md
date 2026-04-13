@@ -4,7 +4,7 @@ description: "When skilled performers attend to automatized actions, performance
 created: 2026-02-02
 modified: 2026-02-02
 human_modified:
-ai_modified: 2026-03-28T08:13:00+00:00
+ai_modified: 2026-04-13T19:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[downward-causation-mental-causation-2026-01-15]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[phenomenology-of-trust]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -117,7 +118,7 @@ The choking phenomenon has evidential limits.
 
 **It doesn't specify the mechanism**: Choking shows that consciousness causally affects procedural execution but doesn't reveal *how*. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes quantum indeterminacy as the interface point—consciousness biasing otherwise undetermined outcomes. But choking itself is compatible with various mechanisms, including classical neural interference. The phenomenon demonstrates *that* mental causation occurs, not *where* in the physical causal chain it operates.
 
-**It doesn't generalize automatically**: Skilled performance degradation under self-monitoring doesn't directly establish that consciousness causes all voluntary action. Perhaps choking is a special case—consciousness interfering with already-functioning systems—rather than evidence for the general causal efficacy of mind. The Map infers from choking to broader mental causation through the self-stultification argument (if consciousness can interfere, it can also drive) and the implausibility of epiphenomenalism (if consciousness causes nothing, how can it cause interference?), but these are additional argumentative steps.
+**It doesn't generalize automatically**: Skilled performance degradation under self-monitoring doesn't directly establish that consciousness causes all voluntary action. (The [[phenomenology-of-trust|phenomenology of trust]] exhibits a structurally parallel asymmetry: trust builds gradually through sustained conscious engagement but can be destroyed almost instantaneously by betrayal — the same pattern of rapid conscious disruption versus gradual construction that choking displays in the motor domain.) Perhaps choking is a special case—consciousness interfering with already-functioning systems—rather than evidence for the general causal efficacy of mind. The Map infers from choking to broader mental causation through the self-stultification argument (if consciousness can interfere, it can also drive) and the implausibility of epiphenomenalism (if consciousness causes nothing, how can it cause interference?), but these are additional argumentative steps.
 
 **It faces neural explanation**: Future neuroscience might fully explain choking in terms of neural system competition—prefrontal monitoring circuits disrupting cerebellar automaticity—without reference to phenomenal consciousness. If choking became fully predictable from neural states alone, the evidence for genuine mental causation would weaken (though the question of why certain neural states are accompanied by certain phenomenal states would remain).
 
@@ -144,6 +145,7 @@ For the Map's broader case, choking provides the clearest evidence type: negativ
 - [[consciousness-and-skill-acquisition]] — The full arc from deliberate practice through flow to skill restructuring
 - [[mental-effort]] — The phenomenology of effortful attention
 - [[phenomenology-of-deliberation-under-uncertainty]] — Choking as deliberative vertigo under performance pressure
+- [[phenomenology-of-trust]] — Trust exhibits the same rapid-destruction/gradual-construction asymmetry in the interpersonal domain
 - [[witness-consciousness]] — Contemplative parallels to anoetic awareness
 
 ## References

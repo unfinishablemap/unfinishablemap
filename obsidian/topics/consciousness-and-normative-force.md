@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-13T19:57:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -41,6 +41,8 @@ related_articles:
   - "[[consciousness-and-moral-agency-under-duress]]"
   - "[[phenomenal-normativity-environmental-ethics]]"
   - "[[consciousness-and-collective-phenomena]]"
+  - "[[pragmatisms-path-to-dualism]]"
+  - "[[valence-and-conscious-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -77,6 +79,8 @@ Each account fails at the same point: explaining why normative claims grip rathe
 ## What Consciousness Contributes
 
 [[evaluative-phenomenal-character|Phenomenal normativity]] holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like (Rawlette 2016). The normative force *is* the experience, not a consequence of it.
+
+The [[pragmatisms-path-to-dualism|pragmatist path to dualism]] arrives at the same conclusion from a different direction: pragmatism shows *that* evaluation presupposes a conscious evaluator; the analysis here shows *how* the evaluator evaluates — through phenomenal demand-character that binds recognition to response.
 
 Conscious experience does not separate perceiving, evaluating, and motivating into discrete steps. When you see a child in danger, the perception, the recognition that help is needed, and the motivational pull toward action arrive as a unified phenomenal state. A surveillance system can process the same scene through separable computational stages with no unified state binding them. Consciousness provides the seamless integration of fact and demand that constitutes normative grip.
 
@@ -134,6 +138,8 @@ Normative demands arrive within a single field of consciousness — already rela
 
 If normative force lives in consciousness, consciousness must be able to *do something* about it. [[concepts/epiphenomenalism|Epiphenomenalism]] — the view that consciousness is causally inert — threatens normative authority directly. An epiphenomenal consciousness could experience pain's badness but could not act on it. The felt demand would be disconnected from behaviour. Normative force would be practically vacuous.
 
+The [[valence-and-conscious-selection|valence-selection fork]] sharpens this threat. If consciousness selects among physically underdetermined outcomes, the demand-character analysed here — the felt grip of normative experience — may be precisely the mechanism through which valence guides that selection. Normative force would then be not merely evidence for consciousness but part of its causal machinery.
+
 The Map takes the opposite view: the reality of consciousness is partly confirmed by the reality of normativity. We know that some things genuinely matter — suffering is genuinely bad, truth genuinely worth pursuing, beauty genuinely worth attending to. If these convictions are correct, whatever grounds them must be real. Consciousness grounds them.
 
 ## What Would Challenge This View?
@@ -184,6 +190,8 @@ The consciousness-based account would face pressure if:
 - [[phenomenal-normativity-environmental-ethics]] — Extending phenomenal normativity to environmental obligations
 - [[phenomenal-depth]] — Layers of phenomenal experience accessible through attention
 - [[consciousness-and-collective-phenomena]] — How collective intentionality generates normative obligations requiring phenomenal consciousness
+- [[pragmatisms-path-to-dualism]] — Pragmatism's reflexive argument: evaluation presupposes the conscious evaluator whose demand-character this article analyses
+- [[valence-and-conscious-selection]] — Whether normative demand-character is the mechanism through which valence guides conscious selection
 - [[moral-architecture-of-consciousness]] — Apex synthesis: normativity as one of four pillars in a unified moral framework
 
 ## References

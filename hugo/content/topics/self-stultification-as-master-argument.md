@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-13 00:56:00+00:00
+ai_modified: 2026-04-13 19:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,6 +36,7 @@ related_articles:
 - '[[consciousness-and-the-normativity-of-reason]]'
 - '[[consciousness-and-normative-force]]'
 - '[[tenets]]'
+- '[[pragmatisms-path-to-dualism]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 - '[[functional-seeming]]'
 title: Self-Stultification as Master Argument
@@ -117,6 +118,8 @@ These four applications are not coincidences. Self-stultification recurs because
 
 The common thread: each position, if true, destroys the epistemic conditions required for rationally accepting it. This is not a coincidence but a constraint. Any adequate theory of mind must preserve the conditions for its own rational endorsement.
 
+The [pragmatist path to dualism](/topics/pragmatisms-path-to-dualism/) deploys a closely related pattern: materialism about consciousness eliminates the evaluative standpoint that pragmatic assessment requires. This is self-stultification applied to *evaluation* rather than *belief formation* — the materialist pragmatist cannot evaluate which theory "works" because the capacity for evaluation is precisely what their theory eliminates. The pragmatic version extends the master argument's reach beyond epistemology into the philosophy of inquiry itself.
+
 The argument does not strike each target with equal force, however. Against epiphenomenalism, self-stultification is devastating and difficult to escape—the causal inertness of consciousness directly entails that conscious reasoning played no role in forming the belief. Against eliminativism, the argument is immediate but faces a sophisticated retreat (discussed in that section). Against physicalism, it must contend with the functionalist response that physical systems can implement normative relationships—the argument remains powerful but requires the additional step of distinguishing norm-implementation from norm-grasping. Against global skepticism, the Pyrrhonians already demonstrated partial awareness of the problem and developed strategies (however inadequate) to manage it. Calling self-stultification a "master argument" reflects the *unity* of the pattern across targets, not a claim that the argument is equally decisive against each.
 
 ## The Performative Dimension
@@ -177,6 +180,7 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Whether introspective reports are causally connected to experiences
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem self-stultification helps resolve
 - [causal-closure](/concepts/causal-closure/) — The principle whose rejection self-stultification motivates
+- [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — Self-stultification applied to evaluation: materialism eliminates the evaluative standpoint pragmatism requires
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework that escapes self-stultification
 - [dualism](/concepts/dualism/) — Multiple converging arguments including self-stultification
 

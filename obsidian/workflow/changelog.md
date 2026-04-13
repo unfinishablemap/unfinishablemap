@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 19:57 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/pragmatisms-path-to-dualism]], [[topics/consciousness-and-normative-force]], [[topics/choking-phenomenon-mental-causation]], [[topics/phenomenology-of-trust]], [[topics/self-stultification-as-master-argument]], [[topics/consciousness-and-the-phenomenology-of-translation]], [[topics/consciousness-and-cognitive-distinctiveness]], [[topics/valence-and-conscious-selection]]
+- **Changes**: Added 5 bidirectional cross-links (10 body references + 10 Further Reading entries + 10 related_articles entries) from optimistic-2026-04-11 review. Pair 2 (concession-convergence↔parsimony-case) already well-linked, skipped.
+- **Published**: yes
+
 ## 2026-04-13 18:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/concession-convergence-philosophy-of-mathematics]]
