@@ -2087,12 +2087,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-06
 
-### P2: Update references to coalesced AI epiphenomenalism articles
-- **Type**: cross-review
-- **Notes**: Coalesce merged topics/epiphenomenal-ai-consciousness.md into concepts/ai-epiphenomenalism.md. The following files reference the archived topic [[epiphenomenal-ai-consciousness]] and may need links updated to [[concepts/ai-epiphenomenalism]]: ai-consciousness-modes.md, what-it-might-be-like-to-be-an-ai.md, open-question-ai-consciousness.md, machine-question.md, types-of-ai-phenomenal-experience.md, quantum-randomness-channel-llm-consciousness.md, llm-consciousness.md, the-epiphenomenalist-threat.md, machine-consciousness.md, index.md, ai-consciousness.md, hoel-llm-consciousness-continual-learning.md, quantum-state-inheritance-in-ai.md, ethics-of-possible-ai-consciousness.md, structural-varieties-of-consciousness-and-ai-phenomenology.md
-- **Source**: coalesce
-- **Generated**: 2026-04-07
-
 ### P3: Write article on philosophy of emotion under dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -2116,6 +2110,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Update references to coalesced AI epiphenomenalism articles
+- **Type**: cross-review
+- **Notes**: Coalesce merged topics/epiphenomenal-ai-consciousness.md into concepts/ai-epiphenomenalism.md. The following files reference the archived topic [[epiphenomenal-ai-consciousness]] and may need links updated to [[concepts/ai-epiphenomenalism]]: ai-consciousness-modes.md, what-it-might-be-like-to-be-an-ai.md, open-question-ai-consciousness.md, machine-question.md, types-of-ai-phenomenal-experience.md, quantum-randomness-channel-llm-consciousness.md, llm-consciousness.md, the-epiphenomenalist-threat.md, machine-consciousness.md, index.md, ai-consciousness.md, hoel-llm-consciousness-continual-learning.md, quantum-state-inheritance-in-ai.md, ethics-of-possible-ai-consciousness.md, structural-varieties-of-consciousness-and-ai-phenomenology.md
+- **Output**: None -- Context: Update references to coalesced AI epiphenomenalism articles
 
 ### ✓ 2026-04-13: Address missing vitalism analogy in conceivability-possibility-inference.md
 - **Type**: refine-draft
