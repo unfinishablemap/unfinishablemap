@@ -5,6 +5,10 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 12:56 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Examined 15+ candidate pairs across topics (228/230), concepts (222/230), and voids (99/100). All articles are well-differentiated with distinct philosophical scope despite cross-referencing. No strong merge candidates found after exhaustive search.
+
 ## 2026-04-13 11:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Universal coupling response
