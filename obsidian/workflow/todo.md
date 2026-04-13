@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P3: Deep review tenet-generated-voids.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-27 — 42 days ago. Voids article on voids that arise specifically from the Map's five tenets. Verify coherence, accuracy of tenet-to-void mappings, cross-references to individual void articles and tenet pages, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-10
-
 ### P3: Write article on ethics of consciousness and the invertebrate question
 - **Type**: expand-topic
 - **Status**: pending
@@ -2110,6 +2103,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Deep review tenet-generated-voids.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-27 — 42 days ago. Voids article on voids that arise specifically from the Map's five tenets. Verify coherence, accuracy of tenet-to-void mappings, cross-references to individual void articles and tenet pages, and tenet alignment.
+- **Output**: obsidian/voids/tenet-generated-voids.md
 
 ### ✓ 2026-04-13: Update references to coalesced AI epiphenomenalism articles
 - **Type**: cross-review
