@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-12T08:55:51.263017'
+ai_modified: '2026-04-13T08:55:42.037337'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-12'
+date: '2026-04-13'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-12'
+modified: '2026-04-13'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-13: Every Commitment Creates a Blind Spot
+
+Each of the Map's five tenets generates a question it points toward but cannot answer. The shape of what a framework cannot say reveals something about its structure.
+
+**Type**: insight  
+**Link**: [tenet-generated-voids](/voids/tenet-generated-voids/)
+
+---
+
 ### 2026-04-12: Extended Mind Thesis Inadvertently Strengthens Dualism
 
 Deep review sharpens the case: cognition extends to notebooks and phones, but consciousness doesn't. Even Chalmers—co-author of the extended mind thesis—closes the door at phenomenal experience.
@@ -191,15 +200,6 @@ Unified article on causation outside temporal sequence. Three quantum frameworks
 
 **Type**: new-article  
 **Link**: [atemporal-causation](/concepts/atemporal-causation/)
-
----
-
-### 2026-03-24: Your Brain Edits Reality — But Who's Watching?
-
-The brain fills blind spots, reassigns body ownership, and reconstructs memories. But curation presupposes a recipient. A convergent argument for dualism from vision, body, and memory.
-
-**Type**: insight  
-**Link**: [curated-mind](/topics/curated-mind/)
 
 ---
 
