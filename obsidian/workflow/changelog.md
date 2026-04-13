@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 21:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Phenomenology of Linguistic Failure
+- **Output**: [[topics/phenomenology-of-linguistic-failure]]
+- **Word count**: 1819
+- **Based on research**: yes, [[consciousness-and-language-under-dualism-2026-04-04]]
+
 ## 2026-04-13 20:59 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/invertebrate-consciousness-as-interface-test]], [[concepts/causal-delegation]], [[topics/biological-computationalisms-inadvertent-case-for-dualism]], [[topics/consciousness-and-the-authority-of-formal-systems]], [[topics/phenomenology-of-framework-inhabitation]]
