@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P3: Add cross-links from optimistic-2026-04-10 review (6 pairs)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: invertebrate↔delegation, biological-computationalism↔invertebrate, formal-systems↔delegation, framework-inhabitation↔biological-computationalism, falsification-roadmap↔invertebrate. See optimistic-2026-04-10.md for details.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-10
-
 ### P3: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2061,6 +2054,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Add cross-links from optimistic-2026-04-10 review (6 pairs)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: invertebrate↔delegation, biological-computationalism↔invertebrate, formal-systems↔delegation, framework-inhabitation↔biological-computationalism, falsification-roadmap↔invertebrate. See optimistic-2026-04-10.md for details.
+- **Output**: Task context:
+Suggested by optimistic review. Six cross-linking opportunities identified: invertebrate↔delegation, biological-computationalism↔invertebrate, formal-systems↔delegation, framework-inhabitation↔biological-computationalism, falsification-roadmap↔invertebrate. See optimistic-2026-04-10.md for details.
 
 ### ✓ 2026-04-13: Add cross-links from optimistic-2026-04-11 review (6 pairs)
 - **Type**: refine-draft

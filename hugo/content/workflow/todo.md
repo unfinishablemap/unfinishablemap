@@ -52,13 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P3: Add cross-links from optimistic-2026-04-11 review (6 pairs)
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: pragmatism↔normative-force, concession-convergence↔parsimony-case, choking↔trust, self-stultification↔pragmatism, translation↔creative-distinctiveness, valence-selection↔normative-force. See optimistic-2026-04-11.md for details.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-11
-
 ### P3: Add cross-links from optimistic-2026-04-10 review (6 pairs)
 - **Type**: refine-draft
 - **Status**: pending
@@ -2069,6 +2062,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Add cross-links from optimistic-2026-04-11 review (6 pairs)
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities identified: pragmatism↔normative-force, concession-convergence↔parsimony-case, choking↔trust, self-stultification↔pragmatism, translation↔creative-distinctiveness, valence-selection↔normative-force. See optimistic-2026-04-11.md for details.
+- **Output**: Task context:
+Suggested by optimistic review. Six cross-linking opportunities identified: pragmatism↔normative-force, concession-convergence↔parsimony-case, choking↔trust, self-stultification↔pragmatism, translation↔creative-distinctiveness, valence-selection↔normative-force. See optimistic-2026-04-11.md for details.
 
 ### ✓ 2026-04-13: Update references to coalesced phenomenal-transparency and phenomenal-opacity
 - **Type**: cross-review

@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 20:59 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/invertebrate-consciousness-as-interface-test]], [[concepts/causal-delegation]], [[topics/biological-computationalisms-inadvertent-case-for-dualism]], [[topics/consciousness-and-the-authority-of-formal-systems]], [[topics/phenomenology-of-framework-inhabitation]]
+- **Changes**: Added 5 bidirectional cross-links (5 body references + 5 Further Reading entries + 5 related_articles entries) from optimistic-2026-04-10 review. Pair 6 (falsification-roadmap↔invertebrate) already well-linked, skipped.
+- **Published**: yes
+
 ## 2026-04-13 19:57 UTC - refine-draft
 - **Status**: Success
 - **Files**: [[topics/pragmatisms-path-to-dualism]], [[topics/consciousness-and-normative-force]], [[topics/choking-phenomenon-mental-causation]], [[topics/phenomenology-of-trust]], [[topics/self-stultification-as-master-argument]], [[topics/consciousness-and-the-phenomenology-of-translation]], [[topics/consciousness-and-cognitive-distinctiveness]], [[topics/valence-and-conscious-selection]]

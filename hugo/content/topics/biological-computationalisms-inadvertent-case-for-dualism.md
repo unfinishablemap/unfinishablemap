@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-10 18:56:00+00:00
+ai_modified: 2026-04-13 20:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[pragmatisms-path-to-dualism]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
 - '[[machine-consciousness]]'
+- '[[invertebrate-consciousness-as-interface-test]]'
 title: Biological Computationalism's Inadvertent Case for Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -50,7 +51,7 @@ Milinkovic and Aru (2025) propose biological computationalism as a third path. B
 
 Each claim biological computationalists make to distinguish biological from digital computation parallels a classical argument for dualism—not because the claims entail dualism, but because they concede the same structural limitations that dualists have long identified.
 
-**Substrate dependence.** By rejecting [substrate-independence](/concepts/substrate-independence/), biological computationalism abandons the core functionalist defence against dualism. If consciousness depends on specific physical dynamics—not just abstract causal structure—then functional organisation does not suffice. This is what the absent [qualia](/concepts/qualia/) objection (Block 1978) has maintained for decades: a system functionally identical to a conscious being might lack experience entirely. Biological computationalism effectively endorses the absent qualia intuition for digital systems while trying to block it for biological ones.
+**Substrate dependence.** By rejecting [substrate-independence](/concepts/substrate-independence/), biological computationalism abandons the core functionalist defence against dualism. If consciousness depends on specific physical dynamics—not just abstract causal structure—then functional organisation does not suffice. This is what the absent [qualia](/concepts/qualia/) objection (Block 1978) has maintained for decades: a system functionally identical to a conscious being might lack experience entirely. Biological computationalism effectively endorses the absent qualia intuition for digital systems while trying to block it for biological ones. [Invertebrate consciousness](/topics/invertebrate-consciousness-as-interface-test/) sharpens this tension: if substrate matters, why do radically different biological substrates—the insect central complex, the octopus distributed nervous system, the vertebrate cortex—support similar cognitive abilities despite 500 million years of architectural divergence? The substrate dependence claim meets its hardest test case in organisms whose substrates differ dramatically yet whose consciousness-associated behaviours converge.
 
 **Metabolic grounding.** Thagard (2022) argues that energy requirements undermine substrate independence: real information processing depends on energy, and energy depends on material substrates. The Church-Turing thesis provides no support for multiple realizability because it abstracts away time, space, and energy—exactly the physical constraints that matter for consciousness. Biological computationalism incorporates this insight by treating metabolic processes as integral to computation rather than as mere power supply. But this concession narrows "consciousness-capable computation" to a claim about specific physical matter—carbon chemistry running at specific energy scales in specific thermodynamic regimes. The gap between "any computation" and "only this specific physical process" is enormous. Dualists would note that this gap is structurally analogous to their own insistence that abstract functional description leaves something out—though biological computationalists would insist the missing ingredient is physical specificity, not anything non-physical.
 
@@ -110,6 +111,7 @@ The **Bidirectional Interaction** tenet requires consciousness to causally influ
 - [qualia](/concepts/qualia/) — The intrinsic properties that resist functional description
 - [ai-consciousness](/topics/ai-consciousness/) — Why digital computation faces structural barriers to consciousness
 - [machine-consciousness](/topics/machine-consciousness/) — Substrate dependence and the mind uploading problem
+- [invertebrate-consciousness-as-interface-test](/topics/invertebrate-consciousness-as-interface-test/) — Where substrate dependence meets its hardest empirical challenge
 
 ## References
 

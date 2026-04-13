@@ -4,7 +4,7 @@ description: "Causal delegation: physical brain states hand off causal work to c
 created: 2026-03-04
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-04-10T19:56:00+00:00
+ai_modified: 2026-04-13T20:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[conservation-laws-and-mental-causation]]"
   - "[[bradford-saad-delegatory-dualism-2026-01-28]]"
+  - "[[invertebrate-consciousness-as-interface-test]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -102,7 +103,7 @@ Causal delegation supports multiple tenets of the Map's framework.
 
 **Bidirectional Interaction**: Delegation provides the causal structure for the Map's [[tenets#^bidirectional-interaction|third tenet]]. Consciousness causally influences the physical world—not by adding a competing cause alongside physical states, but by taking over causal work those states would otherwise perform. Reports about consciousness are genuinely caused by conscious experiences, avoiding the self-undermining implications of epiphenomenalism.
 
-**Minimal Quantum Interaction**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. The frameworks operate at different levels—mechanism and structure—and integrate naturally. Consciousness biases quantum outcomes (mechanism); this biasing constitutes the physical state delegating its causal role (structure).
+**Minimal Quantum Interaction**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. The frameworks operate at different levels—mechanism and structure—and integrate naturally. Consciousness biases quantum outcomes (mechanism); this biasing constitutes the physical state delegating its causal role (structure). The [[invertebrate-consciousness-as-interface-test|invertebrate consciousness test case]] sharpens this integration: if delegation occurs wherever architecturally adequate systems couple with consciousness, then a bee's million-neuron brain delegates causal work through the same preemption structure as a human cortex—the mechanism must be scale-independent.
 
 **Occam's Razor Has Limits**: Delegation is more complex than epiphenomenalism, and its advantage is not empirical but structural: it avoids the self-undermining defect that epiphenomenalism's account of introspection creates. Whether this internal coherence advantage justifies the added complexity is itself a philosophical judgement. The Map's [[tenets#^occams-limits|fifth tenet]]—that parsimony is unreliable with incomplete knowledge—provides a framework for making that judgement, but does not settle it.
 
@@ -121,6 +122,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [[skill-delegation]] — The inverse parallel: consciousness delegating to procedural systems
 - [[agent-causation]] — Substance causation as complementary framework for what exercises delegated powers
 - [[psychophysical-laws]] — Chalmers' framework for mind-body laws, related to Saad's Subset Law*
+- [[invertebrate-consciousness-as-interface-test]] — Invertebrate architectures as test cases for universal delegation
 
 ## References
 

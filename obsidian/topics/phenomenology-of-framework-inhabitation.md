@@ -4,7 +4,7 @@ description: "Frameworks are inhabited like dwellings, not carried like luggage.
 created: 2026-02-18
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-04-09T15:56:00+00:00
+ai_modified: 2026-04-13T20:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]"
   - "[[consciousness-defeats-explanation]]"
+  - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -141,7 +142,7 @@ Materialists often report experiencing the hard problem as a pseudo-problem — 
 
 Dualists report an equal and opposite certainty: that consciousness is self-evidently non-physical. The gap between neural firing and subjective experience feels unbridgeable not as a conclusion reached through argument but as a direct experiential observation. The framework makes the gap vivid and ineliminable.
 
-What is remarkable is that both sides report their position as experientially obvious and the opposing view as requiring elaborate argumentative support. Each framework generates its own appearance of self-evidence. This symmetry — where each position feels like common sense to its adherents and like ideology to its opponents — is exactly what framework inhabitation predicts.
+What is remarkable is that both sides report their position as experientially obvious and the opposing view as requiring elaborate argumentative support. Each framework generates its own appearance of self-evidence. This symmetry — where each position feels like common sense to its adherents and like ideology to its opponents — is exactly what framework inhabitation predicts. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] provides a concrete case study: its proponents concede substrate dependence, metabolic grounding, and scale inseparability — each structurally analogous to a classical dualist argument — yet the physicalist framework renders these structural parallels invisible from the inside. The concessions feel like refinements of physicalism, not steps toward dualism, because framework transparency prevents the pattern from registering as such.
 
 ## What Would Challenge This View?
 
@@ -182,6 +183,7 @@ The Map's analysis also resonates with [[mysterianism]]. If frameworks constrain
 - [[epistemological-limits-occams-razor]] — Why simplicity is framework-relative
 - [[duhem-quine-underdetermination-consciousness]] — Underdetermination as the structural basis for framework dependence
 - [[argument-from-reason]] — Why genuine reasoning requires irreducible consciousness
+- [[biological-computationalisms-inadvertent-case-for-dualism]] — Framework transparency in action: physicalist concessions that structurally parallel dualism
 
 ## References
 
