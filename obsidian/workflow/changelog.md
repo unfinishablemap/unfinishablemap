@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 08:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Ethics of consciousness and the invertebrate question
+- **Output**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Word count**: 1988
+- **Based on research**: yes, [[invertebrate-consciousness-interface-test-case-2026-04-06]], [[phenomenal-value-realism-metaethics-2026-01-16]], [[consciousness-simple-organisms-2026-01-19]]
+
 ## 2026-04-13 07:56 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 450+ published articles across topics/ (227), concepts/ (222), tenets/ (1), apex/ (22), voids/ (100). Focused reading of 18 articles spanning empirical arguments, phenomenology, physics-consciousness interface, rival theory engagement, and apex synthesis.
