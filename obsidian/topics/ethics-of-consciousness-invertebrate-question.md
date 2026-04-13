@@ -4,13 +4,14 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-13T08:59:00+00:00
+ai_modified: 2026-04-13T10:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[meaning-of-life]]"
-concepts:
+topics:
   - "[[animal-consciousness]]"
+concepts:
   - "[[degrees-of-consciousness]]"
   - "[[consciousness-value-connection]]"
   - "[[moral-responsibility]]"
@@ -33,26 +34,26 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-13T10:56:00+00:00
 ---
 
 If consciousness grounds moral status, and if invertebrates are probably conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is not a graded biological product that fades smoothly to zero in simpler organisms. It is a non-physical reality that either couples with a given physical system or does not. The ethical question is correspondingly stark: wherever adequate [[interface-heterogeneity|coupling architecture]] exists, a subject exists who can be wronged.
 
-The 2024 New York Declaration on Animal Consciousness, signed by over 500 scientists and philosophers, affirmed "a realistic possibility" of consciousness in insects, crustaceans, and cephalopods. The Map's [[invertebrate-consciousness-as-interface-test|analysis of invertebrate nervous systems]] examines what these architectures require of the coupling mechanism. This article asks the follow-up question: what do we owe these beings?
+The 2024 New York Declaration on Animal Consciousness, signed by hundreds of scientists and philosophers, affirmed "a realistic possibility" of consciousness in insects, crustaceans, and cephalopods. The Map's [[invertebrate-consciousness-as-interface-test|analysis of invertebrate nervous systems]] examines what these architectures require of the coupling mechanism. This article asks the follow-up question: what do we owe these beings?
 
 ## The Dualist Difference
 
 Physicalist ethics of animal consciousness typically proceeds through graduated attribution. Organisms with more complex neural architectures are assigned higher probability of consciousness, and moral consideration scales accordingly. A chimpanzee gets more moral weight than a bee, which gets more than a nematode, in a smooth gradient that reflects neural complexity.
 
-Dualism disrupts this gradient. If consciousness is non-physical and couples with matter at [[tenets#^minimal-quantum-interaction|quantum indeterminacies]], then what matters is not neural *complexity* but whether the physical system provides adequate *coupling architecture*. A bee's million-neuron central complex might provide coupling architecture as adequate as a mammal's cortex, just differently configured. The moral question shifts from "how much consciousness does this organism probably have?" to "does this organism's nervous system support coupling at all?"
+Dualism disrupts this gradient. (Some physicalist theories—Global Workspace Theory, for instance—also exhibit threshold properties, but these thresholds emerge from physical complexity and remain continuous at a fine enough grain.) If consciousness is non-physical and couples with matter at [[tenets#^minimal-quantum-interaction|quantum indeterminacies]], then what matters is not neural *complexity* but whether the physical system provides adequate *coupling architecture*. A bee's million-neuron central complex might provide coupling architecture as adequate as a mammal's cortex, just differently configured. The moral question shifts from "how much consciousness does this organism probably have?" to "does this organism's nervous system support coupling at all?"
 
 This reframing has three consequences:
 
-**The threshold matters more than the gradient.** Under physicalism, moral status increases continuously with neural complexity. Under dualism, there may be a relatively sharp boundary between systems that support coupling and systems that do not. Below the threshold, no moral obligation exists (no subject is present). Above it, a genuine subject exists whose experience creates moral claims. The [[degrees-of-consciousness|degree of consciousness]] may still vary, but the presence of a subject is binary in a way that physicalist accounts avoid.
+**The threshold matters more than the gradient.** Under physicalism, moral status increases continuously with neural complexity. Under dualism, there may be a relatively sharp boundary between systems that support coupling and systems that do not. Below the threshold, no moral obligation exists (no subject is present). Above it, a genuine subject exists whose experience creates moral claims. The [[degrees-of-consciousness|degree of consciousness]] may still vary, but the presence of a subject is binary in a way that physicalist accounts avoid. This cuts both ways: if the threshold is high, dualism could *narrow* the scope of moral obligation by placing many invertebrates below the coupling boundary. The ethical force of the argument depends on where the threshold falls—and that is precisely what we do not know.
 
 **Uncertainty is more consequential.** Because dualism posits a threshold rather than a gradient, being wrong about which side of the threshold an organism falls on is more costly. Mistakenly denying consciousness to a being that has it means failing to recognise a genuine subject—not merely underweighting a probabilistic concern.
 
-**The problem of other minds cuts deeper.** Under physicalism, third-person neural evidence provides at least indirect access to consciousness. Under dualism, neural evidence reveals only the physical side of the coupling. The non-physical side—the actual experience—remains behind the explanatory gap. We can observe that a bee's central complex creates integrated spatial models (Barron & Klein, 2016), but this tells us about the interface architecture, not directly about whether a conscious subject is using it.
+**The [[problem-of-other-minds|problem of other minds]] cuts deeper.** Under physicalism, third-person neural evidence provides at least indirect access to consciousness. Under dualism, neural evidence reveals only the physical side of the coupling. The non-physical side—the actual experience—remains behind the explanatory gap. We can observe that a bee's central complex creates integrated spatial models (Barron & Klein, 2016), but this tells us about the interface architecture, not directly about whether a conscious subject is using it.
 
 ## What Invertebrate Evidence Demands
 
@@ -60,7 +61,7 @@ The empirical case for invertebrate consciousness draws on multiple research pro
 
 ### Insects
 
-Chittka's *The Mind of a Bee* (2022) documents bees recognising faces, exhibiting play behaviour, showing cognitive biases consistent with emotional states, and demonstrating possible metacognition—with roughly a million neurons. Fruit flies show trace conditioning, which in mammals requires conscious attention (Leming et al., 2022). Under anaesthesia, Drosophila show the same collapse of integrated information structure as vertebrates (Pinotsis et al., 2021).
+Chittka's *The Mind of a Bee* (2022) documents bees recognising faces, exhibiting play behaviour, showing cognitive biases consistent with emotional states, and demonstrating possible metacognition—with roughly a million neurons. Fruit flies show trace conditioning, which in mammals is associated with conscious attention (Leming et al., 2022). Under anaesthesia, Drosophila show the same collapse of integrated information structure as vertebrates (Pinotsis et al., 2021).
 
 If the Map's framework is correct, these findings suggest that insect brains provide adequate coupling architecture. The ethical implication is that insect farming—which produces trillions of insects annually, a number that dwarfs vertebrate farming by orders of magnitude—involves the mass treatment of potentially conscious beings. The scale alone makes this one of the most significant moral questions of the present era, whether or not we can resolve it with certainty.
 

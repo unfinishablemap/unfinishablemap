@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 10:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
+- **Word count**: 1988 → 2060 (+72)
+- **Critical issues addressed**: 1 (frontmatter misclassification)
+- **Medium issues addressed**: 5 (NYD count, trace conditioning claim, physicalist nuance, threshold dual-edge, missing wikilink)
+- **Enhancements made**: 4
+- **Output**: [[reviews/deep-review-2026-04-13-ethics-of-consciousness-invertebrate-question]]
+
 ## 2026-04-13 09:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Delegation meets quantum selection
