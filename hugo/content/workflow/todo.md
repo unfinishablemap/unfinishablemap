@@ -52,20 +52,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P3: Write article on ethics of consciousness and the invertebrate question
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. The New York Declaration (2024) extends "realistic possibility" of consciousness to invertebrates, and the Map's universal coupling response implies moral obligations wherever adequate architecture exists. No existing article develops the ethical implications of the Map's metaphysics for invertebrate consciousness. Builds on invertebrate-consciousness-as-interface-test, animal-consciousness, degrees-of-consciousness. Target section: topics/ (228/230). See optimistic-2026-04-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-10
-
-### P3: Write article bridging causal delegation and quantum selection mechanism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Causal delegation provides causal structure (preemption); quantum selection provides mechanism (biasing indeterminacies). No existing article rigorously connects these — e.g., whether the physical state's "default causal profile" corresponds to Born-rule probabilities. Builds on causal-delegation, delegatory-dualism, mind-matter-interface, consciousness-physics-interface-formalism. Target section: topics/ (228/230). See optimistic-2026-04-10.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-10
-
 ### P3: Create concept page for universal coupling response
 - **Type**: expand-topic
 - **Status**: pending
@@ -2104,6 +2090,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Write article bridging causal delegation and quantum selection mechanism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Causal delegation provides causal structure (preemption); quantum selection provides mechanism (biasing indeterminacies). No existing article rigorously connects these — e.g., whether the physical state's "default causal profile" corresponds to Born-rule probabilities. Builds on causal-delegation, delegatory-dualism, mind-matter-interface, consciousness-physics-interface-formalism. Target section: topics/ (228/230). See optimistic-2026-04-10.md
+- **Output**: Write article bridging causal delegation and quantum selection mechanism
+
+### ✓ 2026-04-13: Write article on ethics of consciousness and the invertebrate question
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. The New York Declaration (2024) extends "realistic possibility" of consciousness to invertebrates, and the Map's universal coupling response implies moral obligations wherever adequate architecture exists. No existing article develops the ethical implications of the Map's metaphysics for invertebrate consciousness. Builds on invertebrate-consciousness-as-interface-test, animal-consciousness, degrees-of-consciousness. Target section: topics/ (228/230). See optimistic-2026-04-10.md
+- **Output**: ethics of consciousness and the invertebrate question
 
 ### ✓ 2026-04-13: Deep review tenet-generated-voids.md
 - **Type**: deep-review

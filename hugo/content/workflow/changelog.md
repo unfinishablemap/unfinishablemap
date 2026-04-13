@@ -9,6 +9,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-13 10:56 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Word count**: 1988 → 2060 (+72)
+- **Critical issues addressed**: 1 (frontmatter misclassification)
+- **Medium issues addressed**: 5 (NYD count, trace conditioning claim, physicalist nuance, threshold dual-edge, missing wikilink)
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-13-ethics-of-consciousness-invertebrate-question](/reviews/deep-review-2026-04-13-ethics-of-consciousness-invertebrate-question/)
+
+## 2026-04-13 09:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Delegation meets quantum selection
+- **Output**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Word count**: 1822
+- **Based on research**: no
+
+## 2026-04-13 08:59 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Ethics of consciousness and the invertebrate question
+- **Output**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Word count**: 1988
+- **Based on research**: yes, [invertebrate-consciousness-interface-test-case-2026-04-06](/research/invertebrate-consciousness-interface-test-case-2026-04-06/), [phenomenal-value-realism-metaethics-2026-01-16](/research/phenomenal-value-realism-metaethics-2026-01-16/), [consciousness-simple-organisms-2026-01-19](/research/consciousness-simple-organisms-2026-01-19/)
+
 ## 2026-04-13 07:56 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 450+ published articles across topics/ (227), concepts/ (222), tenets/ (1), apex/ (22), voids/ (100). Focused reading of 18 articles spanning empirical arguments, phenomenology, physics-consciousness interface, rival theory engagement, and apex synthesis.
