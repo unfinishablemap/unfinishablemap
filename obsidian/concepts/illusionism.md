@@ -4,7 +4,7 @@ description: "The radical claim that phenomenal consciousness is an introspectiv
 created: 2026-01-14
 modified: 2026-04-07
 human_modified: null
-ai_modified: 2026-04-12T15:56:00+00:00
+ai_modified: 2026-04-12T23:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,7 +42,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-26T15:37:00+00:00
+last_deep_review: 2026-04-12T23:56:00+00:00
 ---
 
 Illusionism is the most radical physicalist response to the [[hard-problem-of-consciousness|hard problem]]. Rather than explaining how [[phenomenal-consciousness]] arises from physical processes, illusionists deny that it exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
@@ -99,21 +99,19 @@ Even if illusionism relocates the hard problem to a [[meta-problem-of-consciousn
 
 ## The Illusionist Response: Functional Seeming
 
-The strongest illusionist defence—and the one the Map must take most seriously—is Frankish's argument that phenomenal properties are not intrinsic qualities of experience but functional roles. (See [[functional-seeming]] for the concept definition.) Where dualists hold that the redness of red is an intrinsic property irreducible to any functional description, Frankish (2016, 2021) contends that what we call "phenomenal properties" reduce entirely to *functional seemings*: states defined by their causal role in producing judgments, reports, and reactions—nothing more.
+The strongest illusionist defence is Frankish's argument that phenomenal properties are not intrinsic qualities of experience but functional roles—what he calls [[functional-seeming]] (see the concept page for the full treatment and the Map's detailed objections). Where dualists hold that the redness of red is an intrinsic property irreducible to any functional description, Frankish (2016, 2021) contends that "phenomenal properties" reduce entirely to dispositions to judge, report, and react as if phenomenally conscious.
 
-This reframing blocks the standard regress objection. When critics argue that an illusion of consciousness requires consciousness, they assume "seeming" is phenomenal. Frankish denies this: "Seeming need not be phenomenal seeming, and there is thus no circularity in claiming that phenomenal properties seem to exist." The crucial epistemological move is the wedge between *representing* oneself as phenomenally conscious and *experiencing* phenomenal consciousness—Frankish argues these come apart entirely. A system can have all the beliefs, dispositions, and reactions that genuine phenomenal consciousness would produce without any phenomenal consciousness existing. His central concept is **quasi-phenomenal properties**: the non-phenomenal, physical properties of inner states that introspection detects and systematically misrepresents as phenomenal. The "redness" you seem to experience is a mischaracterisation of a complex functional-discriminative state—like a computer desktop's icons misrepresenting the underlying binary processes.
-
-Pereboom and Frankish (2021) develop the **distortion thesis**: we genuinely access our mental states, but the conceptual framework we use to interpret them generates the illusion—introspective *access* is real, but introspective *interpretation* is systematically flawed. The analogy is to pre-scientific cultures applying folk theories that posited phlogiston or vital forces. Kammerer (2017) poses the **illusion meta-problem**: why does illusionism seem so obviously wrong, even to philosophers who accept its logic? His later work (Kammerer 2022) develops the answer: the illusion is "rich," persisting regardless of what one comes to believe about its reality—a feature he attributes to introspective opacity rather than phenomenal access. This aims to explain the intuitive absurdity of illusionism without conceding that the intuition is veridical.
+This blocks the standard regress objection. When critics argue that an illusion of consciousness requires consciousness, they assume "seeming" is itself phenomenal. Frankish denies this: a system can represent itself as phenomenally conscious without any phenomenal consciousness existing. His central concept is **quasi-phenomenal properties**: non-phenomenal physical properties of inner states that introspection systematically misrepresents as phenomenal. Pereboom and Frankish (2021) develop this through the **distortion thesis**—introspective *access* is real, but introspective *interpretation* is systematically flawed, like pre-scientific theories positing phlogiston. Kammerer (2022) extends the line: the illusion is "rich," persisting regardless of what one comes to believe about its reality—a feature he attributes to introspective opacity rather than phenomenal access.
 
 ### Where the Functional Account Falls Short
 
-The functional-seeming move is the best version of illusionism available. It deserves engagement on its own terms rather than dismissal via the bare regress. Even so, it faces problems that the access/interpretation distinction does not resolve—problems that trace to the same gap the Map's [[tenets#^dualism|Dualism tenet]] identifies: the gap between what experience *does* (its functional role) and what experience *is* (its intrinsic character).
+The functional-seeming move is the best version of illusionism available. It deserves engagement on its own terms rather than dismissal via the bare regress. Even so, it faces problems that the access/interpretation distinction does not resolve—problems that trace to the gap the Map's [[tenets#^dualism|Dualism tenet]] identifies: the gap between what experience *does* (its functional role) and what experience *is* (its intrinsic character). The [[functional-seeming]] article develops the first three objections in detail; the following summarises all five.
 
-**The vantage-point problem.** The distortion thesis says we access real states but misinterpret them through a flawed conceptual framework—like phlogiston theorists misinterpreting combustion. But combustion scientists had independent evidence (oxygen experiments) to reveal the distortion. For consciousness, there is no independent vantage point. All we have is the seeming itself. The analogy to folk-theoretical error breaks down precisely where it matters most.
+**The vantage-point problem.** The distortion thesis analogises introspective error to phlogiston-style theoretical error. But combustion scientists had independent evidence (oxygen experiments) to reveal the distortion. For consciousness, no independent vantage point exists—the seeming itself is all the evidence available. Whether neuroscience describes the same phenomenon introspection accesses, or merely its physical correlates, is precisely what is at issue.
 
-**The zombie convergence.** Frankish accepts that a [[philosophical-zombies|philosophical zombie]] would have identical quasi-phenomenal properties and identical functional seeming. The zombie would judge itself conscious, report qualia, and philosophise about the hard problem—all for the same functional reasons. If illusionism is correct, the illusionist's *own* philosophical reasoning about consciousness is causally identical to the zombie's. The functional-seeming framework cannot distinguish genuine philosophical insight about consciousness from its empty mechanical echo.
+**The zombie convergence.** Frankish accepts that a [[philosophical-zombies|philosophical zombie]] would have identical quasi-phenomenal properties and identical functional seeming. The illusionist's own philosophical reasoning about consciousness is therefore causally identical to the zombie's—the framework cannot distinguish genuine philosophical insight about consciousness from its empty mechanical echo.
 
-**The self-representation problem.** The distortion thesis works for external objects: introspection mischaracterises a brain state the way folk physics mischaracterises motion. But "I am phenomenally conscious" targets the representing state itself. Frankish's representing/experiencing distinction assumes a gap between a state's self-representation and its actual nature—but for self-directed representation, this gap closes. The state representing itself as experiential *is* the candidate for being experiential; unlike combustion (which is indifferent to being called "phlogiston"), a mental state that represents itself as phenomenal is not clearly separable from a state that *is* phenomenal. Either it is phenomenal (vindicating the regress) or it is systematically wrong about its own nature in a way no other self-representing functional state is. The access/interpretation split does not help here—the state being accessed *is* the state doing the interpreting.
+**The self-representation problem.** The distortion thesis works for external objects but falters when "I am phenomenally conscious" targets the representing state itself. The state representing itself as experiential *is* the candidate for being experiential—unlike combustion, which is indifferent to being called "phlogiston." The access/interpretation distinction does not clearly survive when the accessed state and the interpreting state are one and the same.
 
 **The seeming/processing gap.** Kammerer's illusion meta-problem—why illusionism seems so absurd—is meant to *explain away* our resistance. But the persistence of phenomenal seeming under full intellectual acceptance of illusionism is equally well explained by phenomenal seeming being veridical. The "rich illusion" hypothesis and the "real experience" hypothesis predict identical phenomenology—neither can appeal to the evidence to rule out the other. If the functional account strips all experiential character from "seeming," what distinguishes a functional disposition to judge pain from mere information processing? By driving a wedge between representing and experiencing, Frankish explains our *reports* about consciousness—but reports are not the phenomenon that makes the hard problem hard. Experience itself remains untouched rather than dissolved.
 
@@ -165,6 +163,7 @@ Illusionism directly challenges the Map's [[tenets]]:
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionism converts the metaproblem into evidence for dualism
 - [[concepts/epiphenomenalism]] — The position illusionism structurally mirrors
 - [[self-stultification-as-master-argument]] — The argument that applies equally to illusionism and epiphenomenalism
+- [[functional-seeming]] — Frankish's central defensive concept, and the Map's detailed objections
 - [[concepts/materialism]] — The view illusionism radically defends
 - [[hard-problem-of-consciousness]] — What illusionism claims to dissolve
 
@@ -181,16 +180,3 @@ Illusionism directly challenges the Map's [[tenets]]:
 - Strawson, G. (2018). "The Consciousness Deniers." *New York Review of Books*.
 - Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
 
-<!-- AI REFINEMENT LOG - 2026-04-07
-Changes made:
-- Foregrounded Frankish's positive claim: phenomenal properties are functional roles, not intrinsic qualities (previously led with the defensive regress-blocking move)
-- Added user-illusion analogy for quasi-phenomenal properties
-- Framed "Where the Functional Account Falls Short" explicitly as dualist response to the intrinsic/functional gap
-- Added new "intrinsic-quality problem" paragraph connecting functional seeming to the knowledge argument
-- Rewrote Dualism paragraph in Relation to Site Perspective to directly address and rebut functional-seeming challenge
-
-Based on research in research/illusionism-functional-seeming-2026-03-28.md.
-Key improvements: Frankish's core theory now clearly stated as a positive claim about intrinsic vs functional qualities; Map's dualist response explicitly articulated throughout.
-
-This log should be removed after human review.
--->

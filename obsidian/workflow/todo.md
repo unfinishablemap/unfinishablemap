@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review illusionism.md considering functional-seeming insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/functional-seeming.md created 2026-04-12 via expand-topic. Illusionism.md is the parent position — functional seeming is its central defence mechanism. Check that illusionism.md references functional-seeming as a distinct concept, that terminology is consistent between the two articles, and that the Map's dualist responses are coherently presented across both.
-- **Source**: chain (from concepts/functional-seeming.md)
-- **Generated**: 2026-04-12
-
 ### P2: Cross-review self-stultification-as-master-argument.md considering functional-seeming insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2137,6 +2130,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Cross-review illusionism.md considering functional-seeming insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/functional-seeming.md created 2026-04-12 via expand-topic. Illusionism.md is the parent position — functional seeming is its central defence mechanism. Check that illusionism.md references functional-seeming as a distinct concept, that terminology is consistent between the two articles, and that the Map's dualist responses are coherently presented across both.
+- **Output**: obsidian/concepts/illusionism.md -- Context: Cross-review illusionism.md considering functional-seeming insights
 
 ### ✓ 2026-04-12: Write article on the numinous void
 - **Type**: expand-topic
