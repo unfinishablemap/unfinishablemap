@@ -9,6 +9,33 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-13 14:56 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)
+- **Word count**: 1449 → 1617 (+168)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (orphaned references, functionalist escape route)
+- **Enhancements made**: 4 (Korsgaard/Putnam inline citations, cross-link to normativity-of-reason, sharpened functionalist argument)
+- **Output**: [deep-review-2026-04-13-pragmatist-normative-bridge](/reviews/deep-review-2026-04-13-pragmatist-normative-bridge/)
+
+## 2026-04-13 13:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Pragmatist-normative bridge
+- **Output**: [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)
+- **Word count**: 1449
+- **Based on research**: No (built from existing articles pragmatisms-path-to-dualism, consciousness-and-normative-force, phenomenal-value-realism)
+
+## 2026-04-13 12:56 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Examined 15+ candidate pairs across topics (228/230), concepts (222/230), and voids (99/100). All articles are well-differentiated with distinct philosophical scope despite cross-referencing. No strong merge candidates found after exhaustive search.
+
+## 2026-04-13 11:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Universal coupling response
+- **Output**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Word count**: 1419
+- **Based on research**: no
+
 ## 2026-04-13 10:56 UTC - deep-review
 - **Status**: Success
 - **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
