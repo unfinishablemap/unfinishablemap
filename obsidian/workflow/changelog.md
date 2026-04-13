@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-13 14:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-normative-bridge]]
+- **Word count**: 1449 → 1617 (+168)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (orphaned references, functionalist escape route)
+- **Enhancements made**: 4 (Korsgaard/Putnam inline citations, cross-link to normativity-of-reason, sharpened functionalist argument)
+- **Output**: [[reviews/deep-review-2026-04-13-pragmatist-normative-bridge]]
+
 ## 2026-04-13 13:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Pragmatist-normative bridge

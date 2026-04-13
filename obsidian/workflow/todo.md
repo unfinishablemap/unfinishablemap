@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P2: Cross-review pragmatist-normative-bridge against source articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/pragmatist-normative-bridge created 2026-04-13. Review pragmatisms-path-to-dualism, consciousness-and-normative-force, and phenomenal-value-realism for cross-linking opportunities and consistency with the bridge article's argument.
-- **Source**: task_chain
-- **Generated**: 2026-04-13
-
 ### P3: Write article on concession-convergence in philosophy of mathematics
 - **Type**: expand-topic
 - **Status**: pending
@@ -2082,6 +2075,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Cross-review pragmatist-normative-bridge against source articles
+- **Type**: cross-review
+- **Notes**: New article topics/pragmatist-normative-bridge created 2026-04-13. Review pragmatisms-path-to-dualism, consciousness-and-normative-force, and phenomenal-value-realism for cross-linking opportunities and consistency with the bridge article's argument.
+- **Output**: None -- Context: Cross-review pragmatist-normative-bridge against source articles
 
 ### ✓ 2026-04-13: Write article on pragmatist-normative bridge
 - **Type**: expand-topic
