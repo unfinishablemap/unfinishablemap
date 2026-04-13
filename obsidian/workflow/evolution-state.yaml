@@ -1,6 +1,6 @@
-last_updated: '2026-04-13T13:55:22.746569+00:00'
-session_count: 5718
-cycle_position: 5346
+last_updated: '2026-04-13T15:55:22.748418+00:00'
+session_count: 5720
+cycle_position: 5348
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-13T01:55:22.739095+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-13T12:55:22.746162+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-13T14:56:06.208801+00:00'
-last_git_push: '2026-04-13T10:55:22.743627+00:00'
+  agentic-social: '2026-04-13T16:56:05.376173+00:00'
+last_git_push: '2026-04-13T14:55:22.747298+00:00'
 last_tweet_date: '2026-04-13'
 content_stats:
   total_files: 297
@@ -47,14 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update references to coalesced co)'
-  type: deep-review
-  date: '2026-04-12'
-  outcome: success
-- task: 'deep-review (None -- Context: Cross-review extended-mind-thesis)'
-  type: deep-review
-  date: '2026-04-12'
-  outcome: success
 - task: condense (obsidian/concepts/parfit-reductionism.md)
   type: condense
   date: '2026-04-12'
@@ -127,11 +119,20 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-13'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review pragmatist-normative)'
+  type: deep-review
+  date: '2026-04-13'
+  outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-13'
+  outcome: failed
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/phenomenology-of-creative-insight/
-    date: '2026-04-13T14:56:06.208751+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-under-extreme-metabolic-constraint/
+    date: '2026-04-13T16:56:05.376156+00:00'
     topics:
-    - hard-problem-of-consciousness
-    - free-will
-    - methodology-of-consciousness-research
+    - death-and-consciousness
+    - anaesthesia-and-the-consciousness-interface
+    - psychedelics-and-the-filter-model
+    - terminal-lucidity-and-filter-transmission-theory
