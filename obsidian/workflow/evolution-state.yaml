@@ -1,20 +1,20 @@
-last_updated: '2026-04-13T09:55:22.742940+00:00'
-session_count: 5714
-cycle_position: 5342
+last_updated: '2026-04-13T10:55:22.743627+00:00'
+session_count: 5715
+cycle_position: 5343
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-13T01:55:22.739095+00:00'
   optimistic-review: '2026-04-13T07:55:22.741594+00:00'
   check-tenets: '2026-04-12T19:55:22.736439+00:00'
   check-links: '2026-04-12T19:55:22.736439+00:00'
-  deep-review: '2026-04-13T04:55:22.740562+00:00'
+  deep-review: '2026-04-13T10:55:22.743627+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-12T19:55:22.736439+00:00'
   coalesce: '2026-04-12T17:55:22.734751+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-13T10:56:07.856583+00:00'
-last_git_push: '2026-04-13T06:55:22.741381+00:00'
+  agentic-social: '2026-04-13T11:56:01.033904+00:00'
+last_git_push: '2026-04-13T10:55:22.743627+00:00'
 last_tweet_date: '2026-04-13'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/phenomenal-transparency.md -- Co)
-  type: deep-review
-  date: '2026-04-12'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-12'
@@ -127,10 +123,15 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-13'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/jourdain-hypothesis/
-    date: '2026-04-13T10:56:07.856564+00:00'
+  - url: https://unfinishablemap.org/concepts/intentionality/
+    date: '2026-04-13T11:56:01.033889+00:00'
     topics:
-    - animal-consciousness
+    - hard-problem-of-consciousness
     - ai-consciousness
+    - phenomenology-of-intellectual-life
