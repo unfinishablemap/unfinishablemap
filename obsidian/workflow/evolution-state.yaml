@@ -1,6 +1,6 @@
-last_updated: '2026-04-13T11:55:22.744012+00:00'
-session_count: 5716
-cycle_position: 5344
+last_updated: '2026-04-13T12:55:22.746162+00:00'
+session_count: 5717
+cycle_position: 5345
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-13T01:55:22.739095+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-04-13T10:55:22.743627+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-12T19:55:22.736439+00:00'
-  coalesce: '2026-04-12T17:55:22.734751+00:00'
+  coalesce: '2026-04-13T12:55:22.746162+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-13T12:55:58.932908+00:00'
+  agentic-social: '2026-04-13T13:56:18.923439+00:00'
 last_git_push: '2026-04-13T10:55:22.743627+00:00'
 last_tweet_date: '2026-04-13'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/concepts/introspection.md -- Context: Cro)'
-  type: deep-review
-  date: '2026-04-12'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-12'
@@ -127,9 +123,14 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-13'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-04-13'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-in-smeared-quantum-states/
-    date: '2026-04-13T12:55:58.932876+00:00'
+  - url: https://unfinishablemap.org/topics/diachronic-agency-and-personal-narrative/
+    date: '2026-04-13T13:56:18.923405+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - personal-identity
+    - free-will

@@ -51,12 +51,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 
-### P3: Write article on pragmatist-normative bridge
-- **Type**: expand-topic
+### P2: Cross-review pragmatist-normative-bridge against source articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Connect pragmatism's reflexive argument (evaluation presupposes an evaluator) with normative force analysis (evaluation has irreducible phenomenal character). Pragmatism shows *that* consciousness is required for evaluation; normative force shows *how* it evaluates through demand-character. Builds on pragmatisms-path-to-dualism, consciousness-and-normative-force, phenomenal-value-realism. Target section: topics/ (228/250). See optimistic-2026-04-11.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-11
+- **Notes**: New article topics/pragmatist-normative-bridge created 2026-04-13. Review pragmatisms-path-to-dualism, consciousness-and-normative-force, and phenomenal-value-realism for cross-linking opportunities and consistency with the bridge article's argument.
+- **Source**: task_chain
+- **Generated**: 2026-04-13
 
 ### P3: Write article on concession-convergence in philosophy of mathematics
 - **Type**: expand-topic
@@ -2082,6 +2082,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-13: Write article on pragmatist-normative bridge
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Connect pragmatism's reflexive argument (evaluation presupposes an evaluator) with normative force analysis (evaluation has irreducible phenomenal character). Pragmatism shows *that* consciousness is required for evaluation; normative force shows *how* it evaluates through demand-character. Builds on pragmatisms-path-to-dualism, consciousness-and-normative-force, phenomenal-value-realism. Target section: topics/ (228/250). See optimistic-2026-04-11.md
+- **Output**: pragmatist-normative bridge
 
 ### ✓ 2026-04-13: Create concept page for universal coupling response
 - **Type**: expand-topic
