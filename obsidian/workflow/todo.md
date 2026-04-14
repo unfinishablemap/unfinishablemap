@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/ethics-of-consciousness-invertebrate-question.md examines ethical implications of invertebrate consciousness under dualism. Review animal-consciousness.md and moral-status-under-dualism.md for cross-links, consistency on consciousness thresholds, and reinforcing arguments about the moral relevance of phenomenal experience.
-- **Source**: chain (from topics/ethics-of-consciousness-invertebrate-question.md)
-- **Generated**: 2026-04-14
-
 ### P2: Cross-review related articles considering concession-convergence-philosophy-of-mathematics
 - **Type**: cross-review
 - **Status**: pending
@@ -2061,6 +2054,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-14: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
+- **Type**: cross-review
+- **Notes**: New article topics/ethics-of-consciousness-invertebrate-question.md examines ethical implications of invertebrate consciousness under dualism. Review animal-consciousness.md and moral-status-under-dualism.md for cross-links, consistency on consciousness thresholds, and reinforcing arguments about the moral relevance of phenomenal experience.
+- **Output**: None -- Context: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
 
 ### ✓ 2026-04-14: Cross-review related articles considering delegation-meets-quantum-selection insights
 - **Type**: cross-review

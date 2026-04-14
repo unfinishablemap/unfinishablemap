@@ -4,12 +4,11 @@ description: "Dualism implies moral obligations wherever consciousness couples w
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-13T10:56:00+00:00
+ai_modified: 2026-04-14T06:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[meaning-of-life]]"
-topics:
   - "[[animal-consciousness]]"
 concepts:
   - "[[degrees-of-consciousness]]"
@@ -34,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-04-13T10:56:00+00:00
+last_deep_review: 2026-04-14T06:56:00+00:00
 ---
 
 If consciousness grounds moral status, and if invertebrates are probably conscious, then we face moral obligations toward creatures we routinely treat as insignificant. The Unfinishable Map's dualist framework makes this problem sharper than physicalist accounts do. Under dualism, consciousness is not a graded biological product that fades smoothly to zero in simpler organisms. It is a non-physical reality that either couples with a given physical system or does not. The ethical question is correspondingly stark: wherever adequate [[interface-heterogeneity|coupling architecture]] exists, a subject exists who can be wronged.
@@ -85,7 +84,7 @@ The Map's [[tenets#^occams-limits|fifth tenet]] reinforces this point. Dismissin
 
 ## Moral Status Without Moral Agency
 
-Most invertebrates that may be conscious are unlikely to be moral *agents*—beings capable of recognising and responding to moral claims. A bee can suffer but probably cannot deliberate about whether to cause suffering. Under the Map's framework, where [[moral-responsibility|moral responsibility]] requires conscious [[agent-causation|agent causation]], invertebrates are moral patients—beings toward whom we have obligations—without being moral agents who bear obligations themselves.
+Most invertebrates that may be conscious are unlikely to be moral *agents*—beings capable of recognising and responding to moral claims. A bee can suffer but probably cannot deliberate about whether to cause suffering. Under the Map's framework, where [[moral-responsibility|moral responsibility]] requires conscious [[agent-causation|agent causation]], invertebrates are moral patients—beings toward whom we have obligations—without being moral agents who bear obligations themselves. The [[ethics-of-consciousness|broader ethics of consciousness]] article develops this patient/agent distinction and the graduated confidence framework; the invertebrate case extends that framework to its most challenging frontier.
 
 This asymmetry is familiar from human ethics (infants and severely cognitively impaired humans are moral patients but not full moral agents). But the invertebrate case extends it to an unfamiliar scale. If trillions of moral patients exist in agricultural systems, in ecosystems affected by human activity, and underfoot on every walk, the total weight of moral obligation becomes staggering.
 
