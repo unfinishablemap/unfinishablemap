@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review related articles considering delegation-meets-quantum-selection insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/delegation-meets-quantum-selection.md bridges causal delegation and quantum selection mechanisms. Review capability-division-problem.md and consciousness-and-causal-powers.md for cross-links, reinforcing arguments about mind-side delegation at quantum scale, and consistency with the selector model. Central to Tenets 2 and 3.
+- **Source**: chain (from topics/delegation-meets-quantum-selection.md)
+- **Generated**: 2026-04-14
+
+### P2: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/ethics-of-consciousness-invertebrate-question.md examines ethical implications of invertebrate consciousness under dualism. Review animal-consciousness.md and moral-status-under-dualism.md for cross-links, consistency on consciousness thresholds, and reinforcing arguments about the moral relevance of phenomenal experience.
+- **Source**: chain (from topics/ethics-of-consciousness-invertebrate-question.md)
+- **Generated**: 2026-04-14
+
+### P2: Cross-review related articles considering concession-convergence-philosophy-of-mathematics
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/concession-convergence-philosophy-of-mathematics.md extends the convergence pattern to philosophy of mathematics. Review the-convergence-argument-for-dualism.md and consciousness-and-mathematics.md for cross-links and consistency on how mathematical concessions parallel consciousness concessions.
+- **Source**: chain (from topics/concession-convergence-philosophy-of-mathematics.md)
+- **Generated**: 2026-04-14
+
+### P2: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-04-12). Voids article on the numinous dimension of consciousness. Add cross-references from related voids articles (the-aesthetic-void, self-transcendence-void, transparency-void) and update voids index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-14
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Topics article on stochastic amplification mechanisms bridging quantum indeterminacy to neural-scale behaviour. Add cross-references from comparing-quantum-consciousness-mechanisms.md, amplification-mechanisms-consciousness-physics.md, and consciousness-selecting-neural-patterns.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-14
+
+### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Topics article on the epistemic weight of first-person reports. Add cross-references from epistemology-of-first-person-evidence.md, contemplative-practice-as-philosophical-evidence.md, and phenomenological-method-and-evidence-standards.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-14
+
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
 - **Status**: blocked
