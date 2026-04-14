@@ -4,7 +4,7 @@ description: "Why pragmatism's reflexive argument and phenomenal normativity joi
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-13T14:56:00+00:00
+ai_modified: 2026-04-14T03:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,17 @@ Functionalism has separate responses to pragmatism's reflexive argument and the 
 
 The bridge forecloses both responses simultaneously. Consider what happens when they are combined. The functionalist must claim that (a) evaluation is a computational role, and (b) the demand-character of normative experience is just the felt quality of that role. But the reflexive argument shows that the evaluation of (a) and (b) themselves depends on phenomenal demand-character — the felt grip that makes these claims seem warranted or unwarranted. The functionalist who evaluates the claim that evaluation is computational uses phenomenal normativity to do so. The felt sense that the functionalist account "works" — that it resolves philosophical problems, that it coheres with experience — is itself an instance of the very demand-character the functionalist claims to explain away.
 
-This is not merely a restatement of the reflexive argument. It is structurally stronger. The reflexive argument alone shows that evaluation presupposes consciousness. The bridge shows that evaluation presupposes *demand-character specifically* — the irreducibly phenomenal quality that functionalism cannot capture. A sophisticated functionalist might respond: "I agree evaluation depends on demand-character — I simply identify demand-character with a functional property." But the reflexive logic blocks this move. To identify demand-character with a functional property, you must evaluate that identification — and the evaluation proceeds through the very demand-character whose nature is in question. If demand-character *is* the functional property, the evaluation that establishes this is just more functional processing, and the claim that it "works" has no normative force beyond the tautology that the process produced itself. The functionalist cannot retreat to "evaluation requires consciousness, but consciousness is functional" because the bridge reveals that the evaluative work depends on precisely the phenomenal property that distinguishes consciousness from its functional description.
+The structural advantage over the standalone reflexive argument is significant. The reflexive argument alone shows that evaluation presupposes consciousness. The bridge shows that evaluation presupposes *demand-character specifically* — the irreducibly phenomenal quality that functionalism cannot capture. A sophisticated functionalist might respond: "I agree evaluation depends on demand-character — I simply identify demand-character with a functional property." But the reflexive logic blocks this move. To identify demand-character with a functional property, you must evaluate that identification — and the evaluation proceeds through the very demand-character whose nature is in question. If demand-character *is* the functional property, the evaluation that establishes this is just more functional processing, and the claim that it "works" has no normative force beyond the tautology that the process produced itself. The functionalist cannot retreat to "evaluation requires consciousness, but consciousness is functional" because the bridge reveals that the evaluative work depends on precisely the phenomenal property that distinguishes consciousness from its functional description.
+
+## Coherent and Incoherent Reflexivity
+
+An obvious objection: every philosophical position about consciousness is reflexive. The dualist who evaluates whether demand-character is irreducible uses demand-character to do so, just as the functionalist does. If reflexivity undermines the functionalist, why does it not equally undermine the dualist?
+
+The asymmetry lies in whether the reflexive position is self-consistent or self-undermining. The dualist's reflexivity is coherent: if consciousness is fundamental and irreducible, then using conscious evaluation to investigate consciousness is unproblematic — a fundamental capacity examining itself loses nothing in the process. The conclusion (consciousness is irreducible) is consistent with the method (irreducible conscious evaluation).
+
+The functionalist's reflexivity is incoherent in a specific way. If demand-character is identical to a functional property, then the evaluation establishing this identity is itself just functional processing. The felt grip that makes the functionalist's conclusion seem *warranted* — the phenomenal quality that distinguishes "this theory works" from "this process occurred" — is, on the functionalist's own account, nothing beyond the functional operation. The evaluation lacks normative force by the theory's own lights: it cannot distinguish between "the conclusion is correct" and "the process terminated." The functionalist's position entails that the evaluation supporting it has no more authority than any other computational output — including the contradictory one.
+
+The dualist faces no parallel difficulty. If demand-character is irreducible, the evaluation that establishes this retains its normative force throughout. The dualist's conclusion does not drain the method of its authority. The functionalist's conclusion does — and that is the asymmetry the bridge exploits.
 
 ## Parsimony as Evaluative Norm
 
@@ -100,3 +110,14 @@ The shared architecture across domains — demand-character, resistance to prefe
 3. Putnam, H. (1981). *Reason, Truth and History*. Cambridge University Press.
 4. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
 5. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/
+
+<!-- AI REFINEMENT LOG - 2026-04-14
+Changes made:
+- Added "Coherent and Incoherent Reflexivity" section addressing the symmetry objection from pessimistic review (Issue 2): the dualist's reflexivity is self-consistent while the functionalist's is self-undermining
+- Fixed writing style violation: replaced "This is not X. It is Y." construct with direct phrasing
+- Updated ai_modified timestamp
+
+Key improvements: Addressed the strongest objection identified in the pessimistic review — that the anti-functionalist reflexivity charge applies symmetrically to the dualist. The new section explicitly distinguishes coherent reflexivity (dualist case: conclusion preserves method's authority) from incoherent reflexivity (functionalist case: conclusion drains method's authority).
+
+This log should be removed after human review.
+-->

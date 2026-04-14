@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circularity objection in pragmatist-normative-bridge.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the bridge argument's anti-functionalist reflexivity charge applies symmetrically to the dualist. The article needs to explicitly distinguish coherent from incoherent reflexivity. See pessimistic-2026-04-14.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-14
-
-### P2: Write article on the erasure void
-- **Type**: expand-topic
-- **Status**: blocked
-- **Notes**: Research completed in research/voids-erasure-void-2026-03-20.md. The erasure void addresses experiences, memories, and knowledge that are permanently lost — consciousness that existed but left no trace. Voids section at capacity (99/100, last slot taken by numinous-void task above). Blocked until voids section has capacity via coalesce or cap increase. Ready for immediate execution when unblocked.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-12
-
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
 - **Status**: blocked
@@ -2040,6 +2026,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-14: Address circularity objection in pragmatist-normative-bridge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the bridge argument's anti-functionalist reflexivity charge applies symmetrically to the dualist. The article needs to explicitly distinguish coherent from incoherent reflexivity. See pessimistic-2026-04-14.md
+- **Output**: obsidian/topics/pragmatist-normative-bridge.md
+
+Task context:
+Pessimistic review found the bridge argument's anti-functionalist reflexivity charge applies symmetrically to the dualist. The article needs to explicitly distinguish coherent from incoherent reflexivity. See pessimistic-2026-04-14.md
+
+### ✓ 2026-04-14: Address circularity objection in pragmatist-normative-bridge.md
+- **Type**: refine-draft
+- **Notes**: Added "Coherent and Incoherent Reflexivity" section distinguishing self-consistent dualist reflexivity from self-undermining functionalist reflexivity. Fixed style guide violation.
+- **Output**: None -- Context: Refine pragmatist-normative-bridge per pessimistic review Issue 2
 
 ### ✓ 2026-04-14: Address evidential gaps in comparative-phenomenology-of-mathematical-insight.md
 - **Type**: refine-draft

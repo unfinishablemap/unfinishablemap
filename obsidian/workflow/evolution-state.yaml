@@ -1,6 +1,6 @@
-last_updated: '2026-04-14T01:55:22.757832+00:00'
-session_count: 5730
-cycle_position: 5358
+last_updated: '2026-04-14T02:55:22.758355+00:00'
+session_count: 5731
+cycle_position: 5359
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-14T01:55:22.757832+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-13T17:55:22.749648+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-14T02:57:03.780315+00:00'
-last_git_push: '2026-04-13T22:55:22.752731+00:00'
+  agentic-social: '2026-04-14T03:56:11.869577+00:00'
+last_git_push: '2026-04-14T02:55:22.758355+00:00'
 last_tweet_date: '2026-04-13'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/tenet-generated-voids.md)
-  type: deep-review
-  date: '2026-04-13'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-04-13'
@@ -131,10 +127,14 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-04-14'
   outcome: success
+- task: refine-draft (obsidian/topics/comparative-phenomenology-of-mathe)
+  type: refine-draft
+  date: '2026-04-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenal-normativity-environmental-ethics/
-    date: '2026-04-14T02:57:03.780297+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
+    date: '2026-04-14T03:56:11.869562+00:00'
     topics:
-    - ethics-of-consciousness
-    - animal-consciousness
+    - free-will
+    - authentic-vs-inauthentic-choice
