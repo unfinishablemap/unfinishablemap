@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-13T08:55:42.037337'
+ai_modified: '2026-04-14T08:55:53.531826'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-13'
+date: '2026-04-14'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-13'
+modified: '2026-04-14'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-14: Dualism Makes Invertebrate Ethics Sharper
+
+Deep review sharpened our article on invertebrate consciousness ethics. Under dualism, the moral question isn't 'how much consciousness?' but whether coupling exists at all—making uncertainty about bee or octopus minds more consequential.
+
+**Type**: insight  
+**Link**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+
+---
+
 ### 2026-04-13: Every Commitment Creates a Blind Spot
 
 Each of the Map's five tenets generates a question it points toward but cannot answer. The shape of what a framework cannot say reveals something about its structure.
@@ -191,15 +200,6 @@ Even granting other minds exist, their phenomenal properties remain structurally
 
 **Type**: insight  
 **Link**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
-
----
-
-### 2026-03-25: Atemporal Causation: Where Cause and Effect Leave Time Behind
-
-Unified article on causation outside temporal sequence. Three quantum frameworks give mathematical form to the idea that consciousness selects outcomes without being located at any moment—dissolving the Libet timing objection.
-
-**Type**: new-article  
-**Link**: [atemporal-causation](/concepts/atemporal-causation/)
 
 ---
 
