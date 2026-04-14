@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-13 09:56:00+00:00
+ai_modified: 2026-04-14 05:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,6 +22,7 @@ description: Causal delegation provides the logical structure of mental causatio
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-14 05:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,13 +54,15 @@ The gap is significant. Without a bridge, each framework inherits problems the o
 
 The most productive point of contact between the frameworks is Saad's concept of the "default causal profile" — what a physical brain state would cause absent conscious takeover. In Saad's formulation, this is inherently counterfactual: wherever experience is present, delegation is already occurring, so the default profile is never directly observed.
 
-Quantum mechanics gives this counterfactual concrete content. A neural system in a state of quantum indeterminacy has a probability distribution over outcomes governed by the [Born rule](/topics/born-rule-and-the-consciousness-interface/). This distribution specifies precisely what the system would produce statistically if no conscious selection occurred — if outcomes were determined by quantum probabilities alone. The Born-rule distribution *is* the default causal profile, expressed in the language of physics.
+Quantum mechanics gives this counterfactual concrete content. A neural system in a state of quantum indeterminacy has a probability distribution over outcomes governed by the [Born rule](/topics/born-rule-and-the-consciousness-interface/). This distribution specifies precisely what the system would produce statistically if no conscious selection occurred — if outcomes were determined by quantum probabilities alone.
+
+The identification requires a bridging step. Saad's default causal profile is a counterfactual pattern of *effects* — what the brain state would cause. The Born-rule distribution is a probability measure over *outcomes*. These are the same thing at the relevant level of description: the outcomes the Born rule assigns probabilities to *are* the effects the brain state would produce. A decohered neural system's possible outcomes just are the possible neural firing patterns, motor commands, or attentional configurations that constitute the physical state's causal output. The probability the Born rule assigns to each outcome specifies the likelihood that the physical state produces that particular effect absent conscious involvement — which is exactly what the default causal profile describes. The Born-rule distribution *is* the default causal profile, expressed in the language of physics.
 
 This identification has several consequences.
 
 **The counterfactual becomes physical.** Saad's default profile, which might seem purely philosophical, acquires empirical grounding. The Born rule is the most precisely confirmed regularity in physics. The "default" against which delegation operates is not a philosopher's thought experiment but a measurable probability distribution.
 
-**Observational closure follows naturally.** Saad's [observational-closure](/concepts/observational-closure/) — the claim that delegation produces no empirically detectable anomalies — follows from the Map's position that consciousness selects *within* Born-rule probabilities rather than deviating from them. Torres Alegre (2025) proved that the Born rule is the unique probability assignment compatible with relativistic causality; any deviation would enable superluminal signalling. Conscious selection that respects Born statistics is therefore automatically observationally closed. The philosophical constraint Saad imposes by design is the same constraint physics imposes by necessity.
+**Observational closure follows naturally.** Saad's [observational-closure](/concepts/observational-closure/) — the claim that delegation produces no empirically detectable anomalies — follows from the Map's position that consciousness selects *within* Born-rule probabilities rather than deviating from them. Torres Alegre (2025) proved that the Born rule is the unique probability assignment compatible with relativistic causality; any deviation would enable superluminal signalling. Conscious selection that respects Born statistics is therefore automatically observationally closed. The philosophical constraint Saad imposes by design is the same constraint physics imposes by necessity. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) formalises this convergence: Born-rule preservation is the first of five non-negotiable constraints on any consciousness-physics coupling, and delegation satisfies it structurally.
 
 **Profile matching gains precision.** The Subset Law* states that an experience is instantiated when its causal profile is a subset of the physical state's default causal profile. On the quantum reading, this means: the pattern of effects consciousness produces must be a possible outcome of the Born-rule distribution. Consciousness cannot cause effects the quantum state has zero probability of producing. Selection chooses among live options; it does not create options physics forbids.
 
@@ -69,7 +72,7 @@ Delegation's core mechanism is [preemption](/concepts/preemption/): the physical
 
 Consider a neural system approaching the [post-decoherence gap](/concepts/post-decoherence-selection/). Decoherence has selected a preferred basis and suppressed interference, but the system remains in an improper mixture — multiple outcomes are genuinely possible, and physics provides no principle selecting one. Without conscious involvement, some physical process (objective collapse, hidden variables, or whatever baseline mechanism resolves the [prebiotic collapse problem](/concepts/prebiotic-collapse/)) would determine the outcome. This baseline process has a "default causal profile" — the statistical distribution of outcomes it would produce.
 
-Consciousness preempts this baseline process. Instead of the physical mechanism determining the outcome, experience selects which possibility becomes actual. The baseline mechanism retains its capacity — it would have produced *some* definite outcome — but does not exercise it. One cause (consciousness) operates; the other (the baseline physical process) is sidelined.
+Consciousness preempts this baseline process. Instead of the physical mechanism determining the outcome, experience selects which possibility becomes actual. The baseline mechanism retains its capacity — it would have produced *some* definite outcome — but does not exercise it. One cause (consciousness) operates; the other (the baseline physical process) is sidelined. The [trilemma-of-selection](/topics/trilemma-of-selection/) establishes why this selection must be conscious: at any point of genuine indeterminacy, the exhaustive options are determinism, randomness, and mental causation — and only the third preserves authorship. Delegation specifies the *causal structure* of that third option.
 
 This maps precisely onto Saad's major-and-sergeant analogy. The baseline collapse mechanism is the sergeant; consciousness is the major. Both can determine the outcome. Hierarchy — consciousness preempts baseline collapse in neural systems — settles which one does.
 
@@ -118,6 +121,7 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Selection after decoherence removes the coherence requirement
 - [skill-delegation](/concepts/skill-delegation/) — The inverse direction: consciousness delegating to procedural systems
 - [preemption](/concepts/preemption/) — The causal structure underlying both delegation and selection
+- [trilemma-of-selection](/topics/trilemma-of-selection/) — Why selection at indeterminacies must be conscious
 - [observational-closure](/concepts/observational-closure/) — Why delegation-selection leaves no empirical trace
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five constraints on any consciousness-physics coupling
 - [entanglement-binding-hypothesis](/concepts/entanglement-binding-hypothesis/) — Quantum entanglement as the physical substrate for unified experience

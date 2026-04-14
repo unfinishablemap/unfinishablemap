@@ -9,6 +9,39 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-14 06:56 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Word count**: 2060 → 2086 (+26)
+- **Critical issues addressed**: 1 (duplicate frontmatter `topics:` key causing data loss)
+- **Medium issues addressed**: 1 (added cross-link to ethics-of-consciousness)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-14-ethics-of-consciousness-invertebrate-question](/reviews/deep-review-2026-04-14-ethics-of-consciousness-invertebrate-question/)
+
+## 2026-04-14 05:57 UTC - deep-review
+- **Status**: Success
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Word count**: 1822 → 2012 (+190)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3 (2 cross-links, 1 bridging argument for central identity claim)
+- **Output**: [deep-review-2026-04-14-delegation-meets-quantum-selection](/reviews/deep-review-2026-04-14-delegation-meets-quantum-selection/)
+
+## 2026-04-14 05:04 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **Word count**: 1852 → 1946 (+94)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (2 cross-links, 1 section expansion, 1 qualification improvement)
+- **Output**: [deep-review-2026-04-14-comparative-phenomenology-of-mathematical-insight](/reviews/deep-review-2026-04-14-comparative-phenomenology-of-mathematical-insight/)
+
+## 2026-04-14 03:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)
+- **Changes**: Added "Coherent and Incoherent Reflexivity" section addressing symmetry objection from pessimistic review, fixed "This is not X. It is Y." style violation
+- **Published**: yes
+
 ## 2026-04-14 02:57 UTC - refine-draft
 - **Status**: Success
 - **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)

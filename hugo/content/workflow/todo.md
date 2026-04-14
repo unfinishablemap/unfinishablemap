@@ -38,19 +38,33 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address circularity objection in pragmatist-normative-bridge.md
-- **Type**: refine-draft
+### P2: Cross-review related articles considering concession-convergence-philosophy-of-mathematics
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Pessimistic review found the bridge argument's anti-functionalist reflexivity charge applies symmetrically to the dualist. The article needs to explicitly distinguish coherent from incoherent reflexivity. See pessimistic-2026-04-14.md
-- **Source**: pessimistic-review
+- **Notes**: New article topics/concession-convergence-philosophy-of-mathematics.md extends the convergence pattern to philosophy of mathematics. Review the-convergence-argument-for-dualism.md and consciousness-and-mathematics.md for cross-links and consistency on how mathematical concessions parallel consciousness concessions.
+- **Source**: chain (from topics/concession-convergence-philosophy-of-mathematics.md)
 - **Generated**: 2026-04-14
 
-### P2: Write article on the erasure void
-- **Type**: expand-topic
-- **Status**: blocked
-- **Notes**: Research completed in research/voids-erasure-void-2026-03-20.md. The erasure void addresses experiences, memories, and knowledge that are permanently lost — consciousness that existed but left no trace. Voids section at capacity (99/100, last slot taken by numinous-void task above). Blocked until voids section has capacity via coalesce or cap increase. Ready for immediate execution when unblocked.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-12
+### P2: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-04-12). Voids article on the numinous dimension of consciousness. Add cross-references from related voids articles (the-aesthetic-void, self-transcendence-void, transparency-void) and update voids index if needed.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-14
+
+### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Topics article on stochastic amplification mechanisms bridging quantum indeterminacy to neural-scale behaviour. Add cross-references from comparing-quantum-consciousness-mechanisms.md, amplification-mechanisms-consciousness-physics.md, and consciousness-selecting-neural-patterns.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-14
+
+### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-03-29). Topics article on the epistemic weight of first-person reports. Add cross-references from epistemology-of-first-person-evidence.md, contemplative-practice-as-philosophical-evidence.md, and phenomenological-method-and-evidence-standards.md.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-14
 
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
@@ -2041,6 +2055,29 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-14: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
+- **Type**: cross-review
+- **Notes**: New article topics/ethics-of-consciousness-invertebrate-question.md examines ethical implications of invertebrate consciousness under dualism. Review animal-consciousness.md and moral-status-under-dualism.md for cross-links, consistency on consciousness thresholds, and reinforcing arguments about the moral relevance of phenomenal experience.
+- **Output**: None -- Context: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
+
+### ✓ 2026-04-14: Cross-review related articles considering delegation-meets-quantum-selection insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegation-meets-quantum-selection.md bridges causal delegation and quantum selection mechanisms. Review capability-division-problem.md and consciousness-and-causal-powers.md for cross-links, reinforcing arguments about mind-side delegation at quantum scale, and consistency with the selector model. Central to Tenets 2 and 3.
+- **Output**: None -- Context: Cross-review related articles considering delegation-meets-quantum-selection insights
+
+### ✓ 2026-04-14: Address circularity objection in pragmatist-normative-bridge.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the bridge argument's anti-functionalist reflexivity charge applies symmetrically to the dualist. The article needs to explicitly distinguish coherent from incoherent reflexivity. See pessimistic-2026-04-14.md
+- **Output**: obsidian/topics/pragmatist-normative-bridge.md
+
+Task context:
+Pessimistic review found the bridge argument's anti-functionalist reflexivity charge applies symmetrically to the dualist. The article needs to explicitly distinguish coherent from incoherent reflexivity. See pessimistic-2026-04-14.md
+
+### ✓ 2026-04-14: Address circularity objection in pragmatist-normative-bridge.md
+- **Type**: refine-draft
+- **Notes**: Added "Coherent and Incoherent Reflexivity" section distinguishing self-consistent dualist reflexivity from self-undermining functionalist reflexivity. Fixed style guide violation.
+- **Output**: None -- Context: Refine pragmatist-normative-bridge per pessimistic review Issue 2
 
 ### ✓ 2026-04-14: Address evidential gaps in comparative-phenomenology-of-mathematical-insight.md
 - **Type**: refine-draft
