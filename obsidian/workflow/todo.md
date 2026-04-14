@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering delegation-meets-quantum-selection insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/delegation-meets-quantum-selection.md bridges causal delegation and quantum selection mechanisms. Review capability-division-problem.md and consciousness-and-causal-powers.md for cross-links, reinforcing arguments about mind-side delegation at quantum scale, and consistency with the selector model. Central to Tenets 2 and 3.
-- **Source**: chain (from topics/delegation-meets-quantum-selection.md)
-- **Generated**: 2026-04-14
-
 ### P2: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
 - **Type**: cross-review
 - **Status**: pending
@@ -2068,6 +2061,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-14: Cross-review related articles considering delegation-meets-quantum-selection insights
+- **Type**: cross-review
+- **Notes**: New article topics/delegation-meets-quantum-selection.md bridges causal delegation and quantum selection mechanisms. Review capability-division-problem.md and consciousness-and-causal-powers.md for cross-links, reinforcing arguments about mind-side delegation at quantum scale, and consistency with the selector model. Central to Tenets 2 and 3.
+- **Output**: None -- Context: Cross-review related articles considering delegation-meets-quantum-selection insights
 
 ### ✓ 2026-04-14: Address circularity objection in pragmatist-normative-bridge.md
 - **Type**: refine-draft
