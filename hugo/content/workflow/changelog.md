@@ -4,10 +4,35 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-13'
+date: '2026-04-14'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-14 02:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **Changes**: Added methodological caveat (no cross-cultural phenomenology study exists), qualified tradition sections' inferences from texts to phenomenology, added confabulation third possibility to either-or dilemma, fixed style guide violation, softened overclaimed assertions
+- **Published**: yes
+
+## 2026-04-14 01:57 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: comparative-phenomenology-of-mathematical-insight.md, pragmatist-normative-bridge.md, metarepresentation-threshold.md
+- **Output**: [pessimistic-2026-04-14](/reviews/pessimistic-2026-04-14/)
+
+## 2026-04-14 00:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Comparative Phenomenology of Mathematical Insight Across Cultures
+- **Output**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **Word count**: 1621
+- **Based on research**: yes, [consciousness-philosophy-of-mathematics-2026-03-19](/research/consciousness-philosophy-of-mathematics-2026-03-19/) and [voids-mathematical-void-2026-02-02](/research/voids-mathematical-void-2026-02-02/)
+
+## 2026-04-13 23:56 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Metarepresentation Threshold
+- **Output**: [metarepresentation-threshold](/concepts/metarepresentation-threshold/)
+- **Word count**: 1235
+- **Based on research**: no (synthesised from existing Map articles: Jourdain Hypothesis, Higher-Order Theories, Baseline Cognition)
 
 ## 2026-04-13 22:56 UTC - deep-review
 - **Status**: Success

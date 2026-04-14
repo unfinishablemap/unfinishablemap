@@ -38,6 +38,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address circularity objection in pragmatist-normative-bridge.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the bridge argument's anti-functionalist reflexivity charge applies symmetrically to the dualist. The article needs to explicitly distinguish coherent from incoherent reflexivity. See pessimistic-2026-04-14.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-14
+
 ### P2: Write article on the erasure void
 - **Type**: expand-topic
 - **Status**: blocked
@@ -51,20 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Voids section at capacity after numinous-void. Blocked until voids section has capacity via coalesce or cap increase.
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
-
-### P3: Create concept page for metarepresentation threshold
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Canonical definition and evidential markers of the procedural-to-declarative metacognition boundary that separates human from animal cognition. The Jourdain hypothesis and several articles reference this threshold but it lacks its own anchor page. Distinct from the coalesced metacognition concept page, which covers metacognition broadly rather than this specific boundary. Target section: concepts/ (222/230). See optimistic-2026-04-07.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-07
-
-### P3: Write article on comparative phenomenology of mathematical insight across cultures
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review. Test whether the four features of mathematical insight (cross-domain connection, aesthetic filtration, phenomenal certainty, external validation) are culturally universal — Eastern approaches to proof, Islamic algebraic traditions, Indian mathematical phenomenology. Extends convergence programme to new domain. Builds on consciousness-and-mathematics, cross-cultural-phenomenology-of-agency, contemplative-practice-as-philosophical-evidence. Target section: topics/ (225/230). See optimistic-2026-04-07.md
-- **Source**: optimistic-review
-- **Generated**: 2026-04-07
 
 ### P3: Write article on consciousness-physics interface mechanism (technical treatment)
 - **Type**: expand-topic
@@ -2048,6 +2041,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-14: Address evidential gaps in comparative-phenomenology-of-mathematical-insight.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article infers cross-cultural phenomenological variation from historical texts about mathematical methods, not first-person reports. Also uses "This is not X. It is Y." construct flagged in style guide, and has a Lieberman citation date discrepancy. See pessimistic-2026-04-14.md
+- **Output**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md
+
+Task context:
+Pessimistic review found the article infers cross-cultural phenomenological variation from historical texts about mathematical methods, not first-person reports. Also uses "This is not X. It is Y." construct flagged in style guide, and has a Lieberman citation date discrepancy. See pessimistic-2026-04-14.md
+
+### ✓ 2026-04-14: Write article on comparative phenomenology of mathematical insight across cultures
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Test whether the four features of mathematical insight (cross-domain connection, aesthetic filtration, phenomenal certainty, external validation) are culturally universal — Eastern approaches to proof, Islamic algebraic traditions, Indian mathematical phenomenology. Extends convergence programme to new domain. Builds on consciousness-and-mathematics, cross-cultural-phenomenology-of-agency, contemplative-practice-as-philosophical-evidence. Target section: topics/ (225/230). See optimistic-2026-04-07.md
+- **Output**: comparative phenomenology of mathematical insight across cultures
+
+### ✓ 2026-04-13: Create concept page for metarepresentation threshold
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review. Canonical definition and evidential markers of the procedural-to-declarative metacognition boundary that separates human from animal cognition. The Jourdain hypothesis and several articles reference this threshold but it lacks its own anchor page. Distinct from the coalesced metacognition concept page, which covers metacognition broadly rather than this specific boundary. Target section: concepts/ (222/230). See optimistic-2026-04-07.md
+- **Output**: Create concept page for metarepresentation threshold
 
 ### ✓ 2026-04-13: Write article on phenomenology of linguistic failure
 - **Type**: expand-topic
