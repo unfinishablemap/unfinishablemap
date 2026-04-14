@@ -1,6 +1,6 @@
-last_updated: '2026-04-14T05:55:22.760484+00:00'
-session_count: 5734
-cycle_position: 5362
+last_updated: '2026-04-14T06:55:22.761258+00:00'
+session_count: 5735
+cycle_position: 5363
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-14T01:55:22.757832+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-13T17:55:22.749648+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-14T06:56:11.571071+00:00'
-last_git_push: '2026-04-14T02:55:22.758355+00:00'
+  agentic-social: '2026-04-14T07:59:12.998200+00:00'
+last_git_push: '2026-04-14T06:55:22.761258+00:00'
 last_tweet_date: '2026-04-13'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-13'
-  outcome: success
 - task: expand-topic (Create concept page for universal coupling respons)
   type: expand-topic
   date: '2026-04-13'
@@ -134,10 +130,15 @@ recent_tasks:
   type: deep-review
   date: '2026-04-14'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review related articles con)'
+  type: deep-review
+  date: '2026-04-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/objections-to-interactionism/
-    date: '2026-04-14T06:56:11.571053+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-problem-of-measurement-standards/
+    date: '2026-04-14T07:59:12.998170+00:00'
     topics:
     - hard-problem-of-consciousness
-    - free-will
+    - consciousness-and-scientific-explanation
+    - methodology-of-consciousness-research

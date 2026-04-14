@@ -3732,3 +3732,45 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: evaluative-phenomenal-character → argument-from-reason (rational norms grounded in phenomenal normativity), jourdain-hypothesis → consciousness-and-social-understanding (metarepresentation threshold explains social cognition gap), grain-mismatch → interface-heterogeneity (grain structures may vary across species), phenomenology-of-recursive-self-awareness → jourdain-hypothesis (recursive self-awareness is phenomenological content of Jourdain threshold), consciousness-and-language-interface → apophatic-approaches (linguistic inexpressibility as apophatic knowledge), evaluative-phenomenal-character → consciousness-and-aesthetic-creation (aesthetic creation deploys evaluative phenomenal character), phenomenal-concepts-strategy → parsimony-epistemology (both fail at consciousness boundary), bidirectional-interaction → clinical-neuroplasticity-evidence-for-bidirectional-causation (clinical detail for concept summary). See optimistic-2026-04-07.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-07
+
+### P3: Write article on the reflexive architecture of consciousness studies
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Three independent self-referential arguments (physicalism undermines explanation, physicalism undermines reasoning, epiphenomenalism undermines its own advocacy) converge on a single meta-argument about physicalism's structural self-defeat. The pieces exist across consciousness-defeats-explanation, argument-from-reason, and epiphenomenalism but no article synthesises the pattern. Target section: topics/. See optimistic-2026-04-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-14
+
+### P3: Write article on consciousness and the philosophy of proof
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The distinction between proof verification (mechanizable) and proof understanding (phenomenal) has no dedicated treatment. What does it mean to understand why a proof works, beyond checking each step? The zombie mathematician thought experiment deserves expansion. Builds on consciousness-and-mathematics, concession-convergence-philosophy-of-mathematics, argument-from-reason. Target section: topics/. See optimistic-2026-04-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-14
+
+### P3: Write article on phenomenal value realism and the hard problem of ethics
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The hard problem of consciousness and the hard problem of ethics may be the same problem — both concern how phenomenal properties resist physical reduction. Strong individual pieces exist on evaluative phenomenal character and invertebrate ethics but no article argues the unity. Builds on evaluative-phenomenal-character, ethics-of-consciousness-invertebrate-question, consciousness-and-the-normativity-of-reason. Target section: topics/. See optimistic-2026-04-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-14
+
+### P3: Add cross-links between consciousness-defeats-explanation, phenomenal-non-compositionality, concession-convergence, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Eight cross-linking opportunities: consciousness-defeats-explanation → argument-from-reason (both demonstrate physicalism's self-referential failure), phenomenal-non-compositionality → prebiotic-collapse (non-compositionality explains modulation rather than construction), concession-convergence-philosophy-of-mathematics → the-convergence-argument-for-dualism (mathematical concession as independent convergence instance), evaluative-phenomenal-character → ethics-of-consciousness-invertebrate-question (phenomenal value grounds moral status), delegation-meets-quantum-selection → consciousness-selecting-neural-patterns (delegation provides causal structure, selecting provides mechanism), jourdain-hypothesis → argument-from-reason (Jourdain threshold gives empirical traction to argument from reason), contemplative-epistemology → comparative-phenomenology-of-mathematical-insight (methodology that mathematical phenomenology applies), consciousness-and-the-normativity-of-reason → evaluative-phenomenal-character (rational normativity grounded in phenomenal normativity). See optimistic-2026-04-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-14
+
+### P3: Create concept page for reflexive gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The structural observation that consciousness cannot explain itself within any explanatory framework because explanation presupposes consciousness. Referenced across consciousness-defeats-explanation, argument-from-reason, and self-reference-and-limits but lacks a dedicated concept page. Target section: concepts/. See optimistic-2026-04-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-14
+
+### P3: Create concept page for concession convergence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The methodological pattern where competing theories are forced by internal difficulties to concede points compatible with the Map's position. Currently developed for mathematics but the pattern applies across consciousness studies (IIT, GNW, HOT all retreat toward dualist-compatible positions). Target section: concepts/. See optimistic-2026-04-14.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-14
