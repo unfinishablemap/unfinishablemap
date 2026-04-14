@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address evidential gaps in comparative-phenomenology-of-mathematical-insight.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the article infers cross-cultural phenomenological variation from historical texts about mathematical methods, not first-person reports. Also uses "This is not X. It is Y." construct flagged in style guide, and has a Lieberman citation date discrepancy. See pessimistic-2026-04-14.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-14
-
 ### P2: Address circularity objection in pragmatist-normative-bridge.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2047,6 +2040,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-14: Address evidential gaps in comparative-phenomenology-of-mathematical-insight.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the article infers cross-cultural phenomenological variation from historical texts about mathematical methods, not first-person reports. Also uses "This is not X. It is Y." construct flagged in style guide, and has a Lieberman citation date discrepancy. See pessimistic-2026-04-14.md
+- **Output**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md
+
+Task context:
+Pessimistic review found the article infers cross-cultural phenomenological variation from historical texts about mathematical methods, not first-person reports. Also uses "This is not X. It is Y." construct flagged in style guide, and has a Lieberman citation date discrepancy. See pessimistic-2026-04-14.md
 
 ### ✓ 2026-04-14: Write article on comparative phenomenology of mathematical insight across cultures
 - **Type**: expand-topic
