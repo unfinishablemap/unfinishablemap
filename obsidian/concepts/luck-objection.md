@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-26T07:34:00+00:00
+ai_modified: 2026-04-15T21:36:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -25,6 +25,8 @@ concepts:
   - "[[concepts/many-worlds]]"
   - "[[buddhism-and-dualism]]"
   - "[[trilemma-of-selection]]"
+  - "[[default-causal-profile]]"
+  - "[[causal-delegation]]"
 related_articles:
   - "[[tenets]]"
   - "[[luck-objection-libertarian-free-will-2026-01-17]]"
@@ -34,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-03-14T23:06:00+00:00
+last_deep_review: 2026-04-15T21:36:00+00:00
 ---
 
 The luck objection is the most persistent challenge to libertarian [[concept-of-free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
@@ -83,6 +85,8 @@ The Map strengthens the agent-causal response by specifying *how* consciousness 
 | What determines outcome | Nothing (chance) | Agent's reasons |
 | Phenomenology | None | Effort, engagement |
 | Agent's relationship | Passive recipient | Active selector |
+
+The [[causal-delegation|delegation]] framework makes this precise. Every brain state has a [[default-causal-profile]] — the pattern of effects it would produce absent conscious takeover. When consciousness selects, it *preempts* that default profile: the experience does the causal work the physical state would otherwise have done. Selection is not a mysterious extra force; it is the agent taking over causal responsibilities that physics leaves open at points of quantum indeterminacy.
 
 If selection is genuine, the luck objection fails. The agent explains the difference by selecting for reasons.
 
@@ -151,6 +155,8 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 - [[quantum-consciousness]] — The broader framework for consciousness-physics interaction
 - [[decoherence]] — The physics-based objection and quantum biology responses
 - [[concepts/many-worlds]] — Why MWI undermines the selection picture entirely
+- [[default-causal-profile]] — The counterfactual baseline that consciousness preempts when selecting
+- [[causal-delegation]] — The mechanism by which experience takes over the physical state's causal work
 - [[trilemma-of-selection]] — The three-way choice between determinism, randomness, and mental causation
 - [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral luck and grounds desert
 

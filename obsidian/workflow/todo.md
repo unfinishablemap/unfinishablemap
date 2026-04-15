@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review articles considering default-causal-profile insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/default-causal-profile.md created 2026-04-15. Review related articles for cross-linking opportunities and consistency: delegatory-dualism.md (the delegation model default-causal-profile formalises), mental-causation-and-downward-causation.md (causal profiles directly relevant), consciousness-selecting-neural-patterns.md (selection presupposes a baseline to override). Check for places to add [[default-causal-profile]] links, reinforcing arguments, or terminology inconsistencies.
-- **Source**: chain (from concepts/default-causal-profile.md)
-- **Generated**: 2026-04-15
-
 ### P2: Integrate biological-computationalism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2103,6 +2096,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review articles considering default-causal-profile insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-causal-profile.md created 2026-04-15. Review related articles for cross-linking opportunities and consistency: delegatory-dualism.md (the delegation model default-causal-profile formalises), mental-causation-and-downward-causation.md (causal profiles directly relevant), consciousness-selecting-neural-patterns.md (selection presupposes a baseline to override). Check for places to add [[default-causal-profile]] links, reinforcing arguments, or terminology inconsistencies.
+- **Output**: None -- Context: Cross-review articles considering default-causal-profile insights
 
 ### ✓ 2026-04-15: Integrate concession-convergence-philosophy-of-mathematics.md into site navigation
 - **Type**: integrate-orphan
