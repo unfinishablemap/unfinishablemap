@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 22:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Changes**: Restructured neuroplasticity section (broader CBT/meditation evidence first, Schwartz demoted to one example); added citations for ~10 bits/s bandwidth (Zheng & Meister 2024), meditator discrimination (Lutz et al. 2008, Fox et al. 2012); updated tenet section
+- **Published**: yes
+
 ## 2026-04-15 22:26 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/embodied-cognition.md`, `concepts/mental-effort.md`, `concepts/phenomenology.md`

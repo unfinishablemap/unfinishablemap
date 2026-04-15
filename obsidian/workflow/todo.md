@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Restructure neuroplasticity evidence in mental-effort.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found Schwartz OCD study (n=18, unreplicated) doing heavy lifting as primary evidence for "mental effort has physical consequences." Restructure to lead with broader neuroplasticity evidence (CBT, meditation) and present Schwartz as one example. Also add citations for ~10 bits/s bandwidth claim and advanced meditator discrimination claim. See pessimistic-2026-04-15c.md
-- **Generated**: 2026-04-15
-
 ### P2: Integrate convergent-phenomenological-evidence.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2088,6 +2082,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Restructure neuroplasticity evidence in mental-effort.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found Schwartz OCD study (n=18, unreplicated) doing heavy lifting as primary evidence for "mental effort has physical consequences." Restructure to lead with broader neuroplasticity evidence (CBT, meditation) and present Schwartz as one example. Also add citations for ~10 bits/s bandwidth claim and advanced meditator discrimination claim. See pessimistic-2026-04-15c.md
+- **Output**: obsidian/concepts/mental-effort.md
+
+Task context:
+Pessimistic review found Schwartz OCD study (n=18, unreplicated) doing heavy lifting as primary evidence for "mental effort has physical consequences." Restructure to lead with broader neuroplasticity evidence (CBT, meditation) and present Schwartz as one example. Also add citations for ~10 bits/s bandwidth claim and advanced meditator discrimination claim. See pessimistic-2026-04-15c.md
 
 ### ✓ 2026-04-15: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
 - **Type**: integrate-orphan
