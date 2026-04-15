@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenology-of-linguistic-failure.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-04-13). Topics article on what happens at language's boundaries when describing consciousness. Add cross-references from phenomenology-of-understanding-and-meaning, consciousness-defeats-explanation, apophatic-approaches, and consciousness-and-language-under-dualism.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P2: Integrate metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2061,6 +2054,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate phenomenology-of-linguistic-failure.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-04-13). Topics article on what happens at language's boundaries when describing consciousness. Add cross-references from phenomenology-of-understanding-and-meaning, consciousness-defeats-explanation, apophatic-approaches, and consciousness-and-language-under-dualism.
+- **Output**: obsidian/topics/phenomenology-of-linguistic-failure.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks across 20+ files
 - **Type**: refine-draft

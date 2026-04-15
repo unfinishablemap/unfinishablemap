@@ -24,6 +24,7 @@ related_articles:
   - "[[consciousness-and-language-interface]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[language-thought-boundary]]"
+  - "[[phenomenology-of-linguistic-failure]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -105,6 +106,7 @@ The philosophy of language provides independent support for several of the Map's
 - [[cognitive-phenomenology]] — Whether understanding has its own phenomenal character
 - [[mental-causation-and-downward-causation|mental causation]] — How conscious states cause physical effects
 - [[problem-of-other-minds]] — How private experience relates to public knowledge of others' minds
+- [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — The first-person experience of language failing to capture conscious content
 - [[tenets]] — The foundational commitments of the Map
 
 ## References

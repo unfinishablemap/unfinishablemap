@@ -23,6 +23,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[self-opacity]]"
   - "[[compound-failure-signatures]]"
+  - "[[phenomenology-of-linguistic-failure]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -133,6 +134,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 - [[three-kinds-of-void|Three Kinds of Void]] — The fundamental void taxonomy
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Detecting one's own mistakes and felt signatures of self-referential thought
+- [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Linguistic failure as a specific limit type with five distinct signatures
 - [[voids|Voids in the Map]] — The broader framework for cognitive dark spaces
 
 ## References

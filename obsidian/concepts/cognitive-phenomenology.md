@@ -39,6 +39,7 @@ related_articles:
   - "[[pragmatisms-path-to-dualism]]"
   - "[[pragmatism]]"
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
+  - "[[phenomenology-of-linguistic-failure]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -273,6 +274,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 - [[ai-consciousness]] — Why the Map holds AI systems lack genuine understanding
 - [[symbol-grounding-problem]] — Why representations need grounding in experience
 - [[pragmatisms-path-to-dualism]] — How cognitive phenomenology in evaluation makes pragmatism require dualism
+- [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What it's like when cognitive content resists linguistic expression
 
 ## References
 

@@ -20,6 +20,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[phenomenology-of-linguistic-failure]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -164,6 +165,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
+- [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What linguistic failure feels like from the inside: five distinct experiential modes
 - [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
 
 ## References

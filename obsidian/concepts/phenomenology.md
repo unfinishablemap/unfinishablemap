@@ -187,6 +187,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 - [[consciousness-and-the-phenomenology-of-place]] — Merleau-Ponty's lived body and Heidegger's Stimmung applied to spatial experience
 - [[evaluative-phenomenal-character|normative phenomenology]] — How phenomenological investigation generates normative claims about consciousness
 - [[pre-conceptual-knowing]] — The void territory where conceptual thought meets its limits
+- [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Applied phenomenology of expressive failure: five modes of how words fail
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
 
 ## References

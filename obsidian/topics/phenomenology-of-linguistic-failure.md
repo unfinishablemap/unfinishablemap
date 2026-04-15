@@ -4,7 +4,7 @@ description: "What it feels like when words fail—the distinct experiential sig
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-13T22:56:00+00:00
+ai_modified: 2026-04-15T07:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,13 +19,14 @@ related_articles:
   - "[[consciousness-and-language-interface]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-04-13T22:56:00+00:00
+last_deep_review: 2026-04-15T07:56:00+00:00
 ---
 
 Language fails constantly. Not in the dramatic sense of aphasia or stroke, but in the ordinary friction of trying to say what you mean. You reach for a word and find only approximations. You articulate an insight and watch it flatten into something lesser. You sit with a felt meaning so vivid it seems impossible to miss, yet every sentence you produce slides past it. These failures are not blank absences. They have texture, structure, and distinct experiential signatures—and those signatures are philosophically revealing.
@@ -72,7 +73,7 @@ This suggests that linguistic meaning, at least for phenomenally rich content, i
 
 ## What the Textures Reveal
 
-These five modes are not merely curiosities. Their structure carries philosophical weight.
+These five modes are not merely curiosities. Their structure carries philosophical weight, and they contribute to the broader [[phenomenology-of-cognitive-limit-types|taxonomy of cognitive limit signatures]] — each mode diagnosing a different relationship between consciousness and its expressive boundaries.
 
 ### Consciousness Contains Non-Linguistic Content
 
@@ -116,6 +117,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [[ten
 - [[thoughts-that-slip-away]] — Related phenomena of cognitive slippage
 - [[phenomenology-of-the-edge]] — The general phenomenology of approaching cognitive limits
 - [[cognitive-phenomenology]] — Whether understanding has its own phenomenal character
+- [[phenomenology-of-cognitive-limit-types]] — How different cognitive limits produce distinct experiential signatures
 - [[tenets]] — The foundational commitments of the Map
 
 ## References

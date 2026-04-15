@@ -27,6 +27,7 @@ related_articles:
   - "[[death-void]]"
   - "[[smoothness-and-continuity]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
+  - "[[phenomenology-of-linguistic-failure]]"
   - "[[resonance-void]]"
 ai_contribution: 100
 author: null
@@ -152,6 +153,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising edge-phenomenology as evidential data for boundary-mapping
 - [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection rather than slipping away
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage and dissolving insights
+- [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Five modes of what it feels like when language fails to capture experience
 - [[disappearance-voids|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
 - [[resonance-void|The Resonance Void]] — Edge-phenomenology within ordinary consciousness: meaning that exceeds articulation without requiring practice or preparation
 - [[the-silence-void|The Silence Void]] — The ultimate edge: where cognitive cessation opens territory mapping cannot reach
