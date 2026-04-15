@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/metaphysics-of-composition.md created 2026-04-15. Review against consciousness-and-the-metaphysics-of-composition.md, combination-problem.md, emergence.md, and binding-problem.md for consistency and add cross-links. The concept page should be referenced where mereological arguments arise.
-- **Source**: chain (from concepts/metaphysics-of-composition.md)
-- **Generated**: 2026-04-15
-
 ### P2: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2061,6 +2054,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/metaphysics-of-composition.md created 2026-04-15. Review against consciousness-and-the-metaphysics-of-composition.md, combination-problem.md, emergence.md, and binding-problem.md for consistency and add cross-links. The concept page should be referenced where mereological arguments arise.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md -- Context: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
 
 ### ✓ 2026-04-15: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
 - **Type**: cross-review

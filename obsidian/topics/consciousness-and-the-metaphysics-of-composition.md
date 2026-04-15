@@ -4,13 +4,14 @@ description: "Multiple independent answers to the Special Composition Question c
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-11T00:56:00+00:00
-last_deep_review: 2026-04-11T00:56:00+00:00
+ai_modified: 2026-04-15T14:05:00+00:00
+last_deep_review: 2026-04-15T14:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[panpsychisms-combination-problem]]"
 concepts:
+  - "[[metaphysics-of-composition]]"
   - "[[combination-problem]]"
   - "[[unity-of-consciousness]]"
   - "[[emergence]]"
@@ -34,7 +35,7 @@ When do parts form wholes? This question—the Special Composition Question (SCQ
 
 ## The Special Composition Question
 
-The SCQ asks: under what conditions do some objects compose a further object? Three broad families of answers dominate the literature.
+The SCQ asks: under what conditions do some objects compose a further object? The formal framework for this question comes from [[metaphysics-of-composition|the metaphysics of composition]]—the branch of mereology concerned with when and how parts form wholes. Three broad families of answers dominate the literature.
 
 **Universalism** holds that any collection of objects composes a further object. Your left shoe and the Eiffel Tower compose something. This avoids arbitrariness but generates a bloated ontology that does not privilege conscious beings in any way.
 
@@ -122,6 +123,7 @@ The convergence of composition theories on consciousness directly supports The U
 
 ## Further Reading
 
+- [[metaphysics-of-composition]] — The formal mereological framework: mereological simples, composition as identity, and the SCQ
 - [[phenomenal-non-compositionality]] — Why consciousness resists composition categorically
 - [[combination-problem]] — Panpsychism's version of the composition failure
 - [[unity-of-consciousness]] — The primitive wholeness that defies decomposition
