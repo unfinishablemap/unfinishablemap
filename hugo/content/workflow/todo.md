@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-15 15:35:00+00:00
+ai_modified: 2026-04-15 19:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,10 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review metaphysics-of-composition.md against related articles
-- **Type**: cross-review
-- **Notes**: New concept page concepts/metaphysics-of-composition.md created via expand-topic. Review against consciousness-and-the-metaphysics-of-composition (topics/), combination-problem, binding-problem, phenomenal-non-compositionality, and panpsychisms-combination-problem for consistency and cross-linking.
-- **Source**: chain (from concepts/metaphysics-of-composition.md)
+### P3: Create concept page for involuntary concession
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The argumentative pattern where a theory's internal development forces modifications that replicate its rival's claims. Currently described within concession-convergence.md but recurs across many articles (IIT adding exclusion axiom, GWT restricting access, HOT requiring phenomenal acquaintance, biological computationalism rejecting substrate independence). Deserves standalone concept page. Target section: concepts/ (227/230). See optimistic-2026-04-15-evening.md
+- **Source**: gap_analysis
 - **Generated**: 2026-04-15
 
 ### P3: Deep review metaphysics-of-composition.md
@@ -2061,6 +2062,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate concession-convergence-philosophy-of-mathematics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (near-orphan, created 2026-04-13). Topics article on how mathematical consciousness theories mirror the broader concession-convergence pattern. Add cross-references from consciousness-and-mathematics.md, concession-convergence.md, comparative-phenomenology-of-mathematical-insight.md, and philosophy-of-mathematics articles.
+- **Output**: obsidian/topics/concession-convergence-philosophy-of-mathematics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Cross-review tenet-falsification-conditions.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created 2026-04-15. Currently near-orphan (1 inbound link). Review against testing-consciousness-collapse.md, duhem-quine-underdetermination-consciousness.md, and the individual tenet articles for consistency. Ensure falsification conditions align with what testing-consciousness-collapse proposes as empirical tests.
+- **Output**: obsidian/concepts/tenet-falsification-conditions.md -- Context: Cross-review tenet-falsification-conditions.md against related articles
+
+### ✓ 2026-04-15: Cross-review rational-normativity.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-15. Currently near-orphan (1 inbound link). Review against argument-from-reason.md, self-stultification-as-master-argument.md, consciousness-and-normative-force.md, and consciousness-defeats-explanation.md for consistency and add inbound cross-links from related articles.
+- **Output**: obsidian/concepts/rational-normativity.md -- Context: Cross-review rational-normativity.md against related articles
+
+### ✓ 2026-04-15: Cross-review biological-computationalism.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/biological-computationalism.md created 2026-04-15. Review against functionalism.md, embodied-consciousness-and-the-interface.md, concession-convergence.md, experimental-consciousness-science-2025-2026.md, and substrate-independence articles for consistency, cross-linking, and to ensure the concession-convergence framing is calibrated correctly (per pessimistic-2026-04-15b).
+- **Output**: obsidian/concepts/biological-computationalism.md -- Context: Cross-review biological-computationalism.md against related articles
+
+### ✓ 2026-04-15: Cross-review default-causal-profile.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-causal-profile.md created 2026-04-15. Review against causal-delegation.md, delegatory-dualism.md, delegation-meets-quantum-selection.md, preemption.md, and born-rule-and-the-consciousness-interface.md for consistency and to add inbound cross-links from related articles.
+- **Output**: obsidian/concepts/default-causal-profile.md -- Context: Cross-review default-causal-profile.md against related articles
+
+### ✓ 2026-04-15: Create concept page for default causal profile
+- **Type**: expand-topic
+- **Notes**: Saad's technical concept identifying the Born-rule probability distribution as the "default causal profile" — the outcome distribution that obtains when consciousness does not intervene. Central to delegation-meets-quantum-selection.md and the Map's physics programme. Bridges philosophical causation theory with quantum mechanics at the point of contact. Deserves its own concept page for cross-referencing from delegation articles, born-rule articles, and mental-causation. Target section: concepts/ (227/230). See optimistic-2026-04-15-evening.md
+- **Output**: Create concept page for default causal profile
+
+### ✓ 2026-04-15: Cross-review metaphysics-of-composition.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/metaphysics-of-composition.md created via expand-topic. Review against consciousness-and-the-metaphysics-of-composition (topics/), combination-problem, binding-problem, phenomenal-non-compositionality, and panpsychisms-combination-problem for consistency and cross-linking.
+- **Output**: obsidian/concepts/metaphysics-of-composition.md -- Context: Cross-review metaphysics-of-composition.md against related articles
 
 ### ✓ 2026-04-15: Cross-review rational-normativity.md against related articles
 - **Type**: cross-review

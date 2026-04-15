@@ -55,12 +55,12 @@ All four objections in "Objections and Responses" remain well-handled. No new co
 - Good length at 79% of threshold (well below soft cap)
 
 ### Enhancements Made
-- Added inline cross-link to [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) in the Modified Growing Block section
-- Added [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) and [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) to Further Reading
+- Added inline cross-link to [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) in the Modified Growing Block section
+- Added [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) and [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) to Further Reading
 - Added both articles to frontmatter `related_articles`
 
 ### Cross-links Added
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — dedicated treatment of the growing block temporal ontology referenced in this article
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — dedicated treatment of the growing block temporal ontology referenced in this article
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — temporal ontology and consciousness, directly relevant to the article's themes
 
 ## Remaining Items

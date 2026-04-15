@@ -148,7 +148,7 @@ Attention relates differently to past and future. We can attend to anticipated e
 
 This asymmetry in temporal attention mirrors time's arrow—the experienced difference between past and future. If the Map's framework is correct that [consciousness participates in collapse](/topics/time-collapse-and-agency/) and [collapse creates irreversibility](/concepts/collapse-and-time/), then temporal attention may be the phenomenological manifestation of that participation. Attending forward feels open because outcomes are genuinely undetermined. Attending backward feels closed because collapse has already occurred. On this reading, the asymmetry of temporal attention is not an illusion imposed on a symmetric physical substrate but a direct experience of the process through which time acquires its direction.
 
-This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that branching leaves unexplained. This connects to [temporal creativity](/topics/consciousness-and-the-ontology-of-temporal-becoming/): consciousness participates in the future's constitution, and the [growing block](/topics/growing-block-universe-and-consciousness/) framework explains why the past feels closed in a way the future does not.
+This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that branching leaves unexplained. This connects to [temporal creativity](/topics/consciousness-and-the-ontology-of-temporal-becoming/): consciousness participates in the future's constitution, and the [growing block](/topics/consciousness-and-the-ontology-of-temporal-becoming/) framework explains why the past feels closed in a way the future does not.
 
 The experience of "too late" may be one of the most direct phenomenal contacts with the arrow of time. Not time as measured by clocks, but time as lived by agents—the irreversible becoming that the Map holds consciousness helps constitute.
 
@@ -186,7 +186,7 @@ The phenomenology of temporal consciousness and agency aligns with the Map's [te
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/)
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [neural-refresh-rates](/concepts/neural-refresh-rates/) — The discrete oscillatory cycles that attention modulates

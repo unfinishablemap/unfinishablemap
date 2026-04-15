@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-13 18:56:00+00:00
+ai_modified: 2026-04-15 21:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Formalism, logicism, intuitionism, and structuralism each independe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-13 18:56:00+00:00
+last_deep_review: 2026-04-15 21:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -26,6 +26,7 @@ related_articles:
 - '[[parsimony-case-for-interactionist-dualism]]'
 - '[[epistemology-of-convergence-arguments]]'
 - '[[reductionism-and-consciousness]]'
+- '[[arguments-against-materialism]]'
 - '[[mathematical-void]]'
 - '[[incompleteness-void]]'
 - '[[phenomenology-of-intellectual-life]]'
@@ -40,7 +41,7 @@ The [concession-convergence](/concepts/concession-convergence/) pattern—where 
 
 ## The Pattern in Mathematics
 
-The concession-convergence pattern in consciousness studies tracks how physicalist theories—[IIT](/concepts/integrated-information-theory/), [GWT](/concepts/global-workspace-theory/), [HOT](/concepts/higher-order-theories/)—each add constraints that replicate the dualist distinction between functional organisation and experience. The mathematical parallel tracks how anti-realist or reductionist philosophies of mathematics each add constraints that replicate the distinction between formal manipulation and mathematical *understanding*.
+The concession-convergence pattern in consciousness studies tracks how physicalist theories—[IIT](/concepts/integrated-information-theory/), [GWT](/concepts/global-workspace-theory/), [HOT](/concepts/higher-order-theories/)—each add constraints that replicate the dualist distinction between functional organisation and experience. The mathematical parallel tracks how anti-realist or reductionist philosophies of mathematics—each of which [implies a position on consciousness](/concepts/consciousness-and-the-philosophy-of-mathematics/)—add constraints that replicate the distinction between formal manipulation and mathematical *understanding*.
 
 The structure is the same. A theory begins with a reductive claim: mathematics is just symbol manipulation, or just logic, or just mental construction, or just structure. Foundational crises then force narrowing moves. The narrowing invariably points toward the same gap—between what formal systems can capture and what mathematicians actually grasp when they do mathematics.
 
@@ -119,6 +120,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 ## Further Reading
 
 - [concession-convergence](/concepts/concession-convergence/) — The original pattern in consciousness studies
+- [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How each mathematical ontology implies a philosophy of consciousness
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — The broader case for irreducible mathematical cognition
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches its limit at consciousness
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When independent convergence constitutes evidence

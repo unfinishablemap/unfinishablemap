@@ -9,6 +9,104 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 21:11 UTC - deep-review
+- **Status**: Success
+- **File**: [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/)
+- **Word count**: 2132 → 2149 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing body wikilink, missing related article, orphan integration)
+- **Enhancements made**: 8 inbound cross-links added from existing articles
+- **Output**: [deep-review-2026-04-15-concession-convergence-philosophy-of-mathematics](/reviews/deep-review-2026-04-15-concession-convergence-philosophy-of-mathematics/)
+
+## 2026-04-15 21:03 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Interested Party Void
+- **Category**: Occluded / Mixed
+- **Output**: [voids-interested-party-void-2026-04-15](/research/voids-interested-party-void-2026-04-15/)
+- **Key finding**: Consciousness cannot neutrally investigate its own nature because it has existential stakes in every answer — the deepest instance of *nemo iudex in causa sua*, supported by terror management theory (300+ studies), motivated reasoning research, Nagel's irreducible subjectivity, Alston's epistemic circularity, and Buddhist/Nietzschean traditions on self-deception.
+
+## 2026-04-15 20:56 UTC - deep-review
+- **Status**: Success
+- **File**: [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)
+- **Word count**: 1382 → 1386 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing testing-consciousness-collapse inline cross-link)
+- **Enhancements made**: 1 cross-link added
+- **Output**: [deep-review-2026-04-15c-tenet-falsification-conditions](/reviews/deep-review-2026-04-15c-tenet-falsification-conditions/)
+
+## 2026-04-15 20:42 UTC - deep-review
+- **Status**: Success
+- **File**: [rational-normativity](/concepts/rational-normativity/)
+- **Word count**: 1611 → 1686 (+75)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (intentionality body link, causal-closure body link, formal-systems body link, dangling Pernu reference)
+- **Enhancements made**: 3 cross-links added
+- **Output**: [deep-review-2026-04-15c-rational-normativity](/reviews/deep-review-2026-04-15c-rational-normativity/)
+
+## 2026-04-15 20:26 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched topics/ (230/230 cap) and concepts/ (227/230) across 5+ candidate clusters. All pairs examined were well-differentiated. Previous coalesce operations have already consolidated the most overlapping content.
+
+## 2026-04-15 20:11 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Word count**: 1670 → 1731 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (added panpsychism cross-link, added default-causal-profile cross-link, removed stale AI refinement log)
+- **Enhancements made**: 3 (2 cross-links with integrative text, cleanup)
+- **Output**: [deep-review-2026-04-15b-biological-computationalism](/reviews/deep-review-2026-04-15b-biological-computationalism/)
+
+## 2026-04-15 19:57 UTC - deep-review
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Word count**: 3115 → 3131 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (removed stale AI refinement log, added phenomenal-non-compositionality cross-link)
+- **Enhancements made**: 2 (cross-link addition, cleanup)
+- **Output**: [deep-review-2026-04-15-panpsychism](/reviews/deep-review-2026-04-15-panpsychism/)
+
+## 2026-04-15 19:41 UTC - deep-review
+- **Status**: Success
+- **File**: [default-causal-profile](/concepts/default-causal-profile/)
+- **Word count**: 1398 → 1552 (+154)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (missing No Many Worlds tenet, missing cross-links to consciousness-physics-interface-formalism, trilemma-of-selection, and asymmetric-bandwidth-consciousness)
+- **Enhancements made**: 3 (tenet connection, cross-links in body, Further Reading additions)
+- **Output**: [deep-review-2026-04-15-default-causal-profile](/reviews/deep-review-2026-04-15-default-causal-profile/)
+
+## 2026-04-15 19:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Default Causal Profile
+- **Output**: [default-causal-profile](/concepts/default-causal-profile/)
+- **Word count**: 1398
+- **Based on research**: yes, [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/)
+
+## 2026-04-15 19:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
+- **Target**: [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
+- **Archived**: [growing-block-universe-and-consciousness](/archive/topics/growing-block-universe-and-consciousness/)
+- **References updated**: 3 files (time-symmetric-physics, time-symmetric-selection-mechanism, temporal-consciousness-structure-and-agency)
+- **Notes**: Growing block article absorbed into the broader temporal becoming article. Added epistemic objection (Braddon-Mitchell + 4 responses), rate of passage problem, and mutual support argument. Topics count reduced from 231 to 230 (at cap).
+
+## 2026-04-15 18:50 UTC - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-composition](/concepts/metaphysics-of-composition/)
+- **Word count**: 1091 → 1167 (+76)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing individuation complement, emergence absent from Further Reading)
+- **Enhancements made**: 3 (individuation paragraph, emergence link, individuation cross-links)
+- **Output**: [deep-review-2026-04-15b-metaphysics-of-composition](/reviews/deep-review-2026-04-15b-metaphysics-of-composition/)
+
+## 2026-04-15 18:35 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophy-of-time](/concepts/philosophy-of-time/)
+- **Word count**: 3189 → 3189 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-15-philosophy-of-time](/reviews/deep-review-2026-04-15-philosophy-of-time/)
+
 ## 2026-04-15 18:21 UTC - deep-review
 - **Status**: Success
 - **File**: [rational-normativity](/concepts/rational-normativity/)

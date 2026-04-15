@@ -52,7 +52,7 @@ Whitehead would find an unexpected but genuine ally in the Map. The [process-phi
 
 The attention-as-interface architecture describes consciousness as a *process of selection*—not a static substance observing, but an active process of choosing among competing options. This is closer to Whitehead's "actual occasions" than to Cartesian res cogitans. The emphasis on temporal structure (multiple articles on temporal consciousness, specious present, duration, temporal unity, non-temporal consciousness) treats time as constitutive of experience rather than a backdrop.
 
-The [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) article directly engages with process-compatible metaphysics of time. The apex article [living-with-the-map](/apex/living-with-the-map/) quotes Whitehead on intrinsic subjective aim and the value inherent in each moment of experience—a genuinely Whiteheadian insight woven into a practical framework.
+The [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) article directly engages with process-compatible metaphysics of time. The apex article [living-with-the-map](/apex/living-with-the-map/) quotes Whitehead on intrinsic subjective aim and the value inherent in each moment of experience—a genuinely Whiteheadian insight woven into a practical framework.
 
 The Map avoids crude substance dualism in favour of what might be called "process-interactive dualism"—consciousness as a dynamic process interfacing with physical processes through selection. This is more sophisticated than critics expect.
 

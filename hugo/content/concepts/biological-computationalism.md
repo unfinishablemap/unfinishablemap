@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-04-15 17:20:00+00:00
+ai_modified: 2026-04-15 20:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,6 +15,8 @@ concepts:
 - '[[emergence]]'
 - '[[integrated-information-theory]]'
 - '[[global-workspace-theory]]'
+- '[[panpsychism]]'
+- '[[default-causal-profile]]'
 created: 2026-04-15
 date: &id001 2026-04-15
 description: Biological computationalism holds that brains compute in a substrate-dependent,
@@ -23,7 +25,7 @@ description: Biological computationalism holds that brains compute in a substrat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 17:05:00+00:00
+last_deep_review: 2026-04-15 20:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +55,7 @@ Computation in brains is constrained by and dependent on metabolic energy flows.
 
 ### Scale Inseparability
 
-Biological computation operates across scales—molecular, cellular, network, and whole-brain dynamics—in a computationally coupled manner. Digital systems process information in modular layers that can be separated and recombined. Biological systems, on this view, cannot be decomposed this way without losing the computation itself. The consciousness-relevant properties emerge from interactions across all scales simultaneously. This positions biological computationalism in tension with standard accounts of [emergence](/concepts/emergence/): if the relevant properties exist only in cross-scale coupling, they resist both reductive explanation (capturing them at a single level) and the weak emergence framework (deriving them from lower-level dynamics). Whether they constitute strong emergence remains an open question the framework does not resolve.
+Biological computation operates across scales—molecular, cellular, network, and whole-brain dynamics—in a computationally coupled manner. Digital systems process information in modular layers that can be separated and recombined. Biological systems, on this view, cannot be decomposed this way without losing the computation itself. The consciousness-relevant properties emerge from interactions across all scales simultaneously. This positions biological computationalism in tension with standard accounts of [emergence](/concepts/emergence/): if the relevant properties exist only in cross-scale coupling, they resist both reductive explanation (capturing them at a single level) and the weak emergence framework (deriving them from lower-level dynamics). Whether they constitute strong emergence remains an open question the framework does not resolve. [Panpsychist](/concepts/panpsychism/) readings offer another possibility: if experience is present at every scale, cross-scale coupling would integrate micro-experiences rather than generating experience from non-experiential components—but biological computationalism does not commit to this interpretation.
 
 ## Historical Context
 
@@ -91,7 +93,7 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 
 The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies in biological systems. Biological computationalism's emphasis on substrate-specific dynamics—continuous fields, ion flows, electromagnetic interactions—places consciousness-relevant processing in the physical regime where quantum effects in biology have been demonstrated in specific systems (avian magnetoreception, photosynthetic energy transfer). Whether quantum effects extend to the neural processes biological computationalism highlights remains an open empirical question, but the framework's insistence on substrate specificity is at least compatible with a quantum-level interface for consciousness.
 
-The **Bidirectional Interaction** tenet requires consciousness to causally influence physical outcomes. Biological computationalism's central claim—that the algorithm is the substrate—means any non-physical influence on the substrate would simultaneously be influence on the computation. The tight coupling of algorithm and substrate ensures that the Map's proposed mechanism (consciousness biasing quantum indeterminacies) would be computationally relevant rather than epiphenomenal.
+The **Bidirectional Interaction** tenet requires consciousness to causally influence physical outcomes. Biological computationalism's central claim—that the algorithm is the substrate—means any non-physical influence on the substrate would simultaneously be influence on the computation. In terms of [default causal profiles](/concepts/default-causal-profile/), the substrate's physical causal repertoire *is* the computation's causal repertoire—so consciousness preempting a substrate state's default profile would directly alter what gets computed. The tight coupling of algorithm and substrate ensures that the Map's proposed mechanism (consciousness biasing quantum indeterminacies) would be computationally relevant rather than epiphenomenal.
 
 The **No Many Worlds** tenet is supported by biological computationalism's insistence on substrate specificity. If consciousness depends on particular physical dynamics rather than abstract computation, indexical identity is tied to a specific substrate trajectory—not duplicated across branches.
 
@@ -122,14 +124,3 @@ For the full argument that biological computationalism inadvertently builds the 
 4. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
 5. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
 6. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
-
-<!-- AI REFINEMENT LOG - 2026-04-15
-Changes made:
-- Qualified "concession convergence" framing: changed "retreat from" to "concede ground that dualists have long contested"
-- Rewrote Dualism tenet paragraph to explicitly distinguish shared negative thesis (abstract function insufficient) from divergent positive claims (more physics vs. beyond physics)
-- Expanded "just physics" objection from a single-paragraph acknowledgment to a substantive engagement, presenting the dualist response (hard problem distinguishes consciousness from turbulence/protein folding) while honestly noting the crux: whether this distinction is principled or reflects ignorance
-- Updated description to avoid begging the question about the parallel
-
-Driven by pessimistic-2026-04-15b.md Issue 2 and Counterargument "Substrate Dependence as Physics, Not Dualism."
-This log should be removed after human review.
--->

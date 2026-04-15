@@ -73,7 +73,7 @@ Three responses dominate the literature:
 
 **The deflationary response** claims that felt temporal flow requires no special explanation beyond what physics and neuroscience already provide. Daniel Dennett and others argue that the "moving present" is a pattern in brain activity: memory mechanisms tag events with temporal order, producing a functional sense of passage. On this view, temporal flow is real as a functional state — not an illusion, exactly, but not something requiring non-physical constitution either. The arrow is epistemic and computational, not ontological.
 
-**The A-theoretic response** insists that temporal becoming is real and that physics is incomplete without it. The [growing block theory](/topics/growing-block-universe-and-consciousness/) (C.D. Broad) holds that the past and present are real but the future is not yet. The block grows as new events become actual. This preserves genuine becoming but must explain what drives the growth.
+**The A-theoretic response** insists that temporal becoming is real and that physics is incomplete without it. The [growing block theory](/topics/consciousness-and-the-ontology-of-temporal-becoming/) (C.D. Broad) holds that the past and present are real but the future is not yet. The block grows as new events become actual. This preserves genuine becoming but must explain what drives the growth.
 
 **The constitutive response** — the Map's position — holds that the phenomenological arrow cannot be derived from the physical arrow alone and that consciousness is partly constitutive of it. The growing block grows because collapse introduces irreversible facts — and physical collapse does this whether or not consciousness is present. But the *experienced directionality* of that growth — the felt passage from open future to settled past, the qualitative asymmetry between anticipation and memory — requires consciousness. The physical arrow supplies asymmetry; consciousness supplies the experience of that asymmetry as temporal *flow*.
 
@@ -141,7 +141,7 @@ Temporal asymmetry connects to all five [tenets](/tenets/):
 - [temporal-consciousness-void](/voids/temporal-void/) — Why consciousness cannot escape the present
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the deepest level of mind transcends time
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The growing block as temporal metaphysics
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — The growing block as temporal metaphysics
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces irreversibility
 - [duration](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The phenomenological structure of future-directed experience

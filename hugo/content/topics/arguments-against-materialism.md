@@ -38,6 +38,7 @@ related_articles:
 - '[[testing-consciousness-collapse]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
+- '[[concession-convergence-philosophy-of-mathematics]]'
 title: Arguments Against Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'

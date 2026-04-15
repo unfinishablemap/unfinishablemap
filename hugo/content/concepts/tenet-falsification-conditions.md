@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-04-15 18:05:00+00:00
+ai_modified: 2026-04-15 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: What it would take to abandon the Map's foundational commitments—
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 18:05:00+00:00
+last_deep_review: 2026-04-15 20:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,7 +77,7 @@ What would count: proof that physics is strictly [causally closed](/concepts/cau
 
 **Type**: Interpretation choice with emerging empirical content.
 
-What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [objective collapse](/concepts/spontaneous-collapse-theories/), which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test. Currently, [many-worlds](/concepts/many-worlds/) and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—indexical identity, ontological proliferation (see [the cumulative case against many-worlds](/arguments/many-worlds-argument/))—rather than empirical evidence.
+What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [objective collapse](/concepts/spontaneous-collapse-theories/), which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test (see [the experimental programme](/topics/testing-consciousness-collapse/)). Currently, [many-worlds](/concepts/many-worlds/) and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—indexical identity, ontological proliferation (see [the cumulative case against many-worlds](/arguments/many-worlds-argument/))—rather than empirical evidence.
 
 ### Occam's Razor Has Limits
 

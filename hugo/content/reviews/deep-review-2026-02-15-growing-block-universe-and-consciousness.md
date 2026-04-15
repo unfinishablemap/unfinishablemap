@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-15
-**Article**: [The Growing Block Universe and Consciousness](/topics/growing-block-universe-and-consciousness/)
+**Article**: [The Growing Block Universe and Consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

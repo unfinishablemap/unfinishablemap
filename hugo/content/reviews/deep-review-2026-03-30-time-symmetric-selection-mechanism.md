@@ -29,8 +29,8 @@ topics: []
 1. **Duplicate concept in frontmatter**: Both `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` and `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` listed; resolved to single entry.
 2. **Mislabeled Further Reading entry**: `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` was described as "The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL" — this description fits `[non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)`. **Resolution**: Replaced link with correct target.
 3. **Duplicate Further Reading entries**: Both `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` and `[consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)` listed separately. **Resolution**: Consolidated to single entry.
-4. **Missing cross-links in Modified Growing Block section**: No links to `[growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)` or `[consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)` despite direct relevance. **Resolution**: Added inline cross-links and Further Reading entry.
-5. **Missing related_articles**: `[non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)` and `[growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)` not in frontmatter despite being key counterparts. **Resolution**: Added both.
+4. **Missing cross-links in Modified Growing Block section**: No links to `[growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)` or `[consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/)` despite direct relevance. **Resolution**: Added inline cross-links and Further Reading entry.
+5. **Missing related_articles**: `[non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)` and `[growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)` not in frontmatter despite being key counterparts. **Resolution**: Added both.
 6. **Description over length guideline**: ~210 chars vs 150-160 target. **Resolution**: Trimmed to ~134 chars.
 
 ### Counterarguments Considered
@@ -58,7 +58,7 @@ topics: []
 
 ### Cross-links Added
 - [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) (Further Reading, corrected)
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) (inline, Further Reading, related_articles)
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) (inline, Further Reading, related_articles)
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) (inline)
 
 ## Remaining Items

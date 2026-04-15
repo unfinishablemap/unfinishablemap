@@ -169,6 +169,7 @@ The [No Many Worlds tenet](/tenets/#no-many-worlds) connects through the [indexi
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — The formal epistemology of convergence as philosophical method
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why consciousness differs structurally from past reductive successes
 - [concession-convergence](/concepts/concession-convergence/) — The complementary pattern: physicalist theories retreating toward dualist positions
+- [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — The concession pattern extended to philosophy of mathematics
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Independent traditions converging on consciousness's causal efficacy
 - [the-reverse-inference](/topics/the-reverse-inference/) — The epistemic asymmetry argument: consciousness constrains physics, adding another convergent strand
 - [Altered States as Systematic Interface Evidence](/apex/altered-states-as-interface-evidence/) — Convergence methodology applied to altered states

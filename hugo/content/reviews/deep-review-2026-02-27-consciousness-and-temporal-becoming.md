@@ -69,7 +69,7 @@ Updated stale references to archived articles (`consciousness-and-temporal-asymm
 - [temporal-consciousness](/concepts/temporal-consciousness/) (frontmatter)
 - [protention](/concepts/temporal-consciousness/) (frontmatter + body text + Further Reading)
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/) (frontmatter + body text + Further Reading)
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) (frontmatter + Further Reading)
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) (frontmatter + Further Reading)
 - [temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) (frontmatter + Further Reading)
 - Highlights page link updated
 - Completed cross-review todo task (removed from queue)

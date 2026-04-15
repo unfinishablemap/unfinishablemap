@@ -26,6 +26,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[consciousness-and-mathematics]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
+- '[[concession-convergence-philosophy-of-mathematics]]'
 title: The Mathematical Void
 topics:
 - '[[philosophy-of-mind]]'

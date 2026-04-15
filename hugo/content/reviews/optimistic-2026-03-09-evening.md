@@ -56,7 +56,7 @@ The Map's handling of the individuation problem demonstrates the intellectual ho
 - **Notable argument**: If normativity requires a subject for whom things matter, then eliminating consciousness eliminates normativity altogether
 - **Why it works**: Transforms the hard problem from a puzzle about sensation into a challenge about the foundations of value, knowledge, and beauty
 
-### [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
+### [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)
 - **Strongest point**: The growing block resolves the tension between determinism (eternalism) and presentism's difficulty with cross-temporal relations, while providing temporal ontology uniquely suited to consciousness as selector
 - **Notable argument**: The "growing edge" where indeterminacy becomes determinate maps directly onto quantum collapse modulated by consciousness
 - **Why it works**: Connects temporal ontology to the consciousness debate in a way that creates genuine philosophical constraints rather than mere analogies
@@ -118,7 +118,7 @@ The Map's handling of the individuation problem demonstrates the intellectual ho
 |------|-----|--------|
 | [delegatory-dualism](/topics/delegatory-dualism/) | [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) | Saad's delegation framework directly addresses the causal powers question |
 | [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) | [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/) | Both identify shared phenomenal architecture underlying normative experience |
-| [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) | [process-haecceitism](/concepts/haecceity/) | Growing block provides temporal ontology; process haecceitism provides individuation mechanism within it |
+| [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) | [process-haecceitism](/concepts/haecceity/) | Growing block provides temporal ontology; process haecceitism provides individuation mechanism within it |
 | [diachronic-agency-and-personal-narrative](/topics/diachronic-agency-and-personal-narrative/) | [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) | Extended agency requires the invariant felt authorship cross-cultural phenomenology identifies |
 | [value-blind-vs-value-sensitive-selection](/topics/valence-and-conscious-selection/) | [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) | If normativity requires phenomenal consciousness, value-sensitive selection follows |
 | [consciousness-and-the-phenomenology-of-framework-dependence](/topics/phenomenology-of-framework-inhabitation/) | [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) | Framework dependence strengthens the epistemic humility argument |

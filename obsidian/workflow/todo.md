@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-15T19:06:00+00:00
+ai_modified: 2026-04-15T21:27:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review articles considering default-causal-profile insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/default-causal-profile.md created 2026-04-15. Review related articles for cross-linking opportunities and consistency: delegatory-dualism.md (the delegation model default-causal-profile formalises), mental-causation-and-downward-causation.md (causal profiles directly relevant), consciousness-selecting-neural-patterns.md (selection presupposes a baseline to override). Check for places to add [[default-causal-profile]] links, reinforcing arguments, or terminology inconsistencies.
+- **Source**: chain (from concepts/default-causal-profile.md)
+- **Generated**: 2026-04-15
+
+### P2: Integrate biological-computationalism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Concept page created 2026-04-15, recently refined. Add cross-references from related articles (functionalism, substrate-independence, comparing-quantum-consciousness-mechanisms) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Topics article created 2026-03-29 on the epistemic weight of first-person reports. Add cross-references from related articles (epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, introspection) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate convergent-phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Concept page created 2026-03-28 on convergent phenomenological evidence as epistemic strategy. Add cross-references from related articles (the-convergence-argument-for-dualism, cross-traditional-convergence-on-consciousness-irreducibility, epistemology-of-convergence-arguments) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P3: Deep review inverted-qualia.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-05 — 41 days ago. Concept page on inverted qualia thought experiments and their implications for physicalism. Verify coherence, accuracy of philosophical positions (Shoemaker, Block), cross-references to qualia, knowledge-argument, and phenomenal-character articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-15
+
+### P3: Deep review cumulative-culture.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 35 days ago. Topics article on cumulative culture as evidence for consciousness's causal role. Verify coherence, cross-references to consciousness-as-amplifier and teaching-as-metarepresentation, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-15
+
 ### P3: Create concept page for involuntary concession
 - **Type**: expand-topic
 - **Status**: pending
@@ -53,8 +95,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
-- **Status**: blocked
-- **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Voids section at capacity after numinous-void. Blocked until voids section has capacity via coalesce or cap increase.
+- **Status**: pending
+- **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Previously blocked; voids section now at 99/100 with 1 slot available.
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-12
 

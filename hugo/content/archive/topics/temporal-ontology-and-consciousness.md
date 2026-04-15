@@ -80,7 +80,7 @@ For the Map's purposes, presentism also struggles with [collapse and time's arro
 
 ## The Growing Block's Fit with Dualist Interactionism
 
-The [growing block](/topics/growing-block-universe-and-consciousness/) preserves what the other ontologies sacrifice. The past exists (unlike presentism), so retention and causal inheritance are genuine relations to real things. The future doesn't yet exist (unlike eternalism), so temporal passage and openness are real. The present is the frontier where new reality is constituted.
+The [growing block](/topics/consciousness-and-the-ontology-of-temporal-becoming/) preserves what the other ontologies sacrifice. The past exists (unlike presentism), so retention and causal inheritance are genuine relations to real things. The future doesn't yet exist (unlike eternalism), so temporal passage and openness are real. The present is the frontier where new reality is constituted.
 
 This ontology pairs naturally with the Map's dualist interactionism:
 
@@ -128,7 +128,7 @@ This article's argument—that temporal ontology and consciousness theories are 
 
 ## Further Reading
 
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — Why the growing block best accommodates consciousness
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — Why the growing block best accommodates consciousness
 - [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — How consciousness requires temporal structure
 - [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — Why felt temporal direction requires consciousness
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — How collapse connects time, consciousness, and free will

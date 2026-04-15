@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-03-15
-ai_modified: 2026-03-15 13:59:00+00:00
+ai_generated_date: 2026-02-11
+ai_modified: 2026-04-15 19:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /topics/temporal-ontology-and-consciousness/
 - /topics/consciousness-and-temporal-becoming/
+- /topics/growing-block-universe-and-consciousness/
 concepts:
 - '[[philosophy-of-time]]'
 - '[[temporal-consciousness]]'
@@ -25,19 +26,18 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[causal-closure]]'
 - '[[conservation-laws-and-mental-causation]]'
-created: 2026-02-15
-date: &id001 2026-03-15
+created: 2026-02-11
+date: &id001 2026-04-15
 description: How temporal ontology constrains consciousness theory, and why consciousness
   constitutes the phenomenological arrow—felt passage enabling genuine creativity.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 13:59:00+00:00
+last_deep_review: 2026-04-15 19:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[temporal-consciousness-structure-and-agency]]'
-- '[[growing-block-universe-and-consciousness]]'
 - '[[time-collapse-and-agency]]'
 - '[[bergson-and-duration]]'
 - '[[non-temporal-consciousness]]'
@@ -47,6 +47,8 @@ related_articles:
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[topics/personal-identity]]'
+- '[[retrocausality]]'
+- '[[time-consciousness-growing-block]]'
 title: Consciousness and the Ontology of Temporal Becoming
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -90,11 +92,25 @@ Presentism also struggles with [collapse and time's arrow](/concepts/collapse-an
 
 ### The Growing Block's Fit with Dualist Interactionism
 
-The [growing block](/topics/growing-block-universe-and-consciousness/) preserves what the other ontologies sacrifice. The past exists (unlike presentism), so retention and causal inheritance are genuine relations to real things. The future doesn't yet exist (unlike eternalism), so temporal passage and openness are real.
+C.D. Broad's *Scientific Thought* (1923) proposed that the sum total of existence increases with time. New moments of experience come into being, and once they exist, they remain. Nothing passes out of existence; reality only adds. The present is the leading edge—the boundary where new slices of reality are being constituted. Like presentism, the growing block treats the present as objectively special—the frontier of reality. Like eternalism, it gives the past genuine existence, solving the truth-maker problem that haunts presentism (what makes "dinosaurs existed" true if dinosaurs no longer exist in any sense?).
 
-This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism—a form of [downward causation](/concepts/mental-causation-and-downward-causation/) compatible with [conservation laws](/concepts/conservation-laws-and-mental-causation/). Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
+The growing block preserves what the other ontologies sacrifice. The past exists (unlike presentism), so retention and causal inheritance are genuine relations to real things. The future doesn't yet exist (unlike eternalism), so temporal passage and openness are real.
 
-The hard problem deepens productively: physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore consciousness cannot be fully explained by the physical processes it helps make possible. [Causal closure](/concepts/causal-closure/) fails here not as an empirical claim but as a structural feature of the relationship between consciousness and temporal ontology. A critic may charge circularity—assuming dualist interactionism to motivate the growing block, then using the growing block to argue for dualist interactionism. The Map accepts this as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other, and coherence arguments are the primary tool for evaluating competing frameworks.
+This ontology pairs naturally with the Map's framework. Temporal experience is veridical—flow is real because reality is genuinely accumulating. Consciousness operates at the ontological frontier, participating in [collapse](/concepts/collapse-and-time/)—the process by which quantum superposition becomes definite outcome. Objective collapse theories (GRW, Penrose) hold that collapse occurs through physical mechanisms alone; the Map's position is that consciousness *modulates* collapse in neural systems specifically, biasing outcomes without replacing the physical mechanism—a form of [downward causation](/concepts/mental-causation-and-downward-causation/) compatible with [conservation laws](/concepts/conservation-laws-and-mental-causation/). Superpositions resolve at the present moment, and this resolution is what "growth" consists in. The past is collapsed, definite structure. The future is uncollapsed possibility. The present is the activity of collapse itself. Past collapsed states constrain present possibilities; consciousness selects among remaining open possibilities; the selection becomes a new definite fact.
+
+Without collapse, what distinguishes the leading edge? Physical laws are time-symmetric—they don't mandate a direction of growth. Something must break this symmetry. Consciousness-involving collapse introduces genuine irreversibility, distinguishing the open present from the settled past. The block doesn't grow mechanically; it grows through the constitutive activity of conscious collapse-participation. This connects to [Whitehead's process philosophy](/concepts/process-philosophy/), where "actual occasions" of experience constitute temporal moments through concrescence—the transition from indeterminacy to definiteness. The growing block's leading edge, on both Whitehead's view and the Map's, is experiential through and through.
+
+The hard problem deepens productively: physical processes occur within temporal structure; temporal structure is partly constituted by consciousness; therefore consciousness cannot be fully explained by the physical processes it helps make possible. [Causal closure](/concepts/causal-closure/) fails here not as an empirical claim but as a structural feature of the relationship between consciousness and temporal ontology.
+
+### The Mutual Support Question {#mutual-support}
+
+A critic may charge circularity—assuming dualist interactionism to motivate the growing block, then using the growing block to argue for dualist interactionism. The charge would stick if neither claim had independent grounding, but each does.
+
+The growing block has independent motivation from the philosophy of time: it preserves the reality of the past, treats the present as objectively special, and accommodates the phenomenology of temporal flow without making it a systematic illusion. Broad proposed the growing block in 1923 without invoking consciousness as a mechanism for growth.
+
+Conversely, the claim that consciousness participates in quantum collapse has independent motivation from the measurement problem in quantum mechanics and from the hard problem of consciousness. Wigner, Stapp, and others have argued for consciousness-involving collapse on grounds that owe nothing to temporal ontology.
+
+What the mutual support provides is not a circular proof but a *reflective equilibrium*: two independently motivated positions that, when combined, illuminate and strengthen each other. The growing block provides a temporal structure where consciousness's role in collapse makes ontological sense (the leading edge is where collapse occurs). Consciousness-involving collapse provides the growing block with a mechanism for growth and a response to the epistemic objection ([discussed below](#epistemic-objection)). Each claim is stronger in the presence of the other, but neither depends on the other for its initial plausibility. The Map accepts reflective equilibrium as characteristic of metaphysical reasoning: the best metaphysical packages are those whose components reinforce each other.
 
 ## Consciousness as Constitutive of the Phenomenological Arrow
 
@@ -124,6 +140,14 @@ Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a fram
 
 ## Objections and Responses
 
+**The epistemic objection.** {#epistemic-objection} If past moments exist and contain observers with experiences, how do those past observers know they aren't at the leading edge? David Braddon-Mitchell (2004) pressed this formally: growing block residents cannot know they are present rather than past. Since past and present observers have identical epistemic access, the growing block makes temporal knowledge impossible.
+
+Several responses have been offered. Peter Forrest (2004) argues that past observers are "real but dead"—they exist but no longer have experiences, since consciousness requires active processes rather than frozen states. Craig Bourne (2002) proposes degrees of reality where the present is more robustly real. Merricks (2006) appeals to causal powers: only the leading edge can cause future events. Each response has limitations—Forrest's raises the question of what extinguishes consciousness in settled time-slices; Bourne's can seem ad hoc; Merricks's locates the difference in forward-looking powers that past observers also once had.
+
+The Map offers a further response building on Forrest's intuition. If the present is distinguished by the occurrence of active quantum collapse—not merely by being the latest time-slice—then present observers have something past observers lack: active participation in the settlement of reality. The phenomenology of the present reflects this participation. Present observers don't merely *represent* themselves as present; they are actively constituting reality in a way that past (settled) states no longer do.
+
+**The rate of passage problem.** At what rate does the block grow? "One second per second" seems circular, presupposing a meta-time within which growth occurs. But this objection may assume what it targets. If growth *is* temporal passage rather than something occurring within time, asking for its rate commits a category error—like asking how fast space extends spatially. Bergson's [durée](/concepts/temporal-consciousness/) reinforces the point: lived time has no rate because it isn't measured against an external standard. Duration is qualitative, not quantitative. Asking "how fast does time pass?" spatialises time, which is precisely what the growing block denies.
+
 **The relativity objection.** Special relativity's lack of a universal "now" seems to refute the growing block. But the growing block need not identify the growth frontier with a single hyperplane of simultaneity. Collapse events may define local presents without requiring a global simultaneity surface—a problem shared by all collapse interpretations.
 
 **The "now" problem.** Why is the growing edge *now* rather than at some earlier point? The growing block's response: the edge is constitutively special. It is where indeterminacy resolves into fact. Consciousness marks this edge because consciousness participates in the resolution.
@@ -147,7 +171,6 @@ Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a fram
 ## Further Reading
 
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — Comprehensive treatment of the specious present, temporal binding, and disrupted integration
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The growing block as temporal metaphysics for consciousness
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow
 - [bergson-and-duration](/topics/bergson-and-duration/) — Durée as irreducible temporal phenomenology
 - [temporal-void](/voids/temporal-void/) — The specific void of memory versus anticipation
@@ -160,17 +183,23 @@ Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a fram
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Why incubation depends on prior conscious engagement
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's process metaphysics and its convergence with Bergson
 - [personal-identity](/topics/personal-identity/) — How temporal integration constitutes the persisting self
+- [retrocausality](/concepts/retrocausality/) — How consciousness might select outcomes atemporally at collapse
+- [time-consciousness-growing-block](/apex/time-consciousness-growing-block/) — Apex synthesis of time and consciousness
 
 ## References
 
 1. Bergson, H. (1889/2001). *Time and Free Will: An Essay on the Immediate Data of Consciousness*. Dover.
 1. Bergson, H. (1907). *Creative Evolution*. (L'Évolution créatrice)
+1. Bourne, C. (2002). When am I? A tense time for some tense theorists? *Australasian Journal of Philosophy*, 80(3), 359-371.
+1. Braddon-Mitchell, D. (2004). How do we know it is now now? *Analysis*, 64(3), 199-203.
 1. Broad, C.D. (1923). *Scientific Thought*. Routledge and Kegan Paul.
+1. Forrest, P. (2004). The real but dead past: A reply to Braddon-Mitchell. *Analysis*, 64(4), 358-362.
 1. Greene, P. & Sullivan, M. (2015). Against Time Bias. *Ethics*, 125(4), 947-970.
 1. Hoerl, C. (2014). Do We (Seem to) Perceive Passage? *Philosophical Explorations*, 17(2), 188-202.
 1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic Publishers.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. McTaggart, J.M.E. (1908). The Unreality of Time. *Mind*, 17(68), 457-474.
+1. Merricks, T. (2006). Goodbye growing block. In *Oxford Studies in Metaphysics*, Vol. 2 (pp. 103-110). Oxford University Press.
 1. Price, H. (1996). *Time's Arrow and Archimedes' Point*. Oxford University Press.
 1. Prosser, S. (2016). *Experiencing Time*. Oxford University Press.
 1. Tulving, E. (1985). Memory and consciousness. *Canadian Psychology*, 26(1), 1-12.

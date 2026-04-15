@@ -60,7 +60,7 @@ related_articles:
 - '[[bergson-and-duration]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[diachronic-agency-and-personal-narrative]]'
-- '[[growing-block-universe-and-consciousness]]'
+- '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 title: 'Temporal Consciousness: Structure and Agency'
 topics:
 - '[[hard-problem-of-consciousness]]'

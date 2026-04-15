@@ -82,7 +82,7 @@ The thermodynamic explanation—entropy increases because the Big Bang was low-e
 
 The block universe of relativity reinforces the point. If past, present, and future coexist as equally real slices of a four-dimensional manifold, then time doesn't pass. Nothing "moves" through the block. Yet consciousness insists otherwise. We experience becoming: possibility narrowing to actuality, the open future crystallising into the fixed past.
 
-Three responses dominate the literature. The **deflationary response** claims temporal flow requires no special explanation—it is a pattern in brain activity producing a functional sense of passage. The **A-theoretic response** insists that temporal becoming is real and physics incomplete without it, as in the [growing block theory](/topics/growing-block-universe-and-consciousness/). The Map's **constitutive response** holds that the phenomenological arrow cannot be derived from the physical arrow alone and that consciousness is partly constitutive of it. Physical collapse creates definiteness whether or not consciousness is present. But the *experienced directionality*—the felt passage from open future to settled past—requires consciousness.
+Three responses dominate the literature. The **deflationary response** claims temporal flow requires no special explanation—it is a pattern in brain activity producing a functional sense of passage. The **A-theoretic response** insists that temporal becoming is real and physics incomplete without it, as in the [growing block theory](/topics/consciousness-and-the-ontology-of-temporal-becoming/). The Map's **constitutive response** holds that the phenomenological arrow cannot be derived from the physical arrow alone and that consciousness is partly constitutive of it. Physical collapse creates definiteness whether or not consciousness is present. But the *experienced directionality*—the felt passage from open future to settled past—requires consciousness.
 
 ## Consciousness as Constitutive of Temporal Direction
 
@@ -198,7 +198,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [temporal-void](/voids/temporal-void/) — Why consciousness cannot escape the present
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Whether the deepest level of mind transcends time
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The growing block as temporal metaphysics
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — The growing block as temporal metaphysics
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces irreversibility
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's qualitative lived time
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The phenomenological structure of future-directed experience

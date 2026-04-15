@@ -26,6 +26,7 @@ related_articles:
 - '[[cartography-problem]]'
 - '[[compound-failure-signatures]]'
 - '[[mathematical-void]]'
+- '[[concession-convergence-philosophy-of-mathematics]]'
 title: The Incompleteness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -166,6 +167,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 - [The Cartography Problem](/voids/cartography-problem/) — Why the map of cognitive voids cannot contain itself
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — The Münchhausen problem applied to cognitive self-improvement
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Different failure signatures for different limit types
+- [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — How formalism's Gödelian concession is one of four independent convergences in philosophy of mathematics
 
 ## References
 

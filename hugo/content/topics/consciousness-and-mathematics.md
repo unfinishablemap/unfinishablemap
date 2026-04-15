@@ -61,6 +61,7 @@ related_articles:
 - '[[epistemic-advantages-of-dualism]]'
 - '[[phenomenology-of-creative-insight]]'
 - '[[comparative-phenomenology-of-mathematical-insight]]'
+- '[[concession-convergence-philosophy-of-mathematics]]'
 title: Consciousness and Mathematics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -96,7 +97,7 @@ Modern constructivism (Bishop, Martin-Löf type theory) retains the requirement 
 
 Formalism treats mathematics as symbol manipulation according to formal rules—the one major position that appears to need no consciousness. Sophisticated formalists (Detlefsen's Hilbertian instrumentalism, Wittgensteinian approaches) accommodate incompleteness coherently, but two problems remain.
 
-First, treating mathematics as instrumental leaves unexplained why some formal games are extraordinarily effective at describing physical reality—the Wigner problem resurfaces as a selection problem. Second, formalism cannot explain mathematical understanding as phenomenal experience. The distinction between verification and understanding—between checking that each step follows and *seeing why the conclusion must hold*—is a phenomenal fact that rule-following cannot accommodate ([discussed further below](#understanding-vs-verification)). The gap between syntactic manipulation and semantic grasp is the [explanatory-gap](/concepts/explanatory-gap/) writ small.
+First, treating mathematics as instrumental leaves unexplained why some formal games are extraordinarily effective at describing physical reality—the Wigner problem resurfaces as a selection problem. Second, formalism cannot explain mathematical understanding as phenomenal experience. The distinction between verification and understanding—between checking that each step follows and *seeing why the conclusion must hold*—is a phenomenal fact that rule-following cannot accommodate ([discussed further below](#understanding-vs-verification)). The gap between syntactic manipulation and semantic grasp is the [explanatory-gap](/concepts/explanatory-gap/) writ small. The [concession-convergence pattern in philosophy of mathematics](/topics/concession-convergence-philosophy-of-mathematics/) shows that this gap is not unique to formalism—logicism, intuitionism, and structuralism each arrive at the same concession through their own internal pressures.
 
 ### Structuralism and the Intrinsic Nature Problem
 

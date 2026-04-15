@@ -183,6 +183,7 @@ The Map treats convergence as genuine evidence while acknowledging its limits. C
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Convergence on mental causation across traditions
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Why methodological diversity strengthens convergence
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Multiple methods as a philosophical approach
+- [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — Convergence applied to philosophy of mathematics: four independent concessions
 - [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — When first-person reports converge across independent traditions
 
 ## References

@@ -76,7 +76,7 @@ topics: []
 - [free-will](/topics/free-will/) — in temporal selection section (new thematic connection)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — in temporal asymmetry section
 - [consciousness-and-temporal-creativity](/topics/consciousness-and-temporal-becoming/) — in temporal asymmetry section
-- [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — in temporal asymmetry section
+- [growing-block-universe-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — in temporal asymmetry section
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — in hard problem section
 
 ### Other Changes

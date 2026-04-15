@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-04-15 13:51:00+00:00
+ai_modified: 2026-04-15 18:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,11 +22,12 @@ description: The metaphysics of composition asks when parts form wholes. The Spe
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 13:51:00+00:00
+last_deep_review: 2026-04-15 18:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-metaphysics-of-composition-2026-04-05]]'
+- '[[consciousness-and-the-metaphysics-of-individuation]]'
 title: Metaphysics of Composition
 topics:
 - '[[consciousness-and-the-metaphysics-of-composition]]'
@@ -73,6 +74,8 @@ The convergence of these independent approaches is striking. They share no commo
 
 **The [combination-problem](/concepts/combination-problem/)** is the inverse of the SCQ applied to consciousness. If basic physical entities have proto-conscious properties (as panpsychism claims), how do micro-experiences combine into macro-experiences? The difficulty of this problem reinforces the idea that consciousness does not compose in the way physical properties do.
 
+The SCQ has a complement: the [metaphysics of individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) asks what draws boundaries around conscious subjects. Where composition asks when parts form wholes, individuation asks why consciousness comes in discrete, bounded units rather than a single field. The two questions constrain each other—any adequate answer to one must be compatible with the other.
+
 ## Relation to Site Perspective
 
 The metaphysics of composition provides independent support for the Map's foundational commitments.
@@ -90,6 +93,8 @@ The failure of composition as identity for conscious subjects connects to [Tenet
 - [combination-problem](/concepts/combination-problem/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/)
 - [binding-problem](/concepts/binding-problem/)
+- [emergence](/concepts/emergence/) — The general problem of deriving wholes from parts
+- [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary question: what draws boundaries around conscious subjects
 - [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
 
 ## References
