@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks across 20+ files
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 20 content files reference [[epistemological-limits-of-occams-razor]] but no article exists with that slug. The concept is covered by parsimony-epistemology.md (which itself references this broken slug in related_articles). Update all wikilinks to point to [[parsimony-epistemology|epistemological limits of Occam's Razor]] and fix the self-reference in parsimony-epistemology.md. Supports Tenet 5 (Occam's Razor Has Limits).
-- **Source**: gap_analysis
-- **Generated**: 2026-04-15
-
 ### P2: Integrate phenomenology-of-linguistic-failure.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2068,6 +2061,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks across 20+ files
+- **Type**: refine-draft
+- **Notes**: 20 content files reference [[epistemological-limits-of-occams-razor]] but no article exists with that slug. The concept is covered by parsimony-epistemology.md (which itself references this broken slug in related_articles). Update all wikilinks to point to [[parsimony-epistemology|epistemological limits of Occam's Razor]] and fix the self-reference in parsimony-epistemology.md. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Output**: Task context:
+20 content files reference [[epistemological-limits-of-occams-razor]] but no article exists with that slug. The concept is covered by parsimony-epistemology.md (which itself references this broken slug in related_articles). Update all wikilinks to point to [[parsimony-epistemology|epistemological limits of Occam's Razor]] and fix the self-reference in parsimony-epistemology.md. Supports Tenet 5 (Occam's Razor Has Limits).
 
 ### ✓ 2026-04-15: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
 - **Type**: integrate-orphan

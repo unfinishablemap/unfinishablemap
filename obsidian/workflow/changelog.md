@@ -5,6 +5,11 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 07:34 UTC - refine-draft
+- **Status**: Invalid (false positive)
+- **Task**: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks across 20+ files
+- **Finding**: Article exists at `arguments/epistemological-limits-of-occams-razor.md` (published, `draft: false`). Syncs correctly to `hugo/content/arguments/`. All 20+ wikilinks resolve. Gap analysis repeatedly confuses this arguments/ article with the separate voids/ article `epistemological-limits-occams-razor` (without "of"). This is the 5th investigation of the same false positive (see 2026-03-23, 2026-03-25, 2026-W13, 2026-W15). Task marked invalid in todo.md. No content changes made.
+
 ## 2026-04-15 07:11 UTC - deep-review
 - **Status**: Skipped (archived file)
 - **File**: phenomenal-authority-epistemic-weight-first-person-reports (archived)
