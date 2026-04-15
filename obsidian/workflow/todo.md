@@ -3852,3 +3852,45 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The methodological pattern where competing theories are forced by internal difficulties to concede points compatible with the Map's position. Currently developed for mathematics but the pattern applies across consciousness studies (IIT, GNW, HOT all retreat toward dualist-compatible positions). Target section: concepts/. See optimistic-2026-04-14.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-14
+
+### P3: Write article on the epistemic self-audit — what the Map gets wrong
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. No article systematically addresses the Map's weakest points from its own perspective. An honest self-audit — identifying where arguments are genuinely vulnerable, where evidence is thinnest, where the framework makes commitments it cannot yet justify — would dramatically strengthen credibility. Natural next step after tenet-falsification-conditions. Builds on tenet-falsification-conditions, pessimistic reviews archive, the-convergence-argument-for-dualism (vitalism section). Target section: topics/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Write article on contemplative neuroscience as interface cartography
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Long-term meditators show structural neural changes (cortical thickness, altered default mode network connectivity) correlating with reported phenomenological shifts. These changes could map interface modifications — where consciousness has systematically reshaped its physical channel through sustained practice. No article treats meditation evidence specifically as interface data. Builds on the-observer-witness-in-meditation, contemplative-epistemology, attention-as-interface. Target section: topics/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Write article on phenomenology of understanding versus processing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The rational-normativity article raises but underdevelops the cognitive phenomenology connection — the question of what it is like to *understand* something versus merely processing it. A dedicated treatment would connect the "aha" experience, mathematical insight, comprehension in reading, and the felt difference between rote execution and genuine understanding. Builds on rational-normativity, consciousness-and-mathematics, consciousness-defeats-explanation. Target section: topics/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Create concept page for process haecceicism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The philosophical innovation resolving Buddhist impermanence with dualist irreducibility — particularity without permanence. Developed in eastern-philosophy-and-consciousness but deserves its own concept page as a novel position. Would anchor links from articles on personal identity, Buddhist philosophy, and temporal consciousness. Target section: concepts/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Create concept page for interface channel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's articles repeatedly reference specific "channels" (ascending, descending, cross-modal, memory access) through which consciousness interfaces with the brain. The concept is used systematically but never defined in its own page. A dedicated concept page would standardise the terminology and clarify the interface model's commitments. Target section: concepts/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Add cross-links between metaphysics-of-composition, rational-normativity, tenet-falsification-conditions, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: metaphysics-of-composition → phenomenal-non-compositionality (mereological angle meets phenomenal angle), rational-normativity → argument-from-reason (conceptual foundation meets application), tenet-falsification-conditions → testing-consciousness-collapse (what would refute meets experimental programme), clinical-dissociation-as-systematic-evidence → the-observer-witness-in-meditation (disruption and refinement as complementary interface cartography), death-and-consciousness → terminal-lucidity-and-filter-transmission-theory (brief mention meets full treatment), eastern-philosophy-and-consciousness → contemplative-epistemology (philosophical positions meet methodology). See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
