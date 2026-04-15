@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 21:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/biological-computationalism]]
+- **Word count**: 1731 → 1731 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — no inbound links)
+- **Enhancements made**: 5 cross-links added from other articles (functionalism, substrate-independence, concession-convergence, biological-computationalisms-inadvertent-case-for-dualism, consciousness-evolution-and-biology)
+- **Output**: [[reviews/deep-review-2026-04-15c-biological-computationalism]]
+
 ## 2026-04-15 21:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/bi-aspectual-ontology]]

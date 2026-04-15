@@ -4,7 +4,7 @@ description: "Biological computationalism holds that brains compute in a substra
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T20:11:00+00:00
+ai_modified: 2026-04-15T21:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review: 2026-04-15T20:11:00+00:00
+last_deep_review: 2026-04-15T21:56:00+00:00
 ---
 
 Biological computationalism is the thesis that brains perform computation, but that biological computation differs fundamentally from digital computation in ways that matter for consciousness. Proposed by Milinkovic and Aru (2025), the framework positions itself as a third path between classical [[concepts/functionalism|computational functionalism]]—which treats any system implementing the right algorithm as potentially conscious—and Searle's biological naturalism, which denies that brains compute in any theoretically useful sense. The central claim: "In biological computation, the algorithm is the substrate—the physical organization does not just enable the computation, it is what the computation consists of" (Milinkovic & Aru 2025).

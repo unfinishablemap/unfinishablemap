@@ -24,6 +24,7 @@ concepts:
   - "[[panpsychism]]"
   - "[[russellian-monism]]"
   - "[[functionalism]]"
+  - "[[biological-computationalism]]"
   - "[[emergence]]"
   - "[[baseline-cognition]]"
   - "[[agent-teleology]]"

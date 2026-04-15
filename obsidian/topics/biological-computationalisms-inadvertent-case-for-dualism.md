@@ -18,6 +18,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[adaptive-computational-depth]]"
   - "[[concession-convergence]]"
+  - "[[biological-computationalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[experimental-consciousness-science-2025-2026]]"
@@ -34,7 +35,7 @@ last_curated:
 last_deep_review: 2026-04-06T16:06:00+00:00
 ---
 
-Biological computationalism—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments are structurally analogous to dualist arguments in ways its proponents may not intend: by insisting that consciousness requires something beyond abstract computation, biological computationalism arrives at constraints that parallel the dualist's insistence on the limits of functional organisation. The explanatory gap it opens between algorithm and experience is one both dualists and biological computationalists acknowledge—though they offer different accounts of what fills it.
+[[biological-computationalism|Biological computationalism]]—the thesis that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner—has emerged as a serious alternative to both classical [[concepts/functionalism|functionalism]] and Searle's biological naturalism. Its proponents frame it as physicalist. Yet the framework's own commitments are structurally analogous to dualist arguments in ways its proponents may not intend: by insisting that consciousness requires something beyond abstract computation, biological computationalism arrives at constraints that parallel the dualist's insistence on the limits of functional organisation. The explanatory gap it opens between algorithm and experience is one both dualists and biological computationalists acknowledge—though they offer different accounts of what fills it.
 
 ## The Third Path
 
