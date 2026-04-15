@@ -4,7 +4,8 @@ description: "The metaphysics of composition asks when parts form wholes. The Sp
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T11:36:00+00:00
+ai_modified: 2026-04-15T13:51:00+00:00
+last_deep_review: 2026-04-15T13:51:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -16,6 +17,9 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[phenomenal-non-compositionality]]"
   - "[[panpsychism]]"
+  - "[[interactionist-dualism]]"
+  - "[[causal-closure]]"
+  - "[[binding-problem]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-metaphysics-of-composition-2026-04-05]]"
@@ -44,7 +48,7 @@ Composition never occurs. Only mereological simples—entities without proper pa
 
 ### Restricted Composition
 
-Some collections compose genuine wholes and others do not. The philosophical challenge is stating the restriction without arbitrariness. Every proposed restriction faces a sorites problem: for any series from a clear case of composition to a clear non-case, where exactly does the boundary fall? This is where consciousness enters the picture—it provides a non-arbitrary boundary that multiple philosophers have independently identified.
+Some collections compose genuine wholes and others do not. The philosophical challenge is stating the restriction without arbitrariness. Proposals based on physical contact, fastening, or spatial cohesion all face a sorites problem: for any series from a clear case of composition to a clear non-case, where exactly does the boundary fall? This is where consciousness enters the picture—among the restricted composition answers, it provides a non-arbitrary boundary that multiple philosophers have independently identified through different argumentative routes.
 
 ## Consciousness as Composition Criterion
 
@@ -62,7 +66,7 @@ The convergence of these independent approaches is striking. They share no commo
 
 **Mereological simples** are entities without proper parts—the fundamental building blocks in any compositional framework. Whether physics identifies genuine simples (quarks? strings?) or whether matter is infinitely divisible remains contested.
 
-**Composition as identity** is the thesis that a whole is nothing over and above its parts—that composition is a kind of identity relation. If correct, it would dissolve the SCQ by making every whole trivially identical to its parts. But consciousness poses a challenge: a conscious subject appears to be something over and above its physical constituents, resisting identification with any collection of parts. This is the core of [[phenomenal-non-compositionality]].
+**Composition as identity** is the thesis that a whole is nothing over and above its parts—that composition is a kind of identity relation. If correct, it would dissolve the SCQ: asking whether some objects compose a whole would be like asking whether an object is identical to itself. But consciousness poses a challenge. A conscious subject has phenomenal properties—unified experience, qualitative character—that no collection of its physical parts possesses even collectively. If identity preserves properties, and the whole has properties the parts collectively lack, then the conscious whole cannot be identical to its parts. This is the core of [[phenomenal-non-compositionality]].
 
 **The [[combination-problem]]** is the inverse of the SCQ applied to consciousness. If basic physical entities have proto-conscious properties (as panpsychism claims), how do micro-experiences combine into macro-experiences? The difficulty of this problem reinforces the idea that consciousness does not compose in the way physical properties do.
 
@@ -72,7 +76,7 @@ The metaphysics of composition provides independent support for the Map's founda
 
 The convergence of Van Inwagen, Merricks, and McQueen and Tsuchiya on consciousness as the composition criterion aligns with [[tenets#^dualism|Tenet 1 (Dualism)]]. If consciousness is what distinguishes genuine composites from mere aggregates, it occupies a metaphysical role that purely physical description cannot capture. Consciousness is not just another physical property—it is the property that determines which physical arrangements count as real things.
 
-Merricks' argument that conscious organisms have irreducible causal powers supports [[tenets#^bidirectional-interaction|Tenet 3 (Bidirectional Interaction)]]. Consciousness does not merely accompany physical processes; it contributes causal powers that the physical parts alone lack. This is precisely the kind of non-epiphenomenal role the Map attributes to consciousness.
+Merricks' argument that conscious organisms have irreducible causal powers supports [[tenets#^bidirectional-interaction|Tenet 3 (Bidirectional Interaction)]]. Consciousness does not merely accompany physical processes; it contributes causal powers that the physical parts alone lack—challenging the [[causal-closure|causal closure]] assumption that every physical event has a sufficient physical cause. This is precisely the kind of non-epiphenomenal role the Map's [[interactionist-dualism|interactionist framework]] attributes to consciousness.
 
 The failure of composition as identity for conscious subjects connects to [[tenets#^occams-limits|Tenet 5 (Occam's Razor Has Limits)]]. Universalism and nihilism appear simpler than restricted composition, but their simplicity comes at the cost of either inflating ontology beyond recognition or eliminating the very entities that bear conscious experience. The metaphysics of composition illustrates how parsimony can mislead when the phenomenon under investigation—consciousness—resists the categories that make simple answers possible.
 
@@ -82,6 +86,7 @@ The failure of composition as identity for conscious subjects connects to [[tene
 - [[phenomenal-non-compositionality]]
 - [[combination-problem]]
 - [[unity-of-consciousness]]
+- [[binding-problem]]
 - [[panpsychisms-combination-problem]]
 
 ## References
