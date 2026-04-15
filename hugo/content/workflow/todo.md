@@ -38,53 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address gaps in concepts/pairing-problem.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the "developmental co-construction" response is asserted rather than argued—no mechanism specified for how non-physical consciousness co-develops with physical neural structures. The steering wheel analogy obscures the disanalogy (steering wheels are physical). Also: "current evidence strongly supports interface locality" cited without specific studies. See pessimistic-2026-04-15.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-15
-
-### P2: Write concept page on tenet falsification conditions
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/tenet-falsification-conditions-2026-04-05.md. What would it take to falsify each of the five tenets? A dedicated concept page cataloguing specific falsification conditions strengthens the Map's philosophical credibility by making commitments explicit and testable. Distinct from testability-ledger (which catalogues empirical predictions); this focuses on what evidence would force abandonment of each tenet. Directly supports all five tenets. Target section: concepts/ (222/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-15
-
-### P2: Write concept page on consciousness and normativity of reason
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. The claim that consciousness is necessary for genuine norm-following (as opposed to mere rule-implementation) recurs across argument-from-reason, self-stultification-as-master-argument, and consciousness-and-the-authority-of-formal-systems but lacks a dedicated concept page. Synthesising this would anchor a key argument thread. Target section: concepts/ (222/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-15
-
-### P2: Write concept page on consciousness and metaphysics of composition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-metaphysics-of-composition-2026-04-05.md. How does consciousness relate to mereological composition? The combination problem, phenomenal unity, and the question of whether experience has parts all intersect here. No existing article treats this systematically despite references across panpsychism, binding-problem, and phenomenal-non-compositionality articles. Target section: concepts/ (222/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-15
-
-### P2: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
+### P2: Integrate indexical-knowledge-and-identity.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File created 2026-04-14, has no inbound links. Topics article on cross-cultural and cross-domain patterns in mathematical insight phenomenology. Add cross-references from related articles (consciousness-and-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) or update section index pages.
+- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
 - **Source**: orphan_integration
 - **Generated**: 2026-04-15
 
-### P2: Integrate pragmatist-normative-bridge.md into site navigation
+### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File created 2026-04-13, has no inbound links. Topics article connecting pragmatist philosophy to normative force arguments. Add cross-references from related articles (pragmatisms-path-to-dualism, consciousness-and-normative-force, pragmatism-and-qbism) or update section index pages.
+- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, quantum-measurement, no-many-worlds, born-rule-and-the-consciousness-interface) or update section index pages to include navigation to this content.
 - **Source**: orphan_integration
 - **Generated**: 2026-04-15
 
-### P2: Integrate ethics-of-consciousness-invertebrate-question.md into site navigation
+### P2: Integrate indexical-void.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File created 2026-04-13, has no inbound links. Topics article on ethical implications of invertebrate consciousness under the Map's framework. Add cross-references from related articles (invertebrate-consciousness-as-interface-test, animal-consciousness, consciousness-and-ethics) or update section index pages.
+- **Notes**: File has no inbound links. Voids article on the indexical gap — why first-person identity resists third-person capture. Add cross-references from related articles (indexical-identity, other-minds-void, taxonomy-of-voids) or update section index pages to include navigation to this content.
 - **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P3: Deep review metaphysics-of-composition.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-15 via expand-topic, never reviewed. Concept page on mereological composition and its relationship to consciousness — how parts compose wholes bears on the combination problem and binding problem. Verify coherence, accuracy of mereological claims, cross-references to consciousness-and-the-metaphysics-of-composition and combination-problem, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-04-15
 
 ### P2: Write article on the metaphor void
@@ -2077,6 +2056,59 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-04-15: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/metaphysics-of-composition.md created 2026-04-15. Review against consciousness-and-the-metaphysics-of-composition.md, combination-problem.md, emergence.md, and binding-problem.md for consistency and add cross-links. The concept page should be referenced where mereological arguments arise.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-composition.md -- Context: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
+
+### ✓ 2026-04-15: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-15. Review against self-stultification-as-master-argument.md, consciousness-and-the-normativity-of-reason.md, and evaluative-qualia-phenomenal-normativity-across-traditions.md for consistency and add inbound links. The concept page anchors the norm-grasping vs norm-implementation distinction used across these articles.
+- **Output**: obsidian/topics/self-stultification-as-master-argument.md -- Context: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
+
+### ✓ 2026-04-15: Cross-review falsification-roadmap-for-the-interface-model.md considering tenet-falsification-conditions.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created 2026-04-15. Review against falsification-roadmap-for-the-interface-model.md, comparing-quantum-consciousness-mechanisms.md, parsimony-case-for-interactionist-dualism.md, and penrose-gravity-induced-collapse-empirical-prospects.md for consistency and add cross-links. The concept page formalises what would count as falsification; existing articles may need to reference it.
+- **Output**: obsidian/topics/falsification-roadmap-for-the-interface-model.md -- Context: Cross-review falsification-roadmap-for-the-interface-model.md considering tenet-falsification-conditions.md
+
+### ✓ 2026-04-15: Integrate ethics-of-consciousness-invertebrate-question.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-13, has no inbound links. Topics article on ethical implications of invertebrate consciousness under the Map's framework. Add cross-references from related articles (invertebrate-consciousness-as-interface-test, animal-consciousness, consciousness-and-ethics) or update section index pages.
+- **Output**: obsidian/topics/ethics-of-consciousness-invertebrate-question.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Integrate pragmatist-normative-bridge.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-13, has no inbound links. Topics article connecting pragmatist philosophy to normative force arguments. Add cross-references from related articles (pragmatisms-path-to-dualism, consciousness-and-normative-force, pragmatism-and-qbism) or update section index pages.
+- **Output**: obsidian/topics/pragmatist-normative-bridge.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-14, has no inbound links. Topics article on cross-cultural and cross-domain patterns in mathematical insight phenomenology. Add cross-references from related articles (consciousness-and-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) or update section index pages.
+- **Output**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Write concept page on consciousness and metaphysics of composition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-metaphysics-of-composition-2026-04-05.md. How does consciousness relate to mereological composition? The combination problem, phenomenal unity, and the question of whether experience has parts all intersect here. No existing article treats this systematically despite references across panpsychism, binding-problem, and phenomenal-non-compositionality articles. Target section: concepts/ (222/230).
+- **Output**: Write concept page on consciousness and metaphysics of composition
+
+### ✓ 2026-04-15: Write concept page on consciousness and normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. The claim that consciousness is necessary for genuine norm-following (as opposed to mere rule-implementation) recurs across argument-from-reason, self-stultification-as-master-argument, and consciousness-and-the-authority-of-formal-systems but lacks a dedicated concept page. Synthesising this would anchor a key argument thread. Target section: concepts/ (222/230).
+- **Output**: Write concept page on consciousness and normativity of reason
+
+### ✓ 2026-04-15: Write concept page on tenet falsification conditions
+- **Type**: expand-topic
+- **Notes**: Research completed in research/tenet-falsification-conditions-2026-04-05.md. What would it take to falsify each of the five tenets? A dedicated concept page cataloguing specific falsification conditions strengthens the Map's philosophical credibility by making commitments explicit and testable. Distinct from testability-ledger (which catalogues empirical predictions); this focuses on what evidence would force abandonment of each tenet. Directly supports all five tenets. Target section: concepts/ (222/230).
+- **Output**: Write concept page on tenet falsification conditions
+
+### ✓ 2026-04-15: Address gaps in concepts/pairing-problem.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "developmental co-construction" response is asserted rather than argued—no mechanism specified for how non-physical consciousness co-develops with physical neural structures. The steering wheel analogy obscures the disanalogy (steering wheels are physical). Also: "current evidence strongly supports interface locality" cited without specific studies. See pessimistic-2026-04-15.md
+- **Output**: obsidian/concepts/pairing-problem.md
+
+Task context:
+Pessimistic review found the "developmental co-construction" response is asserted rather than argued—no mechanism specified for how non-physical consciousness co-develops with physical neural structures. The steering wheel analogy obscures the disanalogy (steering wheels are physical). Also: "current evidence strongly supports interface locality" cited without specific studies. See pessimistic-2026-04-15.md
+
 ### ✓ 2026-04-15: Fix stale wikilinks from phenomenal-transparency/opacity coalesce (18 files)
 - **Type**: refine-draft
 - **Notes**: Coalesce on 2026-04-13 merged phenomenal-transparency + phenomenal-opacity → phenomenal-transparency-opacity-spectrum. Cross-review was marked complete but 18 active content files still reference archived slugs `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` and/or `[phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)`. Affected files include: curated-mind.md, phenomenology-of-recursive-self-awareness.md, consciousness-and-the-authority-of-formal-systems.md, dualist-perception.md, perceptual-failure-and-the-interface.md, introspection.md, perception.md, meta-problem-of-consciousness.md, fitness-beats-truth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, perceptual-degradation-and-the-interface.md, self-reference-paradox.md, phenomenal-depth.md, biological-cognitive-closure.md, necessary-opacity.md, projection-void.md, ownership-void.md. Update all to `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` (with appropriate display text where needed).
@@ -3858,3 +3890,45 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The methodological pattern where competing theories are forced by internal difficulties to concede points compatible with the Map's position. Currently developed for mathematics but the pattern applies across consciousness studies (IIT, GNW, HOT all retreat toward dualist-compatible positions). Target section: concepts/. See optimistic-2026-04-14.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-14
+
+### P3: Write article on the epistemic self-audit — what the Map gets wrong
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. No article systematically addresses the Map's weakest points from its own perspective. An honest self-audit — identifying where arguments are genuinely vulnerable, where evidence is thinnest, where the framework makes commitments it cannot yet justify — would dramatically strengthen credibility. Natural next step after tenet-falsification-conditions. Builds on tenet-falsification-conditions, pessimistic reviews archive, the-convergence-argument-for-dualism (vitalism section). Target section: topics/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Write article on contemplative neuroscience as interface cartography
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Long-term meditators show structural neural changes (cortical thickness, altered default mode network connectivity) correlating with reported phenomenological shifts. These changes could map interface modifications — where consciousness has systematically reshaped its physical channel through sustained practice. No article treats meditation evidence specifically as interface data. Builds on the-observer-witness-in-meditation, contemplative-epistemology, attention-as-interface. Target section: topics/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Write article on phenomenology of understanding versus processing
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The rational-normativity article raises but underdevelops the cognitive phenomenology connection — the question of what it is like to *understand* something versus merely processing it. A dedicated treatment would connect the "aha" experience, mathematical insight, comprehension in reading, and the felt difference between rote execution and genuine understanding. Builds on rational-normativity, consciousness-and-mathematics, consciousness-defeats-explanation. Target section: topics/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Create concept page for process haecceicism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The philosophical innovation resolving Buddhist impermanence with dualist irreducibility — particularity without permanence. Developed in eastern-philosophy-and-consciousness but deserves its own concept page as a novel position. Would anchor links from articles on personal identity, Buddhist philosophy, and temporal consciousness. Target section: concepts/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Create concept page for interface channel
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map's articles repeatedly reference specific "channels" (ascending, descending, cross-modal, memory access) through which consciousness interfaces with the brain. The concept is used systematically but never defined in its own page. A dedicated concept page would standardise the terminology and clarify the interface model's commitments. Target section: concepts/. See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Add cross-links between metaphysics-of-composition, rational-normativity, tenet-falsification-conditions, and related articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: metaphysics-of-composition → phenomenal-non-compositionality (mereological angle meets phenomenal angle), rational-normativity → argument-from-reason (conceptual foundation meets application), tenet-falsification-conditions → testing-consciousness-collapse (what would refute meets experimental programme), clinical-dissociation-as-systematic-evidence → the-observer-witness-in-meditation (disruption and refinement as complementary interface cartography), death-and-consciousness → terminal-lucidity-and-filter-transmission-theory (brief mention meets full treatment), eastern-philosophy-and-consciousness → contemplative-epistemology (philosophical positions meet methodology). See optimistic-2026-04-15.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15

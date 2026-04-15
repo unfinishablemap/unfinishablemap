@@ -36,6 +36,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 - '[[introspection]]'
 - '[[pragmatisms-path-to-dualism]]'
+- '[[pragmatist-normative-bridge]]'
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
 title: The Argument from Reason
@@ -173,6 +174,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [self-stultification](/concepts/self-stultification/) - The structure of positions that undermine their own rational grounds
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) - How self-defeat arguments converge into a unified case for dualism
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) - A parallel self-defeat argument: pragmatism's evaluative criterion requires irreducible phenomenal experience
+- [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/) — Combining pragmatism's reflexive argument with phenomenal normativity to foreclose functionalism's escape
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) - Cross-traditional convergence showing that evaluative phenomenal character—the felt authority of reasons—resists reduction
 - [reasons-responsiveness](/concepts/reasons-responsiveness/) - The capacity to track normative relationships central to the argument
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) - The metaproblem argument: consciousness must causally contribute to our philosophical reasoning about it

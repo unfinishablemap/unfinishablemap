@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-15 12:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -74,7 +74,7 @@ If valence is an intrinsic phenomenal property, it provides the ground for moral
 
 This connects directly to [phenomenal-value-realism](/topics/phenomenal-value-realism/). If the badness of suffering is objective and intrinsic, moral facts may depend on phenomenal facts. As Rawlette (2016) argues, the wrongness of causing suffering derives from suffering's intrinsic badness—a phenomenal property, not a functional state, grounding moral realism in the felt quality of experience itself.
 
-A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about.
+A gap remains between phenomenal and normative facts. That suffering *feels* bad does not immediately entail that causing it *ought not* be done. But valence provides the necessary condition: without felt badness, there is nothing for moral concern to be about. The [invertebrate ethics question](/topics/ethics-of-consciousness-invertebrate-question/) tests the limits of this principle: if valence is likely wherever consciousness is likely—because the evolutionary function of coupling requires a signal distinguishing beneficial from harmful—then trillions of invertebrates in agricultural systems may possess the very capacity that grounds moral status.
 
 ## Relation to Site Perspective
 

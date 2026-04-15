@@ -1,10 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-11 00:56:00+00:00
+ai_modified: 2026-04-15 14:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
+- '[[metaphysics-of-composition]]'
 - '[[combination-problem]]'
 - '[[unity-of-consciousness]]'
 - '[[emergence]]'
@@ -20,7 +21,7 @@ description: Multiple independent answers to the Special Composition Question co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-11 00:56:00+00:00
+last_deep_review: 2026-04-15 14:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,7 +38,7 @@ When do parts form wholes? This question—the Special Composition Question (SCQ
 
 ## The Special Composition Question
 
-The SCQ asks: under what conditions do some objects compose a further object? Three broad families of answers dominate the literature.
+The SCQ asks: under what conditions do some objects compose a further object? The formal framework for this question comes from [the metaphysics of composition](/concepts/metaphysics-of-composition/)—the branch of mereology concerned with when and how parts form wholes. Three broad families of answers dominate the literature.
 
 **Universalism** holds that any collection of objects composes a further object. Your left shoe and the Eiffel Tower compose something. This avoids arbitrariness but generates a bloated ontology that does not privilege conscious beings in any way.
 
@@ -125,6 +126,7 @@ The convergence of composition theories on consciousness directly supports The U
 
 ## Further Reading
 
+- [metaphysics-of-composition](/concepts/metaphysics-of-composition/) — The formal mereological framework: mereological simples, composition as identity, and the SCQ
 - [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — Why consciousness resists composition categorically
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's version of the composition failure
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The primitive wholeness that defies decomposition

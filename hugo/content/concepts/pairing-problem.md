@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-07 05:05:00+00:00
+ai_modified: 2026-04-15 10:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -74,7 +74,7 @@ This dissolves the pairing problem while maintaining dualism's core claim: that 
 
 **Response to Kim**: The dualist can posit that souls, like matter, cannot overlap—or that souls are individuated by their essential causal connections to particular bodies, making overlap incoherent. Neither move introduces more mystery than physics already contains (consider: what makes this electron distinct from that one?).
 
-**The developmental refinement**: A stronger response appeals to [interface locality](/concepts/brain-interface-boundary/): the mind-brain pairing is *constructed* through neural development, not arbitrarily assigned at some moment. The growing nervous system and the consciousness that interfaces with it co-develop, creating a specific coupling. Two consciousnesses couldn't occupy the same brain because the interface is built for one—like asking why two drivers can't simultaneously use the same steering wheel.
+**The developmental refinement**: A stronger response appeals to [interface locality](/concepts/brain-interface-boundary/): the mind-brain pairing is *constructed* through neural development, not arbitrarily assigned at some moment. The mechanism is progressive mutual adaptation. As the nervous system develops, it incrementally meets the [five criteria](/concepts/brain-interface-boundary/#five-criteria-for-an-interface) for a consciousness interface—quantum sensitivity in maturing neural structures, representational capacity as cortical maps form, attention mechanisms as frontoparietal networks wire up, and feedback loops as sensory-motor circuits close. At each stage, the developing interface constrains what consciousness can select among, and what consciousness selects shapes subsequent neural wiring through activity-dependent plasticity. The result is a coupling that is specific to *this* brain not by fiat but because it was built through billions of iterative interactions between a particular consciousness and a particular nervous system. Two consciousnesses couldn't occupy the same brain because the interface was progressively tuned to one—the developmental history itself constitutes the pairing relation.
 
 ## Response 2: The Haecceity Response
 
@@ -140,7 +140,7 @@ The Map's response to the pairing problem would face serious difficulty if:
 
 2. **Haecceities were eliminated**: If anti-haecceitists showed that primitive thisness is metaphysically untenable—that individuation must reduce to qualitative properties—the haecceity response would collapse, and the problem would recur at a deeper level.
 
-3. **Interface locality failed empirically**: If consciousness could demonstrably influence quantum systems outside the brain—genuine psychokinesis on external random number generators—the spatial restriction would be ad hoc. Current evidence strongly supports interface locality.
+3. **Interface locality failed empirically**: If consciousness could demonstrably influence quantum systems outside the brain—genuine psychokinesis on external random number generators—the spatial restriction would be ad hoc. Decades of micro-PK research at the Princeton PEAR laboratory found effect sizes of ~0.0001–0.001, effectively indistinguishable from null (Jahn & Dunne, 2005). The absence of robust external effects supports interface locality.
 
 4. **Development didn't create specific coupling**: If minds could "jump" between brains (robust evidence for possession, walk-in experiences, or mind transfer), the developmental co-construction argument would fail.
 
@@ -192,3 +192,17 @@ The [objections-to-interactionism](/concepts/objections-to-interactionism/) arti
 1. Bailey, A., Rasmussen, J., & Van Horn, L. (2011). "No Pairing Problem." *Philosophical Studies* 154: 349-360.
 1. Hasker, W. (1999). *The Emergent Self*. Cornell University Press.
 1. Zimmerman, D. (2010). "From Property Dualism to Substance Dualism." *Proceedings of the Aristotelian Society* 84: 119-150.
+1. Jahn, R.G., & Dunne, B.J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration* 19(2): 195-245.
+
+<!-- AI REFINEMENT LOG - 2026-04-15
+Changes made:
+- Replaced asserted "developmental co-construction" with mechanistic account: progressive mutual adaptation through the five interface criteria, activity-dependent plasticity, and iterative consciousness-brain interaction
+- Removed steering wheel analogy (physical object analogy obscures the non-physical/physical disanalogy central to the pairing problem)
+- Replaced vague "current evidence strongly supports interface locality" with specific PEAR lab null results (effect sizes ~0.0001-0.001) and Jahn & Dunne citation
+- Added Jahn & Dunne (2005) to References
+
+Based on pessimistic review findings (2026-04-15).
+Key improvements: mechanism for developmental co-construction, evidential specificity for interface locality claim.
+
+This log should be removed after human review.
+-->

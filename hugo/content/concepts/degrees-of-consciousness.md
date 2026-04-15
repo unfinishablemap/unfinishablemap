@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-21 16:41:00+00:00
+ai_modified: 2026-04-15 12:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -74,7 +74,7 @@ Sleep stages demonstrate continuous variation in conscious degree. NREM Stage 1 
 
 Cross-species comparison provides the broadest evidence for degrees. If [*C. elegans*](/topics/consciousness-in-simple-organisms/) with 302 neurons has any phenomenal experience, it is presumably far less rich and complex than mammalian consciousness — yet not necessarily zero. The 2024 New York Declaration on Animal Consciousness endorses the view that consciousness is probably more widely distributed than previously assumed, implying it exists at levels of richness and complexity that shade continuously downward from human experience.
 
-[Unlimited Associative Learning](/topics/animal-consciousness/) (UAL) marks one proposed empirical boundary — the capacity to learn novel, complex associations may indicate consciousness of sufficient degree to support flexible behaviour. But this is a threshold within a gradient, not a boundary between consciousness and its absence.
+[Unlimited Associative Learning](/topics/animal-consciousness/) (UAL) marks one proposed empirical boundary — the capacity to learn novel, complex associations may indicate consciousness of sufficient degree to support flexible behaviour. But this is a threshold within a gradient, not a boundary between consciousness and its absence. The [ethical implications of this gradient](/topics/ethics-of-consciousness-invertebrate-question/) are substantial: if even low degrees of consciousness create moral patients, the scale of invertebrate consciousness makes this one of the most significant moral questions of the present era.
 
 ### Clinical Disorders
 

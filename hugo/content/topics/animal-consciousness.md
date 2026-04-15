@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 08:41:00+00:00
+ai_modified: 2026-04-15 12:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -149,7 +149,7 @@ LeDoux disagrees, arguing conscious feelings require cortical higher-order repre
 
 Birch's *The Edge of Sentience* (2024) distinguishes **valence sentientism** (moral status requires capacity for suffering/enjoyment) from **broad sentientism** (any phenomenal consciousness creates moral significance). [Phenomenal value realism](/topics/phenomenal-value-realism/) strengthens the valence sentientist position: if the felt badness of suffering *constitutes* intrinsic badness, then animal suffering is not merely analogous to human suffering—it instantiates the same value property. Chalmers' "philosophical Vulcan"—a being with consciousness but no valence—tests the distinction.
 
-Most animal welfare frameworks adopt valence sentientism: the focus is preventing suffering. If animal suffering is real suffering, it matters morally regardless of scientific verification. The philosophical question grounds our treatment of billions of creatures.
+Most animal welfare frameworks adopt valence sentientism: the focus is preventing suffering. If animal suffering is real suffering, it matters morally regardless of scientific verification. The philosophical question grounds our treatment of billions of creatures. The [invertebrate ethics question](/topics/ethics-of-consciousness-invertebrate-question/) extends this analysis to its most challenging frontier: if insects, cephalopods, and crustaceans are probably conscious, the scale of moral obligation becomes staggering—trillions of potentially conscious beings in agricultural systems alone.
 
 ## The Void of Animal Experience
 

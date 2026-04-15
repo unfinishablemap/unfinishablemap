@@ -33,6 +33,7 @@ related_articles:
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[pragmatism-and-qbism]]'
 - '[[consciousness-and-normative-force]]'
+- '[[pragmatist-normative-bridge]]'
 - '[[self-stultification-as-master-argument]]'
 title: Pragmatism's Path to Dualism
 topics:
@@ -85,7 +86,7 @@ The pragmatic path to dualism reaches its strongest form when applied to pragmat
 
 If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. This is [phenomenal normativity](/concepts/evaluative-phenomenal-character/) at stake: the felt sense that one framework illuminates while another obscures carries intrinsic normative force that no purely physical description can ground. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
 
-The Map's article on [normative force](/topics/consciousness-and-normative-force/) develops the complementary analysis: pragmatism shows *that* evaluation requires a conscious evaluator, while the normative force account shows *how* evaluation works — through the phenomenal demand-character that makes some conclusions feel warranted and others defective.
+The Map's article on [normative force](/topics/consciousness-and-normative-force/) develops the complementary analysis: pragmatism shows *that* evaluation requires a conscious evaluator, while the normative force account shows *how* evaluation works — through the phenomenal demand-character that makes some conclusions feel warranted and others defective. The [pragmatist-normative bridge](/topics/pragmatist-normative-bridge/) synthesises these two arguments into a single structure, showing that together they foreclose the functionalist escape route that each faces separately.
 
 This reflexive argument is a species of [self-stultification](/topics/self-stultification-as-master-argument/) applied to evaluation rather than belief formation. The master argument shows that any theory severing consciousness from its own rational grounds cannot be rationally endorsed; the pragmatic version shows that materialism severs consciousness from the evaluative capacity that pragmatism's own method requires.
 
@@ -144,6 +145,7 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism is epistemically responsible
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of thought and evaluation
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How the demand-character of experience grounds the evaluation pragmatism requires
+- [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/) — How pragmatism's reflexive argument and phenomenal normativity combine to foreclose the functionalist escape route
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The master argument pattern that pragmatism's reflexive case instantiates
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
 - [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations

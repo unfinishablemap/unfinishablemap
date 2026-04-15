@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-29 17:12:00+00:00
+ai_modified: 2026-04-15 12:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -120,7 +120,7 @@ This parallels the Map's stance on consciousness itself. The [Occam's Razor Has 
 
 The problem of other minds frames debates about [animal](/topics/animal-consciousness/) and [AI consciousness](/topics/ai-consciousness/).
 
-For animals, the 2024 New York Declaration recognized "strong scientific support" for consciousness in mammals and birds. Biological similarity strengthens inference—shared evolutionary history, neural architecture, behavioral patterns. The [consciousness as amplifier](/concepts/consciousness-as-amplifier/) hypothesis provides additional grounds: animals' systematic pattern of cognitive capacities (strong procedural learning, weak metarepresentation) maps onto the distinction between consciousness-dependent and consciousness-independent processing.
+For animals, the 2024 New York Declaration recognized "strong scientific support" for consciousness in mammals and birds, extending "a realistic possibility" to invertebrates. Biological similarity strengthens inference—shared evolutionary history, neural architecture, behavioral patterns. The [invertebrate ethics question](/topics/ethics-of-consciousness-invertebrate-question/) shows why this epistemic problem cuts deepest for invertebrates: under dualism, neural evidence reveals only the physical side of coupling, so the absence of neural evidence for consciousness does not establish the absence of consciousness itself. The [consciousness as amplifier](/concepts/consciousness-as-amplifier/) hypothesis provides additional grounds: animals' systematic pattern of cognitive capacities (strong procedural learning, weak metarepresentation) maps onto the distinction between consciousness-dependent and consciousness-independent processing.
 
 For AI, the Map's rejection of [functionalism](/concepts/functionalism/) complicates inference. If consciousness isn't simply information processing, behavioral mimicry doesn't suffice—Searle's Chinese Room makes this point. AI lacks the biological similarity that grounds animal consciousness attribution, making the inference correspondingly weaker. The [ethics of possible AI consciousness](/topics/ethics-of-possible-ai-consciousness/) examines what moral weight this epistemic gap deserves—arguing that the asymmetry between ignoring genuine consciousness and misattributing consciousness to non-conscious systems demands careful framework-dependent assessment.
 

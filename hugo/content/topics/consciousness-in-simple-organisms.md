@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-25 20:17:00+00:00
+ai_modified: 2026-04-15 12:50:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -129,7 +129,7 @@ This distinction matters for minimal consciousness because organisms can exhibit
 
 The framework suggests minimal consciousness might suffice for second-order processing while full metarepresentation requires something more—the phenomenal "standing back" that allows representations to become objects of awareness. An organism might cross into genuine phenomenal experience while remaining unable to represent that experience as experience.
 
-This has ethical implications. If *C. elegans* has minimal consciousness—even without metarepresentation—it matters morally. The worm cannot know it suffers (that would require metarepresentation), but it might suffer nonetheless. The three-level framework clarifies what's at stake: moral consideration depends on consciousness, not on metarepresentation.
+This has ethical implications. If *C. elegans* has minimal consciousness—even without metarepresentation—it matters morally. The worm cannot know it suffers (that would require metarepresentation), but it might suffer nonetheless. The three-level framework clarifies what's at stake: moral consideration depends on consciousness, not on metarepresentation. The [ethics of invertebrate consciousness](/topics/ethics-of-consciousness-invertebrate-question/) develops the moral implications in detail, arguing that dualism's threshold structure makes uncertainty about invertebrate consciousness more consequential than gradualist accounts recognise.
 
 ## The Unlimited Associative Learning Framework
 

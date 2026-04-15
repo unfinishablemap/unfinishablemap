@@ -46,6 +46,7 @@ related_articles:
 - '[[experiential-alignment]]'
 - '[[living-with-the-map]]'
 - '[[pragmatisms-path-to-dualism]]'
+- '[[pragmatist-normative-bridge]]'
 - '[[pragmatism]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[normative-void]]'
@@ -204,6 +205,7 @@ None of these findings currently obtains.
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical position grounded in evaluative qualia
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How phenomenal normativity manifests across domains
+- [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/) — How demand-character and pragmatism's reflexive argument jointly foreclose functionalism
 - [experiential-alignment](/concepts/experiential-alignment/) — Operationalising phenomenal normativity for AI alignment
 - [alignment-in-objective-experiential-terms](/topics/alignment-in-objective-experiential-terms/) — Why evaluative qualia ground genuinely objective AI alignment criteria
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — How first-person reports count as evidence

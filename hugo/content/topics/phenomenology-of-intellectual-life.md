@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-15 12:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -81,6 +81,7 @@ related_articles:
 - '[[topics/phenomenal-value-realism]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[resonance-void]]'
+- '[[comparative-phenomenology-of-mathematical-insight]]'
 title: The Phenomenology of Intellectual Life
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -209,7 +210,7 @@ Understanding also exhibits tight coupling between phenomenology and competence.
 
 Contemplative traditions provide independent evidence by revealing meaning's phenomenal character under careful observation. **Beginner's mind** (shoshin) in Zen involves approaching familiar subjects as if for the first time, revealing how habitual certainty closes inquiry. **The great doubt** (daigi) in Chan/Zen deliberately intensifies not-understanding until the effort to understand collapses. What follows — kensho — has phenomenal character distinct from ordinary understanding. **[Witness consciousness](/concepts/witness-consciousness/)** practices enable observing understanding as it occurs, distinguishing semantic content, the phenomenal character of grasping it, and metacognitive awareness of having the thought — separable in attention though occurring together.
 
-Cross-cultural convergence strengthens the case. Buddhist, Hindu, Sufi, and Christian contemplative traditions independently describe illumination, the shift from effortful seeking to effortless receiving, and the gap between intellectual grasp and experiential realisation. While systematic comparative research remains limited, the structural parallels across traditions with minimal historical contact suggest genuine phenomenal features rather than cultural construction.
+Cross-cultural convergence strengthens the case. Buddhist, Hindu, Sufi, and Christian contemplative traditions independently describe illumination, the shift from effortful seeking to effortless receiving, and the gap between intellectual grasp and experiential realisation. While systematic comparative research remains limited, the structural parallels across traditions with minimal historical contact suggest genuine phenomenal features rather than cultural construction. The [comparative phenomenology of mathematical insight](/topics/comparative-phenomenology-of-mathematical-insight/) develops this cross-cultural dimension in detail, showing how Greek, Indian, Chinese, and Islamic mathematical traditions report qualitatively distinct experiential structures for the same mathematical content.
 
 ## Implications for AI
 

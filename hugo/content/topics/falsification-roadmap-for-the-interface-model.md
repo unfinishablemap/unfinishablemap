@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-10 23:56:00+00:00
+ai_modified: 2026-04-15 13:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: What evidence would force the Map to abandon its tenets? A tenet-by
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-10 23:56:00+00:00
+last_deep_review: 2026-04-15 13:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[testing-consciousness-collapse]]'
 - '[[invertebrate-consciousness-as-interface-test]]'
 - '[[tenet-falsification-conditions-2026-04-05]]'
+- '[[tenet-falsification-conditions]]'
 - '[[causal-closure-debate-historical-survey]]'
 - '[[the-epiphenomenalist-threat]]'
 - '[[experimental-consciousness-science-2025-2026]]'
@@ -123,7 +124,7 @@ A principled resolution of the [knowledge argument](/concepts/knowledge-argument
 
 ## The Falsification Asymmetry
 
-The analysis reveals a clear asymmetry across the five tenets:
+The analysis reveals a clear asymmetry across the five tenets. These map to distinct [falsification condition types](/concepts/tenet-falsification-conditions/)—decisive, cumulative, and structural—each requiring different evidential standards.
 
 | Tenet | Type | Falsifiability | Current Experimental Traction |
 |-------|------|---------------|-------------------------------|

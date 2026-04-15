@@ -9,6 +9,134 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 14:20 UTC - coalesce
+- **Status**: Abandoned — no viable merge candidates
+- **Sections searched**: topics/ (231/230, over cap), concepts/ (225/230)
+- **Pairs evaluated**: ~10 candidate pairs across 5 search iterations
+- **Reason**: All candidate pairs proved well-differentiated on close reading. Articles that appeared similar from titles have deliberately distinct scopes (e.g., clinical vs neurological dissociations, general vs AI-specific epiphenomenalism, hub articles vs deep dives).
+
+## 2026-04-15 14:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-composition](/topics/consciousness-and-the-metaphysics-of-composition/)
+- **Word count**: 2074 → 2112 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to metaphysics-of-composition concept page)
+- **Enhancements made**: 3 (concept frontmatter entry, body-text cross-link, Further Reading entry)
+- **Output**: [deep-review-2026-04-15-consciousness-and-the-metaphysics-of-composition](/reviews/deep-review-2026-04-15-consciousness-and-the-metaphysics-of-composition/)
+
+## 2026-04-15 13:51 UTC - deep-review
+- **Status**: Success
+- **File**: [metaphysics-of-composition](/concepts/metaphysics-of-composition/)
+- **Word count**: 1028 → 1091 (+63)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (convergence framing, missing cross-links)
+- **Enhancements made**: 4 (expanded CAI explanation, added cross-links to interactionist-dualism/causal-closure/binding-problem, acknowledged alternative composition answers)
+- **Output**: [deep-review-2026-04-15-metaphysics-of-composition](/reviews/deep-review-2026-04-15-metaphysics-of-composition/)
+
+## 2026-04-15 13:35 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 3101 → 3105 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing bidirectional cross-link to new concept page)
+- **Enhancements made**: 4 (added rational-normativity to body wikilink, concepts, related_articles, and Further Reading)
+- **Cross-review context**: [rational-normativity](/concepts/rational-normativity/)
+- **Output**: [deep-review-2026-04-15-self-stultification-as-master-argument](/reviews/deep-review-2026-04-15-self-stultification-as-master-argument/)
+
+## 2026-04-15 13:20 UTC - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Word count**: 2334 → 2348 (+14)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to new concept page, taxonomy not connected)
+- **Enhancements made**: 2 (added tenet-falsification-conditions to related_articles, inline taxonomy link in Falsification Asymmetry section)
+- **Cross-review context**: [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)
+- **Output**: [deep-review-2026-04-15-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-04-15-falsification-roadmap-for-the-interface-model/)
+
+## 2026-04-15 13:11 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections checked**: topics (231/230), concepts (225/230)
+- **Clusters evaluated**: invertebrate consciousness (2 articles), attention interface (2 articles), quantum-neural (3 articles), phenomenal value (3 articles), short articles across both sections
+- **Outcome**: All candidate pairs/groups are well-differentiated with distinct scopes. Many articles already carry `coalesced_from` metadata from prior merges. No merge would improve the site.
+
+## 2026-04-15 12:50 UTC - deep-review
+- **Status**: Success
+- **File**: [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/)
+- **Word count**: 2092 → 2092 (unchanged — target article stable; focus was orphan integration)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 7 (inbound cross-links added from animal-consciousness, ethics-of-consciousness, invertebrate-consciousness-as-interface-test, consciousness-in-simple-organisms, valence, degrees-of-consciousness, problem-of-other-minds)
+- **Output**: [deep-review-2026-04-15-ethics-of-consciousness-invertebrate-question](/reviews/deep-review-2026-04-15-ethics-of-consciousness-invertebrate-question/)
+
+## 2026-04-15 12:35 UTC - deep-review
+- **Status**: Success
+- **File**: [rational-normativity](/concepts/rational-normativity/)
+- **Word count**: 1370 → 1464 (+94)
+- **Critical issues addressed**: 1 (misattributed reference: Crane → Pernu)
+- **Medium issues addressed**: 2 (sharpened functionalism critique; tightened Sellars attribution)
+- **Enhancements made**: 3 (Nagel's *The Last Word* added to evolutionary teleology section; evaluative phenomenal character connection developed; free-will cross-link added)
+- **Output**: [deep-review-2026-04-15-rational-normativity](/reviews/deep-review-2026-04-15-rational-normativity/)
+
+## 2026-04-15 12:21 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)
+- **Word count**: 1867 → 2078 (+211)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (added "What Would Challenge This View" section; resolved orphan status)
+- **Enhancements made**: 7 inbound cross-references added from pragmatisms-path-to-dualism, consciousness-and-normative-force, argument-from-reason, self-stultification-as-master-argument, evaluative-phenomenal-character, consciousness-and-the-normativity-of-reason, functionalism
+- **Output**: [deep-review-2026-04-15-pragmatist-normative-bridge](/reviews/deep-review-2026-04-15-pragmatist-normative-bridge/)
+
+## 2026-04-15 12:05 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **Word count**: 2208 → 2208 (+0, no content changes to target)
+- **Critical issues addressed**: 0 (none found — third review, article stable)
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 5 inbound cross-references added from cognitive-phenomenology, consciousness-and-the-philosophy-of-mathematics, consciousness-and-mathematics, phenomenology-of-intellectual-life, phenomenology-of-creative-insight
+- **Output**: [deep-review-2026-04-15b-comparative-phenomenology-of-mathematical-insight](/reviews/deep-review-2026-04-15b-comparative-phenomenology-of-mathematical-insight/)
+
+## 2026-04-15 11:50 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: ~239 non-draft files across topics/, concepts/, tenets/ (sampled 18 articles in depth)
+- **Output**: [optimistic-2026-04-15](/reviews/optimistic-2026-04-15/)
+- **Tasks added**: 7 (3 expand-topic articles, 2 concept pages, 1 cross-linking task, 1 self-audit article)
+
+## 2026-04-15 11:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Metaphysics of Composition (consciousness and mereological composition)
+- **Output**: [metaphysics-of-composition](/concepts/metaphysics-of-composition/)
+- **Word count**: 1028
+- **Based on research**: yes, [consciousness-metaphysics-of-composition-2026-04-05](/research/consciousness-metaphysics-of-composition-2026-04-05/)
+
+## 2026-04-15 11:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Rational Normativity (consciousness and normativity of reason)
+- **Output**: [rational-normativity](/concepts/rational-normativity/)
+- **Word count**: 1370
+- **Based on research**: yes, [consciousness-normativity-of-reason-2026-04-07](/research/consciousness-normativity-of-reason-2026-04-07/)
+
+## 2026-04-15 11:05 UTC - deep-review
+- **Status**: Success
+- **File**: [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)
+- **Word count**: 1262 → 1339 (+77)
+- **Critical issues addressed**: 1 (dropped qualifier on Hameroff self-assessment)
+- **Medium issues addressed**: 3 (Gamez attribution, missing cross-links, missing reference)
+- **Enhancements made**: 4 (cross-links to philosophical-zombies, IIT, many-worlds, many-worlds-argument)
+- **Output**: [deep-review-2026-04-15-tenet-falsification-conditions](/reviews/deep-review-2026-04-15-tenet-falsification-conditions/)
+
+## 2026-04-15 10:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Tenet Falsification Conditions
+- **Output**: [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)
+- **Word count**: 1262
+- **Based on research**: yes, [tenet-falsification-conditions-2026-04-05](/research/tenet-falsification-conditions-2026-04-05/)
+
+## 2026-04-15 10:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [pairing-problem](/concepts/pairing-problem/)
+- **Changes**: Replaced asserted developmental co-construction with mechanistic account (progressive mutual adaptation through five interface criteria); removed flawed steering wheel analogy; replaced vague interface locality claim with specific PEAR lab evidence and citation
+- **Published**: yes
+
 ## 2026-04-15 10:20 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/pairing-problem.md, concepts/russellian-monism.md, concepts/phenomenal-concepts-strategy.md
