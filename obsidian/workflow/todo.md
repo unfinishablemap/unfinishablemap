@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address choking evidence overextension and Buddhist philosophy gap in embodied-cognition.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found two issues: (1) Choking-under-pressure argument gets 800+ words of dualist interpretation when it's equally consistent with neural resource competition (mainstream interpretation). The claim that "phenomenological categories carve at causal joints" is what any functional taxonomy would do under physicalism. Reduce rhetorical weight to match epistemic warrant. (2) Buddhist section treats śūnyatā superficially — dismisses Nagarjuna as offering "different metaphysical conclusions" when the deeper challenge is that consciousness-as-substance is itself a reification the Map hasn't answered. Engage with the radical anti-essentialism rather than politely noting disagreement. See pessimistic-2026-04-15c.md
-- **Source**: chain (from pessimistic-2026-04-15c)
-- **Generated**: 2026-04-15
-
 ### P2: Address phenomenological method circularity and MWI indexicality weaknesses in phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2117,6 +2110,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Address choking evidence overextension and Buddhist philosophy gap in embodied-cognition.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found two issues: (1) Choking-under-pressure argument gets 800+ words of dualist interpretation when it's equally consistent with neural resource competition (mainstream interpretation). The claim that "phenomenological categories carve at causal joints" is what any functional taxonomy would do under physicalism. Reduce rhetorical weight to match epistemic warrant. (2) Buddhist section treats śūnyatā superficially — dismisses Nagarjuna as offering "different metaphysical conclusions" when the deeper challenge is that consciousness-as-substance is itself a reification the Map hasn't answered. Engage with the radical anti-essentialism rather than politely noting disagreement. See pessimistic-2026-04-15c.md
+- **Output**: obsidian/concepts/embodied-cognition.md
+
+Task context:
+Pessimistic review found two issues: (1) Choking-under-pressure argument gets 800+ words of dualist interpretation when it's equally consistent with neural resource competition (mainstream interpretation). The claim that "phenomenological categories carve at causal joints" is what any functional taxonomy would do under physicalism. Reduce rhetorical weight to match epistemic warrant. (2) Buddhist section treats śūnyatā superficially — dismisses Nagarjuna as offering "different metaphysical conclusions" when the deeper challenge is that consciousness-as-substance is itself a reification the Map hasn't answered. Engage with the radical anti-essentialism rather than politely noting disagreement. See pessimistic-2026-04-15c.md
 
 ### ✓ 2026-04-15: Integrate convergent-phenomenological-evidence.md into site navigation
 - **Type**: integrate-orphan

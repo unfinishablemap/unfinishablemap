@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 23:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/embodied-cognition]]
+- **Changes**: Reduced choking section rhetorical weight (~800→200 words of dualist interpretation), engaged seriously with Nāgārjuna's anti-essentialism in Buddhist section, flagged radio analogy limitations
+- **Published**: yes
+
 ## 2026-04-15 23:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/bergson-and-duration]]
