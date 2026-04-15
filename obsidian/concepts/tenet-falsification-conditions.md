@@ -4,7 +4,7 @@ description: "What it would take to abandon the Map's foundational commitments�
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T10:52:00+00:00
+ai_modified: 2026-04-15T11:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
+last_deep_review: 2026-04-15T11:05:00+00:00
 ---
 
 A falsification condition specifies what evidence would require abandoning a commitment. The Unfinishable Map's five [[tenets]] occupy different positions on the falsifiability spectrum: the quantum-level tenets generate concrete experimental predictions, the core dualism commitment responds to cumulative evidential pressure rather than single experiments, and the epistemological tenet about parsimony is not a scientific claim at all. Engaging honestly with these asymmetries is central to the Map's intellectual credibility. For the detailed experimental programme, see [[falsification-roadmap-for-the-interface-model|the falsification roadmap]].
@@ -43,7 +44,7 @@ Not all commitments are testable in the same way. The Map's tenets involve three
 
 A structural difficulty affects all consciousness theories, not just the Map's. Kleiner (2021) argues that falsifying any theory of consciousness requires comparing predicted experience with behaviourally inferred experience. If the inference method is independent of the theory, any minimally informative theory is automatically falsified by structural mismatch. If inference assumes the theory, falsification becomes circular.
 
-This is not a special embarrassment for dualism. The 2025 Nature adversarial collaboration testing [[integrated-information-theory|Integrated Information Theory]] against Global Neuronal Workspace Theory (Melloni et al., 2025) found that neither physicalist-compatible theory was decisively confirmed or falsified. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience. The falsification challenge is structural to consciousness science itself.
+This is not a special embarrassment for dualism. The 2025 Nature adversarial collaboration testing [[integrated-information-theory|Integrated Information Theory]] (IIT) against Global Neuronal Workspace Theory (Melloni et al., 2025) found that neither physicalist-compatible theory was decisively confirmed or falsified. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience. The falsification challenge is structural to consciousness science itself.
 
 The Map does not hide behind this structural problem. That all consciousness theories face the difficulty does not excuse failing to specify what evidence bears on the Map's specific claims.
 
@@ -55,25 +56,25 @@ Each tenet sits at a different point on the falsifiability spectrum. The followi
 
 **Type**: Framework commitment subject to cumulative pressure.
 
-What would count: a physical explanation that *entails* phenomenal experience—not merely correlates with it. A principled resolution of the [[knowledge-argument|knowledge argument]] showing phenomenal knowledge is physical knowledge. What would not count: more neural correlates, evidence that brain damage affects consciousness, or anaesthesia eliminating experience. Dualism already predicts all of these.
+What would count: a physical explanation that *entails* phenomenal experience—not merely correlates with it. A principled resolution of the [[knowledge-argument|knowledge argument]] showing phenomenal knowledge is physical knowledge. Demonstration that [[philosophical-zombies|conceivability arguments]] fail because consciousness is logically entailed by physical structure. What would not count: more neural correlates, evidence that brain damage affects consciousness, or anaesthesia eliminating experience. Dualism already predicts all of these.
 
 ### Minimal Quantum Interaction
 
 **Type**: Mechanism hypothesis with empirical content—the Map's most testable tenet.
 
-What would count: proof that quantum coherence cannot survive in any neural system, or that classical noise fully accounts for neural stochasticity. Hameroff (2020) argues [[quantum-consciousness|Orch OR]] generated 20 testable predictions; six were confirmed and none refuted as of 2014. The Gran Sasso experiment (Donadi et al., 2021) constrains specific collapse models without eliminating the broader commitment. The tenet is broader than any single mechanism—it commits to *some* quantum-level interface, making it harder to falsify than Orch OR alone.
+What would count: proof that quantum coherence cannot survive in any neural system, or that classical noise fully accounts for neural stochasticity. Hameroff (2020) argues [[quantum-consciousness|Orch OR]] generated 20 testable predictions; six were confirmed and none refuted as of a 2014 self-assessment by the theory's proponents (Hameroff & Penrose, 2014). Independent evaluation of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) constrains specific collapse models without eliminating the broader commitment. The tenet is broader than any single mechanism—it commits to *some* quantum-level interface, making it harder to falsify than Orch OR alone.
 
 ### Bidirectional Interaction
 
 **Type**: Causal-structural claim with indirect empirical implications.
 
-What would count: proof that physics is strictly causally closed at all levels including quantum, or demonstration that all cognitive capacities attributed to consciousness can be replicated by unconscious processing. The conservation-of-energy objection—that [[mental-causation-and-downward-causation|mental causation]] should violate Noether's theorem—is addressed by the Map's "no energy injection" commitment: consciousness biases outcome selection at quantum indeterminacies without adding or removing energy (Gamez, 2022).
+What would count: proof that physics is strictly causally closed at all levels including quantum, or demonstration that all cognitive capacities attributed to consciousness can be replicated by unconscious processing. The conservation-of-energy objection—that [[mental-causation-and-downward-causation|mental causation]] should violate Noether's theorem—is addressed by the Map's "no energy injection" commitment: consciousness biases outcome selection at quantum indeterminacies without adding or removing energy. Gamez (2022) surveys the conservation law challenge in philosophy of mind, providing the analytical framework for this response.
 
 ### No Many Worlds
 
 **Type**: Interpretation choice with emerging empirical content.
 
-What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [[spontaneous-collapse-theories|objective collapse]], which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test. Currently, many-worlds and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—indexical identity, ontological proliferation—rather than empirical evidence.
+What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [[spontaneous-collapse-theories|objective collapse]], which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test. Currently, [[many-worlds|many-worlds]] and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—indexical identity, ontological proliferation (see [[many-worlds-argument|the cumulative case against many-worlds]])—rather than empirical evidence.
 
 ### Occam's Razor Has Limits
 
@@ -110,4 +111,5 @@ The falsification conditions also reveal the Map's distinctive structure. Unlike
 3. Donadi, S., et al. (2021). "Underground test of gravity-related wave function collapse." *Nature Physics*, 17, 74-78.
 4. Melloni, L., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*.
 5. Gamez, D. (2022). "Conservation Laws and the Philosophy of Mind." *Entropy*, 24(4).
-6. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/
+6. Hameroff, S. & Penrose, R. (2014). "Consciousness in the universe: A review of the 'Orch OR' theory." *Physics of Life Reviews*, 11(1), 39-78.
+7. Southgate, A. & Oquatre-six, C. (2026-04-09). Falsification Roadmap for the Interface Model. *The Unfinishable Map*. https://unfinishablemap.org/topics/falsification-roadmap-for-the-interface-model/
