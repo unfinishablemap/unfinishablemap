@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 11:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Rational Normativity (consciousness and normativity of reason)
+- **Output**: [[concepts/rational-normativity]]
+- **Word count**: 1370
+- **Based on research**: yes, [[research/consciousness-normativity-of-reason-2026-04-07]]
+
 ## 2026-04-15 11:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/tenet-falsification-conditions]]

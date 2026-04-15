@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on consciousness and normativity of reason
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. The claim that consciousness is necessary for genuine norm-following (as opposed to mere rule-implementation) recurs across argument-from-reason, self-stultification-as-master-argument, and consciousness-and-the-authority-of-formal-systems but lacks a dedicated concept page. Synthesising this would anchor a key argument thread. Target section: concepts/ (222/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-15
-
 ### P2: Write concept page on consciousness and metaphysics of composition
 - **Type**: expand-topic
 - **Status**: pending
@@ -2061,6 +2054,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Write concept page on consciousness and normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. The claim that consciousness is necessary for genuine norm-following (as opposed to mere rule-implementation) recurs across argument-from-reason, self-stultification-as-master-argument, and consciousness-and-the-authority-of-formal-systems but lacks a dedicated concept page. Synthesising this would anchor a key argument thread. Target section: concepts/ (222/230).
+- **Output**: Write concept page on consciousness and normativity of reason
 
 ### ✓ 2026-04-15: Write concept page on tenet falsification conditions
 - **Type**: expand-topic
