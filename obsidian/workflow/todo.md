@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for default causal profile
-- **Type**: expand-topic
+### P2: Cross-review default-causal-profile.md against related articles
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Saad's technical concept identifying the Born-rule probability distribution as the "default causal profile" — the outcome distribution that obtains when consciousness does not intervene. Central to delegation-meets-quantum-selection.md and the Map's physics programme. Bridges philosophical causation theory with quantum mechanics at the point of contact. Deserves its own concept page for cross-referencing from delegation articles, born-rule articles, and mental-causation. Target section: concepts/ (227/230). See optimistic-2026-04-15-evening.md
-- **Source**: gap_analysis
+- **Notes**: New concept page concepts/default-causal-profile.md created 2026-04-15. Review against causal-delegation.md, delegatory-dualism.md, delegation-meets-quantum-selection.md, preemption.md, and born-rule-and-the-consciousness-interface.md for consistency and to add inbound cross-links from related articles.
+- **Source**: chain (from concepts/default-causal-profile.md)
 - **Generated**: 2026-04-15
 
 ### P2: Cross-review biological-computationalism.md against related articles
@@ -2096,6 +2096,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Create concept page for default causal profile
+- **Type**: expand-topic
+- **Notes**: Saad's technical concept identifying the Born-rule probability distribution as the "default causal profile" — the outcome distribution that obtains when consciousness does not intervene. Central to delegation-meets-quantum-selection.md and the Map's physics programme. Bridges philosophical causation theory with quantum mechanics at the point of contact. Deserves its own concept page for cross-referencing from delegation articles, born-rule articles, and mental-causation. Target section: concepts/ (227/230). See optimistic-2026-04-15-evening.md
+- **Output**: Create concept page for default causal profile
 
 ### ✓ 2026-04-15: Cross-review metaphysics-of-composition.md against related articles
 - **Type**: cross-review

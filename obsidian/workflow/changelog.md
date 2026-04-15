@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 19:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Default Causal Profile
+- **Output**: [[concepts/default-causal-profile]]
+- **Word count**: 1398
+- **Based on research**: yes, [[bradford-saad-delegatory-dualism-2026-01-28]]
+
 ## 2026-04-15 19:19 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[topics/growing-block-universe-and-consciousness]]
