@@ -5,6 +5,11 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 06:41 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: stochastic-amplification-and-neural-selection (archived)
+- **Reason**: File was coalesced into [[topics/amplification-mechanisms-consciousness-physics]] on 2026-03-29 and archived. No obsidian source to review. Orphan status is expected for archived content.
+
 ## 2026-04-15 06:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/universal-coupling-response]]
