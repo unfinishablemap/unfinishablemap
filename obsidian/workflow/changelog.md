@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 17:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/biological-computationalism]]
+- **Word count**: 1168 → 1527 (+359)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (MQI tenet overreach, missing tenet connections, missing cross-links)
+- **Enhancements made**: 6 (embodied-cognition link, emergence analysis, IIT/GWT comparison, Bidirectional Interaction tenet, Occam's Razor tenet, softened MQI language)
+- **Output**: [[reviews/deep-review-2026-04-15-biological-computationalism]]
+
 ## 2026-04-15 16:51 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-epistemology-extended-cognition]]

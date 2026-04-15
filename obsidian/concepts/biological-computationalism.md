@@ -4,7 +4,7 @@ description: "Biological computationalism holds that brains compute in a substra
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T15:50:00+00:00
+ai_modified: 2026-04-15T17:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,10 @@ concepts:
   - "[[concepts/materialism]]"
   - "[[explanatory-gap]]"
   - "[[concession-convergence]]"
+  - "[[embodied-cognition]]"
+  - "[[emergence]]"
+  - "[[integrated-information-theory]]"
+  - "[[global-workspace-theory]]"
 related_articles:
   - "[[tenets]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
@@ -27,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-15T17:05:00+00:00
 ---
 
 Biological computationalism is the thesis that brains perform computation, but that biological computation differs fundamentally from digital computation in ways that matter for consciousness. Proposed by Milinkovic and Aru (2025), the framework positions itself as a third path between classical [[concepts/functionalism|computational functionalism]]—which treats any system implementing the right algorithm as potentially conscious—and Searle's biological naturalism, which denies that brains compute in any theoretically useful sense. The central claim: "In biological computation, the algorithm is the substrate—the physical organization does not just enable the computation, it is what the computation consists of" (Milinkovic & Aru 2025).
@@ -38,7 +42,7 @@ Biological computationalism makes three interlocking claims that distinguish it 
 
 ### Substrate Dependence
 
-Classical [[concepts/functionalism]] holds that mental states are multiply realisable—implementable in neurons, silicon, or any medium preserving the right causal structure. Biological computationalism rejects this. Consciousness requires computation inseparable from the fluidic, electrochemical dynamics of biological tissue. Continuous fields, ion flows, dendritic integration, and electromagnetic interactions are computational primitives, not implementation details that could be swapped for digital equivalents.
+Classical [[concepts/functionalism]] holds that mental states are multiply realisable—implementable in neurons, silicon, or any medium preserving the right causal structure. Biological computationalism rejects this. Consciousness requires computation inseparable from the fluidic, electrochemical dynamics of biological tissue. Continuous fields, ion flows, dendritic integration, and electromagnetic interactions are computational primitives, not implementation details that could be swapped for digital equivalents. This commitment overlaps with [[embodied-cognition]]'s insistence that cognition depends on the body's physical constitution, though biological computationalism locates the dependence specifically in the character of the computation rather than in sensorimotor coupling.
 
 ### Metabolic Grounding
 
@@ -46,7 +50,7 @@ Computation in brains is constrained by and dependent on metabolic energy flows.
 
 ### Scale Inseparability
 
-Biological computation operates across scales—molecular, cellular, network, and whole-brain dynamics—in a computationally coupled manner. Digital systems process information in modular layers that can be separated and recombined. Biological systems, on this view, cannot be decomposed this way without losing the computation itself. The consciousness-relevant properties emerge from interactions across all scales simultaneously.
+Biological computation operates across scales—molecular, cellular, network, and whole-brain dynamics—in a computationally coupled manner. Digital systems process information in modular layers that can be separated and recombined. Biological systems, on this view, cannot be decomposed this way without losing the computation itself. The consciousness-relevant properties emerge from interactions across all scales simultaneously. This positions biological computationalism in tension with standard accounts of [[emergence]]: if the relevant properties exist only in cross-scale coupling, they resist both reductive explanation (capturing them at a single level) and the weak emergence framework (deriving them from lower-level dynamics). Whether they constitute strong emergence remains an open question the framework does not resolve.
 
 ## Historical Context
 
@@ -74,15 +78,21 @@ Biological computationalism faces challenges from multiple directions.
 
 **The "just physics" objection.** Functionalists object that substrate dependence, metabolic grounding, and scale inseparability are straightforwardly physical properties. Turbulence, protein folding, and weather all involve substrate-specific dynamics that resist abstract modelling, yet no one infers non-physical ingredients. Biological computationalism may correctly identify consciousness-relevant physical constraints without those constraints pointing beyond the physical.
 
+**Relationship to other consciousness theories.** Biological computationalism is not the only framework tying consciousness to specific physical properties rather than abstract function. [[integrated-information-theory|Integrated Information Theory]] ties consciousness to intrinsic causal power, and [[global-workspace-theory|Global Workspace Theory]] ties it to specific neural architectures. Each framework narrows the class of potentially conscious systems in different ways. Where biological computationalism emphasises the kind of computation (substrate-bound, metabolically grounded), IIT emphasises the structure of information integration regardless of substrate type—a tension between the two approaches that remains unresolved.
+
 ## Relation to Site Perspective
 
 The Unfinishable Map reads biological computationalism as an instance of [[concession-convergence]]—the pattern whereby physicalist theories independently retreat from positions that dualists have long challenged.
 
 The **Dualism** tenet holds that consciousness is not reducible to physical processes. Biological computationalism's rejection of substrate independence is structurally analogous: both positions hold that abstract functional organisation cannot account for phenomenal experience. The framework's proponents would reject the dualist label—their ontological commitments differ. But the structural parallel is significant: where dualists say something non-physical is needed, biological computationalists say something beyond abstract computation is needed. The disagreement is about what fills the gap, not about whether the gap exists.
 
-The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies in biological systems. Biological computationalism's emphasis on substrate-specific dynamics—ion flows, electromagnetic fields, metabolic processes—identifies exactly the physical domain where quantum effects in biology have been demonstrated. The "something more" that biological substrates provide could be a quantum-level interface for consciousness.
+The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies in biological systems. Biological computationalism's emphasis on substrate-specific dynamics—continuous fields, ion flows, electromagnetic interactions—places consciousness-relevant processing in the physical regime where quantum effects in biology have been demonstrated in specific systems (avian magnetoreception, photosynthetic energy transfer). Whether quantum effects extend to the neural processes biological computationalism highlights remains an open empirical question, but the framework's insistence on substrate specificity is at least compatible with a quantum-level interface for consciousness.
+
+The **Bidirectional Interaction** tenet requires consciousness to causally influence physical outcomes. Biological computationalism's central claim—that the algorithm is the substrate—means any non-physical influence on the substrate would simultaneously be influence on the computation. The tight coupling of algorithm and substrate ensures that the Map's proposed mechanism (consciousness biasing quantum indeterminacies) would be computationally relevant rather than epiphenomenal.
 
 The **No Many Worlds** tenet is supported by biological computationalism's insistence on substrate specificity. If consciousness depends on particular physical dynamics rather than abstract computation, indexical identity is tied to a specific substrate trajectory—not duplicated across branches.
+
+The **Occam's Razor Has Limits** tenet finds illustration in biological computationalism's trajectory. The "simpler" functionalist account—consciousness is just computation, implementable in any medium—has required ever more qualifications to remain plausible: substrate-dependent, metabolically grounded, scale-inseparable, hybrid discrete-continuous. Each qualification adds complexity that the original functionalist picture was supposed to avoid, demonstrating that parsimony pointed away from the truth about what consciousness requires.
 
 For the full argument that biological computationalism inadvertently builds the dualist case, see [[biological-computationalisms-inadvertent-case-for-dualism]].
 
@@ -96,6 +106,10 @@ For the full argument that biological computationalism inadvertently builds the 
 - [[consciousness-evolution-and-biology]] — Biology's broader relevance to consciousness
 - [[explanatory-gap]] — The gap between physical description and experience
 - [[hard-problem-of-consciousness]] — The problem biological computationalism relocates
+- [[embodied-cognition]] — A related emphasis on physical constitution in cognition
+- [[emergence]] — The question of whether cross-scale properties are strongly emergent
+- [[integrated-information-theory]] — An alternative framework tying consciousness to causal structure
+- [[global-workspace-theory]] — Architecture-dependent consciousness without substrate dependence
 
 ## References
 
