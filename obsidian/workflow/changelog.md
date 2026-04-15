@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 15:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Biological Computationalism
+- **Output**: [[concepts/biological-computationalism]]
+- **Word count**: 1168
+- **Based on research**: yes, [[biological-computationalism-inadvertent-dualism-2026-04-04]]
+
 ## 2026-04-15 15:44 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/spontaneous-collapse-theories]]

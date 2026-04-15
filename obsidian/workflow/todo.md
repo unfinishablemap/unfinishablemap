@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on biological computationalism
-- **Type**: expand-topic
-- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Biological computationalism (Milinkovic & Aru 2025) insists consciousness requires substrate-dependent, metabolically grounded computation — inadvertently conceding the central dualist intuition that functional organisation alone cannot account for phenomenal experience. Referenced in 5 existing articles but has no concept page. Target section: concepts/ (226/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-15
-
 ### P2: Integrate delegation-meets-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-04-13) on how causal delegation provides the logical structure of mental causation while quantum selection provides the physical mechanism. Add cross-references from delegatory-dualism, consciousness-selecting-neural-patterns, mental-causation, and downward-causation.
@@ -2075,6 +2069,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Write concept page on biological computationalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Biological computationalism (Milinkovic & Aru 2025) insists consciousness requires substrate-dependent, metabolically grounded computation — inadvertently conceding the central dualist intuition that functional organisation alone cannot account for phenomenal experience. Referenced in 5 existing articles but has no concept page. Target section: concepts/ (226/230).
+- **Output**: Write concept page on biological computationalism
 
 ### ✓ 2026-04-15: Integrate indexical-void.md into site navigation
 - **Type**: integrate-orphan
