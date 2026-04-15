@@ -4,7 +4,7 @@ description: "A physical state's default causal profile is the pattern of effect
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T19:26:00+00:00
+ai_modified: 2026-04-15T19:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,18 +15,21 @@ concepts:
   - "[[preemption]]"
   - "[[observational-closure]]"
   - "[[psychophysical-laws]]"
+  - "[[asymmetric-bandwidth-consciousness]]"
 related_articles:
   - "[[delegatory-dualism]]"
   - "[[delegation-meets-quantum-selection]]"
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[tenets]]"
   - "[[bradford-saad-delegatory-dualism-2026-01-28]]"
+  - "[[consciousness-physics-interface-formalism]]"
+  - "[[trilemma-of-selection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-15T19:41:00+00:00
 ---
 
 A default causal profile is the pattern of effects a physical brain state would produce if no conscious experience took over its causal work. The concept originates in Bradford Saad's [[delegatory-dualism]] (2025), where it serves as the counterfactual baseline against which [[causal-delegation]] is defined. When a physical state's default causal profile matches the causal profile of an experiential property, conscious experience is instantiated and [[preemption|preempts]] the physical state's contribution — the experience does the causing, and the physical state is sidelined. The Unfinishable Map treats the default causal profile as a foundational concept in its account of [[mental-causation-and-downward-causation|mental causation]], and identifies it with the Born-rule probability distribution in its quantum interactionist framework.
@@ -65,9 +68,9 @@ This identification has consequences:
 
 **The counterfactual becomes measurable.** The Born rule is the most precisely confirmed regularity in physics. The default causal profile is not merely a philosopher's thought experiment but a physical quantity derivable from the quantum state of the neural system.
 
-**[[observational-closure|Observational closure]] follows.** If consciousness selects *within* Born-rule probabilities rather than deviating from them, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies because the experience causes exactly what the default profile would have produced statistically. The philosophical constraint Saad imposes by design — no observable violations — coincides with the physical constraint the Born rule imposes by necessity.
+**[[observational-closure|Observational closure]] follows.** If consciousness selects *within* Born-rule probabilities rather than deviating from them, the statistical distribution of outcomes is unchanged. Delegation produces no empirical anomalies because the experience causes exactly what the default profile would have produced statistically. The philosophical constraint Saad imposes by design — no observable violations — coincides with the physical constraint the Born rule imposes by necessity. The [[consciousness-physics-interface-formalism]] establishes Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally.
 
-**Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids.
+**Profile matching gains precision.** The Subset Law* requires that an experience's causal profile be a subset of the physical state's default profile. On the quantum reading, this means consciousness cannot cause effects the quantum state assigns zero probability. Selection chooses among live options; it does not create options physics forbids. The [[trilemma-of-selection]] establishes why this selection must be conscious: at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only mental causation preserves authorship.
 
 ## Default Profiles and the Bandwidth Constraint
 
@@ -85,6 +88,8 @@ The default causal profile connects to multiple tenets of The Unfinishable Map's
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The Born-rule identification specifies what "minimal" means: consciousness selects within the probability distribution the default profile defines, adding no energy and producing no statistical anomalies. The intervention is minimal because it operates within existing physical constraints rather than overriding them.
 
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The Born-rule identification makes the Map's rejection of MWI load-bearing for the default causal profile. If all quantum outcomes occur in parallel branches, there is no selection among them — and therefore no preemption of the default profile by experience. Delegation requires that one outcome becomes actual while others are excluded. The default causal profile is meaningful only in a single-outcome quantum mechanics.
+
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The default causal profile adds conceptual machinery — a counterfactual baseline, profile matching, delegation — where physicalists posit none. Whether this complexity is justified depends on whether simpler accounts can explain mental causation without the self-undermining defect of epiphenomenalism or the redundancy of overdetermination. The Map holds that they cannot, while acknowledging this is a philosophical judgement.
 
 ## Further Reading
@@ -96,6 +101,9 @@ The default causal profile connects to multiple tenets of The Unfinishable Map's
 - [[observational-closure]] — Why delegation within default profiles leaves no empirical trace
 - [[born-rule-and-the-consciousness-interface]] — The Born rule as the physics of the default profile
 - [[psychophysical-laws]] — The broader framework for mind-body laws
+- [[consciousness-physics-interface-formalism]] — Five constraints on any consciousness-physics coupling, starting with Born-rule preservation
+- [[trilemma-of-selection]] — Why selection at quantum indeterminacies must be conscious
+- [[asymmetric-bandwidth-consciousness]] — The bandwidth constraint shaping which portions of the default profile experience preempts
 
 ## References
 
