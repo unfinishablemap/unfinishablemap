@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on tenet falsification conditions
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/tenet-falsification-conditions-2026-04-05.md. What would it take to falsify each of the five tenets? A dedicated concept page cataloguing specific falsification conditions strengthens the Map's philosophical credibility by making commitments explicit and testable. Distinct from testability-ledger (which catalogues empirical predictions); this focuses on what evidence would force abandonment of each tenet. Directly supports all five tenets. Target section: concepts/ (222/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-15
-
 ### P2: Write concept page on consciousness and normativity of reason
 - **Type**: expand-topic
 - **Status**: pending
@@ -2068,6 +2061,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Write concept page on tenet falsification conditions
+- **Type**: expand-topic
+- **Notes**: Research completed in research/tenet-falsification-conditions-2026-04-05.md. What would it take to falsify each of the five tenets? A dedicated concept page cataloguing specific falsification conditions strengthens the Map's philosophical credibility by making commitments explicit and testable. Distinct from testability-ledger (which catalogues empirical predictions); this focuses on what evidence would force abandonment of each tenet. Directly supports all five tenets. Target section: concepts/ (222/230).
+- **Output**: Write concept page on tenet falsification conditions
 
 ### ✓ 2026-04-15: Address gaps in concepts/pairing-problem.md
 - **Type**: refine-draft
