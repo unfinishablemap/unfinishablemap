@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-04-15 11:05:00+00:00
+ai_modified: 2026-04-15 18:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: What it would take to abandon the Map's foundational commitments—
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 11:05:00+00:00
+last_deep_review: 2026-04-15 18:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,7 +47,7 @@ Not all commitments are testable in the same way. The Map's tenets involve three
 
 A structural difficulty affects all consciousness theories, not just the Map's. Kleiner (2021) argues that falsifying any theory of consciousness requires comparing predicted experience with behaviourally inferred experience. If the inference method is independent of the theory, any minimally informative theory is automatically falsified by structural mismatch. If inference assumes the theory, falsification becomes circular.
 
-This is not a special embarrassment for dualism. The 2025 Nature adversarial collaboration testing [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT) against Global Neuronal Workspace Theory (Melloni et al., 2025) found that neither physicalist-compatible theory was decisively confirmed or falsified. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience. The falsification challenge is structural to consciousness science itself.
+This is not a special embarrassment for dualism. The 2025 Nature adversarial collaboration testing [Integrated Information Theory](/concepts/integrated-information-theory/) (IIT) against Global Neuronal Workspace Theory (Melloni et al., 2025) found that neither physicalist-compatible theory was decisively confirmed or falsified. In 2023, 124 scholars signed a letter calling IIT unfalsifiable pseudoscience. The falsification challenge is structural to consciousness science itself — a consequence of the [deep underdetermination](/topics/duhem-quine-underdetermination-consciousness/) that afflicts all consciousness theories.
 
 The Map does not hide behind this structural problem. That all consciousness theories face the difficulty does not excuse failing to specify what evidence bears on the Map's specific claims.
 
@@ -65,13 +65,13 @@ What would count: a physical explanation that *entails* phenomenal experience—
 
 **Type**: Mechanism hypothesis with empirical content—the Map's most testable tenet.
 
-What would count: proof that quantum coherence cannot survive in any neural system, or that classical noise fully accounts for neural stochasticity. Hameroff (2020) argues [Orch OR](/concepts/quantum-consciousness/) generated 20 testable predictions; six were confirmed and none refuted as of a 2014 self-assessment by the theory's proponents (Hameroff & Penrose, 2014). Independent evaluation of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) constrains specific collapse models without eliminating the broader commitment. The tenet is broader than any single mechanism—it commits to *some* quantum-level interface, making it harder to falsify than Orch OR alone.
+What would count: proof that quantum coherence cannot survive in any neural system, or that classical noise fully accounts for neural stochasticity. Hameroff (2020) argues [Orch OR](/concepts/quantum-consciousness/) generated 20 testable predictions (originally published in 1998); six were confirmed and none refuted as of a 2014 self-assessment by the theory's proponents (Hameroff & Penrose, 2014). Independent evaluation of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) constrains specific collapse models without eliminating the broader commitment. The tenet is broader than any single mechanism—it commits to *some* quantum-level interface, making it harder to falsify than Orch OR alone.
 
 ### Bidirectional Interaction
 
 **Type**: Causal-structural claim with indirect empirical implications.
 
-What would count: proof that physics is strictly causally closed at all levels including quantum, or demonstration that all cognitive capacities attributed to consciousness can be replicated by unconscious processing. The conservation-of-energy objection—that [mental causation](/concepts/mental-causation-and-downward-causation/) should violate Noether's theorem—is addressed by the Map's "no energy injection" commitment: consciousness biases outcome selection at quantum indeterminacies without adding or removing energy. Gamez (2022) surveys the conservation law challenge in philosophy of mind, providing the analytical framework for this response.
+What would count: proof that physics is strictly [causally closed](/concepts/causal-closure/) at all levels including quantum, or demonstration that all cognitive capacities attributed to consciousness can be replicated by unconscious processing. The conservation-of-energy objection—that [mental causation](/concepts/mental-causation-and-downward-causation/) should violate Noether's theorem—is addressed by the Map's "no energy injection" commitment: consciousness biases outcome selection at quantum indeterminacies without adding or removing energy. Gamez (2022) surveys the conservation law challenge in philosophy of mind, providing the analytical framework for this response.
 
 ### No Many Worlds
 
@@ -83,7 +83,7 @@ What would count: experimental demonstration of quantum interference between mac
 
 **Type**: Epistemological position, not a scientific claim.
 
-What would count in principle: a rigorous proof that parsimony reliably tracks truth across domains. Historical evidence runs the other way—heliocentrism initially required more epicycles, atomic theory posited invisible entities, quantum mechanics replaced deterministic simplicity. Individual cases where parsimony succeeds do not threaten the tenet, which claims parsimony is *unreliable*, not that it always fails.
+What would count in principle: a rigorous proof that parsimony reliably tracks truth across domains. Historical evidence runs the other way—heliocentrism initially required more epicycles, atomic theory posited invisible entities, quantum mechanics replaced deterministic simplicity (see [parsimony-epistemology](/concepts/parsimony-epistemology/) for the full evidential record). Individual cases where parsimony succeeds do not threaten the tenet, which claims parsimony is *unreliable*, not that it always fails.
 
 ## Why Honest Asymmetry Matters
 
@@ -91,7 +91,7 @@ The five tenets are not equally testable, and pretending otherwise would damage 
 
 This asymmetry is a feature, not a defect. A philosophical framework that combines metaphysical commitments, mechanism hypotheses, and epistemological positions *should* have varied falsification conditions. The alternative—claiming uniform testability—would be dishonest. What matters is that each tenet has a specified response to adverse evidence: mechanism tenets yield to experimental results; the framework commitment yields to cumulative explanatory success by rivals; the epistemological position yields to philosophical argument and historical evidence.
 
-The Map's rivals face comparable challenges. Physicalism about consciousness has no agreed falsification condition—what would convince a physicalist that physical explanation *cannot in principle* account for experience? Many-worlds interpretation advocates often acknowledge that no feasible experiment distinguishes their view from collapse interpretations. The falsification problem is not the Map's alone; it belongs to philosophy of mind as a field.
+The Map's rivals face comparable challenges. Physicalism about consciousness has no agreed falsification condition—what would convince a physicalist that physical explanation *cannot in principle* account for experience? Many-worlds interpretation advocates often acknowledge that no feasible experiment distinguishes their view from collapse interpretations. As the Map's analysis of [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/) develops in detail, consciousness theories function as Lakatosian research programmes with protected hard cores—the falsification problem is not the Map's alone; it belongs to philosophy of mind as a field.
 
 ## Relation to Site Perspective
 

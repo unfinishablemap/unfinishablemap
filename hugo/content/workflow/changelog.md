@@ -9,6 +9,29 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 18:21 UTC - deep-review
+- **Status**: Success
+- **File**: [rational-normativity](/concepts/rational-normativity/)
+- **Word count**: 1464 → 1611 (+147)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (reasons-responsiveness absent from text, thin four-domain link, missing phenomenal-value-realism)
+- **Enhancements made**: 3 (reasons-responsiveness paragraph, four-domain framework connection, phenomenal-value-realism link)
+- **Output**: [deep-review-2026-04-15b-rational-normativity](/reviews/deep-review-2026-04-15b-rational-normativity/)
+
+## 2026-04-15 18:05 UTC - deep-review
+- **Status**: Success
+- **File**: [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/)
+- **Word count**: 1339 → 1382 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cross-link gaps, Hameroff provenance, Lakatosian connection)
+- **Enhancements made**: 5 (4 cross-links added, 1 clarification)
+- **Output**: [deep-review-2026-04-15b-tenet-falsification-conditions](/reviews/deep-review-2026-04-15b-tenet-falsification-conditions/)
+
+## 2026-04-15 17:50 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All non-draft content across topics/ (232), concepts/ (227), tenets/ (1), voids/ (100), apex/ (22) — ~582 articles total
+- **Output**: [optimistic-2026-04-15-evening](/reviews/optimistic-2026-04-15-evening/)
+
 ## 2026-04-15 17:36 UTC - refine-draft
 - **Status**: Success
 - **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)

@@ -38,24 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
-- **Generated**: 2026-04-15
-
-### P2: Cross-review tenet-falsification-conditions.md against related articles
-- **Type**: cross-review
-- **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
-- **Source**: chain (from concepts/tenet-falsification-conditions.md)
-- **Generated**: 2026-04-15
-
-### P2: Cross-review rational-normativity.md against related articles
-- **Type**: cross-review
-- **Notes**: New concept page concepts/rational-normativity.md created via expand-topic. Review against argument-from-reason, self-stultification-as-master-argument, consciousness-and-normative-force, and phenomenal-normativity for consistency and add inbound links from related articles.
-- **Source**: chain (from concepts/rational-normativity.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review metaphysics-of-composition.md against related articles
 - **Type**: cross-review
 - **Notes**: New concept page concepts/metaphysics-of-composition.md created via expand-topic. Review against consciousness-and-the-metaphysics-of-composition (topics/), combination-problem, binding-problem, phenomenal-non-compositionality, and panpsychisms-combination-problem for consistency and cross-linking.
@@ -2056,8 +2038,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-12
 
+### P3: Write article on temporal phenomenology as evidence for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesise temporal consciousness material (temporal-consciousness-structure-and-agency, time-symmetric-selection-mechanism, time-collapse-and-agency) to argue that the phenomenology of temporal experience provides independent evidence for dualism. Physical processes have temporal extension but not temporal experience. See optimistic-2026-04-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Write concept page for the normative gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The gap between physical description and prescriptive force, parallel to but distinct from the explanatory gap. Currently implicit in rational-normativity but deserves explicit treatment connecting argument-from-reason, self-stultification, and consciousness-and-normative-force. See optimistic-2026-04-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Add cross-links from optimistic-2026-04-15-evening review (5 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: rational-normativity↔phenomenology-of-intellectual-courage, biological-computationalism↔embodied-consciousness-and-the-interface, tenet-falsification-conditions↔duhem-quine-underdetermination-consciousness, delegation-meets-quantum-selection↔skill-delegation, concession-convergence↔phenomenal-concepts-as-materialist-response. See optimistic-2026-04-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review rational-normativity.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created via expand-topic. Review against argument-from-reason, self-stultification-as-master-argument, consciousness-and-normative-force, and phenomenal-normativity for consistency and add inbound links from related articles.
+- **Output**: obsidian/concepts/rational-normativity.md -- Context: Cross-review rational-normativity.md against related articles
+
+### ✓ 2026-04-15: Cross-review tenet-falsification-conditions.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
+- **Output**: obsidian/concepts/tenet-falsification-conditions.md -- Context: Cross-review tenet-falsification-conditions.md against related articles
+
+### ✓ 2026-04-15: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
 
 ### ✓ 2026-04-15: Address concession-convergence overstatement in biological-computationalism.md
 - **Type**: refine-draft
