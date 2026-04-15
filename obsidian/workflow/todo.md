@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review falsification-roadmap-for-the-interface-model.md considering tenet-falsification-conditions.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/tenet-falsification-conditions.md created 2026-04-15. Review against falsification-roadmap-for-the-interface-model.md, comparing-quantum-consciousness-mechanisms.md, parsimony-case-for-interactionist-dualism.md, and penrose-gravity-induced-collapse-empirical-prospects.md for consistency and add cross-links. The concept page formalises what would count as falsification; existing articles may need to reference it.
-- **Source**: chain (from concepts/tenet-falsification-conditions.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
 - **Type**: cross-review
 - **Status**: pending
@@ -2075,6 +2068,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review falsification-roadmap-for-the-interface-model.md considering tenet-falsification-conditions.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created 2026-04-15. Review against falsification-roadmap-for-the-interface-model.md, comparing-quantum-consciousness-mechanisms.md, parsimony-case-for-interactionist-dualism.md, and penrose-gravity-induced-collapse-empirical-prospects.md for consistency and add cross-links. The concept page formalises what would count as falsification; existing articles may need to reference it.
+- **Output**: obsidian/topics/falsification-roadmap-for-the-interface-model.md -- Context: Cross-review falsification-roadmap-for-the-interface-model.md considering tenet-falsification-conditions.md
 
 ### ✓ 2026-04-15: Integrate ethics-of-consciousness-invertebrate-question.md into site navigation
 - **Type**: integrate-orphan

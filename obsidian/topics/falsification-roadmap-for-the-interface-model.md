@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-10T23:56:00+00:00
+ai_modified: 2026-04-15T13:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
   - "[[invertebrate-consciousness-as-interface-test]]"
   - "[[tenet-falsification-conditions-2026-04-05]]"
+  - "[[tenet-falsification-conditions]]"
   - "[[causal-closure-debate-historical-survey]]"
   - "[[the-epiphenomenalist-threat]]"
   - "[[experimental-consciousness-science-2025-2026]]"
@@ -37,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-09
 last_curated:
-last_deep_review: 2026-04-10T23:56:00+00:00
+last_deep_review: 2026-04-15T13:20:00+00:00
 ---
 
 The Unfinishable Map claims consciousness is irreducible, causally efficacious, and operates through quantum indeterminacies. Critics ask: what would change your mind? If nothing could, the framework is unfalsifiable metaphysics rather than honest philosophy. This article answers the question directly, mapping falsification conditions for each of the five [[tenets]] and identifying which conditions are experimentally accessible, which remain out of reach, and which the Map shares with every theory of consciousness.
@@ -120,7 +121,7 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 ## The Falsification Asymmetry
 
-The analysis reveals a clear asymmetry across the five tenets:
+The analysis reveals a clear asymmetry across the five tenets. These map to distinct [[tenet-falsification-conditions|falsification condition types]]—decisive, cumulative, and structural—each requiring different evidential standards.
 
 | Tenet | Type | Falsifiability | Current Experimental Traction |
 |-------|------|---------------|-------------------------------|
