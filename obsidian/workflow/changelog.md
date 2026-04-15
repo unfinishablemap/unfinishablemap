@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 17:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/biological-computationalism]]
+- **Changes**: Qualified concession-convergence framing (shared negative thesis, not shared direction); expanded "just physics" objection with substantive dualist response; updated description to avoid begging the question
+- **Published**: yes
+
 ## 2026-04-15 17:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/biological-computationalism]]

@@ -1,10 +1,10 @@
 ---
 title: "Biological Computationalism"
-description: "Biological computationalism holds that brains compute in a substrate-dependent, metabolically grounded way that digital systems cannot replicate—a physicalist position whose own commitments parallel dualist arguments."
+description: "Biological computationalism holds that brains compute in a substrate-dependent, metabolically grounded way that digital systems cannot replicate—a physicalist position whose rejection of substrate independence raises questions about functional completeness."
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T17:05:00+00:00
+ai_modified: 2026-04-15T17:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -76,15 +76,15 @@ Biological computationalism faces challenges from multiple directions.
 
 **Relocated hard problem.** Classical functionalism faces the [[hard-problem-of-consciousness]]: why does this functional organisation produce experience? Biological computationalism narrows the question—why does this *biological substrate* produce experience?—but does not eliminate it. No amount of detail about ion flows, electromagnetic fields, or metabolic processes explains why these processes are accompanied by subjective experience. The [[explanatory-gap]] persists at every level of physical description.
 
-**The "just physics" objection.** Functionalists object that substrate dependence, metabolic grounding, and scale inseparability are straightforwardly physical properties. Turbulence, protein folding, and weather all involve substrate-specific dynamics that resist abstract modelling, yet no one infers non-physical ingredients. Biological computationalism may correctly identify consciousness-relevant physical constraints without those constraints pointing beyond the physical.
+**The "just physics" objection.** Functionalists object that substrate dependence, metabolic grounding, and scale inseparability are straightforwardly physical properties. Turbulence, protein folding, and weather all involve substrate-specific dynamics that resist abstract modelling, yet no one infers non-physical ingredients. Biological computationalism may correctly identify consciousness-relevant physical constraints without those constraints pointing beyond the physical. The force of this objection is substantial: substrate dependence in other domains is entirely unremarkable, and nothing in the biological computationalist framework explains why consciousness-relevant substrate dependence should be different in kind from, say, the substrate dependence of protein folding. The dualist response is that consciousness poses a distinctive explanatory challenge—the [[hard-problem-of-consciousness]]—that turbulence and protein folding do not. Substrate dependence in those domains is fully explained by the relevant physics; substrate dependence in consciousness remains unexplained precisely because no amount of physical detail closes the [[explanatory-gap]]. Whether this distinction is principled or merely reflects current ignorance is the crux of the disagreement.
 
 **Relationship to other consciousness theories.** Biological computationalism is not the only framework tying consciousness to specific physical properties rather than abstract function. [[integrated-information-theory|Integrated Information Theory]] ties consciousness to intrinsic causal power, and [[global-workspace-theory|Global Workspace Theory]] ties it to specific neural architectures. Each framework narrows the class of potentially conscious systems in different ways. Where biological computationalism emphasises the kind of computation (substrate-bound, metabolically grounded), IIT emphasises the structure of information integration regardless of substrate type—a tension between the two approaches that remains unresolved.
 
 ## Relation to Site Perspective
 
-The Unfinishable Map reads biological computationalism as an instance of [[concession-convergence]]—the pattern whereby physicalist theories independently retreat from positions that dualists have long challenged.
+The Unfinishable Map reads biological computationalism as an instance of [[concession-convergence]]—the pattern whereby physicalist theories independently concede ground that dualists have long contested.
 
-The **Dualism** tenet holds that consciousness is not reducible to physical processes. Biological computationalism's rejection of substrate independence is structurally analogous: both positions hold that abstract functional organisation cannot account for phenomenal experience. The framework's proponents would reject the dualist label—their ontological commitments differ. But the structural parallel is significant: where dualists say something non-physical is needed, biological computationalists say something beyond abstract computation is needed. The disagreement is about what fills the gap, not about whether the gap exists.
+The **Dualism** tenet holds that consciousness is not reducible to physical processes. Biological computationalism shares a narrow but genuine negative thesis with dualism: both hold that abstract functional organisation is insufficient for phenomenal experience. The parallel ends there. Biological computationalism's "something more" is more physics—specific substrate dynamics, metabolic processes, cross-scale coupling. Dualism's "something more" is beyond physics entirely. These are opposite positive claims built on the same negative foundation. The Map's interest is not in the positive claims converging—they do not—but in the independent arrival at the shared negative conclusion. When a physicalist framework finds itself insisting that abstract computation cannot account for consciousness, it concedes the premise that dualists have argued from the start, even as it proposes a different resolution.
 
 The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies in biological systems. Biological computationalism's emphasis on substrate-specific dynamics—continuous fields, ion flows, electromagnetic interactions—places consciousness-relevant processing in the physical regime where quantum effects in biology have been demonstrated in specific systems (avian magnetoreception, photosynthetic energy transfer). Whether quantum effects extend to the neural processes biological computationalism highlights remains an open empirical question, but the framework's insistence on substrate specificity is at least compatible with a quantum-level interface for consciousness.
 
@@ -119,3 +119,14 @@ For the full argument that biological computationalism inadvertently builds the 
 4. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
 5. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
 6. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
+
+<!-- AI REFINEMENT LOG - 2026-04-15
+Changes made:
+- Qualified "concession convergence" framing: changed "retreat from" to "concede ground that dualists have long contested"
+- Rewrote Dualism tenet paragraph to explicitly distinguish shared negative thesis (abstract function insufficient) from divergent positive claims (more physics vs. beyond physics)
+- Expanded "just physics" objection from a single-paragraph acknowledgment to a substantive engagement, presenting the dualist response (hard problem distinguishes consciousness from turbulence/protein folding) while honestly noting the crux: whether this distinction is principled or reflects ignorance
+- Updated description to avoid begging the question about the parallel
+
+Driven by pessimistic-2026-04-15b.md Issue 2 and Counterargument "Substrate Dependence as Physics, Not Dualism."
+This log should be removed after human review.
+-->

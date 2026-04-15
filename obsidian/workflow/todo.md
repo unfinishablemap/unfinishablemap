@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address concession-convergence overstatement in biological-computationalism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the "structurally analogous" claim between substrate dependence and dualism conflates physics-specific and non-physics claims. The "concession convergence" framing overstates the parallel. Needs explicit qualification: both share a negative thesis (abstract function is insufficient) but diverge on what fills the gap. Also address the unengaged "just physics" objection. See pessimistic-2026-04-15b.md Issue 2.
-- **Generated**: 2026-04-15
-
 ### P2: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2063,6 +2057,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Address concession-convergence overstatement in biological-computationalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "structurally analogous" claim between substrate dependence and dualism conflates physics-specific and non-physics claims. The "concession convergence" framing overstates the parallel. Needs explicit qualification: both share a negative thesis (abstract function is insufficient) but diverge on what fills the gap. Also address the unengaged "just physics" objection. See pessimistic-2026-04-15b.md Issue 2.
+- **Output**: obsidian/concepts/biological-computationalism.md
+
+Task context:
+Pessimistic review found the "structurally analogous" claim between substrate dependence and dualism conflates physics-specific and non-physics claims. The "concession convergence" framing overstates the parallel. Needs explicit qualification: both share a negative thesis (abstract function is insufficient) but diverge on what fills the gap. Also address the unengaged "just physics" objection. See pessimistic-2026-04-15b.md Issue 2.
 
 ### ✓ 2026-04-15: Integrate consciousness-epistemology-extended-cognition.md into site navigation
 - **Type**: integrate-orphan
