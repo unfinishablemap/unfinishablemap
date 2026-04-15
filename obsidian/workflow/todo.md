@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Update references to coalesced temporal consciousness articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce created topics/temporal-consciousness-structure-and-agency.md from temporal-structure-of-consciousness.md and phenomenology-of-temporal-consciousness-and-agency.md. ~30 active content files reference the archived articles and need wikilinks updated. Key files: consciousness-and-the-ontology-of-temporal-becoming.md, consciousness-and-memory.md, the-binding-problem-a-systematic-treatment.md, temporal-consciousness.md, time-collapse-and-agency.md, bergson-and-duration.md, non-temporal-consciousness.md, apex/time-consciousness-growing-block.md, and others.
+- **Source**: coalesce
+- **Generated**: 2026-04-15
+
 ### P2: Integrate metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending

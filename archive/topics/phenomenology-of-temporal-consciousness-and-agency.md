@@ -44,6 +44,11 @@ last_curated: null
 coalesced_from:
   - "/topics/phenomenology-of-temporal-attention/"
   - "/topics/phenomenology-of-temporal-selection/"
+archived: true
+archived_date: 2026-04-15T08:12:00+00:00
+superseded_by: "/topics/temporal-consciousness-structure-and-agency/"
+archive_reason: "Coalesced into Temporal Consciousness: Structure and Agency"
+original_path: "/topics/phenomenology-of-temporal-consciousness-and-agency/"
 ---
 
 Attention does not merely select *what* we experience—it shapes *when* and *how long* we experience it. Consciousness selects not only *what* to do but *when* to do it. The Unfinishable Map argues that these two dimensions—temporal attention (how time feels under different modes of awareness) and temporal selection (how consciousness acts within temporal flow)—are complementary faces of a single phenomenon: consciousness as irreducible temporal agent. Neither dimension reduces to physical timing mechanisms. No clock runs faster when you concentrate. No computational timer captures the gathered urgency of a kairos moment—the felt structure of timing windows where "not yet," "now," and "too late" reveal agency operating within the temporal manifold. The gap between objective and experienced time reopens the hard problem at the temporal level, where it proves especially resistant to materialist dissolution.

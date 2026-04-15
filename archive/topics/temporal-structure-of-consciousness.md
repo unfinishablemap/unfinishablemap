@@ -60,6 +60,11 @@ coalesced_from:
   - "/topics/phenomenology-of-temporal-agency/"
   - "/topics/consciousness-and-temporal-integration/"
   - "/topics/temporal-constitution-and-consciousness/"
+archived: true
+archived_date: 2026-04-15T08:12:00+00:00
+superseded_by: "/topics/temporal-consciousness-structure-and-agency/"
+archive_reason: "Coalesced into Temporal Consciousness: Structure and Agency"
+original_path: "/topics/temporal-structure-of-consciousness/"
 ---
 
 Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. Time's direction may require consciousness—the arrow distinguishing past from future may emerge through conscious observation. The Unfinishable Map explores both directions of this relationship, finding that neither consciousness nor time can be understood without the other.

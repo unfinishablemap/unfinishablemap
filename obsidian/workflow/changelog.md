@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 08:12 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/temporal-structure-of-consciousness]], [[topics/phenomenology-of-temporal-consciousness-and-agency]]
+- **Target**: [[topics/temporal-consciousness-structure-and-agency]]
+- **Archived**: archive/topics/temporal-structure-of-consciousness.md, archive/topics/phenomenology-of-temporal-consciousness-and-agency.md
+- **References to review**: ~30 active content files reference archived articles
+
 ## 2026-04-15 07:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-linguistic-failure]]
