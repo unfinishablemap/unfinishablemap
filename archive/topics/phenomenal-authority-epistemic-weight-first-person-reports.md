@@ -41,8 +41,8 @@ last_curated:
 last_deep_review: 2026-03-29T19:36:00+00:00
 archived: true
 archived_date: 2026-03-29T21:39:00+00:00
-superseded_by: "/topics/phenomenal-authority-and-introspective-evidence/"
-archive_reason: "Coalesced into Phenomenal Authority and Introspective Evidence"
+superseded_by: "/topics/phenomenal-authority-and-first-person-evidence/"
+archive_reason: "Coalesced into Phenomenal Authority and First-Person Evidence"
 original_path: "/topics/phenomenal-authority-epistemic-weight-first-person-reports/"
 ---
 

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-29
 **Article**: [The Epistemology of First-Person Evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-03-23 (3rd review)](/reviews/deep-review-2026-03-23c-epistemology-of-first-person-evidence/)
-**Review context**: Cross-review following publication of [Phenomenal Authority and the Epistemic Weight of First-Person Reports](/topics/phenomenal-authority-and-introspective-evidence/)
+**Review context**: Cross-review following publication of [Phenomenal Authority and the Epistemic Weight of First-Person Reports](/topics/phenomenal-authority-and-first-person-evidence/)
 
 ## Pessimistic Analysis Summary
 
@@ -48,12 +48,12 @@ topics: []
 - Process/content distinction as calibration strategy
 
 ### Enhancements Made
-- Added cross-link to [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-and-introspective-evidence/) in related_articles frontmatter
+- Added cross-link to [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-and-first-person-evidence/) in related_articles frontmatter
 - Added inline wikilink to phenomenal authority article in the gradient of warranted trust section (where the "unstable middle ground" argument connects directly)
 - Added Further Reading entry with descriptive text
 
 ### Cross-links Added
-- [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-and-introspective-evidence/)
+- [phenomenal-authority-epistemic-weight-first-person-reports](/topics/phenomenal-authority-and-first-person-evidence/)
 
 ## Complementarity Analysis
 

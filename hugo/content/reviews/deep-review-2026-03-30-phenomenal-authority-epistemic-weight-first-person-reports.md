@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-30
-**Article**: [Phenomenal Authority and the Epistemic Weight of First-Person Reports](/topics/phenomenal-authority-and-introspective-evidence/)
+**Article**: [Phenomenal Authority and the Epistemic Weight of First-Person Reports](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-03-29](/reviews/deep-review-2026-03-29-phenomenal-authority-epistemic-weight-first-person-reports/)
 
 ## Review Outcome: Redirected to Integration

@@ -3,7 +3,7 @@ ai_contribution: 100
 ai_generated_date: 2026-03-29
 ai_modified: 2026-03-29 19:36:00+00:00
 ai_system: claude-opus-4-6
-archive_reason: Coalesced into Phenomenal Authority and Introspective Evidence
+archive_reason: Coalesced into Phenomenal Authority and First-Person Evidence
 archived: true
 archived_date: 2026-03-29 21:39:00+00:00
 author: null
@@ -40,7 +40,7 @@ related_articles:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenal-concepts-as-materialist-response]]'
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
-superseded_by: /topics/phenomenal-authority-and-introspective-evidence/
+superseded_by: /topics/phenomenal-authority-and-first-person-evidence/
 title: Phenomenal Authority and the Epistemic Weight of First-Person Reports
 topics:
 - '[[hard-problem-of-consciousness]]'

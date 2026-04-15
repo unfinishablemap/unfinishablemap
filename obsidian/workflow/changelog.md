@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 07:11 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenal-authority-epistemic-weight-first-person-reports (archived)
+- **Reason**: File was coalesced through two stages into [[topics/phenomenal-authority-and-first-person-evidence]] (active successor, 59 inbound links). Fixed stale `superseded_by` redirect pointing to intermediate archived article.
+- **Output**: [[reviews/deep-review-2026-04-15-phenomenal-authority-epistemic-weight-first-person-reports]]
+
 ## 2026-04-15 06:57 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
 - **Section surveyed**: topics/ (232/230, over cap)

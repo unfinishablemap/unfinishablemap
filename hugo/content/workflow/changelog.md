@@ -9,6 +9,26 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 06:57 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section surveyed**: topics/ (232/230, over cap)
+- **Clusters examined**: phenomenology (4 articles), pragmatism (3), probability (2), metaphysics (4), social/intersubjective (3)
+- **Reason**: After five search iterations, all candidate clusters proved well-differentiated. The site has undergone extensive prior coalescing; remaining articles cover distinct philosophical territory.
+
+## 2026-04-15 06:41 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: stochastic-amplification-and-neural-selection (archived)
+- **Reason**: File was coalesced into [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) on 2026-03-29 and archived. No obsidian source to review. Orphan status is expected for archived content.
+
+## 2026-04-15 06:26 UTC - deep-review
+- **Status**: Success
+- **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Word count**: 1419 → 1607 (+188)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (no IIT engagement, vague empirical predictions, missing cross-link in frontmatter)
+- **Enhancements made**: 3 (IIT paragraph, falsifiability paragraph, interactionist-dualism cross-link)
+- **Output**: [deep-review-2026-04-15-universal-coupling-response](/reviews/deep-review-2026-04-15-universal-coupling-response/)
+
 ## 2026-04-15 06:13 UTC - deep-review
 - **Status**: Success
 - **File**: [numinous-void](/voids/numinous-void/)
