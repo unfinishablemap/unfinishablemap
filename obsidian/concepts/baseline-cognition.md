@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-28T02:27:00+00:00
+ai_modified: 2026-04-15T08:41:00+00:00
 last_deep_review: 2026-03-26T11:32:00+00:00
 draft: false
 topics:
@@ -101,7 +101,7 @@ If [[working-memory]] depends on conscious access (as [[global-workspace-theory|
 
 ### Declarative Metacognition
 
-Procedural metacognition ("I feel uncertain" → seek information) is present in great apes. Declarative metacognition ("I *know* that I don't know" → representing the knowledge state itself) is limited or absent. This parallels the [[working-memory#The Maintenance/Manipulation Distinction|maintenance/manipulation distinction]]: maintaining information can proceed unconsciously, but *manipulating* it—taking beliefs as objects of thought—requires conscious reactivation.
+Procedural metacognition ("I feel uncertain" → seek information) is present in great apes. Declarative metacognition ("I *know* that I don't know" → representing the knowledge state itself) is limited or absent. The boundary between these—the [[metarepresentation-threshold]]—marks where consciousness becomes causally indispensable. This parallels the [[working-memory#The Maintenance/Manipulation Distinction|maintenance/manipulation distinction]]: maintaining information can proceed unconsciously, but *manipulating* it—taking beliefs as objects of thought—requires conscious reactivation.
 
 ### The Jourdain Hypothesis
 

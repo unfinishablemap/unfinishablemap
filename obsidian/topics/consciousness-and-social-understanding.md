@@ -4,7 +4,7 @@ description: "Genuine social understanding—grasping other minds as minds, buil
 created: 2026-02-15
 modified: 2026-03-26
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-15T08:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ Three candidate explanations deserve consideration: expanded working memory and 
 
 ## Metarepresentation and the Social Threshold
 
-[[metacognition|Metarepresentation]] — representing mental states *as* mental states — marks the threshold where consciousness becomes necessary. Consider the difference between two kinds of social competence:
+[[metacognition|Metarepresentation]] — representing mental states *as* mental states — marks the [[metarepresentation-threshold|threshold where consciousness becomes necessary]]. Consider the difference between two kinds of social competence:
 
 **Behavioural tracking**: "When she sees food and no dominant is watching, she takes it." This correlates observable features with observable outcomes. It requires no understanding of minds, only of patterns.
 

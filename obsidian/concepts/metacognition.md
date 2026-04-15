@@ -4,7 +4,7 @@ description: "Metacognition and metarepresentation are cognitive tools conscious
 created: 2026-01-18
 modified: 2026-02-21
 human_modified: null
-ai_modified: 2026-03-28T02:27:00+00:00
+ai_modified: 2026-04-15T08:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -128,7 +128,7 @@ The [[jourdain-hypothesis|Jourdain Hypothesis]] (Whiten 2015) captures a crucial
 
 A chimpanzee might *feel* uncertain and seek more information, but may not represent that uncertainty *as* uncertainty. Evidence includes: great ape traditions show stability but little cumulative improvement; great apes rarely teach actively (which requires knowing you know something the learner doesn't); tip-of-the-tongue assessment of unretrieved knowledge has no documented analogue in great apes.
 
-This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is widespread in the animal kingdom; metarepresentation may require the expanded phenomenal workspace of human consciousness, particularly the [[working-memory]] capacity to hold multiple representational levels simultaneously. The Jourdain transition—from procedural to declarative—may mark the boundary between [[baseline-cognition|baseline]] and consciousness-amplified cognition. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] article situates this transition within a broader pattern: the shift from procedural to declarative metacognition is one of several consciousness-dependent capacities that appear together at a specific point in cognitive evolution.
+This dissociation—metacognition without metarepresentation—reinforces the Map's framework. Metacognition is widespread in the animal kingdom; metarepresentation may require the expanded phenomenal workspace of human consciousness, particularly the [[working-memory]] capacity to hold multiple representational levels simultaneously. The Jourdain transition—from procedural to declarative—may mark the [[metarepresentation-threshold|metarepresentation threshold]], the boundary between [[baseline-cognition|baseline]] and consciousness-amplified cognition. The [[consciousness-and-cognitive-distinctiveness|consciousness threshold]] article situates this transition within a broader pattern: the shift from procedural to declarative metacognition is one of several consciousness-dependent capacities that appear together at a specific point in cognitive evolution.
 
 [[teaching-as-metarepresentation|Teaching]] serves as a paradigm case. It requires simultaneously maintaining nested representational levels: knowing something, knowing that you know, representing the learner's knowledge state, and adjusting behaviour to bridge the gap. Great apes rarely if ever teach in this sense—learning happens through tolerated scrounging rather than deliberate transmission, suggesting metarepresentation is the limiting factor.
 

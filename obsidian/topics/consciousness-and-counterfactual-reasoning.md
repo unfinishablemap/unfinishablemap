@@ -4,7 +4,7 @@ description: "Counterfactual reasoning—imagining what isn't—reveals consciou
 created: 2026-02-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-15T08:41:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -47,7 +47,7 @@ Counterfactual reasoning requires holding two incompatible representations simul
 
 This dual representation has specific cognitive demands:
 
-**Explicit negation**: The counterfactual premise must be marked as non-actual. The mind must represent "not-P" while reasoning within a frame where P obtains. This requires metarepresentation—representing one's own representations as bearing a particular status (actual vs. imagined).
+**Explicit negation**: The counterfactual premise must be marked as non-actual. The mind must represent "not-P" while reasoning within a frame where P obtains. This requires [[metarepresentation-threshold|metarepresentation]]—representing one's own representations as bearing a particular status (actual vs. imagined).
 
 **Causal modelling**: Tracing consequences within a counterfactual frame requires understanding causal structure, not merely statistical association. "If the glass hadn't been pushed, it wouldn't have fallen" requires grasping that pushing caused falling, not merely that pushing and falling co-occurred. This causal grasp seems to require something beyond pattern extraction from observed regularities.
 

@@ -4,9 +4,9 @@ description: "The boundary between procedural metacognition and declarative meta
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-14T08:57:00+00:00
+ai_modified: 2026-04-15T08:41:00+00:00
 draft: false
-last_deep_review: 2026-04-14T08:57:00+00:00
+last_deep_review: 2026-04-15T08:41:00+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[consciousness-independent-baseline-cognition-2026-01-21]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
   - "[[phenomenology-of-intellectual-life]]"
+  - "[[consciousness-and-cognitive-distinctiveness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate metarepresentation-threshold.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the threshold at which a system represents its own representations. Add cross-references from metarepresentation, consciousness-and-the-authority-of-logic, teaching-as-metarepresentation, and jourdain-hypothesis.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P2: Integrate universal-coupling-response.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2054,6 +2047,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate metarepresentation-threshold.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the threshold at which a system represents its own representations. Add cross-references from metarepresentation, consciousness-and-the-authority-of-logic, teaching-as-metarepresentation, and jourdain-hypothesis.
+- **Output**: obsidian/concepts/metarepresentation-threshold.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Update references to coalesced temporal consciousness articles
 - **Type**: cross-review
