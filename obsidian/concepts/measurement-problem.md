@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-24T06:33:00+00:00
+ai_modified: 2026-04-15T15:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,6 +47,7 @@ related_articles:
   - "[[physics-as-disclosure]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[post-decoherence-selection-programme]]"
+  - "[[indexical-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -79,7 +80,7 @@ Quantum systems evolve deterministically via the Schrödinger equation, forming 
 
 The standard measurement problem asks: why does the quantum system exhibit a definite outcome rather than remaining in superposition? But even granting definite outcomes, a deeper question remains: why does *this* consciousness experience *this* particular result?
 
-This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [[qualia|qualitative character]] that no functional or structural description can convey. See [[quantum-measurement-and-consciousness]] for extended treatment of this structural parallel and its implications for the Map's framework.
+This [[indexical-identity-quantum-measurement|indexical gap]] connects the measurement problem to the [[hard-problem-of-consciousness]]. Both share a structure: third-person descriptions fail to capture first-person facts—facts about *what it is like* to be a particular experiencing subject, the [[qualia|qualitative character]] that no functional or structural description can convey. The [[indexical-void]] names this cognitive boundary in its most general form: the question "why am I *this* one?" resists every available method of answer. See [[quantum-measurement-and-consciousness]] for extended treatment of this structural parallel and its implications for the Map's framework.
 
 Functionalists contest this, holding that "why am I this one?" confuses indexical reference with substantial identity. But this analysis, correct for the *reference* of "I," doesn't dissolve the phenomenon: *something it is like* to be this experiencer exists, and asking what makes that fact true is legitimate. Insisting no such fact exists beyond functional states denies the explanandum rather than explaining it. The argument that this structural parallel constitutes identity—that the measurement problem is an instance of the hard problem—is developed in [[quantum-measurement-and-consciousness|The Measurement Problem as Hard Problem]].
 
@@ -201,6 +202,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 
 - [[quantum-measurement-and-consciousness]] — Why definite outcomes occur and where consciousness might participate
 - [[indexical-identity-quantum-measurement]] — The indexical gap all interpretations leave untreated
+- [[indexical-void]] — The broader cognitive boundary where first-person identity resists explanation
 - [[quantum-probability-consciousness]] — Born probabilities as interface structure
 - [[concepts/many-worlds]] — Arguments against MWI
 - [[quantum-consciousness]] — Mechanisms for mind-matter interaction

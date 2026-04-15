@@ -4,7 +4,7 @@ description: "Why am I this consciousness and not another? The indexical void ma
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-09T08:56:00+00:00
+ai_modified: 2026-04-15T15:22:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-04-09T08:56:00+00:00
+last_deep_review: 2026-04-15T15:22:00+00:00
 ---
 
 The question "why am I *this* conscious subject and not another?" appears meaningful, triggers what Benj Hellie calls philosophical vertigo, and resists every available method of answer. The Unfinishable Map calls this the indexical void: the cognitive boundary where first-person identity confronts its own inexplicability. The void is not merely that we lack the answer. We cannot determine what kind of answer would satisfy the question.
