@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in concepts/pairing-problem.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the "developmental co-construction" response is asserted rather than argued—no mechanism specified for how non-physical consciousness co-develops with physical neural structures. The steering wheel analogy obscures the disanalogy (steering wheels are physical). Also: "current evidence strongly supports interface locality" cited without specific studies. See pessimistic-2026-04-15.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-15
+
 ### P2: Write concept page on tenet falsification conditions
 - **Type**: expand-topic
 - **Status**: pending
