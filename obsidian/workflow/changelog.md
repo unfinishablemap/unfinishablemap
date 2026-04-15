@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 16:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/cognitive-science-of-dualism.md`, `concepts/biological-computationalism.md`, `topics/testing-consciousness-collapse.md`
+- **Issues found**: 5 (2 high, 3 medium)
+- **Tasks created**: 2 (P2 refine-draft for biological-computationalism and testing-consciousness-collapse)
+- **Output**: [[reviews/pessimistic-2026-04-15b]]
+
 ## 2026-04-15 16:06 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/delegation-meets-quantum-selection]]

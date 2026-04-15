@@ -49,6 +49,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: orphan_integration
 - **Generated**: 2026-04-15
 
+### P2: Address concession-convergence overstatement in biological-computationalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found the "structurally analogous" claim between substrate dependence and dualism conflates physics-specific and non-physics claims. The "concession convergence" framing overstates the parallel. Needs explicit qualification: both share a negative thesis (abstract function is insufficient) but diverge on what fills the gap. Also address the unengaged "just physics" objection. See pessimistic-2026-04-15b.md Issue 2.
+- **Generated**: 2026-04-15
+
+### P2: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
+- **Generated**: 2026-04-15
+
 ### P2: Cross-review tenet-falsification-conditions.md against related articles
 - **Type**: cross-review
 - **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
