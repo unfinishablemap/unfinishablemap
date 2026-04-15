@@ -8,7 +8,7 @@ ai_modified: 2026-03-30T07:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[binding-problem]]"
@@ -123,7 +123,7 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 - [[observation-and-measurement-void]] — The general problem of consciousness investigating itself
 - [[bergson-and-duration]] — Bergson's case for indivisible temporal experience
 - [[unity-of-consciousness]] — Temporal unity as the diachronic dimension of conscious unity
-- [[temporal-structure-of-consciousness]] — The broader topic of how temporal structure constitutes experience
+- [[temporal-consciousness-structure-and-agency]] — The broader topic of how temporal structure constitutes experience
 - [[episodic-memory]] — The memory instance of capability division
 - [[process-philosophy]] — Whitehead's actual occasions and the process view of temporal experience
 - [[illusionism]] — The illusionist challenge to phenomenal continuity

@@ -28,7 +28,7 @@ concepts:
   - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-the-physics-of-information]]"
   - "[[predictive-processing-and-dualism]]"
   - "[[cognitive-integration-and-the-self]]"
@@ -179,7 +179,7 @@ The choice between identity and activity frameworks maps directly onto the Map's
 - [[interactionist-dualism]] — The Map's alternative framework
 - [[consciousness-selecting-neural-patterns]] — How consciousness might select among quantum possibilities in neural systems
 - [[consciousness-and-the-physics-of-information]] — Information as the interface between mind and matter
-- [[temporal-structure-of-consciousness]] — How consciousness binds moments into unified experience
+- [[temporal-consciousness-structure-and-agency]] — How consciousness binds moments into unified experience
 - [[predictive-processing-and-dualism]] — Predictive processing as neural machinery for conscious selection
 - [[binding-problem]] — Binding as a phenomenal rather than physical achievement
 - [[cognitive-integration-and-the-self]] — How integration constitutes the unified self

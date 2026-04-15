@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[dualist-perception]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenology-of-conceptual-change]]"
@@ -78,7 +78,7 @@ The enactivist account captures something important: perception is active, not p
 
 Husserl's analysis provides tools for understanding constancy from the first-person perspective. When perceiving a plate from an angle, consciousness constitutes it as circular *through* the trapezoidal presentation. The trapezoid is not corrected or overridden; it is experienced *as* a perspective on circularity. Husserl called this "adumbration" (*Abschattung*) — the object gives itself through partial profiles, and consciousness grasps the invariant object across its varying appearances.
 
-This matters because it shows that perceptual constancy is not a post-processing correction applied to raw sensory data. The constancy is built into the intentional structure of experience itself. We do not first see a trapezoid and then infer a circle. We see the circle *in* the trapezoid. The experience is unified from the start, connecting directly to the [[binding-problem|binding problem]] and to [[temporal-structure-of-consciousness|temporal integration]].
+This matters because it shows that perceptual constancy is not a post-processing correction applied to raw sensory data. The constancy is built into the intentional structure of experience itself. We do not first see a trapezoid and then infer a circle. We see the circle *in* the trapezoid. The experience is unified from the start, connecting directly to the [[binding-problem|binding problem]] and to [[temporal-consciousness-structure-and-agency|temporal integration]].
 
 ### Constancy and Attention
 
@@ -149,7 +149,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[dualist-perception]] — Perception as the paradigm case for dualism
 - [[attention-and-the-consciousness-interface]] — How attention mediates consciousness and neural processing
 - [[the-binding-problem-a-systematic-treatment]] — The broader problem of phenomenal unity
-- [[temporal-structure-of-consciousness]] — Temporal integration in experience
+- [[temporal-consciousness-structure-and-agency]] — Temporal integration in experience
 - [[consciousness-and-skill-acquisition]] — Skill acquisition, deliberate practice, and neural evidence for conscious engagement in plasticity
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
 - [[phenomenology-of-conceptual-change]] — The cognitive parallel: how frameworks transform

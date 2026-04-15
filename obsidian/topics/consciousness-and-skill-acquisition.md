@@ -43,10 +43,10 @@ related_articles:
   - "[[consciousness-as-perceptual-architect]]"
   - "[[phenomenology-of-conceptual-change]]"
   - "[[phenomenology-of-returning-attention]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[contemplative-path]]"
   - "[[dopamine-and-the-unified-interface]]"
-  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[epiphenomenalism]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]"
@@ -117,7 +117,7 @@ Tool incorporation demonstrates this: Iriki et al. (1996) showed that after maca
 
 Flow — total absorption in a well-matched challenge — represents what skill makes possible at its peak. Effort vanishes, yet the agent responds adaptively at peak capacity. Flow reveals that effort phenomenology tracks the *difficulty* of conscious selection, not the *presence* of it.
 
-Csikszentmihalyi's research (1975, 1990) identified flow's convergent profile: **absorption**, **effortlessness** (the same performer would [[choking-phenomenon-mental-causation|choke]] if they tried to monitor explicitly), **altered temporality** ([[temporal-consciousness|temporal experience]] becomes elastic), **loss of reflective self-awareness** while pre-reflective awareness remains, **intrinsic reward**, and **control without controlling**. Flow's altered temporality connects to the [[phenomenology-of-temporal-consciousness-and-agency|temporal selection]] that skilled performance requires—sensing the right moment and acting from within temporal flow.
+Csikszentmihalyi's research (1975, 1990) identified flow's convergent profile: **absorption**, **effortlessness** (the same performer would [[choking-phenomenon-mental-causation|choke]] if they tried to monitor explicitly), **altered temporality** ([[temporal-consciousness|temporal experience]] becomes elastic), **loss of reflective self-awareness** while pre-reflective awareness remains, **intrinsic reward**, and **control without controlling**. Flow's altered temporality connects to the [[temporal-consciousness-structure-and-agency|temporal selection]] that skilled performance requires—sensing the right moment and acting from within temporal flow.
 
 The claim that flow is simply [[implicit-memory|automatised processing]] faces several problems. The jazz musician in flow generates novel phrases responsive to an unrepeatable context—straining standard accounts of procedural memory. Conscious re-engagement *destroys* flow performance while leaving unskilled performance unaffected. Subjects report flow as among the most intensely conscious moments of their lives. And flow produces rich episodic memories resembling consciously encoded episodes, not fragmented high-arousal traces.
 

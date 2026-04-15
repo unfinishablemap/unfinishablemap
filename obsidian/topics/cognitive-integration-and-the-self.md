@@ -17,7 +17,7 @@ concepts:
   - "[[haecceity]]"
 related_articles:
   - "[[binding-problem]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[temporal-consciousness]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
   - "[[consciousness-and-memory]]"
@@ -204,7 +204,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [[binding-problem|The Binding Problem]] — How distributed phenomenal elements combine into unified experience
 - [[temporal-consciousness|Temporal Consciousness]] — The structure of experience across time
 - [[personal-identity|Personal Identity]] — What makes you the same person across change
-- [[temporal-structure-of-consciousness|Consciousness and Temporal Integration]] — How consciousness binds across extended time scales
+- [[temporal-consciousness-structure-and-agency|Consciousness and Temporal Integration]] — How consciousness binds across extended time scales
 - [[diachronic-agency-and-personal-narrative|Diachronic Agency and Personal Narrative]] — Agency extended across the lifespan
 - [[self-and-self-consciousness|Self and Consciousness]] — Relationship between consciousness and selfhood
 - [[the-self-minimal-narrative-and-substantial|The Self: Minimal, Narrative, and Substantial]] — Three-layered model of selfhood

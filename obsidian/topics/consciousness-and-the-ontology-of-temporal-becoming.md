@@ -30,7 +30,7 @@ concepts:
   - "[[conservation-laws-and-mental-causation]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[growing-block-universe-and-consciousness]]"
   - "[[time-collapse-and-agency]]"
   - "[[bergson-and-duration]]"
@@ -144,7 +144,7 @@ Whitehead's [[process-philosophy|process metaphysics]] provides a framework wher
 
 ## Further Reading
 
-- [[temporal-structure-of-consciousness]] — Comprehensive treatment of the specious present, temporal binding, and disrupted integration
+- [[temporal-consciousness-structure-and-agency]] — Comprehensive treatment of the specious present, temporal binding, and disrupted integration
 - [[growing-block-universe-and-consciousness]] — The growing block as temporal metaphysics for consciousness
 - [[time-collapse-and-agency]] — Collapse, free will, and time's arrow
 - [[bergson-and-duration]] — Durée as irreducible temporal phenomenology

@@ -38,7 +38,7 @@ related_articles:
   - "[[tenets]]"
   - "[[concept-of-free-will]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
-  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[phenomenology-volitional-control-2026-03-20]]"
   - "[[control-theoretic-will]]"
@@ -69,7 +69,7 @@ Henri Bergson's concept of [[temporal-consciousness|durée]] illuminates this ph
 
 The transition from deliberation to decision has its own phenomenology. There is a characteristic *settling* when alternatives collapse to actuality. One moment the options are open; the next, one has become real while others fade to mere counterfactuals.
 
-This settling can be gradual (the preferred option gaining felt momentum) or sudden (alternatives equipoised until a discrete moment of actualisation). Both share the same structure: genuine openness followed by determinate actualisation. The [[phenomenology-of-temporal-consciousness-and-agency|phenomenology of temporal selection]] develops this further: deliberation maps onto "not yet," the kairos moment of "now," and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action — the mechanism is phenomenologically invisible. This is the [[causal-interface|causal interface void]]: we experience ourselves as causes but cannot access the interface that makes causation possible.
+This settling can be gradual (the preferred option gaining felt momentum) or sudden (alternatives equipoised until a discrete moment of actualisation). Both share the same structure: genuine openness followed by determinate actualisation. The [[temporal-consciousness-structure-and-agency|phenomenology of temporal selection]] develops this further: deliberation maps onto "not yet," the kairos moment of "now," and the irreversible closure of "too late." Yet in neither case can we observe *how* intention becomes action — the mechanism is phenomenologically invisible. This is the [[causal-interface|causal interface void]]: we experience ourselves as causes but cannot access the interface that makes causation possible.
 
 ## Authorship: The Sense of Agency
 

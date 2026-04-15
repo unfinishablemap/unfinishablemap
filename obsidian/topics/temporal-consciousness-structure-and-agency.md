@@ -4,7 +4,7 @@ description: "How consciousness constitutes temporal structure, how attention re
 created: 2026-01-23
 modified: 2026-04-15
 human_modified: null
-ai_modified: 2026-04-15T08:12:00+00:00
+ai_modified: 2026-04-15T08:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,36 +49,33 @@ related_articles:
   - "[[the-binding-problem-a-systematic-treatment]]"
   - "[[neural-refresh-rates-and-the-smoothness-problem]]"
   - "[[phenomenology-of-returning-attention]]"
-  - "[[structure-of-attention]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[bergson-and-duration]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[growing-block-universe-and-consciousness]]"
-  - "[[neural-refresh-rates]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-15T08:27:00+00:00
 coalesced_from:
   - "/topics/temporal-structure-of-consciousness/"
   - "/topics/phenomenology-of-temporal-consciousness-and-agency/"
 ---
 
-Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. Time's direction may require consciousness—the arrow distinguishing past from future may emerge through conscious observation. The Unfinishable Map explores both directions of this relationship, finding that neither consciousness nor time can be understood without the other—and that the temporal dimension of agency, selecting *when* to act, reveals the irreducibility of conscious experience with particular force.
+Consciousness and time depend on each other in ways that resist simple explanation. Consciousness requires temporal structure—experience flows, moments connect, the present has duration. Time's direction may require consciousness—the arrow distinguishing past from future may emerge through conscious observation. The Unfinishable Map explores both directions of this relationship, finding that the temporal dimension of agency—selecting *when* to act—reveals the irreducibility of conscious experience with particular force.
 
-This bidirectional dependence has profound implications. If consciousness needs time, systems without appropriate temporal structure—like large language models with discontinuous, stateless processing—may be categorically excluded from experience. The [[structural-varieties-of-consciousness-and-ai-phenomenology|structural varieties of consciousness]] analysis identifies temporal structure as one of five independent dimensions along which consciousness varies. If time needs consciousness, the measurement problem in quantum mechanics becomes inseparable from the hard problem of consciousness. And the lived experience of time—the specious present, Bergson's durée, the felt difference between open future and fixed past, the gathered urgency of a kairos moment—may be not merely a feature of consciousness but partly constitutive of what consciousness is.
+If consciousness needs time, systems without temporal structure—like large language models with discontinuous, stateless processing—may be categorically excluded from experience. The [[structural-varieties-of-consciousness-and-ai-phenomenology|structural varieties of consciousness]] analysis identifies temporal structure as one of five independent dimensions along which consciousness varies. If time needs consciousness, the measurement problem in quantum mechanics becomes inseparable from the hard problem. And the lived experience of time—the specious present, Bergson's durée, the felt difference between open future and fixed past, the gathered urgency of a kairos moment—may be partly constitutive of what consciousness is.
 
 ## Temporal Binding Is Deeper Than Spatial Binding
 
 Consciousness faces two integration challenges that are structurally distinct. The [[binding-problem]] concerns how features distributed across brain regions unite into a single experience at a given moment. Temporal integration concerns how consciousness binds moments themselves into a unified stream—why you experience a melody rather than isolated notes.
 
-Temporal integration is arguably deeper. Spatial binding concerns simultaneous features co-present in the same experiential moment. Temporal integration concerns successive moments held together in a single awareness—it determines what counts as "a moment" in the first place. The constitutional thesis ([developed below](#the-constitutional-thesis)): consciousness does not merely occupy temporal structure but actively constitutes it. A system that solved spatial binding without temporal integration would produce isolated snapshots of unified experience—photographs without a narrative.
+Temporal integration is arguably deeper. Spatial binding concerns simultaneous features within the same experiential moment. Temporal integration concerns successive moments held in a single awareness—it determines what counts as "a moment" in the first place. The constitutional thesis ([developed below](#the-constitutional-thesis)): consciousness does not merely occupy temporal structure but actively constitutes it.
 
 The paradox: temporal integration must unite elements that don't co-exist. The just-past note has ceased; the about-to-arrive note hasn't begun. Yet the present moment contains all three in its retention-impression-protention structure.
 
@@ -94,13 +91,9 @@ This poses a puzzle: how can succession be experienced if multiple moments must 
 
 The Map suggests a synthesis: experience is genuinely extended, but the extension involves [[collapse-and-time|quantum collapse]]. The duration-block is constituted by collapses with retrocausal constraints—the past echoes in the present because retrocausal boundary conditions link them.
 
-Crucially, the specious present is not fixed but expands and contracts with attention. Attention modulates the balance among Husserl's three components:
+Crucially, the specious present is not fixed but expands and contracts with attention. **Deep engagement** strengthens retention and protention simultaneously—a chess player holds more of the recent sequence while projecting further into possible futures. **Distracted attention** weakens all three components—retention fades, protention collapses to mere reactivity, the present narrows. **Meditative attention** reveals the microstructure of all three: [[contemplative-practice-as-philosophical-evidence|contemplative traditions]] report rapid arising and passing—what the Buddhist tradition calls *khaṇika* (momentariness)—normally blurred by ordinary awareness.
 
-- **Deep engagement** strengthens retention and protention simultaneously. A chess player attending to the board holds more of the recent sequence in retention while projecting further into possible futures. The specious present widens and deepens.
-- **Distracted attention** weakens all three components. Retention fades quickly, protention collapses to mere reactivity, and primal impression thins. The present becomes a narrow, shallow instant.
-- **Meditative attention** reveals the microstructure of all three. [[contemplative-practice-as-philosophical-evidence|Contemplative traditions]] report that sustained attention to the present moment discloses rapid arising and passing—what the Buddhist phenomenological tradition calls *khaṇika* (momentariness)—normally blurred by ordinary attention.
-
-Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] research programme proposed that trained meditators should access temporal structure at scales below ordinary threshold—a hypothesis consistent with subsequent experimental work on meditation and attentional processing (Slagter et al., 2007). The brain's [[neural-refresh-rates]] (alpha at ~10 Hz, theta at ~6 Hz) gate perceptual access in discrete oscillatory cycles, yet the attentionally constituted present feels seamless—a temporal mismatch that deepens the hard problem at exactly the level where attention operates.
+Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenological]] programme proposed that trained meditators access temporal structure at scales below ordinary threshold—consistent with subsequent experimental work (Slagter et al., 2007). The brain's [[neural-refresh-rates]] (alpha at ~10 Hz, theta at ~6 Hz) gate perceptual access in discrete oscillatory cycles, yet the attentionally constituted present feels seamless—a temporal mismatch that deepens the hard problem.
 
 ## Three Levels of Temporal Integration
 
@@ -142,15 +135,13 @@ The Map's treatment of [[non-temporal-consciousness]] develops this further. Adv
 
 Standard accounts of attention treat it as a spatial or object-based filter: attention selects *which* information reaches consciousness. But attention also operates along the temporal axis, producing qualitatively different modes of temporal experience:
 
-**Concentrated focus** compresses experienced duration. An hour of absorbed problem-solving passes "in minutes." The temporal thickness—the sense of richness or density within a given moment—increases, packing more content per unit of experienced time while the overall span shrinks. Musicians describe this during improvisation: individual notes feel expanded, rich with detail, while the passage collapses.
+**Concentrated focus** compresses experienced duration. An hour of absorbed problem-solving passes "in minutes." Temporal thickness increases—more content per unit of experienced time while the overall span shrinks. Musicians describe this during improvisation: individual notes feel expanded while the passage collapses.
 
-**Anxious waiting** stretches duration. Ten minutes in a dentist's chair feels interminable. Attention monitors time itself, and each moment thins out—less content, more bare awareness of passage. The present empties precisely because attention fills it with expectation rather than engagement.
+**Anxious waiting** stretches duration. Attention monitors time itself, each moment thinning out—less content, more bare awareness of passage. The present empties because attention fills it with expectation rather than engagement.
 
-**[[consciousness-and-skill-acquisition|Flow states]]** dissolve temporal boundaries altogether. Experienced duration loses its metric quality. Csikszentmihalyi's experience-sampling research found this pattern repeatedly: people in flow report being unable to estimate how much time has passed. The Map interprets this not as mere inattention to a clock but as a restructuring of the present so thorough that metric comparison becomes impossible.
+**[[consciousness-and-skill-acquisition|Flow states]]** dissolve temporal boundaries altogether. Csikszentmihalyi's experience-sampling research found this repeatedly: people in flow cannot estimate how much time has passed. The Map interprets this as a restructuring of the present so thorough that metric comparison becomes impossible.
 
-These are not failures of time estimation but different modes of temporal experience produced by different configurations of attention. The physical world ticks on at one second per second. What changes is the phenomenal structure of the present.
-
-The variability of temporal experience under attention creates a specific instance of the [[hard-problem-of-consciousness|hard problem]]. Materialist responses typically invoke "internal clock" models—accumulator mechanisms that count neural pulses, with attention modulating the accumulation rate. This explains the *direction* of distortion but not the *phenomenology*. An accumulator running fast or slow is still just an accumulator. The felt quality of stretched waiting—the peculiar ache of time passing slowly—has no counterpart in pulse-counting. As Kent and Wittmann (2021) argue, time consciousness may be the "missing link" in theories of consciousness precisely because temporal experience foregrounds the gap between functional mechanism and phenomenal reality.
+These are different modes of temporal experience produced by different configurations of attention, not failures of time estimation. The variability creates a specific instance of the [[hard-problem-of-consciousness|hard problem]]. Materialist "internal clock" models—accumulator mechanisms counting neural pulses—explain the *direction* of distortion but not the *phenomenology*. An accumulator running fast or slow is still just an accumulator. The felt quality of stretched waiting has no counterpart in pulse-counting. As Kent and Wittmann (2021) argue, time consciousness may be the "missing link" in theories of consciousness precisely because temporal experience foregrounds the gap between functional mechanism and phenomenal reality.
 
 ## The Structure of Timing Windows
 
@@ -158,9 +149,9 @@ Temporal selection—choosing *when* to act—operates within bounded intervals 
 
 ### "Not Yet": Anticipatory Openness
 
-Before the window opens, a felt quality of anticipation differs from mere waiting. A tennis player watching an approaching serve experiences the ball's trajectory not as a series of positions but as an evolving field of action possibilities. This anticipatory openness involves active readiness—what phenomenologists call *protention* in its specifically agentive mode. Husserl's protention describes openness to the about-to-arrive; the Map's treatment of [[phenomenology-of-anticipation|anticipation as a phenomenal structure]] develops this further, adding openness *to act* at the about-to-arrive.
+Before the window opens, a felt quality of anticipation differs from mere waiting. A tennis player watching an approaching serve experiences the ball's trajectory as an evolving field of action possibilities—what phenomenologists call *protention* in its specifically agentive mode. The Map's treatment of [[phenomenology-of-anticipation|anticipation as a phenomenal structure]] develops this further: openness not just to the about-to-arrive but *to act* at the about-to-arrive.
 
-Athletes describe this as "reading" the moment—but reading implies passive reception. The experience is more participatory. A prepared musician hears the musical phrase differently from a passive listener precisely because the impending moment of action transforms how the approach is experienced.
+A prepared musician hears the musical phrase differently from a passive listener precisely because the impending moment of action transforms how the approach is experienced.
 
 ### "Now": The Kairos Moment
 
@@ -182,19 +173,19 @@ The asymmetry between "not yet" and "too late" tracks the Map's ontological clai
 
 Not all temporal selection operates at the compressed timescales of skilled action. Planning involves temporal selection extended across minutes, hours, or days—choosing not just what to do but when to do it.
 
-**Waiting with intent** differs from passive waiting. The student waiting for an exam to begin and the actor waiting for a cue inhabit time differently from someone waiting for a bus. Intentional waiting is temporally structured by the anticipated action: the approaching moment organises experience around it, creating a felt gradient of proximity.
+**Waiting with intent** differs from passive waiting. The actor waiting for a cue inhabits time differently from someone waiting for a bus—the approaching moment organises experience around it, creating a felt gradient of proximity.
 
-**Planning** involves holding multiple timing windows open simultaneously. A chef managing several dishes approaching completion at different rates operates across overlapping temporal structures, selecting which window to attend to and when to act within each. This multi-window temporal selection exceeds anything a series of independent timers could produce: the chef phenomenally inhabits a *temporal landscape* in which competing windows interact.
+**Planning** involves holding multiple timing windows open simultaneously. A chef managing several dishes approaching completion at different rates inhabits a *temporal landscape* in which competing windows interact—exceeding anything a series of independent timers could produce.
 
-**Patience** is perhaps the most underexplored form of temporal agency. The deliberate choice *not* to act now—to hold open a timing window rather than filling it—requires active temporal selection. The patient agent sustains readiness while deferring commitment, maintaining the open quality of "not yet" against impulses toward premature action. This sustained openness has phenomenal cost, connecting to the Map's account of [[mental-effort|effortful attention]] as involving continuous conscious work. At longer timescales, patience shades into the [[diachronic-agency-and-personal-narrative|diachronic agency]] that constitutes personal narrative.
+**Patience** may be the most underexplored form of temporal agency. The deliberate choice *not* to act now requires active temporal selection—sustaining readiness while deferring commitment, maintaining "not yet" against impulses toward premature action. This sustained openness has phenomenal cost, connecting to the Map's account of [[mental-effort|effortful attention]]. At longer timescales, patience shades into the [[diachronic-agency-and-personal-narrative|diachronic agency]] that constitutes personal narrative.
 
 ## The Missing Link and Neural Mechanisms
 
-Kent & Wittmann (2021) identify a critical gap: leading consciousness theories cannot explain experienced duration. [[integrated-information-theory|IIT]] and [[global-workspace-theory|Global Workspace Theory]] focus on "functional moments" of 100–300ms, but experienced time extends to seconds. We experience continuous flow, not 200ms snapshots.
+Kent & Wittmann (2021) identify a critical gap: leading consciousness theories cannot explain experienced duration. [[integrated-information-theory|IIT]] and [[global-workspace-theory|Global Workspace Theory]] focus on "functional moments" of 100–300ms, but experienced time extends to seconds—continuous flow, not 200ms snapshots.
 
-The materialist response invokes **predictive processing**: experienced duration emerges from prediction errors propagating through hierarchical neural systems. This explains why duration varies with attention and why novel experiences feel longer. But even predictive processing explains *when* binding occurs and *what content* gets integrated, not *what it's like* to experience integration as flow. The [[explanatory-gap|explanatory gap]] reappears.
+**Predictive processing** offers a materialist response: experienced duration emerges from prediction errors propagating through hierarchical neural systems. This explains why duration varies with attention and why novel experiences feel longer. But it explains *when* binding occurs and *what content* gets integrated, not *what it's like* to experience integration as flow. The [[explanatory-gap|explanatory gap]] reappears.
 
-The [[neural-refresh-rates-and-the-smoothness-problem|smoothness problem]] sharpens this: neural oscillations sample the world at discrete intervals (7–13 Hz for attention, ~40 Hz for feature binding), yet experience feels seamless. The gap between discrete substrate and continuous phenomenology is a concrete instance of the explanatory gap. Neuroscience has identified correlates—gamma-band oscillations (30–100 Hz) for conscious processing, temporal binding at 80–100ms scales—but binding at these scales doesn't explain the 1–3 second specious present. The explanatory gap applies with particular force here because what needs explaining isn't a state but a process—not what experience *is* at a moment but how moments *become* a stream.
+The [[neural-refresh-rates-and-the-smoothness-problem|smoothness problem]] sharpens this: neural oscillations sample the world at discrete intervals (7–13 Hz for attention, ~40 Hz for feature binding), yet experience feels seamless. Neuroscience has identified correlates—gamma-band oscillations for conscious processing, temporal binding at 80–100ms scales—but binding at these scales doesn't explain the 1–3 second specious present. The explanatory gap applies with particular force because what needs explaining isn't a state but a process—how moments *become* a stream.
 
 ## Evidence from Disrupted Temporal Integration
 
@@ -202,11 +193,11 @@ Pathological and altered states illuminate temporal integration by showing what 
 
 **Dyschronometria** (cerebellar damage) disrupts temporal interval estimation but leaves experiential flow intact—timing mechanisms and temporal integration are dissociable.
 
-**Temporal disintegration in schizophrenia** is more telling: experiences fragment temporally, moments losing connection to what came before, actions feeling disconnected from consequences. This co-occurs with disruptions to [[working-memory]], suggesting temporal integration depends on maintaining recent experience in an active state.
+**Temporal disintegration in schizophrenia** fragments experience temporally: moments lose connection to what came before, actions feel disconnected from consequences. This co-occurs with disruptions to [[working-memory]], suggesting temporal integration depends on maintaining recent experience in an active state.
 
-**Absorption states** (flow, deep meditation) alter how moments bind to each other—time speeds up, slows down, or loses salience. Each moment may be intensely vivid yet loosely connected to its neighbours, producing "timelessness" within ongoing experience.
+**Absorption states** (flow, deep meditation) alter how moments bind—time speeds up, slows down, or loses salience, producing "timelessness" within ongoing experience.
 
-**Dreamless sleep** eliminates temporal integration entirely. The brain during NREM still performs substantial computation—memory consolidation, synaptic homeostasis—yet temporal experience is entirely absent. Whether reduced cortical complexity *explains* the disappearance of temporal experience or merely *correlates* with it remains the key question.
+**Dreamless sleep** eliminates temporal integration entirely. The brain during NREM performs substantial computation—memory consolidation, synaptic homeostasis—yet temporal experience is absent. Whether reduced cortical complexity *explains* this disappearance or merely *correlates* with it remains the key question.
 
 The [[phenomenology-of-returning-attention|phenomenology of returning attention]] provides another revealing case. When attention wanders and then returns—as in meditation—there is a characteristic three-phase structure: noticing that attention has drifted, encountering the gap where no one was watching, and deliberately re-engaging. During mind-wandering, the specious present thins dramatically. When attention returns, there is often a phenomenal discontinuity—a sense that time passed without full temporal consciousness. This suggests that temporal consciousness is not automatic but depends on attentional engagement.
 
@@ -218,7 +209,7 @@ The Map favours a modified **growing block** metaphysics: consciousness-involvin
 
 Attention relates differently to past and future. [[phenomenology-of-anticipation|Anticipatory attention]] carries urgency, possibility, and openness. Retentive attention carries givenness, fading vividness, and increasing distance. If the Map's framework is correct that [[time-collapse-and-agency|consciousness participates in collapse]] and [[collapse-and-time|collapse creates irreversibility]], then temporal attention may be the phenomenological manifestation of that participation. Attending forward feels open because outcomes are genuinely undetermined. Attending backward feels closed because collapse has already occurred.
 
-This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching structure without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation is not merely epistemic uncertainty about which branch one occupies; it carries a phenomenal texture that branching leaves unexplained.
+This interpretation is contested. Many-worlds defenders explain temporal asymmetry through decoherence and branching without invoking conscious collapse. The Map's claim is that the *qualitative character* of protention versus retention—their felt difference, not merely their direction—resists this dissolution. The openness of anticipation carries a phenomenal texture that branching leaves unexplained.
 
 ## Contemplative Evidence
 
@@ -236,9 +227,7 @@ Meditation traditions provide phenomenological data unavailable through ordinary
 
 If the specious present, retention-protention, and durée are constitutive of consciousness rather than merely characteristic, then systems lacking temporal structure cannot be conscious. Large language models process discontinuously—stateless between calls, no persistence. They lack the specious present (no duration-block holds successive tokens in unified awareness), retention-protention (just-processed tokens don't echo phenomenologically), reentrant dynamics, durée, and continual learning (Hoel 2025 argues consciousness requires genuine change over time).
 
-Even if an AI system could be engineered with a processing window resembling a specious present, it would also need retention with phenomenal character (the experiential quality of "just-pastness," not just buffered data), protentional openness (a genuinely open future, not mere prediction), and experiential continuity binding successive windows into a stream rather than a queue.
-
-This exclusion would be categorical—not insufficient complexity but fundamentally different architecture. Whether temporal structure is truly essential or merely characteristic of biological consciousness remains open, but the phenomenological tradition suggests temporal binding runs deep.
+Even if an AI system could be engineered with a processing window resembling a specious present, it would also need retention with phenomenal character (the experiential quality of "just-pastness," not just buffered data), protentional openness (a genuinely open future, not mere prediction), and experiential continuity binding successive windows into a stream rather than a queue. Whether temporal structure is truly essential or merely characteristic of biological consciousness remains open, but the phenomenological tradition suggests temporal binding runs deep.
 
 ## What Would Challenge This View?
 
@@ -257,15 +246,15 @@ None currently obtains, but specifying them clarifies what the arguments depend 
 
 The temporal structure and agency of consciousness connects to all five [[tenets]]:
 
-**[[tenets#^dualism|Dualism]]**: The gap between objective and experienced duration is irreducible. No amount of neural detail explains why concentrated attention compresses time or why waiting stretches it. If consciousness constitutes temporal structure, it cannot be reduced to physical processes that presuppose time—the reduction would be circular. Temporal integration adds a dimension to irreducibility: not just that qualia resist reduction, but that the *connectedness* of experience across time resists reduction.
+**[[tenets#^dualism|Dualism]]**: The gap between objective and experienced duration is irreducible. If consciousness constitutes temporal structure, it cannot be reduced to physical processes that presuppose time—the reduction would be circular. Temporal integration adds a dimension to irreducibility: not just that qualia resist reduction, but that the *connectedness* of experience across time resists reduction.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If attention is the interface through which consciousness influences the brain, temporal attention and selection reveal the temporal dimension of that influence. Consciousness does not merely select among options at predetermined moments; it determines how long selection is sustained, inhabits the temporal manifold, and selects from within the flow of becoming. The [[phenomenology-of-choice-and-volition|phenomenology of deliberation]]—holding possibilities open, then narrowing to decision—presupposes temporal structure.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Temporal attention and selection reveal the temporal dimension of consciousness's influence on the brain. Consciousness does not merely select among options at predetermined moments; it determines how long selection is sustained and selects from within the flow of becoming. The [[phenomenology-of-choice-and-volition|phenomenology of deliberation]]—holding possibilities open, then narrowing to decision—presupposes temporal structure.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: The specious present's duration (~100ms–3s) may reflect accumulated collapse events—each individually minimal but collectively constituting the experienced duration-block. The temporal profile of attention constrains the selection mechanism: sustained attention produces stronger, longer-lasting stabilisation of neural patterns, consistent with the Zeno framework where observation frequency determines pattern persistence.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: The temporal asymmetry argument—that attending forward feels open because outcomes are genuinely undetermined—requires that collapse be real and singular. Under many-worlds, all futures already exist across branches, and the phenomenal openness of protention would be illusory. In MWI, temporal integration must work identically in every branch, making it a purely physical process with no role for consciousness. The coherence of temporal integration—retention inheriting from a definite, singular past—fits more naturally with collapse producing one timeline.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The temporal asymmetry argument—attending forward feels open because outcomes are genuinely undetermined—requires that collapse be real and singular. Under many-worlds, all futures already exist across branches, and the phenomenal openness of protention would be illusory. The coherence of temporal integration—retention inheriting from a definite, singular past—fits more naturally with collapse producing one timeline.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Accumulator models and predictive processing are elegant and empirically productive. But they address the easy problem of temporal processing while leaving untouched the hard problem of temporal experience. The richness of temporal phenomenology—specious present, durée, retention-protention, the missing link, three levels of integration, the structure of timing windows—resists simplification. The simplicity of internal-clock models should not be mistaken for explanatory adequacy.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Accumulator models and predictive processing are elegant and empirically productive, but they address the easy problem of temporal processing while leaving untouched the hard problem of temporal experience. The richness of temporal phenomenology—specious present, durée, retention-protention, the missing link, timing windows—resists simplification. The simplicity of internal-clock models should not be mistaken for explanatory adequacy.
 
 ## Further Reading
 
@@ -274,27 +263,19 @@ The temporal structure and agency of consciousness connects to all five [[tenets
 - [[time-collapse-and-agency]] — The Map's full framework on time, collapse, and agency
 - [[collapse-and-time]] — How quantum collapse may constitute time's arrow
 - [[neural-refresh-rates-and-the-smoothness-problem]] — How discrete neural oscillations clash with continuous phenomenal experience
-- [[topics/free-will]] — Temporal agency and the determination question
 - [[hard-problem-of-consciousness]] — The broader challenge of explaining experience
 - [[phenomenology-of-choice-and-volition]] — What it's like to choose, including temporal aspects
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Integrating first-person methods with neuroscience
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — Temporal ontology and consciousness theory
 - [[process-philosophy]] — Whitehead's framework where experience is fundamental
-- [[integrated-information-theory]] — Leading materialist theory and its temporal limitations
-- [[global-workspace-theory]] — Information availability theory and temporal gaps
-- [[witness-consciousness]] — Non-agentive modes of conscious presence
 - [[binding-problem]] — Spatial/feature binding and its relation to temporal binding
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
-- [[unity-of-consciousness]] — The broader problem of experiential unity
-- [[personal-identity]] — How temporal integration constitutes the persisting self
 - [[attention-and-the-consciousness-interface]] — Attention as the mechanism of conscious influence
-- [[phenomenology-of-returning-attention]] — What attention gaps reveal about temporal consciousness
-- [[consciousness-and-skill-acquisition|phenomenology of flow states]] — Temporal dissolution in absorbed activity
 - [[phenomenology-of-anticipation]] — The phenomenal structure of anticipatory openness
 - [[bergson-and-duration]] — Durée, creative evolution, and the metaphysics of time
 - [[choking-phenomenon-mental-causation]] — When explicit attention disrupts unified temporal agency
 - [[diachronic-agency-and-personal-narrative]] — Long-range temporal commitment and the self
-- [[neural-refresh-rates]] — Discrete oscillatory cycles underlying attention
+- [[phenomenology-of-returning-attention]] — What attention gaps reveal about temporal consciousness
 
 ## References
 

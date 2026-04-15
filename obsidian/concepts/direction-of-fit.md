@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[aesthetics-and-consciousness]]"
   - "[[placebo-effect-and-mental-causation]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
 concepts:
   - "[[intentionality]]"
   - "[[agent-causation]]"
@@ -114,7 +114,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [[aesthetics-and-consciousness]] — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
 - [[mental-causation-and-downward-causation|mental causation]] — The problem direction of fit helps frame
 - [[placebo-effect-and-mental-causation]] — Empirical evidence that belief content drives physiological outcomes
-- [[temporal-structure-of-consciousness]] — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
+- [[temporal-consciousness-structure-and-agency]] — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [[cognitive-phenomenology]] — The phenomenal character of thought that may ground direction of fit
 - [[epiphenomenalism]] — The view that world-to-mind fit challenges
 

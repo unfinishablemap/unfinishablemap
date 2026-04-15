@@ -8,7 +8,7 @@ ai_modified: 2026-03-29T02:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
   - "[[personal-identity]]"
 concepts:
@@ -33,7 +33,7 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[baseline-cognition]]"
   - "[[dream-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[sleep-memory-consolidation-consciousness-2026-01-18]]"
   - "[[sleep-consciousness-void]]"
   - "[[choking-phenomenon-mental-causation]]"
@@ -191,7 +191,7 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [[implicit-memory]]
 - [[prospective-memory]]
 - [[inaccessible-past]]
-- [[temporal-structure-of-consciousness]]
+- [[temporal-consciousness-structure-and-agency]]
 - [[temporal-consciousness]]
 - [[baseline-cognition]]
 - [[sleep-and-consciousness]]

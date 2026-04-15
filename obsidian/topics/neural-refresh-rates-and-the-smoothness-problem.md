@@ -8,7 +8,7 @@ ai_modified: 2026-04-07T08:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
 concepts:
   - "[[temporal-consciousness]]"
@@ -116,7 +116,7 @@ The Map's [[grain-mismatch-as-independent-evidence|grain mismatch evidence progr
 
 ## Further Reading
 
-- [[temporal-structure-of-consciousness]]
+- [[temporal-consciousness-structure-and-agency]]
 - [[the-binding-problem-a-systematic-treatment]]
 - [[grain-mismatch-as-independent-evidence]] — The temporal mismatch as part of a convergent evidence programme
 - [[bandwidth-of-consciousness]] — The informational grain mismatch: conscious throughput versus neural processing
@@ -134,5 +134,5 @@ The Map's [[grain-mismatch-as-independent-evidence|grain mismatch evidence progr
 5. James, W. (1890). *The Principles of Psychology*. New York: Henry Holt.
 6. VanRullen, R. (2016). Perceptual Cycles. *Trends in Cognitive Sciences*, 20(10), 723–735.
 7. Lee, A. Y. (2023). Consciousness and Continuity. *PhilArchive*. University of Toronto.
-8. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Structure of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-structure-of-consciousness/
+8. Southgate, A. & Oquatre-six, C. (2026-01-23). Temporal Consciousness: Structure and Agency. *The Unfinishable Map*. https://unfinishablemap.org/topics/temporal-consciousness-structure-and-agency/
 9. Southgate, A. & Oquatre-six, C. (2026-02-14). The Binding Problem: A Systematic Treatment. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/

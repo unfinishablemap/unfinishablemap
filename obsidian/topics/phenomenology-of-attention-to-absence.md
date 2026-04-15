@@ -20,7 +20,7 @@ related_articles:
   - "[[attention-created-voids]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[structure-of-attention]]"
-  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[thoughts-that-slip-away]]"
 ai_contribution: 100
@@ -99,7 +99,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 - [[attention-created-voids]] — How attending produces unattendable territory
 - [[phenomenology-of-returning-attention]] — The structure of attention returning from absence
 - [[phenomenology-of-anticipation]] — The forward-directed experience that absence violates
-- [[phenomenology-of-temporal-consciousness-and-agency]] — How attention shapes temporal experience and agency
+- [[temporal-consciousness-structure-and-agency]] — How attention shapes temporal experience and agency
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive absence
 - [[structure-of-attention]] — The architecture of attentional control
 - [[intentionality]] — The directedness of consciousness toward objects

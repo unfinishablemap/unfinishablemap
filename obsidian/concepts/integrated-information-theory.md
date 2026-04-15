@@ -20,7 +20,7 @@ concepts:
   - "[[concepts/functionalism]]"
   - "[[temporal-consciousness]]"
 related_articles:
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[tenets]]"
   - "[[integrated-information-theory-2026-01-07]]"
   - "[[causal-interface]]"
@@ -52,7 +52,7 @@ IIT begins with axioms—self-evident truths about experience that anyone can ve
 4. **Integration**: Experience is unified—it cannot be decomposed into independent components. This directly addresses the [[unity-of-consciousness|phenomenal unity]] question.
 5. **Exclusion**: Experience is definite—it has particular borders, a specific content.
 
-IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [[temporal-structure-of-consciousness|work on temporal structure]] suggests, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
+IIT 4.0 (2023) implicitly adds a sixth consideration: experience flows through time, connecting the integration axiom to temporal structure. However, as [[temporal-consciousness-structure-and-agency|work on temporal structure]] suggests, this acknowledgment remains superficial—IIT calculates Φ for instantaneous states, missing the extended temporal structure that defines conscious experience.
 
 These aren't claims about the brain. They're claims about what any conscious experience involves.
 
@@ -74,7 +74,7 @@ IIT provides formulas for calculating phi. Roughly: partition a system in every 
 
 The system with the highest phi is the "maximally irreducible conceptual structure" (MICS)—and this, IIT claims, *is* the conscious experience.
 
-**The temporal problem**: IIT calculates Φ for a system at time *t*—an instantaneous snapshot. But consciousness isn't experienced as instantaneous. The [[temporal-structure-of-consciousness#the-specious-present|specious present]] extends across 1-3 seconds. You hear a melody as a unified whole spanning seconds, not as isolated tones. IIT has no temporal dimension to explain how separate states at t, t+1, t+2 combine into the continuous flow we actually experience. Even accepting that high Φ produces phenomenal character, why would that character have temporal extension? The theory is silent on experienced duration.
+**The temporal problem**: IIT calculates Φ for a system at time *t*—an instantaneous snapshot. But consciousness isn't experienced as instantaneous. The [[temporal-consciousness-structure-and-agency#the-specious-present|specious present]] extends across 1-3 seconds. You hear a melody as a unified whole spanning seconds, not as isolated tones. IIT has no temporal dimension to explain how separate states at t, t+1, t+2 combine into the continuous flow we actually experience. Even accepting that high Φ produces phenomenal character, why would that character have temporal extension? The theory is silent on experienced duration.
 
 ## What IIT Implies
 
@@ -204,13 +204,13 @@ IIT offers a sophisticated competitor to the Map's interactionist dualism. Both 
 
 The choice depends on whether you find identity or causation more plausible as the mind-matter relation. IIT avoids the interaction problem (how do distinct substances influence each other?) but faces the hard problem in a new form (why is integrated information conscious?). The Map faces the interaction problem and proposes to address it through quantum indeterminacy—though this remains a speculative research programme. It confronts the decoherence objection (biological tissue is too warm and noisy to sustain the quantum superpositions the proposal requires) and currently lacks experimental support. Honesty requires acknowledging that the Map's interaction mechanism is no more empirically established than IIT's identity claim.
 
-Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework addresses this—if consciousness involves [[collapse-and-time|quantum collapse processes]], each collapse has duration, and [[retrocausality|retrocausal boundary conditions]] provide the retention-protention structure that Husserl identified. Past collapses constrain present selection (retention); anticipated future collapses influence current outcomes (protention). This creates genuine temporal extension beyond what IIT's instantaneous Φ calculations can explain. See [[temporal-structure-of-consciousness]] for detailed treatment.
+Moreover, IIT faces a **temporal consciousness gap**: even accepting that Φ produces phenomenal character, the theory doesn't explain why that character extends across seconds rather than existing only at instants. The Map's quantum framework addresses this—if consciousness involves [[collapse-and-time|quantum collapse processes]], each collapse has duration, and [[retrocausality|retrocausal boundary conditions]] provide the retention-protention structure that Husserl identified. Past collapses constrain present selection (retention); anticipated future collapses influence current outcomes (protention). This creates genuine temporal extension beyond what IIT's instantaneous Φ calculations can explain. See [[temporal-consciousness-structure-and-agency]] for detailed treatment.
 
 Neither theory is proven. Both represent serious attempts to take consciousness seriously. IIT deserves engagement as one of the most developed alternatives to interactionist dualism.
 
 ## Further Reading
 
-- [[temporal-structure-of-consciousness]] — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
+- [[temporal-consciousness-structure-and-agency]] — IIT's failure to explain multi-second experienced duration despite calculating instantaneous Φ
 - [[unity-of-consciousness|phenomenal unity]] — The unity IIT claims to explain via integration
 - [[binding-problem]] — The related puzzle of how features combine
 - [[degrees-of-consciousness]] — How consciousness varies in intensity and complexity — what Φ purports to measure

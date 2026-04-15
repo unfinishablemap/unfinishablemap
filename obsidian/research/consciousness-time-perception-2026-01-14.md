@@ -13,7 +13,7 @@ concepts:
   - "[[retrocausality]]"
 related_articles:
   - "[[tenets]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

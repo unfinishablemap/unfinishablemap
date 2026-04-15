@@ -9,7 +9,7 @@ last_deep_review: 2026-03-19T08:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[neural-refresh-rates-and-the-smoothness-problem]]"
 concepts:
   - "[[temporal-consciousness]]"
@@ -81,7 +81,7 @@ The concept of neural refresh rates also connects to the Map's treatment of [[th
 ## Further Reading
 
 - [[neural-refresh-rates-and-the-smoothness-problem]]
-- [[temporal-structure-of-consciousness]]
+- [[temporal-consciousness-structure-and-agency]]
 - [[grain-mismatch]]
 - [[temporal-consciousness]]
 - [[the-binding-problem-a-systematic-treatment]]

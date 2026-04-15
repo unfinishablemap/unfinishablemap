@@ -26,7 +26,7 @@ related_articles:
   - "[[diachronic-agency-and-personal-narrative]]"
   - "[[inaccessible-past]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -55,7 +55,7 @@ One objection deserves acknowledgment: if mineness, pastness, and incompleteness
 
 ## Memory as Self-Constitution
 
-The self does not exist first and then remember. The relationship is more intimate: the self becomes temporally extended *through* remembering. Before memory connects present experience to past experience, there is the [[self-and-self-consciousness|minimal self]]—bare first-person perspective, the "for-me-ness" of each moment. Memory transforms this minimal self into a self with a history, a trajectory, a life. The Map's [[temporal-structure-of-consciousness|temporal constitution thesis]] identifies this as one of four convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
+The self does not exist first and then remember. The relationship is more intimate: the self becomes temporally extended *through* remembering. Before memory connects present experience to past experience, there is the [[self-and-self-consciousness|minimal self]]—bare first-person perspective, the "for-me-ness" of each moment. Memory transforms this minimal self into a self with a history, a trajectory, a life. The Map's [[temporal-consciousness-structure-and-agency|temporal constitution thesis]] identifies this as one of four convergent demonstrations that consciousness actively constitutes temporal structure rather than merely inhabiting it.
 
 This transformation works through several mechanisms.
 

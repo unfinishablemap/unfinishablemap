@@ -29,7 +29,7 @@ related_articles:
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[self-stultification-as-master-argument]]"
   - "[[epistemology-of-other-minds-under-dualism]]"
   - "[[testing-consciousness-collapse]]"
@@ -77,7 +77,7 @@ On the Map's framework, ketamine disrupts access channels while leaving the phen
 
 Volatile agents like sevoflurane and isoflurane act on multiple receptor types simultaneously, producing a characteristic phenomenology: fragmented, disjointed experience before full unconsciousness, with disintegration of temporal coherence. Patients in light sevoflurane sedation report experiences that lack temporal ordering — events seem to float without sequence.
 
-This suggests volatile agents disrupt the interface's temporal binding function — the mechanism by which consciousness organises neural events into coherent temporal experience. The [[temporal-structure-of-consciousness|temporal structure of consciousness]] involves multiple integration levels — from the specious present (~100-750ms) to experiential continuity to narrative self — and volatile agents appear to fragment the lowest levels first. The [[binding-problem|binding problem]] identifies temporal integration as one of the hardest challenges for any theory of consciousness; anaesthetic disruption of temporal binding may reveal the specific interface mechanisms responsible.
+This suggests volatile agents disrupt the interface's temporal binding function — the mechanism by which consciousness organises neural events into coherent temporal experience. The [[temporal-consciousness-structure-and-agency|temporal structure of consciousness]] involves multiple integration levels — from the specious present (~100-750ms) to experiential continuity to narrative self — and volatile agents appear to fragment the lowest levels first. The [[binding-problem|binding problem]] identifies temporal integration as one of the hardest challenges for any theory of consciousness; anaesthetic disruption of temporal binding may reveal the specific interface mechanisms responsible.
 
 ### Memory Encoding
 
@@ -175,7 +175,7 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 - [[contemplative-pathology-and-interface-malfunction]] — Parallel case: interface disruption from the consciousness side rather than pharmacological
 - [[self-stultification-as-master-argument]] — Why epiphenomenal consciousness is epistemically self-defeating
 - [[direction-of-fit]] — How consciousness's world-to-mind directedness relates to its causal role
-- [[temporal-structure-of-consciousness]] — The multi-level temporal integration that volatile agents fragment
+- [[temporal-consciousness-structure-and-agency]] — The multi-level temporal integration that volatile agents fragment
 - [[epistemology-of-other-minds-under-dualism]] — The inference problem when behaviour is disconnected from consciousness
 - [[voluntary-attention-control-mechanisms]] — Neural pathways of willed attention that anaesthesia disrupts
 - [[consciousness-and-the-physics-of-information]] — Information as the medium of the consciousness-brain interface

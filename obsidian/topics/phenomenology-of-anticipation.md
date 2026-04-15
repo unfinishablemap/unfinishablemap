@@ -8,7 +8,7 @@ ai_modified: 2026-04-10T22:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
 concepts:
   - "[[temporal-consciousness]]"
   - "[[phenomenology]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[topics/free-will]]"
   - "[[surprise-prediction-error-and-consciousness]]"
-  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[categorical-surprise]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
@@ -98,7 +98,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenologic
 
 Protention connects intimately to the [[phenomenology-of-choice-and-volition|phenomenology of choice]]. Deliberation requires more than retention of options considered—it requires protentional inhabitation of possible futures. When you deliberate about whether to accept a job offer, you don't just list pros and cons. You *lean into* each possibility, feeling its character from the anticipatory stance. The phenomenology of deciding involves moving between different protentional orientations—trying on futures to see how they feel from inside.
 
-This is where the Map's commitment to [[tenets#^bidirectional-interaction|Bidirectional Interaction]] gains phenomenological support. Husserl described protention primarily as passive synthesis—something that happens *to* consciousness rather than something consciousness *does*. But the phenomenology of deliberation suggests a more active dimension. When choosing between futures, protention takes on the character of *reaching*, of configuring present experience around anticipated continuations. The [[phenomenology-of-deliberation-under-uncertainty|phenomenology of deliberation under uncertainty]] reveals this most acutely: when outcomes are unknowable, the felt character of leaning into each possibility is all the deliberator has. In deliberation, this reaching is directed: consciousness orients itself toward one possible future over another, and this active orientation connects to [[agent-causation|agent-causal]] accounts of [[topics/free-will|free will]]. The [[phenomenology-of-temporal-consciousness-and-agency|phenomenology of temporal selection]] develops this active dimension further: anticipatory protention structures the approach to a *kairos* moment—the right time to act—where the agent's readiness shapes what the approaching moment feels like, and recognition of rightness and action are phenomenally unified.
+This is where the Map's commitment to [[tenets#^bidirectional-interaction|Bidirectional Interaction]] gains phenomenological support. Husserl described protention primarily as passive synthesis—something that happens *to* consciousness rather than something consciousness *does*. But the phenomenology of deliberation suggests a more active dimension. When choosing between futures, protention takes on the character of *reaching*, of configuring present experience around anticipated continuations. The [[phenomenology-of-deliberation-under-uncertainty|phenomenology of deliberation under uncertainty]] reveals this most acutely: when outcomes are unknowable, the felt character of leaning into each possibility is all the deliberator has. In deliberation, this reaching is directed: consciousness orients itself toward one possible future over another, and this active orientation connects to [[agent-causation|agent-causal]] accounts of [[topics/free-will|free will]]. The [[temporal-consciousness-structure-and-agency|phenomenology of temporal selection]] develops this active dimension further: anticipatory protention structures the approach to a *kairos* moment—the right time to act—where the agent's readiness shapes what the approaching moment feels like, and recognition of rightness and action are phenomenally unified.
 
 The distinction between protention and [[prospective-memory|prospective memory]] clarifies this. Prospective memory involves deliberate future simulation—constructing scenarios, evaluating outcomes, forming intentions. Protention operates before all of this, as the anticipatory structure that makes deliberation possible in the first place. You cannot deliberate about futures unless your present experience is already structured by forward-directedness. Protention is the pre-reflective ground on which reflective future-thinking stands.
 
@@ -135,7 +135,7 @@ Protention supports and illuminates several of the Map's foundational commitment
 ## Further Reading
 
 - [[temporal-consciousness]] — The specious present, Husserl's tripartite structure, and Bergson's durée
-- [[temporal-structure-of-consciousness]] — How consciousness and time depend on each other
+- [[temporal-consciousness-structure-and-agency]] — How consciousness and time depend on each other
 - [[temporal-void]] — Why protention and retention differ in phenomenal weight
 - [[prospective-memory]] — Deliberate future simulation and episodic future thinking
 - [[surprise-prediction-error-and-consciousness]] — How felt surprise resists reduction to prediction error

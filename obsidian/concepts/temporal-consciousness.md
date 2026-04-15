@@ -58,14 +58,14 @@ related_articles:
   - "[[consciousness-working-memory-2026-01-17]]"
   - "[[consciousness-time-perception-2026-01-14]]"
   - "[[process-and-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[smoothness-and-continuity]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-as-activity]]"
   - "[[motor-control-quantum-zeno]]"
   - "[[quantum-measurement-and-consciousness]]"
-  - "[[phenomenology-of-temporal-consciousness-and-agency]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[bergson-and-duration]]"
@@ -101,7 +101,7 @@ The philosophical debate centres on whether experience is genuinely temporally e
 
 ### The Irreducibility Argument
 
-Physical descriptions consist of states at times and transition rules between them, but no collection of instantaneous states contains the experience of succession. The specious present *is* the experience of succession—temporally thick, containing the sense of transition—and therefore resists physical description alone. The gap between *duration as measured* and *duration as experienced* parallels the gap between wavelength and colour. If [[consciousness-as-activity|consciousness is an activity]] rather than a property, temporal extension is constitutive—an activity exists only in its unfolding. The Map's [[temporal-structure-of-consciousness|temporal constitution thesis]] develops this further: consciousness does not passively occupy temporal structure but actively constitutes temporal wholes from elements that, physically speaking, do not coexist.
+Physical descriptions consist of states at times and transition rules between them, but no collection of instantaneous states contains the experience of succession. The specious present *is* the experience of succession—temporally thick, containing the sense of transition—and therefore resists physical description alone. The gap between *duration as measured* and *duration as experienced* parallels the gap between wavelength and colour. If [[consciousness-as-activity|consciousness is an activity]] rather than a property, temporal extension is constitutive—an activity exists only in its unfolding. The Map's [[temporal-consciousness-structure-and-agency|temporal constitution thesis]] develops this further: consciousness does not passively occupy temporal structure but actively constitutes temporal wholes from elements that, physically speaking, do not coexist.
 
 ## Bergson's Durée
 
@@ -213,7 +213,7 @@ Temporal consciousness connects to all five tenets:
 - [[phenomenology-of-anticipation]] — Extended exploration of protention, surprise, and anticipatory consciousness
 - [[phenomenology-of-choice-and-volition]] — How anticipatory consciousness enables deliberation
 - [[neural-refresh-rates]] — The discrete oscillatory sampling rates that create the smoothness problem
-- [[temporal-structure-of-consciousness]] — Comprehensive treatment including the constitutional thesis and circularity problem
+- [[temporal-consciousness-structure-and-agency]] — Comprehensive treatment including the constitutional thesis and circularity problem
 
 ## References
 

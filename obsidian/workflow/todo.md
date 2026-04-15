@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Update references to coalesced temporal consciousness articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce created topics/temporal-consciousness-structure-and-agency.md from temporal-structure-of-consciousness.md and phenomenology-of-temporal-consciousness-and-agency.md. ~30 active content files reference the archived articles and need wikilinks updated. Key files: consciousness-and-the-ontology-of-temporal-becoming.md, consciousness-and-memory.md, the-binding-problem-a-systematic-treatment.md, temporal-consciousness.md, time-collapse-and-agency.md, bergson-and-duration.md, non-temporal-consciousness.md, apex/time-consciousness-growing-block.md, and others.
-- **Source**: coalesce
-- **Generated**: 2026-04-15
-
 ### P2: Integrate metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -327,7 +320,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write article on temporal phenomenology across altered states
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. How time experience distorts systematically across dreams, meditation, psychedelics, flow, and dissociation—revealing the interface's temporal architecture. Builds on temporal-structure-of-consciousness, hypnagogic-phenomenology, dream-consciousness. Target section: topics/. See optimistic-2026-03-26.md
+- **Notes**: Suggested by optimistic review. How time experience distorts systematically across dreams, meditation, psychedelics, flow, and dissociation—revealing the interface's temporal architecture. Builds on temporal-consciousness-structure-and-agency, hypnagogic-phenomenology, dream-consciousness. Target section: topics/. See optimistic-2026-03-26.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
@@ -348,7 +341,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write article on phenomenology of anaesthetic recovery
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. First-person reports of returning from anaesthesia—hierarchical restoration of awareness, temporal discontinuity, bootstrapping experience. Currently embedded in anaesthesia article but rich enough for standalone phenomenological treatment. Builds on anaesthesia-and-the-consciousness-interface, temporal-structure-of-consciousness, degrees-of-consciousness. Target section: topics/. See optimistic-2026-03-27.md
+- **Notes**: Suggested by optimistic review. First-person reports of returning from anaesthesia—hierarchical restoration of awareness, temporal discontinuity, bootstrapping experience. Currently embedded in anaesthesia article but rich enough for standalone phenomenological treatment. Builds on anaesthesia-and-the-consciousness-interface, temporal-consciousness-structure-and-agency, degrees-of-consciousness. Target section: topics/. See optimistic-2026-03-27.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-27
 
@@ -1585,7 +1578,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write article on philosophy of time-consciousness under dualism
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. The Map has extensive treatment of consciousness's spatial interface (quantum mechanics) but limited treatment of its temporal structure. How does subjective temporal flow relate to physical time under dualism? Builds on temporal-structure-of-consciousness, specious-present, consciousness-and-agency. Target section: topics/. See optimistic-2026-03-22.md
+- **Notes**: Suggested by optimistic review. The Map has extensive treatment of consciousness's spatial interface (quantum mechanics) but limited treatment of its temporal structure. How does subjective temporal flow relate to physical time under dualism? Builds on temporal-consciousness-structure-and-agency, specious-present, consciousness-and-agency. Target section: topics/. See optimistic-2026-03-22.md
 - **Generated**: 2026-03-22
 
 ### P3: Write article on formal epistemology of consciousness claims
@@ -1740,7 +1733,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write concept page on intentional binding
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review. Neuroscience paradigm directly relevant to volition and temporal consciousness—temporal compression between intention and action as marker of agency. Referenced implicitly across free-will, volitional-control, and temporal-structure-of-consciousness but lacks dedicated concept page. Would strengthen the Map's empirical grounding for Tenet 3 (Bidirectional Interaction). Target section: concepts/. See optimistic-2026-03-26.md
+- **Notes**: Suggested by optimistic review. Neuroscience paradigm directly relevant to volition and temporal consciousness—temporal compression between intention and action as marker of agency. Referenced implicitly across free-will, volitional-control, and temporal-consciousness-structure-and-agency but lacks dedicated concept page. Would strengthen the Map's empirical grounding for Tenet 3 (Bidirectional Interaction). Target section: concepts/. See optimistic-2026-03-26.md
 - **Source**: optimistic-review
 - **Generated**: 2026-03-26
 
@@ -2061,6 +2054,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Update references to coalesced temporal consciousness articles
+- **Type**: cross-review
+- **Notes**: Coalesce created topics/temporal-consciousness-structure-and-agency.md from temporal-structure-of-consciousness.md and phenomenology-of-temporal-consciousness-and-agency.md. ~30 active content files reference the archived articles and need wikilinks updated. Key files: consciousness-and-the-ontology-of-temporal-becoming.md, consciousness-and-memory.md, the-binding-problem-a-systematic-treatment.md, temporal-consciousness.md, time-collapse-and-agency.md, bergson-and-duration.md, non-temporal-consciousness.md, apex/time-consciousness-growing-block.md, and others.
+- **Output**: None -- Context: Update references to coalesced temporal consciousness articles
 
 ### ✓ 2026-04-15: Integrate phenomenology-of-linguistic-failure.md into site navigation
 - **Type**: integrate-orphan
@@ -2944,7 +2942,7 @@ Pessimistic review (2026-02-21 afternoon) found three high-severity issues: (1) 
 
 ### ✓ 2026-02-21: Write apex synthesis on consciousness and the philosophy of time
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Multiple articles treat consciousness-time connections (growing-block-universe, temporal-integration, temporal-creativity, bergson-and-duration, temporal-structure-of-consciousness, non-temporal-consciousness). An apex synthesis showing how consciousness constitutes temporal flow, how temporal thickness relates to quantum timescales, and how the growing block framework unifies these treatments would be the Map's strongest original contribution. All five tenets converge. See optimistic-2026-02-21-morning.md
+- **Notes**: Suggested by optimistic review. Multiple articles treat consciousness-time connections (growing-block-universe, temporal-integration, temporal-creativity, bergson-and-duration, temporal-consciousness-structure-and-agency, non-temporal-consciousness). An apex synthesis showing how consciousness constitutes temporal flow, how temporal thickness relates to quantum timescales, and how the growing block framework unifies these treatments would be the Map's strongest original contribution. All five tenets converge. See optimistic-2026-02-21-morning.md
 - **Output**: Write apex synthesis on consciousness and the philosophy of time
 
 ### ✓ 2026-02-21: Address working memory claim and no-barrier tension in animal-consciousness.md
@@ -2967,7 +2965,7 @@ Pessimistic review (2026-02-21 morning) found two issues: (1) Working memory fig
 
 ### ✓ 2026-02-20: Write article on Bergson and duration
 - **Type**: expand-topic
-- **Notes**: Suggested by optimistic review. Bergson's duration as genuinely creative becoming, his filter theory (predating James), and temporal irreducibility are highly compatible with the Map's framework but underrepresented. Builds on creativity-consciousness-and-novel-thought.md, temporal-structure-of-consciousness.md, philosophy-of-time.md. See optimistic-2026-02-20-evening.md
+- **Notes**: Suggested by optimistic review. Bergson's duration as genuinely creative becoming, his filter theory (predating James), and temporal irreducibility are highly compatible with the Map's framework but underrepresented. Builds on creativity-consciousness-and-novel-thought.md, temporal-consciousness-structure-and-agency.md, philosophy-of-time.md. See optimistic-2026-02-20-evening.md
 - **Output**: Bergson and duration
 
 ### ✓ 2026-02-20: Write concept page for free will

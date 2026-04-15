@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[time-collapse-and-agency]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -125,7 +125,7 @@ The growing block connects to all five of the Map's [[tenets]]:
 
 - [[philosophy-of-time]] — A-theory, B-theory, and the Map's temporal framework
 - [[collapse-and-time]] — How quantum collapse may introduce time's arrow
-- [[temporal-structure-of-consciousness]] — Why consciousness requires temporal structure
+- [[temporal-consciousness-structure-and-agency]] — Why consciousness requires temporal structure
 - [[time-collapse-and-agency]] — Connecting collapse, time, and free will
 - [[temporal-consciousness]] — The specious present and Bergson's qualitative lived time
 - [[process-philosophy]] — Whitehead's actual occasions and concrescence

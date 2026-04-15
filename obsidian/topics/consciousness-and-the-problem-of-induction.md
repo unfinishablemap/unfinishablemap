@@ -20,7 +20,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[surprise-prediction-error-and-consciousness]]"
-  - "[[temporal-structure-of-consciousness]]"
+  - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-normative-force]]"
   - "[[contemplative-epistemology]]"
   - "[[self-stultification]]"
@@ -73,7 +73,7 @@ A deeper point emerges when the relationship between consciousness and induction
 
 Inductive reasoning requires capacities that resist purely physical explanation:
 
-- **[[temporal-structure-of-consciousness|Temporal integration]]**: Holding past instances together with a projected future in a [[unity-of-consciousness|unified field of awareness]]. Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [[phenomenology-of-intellectual-life|Semantic understanding]] of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
+- **[[temporal-consciousness-structure-and-agency|Temporal integration]]**: Holding past instances together with a projected future in a [[unity-of-consciousness|unified field of awareness]]. Recurrent neural networks and memory traces can store and retrieve information, but the inductive reasoner does something more: they grasp that these events *form a sequence leading somewhere*. [[phenomenology-of-intellectual-life|Semantic understanding]] of what a "pattern" means requires more than statistical correlation—it requires a subject for whom the pattern is *about* something.
 
 - **[[consciousness-and-counterfactual-reasoning|Counterfactual assessment]]**: Evaluating what *would* happen under conditions that have not been observed. Induction relies not just on what has occurred but on our grasp of what could and could not occur. This modal reasoning—holding actual and merely possible scenarios together in deliberation—appears tied to the kind of conscious evaluation that the [[phenomenology-of-deliberation-under-uncertainty|phenomenology of deliberation]] reveals.
 
@@ -106,7 +106,7 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 - [[argument-from-reason]]
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]]
 - [[phenomenology-of-intellectual-life]]
-- [[temporal-structure-of-consciousness]]
+- [[temporal-consciousness-structure-and-agency]]
 - [[consciousness-and-normative-force]]
 - [[epistemic-advantages-of-dualism]]
 - [[contemplative-epistemology]]
