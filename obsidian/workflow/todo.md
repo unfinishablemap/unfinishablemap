@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-15T21:27:00+00:00
+ai_modified: 2026-04-15T23:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address choking evidence overextension and Buddhist philosophy gap in embodied-cognition.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found two issues: (1) Choking-under-pressure argument gets 800+ words of dualist interpretation when it's equally consistent with neural resource competition (mainstream interpretation). The claim that "phenomenological categories carve at causal joints" is what any functional taxonomy would do under physicalism. Reduce rhetorical weight to match epistemic warrant. (2) Buddhist section treats śūnyatā superficially — dismisses Nagarjuna as offering "different metaphysical conclusions" when the deeper challenge is that consciousness-as-substance is itself a reification the Map hasn't answered. Engage with the radical anti-essentialism rather than politely noting disagreement. See pessimistic-2026-04-15c.md
+- **Source**: chain (from pessimistic-2026-04-15c)
+- **Generated**: 2026-04-15
+
+### P2: Address phenomenological method circularity and MWI indexicality weaknesses in phenomenology.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review found three issues: (1) Husserl's epoché presupposes first-person irreducibility rather than demonstrating it — bracketing third-person methods, then declaring consciousness can't be captured by third-person methods, is circular. Acknowledge the methodological commitment rather than presenting it as a discovery. (2) MWI section claims "phenomenology reveals indexical structure MWI must treat as brute" but indexicality is a feature of every physical theory (spatial location is equally brute). Engage with Saunders/Wallace rather than treating index as uniquely problematic. (3) Falsifiability conditions rely on first-person validation of third-person predictions — the criterion of success is the thing under dispute. See pessimistic-2026-04-15c.md
+- **Source**: chain (from pessimistic-2026-04-15c)
+- **Generated**: 2026-04-15
+
+### P2: Add 9 cross-links from optimistic-2026-04-06-midday review
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review identified 9 cross-linking opportunities not yet implemented: (1) phenomenal-binding-and-multimodal-integration → bandwidth-of-consciousness (inverse effectiveness and bandwidth asymmetry), (2) language-recursion-and-consciousness → binding-problem (recursive parsing as conscious binding), (3) biological-computationalisms-inadvertent-case-for-dualism → adaptive-computational-depth (resource allocator outside computation), (4) consciousness-and-normative-force → moral-architecture-of-consciousness (moral conflict phenomenology), (5) hypnagogic-phenomenology-and-interface-modulation → bandwidth-of-consciousness (receiving without transmitting), (6) pragmatism-and-qbism → born-rule-and-the-consciousness-interface (normative Born rule), (7) clinical-evidence-quality-standards → quantum-biology-and-neural-consciousness (self-consistent standards application), (8) ethics-of-cognitive-enhancement-under-dualism → moral-architecture-of-consciousness (ethical foundation), (9) consciousness-under-extreme-metabolic-constraint → anaesthesia-and-the-consciousness-interface (agent-specific profiles). See optimistic-2026-04-06-midday.md
+- **Source**: gap_analysis
+- **Generated**: 2026-04-15
+
+### P2: Deep review islamic-sufi-philosophy-of-consciousness.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-13 — 33 days ago. Concept page on Islamic and Sufi philosophical traditions and consciousness. Verify accuracy of represented traditions (Ibn Arabi, al-Ghazali, Mulla Sadra), coherence, cross-references to indian-philosophy-of-mind and cross-traditional-convergence articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-15
+
+### P2: Deep review transition-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 38 days ago. Voids article on the impossibility of witnessing one's own transitions between states of consciousness. Verify coherence, cross-references to related void articles (transparency-void, threshold-void), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-15
+
+### P2: Deep review emotional-epistemology-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 35 days ago. Voids article on the limits of knowing one's own emotional states. Verify coherence, cross-references to affective-void, epistemic-emotions, and related emotional consciousness articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-15
 
 ### P3: Deep review inverted-qualia.md
 - **Type**: deep-review
