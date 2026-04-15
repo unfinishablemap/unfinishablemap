@@ -4,7 +4,7 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-21T16:41:00+00:00
+ai_modified: 2026-04-15T12:50:00+00:00
 last_deep_review: 2026-03-21T16:41:00+00:00
 draft: false
 topics:
@@ -71,7 +71,7 @@ Sleep stages demonstrate continuous variation in conscious degree. NREM Stage 1 
 
 Cross-species comparison provides the broadest evidence for degrees. If [[consciousness-in-simple-organisms|*C. elegans*]] with 302 neurons has any phenomenal experience, it is presumably far less rich and complex than mammalian consciousness — yet not necessarily zero. The 2024 New York Declaration on Animal Consciousness endorses the view that consciousness is probably more widely distributed than previously assumed, implying it exists at levels of richness and complexity that shade continuously downward from human experience.
 
-[[animal-consciousness|Unlimited Associative Learning]] (UAL) marks one proposed empirical boundary — the capacity to learn novel, complex associations may indicate consciousness of sufficient degree to support flexible behaviour. But this is a threshold within a gradient, not a boundary between consciousness and its absence.
+[[animal-consciousness|Unlimited Associative Learning]] (UAL) marks one proposed empirical boundary — the capacity to learn novel, complex associations may indicate consciousness of sufficient degree to support flexible behaviour. But this is a threshold within a gradient, not a boundary between consciousness and its absence. The [[ethics-of-consciousness-invertebrate-question|ethical implications of this gradient]] are substantial: if even low degrees of consciousness create moral patients, the scale of invertebrate consciousness makes this one of the most significant moral questions of the present era.
 
 ### Clinical Disorders
 

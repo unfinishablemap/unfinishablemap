@@ -4,7 +4,7 @@ description: "If consciousness is irreducible, it grounds moral status distincti
 created: 2026-01-16
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-15T12:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ The Map's framework shapes this differently than functionalism: if consciousness
 
 ## Animal Ethics: Implications of Consciousness
 
-If animals are conscious—and convergent evidence strongly suggests many are—their suffering is real suffering. Factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behavior, meaning it matters *to the animal*.
+If animals are conscious—and convergent evidence strongly suggests many are—their suffering is real suffering. Factory farming, laboratory testing, and wildlife destruction involve moral costs proportional to the consciousness involved. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet strengthens this: animal pain isn't epiphenomenal but causally shapes behavior, meaning it matters *to the animal*. The [[ethics-of-consciousness-invertebrate-question|invertebrate question]] pushes this further: if dualism places no anthropocentric barrier on consciousness, then even the "Low" confidence assigned to insects in the table above warrants precautionary moral consideration—and the scale of insect farming makes this one of the most significant moral questions of the present era.
 
 Whether consciousness creates equal status across species or graduated status tracking experiential complexity remains open. The [[commensurability-void]] complicates this further: if phenomenal experience yields only a partial ordering across architectures, some cross-species welfare comparisons may be structurally impossible rather than merely uncertain. Dualism handles animal consciousness more naturally than materialism: the question shifts from "how do animal brains generate experience?" (unanswerable) to "do animals have experience?" (assessable). See [[animal-consciousness]] for detailed treatment.
 
