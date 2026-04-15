@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review related articles considering concession-convergence-philosophy-of-mathematics
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/concession-convergence-philosophy-of-mathematics.md extends the convergence pattern to philosophy of mathematics. Review the-convergence-argument-for-dualism.md and consciousness-and-mathematics.md for cross-links and consistency on how mathematical concessions parallel consciousness concessions.
-- **Source**: chain (from topics/concession-convergence-philosophy-of-mathematics.md)
-- **Generated**: 2026-04-14
-
-### P2: Integrate numinous-void.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-04-12). Voids article on the numinous dimension of consciousness. Add cross-references from related voids articles (the-aesthetic-void, self-transcendence-void, transparency-void) and update voids index if needed.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-14
-
 ### P2: Integrate stochastic-amplification-and-neural-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2055,6 +2041,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-04-12). Voids article on the numinous dimension of consciousness. Add cross-references from related voids articles (the-aesthetic-void, self-transcendence-void, transparency-void) and update voids index if needed.
+- **Output**: obsidian/voids/numinous-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-14: Cross-review related articles considering concession-convergence-philosophy-of-mathematics
+- **Type**: cross-review
+- **Notes**: New article topics/concession-convergence-philosophy-of-mathematics.md extends the convergence pattern to philosophy of mathematics. Review the-convergence-argument-for-dualism.md and consciousness-and-mathematics.md for cross-links and consistency on how mathematical concessions parallel consciousness concessions.
+- **Output**: None -- Context: Cross-review related articles considering concession-convergence-philosophy-of-mathematics
 
 ### ✓ 2026-04-14: Cross-review related articles considering ethics-of-consciousness-invertebrate-question
 - **Type**: cross-review

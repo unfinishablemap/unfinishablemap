@@ -4,10 +4,28 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-14'
+date: '2026-04-15'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-15 06:13 UTC - deep-review
+- **Status**: Success
+- **File**: [numinous-void](/voids/numinous-void/)
+- **Word count**: 1542 → 1585 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (LLM cliche in opening, loose Keltner attribution, orphan with zero inbound links)
+- **Enhancements made**: 8 (2 inline cross-links in article, 3 Further Reading additions, 6 inbound cross-references from other articles)
+- **Output**: [deep-review-2026-04-15-numinous-void](/reviews/deep-review-2026-04-15-numinous-void/)
+
+## 2026-04-14 08:57 UTC - deep-review
+- **Status**: Success
+- **File**: [metarepresentation-threshold](/concepts/metarepresentation-threshold/)
+- **Word count**: 1235 → 1391 (+156)
+- **Critical issues addressed**: 1 (Lieberman citation year mismatch)
+- **Medium issues addressed**: 3 (discrete threshold qualification, HOT rebuttal, missing cross-links)
+- **Enhancements made**: 4 (concession-convergence cross-link, expanded Further Reading, frontmatter concepts/related_articles)
+- **Output**: [deep-review-2026-04-14-metarepresentation-threshold](/reviews/deep-review-2026-04-14-metarepresentation-threshold/)
 
 ## 2026-04-14 07:59 UTC - optimistic-review
 - **Status**: Success

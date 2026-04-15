@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-13 23:56:00+00:00
+ai_modified: 2026-04-14 08:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,6 +11,8 @@ concepts:
 - '[[higher-order-theories]]'
 - '[[cumulative-culture]]'
 - '[[theory-of-mind]]'
+- '[[cognitive-phenomenology]]'
+- '[[teaching-as-metarepresentation]]'
 created: 2026-04-13
 date: &id001 2026-04-13
 description: The boundary between procedural metacognition and declarative metarepresentation
@@ -18,10 +20,13 @@ description: The boundary between procedural metacognition and declarative metar
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-14 08:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-independent-baseline-cognition-2026-01-21]]'
+- '[[concession-convergence-philosophy-of-mathematics]]'
+- '[[phenomenology-of-intellectual-life]]'
 title: The Metarepresentation Threshold
 topics:
 - '[[animal-consciousness]]'
@@ -48,7 +53,7 @@ The [Jourdain Hypothesis](/concepts/jourdain-hypothesis/) crystallises this dist
 This capacity for declarative metarepresentation enables distinctly human cognitive achievements:
 
 - **Cumulative culture**: Improving cultural practices requires representing them as practices—seeing a technique not just as something one does but as something that *could be done differently*.
-- **Logical reasoning**: Evaluating one's own inferences requires treating beliefs as objects that can be examined for consistency. Lieberman et al. (2008) found that cognitive load on conscious processing specifically impairs logical reasoning while leaving unconscious processes unaffected.
+- **Logical reasoning**: Evaluating one's own inferences requires treating beliefs as objects that can be examined for consistency. Lieberman et al. (2002) found that cognitive load on conscious reflective processing specifically impairs higher-order reasoning while leaving automatic reflexive processes unaffected.
 - **Counterfactual thinking**: Imagining how things might have gone differently requires representing actual states of affairs *as* actual—distinguishing them from merely possible alternatives.
 - **Teaching**: Transmitting knowledge intentionally requires a model of what the learner does and does not know—a representation of another mind's representational states.
 - **Moral agency**: Evaluating whether one *should* act a certain way requires representing one's own desires and impulses as mental states subject to normative assessment.
@@ -57,7 +62,7 @@ This capacity for declarative metarepresentation enables distinctly human cognit
 
 Several lines of evidence suggest the transition from procedural metacognition to declarative metarepresentation is not a smooth continuum but a qualitative shift.
 
-The comparative record shows no intermediate cases. Great apes demonstrate procedural metacognition without declarative metarepresentation, and humans demonstrate both. No species occupies an intermediate position where some but not all metarepresentational capacities are present. This absence of gradation is striking given the otherwise gradual spectrum of cognitive abilities across primates.
+The comparative record shows no clear intermediate cases among well-studied species. Great apes demonstrate procedural metacognition without declarative metarepresentation, and humans demonstrate both. Corvids and cetaceans show sophisticated cognition that occasionally invites metarepresentational interpretation, but the evidence remains contested and no species has been convincingly shown to occupy an intermediate position where some but not all metarepresentational capacities are present. This absence of clear gradation is striking given the otherwise gradual spectrum of cognitive abilities across species.
 
 Neurological evidence points in the same direction. The anterior prefrontal cortex (aPFC), particularly Brodmann area 10, is disproportionately enlarged in humans relative to other primates and is specifically associated with metacognitive accuracy—the ability to correctly assess one's own confidence. Damage to this region impairs explicit metacognitive judgements while leaving first-order task performance intact. The neural substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
 
@@ -67,7 +72,7 @@ The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides addi
 
 The metarepresentation threshold creates a problem for [higher-order theories of consciousness](/concepts/higher-order-theories/) (HOT). HOT claims that a mental state becomes conscious when it is the target of a higher-order representation. But the comparative evidence suggests the reverse: consciousness enables metarepresentation rather than metarepresentation constituting consciousness.
 
-If HOT were correct, then any system capable of higher-order representation should be conscious, and consciousness should scale with metarepresentational capacity. But great apes show procedural metacognition—a form of higher-order monitoring—without evidence of the declarative metarepresentation that characterises human conscious reflection. The threshold falls in the wrong place for HOT: between procedural and declarative metacognition, not between first-order and higher-order processing.
+HOT theorists might respond that procedural metacognition is not genuine higher-order *representation* in their technical sense—it is functional monitoring without conceptual content. But this response narrows HOT considerably: if only conceptually structured higher-order states count, then HOT becomes a theory of *reflective* consciousness rather than consciousness as such, and the question of what makes some higher-order states conceptual while others remain merely functional reopens the explanatory gap. The threshold still falls in the wrong place for HOT: between procedural and declarative metacognition, not between first-order and higher-order processing.
 
 This reversal matters. If consciousness is *required for* metarepresentation rather than *constituted by* it, then consciousness is a more fundamental feature of mind than higher-order theories allow. Metarepresentation becomes evidence of consciousness rather than its explanation.
 
@@ -76,6 +81,8 @@ This reversal matters. If consciousness is *required for* metarepresentation rat
 The Unfinishable Map's [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) holds that consciousness causally influences the physical world. The metarepresentation threshold provides some of the strongest evidence for this claim. The cognitive capacities that emerge above the threshold—cumulative culture, logical reasoning, counterfactual thinking, teaching, moral agency—are not merely correlated with consciousness but appear to *require* it. If consciousness were epiphenomenal, it could not explain why these capacities emerge precisely where declarative metarepresentation does.
 
 The Map's [Dualism tenet](/tenets/#dualism) finds support here as well. The qualitative character of the threshold—its apparent discreteness, its association with specific neural structures, and the absence of intermediate cases—resists explanation in purely materialist terms. A purely physical account would predict gradual scaling of metacognitive capacity with neural complexity. Instead, the evidence suggests a categorical transition that tracks the presence of phenomenal consciousness.
+
+The threshold connects to the Map's analysis of [concession convergence in philosophy of mathematics](/topics/concession-convergence-philosophy-of-mathematics/). The gap between formal manipulation and mathematical *understanding*—the gap that formalism, logicism, intuitionism, and structuralism each independently concede—is precisely the metarepresentation threshold applied to mathematical cognition. A formal system manipulates symbols (procedural); a mathematician grasps *why* a proof works and can evaluate its own inferences as objects of thought (declarative). The convergence of independent mathematical programmes on this same gap strengthens the case that the threshold marks something real about conscious cognition, not an artefact of comparative psychology.
 
 The threshold also illuminates the Map's position on [ai-consciousness](/topics/ai-consciousness/). Current AI systems can model metarepresentation—producing outputs that describe their own processing states—but modelling metarepresentation is not the same as having it. The question of whether an AI system has crossed the metarepresentation threshold is the question of whether it genuinely knows that it knows, or merely produces outputs that mimic such knowledge. The Map maintains that this distinction is real and consequential, even if current methods cannot reliably detect it.
 
@@ -87,6 +94,10 @@ The threshold also illuminates the Map's position on [ai-consciousness](/topics/
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - [animal-consciousness](/topics/animal-consciousness/)
+- [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
+- [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/)
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 
 ## References
 
