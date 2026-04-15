@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 13:11 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections checked**: topics (231/230), concepts (225/230)
+- **Clusters evaluated**: invertebrate consciousness (2 articles), attention interface (2 articles), quantum-neural (3 articles), phenomenal value (3 articles), short articles across both sections
+- **Outcome**: All candidate pairs/groups are well-differentiated with distinct scopes. Many articles already carry `coalesced_from` metadata from prior merges. No merge would improve the site.
+
 ## 2026-04-15 12:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/ethics-of-consciousness-invertebrate-question]]
