@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 21:03 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Interested Party Void
+- **Category**: Occluded / Mixed
+- **Output**: [[research/voids-interested-party-void-2026-04-15]]
+- **Key finding**: Consciousness cannot neutrally investigate its own nature because it has existential stakes in every answer — the deepest instance of *nemo iudex in causa sua*, supported by terror management theory (300+ studies), motivated reasoning research, Nagel's irreducible subjectivity, Alston's epistemic circularity, and Buddhist/Nietzschean traditions on self-deception.
+
 ## 2026-04-15 20:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/tenet-falsification-conditions]]
