@@ -2049,6 +2049,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-12
 
+### P3: Write article on temporal phenomenology as evidence for dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Synthesise temporal consciousness material (temporal-consciousness-structure-and-agency, time-symmetric-selection-mechanism, time-collapse-and-agency) to argue that the phenomenology of temporal experience provides independent evidence for dualism. Physical processes have temporal extension but not temporal experience. See optimistic-2026-04-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Write concept page for the normative gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The gap between physical description and prescriptive force, parallel to but distinct from the explanatory gap. Currently implicit in rational-normativity but deserves explicit treatment connecting argument-from-reason, self-stultification, and consciousness-and-normative-force. See optimistic-2026-04-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
+### P3: Add cross-links from optimistic-2026-04-15-evening review (5 pairs)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: rational-normativity↔phenomenology-of-intellectual-courage, biological-computationalism↔embodied-consciousness-and-the-interface, tenet-falsification-conditions↔duhem-quine-underdetermination-consciousness, delegation-meets-quantum-selection↔skill-delegation, concession-convergence↔phenomenal-concepts-as-materialist-response. See optimistic-2026-04-15-evening.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-15
+
 ## Completed Tasks
 
 
