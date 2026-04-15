@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-04-14, has no inbound links. Topics article on cross-cultural and cross-domain patterns in mathematical insight phenomenology. Add cross-references from related articles (consciousness-and-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P2: Integrate pragmatist-normative-bridge.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2047,6 +2040,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-14, has no inbound links. Topics article on cross-cultural and cross-domain patterns in mathematical insight phenomenology. Add cross-references from related articles (consciousness-and-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) or update section index pages.
+- **Output**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Write concept page on consciousness and metaphysics of composition
 - **Type**: expand-topic

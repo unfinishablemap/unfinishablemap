@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-05T20:55:00+00:00
+ai_modified: 2026-04-15T12:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,6 +40,7 @@ related_articles:
   - "[[pragmatism]]"
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
   - "[[phenomenology-of-linguistic-failure]]"
+  - "[[comparative-phenomenology-of-mathematical-insight]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -84,7 +85,7 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. The [[phenomenology-of-creative-insight|phenomenology of creative insight]] reveals this: scientists report experimental confirmation carrying a distinctive felt quality of *mediated contact*—certainty arrived at through instruments, yet experienced as genuine encounter. [[consciousness-and-mathematics|Mathematical insight]] provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] and [[phenomenology-of-intellectual-life|intellectual effort]] examine the broader epistemic process—the gravitational pull of evidence, the strain of holding premises together—situating insight within the full arc of phenomenal cognition.
+"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. The [[phenomenology-of-creative-insight|phenomenology of creative insight]] reveals this: scientists report experimental confirmation carrying a distinctive felt quality of *mediated contact*—certainty arrived at through instruments, yet experienced as genuine encounter. [[consciousness-and-mathematics|Mathematical insight]] provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [[comparative-phenomenology-of-mathematical-insight|cross-cultural phenomenology of mathematical insight]] strengthens this evidence: different mathematical traditions report qualitatively distinct experiential structures for the same mathematical content, suggesting phenomenal character that cannot be read off from formal content alone. The [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] and [[phenomenology-of-intellectual-life|intellectual effort]] examine the broader epistemic process—the gravitational pull of evidence, the strain of holding premises together—situating insight within the full arc of phenomenal cognition.
 
 ### The Temporal Structure of Understanding
 

@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-15T12:05:00+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -52,6 +52,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[phenomenology-of-creative-insight]]"
+  - "[[comparative-phenomenology-of-mathematical-insight]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -203,7 +204,7 @@ The [[philosophical-zombies|zombie]] reformulation: a zombie mathematician could
 
 **Dissolution of the felt difference.** If careful investigation revealed that the difference between verifying a proof and understanding it is a cognitive illusion carrying no additional information.
 
-The view would be supported by continued failure of AI to achieve transformational mathematical creativity, cross-cultural convergence on insight's distinctive phenomenal character, and successful arguments showing why understanding *must* be phenomenal.
+The view would be supported by continued failure of AI to achieve transformational mathematical creativity, [[comparative-phenomenology-of-mathematical-insight|cross-cultural convergence on insight's distinctive phenomenal character]], and successful arguments showing why understanding *must* be phenomenal.
 
 ## Further Reading
 

@@ -4,7 +4,7 @@ description: "Mathematical insight feels like something—but does it feel the s
 created: 2026-04-14
 modified: 2026-04-14
 human_modified:
-ai_modified: 2026-04-15T09:50:00+00:00
+ai_modified: 2026-04-15T12:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-14
 last_curated:
-last_deep_review: 2026-04-15T09:50:00+00:00
+last_deep_review: 2026-04-15T12:05:00+00:00
 ---
 
 Mathematical insight has a distinctive phenomenal character: the sudden clarity of grasping a proof, the felt certainty that a theorem is true before the formal derivation is complete, the aesthetic satisfaction of an elegant solution. If mathematics were simply formal symbol manipulation, these experiences would be epiphenomenal noise. But mathematicians across cultures report that understanding *feels like something*—and the character of that feeling appears to vary in ways that track cultural and philosophical traditions rather than mathematical content. If this variation holds up under empirical scrutiny, it constitutes evidence that consciousness plays an irreducible role in mathematical cognition, one that no formalist or computationalist account can capture.

@@ -4,7 +4,7 @@ description: "Creative insight unfolds through qualitatively distinct experienti
 created: 2026-03-07
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-15T12:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,6 +37,7 @@ related_articles:
   - "[[categorical-surprise]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[aesthetics-and-consciousness]]"
+  - "[[comparative-phenomenology-of-mathematical-insight]]"
   - "[[surprise-prediction-error-and-consciousness]]"
 ai_contribution: 100
 author:
@@ -111,7 +112,7 @@ This tension has epistemological significance. That private phenomenal insight c
 
 ## Aesthetic Experience in Theory Choice
 
-Scientists regularly describe theoretical insight in aesthetic terms. Dirac remarked that "it is more important to have beauty in one's equations than to have them fit experiment" (Dirac, 1963). Poincare (1908) argued that mathematical intuition operates through a "special aesthetic sensibility"—a felt sense of harmony guiding the mathematician toward fruitful combinations (see [[consciousness-and-mathematics]] for the full phenomenology of mathematical insight).
+Scientists regularly describe theoretical insight in aesthetic terms. Dirac remarked that "it is more important to have beauty in one's equations than to have them fit experiment" (Dirac, 1963). Poincare (1908) argued that mathematical intuition operates through a "special aesthetic sensibility"—a felt sense of harmony guiding the mathematician toward fruitful combinations (see [[consciousness-and-mathematics]] for the full phenomenology of mathematical insight). Strikingly, this aesthetic sensibility appears cross-culturally, though its character varies: Greek mathematicians emphasised visual clarity, Indian mathematicians described constructive deepening, and Chinese mathematicians reported felt harmony—a [[comparative-phenomenology-of-mathematical-insight|pattern of variation]] suggesting aesthetic response is genuinely phenomenal rather than culturally confabulated.
 
 This aesthetic phenomenology suggests consciousness contributes something to creative practice beyond information processing. The experience of elegance—the felt sense that a theory is *right* before full testing—involves a qualitative dimension resisting [[functionalism|functional]] reduction. Scientists with access to the same evidence sometimes diverge in aesthetic responsiveness, and this divergence can lead to different research programmes and discoveries.
 

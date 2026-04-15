@@ -4,7 +4,7 @@ description: "Every major philosophy of mathematics implies a philosophy of cons
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-15T12:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[epistemic-advantages-of-dualism]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[intrinsic-nature-void]]"
+  - "[[comparative-phenomenology-of-mathematical-insight]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -87,7 +88,7 @@ The diagnostic value of this intersection would weaken if:
 
 2. **Formalism recovered from Gödel.** If a neo-formalist programme showed that all mathematically relevant truths could be captured by sufficiently powerful formal systems, the gap between symbol manipulation and understanding would narrow. Current prospects for this are dim—Gödel's results are theorems, not conjectures.
 
-3. **The phenomenology of mathematical understanding proved eliminable.** If neuroscience showed that the felt difference between verification and insight reduces entirely to differences in processing fluency, with no irreducible phenomenal character, the consciousness connection would weaken. But the persistence of [[cognitive-phenomenology]] debates suggests this reduction has not been achieved.
+3. **The phenomenology of mathematical understanding proved eliminable.** If neuroscience showed that the felt difference between verification and insight reduces entirely to differences in processing fluency, with no irreducible phenomenal character, the consciousness connection would weaken. But the persistence of [[cognitive-phenomenology]] debates suggests this reduction has not been achieved. Moreover, [[comparative-phenomenology-of-mathematical-insight|cross-cultural evidence]] suggests phenomenological variation that tracks cultural tradition rather than mathematical content — variation that processing-fluency accounts struggle to explain.
 
 4. **AI systems demonstrated genuine mathematical creativity.** If artificial systems produced novel mathematical insights—not just verified proofs but generated the kind of understanding Gödel attributed to intuition—without any plausible phenomenal experience, the claim that mathematical knowledge requires consciousness would face a serious challenge.
 
