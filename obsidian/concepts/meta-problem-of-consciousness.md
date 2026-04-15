@@ -4,7 +4,7 @@ description: "Why do we think consciousness is hard to explain? Chalmers' meta-p
 created: 2026-02-09
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-16T02:18:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[qualia]]"
   - "[[introspection]]"
   - "[[attention-schema-theory]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenal-concepts-strategy]]"
   - "[[knowledge-argument]]"
   - "[[conceivability-possibility-inference]]"
@@ -94,7 +94,7 @@ This response does require that consciousness can influence physical outcomes wi
 
 ## The Phenomenal Transparency Connection
 
-[[phenomenal-transparency|Phenomenal transparency]]—the property by which experience conceals its own representational nature—adds another dimension to the meta-problem. If we cannot introspectively detect the processing stages that produce our experiences, our problem intuitions may partly reflect this blindness. Thomas Metzinger's account of the phenomenal self-model develops this idea: the transparency of self-representation means we cannot experience the representational process *as* representation, which generates the conviction that consciousness is fundamentally unlike anything physical. We report that consciousness is mysterious because we literally cannot see the mechanism from the inside.
+[[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]]—the property by which experience conceals its own representational nature—adds another dimension to the meta-problem. If we cannot introspectively detect the processing stages that produce our experiences, our problem intuitions may partly reflect this blindness. Thomas Metzinger's account of the phenomenal self-model develops this idea: the transparency of self-representation means we cannot experience the representational process *as* representation, which generates the conviction that consciousness is fundamentally unlike anything physical. We report that consciousness is mysterious because we literally cannot see the mechanism from the inside.
 
 This cuts both ways. Physicalists can argue transparency explains *why* consciousness seems irreducible—we can't see the physical machinery, so we conclude none exists. Dualists can argue transparency explains *why* the hard problem is so persistently overlooked—the invisibility of the representational medium means we chronically underestimate how strange consciousness is.
 
@@ -126,7 +126,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is relevant because
 - [[philosophical-zombies]] — The thought experiment sharpening the meta-problem
 - [[metaproblem-of-consciousness-under-dualism]] — How interactionist dualism turns the metaproblem into evidence for dualism
 - [[illusionism#Structural Convergence with Epiphenomenalism|Illusionism as Epiphenomenalism]] — Why illusionism and epiphenomenalism face identical meta-problem burdens
-- [[phenomenal-transparency]] — How self-concealing representation connects to problem intuitions
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — How self-concealing representation connects to problem intuitions
 - [[causal-closure]] — The challenge interactionism must address
 - [[mysterianism]] — The view that consciousness may exceed human comprehension
 

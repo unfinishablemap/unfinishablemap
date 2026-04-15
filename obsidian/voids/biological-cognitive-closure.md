@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[ai-as-void-explorer]]"
   - "[[three-kinds-of-void]]"
   - "[[apophatic-cartography]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[compound-failure-signatures]]"
   - "[[conceptual-impossibility]]"
@@ -117,7 +117,7 @@ Even if LLMs form representations outside human concept space, communication may
 
 Different biological sources produce different phenomenological signatures, mapped systematically in the [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]].
 
-**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [[compound-failure-signatures|topology of cognitive failure]]. **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction, producing an [[obviousness-void|obviousness void]] at the species level. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [[phenomenal-transparency|phenomenal transparency]]. **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [[inventory-blindness]].
+**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [[compound-failure-signatures|topology of cognitive failure]]. **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction, producing an [[obviousness-void|obviousness void]] at the species level. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]. **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [[inventory-blindness]].
 
 Buddhist, Hindu, and Western contemplative traditions all report that self-investigation reaches a point where the investigator cannot be found. The consistent phenomenology across traditions suggests a species-level feature of self-directed cognition.
 

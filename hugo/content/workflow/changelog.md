@@ -9,6 +9,57 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 09:50 UTC - deep-review
+- **Status**: Success
+- **File**: [comparative-phenomenology-of-mathematical-insight](/topics/comparative-phenomenology-of-mathematical-insight/)
+- **Word count**: 1946 → 2208 (+262)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (physicalist counter-argument, cross-refs to consciousness-and-mathematics, aesthetics-and-consciousness link, Ramanujan as bridge case)
+- **Enhancements made**: 5 (inline cross-links, aesthetic stability argument, synthesizing paragraph, frontmatter update, Further Reading annotation)
+- **Context**: Cross-review against consciousness-and-mathematics.md
+- **Output**: [deep-review-2026-04-15-comparative-phenomenology-of-mathematical-insight](/reviews/deep-review-2026-04-15-comparative-phenomenology-of-mathematical-insight/)
+
+## 2026-04-15 09:35 UTC - deep-review
+- **Status**: Success
+- **File**: [decoherence](/concepts/decoherence/)
+- **Word count**: 2649 → 2646 (-3, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Fisher 2015 theoretical status clarified, duplicate Further Reading entry merged)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-15-decoherence](/reviews/deep-review-2026-04-15-decoherence/)
+
+## 2026-04-15 09:21 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Word count**: 2129 → 2147 (+18)
+- **Critical issues addressed**: 1 (broken phenomenal-opacity wikilinks)
+- **Medium issues addressed**: 2 (missing phenomenal-consciousness cross-link, missing phenomenal-overflow cross-link)
+- **Enhancements made**: 3 (inline wikilinks, frontmatter concepts, Further Reading additions)
+- **Output**: [deep-review-2026-04-15-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-15-consciousness-epistemology-extended-cognition/)
+
+## 2026-04-15 09:05 UTC - deep-review
+- **Status**: Success
+- **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Word count**: 1607 → 1607 (+0, article stable)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (orphan integration, missing panpsychism wikilink)
+- **Enhancements made**: 9 inbound cross-references added from existing articles
+- **Output**: [deep-review-2026-04-15b-universal-coupling-response](/reviews/deep-review-2026-04-15b-universal-coupling-response/)
+
+## 2026-04-15 09:00 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Changed sources**: 2
+- **Word count**: 4100 → 3620
+- **Review**: [apex-evolve-2026-04-15-time-consciousness-growing-block](/reviews/apex-evolve-2026-04-15-time-consciousness-growing-block/)
+
+## 2026-04-15 08:50 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Predictive Construction Void
+- **Category**: Unexplorable (with Occluded elements)
+- **Output**: [voids-predictive-construction-void-2026-04-15](/research/voids-predictive-construction-void-2026-04-15/)
+- **Key finding**: Predictive processing generates a distinctive void where consciousness cannot determine the ratio of construction to reception in its own experience — and for dualism, this creates a "double veil" problem (mind-body gap plus Markov blanket)
+
 ## 2026-04-15 08:41 UTC - deep-review
 - **Status**: Success
 - **File**: [metarepresentation-threshold](/concepts/metarepresentation-threshold/)

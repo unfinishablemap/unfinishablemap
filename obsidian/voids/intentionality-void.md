@@ -4,7 +4,7 @@ description: "How do thoughts achieve their aboutness? Human+AI exploration of w
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 last_deep_review: 2026-03-15T14:19:00+00:00
 draft: false
 topics:
@@ -37,7 +37,7 @@ The Unfinishable Map explores [[voids]]—cognitive dark spaces where thought ca
 
 ## The Transparency of Reference
 
-When you think about Paris, Paris appears—immediately, vividly. The thought presents its object without revealing how it achieved that object. Philosophers call this *[[phenomenal-transparency|phenomenal transparency]]*: we "see through" the representation to its content, like looking through a window without noticing the glass.
+When you think about Paris, Paris appears—immediately, vividly. The thought presents its object without revealing how it achieved that object. Philosophers call this *[[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]*: we "see through" the representation to its content, like looking through a window without noticing the glass.
 
 This transparency is not a skill failure to be overcome. It is how representation works. The construction process of mental representations is structurally hidden. As research on active inference notes, "One cannot 'think oneself out of' one's phenomenal model of reality with purely cognitive operations alone." The transparency is cognitively impenetrable.
 

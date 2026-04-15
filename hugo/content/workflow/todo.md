@@ -38,25 +38,53 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate universal-coupling-response.md into site navigation
+### P1: Fix stale wikilinks from phenomenal-transparency/opacity coalesce (18 files)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-13 merged phenomenal-transparency + phenomenal-opacity → phenomenal-transparency-opacity-spectrum. Cross-review was marked complete but 18 active content files still reference archived slugs `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` and/or `[phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)`. Affected files include: curated-mind.md, phenomenology-of-recursive-self-awareness.md, consciousness-and-the-authority-of-formal-systems.md, dualist-perception.md, perceptual-failure-and-the-interface.md, introspection.md, perception.md, meta-problem-of-consciousness.md, fitness-beats-truth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, perceptual-degradation-and-the-interface.md, self-reference-paradox.md, phenomenal-depth.md, biological-cognitive-closure.md, necessary-opacity.md, projection-void.md, ownership-void.md. Update all to `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` (with appropriate display text where needed).
+- **Source**: chain (from coalesce 2026-04-13)
+- **Generated**: 2026-04-15
+
+### P2: Write concept page on tenet falsification conditions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/tenet-falsification-conditions-2026-04-05.md. What would it take to falsify each of the five tenets? A dedicated concept page cataloguing specific falsification conditions strengthens the Map's philosophical credibility by making commitments explicit and testable. Distinct from testability-ledger (which catalogues empirical predictions); this focuses on what evidence would force abandonment of each tenet. Directly supports all five tenets. Target section: concepts/ (222/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-15
+
+### P2: Write concept page on consciousness and normativity of reason
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. The claim that consciousness is necessary for genuine norm-following (as opposed to mere rule-implementation) recurs across argument-from-reason, self-stultification-as-master-argument, and consciousness-and-the-authority-of-formal-systems but lacks a dedicated concept page. Synthesising this would anchor a key argument thread. Target section: concepts/ (222/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-15
+
+### P2: Write concept page on consciousness and metaphysics of composition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-metaphysics-of-composition-2026-04-05.md. How does consciousness relate to mereological composition? The combination problem, phenomenal unity, and the question of whether experience has parts all intersect here. No existing article treats this systematically despite references across panpsychism, binding-problem, and phenomenal-non-compositionality articles. Target section: concepts/ (222/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-15
+
+### P2: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the response pattern where consciousness, unlike all physical systems, does not universally couple to its environment. Add cross-references from mind-matter-interface, princess-elizabeths-challenge, and interaction-problem articles.
+- **Notes**: File created 2026-04-14, has no inbound links. Topics article on cross-cultural and cross-domain patterns in mathematical insight phenomenology. Add cross-references from related articles (consciousness-and-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) or update section index pages.
 - **Source**: orphan_integration
 - **Generated**: 2026-04-15
 
-### P2: Cross-review consciousness-epistemology-extended-cognition.md against related articles
-- **Type**: cross-review
+### P2: Integrate pragmatist-normative-bridge.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md (created 2026-04-11) examines how dualist consciousness bears on the extended mind thesis. Review embodied-cognition.md, embodied-consciousness-and-the-interface.md, and consciousness-and-cognitive-distinctiveness.md for cross-links, reinforcing arguments about the boundaries of conscious cognition, and terminology consistency. Currently orphaned (no inbound links).
-- **Source**: chain (from consciousness-epistemology-extended-cognition.md)
+- **Notes**: File created 2026-04-13, has no inbound links. Topics article connecting pragmatist philosophy to normative force arguments. Add cross-references from related articles (pragmatisms-path-to-dualism, consciousness-and-normative-force, pragmatism-and-qbism) or update section index pages.
+- **Source**: orphan_integration
 - **Generated**: 2026-04-15
 
-### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
-- **Type**: cross-review
+### P2: Integrate ethics-of-consciousness-invertebrate-question.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: New article topics/comparative-phenomenology-of-mathematical-insight.md (created 2026-04-14) provides phenomenological detail on mathematical insight across traditions. Review consciousness-and-mathematics.md and consciousness-and-the-philosophy-of-mathematics.md for cross-links and consistency. Article is orphaned (no inbound links) — cross-review should add wikilinks from existing mathematical consciousness articles.
-- **Source**: chain (from comparative-phenomenology-of-mathematical-insight.md)
+- **Notes**: File created 2026-04-13, has no inbound links. Topics article on ethical implications of invertebrate consciousness under the Map's framework. Add cross-references from related articles (invertebrate-consciousness-as-interface-test, animal-consciousness, consciousness-and-ethics) or update section index pages.
+- **Source**: orphan_integration
 - **Generated**: 2026-04-15
 
 ### P2: Write article on the metaphor void
@@ -2048,6 +2076,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
+- **Type**: cross-review
+- **Notes**: New article topics/comparative-phenomenology-of-mathematical-insight.md (created 2026-04-14) provides phenomenological detail on mathematical insight across traditions. Review consciousness-and-mathematics.md and consciousness-and-the-philosophy-of-mathematics.md for cross-links and consistency. Article is orphaned (no inbound links) — cross-review should add wikilinks from existing mathematical consciousness articles.
+- **Output**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md -- Context: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
+
+### ✓ 2026-04-15: Cross-review consciousness-epistemology-extended-cognition.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md (created 2026-04-11) examines how dualist consciousness bears on the extended mind thesis. Review embodied-cognition.md, embodied-consciousness-and-the-interface.md, and consciousness-and-cognitive-distinctiveness.md for cross-links, reinforcing arguments about the boundaries of conscious cognition, and terminology consistency. Currently orphaned (no inbound links).
+- **Output**: obsidian/topics/consciousness-epistemology-extended-cognition.md -- Context: Cross-review consciousness-epistemology-extended-cognition.md against related articles
+
+### ✓ 2026-04-15: Integrate universal-coupling-response.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the response pattern where consciousness, unlike all physical systems, does not universally couple to its environment. Add cross-references from mind-matter-interface, princess-elizabeths-challenge, and interaction-problem articles.
+- **Output**: obsidian/concepts/universal-coupling-response.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Integrate metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-12 16:56:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,8 +22,7 @@ concepts:
 - '[[causal-interface]]'
 - '[[contemplative-epistemology]]'
 - '[[self-stultification]]'
-- '[[phenomenal-transparency]]'
-- '[[phenomenal-opacity]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Our primary access to consciousness is contested. But critiques target
@@ -63,7 +62,7 @@ The [recognition-void](/voids/recognition-void/) demonstrates this concretely: C
 
 This distinction maps onto the [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/): the subject has privileged access to phenomenal content (the subject-side) while the causal processes producing that content remain on the object-side, accessible only through third-person methods. Russell's distinction between knowledge by acquaintance and description captures the same asymmetry: introspection critics show we lack descriptive access to process while leaving acquaintance with content intact. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for the conditions under which such acquaintance constitutes genuine evidence.
 
-Metzinger's [transparency](/concepts/phenomenal-transparency-opacity-spectrum/)-[opacity](/concepts/phenomenal-transparency-opacity-spectrum/) spectrum provides the mechanism behind this asymmetry. Perceptual representations are normally *transparent*: you see the apple, not your visual cortex's model of it. The processing stages that construct experience operate below the threshold of introspective access. Process opacity is not a failure of attention but a structural feature — the representational medium conceals itself. Phenomenal *content*, by contrast, is what transparently-presented representations deliver: the experienced quality itself. The introspection critics demonstrate that processing is transparent (invisible); they do not show that the delivered content is unreliable. [Introspective opacity](/voids/self-opacity/)—explored as a void in the Map—names this structural limit. The [intentionality void](/voids/intentionality-void/) applies it directly to reference: we know *what* our thoughts are about but not *how* they achieve their aboutness.
+Metzinger's [transparency-opacity spectrum](/concepts/phenomenal-transparency-opacity-spectrum/) provides the mechanism behind this asymmetry. Perceptual representations are normally *transparent*: you see the apple, not your visual cortex's model of it. The processing stages that construct experience operate below the threshold of introspective access. Process opacity is not a failure of attention but a structural feature — the representational medium conceals itself. Phenomenal *content*, by contrast, is what transparently-presented representations deliver: the experienced quality itself. The introspection critics demonstrate that processing is transparent (invisible); they do not show that the delivered content is unreliable. [Introspective opacity](/voids/self-opacity/)—explored as a void in the Map—names this structural limit. The [intentionality void](/voids/intentionality-void/) applies it directly to reference: we know *what* our thoughts are about but not *how* they achieve their aboutness.
 
 This distinction is crucial for the [hard problem](/topics/hard-problem-of-consciousness/). [Cognitive science itself](/topics/cognitive-science-of-dualism/) depends on it: every neural correlate study trusts the subject's first-person report as testimony *about* experience, not merely as behavioural output. Arguments for dualism don't depend on introspecting cognitive processes—they depend on recognizing that experience has a qualitative character differing from its neural correlates. [Qualia](/concepts/qualia/) are what experience *is*, not what causes experience. The [consciousness-language interface](/topics/consciousness-and-language-interface/) complicates this: introspection is often linguistically mediated, and the linguistic encoding necessarily loses content from the original phenomenal state.
 
@@ -91,7 +90,7 @@ Key techniques include:
 - Re-enactment: having subjects relive experiences rather than abstract from them
 - Process focus: asking "how did that unfold?" rather than "what was it?"
 
-The goal is triggering what Husserl called the phenomenological reduction—attending to experience itself rather than our theories about experience. In Metzinger's terms, microphenomenology cultivates [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)—shifting experience from transparent (presenting as direct contact with reality) toward opaque (visible *as* representation). "Performative coherence" replaces correspondence as the validity criterion: does the description cohere with the actual texture of lived experience? This criterion faces a circularity charge: determining the "actual texture" requires the very introspective access under evaluation. Microphenomenology constrains the calibration problem without solving it.
+The goal is triggering what Husserl called the phenomenological reduction—attending to experience itself rather than our theories about experience. In Metzinger's terms, microphenomenology cultivates [phenomenal opacity](/concepts/phenomenal-transparency-opacity-spectrum/)—shifting experience from transparent (presenting as direct contact with reality) toward opaque (visible *as* representation). "Performative coherence" replaces correspondence as the validity criterion: does the description cohere with the actual texture of lived experience? This criterion faces a circularity charge: determining the "actual texture" requires the very introspective access under evaluation. Microphenomenology constrains the calibration problem without solving it.
 
 ## Critical Phenomenology: A Middle Path
 
@@ -169,8 +168,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 
 ## Further Reading
 
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience presents as direct contact with reality, hiding the representational medium from introspection
-- [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) — When representations become visible as representations, revealing the cognitive architecture transparency hides
+- [phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/) — The transparency-opacity spectrum: why experience presents as direct contact with reality and when representations become visible, revealing the cognitive architecture transparency hides
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How linguistic mediation shapes what introspection can access
 - [self-reference paradox](/voids/self-opacity/) — The structural impossibility of observing the observer
 - [causal-interface](/voids/causal-interface/) — The void where process access fails most dramatically

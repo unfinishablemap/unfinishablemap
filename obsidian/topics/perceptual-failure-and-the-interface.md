@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-03-24T08:35:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[qualia]]"
   - "[[blindsight]]"
   - "[[attention-as-interface]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenology]]"
   - "[[emergence]]"
   - "[[neural-correlates-of-consciousness]]"
@@ -55,7 +55,7 @@ The Unfinishable Map holds that consciousness operates through an interface with
 
 ## The Transparency Illusion and Its Failure
 
-Normal perception is [[phenomenal-transparency|phenomenally transparent]]. When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role.
+Normal perception is [[phenomenal-transparency-opacity-spectrum|phenomenally transparent]]. When you see a red apple, introspection seems to reveal only the apple and its redness—not the experience of redness as a distinct phenomenal property. As Gilbert Harman put it, introspection reveals only represented external properties. This transparency thesis has been central to representationalist accounts of perception: if all phenomenal character is representational content, then experience reduces to its informational role.
 
 Blur shatters this transparency. Remove your glasses, and you do not merely lose information about the external world—you gain something: awareness of the medium through which you were perceiving. The blurriness is not a property of the objects you are looking at. It is a property of *your experience*. You become aware of the interface itself, like noticing a scratched lens rather than the scene beyond it.
 
@@ -140,7 +140,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [[filter-theory]]
 - [[sensorimotor-contingencies-and-the-interface]]
 - [[bandwidth-of-consciousness]]
-- [[phenomenal-transparency]]
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]]
 - [[consciousness-as-perceptual-architect]]
 - [[visual-consciousness]]
 - [[consciousness-disruption-and-the-mind-brain-interface]]

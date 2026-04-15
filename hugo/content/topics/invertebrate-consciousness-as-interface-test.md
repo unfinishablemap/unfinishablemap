@@ -90,7 +90,7 @@ Three responses are available:
 
 **The threshold response** holds that insect brains fall below the minimum architectural requirements for coupling, despite behavioural appearances. The sophistication of their behaviour reflects unconscious processing. This preserves a principled boundary but faces growing empirical pressure from masking paradigms and trace conditioning evidence.
 
-**The universal coupling response** holds that all architecturally adequate systems do couple with consciousness—insects included. This is the most parsimonious position for dualism but extends consciousness widely, approaching (without reaching) panpsychism for any organism with sufficient neural integration.
+**The [universal coupling response](/concepts/universal-coupling-response/)** holds that all architecturally adequate systems do couple with consciousness—insects included. This is the most parsimonious position for dualism but extends consciousness widely, approaching (without reaching) panpsychism for any organism with sufficient neural integration.
 
 **The coupling selectivity response** holds that consciousness couples selectively with some adequate systems but not others, based on features we haven't identified. This is the least satisfying option—it introduces an unexplained selection principle that does the work dualism was supposed to avoid needing.
 

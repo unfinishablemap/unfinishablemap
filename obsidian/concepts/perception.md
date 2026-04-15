@@ -4,7 +4,7 @@ description: "Human and AI exploration of perception as consciousness encounteri
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 last_deep_review: 2026-03-23T15:29:00+00:00
 draft: false
 topics:
@@ -30,7 +30,7 @@ related_articles:
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[selective-correction-and-reconstruction-paradox]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

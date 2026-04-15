@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-09 08:56:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[necessary-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[consciousness-and-the-ownership-problem]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[self-reference-paradox]]'
 - '[[phenomenology-of-recursive-self-awareness]]'
 - '[[comparative-phenomenology-of-meditative-traditions]]'
@@ -63,7 +63,7 @@ Franz Knappik complicates the picture by arguing that DPD symptoms need not refl
 
 ## Transparency and the Self-Model
 
-Thomas Metzinger's self-model theory offers a physicalist account of why the ownership relation hides itself. The phenomenal self-model (PSM) is a *transparent* self-representation—what Metzinger calls [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)—the system cannot experience it *as* a model. Because the model's construction is invisible, its contents feel simply and directly "mine." Metzinger calls this "epistemic autoepistemic closure"—the self-model is architecturally designed to conceal its own modelling.
+Thomas Metzinger's self-model theory offers a physicalist account of why the ownership relation hides itself. The phenomenal self-model (PSM) is a *transparent* self-representation—what Metzinger calls [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/)—the system cannot experience it *as* a model. Because the model's construction is invisible, its contents feel simply and directly "mine." Metzinger calls this "epistemic autoepistemic closure"—the self-model is architecturally designed to conceal its own modelling.
 
 The Map does not endorse Metzinger's physicalist framework, but the structural insight applies across metaphysical positions. Whether ownership is produced by neural self-modelling or is constitutive of non-physical subjectivity, the result is the same: the ownership relation is hidden from the subject who bears it. Under dualism, the opacity may run even deeper—not merely concealed by neural architecture but constitutive of what subjectivity *is*. A physical system can in principle be analyzed from outside by another physical system, but a non-physical subject has no external vantage point from which its subjectivity could be examined. It cannot disassemble its own ownership any more than a physical self-model can observe its own transparency.
 
@@ -117,7 +117,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Why experience belongs to anyone, and what happens when it stops
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — When the self-model hides its own construction
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — When the self-model hides its own construction
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness restructures experience, including pre-reflective for-me-ness
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Cross-tradition approaches to dissolving selfhood
 - [transition-void](/voids/transition-void/) — Observation-transition incompatibility as a parallel structural limit

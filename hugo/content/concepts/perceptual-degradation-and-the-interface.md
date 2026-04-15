@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-23 22:01:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[interface-friction]]'
 - '[[filter-theory]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[qualia]]'
 - '[[blindsight]]'
 - '[[phenomenal-consciousness]]'
@@ -98,7 +98,7 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/)
 - [interface-friction](/concepts/interface-friction/)
 - [filter-theory](/concepts/filter-theory/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
 - [attention-as-interface](/concepts/attention-as-interface/)

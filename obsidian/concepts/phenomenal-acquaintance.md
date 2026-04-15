@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-03-19T00:15:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[modal-structure-of-phenomenal-properties]]"
   - "[[intentionality]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[acquaintance-void]]"
 ai_contribution: 100
 author:
@@ -88,7 +88,7 @@ Higher-order thought theories (Rosenthal, Brown) raise a deeper challenge to the
 
 The acquaintance theorist's reply: higher-order theories face a dilemma of their own. If the higher-order representation is accurate—if it faithfully represents the first-order state's qualitative character—then the qualitative character must be present in the first-order state for the representation to get right. But then acquaintance with qualitative character occurs at the first-order level, and the higher-order representation merely notices it. If instead the higher-order representation *creates* qualitative character that is absent from the first-order state, then consciousness is constituted by a representation misrepresenting its target—an account that struggles to explain why introspective reports track genuine qualities so reliably.
 
-Representationalists raise a different challenge. If introspection is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not to intrinsic qualities of experience. [[phenomenal-transparency|Phenomenal transparency]] is real as a phenomenological datum: experience does present itself as direct contact with the world. The dualist response is that this transparency itself presupposes acquaintance: the reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness. Transparency describes how acquaintance operates, not evidence that it fails to reach [[phenomenal-consciousness|phenomenal qualities]].
+Representationalists raise a different challenge. If introspection is *transparent*—if attending to your experience of red just is attending to the redness of the object—then acquaintance gives access to represented properties of the world, not to intrinsic qualities of experience. [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] is real as a phenomenological datum: experience does present itself as direct contact with the world. The dualist response is that this transparency itself presupposes acquaintance: the reason attending to the experience of red feels like attending to redness is that the qualitative character *of the experience* constitutively involves redness. Transparency describes how acquaintance operates, not evidence that it fails to reach [[phenomenal-consciousness|phenomenal qualities]].
 
 A stronger concern emerges from the distinction between phenomenal acquaintance (being directly presented with a quality) and metaphysical characterisation (judging what that quality's ontological status is). Acquaintance with pain positions you to know *what pain is like*. It does not automatically position you to determine whether pain is ontologically reducible to physical processes. The step from "I am acquainted with this quality" to "this quality is non-physical" requires philosophical argument, not mere acquaintance.
 

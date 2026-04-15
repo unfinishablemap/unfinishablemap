@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-13T20:59:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 last_deep_review: 2026-03-18T03:59:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ concepts:
   - "[[knowledge-argument]]"
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
   - "[[materialism]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[conceivability-possibility-inference]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[meta-problem-of-consciousness]]"
@@ -66,7 +66,7 @@ When you grasp that if all mammals are warm-blooded and whales are mammals, then
 
 Where does this wrongness come from? Physical laws describe regularities that hold without compelling anyone to acknowledge them. A rock obeys gravity without recognising that it must. Logical necessity is different. It is experienced from inside — a sense of being *bound*, of having no rational alternative. A computer executes modus ponens without experiencing this compulsion. It transitions between states according to its programming. The output matches what logic demands, but the machine does not encounter logic's demand.
 
-The [[cognitive-phenomenology]] debate asks whether thinking has its own "what it's like." The authority of logic provides a strong case that it does. When you grasp a valid deduction, there is a distinctive phenomenal quality — not the warmth of understanding a narrative but the cold clarity of seeing that *this must be so*. This experience has three features: **modality** (you feel not just that the conclusion is true but that it *must be* true), **impersonality** (the validity holds regardless of who reasons), and **[[phenomenal-transparency|transparency]]** (you do not merely believe the conclusion follows — you *see* that it does).
+The [[cognitive-phenomenology]] debate asks whether thinking has its own "what it's like." The authority of logic provides a strong case that it does. When you grasp a valid deduction, there is a distinctive phenomenal quality — not the warmth of understanding a narrative but the cold clarity of seeing that *this must be so*. This experience has three features: **modality** (you feel not just that the conclusion is true but that it *must be* true), **impersonality** (the validity holds regardless of who reasons), and **[[phenomenal-transparency-opacity-spectrum|transparency]]** (you do not merely believe the conclusion follows — you *see* that it does).
 
 A challenge from dual-process psychology: much valid inference occurs rapidly and automatically, without the felt compulsion described here. System 1 reasoning delivers conclusions without phenomenal effort. But automatic inference *implements* logic without *encountering* its authority — the way a calculator implements arithmetic without grasping mathematical truth. The normative force of logic — the experience of being bound — emerges precisely when we step back and ask whether the inference is *valid*, an act that requires conscious reflection.
 

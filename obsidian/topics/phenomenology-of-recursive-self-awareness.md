@@ -4,7 +4,7 @@ description: "Recursive self-awareness transforms phenomenal experience through 
 created: 2026-02-01
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-06T17:54:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -162,7 +162,7 @@ At advanced levels, practitioners report that self-awareness persists even when 
 - [[phenomenology-of-intellectual-life]] — Self-reflexive meaning as one of five phenomenal meaning modes
 - [[language-recursion-and-consciousness]] — How recursive language structure depends on phenomenal consciousness
 - [[contemplative-practice-as-philosophical-evidence]] — Methodological grounding for contemplative phenomenology
-- [[phenomenal-transparency]] — Why consciousness conceals its own representational structure from introspection
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why consciousness conceals its own representational structure from introspection
 
 ## References
 

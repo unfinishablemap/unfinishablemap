@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-03 12:38:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -18,7 +18,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[heterophenomenology]]'
 - '[[perceptual-reconstruction-selection]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[consciousness-selecting-neural-patterns]]'
 created: 2026-03-12
 date: &id001 2026-04-02
@@ -90,7 +90,7 @@ The boundary between conscious knowledge and perceptual processing is itself rev
 
 The boundary is not absolute. Pylyshyn (1999) distinguished *synchronic* penetration (real-time belief correction, largely absent) from *diachronic* penetration (extended experience gradually reshaping perceptual modules). Radiologists develop the ability to see tumours that novices miss. Some cross-cultural populations show reduced Müller-Lyer susceptibility. Consciousness cannot intervene in the fast modular processing that delivers each moment's experience, but sustained engagement with reality gradually sculpts the modules themselves — influence without override, operating on a different timescale than the perceptual machinery.
 
-Cognitive impenetrability is closely related to [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — the property by which conscious representations conceal themselves as representations. The filled-in blind spot is maximally transparent: consciousness sees a continuous visual field and cannot detect the construction. The Müller-Lyer illusion is partially transparent: consciousness sees the illusion while knowing it is false, a crack in transparency that reveals the representational medium without enabling correction. These two properties — impenetrability and transparency — jointly define the experiential boundary that the reconstruction paradox exposes. This boundary marks one of the Map's [consciousness-only-territories](/voids/consciousness-only-territories/) — a region where consciousness encounters the limits of its own access. These limits are experienced from the inside but cannot be explained from the outside by purely computational accounts.
+Cognitive impenetrability is closely related to [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — the property by which conscious representations conceal themselves as representations. The filled-in blind spot is maximally transparent: consciousness sees a continuous visual field and cannot detect the construction. The Müller-Lyer illusion is partially transparent: consciousness sees the illusion while knowing it is false, a crack in transparency that reveals the representational medium without enabling correction. These two properties — impenetrability and transparency — jointly define the experiential boundary that the reconstruction paradox exposes. This boundary marks one of the Map's [consciousness-only-territories](/voids/consciousness-only-territories/) — a region where consciousness encounters the limits of its own access. These limits are experienced from the inside but cannot be explained from the outside by purely computational accounts.
 
 ## Relation to Site Perspective
 
@@ -105,7 +105,7 @@ Cognitive impenetrability is closely related to [phenomenal-transparency](/conce
 ## Further Reading
 
 - [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — The third mode: consciousness selecting among ambiguous percepts
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why the construction is invisible to consciousness
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why the construction is invisible to consciousness
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface
 - [filter-theory](/concepts/filter-theory/) — Consciousness as filter rather than generator
 - [blindsight](/concepts/blindsight/) — Visual processing without conscious transmission

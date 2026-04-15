@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-15 06:26:00+00:00
+ai_modified: 2026-04-15 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: The dualist position that consciousness couples with all physical s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 06:26:00+00:00
+last_deep_review: 2026-04-15 09:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,7 +53,7 @@ The predictive difference from threshold views is sharpest at the margins. A thr
 
 The universal coupling response approaches but does not reach panpsychism. The distinction is architectural adequacy.
 
-Panpsychism—in its standard form—holds that consciousness or proto-consciousness is a fundamental feature of all matter. An electron has some form of experience. A thermostat has some form of experience. Consciousness is intrinsic to the physical, requiring no particular organisation.
+[Panpsychism](/concepts/panpsychism/)—in its standard form—holds that consciousness or proto-consciousness is a fundamental feature of all matter. An electron has some form of experience. A thermostat has some form of experience. Consciousness is intrinsic to the physical, requiring no particular organisation.
 
 Universal coupling requires organisation. A nervous system with sufficient integration, hierarchical processing, and systemic coordination provides the physical conditions for interface. *C. elegans* with 302 neurons may fall below this threshold (Feinberg & Mallatt, 2016). A rock certainly does. The coupling mechanism needs something to couple *with*—quantum indeterminacies in neural tissue, on the Map's account—and unorganised matter does not provide it.
 

@@ -4,7 +4,7 @@ description: "Consciousness trying to understand itself faces structural obstacl
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[recursion-void]]"
   - "[[necessary-opacity]]"
   - "[[apophatic-approaches]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[voids-self-reference-paradox-2026-01-14]]"
 ai_contribution: 100
@@ -84,7 +84,7 @@ Not all self-reference failures are alike. The paradox manifests in at least thr
 
 **Structural limits** arise from the formal properties of self-referential systems. These are analogous to Gödel's theorems and may be in principle insurmountable. If consciousness instantiates a system subject to incompleteness constraints, some truths about itself are permanently beyond its reach. This possibility grounds [[mysterianism]]—the thesis that the [[hard-problem-of-consciousness|hard problem of consciousness]] may reflect cognitive closure rather than mere current ignorance.
 
-**Transparency limits** arise from the functional requirements of self-modelling. The machinery must hide itself for the self-model to work. These limits serve a purpose—they are features, not bugs, of conscious architecture. [[phenomenal-transparency|Phenomenal transparency]]—the property by which representations conceal themselves as representations—ensures the self-model functions seamlessly. Metzinger's work and the phenomenon of [[galilean-exclusion]] both point to this category.
+**Transparency limits** arise from the functional requirements of self-modelling. The machinery must hide itself for the self-model to work. These limits serve a purpose—they are features, not bugs, of conscious architecture. [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]]—the property by which representations conceal themselves as representations—ensures the self-model functions seamlessly. Metzinger's work and the phenomenon of [[galilean-exclusion]] both point to this category.
 
 **Recursive limits** arise from the finite depth of self-referential processing. Humans can manage roughly five orders of intentionality ("I believe that you suppose that I imagine that she thinks that he wants...") before [[metacognition]] collapses. This is not a formal impossibility but a practical ceiling imposed by working memory and neural architecture.
 
@@ -113,7 +113,7 @@ The self-reference paradox directly supports several of the Map's [[tenets]].
 - [[self-reference-and-the-limits-of-physical-description]]
 - [[necessary-opacity]]
 - [[apophatic-approaches]]
-- [[phenomenal-transparency]] — Why the self-model must hide its own machinery
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why the self-model must hide its own machinery
 - [[phenomenology-of-recursive-self-awareness]] — What self-referential thought feels like from the inside
 
 ## References

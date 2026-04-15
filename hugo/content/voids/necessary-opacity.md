@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -34,7 +34,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[defended-territory]]'
 - '[[ai-as-void-explorer]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[phenomenal-quality-void]]'
 - '[[compound-failure-signatures]]'
 - '[[thoughts-that-slip-away]]'
@@ -187,7 +187,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 ## Further Reading
 
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — The concept underlying this void: why representations conceal themselves as representations
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — The concept underlying this void: why representations conceal themselves as representations
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — The companion void: why the stamp of realness hides its own mechanism
 - [self-opacity](/voids/self-opacity/) — The parallel void of consciousness unable to observe itself
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself

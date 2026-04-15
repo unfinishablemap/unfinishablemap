@@ -106,7 +106,7 @@ Degrees of consciousness raise a fundamental question: is there a lowest degree,
 
 **Continuous gradation to zero.** Consciousness shades smoothly from human richness through animal simplicity to infinitesimal quantities in simple systems. This avoids the threshold problem but implies [panpsychism](/concepts/panpsychism/) — experience is everywhere, just usually at negligible degrees.
 
-**No lower bound (the Map's position).** The question may be malformed. If consciousness is not produced by physical systems but interfaces with them, then asking "at what degree does consciousness begin?" presupposes a production model. Consciousness exists independently; what varies is the degree to which it manifests through physical interfaces. The [enrichment problem](/concepts/minimal-consciousness/) adds an epistemological constraint: any attempt to introspect on minimal consciousness enriches it beyond minimality, making the actual lower bound structurally inaccessible.
+**No lower bound (the Map's position).** The question may be malformed. If consciousness is not produced by physical systems but interfaces with them, then asking "at what degree does consciousness begin?" presupposes a production model. The [universal-coupling-response](/concepts/universal-coupling-response/) holds that consciousness couples with every physical system meeting adequate architectural conditions; what varies is the degree to which it manifests through those interfaces. The [enrichment problem](/concepts/minimal-consciousness/) adds an epistemological constraint: any attempt to introspect on minimal consciousness enriches it beyond minimality, making the actual lower bound structurally inaccessible.
 
 ## Relation to Site Perspective
 

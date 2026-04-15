@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-03-24 08:35:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[qualia]]'
 - '[[blindsight]]'
 - '[[attention-as-interface]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[phenomenology]]'
 - '[[emergence]]'
 - '[[neural-correlates-of-consciousness]]'
@@ -142,7 +142,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [filter-theory](/concepts/filter-theory/)
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/)
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/)
 - [visual-consciousness](/concepts/visual-consciousness/)
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/)

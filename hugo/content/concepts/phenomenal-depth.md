@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[phenomenal-consciousness]]'
 - '[[phenomenal-overflow]]'
 - '[[binding-problem]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[access-consciousness]]'
 - '[[explanatory-gap]]'
 - '[[cognitive-phenomenology]]'

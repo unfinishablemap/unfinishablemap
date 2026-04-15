@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-06 17:54:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -164,7 +164,7 @@ At advanced levels, practitioners report that self-awareness persists even when 
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Self-reflexive meaning as one of five phenomenal meaning modes
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How recursive language structure depends on phenomenal consciousness
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Methodological grounding for contemplative phenomenology
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why consciousness conceals its own representational structure from introspection
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why consciousness conceals its own representational structure from introspection
 
 ## References
 

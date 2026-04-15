@@ -4,7 +4,7 @@ description: "How conscious experience possesses layered richness beyond surface
 created: 2026-02-13
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 last_deep_review: 2026-03-17T03:43:00+00:00
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[phenomenal-consciousness]]"
   - "[[phenomenal-overflow]]"
   - "[[binding-problem]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[access-consciousness]]"
   - "[[explanatory-gap]]"
   - "[[cognitive-phenomenology]]"

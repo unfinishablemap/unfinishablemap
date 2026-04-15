@@ -1,14 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-11
-ai_modified: 2026-04-12 19:59:00+00:00
+ai_modified: 2026-04-15 09:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[embodied-cognition]]'
 - '[[qualia]]'
 - '[[intentionality]]'
-- '[[phenomenal-opacity]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
+- '[[phenomenal-consciousness]]'
+- '[[phenomenal-overflow]]'
 - '[[introspection]]'
 - '[[filter-theory]]'
 created: 2026-04-11
@@ -19,7 +21,7 @@ description: The extended mind thesis reveals consciousness as the non-negotiabl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-12 19:59:00+00:00
+last_deep_review: 2026-04-15 09:21:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +52,7 @@ Chalmers himself says no. In a 2019 paper, the co-author of the extended mind th
 
 This is a striking concession. Even the philosopher who opened the door to extended cognition closes it at consciousness. The functional parity that works for belief storage does not work for phenomenal experience. Otto's notebook can substitute for his memory, but nothing in the notebook substitutes for what it is like to remember.
 
-Ned Block's distinction between phenomenal consciousness (P-consciousness) and access consciousness (A-consciousness) clarifies the asymmetry. A-consciousness—the availability of content for reasoning and report—plausibly extends. When Otto accesses his notebook, the information becomes available for global control in roughly the way internally stored beliefs are. P-consciousness—the qualitative, experiential character of mental states—does not extend. There is nothing it is like to be Otto's notebook. The felt quality of remembering has no external counterpart.
+Ned Block's distinction between [phenomenal consciousness](/concepts/phenomenal-consciousness/) (P-consciousness) and access consciousness (A-consciousness) clarifies the asymmetry. A-consciousness—the availability of content for reasoning and report—plausibly extends. When Otto accesses his notebook, the information becomes available for global control in roughly the way internally stored beliefs are. P-consciousness—the qualitative, experiential character of mental states—does not extend. There is nothing it is like to be Otto's notebook. The felt quality of remembering has no external counterpart—an instance of [phenomenal-overflow](/concepts/phenomenal-overflow/), where conscious experience exceeds what functional access can capture.
 
 Extended cognition thus extends A-consciousness while leaving P-consciousness untouched. This dissociation is exactly what dualism predicts: functional roles are substrate-neutral and therefore extendable, while phenomenal properties are not exhausted by functional description and therefore resist extension.
 
@@ -88,7 +90,7 @@ This dissolves the apparent tension between extended cognition and epistemic int
 
 [Phenomenal opacity](/concepts/phenomenal-transparency-opacity-spectrum/)—the condition in which conscious representations reveal themselves as constructs rather than transparent windows onto reality—introduces a further complication. If phenomenal states are sometimes opaque to [introspection](/concepts/introspection/), how does this interact with the question of extension?
 
-Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. Consider a half-remembered face: you are conscious of the memory, but also conscious that it feels reconstructed, partial, unreliable. This meta-experiential character—knowing that you are uncertain *from the inside*—points toward what the Map identifies as a distinctive feature of consciousness. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The notebook does not experience its own accuracy as questionable. The Map's claim here extends beyond the [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) concept itself: while opacity describes a condition *within* consciousness, the contrast with external devices is a further inference—that the reflexive capacity to interrogate one's own reliability has no functional equivalent in extended systems. This is consistent with [self-opacity](/voids/self-opacity/)'s analysis of consciousness examining its own processes. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate cognitive and phenomenal analysis, the more the irreducibility of phenomenal properties stands out.
+Opacity reinforces the case against extended consciousness. The opacity of phenomenal states is itself a phenomenal property—it is experienced as a particular quality of uncertainty or constructedness. Consider a half-remembered face: you are conscious of the memory, but also conscious that it feels reconstructed, partial, unreliable. This meta-experiential character—knowing that you are uncertain *from the inside*—points toward what the Map identifies as a distinctive feature of consciousness. A notebook entry is neither transparent nor opaque in the phenomenal sense; it simply is what it is. The notebook does not experience its own accuracy as questionable. The Map's claim here extends beyond the [phenomenal opacity](/concepts/phenomenal-transparency-opacity-spectrum/) concept itself: while opacity describes a condition *within* consciousness, the contrast with external devices is a further inference—that the reflexive capacity to interrogate one's own reliability has no functional equivalent in extended systems. This is consistent with [self-opacity](/voids/self-opacity/)'s analysis of consciousness examining its own processes. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly we integrate cognitive and phenomenal analysis, the more the irreducibility of phenomenal properties stands out.
 
 ## Relation to Site Perspective
 
@@ -106,7 +108,9 @@ The Map speculates that this convergence is not coincidental. The features that 
 
 - [embodied-cognition](/concepts/embodied-cognition/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
-- [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)
+- [phenomenal opacity](/concepts/phenomenal-transparency-opacity-spectrum/)
+- [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
+- [phenomenal-overflow](/concepts/phenomenal-overflow/)
 - [filter-theory](/concepts/filter-theory/)
 - [qualia](/concepts/qualia/)
 - [introspection](/concepts/introspection/)

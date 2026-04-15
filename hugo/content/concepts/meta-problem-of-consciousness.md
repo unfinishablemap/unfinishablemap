@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-16 02:18:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[qualia]]'
 - '[[introspection]]'
 - '[[attention-schema-theory]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[phenomenal-concepts-strategy]]'
 - '[[knowledge-argument]]'
 - '[[conceivability-possibility-inference]]'
@@ -128,7 +128,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The thought experiment sharpening the meta-problem
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionist dualism turns the metaproblem into evidence for dualism
 - [Illusionism as Epiphenomenalism](/concepts/illusionism/#structural-convergence-with-epiphenomenalism) — Why illusionism and epiphenomenalism face identical meta-problem burdens
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — How self-concealing representation connects to problem intuitions
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — How self-concealing representation connects to problem intuitions
 - [causal-closure](/concepts/causal-closure/) — The challenge interactionism must address
 - [mysterianism](/concepts/mysterianism/) — The view that consciousness may exceed human comprehension
 

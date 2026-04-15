@@ -4,7 +4,7 @@ description: "How the progressive failure of perception reveals the architecture
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-03-23T22:01:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 last_deep_review: 2026-03-23T22:01:00+00:00
 draft: false
 topics:
@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[interface-friction]]"
   - "[[filter-theory]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[qualia]]"
   - "[[blindsight]]"
   - "[[phenomenal-consciousness]]"
@@ -35,7 +35,7 @@ Perceptual degradation and the interface is the observation that when perception
 
 ## The Core Observation
 
-Normal perception is [[phenomenal-transparency|phenomenally transparent]]. Experience feels like direct contact with the world—you see the apple, not the seeing. This transparency masks the interface through which perceptual information reaches consciousness. When perception degrades, the mask slips.
+Normal perception is [[phenomenal-transparency-opacity-spectrum|phenomenally transparent]]. Experience feels like direct contact with the world—you see the apple, not the seeing. This transparency masks the interface through which perceptual information reaches consciousness. When perception degrades, the mask slips.
 
 Remove your glasses: the resulting blur is not a property of external objects. It is a property of *your experience*—a [[qualia|qualitative character]] (softness, haziness, visual texture) that belongs to the experiencing subject. You become aware of the medium of perception itself, the way you notice a scratched lens rather than the scene behind it. This simple observation has deep consequences. If phenomenal character were exhausted by representational content about external objects, as representationalism claims, blur should be fully explicable as representing some external property. But the felt quality of blur—its specific "what it is like"—has no home in the physical scene. It belongs to the interface.
 
@@ -96,7 +96,7 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 - [[the-interface-specification-problem]]
 - [[interface-friction]]
 - [[filter-theory]]
-- [[phenomenal-transparency]]
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]]
 - [[anaesthesia-and-the-consciousness-interface]]
 - [[selective-correction-and-reconstruction-paradox]]
 - [[attention-as-interface]]

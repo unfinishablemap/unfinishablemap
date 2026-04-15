@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 last_deep_review: 2026-03-19T05:33:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[visual-consciousness]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[phenomenal-acquaintance]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[conscious-vs-unconscious-processing]]"
   - "[[embodied-cognition]]"
   - "[[capability-division-problem]]"
@@ -104,7 +104,7 @@ This connects to [[indexical-identity-quantum-measurement|indexical identity]]. 
 
 ## Transparency and Intentionality
 
-Perceptual experience is characteristically *transparent* — in perceiving, we seem to look right through the experience to the objects perceived. When you see a tree, you are aware of the tree, not of a mental representation of the tree. The experience itself recedes, presenting its objects rather than itself. This is what philosophers call [[phenomenal-transparency]].
+Perceptual experience is characteristically *transparent* — in perceiving, we seem to look right through the experience to the objects perceived. When you see a tree, you are aware of the tree, not of a mental representation of the tree. The experience itself recedes, presenting its objects rather than itself. This is what philosophers call [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]].
 
 When perception degrades through blur, visual noise, or neurological damage, transparency shatters: you become aware of the medium through which you were perceiving. The blur paradox shows that degraded perception is epistemically richer about the nature of experience itself, precisely because it is epistemically poorer about the world.
 
@@ -173,7 +173,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[visual-consciousness]] — The specific case of visual phenomenal experience
 - [[blindsight]] — The landmark dissociation between processing and experience
 - [[phenomenal-overflow]] — When experience outruns cognitive access
-- [[phenomenal-transparency]] — Why we see through experience to the world
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why we see through experience to the world
 - [[binding-problem]] — The challenge of phenomenal unity from dispersed processing
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding and phenomenal unity
 - [[sensorimotor-contingencies-and-the-interface]] — Enactivist perception and the interface model

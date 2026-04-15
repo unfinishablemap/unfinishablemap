@@ -4,7 +4,7 @@ description: "Hoffman, Singh & Prakash's formal proof that natural selection fav
 created: 2026-03-15
 modified: 2026-03-15
 human_modified:
-ai_modified: 2026-04-01T21:38:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[biological-cognitive-closure]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[perceptual-failure-and-the-interface]]"
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[adaptive-cognitive-limits]]"
@@ -84,13 +84,13 @@ The FBT theorem bears most directly on **[[tenets#^occams-limits|Occam's Razor H
 
 The theorem also connects to **[[tenets#^dualism|Dualism]]** through [[biological-cognitive-closure|the evolved cognitive limits framework]]. If the brain is an organ shaped by natural selection for physical-world navigation, and if that shaping systematically favoured fitness over truth, then the brain may be precisely the wrong instrument for understanding consciousness—a phenomenon that, if dualism holds, is not a physical-world feature at all. The persistent difficulty of the [[hard-problem-of-consciousness|hard problem]] may reflect not the hardness of the question but the unsuitability of the instrument asking it.
 
-For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT theorem raises the possibility that the mechanism by which consciousness influences physical outcomes is among the things our fitness-tuned perception is shaped *not* to detect. If perceiving the mind-brain interface accurately conferred no survival advantage—or actively reduced fitness by disrupting automatic processes—evolution would have selected against that transparency. The [[phenomenal-transparency|phenomenal transparency]] of experience may be a fitness-serving feature rather than a neutral fact about consciousness.
+For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT theorem raises the possibility that the mechanism by which consciousness influences physical outcomes is among the things our fitness-tuned perception is shaped *not* to detect. If perceiving the mind-brain interface accurately conferred no survival advantage—or actively reduced fitness by disrupting automatic processes—evolution would have selected against that transparency. The [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]] of experience may be a fitness-serving feature rather than a neutral fact about consciousness.
 
 ## Further Reading
 
 - [[biological-cognitive-closure]] — How cognitive limits function as adaptive features shaped by natural selection
 - [[adaptive-cognitive-limits]] — The broader framework of evolution-maintained cognitive boundaries
-- [[phenomenal-transparency]] — Why experience conceals its own representational character
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why experience conceals its own representational character
 - [[perceptual-failure-and-the-interface]] — Perceptual failure analysed through Hoffman's interface framework
 - [[perceptual-degradation-and-the-interface]] — What degraded perception reveals about the interface's architecture
 - [[probability-intuition-void]] — How fitness-tuned cognition distorts probabilistic reasoning

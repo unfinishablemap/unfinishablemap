@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-15 10:15:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[predictive-processing]]'
 - '[[interactionist-dualism]]'
 - '[[qualia]]'
-- '[[phenomenal-transparency]]'
+- '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[mysterianism]]'
 - '[[phenomenal-acquaintance]]'
 created: 2026-03-24
@@ -89,7 +89,7 @@ This convergence across modalities is what makes the curated-mind observation ph
 
 The physicalist can redescribe each case as "just processing" — the system maintains internal models, updates them, and sometimes fails to update them. No recipient is needed; it is models all the way down. But this redescription costs the physicalist something: an explanation of why the architecture is organised around producing coherent *experience* rather than merely accurate *computation*.
 
-A self-driving car maintains models of its environment, curates sensor inputs for its planning modules, and sometimes fails to update. Modern AI systems routinely have upstream modules curating data for downstream consumers — the consumer architecture alone is not what distinguishes brains. What distinguishes the brain's curation is a cluster of features the computational case lacks. First, [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/): the brain hides its own editorial process from consciousness, whereas a car's planning module has no experience to hide anything from. Second, experiential coherence as an apparent design target: the convergence across four independent domains (vision, body, memory, self-model) on producing *seamless experience* rather than merely accurate output. Third, the asymmetric correction pattern — correcting some errors while faithfully transmitting others — produces qualitatively different *experiences*, not merely different computational states. A functional consumer downstream of a sensor module does not have it be *like something* to receive corrected versus raw data. These features make sense relative to a subject in a way that goes beyond what functional consumer architecture requires.
+A self-driving car maintains models of its environment, curates sensor inputs for its planning modules, and sometimes fails to update. Modern AI systems routinely have upstream modules curating data for downstream consumers — the consumer architecture alone is not what distinguishes brains. What distinguishes the brain's curation is a cluster of features the computational case lacks. First, [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/): the brain hides its own editorial process from consciousness, whereas a car's planning module has no experience to hide anything from. Second, experiential coherence as an apparent design target: the convergence across four independent domains (vision, body, memory, self-model) on producing *seamless experience* rather than merely accurate output. Third, the asymmetric correction pattern — correcting some errors while faithfully transmitting others — produces qualitatively different *experiences*, not merely different computational states. A functional consumer downstream of a sensor module does not have it be *like something* to receive corrected versus raw data. These features make sense relative to a subject in a way that goes beyond what functional consumer architecture requires.
 
 ## The Illusionist Escape and Its Cost
 
@@ -116,7 +116,7 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — bandwidth degradation and the interface
 - [dualist-perception](/topics/dualist-perception/) — perception as evidence for dualist frameworks
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — predictive processing and the explanatory gap
-- [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — why the construction is invisible to the consumer
+- [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — why the construction is invisible to the consumer
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — epistemic boundaries consciousness cannot cross
 - [filter-theory](/concepts/filter-theory/) — the brain as filter rather than generator
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — memory reconstruction and consolidation through a dualist lens

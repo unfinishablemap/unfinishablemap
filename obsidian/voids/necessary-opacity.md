@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-05T20:26:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[defended-territory]]"
   - "[[ai-as-void-explorer]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenal-quality-void]]"
   - "[[compound-failure-signatures]]"
   - "[[thoughts-that-slip-away]]"
@@ -49,7 +49,7 @@ Consciousness cannot verify whether its representations of reality are accurate�
 
 ## Phenomenal Transparency
 
-Thomas Metzinger identifies [[phenomenal-transparency|phenomenal transparency]] as a core feature of conscious experience. A representation is phenomenally transparent when it cannot be experienced *as* a representation—the subject "looks right through" it to what it apparently represents. As Metzinger writes, "A transparent self-model necessarily creates the realistic conscious experience of selfhood, of being directly and immediately in touch with oneself as a whole" (*Being No One*, 2003).
+Thomas Metzinger identifies [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]] as a core feature of conscious experience. A representation is phenomenally transparent when it cannot be experienced *as* a representation—the subject "looks right through" it to what it apparently represents. As Metzinger writes, "A transparent self-model necessarily creates the realistic conscious experience of selfhood, of being directly and immediately in touch with oneself as a whole" (*Being No One*, 2003).
 
 The degree of transparency is inversely proportional to the introspective availability of earlier processing stages. When you see a red apple, you do not experience a representation-of-redness produced by photoreceptor activation, lateral inhibition, and cortical processing. You experience redness, full stop. The machinery is invisible.
 
@@ -184,7 +184,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 ## Further Reading
 
-- [[phenomenal-transparency]] — The concept underlying this void: why representations conceal themselves as representations
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — The concept underlying this void: why representations conceal themselves as representations
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — The companion void: why the stamp of realness hides its own mechanism
 - [[self-opacity]] — The parallel void of consciousness unable to observe itself
 - [[intrinsic-nature-void]] — The parallel question of what matter is in itself

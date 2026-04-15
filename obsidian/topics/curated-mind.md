@@ -4,7 +4,7 @@ description: "The brain curates what consciousness receives across vision, body,
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-05T09:48:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 last_deep_review: 2026-03-24T08:35:00+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ concepts:
   - "[[predictive-processing]]"
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[mysterianism]]"
   - "[[phenomenal-acquaintance]]"
 related_articles:
@@ -79,14 +79,14 @@ Across vision, body, memory, and self-model, the same architecture recurs:
 
 1. The brain reconstructs a coherent representation from incomplete or conflicting data
 2. The reconstruction serves the needs of a consumer — producing coherent experience rather than raw signal. The consumer must stand in [[phenomenal-acquaintance]] with the curated output: the direct, non-inferential relation to qualitative character that makes curation meaningful rather than merely computational
-3. The consumer cannot access the reconstruction process itself ([[phenomenal-transparency|phenomenal transparency]])
+3. The consumer cannot access the reconstruction process itself ([[phenomenal-transparency-opacity-spectrum|phenomenal transparency]])
 4. When the reconstruction fails, the consumer cannot independently verify the failure ([[mysterianism|cognitive closure]])
 
 This convergence across modalities is what makes the curated-mind observation philosophically significant. A single processing quirk in visual cortex might be explained as an evolutionary kludge. But an architectural pattern that operates identically across vision, proprioception, memory, and self-representation suggests something structural about the relationship between the processing system and the experiencing subject. The Map's [[neurological-dissociations-as-interface-architecture|dissociation work]] independently maps the same channels — perceptual ascending, affective ascending, self-model ascending, motor descending — by examining what breaks when specific pathways are destroyed. Anosognosia, discussed there as a failure of the self-model ascending channel, is the same phenomenon examined here as failed self-model curation: the brain delivers a coherent fiction about body state because the editorial mechanism has broken down. That two independent analyses — one from curation patterns, one from dissociation patterns — converge on the same multi-channel architecture strengthens both.
 
 The physicalist can redescribe each case as "just processing" — the system maintains internal models, updates them, and sometimes fails to update them. No recipient is needed; it is models all the way down. But this redescription costs the physicalist something: an explanation of why the architecture is organised around producing coherent *experience* rather than merely accurate *computation*.
 
-A self-driving car maintains models of its environment, curates sensor inputs for its planning modules, and sometimes fails to update. Modern AI systems routinely have upstream modules curating data for downstream consumers — the consumer architecture alone is not what distinguishes brains. What distinguishes the brain's curation is a cluster of features the computational case lacks. First, [[phenomenal-transparency]]: the brain hides its own editorial process from consciousness, whereas a car's planning module has no experience to hide anything from. Second, experiential coherence as an apparent design target: the convergence across four independent domains (vision, body, memory, self-model) on producing *seamless experience* rather than merely accurate output. Third, the asymmetric correction pattern — correcting some errors while faithfully transmitting others — produces qualitatively different *experiences*, not merely different computational states. A functional consumer downstream of a sensor module does not have it be *like something* to receive corrected versus raw data. These features make sense relative to a subject in a way that goes beyond what functional consumer architecture requires.
+A self-driving car maintains models of its environment, curates sensor inputs for its planning modules, and sometimes fails to update. Modern AI systems routinely have upstream modules curating data for downstream consumers — the consumer architecture alone is not what distinguishes brains. What distinguishes the brain's curation is a cluster of features the computational case lacks. First, [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]: the brain hides its own editorial process from consciousness, whereas a car's planning module has no experience to hide anything from. Second, experiential coherence as an apparent design target: the convergence across four independent domains (vision, body, memory, self-model) on producing *seamless experience* rather than merely accurate output. Third, the asymmetric correction pattern — correcting some errors while faithfully transmitting others — produces qualitatively different *experiences*, not merely different computational states. A functional consumer downstream of a sensor module does not have it be *like something* to receive corrected versus raw data. These features make sense relative to a subject in a way that goes beyond what functional consumer architecture requires.
 
 ## The Illusionist Escape and Its Cost
 
@@ -113,7 +113,7 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 - [[perceptual-failure-and-the-interface]] — bandwidth degradation and the interface
 - [[dualist-perception]] — perception as evidence for dualist frameworks
 - [[predictive-processing-and-dualism]] — predictive processing and the explanatory gap
-- [[phenomenal-transparency]] — why the construction is invisible to the consumer
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — why the construction is invisible to the consumer
 - [[consciousness-only-territories]] — epistemic boundaries consciousness cannot cross
 - [[filter-theory]] — the brain as filter rather than generator
 - [[consciousness-and-memory]] — memory reconstruction and consolidation through a dualist lens

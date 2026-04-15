@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own e
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-04-11T18:58:00+00:00
+ai_modified: 2026-04-15T10:15:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[ownership-void]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[phenomenal-transparency]]"
+  - "[[phenomenal-transparency-opacity-spectrum]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -60,7 +60,7 @@ The projection void adds a layer beyond this familiar other-minds problem. The d
 
 ## Why Observation Destroys Projection
 
-The three forms share a structural explanation for their opacity. Metzinger's work on [[phenomenal-transparency]] provides the key: a mental representation that functions well is not experienced as a representation. The medium becomes invisible; only the content remains. We trust precisely what we cannot see the mechanism behind—transparency, in Metzinger's framework, is the default condition of well-functioning mental models.
+The three forms share a structural explanation for their opacity. Metzinger's work on [[phenomenal-transparency-opacity-spectrum|phenomenal transparency]] provides the key: a mental representation that functions well is not experienced as a representation. The medium becomes invisible; only the content remains. We trust precisely what we cannot see the mechanism behind—transparency, in Metzinger's framework, is the default condition of well-functioning mental models.
 
 This means observing the projection mechanism necessarily destroys it. To attend to the scalpel as scalpel is to lose the operative fluency that treats it as an extension of the hand. To monitor one's own empathic process is to find the empathy dissolving into self-conscious performance. The projection void is not a contingent failure of attention. It is a design constraint: functional extension requires phenomenal invisibility.
 
@@ -108,7 +108,7 @@ Finally, the Map's tenet that [[tenets#^occams-limits|Occam's Razor has limits]]
 - [[observation-and-measurement-void]]
 - [[ownership-void]]
 - [[embodiment-cognitive-limits]]
-- [[phenomenal-transparency]]
+- [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]]
 - [[voids]]
 
 ## References
