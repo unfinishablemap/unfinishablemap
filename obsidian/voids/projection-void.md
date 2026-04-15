@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own e
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-15T16:51:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -42,7 +42,7 @@ The projection void manifests across three domains, each independently documente
 
 ### Tool Projection
 
-During skilled tool use, consciousness relocates to the tool's functional tip. Heidegger's distinction between *ready-to-hand* and *present-at-hand* captures the phenomenon precisely: tools in use become phenomenologically transparent, withdrawing from awareness entirely. The more skilled the use, the more complete the disappearance. A blind person's cane becomes a perceptual organ, not an intermediary object—Merleau-Ponty's concept of *incorporation* into the body schema describes how the tool ceases to be something used *through* and becomes part of how the world shows up.
+During skilled tool use, consciousness relocates to the tool's functional tip. Heidegger's distinction between *ready-to-hand* and *present-at-hand* captures the phenomenon precisely: tools in use become phenomenologically transparent, withdrawing from awareness entirely. The more skilled the use, the more complete the disappearance. A blind person's cane becomes a perceptual organ, not an intermediary object—Merleau-Ponty's concept of *incorporation* into the body schema describes how the tool ceases to be something used *through* and becomes part of how the world shows up. Yet as the [[consciousness-epistemology-extended-cognition|consciousness extension gap]] demonstrates, even this deep integration extends only cognitive function, not phenomenal experience—the cane user's tactile awareness is richer, but the phenomenal character remains a property of consciousness, not of the cane.
 
 The critical asymmetry: breakdown reveals what skilled use conceals. When a tool malfunctions, the retraction of projection can be partially observed—the sudden reappearance of the hammer as a separate object. But the establishment of projection, the moment the tool dissolves into transparency, cannot be witnessed. Skilled engagement constitutively requires that the medium be invisible.
 
@@ -109,6 +109,7 @@ Finally, the Map's tenet that [[tenets#^occams-limits|Occam's Razor has limits]]
 - [[ownership-void]]
 - [[embodiment-cognitive-limits]]
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]]
+- [[consciousness-epistemology-extended-cognition]] — Why functional extension (cognition) does not entail phenomenal extension (consciousness)
 - [[voids]]
 
 ## References

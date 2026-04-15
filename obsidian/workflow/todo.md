@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate consciousness-epistemology-extended-cognition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Topics article (created 2026-04-11) on how the extended mind thesis reveals consciousness as the non-negotiable epistemic core. Add cross-references from embodied-cognition, embodied-consciousness-and-the-interface, epistemology-of-consciousness, and related epistemology articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P2: Address concession-convergence overstatement in biological-computationalism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2069,6 +2063,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate consciousness-epistemology-extended-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-04-11) on how the extended mind thesis reveals consciousness as the non-negotiable epistemic core. Add cross-references from embodied-cognition, embodied-consciousness-and-the-interface, epistemology-of-consciousness, and related epistemology articles.
+- **Output**: obsidian/topics/consciousness-epistemology-extended-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Integrate numinous-void.md into site navigation
 - **Type**: integrate-orphan

@@ -4,7 +4,7 @@ description: "The extended mind thesis reveals consciousness as the non-negotiab
 created: 2026-04-11
 modified: 2026-04-11
 human_modified:
-ai_modified: 2026-04-15T09:21:00+00:00
+ai_modified: 2026-04-15T16:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-11
 last_curated:
-last_deep_review: 2026-04-15T09:21:00+00:00
+last_deep_review: 2026-04-15T16:51:00+00:00
 ---
 
 The extended mind thesis—the claim that cognitive processes can literally include notebooks, smartphones, and environmental structures—inadvertently reveals where cognition ends and consciousness begins. Proponents argue that if an external device plays the same functional role as an internal mental state, it should count as part of the mind. This argument works for information storage and processing. It fails for phenomenal experience. The asymmetry is not a minor wrinkle; it is a structural disclosure. The features that resist extension—[[qualia|qualitative character]], subjective justification, the felt presence of experience—are precisely what dualism identifies as irreducible. Extended cognition, far from undermining the case for consciousness as fundamental, strengthens it by marking the exact boundary where functional analysis runs out.

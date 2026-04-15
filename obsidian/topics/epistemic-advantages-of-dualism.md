@@ -4,7 +4,7 @@ description: "Dualism opens intellectual territory materialism forecloses. Epist
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-26T12:57:00+00:00
+ai_modified: 2026-04-15T16:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ Several possibilities become thinkable under dualism that materialism excludes b
 
 **Consciousness rebelling against its conditions.** If mind is not identical to brain, then whatever "runs" consciousness might have interests, states, or dynamics we're unaware of. Keeping brains alive artificially, creating brain organoids, or engineering consciousness could interact with properties of mind we don't understand. This may seem speculative until you recognize that materialism makes it unthinkable—which means materialists cannot even consider whether to be cautious about it.
 
-**Extended consciousness or field effects.** [[filter-theory]] and related models suggest consciousness might not be strictly bounded by the skull. If so, the implications for individuality, privacy, and connection between minds become live questions rather than dismissed speculations.
+**Extended consciousness or field effects.** [[filter-theory]] and related models suggest consciousness might not be strictly bounded by the skull. Yet the [[consciousness-epistemology-extended-cognition|consciousness extension gap]] shows that even Clark and Chalmers' parity principle fails at the boundary of phenomenal experience—functional parity extends cognition but not consciousness. If consciousness nonetheless exceeds the skull through non-functional channels, the implications for individuality, privacy, and connection between minds become live questions rather than dismissed speculations.
 
 **Value properties of consciousness itself.** The Unfinishable Map's [[topics/phenomenal-value-realism|phenomenal value realism]] holds that experiential qualities have intrinsic normative significance. This metaethical position requires consciousness to be more than computational processing—it requires qualia to be real and value-constituting. Materialists who eliminate qualia also eliminate the ground for this kind of value realism.
 

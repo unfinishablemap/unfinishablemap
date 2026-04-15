@@ -4,7 +4,7 @@ description: "Cognitive science presupposes methodological materialism, yet its 
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-04-06T08:57:00+00:00
+ai_modified: 2026-04-15T16:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -59,7 +59,7 @@ A physicalist might object that verbal reports are just behavioural outputs — 
 
 The [[embodied-cognition|4E cognition]] programme — embodied, embedded, enacted, extended — demonstrates that cognition depends on bodily structure and environmental coupling. This challenges Cartesian substance dualism, which imagined a disembodied mind controlling a mechanical body. But the Map's dualism is not Cartesian. [[interactionist-dualism|Interactionist dualism]] holds that consciousness is irreducible to physical processes while acknowledging deep interdependence between mind and brain.
 
-Embodied cognition actually sharpens the hard problem. If cognition is so thoroughly shaped by the body, why does consciousness feel like something *over and above* what the body does? The more tightly we integrate mind and body functionally, the more puzzling it becomes that phenomenal experience doesn't reduce to function. An embodied robot could plausibly process information, respond to environments, and adapt its behaviour — all without there being anything it's like to be that robot. If functional integration were sufficient for [[consciousness]], we should expect a clear point at which function *becomes* experience. No such threshold has been identified.
+Embodied cognition actually sharpens the hard problem. If cognition is so thoroughly shaped by the body, why does consciousness feel like something *over and above* what the body does? The more tightly we integrate mind and body functionally, the more puzzling it becomes that phenomenal experience doesn't reduce to function. The [[consciousness-epistemology-extended-cognition|epistemology of extended cognition]] develops this implication: the parity principle that justifies extending cognition into notebooks and tools fails precisely at phenomenal experience, marking the boundary where functional analysis gives way to something irreducible. An embodied robot could plausibly process information, respond to environments, and adapt its behaviour — all without there being anything it's like to be that robot. If functional integration were sufficient for [[consciousness]], we should expect a clear point at which function *becomes* experience. No such threshold has been identified.
 
 ### Predictive Processing Leaves Consciousness Unexplained
 

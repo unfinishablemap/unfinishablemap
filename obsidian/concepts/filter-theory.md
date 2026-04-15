@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-06T06:56:00+00:00
+ai_modified: 2026-04-15T16:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -194,6 +194,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[bandwidth-of-consciousness]] — The ~10 bits/s conscious throughput ceiling as empirical signature of filtering
 - [[baseline-cognition]] — What neural systems achieve without conscious contribution
 - [[interactionist-dualism]] — The broader framework
+- [[consciousness-epistemology-extended-cognition]] — Filter theory applied to extended cognition: tools expand the filter's resources while consciousness itself resists extension
 
 ## References
 
