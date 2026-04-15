@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-27 19:48:00+00:00
+ai_modified: 2026-04-15 16:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -122,7 +122,7 @@ Clark and Chalmers' extended mind thesis generated extensive debate. The "parity
 
 Critics respond with the "coupling-constitution fallacy" (Adams and Aizawa). Just because something is coupled to cognition doesn't mean it's part of cognition. Your car is coupled to your transportation but isn't part of you. We need principled criteria—a "mark of the cognitive"—to distinguish cognitive processes from their external supports.
 
-This debate matters for consciousness studies because it concerns boundaries. If cognition has disputed boundaries, what about consciousness? Clark himself distinguishes extended cognition from extended consciousness—the thesis is about information processing, not phenomenal experience. [Brain-computer interfaces](/topics/brain-computer-interfaces-and-the-interface-boundary/) provide the most direct test of this distinction: BCI users gain functional control over external devices, but the conscious selection mechanism remains in motor cortex — the processing loop extends while the phenomenal interface does not. This distinction allows embodied cognition to remain neutral on whether consciousness reduces to physical processes.
+This debate matters for consciousness studies because it concerns boundaries. If cognition has disputed boundaries, what about consciousness? Clark himself distinguishes extended cognition from extended consciousness—the thesis is about information processing, not phenomenal experience. The [epistemology of extended cognition](/topics/consciousness-epistemology-extended-cognition/) develops this distinction systematically: A-consciousness extends while P-consciousness does not, and this asymmetry strengthens dualism by marking where functional analysis runs out. [Brain-computer interfaces](/topics/brain-computer-interfaces-and-the-interface-boundary/) provide the most direct test of this distinction: BCI users gain functional control over external devices, but the conscious selection mechanism remains in motor cortex — the processing loop extends while the phenomenal interface does not. This distinction allows embodied cognition to remain neutral on whether consciousness reduces to physical processes.
 
 ## Enactivism
 
@@ -213,6 +213,7 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 - [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — What embodiment feels like from the first person: ownership, agency, absence, and pain
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — Enactivism's dissolution strategy and its limits against interactionist dualism
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology and its relation to enactivism's core claims
+- [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — The consciousness extension gap: why cognition extends but phenomenal experience does not
 
 ## References
 

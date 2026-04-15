@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-02 09:38:00+00:00
+ai_modified: 2026-04-15 16:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -163,6 +163,7 @@ If genuine consciousness-only territories exist, several implications follow.
 - [The Hard Problem](/topics/hard-problem-of-consciousness/) — Why explaining consciousness resists physical reduction
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know whether limits are genuine or merely apparent
 - [The Silence Void](/voids/the-silence-void/) — Territory accessible only through the cessation of cognition itself
+- [The Numinous Void](/voids/numinous-void/) — A candidate consciousness-only territory where numinous experience resists third-person evaluation
 
 ## References
 

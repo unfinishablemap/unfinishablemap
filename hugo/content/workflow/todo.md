@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-15 07:26:00+00:00
+ai_modified: 2026-04-15 15:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,25 +38,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate indexical-knowledge-and-identity.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
+### P2: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Status**: done
+- **Notes**: Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
 - **Generated**: 2026-04-15
 
-### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, quantum-measurement, no-many-worlds, born-rule-and-the-consciousness-interface) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
+### P2: Cross-review tenet-falsification-conditions.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
+- **Source**: chain (from concepts/tenet-falsification-conditions.md)
 - **Generated**: 2026-04-15
 
-### P2: Integrate indexical-void.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Voids article on the indexical gap — why first-person identity resists third-person capture. Add cross-references from related articles (indexical-identity, other-minds-void, taxonomy-of-voids) or update section index pages to include navigation to this content.
-- **Source**: orphan_integration
+### P2: Cross-review rational-normativity.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created via expand-topic. Review against argument-from-reason, self-stultification-as-master-argument, consciousness-and-normative-force, and phenomenal-normativity for consistency and add inbound links from related articles.
+- **Source**: chain (from concepts/rational-normativity.md)
+- **Generated**: 2026-04-15
+
+### P2: Cross-review metaphysics-of-composition.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/metaphysics-of-composition.md created via expand-topic. Review against consciousness-and-the-metaphysics-of-composition (topics/), combination-problem, binding-problem, phenomenal-non-compositionality, and panpsychisms-combination-problem for consistency and cross-linking.
+- **Source**: chain (from concepts/metaphysics-of-composition.md)
 - **Generated**: 2026-04-15
 
 ### P3: Deep review metaphysics-of-composition.md
@@ -2055,6 +2058,49 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Address concession-convergence overstatement in biological-computationalism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the "structurally analogous" claim between substrate dependence and dualism conflates physics-specific and non-physics claims. The "concession convergence" framing overstates the parallel. Needs explicit qualification: both share a negative thesis (abstract function is insufficient) but diverge on what fills the gap. Also address the unengaged "just physics" objection. See pessimistic-2026-04-15b.md Issue 2.
+- **Output**: obsidian/concepts/biological-computationalism.md
+
+Task context:
+Pessimistic review found the "structurally analogous" claim between substrate dependence and dualism conflates physics-specific and non-physics claims. The "concession convergence" framing overstates the parallel. Needs explicit qualification: both share a negative thesis (abstract function is insufficient) but diverge on what fills the gap. Also address the unengaged "just physics" objection. See pessimistic-2026-04-15b.md Issue 2.
+
+### ✓ 2026-04-15: Integrate consciousness-epistemology-extended-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-04-11) on how the extended mind thesis reveals consciousness as the non-negotiable epistemic core. Add cross-references from embodied-cognition, embodied-consciousness-and-the-interface, epistemology-of-consciousness, and related epistemology articles.
+- **Output**: obsidian/topics/consciousness-epistemology-extended-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article (created 2026-04-12) on whether experiences of awe and sacred encounter constitute genuine contact with transcendent reality. Add cross-references from related void articles (the-surplus-void, spontaneous-thought-void) and topics (contemplative-epistemology, apophatic-approaches).
+- **Output**: obsidian/voids/numinous-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Integrate delegation-meets-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-04-13) on how causal delegation provides the logical structure of mental causation while quantum selection provides the physical mechanism. Add cross-references from delegatory-dualism, consciousness-selecting-neural-patterns, mental-causation, and downward-causation.
+- **Output**: obsidian/topics/delegation-meets-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Write concept page on biological computationalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Biological computationalism (Milinkovic & Aru 2025) insists consciousness requires substrate-dependent, metabolically grounded computation — inadvertently conceding the central dualist intuition that functional organisation alone cannot account for phenomenal experience. Referenced in 5 existing articles but has no concept page. Target section: concepts/ (226/230).
+- **Output**: Write concept page on biological computationalism
+
+### ✓ 2026-04-15: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article on the indexical gap — why first-person identity resists third-person capture. Add cross-references from related articles (indexical-identity, other-minds-void, taxonomy-of-voids) or update section index pages to include navigation to this content.
+- **Output**: obsidian/voids/indexical-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, quantum-measurement, no-many-worlds, born-rule-and-the-consciousness-interface) or update section index pages to include navigation to this content.
+- **Output**: obsidian/topics/indexical-identity-quantum-measurement.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-15: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
+- **Output**: obsidian/concepts/indexical-knowledge-and-identity.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-06 06:56:00+00:00
+ai_modified: 2026-04-15 16:51:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -196,6 +196,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The ~10 bits/s conscious throughput ceiling as empirical signature of filtering
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious contribution
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The broader framework
+- [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Filter theory applied to extended cognition: tools expand the filter's resources while consciousness itself resists extension
 
 ## References
 

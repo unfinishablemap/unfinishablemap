@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-03-24 09:36:00+00:00
+ai_modified: 2026-04-15 15:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[phenomenology-of-embodiment-under-dualism]]'
 - '[[indexical-void]]'
+- '[[indexical-identity-quantum-measurement]]'
 title: Consciousness and the Ownership Problem
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -124,7 +125,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Causal efficacy requires owned experience. Unowned consciousness—if such a thing were coherent—could not act, choose, or influence outcomes, because there would be no agent to do the acting. The ownership problem explains why the Map requires a genuine subject behind every conscious choice: without ownership, bidirectional interaction has no anchor.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds threatens ownership by multiplying owners. After a quantum measurement, both branches contain a being who takes themselves to own the pre-measurement experiences. The MWI defender might reply that branching creates genuinely distinct subjects—there is no "both," only two separate owners in separate branches. But this response concedes the problem rather than solving it. If ownership is fixed by physical facts, and the pre-measurement physical state was singular, what determines which post-branching subject *I* become? The MWI answer—that I become both, or rather that there is no fact of the matter—abandons the determinacy of ownership that experience seems to demand. The Map's rejection of many-worlds preserves the coherence of ownership by ensuring each experience has exactly one owner with a determinate identity.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Many-worlds threatens ownership by multiplying owners. After a quantum measurement, both branches contain a being who takes themselves to own the pre-measurement experiences. The MWI defender might reply that branching creates genuinely distinct subjects—there is no "both," only two separate owners in separate branches. But this response concedes the problem rather than solving it. If ownership is fixed by physical facts, and the pre-measurement physical state was singular, what determines which post-branching subject *I* become? This is the [indexical gap](/topics/indexical-identity-quantum-measurement/)—the question of why *this* consciousness experiences *this* outcome—applied to ownership. The MWI answer—that I become both, or rather that there is no fact of the matter—abandons the determinacy of ownership that experience seems to demand. The Map's rejection of many-worlds preserves the coherence of ownership by ensuring each experience has exactly one owner with a determinate identity.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Treating ownership as primitive may seem ontologically profligate—a simpler theory would derive it from something else. But the failure of every derivation attempt suggests that ownership is genuinely basic. Parsimony should not lead us to deny what experience most directly discloses: that it belongs to someone.
 
@@ -138,6 +139,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [self-reference paradox](/voids/self-opacity/) — Why the owner resists observation
 - [binding-problem](/concepts/binding-problem/) — Unity of experience as distinct from ownership of experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The prior question ownership presupposes
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes a subject a discrete subject at all (prior to ownership)
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership mechanism hides from introspection
 - [witness-consciousness](/concepts/witness-consciousness/) — Ownership stripped of narrative content

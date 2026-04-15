@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-03
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-15 16:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -75,7 +75,7 @@ ASCs produce characteristic phenomenological signatures:
 
 **Transcendence of time.** Temporal frameworks collapse. Since time may be partially an artifact of how minds organize experience, temporal dissolution may mark the limits of that organization rather than access to timeless truth. (The [dream consciousness void](/voids/sleep-consciousness-void/) explores a parallel case: waking and dreaming each have territories inaccessible to the other.)
 
-**Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be what [cognitive closure](/concepts/mysterianism/) feels like from inside—the conviction arising precisely because metacognitive systems fail to flag the experience as confused.
+**Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be what [cognitive closure](/concepts/mysterianism/) feels like from inside—the conviction arising precisely because metacognitive systems fail to flag the experience as confused. The [numinous-void](/voids/numinous-void/) examines this question most directly: numinous experience dismantles the very reflexive self-awareness needed to evaluate it, making the transcendence-versus-illusion question structurally unanswerable from within.
 
 ## Cross-Method Convergence
 
@@ -153,6 +153,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — State-dependent cognition across conscious modes
 - [Voids in the Map](/voids/) — The broader context of cognitive limits
 - [Filter Theory](/concepts/filter-theory/) — The brain as receiver rather than producer
+- [The Numinous Void](/voids/numinous-void/) — The reflexivity problem at the heart of numinous experience: why evaluation is structurally impossible
 
 ## References
 

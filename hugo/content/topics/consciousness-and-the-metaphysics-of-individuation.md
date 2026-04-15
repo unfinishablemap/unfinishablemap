@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-04-11 00:56:00+00:00
+ai_modified: 2026-04-15 15:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[indexical-void]]'
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[epistemological-limits-occams-razor]]'
+- '[[indexical-identity-quantum-measurement]]'
 title: Consciousness and the Metaphysics of Individuation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -101,7 +102,7 @@ The individuation boundary has a distinctive phenomenological character—or rat
 
 Try to locate where "you" ends and "not-you" begins. The exercise fails—not because the boundary is vague but because the search tool (your consciousness) is the very thing whose boundary you seek. This is the self-reference structure that makes individuation resistant to introspection.
 
-Caspar Hare captures a related asymmetry through his concept of "egocentric presentism." One subject's experiences possess an irreducible monadic property of *presence*—they are present in a way that others' experiences are not. This is not solipsism: other people exist and are fully conscious. But their experiences lack the property of being *present*. The "presence" property cannot be reduced to any objective feature of the world, making individuation partly a matter of irreducible indexical fact.
+Caspar Hare captures a related asymmetry through his concept of "egocentric presentism." One subject's experiences possess an irreducible monadic property of *presence*—they are present in a way that others' experiences are not. This is not solipsism: other people exist and are fully conscious. But their experiences lack the property of being *present*. The "presence" property cannot be reduced to any objective feature of the world, making individuation partly a matter of irreducible [indexical fact](/concepts/indexical-knowledge-and-identity/).
 
 Contemplative traditions report states in which the self-other boundary appears to dissolve—certain [Buddhist](/concepts/buddhism-and-dualism/) jhanas, mystical union experiences, psychedelic ego dissolution. These reports are philosophically significant but ambiguous. They may represent genuine access to the pre-individuated ground of consciousness. Or they may represent altered phenomenology *within* an unchanged subject—the experience of boundarylessness without actual dissolution of the boundary.
 
@@ -125,7 +126,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 
 **[No Many Worlds](/tenets/#no-many-worlds)** sharpens the stakes. Under many-worlds, every quantum measurement spawns branches containing versions of every observer. Individuation becomes perspectival—"which one am I?" dissolves because all versions are equally real. The Map's single-world commitment makes individuation a harder but more honest problem: there is exactly one of you, and the question of what makes you *this* one has a determinate (if inaccessible) answer.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises the question of scope. If consciousness biases quantum indeterminacies in the brain, the individuation boundary must determine *which* collapse events belong to *which* subject. The unity of a conscious field may depend on which quantum indeterminacies a single consciousness can modulate—a physical constraint on a non-physical boundary that neither pure physics nor pure metaphysics can specify alone.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises the question of scope. If consciousness biases quantum indeterminacies in the brain, the individuation boundary must determine *which* collapse events belong to *which* subject—the [indexical gap](/topics/indexical-identity-quantum-measurement/) applied to the individuation problem. The unity of a conscious field may depend on which quantum indeterminacies a single consciousness can modulate—a physical constraint on a non-physical boundary that neither pure physics nor pure metaphysics can specify alone.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** suggests that the individuation boundary may be dynamically maintained. If consciousness and brain causally shape each other, the boundary around a subject could be sustained by an ongoing feedback loop rather than fixed by metaphysical fiat. Each interaction reinforces the coupling between *this* consciousness and *this* neural system, progressively deepening the individuation.
 
@@ -144,6 +145,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of subjecthood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self-boundaries and *anattā*
 - [indexical-void](/voids/indexical-void/) — The void-form of the individuation question: why am I *this* consciousness?
+- [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — What makes experience belong to a subject
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony bias may systematically favour simpler individuation accounts
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-31 12:38:00+00:00
+ai_modified: 2026-04-15 15:44:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: 'GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 01:27:00+00:00
+last_deep_review: 2026-04-15 15:44:00+00:00
 modified: *id001
 related_articles:
 - '[[quantum-consciousness]]'
@@ -138,7 +138,7 @@ Moreover, the [argument-from-reason](/topics/argument-from-reason/) poses a deep
 
 Even if spontaneous collapse with consciousness modulation is the correct framework, we may lack the conceptual resources to fully understand *how* consciousness interfaces with collapse parameters. [Colin McGinn's cognitive closure](/concepts/mysterianism/) thesis applies here: the mechanism connecting phenomenal properties to physical parameters (λ, noise field strength, Φ coupling) may be permanently beyond human comprehension. The Map acknowledges this limit. Spontaneous collapse theories provide a *framework* for mind-matter interaction—locating it at quantum indeterminacy rather than classical neural firing—but the [explanatory gap](/concepts/explanatory-gap/) between "consciousness modulates" and "here's how" may be unbridgeable.
 
-This is not a defeat. Science routinely works with effective theories whose ultimate grounding remains mysterious (quantum mechanics itself being the paradigm case). That we cannot explain *why* consciousness would couple to CSL noise doesn't mean it doesn't—only that understanding has limits.
+Science routinely works with effective theories whose ultimate grounding remains mysterious (quantum mechanics itself being the paradigm case). That we cannot explain *why* consciousness would couple to CSL noise doesn't mean it doesn't—only that understanding has limits.
 
 ## Decoherence vs. Spontaneous Collapse
 
@@ -169,10 +169,10 @@ This reframing supports the Map's [Minimal Quantum Interaction](/tenets/#minimal
 
 1. **Born rule preservation**: The [interpretation-invariance of the Born rule](/topics/born-rule-and-the-consciousness-interface/) confirms that GRW/CSL import the rule through their stochastic dynamics rather than deriving it — relocating but not eliminating the consciousness-physics boundary
 2. **Baseline collapse**: GRW/CSL handle structural collapse consciousness-independently, solving the prebiotic problem
-2. **Consciousness modulation**: Neural quantum events can be biased by phenomenal properties (attention, intention, valence) at the disclosed boundary
-3. **No panpsychism required**: Consciousness isn't ubiquitous; it modulates rare, localized quantum events in complex brains
-4. **Falsifiable framework**: Experimental tests constrain models, maintaining scientific rigor
-5. **Avoids Many Worlds**: Collapse is objective and real, not observer-dependent branching ([No Many Worlds](/tenets/#no-many-worlds))
+3. **Consciousness modulation**: Neural quantum events can be biased by phenomenal properties (attention, intention, valence) at the disclosed boundary
+4. **No panpsychism required**: Consciousness isn't ubiquitous; it modulates rare, localized quantum events in complex brains
+5. **Falsifiable framework**: Experimental tests constrain models, maintaining scientific rigor
+6. **Avoids Many Worlds**: Collapse is objective and real, not observer-dependent branching ([No Many Worlds](/tenets/#no-many-worlds))
 
 The **consciousness-modulated CSL** model (Chalmers and McQueen's CSL-IIT or similar) best instantiates this framework: [Dualism](/tenets/#dualism) (consciousness ontologically distinct), [Bidirectional Interaction](/tenets/#bidirectional-interaction) (consciousness causally influences outcomes), minimal quantum scale (modulates, doesn't wholly cause), rejection of [many-worlds](/concepts/many-worlds/) (collapse is real), and [Occam's Razor's limits](/tenets/#occams-limits) (solving measurement problem justifies modifying QM).
 

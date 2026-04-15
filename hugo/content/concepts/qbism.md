@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-28 11:27:00+00:00
+ai_modified: 2026-04-15 15:22:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,6 +23,7 @@ last_deep_review: 2026-03-28 11:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[indexical-void]]'
 title: QBism (Quantum Bayesianism)
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -76,7 +77,7 @@ Copenhagen also treats measurement pragmatically but retains a dual ontology: qu
 
 [Many-Worlds](/concepts/many-worlds/) eliminates collapse by positing that all outcomes occur. QBism eliminates collapse by denying objective states. Both avoid the measurement problem, but differently: MWI multiplies reality; QBism deflates it. For the Map, both leave consciousness unexplained—MWI by making all branches equally real (so why do I experience *this* one?), QBism by presupposing experience without explaining it.
 
-MWI defenders respond that the indexical question is no more mysterious than asking "why am I this person rather than another?"—both are selection effects, not metaphysical puzzles. But the Map holds that indexical identity is precisely what requires explanation (see [haecceity](/concepts/haecceity/)), not what explains things away. The question "why this branch?" is meaningful whether or not we can answer it.
+MWI defenders respond that the indexical question is no more mysterious than asking "why am I this person rather than another?"—both are selection effects, not metaphysical puzzles. But the Map holds that indexical identity is precisely what requires explanation (see [haecceity](/concepts/haecceity/) and the [indexical-void](/voids/indexical-void/)), not what explains things away. The question "why this branch?" is meaningful whether or not we can answer it.
 
 ### Versus Consciousness-Collapse
 
@@ -140,6 +141,7 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 - [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/) — How probability treatment reveals interpretive commitments
 - [relational-quantum-mechanics](/concepts/relational-quantum-mechanics/) — Another perspectival interpretation with different implications
 - [haecceity](/concepts/haecceity/) — The "thisness" QBism implicitly invokes but doesn't explain
+- [indexical-void](/voids/indexical-void/) — The cognitive boundary where first-person identity resists explanation; QBism presupposes what this void questions
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — What QBism's agents presuppose
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap QBism's agent presupposition instantiates
 - [phenomenal unity](/concepts/unity-of-consciousness/) — The unified experience QBism's agents must possess

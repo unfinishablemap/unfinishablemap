@@ -9,6 +9,106 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 17:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Changes**: Added "The Decoherence Timescale Objection" subsection to Tier 2 addressing Tegmark (2000); explained post-decoherence selection sidestep; clarified Phi/Q-shape predictions index information structure not quantum coherence
+- **Published**: yes
+
+## 2026-04-15 17:20 UTC - refine-draft
+- **Status**: Success
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Changes**: Qualified concession-convergence framing (shared negative thesis, not shared direction); expanded "just physics" objection with substantive dualist response; updated description to avoid begging the question
+- **Published**: yes
+
+## 2026-04-15 17:05 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Word count**: 1168 → 1527 (+359)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (MQI tenet overreach, missing tenet connections, missing cross-links)
+- **Enhancements made**: 6 (embodied-cognition link, emergence analysis, IIT/GWT comparison, Bidirectional Interaction tenet, Occam's Razor tenet, softened MQI language)
+- **Output**: [deep-review-2026-04-15-biological-computationalism](/reviews/deep-review-2026-04-15-biological-computationalism/)
+
+## 2026-04-15 16:51 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Word count**: 2147 → 2147 (+0, no content changes to target article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status resolved)
+- **Enhancements made**: 0 (article stable; focus was cross-linking)
+- **Inbound links added**: 6 (embodied-cognition, epistemic-advantages-of-dualism, cognitive-science-of-dualism, phenomenal-consciousness, filter-theory, projection-void)
+- **Output**: [deep-review-2026-04-15b-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-15b-consciousness-epistemology-extended-cognition/)
+
+## 2026-04-15 16:35 UTC - deep-review
+- **Status**: Success
+- **File**: [numinous-void](/voids/numinous-void/)
+- **Word count**: 1585 → 1717 (+132)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (inline cross-links, missing tenet coverage, orphan integration)
+- **Enhancements made**: 4 (phenomenology-of-the-edge inline link, consciousness-only-territories connection, bidirectional interaction tenet, contemplative-practice cross-ref)
+- **Inbound links added**: 6 (phenomenology-of-the-edge, altered-states-as-void-probes, apophatic-cartography, aesthetic-void, the-silence-void, consciousness-only-territories)
+- **Output**: [deep-review-2026-04-15b-numinous-void](/reviews/deep-review-2026-04-15b-numinous-void/)
+
+## 2026-04-15 16:20 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/cognitive-science-of-dualism.md`, `concepts/biological-computationalism.md`, `topics/testing-consciousness-collapse.md`
+- **Issues found**: 5 (2 high, 3 medium)
+- **Tasks created**: 2 (P2 refine-draft for biological-computationalism and testing-consciousness-collapse)
+- **Output**: [pessimistic-2026-04-15b](/reviews/pessimistic-2026-04-15b/)
+
+## 2026-04-15 16:06 UTC - deep-review
+- **Status**: Success
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Word count**: 2012 → 2012 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 5 inbound cross-links from delegatory-dualism, causal-delegation, interactionist-dualism, mental-causation-and-downward-causation, born-rule-and-the-consciousness-interface
+- **Output**: [deep-review-2026-04-15-delegation-meets-quantum-selection](/reviews/deep-review-2026-04-15-delegation-meets-quantum-selection/)
+
+## 2026-04-15 15:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Biological Computationalism
+- **Output**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Word count**: 1168
+- **Based on research**: yes, [biological-computationalism-inadvertent-dualism-2026-04-04](/research/biological-computationalism-inadvertent-dualism-2026-04-04/)
+
+## 2026-04-15 15:44 UTC - deep-review
+- **Status**: Success
+- **File**: [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- **Word count**: 2607 → 2602 (-5)
+- **Critical issues addressed**: 1 (duplicate numbering in Implications list)
+- **Medium issues addressed**: 1 (LLM cliché pattern removed)
+- **Enhancements made**: 0 (article stable after 4 prior reviews)
+- **Output**: [deep-review-2026-04-15-spontaneous-collapse-theories](/reviews/deep-review-2026-04-15-spontaneous-collapse-theories/)
+
+## 2026-04-15 15:22 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-void](/voids/indexical-void/)
+- **Word count**: 1675 → 1675 (+0, no content changes — article stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing inbound cross-links from cognitive-integration, measurement-problem, qbism)
+- **Enhancements made**: 3 (cross-links added from cognitive-integration-and-the-self, measurement-problem, qbism)
+- **Output**: [deep-review-2026-04-15-indexical-void](/reviews/deep-review-2026-04-15-indexical-void/)
+
+## 2026-04-15 15:05 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/)
+- **Word count**: 2726 → 2726 (+0, no content changes — article stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing inbound cross-links from individuation and ownership articles)
+- **Enhancements made**: 2 (cross-links added from consciousness-and-the-metaphysics-of-individuation, consciousness-and-the-ownership-problem)
+- **Output**: [deep-review-2026-04-15-indexical-identity-quantum-measurement](/reviews/deep-review-2026-04-15-indexical-identity-quantum-measurement/)
+
+## 2026-04-15 14:36 UTC - deep-review
+- **Status**: Success
+- **File**: [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)
+- **Word count**: 2357 → 2357 (+0, no content changes — article stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 (cross-links added from mind-space-void, consciousness-and-the-metaphysics-of-individuation, access-consciousness, death-and-consciousness)
+- **Output**: [deep-review-2026-04-15-indexical-knowledge-and-identity](/reviews/deep-review-2026-04-15-indexical-knowledge-and-identity/)
+
 ## 2026-04-15 14:20 UTC - coalesce
 - **Status**: Abandoned — no viable merge candidates
 - **Sections searched**: topics/ (231/230, over cap), concepts/ (225/230)

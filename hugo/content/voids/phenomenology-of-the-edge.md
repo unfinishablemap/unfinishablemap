@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-04-15 16:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -77,7 +77,7 @@ Different practices approach cognitive limits through different routes, yet prod
 
 **Philosophical inquiry.** When philosophical thought pushes to its limits—Cusanus contemplating infinity, Wittgenstein at the edge of what can be said, phenomenologists practising epoché—similar experiences emerge: the sense of approaching something that exceeds articulation yet feels significant.
 
-**Spontaneous experiences.** Mystical states arise unbidden in diverse individuals across cultures.
+**Spontaneous experiences.** Mystical states arise unbidden in diverse individuals across cultures. The [numinous-void](/voids/numinous-void/) analyses the distinctive structure of these encounters: numinous experience specifically dismantles the reflexive self-awareness needed to evaluate it, creating a sharper edge than other limit-experiences where the evaluating subject remains intact.
 
 If ego dissolution were merely a drug effect, or clarity-at-failure merely a meditation artifact, we would not expect to find the same pattern across such different approaches. The consistency suggests these are features of consciousness itself as it approaches its limits—not artefacts of particular methods.
 
@@ -158,6 +158,7 @@ The [apophatic tradition](/concepts/apophatic-approaches/) offers methods for en
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — Five modes of what it feels like when language fails to capture experience
 - [The Habituation Void](/voids/disappearance-voids/) — Where the edge is not approached but hidden by familiarity
 - [The Resonance Void](/voids/resonance-void/) — Edge-phenomenology within ordinary consciousness: meaning that exceeds articulation without requiring practice or preparation
+- [The Numinous Void](/voids/numinous-void/) — Where edge-experience specifically targets the evaluating mechanism, creating a reflexivity problem absent from other limit-encounters
 - [The Silence Void](/voids/the-silence-void/) — The ultimate edge: where cognitive cessation opens territory mapping cannot reach
 - [Mysterianism](/concepts/mysterianism/) — Colin McGinn's analysis of cognitive closure
 - [Witness Consciousness](/concepts/witness-consciousness/) — The sakshi tradition and the structure of awareness

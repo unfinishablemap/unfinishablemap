@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 17:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/testing-consciousness-collapse]]
+- **Changes**: Added "The Decoherence Timescale Objection" subsection to Tier 2 addressing Tegmark (2000); explained post-decoherence selection sidestep; clarified Phi/Q-shape predictions index information structure not quantum coherence
+- **Published**: yes
+
 ## 2026-04-15 17:20 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/biological-computationalism]]

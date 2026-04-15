@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review tenet-falsification-conditions.md against related articles
 - **Type**: cross-review
 - **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
@@ -2057,6 +2051,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md
+
+Task context:
+Pessimistic review found Tier 2 predictions section ignores Tegmark's (2000) decoherence timescale objection — the most prominent objection any physicist would raise. Add a subsection or paragraph explaining how consciousness-collapse models respond (post-decoherence selection, Phi-threshold applying to information structure not quantum coherence). See pessimistic-2026-04-15b.md Issue 3.
 
 ### ✓ 2026-04-15: Address concession-convergence overstatement in biological-computationalism.md
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-04-02
 human_modified:
-ai_modified: 2026-04-03T23:39:00+00:00
+ai_modified: 2026-04-15T17:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,6 +145,16 @@ Kleiner and Hoel (2024) propose an inverse test: rather than checking whether co
 
 Stapp's quantum Zeno approach proposes that conscious attention holds neural assemblies in specific quantum states through repeated observation. It aligns with the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet — no energy injection, only outcome selection — but makes no quantitative prediction diverging from decoherence-only neuroscience. This may be a permanent limitation: the IIT-CSL approach remains the only Tier 2 framework generating quantitative divergences from standard physics.
 
+### The Decoherence Timescale Objection
+
+Tegmark (2000) calculates that quantum coherence in neural tissue decoheres within roughly 10⁻¹³ seconds — far too fast for any neural process to exploit. This is the most cited physics objection to consciousness-collapse models, and any Tier 2 framework must address it.
+
+The objection is decisive against models requiring sustained quantum coherence in neural tissue — Penrose-Hameroff orchestrated reduction, for instance, must explain how microtubule coherence survives the warm, wet brain environment. But the Map's framework operates through [[post-decoherence-selection]], which sidesteps the timescale problem entirely. Consciousness does not need to maintain or exploit quantum coherence; it acts *after* decoherence has already produced the classical-looking mixture, selecting which outcome becomes actual from the improper mixture that decoherence leaves behind. Tegmark's calculation constrains when coherence vanishes — it says nothing about what happens to the resulting mixture.
+
+The Phi-threshold and Q-shape predictions (Kremnizer-Ranchin and Chalmers-McQueen) reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2021) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
+
+What Tegmark's result *does* constrain is the timing window. If coherence vanishes in 10⁻¹³ seconds, any consciousness-dependent selection must operate on the post-decoherence state within the neural processing timescale (~10⁻³ to 10⁻¹ seconds) — comfortably slower than decoherence but fast enough for perceptual binding. This is precisely the regime post-decoherence selection inhabits.
+
 ### Why Tier 2 Is Harder Than Tier 1
 
 Tier 1 involves measurable physical quantities. Tier 2 requires controlling *consciousness itself* as an independent variable — demanding either a validated consciousness metric or the ability to remove consciousness while holding physical conditions constant. This reflects the same structural feature generating the [[hard-problem-of-consciousness|hard problem]]: consciousness is always accessed from within a physical system that provides an alternative explanatory pathway.
@@ -254,21 +264,14 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 19. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
 20. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
 
-<!-- AI REFINEMENT LOG - 2026-04-02
+<!-- AI REFINEMENT LOG - 2026-04-15
 Changes made:
-- Enhanced Phi-Threshold section: made quantum computer variable-Φ experimental paradigm explicit (from both research notes)
-- Added Selective Quantum Coherence Disruption subsection (Kleiner & Hoel 2024): inverse-direction test probing quantum → consciousness causation
-- Added Attention-Based Selection (Stapp) subsection: acknowledged as Tenet 2-aligned but noted permanent empirical indistinguishability limitation
-- Expanded "Why Tier 2 Is Harder Than Tier 1" to note range from indistinguishable (Stapp) to novel-but-intractable (IIT-CSL)
-- Strengthened Tenet 2 (Minimal Quantum Interaction) alignment in Relation to Site Perspective: quantum computer tests embody minimality, Stapp illustrates too-minimal problem
-- Updated landscape table with 2 new entries (coherence disruption, Stapp Zeno)
-- Added inverse-direction test to convergence strategy supporting lines
-- Updated summary paragraph to reflect fuller Tier 2 landscape
-- Added references: Kleiner & Hoel (2024), Stapp (2007); fixed duplicate numbering
+- Added "The Decoherence Timescale Objection" subsection to Tier 2 addressing Tegmark's (2000) 10⁻¹³s neural decoherence calculation
+- Explained how post-decoherence selection sidesteps the timescale problem (consciousness acts after decoherence, not during coherence)
+- Clarified that Phi-threshold/Q-shape predictions are indexed to information structure, not quantum coherence
+- Noted what Tegmark does constrain: timing window for selection must be post-decoherence neural timescale
 
-Based on integration of research notes:
-- research/testable-predictions-consciousness-collapse-decoherence-2026-03-29.md
-- research/experimental-tests-consciousness-collapse-vs-decoherence-2026-03-21.md
+Prompted by pessimistic review Issue 3: Tier 2 section ignored the most prominent physics objection.
 
 This log should be removed after human review.
 -->

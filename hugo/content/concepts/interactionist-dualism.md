@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 07:42:00+00:00
+ai_modified: 2026-04-15 16:06:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -117,7 +117,7 @@ Two responses address the exclusion argument:
 
 **Quantum response**: The Map rejects premise 1. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. The [Stapp model](/concepts/stapp-quantum-mind/) articulates this: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place. At quantum indeterminacies, physics is "silent" about outcomes.
 
-**Delegation response**: [Delegatory dualism](/topics/delegatory-dualism/) (Saad 2025) rejects premise 3 without accepting overdetermination. Through [causal-delegation](/concepts/causal-delegation/), physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is [preempted](/concepts/preemption/), not duplicated. Saad's crucial distinction between universal closure and [observational closure](/concepts/observational-closure/) shows that dualists need only respect empirical constraints, not the stronger metaphysical claim. This provides theoretical grounding for the Bidirectional Interaction tenet independent of quantum mechanics.
+**Delegation response**: [Delegatory dualism](/topics/delegatory-dualism/) (Saad 2025) rejects premise 3 without accepting overdetermination. Through [causal-delegation](/concepts/causal-delegation/), physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is [preempted](/concepts/preemption/), not duplicated. Saad's crucial distinction between universal closure and [observational closure](/concepts/observational-closure/) shows that dualists need only respect empirical constraints, not the stronger metaphysical claim. The [delegation-selection bridge](/topics/delegation-meets-quantum-selection/) integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection the physical mechanism of a single event.
 
 ## The Pairing Problem
 
