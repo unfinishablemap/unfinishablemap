@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 20:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/rational-normativity]]
+- **Word count**: 1611 → 1686 (+75)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (intentionality body link, causal-closure body link, formal-systems body link, dangling Pernu reference)
+- **Enhancements made**: 3 cross-links added
+- **Output**: [[reviews/deep-review-2026-04-15c-rational-normativity]]
+
 ## 2026-04-15 20:26 UTC - coalesce
 - **Status**: Abandoned (no candidates)
 - **Reason**: Searched topics/ (230/230 cap) and concepts/ (227/230) across 5+ candidate clusters. All pairs examined were well-differentiated. Previous coalesce operations have already consolidated the most overlapping content.

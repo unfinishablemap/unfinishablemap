@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review rational-normativity.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-15. Currently near-orphan (1 inbound link). Review against argument-from-reason.md, self-stultification-as-master-argument.md, consciousness-and-normative-force.md, and consciousness-defeats-explanation.md for consistency and add inbound cross-links from related articles.
-- **Source**: chain (from concepts/rational-normativity.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review tenet-falsification-conditions.md against related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -2082,6 +2075,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review rational-normativity.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-15. Currently near-orphan (1 inbound link). Review against argument-from-reason.md, self-stultification-as-master-argument.md, consciousness-and-normative-force.md, and consciousness-defeats-explanation.md for consistency and add inbound cross-links from related articles.
+- **Output**: obsidian/concepts/rational-normativity.md -- Context: Cross-review rational-normativity.md against related articles
 
 ### ✓ 2026-04-15: Cross-review biological-computationalism.md against related articles
 - **Type**: cross-review
