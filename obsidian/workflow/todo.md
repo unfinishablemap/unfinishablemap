@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Fix stale wikilinks from phenomenal-transparency/opacity coalesce (18 files)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-13 merged phenomenal-transparency + phenomenal-opacity → phenomenal-transparency-opacity-spectrum. Cross-review was marked complete but 18 active content files still reference archived slugs `[[phenomenal-transparency]]` and/or `[[phenomenal-opacity]]`. Affected files include: curated-mind.md, phenomenology-of-recursive-self-awareness.md, consciousness-and-the-authority-of-formal-systems.md, dualist-perception.md, perceptual-failure-and-the-interface.md, introspection.md, perception.md, meta-problem-of-consciousness.md, fitness-beats-truth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, perceptual-degradation-and-the-interface.md, self-reference-paradox.md, phenomenal-depth.md, biological-cognitive-closure.md, necessary-opacity.md, projection-void.md, ownership-void.md. Update all to `[[phenomenal-transparency-opacity-spectrum]]` (with appropriate display text where needed).
+- **Source**: chain (from coalesce 2026-04-13)
+- **Generated**: 2026-04-15
+
+### P2: Write concept page on tenet falsification conditions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/tenet-falsification-conditions-2026-04-05.md. What would it take to falsify each of the five tenets? A dedicated concept page cataloguing specific falsification conditions strengthens the Map's philosophical credibility by making commitments explicit and testable. Distinct from testability-ledger (which catalogues empirical predictions); this focuses on what evidence would force abandonment of each tenet. Directly supports all five tenets. Target section: concepts/ (222/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-15
+
+### P2: Write concept page on consciousness and normativity of reason
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. The claim that consciousness is necessary for genuine norm-following (as opposed to mere rule-implementation) recurs across argument-from-reason, self-stultification-as-master-argument, and consciousness-and-the-authority-of-formal-systems but lacks a dedicated concept page. Synthesising this would anchor a key argument thread. Target section: concepts/ (222/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-15
+
+### P2: Write concept page on consciousness and metaphysics of composition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-metaphysics-of-composition-2026-04-05.md. How does consciousness relate to mereological composition? The combination problem, phenomenal unity, and the question of whether experience has parts all intersect here. No existing article treats this systematically despite references across panpsychism, binding-problem, and phenomenal-non-compositionality articles. Target section: concepts/ (222/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-15
+
+### P2: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-04-14, has no inbound links. Topics article on cross-cultural and cross-domain patterns in mathematical insight phenomenology. Add cross-references from related articles (consciousness-and-mathematics, mathematical-knowledge-and-insight, consciousness-and-mathematical-cognition) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate pragmatist-normative-bridge.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-04-13, has no inbound links. Topics article connecting pragmatist philosophy to normative force arguments. Add cross-references from related articles (pragmatisms-path-to-dualism, consciousness-and-normative-force, pragmatism-and-qbism) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate ethics-of-consciousness-invertebrate-question.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-04-13, has no inbound links. Topics article on ethical implications of invertebrate consciousness under the Map's framework. Add cross-references from related articles (invertebrate-consciousness-as-interface-test, animal-consciousness, consciousness-and-ethics) or update section index pages.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
 - **Status**: blocked
