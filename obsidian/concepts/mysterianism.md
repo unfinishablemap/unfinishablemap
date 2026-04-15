@@ -112,7 +112,7 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 What does it feel like to approach a cognitive limit? The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [[phenomenology-of-the-edge|edge-phenomenology]] maps this at the experiential level—consistent features appear across contemplation, psychedelics, and philosophical inquiry: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
 
-McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [[altered-states-as-void-probes|Altered states research]] sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. Cognitive closure has a phenomenology, and that phenomenology is data.
+McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [[altered-states-as-void-probes|Altered states research]] sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [[numinous-void]] provides a paradigm case: numinous experience produces profound certainty of contact with transcendent reality while simultaneously dismantling the reflective self-awareness needed to evaluate that certainty. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
@@ -193,6 +193,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure
 - [[illusionism]] — The rival view that consciousness isn't real
 - [[voids]] — The Map's framework for approaching cognitive limits
+- [[numinous-void]] — Cognitive closure applied to numinous experience: the evaluating mind and the numinous mind cannot coexist
 - [[apophatic-approaches]] — The methodology of knowing through negation that mysterianism motivates
 
 ## References

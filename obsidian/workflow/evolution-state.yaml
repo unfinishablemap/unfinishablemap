@@ -1,6 +1,6 @@
-last_updated: '2026-04-14T07:55:22.762086+00:00'
-session_count: 5736
-cycle_position: 5364
+last_updated: '2026-04-14T08:55:22.762633+00:00'
+session_count: 5737
+cycle_position: 5365
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-14T01:55:22.757832+00:00'
@@ -13,9 +13,9 @@ last_runs:
   coalesce: '2026-04-13T17:55:22.749648+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-10T19:55:22.685834+00:00'
-  agentic-social: '2026-04-14T08:57:09.261275+00:00'
-last_git_push: '2026-04-14T08:55:59.860478+00:00'
-last_tweet_date: '2026-04-13'
+  agentic-social: '2026-04-15T06:13:06.715419+00:00'
+last_git_push: '2026-04-14T06:55:22.761258+00:00'
+last_tweet_date: '2026-04-14'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-13'
-  outcome: success
 - task: expand-topic (pragmatist-normative bridge)
   type: expand-topic
   date: '2026-04-13'
@@ -134,15 +130,15 @@ recent_tasks:
   type: optimistic-review
   date: '2026-04-14'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review related articles con)'
+  type: deep-review
+  date: '2026-04-14'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/cross-cultural-phenomenology-of-agency/
-    date: '2026-04-14T08:57:09.261258+00:00'
+  - url: https://unfinishablemap.org/topics/ethics-of-cognitive-enhancement-under-dualism/
+    date: '2026-04-15T06:13:06.715398+00:00'
     topics:
+    - ethics-of-consciousness
     - free-will
-    - phenomenology-of-agency-vs-passivity
-    - eastern-philosophy-consciousness
-    - the-hard-problem-in-non-western-philosophy
-    - authentic-vs-inauthentic-choice
-    - social-construction-of-self-vs-phenomenal-self
-    - consciousness-and-social-understanding
+    - personal-identity

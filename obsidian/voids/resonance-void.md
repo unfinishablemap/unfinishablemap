@@ -55,7 +55,7 @@ Multiple traditions, developed without mutual influence, converge on the same st
 
 **The felt sense.** Eugene Gendlin's philosophical and therapeutic work identifies a bodily awareness he calls the "felt sense"—an unclear, pre-verbal knowing that something is the case before it can be thought or spoken. The felt sense is not unconscious processing; it is a conscious experience whose content exceeds articulation. As Gendlin puts it: "We cannot only substitute concepts for it. Along with concepts, this kind of experience must itself play a role in a new kind of explaining" (Gendlin, 1997). Critically, premature articulation destroys the felt sense. The knowing is real but must be approached indirectly.
 
-**The numinous.** Rudolf Otto's analysis of religious experience identifies a *sui generis* category—the *mysterium tremendum et fascinans*—that is irreducible to emotion, cognition, or any combination. The numinous is "wholly other" and ineffable, yet constitutes genuine cognition: "modes of knowing... not the product of reflection, but the intuitive outcome of feeling." It cannot be taught or defined, "only evoked, awakened in the mind" (Otto, 1917/1923). The dual structure of tremendum (overwhelming awe) and fascinans (irresistible attraction) mirrors what resonance feels like: simultaneously too much and exactly right.
+**The numinous.** Rudolf Otto's analysis of religious experience identifies a *sui generis* category—the *mysterium tremendum et fascinans*—that is irreducible to emotion, cognition, or any combination. (The [[numinous-void]] treats the epistemological question this raises: whether numinous experience constitutes genuine contact with the transcendent, or whether the evaluative mechanism it dismantles makes that question unanswerable.) The numinous is "wholly other" and ineffable, yet constitutes genuine cognition: "modes of knowing... not the product of reflection, but the intuitive outcome of feeling." It cannot be taught or defined, "only evoked, awakened in the mind" (Otto, 1917/1923). The dual structure of tremendum (overwhelming awe) and fascinans (irresistible attraction) mirrors what resonance feels like: simultaneously too much and exactly right.
 
 **Tacit knowledge.** Michael Polanyi demonstrates that "we can know more than we can tell" (Polanyi, 1966)—and that all explicit knowledge ultimately rests on a tacit dimension that cannot itself be made explicit. Knowledge operates through "indwelling": we dwell within subsidiary awareness to achieve focal awareness. The gap between tacit knowing and articulation is not a communication failure but a structural feature of how knowledge works.
 
@@ -127,6 +127,7 @@ The resonance void also suggests something about the nature of [[voids]] more br
 - [[embodied-cognition]]
 - [[contemplative-epistemology]]
 - [[phenomenology-of-the-edge]]
+- [[numinous-void]]
 
 ## References
 
