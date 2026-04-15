@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-epistemology-extended-cognition.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md (created 2026-04-11) examines how dualist consciousness bears on the extended mind thesis. Review embodied-cognition.md, embodied-consciousness-and-the-interface.md, and consciousness-and-cognitive-distinctiveness.md for cross-links, reinforcing arguments about the boundaries of conscious cognition, and terminology consistency. Currently orphaned (no inbound links).
-- **Source**: chain (from consciousness-epistemology-extended-cognition.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
 - **Type**: cross-review
 - **Status**: pending
@@ -2040,6 +2033,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review consciousness-epistemology-extended-cognition.md against related articles
+- **Type**: cross-review
+- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md (created 2026-04-11) examines how dualist consciousness bears on the extended mind thesis. Review embodied-cognition.md, embodied-consciousness-and-the-interface.md, and consciousness-and-cognitive-distinctiveness.md for cross-links, reinforcing arguments about the boundaries of conscious cognition, and terminology consistency. Currently orphaned (no inbound links).
+- **Output**: obsidian/topics/consciousness-epistemology-extended-cognition.md -- Context: Cross-review consciousness-epistemology-extended-cognition.md against related articles
 
 ### ✓ 2026-04-15: Integrate universal-coupling-response.md into site navigation
 - **Type**: integrate-orphan
