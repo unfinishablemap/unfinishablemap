@@ -4,7 +4,7 @@ description: "The dualist position that consciousness couples with all physical 
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-15T06:26:00+00:00
+ai_modified: 2026-04-15T09:05:00+00:00
 draft: false
 topics:
   - "[[invertebrate-consciousness-as-interface-test]]"
@@ -27,7 +27,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-04-15T06:26:00+00:00
+last_deep_review: 2026-04-15T09:05:00+00:00
 ---
 
 The universal coupling response is the position that consciousness couples with every physical system whose architecture meets adequate conditions for interface. Where threshold views impose a sharp boundary below which coupling fails, and panpsychism extends consciousness to all matter regardless of organisation, the universal coupling response occupies a distinct middle position: architectural adequacy is required, but wherever it exists, coupling occurs. The Unfinishable Map adopts this as its most coherent response to the question of which physical systems are conscious.
@@ -50,7 +50,7 @@ The predictive difference from threshold views is sharpest at the margins. A thr
 
 The universal coupling response approaches but does not reach panpsychism. The distinction is architectural adequacy.
 
-Panpsychism—in its standard form—holds that consciousness or proto-consciousness is a fundamental feature of all matter. An electron has some form of experience. A thermostat has some form of experience. Consciousness is intrinsic to the physical, requiring no particular organisation.
+[[panpsychism|Panpsychism]]—in its standard form—holds that consciousness or proto-consciousness is a fundamental feature of all matter. An electron has some form of experience. A thermostat has some form of experience. Consciousness is intrinsic to the physical, requiring no particular organisation.
 
 Universal coupling requires organisation. A nervous system with sufficient integration, hierarchical processing, and systemic coordination provides the physical conditions for interface. *C. elegans* with 302 neurons may fall below this threshold (Feinberg & Mallatt, 2016). A rock certainly does. The coupling mechanism needs something to couple *with*—quantum indeterminacies in neural tissue, on the Map's account—and unorganised matter does not provide it.
 

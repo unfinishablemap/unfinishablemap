@@ -154,7 +154,7 @@ The [[tenets#^dualism|Dualism]] tenet holds consciousness is irreducible to phys
 
 ### Bidirectional Interaction
 
-The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. The amplification hypothesis provides a specific account at two levels: cognitively, through flexible deployment, metacognitive monitoring, and counterfactual simulation; physically, through the [[#proposed-physical-mechanisms|proposed amplification mechanisms]] bridging quantum-scale influence to macroscopic neural effects.
+The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet claims consciousness causally influences the physical world. The [[universal-coupling-response]] predicts this influence occurs wherever adequate neural architecture exists—across phyla, not just in primates. The amplification hypothesis provides a specific account at two levels: cognitively, through flexible deployment, metacognitive monitoring, and counterfactual simulation; physically, through the [[#proposed-physical-mechanisms|proposed amplification mechanisms]] bridging quantum-scale influence to macroscopic neural effects.
 
 The exclusion problem—if every neural event has a sufficient physical cause, how can consciousness contribute?—is addressed by [[causal-delegation|causal delegation]] (Saad 2025): consciousness *takes over* causal work through [[preemption]] rather than duplication. Amplification is not an additional cause layered atop neural processing but consciousness exercising the causal role the neural substrate yields.
 

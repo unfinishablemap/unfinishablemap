@@ -110,7 +110,7 @@ The Map agrees with panpsychism's diagnosis (emergence from non-conscious matter
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds that consciousness causally influences physical outcomes. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes this happens at the quantum level—consciousness biases otherwise indeterminate outcomes.
 
-This trades the combination problem for the interaction problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it. The Map's [[bi-aspectual-ontology]] develops this further: reality has two irreducible aspects (structure and actuality) that interact at quantum indeterminacies rather than being identical.
+This trades the combination problem for the interaction problem. There's no need to explain how micro-experiences combine because matter doesn't have micro-experiences. Consciousness is a distinct ontological category that interacts with matter rather than constituting it. The [[universal-coupling-response]] specifies the Map's answer to which physical systems consciousness couples with: all those meeting adequate architectural conditions, without arbitrary thresholds or unexplained selectivity. The Map's [[bi-aspectual-ontology]] develops this further: reality has two irreducible aspects (structure and actuality) that interact at quantum indeterminacies rather than being identical.
 
 ## Key Differences
 

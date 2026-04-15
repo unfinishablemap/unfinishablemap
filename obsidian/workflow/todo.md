@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate universal-coupling-response.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the response pattern where consciousness, unlike all physical systems, does not universally couple to its environment. Add cross-references from mind-matter-interface, princess-elizabeths-challenge, and interaction-problem articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review consciousness-epistemology-extended-cognition.md against related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -2047,6 +2040,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate universal-coupling-response.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the response pattern where consciousness, unlike all physical systems, does not universally couple to its environment. Add cross-references from mind-matter-interface, princess-elizabeths-challenge, and interaction-problem articles.
+- **Output**: obsidian/concepts/universal-coupling-response.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Integrate metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan

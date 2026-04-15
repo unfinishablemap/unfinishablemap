@@ -109,7 +109,7 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 
 **No Many Worlds**: The Map's rejection of MWI means that quantum events resolve to single outcomes—collapse is real. If coupling mechanisms work by biasing collapse outcomes, different mechanisms may bias different types of quantum events in different physical substrates. Under MWI, all outcomes occur and the question of how consciousness selects among them dissolves; under single-world collapse, the specifics of the selection mechanism matter, and different organisms might implement selection differently.
 
-**Occam's Razor Has Limits**: The simplest assumption is a single universal coupling mechanism. But the diversity of neural architectures supporting consciousness, combined with the independent evolutionary origins of those architectures, suggests that parsimony may mislead here. If coupling is heterogeneous, the search for a single mechanism would systematically fail—not because no mechanism exists, but because multiple mechanisms do.
+**Occam's Razor Has Limits**: The [[universal-coupling-response]] establishes that consciousness couples wherever adequate architecture exists; the simplest additional assumption is a single universal coupling mechanism. But the diversity of neural architectures supporting consciousness, combined with the independent evolutionary origins of those architectures, suggests that parsimony may mislead here. If coupling is heterogeneous, the search for a single mechanism would systematically fail—not because no mechanism exists, but because multiple mechanisms do.
 
 ## Further Reading
 
