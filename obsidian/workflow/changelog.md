@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 12:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/rational-normativity]]
+- **Word count**: 1370 → 1464 (+94)
+- **Critical issues addressed**: 1 (misattributed reference: Crane → Pernu)
+- **Medium issues addressed**: 2 (sharpened functionalism critique; tightened Sellars attribution)
+- **Enhancements made**: 3 (Nagel's *The Last Word* added to evolutionary teleology section; evaluative phenomenal character connection developed; free-will cross-link added)
+- **Output**: [[reviews/deep-review-2026-04-15-rational-normativity]]
+
 ## 2026-04-15 12:21 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/pragmatist-normative-bridge]]

@@ -4,7 +4,8 @@ description: "Rational normativity is the prescriptive dimension of reasoning �
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T11:20:00+00:00
+ai_modified: 2026-04-15T12:35:00+00:00
+last_deep_review: 2026-04-15T12:35:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-normativity-of-reason]]"
@@ -42,7 +43,7 @@ Rational normativity refers specifically to the norms governing belief formation
 
 **Content-sensitivity.** Valid inference depends on what propositions *mean*, not on their physical encoding. "All humans are mortal" bears the same logical relations whether encoded in English neurons, Mandarin text, or silicon registers. Physical causation is sensitive to physical structure; logical validity is sensitive to semantic content.
 
-These features collectively constitute what Wilfrid Sellars identified as the distinction between the "space of reasons" and the "space of causes." To characterise a mental state as knowledge is not to give an empirical description but to locate it within a network of justificatory relations — relations that are normative rather than causal.
+These features collectively constitute what Wilfrid Sellars captured with his distinction between the "logical space of reasons" and the realm of natural law. To characterise a mental state as knowledge is not to give an empirical description but to locate it within a network of justificatory relations — relations that are normative rather than causal.
 
 ## Distinction from Other Normativities
 
@@ -54,7 +55,7 @@ Rational normativity is one species of a broader genus. Other normative domains 
 
 The Map's treatment of [[consciousness-and-normative-force|normative force]] addresses the genus; rational normativity is the species concerned specifically with belief and inference. What makes it philosophically distinctive is its self-referential character: any attempt to explain away rational normativity must itself employ rational normativity. An argument that rational norms are illusory must claim to follow from premises to conclusion — invoking the very norms it seeks to eliminate. This is the [[self-stultification-as-master-argument|self-stultification]] structure.
 
-The concept also connects to [[evaluative-phenomenal-character]]. If [[cognitive-phenomenology]] is real — if thinking has its own irreducible phenomenal character — then the "ought" of logical inference may be grounded in the phenomenal experience of logical insight, paralleling how moral obligation is grounded in evaluative qualia. Rational normativity and moral normativity would then be two expressions of the same underlying phenomenon: consciousness doing normative work that no physical process can replicate.
+The concept also connects to [[evaluative-phenomenal-character]]. If [[cognitive-phenomenology]] is real — if thinking has its own irreducible phenomenal character — then the "ought" of logical inference may be grounded in the phenomenal experience of logical insight, paralleling how moral obligation is grounded in evaluative qualia. The felt difference between a valid inference and a non sequitur, or between a well-supported belief and a wishful one, would be a species of phenomenal normativity. Rational normativity and moral normativity would then be two expressions of the same underlying phenomenon: consciousness doing normative work that no physical process can replicate.
 
 ## The Two Senses of "Because"
 
@@ -72,9 +73,9 @@ Three influential strategies for reducing rational normativity to physical proce
 
 **Reliabilism** replaces the normative question — "what *should* I believe?" — with a descriptive one — "what process reliably produces true beliefs?" But reliability is itself a normative notion. Which processes count as the same type? Reliable relative to which environments? What counts as truth? Answering these questions requires normative judgement. Reliabilism presupposes rational normativity rather than explaining it.
 
-**[[functionalism|Functionalism]]** proposes that the right causal-functional organisation constitutes rule-following. But functional descriptions specify causal relations — what causes what — not justificatory relations — what supports what. A system that happens to behave as if it follows logical rules may be doing nothing more than running along causal tracks. The prescriptive dimension — the fact that the conclusion *ought* to follow — is not captured by any functional architecture, however sophisticated.
+**[[functionalism|Functionalism]]** proposes that the right causal-functional organisation constitutes rule-following. The functionalist claims that justificatory relations *just are* certain complex causal patterns viewed at the right level of abstraction. But this move collapses the distinction it needs to preserve: if "A justifies B" reduces to "A causes B through the right functional pathway," the normative force disappears. A system that happens to behave as if it follows logical rules may be doing nothing more than running along causal tracks. The prescriptive dimension — the fact that the conclusion *ought* to follow — is not captured by any functional architecture, however sophisticated.
 
-**Evolutionary teleology** appeals to natural selection: our cognitive faculties were shaped to track truth because accurate beliefs aid survival. But as Plantinga's evolutionary argument against naturalism observes, natural selection rewards adaptive behaviour, not true belief. An organism with systematically false beliefs that generate survival-enhancing behaviour would be equally fit. Evolution explains why we *tend to behave* as if we reason well; it does not explain why we *ought* to follow the evidence.
+**Evolutionary teleology** appeals to natural selection: our cognitive faculties were shaped to track truth because accurate beliefs aid survival. But as Plantinga's evolutionary argument against naturalism observes, natural selection rewards adaptive behaviour, not true belief. An organism with systematically false beliefs that generate survival-enhancing behaviour would be equally fit. Evolution explains why we *tend to behave* as if we reason well; it does not explain why we *ought* to follow the evidence. Nagel presses the same point in *The Last Word*: our capacity for logical and mathematical reasoning outstrips anything natural selection could have targeted, suggesting that reason resists naturalistic reduction.
 
 Each strategy attempts to account for rational normativity by redescribing it in non-normative terms. Each succeeds only by quietly smuggling normativity back in or by changing the subject from what one *should* believe to what one *happens* to believe.
 
@@ -90,7 +91,7 @@ Rational normativity connects to the Map's [[tenets]] at multiple points.
 
 **Dualism.** If rational normativity requires consciousness, and consciousness is irreducible to physical processes, then the normative dimension of reasoning provides an argument for dualism distinct from arguments based on qualia. The normative gap — between "neurons fired" and "one ought to believe" — is as resistant to physical closure as the explanatory gap between neural correlates and subjective experience.
 
-**Bidirectional interaction.** Reasoning causally influences behaviour: we act on conclusions, revise plans in light of evidence, and speak our beliefs. If rational normativity requires consciousness, and reasoning shapes the physical world through action, then consciousness has genuine causal efficacy. The self-stultification argument makes this vivid: if consciousness were [[concepts/epiphenomenalism|epiphenomenal]], our reports about reasoning would be causally disconnected from our actual rational processes, rendering them accidentally correct at best.
+**Bidirectional interaction.** Reasoning causally influences behaviour: we act on conclusions, revise plans in light of evidence, and speak our beliefs. If rational normativity requires consciousness, and reasoning shapes the physical world through action, then consciousness has genuine causal efficacy — a conclusion that also bears on [[free-will|free will]]. The self-stultification argument makes this vivid: if consciousness were [[concepts/epiphenomenalism|epiphenomenal]], our reports about reasoning would be causally disconnected from our actual rational processes, rendering them accidentally correct at best.
 
 **Occam's razor has limits.** Physicalism appears simpler — one ontological category rather than two. But a worldview that cannot ground its own rational credentials is not genuinely simpler; it is incomplete. The [[parsimony-epistemology|historical record]] of parsimony shows that apparent simplicity often masks deeper inadequacy, and the failure to account for rational normativity is a case in point.
 
@@ -109,5 +110,5 @@ Rational normativity connects to the Map's [[tenets]] at multiple points.
 2. Nagel, T. *The Last Word*. Oxford University Press, 1997.
 3. Sellars, W. "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science*, vol. 1, edited by H. Feigl and M. Scriven, 253–329. University of Minnesota Press, 1956.
 4. Plantinga, A. *Warrant and Proper Function*. Oxford University Press, 1993.
-5. Crane, T. et al. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017).
+5. Pernu, T. "The Five Marks of the Mental." *Frontiers in Psychology* 8 (2017).
 6. Southgate, A. & Oquatre-six, C. (2026-04-07). Consciousness and the Normativity of Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-the-normativity-of-reason/
