@@ -21,7 +21,6 @@ related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"
   - "[[time-collapse-and-agency]]"
-  - "[[growing-block-universe-and-consciousness]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
 ai_contribution: 100
 author:
@@ -128,7 +127,7 @@ Henry Stapp's [[quantum-consciousness|quantum Zeno mechanism]] proposes that men
 
 ### The Modified Growing Block
 
-The Map's [[time-collapse-and-agency|temporal framework]] proposes a modified [[growing-block-universe-and-consciousness|growing block]]: past and present exist; the future doesn't yet. Collapse grows the block. Time-symmetric physics operates *within* the possibility structure that collapse resolves. The "future" participating in transactions is quantum possibility, not ontologically existing future fact. Once collapse occurs, the selected history is simply history—irreversible because definiteness replaces superposition.
+The Map's [[time-collapse-and-agency|temporal framework]] proposes a modified [[consciousness-and-the-ontology-of-temporal-becoming|growing block]]: past and present exist; the future doesn't yet. Collapse grows the block. Time-symmetric physics operates *within* the possibility structure that collapse resolves. The "future" participating in transactions is quantum possibility, not ontologically existing future fact. Once collapse occurs, the selected history is simply history—irreversible because definiteness replaces superposition.
 
 This reconciles time-symmetry with real temporal becoming: symmetry holds at the level of possibility; asymmetry emerges through collapse into actuality.
 
@@ -179,8 +178,7 @@ Time-symmetric physics connects to the Map's [[tenets]] in several ways:
 - [[time-symmetric-selection-mechanism]] — Consciousness selecting through atemporal constraint-satisfaction
 - [[quantum-interpretations]] — Survey including transactional and TSVF frameworks
 - [[measurement-problem]] — Why collapse remains unexplained
-- [[growing-block-universe-and-consciousness]] — Why the growing block is the natural home for consciousness
-- [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory
+- [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, including the growing block
 - [[philosophy-of-time]] — A-theory, B-theory, and growing block
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and agency
 - [[tenets]] — The Map's foundational commitments

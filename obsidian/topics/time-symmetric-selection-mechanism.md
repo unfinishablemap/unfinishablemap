@@ -25,7 +25,7 @@ related_articles:
   - "[[time-collapse-and-agency]]"
   - "[[presentiment-and-retrocausality]]"
   - "[[non-retrocausal-conscious-selection-models]]"
-  - "[[growing-block-universe-and-consciousness]]"
+  - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -128,7 +128,7 @@ Critics object that quantum effects cannot survive in warm biological systems—
 
 ## The Modified Growing Block
 
-Time-symmetric physics seems to require eternalism—past and future must both exist to send and receive waves. But the Map's [[collapse-and-time|collapse framework]] requires real temporal becoming (see [[growing-block-universe-and-consciousness|growing block universe and consciousness]] and [[consciousness-and-the-ontology-of-temporal-becoming|the ontology of temporal becoming]]). How to reconcile?
+Time-symmetric physics seems to require eternalism—past and future must both exist to send and receive waves. But the Map's [[collapse-and-time|collapse framework]] requires real temporal becoming (see [[consciousness-and-the-ontology-of-temporal-becoming|the ontology of temporal becoming]]). How to reconcile?
 
 The Map proposes a **modified growing block**:
 
@@ -215,7 +215,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 - [[retrocausality]] — Physics of backward causation and the Libet resolution
 - [[collapse-and-time]] — How collapse introduces time's arrow
 - [[time-collapse-and-agency]] — Full synthesis of time, collapse, and conscious agency
-- [[growing-block-universe-and-consciousness]] — The modified growing block ontology
+- [[consciousness-and-the-ontology-of-temporal-becoming]] — Temporal ontology and the modified growing block
 - [[quantum-interpretations]] — Survey of interpretations and consciousness implications
 - [[libet-experiments]] — The timing experiments and Schurger's critique
 - [[agent-causation]] — How agents serve as ultimate sources

@@ -5,6 +5,14 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 19:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/growing-block-universe-and-consciousness]]
+- **Target**: [[topics/consciousness-and-the-ontology-of-temporal-becoming]]
+- **Archived**: [[archive/topics/growing-block-universe-and-consciousness]]
+- **References updated**: 3 files (time-symmetric-physics, time-symmetric-selection-mechanism, temporal-consciousness-structure-and-agency)
+- **Notes**: Growing block article absorbed into the broader temporal becoming article. Added epistemic objection (Braddon-Mitchell + 4 responses), rate of passage problem, and mutual support argument. Topics count reduced from 231 to 230 (at cap).
+
 ## 2026-04-15 18:50 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/metaphysics-of-composition]]

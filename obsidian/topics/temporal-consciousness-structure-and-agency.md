@@ -55,7 +55,7 @@ related_articles:
   - "[[bergson-and-duration]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[diachronic-agency-and-personal-narrative]]"
-  - "[[growing-block-universe-and-consciousness]]"
+  - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
