@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review rational-normativity.md against related articles
-- **Type**: cross-review
-- **Notes**: New concept page concepts/rational-normativity.md created via expand-topic. Review against argument-from-reason, self-stultification-as-master-argument, consciousness-and-normative-force, and phenomenal-normativity for consistency and add inbound links from related articles.
-- **Source**: chain (from concepts/rational-normativity.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review metaphysics-of-composition.md against related articles
 - **Type**: cross-review
 - **Notes**: New concept page concepts/metaphysics-of-composition.md created via expand-topic. Review against consciousness-and-the-metaphysics-of-composition (topics/), combination-problem, binding-problem, phenomenal-non-compositionality, and panpsychisms-combination-problem for consistency and cross-linking.
@@ -2066,6 +2060,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review rational-normativity.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created via expand-topic. Review against argument-from-reason, self-stultification-as-master-argument, consciousness-and-normative-force, and phenomenal-normativity for consistency and add inbound links from related articles.
+- **Output**: obsidian/concepts/rational-normativity.md -- Context: Cross-review rational-normativity.md against related articles
 
 ### ✓ 2026-04-15: Cross-review tenet-falsification-conditions.md against related articles
 - **Type**: cross-review

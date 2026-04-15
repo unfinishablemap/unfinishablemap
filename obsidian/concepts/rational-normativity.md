@@ -4,8 +4,8 @@ description: "Rational normativity is the prescriptive dimension of reasoning �
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T12:35:00+00:00
-last_deep_review: 2026-04-15T12:35:00+00:00
+ai_modified: 2026-04-15T18:21:00+00:00
+last_deep_review: 2026-04-15T18:21:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-normativity-of-reason]]"
@@ -55,7 +55,9 @@ Rational normativity is one species of a broader genus. Other normative domains 
 
 The Map's treatment of [[consciousness-and-normative-force|normative force]] addresses the genus; rational normativity is the species concerned specifically with belief and inference. What makes it philosophically distinctive is its self-referential character: any attempt to explain away rational normativity must itself employ rational normativity. An argument that rational norms are illusory must claim to follow from premises to conclusion — invoking the very norms it seeks to eliminate. This is the [[self-stultification-as-master-argument|self-stultification]] structure.
 
-The concept also connects to [[evaluative-phenomenal-character]]. If [[cognitive-phenomenology]] is real — if thinking has its own irreducible phenomenal character — then the "ought" of logical inference may be grounded in the phenomenal experience of logical insight, paralleling how moral obligation is grounded in evaluative qualia. The felt difference between a valid inference and a non sequitur, or between a well-supported belief and a wishful one, would be a species of phenomenal normativity. Rational normativity and moral normativity would then be two expressions of the same underlying phenomenon: consciousness doing normative work that no physical process can replicate.
+The concept also connects to [[evaluative-phenomenal-character]]. If [[cognitive-phenomenology]] is real — if thinking has its own irreducible phenomenal character — then the "ought" of logical inference may be grounded in the phenomenal experience of logical insight, paralleling how moral obligation is grounded in evaluative qualia. The felt difference between a valid inference and a non sequitur, or between a well-supported belief and a wishful one, would be a species of phenomenal normativity. Rational normativity and moral normativity would then be two expressions of the same underlying phenomenon: consciousness doing normative work that no physical process can replicate. The Map's treatment of [[consciousness-and-normative-force|normative force across domains]] develops this convergence further, showing that all four normative domains — moral, epistemic, aesthetic, prudential — share a common phenomenal architecture: demand character that requires response, resistance to preference override, and gradedness of normative weight. Rational normativity is the epistemic instance of this general structure, grounding [[phenomenal-value-realism|phenomenal value realism]] for the domain of belief.
+
+The capacity to track these norms — to recognise that conclusions *follow from* premises and to be guided by that recognition — is what the Map calls [[reasons-responsiveness]]. Where rational normativity specifies the standard (what one *ought* to believe), reasons-responsiveness names the capacity that meets it. The two concepts are complementary: normativity without a responsive subject is an abstract relation; responsiveness without norms is mere causal regularity. Consciousness supplies both — the felt authority of logical norms and the capacity to be guided by them.
 
 ## The Two Senses of "Because"
 
