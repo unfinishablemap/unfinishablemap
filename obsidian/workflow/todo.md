@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review tenet-falsification-conditions.md against related articles
-- **Type**: cross-review
-- **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
-- **Source**: chain (from concepts/tenet-falsification-conditions.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review rational-normativity.md against related articles
 - **Type**: cross-review
 - **Notes**: New concept page concepts/rational-normativity.md created via expand-topic. Review against argument-from-reason, self-stultification-as-master-argument, consciousness-and-normative-force, and phenomenal-normativity for consistency and add inbound links from related articles.
@@ -2072,6 +2066,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review tenet-falsification-conditions.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
+- **Output**: obsidian/concepts/tenet-falsification-conditions.md -- Context: Cross-review tenet-falsification-conditions.md against related articles
 
 ### ✓ 2026-04-15: Address missing Tegmark decoherence engagement in testing-consciousness-collapse.md
 - **Type**: refine-draft
