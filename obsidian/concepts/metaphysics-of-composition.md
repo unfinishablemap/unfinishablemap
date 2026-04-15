@@ -4,8 +4,8 @@ description: "The metaphysics of composition asks when parts form wholes. The Sp
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T13:51:00+00:00
-last_deep_review: 2026-04-15T13:51:00+00:00
+ai_modified: 2026-04-15T18:50:00+00:00
+last_deep_review: 2026-04-15T18:50:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-metaphysics-of-composition]]"
@@ -23,6 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-metaphysics-of-composition-2026-04-05]]"
+  - "[[consciousness-and-the-metaphysics-of-individuation]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -70,6 +71,8 @@ The convergence of these independent approaches is striking. They share no commo
 
 **The [[combination-problem]]** is the inverse of the SCQ applied to consciousness. If basic physical entities have proto-conscious properties (as panpsychism claims), how do micro-experiences combine into macro-experiences? The difficulty of this problem reinforces the idea that consciousness does not compose in the way physical properties do.
 
+The SCQ has a complement: the [[consciousness-and-the-metaphysics-of-individuation|metaphysics of individuation]] asks what draws boundaries around conscious subjects. Where composition asks when parts form wholes, individuation asks why consciousness comes in discrete, bounded units rather than a single field. The two questions constrain each other—any adequate answer to one must be compatible with the other.
+
 ## Relation to Site Perspective
 
 The metaphysics of composition provides independent support for the Map's foundational commitments.
@@ -87,6 +90,8 @@ The failure of composition as identity for conscious subjects connects to [[tene
 - [[combination-problem]]
 - [[unity-of-consciousness]]
 - [[binding-problem]]
+- [[emergence]] — The general problem of deriving wholes from parts
+- [[consciousness-and-the-metaphysics-of-individuation]] — The complementary question: what draws boundaries around conscious subjects
 - [[panpsychisms-combination-problem]]
 
 ## References
