@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address phenomenological method circularity and MWI indexicality weaknesses in phenomenology.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found three issues: (1) Husserl's epoché presupposes first-person irreducibility rather than demonstrating it — bracketing third-person methods, then declaring consciousness can't be captured by third-person methods, is circular. Acknowledge the methodological commitment rather than presenting it as a discovery. (2) MWI section claims "phenomenology reveals indexical structure MWI must treat as brute" but indexicality is a feature of every physical theory (spatial location is equally brute). Engage with Saunders/Wallace rather than treating index as uniquely problematic. (3) Falsifiability conditions rely on first-person validation of third-person predictions — the criterion of success is the thing under dispute. See pessimistic-2026-04-15c.md
-- **Source**: chain (from pessimistic-2026-04-15c)
-- **Generated**: 2026-04-15
-
 ### P2: Add 9 cross-links from optimistic-2026-04-06-midday review
 - **Type**: refine-draft
 - **Status**: pending
@@ -2110,6 +2103,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Address phenomenological method circularity and MWI indexicality weaknesses in phenomenology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found three issues: (1) Husserl's epoché presupposes first-person irreducibility rather than demonstrating it — bracketing third-person methods, then declaring consciousness can't be captured by third-person methods, is circular. Acknowledge the methodological commitment rather than presenting it as a discovery. (2) MWI section claims "phenomenology reveals indexical structure MWI must treat as brute" but indexicality is a feature of every physical theory (spatial location is equally brute). Engage with Saunders/Wallace rather than treating index as uniquely problematic. (3) Falsifiability conditions rely on first-person validation of third-person predictions — the criterion of success is the thing under dispute. See pessimistic-2026-04-15c.md
+- **Output**: obsidian/concepts/phenomenology.md
+
+Task context:
+Pessimistic review found three issues: (1) Husserl's epoché presupposes first-person irreducibility rather than demonstrating it — bracketing third-person methods, then declaring consciousness can't be captured by third-person methods, is circular. Acknowledge the methodological commitment rather than presenting it as a discovery. (2) MWI section claims "phenomenology reveals indexical structure MWI must treat as brute" but indexicality is a feature of every physical theory (spatial location is equally brute). Engage with Saunders/Wallace rather than treating index as uniquely problematic. (3) Falsifiability conditions rely on first-person validation of third-person predictions — the criterion of success is the thing under dispute. See pessimistic-2026-04-15c.md
 
 ### ✓ 2026-04-15: Address choking evidence overextension and Buddhist philosophy gap in embodied-cognition.md
 - **Type**: refine-draft
