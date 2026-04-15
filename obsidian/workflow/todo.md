@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-12 21:56:00+00:00
+ai_modified: 2026-04-15T07:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks across 20+ files
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 20 content files reference [[epistemological-limits-of-occams-razor]] but no article exists with that slug. The concept is covered by parsimony-epistemology.md (which itself references this broken slug in related_articles). Update all wikilinks to point to [[parsimony-epistemology|epistemological limits of Occam's Razor]] and fix the self-reference in parsimony-epistemology.md. Supports Tenet 5 (Occam's Razor Has Limits).
+- **Source**: gap_analysis
+- **Generated**: 2026-04-15
+
+### P2: Integrate phenomenology-of-linguistic-failure.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-04-13). Topics article on what happens at language's boundaries when describing consciousness. Add cross-references from phenomenology-of-understanding-and-meaning, consciousness-defeats-explanation, apophatic-approaches, and consciousness-and-language-under-dualism.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate metarepresentation-threshold.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the threshold at which a system represents its own representations. Add cross-references from metarepresentation, consciousness-and-the-authority-of-logic, teaching-as-metarepresentation, and jourdain-hypothesis.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate universal-coupling-response.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links (created 2026-04-13). Concept page on the response pattern where consciousness, unlike all physical systems, does not universally couple to its environment. Add cross-references from mind-matter-interface, princess-elizabeths-challenge, and interaction-problem articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Cross-review consciousness-epistemology-extended-cognition.md against related articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/consciousness-epistemology-extended-cognition.md (created 2026-04-11) examines how dualist consciousness bears on the extended mind thesis. Review embodied-cognition.md, embodied-consciousness-and-the-interface.md, and consciousness-and-cognitive-distinctiveness.md for cross-links, reinforcing arguments about the boundaries of conscious cognition, and terminology consistency. Currently orphaned (no inbound links).
+- **Source**: chain (from consciousness-epistemology-extended-cognition.md)
+- **Generated**: 2026-04-15
+
+### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/comparative-phenomenology-of-mathematical-insight.md (created 2026-04-14) provides phenomenological detail on mathematical insight across traditions. Review consciousness-and-mathematics.md and consciousness-and-the-philosophy-of-mathematics.md for cross-links and consistency. Article is orphaned (no inbound links) — cross-review should add wikilinks from existing mathematical consciousness articles.
+- **Source**: chain (from comparative-phenomenology-of-mathematical-insight.md)
+- **Generated**: 2026-04-15
 
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
