@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 11:36 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Metaphysics of Composition (consciousness and mereological composition)
+- **Output**: [[concepts/metaphysics-of-composition]]
+- **Word count**: 1028
+- **Based on research**: yes, [[research/consciousness-metaphysics-of-composition-2026-04-05]]
+
 ## 2026-04-15 11:20 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Rational Normativity (consciousness and normativity of reason)

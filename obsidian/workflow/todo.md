@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on consciousness and metaphysics of composition
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-metaphysics-of-composition-2026-04-05.md. How does consciousness relate to mereological composition? The combination problem, phenomenal unity, and the question of whether experience has parts all intersect here. No existing article treats this systematically despite references across panpsychism, binding-problem, and phenomenal-non-compositionality articles. Target section: concepts/ (222/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-15
-
 ### P2: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2054,6 +2047,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Write concept page on consciousness and metaphysics of composition
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-metaphysics-of-composition-2026-04-05.md. How does consciousness relate to mereological composition? The combination problem, phenomenal unity, and the question of whether experience has parts all intersect here. No existing article treats this systematically despite references across panpsychism, binding-problem, and phenomenal-non-compositionality articles. Target section: concepts/ (222/230).
+- **Output**: Write concept page on consciousness and metaphysics of composition
 
 ### ✓ 2026-04-15: Write concept page on consciousness and normativity of reason
 - **Type**: expand-topic
