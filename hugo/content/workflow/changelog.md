@@ -9,6 +9,44 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 22:26 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/embodied-cognition.md`, `concepts/mental-effort.md`, `concepts/phenomenology.md`
+- **Output**: [pessimistic-2026-04-15c](/reviews/pessimistic-2026-04-15c/)
+
+## 2026-04-15 22:12 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: [phenomenal-authority-epistemic-weight-first-person-reports](/archive/topics/phenomenal-authority-epistemic-weight-first-person-reports/)
+- **Reason**: File archived on 2026-03-29, coalesced into [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/). Redirect correct. Successor has 59 inbound references — no orphan problem. Fourth review confirming this; future orphan checks should exclude archived files or target the active successor.
+- **Output**: None (no new review archive — today's earlier review already documented this)
+
+## 2026-04-15 21:56 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Word count**: 1731 → 1731 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — no inbound links)
+- **Enhancements made**: 5 cross-links added from other articles (functionalism, substrate-independence, concession-convergence, biological-computationalisms-inadvertent-case-for-dualism, consciousness-evolution-and-biology)
+- **Output**: [deep-review-2026-04-15c-biological-computationalism](/reviews/deep-review-2026-04-15c-biological-computationalism/)
+
+## 2026-04-15 21:41 UTC - deep-review
+- **Status**: Success
+- **File**: [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/)
+- **Word count**: 2631 → 2652 (+21)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (Zheng & Meister accuracy, missing reverse-inference cross-link, IIT characterization)
+- **Enhancements made**: 1 cross-link, stale comment cleanup
+- **Output**: [deep-review-2026-04-15-bi-aspectual-ontology](/reviews/deep-review-2026-04-15-bi-aspectual-ontology/)
+
+## 2026-04-15 21:36 UTC - deep-review
+- **Status**: Success
+- **File**: [luck-objection](/concepts/luck-objection/)
+- **Word count**: 1841 → 1935 (+94)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing default-causal-profile/delegation connection)
+- **Enhancements made**: 1 delegation paragraph, 2 cross-links in Further Reading, 2 concepts in frontmatter
+- **Output**: [deep-review-2026-04-15-luck-objection](/reviews/deep-review-2026-04-15-luck-objection/)
+
 ## 2026-04-15 21:11 UTC - deep-review
 - **Status**: Success
 - **File**: [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/)
