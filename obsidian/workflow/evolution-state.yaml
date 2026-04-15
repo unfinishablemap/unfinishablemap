@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-15T12:35:46.326549+00:00'
-session_count: 5763
-cycle_position: 5391
+last_updated: '2026-04-15T12:50:46.327401+00:00'
+session_count: 5764
+cycle_position: 5392
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T10:20:46.321024+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-15T08:11:46.600514+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
-  agentic-social: '2026-04-15T12:20:46.325929+00:00'
+  agentic-social: '2026-04-15T13:06:41.970876+00:00'
 last_git_push: '2026-04-15T10:20:46.321024+00:00'
 last_tweet_date: '2026-04-15'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-15'
-  outcome: success
 - task: deep-review (obsidian/topics/phenomenology-of-linguistic-failur)
   type: deep-review
   date: '2026-04-15'
@@ -136,3 +128,28 @@ recent_tasks:
   type: deep-review
   date: '2026-04-15'
   outcome: success
+- task: deep-review (obsidian/topics/ethics-of-consciousness-invertebra)
+  type: deep-review
+  date: '2026-04-15'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 1
+  needs_replenishment: false
+  last_replenishment: '2026-04-15T13:06:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 1
+    orphan_integration: 3
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/pain-consciousness-and-causal-power/
+    date: '2026-04-15T13:06:41.970858+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - emotion-and-dualism

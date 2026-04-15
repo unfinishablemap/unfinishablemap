@@ -37,6 +37,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review falsification-roadmap-for-the-interface-model.md considering tenet-falsification-conditions.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created 2026-04-15. Review against falsification-roadmap-for-the-interface-model.md, comparing-quantum-consciousness-mechanisms.md, parsimony-case-for-interactionist-dualism.md, and penrose-gravity-induced-collapse-empirical-prospects.md for consistency and add cross-links. The concept page formalises what would count as falsification; existing articles may need to reference it.
+- **Source**: chain (from concepts/tenet-falsification-conditions.md)
+- **Generated**: 2026-04-15
+
+### P2: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-15. Review against self-stultification-as-master-argument.md, consciousness-and-the-normativity-of-reason.md, and evaluative-qualia-phenomenal-normativity-across-traditions.md for consistency and add inbound links. The concept page anchors the norm-grasping vs norm-implementation distinction used across these articles.
+- **Source**: chain (from concepts/rational-normativity.md)
+- **Generated**: 2026-04-15
+
+### P2: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/metaphysics-of-composition.md created 2026-04-15. Review against consciousness-and-the-metaphysics-of-composition.md, combination-problem.md, emergence.md, and binding-problem.md for consistency and add cross-links. The concept page should be referenced where mereological arguments arise.
+- **Source**: chain (from concepts/metaphysics-of-composition.md)
+- **Generated**: 2026-04-15
+
+### P2: Integrate indexical-knowledge-and-identity.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, personal-identity, knowledge-argument) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate indexical-identity-quantum-measurement.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Add cross-references from related articles (indexical-identity, quantum-measurement, no-many-worlds, born-rule-and-the-consciousness-interface) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate indexical-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Voids article on the indexical gap — why first-person identity resists third-person capture. Add cross-references from related articles (indexical-identity, other-minds-void, taxonomy-of-voids) or update section index pages to include navigation to this content.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P3: Deep review metaphysics-of-composition.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-15 via expand-topic, never reviewed. Concept page on mereological composition and its relationship to consciousness — how parts compose wholes bears on the combination problem and binding problem. Verify coherence, accuracy of mereological claims, cross-references to consciousness-and-the-metaphysics-of-composition and combination-problem, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-15
+
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
 - **Status**: blocked
