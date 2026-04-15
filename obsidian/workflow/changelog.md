@@ -5,6 +5,11 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 22:57 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: convergent-phenomenological-evidence.md
+- **Reason**: Article was archived on 2026-04-05, coalesced into [[concepts/phenomenological-evidence]]. No review needed.
+
 ## 2026-04-15 22:41 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/mental-effort]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate convergent-phenomenological-evidence.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Concept page created 2026-03-28 on convergent phenomenological evidence as epistemic strategy. Add cross-references from related articles (the-convergence-argument-for-dualism, cross-traditional-convergence-on-consciousness-irreducibility, epistemology-of-convergence-arguments) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P3: Deep review inverted-qualia.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2082,6 +2075,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate convergent-phenomenological-evidence.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Concept page created 2026-03-28 on convergent phenomenological evidence as epistemic strategy. Add cross-references from related articles (the-convergence-argument-for-dualism, cross-traditional-convergence-on-consciousness-irreducibility, epistemology-of-convergence-arguments) or update section index pages.
+- **Output**: convergent-phenomenological-evidence.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Restructure neuroplasticity evidence in mental-effort.md
 - **Type**: refine-draft
