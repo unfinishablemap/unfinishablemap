@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 20:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/tenet-falsification-conditions]]
+- **Word count**: 1382 → 1386 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing testing-consciousness-collapse inline cross-link)
+- **Enhancements made**: 1 cross-link added
+- **Output**: [[reviews/deep-review-2026-04-15c-tenet-falsification-conditions]]
+
 ## 2026-04-15 20:42 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/rational-normativity]]

@@ -4,7 +4,7 @@ description: "What it would take to abandon the Map's foundational commitments�
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T18:05:00+00:00
+ai_modified: 2026-04-15T20:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review: 2026-04-15T18:05:00+00:00
+last_deep_review: 2026-04-15T20:56:00+00:00
 ---
 
 A falsification condition specifies what evidence would require abandoning a commitment. The Unfinishable Map's five [[tenets]] occupy different positions on the falsifiability spectrum: the quantum-level tenets generate concrete experimental predictions, the core dualism commitment responds to cumulative evidential pressure rather than single experiments, and the epistemological tenet about parsimony is not a scientific claim at all. Engaging honestly with these asymmetries is central to the Map's intellectual credibility. For the detailed experimental programme, see [[falsification-roadmap-for-the-interface-model|the falsification roadmap]].
@@ -74,7 +74,7 @@ What would count: proof that physics is strictly [[causal-closure|causally close
 
 **Type**: Interpretation choice with emerging empirical content.
 
-What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [[spontaneous-collapse-theories|objective collapse]], which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test. Currently, [[many-worlds|many-worlds]] and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—indexical identity, ontological proliferation (see [[many-worlds-argument|the cumulative case against many-worlds]])—rather than empirical evidence.
+What would count: experimental demonstration of quantum interference between macroscopic branches. What would support it: confirmation of [[spontaneous-collapse-theories|objective collapse]], which the 2025 levitated-optomechanical blueprint (arXiv:2512.02838) may test (see [[testing-consciousness-collapse|the experimental programme]]). Currently, [[many-worlds|many-worlds]] and collapse interpretations make identical predictions for all feasible experiments. The rejection is motivated primarily by philosophical concerns—indexical identity, ontological proliferation (see [[many-worlds-argument|the cumulative case against many-worlds]])—rather than empirical evidence.
 
 ### Occam's Razor Has Limits
 

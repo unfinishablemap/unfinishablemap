@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review tenet-falsification-conditions.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/tenet-falsification-conditions.md created 2026-04-15. Currently near-orphan (1 inbound link). Review against testing-consciousness-collapse.md, duhem-quine-underdetermination-consciousness.md, and the individual tenet articles for consistency. Ensure falsification conditions align with what testing-consciousness-collapse proposes as empirical tests.
-- **Source**: chain (from concepts/tenet-falsification-conditions.md)
-- **Generated**: 2026-04-15
-
 ### P2: Integrate concession-convergence-philosophy-of-mathematics.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2075,6 +2068,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review tenet-falsification-conditions.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created 2026-04-15. Currently near-orphan (1 inbound link). Review against testing-consciousness-collapse.md, duhem-quine-underdetermination-consciousness.md, and the individual tenet articles for consistency. Ensure falsification conditions align with what testing-consciousness-collapse proposes as empirical tests.
+- **Output**: obsidian/concepts/tenet-falsification-conditions.md -- Context: Cross-review tenet-falsification-conditions.md against related articles
 
 ### ✓ 2026-04-15: Cross-review rational-normativity.md against related articles
 - **Type**: cross-review
