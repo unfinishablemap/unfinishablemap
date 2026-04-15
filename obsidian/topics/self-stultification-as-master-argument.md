@@ -33,6 +33,7 @@ related_articles:
   - "[[consciousness-and-normative-force]]"
   - "[[tenets]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[pragmatist-normative-bridge]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
   - "[[functional-seeming]]"
 ai_contribution: 100

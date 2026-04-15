@@ -4,7 +4,7 @@ description: "Why pragmatism's reflexive argument and phenomenal normativity joi
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-14T03:56:00+00:00
+ai_modified: 2026-04-15T12:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
-last_deep_review: 2026-04-13T14:56:00+00:00
+last_deep_review: 2026-04-15T12:21:00+00:00
 ---
 
 The Unfinishable Map has developed two independent arguments for the irreducibility of consciousness. [[pragmatisms-path-to-dualism|Pragmatism's reflexive argument]] shows that evaluation presupposes a conscious evaluator — eliminate consciousness from your ontology and the capacity to judge which theory "works" disappears with it. [[consciousness-and-normative-force|The normative force analysis]] shows that evaluation has irreducible phenomenal character — moral demands burn, epistemic demands grip, aesthetic demands draw, and no physical description captures the binding quality that makes them demands rather than descriptions. These arguments are complementary halves of a single case. Pragmatism establishes *that* consciousness is required for evaluation. Phenomenal normativity reveals *how* consciousness evaluates: through demand-character built into the structure of experience itself.
@@ -81,6 +81,16 @@ The normative force analysis identifies four domains — moral, epistemic, aesth
 **Aesthetic and prudential normativity** complete the picture. Beauty's pull toward attention and self-interest's pull toward preservation are further instances of demand-character performing evaluative work. Each domain contributes evidence that evaluation across every human concern depends on phenomenal properties that physical description cannot capture.
 
 The shared architecture across domains — demand-character, resistance to preference, gradedness — is exactly what the bridge predicts. If consciousness evaluates through phenomenal normativity, and if evaluation is required across every domain where beliefs have practical consequences, then phenomenal normativity should appear wherever pragmatic assessment reaches. It does.
+
+## What Would Challenge This View
+
+The bridge argument would face pressure if:
+
+- **Demand-character proved eliminable from evaluation.** If a system could perform genuine theory-choice — not merely produce outputs correlated with good theories, but evaluate *why* one theory works better — without any phenomenal demand-character, the bridge's central claim (that evaluation proceeds through phenomenal normativity) would be undercut.
+- **Functionalism captured normativity without circularity.** If a functionalist account could identify demand-character with a functional property while grounding the evaluation of that identification in something other than the demand-character being analysed, the reflexive closure would fail.
+- **Pragmatism survived without phenomenal evaluation.** If pragmatic assessment could be fully characterised in terms of behavioural success or predictive accuracy without appealing to the felt sense that frameworks illuminate or obscure, the reflexive argument would lose its grip.
+- **The asymmetry dissolved.** If the dualist's reflexivity proved equally self-undermining — if accepting that demand-character is irreducible somehow drained the evaluation of its authority — the coherent/incoherent distinction would collapse.
+- **Parsimony operated independently of demand-character.** If the normative force of Occam's Razor could be grounded in something other than phenomenal experience — formal elegance as a mathematical property, for instance — the self-undermining argument against using parsimony to eliminate consciousness would not apply.
 
 ## Relation to Site Perspective
 

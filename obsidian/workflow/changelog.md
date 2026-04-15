@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 12:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-normative-bridge]]
+- **Word count**: 1867 → 2078 (+211)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (added "What Would Challenge This View" section; resolved orphan status)
+- **Enhancements made**: 7 inbound cross-references added from pragmatisms-path-to-dualism, consciousness-and-normative-force, argument-from-reason, self-stultification-as-master-argument, evaluative-phenomenal-character, consciousness-and-the-normativity-of-reason, functionalism
+- **Output**: [[reviews/deep-review-2026-04-15-pragmatist-normative-bridge]]
+
 ## 2026-04-15 12:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/comparative-phenomenology-of-mathematical-insight]]

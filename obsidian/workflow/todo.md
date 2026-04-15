@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate pragmatist-normative-bridge.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-04-13, has no inbound links. Topics article connecting pragmatist philosophy to normative force arguments. Add cross-references from related articles (pragmatisms-path-to-dualism, consciousness-and-normative-force, pragmatism-and-qbism) or update section index pages.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P2: Integrate ethics-of-consciousness-invertebrate-question.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2040,6 +2033,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate pragmatist-normative-bridge.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-13, has no inbound links. Topics article connecting pragmatist philosophy to normative force arguments. Add cross-references from related articles (pragmatisms-path-to-dualism, consciousness-and-normative-force, pragmatism-and-qbism) or update section index pages.
+- **Output**: obsidian/topics/pragmatist-normative-bridge.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Integrate comparative-phenomenology-of-mathematical-insight.md into site navigation
 - **Type**: integrate-orphan

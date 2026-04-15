@@ -42,6 +42,7 @@ related_articles:
   - "[[phenomenal-normativity-environmental-ethics]]"
   - "[[consciousness-and-collective-phenomena]]"
   - "[[pragmatisms-path-to-dualism]]"
+  - "[[pragmatist-normative-bridge]]"
   - "[[valence-and-conscious-selection]]"
 ai_contribution: 100
 author:
@@ -80,7 +81,7 @@ Each account fails at the same point: explaining why normative claims grip rathe
 
 [[evaluative-phenomenal-character|Phenomenal normativity]] holds that certain experiences carry normative force in their very phenomenal character. Pain's badness is not a judgment added to a neutral sensation — the badness is constitutive of what pain feels like (Rawlette 2016). The normative force *is* the experience, not a consequence of it.
 
-The [[pragmatisms-path-to-dualism|pragmatist path to dualism]] arrives at the same conclusion from a different direction: pragmatism shows *that* evaluation presupposes a conscious evaluator; the analysis here shows *how* the evaluator evaluates — through phenomenal demand-character that binds recognition to response.
+The [[pragmatisms-path-to-dualism|pragmatist path to dualism]] arrives at the same conclusion from a different direction: pragmatism shows *that* evaluation presupposes a conscious evaluator; the analysis here shows *how* the evaluator evaluates — through phenomenal demand-character that binds recognition to response. The [[pragmatist-normative-bridge|pragmatist-normative bridge]] develops the synthesis: together, these arguments foreclose functionalism's separate responses to each, because the functionalist who evaluates the claim that demand-character is functional uses demand-character to do so.
 
 Conscious experience does not separate perceiving, evaluating, and motivating into discrete steps. When you see a child in danger, the perception, the recognition that help is needed, and the motivational pull toward action arrive as a unified phenomenal state. A surveillance system can process the same scene through separable computational stages with no unified state binding them. Consciousness provides the seamless integration of fact and demand that constitutes normative grip.
 
@@ -191,6 +192,7 @@ The consciousness-based account would face pressure if:
 - [[phenomenal-depth]] — Layers of phenomenal experience accessible through attention
 - [[consciousness-and-collective-phenomena]] — How collective intentionality generates normative obligations requiring phenomenal consciousness
 - [[pragmatisms-path-to-dualism]] — Pragmatism's reflexive argument: evaluation presupposes the conscious evaluator whose demand-character this article analyses
+- [[pragmatist-normative-bridge]] — How the reflexive argument and demand-character analysis combine to foreclose functionalism's escape route
 - [[valence-and-conscious-selection]] — Whether normative demand-character is the mechanism through which valence guides conscious selection
 - [[moral-architecture-of-consciousness]] — Apex synthesis: normativity as one of four pillars in a unified moral framework
 
