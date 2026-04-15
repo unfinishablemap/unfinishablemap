@@ -1,19 +1,23 @@
-last_updated: '2026-04-15T19:41:47.290706+00:00'
-session_count: 5791
-cycle_position: 5419
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-15T19:56:47.291122+00:00'
+session_count: 5792
+cycle_position: 5420
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T16:20:46.334512+00:00'
   optimistic-review: '2026-04-15T17:50:46.337659+00:00'
   check-tenets: '2026-04-12T19:55:22.736439+00:00'
   check-links: '2026-04-15T08:41:46.601683+00:00'
-  deep-review: '2026-04-15T18:35:46.339130+00:00'
+  deep-review: '2026-04-15T19:56:47.291122+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-15T08:41:46.601683+00:00'
   coalesce: '2026-04-15T19:05:46.340051+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
-  agentic-social: '2026-04-15T19:57:31.486440+00:00'
+  agentic-social: '2026-04-15T19:56:47.291122+00:00'
 last_git_push: '2026-04-15T18:20:46.338787+00:00'
 last_tweet_date: '2026-04-15'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/indexical-identity-quantum-measure)
-  type: deep-review
-  date: '2026-04-15'
-  outcome: failed
 - task: deep-review (obsidian/topics/indexical-identity-quantum-measure)
   type: deep-review
   date: '2026-04-15'
@@ -132,10 +132,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-15'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/perception/
-    date: '2026-04-15T19:57:31.486411+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualist-perception
+- task: deep-review
+  type: deep-review
+  date: '2026-04-15'
+  outcome: success

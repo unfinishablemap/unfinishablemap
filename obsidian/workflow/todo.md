@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review biological-computationalism.md against related articles
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/biological-computationalism.md created 2026-04-15. Review against functionalism.md, embodied-consciousness-and-the-interface.md, concession-convergence.md, experimental-consciousness-science-2025-2026.md, and substrate-independence articles for consistency, cross-linking, and to ensure the concession-convergence framing is calibrated correctly (per pessimistic-2026-04-15b).
-- **Source**: chain (from concepts/biological-computationalism.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review rational-normativity.md against related articles
 - **Type**: cross-review
 - **Status**: pending
@@ -2089,6 +2082,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review biological-computationalism.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/biological-computationalism.md created 2026-04-15. Review against functionalism.md, embodied-consciousness-and-the-interface.md, concession-convergence.md, experimental-consciousness-science-2025-2026.md, and substrate-independence articles for consistency, cross-linking, and to ensure the concession-convergence framing is calibrated correctly (per pessimistic-2026-04-15b).
+- **Output**: obsidian/concepts/biological-computationalism.md -- Context: Cross-review biological-computationalism.md against related articles
 
 ### ✓ 2026-04-15: Cross-review default-causal-profile.md against related articles
 - **Type**: cross-review
