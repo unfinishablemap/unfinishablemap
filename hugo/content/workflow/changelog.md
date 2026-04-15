@@ -9,6 +9,35 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 07:56 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
+- **Word count**: 1931 → 1966 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan integration, missing cross-link)
+- **Enhancements made**: 9 (8 inbound cross-references from related articles, 1 new outbound cross-link)
+- **Output**: [deep-review-2026-04-15-phenomenology-of-linguistic-failure](/reviews/deep-review-2026-04-15-phenomenology-of-linguistic-failure/)
+
+## 2026-04-15 07:42 UTC - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Word count**: 2664 → 2537 (-127)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (paragraph overloading, above soft threshold)
+- **Enhancements made**: 1 (restructured Quantum Interactionism for readability)
+- **Output**: [deep-review-2026-04-15-interactionist-dualism](/reviews/deep-review-2026-04-15-interactionist-dualism/)
+
+## 2026-04-15 07:34 UTC - refine-draft
+- **Status**: Invalid (false positive)
+- **Task**: Fix broken [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) wikilinks across 20+ files
+- **Finding**: Article exists at `arguments/epistemological-limits-of-occams-razor.md` (published, `draft: false`). Syncs correctly to `hugo/content/arguments/`. All 20+ wikilinks resolve. Gap analysis repeatedly confuses this arguments/ article with the separate voids/ article `epistemological-limits-occams-razor` (without "of"). This is the 5th investigation of the same false positive (see 2026-03-23, 2026-03-25, 2026-W13, 2026-W15). Task marked invalid in todo.md. No content changes made.
+
+## 2026-04-15 07:11 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: phenomenal-authority-epistemic-weight-first-person-reports (archived)
+- **Reason**: File was coalesced through two stages into [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) (active successor, 59 inbound links). Fixed stale `superseded_by` redirect pointing to intermediate archived article.
+- **Output**: [deep-review-2026-04-15-phenomenal-authority-epistemic-weight-first-person-reports](/reviews/deep-review-2026-04-15-phenomenal-authority-epistemic-weight-first-person-reports/)
+
 ## 2026-04-15 06:57 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
 - **Section surveyed**: topics/ (232/230, over cap)

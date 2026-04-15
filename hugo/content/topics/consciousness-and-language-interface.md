@@ -38,6 +38,7 @@ related_articles:
 - '[[ai-consciousness]]'
 - '[[consciousness-and-the-phenomenology-of-translation]]'
 - '[[language-and-consciousness]]'
+- '[[phenomenology-of-linguistic-failure]]'
 - '[[tenets]]'
 title: Consciousness and Language Interface
 topics:
@@ -273,6 +274,7 @@ The consciousness-language interface connects to the Map's [tenets](/tenets/) at
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why linguistic behaviour without consciousness is conceivable
 - [qualia](/concepts/qualia/) — The qualitative character of experience and its resistance to description
 - [introspection](/concepts/introspection/) — Self-knowledge and its linguistic mediation
+- [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — Five distinct modes of what linguistic failure feels like from the inside
 - [tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

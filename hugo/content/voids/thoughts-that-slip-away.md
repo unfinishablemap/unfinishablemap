@@ -26,6 +26,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[tenets]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[phenomenology-of-linguistic-failure]]'
 - '[[limits-reveal-structure]]'
 title: Thoughts That Slip Away
 topics: []
@@ -147,6 +148,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [The Memory Void](/voids/inaccessible-past/) — Whether past experiences are recoverable or lost forever
 - [Attention-Created Voids](/voids/attention-and-consciousness/) — How attending generates unattendable territory
 - [The Absorption Void](/voids/disappearance-voids/) — Peak experiences that resist introspective access
+- [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — Distinct experiential textures of failed expression, including dissolution on articulation
 
 ## References
 

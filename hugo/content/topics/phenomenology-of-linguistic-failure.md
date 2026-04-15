@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-13 22:56:00+00:00
+ai_modified: 2026-04-15 07:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: What it feels like when words fail—the distinct experiential sign
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-13 22:56:00+00:00
+last_deep_review: 2026-04-15 07:56:00+00:00
 modified: *id001
 related_articles:
 - '[[language-thought-boundary]]'
@@ -24,6 +24,7 @@ related_articles:
 - '[[consciousness-and-language-interface]]'
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[phenomenology-of-cognitive-limit-types]]'
 - '[[tenets]]'
 title: The Phenomenology of Linguistic Failure
 topics:
@@ -74,7 +75,7 @@ This suggests that linguistic meaning, at least for phenomenally rich content, i
 
 ## What the Textures Reveal
 
-These five modes are not merely curiosities. Their structure carries philosophical weight.
+These five modes are not merely curiosities. Their structure carries philosophical weight, and they contribute to the broader [taxonomy of cognitive limit signatures](/topics/phenomenology-of-cognitive-limit-types/) — each mode diagnosing a different relationship between consciousness and its expressive boundaries.
 
 ### Consciousness Contains Non-Linguistic Content
 
@@ -118,6 +119,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [tene
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomena of cognitive slippage
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The general phenomenology of approaching cognitive limits
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether understanding has its own phenomenal character
+- [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — How different cognitive limits produce distinct experiential signatures
 - [tenets](/tenets/) — The foundational commitments of the Map
 
 ## References

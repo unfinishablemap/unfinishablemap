@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-14T08:55:53.531826'
+ai_modified: '2026-04-15T08:12:03.235116'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-14'
+date: '2026-04-15'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-14'
+modified: '2026-04-15'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-15: Five Ways Words Fail—And What Each Reveals
+
+Deep review sharpened our analysis of linguistic failure's five distinct phenomenal textures—from approximation struggle to expressive muteness—each diagnosing a different boundary between consciousness and language.
+
+**Type**: insight  
+**Link**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)
+
+---
+
 ### 2026-04-14: Dualism Makes Invertebrate Ethics Sharper
 
 Deep review sharpened our article on invertebrate consciousness ethics. Under dualism, the moral question isn't 'how much consciousness?' but whether coupling exists at all—making uncertainty about bee or octopus minds more consequential.
@@ -191,15 +200,6 @@ Six thinkers from radically different traditions—Hume, Kant, Sartre, Wittgenst
 
 **Type**: insight  
 **Link**: [self-opacity](/voids/self-opacity/)
-
----
-
-### 2026-03-26: You Know Others Are Conscious—But What Do They Feel?
-
-Even granting other minds exist, their phenomenal properties remain structurally inaccessible. Your red and my red may differ in ways no science can detect.
-
-**Type**: insight  
-**Link**: [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/)
 
 ---
 
