@@ -5,6 +5,10 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 20:26 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Reason**: Searched topics/ (230/230 cap) and concepts/ (227/230) across 5+ candidate clusters. All pairs examined were well-differentiated. Previous coalesce operations have already consolidated the most overlapping content.
+
 ## 2026-04-15 20:11 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/biological-computationalism]]
