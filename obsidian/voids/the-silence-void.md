@@ -4,7 +4,7 @@ description: "Human+AI exploration of why cognitive silence—the cessation of t
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-30T15:30:00+00:00
+ai_modified: 2026-04-15T16:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[witness-consciousness]]"
   - "[[meditation-and-consciousness-modes]]"
   - "[[altered-states-as-void-probes]]"
+  - "[[numinous-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

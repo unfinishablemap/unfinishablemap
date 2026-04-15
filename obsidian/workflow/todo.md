@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate numinous-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound links. Voids article (created 2026-04-12) on whether experiences of awe and sacred encounter constitute genuine contact with transcendent reality. Add cross-references from related void articles (the-surplus-void, spontaneous-thought-void) and topics (contemplative-epistemology, apophatic-approaches).
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P2: Integrate consciousness-epistemology-extended-cognition.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound links. Topics article (created 2026-04-11) on how the extended mind thesis reveals consciousness as the non-negotiable epistemic core. Add cross-references from embodied-cognition, embodied-consciousness-and-the-interface, epistemology-of-consciousness, and related epistemology articles.
@@ -2075,6 +2069,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article (created 2026-04-12) on whether experiences of awe and sacred encounter constitute genuine contact with transcendent reality. Add cross-references from related void articles (the-surplus-void, spontaneous-thought-void) and topics (contemplative-epistemology, apophatic-approaches).
+- **Output**: obsidian/voids/numinous-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Integrate delegation-meets-quantum-selection.md into site navigation
 - **Type**: integrate-orphan

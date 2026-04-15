@@ -4,7 +4,7 @@ description: "Human+AI exploration of what consciousness encounters at its cogni
 created: 2026-01-19
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-04-15T16:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ Different practices approach cognitive limits through different routes, yet prod
 
 **Philosophical inquiry.** When philosophical thought pushes to its limits—Cusanus contemplating infinity, Wittgenstein at the edge of what can be said, phenomenologists practising epoché—similar experiences emerge: the sense of approaching something that exceeds articulation yet feels significant.
 
-**Spontaneous experiences.** Mystical states arise unbidden in diverse individuals across cultures.
+**Spontaneous experiences.** Mystical states arise unbidden in diverse individuals across cultures. The [[numinous-void]] analyses the distinctive structure of these encounters: numinous experience specifically dismantles the reflexive self-awareness needed to evaluate it, creating a sharper edge than other limit-experiences where the evaluating subject remains intact.
 
 If ego dissolution were merely a drug effect, or clarity-at-failure merely a meditation artifact, we would not expect to find the same pattern across such different approaches. The consistency suggests these are features of consciousness itself as it approaches its limits—not artefacts of particular methods.
 
@@ -156,6 +156,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Five modes of what it feels like when language fails to capture experience
 - [[disappearance-voids|The Habituation Void]] — Where the edge is not approached but hidden by familiarity
 - [[resonance-void|The Resonance Void]] — Edge-phenomenology within ordinary consciousness: meaning that exceeds articulation without requiring practice or preparation
+- [[numinous-void|The Numinous Void]] — Where edge-experience specifically targets the evaluating mechanism, creating a reflexivity problem absent from other limit-encounters
 - [[the-silence-void|The Silence Void]] — The ultimate edge: where cognitive cessation opens territory mapping cannot reach
 - [[mysterianism|Mysterianism]] — Colin McGinn's analysis of cognitive closure
 - [[witness-consciousness|Witness Consciousness]] — The sakshi tradition and the structure of awareness
