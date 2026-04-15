@@ -5,6 +5,17 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 22:26 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/embodied-cognition.md`, `concepts/mental-effort.md`, `concepts/phenomenology.md`
+- **Output**: [[reviews/pessimistic-2026-04-15c]]
+
+## 2026-04-15 22:12 UTC - deep-review
+- **Status**: Skipped (archived file)
+- **File**: [[archive/topics/phenomenal-authority-epistemic-weight-first-person-reports]]
+- **Reason**: File archived on 2026-03-29, coalesced into [[topics/phenomenal-authority-and-first-person-evidence]]. Redirect correct. Successor has 59 inbound references — no orphan problem. Fourth review confirming this; future orphan checks should exclude archived files or target the active successor.
+- **Output**: None (no new review archive — today's earlier review already documented this)
+
 ## 2026-04-15 21:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/biological-computationalism]]

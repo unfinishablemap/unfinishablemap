@@ -37,11 +37,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
-- **Type**: integrate-orphan
+### P2: Restructure neuroplasticity evidence in mental-effort.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: File has no inbound links. Topics article created 2026-03-29 on the epistemic weight of first-person reports. Add cross-references from related articles (epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, introspection) or update section index pages.
-- **Source**: orphan_integration
+- **Notes**: Pessimistic review found Schwartz OCD study (n=18, unreplicated) doing heavy lifting as primary evidence for "mental effort has physical consequences." Restructure to lead with broader neuroplasticity evidence (CBT, meditation) and present Schwartz as one example. Also add citations for ~10 bits/s bandwidth claim and advanced meditator discrimination claim. See pessimistic-2026-04-15c.md
 - **Generated**: 2026-04-15
 
 ### P2: Integrate convergent-phenomenological-evidence.md into site navigation
@@ -2089,6 +2088,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate phenomenal-authority-epistemic-weight-first-person-reports.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article created 2026-03-29 on the epistemic weight of first-person reports. Add cross-references from related articles (epistemology-of-first-person-evidence, contemplative-practice-as-philosophical-evidence, introspection) or update section index pages.
+- **Output**: phenomenal-authority-epistemic-weight-first-person-reports.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Integrate biological-computationalism.md into site navigation
 - **Type**: integrate-orphan
