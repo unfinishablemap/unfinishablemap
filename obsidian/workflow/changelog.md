@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 07:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Word count**: 2664 → 2537 (-127)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (paragraph overloading, above soft threshold)
+- **Enhancements made**: 1 (restructured Quantum Interactionism for readability)
+- **Output**: [[reviews/deep-review-2026-04-15-interactionist-dualism]]
+
 ## 2026-04-15 07:34 UTC - refine-draft
 - **Status**: Invalid (false positive)
 - **Task**: Fix broken [[epistemological-limits-of-occams-razor]] wikilinks across 20+ files
