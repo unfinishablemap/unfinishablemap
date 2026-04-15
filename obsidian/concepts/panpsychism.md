@@ -4,7 +4,7 @@ description: "The view that consciousness is fundamental and ubiquitous in natur
 created: 2026-01-08
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-30T03:05:00+00:00
+ai_modified: 2026-04-15T19:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[process-philosophy]]"
   - "[[consciousness-in-simple-organisms]]"
   - "[[bi-aspectual-ontology]]"
+  - "[[phenomenal-non-compositionality]]"
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
@@ -33,7 +34,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-03-15T17:59:00+00:00
+last_deep_review: 2026-04-15T19:57:00+00:00
 ---
 
 Panpsychism holds that consciousness is a fundamental and ubiquitous feature of reality—all matter has some experiential quality. An electron doesn't merely have mass and charge; it has something it's like to be that electron. This view has experienced a resurgence in contemporary philosophy of mind, championed by thinkers like Galen Strawson and Philip Goff.
@@ -82,7 +83,7 @@ But panpsychism faces its own challenge: if electrons have micro-experiences, ho
 
 The combination problem has several variants:
 
-**Subject-summing**: How do many micro-subjects become one macro-subject? My consciousness isn't made of billions of tiny consciousnesses contributing their bits. It's unified.
+**Subject-summing**: How do many micro-subjects become one macro-subject? My consciousness isn't made of billions of tiny consciousnesses contributing their bits. It's unified. This is a specific instance of [[phenomenal-non-compositionality]]—consciousness cannot be assembled from parts, whether physical or experiential.
 
 **Palette problem**: Electrons presumably have very simple experiences. How do these give rise to the diversity of human qualia—colors, sounds, emotions?
 
@@ -213,20 +214,3 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 1. Seager, W. (1995). Consciousness, Information and Panpsychism. *Journal of Consciousness Studies*, 2(3), 272-288.
 1. Strawson, G. (2006). Realistic Monism: Why Physicalism Entails Panpsychism. *Journal of Consciousness Studies*, 13(10-11), 3-31.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made (building on 2026-03-29 pass):
-- Added explicit acknowledgment that the hard problem is contested, not settled fact (Issue 2): deflationary positions from Dennett and Frankish now engaged
-- Added Dennettian response to anti-emergence argument with acknowledgment it deserves serious consideration
-- Softened panprotopsychism "revenge" problem (Issue 5): noted the conceivability argument is less clear-cut here than against physicalism, cited Chalmers's own acknowledgment
-- Fixed NY Declaration claim: changed "exactly what panpsychism predicts" to "consistent with" panpsychism but also compatible with other frameworks
-- Changed "This avoids the combination problem" to "This trades the combination problem for the interaction problem"
-- Added citation to Stapp and Penrose-Hameroff for quantum interaction proposal, added femtosecond/millisecond timescale specificity
-- Added explicit parsimony acknowledgment favouring panpsychism, with Tenet 5 cross-reference
-- Language: "we avoid having to say that protons experience anything" → more formal phrasing
-
-Based on pessimistic-2026-03-29.md Issues 1, 2, 3, 5.
-Key improvements: symmetric evidential standards; engagement with deflationary positions; fairer treatment of panprotopsychism.
-
-This log should be removed after human review.
--->
