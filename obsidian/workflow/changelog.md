@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 08:50 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Predictive Construction Void
+- **Category**: Unexplorable (with Occluded elements)
+- **Output**: [[research/voids-predictive-construction-void-2026-04-15]]
+- **Key finding**: Predictive processing generates a distinctive void where consciousness cannot determine the ratio of construction to reception in its own experience — and for dualism, this creates a "double veil" problem (mind-body gap plus Markov blanket)
+
 ## 2026-04-15 08:41 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/metarepresentation-threshold]]
