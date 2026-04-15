@@ -4,7 +4,7 @@ description: "The decoherence objection bundles three independent claims. Five r
 created: 2026-01-14
 modified: 2026-03-01
 human_modified: null
-ai_modified: 2026-03-23T15:15:00+00:00
+ai_modified: 2026-04-15T09:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-15T01:17:00+00:00
+last_deep_review: 2026-04-15T09:35:00+00:00
 coalesced_from:
   - "/concepts/quantum-decoherence-objection/"
   - "/concepts/quantum-decoherence-objection-responses/"
@@ -95,7 +95,7 @@ Hameroff and colleagues challenged this analysis (Hagan et al., 2002): Tegmark a
 
 The original Orch OR model required 25 milliseconds of coherence—still far longer than corrected estimates. But Bandyopadhyay (2014) found microtubule oscillations spanning kilohertz to terahertz frequencies. If Orch OR events occur at 10 MHz rather than 40 Hz, coherence need persist only **10⁻⁷ seconds** (100 nanoseconds), bringing theory into contact with experimentally observed timescales.
 
-Recent experiments are suggestive: epothilone B delayed anaesthetic-induced unconsciousness in rats (Wiest et al., 2024), confirming an Orch OR prediction. Anaesthetics specifically abolish a 613 THz quantum oscillation in microtubules while non-anaesthetics do not (Wiest et al., 2025). Fisher (2015) proposed that phosphorus nuclear spins in Posner molecules could maintain coherence for ~10⁵ seconds. No experiment has directly measured quantum coherence times in living neural tissue, but the story is more complex than Tegmark's early calculation indicated.
+Recent experiments are suggestive: epothilone B delayed anaesthetic-induced unconsciousness in rats (Wiest et al., 2024), confirming an Orch OR prediction. Anaesthetics specifically abolish a 613 THz quantum oscillation in microtubules while non-anaesthetics do not (Wiest et al., 2025). Fisher (2015) proposed theoretically that phosphorus nuclear spins in Posner molecules could maintain coherence for ~10⁵ seconds—a prediction not yet experimentally confirmed. No experiment has directly measured quantum coherence times in living neural tissue, but the story is more complex than Tegmark's early calculation indicated.
 
 ## Neural Decision Windows
 
@@ -189,10 +189,9 @@ The [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] tenet is direct
 
 - [[quantum-measurement-and-consciousness]] — The measurement problem and hard problem as two aspects of the same interface
 - [[quantum-neural-timing-constraints]] — Timing hierarchy from femtosecond decoherence to 300ms decision windows
-- [[quantum-biology-and-neural-mechanisms|quantum neural mechanisms]] — Quantum neural mechanisms and coherence protection
+- [[quantum-biology-and-neural-mechanisms]] — Quantum neural mechanisms, coherence protection, and biological quantum effects
 - [[measurement-problem]] — Why decoherence doesn't solve the measurement problem
 - [[quantum-consciousness]] — Specific mechanisms for consciousness-physics interaction
-- [[quantum-biology-and-neural-mechanisms|quantum biology]] — Comprehensive coverage of biological quantum effects
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[comparing-quantum-consciousness-mechanisms]] — Which mechanisms face which constraints
 - [[physics-as-disclosure]] — Why decoherence's clean partition supports the disclosure reading of quantum mechanics
