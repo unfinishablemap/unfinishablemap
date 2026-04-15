@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 14:20 UTC - coalesce
+- **Status**: Abandoned — no viable merge candidates
+- **Sections searched**: topics/ (231/230, over cap), concepts/ (225/230)
+- **Pairs evaluated**: ~10 candidate pairs across 5 search iterations
+- **Reason**: All candidate pairs proved well-differentiated on close reading. Articles that appeared similar from titles have deliberately distinct scopes (e.g., clinical vs neurological dissociations, general vs AI-specific epiphenomenalism, hub articles vs deep dives).
+
 ## 2026-04-15 14:05 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-metaphysics-of-composition]]
