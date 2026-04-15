@@ -26,6 +26,7 @@ related_articles:
   - "[[epistemology-of-convergence-arguments]]"
   - "[[pragmatisms-path-to-dualism]]"
   - "[[reductionism-and-consciousness]]"
+  - "[[concession-convergence-philosophy-of-mathematics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -100,6 +101,8 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 
 The **Occam's Razor Has Limits** tenet predicts that apparent simplicity will prove deceptive in the consciousness domain. Concession convergence is a concrete mechanism by which this deception unfolds: each physicalist theory starts with a simple claim, accumulates qualifications, and ends with a framework whose complexity rivals or exceeds the dualism it was meant to replace. The [[parsimony-case-for-interactionist-dualism|parsimony reversal]]—the positive argument that dualism is more parsimonious once all costs are tallied—gains empirical grounding from observing this pattern play out across multiple programmes.
 
+The pattern extends beyond consciousness studies. In [[concession-convergence-philosophy-of-mathematics|philosophy of mathematics]], formalism, logicism, intuitionism, and structuralism each begin from incompatible starting points yet are independently forced to concede that mathematical understanding outruns formal characterisation—the same structural gap, appearing in a domain where formal systems are maximally precise.
+
 The Map speculates that concession convergence will continue. Future physicalist theories addressing the hard problem will face the same structural pressure: either remain broad enough to be falsified by absent qualia cases, or narrow sufficiently to replicate the dualist distinction between functional organisation and consciousness. The pattern is not an accident of current theories but a consequence of the problem's structure.
 
 ## Further Reading
@@ -113,6 +116,7 @@ The Map speculates that concession convergence will continue. Future physicalist
 - [[integrated-information-theory]] — IIT's exclusion postulate and identity problem
 - [[global-workspace-theory]] — GWT's silence on phenomenal consciousness
 - [[higher-order-theories]] — HOT's phenomenal-access separation
+- [[concession-convergence-philosophy-of-mathematics]] — The pattern applied to formalism, logicism, intuitionism, and structuralism
 
 ## References
 

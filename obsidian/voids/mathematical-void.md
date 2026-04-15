@@ -20,6 +20,7 @@ related_articles:
   - "[[apophatic-approaches]]"
   - "[[consciousness-and-mathematics]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[concession-convergence-philosophy-of-mathematics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

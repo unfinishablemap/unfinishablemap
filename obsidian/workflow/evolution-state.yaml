@@ -2,18 +2,18 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-15T20:41:47.298179+00:00'
-session_count: 5795
-cycle_position: 5423
+last_updated: '2026-04-15T20:56:47.298631+00:00'
+session_count: 5796
+cycle_position: 5424
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T16:20:46.334512+00:00'
   optimistic-review: '2026-04-15T17:50:46.337659+00:00'
   check-tenets: '2026-04-12T19:55:22.736439+00:00'
-  check-links: '2026-04-15T08:41:46.601683+00:00'
+  check-links: '2026-04-15T20:56:47.298631+00:00'
   deep-review: '2026-04-15T19:56:47.291122+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
-  research-voids: '2026-04-15T21:03:00+00:00'
+  research-voids: '2026-04-15T20:56:47.298631+00:00'
   coalesce: '2026-04-15T20:26:47.297297+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write concept page on biological computationalism)
-  type: expand-topic
-  date: '2026-04-15'
-  outcome: success
 - task: deep-review (obsidian/topics/delegation-meets-quantum-selection)
   type: deep-review
   date: '2026-04-15'
@@ -133,6 +129,10 @@ recent_tasks:
   date: '2026-04-15'
   outcome: success
 - task: deep-review (obsidian/concepts/rational-normativity.md -- Conte)
+  type: deep-review
+  date: '2026-04-15'
+  outcome: success
+- task: deep-review (obsidian/concepts/tenet-falsification-conditions.m)
   type: deep-review
   date: '2026-04-15'
   outcome: success

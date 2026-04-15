@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concession-convergence-philosophy-of-mathematics.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has only 1 inbound link (near-orphan, created 2026-04-13). Topics article on how mathematical consciousness theories mirror the broader concession-convergence pattern. Add cross-references from consciousness-and-mathematics.md, concession-convergence.md, comparative-phenomenology-of-mathematical-insight.md, and philosophy-of-mathematics articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-15
-
 ### P3: Create concept page for involuntary concession
 - **Type**: expand-topic
 - **Status**: pending
@@ -2068,6 +2061,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Integrate concession-convergence-philosophy-of-mathematics.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has only 1 inbound link (near-orphan, created 2026-04-13). Topics article on how mathematical consciousness theories mirror the broader concession-convergence pattern. Add cross-references from consciousness-and-mathematics.md, concession-convergence.md, comparative-phenomenology-of-mathematical-insight.md, and philosophy-of-mathematics articles.
+- **Output**: obsidian/topics/concession-convergence-philosophy-of-mathematics.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-15: Cross-review tenet-falsification-conditions.md against related articles
 - **Type**: cross-review

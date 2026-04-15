@@ -24,6 +24,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[intrinsic-nature-void]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
+  - "[[concession-convergence-philosophy-of-mathematics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -107,6 +108,7 @@ The diagnostic value of this intersection would weaken if:
 ## Further Reading
 
 - [[consciousness-and-mathematics]] — Ontological, phenomenological, and computational treatment of mathematical cognition
+- [[concession-convergence-philosophy-of-mathematics]] — How formalism, logicism, intuitionism, and structuralism each concede the irreducibility of mathematical understanding
 - [[consciousness-and-the-authority-of-formal-systems]] — Formal authority and its boundary at consciousness
 - [[mathematical-void]] — Cognitive limits on mathematical comprehension
 - [[intrinsic-nature-void]] — The boundary where relational description meets intrinsic quality

@@ -20,6 +20,7 @@ related_articles:
   - "[[cartography-problem]]"
   - "[[compound-failure-signatures]]"
   - "[[mathematical-void]]"
+  - "[[concession-convergence-philosophy-of-mathematics]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -163,6 +164,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 - [[cartography-problem|The Cartography Problem]] — Why the map of cognitive voids cannot contain itself
 - [[self-transcendence-void|The Self-Transcendence Void]] — The Münchhausen problem applied to cognitive self-improvement
 - [[compound-failure-signatures|Compound Failure Signatures]] — Different failure signatures for different limit types
+- [[concession-convergence-philosophy-of-mathematics]] — How formalism's Gödelian concession is one of four independent convergences in philosophy of mathematics
 
 ## References
 

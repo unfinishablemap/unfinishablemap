@@ -33,6 +33,7 @@ related_articles:
   - "[[testing-consciousness-collapse]]"
   - "[[parsimony-case-for-interactionist-dualism]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[concession-convergence-philosophy-of-mathematics]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
