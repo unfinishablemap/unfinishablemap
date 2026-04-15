@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 23:21 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/bergson-and-duration]]
+- **Word count**: 2372 → 2365 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate related_articles entry)
+- **Enhancements made**: 0 (article stable after 4 reviews)
+- **Output**: [[reviews/deep-review-2026-04-15-bergson-and-duration]]
+
 ## 2026-04-15 22:57 UTC - deep-review
 - **Status**: Skipped (archived)
 - **File**: convergent-phenomenological-evidence.md
