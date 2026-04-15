@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-07 10:43:00+00:00
+ai_modified: 2026-04-15 08:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,7 @@ topics:
 
 To teach is to represent your knowledge as knowledge another lacks, represent that lack as a gap to be filled, and adjust your behaviour to bridge it. This triadic structure—knowledge, absence of knowledge, and the relation between them—makes teaching a paradigm case of [metarepresentation](/concepts/metacognition/). Great apes rarely teach despite decades of opportunity; humans teach constantly, across all cultures, beginning in early childhood. The Unfinishable Map proposes that this asymmetry reveals something fundamental about consciousness: teaching requires the phenomenal standing-back that metarepresentation demands, and metarepresentation may require phenomenal consciousness.
 
-The teaching asymmetry provides concrete evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If teaching requires consciousness-enabled metarepresentation, and if metarepresentation cannot be achieved through functional processing alone, then consciousness causally enables a capacity humans possess and apes lack. Teaching is not merely correlated with consciousness; it depends on it.
+The teaching asymmetry provides concrete evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If teaching requires consciousness-enabled metarepresentation, and if metarepresentation cannot be achieved through functional processing alone, then consciousness causally enables a capacity humans possess and apes lack. Teaching is not merely correlated with consciousness; it depends on it. The [metarepresentation-threshold](/concepts/metarepresentation-threshold/) identifies this boundary precisely: below it, organisms monitor cognition procedurally; above it, they represent mental states as mental states—the prerequisite for teaching.
 
 ## The Structure of Teaching
 

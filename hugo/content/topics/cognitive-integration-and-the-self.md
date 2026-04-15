@@ -21,7 +21,7 @@ last_deep_review: 2026-03-16 12:48:00+00:00
 modified: *id001
 related_articles:
 - '[[binding-problem]]'
-- '[[temporal-structure-of-consciousness]]'
+- '[[temporal-consciousness-structure-and-agency]]'
 - '[[temporal-consciousness]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[consciousness-and-memory]]'
@@ -207,7 +207,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [The Binding Problem](/concepts/binding-problem/) — How distributed phenomenal elements combine into unified experience
 - [Temporal Consciousness](/concepts/temporal-consciousness/) — The structure of experience across time
 - [Personal Identity](/topics/personal-identity/) — What makes you the same person across change
-- [Consciousness and Temporal Integration](/topics/temporal-structure-of-consciousness/) — How consciousness binds across extended time scales
+- [Consciousness and Temporal Integration](/topics/temporal-consciousness-structure-and-agency/) — How consciousness binds across extended time scales
 - [Diachronic Agency and Personal Narrative](/topics/diachronic-agency-and-personal-narrative/) — Agency extended across the lifespan
 - [Self and Consciousness](/concepts/self-and-self-consciousness/) — Relationship between consciousness and selfhood
 - [The Self: Minimal, Narrative, and Substantial](/topics/the-self-minimal-narrative-and-substantial/) — Three-layered model of selfhood

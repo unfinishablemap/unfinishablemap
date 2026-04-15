@@ -36,7 +36,7 @@ last_deep_review: 2026-03-15 13:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[temporal-structure-of-consciousness]]'
+- '[[temporal-consciousness-structure-and-agency]]'
 - '[[growing-block-universe-and-consciousness]]'
 - '[[time-collapse-and-agency]]'
 - '[[bergson-and-duration]]'
@@ -146,7 +146,7 @@ Whitehead's [process metaphysics](/concepts/process-philosophy/) provides a fram
 
 ## Further Reading
 
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Comprehensive treatment of the specious present, temporal binding, and disrupted integration
+- [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — Comprehensive treatment of the specious present, temporal binding, and disrupted integration
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — The growing block as temporal metaphysics for consciousness
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow
 - [bergson-and-duration](/topics/bergson-and-duration/) — Durée as irreducible temporal phenomenology

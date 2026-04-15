@@ -89,7 +89,7 @@ All major strengths from prior reviews remain intact:
 4. **Lee (2023) reference added**: Supports the underdetermination claim
 
 ### Cross-links Updated
-- Removed: `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` (archived, superseded by already-linked `[temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)`)
+- Removed: `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` (archived, superseded by already-linked `[temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)`)
 - Added: `[continuity-void](/voids/smoothness-and-continuity/)` (frontmatter + Further Reading)
 
 ## Word Count

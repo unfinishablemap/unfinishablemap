@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-04-03 22:39:00+00:00
+ai_modified: 2026-04-15 08:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -69,7 +69,7 @@ Great apes represent sophisticated [baseline-cognition](/concepts/baseline-cogni
 
 **Working memory capacity**: Chimpanzee working memory estimates vary—2±1 items for abstract tasks, though Inoue & Matsuzawa (2007) found chimps briefly holding sequences of 9 numerals. Human capacity of 7±2 items implies expanded conscious access if manipulation requires consciousness (as [Global Workspace Theory](/concepts/global-workspace-theory/) suggests), enabling simultaneous comparison, manipulation, and flexible combination of representations.
 
-**Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This metarepresentational capacity may require phenomenal consciousness.
+**Procedural versus declarative metacognition**: Great apes show [metacognitive](/concepts/metacognition/) monitoring—recognising uncertainty, seeking information when needed. But this appears *procedural*: feelings of knowing that guide behaviour without explicit representation. Human metacognition is additionally *declarative*: we represent our knowledge *as* knowledge, take beliefs as objects of thought. This [metarepresentational capacity](/concepts/metarepresentation-threshold/) may require phenomenal consciousness.
 
 **The Jourdain Hypothesis**: Great apes have culture but may not *know* they have culture (Whiten 2015). [Cumulative culture](/concepts/cumulative-culture/) requires [metarepresentation](/concepts/metacognition/): treating knowledge as knowledge that can be improved and taught. Without this, cultural innovation remains within Tomasello's "zone of latent solutions."
 

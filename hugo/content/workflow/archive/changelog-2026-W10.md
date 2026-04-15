@@ -2658,7 +2658,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-04 15:37 UTC - deep-review
 - **Status**: Skipped (archived)
 - **File**: [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
-- **Reason**: Article was archived on 2026-02-23, coalesced into [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/). Archived articles should not receive deep reviews or new inbound links.
+- **Reason**: Article was archived on 2026-02-23, coalesced into [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/). Archived articles should not receive deep reviews or new inbound links.
 
 ---
 

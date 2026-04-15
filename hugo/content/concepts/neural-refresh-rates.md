@@ -31,7 +31,7 @@ related_articles:
 title: Neural Refresh Rates
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[temporal-structure-of-consciousness]]'
+- '[[temporal-consciousness-structure-and-agency]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
 ---
 
@@ -84,7 +84,7 @@ The concept of neural refresh rates also connects to the Map's treatment of [tem
 ## Further Reading
 
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/)
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
 - [grain-mismatch](/concepts/grain-mismatch/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)

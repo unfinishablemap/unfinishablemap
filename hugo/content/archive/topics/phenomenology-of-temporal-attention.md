@@ -117,7 +117,7 @@ The phenomenology of temporal attention aligns with several of the Map's [tenets
 
 ## Further Reading
 
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)

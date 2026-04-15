@@ -27,8 +27,8 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
-- '[[temporal-structure-of-consciousness]]'
-- '[[phenomenology-of-temporal-consciousness-and-agency]]'
+- '[[temporal-consciousness-structure-and-agency]]'
+- '[[temporal-consciousness-structure-and-agency]]'
 title: Bergson and Duration
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -51,7 +51,7 @@ Duration (*durée*) is Bergson's name for time as directly experienced. Its feat
 
 **Heterogeneity.** Each moment of duration differs qualitatively from every other. An hour of grief has nothing in common with an hour of joy except the clock reading. Spatialized time is homogeneous by construction—one second equals any other second. Duration is heterogeneous by nature.
 
-**Interpenetration.** States in duration don't sit beside each other like objects on a shelf. They flow into one another, each coloured by the others. Hearing a melody illustrates this: the current note sounds as it does only because of what preceded it and what is anticipated. Remove the context and the same physical vibration produces a different experience. Bergson calls this "qualitative multiplicity"—unity in difference without juxtaposition. The Map's [temporal constitution thesis](/topics/temporal-structure-of-consciousness/) develops this insight systematically, arguing that consciousness constitutes these temporal wholes from elements that physically do not coexist.
+**Interpenetration.** States in duration don't sit beside each other like objects on a shelf. They flow into one another, each coloured by the others. Hearing a melody illustrates this: the current note sounds as it does only because of what preceded it and what is anticipated. Remove the context and the same physical vibration produces a different experience. Bergson calls this "qualitative multiplicity"—unity in difference without juxtaposition. The Map's [temporal constitution thesis](/topics/temporal-consciousness-structure-and-agency/) develops this insight systematically, arguing that consciousness constitutes these temporal wholes from elements that physically do not coexist.
 
 **Indivisibility.** You can divide a spatial line into segments without altering what you're dividing. But dividing a melody into individual notes destroys the melody. Duration can be analytically distinguished into phases but cannot be actually divided without changing its nature. The whole is present in every part.
 
@@ -73,7 +73,7 @@ Bergson's first major work, *Time and Free Will*, connected durée directly to t
 
 There is no isolable "state A" to serve as cause. The whole of one's accumulated experience converges in each moment of choice. A free act, for Bergson, doesn't emerge from a single motive overcoming rivals. It emerges from the self in its entirety—from the full depth of one's duration. Describing the choice as determined by its antecedents is like describing a melody as determined by its first note: technically, the antecedents lead to it, but only because the creative movement of the whole generates both the antecedents and the conclusion.
 
-This connects to the Map's treatment of [agent causation](/concepts/agent-causation/). The Map holds that the conscious subject is the source of genuinely novel choices, not merely a venue where prior causes produce effects. Bergson's framework explains what makes such origination intelligible: the agent is a creative duration, not a static substance on which causes act. The [phenomenology of temporal selection](/topics/phenomenology-of-temporal-consciousness-and-agency/) captures how this creative duration operates at the moment-to-moment scale: the agent inhabits the approaching moment and acts *from within* durée rather than computing an interval and triggering—what Bergson would recognise as operating within qualitative lived time rather than spatialised chronos.
+This connects to the Map's treatment of [agent causation](/concepts/agent-causation/). The Map holds that the conscious subject is the source of genuinely novel choices, not merely a venue where prior causes produce effects. Bergson's framework explains what makes such origination intelligible: the agent is a creative duration, not a static substance on which causes act. The [phenomenology of temporal selection](/topics/temporal-consciousness-structure-and-agency/) captures how this creative duration operates at the moment-to-moment scale: the agent inhabits the approaching moment and acts *from within* durée rather than computing an interval and triggering—what Bergson would recognise as operating within qualitative lived time rather than spatialised chronos.
 
 ## Duration, Memory, and the Virtual Past
 
@@ -140,7 +140,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Duration's creative novelty and the generation-selection model
 - [prehension](/concepts/prehension/) — Whitehead's concept of experiential inheritance
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How temporal ontology constrains theories of consciousness
+- [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How temporal ontology constrains theories of consciousness
 
 ## References
 

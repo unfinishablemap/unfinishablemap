@@ -16,7 +16,7 @@ last_curated: null
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[temporal-structure-of-consciousness]]'
+- '[[temporal-consciousness-structure-and-agency]]'
 title: Research Notes - Consciousness and Time Perception
 topics:
 - '[[hard-problem-of-consciousness]]'

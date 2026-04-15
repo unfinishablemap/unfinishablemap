@@ -3050,7 +3050,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-23 15:50 UTC - coalesce
 - **Status**: Success
 - **Sources**: [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)
-- **Target**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- **Target**: [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - **Archived**: archive/topics/consciousness-and-temporal-integration.md
 - **References to review**: 14 active content files reference the archived article
 - **Notes**: Topics section was at 203/200 (over cap). Merged unique contributions (spatial/temporal binding distinction, three-level integration hierarchy, disrupted integration evidence) into the comprehensive temporal structure article. Also fixed pre-existing broken wikilink in samkhya-three-way-distinction.md.

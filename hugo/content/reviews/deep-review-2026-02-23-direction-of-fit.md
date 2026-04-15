@@ -54,7 +54,7 @@ None.
 - Added cross-link to temporal-structure-of-consciousness
 
 ### Cross-links Added
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Intentions' temporal directedness connects direction of fit to temporal consciousness (added to Further Reading and frontmatter topics)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — Intentions' temporal directedness connects direction of fit to temporal consciousness (added to Further Reading and frontmatter topics)
 
 ## Word Count
 1641 → 1755 (+114 words, well within 2500 soft threshold)

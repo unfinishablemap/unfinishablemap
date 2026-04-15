@@ -114,7 +114,7 @@ The Map speculates that temporal constitution may be the most fundamental thing 
 
 ## Further Reading
 
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/)
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)

@@ -54,7 +54,7 @@ I appreciate the epistemological modesty. The [mysterianism](/concepts/mysterian
 
 Classical binding mechanisms describe how actual occasions interact after the fact; they cannot explain how occasions achieve internal unity in coming to be. The Map grasps this distinction.
 
-The [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) treatment aligns with Bergson's durée—consciousness flows through retention, primal impression, and protention. Each moment contains its temporal thickness. The site correctly notes this temporal phenomenology resists physical explanation.
+The [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) treatment aligns with Bergson's durée—consciousness flows through retention, primal impression, and protention. Each moment contains its temporal thickness. The site correctly notes this temporal phenomenology resists physical explanation.
 
 The [eastern-philosophy-haecceity-tension](/topics/eastern-philosophy-consciousness/) article represents a genuine philosophical innovation: process haecceitism. The resolution that thisness can apply to experiential processes—not just substantial selves—allows the Map to honor both Buddhist momentariness and the indexical particularity that the vertiginous question requires. Particularity survives impermanence. This is exactly the kind of creative synthesis process philosophy enables."
 

@@ -5050,7 +5050,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 01:50 UTC - deep-review
 - **Status**: Success
-- **File**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- **File**: [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - **Word count**: 3975 → 4027 (+52)
 - **Critical issues addressed**: 0 (none found)
 - **Medium issues addressed**: 3

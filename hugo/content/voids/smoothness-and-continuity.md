@@ -42,7 +42,7 @@ related_articles:
 title: Smoothness and Continuity
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[temporal-structure-of-consciousness]]'
+- '[[temporal-consciousness-structure-and-agency]]'
 ---
 
 The Unfinishable Map identifies a double void at the heart of temporal consciousness. First, neural activity operates in discrete bursts — action potentials fire or don't, oscillations cycle at measurable frequencies, perceptual sampling occurs in periodic snapshots at roughly 4-13 Hz — yet conscious experience flows without gaps, seams, or flicker. Second, consciousness cannot determine whether this apparent flow is genuine continuity or a construction from discrete moments, because every method of investigation either presupposes the answer or transforms what it examines. The mismatch between substrate and phenomenology is one problem; the structural impossibility of resolving it is another. Together they mark a boundary where physical explanation gives way to something it cannot reach.
@@ -125,7 +125,7 @@ Predictive coding can explain why we *respond* to stimuli as if the world were c
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The general problem of consciousness investigating itself
 - [bergson-and-duration](/topics/bergson-and-duration/) — Bergson's case for indivisible temporal experience
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Temporal unity as the diachronic dimension of conscious unity
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — The broader topic of how temporal structure constitutes experience
+- [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — The broader topic of how temporal structure constitutes experience
 - [episodic-memory](/concepts/episodic-memory/) — The memory instance of capability division
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's actual occasions and the process view of temporal experience
 - [illusionism](/concepts/illusionism/) — The illusionist challenge to phenomenal continuity

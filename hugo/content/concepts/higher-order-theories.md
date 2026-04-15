@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-29 01:02:00+00:00
+ai_modified: 2026-04-15 08:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -69,7 +69,7 @@ HOT theories primarily target the second level: consciousness arises when a ment
 
 The Jourdain Hypothesis (Whiten 2015) provides evidence for this distinction. Great apes show sophisticated metacognition: uncertainty monitoring, strategic information-seeking, adjusting confidence. Yet they appear to lack metarepresentation—they don't seem to understand that their knowledge *is* knowledge, that their practices *are* practices subject to modification. They may "speak prose without knowing it."
 
-If metarepresentation requires phenomenal consciousness—as the evidence suggests—then HOT has the explanatory order reversed. Rather than higher-order representation *constituting* consciousness, consciousness may be what *enables* genuine metarepresentation. The ape who monitors uncertainty without understanding that uncertainty is a mental state has second-order processing without metarepresentation. What distinguishes human metacognition isn't just more sophisticated representation but the phenomenal capacity to take mental states as objects.
+If metarepresentation requires phenomenal consciousness—as the [evidence from comparative cognition](/concepts/metarepresentation-threshold/) suggests—then HOT has the explanatory order reversed. Rather than higher-order representation *constituting* consciousness, consciousness may be what *enables* genuine metarepresentation. The ape who monitors uncertainty without understanding that uncertainty is a mental state has second-order processing without metarepresentation. What distinguishes human metacognition isn't just more sophisticated representation but the phenomenal capacity to take mental states as objects.
 
 ## The Philosophical Objections
 

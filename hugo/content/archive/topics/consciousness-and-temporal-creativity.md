@@ -45,7 +45,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Creativity depends on time in a way that no atemporal process can replicate. The Unfinishable Map's treatment of [consciousness and creativity](/topics/consciousness-and-cognitive-distinctiveness/) establishes that conscious agents both generate and select novel possibilities. Its treatment of [temporal consciousness](/topics/temporal-structure-of-consciousness/) establishes that experience has irreducible temporal structure—[durée](/concepts/temporal-consciousness/), the [specious present](/concepts/temporal-consciousness/), retention-protention unity. This article argues that these two facts are not independent. Consciousness creates because it unfolds in time, and the specific way it unfolds—accumulating rather than replacing, integrating rather than discarding—is what makes genuine novelty possible.
+Creativity depends on time in a way that no atemporal process can replicate. The Unfinishable Map's treatment of [consciousness and creativity](/topics/consciousness-and-cognitive-distinctiveness/) establishes that conscious agents both generate and select novel possibilities. Its treatment of [temporal consciousness](/topics/temporal-consciousness-structure-and-agency/) establishes that experience has irreducible temporal structure—[durée](/concepts/temporal-consciousness/), the [specious present](/concepts/temporal-consciousness/), retention-protention unity. This article argues that these two facts are not independent. Consciousness creates because it unfolds in time, and the specific way it unfolds—accumulating rather than replacing, integrating rather than discarding—is what makes genuine novelty possible.
 
 The core claim: temporal creativity is not creativity that happens to occur in time. It is creativity that *requires* lived time as its medium. Strip away durée and you get recombination—rearranging pre-existing elements. Only a process that carries its past into its present while remaining open to an indeterminate future can produce what Bergson called "the continuous creation of unforeseeable novelty."
 
@@ -139,7 +139,7 @@ A legitimate challenge comes from computational systems with state history. Recu
 ## Further Reading
 
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative thought through generation and selection
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Why consciousness requires temporal structure and time may require consciousness
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — Why consciousness requires temporal structure and time may require consciousness
 - [bergson-and-duration](/topics/bergson-and-duration/) — Bergson's philosophy of durée, creative evolution, and lived time
 - [duration](/concepts/temporal-consciousness/) — Bergson's durée and qualitative lived time
 - [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment

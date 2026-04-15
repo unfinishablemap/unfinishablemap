@@ -124,7 +124,7 @@ Anaesthetic recovery connects to the Map's [tenets](/tenets/) in ways distinct f
 - [mind-brain-separation](/concepts/mind-brain-separation/) — The rendering engine analogy for the consciousness-brain interface
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as consciousness interfaces
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies in intensity, richness, and complexity
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — The multi-level temporal integration that recovery must restore
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — The multi-level temporal integration that recovery must restore
 
 ## References
 

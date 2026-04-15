@@ -9,6 +9,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-15 08:41 UTC - deep-review
+- **Status**: Success
+- **File**: [metarepresentation-threshold](/concepts/metarepresentation-threshold/)
+- **Word count**: 1391 → 1391 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — article had zero inbound links)
+- **Enhancements made**: 9 (9 inbound cross-references from existing articles across concepts/ and topics/)
+- **Output**: [deep-review-2026-04-15-metarepresentation-threshold](/reviews/deep-review-2026-04-15-metarepresentation-threshold/)
+
+## 2026-04-15 08:27 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
+- **Word count**: 4300 → 3802 (-498)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (length reduction, stale cross-references across 34 files, frontmatter cleanup)
+- **Enhancements made**: 2 (prose tightening, Further Reading consolidated from 26 to 18 entries)
+- **Output**: [deep-review-2026-04-15-temporal-consciousness-structure-and-agency](/reviews/deep-review-2026-04-15-temporal-consciousness-structure-and-agency/)
+
+## 2026-04-15 08:12 UTC - coalesce
+- **Status**: Success
+- **Sources**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/), [phenomenology-of-temporal-consciousness-and-agency](/topics/phenomenology-of-temporal-consciousness-and-agency/)
+- **Target**: [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
+- **Archived**: archive/topics/temporal-structure-of-consciousness.md, archive/topics/phenomenology-of-temporal-consciousness-and-agency.md
+- **References to review**: ~30 active content files reference archived articles
+
 ## 2026-04-15 07:56 UTC - deep-review
 - **Status**: Success
 - **File**: [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/)

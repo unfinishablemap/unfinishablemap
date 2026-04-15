@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-17
-**Article**: [Temporal Structure of Consciousness](/topics/temporal-structure-of-consciousness/)
+**Article**: [Temporal Structure of Consciousness](/topics/temporal-consciousness-structure-and-agency/)
 **Previous review**: [2026-02-02](/reviews/deep-review-2026-02-02-temporal-structure-of-consciousness/)
 **Context**: Cross-review in light of new [Neural Refresh Rates and the Smoothness Problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) article
 

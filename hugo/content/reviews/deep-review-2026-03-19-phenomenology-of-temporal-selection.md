@@ -45,7 +45,7 @@ No new counterarguments beyond those addressed in the 2026-03-17 review. The sta
 - Honest treatment of timing-gap problem for quantum speculation
 
 ### Enhancements Made
-- Added inbound cross-reference from [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) (new "Temporal Selection" subsection in Phenomenology of Temporal Agency)
+- Added inbound cross-reference from [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) (new "Temporal Selection" subsection in Phenomenology of Temporal Agency)
 - Added inbound cross-reference from [time-collapse-and-agency](/topics/time-collapse-and-agency/) (new paragraph on temporal selection under phenomenology of temporal agency)
 - Added inbound cross-reference from [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/) (new paragraph in Temporal Selection and the Interface section)
 - Added inbound cross-reference from [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) (extended Agency and Anticipatory Consciousness paragraph)
@@ -58,7 +58,7 @@ No new counterarguments beyond those addressed in the 2026-03-17 review. The sta
 - Added phenomenology-of-temporal-selection to related_articles frontmatter in all 10 articles
 
 ### Cross-links Added (Inbound)
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)

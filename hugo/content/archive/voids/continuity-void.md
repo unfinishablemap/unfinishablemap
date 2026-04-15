@@ -58,7 +58,7 @@ Philosophy of mind offers at least four accounts of [temporal consciousness](/co
 
 The dissolution strategy deserves serious engagement. However, it trades one void for another. If there is no unified temporal experience, what accounts for the phenomenology of temporal flow that every conscious being reports? For there to *seem* to be temporal succession, there must be a seeming — and that seeming has temporal structure. The Multiple Drafts model dissolves the continuity question only by denying the phenomenological datum that motivates it, which the Map regards as explanatorily costly. The void persists for anyone who takes the phenomenology of temporal flow at face value.
 
-These frameworks have been debated for over a century without convergence. The first three make identical predictions about what experience will feel like from the inside; the fourth denies that the predictions describe anything real. The [temporal structure of consciousness](/topics/temporal-structure-of-consciousness/) remains underdetermined by all available data.
+These frameworks have been debated for over a century without convergence. The first three make identical predictions about what experience will feel like from the inside; the fourth denies that the predictions describe anything real. The [temporal structure of consciousness](/topics/temporal-consciousness-structure-and-agency/) remains underdetermined by all available data.
 
 ## The Measurement Paradox
 
@@ -105,7 +105,7 @@ The continuity void exemplifies why the Map is unfinishable. Not every question 
 - [temporal-void](/voids/temporal-void/)
 - [resolution-void](/voids/resolution-void/)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)
 

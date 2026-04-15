@@ -61,7 +61,7 @@ topics: []
 ### Enhancements Made
 - Added 5 new inbound cross-links (inline references + Further Reading entries) from:
   - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — inline link in extensionalism/retentionalism discussion + Further Reading
-  - [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — inline link in specious present synthesis + Further Reading
+  - [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — inline link in specious present synthesis + Further Reading
   - [time-consciousness-growing-block](/apex/time-consciousness-growing-block/) — inline link in specious present as collapse-constitutive activity
   - [retrocausality](/concepts/retrocausality/) — inline link in phenomenology of decision section
   - [quantum-consciousness](/concepts/quantum-consciousness/) — Further Reading under "Key concepts"
@@ -71,7 +71,7 @@ First pass (7 inbound links added):
 - [temporal-consciousness](/concepts/temporal-consciousness/), [collapse-and-time](/concepts/collapse-and-time/), [specious-present-temporal-experience](/concepts/temporal-consciousness/), [mental-effort](/concepts/mental-effort/), [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/), [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/), [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)
 
 Second pass (5 additional inbound links added):
-- [time-collapse-and-agency](/topics/time-collapse-and-agency/), [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/), [time-consciousness-growing-block](/apex/time-consciousness-growing-block/), [retrocausality](/concepts/retrocausality/), [quantum-consciousness](/concepts/quantum-consciousness/)
+- [time-collapse-and-agency](/topics/time-collapse-and-agency/), [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/), [time-consciousness-growing-block](/apex/time-consciousness-growing-block/), [retrocausality](/concepts/retrocausality/), [quantum-consciousness](/concepts/quantum-consciousness/)
 
 **Total inbound links: 12** (up from 0 before first review)
 

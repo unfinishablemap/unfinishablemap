@@ -103,7 +103,7 @@ The voids programme continues to be the Map's most distinctive contribution, and
 - **Tenet alignment**: Dualism (composition of phenomenal properties is not physical composition), Minimal Quantum Interaction (quantum entanglement provides non-classical composition)
 
 #### Temporal Phenomenology Across Altered States
-- **Builds on**: [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [dream-consciousness](/topics/dream-consciousness/), [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Builds on**: [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [dream-consciousness](/topics/dream-consciousness/), [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
 - **Would address**: How time experience distorts systematically across dreams, meditation, psychedelics, flow states, and dissociation—revealing the interface's temporal architecture through variation
 - **Estimated scope**: Long article
 - **Tenet alignment**: Dualism (time experience varies while physical time does not), Bidirectional Interaction (consciousness contributes to temporal phenomenology)

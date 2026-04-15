@@ -85,7 +85,7 @@ The experimental consciousness science article's framework void observation—co
 - **Tenet alignment**: Dualism (if functionalism fails, the strongest route to physicalism about consciousness closes)
 
 #### Phenomenology of Anaesthetic Recovery
-- **Builds on**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/), [degrees-of-consciousness](/concepts/degrees-of-consciousness/), [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- **Builds on**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/), [degrees-of-consciousness](/concepts/degrees-of-consciousness/), [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
 - **Would address**: First-person reports of what it is like to return from anaesthesia—the hierarchical restoration of awareness, the disorientation of temporal discontinuity, the bootstrapping experience of "coming back." Currently embedded in the anaesthesia article but rich enough for standalone phenomenological treatment.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (the experience of return reveals the interface's structure from the consciousness side)

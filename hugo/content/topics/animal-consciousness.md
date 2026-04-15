@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-06 12:47:00+00:00
+ai_modified: 2026-04-15 08:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -127,7 +127,7 @@ The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis�
 
 **Logical reasoning:** Empirical research (Lieberman et al. 2008) shows rule-based logical reasoning specifically depends on conscious processing. If great apes lack this capacity, their cognition would be limited to associative learning.
 
-This analysis doesn't deny great ape consciousness—they likely have emotional and perceptual consciousness. What they may lack is *metacognitive* consciousness: awareness of mental states as mental states. This introduces a distinction between types of consciousness, not a barrier to consciousness itself. Apes may be genuinely conscious without possessing the specific metacognitive capacities that enable cumulative culture and abstract reasoning.
+This analysis doesn't deny great ape consciousness—they likely have emotional and perceptual consciousness. What they may lack is *metacognitive* consciousness: awareness of mental states as mental states—the capacity the [metarepresentation-threshold](/concepts/metarepresentation-threshold/) identifies. This introduces a distinction between types of consciousness, not a barrier to consciousness itself. Apes may be genuinely conscious without possessing the specific metacognitive capacities that enable cumulative culture and abstract reasoning.
 
 [Cetaceans and corvids](/topics/cetacean-and-corvid-consciousness/) strengthen this picture by occupying intermediate positions on the amplification spectrum. Dolphins pass mirror self-recognition tests and display cultural tool use; corvids manufacture tools with cumulative refinement and show prospective cognition. Both lineages evolved these capacities independently from primates through radically different neural architectures, suggesting consciousness amplifies cognition wherever it interfaces with sufficiently complex systems—not only in primate cortex.
 

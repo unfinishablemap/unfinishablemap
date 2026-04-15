@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-04-13 19:57:00+00:00
+ai_modified: 2026-04-15 08:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -82,7 +82,7 @@ Four capacities distinguish human from great ape cognition, each mapping onto wh
 
 **Working memory.** Chimpanzee working memory is substantially more limited than human capacity in abstract relational tasks (Tomasello & Herrmann, 2010). Cowan (2001) estimated human capacity at approximately 4±1 items without chunking. Even this conservative expansion enables qualitatively new operations: tracking relationships, holding intermediate conclusions, and considering alternatives simultaneously—operations that formal reasoning and creative combination both require.
 
-**Metacognition.** Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge underlies both logical reasoning and transformational creativity.
+**Metacognition.** Great apes show procedural metacognition—uncertainty guides their behaviour—but may lack *declarative* metacognition: representing their knowledge *as* knowledge, taking their beliefs as objects of thought. This transition from implicit monitoring to explicit self-knowledge—the [metarepresentation-threshold](/concepts/metarepresentation-threshold/)—underlies both logical reasoning and transformational creativity.
 
 **Cumulative culture.** Apes have culture but cannot accumulate improvements across generations. Whiten (2015) documents that ape cultural transmission lacks the ratchet effect. Cumulative culture requires recognising one's own knowledge as improvable and transmittable—a metarepresentational capacity inseparable from conscious self-reflection.
 

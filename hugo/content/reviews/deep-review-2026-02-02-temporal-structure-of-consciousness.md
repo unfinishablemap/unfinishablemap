@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Temporal Structure of Consciousness](/topics/temporal-structure-of-consciousness/)
+**Article**: [Temporal Structure of Consciousness](/topics/temporal-consciousness-structure-and-agency/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

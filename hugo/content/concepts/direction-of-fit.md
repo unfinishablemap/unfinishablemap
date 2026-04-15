@@ -27,7 +27,7 @@ title: Direction of Fit
 topics:
 - '[[aesthetics-and-consciousness]]'
 - '[[placebo-effect-and-mental-causation]]'
-- '[[temporal-structure-of-consciousness]]'
+- '[[temporal-consciousness-structure-and-agency]]'
 ---
 
 Direction of fit is a classification of mental states according to how they relate to the world. Beliefs have *mind-to-world* direction of fit: when a belief conflicts with reality, the belief is at fault and should change. Desires have *world-to-mind* direction of fit: when reality conflicts with a desire, reality is at fault and should change. This asymmetry, introduced by Elizabeth Anscombe in 1957 and developed by John Searle in 1983, reveals something fundamental about [intentionality](/concepts/intentionality/)—and about whether consciousness can be causally inert.
@@ -117,7 +117,7 @@ The argument that direction of fit supports dualism and bidirectional interactio
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Direction of fit in artistic creation, where the reversal from appreciation to creation makes causation explicit
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem direction of fit helps frame
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Empirical evidence that belief content drives physiological outcomes
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
+- [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — Intentions' inherent temporal directedness connects direction of fit to temporal consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thought that may ground direction of fit
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view that world-to-mind fit challenges
 

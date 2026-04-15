@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-28 02:27:00+00:00
+ai_modified: 2026-04-15 08:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -103,7 +103,7 @@ If [working-memory](/concepts/working-memory/) depends on conscious access (as [
 
 ### Declarative Metacognition
 
-Procedural metacognition ("I feel uncertain" → seek information) is present in great apes. Declarative metacognition ("I *know* that I don't know" → representing the knowledge state itself) is limited or absent. This parallels the [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction): maintaining information can proceed unconsciously, but *manipulating* it—taking beliefs as objects of thought—requires conscious reactivation.
+Procedural metacognition ("I feel uncertain" → seek information) is present in great apes. Declarative metacognition ("I *know* that I don't know" → representing the knowledge state itself) is limited or absent. The boundary between these—the [metarepresentation-threshold](/concepts/metarepresentation-threshold/)—marks where consciousness becomes causally indispensable. This parallels the [maintenance/manipulation distinction](/concepts/working-memory/#the-maintenancemanipulation-distinction): maintaining information can proceed unconsciously, but *manipulating* it—taking beliefs as objects of thought—requires conscious reactivation.
 
 ### The Jourdain Hypothesis
 

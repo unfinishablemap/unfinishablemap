@@ -127,7 +127,7 @@ The Map chooses interaction because epiphenomenalism—even the sophisticated ve
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness might select among quantum possibilities in neural systems
 - [consciousness-and-information-integration-beyond-iit](/topics/consciousness-and-integrated-information/) — Integration matters, but not as identity: alternative frameworks
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that creates logical space for conscious selection
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Why temporal consciousness matters
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — Why temporal consciousness matters
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle both IIT and the Map address
 - [tenets](/tenets/) — The Map's foundational commitments
 

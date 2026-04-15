@@ -54,7 +54,7 @@ The Map's account of [consciousness selecting neural patterns](/concepts/conscio
 
 But consider a jazz drummer waiting for the right beat to introduce a fill. The pattern to execute is already selected—the drummer knows *what* to play. The phenomenal work is entirely temporal: sensing the musical phrase's trajectory, feeling the approach of the right moment, and releasing the prepared action at precisely the right instant. A spatial-selection model with an external clock appended cannot explain the felt quality of this timing. The musician does not compute an interval and trigger; they *inhabit* the approaching moment and act *from within* temporal flow—what [Bergson](/topics/bergson-and-duration/) would recognise as operating within *durée*, qualitative lived time, rather than spatialised *chronos*.
 
-This distinction parallels one that [temporal structure of consciousness](/topics/temporal-structure-of-consciousness/) draws between spatial and temporal binding. Just as temporal binding is arguably deeper than spatial binding—constituting what counts as a moment rather than merely unifying features within one—temporal selection may be deeper than spatial selection, determining *when* possibilities collapse into actualities rather than merely *which* possibilities survive.
+This distinction parallels one that [temporal structure of consciousness](/topics/temporal-consciousness-structure-and-agency/) draws between spatial and temporal binding. Just as temporal binding is arguably deeper than spatial binding—constituting what counts as a moment rather than merely unifying features within one—temporal selection may be deeper than spatial selection, determining *when* possibilities collapse into actualities rather than merely *which* possibilities survive.
 
 ## The Structure of a Timing Window
 
@@ -114,7 +114,7 @@ The experience of "too late" may be one of the most direct phenomenal contacts w
 
 ## Further Reading
 
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/)
 - [phenomenology-of-temporal-attention](/topics/phenomenology-of-temporal-consciousness-and-agency/)

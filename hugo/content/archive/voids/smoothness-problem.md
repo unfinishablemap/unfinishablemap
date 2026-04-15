@@ -109,7 +109,7 @@ This resonates with [Whitehead's process philosophy](/concepts/process-philosoph
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — Full treatment of the smoothness problem as a concrete instance of the explanatory gap
 - [continuity-void](/voids/smoothness-and-continuity/) — Why consciousness cannot determine its own temporal grain
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Temporal unity as the diachronic dimension of conscious unity
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's actual occasions and the process view of temporal experience
 - [illusionism](/concepts/illusionism/) — The illusionist challenge to phenomenal continuity

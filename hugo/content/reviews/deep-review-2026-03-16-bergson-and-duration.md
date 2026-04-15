@@ -71,7 +71,7 @@ All checks pass (re-verified):
 ### Cross-links Added
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (opening paragraph)
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) (Further Reading)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) (Further Reading)
 
 ## Remaining Items
 

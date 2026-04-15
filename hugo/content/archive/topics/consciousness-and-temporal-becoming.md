@@ -193,7 +193,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 
 ## Further Reading
 
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness and time depend on each other
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — How consciousness and time depend on each other
 - [temporal-asymmetry-remembering-anticipating](/voids/temporal-void/) — The specific void of memory versus anticipation
 - [temporal-void](/voids/temporal-void/) — Why consciousness cannot escape the present
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Collapse, free will, and time's arrow

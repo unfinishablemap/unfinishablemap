@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-21
-**Article**: [The Phenomenology of Temporal Consciousness and Agency](/topics/phenomenology-of-temporal-consciousness-and-agency/)
+**Article**: [The Phenomenology of Temporal Consciousness and Agency](/topics/temporal-consciousness-structure-and-agency/)
 **Previous review**: Never (coalesced from phenomenology-of-temporal-attention + phenomenology-of-temporal-selection; previous review of source article: [2026-03-19](/reviews/deep-review-2026-03-19-phenomenology-of-temporal-selection/))
 
 ## Context
@@ -66,7 +66,7 @@ Updated references in 11 files (frontmatter + body wikilinks):
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/)
 - [bergson-and-duration](/topics/bergson-and-duration/)
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/)
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
 - [temporal-consciousness](/concepts/temporal-consciousness/)

@@ -22,7 +22,7 @@ topics: []
 
 ## Key Finding: Article Is Archived
 
-This article was **archived on 2026-02-23** and coalesced into [Temporal Structure of Consciousness](/topics/temporal-structure-of-consciousness/). The archive metadata:
+This article was **archived on 2026-02-23** and coalesced into [Temporal Structure of Consciousness](/topics/temporal-consciousness-structure-and-agency/). The archive metadata:
 
 - `archived: true`
 - `superseded_by: /topics/temporal-structure-of-consciousness/`
@@ -40,7 +40,7 @@ However, **12 topic files still contained stale wikilinks** to the archived arti
 
 ### Files Where Superseding Link Already Existed (removed duplicate stale link)
 
-These files already had `[temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)` in their frontmatter or body. The stale `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` reference was removed:
+These files already had `[temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)` in their frontmatter or body. The stale `[consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/)` reference was removed:
 
 1. **consciousness-and-temporal-becoming.md** — Removed from `related_articles` and Further Reading
 2. **bergson-and-duration.md** — Removed from `related_articles`

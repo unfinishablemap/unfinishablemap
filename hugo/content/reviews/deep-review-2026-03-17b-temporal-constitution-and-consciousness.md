@@ -45,7 +45,7 @@ No new counterarguments beyond those addressed in the earlier review.
 ### Cross-links Added (Inbound)
 Seven inbound links added from existing articles:
 
-1. **[temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)** — In "Distinction from Spatial Binding" section, where temporal integration constitutes moment boundaries. Also added to related_articles and Further Reading.
+1. **[temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)** — In "Distinction from Spatial Binding" section, where temporal integration constitutes moment boundaries. Also added to related_articles and Further Reading.
 2. **[temporal-consciousness](/concepts/temporal-consciousness/)** — In "Irreducibility Argument" section, where temporal extension is described as constitutive. Also added to related_articles and Further Reading.
 3. **[phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)** — In "Memory as Self-Constitution" section, where memory transforms the minimal self into a temporally extended self. Also added to related_articles.
 4. **[the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/)** — In "Temporal Binding" BP2 gap section, where temporal binding's distinctive puzzle is explained.

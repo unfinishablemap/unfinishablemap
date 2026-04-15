@@ -129,7 +129,7 @@ This article's argument—that temporal ontology and consciousness theories are 
 ## Further Reading
 
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/) — Why the growing block best accommodates consciousness
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — How consciousness requires temporal structure
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — How consciousness requires temporal structure
 - [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — Why felt temporal direction requires consciousness
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — How collapse connects time, consciousness, and free will
 - [bergson-and-duration](/topics/bergson-and-duration/) — Durée as irreducible temporal phenomenology

@@ -63,7 +63,7 @@ None identified. All philosopher attributions verified:
 ### Cross-links Added (Primary Focus — Orphan Integration)
 Added `[temporal-ontology-and-consciousness](/topics/consciousness-and-the-ontology-of-temporal-becoming/)` to both `related_articles` frontmatter and Further Reading sections of:
 - [growing-block-universe-and-consciousness](/topics/growing-block-universe-and-consciousness/)
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)
 - [consciousness-and-temporal-asymmetry](/topics/consciousness-and-temporal-becoming/)
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/)
 - [bergson-and-duration](/topics/bergson-and-duration/)

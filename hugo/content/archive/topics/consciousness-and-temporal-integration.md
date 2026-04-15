@@ -151,7 +151,7 @@ Temporal integration connects to the Map's [tenets](/tenets/) through a distinct
 
 ## Further Reading
 
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) — Comprehensive treatment of time and consciousness
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) — Comprehensive treatment of time and consciousness
 - [binding-problem](/concepts/binding-problem/) — The spatial/feature binding problem
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Temporal binding, specious present, and AI implications
 - [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment

@@ -62,7 +62,7 @@ The article had zero inbound links. Added cross-references from 10 articles:
 3. **[the-observer-witness-in-meditation](/topics/the-observer-witness-in-meditation/)** — Inline link in Two Modes section connecting the Witness Model to meditation's observer-witness.
 4. **[comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)** — Inline link in P/A Distinction section connecting nature-vs-coupling to structural varieties.
 5. **[what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)** — Inline link in Synthesis section connecting the disaggregation insight to the formal five-dimensional framework.
-6. **[temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/)** — Inline link in opening section connecting temporal structure to the five-dimensional framework.
+6. **[temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/)** — Inline link in opening section connecting temporal structure to the five-dimensional framework.
 7. **[machine-consciousness](/topics/machine-consciousness/)** — Further Reading entry.
 8. **[ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)** — related_articles frontmatter entry.
 9. **[open-question-ai-consciousness](/apex/open-question-ai-consciousness/)** — related_articles frontmatter entry.

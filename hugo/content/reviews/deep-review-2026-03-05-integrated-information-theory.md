@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken internal link**: `[specious present](/topics/temporal-structure-of-consciousness/#experienced-duration)` linked to non-existent article (coalesced into temporal-structure-of-consciousness). Fixed to `[specious present](/topics/temporal-structure-of-consciousness/#the-specious-present)`.
+- **Broken internal link**: `[specious present](/topics/temporal-structure-of-consciousness/#experienced-duration)` linked to non-existent article (coalesced into temporal-structure-of-consciousness). Fixed to `[specious present](/topics/temporal-consciousness-structure-and-agency/#the-specious-present)`.
 - **Duplicate frontmatter entry**: `[temporal-consciousness](/concepts/temporal-consciousness/)` appeared twice in concepts list. Removed duplicate.
 
 ### Medium Issues Found

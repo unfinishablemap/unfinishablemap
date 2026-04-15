@@ -61,7 +61,7 @@ None. The article is well-structured with good source/Map separation and no fact
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) (body text, Further Reading)
 - [direction-of-fit](/concepts/direction-of-fit/) (concept, body text, Further Reading)
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) (related_articles, body text, Further Reading)
-- [temporal-structure-of-consciousness](/topics/temporal-structure-of-consciousness/) (related_articles, body text, Further Reading)
+- [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) (related_articles, body text, Further Reading)
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) (related_articles, body text, Further Reading)
 - [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) (body text, Further Reading)
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) (Further Reading)
