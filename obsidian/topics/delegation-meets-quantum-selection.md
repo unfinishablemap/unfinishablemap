@@ -4,7 +4,7 @@ description: "Causal delegation provides the logical structure of mental causati
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-14T05:57:00+00:00
+ai_modified: 2026-04-15T16:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ related_articles:
   - "[[consciousness-physics-interface-formalism]]"
   - "[[entanglement-binding-hypothesis]]"
   - "[[skill-delegation]]"
-last_deep_review: 2026-04-14T05:57:00+00:00
+last_deep_review: 2026-04-15T16:06:00+00:00
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

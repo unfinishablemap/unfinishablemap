@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 16:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/delegation-meets-quantum-selection]]
+- **Word count**: 2012 → 2012 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 5 inbound cross-links from delegatory-dualism, causal-delegation, interactionist-dualism, mental-causation-and-downward-causation, born-rule-and-the-consciousness-interface
+- **Output**: [[reviews/deep-review-2026-04-15-delegation-meets-quantum-selection]]
+
 ## 2026-04-15 15:50 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Biological Computationalism

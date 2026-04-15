@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-04-05T23:53:00+00:00
+ai_modified: 2026-04-15T16:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -196,7 +196,7 @@ The frameworks are compatible but operate at different levels:
 
 **Delegatory dualism** specifies *how* mental causation avoids overdetermination: through delegation and preemption. This is a claim about causal structure—the logic of mind-body interaction.
 
-The frameworks could integrate: quantum indeterminacy provides the physical mechanism; delegation provides the causal structure. Consciousness biases quantum outcomes (the mechanism); this biasing constitutes the physical state delegating its causal role to the experience (the structure).
+The frameworks could integrate: quantum indeterminacy provides the physical mechanism; delegation provides the causal structure. Consciousness biases quantum outcomes (the mechanism); this biasing constitutes the physical state delegating its causal role to the experience (the structure). [[delegation-meets-quantum-selection|Delegation Meets Quantum Selection]] develops this integration, arguing that Saad's "default causal profile" corresponds to the Born-rule probability distribution — making delegation the causal structure and quantum selection the physical implementation of a single event.
 
 The [[entanglement-binding-hypothesis]] strengthens this integration. An entangled quantum state spanning many neurons constitutes a single non-decomposable physical state with a collective default causal profile—precisely what Saad's Subset Law* maps to unified experience. Entanglement provides the physical holism; delegation explains how that unified state's causal work gets taken over by experience. Together they address complementary aspects of the mind-body problem: entanglement answers why experience is *unified*, delegation answers how it is *causally efficacious*.
 
