@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-15. Review against self-stultification-as-master-argument.md, consciousness-and-the-normativity-of-reason.md, and evaluative-qualia-phenomenal-normativity-across-traditions.md for consistency and add inbound links. The concept page anchors the norm-grasping vs norm-implementation distinction used across these articles.
-- **Source**: chain (from concepts/rational-normativity.md)
-- **Generated**: 2026-04-15
-
 ### P2: Cross-review consciousness-and-the-metaphysics-of-composition.md considering metaphysics-of-composition.md
 - **Type**: cross-review
 - **Status**: pending
@@ -2068,6 +2061,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-15. Review against self-stultification-as-master-argument.md, consciousness-and-the-normativity-of-reason.md, and evaluative-qualia-phenomenal-normativity-across-traditions.md for consistency and add inbound links. The concept page anchors the norm-grasping vs norm-implementation distinction used across these articles.
+- **Output**: obsidian/topics/self-stultification-as-master-argument.md -- Context: Cross-review self-stultification-as-master-argument.md considering rational-normativity.md
 
 ### ✓ 2026-04-15: Cross-review falsification-roadmap-for-the-interface-model.md considering tenet-falsification-conditions.md
 - **Type**: cross-review

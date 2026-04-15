@@ -4,8 +4,8 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-04-13T19:57:00+00:00
-last_deep_review: 2026-04-13T00:56:00+00:00
+ai_modified: 2026-04-15T13:35:00+00:00
+last_deep_review: 2026-04-15T13:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[concepts/materialism]]"
   - "[[reasons-responsiveness]]"
+  - "[[rational-normativity]]"
   - "[[introspection]]"
   - "[[intentionality]]"
   - "[[cognitive-phenomenology]]"
@@ -31,6 +32,7 @@ related_articles:
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
   - "[[consciousness-and-normative-force]]"
+  - "[[rational-normativity]]"
   - "[[tenets]]"
   - "[[pragmatisms-path-to-dualism]]"
   - "[[pragmatist-normative-bridge]]"
@@ -93,9 +95,9 @@ The [[argument-from-reason#consciousness|consciousness connection]] makes this v
 
 Eliminative materialism, in its strongest form, holds that beliefs, desires, and other propositional attitudes do not exist—folk psychology is a radically false theory destined for wholesale replacement by neuroscience. Against this strong version, self-stultification is immediate: the eliminativist *believes* that beliefs don't exist, and the position eliminates itself along with its target.
 
-Sophisticated eliminativists, however, do not typically defend this crude version. Paul Churchland's mature position is better characterised as holding that folk-psychological categories carve nature at the wrong joints—that "belief," "desire," and "intention" are as misleading as "impetus" or "vital force," and that a mature neuroscience will provide superior categories that track the actual causal structure of cognition. On this reading, it is not that *nothing* plays a belief-like functional role, but that the folk category "belief" misdescribes what is really going on, and the properties folk psychology attributes to beliefs (discrete propositional content, semantic compositionality, rational relations to other beliefs) may not survive the transition to better theory.
+Sophisticated eliminativists, however, do not typically defend this crude version. Paul Churchland's mature position is better characterised as holding that folk-psychological categories carve nature at the wrong joints—that "belief," "desire," and "intention" are as misleading as "impetus" or "vital force," and that a mature neuroscience will provide superior categories that track the actual causal structure of cognition. On this reading, it is not that *nothing* plays a belief-like functional role, but that the folk category "belief" misdescribes what is really going on, and the properties folk psychology attributes to beliefs may not survive the transition to better theory.
 
-This more careful eliminativism partially evades the crude self-stultification charge—the eliminativist can claim to be using folk-psychological language instrumentally while predicting its eventual replacement. But the evasion has limits. The eliminativist's own argument proceeds by evaluating evidence, drawing inferences, and recognising conclusions as justified by premises. If these rational operations will be redescribed in successor vocabulary, the question becomes whether the successor vocabulary preserves the *normative* properties that made the argument possible: truth-aptness, justification, logical entailment. If it does preserve them, eliminativism amounts to a relabelling rather than an elimination—the interesting philosophical content survives under new names. If it does not preserve them, then the eliminativist's own reasoning cannot be reconstructed in the vocabulary they advocate, and self-stultification returns at a deeper level. Either way, the position leads back to the [[argument-from-reason]]: whatever replaces folk psychology must account for genuine rational normativity, and this is precisely the demand that physicalism struggles to meet.
+This more careful eliminativism partially evades the crude self-stultification charge—the eliminativist can claim to be using folk-psychological language instrumentally while predicting its eventual replacement. But the evasion has limits. The eliminativist's own argument proceeds by evaluating evidence, drawing inferences, and recognising conclusions as justified by premises. If these rational operations will be redescribed in successor vocabulary, the question becomes whether the successor vocabulary preserves the *normative* properties that made the argument possible: truth-aptness, justification, logical entailment. If it does preserve them, eliminativism amounts to a relabelling rather than an elimination—the interesting philosophical content survives under new names. If it does not preserve them, then the eliminativist's own reasoning cannot be reconstructed in the vocabulary they advocate, and self-stultification returns at a deeper level. Either way, the position leads back to the [[argument-from-reason]]: whatever replaces folk psychology must account for genuine [[rational-normativity|rational normativity]], and this is precisely the demand that physicalism struggles to meet.
 
 ### Global Skepticism
 
@@ -171,6 +173,7 @@ The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that m
 - [[concepts/epiphenomenalism]] — The position most directly defeated, including the AI exception
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
 - [[consciousness-and-the-authority-of-formal-systems]] — Why logical necessity requires conscious recognition
+- [[rational-normativity]] — The prescriptive dimension of reasoning that self-stultification arguments presuppose and defend
 - [[consciousness-and-the-normativity-of-reason]] — Why the normative dimension of reasoning resists physical description
 - [[consciousness-and-normative-force]] — Why recognising rational authority as binding requires phenomenal consciousness
 - [[functional-seeming]] — Frankish's defence of illusionism, and why it reinforces self-stultification via the zombie convergence
