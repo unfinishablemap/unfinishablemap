@@ -38,11 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Fix stale wikilinks from phenomenal-transparency/opacity coalesce (18 files)
+### P2: Address gaps in concepts/pairing-problem.md
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Coalesce on 2026-04-13 merged phenomenal-transparency + phenomenal-opacity → phenomenal-transparency-opacity-spectrum. Cross-review was marked complete but 18 active content files still reference archived slugs `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` and/or `[phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)`. Affected files include: curated-mind.md, phenomenology-of-recursive-self-awareness.md, consciousness-and-the-authority-of-formal-systems.md, dualist-perception.md, perceptual-failure-and-the-interface.md, introspection.md, perception.md, meta-problem-of-consciousness.md, fitness-beats-truth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, perceptual-degradation-and-the-interface.md, self-reference-paradox.md, phenomenal-depth.md, biological-cognitive-closure.md, necessary-opacity.md, projection-void.md, ownership-void.md. Update all to `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` (with appropriate display text where needed).
-- **Source**: chain (from coalesce 2026-04-13)
+- **Notes**: Pessimistic review found the "developmental co-construction" response is asserted rather than argued—no mechanism specified for how non-physical consciousness co-develops with physical neural structures. The steering wheel analogy obscures the disanalogy (steering wheels are physical). Also: "current evidence strongly supports interface locality" cited without specific studies. See pessimistic-2026-04-15.md
+- **Source**: pessimistic-review
 - **Generated**: 2026-04-15
 
 ### P2: Write concept page on tenet falsification conditions
@@ -2076,6 +2076,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Fix stale wikilinks from phenomenal-transparency/opacity coalesce (18 files)
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-13 merged phenomenal-transparency + phenomenal-opacity → phenomenal-transparency-opacity-spectrum. Cross-review was marked complete but 18 active content files still reference archived slugs `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` and/or `[phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)`. Affected files include: curated-mind.md, phenomenology-of-recursive-self-awareness.md, consciousness-and-the-authority-of-formal-systems.md, dualist-perception.md, perceptual-failure-and-the-interface.md, introspection.md, perception.md, meta-problem-of-consciousness.md, fitness-beats-truth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, perceptual-degradation-and-the-interface.md, self-reference-paradox.md, phenomenal-depth.md, biological-cognitive-closure.md, necessary-opacity.md, projection-void.md, ownership-void.md. Update all to `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` (with appropriate display text where needed).
+- **Output**: Task context:
+Coalesce on 2026-04-13 merged phenomenal-transparency + phenomenal-opacity → phenomenal-transparency-opacity-spectrum. Cross-review was marked complete but 18 active content files still reference archived slugs `[phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/)` and/or `[phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/)`. Affected files include: curated-mind.md, phenomenology-of-recursive-self-awareness.md, consciousness-and-the-authority-of-formal-systems.md, dualist-perception.md, perceptual-failure-and-the-interface.md, introspection.md, perception.md, meta-problem-of-consciousness.md, fitness-beats-truth.md, selective-correction-and-reconstruction-paradox.md, phenomenal-acquaintance.md, perceptual-degradation-and-the-interface.md, self-reference-paradox.md, phenomenal-depth.md, biological-cognitive-closure.md, necessary-opacity.md, projection-void.md, ownership-void.md. Update all to `[phenomenal-transparency-opacity-spectrum](/concepts/phenomenal-transparency-opacity-spectrum/)` (with appropriate display text where needed).
 
 ### ✓ 2026-04-15: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
 - **Type**: cross-review
