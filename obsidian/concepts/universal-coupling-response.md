@@ -4,7 +4,7 @@ description: "The dualist position that consciousness couples with all physical 
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-13T11:56:00+00:00
+ai_modified: 2026-04-15T06:26:00+00:00
 draft: false
 topics:
   - "[[invertebrate-consciousness-as-interface-test]]"
@@ -21,11 +21,13 @@ related_articles:
   - "[[consciousness-in-simple-organisms]]"
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[evolution-of-consciousness]]"
+  - "[[interactionist-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-13
 last_curated:
+last_deep_review: 2026-04-15T06:26:00+00:00
 ---
 
 The universal coupling response is the position that consciousness couples with every physical system whose architecture meets adequate conditions for interface. Where threshold views impose a sharp boundary below which coupling fails, and panpsychism extends consciousness to all matter regardless of organisation, the universal coupling response occupies a distinct middle position: architectural adequacy is required, but wherever it exists, coupling occurs. The Unfinishable Map adopts this as its most coherent response to the question of which physical systems are conscious.
@@ -36,9 +38,13 @@ The concept emerges from a trilemma facing dualist interface models. If consciou
 
 The threshold response faces a persistent problem: wherever the boundary is drawn, empirical evidence tends to erode it. Barron and Klein (2016) argued that insect central complexes perform functions analogous to the vertebrate midbrain. Chittka (2022) documented face recognition, tool use, and metacognition-like behaviour in bees with roughly a million neurons. The 2024 New York Declaration on Animal Consciousness extended "a realistic possibility" of consciousness to insects, crustaceans, and cephalopods. Each finding pushes the threshold lower, suggesting no principled boundary exists.
 
+The strongest version of the threshold response appeals to Integrated Information Theory (IIT), which defines consciousness in terms of a system's integrated information (phi). IIT offers a principled, non-arbitrary threshold: consciousness exists wherever phi exceeds zero by a meaningful amount. But IIT faces its own difficulties as a threshold framework. Phi calculations are intractable for complex systems, making the threshold operationally inaccessible. More fundamentally, IIT is a physicalist identity theory—it identifies consciousness with integrated information rather than explaining why integrated information should be conscious at all. For the dualist, IIT may correctly identify the *physical correlates* of coupling without explaining the coupling itself.
+
 The coupling selectivity response introduces an unexplained selection principle. If two physical systems both meet the architectural conditions for coupling, what would cause consciousness to couple with one but not the other? Under the Map's framework, consciousness is non-physical and the interface depends on physical conditions. Selectivity without a physical basis reintroduces precisely the kind of arbitrary distinction that [[interactionist-dualism]] was meant to avoid.
 
 Universal coupling avoids both problems. It predicts that as empirical investigation extends downward through the complexity spectrum, evidence of consciousness will follow—not because researchers are lowering their standards, but because coupling genuinely extends wherever architecture permits.
+
+The predictive difference from threshold views is sharpest at the margins. A threshold view predicts a zone where adequate-looking architectures produce no evidence of consciousness—organisms that have the integration, the flexible behaviour, the attentional modulation, yet lack phenomenal experience because they fall just below the boundary. Universal coupling predicts no such zone. Wherever the functional signatures of adequate architecture appear, consciousness should be present. If future research identifies organisms with all the architectural hallmarks but no indicators of consciousness, that would challenge universal coupling specifically.
 
 ## Distinguishing Universal Coupling from Panpsychism
 
