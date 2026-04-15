@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-11T00:56:00+00:00
+ai_modified: 2026-04-15T15:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[indexical-void]]"
   - "[[consciousness-and-the-ownership-problem]]"
   - "[[epistemological-limits-occams-razor]]"
+  - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -123,7 +124,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** sharpens the stakes. Under many-worlds, every quantum measurement spawns branches containing versions of every observer. Individuation becomes perspectival—"which one am I?" dissolves because all versions are equally real. The Map's single-world commitment makes individuation a harder but more honest problem: there is exactly one of you, and the question of what makes you *this* one has a determinate (if inaccessible) answer.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises the question of scope. If consciousness biases quantum indeterminacies in the brain, the individuation boundary must determine *which* collapse events belong to *which* subject. The unity of a conscious field may depend on which quantum indeterminacies a single consciousness can modulate—a physical constraint on a non-physical boundary that neither pure physics nor pure metaphysics can specify alone.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises the question of scope. If consciousness biases quantum indeterminacies in the brain, the individuation boundary must determine *which* collapse events belong to *which* subject—the [[indexical-identity-quantum-measurement|indexical gap]] applied to the individuation problem. The unity of a conscious field may depend on which quantum indeterminacies a single consciousness can modulate—a physical constraint on a non-physical boundary that neither pure physics nor pure metaphysics can specify alone.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** suggests that the individuation boundary may be dynamically maintained. If consciousness and brain causally shape each other, the boundary around a subject could be sustained by an ongoing feedback loop rather than fixed by metaphysical fiat. Each interaction reinforces the coupling between *this* consciousness and *this* neural system, progressively deepening the individuation.
 
@@ -142,6 +143,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 - [[self-and-self-consciousness]] — The minimal self and phenomenology of subjecthood
 - [[buddhism-and-dualism]] — Buddhist perspectives on self-boundaries and *anattā*
 - [[indexical-void]] — The void-form of the individuation question: why am I *this* consciousness?
+- [[indexical-identity-quantum-measurement]] — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [[consciousness-and-the-ownership-problem]] — What makes experience belong to a subject
 - [[epistemological-limits-occams-razor]] — Why parsimony bias may systematically favour simpler individuation accounts
 
