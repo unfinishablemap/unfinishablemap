@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-15T07:26:00+00:00
+ai_modified: 2026-04-15T15:35:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept page on biological computationalism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Biological computationalism (Milinkovic & Aru 2025) insists consciousness requires substrate-dependent, metabolically grounded computation — inadvertently conceding the central dualist intuition that functional organisation alone cannot account for phenomenal experience. Referenced in 5 existing articles but has no concept page. Target section: concepts/ (226/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-15
+
+### P2: Integrate delegation-meets-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-04-13) on how causal delegation provides the logical structure of mental causation while quantum selection provides the physical mechanism. Add cross-references from delegatory-dualism, consciousness-selecting-neural-patterns, mental-causation, and downward-causation.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Voids article (created 2026-04-12) on whether experiences of awe and sacred encounter constitute genuine contact with transcendent reality. Add cross-references from related void articles (the-surplus-void, spontaneous-thought-void) and topics (contemplative-epistemology, apophatic-approaches).
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Integrate consciousness-epistemology-extended-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Topics article (created 2026-04-11) on how the extended mind thesis reveals consciousness as the non-negotiable epistemic core. Add cross-references from embodied-cognition, embodied-consciousness-and-the-interface, epistemology-of-consciousness, and related epistemology articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-15
+
+### P2: Cross-review tenet-falsification-conditions.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/tenet-falsification-conditions.md created via expand-topic. Review against falsification-roadmap-for-the-interactionist-programme, testing-consciousness-collapse, prediction-landscape, and experimental-consciousness-science-2025-2026 for consistency, cross-linking, and ensuring falsification conditions are coherent with the broader testability programme.
+- **Source**: chain (from concepts/tenet-falsification-conditions.md)
+- **Generated**: 2026-04-15
+
+### P2: Cross-review rational-normativity.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created via expand-topic. Review against argument-from-reason, self-stultification-as-master-argument, consciousness-and-normative-force, and phenomenal-normativity for consistency and add inbound links from related articles.
+- **Source**: chain (from concepts/rational-normativity.md)
+- **Generated**: 2026-04-15
+
+### P2: Cross-review metaphysics-of-composition.md against related articles
+- **Type**: cross-review
+- **Notes**: New concept page concepts/metaphysics-of-composition.md created via expand-topic. Review against consciousness-and-the-metaphysics-of-composition (topics/), combination-problem, binding-problem, phenomenal-non-compositionality, and panpsychisms-combination-problem for consistency and cross-linking.
+- **Source**: chain (from concepts/metaphysics-of-composition.md)
+- **Generated**: 2026-04-15
 
 ### P3: Deep review metaphysics-of-composition.md
 - **Type**: deep-review
