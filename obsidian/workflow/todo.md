@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/comparative-phenomenology-of-mathematical-insight.md (created 2026-04-14) provides phenomenological detail on mathematical insight across traditions. Review consciousness-and-mathematics.md and consciousness-and-the-philosophy-of-mathematics.md for cross-links and consistency. Article is orphaned (no inbound links) — cross-review should add wikilinks from existing mathematical consciousness articles.
-- **Source**: chain (from comparative-phenomenology-of-mathematical-insight.md)
-- **Generated**: 2026-04-15
-
 ### P2: Write article on the metaphor void
 - **Type**: expand-topic
 - **Status**: blocked
@@ -2033,6 +2026,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-15: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
+- **Type**: cross-review
+- **Notes**: New article topics/comparative-phenomenology-of-mathematical-insight.md (created 2026-04-14) provides phenomenological detail on mathematical insight across traditions. Review consciousness-and-mathematics.md and consciousness-and-the-philosophy-of-mathematics.md for cross-links and consistency. Article is orphaned (no inbound links) — cross-review should add wikilinks from existing mathematical consciousness articles.
+- **Output**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md -- Context: Cross-review comparative-phenomenology-of-mathematical-insight.md against consciousness-and-mathematics.md
 
 ### ✓ 2026-04-15: Cross-review consciousness-epistemology-extended-cognition.md against related articles
 - **Type**: cross-review
