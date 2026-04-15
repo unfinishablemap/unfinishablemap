@@ -118,7 +118,7 @@ Access mechanisms are the "downstream" neural processes that amplify initial qua
 
 ### No Many Worlds
 
-The [[concepts/many-worlds|Many Worlds Interpretation]] implies all possible outcomes occur across branches. If consciousness operates through quantum selection, MWI threatens to make that selection illusory. MWI defenders respond with self-locating uncertainty: "which branch am I on?" is meaningful with a definite answer given by observation.
+The [[concepts/many-worlds|Many Worlds Interpretation]] implies all possible outcomes occur across branches. If consciousness operates through quantum selection, MWI threatens to make that selection illusory. MWI defenders respond with [[indexical-knowledge-and-identity|self-locating uncertainty]]: "which branch am I on?" is meaningful with a definite answer given by observation.
 
 **The dualist objection**: Self-locating uncertainty presupposes a determinate "I" whose location is uncertain—but MWI's ontology contains only wave functions evolving deterministically. The answer "you're the version in this branch" may suffice for spatial self-location, but consciousness involves the qualitative character of *this* experience. The question is not "which branch am I on?" but "why is there something it's like to be this branch-occupant?"
 

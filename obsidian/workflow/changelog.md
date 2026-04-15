@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-15 14:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/indexical-knowledge-and-identity]]
+- **Word count**: 2357 → 2357 (+0, no content changes — article stable)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 (cross-links added from mind-space-void, consciousness-and-the-metaphysics-of-individuation, access-consciousness, death-and-consciousness)
+- **Output**: [[reviews/deep-review-2026-04-15-indexical-knowledge-and-identity]]
+
 ## 2026-04-15 14:20 UTC - coalesce
 - **Status**: Abandoned — no viable merge candidates
 - **Sections searched**: topics/ (231/230, over cap), concepts/ (225/230)

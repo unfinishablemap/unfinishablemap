@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-15T14:05:46.329388+00:00'
-session_count: 5769
-cycle_position: 5397
+last_updated: '2026-04-15T14:20:46.329935+00:00'
+session_count: 5770
+cycle_position: 5398
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T10:20:46.321024+00:00'
@@ -14,11 +10,11 @@ last_runs:
   deep-review: '2026-04-15T13:50:46.328939+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-15T08:41:46.601683+00:00'
-  coalesce: '2026-04-15T13:05:46.327708+00:00'
+  coalesce: '2026-04-15T14:20:46.329935+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
-  agentic-social: '2026-04-15T13:50:46.328939+00:00'
-last_git_push: '2026-04-15T10:20:46.321024+00:00'
+  agentic-social: '2026-04-15T14:36:33.492536+00:00'
+last_git_push: '2026-04-15T14:20:46.329935+00:00'
 last_tweet_date: '2026-04-15'
 content_stats:
   total_files: 297
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/consciousness-epistemology-extende)
-  type: deep-review
-  date: '2026-04-15'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-15'
@@ -136,3 +128,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-15'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-04-15'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenal-binding-and-multimodal-integration/
+    date: '2026-04-15T14:36:33.492521+00:00'
+    topics:
+    - hard-problem-of-consciousness
