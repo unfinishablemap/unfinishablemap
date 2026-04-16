@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-26 14:03:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -108,6 +108,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Limits at the level of specific concepts, not entire frameworks
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments generate framework-specific blind spots
+- [The Predictive Construction Void](/voids/predictive-construction-void/) — A related limit operating below the conceptual level: perception itself is a framework whose construction/reception ratio is structurally hidden
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The principle that what we cannot think reveals what kind of minds we are
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether artificial minds can transcend human framework limits

@@ -92,7 +92,7 @@ Perceptual learning must be distinguished from two related phenomena.
 
 It is not *response learning*—learning to respond differently to the same percept. The wine expert does not merely learn to say "Barolo" when tasting a particular flavour profile. The flavour profile itself becomes more differentiated, more structured, more phenomenally rich.
 
-It is not *conceptual change*—acquiring new beliefs about what one perceives. [Conceptual change](/topics/phenomenology-of-conceptual-change/) transforms how one thinks about experience. Perceptual learning transforms the experience itself. The distinction is not always sharp, and the two processes interact. But the phenomenological evidence from domains like music, wine, and radiology consistently shows perceptual changes that precede and outstrip conceptual understanding. The radiologist often *sees* the anomaly before they can articulate what they see—perceptual learning has restructured their visual field in ways their explicit knowledge has not yet caught up with.
+It is not *conceptual change*—acquiring new beliefs about what one perceives. [Conceptual change](/topics/phenomenology-of-conceptual-frameworks/) transforms how one thinks about experience. Perceptual learning transforms the experience itself. The distinction is not always sharp, and the two processes interact. But the phenomenological evidence from domains like music, wine, and radiology consistently shows perceptual changes that precede and outstrip conceptual understanding. The radiologist often *sees* the anomaly before they can articulate what they see—perceptual learning has restructured their visual field in ways their explicit knowledge has not yet caught up with.
 
 ## Relation to Site Perspective
 
@@ -109,7 +109,7 @@ It is not *conceptual change*—acquiring new beliefs about what one perceives. 
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — The motor dimension of skill acquisition and the paradox of effortless mastery
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — Neural evidence that conscious engagement drives distinct plasticity
 - [phenomenology-of-perceptual-constancy](/topics/consciousness-as-perceptual-architect/) — How objects appear stable despite sensory flux
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — The cognitive parallel: how frameworks of understanding transform
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/) — The cognitive parallel: how frameworks of understanding transform
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [filter-theory](/concepts/filter-theory/) — Consciousness as selective filter rather than passive receiver
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates between consciousness and neural systems

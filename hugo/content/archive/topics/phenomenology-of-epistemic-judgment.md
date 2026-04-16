@@ -82,7 +82,7 @@ The Unfinishable Map proposes that belief revision has a three-phase phenomenal 
 
 **Rupture.** Between holding a belief and releasing it, there is often a discrete phenomenal event. The old framework stops generating the feeling of coherence. Arguments that once seemed decisive feel hollow. There follows a brief epistemic vertigo—neither framework organises experience—and then involuntary recognition: the new view forces itself into awareness. William James described something analogous in religious conversion—a "self-surrender" in which the will stops struggling (*The Varieties of Religious Experience*, 1902). Secular belief revision bears a similar structure. Strikingly, this moment often has a passive quality despite following sustained conscious work—we undergo it rather than perform it.
 
-**Reorganisation.** The new belief restructures neighbouring beliefs, reweights evidence, and generates new coherence. Past experiences appear in new light. Facts that were peripheral become central. This process involves the distinctive phenomenology of [understanding](/topics/phenomenology-of-understanding-and-meaning/)—things fitting together in a way that has positive qualitative character, not merely the absence of doubt. [Conceptual change](/topics/phenomenology-of-conceptual-change/) describes a parallel process at the level of frameworks rather than individual beliefs; reorganisation operates within both. The process unfolds over days or weeks, partly directed by conscious testing, partly proceeding on its own as connections form.
+**Reorganisation.** The new belief restructures neighbouring beliefs, reweights evidence, and generates new coherence. Past experiences appear in new light. Facts that were peripheral become central. This process involves the distinctive phenomenology of [understanding](/topics/phenomenology-of-understanding-and-meaning/)—things fitting together in a way that has positive qualitative character, not merely the absence of doubt. [Conceptual change](/topics/phenomenology-of-conceptual-frameworks/) describes a parallel process at the level of frameworks rather than individual beliefs; reorganisation operates within both. The process unfolds over days or weeks, partly directed by conscious testing, partly proceeding on its own as connections form.
 
 The difference between trivial and central belief revision differs not just in intensity but in kind. Central revision involves identity engagement (changing core beliefs feels like changing who you are), temporal depth (autobiographical reinterpretation), and layered [epistemic-emotions](/concepts/epistemic-emotions/)—grief for the old framework coexisting with excitement about the new.
 
@@ -131,9 +131,9 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 - [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
-- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-conceptual-frameworks/)
 - [epistemic-emotions](/concepts/epistemic-emotions/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)

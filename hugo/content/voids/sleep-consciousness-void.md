@@ -118,7 +118,7 @@ The sleep consciousness void combines features of all [three void categories](/v
 
 **Unexplorable.** We cannot observe dreaming while awake; we can only recall, and recall transforms. We cannot maintain full waking cognition within dreams—dorsolateral prefrontal cortex deactivation during REM is systematic. For dreamless sleep, the observer paradox is absolute: to observe it from within, consciousness must be present, but the question concerns its absence.
 
-**Occluded.** The [transition between states](/voids/transition-void/) systematically erases content. Dream memories fade rapidly upon waking. Vedantic traditions suggest awareness during deep sleep may be actively veiled—the ego's dissolution preventing recognition, not because awareness is absent but because the "who" that would know is not present.
+**Occluded.** The [transition between states](/voids/transit-void/) systematically erases content. Dream memories fade rapidly upon waking. Vedantic traditions suggest awareness during deep sleep may be actively veiled—the ego's dissolution preventing recognition, not because awareness is absent but because the "who" that would know is not present.
 
 ## The Physicalist Response
 
@@ -167,7 +167,7 @@ The evidence currently favours genuine state-dependent inaccessibility. But the 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
 - [dream-consciousness](/topics/dream-consciousness/) — How dreams illuminate the consciousness-brain relationship
-- [transition-void](/voids/transition-void/) — The void at the boundary between conscious states
+- [transition-void](/voids/transit-void/) — The void at the boundary between conscious states
 - [witness-consciousness](/concepts/witness-consciousness/) — The Vedantic concept of awareness that observes without identifying
 - [personal-identity](/topics/personal-identity/) — What grounds identity through gaps in consciousness
 - [death-void](/voids/death-void/) — Consciousness cannot represent its own permanent cessation

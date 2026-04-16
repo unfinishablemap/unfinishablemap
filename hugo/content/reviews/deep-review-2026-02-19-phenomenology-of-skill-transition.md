@@ -70,7 +70,7 @@ topics: []
 - Tightened description to style guide length
 
 ### Cross-links Added
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/)
 - [paradox-of-effortless-mastery](/topics/consciousness-and-skilled-performance/)
 

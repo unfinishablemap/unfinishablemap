@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -117,6 +117,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
 - [defended-territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [self-reference paradox](/voids/self-opacity/) — The structural obstacle of consciousness examining itself
+- [The Predictive Construction Void](/voids/predictive-construction-void/) — A related inside-observer problem: consciousness cannot distinguish what it constructs from what it receives
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the shape of failure as data
 - [apophatic-cartography](/voids/apophatic-cartography/) — Knowing through negation
 

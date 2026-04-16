@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-03-25 10:14:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -208,6 +208,7 @@ PP relates to The Unfinishable Map's [tenets](/tenets/) substantively:
 
 ### Site Content
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — How PP integrates with the Map's interactionist dualism
+- [predictive-construction-void](/voids/predictive-construction-void/) — Why the construction/reception boundary in perception is structurally unknowable
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Another major cognitive framework
 - [functionalism](/concepts/functionalism/) — The philosophical tradition PP inherits
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates consciousness-matter interaction (central to precision weighting)

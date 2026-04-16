@@ -80,7 +80,7 @@ The inhabited character of commitment also explains the distinctive discomfort o
 
 Theoretical commitment has a distinctive temporal texture. Fresh commitment carries an excitement of new possibility — the world is suddenly more intelligible, previously disconnected observations snap into focus. Mature commitment settles into something quieter but more pervasive. The framework becomes background rather than foreground, operating beneath explicit attention while still structuring every encounter with evidence.
 
-This temporal evolution matters for understanding how theoretical commitments can become invisible to those who hold them. A deeply naturalised commitment no longer feels like a commitment at all — it feels like seeing things as they are. The materialist who has held their position for decades does not experience it as a theoretical choice; they experience it as realism. The phenomenal signature of commitment fades as the commitment deepens, which is precisely why [conceptual change](/topics/phenomenology-of-conceptual-change/) can be so disorienting — it reveals as contingent what had felt like necessity.
+This temporal evolution matters for understanding how theoretical commitments can become invisible to those who hold them. A deeply naturalised commitment no longer feels like a commitment at all — it feels like seeing things as they are. The materialist who has held their position for decades does not experience it as a theoretical choice; they experience it as realism. The phenomenal signature of commitment fades as the commitment deepens, which is precisely why [conceptual change](/topics/phenomenology-of-conceptual-frameworks/) can be so disorienting — it reveals as contingent what had felt like necessity.
 
 ## Commitment and the First-Person Asymmetry
 
@@ -102,7 +102,7 @@ This connects to the Map's tenet of [bidirectional interaction](/tenets/#bidirec
 
 ## Further Reading
 
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [phenomenology-of-epistemic-judgment](/topics/phenomenology-of-epistemic-cognition/)
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)

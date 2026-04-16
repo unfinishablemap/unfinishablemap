@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-16 05:49:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ description: Human+AI exploration of why consciousness cannot determine the boun
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-16 17:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,7 +35,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-Perception is largely prediction. The brain generates models of what it expects to encounter, compares those models against incoming sensory data, and updates only where the two diverge. When prediction matches reality closely enough, the prediction is experienced as direct contact with the world. The Unfinishable Map identifies a void here: consciousness cannot determine, from within, the boundary between what it constructs and what it receives. This is not a gap in current knowledge. It is a structural feature of any system that uses its own predictions to access reality.
+Perception is largely prediction. The brain generates models of what it expects to encounter, compares those models against incoming sensory data, and updates only where the two diverge. When prediction matches reality closely enough, the prediction is experienced as direct contact with the world. The Unfinishable Map identifies a void here: consciousness cannot determine, from within, the boundary between what it constructs and what it receives. The limit is structural rather than contingent—a feature of any system that uses its own predictions to access reality, not a gap waiting to be closed by further investigation.
 
 The predictive construction void is primarily [unexplorable](/voids/three-kinds-of-void/) with occluded elements. It differs from the [simulation detection void](/voids/simulation-detection-void/) (which concerns whether reality itself is fabricated) and from [self-opacity](/voids/self-opacity/) (which concerns inability to observe one's own mechanisms). The predictive construction void concerns a more specific failure: the ratio of construction to reception in ordinary experience is not just unknown but structurally unknowable, because the apparatus for investigating it is the same apparatus that produces it.
 
@@ -44,9 +45,9 @@ The void arises from four interlocking features of [predictive processing](/conc
 
 **The Markov blanket barrier.** Karl Friston's free-energy principle formalises the boundary between organism and environment as a Markov blanket—a statistical partition through which internal states access external states only indirectly, via sensory and active boundaries. Kirchhoff et al. state the implication directly: "As long as the energetic exchanges across the sensory boundaries are held constant, the agent cannot know whether the world beyond is one way or another" (2018). There is no bypass. Every channel from world to mind passes through prediction machinery.
 
-**The inspection paradox.** Any attempt to examine whether a given experience is constructed or received must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical. This is not a contingent limitation of current neuroscience—it is a structural feature of embedded cognition. You cannot step outside prediction to audit prediction.
+**The inspection paradox.** Any attempt to examine whether a given experience is constructed or received must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical. Embedded cognition has no outside vantage from which to audit the apparatus—the limitation is structural, not a contingent shortcoming of current neuroscience. You cannot step outside prediction to audit prediction.
 
-**The transparency problem.** Successful predictions vanish phenomenologically. When the brain's model matches sensory input, the model disappears from awareness and what remains feels like unmediated contact with the world. Only prediction errors—surprises—register as such. Jakob Hohwy captures this: minds are "in the business of inferring the world and selves from behind a sensory veil, while being deeply embedded in bodies and worlds" (2013). The veil is invisible precisely because it works.
+**The transparency problem.** Successful predictions vanish phenomenologically. When the brain's model matches sensory input, the model disappears from awareness and what remains feels like unmediated contact with the world. Only prediction errors—surprises—register as such. This is [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) operating at the predictive level: the machinery becomes invisible precisely when it succeeds. Jakob Hohwy captures it: minds are "in the business of inferring the world and selves from behind a sensory veil, while being deeply embedded in bodies and worlds" (2013). The veil is invisible precisely because it works.
 
 **The calibration problem.** Every reality check is a prediction compared against another prediction. There is no prediction-free standard against which to measure accuracy. As Anil Seth frames it: "We're all hallucinating all the time, including right now. It's just that when we agree about our hallucinations, we call that reality" (2021). Consensus stabilises the model but does not validate it against a prediction-independent benchmark—no such benchmark exists.
 

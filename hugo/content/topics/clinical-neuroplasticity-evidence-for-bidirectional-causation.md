@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-04-16 16:29:00+00:00
+ai_modified: 2026-04-16 17:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Three converging clinical evidence streams—OCD neuroplasticity, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 22:04:00+00:00
+last_deep_review: 2026-04-16 17:40:00+00:00
 modified: *id001
 related_articles:
 - '[[placebo-effect-and-mental-causation]]'
@@ -101,7 +101,7 @@ What makes the remaining convergence worth philosophical attention is the system
 
 ## Proposed Mechanisms
 
-The clinical evidence documents that psychological intervention produces lasting changes in neural architecture—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/). As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human beings about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
+The clinical evidence documents that psychological intervention produces lasting changes in neural function—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [consciousness-selecting](/concepts/consciousness-selecting-neural-patterns/). As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human beings about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
 
 This proposal is speculative and faces challenges regarding decoherence timescales in warm biological tissue. Other possible mechanisms include [non-local quantum effects](/concepts/quantum-consciousness/), classical top-down modulation through emergent causal powers, or interaction models not yet formulated. The Map's commitment is to the reality of mental causation (Tenet 3: [Bidirectional Interaction](/concepts/bidirectional-interaction/)), not to any specific mechanism. The clinical evidence documented here stands regardless of which mechanism ultimately proves correct.
 
@@ -216,6 +216,16 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Terminology precision ("function" vs "architecture") and added scrutiny caveat for placebo structural claims that were previously asserted without evidence-quality assessment.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-16 (cluster cross-review)
+Changes made:
+- Proposed Mechanisms section: "lasting changes in neural architecture" → "lasting changes in neural function" — completes the terminology precision calibration begun in the 2026-04-16 16:29 UTC pass. The opening paragraph was updated then but the Proposed Mechanisms section retained the older term, creating internal inconsistency with the opening and with cross-citation in [epiphenomenalism](/concepts/epiphenomenalism/) (which uses "alters neural function").
+
+Based on cross-review of causal/clinical cluster (clinical-neuroplasticity, attention-and-the-consciousness-interface, epiphenomenalism).
+Key improvement: Internal terminology consistency — "function" now used uniformly for the scope of clinical evidence claims.
 
 This log should be removed after human review.
 -->

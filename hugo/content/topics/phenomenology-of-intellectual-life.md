@@ -64,9 +64,9 @@ related_articles:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[necessary-opacity]]'
 - '[[self-stultification-as-master-argument]]'
-- '[[phenomenology-of-conceptual-change]]'
+- '[[phenomenology-of-conceptual-frameworks]]'
 - '[[phenomenology-of-philosophical-disagreement]]'
-- '[[phenomenology-of-framework-inhabitation]]'
+- '[[phenomenology-of-conceptual-frameworks]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[consciousness-and-testimony]]'
 - '[[consciousness-and-the-problem-of-induction]]'
@@ -252,9 +252,8 @@ None of these findings currently obtains.
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge: curiosity, certainty, doubt
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking itself has experiential character
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — Uncertainty as positive phenomenal state
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — Framework-level belief revision
+- [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/) — What it is like to live inside a framework and what it is like when one shifts
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — The experience of sustained intellectual conflict
-- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/) — What it is like to live inside a conceptual framework
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Why denying phenomenology is self-undermining
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Seemings as defeasible evidence
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Trained introspection as method

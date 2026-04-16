@@ -153,7 +153,7 @@ Klein (2016) argued that autonoetic consciousness—not memory content—is the 
 
 Temporal unity—the phenomenal binding of successive moments into a continuous stream—is the diachronic dimension of the [unity of consciousness](/concepts/unity-of-consciousness/), distinguished at micro (within the specious present), meso (across successive presents), and macro (the [temporal self](/concepts/anoetic-noetic-autonoetic-consciousness/) spanning a lifetime) scales.
 
-Temporal unity can degrade, revealing it as contingent. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact (Fuchs, 2007). **Flow states** produce "timelessness" within ongoing experience. The retention-protention structure may also explain the [transition-void](/voids/transition-void/): continuous overlap between moments means there is no clean boundary where a transition could be located.
+Temporal unity can degrade, revealing it as contingent. **Temporal disintegration in schizophrenia** disrupts binding between moments while leaving within-moment experience intact (Fuchs, 2007). **Flow states** produce "timelessness" within ongoing experience. The retention-protention structure may also explain the [transition-void](/voids/transit-void/): continuous overlap between moments means there is no clean boundary where a transition could be located.
 
 ## Connection to Quantum Consciousness
 

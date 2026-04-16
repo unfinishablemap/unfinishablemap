@@ -41,7 +41,7 @@ The observation-termination problem makes this void distinctive. Attempting to o
 
 ## The Observation-Termination Problem
 
-The absorption void's defining feature is that observation destroys its object. Every contemplative and performance tradition reports the same structural constraint: the moment you notice you are absorbed, the absorption ends. The [transition-void](/voids/transition-void/) generalises this pattern: consciousness cannot witness *any* of its own state transitions, not only the exit from absorption but also the entry into it, mood shifts, attention departures, and the moment of falling asleep.
+The absorption void's defining feature is that observation destroys its object. Every contemplative and performance tradition reports the same structural constraint: the moment you notice you are absorbed, the absorption ends. The [transition-void](/voids/transit-void/) generalises this pattern: consciousness cannot witness *any* of its own state transitions, not only the exit from absorption but also the entry into it, mood shifts, attention departures, and the moment of falling asleep.
 
 This is not a report of difficulty but of impossibility. A musician in flow who thinks "I'm in flow right now" has already left it. A meditator in deep jhana who reflects "this is jhana" has broken the state. The act of reflective observation is incompatible with the state being observed.
 
@@ -104,7 +104,7 @@ The Map speculates that the absorption void may be partly occluded rather than m
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
-- [transition-void](/voids/transition-void/) — The general case: consciousness cannot witness any of its own state transitions
+- [transition-void](/voids/transit-void/) — The general case: consciousness cannot witness any of its own state transitions
 
 ## References
 

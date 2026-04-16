@@ -1,13 +1,160 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 17:28:00+00:00
+ai_modified: 2026-04-16 21:45:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-16 21:45 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Word count**: 2070 → 2217 (+147)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (one-way cross-link inconsistency with phenomenology-of-resistance-across-domains; outdated bandwidth citations relative to mental-effort.md)
+- **Enhancements made**: 3 (opening-framing paragraph situating interface friction within broader resistance pattern; Zheng & Meister 2024 citation added; frontmatter + Further Reading cross-links to resistance and agency-passivity articles)
+- **Output**: [deep-review-2026-04-16-interface-friction](/reviews/deep-review-2026-04-16-interface-friction/)
+
+## 2026-04-16 21:30 UTC - condense
+- **Status**: Success
+- **File**: [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/)
+- **Before**: 4485 words
+- **After**: 3161 words
+- **Reduction**: 30%
+- **Technique**: Tightened prose throughout (removed hedging, merged sentences); cut Husserl digression and verbose Davidson paragraph in Transparency section; condensed Gravitational Structure three-item list into prose; trimmed each Three Signatures subsection; heavily compressed Frameworks Break Down section (intro + anomaly + crisis + gestalt subsections); merged "Consciousness as Participant" and "Limits of Computational Models" subsections; converted Challenges section prose to bullet list. Preserved opening summary, all four tenet connections in Relation to Site Perspective, cross-links, and core arguments.
+
+## 2026-04-16 21:18 UTC - research-voids
+- **Status**: Skipped (section at capacity)
+- **Voids count**: 101 content files / cap 100
+- **Action**: No new research generated. Automation should prioritize improving existing voids articles (deep-review, refine-draft, coalesce) over creating new ones.
+
+## 2026-04-16 21:10 UTC - deep-review
+- **Status**: Success
+- **File**: [language-thought-boundary](/voids/language-thought-boundary/)
+- **Word count**: 2144 → 2150 (+6, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (stale apophatic-approaches links modernized to apophatic-cartography; three-kinds-of-void direct link replacing `[three void types](/voids/)`; missing reciprocal link to new [metaphor-void](/voids/metaphor-void/))
+- **Enhancements made**: Reflexive-metaphor acknowledgment sentence in Paradox section linking [metaphor-void](/voids/metaphor-void/); tightened AI section and "What Would Challenge This View?" prose to offset additions
+- **Cross-review context**: apophatic-cartography.md, three-kinds-of-void.md, metaphor-void.md
+- **Output**: [deep-review-2026-04-16-language-thought-boundary](/reviews/deep-review-2026-04-16-language-thought-boundary/)
+
+## 2026-04-16 20:55 UTC - deep-review
+- **Status**: Success
+- **File**: [substance-property-dualism](/concepts/substance-property-dualism/)
+- **Word count**: 3326 → 3346 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link to newly created [disguised-property-dualism](/concepts/disguised-property-dualism/))
+- **Enhancements made**: 3 (frontmatter concept added, body cross-reference integrated length-neutrally, Further Reading entry)
+- **Cross-review context**: materialism.md, russellian-monism.md, disguised-property-dualism.md
+- **Output**: [deep-review-2026-04-16-substance-property-dualism](/reviews/deep-review-2026-04-16-substance-property-dualism/)
+
+## 2026-04-16 20:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/), [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- **Target**: [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/)
+- **Archived**: [phenomenology-of-framework-inhabitation](/archive/topics/phenomenology-of-framework-inhabitation/), [phenomenology-of-conceptual-change](/archive/topics/phenomenology-of-conceptual-change/)
+- **Notes**: The two sources mapped complementary phenomenologies of the same territory — inhabitation (transparency, gravitational pull, signatures of dependence) and change (anomaly accumulation, crisis, gestalt shift, consolidation). Both cited Kuhn, Heidegger's Zuhandenheit, and the same predictive-processing counter-move, with heavy mutual cross-reference. Unified under "phenomenology of conceptual frameworks" as a single narrative covering dwelling and transition. Preserved the unique tenet-alignment arguments from each source (including conceptual-change's connection to No Many Worlds and Minimal Quantum Interaction). Word budget: ~5500 (down from combined ~9500). All wikilinks in 9 active content files redirected to the new unified article. Topics section at 92% of cap (231/250).
+- **References to review**: Active content wikilinks updated inline; historical review files and changelog archives preserved as-is
+
+## 2026-04-16 20:26 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The phenomenology of resistance across domains
+- **Output**: [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/)
+- **Word count**: 2515
+- **Based on research**: yes, [phenomenology-of-resistance-across-domains-2026-04-06](/research/phenomenology-of-resistance-across-domains-2026-04-06/)
+
+## 2026-04-16 20:15 UTC - deep-review
+- **Status**: Success
+- **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Word count**: 1393 → 1522 (+129)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (type-B physicalism distinction added; condition (3) tightened with reduction-criterion clarification)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-16-disguised-property-dualism](/reviews/deep-review-2026-04-16-disguised-property-dualism/)
+
+## 2026-04-16 19:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The metaphor void
+- **Output**: [metaphor-void](/voids/metaphor-void/)
+- **Word count**: 1871
+- **Based on research**: yes, [voids-metaphor-void-2026-03-20](/research/voids-metaphor-void-2026-03-20/)
+
+## 2026-04-16 19:40 UTC - refine-draft
+- **Status**: Success
+- **Files**: [ai-consciousness](/topics/ai-consciousness/), [simulation](/concepts/simulation/)
+- **Source**: pessimistic-2026-04-16 (Issues 3, 4, and Binding Problem counterargument)
+- **Changes**:
+  - ai-consciousness.md: In "What Would Conscious AI Require?", elevated the quantum-interaction-tenet caveat on requirement #2 from parenthetical to bolded in-text sentence; added explicit binding-problem acknowledgment to requirement #3 (mechanism unknown for biological systems too) and reframed the AI argument as identifying *additional* structural obstacles beyond the shared unsolved interaction problem.
+  - simulation.md: In "Distinguishing From Cartesian Skepticism", replaced the thin structural-specificity response with a concrete worked case (locality objection) showing what the simulation hypothesis does that generic skepticism cannot—*sort* assumptions into contingent vs. robust. Generic skepticism undermines the reasoning used to deploy any objection; simulation preserves inferential structure while varying target features.
+- **Published**: yes
+
+## 2026-04-16 19:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [transition-void](/voids/transition-void/), [initiation-void](/voids/initiation-void/)
+- **Target**: [transit-void](/voids/transit-void/)
+- **Archived**: [transition-void](/archive/voids/transition-void/), [initiation-void](/archive/voids/initiation-void/)
+- **Notes**: Both sources diagnosed the same structural impossibility from complementary angles — transition-void on state changes (waking→sleep, focus→distraction, flow entry/exit), initiation-void on onsets of mental acts (Libet, Schurger, Metzinger). Unified under "transit void" because onset is a special case of transition and both articles invoked the same phenomenological scaffolding (Husserl retention-protention, Dennett multiple drafts, contemplative testimony, necessary-opacity). Selected from voids section because it is over cap (102/100). Word budget: ~2500 (down from combined ~4500). Preserved all citations. Follow-up task created to update wikilink references in 14 active files.
+- **References to review**: 14 active files contain wikilinks to the archived articles (see todo.md follow-up task)
+
+## 2026-04-16 19:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Disguised property dualism (concept page)
+- **Output**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Word count**: 1393
+- **Based on research**: no (synthesised from existing Map material — predictive-processing-and-dualism, russellian-monism-versus-bi-aspectual-dualism, substance-property-dualism)
+- **Notes**: Defines diagnostic for physicalist refinements that introduce two irreducible structures while disavowing the dualist label. Three worked examples (Markovian monism, Russellian monism, IIT's intrinsic axiom); distinguishes from type-A physicalism, overt dualism, and illusionism. Source for task: optimistic-2026-04-16-evening review.
+
+## 2026-04-16 19:03 UTC - deep-review
+- **Status**: Success
+- **File**: [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/)
+- **Word count**: 2220 → 2220 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log comment)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-16-conceivability-possibility-inference](/reviews/deep-review-2026-04-16-conceivability-possibility-inference/)
+- **Notes**: Third review, article highly stable. Prior reviews (2026-02-15, 2026-03-16) plus 2026-04-13 refine-draft addressed all substantive issues. Attribution check passed.
+
+## 2026-04-16 18:40 UTC - refine-draft
+- **Status**: Skipped (duplicate)
+- **File**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)
+- **Source**: pessimistic-2026-04-16c Issues 1, 2, 7 (P2 follow-up task)
+- **Changes**: None — all three issues (stale AI refinement log, "most robust NCC finding" softening + GNWT contestation, Kondziella 25% + Claassen 2019 stricter-criteria hedge) were already applied in commit f492fde1b (2026-04-16 17:02 UTC) under the broader pessimistic-review task. Verified current file matches review recommendations; marked duplicate todo complete.
+- **Published**: yes
+
+## 2026-04-16 18:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Source**: pessimistic-2026-04-16c Issue 3 (high severity) + unsupported-claim "conviction of phenomenal consciousness"
+- **Changes**: Promoted "Interactionist Escape" from bold paragraph to H4 subsection; expanded to explicitly name the epiphenomenalism structure, state that the interactionist must reject the physical-duplicate stipulation, and concede the argument's narrowed scope as a standalone attack on physicalism. Hedged "conviction of phenomenal consciousness" from assertion to stance, with a note on why the illusionist reply is not strictly refutable.
+- **Published**: yes
+
+## 2026-04-16 18:16 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Four recently modified topic articles in the interface/evidence cluster — dualist-perception, predictive-processing-and-dualism, pragmatisms-path-to-dualism, clinical-neuroplasticity-evidence-for-bidirectional-causation
+- **Output**: [optimistic-2026-04-16-evening](/reviews/optimistic-2026-04-16-evening/)
+
+## 2026-04-16 17:55 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Focus**: Orphan integration — adding inbound links from related articles
+- **Word count**: 1700 → 1730 (+30)
+- **Critical issues addressed**: 0 (attribution and source/Map separation verified clean)
+- **Medium issues addressed**: 3 (two instances of "not X. It is Y." LLM cliché rewritten; added cross-link to phenomenal-transparency-opacity-spectrum in transparency-problem paragraph)
+- **Enhancements made**: 10 inbound links added from voids/voids, concepts/predictive-processing, topics/predictive-processing-and-dualism, topics/dualist-perception, concepts/perception, voids/obviousness-void, voids/self-opacity, voids/necessary-opacity, voids/simulation-detection-void, voids/framework-void
+- **Output**: [deep-review-2026-04-16-predictive-construction-void](/reviews/deep-review-2026-04-16-predictive-construction-void/)
+
+## 2026-04-16 17:40 UTC - deep-review
+- **Status**: Success
+- **Scope**: Cross-review of causal/clinical cluster for consistency with 2026-04-16 16:29 UTC calibration pass
+- **Files**: [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Word count**: 2616 → 2616 (±0)
+- **Critical issues addressed**: 1 (clinical-neuroplasticity Proposed Mechanisms retained "neural architecture" after opening was updated to "neural function" — cross-citation in epiphenomenalism already used "function", creating internal inconsistency. Fixed to "neural function.")
+- **Medium issues addressed**: 0 (attribution, sample-size framing, Schwartz "suggestive" language, "not X but Y" removal all verified consistent across cluster)
+- **Enhancements made**: 0 (length-neutral mode — two of three articles at 102-103% of soft threshold)
+- **Output**: [deep-review-2026-04-16c-causal-clinical-cluster](/reviews/deep-review-2026-04-16c-causal-clinical-cluster/)
 
 ## 2026-04-16 17:28 UTC - deep-review
 - **Status**: Success

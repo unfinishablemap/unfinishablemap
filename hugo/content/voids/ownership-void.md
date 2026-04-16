@@ -120,7 +120,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — When the self-model hides its own construction
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness restructures experience, including pre-reflective for-me-ness
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Cross-tradition approaches to dissolving selfhood
-- [transition-void](/voids/transition-void/) — Observation-transition incompatibility as a parallel structural limit
+- [transition-void](/voids/transit-void/) — Observation-transition incompatibility as a parallel structural limit
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [indexical-void](/voids/indexical-void/) — Why am I *this* consciousness? The identity question underlying ownership
 

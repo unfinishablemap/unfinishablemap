@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-01
 **Article**: [Necessary Opacity](/voids/necessary-opacity/)
 **Previous review**: Never
-**Cross-review context**: Reviewed in light of [The Initiation Void](/voids/initiation-void/), which explicitly references necessary-opacity as "the broader principle."
+**Cross-review context**: Reviewed in light of [The Initiation Void](/voids/transit-void/), which explicitly references necessary-opacity as "the broader principle."
 
 ## Pessimistic Analysis Summary
 
@@ -48,12 +48,12 @@ topics: []
 - Desktop icon analogy for usefulness vs accuracy
 
 ### Enhancements Made
-- Added [initiation-void](/voids/initiation-void/) as specific instance of necessary opacity in Distinguishing This Void section
+- Added [initiation-void](/voids/transit-void/) as specific instance of necessary opacity in Distinguishing This Void section
 - Improved MQI tenet hedging for epistemic honesty
 - Trimmed ~155 words for length compliance while preserving all distinctive content
 
 ### Cross-links Added
-- [initiation-void](/voids/initiation-void/) (reciprocal link — initiation-void already links to necessary-opacity)
+- [initiation-void](/voids/transit-void/) (reciprocal link — initiation-void already links to necessary-opacity)
 
 ## Remaining Items
 

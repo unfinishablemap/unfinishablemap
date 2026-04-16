@@ -63,7 +63,7 @@ Consciousness at its most intensely engaged is simultaneously consciousness at i
 
 The defining feature of absorption is that observation destroys its object. Every contemplative and performance tradition reports the same constraint: the moment you notice you are absorbed, the absorption ends. A musician in flow who thinks "I'm in flow right now" has already left it. A meditator who reflects "this is jhana" has broken the state.
 
-The constraint is inherent, not a limitation of current methods. The [transition-void](/voids/transition-void/) generalises this: consciousness cannot witness *any* of its own state transitions — not only the exit from absorption but also the entry into it, mood shifts, and the moment of falling asleep.
+The constraint is inherent, not a limitation of current methods. The [transition-void](/voids/transit-void/) generalises this: consciousness cannot witness *any* of its own state transitions — not only the exit from absorption but also the entry into it, mood shifts, and the moment of falling asleep.
 
 ### Cross-Cultural Convergence
 
@@ -174,7 +174,7 @@ Within the [voids framework](/voids/three-kinds-of-void/), these disappearance v
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
-- [transition-void](/voids/transition-void/) — The general case: consciousness cannot witness any of its own state transitions
+- [transition-void](/voids/transit-void/) — The general case: consciousness cannot witness any of its own state transitions
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The fatigue-sleep continuum and consciousness during sleep
 - [complicity-void](/voids/complicity-void/) — When consciousness actively misrepresents its own narrowing
 - [resolution-void](/voids/resolution-void/) — The spatial compression constraint on phenomenal access

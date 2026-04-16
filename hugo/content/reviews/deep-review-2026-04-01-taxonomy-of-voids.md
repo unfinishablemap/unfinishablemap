@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-01
 **Article**: [A Taxonomy of Voids](/apex/taxonomy-of-voids/)
 **Previous review**: [2026-03-24](/reviews/deep-review-2026-03-24-taxonomy-of-voids/)
-**Context**: Cross-review considering new [initiation void](/voids/initiation-void/) and [thrownness void](/voids/thrownness-void/) articles
+**Context**: Cross-review considering new [initiation void](/voids/transit-void/) and [thrownness void](/voids/thrownness-void/) articles
 
 ## Pessimistic Analysis Summary
 
@@ -55,7 +55,7 @@ None identified. New material references published sources cited in the respecti
 - Added initiation-void and thrownness-void to related_articles
 
 ### Cross-links Added
-- [initiation-void](/voids/initiation-void/) (new, in Access Cluster and related_articles)
+- [initiation-void](/voids/transit-void/) (new, in Access Cluster and related_articles)
 - [thrownness-void](/voids/thrownness-void/) (new, in Access Cluster and related_articles)
 
 ## Remaining Items

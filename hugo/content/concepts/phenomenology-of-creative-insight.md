@@ -38,7 +38,7 @@ related_articles:
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[agent-causation]]'
 - '[[phenomenology-of-choice-and-volition]]'
-- '[[phenomenology-of-conceptual-change]]'
+- '[[phenomenology-of-conceptual-frameworks]]'
 - '[[consciousness-and-mathematics]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[categorical-surprise]]'
@@ -153,7 +153,7 @@ The phenomenology of creative insight supports several of the Map's [tenets](/te
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
 - [agent-causation](/concepts/agent-causation/)
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The temporal phenomenology of the "click" and gradual comprehension
 - [categorical-surprise](/concepts/categorical-surprise/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -111,9 +111,9 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Infant Consciousness Void](/voids/infant-consciousness/) — Why our own infant experience is more alien than another adult's mind
 - [The Minimal Consciousness Void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
-- [The Transition Void](/voids/transition-void/) — Why consciousness cannot witness its own state transitions
+- [The Transition Void](/voids/transit-void/) — Why consciousness cannot witness its own state transitions
 - [The Agency Verification Void](/voids/agency-verification-void/) — Why consciousness cannot verify its own causal powers
-- [The Initiation Void](/voids/initiation-void/) — Why consciousness cannot witness the onset of its own mental acts
+- [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of its own mental acts
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious
 - [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
@@ -132,6 +132,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Complicity Void](/voids/complicity-void/) — Whether consciousness actively participates in maintaining its own limits
 - [The Obviousness Void](/voids/obviousness-void/) — How the feeling of self-evidence terminates inquiry before it begins
 - [The Interested Party Void](/voids/interested-party-void/) — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
+- [The Predictive Construction Void](/voids/predictive-construction-void/) — Why consciousness cannot determine the boundary between what it constructs and what it receives
 
 ### Phenomenology of Limits
 

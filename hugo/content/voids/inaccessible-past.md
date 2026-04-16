@@ -125,7 +125,7 @@ What does approaching the inaccessible past feel like?
 
 **The grief of inaccessibility.** When we try to remember a lost loved one's voice, their exact expression, the specific quality of their presence — and cannot — we confront the void directly. The person existed; the experience happened; but it is gone.
 
-**Memory confidence masking the void.** We typically feel we are accessing the past, not constructing it. The reconstructive nature is usually invisible — the void is masked by successful indirection. We confuse the vividness of reconstruction with the directness of access. The [transition-void](/voids/transition-void/) identifies the same pattern for state transitions: consciousness generates an experience of seamless access that conceals the structural gap.
+**Memory confidence masking the void.** We typically feel we are accessing the past, not constructing it. The reconstructive nature is usually invisible — the void is masked by successful indirection. We confuse the vividness of reconstruction with the directness of access. The [transition-void](/voids/transit-void/) identifies the same pattern for state transitions: consciousness generates an experience of seamless access that conceals the structural gap.
 
 ## Why the Void Is Structural
 
@@ -188,7 +188,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — The epistemic standing of contemplative reports
-- [transition-void](/voids/transition-void/) — State transitions masked by narrative continuity
+- [transition-void](/voids/transit-void/) — State transitions masked by narrative continuity
 
 ## References
 

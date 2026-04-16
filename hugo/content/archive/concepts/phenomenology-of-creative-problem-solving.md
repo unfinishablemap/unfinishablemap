@@ -122,7 +122,7 @@ The phenomenology of creative problem-solving supports several of the Map's [ten
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/)
 - [agent-causation](/concepts/agent-causation/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [categorical-surprise](/concepts/categorical-surprise/)
 - [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-creative-insight/)

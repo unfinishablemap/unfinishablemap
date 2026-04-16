@@ -52,7 +52,7 @@ related_articles:
 - '[[conscious-vs-unconscious-processing]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[consciousness-as-perceptual-architect]]'
-- '[[phenomenology-of-conceptual-change]]'
+- '[[phenomenology-of-conceptual-frameworks]]'
 - '[[phenomenology-of-returning-attention]]'
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[contemplative-path]]'

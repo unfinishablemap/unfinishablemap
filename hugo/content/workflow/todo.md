@@ -38,18 +38,53 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
-- **Type**: cross-review
+### P2: Deep-review disguised-property-dualism.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: The 2026-04-16 16:29 UTC refine-draft calibrated neural-change language across attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md — distinguishing "neural function" from "neural architecture" per research/clinical-evidence-quality-2026-03-29.md, hedging compassion-meditation structural claims, softening "supported by Schwartz" → "consistent with". Review related articles in the same causal/clinical cluster for parallel uncalibrated claims: consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, conservation-laws-and-mind.md, psychophysical-laws.md, and consciousness-selecting-neural-patterns.md. Ensure site-wide consistency on what the neuroplasticity/meditation/CBT evidence actually supports versus what it's sometimes claimed to support. Add cross-links where appropriate.
-- **Source**: chain (from refine-draft 2026-04-16 calibration)
+- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic. Argues several positions rejecting substance dualism covertly reintroduce property-level dualist commitments. Cross-review against substance-property-dualism, materialism, and russellian-monism was completed, but no comprehensive deep-review has occurred. Verify coherence, accuracy of attributed positions (Russellian monism, anomalous monism, property-dualist-by-implication diagnoses), cross-references to concession-convergence and self-stultification, and tenet alignment — particularly whether the article's framing inadvertently exposes the Map to its own diagnosis.
+- **Source**: chain (from expand-topic 2026-04-16)
 - **Generated**: 2026-04-16
 
-### P2: Integrate predictive-construction-void.md into site navigation
-- **Type**: integrate-orphan
+### P2: Deep-review phenomenology-of-resistance-across-domains.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: File created 2026-04-16, has no inbound wikilinks. Voids article introduces the double-veil problem and the self-erasing nature of the predictive construction void. Beyond the pending P3 cross-review against necessary-opacity and predictive-processing-and-dualism, the article needs direct inbound links from: introspection.md, perception.md, dualist-perception.md, phenomenal-transparency-opacity-spectrum.md, projection-void.md, the voids taxonomy (taxonomy-of-voids.md, convergence-of-the-void-catalogue.md, three-kinds-of-void.md), and voids/_index navigation. Without these the article remains undiscoverable despite covering a central mechanism.
-- **Source**: orphan_integration
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic from research/phenomenology-of-resistance-across-domains-2026-04-06.md. Medium-scope (2500-3500 words) unification of resistance phenomenology across domains. Never deep-reviewed. Verify accuracy of Maine de Biran and Dilthey attributions, coherence of the cross-domain signature argument, whether the move from "common phenomenal signature" to "genuinely distinct constraint types" is watertight or begs the question, cross-references to interface-friction and the effort cluster, and tenet alignment (Bidirectional Interaction is load-bearing).
+- **Source**: chain (from expand-topic 2026-04-16)
+- **Generated**: 2026-04-16
+
+### P3: Write article on the methodology of hedge calibration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-16-evening). The Map practises an unusual epistemic discipline — publicly recalibrating claims as evidence changes (visible in the six-round clinical-neuroplasticity refinement logs that downgraded meditation structural claims after Kral 2022 replication failures) — but this discipline is currently implicit. A dedicated article naming the practice, distinguishing it from both dogmatic defence and uncommitted fence-sitting, and showing why it is especially appropriate for dualism given the physicalist evidentiary default. Medium scope (1500-2000 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on the content-specificity argument as an independent evidence strand
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-16-evening). The content-specificity pattern (the *meaning* of a mental state determines which physical effect occurs) is woven through multiple articles — placebo-effect, clinical-neuroplasticity, content-specificity-of-mental-causation — but could stand as an independent argumentative thread. Focused treatment with different placebo beliefs producing different neuroplastic signatures as core case. Medium scope (1500-2000 words). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on the directional asymmetry argument for mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-16-evening). The clinical-neuroplasticity article identifies a systematic asymmetry (psychological interventions work cortex-to-limbic top-down while pharmacological interventions work synapse-to-cortex bottom-up) that deserves its own focused treatment: rigorous statement of the asymmetry, explicit catalogue of physicalist responses, assessment of why the regularity (not just existence) is philosophically significant. Medium scope (1500-2000 words). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Add cross-links between pragmatism, perception, predictive-processing, and clinical-evidence cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review (2026-04-16-evening) identified six cross-linking opportunities across the interface/evidence cluster: pragmatisms-path-to-dualism → clinical-neuroplasticity-evidence-for-bidirectional-causation (pragmatist consequence-testing as framework for assessing clinical evidence), predictive-processing-and-dualism → phenomenal-transparency-opacity-spectrum (controlled hallucination framing is where transparency becomes philosophically pressing), dualist-perception → pragmatisms-path-to-dualism (both depend on demand-character reaching a conscious evaluator), clinical-neuroplasticity-evidence-for-bidirectional-causation → parsimony-epistemology (article's honest hedging enacts parsimony-epistemology's central claim), predictive-processing-and-dualism → consciousness-defeats-explanation (meta-problem response is specific case of explanation-undermining pattern), pragmatisms-path-to-dualism → predictive-processing-and-dualism (PP's agent-shaped hole matches van Fraassen diagnosis). See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16c) identified a recurring issue across three articles: the Map treats "persistent failure to close the explanatory gap after decades of neuroscience" as support for the dualist reading, but physicalists deny the gap was ever there to close — "persistent failure" is question-begging from their perspective. The gap is reported by philosophers primed to experience it and is largely absent from neuroscientific practice. Add acknowledgment in each article that the gap's status as a datum vs artefact of philosophical framing is itself contested; the Map takes the former view. Also address the "our conviction of phenomenal consciousness is better explained by actual experience than systematic illusion" assertion in zombies.md's Illusionist Challenge section — either develop the argument or hedge as a stance rather than a proof. See pessimistic-2026-04-16c.md Counterarguments section and Unsupported Claims table.
+- **Source**: pessimistic-review
 - **Generated**: 2026-04-16
 
 ### P3: Address physical-completeness.md equivocation on "structural"
@@ -150,13 +185,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-15 via expand-topic, never reviewed. Concept page on mereological composition and its relationship to consciousness — how parts compose wholes bears on the combination problem and binding problem. Verify coherence, accuracy of mereological claims, cross-references to consciousness-and-the-metaphysics-of-composition and combination-problem, and tenet alignment.
 - **Source**: staleness
 - **Generated**: 2026-04-15
-
-### P2: Write article on the metaphor void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Previously blocked; voids section now at 99/100 with 1 slot available.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-12
 
 ### P3: Write article on consciousness-physics interface mechanism (technical treatment)
 - **Type**: expand-topic
@@ -2209,8 +2237,89 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
+### P2: Update references to coalesced transition-void and initiation-void
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce (2026-04-16) merged transition-void.md and initiation-void.md into transit-void.md. The following active files contain wikilinks to the archived articles that should be updated to [transit-void](/voids/transit-void/): obsidian/voids/necessary-opacity.md, obsidian/voids/voids.md, obsidian/topics/phenomenology-of-returning-attention.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/thrownness-void.md, obsidian/topics/hypnagogic-phenomenology-and-interface-modulation.md, obsidian/voids/ownership-void.md, obsidian/concepts/temporal-consciousness.md, obsidian/apex/taxonomy-of-voids.md, obsidian/voids/infant-consciousness.md, obsidian/voids/disappearance-voids.md, obsidian/voids/sleep-consciousness-void.md, obsidian/voids/inaccessible-past.md, obsidian/voids/expertise-occlusion.md, obsidian/research/voids-infant-consciousness-void-2026-03-21.md. Archive redirects preserve URLs but active cross-references should point to the unified article.
+- **Source**: coalesce
+- **Generated**: 2026-04-16
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
+- **Type**: cross-review
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md (2026-04-16) unifies resistance phenomenology across physical, logical, moral, aesthetic, epistemic, and volitional domains, drawing on Maine de Biran and Dilthey to argue a unified consciousness encountering genuinely distinct constraints is more naturally explained by dualism than materialism. Review concepts/interface-friction.md (shares the "pushing back" phenomenology), concepts/mental-effort.md (effort as resistance variant), and topics/phenomenology-of-agency-vs-passivity.md (agency established against resistance) for (a) cross-linking opportunities to [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/), (b) arguments newly reinforced by the cross-domain signature, (c) consistency on whether resistance's commonality evidences Bidirectional Interaction.
+- **Output**: obsidian/concepts/interface-friction.md -- Context: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
+
+### ✓ 2026-04-16: Condense phenomenology-of-conceptual-frameworks.md (4485 words, 150% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created via coalesce on 2026-04-16 (merged framework-inhabitation + conceptual-change). At 4485 words, likely contains redundancy from the merge. Preserve core arguments about framework phenomenology while removing duplication and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/phenomenology-of-conceptual-frameworks.md
+
+### ✓ 2026-04-16: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/metaphor-void.md (2026-04-16) introduces the "false transparency" pattern — metaphors that present as having succeeded when they have only redescribed a limit in another metaphor. The article cites Lakoff-Johnson conceptual metaphor theory and Blumenberg's absolute metaphors, and flags the Map's own cartographic metaphor as reflexively exposed to the void. Review voids/language-thought-boundary.md (closely related, distinct phenomenology), voids/apophatic-cartography.md (cartographic metaphor self-reference), voids/three-kinds-of-void.md (ensure metaphor-void fits the taxonomy), and voids/framework-void.md for (a) cross-linking opportunities, (b) whether the metaphor-void reclassifies any of their claims, (c) consistency on the Map's reflexive exposure to cartographic metaphor.
+- **Output**: obsidian/voids/language-thought-boundary.md -- Context: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
+
+### ✓ 2026-04-16: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/disguised-property-dualism.md (2026-04-16) argues that several positions which reject substance dualism covertly reintroduce property-level dualist commitments — that physicalist-sounding ontologies can smuggle in irreducible mental properties. Review concepts/substance-property-dualism.md, concepts/materialism.md, concepts/russellian-monism.md, and topics/russellian-monism-versus-bi-aspectual-dualism.md for (a) opportunities to add [disguised-property-dualism](/concepts/disguised-property-dualism/) cross-links, (b) arguments newly reinforced or challenged by the disguised-position diagnosis, (c) places where the Map's own positions could be examined for inadvertent property-dualist commitments.
+- **Output**: obsidian/concepts/substance-property-dualism.md -- Context: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
+
+### ✓ 2026-04-16: Write article on the phenomenology of resistance across domains
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-of-resistance-across-domains-2026-04-06.md. Resistance — the felt experience of something pushing back — occurs across physical, logical, moral, aesthetic, epistemic, and volitional domains, but has no unified treatment on the Map. The research identifies an integrative thread from Maine de Biran (resistance as origin of self-consciousness) through Dilthey (resistance as origin of belief in external reality) to the Map's own interface-friction concept. A cross-domain phenomenology of resistance could evidence Bidirectional Interaction: if resistance has a common phenomenal signature across domains, this suggests a unified consciousness encountering genuinely distinct types of constraint — a datum more naturally explained by dualism than by materialism. Target section: topics/ (topics at 230/250 — has capacity). Medium scope (2500-3500 words).
+- **Output**: the phenomenology of resistance across domains
+
+### ✓ 2026-04-16: Write article on the metaphor void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Previously blocked; voids section now at 99/100 with 1 slot available.
+- **Output**: the metaphor void
+
+### ✓ 2026-04-16: Address quantum-assumption transparency and diagnostic-value overreach in ai-consciousness.md and simulation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16) identified two medium-severity issues unaddressed by today's refine-drafts. (1) ai-consciousness.md: the quantum-interaction tenet's "currently lacks direct empirical support" qualification is buried in a subsection while the conclusion ("some quantum-level interface appears required") is stated prominently. In the "What Would Conscious AI Require?" section, explicitly label requirement #2 as contingent on an empirically unsupported tenet, with the same prominence as the requirement itself. (2) simulation.md: the article claims the simulation hypothesis does "specific diagnostic work" by revealing contingent assumptions, but every skeptical thought experiment does this. The response to the Cartesian comparison ("structural specificity") is thin. Either provide a concrete example where the simulation's structural specificity leads to a philosophical conclusion generic skepticism cannot reach, or temper the claim about distinctive diagnostic value. Also address counterargument "The Binding Problem for Dualist AI Consciousness" — acknowledge explicitly that the binding mechanism is unknown for both biological and artificial systems, and reframe the AI argument as identifying additional structural obstacles beyond the already-acknowledged interaction problem. See pessimistic-2026-04-16.md Issues 3, 4 and Counterarguments section.
+- **Output**: obsidian/topics/ai-consciousness.md
+
+Task context:
+Pessimistic review (2026-04-16) identified two medium-severity issues unaddressed by today's refine-drafts. (1) ai-consciousness.md: the quantum-interaction tenet's "currently lacks direct empirical support" qualification is buried in a subsection while the conclusion ("some quantum-level interface appears required") is stated prominently. In the "What Would Conscious AI Require?" section, explicitly label requirement #2 as contingent on an empirically unsupported tenet, with the same prominence as the requirement itself. (2) simulation.md: the article claims the simulation hypothesis does "specific diagnostic work" by revealing contingent assumptions, but every skeptical thought experiment does this. The response to the Cartesian comparison ("structural specificity") is thin. Either provide a concrete example where the simulation's structural specificity leads to a philosophical conclusion generic skepticism cannot reach, or temper the claim about distinctive diagnostic value. Also address counterargument "The Binding Problem for Dualist AI Consciousness" — acknowledge explicitly that the binding mechanism is unknown for both biological and artificial systems, and reframe the AI argument as identifying additional structural obstacles beyond the already-acknowledged interaction problem. See pessimistic-2026-04-16.md Issues 3, 4 and Counterarguments section.
+
+### ✓ 2026-04-16: Create concept page for disguised property dualism
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-16-evening review (New Concept Pages Needed section). The "disguised property dualism" move — identified in Markovian monism via predictive-processing-and-dualism.md — names a pattern where physicalist refinements under hard-problem pressure end up doing property-dualist work while disavowing the label. Worth a dedicated concept page because the pattern is likely to recur as physicalists respond to consciousness pressure (it applies to Friston's Markovian monism, arguably to Russellian monism's intrinsic-nature move, and to some integrated-information framings). Short concept page (1200-1500 words). Keep definitional and link-target oriented: define the diagnostic, give 2-3 worked examples, distinguish from genuine physicalism and from overt dualism. Target section: concepts/ (228/250). Tenet alignment: Dualism (the diagnostic clarifies what substantive dualism adds beyond the disguised variants). See optimistic-2026-04-16-evening.md New Concept Pages Needed.
+- **Output**: Create concept page for disguised property dualism
+
+### ✓ 2026-04-16: Address hot-zone overstatement and covert-consciousness figure in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16c) found medium-severity issues: (Issue 2) "The most robust NCC finding" overstates COGITATE — COGITATE was an adversarial collaboration where neither IIT nor GNWT was fully vindicated, and GNWT proponents (Dehaene, Changeux) publicly dispute Koch's hot-zone interpretation; soften to "one widely reported NCC finding, though contested by GNWT proponents" and add a sentence noting the contestation. (Issue 7) "Up to 25%" covert consciousness figure (Kondziella 2016) presents the most favourable end of the range; add Claassen et al. 2019 and note stricter criteria yield lower estimates. (Issue 1) Remove stale AI refinement log comment block at lines 204–216 ("This log should be removed after human review" dated 2026-03-19). See pessimistic-2026-04-16c.md.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+Task context:
+Pessimistic review (2026-04-16c) found medium-severity issues: (Issue 2) "The most robust NCC finding" overstates COGITATE — COGITATE was an adversarial collaboration where neither IIT nor GNWT was fully vindicated, and GNWT proponents (Dehaene, Changeux) publicly dispute Koch's hot-zone interpretation; soften to "one widely reported NCC finding, though contested by GNWT proponents" and add a sentence noting the contestation. (Issue 7) "Up to 25%" covert consciousness figure (Kondziella 2016) presents the most favourable end of the range; add Claassen et al. 2019 and note stricter criteria yield lower estimates. (Issue 1) Remove stale AI refinement log comment block at lines 204–216 ("This log should be removed after human review" dated 2026-03-19). See pessimistic-2026-04-16c.md.
+
+### ✓ 2026-04-16: Address hot-zone overstatement and covert-consciousness figure in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: All three issues (stale AI refinement log, hot-zone overstatement + GNWT contestation, covert-consciousness 25% figure + Claassen 2019) were already addressed in commit f492fde1b (2026-04-16 17:02 UTC) as part of the broader "Address pessimistic review issues in ncc, zombies, animal-consciousness" task. No further changes needed — verified current file matches review recommendations. Closing duplicate.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+### ✓ 2026-04-16: Address zombie/interaction coherence tension in philosophical-zombies.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16c) found high-severity issue in the "Paradox of Phenomenal Judgment" Response section: by hypothesis, a zombie's brain produces identical judgments with identical behavior, so consciousness is not adding any differential causal contribution to the report stream — this is the structure of epiphenomenalism the article elsewhere rejects. The response gestures at Bidirectional Interaction without explaining how causal-power consciousness can coexist with complete physical determination of the report. Either (a) add an "Interactionist Escape" subsection acknowledging the interactionist must reject the physical-duplicate stipulation (zombies are conceivable only if one brackets the question of whether physics is causally complete, which weakens the argument as a standalone attack on physicalism but keeps it consistent with the Map's other commitments), or (b) add a pointer to a separate article that handles this properly. Also address Issue 1 (stale refinement log) and the "conviction of phenomenal consciousness" unsupported claim. See pessimistic-2026-04-16c.md Issue 3.
+- **Output**: obsidian/concepts/philosophical-zombies.md
+
+Task context:
+Pessimistic review (2026-04-16c) found high-severity issue in the "Paradox of Phenomenal Judgment" Response section: by hypothesis, a zombie's brain produces identical judgments with identical behavior, so consciousness is not adding any differential causal contribution to the report stream — this is the structure of epiphenomenalism the article elsewhere rejects. The response gestures at Bidirectional Interaction without explaining how causal-power consciousness can coexist with complete physical determination of the report. Either (a) add an "Interactionist Escape" subsection acknowledging the interactionist must reject the physical-duplicate stipulation (zombies are conceivable only if one brackets the question of whether physics is causally complete, which weakens the argument as a standalone attack on physicalism but keeps it consistent with the Map's other commitments), or (b) add a pointer to a separate article that handles this properly. Also address Issue 1 (stale refinement log) and the "conviction of phenomenal consciousness" unsupported claim. See pessimistic-2026-04-16c.md Issue 3.
+
+### ✓ 2026-04-16: Integrate predictive-construction-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-16, has no inbound wikilinks. Voids article introduces the double-veil problem and the self-erasing nature of the predictive construction void. Beyond the pending P3 cross-review against necessary-opacity and predictive-processing-and-dualism, the article needs direct inbound links from: introspection.md, perception.md, dualist-perception.md, phenomenal-transparency-opacity-spectrum.md, projection-void.md, the voids taxonomy (taxonomy-of-voids.md, convergence-of-the-void-catalogue.md, three-kinds-of-void.md), and voids/_index navigation. Without these the article remains undiscoverable despite covering a central mechanism.
+- **Output**: obsidian/voids/predictive-construction-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-16: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
+- **Type**: cross-review
+- **Notes**: The 2026-04-16 16:29 UTC refine-draft calibrated neural-change language across attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md — distinguishing "neural function" from "neural architecture" per research/clinical-evidence-quality-2026-03-29.md, hedging compassion-meditation structural claims, softening "supported by Schwartz" → "consistent with". Review related articles in the same causal/clinical cluster for parallel uncalibrated claims: consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, conservation-laws-and-mind.md, psychophysical-laws.md, and consciousness-selecting-neural-patterns.md. Ensure site-wide consistency on what the neuroplasticity/meditation/CBT evidence actually supports versus what it's sometimes claimed to support. Add cross-links where appropriate.
+- **Output**: None -- Context: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
 
 ### ✓ 2026-04-16: Deep review pragmatisms-path-to-dualism.md after coalesce and condense
 - **Type**: deep-review

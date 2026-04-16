@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [The Phenomenology of Conceptual Change](/topics/phenomenology-of-conceptual-change/)
+**Article**: [The Phenomenology of Conceptual Change](/topics/phenomenology-of-conceptual-frameworks/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

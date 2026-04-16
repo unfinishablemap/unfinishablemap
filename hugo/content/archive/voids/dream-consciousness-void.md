@@ -65,7 +65,7 @@ The dream consciousness void combines features of all [three void categories](/v
 - We cannot maintain full waking cognition within dreams—dorsolateral prefrontal cortex deactivation during REM is systematic, not contingent
 - We cannot experience "dream logic" with waking insight simultaneously; the two modes are mutually exclusive
 
-**Occluded dimension.** The [transition between states](/voids/transition-void/) systematically erases content:
+**Occluded dimension.** The [transition between states](/voids/transit-void/) systematically erases content:
 - Dream memories fade rapidly upon waking, faster than ordinary memory decay
 - The "depersonalized" quality of dreams (what Merleau-Ponty identified) may be actively incompatible with waking self-models
 - Dream logic that seemed meaningful becomes incoherent when translated—not gradually, but in the act of reaching for it

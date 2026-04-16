@@ -34,7 +34,7 @@ topics: []
 
 ### Medium Issues Found
 
-1. **Research note link instead of published article**: The article linked to `[voids-transition-void-2026-03-05](/research/voids-transition-void-2026-03-05/)` (a research note) rather than `[transition-void](/voids/transition-void/)` (the published voids article). **Resolution**: Updated to link to the published article.
+1. **Research note link instead of published article**: The article linked to `[voids-transition-void-2026-03-05](/research/voids-transition-void-2026-03-05/)` (a research note) rather than `[transition-void](/voids/transit-void/)` (the published voids article). **Resolution**: Updated to link to the published article.
 
 2. **Missing inbound cross-links**: Six related articles discussed hypnagogic topics without linking to this article. **Resolution**: Added cross-links from sleep-and-consciousness, altered-states-of-consciousness, witness-consciousness, filter-theory, loss-of-consciousness, and incubation-effect-and-unconscious-processing.
 

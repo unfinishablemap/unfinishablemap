@@ -66,7 +66,7 @@ topics: []
 ### Cross-links Added
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) (related_articles + inline in Meta-Evidence)
 - [argument-from-reason](/topics/argument-from-reason/) (related_articles + inline in Bidirectional Interaction)
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) (related_articles + inline in Reorganisation)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/) (related_articles + inline in Reorganisation)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) (related_articles + Further Reading)
 - [phenomenology-of-theoretical-commitment](/topics/phenomenology-of-framework-inhabitation/) (related_articles + Further Reading)
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) (related_articles + inline in Bootstrap Problem)

@@ -79,7 +79,7 @@ What does it feel like to approach this void?
 
 **Varying felt connection**: The phenomenology of remembering includes degrees of connection—sometimes the past self feels like "me," sometimes like a stranger. The same memory can feel owned and alien simultaneously. Direct access wouldn't vary this way; reconstruction explains the variability.
 
-**Memory confidence masking the void**: We typically feel we're accessing the past, not constructing it. The reconstructive nature is usually invisible—the void is masked by successful indirection. We confuse the vividness of reconstruction with the directness of access. The [transition-void](/voids/transition-void/) identifies the same pattern for state transitions: we construct narratives of gradual change ("I slowly drifted off," "I gradually realised I was upset") that impose continuity on what may have been discontinuous jumps.
+**Memory confidence masking the void**: We typically feel we're accessing the past, not constructing it. The reconstructive nature is usually invisible—the void is masked by successful indirection. We confuse the vividness of reconstruction with the directness of access. The [transition-void](/voids/transit-void/) identifies the same pattern for state transitions: we construct narratives of gradual change ("I slowly drifted off," "I gradually realised I was upset") that impose continuity on what may have been discontinuous jumps.
 
 ## Why the Void Is Structural
 

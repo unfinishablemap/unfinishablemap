@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -181,6 +181,7 @@ The Map's [tenets](/tenets/) find their sharpest expression in perception.
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — Cross-modal binding and phenomenal unity
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Enactivist perception and the interface model
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing through a dualist lens
+- [predictive-construction-void](/voids/predictive-construction-void/) — Why consciousness cannot determine the construction/reception boundary in perception
 - [capability-division-problem](/voids/capability-division-problem/) — Separating brain-side and mind-side capabilities
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — Vision-specific evidence constraining the brain/mind boundary
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What degraded perception reveals about the interface

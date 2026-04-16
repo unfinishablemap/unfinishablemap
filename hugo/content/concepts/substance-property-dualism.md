@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-01 13:39:00+00:00
+ai_modified: 2026-04-16 20:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[qualia]]'
 - '[[concepts/materialism]]'
 - '[[russellian-monism]]'
+- '[[disguised-property-dualism]]'
 - '[[pairing-problem]]'
 - '[[quantum-consciousness]]'
 - '[[illusionism]]'
@@ -28,7 +29,7 @@ description: 'Two forms of dualism: separate mental substances versus irreducibl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 13:39:00+00:00
+last_deep_review: 2026-04-16 20:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -81,7 +82,7 @@ Unlike substance dualism, property dualism doesn't posit a separate mental subst
 
 **[Russellian monism](/concepts/russellian-monism/)** (some classify this as property dualism) holds that physics describes only the *relational* or *dispositional* properties of matter—what things do, not what they are intrinsically. Consciousness might be (or be grounded in) the intrinsic nature of physical reality that physics doesn't capture. This makes phenomenal properties more fundamental than physical properties, while preserving a single underlying reality.
 
-However, critics argue that Russellian monism inherits dualism's core difficulties. Pautz (2019) contends that it requires brute "grounding laws" connecting quiddities (intrinsic properties) to consciousness—structurally parallel to the brute psychophysical laws dualism posits: "Though called a physicalist view, it seems to have many of the vices of dualism." Russellian monism claims to avoid dualism's interaction problem by making consciousness "part of" physical reality, but the integration remains schematic. The Map's explicit dualism with its quantum interaction mechanism offers clearer theoretical content.
+However, critics argue that Russellian monism inherits dualism's core difficulties. Pautz (2019) contends that it requires brute "grounding laws" connecting quiddities (intrinsic properties) to consciousness—structurally parallel to the brute psychophysical laws dualism posits: "Though called a physicalist view, it seems to have many of the vices of dualism." The Map names this pattern—two irreducible structures retained while the dualist label is disavowed—[disguised-property-dualism](/concepts/disguised-property-dualism/): a theory doing property-dualist work without paying its conceptual rent. The Map's explicit dualism with its quantum interaction mechanism accepts the structural commitment openly.
 
 **Emergent dualism** holds that mental properties [emerge](/concepts/emergence/) from physical complexity in ways that cannot be predicted or explained from physical theory alone. The [emergence](/concepts/emergence/) is ontological, not merely epistemic—mental properties are genuinely novel additions when complex systems arise.
 
@@ -222,6 +223,7 @@ The substance/property distinction matters less than it might seem for the Map's
 ## Further Reading
 
 - [russellian-monism](/concepts/russellian-monism/) — A sophisticated middle position that may be dualism under another name
+- [disguised-property-dualism](/concepts/disguised-property-dualism/) — The diagnostic for physicalist theories doing dualist work while disavowing the label
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's position combining dualism with causal interaction
 - [pairing-problem](/concepts/pairing-problem/) — Kim's challenge to substance dualism that property dualism avoids
 - [materialism](/concepts/materialism/) — The view both dualist positions reject

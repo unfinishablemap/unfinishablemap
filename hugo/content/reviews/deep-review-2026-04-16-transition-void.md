@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-16
-**Article**: [The Transition Void](/voids/transition-void/)
+**Article**: [The Transition Void](/voids/transit-void/)
 **Previous review**: [2026-03-08](/reviews/deep-review-2026-03-08-transition-void/)
 
 ## Pessimistic Analysis Summary

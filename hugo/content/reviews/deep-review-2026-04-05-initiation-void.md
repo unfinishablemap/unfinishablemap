@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-05
-**Article**: [The Initiation Void](/voids/initiation-void/)
+**Article**: [The Initiation Void](/voids/transit-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

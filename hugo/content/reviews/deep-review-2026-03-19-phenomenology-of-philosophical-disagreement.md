@@ -54,7 +54,7 @@ None. The article is in strong shape after the previous review's improvements.
 - Added both articles to frontmatter related_articles and Further Reading section
 
 ### Cross-links Added
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
 
 ## Remaining Items

@@ -106,7 +106,7 @@ The Map itself embodies the kind of progress available in this domain: not conve
 - [consciousness-and-the-philosophy-of-explanation](/topics/consciousness-and-the-limits-of-explanation/)
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
-- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/)
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)

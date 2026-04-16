@@ -55,7 +55,7 @@ Seven existing articles now link to this previously orphaned article:
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Added inline reference in Generation-Through-Selection section + Further Reading
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — Added inline reference in Theory Choice section + Further Reading
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Added inline reference in Abstract thought subsection + Further Reading
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — Added inline reference in opening (Kuhn paragraph) + Further Reading
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/) — Added inline reference in opening (Kuhn paragraph) + Further Reading
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Added inline reference in Sudden Insight section + Further Reading
 
 ## Remaining Items

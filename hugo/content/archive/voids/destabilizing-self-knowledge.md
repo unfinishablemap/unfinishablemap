@@ -191,7 +191,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural inaccessibility
 - [The Transparency Void](/voids/necessary-opacity/) — Consciousness cannot verify its own representations
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Introspection lacks independent calibration standards
-- [The Transition Void](/voids/transition-void/) — Consciousness cannot witness its own state transitions
+- [The Transition Void](/voids/transit-void/) — Consciousness cannot witness its own state transitions
 
 ## References
 

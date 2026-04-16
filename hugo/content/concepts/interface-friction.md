@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-04-16 21:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,22 +23,26 @@ description: Interface friction is the resistance consciousness encounters when 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 08:37:00+00:00
+last_deep_review: 2026-04-16 21:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[causal-interface]]'
 - '[[embodied-consciousness]]'
+- '[[phenomenology-of-agency-vs-passivity]]'
 title: Interface Friction
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
+- '[[phenomenology-of-resistance-across-domains]]'
 ---
 
 Interface friction is the resistance consciousness encounters when operating through the brain. If The Unfinishable Map's [two-layer architecture](/concepts/mind-matter-interface/) is correct—consciousness exists independently and acts through a neural interface—then that interface imposes costs. Selections take effort. Bandwidth is narrow. Intentions lose precision as they cross from mental to physical. Interface friction names these costs collectively: the gap between what consciousness intends and what the brain delivers.
 
 This concept matters because friction, if the dualist framework is correct, would be diagnostic. The specific ways the interface resists would reveal its structure, just as drag on a tool reveals properties of the material it cuts. An important caveat: the phenomena interface friction describes—attentional limits, motor error, cognitive load—are already explained by neuroscience as neural processing constraints. Interface friction does not generate empirically distinguishable predictions beyond standard models. Its value is interpretive: it organises familiar phenomena under a dualist ontology, offering a different *explanation* for *why* these constraints have the structure they do, rather than discovering constraints that neuroscience has missed.
+
+Interface friction is, on the Map's reading, the mind-brain instance of a more general pattern. The [phenomenology of resistance across domains](/topics/phenomenology-of-resistance-across-domains/) argues that directed consciousness meets constraint not only in motor action through the neural interface, but also in logic, moral deliberation, imagination, belief revision, and skilled craft. Each domain exhibits the same signature—directedness-against-constraint, graded yielding, sustained temporality—with different objects. Interface friction names the mind-brain variant; it does not float free of that broader structure.
 
 ## Sources of Friction
 
@@ -46,7 +50,7 @@ Interface friction arises from at least four distinct sources, each operating at
 
 ### Bandwidth Limitation
 
-Conscious processing operates at roughly 10–50 bits per second—depending on modality and task—while the brain handles on the order of 10⁹ bits per second (Zimmermann 1986; Norretranders 1998). These estimates are widely cited but date from the 1980s–90s; more recent work questions both the measurement methodology and whether "bits per second" is the right metric for conscious throughput. The rough magnitude of the gap, however, is not seriously disputed. This [bandwidth constraint](/topics/bandwidth-of-consciousness/) is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
+Conscious processing operates at roughly 10–50 bits per second—depending on modality and task—while the brain handles on the order of 10⁹ bits per second (Zimmermann 1986; Norretranders 1998). These estimates are widely cited but date from the 1980s–90s. Zheng and Meister (2024) revisit the question with modern behavioural data and converge on roughly 10 bits per second for human behavioural throughput, reinforcing the order-of-magnitude gap while tightening the central estimate. Whether "bits per second" is the right metric for conscious throughput remains contested, but the rough magnitude of the gap is not seriously disputed. This [bandwidth constraint](/topics/bandwidth-of-consciousness/) is the most fundamental source of friction. Consciousness cannot address the brain's full computational output—it selects among prepared options through a channel seven orders of magnitude narrower than the brain's internal processing.
 
 The bandwidth limitation means consciousness operates at the policy level, not the neuron level. "Reach for the cup" rather than "fire motor neuron N₄₅₆₇₈." Every conscious intention must be translated into neural implementation details that consciousness cannot directly specify. This translation introduces friction—the gap between the coarse grain of intention and the fine grain of neural execution.
 
@@ -126,6 +130,8 @@ The filter model also generates a distinctive prediction: reduced neural constra
 - [causal-interface](/voids/causal-interface/) — The void at the heart of the interface
 - [decoherence](/concepts/decoherence/) — The quantum coherence challenge as friction source
 - [filter-theory](/concepts/filter-theory/) — The filter model where friction has its natural home
+- [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/) — The broader pattern of which interface friction is one instance
+- [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Where friction's phenomenology sits on the basic agency axis
 
 ## References
 
@@ -135,20 +141,18 @@ The filter model also generates a distinctive prediction: reduced neural constra
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194–4206.
+1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.
 
-<!-- AI REFINEMENT LOG - 2026-04-16 (second pass)
-Changes made:
-- Opening paragraph: Reframed interface friction from predictive ("predicts a distinctive pattern") to interpretive ("organises familiar phenomena under a dualist ontology"). Explicitly stated it generates no empirically distinguishable predictions beyond standard models.
-- "Friction as Diagnostic" section renamed to "Friction as Interpretive Framework" with honest epistemic framing.
-- "What Resists" subsection: Added explicit acknowledgment that neuroscience already explains automatic/controlled processing distinction; interface friction offers an alternative ontological account, not a rival empirical one. Cross-referenced Pathological Friction challenge.
-- Coupling imprecision: Changed bare assertion ("not random noise") to qualified dualist interpretation ("on the dualist account").
-- Filter model section: Strengthened physicalist counterargument before presenting filter interpretation. Added explicit acknowledgment that whether the dualist "why" adds explanatory value is the central open question.
-- Psychedelic evidence: Weakened from "partial support" to "suggestive"; added note about interpretive difficulty of subjective reports.
-- Bandwidth estimates: Acknowledged that Zimmermann/Norretranders figures are decades old and methodology is questioned, while noting the rough magnitude is not disputed.
+<!-- AI REFINEMENT LOG - 2026-04-16 (deep review, third pass)
+Changes made in this pass (cross-review with mental-effort, phenomenology-of-agency-vs-passivity, and phenomenology-of-resistance-across-domains):
+- Added a paragraph to the opening framing situating interface friction as the mind-brain instance of the broader resistance pattern surveyed in phenomenology-of-resistance-across-domains. Resolves a one-way cross-link inconsistency: the resistance article positions interface friction as one of six domains, but interface-friction did not reciprocate.
+- Frontmatter: added phenomenology-of-resistance-across-domains to topics; added phenomenology-of-agency-vs-passivity to related_articles.
+- Further Reading: added both new cross-links.
+- Bandwidth section: added Zheng & Meister (2024) citation for the modern ~10 bits/s figure (consistent with mental-effort.md which cites the same source). Kept the Zimmermann/Norretranders classics plus the methodological caveat.
+- References: added Zheng & Meister 2024.
 
-Based on pessimistic review pessimistic-2026-04-16b Issues 1 and 4.
-Key improvements: Pervasive epistemic honesty — the article now consistently frames interface friction as a metaphysical reinterpretation rather than an empirical competitor to neuroscience.
+Prior pass (earlier 2026-04-16): epistemic reframing from predictive to interpretive. Prior deep reviews (2026-02-20, 2026-03-19): bandwidth/Zeno tension, No Many Worlds tenet, citations, Stapp date correction. No critical issues found in this pass — article remains at stability.
 
 This log should be removed after human review.
 -->

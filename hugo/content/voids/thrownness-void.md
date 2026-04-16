@@ -66,7 +66,7 @@ Consent requires an existing agent. You cannot consent to your own existence bec
 
 ### The Amnesia Structure
 
-The thrownness void has a distinctive temporal structure that distinguishes it from ordinary forgetting. It is not that we once knew something and lost it. There was never a knower present to know. The gap is not amnesia but the absence of a subject who could have formed a memory. This places the void deeper than the [initiation void](/voids/initiation-void/) (where consciousness cannot witness the onset of individual mental acts) — here, consciousness cannot witness its own onset as such.
+The thrownness void has a distinctive temporal structure that distinguishes it from ordinary forgetting. It is not that we once knew something and lost it. There was never a knower present to know. The gap is not amnesia but the absence of a subject who could have formed a memory. This places the void deeper than the [initiation void](/voids/transit-void/) (where consciousness cannot witness the onset of individual mental acts) — here, consciousness cannot witness its own onset as such.
 
 ## Phenomenology of the Void
 
@@ -105,7 +105,7 @@ The thrownness void gains its sharpest edge under the Map's [dualist framework](
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all
 - [The Indexical Void](/voids/indexical-void/) — Why first-person identity resists explanation
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot opt out of itself
-- [The Initiation Void](/voids/initiation-void/) — Why consciousness cannot witness the onset of mental acts
+- [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of mental acts
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
 

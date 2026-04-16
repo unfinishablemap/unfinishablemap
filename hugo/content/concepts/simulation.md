@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-04-06 07:57:00+00:00
+ai_modified: 2026-04-16 19:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -156,7 +156,9 @@ What it cannot do: it doesn't explain consciousness (relocating the mystery is n
 
 A natural objection: doesn't the simulation hypothesis merely repackage Descartes' evil demon? Both scenarios suggest our metaphysical assumptions might be wrong—so what does simulation add?
 
-The difference is structural specificity. Cartesian skepticism and brain-in-a-vat scenarios are purely destructive—they question whether our beliefs are justified but provide no alternative architecture. They say "everything might be wrong" without specifying *how* it could be otherwise. The simulation hypothesis proposes a definite alternative structure: computational substrate, interface layers, design choices. This specificity is what allows it to target particular assumptions rather than undermining all assumptions equally. A Cartesian demon could deceive us about anything, which is precisely why demon scenarios lack diagnostic power. The simulation hypothesis identifies which features of physics would be implementation choices (spatial relationships, causal closure) and which would persist regardless of substrate (logical structure, mathematical truths).
+The difference is structural specificity, and it yields a conclusion generic skepticism cannot reach: a *sorting* of assumptions into contingent and robust. Cartesian skepticism and brain-in-a-vat scenarios are purely destructive—they say "everything might be wrong" without specifying *how* it could be otherwise. A Cartesian demon could deceive us about anything, including logic and mathematics, which is precisely why demon scenarios lack diagnostic power. Every belief becomes equally suspect and no internal differentiation is possible.
+
+A concrete case shows what the simulation move adds. The [locality](/concepts/locality/) objection to mind-matter interaction presupposes that spatial distance is a fundamental barrier information must cross. Under simulation, spatial relationships are represented data and locality becomes an implementation choice; under Cartesian skepticism, locality might be wrong but so might logic, so the reasoning used to deploy the objection is also undermined and no conclusion survives. The simulation hypothesis lets us say: *this* particular feature (locality) is the kind of thing a substrate could vary, while *that* feature (the inferential structure of the argument itself) is not. The Cartesian demon cannot draw this line because it has no constraints. The simulation hypothesis therefore identifies which features of physics would be implementation choices (spatial relationships, causal closure, single quantum outcomes) and which would persist regardless of substrate (logical structure, mathematical truths)—a differentiation generic skepticism cannot perform.
 
 ## The Illusionist Challenge
 
@@ -207,3 +209,13 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 
 1. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 1. Chalmers, D. (2022). *Reality+: Virtual Worlds and the Problems of Philosophy*. W.W. Norton.
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- "Distinguishing From Cartesian Skepticism" section: added a concrete example showing what the simulation hypothesis's structural specificity does that generic skepticism cannot—namely, *sort* assumptions into contingent (locality, causal closure, single outcomes) and robust (logic, mathematics). Uses the locality objection as worked case: simulation treats spatial distance as implementation choice while preserving the inferential structure of the argument itself, whereas Cartesian skepticism collapses both equally and therefore survives no conclusion.
+- Added explicit claim that the conclusion reached ("sorting of assumptions") is one generic skepticism cannot reach.
+
+Based on pessimistic review (pessimistic-2026-04-16.md) Issue #4: "the article's response to the Cartesian comparison ('structural specificity') is thin." The recommendation was either to provide a concrete example or temper the claim; this refinement takes the first option.
+
+This log should be removed after human review.
+-->

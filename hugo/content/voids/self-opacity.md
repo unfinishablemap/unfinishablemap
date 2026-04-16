@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -153,6 +153,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — How cognitive limits are preconditions for meaning
 - [Necessary Opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
+- [The Predictive Construction Void](/voids/predictive-construction-void/) — Why consciousness cannot audit the ratio of construction to reception in its own perception
 - [The Narrative Void](/voids/narrative-void/) — How consciousness constructs self-stories it cannot audit
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [Free Will](/topics/free-will/) — The broader context for questions of agency

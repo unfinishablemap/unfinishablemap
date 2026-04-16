@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -102,6 +102,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [The Explanatory Void](/voids/explanatory-void/) — When the feeling of understanding substitutes for understanding itself
 - [self-opacity](/voids/self-opacity/) — Consciousness cannot fully know itself
 - [Necessary Opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and this opacity is structural
+- [The Predictive Construction Void](/voids/predictive-construction-void/) — How successful prediction manufactures the very feeling of self-evidence that this void describes
 - [Cognitive Aversion](/voids/defended-territory/) — Thoughts we systematically flee
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — The cognitive bias behind Occam's Razor
 - [Defended Territory](/voids/defended-territory/) — Whether some thoughts are actively blocked

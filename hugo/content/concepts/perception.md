@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -117,6 +117,7 @@ Perception is where the Map's [tenets](/tenets/) find their most concrete applic
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — The four failure signatures as evidence for a transmission channel
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Asymmetric perceptual editing as evidence of a conscious recipient
 - [predictive-processing](/concepts/predictive-processing/) — Perception as hierarchical Bayesian inference
+- [predictive-construction-void](/voids/predictive-construction-void/) — Why the boundary between what perception constructs and what it receives is structurally unknowable
 
 ## References
 

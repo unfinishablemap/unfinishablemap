@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-14
-**Article**: [The Phenomenology of Framework Inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+**Article**: [The Phenomenology of Framework Inhabitation](/topics/phenomenology-of-conceptual-frameworks/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

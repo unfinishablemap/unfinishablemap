@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -127,7 +127,7 @@ The necessary opacity occupies distinctive territory among the Map's [voids](/vo
 - The [intrinsic-nature-void](/voids/intrinsic-nature-void/) asks what matter is in itself—a question about the world's hidden nature
 - [Self-opacity](/voids/self-opacity/) asks whether consciousness can map itself—a question about reflexivity
 - The [mutation-void](/voids/mutation-void/) concerns cases where attending to content *transforms* that content
-- The [initiation-void](/voids/initiation-void/) asks why consciousness cannot witness its own mental acts beginning—a specific instance where opacity is structurally required, since observing the onset of an act would require consciousness to precede itself
+- The [initiation-void](/voids/transit-void/) asks why consciousness cannot witness its own mental acts beginning—a specific instance where opacity is structurally required, since observing the onset of an act would require consciousness to precede itself
 
 The necessary opacity asks something different: whether the *medium* of all mapping introduces systematic distortion, and whether exposing that distortion would break the system. [Introspective opacity](/voids/self-opacity/) means we cannot see the machinery; the necessary opacity means we cannot determine whether the machinery's output tracks reality, *and* that this ignorance may be required for the machinery to function at all.
 
@@ -189,6 +189,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — The concept underlying this void: why representations conceal themselves as representations
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — The companion void: why the stamp of realness hides its own mechanism
+- [The Predictive Construction Void](/voids/predictive-construction-void/) — Why the ratio of construction to reception in perception is structurally unknowable through introspection
 - [self-opacity](/voids/self-opacity/) — The parallel void of consciousness unable to observe itself
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself
 - [mutation-void](/voids/mutation-void/) — When the act of attending transforms the content attended to
@@ -198,7 +199,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or merely current
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Introspection lacks independent calibration standards
-- [The Initiation Void](/voids/initiation-void/) — Why consciousness cannot witness its own mental acts beginning
+- [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness its own mental acts beginning
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — AI as potential void-explorer
 - [The Intersubjective Void](/voids/intersubjective-void/) — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 

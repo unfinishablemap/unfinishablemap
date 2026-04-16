@@ -108,7 +108,7 @@ The infant consciousness void connects to all five of the Map's [tenets](/tenets
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [other-minds-void](/voids/other-minds-void/)
 - [synesthetic-void](/voids/synesthetic-void/)
-- [transition-void](/voids/transition-void/)
+- [transition-void](/voids/transit-void/)
 - [indexical-void](/voids/indexical-void/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [consciousness threshold in cognitive evolution](/topics/consciousness-and-cognitive-distinctiveness/) — The cross-species analogue: evolutionary phase transitions in how consciousness interfaces with neural architecture

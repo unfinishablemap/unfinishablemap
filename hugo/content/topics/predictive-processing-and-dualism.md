@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -143,6 +143,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 ## Further Reading
 
 - [predictive-processing](/concepts/predictive-processing/) — The core concept: brain as prediction engine
+- [predictive-construction-void](/voids/predictive-construction-void/) — Why the ratio of construction to reception in perception is structurally unknowable, and how the Markov blanket compounds the dualist subject's epistemic isolation
 - [attention-as-interface](/concepts/attention-as-interface/) — Precision weighting as the causal bridge
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Attention and motor planning as unified selection
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) — What prediction error feels like

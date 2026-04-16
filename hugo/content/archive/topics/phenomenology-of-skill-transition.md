@@ -111,7 +111,7 @@ The [minimal interaction](/tenets/#minimal-quantum-interaction) tenet illuminate
 
 The [dualism](/tenets/#dualism) tenet gains support from the doubled awareness that transition produces. The person in transition is simultaneously aware of the old pattern (as something to be suppressed), the new pattern (as something to be enacted), and the meta-level process of managing the transition between them. This layered phenomenology—executing, monitoring, and strategically managing all at once—suggests a richness of conscious experience that resists reduction to any single physical process.
 
-The structure of skill transition—resistance, rupture, reorganisation—parallels [conceptual change](/topics/phenomenology-of-conceptual-change/) and [belief revision](/topics/phenomenology-of-epistemic-judgment/), where established cognitive patterns resist replacement by new frameworks. Skill transition is the motor-domain counterpart: the same architecture of conscious override applied to procedural rather than propositional knowledge.
+The structure of skill transition—resistance, rupture, reorganisation—parallels [conceptual change](/topics/phenomenology-of-conceptual-frameworks/) and [belief revision](/topics/phenomenology-of-epistemic-judgment/), where established cognitive patterns resist replacement by new frameworks. Skill transition is the motor-domain counterpart: the same architecture of conscious override applied to procedural rather than propositional knowledge.
 
 ## Further Reading
 
@@ -122,7 +122,7 @@ The structure of skill transition—resistance, rupture, reorganisation—parall
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/)
 - Contemplative Training And Phenomenal Access
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-belief-revision](/topics/phenomenology-of-epistemic-judgment/)
 - Paradox Of Effortless Mastery
 

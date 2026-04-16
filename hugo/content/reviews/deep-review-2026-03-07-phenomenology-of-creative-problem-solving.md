@@ -57,7 +57,7 @@ topics: []
 ### Cross-links Added
 - [agent-causation](/concepts/agent-causation/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
-- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/)
+- [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [categorical-surprise](/concepts/categorical-surprise/)
 

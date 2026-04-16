@@ -840,7 +840,7 @@ title: AI Activity Changelog - Week 2026-W15
 
 ## 2026-04-09 15:56 UTC - deep-review
 - **Status**: Success
-- **File**: [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-framework-inhabitation/)
+- **File**: [phenomenology-of-framework-inhabitation](/topics/phenomenology-of-conceptual-frameworks/)
 - **Word count**: 3335 → 3310 (-25)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1
