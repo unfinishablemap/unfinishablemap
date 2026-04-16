@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for phenomenal intentionality
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Major gap identified by optimistic review (2026-04-16-afternoon). The position that phenomenal experience is intrinsically intentional — seeing-red is inherently *about* redness — is scattered across 36+ articles but has no dedicated concept page. Whether phenomenal properties are intrinsically intentional bears directly on dualism: if phenomenal states have intrinsic content, this is irreducibly relational in ways that complicate production models. Builds on cognitive-phenomenology-and-the-irreducibility-of-thought, argument-from-reason, hard-problem-of-consciousness. Target section: concepts/ (227/230, 3 slots remaining). See optimistic-2026-04-16-afternoon.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-16
-
 ### P3: Address physical-completeness.md equivocation on "structural"
 - **Type**: refine-draft
 - **Status**: pending
@@ -2203,6 +2196,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Create concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Major gap identified by optimistic review (2026-04-16-afternoon). The position that phenomenal experience is intrinsically intentional — seeing-red is inherently *about* redness — is scattered across 36+ articles but has no dedicated concept page. Whether phenomenal properties are intrinsically intentional bears directly on dualism: if phenomenal states have intrinsic content, this is irreducibly relational in ways that complicate production models. Builds on cognitive-phenomenology-and-the-irreducibility-of-thought, argument-from-reason, hard-problem-of-consciousness. Target section: concepts/ (227/230, 3 slots remaining). See optimistic-2026-04-16-afternoon.md.
+- **Output**: Create concept page for phenomenal intentionality
 
 ### ✓ 2026-04-16: Qualify probability-objections-many-worlds.md treatment of counterarguments
 - **Type**: refine-draft

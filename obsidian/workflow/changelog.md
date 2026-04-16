@@ -5,6 +5,11 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 14:28 UTC - expand-topic
+- **Status**: Skipped
+- **Topic**: phenomenal intentionality
+- **Reason**: A dedicated concepts/phenomenal-intentionality.md previously existed and was coalesced into concepts/intentionality.md (coalesced_from field confirms). The current intentionality.md already has comprehensive PIT coverage (content determinacy argument, three PIT versions, cognitive phenomenology connection, objections/responses, AI implications). Archived original at archive/concepts/phenomenal-intentionality.md. Re-creating would reverse a prior coalesce and duplicate existing content.
+
 ## 2026-04-16 14:14 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-integration-and-the-self]]
