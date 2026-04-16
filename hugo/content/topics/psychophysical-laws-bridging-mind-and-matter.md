@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-07
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-16 08:06:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,6 +25,8 @@ concepts:
 - '[[causal-closure]]'
 - '[[bandwidth-problem-mental-causation]]'
 - '[[mysterianism]]'
+- '[[post-decoherence-selection]]'
+- '[[tenet-falsification-conditions]]'
 created: 2026-01-26
 date: &id001 2026-02-07
 description: If consciousness is distinct from physics, fundamental laws must connect
@@ -33,7 +35,7 @@ description: If consciousness is distinct from physics, fundamental laws must co
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 04:33:00+00:00
+last_deep_review: 2026-04-16 08:06:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -143,7 +145,7 @@ The quantum Zeno effect provides amplification: rapid repeated observation preve
 
 **The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 
-**The post-decoherence concession**: If the Zeno mechanism fails at neural timescales, one fallback relocates consciousness's role to the point of outcome determination after decoherence has already selected preferred bases—consciousness biases which possible outcome becomes actual. This is a significant retreat: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three candidate discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the replacement does not yet generate discriminating predictions.
+**The post-decoherence concession**: If the Zeno mechanism fails at neural timescales, one fallback relocates consciousness's role to outcome determination after decoherence has already selected preferred bases—consciousness biases which possible outcome becomes actual (see [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/) for the full treatment). This is a significant retreat: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three candidate discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the replacement does not yet generate discriminating predictions.
 
 ### Eccles' Intention as Quantum Tunneling Probability
 
@@ -167,9 +169,9 @@ John Eccles (1994), with quantum mechanics developed alongside Friedrich Beck, p
 
 Any quantum approach faces the objection that warm biological systems destroy quantum coherence in femtoseconds—far too fast for neural processes at millisecond timescales. Three considerations moderate this concern:
 
-**Disputed timescales.** Tegmark's (2000) influential calculations remain accepted by most physicists. However, Hagan, Hameroff and Tuszyński (2002) challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters, obtaining coherence times several orders of magnitude longer. The debate is ongoing; categorical dismissal is premature.
+**Disputed timescales.** Tegmark's (2000) calculations remain widely accepted. However, Hagan, Hameroff and Tuszyński (2002) challenged specific assumptions—arguing Tegmark modelled the wrong physical system and used unrealistic thermal parameters, obtaining coherence times several orders of magnitude longer. The debate is ongoing.
 
-**Biological quantum effects exist.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence for energy transfer. Evolution has found ways to harness quantum effects in biology.
+**Biological quantum effects exist.** Avian magnetoreception maintains spin coherence for microseconds in warm tissue. Photosynthesis exploits quantum coherence for energy transfer.
 
 **Decoherence doesn't solve the measurement problem.** Even after preferred bases are selected through environmental interaction, something must determine *which* outcome occurs. Physics provides probability distributions without explaining why *this* particular result actualizes. That gap remains.
 
@@ -212,7 +214,7 @@ The psychophysical laws framework is where the Map's [tenets](/tenets/) become t
 
 ## What Would Challenge This View?
 
-The framework would face serious difficulty if:
+The framework would face serious difficulty if (see also [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/) for the broader falsification landscape):
 
 1. **The hard problem dissolves.** A fully satisfying explanation of why we *believe* we have phenomenal experiences without invoking phenomenal properties would eliminate the motivation for psychophysical laws. Current illusionist proposals face the regress problem, but a proposal that genuinely avoided it would challenge the framework.
 
@@ -238,10 +240,11 @@ The framework would face serious difficulty if:
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical position requiring bidirectional laws
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum frameworks providing selection pathways
-- [decoherence](/concepts/decoherence/) — The physics objection and biological quantum effects
 - [mysterianism](/concepts/mysterianism/) — Whether consciousness may be cognitively closed to human understanding
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's inseparable phenomenal-causal character as evidence for coupling
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — The formal structure a coupling law would need
+- [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/) — How consciousness could select among already-decohered outcomes
+- [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/) — What it would take to abandon the Map's foundational commitments
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why selection without energy injection is consistent with conservation
 - [causal-closure](/concepts/causal-closure/) — The exclusion argument and quantum indeterminacy's opening
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — How coarse-grained consciousness produces fine-grained effects

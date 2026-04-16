@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix 8 broken wikilinks to [[epiphenomenalism-argument]]
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 8 content files link to [[epiphenomenalism-argument]] but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [[epiphenomenalism]] or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-16
-
 ### P3: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2154,6 +2147,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Fix 8 broken wikilinks to [[epiphenomenalism-argument]]
+- **Type**: refine-draft
+- **Notes**: 8 content files link to [[epiphenomenalism-argument]] but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [[epiphenomenalism]] or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
+- **Output**: Task context:
+8 content files link to [[epiphenomenalism-argument]] but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [[epiphenomenalism]] or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
 
 ### ✓ 2026-04-16: Fix 19 broken wikilinks to [[many-worlds-argument]]
 - **Type**: refine-draft
