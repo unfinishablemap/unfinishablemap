@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-16T01:11:47.306467+00:00'
-session_count: 5813
-cycle_position: 5441
+last_updated: '2026-04-16T01:26:47.307124+00:00'
+session_count: 5814
+cycle_position: 5442
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T22:26:47.301463+00:00'
@@ -50,11 +50,21 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 40
+  needs_replenishment: false
+  last_replenishment: '2026-04-16T01:41:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 1
+    staleness: 3
+    orphan_integration: 1
+    length_analysis: 0
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-15'
-  outcome: success
 - task: deep-review (obsidian/concepts/rational-normativity.md -- Conte)
   type: deep-review
   date: '2026-04-15'
@@ -144,5 +154,9 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-04-16'
+  outcome: success
+- task: deep-review (obsidian/voids/emotional-epistemology-void.md)
+  type: deep-review
   date: '2026-04-16'
   outcome: success

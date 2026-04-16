@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-15T23:11:00+00:00
+ai_modified: 2026-04-16T01:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Fix stale wikilinks to 3 archived articles (45 files affected)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 16 archived slugs are still referenced from active content. Top 3: (1) [[creativity-void]] → [[imagination-and-creativity-void]] in 18 files, (2) [[existentialism]] → [[nihilism-and-existentialism]] in 14 files, (3) [[epiphenomenal-ai-consciousness]] → [[ai-epiphenomenalism]] in 13 files. Each archived article has `superseded_by` pointing to the replacement. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ only.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-16
+
+### P2: Deep review phenomenology-of-the-edge.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-02 — 45 days ago. Voids article on the phenomenology of cognitive and experiential edges/limits. Verify coherence, accuracy, cross-references to related void articles (threshold-void, boundary problems), and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
+### P2: Deep review samkhya-three-way-distinction.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 39 days ago. Concepts article on Samkhya philosophy's purusha/prakriti/gunas three-way distinction and its relevance to interactionist dualism. Verify accuracy of Samkhya scholarship, coherence, cross-references to eastern-philosophy-consciousness and dualism articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
+### P2: Deep review purpose-and-alignment.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-16 — 31 days ago. Topics article on how purpose and alignment relate to consciousness under dualism. Verify coherence, accuracy of philosophical claims, cross-references to consciousness-and-agency and teleological-void, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
+### P2: Integrate imagination-and-creativity-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Only orphaned file in obsidian/ content (zero inbound wikilinks from any active article). Voids article on the limits of imagination and creativity as windows into consciousness. Add cross-references from related articles such as consciousness-and-creativity, creativity-void successors, phenomenology-of-imagination, and other void articles exploring cognitive limits.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
 
 ### P3: Deep review inverted-qualia.md
 - **Type**: deep-review
