@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-16T14:58:49.881025+00:00'
-session_count: 5867
-cycle_position: 5495
+last_updated: '2026-04-16T15:13:49.881712+00:00'
+session_count: 5868
+cycle_position: 5496
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T10:43:49.870854+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write concept article on normativity of reason)
-  type: expand-topic
-  date: '2026-04-16'
-  outcome: success
 - task: deep-review (obsidian/concepts/consciousness-selecting-neural-p)
   type: deep-review
   date: '2026-04-16'
@@ -134,6 +130,10 @@ recent_tasks:
   date: '2026-04-16'
   outcome: success
 - task: deep-review (obsidian/topics/post-decoherence-selection-mechani)
+  type: deep-review
+  date: '2026-04-16'
+  outcome: success
+- task: deep-review (obsidian/topics/embodied-consciousness.md)
   type: deep-review
   date: '2026-04-16'
   outcome: success

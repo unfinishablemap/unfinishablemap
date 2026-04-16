@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review interested-party-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New voids article created 2026-04-16, cross-reviewed against complicity-void.md and necessary-opacity.md but never comprehensively deep-reviewed. Explores the structural impossibility of consciousness providing disinterested testimony about its own causal efficacy — the judge and the accused are the same entity. Verify coherence, accuracy of philosophical claims about epistemic self-interest, cross-references to agency-verification-void and complicity-void, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P2: Deep-review consciousness-and-the-normativity-of-reason.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2224,6 +2217,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep-review interested-party-void.md
+- **Type**: deep-review
+- **Notes**: New voids article created 2026-04-16, cross-reviewed against complicity-void.md and necessary-opacity.md but never comprehensively deep-reviewed. Explores the structural impossibility of consciousness providing disinterested testimony about its own causal efficacy — the judge and the accused are the same entity. Verify coherence, accuracy of philosophical claims about epistemic self-interest, cross-references to agency-verification-void and complicity-void, and tenet alignment.
+- **Output**: obsidian/voids/interested-party-void.md
 
 ### ✓ 2026-04-16: Deep-review embodied-consciousness.md after coalesce merger
 - **Type**: deep-review
