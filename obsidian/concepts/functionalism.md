@@ -37,7 +37,6 @@ related_articles:
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[phenomenal-non-compositionality]]"
   - "[[pragmatisms-path-to-dualism]]"
-  - "[[pragmatist-normative-bridge]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
 ai_contribution: 100
 author: null

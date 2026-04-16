@@ -5,6 +5,14 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 02:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/pragmatisms-path-to-dualism]], [[topics/pragmatist-normative-bridge]]
+- **Target**: [[topics/pragmatisms-path-to-dualism]]
+- **Archived**: [[archive/topics/pragmatist-normative-bridge]]
+- **References updated**: 6 files (evaluative-phenomenal-character, functionalism, consciousness-and-the-normativity-of-reason, self-stultification-as-master-argument, consciousness-and-normative-force, argument-from-reason)
+- **References to review**: none
+
 ## 2026-04-16 02:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/phenomenology-of-the-edge]]

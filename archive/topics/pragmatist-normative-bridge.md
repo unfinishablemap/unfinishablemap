@@ -6,6 +6,11 @@ modified: 2026-04-13
 human_modified:
 ai_modified: 2026-04-15T12:21:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-16T02:33:00+00:00
+superseded_by: "/topics/pragmatisms-path-to-dualism/"
+archive_reason: "Coalesced into Pragmatism's Path to Dualism"
+original_path: "/topics/pragmatist-normative-bridge/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
