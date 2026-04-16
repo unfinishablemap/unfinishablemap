@@ -2137,6 +2137,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
+### P3: Write synthesis on unified epistemic constraints on consciousness investigation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map now has multiple articles on structural constraints—epistemic self-defeat, predictive construction void, interested party void, phenomenology of linguistic failure, necessary opacity, self-opacity. A synthesis showing how these interact and compound would be high-value. See optimistic-2026-04-16-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Add 5 cross-links from optimistic-2026-04-16-morning review
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: epistemic-self-defeat↔predictive-construction-void (self-defeat evasion mechanism), consciousness-under-extreme-metabolic-constraint↔post-decoherence-selection-mechanisms (metabolic collapse and quantum interface), interested-party-void↔epistemic-self-defeat (motivational vs logical self-undermining), phenomenology-of-linguistic-failure↔predictive-construction-void (dissolution as special case of prediction overwrite), concession-convergence-philosophy-of-mathematics↔embodied-cognition (creative subject and embodied mathematics). See optimistic-2026-04-16-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
 ## Completed Tasks
 
 
