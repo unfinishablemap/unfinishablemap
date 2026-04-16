@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review post-decoherence-selection-mechanisms.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New topics article created 2026-04-16, cross-reviewed against consciousness-selecting-neural-patterns.md, comparing-quantum-consciousness-mechanisms.md, and trilemma-of-selection.md but never comprehensively deep-reviewed. Central to Tenets 2 and 3 — details how consciousness could influence outcomes after environmental decoherence via the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Verify accuracy of quantum mechanics claims, coherence of the three proposals, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P2: Deep-review embodied-consciousness.md after coalesce merger
 - **Type**: deep-review
 - **Status**: pending
@@ -2238,6 +2231,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep-review post-decoherence-selection-mechanisms.md
+- **Type**: deep-review
+- **Notes**: New topics article created 2026-04-16, cross-reviewed against consciousness-selecting-neural-patterns.md, comparing-quantum-consciousness-mechanisms.md, and trilemma-of-selection.md but never comprehensively deep-reviewed. Central to Tenets 2 and 3 — details how consciousness could influence outcomes after environmental decoherence via the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Verify accuracy of quantum mechanics claims, coherence of the three proposals, and tenet alignment.
+- **Output**: obsidian/topics/post-decoherence-selection-mechanisms.md
 
 ### ✓ 2026-04-16: Create concept page for phenomenal intentionality
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "How consciousness could select among already-decohered outcomes ra
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T05:18:00+00:00
+ai_modified: 2026-04-16T15:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,14 +36,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review: 2026-04-16T05:18:00+00:00
+last_deep_review: 2026-04-16T15:00:00+00:00
 ---
 
 The strongest empirical objection to quantum consciousness theories is that decoherence destroys quantum superpositions in warm biological tissue within femtoseconds—far too fast for consciousness to interact with them. Post-decoherence selection sidesteps this objection entirely.
 
 Instead of requiring consciousness to act on fragile superpositions before they decohere, it locates consciousness's causal role *after* decoherence has prepared a set of classically distinguishable alternatives. The question becomes not how consciousness maintains quantum coherence in the brain, but how it selects which element of an already-decohered mixture becomes the single definite outcome we experience.
 
-The Unfinishable Map treats this as its primary response to the [[decoherence|decoherence objection]]. This article examines the concrete mechanisms by which post-decoherence selection could work—what physical and metaphysical resources it draws on, how it differs from pre-decoherence models, and why it is the only selection framework compatible with all five of the Map's [[tenets]].
+The Unfinishable Map treats this as its primary response to the [[decoherence|decoherence objection]]. This article examines the concrete mechanisms by which post-decoherence selection could work—what physical and metaphysical resources it draws on, how it differs from pre-decoherence models, and why it is the only selection framework compatible with all five of the Map's [[tenets]]. It addresses the [[measurement-problem|measurement problem]] not by dissolving it but by locating consciousness's role within it.
 
 ## The Improper Mixture Opening
 
@@ -67,7 +67,7 @@ The mechanism here is minimal. Consciousness does not need to maintain quantum c
 
 ### Stapp's Process 1 Relocated
 
-Stapp's quantum Zeno framework, in its standard formulation, places consciousness's causal role before decoherence: mental effort acts as rapid observation that holds desired neural patterns in superposition against decoherence pressure. This exposes the model to [[decoherence|the timing objection]]—Tegmark's (2000) femtosecond decoherence timescales seem to preclude the millisecond-scale observations consciousness could plausibly perform.
+[[stapp-quantum-mind|Stapp's quantum Zeno framework]], in its standard formulation, places consciousness's causal role before decoherence: mental effort acts as rapid observation that holds desired neural patterns in superposition against decoherence pressure. This exposes the model to [[decoherence|the timing objection]]—Tegmark's (2000) femtosecond decoherence timescales seem to preclude the millisecond-scale observations consciousness could plausibly perform.
 
 A post-decoherence relocation of Stapp's framework preserves its core insight while abandoning its vulnerability. The key elements of Stapp's model are: (1) consciousness selects which question nature answers (Process 1), and (2) nature responds with a definite outcome (Process 3). In the original formulation, Process 1 operates on quantum superpositions. In the relocated version, Process 1 operates on the decohered mixture—consciousness selects which element of the already-prepared set of alternatives becomes actual.
 
@@ -97,7 +97,7 @@ The trade-off is falsifiability. Pre-decoherence models make concrete prediction
 
 Any consciousness-mediated selection mechanism must address the [[prebiotic-collapse|prebiotic collapse problem]]: the universe produced definite outcomes for billions of years before conscious observers existed. Stars formed, elements were forged, chemistry proceeded—all requiring collapse-like events with no minds present.
 
-Post-decoherence selection handles this through the Map's standard resolution: objective reduction with consciousness modulation. Physical mechanisms (gravitational collapse, spontaneous localisation, or unknown processes) provide baseline selection throughout the universe. Consciousness interfaces with selection specifically in neural systems, modulating outcomes where the brain provides the right interface. The three mechanistic proposals differ in how they frame this modulation—von Neumann's cut places it at the end of the causal chain, Stapp's relocated framework treats it as Process 1 acting on prepared alternatives, and the actualisation model treats it as a transition from possibility to actuality—but all are compatible with baseline physical selection operating elsewhere.
+Post-decoherence selection handles this through the Map's standard resolution: objective reduction with consciousness modulation. Physical mechanisms (gravitational collapse, [[spontaneous-collapse-theories|spontaneous localisation]], or unknown processes) provide baseline selection throughout the universe. Consciousness interfaces with selection specifically in neural systems, modulating outcomes where the brain provides the right interface. The three mechanistic proposals differ in how they frame this modulation—von Neumann's cut places it at the end of the causal chain, Stapp's relocated framework treats it as Process 1 acting on prepared alternatives, and the actualisation model treats it as a transition from possibility to actuality—but all are compatible with baseline physical selection operating elsewhere.
 
 ## Relation to Site Perspective
 
