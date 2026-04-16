@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense pragmatisms-path-to-dualism.md (4948 words, 124% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/ after absorbing pragmatist-normative-bridge.md via coalesce on 2026-04-16. Currently 4948 words (124% of target). Preserve the core pragmatist path argument and normative bridge thesis while removing redundancy introduced by the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-16
-
 ### P2: Address Schwartz OCD evidence fragility in mental-effort.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2131,6 +2124,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Condense pragmatisms-path-to-dualism.md (4948 words, 124% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ after absorbing pragmatist-normative-bridge.md via coalesce on 2026-04-16. Currently 4948 words (124% of target). Preserve the core pragmatist path argument and normative bridge thesis while removing redundancy introduced by the merge. See /condense skill.
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
 
 ### ✓ 2026-04-16: Integrate imagination-and-creativity-void.md into site navigation
 - **Type**: integrate-orphan

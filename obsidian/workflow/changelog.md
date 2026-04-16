@@ -5,6 +5,14 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 03:42 UTC - condense
+- **Status**: Success
+- **File**: [[topics/pragmatisms-path-to-dualism]]
+- **Before**: 4948 words
+- **After**: 3042 words
+- **Reduction**: 39%
+- **Technique**: Cut redundant James background (mind-dust/panpsychism tangent, extended radical empiricism), trimmed QBism to link, condensed Putnam section, tightened Dewey/Rorty dissolution treatment, compressed four-domains section, tightened functionalist escape route and challenge conditions
+
 ## 2026-04-16 03:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/imagination-and-creativity-void]]
