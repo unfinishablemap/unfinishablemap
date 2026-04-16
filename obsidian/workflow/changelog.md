@@ -5,6 +5,14 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 09:08 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 457
+- **Errors**: 0
+- **Warnings**: 2
+- **Notes**: 6
+- **Output**: [[reviews/tenet-check-2026-04-16]]
+
 ## 2026-04-16 09:07 UTC - research-voids
 - **Status**: Skipped (at capacity)
 - **Notes**: Voids section has 101 articles against a cap of 100. No further voids research needed — automation should focus on improving existing voids articles instead (reviews, condensing, coalescing).
