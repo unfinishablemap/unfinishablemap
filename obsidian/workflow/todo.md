@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Address interface friction's unfalsifiability and decoherence gap in interface-friction.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16b) found high-severity issue: every phenomenon explained by interface friction (attentional limits, motor errors, ADHD patterns, depression phenomenology) is already explained by neuroscience without invoking dualism. The article offers no prediction that distinguishes interface friction from ordinary neural processing constraints. Additionally, the decoherence section mentions "disputed microsecond-scale windows" without citing Tegmark's (2000) 10⁻¹³s calculations — ignoring the strongest quantitative objection. Either identify at least one empirically distinguishable prediction or explicitly acknowledge interface friction as a metaphysical reinterpretation. Cite Tegmark directly and engage with the decoherence timescale problem. See pessimistic-2026-04-16b.md Issues 1 and 4.
+- **Source**: chain (from pessimistic-2026-04-16b)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-16 via expand-topic. The normativity of reason — the binding quality of logical and rational norms — is central to both the argument from reason and the self-stultification argument. Review argument-from-reason.md for opportunities to cross-link to rational-normativity (the concept page may provide a more precise anchor for claims about norms). Review self-stultification-as-master-argument.md for consistency on the norm-grasping vs norm-implementation distinction and add cross-references. Also check consciousness-and-the-normativity-of-reason.md for overlap or tension with the new concept page.
+- **Source**: chain (from concepts/rational-normativity.md)
+- **Generated**: 2026-04-16
+
+### P2: Qualify probability-objections-many-worlds.md treatment of counterarguments
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16b) found medium-severity issue: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* (2012) are acknowledged in one sentence. Sebens and Carroll (2018) and Zurek (2005) are dismissed without engaging their actual arguments. The article claims "seven decades of failure" when its own references show active, ongoing work. Devote a paragraph to the strongest version of each counterargument before explaining why it fails. Soften language from "cannot" to "has not yet been" where appropriate — the structural argument (all outcomes actual → no genuine probability) is stronger than the historical argument (nobody has done it yet). See pessimistic-2026-04-16b.md Issue 3.
+- **Source**: chain (from pessimistic-2026-04-16b)
+- **Generated**: 2026-04-16
+
+### P2: Create concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Major gap identified by optimistic review (2026-04-16-afternoon). The position that phenomenal experience is intrinsically intentional — seeing-red is inherently *about* redness — is scattered across 36+ articles but has no dedicated concept page. Whether phenomenal properties are intrinsically intentional bears directly on dualism: if phenomenal states have intrinsic content, this is irreducibly relational in ways that complicate production models. Builds on cognitive-phenomenology-and-the-irreducibility-of-thought, argument-from-reason, hard-problem-of-consciousness. Target section: concepts/ (227/230, 3 slots remaining). See optimistic-2026-04-16-afternoon.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-16
+
+### P3: Address physical-completeness.md equivocation on "structural"
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16b) found medium-severity issue: "structural" is used to mean at least three different things — (1) mathematical/relational description, (2) measurable quantities and dynamics, (3) the totality of what physics can in principle describe. The argument's force depends on these being identical, but they may not be. Future physics (e.g., quantum gravity) might expand what counts as structural description. Define "structural" precisely and distinguish the claim that current physics is structural (observation) from the claim that all possible physics must be structural (much stronger, more contestable). Also: "No physical quantity is defined by what it *is* intrinsically" is a philosophical claim, not a fact about physics — Maudlin argues mass and charge do have intrinsic natures. See pessimistic-2026-04-16b.md Issue 2.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Add cross-links between temporal-consciousness, personal-identity, and attention-interface clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review (2026-04-16-afternoon) identified nine cross-linking opportunities across temporal consciousness, personal identity, and attention-interface clusters: temporal-consciousness-structure-and-agency → diachronic-agency-and-personal-narrative (temporal structure supports diachronic identity), temporal-consciousness-structure-and-agency → personal-identity (temporal persistence as identity condition), attention-and-the-consciousness-interface → consciousness-and-causal-powers (attention as mechanism of causal influence), attention-and-the-consciousness-interface → structure-of-attention (bidirectional linking), consciousness-and-the-physics-of-information → consciousness-and-integrated-information (complementary positions), consciousness-and-the-physics-of-information → consciousness-under-extreme-metabolic-constraint (Landauer's principle applied to filter theory), personal-identity → consciousness-and-memory (phenomenal persistence through forgetting), personal-identity → indexical-identity-quantum-measurement (quantum mechanics of identity), machine-consciousness → substrate-independence (deep integration needed). See optimistic-2026-04-16-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
 ### P3: Deep review agency-verification-void.md
 - **Type**: deep-review
 - **Status**: pending
