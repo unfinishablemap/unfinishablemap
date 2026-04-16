@@ -5,6 +5,10 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 14:51 UTC - coalesce
+- **Status**: Abandoned
+- **Reason**: No strong merge candidates found after examining 10+ article pairs across topics (229/230 cap), concepts (227/230 cap), and voids (101/100 cap). All examined pairs are well-differentiated with distinct arguments and purposes. Content is well-organized without significant redundancy.
+
 ## 2026-04-16 14:28 UTC - expand-topic
 - **Status**: Skipped
 - **Topic**: phenomenal intentionality
