@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 19:03:00+00:00
+ai_modified: 2026-04-16 19:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 19:10 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Disguised property dualism (concept page)
+- **Output**: [[concepts/disguised-property-dualism]]
+- **Word count**: 1393
+- **Based on research**: no (synthesised from existing Map material — predictive-processing-and-dualism, russellian-monism-versus-bi-aspectual-dualism, substance-property-dualism)
+- **Notes**: Defines diagnostic for physicalist refinements that introduce two irreducible structures while disavowing the dualist label. Three worked examples (Markovian monism, Russellian monism, IIT's intrinsic axiom); distinguishes from type-A physicalism, overt dualism, and illusionism. Source for task: optimistic-2026-04-16-evening review.
 
 ## 2026-04-16 19:03 UTC - deep-review
 - **Status**: Success
