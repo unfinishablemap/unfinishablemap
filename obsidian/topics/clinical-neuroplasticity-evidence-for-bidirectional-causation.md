@@ -4,7 +4,7 @@ description: "Three converging clinical evidence streams—OCD neuroplasticity, 
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-04-16T16:29:00+00:00
+ai_modified: 2026-04-16T17:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-21
 last_curated:
-last_deep_review: 2026-03-22T22:04:00+00:00
+last_deep_review: 2026-04-16T17:40:00+00:00
 ---
 
 Clinical [[neuroplasticity]] research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural function through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [[concepts/epiphenomenalism|epiphenomenalism]] and to the [[causal-closure|causal closure]] of the physical—while acknowledging that mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.
@@ -98,7 +98,7 @@ What makes the remaining convergence worth philosophical attention is the system
 
 ## Proposed Mechanisms
 
-The clinical evidence documents that psychological intervention produces lasting changes in neural architecture—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [[consciousness-selecting-neural-patterns|consciousness-selecting]]. As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human beings about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
+The clinical evidence documents that psychological intervention produces lasting changes in neural function—whether this reflects genuine mental causation or standard Hebbian learning remains the open question. The mechanism is equally open. Schwartz, Stapp, and Beauregard (2005) proposed one possibility: a quantum mechanical model in which conscious attention exploits the quantum Zeno effect to stabilise preferred neural states, a framework explored in detail in the Map's treatment of [[consciousness-selecting-neural-patterns|consciousness-selecting]]. As they put it: "Contemporary physical theory brings directly and irreducibly into the overall causal structure certain psychologically described choices made by human beings about how they will act." On this model, closely spaced acts of attention hold neural patterns in place, preventing decoherence into alternative states.
 
 This proposal is speculative and faces challenges regarding decoherence timescales in warm biological tissue. Other possible mechanisms include [[quantum-consciousness|non-local quantum effects]], classical top-down modulation through emergent causal powers, or interaction models not yet formulated. The Map's commitment is to the reality of mental causation (Tenet 3: [[bidirectional-interaction|Bidirectional Interaction]]), not to any specific mechanism. The clinical evidence documented here stands regardless of which mechanism ultimately proves correct.
 
@@ -213,6 +213,16 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Terminology precision ("function" vs "architecture") and added scrutiny caveat for placebo structural claims that were previously asserted without evidence-quality assessment.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-16 (cluster cross-review)
+Changes made:
+- Proposed Mechanisms section: "lasting changes in neural architecture" → "lasting changes in neural function" — completes the terminology precision calibration begun in the 2026-04-16 16:29 UTC pass. The opening paragraph was updated then but the Proposed Mechanisms section retained the older term, creating internal inconsistency with the opening and with cross-citation in [[concepts/epiphenomenalism]] (which uses "alters neural function").
+
+Based on cross-review of causal/clinical cluster (clinical-neuroplasticity, attention-and-the-consciousness-interface, epiphenomenalism).
+Key improvement: Internal terminology consistency — "function" now used uniformly for the scope of clinical evidence claims.
 
 This log should be removed after human review.
 -->

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 17:28:00+00:00
+ai_modified: 2026-04-16 17:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 17:40 UTC - deep-review
+- **Status**: Success
+- **Scope**: Cross-review of causal/clinical cluster for consistency with 2026-04-16 16:29 UTC calibration pass
+- **Files**: [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]], [[topics/attention-and-the-consciousness-interface]], [[concepts/epiphenomenalism]]
+- **Word count**: 2616 → 2616 (±0)
+- **Critical issues addressed**: 1 (clinical-neuroplasticity Proposed Mechanisms retained "neural architecture" after opening was updated to "neural function" — cross-citation in epiphenomenalism already used "function", creating internal inconsistency. Fixed to "neural function.")
+- **Medium issues addressed**: 0 (attribution, sample-size framing, Schwartz "suggestive" language, "not X but Y" removal all verified consistent across cluster)
+- **Enhancements made**: 0 (length-neutral mode — two of three articles at 102-103% of soft threshold)
+- **Output**: [[reviews/deep-review-2026-04-16c-causal-clinical-cluster]]
 
 ## 2026-04-16 17:28 UTC - deep-review
 - **Status**: Success

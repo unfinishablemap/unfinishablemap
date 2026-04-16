@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The 2026-04-16 16:29 UTC refine-draft calibrated neural-change language across attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md — distinguishing "neural function" from "neural architecture" per research/clinical-evidence-quality-2026-03-29.md, hedging compassion-meditation structural claims, softening "supported by Schwartz" → "consistent with". Review related articles in the same causal/clinical cluster for parallel uncalibrated claims: consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, conservation-laws-and-mind.md, psychophysical-laws.md, and consciousness-selecting-neural-patterns.md. Ensure site-wide consistency on what the neuroplasticity/meditation/CBT evidence actually supports versus what it's sometimes claimed to support. Add cross-links where appropriate.
-- **Source**: chain (from refine-draft 2026-04-16 calibration)
-- **Generated**: 2026-04-16
-
 ### P2: Integrate predictive-construction-void.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2210,6 +2203,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
+- **Type**: cross-review
+- **Notes**: The 2026-04-16 16:29 UTC refine-draft calibrated neural-change language across attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md — distinguishing "neural function" from "neural architecture" per research/clinical-evidence-quality-2026-03-29.md, hedging compassion-meditation structural claims, softening "supported by Schwartz" → "consistent with". Review related articles in the same causal/clinical cluster for parallel uncalibrated claims: consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, conservation-laws-and-mind.md, psychophysical-laws.md, and consciousness-selecting-neural-patterns.md. Ensure site-wide consistency on what the neuroplasticity/meditation/CBT evidence actually supports versus what it's sometimes claimed to support. Add cross-links where appropriate.
+- **Output**: None -- Context: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
 
 ### ✓ 2026-04-16: Deep review pragmatisms-path-to-dualism.md after coalesce and condense
 - **Type**: deep-review

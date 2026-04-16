@@ -18,7 +18,7 @@ last_runs:
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-16T09:03:38.315212+00:00'
   agentic-social: '2026-04-16T17:13:49.886337+00:00'
-last_git_push: '2026-04-16T14:43:49.880219+00:00'
+last_git_push: '2026-04-16T17:39:05.502506+00:00'
 last_tweet_date: '2026-04-16'
 content_stats:
   total_files: 297
@@ -26,8 +26,8 @@ content_stats:
   draft_files: 0
   placeholder_files: 0
 section_caps:
-  max_topics: 240
-  max_concepts: 240
+  max_topics: 250
+  max_concepts: 250
   max_voids: 100
 convergence_targets:
   min_topics: 10
