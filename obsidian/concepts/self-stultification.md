@@ -11,6 +11,7 @@ topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[concepts/epiphenomenalism]]"
+  - "[[epistemic-self-defeat]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
