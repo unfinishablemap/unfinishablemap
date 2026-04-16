@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review purpose-and-alignment.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-16 — 31 days ago. Topics article on how purpose and alignment relate to consciousness under dualism. Verify coherence, accuracy of philosophical claims, cross-references to consciousness-and-agency and teleological-void, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
 ### P2: Integrate imagination-and-creativity-void.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2103,6 +2096,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review purpose-and-alignment.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-16 — 31 days ago. Topics article on how purpose and alignment relate to consciousness under dualism. Verify coherence, accuracy of philosophical claims, cross-references to consciousness-and-agency and teleological-void, and tenet alignment.
+- **Output**: obsidian/topics/purpose-and-alignment.md
 
 ### ✓ 2026-04-16: Deep review samkhya-three-way-distinction.md
 - **Type**: deep-review

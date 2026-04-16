@@ -4,13 +4,12 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-16T03:03:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ai-consciousness]]"
 concepts:
-  - "[[nihilism-and-existentialism]]"
   - "[[nihilism-and-existentialism]]"
   - "[[experiential-alignment]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
@@ -33,7 +32,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-13
 last_curated: null
-last_deep_review: 2026-03-16T00:48:00+00:00
+last_deep_review: 2026-04-16T03:03:00+00:00
 tag: diversion
 ---
 
