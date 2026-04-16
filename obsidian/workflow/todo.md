@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the phenomenology of resistance across domains
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenology-of-resistance-across-domains-2026-04-06.md. Resistance — the felt experience of something pushing back — occurs across physical, logical, moral, aesthetic, epistemic, and volitional domains, but has no unified treatment on the Map. The research identifies an integrative thread from Maine de Biran (resistance as origin of self-consciousness) through Dilthey (resistance as origin of belief in external reality) to the Map's own interface-friction concept. A cross-domain phenomenology of resistance could evidence Bidirectional Interaction: if resistance has a common phenomenal signature across domains, this suggests a unified consciousness encountering genuinely distinct types of constraint — a datum more naturally explained by dualism than by materialism. Target section: topics/ (topics at 230/250 — has capacity). Medium scope (2500-3500 words).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2252,6 +2245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Write article on the phenomenology of resistance across domains
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenology-of-resistance-across-domains-2026-04-06.md. Resistance — the felt experience of something pushing back — occurs across physical, logical, moral, aesthetic, epistemic, and volitional domains, but has no unified treatment on the Map. The research identifies an integrative thread from Maine de Biran (resistance as origin of self-consciousness) through Dilthey (resistance as origin of belief in external reality) to the Map's own interface-friction concept. A cross-domain phenomenology of resistance could evidence Bidirectional Interaction: if resistance has a common phenomenal signature across domains, this suggests a unified consciousness encountering genuinely distinct types of constraint — a datum more naturally explained by dualism than by materialism. Target section: topics/ (topics at 230/250 — has capacity). Medium scope (2500-3500 words).
+- **Output**: the phenomenology of resistance across domains
 
 ### ✓ 2026-04-16: Write article on the metaphor void
 - **Type**: expand-topic
