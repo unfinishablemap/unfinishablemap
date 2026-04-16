@@ -4,7 +4,7 @@ description: "Predictive processing's metaphysically neutral formalism provides 
 created: 2026-02-15
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-04-05T09:48:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,6 +141,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 ## Further Reading
 
 - [[predictive-processing]] — The core concept: brain as prediction engine
+- [[predictive-construction-void]] — Why the ratio of construction to reception in perception is structurally unknowable, and how the Markov blanket compounds the dualist subject's epistemic isolation
 - [[attention-as-interface]] — Precision weighting as the causal bridge
 - [[attention-and-the-consciousness-interface]] — Attention and motor planning as unified selection
 - [[surprise-prediction-error-and-consciousness]] — What prediction error feels like

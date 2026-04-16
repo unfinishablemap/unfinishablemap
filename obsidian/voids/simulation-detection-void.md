@@ -4,7 +4,7 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 draft: false
 last_deep_review: 2026-03-15T16:29:00+00:00
 topics: []
@@ -115,6 +115,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
 - [[defended-territory]] — Could some thoughts be actively blocked?
 - [[self-opacity|self-reference paradox]] — The structural obstacle of consciousness examining itself
+- [[predictive-construction-void|The Predictive Construction Void]] — A related inside-observer problem: consciousness cannot distinguish what it constructs from what it receives
 - [[compound-failure-signatures]] — Using the shape of failure as data
 - [[apophatic-cartography]] — Knowing through negation
 

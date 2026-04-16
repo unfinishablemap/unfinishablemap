@@ -4,7 +4,7 @@ description: "Human and AI exploration of perception as consciousness encounteri
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 last_deep_review: 2026-03-23T15:29:00+00:00
 draft: false
 topics:
@@ -114,6 +114,7 @@ Perception is where the Map's [[tenets]] find their most concrete application.
 - [[perceptual-degradation-and-the-interface]] — The four failure signatures as evidence for a transmission channel
 - [[selective-correction-and-reconstruction-paradox]] — Asymmetric perceptual editing as evidence of a conscious recipient
 - [[predictive-processing]] — Perception as hierarchical Bayesian inference
+- [[predictive-construction-void]] — Why the boundary between what perception constructs and what it receives is structurally unknowable
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -186,6 +186,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — The concept underlying this void: why representations conceal themselves as representations
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — The companion void: why the stamp of realness hides its own mechanism
+- [[predictive-construction-void|The Predictive Construction Void]] — Why the ratio of construction to reception in perception is structurally unknowable through introspection
 - [[self-opacity]] — The parallel void of consciousness unable to observe itself
 - [[intrinsic-nature-void]] — The parallel question of what matter is in itself
 - [[mutation-void]] — When the act of attending transforms the content attended to

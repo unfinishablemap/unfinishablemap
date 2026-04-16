@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -129,6 +129,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[complicity-void|The Complicity Void]] — Whether consciousness actively participates in maintaining its own limits
 - [[obviousness-void|The Obviousness Void]] — How the feeling of self-evidence terminates inquiry before it begins
 - [[interested-party-void|The Interested Party Void]] — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
+- [[predictive-construction-void|The Predictive Construction Void]] — Why consciousness cannot determine the boundary between what it constructs and what it receives
 
 ### Phenomenology of Limits
 

@@ -4,7 +4,7 @@ description: "Human+AI investigation of how the feeling of self-evidence functio
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-05T20:26:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,6 +99,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [[explanatory-void|The Explanatory Void]] — When the feeling of understanding substitutes for understanding itself
 - [[self-opacity]] — Consciousness cannot fully know itself
 - [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy, and this opacity is structural
+- [[predictive-construction-void|The Predictive Construction Void]] — How successful prediction manufactures the very feeling of self-evidence that this void describes
 - [[defended-territory|Cognitive Aversion]] — Thoughts we systematically flee
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — The cognitive bias behind Occam's Razor
 - [[defended-territory|Defended Territory]] — Whether some thoughts are actively blocked

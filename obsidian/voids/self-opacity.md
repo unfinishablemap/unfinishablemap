@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -150,6 +150,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [[observation-and-measurement-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — How cognitive limits are preconditions for meaning
 - [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
+- [[predictive-construction-void|The Predictive Construction Void]] — Why consciousness cannot audit the ratio of construction to reception in its own perception
 - [[narrative-void|The Narrative Void]] — How consciousness constructs self-stories it cannot audit
 - [[causal-interface|The Causal Interface Void]] — How consciousness interfaces with the physical
 - [[topics/free-will|Free Will]] — The broader context for questions of agency

@@ -4,7 +4,7 @@ description: "Perception is where consciousness meets the world. Dissociations, 
 created: 2026-02-16
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 last_deep_review: 2026-03-19T05:33:00+00:00
 draft: false
 topics:
@@ -178,6 +178,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[phenomenal-binding-and-multimodal-integration]] — Cross-modal binding and phenomenal unity
 - [[sensorimotor-contingencies-and-the-interface]] — Enactivist perception and the interface model
 - [[predictive-processing-and-dualism]] — Predictive processing through a dualist lens
+- [[predictive-construction-void]] — Why consciousness cannot determine the construction/reception boundary in perception
 - [[capability-division-problem]] — Separating brain-side and mind-side capabilities
 - [[capability-division-in-vision]] — Vision-specific evidence constraining the brain/mind boundary
 - [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface

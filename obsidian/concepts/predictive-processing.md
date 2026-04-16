@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-25T10:14:00+00:00
+ai_modified: 2026-04-16T17:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -206,6 +206,7 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 
 ### Site Content
 - [[predictive-processing-and-dualism]] — How PP integrates with the Map's interactionist dualism
+- [[predictive-construction-void]] — Why the construction/reception boundary in perception is structurally unknowable
 - [[global-workspace-theory]] — Another major cognitive framework
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[attention-as-interface]] — How attention mediates consciousness-matter interaction (central to precision weighting)

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 17:40:00+00:00
+ai_modified: 2026-04-16 17:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 17:55 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/predictive-construction-void]]
+- **Focus**: Orphan integration — adding inbound links from related articles
+- **Word count**: 1700 → 1730 (+30)
+- **Critical issues addressed**: 0 (attribution and source/Map separation verified clean)
+- **Medium issues addressed**: 3 (two instances of "not X. It is Y." LLM cliché rewritten; added cross-link to phenomenal-transparency-opacity-spectrum in transparency-problem paragraph)
+- **Enhancements made**: 10 inbound links added from voids/voids, concepts/predictive-processing, topics/predictive-processing-and-dualism, topics/dualist-perception, concepts/perception, voids/obviousness-void, voids/self-opacity, voids/necessary-opacity, voids/simulation-detection-void, voids/framework-void
+- **Output**: [[reviews/deep-review-2026-04-16-predictive-construction-void]]
 
 ## 2026-04-16 17:40 UTC - deep-review
 - **Status**: Success

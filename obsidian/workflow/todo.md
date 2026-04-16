@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate predictive-construction-void.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File created 2026-04-16, has no inbound wikilinks. Voids article introduces the double-veil problem and the self-erasing nature of the predictive construction void. Beyond the pending P3 cross-review against necessary-opacity and predictive-processing-and-dualism, the article needs direct inbound links from: introspection.md, perception.md, dualist-perception.md, phenomenal-transparency-opacity-spectrum.md, projection-void.md, the voids taxonomy (taxonomy-of-voids.md, convergence-of-the-void-catalogue.md, three-kinds-of-void.md), and voids/_index navigation. Without these the article remains undiscoverable despite covering a central mechanism.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-16
-
 ### P3: Address physical-completeness.md equivocation on "structural"
 - **Type**: refine-draft
 - **Status**: pending
@@ -2203,6 +2196,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Integrate predictive-construction-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-16, has no inbound wikilinks. Voids article introduces the double-veil problem and the self-erasing nature of the predictive construction void. Beyond the pending P3 cross-review against necessary-opacity and predictive-processing-and-dualism, the article needs direct inbound links from: introspection.md, perception.md, dualist-perception.md, phenomenal-transparency-opacity-spectrum.md, projection-void.md, the voids taxonomy (taxonomy-of-voids.md, convergence-of-the-void-catalogue.md, three-kinds-of-void.md), and voids/_index navigation. Without these the article remains undiscoverable despite covering a central mechanism.
+- **Output**: obsidian/voids/predictive-construction-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-16: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
 - **Type**: cross-review
