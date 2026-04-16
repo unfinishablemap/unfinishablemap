@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 13:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/probability-objections-many-worlds]]
+- **Changes**: Expanded engagement with Wallace (2012) emergence argument, added dedicated paragraphs for Sebens & Carroll (2018) epistemic separability and Zurek (2005) envariance, restructured "Pattern of Failure" section to engage counterarguments before assessing them, softened historical "seven decades of failure" framing to emphasise structural obstacle
+- **Published**: yes
+
 ## 2026-04-16 13:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/embodied-consciousness]]

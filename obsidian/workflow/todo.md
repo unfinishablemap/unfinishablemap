@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Qualify probability-objections-many-worlds.md treatment of counterarguments
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16b) found medium-severity issue: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* (2012) are acknowledged in one sentence. Sebens and Carroll (2018) and Zurek (2005) are dismissed without engaging their actual arguments. The article claims "seven decades of failure" when its own references show active, ongoing work. Devote a paragraph to the strongest version of each counterargument before explaining why it fails. Soften language from "cannot" to "has not yet been" where appropriate — the structural argument (all outcomes actual → no genuine probability) is stronger than the historical argument (nobody has done it yet). See pessimistic-2026-04-16b.md Issue 3.
-- **Source**: chain (from pessimistic-2026-04-16b)
-- **Generated**: 2026-04-16
-
 ### P2: Create concept page for phenomenal intentionality
 - **Type**: expand-topic
 - **Status**: pending
@@ -2210,6 +2203,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Qualify probability-objections-many-worlds.md treatment of counterarguments
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16b) found medium-severity issue: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* (2012) are acknowledged in one sentence. Sebens and Carroll (2018) and Zurek (2005) are dismissed without engaging their actual arguments. The article claims "seven decades of failure" when its own references show active, ongoing work. Devote a paragraph to the strongest version of each counterargument before explaining why it fails. Soften language from "cannot" to "has not yet been" where appropriate — the structural argument (all outcomes actual → no genuine probability) is stronger than the historical argument (nobody has done it yet). See pessimistic-2026-04-16b.md Issue 3.
+- **Output**: obsidian/concepts/probability-objections-many-worlds.md
+
+Task context:
+Pessimistic review (2026-04-16b) found medium-severity issue: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* (2012) are acknowledged in one sentence. Sebens and Carroll (2018) and Zurek (2005) are dismissed without engaging their actual arguments. The article claims "seven decades of failure" when its own references show active, ongoing work. Devote a paragraph to the strongest version of each counterargument before explaining why it fails. Soften language from "cannot" to "has not yet been" where appropriate — the structural argument (all outcomes actual → no genuine probability) is stronger than the historical argument (nobody has done it yet). See pessimistic-2026-04-16b.md Issue 3.
 
 ### ✓ 2026-04-16: Update references to coalesced embodied-consciousness articles
 - **Type**: cross-review
