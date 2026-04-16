@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense phenomenology.md (3604 words, 103% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core concept page on phenomenology as philosophical method. Preserve the essential definitions and methodological framework while tightening sections that overlap with the dedicated phenomenological-method-and-evidence-standards.md article. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-16
-
 ### P3: Deep review agency-verification-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2168,6 +2161,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Condense phenomenology.md (3604 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core concept page on phenomenology as philosophical method. Preserve the essential definitions and methodological framework while tightening sections that overlap with the dedicated phenomenological-method-and-evidence-standards.md article. See /condense skill.
+- **Output**: obsidian/concepts/phenomenology.md
 
 ### ✓ 2026-04-16: Condense consciousness-selecting-neural-patterns.md (3818 words, 109% of hard threshold)
 - **Type**: condense

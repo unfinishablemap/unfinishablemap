@@ -5,6 +5,14 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 09:44 UTC - condense
+- **Status**: Success
+- **File**: [[phenomenology]]
+- **Before**: 3439
+- **After**: 2486
+- **Reduction**: 28%
+- **Technique**: Cut redundant illusionist challenge detail (dedicated article exists), trimmed MWI tenet section, condensed intersubjective validation and heterophenomenology overlap, tightened time-consciousness and neurophenomenology sections (link to dedicated articles), trimmed falsifiability conditions, removed 5 redundant Further Reading entries, removed stale AI refinement log
+
 ## 2026-04-16 09:28 UTC - condense
 - **Status**: Success
 - **File**: [[consciousness-selecting-neural-patterns]]
