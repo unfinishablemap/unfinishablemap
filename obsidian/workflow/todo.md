@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review pragmatisms-path-to-dualism.md after coalesce and condense
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Article absorbed pragmatist-normative-bridge.md via coalesce on 2026-04-16 02:33 UTC, then condensed from 4948 to ~3045 words later the same day. Has not been deep-reviewed since the double transformation. Verify: (1) the condensed article retains the core pragmatist-path argument and the normative-bridge thesis; (2) the "Coherent and Incoherent Reflexivity" section (added via refine-draft 2026-04-14 in response to pessimistic review's symmetry objection) survived condensing; (3) cross-references to self-stultification-as-master-argument, argument-from-reason, consciousness-and-normative-force, and phenomenal-value-realism remain accurate; (4) tenet alignment, especially to Tenet 3 (Bidirectional Interaction) and Tenet 1 (Dualism).
-- **Source**: chain (from condense 2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
 - **Type**: cross-review
 - **Status**: pending
@@ -2217,6 +2210,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review pragmatisms-path-to-dualism.md after coalesce and condense
+- **Type**: deep-review
+- **Notes**: Article absorbed pragmatist-normative-bridge.md via coalesce on 2026-04-16 02:33 UTC, then condensed from 4948 to ~3045 words later the same day. Has not been deep-reviewed since the double transformation. Verify: (1) the condensed article retains the core pragmatist-path argument and the normative-bridge thesis; (2) the "Coherent and Incoherent Reflexivity" section (added via refine-draft 2026-04-14 in response to pessimistic review's symmetry objection) survived condensing; (3) cross-references to self-stultification-as-master-argument, argument-from-reason, consciousness-and-normative-force, and phenomenal-value-realism remain accurate; (4) tenet alignment, especially to Tenet 3 (Bidirectional Interaction) and Tenet 1 (Dualism).
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
 
 ### ✓ 2026-04-16: Address pessimistic review issues in ncc, zombies, animal-consciousness
 - **Type**: refine-draft

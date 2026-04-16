@@ -4,7 +4,7 @@ description: "Pragmatism—the philosophy that evaluates ideas by practical cons
 created: 2026-03-15
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T03:42:00+00:00
+ai_modified: 2026-04-16T17:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated:
-last_deep_review: 2026-04-16T02:33:00+00:00
+last_deep_review: 2026-04-16T17:14:00+00:00
 coalesced_from:
   - "/topics/pragmatisms-path-to-dualism/"
   - "/topics/pragmatist-normative-bridge/"
@@ -70,7 +70,7 @@ This pragmatist lineage extends into contemporary physics through QBism, which c
 
 ## Van Fraassen and the Pragmatics of Explanation
 
-Bas van Fraassen's *The Scientific Image* (1980) provides the crucial second step, though van Fraassen himself does not draw the dualist conclusion.
+Bas van Fraassen's *The Scientific Image* (1980) provides the crucial third step, though van Fraassen himself does not draw the dualist conclusion.
 
 Van Fraassen argues that explanation is not an objective relation between theory and world but a pragmatic relation involving a questioner, a context, and interests. Explanation is interest-relative, context-dependent, and answerable to the concerns of a conscious agent.
 
