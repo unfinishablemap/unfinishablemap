@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review self-stultification-as-master-argument.md and argument-from-reason.md considering epistemic-self-defeat insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern of beliefs whose truth undercuts their own justification. Review self-stultification-as-master-argument.md to add cross-links (epistemic self-defeat generalises the specific self-stultification pattern). Review argument-from-reason.md to ensure the epistemic self-defeat framing is consistent and add cross-links. Both are core to the Map's anti-physicalist programme.
-- **Source**: chain (from concepts/epistemic-self-defeat.md)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review trilemma-of-selection.md and quantum-measurement-and-consciousness.md considering post-decoherence-selection-mechanisms insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2181,6 +2174,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review self-stultification-as-master-argument.md and argument-from-reason.md considering epistemic-self-defeat insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern of beliefs whose truth undercuts their own justification. Review self-stultification-as-master-argument.md to add cross-links (epistemic self-defeat generalises the specific self-stultification pattern). Review argument-from-reason.md to ensure the epistemic self-defeat framing is consistent and add cross-links. Both are core to the Map's anti-physicalist programme.
+- **Output**: obsidian/topics/self-stultification-as-master-argument.md -- Context: Cross-review self-stultification-as-master-argument.md and argument-from-reason.md considering epistemic-self-defeat insights
 
 ### ✓ 2026-04-16: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
 - **Type**: cross-review

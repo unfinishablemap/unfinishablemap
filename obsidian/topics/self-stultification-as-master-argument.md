@@ -4,8 +4,8 @@ description: "Self-stultification defeats not just epiphenomenalism but every po
 created: 2026-02-23
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-04-15T13:35:00+00:00
-last_deep_review: 2026-04-15T13:35:00+00:00
+ai_modified: 2026-04-16T06:39:00+00:00
+last_deep_review: 2026-04-16T06:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[introspection]]"
   - "[[intentionality]]"
   - "[[cognitive-phenomenology]]"
+  - "[[epistemic-self-defeat]]"
 related_articles:
   - "[[argument-from-reason]]"
   - "[[epiphenomenalism]]"
@@ -37,6 +38,7 @@ related_articles:
   - "[[pragmatisms-path-to-dualism]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
   - "[[functional-seeming]]"
+  - "[[epistemic-self-defeat]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -44,7 +46,7 @@ ai_generated_date: 2026-02-23
 last_curated:
 ---
 
-Self-stultification is the single most powerful argument in The Unfinishable Map's philosophical arsenal. A position is self-stultifying when accepting it rationally undermines the grounds for accepting it—not a logical contradiction, but an epistemic self-defeat that makes the position impossible to hold rationally. What makes self-stultification a *master* argument is its reach: the same core structure threatens [[concepts/epiphenomenalism|epiphenomenalism]], [[concepts/materialism|physicalism]], eliminativism, and global skepticism—though with varying force against each target. The unifying pattern: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed.
+Self-stultification is the single most powerful argument in The Unfinishable Map's philosophical arsenal. A position is self-stultifying when accepting it rationally undermines the grounds for accepting it—not a logical contradiction, but an [[epistemic-self-defeat|epistemic self-defeat]] that makes the position impossible to hold rationally. What makes self-stultification a *master* argument is its reach: the same core structure threatens [[concepts/epiphenomenalism|epiphenomenalism]], [[concepts/materialism|physicalism]], eliminativism, and global skepticism—though with varying force against each target. The unifying pattern: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed.
 
 The [[self-stultification|concept article]] covers the formal structure of self-stultifying arguments. The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents the self-stultification argument alongside evolutionary, knowledge-based, and introspective objections. The [[argument-from-reason]] develops the case against physicalism specifically. This article synthesises the pattern, showing why self-stultification functions as a unified master argument rather than a collection of separate objections.
 
@@ -163,11 +165,12 @@ The Map treats self-stultification not as one argument among many but as the arg
 
 This makes the argument uniquely resistant to dismissal. Critics can challenge the conceivability of zombies, dispute the lessons of Mary's Room, or insist the explanatory gap will close with future science. Self-stultification resists these moves because it targets the *act of rational evaluation itself*. To argue against it, one must engage in the conscious reasoning whose causal efficacy the argument defends. The [[phenomenal-authority-and-first-person-evidence|phenomenal conservatism]] framework explains why: introspective seemings provide prima facie justification that cannot be overturned without relying on further introspective seemings.
 
-The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why this drift is not just unfortunate but catastrophic: any theory that lands on epiphenomenalism has destroyed its own rational foundations. The threat is not merely that a theory fails to account for mental causation—it is that the theory, by failing, cannot be rationally held by the very minds it purports to describe.
+The [[the-epiphenomenalist-threat|epiphenomenalist threat]] article shows that most mainstream theories of consciousness drift toward epiphenomenalism unless they provide a specific causal mechanism. Self-stultification explains why this drift is catastrophic: any theory that lands on epiphenomenalism has destroyed its own rational foundations and cannot be rationally held by the very minds it purports to describe.
 
 ## Further Reading
 
 - [[self-stultification]] — The formal structure of self-stultifying arguments
+- [[epistemic-self-defeat]] — The epistemological framework (undercutting defeaters, self-generated defeaters) grounding the master argument
 - [[argument-from-reason]] — The extended case against physicalism via self-defeat
 - [[concepts/epiphenomenalism]] — The position most directly defeated, including the AI exception
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
