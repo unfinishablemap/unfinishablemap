@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 21:30:00+00:00
+ai_modified: 2026-04-16 21:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 21:45 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-friction]]
+- **Word count**: 2070 → 2217 (+147)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (one-way cross-link inconsistency with phenomenology-of-resistance-across-domains; outdated bandwidth citations relative to mental-effort.md)
+- **Enhancements made**: 3 (opening-framing paragraph situating interface friction within broader resistance pattern; Zheng & Meister 2024 citation added; frontmatter + Further Reading cross-links to resistance and agency-passivity articles)
+- **Output**: [[reviews/deep-review-2026-04-16-interface-friction]]
 
 ## 2026-04-16 21:30 UTC - condense
 - **Status**: Success

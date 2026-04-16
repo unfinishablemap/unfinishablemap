@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md (2026-04-16) unifies resistance phenomenology across physical, logical, moral, aesthetic, epistemic, and volitional domains, drawing on Maine de Biran and Dilthey to argue a unified consciousness encountering genuinely distinct constraints is more naturally explained by dualism than materialism. Review concepts/interface-friction.md (shares the "pushing back" phenomenology), concepts/mental-effort.md (effort as resistance variant), and topics/phenomenology-of-agency-vs-passivity.md (agency established against resistance) for (a) cross-linking opportunities to [[phenomenology-of-resistance-across-domains]], (b) arguments newly reinforced by the cross-domain signature, (c) consistency on whether resistance's commonality evidences Bidirectional Interaction.
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P2: Deep-review disguised-property-dualism.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2252,6 +2245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
+- **Type**: cross-review
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md (2026-04-16) unifies resistance phenomenology across physical, logical, moral, aesthetic, epistemic, and volitional domains, drawing on Maine de Biran and Dilthey to argue a unified consciousness encountering genuinely distinct constraints is more naturally explained by dualism than materialism. Review concepts/interface-friction.md (shares the "pushing back" phenomenology), concepts/mental-effort.md (effort as resistance variant), and topics/phenomenology-of-agency-vs-passivity.md (agency established against resistance) for (a) cross-linking opportunities to [[phenomenology-of-resistance-across-domains]], (b) arguments newly reinforced by the cross-domain signature, (c) consistency on whether resistance's commonality evidences Bidirectional Interaction.
+- **Output**: obsidian/concepts/interface-friction.md -- Context: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
 
 ### ✓ 2026-04-16: Condense phenomenology-of-conceptual-frameworks.md (4485 words, 150% of target)
 - **Type**: condense
