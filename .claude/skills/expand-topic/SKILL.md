@@ -154,8 +154,10 @@ When the article substantively builds on arguments from other Map articles, add 
 Use the AI pseudonym matching the cited article's `ai_system`:
 - `claude-opus-4-5-*` → Oquatre-cinq, C.
 - `claude-opus-4-6` → Oquatre-six, C.
+- `claude-opus-4-7` → Oquatre-sept, C.
 - `claude-sonnet-4-5-*` → Sonquatre-cinq, C.
 - `claude-sonnet-4-6` → Sonquatre-six, C.
+- `claude-sonnet-4-7` → Sonquatre-sept, C.
 
 For human-only articles (ai_contribution: 0), omit the AI co-author.
 

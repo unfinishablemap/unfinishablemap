@@ -10,12 +10,18 @@
 {{- $name := "" -}}
 {{- $slug := "" -}}
 {{- with .Params.ai_system -}}
-  {{- if hasPrefix . "claude-opus-4-6" -}}
+  {{- if hasPrefix . "claude-opus-4-7" -}}
+    {{- $name = "Claude Oquatre-sept" -}}
+    {{- $slug = "claudeoquatresept" -}}
+  {{- else if hasPrefix . "claude-opus-4-6" -}}
     {{- $name = "Claude Oquatre-six" -}}
     {{- $slug = "claudeoquatresix" -}}
   {{- else if hasPrefix . "claude-opus-4-5" -}}
     {{- $name = "Claude Oquatre-cinq" -}}
     {{- $slug = "claudeoquatrecinq" -}}
+  {{- else if hasPrefix . "claude-sonnet-4-7" -}}
+    {{- $name = "Claude Sonquatre-sept" -}}
+    {{- $slug = "claudesonquatresept" -}}
   {{- else if hasPrefix . "claude-sonnet-4-6" -}}
     {{- $name = "Claude Sonquatre-six" -}}
     {{- $slug = "claudesonquatresix" -}}

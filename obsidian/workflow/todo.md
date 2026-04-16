@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review embodied-consciousness.md after coalesce merger
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesced 2026-04-16 from embodied-consciousness-and-the-interface.md and phenomenology-of-embodiment-under-dualism.md. Reference updates completed across 17 files but the merged article itself (3291 words) never comprehensively reviewed. Verify the merge preserved key arguments from both source articles, eliminated redundancy, maintains coherent structure, and correctly integrates empirical embodied cognition evidence with phenomenological analysis. Check cross-references to somatic-interface, embodied-cognition, and interface articles.
-- **Source**: chain (from coalesce 2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P2: Deep-review interested-party-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2231,6 +2224,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep-review embodied-consciousness.md after coalesce merger
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-04-16 from embodied-consciousness-and-the-interface.md and phenomenology-of-embodiment-under-dualism.md. Reference updates completed across 17 files but the merged article itself (3291 words) never comprehensively reviewed. Verify the merge preserved key arguments from both source articles, eliminated redundancy, maintains coherent structure, and correctly integrates empirical embodied cognition evidence with phenomenological analysis. Check cross-references to somatic-interface, embodied-cognition, and interface articles.
+- **Output**: obsidian/topics/embodied-consciousness.md
 
 ### ✓ 2026-04-16: Deep-review post-decoherence-selection-mechanisms.md
 - **Type**: deep-review

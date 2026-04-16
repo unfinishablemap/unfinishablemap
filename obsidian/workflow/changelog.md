@@ -5,6 +5,16 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/embodied-consciousness]]
+- **Word count**: 3163 → 3193 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (citation attribution for attention timing)
+- **Enhancements made**: 2 (added Müller & Rabbitt 1989 reference, softened Thompson quote framing)
+- **Output**: [[reviews/deep-review-2026-04-16b-embodied-consciousness]]
+- **Note**: Second review today. Article stable — changes limited to citation precision. No further reviews warranted without new content.
+
 ## 2026-04-16 15:00 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/post-decoherence-selection-mechanisms]]
