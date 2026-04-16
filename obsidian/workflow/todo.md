@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense consciousness-selecting-neural-patterns.md (3818 words, 109% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Concept page on how consciousness might select among neural activation patterns via quantum indeterminacy. Preserve core selection mechanism arguments while removing redundancy. Note: pessimistic review (2026-03-20) also flagged inflated empirical claims about microtubule coherence — condensing should prioritise removing overreaching empirical claims. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-16
-
 ### P2: Condense phenomenology.md (3604 words, 103% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2175,6 +2168,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Condense consciousness-selecting-neural-patterns.md (3818 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Concept page on how consciousness might select among neural activation patterns via quantum indeterminacy. Preserve core selection mechanism arguments while removing redundancy. Note: pessimistic review (2026-03-20) also flagged inflated empirical claims about microtubule coherence — condensing should prioritise removing overreaching empirical claims. See /condense skill.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md
 
 ### ✓ 2026-04-16: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
 - **Type**: cross-review

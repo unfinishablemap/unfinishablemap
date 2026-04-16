@@ -5,6 +5,14 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 09:28 UTC - condense
+- **Status**: Success
+- **File**: [[consciousness-selecting-neural-patterns]]
+- **Before**: 3438 words
+- **After**: 2540 words
+- **Reduction**: 26%
+- **Technique**: Tightened decoherence responses (cut redundancy, consolidated arguments), compressed brain boundary and illusionist sections, collapsed bandwidth table into prose, condensed retrocausal comparison and falsifiability sections, merged Selection vs Random list into flowing paragraph
+
 ## 2026-04-16 09:21 UTC - tune-system
 - **Status**: Success
 - **Sessions analyzed**: 144 (5699 to 5843)
