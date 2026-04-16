@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-16T14:13:49.878940+00:00'
-session_count: 5864
-cycle_position: 5492
+last_updated: '2026-04-16T14:28:49.879508+00:00'
+session_count: 5865
+cycle_position: 5493
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T10:43:49.870854+00:00'
@@ -49,12 +49,22 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 58
+  needs_replenishment: false
+  last_replenishment: '2026-04-16T14:43:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    unconsumed_research: 2
+    staleness: 1
+    gap_analysis: 0
+    length_analysis: 0
+    orphan_integration: 0
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/consciousness-selecting-neural-p)
-  type: condense
-  date: '2026-04-16'
-  outcome: success
 - task: condense (obsidian/concepts/phenomenology.md)
   type: condense
   date: '2026-04-16'
@@ -135,5 +145,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-04-16'
+  outcome: success
+- task: expand-topic (Create concept page for phenomenal intentionality)
+  type: expand-topic
   date: '2026-04-16'
   outcome: success
