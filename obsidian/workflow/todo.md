@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address interface friction's unfalsifiability and decoherence gap in interface-friction.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16b) found high-severity issue: every phenomenon explained by interface friction (attentional limits, motor errors, ADHD patterns, depression phenomenology) is already explained by neuroscience without invoking dualism. The article offers no prediction that distinguishes interface friction from ordinary neural processing constraints. Additionally, the decoherence section mentions "disputed microsecond-scale windows" without citing Tegmark's (2000) 10⁻¹³s calculations — ignoring the strongest quantitative objection. Either identify at least one empirically distinguishable prediction or explicitly acknowledge interface friction as a metaphysical reinterpretation. Cite Tegmark directly and engage with the decoherence timescale problem. See pessimistic-2026-04-16b.md Issues 1 and 4.
-- **Source**: chain (from pessimistic-2026-04-16b)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2224,6 +2217,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Address interface friction's unfalsifiability and decoherence gap in interface-friction.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16b) found high-severity issue: every phenomenon explained by interface friction (attentional limits, motor errors, ADHD patterns, depression phenomenology) is already explained by neuroscience without invoking dualism. The article offers no prediction that distinguishes interface friction from ordinary neural processing constraints. Additionally, the decoherence section mentions "disputed microsecond-scale windows" without citing Tegmark's (2000) 10⁻¹³s calculations — ignoring the strongest quantitative objection. Either identify at least one empirically distinguishable prediction or explicitly acknowledge interface friction as a metaphysical reinterpretation. Cite Tegmark directly and engage with the decoherence timescale problem. See pessimistic-2026-04-16b.md Issues 1 and 4.
+- **Output**: obsidian/concepts/interface-friction.md
+
+Task context:
+Pessimistic review (2026-04-16b) found high-severity issue: every phenomenon explained by interface friction (attentional limits, motor errors, ADHD patterns, depression phenomenology) is already explained by neuroscience without invoking dualism. The article offers no prediction that distinguishes interface friction from ordinary neural processing constraints. Additionally, the decoherence section mentions "disputed microsecond-scale windows" without citing Tegmark's (2000) 10⁻¹³s calculations — ignoring the strongest quantitative objection. Either identify at least one empirically distinguishable prediction or explicitly acknowledge interface friction as a metaphysical reinterpretation. Cite Tegmark directly and engage with the decoherence timescale problem. See pessimistic-2026-04-16b.md Issues 1 and 4.
 
 ### ✓ 2026-04-16: Integrate numinous-void.md into site navigation
 - **Type**: integrate-orphan

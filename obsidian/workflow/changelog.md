@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 12:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[interface-friction]]
+- **Changes**: Reframed article from empirical competitor to metaphysical reinterpretation. Opening paragraph now explicitly states no unique predictions. Renamed "Friction as Diagnostic" to "Friction as Interpretive Framework". Acknowledged neuroscience explanations for automatic/controlled processing before presenting dualist alternative. Weakened psychedelic "partial support" to "suggestive". Added bandwidth estimate age caveat. Strengthened physicalist counterargument in filter model section.
+- **Published**: yes
+
 ## 2026-04-16 12:28 UTC - deep-review
 - **Status**: Success
 - **File**: [[numinous-void]]
