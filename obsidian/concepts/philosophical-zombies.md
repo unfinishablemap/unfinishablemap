@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-16T16:58:00+00:00
+ai_modified: 2026-04-16T18:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -122,7 +122,7 @@ Raymond Tallis argues that illusionism compounds rather than solves the problem:
 
 Ironically, illusionism may strengthen the conceivability of zombies. If the illusionist grants that zombies would make the same reports, have identical quasi-phenomenal properties, and be "under the same illusion"—then what distinguishes us from zombies? The illusionist's answer: nothing. We *are* zombies, just confused ones.
 
-This concedes the conceivability premise while denying the reality of what's conceived. The Map maintains that our conviction of phenomenal consciousness—shared across cultures—is better explained by actual experience than by systematic illusion. See [[introspection]] for why phenomenal access is more reliable than illusionism allows.
+This concedes the conceivability premise while denying the reality of what's conceived. The Map takes a stance, not a knockdown proof: our conviction of phenomenal consciousness is better explained by actual experience than by systematic illusion. The illusionist can always reply that the conviction is itself illusory, and that reply is not strictly refutable—but it requires a non-circular functional story for why a physical system would represent itself as phenomenally conscious, and no such story has been supplied. See [[introspection]] for why phenomenal access is more reliable than illusionism allows.
 
 ## Implications for Dualism
 
@@ -146,7 +146,15 @@ If zombies are possible, they make phenomenal judgments ("I am conscious") witho
 
 **Response:** The dualist maintains that consciousness *does* causally influence our judgments—that's why we have accurate introspective access. The zombie's judgments, though identical in content, have different (purely physical) causes. This requires accepting that consciousness has causal power—exactly what the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms.
 
-**The Interactionist Escape.** A critic will push harder: if the zombie is stipulated to be a complete physical duplicate producing identical reports, then consciousness adds no differential physical contribution to the report stream. This is the structure of [[concepts/epiphenomenalism|epiphenomenalism]]—which the Map elsewhere rejects. The interactionist's honest response is to deny the stipulation. If consciousness genuinely causes reports (per Bidirectional Interaction), then a being physically identical to a conscious human *cannot* produce identical reports without consciousness—because the physical story is not causally complete at the report-generation level. Zombies remain *conceivable* (we can imagine beings physically like us without consciousness), but their full specification—complete physical duplication *plus* identical behavioural output—is only coherent if one brackets the question of whether physics is causally closed. This narrows the zombie argument's target: it shows that phenomenal facts don't reduce to physical facts, not that both could coexist while consciousness does nothing. The [[metaproblem-of-consciousness-under-dualism|metaproblem argument]] makes the same move—under interactionism, zombies and conscious beings should diverge in their reports, precisely because consciousness contributes to the causal chain that produces them.
+#### The Interactionist Escape
+
+A critic will push harder. If the zombie is stipulated to be a complete physical duplicate producing identical reports, then consciousness adds no differential physical contribution to the report stream. It rides alongside the causal chain without altering it. That is the structure of [[concepts/epiphenomenalism|epiphenomenalism]]—which the Map elsewhere rejects. The Response above gestures at Bidirectional Interaction without explaining how causal-power consciousness can coexist with complete physical determination of the report.
+
+The interactionist's honest reply is to reject the stipulation. If consciousness genuinely causes reports (per Bidirectional Interaction), then a being physically identical to a conscious human *cannot* produce identical reports without consciousness—because the physical story is not causally complete at the report-generation level. On this view, the zombie-world description is internally incoherent: you cannot hold fixed both "complete physical duplicate" and "identical behavioural output" while denying consciousness, because the physics alone does not fix the output. Something must give.
+
+This has a cost: it weakens the zombie argument as a *standalone* attack on physicalism. The argument becomes conditional. Zombies remain *conceivable*—we can imagine beings physically like us without consciousness—but their full specification (physical duplication *plus* identical behaviour) is coherent only if we bracket the question of causal closure. Against a physicalist who accepts causal closure, the interactionist's move is question-begging; against one who doesn't, it isn't needed. The argument's remaining force is narrower but consistent with the Map's commitments: it shows that phenomenal facts don't reduce to physical facts, not that both could coexist while consciousness does nothing.
+
+The [[metaproblem-of-consciousness-under-dualism|metaproblem argument]] makes the same structural move. Under interactionism, zombies and conscious beings should diverge in their reports, precisely because consciousness contributes to the causal chain that produces them. The zombie thought experiment retains its diagnostic power—it isolates *what* the physicalist has to explain—while the positive metaphysics is carried by interactionism rather than by conceivability alone.
 
 ### What Are Zombies Evidence Of?
 
@@ -222,4 +230,10 @@ The zombie argument connects to all five of the Map's tenets.
 - Alfred North Whitehead, *Process and Reality* (1929)
 - Raymond Tallis, *Aping Mankind* (2011)
 - Keith Frankish, "Illusionism as a Theory of Consciousness" (2016)
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+- Promoted "Interactionist Escape" from a bold paragraph to an H4 subsection under "The Paradox of Phenomenal Judgment"; expanded it to explicitly name the epiphenomenalism structure, state that the interactionist must reject the physical-duplicate stipulation, and concede that this weakens the zombie argument as a standalone attack on physicalism while keeping it consistent with Bidirectional Interaction. Addresses pessimistic-2026-04-16c Issue 3.
+- Hedged "conviction of phenomenal consciousness ... better explained by actual experience than by systematic illusion" — now framed as a stance rather than a proof, with a note on why the illusionist reply is not strictly refutable but requires an unsupplied non-circular functional story.
+Remove after human review.
+-->
 

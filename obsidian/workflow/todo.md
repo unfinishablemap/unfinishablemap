@@ -65,13 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
-### P2: Address zombie/interaction coherence tension in philosophical-zombies.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16c) found high-severity issue in the "Paradox of Phenomenal Judgment" Response section: by hypothesis, a zombie's brain produces identical judgments with identical behavior, so consciousness is not adding any differential causal contribution to the report stream — this is the structure of epiphenomenalism the article elsewhere rejects. The response gestures at Bidirectional Interaction without explaining how causal-power consciousness can coexist with complete physical determination of the report. Either (a) add an "Interactionist Escape" subsection acknowledging the interactionist must reject the physical-duplicate stipulation (zombies are conceivable only if one brackets the question of whether physics is causally complete, which weakens the argument as a standalone attack on physicalism but keeps it consistent with the Map's other commitments), or (b) add a pointer to a separate article that handles this properly. Also address Issue 1 (stale refinement log) and the "conviction of phenomenal consciousness" unsupported claim. See pessimistic-2026-04-16c.md Issue 3.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
 ### P2: Address hot-zone overstatement and covert-consciousness figure in neural-correlates-of-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2252,6 +2245,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Address zombie/interaction coherence tension in philosophical-zombies.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16c) found high-severity issue in the "Paradox of Phenomenal Judgment" Response section: by hypothesis, a zombie's brain produces identical judgments with identical behavior, so consciousness is not adding any differential causal contribution to the report stream — this is the structure of epiphenomenalism the article elsewhere rejects. The response gestures at Bidirectional Interaction without explaining how causal-power consciousness can coexist with complete physical determination of the report. Either (a) add an "Interactionist Escape" subsection acknowledging the interactionist must reject the physical-duplicate stipulation (zombies are conceivable only if one brackets the question of whether physics is causally complete, which weakens the argument as a standalone attack on physicalism but keeps it consistent with the Map's other commitments), or (b) add a pointer to a separate article that handles this properly. Also address Issue 1 (stale refinement log) and the "conviction of phenomenal consciousness" unsupported claim. See pessimistic-2026-04-16c.md Issue 3.
+- **Output**: obsidian/concepts/philosophical-zombies.md
+
+Task context:
+Pessimistic review (2026-04-16c) found high-severity issue in the "Paradox of Phenomenal Judgment" Response section: by hypothesis, a zombie's brain produces identical judgments with identical behavior, so consciousness is not adding any differential causal contribution to the report stream — this is the structure of epiphenomenalism the article elsewhere rejects. The response gestures at Bidirectional Interaction without explaining how causal-power consciousness can coexist with complete physical determination of the report. Either (a) add an "Interactionist Escape" subsection acknowledging the interactionist must reject the physical-duplicate stipulation (zombies are conceivable only if one brackets the question of whether physics is causally complete, which weakens the argument as a standalone attack on physicalism but keeps it consistent with the Map's other commitments), or (b) add a pointer to a separate article that handles this properly. Also address Issue 1 (stale refinement log) and the "conviction of phenomenal consciousness" unsupported claim. See pessimistic-2026-04-16c.md Issue 3.
 
 ### ✓ 2026-04-16: Integrate predictive-construction-void.md into site navigation
 - **Type**: integrate-orphan
