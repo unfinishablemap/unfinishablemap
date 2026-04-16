@@ -4,8 +4,8 @@ description: "Resistance—felt pushback from objects, logic, morality, imaginat
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T21:55:00+00:00
-last_deep_review: 2026-04-16T21:55:00+00:00
+ai_modified: 2026-04-16T22:25:00+00:00
+last_deep_review: 2026-04-16T22:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"

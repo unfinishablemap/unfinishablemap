@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review phenomenology-of-resistance-across-domains.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic from research/phenomenology-of-resistance-across-domains-2026-04-06.md. Medium-scope (2500-3500 words) unification of resistance phenomenology across domains. Never deep-reviewed. Verify accuracy of Maine de Biran and Dilthey attributions, coherence of the cross-domain signature argument, whether the move from "common phenomenal signature" to "genuinely distinct constraint types" is watertight or begs the question, cross-references to interface-friction and the effort cluster, and tenet alignment (Bidirectional Interaction is load-bearing).
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
@@ -2238,6 +2231,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep-review phenomenology-of-resistance-across-domains.md
+- **Type**: deep-review
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic from research/phenomenology-of-resistance-across-domains-2026-04-06.md. Medium-scope (2500-3500 words) unification of resistance phenomenology across domains. Never deep-reviewed. Verify accuracy of Maine de Biran and Dilthey attributions, coherence of the cross-domain signature argument, whether the move from "common phenomenal signature" to "genuinely distinct constraint types" is watertight or begs the question, cross-references to interface-friction and the effort cluster, and tenet alignment (Bidirectional Interaction is load-bearing).
+- **Output**: obsidian/topics/phenomenology-of-resistance-across-domains.md
 
 ### ✓ 2026-04-16: Deep-review disguised-property-dualism.md
 - **Type**: deep-review
