@@ -4,7 +4,8 @@ description: "A diagnostic for physicalist theories that posit two irreducible d
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T19:10:00+00:00
+ai_modified: 2026-04-16T20:15:00+00:00
+last_deep_review: 2026-04-16T20:15:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,6 +64,8 @@ Integrated Information Theory's "intrinsic existence" axiom holds that conscious
 
 Type-A physicalism — the view that there is no explanatory gap, only a cognitive illusion that one exists — is not disguised property dualism. It denies condition (1): there is one structure, not two. The dispute with type-A physicalism is whether the gap is real, not whether the theorist has hidden a dualism.
 
+Type-B physicalism — which accepts the gap but holds that phenomenal and physical states are identical *a posteriori*, as water is identical to H₂O — is the diagnostic's hardest case. A pure type-B view that posits one property accessed under two concepts escapes the diagnosis: there is one structure, reached by two modes of access. But a type-B view that leans on a second structure to carry the explanatory weight while asserting identity without exhibiting it falls under condition (3). The diagnostic targets that specific move, not the general *a posteriori* identity strategy.
+
 ### From overt property dualism
 
 The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] satisfies condition (1) and rejects condition (2). It accepts that the two-structure architecture is genuinely dual and pays the cost openly: it commits to brute psychophysical linking principles, accepts the [[interactionist-dualism|interaction problem]] explicitly, and proposes a quantum interface as the mechanism. Naming the position is part of the methodological discipline. The complaint against the disguised variants is not that they introduce two structures — that may be unavoidable — but that they refuse to acknowledge the cost.
@@ -73,7 +76,7 @@ The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] satisfies condition (1)
 
 ## Why the Pattern Recurs
 
-The pattern recurs because the hard problem creates a stable rhetorical pressure. Physicalist research programmes face two costs: denying the gap (which strains pre-theoretic phenomenology) or accepting it (which courts dualism). Disguised property dualism tries to pay neither cost: it acknowledges the gap by introducing a second structure, then refuses dualism by asserting the structures are aspects of one thing. The move is rhetorically efficient — it preserves the physicalist label while honouring the explanatory gap — but philosophically unstable. The promissory note that the two structures will collapse into one is rarely cashed.
+The pattern recurs because the hard problem creates a stable rhetorical pressure. Physicalist research programmes face two costs: denying the gap (which strains pre-theoretic phenomenology) or accepting it (which courts dualism). Disguised property dualism tries to pay neither cost: it acknowledges the gap by introducing a second structure, then refuses dualism by asserting the structures are aspects of one thing. The move is rhetorically efficient — it preserves the physicalist label while honouring the explanatory gap — but philosophically unstable. The promissory note that the two structures will collapse into one is rarely cashed. Cashing it would require exhibiting the reduction: either logical derivation of one structure from the other, or a mechanism that constrains how the two descriptions covary — not merely asserting that future science will provide one.
 
 The diagnostic is most useful when applied generously rather than punitively. Markovian monism, Russellian monism, and some IIT framings are serious attempts to thread a real philosophical needle; the diagnosis is not that they are disingenuous but that the threading does not succeed without conceding more than the framework wishes to concede.
 
