@@ -171,13 +171,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-15
 
-### P2: Write article on the metaphor void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Previously blocked; voids section now at 99/100 with 1 slot available.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-12
-
 ### P3: Write article on consciousness-physics interface mechanism (technical treatment)
 - **Type**: expand-topic
 - **Status**: pending
@@ -2238,6 +2231,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Write article on the metaphor void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-metaphor-void-2026-03-20.md. The metaphor void explores how metaphor both enables and distorts understanding of consciousness — every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Previously blocked; voids section now at 99/100 with 1 slot available.
+- **Output**: the metaphor void
 
 ### ✓ 2026-04-16: Address quantum-assumption transparency and diagnostic-value overreach in ai-consciousness.md and simulation.md
 - **Type**: refine-draft

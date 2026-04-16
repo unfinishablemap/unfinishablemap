@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 19:40:00+00:00
+ai_modified: 2026-04-16 19:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 19:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The metaphor void
+- **Output**: [[voids/metaphor-void]]
+- **Word count**: 1871
+- **Based on research**: yes, [[research/voids-metaphor-void-2026-03-20]]
 
 ## 2026-04-16 19:40 UTC - refine-draft
 - **Status**: Success
