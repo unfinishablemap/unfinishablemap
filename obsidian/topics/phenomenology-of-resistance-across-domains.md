@@ -4,7 +4,8 @@ description: "Resistance—felt pushback from objects, logic, morality, imaginat
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T20:26:00+00:00
+ai_modified: 2026-04-16T21:55:00+00:00
+last_deep_review: 2026-04-16T21:55:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -38,7 +39,7 @@ The Unfinishable Map proposes that this common signature is philosophically sign
 
 ## Six Domains of Resistance
 
-Resistance is not a single phenomenon wearing different masks. It comes in at least six recognisably distinct modes, each with its own phenomenological character. What matters philosophically is that each mode exhibits the same core structure—directed effort encountering constraint—while the object of resistance differs.
+Resistance comes in at least six recognisably distinct modes, each with its own phenomenological character. The six domains differ genuinely in what they resist and how the pushback feels; what matters philosophically is that each mode exhibits the same core structure—directed effort encountering constraint—while the object of resistance varies.
 
 ### Physical Resistance
 
@@ -86,7 +87,7 @@ What do the six domains share, beyond the loose notion of "pushback"? Three spec
 
 First, **directedness meeting constraint**. In every case there is a vector of conscious activity—lifting, thinking, choosing, imagining, believing, shaping—and a counter-vector that is not under the agent's immediate control. The phenomenology of resistance is the phenomenology of these two vectors meeting. Absent a directed consciousness, there would be nothing for resistance to appear against; absent something not under direct control, there would be no resistance.
 
-Second, **graded yielding**. In no domain is the resistance absolute (in the sense of zero movement) or frictionless. Physical objects yield to enough force; logical necessities yield to subtle enough re-framing; moral resistances yield, sometimes, to temptation; imaginative resistances sometimes give way to dark fiction; beliefs revise over time; materials give up their forms under patient craft. Resistance has magnitude. It is not a binary but a gradient—a fact the Map's concept of [[interface-friction]] already recognises in the mind-brain case.
+Second, **graded yielding**. In no domain is the felt resistance absolute (in the sense of zero movement) or frictionless. Physical objects yield to enough force; the pull of logical necessity loosens when a problem is reframed, even if the necessities themselves remain fixed; moral resistances yield, sometimes, to temptation; imaginative resistances sometimes give way to dark fiction; beliefs revise over time; materials give up their forms under patient craft. Resistance has magnitude—a gradient, not a binary—which is also how the Map's concept of [[interface-friction]] models the mind-brain case.
 
 Third, **asymmetric temporality**. Resistance is encountered in the present, but its yielding unfolds in time. Effort sustained across moments gradually accomplishes what a single surge cannot. This is as true of the sculptor's chisel as of the attempt to change one's own belief, as true of motor learning as of overcoming a moral aversion. The phenomenology of resistance is inseparable from the phenomenology of sustained agency.
 
@@ -98,7 +99,7 @@ The strongest objection to taking cross-domain resistance as evidence for anythi
 
 If illusionism is right, the cross-domain pattern identified here is a pattern in the illusion, not a pattern in reality. The brain generates a unified phenomenology of resistance as a design feature of its agency-modelling, not because anything is really pushing back against anything else. On this view, the Biranian thread is diagnosing the structure of the self-model rather than the structure of consciousness.
 
-Two considerations bear against this deflationary move. The first is the self-undermining problem familiar from the epiphenomenalism literature: if the phenomenology of resistance is illusory, our own reasoning about it—including the reasoning that produces illusionism—is no more reliable than any other neural noise. The second is the one Biran pressed against Hume: the first-person experience of acting-against-constraint is phenomenologically primary, while the illusionist story is a theoretical reconstruction that has to explain away precisely the evidence it is called upon to interpret. The deflationary move is not impossible, but it is not cost-free.
+Two considerations bear against this deflationary move. The first is the self-undermining problem familiar from the [[concepts/epiphenomenalism|epiphenomenalism]] literature: if the phenomenology of resistance is illusory, our own reasoning about it—including the reasoning that produces illusionism—is no more reliable than any other neural noise. The second is the one Biran pressed against Hume: the first-person experience of acting-against-constraint is phenomenologically primary, while the illusionist story is a theoretical reconstruction that has to explain away precisely the evidence it is called upon to interpret. The deflationary move is not impossible, but it is not cost-free.
 
 This article does not settle the debate between realist and illusionist readings of resistance phenomenology. It claims only that the cross-domain pattern deserves to be taken seriously as a datum, and that any adequate theory of consciousness—dualist or materialist—must explain why the same phenomenal structure appears in so many different places.
 
