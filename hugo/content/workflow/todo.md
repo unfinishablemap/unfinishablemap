@@ -38,11 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix 8 broken wikilinks to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
-- **Type**: refine-draft
+### P2: Condense consciousness-selecting-neural-patterns.md (3818 words, 109% of hard threshold)
+- **Type**: condense
 - **Status**: pending
-- **Notes**: 8 content files link to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [epiphenomenalism](/concepts/epiphenomenalism/) or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
-- **Source**: gap_analysis
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Concept page on how consciousness might select among neural activation patterns via quantum indeterminacy. Preserve core selection mechanism arguments while removing redundancy. Note: pessimistic review (2026-03-20) also flagged inflated empirical claims about microtubule coherence — condensing should prioritise removing overreaching empirical claims. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-16
+
+### P2: Condense phenomenology.md (3604 words, 103% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core concept page on phenomenology as philosophical method. Preserve the essential definitions and methodological framework while tightening sections that overlap with the dedicated phenomenological-method-and-evidence-standards.md article. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-16
+
+### P3: Deep review agency-verification-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of verifying genuine agency from the outside. Verify coherence, accuracy of philosophical claims, cross-references to free-will, phenomenology-of-agency-vs-passivity, and interested-party-void, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
+### P3: Deep review minimal-consciousness-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) with no recorded deep review. Voids article on the impossibility of identifying the minimal conditions for consciousness. Verify coherence, cross-references to degrees-of-consciousness and threshold-void, and tenet alignment.
+- **Source**: staleness
 - **Generated**: 2026-04-16
 
 ### P3: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
@@ -2155,6 +2176,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the structural observation that consciousness investigating itself has existential stakes in the outcome — the judge and the accused are the same entity. Review complicity-void.md for opportunities to cross-link (interested party void extends complicity from participation to motivation). Review necessary-opacity.md to add the interested-party dimension to the opacity argument.
+- **Output**: obsidian/voids/complicity-void.md -- Context: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
+
+### ✓ 2026-04-16: Cross-review trilemma-of-selection.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
+- **Type**: cross-review
+- **Notes**: New article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 introduces the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Review trilemma-of-selection.md to ensure the trilemma accounts for post-decoherence selection as a distinct option. Review comparing-quantum-consciousness-mechanisms.md to add post-decoherence selection as a compared mechanism and cross-link.
+- **Output**: obsidian/topics/trilemma-of-selection.md -- Context: Cross-review trilemma-of-selection.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
+
+### ✓ 2026-04-16: Fix 8 broken wikilinks to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Type**: refine-draft
+- **Notes**: 8 content files link to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [epiphenomenalism](/concepts/epiphenomenalism/) or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
+- **Output**: Task context:
+8 content files link to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [epiphenomenalism](/concepts/epiphenomenalism/) or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
 
 ### ✓ 2026-04-16: Fix 19 broken wikilinks to [many-worlds-argument](/arguments/many-worlds-argument/)
 - **Type**: refine-draft

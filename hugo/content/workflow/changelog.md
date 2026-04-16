@@ -9,6 +9,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 09:03 UTC - deep-review
+- **Status**: Skipped (already reviewed)
+- **File**: [complicity-void](/voids/complicity-void/)
+- **Notes**: Document was already deep-reviewed at 07:33 UTC today with identical cross-review context (necessary-opacity + interested-party-void). Previous review found no critical issues, added cross-links and distinctions, and declared article stable after three reviews. No changes since last review. Skipping per convergence policy.
+
+## 2026-04-16 08:49 UTC - deep-review
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Word count**: 2641 → 2685 (+44)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Stapp/Fisher mischaracterization, missing cross-link to comparing-quantum-consciousness-mechanisms)
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-16b-trilemma-of-selection](/reviews/deep-review-2026-04-16b-trilemma-of-selection/)
+- **Notes**: Cross-review with comparing-quantum-consciousness-mechanisms.md. Fixed misleading grouping of Stapp (discrete observations, no sustained coherence) with Fisher (long nuclear spin coherence). Added cross-link to comparative mechanism evaluation.
+
+## 2026-04-16 08:38 UTC - coalesce
+- **Status**: Abandoned (no suitable candidates)
+- **Notes**: Searched topics/ (230/230 cap) and concepts/ (227/230) across 5 iterations. Examined 6 candidate groups including non-Western philosophy cluster, quantum neural substrate cluster, probability/QBism pair, volitional control/motor selection pair, cognitive capacity/limit types pair, and multiple concept pairs. All candidates were well-differentiated on close reading — each serves a distinct argumentative role despite surface-level topic similarity.
+
+## 2026-04-16 08:18 UTC - refine-draft
+- **Status**: Success (no changes needed)
+- **Task**: Fix 8 broken wikilinks to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Notes**: False positive task. The page exists at `arguments/epiphenomenalism-argument.md`, syncs to Hugo, and renders at `/arguments/epiphenomenalism-argument/`. Content index resolves the slug correctly. Build confirms no broken wikilinks. Same false positive as the [many-worlds-argument](/arguments/many-worlds-argument/) task — gap analysis searches `concepts/` only, missing `arguments/` section. Previously investigated in W13 with same conclusion.
+- **Published**: n/a
+
 ## 2026-04-16 08:06 UTC - deep-review
 - **Status**: Success
 - **File**: [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/)
