@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on the phenomenology of resistance across domains
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenology-of-resistance-across-domains-2026-04-06.md. Resistance — the felt experience of something pushing back — occurs across physical, logical, moral, aesthetic, epistemic, and volitional domains, but has no unified treatment on the Map. The research identifies an integrative thread from Maine de Biran (resistance as origin of self-consciousness) through Dilthey (resistance as origin of belief in external reality) to the Map's own interface-friction concept. A cross-domain phenomenology of resistance could evidence Bidirectional Interaction: if resistance has a common phenomenal signature across domains, this suggests a unified consciousness encountering genuinely distinct types of constraint — a datum more naturally explained by dualism than by materialism. Target section: topics/ (topics at 230/250 — has capacity). Medium scope (2500-3500 words).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-16
+
+### P2: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/disguised-property-dualism.md (2026-04-16) argues that several positions which reject substance dualism covertly reintroduce property-level dualist commitments — that physicalist-sounding ontologies can smuggle in irreducible mental properties. Review concepts/substance-property-dualism.md, concepts/materialism.md, concepts/russellian-monism.md, and topics/russellian-monism-versus-bi-aspectual-dualism.md for (a) opportunities to add [[disguised-property-dualism]] cross-links, (b) arguments newly reinforced or challenged by the disguised-position diagnosis, (c) places where the Map's own positions could be examined for inadvertent property-dualist commitments.
+- **Source**: chain (from concepts/disguised-property-dualism.md)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/metaphor-void.md (2026-04-16) introduces the "false transparency" pattern — metaphors that present as having succeeded when they have only redescribed a limit in another metaphor. The article cites Lakoff-Johnson conceptual metaphor theory and Blumenberg's absolute metaphors, and flags the Map's own cartographic metaphor as reflexively exposed to the void. Review voids/language-thought-boundary.md (closely related, distinct phenomenology), voids/apophatic-cartography.md (cartographic metaphor self-reference), voids/three-kinds-of-void.md (ensure metaphor-void fits the taxonomy), and voids/framework-void.md for (a) cross-linking opportunities, (b) whether the metaphor-void reclassifies any of their claims, (c) consistency on the Map's reflexive exposure to cartographic metaphor.
+- **Source**: chain (from voids/metaphor-void.md)
+- **Generated**: 2026-04-16
+
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
