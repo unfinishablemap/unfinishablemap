@@ -5,6 +5,10 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 08:38 UTC - coalesce
+- **Status**: Abandoned (no suitable candidates)
+- **Notes**: Searched topics/ (230/230 cap) and concepts/ (227/230) across 5 iterations. Examined 6 candidate groups including non-Western philosophy cluster, quantum neural substrate cluster, probability/QBism pair, volitional control/motor selection pair, cognitive capacity/limit types pair, and multiple concept pairs. All candidates were well-differentiated on close reading — each serves a distinct argumentative role despite surface-level topic similarity.
+
 ## 2026-04-16 08:18 UTC - refine-draft
 - **Status**: Success (no changes needed)
 - **Task**: Fix 8 broken wikilinks to [[epiphenomenalism-argument]]
