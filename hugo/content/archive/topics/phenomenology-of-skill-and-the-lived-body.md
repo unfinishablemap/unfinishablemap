@@ -149,7 +149,7 @@ The strongest physicalist counterargument is that executive attention networks, 
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) — The fullest expression of body schema integration
 - Phenomenology Of Skill Transition — What happens when established skills must be restructured
 - Paradox Of Effortless Mastery — The puzzle of consciousness building systems that replace it
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — The 4E framework and the interface reading
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - [phenomenology-of-intellectual-effort](/topics/phenomenology-of-intellectual-life/) — The cognitive dimension of effortful learning
 - Contemplative Training And Phenomenal Access — Meditation as a parallel case of trained skill

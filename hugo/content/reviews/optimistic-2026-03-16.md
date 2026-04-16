@@ -79,7 +79,7 @@ The voids section is the Map's most distinctive contribution to intellectual hum
 ### High Priority
 
 #### Feminist Philosophy of Mind
-- **Builds on**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/), phenomenology articles, agency articles
+- **Builds on**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/), phenomenology articles, agency articles
 - **Would address**: A significant gap in tradition coverage. Feminist phenomenology (Beauvoir on situated consciousness, Young on lived body, Ahmed on affect) would enrich the Map's treatment of embodiment, agency, and perspective
 - **Estimated scope**: Medium article (concepts/)
 - **Tenet alignment**: Strengthens Dualism tenet through additional phenomenological traditions; enriches Bidirectional Interaction through embodied agency perspectives

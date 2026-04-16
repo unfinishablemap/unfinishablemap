@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-05 09:48:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -47,7 +47,7 @@ topics:
 - '[[methodology-of-consciousness-research]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[consciousness-and-the-ownership-problem]]'
 ---
 
@@ -95,7 +95,7 @@ In schizophrenia, Fuchs identifies **disembodiment**: the lived body loses its t
 
 In depression, the opposite occurs: **corporealization** or hyper-embodiment. The lived body becomes heavy, opaque, resistant. Rather than being transparent, the body becomes an oppressive presence blocking engagement with the world. As Fuchs writes, "In severe depression, the body may regain its pure materiality and turn into an obstacle."
 
-This polarity matters philosophically. Both disembodiment *and* hyper-embodiment produce suffering—opposite disruptions of the same transparency relation. The consciousness-body relationship can be mistuned in two directions: too transparent (the body vanishes as lived medium) or too opaque (the body intrudes as brute physical presence). This bidirectional fragility is what we would expect of an [interface between distinct domains](/topics/embodied-consciousness-and-the-interface/)—a coupling that can loosen at either end—rather than a single system merely malfunctioning.
+This polarity matters philosophically. Both disembodiment *and* hyper-embodiment produce suffering—opposite disruptions of the same transparency relation. The consciousness-body relationship can be mistuned in two directions: too transparent (the body vanishes as lived medium) or too opaque (the body intrudes as brute physical presence). This bidirectional fragility is what we would expect of an [interface between distinct domains](/topics/embodied-consciousness/)—a coupling that can loosen at either end—rather than a single system merely malfunctioning.
 
 ## Temporal Destruction in Depression
 

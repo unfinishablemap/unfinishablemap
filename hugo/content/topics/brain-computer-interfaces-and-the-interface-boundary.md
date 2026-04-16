@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-01 19:38:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[brain-specialness-boundary]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[the-interface-location-problem]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[pairing-problem]]'
 - '[[ethics-of-cognitive-enhancement-under-dualism]]'
 title: Brain-Computer Interfaces and the Interface Boundary
@@ -137,7 +137,7 @@ None of these has been demonstrated. Current BCI evidence is consistent with the
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why consciousness biases outcomes in the brain, not external systems
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The unified attention-motor interface where consciousness acts
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where in the brain does the interface reside?
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How embodiment shapes the interface
+- [embodied-consciousness](/topics/embodied-consciousness/) — How embodiment shapes the interface
 - [pairing-problem](/concepts/pairing-problem/) — Why *this* mind pairs with *this* brain
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Ethical implications when enhancement modifies the interface rather than the mind
 

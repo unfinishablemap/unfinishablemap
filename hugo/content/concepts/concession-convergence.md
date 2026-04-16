@@ -13,6 +13,7 @@ concepts:
 - '[[integrated-information-theory]]'
 - '[[global-workspace-theory]]'
 - '[[higher-order-theories]]'
+- '[[biological-computationalism]]'
 created: 2026-04-05
 date: &id001 2026-04-05
 description: Physicalist theories of consciousness independently concede the dualist

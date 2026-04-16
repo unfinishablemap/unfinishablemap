@@ -55,7 +55,7 @@ None. All previously identified issues remain resolved.
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-change/) — added in-text reference contrasting conceptual vs. perceptual transformation + Further Reading + related_articles
 - [neuroplasticity](/concepts/neuroplasticity/) — added to Further Reading + related_articles
 - [implicit-memory](/concepts/implicit-memory/) — added to Further Reading (with perceptual ratchet description) + related_articles
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — added to related_articles
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — added to related_articles
 
 ### Inbound Link Count
 - Before: 6 content articles

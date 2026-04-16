@@ -63,7 +63,7 @@ All counterarguments remain philosophical standoffs confirmed across three revie
 - Added cross-references from 5 additional articles (see below)
 
 ### Cross-links Added (from other articles to this one)
-- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — Added body text reference (dual-domain analysis confirms phenomenological findings) + Further Reading link
+- [phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/) — Added body text reference (dual-domain analysis confirms phenomenological findings) + Further Reading link
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — Added body text reference in body schema section (schema-image distinction as dual-domain phenomenon)
 - [capability-division-in-vision](/concepts/capability-division-in-vision/) — Added Further Reading link (same pattern extends beyond vision)
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Added Further Reading link (same dual-domain dissociation pattern)

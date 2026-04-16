@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-04-15 21:56:00+00:00
+ai_modified: 2026-04-16 11:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,13 +25,15 @@ description: Biological computationalism holds that brains compute in a substrat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 21:56:00+00:00
+last_deep_review: 2026-04-16 11:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 - '[[consciousness-evolution-and-biology]]'
 - '[[adaptive-computational-depth]]'
+- '[[reductionism-and-consciousness]]'
+- '[[experimental-consciousness-science-2025-2026]]'
 title: Biological Computationalism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -115,6 +117,8 @@ For the full argument that biological computationalism inadvertently builds the 
 - [emergence](/concepts/emergence/) — The question of whether cross-scale properties are strongly emergent
 - [integrated-information-theory](/concepts/integrated-information-theory/) — An alternative framework tying consciousness to causal structure
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Architecture-dependent consciousness without substrate dependence
+- [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reductionism succeeds everywhere except consciousness
+- [llm-consciousness](/concepts/llm-consciousness/) — Why digital architectures cannot replicate conscious processing
 
 ## References
 

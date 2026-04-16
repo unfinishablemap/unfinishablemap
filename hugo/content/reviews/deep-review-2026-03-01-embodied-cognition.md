@@ -69,11 +69,11 @@ All six adversarial personas applied. Key findings:
 1. Fixed two broken wikilinks in frontmatter concepts
 2. Fixed corrupted text in phenomenological roots section
 3. Corrected explicit monitoring theory attribution
-4. Added cross-link to [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) in Further Reading and frontmatter
+4. Added cross-link to [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) in Further Reading and frontmatter
 5. Removed stale AI refinement log comment
 
 ### Cross-links Added
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes consciousness's engagement with matter
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — How the body shapes consciousness's engagement with matter
 
 ## Remaining Items
 

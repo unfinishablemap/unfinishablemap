@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-22
-**Article**: [Embodied Consciousness and the Interface](/topics/embodied-consciousness-and-the-interface/)
+**Article**: [Embodied Consciousness and the Interface](/topics/embodied-consciousness/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-embodied-consciousness-and-the-interface/)
 **Context**: Cross-review considering enactivism challenge — new enactivism-challenge-to-interactionist-dualism article and updated consciousness-as-activity article
 

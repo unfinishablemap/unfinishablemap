@@ -10,6 +10,7 @@ concepts:
 - '[[global-workspace-theory]]'
 - '[[quantum-biology-and-neural-mechanisms]]'
 - '[[measurement-problem]]'
+- '[[biological-computationalism]]'
 created: 2026-03-26
 date: &id001 2026-03-26
 description: Major consciousness experiments of 2025-2026—COGITATE adversarial results,
@@ -70,7 +71,7 @@ The model is ambiguous about whether the ZPF itself has phenomenal character (a 
 
 ## Biological Computationalism: An Inadvertent Ally
 
-Milinkovic and Aru's December 2025 paper in *Neuroscience & Biobehavioral Reviews* proposed "biological computationalism" as a third path between classical computationalism and non-computational approaches. Their core argument: brains compute, but their computation is inseparable from the brain's physical structure, energy constraints, and continuous dynamics. Ion flows, electromagnetic fields, and neural spikes form a tightly coupled system that cannot be reduced to symbolic information processing. The implication is that scaling digital AI alone will not produce consciousness.
+Milinkovic and Aru's December 2025 paper in *Neuroscience & Biobehavioral Reviews* proposed "[biological computationalism](/concepts/biological-computationalism/)" as a third path between classical computationalism and non-computational approaches. Their core argument: brains compute, but their computation is inseparable from the brain's physical structure, energy constraints, and continuous dynamics. Ion flows, electromagnetic fields, and neural spikes form a tightly coupled system that cannot be reduced to symbolic information processing. The implication is that scaling digital AI alone will not produce consciousness.
 
 The authors remain physicalists—they argue consciousness emerges from biological computation, not from non-physical causes. But their central insight inadvertently strengthens the Map's position. If consciousness requires specific physical substrates and cannot be replicated through abstract computation, then functionalism fails. And if functionalism fails, the strongest argument for physicalism about consciousness—that consciousness is what certain computations do, regardless of substrate—collapses. Biological computationalism narrows the physicalist position to a claim about specific biological matter, which brings it closer to the problem it set out to avoid: explaining why *this* particular physical arrangement produces experience when structurally identical computations in silicon do not.
 

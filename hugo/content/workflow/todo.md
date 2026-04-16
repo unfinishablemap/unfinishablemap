@@ -38,39 +38,60 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
-- **Type**: cross-review
+### P2: Deep-review post-decoherence-selection-mechanisms.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the impossibility of verifying consciousness's causal claims from within — the interested party cannot provide disinterested testimony about its own efficacy. Review phenomenology-of-agency-vs-passivity.md for cross-links (the interested party problem is a structural limitation on phenomenological agency evidence). Review agency-verification-void.md to ensure consistency and add bidirectional cross-links.
-- **Source**: chain (from voids/interested-party-void.md)
+- **Notes**: New topics article created 2026-04-16, cross-reviewed against consciousness-selecting-neural-patterns.md, comparing-quantum-consciousness-mechanisms.md, and trilemma-of-selection.md but never comprehensively deep-reviewed. Central to Tenets 2 and 3 — details how consciousness could influence outcomes after environmental decoherence via the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Verify accuracy of quantum mechanics claims, coherence of the three proposals, and tenet alignment.
+- **Source**: chain (from expand-topic 2026-04-16)
 - **Generated**: 2026-04-16
 
-### P2: Address decoherence quantitative gap in interface-friction.md
+### P2: Deep-review embodied-consciousness.md after coalesce merger
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesced 2026-04-16 from embodied-consciousness-and-the-interface.md and phenomenology-of-embodiment-under-dualism.md. Reference updates completed across 17 files but the merged article itself (3291 words) never comprehensively reviewed. Verify the merge preserved key arguments from both source articles, eliminated redundancy, maintains coherent structure, and correctly integrates empirical embodied cognition evidence with phenomenological analysis. Check cross-references to somatic-interface, embodied-cognition, and interface articles.
+- **Source**: chain (from coalesce 2026-04-16)
+- **Generated**: 2026-04-16
+
+### P2: Deep-review interested-party-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: New voids article created 2026-04-16, cross-reviewed against complicity-void.md and necessary-opacity.md but never comprehensively deep-reviewed. Explores the structural impossibility of consciousness providing disinterested testimony about its own causal efficacy — the judge and the accused are the same entity. Verify coherence, accuracy of philosophical claims about epistemic self-interest, cross-references to agency-verification-void and complicity-void, and tenet alignment.
+- **Source**: chain (from expand-topic 2026-04-16)
+- **Generated**: 2026-04-16
+
+### P2: Deep-review consciousness-and-the-normativity-of-reason.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Created 2026-04-07 via expand-topic from research/consciousness-normativity-of-reason-2026-04-07.md, never deep-reviewed (no last_deep_review recorded). Topics article arguing consciousness is necessary for genuine rational normativity — physical processes follow causal laws but cannot follow normative rules. Directly supports Tenet 1 (Dualism) and strengthens the argument-from-reason programme. Verify accuracy of claims about normativity, coherence, cross-references to argument-from-reason, self-stultification-as-master-argument, and rational-normativity concept page.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
+### P2: Integrate bandwidth-constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Pessimistic review found the decoherence section lacks engagement with Tegmark (2000) femtosecond decoherence calculations — the strongest quantitative objection. Also soften clinical speculation (ADHD, OCD, depression) that redescribes neuroscience without generating unique predictions. See pessimistic-2026-04-16b.md
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md grounding the ~10 bits/second conscious processing figure with empirical sources (Nørretranders 1998, Zimmermann 1989, Szathmáry/Csányi estimates). Findings not yet integrated into bandwidth-of-consciousness.md. Integrate key evidence for the bandwidth asymmetry (11 million bits sensory input vs ~10-50 bits conscious output) and its implications for the filter/interface model. Verify and update any existing bandwidth claims in the article against the research.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-16
+
+### P2: Integrate clinical evidence quality findings into empirical-claim articles
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md systematically assessing the quality of Schwartz OCD, meditation efficacy, and neuroplasticity claims used across the site. Multiple pessimistic reviews have flagged inflated empirical claims (see pessimistic-2026-03-26-afternoon, pessimistic-2026-03-24d). Apply quality assessments to strengthen or qualify claims in attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md. Tighten citation practices where research identifies weak evidence.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-16
+
+### P3: Address physical-completeness.md equivocation on "structural"
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16b) found medium-severity issue: "structural" is used to mean at least three different things — (1) mathematical/relational description, (2) measurable quantities and dynamics, (3) the totality of what physics can in principle describe. The argument's force depends on these being identical, but they may not be. Future physics (e.g., quantum gravity) might expand what counts as structural description. Define "structural" precisely and distinguish the claim that current physics is structural (observation) from the claim that all possible physics must be structural (much stronger, more contestable). Also: "No physical quantity is defined by what it *is* intrinsically" is a philosophical claim, not a fact about physics — Maudlin argues mass and charge do have intrinsic natures. See pessimistic-2026-04-16b.md Issue 2.
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-16
 
-### P2: Integrate biological-computationalism.md into site navigation
-- **Type**: integrate-orphan
+### P3: Add cross-links between temporal-consciousness, personal-identity, and attention-interface clusters
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-04-15, concept page on biological computationalism (Milinkovic & Aru 2025) — the position that computation requires specific biological substrate, which inadvertently concedes a key dualist intuition. Add cross-references from functionalism, experimental-consciousness-science-2025-2026, substrate-independence, and related concept articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-16
-
-### P2: Integrate delegation-meets-quantum-selection.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-04-13, topics article on how delegation of cognitive processing relates to the quantum selection model. Add cross-references from consciousness-selecting-neural-patterns, attention-and-the-consciousness-interface, and related quantum-interface articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-16
-
-### P2: Integrate numinous-void.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-04-12, voids article on the gap between sacred/numinous experience and conceptual articulation. Add cross-references from taxonomy-of-voids, contemplative-practice-as-philosophical-evidence, and related voids articles.
-- **Source**: orphan_integration
+- **Notes**: Optimistic review (2026-04-16-afternoon) identified nine cross-linking opportunities across temporal consciousness, personal identity, and attention-interface clusters: temporal-consciousness-structure-and-agency → diachronic-agency-and-personal-narrative (temporal structure supports diachronic identity), temporal-consciousness-structure-and-agency → personal-identity (temporal persistence as identity condition), attention-and-the-consciousness-interface → consciousness-and-causal-powers (attention as mechanism of causal influence), attention-and-the-consciousness-interface → structure-of-attention (bidirectional linking), consciousness-and-the-physics-of-information → consciousness-and-integrated-information (complementary positions), consciousness-and-the-physics-of-information → consciousness-under-extreme-metabolic-constraint (Landauer's principle applied to filter theory), personal-identity → consciousness-and-memory (phenomenal persistence through forgetting), personal-identity → indexical-identity-quantum-measurement (quantum mechanics of identity), machine-consciousness → substrate-independence (deep integration needed). See optimistic-2026-04-16-afternoon.md.
+- **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
 ### P3: Deep review agency-verification-void.md
@@ -2195,8 +2216,88 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
+### P3: Write article on phenomenal intentionality and dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The position that phenomenal experience itself has intrinsic content/directedness is dispersed across 36+ articles but has no dedicated treatment. Whether phenomenal properties are intrinsically intentional bears on dualism: if seeing-red is inherently *about* redness, this is irreducibly relational. Builds on cognitive-phenomenology-and-the-irreducibility-of-thought, argument-from-reason, hard-problem-of-consciousness. Target section: concepts/ or topics/. See optimistic-2026-04-16-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on temporal consciousness as philosophical framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Existing articles cover temporal phenomenology and quantum collapse with time, but lack treatment of retention-protention structures, the specious present, and how temporal consciousness relates to the consciousness-physics interface. Builds on temporal-consciousness-structure-and-agency, consciousness-and-the-ontology-of-temporal-becoming, non-temporal-consciousness. Target section: topics/. See optimistic-2026-04-16-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on diachronic persistence and personal identity under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Existing articles treat identity through psychological continuity and quantum indexicality but lack explicit dualist framework integration. What makes *this* consciousness persist? Does the interface survive dreamless sleep? The haecceity question is raised but not developed. Builds on personal-identity, diachronic-agency-and-personal-narrative, indexical-identity-quantum-measurement. Target section: topics/. See optimistic-2026-04-16-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Create concept page for phenomenal intentionality
+- **Type**: expand-topic
+- **Notes**: Major gap identified by optimistic review (2026-04-16-afternoon). The position that phenomenal experience is intrinsically intentional — seeing-red is inherently *about* redness — is scattered across 36+ articles but has no dedicated concept page. Whether phenomenal properties are intrinsically intentional bears directly on dualism: if phenomenal states have intrinsic content, this is irreducibly relational in ways that complicate production models. Builds on cognitive-phenomenology-and-the-irreducibility-of-thought, argument-from-reason, hard-problem-of-consciousness. Target section: concepts/ (227/230, 3 slots remaining). See optimistic-2026-04-16-afternoon.md.
+- **Output**: Create concept page for phenomenal intentionality
+
+### ✓ 2026-04-16: Qualify probability-objections-many-worlds.md treatment of counterarguments
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16b) found medium-severity issue: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* (2012) are acknowledged in one sentence. Sebens and Carroll (2018) and Zurek (2005) are dismissed without engaging their actual arguments. The article claims "seven decades of failure" when its own references show active, ongoing work. Devote a paragraph to the strongest version of each counterargument before explaining why it fails. Soften language from "cannot" to "has not yet been" where appropriate — the structural argument (all outcomes actual → no genuine probability) is stronger than the historical argument (nobody has done it yet). See pessimistic-2026-04-16b.md Issue 3.
+- **Output**: obsidian/concepts/probability-objections-many-worlds.md
+
+Task context:
+Pessimistic review (2026-04-16b) found medium-severity issue: Wallace's extensive responses to the circularity objection in *The Emergent Multiverse* (2012) are acknowledged in one sentence. Sebens and Carroll (2018) and Zurek (2005) are dismissed without engaging their actual arguments. The article claims "seven decades of failure" when its own references show active, ongoing work. Devote a paragraph to the strongest version of each counterargument before explaining why it fails. Soften language from "cannot" to "has not yet been" where appropriate — the structural argument (all outcomes actual → no genuine probability) is stronger than the historical argument (nobody has done it yet). See pessimistic-2026-04-16b.md Issue 3.
+
+### ✓ 2026-04-16: Update references to coalesced embodied-consciousness articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [embodied-consciousness](/topics/embodied-consciousness/) from [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) and [phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/). The following active content files reference archived articles and need wikilinks updated: concepts/interface-friction.md, concepts/embodied-cognition.md, topics/consciousness-and-skill-acquisition.md, topics/bandwidth-of-consciousness.md, topics/brain-computer-interfaces-and-the-interface-boundary.md, topics/consciousness-interface-development.md, topics/clinical-phenomenology-and-altered-experience.md, topics/neurological-dissociations-as-interface-architecture.md, topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/sensorimotor-contingencies-and-the-interface.md, concepts/somatic-interface.md, topics/enactivism-challenge-to-interactionist-dualism.md, topics/the-subject-object-distinction-as-philosophical-discovery.md, topics/consciousness-and-the-ownership-problem.md, topics/pain-consciousness-and-causal-power.md, research/mathematical-structure-consciousness-physics-interface-2026-03-14.md
+- **Output**: None -- Context: Update references to coalesced embodied-consciousness articles
+
+### ✓ 2026-04-16: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-16 via expand-topic. The normativity of reason — the binding quality of logical and rational norms — is central to both the argument from reason and the self-stultification argument. Review argument-from-reason.md for opportunities to cross-link to rational-normativity (the concept page may provide a more precise anchor for claims about norms). Review self-stultification-as-master-argument.md for consistency on the norm-grasping vs norm-implementation distinction and add cross-references. Also check consciousness-and-the-normativity-of-reason.md for overlap or tension with the new concept page.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
+
+### ✓ 2026-04-16: Address interface friction's unfalsifiability and decoherence gap in interface-friction.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16b) found high-severity issue: every phenomenon explained by interface friction (attentional limits, motor errors, ADHD patterns, depression phenomenology) is already explained by neuroscience without invoking dualism. The article offers no prediction that distinguishes interface friction from ordinary neural processing constraints. Additionally, the decoherence section mentions "disputed microsecond-scale windows" without citing Tegmark's (2000) 10⁻¹³s calculations — ignoring the strongest quantitative objection. Either identify at least one empirically distinguishable prediction or explicitly acknowledge interface friction as a metaphysical reinterpretation. Cite Tegmark directly and engage with the decoherence timescale problem. See pessimistic-2026-04-16b.md Issues 1 and 4.
+- **Output**: obsidian/concepts/interface-friction.md
+
+Task context:
+Pessimistic review (2026-04-16b) found high-severity issue: every phenomenon explained by interface friction (attentional limits, motor errors, ADHD patterns, depression phenomenology) is already explained by neuroscience without invoking dualism. The article offers no prediction that distinguishes interface friction from ordinary neural processing constraints. Additionally, the decoherence section mentions "disputed microsecond-scale windows" without citing Tegmark's (2000) 10⁻¹³s calculations — ignoring the strongest quantitative objection. Either identify at least one empirically distinguishable prediction or explicitly acknowledge interface friction as a metaphysical reinterpretation. Cite Tegmark directly and engage with the decoherence timescale problem. See pessimistic-2026-04-16b.md Issues 1 and 4.
+
+### ✓ 2026-04-16: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-04-12, voids article on the gap between sacred/numinous experience and conceptual articulation. Add cross-references from taxonomy-of-voids, contemplative-practice-as-philosophical-evidence, and related voids articles.
+- **Output**: obsidian/voids/numinous-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-16: Integrate delegation-meets-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-04-13, topics article on how delegation of cognitive processing relates to the quantum selection model. Add cross-references from consciousness-selecting-neural-patterns, attention-and-the-consciousness-interface, and related quantum-interface articles.
+- **Output**: obsidian/topics/delegation-meets-quantum-selection.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-16: Integrate biological-computationalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-04-15, concept page on biological computationalism (Milinkovic & Aru 2025) — the position that computation requires specific biological substrate, which inadvertently concedes a key dualist intuition. Add cross-references from functionalism, experimental-consciousness-science-2025-2026, substrate-independence, and related concept articles.
+- **Output**: obsidian/concepts/biological-computationalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-16: Address decoherence quantitative gap in interface-friction.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the decoherence section lacks engagement with Tegmark (2000) femtosecond decoherence calculations — the strongest quantitative objection. Also soften clinical speculation (ADHD, OCD, depression) that redescribes neuroscience without generating unique predictions. See pessimistic-2026-04-16b.md
+- **Output**: obsidian/concepts/interface-friction.md
+
+Task context:
+Pessimistic review found the decoherence section lacks engagement with Tegmark (2000) femtosecond decoherence calculations — the strongest quantitative objection. Also soften clinical speculation (ADHD, OCD, depression) that redescribes neuroscience without generating unique predictions. See pessimistic-2026-04-16b.md
+
+### ✓ 2026-04-16: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the impossibility of verifying consciousness's causal claims from within — the interested party cannot provide disinterested testimony about its own efficacy. Review phenomenology-of-agency-vs-passivity.md for cross-links (the interested party problem is a structural limitation on phenomenological agency evidence). Review agency-verification-void.md to ensure consistency and add bidirectional cross-links.
+- **Output**: obsidian/topics/phenomenology-of-agency-vs-passivity.md -- Context: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
 
 ### ✓ 2026-04-16: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
 - **Type**: cross-review

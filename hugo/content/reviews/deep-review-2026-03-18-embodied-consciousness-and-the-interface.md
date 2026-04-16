@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Embodied Consciousness and the Interface](/topics/embodied-consciousness-and-the-interface/)
+**Article**: [Embodied Consciousness and the Interface](/topics/embodied-consciousness/)
 **Previous review**: [2026-03-15](/reviews/deep-review-2026-03-15-embodied-consciousness-and-the-interface/)
 **Context**: Cross-review considering dual-domain proprioception insights
 

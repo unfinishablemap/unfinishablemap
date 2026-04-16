@@ -9,6 +9,126 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 14:51 UTC - coalesce
+- **Status**: Abandoned
+- **Reason**: No strong merge candidates found after examining 10+ article pairs across topics (229/230 cap), concepts (227/230 cap), and voids (101/100 cap). All examined pairs are well-differentiated with distinct arguments and purposes. Content is well-organized without significant redundancy.
+
+## 2026-04-16 14:28 UTC - expand-topic
+- **Status**: Skipped
+- **Topic**: phenomenal intentionality
+- **Reason**: A dedicated concepts/phenomenal-intentionality.md previously existed and was coalesced into concepts/intentionality.md (coalesced_from field confirms). The current intentionality.md already has comprehensive PIT coverage (content determinacy argument, three PIT versions, cognitive phenomenology connection, objections/responses, AI implications). Archived original at archive/concepts/phenomenal-intentionality.md. Re-creating would reverse a prior coalesce and duplicate existing content.
+
+## 2026-04-16 14:14 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/)
+- **Word count**: 2569 → 2578 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (fixed path-prefix wikilink, added explanatory-gap cross-links, added hard-problem cross-link)
+- **Enhancements made**: 3 (3 new cross-links to existing concept pages)
+- **Output**: [deep-review-2026-04-16-cognitive-integration-and-the-self](/reviews/deep-review-2026-04-16-cognitive-integration-and-the-self/)
+
+## 2026-04-16 13:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Changes**: Expanded engagement with Wallace (2012) emergence argument, added dedicated paragraphs for Sebens & Carroll (2018) epistemic separability and Zurek (2005) envariance, restructured "Pattern of Failure" section to engage counterarguments before assessing them, softened historical "seven decades of failure" framing to emphasise structural obstacle
+- **Published**: yes
+
+## 2026-04-16 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Word count**: 3152 → 3163 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (restored missing wikilinks, updated 17 cross-references)
+- **Enhancements made**: 2 (restored social cognition/intersubjectivity links, migrated all archived slug references)
+- **Output**: [deep-review-2026-04-16-embodied-consciousness](/reviews/deep-review-2026-04-16-embodied-consciousness/)
+
+## 2026-04-16 13:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/), [phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/)
+- **Target**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Archived**: [embodied-consciousness-and-the-interface](/archive/topics/embodied-consciousness-and-the-interface/), [phenomenology-of-embodiment-under-dualism](/archive/topics/phenomenology-of-embodiment-under-dualism/)
+- **References to review**: 19 active content files (excluding reviews/changelogs)
+
+## 2026-04-16 13:13 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3512 → 3514 (+2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing rational-normativity cross-link, duplicate Further Reading entry)
+- **Enhancements made**: 1 cross-link added (rational-normativity)
+- **Output**: [deep-review-2026-04-16b-argument-from-reason](/reviews/deep-review-2026-04-16b-argument-from-reason/)
+
+## 2026-04-16 12:58 UTC - deep-review
+- **Status**: Success
+- **File**: [brain-specialness-boundary](/topics/brain-specialness-boundary/)
+- **Word count**: 1772 → 1800 (+28)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (2 missing cross-links, 1 display-text fix)
+- **Enhancements made**: 2 cross-links added (locality, amplification-mechanisms)
+- **Output**: [deep-review-2026-04-16-brain-specialness-boundary](/reviews/deep-review-2026-04-16-brain-specialness-boundary/)
+
+## 2026-04-16 12:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Changes**: Reframed article from empirical competitor to metaphysical reinterpretation. Opening paragraph now explicitly states no unique predictions. Renamed "Friction as Diagnostic" to "Friction as Interpretive Framework". Acknowledged neuroscience explanations for automatic/controlled processing before presenting dualist alternative. Weakened psychedelic "partial support" to "suggestive". Added bandwidth estimate age caveat. Strengthened physicalist counterargument in filter model section.
+- **Published**: yes
+
+## 2026-04-16 12:28 UTC - deep-review
+- **Status**: Success
+- **File**: [numinous-void](/voids/numinous-void/)
+- **Word count**: 1717 → 1678 (-39)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (duplicate Further Reading entry, verbatim repetition in Reflexivity Problem, cross-linking gaps)
+- **Enhancements made**: 3 (3 new inbound cross-links from contemplative-practice-as-philosophical-evidence, emotional-epistemology-void, comparative-phenomenology-of-meditative-traditions)
+- **Output**: [deep-review-2026-04-16-numinous-void](/reviews/deep-review-2026-04-16-numinous-void/)
+
+## 2026-04-16 12:13 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: All 460 non-draft files (231 topics, 228 concepts, 1 tenets)
+- **Output**: [optimistic-2026-04-16-afternoon](/reviews/optimistic-2026-04-16-afternoon/)
+
+## 2026-04-16 11:59 UTC - deep-review
+- **Status**: Success
+- **File**: [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/)
+- **Word count**: 2012 → 2012 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (incomplete orphan integration — 11 files missing backlinks)
+- **Enhancements made**: 11 (11 new inbound cross-links from preemption, observational-closure, consciousness-selecting-neural-patterns, post-decoherence-selection, trilemma-of-selection, skill-delegation, consciousness-physics-interface-formalism, measurement-problem, amplification-void, psychophysical-laws, entanglement-binding-hypothesis)
+- **Output**: [deep-review-2026-04-16-delegation-meets-quantum-selection](/reviews/deep-review-2026-04-16-delegation-meets-quantum-selection/)
+
+## 2026-04-16 11:43 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Word count**: 1731 → 1753 (+22)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (incomplete orphan integration, missing related_articles)
+- **Enhancements made**: 9 (4 new inbound cross-links, 1 frontmatter addition, 2 Further Reading entries, 2 related_articles entries)
+- **Output**: [deep-review-2026-04-16-biological-computationalism](/reviews/deep-review-2026-04-16-biological-computationalism/)
+
+## 2026-04-16 11:28 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Word count**: 2370 → 2435 (+65)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-16-phenomenology-of-returning-attention](/reviews/deep-review-2026-04-16-phenomenology-of-returning-attention/)
+
+## 2026-04-16 11:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Changes**: Engaged Tegmark (2000) femtosecond decoherence calculations in decoherence section; softened clinical speculation (ADHD, OCD, depression) to acknowledge it redescribes neuroscience without unique predictions; added Tegmark and Hagan et al. references
+- **Published**: yes
+
+## 2026-04-16 10:58 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
+- **Word count**: 2714 → 2781 (+67)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 4
+- **Output**: [deep-review-2026-04-16-phenomenology-of-agency-vs-passivity](/reviews/deep-review-2026-04-16-phenomenology-of-agency-vs-passivity/)
+
 ## 2026-04-16 10:43 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/interface-friction.md`, `concepts/probability-objections-many-worlds.md`, `concepts/physical-completeness.md`

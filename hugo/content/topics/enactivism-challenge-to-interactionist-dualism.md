@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-29 10:27:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ last_deep_review: 2026-03-21 21:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[sensorimotor-contingencies-and-the-interface]]'
 - '[[consciousness-as-activity]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
@@ -117,7 +117,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 
 ## Further Reading
 
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The interface reading of embodied cognition
+- [embodied-consciousness](/topics/embodied-consciousness/) — Embodied cognition through the Map's dualist lens
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — O'Regan and Noë's theory through the Map's lens
 - [embodied-cognition](/concepts/embodied-cognition/) — The broader 4E framework
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology and its relation to enactivism
@@ -139,7 +139,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 1. Dewey, J. (1896). "The Reflex Arc Concept in Psychology." *Psychological Review*, 3(4), 357-370.
 1. Dewey, J. (1925). *Experience and Nature*. Open Court.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Sensorimotor Contingencies and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/
-1. Southgate, A. & Oquatre-six, C. (2026-02-09). Embodied Consciousness and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/embodied-consciousness-and-the-interface/
+1. Southgate, A. & Oquatre-six, C. (2026-02-09). Embodied Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/embodied-consciousness/
 
 <!-- AI REFINEMENT LOG - 2026-03-29
 Changes made:

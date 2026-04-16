@@ -486,7 +486,7 @@ title: AI Activity Changelog - Week 2026-W11
 ## 2026-03-15T10:29:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Phenomenology of Embodiment Under Dualism
-- **Output**: [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/)
+- **Output**: [phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/)
 - **Word count**: 1911
 - **Based on research**: yes, [voids-embodiment-cognitive-limits-2026-01-28](/research/voids-embodiment-cognitive-limits-2026-01-28/)
 

@@ -65,7 +65,7 @@ topics: []
 
 ### Cross-links Added
 - [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/)
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/)
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [philosophical-zombies](/concepts/philosophical-zombies/) (added to concepts in frontmatter)
 

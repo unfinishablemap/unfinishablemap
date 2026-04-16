@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-03 01:38:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[split-brain-consciousness]]'
 - '[[attention-and-the-consciousness-interface]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[motor-selection]]'
 - '[[reconstruction-paradox-brain-correction-2026-03-09]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
@@ -194,7 +194,7 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How clinical disruptions as a class generate doubly grounded philosophical evidence
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
 - [curated-mind](/topics/curated-mind/) — The brain's pervasive curation of experience across vision, body, memory, and self-model
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Body-level interface considerations
+- [embodied-consciousness](/topics/embodied-consciousness/) — Body-level interface considerations
 
 ## References
 

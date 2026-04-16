@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-30 16:59:00+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -96,6 +96,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 - [Decoherence](/concepts/decoherence/)
 - [The Measurement Problem](/concepts/measurement-problem/)
 - [The Timing Gap Problem](/concepts/timing-gap-problem/)
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The causal structure (preemption) explaining why post-decoherence conscious selection avoids overdetermination
 - [The Trilemma of Selection](/topics/trilemma-of-selection/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [Prebiotic Collapse](/concepts/prebiotic-collapse/)

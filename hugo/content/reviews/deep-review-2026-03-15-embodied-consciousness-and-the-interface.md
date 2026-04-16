@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [Embodied Consciousness and the Interface](/topics/embodied-consciousness-and-the-interface/)
+**Article**: [Embodied Consciousness and the Interface](/topics/embodied-consciousness/)
 **Previous review**: [2026-02-13](/reviews/deep-review-2026-02-13-embodied-consciousness-and-the-interface/)
 
 ## Pessimistic Analysis Summary

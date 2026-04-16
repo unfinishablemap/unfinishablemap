@@ -115,7 +115,7 @@ This asymmetry is philosophically significant for the Map's framework. If consci
 ## Further Reading
 
 - Phenomenology Of Habit And Skill Acquisition — The cognitive arc of skill learning: scaffolding, delegation, and withdrawal
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The 4E framework and the interface reading of embodied cognition
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — The 4E framework and the interface reading of embodied cognition
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — Perception as mastery of sensorimotor laws
 - Phenomenology Of Skill Transition — What happens when established skills must be restructured
 - Paradox Of Effortless Mastery — The puzzle of consciousness building systems that replace it

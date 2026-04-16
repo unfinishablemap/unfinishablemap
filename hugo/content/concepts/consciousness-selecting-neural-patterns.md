@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-16 10:29:00+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -181,6 +181,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Atemporal selection via transactional interpretation
 - [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/) — Convergent evidence lines for the selection framework
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — How noise-assisted dynamics scale quantum-level bias to neural effects
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — How Saad's causal delegation and quantum selection are mutually completing frameworks
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Selection after decoherence removes the coherence requirement
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The philosophical framework selection implements
 

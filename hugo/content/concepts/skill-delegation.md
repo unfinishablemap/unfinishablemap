@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -144,6 +144,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness and the phenomenology of automatised skill
 - [agent-causation](/concepts/agent-causation/) — Why skill delegation presupposes a genuine agent as delegator
 - [causal-delegation](/concepts/causal-delegation/) — The metaphysical parallel: physical states delegating to consciousness
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Extended analysis of choking as evidence for mental causation
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How consciousness shapes skill acquisition, flow, and performance restructuring
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The spectrum from doing to undergoing

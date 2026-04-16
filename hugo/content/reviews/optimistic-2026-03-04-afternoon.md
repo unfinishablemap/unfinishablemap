@@ -146,7 +146,7 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 - **Tenet alignment**: Supports Tenet 3 (Bidirectional Interaction) by testing predictions across independent lineages
 
 #### Phenomenology of Embodiment Under Dualism
-- **Builds on**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/), [somatic-interface](/concepts/somatic-interface/), [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
+- **Builds on**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/), [somatic-interface](/concepts/somatic-interface/), [philosophy-of-perception-under-dualism](/topics/dualist-perception/)
 - **Would address**: Embodied cognition challenges Cartesian dualism but not necessarily the Map's interactionist framework. A dedicated treatment of how the body shapes consciousness within a dualist framework—phantom limbs, proprioceptive illusions, interoceptive awareness—would strengthen the Map's engagement with embodiment research.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Supports Tenet 2 (Minimal Quantum Interaction) by grounding the interface in bodily experience

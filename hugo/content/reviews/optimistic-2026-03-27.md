@@ -99,7 +99,7 @@ The experimental consciousness science article's framework void observation—co
 - **Tenet alignment**: Minimal Quantum Interaction (biophotons as quantum phenomena in the brain that could serve as interface markers)
 
 #### Enactivism and the Interface: A Constructive Synthesis
-- **Builds on**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/), [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/), [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
+- **Builds on**: [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/), [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/), [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/)
 - **Would address**: What the Map can genuinely absorb from enactivism—the insight that the interface is embodied, that sensorimotor contingencies structure the interface's channels, that the organism is not passive—without conceding the anti-dualist metaphysics. A constructive integration rather than a critique.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (enactivism's emphasis on organism-environment coupling enriches the interface model)

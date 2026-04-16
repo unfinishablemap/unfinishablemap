@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-04-15 15:22:00+00:00
+ai_modified: 2026-04-16 14:14:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: How consciousness binds information across time and modality to con
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 12:48:00+00:00
+last_deep_review: 2026-04-16 14:14:00+00:00
 modified: *id001
 related_articles:
 - '[[binding-problem]]'
@@ -105,11 +105,11 @@ The [binding problem](/concepts/binding-problem/) asks how distributed neural pr
 
 ### Classical Binding Theories
 
-Traditional neuroscience proposes synchronous neural firing as the binding mechanism. The gamma binding hypothesis suggests that neurons firing in temporal synchrony (~40 Hz gamma oscillations) become functionally bound (Crick & Koch, 1990). More recent approaches—Global Workspace Theory, Integrated Information Theory—offer increasingly sophisticated accounts of how neural integration produces unified processing. But all address only the functional side—they explain how the brain *coordinates* distributed activity without explaining how coordinated activity produces phenomenal unity.
+Traditional neuroscience proposes synchronous neural firing as the binding mechanism. The gamma binding hypothesis suggests that neurons firing in temporal synchrony (~40 Hz gamma oscillations) become functionally bound (Crick & Koch, 1990). More recent approaches—Global Workspace Theory, Integrated Information Theory—offer increasingly sophisticated accounts of how neural integration produces unified processing. But all address only the functional side—they explain how the brain *coordinates* distributed activity without explaining how coordinated activity produces phenomenal unity. This is the [hard problem](/topics/hard-problem-of-consciousness/) applied specifically to binding.
 
 ### The Phenomenal Binding Challenge
 
-No physical binding mechanism explains *why* synchronized firing feels unified rather than remaining separate processes that happen to correlate. The explanatory gap appears again: physical descriptions tell us *what* the brain does but not *why* there is something it is like to have integrated experience.
+No physical binding mechanism explains *why* synchronized firing feels unified rather than remaining separate processes that happen to correlate. The [explanatory gap](/concepts/explanatory-gap/) appears again: physical descriptions tell us *what* the brain does but not *why* there is something it is like to have integrated experience.
 
 [Phenomenal binding](/concepts/binding-problem/) may not reduce to neural mechanisms. [Phenomenal unity resists physical explanation](/topics/quantum-holism-and-phenomenal-unity/) because even the most complete functional account leaves unexplained why integrated processing feels like anything at all. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
 
@@ -171,7 +171,7 @@ The Unfinishable Map's framework provides distinctive resources for understandin
 
 The [Dualism tenet](/concepts/dualism/) holds that consciousness is not reducible to physical processes. Phenomenal integration—the felt unity of experience—is then a basic feature of consciousness itself, not an emergent property of neural synchrony.
 
-Physical binding mechanisms (gamma oscillations, thalamocortical loops) may be necessary correlates of unified experience. But they do not *explain* phenomenal unity. The explanatory gap reappears: why does synchronized neural activity feel unified?
+Physical binding mechanisms (gamma oscillations, thalamocortical loops) may be necessary correlates of unified experience. But they do not *explain* phenomenal unity. The [explanatory gap](/concepts/explanatory-gap/) reappears: why does synchronized neural activity feel unified?
 
 If consciousness is irreducible, phenomenal binding may be primitive—experience is holistic from the start, and physical binding mechanisms are the neural interface through which this intrinsic unity expresses itself in behavior and report.
 

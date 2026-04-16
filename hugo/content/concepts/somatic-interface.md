@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-30 18:38:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ last_deep_review: 2026-03-30 18:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[pre-conceptual-knowing]]'
 - '[[consciousness-only-territories]]'
@@ -33,7 +33,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-The Unfinishable Map's [interface reading](/topics/embodied-consciousness-and-the-interface/) of embodied cognition argues that the body shapes how consciousness engages matter without producing it. But what *kind* of interface is the body? The somatic interface is the specific set of channels—interoception, proprioception, nociception, and somatic markers—through which the body reports its own state to consciousness. These channels do not merely transmit information. They constitute the felt texture of being a physical creature: the warmth, weight, tension, rhythm, and pain that make experience *embodied* rather than abstract. The somatic interface is where the general claim that "consciousness operates through the body" becomes anatomically and phenomenologically precise.
+The Unfinishable Map's [interface reading](/topics/embodied-consciousness/) of embodied cognition argues that the body shapes how consciousness engages matter without producing it. But what *kind* of interface is the body? The somatic interface is the specific set of channels—interoception, proprioception, nociception, and somatic markers—through which the body reports its own state to consciousness. These channels do not merely transmit information. They constitute the felt texture of being a physical creature: the warmth, weight, tension, rhythm, and pain that make experience *embodied* rather than abstract. The somatic interface is where the general claim that "consciousness operates through the body" becomes anatomically and phenomenologically precise.
 
 An important caveat: the clinical evidence discussed here—pain asymbolia, phantom limbs, somatic marker deficits—was discovered and explained within materialist neuroscience. Materialist accounts of these phenomena are well-developed and empirically productive. The interface reading does not predict different clinical outcomes; it offers an alternative *metaphysical interpretation* of the same data. Its value lies not in competing empirically with neuroscience but in providing a framework where the persistent explanatory gap between neural mechanism and phenomenal character is a *feature* of the model rather than an unsolved problem. Where materialism must eventually explain away the hard problem, the interface reading accommodates it structurally.
 
@@ -57,7 +57,7 @@ Proprioception is the sense of the body's position, posture, and movement in spa
 
 Christina's case reveals what proprioception contributes to the somatic interface: the background sense of physical selfhood. Without it, consciousness remains but loses its anchorage. The body becomes an object to be managed rather than a medium to inhabit. The [dual-domain analysis of proprioception](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) develops this dissociation further, showing that the body schema (physical) and body image (phenomenal) map directly onto the same dual-domain architecture found in episodic memory.
 
-The phenomenological distinction between the *lived body* (Husserl's *Leib*) and the *objectified body* (*Körper*) — developed extensively by Merleau-Ponty as *corps propre* versus *corps objectif* — becomes concrete: proprioception is what makes the body lived rather than merely observed. The [phenomenology of embodiment](/topics/phenomenology-of-embodiment-under-dualism/) develops this distinction in full, showing how the structures of bodily experience—ownership, agency, pre-reflective awareness, bodily absence—reveal a subject that inhabits the body without being reducible to it.
+The phenomenological distinction between the *lived body* (Husserl's *Leib*) and the *objectified body* (*Körper*) — developed extensively by Merleau-Ponty as *corps propre* versus *corps objectif* — becomes concrete: proprioception is what makes the body lived rather than merely observed. The [phenomenology of embodiment](/topics/embodied-consciousness/) develops this distinction in full, showing how the structures of bodily experience—ownership, agency, pre-reflective awareness, bodily absence—reveal a subject that inhabits the body without being reducible to it.
 
 ### Nociception and Pleasure
 
@@ -107,7 +107,7 @@ Several properties of the somatic interface matter for the Map's framework.
 
 ## Further Reading
 
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The broader interface reading of embodied cognition
+- [embodied-consciousness](/topics/embodied-consciousness/) — The interface reading of embodied cognition and phenomenology of embodiment under dualism
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How embodiment constrains what we can think
 - [embodied-cognition](/concepts/embodied-cognition/) — The 4E framework: embodied, embedded, enacted, extended
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why brains specifically serve as interfaces

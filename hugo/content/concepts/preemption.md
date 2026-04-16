@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-06 15:36:00+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -111,6 +111,7 @@ The case for preemption rests entirely on philosophical arguments: that consciou
 - [causal-closure](/concepts/causal-closure/) — The principle that delegatory preemption explicitly violates
 - [observational-closure](/concepts/observational-closure/) — Why preemption leaves no empirical trace
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for conscious agents as causal originators
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Preemption applied at quantum indeterminacies: consciousness preempts the baseline collapse mechanism
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other responses to the exclusion problem
 
 ## References

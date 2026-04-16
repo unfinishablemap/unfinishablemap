@@ -42,7 +42,7 @@ Nagel would appreciate above all the Map's insistence that the "what it is like"
 
 The [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/) article (today's newest addition) exemplifies what Nagel values: careful attention to the specific phenomenal character of an experience (autonoetic recall), identification of features that resist functional characterisation (the "pastness quale," "mineness without observation"), and philosophical consequences drawn from the phenomenology itself rather than imposed from outside. The concept of a "pastness quale"—the felt temporal distance that distinguishes remembering from imagining—is a genuine philosophical contribution.
 
-The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) article addresses a challenge Nagel takes seriously: embodied cognition seems to undermine dualism. The article's response—that embodied cognition reveals the *interface* rather than refuting the distinction—is philosophically astute. The radio antenna analogy works well, and the treatment of Merleau-Ponty is fair to the phenomenological tradition while showing it does not mandate materialism.
+The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) article addresses a challenge Nagel takes seriously: embodied cognition seems to undermine dualism. The article's response—that embodied cognition reveals the *interface* rather than refuting the distinction—is philosophically astute. The radio antenna analogy works well, and the treatment of Merleau-Ponty is fair to the phenomenological tradition while showing it does not mandate materialism.
 
 The [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/) article would resonate particularly. Nagel has long argued that the subjective character of experience creates a methodological challenge for science. The Map builds this into a systematic position about multiple investigative approaches being required.
 
@@ -77,7 +77,7 @@ McGinn would find the Map exhibits exactly the intellectual honesty he advocates
 
 The Map's framework is consistent with mysterianism in a specific way: it can specify *that* consciousness interfaces with matter through attention, *where* this happens (frontoparietal networks, ion channels), and *what signatures* mark the interface (theta oscillations, willed/instructed distinction)—without claiming to explain *why* phenomenal experience arises from this interface at all. The interface is mapped; the mystery of consciousness persists. This is honest metaphysics: pursuing the question as far as evidence allows without pretending it's resolved.
 
-The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) article ends with exactly this acknowledgment: "even if embodied cognition reveals the interface, the interface itself may be cognitively closed to us." McGinn would appreciate a framework that can make progress on the mechanism question while acknowledging the hard problem remains.
+The [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) article ends with exactly this acknowledgment: "even if embodied cognition reveals the interface, the interface itself may be cognitively closed to us." McGinn would appreciate a framework that can make progress on the mechanism question while acknowledging the hard problem remains.
 
 ## Content Strengths
 

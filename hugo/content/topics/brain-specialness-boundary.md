@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-16 12:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,6 +11,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[filter-theory]]'
 - '[[embodied-cognition]]'
+- '[[locality]]'
 created: 2026-02-05
 date: &id001 2026-02-05
 description: If consciousness biases quantum outcomes in the brain, why can't it move
@@ -18,9 +19,10 @@ description: If consciousness biases quantum outcomes in the brain, why can't it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 06:03:00+00:00
+last_deep_review: 2026-04-16 12:58:00+00:00
 modified: *id001
 related_articles:
+- '[[amplification-mechanisms-consciousness-physics]]'
 - '[[tenets]]'
 - '[[brain-interface-boundary]]'
 - '[[conservation-laws-and-mental-causation]]'
@@ -39,7 +41,7 @@ This is the **brain specialness problem**. Critics see it as an embarrassing imp
 
 ## The Challenge Stated
 
-The Map's framework proposes that [consciousness selects among quantum-indeterminate outcomes](/concepts/consciousness-selecting-neural-patterns/) in neural systems. Physics provides probabilities; consciousness biases which outcome becomes actual. This resolves the interaction problem without violating conservation laws—consciousness selects rather than injects energy.
+The Map's framework proposes that [consciousness selects among quantum-indeterminate outcomes](/concepts/consciousness-selecting-neural-patterns/) in neural systems. Physics provides probabilities; consciousness biases which outcome becomes actual. This resolves the interaction problem without violating conservation laws—consciousness selects rather than injects energy. (The [amplification mechanisms](/topics/amplification-mechanisms-consciousness-physics/) article details how such quantum-level selection scales to macroscopic neural effects.)
 
 But if consciousness can bias quantum outcomes at all, critics ask, why only in brains? Quantum indeterminacy exists everywhere. Random number generators, radioactive decay, photon polarisation—all involve genuine quantum indeterminacy. Why can't consciousness bias these too?
 
@@ -55,7 +57,7 @@ Four constraints converge on the same conclusion: consciousness can only influen
 
 ### Interface Locality
 
-Consciousness can only influence quantum outcomes within neural systems that are spatially local to the brain and already integrated into the subject's conscious control loop.
+Consciousness can only influence quantum outcomes within neural systems that are spatially local to the brain and already integrated into the subject's conscious control loop. (For the broader philosophical treatment of [locality](/concepts/locality/) in mind-matter interaction, see the dedicated article.)
 
 [Stapp's Process 1](/concepts/stapp-quantum-mind/)—the observer posing questions to nature—operates on the observer's own brain state representation. The [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) requires repeated observation to hold quantum states stable. You can only observe, in the quantum mechanical sense, systems you're physically connected to.
 

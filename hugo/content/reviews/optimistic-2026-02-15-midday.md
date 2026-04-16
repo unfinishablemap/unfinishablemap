@@ -84,7 +84,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 ### High Priority
 
 #### Embodied Cognition and the Interface
-- **Builds on**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/), [attention-as-interface](/concepts/attention-as-interface/), [neural-implementation-specifics](/topics/neural-implementation-specifics/)
+- **Builds on**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/), [attention-as-interface](/concepts/attention-as-interface/), [neural-implementation-specifics](/topics/neural-implementation-specifics/)
 - **Would address**: The Map's treatment of embodied cognition is relatively thin compared to its phenomenological depth. Merleau-Ponty's work on body-subject, sensorimotor contingencies, and the lived body challenges both computationalism and substance dualism in ways the Map should engage more thoroughly.
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (body as mediator), Minimal Quantum Interaction (where in the body does the interface operate?)
@@ -104,7 +104,7 @@ The Map demonstrates genuine intellectual humility where it matters most. The [c
 ### Medium Priority
 
 #### Active Inference and Consciousness
-- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
+- **Builds on**: [predictive-processing](/concepts/predictive-processing/), [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/), [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/)
 - **Would address**: Karl Friston's free energy principle and active inference framework claim to unify perception, action, and consciousness. The Map should engage with this—it's compatible with quantum interface models in interesting ways (active inference as the computational substrate consciousness operates on).
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction, Dualism

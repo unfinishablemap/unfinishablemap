@@ -5335,7 +5335,7 @@ topics: []
 
 ## 2026-03-18T16:06:00+00:00 - deep-review
 - **Status**: Success
-- **File**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- **File**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/)
 - **Word count**: 2350 → 2462 (+112)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (dual-domain cross-link, somatic-interface concept)

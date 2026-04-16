@@ -27,7 +27,7 @@ None. Attribution for Descartes, Husserl, Nagel, Jackson, and Buddhist tradition
 
 ### Medium Issues Found
 - **Missing engagement with enactivism**: The article argued the subject-object distinction is a genuine discovery without addressing the strongest contemporary dissolution attempt—enactivism's claim that the distinction is a Cartesian artefact. **Resolution**: Added new "The Enactivist Challenge" section with three counter-arguments (cross-cultural independence, enactivism's own irreducibility commitment, embodiment vs. identity conflation).
-- **Missing cross-links to embodied consciousness cluster**: The site now has three enactivism-related articles that this article should reference. **Resolution**: Added `[embodied-cognition](/concepts/embodied-cognition/)` to concepts, `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)` and `[embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)` to related_articles, and three entries to Further Reading.
+- **Missing cross-links to embodied consciousness cluster**: The site now has three enactivism-related articles that this article should reference. **Resolution**: Added `[embodied-cognition](/concepts/embodied-cognition/)` to concepts, `[enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)` and `[embodied-consciousness-and-the-interface](/topics/embodied-consciousness/)` to related_articles, and three entries to Further Reading.
 - **"What Would Challenge This View?" omitted enactivist dissolution**: The four existing conditions didn't mention the enactivist strategy. **Resolution**: Added fifth condition about enactivism dissolving the distinction without reinstalling it.
 
 ### Counterarguments Considered
@@ -53,7 +53,7 @@ None. Attribution for Descartes, Husserl, Nagel, Jackson, and Buddhist tradition
 
 ### Cross-links Added
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/)
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/)
 - [embodied-cognition](/concepts/embodied-cognition/)
 - [explanatory-gap](/concepts/explanatory-gap/) (referenced in new section)
 

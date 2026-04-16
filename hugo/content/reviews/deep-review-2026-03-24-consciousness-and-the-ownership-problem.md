@@ -27,7 +27,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-- **Missing cross-link**: `[phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/)` was referenced inline (ownership-as-primitive section) but absent from both frontmatter `related_articles` and Further Reading. Resolution: Added to both.
+- **Missing cross-link**: `[phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/)` was referenced inline (ownership-as-primitive section) but absent from both frontmatter `related_articles` and Further Reading. Resolution: Added to both.
 
 ### Low Issues Found
 - Functionalism critique still somewhat question-begging — deferred from two previous reviews as standing philosophical disagreement.
@@ -63,10 +63,10 @@ None.
 - Phenomenological psychiatry paragraph — now includes both hyperreflexivity and diminished self-affection with empirical validation
 
 ### Enhancements Made
-- Added `[phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/)` to frontmatter `related_articles` and Further Reading
+- Added `[phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/)` to frontmatter `related_articles` and Further Reading
 
 ### Cross-links Added
-- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) (frontmatter + Further Reading)
+- [phenomenology-of-embodiment-under-dualism](/topics/embodied-consciousness/) (frontmatter + Further Reading)
 
 ## Word Count
 - Before: 2534 words (84% of 3000 threshold)

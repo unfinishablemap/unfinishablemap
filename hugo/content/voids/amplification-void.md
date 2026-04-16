@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-04-02 14:38:00+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -113,6 +113,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [nomic-void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — How studying consciousness transforms what is studied
 - [defended-territory](/voids/defended-territory/) — Could some limits be actively maintained?
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Delegation reframes but does not dissolve the amplification void: experience takes over causal work without explaining how
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: a deeper theory would derive the amplification void's opacity as a consequence of minimality
 
 ## References

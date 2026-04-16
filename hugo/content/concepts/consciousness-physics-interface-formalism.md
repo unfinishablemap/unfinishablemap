@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -115,6 +115,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 - [coupling-modes](/concepts/coupling-modes/) — How C might operate: basis, timing, or probability control
 - [interface-formalization-void](/voids/interface-formalization-void/) — Whether the specification gap is closable in principle
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule's underivability constrains the formalism
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Shows delegation satisfies Born-rule preservation (Constraint 1) structurally
 
 ## References
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Phenomenology of Embodiment Under Dualism](/topics/phenomenology-of-embodiment-under-dualism/)
+**Article**: [Phenomenology of Embodiment Under Dualism](/topics/embodied-consciousness/)
 **Previous review**: [2026-03-15](/reviews/deep-review-2026-03-15-phenomenology-of-embodiment-under-dualism/)
 
 ## Pessimistic Analysis Summary
@@ -46,7 +46,7 @@ No new counterarguments beyond those addressed in the previous review. The stabi
 - Added [consciousness-and-social-cognition](/topics/consciousness-and-social-understanding/) and [intersubjectivity](/concepts/intersubjectivity/) wikilinks in intercorporeality section
 
 ### Cross-links Added (inbound — from other articles to this one)
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — Further Reading entry
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — Further Reading entry
 - [somatic-interface](/concepts/somatic-interface/) — Inline link in proprioception section where Leib/Körper is discussed
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Inline link in ownership-as-primitive section
 - [consciousness-and-skilled-performance](/topics/consciousness-and-skill-acquisition/) — Further Reading entry

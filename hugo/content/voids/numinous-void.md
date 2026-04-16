@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-04-15 16:35:00+00:00
+ai_modified: 2026-04-16 12:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of why consciousness cannot determine from wit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 16:35:00+00:00
+last_deep_review: 2026-04-16 12:28:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -52,7 +52,7 @@ Numinous experience disrupts this structure. The subject-object distinction coll
 
 This creates a paradox with no obvious resolution. During the experience, the noetic quality — James's observation that mystical states "seem to those who experience them to be also states of knowledge... states of insight into depths of truth unplumbed by the discursive intellect" — produces profound certainty. After the experience, reflective capacity returns but the experience itself has passed. Memory of the numinous is not the numinous. The evaluating mind and the numinous mind cannot occupy consciousness simultaneously. This is a specific instance of [cognitive closure](/concepts/mysterianism/) — not closure over a theoretical property but over the veridicality of an experience that dismantles the very faculty of evaluation.
 
-The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents how consciousness approaching cognitive limits encounters characteristic signatures: ineffability paired with noesis, ego dissolution paired with clarity. The numinous void shares this profile but adds a sharper feature absent from other edge-experiences. In ordinary qualia, the experiencing subject remains intact as evaluator — the gap between experience and report is familiar but does not threaten the evaluator's position. In numinous experience, the evaluator is what dissolves. The numinous void is structurally sharper: the evaluation mechanism is what the experience specifically targets. Ordinary qualia resist full articulation, but the experiencing subject remains intact as an evaluator. In numinous experience, the evaluator is what dissolves.
+The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents how consciousness approaching cognitive limits encounters characteristic signatures: ineffability paired with noesis, ego dissolution paired with clarity. The numinous void shares this profile but adds a sharper feature absent from other edge-experiences. In ordinary qualia, the experiencing subject remains intact as evaluator — the gap between experience and report is familiar but does not threaten the evaluator's position. In numinous experience, the evaluator is what dissolves.
 
 ## Awe as Cognitive Limit Marker
 
@@ -104,7 +104,6 @@ The numinous void ultimately exemplifies the Map's broader project: approaching 
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
 - [mysterianism](/concepts/mysterianism/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
-- [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 
 ## References

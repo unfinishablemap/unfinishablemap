@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-13 02:56:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,7 +46,7 @@ related_articles:
 - '[[dualist-perception]]'
 - '[[resolution-void]]'
 - '[[quantum-neural-timing-constraints]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-and-memory]]'

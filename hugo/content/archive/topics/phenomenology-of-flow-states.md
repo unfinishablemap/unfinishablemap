@@ -154,7 +154,7 @@ Flow fits naturally into the Map's selection framework. Consciousness doesn't ne
 - [dopamine-and-the-unified-interface](/topics/dopamine-and-the-unified-interface/) — How dopamine prepares the selection interface that flow engages frictionlessly
 - [attention-consciousness-dissociation](/topics/attention-and-the-consciousness-interface/) — How attention and consciousness can come apart
 - [consciousness-and-temporal-integration](/topics/temporal-structure-of-consciousness/) — Temporal binding and the structure of the specious present
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes conscious engagement with the world
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — How the body shapes conscious engagement with the world
 - [contemplative-path](/apex/contemplative-path/) — Contemplative practices that cultivate flow-like states
 - [self-and-consciousness](/concepts/self-and-self-consciousness/) — Minimal vs. narrative self and the layers of self-awareness
 - [phenomenology-of-skill-and-the-lived-body](/topics/consciousness-and-skilled-performance/) — How skill development creates the conditions for flow

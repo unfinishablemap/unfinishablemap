@@ -56,7 +56,7 @@ topics: []
 
 ### Enhancements Made
 - Added cross-link to [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) in ipseity section (connecting clinical findings to philosophical analysis of ownership)
-- Added cross-link to [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) in Fuchs section (connecting clinical embodiment disruption to broader interface framework)
+- Added cross-link to [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) in Fuchs section (connecting clinical embodiment disruption to broader interface framework)
 - Added cross-link to [temporal-consciousness](/concepts/temporal-consciousness/) in temporal destruction section (connecting depression's temporal disruption to concept article)
 - Added 2 new topics entries and 1 new concept entry in frontmatter
 - Corrected Fuchs's academic title for accuracy
@@ -65,7 +65,7 @@ topics: []
 
 ### Cross-links Added
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) (inline, ipseity section)
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) (inline, embodiment section)
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) (inline, embodiment section)
 - [temporal-consciousness](/concepts/temporal-consciousness/) (inline, temporal destruction section)
 
 ## Remaining Items

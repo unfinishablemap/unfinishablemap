@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-04-09 10:56:00+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -100,6 +100,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [causal-closure](/concepts/causal-closure/) — The broader principle from which observational closure is distinguished
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — Historical evolution of the causal closure principle from Descartes to Kim
 - [causal-delegation](/concepts/causal-delegation/) — The mechanism that respects observational closure through preemption
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Born-rule preservation makes observational closure physically necessary, not merely philosophically designed
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory developing observational closure as a design constraint
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem observational closure helps resolve
 - [preemption](/concepts/preemption/) — The causal structure making delegation observationally invisible

@@ -139,7 +139,7 @@ The developmental analysis of the interface connects to the Map's [tenets](/tene
 - [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/)
 - [baseline-cognition](/concepts/baseline-cognition/)
 - [teaching-as-metarepresentation](/concepts/teaching-as-metarepresentation/)
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/)
 
 ## References
 

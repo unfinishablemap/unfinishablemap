@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-25 10:35:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[quantum-measurement-and-consciousness]]'
 - '[[self-opacity]]'
 - '[[enactivism-challenge-to-interactionist-dualism]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 title: The Subject-Object Distinction as Philosophical Discovery
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -125,7 +125,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 - [intersubjectivity](/concepts/intersubjectivity/)
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — Enactivism's attempt to dissolve the mind-body distinction
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — The body as interface for consciousness, not replacement for it
+- [embodied-consciousness](/topics/embodied-consciousness/) — The body as interface for consciousness, not replacement for it
 - [embodied-cognition](/concepts/embodied-cognition/) — The 4E framework and its relationship to dualism
 
 ## References

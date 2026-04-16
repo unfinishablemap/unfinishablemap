@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 23:26:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 - '[[tenets]]'
 - '[[embodied-cognition-extended-mind-2026-01-14]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'
@@ -203,14 +203,13 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [attention-as-interface](/concepts/attention-as-interface/) — The quantum Zeno mechanism for mind-body interaction
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge and site's response
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/) — How the body shapes consciousness's engagement with matter
+- [embodied-consciousness](/topics/embodied-consciousness/) — How the body shapes consciousness's engagement with matter, and what embodiment feels like from the first person
 - [ai-consciousness](/topics/ai-consciousness/) — Why the grounding problem matters for machine minds
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Varela's integration of embodied cognition with consciousness science
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — The choking evidence as a case study in mental causation
 - [phenomenology of flow states](/topics/consciousness-and-skill-acquisition/) — Flow as transformed consciousness, not diminished consciousness
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — Why disembodied symbol manipulation lacks semantic grounding
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — Embodied spatial engagement and the atmosphere of places
-- [phenomenology-of-embodiment-under-dualism](/topics/phenomenology-of-embodiment-under-dualism/) — What embodiment feels like from the first person: ownership, agency, absence, and pain
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — Enactivism's dissolution strategy and its limits against interactionist dualism
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology and its relation to enactivism's core claims
 - [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — The consciousness extension gap: why cognition extends but phenomenal experience does not

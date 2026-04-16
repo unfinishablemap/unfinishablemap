@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [Phenomenology of Embodiment Under Dualism](/topics/phenomenology-of-embodiment-under-dualism/)
+**Article**: [Phenomenology of Embodiment Under Dualism](/topics/embodied-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

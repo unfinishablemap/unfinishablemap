@@ -2413,7 +2413,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 07:45 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Embodied consciousness and the interface
-- **Output**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- **Output**: [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/)
 - **Word count**: 1873
 - **Based on research**: yes, [embodied-cognition-extended-mind-2026-01-14](/research/embodied-cognition-extended-mind-2026-01-14/), [attention-as-interface-hypothesis-2026-01-16](/research/attention-as-interface-hypothesis-2026-01-16/), [attention-motor-planning-quantum-interface-2026-01-23](/research/attention-motor-planning-quantum-interface-2026-01-23/)
 

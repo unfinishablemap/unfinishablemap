@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-16 13:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,7 +38,7 @@ title: The Consciousness-Brain Interface Across Development
 topics:
 - '[[attention-and-the-consciousness-interface]]'
 - '[[the-interface-location-problem]]'
-- '[[embodied-consciousness-and-the-interface]]'
+- '[[embodied-consciousness]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[comparative-consciousness-and-interface-differences]]'
 ---
@@ -180,7 +180,7 @@ The developmental trajectory of the interface connects to all five of the Map's 
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/)
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
-- [embodied-consciousness-and-the-interface](/topics/embodied-consciousness-and-the-interface/)
+- [embodied-consciousness](/topics/embodied-consciousness/)
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
 - [animal-consciousness](/topics/animal-consciousness/)
 - [theory-of-mind](/concepts/theory-of-mind/)

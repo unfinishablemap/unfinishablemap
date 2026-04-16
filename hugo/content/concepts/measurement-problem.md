@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 15:22:00+00:00
+ai_modified: 2026-04-16 11:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -216,6 +216,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [interactionist-dualism](/concepts/interactionist-dualism/), [causal-closure](/concepts/causal-closure/), [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader framework
 - [multi-mind-collapse-problem](/concepts/multi-mind-collapse-problem/), [brain-interface-boundary](/concepts/brain-interface-boundary/), [prebiotic-collapse](/concepts/prebiotic-collapse/) — Coordination puzzles
 - [Quantum Darwinism and Consciousness](/topics/quantum-darwinism-and-consciousness/) — How Zurek's framework specifies the menu while leaving the outcome gap open
+- [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Born-rule distribution as default causal profile: a causal-structural approach to the measurement problem
 - [The Post-Decoherence Selection Programme](/apex/post-decoherence-selection-programme/) — Apex synthesis: five converging lines of inquiry for consciousness acting after decoherence
 - [the-reverse-inference](/topics/the-reverse-inference/) — Using consciousness as datum to constrain quantum interpretation
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis developing the reverse inference into a full framework

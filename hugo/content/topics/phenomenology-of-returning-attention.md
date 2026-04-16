@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-16 11:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: The moment attention returns from wandering reveals a micro-structu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 09:48:00+00:00
+last_deep_review: 2026-04-16 11:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -45,7 +45,7 @@ Careful introspective observation, particularly as trained in focused-attention 
 
 Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [attention-consciousness dissociation](/topics/attention-and-the-consciousness-interface/) in miniature and a micro-instance of the [transition-void](/voids/transition-void/): the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure.
 
-This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [meta-awareness](/concepts/witness-consciousness/) is absent. You are absorbed in the content without monitoring whether the content is what you intended to attend to — a micro-instance of the [absorption void](/voids/disappearance-voids/), where the immersive character of experience blocks the very stance needed to observe it. The [default-mode-network](/concepts/default-mode-network/) is active, generating self-referential narratives, but the oversight function has disengaged. Schooler (2002) calls this the dissociation between experience and *meta-consciousness*: you are conscious, but not conscious *of* being conscious in the relevant monitoring sense.
+This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [meta-awareness](/concepts/witness-consciousness/) is absent. (The broader relationship between [metacognition](/concepts/metacognition/), metarepresentation, and consciousness clarifies why this dissociation is possible: meta-awareness is a capacity consciousness enables, not consciousness itself.) You are absorbed in the content without monitoring whether the content is what you intended to attend to — a micro-instance of the [absorption void](/voids/disappearance-voids/), where the immersive character of experience blocks the very stance needed to observe it. The [default-mode-network](/concepts/default-mode-network/) is active, generating self-referential narratives, but the oversight function has disengaged. Schooler (2002) calls this the dissociation between experience and *meta-consciousness*: you are conscious, but not conscious *of* being conscious in the relevant monitoring sense.
 
 ### Phase Two: Noticing
 
@@ -67,7 +67,7 @@ The transition from Phase One to Phase Two contains a philosophical puzzle. Duri
 
 Three possible accounts:
 
-**The neural account**: The salience network detected a mismatch between current activity (mind-wandering) and the maintained intention (watch the breath). No consciousness required for the detection — the brain's conflict-monitoring systems did the work, and consciousness was merely informed of the result.
+**The neural account**: The salience network detected a mismatch between current activity (mind-wandering) and the maintained intention (watch the breath). No consciousness required for the detection — the brain's conflict-monitoring systems did the work, and consciousness was merely informed of the result. But this account makes the noticing phenomenologically inert — a message arriving at a passive receiver — and struggles to explain why noticing carries the distinctive quality of *recognition*, as though something that was already oriented toward the breath detected the deviation.
 
 **The threshold account**: Meta-awareness was partially operative throughout wandering but below an experiential threshold. When the mismatch signal grew strong enough, it crossed into experience. On this view, the gap in awareness is a gap in *reportable* awareness, not a gap in awareness itself.
 
