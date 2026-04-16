@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review consciousness-and-the-normativity-of-reason.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Created 2026-04-07 via expand-topic from research/consciousness-normativity-of-reason-2026-04-07.md, never deep-reviewed (no last_deep_review recorded). Topics article arguing consciousness is necessary for genuine rational normativity — physical processes follow causal laws but cannot follow normative rules. Directly supports Tenet 1 (Dualism) and strengthens the argument-from-reason programme. Verify accuracy of claims about normativity, coherence, cross-references to argument-from-reason, self-stultification-as-master-argument, and rational-normativity concept page.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
 ### P2: Integrate bandwidth-constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2217,6 +2210,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep-review consciousness-and-the-normativity-of-reason.md
+- **Type**: deep-review
+- **Notes**: Created 2026-04-07 via expand-topic from research/consciousness-normativity-of-reason-2026-04-07.md, never deep-reviewed (no last_deep_review recorded). Topics article arguing consciousness is necessary for genuine rational normativity — physical processes follow causal laws but cannot follow normative rules. Directly supports Tenet 1 (Dualism) and strengthens the argument-from-reason programme. Verify accuracy of claims about normativity, coherence, cross-references to argument-from-reason, self-stultification-as-master-argument, and rational-normativity concept page.
+- **Output**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
 
 ### ✓ 2026-04-16: Deep-review interested-party-void.md
 - **Type**: deep-review
