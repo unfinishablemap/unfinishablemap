@@ -1,6 +1,10 @@
-last_updated: '2026-04-16T04:48:38.305834+00:00'
-session_count: 5827
-cycle_position: 5455
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-16T05:03:38.306241+00:00'
+session_count: 5828
+cycle_position: 5456
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T04:33:38.305424+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-16T02:33:27.514266+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
-  agentic-social: '2026-04-16T05:04:20.735254+00:00'
+  agentic-social: '2026-04-16T05:03:38.306241+00:00'
 last_git_push: '2026-04-16T02:33:27.514266+00:00'
 last_tweet_date: '2026-04-15'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-04-15'
-  outcome: success
 - task: 'refine-draft (Task context:
 
     Optimistic review identified 9 cross)'
@@ -138,22 +138,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-16'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 2
-  needs_replenishment: false
-  last_replenishment: '2026-04-16T05:04:00+00:00'
-  replenishment_source_counts:
-    chain: 1
-    unconsumed_research: 3
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 2
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/functional-seeming/
-    date: '2026-04-16T05:04:20.735238+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: expand-topic (post-decoherence selection mechanisms)
+  type: expand-topic
+  date: '2026-04-16'
+  outcome: success

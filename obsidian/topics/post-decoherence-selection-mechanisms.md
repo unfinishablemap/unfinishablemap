@@ -4,7 +4,7 @@ description: "How consciousness could select among already-decohered outcomes ra
 created: 2026-04-16
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T05:11:00+00:00
+ai_modified: 2026-04-16T05:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,9 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[causal-closure]]"
   - "[[prebiotic-collapse]]"
+  - "[[conservation-laws-and-mental-causation]]"
+  - "[[consciousness-selecting-neural-patterns]]"
+  - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
   - "[[trilemma-of-selection]]"
@@ -33,10 +36,12 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-16T05:18:00+00:00
 ---
 
-The strongest empirical objection to quantum consciousness theories is that decoherence destroys quantum superpositions in warm biological tissue within femtoseconds—far too fast for consciousness to interact with them. Post-decoherence selection sidesteps this objection entirely. Instead of requiring consciousness to act on fragile superpositions before they decohere, it locates consciousness's causal role *after* decoherence has prepared a set of classically distinguishable alternatives. The question becomes not how consciousness maintains quantum coherence in the brain, but how it selects which element of an already-decohered mixture becomes the single definite outcome we experience.
+The strongest empirical objection to quantum consciousness theories is that decoherence destroys quantum superpositions in warm biological tissue within femtoseconds—far too fast for consciousness to interact with them. Post-decoherence selection sidesteps this objection entirely.
+
+Instead of requiring consciousness to act on fragile superpositions before they decohere, it locates consciousness's causal role *after* decoherence has prepared a set of classically distinguishable alternatives. The question becomes not how consciousness maintains quantum coherence in the brain, but how it selects which element of an already-decohered mixture becomes the single definite outcome we experience.
 
 The Unfinishable Map treats this as its primary response to the [[decoherence|decoherence objection]]. This article examines the concrete mechanisms by which post-decoherence selection could work—what physical and metaphysical resources it draws on, how it differs from pre-decoherence models, and why it is the only selection framework compatible with all five of the Map's [[tenets]].
 
@@ -58,7 +63,7 @@ Von Neumann (1932) demonstrated that the boundary between "measured system" and 
 
 For post-decoherence selection, this is significant: even after environmental decoherence has suppressed interference at the microscopic level, the von Neumann chain extends through the observer's nervous system to the point of experience. The formalism permits placing the selection event at consciousness itself, treating the entire physical chain—including decoherence—as part of the "measured system" whose outcome consciousness determines.
 
-The mechanism here is minimal. Consciousness does not need to maintain quantum coherence, inject energy, or interact with superpositions. It acts at the endpoint of a chain that physics has already prepared, selecting which element of the mixture becomes experientially actual. The physical dynamics do all the preparatory work; consciousness contributes only the final determination.
+The mechanism here is minimal. Consciousness does not need to maintain quantum coherence, inject energy, or interact with superpositions—the [[conservation-laws-and-mental-causation|energy conservation objection]] does not arise. It acts at the endpoint of a chain that physics has already prepared, selecting which element of the mixture becomes experientially actual. The physical dynamics do all the preparatory work; consciousness contributes only the final determination.
 
 ### Stapp's Process 1 Relocated
 
@@ -70,17 +75,19 @@ This relocation sacrifices Stapp's specific mechanism (the quantum Zeno effect o
 
 ### The Actualisation Model
 
-A third approach treats selection as a metaphysical rather than physical process. On this view, the post-decoherence state represents a space of real but unactualised possibilities. Consciousness does not interact with a physical system at all—it *actualises* one element of the possibility space into definite experience. This resonates with Kastner's possibilist transactional interpretation, where "transactions actualize one possibility from a space of real (but sub-actual) possibilities," though Kastner's mechanism is physical (emitter-absorber handshakes) rather than consciousness-mediated.
+A third approach treats selection as a metaphysical rather than physical process. On this view, the post-decoherence state represents a space of real but unactualised possibilities. Consciousness does not interact with a physical system at all—it *actualises* one element of the possibility space into definite experience. This echoes [[process-philosophy|process philosophy's]] concept of concrescence—the transition from real potentials to actual occasions—and resonates with Kastner's possibilist transactional interpretation, where "transactions actualize one possibility from a space of real (but sub-actual) possibilities," though Kastner's mechanism is physical (emitter-absorber handshakes) rather than consciousness-mediated.
 
 The actualisation model makes the weakest physical claims and the strongest metaphysical ones. It does not require any specific physical mechanism for consciousness-matter interaction. It requires instead that the ontology of the post-decoherence state includes genuinely open possibilities—that the improper mixture is not merely epistemically but ontologically unsettled. Consciousness then operates not within the physics but at the boundary between possibility and actuality.
 
 This is the most speculative of the three proposals, but it has a distinctive advantage: it is invulnerable to any empirical objection about decoherence timescales, quantum coherence in biology, or energy conservation, because it makes no physical claims at all. Its vulnerability is correspondingly philosophical: critics can dismiss the notion of "unactualised possibilities" as incoherent or redundant.
 
+The Map does not commit to a single proposal. The von Neumann cut and the relocated Stapp framework make stronger contact with physics and are more testable; the actualisation model makes fewer physical assumptions and is correspondingly harder to challenge. All three are live options. What they share—consciousness acting on a prepared set of alternatives rather than on fragile superpositions—is more important than their differences. The concept of [[consciousness-selecting-neural-patterns]] explores the neural interface through which any of these mechanisms could operate.
+
 ## Why Not Pre-Decoherence?
 
 The established quantum consciousness proposals—Stapp's quantum Zeno mechanism and Penrose-Hameroff Orch OR—both require consciousness to interact with quantum systems *before* decoherence destroys their coherence. This creates a well-known vulnerability.
 
-Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules. Even revised estimates from Hagan et al. (2002), which extend coherence times by seven orders of magnitude to 10⁻⁵ to 10⁻⁴ seconds, leave a gap of roughly three orders of magnitude between the fastest plausible conscious process and the survival time of neural quantum coherence.
+Tegmark (2000) calculated decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules. Even revised estimates from Hagan et al. (2002), which extend coherence times substantially—to roughly 10⁻⁵ to 10⁻⁴ seconds under favourable assumptions—still leave a gap of several orders of magnitude between the fastest plausible conscious process and the survival time of neural quantum coherence.
 
 Post-decoherence selection renders this entire debate moot. If consciousness operates on the decohered mixture rather than on pre-decoherence superpositions, the question of whether quantum coherence survives long enough in the brain becomes irrelevant. Decoherence can proceed as fast as Tegmark claims. The selection window opens *after* decoherence closes, not before.
 
