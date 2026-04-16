@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the structural observation that consciousness investigating itself has existential stakes in the outcome — the judge and the accused are the same entity. Review complicity-void.md for opportunities to cross-link (interested party void extends complicity from participation to motivation). Review necessary-opacity.md to add the interested-party dimension to the opacity argument.
-- **Source**: chain (from voids/interested-party-void.md)
-- **Generated**: 2026-04-16
-
 ### P2: Condense consciousness-selecting-neural-patterns.md (3818 words, 109% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2182,6 +2175,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the structural observation that consciousness investigating itself has existential stakes in the outcome — the judge and the accused are the same entity. Review complicity-void.md for opportunities to cross-link (interested party void extends complicity from participation to motivation). Review necessary-opacity.md to add the interested-party dimension to the opacity argument.
+- **Output**: obsidian/voids/complicity-void.md -- Context: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
 
 ### ✓ 2026-04-16: Cross-review trilemma-of-selection.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
 - **Type**: cross-review
