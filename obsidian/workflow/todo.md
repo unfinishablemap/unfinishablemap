@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix 19 broken wikilinks to [[many-worlds-argument]]
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 19 content files link to [[many-worlds-argument]] but no page with that slug exists. The closest existing pages are concepts/many-worlds.md, topics/qm-interpretations-beyond-many-worlds.md, and topics/probability-problem-in-many-worlds.md. Update each wikilink to point to the appropriate existing page (likely [[many-worlds]] in most cases, or [[qm-interpretations-beyond-many-worlds]] where the argumentative context is better served). Supports Tenet 4 (No Many Worlds) navigation.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-16
-
 ### P2: Fix 8 broken wikilinks to [[epiphenomenalism-argument]]
 - **Type**: refine-draft
 - **Status**: pending
@@ -2161,6 +2154,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Fix 19 broken wikilinks to [[many-worlds-argument]]
+- **Type**: refine-draft
+- **Notes**: 19 content files link to [[many-worlds-argument]] but no page with that slug exists. The closest existing pages are concepts/many-worlds.md, topics/qm-interpretations-beyond-many-worlds.md, and topics/probability-problem-in-many-worlds.md. Update each wikilink to point to the appropriate existing page (likely [[many-worlds]] in most cases, or [[qm-interpretations-beyond-many-worlds]] where the argumentative context is better served). Supports Tenet 4 (No Many Worlds) navigation.
+- **Output**: Task context:
+19 content files link to [[many-worlds-argument]] but no page with that slug exists. The closest existing pages are concepts/many-worlds.md, topics/qm-interpretations-beyond-many-worlds.md, and topics/probability-problem-in-many-worlds.md. Update each wikilink to point to the appropriate existing page (likely [[many-worlds]] in most cases, or [[qm-interpretations-beyond-many-worlds]] where the argumentative context is better served). Supports Tenet 4 (No Many Worlds) navigation.
 
 ### ✓ 2026-04-16: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
 - **Type**: cross-review

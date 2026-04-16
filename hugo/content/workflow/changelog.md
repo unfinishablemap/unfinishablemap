@@ -9,6 +9,15 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 07:33 UTC - deep-review
+- **Status**: Success
+- **File**: [complicity-void](/voids/complicity-void/)
+- **Word count**: 2138 → 2163 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cross-review distinctions from interested-party-void and necessary-opacity, cross-links, investigator problem tightening)
+- **Enhancements made**: 2 (new void distinctions, triad framing in investigator problem)
+- **Output**: [deep-review-2026-04-16-complicity-void](/reviews/deep-review-2026-04-16-complicity-void/)
+
 ## 2026-04-16 07:19 UTC - coalesce
 - **Status**: Success
 - **Sources**: [epistemic-self-defeat](/concepts/epistemic-self-defeat/), [self-stultification](/concepts/self-stultification/)
