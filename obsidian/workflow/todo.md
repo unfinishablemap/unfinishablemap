@@ -65,20 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
-### P2: Address hot-zone overstatement and covert-consciousness figure in neural-correlates-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16c) found medium-severity issues: (Issue 2) "The most robust NCC finding" overstates COGITATE — COGITATE was an adversarial collaboration where neither IIT nor GNWT was fully vindicated, and GNWT proponents (Dehaene, Changeux) publicly dispute Koch's hot-zone interpretation; soften to "one widely reported NCC finding, though contested by GNWT proponents" and add a sentence noting the contestation. (Issue 7) "Up to 25%" covert consciousness figure (Kondziella 2016) presents the most favourable end of the range; add Claassen et al. 2019 and note stricter criteria yield lower estimates. (Issue 1) Remove stale AI refinement log comment block at lines 204–216 ("This log should be removed after human review" dated 2026-03-19). See pessimistic-2026-04-16c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
-### P2: Address Lieberman/magnetoreception overstatement and amplification rhetoric in animal-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16c) found multiple medium-severity issues: (Issue 4) Lieberman et al. 2008 overstated — the study supports a weaker claim about dual-task/masked-priming disruption, not "specifically depends on conscious processing"; reword to hedge and cite Hassin et al. work on unconscious rule learning. (Issue 5) Avian magnetoreception as "proof of concept for quantum coherence in warm biological systems" conflates molecular-scale (cryptochrome radical-pair, microsecond) with neural-population-scale — exactly the move Tegmark warns against; add "molecular-scale" qualifier and note this doesn't automatically extend to population-scale effects. (Issue 6) Amplification thesis developed over ~700 words vs ~100 words acknowledging alternatives — condense the amplification development, add a paragraph on Neubauer & Hublin on human brain asymmetry, or add a tighter "alternative reading" summary. (Counterargument) Reword "Dualism has no anthropocentric commitment" to "The Map's dualism has no anthropocentric commitment" — historically Cartesian/theistic dualisms did carry such commitments. (Issue 1) Remove stale AI refinement log block at lines 252–265 dated 2026-03-21. See pessimistic-2026-04-16c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
 ### P3: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2245,6 +2231,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Address hot-zone overstatement and covert-consciousness figure in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16c) found medium-severity issues: (Issue 2) "The most robust NCC finding" overstates COGITATE — COGITATE was an adversarial collaboration where neither IIT nor GNWT was fully vindicated, and GNWT proponents (Dehaene, Changeux) publicly dispute Koch's hot-zone interpretation; soften to "one widely reported NCC finding, though contested by GNWT proponents" and add a sentence noting the contestation. (Issue 7) "Up to 25%" covert consciousness figure (Kondziella 2016) presents the most favourable end of the range; add Claassen et al. 2019 and note stricter criteria yield lower estimates. (Issue 1) Remove stale AI refinement log comment block at lines 204–216 ("This log should be removed after human review" dated 2026-03-19). See pessimistic-2026-04-16c.md.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+Task context:
+Pessimistic review (2026-04-16c) found medium-severity issues: (Issue 2) "The most robust NCC finding" overstates COGITATE — COGITATE was an adversarial collaboration where neither IIT nor GNWT was fully vindicated, and GNWT proponents (Dehaene, Changeux) publicly dispute Koch's hot-zone interpretation; soften to "one widely reported NCC finding, though contested by GNWT proponents" and add a sentence noting the contestation. (Issue 7) "Up to 25%" covert consciousness figure (Kondziella 2016) presents the most favourable end of the range; add Claassen et al. 2019 and note stricter criteria yield lower estimates. (Issue 1) Remove stale AI refinement log comment block at lines 204–216 ("This log should be removed after human review" dated 2026-03-19). See pessimistic-2026-04-16c.md.
+
+### ✓ 2026-04-16: Address hot-zone overstatement and covert-consciousness figure in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: All three issues (stale AI refinement log, hot-zone overstatement + GNWT contestation, covert-consciousness 25% figure + Claassen 2019) were already addressed in commit f492fde1b (2026-04-16 17:02 UTC) as part of the broader "Address pessimistic review issues in ncc, zombies, animal-consciousness" task. No further changes needed — verified current file matches review recommendations. Closing duplicate.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
 
 ### ✓ 2026-04-16: Address zombie/interaction coherence tension in philosophical-zombies.md
 - **Type**: refine-draft

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 18:25:00+00:00
+ai_modified: 2026-04-16 18:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 18:40 UTC - refine-draft
+- **Status**: Skipped (duplicate)
+- **File**: [[concepts/neural-correlates-of-consciousness]]
+- **Source**: pessimistic-2026-04-16c Issues 1, 2, 7 (P2 follow-up task)
+- **Changes**: None — all three issues (stale AI refinement log, "most robust NCC finding" softening + GNWT contestation, Kondziella 25% + Claassen 2019 stricter-criteria hedge) were already applied in commit f492fde1b (2026-04-16 17:02 UTC) under the broader pessimistic-review task. Verified current file matches review recommendations; marked duplicate todo complete.
+- **Published**: yes
 
 ## 2026-04-16 18:25 UTC - refine-draft
 - **Status**: Success
