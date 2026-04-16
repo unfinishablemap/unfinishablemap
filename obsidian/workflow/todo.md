@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Remove stale AI refinement log comments from neural-correlates-of-consciousness.md and animal-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-04-16c.md, Issue 1) identified HTML comment blocks marked "This log should be removed after human review" still present in neural-correlates-of-consciousness.md (lines 204-216, dated 2026-03-19) and animal-consciousness.md (lines 252-265, dated 2026-03-21). These have survived multiple refinement cycles across at least three review loops. Remove both blocks. If philosophical-zombies.md contains a similar stale log block, remove that too. Low severity but signals the review loop is not closing.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
+### P2: Integrate conservation-laws-mind-brain-causation.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has zero inbound wikilinks from active content (excluding reviews/workflow/research). The conservation-laws response to mental-causation objections is a central physicalist challenge to Tenet 3 (Bidirectional Interaction) — being orphaned means readers of core causal articles cannot reach it. Add cross-references from at least: causal-closure, mental-causation-and-downward-causation, bidirectional-causation-under-physical-constraints, interactionism, energy-conservation-objection (if exists). Update concepts/_index.md if appropriate.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
+### P2: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has zero inbound wikilinks from active content. The article directly supports Tenet 5 (Occam's Razor Has Limits) — being orphaned means readers cannot reach one of the site's key arguments about why parsimony fails for consciousness. Add cross-references from at least: parsimony-epistemology, parsimony-case-for-interactionist-dualism, epistemological-limits-occams-razor, occams-razor-limits-argument, and the tenets/tenets.md page. Consider whether overlap with parsimony-epistemology or epistemological-limits-occams-razor warrants coalesce review.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
+### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has zero inbound wikilinks from active content. The concept anchors arguments against illusionism and for phenomenal normativity — being orphaned means readers of normativity and anti-illusionist articles cannot reach it. Add cross-references from at least: phenomenal-normativity, evaluative-qualia-phenomenal-normativity-across-traditions, phenomenology-of-intrinsic-value, consciousness-and-normative-force, emotion-as-evidence-for-dualism, and the existing P3 task (line 1099) that plans an anti-illusionism synthesis article.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
