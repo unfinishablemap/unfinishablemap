@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16T01:41:00+00:00
+ai_modified: 2026-04-16T16:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review pragmatisms-path-to-dualism.md after coalesce and condense
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Article absorbed pragmatist-normative-bridge.md via coalesce on 2026-04-16 02:33 UTC, then condensed from 4948 to ~3045 words later the same day. Has not been deep-reviewed since the double transformation. Verify: (1) the condensed article retains the core pragmatist-path argument and the normative-bridge thesis; (2) the "Coherent and Incoherent Reflexivity" section (added via refine-draft 2026-04-14 in response to pessimistic review's symmetry objection) survived condensing; (3) cross-references to self-stultification-as-master-argument, argument-from-reason, consciousness-and-normative-force, and phenomenal-value-realism remain accurate; (4) tenet alignment, especially to Tenet 3 (Bidirectional Interaction) and Tenet 1 (Dualism).
+- **Source**: chain (from condense 2026-04-16)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The 2026-04-16 16:29 UTC refine-draft calibrated neural-change language across attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md — distinguishing "neural function" from "neural architecture" per research/clinical-evidence-quality-2026-03-29.md, hedging compassion-meditation structural claims, softening "supported by Schwartz" → "consistent with". Review related articles in the same causal/clinical cluster for parallel uncalibrated claims: consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, conservation-laws-and-mind.md, psychophysical-laws.md, and consciousness-selecting-neural-patterns.md. Ensure site-wide consistency on what the neuroplasticity/meditation/CBT evidence actually supports versus what it's sometimes claimed to support. Add cross-links where appropriate.
+- **Source**: chain (from refine-draft 2026-04-16 calibration)
+- **Generated**: 2026-04-16
+
+### P2: Integrate predictive-construction-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File created 2026-04-16, has no inbound wikilinks. Voids article introduces the double-veil problem and the self-erasing nature of the predictive construction void. Beyond the pending P3 cross-review against necessary-opacity and predictive-processing-and-dualism, the article needs direct inbound links from: introspection.md, perception.md, dualist-perception.md, phenomenal-transparency-opacity-spectrum.md, projection-void.md, the voids taxonomy (taxonomy-of-voids.md, convergence-of-the-void-catalogue.md, three-kinds-of-void.md), and voids/_index navigation. Without these the article remains undiscoverable despite covering a central mechanism.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
 
 ### P3: Address physical-completeness.md equivocation on "structural"
 - **Type**: refine-draft
