@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense pragmatisms-path-to-dualism.md (4948 words, 124% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ after absorbing pragmatist-normative-bridge.md via coalesce on 2026-04-16. Currently 4948 words (124% of target). Preserve the core pragmatist path argument and normative bridge thesis while removing redundancy introduced by the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-16
+
+### P2: Address Schwartz OCD evidence fragility in mental-effort.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-15c) found high-severity issue: the unreplicated n=18 Schwartz OCD study is the centrepiece illustration of "mental effort has physical consequences" despite the article itself flagging its weakness. Restructure to lead with broader neuroplasticity evidence (meditation, CBT) and present Schwartz as one example rather than the primary case study. The article's conclusion rests substantially on evidence it identifies as weak. See pessimistic-2026-04-15c.md Issue 2.
+- **Source**: chain (from pessimistic-2026-04-15c)
+- **Generated**: 2026-04-16
+
+### P2: Add cross-links from optimistic-2026-04-16 review findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review identified 6 cross-linking opportunities: emergence-as-universal-hard-problem → the-hard-problem-of-consciousness (domestication thesis extends scope), consciousness-and-mathematics → the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust → consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness → the-expertise-void (continual learning ↔ irreversible transformation), wheeler-participatory-universe → pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character → the-consciousness-value-connection (phenomenological grounding). See optimistic-2026-04-16.md
+- **Source**: chain (from optimistic-2026-04-16)
+- **Generated**: 2026-04-16
+
+### P2: Create concept page for epistemic self-defeat
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-16). The general pattern where accepting a position undermines the grounds for accepting it — distinct from self-stultification (a specific application). Currently discussed within self-stultification-as-master-argument but applies independently across epiphenomenalism, eliminativism, and global skepticism. Deserves standalone concept page as a foundational argumentative pattern in the Map's toolkit. Target section: concepts/ (228/230, 2 slots remaining). See optimistic-2026-04-16.md
+- **Source**: gap_analysis
+- **Generated**: 2026-04-16
+
+### P3: Address phenomenology's methodological circularity concern in phenomenology.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-15c) found medium-severity issue: the article presents phenomenology's first-person irreducibility claim as a finding, but it is partly built into the methodology — the epoché brackets third-person approaches, then discovers what remains can't be captured by third-person approaches. The strongest cited response (Peng and Hagar 2025) is a single opinion piece. Add a sentence acknowledging critics see the irreducibility claim as question-begging, then explain why phenomenologists disagree. See pessimistic-2026-04-15c.md Issue 3.
+- **Source**: chain (from pessimistic-2026-04-15c)
+- **Generated**: 2026-04-16
+
+### P3: Deep review phenomenology-of-returning-attention.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-17 — 30 days ago. Only stale topics/concepts file not already in the review queue. Topics article on the phenomenology of redirecting and restoring attention. Verify coherence, accuracy of claims, cross-references to attention-and-the-consciousness-interface and phenomenal-attention, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
 ### P3: Deep review inverted-qualia.md
 - **Type**: deep-review
 - **Status**: pending
