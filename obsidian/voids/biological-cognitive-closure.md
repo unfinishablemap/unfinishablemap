@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-16T03:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,6 +38,7 @@ related_articles:
   - "[[recognition-void]]"
   - "[[self-transcendence-void]]"
   - "[[adaptive-cognitive-limits]]"
+  - "[[imagination-and-creativity-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -75,7 +76,7 @@ Some limits are architectural — fixed by cognitive design, present from birth,
 
 Jerry Fodor's language of thought hypothesis claims that lexical concepts — primitives like CAUSE, NUMBER, RED — are innate. Learning a concept requires hypothesis-testing using that very concept, creating vicious circularity. If even partially correct, our concept space is bounded at birth. Complex concepts can be assembled from primitives, but the primitives themselves cannot be acquired.
 
-The space of *possible* concepts almost certainly exceeds the space of *human-accessible* concepts, just as possible colours exceed what human eyes detect. Cross-species evidence makes this vivid: no training teaches a dog PRIME NUMBER. The limitation is not insufficient intelligence within mathematics but absence of the conceptual domain entirely.
+The space of *possible* concepts almost certainly exceeds the space of *human-accessible* concepts, just as possible colours exceed what human eyes detect. The [[imagination-and-creativity-void|imagination void]] demonstrates this concretely: asking someone to imagine a genuinely novel colour produces only recombination of existing colours, revealing the fixed alphabet of phenomenal primitives. Cross-species evidence makes this vivid: no training teaches a dog PRIME NUMBER. The limitation is not insufficient intelligence within mathematics but absence of the conceptual domain entirely.
 
 ## Why Limits Are Adaptive
 

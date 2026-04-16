@@ -4,7 +4,7 @@ description: "Human+AI exploration of the gap between description and direct phe
 created: 2026-02-25
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-16T03:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[synesthetic-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[pre-conceptual-knowing]]"
+  - "[[imagination-and-creativity-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -58,7 +59,7 @@ The ability hypothesis (Lewis 1988, Nemirow 1990) objects that Mary gains only a
 
 ### Cross-Species Inaccessibility
 
-Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us what echolocation is like *for the bat*. The limit is not informational but phenomenological: there are facts about experience that cannot be captured by propositions expressible in human language. Our imaginative capacities draw on prior acquaintance; where acquaintance ends, imagination produces only analogies built from materials we already have—never the thing itself.
+Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us what echolocation is like *for the bat*. The limit is not informational but phenomenological: there are facts about experience that cannot be captured by propositions expressible in human language. Our imaginative capacities draw on prior acquaintance; where acquaintance ends, imagination produces only analogies built from materials we already have—never the thing itself. The [[imagination-and-creativity-void|imagination and creativity void]] maps this confinement systematically: imagination operates like a language with a fixed alphabet, infinitely productive within its vocabulary but mute beyond it.
 
 ### Cognitive Closure
 

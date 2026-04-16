@@ -4,7 +4,7 @@ description: "Creative insight unfolds through qualitatively distinct experienti
 created: 2026-03-07
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-04-15T12:05:00+00:00
+ai_modified: 2026-04-16T03:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,6 +39,7 @@ related_articles:
   - "[[aesthetics-and-consciousness]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
   - "[[surprise-prediction-error-and-consciousness]]"
+  - "[[imagination-and-creativity-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -100,7 +101,7 @@ The moment of insight—the "aha!" or "eureka" experience—has been studied thr
 
 **Positive affect.** Insight is experienced as pleasurable—a felt release of the tension that built during impasse, often accompanied by surprise. This affective component may serve as a reward signal reinforcing creative strategies, and its intensity correlates with the depth of prior impasse.
 
-**Altered sense of agency.** The thinker does not experience insight as their own deliberate production. It arrives, is received, is recognised—but not authored in the way deliberate analytical steps are authored. This [[phenomenology-of-agency-vs-passivity|ownership-without-authorship]] is phenomenologically precise: the insight is *mine*—it grew from *my* effort and engagement—yet I did not *make* it happen. This resonates with Bergson's account in *Creative Evolution* (1907): genuine novelty emerges from [[temporal-consciousness|durée]] itself, not from calculated construction.
+**Altered sense of agency.** The thinker does not experience insight as their own deliberate production. It arrives, is received, is recognised—but not authored in the way deliberate analytical steps are authored. The [[imagination-and-creativity-void|imagination and creativity void]] maps this as a structural feature: consciousness cannot observe its own generative processes, so creative insight is constitutively experienced as received rather than produced. This [[phenomenology-of-agency-vs-passivity|ownership-without-authorship]] is phenomenologically precise: the insight is *mine*—it grew from *my* effort and engagement—yet I did not *make* it happen. This resonates with Bergson's account in *Creative Evolution* (1907): genuine novelty emerges from [[temporal-consciousness|durée]] itself, not from calculated construction.
 
 ### Confirmation and Intersubjective Scrutiny
 

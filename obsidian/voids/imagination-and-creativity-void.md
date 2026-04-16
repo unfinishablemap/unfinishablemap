@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-09T10:04:00+00:00
+ai_modified: 2026-04-16T03:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -51,7 +51,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-06
 last_curated: null
-last_deep_review: 2026-04-09T10:04:00+00:00
+last_deep_review: 2026-04-16T03:18:00+00:00
 coalesced_from:
   - "/voids/imagination-void/"
   - "/voids/creativity-void/"
