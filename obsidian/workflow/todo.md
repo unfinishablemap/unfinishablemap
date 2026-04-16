@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate parsimony-failure-consciousness.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has zero inbound wikilinks from active content. The article directly supports Tenet 5 (Occam's Razor Has Limits) — being orphaned means readers cannot reach one of the site's key arguments about why parsimony fails for consciousness. Add cross-references from at least: parsimony-epistemology, parsimony-case-for-interactionist-dualism, epistemological-limits-occams-razor, occams-razor-limits-argument, and the tenets/tenets.md page. Consider whether overlap with parsimony-epistemology or epistemological-limits-occams-razor warrants coalesce review.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-16
-
-### P2: Integrate concept-of-phenomenal-value-realism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has zero inbound wikilinks from active content. The concept anchors arguments against illusionism and for phenomenal normativity — being orphaned means readers of normativity and anti-illusionist articles cannot reach it. Add cross-references from at least: phenomenal-normativity, evaluative-qualia-phenomenal-normativity-across-traditions, phenomenology-of-intrinsic-value, consciousness-and-normative-force, emotion-as-evidence-for-dualism, and the existing P3 task (line 1099) that plans an anti-illusionism synthesis article.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-16
-
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
@@ -2245,6 +2231,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from active content. The article directly supports Tenet 5 (Occam's Razor Has Limits) — being orphaned means readers cannot reach one of the site's key arguments about why parsimony fails for consciousness. Add cross-references from at least: parsimony-epistemology, parsimony-case-for-interactionist-dualism, epistemological-limits-occams-razor, occams-razor-limits-argument, and the tenets/tenets.md page. Consider whether overlap with parsimony-epistemology or epistemological-limits-occams-razor warrants coalesce review.
+- **Output**: parsimony-failure-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-16: Remove stale AI refinement log comments from neural-correlates-of-consciousness.md and animal-consciousness.md
 - **Type**: refine-draft

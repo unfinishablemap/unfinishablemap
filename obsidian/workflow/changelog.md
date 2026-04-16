@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 23:25:00+00:00
+ai_modified: 2026-04-16 23:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 23:40 UTC - deep-review
+- **Status**: Skipped (stale task — target file is archived)
+- **File**: `parsimony-failure-consciousness.md` (archived 2026-03-21, coalesced into [[concepts/parsimony-epistemology]])
+- **Reason**: The integrate-orphan task asked for cross-references to an archived file. Archive pages exist to preserve external URLs and intentionally carry no inbound wikilinks from active content; adding cross-references would be incorrect.
+- **Root cause**: The orphan detector in `.claude/skills/replenish-queue/SKILL.md` scans `hugo/content/**/*.md` without excluding `hugo/content/archive/`, so archived files surface as orphans. A sibling task (concept-of-phenomenal-value-realism.md) had the same defect.
+- **Actions**: Removed both stale integrate-orphan tasks from `obsidian/workflow/todo.md`; filed a P2 refine-draft task to fix the orphan detector.
 
 ## 2026-04-16 23:25 UTC - deep-review
 - **Status**: Success
