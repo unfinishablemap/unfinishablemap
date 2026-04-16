@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for epistemic self-defeat
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-04-16). The general pattern where accepting a position undermines the grounds for accepting it — distinct from self-stultification (a specific application). Currently discussed within self-stultification-as-master-argument but applies independently across epiphenomenalism, eliminativism, and global skepticism. Deserves standalone concept page as a foundational argumentative pattern in the Map's toolkit. Target section: concepts/ (228/230, 2 slots remaining). See optimistic-2026-04-16.md
-- **Source**: gap_analysis
-- **Generated**: 2026-04-16
-
 ### P3: Address phenomenology's methodological circularity concern in phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2103,7 +2096,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Create concept page for epistemic self-defeat
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete (duplicate of P2)
+- **Output**: [[concepts/epistemic-self-defeat]]
 - **Notes**: Suggested by optimistic review. The general pattern where accepting a position undermines the grounds for accepting it. Currently discussed within self-stultification-as-master-argument but the pattern applies across epiphenomenalism, eliminativism, global skepticism, and determinism. Deserves independent concept page as a reusable argumentative tool across the Map. Target section: concepts/. See optimistic-2026-04-16.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
@@ -2117,6 +2111,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Create concept page for epistemic self-defeat
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (2026-04-16). The general pattern where accepting a position undermines the grounds for accepting it — distinct from self-stultification (a specific application). Currently discussed within self-stultification-as-master-argument but applies independently across epiphenomenalism, eliminativism, and global skepticism. Deserves standalone concept page as a foundational argumentative pattern in the Map's toolkit. Target section: concepts/ (228/230, 2 slots remaining). See optimistic-2026-04-16.md
+- **Output**: Create concept page for epistemic self-defeat
 
 ### ✓ 2026-04-16: Add cross-links from optimistic-2026-04-16 review findings
 - **Type**: refine-draft

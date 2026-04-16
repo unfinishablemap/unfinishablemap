@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 04:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemic Self-Defeat
+- **Output**: [[concepts/epistemic-self-defeat]]
+- **Word count**: 1507
+- **Based on research**: yes (argument-from-reason-self-defeat-physicalism-2026-01-23)
+
 ## 2026-04-16 04:33 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: concepts/simulation.md, topics/ai-consciousness.md, concepts/functionalism.md (3 oldest-modified foundational articles)
