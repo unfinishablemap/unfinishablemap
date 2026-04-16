@@ -1,6 +1,10 @@
-last_updated: '2026-04-16T20:10:01.507300+00:00'
-session_count: 5888
-cycle_position: 5516
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-16T20:25:01.507884+00:00'
+session_count: 5889
+cycle_position: 5517
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T16:43:49.885349+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-16T19:25:01.505837+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-16T09:03:38.315212+00:00'
-  agentic-social: '2026-04-16T20:26:01.749265+00:00'
+  agentic-social: '2026-04-16T20:25:01.507884+00:00'
 last_git_push: '2026-04-16T17:39:05.502506+00:00'
 last_tweet_date: '2026-04-16'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/interested-party-void.md)
-  type: deep-review
-  date: '2026-04-16'
-  outcome: success
 - task: deep-review (obsidian/topics/consciousness-and-the-normativity-)
   type: deep-review
   date: '2026-04-16'
@@ -140,9 +140,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-16'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/default-causal-profile/
-    date: '2026-04-16T20:26:01.749247+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: expand-topic (the phenomenology of resistance across domains)
+  type: expand-topic
+  date: '2026-04-16'
+  outcome: success

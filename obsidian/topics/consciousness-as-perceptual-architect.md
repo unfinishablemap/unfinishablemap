@@ -27,7 +27,7 @@ related_articles:
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
-  - "[[phenomenology-of-conceptual-change]]"
+  - "[[phenomenology-of-conceptual-frameworks]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[the-binding-problem-a-systematic-treatment]]"
   - "[[perceptual-failure-and-the-interface]]"
@@ -152,7 +152,7 @@ And both face the same explanatory gap. Predictive processing frameworks describ
 - [[temporal-consciousness-structure-and-agency]] — Temporal integration in experience
 - [[consciousness-and-skill-acquisition]] — Skill acquisition, deliberate practice, and neural evidence for conscious engagement in plasticity
 - [[sensorimotor-contingencies-and-the-interface]] — Perception as mastery of sensorimotor laws
-- [[phenomenology-of-conceptual-change]] — The cognitive parallel: how frameworks transform
+- [[phenomenology-of-conceptual-frameworks]] — The cognitive parallel: how frameworks transform
 - [[perceptual-failure-and-the-interface]] — How faithfully perception tracks reality
 - [[perceptual-degradation-and-the-interface]] — Degradation as the complement to constancy: what failure reveals
 - [[predictive-processing-and-dualism]] — Predictive coding and the Map's framework

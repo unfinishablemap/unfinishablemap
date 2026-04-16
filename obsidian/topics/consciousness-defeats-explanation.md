@@ -41,7 +41,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
-  - "[[phenomenology-of-framework-inhabitation]]"
+  - "[[phenomenology-of-conceptual-frameworks]]"
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[methodology-of-consciousness-research]]"
@@ -176,7 +176,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[epistemological-limits-occams-razor]] — The parsimony argument examined in detail
 - [[consciousness-and-the-structure-of-scientific-revolutions]] — Kuhnian analysis of the consciousness debate
 - [[the-convergence-argument-for-dualism]] — Multiple independent arguments converging on irreducibility
-- [[phenomenology-of-framework-inhabitation]] — How holding a theory reshapes conscious experience
+- [[phenomenology-of-conceptual-frameworks]] — How holding a theory reshapes conscious experience
 - [[phenomenology-of-philosophical-disagreement]] — The felt character of intractable disagreement
 - [[epistemic-advantages-of-dualism]] — Why non-materialist theories have epistemic strengths
 - [[argument-from-reason]] — A parallel self-referential argument against physicalism

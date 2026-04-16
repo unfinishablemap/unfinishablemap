@@ -29,6 +29,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
+archived: true
+archived_date: 2026-04-16T20:43:31+00:00
+superseded_by: "/topics/phenomenology-of-conceptual-frameworks/"
+archive_reason: "Coalesced into The Phenomenology of Conceptual Frameworks"
+original_path: "/topics/phenomenology-of-conceptual-change/"
 ---
 
 Conceptual change is not belief revision writ large. When you change your mind about a factual question, the categories remain stable — you update which proposition you endorse within a fixed framework. But when the categories themselves shift, something phenomenologically distinct occurs. The child who grasps that "alive" does not mean "moves on its own," the physics student who internalises that mass and energy are interconvertible, the philosopher who genuinely absorbs a new ontology — each undergoes a transformation not just of belief but of the perceptual and cognitive equipment through which beliefs are formed. The Unfinishable Map argues that this phenomenology of conceptual change provides strong evidence for [[cognitive-phenomenology]] and for consciousness's irreducibility: the felt character of conceptual transformation resists explanation as mere information reorganisation.

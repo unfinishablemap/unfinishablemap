@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 20:26:00+00:00
+ai_modified: 2026-04-16 20:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 20:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenology-of-framework-inhabitation]], [[topics/phenomenology-of-conceptual-change]]
+- **Target**: [[topics/phenomenology-of-conceptual-frameworks]]
+- **Archived**: [[archive/topics/phenomenology-of-framework-inhabitation]], [[archive/topics/phenomenology-of-conceptual-change]]
+- **Notes**: The two sources mapped complementary phenomenologies of the same territory — inhabitation (transparency, gravitational pull, signatures of dependence) and change (anomaly accumulation, crisis, gestalt shift, consolidation). Both cited Kuhn, Heidegger's Zuhandenheit, and the same predictive-processing counter-move, with heavy mutual cross-reference. Unified under "phenomenology of conceptual frameworks" as a single narrative covering dwelling and transition. Preserved the unique tenet-alignment arguments from each source (including conceptual-change's connection to No Many Worlds and Minimal Quantum Interaction). Word budget: ~5500 (down from combined ~9500). All wikilinks in 9 active content files redirected to the new unified article. Topics section at 92% of cap (231/250).
+- **References to review**: Active content wikilinks updated inline; historical review files and changelog archives preserved as-is
 
 ## 2026-04-16 20:26 UTC - expand-topic
 - **Status**: Success

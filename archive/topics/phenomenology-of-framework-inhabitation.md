@@ -44,6 +44,11 @@ last_deep_review: 2026-04-09T15:56:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-the-phenomenology-of-framework-dependence/"
   - "/topics/phenomenology-of-theoretical-commitment/"
+archived: true
+archived_date: 2026-04-16T20:43:31+00:00
+superseded_by: "/topics/phenomenology-of-conceptual-frameworks/"
+archive_reason: "Coalesced into The Phenomenology of Conceptual Frameworks"
+original_path: "/topics/phenomenology-of-framework-inhabitation/"
 ---
 
 Every conscious being thinks from within a conceptual framework — a system of categories, assumptions, and inferential habits that structures experience before reflection begins. The Unfinishable Map argues that this framework is not held like luggage but *inhabited* like a dwelling. The committed theorist does not carry the theory around; they look through it like a lens. And the most striking phenomenological fact about this inhabitation is that the lens presents itself not as a lens but as clear sight. This phenomenal transparency — the felt absence of the framework even as it shapes every thought — combined with the gravitational pull that commitment exerts on inquiry, constitutes irreducible evidence that consciousness does epistemic work no computational model captures.
