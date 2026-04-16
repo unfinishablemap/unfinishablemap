@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-16T03:33:27.515601+00:00'
-session_count: 5822
-cycle_position: 5450
+last_updated: '2026-04-16T03:48:38.303861+00:00'
+session_count: 5823
+cycle_position: 5451
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T22:26:47.301463+00:00'
   optimistic-review: '2026-04-15T23:56:47.304240+00:00'
   check-tenets: '2026-04-12T19:55:22.736439+00:00'
   check-links: '2026-04-15T20:56:47.298631+00:00'
-  deep-review: '2026-04-16T02:03:27.513382+00:00'
+  deep-review: '2026-04-16T03:48:38.303861+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-15T20:56:47.298631+00:00'
   coalesce: '2026-04-16T02:33:27.514266+00:00'
@@ -51,15 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/concepts/mental-effort.md
-
-
-    Task context:
-
-    )'
-  type: refine-draft
-  date: '2026-04-15'
-  outcome: success
 - task: deep-review (convergent-phenomenological-evidence.md -- Context)
   type: deep-review
   date: '2026-04-15'
@@ -146,5 +137,9 @@ recent_tasks:
   outcome: success
 - task: condense (obsidian/topics/pragmatisms-path-to-dualism.md)
   type: condense
+  date: '2026-04-16'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-04-16'
   outcome: success

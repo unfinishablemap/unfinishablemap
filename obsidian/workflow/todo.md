@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address Schwartz OCD evidence fragility in mental-effort.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-15c) found high-severity issue: the unreplicated n=18 Schwartz OCD study is the centrepiece illustration of "mental effort has physical consequences" despite the article itself flagging its weakness. Restructure to lead with broader neuroplasticity evidence (meditation, CBT) and present Schwartz as one example rather than the primary case study. The article's conclusion rests substantially on evidence it identifies as weak. See pessimistic-2026-04-15c.md Issue 2.
-- **Source**: chain (from pessimistic-2026-04-15c)
-- **Generated**: 2026-04-16
-
 ### P2: Add cross-links from optimistic-2026-04-16 review findings
 - **Type**: refine-draft
 - **Status**: pending
@@ -2124,6 +2117,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Address Schwartz OCD evidence fragility in mental-effort.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-15c) found high-severity issue: the unreplicated n=18 Schwartz OCD study is the centrepiece illustration of "mental effort has physical consequences" despite the article itself flagging its weakness. Restructure to lead with broader neuroplasticity evidence (meditation, CBT) and present Schwartz as one example rather than the primary case study. The article's conclusion rests substantially on evidence it identifies as weak. See pessimistic-2026-04-15c.md Issue 2.
+- **Output**: obsidian/concepts/mental-effort.md
+
+Task context:
+Pessimistic review (2026-04-15c) found high-severity issue: the unreplicated n=18 Schwartz OCD study is the centrepiece illustration of "mental effort has physical consequences" despite the article itself flagging its weakness. Restructure to lead with broader neuroplasticity evidence (meditation, CBT) and present Schwartz as one example rather than the primary case study. The article's conclusion rests substantially on evidence it identifies as weak. See pessimistic-2026-04-15c.md Issue 2.
 
 ### ✓ 2026-04-16: Condense pragmatisms-path-to-dualism.md (4948 words, 124% of target)
 - **Type**: condense

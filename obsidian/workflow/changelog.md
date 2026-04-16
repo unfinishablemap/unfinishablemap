@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 04:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Changes**: Replaced Schwartz-specific example in Illusionist Challenge with three converging examples (CBT, meditation, OCD) to complete de-centring of n=18 study; previous pass (2026-04-15) restructured neuroplasticity section
+- **Published**: yes
+
 ## 2026-04-16 03:48 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/blindsight]]
