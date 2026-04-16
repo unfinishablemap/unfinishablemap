@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-16T18:25:00+00:00
+ai_modified: 2026-04-16T23:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -230,10 +230,4 @@ The zombie argument connects to all five of the Map's tenets.
 - Alfred North Whitehead, *Process and Reality* (1929)
 - Raymond Tallis, *Aping Mankind* (2011)
 - Keith Frankish, "Illusionism as a Theory of Consciousness" (2016)
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-- Promoted "Interactionist Escape" from a bold paragraph to an H4 subsection under "The Paradox of Phenomenal Judgment"; expanded it to explicitly name the epiphenomenalism structure, state that the interactionist must reject the physical-duplicate stipulation, and concede that this weakens the zombie argument as a standalone attack on physicalism while keeping it consistent with Bidirectional Interaction. Addresses pessimistic-2026-04-16c Issue 3.
-- Hedged "conviction of phenomenal consciousness ... better explained by actual experience than by systematic illusion" — now framed as a stance rather than a proof, with a note on why the illusionist reply is not strictly refutable but requires an unsupplied non-circular functional story.
-Remove after human review.
--->
 
