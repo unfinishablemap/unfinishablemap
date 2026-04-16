@@ -4,7 +4,7 @@ description: "What is consciousness doing during quantum superposition? Five fra
 created: 2026-02-10
 modified: 2026-02-10
 human_modified:
-ai_modified: 2026-03-30T19:38:00+00:00
+ai_modified: 2026-04-16T10:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,6 +13,7 @@ concepts:
   - "[[measurement-problem]]"
   - "[[decoherence]]"
   - "[[interactionist-dualism]]"
+  - "[[phenomenology]]"
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-consciousness]]"
@@ -33,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-10
 last_curated:
-last_deep_review: 2026-03-16T06:32:00+00:00
+last_deep_review: 2026-04-16T10:04:00+00:00
 ---
 
 Quantum mechanics permits physical systems to exist in superposition—smeared across multiple states simultaneously—until measurement forces a definite outcome. If consciousness interacts with quantum processes in the brain, a pointed question arises: what is consciousness doing during the superposition phase? Is it smeared too, hovering across multiple experiential states at once? Or does consciousness refuse to superpose, its very definiteness constraining what quantum mechanics allows? The Unfinishable Map argues that conscious experience is always determinate, and that this determinacy is not incidental but causal—consciousness participates in resolving quantum indeterminacy rather than passively riding the wave function.
@@ -44,7 +45,7 @@ This question inverts the more commonly studied problem of whether consciousness
 
 The core philosophical difficulty is what Albert and Loewer call the "determinate-experience problem." Quantum mechanics predicts that measurement devices—and by extension, brains—should enter superpositions when interacting with quantum systems. A brain measuring a spin-up/spin-down particle should become a superposition of brain-that-recorded-up and brain-that-recorded-down. Yet experience is never indefinite. Nobody reports perceiving a smear of outcomes.
 
-This is not merely a technical puzzle about decoherence timescales. [[decoherence|Decoherence]] suppresses interference between branches, making superposition effectively invisible at macroscopic scales, but it does not select a single outcome. After decoherence, the system remains in a mixture of possibilities. Something else must determine why *this* outcome becomes actual for *this* observer. The definiteness of conscious experience—the fact that there is always something specific it is like to be you—demands explanation.
+This is not merely a technical puzzle about decoherence timescales. [[decoherence|Decoherence]] suppresses interference between branches, making superposition effectively invisible at macroscopic scales, but it does not select a single outcome. The [[phenomenology|phenomenological]] datum is stubborn: experience presents as unified and determinate, never as a smear. After decoherence, the system remains in a mixture of possibilities. Something else must determine why *this* outcome becomes actual for *this* observer. The definiteness of conscious experience—the fact that there is always something specific it is like to be you—demands explanation.
 
 Some physicalists challenge this starting point. Dennett's multiple-drafts model denies that experience has a single determinate moment — there is no Cartesian theatre where "the" experience becomes definite. On this view, apparent definiteness is itself a construction, not a datum. The frameworks surveyed here reject that move: they take phenomenal determinacy as given and ask what explains it. Whether the definiteness of experience is a genuine constraint on physics or an artefact of introspective reporting remains a live philosophical question, but the five frameworks below all proceed on the assumption that it is real.
 
@@ -66,7 +67,7 @@ Chalmers and McQueen propose that superpositions of conscious states are inheren
 
 Penrose and Hameroff offer a fundamentally different causal story. Each quantum superposition contains a moment of "proto-conscious" awareness—something experiential but below the threshold of full consciousness. Full experience emerges only when orchestrated collapse events in neural microtubules weave these proto-conscious moments together.
 
-This reverses the causal direction: collapse *generates* consciousness rather than consciousness causing collapse. The pre-collapse superposition is not empty or purely physical—it carries proto-experiential character as a fundamental property of reality. Penrose ties this to gravitational self-collapse: when a superposition reaches a threshold of gravitational self-energy, objective reduction occurs, producing a moment of proto-awareness. The idea that something experiential pervades all quantum superpositions pushes toward a form of panprotopsychism at the quantum level. Recent experimental work has strengthened the empirical basis for the microtubule substrate Orch OR requires: Wiest (2025) reports that anaesthetics selectively disrupt quantum activities in consciousness-relevant proteins, and a 2025 integration with Friston's active inference framework argues that quantum collapse dynamics naturally account for the discrete, non-overlapping perceptual cycles that classical models struggle to explain.
+This reverses the causal direction: collapse *generates* consciousness rather than consciousness causing collapse. The pre-collapse superposition is not empty or purely physical—it carries proto-experiential character as a fundamental property of reality. Penrose ties this to gravitational self-collapse: when a superposition reaches a threshold of gravitational self-energy, objective reduction occurs, producing a moment of proto-awareness. The idea that something experiential pervades all quantum superpositions pushes toward a form of panprotopsychism at the quantum level. Experimental work published in 2025 has strengthened the empirical basis for the microtubule substrate Orch OR requires: Wiest (2025) reports that anaesthetics selectively disrupt quantum activities in consciousness-relevant proteins, and a 2025 integration with Friston's active inference framework argues that quantum collapse dynamics naturally account for the discrete, non-overlapping perceptual cycles that classical models struggle to explain.
 
 ### Consciousness Arises at Superposition Formation
 
@@ -84,7 +85,7 @@ This approach takes the definiteness of experience as a non-negotiable constrain
 
 These five frameworks disagree on timing, direction, and mechanism. Yet they converge on a shared conclusion: consciousness and quantum indeterminacy cannot be cleanly separated. Every framework treats the relationship between definite experience and quantum smearing as fundamental rather than accidental.
 
-A sceptic might object that the question is moot: if [[decoherence]] destroys brain superpositions in femtoseconds, there is no meaningful "during" for consciousness to inhabit. Tegmark's calculations suggest decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems — too brief for any cognitive process. But these timescales are contested (Hagan et al. argue for corrections of seven orders of magnitude), and 2025-2026 developments have further weakened the blanket dismissal. Beshkar's QBIT theory proposes that microtubules function as nanoscale spintronic oscillators—spintronic coherence (based on electron spin rather than charge) is inherently more stable at physiological temperatures, potentially sidestepping Tegmark's original calculation entirely. Wiest's 2025 review in *Neuroscience of Consciousness* synthesises experimental evidence for room-temperature quantum effects in microtubules, including selective disruption by anaesthetics. NV-centre diamond quantum sensors, combining nanoscale spatial resolution with microsecond temporal resolution, may soon provide the definitive in vivo measurements needed to resolve the debate empirically (reviewed in *Journal of Biological Physics*, 2026). Several frameworks here do not require consciousness to operate *within* the superposition window at all. Chalmers and McQueen need only that high-Φ systems trigger collapse; Stapp's Zeno effect works through rapid repeated measurement rather than sustained coherence. The decoherence objection constrains which frameworks are viable but does not eliminate the question itself.
+A sceptic might object that the question is moot: if [[decoherence]] destroys brain superpositions in femtoseconds, there is no meaningful "during" for consciousness to inhabit. Tegmark's calculations suggest decoherence times of 10⁻¹³ to 10⁻²⁰ seconds for neural systems — too brief for any cognitive process. But these timescales are contested (Hagan et al. argue for corrections of seven orders of magnitude), and 2025-2026 developments have further weakened the blanket dismissal. Beshkar's QBIT theory proposes that microtubules function as nanoscale spintronic oscillators—spintronic coherence (based on electron spin rather than charge) is inherently more stable at physiological temperatures, potentially sidestepping Tegmark's original calculation entirely. Wiest's 2025 review in *Neuroscience of Consciousness* synthesises experimental evidence for room-temperature quantum effects in microtubules, including selective disruption by anaesthetics. NV-centre diamond quantum sensors may soon provide the in vivo measurements needed to resolve the debate empirically (reviewed in *Journal of Biological Physics*, 2026). Several frameworks here do not require consciousness to operate *within* the superposition window at all. Chalmers and McQueen need only that high-Φ systems trigger collapse; Stapp's Zeno effect works through rapid repeated measurement rather than sustained coherence. The decoherence objection constrains which frameworks are viable but does not eliminate the question itself.
 
 The disagreements cluster around two axes. First, *causal direction*: does consciousness cause collapse (Stapp, Chalmers-McQueen), does collapse cause consciousness (Penrose), or does superposition itself constitute consciousness (Koch)? Second, *the status of superposition for minds*: can consciousness be smeared (Koch, arguably Penrose's proto-consciousness), must it always be definite (Albert-Loewer, Chalmers-McQueen), or is it the definite selector operating on smeared physical states (Stapp)?
 
