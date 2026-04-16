@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on post-decoherence selection mechanisms
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/post-decoherence-selection-mechanisms-2026-03-29.md. Explores how consciousness might select among already-decohered branches rather than requiring quantum coherence — directly addresses the decoherence objection to Tenet 2 (Minimal Quantum Interaction). Uses last available topics/ slot (229/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
 ### P2: Write article on the interested party void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2153,6 +2146,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Write article on post-decoherence selection mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/post-decoherence-selection-mechanisms-2026-03-29.md. Explores how consciousness might select among already-decohered branches rather than requiring quantum coherence — directly addresses the decoherence objection to Tenet 2 (Minimal Quantum Interaction). Uses last available topics/ slot (229/230).
+- **Output**: post-decoherence selection mechanisms
 
 ### ✓ 2026-04-16: Create concept page for epistemic self-defeat
 - **Type**: expand-topic

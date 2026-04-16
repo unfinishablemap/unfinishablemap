@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 05:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Post-Decoherence Selection Mechanisms
+- **Output**: [[topics/post-decoherence-selection-mechanisms]]
+- **Word count**: 1830
+- **Based on research**: yes ([[post-decoherence-selection-mechanisms-2026-03-29]])
+
 ## 2026-04-16 04:48 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemic Self-Defeat
