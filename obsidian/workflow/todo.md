@@ -51,6 +51,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from pessimistic-2026-04-15c)
 - **Generated**: 2026-04-16
 
+### P3: Address concession-convergence overreach in functionalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16) found medium-severity issue: the article frames Putnam's rejection of functionalism and IIT's non-functionalism as "concession convergence" toward dualism, but neither Putnam nor IIT endorsed dualism. The characterisation is rhetorically aggressive. Distinguish between "agreeing functionalism is insufficient" and "converging on dualism." Also article at 3640 words exceeds 3000-word style guide maximum — condense Modern Functionalist Frameworks and Specification Problem sections. See pessimistic-2026-04-16.md Issues 1-2.
+- **Source**: chain (from pessimistic-2026-04-16)
+- **Generated**: 2026-04-16
+
 ### P3: Deep review phenomenology-of-returning-attention.md
 - **Type**: deep-review
 - **Status**: pending
