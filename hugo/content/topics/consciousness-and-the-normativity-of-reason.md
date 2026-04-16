@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-04-07 16:05:00+00:00
+ai_modified: 2026-04-16 15:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Reasoning is normative — it involves rules about what one ought t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 16:05:00+00:00
+last_deep_review: 2026-04-16 15:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -112,7 +112,7 @@ The normativity of reason connects directly to the Map's [tenets](/tenets/).
 
 **Occam's razor has limits.** Physicalism appears simpler — one ontological category instead of two. But this simplicity comes at the cost of rational self-defeat. A worldview that cannot account for its own rational credentials is not genuinely simpler; it is incomplete. As the Map's [analysis of parsimony](/concepts/parsimony-epistemology/) shows, apparent simplicity can mask deeper inadequacy.
 
-The normativity of reason is not merely a philosophical puzzle. It is a test case for whether physicalism can account for the conditions of its own rational assertion. As Thomas Nagel argues in *The Last Word*, the attempt to give a reductive account of reason is self-undermining — any such account must use reason to establish its conclusions, thereby presupposing what it aims to explain. The Map holds that physicalism cannot account for rational normativity — and that consciousness, irreducible and causally efficacious, is what makes genuine reasoning possible. This is a conceptual argument, not an empirical one: it concerns what *kind* of thing normativity is, not what brain regions correlate with reasoning.
+The normativity of reason is the test case for whether physicalism can account for the conditions of its own rational assertion. As Thomas Nagel argues in *The Last Word*, the attempt to give a reductive account of reason is self-undermining — any such account must use reason to establish its conclusions, thereby presupposing what it aims to explain. The Map holds that physicalism cannot account for rational normativity — and that consciousness, irreducible and causally efficacious, is what makes genuine reasoning possible. This is a conceptual argument, not an empirical one: it concerns what *kind* of thing normativity is, not what brain regions correlate with reasoning.
 
 ## Further Reading
 

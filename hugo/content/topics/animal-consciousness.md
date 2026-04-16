@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 12:50:00+00:00
+ai_modified: 2026-04-16 16:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -125,13 +125,15 @@ The [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) thesis�
 
 **Theory of mind levels:** See [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/). Great apes pass Level 1 tests (tracking what others perceive) but struggle with Level 3 recursive mindreading ("she thinks I think..."). The nested structure demands simultaneous manipulation of multiple representations—precisely what requires conscious access.
 
-**Logical reasoning:** Empirical research (Lieberman et al. 2008) shows rule-based logical reasoning specifically depends on conscious processing. If great apes lack this capacity, their cognition would be limited to associative learning.
+**Logical reasoning:** Some empirical research (Lieberman et al. 2008) suggests rule-based logical reasoning depends on conscious processing, though the finding is contested by work on unconscious rule learning (Hassin 2013). If great apes lack the conscious-processing component, their cognition would be more limited in flexible inferential deployment than associative mechanisms alone can explain.
 
 This analysis doesn't deny great ape consciousness—they likely have emotional and perceptual consciousness. What they may lack is *metacognitive* consciousness: awareness of mental states as mental states—the capacity the [metarepresentation-threshold](/concepts/metarepresentation-threshold/) identifies. This introduces a distinction between types of consciousness, not a barrier to consciousness itself. Apes may be genuinely conscious without possessing the specific metacognitive capacities that enable cumulative culture and abstract reasoning.
 
 [Cetaceans and corvids](/topics/cetacean-and-corvid-consciousness/) strengthen this picture by occupying intermediate positions on the amplification spectrum. Dolphins pass mirror self-recognition tests and display cultural tool use; corvids manufacture tools with cumulative refinement and show prospective cognition. Both lineages evolved these capacities independently from primates through radically different neural architectures, suggesting consciousness amplifies cognition wherever it interfaces with sufficiently complex systems—not only in primate cortex.
 
 The dualist framework accommodates this gradient: consciousness varies along multiple [dimensions](/concepts/degrees-of-consciousness/)—intensity, richness, complexity, and access—that configure differently across species, producing different amplification profiles rather than simply "more" or "less" consciousness. This supports the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness is causally required for capacities distinguishing human cognition, but the absence of one form of conscious access does not imply the absence of experience.
+
+**The alternative reading.** A purely physicalist account explains the same evidence without the amplification thesis: expanded dorsolateral prefrontal cortex provides additional working-memory scaffolding, arcuate-fasciculus connectivity enables recursive linguistic-syntactic operations, and cortical folding increases representational capacity. Neubauer & Hublin's work on human brain asymmetry handles much of the comparative data through standard neurodevelopmental mechanisms. On this reading, consciousness accompanies but does not drive the capacity gap. The Map favours the amplification reading because it coheres with Bidirectional Interaction, not because the comparative evidence forces it.
 
 ## Dualism and Animal Minds: No Anthropocentric Barrier
 
@@ -191,7 +193,7 @@ Several discoveries could undermine this position:
 
 **Minimal Quantum Interaction**: If consciousness interfaces with matter through quantum processes, this mechanism could operate in any organism with suitable architecture. Microtubules are present in all neurons, making them a candidate interface site across species—but extending quantum consciousness to all organisms with microtubules requires addressing the [decoherence](/concepts/decoherence/) challenge directly.
 
-The Map takes decoherence seriously as an open empirical challenge. Tegmark (2000) calculated rapid decoherence in microtubules, though Hagan et al. (2002) obtained estimates seven orders of magnitude longer. Three considerations apply across species: (1) decoherence doesn't solve the measurement problem—something must still select outcomes; (2) avian magnetoreception demonstrates that evolution *can* harness quantum coherence in warm biological systems; (3) the quantum Zeno mechanism may not require sustained coherence at all. See [the decoherence article](/concepts/decoherence/) for the full treatment.
+The Map takes decoherence seriously as an open empirical challenge. Tegmark (2000) calculated rapid decoherence in microtubules, though Hagan et al. (2002) obtained estimates seven orders of magnitude longer. Three considerations apply across species: (1) decoherence doesn't solve the measurement problem—something must still select outcomes; (2) avian magnetoreception demonstrates that evolution *can* harness *molecular-scale* quantum coherence in warm biological systems—cryptochrome radical-pair spin coherence on microsecond timescales in a specialised photoreceptor molecule—though this does not automatically extend to the population-scale coherence that brain-level quantum consciousness would require; (3) the quantum Zeno mechanism may not require sustained coherence at all. See [the decoherence article](/concepts/decoherence/) for the full treatment.
 
 Whether animal nervous systems provide the right conditions for quantum consciousness remains speculative. The evolutionary argument—that consciousness appears to have causal power across species—is stronger than the specific mechanistic claim about microtubules.
 
@@ -250,18 +252,4 @@ Whether animal nervous systems provide the right conditions for quantum consciou
 1. Tomasello, M. (2010). "Ape and human cognition: What's the difference?" *Current Directions in Psychological Science*, 19(1), 3-8.
 1. Whiten, A. (2015). "Apes have culture but may not know that they do." *Frontiers in Psychology*, 6, 91.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
-
-<!-- AI REFINEMENT LOG - 2026-03-21
-Changes made:
-- Renamed "The Scientific Consensus" to "Growing Scientific Agreement" and noted declarations don't constitute settled consensus
-- Added physicalist alternatives (prefrontal expansion, arcuate fasciculus connectivity) before presenting the amplification thesis
-- Framed consciousness-as-amplifier explicitly as the Map's interpretation of data that admits physicalist readings
-- Noted evidence is consistent with both amplification and standard neuroscience explanations
-- Removed "genuine" from "genuine phenomenal experience" (3 occurrences) — persuasion word, not analysis
-- Softened "must have causal effects" to "plausibly has causal effects"
-
-Based on pessimistic-2026-03-20-e.md findings (Issues 2 and 4).
-Key improvements: epistemic honesty about amplification thesis and consensus claims.
-
-This log should be removed after human review.
--->
+1. Hassin, R. R. (2013). "Yes It Can: On the Functional Abilities of the Human Unconscious." *Perspectives on Psychological Science*, 8(2), 195-207.

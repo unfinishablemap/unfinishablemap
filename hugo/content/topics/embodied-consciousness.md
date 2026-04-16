@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-04-16 15:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: The body shapes how consciousness engages matter without producing 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 13:43:00+00:00
+last_deep_review: 2026-04-16 15:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The evidence is substantial:
 
 These findings rule out a ghost-in-the-machine dualism. But they leave [property dualism](/tenets/#dualism)—the view that phenomenal experience is irreducible even though mind depends on body—largely untouched.
 
-The strongest version of the challenge comes from enactivism. Thompson's *deep continuity thesis* argues that mind is continuous with life itself. If experience is continuous with biological organisation rather than layered onto it, the dualist separation dissolves before it begins. The Map's [dedicated engagement with enactivism](/topics/enactivism-challenge-to-interactionist-dualism/) examines three strands—autopoietic, sensorimotor, and radical—and finds that all three face the same difficulty: they cannot explain *why* embodied activity is accompanied by subjective experience. Thompson himself treats experience as irreducible, possessing what he calls an "ineliminable transcendental character." But irreducibility while denying a non-physical aspect of reality is unstable—either biological organisation produces experience (reductive physicalism, contradicting enactivism's own commitments) or something beyond biological organisation is needed (which is dualism).
+The strongest version of the challenge comes from enactivism. Thompson's *deep continuity thesis* argues that mind is continuous with life itself. If experience is continuous with biological organisation rather than layered onto it, the dualist separation dissolves before it begins. The Map's [dedicated engagement with enactivism](/topics/enactivism-challenge-to-interactionist-dualism/) examines three strands—autopoietic, sensorimotor, and radical—and finds that all three face the same difficulty: they cannot explain *why* embodied activity is accompanied by subjective experience. Thompson himself treats experience as irreducible, describing it as possessing an "ineliminable transcendental character." But irreducibility while denying a non-physical aspect of reality is unstable—either biological organisation produces experience (reductive physicalism, contradicting enactivism's own commitments) or something beyond biological organisation is needed (which is dualism).
 
 ## What Embodiment Cannot Explain
 
@@ -96,7 +96,7 @@ Ordinary experience includes a constant background awareness of the body that pr
 
 This background awareness is **non-objectifying**—it is the medium *through which* attention operates, not its target. It is **continuous**—unlike perceptual attention, it persists without interruption during waking life, providing the felt continuity of selfhood. And it **grounds ownership**—the feeling that this body is *mine* arises from pre-reflective awareness rather than from inference.
 
-The Map treats pre-reflective bodily awareness as the experiential signature of the [interface](/concepts/filter-theory/) in its resting state. The body is always already being inhabited by consciousness. This background inhabitation is not something the body does to itself—a thermostat monitors its own state without self-awareness. Pre-reflective bodily awareness is consciousness registering its own embodied situation, and its phenomenal character is precisely what physical description cannot capture.
+The Map treats pre-reflective bodily awareness as the experiential signature of the [interface](/concepts/filter-theory/) in its resting state. This background inhabitation is not something the body does to itself—a thermostat monitors its own state without self-awareness. Pre-reflective bodily awareness is consciousness registering its own embodied situation, and its phenomenal character is precisely what physical description cannot capture.
 
 ### Ownership and Agency
 
@@ -157,7 +157,7 @@ The premotor theory of attention shows that directing attention to a location pr
 
 This convergence means the interface has a specific architecture: consciousness engages through the same system that plans action. An organism's range of possible attention is constrained by its range of possible action—exactly what an interface model predicts.
 
-The timing evidence reinforces this. Willed attention deploys in approximately 300 milliseconds; motor commitment occurs approximately 280 milliseconds before movement (Thura & Cisek, 2014). If these were independent systems, the timing match would be coincidental. If they are a single interface mechanism, the convergence is expected.
+The timing evidence reinforces this. Willed attention deploys in approximately 300 milliseconds (Müller & Rabbitt, 1989); motor commitment occurs approximately 280 milliseconds before movement (Thura & Cisek, 2014). If these were independent systems, the timing match would be coincidental. If they are a single interface mechanism, the convergence is expected.
 
 ## Intercorporeality
 
@@ -228,6 +228,7 @@ The interface reading would face serious difficulty if:
 1. Merleau-Ponty, M. (1945/2012). *Phenomenology of Perception*. Routledge.
 1. Nagel, T. (1974). What is it like to be a bat? *The Philosophical Review*, 83(4), 435-450.
 1. Noë, A. (2004). *Action in Perception*. MIT Press.
+1. Müller, H. J., & Rabbitt, P. M. A. (1989). Reflexive and voluntary orienting of visual attention: Time course of activation and resistance to interruption. *Journal of Experimental Psychology: Human Perception and Performance*, 15(2), 315-330.
 1. Rizzolatti, G., Riggio, L., & Sheliga, B.M. (1994). Space and selective attention. In C. Umiltà & M. Moscovitch (Eds.), *Attention and Performance XV* (pp. 231-265). MIT Press.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision-making. *Neuron*, 81(6), 1401-1416.

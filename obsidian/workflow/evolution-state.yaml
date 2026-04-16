@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-16T17:13:49.886337+00:00'
-session_count: 5876
-cycle_position: 5504
+last_updated: '2026-04-16T17:28:49.886956+00:00'
+session_count: 5877
+cycle_position: 5505
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T16:43:49.885349+00:00'
   optimistic-review: '2026-04-16T12:13:49.874065+00:00'
   check-tenets: '2026-04-16T09:03:38.315212+00:00'
   check-links: '2026-04-16T09:03:38.315212+00:00'
-  deep-review: '2026-04-16T15:58:49.883690+00:00'
+  deep-review: '2026-04-16T17:28:49.886956+00:00'
   tune-system: '2026-04-16T09:03:38.315212+00:00'
   research-voids: '2026-04-16T09:03:38.315212+00:00'
   coalesce: '2026-04-16T14:43:49.880219+00:00'
@@ -26,8 +26,8 @@ content_stats:
   draft_files: 0
   placeholder_files: 0
 section_caps:
-  max_topics: 230
-  max_concepts: 230
+  max_topics: 240
+  max_concepts: 240
   max_voids: 100
 convergence_targets:
   min_topics: 10
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/numinous-void.md -- Context: This f)'
-  type: deep-review
-  date: '2026-04-16'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/interface-friction.md
 
 
@@ -138,6 +134,10 @@ recent_tasks:
   date: '2026-04-16'
   outcome: success
 - task: deep-review (obsidian/topics/pragmatisms-path-to-dualism.md)
+  type: deep-review
+  date: '2026-04-16'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-04-16'
   outcome: success

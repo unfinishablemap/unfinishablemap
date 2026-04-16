@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-04-05 17:28:00+00:00
+ai_modified: 2026-04-16 16:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,7 +37,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Clinical [neuroplasticity](/concepts/neuroplasticity/) research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural architecture through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [epiphenomenalism](/concepts/epiphenomenalism/) and to the [causal closure](/concepts/causal-closure/) of the physical—while acknowledging that mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.
+Clinical [neuroplasticity](/concepts/neuroplasticity/) research provides suggestive empirical evidence that consciousness causally reshapes the brain rather than passively accompanying neural activity—though the evidence is weaker than sometimes claimed and admits materialist reinterpretation. Several evidence streams—self-directed neuroplasticity in OCD treatment, psychotherapy neuroimaging showing distinct causal pathways, and placebo-stimulated neuroplasticity—converge on a pattern worth taking seriously: intentional mental activity produces lasting changes in neural function through routes that differ from pharmacological (bottom-up) intervention. Meditation evidence, once a fourth pillar, has been weakened by replication failures for structural brain claims. The Unfinishable Map holds that this convergence is *compatible with* and *suggestive of* genuine mental causation, constituting a challenge to [epiphenomenalism](/concepts/epiphenomenalism/) and to the [causal closure](/concepts/causal-closure/) of the physical—while acknowledging that mainstream neuroscience explains the same findings via Hebbian learning and standard synaptic plasticity without invoking non-physical causes.
 
 ## Self-Directed Neuroplasticity in OCD
 
@@ -87,7 +87,7 @@ The meditation evidence no longer serves as an independent pillar for structural
 
 The [placebo effect](/topics/placebo-effect-and-mental-causation/) provides a particularly compelling case because the causal agent is a belief state—propositional mental content about expected therapeutic benefit—rather than any physical intervention.
 
-A 2024 paper proposes the "Neuroplasticity Placebo Theory," arguing that placebo effects are not passive expectation artifacts but active interventions associated with neuroplasticity (Marueckova et al., 2024). EMBARC studies provide empirical support: belief and expectation recruit opioid and dopamine systems, producing structural neural changes. Placebo analgesia involves a descending pain-modulation network spanning the dorsolateral prefrontal cortex, rostral anterior cingulate cortex, and periaqueductal grey.
+A 2024 paper proposes the "Neuroplasticity Placebo Theory," arguing that placebo effects are not passive expectation artifacts but active interventions associated with neuroplasticity (Marueckova et al., 2024). EMBARC studies provide empirical support: belief and expectation recruit opioid and dopamine systems and are associated with measurable neural changes, though the specific methodological quality of placebo neuroplasticity claims deserves the same scrutiny now applied to meditation structural findings. Placebo analgesia involves a descending pain-modulation network spanning the dorsolateral prefrontal cortex, rostral anterior cingulate cortex, and periaqueductal grey.
 
 The philosophical force of placebo neuroplasticity lies in the nature of the cause. A belief is a mental state with propositional content—"this treatment will help me." That a state individuated by its content (what it is about) can produce specific neuroplastic changes is difficult to accommodate within frameworks that deny mental states genuine causal efficacy. The physicalist must maintain that the belief is identical to some neural state that causes the downstream changes. But the causal specificity of placebo effects—different beliefs about different conditions producing different neuroplastic signatures—tracks the content of the mental state, not its neural realiser. This is an instance of the broader [content-specificity pattern](/concepts/content-specificity-of-mental-causation/): across placebo effects, skilled performance, and pain experience, the *meaning* of a conscious state determines which physical effect occurs.
 
@@ -205,6 +205,17 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Eliminated residual overstatement in Proposed Mechanisms section that presupposed dualist conclusion.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Opening paragraph: "lasting changes in neural architecture" → "lasting changes in neural function" to more accurately reflect the evidence base (OCD caudate metabolism is functional; meditation structural claims undermined by Kral 2022; only placebo work shows mixed structural evidence)
+- Placebo section: "producing structural neural changes" → "are associated with measurable neural changes, though the specific methodological quality of placebo neuroplasticity claims deserves the same scrutiny now applied to meditation structural findings" — addresses the research file's explicit note that "Placebo neuroplasticity: Not deeply investigated" and avoids unsupported structural claims
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Terminology precision ("function" vs "architecture") and added scrutiny caveat for placebo structural claims that were previously asserted without evidence-quality assessment.
 
 This log should be removed after human review.
 -->

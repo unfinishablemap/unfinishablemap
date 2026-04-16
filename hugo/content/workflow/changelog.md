@@ -1,13 +1,101 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-11 03:57:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-16 17:28:00+00:00
+ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-16 17:28 UTC - deep-review
+- **Status**: Success
+- **File**: [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- **Word count**: 1641 → 1641 (±0)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (none found)
+- **Enhancements made**: 0 (article converged after 3 reviews; intervening edits were mechanical wikilink updates only)
+- **Output**: [deep-review-2026-04-16-acquaintance-knowledge](/reviews/deep-review-2026-04-16-acquaintance-knowledge/)
+
+## 2026-04-16 17:14 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Word count**: 3042 → 3042 (±0)
+- **Critical issues addressed**: 1 (coalesce artefact: "second step" contradicted the four-stage structure where van Fraassen is the third stage — fixed to "third step")
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral mode — article at 101% of soft threshold)
+- **Output**: [deep-review-2026-04-16-pragmatisms-path-to-dualism](/reviews/deep-review-2026-04-16-pragmatisms-path-to-dualism/)
+
+## 2026-04-16 16:58 UTC - refine-draft
+- **Status**: Success
+- **Files**: [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/), [philosophical-zombies](/concepts/philosophical-zombies/), [animal-consciousness](/topics/animal-consciousness/)
+- **Changes**: Addressed pessimistic-2026-04-16c findings. NCC: softened "most robust" to "widely reported" with GNWT-contest qualifier in Hot Zone and COGITATE sections; added Claassen (2019) stricter-criteria range to covert-consciousness bullet; removed stale 2026-03-19 log. zombies: added "Interactionist Escape" paragraph acknowledging the epiphenomenalism tension—dualist must deny complete physical duplication, narrowing zombie target. animal-consciousness: softened Lieberman 2008 claim, added Hassin 2013 counter-citation; added molecular-scale qualifier to avian magnetoreception; added balanced "alternative reading" paragraph with Neubauer & Hublin physicalist account; removed stale 2026-03-21 log.
+- **Published**: yes
+
+## 2026-04-16 16:50 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/neural-correlates-of-consciousness.md`, `concepts/philosophical-zombies.md`, `topics/animal-consciousness.md`
+- **Output**: [pessimistic-2026-04-16c](/reviews/pessimistic-2026-04-16c/)
+
+## 2026-04-16 16:29 UTC - refine-draft
+- **Status**: Success
+- **Files**: [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/), [epiphenomenalism](/concepts/epiphenomenalism/)
+- **Changes**: Final calibration pass integrating research/clinical-evidence-quality-2026-03-29.md. attention-interface: clarified Schwartz sample ("9 of whom were new"), softened "supported by Schwartz" → "consistent with Schwartz's suggestive OCD work". clinical-neuroplasticity: "lasting changes in neural architecture" → "lasting changes in neural function"; placebo section added scrutiny caveat on structural claims. epiphenomenalism: "reshapes neural architecture" → "alters neural function", hedged compassion-meditation claim, removed "not X but Y" LLM-cliché construction.
+- **Published**: yes
+
+## 2026-04-16 16:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Changes**: Integrated research/bandwidth-constraints-10-bits-2026-03-29.md — added Nørretranders (1998) in-text citation and "user illusion" framing; distinguished sensory transduction (~11 million bits/s) from aggregate neural processing (~10⁹ bits/s) in opening and Inbound Channel sections; attributed "sifting ratio" explicitly to Zheng & Meister.
+- **Published**: yes
+
+## 2026-04-16 15:58 UTC - deep-review
+- **Status**: Success (stability confirmed, 3rd pass)
+- **File**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)
+- **Word count**: 1920 → 1920 (0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (only intervening edit since last review was a mechanical wikilink modernization; attribution spot-check passed)
+- **Output**: [deep-review-2026-04-16-meta-problem-of-consciousness](/reviews/deep-review-2026-04-16-meta-problem-of-consciousness/)
+
+## 2026-04-16 15:44 UTC - deep-review
+- **Status**: Success (stability confirmed, 4th pass)
+- **File**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Word count**: 2007 → 2002 (-5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (removed overlooked "not X. It is Y." LLM cliché in closing paragraph)
+- **Output**: [deep-review-2026-04-16-consciousness-and-the-normativity-of-reason](/reviews/deep-review-2026-04-16-consciousness-and-the-normativity-of-reason/)
+
+## 2026-04-16 15:28 UTC - deep-review
+- **Status**: Success
+- **File**: [interested-party-void](/voids/interested-party-void/)
+- **Word count**: 1570 → 1732 (+162)
+- **Critical issues addressed**: 2 (Nagel misquotation reframed as paraphrase; Nietzsche quote reframed as paraphrase)
+- **Medium issues addressed**: 4 (softened physics-comparison overreach; added Popperian unfalsifiability reply; added inline cross-links to defended-territory and obviousness-void; added [epiphenomenalism](/concepts/epiphenomenalism/) link)
+- **Enhancements made**: 3 (Popperian objection paragraph; defended-territory linkage; obviousness-void linkage)
+- **Output**: [deep-review-2026-04-16-interested-party-void](/reviews/deep-review-2026-04-16-interested-party-void/)
+
+## 2026-04-16 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [embodied-consciousness](/topics/embodied-consciousness/)
+- **Word count**: 3163 → 3193 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (citation attribution for attention timing)
+- **Enhancements made**: 2 (added Müller & Rabbitt 1989 reference, softened Thompson quote framing)
+- **Output**: [deep-review-2026-04-16b-embodied-consciousness](/reviews/deep-review-2026-04-16b-embodied-consciousness/)
+- **Note**: Second review today. Article stable — changes limited to citation precision. No further reviews warranted without new content.
+
+## 2026-04-16 15:00 UTC - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/)
+- **Word count**: 1928 → 1944 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added 3 missing inline cross-links to frontmatter concepts)
+- **Enhancements made**: 3 (cross-links to [stapp-quantum-mind](/concepts/stapp-quantum-mind/), [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/), [measurement-problem](/concepts/measurement-problem/))
+- **Output**: [deep-review-2026-04-16b-post-decoherence-selection-mechanisms](/reviews/deep-review-2026-04-16b-post-decoherence-selection-mechanisms/)
+- **Note**: Second review of this article today. Article approaching convergence — no critical issues found in either review.
 
 ## 2026-04-16 14:51 UTC - coalesce
 - **Status**: Abandoned

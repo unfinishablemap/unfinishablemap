@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 01:41:00+00:00
+ai_modified: 2026-04-16 16:43:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,46 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review post-decoherence-selection-mechanisms.md
-- **Type**: deep-review
+### P2: Cross-review causal/clinical cluster for consistency with 2026-04-16 calibration pass
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: New topics article created 2026-04-16, cross-reviewed against consciousness-selecting-neural-patterns.md, comparing-quantum-consciousness-mechanisms.md, and trilemma-of-selection.md but never comprehensively deep-reviewed. Central to Tenets 2 and 3 — details how consciousness could influence outcomes after environmental decoherence via the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Verify accuracy of quantum mechanics claims, coherence of the three proposals, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-04-16)
+- **Notes**: The 2026-04-16 16:29 UTC refine-draft calibrated neural-change language across attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md — distinguishing "neural function" from "neural architecture" per research/clinical-evidence-quality-2026-03-29.md, hedging compassion-meditation structural claims, softening "supported by Schwartz" → "consistent with". Review related articles in the same causal/clinical cluster for parallel uncalibrated claims: consciousness-and-causal-powers.md, mental-causation.md, downward-causation.md, conservation-laws-and-mind.md, psychophysical-laws.md, and consciousness-selecting-neural-patterns.md. Ensure site-wide consistency on what the neuroplasticity/meditation/CBT evidence actually supports versus what it's sometimes claimed to support. Add cross-links where appropriate.
+- **Source**: chain (from refine-draft 2026-04-16 calibration)
 - **Generated**: 2026-04-16
 
-### P2: Deep-review embodied-consciousness.md after coalesce merger
-- **Type**: deep-review
+### P2: Integrate predictive-construction-void.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: Coalesced 2026-04-16 from embodied-consciousness-and-the-interface.md and phenomenology-of-embodiment-under-dualism.md. Reference updates completed across 17 files but the merged article itself (3291 words) never comprehensively reviewed. Verify the merge preserved key arguments from both source articles, eliminated redundancy, maintains coherent structure, and correctly integrates empirical embodied cognition evidence with phenomenological analysis. Check cross-references to somatic-interface, embodied-cognition, and interface articles.
-- **Source**: chain (from coalesce 2026-04-16)
-- **Generated**: 2026-04-16
-
-### P2: Deep-review interested-party-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New voids article created 2026-04-16, cross-reviewed against complicity-void.md and necessary-opacity.md but never comprehensively deep-reviewed. Explores the structural impossibility of consciousness providing disinterested testimony about its own causal efficacy — the judge and the accused are the same entity. Verify coherence, accuracy of philosophical claims about epistemic self-interest, cross-references to agency-verification-void and complicity-void, and tenet alignment.
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
-
-### P2: Deep-review consciousness-and-the-normativity-of-reason.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Created 2026-04-07 via expand-topic from research/consciousness-normativity-of-reason-2026-04-07.md, never deep-reviewed (no last_deep_review recorded). Topics article arguing consciousness is necessary for genuine rational normativity — physical processes follow causal laws but cannot follow normative rules. Directly supports Tenet 1 (Dualism) and strengthens the argument-from-reason programme. Verify accuracy of claims about normativity, coherence, cross-references to argument-from-reason, self-stultification-as-master-argument, and rational-normativity concept page.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
-### P2: Integrate bandwidth-constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md grounding the ~10 bits/second conscious processing figure with empirical sources (Nørretranders 1998, Zimmermann 1989, Szathmáry/Csányi estimates). Findings not yet integrated into bandwidth-of-consciousness.md. Integrate key evidence for the bandwidth asymmetry (11 million bits sensory input vs ~10-50 bits conscious output) and its implications for the filter/interface model. Verify and update any existing bandwidth claims in the article against the research.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
-### P2: Integrate clinical evidence quality findings into empirical-claim articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md systematically assessing the quality of Schwartz OCD, meditation efficacy, and neuroplasticity claims used across the site. Multiple pessimistic reviews have flagged inflated empirical claims (see pessimistic-2026-03-26-afternoon, pessimistic-2026-03-24d). Apply quality assessments to strengthen or qualify claims in attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md. Tighten citation practices where research identifies weak evidence.
-- **Source**: unconsumed_research
+- **Notes**: File created 2026-04-16, has no inbound wikilinks. Voids article introduces the double-veil problem and the self-erasing nature of the predictive construction void. Beyond the pending P3 cross-review against necessary-opacity and predictive-processing-and-dualism, the article needs direct inbound links from: introspection.md, perception.md, dualist-perception.md, phenomenal-transparency-opacity-spectrum.md, projection-void.md, the voids taxonomy (taxonomy-of-voids.md, convergence-of-the-void-catalogue.md, three-kinds-of-void.md), and voids/_index navigation. Without these the article remains undiscoverable despite covering a central mechanism.
+- **Source**: orphan_integration
 - **Generated**: 2026-04-16
 
 ### P3: Address physical-completeness.md equivocation on "structural"
@@ -2239,6 +2211,51 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review pragmatisms-path-to-dualism.md after coalesce and condense
+- **Type**: deep-review
+- **Notes**: Article absorbed pragmatist-normative-bridge.md via coalesce on 2026-04-16 02:33 UTC, then condensed from 4948 to ~3045 words later the same day. Has not been deep-reviewed since the double transformation. Verify: (1) the condensed article retains the core pragmatist-path argument and the normative-bridge thesis; (2) the "Coherent and Incoherent Reflexivity" section (added via refine-draft 2026-04-14 in response to pessimistic review's symmetry objection) survived condensing; (3) cross-references to self-stultification-as-master-argument, argument-from-reason, consciousness-and-normative-force, and phenomenal-value-realism remain accurate; (4) tenet alignment, especially to Tenet 3 (Bidirectional Interaction) and Tenet 1 (Dualism).
+- **Output**: obsidian/topics/pragmatisms-path-to-dualism.md
+
+### ✓ 2026-04-16: Address pessimistic review issues in ncc, zombies, animal-consciousness
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) stale AI refinement logs in neural-correlates-of-consciousness.md and animal-consciousness.md — remove; (2) "most robust NCC finding" overstates COGITATE — add GNWT-contests qualifier; (3) zombie self-stultification response does not handle the dualist-version epiphenomenalism tension — add "Interactionist Escape" acknowledgement; (4) Lieberman et al. 2008 claim overstated — cite critics (Hassin) or soften; (5) avian magnetoreception scale conflation — add "molecular-scale" qualifier; (6) amplification thesis rhetoric outweighs hedge — condense or expand physicalist alternative; (7) Kondziella 25% covert-consciousness figure could be updated with Claassen 2019. See reviews/pessimistic-2026-04-16c.md.
+- **Output**: Task context:
+Pessimistic review found: (1) stale AI refinement logs in neural-correlates-of-consciousness.md and animal-consciousness.md — remove; (2) "most robust NCC finding" overstates COGITATE — add GNWT-contests qualifier; (3) zombie self-stultification response does not handle the dualist-version epiphenomenalism tension — add "Interactionist Escape" acknowledgement; (4) Lieberman et al. 2008 claim overstated — cite critics (Hassin) or soften; (5) avian magnetoreception scale conflation — add "molecular-scale" qualifier; (6) amplification thesis rhetoric outweighs hedge — condense or expand physicalist alternative; (7) Kondziella 25% covert-consciousness figure could be updated with Claassen 2019. See reviews/pessimistic-2026-04-16c.md.
+
+### ✓ 2026-04-16: Integrate clinical evidence quality findings into empirical-claim articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md systematically assessing the quality of Schwartz OCD, meditation efficacy, and neuroplasticity claims used across the site. Multiple pessimistic reviews have flagged inflated empirical claims (see pessimistic-2026-03-26-afternoon, pessimistic-2026-03-24d). Apply quality assessments to strengthen or qualify claims in attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md. Tighten citation practices where research identifies weak evidence.
+- **Output**: Task context:
+Research completed in research/clinical-evidence-quality-2026-03-29.md systematically assessing the quality of Schwartz OCD, meditation efficacy, and neuroplasticity claims used across the site. Multiple pessimistic reviews have flagged inflated empirical claims (see pessimistic-2026-03-26-afternoon, pessimistic-2026-03-24d). Apply quality assessments to strengthen or qualify claims in attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md. Tighten citation practices where research identifies weak evidence.
+
+### ✓ 2026-04-16: Integrate bandwidth-constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md grounding the ~10 bits/second conscious processing figure with empirical sources (Nørretranders 1998, Zimmermann 1989, Szathmáry/Csányi estimates). Findings not yet integrated into bandwidth-of-consciousness.md. Integrate key evidence for the bandwidth asymmetry (11 million bits sensory input vs ~10-50 bits conscious output) and its implications for the filter/interface model. Verify and update any existing bandwidth claims in the article against the research.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md grounding the ~10 bits/second conscious processing figure with empirical sources (Nørretranders 1998, Zimmermann 1989, Szathmáry/Csányi estimates). Findings not yet integrated into bandwidth-of-consciousness.md. Integrate key evidence for the bandwidth asymmetry (11 million bits sensory input vs ~10-50 bits conscious output) and its implications for the filter/interface model. Verify and update any existing bandwidth claims in the article against the research.
+
+### ✓ 2026-04-16: Deep-review consciousness-and-the-normativity-of-reason.md
+- **Type**: deep-review
+- **Notes**: Created 2026-04-07 via expand-topic from research/consciousness-normativity-of-reason-2026-04-07.md, never deep-reviewed (no last_deep_review recorded). Topics article arguing consciousness is necessary for genuine rational normativity — physical processes follow causal laws but cannot follow normative rules. Directly supports Tenet 1 (Dualism) and strengthens the argument-from-reason programme. Verify accuracy of claims about normativity, coherence, cross-references to argument-from-reason, self-stultification-as-master-argument, and rational-normativity concept page.
+- **Output**: obsidian/topics/consciousness-and-the-normativity-of-reason.md
+
+### ✓ 2026-04-16: Deep-review interested-party-void.md
+- **Type**: deep-review
+- **Notes**: New voids article created 2026-04-16, cross-reviewed against complicity-void.md and necessary-opacity.md but never comprehensively deep-reviewed. Explores the structural impossibility of consciousness providing disinterested testimony about its own causal efficacy — the judge and the accused are the same entity. Verify coherence, accuracy of philosophical claims about epistemic self-interest, cross-references to agency-verification-void and complicity-void, and tenet alignment.
+- **Output**: obsidian/voids/interested-party-void.md
+
+### ✓ 2026-04-16: Deep-review embodied-consciousness.md after coalesce merger
+- **Type**: deep-review
+- **Notes**: Coalesced 2026-04-16 from embodied-consciousness-and-the-interface.md and phenomenology-of-embodiment-under-dualism.md. Reference updates completed across 17 files but the merged article itself (3291 words) never comprehensively reviewed. Verify the merge preserved key arguments from both source articles, eliminated redundancy, maintains coherent structure, and correctly integrates empirical embodied cognition evidence with phenomenological analysis. Check cross-references to somatic-interface, embodied-cognition, and interface articles.
+- **Output**: obsidian/topics/embodied-consciousness.md
+
+### ✓ 2026-04-16: Deep-review post-decoherence-selection-mechanisms.md
+- **Type**: deep-review
+- **Notes**: New topics article created 2026-04-16, cross-reviewed against consciousness-selecting-neural-patterns.md, comparing-quantum-consciousness-mechanisms.md, and trilemma-of-selection.md but never comprehensively deep-reviewed. Central to Tenets 2 and 3 — details how consciousness could influence outcomes after environmental decoherence via the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Verify accuracy of quantum mechanics claims, coherence of the three proposals, and tenet alignment.
+- **Output**: obsidian/topics/post-decoherence-selection-mechanisms.md
 
 ### ✓ 2026-04-16: Create concept page for phenomenal intentionality
 - **Type**: expand-topic

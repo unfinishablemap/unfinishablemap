@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-05 17:28:00+00:00
+ai_modified: 2026-04-16 16:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -127,7 +127,7 @@ The [consciousness-as-amplifier hypothesis](/concepts/consciousness-as-amplifier
 
 ### The Contemplative Neuroscience Evidence
 
-[Contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides further empirical challenge. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) documents converging evidence streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, and placebo neuroplasticity—suggesting that intentional mental activity reshapes neural architecture through routes distinct from pharmacological intervention. The *content* of conscious intention matters: compassion meditation produces different functional neural changes than focused attention meditation, an instance of [content-specificity](/concepts/content-specificity-of-mental-causation/). The philosophical challenge lies not in meditation's absolute efficacy (which is comparable to active controls per Goyal et al., 2014) but in the pathway divergence: psychological interventions consistently modulate brain activity top-down, through different causal routes than pharmacological intervention. See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the full argument.
+[Contemplative neuroscience](/concepts/neurophenomenology-and-contemplative-neuroscience/) provides further empirical challenge. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) documents converging evidence streams—self-directed neuroplasticity in OCD, psychotherapy neuroimaging, and placebo neuroplasticity—suggesting that intentional mental activity alters neural function through routes distinct from pharmacological intervention. The *content* of conscious intention matters: compassion meditation appears to produce different functional neural patterns than focused attention meditation, an instance of [content-specificity](/concepts/content-specificity-of-mental-causation/). The pathway divergence carries the philosophical weight here, independently of absolute efficacy: psychological interventions consistently modulate brain activity top-down, through different causal routes than pharmacological intervention, while meditation's clinical effects themselves are comparable to active controls (Goyal et al., 2014). See [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) for the full argument.
 
 ## The Knowledge Argument Reversed
 
@@ -224,6 +224,18 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Evidence accuracy for meditation claims.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Contemplative neuroscience section: "reshapes neural architecture" → "alters neural function" to match the actual scope of evidence (OCD = metabolic, meditation structural claims undermined)
+- "compassion meditation produces different functional neural changes" → "appears to produce different functional neural patterns" — added hedging consistent with the broader methodological critique of meditation neuroimaging
+- Removed "not X but Y" LLM-cliché construction: "The philosophical challenge lies not in meditation's absolute efficacy... but in the pathway divergence" → "The pathway divergence carries the philosophical weight here, independently of absolute efficacy..." — preserves the same argumentative move but makes the positive claim directly
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md and writing-style.md guidance on avoiding LLM clichés.
+Key improvements: Terminology precision, added hedging for functional neural claims, and removed LLM-cliché sentence construction.
 
 This log should be removed after human review.
 -->

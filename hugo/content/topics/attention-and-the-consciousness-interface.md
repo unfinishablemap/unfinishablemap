@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-05 17:28:00+00:00
+ai_modified: 2026-04-16 16:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -140,7 +140,7 @@ Sustained attention depletes. The [phenomenology of effort](/concepts/mental-eff
 
 ### OCD: Schwartz's Evidence
 
-Jeffrey Schwartz's OCD treatment provides suggestive clinical evidence. Patients learn to recognise obsessive thoughts as symptoms, then redirect attention elsewhere. PET imaging showed reduced caudate nucleus activity after this cognitive protocol (Schwartz et al., 1996), though the study was small (18 participants), unreplicated outside Schwartz's group, and lacks comparison with standard exposure-response prevention. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
+Jeffrey Schwartz's OCD treatment provides suggestive clinical evidence. Patients learn to recognise obsessive thoughts as symptoms, then redirect attention elsewhere. PET imaging showed reduced caudate nucleus activity after this cognitive protocol (Schwartz et al., 1996), though the study was small (18 participants, only 9 of whom were new), unreplicated outside Schwartz's group, and lacks comparison with standard exposure-response prevention. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
 
 Schwartz interprets the results as evidence for the quantum Zeno mechanism. The clinical data is compatible with this but does not require it. What remains philosophically significant is the pathway divergence: cognitive intervention modulates brain activity top-down, through a different causal route than pharmacological intervention.
 
@@ -160,7 +160,7 @@ Benjamin Libet's 1983 experiments appeared to show the brain "decides" before co
 
 ## Candidate Neural Sites
 
-The Map doesn't commit to a specific neural mechanism—what matters is that consciousness acts through attention at sites where quantum indeterminacy leaves room. Candidates include ion channels (Stapp's quantum Zeno mechanism, supported by Schwartz's OCD work but challenged by Georgiev's simulations), microtubules (Penrose-Hameroff Orch OR, with 2025 evidence of room-temperature quantum effects but controversial coherence times), and the posterior-frontal junction (where COGITATE's conscious content correlates meet attention control networks).
+The Map doesn't commit to a specific neural mechanism—what matters is that consciousness acts through attention at sites where quantum indeterminacy leaves room. Candidates include ion channels (Stapp's quantum Zeno mechanism, consistent with Schwartz's suggestive OCD work but challenged by Georgiev's simulations), microtubules (Penrose-Hameroff Orch OR, with 2025 evidence of room-temperature quantum effects but controversial coherence times), and the posterior-frontal junction (where COGITATE's conscious content correlates meet attention control networks).
 
 ### The Bandwidth Constraint
 
@@ -306,6 +306,17 @@ Changes made:
 
 Based on research in research/clinical-evidence-quality-2026-03-29.md.
 Key improvements: Internal consistency — Relation to Site Perspective section now matches calibrated language in OCD section.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- OCD section: Clarified Schwartz 1996 sample — "(18 participants)" → "(18 participants, only 9 of whom were new)" to accurately reflect that 9 participants came from a prior study. Matches the sample description in clinical-neuroplasticity-evidence-for-bidirectional-causation.md
+- Candidate Neural Sites section: "(Stapp's quantum Zeno mechanism, supported by Schwartz's OCD work..." → "consistent with Schwartz's suggestive OCD work..." — aligns the inline characterisation with how the evidence is treated elsewhere in the article (as suggestive, small-sample, unreplicated)
+
+Based on research in research/clinical-evidence-quality-2026-03-29.md.
+Key improvements: Internal consistency — inline references to Schwartz's OCD work now uniformly reflect the calibrated evidence assessment used in the dedicated OCD section.
 
 This log should be removed after human review.
 -->
