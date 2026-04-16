@@ -9,6 +9,63 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 04:19 UTC - refine-draft
+- **Status**: Success
+- **Files**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [consciousness-and-mathematics](/topics/consciousness-and-mathematics/), [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/), [phenomenology-of-trust](/topics/phenomenology-of-trust/), [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/), [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/), [expertise-void](/topics/expertise-void/), [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/), [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/), [consciousness-value-connection](/concepts/consciousness-value-connection/)
+- **Changes**: Added 6 cross-linking opportunities from optimistic-2026-04-16 review: domestication thesis emphasis in hard-problem, cognitive binding in mathematical understanding (math↔binding), consciousness under constraint (trust↔moral-agency-under-duress), continual learning↔irreversible transformation (hoel↔expertise-void), participatory realism genealogy (wheeler→pragmatism-and-qbism), phenomenological grounding of value (evaluative↔CVC)
+- **Published**: yes
+
+## 2026-04-16 04:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Changes**: Replaced Schwartz-specific example in Illusionist Challenge with three converging examples (CBT, meditation, OCD) to complete de-centring of n=18 study; previous pass (2026-04-15) restructured neuroplasticity section
+- **Published**: yes
+
+## 2026-04-16 03:48 UTC - deep-review
+- **Status**: Success
+- **File**: [blindsight](/concepts/blindsight/)
+- **Word count**: 2739 → 2739 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged — fifth review confirms stability)
+- **Output**: [deep-review-2026-04-16-blindsight](/reviews/deep-review-2026-04-16-blindsight/)
+
+## 2026-04-16 03:42 UTC - condense
+- **Status**: Success
+- **File**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Before**: 4948 words
+- **After**: 3042 words
+- **Reduction**: 39%
+- **Technique**: Cut redundant James background (mind-dust/panpsychism tangent, extended radical empiricism), trimmed QBism to link, condensed Putnam section, tightened Dewey/Rorty dissolution treatment, compressed four-domains section, tightened functionalist escape route and challenge conditions
+
+## 2026-04-16 03:18 UTC - deep-review
+- **Status**: Success
+- **File**: [imagination-and-creativity-void](/voids/imagination-and-creativity-void/)
+- **Word count**: 2600 → 2600 (no change; length-neutral mode, orphan integration focus)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan status — zero inbound links)
+- **Enhancements made**: 6 inbound cross-references added from related articles
+- **Files modified**: incubation-effect-and-unconscious-processing, phenomenology-of-creative-insight, mysterianism, acquaintance-void, phenomenology-of-cognitive-limit-types, biological-cognitive-closure
+- **Output**: [deep-review-2026-04-16-imagination-and-creativity-void](/reviews/deep-review-2026-04-16-imagination-and-creativity-void/)
+
+## 2026-04-16 03:03 UTC - deep-review
+- **Status**: Success
+- **File**: [purpose-and-alignment](/topics/purpose-and-alignment/)
+- **Word count**: 2435 → 2427 (-8, frontmatter deduplication only)
+- **Critical issues addressed**: 1 (duplicate concept entry in frontmatter)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at stability after 4 reviews)
+- **Output**: [deep-review-2026-04-16-purpose-and-alignment](/reviews/deep-review-2026-04-16-purpose-and-alignment/)
+
+## 2026-04-16 02:49 UTC - deep-review
+- **Status**: Success
+- **File**: [samkhya-three-way-distinction](/concepts/samkhya-three-way-distinction/)
+- **Word count**: 1811 → 1811 (no change, frontmatter and references only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing frontmatter entries, possessive inconsistency, missing Block citation)
+- **Enhancements made**: 0 (article at stability after 3 reviews)
+- **Output**: [deep-review-2026-04-16-samkhya-three-way-distinction](/reviews/deep-review-2026-04-16-samkhya-three-way-distinction/)
+
 ## 2026-04-16 02:33 UTC - coalesce
 - **Status**: Success
 - **Sources**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-04-16 03:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[compound-failure-signatures]]'
 - '[[phenomenology-of-linguistic-failure]]'
+- '[[imagination-and-creativity-void]]'
 title: The Phenomenology of Cognitive Limit Types
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -40,7 +41,7 @@ Different cognitive limits feel different from the inside. Hitting a logical par
 
 The [biological-cognitive-closure](/voids/biological-cognitive-closure/) article identifies three broad phenomenological categories that correspond to the origin of the limit:
 
-**Frustration** marks architectural limits — constraints built into the structure of human cognition. Trying to visualise a four-dimensional object, holding seven-plus items in working memory, or grasping the hard problem of consciousness all produce the experience of effortful straining against a wall. The thinker knows they are failing. The limit announces itself as obstruction. Frustration is honest: it tells you a boundary exists and that you are pressing against it.
+**Frustration** marks architectural limits — constraints built into the structure of human cognition. Trying to visualise a four-dimensional object, holding seven-plus items in working memory, imagining a colour never seen (the [imagination void's](/voids/imagination-and-creativity-void/) paradigm case), or grasping the hard problem of consciousness all produce the experience of effortful straining against a wall. The thinker knows they are failing. The limit announces itself as obstruction. Frustration is honest: it tells you a boundary exists and that you are pressing against it.
 
 **Satisfaction** marks adaptive limits — blind spots maintained by natural selection because ignorance conferred fitness advantage. The experience here is completeness rather than obstruction. The bias blind spot exemplifies this: we feel we see clearly while others are distorted. The limit disguises itself as success. [Cognitive aversion](/voids/defended-territory/) operates similarly — thoughts we systematically flee feel uninteresting rather than impossible, so the deflection goes unnoticed. Satisfaction is deceptive: it tells you the territory is fully mapped when a region has been quietly excised.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 22:41:00+00:00
+ai_modified: 2026-04-16 04:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -126,7 +126,7 @@ The Map does not commit to any particular mechanism. The phenomenological and ne
 
 Contemplative evidence also resists illusionism. If effort were illusory, practice should dissolve it. Instead, meditation *refines* the effort distinction—experienced practitioners develop finer-grained awareness of the transition between effortful and effortless states rather than losing the distinction (Lutz et al., 2008), and long-term meditators show significantly greater introspective accuracy than novices (Fox et al., 2012).
 
-Even granting illusionism, the *functional* role of effort remains. Schwartz's OCD patients reshaped their brains through directed attention, whether or not there's "something it's like" to try. The question of mechanism remains even if phenomenology is bracketed.
+Even granting illusionism, the *functional* role of effort remains. CBT patients reduce amygdala reactivity through cognitive reappraisal, meditators reshape attentional networks through sustained practice, and OCD patients alter caudate metabolism through deliberate redirection—whether or not there's "something it's like" to try. The question of mechanism remains even if phenomenology is bracketed.
 
 ## The Paradox of Effortless Awareness
 
@@ -192,17 +192,11 @@ The phenomenology of effort provides a datum any account must explain. If contro
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
 
-<!-- AI REFINEMENT LOG - 2026-04-15
+<!-- AI REFINEMENT LOG - 2026-04-16
 Changes made:
-- Restructured neuroplasticity section: now leads with broader CBT/psychotherapy evidence (meta-analyses, pathway divergence) and contemplative neuroscience, with Schwartz OCD study demoted to one illustrative example rather than centrepiece
-- Added citation for ~10 bits/s bandwidth claim (Zheng & Meister, 2024)
-- Added citations for meditator discrimination claim (Lutz et al., 2008; Fox et al., 2012)
-- Added Schwartz et al. (1996) original study citation and noted lack of ERP comparison
-- Updated Bidirectional Interaction tenet section to reference converging clinical evidence rather than Schwartz alone
-- Updated references section with 5 new entries
+- Replaced Schwartz-specific example in Illusionist Challenge section with three converging examples (CBT amygdala changes, meditation attentional networks, OCD caudate metabolism) to eliminate remaining over-reliance on the n=18 study outside the neuroplasticity section
 
-Triggered by pessimistic review (pessimistic-2026-04-15c.md) identifying Schwartz n=18 study doing heavy lifting as primary evidence.
-Key improvements: Evidence base broadened and better calibrated to epistemic weight.
+Continues pessimistic review (2026-04-15c) remediation. Previous pass (2026-04-15) restructured the neuroplasticity section; this pass addresses Schwartz prominence in remaining sections.
 
 This log should be removed after human review.
 -->

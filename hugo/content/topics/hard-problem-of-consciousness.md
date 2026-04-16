@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-06
-ai_modified: 2026-03-25 15:59:00+00:00
+ai_modified: 2026-04-16 04:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -120,7 +120,7 @@ As Russell and Eddington observed, physics tells us what things *do*—how they 
 
 The [objectivity paradox](/concepts/objectivity-and-consciousness/) sharpens this point: science achieves objectivity by eliminating perspective, but consciousness *is* perspective—applying objective methods to it eliminates the subject matter. The [constitutive-exclusion](/topics/constitutive-exclusion/) goes further: consciousness does not merely resist objective study but partly constitutes what any study encounters, making the gap structural rather than methodological.
 
-The [emergence-void](/voids/emergence-void/) suggests this gap may be the deepest instance of a more general cognitive limit. The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) argues that every level transition—physics to chemistry, chemistry to biology, neurons to experience—harbours the same gap between arrangement and qualitative character. Reduction relocates these gaps rather than closing them; consciousness is where the gap becomes impossible to paper over.
+The [emergence-void](/voids/emergence-void/) suggests this gap may be the deepest instance of a more general cognitive limit. The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) argues that every level transition—physics to chemistry, chemistry to biology, neurons to experience—harbours the same gap between arrangement and qualitative character. Reduction relocates these gaps rather than closing them; consciousness is where the gap becomes impossible to paper over because it resists [domestication](/topics/emergence-as-universal-hard-problem/#the-domestication-effect)—the cognitive process by which we habituate to explanatory gaps until they feel like explanations. We no longer notice the gap at temperature or life because familiarity has rendered it invisible. Consciousness is the one qualitative character that cannot be domesticated, because it is the capacity that performs the domestication.
 
 Strikingly, [non-Western traditions](/topics/the-hard-problem-in-non-western-philosophy/)—Sāṃkhya, Nyāya, Buddhist phenomenology, Islamic philosophy—independently recognized this gap centuries before Chalmers named it, suggesting it tracks a real feature of consciousness rather than a Western conceptual artifact. The [cross-traditional convergence on irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)—where traditions that disagree about substance, self, and causation all converge on this structural limit—is itself a philosophical datum requiring explanation.
 

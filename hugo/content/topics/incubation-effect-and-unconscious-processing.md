@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-16 03:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[hypnagogic-phenomenology-and-interface-modulation]]'
 - '[[consciousness-and-mathematics]]'
 - '[[surprise-prediction-error-and-consciousness]]'
+- '[[imagination-and-creativity-void]]'
 title: The Incubation Effect and Unconscious Processing
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -144,6 +145,7 @@ The Map's interpretation of incubation would face difficulty if:
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The phenomenology of sleep-onset consciousness and its creative potential
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — The phenomenology of mathematical insight, including Poincaré's incubation reports
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The twin voids of imaginative confinement and creative process opacity
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How incubation-insight patterns reveal the temporal phenomenology of understanding
 
 ## References

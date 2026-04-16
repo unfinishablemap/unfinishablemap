@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links from optimistic-2026-04-16 review findings
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Optimistic review identified 6 cross-linking opportunities: emergence-as-universal-hard-problem → the-hard-problem-of-consciousness (domestication thesis extends scope), consciousness-and-mathematics → the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust → consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness → the-expertise-void (continual learning ↔ irreversible transformation), wheeler-participatory-universe → pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character → the-consciousness-value-connection (phenomenological grounding). See optimistic-2026-04-16.md
-- **Source**: chain (from optimistic-2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P2: Create concept page for epistemic self-defeat
 - **Type**: expand-topic
 - **Status**: pending
@@ -2117,6 +2110,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Add cross-links from optimistic-2026-04-16 review findings
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 cross-linking opportunities: emergence-as-universal-hard-problem → the-hard-problem-of-consciousness (domestication thesis extends scope), consciousness-and-mathematics → the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust → consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness → the-expertise-void (continual learning ↔ irreversible transformation), wheeler-participatory-universe → pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character → the-consciousness-value-connection (phenomenological grounding). See optimistic-2026-04-16.md
+- **Output**: Task context:
+Optimistic review identified 6 cross-linking opportunities: emergence-as-universal-hard-problem → the-hard-problem-of-consciousness (domestication thesis extends scope), consciousness-and-mathematics → the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust → consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness → the-expertise-void (continual learning ↔ irreversible transformation), wheeler-participatory-universe → pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character → the-consciousness-value-connection (phenomenological grounding). See optimistic-2026-04-16.md
 
 ### ✓ 2026-04-16: Address Schwartz OCD evidence fragility in mental-effort.md
 - **Type**: refine-draft

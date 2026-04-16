@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-06 13:18:00+00:00
+ai_modified: 2026-04-16 04:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -126,7 +126,7 @@ Wheeler's vision did not end with him. Two significant developments carry the pa
 
 Christopher Fuchs, who studied closely with Wheeler during the 1990s, developed QBism (Quantum Bayesianism) and introduced the term "participatory realism" (Fuchs 2017). QBism treats quantum states as reflecting an agent's beliefs about future experiences rather than objective features of reality. Quantum probabilities are subjective and Bayesian. Different agents can legitimately assign different quantum states to the same system.
 
-Fuchs framed this as completing Wheeler's program: "Reality consists of more than can be captured by any putative third-person account of it." The irreducibility of the first-person perspective echoes the explanatory gap that motivates dualism.
+Fuchs framed this as completing Wheeler's program: "Reality consists of more than can be captured by any putative third-person account of it." The irreducibility of the first-person perspective echoes the explanatory gap that motivates dualism. The full genealogy connecting Wheeler's participatory realism to QBism's pragmatist foundations is traced in [Pragmatism and QBism](/topics/pragmatism-and-qbism/), which argues that QBism inherits William James's insistence on the irreducibility of experience while refusing to theorise about what agents *are*—placing an agent-shaped gap at the centre of physics that the Map's dualism fills.
 
 However, QBism is deliberately agnostic about collapse ontology. It neither affirms nor denies that collapse is a real physical event — a significant divergence from the Map's framework, which requires real collapse as the interface where consciousness acts. Ismael (2025) offers a different continuation: a participatory universe that retains scientific realism, arguing that observer-participation and mind-independent reality are compatible rather than opposed.
 
@@ -186,6 +186,7 @@ The participatory universe and "it from bit" framework would face serious challe
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — The structural limit that follows from participatory constitution
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The causal efficacy of consciousness
 - [qbism](/concepts/qbism/) — QBism as a contemporary heir to Wheeler's participatory realism
+- [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) — The full genealogy: Wheeler's participatory realism through James's pragmatism to QBism's agent-shaped gap
 
 ## References
 

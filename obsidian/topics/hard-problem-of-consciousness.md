@@ -4,7 +4,7 @@ description: "Why is there something it is like to be conscious? Physical descri
 created: 2026-01-06
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-25T15:59:00+00:00
+ai_modified: 2026-04-16T04:19:00+00:00
 draft: false
 topics: []
 concepts:
@@ -118,7 +118,7 @@ As Russell and Eddington observed, physics tells us what things *do*—how they 
 
 The [[objectivity-and-consciousness|objectivity paradox]] sharpens this point: science achieves objectivity by eliminating perspective, but consciousness *is* perspective—applying objective methods to it eliminates the subject matter. The [[constitutive-exclusion]] goes further: consciousness does not merely resist objective study but partly constitutes what any study encounters, making the gap structural rather than methodological.
 
-The [[emergence-void]] suggests this gap may be the deepest instance of a more general cognitive limit. The [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues that every level transition—physics to chemistry, chemistry to biology, neurons to experience—harbours the same gap between arrangement and qualitative character. Reduction relocates these gaps rather than closing them; consciousness is where the gap becomes impossible to paper over.
+The [[emergence-void]] suggests this gap may be the deepest instance of a more general cognitive limit. The [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues that every level transition—physics to chemistry, chemistry to biology, neurons to experience—harbours the same gap between arrangement and qualitative character. Reduction relocates these gaps rather than closing them; consciousness is where the gap becomes impossible to paper over because it resists [[emergence-as-universal-hard-problem#The Domestication Effect|domestication]]—the cognitive process by which we habituate to explanatory gaps until they feel like explanations. We no longer notice the gap at temperature or life because familiarity has rendered it invisible. Consciousness is the one qualitative character that cannot be domesticated, because it is the capacity that performs the domestication.
 
 Strikingly, [[the-hard-problem-in-non-western-philosophy|non-Western traditions]]—Sāṃkhya, Nyāya, Buddhist phenomenology, Islamic philosophy—independently recognized this gap centuries before Chalmers named it, suggesting it tracks a real feature of consciousness rather than a Western conceptual artifact. The [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence on irreducibility]]—where traditions that disagree about substance, self, and causation all converge on this structural limit—is itself a philosophical datum requiring explanation.
 

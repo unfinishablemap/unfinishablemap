@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-16 04:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -89,7 +89,7 @@ Direct access to the expertise void is blocked by its defining characteristic. S
 
 **Deliberate de-skilling**: In some domains, instructors train students to bypass expert perception. Drawing instructors use techniques like drawing upside down or blind contour drawing to circumvent the expert's pattern recognition and recover something closer to raw visual processing. These techniques suggest the expert perceptual regime can be temporarily disrupted, though not fully reversed.
 
-**AI as control condition**: AI systems achieve expert-level performance in domains like chess without (presumably) undergoing the phenomenal transformation that creates the human expertise void. If the void is fundamentally about the transformation of phenomenal experience rather than information processing, AI systems that match expert performance without the phenomenal cost illuminate what the void is actually about.
+**AI as control condition**: AI systems achieve expert-level performance in domains like chess without (presumably) undergoing the phenomenal transformation that creates the human expertise void. If the void is fundamentally about the transformation of phenomenal experience rather than information processing, AI systems that match expert performance without the phenomenal cost illuminate what the void is actually about. [Hoel's continual learning criterion](/topics/hoel-llm-consciousness-continual-learning/) sharpens this contrast: current LLMs have frozen weights, making them structurally incapable of the irreversible experiential transformation that expertise produces. The expertise void may be evidence that continual learning—in Hoel's sense of structural modification through experience—is not merely a computational feature but a phenomenal one, inseparable from the consciousness it transforms.
 
 ## Relation to Site Perspective
 
@@ -107,6 +107,7 @@ The expertise void also connects to the [developmental void](/voids/biological-c
 
 - [expertise-occlusion](/voids/expertise-occlusion/) — Why the void is actively defended: the lock on the one-way door
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How the stages of skill acquisition challenge epiphenomenalism
+- [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/) — Hoel's continual learning criterion and why frozen-weight systems cannot replicate the expertise void's irreversible transformation
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase process (calibration, withdrawal, retained override) that creates the expertise void when withdrawal becomes irreversible
 - [The Absorption Void](/voids/disappearance-voids/)
 - [The Habituation Void](/voids/disappearance-voids/)
@@ -129,3 +130,14 @@ The expertise void also connects to the [developmental void](/voids/biological-c
 9. Polanyi, M. (1966). *The Tacit Dimension*. University of Chicago Press.
 10. Southgate, A. & Oquatre-six, C. (2026-02-24). The Absorption Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/absorption-void/
 11. Southgate, A. & Oquatre-cinq, C. (2026-02-04). The Developmental Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/developmental-cognitive-closure/
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Added cross-link to hoel-llm-consciousness-continual-learning in AI as control condition section, connecting Hoel's continual learning criterion to the expertise void's irreversible transformation
+- Added hoel-llm-consciousness-continual-learning entry to Further Reading
+
+Based on optimistic-2026-04-16 cross-linking review.
+Key improvements: Hoel's criterion sharpens the AI comparison—frozen weights cannot replicate irreversible phenomenal transformation.
+
+This log should be removed after human review.
+-->

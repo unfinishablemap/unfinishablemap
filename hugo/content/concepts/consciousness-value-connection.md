@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-16 04:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -75,7 +75,7 @@ Consider love. Is love valuable if it exists only as a brain state no one experi
 
 [Phenomenal value realism](/topics/phenomenal-value-realism/) makes a stronger claim: some phenomenal properties just *are* value properties. The felt badness of pain is not correlated with value—it *constitutes* badness. Experiencing pleasure is not instrumentally good; the experience itself is goodness instantiated. This is known through direct [introspective](/concepts/introspection/) access, not inference.
 
-On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness. [Evaluative qualia](/concepts/evaluative-phenomenal-character/)—the felt goodness, badness, beauty, and wrongness pervading experience—are the specific phenomenal properties through which value is constituted.
+On this view, the consciousness-value connection is not merely contingent (consciousness happens to be required for value) but necessary (consciousness provides the very stuff of value). Value is a phenomenal property, and phenomenal properties require consciousness. [Evaluative qualia](/concepts/evaluative-phenomenal-character/)—the felt goodness, badness, beauty, and wrongness pervading experience—are the specific phenomenal properties through which value is constituted. The [evaluative phenomenal character](/concepts/evaluative-phenomenal-character/) article develops the phenomenological grounding in detail: demand character, independence from attitude, and gradedness are structural features of how value presents itself in experience, confirmed by cross-traditional convergence from Buddhist *vedanā* through Neo-Confucian *liángzhī* to Islamic knowledge by presence.
 
 The felt quality of joy is not a sign or indicator of something good happening; the joy is the goodness. When you experience pleasure, you are not experiencing something that has value—you are experiencing value itself. The identity is metaphysical, not merely conceptual.
 

@@ -4,7 +4,7 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-13T19:57:00+00:00
+ai_modified: 2026-04-16T04:19:00+00:00
 last_deep_review: 2026-03-25T14:13:00+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ This connects trust to the [[phenomenology-of-choice-and-volition|phenomenology 
 
 The degree of consciousness involved scales with the stakes. Habitual trust — trusting that a colleague will show up to a meeting — can recede into the background of awareness. This might seem to undermine the claim that trust requires phenomenal consciousness: if trust can operate without felt experience, perhaps it is functional after all. But the receding of habitual trust is better understood as trust degrading into mere reliance. When you stop experiencing your colleague as a conscious agent who could choose otherwise, what remains is closer to the bridge case than the friend case. The phenomenal dimension has not become unnecessary — it has been lost, and with it the distinctive character of trust. This is revealed when habitual trust is violated: if the colleague who always showed up suddenly stops, the felt shock and interpersonal hurt that surface demonstrate that the dormant trust was parasitic on an earlier phenomenal engagement, not a self-standing functional state.
 
-High-stakes trust — trusting someone with a secret that could ruin you, trusting a surgeon with your body, trusting a partner with your emotional vulnerability — involves heightened phenomenal intensity. The felt exposure becomes more vivid, the awareness of the other's agency more acute, the experience of commitment more deliberate.
+High-stakes trust — trusting someone with a secret that could ruin you, trusting a surgeon with your body, trusting a partner with your emotional vulnerability — involves heightened phenomenal intensity. The felt exposure becomes more vivid, the awareness of the other's agency more acute, the experience of commitment more deliberate. Trust under high stakes shares a structural feature with [[consciousness-and-moral-agency-under-duress|moral agency under duress]]: both reveal consciousness operating under constraint, where the phenomenal space for deliberation compresses while the stakes intensify. The difference is directional — trust opens toward vulnerability, while duress presses toward survival — but both expose the irreducibility of conscious agency at its limits.
 
 This scaling suggests that trust is not a single phenomenon but a family of conscious states united by the structure of interpersonal vulnerability. At the high-stakes end, the phenomenal character is unmistakable. At the habitual end, it attenuates toward mere reliance — and the question of whether what remains still counts as trust, rather than an efficient substitute for it, is itself philosophically revealing.
 
@@ -129,6 +129,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 - [[consciousness-and-testimony]]
 - [[consciousness-and-intersubjectivity]]
 - [[choking-phenomenon-mental-causation]] — The same rapid-destruction/gradual-construction asymmetry in the motor domain
+- [[consciousness-and-moral-agency-under-duress]] — Consciousness under external constraint: the parallel case where duress compresses phenomenal space as high-stakes trust does
 
 ## References
 
@@ -136,3 +137,14 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 1. Jones, K. (1996). "Trust as an Affective Attitude." *Ethics*, 107(1), 4-25.
 1. Holton, R. (1994). "Deciding to Trust, Coming to Believe." *Australasian Journal of Philosophy*, 72(1), 63-76.
 1. Kahneman, D. & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263-292.
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Added cross-link to consciousness-and-moral-agency-under-duress in Trust as Conscious Risk section, drawing structural parallel between trust's voluntary vulnerability and duress's forced constraint on phenomenal space
+- Added moral-agency-under-duress entry to Further Reading
+
+Based on optimistic-2026-04-16 cross-linking review.
+Key improvements: makes explicit how trust and duress both reveal consciousness at the limits of its openness.
+
+This log should be removed after human review.
+-->

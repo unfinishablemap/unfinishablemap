@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-17 06:28:00+00:00
+ai_modified: 2026-04-16 04:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -52,7 +52,7 @@ Contemporary compatibilists ground [moral-responsibility](/concepts/moral-respon
 
 The [felt contrast between agency and passivity](/topics/phenomenology-of-agency-vs-passivity/) shifts dramatically under duress. In ordinary deliberation, consciousness experiences what might be called *openness*—a sense of multiple live possibilities, accompanied by the effort of weighing and selecting among them. The [phenomenology of authentic choice](/topics/authentic-vs-inauthentic-choice/) involves a felt connection between one's values and one's actions.
 
-Extreme duress compresses this phenomenal space. The experience narrows toward what psychologists call *tunnel vision*—not merely a perceptual phenomenon but a volitional one. The range of options that consciousness can meaningfully entertain contracts. Fear, urgency, and the immediate salience of threat dominate the phenomenal field. The deliberative texture that characterises reflective moral reasoning—pausing, considering principles, weighing competing obligations—may vanish entirely.
+Extreme duress compresses this phenomenal space. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals a structural parallel: high-stakes trust involves the same narrowing of conscious attention toward a single interpersonal commitment, the same heightened awareness of vulnerability, the same felt compression of the deliberative field. Both trust and duress expose consciousness operating at the limits of its openness—trust by choice, duress by force. The experience narrows toward what psychologists call *tunnel vision*—not merely a perceptual phenomenon but a volitional one. The range of options that consciousness can meaningfully entertain contracts. Fear, urgency, and the immediate salience of threat dominate the phenomenal field. The deliberative texture that characterises reflective moral reasoning—pausing, considering principles, weighing competing obligations—may vanish entirely.
 
 This compression matters for the Map's framework. The [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) identifies moral perception as having a distinctive phenomenal character: obligation *feels* different from desire, wrongness carries a particular qualitative weight. The [deliberative process](/topics/phenomenology-of-moral-life/) that normally follows moral perception—weighing competing duties, feeling the pull of different obligations—requires precisely the phenomenal openness that duress destroys. Under severe duress, these moral phenomenal qualities may be overwhelmed by survival-oriented states. The question is whether consciousness retains its moral perceptual capacities when flooded by extreme affect, or whether it temporarily loses access to them.
 
@@ -128,6 +128,7 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Why duress matters morally: the felt badness of suffering constitutes genuine disvalue
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- [phenomenology-of-trust](/topics/phenomenology-of-trust/) — Consciousness under voluntary constraint: trust compresses phenomenal space toward interpersonal vulnerability as duress compresses it toward survival
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — The broader moral implications when agency is real: obligation, character, moral luck
 
 ## References
@@ -136,3 +137,14 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 1. Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
 1. Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
 1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Added cross-link to phenomenology-of-trust in Duress and the Phenomenology of Agency section, drawing structural parallel between trust's voluntary vulnerability and duress's forced compression of phenomenal space
+- Added phenomenology-of-trust entry to Further Reading
+
+Based on optimistic-2026-04-16 cross-linking review.
+Key improvements: both articles explore consciousness under constraint; the bidirectional link makes the structural parallel explicit.
+
+This log should be removed after human review.
+-->

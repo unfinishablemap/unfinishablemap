@@ -1,11 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-16 03:03:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[nihilism-and-existentialism]]'
 - '[[nihilism-and-existentialism]]'
 - '[[experiential-alignment]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
@@ -24,7 +23,7 @@ description: AI alignment assumes human values can be learned from behavior. But
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 00:48:00+00:00
+last_deep_review: 2026-04-16 03:03:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

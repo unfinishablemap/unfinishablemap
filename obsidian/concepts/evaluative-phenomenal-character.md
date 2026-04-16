@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T21:10:00+00:00
+ai_modified: 2026-04-16T04:19:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"

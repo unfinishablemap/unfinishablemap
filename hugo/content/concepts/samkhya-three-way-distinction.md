@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-08 13:41:00+00:00
+ai_modified: 2026-04-16 02:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,6 +11,9 @@ concepts:
 - '[[filter-theory]]'
 - '[[substance-property-dualism]]'
 - '[[explanatory-gap]]'
+- '[[functionalism]]'
+- '[[qualia]]'
+- '[[causal-closure]]'
 created: 2026-02-23
 date: &id001 2026-02-23
 description: Samkhya divides reality into consciousness, mind, and matter—placing
@@ -19,7 +22,7 @@ description: Samkhya divides reality into consciousness, mind, and matter—plac
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-08 13:41:00+00:00
+last_deep_review: 2026-04-16 02:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -54,7 +57,7 @@ From *ahamkara*, Samkhya derives the five sense capacities, five action capaciti
 
 ## Why This Differs from Cartesian Dualism
 
-Descartes' division is binary. *Res cogitans* (thinking substance) encompasses everything mental: reasoning, willing, feeling, perceiving, imagining. *Res extensa* (extended substance) encompasses everything physical. Consciousness and cognition land on the same side.
+Descartes's division is binary. *Res cogitans* (thinking substance) encompasses everything mental: reasoning, willing, feeling, perceiving, imagining. *Res extensa* (extended substance) encompasses everything physical. Consciousness and cognition land on the same side.
 
 Samkhya's division is ternary. Consciousness (*purusha*) is pure awareness without content, without activity, without change. Cognition—all of it—belongs to *prakriti*. This means:
 
@@ -139,6 +142,7 @@ The three-way distinction challenges the Map's framework in productive ways.
 ## References
 
 1. Ishvarakrishna. *Samkhya Karika* (c. 350 CE). Trans. G. J. Larson in *Classical Samkhya* (1979). Motilal Banarsidass.
+1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
 1. O'Brien-Kop, K. (2023). "The hard problem of 'pure' consciousness: Samkhya dualist ontology." *Religious Studies*, Cambridge University Press.
 1. Vacaspati Mishra. *Samkhya-Tattva-Kaumudi* (c. 980 CE). Trans. G. Jha. Oriental Book Agency.
 1. Larson, G. J. and Bhattacharya, R. S. (1987). *Encyclopedia of Indian Philosophies, Vol. IV: Samkhya*. Motilal Banarsidass.

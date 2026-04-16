@@ -4,7 +4,7 @@ description: "A comprehensive taxonomy of binding problems—perceptual, tempora
 created: 2026-02-14
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-06T04:21:00+00:00
+ai_modified: 2026-04-16T04:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Beyond perception, binding operates in thought, reasoning, and language. When yo
 
 **BP1 progress**: Recursive syntactic processing involves prefrontal-temporal circuits. [[working-memory]] maintains structural representations during incremental parsing. Semantic integration involves widespread cortical activation that converges into unified meaning representations.
 
-**BP2 gap**: Cognitive binding involves [[cognitive-phenomenology|cognitive phenomenology]] — the felt quality of understanding, the experience of meaning. When a complex argument "clicks," there is something it is like to grasp the whole that exceeds what it is like to grasp each premise separately. Extending Bayne and Chalmers's concept of "conjoint phenomenology" from perception to thought: just as seeing-and-hearing-simultaneously has a unified phenomenal character, understanding-all-the-parts-together has a phenomenal character that exceeds the sum of understanding each part.
+**BP2 gap**: Cognitive binding involves [[cognitive-phenomenology|cognitive phenomenology]] — the felt quality of understanding, the experience of meaning. When a complex argument "clicks," there is something it is like to grasp the whole that exceeds what it is like to grasp each premise separately. Extending Bayne and Chalmers's concept of "conjoint phenomenology" from perception to thought: just as seeing-and-hearing-simultaneously has a unified phenomenal character, understanding-all-the-parts-together has a phenomenal character that exceeds the sum of understanding each part. [[consciousness-and-mathematics|Mathematical cognition]] provides a particularly demanding case: holding a complex proof in unified comprehension requires binding sequentially encountered premises, intermediate lemmas, and logical dependencies into a single felt grasp of why the conclusion must follow—a binding that spans both temporal and cognitive dimensions simultaneously.
 
 Structural ambiguity makes this vivid. "I saw the man with the telescope" admits two parsings: you used a telescope, or the man had one. Consciousness selects among binding configurations — and the selection has phenomenal consequences. The experience of resolving ambiguity, of one parsing "winning," involves a shift in unified phenomenal content that parallels the selection among possible bound percepts in vision.
 
@@ -206,3 +206,13 @@ The systematic treatment of binding presented here rests on claims that could be
 1. Nagel, T. (1971). Brain bisection and the unity of consciousness. *Synthese*, 22, 396-413.
 1. Revonsuo, A. (2006). Binding and the phenomenal unity of consciousness. *Consciousness and Cognition*, 15, 489-508.
 1. Treisman, A. & Gelade, G. (1980). A feature-integration theory of attention. *Cognitive Psychology*, 12, 97-136.
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Added consciousness-and-mathematics cross-link in Cognitive Binding section, noting mathematical proof comprehension as a particularly demanding case spanning temporal and cognitive binding
+
+Based on optimistic-2026-04-16 cross-linking review.
+Key improvements: mathematics provides a concrete, high-stakes case for cognitive binding's irreducibility.
+
+This log should be removed after human review.
+-->
