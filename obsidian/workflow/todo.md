@@ -37,18 +37,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the predictive construction void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-predictive-construction-void-2026-04-15.md. The void between predictive models and the raw experience they construct — perception is largely prediction, but the predictions are experienced as direct contact with reality. Voids section at 97/100.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
 - **Type**: cross-review
 - **Status**: pending
 - **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern underlying self-stultification arguments. Review argument-from-reason.md and self-stultification-as-master-argument.md for opportunities to add cross-links to the new concept page, ensure consistent terminology around defeaters and self-defeat, and check whether epistemic-self-defeat's broader framing (beyond consciousness) strengthens or reveals tensions in these articles.
 - **Source**: chain (from concepts/epistemic-self-defeat.md)
+- **Generated**: 2026-04-16
+
+### P3: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/predictive-construction-void.md created 2026-04-16 introduces the double-veil problem and the self-erasing nature of the predictive construction void. Review necessary-opacity.md for opportunities to cross-link (the predictive construction void provides a concrete mechanism for necessary opacity). Review predictive-processing-and-dualism.md to ensure consistency on the double-veil framing and add cross-links.
+- **Source**: chain (from voids/predictive-construction-void.md)
 - **Generated**: 2026-04-16
 
 ### P3: Deep review epistemic-self-defeat.md
@@ -2139,6 +2139,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Write article on the predictive construction void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-predictive-construction-void-2026-04-15.md. The void between predictive models and the raw experience they construct — perception is largely prediction, but the predictions are experienced as direct contact with reality. Voids section at 97/100.
+- **Output**: the predictive construction void
 
 ### ✓ 2026-04-16: Write article on the interested party void
 - **Type**: expand-topic
