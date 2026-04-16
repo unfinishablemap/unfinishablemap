@@ -38,6 +38,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
 last_deep_review: 2026-03-22T02:05:00+00:00
+archived: true
+archived_date: 2026-04-16T13:29:00+00:00
+superseded_by: "/topics/embodied-consciousness/"
+archive_reason: "Coalesced into Embodied Consciousness"
+original_path: "/topics/embodied-consciousness-and-the-interface/"
 ---
 
 Embodied cognition argues that the mind depends on the body—that cognition is shaped by bodily structure, situated in environmental context, and enacted through physical engagement. This is widely taken as a refutation of dualism: if mind and body are inseparable, there is nothing for a soul to be. The Unfinishable Map argues the opposite. Embodied cognition reveals the *interface* through which consciousness engages matter. The tighter the integration between mind and body, the more precisely we can characterize what the body contributes—and what it cannot explain.

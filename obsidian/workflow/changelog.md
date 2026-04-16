@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 13:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[embodied-consciousness-and-the-interface]], [[phenomenology-of-embodiment-under-dualism]]
+- **Target**: [[embodied-consciousness]]
+- **Archived**: [[archive/topics/embodied-consciousness-and-the-interface]], [[archive/topics/phenomenology-of-embodiment-under-dualism]]
+- **References to review**: 19 active content files (excluding reviews/changelogs)
+
 ## 2026-04-16 13:13 UTC - deep-review
 - **Status**: Success
 - **File**: [[argument-from-reason]]
