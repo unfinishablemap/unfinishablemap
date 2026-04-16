@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 introduces analysis of what happens after quantum decoherence in the selection model. Review consciousness-selecting-neural-patterns.md for opportunities to cross-link the post-decoherence analysis. Review comparing-quantum-consciousness-mechanisms.md to ensure the new selection mechanism framing is consistent and add cross-references.
-- **Source**: chain (from topics/post-decoherence-selection-mechanisms.md)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2196,6 +2189,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
+- **Type**: cross-review
+- **Notes**: New article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 introduces analysis of what happens after quantum decoherence in the selection model. Review consciousness-selecting-neural-patterns.md for opportunities to cross-link the post-decoherence analysis. Review comparing-quantum-consciousness-mechanisms.md to ensure the new selection mechanism framing is consistent and add cross-references.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md -- Context: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
 
 ### ✓ 2026-04-16: Write concept article on normativity of reason
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-16T09:28:00+00:00
+ai_modified: 2026-04-16T10:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,12 +40,12 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-29T15:56:00+00:00
+last_deep_review: 2026-04-16T10:29:00+00:00
 ---
 
 Consciousness-selecting neural patterns is the proposed mechanism by which consciousness influences physical brain activity. Rather than consciousness passively observing neural events or being epiphenomenal, this framework proposes that consciousness selects which quantum possibilities become actual neural firing patterns. This implements The Unfinishable Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets concretely.
 
-The core claim: where physics specifies probabilities but not which possibility becomes actual, consciousness determines which outcome obtains. The most defensible version of this claim targets the [[post-decoherence-selection|post-decoherence gap]]—the point where [[decoherence]] has already selected a preferred basis and suppressed interference, yet the resulting state remains an *improper mixture* that does not justify saying "the system is in one state, we just don't know which" (Luppi & Adlam, 2012). On this view, consciousness completes what physics leaves undetermined—not by maintaining fragile pre-decoherence coherence, but by selecting among the outcomes that decoherence has narrowed down without resolving.
+The core claim: where physics specifies probabilities but not which possibility becomes actual, consciousness determines which outcome obtains. The most defensible version of this claim targets the [[post-decoherence-selection|post-decoherence gap]]—the point where [[decoherence]] has already selected a preferred basis and suppressed interference, yet the resulting state remains an *improper mixture* that does not justify saying "the system is in one state, we just don't know which" (d'Espagnat, 1976). On this view, consciousness completes what physics leaves undetermined—not by maintaining fragile pre-decoherence coherence, but by selecting among the outcomes that decoherence has narrowed down without resolving.
 
 ## The Mechanism
 
@@ -95,7 +95,7 @@ The most serious empirical challenge comes from [[decoherence]]. Tegmark (2000) 
 
 **First, Tegmark's parameters are disputed.** Corrected calculations for living tissue (Hagan et al. 2002) extend coherence estimates by seven orders of magnitude. Wiest et al. (2024, 2025) found quantum vibrational modes in microtubules at biological temperatures, though these are vibrational modes, not the sustained coherent superpositions selection requires—paralleling premature excitement around quantum coherence in photosynthesis (Engel et al. 2007), later shown to be vibrational (Cao et al. 2020). Recent evidence complicates Tegmark's assumptions, though the core challenge remains.
 
-**Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, it selects preferred bases without explaining *definite* outcomes. The post-decoherence density matrix is an *improper* mixture (Luppi & Adlam 2012)—derived by tracing out the environment—not a *proper* mixture representing classical ignorance. It does not justify saying "the system is in one state, we just don't know which." Five selection mechanism families have been proposed to fill this gap, but only consciousness-mediated selection is consistent with the Map's [[tenets|five tenets]] (see [[comparing-quantum-consciousness-mechanisms#the-post-decoherence-gap|the post-decoherence gap]]). Consciousness at collapse survives decoherence because decoherence leaves this gap open.
+**Second, decoherence doesn't solve the measurement problem.** Even granting rapid decoherence, it selects preferred bases without explaining *definite* outcomes. The post-decoherence density matrix is an *improper* mixture (d'Espagnat 1976)—derived by tracing out the environment—not a *proper* mixture representing classical ignorance. It does not justify saying "the system is in one state, we just don't know which." Five selection mechanism families have been proposed to fill this gap, but only consciousness-mediated selection is consistent with the Map's [[tenets|five tenets]] (see [[comparing-quantum-consciousness-mechanisms#the-post-decoherence-gap|the post-decoherence gap]]). Consciousness at collapse survives decoherence because decoherence leaves this gap open.
 
 **Third, the Zeno mechanism reframes the requirement—but faces its own timescale problem.** Stapp's approach requires rapid observation events, not sustained coherence. But Zeno freezing requires ~10¹⁰ observations per second for femtosecond decoherence, while attention operates at ~10⁻¹ seconds—a [[timing-gap-problem|ten-order-of-magnitude gap]]. The Zeno mechanism is better understood as identifying *where* consciousness might intervene rather than a complete account of *how*.
 
@@ -182,12 +182,14 @@ The Map should not claim selection within Born probabilities constitutes a testa
 
 ## References
 
+1. Cao, J., Cogdell, R. J., Coker, D. F., Duan, H.-G., Hauer, J., Kleinekathöfer, U., Jansen, T. L. C., Mančal, T., Miller, R. J. D., Ogilvie, J. P., Prokhorenko, V. I., Renger, T., Tan, H.-S., Tempelaar, R., Thorwart, M., Thyrhaug, E., Westenhoff, S., & Zigmantas, D. (2020). Quantum biology revisited. *Science Advances*, 6(14), eaaz4888.
 1. Chalmers, D.J. & McQueen, K.J. (2021). Consciousness and the collapse of the wave function. arXiv:2105.02314.
 1. Dennett, D.C. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
 1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+1. Engel, G. S., Calhoun, T. R., Read, E. L., Ahn, T.-K., Mančal, T., Cheng, Y.-C., Blankenship, R. E., & Fleming, G. R. (2007). Evidence for wavelike energy transfer through quantum coherence in photosynthetic systems. *Nature*, 446(7137), 782-786.
 1. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*.
-1. Luppi, A. & Adlam, E. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
+1. d'Espagnat, B. (1976). *Conceptual Foundations of Quantum Mechanics* (2nd ed.). Benjamin.
 1. Meister, M. et al. (2024). The bandwidth of human thought. *Caltech*.
 1. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of OCD. *Archives of General Psychiatry*, 53(2), 109-113.
