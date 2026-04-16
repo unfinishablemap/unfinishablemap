@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense phenomenology-of-conceptual-frameworks.md (4485 words, 150% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created via coalesce on 2026-04-16 (merged framework-inhabitation + conceptual-change). At 4485 words, likely contains redundancy from the merge. Preserve core arguments about framework phenomenology while removing duplication and deferring detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2259,6 +2252,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Condense phenomenology-of-conceptual-frameworks.md (4485 words, 150% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created via coalesce on 2026-04-16 (merged framework-inhabitation + conceptual-change). At 4485 words, likely contains redundancy from the merge. Preserve core arguments about framework phenomenology while removing duplication and deferring detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/topics/phenomenology-of-conceptual-frameworks.md
 
 ### ✓ 2026-04-16: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
 - **Type**: cross-review
