@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic review issues in ncc, zombies, animal-consciousness
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found: (1) stale AI refinement logs in neural-correlates-of-consciousness.md and animal-consciousness.md — remove; (2) "most robust NCC finding" overstates COGITATE — add GNWT-contests qualifier; (3) zombie self-stultification response does not handle the dualist-version epiphenomenalism tension — add "Interactionist Escape" acknowledgement; (4) Lieberman et al. 2008 claim overstated — cite critics (Hassin) or soften; (5) avian magnetoreception scale conflation — add "molecular-scale" qualifier; (6) amplification thesis rhetoric outweighs hedge — condense or expand physicalist alternative; (7) Kondziella 25% covert-consciousness figure could be updated with Claassen 2019. See reviews/pessimistic-2026-04-16c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
 ### P2: Deep review pragmatisms-path-to-dualism.md after coalesce and condense
 - **Type**: deep-review
 - **Status**: pending
@@ -2224,6 +2217,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Address pessimistic review issues in ncc, zombies, animal-consciousness
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found: (1) stale AI refinement logs in neural-correlates-of-consciousness.md and animal-consciousness.md — remove; (2) "most robust NCC finding" overstates COGITATE — add GNWT-contests qualifier; (3) zombie self-stultification response does not handle the dualist-version epiphenomenalism tension — add "Interactionist Escape" acknowledgement; (4) Lieberman et al. 2008 claim overstated — cite critics (Hassin) or soften; (5) avian magnetoreception scale conflation — add "molecular-scale" qualifier; (6) amplification thesis rhetoric outweighs hedge — condense or expand physicalist alternative; (7) Kondziella 25% covert-consciousness figure could be updated with Claassen 2019. See reviews/pessimistic-2026-04-16c.md.
+- **Output**: Task context:
+Pessimistic review found: (1) stale AI refinement logs in neural-correlates-of-consciousness.md and animal-consciousness.md — remove; (2) "most robust NCC finding" overstates COGITATE — add GNWT-contests qualifier; (3) zombie self-stultification response does not handle the dualist-version epiphenomenalism tension — add "Interactionist Escape" acknowledgement; (4) Lieberman et al. 2008 claim overstated — cite critics (Hassin) or soften; (5) avian magnetoreception scale conflation — add "molecular-scale" qualifier; (6) amplification thesis rhetoric outweighs hedge — condense or expand physicalist alternative; (7) Kondziella 25% covert-consciousness figure could be updated with Claassen 2019. See reviews/pessimistic-2026-04-16c.md.
 
 ### ✓ 2026-04-16: Integrate clinical evidence quality findings into empirical-claim articles
 - **Type**: refine-draft

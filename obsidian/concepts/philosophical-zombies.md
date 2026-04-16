@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-05T15:32:00+00:00
+ai_modified: 2026-04-16T16:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,6 +145,8 @@ The ethical stakes are sharpened by [[topics/phenomenal-value-realism]]: if valu
 If zombies are possible, they make phenomenal judgments ("I am conscious") without phenomenal states. What makes *our* phenomenal judgments accurate?
 
 **Response:** The dualist maintains that consciousness *does* causally influence our judgments—that's why we have accurate introspective access. The zombie's judgments, though identical in content, have different (purely physical) causes. This requires accepting that consciousness has causal power—exactly what the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms.
+
+**The Interactionist Escape.** A critic will push harder: if the zombie is stipulated to be a complete physical duplicate producing identical reports, then consciousness adds no differential physical contribution to the report stream. This is the structure of [[concepts/epiphenomenalism|epiphenomenalism]]—which the Map elsewhere rejects. The interactionist's honest response is to deny the stipulation. If consciousness genuinely causes reports (per Bidirectional Interaction), then a being physically identical to a conscious human *cannot* produce identical reports without consciousness—because the physical story is not causally complete at the report-generation level. Zombies remain *conceivable* (we can imagine beings physically like us without consciousness), but their full specification—complete physical duplication *plus* identical behavioural output—is only coherent if one brackets the question of whether physics is causally closed. This narrows the zombie argument's target: it shows that phenomenal facts don't reduce to physical facts, not that both could coexist while consciousness does nothing. The [[metaproblem-of-consciousness-under-dualism|metaproblem argument]] makes the same move—under interactionism, zombies and conscious beings should diverge in their reports, precisely because consciousness contributes to the causal chain that produces them.
 
 ### What Are Zombies Evidence Of?
 

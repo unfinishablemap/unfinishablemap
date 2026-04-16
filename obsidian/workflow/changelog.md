@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 16:58 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/neural-correlates-of-consciousness]], [[concepts/philosophical-zombies]], [[topics/animal-consciousness]]
+- **Changes**: Addressed pessimistic-2026-04-16c findings. NCC: softened "most robust" to "widely reported" with GNWT-contest qualifier in Hot Zone and COGITATE sections; added Claassen (2019) stricter-criteria range to covert-consciousness bullet; removed stale 2026-03-19 log. zombies: added "Interactionist Escape" paragraph acknowledging the epiphenomenalism tension—dualist must deny complete physical duplication, narrowing zombie target. animal-consciousness: softened Lieberman 2008 claim, added Hassin 2013 counter-citation; added molecular-scale qualifier to avian magnetoreception; added balanced "alternative reading" paragraph with Neubauer & Hublin physicalist account; removed stale 2026-03-21 log.
+- **Published**: yes
+
 ## 2026-04-16 16:50 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: `concepts/neural-correlates-of-consciousness.md`, `concepts/philosophical-zombies.md`, `topics/animal-consciousness.md`
