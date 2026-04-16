@@ -9,6 +9,31 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 07:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [epistemic-self-defeat](/concepts/epistemic-self-defeat/), [self-stultification](/concepts/self-stultification/)
+- **Target**: [self-stultification](/concepts/self-stultification/)
+- **Archived**: [epistemic-self-defeat](/archive/concepts/epistemic-self-defeat/)
+- **References to review**: 0 (all active references updated)
+
+## 2026-04-16 07:03 UTC - deep-review
+- **Status**: Success
+- **File**: [trilemma-of-selection](/topics/trilemma-of-selection/)
+- **Word count**: 2498 → 2641 (+143)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (post-decoherence selection integration, cross-links to quantum-measurement-and-consciousness and post-decoherence-selection-mechanisms, concept frontmatter)
+- **Enhancements made**: 3 (mechanism section paragraph, Further Reading entries, frontmatter links)
+- **Output**: [deep-review-2026-04-16-trilemma-of-selection](/reviews/deep-review-2026-04-16-trilemma-of-selection/)
+
+## 2026-04-16 06:48 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemic-self-defeat](/concepts/epistemic-self-defeat/)
+- **Word count**: 1507 → 1725 (+218)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (expanded eliminativism application, added functionalist reply, added cross-link from self-stultification)
+- **Enhancements made**: 2 (functionalist reply subsection, eliminativism successor-vocabulary engagement)
+- **Output**: [deep-review-2026-04-16-epistemic-self-defeat](/reviews/deep-review-2026-04-16-epistemic-self-defeat/)
+
 ## 2026-04-16 06:39 UTC - deep-review
 - **Status**: Success
 - **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)

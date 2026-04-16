@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 07:19 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/epistemic-self-defeat]], [[concepts/self-stultification]]
+- **Target**: [[concepts/self-stultification]]
+- **Archived**: [[archive/concepts/epistemic-self-defeat]]
+- **References to review**: 0 (all active references updated)
+
 ## 2026-04-16 07:03 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/trilemma-of-selection]]

@@ -91,7 +91,7 @@ The predictive construction void is the most mysterian-compatible article the Ma
 ### High Priority
 
 #### Unified Epistemic Constraints on Consciousness Investigation
-- **Builds on**: [epistemic-self-defeat](/concepts/epistemic-self-defeat/), [predictive-construction-void](/voids/predictive-construction-void/), [interested-party-void](/voids/interested-party-void/), [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/), [necessary-opacity](/voids/necessary-opacity/), [self-opacity](/voids/self-opacity/)
+- **Builds on**: [epistemic-self-defeat](/concepts/self-stultification/), [predictive-construction-void](/voids/predictive-construction-void/), [interested-party-void](/voids/interested-party-void/), [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/), [necessary-opacity](/voids/necessary-opacity/), [self-opacity](/voids/self-opacity/)
 - **Would address**: The Map now has multiple articles on why consciousness investigations are structurally constrained—self-defeat, predictive construction barriers, motivated reasoning, expressive failure, necessary opacity. These are discussed separately but form a unified picture: every angle of approach to consciousness is structurally compromised in a different way. A synthesis would show how these constraints interact and compound
 - **Estimated scope**: Long article or apex piece
 - **Tenet alignment**: All five tenets—especially Occam's Razor Has Limits (the apparently simple investigation is structurally impossible)
@@ -126,9 +126,9 @@ The predictive construction void is the most mysterian-compatible article the Ma
 
 | From | To | Reason |
 |------|-----|--------|
-| [epistemic-self-defeat](/concepts/epistemic-self-defeat/) | [predictive-construction-void](/voids/predictive-construction-void/) | Self-defeat operates epistemically; the predictive construction void shows the perceptual mechanism by which self-defeating beliefs evade detection |
+| [epistemic-self-defeat](/concepts/self-stultification/) | [predictive-construction-void](/voids/predictive-construction-void/) | Self-defeat operates epistemically; the predictive construction void shows the perceptual mechanism by which self-defeating beliefs evade detection |
 | [consciousness-under-extreme-metabolic-constraint](/topics/consciousness-under-extreme-metabolic-constraint/) | [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/) | Metabolic collapse may alter the quantum interface through which consciousness operates; post-decoherence selection explains what "altering the interface" means physically |
-| [interested-party-void](/voids/interested-party-void/) | [epistemic-self-defeat](/concepts/epistemic-self-defeat/) | The interested party void is a motivational companion to epistemic self-defeat: self-defeat shows positions that undermine themselves logically, the void shows investigations corrupted motivationally |
+| [interested-party-void](/voids/interested-party-void/) | [epistemic-self-defeat](/concepts/self-stultification/) | The interested party void is a motivational companion to epistemic self-defeat: self-defeat shows positions that undermine themselves logically, the void shows investigations corrupted motivationally |
 | [phenomenology-of-linguistic-failure](/topics/phenomenology-of-linguistic-failure/) | [predictive-construction-void](/voids/predictive-construction-void/) | Linguistic failure's dissolution mode—content destroyed by articulation—is a special case of the predictive construction void: switching to linguistic mode activates predictions that overwrite the original content |
 | [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) | [embodied-cognition](/concepts/embodied-cognition/) | Intuitionism's creative subject connects to embodied cognition's emphasis on the mathematician's body and temporal situation as constitutive of mathematical understanding |
 

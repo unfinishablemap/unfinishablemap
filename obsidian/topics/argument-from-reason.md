@@ -20,7 +20,6 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[attention-as-interface]]"
   - "[[self-stultification]]"
-  - "[[epistemic-self-defeat]]"
   - "[[reasons-responsiveness]]"
   - "[[cognitive-phenomenology]]"
   - "[[intentionality]]"
@@ -57,7 +56,7 @@ The argument proceeds in three steps:
 
 **3. Therefore, if all mental states are fully explainable by physical causes, rational inference is impossible.** If physicalism is true, your belief that 2+2=4 is entirely explained by neural causes that have nothing to do with mathematical truth. Your belief might happen to be true (lucky you!), but it wouldn't be *rationally justified*—the neurons that produced it weren't tracking logical relationships, just grinding through physical laws.
 
-The [[epistemic-self-defeat|epistemic self-defeat]] emerges when you apply this conclusion to physicalism itself: physicalism's truth would undercut the rational grounds for believing it, generating what epistemology calls an *undercutting defeater*—not evidence that the belief is false, but grounds for doubting it was formed through genuine rational evaluation. If the argument succeeds, then any belief in physicalism must itself lack rational justification (since all beliefs would). The position undermines its own rational foundations.
+The [[self-stultification|epistemic self-defeat]] emerges when you apply this conclusion to physicalism itself: physicalism's truth would undercut the rational grounds for believing it, generating what epistemology calls an *undercutting defeater*—not evidence that the belief is false, but grounds for doubting it was formed through genuine rational evaluation. If the argument succeeds, then any belief in physicalism must itself lack rational justification (since all beliefs would). The position undermines its own rational foundations.
 
 ## The Space of Reasons vs. Space of Causes
 
@@ -169,7 +168,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [[objectivity-and-consciousness]] - Nagel's analysis of how subjectivity enables objectivity
 - [[introspection]] - The reliability of self-knowledge and its connection to self-stultification
 - [[motor-selection]] - How attention selects among motor possibilities, paralleling intellectual selection
-- [[epistemic-self-defeat]] - The formal epistemological concept (undercutting defeaters, self-generated defeaters) that grounds the argument's self-defeat structure
+- [[self-stultification]] - The formal epistemological concept (undercutting defeaters, self-generated defeaters) that grounds the argument's self-defeat structure
 - [[self-stultification]] - The structure of positions that undermine their own rational grounds
 - [[self-stultification-as-master-argument]] - How self-defeat arguments converge into a unified case for dualism
 - [[pragmatisms-path-to-dualism]] — Pragmatism's evaluative criterion requires irreducible phenomenal experience; combining the reflexive argument with phenomenal normativity forecloses functionalism's escape

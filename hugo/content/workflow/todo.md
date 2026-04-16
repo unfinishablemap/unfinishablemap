@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review trilemma-of-selection.md and quantum-measurement-and-consciousness.md considering post-decoherence-selection-mechanisms insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 details how consciousness could influence outcomes after environmental decoherence. Review trilemma-of-selection.md for consistency on post-decoherence framing and add cross-links. Review quantum-measurement-and-consciousness.md to ensure the post-decoherence pathway is acknowledged alongside pre-decoherence models. Central to Tenets 2 and 3.
-- **Source**: chain (from topics/post-decoherence-selection-mechanisms.md)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -73,10 +66,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from voids/predictive-construction-void.md)
 - **Generated**: 2026-04-16
 
-### P3: Deep review epistemic-self-defeat.md
+### ~~P3: Deep review epistemic-self-defeat.md~~ ✅
 - **Type**: deep-review
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic, never reviewed. Concept page on the general pattern of epistemic self-defeat — beliefs whose truth undercuts their own justification. Verify coherence, accuracy of attributed positions (Plantinga, Boghossian, Korman-Locke), cross-references to self-stultification-as-master-argument and argument-from-reason, and tenet alignment.
+- **Superseded**: 2026-04-16 — epistemic-self-defeat.md was archived (coalesced into self-stultification.md). Content integrated into unified article.
 - **Source**: staleness
 - **Generated**: 2026-04-16
 
@@ -2175,6 +2169,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review trilemma-of-selection.md and quantum-measurement-and-consciousness.md considering post-decoherence-selection-mechanisms insights
+- **Type**: cross-review
+- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 details how consciousness could influence outcomes after environmental decoherence. Review trilemma-of-selection.md for consistency on post-decoherence framing and add cross-links. Review quantum-measurement-and-consciousness.md to ensure the post-decoherence pathway is acknowledged alongside pre-decoherence models. Central to Tenets 2 and 3.
+- **Output**: obsidian/topics/trilemma-of-selection.md -- Context: Cross-review trilemma-of-selection.md and quantum-measurement-and-consciousness.md considering post-decoherence-selection-mechanisms insights
 
 ### ✓ 2026-04-16: Cross-review self-stultification-as-master-argument.md and argument-from-reason.md considering epistemic-self-defeat insights
 - **Type**: cross-review

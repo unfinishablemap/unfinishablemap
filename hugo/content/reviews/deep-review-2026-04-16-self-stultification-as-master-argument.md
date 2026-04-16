@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-04-16
 **Article**: [Self-Stultification as Master Argument](/topics/self-stultification-as-master-argument/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-self-stultification-as-master-argument/)
-**Context**: Cross-review with [argument-from-reason](/topics/argument-from-reason/) and newly created [epistemic-self-defeat](/concepts/epistemic-self-defeat/) concept page, considering how the formal epistemological framework (undercutting defeaters, self-generated defeaters) grounds the master argument's self-defeat structure.
+**Context**: Cross-review with [argument-from-reason](/topics/argument-from-reason/) and newly created [epistemic-self-defeat](/concepts/self-stultification/) concept page, considering how the formal epistemological framework (undercutting defeaters, self-generated defeaters) grounds the master argument's self-defeat structure.
 
 ## Pessimistic Analysis Summary
 
@@ -54,11 +54,11 @@ All checks passed (no substantive content changes):
 - Pragmatist path connection
 
 ### Enhancements Made
-1. Added [epistemic-self-defeat](/concepts/epistemic-self-defeat/) wikilink at first mention in opening paragraph, providing readers access to the formal epistemological framework (undercutting defeaters, self-generated defeaters) that grounds the master argument
+1. Added [epistemic-self-defeat](/concepts/self-stultification/) wikilink at first mention in opening paragraph, providing readers access to the formal epistemological framework (undercutting defeaters, self-generated defeaters) that grounds the master argument
 2. Trimmed redundant phrasing in epiphenomenalist-threat paragraph for length neutrality
 
 ### Cross-links Added
-- [epistemic-self-defeat](/concepts/epistemic-self-defeat/) — bidirectional link completing the three-article reading path: epistemic-self-defeat (formal concept) → argument-from-reason (physicalism application) → self-stultification-as-master-argument (unified pattern)
+- [epistemic-self-defeat](/concepts/self-stultification/) — bidirectional link completing the three-article reading path: epistemic-self-defeat (formal concept) → argument-from-reason (physicalism application) → self-stultification-as-master-argument (unified pattern)
 
 ## Word Count
 - Before: 3105 words (103% of 3000 soft threshold)
@@ -79,7 +79,7 @@ Future reviews should NOT re-flag:
 - The trimmed epiphenomenalist-threat paragraph — deliberate length-neutral cut
 
 The three-article reading path is now fully cross-linked:
-- [epistemic-self-defeat](/concepts/epistemic-self-defeat/) → links to both argument-from-reason and self-stultification-as-master-argument
+- [epistemic-self-defeat](/concepts/self-stultification/) → links to both argument-from-reason and self-stultification-as-master-argument
 - [argument-from-reason](/topics/argument-from-reason/) → links to epistemic-self-defeat (updated today) and self-stultification-as-master-argument
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) → links to epistemic-self-defeat (this review) and argument-from-reason
 

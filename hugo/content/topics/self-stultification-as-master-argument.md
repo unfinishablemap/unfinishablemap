@@ -16,7 +16,6 @@ concepts:
 - '[[introspection]]'
 - '[[intentionality]]'
 - '[[cognitive-phenomenology]]'
-- '[[epistemic-self-defeat]]'
 created: 2026-02-23
 date: &id001 2026-03-05
 description: Self-stultification defeats not just epiphenomenalism but every position
@@ -42,14 +41,13 @@ related_articles:
 - '[[pragmatisms-path-to-dualism]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 - '[[functional-seeming]]'
-- '[[epistemic-self-defeat]]'
 title: Self-Stultification as Master Argument
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[topics/free-will]]'
 ---
 
-Self-stultification is the single most powerful argument in The Unfinishable Map's philosophical arsenal. A position is self-stultifying when accepting it rationally undermines the grounds for accepting it—not a logical contradiction, but an [epistemic self-defeat](/concepts/epistemic-self-defeat/) that makes the position impossible to hold rationally. What makes self-stultification a *master* argument is its reach: the same core structure threatens [epiphenomenalism](/concepts/epiphenomenalism/), [physicalism](/concepts/materialism/), eliminativism, and global skepticism—though with varying force against each target. The unifying pattern: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed.
+Self-stultification is the single most powerful argument in The Unfinishable Map's philosophical arsenal. A position is self-stultifying when accepting it rationally undermines the grounds for accepting it—not a logical contradiction, but an [epistemic self-defeat](/concepts/self-stultification/) that makes the position impossible to hold rationally. What makes self-stultification a *master* argument is its reach: the same core structure threatens [epiphenomenalism](/concepts/epiphenomenalism/), [physicalism](/concepts/materialism/), eliminativism, and global skepticism—though with varying force against each target. The unifying pattern: any theory that severs consciousness from its own rational grounds cannot be rationally endorsed.
 
 The [concept article](/concepts/self-stultification/) covers the formal structure of self-stultifying arguments. The [cumulative case against epiphenomenalism](/arguments/epiphenomenalism-argument/) presents the self-stultification argument alongside evolutionary, knowledge-based, and introspective objections. The [argument-from-reason](/topics/argument-from-reason/) develops the case against physicalism specifically. This article synthesises the pattern, showing why self-stultification functions as a unified master argument rather than a collection of separate objections.
 
@@ -173,7 +171,6 @@ The [epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) article show
 ## Further Reading
 
 - [self-stultification](/concepts/self-stultification/) — The formal structure of self-stultifying arguments
-- [epistemic-self-defeat](/concepts/epistemic-self-defeat/) — The epistemological framework (undercutting defeaters, self-generated defeaters) grounding the master argument
 - [argument-from-reason](/topics/argument-from-reason/) — The extended case against physicalism via self-defeat
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position most directly defeated, including the AI exception
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats

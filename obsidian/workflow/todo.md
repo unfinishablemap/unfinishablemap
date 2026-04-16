@@ -65,10 +65,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from voids/predictive-construction-void.md)
 - **Generated**: 2026-04-16
 
-### P3: Deep review epistemic-self-defeat.md
+### ~~P3: Deep review epistemic-self-defeat.md~~ ✅
 - **Type**: deep-review
-- **Status**: pending
+- **Status**: superseded
 - **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic, never reviewed. Concept page on the general pattern of epistemic self-defeat — beliefs whose truth undercuts their own justification. Verify coherence, accuracy of attributed positions (Plantinga, Boghossian, Korman-Locke), cross-references to self-stultification-as-master-argument and argument-from-reason, and tenet alignment.
+- **Superseded**: 2026-04-16 — epistemic-self-defeat.md was archived (coalesced into self-stultification.md). Content integrated into unified article.
 - **Source**: staleness
 - **Generated**: 2026-04-16
 

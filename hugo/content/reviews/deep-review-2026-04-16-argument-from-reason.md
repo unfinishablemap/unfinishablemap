@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-16
 **Article**: [The Argument from Reason](/topics/argument-from-reason/)
 **Previous review**: [2026-04-07 (cross-review: normativity follow-up)](/reviews/deep-review-2026-04-07b-argument-from-reason/)
-**Context**: Cross-review with [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) and newly created [epistemic-self-defeat](/concepts/epistemic-self-defeat/) concept page, considering how the formal epistemological framework strengthens the argument's self-defeat structure.
+**Context**: Cross-review with [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) and newly created [epistemic-self-defeat](/concepts/self-stultification/) concept page, considering how the formal epistemological framework strengthens the argument's self-defeat structure.
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 None. Article remains stable after eight prior reviews. All attributions verified (Lewis, Anscombe, Reppert, Plantinga, Hasker, Sellars, Goldman, Nagel, McGinn). No source/Map conflation, no dropped qualifiers, no misattributions.
 
 ### Medium Issues Found
-- **Missing cross-link to epistemic-self-defeat**: The newly created concept page (2026-04-16) formalises the undercutting defeater structure this article deploys. The article referenced [self-stultification](/concepts/self-stultification/) but lacked the epistemological grounding. Resolution: Added [epistemic-self-defeat](/concepts/epistemic-self-defeat/) to concepts frontmatter, introduced undercutting defeater terminology at the point where self-defeat is first discussed (core argument section), added to Further Reading.
+- **Missing cross-link to epistemic-self-defeat**: The newly created concept page (2026-04-16) formalises the undercutting defeater structure this article deploys. The article referenced [self-stultification](/concepts/self-stultification/) but lacked the epistemological grounding. Resolution: Added [epistemic-self-defeat](/concepts/self-stultification/) to concepts frontmatter, introduced undercutting defeater terminology at the point where self-defeat is first discussed (core argument section), added to Further Reading.
 
 ### Counterarguments Considered
 All six existing objections reviewed (circularity, evolution, AI, Sellars, mysterianism, Buddhist unity). No new counterarguments required. The epistemic-self-defeat concept's treatment of the externalist reply and modest retreat aligns with argument-from-reason's existing reliabilism section — no duplication needed.
@@ -50,7 +50,7 @@ All strengths from previous reviews intact: three-step core argument, fair relia
 2. **Length-neutral trim**: Tightened reliabilism conclusion paragraph to compensate for the addition
 
 ### Cross-links Added
-- [epistemic-self-defeat](/concepts/epistemic-self-defeat/) (concepts frontmatter + text + Further Reading)
+- [epistemic-self-defeat](/concepts/self-stultification/) (concepts frontmatter + text + Further Reading)
 
 ## Word Count
 - Before: 3482 words (116% of 3000 threshold)
