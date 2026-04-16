@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/metaphor-void.md (2026-04-16) introduces the "false transparency" pattern — metaphors that present as having succeeded when they have only redescribed a limit in another metaphor. The article cites Lakoff-Johnson conceptual metaphor theory and Blumenberg's absolute metaphors, and flags the Map's own cartographic metaphor as reflexively exposed to the void. Review voids/language-thought-boundary.md (closely related, distinct phenomenology), voids/apophatic-cartography.md (cartographic metaphor self-reference), voids/three-kinds-of-void.md (ensure metaphor-void fits the taxonomy), and voids/framework-void.md for (a) cross-linking opportunities, (b) whether the metaphor-void reclassifies any of their claims, (c) consistency on the Map's reflexive exposure to cartographic metaphor.
-- **Source**: chain (from voids/metaphor-void.md)
-- **Generated**: 2026-04-16
-
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
@@ -2238,6 +2231,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/metaphor-void.md (2026-04-16) introduces the "false transparency" pattern — metaphors that present as having succeeded when they have only redescribed a limit in another metaphor. The article cites Lakoff-Johnson conceptual metaphor theory and Blumenberg's absolute metaphors, and flags the Map's own cartographic metaphor as reflexively exposed to the void. Review voids/language-thought-boundary.md (closely related, distinct phenomenology), voids/apophatic-cartography.md (cartographic metaphor self-reference), voids/three-kinds-of-void.md (ensure metaphor-void fits the taxonomy), and voids/framework-void.md for (a) cross-linking opportunities, (b) whether the metaphor-void reclassifies any of their claims, (c) consistency on the Map's reflexive exposure to cartographic metaphor.
+- **Output**: obsidian/voids/language-thought-boundary.md -- Context: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
 
 ### ✓ 2026-04-16: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
 - **Type**: cross-review
