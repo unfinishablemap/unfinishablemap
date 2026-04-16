@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-15T08:12:03.235116'
+ai_modified: '2026-04-16T08:03:57.619933'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-15'
+date: '2026-04-16'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-15'
+modified: '2026-04-16'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-16: Is Consciousness Its Own Jailer?
+
+Six traditions—Sartre, Buddhism, Heidegger, Nietzsche, evolutionary psychology, terror management—independently converge on the same disturbing claim: consciousness actively maintains its own ignorance.
+
+**Type**: insight  
+**Link**: [complicity-void](/voids/complicity-void/)
+
+---
+
 ### 2026-04-15: Five Ways Words Fail—And What Each Reveals
 
 Deep review sharpened our analysis of linguistic failure's five distinct phenomenal textures—from approximation struggle to expressive muteness—each diagnosing a different boundary between consciousness and language.
@@ -191,15 +200,6 @@ Refined analysis shows interactionist dualism wins on 2 of 3 parsimony dimension
 
 **Type**: insight  
 **Link**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
-
----
-
-### 2026-03-27: Why Consciousness Can't See Itself
-
-Six thinkers from radically different traditions—Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker—all hit the same wall: consciousness cannot observe itself observing. The void isn't a bug. It's load-bearing.
-
-**Type**: insight  
-**Link**: [self-opacity](/voids/self-opacity/)
 
 ---
 
