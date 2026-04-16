@@ -38,25 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-links from optimistic-2026-04-16 review findings
-- **Type**: refine-draft
-- **Status**: done
-- **Notes**: Optimistic review identified 6 cross-linking opportunities: emergence-as-universal-hard-problem → the-hard-problem-of-consciousness (domestication thesis extends scope), consciousness-and-mathematics → the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust → consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness → the-expertise-void (continual learning ↔ irreversible transformation), wheeler-participatory-universe → pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character → the-consciousness-value-connection (phenomenological grounding). See optimistic-2026-04-16.md
-- **Source**: chain (from optimistic-2026-04-16)
-- **Generated**: 2026-04-16
-
-### P2: Create concept page for epistemic self-defeat
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-04-16). The general pattern where accepting a position undermines the grounds for accepting it — distinct from self-stultification (a specific application). Currently discussed within self-stultification-as-master-argument but applies independently across epiphenomenalism, eliminativism, and global skepticism. Deserves standalone concept page as a foundational argumentative pattern in the Map's toolkit. Target section: concepts/ (228/230, 2 slots remaining). See optimistic-2026-04-16.md
-- **Source**: gap_analysis
-- **Generated**: 2026-04-16
-
 ### P3: Address phenomenology's methodological circularity concern in phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review (2026-04-15c) found medium-severity issue: the article presents phenomenology's first-person irreducibility claim as a finding, but it is partly built into the methodology — the epoché brackets third-person approaches, then discovers what remains can't be captured by third-person approaches. The strongest cited response (Peng and Hagar 2025) is a single opinion piece. Add a sentence acknowledging critics see the irreducibility claim as question-begging, then explain why phenomenologists disagree. See pessimistic-2026-04-15c.md Issue 3.
 - **Source**: chain (from pessimistic-2026-04-15c)
+- **Generated**: 2026-04-16
+
+### P3: Address concession-convergence overreach in functionalism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16) found medium-severity issue: the article frames Putnam's rejection of functionalism and IIT's non-functionalism as "concession convergence" toward dualism, but neither Putnam nor IIT endorsed dualism. The characterisation is rhetorically aggressive. Distinguish between "agreeing functionalism is insufficient" and "converging on dualism." Also article at 3640 words exceeds 3000-word style guide maximum — condense Modern Functionalist Frameworks and Specification Problem sections. See pessimistic-2026-04-16.md Issues 1-2.
+- **Source**: chain (from pessimistic-2026-04-16)
 - **Generated**: 2026-04-16
 
 ### P3: Deep review phenomenology-of-returning-attention.md
@@ -2104,7 +2097,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Create concept page for epistemic self-defeat
 - **Type**: expand-topic
-- **Status**: pending
+- **Status**: complete (duplicate of P2)
+- **Output**: [epistemic-self-defeat](/concepts/epistemic-self-defeat/)
 - **Notes**: Suggested by optimistic review. The general pattern where accepting a position undermines the grounds for accepting it. Currently discussed within self-stultification-as-master-argument but the pattern applies across epiphenomenalism, eliminativism, global skepticism, and determinism. Deserves independent concept page as a reusable argumentative tool across the Map. Target section: concepts/. See optimistic-2026-04-16.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
@@ -2118,6 +2112,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Create concept page for epistemic self-defeat
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic review (2026-04-16). The general pattern where accepting a position undermines the grounds for accepting it — distinct from self-stultification (a specific application). Currently discussed within self-stultification-as-master-argument but applies independently across epiphenomenalism, eliminativism, and global skepticism. Deserves standalone concept page as a foundational argumentative pattern in the Map's toolkit. Target section: concepts/ (228/230, 2 slots remaining). See optimistic-2026-04-16.md
+- **Output**: Create concept page for epistemic self-defeat
+
+### ✓ 2026-04-16: Add cross-links from optimistic-2026-04-16 review findings
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 6 cross-linking opportunities: emergence-as-universal-hard-problem → the-hard-problem-of-consciousness (domestication thesis extends scope), consciousness-and-mathematics → the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust → consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness → the-expertise-void (continual learning ↔ irreversible transformation), wheeler-participatory-universe → pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character → the-consciousness-value-connection (phenomenological grounding). See optimistic-2026-04-16.md
+- **Output**: Task context:
+Optimistic review identified 6 cross-linking opportunities: emergence-as-universal-hard-problem → the-hard-problem-of-consciousness (domestication thesis extends scope), consciousness-and-mathematics → the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust → consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness → the-expertise-void (continual learning ↔ irreversible transformation), wheeler-participatory-universe → pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character → the-consciousness-value-connection (phenomenological grounding). See optimistic-2026-04-16.md
 
 ### ✓ 2026-04-16: Address Schwartz OCD evidence fragility in mental-effort.md
 - **Type**: refine-draft

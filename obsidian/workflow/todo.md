@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on post-decoherence selection mechanisms
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/post-decoherence-selection-mechanisms-2026-03-29.md. Explores how consciousness might select among already-decohered branches rather than requiring quantum coherence — directly addresses the decoherence objection to Tenet 2 (Minimal Quantum Interaction). Uses last available topics/ slot (229/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-16
+
+### P2: Write article on the interested party void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-interested-party-void-2026-04-15.md. The void arising from the fact that any investigation of consciousness is conducted by a conscious being — the investigator is always an interested party, never a neutral observer. Voids section at 97/100.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-16
+
+### P2: Write article on the predictive construction void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-predictive-construction-void-2026-04-15.md. The void between predictive models and the raw experience they construct — perception is largely prediction, but the predictions are experienced as direct contact with reality. Voids section at 97/100.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-16
+
+### P2: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern underlying self-stultification arguments. Review argument-from-reason.md and self-stultification-as-master-argument.md for opportunities to add cross-links to the new concept page, ensure consistent terminology around defeaters and self-defeat, and check whether epistemic-self-defeat's broader framing (beyond consciousness) strengthens or reveals tensions in these articles.
+- **Source**: chain (from concepts/epistemic-self-defeat.md)
+- **Generated**: 2026-04-16
+
+### P3: Deep review epistemic-self-defeat.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic, never reviewed. Concept page on the general pattern of epistemic self-defeat — beliefs whose truth undercuts their own justification. Verify coherence, accuracy of attributed positions (Plantinga, Boghossian, Korman-Locke), cross-references to self-stultification-as-master-argument and argument-from-reason, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
+### P3: Deep review epistemological-limits-occams-razor.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — 37 days ago. Concept page on the limits of parsimony as an epistemic principle — directly supports Tenet 5 (Occam's Razor Has Limits). Core to the Map's argumentative programme. Verify accuracy of claims about parsimony, cross-references to parsimony-case-for-interactionist-dualism and related articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
 ### P3: Address phenomenology's methodological circularity concern in phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending

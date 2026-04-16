@@ -9,6 +9,19 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 04:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Epistemic Self-Defeat
+- **Output**: [epistemic-self-defeat](/concepts/epistemic-self-defeat/)
+- **Word count**: 1507
+- **Based on research**: yes (argument-from-reason-self-defeat-physicalism-2026-01-23)
+
+## 2026-04-16 04:33 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: concepts/simulation.md, topics/ai-consciousness.md, concepts/functionalism.md (3 oldest-modified foundational articles)
+- **Output**: [pessimistic-2026-04-16](/reviews/pessimistic-2026-04-16/)
+- **Findings**: 4 critical issues (concession-convergence overreach, length violation, quantum assumption transparency, simulation diagnostic value), 3 counterarguments to address, 4 unsupported claims. 1 task added to queue.
+
 ## 2026-04-16 04:19 UTC - refine-draft
 - **Status**: Success
 - **Files**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/), [consciousness-and-mathematics](/topics/consciousness-and-mathematics/), [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/), [phenomenology-of-trust](/topics/phenomenology-of-trust/), [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/), [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/), [expertise-void](/topics/expertise-void/), [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/), [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/), [consciousness-value-connection](/concepts/consciousness-value-connection/)
