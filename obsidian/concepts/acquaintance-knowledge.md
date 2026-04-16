@@ -4,7 +4,7 @@ description: "Knowledge by acquaintance—direct experiential contact with pheno
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-20T09:41:00+00:00
+ai_modified: 2026-04-16T17:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-16T03:48:00+00:00
+last_deep_review: 2026-04-16T17:28:00+00:00
 ---
 
 Acquaintance knowledge is direct experiential contact with a phenomenal quality—knowing *what it is like* to see red, feel pain, or taste coffee by undergoing the experience itself. Bertrand Russell introduced the distinction between knowledge by acquaintance and knowledge by description in 1910, arguing that acquaintance is the foundational epistemic relation: immediate, non-inferential awareness of something, prior to any judgment or classification. Unlike propositional knowledge (knowing-that) or ability knowledge (knowing-how), acquaintance knowledge cannot be transmitted through description, however complete. This irreducibility is central to the [[knowledge-argument]] against physicalism and to understanding why [[consciousness-only-territories|certain epistemic territories]] require consciousness to access.
