@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 09:21 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (5699 to 5843)
+- **Findings**: 2 cadence (validate-all 83d stale, research-voids blocked by cap), 0 hard failures (13th consecutive), 5 queue (cap breaches, false positives, coalesce exhaustion), 3 review (pessimistic pipeline effective, convergence signals, orphan integration), 2 convergence (topics+voids over cap, concepts near cap)
+- **Tier 1 changes**: 0 applied (no tune_system_history section — 30th report)
+- **Tier 2 recommendations**: 10 logged (4 new: cap enforcement fix, gap analysis search scope, coalesce frequency reduction, plus carried forward)
+- **Key finding**: Section caps breached — topics 231/230, voids 102/100. Stale state counters now causing functional harm (cap enforcement reads 35 topics instead of 231).
+- **Output**: [[reviews/system-tune-2026-04-16]]
+
 ## 2026-04-16 09:14 UTC - apex-evolve
 - **Status**: Complete
 - **Article**: [[apex/altered-states-as-interface-evidence]]
