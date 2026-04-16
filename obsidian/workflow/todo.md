@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review trilemma-of-selection.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 introduces the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Review trilemma-of-selection.md to ensure the trilemma accounts for post-decoherence selection as a distinct option. Review comparing-quantum-consciousness-mechanisms.md to add post-decoherence selection as a compared mechanism and cross-link.
-- **Source**: chain (from topics/post-decoherence-selection-mechanisms.md)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2189,6 +2182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review trilemma-of-selection.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
+- **Type**: cross-review
+- **Notes**: New article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 introduces the proper/improper mixture distinction and three mechanistic proposals (von Neumann's movable cut, relocated Stapp, actualisation model). Review trilemma-of-selection.md to ensure the trilemma accounts for post-decoherence selection as a distinct option. Review comparing-quantum-consciousness-mechanisms.md to add post-decoherence selection as a compared mechanism and cross-link.
+- **Output**: obsidian/topics/trilemma-of-selection.md -- Context: Cross-review trilemma-of-selection.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
 
 ### ✓ 2026-04-16: Fix 8 broken wikilinks to [[epiphenomenalism-argument]]
 - **Type**: refine-draft
