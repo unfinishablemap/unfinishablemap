@@ -4,9 +4,9 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-04-08T06:05:00+00:00
+ai_modified: 2026-04-16T06:18:00+00:00
 draft: false
-last_deep_review: 2026-04-07T20:11:00+00:00
+last_deep_review: 2026-04-16T06:18:00+00:00
 topics:
   - "[[dualism]]"
   - "[[concepts/materialism]]"
@@ -20,6 +20,7 @@ concepts:
   - "[[stapp-quantum-mind]]"
   - "[[attention-as-interface]]"
   - "[[self-stultification]]"
+  - "[[epistemic-self-defeat]]"
   - "[[reasons-responsiveness]]"
   - "[[cognitive-phenomenology]]"
   - "[[intentionality]]"
@@ -56,7 +57,7 @@ The argument proceeds in three steps:
 
 **3. Therefore, if all mental states are fully explainable by physical causes, rational inference is impossible.** If physicalism is true, your belief that 2+2=4 is entirely explained by neural causes that have nothing to do with mathematical truth. Your belief might happen to be true (lucky you!), but it wouldn't be *rationally justified*—the neurons that produced it weren't tracking logical relationships, just grinding through physical laws.
 
-The [[self-stultification|self-defeat]] emerges when you apply this conclusion to physicalism itself. If the argument succeeds, then any belief in physicalism must itself lack rational justification (since all beliefs would). The position undermines its own rational foundations.
+The [[epistemic-self-defeat|epistemic self-defeat]] emerges when you apply this conclusion to physicalism itself: physicalism's truth would undercut the rational grounds for believing it, generating what epistemology calls an *undercutting defeater*—not evidence that the belief is false, but grounds for doubting it was formed through genuine rational evaluation. If the argument succeeds, then any belief in physicalism must itself lack rational justification (since all beliefs would). The position undermines its own rational foundations.
 
 ## The Space of Reasons vs. Space of Causes
 
@@ -78,7 +79,7 @@ This response is the strongest physicalist option, but it faces three significan
 
 **Third, reliability smuggles in teleology.** A process is reliable *relative to* producing true beliefs in *relevant* environments under *appropriate* conditions. But specifying relevance and appropriateness requires goal-directed thinking (teleology)—exactly what physical causation lacks. Efficient causation just chugs along; it doesn't aim at truth or select for relevant conditions.
 
-These challenges don't refute reliabilism, but they show it defers rather than dissolves the normativity problem. The question shifts from "how can physical processes be rational?" to "how can physical processes ground the normative standards that reliability requires?"—the same question in different dress.
+These challenges don't refute reliabilism, but they show it defers rather than dissolves the normativity problem—the same question in different dress.
 
 ## Why Consciousness Must Be Involved {#consciousness}
 
@@ -168,6 +169,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [[objectivity-and-consciousness]] - Nagel's analysis of how subjectivity enables objectivity
 - [[introspection]] - The reliability of self-knowledge and its connection to self-stultification
 - [[motor-selection]] - How attention selects among motor possibilities, paralleling intellectual selection
+- [[epistemic-self-defeat]] - The formal epistemological concept (undercutting defeaters, self-generated defeaters) that grounds the argument's self-defeat structure
 - [[self-stultification]] - The structure of positions that undermine their own rational grounds
 - [[self-stultification-as-master-argument]] - How self-defeat arguments converge into a unified case for dualism
 - [[pragmatisms-path-to-dualism]] — Pragmatism's evaluative criterion requires irreducible phenomenal experience; combining the reflexive argument with phenomenal normativity forecloses functionalism's escape

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern underlying self-stultification arguments. Review argument-from-reason.md and self-stultification-as-master-argument.md for opportunities to add cross-links to the new concept page, ensure consistent terminology around defeaters and self-defeat, and check whether epistemic-self-defeat's broader framing (beyond consciousness) strengthens or reveals tensions in these articles.
-- **Source**: chain (from concepts/epistemic-self-defeat.md)
-- **Generated**: 2026-04-16
-
 ### P3: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2153,6 +2146,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern underlying self-stultification arguments. Review argument-from-reason.md and self-stultification-as-master-argument.md for opportunities to add cross-links to the new concept page, ensure consistent terminology around defeaters and self-defeat, and check whether epistemic-self-defeat's broader framing (beyond consciousness) strengthens or reveals tensions in these articles.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
 
 ### ✓ 2026-04-16: Write article on the predictive construction void
 - **Type**: expand-topic
