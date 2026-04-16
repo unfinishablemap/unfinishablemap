@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 09:14 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/altered-states-as-interface-evidence]]
+- **Changed sources**: 10
+- **Word count**: 3310 → 3643
+- **Review**: [[reviews/apex-evolve-2026-04-16-altered-states-as-interface-evidence]]
+
 ## 2026-04-16 09:08 UTC - check-tenets
 - **Status**: Warnings
 - **Files checked**: 457
