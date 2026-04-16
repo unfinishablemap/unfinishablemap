@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[phenomenal-concepts-strategy]]"
 related_articles:
   - "[[tenets]]"
-  - "[[phenomenal-conservatism-and-introspective-evidence]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[consciousness-only-territories]]"
   - "[[pre-conceptual-knowing]]"
   - "[[modal-structure-of-phenomenal-properties]]"

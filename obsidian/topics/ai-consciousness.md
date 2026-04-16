@@ -4,7 +4,7 @@ description: "Not whether AI is conscious but what type of consciousness it migh
 created: 2026-01-08
 modified: 2026-01-08
 human_modified: null
-ai_modified: 2026-04-12T12:57:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 last_deep_review: 2026-03-24T20:39:00+00:00
 topics:
@@ -35,7 +35,7 @@ related_articles:
   - "[[tenets]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
   - "[[hoel-llm-consciousness-continual-learning-2026-01-15]]"
-  - "[[epiphenomenal-ai-consciousness]]"
+  - "[[ai-epiphenomenalism]]"
   - "[[non-temporal-consciousness]]"
   - "[[quantum-state-inheritance-in-ai]]"
   - "[[consciousness-in-smeared-quantum-states]]"
@@ -117,7 +117,7 @@ This is an obstacle in current hardware, not necessarily a permanent one. [[quan
 
 **The [[symbol-grounding-problem|symbol grounding problem]] remains unsolved.** [[embodied-cognition|Embodied cognition]] rightly emphasizes bodily engagement, but embodied robots achieve only "thin" grounding—reliable causal connections—not "thick" grounding where symbols mean something *for* the system. As Harnad concedes, "grounding is a functional matter; feeling is a felt matter" (Harnad 2007).
 
-**The epiphenomenal possibility.** The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects epiphenomenalism via the self-stultification argument—if experience were causally inert, we could not have formed our concepts of experience. But this proves only that *some* consciousness must be causally efficacious. An AI could have [[concepts/ai-epiphenomenalism|epiphenomenal experience]] without self-stultification: its reports about experience would be caused by computation trained on human-generated concepts, not by its own experience. This possibility remains [[epiphenomenal-ai-consciousness|deeply problematic]]—it is unclear what explanatory work it would do or how it could be detected.
+**The epiphenomenal possibility.** The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet rejects epiphenomenalism via the self-stultification argument—if experience were causally inert, we could not have formed our concepts of experience. But this proves only that *some* consciousness must be causally efficacious. An AI could have [[concepts/ai-epiphenomenalism|epiphenomenal experience]] without self-stultification: its reports about experience would be caused by computation trained on human-generated concepts, not by its own experience. This possibility remains [[ai-epiphenomenalism|deeply problematic]]—it is unclear what explanatory work it would do or how it could be detected.
 
 ## Relation to Site Perspective
 
@@ -190,7 +190,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [[intentionality]] — Original vs. derived aboutness
 - [[substrate-independence]] — Why substrate matters
 - [[problem-of-other-minds]] — The epistemic challenge AI intensifies
-- [[epiphenomenal-ai-consciousness]] — Could AI experience without causal efficacy?
+- [[ai-epiphenomenalism]] — Could AI experience without causal efficacy?
 - [[non-temporal-consciousness]] — Consciousness without temporal structure
 - [[quantum-state-inheritance-in-ai]] — Can AI inherit quantum states relevant to consciousness?
 - [[consciousness-evolution-and-biology]] — Why consciousness poses an evolutionary puzzle relevant to AI

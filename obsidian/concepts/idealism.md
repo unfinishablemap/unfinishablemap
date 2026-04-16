@@ -4,7 +4,7 @@ description: "Consciousness is fundamental; matter is derivative or appearance. 
 created: 2026-01-08
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-30T03:05:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ concepts:
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
   - "[[explanatory-gap]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[filter-theory]]"
   - "[[witness-consciousness]]"
   - "[[concepts/materialism]]"
@@ -174,7 +174,7 @@ This connects to [[filter-theory]]: if the brain filters consciousness rather th
 
 ## Existentialist Support for the Map's Position
 
-[[existentialism|Existentialist phenomenology]] provides resources for taking the dualist side. Sartre's analysis of the *pour-soi* (being-for-itself) reveals that consciousness is constitutively self-distanced—always aware of itself from a position of separation, never coinciding with its contents. This structure enables genuine choice.
+[[nihilism-and-existentialism|Existentialist phenomenology]] provides resources for taking the dualist side. Sartre's analysis of the *pour-soi* (being-for-itself) reveals that consciousness is constitutively self-distanced—always aware of itself from a position of separation, never coinciding with its contents. This structure enables genuine choice.
 
 The pour-soi's correlate is the *en-soi* (being-in-itself)—the mode of things that simply are what they are, solid and self-identical. Sartre's framework suggests consciousness requires objects that are genuinely other. The en-soi is not merely separate from the pour-soi; it is *indifferent* to it—it has no interiority to care with. Can one portion of universal consciousness be genuinely indifferent to another if both are fundamentally mind?
 
@@ -205,7 +205,7 @@ If forced to choose between idealism and physicalism, idealism is closer to the 
 - [[panpsychism]] — Another view taking consciousness as fundamental
 - [[interactionist-dualism]] — How consciousness and matter interact on the Map's view
 - [[explanatory-gap]] — The structural gap between physical and phenomenal description
-- [[existentialism]] — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
+- [[nihilism-and-existentialism]] — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
 - [[filter-theory]] — How dualism accommodates brain-consciousness correlation without production
 - [[witness-consciousness]] — Contemplative evidence both idealists and dualists cite
 - [[brain-interface-boundary]] — Why consciousness interfaces only with its own brain

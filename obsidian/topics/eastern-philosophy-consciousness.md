@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[buddhism-and-dualism]]"
   - "[[nihilism-and-existentialism]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[dream-consciousness]]"
   - "[[witness-consciousness]]"

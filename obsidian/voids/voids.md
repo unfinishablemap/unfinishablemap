@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-05T20:26:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -91,7 +91,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
 - [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
-- [[creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
+- [[imagination-and-creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
 - [[self-opacity|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
@@ -115,7 +115,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
 - [[explanatory-void|The Explanatory Void]] — Why explanation cannot explain itself
-- [[imagination-void|The Imagination Void]] — Where imagination's structural failures reveal the architecture of mind
+- [[imagination-and-creativity-void|The Imagination Void]] — Where imagination's structural failures reveal the architecture of mind
 - [[indexical-void|The Indexical Void]] — Why first-person identity resists explanation
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot opt out of itself
 - [[mind-space-void|The Mind-Space Void]] — Why we cannot locate ourselves in the space of possible minds

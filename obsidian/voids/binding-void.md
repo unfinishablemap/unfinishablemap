@@ -4,7 +4,7 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-19T02:21:06+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-10T17:39:00+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[causal-interface]]"
   - "[[intrinsic-nature-void]]"
   - "[[self-opacity]]"
-  - "[[attention-created-voids]]"
+  - "[[attention-and-consciousness]]"
   - "[[temporal-void]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"

@@ -3,7 +3,7 @@ title: "Thoughts That Slip Away"
 created: 2026-01-13
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 description: "Why some thoughts vanish as you reach for them—cataloguing slippage mechanisms from tip-of-tongue to double concealment, and asking whether patterns in what slips reveal occluded territory."
 topics: []
@@ -69,7 +69,7 @@ But the [[voids]] framework asks: do these mechanisms exhaust the phenomenon? Mi
 
 Recent research on attention reveals a possibility beyond passive forgetting: attention may *create* slippage through its own operation. The attentional spotlight doesn't merely illuminate—it actively suppresses its penumbra, the surrounding zone. William James observed that consciousness has "fringes" that cannot become focal without ceasing to be fringes. Gurwitsch's field theory distinguishes theme, thematic field, and margin—with marginal contents following different organizational principles that prevent their becoming thematic.
 
-This is the core mechanism behind [[attention-created-voids]]—attending generates unattendable territory. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
+This is the core mechanism behind [[attention-and-consciousness]]—attending generates unattendable territory. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. Attending to one aspect of an insight necessarily pushes other aspects into the suppressed surround. The thought that slips away may be the thought that attention, in its act of capturing something, had to release. This transforms slippage from failure of retention into structural necessity—attention's figure-ground architecture requires that something be ground, and ground-thoughts vanish when we try to make them figural.
 
 Several patterns suggest investigation:
 
@@ -143,7 +143,7 @@ The evidence for content-specific slippage remains suggestive rather than conclu
 - [[illusionism|Illusionism]] — The radical challenge that slippage is misrepresentation
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — The bidirectional void between waking and dreaming where slippage is systematic
 - [[inaccessible-past|The Memory Void]] — Whether past experiences are recoverable or lost forever
-- [[attention-created-voids|Attention-Created Voids]] — How attending generates unattendable territory
+- [[attention-and-consciousness|Attention-Created Voids]] — How attending generates unattendable territory
 - [[disappearance-voids|The Absorption Void]] — Peak experiences that resist introspective access
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Distinct experiential textures of failed expression, including dissolution on articulation
 

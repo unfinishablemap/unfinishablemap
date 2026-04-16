@@ -4,7 +4,7 @@ description: "How does consciousness act on matter? Through attention—a bandwi
 created: 2026-02-14
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-03T22:56:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-30T00:52:00+00:00
 draft: false
 topics:
@@ -133,7 +133,7 @@ What AST gets right—and the Map acknowledges this—is that the brain almost c
 
 ## The Void at Attention's Core
 
-Every interface has limits. [[attention-created-voids|Attention creates voids]] as a structural necessity—to attend to anything is to render something else unattendable. Gestalt psychology's figure-ground relation, Husserl's thematic field and margin, James's unfocusable fringes—all point to the same structure: the periphery cannot be promoted to the centre without creating a new periphery.
+Every interface has limits. [[attention-and-consciousness|Attention creates voids]] as a structural necessity—to attend to anything is to render something else unattendable. Gestalt psychology's figure-ground relation, Husserl's thematic field and margin, James's unfocusable fringes—all point to the same structure: the periphery cannot be promoted to the centre without creating a new periphery.
 
 The bandwidth constraint is not a design flaw to be overcome but a constitutive feature of selective engagement. A consciousness that could attend to everything simultaneously would not be attending at all; it would be something categorically different. Agency is real but bounded—not by lack of will, but by the structure of the bridge through which will operates.
 
@@ -188,4 +188,4 @@ This apex article synthesises:
 - [[structure-of-attention|The Structure of Attention]] — The three-mode architecture identifying where consciousness contributes
 - [[attention-and-the-consciousness-interface|Attention and the Consciousness Interface]] — Dissociation evidence, selection mechanisms, clinical evidence, and the AST critique unified
 - [[phenomenology-of-returning-attention|Phenomenology of Returning Attention]] — Micro-phenomenological analysis of bidirectional interaction
-- [[attention-created-voids|Attention-Created Voids]] — The structural limits of attentional engagement
+- [[attention-and-consciousness|Attention-Created Voids]] — The structural limits of attentional engagement

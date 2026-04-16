@@ -4,7 +4,7 @@ description: "Walking away from a problem sometimes helps solve it. The incubati
 created: 2026-02-10
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -80,7 +80,7 @@ Stepping away shifts the brain from ECN-dominant focused attention to DMN-domina
 
 The claim here is about *phenomenal* consciousness — the experiential dimension — not merely [[global-workspace-theory|global workspace]] access. A physicalist might reinterpret "conscious preparation" as "information entering the global workspace," but the dream evidence (discussed in the next section) shows that *phenomenal mode* matters: REM dreaming produces creative benefits that NREM sleep does not, even though both involve brain-wide information processing. What distinguishes the effective state is the presence of experience, not just neural architecture.
 
-The [[consciousness-and-creative-distinctiveness#Network Switching|network switching mechanism]] is central here. Creative ability correlates not with DMN or ECN activity alone but with the capacity to dynamically switch between them. Incubation provides a natural switch from ECN to DMN. But the switch is only productive because the ECN phase — conscious, effortful problem engagement — has already structured what the DMN explores.
+The [[consciousness-and-cognitive-distinctiveness#Network Switching|network switching mechanism]] is central here. Creative ability correlates not with DMN or ECN activity alone but with the capacity to dynamically switch between them. Incubation provides a natural switch from ECN to DMN. But the switch is only productive because the ECN phase — conscious, effortful problem engagement — has already structured what the DMN explores.
 
 ### Return and Selection (Conscious)
 

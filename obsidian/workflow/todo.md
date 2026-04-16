@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix stale wikilinks to 3 archived articles (45 files affected)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 16 archived slugs are still referenced from active content. Top 3: (1) [[creativity-void]] → [[imagination-and-creativity-void]] in 18 files, (2) [[existentialism]] → [[nihilism-and-existentialism]] in 14 files, (3) [[epiphenomenal-ai-consciousness]] → [[ai-epiphenomenalism]] in 13 files. Each archived article has `superseded_by` pointing to the replacement. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ only.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-16
-
 ### P2: Deep review phenomenology-of-the-edge.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2124,6 +2117,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Fix stale wikilinks to 3 archived articles (45 files affected)
+- **Type**: refine-draft
+- **Notes**: 16 archived slugs are still referenced from active content. Top 3: (1) [[creativity-void]] → [[imagination-and-creativity-void]] in 18 files, (2) [[existentialism]] → [[nihilism-and-existentialism]] in 14 files, (3) [[epiphenomenal-ai-consciousness]] → [[ai-epiphenomenalism]] in 13 files. Each archived article has `superseded_by` pointing to the replacement. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ only.
+- **Output**: Task context:
+16 archived slugs are still referenced from active content. Top 3: (1) [[creativity-void]] → [[imagination-and-creativity-void]] in 18 files, (2) [[existentialism]] → [[nihilism-and-existentialism]] in 14 files, (3) [[epiphenomenal-ai-consciousness]] → [[ai-epiphenomenalism]] in 13 files. Each archived article has `superseded_by` pointing to the replacement. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ only.
 
 ### ✓ 2026-04-16: Deep review emotional-epistemology-void.md
 - **Type**: deep-review

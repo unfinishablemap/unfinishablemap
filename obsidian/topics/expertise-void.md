@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience, c
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-28T01:23:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[expertise-occlusion]]"
   - "[[disappearance-voids]]"
   - "[[biological-cognitive-closure]]"
-  - "[[creativity-void]]"
+  - "[[imagination-and-creativity-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[consciousness-and-skill-acquisition]]"
@@ -109,7 +109,7 @@ The expertise void also connects to the [[biological-cognitive-closure|developme
 - [[disappearance-voids|The Absorption Void]]
 - [[disappearance-voids|The Habituation Void]]
 - [[biological-cognitive-closure]]
-- [[creativity-void]]
+- [[imagination-and-creativity-void]]
 - [[three-kinds-of-void]]
 - [[pre-conceptual-knowing]]
 - [[voids]]

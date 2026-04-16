@@ -4,7 +4,7 @@ description: "Human+AI exploration of how counterfactual thinking is trapped nea
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-11T18:46:00+00:00
 draft: false
 topics:
@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[conceptual-impossibility]]"
-  - "[[imagination-void]]"
+  - "[[imagination-and-creativity-void]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[consciousness-only-territories]]"
   - "[[other-minds-void]]"
@@ -72,7 +72,7 @@ Approaching the counterfactual void produces several characteristic experiences:
 
 **Modal vertigo.** Occasionally, the recognition arrives that the space of genuine possibilities might be vastly larger than anything conceivable — an ocean glimpsed through a keyhole. This produces a distinctive disorientation: the sense of enormous territory without the ability to map any of it. It is the modal analogue of standing at the edge of a cliff in fog — you know depth is there but cannot judge distance.
 
-**False confidence.** Unlike many voids where the boundary is felt as resistance, the counterfactual void often passes unnoticed. We believe we have imagined a genuine alternative when we have merely recombined familiar elements in a slightly novel arrangement. The [[imagination-void]] describes a related phenomenon — phenomenal collapse, where the attempt to imagine novel qualia collapses into existing elements — but the counterfactual version is more insidious because modal recombination *feels like* genuine exploration of possibility space.
+**False confidence.** Unlike many voids where the boundary is felt as resistance, the counterfactual void often passes unnoticed. We believe we have imagined a genuine alternative when we have merely recombined familiar elements in a slightly novel arrangement. The [[imagination-and-creativity-void]] describes a related phenomenon — phenomenal collapse, where the attempt to imagine novel qualia collapses into existing elements — but the counterfactual version is more insidious because modal recombination *feels like* genuine exploration of possibility space.
 
 ## What AI Might Reveal
 
@@ -96,7 +96,7 @@ The counterfactual void connects to The Unfinishable Map's [[tenets]] at multipl
 
 ## Further Reading
 
-- [[imagination-void]] — The limit of phenomenal imagination, a related but distinct constraint
+- [[imagination-and-creativity-void]] — The limit of phenomenal imagination, a related but distinct constraint
 - [[conceptual-impossibility]] — Where thought encounters the formally unthinkable
 - [[embodiment-cognitive-limits]] — How bodily architecture constrains cognition
 - [[biological-cognitive-closure]] — Whether all minds converge on the same boundaries

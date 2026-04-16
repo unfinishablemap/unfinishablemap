@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-11T16:56:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[necessary-opacity]]"
   - "[[constitutive-exclusion]]"
   - "[[causal-interface]]"
-  - "[[creativity-void]]"
+  - "[[imagination-and-creativity-void]]"
   - "[[involuntariness-void]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[recognition-void]]"
@@ -155,7 +155,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [[topics/free-will|Free Will]] — The broader context for questions of agency
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot control its own states
-- [[creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
+- [[imagination-and-creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
 - [[projection-void|The Projection Void]] — Why consciousness cannot observe its own extension into tools, space, and other minds
 - [[witness-consciousness|Witness Consciousness]] — The observer mode in contemplative traditions
 - [[constitutive-exclusion|The Constitutive Exclusion]] — The broader structural limit of which self-reference is a special case

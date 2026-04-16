@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-05T22:11:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 last_deep_review: 2026-04-05T22:11:00+00:00
 topics:
@@ -56,7 +56,7 @@ related_articles:
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[consciousness-and-mathematics]]"
-  - "[[creativity-void]]"
+  - "[[imagination-and-creativity-void]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-agency-vs-passivity]]"

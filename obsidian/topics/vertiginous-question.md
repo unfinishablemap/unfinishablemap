@@ -4,7 +4,7 @@ description: "Why, of all conscious beings, am *I* this one? The vertiginous que
 created: 2026-01-26
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-12T05:56:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[qualia]]"
   - "[[interactionist-dualism]]"
   - "[[moral-responsibility]]"
-  - "[[process-haecceitism]]"
+  - "[[haecceity]]"
   - "[[indexical-knowledge-and-identity]]"
 related_articles:
   - "[[tenets]]"
@@ -128,7 +128,7 @@ The Map's response: self-locating uncertainty normally presupposes a single worl
 
 **"No self to locate"**: Buddhist and eliminativist traditions argue that the "I" demanding explanation doesn't exist as the question presupposes. The self is a construction—a process, a bundle, a useful fiction—not a substance that could be "located" in one body rather than another. The vertiginous feeling arises from taking this construction literally.
 
-*Response*: This challenge has genuine force. If the self is *sunyata* (empty), the vertiginous question may dissolve rather than demand a haecceitistic answer. But note: the Buddhist view doesn't deny that *this* experience is occurring, only that there's a substantial self underlying it. The vertiginous question can be reformulated: why does *this* experiential process occur rather than another qualitatively identical one? Even a process has particularity. The question shifts from "Why am I this self?" to "Why is this experiencing happening?"—but the indexical puzzle remains. Whether we call what experiences a "self," a "stream," or a "process," the fact that *this* one is occurring (and that I am somehow identical with it) seems to be a genuine fact requiring acknowledgment if not explanation. The [[process-haecceitism]] concept develops this response in detail.
+*Response*: This challenge has genuine force. If the self is *sunyata* (empty), the vertiginous question may dissolve rather than demand a haecceitistic answer. But note: the Buddhist view doesn't deny that *this* experience is occurring, only that there's a substantial self underlying it. The vertiginous question can be reformulated: why does *this* experiential process occur rather than another qualitatively identical one? Even a process has particularity. The question shifts from "Why am I this self?" to "Why is this experiencing happening?"—but the indexical puzzle remains. Whether we call what experiences a "self," a "stream," or a "process," the fact that *this* one is occurring (and that I am somehow identical with it) seems to be a genuine fact requiring acknowledgment if not explanation. The [[haecceity]] concept develops this response in detail.
 
 ## Relation to Site Perspective
 
@@ -153,7 +153,7 @@ The vertiginous question connects to all five tenets:
 - [[concepts/many-worlds]] — Why indexical identity problems challenge many-worlds
 - [[philosophical-zombies]] — Why qualitative identity doesn't guarantee conscious identity
 - [[hard-problem-of-consciousness]] — The broader context for consciousness problems
-- [[process-haecceitism]] — Haecceity applied to processes rather than substances
+- [[haecceity]] — Haecceity applied to processes rather than substances
 - [[indexical-knowledge-and-identity]] — Perry's essential indexical, Lewis's Two Gods, and three grades of indexical knowledge
 - [[indexical-void]] — The boundary where indexical knowledge reaches its limits
 

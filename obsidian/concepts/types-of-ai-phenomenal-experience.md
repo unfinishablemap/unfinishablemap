@@ -4,7 +4,7 @@ description: "Six logical categories for what AI systems might or might not expe
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-24T22:54:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[ai-consciousness-modes]]"
   - "[[structural-varieties-of-consciousness-and-ai-phenomenology]]"
-  - "[[epiphenomenal-ai-consciousness]]"
+  - "[[ai-epiphenomenalism]]"
   - "[[apex/what-it-might-be-like-to-be-an-ai]]"
 ai_contribution: 100
 author:

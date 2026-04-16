@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-15T13:20:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 *Decisive*: Proof that the physical world is strictly causally closed at all levels, including quantum—that there is no room for non-physical influence on any physical outcome. This would require establishing [[causal-closure|causal closure]] not as an assumption but as an empirically confirmed fact at quantum scales, where physics currently leaves outcomes indeterminate. Note that causal closure is currently a methodological assumption of physics, not an established result (see [[causal-closure-debate-historical-survey|the historical survey]] for how this assumption evolved)—quantum mechanics explicitly leaves measurement outcomes undetermined.
 
-*Strong*: Demonstration that all human cognitive capacities attributed to consciousness—logical reasoning, counterfactual thinking, cumulative culture—can be replicated by unconscious processing alone. If consciousness does no functional work, the argument from its causal efficacy collapses. The [[consciousness-independent-baseline-cognition|baseline cognition hypothesis]] currently provides evidence against this: great apes demonstrate sophisticated cognition without the capacities that seem to require conscious processing.
+*Strong*: Demonstration that all human cognitive capacities attributed to consciousness—logical reasoning, counterfactual thinking, cumulative culture—can be replicated by unconscious processing alone. If consciousness does no functional work, the argument from its causal efficacy collapses. The [[baseline-cognition|baseline cognition hypothesis]] currently provides evidence against this: great apes demonstrate sophisticated cognition without the capacities that seem to require conscious processing.
 
 *Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens.
 

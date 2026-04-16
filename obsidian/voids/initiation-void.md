@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot witness its own b
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-05T20:55:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[necessary-opacity]]"
   - "[[transition-void]]"
   - "[[self-opacity]]"
-  - "[[creativity-void]]"
+  - "[[imagination-and-creativity-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -99,7 +99,7 @@ The initiation void is distinct from but related to several neighbouring voids. 
 - [[necessary-opacity]]
 - [[transition-void]]
 - [[self-opacity]]
-- [[creativity-void]]
+- [[imagination-and-creativity-void]]
 - [[three-kinds-of-void]]
 
 ## References

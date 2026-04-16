@@ -4,7 +4,7 @@ description: "Knowledge expressible only as 'I', 'here', 'now'—irreducible to 
 created: 2026-01-27
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-04-15T14:36:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[vertiginous-question]]"
@@ -105,7 +105,7 @@ Pattern-identity theories (following [[parfit-reductionism|Parfit]]) hold that p
 
 The connection to [[haecceity]] runs deep. Haecceity is primitive "thisness" that makes something *this* particular thing rather than another qualitatively identical thing. Robert Adams argued that "primitive thisness" cannot be reduced to general properties. Self-locating knowledge tracks haecceitistic facts—the fact that *I* am this subject, that *this* experience is happening to me.
 
-Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists. [[process-haecceitism|Process haecceitism]] shows that this particularity need not require a permanent soul-substance—haecceity can apply to experiential *processes*, grounding indexical identity without permanence.
+Teleportation thought experiments sharpen the point. If you are scanned, destroyed, and reconstructed on Mars, the replica has all your qualitative properties. The question is whether *you*—this subject—survive. Self-locating knowledge brings out what's at stake: not whether a qualitative duplicate exists, but whether the indexical continuity persists. [[haecceity|Process haecceitism]] shows that this particularity need not require a permanent soul-substance—haecceity can apply to experiential *processes*, grounding indexical identity without permanence.
 
 ## The Sleeping Beauty Problem
 

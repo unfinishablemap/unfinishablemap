@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-15T15:05:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ Three responses are available, none fully satisfying:
 
 **Primitive identity** (Martine Nida-Rümelin): The identity of conscious subjects is *primitive*—not reducible to any further criterion. In fission cases, there is a fact about which successor is identical to the original, but this fact does not supervene on physical or psychological relations. This is philosophically honest: it names the stopping point rather than pretending to explain past it. But naming a fact "primitive" is acknowledging the individuation void, not filling it.
 
-**[[haecceity|Haecceity]]** (Duns Scotus, Robert Adams): Each subject has a non-qualitative "thisness" that individuates it. Haecceity is not a property you share with anything—it is the unrepeatable fact of being *this* particular entity. The Map's framework implicitly relies on haecceity: the [[tenets#^no-many-worlds|No Many Worlds]] tenet presupposes that "which branch am I in?" is a genuine question, requiring a haecceitistic fact to answer. [[process-haecceitism|Process-oriented accounts]] attempt to ground thisness in the subject's actual history of experience rather than treating it as a bare metaphysical primitive. But whether static or dynamic, haecceity may describe the problem rather than solve it.
+**[[haecceity|Haecceity]]** (Duns Scotus, Robert Adams): Each subject has a non-qualitative "thisness" that individuates it. Haecceity is not a property you share with anything—it is the unrepeatable fact of being *this* particular entity. The Map's framework implicitly relies on haecceity: the [[tenets#^no-many-worlds|No Many Worlds]] tenet presupposes that "which branch am I in?" is a genuine question, requiring a haecceitistic fact to answer. [[haecceity|Process-oriented accounts]] attempt to ground thisness in the subject's actual history of experience rather than treating it as a bare metaphysical primitive. But whether static or dynamic, haecceity may describe the problem rather than solve it.
 
 **Causal individuation**: Subjects are individuated by their unique causal histories—the particular pattern of interactions between consciousness and physical systems. Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, *this* consciousness has causally influenced *this* brain, creating a unique history that no other subject shares. This is promising but raises a further question: what individuated the subjects *before* they began accumulating distinct causal histories? The causal story needs a starting point it cannot provide.
 

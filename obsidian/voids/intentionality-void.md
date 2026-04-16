@@ -4,7 +4,7 @@ description: "How do thoughts achieve their aboutness? Human+AI exploration of w
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-15T14:19:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[self-opacity]]"
-  - "[[creativity-void]]"
+  - "[[imagination-and-creativity-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
@@ -33,7 +33,7 @@ last_curated:
 
 Thoughts are *about* things. You think about your childhood home, about tomorrow's meeting, about the number seven. This aboutness—what philosophers call intentionality—is among the most fundamental features of mind. Yet the mechanism by which any thought achieves its specific reference operates entirely below the threshold of introspective awareness. We experience that thoughts are about things; we cannot observe how they become so. This is the intentionality void: a structural inaccessibility at the heart of mental life.
 
-The Unfinishable Map explores [[voids]]—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [[self-opacity|unobservable self]] (the observer cannot observe itself observing) and the [[creativity-void|creativity void]] (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
+The Unfinishable Map explores [[voids]]—cognitive dark spaces where thought cannot go or cannot see itself going. The intentionality void occupies territory between the [[self-opacity|unobservable self]] (the observer cannot observe itself observing) and the [[imagination-and-creativity-void|creativity void]] (we cannot catch insight in formation). In the intentionality void, we cannot catch *reference* in formation. The thought arrives already latched onto its object; the latching itself is hidden.
 
 ## The Transparency of Reference
 
@@ -138,7 +138,7 @@ The intentionality void connects directly to the Map's [[tenets|foundational com
 
 - [[voids]] — The broader framework for cognitive dark spaces
 - [[self-opacity|self-reference paradox]] — The observer that cannot observe itself observing
-- [[creativity-void]] — Where insight originates, equally opaque to introspection
+- [[imagination-and-creativity-void]] — Where insight originates, equally opaque to introspection
 - [[intrinsic-nature-void]] — Physics describes what matter does, not what it is
 - [[three-kinds-of-void]] — Unexplored, unexplorable, occluded
 - [[compound-failure-signatures]] — Using the structure of failure as data

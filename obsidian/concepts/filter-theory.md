@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-15T16:51:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ concepts:
   - "[[dream-consciousness]]"
   - "[[brain-interface-boundary]]"
   - "[[measurement-problem]]"
-  - "[[terminal-lucidity]]"
+  - "[[terminal-lucidity-and-filter-transmission-theory]]"
   - "[[death-and-consciousness]]"
   - "[[illusionism]]"
   - "[[baseline-cognition]]"

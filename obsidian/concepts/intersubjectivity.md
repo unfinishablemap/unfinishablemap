@@ -4,7 +4,7 @@ description: "The shared space between minds: how first-person experience can be
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-04-07T06:52:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -76,7 +76,7 @@ Alternative explanations deserve acknowledgment. Cross-tradition contact may pro
 
 However, the convergence extends beyond categories to include *structural relationships* between states. Independent traditions converge not merely on identifying concentration and insight as distinct but on the relationship between them—that concentration enables insight, that insight destabilises concentration, that both can operate independently. Shared interpretive frameworks can align categories, but converging independently on the same dynamic relationships suggests practitioners are tracking genuine phenomenological features. The evidence remains contested, but the relational specificity strengthens the case for phenomenological tracking over mere conceptual alignment.
 
-Third-person neuroscience corroborates this convergence. States that meditators describe similarly correlate with similar neural signatures—gamma synchrony, default mode network modulation, frontal-parietal coherence. The gamma synchrony finding (Lutz et al., 2004) has been replicated across multiple laboratories and contemplative traditions, strengthening confidence that intersubjective phenomenological reports track genuine states. [[neurophenomenology#Contemplative Science|Mutual constraint]] between first-person phenomenology and third-person measurement reveals structures that neither perspective alone would discover.
+Third-person neuroscience corroborates this convergence. States that meditators describe similarly correlate with similar neural signatures—gamma synchrony, default mode network modulation, frontal-parietal coherence. The gamma synchrony finding (Lutz et al., 2004) has been replicated across multiple laboratories and contemplative traditions, strengthening confidence that intersubjective phenomenological reports track genuine states. [[neurophenomenology-and-contemplative-neuroscience#Contemplative Science|Mutual constraint]] between first-person phenomenology and third-person measurement reveals structures that neither perspective alone would discover.
 
 ## The Discourse Argument
 

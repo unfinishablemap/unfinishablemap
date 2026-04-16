@@ -4,11 +4,11 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-20T20:14:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[fragmented-consciousness]]"
+  - "[[split-brain-consciousness]]"
 concepts:
   - "[[mind-matter-interface]]"
   - "[[phenomenal-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[pain-asymbolia]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[altered-states-as-interface-evidence]]"
-  - "[[fragmented-consciousness]]"
+  - "[[split-brain-consciousness]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
 ai_contribution: 100
@@ -49,7 +49,7 @@ Modern clinical dissociation spans a spectrum from normal (absorption in a novel
 
 DID presents the philosophically sharpest case. Distinct personality states maintain separate experiential streams, autobiographical memories, and self-concepts within a single anatomically intact brain. Some alters report no awareness of others' experiences. EEG and fMRI studies reveal measurable differences between alter states—different autonomic responses, different neural activation patterns, different perceptual processing—yet no structural brain lesion accounts for the separation.
 
-The physicalist reading: DID shows that one brain can produce multiple conscious subjects, proving consciousness is a product of brain organisation. The dualist reading—developed in the Map's [[fragmented-consciousness]] article—holds that a single non-physical mind expressing itself through a trauma-disrupted interface produces fragmented output without fragmented consciousness. The alters may represent different configurations of the interface rather than different minds.
+The physicalist reading: DID shows that one brain can produce multiple conscious subjects, proving consciousness is a product of brain organisation. The dualist reading—developed in the Map's [[split-brain-consciousness]] article—holds that a single non-physical mind expressing itself through a trauma-disrupted interface produces fragmented output without fragmented consciousness. The alters may represent different configurations of the interface rather than different minds.
 
 Evidence favours the interface reading in one important respect. DID patients do not lose total information capacity—they lose *integration* of information across states. Individual alters often show normal cognitive function within their own state, despite measurable differences in neural activation patterns between states (Reinders et al., 2003). What breaks is the unity of access: one alter cannot reach another's memories or experiences, though both draw on the same neural hardware. The altered connectivity between states is selective—it disrupts cross-state integration while preserving within-state function. This pattern of selective disconnection maps onto interface channel disruption rather than general processing degradation.
 
@@ -124,7 +124,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 
 - [[altered-states-as-interface-evidence]] — Apex synthesis: five altered states converging on the same multi-channel interface architecture
 - [[neurological-dissociations-as-interface-architecture]] — How structural brain damage maps the same interface channels
-- [[fragmented-consciousness]] — The broader fragmentation question and dualist responses
+- [[split-brain-consciousness]] — The broader fragmentation question and dualist responses
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological disruption of cortical integration and the interface model
 - [[split-brain-consciousness]] — The paradigm bilateral disconnection case
 - [[pain-asymbolia]] — Affective channel dissociation through neurological damage

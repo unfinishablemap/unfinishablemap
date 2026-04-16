@@ -4,7 +4,7 @@ description: "How the felt character of being in a place—atmosphere, familiari
 created: 2026-02-19
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-02T03:38:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[consciousness-as-perceptual-architect]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[intentionality]]"
   - "[[visual-consciousness]]"
   - "[[intersubjectivity]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[attention-as-interface]]"
 related_articles:
   - "[[embodiment-cognitive-limits]]"
@@ -64,7 +64,7 @@ A functionalist might respond that atmospheric perception is simply multi-modal 
 
 ## Dwelling and the Heidegger Problem
 
-Heidegger's concept of *Dasein* — being-there, always already situated in a meaningful world — emphasises that consciousness is never placeless. As the [[existentialism]] article explores, Heidegger resisted reducing consciousness to an object among objects. For Heidegger, *dwelling* (*Wohnen*) names the way human beings inhabit the world not as containers hold contents but as care structures meaning. The distinction between [[authentic-vs-inauthentic-choice|authentic and inauthentic]] dwelling matters here: genuinely inhabiting a place — letting it shape and be shaped by one's projects — differs from merely occupying space.
+Heidegger's concept of *Dasein* — being-there, always already situated in a meaningful world — emphasises that consciousness is never placeless. As the [[nihilism-and-existentialism]] article explores, Heidegger resisted reducing consciousness to an object among objects. For Heidegger, *dwelling* (*Wohnen*) names the way human beings inhabit the world not as containers hold contents but as care structures meaning. The distinction between [[authentic-vs-inauthentic-choice|authentic and inauthentic]] dwelling matters here: genuinely inhabiting a place — letting it shape and be shaped by one's projects — differs from merely occupying space.
 
 This carries implications for the Map's position. If consciousness is always placed — always somewhere, oriented, situated — then the placeless, disembodied mind of Cartesian dualism requires revision. The Map's commitment to [[interactionist-dualism]] does not require a mind detached from the world. Rather, consciousness interfaces with the physical through embodied, situated engagement. The body in its environment provides the [[attention-as-interface|interface]] through which mind and matter meet.
 
@@ -116,7 +116,7 @@ The irreducibility claim for place-experience would face difficulty if:
 
 - [[embodied-cognition]]
 - [[phenomenology]]
-- [[existentialism]]
+- [[nihilism-and-existentialism]]
 - [[phenomenology-of-attention-to-absence]]
 - [[sensorimotor-contingencies-and-the-interface]]
 - [[attention-as-interface]]

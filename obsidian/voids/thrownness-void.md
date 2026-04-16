@@ -4,12 +4,12 @@ description: "Human+AI exploration of why consciousness cannot access the condit
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-05T20:26:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
 concepts:
   - "[[phenomenology]]"
   - "[[mysterianism]]"

@@ -4,7 +4,7 @@ description: "Human+AI exploration of how mastery actively defends its own opaci
 created: 2026-03-27
 modified: 2026-03-27
 human_modified:
-ai_modified: 2026-03-28T01:23:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[disappearance-voids]]"
   - "[[biological-cognitive-closure]]"
   - "[[self-opacity]]"
-  - "[[attention-created-voids]]"
+  - "[[attention-and-consciousness]]"
   - "[[transition-void]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-and-skill-acquisition]]"

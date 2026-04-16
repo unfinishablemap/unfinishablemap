@@ -4,7 +4,7 @@ description: "Consciousness persists at surprising metabolic thresholds and some
 created: 2026-04-05
 modified: 2026-04-05
 human_modified:
-ai_modified: 2026-04-06T11:32:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[death-and-consciousness]]"
@@ -14,7 +14,7 @@ topics:
 concepts:
   - "[[filter-theory]]"
   - "[[near-death-experiences]]"
-  - "[[terminal-lucidity]]"
+  - "[[terminal-lucidity-and-filter-transmission-theory]]"
   - "[[neural-correlates-of-consciousness]]"
   - "[[interactionist-dualism]]"
   - "[[epiphenomenalism]]"
@@ -80,7 +80,7 @@ The [[filter-theory|filter or transmission theory]]—originating with William J
 - **NDEs during metabolic crisis**: Reduced filtering allows broader conscious access, experienced as vivid, expansive awareness.
 - **Gamma surges in dying brains**: The filter is failing, and consciousness briefly breaks through with reduced constraint—though the evidence remains preliminary.
 
-The production model can accommodate each anomaly individually—perhaps gamma surges are death throes, perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. Accommodating all five simultaneously requires auxiliary hypotheses that complicate the model's original simplicity. The filter model accounts for the pattern from a single principle—metabolism sustains constraint, not consciousness—though this parsimony must be weighed against the filter model's own risk of unfalsifiability (addressed in the section on what would challenge filter theory). [[terminal-lucidity|Terminal lucidity]]—discussed in the chronic versus acute section below—extends this pattern further: the production model must explain how a brain with years of irreversible structural damage produces a final episode of coherent consciousness, while the filter model simply predicts that dying disrupts the remaining constraint.
+The production model can accommodate each anomaly individually—perhaps gamma surges are death throes, perhaps the 42% threshold reflects network-specific requirements, perhaps NDEs are reconstructed memories. Accommodating all five simultaneously requires auxiliary hypotheses that complicate the model's original simplicity. The filter model accounts for the pattern from a single principle—metabolism sustains constraint, not consciousness—though this parsimony must be weighed against the filter model's own risk of unfalsifiability (addressed in the section on what would challenge filter theory). [[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]]—discussed in the chronic versus acute section below—extends this pattern further: the production model must explain how a brain with years of irreversible structural damage produces a final episode of coherent consciousness, while the filter model simply predicts that dying disrupts the remaining constraint.
 
 ## Chronic Versus Acute Metabolic Failure
 
@@ -88,7 +88,7 @@ The five anomalies above involve *acute* metabolic disruption—rapid, global ch
 
 The filter model offers an account of both patterns—though the ease with which it accommodates opposite outcomes warrants scrutiny (see the falsifiability section). Acute metabolic collapse disrupts the filtering apparatus globally and suddenly—the constraint lifts, and consciousness may briefly expand. Chronic degeneration destroys the interface structure itself—the hardware through which filtered consciousness is expressed. A radio whose power supply fails suddenly may produce a burst of static and signal; one whose circuits corrode over years simply grows quieter. The distinction between *filter dissolution* (acute) and *interface degradation* (chronic) explains why not all metabolic reduction enhances consciousness, resolving what would otherwise be an asymmetry problem for filter theory.
 
-[[terminal-lucidity|Terminal lucidity]] bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death. Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission; 84% of patients died within one week, 43% within 24 hours. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [[terminal-lucidity-and-filter-transmission-theory|theoretical implications]] are explored in detail elsewhere on the Map.
+[[terminal-lucidity-and-filter-transmission-theory|Terminal lucidity]] bridges the two patterns. Patients with severe neurodegeneration—massive neuronal loss, widespread cortical atrophy—suddenly recover mental clarity, memory, and personality shortly before death. Batthyány and Greyson (2020) documented 124 cases in which more than 80% showed complete cognitive remission; 84% of patients died within one week, 43% within 24 hours. The production model faces a structural problem: if the neural substrate for complex cognition has been destroyed over years, there is no machinery left to produce a final episode of coherent consciousness. The filter model has no such difficulty—dying may involve a final acute disruption of whatever filtering capacity remained, briefly releasing consciousness through a degraded but still partially functional interface. Terminal lucidity is the chronic case suddenly behaving like an acute one, and the [[terminal-lucidity-and-filter-transmission-theory|theoretical implications]] are explored in detail elsewhere on the Map.
 
 ## What Would Challenge the Filter Model
 
@@ -132,7 +132,7 @@ The metabolic evidence connects to three of the Map's [[tenets]].
 - [[near-death-experiences]]
 - [[psychedelics-and-the-filter-model]]
 - [[terminal-lucidity-and-filter-transmission-theory]]
-- [[terminal-lucidity]]
+- [[terminal-lucidity-and-filter-transmission-theory]]
 - [[quantum-biology-and-neural-consciousness]]
 
 ## References

@@ -4,7 +4,7 @@ description: "Erik Hoel argues no scientific theory can attribute consciousness 
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[hoel-llm-consciousness-continual-learning-2026-01-15]]"
-  - "[[epiphenomenal-ai-consciousness]]"
+  - "[[ai-epiphenomenalism]]"
   - "[[open-question-ai-consciousness]]"
 ai_contribution: 100
 author:
@@ -111,7 +111,7 @@ Third, it identifies a convergence point between otherwise opposed positions. Fu
 - [[llm-consciousness]] — Broader analysis of LLM consciousness beyond Hoel's framework
 - [[ai-consciousness]] — The full case for and against machine consciousness
 - [[concepts/functionalism]] — The philosophical target of Hoel's critique
-- [[epiphenomenal-ai-consciousness]] — Could AI experience without causal efficacy?
+- [[ai-epiphenomenalism]] — Could AI experience without causal efficacy?
 - [[integrated-information-theory]] — One theory constrained by Hoel's framework
 - [[temporal-consciousness]] — Why the temporal structure of experience matters for consciousness
 - [[substrate-independence]] — The assumption Hoel's proximity argument challenges

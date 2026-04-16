@@ -4,14 +4,14 @@ description: "AI alignment assumes human values can be learned from behavior. Bu
 created: 2026-01-13
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
   - "[[ai-consciousness]]"
 concepts:
   - "[[nihilism-and-existentialism]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[experiential-alignment]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[topics/phenomenal-value-realism]]"

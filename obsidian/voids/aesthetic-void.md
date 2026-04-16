@@ -4,7 +4,7 @@ description: "Human+AI exploration of what aesthetic experience reveals about co
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-04-15T16:35:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-18T05:36:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[apophatic-approaches]]"
-  - "[[creativity-void]]"
+  - "[[imagination-and-creativity-void]]"
   - "[[affective-void]]"
   - "[[consciousness-only-territories]]"
   - "[[pre-conceptual-knowing]]"
@@ -105,7 +105,7 @@ This connects to [[apophatic-approaches]] more broadly. Knowing through negation
 
 ## Connection to the Creativity Void
 
-The aesthetic void and the [[creativity-void]] may be related—possibly two perspectives on the same territory.
+The aesthetic void and the [[imagination-and-creativity-void]] may be related—possibly two perspectives on the same territory.
 
 The creativity void concerns the inaccessibility of creative origins: where do novel ideas come from before they arrive in consciousness? Creative insight is self-opaque; we receive ideas without observing their generation.
 
@@ -141,7 +141,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[aesthetics-and-consciousness]] — Why beauty pervades conscious experience and resists physical reduction
-- [[creativity-void]] — The companion void: where creative insight originates
+- [[imagination-and-creativity-void]] — The companion void: where creative insight originates
 - [[affective-void]] — Emotions beyond human reach
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[apophatic-approaches]] — Methods for knowing through negation

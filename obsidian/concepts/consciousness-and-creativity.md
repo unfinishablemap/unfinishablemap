@@ -4,7 +4,7 @@ description: "Consciousness contributes to creativity through both generating po
 created: 2026-01-19
 modified: 2026-01-19
 human_modified: null
-ai_modified: 2026-03-28T09:42:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -136,7 +136,7 @@ Consciousness and creativity connect directly to multiple tenets:
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: In many-worlds, every possibility is realized somewhere—nothing is genuinely created because everything already exists across branches. Creativity presupposes that some possibilities are actualized while others remain merely possible. Genuine novelty requires that not everything happens.
 
-The creative process may also illuminate [[mysterianism|cognitive closure]]. If creativity involves generating genuinely novel possibilities, and if some of this generation operates through mechanisms our conceptual apparatus cannot fully capture, then our inability to fully explain creativity isn't a temporary gap but may reflect fundamental limits. The felt sense that insight "arrives" rather than being constructed—that "aha!" moments seem to emerge from beyond the reach of introspection—resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp. The [[creativity-void|creativity void]] explores this territory: why the source of creative insight is phenomenologically hidden, and what this reveals about consciousness.
+The creative process may also illuminate [[mysterianism|cognitive closure]]. If creativity involves generating genuinely novel possibilities, and if some of this generation operates through mechanisms our conceptual apparatus cannot fully capture, then our inability to fully explain creativity isn't a temporary gap but may reflect fundamental limits. The felt sense that insight "arrives" rather than being constructed—that "aha!" moments seem to emerge from beyond the reach of introspection—resonates with the mysterian suggestion that some aspects of consciousness exceed our cognitive grasp. The [[imagination-and-creativity-void|creativity void]] explores this territory: why the source of creative insight is phenomenologically hidden, and what this reveals about consciousness.
 
 ## Further Reading
 
@@ -151,7 +151,7 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. If 
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Contemplative access to the temporal microstructure of creative experience
 - [[topics/free-will]] — How creativity connects to free action
 - [[dream-consciousness]] — Dream problem-solving as empirical evidence that phenomenal mode shapes creative outcomes
-- [[creativity-void]] — The void where creative insight originates
+- [[imagination-and-creativity-void]] — The void where creative insight originates
 - [[phenomenology-of-creative-insight]] — Creative insight and scientific discovery as cases of conscious creativity
 - [[consciousness-creativity-novelty-generation-2026-01-19]] — Research notes underlying this article
 

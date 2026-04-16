@@ -4,7 +4,7 @@ description: "Dennett's third-person method for studying consciousness. Its offi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified:
-ai_modified: 2026-03-28T17:49:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-28T11:57:00+00:00
 draft: false
 topics:
@@ -79,7 +79,7 @@ Heterophenomenology rejects mutual constraint. There is no genuine first-person 
 
 As Varela wrote, "There is no theoretical fix for the absence of a disciplined approach to experience." Heterophenomenology proposes precisely such a theoretical fix: eliminate first-person phenomenology in favor of third-person reports about phenomenology.
 
-The contrast reveals heterophenomenology's eliminativist tendency. [[neurophenomenology#Contemplative Science|Neurophenomenology]] studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent.
+The contrast reveals heterophenomenology's eliminativist tendency. [[neurophenomenology-and-contemplative-neuroscience#Contemplative Science|Neurophenomenology]] studies meditators' first-person reports of jhana states, finding they correlate with distinct neural signatures. Heterophenomenology would study only what meditators *say* about jhanas, treating the phenomenology itself as potentially non-existent.
 
 ## The Neutrality Claim
 
@@ -127,7 +127,7 @@ The Map can acknowledge heterophenomenology's usefulness as a research tool whil
 
 What the Map rejects is the claim that this exhausts consciousness science—that there is no genuine first-person data beyond verbal reports, no phenomenological structures requiring first-person investigation, no [[methodology-of-consciousness-research|epistemic asymmetry]] tracking a real ontological asymmetry. The [[consciousness-and-the-problem-of-measurement-standards|measurement standards problem]] sharpens this critique: operationally defined "measurements" of consciousness measure neural states, not phenomenal states, and the question of whether those neural proxies track the right thing remains unanswerable from the third-person perspective alone.
 
-Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([[phenomenology]], [[neurophenomenology#Contemplative Science|contemplative neuroscience]]), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
+Heterophenomenology works as a tool within a larger framework that includes disciplined first-person investigation ([[phenomenology]], [[neurophenomenology-and-contemplative-neuroscience#Contemplative Science|contemplative neuroscience]]), second-person empathic methods, and philosophical argument about consciousness's nature. It fails as a complete methodology because it systematically excludes phenomenology itself.
 
 ## Relation to Site Perspective
 

@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-17T16:00:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[dualism]]"
   - "[[combination-problem]]"
   - "[[mental-causation-and-downward-causation]]"
-  - "[[process-haecceitism]]"
+  - "[[haecceity]]"
   - "[[prehension]]"
   - "[[subjective-aim]]"
 related_articles:
@@ -97,7 +97,7 @@ This aligns with the [[tenets#^dualism|Dualism]] tenet's claim that consciousnes
 
 ### Process Haecceitism
 
-Process metaphysics also illuminates the [[haecceity|haecceity]] question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. [[process-haecceitism|Process haecceitism]] develops this idea in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
+Process metaphysics also illuminates the [[haecceity|haecceity]] question. If haecceity (primitive "thisness") requires permanent substance, Buddhist no-self would conflict with indexical identity. But process philosophy suggests haecceity can apply to *processes*—to particular causal histories of arising and passing—without requiring unchanging substrates. [[haecceity|Process haecceitism]] develops this idea in detail, showing how the flame analogy (tonight's flame is causally continuous with yesterday's without being the same flame) grounds indexical particularity for impermanent experiential streams.
 
 ### Temporal Structure
 
@@ -170,7 +170,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 ## Further Reading
 
 - [[process-and-consciousness]] — Apex synthesis integrating process philosophy with the Map's consciousness framework
-- [[process-haecceitism]] — How haecceity applies to processes rather than substances
+- [[haecceity]] — How haecceity applies to processes rather than substances
 - [[prehension]] — Whitehead's concept of how each moment grasps its predecessors
 - [[subjective-aim]] — Whitehead's goal-directedness in actual occasions
 - [[temporal-consciousness]] — Time experience and its connection to Whiteheadian process

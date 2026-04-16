@@ -4,7 +4,7 @@ description: "When did consciousness arise? Dualism avoids the strong emergence 
 created: 2026-01-19
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-06T12:47:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -83,7 +83,7 @@ If consciousness is causally efficacious, several advantages might drive its evo
 
 **Flexible response**: Conscious processing enables novel responses to unpredictable situations. Reflexes are fast but rigid; conscious evaluation is slower but adaptive. In complex environments—social groups, variable terrain, predator-prey arms races—flexibility may outweigh speed.
 
-**Integration**: [[phenomenal-unity|Unified conscious experience]] binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
+**Integration**: [[unity-of-consciousness|Unified conscious experience]] binds information from different senses and cognitive processes into a single coherent representation. This integration might be necessary for planning, counterfactual reasoning, and coordinated action—capacities that confer obvious survival advantages.
 
 **Valenced guidance**: [[emotion-and-dualism|Emotional consciousness]] provides intrinsic motivation through pleasure and pain. Rather than needing explicit reward signals, conscious organisms are *motivated* by felt quality. The badness of pain and goodness of pleasure create powerful selection pressure without requiring external specification.
 

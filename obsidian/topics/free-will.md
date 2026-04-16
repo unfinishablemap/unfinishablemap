@@ -4,7 +4,7 @@ description: "Can we genuinely author our choices? The Map defends agent-causal 
 created: 2026-01-08
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-06T10:58:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-21T02:05:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ concepts:
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[causal-interface]]"
   - "[[counterfactual-reasoning]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[self-opacity|volitional opacity]]"
 related_articles:
   - "[[tenets]]"
@@ -51,7 +51,7 @@ Classical physics suggested determinism: given initial conditions and physical l
 
 **Hard Determinism**: Free will is an illusion. Choices are predetermined by prior causes stretching back to the Big Bang.
 
-**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[[agent-causation|agent-causal]]*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [[tenets#^dualism|substance dualism]]: consciousness must be a persisting *thing* capable of exercising causal powers. [[existentialism|Existentialist philosophy]] articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
+**Libertarian Free Will**: We can initiate causal chains not fully determined by prior physical states. The Map's framework is specifically *[[agent-causation|agent-causal]]*—the agent as persisting substance directly causes actions, irreducible to prior mental events. This requires [[tenets#^dualism|substance dualism]]: consciousness must be a persisting *thing* capable of exercising causal powers. [[nihilism-and-existentialism|Existentialist philosophy]] articulates why: Sartre's "condemned to be free" captures the structural necessity—consciousness is constitutively self-distanced, never identical with its contents, always able to take a stance toward its situation.
 
 **Compatibilism**: Free will means acting from endorsed desires without external coercion. Yet for those who take the phenomenology of deliberation seriously, compatibilism redescribes rather than explains: why does choosing *feel* like determining an open outcome if the outcome was always fixed?
 
@@ -112,9 +112,9 @@ Free will requires [[mental-causation-and-downward-causation|mental causation]]:
 
 ## Agent Causation and Supporting Evidence
 
-Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [[existentialism]] for the full analysis.
+Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [[nihilism-and-existentialism]] for the full analysis.
 
-The [[mental-effort|phenomenology of effort]] supports this picture—the felt cost of concentration reflects genuine causal engagement. [[consciousness-and-cognitive-distinctiveness|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [[creativity-void|creativity void]] reveals we cannot observe ourselves creating.
+The [[mental-effort|phenomenology of effort]] supports this picture—the felt cost of concentration reflects genuine causal engagement. [[consciousness-and-cognitive-distinctiveness|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [[imagination-and-creativity-void|creativity void]] reveals we cannot observe ourselves creating.
 
 [[dream-consciousness|Dream problem-solving]] provides independent evidence: dream incorporation more than doubled solving rates for unsolved puzzles, suggesting consciousness generates novel approaches in a phenomenally different mode. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success.
 
@@ -191,7 +191,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[dream-consciousness]] — Dream evidence for consciousness's causal role
 - [[moral-responsibility]] — How agent causation grounds desert
 - [[personal-identity]] — Why *you* are the author of your choices
-- [[existentialism]] — Sartre's pour-soi and agent causation
+- [[nihilism-and-existentialism]] — Sartre's pour-soi and agent causation
 - [[causal-interface]] — Why consciousness-physics interaction is systematically invisible
 - [[tenets]] — The foundational commitments grounding this view
 

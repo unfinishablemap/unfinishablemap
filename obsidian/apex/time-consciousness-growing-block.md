@@ -4,7 +4,7 @@ description: "Consciousness requires temporal structure to exist. Time's arrow m
 created: 2026-02-01
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-04-15T09:00:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-13T22:25:00+00:00
 draft: false
 topics:
@@ -170,7 +170,7 @@ This synthesis connects to all five of The Unfinishable Map's [[tenets]]:
 
 This synthesis draws from:
 
-- [[philosophy-of-time-and-consciousness|Philosophy of Time and Consciousness]] — The bidirectional dependence between time and consciousness
+- [[temporal-consciousness-structure-and-agency|Philosophy of Time and Consciousness]] — The bidirectional dependence between time and consciousness
 - [[time-collapse-and-agency|Time, Collapse, and Agency]] — How collapse introduces temporal direction and enables agency
 - [[temporal-consciousness-structure-and-agency|Temporal Structure of Consciousness]] — The gap between functional moments and experienced duration
 - [[time-symmetric-selection-mechanism|Time-Symmetric Selection Mechanism]] — How atemporal selection resolves the Libet problem

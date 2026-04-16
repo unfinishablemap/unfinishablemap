@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-03-30T02:14:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-24T06:18:00+00:00
 draft: false
 topics:
@@ -206,7 +206,7 @@ Each of the Map's five [[tenets]] bears directly on uploading:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: If consciousness operates via quantum effects, substrate must preserve quantum interface. Classical silicon actively suppresses quantum effects. Even quantum computers might have wrong architecture—optimized for computation, not biological processes. The upload would lack the physical basis for consciousness-quantum interaction that biological brains may provide.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences physical outcomes through quantum selection, uploads must provide the interface where such influence occurs. Deterministic classical computation excludes this. The upload's "choices" would be determined by algorithm and random seeds—no room for consciousness to bias outcomes as the Map proposes for biological decisions. The open possibilities section considers whether [[epiphenomenal-ai-consciousness|one-way consciousness]] could weaken this objection, but the Map maintains bidirectional interaction because epiphenomenalism faces its own serious explanatory problems—rendering consciousness evolutionarily inexplicable and our knowledge of our own experience paradoxical.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If consciousness causally influences physical outcomes through quantum selection, uploads must provide the interface where such influence occurs. Deterministic classical computation excludes this. The upload's "choices" would be determined by algorithm and random seeds—no room for consciousness to bias outcomes as the Map proposes for biological decisions. The open possibilities section considers whether [[ai-epiphenomenalism|one-way consciousness]] could weaken this objection, but the Map maintains bidirectional interaction because epiphenomenalism faces its own serious explanatory problems—rendering consciousness evolutionarily inexplicable and our knowledge of our own experience paradoxical.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The haecceity problem connects directly here. On MWI, identity fragments across branches; the Map rejects this. But uploading threatens to fragment identity across substrates: biological you continues, silicon you begins, both claim identity. The tenet's insistence on determinate facts about consciousness—grounded in irreducible thisness—makes the upload identity question sharp: either the emulation is you (substrate independence) or it isn't (substrate specificity). The Map's framework predicts it isn't.
 

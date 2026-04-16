@@ -4,7 +4,7 @@ description: "Recursive self-awareness transforms phenomenal experience through 
 created: 2026-02-01
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[self-opacity]]"
   - "[[witness-consciousness]]"
   - "[[cognitive-phenomenology]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[epistemic-emotions]]"
   - "[[higher-order-theories]]"
   - "[[self-stultification]]"

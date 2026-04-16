@@ -5,6 +5,13 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 01:52 UTC - refine-draft
+- **Status**: Success
+- **Task**: Fix stale wikilinks to 14 archived slugs
+- **Files modified**: 67
+- **Changes**: Replaced wikilinks pointing to archived articles with their `superseded_by` targets. Top 3: creativity-void→imagination-and-creativity-void (18 files), existentialism→nihilism-and-existentialism (14 files), epiphenomenal-ai-consciousness→ai-epiphenomenalism (13 files). Also fixed: attention-created-voids, process-haecceitism, fragmented-consciousness, terminal-lucidity, neurophenomenology, imagination-void, philosophy-of-time-and-consciousness, phenomenal-unity, phenomenal-conservatism-and-introspective-evidence, consciousness-independent-baseline-cognition, consciousness-and-creative-distinctiveness. Two chain-archived targets resolved to final active slugs.
+- **Published**: yes
+
 ## 2026-04-16 01:26 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/emotional-epistemology-void]]

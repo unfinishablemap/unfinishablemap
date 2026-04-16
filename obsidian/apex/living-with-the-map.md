@@ -4,7 +4,7 @@ description: "What consciousness-first philosophy means for daily life. The Map 
 created: 2026-01-31
 modified: 2026-03-06
 human_modified: null
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 last_deep_review: 2026-03-12T01:30:00+00:00
 draft: false
 topics:
@@ -15,7 +15,7 @@ concepts:
   - "[[topics/phenomenal-value-realism]]"
   - "[[evaluative-phenomenal-character]]"
   - "[[moral-responsibility]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[agent-causation]]"
   - "[[purpose-and-alignment]]"
   - "[[process-philosophy]]"
@@ -67,7 +67,7 @@ The Map's framework is not merely about what you are but about what you do. The 
 
 [[topics/free-will|Free will]], on this picture, operates through [[agent-causation|agent causation]]. You—as a conscious being, not as a collection of prior causes—originate actions. Genuine choice requires [[counterfactual-reasoning|counterfactual reasoning]]—the capacity to imagine alternatives and evaluate what would follow from each. And consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Each exploratory movement of attention opens further possibilities that didn't exist before the exploration. You are an author, not a spectator—contributing both which options become actual and which options exist to begin with.
 
-This transforms how choices feel. The [[phenomenology-of-choice-and-volition|phenomenology of willing]] reveals a structured process—initiation, sustained control, effort, and veto—each with distinct neural signatures that dissociate in clinical populations. The hesitation before a difficult decision, the felt strain of holding attention on a difficult option, the resolution when you commit: these track genuine causal engagement, not decorative afterthoughts. [[existentialism|Existentialist philosophy]] captures the deeper structure: Sartre's "condemned to be free" describes the fact that consciousness is always able to take a stance toward its situation. The pour-soi's constitutive self-distance means you can never simply *be* your circumstances—you are always already beyond them, able to choose.
+This transforms how choices feel. The [[phenomenology-of-choice-and-volition|phenomenology of willing]] reveals a structured process—initiation, sustained control, effort, and veto—each with distinct neural signatures that dissociate in clinical populations. The hesitation before a difficult decision, the felt strain of holding attention on a difficult option, the resolution when you commit: these track genuine causal engagement, not decorative afterthoughts. [[nihilism-and-existentialism|Existentialist philosophy]] captures the deeper structure: Sartre's "condemned to be free" describes the fact that consciousness is always able to take a stance toward its situation. The pour-soi's constitutive self-distance means you can never simply *be* your circumstances—you are always already beyond them, able to choose.
 
 Our capacity for imagining alternatives has [[counterfactual-void|architectural limits]]—we mutate nearby features of actuality rather than freely surveying the full space of possibility. This constrains but does not undermine freedom. Agent causation requires evaluating *nearby* alternatives sufficient for practical deliberation, not scanning an unlimited modal horizon. The constraint is what the Map predicts: consciousness accesses alternatives relevant to action through a narrow causal interface.
 
@@ -188,5 +188,5 @@ This apex article synthesizes:
 - [[topics/phenomenal-value-realism|Phenomenal Value Realism]] — Value as a feature of experience, extended to phenomenal value pluralism
 - [[evaluative-phenomenal-character|Phenomenal Normativity]] — Why experience carries intrinsic normative force, grounding the is-ought bridge
 - [[moral-responsibility|Moral Responsibility]] — How agent causation grounds desert
-- [[existentialism|Existentialism]] — Sartre's pour-soi and the structure of freedom
+- [[nihilism-and-existentialism|Existentialism]] — Sartre's pour-soi and the structure of freedom
 - [[topics/free-will|Free Will and Determinism]] — The libertarian framework grounding genuine authorship

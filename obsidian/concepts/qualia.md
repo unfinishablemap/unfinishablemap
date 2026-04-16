@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-16T01:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[conscious-vs-unconscious-processing]]"
   - "[[baseline-cognition]]"
   - "[[minimal-consciousness]]"
-  - "[[existentialism]]"
+  - "[[nihilism-and-existentialism]]"
   - "[[concepts/functionalism]]"
   - "[[philosophical-zombies]]"
   - "[[phenomenal-concepts-strategy]]"
