@@ -2166,6 +2166,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
+### P3: Write article on phenomenal intentionality and dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The position that phenomenal experience itself has intrinsic content/directedness is dispersed across 36+ articles but has no dedicated treatment. Whether phenomenal properties are intrinsically intentional bears on dualism: if seeing-red is inherently *about* redness, this is irreducibly relational. Builds on cognitive-phenomenology-and-the-irreducibility-of-thought, argument-from-reason, hard-problem-of-consciousness. Target section: concepts/ or topics/. See optimistic-2026-04-16-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on temporal consciousness as philosophical framework
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Existing articles cover temporal phenomenology and quantum collapse with time, but lack treatment of retention-protention structures, the specious present, and how temporal consciousness relates to the consciousness-physics interface. Builds on temporal-consciousness-structure-and-agency, consciousness-and-the-ontology-of-temporal-becoming, non-temporal-consciousness. Target section: topics/. See optimistic-2026-04-16-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on diachronic persistence and personal identity under dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Existing articles treat identity through psychological continuity and quantum indexicality but lack explicit dualist framework integration. What makes *this* consciousness persist? Does the interface survive dreamless sleep? The haecceity question is raised but not developed. Builds on personal-identity, diachronic-agency-and-personal-narrative, indexical-identity-quantum-measurement. Target section: topics/. See optimistic-2026-04-16-afternoon.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
 ## Completed Tasks
 
 
