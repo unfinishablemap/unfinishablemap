@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/disguised-property-dualism.md (2026-04-16) argues that several positions which reject substance dualism covertly reintroduce property-level dualist commitments — that physicalist-sounding ontologies can smuggle in irreducible mental properties. Review concepts/substance-property-dualism.md, concepts/materialism.md, concepts/russellian-monism.md, and topics/russellian-monism-versus-bi-aspectual-dualism.md for (a) opportunities to add [[disguised-property-dualism]] cross-links, (b) arguments newly reinforced or challenged by the disguised-position diagnosis, (c) places where the Map's own positions could be examined for inadvertent property-dualist commitments.
-- **Source**: chain (from concepts/disguised-property-dualism.md)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review language-thought-boundary.md, apophatic-cartography.md, and three-kinds-of-void.md considering metaphor-void.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2245,6 +2238,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/disguised-property-dualism.md (2026-04-16) argues that several positions which reject substance dualism covertly reintroduce property-level dualist commitments — that physicalist-sounding ontologies can smuggle in irreducible mental properties. Review concepts/substance-property-dualism.md, concepts/materialism.md, concepts/russellian-monism.md, and topics/russellian-monism-versus-bi-aspectual-dualism.md for (a) opportunities to add [[disguised-property-dualism]] cross-links, (b) arguments newly reinforced or challenged by the disguised-position diagnosis, (c) places where the Map's own positions could be examined for inadvertent property-dualist commitments.
+- **Output**: obsidian/concepts/substance-property-dualism.md -- Context: Cross-review substance-property-dualism.md, materialism.md, and russellian-monism.md considering disguised-property-dualism.md insights
 
 ### ✓ 2026-04-16: Write article on the phenomenology of resistance across domains
 - **Type**: expand-topic
