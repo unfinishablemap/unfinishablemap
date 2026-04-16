@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-03-23T06:25:00+00:00
+ai_modified: 2026-04-16T11:15:00+00:00
 draft: false
 last_deep_review: 2026-03-19T08:37:00+00:00
 topics:
@@ -49,7 +49,9 @@ The bandwidth limitation means consciousness operates at the policy level, not t
 
 ### Decoherence Pressure
 
-If consciousness acts at quantum indeterminacies—as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes—then [[decoherence]] is a constant source of friction. Warm biological tissue destroys quantum coherence rapidly. The interface must operate within whatever coherence windows the brain's architecture provides, whether those are the disputed microsecond-scale windows of microtubule dynamics or the even briefer openings at ion channels and synaptic vesicles.
+If consciousness acts at quantum indeterminacies—as the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes—then [[decoherence]] is a constant source of friction. Tegmark (2000) calculated that quantum coherence in neural tissue decays on the order of 10⁻¹³ seconds—femtoseconds—while neural decision windows span hundreds of milliseconds. This thirteen-order-of-magnitude gap is the strongest quantitative objection to any quantum mechanism at the mind-brain interface.
+
+The gap is severe but not necessarily fatal. Hagan et al. (2002) challenged Tegmark's model assumptions, extending estimated coherence times by eight or more orders of magnitude. Discrete observation mechanisms like the quantum Zeno effect require only that individual events outpace decoherence, not that coherence span the full decision window. And quantum biology demonstrates that warm biological systems can exploit quantum effects despite hostile thermal conditions (see [[decoherence|the full decoherence analysis]]). The interface must operate within whatever coherence windows the brain's architecture provides—whether microsecond-scale windows in microtubules, briefer openings at ion channels and synaptic vesicles, or mechanisms not yet identified.
 
 Decoherence pressure means consciousness cannot hold options open indefinitely. The quantum states among which selection occurs are unstable. Hesitation has a physical cost: the options decohere, and the brain's default dynamics determine the outcome instead of conscious choice.
 
@@ -83,9 +85,11 @@ The asymmetry between easy and effortful mental operations maps onto the distinc
 
 ### Pathological Friction
 
-Certain conditions can be understood as disorders of interface friction. In ADHD, the interface appears to have abnormally low sustained-selection capacity—consciousness can initiate selections but struggles to maintain them against competing signals. In OCD, the interface appears to have abnormally high coupling persistence—selections that should release continue to recur, as though the interface channel is stuck in a loop. Depression may involve elevated friction globally—every conscious selection requires more effort than normal, producing the characteristic experience of everything feeling difficult.
+Clinical conditions offer tempting illustrations: ADHD as low sustained-selection capacity, OCD as coupling that fails to release, depression as globally elevated friction. These mappings are suggestive, but honesty requires acknowledging that they currently *redescribe* what neuroscience already explains in neural terms—dopaminergic dysfunction, cortico-striatal loop dysregulation, serotonergic deficit—without generating predictions that distinguish the interface-friction account from standard models.
 
-These are speculative interpretations, offered to illustrate the concept's explanatory potential rather than as clinical claims. They suggest, however, that interface friction is not fixed. It varies across individuals, across conditions, and across time within a single person.
+The interface-friction framing would become genuinely explanatory if it predicted something standard neuroscience does not. Possibilities include: friction signatures that dissociate from known neurotransmitter pathways, conditions where subjective effort and neural metabolic cost diverge in ways the standard model cannot explain, or clinical interventions that target the interface rather than the neural substrate. Until such distinctive predictions emerge, these clinical parallels illustrate the concept's vocabulary rather than its explanatory power.
+
+What the clinical domain does establish is that interface friction—whatever its ultimate explanation—is not fixed. It varies across individuals, across conditions, and across time within a single person.
 
 ## Friction and the Filter Model
 
@@ -123,7 +127,21 @@ The filter model also generates a distinctive prediction: reduced neural constra
 ## References
 
 1. Carhart-Harris, R. L., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences*, 109(6), 2138–2143.
+1. Hagan, S., Hameroff, S., & Tuszynski, J. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65, 061901.
 1. Norretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 1. Schwartz, J. M., Stapp, H. P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology: A neurophysical model of mind-brain interaction. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309–1327.
 1. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194–4206.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Decoherence Pressure section: Added specific engagement with Tegmark (2000) femtosecond calculation and the 13-order-of-magnitude gap. Added Hagan et al. (2002) response and discrete observation mechanisms as mitigations. Cross-referenced the full decoherence article.
+- Pathological Friction section: Rewritten to acknowledge that ADHD/OCD/depression mappings currently redescribe neuroscience without generating unique predictions. Added explicit criteria for when the interface-friction framing would become genuinely explanatory.
+- References: Added Tegmark (2000) and Hagan et al. (2002).
+
+Based on pessimistic review pessimistic-2026-04-16b.
+Key improvements: Intellectual honesty about quantitative decoherence challenge and clinical speculation limits.
+
+This log should be removed after human review.
+-->

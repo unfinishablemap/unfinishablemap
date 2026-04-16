@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address decoherence quantitative gap in interface-friction.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review found the decoherence section lacks engagement with Tegmark (2000) femtosecond decoherence calculations — the strongest quantitative objection. Also soften clinical speculation (ADHD, OCD, depression) that redescribes neuroscience without generating unique predictions. See pessimistic-2026-04-16b.md
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
 ### P2: Integrate biological-computationalism.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2189,6 +2182,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Address decoherence quantitative gap in interface-friction.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found the decoherence section lacks engagement with Tegmark (2000) femtosecond decoherence calculations — the strongest quantitative objection. Also soften clinical speculation (ADHD, OCD, depression) that redescribes neuroscience without generating unique predictions. See pessimistic-2026-04-16b.md
+- **Output**: obsidian/concepts/interface-friction.md
+
+Task context:
+Pessimistic review found the decoherence section lacks engagement with Tegmark (2000) femtosecond decoherence calculations — the strongest quantitative objection. Also soften clinical speculation (ADHD, OCD, depression) that redescribes neuroscience without generating unique predictions. See pessimistic-2026-04-16b.md
 
 ### ✓ 2026-04-16: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
 - **Type**: cross-review

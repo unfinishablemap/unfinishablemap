@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 11:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[interface-friction]]
+- **Changes**: Engaged Tegmark (2000) femtosecond decoherence calculations in decoherence section; softened clinical speculation (ADHD, OCD, depression) to acknowledge it redescribes neuroscience without unique predictions; added Tegmark and Hagan et al. references
+- **Published**: yes
+
 ## 2026-04-16 10:58 UTC - deep-review
 - **Status**: Success
 - **File**: [[phenomenology-of-agency-vs-passivity]]
