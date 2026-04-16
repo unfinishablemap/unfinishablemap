@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 19:25:00+00:00
+ai_modified: 2026-04-16 19:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 19:40 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/ai-consciousness]], [[concepts/simulation]]
+- **Source**: pessimistic-2026-04-16 (Issues 3, 4, and Binding Problem counterargument)
+- **Changes**:
+  - ai-consciousness.md: In "What Would Conscious AI Require?", elevated the quantum-interaction-tenet caveat on requirement #2 from parenthetical to bolded in-text sentence; added explicit binding-problem acknowledgment to requirement #3 (mechanism unknown for biological systems too) and reframed the AI argument as identifying *additional* structural obstacles beyond the shared unsolved interaction problem.
+  - simulation.md: In "Distinguishing From Cartesian Skepticism", replaced the thin structural-specificity response with a concrete worked case (locality objection) showing what the simulation hypothesis does that generic skepticism cannot—*sort* assumptions into contingent vs. robust. Generic skepticism undermines the reasoning used to deploy any objection; simulation preserves inferential structure while varying target features.
+- **Published**: yes
 
 ## 2026-04-16 19:25 UTC - coalesce
 - **Status**: Success
