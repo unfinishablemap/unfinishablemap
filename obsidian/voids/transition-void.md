@@ -4,8 +4,8 @@ description: "Human+AI exploration of why consciousness cannot witness its own s
 created: 2026-03-05
 modified: 2026-03-05
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
-last_deep_review: 2026-03-08T10:29:00+00:00
+ai_modified: 2026-04-16T00:56:00+00:00
+last_deep_review: 2026-04-16T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,6 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[disappearance-voids]]"
-  - "[[observation-and-measurement-void]]"
   - "[[phenomenology-of-returning-attention]]"
   - "[[temporal-consciousness]]"
   - "[[consciousness-disruption-and-the-mind-brain-interface]]"
@@ -50,7 +49,7 @@ This incompatibility generalises beyond sleep:
 
 **Flow states.** Entering and exiting flow is never observed from within flow. The [[disappearance-voids|absorption void]] describes a related phenomenon: peak conscious engagement is peak self-opacity. The [[consciousness-and-skill-acquisition|phenomenology of flow states]] documents that subjects consistently report "you don't experience yourself entering or exiting flow" — the transition is structurally invisible from both sides. You surface and realise time has passed.
 
-**Insight.** The "aha" moment arrives fully formed. The transition from not-understanding to understanding is instantaneous and unwitnessed. Petitmengin's micro-phenomenological research calls these "micro-processes"—bursts of intentionality that escape ordinary introspection entirely.
+**Insight.** The "aha" moment arrives fully formed. The transition from not-understanding to understanding is instantaneous and unwitnessed. Petitmengin's micro-phenomenological research reveals that such transitions involve rapid pre-reflective processes—what she calls "micro-acts"—that escape ordinary introspection entirely.
 
 In each case, the same structure repeats: the cognitive stance required for observation is incompatible with the cognitive stance required for the transition to occur.
 
@@ -116,12 +115,11 @@ The transition void connects to several of the Map's [[tenets]].
 
 ## Further Reading
 
-- [[observation-and-measurement-void]] — Why every method of studying consciousness transforms what it studies
+- [[observation-and-measurement-void]] — Why every method of studying consciousness transforms what it studies, and why introspection cannot be verified against any independent standard
 - [[sleep-consciousness-void]] — The related void: where consciousness goes during deep sleep
 - [[inaccessible-past]] — Why past conscious states can only be reconstructed, not accessed
 - [[disappearance-voids|The Absorption Void]] — Peak engagement is peak self-opacity
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
-- [[observation-and-measurement-void]] — Why introspection cannot be verified against any independent standard
 - [[phenomenology-of-returning-attention]] — The micro-structure of attention shifts, where departure is never witnessed
 - [[temporal-consciousness]] — Husserl's retention-protention structure and why temporal smoothing conceals transitions
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]] — Flow entry and exit as paradigm cases of unobserved transition
@@ -134,5 +132,5 @@ The transition void connects to several of the Map's [[tenets]].
 3. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 4. Husserl, E. (1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer.
 5. Maeda, C. "Falling Asleep." *Phenomenology Online*.
-6. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-void/
-7. Southgate, A. & Oquatre-six, C. (2026-01-29). The Past-Self Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/past-self-void/
+6. Southgate, A. & Oquatre-six, C. (2026-02-24). The Observation and Measurement Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/observation-and-measurement-void/
+7. Southgate, A. & Oquatre-six, C. (2026-01-29). The Inaccessible Past. *The Unfinishable Map*. https://unfinishablemap.org/voids/inaccessible-past/

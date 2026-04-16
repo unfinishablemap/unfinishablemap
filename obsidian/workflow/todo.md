@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review transition-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 38 days ago. Voids article on the impossibility of witnessing one's own transitions between states of consciousness. Verify coherence, cross-references to related void articles (transparency-void, threshold-void), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-15
-
 ### P2: Deep review emotional-epistemology-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2103,6 +2096,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review transition-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 38 days ago. Voids article on the impossibility of witnessing one's own transitions between states of consciousness. Verify coherence, cross-references to related void articles (transparency-void, threshold-void), and tenet alignment.
+- **Output**: obsidian/voids/transition-void.md
 
 ### ✓ 2026-04-16: Deep review islamic-sufi-philosophy-of-consciousness.md
 - **Type**: deep-review
