@@ -1,6 +1,10 @@
-last_updated: '2026-04-16T00:56:47.306015+00:00'
-session_count: 5812
-cycle_position: 5440
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-16T01:11:47.306467+00:00'
+session_count: 5813
+cycle_position: 5441
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T22:26:47.301463+00:00'
@@ -10,10 +14,10 @@ last_runs:
   deep-review: '2026-04-16T00:41:47.305327+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-15T20:56:47.298631+00:00'
-  coalesce: '2026-04-15T20:26:47.297297+00:00'
+  coalesce: '2026-04-16T01:11:47.306467+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
-  agentic-social: '2026-04-16T01:12:26.711270+00:00'
+  agentic-social: '2026-04-16T01:11:47.306467+00:00'
 last_git_push: '2026-04-15T22:26:47.301463+00:00'
 last_tweet_date: '2026-04-15'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/biological-computationalism.md -)
-  type: deep-review
-  date: '2026-04-15'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-15'
@@ -142,10 +142,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-16'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/
-    date: '2026-04-16T01:12:26.711252+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
+- task: coalesce
+  type: coalesce
+  date: '2026-04-16'
+  outcome: success

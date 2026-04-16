@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review emotional-epistemology-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 35 days ago. Voids article on the limits of knowing one's own emotional states. Verify coherence, cross-references to affective-void, epistemic-emotions, and related emotional consciousness articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-15
-
 ### P3: Deep review inverted-qualia.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2096,6 +2089,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review emotional-epistemology-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 35 days ago. Voids article on the limits of knowing one's own emotional states. Verify coherence, cross-references to affective-void, epistemic-emotions, and related emotional consciousness articles, and tenet alignment.
+- **Output**: obsidian/voids/emotional-epistemology-void.md
 
 ### ✓ 2026-04-16: Deep review transition-void.md
 - **Type**: deep-review
