@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-12
 human_modified: null
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-04-16T16:13:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -58,7 +58,7 @@ coalesced_from:
   - "/topics/resolution-bandwidth-interface/"
 ---
 
-Consciousness sits at the centre of a dramatic information asymmetry. Sensory systems deliver roughly 10⁹ bits per second to the brain. Yet conscious influence on behaviour measures at approximately 10 bits per second—a ratio of 100 million to one. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint defines the *shape* of the interface, distinguishing what consciousness does from what the brain does, and exposing why production models face a problem that [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] models handle naturally.
+Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a ratio Zheng and Meister call the "sifting ratio," running to 100 million to one. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint defines the *shape* of the interface, distinguishing what consciousness does from what the brain does, and exposing why production models face a problem that [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] models handle naturally.
 
 ## The Outbound Bottleneck
 
@@ -84,7 +84,7 @@ Crucially, the bottleneck is not in the neural hardware. Sauerbrei and Pruszynsk
 
 ## The Inbound Channel
 
-The inbound bandwidth is enormous. Zimmermann (1986) quantified sensory information content by modality: vision alone delivers roughly 10 million bits per second, with aggregate neural transmission reaching 10⁹ bits per second. Whether phenomenal experience is richer than cognitive access—as Block (2011) argues against Cohen, Dennett, and Kanwisher (2016)—the Map need not resolve. Whether inbound bandwidth measures in millions or billions of bits, it vastly exceeds outbound bandwidth. The gap is structural.
+The inbound bandwidth is enormous. Zimmermann (1986) quantified sensory transduction by modality: vision alone delivers roughly 10⁷ bits per second, touch around 10⁶, with aggregate sensory input reaching ~11 million bits per second. Nørretranders (1998) popularised the asymmetry as the "user illusion"—consciousness as a simplified desktop covering vastly richer underlying computation. Including unconscious neural processing of this input (pattern recognition, motor preparation, working memory maintenance), total "outer brain" throughput rises to ~10⁹ bits per second (Zheng & Meister 2025). The two framings yield different ratios against ~10 bits/s conscious throughput—roughly 10⁶-fold for sensory transduction, 10⁸-fold for total neural processing—but the philosophical consequence does not depend on which we use. Whether phenomenal experience is also richer than cognitive access—as Block (2011) argues against Cohen, Dennett, and Kanwisher (2016)—the Map need not resolve. The gap between inbound and outbound is structural regardless of which inbound figure we adopt.
 
 ## How the Constraint Shapes Processing
 
@@ -239,3 +239,14 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 1. Pashler, H. (1994). Dual-task interference in simple tasks: Data and theory. *Psychological Bulletin*, 116(2), 220–244.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628–645.
+
+<!-- AI REFINEMENT LOG - 2026-04-16
+Changes made:
+- Opening paragraph: distinguished sensory transduction (~11 million bits/s, Zimmermann/Nørretranders) from aggregate neural processing (~10⁹ bits/s, Zheng & Meister) rather than collapsing both into a single "10⁹ bits to the brain" figure; attributed the 10⁸ "sifting ratio" explicitly to Zheng and Meister.
+- Inbound Channel section: added Nørretranders (1998) citation and "user illusion" framing (previously in references but uncited in-text); clarified that sensory transduction vs total outer-brain throughput yield different ratios (10⁶ vs 10⁸) but the structural gap argument is invariant across them.
+
+Integrates research/bandwidth-constraints-10-bits-2026-03-29.md.
+Key improvements: grounds the 11M vs ~10 bits asymmetry in its primary historical source (Nørretranders popularising Zimmermann); removes subtle imprecision about what the 10⁹ figure measures.
+
+This log should be removed after human review.
+-->

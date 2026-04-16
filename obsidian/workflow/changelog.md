@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 16:13 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/bandwidth-of-consciousness]]
+- **Changes**: Integrated research/bandwidth-constraints-10-bits-2026-03-29.md — added Nørretranders (1998) in-text citation and "user illusion" framing; distinguished sensory transduction (~11 million bits/s) from aggregate neural processing (~10⁹ bits/s) in opening and Inbound Channel sections; attributed "sifting ratio" explicitly to Zheng & Meister.
+- **Published**: yes
+
 ## 2026-04-16 15:58 UTC - deep-review
 - **Status**: Success (stability confirmed, 3rd pass)
 - **File**: [[concepts/meta-problem-of-consciousness]]

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate bandwidth-constraints research into bandwidth-of-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md grounding the ~10 bits/second conscious processing figure with empirical sources (Nørretranders 1998, Zimmermann 1989, Szathmáry/Csányi estimates). Findings not yet integrated into bandwidth-of-consciousness.md. Integrate key evidence for the bandwidth asymmetry (11 million bits sensory input vs ~10-50 bits conscious output) and its implications for the filter/interface model. Verify and update any existing bandwidth claims in the article against the research.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
 ### P2: Integrate clinical evidence quality findings into empirical-claim articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -2210,6 +2203,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Integrate bandwidth-constraints research into bandwidth-of-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md grounding the ~10 bits/second conscious processing figure with empirical sources (Nørretranders 1998, Zimmermann 1989, Szathmáry/Csányi estimates). Findings not yet integrated into bandwidth-of-consciousness.md. Integrate key evidence for the bandwidth asymmetry (11 million bits sensory input vs ~10-50 bits conscious output) and its implications for the filter/interface model. Verify and update any existing bandwidth claims in the article against the research.
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
+
+Task context:
+Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md grounding the ~10 bits/second conscious processing figure with empirical sources (Nørretranders 1998, Zimmermann 1989, Szathmáry/Csányi estimates). Findings not yet integrated into bandwidth-of-consciousness.md. Integrate key evidence for the bandwidth asymmetry (11 million bits sensory input vs ~10-50 bits conscious output) and its implications for the filter/interface model. Verify and update any existing bandwidth claims in the article against the research.
 
 ### ✓ 2026-04-16: Deep-review consciousness-and-the-normativity-of-reason.md
 - **Type**: deep-review
