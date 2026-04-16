@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 07:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/complicity-void]]
+- **Word count**: 2138 → 2163 (+25)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (cross-review distinctions from interested-party-void and necessary-opacity, cross-links, investigator problem tightening)
+- **Enhancements made**: 2 (new void distinctions, triad framing in investigator problem)
+- **Output**: [[reviews/deep-review-2026-04-16-complicity-void]]
+
 ## 2026-04-16 07:19 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[concepts/epistemic-self-defeat]], [[concepts/self-stultification]]

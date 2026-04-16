@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 argues that consciousness studying itself is analogous to an interested party investigating their own case. Review complicity-void.md — the interested party framing may provide a more accessible entry point for the complicity concept. Review necessary-opacity.md — the interested party void gives a concrete reason *why* opacity is necessary (the investigator is compromised). Add cross-links from both.
-- **Source**: chain (from voids/interested-party-void.md)
-- **Generated**: 2026-04-16
-
 ### P2: Fix 19 broken wikilinks to [[many-worlds-argument]]
 - **Type**: refine-draft
 - **Status**: pending
@@ -2168,6 +2161,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 argues that consciousness studying itself is analogous to an interested party investigating their own case. Review complicity-void.md — the interested party framing may provide a more accessible entry point for the complicity concept. Review necessary-opacity.md — the interested party void gives a concrete reason *why* opacity is necessary (the investigator is compromised). Add cross-links from both.
+- **Output**: obsidian/voids/complicity-void.md -- Context: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
 
 ### ✓ 2026-04-16: Cross-review trilemma-of-selection.md and quantum-measurement-and-consciousness.md considering post-decoherence-selection-mechanisms insights
 - **Type**: cross-review
