@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write concept article on normativity of reason
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Explores how consciousness grounds rational normativity — the epistemic authority of rational endorsement depends on conscious experience being causally efficacious. Distinct from the "normativity gap" topic task (which bridges selection to reasons); this targets a canonical concept page on the general pattern. Directly supports Tenet 1 (Dualism) and strengthens argument-from-reason and self-stultification-as-master-argument. Target section: concepts/ (227/230).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-16
+
+### P2: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 introduces analysis of what happens after quantum decoherence in the selection model. Review consciousness-selecting-neural-patterns.md for opportunities to cross-link the post-decoherence analysis. Review comparing-quantum-consciousness-mechanisms.md to ensure the new selection mechanism framing is consistent and add cross-references.
+- **Source**: chain (from topics/post-decoherence-selection-mechanisms.md)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the impossibility of verifying consciousness's causal claims from within — the interested party cannot provide disinterested testimony about its own efficacy. Review phenomenology-of-agency-vs-passivity.md for cross-links (the interested party problem is a structural limitation on phenomenological agency evidence). Review agency-verification-void.md to ensure consistency and add bidirectional cross-links.
+- **Source**: chain (from voids/interested-party-void.md)
+- **Generated**: 2026-04-16
+
+### P2: Integrate biological-computationalism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-04-15, concept page on biological computationalism (Milinkovic & Aru 2025) — the position that computation requires specific biological substrate, which inadvertently concedes a key dualist intuition. Add cross-references from functionalism, experimental-consciousness-science-2025-2026, substrate-independence, and related concept articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
+### P2: Integrate delegation-meets-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-04-13, topics article on how delegation of cognitive processing relates to the quantum selection model. Add cross-references from consciousness-selecting-neural-patterns, attention-and-the-consciousness-interface, and related quantum-interface articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
+### P2: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-04-12, voids article on the gap between sacred/numinous experience and conceptual articulation. Add cross-references from taxonomy-of-voids, contemplative-practice-as-philosophical-evidence, and related voids articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
 ### P3: Deep review agency-verification-void.md
 - **Type**: deep-review
 - **Status**: pending
