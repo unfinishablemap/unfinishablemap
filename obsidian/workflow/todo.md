@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review samkhya-three-way-distinction.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 39 days ago. Concepts article on Samkhya philosophy's purusha/prakriti/gunas three-way distinction and its relevance to interactionist dualism. Verify accuracy of Samkhya scholarship, coherence, cross-references to eastern-philosophy-consciousness and dualism articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
 ### P2: Deep review purpose-and-alignment.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2110,6 +2103,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review samkhya-three-way-distinction.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 39 days ago. Concepts article on Samkhya philosophy's purusha/prakriti/gunas three-way distinction and its relevance to interactionist dualism. Verify accuracy of Samkhya scholarship, coherence, cross-references to eastern-philosophy-consciousness and dualism articles, and tenet alignment.
+- **Output**: obsidian/concepts/samkhya-three-way-distinction.md
 
 ### ✓ 2026-04-16: Deep review phenomenology-of-the-edge.md
 - **Type**: deep-review
