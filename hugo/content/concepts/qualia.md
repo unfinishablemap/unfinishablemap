@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[conscious-vs-unconscious-processing]]'
 - '[[baseline-cognition]]'
 - '[[minimal-consciousness]]'
-- '[[existentialism]]'
+- '[[nihilism-and-existentialism]]'
 - '[[concepts/functionalism]]'
 - '[[philosophical-zombies]]'
 - '[[phenomenal-concepts-strategy]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-22 13:36:00+00:00
 apex_sources:
@@ -23,7 +23,7 @@ concepts:
 - '[[topics/phenomenal-value-realism]]'
 - '[[evaluative-phenomenal-character]]'
 - '[[moral-responsibility]]'
-- '[[existentialism]]'
+- '[[nihilism-and-existentialism]]'
 - '[[agent-causation]]'
 - '[[purpose-and-alignment]]'
 - '[[process-philosophy]]'

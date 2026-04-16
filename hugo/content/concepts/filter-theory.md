@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-15 16:51:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ concepts:
 - '[[dream-consciousness]]'
 - '[[brain-interface-boundary]]'
 - '[[measurement-problem]]'
-- '[[terminal-lucidity]]'
+- '[[terminal-lucidity-and-filter-transmission-theory]]'
 - '[[death-and-consciousness]]'
 - '[[illusionism]]'
 - '[[baseline-cognition]]'

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [The Pragmatist-Normative Bridge](/topics/pragmatist-normative-bridge/)
+**Article**: [The Pragmatist-Normative Bridge](/topics/pragmatisms-path-to-dualism/)
 **Previous review**: [2026-04-13](/reviews/deep-review-2026-04-13-pragmatist-normative-bridge/)
 **Context**: Orphan integration — article had zero inbound links from content articles
 

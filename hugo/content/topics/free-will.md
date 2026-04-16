@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-06 10:58:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[causal-interface]]'
 - '[[counterfactual-reasoning]]'
-- '[[existentialism]]'
+- '[[nihilism-and-existentialism]]'
 - '[[self-opacity|volitional opacity]]'
 created: 2026-01-08
 date: &id001 2026-02-28
@@ -115,7 +115,7 @@ Free will requires [mental causation](/concepts/mental-causation-and-downward-ca
 
 ## Agent Causation and Supporting Evidence
 
-Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [existentialism](/concepts/nihilism-and-existentialism/) for the full analysis.
+Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) for the full analysis.
 
 The [phenomenology of effort](/concepts/mental-effort/) supports this picture—the felt cost of concentration reflects genuine causal engagement. [Creativity](/topics/consciousness-and-cognitive-distinctiveness/) strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [creativity void](/voids/imagination-and-creativity-void/) reveals we cannot observe ourselves creating.
 
@@ -194,7 +194,7 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [dream-consciousness](/topics/dream-consciousness/) — Dream evidence for consciousness's causal role
 - [moral-responsibility](/concepts/moral-responsibility/) — How agent causation grounds desert
 - [personal-identity](/topics/personal-identity/) — Why *you* are the author of your choices
-- [existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi and agent causation
+- [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi and agent causation
 - [causal-interface](/voids/causal-interface/) — Why consciousness-physics interaction is systematically invisible
 - [tenets](/tenets/) — The foundational commitments grounding this view
 

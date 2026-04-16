@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-30 03:05:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -12,7 +12,7 @@ concepts:
 - '[[dualism]]'
 - '[[interactionist-dualism]]'
 - '[[explanatory-gap]]'
-- '[[existentialism]]'
+- '[[nihilism-and-existentialism]]'
 - '[[filter-theory]]'
 - '[[witness-consciousness]]'
 - '[[concepts/materialism]]'
@@ -208,7 +208,7 @@ If forced to choose between idealism and physicalism, idealism is closer to the 
 - [panpsychism](/concepts/panpsychism/) — Another view taking consciousness as fundamental
 - [interactionist-dualism](/concepts/interactionist-dualism/) — How consciousness and matter interact on the Map's view
 - [explanatory-gap](/concepts/explanatory-gap/) — The structural gap between physical and phenomenal description
-- [existentialism](/concepts/nihilism-and-existentialism/) — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
+- [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — How Sartre's pour-soi/en-soi distinction illuminates the idealism debate
 - [filter-theory](/concepts/filter-theory/) — How dualism accommodates brain-consciousness correlation without production
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative evidence both idealists and dualists cite
 - [brain-interface-boundary](/concepts/brain-interface-boundary/) — Why consciousness interfaces only with its own brain

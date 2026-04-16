@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-03-24 22:54:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[tenets]]'
 - '[[ai-consciousness-modes]]'
 - '[[structural-varieties-of-consciousness-and-ai-phenomenology]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
 title: Types of AI Phenomenal Experience
 topics:

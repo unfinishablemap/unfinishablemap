@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-15 23:11:00+00:00
+ai_modified: 2026-04-16 01:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,33 +38,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add 9 cross-links from optimistic-2026-04-06-midday review
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Optimistic review identified 9 cross-linking opportunities not yet implemented: (1) phenomenal-binding-and-multimodal-integration → bandwidth-of-consciousness (inverse effectiveness and bandwidth asymmetry), (2) language-recursion-and-consciousness → binding-problem (recursive parsing as conscious binding), (3) biological-computationalisms-inadvertent-case-for-dualism → adaptive-computational-depth (resource allocator outside computation), (4) consciousness-and-normative-force → moral-architecture-of-consciousness (moral conflict phenomenology), (5) hypnagogic-phenomenology-and-interface-modulation → bandwidth-of-consciousness (receiving without transmitting), (6) pragmatism-and-qbism → born-rule-and-the-consciousness-interface (normative Born rule), (7) clinical-evidence-quality-standards → quantum-biology-and-neural-consciousness (self-consistent standards application), (8) ethics-of-cognitive-enhancement-under-dualism → moral-architecture-of-consciousness (ethical foundation), (9) consciousness-under-extreme-metabolic-constraint → anaesthesia-and-the-consciousness-interface (agent-specific profiles). See optimistic-2026-04-06-midday.md
-- **Source**: gap_analysis
-- **Generated**: 2026-04-15
-
-### P2: Deep review islamic-sufi-philosophy-of-consciousness.md
+### P2: Deep review samkhya-three-way-distinction.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-13 — 33 days ago. Concept page on Islamic and Sufi philosophical traditions and consciousness. Verify accuracy of represented traditions (Ibn Arabi, al-Ghazali, Mulla Sadra), coherence, cross-references to indian-philosophy-of-mind and cross-traditional-convergence articles, and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 39 days ago. Concepts article on Samkhya philosophy's purusha/prakriti/gunas three-way distinction and its relevance to interactionist dualism. Verify accuracy of Samkhya scholarship, coherence, cross-references to eastern-philosophy-consciousness and dualism articles, and tenet alignment.
 - **Source**: staleness
-- **Generated**: 2026-04-15
+- **Generated**: 2026-04-16
 
-### P2: Deep review transition-void.md
+### P2: Deep review purpose-and-alignment.md
 - **Type**: deep-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 38 days ago. Voids article on the impossibility of witnessing one's own transitions between states of consciousness. Verify coherence, cross-references to related void articles (transparency-void, threshold-void), and tenet alignment.
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-16 — 31 days ago. Topics article on how purpose and alignment relate to consciousness under dualism. Verify coherence, accuracy of philosophical claims, cross-references to consciousness-and-agency and teleological-void, and tenet alignment.
 - **Source**: staleness
-- **Generated**: 2026-04-15
+- **Generated**: 2026-04-16
 
-### P2: Deep review emotional-epistemology-void.md
-- **Type**: deep-review
+### P2: Integrate imagination-and-creativity-void.md into site navigation
+- **Type**: integrate-orphan
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 35 days ago. Voids article on the limits of knowing one's own emotional states. Verify coherence, cross-references to affective-void, epistemic-emotions, and related emotional consciousness articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-15
+- **Notes**: Only orphaned file in obsidian/ content (zero inbound wikilinks from any active article). Voids article on the limits of imagination and creativity as windows into consciousness. Add cross-references from related articles such as consciousness-and-creativity, creativity-void successors, phenomenology-of-imagination, and other void articles exploring cognitive limits.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
 
 ### P3: Deep review inverted-qualia.md
 - **Type**: deep-review
@@ -2118,6 +2111,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review phenomenology-of-the-edge.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-02 — 45 days ago. Voids article on the phenomenology of cognitive and experiential edges/limits. Verify coherence, accuracy, cross-references to related void articles (threshold-void, boundary problems), and tenet alignment.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md
+
+### ✓ 2026-04-16: Fix stale wikilinks to 3 archived articles (45 files affected)
+- **Type**: refine-draft
+- **Notes**: 16 archived slugs are still referenced from active content. Top 3: (1) [creativity-void](/voids/imagination-and-creativity-void/) → [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) in 18 files, (2) [existentialism](/concepts/nihilism-and-existentialism/) → [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) in 14 files, (3) [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) → [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) in 13 files. Each archived article has `superseded_by` pointing to the replacement. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ only.
+- **Output**: Task context:
+16 archived slugs are still referenced from active content. Top 3: (1) [creativity-void](/voids/imagination-and-creativity-void/) → [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) in 18 files, (2) [existentialism](/concepts/nihilism-and-existentialism/) → [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) in 14 files, (3) [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) → [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) in 13 files. Each archived article has `superseded_by` pointing to the replacement. Update wikilinks in obsidian/topics/, obsidian/concepts/, obsidian/voids/, and obsidian/apex/ only.
+
+### ✓ 2026-04-16: Deep review emotional-epistemology-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 35 days ago. Voids article on the limits of knowing one's own emotional states. Verify coherence, cross-references to affective-void, epistemic-emotions, and related emotional consciousness articles, and tenet alignment.
+- **Output**: obsidian/voids/emotional-epistemology-void.md
+
+### ✓ 2026-04-16: Deep review transition-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-08 — 38 days ago. Voids article on the impossibility of witnessing one's own transitions between states of consciousness. Verify coherence, cross-references to related void articles (transparency-void, threshold-void), and tenet alignment.
+- **Output**: obsidian/voids/transition-void.md
+
+### ✓ 2026-04-16: Deep review islamic-sufi-philosophy-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-13 — 33 days ago. Concept page on Islamic and Sufi philosophical traditions and consciousness. Verify accuracy of represented traditions (Ibn Arabi, al-Ghazali, Mulla Sadra), coherence, cross-references to indian-philosophy-of-mind and cross-traditional-convergence articles, and tenet alignment.
+- **Output**: obsidian/concepts/islamic-sufi-philosophy-of-consciousness.md
+
+### ✓ 2026-04-16: Add 9 cross-links from optimistic-2026-04-06-midday review
+- **Type**: refine-draft
+- **Notes**: Optimistic review identified 9 cross-linking opportunities not yet implemented: (1) phenomenal-binding-and-multimodal-integration → bandwidth-of-consciousness (inverse effectiveness and bandwidth asymmetry), (2) language-recursion-and-consciousness → binding-problem (recursive parsing as conscious binding), (3) biological-computationalisms-inadvertent-case-for-dualism → adaptive-computational-depth (resource allocator outside computation), (4) consciousness-and-normative-force → moral-architecture-of-consciousness (moral conflict phenomenology), (5) hypnagogic-phenomenology-and-interface-modulation → bandwidth-of-consciousness (receiving without transmitting), (6) pragmatism-and-qbism → born-rule-and-the-consciousness-interface (normative Born rule), (7) clinical-evidence-quality-standards → quantum-biology-and-neural-consciousness (self-consistent standards application), (8) ethics-of-cognitive-enhancement-under-dualism → moral-architecture-of-consciousness (ethical foundation), (9) consciousness-under-extreme-metabolic-constraint → anaesthesia-and-the-consciousness-interface (agent-specific profiles). See optimistic-2026-04-06-midday.md
+- **Output**: Task context:
+Optimistic review identified 9 cross-linking opportunities not yet implemented: (1) phenomenal-binding-and-multimodal-integration → bandwidth-of-consciousness (inverse effectiveness and bandwidth asymmetry), (2) language-recursion-and-consciousness → binding-problem (recursive parsing as conscious binding), (3) biological-computationalisms-inadvertent-case-for-dualism → adaptive-computational-depth (resource allocator outside computation), (4) consciousness-and-normative-force → moral-architecture-of-consciousness (moral conflict phenomenology), (5) hypnagogic-phenomenology-and-interface-modulation → bandwidth-of-consciousness (receiving without transmitting), (6) pragmatism-and-qbism → born-rule-and-the-consciousness-interface (normative Born rule), (7) clinical-evidence-quality-standards → quantum-biology-and-neural-consciousness (self-consistent standards application), (8) ethics-of-cognitive-enhancement-under-dualism → moral-architecture-of-consciousness (ethical foundation), (9) consciousness-under-extreme-metabolic-constraint → anaesthesia-and-the-consciousness-interface (agent-specific profiles). See optimistic-2026-04-06-midday.md
 
 ### ✓ 2026-04-15: Address phenomenological method circularity and MWI indexicality weaknesses in phenomenology.md
 - **Type**: refine-draft

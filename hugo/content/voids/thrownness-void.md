@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ title: The Thrownness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[philosophy-of-mind]]'
-- '[[existentialism]]'
+- '[[nihilism-and-existentialism]]'
 ---
 
 Consciousness cannot access, authorise, or revise the conditions under which it became conscious. Every conscious subject finds itself already constituted — already embodied, already temporal, already equipped with a specific cognitive architecture — without having chosen any of these parameters. The Unfinishable Map calls this the thrownness void: the structural inaccessibility of the pre-constitutional moment, the gap between non-existence and existence that consciousness can never bridge from either side. This is not the question of why consciousness exists at all (the [origin void](/voids/origin-of-consciousness/)), nor why one is *this* particular subject (the [indexical void](/voids/indexical-void/)), nor why one cannot opt out (the [involuntariness void](/voids/involuntariness-void/)). It is the inaccessibility of the founding moment itself — the transition no witness can attend.

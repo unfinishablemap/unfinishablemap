@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -40,7 +40,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[dream-consciousness]]'
 - '[[phenomenology-of-moral-life]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 title: The Phenomenology of Imagination
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -122,7 +122,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 - [dream-consciousness](/topics/dream-consciousness/) — Dreams as involuntary imagination
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Moral imagination and the felt quality of ethical perception
-- [creativity-void](/voids/imagination-and-creativity-void/) — The opacity of consciousness's generative processes
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The opacity of consciousness's generative processes
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Spatial imagination as a dual-domain capability: the aphantasia dissociation as evidence for separable physical and phenomenal contributions
 
 ## References

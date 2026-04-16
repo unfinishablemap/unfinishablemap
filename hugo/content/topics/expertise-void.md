@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-03-28 01:23:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[expertise-occlusion]]'
 - '[[disappearance-voids]]'
 - '[[biological-cognitive-closure]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[consciousness-and-skill-acquisition]]'
@@ -111,7 +111,7 @@ The expertise void also connects to the [developmental void](/voids/biological-c
 - [The Absorption Void](/voids/disappearance-voids/)
 - [The Habituation Void](/voids/disappearance-voids/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
-- [creativity-void](/voids/imagination-and-creativity-void/)
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
 - [voids](/voids/)

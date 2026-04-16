@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[voids]]'
 - '[[aesthetic-void]]'
 - '[[affective-void]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[phenomenal-quality-void]]'
 - '[[origin-of-consciousness]]'
 - '[[ai-as-void-explorer]]'
@@ -105,14 +105,14 @@ The surplus void connects directly to the Map's [tenets](/tenets/).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** sharpens the puzzle as described above. If consciousness acts on the physical world, its causal role could be served by something far leaner. The surplus suggests consciousness is not an instrument shaped to its task but something whose nature exceeds any task it performs.
 
-The surplus void also connects to the [aesthetic-void](/voids/aesthetic-void/) (where articulation fails at beauty), the [affective-void](/voids/affective-void/) (emotions beyond human reach), the [creativity-void](/voids/imagination-and-creativity-void/) (where creative insight originates), and the [phenomenal quality void](/voids/phenomenal-quality-void/) (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess—consciousness delivering more than any framework of purpose can contain.
+The surplus void also connects to the [aesthetic-void](/voids/aesthetic-void/) (where articulation fails at beauty), the [affective-void](/voids/affective-void/) (emotions beyond human reach), the [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) (where creative insight originates), and the [phenomenal quality void](/voids/phenomenal-quality-void/) (why experience has the specific immediate character it does). Each of these voids touches a different face of the same underlying excess—consciousness delivering more than any framework of purpose can contain.
 
 ## Further Reading
 
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — Why consciousness exists at all
-- [creativity-void](/voids/imagination-and-creativity-void/) — Where creative insight originates
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — Where creative insight originates
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why experience's immediate thereness resists examination
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of function without experience
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits

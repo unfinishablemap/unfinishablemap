@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-05 22:11:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -66,7 +66,7 @@ related_articles:
 - '[[quantum-holism-and-phenomenal-unity]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[consciousness-and-mathematics]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-12 12:57:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[comparative-consciousness-and-interface-differences]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[non-temporal-consciousness]]'
 - '[[consciousness-in-smeared-quantum-states]]'
 - '[[quantum-randomness-channel-llm-consciousness]]'
@@ -141,7 +141,7 @@ The structural dimensions approach connects to each of the Map's tenets.
 - [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for what AI phenomenal experience could be (complements this article's structural dimensions)
 - [ai-consciousness](/topics/ai-consciousness/) — Principled obstacles to AI consciousness on the Map's framework
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Nature-vs-coupling distinction across species
-- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — The disturbing possibility of causally inert AI experience
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — The disturbing possibility of causally inert AI experience
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Can consciousness exist without temporal structure?
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — How consciousness's coarse-grained nature constrains interface design
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — Consciousness during superposition, not just after collapse

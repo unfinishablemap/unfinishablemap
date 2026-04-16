@@ -31,7 +31,6 @@ related_articles:
 - '[[self-stultification-as-master-argument]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[pragmatisms-path-to-dualism]]'
-- '[[pragmatist-normative-bridge]]'
 - '[[evaluative-qualia-phenomenal-normativity-across-traditions]]'
 - '[[parsimony-epistemology]]'
 title: Consciousness and the Normativity of Reason

@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-05
-ai_modified: 2026-04-06 11:32:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[filter-theory]]'
 - '[[near-death-experiences]]'
-- '[[terminal-lucidity]]'
+- '[[terminal-lucidity-and-filter-transmission-theory]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[epiphenomenalism]]'
@@ -135,7 +135,7 @@ The metabolic evidence connects to three of the Map's [tenets](/tenets/).
 - [near-death-experiences](/concepts/near-death-experiences/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
 - [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
-- [terminal-lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)
+- [terminal-lucidity-and-filter-transmission-theory](/topics/terminal-lucidity-and-filter-transmission-theory/)
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
 
 ## References

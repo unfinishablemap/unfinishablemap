@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-04-05 20:55:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[necessary-opacity]]'
 - '[[transition-void]]'
 - '[[self-opacity]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 title: The Initiation Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -102,7 +102,7 @@ The initiation void is distinct from but related to several neighbouring voids. 
 - [necessary-opacity](/voids/necessary-opacity/)
 - [transition-void](/voids/transition-void/)
 - [self-opacity](/voids/self-opacity/)
-- [creativity-void](/voids/imagination-and-creativity-void/)
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 
 ## References

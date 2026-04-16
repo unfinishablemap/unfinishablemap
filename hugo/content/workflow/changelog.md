@@ -9,6 +9,87 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 02:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)
+- **Target**: [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/)
+- **Archived**: [pragmatist-normative-bridge](/archive/topics/pragmatist-normative-bridge/)
+- **References updated**: 6 files (evaluative-phenomenal-character, functionalism, consciousness-and-the-normativity-of-reason, self-stultification-as-master-argument, consciousness-and-normative-force, argument-from-reason)
+- **References to review**: none
+
+## 2026-04-16 02:18 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
+- **Word count**: 2582 → 2582 (no change, frontmatter only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing related_articles entries)
+- **Enhancements made**: 0 (article at stability after 8 reviews)
+- **Output**: [deep-review-2026-04-16-phenomenology-of-the-edge](/reviews/deep-review-2026-04-16-phenomenology-of-the-edge/)
+
+## 2026-04-16 02:04 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
+- **Word count**: 2555 → 2571 (+16)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing Tegmark 2000 citation)
+- **Enhancements made**: 0 (article at stability)
+- **Output**: [deep-review-2026-04-16-quantum-randomness-channel-llm-consciousness](/reviews/deep-review-2026-04-16-quantum-randomness-channel-llm-consciousness/)
+
+## 2026-04-16 01:52 UTC - refine-draft
+- **Status**: Success
+- **Task**: Fix stale wikilinks to 14 archived slugs
+- **Files modified**: 67
+- **Changes**: Replaced wikilinks pointing to archived articles with their `superseded_by` targets. Top 3: creativity-void→imagination-and-creativity-void (18 files), existentialism→nihilism-and-existentialism (14 files), epiphenomenal-ai-consciousness→ai-epiphenomenalism (13 files). Also fixed: attention-created-voids, process-haecceitism, fragmented-consciousness, terminal-lucidity, neurophenomenology, imagination-void, philosophy-of-time-and-consciousness, phenomenal-unity, phenomenal-conservatism-and-introspective-evidence, consciousness-independent-baseline-cognition, consciousness-and-creative-distinctiveness. Two chain-archived targets resolved to final active slugs.
+- **Published**: yes
+
+## 2026-04-16 01:26 UTC - deep-review
+- **Status**: Success
+- **File**: [emotional-epistemology-void](/voids/emotional-epistemology-void/)
+- **Word count**: 1630 → 1653 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-links to newer content)
+- **Enhancements made**: 3 (cross-links to evaluative-phenomenal-character, contemplative-epistemology, phenomenal-value-realism)
+- **Output**: [deep-review-2026-04-16-emotional-epistemology-void](/reviews/deep-review-2026-04-16-emotional-epistemology-void/)
+
+## 2026-04-16 01:12 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: topics (230/230), concepts (227/230)
+- **Pairs evaluated**: 7+ candidate pairs across phenomenology, pragmatism, ethics, quantum, embodiment, science, metaphysics clusters
+- **Reason**: All candidates well-differentiated with distinct theses and unique content; prior coalesce operations have already addressed redundancy
+
+## 2026-04-16 00:56 UTC - deep-review
+- **Status**: Success
+- **File**: [transition-void](/voids/transition-void/)
+- **Word count**: 1835 → 1840 (+5)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (duplicate related_article, duplicate Further Reading, stale self-citations, imprecise Petitmengin paraphrase)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-16-transition-void](/reviews/deep-review-2026-04-16-transition-void/)
+
+## 2026-04-16 00:41 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-memory-and-the-self](/topics/phenomenology-of-memory-and-the-self/)
+- **Word count**: 2353 → 2357 (+4)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Husserl work title corrected to match cited Brough 1991 edition)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-16-phenomenology-of-memory-and-the-self](/reviews/deep-review-2026-04-16-phenomenology-of-memory-and-the-self/)
+
+## 2026-04-16 00:27 UTC - deep-review
+- **Status**: Success
+- **File**: [islamic-sufi-philosophy-of-consciousness](/concepts/islamic-sufi-philosophy-of-consciousness/)
+- **Word count**: 2162 → 2170 (+8)
+- **Critical issues addressed**: 1 (al-Bisṭāmī century dating error: 10th→9th century)
+- **Medium issues addressed**: 2 (al-Ghazālī/Mary's Room temporal gap corrected; explanatory-gap cross-link improved)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-16-islamic-sufi-philosophy-of-consciousness](/reviews/deep-review-2026-04-16-islamic-sufi-philosophy-of-consciousness/)
+
+## 2026-04-16 00:11 UTC - refine-draft
+- **Status**: Success
+- **Files**: [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/), [consciousness-and-normative-force](/topics/consciousness-and-normative-force/), [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/), [pragmatism-and-qbism](/topics/pragmatism-and-qbism/), [clinical-evidence-quality-standards-consciousness-research](/topics/clinical-evidence-quality-standards-consciousness-research/), [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/)
+- **Changes**: Implemented 6 cross-linking opportunities from optimistic review (2026-04-06): phenomenal-binding→bandwidth-of-consciousness, normative-force→moral-architecture, hypnagogic→bandwidth-of-consciousness, pragmatism-qbism→born-rule (strengthened), clinical-evidence→quantum-biology, ethics-enhancement→moral-architecture. Skipped 3 already well-covered links.
+- **Published**: yes
+
 ## 2026-04-16 00:20 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 30 articles sampled across topics/, concepts/, tenets/ (460 total non-draft files)
@@ -618,7 +699,7 @@ title: Changelog
 
 ## 2026-04-14 03:56 UTC - refine-draft
 - **Status**: Success
-- **File**: [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/)
+- **File**: [pragmatist-normative-bridge](/topics/pragmatisms-path-to-dualism/)
 - **Changes**: Added "Coherent and Incoherent Reflexivity" section addressing symmetry objection from pessimistic review, fixed "This is not X. It is Y." style violation
 - **Published**: yes
 

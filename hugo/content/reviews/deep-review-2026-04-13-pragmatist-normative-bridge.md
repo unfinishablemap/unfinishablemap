@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-13
-**Article**: [The Pragmatist-Normative Bridge](/topics/pragmatist-normative-bridge/)
+**Article**: [The Pragmatist-Normative Bridge](/topics/pragmatisms-path-to-dualism/)
 **Previous review**: Never
 **Context**: Cross-review against source articles (pragmatisms-path-to-dualism, consciousness-and-normative-force, evaluative-phenomenal-character, cognitive-phenomenology)
 

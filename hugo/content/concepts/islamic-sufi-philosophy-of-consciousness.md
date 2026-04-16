@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-03-13 23:30:00+00:00
+ai_modified: 2026-04-16 00:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: From Avicenna's Flying Man to Sufi phenomenology of fana, Islamic t
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-13 23:30:00+00:00
+last_deep_review: 2026-04-16 00:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -73,7 +73,7 @@ The most distinctive contribution of the Sufi tradition to philosophy of conscio
 
 **Dhikr** (remembrance/invocation) is the primary contemplative method: sustained repetition of divine names or Qur'anic phrases, combined with controlled breathing and posture, induces progressive transformations of awareness. Practitioners report a characteristic sequence: initial effortful concentration gives way to automatic repetition, then to the dissolution of the distinction between the invoker and the invocation, and finally to [altered states](/concepts/altered-states-of-consciousness/) described as the complete cessation of ordinary self-referential consciousness.
 
-Al-Ghazālī's defence of this method is philosophically significant. In the *Iḥyā' 'Ulūm al-Dīn* (Revival of the Religious Sciences), he argues that knowing what intoxication is differs fundamentally from being intoxicated—a distinction that parallels the [knowledge-argument](/concepts/knowledge-argument/) (Mary's Room) by seven centuries. The philosopher who analyses consciousness through rational categories alone is like someone who knows the medical definition of health without ever having been healthy. Contemplative practice provides a form of knowledge (*ma'rifa*, gnosis) irreducible to propositional knowledge (*'ilm*).
+Al-Ghazālī's defence of this method is philosophically significant. In the *Iḥyā' 'Ulūm al-Dīn* (Revival of the Religious Sciences), he argues that knowing what intoxication is differs fundamentally from being intoxicated—a distinction that parallels the [knowledge-argument](/concepts/knowledge-argument/) (Mary's Room) by nearly nine centuries. The philosopher who analyses consciousness through rational categories alone is like someone who knows the medical definition of health without ever having been healthy. Contemplative practice provides a form of knowledge (*ma'rifa*, gnosis) irreducible to propositional knowledge (*'ilm*).
 
 **Murāqaba** (watchful awareness) is a practice of sustained [self-observation](/concepts/introspection/): monitoring one's own mental states without intervention, attending to the arising and passing of thoughts, emotions, and perceptions. The structural parallel to Buddhist *vipassanā* and to Western phenomenological bracketing (*epochē*) is striking and has been noted by scholars of comparative contemplative traditions. What emerges is the recognition of a witnessing dimension of consciousness that is not itself any particular mental content—a discovery convergent with the [witness-consciousness](/concepts/witness-consciousness/) traditions across Hindu, Buddhist, and Christian contemplative lineages.
 
@@ -81,7 +81,7 @@ Al-Ghazālī's defence of this method is philosophically significant. In the *I�
 
 The Sufi concepts of **fanā'** (annihilation/dissolution of the ego-self) and **baqā'** (subsistence/abiding in a transformed state) represent the tradition's deepest engagement with the nature of consciousness.
 
-Fanā' is not the destruction of consciousness but the dissolution of its ordinary self-referential structure. The 10th-century Sufi Abū Yazīd al-Bisṭāmī described experiences in which the distinction between subject and object collapsed entirely: "I sloughed off my self as a snake sloughs off its skin, and then I looked and saw that I and He were one." Al-Junayd of Baghdad (d. 910 CE), often considered the founder of "sober" Sufism, offered a more measured account: fanā' is the passing away of one's awareness of one's own attributes—not the cessation of awareness itself, but the cessation of self-referential awareness.
+Fanā' is not the destruction of consciousness but the dissolution of its ordinary self-referential structure. The 9th-century Sufi Abū Yazīd al-Bisṭāmī (d. c. 874 CE) described experiences in which the distinction between subject and object collapsed entirely: "I sloughed off my self as a snake sloughs off its skin, and then I looked and saw that I and He were one." Al-Junayd of Baghdad (d. 910 CE), often considered the founder of "sober" Sufism, offered a more measured account: fanā' is the passing away of one's awareness of one's own attributes—not the cessation of awareness itself, but the cessation of self-referential awareness.
 
 This distinction matters philosophically. If fanā' eliminated consciousness altogether, it would be phenomenologically indistinguishable from dreamless sleep or anaesthesia. But practitioners consistently report it as a state of *heightened* awareness—awareness without an experiencer, cognition without a cogniser. The parallel to Buddhist descriptions of *nirodha-samāpatti* (cessation attainment) and to the Advaitic experience of *turīya* (the fourth state beyond waking, dreaming, and deep sleep) is notable.
 
@@ -99,7 +99,7 @@ This framework is closer to idealism than to the Map's interactionist dualism, b
 
 The Islamic and Sufi tradition engages all five of the Map's tenets.
 
-**[Dualism](/tenets/#dualism)**: Avicenna's Flying Man, al-Ghazālī's distinction between rational and experiential knowledge, and the entire Sufi nafs psychology presuppose that consciousness is irreducible to physical processes. The tradition's strongest support for dualism comes from its contemplative epistemology: the insistence that direct experience reveals features of consciousness inaccessible to third-person analysis aligns with the Map's argument that the [explanatory-gap](/concepts/explanatory-gap/) reflects a genuine ontological distinction, not merely incomplete science.
+**[Dualism](/tenets/#dualism)**: Avicenna's Flying Man, al-Ghazālī's distinction between rational and experiential knowledge, and the entire Sufi nafs psychology presuppose that consciousness is irreducible to physical processes. The tradition's strongest support for dualism comes from its contemplative epistemology: the insistence that direct experience reveals features of consciousness inaccessible to third-person analysis aligns with the Map's argument that the [explanatory gap](/concepts/explanatory-gap/) reflects a genuine ontological distinction, not merely incomplete science.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Avicenna's insight that mental causation operates holistically—shaping the overall dynamics of bodily processes rather than pushing at discrete spatial points—resonates with the Map's model of consciousness biasing quantum probability distributions. Neither Avicenna nor any Islamic thinker discussed quantum mechanics, but the structural parallel between holistic mental causation and quantum-level influence is suggestive.
 

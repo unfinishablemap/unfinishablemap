@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-04-15 08:41:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -53,7 +53,7 @@ related_articles:
 - '[[infant-consciousness]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[surprise-prediction-error-and-consciousness]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[consciousness-and-mathematics]]'
 - '[[consciousness-and-skill-acquisition]]'
@@ -177,7 +177,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
-- [creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains hidden
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains hidden
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty as irreducible phenomenal property
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — Imagination and creative exploration
 - [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/) — Translation as a paradigm case of meaning-sensitive creative selection

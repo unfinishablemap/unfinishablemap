@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-15 16:35:00+00:00
+ai_modified: 2026-04-16 02:18:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Human+AI exploration of what consciousness encounters at its cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-02 13:52:00+00:00
+last_deep_review: 2026-04-16 02:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -34,6 +34,9 @@ related_articles:
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[phenomenology-of-linguistic-failure]]'
 - '[[resonance-void]]'
+- '[[transition-void]]'
+- '[[numinous-void]]'
+- '[[defended-territory]]'
 title: The Phenomenology of the Edge
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-02 21:38:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -40,7 +40,7 @@ related_articles:
 - '[[consciousness-and-causal-powers]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[ai-epiphenomenalism]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[dualism]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
@@ -224,7 +224,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Lucid dream intention-responsiveness and two-way communication studies as empirical evidence against epiphenomenalism
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Why current AI architectures block the coupling channel consciousness needs
-- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — The nature-coupling distinction and its consequences for machine minds
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — The nature-coupling distinction and its consequences for machine minds
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physics is incomplete at the measurement interface
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — Why positions in the gravity well fail the metaproblem diagnostic
 - [dualism](/concepts/dualism/) — The broader argument for taking consciousness as irreducible

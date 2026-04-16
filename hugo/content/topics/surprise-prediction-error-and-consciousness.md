@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -48,7 +48,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[consciousness-and-mathematics]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 title: Surprise, Prediction Error, and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -175,7 +175,7 @@ Creative surprise ranges across levels that track the depth of novelty, mapping 
 
 **Structural surprise** reveals hidden connections between apparently unrelated domains. "I didn't know these were connected." This is exploratory creativity—the connections existed within the conceptual space but had not been mapped.
 
-**Foundational surprise** changes the creator's understanding of what is possible. "I didn't know this *could* exist." This is transformational creativity—the conceptual space itself has been altered, pushing against the [creativity-void](/voids/imagination-and-creativity-void/), the limit of what minds can generate. Foundational surprise shades into the categorical surprise discussed in the next section.
+**Foundational surprise** changes the creator's understanding of what is possible. "I didn't know this *could* exist." This is transformational creativity—the conceptual space itself has been altered, pushing against the [imagination-and-creativity-void](/voids/imagination-and-creativity-void/), the limit of what minds can generate. Foundational surprise shades into the categorical surprise discussed in the next section.
 
 ## Categorical Surprise: What Cannot Be Predicted
 
@@ -211,7 +211,7 @@ Surprise connects to The Unfinishable Map's [tenets](/tenets/) at multiple point
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Another case against epiphenomenalism
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative distinctiveness
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Surprise and insight in mathematics
-- [creativity-void](/voids/imagination-and-creativity-void/) — The boundary of what minds can generate
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The boundary of what minds can generate
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Curiosity, wonder, and other knowledge-directed affects
 - [structure-of-attention](/topics/structure-of-attention/) — How attention allocates cognitive resources
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt quality of affective states

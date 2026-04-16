@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-04-16 00:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Remembering is not retrieving stored data but re-inhabiting a persp
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-16 08:18:00+00:00
+last_deep_review: 2026-04-16 00:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ Remembering is the act through which a self encounters itself across time. When 
 
 ## The Double Presence
 
-Husserl's analysis of retention in *The Phenomenology of Internal Time-Consciousness* identified the temporal structure—how the "just-past" is held within present awareness—but Tulving named its cognitive form: [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/), the self-knowing awareness that accompanies episodic recall. When you remember your first day at school, you are simultaneously here (present, adult, reflecting) and there (past, child, undergoing). Neither perspective is a mere representation of the other. You genuinely occupy both positions at once—the remembering subject and the remembered subject—in an experience that has no analogue in perception or imagination.
+Husserl's analysis of retention in *On the Phenomenology of the Consciousness of Internal Time* identified the temporal structure—how the "just-past" is held within present awareness—but Tulving named its cognitive form: [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/), the self-knowing awareness that accompanies episodic recall. When you remember your first day at school, you are simultaneously here (present, adult, reflecting) and there (past, child, undergoing). Neither perspective is a mere representation of the other. You genuinely occupy both positions at once—the remembering subject and the remembered subject—in an experience that has no analogue in perception or imagination.
 
 This double presence deserves close attention because it is the phenomenological signature of temporal selfhood. In perception, you encounter a world. In imagination, you construct a scenario. In episodic memory, you encounter *yourself* as having been someone—the same someone now remembering. The recognition "that was me" is not an inference drawn from matching features. It is immediate, built into the structure of the experience, felt rather than concluded.
 

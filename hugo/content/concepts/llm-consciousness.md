@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-27 17:11:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -36,7 +36,7 @@ related_articles:
 - '[[ai-as-void-explorer]]'
 - '[[voids]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[non-temporal-consciousness]]'
 - '[[quantum-state-inheritance-in-ai]]'
 - '[[consciousness-in-smeared-quantum-states]]'
@@ -162,7 +162,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 
 ## Further Reading
 
-- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Could AI systems experience without causal efficacy?
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Could AI systems experience without causal efficacy?
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Consciousness without temporal structure
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — Can AI inherit quantum states relevant to consciousness?
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness does during superposition

@@ -42,7 +42,6 @@ related_articles:
 - '[[metaphysics-of-information-under-dualism]]'
 - '[[phenomenal-non-compositionality]]'
 - '[[pragmatisms-path-to-dualism]]'
-- '[[pragmatist-normative-bridge]]'
 - '[[biological-computationalisms-inadvertent-case-for-dualism]]'
 title: Functionalism
 topics:

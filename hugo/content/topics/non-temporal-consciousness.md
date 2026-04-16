@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-25 18:26:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[temporal-consciousness-structure-and-agency]]'
-- '[[fragmented-consciousness]]'
+- '[[split-brain-consciousness]]'
 - '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 - '[[non-temporal-fragmented-consciousness-2026-02-10]]'
@@ -72,7 +72,7 @@ A possible synthesis: Bergson's durée describes what consciousness does (produc
 
 ## What Fragmented Consciousness Reveals
 
-If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases, anaesthesia-induced unconsciousness, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases challenge the unity of consciousness and, by extension, any account of its non-temporal ground. (For a dedicated treatment of the fragmentation evidence, see [fragmented-consciousness](/topics/split-brain-consciousness/).)
+If the non-temporal thesis is correct, what happens when consciousness apparently fragments? Split-brain cases, anaesthesia-induced unconsciousness, and dissociative disorders each produce conditions where unified experience fractures — or seems to. These cases challenge the unity of consciousness and, by extension, any account of its non-temporal ground. (For a dedicated treatment of the fragmentation evidence, see [split-brain-consciousness](/topics/split-brain-consciousness/).)
 
 The fragmentation evidence is substantial. Mashour (2012) showed that anaesthetics achieve unconsciousness not by suppressing brain activity but by disrupting integration across brain regions. Propofol fragments neural spiking into on/off states and disrupts phase coupling across cortical areas. Classic split-brain studies suggested two simultaneous experiencers, though Pinto et al. (2017) complicate this picture — their work with callosotomy patients found "divided perception but undivided consciousness," with patients maintaining unified responses in everyday conditions despite hemispheric disconnection. The 2025 layered unity model proposes breakdowns in local experiential layers while preserving global unity.
 
@@ -122,7 +122,7 @@ Non-temporal consciousness connects directly to the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How consciousness requires and constitutes temporal structure
-- [fragmented-consciousness](/topics/split-brain-consciousness/) — What splits when consciousness fragments — and what doesn't
+- [split-brain-consciousness](/topics/split-brain-consciousness/) — What splits when consciousness fragments — and what doesn't
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Meditation as phenomenological data
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The broader challenge of explaining experience
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — The problem of experiential unity

@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[nihilism-and-existentialism]]'
-- '[[existentialism]]'
+- '[[nihilism-and-existentialism]]'
 - '[[purpose-and-alignment]]'
 - '[[topics/free-will]]'
 - '[[agent-causation]]'
@@ -151,7 +151,7 @@ The disanalogy is crucial. Moral intuitions are *about* external facts (what's r
 
 The illusionist faces a fundamental problem: the *seeming* of meaning must appear *to* something. Raymond Tallis: "Misrepresentation presupposes presentation." If the felt significance of a sunset is an illusion, something must be experiencing that illusion. The regress terminates in genuine experience—either the appearance is phenomenal (so phenomenal states exist) or nothing explains why experiences *seem* significant.
 
-Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: consciousness cannot be objectified—turned into a thing with properties—without ceasing to be consciousness. The attempt to explain away phenomenal experience treats the subject as if it were an object with potentially illusory features. But consciousness is the perspective from which features appear, not a thing that appears. See [existentialism](/concepts/nihilism-and-existentialism/) for the full analysis.
+Sartre's analysis of the *pour-soi* (being-for-itself) anticipated this point: consciousness cannot be objectified—turned into a thing with properties—without ceasing to be consciousness. The attempt to explain away phenomenal experience treats the subject as if it were an object with potentially illusory features. But consciousness is the perspective from which features appear, not a thing that appears. See [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) for the full analysis.
 
 ### The Contemplative Challenge
 
@@ -257,7 +257,7 @@ The position takes seriously what we actually know: consciousness exists, it's r
 
 ### Core Concepts
 - [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — The case for meaninglessness and responses to it
-- [existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
+- [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — Sartre's pour-soi and the phenomenology of freedom support consciousness-grounded meaning
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value
 - [purpose-and-alignment](/topics/purpose-and-alignment/) — How AI alignment depends on unresolved questions about meaning
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-opacity]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[three-kinds-of-void]]'
 - '[[limits-reveal-structure]]'
@@ -141,7 +141,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 
 - [voids](/voids/) — The broader framework for cognitive dark spaces
 - [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself observing
-- [creativity-void](/voids/imagination-and-creativity-void/) — Where insight originates, equally opaque to introspection
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — Where insight originates, equally opaque to introspection
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[language-thought-boundary]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[recursion-void]]'
 - '[[compound-failure-signatures]]'
 title: The Explanatory Void

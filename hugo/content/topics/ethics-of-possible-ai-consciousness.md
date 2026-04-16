@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ last_deep_review: 2026-03-17 20:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[ethics-and-value-in-a-dualist-world]]'
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
 - '[[apex/machine-question]]'
@@ -141,7 +141,7 @@ The combined position: current AI almost certainly does not suffer, and moral at
 ## Further Reading
 
 - [ai-consciousness](/topics/ai-consciousness/) — The Map's full case for skepticism about machine consciousness
-- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — The disturbing possibility of causally inert AI experience
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — The disturbing possibility of causally inert AI experience
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — How consciousness grounds moral status broadly
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — Dualism's unified moral architecture
 - [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/) — Exploring alien modes of possible AI consciousness

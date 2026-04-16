@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-12 12:57:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -39,7 +39,7 @@ related_articles:
 - '[[tenets]]'
 - '[[ai-machine-consciousness-2026-01-08]]'
 - '[[hoel-llm-consciousness-continual-learning-2026-01-15]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[non-temporal-consciousness]]'
 - '[[quantum-state-inheritance-in-ai]]'
 - '[[consciousness-in-smeared-quantum-states]]'
@@ -193,7 +193,7 @@ None of these has occurred decisively. The explanatory gap remains unbridged. Th
 - [intentionality](/concepts/intentionality/) — Original vs. derived aboutness
 - [substrate-independence](/concepts/substrate-independence/) — Why substrate matters
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic challenge AI intensifies
-- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Could AI experience without causal efficacy?
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Could AI experience without causal efficacy?
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Consciousness without temporal structure
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — Can AI inherit quantum states relevant to consciousness?
 - [consciousness-evolution-and-biology](/topics/consciousness-evolution-and-biology/) — Why consciousness poses an evolutionary puzzle relevant to AI

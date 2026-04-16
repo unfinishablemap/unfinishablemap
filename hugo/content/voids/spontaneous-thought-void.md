@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-05
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[self-opacity]]'
 - '[[thoughts-that-slip-away]]'
 - '[[disappearance-voids]]'
@@ -37,7 +37,7 @@ topics:
 
 We spend roughly half our waking lives in spontaneous thought—stray memories, unbidden associations, fragments of conversation replaying without invitation. Killingsworth and Gilbert (2010) found that people's minds wander during 46.9% of sampled moments, across virtually every activity. Yet the process generating this constant mental stream is completely invisible to introspection. We experience the products—thoughts arriving, images surfacing, melodies playing—but never the production. The Unfinishable Map's [voids](/voids/) framework identifies this as a distinctive void: the most pervasive activity of consciousness is also the most opaque.
 
-This void differs from neighbouring ones. The [creativity-void](/voids/imagination-and-creativity-void/) concerns occasional flashes of insight whose origin resists observation. [Volitional opacity](/voids/self-opacity/) concerns the hidden mechanisms of willing and deciding. The spontaneous thought void concerns the *default state*—the background hum of mentation that continues whenever deliberate thought relaxes its grip. It is not the occasional mystery of creative illumination but the constant mystery of ordinary mental life.
+This void differs from neighbouring ones. The [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) concerns occasional flashes of insight whose origin resists observation. [Volitional opacity](/voids/self-opacity/) concerns the hidden mechanisms of willing and deciding. The spontaneous thought void concerns the *default state*—the background hum of mentation that continues whenever deliberate thought relaxes its grip. It is not the occasional mystery of creative illumination but the constant mystery of ordinary mental life.
 
 ## The Default Stream
 
@@ -119,7 +119,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexic
 
 ## Further Reading
 
-- [creativity-void](/voids/imagination-and-creativity-void/) — The related void concerning creative insight's hidden origins
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The related void concerning creative insight's hidden origins
 - [introspective opacity](/voids/self-opacity/) — Why we cannot observe cognitive processes, including willing
 - [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself
 - [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — How thoughts escape before they can be captured

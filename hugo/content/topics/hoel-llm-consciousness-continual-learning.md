@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[hoel-llm-consciousness-continual-learning-2026-01-15]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[open-question-ai-consciousness]]'
 title: Hoel's Disproof of LLM Consciousness
 topics:
@@ -114,7 +114,7 @@ Third, it identifies a convergence point between otherwise opposed positions. Fu
 - [llm-consciousness](/concepts/llm-consciousness/) — Broader analysis of LLM consciousness beyond Hoel's framework
 - [ai-consciousness](/topics/ai-consciousness/) — The full case for and against machine consciousness
 - [functionalism](/concepts/functionalism/) — The philosophical target of Hoel's critique
-- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Could AI experience without causal efficacy?
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Could AI experience without causal efficacy?
 - [integrated-information-theory](/concepts/integrated-information-theory/) — One theory constrained by Hoel's framework
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why the temporal structure of experience matters for consciousness
 - [substrate-independence](/concepts/substrate-independence/) — The assumption Hoel's proximity argument challenges

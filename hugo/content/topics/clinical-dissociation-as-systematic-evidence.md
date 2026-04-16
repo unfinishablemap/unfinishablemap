@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-20 20:14:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,13 +29,13 @@ related_articles:
 - '[[pain-asymbolia]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[altered-states-as-interface-evidence]]'
-- '[[fragmented-consciousness]]'
+- '[[split-brain-consciousness]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
 title: Clinical Dissociation as Systematic Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
-- '[[fragmented-consciousness]]'
+- '[[split-brain-consciousness]]'
 ---
 
 The Unfinishable Map's [neurological dissociation work](/topics/neurological-dissociations-as-interface-architecture/) maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific aspects of experience go offline. Neuroimaging reveals altered functional connectivity in these conditions—but the alterations are selective disconnections between intact processing regions, not degradation of the regions themselves. Modern physicalism (functionalism, global workspace theory, IIT) can accommodate this by treating consciousness as dependent on connectivity patterns rather than raw neural activity. But this concession is itself revealing: it means consciousness tracks a specific *relationship* between processing systems—which is precisely what an interface model describes. Clinical dissociation tests whether that relationship behaves like a higher-order physical property or like a functional bridge between domains.
@@ -52,7 +52,7 @@ Modern clinical dissociation spans a spectrum from normal (absorption in a novel
 
 DID presents the philosophically sharpest case. Distinct personality states maintain separate experiential streams, autobiographical memories, and self-concepts within a single anatomically intact brain. Some alters report no awareness of others' experiences. EEG and fMRI studies reveal measurable differences between alter states—different autonomic responses, different neural activation patterns, different perceptual processing—yet no structural brain lesion accounts for the separation.
 
-The physicalist reading: DID shows that one brain can produce multiple conscious subjects, proving consciousness is a product of brain organisation. The dualist reading—developed in the Map's [fragmented-consciousness](/topics/split-brain-consciousness/) article—holds that a single non-physical mind expressing itself through a trauma-disrupted interface produces fragmented output without fragmented consciousness. The alters may represent different configurations of the interface rather than different minds.
+The physicalist reading: DID shows that one brain can produce multiple conscious subjects, proving consciousness is a product of brain organisation. The dualist reading—developed in the Map's [split-brain-consciousness](/topics/split-brain-consciousness/) article—holds that a single non-physical mind expressing itself through a trauma-disrupted interface produces fragmented output without fragmented consciousness. The alters may represent different configurations of the interface rather than different minds.
 
 Evidence favours the interface reading in one important respect. DID patients do not lose total information capacity—they lose *integration* of information across states. Individual alters often show normal cognitive function within their own state, despite measurable differences in neural activation patterns between states (Reinders et al., 2003). What breaks is the unity of access: one alter cannot reach another's memories or experiences, though both draw on the same neural hardware. The altered connectivity between states is selective—it disrupts cross-state integration while preserving within-state function. This pattern of selective disconnection maps onto interface channel disruption rather than general processing degradation.
 
@@ -127,7 +127,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: five altered states converging on the same multi-channel interface architecture
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How structural brain damage maps the same interface channels
-- [fragmented-consciousness](/topics/split-brain-consciousness/) — The broader fragmentation question and dualist responses
+- [split-brain-consciousness](/topics/split-brain-consciousness/) — The broader fragmentation question and dualist responses
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological disruption of cortical integration and the interface model
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — The paradigm bilateral disconnection case
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Affective channel dissociation through neurological damage

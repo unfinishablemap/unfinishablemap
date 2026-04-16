@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-27
-ai_modified: 2026-03-28 01:23:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[disappearance-voids]]'
 - '[[biological-cognitive-closure]]'
 - '[[self-opacity]]'
-- '[[attention-created-voids]]'
+- '[[attention-and-consciousness]]'
 - '[[transition-void]]'
 - '[[choking-phenomenon-mental-causation]]'
 - '[[consciousness-and-skill-acquisition]]'

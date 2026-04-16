@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-28 09:42:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -154,7 +154,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Contemplative access to the temporal microstructure of creative experience
 - [free-will](/topics/free-will/) — How creativity connects to free action
 - [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving as empirical evidence that phenomenal mode shapes creative outcomes
-- [creativity-void](/voids/imagination-and-creativity-void/) — The void where creative insight originates
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The void where creative insight originates
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Creative insight and scientific discovery as cases of conscious creativity
 - [consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/) — Research notes underlying this article
 

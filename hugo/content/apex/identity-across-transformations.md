@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-07 12:53:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-24 14:58:00+00:00
 apex_sources:
@@ -21,7 +21,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[witness-consciousness]]'
-- '[[process-haecceitism]]'
+- '[[haecceity]]'
 created: 2026-01-31
 date: &id001 2026-01-31
 description: What persists through radical change? The Map argues identity is irreducibly
@@ -115,7 +115,7 @@ Deliberate interface reconfiguration through [cognitive enhancement](/topics/eth
 
 If what you fundamentally are is this witnessing awareness—rather than any particular content—then dramatic transformations of content needn't threaten identity. You can experience ego dissolution while remaining *you*, the witness of dissolution. The Buddhist *anattā* doctrine complicates this picture significantly. Advanced practitioners in most Buddhist traditions report that the witness *also* dissolves—there is no stable observer, only observation. Some traditions (Advaita Vedānta, certain Dzogchen lineages) do posit an irreducible witnessing awareness; mainstream Buddhist Madhyamaka denies it.
 
-The Map's response draws on [process-haecceitism](/concepts/haecceity/): particularity can apply to experiential *streams* rather than permanent substances. *This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance. What persists is not a *substance* but a *subject*—the indexical fact that these experiences are *this* consciousness's experiences. This reading is closer to Vedāntic *ātman* than to Buddhist *anattā*, but process haecceitism shows the positions need not be fully opposed.
+The Map's response draws on [haecceity](/concepts/haecceity/): particularity can apply to experiential *streams* rather than permanent substances. *This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance. What persists is not a *substance* but a *subject*—the indexical fact that these experiences are *this* consciousness's experiences. This reading is closer to Vedāntic *ātman* than to Buddhist *anattā*, but process haecceitism shows the positions need not be fully opposed.
 
 ## Quantum Measurement and the Indexical Gap
 

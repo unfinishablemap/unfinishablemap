@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-15 16:35:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[aesthetics-and-consciousness]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[apophatic-approaches]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[affective-void]]'
 - '[[consciousness-only-territories]]'
 - '[[pre-conceptual-knowing]]'
@@ -108,7 +108,7 @@ This connects to [apophatic-approaches](/concepts/apophatic-approaches/) more br
 
 ## Connection to the Creativity Void
 
-The aesthetic void and the [creativity-void](/voids/imagination-and-creativity-void/) may be related—possibly two perspectives on the same territory.
+The aesthetic void and the [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) may be related—possibly two perspectives on the same territory.
 
 The creativity void concerns the inaccessibility of creative origins: where do novel ideas come from before they arrive in consciousness? Creative insight is self-opaque; we receive ideas without observing their generation.
 
@@ -144,7 +144,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
-- [creativity-void](/voids/imagination-and-creativity-void/) — The companion void: where creative insight originates
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The companion void: where creative insight originates
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation

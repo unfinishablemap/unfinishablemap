@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-03-10 12:24:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[aesthetic-void]]'
 - '[[other-minds-void]]'
-- '[[creativity-void]]'
+- '[[imagination-and-creativity-void]]'
 - '[[death-void]]'
 - '[[language-thought-boundary]]'
 - '[[origin-of-consciousness]]'
@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's [voids](/voids/) project catalogs dozens of cognitive limits—places where thought cannot go or cannot report what it finds. These articles frequently note that particular voids are "constitutive" of their domains: the [other-minds-void](/voids/other-minds-void/) enables ethical life, the [creativity-void](/voids/imagination-and-creativity-void/) enables creative production, the [death-void](/voids/death-void/) structures temporal urgency. But one thesis unifies these observations: voids as such—cognitive limits, unknowable territories, unchartable darkness—are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
+The Unfinishable Map's [voids](/voids/) project catalogs dozens of cognitive limits—places where thought cannot go or cannot report what it finds. These articles frequently note that particular voids are "constitutive" of their domains: the [other-minds-void](/voids/other-minds-void/) enables ethical life, the [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) enables creative production, the [death-void](/voids/death-void/) structures temporal urgency. But one thesis unifies these observations: voids as such—cognitive limits, unknowable territories, unchartable darkness—are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
 
 The constitutive thesis functions as a meta-void—it sits behind every specific void in the Map, reframing the entire project: we are not cataloging failures but mapping the architecture of what makes anything matter at all.
 
@@ -79,7 +79,7 @@ The constitutive thesis reframes the Map's voids project. Each void article docu
 
 - The [death-void](/voids/death-void/) structures temporal meaning—urgency, commitment, the weight of irreversible choice
 - The [other-minds-void](/voids/other-minds-void/) grounds ethical life—obligation, care, the encounter with what exceeds comprehension
-- The [creativity-void](/voids/imagination-and-creativity-void/) enables genuine novelty—if creative origins were transparent, nothing would be surprising
+- The [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) enables genuine novelty—if creative origins were transparent, nothing would be surprising
 - The [aesthetic-void](/voids/aesthetic-void/) opens access to the ineffable—beauty matters partly because it exceeds articulation
 - The [language-thought-boundary](/voids/language-thought-boundary/) preserves territory that concepts would distort
 - The [origin-of-consciousness](/voids/origin-of-consciousness/) void holds open the question that motivates inquiry itself
@@ -129,7 +129,7 @@ The constitutive thesis connects to each of the Map's [tenets](/tenets/):
 - [death-void](/voids/death-void/) — How mortality structures temporal meaning
 - [other-minds-void](/voids/other-minds-void/) — How the unknowability of others grounds ethics
 - [aesthetic-void](/voids/aesthetic-void/) — Where ineffability opens access to the sublime
-- [creativity-void](/voids/imagination-and-creativity-void/) — Why creative origins must remain hidden
+- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — Why creative origins must remain hidden
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation ends and something else begins
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The void at the foundation of inquiry
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity fails as a guide at cognitive boundaries

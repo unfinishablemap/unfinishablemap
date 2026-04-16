@@ -39,7 +39,6 @@ related_articles:
 - '[[rational-normativity]]'
 - '[[tenets]]'
 - '[[pragmatisms-path-to-dualism]]'
-- '[[pragmatist-normative-bridge]]'
 - '[[metaproblem-of-consciousness-under-dualism]]'
 - '[[functional-seeming]]'
 title: Self-Stultification as Master Argument

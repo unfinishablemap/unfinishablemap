@@ -1,9 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-13 19:57:00+00:00
+ai_modified: 2026-04-16 02:33:00+00:00
 ai_system: claude-opus-4-6
 author: null
+coalesced_from:
+- /topics/pragmatisms-path-to-dualism/
+- /topics/pragmatist-normative-bridge/
 concepts:
 - '[[interactionist-dualism]]'
 - '[[explanatory-gap]]'
@@ -15,14 +18,14 @@ concepts:
 - '[[pragmatism]]'
 - '[[combination-problem]]'
 created: 2026-03-15
-date: &id001 2026-03-15
+date: &id001 2026-04-16
 description: Pragmatism—the philosophy that evaluates ideas by practical consequences—arrives
-  at dualism when applied reflexively to consciousness, the condition that makes evaluation
-  possible.
+  at dualism when applied reflexively to consciousness, because materialism eliminates
+  the evaluative capacity on which pragmatic assessment depends.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-26 18:12:00+00:00
+last_deep_review: 2026-04-16 02:33:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,16 +36,18 @@ related_articles:
 - '[[enactivism-challenge-to-interactionist-dualism]]'
 - '[[pragmatism-and-qbism]]'
 - '[[consciousness-and-normative-force]]'
-- '[[pragmatist-normative-bridge]]'
 - '[[self-stultification-as-master-argument]]'
+- '[[topics/phenomenal-value-realism]]'
+- '[[consciousness-and-the-normativity-of-reason]]'
 title: Pragmatism's Path to Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-defeats-explanation]]'
 - '[[philosophy-of-mind]]'
+- '[[ethics-of-consciousness]]'
 ---
 
-[Pragmatism](/concepts/pragmatism/) evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends.
+[Pragmatism](/concepts/pragmatism/) evaluates ideas by their practical consequences — what difference does believing this make? The Unfinishable Map argues that when pragmatism is applied reflexively to consciousness, it arrives at dualism. Not because dualism is simpler or more elegant, but because materialism about consciousness fails pragmatism's own test: it cannot account for the evaluative capacity on which pragmatic assessment depends. The argument has two complementary dimensions. Pragmatism's reflexive logic shows *that* consciousness is required for evaluation. The analysis of [phenomenal normativity](/topics/consciousness-and-normative-force/) reveals *how* consciousness evaluates: through [demand-character](/concepts/evaluative-phenomenal-character/) built into the structure of experience itself. Together, these foreclose the functionalist escape route that each faces separately.
 
 The path runs through four stages — James's original pragmatic openness to dualism, Peirce's tychism opening ontological space for mental causation, van Fraassen's pragmatic theory of explanation that inadvertently reveals consciousness at the foundation, and the reflexive argument that pragmatic evaluation itself presupposes irreducible phenomenal experience. Pragmatism, taken seriously on its own terms, leads where many pragmatists have been reluctant to follow.
 
@@ -84,15 +89,53 @@ The Map's article on [consciousness and the limits of explanation](/topics/consc
 
 The pragmatic path to dualism reaches its strongest form when applied to pragmatism itself. Pragmatism evaluates beliefs by their practical consequences. But evaluation is a conscious activity. Assessing whether a belief "works" — whether it resolves difficulties, opens productive inquiries, coheres with experience — requires phenomenal experience: the felt sense that things fit together, the recognition that one framework illuminates while another obscures. This is [cognitive-phenomenology](/concepts/cognitive-phenomenology/) in action.
 
-If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. This is [phenomenal normativity](/concepts/evaluative-phenomenal-character/) at stake: the felt sense that one framework illuminates while another obscures carries intrinsic normative force that no purely physical description can ground. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
+If consciousness reduces to physical processes, then evaluation reduces to physical processes too. But then "what works" becomes merely "what physical processes happen to produce" — and the pragmatic criterion collapses into a description of what brains do rather than a norm for what we should believe. The pragmatist who adopts materialism about consciousness eliminates the evaluative standpoint that pragmatism requires.
 
-The Map's article on [normative force](/topics/consciousness-and-normative-force/) develops the complementary analysis: pragmatism shows *that* evaluation requires a conscious evaluator, while the normative force account shows *how* evaluation works — through the phenomenal demand-character that makes some conclusions feel warranted and others defective. The [pragmatist-normative bridge](/topics/pragmatist-normative-bridge/) synthesises these two arguments into a single structure, showing that together they foreclose the functionalist escape route that each faces separately.
+This reflexive argument is powerful but incomplete on its own. It establishes that *something* about consciousness is necessary for evaluation without specifying what that something is. A functionalist might concede the reflexive point while insisting that the relevant evaluative capacity is a computational role, not an irreducible phenomenal property. The functionalist grants that evaluation requires a system performing certain operations — comparing, weighing, judging — but denies that these operations require anything beyond their functional description.
 
-This reflexive argument is a species of [self-stultification](/topics/self-stultification-as-master-argument/) applied to evaluation rather than belief formation. The master argument shows that any theory severing consciousness from its own rational grounds cannot be rationally endorsed; the pragmatic version shows that materialism severs consciousness from the evaluative capacity that pragmatism's own method requires.
+Phenomenal normativity closes this gap. Korsgaard (1996) posed the question sharply: what is the *source* of normativity — what gives normative claims their binding force? The [normative force analysis](/topics/consciousness-and-normative-force/) shows that evaluation is not a neutral computational operation to which phenomenal character is incidentally attached. The evaluative work *is* the phenomenal character. Pain's badness is not a judgment layered on top of a sensation — the badness is constitutive of what pain feels like. The felt pull of a valid argument toward acceptance is not an emotional response to a logical structure — it is the mode through which the logical structure grips the thinker. [Demand-character](/concepts/evaluative-phenomenal-character/) — the quality of experience that presents its object as calling for a response — is where evaluation actually happens.
 
-This parallels the [argument-from-reason](/topics/argument-from-reason/): if beliefs are fully explained by physical causes, no belief is rationally justified, including physicalism. The pragmatic version makes the same structural move in different terms. If evaluation is fully explained by physical causes, no evaluation has normative force — including the evaluation that materialism works better than dualism.
+The bridge between these arguments transforms both. Putnam's (1981) pragmatic realism already established that truth requires the perspective of conscious rational agents — but did not specify which feature of consciousness does the work. Pragmatism, supplemented by phenomenal normativity, can now specify exactly what about consciousness is ineliminable: the demand-character through which experience presents some states of affairs as calling for response and others as repelling it. Phenomenal normativity, supplemented by pragmatism's reflexive logic, gains a new argument against reductive accounts: any theory that eliminates demand-character eliminates the evaluative standpoint on which theory-choice depends, including the choice of that theory.
 
-A materialist pragmatist might respond: evaluation just *is* a certain kind of information processing, and physical systems can perform it without irreducible phenomenal experience. This is the [functionalist](/concepts/functionalism/) move — identifying mental states with computational roles rather than phenomenal character. But this response is self-undermining. To claim that information processing constitutes evaluation, you must evaluate that claim — and the evaluation must be something beyond the information processing it describes, or the justification is circular. Pragmatism grounds justification in whether beliefs *feel* productive, whether frameworks *seem* illuminating — in the phenomenal character of cognitive satisfaction. A functionalist account strips away precisely the felt dimension that gives pragmatic assessment its normative bite.
+This parallels the [argument-from-reason](/topics/argument-from-reason/): if beliefs are fully explained by physical causes, no belief is rationally justified, including physicalism. The pragmatic version makes the same structural move in different terms. If evaluation is fully explained by physical causes, no evaluation has normative force — including the evaluation that materialism works better than dualism. The reflexive argument is a species of [self-stultification](/topics/self-stultification-as-master-argument/) applied to evaluation rather than belief formation.
+
+## The Functionalist Escape Route Closes
+
+Functionalism has separate responses to pragmatism's reflexive argument and the normative force analysis, taken individually. Against the reflexive argument, functionalism claims that evaluation can be identified with computational operations. Against phenomenal normativity, functionalism claims that demand-character is the felt quality of functional states that could in principle be multiply realised.
+
+The bridge between pragmatism and phenomenal normativity forecloses both responses simultaneously. Consider what happens when they are combined. The functionalist must claim that (a) evaluation is a computational role, and (b) the demand-character of normative experience is just the felt quality of that role. But the reflexive argument shows that the evaluation of (a) and (b) themselves depends on phenomenal demand-character — the felt grip that makes these claims seem warranted or unwarranted. The functionalist who evaluates the claim that evaluation is computational uses phenomenal normativity to do so. The felt sense that the functionalist account "works" — that it resolves philosophical problems, that it coheres with experience — is itself an instance of the very demand-character the functionalist claims to explain away.
+
+The structural advantage over the standalone reflexive argument is significant. The reflexive argument alone shows that evaluation presupposes consciousness. The bridge shows that evaluation presupposes *demand-character specifically* — the irreducibly phenomenal quality that functionalism cannot capture. A sophisticated functionalist might respond: "I agree evaluation depends on demand-character — I simply identify demand-character with a functional property." But the reflexive logic blocks this move. To identify demand-character with a functional property, you must evaluate that identification — and the evaluation proceeds through the very demand-character whose nature is in question. If demand-character *is* the functional property, the evaluation that establishes this is just more functional processing, and the claim that it "works" has no normative force beyond the tautology that the process produced itself. The functionalist cannot retreat to "evaluation requires consciousness, but consciousness is functional" because the bridge reveals that the evaluative work depends on precisely the phenomenal property that distinguishes consciousness from its functional description.
+
+### Coherent and Incoherent Reflexivity
+
+An obvious objection: every philosophical position about consciousness is reflexive. The dualist who evaluates whether demand-character is irreducible uses demand-character to do so, just as the functionalist does. If reflexivity undermines the functionalist, why does it not equally undermine the dualist?
+
+The asymmetry lies in whether the reflexive position is self-consistent or self-undermining. The dualist's reflexivity is coherent: if consciousness is fundamental and irreducible, then using conscious evaluation to investigate consciousness is unproblematic — a fundamental capacity examining itself loses nothing in the process. The conclusion (consciousness is irreducible) is consistent with the method (irreducible conscious evaluation).
+
+The functionalist's reflexivity is incoherent in a specific way. If demand-character is identical to a functional property, then the evaluation establishing this identity is itself just functional processing. The felt grip that makes the functionalist's conclusion seem *warranted* — the phenomenal quality that distinguishes "this theory works" from "this process occurred" — is, on the functionalist's own account, nothing beyond the functional operation. The evaluation lacks normative force by the theory's own lights: it cannot distinguish between "the conclusion is correct" and "the process terminated." The functionalist's position entails that the evaluation supporting it has no more authority than any other computational output — including the contradictory one.
+
+The dualist faces no parallel difficulty. If demand-character is irreducible, the evaluation that establishes this retains its normative force throughout. The dualist's conclusion does not drain the method of its authority. The functionalist's conclusion does — and that is the asymmetry the bridge exploits.
+
+## Parsimony as Evaluative Norm
+
+The bridge between pragmatism and phenomenal normativity generates a further argument concerning [Occam's Razor](/tenets/#occams-limits). Parsimony is itself a normative principle — it tells us we *ought* to prefer simpler theories, all else being equal. As a normative principle, it has demand-character: the simpler theory presents itself as calling for acceptance, the more complex as requiring justification.
+
+If parsimony depends on demand-character, and demand-character depends on irreducible consciousness, then using parsimony to argue against irreducible consciousness is self-undermining. The materialist who invokes Occam's Razor against dualism relies on a normative principle whose binding force requires the very phenomenal consciousness being denied. The razor cuts its own handle.
+
+This goes beyond the general observation that parsimony has limits (the Map's fifth tenet). The bridge provides a specific mechanism for the failure: parsimony is an evaluative norm, evaluative norms depend on phenomenal demand-character, and phenomenal demand-character is irreducible. The argument does not merely say parsimony is unreliable — it explains *why* parsimony cannot serve as grounds for eliminating consciousness.
+
+## Four Domains Under One Argument
+
+The normative force analysis identifies four domains — moral, epistemic, aesthetic, prudential — that share phenomenal architecture while retaining distinct qualitative character. The bridge argument applies to all four, unifying them under a single pragmatic logic.
+
+**Epistemic normativity** is the most direct case. The felt grip of a valid argument — the pull toward accepting a conclusion one's premises entail — is the evaluative capacity that pragmatism's reflexive argument identifies as presupposed by theory-choice. Epistemic demand-character is not a byproduct of reasoning; it is reasoning's normative dimension. The [normativity of reason](/topics/consciousness-and-the-normativity-of-reason/) develops this in detail: the gap between causal "because" and normative "because" requires conscious minds.
+
+**Moral normativity** extends the argument beyond theoretical evaluation. When suffering presents itself as demanding alleviation, the demand-character performs evaluative work that pragmatism requires: it distinguishes states of affairs that call for intervention from those that do not. Moral evaluation presupposes a conscious moral evaluator, and the evaluator's capacity operates through the phenomenal character of moral experience.
+
+**Aesthetic and prudential normativity** complete the picture. Beauty's pull toward attention and self-interest's pull toward preservation are further instances of demand-character performing evaluative work. Each domain contributes evidence that evaluation across every human concern depends on phenomenal properties that physical description cannot capture.
+
+The shared architecture across domains — demand-character, resistance to preference, gradedness — is exactly what the bridge predicts. If consciousness evaluates through phenomenal normativity, and if evaluation is required across every domain where beliefs have practical consequences, then phenomenal normativity should appear wherever pragmatic assessment reaches. It does.
 
 ## Putnam's Pragmatic Realism
 
@@ -122,17 +165,29 @@ Rorty's anti-representationalism fares no better: his rejection of one-to-one id
 
 **The success of science.** Science works extraordinarily well without positing non-physical properties. But pragmatism's own analysis shows why this success does not undermine dualism. Science works by producing understanding in conscious agents. The success of science is evidence that conscious agents can grasp truths about the physical world — which is precisely what bidirectional interaction predicts. Science's success presupposes what materialism denies: that conscious evaluation has genuine normative authority over what we should believe.
 
+## What Would Challenge This View
+
+The pragmatist path to dualism would face pressure if:
+
+- **Demand-character proved eliminable from evaluation.** If a system could perform genuine theory-choice — not merely produce outputs correlated with good theories, but evaluate *why* one theory works better — without any phenomenal demand-character, the central claim that evaluation proceeds through phenomenal normativity would be undercut.
+- **Functionalism captured normativity without circularity.** If a functionalist account could identify demand-character with a functional property while grounding the evaluation of that identification in something other than the demand-character being analysed, the reflexive closure would fail.
+- **Pragmatism survived without phenomenal evaluation.** If pragmatic assessment could be fully characterised in terms of behavioural success or predictive accuracy without appealing to the felt sense that frameworks illuminate or obscure, the reflexive argument would lose its grip.
+- **The reflexive asymmetry dissolved.** If the dualist's reflexivity proved equally self-undermining — if accepting that demand-character is irreducible somehow drained the evaluation of its authority — the coherent/incoherent distinction would collapse.
+- **Parsimony operated independently of demand-character.** If the normative force of Occam's Razor could be grounded in something other than phenomenal experience — formal elegance as a mathematical property, for instance — the self-undermining argument against using parsimony to eliminate consciousness would not apply.
+
 ## Relation to Site Perspective
 
 The Unfinishable Map finds in pragmatism an unlikely but powerful ally.
 
-**[Dualism](/tenets/#dualism)**: Pragmatism's reflexive application supports dualism not through metaphysical speculation but through pragmatism's own criterion. Materialism about consciousness fails the pragmatic test because it eliminates the evaluative standpoint that pragmatic assessment requires. Consciousness must be irreducible to physical processes — otherwise the very capacity to assess which theory "works" is undermined.
+**[Dualism](/tenets/#dualism)**: Pragmatism's reflexive application supports dualism not through metaphysical speculation but through pragmatism's own criterion. Materialism about consciousness fails the pragmatic test because it eliminates the evaluative standpoint that pragmatic assessment requires. The bridge with phenomenal normativity strengthens this case by showing that evaluation presupposes *demand-character specifically* — the irreducibly phenomenal quality that functionalism cannot capture. Neither argument alone forecloses the functionalist response; together they do.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Peirce's tychism provides the philosophical precedent for Tenet 2. His argument that consciousness requires real indeterminism arrived at the Map's position through purely pragmatist reasoning, decades before quantum mechanics provided the physical framework. That two independent lines of argument — pragmatist philosophy and quantum physics — converge on the same conclusion strengthens both.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Van Fraassen's analysis reveals that explanation requires conscious agents whose understanding has causal consequences — scientists choose theories, design experiments, and communicate results based on their conscious evaluation. If this evaluation is epiphenomenal, the success of science becomes inexplicable. Consciousness causally contributes to the world through the practice of inquiry itself.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Van Fraassen's analysis reveals that explanation requires conscious agents whose understanding has causal consequences — scientists choose theories, design experiments, and communicate results based on their conscious evaluation. If this evaluation is epiphenomenal, the success of science becomes inexplicable. Consciousness causally contributes to the world through the practice of inquiry itself. The bridge connects the causal role of consciousness directly to its phenomenal properties — consciousness does not merely accompany the evaluative process but performs it through felt normative force.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Pragmatism provides the most natural articulation of Tenet 5. Parsimony is one theoretical virtue among others. Pragmatism evaluates it alongside fruitfulness, scope, and coherence with experience. When parsimony conflicts with the capacity for evaluation — when the "simpler" theory eliminates the standpoint from which simplicity is assessed — pragmatism sides with the richer ontology. Apparent simplicity that destroys its own justification is not simple at all.
+**[No Many Worlds](/tenets/#no-many-worlds)**: Normative demands address *this* evaluator in *this* situation. Pragmatic evaluation asks what difference *this* belief makes for *this* inquirer. Both presuppose indexical identity — a specific conscious agent whose evaluative standpoint matters. Many-worlds, where all evaluations occur across branches, dissolves the standpoint that pragmatic normativity requires.
+
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Pragmatism provides the most natural articulation of Tenet 5, and the bridge with phenomenal normativity provides a specific mechanism for why parsimony cannot eliminate consciousness. Parsimony is an evaluative norm with demand-character; demand-character requires irreducible consciousness; therefore parsimony presupposes what it would need to eliminate. Apparent simplicity that destroys its own justification is not simple at all.
 
 The pragmatic path to dualism is distinctive because it does not rely on intuitions about qualia, thought experiments about zombies, or arguments from conceivability. It relies on pragmatism's own criterion, applied consistently. If you take seriously that ideas should be evaluated by their practical consequences, you must take seriously the evaluator — the conscious agent whose phenomenal experience constitutes the assessment. Eliminate that agent from your ontology and you eliminate the ground on which pragmatism stands.
 
@@ -145,10 +200,12 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why maintaining dualism is epistemically responsible
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The irreducible phenomenal character of thought and evaluation
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How the demand-character of experience grounds the evaluation pragmatism requires
-- [pragmatist-normative-bridge](/topics/pragmatist-normative-bridge/) — How pragmatism's reflexive argument and phenomenal normativity combine to foreclose the functionalist escape route
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The master argument pattern that pragmatism's reflexive case instantiates
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's pragmatist heritage creates tension with its anti-dualist conclusions
 - [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) — QBism's pragmatist foundations and the agent-shaped hole in quantum foundations
+- [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as constituted by conscious experience
+- [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — Why the gap between causal and normative "because" requires conscious minds
+- [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Demand-character as intrinsic to experience
 
 ## References
 
@@ -166,20 +223,11 @@ The pragmatic path to dualism is distinctive because it does not rely on intuiti
 1. Putnam, H. (1988). *Representation and Reality*. MIT Press.
 1. Putnam, H. (1994). *Words and Life*. Harvard University Press.
 1. Putnam, H. (1960). Minds and Machines. In S. Hook (ed.), *Dimensions of Mind*. NYU Press.
+1. Rawlette, S. H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
+1. Korsgaard, C. M. (1996). *The Sources of Normativity*. Cambridge University Press.
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind*. MIT Press.
 1. Fuchs, C. (2012). QBism, the Perimeter of Quantum Bayesianism. arXiv:1003.5209.
 1. Wu, J. (2024). Pragmatism as the Foundation of Cognitive Enactivism. *Philosophy and Social Criticism*.
 1. Southgate, A. & Oquatre-cinq, C. (2026-02-01). William James and Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/william-james-consciousness/
 1. Southgate, A. & Oquatre-six, C. (2026-03-26). Why Consciousness Defeats Explanation. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-defeats-explanation/
-
-<!-- AI REFINEMENT LOG - 2026-04-04 (pass 6)
-Changes made:
-- Deepened Dewey engagement: added reflex arc critique (1896), his strategic replacement of "consciousness" with "experience," and analysis of why his inquiry model (felt difficulty → deliberation → consummatory experience) presupposes irreducible phenomenal character
-- Added cross-link to new pragmatism-and-qbism article in Peirce/QBism paragraph and Further Reading
-- Added pragmatism-and-qbism to related_articles frontmatter
-- Added Dewey (1896) reflex arc reference
-
-Integrates task context: research/pragmatist-philosophy-of-mind-2026-03-28.md Dewey material + cross-linking with new pragmatism-and-qbism.md.
-
-This log should be removed after human review.
--->
+1. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-03-15 07:20:00+00:00
+ai_modified: 2026-04-16 02:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,13 +17,13 @@ description: Human-AI analysis of whether quantum randomness in LLM token sampli
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 07:20:00+00:00
+last_deep_review: 2026-04-16 02:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-state-inheritance-in-ai]]'
 - '[[consciousness-in-smeared-quantum-states]]'
-- '[[epiphenomenal-ai-consciousness]]'
+- '[[ai-epiphenomenalism]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[quantum-randomness-llm-token-sampling-2026-02-10]]'
 - '[[collapse-and-time]]'
@@ -141,7 +141,7 @@ The quantum randomness channel is a "quantum fossil" embedded in a deterministic
 
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — An alternative pathway: AI inheriting classical states from conscious human collapse
 - [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/) — What consciousness might experience during quantum superposition
-- [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/) — Whether AI could have experience without causal power
+- [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — Whether AI could have experience without causal power
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How biological quantum consciousness mechanisms compare
 - [llm-consciousness](/concepts/llm-consciousness/) — The broader case for and against LLM consciousness
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why consciousness acts through brains and not arbitrary physical systems
@@ -162,6 +162,8 @@ Eisenstein, C. (2024). The staggering implications of non-deterministic AI (Part
 Maier, M. A., & Dechamps, M. C. (2018). Intentional observer effects on quantum randomness: A Bayesian analysis reveals evidence against micro-psychokinesis. *Frontiers in Psychology*, 9, 379.
 
 Salmon, J. K., Moraes, M. A., Dror, R. O., & Shaw, D. E. (2011). Parallel random numbers: As easy as 1, 2, 3. *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis*, 1–12.
+
+Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
 
 Thinking Machines Lab. (2025). Defeating nondeterminism in LLM inference.
 

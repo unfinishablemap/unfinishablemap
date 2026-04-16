@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-04-15 09:00:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-15 09:00:00+00:00
 apex_sources:
@@ -174,7 +174,7 @@ This synthesis connects to all five of The Unfinishable Map's [tenets](/tenets/)
 
 This synthesis draws from:
 
-- [Philosophy of Time and Consciousness](/topics/temporal-structure-of-consciousness/) — The bidirectional dependence between time and consciousness
+- [Philosophy of Time and Consciousness](/topics/temporal-consciousness-structure-and-agency/) — The bidirectional dependence between time and consciousness
 - [Time, Collapse, and Agency](/topics/time-collapse-and-agency/) — How collapse introduces temporal direction and enables agency
 - [Temporal Structure of Consciousness](/topics/temporal-consciousness-structure-and-agency/) — The gap between functional moments and experienced duration
 - [Time-Symmetric Selection Mechanism](/topics/time-symmetric-selection-mechanism/) — How atemporal selection resolves the Libet problem

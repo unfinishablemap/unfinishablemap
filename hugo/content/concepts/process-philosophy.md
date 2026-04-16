@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-03-17 16:00:00+00:00
+ai_modified: 2026-04-16 01:52:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -12,7 +12,7 @@ concepts:
 - '[[dualism]]'
 - '[[combination-problem]]'
 - '[[mental-causation-and-downward-causation]]'
-- '[[process-haecceitism]]'
+- '[[haecceity]]'
 - '[[prehension]]'
 - '[[subjective-aim]]'
 created: 2026-01-27
@@ -173,7 +173,7 @@ This isn't unique to process philosophy; the same applies to substance metaphysi
 ## Further Reading
 
 - [process-and-consciousness](/apex/process-and-consciousness/) — Apex synthesis integrating process philosophy with the Map's consciousness framework
-- [process-haecceitism](/concepts/haecceity/) — How haecceity applies to processes rather than substances
+- [haecceity](/concepts/haecceity/) — How haecceity applies to processes rather than substances
 - [prehension](/concepts/prehension/) — Whitehead's concept of how each moment grasps its predecessors
 - [subjective-aim](/concepts/subjective-aim/) — Whitehead's goal-directedness in actual occasions
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Time experience and its connection to Whiteheadian process
