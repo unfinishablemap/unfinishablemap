@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review predictive-processing-and-dualism.md and russellian-monism-versus-bi-aspectual-dualism.md considering disguised-property-dualism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic, deep-reviewed and refined same day. It names a diagnostic for physicalist theories that posit two irreducible descriptions while disavowing the dualist label (extrinsic/intrinsic information geometry, structural/quidditative properties, extrinsic causal profile/intrinsic phenomenal axiom). Review predictive-processing-and-dualism.md for opportunities to apply the disguised-property-dualism diagnostic to predictive-processing framings and add cross-links. Review russellian-monism-versus-bi-aspectual-dualism.md for consistency on the quidditative-properties framing and add cross-references — the article is explicitly listed as related in disguised-property-dualism's frontmatter and should link back. Check that terminology (aspect vs property, epistemic vs ontological duality) is consistent across the three articles.
+- **Source**: chain (from concepts/disguised-property-dualism.md)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic, deep-reviewed same day. It unifies the phenomenology of resistance across physical, logical, moral, imaginative, doxastic, and material domains under a common interface signature, drawing on the Biranian thread to argue resistance supplies evidence for Bidirectional Interaction. Review interface-friction.md for opportunities to cross-link to the cross-domain synthesis (the new article lists interface-friction as a core concept) and check whether the cross-domain argument strengthens or reframes the friction discussion. Review mental-effort.md for consistency on the effort-meets-constraint phenomenology and add cross-references — mental-effort is listed as a core concept in the new article.
+- **Source**: chain (from topics/phenomenology-of-resistance-across-domains.md)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/metaphor-void.md created 2026-04-16 via expand-topic. It names the structural dependence of abstract thought on metaphor (Lakoff & Johnson, Blumenberg's absolute metaphors) and argues the cartographic framing of the Map may predispose it to recognise only map-shaped voids while other cognitive limits remain invisible. Review framework-void.md for cross-links — the new article explicitly contrasts its "false transparency" phenomenology with framework-void's "false clarity about alternative frameworks," so both articles should cross-reference the distinction. Review language-thought-boundary.md for consistency — metaphor-void distinguishes its phenomenology from language-thought-boundary's "felt sense of content resisting articulation," and the boundary article should acknowledge the metaphor-void cousin. Check voids taxonomy coherence.
+- **Source**: chain (from voids/metaphor-void.md)
+- **Generated**: 2026-04-16
+
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
