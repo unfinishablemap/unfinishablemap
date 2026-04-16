@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 13:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/embodied-consciousness]]
+- **Word count**: 3152 → 3163 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (restored missing wikilinks, updated 17 cross-references)
+- **Enhancements made**: 2 (restored social cognition/intersubjectivity links, migrated all archived slug references)
+- **Output**: [[reviews/deep-review-2026-04-16-embodied-consciousness]]
+
 ## 2026-04-16 13:29 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[embodied-consciousness-and-the-interface]], [[phenomenology-of-embodiment-under-dualism]]

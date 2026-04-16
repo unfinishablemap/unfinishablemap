@@ -4,7 +4,7 @@ description: "The split between experiencer and experienced was not always obvio
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-03-25T10:35:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[quantum-measurement-and-consciousness]]"
   - "[[self-opacity]]"
   - "[[enactivism-challenge-to-interactionist-dualism]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -123,7 +123,7 @@ Currently, none of these conditions has been met. Cross-cultural convergence con
 - [[intersubjectivity]]
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own constitutive contribution
 - [[enactivism-challenge-to-interactionist-dualism]] — Enactivism's attempt to dissolve the mind-body distinction
-- [[embodied-consciousness-and-the-interface]] — The body as interface for consciousness, not replacement for it
+- [[embodied-consciousness]] — The body as interface for consciousness, not replacement for it
 - [[embodied-cognition]] — The 4E framework and its relationship to dualism
 
 ## References

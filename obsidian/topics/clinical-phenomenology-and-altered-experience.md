@@ -4,14 +4,14 @@ description: "Clinical phenomenology uses psychiatric disruption as natural expe
 created: 2026-03-03
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-04-05T09:48:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[consciousness-and-the-ownership-problem]]"
 concepts:
   - "[[phenomenology]]"
@@ -92,7 +92,7 @@ In schizophrenia, Fuchs identifies **disembodiment**: the lived body loses its t
 
 In depression, the opposite occurs: **corporealization** or hyper-embodiment. The lived body becomes heavy, opaque, resistant. Rather than being transparent, the body becomes an oppressive presence blocking engagement with the world. As Fuchs writes, "In severe depression, the body may regain its pure materiality and turn into an obstacle."
 
-This polarity matters philosophically. Both disembodiment *and* hyper-embodiment produce suffering—opposite disruptions of the same transparency relation. The consciousness-body relationship can be mistuned in two directions: too transparent (the body vanishes as lived medium) or too opaque (the body intrudes as brute physical presence). This bidirectional fragility is what we would expect of an [[embodied-consciousness-and-the-interface|interface between distinct domains]]—a coupling that can loosen at either end—rather than a single system merely malfunctioning.
+This polarity matters philosophically. Both disembodiment *and* hyper-embodiment produce suffering—opposite disruptions of the same transparency relation. The consciousness-body relationship can be mistuned in two directions: too transparent (the body vanishes as lived medium) or too opaque (the body intrudes as brute physical presence). This bidirectional fragility is what we would expect of an [[embodied-consciousness|interface between distinct domains]]—a coupling that can loosen at either end—rather than a single system merely malfunctioning.
 
 ## Temporal Destruction in Depression
 

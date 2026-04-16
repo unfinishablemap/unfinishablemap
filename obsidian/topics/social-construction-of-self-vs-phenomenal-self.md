@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[cognitive-integration-and-the-self]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[methodology-of-consciousness-research]]"
   - "[[consciousness-and-intersubjectivity]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
@@ -125,7 +125,7 @@ This analysis connects to the Map's foundational commitments at multiple points.
 - [[inaccessible-past]] — The reconstructive nature of autobiographical memory
 - [[phenomenology-of-recursive-self-awareness]] — How self-awareness transforms consciousness, generating capacities social construction operates upon but cannot produce
 - [[contemplative-practice-as-philosophical-evidence]] — Meditative phenomenology as evidence for the persistence of the phenomenal self
-- [[embodied-consciousness-and-the-interface]] — The lived body as pre-social foundation for phenomenal selfhood
+- [[embodied-consciousness]] — The lived body as pre-social foundation for phenomenal selfhood
 - [[methodology-of-consciousness-research]] — Why constructionism's third-person methodology misses the phenomenal self
 - [[consciousness-and-intersubjectivity]] — Why consciousness is ontologically individual but phenomenologically enriched through encounter with other minds
 - [[consciousness-and-collective-phenomena]] — Why collective intentionality and institutional reality require phenomenal consciousness

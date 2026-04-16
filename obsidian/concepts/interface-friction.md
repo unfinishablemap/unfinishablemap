@@ -4,7 +4,7 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-16T12:51:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 last_deep_review: 2026-03-19T08:37:00+00:00
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[causal-interface]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

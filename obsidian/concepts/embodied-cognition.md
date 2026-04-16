@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-15T23:26:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[tenets]]"
   - "[[embodied-cognition-extended-mind-2026-01-14]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[choking-phenomenon-mental-causation]]"
   - "[[consciousness-and-skill-acquisition]]"
@@ -201,14 +201,13 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 - [[implicit-memory]] — Anoetic consciousness, the Dreyfus model, and choking as bidirectional evidence
 - [[attention-as-interface]] — The quantum Zeno mechanism for mind-body interaction
 - [[illusionism]] — The eliminativist challenge and site's response
-- [[embodied-consciousness-and-the-interface]] — How the body shapes consciousness's engagement with matter
+- [[embodied-consciousness]] — How the body shapes consciousness's engagement with matter, and what embodiment feels like from the first person
 - [[ai-consciousness]] — Why the grounding problem matters for machine minds
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — Varela's integration of embodied cognition with consciousness science
 - [[choking-phenomenon-mental-causation]] — The choking evidence as a case study in mental causation
 - [[consciousness-and-skill-acquisition|phenomenology of flow states]] — Flow as transformed consciousness, not diminished consciousness
 - [[symbol-grounding-problem]] — Why disembodied symbol manipulation lacks semantic grounding
 - [[consciousness-and-the-phenomenology-of-place]] — Embodied spatial engagement and the atmosphere of places
-- [[phenomenology-of-embodiment-under-dualism]] — What embodiment feels like from the first person: ownership, agency, absence, and pain
 - [[enactivism-challenge-to-interactionist-dualism]] — Enactivism's dissolution strategy and its limits against interactionist dualism
 - [[consciousness-as-activity]] — Activity-first ontology and its relation to enactivism's core claims
 - [[consciousness-epistemology-extended-cognition]] — The consciousness extension gap: why cognition extends but phenomenal experience does not

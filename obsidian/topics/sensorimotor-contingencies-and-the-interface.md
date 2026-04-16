@@ -4,7 +4,7 @@ description: "Perception depends on lawful patterns between movement and sensati
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-31T18:38:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[embodied-cognition-extended-mind-2026-01-14]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[choking-phenomenon-mental-causation]]"
@@ -34,7 +34,7 @@ last_deep_review: 2026-03-31T18:38:00+00:00
 
 [[dualist-perception|Perception]] is the mastery of lawful patterns linking movement to sensation — what O'Regan and Noë call *sensorimotor contingencies*. When you run your fingers across a textured surface, the tactile sensation changes in structured ways as your hand moves. When you shift your gaze, the visual field transforms according to precise geometric laws. Perceiving is knowing — practically, bodily — how these transformations work. The Unfinishable Map argues that sensorimotor contingencies do not explain consciousness but reveal the structure of the interface through which consciousness engages the physical world.
 
-This article extends the Map's [[embodied-consciousness-and-the-interface|general treatment of embodied cognition and the interface]] by examining the specific phenomenological and empirical details that sensorimotor contingency theory provides. Where the general treatment argues that embodiment reveals the interface rather than eliminating the soul, this article traces *how* the interface operates at the level of bodily engagement.
+This article extends the Map's [[embodied-consciousness|general treatment of embodied cognition and the interface]] by examining the specific phenomenological and empirical details that sensorimotor contingency theory provides. Where the general treatment argues that embodiment reveals the interface rather than eliminating the soul, this article traces *how* the interface operates at the level of bodily engagement.
 
 ## Sensorimotor Contingency Theory
 
@@ -48,7 +48,7 @@ O'Regan and Noë identify two main levels of contingency:
 
 ## Merleau-Ponty's Body-Subject
 
-Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Building on Husserl's distinction between the body as experienced from within (*Leib*) and the body as observed from without (*Körper*) — a distinction developed phenomenologically in the Map's [[phenomenology-of-embodiment-under-dualism|treatment of embodied experience]] — Merleau-Ponty argued that the body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — what Merleau-Ponty called the "I can" that precedes the "I think."
+Sensorimotor contingency theory has deep roots in Merleau-Ponty's phenomenology of the *corps propre* — the body-subject. Building on Husserl's distinction between the body as experienced from within (*Leib*) and the body as observed from without (*Körper*) — a distinction developed phenomenologically in the Map's [[embodied-consciousness|treatment of embodied experience]] — Merleau-Ponty argued that the body-subject is neither a physical object among objects nor a disembodied mind directing a mechanism. It is the medium of engagement with the world, experienced as a field of capacities — what Merleau-Ponty called the "I can" that precedes the "I think."
 
 The body schema illustrates this. An experienced driver does not represent the car's dimensions explicitly; the car's boundaries become part of the driver's felt sense of spatial capacity. A blind person's cane is not a perceived object but an extension of tactile reach. Tool incorporation — the body schema expanding to encompass instruments — reveals that the interface between consciousness and world is not fixed at the skin. It is plastic, extending and contracting with skill and equipment.
 
@@ -120,7 +120,7 @@ Both readings accommodate the basic phenomenon, but they frame it differently. O
 
 ## Further Reading
 
-- [[embodied-consciousness-and-the-interface]] — The general treatment of embodied cognition and the interface
+- [[embodied-consciousness]] — The general treatment of embodied cognition and the interface
 - [[embodied-cognition]] — The concept treatment: 4E cognition, Dreyfus model, choking evidence
 - [[filter-theory]] — The brain as transmitter rather than producer of consciousness
 - [[attention-as-interface]] — Attention as the control surface for consciousness

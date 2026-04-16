@@ -3,13 +3,13 @@ title: "The Consciousness-Brain Interface Across Development"
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 description: "How the consciousness-brain interface transforms across the lifespan through qualitative restructurings, with critical periods, cognitive stages, skill acquisition, and cross-species comparison revealing what shapes the interface."
 topics:
   - "[[attention-and-the-consciousness-interface]]"
   - "[[the-interface-location-problem]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[comparative-consciousness-and-interface-differences]]"
 concepts:
@@ -177,7 +177,7 @@ The developmental trajectory of the interface connects to all five of the Map's 
 - [[consciousness-and-skill-acquisition]]
 - [[comparative-consciousness-and-interface-differences]]
 - [[ethics-of-cognitive-enhancement-under-dualism]]
-- [[embodied-consciousness-and-the-interface]]
+- [[embodied-consciousness]]
 - [[consciousness-and-neurodegenerative-disease]]
 - [[animal-consciousness]]
 - [[theory-of-mind]]

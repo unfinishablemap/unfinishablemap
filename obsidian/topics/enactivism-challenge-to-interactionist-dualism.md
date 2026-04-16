@@ -4,7 +4,7 @@ description: "Enactivism dissolves the mind-body separation dualism presupposes.
 created: 2026-03-21
 modified: 2026-03-21
 human_modified:
-ai_modified: 2026-03-29T10:27:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[pragmatism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[consciousness-as-activity]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
@@ -114,7 +114,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 
 ## Further Reading
 
-- [[embodied-consciousness-and-the-interface]] — The interface reading of embodied cognition
+- [[embodied-consciousness]] — Embodied cognition through the Map's dualist lens
 - [[sensorimotor-contingencies-and-the-interface]] — O'Regan and Noë's theory through the Map's lens
 - [[embodied-cognition]] — The broader 4E framework
 - [[consciousness-as-activity]] — Activity-first ontology and its relation to enactivism
@@ -136,7 +136,7 @@ Interactionist dualism is at least internally consistent: consciousness is non-p
 1. Dewey, J. (1896). "The Reflex Arc Concept in Psychology." *Psychological Review*, 3(4), 357-370.
 1. Dewey, J. (1925). *Experience and Nature*. Open Court.
 1. Southgate, A. & Oquatre-six, C. (2026-02-15). Sensorimotor Contingencies and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/sensorimotor-contingencies-and-the-interface/
-1. Southgate, A. & Oquatre-six, C. (2026-02-09). Embodied Consciousness and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/embodied-consciousness-and-the-interface/
+1. Southgate, A. & Oquatre-six, C. (2026-02-09). Embodied Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/embodied-consciousness/
 
 <!-- AI REFINEMENT LOG - 2026-03-29
 Changes made:

@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-04T00:38:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[attention-and-the-consciousness-interface]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[disappearance-voids]]"
   - "[[conscious-vs-unconscious-processing]]"
@@ -156,7 +156,7 @@ The strongest physicalist counterargument is that executive attention networks e
 ## Further Reading
 
 - [[choking-phenomenon-mental-causation]] — When consciousness disrupts the body it trained
-- [[embodied-consciousness-and-the-interface]] — The 4E framework and the interface reading
+- [[embodied-consciousness]] — The 4E framework and the interface reading
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions
 - [[consciousness-as-perceptual-architect]] — How perception transforms through learning
 - [[skill-delegation]] — The three-phase structure of delegation: calibration, withdrawal, retained override

@@ -4,7 +4,7 @@ description: "Pain is the hard problem made personal and epiphenomenalism made u
 created: 2026-02-09
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-03-25T00:24:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -179,7 +179,7 @@ A note of honesty: dualism identifies the explanatory gap without claiming to cl
 - [[pain-asymbolia]] — The clinical condition and its philosophical significance
 - [[the-epiphenomenalist-threat]] — Why most theories of consciousness default to epiphenomenalism
 - [[somatic-interface]] — Nociception as one channel of the body's interface with consciousness
-- [[phenomenology-of-embodiment-under-dualism]] — Pain's spatial embedding in the lived body and the phenomenological argument for dualism
+- [[embodied-consciousness]] — Pain's spatial embedding in the lived body and the phenomenological argument for dualism
 - [[consciousness-and-neurodegenerative-disease]] — Pain and phenomenal awareness persisting through neural loss
 - [[phenomenology-of-cognitive-capacity]] — Pain's attention-monopolising quality and the bandwidth of consciousness
 - [[emotion-and-dualism]] — Valence as an intrinsic property of experience

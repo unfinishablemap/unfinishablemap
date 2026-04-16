@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T13:29:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-16
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-16T13:43:00+00:00
 coalesced_from:
   - "/topics/embodied-consciousness-and-the-interface/"
   - "/topics/phenomenology-of-embodiment-under-dualism/"
@@ -158,7 +158,7 @@ The timing evidence reinforces this. Willed attention deploys in approximately 3
 
 ## Intercorporeality
 
-Embodied phenomenology extends beyond solitary experience. Merleau-Ponty argued that we experience others not as minds hidden behind bodies but as expressive unities—the anger is *in* the clenched fist, the sadness *in* the slumped posture. He called this *intercorporeality*: our bodies resonate with other bodies before any inference about hidden mental states.
+Embodied phenomenology extends beyond solitary experience. Merleau-Ponty argued that we experience others not as minds hidden behind bodies but as expressive unities—the anger is *in* the clenched fist, the sadness *in* the slumped posture. He called this *intercorporeality*: our bodies resonate with other bodies before any inference about hidden mental states. This pre-inferential bodily encounter is central to [[consciousness-and-social-understanding|social cognition]] and [[intersubjectivity]].
 
 This pre-inferential bodily empathy complicates both materialism and Cartesian dualism. Against the Cartesian picture, we do not first observe a body and then infer a mind behind it. Against materialism, the *felt resonance*—the way another's pain can make your own body tense—involves phenomenal qualities that exceed the neural mirroring that mirror neurons provide. Mirror neurons explain *how* resonance occurs mechanically. They do not explain *why* observing another's pain produces a felt echo rather than merely triggering motor preparation.
 

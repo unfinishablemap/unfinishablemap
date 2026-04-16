@@ -3,7 +3,7 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-12
 human_modified: null
-ai_modified: 2026-04-13T02:56:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -37,7 +37,7 @@ related_articles:
   - "[[dualist-perception]]"
   - "[[resolution-void]]"
   - "[[quantum-neural-timing-constraints]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness-and-memory]]"

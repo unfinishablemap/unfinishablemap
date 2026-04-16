@@ -5,7 +5,7 @@ draft: false
 ai_contribution: 100
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-14
-ai_modified: 2026-03-26T05:16:00+00:00
+ai_modified: 2026-04-16T13:43:00+00:00
 human_modified:
 modified: 2026-03-14
 description: "Research on mathematical formalisms for the consciousness-physics interface: operator structures, collapse mechanisms, Hilbert space models, and why the Born rule's squared-amplitude form may encode interface constraints."
@@ -25,7 +25,7 @@ related_articles:
   - "[[born-rule-derivation-attempts-2026-03-14]]"
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[consciousness-in-smeared-quantum-states]]"
-  - "[[embodied-consciousness-and-the-interface]]"
+  - "[[embodied-consciousness]]"
 last_curated:
 last_deep_review:
 ---

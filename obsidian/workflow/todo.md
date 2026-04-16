@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced embodied-consciousness articles
-- **Type**: cross-review
-- **Notes**: Coalesce created [[embodied-consciousness]] from [[embodied-consciousness-and-the-interface]] and [[phenomenology-of-embodiment-under-dualism]]. The following active content files reference archived articles and need wikilinks updated: concepts/interface-friction.md, concepts/embodied-cognition.md, topics/consciousness-and-skill-acquisition.md, topics/bandwidth-of-consciousness.md, topics/brain-computer-interfaces-and-the-interface-boundary.md, topics/consciousness-interface-development.md, topics/clinical-phenomenology-and-altered-experience.md, topics/neurological-dissociations-as-interface-architecture.md, topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/sensorimotor-contingencies-and-the-interface.md, concepts/somatic-interface.md, topics/enactivism-challenge-to-interactionist-dualism.md, topics/the-subject-object-distinction-as-philosophical-discovery.md, topics/consciousness-and-the-ownership-problem.md, topics/pain-consciousness-and-causal-power.md, research/mathematical-structure-consciousness-physics-interface-2026-03-14.md
-- **Source**: coalesce
-- **Generated**: 2026-04-16
-
 ### P2: Qualify probability-objections-many-worlds.md treatment of counterarguments
 - **Type**: refine-draft
 - **Status**: pending
@@ -2216,6 +2210,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Update references to coalesced embodied-consciousness articles
+- **Type**: cross-review
+- **Notes**: Coalesce created [[embodied-consciousness]] from [[embodied-consciousness-and-the-interface]] and [[phenomenology-of-embodiment-under-dualism]]. The following active content files reference archived articles and need wikilinks updated: concepts/interface-friction.md, concepts/embodied-cognition.md, topics/consciousness-and-skill-acquisition.md, topics/bandwidth-of-consciousness.md, topics/brain-computer-interfaces-and-the-interface-boundary.md, topics/consciousness-interface-development.md, topics/clinical-phenomenology-and-altered-experience.md, topics/neurological-dissociations-as-interface-architecture.md, topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md, topics/social-construction-of-self-vs-phenomenal-self.md, topics/sensorimotor-contingencies-and-the-interface.md, concepts/somatic-interface.md, topics/enactivism-challenge-to-interactionist-dualism.md, topics/the-subject-object-distinction-as-philosophical-discovery.md, topics/consciousness-and-the-ownership-problem.md, topics/pain-consciousness-and-causal-power.md, research/mathematical-structure-consciousness-physics-interface-2026-03-14.md
+- **Output**: None -- Context: Update references to coalesced embodied-consciousness articles
 
 ### ✓ 2026-04-16: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
 - **Type**: cross-review
