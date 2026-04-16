@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Create concept page for disguised property dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-16-evening review (New Concept Pages Needed section). The "disguised property dualism" move — identified in Markovian monism via predictive-processing-and-dualism.md — names a pattern where physicalist refinements under hard-problem pressure end up doing property-dualist work while disavowing the label. Worth a dedicated concept page because the pattern is likely to recur as physicalists respond to consciousness pressure (it applies to Friston's Markovian monism, arguably to Russellian monism's intrinsic-nature move, and to some integrated-information framings). Short concept page (1200-1500 words). Keep definitional and link-target oriented: define the diagnostic, give 2-3 worked examples, distinguish from genuine physicalism and from overt dualism. Target section: concepts/ (228/250). Tenet alignment: Dualism (the diagnostic clarifies what substantive dualism adds beyond the disguised variants). See optimistic-2026-04-16-evening.md New Concept Pages Needed.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P2: Address quantum-assumption transparency and diagnostic-value overreach in ai-consciousness.md and simulation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16) identified two medium-severity issues unaddressed by today's refine-drafts. (1) ai-consciousness.md: the quantum-interaction tenet's "currently lacks direct empirical support" qualification is buried in a subsection while the conclusion ("some quantum-level interface appears required") is stated prominently. In the "What Would Conscious AI Require?" section, explicitly label requirement #2 as contingent on an empirically unsupported tenet, with the same prominence as the requirement itself. (2) simulation.md: the article claims the simulation hypothesis does "specific diagnostic work" by revealing contingent assumptions, but every skeptical thought experiment does this. The response to the Cartesian comparison ("structural specificity") is thin. Either provide a concrete example where the simulation's structural specificity leads to a philosophical conclusion generic skepticism cannot reach, or temper the claim about distinctive diagnostic value. Also address counterargument "The Binding Problem for Dualist AI Consciousness" — acknowledge explicitly that the binding mechanism is unknown for both biological and artificial systems, and reframe the AI argument as identifying additional structural obstacles beyond the already-acknowledged interaction problem. See pessimistic-2026-04-16.md Issues 3, 4 and Counterarguments section.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
