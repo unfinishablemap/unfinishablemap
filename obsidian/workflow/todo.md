@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review islamic-sufi-philosophy-of-consciousness.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-13 — 33 days ago. Concept page on Islamic and Sufi philosophical traditions and consciousness. Verify accuracy of represented traditions (Ibn Arabi, al-Ghazali, Mulla Sadra), coherence, cross-references to indian-philosophy-of-mind and cross-traditional-convergence articles, and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-15
-
 ### P2: Deep review transition-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2110,6 +2103,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review islamic-sufi-philosophy-of-consciousness.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-13 — 33 days ago. Concept page on Islamic and Sufi philosophical traditions and consciousness. Verify accuracy of represented traditions (Ibn Arabi, al-Ghazali, Mulla Sadra), coherence, cross-references to indian-philosophy-of-mind and cross-traditional-convergence articles, and tenet alignment.
+- **Output**: obsidian/concepts/islamic-sufi-philosophy-of-consciousness.md
 
 ### ✓ 2026-04-16: Add 9 cross-links from optimistic-2026-04-06-midday review
 - **Type**: refine-draft
