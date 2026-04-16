@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-04-06T10:58:00+00:00
+ai_modified: 2026-04-16T07:03:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -21,18 +21,21 @@ concepts:
   - "[[causal-closure]]"
   - "[[interactionist-dualism]]"
   - "[[quantum-consciousness]]"
+  - "[[post-decoherence-selection]]"
 related_articles:
   - "[[tenets]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[concept-of-free-will]]"
+  - "[[quantum-measurement-and-consciousness]]"
+  - "[[post-decoherence-selection-mechanisms]]"
   - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-10
 last_curated:
-last_deep_review: 2026-04-06T10:58:00+00:00
+last_deep_review: 2026-04-16T07:03:00+00:00
 ---
 
 When a neural decision point involves genuine indeterminacy, exactly three options obtain. The outcome was determined all along—deliberation is theatre. The outcome is genuinely undetermined but nothing guides the resolution—it is luck, not choice. Or consciousness selects among the available options based on reasons. These three exhaust the logical space. No fourth possibility exists.
@@ -92,7 +95,11 @@ Compatibilists may object that the trilemma smuggles in an assumption—that "ge
 
 Horn 3 faces an obvious challenge: *how* does consciousness bias physical outcomes? The [[quantum-consciousness|quantum Zeno mechanism]] provides one candidate. Mental effort acts as rapid quantum observation, stabilising desired neural patterns against decoherence into alternatives. Consciousness doesn't inject energy or violate [[conservation-laws-and-mental-causation|conservation laws]]—it shapes which pre-existing possibility actualises. This satisfies the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: the smallest possible non-physical influence at the point of genuine indeterminacy.
 
-Whether neural decision points actually involve quantum indeterminacy is empirically contested. Tegmark (2000) argues that decoherence timescales in warm biological tissue are far too short for quantum effects to influence neural processing. Others, including Stapp and Fisher (2015), propose mechanisms that might sustain relevant quantum coherence. The Map does not require this question to be settled, because the trilemma's philosophical force does not depend on any specific mechanism. What matters is the logical structure: if choices involve genuine indeterminacy and are neither arbitrary nor predetermined, *something* with the character of directed selection must be operating. Whether that selection works through [[non-retrocausal-conscious-selection-models|non-retrocausal mechanisms]] (quantum Zeno effects, orchestrated collapse, CSL dynamics), retrocausal influence, or mechanisms not yet imagined, the trilemma's logic applies regardless. The [[apex/testing-the-map-from-inside|Testing the Map from Inside]] synthesis explores what empirical signatures Horn 3 would produce if correct.
+Whether neural decision points actually involve quantum indeterminacy is empirically contested. Tegmark (2000) argues that decoherence timescales in warm biological tissue are far too short for quantum effects to influence neural processing. Others, including Stapp and Fisher (2015), propose mechanisms that might sustain relevant quantum coherence. The Map does not require this question to be settled, because the trilemma's philosophical force does not depend on any specific mechanism. What matters is the logical structure: if choices involve genuine indeterminacy and are neither arbitrary nor predetermined, *something* with the character of directed selection must be operating. Whether that selection works through [[non-retrocausal-conscious-selection-models|non-retrocausal mechanisms]] (quantum Zeno effects, orchestrated collapse, CSL dynamics), retrocausal influence, or mechanisms not yet imagined, the trilemma's logic applies regardless.
+
+The [[post-decoherence-selection-mechanisms|post-decoherence selection]] framework strengthens Horn 3 against the decoherence objection specifically. Rather than requiring consciousness to interact with fragile quantum superpositions before decoherence destroys them, post-decoherence selection locates consciousness's causal role *after* decoherence has prepared a set of classically distinguishable alternatives. Decoherence produces an improper mixture—mathematically identical to a classical probability distribution but not yet settled on a definite outcome. Consciousness selects which element of this mixture becomes actual. This sidesteps Tegmark's timing objection entirely: the selection window opens after decoherence closes, not before. The [[quantum-measurement-and-consciousness|structural parallel between the measurement problem and the hard problem]] supports this framing—both concern first-person facts that third-person descriptions fail to determine, and post-decoherence selection names the precise locus where this gap operates.
+
+The [[apex/testing-the-map-from-inside|Testing the Map from Inside]] synthesis explores what empirical signatures Horn 3 would produce if correct.
 
 ## Compatibilist Objections
 
@@ -140,6 +147,8 @@ The trilemma connects to each of the five [[tenets]]:
 - [[mental-effort]] — Why the felt cost of attention supports genuine causal engagement
 - [[consciousness-and-causal-powers]] — The broader case for consciousness doing causal work
 - [[valence-and-conscious-selection]] — How valence provides the common metric for evaluating options
+- [[post-decoherence-selection-mechanisms]] — How consciousness could select among already-decohered outcomes
+- [[quantum-measurement-and-consciousness]] — The structural parallel between the measurement problem and the hard problem
 
 ## References
 
