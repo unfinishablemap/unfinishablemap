@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on normativity of reason
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Explores how consciousness grounds rational normativity — the epistemic authority of rational endorsement depends on conscious experience being causally efficacious. Distinct from the "normativity gap" topic task (which bridges selection to reasons); this targets a canonical concept page on the general pattern. Directly supports Tenet 1 (Dualism) and strengthens argument-from-reason and self-stultification-as-master-argument. Target section: concepts/ (227/230).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2203,6 +2196,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Write concept article on normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Explores how consciousness grounds rational normativity — the epistemic authority of rational endorsement depends on conscious experience being causally efficacious. Distinct from the "normativity gap" topic task (which bridges selection to reasons); this targets a canonical concept page on the general pattern. Directly supports Tenet 1 (Dualism) and strengthens argument-from-reason and self-stultification-as-master-argument. Target section: concepts/ (227/230).
+- **Output**: Write concept article on normativity of reason
 
 ### ✓ 2026-04-16: Condense phenomenology.md (3604 words, 103% of hard threshold)
 - **Type**: condense

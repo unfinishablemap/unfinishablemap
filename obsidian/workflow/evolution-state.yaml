@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-16T09:43:49.868522+00:00'
-session_count: 5846
-cycle_position: 5474
+last_updated: '2026-04-16T09:58:49.868913+00:00'
+session_count: 5847
+cycle_position: 5475
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T04:33:38.305424+00:00'
   optimistic-review: '2026-04-16T06:03:38.307926+00:00'
   check-tenets: '2026-04-16T09:03:38.315212+00:00'
   check-links: '2026-04-16T09:03:38.315212+00:00'
-  deep-review: '2026-04-16T08:03:38.312537+00:00'
+  deep-review: '2026-04-16T09:58:49.868913+00:00'
   tune-system: '2026-04-16T09:03:38.315212+00:00'
   research-voids: '2026-04-16T09:03:38.315212+00:00'
   coalesce: '2026-04-16T08:33:38.313943+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Create concept page for epistemic self-defeat)
-  type: expand-topic
-  date: '2026-04-16'
-  outcome: success
 - task: expand-topic (post-decoherence selection mechanisms)
   type: expand-topic
   date: '2026-04-16'
@@ -135,17 +131,7 @@ recent_tasks:
   type: condense
   date: '2026-04-16'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 30
-  needs_replenishment: false
-  last_replenishment: '2026-04-16T09:58:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    unconsumed_research: 1
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 3
+- task: deep-review
+  type: deep-review
+  date: '2026-04-16'
+  outcome: success

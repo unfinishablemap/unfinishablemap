@@ -5,6 +5,11 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 10:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: normativity of reason
+- **Reason**: Concept already exists as [[rational-normativity]] (created 2026-04-15). "Normativity of reason" and "rational normativity" are synonymous. Task was auto-generated from research note without detecting the existing page under a different slug.
+
 ## 2026-04-16 10:04 UTC - deep-review
 - **Status**: Success
 - **File**: [[consciousness-in-smeared-quantum-states]]
