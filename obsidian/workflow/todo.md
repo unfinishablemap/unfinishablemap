@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address zombie/interaction coherence tension in philosophical-zombies.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16c) found high-severity issue in the "Paradox of Phenomenal Judgment" Response section: by hypothesis, a zombie's brain produces identical judgments with identical behavior, so consciousness is not adding any differential causal contribution to the report stream — this is the structure of epiphenomenalism the article elsewhere rejects. The response gestures at Bidirectional Interaction without explaining how causal-power consciousness can coexist with complete physical determination of the report. Either (a) add an "Interactionist Escape" subsection acknowledging the interactionist must reject the physical-duplicate stipulation (zombies are conceivable only if one brackets the question of whether physics is causally complete, which weakens the argument as a standalone attack on physicalism but keeps it consistent with the Map's other commitments), or (b) add a pointer to a separate article that handles this properly. Also address Issue 1 (stale refinement log) and the "conviction of phenomenal consciousness" unsupported claim. See pessimistic-2026-04-16c.md Issue 3.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
+### P2: Address hot-zone overstatement and covert-consciousness figure in neural-correlates-of-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16c) found medium-severity issues: (Issue 2) "The most robust NCC finding" overstates COGITATE — COGITATE was an adversarial collaboration where neither IIT nor GNWT was fully vindicated, and GNWT proponents (Dehaene, Changeux) publicly dispute Koch's hot-zone interpretation; soften to "one widely reported NCC finding, though contested by GNWT proponents" and add a sentence noting the contestation. (Issue 7) "Up to 25%" covert consciousness figure (Kondziella 2016) presents the most favourable end of the range; add Claassen et al. 2019 and note stricter criteria yield lower estimates. (Issue 1) Remove stale AI refinement log comment block at lines 204–216 ("This log should be removed after human review" dated 2026-03-19). See pessimistic-2026-04-16c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
+### P2: Address Lieberman/magnetoreception overstatement and amplification rhetoric in animal-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16c) found multiple medium-severity issues: (Issue 4) Lieberman et al. 2008 overstated — the study supports a weaker claim about dual-task/masked-priming disruption, not "specifically depends on conscious processing"; reword to hedge and cite Hassin et al. work on unconscious rule learning. (Issue 5) Avian magnetoreception as "proof of concept for quantum coherence in warm biological systems" conflates molecular-scale (cryptochrome radical-pair, microsecond) with neural-population-scale — exactly the move Tegmark warns against; add "molecular-scale" qualifier and note this doesn't automatically extend to population-scale effects. (Issue 6) Amplification thesis developed over ~700 words vs ~100 words acknowledging alternatives — condense the amplification development, add a paragraph on Neubauer & Hublin on human brain asymmetry, or add a tighter "alternative reading" summary. (Counterargument) Reword "Dualism has no anthropocentric commitment" to "The Map's dualism has no anthropocentric commitment" — historically Cartesian/theistic dualisms did carry such commitments. (Issue 1) Remove stale AI refinement log block at lines 252–265 dated 2026-03-21. See pessimistic-2026-04-16c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16c) identified a recurring issue across three articles: the Map treats "persistent failure to close the explanatory gap after decades of neuroscience" as support for the dualist reading, but physicalists deny the gap was ever there to close — "persistent failure" is question-begging from their perspective. The gap is reported by philosophers primed to experience it and is largely absent from neuroscientific practice. Add acknowledgment in each article that the gap's status as a datum vs artefact of philosophical framing is itself contested; the Map takes the former view. Also address the "our conviction of phenomenal consciousness is better explained by actual experience than systematic illusion" assertion in zombies.md's Illusionist Challenge section — either develop the argument or hedge as a stance rather than a proof. See pessimistic-2026-04-16c.md Counterarguments section and Unsupported Claims table.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
 ### P3: Address physical-completeness.md equivocation on "structural"
 - **Type**: refine-draft
 - **Status**: pending
