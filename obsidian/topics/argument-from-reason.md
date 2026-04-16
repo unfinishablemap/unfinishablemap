@@ -4,9 +4,9 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-04-16T06:18:00+00:00
+ai_modified: 2026-04-16T13:13:00+00:00
 draft: false
-last_deep_review: 2026-04-16T06:18:00+00:00
+last_deep_review: 2026-04-16T13:13:00+00:00
 topics:
   - "[[dualism]]"
   - "[[concepts/materialism]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[self-stultification]]"
   - "[[reasons-responsiveness]]"
+  - "[[rational-normativity]]"
   - "[[cognitive-phenomenology]]"
   - "[[intentionality]]"
   - "[[pragmatism]]"
@@ -50,7 +51,7 @@ The argument originated with C.S. Lewis's *Miracles* (1947), was substantially r
 
 The argument proceeds in three steps:
 
-**1. Rational inference requires tracking normative relationships.** When you reason validly, you move from premises to conclusions because the conclusion *follows from* the premises. This "following from" relationship is logical, not causal. The truth of "All humans are mortal; Socrates is human" doesn't *cause* the truth of "Socrates is mortal"—rather, the first two truths logically *entail* the third. Reasoning means recognizing and respecting these entailment relationships.
+**1. Rational inference requires tracking [[rational-normativity|normative relationships]].** When you reason validly, you move from premises to conclusions because the conclusion *follows from* the premises. This "following from" relationship is logical, not causal. The truth of "All humans are mortal; Socrates is human" doesn't *cause* the truth of "Socrates is mortal"—rather, the first two truths logically *entail* the third. Reasoning means recognizing and respecting these entailment relationships.
 
 **2. Physical causation operates via efficient causes, not normative relationships.** Neurons fire because of electrochemical gradients, neurotransmitter concentrations, and prior neural states—not because firing would be *justified* by good reasons. The causal history of a brain state makes no reference to whether that state accurately represents reality or follows logically from previous states. Physics describes how things happen, not whether they're reasonable.
 
@@ -169,7 +170,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [[introspection]] - The reliability of self-knowledge and its connection to self-stultification
 - [[motor-selection]] - How attention selects among motor possibilities, paralleling intellectual selection
 - [[self-stultification]] - The formal epistemological concept (undercutting defeaters, self-generated defeaters) that grounds the argument's self-defeat structure
-- [[self-stultification]] - The structure of positions that undermine their own rational grounds
+- [[rational-normativity]] - The prescriptive dimension of reasoning—prescriptive force, universality, content-sensitivity—that physical description cannot capture
 - [[self-stultification-as-master-argument]] - How self-defeat arguments converge into a unified case for dualism
 - [[pragmatisms-path-to-dualism]] — Pragmatism's evaluative criterion requires irreducible phenomenal experience; combining the reflexive argument with phenomenal normativity forecloses functionalism's escape
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] - Cross-traditional convergence showing that evaluative phenomenal character—the felt authority of reasons—resists reduction

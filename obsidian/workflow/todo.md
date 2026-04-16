@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-16 via expand-topic. The normativity of reason — the binding quality of logical and rational norms — is central to both the argument from reason and the self-stultification argument. Review argument-from-reason.md for opportunities to cross-link to rational-normativity (the concept page may provide a more precise anchor for claims about norms). Review self-stultification-as-master-argument.md for consistency on the norm-grasping vs norm-implementation distinction and add cross-references. Also check consciousness-and-the-normativity-of-reason.md for overlap or tension with the new concept page.
-- **Source**: chain (from concepts/rational-normativity.md)
-- **Generated**: 2026-04-16
-
 ### P2: Qualify probability-objections-many-worlds.md treatment of counterarguments
 - **Type**: refine-draft
 - **Status**: pending
@@ -2217,6 +2210,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/rational-normativity.md created 2026-04-16 via expand-topic. The normativity of reason — the binding quality of logical and rational norms — is central to both the argument from reason and the self-stultification argument. Review argument-from-reason.md for opportunities to cross-link to rational-normativity (the concept page may provide a more precise anchor for claims about norms). Review self-stultification-as-master-argument.md for consistency on the norm-grasping vs norm-implementation distinction and add cross-references. Also check consciousness-and-the-normativity-of-reason.md for overlap or tension with the new concept page.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering rational-normativity insights
 
 ### ✓ 2026-04-16: Address interface friction's unfalsifiability and decoherence gap in interface-friction.md
 - **Type**: refine-draft
