@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 16:29 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/attention-and-the-consciousness-interface]], [[topics/clinical-neuroplasticity-evidence-for-bidirectional-causation]], [[concepts/epiphenomenalism]]
+- **Changes**: Final calibration pass integrating research/clinical-evidence-quality-2026-03-29.md. attention-interface: clarified Schwartz sample ("9 of whom were new"), softened "supported by Schwartz" → "consistent with Schwartz's suggestive OCD work". clinical-neuroplasticity: "lasting changes in neural architecture" → "lasting changes in neural function"; placebo section added scrutiny caveat on structural claims. epiphenomenalism: "reshapes neural architecture" → "alters neural function", hedged compassion-meditation claim, removed "not X but Y" LLM-cliché construction.
+- **Published**: yes
+
 ## 2026-04-16 16:13 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/bandwidth-of-consciousness]]

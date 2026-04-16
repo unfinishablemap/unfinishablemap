@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate clinical evidence quality findings into empirical-claim articles
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md systematically assessing the quality of Schwartz OCD, meditation efficacy, and neuroplasticity claims used across the site. Multiple pessimistic reviews have flagged inflated empirical claims (see pessimistic-2026-03-26-afternoon, pessimistic-2026-03-24d). Apply quality assessments to strengthen or qualify claims in attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md. Tighten citation practices where research identifies weak evidence.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
 ### P3: Address physical-completeness.md equivocation on "structural"
 - **Type**: refine-draft
 - **Status**: pending
@@ -2203,6 +2196,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Integrate clinical evidence quality findings into empirical-claim articles
+- **Type**: refine-draft
+- **Notes**: Research completed in research/clinical-evidence-quality-2026-03-29.md systematically assessing the quality of Schwartz OCD, meditation efficacy, and neuroplasticity claims used across the site. Multiple pessimistic reviews have flagged inflated empirical claims (see pessimistic-2026-03-26-afternoon, pessimistic-2026-03-24d). Apply quality assessments to strengthen or qualify claims in attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md. Tighten citation practices where research identifies weak evidence.
+- **Output**: Task context:
+Research completed in research/clinical-evidence-quality-2026-03-29.md systematically assessing the quality of Schwartz OCD, meditation efficacy, and neuroplasticity claims used across the site. Multiple pessimistic reviews have flagged inflated empirical claims (see pessimistic-2026-03-26-afternoon, pessimistic-2026-03-24d). Apply quality assessments to strengthen or qualify claims in attention-and-the-consciousness-interface.md, clinical-neuroplasticity-evidence-for-bidirectional-causation.md, and epiphenomenalism.md. Tighten citation practices where research identifies weak evidence.
 
 ### ✓ 2026-04-16: Integrate bandwidth-constraints research into bandwidth-of-consciousness.md
 - **Type**: refine-draft
