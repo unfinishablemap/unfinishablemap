@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 22:45:00+00:00
+ai_modified: 2026-04-16 22:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 22:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/disguised-property-dualism]]
+- **Addresses**: [[reviews/pessimistic-2026-04-16d]] Issues 2 & 3
+- **Changes**: Sharpened condition (3) with an explicit standard for "showing" reduction (logical derivation or empirical identity grounded in explanatory bridge, as *water = H₂O*); added "How the diagnostic applies to the Map's own view" subsection distinguishing the Map's brute-linkage commitment (no promise, so no failed reduction) from the disguised variants' asserted-but-unexhibited unifications, and conceding the diagnostic's force is heuristic rather than metaphysical
+- **Published**: yes
 
 ## 2026-04-16 22:45 UTC - pessimistic-review
 - **Status**: Success

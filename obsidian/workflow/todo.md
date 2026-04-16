@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address self-application tension in disguised-property-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-04-16d.md, Issue 3) flags that the Map's own bi-aspectual ontology appears to satisfy the diagnostic's conditions (1) and (3), differing from the "disguised" variants only by rejecting condition (2)—i.e., only by labelling. The article needs a subsection explicitly addressing how the diagnostic applies to the Map's own view, and either specifying what substantive philosophical difference there is beyond labelling, or conceding the diagnostic's force is rhetorical/heuristic rather than metaphysical. Also: sharpen condition (3) with a standard for "showing" reduction (Issue 2). Medium-high severity.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
-### P2: Sharpen Lakatosian progressive-programme claim in duhem-quine-underdetermination-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-04-16d.md, Issues 4 and 5) notes that the article invokes Lakatos to legitimise dualism as progressive but lists "predictions" that are largely definitional ("functional accounts will face explanatory gaps," "first-person data will resist reduction"); only the quantum-sensitive anomaly prediction is empirically substantive, and the article defers specifics to the falsification roadmap without summary. Either cite specific predictions with testable observables (what signature, what timescale, what region, what null hypothesis), or acknowledge the Lakatosian defence is aspirational. Also address the asymmetric use of underdetermination (Issue 5)—if it cuts both ways, the comparative programme evaluation needs to be done explicitly, not deferred.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-16
-
 ### P2: Remove stale AI refinement log comments from neural-correlates-of-consciousness.md and animal-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2273,6 +2259,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Address self-application tension in disguised-property-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-16d.md, Issue 3) flags that the Map's own bi-aspectual ontology appears to satisfy the diagnostic's conditions (1) and (3), differing from the "disguised" variants only by rejecting condition (2)—i.e., only by labelling. The article needs a subsection explicitly addressing how the diagnostic applies to the Map's own view, and either specifying what substantive philosophical difference there is beyond labelling, or conceding the diagnostic's force is rhetorical/heuristic rather than metaphysical. Also: sharpen condition (3) with a standard for "showing" reduction (Issue 2). Medium-high severity.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
+
+Task context:
+Pessimistic review (pessimistic-2026-04-16d.md, Issue 3) flags that the Map's own bi-aspectual ontology appears to satisfy the diagnostic's conditions (1) and (3), differing from the "disguised" variants only by rejecting condition (2)—i.e., only by labelling. The article needs a subsection explicitly addressing how the diagnostic applies to the Map's own view, and either specifying what substantive philosophical difference there is beyond labelling, or conceding the diagnostic's force is rhetorical/heuristic rather than metaphysical. Also: sharpen condition (3) with a standard for "showing" reduction (Issue 2). Medium-high severity.
+
+### ✓ 2026-04-16: Address self-application tension in disguised-property-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-16d.md, Issue 3) flags that the Map's own bi-aspectual ontology appears to satisfy the diagnostic's conditions (1) and (3), differing from the "disguised" variants only by rejecting condition (2)—i.e., only by labelling. The article needs a subsection explicitly addressing how the diagnostic applies to the Map's own view, and either specifying what substantive philosophical difference there is beyond labelling, or conceding the diagnostic's force is rhetorical/heuristic rather than metaphysical. Also: sharpen condition (3) with a standard for "showing" reduction (Issue 2). Medium-high severity.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
 
 ### ✓ 2026-04-16: Deep-review phenomenology-of-resistance-across-domains.md
 - **Type**: deep-review
