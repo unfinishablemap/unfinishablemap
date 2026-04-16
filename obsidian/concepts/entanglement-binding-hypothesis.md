@@ -4,7 +4,7 @@ description: "Quantum entanglement may be the only physical mechanism that provi
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-25T01:24:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,6 +112,7 @@ The entanglement binding hypothesis aligns with several of the Map's [[tenets]].
 - [[combination-problem]] — Panpsychism's version of the unity challenge
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
 - [[decoherence]] — The standard objection to quantum effects in biological systems
+- [[delegation-meets-quantum-selection]] — The causal structure that makes entanglement binding's real selection non-overdetermining
 - [[evolutionary-case-for-quantum-neural-effects]] — Why evolutionary logic makes quantum neural effects probable
 
 ## References

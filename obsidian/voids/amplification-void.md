@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the chain from quantum-level conscious
 created: 2026-02-28
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-04-02T14:38:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 last_deep_review: 2026-03-10T18:24:00+00:00
 draft: false
 topics:
@@ -110,6 +110,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [[nomic-void]] — Cognitive limits imposed by the laws of physics
 - [[observation-and-measurement-void]] — How studying consciousness transforms what is studied
 - [[defended-territory]] — Could some limits be actively maintained?
+- [[delegation-meets-quantum-selection]] — Delegation reframes but does not dissolve the amplification void: experience takes over causal work without explaining how
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: a deeper theory would derive the amplification void's opacity as a consequence of minimality
 
 ## References

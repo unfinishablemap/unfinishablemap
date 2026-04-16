@@ -4,7 +4,7 @@ description: "Skill delegation is how consciousness trains procedural systems, w
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -141,6 +141,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 - [[implicit-memory]] — Anoetic consciousness and the phenomenology of automatised skill
 - [[agent-causation]] — Why skill delegation presupposes a genuine agent as delegator
 - [[causal-delegation]] — The metaphysical parallel: physical states delegating to consciousness
+- [[delegation-meets-quantum-selection]] — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
 - [[choking-phenomenon-mental-causation]] — Extended analysis of choking as evidence for mental causation
 - [[consciousness-and-skill-acquisition]] — How consciousness shapes skill acquisition, flow, and performance restructuring
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing

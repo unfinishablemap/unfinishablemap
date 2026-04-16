@@ -4,7 +4,7 @@ description: "Causal preemption occurs when one cause renders another idle—cen
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-06T15:36:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -109,6 +109,7 @@ The case for preemption rests entirely on philosophical arguments: that consciou
 - [[causal-closure]] — The principle that delegatory preemption explicitly violates
 - [[observational-closure]] — Why preemption leaves no empirical trace
 - [[agent-causation]] — The metaphysical framework for conscious agents as causal originators
+- [[delegation-meets-quantum-selection]] — Preemption applied at quantum indeterminacies: consciousness preempts the baseline collapse mechanism
 - [[objections-to-interactionism]] — Other responses to the exclusion problem
 
 ## References

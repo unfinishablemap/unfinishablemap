@@ -4,7 +4,7 @@ description: "Observational closure distinguishes empirical from metaphysical ca
 created: 2026-03-13
 modified: 2026-03-13
 human_modified:
-ai_modified: 2026-04-09T10:56:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -97,6 +97,7 @@ The distinction also bears on testability. The Map's position is not empirically
 - [[causal-closure]] — The broader principle from which observational closure is distinguished
 - [[causal-closure-debate-historical-survey]] — Historical evolution of the causal closure principle from Descartes to Kim
 - [[causal-delegation]] — The mechanism that respects observational closure through preemption
+- [[delegation-meets-quantum-selection]] — Born-rule preservation makes observational closure physically necessary, not merely philosophically designed
 - [[delegatory-dualism]] — Saad's full theory developing observational closure as a design constraint
 - [[mental-causation-and-downward-causation|mental causation]] — The problem observational closure helps resolve
 - [[preemption]] — The causal structure making delegation observationally invisible

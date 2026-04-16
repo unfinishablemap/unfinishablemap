@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-16T10:29:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -177,6 +177,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 - [[time-symmetric-selection-mechanism]] — Atemporal selection via transactional interpretation
 - [[empirical-evidence-for-consciousness-selecting]] — Convergent evidence lines for the selection framework
 - [[amplification-mechanisms-consciousness-physics]] — How noise-assisted dynamics scale quantum-level bias to neural effects
+- [[delegation-meets-quantum-selection]] — How Saad's causal delegation and quantum selection are mutually completing frameworks
 - [[post-decoherence-selection]] — Selection after decoherence removes the coherence requirement
 - [[interactionist-dualism]] — The philosophical framework selection implements
 

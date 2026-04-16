@@ -4,7 +4,7 @@ description: "Post-decoherence selection is the process that actualizes one outc
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-30T16:59:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -93,6 +93,7 @@ The Map treats post-decoherence selection not merely as an abstract interpretive
 - [[decoherence|Decoherence]]
 - [[measurement-problem|The Measurement Problem]]
 - [[timing-gap-problem|The Timing Gap Problem]]
+- [[delegation-meets-quantum-selection]] — The causal structure (preemption) explaining why post-decoherence conscious selection avoids overdetermination
 - [[trilemma-of-selection|The Trilemma of Selection]]
 - [[quantum-measurement-and-consciousness]]
 - [[prebiotic-collapse|Prebiotic Collapse]]

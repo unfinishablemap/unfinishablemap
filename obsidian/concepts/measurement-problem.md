@@ -4,7 +4,7 @@ description: "Quantum mechanics' central puzzle: why measurement yields definite
 created: 2026-01-14
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-15T15:22:00+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -214,6 +214,7 @@ The measurement problem is central to the Map's framework. It provides the *perm
 - [[interactionist-dualism]], [[causal-closure]], [[mental-causation-and-downward-causation|mental causation]] — The broader framework
 - [[multi-mind-collapse-problem]], [[brain-interface-boundary]], [[prebiotic-collapse]] — Coordination puzzles
 - [[quantum-darwinism-and-consciousness|Quantum Darwinism and Consciousness]] — How Zurek's framework specifies the menu while leaving the outcome gap open
+- [[delegation-meets-quantum-selection]] — The Born-rule distribution as default causal profile: a causal-structural approach to the measurement problem
 - [[post-decoherence-selection-programme|The Post-Decoherence Selection Programme]] — Apex synthesis: five converging lines of inquiry for consciousness acting after decoherence
 - [[the-reverse-inference]] — Using consciousness as datum to constrain quantum interpretation
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis developing the reverse inference into a full framework

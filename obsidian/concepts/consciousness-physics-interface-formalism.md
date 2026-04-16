@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-16T11:59:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,6 +112,7 @@ The interface formalism concept connects directly to the Map's foundational comm
 - [[coupling-modes]] — How C might operate: basis, timing, or probability control
 - [[interface-formalization-void]] — Whether the specification gap is closable in principle
 - [[born-rule-and-the-consciousness-interface]] — Why the Born rule's underivability constrains the formalism
+- [[delegation-meets-quantum-selection]] — Shows delegation satisfies Born-rule preservation (Constraint 1) structurally
 
 ## References
 
