@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 23:10:00+00:00
+ai_modified: 2026-04-16 23:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 23:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-conceptual-frameworks]]
+- **Word count**: 3161 → 3163 (+2, length-neutral mode honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (uncited references artefact from coalesce — integrated McGinn and Polanyi citations; removed peripheral Husserl reference)
+- **Enhancements made**: 3 (2 citations integrated, 2 prose tightenings)
+- **Output**: [[reviews/deep-review-2026-04-16-phenomenology-of-conceptual-frameworks]]
 
 ## 2026-04-16 23:10 UTC - refine-draft
 - **Status**: Success
