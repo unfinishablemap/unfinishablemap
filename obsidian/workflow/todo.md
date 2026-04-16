@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense phenomenology-of-conceptual-frameworks.md (4485 words, 150% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Created via coalesce on 2026-04-16 (merged framework-inhabitation + conceptual-change). At 4485 words, likely contains redundancy from the merge. Preserve core arguments about framework phenomenology while removing duplication and deferring detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-16
+
+### P2: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md (2026-04-16) unifies resistance phenomenology across physical, logical, moral, aesthetic, epistemic, and volitional domains, drawing on Maine de Biran and Dilthey to argue a unified consciousness encountering genuinely distinct constraints is more naturally explained by dualism than materialism. Review concepts/interface-friction.md (shares the "pushing back" phenomenology), concepts/mental-effort.md (effort as resistance variant), and topics/phenomenology-of-agency-vs-passivity.md (agency established against resistance) for (a) cross-linking opportunities to [[phenomenology-of-resistance-across-domains]], (b) arguments newly reinforced by the cross-domain signature, (c) consistency on whether resistance's commonality evidences Bidirectional Interaction.
+- **Source**: chain (from expand-topic 2026-04-16)
+- **Generated**: 2026-04-16
+
+### P2: Deep-review disguised-property-dualism.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic. Argues several positions rejecting substance dualism covertly reintroduce property-level dualist commitments. Cross-review against substance-property-dualism, materialism, and russellian-monism was completed, but no comprehensive deep-review has occurred. Verify coherence, accuracy of attributed positions (Russellian monism, anomalous monism, property-dualist-by-implication diagnoses), cross-references to concession-convergence and self-stultification, and tenet alignment — particularly whether the article's framing inadvertently exposes the Map to its own diagnosis.
+- **Source**: chain (from expand-topic 2026-04-16)
+- **Generated**: 2026-04-16
+
+### P2: Deep-review phenomenology-of-resistance-across-domains.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic from research/phenomenology-of-resistance-across-domains-2026-04-06.md. Medium-scope (2500-3500 words) unification of resistance phenomenology across domains. Never deep-reviewed. Verify accuracy of Maine de Biran and Dilthey attributions, coherence of the cross-domain signature argument, whether the move from "common phenomenal signature" to "genuinely distinct constraint types" is watertight or begs the question, cross-references to interface-friction and the effort cluster, and tenet alignment (Bidirectional Interaction is load-bearing).
+- **Source**: chain (from expand-topic 2026-04-16)
+- **Generated**: 2026-04-16
+
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
