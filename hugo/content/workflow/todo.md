@@ -38,6 +38,55 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review trilemma-of-selection.md and quantum-measurement-and-consciousness.md considering post-decoherence-selection-mechanisms insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 details how consciousness could influence outcomes after environmental decoherence. Review trilemma-of-selection.md for consistency on post-decoherence framing and add cross-links. Review quantum-measurement-and-consciousness.md to ensure the post-decoherence pathway is acknowledged alongside pre-decoherence models. Central to Tenets 2 and 3.
+- **Source**: chain (from topics/post-decoherence-selection-mechanisms.md)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 argues that consciousness studying itself is analogous to an interested party investigating their own case. Review complicity-void.md — the interested party framing may provide a more accessible entry point for the complicity concept. Review necessary-opacity.md — the interested party void gives a concrete reason *why* opacity is necessary (the investigator is compromised). Add cross-links from both.
+- **Source**: chain (from voids/interested-party-void.md)
+- **Generated**: 2026-04-16
+
+### P2: Fix 19 broken wikilinks to [many-worlds-argument](/arguments/many-worlds-argument/)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 19 content files link to [many-worlds-argument](/arguments/many-worlds-argument/) but no page with that slug exists. The closest existing pages are concepts/many-worlds.md, topics/qm-interpretations-beyond-many-worlds.md, and topics/probability-problem-in-many-worlds.md. Update each wikilink to point to the appropriate existing page (likely [many-worlds](/concepts/many-worlds/) in most cases, or [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) where the argumentative context is better served). Supports Tenet 4 (No Many Worlds) navigation.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-16
+
+### P2: Fix 8 broken wikilinks to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 8 content files link to [epiphenomenalism-argument](/arguments/epiphenomenalism-argument/) but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [epiphenomenalism](/concepts/epiphenomenalism/) or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-16
+
+### P3: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/predictive-construction-void.md created 2026-04-16 introduces the double-veil problem and the self-erasing nature of the predictive construction void. Review necessary-opacity.md for opportunities to cross-link (the predictive construction void provides a concrete mechanism for necessary opacity). Review predictive-processing-and-dualism.md to ensure consistency on the double-veil framing and add cross-links.
+- **Source**: chain (from voids/predictive-construction-void.md)
+- **Generated**: 2026-04-16
+
+### P3: Deep review epistemic-self-defeat.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic, never reviewed. Concept page on the general pattern of epistemic self-defeat — beliefs whose truth undercuts their own justification. Verify coherence, accuracy of attributed positions (Plantinga, Boghossian, Korman-Locke), cross-references to self-stultification-as-master-argument and argument-from-reason, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
+### P3: Deep review epistemological-limits-occams-razor.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — 37 days ago. Concept page on the limits of parsimony as an epistemic principle — directly supports Tenet 5 (Occam's Razor Has Limits). Core to the Map's argumentative programme. Verify accuracy of claims about parsimony, cross-references to parsimony-case-for-interactionist-dualism and related articles, and tenet alignment.
+- **Source**: staleness
+- **Generated**: 2026-04-16
+
 ### P3: Address phenomenology's methodological circularity concern in phenomenology.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2110,8 +2159,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
+### P3: Write synthesis on unified epistemic constraints on consciousness investigation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The Map now has multiple articles on structural constraints—epistemic self-defeat, predictive construction void, interested party void, phenomenology of linguistic failure, necessary opacity, self-opacity. A synthesis showing how these interact and compound would be high-value. See optimistic-2026-04-16-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Add 5 cross-links from optimistic-2026-04-16-morning review
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Five cross-linking opportunities: epistemic-self-defeat↔predictive-construction-void (self-defeat evasion mechanism), consciousness-under-extreme-metabolic-constraint↔post-decoherence-selection-mechanisms (metabolic collapse and quantum interface), interested-party-void↔epistemic-self-defeat (motivational vs logical self-undermining), phenomenology-of-linguistic-failure↔predictive-construction-void (dissolution as special case of prediction overwrite), concession-convergence-philosophy-of-mathematics↔embodied-cognition (creative subject and embodied mathematics). See optimistic-2026-04-16-morning.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review self-stultification-as-master-argument.md and argument-from-reason.md considering epistemic-self-defeat insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern of beliefs whose truth undercuts their own justification. Review self-stultification-as-master-argument.md to add cross-links (epistemic self-defeat generalises the specific self-stultification pattern). Review argument-from-reason.md to ensure the epistemic self-defeat framing is consistent and add cross-links. Both are core to the Map's anti-physicalist programme.
+- **Output**: obsidian/topics/self-stultification-as-master-argument.md -- Context: Cross-review self-stultification-as-master-argument.md and argument-from-reason.md considering epistemic-self-defeat insights
+
+### ✓ 2026-04-16: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern underlying self-stultification arguments. Review argument-from-reason.md and self-stultification-as-master-argument.md for opportunities to add cross-links to the new concept page, ensure consistent terminology around defeaters and self-defeat, and check whether epistemic-self-defeat's broader framing (beyond consciousness) strengthens or reveals tensions in these articles.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md and self-stultification-as-master-argument.md considering epistemic-self-defeat insights
+
+### ✓ 2026-04-16: Write article on the predictive construction void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-predictive-construction-void-2026-04-15.md. The void between predictive models and the raw experience they construct — perception is largely prediction, but the predictions are experienced as direct contact with reality. Voids section at 97/100.
+- **Output**: the predictive construction void
+
+### ✓ 2026-04-16: Write article on the interested party void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-interested-party-void-2026-04-15.md. The void arising from the fact that any investigation of consciousness is conducted by a conscious being — the investigator is always an interested party, never a neutral observer. Voids section at 97/100.
+- **Output**: the interested party void
+
+### ✓ 2026-04-16: Write article on post-decoherence selection mechanisms
+- **Type**: expand-topic
+- **Notes**: Research completed in research/post-decoherence-selection-mechanisms-2026-03-29.md. Explores how consciousness might select among already-decohered branches rather than requiring quantum coherence — directly addresses the decoherence objection to Tenet 2 (Minimal Quantum Interaction). Uses last available topics/ slot (229/230).
+- **Output**: post-decoherence selection mechanisms
 
 ### ✓ 2026-04-16: Create concept page for epistemic self-defeat
 - **Type**: expand-topic

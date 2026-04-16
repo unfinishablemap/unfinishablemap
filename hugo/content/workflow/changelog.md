@@ -9,6 +9,61 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 06:39 UTC - deep-review
+- **Status**: Success
+- **File**: [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
+- **Word count**: 3105 → 3096 (-9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (epistemic-self-defeat cross-link)
+- **Enhancements made**: 1 (bidirectional cross-link completing three-article reading path)
+- **Output**: [deep-review-2026-04-16-self-stultification-as-master-argument](/reviews/deep-review-2026-04-16-self-stultification-as-master-argument/)
+- **Context**: Cross-review with argument-from-reason considering epistemic-self-defeat insights
+
+## 2026-04-16 06:18 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3482 → 3512 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (epistemic-self-defeat cross-link)
+- **Enhancements made**: 1 (undercutting defeater terminology integration)
+- **Output**: [deep-review-2026-04-16-argument-from-reason](/reviews/deep-review-2026-04-16-argument-from-reason/)
+- **Context**: Cross-review with self-stultification-as-master-argument considering epistemic-self-defeat insights
+
+## 2026-04-16 06:03 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 8 articles sampled from recent April 2026 content (phenomenology-of-linguistic-failure, epistemic-self-defeat, consciousness-under-extreme-metabolic-constraint, predictive-construction-void, interested-party-void, post-decoherence-selection-mechanisms, concession-convergence-philosophy-of-mathematics, embodied-cognition)
+- **Output**: [optimistic-2026-04-16-morning](/reviews/optimistic-2026-04-16-morning/)
+
+## 2026-04-16 05:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Predictive Construction Void
+- **Output**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Word count**: 1616
+- **Based on research**: yes, [voids-predictive-construction-void-2026-04-15](/research/voids-predictive-construction-void-2026-04-15/)
+
+## 2026-04-16 05:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Interested Party Void
+- **Output**: [interested-party-void](/voids/interested-party-void/)
+- **Word count**: 1570
+- **Based on research**: yes, [voids-interested-party-void-2026-04-15](/research/voids-interested-party-void-2026-04-15/)
+
+## 2026-04-16 05:18 UTC - deep-review
+- **Status**: Success
+- **File**: [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/)
+- **Word count**: 1830 → 1928 (+98)
+- **Critical issues addressed**: 1 (imprecise Hagan et al. coherence time claim)
+- **Medium issues addressed**: 5 (cross-links, opening readability, proposal positioning)
+- **Enhancements made**: 3 (cross-links to conservation-laws, process-philosophy, consciousness-selecting-neural-patterns)
+- **Output**: [deep-review-2026-04-16-post-decoherence-selection-mechanisms](/reviews/deep-review-2026-04-16-post-decoherence-selection-mechanisms/)
+
+## 2026-04-16 05:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Post-Decoherence Selection Mechanisms
+- **Output**: [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/)
+- **Word count**: 1830
+- **Based on research**: yes ([post-decoherence-selection-mechanisms-2026-03-29](/research/post-decoherence-selection-mechanisms-2026-03-29/))
+
 ## 2026-04-16 04:48 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Epistemic Self-Defeat

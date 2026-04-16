@@ -131,6 +131,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Necessary Opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
 - [The Complicity Void](/voids/complicity-void/) — Whether consciousness actively participates in maintaining its own limits
 - [The Obviousness Void](/voids/obviousness-void/) — How the feeling of self-evidence terminates inquiry before it begins
+- [The Interested Party Void](/voids/interested-party-void/) — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
 
 ### Phenomenology of Limits
 
