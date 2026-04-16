@@ -4,7 +4,7 @@ description: "If consciousness biases quantum outcomes in the brain, why can't i
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-16T12:58:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,9 @@ concepts:
   - "[[psychophysical-laws]]"
   - "[[filter-theory]]"
   - "[[embodied-cognition]]"
+  - "[[locality]]"
 related_articles:
+  - "[[amplification-mechanisms-consciousness-physics]]"
   - "[[tenets]]"
   - "[[brain-interface-boundary]]"
   - "[[conservation-laws-and-mental-causation]]"
@@ -28,7 +30,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
-last_deep_review: 2026-03-16T06:03:00+00:00
+last_deep_review: 2026-04-16T12:58:00+00:00
 ---
 
 If consciousness can bias quantum outcomes in the brain—as The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenets hold—an obvious objection arises: why can't consciousness move objects at a distance? Why can't minds bias external random number generators, influence other people's thoughts, or bend spoons? If mind affects matter in the brain, what stops it from affecting matter everywhere?
@@ -37,7 +39,7 @@ This is the **brain specialness problem**. Critics see it as an embarrassing imp
 
 ## The Challenge Stated
 
-The Map's framework proposes that [[consciousness-selecting-neural-patterns|consciousness selects among quantum-indeterminate outcomes]] in neural systems. Physics provides probabilities; consciousness biases which outcome becomes actual. This resolves the interaction problem without violating conservation laws—consciousness selects rather than injects energy.
+The Map's framework proposes that [[consciousness-selecting-neural-patterns|consciousness selects among quantum-indeterminate outcomes]] in neural systems. Physics provides probabilities; consciousness biases which outcome becomes actual. This resolves the interaction problem without violating conservation laws—consciousness selects rather than injects energy. (The [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] article details how such quantum-level selection scales to macroscopic neural effects.)
 
 But if consciousness can bias quantum outcomes at all, critics ask, why only in brains? Quantum indeterminacy exists everywhere. Random number generators, radioactive decay, photon polarisation—all involve genuine quantum indeterminacy. Why can't consciousness bias these too?
 
@@ -53,7 +55,7 @@ Four constraints converge on the same conclusion: consciousness can only influen
 
 ### Interface Locality
 
-Consciousness can only influence quantum outcomes within neural systems that are spatially local to the brain and already integrated into the subject's conscious control loop.
+Consciousness can only influence quantum outcomes within neural systems that are spatially local to the brain and already integrated into the subject's conscious control loop. (For the broader philosophical treatment of [[locality|locality]] in mind-matter interaction, see the dedicated article.)
 
 [[stapp-quantum-mind|Stapp's Process 1]]—the observer posing questions to nature—operates on the observer's own brain state representation. The [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] requires repeated observation to hold quantum states stable. You can only observe, in the quantum mechanical sense, systems you're physically connected to.
 
@@ -114,7 +116,7 @@ Three responses:
 
 The brain specialness boundary isn't a minor technical point. It addresses a fundamental challenge to [[interactionist-dualism]]:
 
-If consciousness affects nothing, [[concepts/epiphenomenalism]] follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
+If consciousness affects nothing, [[concepts/epiphenomenalism|epiphenomenalism]] follows—but epiphenomenalism is self-undermining (our discussions of consciousness couldn't be caused by consciousness).
 
 If consciousness affects everything, parapsychology follows—but parapsychological effects aren't reliably demonstrated.
 
