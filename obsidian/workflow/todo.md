@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review disguised-property-dualism.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic. Argues several positions rejecting substance dualism covertly reintroduce property-level dualist commitments. Cross-review against substance-property-dualism, materialism, and russellian-monism was completed, but no comprehensive deep-review has occurred. Verify coherence, accuracy of attributed positions (Russellian monism, anomalous monism, property-dualist-by-implication diagnoses), cross-references to concession-convergence and self-stultification, and tenet alignment — particularly whether the article's framing inadvertently exposes the Map to its own diagnosis.
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
-
 ### P2: Deep-review phenomenology-of-resistance-across-domains.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2245,6 +2238,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep-review disguised-property-dualism.md
+- **Type**: deep-review
+- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic. Argues several positions rejecting substance dualism covertly reintroduce property-level dualist commitments. Cross-review against substance-property-dualism, materialism, and russellian-monism was completed, but no comprehensive deep-review has occurred. Verify coherence, accuracy of attributed positions (Russellian monism, anomalous monism, property-dualist-by-implication diagnoses), cross-references to concession-convergence and self-stultification, and tenet alignment — particularly whether the article's framing inadvertently exposes the Map to its own diagnosis.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
 
 ### ✓ 2026-04-16: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
 - **Type**: cross-review
