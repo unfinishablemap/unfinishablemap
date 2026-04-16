@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-16T10:58:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -33,6 +33,8 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[ownership-void]]"
+  - "[[agency-verification-void]]"
+  - "[[interested-party-void]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
 ai_contribution: 100
@@ -40,7 +42,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-24T15:49:00+00:00
+last_deep_review: 2026-04-16T10:58:00+00:00
 ---
 
 Every moment of experience falls somewhere on an axis between doing and undergoing. Lifting your arm feels different from having it lifted. Directing attention to a problem feels different from being startled by a noise. Choosing your words feels different from hearing someone else speak. This phenomenological contrast—between agency and passivity—is among the most basic features of conscious life, yet it resists explanation by any account that treats consciousness as causally inert. The Unfinishable Map's framework, in which consciousness genuinely selects among physical possibilities, predicts exactly this contrast: agency feels different from passivity because agency *is* different—it involves conscious causal contribution that passivity lacks.
@@ -63,11 +65,11 @@ At the active pole, experience has a distinctive character. When you deliberate 
 
 At the passive pole, experience has a different character entirely:
 
-- **Receptivity**: Sensory experience arrives unbidden. The redness of a sunset, the crack of thunder, the smell of coffee—these happen *to* you. No effort is involved in receiving them.
+- **Receptivity**: Sensory experience arrives unbidden. The redness of a sunset, the crack of thunder, the smell of coffee—these happen *to* you.
 
-- **Givenness**: Passive experience presents itself as already determined. The world is a certain way and you register it. There is no sense that you could have perceived otherwise.
+- **Givenness**: Passive experience presents itself as already determined. The world is a certain way and you register it.
 
-- **No authorship**: When a memory surfaces involuntarily or an emotion sweeps through you, the sense of ownership is diminished or absent. These are things that happen in you, not things you do.
+- **No authorship**: When a memory surfaces involuntarily or an emotion sweeps through you, the sense of ownership is diminished or absent. These happen in you, not through you.
 
 - **Temporal receptivity**: The passive pole is present-oriented rather than future-directed. You are receiving what is, not shaping what will be.
 
@@ -114,6 +116,8 @@ If consciousness were [[concepts/epiphenomenalism|epiphenomenal]]—causally ine
 The epiphenomenalist can respond that the *appearance* of agency is itself a neural product, with no actual conscious contribution. On this view, the phenomenal contrast merely *represents* a functional distinction in the brain rather than tracking genuine causal differences. But this faces a calibration problem: why would a causally inert consciousness so reliably represent exactly those situations where neural processing is genuinely demanding as "effortful"? The correlation between felt difficulty and actual task complexity—and between the [[attention-as-interface|willed attention signature]] (frontal theta in Rajan et al. 2019) and subjective agency—would be a cosmic coincidence if consciousness contributed nothing to producing the states it tracks.
 
 The implicit evidence is equally difficult to dismiss. [[volitional-control#Intentional Binding: An Implicit Measure|Intentional binding]] — the temporal compression between a voluntary action and its outcome discovered by Haggard, Clark, and Kalogeras (2002) — provides a non-introspective measure of agency. Voluntary actions perceptually draw their effects closer in time; involuntary movements do not. This binding effect is reduced when outcomes are unpredictable and altered in schizophrenic patients, tracking the same comparator architecture that the clinical dissociations reveal. An epiphenomenal consciousness would have no reason to distort temporal perception selectively for voluntary actions.
+
+A structural limitation must be acknowledged: the [[agency-verification-void|agency verification void]] shows that every tool consciousness possesses for investigating its own efficacy is internal to the system under investigation. The calibration argument and the binding evidence are powerful but cannot escape this circularity—they are gathered *by* the faculty whose causal status is in question. The convergence of multiple independent lines of evidence (introspective, implicit, neuroplastic) makes coincidence progressively less plausible, but the verification gap cannot be closed from within.
 
 ### Against Illusionism
 
@@ -162,7 +166,8 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
 - [[self-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from introspection
-- [[volitional-control]] — The Libet debate, conscious veto, and the "whether" component of intentional action
+- [[agency-verification-void|The Agency Verification Void]] — Why consciousness cannot verify its own causal powers
+- [[interested-party-void|The Interested Party Void]] — Motivational corruption in consciousness's self-investigation
 - [[topics/free-will]] — The broader philosophical context
 - [[consciousness-and-agency]] — Apex synthesis of agency across the Map
 - [[moral-implications-of-genuine-agency]] — What the reality of agency implies for obligation, character, and moral life

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the impossibility of verifying consciousness's causal claims from within — the interested party cannot provide disinterested testimony about its own efficacy. Review phenomenology-of-agency-vs-passivity.md for cross-links (the interested party problem is a structural limitation on phenomenological agency evidence). Review agency-verification-void.md to ensure consistency and add bidirectional cross-links.
-- **Source**: chain (from voids/interested-party-void.md)
-- **Generated**: 2026-04-16
-
 ### P2: Address decoherence quantitative gap in interface-friction.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2196,6 +2189,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the impossibility of verifying consciousness's causal claims from within — the interested party cannot provide disinterested testimony about its own efficacy. Review phenomenology-of-agency-vs-passivity.md for cross-links (the interested party problem is a structural limitation on phenomenological agency evidence). Review agency-verification-void.md to ensure consistency and add bidirectional cross-links.
+- **Output**: obsidian/topics/phenomenology-of-agency-vs-passivity.md -- Context: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
 
 ### ✓ 2026-04-16: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
 - **Type**: cross-review
