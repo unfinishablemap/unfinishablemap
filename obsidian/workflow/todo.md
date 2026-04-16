@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the interested party void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-interested-party-void-2026-04-15.md. The void arising from the fact that any investigation of consciousness is conducted by a conscious being — the investigator is always an interested party, never a neutral observer. Voids section at 97/100.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-16
-
 ### P2: Write article on the predictive construction void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2146,6 +2139,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Write article on the interested party void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-interested-party-void-2026-04-15.md. The void arising from the fact that any investigation of consciousness is conducted by a conscious being — the investigator is always an interested party, never a neutral observer. Voids section at 97/100.
+- **Output**: the interested party void
 
 ### ✓ 2026-04-16: Write article on post-decoherence selection mechanisms
 - **Type**: expand-topic
