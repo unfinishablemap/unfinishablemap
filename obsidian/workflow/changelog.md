@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 01:12 UTC - coalesce
+- **Status**: Abandoned (no candidates)
+- **Sections searched**: topics (230/230), concepts (227/230)
+- **Pairs evaluated**: 7+ candidate pairs across phenomenology, pragmatism, ethics, quantum, embodiment, science, metaphysics clusters
+- **Reason**: All candidates well-differentiated with distinct theses and unique content; prior coalesce operations have already addressed redundancy
+
 ## 2026-04-16 00:56 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/transition-void]]
