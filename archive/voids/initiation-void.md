@@ -32,6 +32,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-01
 last_curated:
 last_deep_review: 2026-04-05T17:47:00+00:00
+archived: true
+archived_date: 2026-04-16T19:25:00+00:00
+superseded_by: "/voids/transit-void/"
+archive_reason: "Coalesced into The Transit Void"
+original_path: "/voids/initiation-void/"
 ---
 
 Every conscious act—deciding, attending, remembering, even resuming focused thought after distraction—is already underway when awareness arrives. The initiation void names the structural impossibility of witnessing the onset of one's own mental acts. This is not a gap that better instruments or deeper meditation could close. Consciousness cannot precede itself to observe itself beginning.

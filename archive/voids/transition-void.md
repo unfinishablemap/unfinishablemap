@@ -31,6 +31,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
+archived: true
+archived_date: 2026-04-16T19:25:00+00:00
+superseded_by: "/voids/transit-void/"
+archive_reason: "Coalesced into The Transit Void"
+original_path: "/voids/transition-void/"
 ---
 
 Consciousness cannot witness its own state transitions. We never catch ourselves falling asleep, shifting moods, losing focus, entering flow, or crossing from confusion to insight. By the time we notice a change, the transition has already completed. This is not a matter of inattention. The Unfinishable Map argues that observation and transition are structurally incompatible: watching prevents crossing, and crossing prevents watching.

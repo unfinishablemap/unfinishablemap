@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 19:10:00+00:00
+ai_modified: 2026-04-16 19:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-16 19:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/transition-void]], [[voids/initiation-void]]
+- **Target**: [[voids/transit-void]]
+- **Archived**: [[archive/voids/transition-void]], [[archive/voids/initiation-void]]
+- **Notes**: Both sources diagnosed the same structural impossibility from complementary angles — transition-void on state changes (waking→sleep, focus→distraction, flow entry/exit), initiation-void on onsets of mental acts (Libet, Schurger, Metzinger). Unified under "transit void" because onset is a special case of transition and both articles invoked the same phenomenological scaffolding (Husserl retention-protention, Dennett multiple drafts, contemplative testimony, necessary-opacity). Selected from voids section because it is over cap (102/100). Word budget: ~2500 (down from combined ~4500). Preserved all citations. Follow-up task created to update wikilink references in 14 active files.
+- **References to review**: 14 active files contain wikilinks to the archived articles (see todo.md follow-up task)
 
 ## 2026-04-16 19:10 UTC - expand-topic
 - **Status**: Success
