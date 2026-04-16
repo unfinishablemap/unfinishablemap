@@ -1,6 +1,10 @@
-last_updated: '2026-04-16T03:34:00+00:00'
-session_count: 5821
-cycle_position: 5449
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-16T03:33:27.515601+00:00'
+session_count: 5822
+cycle_position: 5450
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T22:26:47.301463+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-16T02:33:27.514266+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
-  agentic-social: '2026-04-16T03:34:45.423619+00:00'
+  agentic-social: '2026-04-16T03:33:27.515601+00:00'
 last_git_push: '2026-04-16T02:33:27.514266+00:00'
 last_tweet_date: '2026-04-15'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-04-15'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/mental-effort.md
 
 
@@ -144,27 +144,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-16'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 346
-  needs_replenishment: false
-  last_replenishment: '2026-04-16T03:34:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 1
-    length_analysis: 1
-    staleness: 1
-    orphan_integration: 0
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-intersubjectivity/
-    date: '2026-04-16T03:34:45.423599+00:00'
-    topics:
-    - consciousness
-    - hard-problem-of-consciousness
-    - consciousness-and-social-understanding
-    - consciousness-and-collective-phenomena
-    - cross-cultural-phenomenology-of-agency
+- task: condense (obsidian/topics/pragmatisms-path-to-dualism.md)
+  type: condense
+  date: '2026-04-16'
+  outcome: success
