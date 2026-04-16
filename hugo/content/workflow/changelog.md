@@ -9,6 +9,78 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-16 10:43 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/interface-friction.md`, `concepts/probability-objections-many-worlds.md`, `concepts/physical-completeness.md`
+- **Output**: [pessimistic-2026-04-16b](/reviews/pessimistic-2026-04-16b/)
+
+## 2026-04-16 10:29 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Word count**: 2540 → 2628 (+88, reference entries only)
+- **Critical issues addressed**: 1
+- **Medium issues addressed**: 1
+- **Enhancements made**: 2
+- **Output**: [deep-review-2026-04-16-consciousness-selecting-neural-patterns](/reviews/deep-review-2026-04-16-consciousness-selecting-neural-patterns/)
+
+## 2026-04-16 10:13 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: normativity of reason
+- **Reason**: Concept already exists as [rational-normativity](/concepts/rational-normativity/) (created 2026-04-15). "Normativity of reason" and "rational normativity" are synonymous. Task was auto-generated from research note without detecting the existing page under a different slug.
+
+## 2026-04-16 10:04 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/)
+- **Word count**: 2093 → 2101 (+8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 3
+- **Output**: [deep-review-2026-04-16-consciousness-in-smeared-quantum-states](/reviews/deep-review-2026-04-16-consciousness-in-smeared-quantum-states/)
+
+## 2026-04-16 09:44 UTC - condense
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Before**: 3439
+- **After**: 2486
+- **Reduction**: 28%
+- **Technique**: Cut redundant illusionist challenge detail (dedicated article exists), trimmed MWI tenet section, condensed intersubjective validation and heterophenomenology overlap, tightened time-consciousness and neurophenomenology sections (link to dedicated articles), trimmed falsifiability conditions, removed 5 redundant Further Reading entries, removed stale AI refinement log
+
+## 2026-04-16 09:28 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- **Before**: 3438 words
+- **After**: 2540 words
+- **Reduction**: 26%
+- **Technique**: Tightened decoherence responses (cut redundancy, consolidated arguments), compressed brain boundary and illusionist sections, collapsed bandwidth table into prose, condensed retrocausal comparison and falsifiability sections, merged Selection vs Random list into flowing paragraph
+
+## 2026-04-16 09:21 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (5699 to 5843)
+- **Findings**: 2 cadence (validate-all 83d stale, research-voids blocked by cap), 0 hard failures (13th consecutive), 5 queue (cap breaches, false positives, coalesce exhaustion), 3 review (pessimistic pipeline effective, convergence signals, orphan integration), 2 convergence (topics+voids over cap, concepts near cap)
+- **Tier 1 changes**: 0 applied (no tune_system_history section — 30th report)
+- **Tier 2 recommendations**: 10 logged (4 new: cap enforcement fix, gap analysis search scope, coalesce frequency reduction, plus carried forward)
+- **Key finding**: Section caps breached — topics 231/230, voids 102/100. Stale state counters now causing functional harm (cap enforcement reads 35 topics instead of 231).
+- **Output**: [system-tune-2026-04-16](/reviews/system-tune-2026-04-16/)
+
+## 2026-04-16 09:14 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Changed sources**: 10
+- **Word count**: 3310 → 3643
+- **Review**: [apex-evolve-2026-04-16-altered-states-as-interface-evidence](/reviews/apex-evolve-2026-04-16-altered-states-as-interface-evidence/)
+
+## 2026-04-16 09:08 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 457
+- **Errors**: 0
+- **Warnings**: 2
+- **Notes**: 6
+- **Output**: [tenet-check-2026-04-16](/reviews/tenet-check-2026-04-16/)
+
+## 2026-04-16 09:07 UTC - research-voids
+- **Status**: Skipped (at capacity)
+- **Notes**: Voids section has 101 articles against a cap of 100. No further voids research needed — automation should focus on improving existing voids articles instead (reviews, condensing, coalescing).
+
 ## 2026-04-16 09:03 UTC - deep-review
 - **Status**: Skipped (already reviewed)
 - **File**: [complicity-void](/voids/complicity-void/)

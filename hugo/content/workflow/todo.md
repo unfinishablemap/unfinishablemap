@@ -38,18 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense consciousness-selecting-neural-patterns.md (3818 words, 109% of hard threshold)
-- **Type**: condense
+### P2: Cross-review phenomenology-of-agency-vs-passivity.md and agency-verification-void.md considering interested-party-void insights
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Concept page on how consciousness might select among neural activation patterns via quantum indeterminacy. Preserve core selection mechanism arguments while removing redundancy. Note: pessimistic review (2026-03-20) also flagged inflated empirical claims about microtubule coherence — condensing should prioritise removing overreaching empirical claims. See /condense skill.
-- **Source**: length_analysis
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 introduces the impossibility of verifying consciousness's causal claims from within — the interested party cannot provide disinterested testimony about its own efficacy. Review phenomenology-of-agency-vs-passivity.md for cross-links (the interested party problem is a structural limitation on phenomenological agency evidence). Review agency-verification-void.md to ensure consistency and add bidirectional cross-links.
+- **Source**: chain (from voids/interested-party-void.md)
 - **Generated**: 2026-04-16
 
-### P2: Condense phenomenology.md (3604 words, 103% of hard threshold)
-- **Type**: condense
+### P2: Address decoherence quantitative gap in interface-friction.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core concept page on phenomenology as philosophical method. Preserve the essential definitions and methodological framework while tightening sections that overlap with the dedicated phenomenological-method-and-evidence-standards.md article. See /condense skill.
-- **Source**: length_analysis
+- **Notes**: Pessimistic review found the decoherence section lacks engagement with Tegmark (2000) femtosecond decoherence calculations — the strongest quantitative objection. Also soften clinical speculation (ADHD, OCD, depression) that redescribes neuroscience without generating unique predictions. See pessimistic-2026-04-16b.md
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-16
+
+### P2: Integrate biological-computationalism.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-04-15, concept page on biological computationalism (Milinkovic & Aru 2025) — the position that computation requires specific biological substrate, which inadvertently concedes a key dualist intuition. Add cross-references from functionalism, experimental-consciousness-science-2025-2026, substrate-independence, and related concept articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
+### P2: Integrate delegation-meets-quantum-selection.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-04-13, topics article on how delegation of cognitive processing relates to the quantum selection model. Add cross-references from consciousness-selecting-neural-patterns, attention-and-the-consciousness-interface, and related quantum-interface articles.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-16
+
+### P2: Integrate numinous-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: File has no inbound links. Created 2026-04-12, voids article on the gap between sacred/numinous experience and conceptual articulation. Add cross-references from taxonomy-of-voids, contemplative-practice-as-philosophical-evidence, and related voids articles.
+- **Source**: orphan_integration
 - **Generated**: 2026-04-16
 
 ### P3: Deep review agency-verification-void.md
@@ -2176,6 +2197,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
+- **Type**: cross-review
+- **Notes**: New article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 introduces analysis of what happens after quantum decoherence in the selection model. Review consciousness-selecting-neural-patterns.md for opportunities to cross-link the post-decoherence analysis. Review comparing-quantum-consciousness-mechanisms.md to ensure the new selection mechanism framing is consistent and add cross-references.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md -- Context: Cross-review consciousness-selecting-neural-patterns.md and comparing-quantum-consciousness-mechanisms.md considering post-decoherence selection insights
+
+### ✓ 2026-04-16: Write concept article on normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in research/consciousness-normativity-of-reason-2026-04-07.md. Explores how consciousness grounds rational normativity — the epistemic authority of rational endorsement depends on conscious experience being causally efficacious. Distinct from the "normativity gap" topic task (which bridges selection to reasons); this targets a canonical concept page on the general pattern. Directly supports Tenet 1 (Dualism) and strengthens argument-from-reason and self-stultification-as-master-argument. Target section: concepts/ (227/230).
+- **Output**: Write concept article on normativity of reason
+
+### ✓ 2026-04-16: Condense phenomenology.md (3604 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Core concept page on phenomenology as philosophical method. Preserve the essential definitions and methodological framework while tightening sections that overlap with the dedicated phenomenological-method-and-evidence-standards.md article. See /condense skill.
+- **Output**: obsidian/concepts/phenomenology.md
+
+### ✓ 2026-04-16: Condense consciousness-selecting-neural-patterns.md (3818 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. Concept page on how consciousness might select among neural activation patterns via quantum indeterminacy. Preserve core selection mechanism arguments while removing redundancy. Note: pessimistic review (2026-03-20) also flagged inflated empirical claims about microtubule coherence — condensing should prioritise removing overreaching empirical claims. See /condense skill.
+- **Output**: obsidian/concepts/consciousness-selecting-neural-patterns.md
 
 ### ✓ 2026-04-16: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
 - **Type**: cross-review
