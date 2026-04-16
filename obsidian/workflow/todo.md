@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review self-stultification-as-master-argument.md and argument-from-reason.md considering epistemic-self-defeat insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/epistemic-self-defeat.md created 2026-04-16 formalises the general pattern of beliefs whose truth undercuts their own justification. Review self-stultification-as-master-argument.md to add cross-links (epistemic self-defeat generalises the specific self-stultification pattern). Review argument-from-reason.md to ensure the epistemic self-defeat framing is consistent and add cross-links. Both are core to the Map's anti-physicalist programme.
+- **Source**: chain (from concepts/epistemic-self-defeat.md)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review trilemma-of-selection.md and quantum-measurement-and-consciousness.md considering post-decoherence-selection-mechanisms insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md created 2026-04-16 details how consciousness could influence outcomes after environmental decoherence. Review trilemma-of-selection.md for consistency on post-decoherence framing and add cross-links. Review quantum-measurement-and-consciousness.md to ensure the post-decoherence pathway is acknowledged alongside pre-decoherence models. Central to Tenets 2 and 3.
+- **Source**: chain (from topics/post-decoherence-selection-mechanisms.md)
+- **Generated**: 2026-04-16
+
+### P2: Cross-review complicity-void.md and necessary-opacity.md considering interested-party-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/interested-party-void.md created 2026-04-16 argues that consciousness studying itself is analogous to an interested party investigating their own case. Review complicity-void.md — the interested party framing may provide a more accessible entry point for the complicity concept. Review necessary-opacity.md — the interested party void gives a concrete reason *why* opacity is necessary (the investigator is compromised). Add cross-links from both.
+- **Source**: chain (from voids/interested-party-void.md)
+- **Generated**: 2026-04-16
+
+### P2: Fix 19 broken wikilinks to [[many-worlds-argument]]
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 19 content files link to [[many-worlds-argument]] but no page with that slug exists. The closest existing pages are concepts/many-worlds.md, topics/qm-interpretations-beyond-many-worlds.md, and topics/probability-problem-in-many-worlds.md. Update each wikilink to point to the appropriate existing page (likely [[many-worlds]] in most cases, or [[qm-interpretations-beyond-many-worlds]] where the argumentative context is better served). Supports Tenet 4 (No Many Worlds) navigation.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-16
+
+### P2: Fix 8 broken wikilinks to [[epiphenomenalism-argument]]
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: 8 content files link to [[epiphenomenalism-argument]] but no page with that slug exists. The closest existing page is concepts/epiphenomenalism.md (the general concept page). Update each wikilink to point to [[epiphenomenalism]] or to the specific subsection/article that best captures the argumentative context. Supports Tenet 3 (Bidirectional Interaction) navigation.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-16
+
 ### P3: Cross-review necessary-opacity.md and predictive-processing-and-dualism.md considering predictive-construction-void insights
 - **Type**: cross-review
 - **Status**: pending
