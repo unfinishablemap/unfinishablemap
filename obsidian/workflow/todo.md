@@ -2101,6 +2101,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-15
 
+### P3: Create concept page for epistemic self-defeat
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The general pattern where accepting a position undermines the grounds for accepting it. Currently discussed within self-stultification-as-master-argument but the pattern applies across epiphenomenalism, eliminativism, global skepticism, and determinism. Deserves independent concept page as a reusable argumentative tool across the Map. Target section: concepts/. See optimistic-2026-04-16.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Add 6 cross-links from optimistic-2026-04-16 review
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: emergence-as-universal-hard-problem↔the-hard-problem-of-consciousness (domestication thesis extends hard problem scope), consciousness-and-mathematics↔the-binding-problem-a-systematic-treatment (cognitive binding in mathematical understanding), the-phenomenology-of-trust↔consciousness-and-moral-agency-under-duress (consciousness under constraint), hoel-disproof-llm-consciousness↔the-expertise-void (continual learning and irreversible experiential transformation), wheeler-participatory-universe↔pragmatism-and-qbism (participatory realism genealogy), evaluative-phenomenal-character↔the-consciousness-value-connection (phenomenological grounding of value thesis). See optimistic-2026-04-16.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
 ## Completed Tasks
 
 
