@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write article on the methodology of hedge calibration
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-16-evening). The Map practises an unusual epistemic discipline — publicly recalibrating claims as evidence changes (visible in the six-round clinical-neuroplasticity refinement logs that downgraded meditation structural claims after Kral 2022 replication failures) — but this discipline is currently implicit. A dedicated article naming the practice, distinguishing it from both dogmatic defence and uncommitted fence-sitting, and showing why it is especially appropriate for dualism given the physicalist evidentiary default. Medium scope (1500-2000 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on the content-specificity argument as an independent evidence strand
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-16-evening). The content-specificity pattern (the *meaning* of a mental state determines which physical effect occurs) is woven through multiple articles — placebo-effect, clinical-neuroplasticity, content-specificity-of-mental-causation — but could stand as an independent argumentative thread. Focused treatment with different placebo beliefs producing different neuroplastic signatures as core case. Medium scope (1500-2000 words). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Write article on the directional asymmetry argument for mental causation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-16-evening). The clinical-neuroplasticity article identifies a systematic asymmetry (psychological interventions work cortex-to-limbic top-down while pharmacological interventions work synapse-to-cortex bottom-up) that deserves its own focused treatment: rigorous statement of the asymmetry, explicit catalogue of physicalist responses, assessment of why the regularity (not just existence) is philosophically significant. Medium scope (1500-2000 words). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
+### P3: Add cross-links between pragmatism, perception, predictive-processing, and clinical-evidence cluster
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic review (2026-04-16-evening) identified six cross-linking opportunities across the interface/evidence cluster: pragmatisms-path-to-dualism → clinical-neuroplasticity-evidence-for-bidirectional-causation (pragmatist consequence-testing as framework for assessing clinical evidence), predictive-processing-and-dualism → phenomenal-transparency-opacity-spectrum (controlled hallucination framing is where transparency becomes philosophically pressing), dualist-perception → pragmatisms-path-to-dualism (both depend on demand-character reaching a conscious evaluator), clinical-neuroplasticity-evidence-for-bidirectional-causation → parsimony-epistemology (article's honest hedging enacts parsimony-epistemology's central claim), predictive-processing-and-dualism → consciousness-defeats-explanation (meta-problem response is specific case of explanation-undermining pattern), pragmatisms-path-to-dualism → predictive-processing-and-dualism (PP's agent-shaped hole matches van Fraassen diagnosis). See optimistic-2026-04-16-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-16
+
 ### P2: Address zombie/interaction coherence tension in philosophical-zombies.md
 - **Type**: refine-draft
 - **Status**: pending
