@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-04-15T15:22:00+00:00
+ai_modified: 2026-04-16T14:14:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-sonnet-4-5-20250929
 ai_generated_date: 2026-02-11
 last_curated:
-last_deep_review: 2026-03-16T12:48:00+00:00
+last_deep_review: 2026-04-16T14:14:00+00:00
 ---
 
 The self is not a static object but an ongoing achievement. Each moment, consciousness integrates information from multiple sensory modalities, recent memories, current perceptions, and anticipated futures into a unified experience of being someone. This integration—the "glue" that holds the self together—raises questions about what makes experience mine, why it persists across disruptions, and whether integration itself is a physical or phenomenal process.
@@ -102,11 +102,11 @@ The [[binding-problem|binding problem]] asks how distributed neural processes pr
 
 ### Classical Binding Theories
 
-Traditional neuroscience proposes synchronous neural firing as the binding mechanism. The gamma binding hypothesis suggests that neurons firing in temporal synchrony (~40 Hz gamma oscillations) become functionally bound (Crick & Koch, 1990). More recent approaches—Global Workspace Theory, Integrated Information Theory—offer increasingly sophisticated accounts of how neural integration produces unified processing. But all address only the functional side—they explain how the brain *coordinates* distributed activity without explaining how coordinated activity produces phenomenal unity.
+Traditional neuroscience proposes synchronous neural firing as the binding mechanism. The gamma binding hypothesis suggests that neurons firing in temporal synchrony (~40 Hz gamma oscillations) become functionally bound (Crick & Koch, 1990). More recent approaches—Global Workspace Theory, Integrated Information Theory—offer increasingly sophisticated accounts of how neural integration produces unified processing. But all address only the functional side—they explain how the brain *coordinates* distributed activity without explaining how coordinated activity produces phenomenal unity. This is the [[hard-problem-of-consciousness|hard problem]] applied specifically to binding.
 
 ### The Phenomenal Binding Challenge
 
-No physical binding mechanism explains *why* synchronized firing feels unified rather than remaining separate processes that happen to correlate. The explanatory gap appears again: physical descriptions tell us *what* the brain does but not *why* there is something it is like to have integrated experience.
+No physical binding mechanism explains *why* synchronized firing feels unified rather than remaining separate processes that happen to correlate. The [[explanatory-gap|explanatory gap]] appears again: physical descriptions tell us *what* the brain does but not *why* there is something it is like to have integrated experience.
 
 [[binding-problem|Phenomenal binding]] may not reduce to neural mechanisms. [[quantum-holism-and-phenomenal-unity|Phenomenal unity resists physical explanation]] because even the most complete functional account leaves unexplained why integrated processing feels like anything at all. If consciousness is irreducible, then phenomenal unity is a basic feature of experience—not something constructed from separate phenomenal elements but given as holistic from the start.
 
@@ -124,7 +124,7 @@ The self extends beyond the specious present. [[personal-identity|Personal ident
 
 The self extends forward as well as backward. [[diachronic-agency-and-personal-narrative|Diachronic agency]] is the capacity to author one's future through intention, planning, and commitment. When you form an intention today that will guide action tomorrow, you assume continuity between present self and future self. Life projects, sustained commitments, and long-term plans all depend on prospective integration—the confidence that the person who will carry out these intentions is continuous with the person forming them now.
 
-This prospective dimension matters for [[topics/free-will|free will]]. If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency becomes temporally thick—not confined to instantaneous choice but woven through life. Each choice shapes the neural substrate for future choices, creating a self-reinforcing pattern where the self is genuinely self-forming across time.
+This prospective dimension matters for [[free-will|free will]]. If consciousness can influence future brain states through quantum selection, and if these influences extend across time through memory and intention, then agency becomes temporally thick—not confined to instantaneous choice but woven through life. Each choice shapes the neural substrate for future choices, creating a self-reinforcing pattern where the self is genuinely self-forming across time.
 
 ## Integration and Indexical Identity
 
@@ -168,7 +168,7 @@ The Unfinishable Map's framework provides distinctive resources for understandin
 
 The [[dualism|Dualism tenet]] holds that consciousness is not reducible to physical processes. Phenomenal integration—the felt unity of experience—is then a basic feature of consciousness itself, not an emergent property of neural synchrony.
 
-Physical binding mechanisms (gamma oscillations, thalamocortical loops) may be necessary correlates of unified experience. But they do not *explain* phenomenal unity. The explanatory gap reappears: why does synchronized neural activity feel unified?
+Physical binding mechanisms (gamma oscillations, thalamocortical loops) may be necessary correlates of unified experience. But they do not *explain* phenomenal unity. The [[explanatory-gap|explanatory gap]] reappears: why does synchronized neural activity feel unified?
 
 If consciousness is irreducible, phenomenal binding may be primitive—experience is holistic from the start, and physical binding mechanisms are the neural interface through which this intrinsic unity expresses itself in behavior and report.
 

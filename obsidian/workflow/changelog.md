@@ -5,6 +5,15 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 14:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/cognitive-integration-and-the-self]]
+- **Word count**: 2569 → 2578 (+9)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (fixed path-prefix wikilink, added explanatory-gap cross-links, added hard-problem cross-link)
+- **Enhancements made**: 3 (3 new cross-links to existing concept pages)
+- **Output**: [[reviews/deep-review-2026-04-16-cognitive-integration-and-the-self]]
+
 ## 2026-04-16 13:58 UTC - refine-draft
 - **Status**: Success
 - **File**: [[concepts/probability-objections-many-worlds]]
