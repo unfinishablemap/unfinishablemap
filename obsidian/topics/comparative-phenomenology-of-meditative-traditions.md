@@ -4,7 +4,7 @@ description: "Cross-traditional meditation reports converge on structural featur
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-03-30T10:44:00+00:00
+ai_modified: 2026-04-16T12:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[epistemology-of-convergence-arguments]]"
   - "[[indian-philosophy-of-mind]]"
   - "[[the-hard-problem-in-non-western-philosophy]]"
+  - "[[numinous-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -85,7 +86,7 @@ A third convergence zone involves states where the ordinary distinction between 
 
 **Dzogchen's rigpa** in Tibetan Buddhism describes "intrinsic awareness" that is neither subject nor object—the natural state before the subject-object split is constructed.
 
-The structural convergence: ordinary experience divides into experiencer and experienced. Advanced contemplative practice across traditions reports that this division can dissolve, revealing a mode of experience that precedes or transcends the subject-object structure. The metaphysical interpretation varies wildly—monist idealism (Advaita), emptiness of inherent existence (Buddhism), theistic union (Christianity, Sufism)—but the phenomenological structure is recognisable across traditions.
+The structural convergence: ordinary experience divides into experiencer and experienced. Advanced contemplative practice across traditions reports that this division can dissolve, revealing a mode of experience that precedes or transcends the subject-object structure. The [[numinous-void]] analyses a specific consequence of this collapse: when the evaluating subject dissolves during numinous experience, the reflexive capacity needed to assess whether the experience is veridical dissolves with it. The metaphysical interpretation varies wildly—monist idealism (Advaita), emptiness of inherent existence (Buddhism), theistic union (Christianity, Sufism)—but the phenomenological structure is recognisable across traditions.
 
 ## Zones of Divergence
 
@@ -185,6 +186,7 @@ The divergence zones illustrate [[tenets#^occams-limits|Occam's Razor Has Limits
 - [[phenomenal-authority-and-first-person-evidence]] — Defence of first-person methodology
 - [[contemplative-epistemology]] — Epistemic foundations of contemplative inquiry
 - [[disappearance-voids|The Absorption Void]] — The phenomenology of absorptive states as cognitive limit
+- [[numinous-void|The Numinous Void]] — Why subject-object collapse in numinous experience prevents epistemic evaluation of its veridicality
 
 ## References
 
