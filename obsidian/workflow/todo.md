@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review phenomenology-of-the-edge.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-02 — 45 days ago. Voids article on the phenomenology of cognitive and experiential edges/limits. Verify coherence, accuracy, cross-references to related void articles (threshold-void, boundary problems), and tenet alignment.
-- **Source**: staleness
-- **Generated**: 2026-04-16
-
 ### P2: Deep review samkhya-three-way-distinction.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2117,6 +2110,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Deep review phenomenology-of-the-edge.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-02 — 45 days ago. Voids article on the phenomenology of cognitive and experiential edges/limits. Verify coherence, accuracy, cross-references to related void articles (threshold-void, boundary problems), and tenet alignment.
+- **Output**: obsidian/voids/phenomenology-of-the-edge.md
 
 ### ✓ 2026-04-16: Fix stale wikilinks to 3 archived articles (45 files affected)
 - **Type**: refine-draft

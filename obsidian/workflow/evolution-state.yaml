@@ -1,19 +1,23 @@
-last_updated: '2026-04-16T01:41:47.307591+00:00'
-session_count: 5815
-cycle_position: 5443
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-16T02:03:27.513382+00:00'
+session_count: 5816
+cycle_position: 5444
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-15T22:26:47.301463+00:00'
   optimistic-review: '2026-04-15T23:56:47.304240+00:00'
   check-tenets: '2026-04-12T19:55:22.736439+00:00'
   check-links: '2026-04-15T20:56:47.298631+00:00'
-  deep-review: '2026-04-16T00:41:47.305327+00:00'
+  deep-review: '2026-04-16T02:03:27.513382+00:00'
   tune-system: '2026-04-12T19:55:22.736439+00:00'
   research-voids: '2026-04-15T20:56:47.298631+00:00'
   coalesce: '2026-04-16T01:11:47.306467+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-15T08:41:46.601683+00:00'
-  agentic-social: '2026-04-16T02:04:07.629795+00:00'
+  agentic-social: '2026-04-16T02:03:27.513382+00:00'
 last_git_push: '2026-04-15T22:26:47.301463+00:00'
 last_tweet_date: '2026-04-15'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/tenet-falsification-conditions.m)
-  type: deep-review
-  date: '2026-04-15'
-  outcome: success
 - task: deep-review (obsidian/topics/concession-convergence-philosophy-)
   type: deep-review
   date: '2026-04-15'
@@ -144,11 +144,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-16'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
-    date: '2026-04-16T02:04:07.629778+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - machine-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-04-16'
+  outcome: success
