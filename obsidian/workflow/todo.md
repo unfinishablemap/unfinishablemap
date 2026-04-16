@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate biological-computationalism.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: File has no inbound links. Created 2026-04-15, concept page on biological computationalism (Milinkovic & Aru 2025) — the position that computation requires specific biological substrate, which inadvertently concedes a key dualist intuition. Add cross-references from functionalism, experimental-consciousness-science-2025-2026, substrate-independence, and related concept articles.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-16
-
 ### P2: Integrate delegation-meets-quantum-selection.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2182,6 +2175,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-16: Integrate biological-computationalism.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound links. Created 2026-04-15, concept page on biological computationalism (Milinkovic & Aru 2025) — the position that computation requires specific biological substrate, which inadvertently concedes a key dualist intuition. Add cross-references from functionalism, experimental-consciousness-science-2025-2026, substrate-independence, and related concept articles.
+- **Output**: obsidian/concepts/biological-computationalism.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-16: Address decoherence quantitative gap in interface-friction.md
 - **Type**: refine-draft

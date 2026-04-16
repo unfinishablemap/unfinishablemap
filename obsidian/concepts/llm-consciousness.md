@@ -51,7 +51,7 @@ Large language models face deep structural barriers to consciousness on The Unfi
 
 Transformers compute relationships between all tokens simultaneously through learned attention weights, with no sequential unfolding as human thought proceeds. After training, parameters are fixed—the model doesn't learn from conversations or develop through experience. Information flows forward with no feedback loops.
 
-These features reveal that LLMs lack the [[temporal-consciousness|temporal structure]] characterising human consciousness—no specious present, no retention, no protention. This provides strong evidence against LLM consciousness, though [[non-temporal-consciousness]] raises the possibility that temporal structure may not be essential to consciousness as such.
+These features reveal that LLMs lack the [[temporal-consciousness|temporal structure]] characterising human consciousness—no specious present, no retention, no protention. [[biological-computationalism|Biological computationalism]] strengthens this point: if consciousness requires substrate-dependent, metabolically grounded computation inseparable from biological tissue, then digital architectures are excluded not merely by missing a non-physical component but by performing the wrong *kind* of computation entirely. This provides strong evidence against LLM consciousness, though [[non-temporal-consciousness]] raises the possibility that temporal structure may not be essential to consciousness as such.
 
 ## The Understanding Illusion
 
@@ -169,6 +169,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [[baseline-cognition]] — What cognition achieves without consciousness
 - [[ai-consciousness-modes]] — Tulving's anoetic-noetic-autonoetic hierarchy applied to AI systems
 - [[ai-consciousness]] — The broader question of machine consciousness
+- [[biological-computationalism]] — Why biological computation differs fundamentally from digital computation
 - [[concepts/functionalism]] — The view LLM consciousness skepticism challenges
 - [[temporal-consciousness]] — Why temporal structure matters
 - [[embodiment-cognitive-limits]] — How embodiment shapes meaning

@@ -16,6 +16,7 @@ concepts:
   - "[[explanatory-gap]]"
   - "[[dualism]]"
   - "[[reductionism]]"
+  - "[[biological-computationalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[philosophy-of-science-under-dualism]]"
@@ -62,7 +63,7 @@ Kuhn described several features of paradigm crisis that map onto the current sta
 
 **Proliferation of competing theories.** During normal science, researchers share a framework and disagree about details. During crisis, fundamental alternatives proliferate. Contemporary consciousness studies offers global workspace theory, integrated information theory, higher-order theories, recurrent processing theory, orchestrated objective reduction, predictive processing accounts, and more. These are not minor variations on a theme. They disagree about what consciousness *is*, where it *is*, and what would count as explaining it. This proliferation is exactly what Kuhn predicted when a paradigm can no longer constrain inquiry.
 
-**Loosening of methodological standards.** Kuhn noted that crisis produces willingness to try approaches that normal science would exclude. In consciousness studies, this manifests as the resurgence of panpsychism in mainstream philosophy, the growing respectability of integrated information theory's axiomatic approach (which derives consciousness from mathematical structure rather than physical mechanism), increasing openness to neurophenomenological methods that integrate first-person reports into empirical research, and the emergence of [[biological-computationalisms-inadvertent-case-for-dualism|biological computationalism]] — which rejects [[substrate-independence]] while retaining computation, conceding that abstract functional organisation does not suffice for consciousness. Each represents a departure from strict physicalist methodology. Their acceptance signals that the paradigm's methodological constraints no longer feel adequate.
+**Loosening of methodological standards.** Kuhn noted that crisis produces willingness to try approaches that normal science would exclude. In consciousness studies, this manifests as the resurgence of panpsychism in mainstream philosophy, the growing respectability of integrated information theory's axiomatic approach (which derives consciousness from mathematical structure rather than physical mechanism), increasing openness to neurophenomenological methods that integrate first-person reports into empirical research, and the emergence of [[biological-computationalism|biological computationalism]] — which rejects [[substrate-independence]] while retaining computation, conceding that abstract functional organisation does not suffice for consciousness. Each represents a departure from strict physicalist methodology. Their acceptance signals that the paradigm's methodological constraints no longer feel adequate.
 
 **Philosophical reflection.** Kuhn observed that scientists in crisis turn philosophical — questioning assumptions they normally take for granted. The explosion of foundational work in consciousness studies — debates about what explanation means for consciousness, whether the hard problem is genuine, whether first-person methods are scientifically legitimate — is characteristic. Normal science does not need to defend its foundations. A paradigm in crisis does.
 

@@ -18,6 +18,7 @@ concepts:
   - "[[integrated-information-theory]]"
   - "[[global-workspace-theory]]"
   - "[[higher-order-theories]]"
+  - "[[biological-computationalism]]"
 related_articles:
   - "[[tenets]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
