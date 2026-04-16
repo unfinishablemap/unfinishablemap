@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-12
-ai_modified: 2026-04-06 05:51:00+00:00
+ai_modified: 2026-04-16 00:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,6 +31,7 @@ related_articles:
 - '[[consciousness-and-the-phenomenology-of-place]]'
 - '[[dualist-perception]]'
 - '[[three-dimensional-world-representation-problem]]'
+- '[[bandwidth-of-consciousness]]'
 title: Phenomenal Binding and Multimodal Integration
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -69,7 +70,7 @@ A second empirical finding deepens the puzzle. The **principle of inverse effect
 
 Superior colliculus multisensory neurons demonstrate this effect clearly: spatiotemporally congruent weak stimuli produce supralinear responses that far exceed the sum of the individual inputs. Association cortex input is required for this integration — deactivating cortico-collicular inputs eliminates the enhanced response without eliminating modality-specific responses.
 
-Inverse effectiveness makes functional sense — combining uncertain signals maximises information extraction. But it deepens the phenomenal puzzle. When two weak signals combine to produce a vivid percept, the unified experience has a qualitative richness that neither component possesses alone. The whole is not just informationally greater than the parts — it is *phenomenally* greater. A barely visible flash combined with a barely audible click produces a clear audiovisual event with a felt reality that neither the flash nor the click had individually.
+Inverse effectiveness makes functional sense — combining uncertain signals maximises information extraction. But it deepens the phenomenal puzzle. When two weak signals combine to produce a vivid percept, the unified experience has a qualitative richness that neither component possesses alone. The whole is not just informationally greater than the parts — it is *phenomenally* greater. A barely visible flash combined with a barely audible click produces a clear audiovisual event with a felt reality that neither the flash nor the click had individually. The [bandwidth asymmetry](/topics/bandwidth-of-consciousness/) between sensory input and conscious output makes this even more striking: consciousness receives far more information than it can express or act upon, yet inverse effectiveness shows that the receiving channel amplifies precisely the weakest signals — as though the interface compensates for impoverished input rather than merely passing through whatever arrives strongest.
 
 This is the [combination-problem](/concepts/combination-problem/) in miniature: how do two impoverished experiences combine into one rich experience? Adding information does not automatically add phenomenal richness. Something about the act of combination produces [qualitative properties](/concepts/qualia/) that the components lack.
 

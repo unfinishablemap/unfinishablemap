@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-04-06 10:42:00+00:00
+ai_modified: 2026-04-16 00:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,6 +30,7 @@ related_articles:
 - '[[brain-computer-interfaces-and-the-interface-boundary]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[ethics-and-value-in-a-dualist-world]]'
+- '[[moral-architecture-of-consciousness]]'
 title: The Ethics of Cognitive Enhancement Under Dualism
 topics:
 - '[[ethics-of-consciousness]]'
@@ -89,7 +90,7 @@ This raises a practical ethical imperative: any enhancement technology should be
 
 The ethics of unequal access to cognitive enhancement take on additional weight under dualism. If all conscious subjects possess the same fundamental capacity for experience and agency—differing only in the interfaces through which they operate—then radical inequality in interface quality becomes harder to justify.
 
-Materialist frameworks can appeal to natural variation: some brains are simply better than others, and enhancement merely extends this variation. Under dualism, the asymmetry between equal conscious subjects and unequal interfaces is more visible. Every person is a conscious agent of equal fundamental standing, operating through interfaces of vastly different capability. Enhancement that widens this gap without addressing access produces a world where metaphysically equal subjects face increasingly unequal conditions for expressing their agency.
+Materialist frameworks can appeal to natural variation: some brains are simply better than others, and enhancement merely extends this variation. Under dualism, the asymmetry between equal conscious subjects and unequal interfaces is more visible. The [moral architecture of consciousness](/apex/moral-architecture-of-consciousness/) provides the ethical foundation for this concern: if consciousness grounds value, agency, normativity, and moral perception as an integrated structure, then unequal interface quality does not merely produce unequal outcomes — it constrains the very capacities through which moral life is lived. Every person is a conscious agent of equal fundamental standing, operating through interfaces of vastly different capability. Enhancement that widens this gap without addressing access produces a world where metaphysically equal subjects face increasingly unequal conditions for expressing their agency.
 
 ## What Would Challenge This View?
 

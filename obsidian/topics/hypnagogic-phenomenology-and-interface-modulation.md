@@ -4,7 +4,7 @@ description: "The sleep-wake transition reveals consciousness-brain coupling as 
 created: 2026-03-12
 modified: 2026-03-12
 human_modified:
-ai_modified: 2026-04-06T06:06:00+00:00
+ai_modified: 2026-04-16T00:11:00+00:00
 last_deep_review: 2026-04-06T06:06:00+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[coupling-modes]]"
   - "[[clinical-evidence-quality-standards-consciousness-research]]"
+  - "[[bandwidth-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -53,7 +54,7 @@ The [[attention-as-interface|attention as interface]] hypothesis predicts exactl
 
 As attentional control weakens, imagery becomes increasingly autonomous. Hypnagogic hallucinations—vivid, often geometric or face-like images—arise without intention. Stickgold et al. (2000) demonstrated that recent waking experience shapes this imagery: subjects who played Tetris reported seeing falling blocks during hypnagogia, and remarkably, even amnesic patients who could not consciously remember playing the game reported similar images—suggesting the imagery draws on neural processes independent of declarative memory. Unlike waking imagery, which requires effortful maintenance through [[coupling-modes|timing control]] (sustained observation holding patterns stable), hypnagogic images generate and sustain themselves. The subject watches rather than constructs.
 
-This dissociation between phenomenal experience and voluntary control is philosophically significant. Consciousness persists—there is something it is like to experience hypnagogic imagery—but the capacity for conscious *influence* has diminished. The interface transmits experience inward (consciousness receives) while the outward channel (consciousness acts) narrows. This asymmetry challenges any theory that equates consciousness with control or access. Phenomenal experience continues precisely when access and control degrade.
+This dissociation between phenomenal experience and voluntary control is philosophically significant. Consciousness persists—there is something it is like to experience hypnagogic imagery—but the capacity for conscious *influence* has diminished. The interface transmits experience inward (consciousness receives) while the outward channel (consciousness acts) narrows. The [[bandwidth-of-consciousness|bandwidth asymmetry]] between sensory input and conscious output—already dramatic during waking—becomes extreme during hypnagogia: the receiving channel remains wide open (often wider, given the vividness of hypnagogic imagery) while the transmitting channel approaches zero. Hypnagogia thus provides a naturally occurring demonstration that reception and transmission are distinct channels with independent bandwidths, not a single bidirectional link. This asymmetry challenges any theory that equates consciousness with control or access. Phenomenal experience continues precisely when access and control degrade.
 
 ### Agency Fluctuation
 

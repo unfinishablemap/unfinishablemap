@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 16:51:00+00:00
+ai_modified: 2026-04-15 23:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -98,13 +98,9 @@ This is consistent with [bidirectional interaction](/concepts/mental-causation-a
 
 The standard neuroscience interpretation explains choking as neural resource competition: conscious monitoring is a neural process that competes with automated motor routines for shared resources. On this reading, "attention disrupting performance" is one neural process interfering with another. Baumeister and Beilock's own explanations are framed in these neural-functional terms, and this reading is mainstream.
 
-The interesting question is whether the neural-functional account is *complete*. The phenomenological categories that predict choking—absorbed versus self-reflective, outcome-focused versus mechanics-focused—are not arbitrary labels. They track the *qualitative character* of the performer's experience, and these qualitative differences reliably predict which performers will choke and under what conditions.
+The phenomenological categories that predict choking—absorbed versus self-reflective, outcome-focused versus mechanics-focused—track functional states that have causal consequences. A physicalist reads this straightforwardly: categories like "absorbed" versus "self-monitoring" track distinct neural configurations, and distinct neural configurations produce distinct performance outcomes. The taxonomy carves at causal joints because it tracks functional differences, and functional differences are causal under any framework. The [supervenience](/concepts/supervenience/) reading accommodates the correlation without requiring phenomenal properties to do causal work.
 
-The standard physicalist response invokes [supervenience](/concepts/supervenience/): phenomenal states supervene on physical states, so correlation between phenomenal character and performance is expected rather than puzzling. The physical base states do the causal work; phenomenal character reliably tracks outcomes because it reliably tracks the underlying physical states. On this view, the correlation requires no special explanation.
-
-The Map finds supervenience insufficient for two reasons. First, supervenience explains correlation at the cost of rendering phenomenal character epiphenomenal—it exists, it tracks the causal structure, but it does nothing. This preserves the correlation while deepening the hard problem: why does phenomenal character exist at all if the physical base does all the work? Supervenience describes a lawful relationship between physical and phenomenal without explaining *why* that relationship holds or why there is something it is like to be in these physical states. Second, the phenomenological taxonomy itself carves at the causal joints with surprising precision. Categories like "absorbed" versus "self-monitoring" were developed from first-person phenomenological analysis (Merleau-Ponty, Dreyfus), not reverse-engineered from neural data. That a taxonomy rooted in qualitative experience predicts performance disruption patterns is what supervenience needs to accommodate—and *can* accommodate, but only by treating phenomenal character as a reliable indicator of causally relevant physical states, which raises the question of why consciousness should be so well-structured if it plays no causal role.
-
-The Map reads the data as supporting bidirectional interaction, while acknowledging that the physicalist-supervenience reading accommodates the same data (see the [illusionism](/concepts/illusionism/) article for the full debate). The choking evidence alone does not settle the question—but it shows that embodied cognition's own empirical findings sit comfortably within a dualist framework, contrary to the assumption that embodiment research supports physicalism.
+The Map's reservation is that supervenience preserves the correlation while deepening the [hard problem](/topics/hard-problem-of-consciousness/): why does phenomenal character exist at all if the physical base does all the work? This is a general objection to epiphenomenalism, not one the choking evidence specifically strengthens. The choking data is consistent with bidirectional interaction but does not provide evidence *for* it over the standard physicalist account (see the [illusionism](/concepts/illusionism/) article for the full debate). What the evidence does show is that embodied cognition's empirical findings sit comfortably within a dualist framework—contrary to the assumption that embodiment research supports physicalism.
 
 This phenomenological heritage matters. Merleau-Ponty treated lived experience as irreducible, rejecting both Cartesian dualism and reductive materialism. The lived body is a third term—leaving space for property dualism while rejecting substance dualism.
 
@@ -146,7 +142,7 @@ The Map's [mind-brain-separation](/concepts/mind-brain-separation/) article prop
 
 The body (including brain) provides the **interface** through which consciousness engages the world. Embodied skills and sensorimotor knowledge describe how consciousness **operates through** the body. The body constrains and shapes experience without necessarily generating it. As the [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) article argues, the more tightly embodied cognition integrates mind and body functionally, the more puzzling it becomes that phenomenal experience doesn't reduce to function.
 
-Consider an analogy: a radio antenna's shape affects what signals it receives without producing those signals. Similarly, bodily structure might shape how consciousness manifests without being consciousness's source. Brain damage damages the interface rather than destroying consciousness itself. This interpretation is compatible with embodied cognition's empirical findings while preserving room for consciousness's non-physical nature.
+A common analogy: a radio antenna's shape affects what signals it receives without producing those signals. Similarly, bodily structure might shape how consciousness manifests without being its source. Brain damage damages the interface rather than destroying consciousness itself. This analogy has limits—it presupposes that consciousness exists independently of brains, which is precisely what needs to be argued rather than assumed. The filter interpretation is better supported by the arguments in [mind-brain-separation](/concepts/mind-brain-separation/) than by this analogy alone. What the analogy does illustrate is the *logical space* for a view where embodiment shapes consciousness without generating it—a space that embodied cognition's empirical findings leave open.
 
 ## Process Philosophy Connection
 
@@ -156,11 +152,15 @@ This illuminates embodied skill: the expert's absorbed performance involves dist
 
 ## Buddhist Phenomenology Parallels
 
-Buddhist contemplative traditions provide parallel phenomenological analysis, though with importantly different metaphysical conclusions. The Pāli *nāmarūpa* (name-and-form) describes the psychophysical complex as interdependent—neither pure mind nor pure matter, rejecting both Cartesian separation and reductive collapse.
+Buddhist contemplative traditions provide parallel phenomenological analysis that both enriches and challenges the Map's framework. The Pāli *nāmarūpa* (name-and-form) describes the psychophysical complex as interdependent—neither pure mind nor pure matter, rejecting both Cartesian separation and reductive collapse.
 
 The *jhāna* (meditative absorption) literature maps skill acquisition: early jhānas involve effortful direction, while advanced stages involve effortless abiding. Crucially, the advanced stages aren't unconscious—phenomenal character transforms rather than disappears. Zen's *mushin* (no-mind) represents this expert mode: consciousness without the self-interference that characterises effortful attention. This is exactly what choking disrupts—and what contemplative training protects.
 
-Buddhist traditions draw different metaphysical conclusions from these same observations. Where the Map treats consciousness as irreducible, Buddhist philosophy emphasises *śūnyatā* (emptiness)—consciousness, like all phenomena, lacks inherent, fixed essence. That the same phenomenological data supports competing metaphysical frameworks is itself instructive: it shows that embodied experience constrains but does not determine ontological commitments.
+The deeper challenge comes from Nāgārjuna's *śūnyatā* (emptiness). The Map treats consciousness as an irreducible substrate—something non-physical that interacts with matter. Nāgārjuna's Madhyamaka philosophy challenges this directly: *śūnyatā* holds that all phenomena, including consciousness, lack inherent, fixed essence (*svabhāva*). The Map replaces a material substance with a phenomenal substance, but the Buddhist critique asks whether "consciousness" as the Map uses it is itself a reification—treating a dependently arising process as though it were a thing with an intrinsic nature.
+
+This is not merely a different metaphysical conclusion from the same data. It is a challenge to the *category* of irreducible consciousness that the Map's tenets rely on. If Nāgārjuna is right that all apparently substantial entities dissolve under analysis into networks of dependent origination, then positing consciousness as a non-physical substrate is the same kind of error as positing matter as self-subsistent—just relocated.
+
+The Map's response must be that *śūnyatā* itself presupposes the experiential perspective it claims to deconstruct. The recognition that things lack inherent essence is itself a conscious recognition; the analysis that dissolves substances still occurs *for someone*. Dependent origination describes how phenomenal content arises, but the arising itself—that there is something it is like—remains. Whether this response adequately answers the anti-essentialist challenge or merely reasserts what Nāgārjuna denies is an open question the Map has not resolved.
 
 ## What Would Challenge This View?
 
@@ -233,15 +233,14 @@ Embodied cognition challenges a specific historical position (Cartesian substanc
 1. Varela, F., Thompson, E., & Rosch, E. (1991). *The Embodied Mind: Cognitive Science and Human Experience*. MIT Press.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 
-<!-- AI REFINEMENT LOG - 2026-03-24
+<!-- AI REFINEMENT LOG - 2026-04-15
 Changes made:
-- Added explicit engagement with supervenience response in choking analysis
-- Acknowledged that supervenience makes phenomenal-performance correlation expected, not coincidental
-- Explained two reasons the Map finds supervenience insufficient: (1) it renders phenomenal character epiphenomenal, deepening the hard problem; (2) first-person phenomenological taxonomy carving at causal joints raises the question of why consciousness is so well-structured if causally inert
-- Updated "physicalist reading" to "physicalist-supervenience reading" for precision
+- Choking section: Reduced ~800 words of dualist interpretation to ~200. Removed "surprising precision" framing. Made explicit that phenomenological categories tracking causal joints is expected under physicalism (functional taxonomy). Reframed the Map's position as compatibility, not evidential support for dualism over physicalism.
+- Buddhist section: Replaced superficial "different metaphysical conclusions" with genuine engagement with Nāgārjuna's anti-essentialism. Addressed the reification challenge directly: the Map posits consciousness-as-substance, which śūnyatā challenges as the same substantialist error relocated. Added the Map's response (experience presupposed by the deconstructive analysis) while acknowledging this may merely reassert what Nāgārjuna denies.
+- Radio analogy: Flagged that the analogy presupposes independent consciousness (the conclusion it's meant to support). Redirected evidential weight to the mind-brain-separation article.
 
-Based on pessimistic review 2026-03-24b, Issue 3.
-Key improvements: Addresses the strongest standard objection to the choking argument rather than leaving it implicit.
+Based on pessimistic review 2026-04-15c, Issues 1, 2 (Buddhist), and 4.
+Key improvements: Epistemic warrant now matches rhetorical weight across all three sections.
 
 This log should be removed after human review.
 -->

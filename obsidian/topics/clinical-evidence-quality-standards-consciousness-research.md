@@ -4,7 +4,7 @@ description: "When does clinical and neurological evidence bear on metaphysical 
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T11:48:00+00:00
+ai_modified: 2026-04-16T00:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[placebo-effect-and-mental-causation]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[methodology-of-consciousness-research]]"
+  - "[[quantum-biology-and-neural-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -125,7 +126,7 @@ This ordering has a practical consequence: if the clinical evidence were shown t
 
 The five standards above must apply to the Map's own empirical claims, including those supporting the [[tenets#^quantum-interaction|Minimal Quantum Interaction tenet]] (Tenet 2). Intellectual honesty requires acknowledging that quantum interaction evidence currently scores poorly on several of these standards.
 
-**Replication status.** Key findings remain preliminary. The microtubule-anaesthesia correlations (Khan et al., 2024; Wiest et al., 2025) await independent replication. Brain entanglement signatures (Kerskens & Pérez, 2022) have been challenged on methodological grounds (Warren, 2023) and have not been independently confirmed. No direct measurement of quantum coherence in living neural tissue has been achieved.
+**Replication status.** Key findings remain preliminary. The microtubule-anaesthesia correlations (Khan et al., 2024; Wiest et al., 2025) await independent replication. Brain entanglement signatures (Kerskens & Pérez, 2022) have been challenged on methodological grounds (Warren, 2023) and have not been independently confirmed. No direct measurement of quantum coherence in living neural tissue has been achieved. The Map's [[quantum-biology-and-neural-consciousness|quantum biology synthesis]] tracks six converging evidence lines — from established biological precedent through pharmacological correlations to theoretical convergence — and applying the present article's standards to that synthesis is a test of self-consistency: the strongest lines (biological precedent, anaesthesia pharmacology) score well on replication, while the most provocative (EEG entanglement signatures) score poorly.
 
 **Control adequacy.** The "consciousness placebo" problem identified in clinical research applies with equal force here: there is no way to isolate consciousness's quantum contribution from quantum effects that would occur without conscious involvement. Correlations between quantum disruption and consciousness loss (anaesthesia studies) are suggestive but do not exclude classical explanations for the same observations.
 

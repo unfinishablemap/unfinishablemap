@@ -4,10 +4,47 @@ ai_generated_date: 2026-01-05
 ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 concepts: []
-date: '2026-04-15'
+date: '2026-04-16'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-16 00:20 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 30 articles sampled across topics/, concepts/, tenets/ (460 total non-draft files)
+- **Output**: [optimistic-2026-04-16](/reviews/optimistic-2026-04-16/)
+
+## 2026-04-15 23:42 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology](/concepts/phenomenology/)
+- **Changes**: Acknowledged epoché circularity (methodological commitment not discovery), engaged Saunders/Wallace on MWI indexicality, added circularity caveat to falsifiability condition 1, softened epistemic claims throughout
+- **Published**: yes
+
+## 2026-04-15 23:26 UTC - refine-draft
+- **Status**: Success
+- **File**: [embodied-cognition](/concepts/embodied-cognition/)
+- **Changes**: Reduced choking section rhetorical weight (~800→200 words of dualist interpretation), engaged seriously with Nāgārjuna's anti-essentialism in Buddhist section, flagged radio analogy limitations
+- **Published**: yes
+
+## 2026-04-15 23:21 UTC - deep-review
+- **Status**: Success
+- **File**: [bergson-and-duration](/topics/bergson-and-duration/)
+- **Word count**: 2372 → 2365 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate related_articles entry)
+- **Enhancements made**: 0 (article stable after 4 reviews)
+- **Output**: [deep-review-2026-04-15-bergson-and-duration](/reviews/deep-review-2026-04-15-bergson-and-duration/)
+
+## 2026-04-15 22:57 UTC - deep-review
+- **Status**: Skipped (archived)
+- **File**: convergent-phenomenological-evidence.md
+- **Reason**: Article was archived on 2026-04-05, coalesced into [phenomenological-evidence](/concepts/phenomenological-evidence/). No review needed.
+
+## 2026-04-15 22:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Changes**: Restructured neuroplasticity section (broader CBT/meditation evidence first, Schwartz demoted to one example); added citations for ~10 bits/s bandwidth (Zheng & Meister 2024), meditator discrimination (Lutz et al. 2008, Fox et al. 2012); updated tenet section
+- **Published**: yes
 
 ## 2026-04-15 22:26 UTC - pessimistic-review
 - **Status**: Success

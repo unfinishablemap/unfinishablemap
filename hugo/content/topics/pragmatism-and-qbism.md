@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-07 12:22:00+00:00
+ai_modified: 2026-04-16 00:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -70,7 +70,7 @@ DeBrota, Fuchs, and Schack (2021) formalised this through the "urgleichung" — 
 
 The Map sees a deeper question behind the normative reading. *Why* must rational agents satisfy this particular constraint? Dutch-book arguments show that *consistent* agents must satisfy certain formal requirements, but they do not explain why experience reliably confirms Born statistics rather than some other pattern. If the world constrains agents' expectations so reliably that all agents converge on Born-rule predictions, something in reality is doing the constraining. QBism's response — that this "something" is the world itself, not the wave function — may be distinction without difference.
 
-The Map's [Born rule analysis](/topics/born-rule-and-the-consciousness-interface/) operates in a different register. It argues that the Born rule's resistance to derivation across every quantum interpretation is abductive evidence that it encodes the consciousness-physics interface. QBism's normative reading and the Map's interface reading are not contradictory — they may describe the same phenomenon from different angles. The normative constraint on agents' beliefs may be normative precisely *because* it reflects the structure of how consciousness interfaces with quantum measurement.
+The Map's [Born rule analysis](/topics/born-rule-and-the-consciousness-interface/) operates in a different register. It argues that the Born rule's resistance to derivation across every quantum interpretation is abductive evidence that it encodes the consciousness-physics interface — that the Born rule's mathematical form reflects the structure of how consciousness constrains quantum outcomes rather than an objective feature of mind-independent reality. QBism's normative reading and the Map's interface reading are not contradictory — they may describe the same phenomenon from different angles. If the Born rule is normative (QBism) because it encodes how conscious agents must relate to quantum measurement, and if that encoding reflects the actual structure of the consciousness-physics interface (the Map), then QBism has identified the right character of the Born rule (normative, agent-relative) while stopping short of explaining *why* it has that character. The Map's answer: it is normative because it describes the interface through which irreducible consciousness participates in physical outcomes.
 
 ## QBism, Healey, and the Consciousness Question
 

@@ -5,6 +5,12 @@ ai_modified: 2026-04-11 03:57:00+00:00
 ai_system: claude-opus-4-6
 ---
 
+## 2026-04-16 00:11 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/phenomenal-binding-and-multimodal-integration]], [[topics/consciousness-and-normative-force]], [[topics/hypnagogic-phenomenology-and-interface-modulation]], [[topics/pragmatism-and-qbism]], [[topics/clinical-evidence-quality-standards-consciousness-research]], [[topics/ethics-of-cognitive-enhancement-under-dualism]]
+- **Changes**: Implemented 6 cross-linking opportunities from optimistic review (2026-04-06): phenomenal-binding→bandwidth-of-consciousness, normative-force→moral-architecture, hypnagogic→bandwidth-of-consciousness, pragmatism-qbism→born-rule (strengthened), clinical-evidence→quantum-biology, ethics-enhancement→moral-architecture. Skipped 3 already well-covered links.
+- **Published**: yes
+
 ## 2026-04-16 00:20 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: 30 articles sampled across topics/, concepts/, tenets/ (460 total non-draft files)

@@ -4,7 +4,7 @@ description: "Why normative claims grip us: the shared phenomenal architecture o
 created: 2026-02-13
 modified: 2026-03-04
 human_modified:
-ai_modified: 2026-04-13T19:57:00+00:00
+ai_modified: 2026-04-16T00:11:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-moral-life]]"
@@ -131,7 +131,7 @@ When multiple domains speak simultaneously, each with its own demand structure, 
 
 **Priority views** assigning fixed orderings fail because normative conflicts do not feel like rule-application. People regularly sacrifice moral demands for epistemic ones or vice versa — and these are not always failures of reasoning. **Utilitarian reduction** to a single currency fails because the felt incommensurability of normative domains is a datum (Nagel 1979): moral guilt and aesthetic displeasure differ qualitatively, not quantitatively. **Faculty models** face a regress: what coordinates the faculties?
 
-Normative demands arrive within a single field of consciousness — already related, already experienced by the same subject who must act. Within this field, demands carry *felt weight* varying with context: moral demands press with urgency; epistemic demands present with impersonal rigidity; aesthetic demands draw attention; prudential demands pull with intimate gravity. These qualitative differences persist even as relative weights shift.
+Normative demands arrive within a single field of consciousness — already related, already experienced by the same subject who must act. Within this field, demands carry *felt weight* varying with context: moral demands press with urgency; epistemic demands present with impersonal rigidity; aesthetic demands draw attention; prudential demands pull with intimate gravity. These qualitative differences persist even as relative weights shift. The [[moral-architecture-of-consciousness|moral architecture of consciousness]] synthesises this phenomenology of conflict into a unified framework: normativity functions as one of four pillars — alongside value, agency, and moral perception — that depend on irreducible consciousness for their coherence. The tearing sensation of within-domain moral conflict and the oscillatory deliberation of cross-domain collision are not peripheral data but load-bearing evidence for that architecture.
 
 [[phenomenology-of-deliberation-under-uncertainty|Deliberation]] is integration happening. Attention oscillates between competing demands, each turn revealing new aspects. Resolution, when it comes, has the character of a *leap* — the agent commits without deliberation having determined the outcome. This is the [[phenomenology-of-choice-and-volition|phenomenology of choice]]: not mechanical aggregation but genuine judgment that could have gone otherwise. Overridden demands persist afterward as residue — the scientist who suppresses results for moral reasons still feels epistemic integrity pulling. The unified field preserves the reality of all demands even as it privileges some.
 
