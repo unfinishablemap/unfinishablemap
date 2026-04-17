@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks to coalesced resonance-void/numinous-void
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce 2026-04-17 merged resonance-void.md and numinous-void.md into ineffable-encounter-void.md. The following active files contain `[[resonance-void]]` and/or `[[numinous-void]]` wikilinks that should be retargeted to `[[ineffable-encounter-void]]` (or rephrased where the surrounding sentence explicitly distinguishes the two original registers): obsidian/voids/voids.md, obsidian/voids/apophatic-cartography.md, obsidian/voids/mutation-void.md, obsidian/voids/three-kinds-of-void.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/apex/taxonomy-of-voids.md, obsidian/concepts/mysterianism.md, obsidian/topics/phenomenology-of-intellectual-life.md, obsidian/topics/comparative-phenomenology-of-meditative-traditions.md, obsidian/voids/emotional-epistemology-void.md, obsidian/topics/contemplative-practice-as-philosophical-evidence.md, obsidian/voids/aesthetic-void.md, obsidian/topics/aesthetics-and-consciousness.md, obsidian/voids/consciousness-only-territories.md, obsidian/voids/the-silence-void.md, obsidian/voids/altered-states-as-void-probes.md, obsidian/concepts/parsimony-epistemology.md, obsidian/topics/william-james-consciousness.md, obsidian/topics/psychedelics-and-the-filter-model.md, obsidian/topics/phenomenology-of-musical-understanding.md. Skip historical records (workflow/changelog.md, reviews/, research/). The archive notice will keep old URLs working.
+- **Source**: chain (from coalesce 2026-04-17)
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/ineffable-encounter-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 by coalescing resonance-void.md and numinous-void.md. Never deep-reviewed as a unified piece. Voids article on consciousness encountering meaning and sacred significance whose mechanism it cannot inspect and whose veridicality it cannot evaluate. Verify the merge preserved the load-bearing arguments from both sources (Gendlin/Polanyi/Rosa convergence; Otto/James reflexivity collapse; Keltner-Haidt awe; Swinburne/Alston/Persinger/Beauregard evidential stalemate; apophatic response), that the two-registers framing (resonance vs numinous) genuinely unifies rather than blurs, and that cross-references resolve. Check tenet alignment and coherence with the voids taxonomy.
+- **Source**: chain (from coalesce 2026-04-17)
+- **Generated**: 2026-04-17
+
 ### P2: Deep review voids/boundary-and-projection.md
 - **Type**: deep-review
 - **Status**: pending

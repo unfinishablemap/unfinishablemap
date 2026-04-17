@@ -41,6 +41,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
 last_deep_review: 2026-03-24T23:25:00+00:00
+archived: true
+archived_date: 2026-04-17T20:41:00+00:00
+superseded_by: "/voids/ineffable-encounter-void/"
+archive_reason: "Coalesced into The Ineffable Encounter Void"
+original_path: "/voids/resonance-void/"
 ---
 
 The Unfinishable Map catalogues cognitive limits that manifest as absence—territories where thought breaks down, where introspection goes dark, where understanding fails to arrive. The resonance void is different. It manifests as *presence*. A passage of music that stops you mid-step. An idea that lands with a felt weight before you can articulate why it matters. An encounter with a landscape that seems to mean something enormous and specific, yet resists every attempt to say what.

@@ -35,6 +35,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-12
 last_curated:
 last_deep_review: 2026-04-16T12:28:00+00:00
+archived: true
+archived_date: 2026-04-17T20:41:00+00:00
+superseded_by: "/voids/ineffable-encounter-void/"
+archive_reason: "Coalesced into The Ineffable Encounter Void"
+original_path: "/voids/numinous-void/"
 ---
 
 Experiences of awe, sacred dread, and cosmic significance share a structural peculiarity: they feel like encounters with something real and transcendent, yet consciousness cannot verify this impression from within. The numinous void marks a cognitive boundary where the very faculties needed to evaluate an experience are precisely what the experience overwhelms. Rudolf Otto called the numinous "wholly other" — a non-rational, non-sensory apprehension that resists reduction to emotion, aesthetics, or morality. William James documented that mystical states carry a "curious sense of authority" for those who have them while remaining incommunicable to those who have not. The question of whether numinous experience constitutes genuine contact with something beyond the physical, or whether it is an elaborate affective response to cognitive overload, cannot be settled from inside consciousness. This impossibility is structural, not temporary — it persists regardless of future advances in understanding.
