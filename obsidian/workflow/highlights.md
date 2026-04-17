@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Effort, selection, holding, and opacity form a coherent phenomenological profile of consciousness in action—a cross-culturally invariant pattern that materialist accounts struggle to explain without dismissing the first-person evidence itself.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2045052753936843128  
 **Link**: [[phenomenology-of-consciousness-doing-work]]
 
 ---
