@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T11:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,6 @@ related_articles:
   - "[[pain-asymbolia]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
   - "[[altered-states-as-interface-evidence]]"
-  - "[[split-brain-consciousness]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
 ai_contribution: 100
@@ -32,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-17T13:58:00+00:00
+last_deep_review: 2026-04-17T11:27:00+00:00
 ---
 
 The Unfinishable Map's [[neurological-dissociations-as-interface-architecture|neurological dissociation work]] maps the mind-brain interface by examining what happens when specific neural pathways are destroyed. Clinical dissociation offers something different and arguably more revealing: selective disconnections that arise without structural brain damage. In dissociative identity disorder, depersonalization-derealization disorder, dissociative amnesia, and conversion disorder, the neural substrate remains anatomically intact while specific aspects of experience go offline. Neuroimaging reveals altered functional connectivity in these conditions—but the alterations are selective disconnections between intact processing regions, not degradation of the regions themselves. Modern physicalism (functionalism, global workspace theory, IIT) can accommodate this by treating consciousness as dependent on connectivity patterns rather than raw neural activity. But this concession is itself revealing: it means consciousness tracks a specific *relationship* between processing systems—which is precisely what an interface model describes. Clinical dissociation tests whether that relationship behaves like a higher-order physical property or like a functional bridge between domains.
@@ -124,9 +123,8 @@ Physicalists can explain this through stress-mediated changes in functional conn
 
 - [[altered-states-as-interface-evidence]] — Apex synthesis: five altered states converging on the same multi-channel interface architecture
 - [[neurological-dissociations-as-interface-architecture]] — How structural brain damage maps the same interface channels
-- [[split-brain-consciousness]] — The broader fragmentation question and dualist responses
+- [[split-brain-consciousness]] — The paradigm bilateral disconnection case and broader fragmentation question
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological disruption of cortical integration and the interface model
-- [[split-brain-consciousness]] — The paradigm bilateral disconnection case
 - [[pain-asymbolia]] — Affective channel dissociation through neurological damage
 - [[clinical-phenomenology-and-altered-experience]] — The broader epistemic framework for clinical evidence in philosophy of mind
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practices produce interface disruption

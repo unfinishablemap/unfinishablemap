@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 11:11:00+00:00
+ai_modified: 2026-04-17 11:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 11:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/clinical-dissociation-as-systematic-evidence]]
+- **Word count**: 2442 → 2436 (-6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (de-duplicated `related_articles`; consolidated duplicate Further Reading entries left over from the `fragmented-consciousness` → `split-brain-consciousness` migration)
+- **Enhancements made**: 0 (article reached stability after three reviews; only post-migration housekeeping remained)
+- **Output**: [[reviews/deep-review-2026-04-17-clinical-dissociation-as-systematic-evidence]]
 
 ## 2026-04-17 11:11 UTC - refine-draft
 - **Status**: Success
