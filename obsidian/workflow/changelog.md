@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 15:13:00+00:00
+ai_modified: 2026-04-17 15:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 15:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/self-maintained-cognitive-limits]]
+- **Context**: First deep review of the article coalesced from defended-territory + complicity-void earlier today (14:41 UTC). Inherits stability notes from 5+3 prior predecessor reviews.
+- **Word count**: 3767 → 2990 (-777, -21%; status hard_warning -> soft_warning)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7 (length condensation; falsification overlap; Further Reading bloat; orphan references; External Occlusion Map/source labelling; complicity-distinctions readability; phenomenology-marker overlap)
+- **Enhancements made**: 0 net additions (length-driven review; no expansions)
+- **Attribution check**: All 11 sourced claims verified accurate (Sartre, Buddhist, Heidegger, Nietzsche, Trivers, Becker, Burke et al. 277-experiments, Wegner, Golman, McGinn).
+- **Output**: [[reviews/deep-review-2026-04-17-self-maintained-cognitive-limits]]
 
 ## 2026-04-17 15:13 UTC - deep-review
 - **Status**: Success

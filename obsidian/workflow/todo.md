@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review self-maintained-cognitive-limits.md after 2026-04-17 coalesce
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: The 2026-04-17 coalesce (commit 87676e17f) merged voids/defended-territory and voids/complicity-void into voids/self-maintained-cognitive-limits.md. Wikilink retargeting (commit 793f4d457) is complete, but the merged article itself has not been deep-reviewed post-merge. Verify (a) the two source articles' distinctive arguments are preserved coherently in the unified treatment — defended-territory's "we hold cognitive limits because giving them up would cost us something" and complicity-void's "we participate in maintaining our own blind spots" are structurally distinct claims that both need to land, (b) the unified framing genuinely integrates rather than concatenates, (c) cross-references to interested-party-void, agency-verification-void, obviousness-void, and meta-epistemology-of-limits are accurate post-merge, (d) tenet alignment (Dualism, Occam's Razor Has Limits) is explicit. Schedule before the condense task so review identifies what is load-bearing.
-- **Source**: chain (from coalesce 2026-04-17)
-- **Generated**: 2026-04-17
-
 ### P2: Condense voids/self-maintained-cognitive-limits.md (3767 words, 188% of voids hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2308,6 +2301,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review self-maintained-cognitive-limits.md after 2026-04-17 coalesce
+- **Type**: deep-review
+- **Notes**: The 2026-04-17 coalesce (commit 87676e17f) merged voids/defended-territory and voids/complicity-void into voids/self-maintained-cognitive-limits.md. Wikilink retargeting (commit 793f4d457) is complete, but the merged article itself has not been deep-reviewed post-merge. Verify (a) the two source articles' distinctive arguments are preserved coherently in the unified treatment — defended-territory's "we hold cognitive limits because giving them up would cost us something" and complicity-void's "we participate in maintaining our own blind spots" are structurally distinct claims that both need to land, (b) the unified framing genuinely integrates rather than concatenates, (c) cross-references to interested-party-void, agency-verification-void, obviousness-void, and meta-epistemology-of-limits are accurate post-merge, (d) tenet alignment (Dualism, Occam's Razor Has Limits) is explicit. Schedule before the condense task so review identifies what is load-bearing.
+- **Output**: obsidian/voids/self-maintained-cognitive-limits.md
 
 ### ✓ 2026-04-17: Cross-review neurological-dissociations-as-interface-architecture.md considering anesthesia-void and three-states taxonomy
 - **Type**: cross-review
