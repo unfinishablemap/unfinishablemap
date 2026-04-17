@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 07:25:00+00:00
+ai_modified: 2026-04-17 07:55:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 07:55 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Word count**: 3482 → 3553 (+71; 89% of 4000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (citation hygiene: added Wegner 2002, Nisbett & Wilson 1977, Johansson et al. 2005; anchored Stapp 2007 inline)
+- **Enhancements made**: 4 (three inline citations added in Opacity section; Stapp inline anchor; three new reference entries)
+- **Output**: [deep-review-2026-04-17-phenomenology-of-consciousness-doing-work](/reviews/deep-review-2026-04-17-phenomenology-of-consciousness-doing-work/)
 
 ## 2026-04-17 07:40 UTC - deep-review
 - **Status**: Success

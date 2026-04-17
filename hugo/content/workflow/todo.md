@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/phenomenology-of-consciousness-doing-work.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-08 — 40 days ago. Synthesis piece on the phenomenological profile of consciousness acting on matter — effort, selection, holding, and opacity. Verify synthesis coherence against phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, evolutionary-case-for-mental-causation, mental-imagery-causal-role-of-consciousness, and cross-cultural-phenomenology-of-agency; check for currency given recent work on interface-friction, phenomenology-of-resistance-across-domains, and the post-decoherence-selection-mechanisms expansion; verify tenet alignment. Apex articles merit P2 priority given their load-bearing role.
-- **Source**: staleness
-- **Generated**: 2026-04-17
-
 ### P3: Write article on coherent posing as an epistemic virtue
 - **Type**: expand-topic
 - **Status**: pending
@@ -2260,6 +2253,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review apex/phenomenology-of-consciousness-doing-work.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-08 — 40 days ago. Synthesis piece on the phenomenological profile of consciousness acting on matter — effort, selection, holding, and opacity. Verify synthesis coherence against phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, evolutionary-case-for-mental-causation, mental-imagery-causal-role-of-consciousness, and cross-cultural-phenomenology-of-agency; check for currency given recent work on interface-friction, phenomenology-of-resistance-across-domains, and the post-decoherence-selection-mechanisms expansion; verify tenet alignment. Apex articles merit P2 priority given their load-bearing role.
+- **Output**: obsidian/apex/phenomenology-of-consciousness-doing-work.md
 
 ### ✓ 2026-04-17: Update references to coalesced boundary/projection voids
 - **Type**: cross-review

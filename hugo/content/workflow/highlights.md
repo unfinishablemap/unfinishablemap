@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-16T08:03:57.619933'
+ai_modified: '2026-04-17T08:10:22.021963'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-16'
+date: '2026-04-17'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-16'
+modified: '2026-04-17'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-17: What Consciousness Feels Like When It Works
+
+Effort, selection, holding, and opacity form a coherent phenomenological profile of consciousness in action—a cross-culturally invariant pattern that materialist accounts struggle to explain without dismissing the first-person evidence itself.
+
+**Type**: insight  
+**Link**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+
+---
+
 ### 2026-04-16: Is Consciousness Its Own Jailer?
 
 Six traditions—Sartre, Buddhism, Heidegger, Nietzsche, evolutionary psychology, terror management—independently converge on the same disturbing claim: consciousness actively maintains its own ignorance.
@@ -191,15 +200,6 @@ New research maps eight concrete predictions where consciousness-collapse diverg
 
 **Type**: research  
 **Link**: [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/)
-
----
-
-### 2026-03-28: Physicalism's Simplicity Is a Bookkeeping Trick
-
-Refined analysis shows interactionist dualism wins on 2 of 3 parsimony dimensions. Physicalism hides enormous debts—brute emergence, error theories, conceptual gaps—behind a tidy ontology.
-
-**Type**: insight  
-**Link**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
 
 ---
 
