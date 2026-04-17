@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topics article topics/comparative-phenomenology-of-mathematical-insight.md (2026-04-14) argues cross-cultural variation in the phenomenology of mathematical understanding reveals consciousness as irreducible to formal structure. Never cross-integrated. Review topics/consciousness-and-mathematics.md, concepts/consciousness-and-the-philosophy-of-mathematics.md, concepts/phenomenology-of-creative-insight.md, topics/consciousness-and-the-authority-of-formal-systems.md, and voids/mathematical-void.md for (a) cross-linking opportunities, (b) whether the cross-cultural variation argument strengthens the Map's case against formal-structure reducibility, (c) consistency on the phenomenology-as-evidence-for-dualism move.
-- **Source**: chain (from comparative-phenomenology-of-mathematical-insight.md)
-- **Generated**: 2026-04-17
-
 ### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
 - **Type**: expand-topic
 - **Status**: pending
@@ -2253,6 +2246,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
+- **Type**: cross-review
+- **Notes**: New topics article topics/comparative-phenomenology-of-mathematical-insight.md (2026-04-14) argues cross-cultural variation in the phenomenology of mathematical understanding reveals consciousness as irreducible to formal structure. Never cross-integrated. Review topics/consciousness-and-mathematics.md, concepts/consciousness-and-the-philosophy-of-mathematics.md, concepts/phenomenology-of-creative-insight.md, topics/consciousness-and-the-authority-of-formal-systems.md, and voids/mathematical-void.md for (a) cross-linking opportunities, (b) whether the cross-cultural variation argument strengthens the Map's case against formal-structure reducibility, (c) consistency on the phenomenology-as-evidence-for-dualism move.
+- **Output**: obsidian/topics/comparative-phenomenology-of-mathematical-insight.md -- Context: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
 
 ### ✓ 2026-04-17: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
 - **Type**: cross-review

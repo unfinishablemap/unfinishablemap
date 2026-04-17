@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T00:56:00+00:00
+ai_modified: 2026-04-17T03:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Specify what counts as "showing reduction" in disguised-property-dualism.md diagnostic
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): The three-condition diagnostic's condition (3) "No reduction is shown" is not given a standard. Type-B physicalists hold that water=H₂O is an identity not derived from water-concepts but discovered a posteriori — the reduction is "exhibited" by empirical investigation, not by logical derivation. Without a standard, almost any physicalist theory with a hard-problem-acknowledging architecture will fail condition (3), because the relevant reductions are philosophical end-states, not current achievements. Specify what would count as "showing" reduction (logical derivation? Empirical identity claim backed by a research programme? Explanation of why the two descriptions co-vary?). Better: acknowledge explicitly that the diagnostic is stance-sensitive and its utility is heuristic rather than demonstrative. The article's current subsection "How the diagnostic applies to the Map's own view" (added 2026-04-17) partially addresses the Map-self-application worry but does not specify the reduction standard the disguised variants are being measured against. See pessimistic-2026-04-16d.md Issue 2.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address asymmetric underdetermination and progressive-predictions gap in duhem-quine-underdetermination-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16d) Issues 4 & 5 (both Medium severity, same article). (Issue 4) The article invokes Lakatos to legitimise dualism as "progressive" and lists three candidate predictions, but (a) functional accounts will continue to face explanatory gaps and (b) first-person data will resist third-person reduction are tautological/definitional given the Map's dualism; only (c) quantum-sensitive decision points is a genuine empirical prediction, with specifics deferred to the falsification roadmap without summary. Replace the definitional "predictions" with specific empirical commitments (what statistical anomaly, at what timescale, in what brain region, distinguishable from what null hypothesis) OR acknowledge the Lakatosian legitimisation is aspirational rather than earned. (Issue 5) Underdetermination is used asymmetrically — it demotes physicalist confidence but the Map's own commitments are preserved via the underspecified Lakatosian defence. Treat the symmetry seriously: if underdetermination is the operative epistemic framework, it demotes all substantive metaphysical commitments to research-programme hard cores, and the comparative evaluation of programmes is the only remaining epistemic exercise — do that evaluation explicitly rather than deferring it. See pessimistic-2026-04-16d.md Issues 4 and 5.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Narrow unified-resistance signature claim and engage illusionist literature in phenomenology-of-resistance-across-domains.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16d) Issues 1 & 6, same article. (Issue 1, Medium) The claim that three specific features (directedness-meeting-constraint, graded yielding, asymmetric temporality) recur across all six domains is strained in at least two cases: logical resistance has binary, not graded, yielding ("2+2=5" does not yield gradually); imaginative resistance (Gendler's puzzle) is not about sustained effort gradually overcoming resistance but about an immediate jarring response. Either narrow the claim to domains where the three features genuinely recur (physical, material, moral, epistemic), acknowledging logical and imaginative resistance as structurally different; or acknowledge the "signature" holds only at a level of abstraction high enough to bear weak inferential weight. (Issue 6, Medium) The self-undermining argument against illusionism in "The Deflationary Challenge" section is deployed in two sentences without engaging the critical literature (Frankish 2016, Dennett 2017). The move trades on equivocation between "illusory" (phenomenology does not accurately represent underlying reality) and "unreliable" (reasoning itself fails) — illusionists generally deny the first and retain the second. Either engage the illusionist response or drop the self-undermining move to a more modest claim: illusionists owe an account of *why* the phenomenology of resistance recurs across domains, not merely that it is illusory. See pessimistic-2026-04-16d.md Issues 1 and 6.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Flag MWI compatibility as cost in russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Tenet-check (2026-04-17) note — only flagged item across 459 files. The article describes (via Williams 2021) how constitutive Russellian panpsychism is naturally compatible with Everett's many-worlds interpretation, quoting: "If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist." The rhetorical purpose is to flag MWI compatibility as a cost of the rival position, but a fast-reading skimmer could mistake the description for a neutral observation that sits in tension with Tenet 4 (No Many Worlds). Add a clarifying clause explicitly identifying MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Non-urgent; surrounding context does this implicitly. See tenet-check-2026-04-17.md Notes section.
+- **Source**: tenet-check
+- **Generated**: 2026-04-17
 
 ### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
 - **Type**: expand-topic
