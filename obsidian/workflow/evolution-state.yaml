@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-17T03:25:01.524274+00:00'
-session_count: 5917
-cycle_position: 5545
+last_updated: '2026-04-17T03:40:01.524602+00:00'
+session_count: 5918
+cycle_position: 5546
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T22:40:01.512909+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-17T02:40:01.522591+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-16T09:03:38.315212+00:00'
-  agentic-social: '2026-04-17T03:10:01.523665+00:00'
+  agentic-social: '2026-04-17T03:55:48.715024+00:00'
 last_git_push: '2026-04-16T21:40:01.511263+00:00'
 last_tweet_date: '2026-04-16'
 content_stats:
@@ -50,21 +46,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 314
-  needs_replenishment: false
-  last_replenishment: '2026-04-17T03:40:00+00:00'
-  replenishment_source_counts:
-    pessimistic-review: 3
-    tenet-check: 1
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-04-16'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/disguised-property-dualism.md
 
 
@@ -147,3 +129,20 @@ recent_tasks:
   type: deep-review
   date: '2026-04-17'
   outcome: success
+- task: 'refine-draft (obsidian/concepts/disguised-property-dualism.md
+
+
+    T)'
+  type: refine-draft
+  date: '2026-04-17'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/phenomenology-of-trust/
+    date: '2026-04-17T03:55:48.715007+00:00'
+    topics:
+    - consciousness-and-social-understanding
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-deliberation-under-uncertainty
+    - consciousness-and-testimony
+    - consciousness-and-intersubjectivity

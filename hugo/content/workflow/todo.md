@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 00:56:00+00:00
+ai_modified: 2026-04-17 03:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Narrow unified-resistance signature claim and engage illusionist literature in phenomenology-of-resistance-across-domains.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-16d) Issues 1 & 6, same article. (Issue 1, Medium) The claim that three specific features (directedness-meeting-constraint, graded yielding, asymmetric temporality) recur across all six domains is strained in at least two cases: logical resistance has binary, not graded, yielding ("2+2=5" does not yield gradually); imaginative resistance (Gendler's puzzle) is not about sustained effort gradually overcoming resistance but about an immediate jarring response. Either narrow the claim to domains where the three features genuinely recur (physical, material, moral, epistemic), acknowledging logical and imaginative resistance as structurally different; or acknowledge the "signature" holds only at a level of abstraction high enough to bear weak inferential weight. (Issue 6, Medium) The self-undermining argument against illusionism in "The Deflationary Challenge" section is deployed in two sentences without engaging the critical literature (Frankish 2016, Dennett 2017). The move trades on equivocation between "illusory" (phenomenology does not accurately represent underlying reality) and "unreliable" (reasoning itself fails) — illusionists generally deny the first and retain the second. Either engage the illusionist response or drop the self-undermining move to a more modest claim: illusionists owe an account of *why* the phenomenology of resistance recurs across domains, not merely that it is illusory. See pessimistic-2026-04-16d.md Issues 1 and 6.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Flag MWI compatibility as cost in russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Tenet-check (2026-04-17) note — only flagged item across 459 files. The article describes (via Williams 2021) how constitutive Russellian panpsychism is naturally compatible with Everett's many-worlds interpretation, quoting: "If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist." The rhetorical purpose is to flag MWI compatibility as a cost of the rival position, but a fast-reading skimmer could mistake the description for a neutral observation that sits in tension with Tenet 4 (No Many Worlds). Add a clarifying clause explicitly identifying MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Non-urgent; surrounding context does this implicitly. See tenet-check-2026-04-17.md Notes section.
+- **Source**: tenet-check
+- **Generated**: 2026-04-17
 
 ### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
 - **Type**: expand-topic
@@ -2246,6 +2260,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Specify what counts as "showing reduction" in disguised-property-dualism.md diagnostic
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): The three-condition diagnostic's condition (3) "No reduction is shown" is not given a standard. Type-B physicalists hold that water=H₂O is an identity not derived from water-concepts but discovered a posteriori — the reduction is "exhibited" by empirical investigation, not by logical derivation. Without a standard, almost any physicalist theory with a hard-problem-acknowledging architecture will fail condition (3), because the relevant reductions are philosophical end-states, not current achievements. Specify what would count as "showing" reduction (logical derivation? Empirical identity claim backed by a research programme? Explanation of why the two descriptions co-vary?). Better: acknowledge explicitly that the diagnostic is stance-sensitive and its utility is heuristic rather than demonstrative. The article's current subsection "How the diagnostic applies to the Map's own view" (added 2026-04-17) partially addresses the Map-self-application worry but does not specify the reduction standard the disguised variants are being measured against. See pessimistic-2026-04-16d.md Issue 2.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
+
+Task context:
+Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): The three-condition diagnostic's condition (3) "No reduction is shown" is not given a standard. Type-B physicalists hold that water=H₂O is an identity not derived from water-concepts but discovered a posteriori — the reduction is "exhibited" by empirical investigation, not by logical derivation. Without a standard, almost any physicalist theory with a hard-problem-acknowledging architecture will fail condition (3), because the relevant reductions are philosophical end-states, not current achievements. Specify what would count as "showing" reduction (logical derivation? Empirical identity claim backed by a research programme? Explanation of why the two descriptions co-vary?). Better: acknowledge explicitly that the diagnostic is stance-sensitive and its utility is heuristic rather than demonstrative. The article's current subsection "How the diagnostic applies to the Map's own view" (added 2026-04-17) partially addresses the Map-self-application worry but does not specify the reduction standard the disguised variants are being measured against. See pessimistic-2026-04-16d.md Issue 2.
+
+### ✓ 2026-04-17: Specify what counts as "showing reduction" in disguised-property-dualism.md diagnostic
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): condition (3) "No reduction is shown" lacked an explicit standard. Replaced condition (3) with a three-form standard for "showing" — (i) logical derivation, (ii) empirical identity grounded in an explanatory bridge (Nagelian pattern, water = H₂O via molecular geometry), or (iii) a progressive research programme exhibiting accumulating unification. The third form addresses the review's concern that the diagnostic would otherwise catch any unfinished programme. Made stance-sensitivity and heuristic character explicit. Updated the Map-self-application subsection to reference the three standards directly: Markovian monism fails all three; Russellian monism is blocked from (i) and (ii) by construction (Pautz blocks iii); IIT's identity is axiomatic. Also updated "Why the Pattern Recurs" for consistency.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
 
 ### ✓ 2026-04-17: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
 - **Type**: cross-review

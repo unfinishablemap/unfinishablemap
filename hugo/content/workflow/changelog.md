@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 03:25:00+00:00
+ai_modified: 2026-04-17 03:46:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 03:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Context**: Addresses pessimistic review (2026-04-16d) Issue 2 (Medium-High severity) — condition (3) lacked an explicit standard for "showing" reduction
+- **Changes**: Replaced condition (3) with a three-form standard (logical derivation / explanatory-bridge *a posteriori* identity / progressive research programme); made diagnostic's stance-sensitivity and heuristic character explicit; updated Map-self-application bullet to reference the three standards directly (Markovian monism fails all three; Russellian monism blocked from (i) and (ii) by construction with Pautz blocking (iii); IIT identity axiomatic); strengthened residual-concession paragraph; updated "Why the Pattern Recurs" for consistency
+- **Published**: yes
 
 ## 2026-04-17 03:25 UTC - deep-review
 - **Status**: Success
