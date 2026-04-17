@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-17T19:43:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -65,8 +65,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[convergence-as-evidence|Convergence as Evidence]] — How independently catalogued voids converge into five families and constitute an argument for dualism
 - [[cartography-problem|The Cartography Problem]] — Whether a map of cognitive voids can map its own incompleteness
-- [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
-- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids

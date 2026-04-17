@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 19:30:00+00:00
+ai_modified: 2026-04-17 19:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 19:43 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/tenet-generated-voids]], [[voids/voids]], [[voids/observation-and-measurement-void]]
+- **Task**: P2 "Update references to coalesced dissolution-problem" — redirect wikilinks to absorbed target
+- **Changes**:
+  - tenet-generated-voids.md: `related_articles` dissolution-problem → meta-epistemology-of-limits; body link (line 109) and Further Reading (line 176) now point to `meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution`
+  - voids.md: removed redundant dissolution-problem bullet; folded its description into the meta-epistemology bullet directly below it
+  - observation-and-measurement-void.md: removed dissolution-problem from `related_articles` (meta-epistemology-of-limits already a topic); body link (line 116) and Further Reading (line 150) redirected to the section anchor
+- **Todo updated**: task marked complete
+- **Published**: yes (changes uncommitted; automation to commit)
 
 ## 2026-04-17 19:30 UTC - coalesce
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-02-27
 human_modified: null
-ai_modified: 2026-04-13T06:56:00+00:00
+ai_modified: 2026-04-17T19:43:00+00:00
 draft: false
 last_deep_review: 2026-04-13T06:56:00+00:00
 topics: []
@@ -26,7 +26,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[the-surplus-void]]"
   - "[[phenomenal-quality-void]]"
-  - "[[dissolution-problem]]"
+  - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -106,7 +106,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 ## The Nature of These Limits
 
-These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [[dissolution-problem|dissolution problem]] cautions that persistence alone never proves permanence):
+These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [[meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution|dissolution problem]] cautions that persistence alone never proves permanence):
 
 The interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643, suggesting structural difficulty rather than insufficient effort.
 
@@ -173,7 +173,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers more than function requires
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience presents as immediately given
-- [[dissolution-problem|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
+- [[meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution|The Dissolution Problem]] — Why we cannot predict which cognitive limits will prove permanent
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 
 ## References

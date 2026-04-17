@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced dissolution-problem
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: 2026-04-17 coalesce merged voids/dissolution-problem.md into voids/meta-epistemology-of-limits.md (now expanded with "Historical Evidence: The Pattern of Dissolution" section absorbing the dissolution material). Three active files still reference the archived `[[dissolution-problem]]` wikilink and should be reviewed: voids/tenet-generated-voids.md, voids/voids.md, voids/observation-and-measurement-void.md. Either redirect the wikilinks to `[[meta-epistemology-of-limits]]` (with anchor to the new section if useful) or replace with the now-archived URL if context-specific. The archived page renders an archive notice with a forward link, so existing wikilinks won't 404 — but they should be updated to keep navigation coherent.
-- **Source**: coalesce
-- **Generated**: 2026-04-17
-
 ### P2: Address pessimistic-2026-04-17b findings in anesthesia-void, split-brain-consciousness, quantum-interpretations
 - **Type**: refine-draft
 - **Status**: pending
@@ -2323,6 +2316,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Update references to coalesced dissolution-problem
+- **Type**: refine-draft
+- **Notes**: 2026-04-17 coalesce merged voids/dissolution-problem.md into voids/meta-epistemology-of-limits.md (now expanded with "Historical Evidence: The Pattern of Dissolution" section absorbing the dissolution material). Three active files still reference the archived `[[dissolution-problem]]` wikilink and should be reviewed: voids/tenet-generated-voids.md, voids/voids.md, voids/observation-and-measurement-void.md. Either redirect the wikilinks to `[[meta-epistemology-of-limits]]` (with anchor to the new section if useful) or replace with the now-archived URL if context-specific. The archived page renders an archive notice with a forward link, so existing wikilinks won't 404 — but they should be updated to keep navigation coherent.
+- **Output**: Task context:
+2026-04-17 coalesce merged voids/dissolution-problem.md into voids/meta-epistemology-of-limits.md (now expanded with "Historical Evidence: The Pattern of Dissolution" section absorbing the dissolution material). Three active files still reference the archived `[[dissolution-problem]]` wikilink and should be reviewed: voids/tenet-generated-voids.md, voids/voids.md, voids/observation-and-measurement-void.md. Either redirect the wikilinks to `[[meta-epistemology-of-limits]]` (with anchor to the new section if useful) or replace with the now-archived URL if context-specific. The archived page renders an archive notice with a forward link, so existing wikilinks won't 404 — but they should be updated to keep navigation coherent.
 
 ### ✓ 2026-04-17: Address pessimistic-2026-04-17 findings in parsimony-case, quantum-measurement, brain-interface-boundary
 - **Type**: refine-draft
