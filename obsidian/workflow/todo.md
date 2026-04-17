@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address rhetorical loading, unsupported claims, and epiphenomenalism supervenience in parsimony-case-for-interactionist-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17) flagged three remaining clusters not touched by the 04:55 refine-draft. (1) Language Improvements table: "bookkeeping trick," "disarmingly simple," "staggering coincidence/scope," "nature proved more complex than parsimony predicted" are rhetorically loaded or question-begging — rephrase to neutral formulations. (2) Unsupported Claims table: "Every conscious being acts as though their mental states cause their behaviour" is presented as pre-theoretic but is theory-laden; "physicalist theories are not converging" needs comparison to other pre-paradigmatic programmes before the inference goes through. (3) Counterargument re epiphenomenalism: "staggering coincidence" framing misrepresents contemporary epiphenomenalism — causal supervenience accounts (Jackson's later work, Robinson) hold phenomenal properties supervene on physical properties that *do* cause behaviour, making correlation lawlike rather than coincidental. Distinguish parallelist epiphenomenalism (where coincidence objection works) from supervenience variants and argue against the latter on different grounds. See reviews/pessimistic-2026-04-17.md.
-- **Source**: pessimistic-review (chain from 2026-04-17 04:40 UTC)
-- **Generated**: 2026-04-17
-
 ### P2: Condense boundary-and-projection.md (3547 words, 118% of hard threshold)
 - **Type**: condense
 - **Notes**: Voids article — result of the 2026-04-17 coalesce merging boundary-void.md and projection-void.md — exceeds the 3000-word hard threshold for voids/. Preserve both subtheses (the boundary-selection mechanism and the phenomenal-projection structure) and the five tenet connections while removing redundancy introduced by the merger. Target: ~2400 words (within soft threshold). See /condense skill.
@@ -2271,6 +2264,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address rhetorical loading, unsupported claims, and epiphenomenalism supervenience in parsimony-case-for-interactionist-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17) flagged three remaining clusters not touched by the 04:55 refine-draft. (1) Language Improvements table: "bookkeeping trick," "disarmingly simple," "staggering coincidence/scope," "nature proved more complex than parsimony predicted" are rhetorically loaded or question-begging — rephrase to neutral formulations. (2) Unsupported Claims table: "Every conscious being acts as though their mental states cause their behaviour" is presented as pre-theoretic but is theory-laden; "physicalist theories are not converging" needs comparison to other pre-paradigmatic programmes before the inference goes through. (3) Counterargument re epiphenomenalism: "staggering coincidence" framing misrepresents contemporary epiphenomenalism — causal supervenience accounts (Jackson's later work, Robinson) hold phenomenal properties supervene on physical properties that *do* cause behaviour, making correlation lawlike rather than coincidental. Distinguish parallelist epiphenomenalism (where coincidence objection works) from supervenience variants and argue against the latter on different grounds. See reviews/pessimistic-2026-04-17.md.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md
+
+Task context:
+Pessimistic review (2026-04-17) flagged three remaining clusters not touched by the 04:55 refine-draft. (1) Language Improvements table: "bookkeeping trick," "disarmingly simple," "staggering coincidence/scope," "nature proved more complex than parsimony predicted" are rhetorically loaded or question-begging — rephrase to neutral formulations. (2) Unsupported Claims table: "Every conscious being acts as though their mental states cause their behaviour" is presented as pre-theoretic but is theory-laden; "physicalist theories are not converging" needs comparison to other pre-paradigmatic programmes before the inference goes through. (3) Counterargument re epiphenomenalism: "staggering coincidence" framing misrepresents contemporary epiphenomenalism — causal supervenience accounts (Jackson's later work, Robinson) hold phenomenal properties supervene on physical properties that *do* cause behaviour, making correlation lawlike rather than coincidental. Distinguish parallelist epiphenomenalism (where coincidence objection works) from supervenience variants and argue against the latter on different grounds. See reviews/pessimistic-2026-04-17.md.
 
 ### ✓ 2026-04-17: Address post-decoherence selection explanatory vacuity in brain-interface-boundary.md
 - **Type**: refine-draft

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 08:55:00+00:00
+ai_modified: 2026-04-17 09:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 09:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Task**: Address three remaining clusters from pessimistic-2026-04-17 not touched by the 04:55 refine — loaded language (Language Improvements table), theory-laden/comparative-data claims (Unsupported Claims table), and misrepresentation of contemporary epiphenomenalism (Counterarguments)
+- **Changes**: Neutralised loaded phrasings ("bookkeeping trick", "disarmingly simple", "staggering coincidence/scope", "nature proved more complex than parsimony predicted") with descriptive equivalents and renamed "The Bookkeeping Trick" section to "What the Standard Argument Counts"; reframed "Every conscious being acts as though their mental states cause their behaviour" as explananda any theory must address rather than pre-theoretic evidence of causation; softened "convergence has not occurred" to bind it to the comparative context already provided; restructured "Interactionism Over Epiphenomenalism" to distinguish parallelist variants (coincidence objection still sharp) from supervenience variants (Jackson's later work, Robinson — lawlike correlation, coincidence objection inapplicable), argued against supervenience variants on first-person-efficacy grounds instead, and labelled the overall interactionist advantage as real but narrower than standard presentations suggest
+- **Published**: yes (draft: false)
 
 ## 2026-04-17 08:55 UTC - refine-draft
 - **Status**: Success

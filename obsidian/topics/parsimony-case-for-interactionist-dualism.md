@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-17T04:55:00+00:00
+ai_modified: 2026-04-17T09:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,13 +32,13 @@ last_curated:
 last_deep_review: 2026-03-28T16:03:00+00:00
 ---
 
-The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] emerges as the more parsimonious position. Physicalism's apparent simplicity is a bookkeeping trick: it hides enormous debts off the balance sheet.
+The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] emerges as the more parsimonious position. Physicalism's apparent simplicity counts only ontological categories, leaving other explanatory costs off the ledger.
 
-## The Bookkeeping Trick
+## What the Standard Argument Counts
 
-The standard parsimony argument against dualism is disarmingly simple: physicalism posits one substance type, dualism posits two. One is less than two. Prefer physicalism.
+The standard parsimony argument against dualism is straightforward: physicalism posits one substance type, dualism posits two. One is less than two. Prefer physicalism.
 
-This argument counts ontological categories and nothing else. It is like comparing the simplicity of two accounting systems by counting the number of account types while ignoring that one system has billions in unreconciled liabilities. [[parsimony-epistemology#Three Dimensions of Simplicity|Simplicity has three dimensions]] — ontological, syntactic, and explanatory — and physicalism's advantage on the first is purchased at steep cost on the other two. The [[arguments-against-materialism|broader case against materialism]] converges on the same conclusion from multiple independent directions; what follows is the parsimony-specific version of that convergence.
+This argument counts ontological categories and nothing else. Comparing two accounting systems only by the number of account types, while ignoring unreconciled liabilities in each, gives a partial picture at best. [[parsimony-epistemology#Three Dimensions of Simplicity|Simplicity has three dimensions]] — ontological, syntactic, and explanatory — and physicalism's advantage on the first is purchased at significant cost on the other two. The [[arguments-against-materialism|broader case against materialism]] converges on the same conclusion from multiple independent directions; what follows is the parsimony-specific version of that convergence.
 
 Zanotti (2021) makes this precise. Physicalism's ontological economy comes with what he calls the "burden of parsimony" — the explanatory debts that accumulate when consciousness must be accommodated within a framework that provides no natural place for it. These debts are not speculative future problems. They are present structural features of every physicalist programme.
 
@@ -48,7 +48,7 @@ Before examining the positive case, the defensive point deserves emphasis: parsi
 
 Huemer (2009) surveyed four contemporary justifications for preferring simpler theories — likelihoodist, curve-fitting, prior probability, and pragmatic — and concluded that "none of the accounts of the virtue of parsimony extends naturally" to philosophical cases like physicalism versus dualism. The justifications that make parsimony powerful in empirical science (where competing theories generate different testable predictions) have no foothold in metaphysical disputes where no differential predictions exist. The razor was forged for a different material.
 
-The historical record reinforces this. Mach denied atoms on parsimony grounds. Geocentrism was more parsimonious than heliocentrism. Caloric theory was simpler than kinetic theory. In each case, nature proved more complex than parsimony predicted. As Masi (2023) documents, "If one misses the complexity and does not know all the underlying laws, processes, and variables that determine a phenomenon, invoking uncritically Occam's razor will almost certainly lead to an oversimplification." The consciousness debate — where the underlying laws, processes, and variables remain unknown — is precisely the kind of case where parsimony is least trustworthy.
+The historical record reinforces this. Mach denied atoms on parsimony grounds. Geocentrism was more parsimonious than heliocentrism. Caloric theory was simpler than kinetic theory. In each case, the simpler theory turned out to be false. As Masi (2023) documents, "If one misses the complexity and does not know all the underlying laws, processes, and variables that determine a phenomenon, invoking uncritically Occam's razor will almost certainly lead to an oversimplification." The consciousness debate — where the underlying laws, processes, and variables remain unknown — is precisely the kind of case where parsimony is least trustworthy.
 
 Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Lycan nonetheless concludes that dualism should be rejected, arguing that parsimony considerations accumulated across many domains still outweigh the argument-by-argument inconclusiveness. The Map reads the premise and the conclusion as separable: the premise — that no specific argument against dualism succeeds on its own terms — survives whatever weight one assigns to accumulated parsimony, and it is precisely the authority of that accumulated-parsimony verdict that the rest of this article contests. Even Churchland acknowledges in *Matter and Consciousness* that the razor is "inconclusive regarding duality" — a striking concession from a committed eliminativist. When the prosecution's own witnesses grant that each specific argument is weak while resting their verdict on a principle whose authority this article is questioning, the positive reversal that follows carries additional force. (For the full defensive case, see [[parsimony-epistemology]].)
 
@@ -56,7 +56,7 @@ Most tellingly, parsimony's own advocates have abandoned or qualified the argume
 
 ### The Proliferation Problem
 
-If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [[functionalism]], [[higher-order-theories|higher-order thought theory]], [[higher-order-theories|higher-order perception theory]], [[global-workspace-theory]], [[illusionism]], eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] exemplifies the pattern at its sharpest: each concession physicalists make to distinguish biological from digital computation—substrate dependence, metabolic grounding, hybrid processing—maps onto a classical argument for dualism. This [[concession-convergence]] pattern recurs across physicalist frameworks.
+If physicalism were a natural fit for consciousness, one would expect convergence on a solution. After several decades of sustained effort, convergence has not emerged — an observation that, as the next paragraphs discuss, admits more than one interpretation. Physicalists have generated [[functionalism]], [[higher-order-theories|higher-order thought theory]], [[higher-order-theories|higher-order perception theory]], [[global-workspace-theory]], [[illusionism]], eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] exemplifies the pattern at its sharpest: each concession physicalists make to distinguish biological from digital computation—substrate dependence, metabolic grounding, hybrid processing—maps onto a classical argument for dualism. This [[concession-convergence]] pattern recurs across physicalist frameworks.
 
 A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. This response has real force. Pre-paradigmatic programmes often show long periods of theoretical diversity: cosmology proliferated before the cosmic microwave background settled large questions, and evolutionary biology fragmented before molecular genetics provided a unifying substrate. The consciousness programme is young relative to the difficulty of its target, and decades of non-convergence do not by themselves establish fundamental mismatch.
 
@@ -90,11 +90,17 @@ The dimensional reversal undermines the standard argument's implicit assumption:
 
 ## Interactionism Over Epiphenomenalism
 
-Among dualist positions, interactionism has its own parsimony advantage. Koksvik argues that interactionism is simpler than [[concepts/epiphenomenalism]] because epiphenomenalism must explain away the universal appearance of [[mental-causation-and-downward-causation|mental causation]].
+Among dualist positions, interactionism has its own parsimony advantage, though the scope of the advantage depends on which epiphenomenalist variant is the target. Koksvik's simplicity argument against [[concepts/epiphenomenalism]] works cleanly against one family of views and requires different grounds against another.
 
-Every conscious being acts as though their mental states cause their behaviour. Pain causes avoidance. Belief guides action. Intention precedes effort. Epiphenomenalism holds that this universal appearance is systematically misleading — consciousness tracks behaviour with perfect fidelity but causes none of it. This requires a coincidence of staggering scope: phenomenal states happen to correlate perfectly with the physical states that actually cause behaviour, despite having no causal connection to them.
+The behavioural patterns any theory of mind must accommodate are familiar: pain tracks avoidance, belief tracks reported action, intention tracks effort. Whether those patterns establish [[mental-causation-and-downward-causation|mental causation]] depends on the interpretive framework — the behavioural evidence alone does not settle the question. But the patterns are the explananda every theory must address.
 
-Interactionism takes the appearance at face value. Mental states cause behaviour because consciousness genuinely influences physical outcomes. The correlation between experience and action is not coincidental — it is causal. This is the simpler account: it posits no unexplained coincidence and requires no error theory about the most basic feature of agency.
+Against *parallelist* epiphenomenalism — the view that phenomenal and physical states run in parallel with no causal or constitutive connection — the parsimony objection is sharp. Parallelism posits a systematic correlation between two independent series without a mechanism underwriting it; the alignment has to be treated as brute or as the outcome of pre-established harmony. That is a substantial explanatory cost, and it is the target against which the Koksvik-style argument succeeds.
+
+Against *supervenience* epiphenomenalism — the position Jackson endorsed in his later work, and defended in detail by Robinson — the coincidence framing loses its grip. On that view, phenomenal properties supervene on physical properties that *do* cause behaviour, so the correlation between experience and action is lawlike rather than coincidental. Supervenience underwrites the alignment directly; no independent correlation between distinct series need be posited.
+
+The case against supervenience epiphenomenalism therefore runs on different grounds. The phenomenal properties it preserves are explanatorily idle — present in the world but contributing nothing to what the subject does. This conflicts with [[phenomenal-authority-and-first-person-evidence|first-person evidence]] of mental efficacy: the sense that thirst contributes to reaching for water, not merely accompanies it. Interactionism accommodates that evidence at face value; supervenience epiphenomenalism must treat it as an artefact of the subvenient physical process.
+
+The interactionist advantage is therefore real but narrower than standard presentations suggest. Against parallelist variants it is an ontological point: no brute correlation between independent series need be posited. Against supervenience variants it is a first-personal point: interactionism takes phenomenal efficacy at face value where supervenience epiphenomenalism explains it away. Neither point on its own decides the matter; together they give interactionism a defensible edge within the dualist family.
 
 ## The Modesty Argument
 
@@ -151,14 +157,28 @@ The Map speculates that the standard parsimony argument persists not because of 
 11. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
 12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
 
-<!-- AI REFINEMENT LOG - 2026-04-17
-Changes made (addressing pessimistic-2026-04-17 Issues 1, 2, 7):
-- Modesty Argument section: rewrote to acknowledge that dualism's "one claim" expands into several sub-problems (coupling domain, functional form, determinism/probabilism, conservation, pairing, grounding) just as physicalism's three debts do — framing shifted from "one problem vs. three identifications" to a symmetric ledger that blocks the modesty argument from rescuing the razor while claiming only a weaker structural advantage (coherent posing) for dualism.
-- Three Unavoidable Debts closing paragraph: replaced "one open problem, not three structural debts" with an explicit enumeration of the sub-problems psychophysical laws generate; reframed dualism's advantage as coherently-posed sub-problems rather than fewer sub-problems.
-- Lycan quote (Precondition section): added his paper's actual conclusion — that dualism should still be rejected on accumulated parsimony grounds — and explained the Map's reading of premise and conclusion as separable, engaging Lycan honestly rather than selectively.
-- Proliferation Problem (second paragraph): softened the inference from current physicalist non-convergence to fundamental mismatch; explicitly acknowledged that pre-paradigmatic programmes (cosmology pre-CMB, evolutionary biology pre-molecular genetics) also showed long proliferation; retained the *structural* incompatibility observation but labelled it suggestive rather than dispositive.
+<!-- AI REFINEMENT LOG - 2026-04-17 (09:10 UTC revision)
+Second pass addressing three clusters from pessimistic-2026-04-17 not touched by the 04:55 refine:
 
-Preserved throughout: voice, argument structure (dimensional reversal, idealism symmetry, Maxwell analogy), tenet connection, rhetorical shape.
+Cluster 1 — loaded language neutralised:
+- Opening paragraph: "bookkeeping trick: it hides enormous debts off the balance sheet" → "counts only ontological categories, leaving other explanatory costs off the ledger" (keeps accounting imagery but drops question-begging "trick").
+- Section header "The Bookkeeping Trick" → "What the Standard Argument Counts" (neutral descriptor).
+- Opening of that section: "disarmingly simple" → "straightforward" (editorial flourish removed).
+- Accounting analogy in same section: retained the explanatory comparison but dropped the "billions in unreconciled liabilities" rhetorical flourish in favour of a neutral parallel claim.
+- Parsimony-history paragraph: "nature proved more complex than parsimony predicted" → "the simpler theory turned out to be false" (drops anthropomorphism of parsimony).
+- Epiphenomenalism section: eliminated "coincidence of staggering scope" framing (see Cluster 3).
+
+Cluster 2 — theory-laden / comparative-data claims reframed:
+- "Every conscious being acts as though their mental states cause their behaviour" (presented as pre-theoretic) → reframed as "behavioural patterns any theory of mind must accommodate" with explicit acknowledgement that "whether those patterns establish mental causation depends on the interpretive framework — the behavioural evidence alone does not settle the question." Patterns are now flagged as explananda rather than evidence of causation.
+- Proliferation Problem opening: "The opposite has occurred" (absolute) → "After several decades of sustained effort, convergence has not emerged — an observation that, as the next paragraphs discuss, admits more than one interpretation." Binds the claim more tightly to the comparative context the following paragraph provides (cosmology pre-CMB, evolutionary biology pre-molecular genetics).
+
+Cluster 3 — Epiphenomenalism counterargument restructured (largest change):
+- Old "Interactionism Over Epiphenomenalism" section treated all epiphenomenalism as vulnerable to the "staggering coincidence" objection. This misrepresents contemporary supervenience variants (Jackson's later work, Robinson), on which phenomenal properties supervene on physical properties that cause behaviour — making the correlation lawlike rather than coincidental.
+- Rewrote the section to distinguish parallelist epiphenomenalism (where the coincidence objection remains sharp, because parallelism posits alignment between independent series with no mechanism) from supervenience epiphenomenalism (where the coincidence objection loses its grip because supervenience underwrites the alignment directly).
+- Argued against supervenience variants on different grounds: the phenomenal properties they preserve are explanatorily idle, conflicting with first-person evidence of mental efficacy (link added to phenomenal-authority-and-first-person-evidence).
+- Concluding paragraph now explicitly labels the interactionist advantage as narrower than standard presentations: an ontological point against parallelism, a first-personal point against supervenience, with neither alone decisive.
+
+Preserved throughout: voice, overall argument structure (dimensional reversal, idealism symmetry, Maxwell analogy, modesty draw), tenet connection, references list, rhetorical shape.
 
 This log should be removed after human review.
 -->
