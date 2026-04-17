@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 09:22:00+00:00
+ai_modified: 2026-04-17 09:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 09:26 UTC - condense
+- **Status**: Success
+- **File**: [[voids/boundary-and-projection]]
+- **Before**: 3547 words
+- **After**: 2585 words
+- **Reduction**: 27%
+- **Technique**: Tightened prose throughout; compressed "Distinction from Adjacent Voids" section (5 paragraphs → bullet list); merged the Mastery and Resistance-to-override sub-points under "When the Perimeter Shifts"; removed redundant restatements in opening of each section and trimmed quoted material in projection examples; preserved opening summary, all unique arguments, full "Relation to Site Perspective" with all five tenet connections, and the cross-link inventory
 
 ## 2026-04-17 09:22 UTC - apex-evolve
 - **Status**: Complete

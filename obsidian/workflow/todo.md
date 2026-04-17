@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense boundary-and-projection.md (3547 words, 118% of hard threshold)
-- **Type**: condense
-- **Notes**: Voids article — result of the 2026-04-17 coalesce merging boundary-void.md and projection-void.md — exceeds the 3000-word hard threshold for voids/. Preserve both subtheses (the boundary-selection mechanism and the phenomenal-projection structure) and the five tenet connections while removing redundancy introduced by the merger. Target: ~2400 words (within soft threshold). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-17
-
 ### P2: Update references to coalesced boundary-void and projection-void → boundary-and-projection
 - **Type**: refine-draft
 - **Notes**: Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
@@ -2264,6 +2258,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Condense boundary-and-projection.md (3547 words, 118% of hard threshold)
+- **Type**: condense
+- **Notes**: Voids article — result of the 2026-04-17 coalesce merging boundary-void.md and projection-void.md — exceeds the 3000-word hard threshold for voids/. Preserve both subtheses (the boundary-selection mechanism and the phenomenal-projection structure) and the five tenet connections while removing redundancy introduced by the merger. Target: ~2400 words (within soft threshold). See /condense skill.
+- **Output**: obsidian/voids/boundary-and-projection.md
 
 ### ✓ 2026-04-17: Address rhetorical loading, unsupported claims, and epiphenomenalism supervenience in parsimony-case-for-interactionist-dualism.md
 - **Type**: refine-draft
