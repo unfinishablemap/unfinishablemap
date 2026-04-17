@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review mapping-mind-space.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-04-17 via coalesce (merged mind-space-void and dimensionality-void), never deep-reviewed. Verify the merge preserved coherence across the location-problem and dimensionality-problem threads, eliminated redundancy cleanly, maintained consistent treatment of Shanahan/Perry/Lewis location arguments alongside Abbott/Sjöstedt-Hughes dimensionality arguments, and aligns with the Map's tenets. Check cross-references to commensurability-void, recognition-void, limits-reveal-structure, biological-cognitive-closure, phenomenology-of-the-edge, alien-minds-void-explorers, and evolutionary-case-for-quantum-neural-effects.
-- **Source**: chain (from 2026-04-17 coalesce)
-- **Generated**: 2026-04-17
-
 ### P2: Deep review apex/testing-the-map-from-inside.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2281,6 +2274,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review mapping-mind-space.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-04-17 via coalesce (merged mind-space-void and dimensionality-void), never deep-reviewed. Verify the merge preserved coherence across the location-problem and dimensionality-problem threads, eliminated redundancy cleanly, maintained consistent treatment of Shanahan/Perry/Lewis location arguments alongside Abbott/Sjöstedt-Hughes dimensionality arguments, and aligns with the Map's tenets. Check cross-references to commensurability-void, recognition-void, limits-reveal-structure, biological-cognitive-closure, phenomenology-of-the-edge, alien-minds-void-explorers, and evolutionary-case-for-quantum-neural-effects.
+- **Output**: obsidian/voids/mapping-mind-space.md
 
 ### ✓ 2026-04-17: Condense mapping-mind-space.md (3070 words, 154% of target)
 - **Type**: condense

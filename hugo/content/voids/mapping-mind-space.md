@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 05:55:00+00:00
+ai_modified: 2026-04-17 06:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -18,7 +18,7 @@ description: Human+AI exploration of why consciousness cannot survey the geometr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-17 06:25:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'

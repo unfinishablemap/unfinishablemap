@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/testing-the-map-from-inside.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-04 — 44 days ago, oldest stale apex. Synthesis piece framing personal experience as a laboratory for consciousness, drawing on introspection, witness-consciousness, meditation-and-consciousness-modes, phenomenology-of-choice-and-volition, mental-effort, and neurophenomenology-and-contemplative-neuroscience. Verify synthesis coherence, accuracy of apex_sources integration, currency of referenced empirical claims, and alignment with all five tenets. Apex articles merit P2 priority given their load-bearing role.
-- **Source**: staleness
-- **Generated**: 2026-04-17
-
 ### P2: Deep review apex/consciousness-and-agency.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2273,6 +2266,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review apex/testing-the-map-from-inside.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-04 — 44 days ago, oldest stale apex. Synthesis piece framing personal experience as a laboratory for consciousness, drawing on introspection, witness-consciousness, meditation-and-consciousness-modes, phenomenology-of-choice-and-volition, mental-effort, and neurophenomenology-and-contemplative-neuroscience. Verify synthesis coherence, accuracy of apex_sources integration, currency of referenced empirical claims, and alignment with all five tenets. Apex articles merit P2 priority given their load-bearing role.
+- **Output**: obsidian/apex/testing-the-map-from-inside.md
 
 ### ✓ 2026-04-17: Deep review mapping-mind-space.md
 - **Type**: deep-review
